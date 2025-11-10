@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
 - image_filename: 2021_07_24__13_25_DSC03058.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.407916666666665
@@ -18,23 +16,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 13:25:17.000000000+02:00
-- image_filename: 2021_07_24__13_34_DSC03079.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.42794444444444
-  lon: 19.190805555555556
-  altitude: 71.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5839
-  height: 3885
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 13:34:38.000000000+02:00
 - image_filename: 2021_07_24__13_29_DSC03069.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.41923611111111
@@ -69,6 +50,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 13:30:03.000000000+02:00
+- image_filename: 2021_07_24__13_34_DSC03079.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.42794444444444
+  lon: 19.190805555555556
+  altitude: 71.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5839
+  height: 3885
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 13:34:38.000000000+02:00
 - image_filename: 2021_07_24__13_34_DSC03082.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.42794444444444
@@ -137,23 +135,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 13:42:04.000000000+02:00
-- image_filename: 2021_07_24__13_50_DSC03103.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.45044444444445
-  lon: 19.16634722222222
-  altitude: 53.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5734
-  height: 3833
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 13:50:45.000000000+02:00
 - image_filename: 2021_07_24__13_50_DSC03102.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.45044444444445
@@ -171,6 +152,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 13:50:42.000000000+02:00
+- image_filename: 2021_07_24__13_50_DSC03103.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.45044444444445
+  lon: 19.16634722222222
+  altitude: 53.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5734
+  height: 3833
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 13:50:45.000000000+02:00
 - image_filename: 2021_07_24__13_51_DSC03106.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.45044444444445
@@ -222,6 +220,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 13:51:23.000000000+02:00
+- image_filename: 2021_07_24__13_51_DSC03111.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.45068055555556
+  lon: 19.16476388888889
+  altitude: 53.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 160
+  width: 5895
+  height: 3922
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 13:51:31.000000000+02:00
 - image_filename: 2021_07_24__13_54_DSC03113.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.45863888888889
@@ -256,23 +271,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 13:55:26.000000000+02:00
-- image_filename: 2021_07_24__13_51_DSC03111.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.45068055555556
-  lon: 19.16476388888889
-  altitude: 53.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 160
-  width: 5895
-  height: 3922
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 13:51:31.000000000+02:00
 - image_filename: 2021_07_24__13_55_DSC03120.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.46054166666667
@@ -324,23 +322,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 13:57:38.000000000+02:00
-- image_filename: 2021_07_24__14_04_DSC03145.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.45348611111111
-  lon: 19.146375
-  altitude: 70.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 7.1
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6033
-  height: 4014
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 14:04:51.000000000+02:00
 - image_filename: 2021_07_24__13_58_DSC03133.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.45727777777778
@@ -375,6 +356,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 14:04:42.000000000+02:00
+- image_filename: 2021_07_24__14_04_DSC03145.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.45348611111111
+  lon: 19.146375
+  altitude: 70.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6033
+  height: 4014
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 14:04:51.000000000+02:00
 - image_filename: 2021_07_24__14_04_DSC03147.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.453250000000004
@@ -511,40 +509,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 14:24:33.000000000+02:00
-- image_filename: 2021_07_24__14_27_DSC03182.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.42825
-  lon: 19.057902777777777
-  altitude: 46.0
-  focal_length: 38.0
-  focal_length_35: 38.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5492
-  height: 3654
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 14:27:56.000000000+02:00
-- image_filename: 2021_07_24__14_27_DSC03181.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.42830555555555
-  lon: 19.05801388888889
-  altitude: 46.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5773
-  height: 3841
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 14:27:53.000000000+02:00
 - image_filename: 2021_07_24__14_24_DSC03171.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.432916666666664
@@ -562,23 +526,40 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 14:24:39.000000000+02:00
-- image_filename: 2021_07_24__14_37_DSC03185.jpg
+- image_filename: 2021_07_24__14_27_DSC03181.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.42136111111111
-  lon: 19.03125
-  altitude: 69.0
+  lat: 53.42830555555555
+  lon: 19.05801388888889
+  altitude: 46.0
   focal_length: 28.0
   focal_length_35: 28.0
   crop: 1.0
   aperture: 8.0
-  exposure: 0.002
-  exposure_string: 1/500 s
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
-  width: 5790
-  height: 3853
+  width: 5773
+  height: 3841
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-07-24 14:37:50.000000000+02:00
+  time: 2021-07-24 14:27:53.000000000+02:00
+- image_filename: 2021_07_24__14_27_DSC03182.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.42825
+  lon: 19.057902777777777
+  altitude: 46.0
+  focal_length: 38.0
+  focal_length_35: 38.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5492
+  height: 3654
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 14:27:56.000000000+02:00
 - image_filename: 2021_07_24__14_37_DSC03184.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.42136111111111
@@ -596,6 +577,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 14:37:44.000000000+02:00
+- image_filename: 2021_07_24__14_37_DSC03185.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.42136111111111
+  lon: 19.03125
+  altitude: 69.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5790
+  height: 3853
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 14:37:50.000000000+02:00
 - image_filename: 2021_07_24__14_40_DSC03195.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.42136111111111
@@ -613,23 +611,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 14:40:20.000000000+02:00
-- image_filename: 2021_07_24__15_11_DSC03212.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.42219444444444
-  lon: 19.002569444444443
-  altitude: 73.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 100
-  width: 5460
-  height: 3797
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 15:11:51.000000000+02:00
 - image_filename: 2021_07_24__14_44_DSC03210.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.42066666666666
@@ -647,23 +628,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 14:44:05.000000000+02:00
-- image_filename: 2021_07_24__15_14_DSC03225.jpg
+- image_filename: 2021_07_24__15_11_DSC03212.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.42211111111111
-  lon: 19.002625
-  altitude: 72.0
-  focal_length: 75.0
-  focal_length_35: 75.0
+  lat: 53.42219444444444
+  lon: 19.002569444444443
+  altitude: 73.0
+  focal_length: 28.0
+  focal_length_35: 28.0
   crop: 1.0
   aperture: 8.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 160
-  width: 6010
-  height: 3998
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5460
+  height: 3797
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-07-24 15:14:58.000000000+02:00
+  time: 2021-07-24 15:11:51.000000000+02:00
 - image_filename: 2021_07_24__15_13_DSC03217.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.42219444444444
@@ -681,23 +662,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 15:13:16.000000000+02:00
-- image_filename: 2021_07_24__15_20_DSC03234.jpg
+- image_filename: 2021_07_24__15_14_DSC03225.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.420944444444444
-  lon: 19.00102777777778
+  lat: 53.42211111111111
+  lon: 19.002625
   altitude: 72.0
-  focal_length: 54.0
-  focal_length_35: 54.0
+  focal_length: 75.0
+  focal_length_35: 75.0
   crop: 1.0
   aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5946
-  height: 3962
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 160
+  width: 6010
+  height: 3998
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-07-24 15:20:24.000000000+02:00
+  time: 2021-07-24 15:14:58.000000000+02:00
 - image_filename: 2021_07_24__15_15_DSC03226.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.42211111111111
@@ -715,6 +696,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 15:15:01.000000000+02:00
+- image_filename: 2021_07_24__15_20_DSC03234.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.420944444444444
+  lon: 19.00102777777778
+  altitude: 72.0
+  focal_length: 54.0
+  focal_length_35: 54.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5946
+  height: 3962
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 15:20:24.000000000+02:00
 - image_filename: 2021_07_24__15_20_DSC03243.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.42095833333333
@@ -800,23 +798,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 15:33:51.000000000+02:00
-- image_filename: 2021_07_24__15_41_DSC03273.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.399125
-  lon: 18.95883333333333
-  altitude: 69.0
-  focal_length: 67.0
-  focal_length_35: 67.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5968
-  height: 3971
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 15:41:24.000000000+02:00
 - image_filename: 2021_07_24__15_41_DSC03267.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.400013888888886
@@ -851,6 +832,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 15:41:12.000000000+02:00
+- image_filename: 2021_07_24__15_41_DSC03273.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.399125
+  lon: 18.95883333333333
+  altitude: 69.0
+  focal_length: 67.0
+  focal_length_35: 67.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5968
+  height: 3971
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 15:41:24.000000000+02:00
 - image_filename: 2021_07_24__15_42_DSC03275.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.39895833333333
@@ -868,40 +866,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 15:42:05.000000000+02:00
-- image_filename: 2021_07_24__16_00_DSC03293.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.38247222222222
-  lon: 18.941777777777776
-  altitude: 76.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5867
-  height: 3903
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 16:00:26.000000000+02:00
-- image_filename: 2021_07_24__16_00_DSC03291.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.38247222222222
-  lon: 18.941791666666667
-  altitude: 76.0
-  focal_length: 39.0
-  focal_length_35: 39.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 16:00:17.000000000+02:00
 - image_filename: 2021_07_24__15_49_DSC03287.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.39601388888889
@@ -919,23 +883,40 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 15:49:22.000000000+02:00
-- image_filename: 2021_07_24__16_02_DSC03302.jpg
+- image_filename: 2021_07_24__16_00_DSC03291.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.38198611111111
-  lon: 18.934458333333332
-  altitude: 70.0
-  focal_length: 75.0
-  focal_length_35: 75.0
+  lat: 53.38247222222222
+  lon: 18.941791666666667
+  altitude: 76.0
+  focal_length: 39.0
+  focal_length_35: 39.0
   crop: 1.0
   aperture: 8.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 100
-  width: 5946
-  height: 3956
+  width: 6048
+  height: 4024
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-07-24 16:02:57.000000000+02:00
+  time: 2021-07-24 16:00:17.000000000+02:00
+- image_filename: 2021_07_24__16_00_DSC03293.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.38247222222222
+  lon: 18.941777777777776
+  altitude: 76.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5867
+  height: 3903
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 16:00:26.000000000+02:00
 - image_filename: 2021_07_24__16_00_DSC03295.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.38247222222222
@@ -953,6 +934,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 16:00:37.000000000+02:00
+- image_filename: 2021_07_24__16_02_DSC03302.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.38198611111111
+  lon: 18.934458333333332
+  altitude: 70.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5946
+  height: 3956
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 16:02:57.000000000+02:00
 - image_filename: 2021_07_24__16_03_DSC03305.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.38231944444445
@@ -1106,23 +1104,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 16:26:09.000000000+02:00
-- image_filename: 2021_07_24__16_29_DSC03365.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.354847222222226
-  lon: 18.906166666666664
-  altitude: 93.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 16:29:25.000000000+02:00
 - image_filename: 2021_07_24__16_26_DSC03359.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.35647222222222
@@ -1140,6 +1121,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 16:26:31.000000000+02:00
+- image_filename: 2021_07_24__16_29_DSC03365.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.354847222222226
+  lon: 18.906166666666664
+  altitude: 93.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 16:29:25.000000000+02:00
 - image_filename: 2021_07_24__16_30_DSC03372.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.35275
@@ -1157,23 +1155,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 16:30:07.000000000+02:00
-- image_filename: 2021_07_24__17_11_DSC03396.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.28794444444444
-  lon: 18.83063888888889
-  altitude: 82.0
-  focal_length: 50.0
-  focal_length_35: 50.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 17:11:06.000000000+02:00
 - image_filename: 2021_07_24__16_47_DSC03373.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.32080555555556
@@ -1191,6 +1172,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 16:47:37.000000000+02:00
+- image_filename: 2021_07_24__17_11_DSC03396.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.28794444444444
+  lon: 18.83063888888889
+  altitude: 82.0
+  focal_length: 50.0
+  focal_length_35: 50.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 17:11:06.000000000+02:00
 - image_filename: 2021_07_24__17_42_DSC03411.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.22569444444444
@@ -1327,23 +1325,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 18:37:12.000000000+02:00
-- image_filename: 2021_07_24__19_18_DSC03474.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.16445833333333
-  lon: 18.870305555555557
-  altitude: 77.0
-  focal_length: 68.0
-  focal_length_35: 68.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 3702
-  height: 5407
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 19:18:13.000000000+02:00
 - image_filename: 2021_07_24__19_17_DSC03469.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.16445833333333
@@ -1361,6 +1342,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 19:17:46.000000000+02:00
+- image_filename: 2021_07_24__19_18_DSC03474.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.16445833333333
+  lon: 18.870305555555557
+  altitude: 77.0
+  focal_length: 68.0
+  focal_length_35: 68.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 3702
+  height: 5407
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 19:18:13.000000000+02:00
 - image_filename: 2021_07_24__19_27_DSC03492.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.16445833333333
@@ -1378,40 +1376,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 19:27:28.000000000+02:00
-- image_filename: 2021_07_24__19_32_DSC03569.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.138875
-  lon: 18.804333333333336
-  altitude: 115.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 19:32:39.000000000+02:00
-- image_filename: 2021_07_24__19_31_DSC03546.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.14629166666666
-  lon: 18.824986111111112
-  altitude: 116.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5404
-  height: 3636
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 19:31:51.000000000+02:00
 - image_filename: 2021_07_24__19_29_DSC03512.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.16445833333333
@@ -1429,11 +1393,28 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 19:29:06.000000000+02:00
-- image_filename: 2021_07_24__19_47_DSC03649.jpg
+- image_filename: 2021_07_24__19_31_DSC03546.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 53.02633333333333
-  lon: 18.63313888888889
-  altitude: 101.0
+  lat: 53.14629166666666
+  lon: 18.824986111111112
+  altitude: 116.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5404
+  height: 3636
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 19:31:51.000000000+02:00
+- image_filename: 2021_07_24__19_32_DSC03569.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.138875
+  lon: 18.804333333333336
+  altitude: 115.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
@@ -1441,11 +1422,11 @@
   exposure: 0.00125
   exposure_string: 1/800 s
   iso: 100
-  width: 4864
-  height: 3735
+  width: 6048
+  height: 4024
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-07-24 19:47:16.000000000+02:00
+  time: 2021-07-24 19:32:39.000000000+02:00
 - image_filename: 2021_07_24__19_47_DSC03641.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.02633333333333
@@ -1463,6 +1444,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 19:47:12.000000000+02:00
+- image_filename: 2021_07_24__19_47_DSC03649.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 53.02633333333333
+  lon: 18.63313888888889
+  altitude: 101.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 4864
+  height: 3735
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 19:47:16.000000000+02:00
 - image_filename: 2021_07_24__19_47_DSC03664.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.02633333333333
@@ -1497,23 +1495,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 19:50:51.000000000+02:00
-- image_filename: 2021_07_24__20_04_DSC03731.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 52.94858333333333
-  lon: 18.544583333333335
-  altitude: 106.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 250
-  width: 3520
-  height: 2566
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 20:04:10.000000000+02:00
 - image_filename: 2021_07_24__19_56_DSC03686.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 53.00025
@@ -1531,23 +1512,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 19:56:34.000000000+02:00
-- image_filename: 2021_07_24__20_14_DSC03815.jpg
+- image_filename: 2021_07_24__20_04_DSC03731.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 52.87226388888889
-  lon: 18.365958333333335
-  altitude: 117.0
+  lat: 52.94858333333333
+  lon: 18.544583333333335
+  altitude: 106.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
   exposure: 0.00125
   exposure_string: 1/800 s
-  iso: 320
-  width: 5991
-  height: 3986
+  iso: 250
+  width: 3520
+  height: 2566
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-07-24 20:14:47.000000000+02:00
+  time: 2021-07-24 20:04:10.000000000+02:00
 - image_filename: 2021_07_24__20_05_DSC03759.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 52.92773611111111
@@ -1565,6 +1546,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 20:05:41.000000000+02:00
+- image_filename: 2021_07_24__20_14_DSC03815.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 52.87226388888889
+  lon: 18.365958333333335
+  altitude: 117.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 320
+  width: 5991
+  height: 3986
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 20:14:47.000000000+02:00
 - image_filename: 2021_07_24__20_16_DSC03852.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 52.86909722222222
@@ -1616,6 +1614,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 20:28:01.000000000+02:00
+- image_filename: 2021_07_24__20_29_DSC03973.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 52.80484722222222
+  lon: 18.24401388888889
+  altitude: 118.0
+  focal_length: 63.0
+  focal_length_35: 63.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 500
+  width: 5172
+  height: 3614
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 20:29:09.000000000+02:00
 - image_filename: 2021_07_24__20_30_DSC04040.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 52.79859722222222
@@ -1650,40 +1665,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 20:32:27.000000000+02:00
-- image_filename: 2021_07_24__20_29_DSC03973.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 52.80484722222222
-  lon: 18.24401388888889
-  altitude: 118.0
-  focal_length: 63.0
-  focal_length_35: 63.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 500
-  width: 5172
-  height: 3614
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 20:29:09.000000000+02:00
-- image_filename: 2021_07_24__20_36_DSC04141.jpg
-  post_slug: 2021-07-24-w-trakcie-zniw
-  lat: 52.750305555555556
-  lon: 18.117444444444445
-  altitude: 126.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 3200
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-07-24 20:36:47.000000000+02:00
 - image_filename: 2021_07_24__20_36_DSC04124.jpg
   post_slug: 2021-07-24-w-trakcie-zniw
   lat: 52.754847222222224
@@ -1701,3 +1682,20 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-07-24 20:36:29.000000000+02:00
+- image_filename: 2021_07_24__20_36_DSC04141.jpg
+  post_slug: 2021-07-24-w-trakcie-zniw
+  lat: 52.750305555555556
+  lon: 18.117444444444445
+  altitude: 126.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 3200
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-07-24 20:36:47.000000000+02:00

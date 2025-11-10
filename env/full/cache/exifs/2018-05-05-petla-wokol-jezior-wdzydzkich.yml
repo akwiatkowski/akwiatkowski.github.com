@@ -1,18 +1,4 @@
 ---
-- image_filename: IMGP8812raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.98493055555556
-  lon: 17.883194444444445
-  altitude: 132.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 15:22:37+02:00
 - image_filename: IMGP8696raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
   lat: 53.84190277777778
@@ -22,668 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-05-05 10:13:40+02:00
-- image_filename: IMGP8702raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.931444444444445
-  lon: 17.939166666666665
-  altitude: 140.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-05 10:18:30+02:00
-- image_filename: IMGP8706raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.85566666666667
-  lon: 17.96038888888889
-  altitude: 139.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-05-05 10:18:47+02:00
-- image_filename: IMGP8709raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.891375
-  lon: 17.938958333333332
-  altitude: 140.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-05 10:33:17+02:00
-- image_filename: IMGP8720raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.89856944444444
-  lon: 17.934527777777777
-  altitude: 143.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-05 10:37:45+02:00
-- image_filename: IMGP8746raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.97701388888889
-  lon: 17.9265
-  altitude: 135.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 11:28:34+02:00
-- image_filename: IMGP8755raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.94770833333333
-  lon: 17.930861111111113
-  altitude: 142.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-05 11:39:53+02:00
-- image_filename: IMGP8753raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.943263888888886
-  lon: 17.938111111111112
-  altitude: 141.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-05 11:36:12+02:00
-- image_filename: IMGP8783raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 14:39:00+02:00
-- image_filename: IMGP8784raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-05 14:39:12+02:00
-- image_filename: IMGP8794raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01188888888889
-  lon: 17.940472222222223
-  altitude: 144.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 14:55:00+02:00
-- image_filename: IMGP8799raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.02811111111111
-  lon: 17.920791666666666
-  altitude: 143.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-05-05 15:13:35+02:00
-- image_filename: IMGP8840raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01841666666667
-  lon: 17.890472222222222
-  altitude: 139.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-05 15:36:12+02:00
-- image_filename: IMGP8865raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.94556944444444
-  lon: 17.881194444444446
-  altitude: 161.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-05 16:01:07+02:00
-- image_filename: IMGP8877raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.92909722222222
-  lon: 17.875208333333333
-  altitude: 162.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-05 16:12:44+02:00
-- image_filename: IMGP8878raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.92330555555555
-  lon: 17.862194444444444
-  altitude: 153.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 17:25:14+02:00
-- image_filename: IMGP8882raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.92330555555555
-  lon: 17.862222222222222
-  altitude: 152.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 17:42:51+02:00
-- image_filename: IMGP8875raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.98602777777778
-  lon: 17.881958333333333
-  altitude: 134.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-05-05 16:12:13+02:00
-- image_filename: IMGP8819raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01808333333333
-  lon: 17.892333333333333
-  altitude: 133.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-05 15:28:49+02:00
-- image_filename: IMGP8774raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.018388888888886
-  lon: 17.88940277777778
-  altitude: 144.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-05-05 14:36:53+02:00
-- image_filename: IMGP8827raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01811111111111
-  lon: 17.89225
-  altitude: 134.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-05-05 15:35:24+02:00
-- image_filename: IMGP8716raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.89606944444444
-  lon: 17.935777777777776
-  altitude: 142.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-05 10:35:24+02:00
-- image_filename: IMGP8828raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.971555555555554
-  lon: 17.890666666666664
-  altitude: 137.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-05-05 15:35:25+02:00
-- image_filename: IMGP8771raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 14:35:51+02:00
-- image_filename: IMGP8870raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.98843055555556
-  lon: 17.870930555555557
-  altitude: 136.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-05 16:05:56+02:00
-- image_filename: IMGP8863raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.94593055555555
-  lon: 17.880125
-  altitude: 160.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-05-05 16:00:48+02:00
-- image_filename: IMGP8766raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.987
-  lon: 17.928805555555556
-  altitude: 144.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 12:47:39+02:00
-- image_filename: IMGP8811raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.98502777777778
-  lon: 17.88359722222222
-  altitude: 132.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 15:21:12+02:00
-- image_filename: IMGP8851raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01829166666666
-  lon: 17.888402777777777
-  altitude: 144.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-05-05 15:37:14+02:00
-- image_filename: IMGP8832raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01833333333333
-  lon: 17.890944444444443
-  altitude: 136.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-05 15:35:56+02:00
-- image_filename: IMGP8749raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.94133333333333
-  lon: 17.935972222222222
-  altitude: 136.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 11:32:57+02:00
-- image_filename: IMGP8758raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.96013888888889
-  lon: 17.922625
-  altitude: 136.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 11:54:20+02:00
-- image_filename: IMGP8754raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.986958333333334
-  lon: 17.92855555555556
-  altitude: 144.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-05 11:39:50+02:00
-- image_filename: IMGP8873raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.98802777777778
-  lon: 17.87088888888889
-  altitude: 135.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-05 16:07:07+02:00
-- image_filename: IMGP8848raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.96802777777778
-  lon: 17.889819444444445
-  altitude: 144.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-05 15:37:05+02:00
-- image_filename: IMGP8860raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.018166666666666
-  lon: 17.88709722222222
-  altitude: 145.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-05-05 15:37:39+02:00
-- image_filename: IMGP8731raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.89855555555555
-  lon: 17.934555555555555
-  altitude: 144.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-05-05 10:42:38+02:00
-- image_filename: IMGP8835raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01836111111111
-  lon: 17.890805555555556
-  altitude: 137.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-05 15:36:00+02:00
-- image_filename: IMGP8855raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.96736111111111
-  lon: 17.889666666666667
-  altitude: 146.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-05-05 15:37:28+02:00
-- image_filename: IMGP8798raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.02811111111111
-  lon: 17.92077777777778
-  altitude: 143.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-05-05 15:13:18+02:00
-- image_filename: IMGP8791raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-05 14:40:54+02:00
-- image_filename: IMGP8737raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.92316666666667
-  lon: 17.93238888888889
-  altitude: 136.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 11:13:07+02:00
-- image_filename: IMGP8842raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.969500000000004
-  lon: 17.89026388888889
-  altitude: 137.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-05 15:36:14+02:00
-- image_filename: IMGP8751raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.94252777777778
-  lon: 17.938291666666668
-  altitude: 141.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 11:35:42+02:00
-- image_filename: IMGP8816raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01927777777777
-  lon: 17.894055555555553
-  altitude: 134.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 15:24:31+02:00
-- image_filename: IMGP8847raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.96802777777778
-  lon: 17.889819444444445
-  altitude: 144.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-05 15:37:05+02:00
-- image_filename: IMGP8769raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 14:35:20+02:00
-- image_filename: IMGP8810raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01858333333333
-  lon: 17.90959722222222
-  altitude: 145.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 15:21:10+02:00
-- image_filename: IMGP8728raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.89855555555555
-  lon: 17.934541666666668
-  altitude: 143.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 10:39:57+02:00
+  time: 2018-05-05 10:13:40.000000000+02:00
 - image_filename: IMGP8699raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
   lat: 53.84894444444445
@@ -693,36 +22,137 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2018-05-05 10:16:17+02:00
-- image_filename: IMGP8787raw1.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 10:16:17.000000000+02:00
+- image_filename: IMGP8702raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.931444444444445
+  lon: 17.939166666666665
+  altitude: 140.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-05-05 14:40:16+02:00
-- image_filename: IMGP8854raw1.jpg
+  time: 2018-05-05 10:18:30.000000000+02:00
+- image_filename: IMGP8706raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.96765277777778
-  lon: 17.88970833333333
-  altitude: 145.0
+  lat: 53.85566666666667
+  lon: 17.96038888888889
+  altitude: 139.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 10:18:47.000000000+02:00
+- image_filename: IMGP8709raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.891375
+  lon: 17.938958333333332
+  altitude: 140.0
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
-  aperture: 4.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-05-05 15:37:19+02:00
+  time: 2018-05-05 10:33:17.000000000+02:00
+- image_filename: IMGP8716raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.89606944444444
+  lon: 17.935777777777776
+  altitude: 142.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 10:35:24.000000000+02:00
+- image_filename: IMGP8720raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.89856944444444
+  lon: 17.934527777777777
+  altitude: 143.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 10:37:45.000000000+02:00
+- image_filename: IMGP8726raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.898555555555554
+  lon: 17.934527777777777
+  altitude: 143.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 10:39:36.000000000+02:00
+- image_filename: IMGP8728raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.898555555555554
+  lon: 17.934541666666668
+  altitude: 143.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2018-05-05 10:39:57.000000000+02:00
+- image_filename: IMGP8731raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.898555555555554
+  lon: 17.934555555555555
+  altitude: 144.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 10:42:38.000000000+02:00
+- image_filename: IMGP8737raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.92316666666667
+  lon: 17.93238888888889
+  altitude: 136.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 11:13:07.000000000+02:00
 - image_filename: IMGP8739raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
   lat: 53.92575
@@ -732,39 +162,109 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-05-05 11:14:30+02:00
-- image_filename: IMGP8843raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01840277777778
-  lon: 17.889541666666666
-  altitude: 143.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-05 15:36:49+02:00
-- image_filename: IMGP8818raw1.jpg
+  time: 2018-05-05 11:14:30.000000000+02:00
+- image_filename: IMGP8746raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 54.01808333333333
-  lon: 17.89234722222222
-  altitude: 133.0
+  lat: 53.97701388888889
+  lon: 17.9265
+  altitude: 135.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-05-05 15:26:47+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 11:28:34.000000000+02:00
+- image_filename: IMGP8749raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.94133333333333
+  lon: 17.935972222222222
+  altitude: 136.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 11:32:57.000000000+02:00
+- image_filename: IMGP8751raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.94252777777778
+  lon: 17.938291666666668
+  altitude: 141.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 11:35:42.000000000+02:00
+- image_filename: IMGP8753raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.943263888888886
+  lon: 17.938111111111112
+  altitude: 141.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 11:36:12.000000000+02:00
+- image_filename: IMGP8754raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.986958333333334
+  lon: 17.92855555555556
+  altitude: 144.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 11:39:50.000000000+02:00
+- image_filename: IMGP8755raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.94770833333333
+  lon: 17.930861111111113
+  altitude: 142.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 11:39:53.000000000+02:00
+- image_filename: IMGP8758raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.96013888888889
+  lon: 17.922625
+  altitude: 136.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2018-05-05 11:54:20.000000000+02:00
 - image_filename: IMGP8762raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
   lat: 53.96013888888889
@@ -774,11 +274,158 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-05-05 11:55:43+02:00
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2018-05-05 11:55:43.000000000+02:00
+- image_filename: IMGP8766raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.987
+  lon: 17.928805555555556
+  altitude: 144.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 12:47:39.000000000+02:00
+- image_filename: IMGP8769raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2018-05-05 14:35:20.000000000+02:00
+- image_filename: IMGP8771raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2018-05-05 14:35:51.000000000+02:00
+- image_filename: IMGP8774raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.018388888888886
+  lon: 17.88940277777778
+  altitude: 144.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 14:36:53.000000000+02:00
+- image_filename: IMGP8783raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 14:39:00.000000000+02:00
+- image_filename: IMGP8784raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 14:39:12.000000000+02:00
+- image_filename: IMGP8787raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 14:40:16.000000000+02:00
+- image_filename: IMGP8789raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 14:40:44.000000000+02:00
+- image_filename: IMGP8791raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 14:40:54.000000000+02:00
+- image_filename: IMGP8794raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01188888888889
+  lon: 17.940472222222223
+  altitude: 144.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2018-05-05 14:55:00.000000000+02:00
+- image_filename: IMGP8798raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.02811111111111
+  lon: 17.92077777777778
+  altitude: 143.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:13:18.000000000+02:00
+- image_filename: IMGP8799raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.02811111111111
+  lon: 17.920791666666666
+  altitude: 143.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:13:35.000000000+02:00
 - image_filename: IMGP8808raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
   lat: 53.98566666666667
@@ -788,22 +435,193 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2018-05-05 15:15:56+02:00
-- image_filename: IMGP8789raw1.jpg
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:15:56.000000000+02:00
+- image_filename: IMGP8810raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01858333333333
+  lon: 17.90959722222222
+  altitude: 145.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:21:10.000000000+02:00
+- image_filename: IMGP8811raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.98502777777778
+  lon: 17.88359722222222
+  altitude: 132.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-05-05 14:40:44+02:00
+  time: 2018-05-05 15:21:12.000000000+02:00
+- image_filename: IMGP8812raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.98493055555556
+  lon: 17.883194444444445
+  altitude: 132.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:22:37.000000000+02:00
+- image_filename: IMGP8816raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01927777777777
+  lon: 17.894055555555553
+  altitude: 134.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:24:31.000000000+02:00
+- image_filename: IMGP8818raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01808333333333
+  lon: 17.89234722222222
+  altitude: 133.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:26:47.000000000+02:00
+- image_filename: IMGP8819raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01808333333333
+  lon: 17.892333333333333
+  altitude: 133.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:28:49.000000000+02:00
+- image_filename: IMGP8827raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01811111111111
+  lon: 17.89225
+  altitude: 134.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:35:24.000000000+02:00
+- image_filename: IMGP8828raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.971555555555554
+  lon: 17.890666666666664
+  altitude: 137.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:35:25.000000000+02:00
+- image_filename: IMGP8832raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01833333333333
+  lon: 17.890944444444443
+  altitude: 136.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:35:56.000000000+02:00
+- image_filename: IMGP8835raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01836111111111
+  lon: 17.890805555555556
+  altitude: 137.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:36:00.000000000+02:00
+- image_filename: IMGP8840raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01841666666667
+  lon: 17.890472222222222
+  altitude: 139.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:36:12.000000000+02:00
+- image_filename: IMGP8842raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.969500000000004
+  lon: 17.89026388888889
+  altitude: 137.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:36:14.000000000+02:00
+- image_filename: IMGP8843raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01840277777778
+  lon: 17.889541666666666
+  altitude: 143.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:36:49.000000000+02:00
 - image_filename: IMGP8844raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
   lat: 53.96840277777778
@@ -813,22 +631,204 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2018-05-05 15:36:51+02:00
-- image_filename: IMGP8726raw1.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:36:51.000000000+02:00
+- image_filename: IMGP8847raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.89855555555555
-  lon: 17.934527777777777
-  altitude: 143.0
+  lat: 53.96802777777778
+  lon: 17.889819444444445
+  altitude: 144.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:37:05.000000000+02:00
+- image_filename: IMGP8848raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.96802777777778
+  lon: 17.889819444444445
+  altitude: 144.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:37:05.000000000+02:00
+- image_filename: IMGP8851raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.01829166666666
+  lon: 17.888402777777777
+  altitude: 144.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:37:14.000000000+02:00
+- image_filename: IMGP8854raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.96765277777778
+  lon: 17.88970833333333
+  altitude: 145.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:37:19.000000000+02:00
+- image_filename: IMGP8855raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.96736111111111
+  lon: 17.889666666666667
+  altitude: 146.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:37:28.000000000+02:00
+- image_filename: IMGP8860raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 54.018166666666666
+  lon: 17.88709722222222
+  altitude: 145.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 15:37:39.000000000+02:00
+- image_filename: IMGP8863raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.94593055555555
+  lon: 17.880125
+  altitude: 160.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 100
+  aperture: 9.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
   camera: PENTAX K-S2
+  time: 2018-05-05 16:00:48.000000000+02:00
+- image_filename: IMGP8865raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.94556944444444
+  lon: 17.881194444444446
+  altitude: 161.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2018-05-05 10:39:36+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 16:01:07.000000000+02:00
+- image_filename: IMGP8870raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.98843055555556
+  lon: 17.870930555555557
+  altitude: 136.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 16:05:56.000000000+02:00
+- image_filename: IMGP8873raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.98802777777778
+  lon: 17.87088888888889
+  altitude: 135.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 16:07:07.000000000+02:00
+- image_filename: IMGP8875raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.98602777777778
+  lon: 17.881958333333333
+  altitude: 134.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-05 16:12:13.000000000+02:00
+- image_filename: IMGP8877raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.92909722222222
+  lon: 17.875208333333333
+  altitude: 162.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 16:12:44.000000000+02:00
+- image_filename: IMGP8878raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.92330555555555
+  lon: 17.862194444444444
+  altitude: 153.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2018-05-05 17:25:14.000000000+02:00
+- image_filename: IMGP8882raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.92330555555555
+  lon: 17.862222222222222
+  altitude: 152.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-05 17:42:51.000000000+02:00

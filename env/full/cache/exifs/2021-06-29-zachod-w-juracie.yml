@@ -1,237 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-- image_filename: 2021_06_29__21_24__6295901.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.687194444444444
-  lon: 18.715875
-  altitude: 0.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 65.01
-  iso: 200
-  width: 4047
-  height: 3089
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 21:24:26.000000000+02:00
-- image_filename: 2021_06_29__21_39__6295926.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.684527777777774
-  lon: 18.71425
-  altitude: 6.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.125
-  exposure_string: 1/8 s
-  focus_distance: 1.97
-  iso: 800
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 21:39:42.000000000+02:00
-- image_filename: 2021_06_29__20_47__6295816.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.68597222222222
-  lon: 18.717888888888886
-  altitude: 2.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 10.0
-  exposure_string: 10 s
-  focus_distance: 20.76
-  iso: 200
-  width: 4901
-  height: 3663
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 20:47:15.000000000+02:00
-- image_filename: 2021_06_29__19_36_DSC02744.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.61263888888889
-  lon: 18.8015
-  altitude: 12.0
-  focal_length: 30.0
-  focal_length_35: 30.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 5772
-  height: 3840
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-06-29 19:36:25.000000000+02:00
-- image_filename: 2021_06_29__21_56__6295965.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.68136111111111
-  lon: 18.709125
-  altitude: 12.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  focus_distance: 4.05
-  iso: 200
-  width: 3837
-  height: 5139
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 21:56:24.000000000+02:00
-- image_filename: 2021_06_29__21_08__6295856.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.68629166666666
-  lon: 18.717555555555553
-  altitude: 2.0
-  focal_length: 270.0
-  focal_length_35: 540.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 45.01
-  iso: 200
-  width: 5133
-  height: 3872
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 21:08:19.000000000+02:00
-- image_filename: 2021_06_29__20_51_DSC02772.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.685986111111106
-  lon: 18.717875
-  altitude: 2.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 10.0
-  exposure: 30.0
-  exposure_string: 30 s
-  iso: 160
-  width: 5989
-  height: 3985
-  lens: E 20mm F2
-  camera: ILCE-7M3
-  time: 2021-06-29 20:51:53.000000000+02:00
-- image_filename: 2021_06_29__21_57__6295971.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.681416666666664
-  lon: 18.709083333333332
-  altitude: 11.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5174
-  height: 3863
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 21:57:21.000000000+02:00
-- image_filename: 2021_06_29__22_00__6295981.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.68165277777778
-  lon: 18.710444444444445
-  altitude: 10.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 3.4
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5111
-  height: 3816
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 22:00:43.000000000+02:00
-- image_filename: 2021_06_29__21_39__6295925.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.68454166666666
-  lon: 18.71423611111111
-  altitude: 6.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.125
-  exposure_string: 1/8 s
-  focus_distance: 2.4
-  iso: 800
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 21:39:36.000000000+02:00
-- image_filename: 2021_06_29__21_00__6295833.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.685986111111106
-  lon: 18.717875
-  altitude: 2.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 15.18
-  iso: 200
-  width: 4982
-  height: 3720
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 21:00:22.000000000+02:00
-- image_filename: 2021_06_29__19_59__6295798.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.68295833333333
-  lon: 18.71947222222222
-  altitude: 14.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 105.03
-  iso: 200
-  width: 5131
-  height: 3830
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 19:59:29.000000000+02:00
-- image_filename: 2021_06_29__19_43_DSC02761.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.655902777777776
-  lon: 18.766083333333334
-  altitude: 12.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 5980
-  height: 3979
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-06-29 19:43:29.000000000+02:00
 - image_filename: 2021_06_29__19_09__6295782.jpg
   post_slug: 2021-06-29-zachod-w-juracie
   lat: 54.60866666666667
@@ -250,77 +17,6 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-06-29 19:09:56.000000000+02:00
-- image_filename: 2021_06_29__20_58__6295832.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.685986111111106
-  lon: 18.717875
-  altitude: 2.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5158
-  height: 3851
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 20:58:31.000000000+02:00
-- image_filename: 2021_06_29__22_02__6295983.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.682472222222216
-  lon: 18.712555555555554
-  altitude: 9.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 2.0
-  exposure_string: 2 s
-  focus_distance: 45.83
-  iso: 200
-  width: 5025
-  height: 3751
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 22:02:36.000000000+02:00
-- image_filename: 2021_06_29__21_56__6295964.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.68134722222222
-  lon: 18.709152777777778
-  altitude: 12.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.125
-  exposure_string: 1/8 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4990
-  height: 3870
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 21:56:18.000000000+02:00
-- image_filename: 2021_06_29__19_41_DSC02756.jpg
-  post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.64597222222222
-  lon: 18.784916666666668
-  altitude: 13.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 2000
-  width: 5880
-  height: 3912
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-06-29 19:41:57.000000000+02:00
 - image_filename: 2021_06_29__19_13__6295792.jpg
   post_slug: 2021-06-29-zachod-w-juracie
   lat: 54.60883333333334
@@ -339,96 +35,146 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-06-29 19:13:33.000000000+02:00
-- image_filename: 2021_06_29__21_59__6295977.jpg
+- image_filename: 2021_06_29__19_36_DSC02744.jpg
   post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.68138888888889
-  lon: 18.70911111111111
-  altitude: 10.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 13.0
-  exposure: 5.0
-  exposure_string: 5 s
-  focus_distance: 16.84
-  iso: 200
-  width: 5160
-  height: 3852
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-29 21:59:03.000000000+02:00
-- image_filename: 2021_06_29__21_04__6295849.jpg
+  lat: 54.61263888888889
+  lon: 18.8015
+  altitude: 12.0
+  focal_length: 30.0
+  focal_length_35: 30.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5772
+  height: 3840
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-06-29 19:36:25.000000000+02:00
+- image_filename: 2021_06_29__19_41_DSC02756.jpg
   post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.686
-  lon: 18.717875
-  altitude: 2.0
+  lat: 54.64597222222222
+  lon: 18.784916666666668
+  altitude: 13.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 2000
+  width: 5880
+  height: 3912
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-06-29 19:41:57.000000000+02:00
+- image_filename: 2021_06_29__19_43_DSC02761.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.655902777777776
+  lon: 18.766083333333334
+  altitude: 12.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5980
+  height: 3979
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-06-29 19:43:29.000000000+02:00
+- image_filename: 2021_06_29__19_59__6295798.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68295833333333
+  lon: 18.71947222222222
+  altitude: 14.0
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 6.3
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 91.02
+  focus_distance: 105.03
   iso: 200
-  width: 5239
-  height: 3911
+  width: 5131
+  height: 3830
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  time: 2021-06-29 21:04:54.000000000+02:00
-- image_filename: 2021_06_29__21_25__6295904.jpg
+  time: 2021-06-29 19:59:29.000000000+02:00
+- image_filename: 2021_06_29__20_47__6295816.jpg
   post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.687194444444444
-  lon: 18.715875
-  altitude: 0.0
-  focal_length: 300.0
-  focal_length_35: 600.0
+  lat: 54.68597222222222
+  lon: 18.717888888888886
+  altitude: 2.0
+  focal_length: 50.0
+  focal_length_35: 100.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 80.31
+  aperture: 7.1
+  exposure: 10.0
+  exposure_string: 10 s
+  focus_distance: 20.76
   iso: 200
-  width: 5148
-  height: 3844
-  lens: M.40-150mm F2.8 + MC-20
+  width: 4901
+  height: 3663
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-29 21:25:06.000000000+02:00
-- image_filename: 2021_06_29__21_16__6295876.jpg
+  time: 2021-06-29 20:47:15.000000000+02:00
+- image_filename: 2021_06_29__20_51_DSC02772.jpg
   post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.687194444444444
-  lon: 18.715888888888887
-  altitude: 0.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 75.85
-  iso: 200
-  width: 5025
-  height: 3751
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 21:16:51.000000000+02:00
-- image_filename: 2021_06_29__21_39__6295922.jpg
+  lat: 54.685986111111106
+  lon: 18.717875
+  altitude: 2.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 10.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 160
+  width: 5989
+  height: 3985
+  lens: E 20mm F2
+  camera: ILCE-7M3
+  time: 2021-06-29 20:51:53.000000000+02:00
+- image_filename: 2021_06_29__20_58__6295832.jpg
   post_slug: 2021-06-29-zachod-w-juracie
-  lat: 54.68458333333333
-  lon: 18.71425
-  altitude: 6.0
+  lat: 54.685986111111106
+  lon: 18.717875
+  altitude: 2.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  focus_distance: 3.05
-  iso: 800
-  width: 5239
-  height: 3911
+  aperture: 9.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5158
+  height: 3851
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-29 21:39:04.000000000+02:00
+  time: 2021-06-29 20:58:31.000000000+02:00
+- image_filename: 2021_06_29__21_00__6295833.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.685986111111106
+  lon: 18.717875
+  altitude: 2.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 15.18
+  iso: 200
+  width: 4982
+  height: 3720
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 21:00:22.000000000+02:00
 - image_filename: 2021_06_29__21_01__6295838.jpg
   post_slug: 2021-06-29-zachod-w-juracie
   lat: 54.685986111111106
@@ -447,6 +193,150 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-29 21:01:34.000000000+02:00
+- image_filename: 2021_06_29__21_04__6295849.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.686
+  lon: 18.717875
+  altitude: 2.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 91.02
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 21:04:54.000000000+02:00
+- image_filename: 2021_06_29__21_08__6295856.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68629166666666
+  lon: 18.717555555555553
+  altitude: 2.0
+  focal_length: 270.0
+  focal_length_35: 540.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 45.01
+  iso: 200
+  width: 5133
+  height: 3872
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 21:08:19.000000000+02:00
+- image_filename: 2021_06_29__21_16__6295876.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.687194444444444
+  lon: 18.715888888888887
+  altitude: 0.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 75.85
+  iso: 200
+  width: 5025
+  height: 3751
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 21:16:51.000000000+02:00
+- image_filename: 2021_06_29__21_24__6295901.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.687194444444444
+  lon: 18.715875
+  altitude: 0.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 65.01
+  iso: 200
+  width: 4047
+  height: 3089
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 21:24:26.000000000+02:00
+- image_filename: 2021_06_29__21_25__6295904.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.687194444444444
+  lon: 18.715875
+  altitude: 0.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 80.31
+  iso: 200
+  width: 5148
+  height: 3844
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 21:25:06.000000000+02:00
+- image_filename: 2021_06_29__21_39__6295922.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68458333333333
+  lon: 18.71425
+  altitude: 6.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 3.05
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 21:39:04.000000000+02:00
+- image_filename: 2021_06_29__21_39__6295925.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68454166666666
+  lon: 18.71423611111111
+  altitude: 6.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 2.4
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 21:39:36.000000000+02:00
+- image_filename: 2021_06_29__21_39__6295926.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.684527777777774
+  lon: 18.71425
+  altitude: 6.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 1.97
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 21:39:42.000000000+02:00
 - image_filename: 2021_06_29__21_52__6295949.jpg
   post_slug: 2021-06-29-zachod-w-juracie
   lat: 54.6815
@@ -465,3 +355,111 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-29 21:52:15.000000000+02:00
+- image_filename: 2021_06_29__21_56__6295964.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68134722222222
+  lon: 18.709152777777778
+  altitude: 12.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4990
+  height: 3870
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 21:56:18.000000000+02:00
+- image_filename: 2021_06_29__21_56__6295965.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68136111111111
+  lon: 18.709125
+  altitude: 12.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 4.05
+  iso: 200
+  width: 3837
+  height: 5139
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 21:56:24.000000000+02:00
+- image_filename: 2021_06_29__21_57__6295971.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.681416666666664
+  lon: 18.709083333333332
+  altitude: 11.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5174
+  height: 3863
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 21:57:21.000000000+02:00
+- image_filename: 2021_06_29__21_59__6295977.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68138888888889
+  lon: 18.70911111111111
+  altitude: 10.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 13.0
+  exposure: 5.0
+  exposure_string: 5 s
+  focus_distance: 16.84
+  iso: 200
+  width: 5160
+  height: 3852
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 21:59:03.000000000+02:00
+- image_filename: 2021_06_29__22_00__6295981.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68165277777778
+  lon: 18.710444444444445
+  altitude: 10.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 3.4
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5111
+  height: 3816
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 22:00:43.000000000+02:00
+- image_filename: 2021_06_29__22_02__6295983.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.682472222222216
+  lon: 18.712555555555554
+  altitude: 9.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 45.83
+  iso: 200
+  width: 5025
+  height: 3751
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-29 22:02:36.000000000+02:00

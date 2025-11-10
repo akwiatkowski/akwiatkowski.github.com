@@ -1,154 +1,42 @@
 ---
-- image_filename: 2023_10_18__08_22_DJI_0174.jpg
+- image_filename: 2023_10_18__08_04_DJI_0142
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.46666666666667
-  lon: 17.3
-  altitude: 128.6
+- image_filename: 2023_10_18__08_04_DJI_0142.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.476036111111114
+  lon: 17.289863888888892
+  altitude: 95.1
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 7822
-  height: 5659
-  camera: FC3582
-  time: 2023-10-18 08:22:01.000000000+02:00
-- image_filename: 2022_07_31__18_45_P7310479.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-- image_filename: 2023_10_18__08_07_DJI_0152.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 101.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
+  exposure: 0.000625
+  exposure_string: 1/1600 s
   iso: 140
   width: 8056
   height: 6037
   camera: FC3582
-  time: 2023-10-18 08:07:51.000000000+02:00
-- image_filename: 2023_10_18__08_08_DJI_0156.jpg
+  time: 2023-10-18 08:04:52.000000000+02:00
+- image_filename: 2023_10_18__08_05_DJI_0143.jpg
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 114.7
+  lat: 52.476036111111114
+  lon: 17.289863888888892
+  altitude: 94.9
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 130
   width: 8056
   height: 6037
   camera: FC3582
-  time: 2023-10-18 08:08:47.000000000+02:00
-- image_filename: 2023_10_18__08_11_DJI_0165.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 140.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 7933
-  height: 5807
-  camera: FC3582
-  time: 2023-10-18 08:11:07.000000000+02:00
-- image_filename: 2023_10_18__08_09_DJI_0158.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 114.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-10-18 08:09:01.000000000+02:00
-- image_filename: 2023_10_18__08_11_DJI_0166.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 138.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 120
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-10-18 08:11:19.000000000+02:00
-- image_filename: 2023_10_18__08_06_DJI_0147.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 97.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-10-18 08:06:37.000000000+02:00
-- image_filename: 2023_10_18__08_09_DJI_0162.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 140.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.008333333333333333
-  exposure_string: 1/120 s
-  iso: 100
-  width: 6037
-  height: 8056
-  camera: FC3582
-  time: 2023-10-18 08:09:53.000000000+02:00
-- image_filename: 2023_10_18__08_08_DJI_0154.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 100.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8036
-  height: 6012
-  camera: FC3582
-  time: 2023-10-18 08:08:11.000000000+02:00
+  time: 2023-10-18 08:05:00.000000000+02:00
 - image_filename: 2023_10_18__08_05_DJI_0144.jpg
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
+  lat: 52.476036111111114
+  lon: 17.289863888888892
   altitude: 94.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -161,10 +49,92 @@
   height: 6037
   camera: FC3582
   time: 2023-10-18 08:05:16.000000000+02:00
+- image_filename: 2023_10_18__08_06_DJI_0147.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.476
+  lon: 17.290708333333335
+  altitude: 97.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-10-18 08:06:37.000000000+02:00
+- image_filename: 2023_10_18__08_07_DJI_0152.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.47594166666667
+  lon: 17.290819444444445
+  altitude: 101.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 140
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-10-18 08:07:51.000000000+02:00
+- image_filename: 2023_10_18__08_08_DJI_0154.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.47594166666667
+  lon: 17.290819444444445
+  altitude: 100.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8036
+  height: 6012
+  camera: FC3582
+  time: 2023-10-18 08:08:11.000000000+02:00
+- image_filename: 2023_10_18__08_08_DJI_0156
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+- image_filename: 2023_10_18__08_08_DJI_0156.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.475925000000004
+  lon: 17.290844444444446
+  altitude: 114.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-10-18 08:08:47.000000000+02:00
+- image_filename: 2023_10_18__08_09_DJI_0158.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.475925000000004
+  lon: 17.29084166666667
+  altitude: 114.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-10-18 08:09:01.000000000+02:00
 - image_filename: 2023_10_18__08_09_DJI_0160.jpg
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
+  lat: 52.47592777777778
+  lon: 17.290838888888892
   altitude: 140.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -177,10 +147,128 @@
   height: 6037
   camera: FC3582
   time: 2023-10-18 08:09:31.000000000+02:00
+- image_filename: 2023_10_18__08_09_DJI_0162.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.47593055555556
+  lon: 17.290836111111112
+  altitude: 140.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008333333333333333
+  exposure_string: 1/120 s
+  iso: 100
+  width: 6037
+  height: 8056
+  camera: FC3582
+  time: 2023-10-18 08:09:53.000000000+02:00
+- image_filename: 2023_10_18__08_11_DJI_0165
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+- image_filename: 2023_10_18__08_11_DJI_0165.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.47516666666667
+  lon: 17.29128888888889
+  altitude: 140.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 7933
+  height: 5807
+  camera: FC3582
+  time: 2023-10-18 08:11:07.000000000+02:00
+- image_filename: 2023_10_18__08_11_DJI_0166
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+- image_filename: 2023_10_18__08_11_DJI_0166.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.47516666666667
+  lon: 17.29128888888889
+  altitude: 138.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 120
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-10-18 08:11:19.000000000+02:00
+- image_filename: 2023_10_18__08_16_DJI_0172.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.47560555555556
+  lon: 17.292491666666667
+  altitude: 108.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-10-18 08:16:41.000000000+02:00
+- image_filename: 2023_10_18__08_22_DJI_0174.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.472861111111115
+  lon: 17.294644444444447
+  altitude: 128.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 7822
+  height: 5659
+  camera: FC3582
+  time: 2023-10-18 08:22:01.000000000+02:00
+- image_filename: 2023_10_18__08_22_DJI_0176
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+- image_filename: 2023_10_18__08_22_DJI_0176.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.47269444444445
+  lon: 17.294508333333336
+  altitude: 128.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 140
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-10-18 08:22:25.000000000+02:00
+- image_filename: 2023_10_18__08_23_DJI_0180.jpg
+  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.47197777777778
+  lon: 17.294700000000002
+  altitude: 123.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 140
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-10-18 08:23:41.000000000+02:00
 - image_filename: 2023_10_18__08_24_DJI_0184.jpg
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.46666666666667
-  lon: 17.3
+  lat: 52.47202777777778
+  lon: 17.29580277777778
   altitude: 148.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -195,8 +283,8 @@
   time: 2023-10-18 08:24:59.000000000+02:00
 - image_filename: 2023_10_18__08_26_DJI_0189.jpg
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.46666666666667
-  lon: 17.3
+  lat: 52.469322222222225
+  lon: 17.297247222222225
   altitude: 147.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -209,74 +297,12 @@
   height: 6037
   camera: FC3582
   time: 2023-10-18 08:26:39.000000000+02:00
-- image_filename: 2023_10_18__08_05_DJI_0143.jpg
+- image_filename: 2023_10_18__08_27_DJI_0193
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 94.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  iso: 130
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-10-18 08:05:00.000000000+02:00
-- image_filename: 2023_10_18__08_22_DJI_0176.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.46666666666667
-  lon: 17.3
-  altitude: 128.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 140
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-10-18 08:22:25.000000000+02:00
-- image_filename: 2023_10_18__08_42_DJI_0213.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.46666666666667
-  lon: 17.3
-  altitude: 181.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-10-18 08:42:21.000000000+02:00
-- image_filename: 2023_10_18__08_04_DJI_0142.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.283333333333335
-  altitude: 95.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 140
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-10-18 08:04:52.000000000+02:00
 - image_filename: 2023_10_18__08_27_DJI_0193.jpg
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.46666666666667
-  lon: 17.3
+  lat: 52.468925
+  lon: 17.297158333333336
   altitude: 179.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -289,42 +315,10 @@
   height: 5771
   camera: FC3582
   time: 2023-10-18 08:27:44.000000000+02:00
-- image_filename: 2023_10_18__08_23_DJI_0180.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.46666666666667
-  lon: 17.3
-  altitude: 123.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 140
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-10-18 08:23:41.000000000+02:00
-- image_filename: 2023_10_18__08_16_DJI_0172.jpg
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.483333333333334
-  lon: 17.3
-  altitude: 108.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  iso: 110
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-10-18 08:16:41.000000000+02:00
 - image_filename: 2023_10_18__08_29_DJI_0199.jpg
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-  lat: 52.46666666666667
-  lon: 17.3
+  lat: 52.46930277777778
+  lon: 17.29687777777778
   altitude: 179.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -337,15 +331,19 @@
   height: 6037
   camera: FC3582
   time: 2023-10-18 08:29:40.000000000+02:00
-- image_filename: 2023_10_18__08_04_DJI_0142
+- image_filename: 2023_10_18__08_42_DJI_0213.jpg
   post_slug: 2023-10-18-mgielki-w-pobiedziskach
-- image_filename: 2023_10_18__08_08_DJI_0156
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-- image_filename: 2023_10_18__08_11_DJI_0165
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-- image_filename: 2023_10_18__08_11_DJI_0166
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-- image_filename: 2023_10_18__08_22_DJI_0176
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
-- image_filename: 2023_10_18__08_27_DJI_0193
-  post_slug: 2023-10-18-mgielki-w-pobiedziskach
+  lat: 52.46596388888889
+  lon: 17.307302777777778
+  altitude: 181.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-10-18 08:42:21.000000000+02:00

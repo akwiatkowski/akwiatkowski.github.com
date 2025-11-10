@@ -1,20 +1,18 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
 - image_filename: 2020_11_13__18_47_DSC06397.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 5000
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5523
-  height: 3582
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-13 18:47:55+01:00
+  iso: 5000
+  width: 5523
+  height: 3582
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-13 18:47:55.000000000+01:00
 - image_filename: 2020_11_14__11_34_DSC06499.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.652611111111106
@@ -24,45 +22,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 3200
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
   width: 3804
   height: 5103
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-11-14 11:34:33+01:00
-- image_filename: 2020_11_14__11_45_DSC06600.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 125
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  width: 3317
-  height: 5088
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-11-14 11:45:52+01:00
-- image_filename: 2020_11_14__12_57_DSC06615.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.60594444444445
-  lon: 18.436722222222222
-  altitude: 91.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5909
-  height: 3931
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-11-14 12:57:51+01:00
+  time: 2020-11-14 11:34:33.000000000+01:00
 - image_filename: 2020_11_14__11_35_DSC06501.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.65575
@@ -72,31 +39,45 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 6400
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-11-14 11:35:12+01:00
-- image_filename: 2020_11_14__12_59_DSC06635.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.605958333333334
-  lon: 18.434458333333332
-  altitude: 91.0
-  focal_length: 138.6
-  focal_length_35: 138.0
-  crop: 0.9956709956709957
-  aperture: 5.6
-  iso: 1250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  iso: 6400
+  width: 4023
+  height: 6047
+  lens: FE 85mm F1.8
   camera: ILCE-7M3
-  width: 5360
-  height: 3552
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-14 12:59:45+01:00
+  time: 2020-11-14 11:35:12.000000000+01:00
+- image_filename: 2020_11_14__11_45_DSC06600.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  width: 3317
+  height: 5088
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-14 11:45:52.000000000+01:00
+- image_filename: 2020_11_14__12_57_DSC06615.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.60594444444445
+  lon: 18.436722222222222
+  altitude: 91.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 5909
+  height: 3931
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-14 12:57:51.000000000+01:00
 - image_filename: 2020_11_14__12_59_DSC06620.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.60594444444445
@@ -106,14 +87,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 1250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4761
-  height: 3305
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-14 12:59:09+01:00
+  iso: 1250
+  width: 4761
+  height: 3305
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 12:59:09.000000000+01:00
+- image_filename: 2020_11_14__12_59_DSC06635.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.605958333333334
+  lon: 18.434458333333332
+  altitude: 91.0
+  focal_length: 138.6
+  focal_length_35: 138.0
+  crop: 0.9956709956709957
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 1250
+  width: 5360
+  height: 3552
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 12:59:45.000000000+01:00
 - image_filename: 2020_11_14__13_00_DSC06639.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.60597222222222
@@ -123,65 +121,14 @@
   focal_length_35: 161.0
   crop: 0.9950556242274412
   aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 1000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 5252
   height: 3672
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-14 13:00:05+01:00
-- image_filename: 2020_11_14__13_00_DSC06648.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.605958333333334
-  lon: 18.434458333333332
-  altitude: 90.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 2000
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6001
-  height: 3960
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-14 13:00:27+01:00
-- image_filename: 2020_11_14__13_00_DSC06653.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.60597222222222
-  lon: 18.434638888888887
-  altitude: 90.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5924
-  height: 3951
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-11-14 13:00:49+01:00
-- image_filename: 2020_11_14__13_00_DSC06642.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.60597222222222
-  lon: 18.434458333333332
-  altitude: 90.0
-  focal_length: 308.9
-  focal_length_35: 308.0
-  crop: 0.9970864357397217
-  aperture: 6.3
-  iso: 800
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4867
-  height: 3229
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-14 13:00:13+01:00
+  time: 2020-11-14 13:00:05.000000000+01:00
 - image_filename: 2020_11_14__13_00_DSC06641.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.60597222222222
@@ -191,65 +138,65 @@
   focal_length_35: 198.0
   crop: 0.9969788519637462
   aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 1000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 5746
   height: 3852
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-14 13:00:11+01:00
-- image_filename: 2020_11_14__13_02_DSC06674.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.605986111111115
-  lon: 18.434944444444444
-  altitude: 90.0
-  focal_length: 356.1
-  focal_length_35: 356.0
-  crop: 0.9997191800056163
-  aperture: 6.3
-  iso: 2000
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
+  time: 2020-11-14 13:00:11.000000000+01:00
+- image_filename: 2020_11_14__13_00_DSC06642.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.60597222222222
+  lon: 18.434458333333332
+  altitude: 90.0
+  focal_length: 308.9
+  focal_length_35: 308.0
+  crop: 0.9970864357397217
+  aperture: 6.3
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:02:43+01:00
-- image_filename: 2020_11_14__13_02_DSC06670.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.606
-  lon: 18.43488888888889
-  altitude: 90.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 250
+  iso: 800
+  width: 4867
+  height: 3229
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5994
-  height: 3988
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-11-14 13:02:03+01:00
-- image_filename: 2020_11_14__13_02_DSC06676.jpg
+  time: 2020-11-14 13:00:13.000000000+01:00
+- image_filename: 2020_11_14__13_00_DSC06648.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.605958333333334
-  lon: 18.435111111111112
+  lon: 18.434458333333332
   altitude: 90.0
   focal_length: 400.0
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 1600
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5916
-  height: 3936
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:02:59+01:00
+  iso: 2000
+  width: 6001
+  height: 3960
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:00:27.000000000+01:00
+- image_filename: 2020_11_14__13_00_DSC06653.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.60597222222222
+  lon: 18.434638888888887
+  altitude: 90.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 500
+  width: 5924
+  height: 3951
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:00:49.000000000+01:00
 - image_filename: 2020_11_14__13_01_DSC06661.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.606
@@ -259,14 +206,65 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-11-14 13:01:22+01:00
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:01:22.000000000+01:00
+- image_filename: 2020_11_14__13_02_DSC06670.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.606
+  lon: 18.43488888888889
+  altitude: 90.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 250
+  width: 5994
+  height: 3988
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:02:03.000000000+01:00
+- image_filename: 2020_11_14__13_02_DSC06674.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.605986111111115
+  lon: 18.434944444444444
+  altitude: 90.0
+  focal_length: 356.1
+  focal_length_35: 356.0
+  crop: 0.9997191800056163
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 2000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:02:43.000000000+01:00
+- image_filename: 2020_11_14__13_02_DSC06676.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.605958333333334
+  lon: 18.435111111111112
+  altitude: 90.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 1600
+  width: 5916
+  height: 3936
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:02:59.000000000+01:00
 - image_filename: 2020_11_14__13_03_DSC06679.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.605958333333334
@@ -276,14 +274,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 2000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5909
-  height: 3960
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:03:02+01:00
+  iso: 2000
+  width: 5909
+  height: 3960
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:03:02.000000000+01:00
 - image_filename: 2020_11_14__13_03_DSC06683.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.60594444444445
@@ -293,14 +291,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 800
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5734
-  height: 3815
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:03:27+01:00
+  iso: 800
+  width: 5734
+  height: 3815
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:03:27.000000000+01:00
 - image_filename: 2020_11_14__13_04_DSC06695.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.60594444444445
@@ -310,14 +308,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 1250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4396
-  height: 3145
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:04:54+01:00
+  iso: 1250
+  width: 4396
+  height: 3145
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:04:54.000000000+01:00
 - image_filename: 2020_11_14__13_04_DSC06697.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.60594444444445
@@ -327,14 +325,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 2000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:04:58+01:00
+  iso: 2000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:04:58.000000000+01:00
 - image_filename: 2020_11_14__13_05_DSC06699.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.60594444444445
@@ -344,14 +342,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 2500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5193
-  height: 3705
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:05:00+01:00
+  iso: 2500
+  width: 5193
+  height: 3705
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:05:00.000000000+01:00
 - image_filename: 2020_11_14__13_05_DSC06704.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.60594444444445
@@ -361,14 +359,14 @@
   focal_length_35: 302.0
   crop: 0.9990076083360899
   aperture: 6.3
-  iso: 1250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:05:34+01:00
+  iso: 1250
+  width: 4023
+  height: 6047
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:05:34.000000000+01:00
 - image_filename: 2020_11_14__13_05_DSC06710.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.60594444444445
@@ -378,14 +376,14 @@
   focal_length_35: 282.0
   crop: 0.9971711456859972
   aperture: 6.3
-  iso: 1250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5884
-  height: 3869
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:05:56+01:00
+  iso: 1250
+  width: 5884
+  height: 3869
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:05:56.000000000+01:00
 - image_filename: 2020_11_14__13_21_DSC06715.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.55819444444444
@@ -395,14 +393,14 @@
   focal_length_35: 268.0
   crop: 0.9988818486768543
   aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5702
-  height: 3794
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:21:22+01:00
+  iso: 400
+  width: 5702
+  height: 3794
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-14 13:21:22.000000000+01:00
 - image_filename: 2020_11_14__13_22_DSC06718.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.55822222222222
@@ -412,31 +410,14 @@
   focal_length_35: 187.0
   crop: 0.9994655264564405
   aperture: 5.6
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5586
-  height: 3432
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:22:11+01:00
-- image_filename: 2020_11_14__13_35_DSC06741.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.55913888888889
-  lon: 18.413013888888887
-  altitude: 87.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
+  iso: 320
+  width: 5586
+  height: 3432
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5449
-  height: 4003
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-11-14 13:35:57+01:00
+  time: 2020-11-14 13:22:11.000000000+01:00
 - image_filename: 2020_11_14__13_27_DSC06734.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.55822222222222
@@ -446,31 +427,31 @@
   focal_length_35: 53.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-14 13:27:37+01:00
-- image_filename: 2020_11_14__13_57_DSC06753.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.57413888888889
-  lon: 18.650902777777777
-  altitude: 81.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
   iso: 100
+  width: 6048
+  height: 4024
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5997
-  height: 3990
+  time: 2020-11-14 13:27:37.000000000+01:00
+- image_filename: 2020_11_14__13_35_DSC06741.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.55913888888889
+  lon: 18.413013888888887
+  altitude: 87.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-11-14 13:57:44+01:00
+  iso: 100
+  width: 5449
+  height: 4003
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 13:35:57.000000000+01:00
 - image_filename: 2020_11_14__13_36_DSC06744.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.55925
@@ -480,14 +461,14 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5958
-  height: 3914
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-14 13:36:06+01:00
+  iso: 100
+  width: 5958
+  height: 3914
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 13:36:06.000000000+01:00
 - image_filename: 2020_11_14__13_57_DSC06746.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.57431944444445
@@ -497,14 +478,14 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5761
-  height: 3833
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-14 13:57:04+01:00
+  iso: 100
+  width: 5761
+  height: 3833
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 13:57:04.000000000+01:00
 - image_filename: 2020_11_14__13_57_DSC06749.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.57588888888889
@@ -514,48 +495,31 @@
   focal_length_35: 42.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5907
-  height: 3930
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-14 13:57:19+01:00
-- image_filename: 2020_11_14__13_57_DSC06756.jpg
+  iso: 100
+  width: 5907
+  height: 3930
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 13:57:19.000000000+01:00
+- image_filename: 2020_11_14__13_57_DSC06753.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.57318055555556
-  lon: 18.65363888888889
-  altitude: 84.0
+  lat: 52.57413888888889
+  lon: 18.650902777777777
+  altitude: 81.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 5.6
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
   iso: 100
+  width: 5997
+  height: 3990
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5985
-  height: 3982
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-14 13:57:57+01:00
-- image_filename: 2020_11_14__13_58_DSC06757.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.57273611111111
-  lon: 18.655194444444444
-  altitude: 86.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5985
-  height: 3982
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-14 13:58:04+01:00
+  time: 2020-11-14 13:57:44.000000000+01:00
 - image_filename: 2020_11_14__13_57_DSC06754.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.57376388888889
@@ -565,14 +529,48 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5974
-  height: 3975
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-14 13:57:48+01:00
+  iso: 100
+  width: 5974
+  height: 3975
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 13:57:48.000000000+01:00
+- image_filename: 2020_11_14__13_57_DSC06756.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.57318055555556
+  lon: 18.65363888888889
+  altitude: 84.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5985
+  height: 3982
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 13:57:57.000000000+01:00
+- image_filename: 2020_11_14__13_58_DSC06757.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.57273611111111
+  lon: 18.655194444444444
+  altitude: 86.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5985
+  height: 3982
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 13:58:04.000000000+01:00
 - image_filename: 2020_11_14__13_58_DSC06758.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.57241666666667
@@ -582,48 +580,14 @@
   focal_length_35: 54.0
   crop: 1.0
   aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5985
-  height: 3982
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-14 13:58:11+01:00
-- image_filename: 2020_11_14__14_51_DSC06768.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.49608333333333
-  lon: 18.64423611111111
-  altitude: 82.0
-  focal_length: 60.0
-  focal_length_35: 60.0
-  crop: 1.0
-  aperture: 5.0
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 5985
   height: 3982
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-11-14 14:51:25+01:00
-- image_filename: 2020_11_14__14_21_DSC06765.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.50156944444444
-  lon: 18.647875
-  altitude: 73.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5912
-  height: 3933
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-11-14 14:21:42+01:00
+  time: 2020-11-14 13:58:11.000000000+01:00
 - image_filename: 2020_11_14__14_21_DSC06760.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.50156944444444
@@ -633,14 +597,14 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5985
-  height: 3982
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-11-14 14:21:27+01:00
+  iso: 100
+  width: 5985
+  height: 3982
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 14:21:27.000000000+01:00
 - image_filename: 2020_11_14__14_21_DSC06764.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.50156944444444
@@ -650,48 +614,48 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5985
-  height: 3982
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-14 14:21:40+01:00
-- image_filename: 2020_11_14__14_52_DSC06777.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.49616666666667
-  lon: 18.644180555555554
-  altitude: 83.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5815
-  height: 3869
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-14 14:52:51+01:00
-- image_filename: 2020_11_14__14_53_DSC06779.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.49619444444445
-  lon: 18.644041666666666
-  altitude: 83.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 5985
   height: 3982
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 14:21:40.000000000+01:00
+- image_filename: 2020_11_14__14_21_DSC06765.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.50156944444444
+  lon: 18.647875
+  altitude: 73.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-11-14 14:53:01+01:00
+  iso: 100
+  width: 5912
+  height: 3933
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 14:21:42.000000000+01:00
+- image_filename: 2020_11_14__14_51_DSC06768.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.49608333333333
+  lon: 18.64423611111111
+  altitude: 82.0
+  focal_length: 60.0
+  focal_length_35: 60.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5985
+  height: 3982
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 14:51:25.000000000+01:00
 - image_filename: 2020_11_14__14_52_DSC06772.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.49611111111111
@@ -701,31 +665,48 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5985
-  height: 3822
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-14 14:52:03+01:00
-- image_filename: 2020_11_14__14_57_DSC06806.jpg
+  iso: 100
+  width: 5985
+  height: 3822
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 14:52:03.000000000+01:00
+- image_filename: 2020_11_14__14_52_DSC06777.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.496694444444444
-  lon: 18.642777777777777
-  altitude: 72.0
+  lat: 52.49616666666667
+  lon: 18.644180555555554
+  altitude: 83.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5729
-  height: 3811
+  aperture: 5.6
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-14 14:57:39+01:00
+  iso: 100
+  width: 5815
+  height: 3869
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 14:52:51.000000000+01:00
+- image_filename: 2020_11_14__14_53_DSC06779.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.49619444444445
+  lon: 18.644041666666666
+  altitude: 83.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5985
+  height: 3982
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 14:53:01.000000000+01:00
 - image_filename: 2020_11_14__14_53_DSC06781.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.49627777777778
@@ -735,31 +716,14 @@
   focal_length_35: 38.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5805
-  height: 3862
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-11-14 14:53:24+01:00
-- image_filename: 2020_11_14__14_55_DSC06793.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.496652777777776
-  lon: 18.64315277777778
-  altitude: 78.0
-  focal_length: 55.0
-  focal_length_35: 55.0
-  crop: 1.0
-  aperture: 5.6
   iso: 100
+  width: 5805
+  height: 3862
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5726
-  height: 3809
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-14 14:55:09+01:00
+  time: 2020-11-14 14:53:24.000000000+01:00
 - image_filename: 2020_11_14__14_54_DSC06785.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.49651388888889
@@ -769,31 +733,48 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5894
-  height: 3921
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-11-14 14:54:10+01:00
-- image_filename: 2020_11_14__15_17_DSC06828.jpg
-  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
-  lat: 52.468583333333335
-  lon: 18.572180555555555
-  altitude: 136.0
-  focal_length: 49.0
-  focal_length_35: 49.0
-  crop: 1.0
-  aperture: 5.0
   iso: 100
+  width: 5894
+  height: 3921
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5857
-  height: 3896
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-11-14 15:17:41+01:00
+  time: 2020-11-14 14:54:10.000000000+01:00
+- image_filename: 2020_11_14__14_55_DSC06793.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.496652777777776
+  lon: 18.64315277777778
+  altitude: 78.0
+  focal_length: 55.0
+  focal_length_35: 55.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5726
+  height: 3809
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 14:55:09.000000000+01:00
+- image_filename: 2020_11_14__14_57_DSC06806.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.496694444444444
+  lon: 18.642777777777777
+  altitude: 72.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5729
+  height: 3811
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 14:57:39.000000000+01:00
 - image_filename: 2020_11_14__15_17_DSC06825.jpg
   post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
   lat: 52.46870833333333
@@ -803,11 +784,28 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-14 15:17:28+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 15:17:28.000000000+01:00
+- image_filename: 2020_11_14__15_17_DSC06828.jpg
+  post_slug: 2020-11-14-niepoznane-okolice-kruszwicy
+  lat: 52.468583333333335
+  lon: 18.572180555555555
+  altitude: 136.0
+  focal_length: 49.0
+  focal_length_35: 49.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5857
+  height: 3896
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-14 15:17:41.000000000+01:00

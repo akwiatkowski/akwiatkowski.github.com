@@ -1,413 +1,8 @@
 ---
-- image_filename: 2023_05_27__12_47_DJI_0246.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 37.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  iso: 120
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:47:09.000000000+02:00
-- image_filename: 2023_05_27__12_50_DJI_0256.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:50:07.000000000+02:00
-- image_filename: 2023_05_27__12_48_DJI_0251.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 61.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:48:40.000000000+02:00
-- image_filename: 2023_05_27__12_54_DJI_0270.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 140
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:54:21.000000000+02:00
-- image_filename: 2023_05_27__12_08_DJI_0231.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.166666666666668
-  altitude: 70.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:08:17.000000000+02:00
-- image_filename: 2023_05_27__12_08_P5272611.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.55694444444444
-  lon: 17.23333333333333
-  altitude: 111.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 200
-  width: 8153
-  height: 6080
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-05-27 12:08:55.000000000+02:00
-- image_filename: 2023_05_27__12_52_DJI_0264.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 120
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:52:23.000000000+02:00
-- image_filename: 2023_05_27__12_56_DJI_0276.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 61.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:56:30.000000000+02:00
-- image_filename: 2023_05_27__12_59_DJI_0283.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.55
-  lon: 17.233333333333334
-  altitude: 53.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:59:18.000000000+02:00
-- image_filename: 2023_05_27__11_40_P5272607.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.556666666666665
-  lon: 17.22472222222222
-  altitude: 106.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 200
-  width: 8038
-  height: 5910
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-05-27 11:40:28.000000000+02:00
-- image_filename: 2023_05_27__12_48_DJI_0249.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 61.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:48:08.000000000+02:00
-- image_filename: 2023_05_27__12_51_DJI_0260.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:51:25.000000000+02:00
-- image_filename: 2023_05_27__12_53_DJI_0268.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:53:49.000000000+02:00
-- image_filename: 2023_05_27__10_49_P5272604.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.59111111111111
-  lon: 17.13722222222222
-  altitude: 80.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-05-27 10:49:48.000000000+02:00
-- image_filename: 2023_05_27__12_54_DJI_0269.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0006666666666666666
-  exposure_string: 1/1500 s
-  iso: 100
-  width: 6021
-  height: 8044
-  camera: FC3582
-  time: 2023-05-27 12:54:04.000000000+02:00
-- image_filename: 2023_05_27__12_46_DJI_0245.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 37.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 7917
-  height: 5924
-  camera: FC3582
-  time: 2023-05-27 12:46:54.000000000+02:00
-- image_filename: 2023_05_27__12_46_DJI_0243.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 24.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:46:03.000000000+02:00
-- image_filename: 2023_05_27__12_49_DJI_0253.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:49:10.000000000+02:00
-- image_filename: 2023_05_27__11_42_P5272608.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.55833333333333
-  lon: 17.22694444444444
-  altitude: 107.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 200
-  width: 8134
-  height: 6043
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-05-27 11:42:13.000000000+02:00
-- image_filename: 2023_05_27__12_50_DJI_0257.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:50:23.000000000+02:00
-- image_filename: 2023_05_27__12_09_P5272612.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.55694444444444
-  lon: 17.233055555555556
-  altitude: 110.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 200
-  width: 7991
-  height: 5848
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-05-27 12:09:15.000000000+02:00
-- image_filename: 2023_05_27__12_54_DJI_0271.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  iso: 140
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:54:35.000000000+02:00
-- image_filename: 2023_05_27__12_56_DJI_0277.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 61.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:56:46.000000000+02:00
-- image_filename: 2023_05_27__12_57_DJI_0279.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.55
-  lon: 17.233333333333334
-  altitude: 53.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:57:48.000000000+02:00
-- image_filename: 2023_05_27__12_49_DJI_0254.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.56666666666667
-  lon: 17.233333333333334
-  altitude: 107.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-05-27 12:49:23.000000000+02:00
 - image_filename: 2023_05_27__10_33_P5272601.jpg
   post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.61083333333333
-  lon: 17.121944444444445
+  lat: 52.610847222222226
+  lon: 17.121861111111112
   altitude: 79.0
   focal_length: 16.0
   focal_length_35: 32.0
@@ -423,8 +18,8 @@
   time: 2023-05-27 10:33:24.000000000+02:00
 - image_filename: 2023_05_27__10_33_P5272602.jpg
   post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.61083333333333
-  lon: 17.121944444444445
+  lat: 52.61086111111111
+  lon: 17.121861111111112
   altitude: 79.0
   focal_length: 17.0
   focal_length_35: 34.0
@@ -438,27 +33,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-05-27 10:33:49.000000000+02:00
-- image_filename: 2023_05_27__11_42_P5272610.jpg
-  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.55833333333333
-  lon: 17.22694444444444
-  altitude: 107.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 200
-  width: 7977
-  height: 5845
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-05-27 11:42:56.000000000+02:00
 - image_filename: 2023_05_27__10_47_P5272603.jpg
   post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
-  lat: 52.5925
-  lon: 17.13861111111111
+  lat: 52.59238888888889
+  lon: 17.138625
   altitude: 84.0
   focal_length: 15.0
   focal_length_35: 30.0
@@ -472,3 +50,425 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-05-27 10:47:01.000000000+02:00
+- image_filename: 2023_05_27__10_49_P5272604.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.590986111111114
+  lon: 17.13723611111111
+  altitude: 80.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-05-27 10:49:48.000000000+02:00
+- image_filename: 2023_05_27__11_40_P5272607.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55676388888889
+  lon: 17.224791666666665
+  altitude: 106.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8038
+  height: 5910
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-05-27 11:40:28.000000000+02:00
+- image_filename: 2023_05_27__11_42_P5272608.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55819444444444
+  lon: 17.226902777777777
+  altitude: 107.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8134
+  height: 6043
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-05-27 11:42:13.000000000+02:00
+- image_filename: 2023_05_27__11_42_P5272610.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55819444444444
+  lon: 17.226902777777777
+  altitude: 107.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 7977
+  height: 5845
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-05-27 11:42:56.000000000+02:00
+- image_filename: 2023_05_27__12_08_DJI_0231.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.573125000000005
+  lon: 17.160574999999998
+  altitude: 70.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:08:17.000000000+02:00
+- image_filename: 2023_05_27__12_08_P5272611.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55701388888889
+  lon: 17.233194444444443
+  altitude: 111.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8153
+  height: 6080
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-05-27 12:08:55.000000000+02:00
+- image_filename: 2023_05_27__12_09_P5272612.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55701388888889
+  lon: 17.233180555555553
+  altitude: 110.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 7991
+  height: 5848
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-05-27 12:09:15.000000000+02:00
+- image_filename: 2023_05_27__12_46_DJI_0243.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.558411111111106
+  lon: 17.22699722222222
+  altitude: 24.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:46:03.000000000+02:00
+- image_filename: 2023_05_27__12_46_DJI_0245.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55942777777778
+  lon: 17.227805555555555
+  altitude: 37.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 7917
+  height: 5924
+  camera: FC3582
+  time: 2023-05-27 12:46:54.000000000+02:00
+- image_filename: 2023_05_27__12_47_DJI_0246.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55940555555555
+  lon: 17.22779722222222
+  altitude: 37.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 120
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:47:09.000000000+02:00
+- image_filename: 2023_05_27__12_48_DJI_0249.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55985
+  lon: 17.226466666666663
+  altitude: 61.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:48:08.000000000+02:00
+- image_filename: 2023_05_27__12_48_DJI_0251.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55985
+  lon: 17.226469444444444
+  altitude: 61.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:48:40.000000000+02:00
+- image_filename: 2023_05_27__12_49_DJI_0253.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55985277777778
+  lon: 17.22647222222222
+  altitude: 107.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:49:10.000000000+02:00
+- image_filename: 2023_05_27__12_49_DJI_0254.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55985555555555
+  lon: 17.226469444444444
+  altitude: 107.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:49:23.000000000+02:00
+- image_filename: 2023_05_27__12_50_DJI_0256.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.56061111111111
+  lon: 17.22540833333333
+  altitude: 107.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:50:07.000000000+02:00
+- image_filename: 2023_05_27__12_50_DJI_0257.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.56061388888889
+  lon: 17.22540833333333
+  altitude: 107.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:50:23.000000000+02:00
+- image_filename: 2023_05_27__12_51_DJI_0260.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.56171388888889
+  lon: 17.22518333333333
+  altitude: 107.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:51:25.000000000+02:00
+- image_filename: 2023_05_27__12_52_DJI_0264.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.56222222222222
+  lon: 17.22517222222222
+  altitude: 107.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 120
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:52:23.000000000+02:00
+- image_filename: 2023_05_27__12_53_DJI_0268.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.56293333333333
+  lon: 17.22588611111111
+  altitude: 107.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:53:49.000000000+02:00
+- image_filename: 2023_05_27__12_54_DJI_0269.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.56293333333333
+  lon: 17.22588611111111
+  altitude: 107.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 6021
+  height: 8044
+  camera: FC3582
+  time: 2023-05-27 12:54:04.000000000+02:00
+- image_filename: 2023_05_27__12_54_DJI_0270.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.56293611111111
+  lon: 17.22588611111111
+  altitude: 107.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 140
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:54:21.000000000+02:00
+- image_filename: 2023_05_27__12_54_DJI_0271.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.56293333333333
+  lon: 17.225883333333332
+  altitude: 107.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 140
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:54:35.000000000+02:00
+- image_filename: 2023_05_27__12_56_DJI_0276.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55934722222222
+  lon: 17.229544444444443
+  altitude: 61.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:56:30.000000000+02:00
+- image_filename: 2023_05_27__12_56_DJI_0277.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55934444444444
+  lon: 17.22955
+  altitude: 61.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:56:46.000000000+02:00
+- image_filename: 2023_05_27__12_57_DJI_0279.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55778333333333
+  lon: 17.232177777777775
+  altitude: 53.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:57:48.000000000+02:00
+- image_filename: 2023_05_27__12_59_DJI_0283.jpg
+  post_slug: 2023-05-27-piaszczysta-puszcza-zielonka
+  lat: 52.55586944444444
+  lon: 17.235086111111112
+  altitude: 53.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8044
+  height: 6021
+  camera: FC3582
+  time: 2023-05-27 12:59:18.000000000+02:00

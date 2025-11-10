@@ -1,42 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2023-02-04-jezioro-tomickie
-- image_filename: 2023_02_04__13_09_P2047590.jpg
-  post_slug: 2023-02-04-jezioro-tomickie
-  lat: 52.31954166666667
-  lon: 16.63436111111111
-  altitude: 63.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8200
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-04 13:09:34.000000000+01:00
-- image_filename: 2023_02_04__13_04_P2047586.jpg
-  post_slug: 2023-02-04-jezioro-tomickie
-  lat: 52.318763888888896
-  lon: 16.636875
-  altitude: 64.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8200
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-04 13:04:46.000000000+01:00
 - image_filename: 2023_02_04__13_01_P2047583.jpg
   post_slug: 2023-02-04-jezioro-tomickie
   lat: 52.319375
@@ -55,6 +17,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-02-04 13:01:48.000000000+01:00
+- image_filename: 2023_02_04__13_04_P2047586.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.318763888888896
+  lon: 16.636875
+  altitude: 64.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-04 13:04:46.000000000+01:00
+- image_filename: 2023_02_04__13_05_P2047588.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31875
+  lon: 16.636833333333332
+  altitude: 63.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 15.9
+  iso: 200
+  width: 8140
+  height: 6048
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-04 13:05:42.000000000+01:00
+- image_filename: 2023_02_04__13_09_P2047590.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31954166666667
+  lon: 16.63436111111111
+  altitude: 63.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-04 13:09:34.000000000+01:00
 - image_filename: 2023_02_04__13_15_P2047596.jpg
   post_slug: 2023-02-04-jezioro-tomickie
   lat: 52.321083333333334
@@ -91,24 +107,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-02-04 13:17:29.000000000+01:00
-- image_filename: 2023_02_04__13_05_P2047588.jpg
+- image_filename: 2023_02_04__13_19_P2047600.jpg
   post_slug: 2023-02-04-jezioro-tomickie
-  lat: 52.31875
-  lon: 16.636833333333332
+  lat: 52.320819444444446
+  lon: 16.632819444444443
   altitude: 63.0
-  focal_length: 25.0
-  focal_length_35: 50.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 15.9
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.85
   iso: 200
-  width: 8140
-  height: 6048
+  width: 5240
+  height: 3912
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2023-02-04 13:05:42.000000000+01:00
+  time: 2023-02-04 13:19:30.000000000+01:00
 - image_filename: 2023_02_04__13_21_P2047602.jpg
   post_slug: 2023-02-04-jezioro-tomickie
   lat: 52.31995833333334
@@ -145,24 +161,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-02-04 13:26:06.000000000+01:00
-- image_filename: 2023_02_04__13_19_P2047600.jpg
-  post_slug: 2023-02-04-jezioro-tomickie
-  lat: 52.320819444444446
-  lon: 16.632819444444443
-  altitude: 63.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.85
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-04 13:19:30.000000000+01:00
 - image_filename: 2023_02_04__13_27_P2047608.jpg
   post_slug: 2023-02-04-jezioro-tomickie
   lat: 52.31890277777778
@@ -181,24 +179,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-02-04 13:27:01.000000000+01:00
-- image_filename: 2023_02_04__13_30_P2047618.jpg
-  post_slug: 2023-02-04-jezioro-tomickie
-  lat: 52.31880555555556
-  lon: 16.636902777777777
-  altitude: 62.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 1.08
-  iso: 200
-  width: 8145
-  height: 6075
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-04 13:30:43.000000000+01:00
 - image_filename: 2023_02_04__13_29_P2047616.jpg
   post_slug: 2023-02-04-jezioro-tomickie
   lat: 52.31883333333334
@@ -235,6 +215,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-02-04 13:30:22.000000000+01:00
+- image_filename: 2023_02_04__13_30_P2047618.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.636902777777777
+  altitude: 62.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.08
+  iso: 200
+  width: 8145
+  height: 6075
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-04 13:30:43.000000000+01:00
+- image_filename: 2023_02_04__13_31_P2047619.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.636888888888887
+  altitude: 62.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 75.15
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-04 13:31:01.000000000+01:00
 - image_filename: 2023_02_04__13_31_P2047621.jpg
   post_slug: 2023-02-04-jezioro-tomickie
   lat: 52.31880555555556
@@ -271,24 +287,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-02-04 13:31:57.000000000+01:00
-- image_filename: 2023_02_04__13_31_P2047619.jpg
-  post_slug: 2023-02-04-jezioro-tomickie
-  lat: 52.31880555555556
-  lon: 16.636888888888887
-  altitude: 62.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 75.15
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-04 13:31:01.000000000+01:00
 - image_filename: 2023_02_04__13_32_P2047625.jpg
   post_slug: 2023-02-04-jezioro-tomickie
   lat: 52.31880555555556
@@ -307,6 +305,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-02-04 13:32:11.000000000+01:00
+- image_filename: 2023_02_04__13_32_P2047626.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.636875
+  altitude: 62.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.27
+  iso: 200
+  width: 5073
+  height: 3680
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-04 13:32:13.000000000+01:00
 - image_filename: 2023_02_04__13_33_P2047634.jpg
   post_slug: 2023-02-04-jezioro-tomickie
   lat: 52.31880555555556
@@ -343,21 +359,3 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-02-04 14:12:08.000000000+01:00
-- image_filename: 2023_02_04__13_32_P2047626.jpg
-  post_slug: 2023-02-04-jezioro-tomickie
-  lat: 52.31880555555556
-  lon: 16.636875
-  altitude: 62.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 3.27
-  iso: 200
-  width: 5073
-  height: 3680
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-04 13:32:13.000000000+01:00

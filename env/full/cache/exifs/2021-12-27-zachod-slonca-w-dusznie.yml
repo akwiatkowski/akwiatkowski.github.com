@@ -1,75 +1,174 @@
 ---
-- image_filename: 2021_12_27__15_15_DSC04542.jpg
+- image_filename: 2021_12_27__12_09_DSC04077.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
-  lon: 17.86648611111111
-  altitude: 161.0
-  focal_length: 51.0
-  focal_length_35: 51.0
+  lat: 52.45234722222222
+  lon: 17.104875
+  altitude: 90.0
+  focal_length: 101.0
+  focal_length_35: 101.0
   crop: 1.0
-  aperture: 7.1
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 125
-  width: 5851
-  height: 3692
-  lens: E 28-75mm F2.8-2.8
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5675
+  height: 3776
+  lens: E 70-180mm F2.8 A056
   camera: ILCE-7M3
-  time: 2021-12-27 15:15:56.000000000+01:00
-- image_filename: 2021_12_27__14_33_PC273090.jpg
+  time: 2021-12-27 12:09:55.000000000+01:00
+- image_filename: 2021_12_27__12_29_DSC04141.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62265277777778
-  lon: 17.86652777777778
-  altitude: 173.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 6.88
-  iso: 200
-  width: 8144
-  height: 6074
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:33:41.000000000+01:00
-- image_filename: 2021_12_27__15_20_PC273145.jpg
+  lat: 52.49411111111111
+  lon: 17.389777777777777
+  altitude: 110.0
+  focal_length: 91.0
+  focal_length_35: 91.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 125
+  width: 4613
+  height: 3271
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:29:53.000000000+01:00
+- image_filename: 2021_12_27__12_37_DSC04237.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622597222222225
-  lon: 17.866500000000002
-  altitude: 160.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 16.03
-  iso: 200
-  width: 7725
-  height: 5777
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:20:51.000000000+01:00
-- image_filename: 2021_12_27__15_20_PC273144.jpg
+  lat: 52.50738888888889
+  lon: 17.496694444444444
+  altitude: 109.0
+  focal_length: 171.0
+  focal_length_35: 171.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:37:21.000000000+01:00
+- image_filename: 2021_12_27__12_37_DSC04249.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622597222222225
-  lon: 17.866500000000002
-  altitude: 161.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
+  lat: 52.50884722222222
+  lon: 17.505208333333332
+  altitude: 108.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 125
+  width: 5708
+  height: 3797
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:37:41.000000000+01:00
+- image_filename: 2021_12_27__12_38_DSC04263.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.513083333333334
+  lon: 17.52398611111111
+  altitude: 105.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 125
+  width: 5559
+  height: 3658
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:38:22.000000000+01:00
+- image_filename: 2021_12_27__12_45_DSC04306.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.53252777777778
+  lon: 17.646638888888887
+  altitude: 109.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5676
+  height: 3777
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:45:37.000000000+01:00
+- image_filename: 2021_12_27__12_46_DSC04319.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.53440277777778
+  lon: 17.686138888888888
+  altitude: 107.0
+  focal_length: 107.0
+  focal_length_35: 107.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:20:31.000000000+01:00
+  width: 5170
+  height: 3554
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:46:58.000000000+01:00
+- image_filename: 2021_12_27__12_47_DSC04330.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.53469444444444
+  lon: 17.691972222222223
+  altitude: 106.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5985
+  height: 3982
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:47:10.000000000+01:00
+- image_filename: 2021_12_27__12_47_DSC04338.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.53491666666667
+  lon: 17.69684722222222
+  altitude: 105.0
+  focal_length: 136.0
+  focal_length_35: 136.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5591
+  height: 3633
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:47:20.000000000+01:00
+- image_filename: 2021_12_27__12_47_DSC04342.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.535013888888884
+  lon: 17.69879166666667
+  altitude: 105.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5709
+  height: 3798
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:47:24.000000000+01:00
 - image_filename: 2021_12_27__12_47_DSC04348.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.535291666666666
@@ -87,24 +186,126 @@
   lens: E 70-180mm F2.8 A056
   camera: ILCE-7M3
   time: 2021-12-27 12:47:40.000000000+01:00
-- image_filename: 2021_12_27__13_37_PC273011.jpg
+- image_filename: 2021_12_27__12_50_DSC04360.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.621
-  lon: 17.89173611111111
+  lat: 52.54119444444444
+  lon: 17.727375
+  altitude: 107.0
+  focal_length: 88.0
+  focal_length_35: 88.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5832
+  height: 3880
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:50:21.000000000+01:00
+- image_filename: 2021_12_27__12_56_DSC04400.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.57376388888889
+  lon: 17.83709722222222
+  altitude: 103.0
+  focal_length: 96.0
+  focal_length_35: 96.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 125
+  width: 5447
+  height: 3727
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:56:49.000000000+01:00
+- image_filename: 2021_12_27__12_57_DSC04405.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.57673611111112
+  lon: 17.849680555555555
+  altitude: 104.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 4852
+  height: 3437
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:57:18.000000000+01:00
+- image_filename: 2021_12_27__12_58_DSC04429.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.585972222222225
+  lon: 17.880541666666666
   altitude: 112.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 54.61
+  focal_length: 89.0
+  focal_length_35: 89.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 200
-  width: 7918
-  height: 5921
+  width: 5507
+  height: 3444
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:58:30.000000000+01:00
+- image_filename: 2021_12_27__12_58_DSC04432.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.58602777777778
+  lon: 17.881027777777778
+  altitude: 112.0
+  focal_length: 89.0
+  focal_length_35: 89.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 160
+  width: 5891
+  height: 3919
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:58:31.000000000+01:00
+- image_filename: 2021_12_27__12_59_DSC04442.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.59384722222222
+  lon: 17.892416666666666
+  altitude: 109.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 250
+  width: 5916
+  height: 3936
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 12:59:08.000000000+01:00
+- image_filename: 2021_12_27__13_06_PC272961.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.61131944444445
+  lon: 17.902805555555553
+  altitude: 100.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8133
+  height: 6082
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 13:37:07.000000000+01:00
+  time: 2021-12-27 13:06:52.000000000+01:00
 - image_filename: 2021_12_27__13_07_PC272962.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.61156944444445
@@ -123,361 +324,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-27 13:07:41.000000000+01:00
-- image_filename: 2021_12_27__15_49_PC273211.jpg
+- image_filename: 2021_12_27__13_08_PC272963.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.624
-  lon: 17.883180555555555
-  altitude: 121.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 2.64
-  iso: 200
-  width: 5881
-  height: 7864
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:49:34.000000000+01:00
-- image_filename: 2021_12_27__15_57_PC273220.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62501388888889
-  lon: 17.89090277777778
-  altitude: 113.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.25
-  exposure_string: 1/4 s
-  focus_distance: 14.74
-  iso: 200
-  width: 8116
-  height: 6080
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:57:08.000000000+01:00
-- image_filename: 2021_12_27__14_29_PC273082.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622597222222225
-  lon: 17.866666666666667
-  altitude: 167.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.58
-  iso: 400
-  width: 6132
-  height: 8200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:29:11.000000000+01:00
-- image_filename: 2021_12_27__14_01_PC273058.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62397222222222
-  lon: 17.88313888888889
-  altitude: 129.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 38.92
-  iso: 200
-  width: 7535
-  height: 5601
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:01:44.000000000+01:00
-- image_filename: 2021_12_27__15_10_PC273133.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
-  lon: 17.86652777777778
-  altitude: 160.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1.51
-  iso: 200
-  width: 9565
-  height: 6634
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:10:22.000000000+01:00
-- image_filename: 2021_12_27__14_20_PC273071.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.620777777777775
-  lon: 17.871375
-  altitude: 151.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 2.63
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:20:40.000000000+01:00
-- image_filename: 2021_12_27__13_40_PC273017.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62231944444444
-  lon: 17.891319444444445
-  altitude: 116.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 53.72
-  iso: 200
-  width: 7838
-  height: 5861
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:40:59.000000000+01:00
-- image_filename: 2021_12_27__14_18_PC273066.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62051388888889
-  lon: 17.87313888888889
-  altitude: 151.0
+  lat: 52.61161111111111
+  lon: 17.90184722222222
+  altitude: 101.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 2.63
+  focus_distance: 27.44
   iso: 200
-  width: 7186
-  height: 4986
+  width: 7707
+  height: 5763
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 14:18:05.000000000+01:00
-- image_filename: 2021_12_27__13_29_PC273000.jpg
+  time: 2021-12-27 13:08:04.000000000+01:00
+- image_filename: 2021_12_27__13_13_PC272971.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61826388888889
-  lon: 17.89401388888889
-  altitude: 103.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 22.82
-  iso: 200
-  width: 8008
-  height: 6030
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:29:49.000000000+01:00
-- image_filename: 2021_12_27__15_27_PC273154.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62093055555555
-  lon: 17.86951388888889
-  altitude: 142.0
+  lat: 52.614000000000004
+  lon: 17.899638888888887
+  altitude: 105.0
   focal_length: 12.0
   focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 5.28
-  iso: 200
-  width: 7608
-  height: 5689
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:27:11.000000000+01:00
-- image_filename: 2021_12_27__12_58_DSC04429.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.585972222222225
-  lon: 17.880541666666666
-  altitude: 112.0
-  focal_length: 89.0
-  focal_length_35: 89.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 200
-  width: 5507
-  height: 3444
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:58:30.000000000+01:00
-- image_filename: 2021_12_27__15_05_PC273126.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
-  lon: 17.866541666666667
-  altitude: 163.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 2.72
-  iso: 200
-  width: 7925
-  height: 5926
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:05:25.000000000+01:00
-- image_filename: 2021_12_27__13_22_PC272985.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.617333333333335
-  lon: 17.895430555555556
-  altitude: 110.0
-  focal_length: 20.0
-  focal_length_35: 40.0
   crop: 2.0
   aperture: 8.0
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 3.23
+  focus_distance: 34.28
   iso: 200
-  width: 7907
-  height: 5913
+  width: 7766
+  height: 5807
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 13:22:49.000000000+01:00
-- image_filename: 2021_12_27__15_27_PC273155.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.620916666666666
-  lon: 17.869875
-  altitude: 141.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 3.27
-  iso: 200
-  width: 7594
-  height: 5678
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:27:31.000000000+01:00
-- image_filename: 2021_12_27__14_47_DSC04522.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62261111111111
-  lon: 17.866500000000002
-  altitude: 165.0
-  focal_length: 111.0
-  focal_length_35: 111.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 5765
-  height: 3835
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:47:39.000000000+01:00
-- image_filename: 2021_12_27__12_46_DSC04319.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.53440277777778
-  lon: 17.686138888888888
-  altitude: 107.0
-  focal_length: 107.0
-  focal_length_35: 107.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 200
-  width: 5170
-  height: 3554
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:46:58.000000000+01:00
-- image_filename: 2021_12_27__14_44_DSC04511.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62261111111111
-  lon: 17.86651388888889
-  altitude: 166.0
-  focal_length: 107.0
-  focal_length_35: 107.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 5627
-  height: 3744
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:44:55.000000000+01:00
-- image_filename: 2021_12_27__12_47_DSC04330.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.53469444444444
-  lon: 17.691972222222223
-  altitude: 106.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5985
-  height: 3982
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:47:10.000000000+01:00
-- image_filename: 2021_12_27__14_42_PC273110.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622625
-  lon: 17.866541666666667
-  altitude: 167.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7981
-  height: 5968
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:42:58.000000000+01:00
-- image_filename: 2021_12_27__14_31_PC273086.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
-  lon: 17.86652777777778
-  altitude: 170.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 7.38
-  iso: 200
-  width: 8045
-  height: 6016
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:31:23.000000000+01:00
+  time: 2021-12-27 13:13:16.000000000+01:00
 - image_filename: 2021_12_27__13_17_PC272977.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.61584722222222
@@ -496,164 +378,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-27 13:17:53.000000000+01:00
-- image_filename: 2021_12_27__14_13_DSC04501.jpg
+- image_filename: 2021_12_27__13_20_PC272981.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.621722222222225
-  lon: 17.875680555555554
-  altitude: 131.0
-  focal_length: 132.0
-  focal_length_35: 132.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:13:53.000000000+01:00
-- image_filename: 2021_12_27__15_06_PC273130.jpg
+  lat: 52.61647222222222
+  lon: 17.896597222222223
+  altitude: 108.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 18.73
+  iso: 200
+  width: 7612
+  height: 5243
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:20:28.000000000+01:00
+- image_filename: 2021_12_27__13_21_PC272983.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622625
-  lon: 17.866583333333335
-  altitude: 162.0
+  lat: 52.61663888888889
+  lon: 17.896333333333335
+  altitude: 109.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 148.95
-  iso: 200
-  width: 6822
-  height: 5349
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:06:51.000000000+01:00
-- image_filename: 2021_12_27__12_56_DSC04400.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.57376388888889
-  lon: 17.83709722222222
-  altitude: 103.0
-  focal_length: 96.0
-  focal_length_35: 96.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 125
-  width: 5447
-  height: 3727
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:56:49.000000000+01:00
-- image_filename: 2021_12_27__15_52_PC273215.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62445833333334
-  lon: 17.885680555555556
-  altitude: 120.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 105.7
-  iso: 200
-  width: 8158
-  height: 6040
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:52:15.000000000+01:00
-- image_filename: 2021_12_27__15_15_DSC04540.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
-  lon: 17.86648611111111
-  altitude: 161.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
   aperture: 7.1
-  exposure: 0.02
-  exposure_string: 1/50 s
-  iso: 100
-  width: 5986
-  height: 3983
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-27 15:15:50.000000000+01:00
-- image_filename: 2021_12_27__14_08_DSC04473.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62273611111111
-  lon: 17.87772222222222
-  altitude: 128.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
   exposure: 0.0015625
   exposure_string: 1/640 s
-  iso: 100
-  width: 5820
-  height: 3872
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:08:45.000000000+01:00
-- image_filename: 2021_12_27__15_14_PC273141.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
-  lon: 17.86648611111111
-  altitude: 160.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 2.92
+  focus_distance: 1.01
   iso: 200
-  width: 6132
-  height: 8200
+  width: 8136
+  height: 6080
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 15:14:32.000000000+01:00
-- image_filename: 2021_12_27__13_43_PC273021.jpg
+  time: 2021-12-27 13:21:25.000000000+01:00
+- image_filename: 2021_12_27__13_22_PC272985.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62338888888889
-  lon: 17.891083333333334
-  altitude: 119.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.617333333333335
+  lon: 17.895430555555556
+  altitude: 110.0
+  focal_length: 20.0
+  focal_length_35: 40.0
   crop: 2.0
   aperture: 8.0
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 2.4
+  focus_distance: 3.23
   iso: 200
-  width: 7707
-  height: 5763
+  width: 7907
+  height: 5913
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 13:43:20.000000000+01:00
-- image_filename: 2021_12_27__15_21_PC273146.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62258333333333
-  lon: 17.86651388888889
-  altitude: 160.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 64.75
-  iso: 200
-  width: 7725
-  height: 5777
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:21:16.000000000+01:00
+  time: 2021-12-27 13:22:49.000000000+01:00
 - image_filename: 2021_12_27__13_27_PC272995.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.61738888888889
@@ -672,59 +450,414 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-27 13:27:02.000000000+01:00
-- image_filename: 2021_12_27__15_16_DSC04547.jpg
+- image_filename: 2021_12_27__13_27_PC272996.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
-  lon: 17.866500000000002
-  altitude: 161.0
-  focal_length: 58.0
-  focal_length_35: 58.0
-  crop: 1.0
+  lat: 52.61765277777778
+  lon: 17.89484722222222
+  altitude: 108.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
   aperture: 7.1
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 160
-  width: 5854
-  height: 3861
-  lens: E 28-75mm F2.8-2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.63
+  iso: 200
+  width: 7828
+  height: 5854
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:27:38.000000000+01:00
+- image_filename: 2021_12_27__13_29_PC273000.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.61826388888889
+  lon: 17.89401388888889
+  altitude: 103.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.82
+  iso: 200
+  width: 8008
+  height: 6030
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:29:49.000000000+01:00
+- image_filename: 2021_12_27__13_30_PC273001.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.61868055555556
+  lon: 17.893055555555556
+  altitude: 101.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:30:54.000000000+01:00
+- image_filename: 2021_12_27__13_31_PC273003.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.618916666666664
+  lon: 17.89270833333333
+  altitude: 101.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 34.13
+  iso: 200
+  width: 7946
+  height: 5942
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:31:57.000000000+01:00
+- image_filename: 2021_12_27__13_36_PC273010.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62098611111111
+  lon: 17.891625
+  altitude: 112.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 21.03
+  iso: 200
+  width: 7937
+  height: 5935
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:36:43.000000000+01:00
+- image_filename: 2021_12_27__13_37_PC273011.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.621
+  lon: 17.89173611111111
+  altitude: 112.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 54.61
+  iso: 200
+  width: 7918
+  height: 5921
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:37:07.000000000+01:00
+- image_filename: 2021_12_27__13_38_PC273014.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62098611111111
+  lon: 17.89176388888889
+  altitude: 112.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 57.28
+  iso: 200
+  width: 7745
+  height: 5791
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:38:28.000000000+01:00
+- image_filename: 2021_12_27__13_38_PC273015.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62098611111111
+  lon: 17.89175
+  altitude: 112.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 96.94
+  iso: 200
+  width: 7768
+  height: 5809
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:38:50.000000000+01:00
+- image_filename: 2021_12_27__13_40_PC273017.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62231944444444
+  lon: 17.891319444444445
+  altitude: 116.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 53.72
+  iso: 200
+  width: 7838
+  height: 5861
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:40:59.000000000+01:00
+- image_filename: 2021_12_27__13_41_PC273018.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62233333333334
+  lon: 17.891305555555554
+  altitude: 116.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 44.4
+  iso: 200
+  width: 6252
+  height: 5134
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:41:20.000000000+01:00
+- image_filename: 2021_12_27__13_42_PC273020.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62283333333333
+  lon: 17.89126388888889
+  altitude: 117.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:42:28.000000000+01:00
+- image_filename: 2021_12_27__13_43_PC273021.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62338888888889
+  lon: 17.891083333333334
+  altitude: 119.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.4
+  iso: 200
+  width: 7707
+  height: 5763
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:43:20.000000000+01:00
+- image_filename: 2021_12_27__13_47_PC273025.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.624944444444445
+  lon: 17.888638888888888
+  altitude: 126.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.54
+  iso: 200
+  width: 8120
+  height: 6072
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:47:23.000000000+01:00
+- image_filename: 2021_12_27__13_52_PC273033.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62466666666667
+  lon: 17.88698611111111
+  altitude: 127.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8088
+  height: 6019
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:52:23.000000000+01:00
+- image_filename: 2021_12_27__13_53_PC273035.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.624625
+  lon: 17.886777777777777
+  altitude: 127.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 2.42
+  iso: 200
+  width: 8098
+  height: 6029
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-27 13:53:17.000000000+01:00
+- image_filename: 2021_12_27__14_01_PC273058.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62397222222222
+  lon: 17.88313888888889
+  altitude: 129.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 38.92
+  iso: 200
+  width: 7535
+  height: 5601
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 14:01:44.000000000+01:00
+- image_filename: 2021_12_27__14_03_PC273059.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62356944444444
+  lon: 17.880861111111113
+  altitude: 133.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.06
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 14:03:35.000000000+01:00
+- image_filename: 2021_12_27__14_07_DSC04463.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62275
+  lon: 17.87776388888889
+  altitude: 128.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5727
+  height: 3807
+  lens: E 70-180mm F2.8 A056
   camera: ILCE-7M3
-  time: 2021-12-27 15:16:15.000000000+01:00
-- image_filename: 2021_12_27__15_42_PC273179.jpg
+  time: 2021-12-27 14:07:54.000000000+01:00
+- image_filename: 2021_12_27__14_08_DSC04468.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62363888888889
-  lon: 17.881291666666666
-  altitude: 121.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 327.67
-  iso: 200
-  width: 4802
-  height: 3534
-  lens: OLYMPUS M.300mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:42:47.000000000+01:00
-- image_filename: 2021_12_27__15_42_PC273177.jpg
+  lat: 52.62275
+  lon: 17.87776388888889
+  altitude: 128.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 14:08:15.000000000+01:00
+- image_filename: 2021_12_27__14_08_DSC04473.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.623625
-  lon: 17.881222222222224
-  altitude: 122.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
+  lat: 52.62273611111111
+  lon: 17.87772222222222
+  altitude: 128.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5820
+  height: 3872
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 14:08:45.000000000+01:00
+- image_filename: 2021_12_27__14_11_DSC04492.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622277777777775
+  lon: 17.876555555555555
+  altitude: 127.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 4024
+  height: 6048
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 14:11:52.000000000+01:00
+- image_filename: 2021_12_27__14_13_DSC04501.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.621722222222225
+  lon: 17.875680555555554
+  altitude: 131.0
+  focal_length: 132.0
+  focal_length_35: 132.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 14:13:53.000000000+01:00
+- image_filename: 2021_12_27__14_14_DSC04506.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62145833333334
+  lon: 17.875291666666666
+  altitude: 133.0
+  focal_length: 94.0
+  focal_length_35: 94.0
+  crop: 1.0
   aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 327.67
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.300mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:42:37.000000000+01:00
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 14:14:31.000000000+01:00
 - image_filename: 2021_12_27__14_15_DSC04508.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.62125
@@ -760,23 +893,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-27 14:17:29.000000000+01:00
-- image_filename: 2021_12_27__12_37_DSC04237.jpg
+- image_filename: 2021_12_27__14_18_PC273066.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.50738888888889
-  lon: 17.496694444444444
-  altitude: 109.0
-  focal_length: 171.0
-  focal_length_35: 171.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 160
-  width: 6048
-  height: 4024
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:37:21.000000000+01:00
+  lat: 52.62051388888889
+  lon: 17.87313888888889
+  altitude: 151.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.63
+  iso: 200
+  width: 7186
+  height: 4986
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 14:18:05.000000000+01:00
+- image_filename: 2021_12_27__14_20_PC273071.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.620777777777775
+  lon: 17.871375
+  altitude: 151.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.63
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 14:20:40.000000000+01:00
+- image_filename: 2021_12_27__14_29_PC273082.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622597222222225
+  lon: 17.866666666666667
+  altitude: 167.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.58
+  iso: 400
+  width: 6132
+  height: 8200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 14:29:11.000000000+01:00
 - image_filename: 2021_12_27__14_30_PC273084.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.622625
@@ -795,928 +965,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-27 14:30:11.000000000+01:00
-- image_filename: 2021_12_27__14_42_PC273109.jpg
+- image_filename: 2021_12_27__14_31_PC273086.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.622638888888886
-  lon: 17.866541666666667
-  altitude: 167.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7580
-  height: 5316
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:42:36.000000000+01:00
-- image_filename: 2021_12_27__16_45_PC273284.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.611555555555555
-  lon: 17.90211111111111
-  altitude: 95.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7174
-  height: 5281
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:45:28.000000000+01:00
-- image_filename: 2021_12_27__14_46_PC273115.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622625
-  lon: 17.86651388888889
-  altitude: 165.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 3.17
-  iso: 200
-  width: 6132
-  height: 8140
-  lens: OLYMPUS M.300mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:46:41.000000000+01:00
-- image_filename: 2021_12_27__13_13_PC272971.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.614000000000004
-  lon: 17.899638888888887
-  altitude: 105.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lon: 17.86652777777778
+  altitude: 170.0
+  focal_length: 21.0
+  focal_length_35: 42.0
   crop: 2.0
   aperture: 8.0
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 34.28
+  focus_distance: 7.38
   iso: 200
-  width: 7766
-  height: 5807
+  width: 8045
+  height: 6016
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 13:13:16.000000000+01:00
-- image_filename: 2021_12_27__13_21_PC272983.jpg
+  time: 2021-12-27 14:31:23.000000000+01:00
+- image_filename: 2021_12_27__14_33_PC273090.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61663888888889
-  lon: 17.896333333333335
-  altitude: 109.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1.01
-  iso: 200
-  width: 8136
-  height: 6080
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:21:25.000000000+01:00
-- image_filename: 2021_12_27__13_08_PC272963.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61161111111111
-  lon: 17.90184722222222
-  altitude: 101.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 27.44
-  iso: 200
-  width: 7707
-  height: 5763
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:08:04.000000000+01:00
-- image_filename: 2021_12_27__16_13_PC273238.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62498611111111
-  lon: 17.89101388888889
-  altitude: 115.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7925
-  height: 5926
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:13:31.000000000+01:00
-- image_filename: 2021_12_27__14_50_DSC04529.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62261111111111
-  lon: 17.86651388888889
-  altitude: 164.0
-  focal_length: 49.0
-  focal_length_35: 49.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5986
-  height: 3983
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-27 14:50:09.000000000+01:00
-- image_filename: 2021_12_27__13_52_PC273033.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62466666666667
-  lon: 17.88698611111111
-  altitude: 127.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8088
-  height: 6019
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:52:23.000000000+01:00
-- image_filename: 2021_12_27__13_41_PC273018.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62233333333334
-  lon: 17.891305555555554
-  altitude: 116.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 44.4
-  iso: 200
-  width: 6252
-  height: 5134
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:41:20.000000000+01:00
-- image_filename: 2021_12_27__16_47_PC273287.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61116666666667
-  lon: 17.90336111111111
-  altitude: 95.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7975
-  height: 6026
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:47:32.000000000+01:00
-- image_filename: 2021_12_27__14_40_PC273099.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
+  lat: 52.62265277777778
   lon: 17.86652777777778
-  altitude: 168.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 11.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 1.41
-  iso: 200
-  width: 3912
-  height: 5240
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:40:16.000000000+01:00
-- image_filename: 2021_12_27__14_08_DSC04468.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62275
-  lon: 17.87776388888889
-  altitude: 128.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:08:15.000000000+01:00
-- image_filename: 2021_12_27__15_06_PC273128.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622625
-  lon: 17.86652777777778
-  altitude: 163.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 24.9
-  iso: 200
-  width: 8115
-  height: 6017
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:06:15.000000000+01:00
-- image_filename: 2021_12_27__12_57_DSC04405.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.57673611111112
-  lon: 17.849680555555555
-  altitude: 104.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 4852
-  height: 3437
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:57:18.000000000+01:00
-- image_filename: 2021_12_27__15_39_PC273172.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.623125
-  lon: 17.87922222222222
-  altitude: 123.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 4.57
-  iso: 200
-  width: 8146
-  height: 6055
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:39:27.000000000+01:00
-- image_filename: 2021_12_27__12_09_DSC04077.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.45234722222222
-  lon: 17.104875
-  altitude: 90.0
-  focal_length: 101.0
-  focal_length_35: 101.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5675
-  height: 3776
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:09:55.000000000+01:00
-- image_filename: 2021_12_27__15_46_PC273207.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.623625
-  lon: 17.881375000000002
-  altitude: 121.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 1000.0
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:46:21.000000000+01:00
-- image_filename: 2021_12_27__12_58_DSC04432.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.58602777777778
-  lon: 17.881027777777778
-  altitude: 112.0
-  focal_length: 89.0
-  focal_length_35: 89.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 160
-  width: 5891
-  height: 3919
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:58:31.000000000+01:00
-- image_filename: 2021_12_27__12_47_DSC04338.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.53491666666667
-  lon: 17.69684722222222
-  altitude: 105.0
-  focal_length: 136.0
-  focal_length_35: 136.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5591
-  height: 3633
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:47:20.000000000+01:00
-- image_filename: 2021_12_27__16_23_PC273252.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62159722222222
-  lon: 17.891513888888888
-  altitude: 109.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.25
-  exposure_string: 1/4 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8131
-  height: 6080
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:23:15.000000000+01:00
-- image_filename: 2021_12_27__13_53_PC273035.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.624625
-  lon: 17.886777777777777
-  altitude: 127.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 2.42
-  iso: 200
-  width: 8098
-  height: 6029
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:53:17.000000000+01:00
-- image_filename: 2021_12_27__15_26_PC273153.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.620958333333334
-  lon: 17.86838888888889
-  altitude: 147.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 23.14
-  iso: 200
-  width: 8063
-  height: 6029
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:26:22.000000000+01:00
-- image_filename: 2021_12_27__13_42_PC273020.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62283333333333
-  lon: 17.89126388888889
-  altitude: 117.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:42:28.000000000+01:00
-- image_filename: 2021_12_27__12_45_DSC04306.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.53252777777778
-  lon: 17.646638888888887
-  altitude: 109.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 5676
-  height: 3777
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:45:37.000000000+01:00
-- image_filename: 2021_12_27__13_36_PC273010.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62098611111111
-  lon: 17.891625
-  altitude: 112.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 21.03
-  iso: 200
-  width: 7937
-  height: 5935
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:36:43.000000000+01:00
-- image_filename: 2021_12_27__15_28_PC273156.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62076388888889
-  lon: 17.871069444444444
-  altitude: 138.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 2.04
-  iso: 200
-  width: 7594
-  height: 5678
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:28:28.000000000+01:00
-- image_filename: 2021_12_27__12_50_DSC04360.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.54119444444444
-  lon: 17.727375
-  altitude: 107.0
-  focal_length: 88.0
-  focal_length_35: 88.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5832
-  height: 3880
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:50:21.000000000+01:00
-- image_filename: 2021_12_27__14_47_DSC04518.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62261111111111
-  lon: 17.866500000000002
-  altitude: 165.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 5863
-  height: 3901
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:47:15.000000000+01:00
-- image_filename: 2021_12_27__12_38_DSC04263.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.513083333333334
-  lon: 17.52398611111111
-  altitude: 105.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 125
-  width: 5559
-  height: 3658
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:38:22.000000000+01:00
-- image_filename: 2021_12_27__13_31_PC273003.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.618916666666664
-  lon: 17.89270833333333
-  altitude: 101.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 34.13
-  iso: 200
-  width: 7946
-  height: 5942
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:31:57.000000000+01:00
-- image_filename: 2021_12_27__16_33_PC273264.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61709722222222
-  lon: 17.89586111111111
-  altitude: 105.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 3550
-  height: 4887
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:33:25.000000000+01:00
-- image_filename: 2021_12_27__14_42_PC273108.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
-  lon: 17.866541666666667
-  altitude: 167.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8155
-  height: 6099
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-27 14:42:15.000000000+01:00
-- image_filename: 2021_12_27__14_07_DSC04463.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62275
-  lon: 17.87776388888889
-  altitude: 128.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5727
-  height: 3807
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:07:54.000000000+01:00
-- image_filename: 2021_12_27__16_03_PC273228.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.628055555555555
-  lon: 17.892208333333333
-  altitude: 109.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 2.33
-  iso: 200
-  width: 7614
-  height: 5694
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:03:14.000000000+01:00
-- image_filename: 2021_12_27__16_42_PC273276.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61281944444445
-  lon: 17.900583333333334
-  altitude: 97.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 1000.0
-  iso: 400
-  width: 5045
-  height: 3766
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:42:01.000000000+01:00
-- image_filename: 2021_12_27__15_33_PC273164.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62068055555556
-  lon: 17.873722222222224
-  altitude: 132.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 5.87
-  iso: 200
-  width: 7746
-  height: 5793
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:33:46.000000000+01:00
-- image_filename: 2021_12_27__14_48_DSC04524.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622597222222225
-  lon: 17.866500000000002
-  altitude: 165.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 3578
-  height: 4901
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:48:03.000000000+01:00
-- image_filename: 2021_12_27__16_16_PC273242.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62361111111111
-  lon: 17.891083333333334
-  altitude: 113.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8105
-  height: 5980
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:16:02.000000000+01:00
-- image_filename: 2021_12_27__16_40_PC273272.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61397222222222
-  lon: 17.899722222222223
-  altitude: 98.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 1000.0
-  iso: 640
-  width: 5154
-  height: 3801
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:40:00.000000000+01:00
-- image_filename: 2021_12_27__15_35_PC273166.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.621625
-  lon: 17.875583333333335
-  altitude: 118.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 3.81
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:35:31.000000000+01:00
-- image_filename: 2021_12_27__13_47_PC273025.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.624944444444445
-  lon: 17.888638888888888
-  altitude: 126.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 2.54
-  iso: 200
-  width: 8120
-  height: 6072
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:47:23.000000000+01:00
-- image_filename: 2021_12_27__16_06_PC273232.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62815277777778
-  lon: 17.892277777777778
-  altitude: 109.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.2
-  exposure_string: 1/5 s
-  focus_distance: 3.05
-  iso: 200
-  width: 7981
-  height: 5880
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:06:29.000000000+01:00
-- image_filename: 2021_12_27__15_05_PC273125.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622638888888886
-  lon: 17.86652777777778
-  altitude: 163.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 8.57
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:05:02.000000000+01:00
-- image_filename: 2021_12_27__12_47_DSC04342.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.535013888888884
-  lon: 17.69879166666667
-  altitude: 105.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5709
-  height: 3798
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:47:24.000000000+01:00
-- image_filename: 2021_12_27__14_03_PC273059.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62356944444444
-  lon: 17.880861111111113
-  altitude: 133.0
-  focal_length: 14.0
-  focal_length_35: 28.0
+  altitude: 173.0
+  focal_length: 21.0
+  focal_length_35: 42.0
   crop: 2.0
   aperture: 7.1
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 5.06
+  focus_distance: 6.88
   iso: 200
-  width: 8199
-  height: 6131
+  width: 8144
+  height: 6074
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 14:03:35.000000000+01:00
-- image_filename: 2021_12_27__13_20_PC272981.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61647222222222
-  lon: 17.896597222222223
-  altitude: 108.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 18.73
-  iso: 200
-  width: 7612
-  height: 5243
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:20:28.000000000+01:00
-- image_filename: 2021_12_27__16_28_PC273257.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61868055555556
-  lon: 17.893277777777776
-  altitude: 96.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7740
-  height: 5681
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:28:41.000000000+01:00
-- image_filename: 2021_12_27__16_27_PC273255.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61922222222222
-  lon: 17.89248611111111
-  altitude: 96.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7397
-  height: 5533
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkIII
-  time: 2021-12-27 16:27:10.000000000+01:00
-- image_filename: 2021_12_27__15_25_PC273152.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.620875
-  lon: 17.867097222222224
-  altitude: 150.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 7.57
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 15:25:19.000000000+01:00
-- image_filename: 2021_12_27__14_14_DSC04506.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62145833333334
-  lon: 17.875291666666666
-  altitude: 133.0
-  focal_length: 94.0
-  focal_length_35: 94.0
-  crop: 1.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:14:31.000000000+01:00
-- image_filename: 2021_12_27__13_06_PC272961.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61131944444445
-  lon: 17.902805555555553
-  altitude: 100.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 11.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8133
-  height: 6082
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:06:52.000000000+01:00
+  time: 2021-12-27 14:33:41.000000000+01:00
 - image_filename: 2021_12_27__14_40_PC273097.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.622638888888886
@@ -1735,76 +1019,24 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-27 14:40:03.000000000+01:00
-- image_filename: 2021_12_27__14_11_DSC04492.jpg
+- image_filename: 2021_12_27__14_40_PC273099.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.622277777777775
-  lon: 17.876555555555555
-  altitude: 127.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 4024
-  height: 6048
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 14:11:52.000000000+01:00
-- image_filename: 2021_12_27__16_16_PC273243.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62359722222222
-  lon: 17.891069444444444
-  altitude: 113.0
-  focal_length: 25.0
-  focal_length_35: 50.0
+  lat: 52.622638888888886
+  lon: 17.86652777777778
+  altitude: 168.0
+  focal_length: 420.0
+  focal_length_35: 840.0
   crop: 2.0
-  aperture: 1.2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 1000.0
+  aperture: 11.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1.41
   iso: 200
-  width: 8179
-  height: 6116
-  lens: OLYMPUS M.25mm F1.2
+  width: 3912
+  height: 5240
+  lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-27 16:16:24.000000000+01:00
-- image_filename: 2021_12_27__12_37_DSC04249.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.50884722222222
-  lon: 17.505208333333332
-  altitude: 108.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 125
-  width: 5708
-  height: 3797
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:37:41.000000000+01:00
-- image_filename: 2021_12_27__13_38_PC273014.jpg
-  post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62098611111111
-  lon: 17.89176388888889
-  altitude: 112.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 57.28
-  iso: 200
-  width: 7745
-  height: 5791
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-27 13:38:28.000000000+01:00
+  time: 2021-12-27 14:40:16.000000000+01:00
 - image_filename: 2021_12_27__14_40_PC273103.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.62265277777778
@@ -1823,130 +1055,502 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-27 14:40:56.000000000+01:00
-- image_filename: 2021_12_27__15_50_PC273213.jpg
+- image_filename: 2021_12_27__14_42_PC273108.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62427777777778
-  lon: 17.884486111111112
-  altitude: 124.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.622638888888886
+  lon: 17.866541666666667
+  altitude: 167.0
+  focal_length: 420.0
+  focal_length_35: 840.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 7.11
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
   iso: 200
-  width: 7837
-  height: 5860
-  lens: OLYMPUS M.12-100mm F4.0
+  width: 8155
+  height: 6099
+  lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-27 15:50:48.000000000+01:00
-- image_filename: 2021_12_27__16_04_PC273229.jpg
+  time: 2021-12-27 14:42:15.000000000+01:00
+- image_filename: 2021_12_27__14_42_PC273109.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.628083333333336
-  lon: 17.89236111111111
-  altitude: 109.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.622638888888886
+  lon: 17.866541666666667
+  altitude: 167.0
+  focal_length: 420.0
+  focal_length_35: 840.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 6.86
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
   iso: 200
-  width: 8085
-  height: 6046
-  lens: OLYMPUS M.12-100mm F4.0
+  width: 7580
+  height: 5316
+  lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-27 16:04:07.000000000+01:00
-- image_filename: 2021_12_27__13_30_PC273001.jpg
+  time: 2021-12-27 14:42:36.000000000+01:00
+- image_filename: 2021_12_27__14_42_PC273110.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61868055555556
-  lon: 17.893055555555556
-  altitude: 101.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.622625
+  lon: 17.866541666666667
+  altitude: 167.0
+  focal_length: 420.0
+  focal_length_35: 840.0
   crop: 2.0
-  aperture: 6.3
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7981
+  height: 5968
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-27 14:42:58.000000000+01:00
+- image_filename: 2021_12_27__14_44_DSC04511.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62261111111111
+  lon: 17.86651388888889
+  altitude: 166.0
+  focal_length: 107.0
+  focal_length_35: 107.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5627
+  height: 3744
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 14:44:55.000000000+01:00
+- image_filename: 2021_12_27__14_46_PC273115.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622625
+  lon: 17.86651388888889
+  altitude: 165.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 3.17
+  iso: 200
+  width: 6132
+  height: 8140
+  lens: OLYMPUS M.300mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 14:46:41.000000000+01:00
+- image_filename: 2021_12_27__14_47_DSC04518.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62261111111111
+  lon: 17.866500000000002
+  altitude: 165.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5863
+  height: 3901
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 14:47:15.000000000+01:00
+- image_filename: 2021_12_27__14_47_DSC04522.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62261111111111
+  lon: 17.866500000000002
+  altitude: 165.0
+  focal_length: 111.0
+  focal_length_35: 111.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5765
+  height: 3835
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 14:47:39.000000000+01:00
+- image_filename: 2021_12_27__14_48_DSC04524.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622597222222225
+  lon: 17.866500000000002
+  altitude: 165.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 3578
+  height: 4901
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2021-12-27 14:48:03.000000000+01:00
+- image_filename: 2021_12_27__14_50_DSC04529.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62261111111111
+  lon: 17.86651388888889
+  altitude: 164.0
+  focal_length: 49.0
+  focal_length_35: 49.0
+  crop: 1.0
+  aperture: 5.0
   exposure: 0.00625
   exposure_string: 1/160 s
+  iso: 100
+  width: 5986
+  height: 3983
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-27 14:50:09.000000000+01:00
+- image_filename: 2021_12_27__15_05_PC273125.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622638888888886
+  lon: 17.86652777777778
+  altitude: 163.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.57
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:05:02.000000000+01:00
+- image_filename: 2021_12_27__15_05_PC273126.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622638888888886
+  lon: 17.866541666666667
+  altitude: 163.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.72
+  iso: 200
+  width: 7925
+  height: 5926
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:05:25.000000000+01:00
+- image_filename: 2021_12_27__15_06_PC273128.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622625
+  lon: 17.86652777777778
+  altitude: 163.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 24.9
+  iso: 200
+  width: 8115
+  height: 6017
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:06:15.000000000+01:00
+- image_filename: 2021_12_27__15_06_PC273130.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622625
+  lon: 17.866583333333335
+  altitude: 162.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 148.95
+  iso: 200
+  width: 6822
+  height: 5349
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:06:51.000000000+01:00
+- image_filename: 2021_12_27__15_10_PC273133.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622638888888886
+  lon: 17.86652777777778
+  altitude: 160.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.51
+  iso: 200
+  width: 9565
+  height: 6634
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:10:22.000000000+01:00
+- image_filename: 2021_12_27__15_14_PC273141.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622638888888886
+  lon: 17.86648611111111
+  altitude: 160.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.92
+  iso: 200
+  width: 6132
+  height: 8200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:14:32.000000000+01:00
+- image_filename: 2021_12_27__15_15_DSC04540.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622638888888886
+  lon: 17.86648611111111
+  altitude: 161.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 5986
+  height: 3983
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-27 15:15:50.000000000+01:00
+- image_filename: 2021_12_27__15_15_DSC04542.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622638888888886
+  lon: 17.86648611111111
+  altitude: 161.0
+  focal_length: 51.0
+  focal_length_35: 51.0
+  crop: 1.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 125
+  width: 5851
+  height: 3692
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-27 15:15:56.000000000+01:00
+- image_filename: 2021_12_27__15_16_DSC04547.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622638888888886
+  lon: 17.866500000000002
+  altitude: 161.0
+  focal_length: 58.0
+  focal_length_35: 58.0
+  crop: 1.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 160
+  width: 5854
+  height: 3861
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-27 15:16:15.000000000+01:00
+- image_filename: 2021_12_27__15_20_PC273144.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.622597222222225
+  lon: 17.866500000000002
+  altitude: 161.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
   focus_distance: 1000.0
   iso: 200
   width: 8199
   height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 13:30:54.000000000+01:00
-- image_filename: 2021_12_27__13_27_PC272996.jpg
+  time: 2021-12-27 15:20:31.000000000+01:00
+- image_filename: 2021_12_27__15_20_PC273145.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.61765277777778
-  lon: 17.89484722222222
-  altitude: 108.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.622597222222225
+  lon: 17.866500000000002
+  altitude: 160.0
+  focal_length: 50.0
+  focal_length_35: 100.0
   crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.63
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 16.03
   iso: 200
-  width: 7828
-  height: 5854
+  width: 7725
+  height: 5777
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 13:27:38.000000000+01:00
-- image_filename: 2021_12_27__13_38_PC273015.jpg
+  time: 2021-12-27 15:20:51.000000000+01:00
+- image_filename: 2021_12_27__15_21_PC273146.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.62098611111111
-  lon: 17.89175
-  altitude: 112.0
+  lat: 52.62258333333333
+  lon: 17.86651388888889
+  altitude: 160.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 96.94
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 64.75
   iso: 200
-  width: 7768
-  height: 5809
+  width: 7725
+  height: 5777
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-27 13:38:50.000000000+01:00
-- image_filename: 2021_12_27__12_29_DSC04141.jpg
+  time: 2021-12-27 15:21:16.000000000+01:00
+- image_filename: 2021_12_27__15_25_PC273152.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.49411111111111
-  lon: 17.389777777777777
-  altitude: 110.0
-  focal_length: 91.0
-  focal_length_35: 91.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 125
-  width: 4613
-  height: 3271
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:29:53.000000000+01:00
-- image_filename: 2021_12_27__12_59_DSC04442.jpg
+  lat: 52.620875
+  lon: 17.867097222222224
+  altitude: 150.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 7.57
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:25:19.000000000+01:00
+- image_filename: 2021_12_27__15_26_PC273153.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
-  lat: 52.59384722222222
-  lon: 17.892416666666666
-  altitude: 109.0
+  lat: 52.620958333333334
+  lon: 17.86838888888889
+  altitude: 147.0
   focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 250
-  width: 5916
-  height: 3936
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2021-12-27 12:59:08.000000000+01:00
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 23.14
+  iso: 200
+  width: 8063
+  height: 6029
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:26:22.000000000+01:00
+- image_filename: 2021_12_27__15_27_PC273154.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62093055555555
+  lon: 17.86951388888889
+  altitude: 142.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 5.28
+  iso: 200
+  width: 7608
+  height: 5689
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:27:11.000000000+01:00
+- image_filename: 2021_12_27__15_27_PC273155.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.620916666666666
+  lon: 17.869875
+  altitude: 141.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 3.27
+  iso: 200
+  width: 7594
+  height: 5678
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:27:31.000000000+01:00
+- image_filename: 2021_12_27__15_28_PC273156.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62076388888889
+  lon: 17.871069444444444
+  altitude: 138.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.04
+  iso: 200
+  width: 7594
+  height: 5678
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:28:28.000000000+01:00
+- image_filename: 2021_12_27__15_33_PC273164.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62068055555556
+  lon: 17.873722222222224
+  altitude: 132.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 5.87
+  iso: 200
+  width: 7746
+  height: 5793
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:33:46.000000000+01:00
+- image_filename: 2021_12_27__15_35_PC273166.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.621625
+  lon: 17.875583333333335
+  altitude: 118.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 3.81
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:35:31.000000000+01:00
 - image_filename: 2021_12_27__15_35_PC273167.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.621652777777776
@@ -1965,6 +1569,366 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-27 15:35:52.000000000+01:00
+- image_filename: 2021_12_27__15_39_PC273172.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.623125
+  lon: 17.87922222222222
+  altitude: 123.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.57
+  iso: 200
+  width: 8146
+  height: 6055
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:39:27.000000000+01:00
+- image_filename: 2021_12_27__15_42_PC273177.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.623625
+  lon: 17.881222222222224
+  altitude: 122.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 327.67
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.300mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:42:37.000000000+01:00
+- image_filename: 2021_12_27__15_42_PC273179.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62363888888889
+  lon: 17.881291666666666
+  altitude: 121.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 327.67
+  iso: 200
+  width: 4802
+  height: 3534
+  lens: OLYMPUS M.300mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:42:47.000000000+01:00
+- image_filename: 2021_12_27__15_46_PC273207.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.623625
+  lon: 17.881375000000002
+  altitude: 121.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:46:21.000000000+01:00
+- image_filename: 2021_12_27__15_49_PC273211.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.624
+  lon: 17.883180555555555
+  altitude: 121.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 2.64
+  iso: 200
+  width: 5881
+  height: 7864
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:49:34.000000000+01:00
+- image_filename: 2021_12_27__15_50_PC273213.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62427777777778
+  lon: 17.884486111111112
+  altitude: 124.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 7.11
+  iso: 200
+  width: 7837
+  height: 5860
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:50:48.000000000+01:00
+- image_filename: 2021_12_27__15_52_PC273215.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62445833333334
+  lon: 17.885680555555556
+  altitude: 120.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 105.7
+  iso: 200
+  width: 8158
+  height: 6040
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:52:15.000000000+01:00
+- image_filename: 2021_12_27__15_57_PC273220.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62501388888889
+  lon: 17.89090277777778
+  altitude: 113.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 14.74
+  iso: 200
+  width: 8116
+  height: 6080
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 15:57:08.000000000+01:00
+- image_filename: 2021_12_27__16_03_PC273228.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.628055555555555
+  lon: 17.892208333333333
+  altitude: 109.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 2.33
+  iso: 200
+  width: 7614
+  height: 5694
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:03:14.000000000+01:00
+- image_filename: 2021_12_27__16_04_PC273229.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.628083333333336
+  lon: 17.89236111111111
+  altitude: 109.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 6.86
+  iso: 200
+  width: 8085
+  height: 6046
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:04:07.000000000+01:00
+- image_filename: 2021_12_27__16_06_PC273232.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62815277777778
+  lon: 17.892277777777778
+  altitude: 109.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 3.05
+  iso: 200
+  width: 7981
+  height: 5880
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:06:29.000000000+01:00
+- image_filename: 2021_12_27__16_13_PC273238.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62498611111111
+  lon: 17.89101388888889
+  altitude: 115.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7925
+  height: 5926
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:13:31.000000000+01:00
+- image_filename: 2021_12_27__16_16_PC273242.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62361111111111
+  lon: 17.891083333333334
+  altitude: 113.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8105
+  height: 5980
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:16:02.000000000+01:00
+- image_filename: 2021_12_27__16_16_PC273243.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62359722222222
+  lon: 17.891069444444444
+  altitude: 113.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8179
+  height: 6116
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:16:24.000000000+01:00
+- image_filename: 2021_12_27__16_23_PC273252.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.62159722222222
+  lon: 17.891513888888888
+  altitude: 109.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8131
+  height: 6080
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:23:15.000000000+01:00
+- image_filename: 2021_12_27__16_27_PC273255.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.61922222222222
+  lon: 17.89248611111111
+  altitude: 96.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7397
+  height: 5533
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:27:10.000000000+01:00
+- image_filename: 2021_12_27__16_28_PC273257.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.61868055555556
+  lon: 17.893277777777776
+  altitude: 96.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7740
+  height: 5681
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:28:41.000000000+01:00
+- image_filename: 2021_12_27__16_33_PC273264.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.61709722222222
+  lon: 17.89586111111111
+  altitude: 105.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3550
+  height: 4887
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:33:25.000000000+01:00
+- image_filename: 2021_12_27__16_40_PC273272.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.61397222222222
+  lon: 17.899722222222223
+  altitude: 98.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 1000.0
+  iso: 640
+  width: 5154
+  height: 3801
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:40:00.000000000+01:00
+- image_filename: 2021_12_27__16_42_PC273276.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.61281944444445
+  lon: 17.900583333333334
+  altitude: 97.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5045
+  height: 3766
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:42:01.000000000+01:00
 - image_filename: 2021_12_27__16_42_PC273277.jpg
   post_slug: 2021-12-27-zachod-slonca-w-dusznie
   lat: 52.61281944444445
@@ -1983,3 +1947,39 @@
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkIII
   time: 2021-12-27 16:42:09.000000000+01:00
+- image_filename: 2021_12_27__16_45_PC273284.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.611555555555555
+  lon: 17.90211111111111
+  altitude: 95.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7174
+  height: 5281
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:45:28.000000000+01:00
+- image_filename: 2021_12_27__16_47_PC273287.jpg
+  post_slug: 2021-12-27-zachod-slonca-w-dusznie
+  lat: 52.61116666666667
+  lon: 17.90336111111111
+  altitude: 95.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7975
+  height: 6026
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-27 16:47:32.000000000+01:00

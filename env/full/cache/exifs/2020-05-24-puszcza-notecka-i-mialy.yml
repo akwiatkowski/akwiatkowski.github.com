@@ -1,112 +1,4 @@
 ---
-- image_filename: 2020_05_24__10_23__5243186.jpg
-  post_slug: 2020-05-24-puszcza-notecka-i-mialy
-  lat: 52.71665277777778
-  lon: 16.18386111111111
-  altitude: 57.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2020-05-24 10:23:58+02:00
-  focus_distance: 23.27
-- image_filename: 2020_05_24__14_06__5243228.jpg
-  post_slug: 2020-05-24-puszcza-notecka-i-mialy
-  lat: 52.80415277777777
-  lon: 16.181958333333334
-  altitude: 55.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-05-24 14:06:17+02:00
-  focus_distance: 11.16
-- image_filename: 2020_05_24__10_24__5243187.jpg
-  post_slug: 2020-05-24-puszcza-notecka-i-mialy
-  lat: 52.716680555555556
-  lon: 16.183930555555555
-  altitude: 57.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2020-05-24 10:24:04+02:00
-  focus_distance: 26.21
-- image_filename: 2020_05_24__10_45__5243199.jpg
-  post_slug: 2020-05-24-puszcza-notecka-i-mialy
-  lat: 52.72795833333333
-  lon: 16.221791666666665
-  altitude: 62.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-05-24 10:45:23+02:00
-  focus_distance: 4.73
-- image_filename: 2020_05_24__10_25__5243193.jpg
-  post_slug: 2020-05-24-puszcza-notecka-i-mialy
-  lat: 52.717736111111115
-  lon: 16.188472222222224
-  altitude: 55.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5239
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2020-05-24 10:25:47+02:00
-  focus_distance: 37.24
-- image_filename: 2020_05_24__14_36__5243247.jpg
-  post_slug: 2020-05-24-puszcza-notecka-i-mialy
-  lat: 52.808930555555555
-  lon: 16.17638888888889
-  altitude: 56.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5124
-  height: 3758
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-05-24 14:36:45+02:00
-  focus_distance: 9.73
 - image_filename: 2020_05_24__10_22__5243177.jpg
   post_slug: 2020-05-24-puszcza-notecka-i-mialy
   lat: 52.71661111111111
@@ -116,15 +8,15 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-05-24 10:22:28+02:00
   focus_distance: 26.55
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 10:22:28.000000000+02:00
 - image_filename: 2020_05_24__10_23__5243183.jpg
   post_slug: 2020-05-24-puszcza-notecka-i-mialy
   lat: 52.716638888888895
@@ -134,15 +26,87 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.05
   exposure_string: 1/20 s
-  time: 2020-05-24 10:23:23+02:00
   focus_distance: 20.48
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 10:23:23.000000000+02:00
+- image_filename: 2020_05_24__10_23__5243186.jpg
+  post_slug: 2020-05-24-puszcza-notecka-i-mialy
+  lat: 52.71665277777778
+  lon: 16.18386111111111
+  altitude: 57.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 23.27
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 10:23:58.000000000+02:00
+- image_filename: 2020_05_24__10_24__5243187.jpg
+  post_slug: 2020-05-24-puszcza-notecka-i-mialy
+  lat: 52.716680555555556
+  lon: 16.183930555555555
+  altitude: 57.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 26.21
+  iso: 200
+  width: 3911
+  height: 5239
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 10:24:04.000000000+02:00
+- image_filename: 2020_05_24__10_25__5243193.jpg
+  post_slug: 2020-05-24-puszcza-notecka-i-mialy
+  lat: 52.717736111111115
+  lon: 16.188472222222224
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 37.24
+  iso: 200
+  width: 3788
+  height: 5074
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 10:25:47.000000000+02:00
+- image_filename: 2020_05_24__10_45__5243199.jpg
+  post_slug: 2020-05-24-puszcza-notecka-i-mialy
+  lat: 52.72795833333333
+  lon: 16.221791666666665
+  altitude: 61.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.73
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 10:45:23.000000000+02:00
 - image_filename: 2020_05_24__13_52__5243214.jpg
   post_slug: 2020-05-24-puszcza-notecka-i-mialy
   lat: 52.80772222222222
@@ -152,30 +116,66 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5150
-  height: 3804
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-05-24 13:52:07+02:00
   focus_distance: 3.27
+  iso: 200
+  width: 5150
+  height: 3804
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 13:52:07.000000000+02:00
 - image_filename: 2020_05_24__13_58__5243224.jpg
   post_slug: 2020-05-24-puszcza-notecka-i-mialy
   lat: 52.80554166666666
   lon: 16.173833333333334
-  altitude: 59.0
+  altitude: 53.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4669
-  height: 3776
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-05-24 13:58:50+02:00
   focus_distance: 2.69
+  iso: 200
+  width: 5078
+  height: 3687
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 13:58:50.000000000+02:00
+- image_filename: 2020_05_24__14_06__5243228.jpg
+  post_slug: 2020-05-24-puszcza-notecka-i-mialy
+  lat: 52.80415277777777
+  lon: 16.181958333333334
+  altitude: 55.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.16
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 14:06:17.000000000+02:00
+- image_filename: 2020_05_24__14_36__5243247.jpg
+  post_slug: 2020-05-24-puszcza-notecka-i-mialy
+  lat: 52.808930555555555
+  lon: 16.17638888888889
+  altitude: 54.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 9.73
+  iso: 200
+  width: 5129
+  height: 3761
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-24 14:36:45.000000000+02:00

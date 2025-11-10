@@ -1,120 +1,120 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2014-07-13-z-dziwnowka-do-sianozet
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 100
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2014-07-13 21:45:16+02:00
 - image_filename: IMGP8011raw1.jpg
   post_slug: 2014-07-13-z-dziwnowka-do-sianozet
-  lat: 54.077640833333334
-  lon: 14.99288861111111
+  lat: 54.07764166666667
+  lon: 14.992888888888888
   altitude: 9.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2014-07-13 11:48:27+02:00
+  time: 2014-07-13 11:48:27.000000000+02:00
+- image_filename: IMGP8024raw1.jpg
+  post_slug: 2014-07-13-z-dziwnowka-do-sianozet
+  lat: 54.102755555555554
+  lon: 15.172122222222221
+  altitude: 4.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  time: 2014-07-13 13:20:31.000000000+02:00
 - image_filename: IMGP8037raw1.jpg
   post_slug: 2014-07-13-z-dziwnowka-do-sianozet
-  lat: 54.11116416666667
+  lat: 54.11116388888889
   lon: 15.19673888888889
   altitude: 6.9
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.0
-  iso: 400
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2014-07-13 13:49:14+02:00
-- image_filename: IMGP8055raw1.jpg
-  post_slug: 2014-07-13-z-dziwnowka-do-sianozet
-  lat: 54.15321083333333
-  lon: 15.360489722222223
-  altitude: 1.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 8.0
   iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-07-13 16:37:59+02:00
-- image_filename: IMGP8056raw1crop.jpg
-  post_slug: 2014-07-13-z-dziwnowka-do-sianozet
-  lat: 54.19656
-  lon: 15.643138055555555
-  altitude: 16.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2014-07-13 19:22:33+02:00
-- image_filename: IMGP8057raw1.jpg
-  post_slug: 2014-07-13-z-dziwnowka-do-sianozet
-  lat: 54.19649111111111
-  lon: 15.643469166666666
-  altitude: 16.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 200
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2014-07-13 19:22:42+02:00
+  time: 2014-07-13 13:49:14.000000000+02:00
 - image_filename: IMGP8043raw1.jpg
   post_slug: 2014-07-13-z-dziwnowka-do-sianozet
-  lat: 54.111150555555554
-  lon: 15.196793055555556
+  lat: 54.11115
+  lon: 15.196791666666666
   altitude: 6.9
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2014-07-13 13:51:48+02:00
-- image_filename: IMGP8024raw1.jpg
+  time: 2014-07-13 13:51:48.000000000+02:00
+- image_filename: IMGP8055raw1.jpg
   post_slug: 2014-07-13-z-dziwnowka-do-sianozet
-  lat: 54.10275472222222
-  lon: 15.172122499999999
-  altitude: 4.0
+  lat: 54.15321111111111
+  lon: 15.360488888888888
+  altitude: 1.8
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
-  aperture: 5.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2014-07-13 13:20:31+02:00
+  time: 2014-07-13 16:37:59.000000000+02:00
+- image_filename: IMGP8056raw1crop.jpg
+  post_slug: 2014-07-13-z-dziwnowka-do-sianozet
+  lat: 54.19656111111111
+  lon: 15.643138888888888
+  altitude: 16.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  time: 2014-07-13 19:22:33.000000000+02:00
+- image_filename: IMGP8057raw1.jpg
+  post_slug: 2014-07-13-z-dziwnowka-do-sianozet
+  lat: 54.19649166666667
+  lon: 15.643469444444444
+  altitude: 16.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  time: 2014-07-13 19:22:42.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2014-07-13-z-dziwnowka-do-sianozet
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  iso: 100
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  time: 2014-07-13 21:45:16.000000000+02:00

@@ -1,21 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-- image_filename: 2021_05_22__12_43__5226160.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 3.7
-  iso: 320
-  width: 4526
-  height: 3382
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 12:43:12.000000000+02:00
 - image_filename: 2021_05_22__12_43__5226156.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   focal_length: 12.0
@@ -31,6 +14,21 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 12:43:00.000000000+02:00
+- image_filename: 2021_05_22__12_43__5226160.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.7
+  iso: 320
+  width: 4526
+  height: 3382
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 12:43:12.000000000+02:00
 - image_filename: 2021_05_22__15_17__5226166.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.368125
@@ -49,6 +47,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 15:17:51.000000000+02:00
+- image_filename: 2021_05_22__15_17__5226168.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.36823611111111
+  lon: 15.86725
+  altitude: 4294967296.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 21.44
+  iso: 200
+  width: 5152
+  height: 3846
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 15:17:55.000000000+02:00
 - image_filename: 2021_05_22__15_38__5226172.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.41008333333333
@@ -85,24 +101,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 15:38:17.000000000+02:00
-- image_filename: 2021_05_22__15_17__5226168.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.36823611111111
-  lon: 15.86725
-  altitude: 4294967296.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 21.44
-  iso: 200
-  width: 5152
-  height: 3846
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 15:17:55.000000000+02:00
 - image_filename: 2021_05_22__15_39__5226181.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.412166666666664
@@ -139,24 +137,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 15:39:21.000000000+02:00
-- image_filename: 2021_05_22__16_00__5226192.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.46884722222222
-  lon: 15.776694444444445
-  altitude: 4294967296.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 26.77
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 16:00:55.000000000+02:00
 - image_filename: 2021_05_22__16_00__5226189.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.46690277777778
@@ -175,6 +155,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:00:26.000000000+02:00
+- image_filename: 2021_05_22__16_00__5226192.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.46884722222222
+  lon: 15.776694444444445
+  altitude: 4294967296.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 26.77
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 16:00:55.000000000+02:00
 - image_filename: 2021_05_22__16_02__5226201.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.47366666666667
@@ -211,24 +209,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:12:12.000000000+02:00
-- image_filename: 2021_05_22__16_15__5226218.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.48152777777778
-  lon: 15.824680555555556
-  altitude: 4294967296.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 17.92
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 16:15:34.000000000+02:00
 - image_filename: 2021_05_22__16_15__5226213.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.48144444444445
@@ -247,24 +227,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:15:10.000000000+02:00
-- image_filename: 2021_05_22__16_18__5226224.jpg
+- image_filename: 2021_05_22__16_15__5226218.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.484180555555554
-  lon: 15.83851388888889
-  altitude: 23.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 52.48152777777778
+  lon: 15.824680555555556
+  altitude: 4294967296.0
+  focal_length: 41.0
+  focal_length_35: 82.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 210.05
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.92
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-22 16:18:39.000000000+02:00
+  time: 2021-05-22 16:15:34.000000000+02:00
 - image_filename: 2021_05_22__16_15__5226222.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.48159722222223
@@ -301,6 +281,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:15:48.000000000+02:00
+- image_filename: 2021_05_22__16_18__5226224.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.484180555555554
+  lon: 15.83851388888889
+  altitude: 23.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 210.05
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 16:18:39.000000000+02:00
 - image_filename: 2021_05_22__16_19__5226228.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.48422222222222
@@ -337,42 +335,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:19:07.000000000+02:00
-- image_filename: 2021_05_22__16_28__5226242.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.49143055555556
-  lon: 15.857722222222222
-  altitude: 24.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1.65
-  iso: 200
-  width: 5163
-  height: 3854
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 16:28:00.000000000+02:00
-- image_filename: 2021_05_22__16_27__5226238.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.49143055555556
-  lon: 15.857722222222222
-  altitude: 23.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.78
-  iso: 200
-  width: 5073
-  height: 3787
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 16:27:52.000000000+02:00
 - image_filename: 2021_05_22__16_19__5226230.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.48422222222222
@@ -391,6 +353,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:19:10.000000000+02:00
+- image_filename: 2021_05_22__16_27__5226238.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.49143055555556
+  lon: 15.857722222222222
+  altitude: 23.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.78
+  iso: 200
+  width: 5073
+  height: 3787
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 16:27:52.000000000+02:00
+- image_filename: 2021_05_22__16_28__5226242.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.49143055555556
+  lon: 15.857722222222222
+  altitude: 24.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.65
+  iso: 200
+  width: 5163
+  height: 3854
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 16:28:00.000000000+02:00
 - image_filename: 2021_05_22__16_28__5226243.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.49143055555556
@@ -427,24 +425,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:30:30.000000000+02:00
-- image_filename: 2021_05_22__16_33__5226255.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.49120833333333
-  lon: 15.867569444444445
-  altitude: 12.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.05
-  iso: 200
-  width: 5170
-  height: 3859
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 16:33:41.000000000+02:00
 - image_filename: 2021_05_22__16_33__5226254.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.49098611111111
@@ -463,6 +443,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:33:34.000000000+02:00
+- image_filename: 2021_05_22__16_33__5226255.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.49120833333333
+  lon: 15.867569444444445
+  altitude: 12.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.05
+  iso: 200
+  width: 5170
+  height: 3859
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 16:33:41.000000000+02:00
 - image_filename: 2021_05_22__16_33__5226258.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.49163888888889
@@ -499,24 +497,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:34:01.000000000+02:00
-- image_filename: 2021_05_22__16_34__5226262.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.49219444444444
-  lon: 15.870305555555555
-  altitude: 12.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4953
-  height: 3715
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 16:34:12.000000000+02:00
 - image_filename: 2021_05_22__16_34__5226261.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.491958333333336
@@ -535,6 +515,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:34:04.000000000+02:00
+- image_filename: 2021_05_22__16_34__5226262.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.49219444444444
+  lon: 15.870305555555555
+  altitude: 12.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4953
+  height: 3715
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 16:34:12.000000000+02:00
 - image_filename: 2021_05_22__16_34__5226266.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.49248611111111
@@ -589,24 +587,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:34:39.000000000+02:00
-- image_filename: 2021_05_22__16_35__5226281.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.49308333333333
-  lon: 15.877402777777778
-  altitude: 12.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 131.07
-  iso: 200
-  width: 5136
-  height: 3834
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 16:35:28.000000000+02:00
 - image_filename: 2021_05_22__16_35__5226276.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.49315277777778
@@ -643,24 +623,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:35:17.000000000+02:00
-- image_filename: 2021_05_22__16_49__5226294.jpg
+- image_filename: 2021_05_22__16_35__5226281.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.500458333333334
-  lon: 15.90876388888889
-  altitude: 11.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 52.49308333333333
+  lon: 15.877402777777778
+  altitude: 12.0
+  focal_length: 47.0
+  focal_length_35: 94.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 15.21
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 131.07
   iso: 200
-  width: 3822
-  height: 5119
+  width: 5136
+  height: 3834
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-22 16:49:08.000000000+02:00
+  time: 2021-05-22 16:35:28.000000000+02:00
 - image_filename: 2021_05_22__16_48__5226290.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.500458333333334
@@ -679,6 +659,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 16:48:42.000000000+02:00
+- image_filename: 2021_05_22__16_49__5226294.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.500458333333334
+  lon: 15.90876388888889
+  altitude: 11.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 15.21
+  iso: 200
+  width: 3822
+  height: 5119
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 16:49:08.000000000+02:00
 - image_filename: 2021_05_22__17_10__5226296.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.53219444444444
@@ -787,42 +785,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:18:00.000000000+02:00
-- image_filename: 2021_05_22__17_23__5226319.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.54255555555555
-  lon: 15.988972222222221
-  altitude: 21.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 292.57
-  iso: 200
-  width: 5166
-  height: 3857
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 17:23:16.000000000+02:00
-- image_filename: 2021_05_22__17_23__5226318.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.54255555555555
-  lon: 15.988972222222221
-  altitude: 20.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 3.35
-  iso: 200
-  width: 5179
-  height: 3405
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 17:23:13.000000000+02:00
 - image_filename: 2021_05_22__17_18__5226314.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.539513888888884
@@ -841,6 +803,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:18:13.000000000+02:00
+- image_filename: 2021_05_22__17_23__5226318.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.54255555555555
+  lon: 15.988972222222221
+  altitude: 20.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.35
+  iso: 200
+  width: 5179
+  height: 3405
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 17:23:13.000000000+02:00
+- image_filename: 2021_05_22__17_23__5226319.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.54255555555555
+  lon: 15.988972222222221
+  altitude: 21.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 292.57
+  iso: 200
+  width: 5166
+  height: 3857
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 17:23:16.000000000+02:00
 - image_filename: 2021_05_22__17_23__5226320.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.54255555555555
@@ -877,42 +875,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:25:26.000000000+02:00
-- image_filename: 2021_05_22__17_28__5226342.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.544888888888885
-  lon: 15.992694444444444
-  altitude: 29.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 17:28:57.000000000+02:00
-- image_filename: 2021_05_22__17_28__5226336.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.544888888888885
-  lon: 15.992694444444444
-  altitude: 30.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 17:28:41.000000000+02:00
 - image_filename: 2021_05_22__17_28__5226333.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.54486111111111
@@ -931,24 +893,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:28:35.000000000+02:00
-- image_filename: 2021_05_22__17_30__5226359.jpg
+- image_filename: 2021_05_22__17_28__5226336.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.54706944444444
-  lon: 15.996611111111111
-  altitude: 31.0
+  lat: 52.544888888888885
+  lon: 15.992694444444444
+  altitude: 30.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 17:28:41.000000000+02:00
+- image_filename: 2021_05_22__17_28__5226342.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.544888888888885
+  lon: 15.992694444444444
+  altitude: 29.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   focus_distance: 1000.0
   iso: 200
-  width: 5057
-  height: 3775
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-22 17:30:43.000000000+02:00
+  time: 2021-05-22 17:28:57.000000000+02:00
 - image_filename: 2021_05_22__17_29__5226348.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.544888888888885
@@ -967,24 +947,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:29:13.000000000+02:00
-- image_filename: 2021_05_22__17_31__5226365.jpg
+- image_filename: 2021_05_22__17_30__5226359.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.54793055555555
-  lon: 15.998444444444443
+  lat: 52.54706944444444
+  lon: 15.996611111111111
   altitude: 31.0
-  focal_length: 41.0
-  focal_length_35: 82.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 8.0
+  aperture: 9.0
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 20.98
+  focus_distance: 1000.0
   iso: 200
-  width: 5239
-  height: 3911
+  width: 5057
+  height: 3775
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-22 17:31:07.000000000+02:00
+  time: 2021-05-22 17:30:43.000000000+02:00
 - image_filename: 2021_05_22__17_31__5226363.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.54776388888889
@@ -1003,6 +983,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:31:03.000000000+02:00
+- image_filename: 2021_05_22__17_31__5226365.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.54793055555555
+  lon: 15.998444444444443
+  altitude: 31.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 20.98
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 17:31:07.000000000+02:00
 - image_filename: 2021_05_22__17_32__5226368.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.552861111111106
@@ -1039,24 +1037,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:32:45.000000000+02:00
-- image_filename: 2021_05_22__17_33__5226374.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.55526388888889
-  lon: 15.997569444444444
-  altitude: 35.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.74
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 17:33:05.000000000+02:00
 - image_filename: 2021_05_22__17_32__5226373.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.55458333333333
@@ -1075,6 +1055,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:32:54.000000000+02:00
+- image_filename: 2021_05_22__17_33__5226374.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.55526388888889
+  lon: 15.997569444444444
+  altitude: 35.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.74
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 17:33:05.000000000+02:00
 - image_filename: 2021_05_22__17_33__5226375.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.55551388888889
@@ -1093,24 +1091,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:33:09.000000000+02:00
-- image_filename: 2021_05_22__17_33__5226385.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.557874999999996
-  lon: 15.997208333333333
-  altitude: 38.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 17:33:50.000000000+02:00
 - image_filename: 2021_05_22__17_33__5226378.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.556749999999994
@@ -1129,6 +1109,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:33:30.000000000+02:00
+- image_filename: 2021_05_22__17_33__5226385.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.557874999999996
+  lon: 15.997208333333333
+  altitude: 38.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 17:33:50.000000000+02:00
 - image_filename: 2021_05_22__17_35__5226390.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.55808333333333
@@ -1219,24 +1217,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:41:12.000000000+02:00
-- image_filename: 2021_05_22__17_41__5226410.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.56705555555556
-  lon: 16.00373611111111
-  altitude: 31.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.54
-  iso: 200
-  width: 5130
-  height: 3830
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 17:41:29.000000000+02:00
 - image_filename: 2021_05_22__17_41__5226407.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.566430555555556
@@ -1255,6 +1235,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:41:14.000000000+02:00
+- image_filename: 2021_05_22__17_41__5226410.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.56705555555556
+  lon: 16.00373611111111
+  altitude: 31.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.54
+  iso: 200
+  width: 5130
+  height: 3830
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 17:41:29.000000000+02:00
 - image_filename: 2021_05_22__17_53__5226411.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.58376388888889
@@ -1309,24 +1307,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 17:54:07.000000000+02:00
-- image_filename: 2021_05_22__18_19__5226419.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.60965277777778
-  lon: 16.14998611111111
-  altitude: 0.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.16
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 18:19:17.000000000+02:00
 - image_filename: 2021_05_22__18_19__5226417.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.60965277777778
@@ -1345,6 +1325,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 18:19:10.000000000+02:00
+- image_filename: 2021_05_22__18_19__5226419.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.60965277777778
+  lon: 16.14998611111111
+  altitude: 0.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.16
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 18:19:17.000000000+02:00
 - image_filename: 2021_05_22__18_19__5226423.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.60965277777778
@@ -1417,24 +1415,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 18:25:30.000000000+02:00
-- image_filename: 2021_05_22__18_39__5226441.jpg
-  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
-  lat: 52.65297222222222
-  lon: 16.184819444444443
-  altitude: 4294967296.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 8.28
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-22 18:39:44.000000000+02:00
 - image_filename: 2021_05_22__18_25__5226437.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.62681944444444
@@ -1453,6 +1433,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-22 18:25:34.000000000+02:00
+- image_filename: 2021_05_22__18_39__5226441.jpg
+  post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
+  lat: 52.65297222222222
+  lon: 16.184819444444443
+  altitude: 4294967296.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.28
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-22 18:39:44.000000000+02:00
 - image_filename: 2021_05_22__18_40__5226447.jpg
   post_slug: 2021-05-22-najlepsze-co-w-wielkopolsce
   lat: 52.653819444444444

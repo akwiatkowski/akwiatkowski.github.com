@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-06-04-wzdluz-jeziora-dymaszewskiego
-  lat: 52.25738888888889
-  lon: 16.75109722222222
-  altitude: 65.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-04 13:29:36+02:00
 - image_filename: IMGP7056raw1.jpg
   post_slug: 2017-06-04-wzdluz-jeziora-dymaszewskiego
   lat: 52.22569444444444
@@ -22,11 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-06-04 12:44:34+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-04 12:44:34.000000000+02:00
 - image_filename: IMGP7059raw1.jpg
   post_slug: 2017-06-04-wzdluz-jeziora-dymaszewskiego
   lat: 52.236180555555556
@@ -36,11 +22,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2017-06-04 13:00:10+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-04 13:00:10.000000000+02:00
 - image_filename: IMGP7064raw1.jpg
   post_slug: 2017-06-04-wzdluz-jeziora-dymaszewskiego
   lat: 52.25791666666667
@@ -50,8 +36,22 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-06-04 13:30:04+02:00
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-06-04 13:30:04.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-06-04-wzdluz-jeziora-dymaszewskiego
+  lat: 52.25738888888889
+  lon: 16.75109722222222
+  altitude: 65.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-06-04 13:29:36.000000000+02:00

@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_05_02__10_09_P5020641.jpg
-  post_slug: 2019-05-02-ucieczka-przed-zimnem
-  lat: 53.61804166666667
-  lon: 19.70086111111111
-  altitude: 106.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4324
-  height: 3102
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-02 10:09:28+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_05_02__09_29_P5020589.jpg
   post_slug: 2019-05-02-ucieczka-przed-zimnem
   lat: 53.61276388888889
@@ -26,123 +8,15 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 3.5
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2019-05-02 09:29:39+02:00
   focus_distance: 1000.0
-- image_filename: 2019_05_02__09_48_P5020606.jpg
-  post_slug: 2019-05-02-ucieczka-przed-zimnem
-  lat: 53.607486111111115
-  lon: 19.680222222222223
-  altitude: 101.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4518
-  height: 3381
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-02 09:48:20+02:00
-  focus_distance: 233.37
-- image_filename: 2019_05_02__09_56_P5020619.jpg
-  post_slug: 2019-05-02-ucieczka-przed-zimnem
-  lat: 53.60115277777778
-  lon: 19.689541666666667
-  altitude: 99.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4341
-  height: 3248
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-05-02 09:56:10+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_02__10_04_P5020635.jpg
-  post_slug: 2019-05-02-ucieczka-przed-zimnem
-  lat: 53.61168055555556
-  lon: 19.69761111111111
-  altitude: 106.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4602
-  height: 3443
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-05-02 10:04:43+02:00
-  focus_distance: 74.82
-- image_filename: 2019_05_02__10_31_P5020675.jpg
-  post_slug: 2019-05-02-ucieczka-przed-zimnem
-  lat: 53.65358333333333
-  lon: 19.738236111111114
-  altitude: 105.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
+  iso: 500
   width: 4640
   height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-05-02 10:31:48+02:00
-  focus_distance: 3.74
-- image_filename: 2019_05_02__10_39_P5020680.jpg
-  post_slug: 2019-05-02-ucieczka-przed-zimnem
-  lat: 53.660152777777775
-  lon: 19.735222222222223
-  altitude: 109.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4459
-  height: 3336
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-02 10:39:43+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_02__10_43_P5020683.jpg
-  post_slug: 2019-05-02-ucieczka-przed-zimnem
-  lat: 53.66175
-  lon: 19.733472222222222
-  altitude: 108.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4458
-  height: 3335
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-05-02 10:43:38+02:00
-  focus_distance: 13.44
+  time: 2019-05-02 09:29:39.000000000+02:00
 - image_filename: 2019_05_02__09_47_P5020601.jpg
   post_slug: 2019-05-02-ucieczka-przed-zimnem
   lat: 53.60981944444445
@@ -152,15 +26,87 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-05-02 09:47:24+02:00
   focus_distance: 98.31
+  iso: 250
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 09:47:24.000000000+02:00
+- image_filename: 2019_05_02__09_48_P5020606.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.607486111111115
+  lon: 19.680222222222223
+  altitude: 101.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 233.37
+  iso: 250
+  width: 4518
+  height: 3381
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 09:48:20.000000000+02:00
+- image_filename: 2019_05_02__09_56_P5020619.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.60115277777778
+  lon: 19.689541666666667
+  altitude: 99.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4341
+  height: 3248
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 09:56:10.000000000+02:00
+- image_filename: 2019_05_02__10_04_P5020635.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.61168055555556
+  lon: 19.69761111111111
+  altitude: 106.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 74.82
+  iso: 320
+  width: 4602
+  height: 3443
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 10:04:43.000000000+02:00
+- image_filename: 2019_05_02__10_09_P5020641.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.61804166666667
+  lon: 19.70086111111111
+  altitude: 106.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4324
+  height: 3102
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 10:09:28.000000000+02:00
 - image_filename: 2019_05_02__10_17_P5020659.jpg
   post_slug: 2019-05-02-ucieczka-przed-zimnem
   lat: 53.632083333333334
@@ -170,15 +116,69 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 7.1
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4401
-  height: 3293
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2019-05-02 10:17:45+02:00
   focus_distance: 1000.0
+  iso: 320
+  width: 4401
+  height: 3293
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 10:17:45.000000000+02:00
+- image_filename: 2019_05_02__10_31_P5020675.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.65358333333333
+  lon: 19.738236111111114
+  altitude: 105.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 3.74
+  iso: 320
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 10:31:48.000000000+02:00
+- image_filename: 2019_05_02__10_39_P5020680.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.660152777777775
+  lon: 19.735222222222223
+  altitude: 109.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4459
+  height: 3336
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 10:39:43.000000000+02:00
+- image_filename: 2019_05_02__10_43_P5020683.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.66175
+  lon: 19.733472222222222
+  altitude: 108.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 13.44
+  iso: 320
+  width: 4458
+  height: 3335
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 10:43:38.000000000+02:00
 - image_filename: 2019_05_02__10_47_P5020694.jpg
   post_slug: 2019-05-02-ucieczka-przed-zimnem
   lat: 53.65934722222222
@@ -188,12 +188,12 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 6.3
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4509
-  height: 3374
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2019-05-02 10:47:22+02:00
   focus_distance: 1000.0
+  iso: 320
+  width: 4509
+  height: 3374
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-02 10:47:22.000000000+02:00

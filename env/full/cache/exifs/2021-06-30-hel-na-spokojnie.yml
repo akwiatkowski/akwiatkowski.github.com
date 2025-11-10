@@ -1,240 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-- image_filename: 2021_07_01__11_37__7017412.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.59451388888889
-  lon: 18.810125
-  altitude: 34.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 80.31
-  iso: 200
-  width: 5144
-  height: 3840
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-01 11:37:36.000000000+02:00
-- image_filename: 2021_06_30__17_14__6306831.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  focus_distance: 3.98
-  iso: 320
-  width: 5240
-  height: 3539
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:14:10.000000000+02:00
-- image_filename: 2021_06_29__12_35__6295542.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60866666666667
-  lon: 18.800166666666666
-  altitude: 30.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 11.04
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 12:35:49.000000000+02:00
-- image_filename: 2021_06_30__17_16__6307001.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 12.44
-  iso: 320
-  width: 4969
-  height: 3722
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:16:14.000000000+02:00
-- image_filename: 2021_06_28__21_00__6285319.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.6105
-  lon: 18.799625000000002
-  altitude: 27.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.1
-  exposure_string: 1/10 s
-  focus_distance: 3.3
-  iso: 200
-  width: 3815
-  height: 5110
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-28 21:00:12.000000000+02:00
-- image_filename: 2021_07_01__11_37__7017410.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.59473611111111
-  lon: 18.80977777777778
-  altitude: 38.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 7.22
-  iso: 200
-  width: 5220
-  height: 3897
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-01 11:37:15.000000000+02:00
-- image_filename: 2021_06_30__17_10__6306630.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 21.0
-  iso: 500
-  width: 4650
-  height: 3176
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:10:44.000000000+02:00
-- image_filename: 2021_06_30__17_16__6307067.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  focus_distance: 8.62
-  iso: 320
-  width: 4951
-  height: 3687
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:16:59.000000000+02:00
-- image_filename: 2021_06_30__17_16__6307047.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  focus_distance: 6.03
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:16:54.000000000+02:00
-- image_filename: 2021_06_30__15_50__6306102.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60636111111111
-  lon: 18.800583333333336
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  focus_distance: 15.11
-  iso: 400
-  width: 5240
-  height: 3504
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 15:50:32.000000000+02:00
-- image_filename: 2021_06_30__22_47__6307336.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.608111111111114
-  lon: 18.797694444444446
-  altitude: 26.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 13.0
-  exposure_string: 13 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4785
-  height: 3572
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 22:47:39.000000000+02:00
-- image_filename: 2021_06_29__18_55__6295751.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60866666666667
-  lon: 18.800166666666666
-  altitude: 30.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  focus_distance: 80.31
-  iso: 200
-  width: 5157
-  height: 3850
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 18:55:38.000000000+02:00
-- image_filename: 2021_06_28__19_44__6285025.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 7.24
-  iso: 400
-  width: 4918
-  height: 3481
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 19:44:43.000000000+02:00
 - image_filename: 2021_06_28__18_00__6284656.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.61066666666667
@@ -253,240 +17,79 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-06-28 18:00:30.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306748.jpg
+- image_filename: 2021_06_28__18_08__6284663.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 5.23
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:35.000000000+02:00
-- image_filename: 2021_06_28__20_50__6285305.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.6105
-  lon: 18.799625000000002
-  altitude: 27.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 10399
-  height: 7791
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-28 20:50:27.000000000+02:00
-- image_filename: 2021_06_30__17_03__6306156.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60629166666667
-  lon: 18.800416666666667
-  altitude: 35.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 7.51
-  iso: 200
-  width: 5219
-  height: 3896
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:03:39.000000000+02:00
-- image_filename: 2021_06_30__22_41__6307327.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.608736111111114
-  lon: 18.79648611111111
-  altitude: 29.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 51.85
-  iso: 3200
-  width: 5082
-  height: 3794
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 22:41:18.000000000+02:00
-- image_filename: 2021_06_29__12_41__6295654.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60866666666667
-  lon: 18.800166666666666
-  altitude: 30.0
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 15.81
-  iso: 500
-  width: 5239
-  height: 3911
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 3.67
+  iso: 400
+  width: 4994
+  height: 3728
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  time: 2021-06-29 12:41:26.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306788.jpg
+  time: 2021-06-28 18:08:15.000000000+02:00
+- image_filename: 2021_06_28__18_10__6284668.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 4.3
-  iso: 320
-  width: 4837
-  height: 3571
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:45.000000000+02:00
-- image_filename: 2021_06_30__15_50__6306080.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.606458333333336
-  lon: 18.80034722222222
-  altitude: 30.0
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 14.94
+  aperture: 9.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 4.11
+  iso: 400
+  width: 4238
+  height: 3249
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-28 18:10:45.000000000+02:00
+- image_filename: 2021_06_28__19_32__6284734.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 5.55
   iso: 400
   width: 5239
   height: 3911
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  time: 2021-06-30 15:50:19.000000000+02:00
-- image_filename: 2021_06_28__21_38_DSC02693.jpg
+  time: 2021-06-28 19:32:27.000000000+02:00
+- image_filename: 2021_06_28__19_34__6284759.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60365277777778
-  lon: 18.800361111111112
-  altitude: 35.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 100
-  width: 5795
-  height: 3855
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-06-28 21:38:34.000000000+02:00
-- image_filename: 2021_06_30__17_20__6307236.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60658333333333
-  lon: 18.800166666666666
-  altitude: 33.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 6.76
-  iso: 200
-  width: 5232
-  height: 3906
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:20:57.000000000+02:00
-- image_filename: 2021_06_30__17_14__6306821.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 3.63
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:14:06.000000000+02:00
-- image_filename: 2021_06_30__17_09__6306576.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800555555555555
-  altitude: 29.0
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 12.96
-  iso: 500
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 9.28
+  iso: 400
   width: 5239
   height: 3911
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  time: 2021-06-30 17:09:51.000000000+02:00
-- image_filename: 2021_06_29__13_05__6295746.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60866666666667
-  lon: 18.800166666666666
-  altitude: 30.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 3.36
-  iso: 500
-  width: 3912
-  height: 5240
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 13:05:10.000000000+02:00
-- image_filename: 2021_06_30__17_10__6306588.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 212.0
-  focal_length_35: 424.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 14.62
-  iso: 500
-  width: 4524
-  height: 3007
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:10:06.000000000+02:00
-- image_filename: 2021_06_28__20_03__6285242.jpg
+  time: 2021-06-28 19:34:10.000000000+02:00
+- image_filename: 2021_06_28__19_34__6284761.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.61066666666667
   lon: 18.799555555555557
@@ -497,31 +100,121 @@
   aperture: 5.6
   exposure: 0.0005
   exposure_string: 1/2000 s
-  focus_distance: 17.07
-  iso: 500
+  focus_distance: 9.16
+  iso: 400
   width: 5239
   height: 3911
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  time: 2021-06-28 20:03:53.000000000+02:00
-- image_filename: 2021_06_30__23_18__6307376.jpg
+  time: 2021-06-28 19:34:10.000000000+02:00
+- image_filename: 2021_06_28__19_42__6284970.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61013888888889
-  lon: 18.799916666666668
+  lat: 54.61066666666667
+  lon: 18.799555555555557
   altitude: 34.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  focal_length: 134.0
+  focal_length_35: 268.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.125
-  exposure_string: 1/8 s
-  focus_distance: 2.66
-  iso: 8000
-  width: 4857
-  height: 3658
-  lens: OLYMPUS M.12-100mm F4.0
+  aperture: 5.6
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 7.51
+  iso: 400
+  width: 3951
+  height: 3104
+  lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  time: 2021-06-30 23:18:50.000000000+02:00
+  time: 2021-06-28 19:42:23.000000000+02:00
+- image_filename: 2021_06_28__19_44__6285015.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 7.91
+  iso: 400
+  width: 4385
+  height: 3597
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-28 19:44:41.000000000+02:00
+- image_filename: 2021_06_28__19_44__6285025.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 7.24
+  iso: 400
+  width: 4918
+  height: 3481
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-28 19:44:43.000000000+02:00
+- image_filename: 2021_06_28__19_45__6285061.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 9.02
+  iso: 400
+  width: 5038
+  height: 3631
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-28 19:45:14.000000000+02:00
+- image_filename: 2021_06_28__19_46__6285074.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 20.68
+  iso: 400
+  width: 4811
+  height: 3639
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-28 19:46:02.000000000+02:00
+- image_filename: 2021_06_28__19_48__6285099.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
+  focal_length: 194.0
+  focal_length_35: 388.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 7.82
+  iso: 400
+  width: 4501
+  height: 3330
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-28 19:48:10.000000000+02:00
 - image_filename: 2021_06_28__19_58__6285138.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.61066666666667
@@ -540,24 +233,24 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-06-28 19:58:49.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306751.jpg
+- image_filename: 2021_06_28__20_03__6285233.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
+  focal_length: 300.0
+  focal_length_35: 600.0
   crop: 2.0
-  aperture: 2.8
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  focus_distance: 5.15
-  iso: 320
-  width: 4092
-  height: 2963
-  lens: OLYMPUS M.40-150mm F2.8
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 16.65
+  iso: 500
+  width: 5103
+  height: 3370
+  lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  time: 2021-06-30 17:13:36.000000000+02:00
+  time: 2021-06-28 20:03:52.000000000+02:00
 - image_filename: 2021_06_28__20_03__6285236.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.61066666666667
@@ -576,60 +269,271 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-06-28 20:03:52.000000000+02:00
-- image_filename: 2021_06_30__17_17__6307089.jpg
+- image_filename: 2021_06_28__20_03__6285242.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  focus_distance: 8.73
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:17:05.000000000+02:00
-- image_filename: 2021_06_30__17_08__6306460.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800541666666668
-  altitude: 29.0
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 14.17
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 17.07
   iso: 500
-  width: 4836
-  height: 3618
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:08:45.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306746.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 5.19
-  iso: 320
   width: 5239
   height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
+  lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  time: 2021-06-30 17:13:35.000000000+02:00
+  time: 2021-06-28 20:03:53.000000000+02:00
+- image_filename: 2021_06_28__20_03__6285247.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 16.85
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-28 20:03:54.000000000+02:00
+- image_filename: 2021_06_28__20_04__6285259.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.61066666666667
+  lon: 18.799555555555557
+  altitude: 34.0
+  focal_length: 190.0
+  focal_length_35: 380.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 6.37
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-28 20:04:32.000000000+02:00
+- image_filename: 2021_06_28__20_38_DSC02564.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.6105
+  lon: 18.799625000000002
+  altitude: 27.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-06-28 20:38:34.000000000+02:00
+- image_filename: 2021_06_28__20_50__6285305.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.6105
+  lon: 18.799625000000002
+  altitude: 27.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 10399
+  height: 7791
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-28 20:50:27.000000000+02:00
+- image_filename: 2021_06_28__20_57__6285315.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.6105
+  lon: 18.799625000000002
+  altitude: 27.0
+  focal_length: 11.0
+  focal_length_35: 22.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5158
+  height: 3851
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-28 20:57:21.000000000+02:00
+- image_filename: 2021_06_28__21_00__6285319.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.6105
+  lon: 18.799625000000002
+  altitude: 27.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 3.3
+  iso: 200
+  width: 3815
+  height: 5110
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-28 21:00:12.000000000+02:00
+- image_filename: 2021_06_28__21_01__6285332.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.6105
+  lon: 18.799625000000002
+  altitude: 27.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 16.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 2.67
+  iso: 200
+  width: 5066
+  height: 3782
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-06-28 21:01:54.000000000+02:00
+- image_filename: 2021_06_28__21_27_DSC02672.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60443055555556
+  lon: 18.800847222222224
+  altitude: 31.0
+  focal_length: 56.0
+  focal_length_35: 56.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5898
+  height: 3924
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-06-28 21:27:59.000000000+02:00
+- image_filename: 2021_06_28__21_38_DSC02693.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60365277777778
+  lon: 18.800361111111112
+  altitude: 35.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 5795
+  height: 3855
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-06-28 21:38:34.000000000+02:00
+- image_filename: 2021_06_28__21_42_DSC02705.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.59952777777778
+  lon: 18.799805555555558
+  altitude: 37.0
+  focal_length: 66.0
+  focal_length_35: 66.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 1600
+  width: 6000
+  height: 3992
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-06-28 21:42:55.000000000+02:00
+- image_filename: 2021_06_28__21_48_DSC02723.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.59952777777778
+  lon: 18.799805555555558
+  altitude: 37.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 2000
+  width: 5968
+  height: 3971
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-06-28 21:48:29.000000000+02:00
+- image_filename: 2021_06_29__12_05__6295359.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 12.96
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 12:05:01.000000000+02:00
+- image_filename: 2021_06_29__12_14__6295424.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 4.54
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 12:14:52.000000000+02:00
+- image_filename: 2021_06_29__12_32__6295476.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 91.02
+  iso: 500
+  width: 5128
+  height: 3828
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 12:32:33.000000000+02:00
 - image_filename: 2021_06_29__12_35__6295508.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.60866666666667
@@ -648,24 +552,294 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-06-29 12:35:37.000000000+02:00
-- image_filename: 2021_06_30__23_12__6307352.jpg
+- image_filename: 2021_06_29__12_35__6295542.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.608805555555556
-  lon: 18.799986111111114
-  altitude: 34.0
-  focal_length: 21.0
-  focal_length_35: 42.0
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30.0
+  focal_length: 140.0
+  focal_length_35: 280.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 3.9
-  iso: 200
-  width: 5147
-  height: 3789
-  lens: OLYMPUS M.12-100mm F4.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 11.04
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  time: 2021-06-30 23:12:26.000000000+02:00
+  time: 2021-06-29 12:35:49.000000000+02:00
+- image_filename: 2021_06_29__12_36__6295553.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 16.44
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 12:36:08.000000000+02:00
+- image_filename: 2021_06_29__12_40__6295605.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30.0
+  focal_length: 194.0
+  focal_length_35: 388.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 11.6
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 12:40:33.000000000+02:00
+- image_filename: 2021_06_29__12_41__6295654.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 15.81
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 12:41:26.000000000+02:00
+- image_filename: 2021_06_29__13_05__6295746.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 3.36
+  iso: 500
+  width: 3912
+  height: 5240
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 13:05:10.000000000+02:00
+- image_filename: 2021_06_29__18_55__6295751.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  focus_distance: 80.31
+  iso: 200
+  width: 5157
+  height: 3850
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-29 18:55:38.000000000+02:00
+- image_filename: 2021_06_30__15_42__6305984.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60888888888889
+  lon: 18.797944444444447
+  altitude: 30.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 1.36
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 15:42:17.000000000+02:00
+- image_filename: 2021_06_30__15_49__6306021.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60663888888889
+  lon: 18.800055555555556
+  altitude: 32.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 13.6
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 15:49:18.000000000+02:00
+- image_filename: 2021_06_30__15_49__6306044.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60665277777778
+  lon: 18.800069444444446
+  altitude: 32.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 9.16
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 15:49:28.000000000+02:00
+- image_filename: 2021_06_30__15_49__6306045.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60665277777778
+  lon: 18.800069444444446
+  altitude: 32.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 8.85
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 15:49:28.000000000+02:00
+- image_filename: 2021_06_30__15_50__6306080.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.606458333333336
+  lon: 18.80034722222222
+  altitude: 30.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 14.94
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 15:50:19.000000000+02:00
+- image_filename: 2021_06_30__15_50__6306102.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60636111111111
+  lon: 18.800583333333336
+  altitude: 34.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 15.11
+  iso: 400
+  width: 5240
+  height: 3504
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 15:50:32.000000000+02:00
+- image_filename: 2021_06_30__17_03__6306156.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60629166666667
+  lon: 18.800416666666667
+  altitude: 35.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 7.51
+  iso: 200
+  width: 5219
+  height: 3896
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:03:39.000000000+02:00
+- image_filename: 2021_06_30__17_05__6306163.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800541666666668
+  altitude: 31.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 22.14
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:05:10.000000000+02:00
+- image_filename: 2021_06_30__17_06__6306217.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800527777777777
+  altitude: 31.0
+  focal_length: 200.0
+  focal_length_35: 400.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 11.7
+  iso: 400
+  width: 4031
+  height: 3150
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:06:12.000000000+02:00
+- image_filename: 2021_06_30__17_07__6306346.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.80051388888889
+  altitude: 31.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 14.62
+  iso: 500
+  width: 4663
+  height: 3354
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:07:32.000000000+02:00
 - image_filename: 2021_06_30__17_07__6306351.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.60588888888889
@@ -684,6 +858,510 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-06-30 17:07:32.000000000+02:00
+- image_filename: 2021_06_30__17_08__6306440.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.80051388888889
+  altitude: 29.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 16.44
+  iso: 500
+  width: 4429
+  height: 3238
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:08:41.000000000+02:00
+- image_filename: 2021_06_30__17_08__6306460.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800541666666668
+  altitude: 29.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 14.17
+  iso: 500
+  width: 4836
+  height: 3618
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:08:45.000000000+02:00
+- image_filename: 2021_06_30__17_09__6306553.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 12.56
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:09:46.000000000+02:00
+- image_filename: 2021_06_30__17_09__6306576.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 12.96
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:09:51.000000000+02:00
+- image_filename: 2021_06_30__17_10__6306588.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 212.0
+  focal_length_35: 424.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 14.62
+  iso: 500
+  width: 4524
+  height: 3007
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:10:06.000000000+02:00
+- image_filename: 2021_06_30__17_10__6306599.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 230.0
+  focal_length_35: 460.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 9.82
+  iso: 500
+  width: 4439
+  height: 3261
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:10:11.000000000+02:00
+- image_filename: 2021_06_30__17_10__6306600.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 230.0
+  focal_length_35: 460.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 9.89
+  iso: 500
+  width: 4262
+  height: 3107
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:10:11.000000000+02:00
+- image_filename: 2021_06_30__17_10__6306613.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 11.31
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:10:19.000000000+02:00
+- image_filename: 2021_06_30__17_10__6306630.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 21.0
+  iso: 500
+  width: 4650
+  height: 3176
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-06-30 17:10:44.000000000+02:00
+- image_filename: 2021_06_30__17_12__6306710.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 5.74
+  iso: 200
+  width: 3885
+  height: 5204
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:12:50.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306725.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0001
+  exposure_string: 1/10000 s
+  focus_distance: 11.6
+  iso: 320
+  width: 4844
+  height: 3801
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:20.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306742.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 5.07
+  iso: 320
+  width: 5240
+  height: 3182
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:35.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306743.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 5.19
+  iso: 320
+  width: 4921
+  height: 3638
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:35.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306744.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 5.19
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:35.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306745.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 5.21
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:35.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306746.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 5.19
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:35.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306748.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 5.23
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:35.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306751.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  focus_distance: 5.15
+  iso: 320
+  width: 4092
+  height: 2963
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:36.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306776.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  focus_distance: 4.65
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:43.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306781.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 4.41
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:44.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306788.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 4.3
+  iso: 320
+  width: 4837
+  height: 3571
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:45.000000000+02:00
+- image_filename: 2021_06_30__17_13__6306790.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 4.31
+  iso: 320
+  width: 4834
+  height: 3507
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:13:45.000000000+02:00
+- image_filename: 2021_06_30__17_14__6306812.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 4.45
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:14:02.000000000+02:00
+- image_filename: 2021_06_30__17_14__6306821.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 3.63
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:14:06.000000000+02:00
+- image_filename: 2021_06_30__17_14__6306829.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  focus_distance: 3.97
+  iso: 320
+  width: 5240
+  height: 3613
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:14:10.000000000+02:00
+- image_filename: 2021_06_30__17_14__6306831.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  focus_distance: 3.98
+  iso: 320
+  width: 5240
+  height: 3539
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:14:10.000000000+02:00
+- image_filename: 2021_06_30__17_14__6306836.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60588888888889
+  lon: 18.800555555555555
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  focus_distance: 4.35
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:14:14.000000000+02:00
+- image_filename: 2021_06_30__17_14__6306857.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800541666666668
+  altitude: 29.0
+  focal_length: 45.0
+  focal_length_35: 90.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0001
+  exposure_string: 1/10000 s
+  focus_distance: 6.11
+  iso: 320
+  width: 5019
+  height: 3702
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:14:31.000000000+02:00
 - image_filename: 2021_06_30__17_14__6306874.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.605875000000005
@@ -702,6 +1380,672 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkII
   time: 2021-06-30 17:14:39.000000000+02:00
+- image_filename: 2021_06_30__17_14__6306877.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800527777777777
+  altitude: 29.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 68.26
+  iso: 320
+  width: 5025
+  height: 3751
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:14:43.000000000+02:00
+- image_filename: 2021_06_30__17_14__6306882.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.800527777777777
+  altitude: 30.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 58.51
+  iso: 320
+  width: 4752
+  height: 3396
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:14:45.000000000+02:00
+- image_filename: 2021_06_30__17_15__6306900.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.605875000000005
+  lon: 18.80051388888889
+  altitude: 30.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 68.26
+  iso: 320
+  width: 5056
+  height: 3774
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:15:05.000000000+02:00
+- image_filename: 2021_06_30__17_15__6306966.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800458333333335
+  altitude: 30.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 10.5
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:15:45.000000000+02:00
+- image_filename: 2021_06_30__17_16__6307001.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 12.44
+  iso: 320
+  width: 4969
+  height: 3722
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:16:14.000000000+02:00
+- image_filename: 2021_06_30__17_16__6307041.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 6.01
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:16:53.000000000+02:00
+- image_filename: 2021_06_30__17_16__6307047.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 6.03
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:16:54.000000000+02:00
+- image_filename: 2021_06_30__17_16__6307065.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 8.56
+  iso: 320
+  width: 5240
+  height: 3587
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:16:59.000000000+02:00
+- image_filename: 2021_06_30__17_16__6307067.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 8.62
+  iso: 320
+  width: 4951
+  height: 3687
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:16:59.000000000+02:00
+- image_filename: 2021_06_30__17_17__6307073.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 8.78
+  iso: 320
+  width: 5006
+  height: 3737
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:17:00.000000000+02:00
+- image_filename: 2021_06_30__17_17__6307074.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 8.78
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:17:00.000000000+02:00
+- image_filename: 2021_06_30__17_17__6307075.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 8.73
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:17:00.000000000+02:00
+- image_filename: 2021_06_30__17_17__6307076.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 8.73
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:17:00.000000000+02:00
+- image_filename: 2021_06_30__17_17__6307077.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 8.68
+  iso: 320
+  width: 5151
+  height: 3845
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:17:00.000000000+02:00
+- image_filename: 2021_06_30__17_17__6307089.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 8.73
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:17:05.000000000+02:00
+- image_filename: 2021_06_30__17_17__6307110.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 10.86
+  iso: 320
+  width: 4414
+  height: 2983
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:17:23.000000000+02:00
+- image_filename: 2021_06_30__17_17__6307122.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 16.65
+  iso: 320
+  width: 4311
+  height: 3002
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:17:28.000000000+02:00
+- image_filename: 2021_06_30__17_17__6307140.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 7.28
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:17:42.000000000+02:00
+- image_filename: 2021_06_30__17_18__6307159.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60594444444445
+  lon: 18.800444444444445
+  altitude: 31.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 5.05
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:18:22.000000000+02:00
+- image_filename: 2021_06_30__17_20__6307236.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60658333333333
+  lon: 18.800166666666666
+  altitude: 33.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 6.76
+  iso: 200
+  width: 5232
+  height: 3906
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-06-30 17:20:57.000000000+02:00
+- image_filename: 2021_06_30__17_41__6307242.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60809722222223
+  lon: 18.797694444444446
+  altitude: 33.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5069
+  height: 3751
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 17:41:36.000000000+02:00
+- image_filename: 2021_06_30__17_42__6307246.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60805555555556
+  lon: 18.797805555555556
+  altitude: 34.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5233
+  height: 3907
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 17:42:14.000000000+02:00
+- image_filename: 2021_06_30__17_42__6307253.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.607958333333336
+  lon: 18.798069444444447
+  altitude: 29.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 29.78
+  iso: 200
+  width: 5110
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 17:42:52.000000000+02:00
+- image_filename: 2021_06_30__17_43__6307259.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.607625
+  lon: 18.79888888888889
+  altitude: 27.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 12.48
+  iso: 200
+  width: 5147
+  height: 3843
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 17:43:53.000000000+02:00
+- image_filename: 2021_06_30__17_44__6307260.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60747222222222
+  lon: 18.799097222222223
+  altitude: 25.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5098
+  height: 3806
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 17:44:16.000000000+02:00
+- image_filename: 2021_06_30__18_01__6307281.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60316666666667
+  lon: 18.804041666666667
+  altitude: 40.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 10.22
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 18:01:04.000000000+02:00
+- image_filename: 2021_06_30__18_59__6307286.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.599986111111114
+  lon: 18.803125
+  altitude: 33.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 30.62
+  iso: 200
+  width: 5084
+  height: 3795
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 18:59:04.000000000+02:00
+- image_filename: 2021_06_30__19_00__6307292.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.599875000000004
+  lon: 18.802194444444446
+  altitude: 30.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5093
+  height: 3802
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 19:00:35.000000000+02:00
+- image_filename: 2021_06_30__19_00__6307294.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.599875000000004
+  lon: 18.80213888888889
+  altitude: 29.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 4.9
+  iso: 200
+  width: 5209
+  height: 3584
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 19:00:56.000000000+02:00
+- image_filename: 2021_06_30__22_37__6307320.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.609375
+  lon: 18.797708333333336
+  altitude: 26.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 0.52
+  iso: 3200
+  width: 4768
+  height: 3413
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 22:37:42.000000000+02:00
+- image_filename: 2021_06_30__22_41__6307327.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.608736111111114
+  lon: 18.79648611111111
+  altitude: 29.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 51.85
+  iso: 3200
+  width: 5082
+  height: 3794
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 22:41:18.000000000+02:00
+- image_filename: 2021_06_30__22_47__6307336.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.608111111111114
+  lon: 18.797694444444446
+  altitude: 26.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 13.0
+  exposure_string: 13 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4785
+  height: 3572
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 22:47:39.000000000+02:00
+- image_filename: 2021_06_30__22_49__6307338.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.607847222222226
+  lon: 18.798375
+  altitude: 32.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 13.0
+  exposure_string: 13 s
+  focus_distance: 6.86
+  iso: 200
+  width: 5141
+  height: 3838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 22:49:39.000000000+02:00
+- image_filename: 2021_06_30__22_59__6307344.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60677777777778
+  lon: 18.799944444444446
+  altitude: 33.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 30.0
+  exposure_string: 30 s
+  focus_distance: 59.36
+  iso: 200
+  width: 5156
+  height: 3849
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 22:59:36.000000000+02:00
+- image_filename: 2021_06_30__23_00__6307345.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.60673611111111
+  lon: 18.80001388888889
+  altitude: 34.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 30.0
+  exposure_string: 30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5152
+  height: 3846
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 23:00:53.000000000+02:00
+- image_filename: 2021_06_30__23_08__6307350.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.606833333333334
+  lon: 18.799944444444446
+  altitude: 37.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 27.44
+  iso: 200
+  width: 5149
+  height: 3787
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 23:08:27.000000000+02:00
+- image_filename: 2021_06_30__23_12__6307352.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.608805555555556
+  lon: 18.799986111111114
+  altitude: 34.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 3.9
+  iso: 200
+  width: 5147
+  height: 3789
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-30 23:12:26.000000000+02:00
 - image_filename: 2021_06_30__23_14__6307354.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.60980555555556
@@ -711,8 +2055,8 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 4.0
-  exposure: 1.0
-  exposure_string: 1 s
+  exposure: 3.0
+  exposure_string: 1.3 s
   focus_distance: 32.83
   iso: 200
   width: 5220
@@ -738,1191 +2082,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-30 23:18:33.000000000+02:00
-- image_filename: 2021_06_30__15_42__6305984.jpg
+- image_filename: 2021_06_30__23_18__6307376.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60888888888889
-  lon: 18.797944444444447
-  altitude: 30.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 1.36
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 15:42:17.000000000+02:00
-- image_filename: 2021_06_30__17_14__6306857.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800541666666668
-  altitude: 29.0
-  focal_length: 45.0
-  focal_length_35: 90.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0001
-  exposure_string: 1/10000 s
-  focus_distance: 6.11
-  iso: 320
-  width: 5019
-  height: 3702
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:14:31.000000000+02:00
-- image_filename: 2021_06_30__18_59__6307286.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.599986111111114
-  lon: 18.803125
-  altitude: 33.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 30.62
-  iso: 200
-  width: 5084
-  height: 3795
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 18:59:04.000000000+02:00
-- image_filename: 2021_06_30__15_49__6306044.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60665277777778
-  lon: 18.800069444444446
-  altitude: 32.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 9.16
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 15:49:28.000000000+02:00
-- image_filename: 2021_06_30__18_01__6307281.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60316666666667
-  lon: 18.804041666666667
-  altitude: 40.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.1
-  exposure_string: 1/10 s
-  focus_distance: 10.22
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 18:01:04.000000000+02:00
-- image_filename: 2021_06_30__17_17__6307074.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 8.78
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:17:00.000000000+02:00
-- image_filename: 2021_06_28__18_08__6284663.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 3.67
-  iso: 400
-  width: 4994
-  height: 3728
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 18:08:15.000000000+02:00
-- image_filename: 2021_06_30__17_17__6307076.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 8.73
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:17:00.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306743.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 5.19
-  iso: 320
-  width: 4921
-  height: 3638
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:35.000000000+02:00
-- image_filename: 2021_06_28__20_04__6285259.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 190.0
-  focal_length_35: 380.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 6.37
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 20:04:32.000000000+02:00
-- image_filename: 2021_06_28__21_27_DSC02672.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60443055555556
-  lon: 18.800847222222224
-  altitude: 31.0
-  focal_length: 56.0
-  focal_length_35: 56.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 5898
-  height: 3924
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-06-28 21:27:59.000000000+02:00
-- image_filename: 2021_06_28__21_48_DSC02723.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.59952777777778
-  lon: 18.799805555555558
-  altitude: 37.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 2000
-  width: 5968
-  height: 3971
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-06-28 21:48:29.000000000+02:00
-- image_filename: 2021_06_30__17_17__6307110.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 10.86
-  iso: 320
-  width: 4414
-  height: 2983
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:17:23.000000000+02:00
-- image_filename: 2021_06_28__19_48__6285099.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 194.0
-  focal_length_35: 388.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 7.82
-  iso: 400
-  width: 4501
-  height: 3330
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 19:48:10.000000000+02:00
-- image_filename: 2021_06_30__17_08__6306440.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.80051388888889
-  altitude: 29.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 16.44
-  iso: 500
-  width: 4429
-  height: 3238
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:08:41.000000000+02:00
-- image_filename: 2021_06_30__15_49__6306045.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60665277777778
-  lon: 18.800069444444446
-  altitude: 32.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 8.85
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 15:49:28.000000000+02:00
-- image_filename: 2021_06_30__23_00__6307345.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60673611111111
-  lon: 18.80001388888889
+  lat: 54.61013888888889
+  lon: 18.799916666666668
   altitude: 34.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 30.0
-  exposure_string: 30 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5152
-  height: 3846
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 2.66
+  iso: 8000
+  width: 4857
+  height: 3658
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-30 23:00:53.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306745.jpg
+  time: 2021-06-30 23:18:50.000000000+02:00
+- image_filename: 2021_07_01__11_37__7017410.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 5.21
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:35.000000000+02:00
-- image_filename: 2021_06_30__22_59__6307344.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60677777777778
-  lon: 18.799944444444446
-  altitude: 33.0
-  focal_length: 41.0
-  focal_length_35: 82.0
+  lat: 54.59473611111111
+  lon: 18.80977777777778
+  altitude: 38.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
-  exposure: 30.0
-  exposure_string: 30 s
-  focus_distance: 59.36
-  iso: 200
-  width: 5156
-  height: 3849
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 22:59:36.000000000+02:00
-- image_filename: 2021_06_30__17_17__6307075.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 8.73
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:17:00.000000000+02:00
-- image_filename: 2021_06_30__17_44__6307260.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60747222222222
-  lon: 18.799097222222223
-  altitude: 25.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5098
-  height: 3806
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 17:44:16.000000000+02:00
-- image_filename: 2021_06_30__17_17__6307077.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 8.68
-  iso: 320
-  width: 5151
-  height: 3845
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:17:00.000000000+02:00
-- image_filename: 2021_06_30__17_14__6306877.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800527777777777
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  focus_distance: 68.26
-  iso: 320
-  width: 5025
-  height: 3751
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:14:43.000000000+02:00
-- image_filename: 2021_06_28__20_03__6285247.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 16.85
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 20:03:54.000000000+02:00
-- image_filename: 2021_06_30__19_00__6307294.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.599875000000004
-  lon: 18.80213888888889
-  altitude: 29.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 4.9
-  iso: 200
-  width: 5209
-  height: 3584
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 19:00:56.000000000+02:00
-- image_filename: 2021_06_28__20_57__6285315.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.6105
-  lon: 18.799625000000002
-  altitude: 27.0
-  focal_length: 11.0
-  focal_length_35: 22.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 2.0
-  exposure_string: 2 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5158
-  height: 3851
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-28 20:57:21.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306790.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 4.31
-  iso: 320
-  width: 4834
-  height: 3507
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:45.000000000+02:00
-- image_filename: 2021_06_28__19_44__6285015.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 7.91
-  iso: 400
-  width: 4385
-  height: 3597
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 19:44:41.000000000+02:00
-- image_filename: 2021_06_28__18_10__6284668.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 4.11
-  iso: 400
-  width: 4238
-  height: 3249
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 18:10:45.000000000+02:00
-- image_filename: 2021_06_30__17_41__6307242.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60809722222223
-  lon: 18.797694444444446
-  altitude: 33.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5069
-  height: 3751
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 17:41:36.000000000+02:00
-- image_filename: 2021_06_28__19_34__6284761.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  focus_distance: 9.16
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 19:34:10.000000000+02:00
-- image_filename: 2021_07_01__11_41__7017453.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.593444444444444
-  lon: 18.811319444444447
-  altitude: 37.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 0.48
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-01 11:41:13.000000000+02:00
-- image_filename: 2021_06_30__17_10__6306613.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 11.31
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:10:19.000000000+02:00
-- image_filename: 2021_06_30__17_06__6306217.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800527777777777
-  altitude: 31.0
-  focal_length: 200.0
-  focal_length_35: 400.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 11.7
-  iso: 400
-  width: 4031
-  height: 3150
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:06:12.000000000+02:00
-- image_filename: 2021_06_30__17_09__6306553.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 12.56
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:09:46.000000000+02:00
-- image_filename: 2021_07_01__11_40__7017447.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.59351388888889
-  lon: 18.811069444444446
-  altitude: 37.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 0.67
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-01 11:40:59.000000000+02:00
-- image_filename: 2021_06_30__17_05__6306163.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800541666666668
-  altitude: 31.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 22.14
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:05:10.000000000+02:00
-- image_filename: 2021_06_30__17_14__6306812.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 4.45
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:14:02.000000000+02:00
-- image_filename: 2021_06_30__17_17__6307140.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  focus_distance: 7.28
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:17:42.000000000+02:00
-- image_filename: 2021_06_29__12_14__6295424.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60866666666667
-  lon: 18.800166666666666
-  altitude: 30.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 4.54
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 12:14:52.000000000+02:00
-- image_filename: 2021_06_30__17_42__6307246.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60805555555556
-  lon: 18.797805555555556
-  altitude: 34.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5233
-  height: 3907
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 17:42:14.000000000+02:00
-- image_filename: 2021_06_30__17_16__6307065.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  focus_distance: 8.56
-  iso: 320
-  width: 5240
-  height: 3587
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:16:59.000000000+02:00
-- image_filename: 2021_06_30__17_43__6307259.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.607625
-  lon: 18.79888888888889
-  altitude: 27.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 12.48
-  iso: 200
-  width: 5147
-  height: 3843
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 17:43:53.000000000+02:00
-- image_filename: 2021_06_28__19_46__6285074.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 20.68
-  iso: 400
-  width: 4811
-  height: 3639
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 19:46:02.000000000+02:00
-- image_filename: 2021_06_30__17_10__6306599.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 230.0
-  focal_length_35: 460.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 9.82
-  iso: 500
-  width: 4439
-  height: 3261
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:10:11.000000000+02:00
-- image_filename: 2021_06_29__12_32__6295476.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60866666666667
-  lon: 18.800166666666666
-  altitude: 30.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 91.02
-  iso: 500
-  width: 5128
-  height: 3828
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 12:32:33.000000000+02:00
-- image_filename: 2021_06_30__17_15__6306900.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.80051388888889
-  altitude: 30.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 68.26
-  iso: 320
-  width: 5056
-  height: 3774
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:15:05.000000000+02:00
-- image_filename: 2021_06_29__12_05__6295359.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60866666666667
-  lon: 18.800166666666666
-  altitude: 30.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 12.96
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 12:05:01.000000000+02:00
-- image_filename: 2021_06_30__17_12__6306710.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 5.74
+  focus_distance: 7.22
   iso: 200
-  width: 3885
-  height: 5204
-  lens: OLYMPUS M.40-150mm F2.8
+  width: 5220
+  height: 3897
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-30 17:12:50.000000000+02:00
-- image_filename: 2021_06_30__17_16__6307041.jpg
+  time: 2021-07-01 11:37:15.000000000+02:00
+- image_filename: 2021_07_01__11_37__7017412.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  focus_distance: 6.01
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:16:53.000000000+02:00
-- image_filename: 2021_06_30__17_15__6306966.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800458333333335
-  altitude: 30.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 10.5
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:15:45.000000000+02:00
-- image_filename: 2021_07_01__11_41__7017449.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.59351388888889
-  lon: 18.811125
-  altitude: 36.0
+  lat: 54.59451388888889
+  lon: 18.810125
+  altitude: 34.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 0.64
-  iso: 200
-  width: 5067
-  height: 3783
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-01 11:41:01.000000000+02:00
-- image_filename: 2021_07_01__11_42__7017467.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.59330555555556
-  lon: 18.81176388888889
-  altitude: 36.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 2.54
-  iso: 200
-  width: 5210
-  height: 3890
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-01 11:42:36.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306744.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 5.19
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:35.000000000+02:00
-- image_filename: 2021_06_29__12_40__6295605.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60866666666667
-  lon: 18.800166666666666
-  altitude: 30.0
-  focal_length: 194.0
-  focal_length_35: 388.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 11.6
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 12:40:33.000000000+02:00
-- image_filename: 2021_06_28__20_03__6285233.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 16.65
-  iso: 500
-  width: 5103
-  height: 3370
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 20:03:52.000000000+02:00
-- image_filename: 2021_06_28__19_34__6284759.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 9.28
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 19:34:10.000000000+02:00
-- image_filename: 2021_06_30__17_17__6307122.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 16.65
-  iso: 320
-  width: 4311
-  height: 3002
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:17:28.000000000+02:00
-- image_filename: 2021_06_28__20_38_DSC02564.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.6105
-  lon: 18.799625000000002
-  altitude: 27.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
   aperture: 5.6
   exposure: 0.0025
   exposure_string: 1/400 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-06-28 20:38:34.000000000+02:00
-- image_filename: 2021_06_30__17_14__6306836.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  focus_distance: 4.35
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:14:14.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306776.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  focus_distance: 4.65
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:43.000000000+02:00
-- image_filename: 2021_06_30__23_08__6307350.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.606833333333334
-  lon: 18.799944444444446
-  altitude: 37.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 27.44
+  focus_distance: 80.31
   iso: 200
-  width: 5149
-  height: 3787
+  width: 5144
+  height: 3840
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-30 23:08:27.000000000+02:00
-- image_filename: 2021_06_28__19_45__6285061.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 9.02
-  iso: 400
-  width: 5038
-  height: 3631
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 19:45:14.000000000+02:00
-- image_filename: 2021_06_30__17_14__6306882.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800527777777777
-  altitude: 30.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  focus_distance: 58.51
-  iso: 320
-  width: 4752
-  height: 3396
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:14:45.000000000+02:00
-- image_filename: 2021_06_30__17_10__6306600.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.605875000000005
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 230.0
-  focal_length_35: 460.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 9.89
-  iso: 500
-  width: 4262
-  height: 3107
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:10:11.000000000+02:00
-- image_filename: 2021_06_28__21_01__6285332.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.6105
-  lon: 18.799625000000002
-  altitude: 27.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 16.0
-  exposure: 0.25
-  exposure_string: 1/4 s
-  focus_distance: 2.67
-  iso: 200
-  width: 5066
-  height: 3782
-  lens: LEICA DG 8-18/F2.8-4.0
-  camera: E-M1MarkII
-  time: 2021-06-28 21:01:54.000000000+02:00
+  time: 2021-07-01 11:37:36.000000000+02:00
 - image_filename: 2021_07_01__11_39__7017430.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.59384722222222
@@ -1941,203 +2154,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-07-01 11:39:11.000000000+02:00
-- image_filename: 2021_06_29__12_36__6295553.jpg
+- image_filename: 2021_07_01__11_40__7017447.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60866666666667
-  lon: 18.800166666666666
-  altitude: 30.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 16.44
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-29 12:36:08.000000000+02:00
-- image_filename: 2021_06_30__17_42__6307253.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.607958333333336
-  lon: 18.798069444444447
-  altitude: 29.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 29.78
-  iso: 200
-  width: 5110
-  height: 3815
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 17:42:52.000000000+02:00
-- image_filename: 2021_06_30__22_49__6307338.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.607847222222226
-  lon: 18.798375
-  altitude: 32.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 13.0
-  exposure_string: 13 s
-  focus_distance: 6.86
-  iso: 200
-  width: 5141
-  height: 3838
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 22:49:39.000000000+02:00
-- image_filename: 2021_06_30__15_49__6306021.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60663888888889
-  lon: 18.800055555555556
-  altitude: 32.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 13.6
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 15:49:18.000000000+02:00
-- image_filename: 2021_06_28__19_42__6284970.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 134.0
-  focal_length_35: 268.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  focus_distance: 7.51
-  iso: 400
-  width: 3951
-  height: 3104
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-28 19:42:23.000000000+02:00
-- image_filename: 2021_06_28__21_42_DSC02705.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.59952777777778
-  lon: 18.799805555555558
+  lat: 54.59351388888889
+  lon: 18.811069444444446
   altitude: 37.0
-  focal_length: 66.0
-  focal_length_35: 66.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 1600
-  width: 6000
-  height: 3992
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-06-28 21:42:55.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306742.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 2.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 5.07
-  iso: 320
-  width: 5240
-  height: 3182
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:35.000000000+02:00
-- image_filename: 2021_06_30__17_14__6306829.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  focus_distance: 3.97
-  iso: 320
-  width: 5240
-  height: 3613
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:14:10.000000000+02:00
-- image_filename: 2021_06_30__17_17__6307073.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 8.78
-  iso: 320
-  width: 5006
-  height: 3737
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:17:00.000000000+02:00
-- image_filename: 2021_06_28__19_32__6284734.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.61066666666667
-  lon: 18.799555555555557
-  altitude: 34.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 9.0
+  aperture: 4.0
   exposure: 0.0015625
   exposure_string: 1/640 s
-  focus_distance: 5.55
-  iso: 400
+  focus_distance: 0.67
+  iso: 200
   width: 5239
   height: 3911
-  lens: M.40-150mm F2.8 + MC-20
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-28 19:32:27.000000000+02:00
-- image_filename: 2021_06_30__17_18__6307159.jpg
+  time: 2021-07-01 11:40:59.000000000+02:00
+- image_filename: 2021_07_01__11_41__7017449.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60594444444445
-  lon: 18.800444444444445
-  altitude: 31.0
-  focal_length: 150.0
-  focal_length_35: 300.0
+  lat: 54.59351388888889
+  lon: 18.811125
+  altitude: 36.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 2.8
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 5.05
-  iso: 400
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.64
+  iso: 200
+  width: 5067
+  height: 3783
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-01 11:41:01.000000000+02:00
+- image_filename: 2021_07_01__11_41__7017453.jpg
+  post_slug: 2021-06-30-hel-na-spokojnie
+  lat: 54.593444444444444
+  lon: 18.811319444444447
+  altitude: 37.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.48
+  iso: 200
   width: 5239
   height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-30 17:18:22.000000000+02:00
+  time: 2021-07-01 11:41:13.000000000+02:00
 - image_filename: 2021_07_01__11_41__7017454.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.59345833333334
@@ -2156,42 +2226,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-07-01 11:41:16.000000000+02:00
-- image_filename: 2021_06_30__22_37__6307320.jpg
+- image_filename: 2021_07_01__11_42__7017467.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.609375
-  lon: 18.797708333333336
-  altitude: 26.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 0.52
-  iso: 3200
-  width: 4768
-  height: 3413
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-30 22:37:42.000000000+02:00
-- image_filename: 2021_06_30__19_00__6307292.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.599875000000004
-  lon: 18.802194444444446
-  altitude: 30.0
+  lat: 54.59330555555556
+  lon: 18.81176388888889
+  altitude: 36.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.04
-  exposure_string: 1/25 s
-  focus_distance: 1000.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 2.54
   iso: 200
-  width: 5093
-  height: 3802
+  width: 5210
+  height: 3890
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-30 19:00:35.000000000+02:00
+  time: 2021-07-01 11:42:36.000000000+02:00
 - image_filename: 2021_07_01__11_43__7017470.jpg
   post_slug: 2021-06-30-hel-na-spokojnie
   lat: 54.59348611111111
@@ -2210,59 +2262,3 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-07-01 11:43:58.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306781.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 4.41
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:44.000000000+02:00
-- image_filename: 2021_06_30__17_07__6306346.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.80051388888889
-  altitude: 31.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 14.62
-  iso: 500
-  width: 4663
-  height: 3354
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-06-30 17:07:32.000000000+02:00
-- image_filename: 2021_06_30__17_13__6306725.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie
-  lat: 54.60588888888889
-  lon: 18.800555555555555
-  altitude: 29.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0001
-  exposure_string: 1/10000 s
-  focus_distance: 11.6
-  iso: 320
-  width: 4844
-  height: 3801
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  time: 2021-06-30 17:13:20.000000000+02:00
-- image_filename: 2021_09_09__14_17__9090301.jpg
-  post_slug: 2021-06-30-hel-na-spokojnie

@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
 - image_filename: 2020_07_21__09_19__7211414.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.34701388888889
@@ -10,15 +8,15 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5122
-  height: 3906
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-07-21 09:19:25+02:00
   focus_distance: 7.51
+  iso: 200
+  width: 5122
+  height: 3906
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 09:19:25.000000000+02:00
 - image_filename: 2020_07_21__09_19__7211417.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.347
@@ -28,69 +26,15 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5215
-  height: 3848
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-07-21 09:19:36+02:00
   focus_distance: 16.94
-- image_filename: 2020_07_21__09_35__7211425.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.30973611111111
-  lon: 17.126416666666668
-  altitude: 112.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.0
   iso: 200
+  width: 5215
+  height: 3848
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5178
-  height: 3861
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-07-21 09:35:58+02:00
-  focus_distance: 51.52
-- image_filename: 2020_07_21__09_43__7211426.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.29748611111111
-  lon: 17.148958333333333
-  altitude: 113.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5051
-  height: 3772
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-07-21 09:43:52+02:00
-  focus_distance: 3.52
-- image_filename: 2020_07_21__09_50__7211430.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.29297222222222
-  lon: 17.149069444444443
-  altitude: 113.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-07-21 09:50:43+02:00
-  focus_distance: 1000.0
+  time: 2020-07-21 09:19:36.000000000+02:00
 - image_filename: 2020_07_21__09_22__7211419.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.33980555555556
@@ -100,33 +44,69 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5083
-  height: 3779
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-07-21 09:22:39+02:00
   focus_distance: 1000.0
-- image_filename: 2020_07_21__09_51__7211436.jpg
+  iso: 200
+  width: 5083
+  height: 3779
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 09:22:39.000000000+02:00
+- image_filename: 2020_07_21__09_35__7211425.jpg
+  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.30973611111111
+  lon: 17.126416666666668
+  altitude: 112.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 51.52
+  iso: 200
+  width: 5178
+  height: 3861
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 09:35:58.000000000+02:00
+- image_filename: 2020_07_21__09_43__7211426.jpg
+  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.29748611111111
+  lon: 17.148958333333333
+  altitude: 113.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.52
+  iso: 200
+  width: 5051
+  height: 3772
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 09:43:52.000000000+02:00
+- image_filename: 2020_07_21__09_50__7211430.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.29297222222222
   lon: 17.149069444444443
   altitude: 113.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  focal_length: 14.0
+  focal_length_35: 28.0
   crop: 2.0
-  aperture: 5.6
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
   iso: 200
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5185
-  height: 3871
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-07-21 09:51:35+02:00
-  focus_distance: 12.66
+  time: 2020-07-21 09:50:43.000000000+02:00
 - image_filename: 2020_07_21__09_51__7211432.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.29297222222222
@@ -136,51 +116,33 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.43
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5179
   height: 3866
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-07-21 09:51:02+02:00
-  focus_distance: 3.43
-- image_filename: 2020_07_21__09_52__7211443.jpg
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 09:51:02.000000000+02:00
+- image_filename: 2020_07_21__09_51__7211436.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.29297222222222
   lon: 17.149069444444443
   altitude: 113.0
-  focal_length: 29.0
-  focal_length_35: 58.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 8.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 12.66
   iso: 200
+  width: 5185
+  height: 3871
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-07-21 09:52:29+02:00
-  focus_distance: 13.71
-- image_filename: 2020_07_21__09_52__7211444.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.29297222222222
-  lon: 17.149069444444443
-  altitude: 113.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5162
-  height: 3853
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-07-21 09:52:37+02:00
-  focus_distance: 4.43
+  time: 2020-07-21 09:51:35.000000000+02:00
 - image_filename: 2020_07_21__09_51__7211439.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.29297222222222
@@ -190,15 +152,51 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5196
-  height: 3879
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-07-21 09:51:57+02:00
   focus_distance: 5.28
+  iso: 200
+  width: 5196
+  height: 3879
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 09:51:57.000000000+02:00
+- image_filename: 2020_07_21__09_52__7211443.jpg
+  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.29297222222222
+  lon: 17.149069444444443
+  altitude: 113.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 13.71
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 09:52:29.000000000+02:00
+- image_filename: 2020_07_21__09_52__7211444.jpg
+  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.29297222222222
+  lon: 17.149069444444443
+  altitude: 113.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5162
+  height: 3853
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 09:52:37.000000000+02:00
 - image_filename: 2020_07_21__10_09__7211446.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.272597222222224
@@ -208,51 +206,15 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.98
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5189
   height: 3873
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-07-21 10:09:36+02:00
-  focus_distance: 2.98
-- image_filename: 2020_07_21__10_11__7211456.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.27258333333333
-  lon: 17.231152777777776
-  altitude: 111.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5096
-  height: 3805
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-07-21 10:11:04+02:00
-  focus_distance: 8.22
-- image_filename: 2020_07_21__10_23__7211458.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.27038888888889
-  lon: 17.23784722222222
-  altitude: 114.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4744
-  height: 3878
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-07-21 10:23:50+02:00
-  focus_distance: 2.8
+  time: 2020-07-21 10:09:36.000000000+02:00
 - image_filename: 2020_07_21__10_09__7211447.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.272597222222224
@@ -262,15 +224,15 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5189
-  height: 3873
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-07-21 10:09:39+02:00
   focus_distance: 3.81
+  iso: 200
+  width: 5189
+  height: 3873
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 10:09:39.000000000+02:00
 - image_filename: 2020_07_21__10_10__7211451.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.27258333333333
@@ -280,69 +242,51 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 18.83
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5165
   height: 3856
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 10:10:18.000000000+02:00
+- image_filename: 2020_07_21__10_11__7211456.jpg
+  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.27258333333333
+  lon: 17.231152777777776
+  altitude: 111.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 8.0
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-07-21 10:10:18+02:00
-  focus_distance: 18.83
-- image_filename: 2020_07_21__10_41__7211466.jpg
+  focus_distance: 8.22
+  iso: 200
+  width: 5096
+  height: 3805
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 10:11:04.000000000+02:00
+- image_filename: 2020_07_21__10_23__7211458.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.269625
-  lon: 17.238
+  lat: 53.27038888888889
+  lon: 17.23784722222222
   altitude: 114.0
-  focal_length: 13.0
-  focal_length_35: 26.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.5
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.8
   iso: 200
+  width: 4744
+  height: 3878
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4886
-  height: 3809
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-07-21 10:41:09+02:00
-  focus_distance: 1.87
-- image_filename: 2020_07_21__10_41__7211464.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.26961111111111
-  lon: 17.238
-  altitude: 113.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-07-21 10:41:01+02:00
-  focus_distance: 54.79
-- image_filename: 2020_07_21__10_25__7211463.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.27020833333333
-  lon: 17.23801388888889
-  altitude: 114.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5158
-  height: 3798
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-07-21 10:25:37+02:00
-  focus_distance: 35.54
+  time: 2020-07-21 10:23:50.000000000+02:00
 - image_filename: 2020_07_21__10_25__7211461.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.27022222222222
@@ -352,15 +296,69 @@
   focal_length_35: 34.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5131
-  height: 3797
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-07-21 10:25:18+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5131
+  height: 3797
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 10:25:18.000000000+02:00
+- image_filename: 2020_07_21__10_25__7211463.jpg
+  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.27020833333333
+  lon: 17.23801388888889
+  altitude: 114.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 35.54
+  iso: 200
+  width: 5158
+  height: 3798
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 10:25:37.000000000+02:00
+- image_filename: 2020_07_21__10_41__7211464.jpg
+  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.26961111111111
+  lon: 17.238
+  altitude: 113.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 54.79
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 10:41:01.000000000+02:00
+- image_filename: 2020_07_21__10_41__7211466.jpg
+  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.269625
+  lon: 17.238
+  altitude: 114.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.87
+  iso: 200
+  width: 4886
+  height: 3809
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 10:41:09.000000000+02:00
 - image_filename: 2020_07_21__10_56__7211469.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.244819444444445
@@ -370,15 +368,15 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5196
-  height: 3879
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-07-21 10:56:26+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5196
+  height: 3879
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 10:56:26.000000000+02:00
 - image_filename: 2020_07_21__11_34__7211472.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.213236111111115
@@ -388,51 +386,15 @@
   focal_length_35: 76.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-07-21 11:34:13+02:00
   focus_distance: 14.64
-- image_filename: 2020_07_21__12_21__7211482.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.13780555555555
-  lon: 17.59188888888889
-  altitude: 68.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 7.1
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4738
-  height: 3593
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-07-21 12:21:35+02:00
-  focus_distance: 1.99
-- image_filename: 2020_07_21__11_40__7211477.jpg
-  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
-  lat: 53.204375000000006
-  lon: 17.477625
-  altitude: 97.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-07-21 11:40:58+02:00
-  focus_distance: 27.72
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 11:34:13.000000000+02:00
 - image_filename: 2020_07_21__11_34__7211475.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.213236111111115
@@ -442,17 +404,51 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5174
-  height: 3862
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-07-21 11:34:40+02:00
   focus_distance: 101.14
-- image_filename: IMGP2020_07_21__09_52__72114445706raw1.jpg
+  iso: 200
+  width: 5174
+  height: 3862
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 11:34:40.000000000+02:00
+- image_filename: 2020_07_21__11_40__7211477.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.204375000000006
+  lon: 17.477625
+  altitude: 97.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 27.72
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 11:40:58.000000000+02:00
+- image_filename: 2020_07_21__12_21__7211482.jpg
+  post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
+  lat: 53.13780555555555
+  lon: 17.59188888888889
+  altitude: 68.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.99
+  iso: 200
+  width: 4738
+  height: 3593
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 12:21:35.000000000+02:00
 - image_filename: 2020_07_21__12_34__7211484.jpg
   post_slug: 2020-07-21-szukajac-zboza-przed-zniwami
   lat: 53.131083333333336
@@ -462,12 +458,12 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-07-21 12:34:49+02:00
   focus_distance: 2.59
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-21 12:34:49.000000000+02:00

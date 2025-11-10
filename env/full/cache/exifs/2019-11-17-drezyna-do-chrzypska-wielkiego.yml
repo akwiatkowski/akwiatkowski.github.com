@@ -1,407 +1,4 @@
 ---
-- image_filename: 2019_11_17__14_37__B175386.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.62144444444444
-  lon: 16.24465277777778
-  altitude: 49.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5103
-  height: 3810
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-11-17 14:37:59+01:00
-  focus_distance: 16.87
-- image_filename: 2019_11_17__13_11__B175194.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.59247222222223
-  lon: 16.326722222222223
-  altitude: 92.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4863
-  height: 3632
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-11-17 13:11:02+01:00
-  focus_distance: 22.38
-- image_filename: 2019_11_17__13_22_DSC03562.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.60604166666667
-  lon: 16.310833333333335
-  altitude: 81.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 640
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-11-17 13:22:33+01:00
-- image_filename: 2019_11_17__14_27__B175265.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.59427777777778
-  lon: 16.291583333333335
-  altitude: 83.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-11-17 14:27:21+01:00
-  focus_distance: 75.15
-- image_filename: 2019_11_17__14_30__B175301.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.59963888888889
-  lon: 16.26884722222222
-  altitude: 73.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 20.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5149
-  height: 3845
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2019-11-17 14:30:43+01:00
-  focus_distance: 2.8
-- image_filename: 2019_11_17__14_31__B175313.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.60093055555556
-  lon: 16.26365277777778
-  altitude: 69.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5156
-  height: 3851
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-11-17 14:31:28+01:00
-  focus_distance: 14.82
-- image_filename: 2019_11_17__14_37__B175379.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.62034722222222
-  lon: 16.247625
-  altitude: 51.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-11-17 14:37:28+01:00
-  focus_distance: 32.57
-- image_filename: 2019_11_17__15_15_DSC03655.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.621805555555554
-  lon: 16.243402777777778
-  altitude: 51.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-11-17 15:15:31+01:00
-- image_filename: 2019_11_17__16_44__B175578.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.62781944444445
-  lon: 16.230319444444444
-  altitude: 49.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 2000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5147
-  height: 3843
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-11-17 16:44:53+01:00
-  focus_distance: 65.01
-- image_filename: 2019_11_17__17_07__B175622.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.59943055555556
-  lon: 16.269916666666667
-  altitude: 77.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2019-11-17 17:07:20+01:00
-  focus_distance: 3.92
-- image_filename: 2019_11_17__18_13_DSC03865.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 4000
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-11-17 18:13:14+01:00
-- image_filename: 2019_11_17__14_39__B175401.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.62166666666667
-  lon: 16.243930555555558
-  altitude: 50.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4991
-  height: 3508
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-11-17 14:39:00+01:00
-  focus_distance: 70.93
-- image_filename: 2019_11_17__16_49__B175580.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.629194444444444
-  lon: 16.227513888888886
-  altitude: 50.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 3200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5050
-  height: 3770
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-11-17 16:49:42+01:00
-  focus_distance: 83.59
-- image_filename: 2019_11_17__13_11__B175198.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.59558333333334
-  lon: 16.321236111111112
-  altitude: 95.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4922
-  height: 3676
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-11-17 13:11:36+01:00
-  focus_distance: 72.5
-- image_filename: 2019_11_17__14_32__B175332.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.603430555555555
-  lon: 16.258
-  altitude: 65.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5087
-  height: 3798
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-11-17 14:32:25+01:00
-  focus_distance: 70.93
-- image_filename: 2019_11_17__13_23_DSC03563.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.606069444444444
-  lon: 16.310916666666667
-  altitude: 80.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 400
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7268
-  height: 4854
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-11-17 13:23:10+01:00
-- image_filename: 2019_11_17__14_45__B175436.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.621652777777776
-  lon: 16.243958333333335
-  altitude: 51.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-11-17 14:45:15+01:00
-  focus_distance: 1.43
-- image_filename: 2019_11_17__12_38__B175108.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.534666666666666
-  lon: 16.434819444444443
-  altitude: 88.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5178
-  height: 3867
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-11-17 12:38:06+01:00
-  focus_distance: 21.11
-- image_filename: 2019_11_17__12_38__B175121.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.538013888888884
-  lon: 16.434166666666666
-  altitude: 89.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5005
-  height: 3738
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-11-17 12:38:34+01:00
-  focus_distance: 92.57
-- image_filename: 2019_11_17__12_33__B175091.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.51313888888889
-  lon: 16.47161111111111
-  altitude: 86.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-11-17 12:33:34+01:00
-  focus_distance: 248.24
-- image_filename: 2019_11_17__18_10_DSC03859.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 2000
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4720
-  height: 7260
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-11-17 18:10:06+01:00
-- image_filename: 2019_11_17__17_06__B175615.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.60016666666667
-  lon: 16.26683333333333
-  altitude: 76.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2019-11-17 17:06:51+01:00
-  focus_distance: 4.57
-- image_filename: 2019_11_17__14_38__B175390.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.62166666666667
-  lon: 16.243930555555558
-  altitude: 50.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4969
-  height: 3423
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-11-17 14:38:27+01:00
-  focus_distance: 5.2
 - image_filename: 2019_11_17__12_32__B175080.jpg
   post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
   lat: 52.506680555555555
@@ -411,188 +8,105 @@
   focal_length_35: 82.0
   crop: 2.0
   aperture: 22.0
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 74.14
   iso: 64
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5218
   height: 3897
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2019-11-17 12:32:27+01:00
-  focus_distance: 74.14
-- image_filename: 2019_11_17__16_47_DSC03830.jpg
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 12:32:27.000000000+01:00
+- image_filename: 2019_11_17__12_33__B175091.jpg
   post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.62894444444444
-  lon: 16.228055555555553
-  altitude: 50.0
-  focal_length: 39.0
-  focal_length_35: 39.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 160
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7189
-  height: 4807
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-11-17 16:47:48+01:00
-- image_filename: 2019_11_17__14_30__B175294.jpg
+  lat: 52.51313888888889
+  lon: 16.47161111111111
+  altitude: 86.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 248.24
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 12:33:34.000000000+01:00
+- image_filename: 2019_11_17__12_38__B175108.jpg
   post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.59851388888889
-  lon: 16.273263888888888
-  altitude: 76.0
+  lat: 52.534666666666666
+  lon: 16.434819444444443
+  altitude: 88.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 21.11
+  iso: 200
+  width: 5178
+  height: 3867
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 12:38:06.000000000+01:00
+- image_filename: 2019_11_17__12_38__B175121.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.538013888888884
+  lon: 16.434166666666666
+  altitude: 89.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 1250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5024
-  height: 3752
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-11-17 14:30:02+01:00
-  focus_distance: 71.86
-- image_filename: 2019_11_17__15_40__B175501.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.623222222222225
-  lon: 16.23976388888889
-  altitude: 54.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
+  focus_distance: 92.57
+  iso: 400
+  width: 5005
+  height: 3738
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2019-11-17 15:40:41+01:00
-  focus_distance: 8.95
-- image_filename: 2019_11_17__13_20_DSC03559.jpg
+  time: 2019-11-17 12:38:34.000000000+01:00
+- image_filename: 2019_11_17__13_11__B175194.jpg
   post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.605986111111115
-  lon: 16.31072222222222
-  altitude: 81.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6934
-  height: 4636
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-11-17 13:20:11+01:00
-- image_filename: 2019_11_17__14_29__B175280.jpg
+  lat: 52.59247222222223
+  lon: 16.326722222222223
+  altitude: 92.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.38
+  iso: 200
+  width: 4863
+  height: 3632
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 13:11:02.000000000+01:00
+- image_filename: 2019_11_17__13_11__B175198.jpg
   post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.59718055555556
-  lon: 16.278499999999998
-  altitude: 77.0
-  focal_length: 47.0
-  focal_length_35: 94.0
+  lat: 52.59558333333334
+  lon: 16.321236111111112
+  altitude: 95.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-11-17 14:29:15+01:00
-  focus_distance: 25.01
-- image_filename: 2019_11_17__14_26__B175248.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.59518055555556
-  lon: 16.298958333333335
-  altitude: 83.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-11-17 14:26:18+01:00
-  focus_distance: 29.84
-- image_filename: 2019_11_17__14_53_DSC03584.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.621652777777776
-  lon: 16.243944444444445
-  altitude: 51.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-11-17 14:53:39+01:00
-- image_filename: 2019_11_17__17_07__B175621.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.59948611111111
-  lon: 16.269694444444443
-  altitude: 77.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
+  focus_distance: 72.5
+  iso: 500
+  width: 4922
+  height: 3676
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2019-11-17 17:07:18+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_11_17__18_12_DSC03863.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 4000
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-11-17 18:12:24+01:00
-- image_filename: 2019_11_17__17_12__B175639.jpg
-  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
-  lat: 52.597458333333336
-  lon: 16.277569444444442
-  altitude: 80.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5159
-  height: 3827
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2019-11-17 17:12:37+01:00
-  focus_distance: 7.89
+  time: 2019-11-17 13:11:36.000000000+01:00
 - image_filename: 2019_11_17__13_17_DSC03555.jpg
   post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
   lat: 52.606347222222226
@@ -602,14 +116,386 @@
   focal_length_35: 53.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7111
-  height: 4754
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2019-11-17 13:17:51+01:00
+  iso: 100
+  width: 7111
+  height: 4754
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-11-17 13:17:51.000000000+01:00
+- image_filename: 2019_11_17__13_20_DSC03559.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.605986111111115
+  lon: 16.31072222222222
+  altitude: 81.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 6934
+  height: 4636
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-11-17 13:20:11.000000000+01:00
+- image_filename: 2019_11_17__13_22_DSC03562.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.60604166666667
+  lon: 16.310833333333335
+  altitude: 81.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 640
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-11-17 13:22:33.000000000+01:00
+- image_filename: 2019_11_17__13_23_DSC03563.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.606069444444444
+  lon: 16.310916666666667
+  altitude: 80.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  width: 7268
+  height: 4854
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-11-17 13:23:10.000000000+01:00
+- image_filename: 2019_11_17__14_26__B175248.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.59518055555556
+  lon: 16.298958333333335
+  altitude: 83.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 29.84
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:26:18.000000000+01:00
+- image_filename: 2019_11_17__14_27__B175265.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.59427777777778
+  lon: 16.291583333333335
+  altitude: 83.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 75.15
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:27:21.000000000+01:00
+- image_filename: 2019_11_17__14_29__B175280.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.59718055555556
+  lon: 16.278499999999998
+  altitude: 77.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 25.01
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:29:15.000000000+01:00
+- image_filename: 2019_11_17__14_30__B175294.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.59851388888889
+  lon: 16.273263888888888
+  altitude: 76.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 71.86
+  iso: 1250
+  width: 5024
+  height: 3752
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:30:02.000000000+01:00
+- image_filename: 2019_11_17__14_30__B175301.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.59963888888889
+  lon: 16.26884722222222
+  altitude: 73.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 20.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 2.8
+  iso: 200
+  width: 5149
+  height: 3845
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:30:43.000000000+01:00
+- image_filename: 2019_11_17__14_31__B175313.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.60093055555556
+  lon: 16.26365277777778
+  altitude: 69.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 14.82
+  iso: 200
+  width: 5156
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:31:28.000000000+01:00
+- image_filename: 2019_11_17__14_32__B175332.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.603430555555555
+  lon: 16.258
+  altitude: 65.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 70.93
+  iso: 200
+  width: 5087
+  height: 3798
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:32:25.000000000+01:00
+- image_filename: 2019_11_17__14_37__B175379.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.62034722222222
+  lon: 16.247625
+  altitude: 51.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 32.57
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:37:28.000000000+01:00
+- image_filename: 2019_11_17__14_37__B175386.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.62144444444444
+  lon: 16.24465277777778
+  altitude: 49.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 16.87
+  iso: 200
+  width: 5103
+  height: 3810
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:37:59.000000000+01:00
+- image_filename: 2019_11_17__14_38__B175390.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.62166666666667
+  lon: 16.243930555555558
+  altitude: 50.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.2
+  iso: 200
+  width: 4969
+  height: 3423
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:38:27.000000000+01:00
+- image_filename: 2019_11_17__14_39__B175401.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.62166666666667
+  lon: 16.243930555555558
+  altitude: 50.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 70.93
+  iso: 250
+  width: 4991
+  height: 3508
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:39:00.000000000+01:00
+- image_filename: 2019_11_17__14_45__B175436.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.621652777777776
+  lon: 16.243958333333335
+  altitude: 51.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.43
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 14:45:15.000000000+01:00
+- image_filename: 2019_11_17__14_53_DSC03584.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.621652777777776
+  lon: 16.243944444444445
+  altitude: 51.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-11-17 14:53:39.000000000+01:00
+- image_filename: 2019_11_17__15_15_DSC03655.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.621805555555554
+  lon: 16.243402777777778
+  altitude: 51.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-11-17 15:15:31.000000000+01:00
+- image_filename: 2019_11_17__15_40__B175501.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.623222222222225
+  lon: 16.23976388888889
+  altitude: 54.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 8.95
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 15:40:41.000000000+01:00
+- image_filename: 2019_11_17__16_44__B175578.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.62781944444445
+  lon: 16.230319444444444
+  altitude: 49.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 65.01
+  iso: 2000
+  width: 5147
+  height: 3843
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 16:44:53.000000000+01:00
+- image_filename: 2019_11_17__16_47_DSC03830.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.62894444444444
+  lon: 16.228055555555553
+  altitude: 50.0
+  focal_length: 39.0
+  focal_length_35: 39.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 160
+  width: 7189
+  height: 4807
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-11-17 16:47:48.000000000+01:00
+- image_filename: 2019_11_17__16_49__B175580.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.629194444444444
+  lon: 16.227513888888886
+  altitude: 50.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 83.59
+  iso: 3200
+  width: 5050
+  height: 3770
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 16:49:42.000000000+01:00
 - image_filename: 2019_11_17__17_05__B175610.jpg
   post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
   lat: 52.60177777777778
@@ -619,12 +505,126 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
-  iso: 3200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2019-11-17 17:05:57+01:00
   focus_distance: 2.4
+  iso: 3200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 17:05:57.000000000+01:00
+- image_filename: 2019_11_17__17_06__B175615.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.60016666666667
+  lon: 16.26683333333333
+  altitude: 76.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 4.57
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 17:06:51.000000000+01:00
+- image_filename: 2019_11_17__17_07__B175621.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.59948611111111
+  lon: 16.269694444444443
+  altitude: 77.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 17:07:18.000000000+01:00
+- image_filename: 2019_11_17__17_07__B175622.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.59943055555556
+  lon: 16.269916666666667
+  altitude: 77.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 3.92
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 17:07:20.000000000+01:00
+- image_filename: 2019_11_17__17_12__B175639.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  lat: 52.597458333333336
+  lon: 16.277569444444442
+  altitude: 80.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 7.89
+  iso: 200
+  width: 5159
+  height: 3827
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-11-17 17:12:37.000000000+01:00
+- image_filename: 2019_11_17__18_10_DSC03859.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 2000
+  width: 4720
+  height: 7260
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-11-17 18:10:06.000000000+01:00
+- image_filename: 2019_11_17__18_12_DSC03863.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 4000
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-11-17 18:12:24.000000000+01:00
+- image_filename: 2019_11_17__18_13_DSC03865.jpg
+  post_slug: 2019-11-17-drezyna-do-chrzypska-wielkiego
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 4000
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-11-17 18:13:14.000000000+01:00

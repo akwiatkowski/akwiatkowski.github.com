@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.27741666666667
-  lon: 18.488208333333333
-  altitude: 96.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-06-10 11:19:33+02:00
 - image_filename: IMGP7152raw1.jpg
   post_slug: 2017-06-10-zulawy-wislane-po-deszczu
   lat: 54.278444444444446
@@ -22,109 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2017-06-10 11:18:31+02:00
-- image_filename: IMGP7160raw1.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.27352777777778
-  lon: 18.497708333333335
-  altitude: 80.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 160
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-10 11:25:13+02:00
-- image_filename: IMGP7164raw2.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.261652777777776
-  lon: 18.5205
-  altitude: 77.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-10 11:36:55+02:00
-- image_filename: IMGP7190raw1.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.17415277777778
-  lon: 18.795875000000002
-  altitude: 5.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-10 14:33:32+02:00
-- image_filename: IMGP7194raw1.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.172875
-  lon: 18.796111111111113
-  altitude: 4.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-06-10 14:35:31+02:00
-- image_filename: IMGP7171raw1.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.26354166666667
-  lon: 18.526638888888886
-  altitude: 72.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-10 11:38:31+02:00
-- image_filename: IMGP7193raw1.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.172875
-  lon: 18.796111111111113
-  altitude: 4.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-10 14:35:27+02:00
-- image_filename: IMGP7189raw2.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.17451388888889
-  lon: 18.795833333333334
-  altitude: 5.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-10 14:33:26+02:00
+  time: 2017-06-10 11:18:31.000000000+02:00
 - image_filename: IMGP7156raw1.jpg
   post_slug: 2017-06-10-zulawy-wislane-po-deszczu
   lat: 54.277791666666666
@@ -134,53 +22,25 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-06-10 11:19:09+02:00
-- image_filename: IMGP7195raw1.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.172875
-  lon: 18.796111111111113
-  altitude: 4.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-10 14:35:38+02:00
-- image_filename: IMGP7184raw1.jpg
-  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.18904166666666
-  lon: 18.775972222222222
-  altitude: 3.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-06-10 14:25:31+02:00
-- image_filename: IMGP7165raw1.jpg
+  time: 2017-06-10 11:19:09.000000000+02:00
+- image_filename: IMGP7160raw1.jpg
   post_slug: 2017-06-10-zulawy-wislane-po-deszczu
-  lat: 54.26280555555556
-  lon: 18.52409722222222
-  altitude: 74.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
+  lat: 54.27352777777778
+  lon: 18.497708333333335
+  altitude: 80.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
   aperture: 6.3
-  iso: 125
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-10 11:37:28+02:00
+  time: 2017-06-10 11:25:13.000000000+02:00
 - image_filename: IMGP7163raw1.jpg
   post_slug: 2017-06-10-zulawy-wislane-po-deszczu
   lat: 54.27316666666667
@@ -190,8 +50,148 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 10.0
-  iso: 320
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-06-10 11:25:30+02:00
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-06-10 11:25:30.000000000+02:00
+- image_filename: IMGP7164raw2.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.261652777777776
+  lon: 18.5205
+  altitude: 77.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-10 11:36:55.000000000+02:00
+- image_filename: IMGP7165raw1.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.26280555555556
+  lon: 18.52409722222222
+  altitude: 74.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-06-10 11:37:28.000000000+02:00
+- image_filename: IMGP7171raw1.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.26354166666667
+  lon: 18.526638888888886
+  altitude: 72.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-10 11:38:31.000000000+02:00
+- image_filename: IMGP7184raw1.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.18904166666666
+  lon: 18.775972222222222
+  altitude: 3.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-10 14:25:31.000000000+02:00
+- image_filename: IMGP7189raw2.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.17451388888889
+  lon: 18.795833333333334
+  altitude: 5.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-06-10 14:33:26.000000000+02:00
+- image_filename: IMGP7190raw1.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.17415277777778
+  lon: 18.795875000000002
+  altitude: 5.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-10 14:33:32.000000000+02:00
+- image_filename: IMGP7193raw1.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.172875
+  lon: 18.796111111111113
+  altitude: 4.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-10 14:35:27.000000000+02:00
+- image_filename: IMGP7194raw1.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.172875
+  lon: 18.796111111111113
+  altitude: 4.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-10 14:35:31.000000000+02:00
+- image_filename: IMGP7195raw1.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.172875
+  lon: 18.796111111111113
+  altitude: 4.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-10 14:35:38.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-06-10-zulawy-wislane-po-deszczu
+  lat: 54.27741666666667
+  lon: 18.488208333333333
+  altitude: 96.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-10 11:19:33.000000000+02:00

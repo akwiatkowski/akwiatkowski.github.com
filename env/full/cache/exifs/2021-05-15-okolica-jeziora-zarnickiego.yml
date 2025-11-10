@@ -1,19 +1,4 @@
 ---
-- image_filename: 2021_05_15__14_19__5155879.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 100
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-15 14:19:05.000000000+02:00
 - image_filename: 2021_05_15__13_07_DSC00369.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.83686111111111
@@ -83,23 +68,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 13:50:37.000000000+02:00
-- image_filename: 2021_05_15__13_58_DSC00463.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.778083333333335
-  lon: 17.549680555555558
-  altitude: 128.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 11.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-15 13:58:50.000000000+02:00
 - image_filename: 2021_05_15__13_51__5155814.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77876388888889
@@ -118,6 +86,23 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 13:51:46.000000000+02:00
+- image_filename: 2021_05_15__13_58_DSC00463.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.778083333333335
+  lon: 17.549680555555558
+  altitude: 128.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 11.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-15 13:58:50.000000000+02:00
 - image_filename: 2021_05_15__13_58__5155827.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.778083333333335
@@ -154,6 +139,21 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 14:03:49.000000000+02:00
+- image_filename: 2021_05_15__14_19__5155879.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 100
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-15 14:19:05.000000000+02:00
 - image_filename: 2021_05_15__14_22__5155885.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.776291666666665
@@ -190,24 +190,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 14:22:53.000000000+02:00
-- image_filename: 2021_05_15__14_28__5155905.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.77484722222222
-  lon: 17.55998611111111
-  altitude: 118.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 124.12
-  iso: 100
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-15 14:28:16.000000000+02:00
 - image_filename: 2021_05_15__14_26__5155897.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.775333333333336
@@ -226,6 +208,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 14:26:39.000000000+02:00
+- image_filename: 2021_05_15__14_28__5155905.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.77484722222222
+  lon: 17.55998611111111
+  altitude: 118.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 124.12
+  iso: 100
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-15 14:28:16.000000000+02:00
 - image_filename: 2021_05_15__14_32_DSC00503.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77476388888889
@@ -243,6 +243,23 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-05-15 14:32:27.000000000+02:00
+- image_filename: 2021_05_15__14_34_DSC00510.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.774652777777774
+  lon: 17.56002777777778
+  altitude: 120.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-15 14:34:44.000000000+02:00
 - image_filename: 2021_05_15__14_34__5155913.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77459722222222
@@ -261,41 +278,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 14:34:32.000000000+02:00
-- image_filename: 2021_05_15__14_38__5155923.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.77440277777778
-  lon: 17.561416666666666
-  altitude: 118.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 0.62
-  iso: 100
-  width: 3148
-  height: 2490
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-15 14:38:57.000000000+02:00
-- image_filename: 2021_05_15__14_34_DSC00510.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.774652777777774
-  lon: 17.56002777777778
-  altitude: 120.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 9.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-15 14:34:44.000000000+02:00
 - image_filename: 2021_05_15__14_35__5155917.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77469444444444
@@ -314,23 +296,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 14:35:39.000000000+02:00
-- image_filename: 2021_05_15__14_48_DSC00522.jpg
+- image_filename: 2021_05_15__14_38__5155923.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.77188888888889
-  lon: 17.55875
-  altitude: 122.0
-  focal_length: 151.3
-  focal_length_35: 151.0
-  crop: 0.9980171844018505
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 125
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-15 14:48:14.000000000+02:00
+  lat: 52.77440277777778
+  lon: 17.561416666666666
+  altitude: 118.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.62
+  iso: 100
+  width: 3148
+  height: 2490
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-15 14:38:57.000000000+02:00
 - image_filename: 2021_05_15__14_47__5155932.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.771875
@@ -349,6 +332,23 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 14:47:06.000000000+02:00
+- image_filename: 2021_05_15__14_48_DSC00522.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.77188888888889
+  lon: 17.55875
+  altitude: 122.0
+  focal_length: 151.3
+  focal_length_35: 151.0
+  crop: 0.9980171844018505
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-15 14:48:14.000000000+02:00
 - image_filename: 2021_05_15__14_50__5155942.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77186111111111
@@ -385,6 +385,23 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 14:51:26.000000000+02:00
+- image_filename: 2021_05_15__14_57_DSC00546.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.77183333333333
+  lon: 17.553597222222223
+  altitude: 128.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5755
+  height: 3805
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-15 14:57:38.000000000+02:00
 - image_filename: 2021_05_15__15_00__5155957.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77158333333333
@@ -403,40 +420,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 15:00:19.000000000+02:00
-- image_filename: 2021_05_15__14_57_DSC00546.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.77183333333333
-  lon: 17.553597222222223
-  altitude: 128.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 200
-  width: 5755
-  height: 3805
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-15 14:57:38.000000000+02:00
-- image_filename: 2021_05_15__15_02_DSC00552.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.77141666666667
-  lon: 17.548625
-  altitude: 134.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 800
-  width: 3129
-  height: 2673
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-15 15:02:59.000000000+02:00
 - image_filename: 2021_05_15__15_00__5155959.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.771569444444445
@@ -455,6 +438,40 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 15:00:56.000000000+02:00
+- image_filename: 2021_05_15__15_02_DSC00552.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.77141666666667
+  lon: 17.548625
+  altitude: 134.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 3129
+  height: 2673
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-15 15:02:59.000000000+02:00
+- image_filename: 2021_05_15__15_05_DSC00565.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.77130555555556
+  lon: 17.547416666666667
+  altitude: 136.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 5850
+  height: 3892
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-15 15:05:25.000000000+02:00
 - image_filename: 2021_05_15__15_05__5155960.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77130555555556
@@ -473,40 +490,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 15:05:02.000000000+02:00
-- image_filename: 2021_05_15__15_05_DSC00565.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.77130555555556
-  lon: 17.547416666666667
-  altitude: 136.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 320
-  width: 5850
-  height: 3892
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-15 15:05:25.000000000+02:00
-- image_filename: 2021_05_15__15_22_DSC00588.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.772305555555555
-  lon: 17.539611111111114
-  altitude: 161.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 4024
-  height: 6048
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-15 15:22:35.000000000+02:00
 - image_filename: 2021_05_15__15_18__5155973.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.772333333333336
@@ -525,6 +508,23 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 15:18:24.000000000+02:00
+- image_filename: 2021_05_15__15_22_DSC00588.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.772305555555555
+  lon: 17.539611111111114
+  altitude: 161.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 4024
+  height: 6048
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-15 15:22:35.000000000+02:00
 - image_filename: 2021_05_15__15_31_DSC00593.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77229166666667
@@ -559,23 +559,6 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-05-15 15:32:13.000000000+02:00
-- image_filename: 2021_05_15__15_39_DSC00623.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.772333333333336
-  lon: 17.537444444444446
-  altitude: 145.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 10.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5733
-  height: 3765
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-15 15:39:11.000000000+02:00
 - image_filename: 2021_05_15__15_32_DSC00621.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77229166666667
@@ -593,23 +576,23 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-05-15 15:32:28.000000000+02:00
-- image_filename: 2021_05_15__15_41_DSC00631.jpg
+- image_filename: 2021_05_15__15_39_DSC00623.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.77298611111111
-  lon: 17.53726388888889
-  altitude: 133.0
-  focal_length: 400.0
-  focal_length_35: 400.0
+  lat: 52.772333333333336
+  lon: 17.537444444444446
+  altitude: 145.0
+  focal_length: 100.0
+  focal_length_35: 100.0
   crop: 1.0
-  aperture: 6.3
+  aperture: 10.0
   exposure: 0.00625
   exposure_string: 1/160 s
-  iso: 125
-  width: 4706
-  height: 3409
+  iso: 100
+  width: 5733
+  height: 3765
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  time: 2021-05-15 15:41:04.000000000+02:00
+  time: 2021-05-15 15:39:11.000000000+02:00
 - image_filename: 2021_05_15__15_40__5155978.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.772875
@@ -628,24 +611,23 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 15:40:47.000000000+02:00
-- image_filename: 2021_05_15__15_44__5155984.jpg
+- image_filename: 2021_05_15__15_41_DSC00631.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.77433333333333
-  lon: 17.536736111111114
-  altitude: 119.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 136.53
-  iso: 200
-  width: 5072
-  height: 3733
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-15 15:44:09.000000000+02:00
+  lat: 52.77298611111111
+  lon: 17.53726388888889
+  altitude: 133.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 125
+  width: 4706
+  height: 3409
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-15 15:41:04.000000000+02:00
 - image_filename: 2021_05_15__15_43__5155980.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77425
@@ -664,6 +646,41 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 15:43:38.000000000+02:00
+- image_filename: 2021_05_15__15_44__5155984.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.77433333333333
+  lon: 17.536736111111114
+  altitude: 119.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 136.53
+  iso: 200
+  width: 5072
+  height: 3733
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-15 15:44:09.000000000+02:00
+- image_filename: 2021_05_15__15_46_DSC00641.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.77486111111111
+  lon: 17.536597222222223
+  altitude: 131.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-15 15:46:47.000000000+02:00
 - image_filename: 2021_05_15__15_46__5155994.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77469444444444
@@ -682,23 +699,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 15:46:05.000000000+02:00
-- image_filename: 2021_05_15__15_46_DSC00641.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.77486111111111
-  lon: 17.536597222222223
-  altitude: 131.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-15 15:46:47.000000000+02:00
 - image_filename: 2021_05_15__15_46__5155997.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.77480555555555
@@ -878,6 +878,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 16:07:19.000000000+02:00
+- image_filename: 2021_05_15__16_07__5156052.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.780875
+  lon: 17.542013888888892
+  altitude: 140.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 15.26
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-15 16:07:36.000000000+02:00
 - image_filename: 2021_05_15__16_08_DSC00672.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.78111111111111
@@ -912,24 +930,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-05-15 16:08:31.000000000+02:00
-- image_filename: 2021_05_15__16_07__5156052.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.780875
-  lon: 17.542013888888892
-  altitude: 140.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 15.26
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-15 16:07:36.000000000+02:00
 - image_filename: 2021_05_15__16_09__5156057.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.78084722222222
@@ -965,42 +965,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-05-15 16:10:34.000000000+02:00
-- image_filename: 2021_05_15__16_15__5156072.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.780166666666666
-  lon: 17.54348611111111
-  altitude: 136.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5044
-  height: 3765
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-15 16:15:49.000000000+02:00
-- image_filename: 2021_05_15__16_12__5156066.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.780277777777776
-  lon: 17.543458333333334
-  altitude: 135.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 7.22
-  iso: 200
-  width: 5054
-  height: 3773
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-15 16:12:35.000000000+02:00
 - image_filename: 2021_05_15__16_11__5156062.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.78034722222222
@@ -1019,6 +983,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 16:11:11.000000000+02:00
+- image_filename: 2021_05_15__16_12__5156066.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.780277777777776
+  lon: 17.543458333333334
+  altitude: 135.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 7.22
+  iso: 200
+  width: 5054
+  height: 3773
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-15 16:12:35.000000000+02:00
+- image_filename: 2021_05_15__16_15__5156072.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.780166666666666
+  lon: 17.54348611111111
+  altitude: 136.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5044
+  height: 3765
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-15 16:15:49.000000000+02:00
 - image_filename: 2021_05_15__16_16__5156075.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.780166666666666
@@ -1072,6 +1072,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 18:21:31.000000000+02:00
+- image_filename: 2021_05_15__18_32__5156095.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.849583333333335
+  lon: 17.737958333333335
+  altitude: 121.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 8.2
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-15 18:32:23.000000000+02:00
 - image_filename: 2021_05_15__18_59__5156105.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.84956944444445
@@ -1090,24 +1108,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-15 18:59:59.000000000+02:00
-- image_filename: 2021_05_15__18_32__5156095.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.849583333333335
-  lon: 17.737958333333335
-  altitude: 121.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 8.2
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-15 18:32:23.000000000+02:00
 - image_filename: 2021_05_16__11_12_DSC00739.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.85116666666667
@@ -1176,40 +1176,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-05-16 11:26:20.000000000+02:00
-- image_filename: 2021_05_16__11_27_DSC00803.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.835375
-  lon: 17.884
-  altitude: 106.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-05-16 11:27:43.000000000+02:00
-- image_filename: 2021_05_16__11_28_DSC00810.jpg
-  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
-  lat: 52.83536111111111
-  lon: 17.889180555555555
-  altitude: 99.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-05-16 11:28:27.000000000+02:00
 - image_filename: 2021_05_16__11_27_DSC00801.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.836194444444445
@@ -1227,6 +1193,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-05-16 11:27:28.000000000+02:00
+- image_filename: 2021_05_16__11_27_DSC00803.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.835375
+  lon: 17.884
+  altitude: 106.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-16 11:27:43.000000000+02:00
 - image_filename: 2021_05_16__11_28_DSC00807.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.83451388888889
@@ -1244,6 +1227,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-05-16 11:28:07.000000000+02:00
+- image_filename: 2021_05_16__11_28_DSC00810.jpg
+  post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.83536111111111
+  lon: 17.889180555555555
+  altitude: 99.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-16 11:28:27.000000000+02:00
 - image_filename: 2021_05_16__11_50_DSC00938.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
   lat: 52.74538888888889

@@ -1,147 +1,147 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2014-01-03-okolice-gluszycy
-  lat: 50.6783475
-  lon: 16.432209722222222
-  altitude: 714.9
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-01-04 10:40:30+01:00
 - image_filename: IMGP2509b1.jpg
   post_slug: 2014-01-03-okolice-gluszycy
-  lat: 50.71800638888889
-  lon: 16.334840277777776
+  lat: 50.71800555555556
+  lon: 16.33483888888889
   altitude: 494.7
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2014-01-03 14:25:00+01:00
+  time: 2014-01-03 14:25:00.000000000+01:00
 - image_filename: IMGP2520b1.jpg
   post_slug: 2014-01-03-okolice-gluszycy
-  lat: 50.672890833333334
-  lon: 16.371498333333335
+  lat: 50.672891666666665
+  lon: 16.371497222222224
   altitude: 488.0
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2014-01-03 14:36:46+01:00
+  time: 2014-01-03 14:36:46.000000000+01:00
+- image_filename: IMGP2527raw1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  lat: 50.6735
+  lon: 16.37681388888889
+  altitude: 467.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-01-03 14:44:43.000000000+01:00
 - image_filename: IMGP2530b1.jpg
   post_slug: 2014-01-03-okolice-gluszycy
-  lat: 50.67615194444444
-  lon: 16.380478055555557
+  lat: 50.67615277777777
+  lon: 16.380477777777777
   altitude: 456.8
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-01-03 14:49:21+01:00
-- image_filename: IMGP2546b1.jpg
+  time: 2014-01-03 14:49:21.000000000+01:00
+- image_filename: IMGP2535raw1.jpg
   post_slug: 2014-01-03-okolice-gluszycy
-  lat: 50.67557194444444
-  lon: 16.389089444444444
-  altitude: 487.0
+  lat: 50.676474999999996
+  lon: 16.383016666666666
+  altitude: 461.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 7.1
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-01-03 15:01:04+01:00
-- image_filename: IMGP2584raw1.jpg
-  post_slug: 2014-01-03-okolice-gluszycy
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 4.0
-  iso: 6400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2014-01-03 20:30:23+01:00
+  time: 2014-01-03 14:52:49.000000000+01:00
 - image_filename: IMGP2541b1.jpg
   post_slug: 2014-01-03-okolice-gluszycy
-  lat: 50.675358055555556
-  lon: 16.385906388888888
+  lat: 50.67535833333333
+  lon: 16.385905555555556
   altitude: 470.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2014-01-03 14:57:38+01:00
+  time: 2014-01-03 14:57:38.000000000+01:00
+- image_filename: IMGP2546b1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  lat: 50.67557222222222
+  lon: 16.38908888888889
+  altitude: 487.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-01-03 15:01:04.000000000+01:00
 - image_filename: IMGP2572raw1.jpg
   post_slug: 2014-01-03-okolice-gluszycy
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.0
+  exposure: 75.0
+  exposure_string: 54.75 s
   iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 55.0
-  exposure_string: 55 s
-  time: 2014-01-03 19:43:40+01:00
-- image_filename: IMGP2535raw1.jpg
+  time: 2014-01-03 19:43:40.000000000+01:00
+- image_filename: IMGP2584raw1.jpg
   post_slug: 2014-01-03-okolice-gluszycy
-  lat: 50.676475555555555
-  lon: 16.3830175
-  altitude: 461.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 4.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 6400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2014-01-03 20:30:23.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  lat: 50.67834722222222
+  lon: 16.432208333333335
+  altitude: 714.9
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 5.0
-  iso: 400
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2048
+  height: 1358
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2014-01-03 14:52:49+01:00
-- image_filename: IMGP2527raw1.jpg
-  post_slug: 2014-01-03-okolice-gluszycy
-  lat: 50.67350138888889
-  lon: 16.376813333333335
-  altitude: 467.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2014-01-03 14:44:43+01:00
+  time: 2014-01-04 10:40:30.000000000+01:00

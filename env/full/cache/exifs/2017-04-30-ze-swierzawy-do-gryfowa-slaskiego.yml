@@ -1,225 +1,15 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.06234722222222
-  lon: 15.888097222222221
-  altitude: 254.0
-  focal_length: 14.0
-  focal_length_35: 21.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-30 11:32:21+02:00
 - image_filename: IMGP5161raw1.jpg
   post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2017-04-30 09:29:33+02:00
-- image_filename: IMGP5172raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 50.96851388888889
-  lon: 15.82748611111111
-  altitude: 535.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 7.1
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-04-30 10:19:15+02:00
-- image_filename: IMGP5177raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.013194444444444
-  lon: 15.871652777777777
-  altitude: 290.0
-  focal_length: 16.0
-  focal_length_35: 24.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-30 10:40:23+02:00
-- image_filename: IMGP5183raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.02276388888889
-  lon: 15.895472222222221
-  altitude: 322.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-30 10:57:42+02:00
-- image_filename: IMGP5210raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.069319444444446
-  lon: 15.869083333333334
-  altitude: 221.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-30 11:39:37+02:00
-- image_filename: IMGP5229raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.031555555555556
-  lon: 15.870847222222222
-  altitude: 260.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-30 13:22:10+02:00
-- image_filename: IMGP5241raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.03104166666667
-  lon: 15.850208333333333
-  altitude: 303.0
-  focal_length: 20.0
-  focal_length_35: 30.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-30 13:34:22+02:00
-- image_filename: IMGP5249raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.03254166666667
-  lon: 15.842486111111112
-  altitude: 315.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-30 13:38:37+02:00
-- image_filename: IMGP5263raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.042027777777776
-  lon: 15.812125
-  altitude: 314.0
-  focal_length: 20.0
-  focal_length_35: 30.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-30 13:53:05+02:00
-- image_filename: IMGP5271raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.04097222222222
-  lon: 15.735805555555554
-  altitude: 425.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-30 14:36:42+02:00
-- image_filename: IMGP5281raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.01663888888889
-  lon: 15.674013888888888
-  altitude: 235.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-04-30 15:00:17+02:00
-- image_filename: IMGP5291raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.03047222222222
-  lon: 15.602805555555555
-  altitude: 339.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2017-04-30 15:35:11+02:00
-- image_filename: IMGP5295raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.03
-  lon: 15.595055555555556
-  altitude: 318.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 13.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-04-30 15:38:45+02:00
-- image_filename: IMGP5299raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.03634722222222
-  lon: 15.554375
-  altitude: 353.0
-  focal_length: 14.0
-  focal_length_35: 21.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-30 16:11:59+02:00
-- image_filename: IMGP5248raw1.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.03254166666667
-  lon: 15.842500000000001
-  altitude: 315.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-30 13:38:28+02:00
+  time: 2017-04-30 09:29:33.000000000+02:00
 - image_filename: IMGP5170raw1.jpg
   post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
   lat: 50.95466666666667
@@ -229,11 +19,53 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2017-04-30 10:11:28+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 10:11:28.000000000+02:00
+- image_filename: IMGP5172raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 50.96851388888889
+  lon: 15.82748611111111
+  altitude: 535.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 10:19:15.000000000+02:00
+- image_filename: IMGP5177raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.013194444444444
+  lon: 15.871652777777777
+  altitude: 290.0
+  focal_length: 16.0
+  focal_length_35: 24.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 10:40:23.000000000+02:00
+- image_filename: IMGP5183raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.02276388888889
+  lon: 15.895472222222221
+  altitude: 322.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 10:57:42.000000000+02:00
 - image_filename: IMGP5204raw1.jpg
   post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
   lat: 51.069319444444446
@@ -243,11 +75,81 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-04-30 11:39:07+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 11:39:07.000000000+02:00
+- image_filename: IMGP5210raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.069319444444446
+  lon: 15.869083333333334
+  altitude: 221.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 11:39:37.000000000+02:00
+- image_filename: IMGP5229raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.031555555555556
+  lon: 15.870847222222222
+  altitude: 260.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 13:22:10.000000000+02:00
+- image_filename: IMGP5241raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.03104166666667
+  lon: 15.850208333333333
+  altitude: 303.0
+  focal_length: 20.0
+  focal_length_35: 30.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 13:34:22.000000000+02:00
+- image_filename: IMGP5248raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.03254166666667
+  lon: 15.842500000000001
+  altitude: 315.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 13:38:28.000000000+02:00
+- image_filename: IMGP5249raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.03254166666667
+  lon: 15.842486111111112
+  altitude: 315.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 13:38:37.000000000+02:00
 - image_filename: IMGP5259raw1.jpg
   post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
   lat: 51.039902777777776
@@ -257,8 +159,106 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-04-30 13:51:52+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 13:51:52.000000000+02:00
+- image_filename: IMGP5263raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.042027777777776
+  lon: 15.812125
+  altitude: 314.0
+  focal_length: 20.0
+  focal_length_35: 30.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 13:53:05.000000000+02:00
+- image_filename: IMGP5271raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.04097222222222
+  lon: 15.735805555555554
+  altitude: 425.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 14:36:42.000000000+02:00
+- image_filename: IMGP5281raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.01663888888889
+  lon: 15.674013888888888
+  altitude: 235.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 15:00:17.000000000+02:00
+- image_filename: IMGP5291raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.03047222222222
+  lon: 15.602805555555555
+  altitude: 339.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-04-30 15:35:11.000000000+02:00
+- image_filename: IMGP5295raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.03
+  lon: 15.595055555555556
+  altitude: 318.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 13.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-30 15:38:45.000000000+02:00
+- image_filename: IMGP5299raw1.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.03634722222222
+  lon: 15.554375
+  altitude: 353.0
+  focal_length: 14.0
+  focal_length_35: 21.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 16:11:59.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.06234722222222
+  lon: 15.888097222222221
+  altitude: 254.0
+  focal_length: 14.0
+  focal_length_35: 21.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-30 11:32:21.000000000+02:00

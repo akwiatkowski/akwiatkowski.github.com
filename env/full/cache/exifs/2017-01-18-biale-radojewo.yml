@@ -1,102 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-01-18-biale-radojewo
-  lat: 52.45426388888889
-  lon: 16.969583333333333
-  altitude: 54.0
-  focal_length: 29.0
-  focal_length_35: 43.0
-  crop: 1.4827586206896552
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-18 12:00:45+01:00
-- image_filename: IMGP2114raw1.jpg
-  post_slug: 2017-01-18-biale-radojewo
-  lat: 52.454638888888894
-  lon: 16.97086111111111
-  altitude: 45.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-01-18 11:55:35+01:00
-- image_filename: IMGP2149raw1.jpg
-  post_slug: 2017-01-18-biale-radojewo
-  lat: 52.455625000000005
-  lon: 16.97547222222222
-  altitude: 46.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-01-18 12:11:37+01:00
-- image_filename: IMGP2191raw1.jpg
-  post_slug: 2017-01-18-biale-radojewo
-  lat: 52.461111111111116
-  lon: 16.976611111111108
-  altitude: 43.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-01-18 12:35:06+01:00
-- image_filename: IMGP2223raw1.jpg
-  post_slug: 2017-01-18-biale-radojewo
-  lat: 52.45622222222222
-  lon: 16.958263888888887
-  altitude: 65.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-01-18 13:03:36+01:00
-- image_filename: IMGP2212raw1.jpg
-  post_slug: 2017-01-18-biale-radojewo
-  lat: 52.45488888888889
-  lon: 16.96936111111111
-  altitude: 48.0
-  focal_length: 25.0
-  focal_length_35: 37.0
-  crop: 1.48
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2017-01-18 12:53:00+01:00
-- image_filename: IMGP2177raw1.jpg
-  post_slug: 2017-01-18-biale-radojewo
-  lat: 52.461625000000005
-  lon: 16.97773611111111
-  altitude: 42.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-01-18 12:30:19+01:00
 - image_filename: IMGP2102raw2.jpg
   post_slug: 2017-01-18-biale-radojewo
   lat: 52.45455555555556
@@ -106,8 +8,106 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-01-18 11:47:27+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-18 11:47:27.000000000+01:00
+- image_filename: IMGP2114raw1.jpg
+  post_slug: 2017-01-18-biale-radojewo
+  lat: 52.454638888888894
+  lon: 16.97086111111111
+  altitude: 45.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-18 11:55:35.000000000+01:00
+- image_filename: IMGP2149raw1.jpg
+  post_slug: 2017-01-18-biale-radojewo
+  lat: 52.455625000000005
+  lon: 16.97547222222222
+  altitude: 46.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-18 12:11:37.000000000+01:00
+- image_filename: IMGP2177raw1.jpg
+  post_slug: 2017-01-18-biale-radojewo
+  lat: 52.461625000000005
+  lon: 16.97773611111111
+  altitude: 42.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-18 12:30:19.000000000+01:00
+- image_filename: IMGP2191raw1.jpg
+  post_slug: 2017-01-18-biale-radojewo
+  lat: 52.461111111111116
+  lon: 16.976611111111108
+  altitude: 43.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-18 12:35:06.000000000+01:00
+- image_filename: IMGP2212raw1.jpg
+  post_slug: 2017-01-18-biale-radojewo
+  lat: 52.45488888888889
+  lon: 16.96936111111111
+  altitude: 48.0
+  focal_length: 25.0
+  focal_length_35: 37.0
+  crop: 1.48
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-01-18 12:53:00.000000000+01:00
+- image_filename: IMGP2223raw1.jpg
+  post_slug: 2017-01-18-biale-radojewo
+  lat: 52.45622222222222
+  lon: 16.958263888888887
+  altitude: 65.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-18 13:03:36.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2017-01-18-biale-radojewo
+  lat: 52.45426388888889
+  lon: 16.969583333333333
+  altitude: 54.0
+  focal_length: 29.0
+  focal_length_35: 43.0
+  crop: 1.4827586206896552
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-18 12:00:45.000000000+01:00

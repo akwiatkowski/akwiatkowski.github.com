@@ -1,40 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-- image_filename: 2020_10_30__18_12_DSC04196.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.384458333333335
-  lon: 16.913874999999997
-  altitude: 110.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 5000
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5580
-  height: 3712
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-10-30 18:12:20+01:00
-- image_filename: 2020_10_30__18_18_DSC04210.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.38359722222222
-  lon: 16.912680555555553
-  altitude: 104.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 4000
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5645
-  height: 3620
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-10-30 18:18:17+01:00
 - image_filename: 2020_10_30__18_12_DSC04195.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.384458333333335
@@ -44,14 +8,48 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 4000
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5601
-  height: 3714
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-10-30 18:12:19+01:00
+  iso: 4000
+  width: 5601
+  height: 3714
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-30 18:12:19.000000000+01:00
+- image_filename: 2020_10_30__18_12_DSC04196.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.384458333333335
+  lon: 16.913874999999997
+  altitude: 110.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 5000
+  width: 5580
+  height: 3712
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-30 18:12:20.000000000+01:00
+- image_filename: 2020_10_30__18_18_DSC04210.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.38359722222222
+  lon: 16.912680555555553
+  altitude: 104.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 4000
+  width: 5645
+  height: 3620
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-30 18:18:17.000000000+01:00
 - image_filename: 2020_10_30__18_18_DSC04211.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.383763888888886
@@ -61,14 +59,14 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 4000
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5618
-  height: 3785
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-10-30 18:18:31+01:00
+  iso: 4000
+  width: 5618
+  height: 3785
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-30 18:18:31.000000000+01:00
 - image_filename: 2020_10_30__18_31_DSC04217.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40204166666666
@@ -78,14 +76,14 @@
   focal_length_35: 42.0
   crop: 1.0
   aperture: 2.8
-  iso: 8000
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5861
-  height: 3980
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2020-10-30 18:31:23+01:00
+  iso: 8000
+  width: 5861
+  height: 3980
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-30 18:31:23.000000000+01:00
 - image_filename: 2020_10_30__18_46_DSC04237.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40179166666667
@@ -95,31 +93,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 5000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 3855
   height: 5795
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-30 18:46:47+01:00
-- image_filename: 2020_10_30__18_58_DSC04255.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.407263888888885
-  lon: 16.912263888888887
-  altitude: 125.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 1250
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 5924
-  height: 3941
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-30 18:58:04+01:00
+  time: 2020-10-30 18:46:47.000000000+01:00
 - image_filename: 2020_10_30__18_57_DSC04249.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40711111111111
@@ -129,14 +110,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 1000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5921
-  height: 3939
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-30 18:57:53+01:00
+  iso: 1000
+  width: 5921
+  height: 3939
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 18:57:53.000000000+01:00
 - image_filename: 2020_10_30__18_57_DSC04252.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40719444444444
@@ -146,14 +127,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 1000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5974
-  height: 3975
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-30 18:57:56+01:00
+  iso: 1000
+  width: 5974
+  height: 3975
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 18:57:56.000000000+01:00
+- image_filename: 2020_10_30__18_58_DSC04255.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.407263888888885
+  lon: 16.912263888888887
+  altitude: 125.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 1250
+  width: 5924
+  height: 3941
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 18:58:04.000000000+01:00
 - image_filename: 2020_10_30__19_01_DSC04272.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40741666666666
@@ -163,14 +161,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 1600
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5752
-  height: 3826
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-30 19:01:48+01:00
+  iso: 1600
+  width: 5752
+  height: 3826
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:01:48.000000000+01:00
 - image_filename: 2020_10_30__19_08_DSC04327.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40720833333333
@@ -180,31 +178,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 1600
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 5977
   height: 3977
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-30 19:08:25+01:00
-- image_filename: 2020_10_30__19_09_DSC04337.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.40716666666667
-  lon: 16.91963888888889
-  altitude: 131.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 800
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 5973
-  height: 3998
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-30 19:09:34+01:00
+  time: 2020-10-30 19:08:25.000000000+01:00
 - image_filename: 2020_10_30__19_08_DSC04330.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40719444444444
@@ -214,14 +195,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 2500
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6016
-  height: 3983
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-30 19:08:35+01:00
+  iso: 2500
+  width: 6016
+  height: 3983
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:08:35.000000000+01:00
+- image_filename: 2020_10_30__19_09_DSC04337.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.40716666666667
+  lon: 16.91963888888889
+  altitude: 131.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 800
+  width: 5973
+  height: 3998
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:09:34.000000000+01:00
 - image_filename: 2020_10_30__19_19_DSC04378.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40597222222222
@@ -231,14 +229,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 1000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6040
-  height: 4015
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-30 19:19:31+01:00
+  iso: 1000
+  width: 6040
+  height: 4015
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:19:31.000000000+01:00
 - image_filename: 2020_10_30__19_20_DSC04389.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40586111111111
@@ -248,31 +246,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 2000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 3949
   height: 6016
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-30 19:20:11+01:00
-- image_filename: 2020_10_30__19_21_DSC04396.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.405680555555556
-  lon: 16.931375000000003
-  altitude: 99.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 3200
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 4023
-  height: 6047
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-30 19:21:11+01:00
+  time: 2020-10-30 19:20:11.000000000+01:00
 - image_filename: 2020_10_30__19_21_DSC04394.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40569444444444
@@ -282,48 +263,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 1600
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 4023
   height: 6047
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-30 19:21:05+01:00
-- image_filename: 2020_10_30__19_24_DSC04418.jpg
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:21:05.000000000+01:00
+- image_filename: 2020_10_30__19_21_DSC04396.jpg
   post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.406666666666666
-  lon: 16.93201388888889
-  altitude: 115.0
+  lat: 52.405680555555556
+  lon: 16.931375000000003
+  altitude: 99.0
   focal_length: 105.0
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 8000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5983
-  height: 3924
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-30 19:24:38+01:00
-- image_filename: 2020_10_30__19_25_DSC04435.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.407263888888885
-  lon: 16.93225
-  altitude: 102.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 1600
+  iso: 3200
+  width: 4023
+  height: 6047
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 5875
-  height: 3908
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:25:58+01:00
+  time: 2020-10-30 19:21:11.000000000+01:00
 - image_filename: 2020_10_30__19_23_DSC04411.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40631944444444
@@ -333,31 +297,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 2000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 3984
-  height: 5988
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-30 19:23:11+01:00
-- image_filename: 2020_10_30__19_26_DSC04440.jpg
+  iso: 2000
+  width: 3984
+  height: 5988
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:23:11.000000000+01:00
+- image_filename: 2020_10_30__19_24_DSC04418.jpg
   post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.407333333333334
-  lon: 16.932291666666668
-  altitude: 100.0
+  lat: 52.406666666666666
+  lon: 16.93201388888889
+  altitude: 115.0
   focal_length: 105.0
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 800
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 8000
+  width: 5983
+  height: 3924
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:26:42+01:00
+  time: 2020-10-30 19:24:38.000000000+01:00
 - image_filename: 2020_10_30__19_25_DSC04430.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40694444444444
@@ -367,14 +331,48 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 1000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 3971
-  height: 5968
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2020-10-30 19:25:37+01:00
+  iso: 1000
+  width: 3971
+  height: 5968
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:25:37.000000000+01:00
+- image_filename: 2020_10_30__19_25_DSC04435.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.407263888888885
+  lon: 16.93225
+  altitude: 102.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 1600
+  width: 5875
+  height: 3908
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:25:58.000000000+01:00
+- image_filename: 2020_10_30__19_26_DSC04440.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.407333333333334
+  lon: 16.932291666666668
+  altitude: 100.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 800
+  width: 6047
+  height: 4023
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:26:42.000000000+01:00
 - image_filename: 2020_10_30__19_27_DSC04443.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.407333333333334
@@ -384,48 +382,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
   iso: 2000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:27:21+01:00
-- image_filename: 2020_10_30__19_31_DSC04474.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.40773611111111
-  lon: 16.933569444444444
-  altitude: 102.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 640
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 5944
-  height: 3866
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:31:29+01:00
-- image_filename: 2020_10_30__19_30_DSC04465.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.407916666666665
-  lon: 16.93325
-  altitude: 106.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 1600
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5296
-  height: 3338
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:30:30+01:00
+  time: 2020-10-30 19:27:21.000000000+01:00
 - image_filename: 2020_10_30__19_27_DSC04445.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.407333333333334
@@ -435,48 +399,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
   iso: 400
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 3961
   height: 5955
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:27:32+01:00
-- image_filename: 2020_10_30__19_29_DSC04457.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.407916666666665
-  lon: 16.932666666666666
-  altitude: 107.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 500
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 5948
-  height: 3870
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:29:23+01:00
-- image_filename: 2020_10_30__19_31_DSC04479.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.40776388888889
-  lon: 16.933972222222224
-  altitude: 105.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 1000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5971
-  height: 3953
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:31:47+01:00
+  time: 2020-10-30 19:27:32.000000000+01:00
 - image_filename: 2020_10_30__19_28_DSC04453.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.407916666666665
@@ -486,14 +416,65 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 500
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2020-10-30 19:28:35+01:00
+  iso: 500
+  width: 6047
+  height: 4023
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:28:35.000000000+01:00
+- image_filename: 2020_10_30__19_29_DSC04457.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.407916666666665
+  lon: 16.932666666666666
+  altitude: 107.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 500
+  width: 5948
+  height: 3870
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:29:23.000000000+01:00
+- image_filename: 2020_10_30__19_30_DSC04465.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.407916666666665
+  lon: 16.93325
+  altitude: 106.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 1600
+  width: 5296
+  height: 3338
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:30:30.000000000+01:00
+- image_filename: 2020_10_30__19_31_DSC04474.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.40773611111111
+  lon: 16.933569444444444
+  altitude: 102.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 640
+  width: 5944
+  height: 3866
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:31:29.000000000+01:00
 - image_filename: 2020_10_30__19_31_DSC04477.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40776388888889
@@ -503,31 +484,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 2500
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2020-10-30 19:31:41+01:00
-- image_filename: 2020_10_30__19_35_DSC04501.jpg
+  iso: 2500
+  width: 6047
+  height: 4023
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:31:41.000000000+01:00
+- image_filename: 2020_10_30__19_31_DSC04479.jpg
   post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.40795833333333
-  lon: 16.935305555555555
-  altitude: 76.0
+  lat: 52.40776388888889
+  lon: 16.933972222222224
+  altitude: 105.0
   focal_length: 105.0
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 2000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5972
-  height: 3911
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2020-10-30 19:35:15+01:00
+  iso: 1000
+  width: 5971
+  height: 3953
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:31:47.000000000+01:00
 - image_filename: 2020_10_30__19_32_DSC04487.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40761111111111
@@ -537,48 +518,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
   iso: 640
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 5998
   height: 3949
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:32:59+01:00
-- image_filename: 2020_10_30__19_33_DSC04490.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.40761111111111
-  lon: 16.935097222222222
-  altitude: 95.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 800
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 5971
-  height: 3953
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:33:29+01:00
-- image_filename: 2020_10_30__19_33_DSC04493.jpg
-  post_slug: 2020-10-30-deszczowy-poznan
-  lat: 52.407555555555554
-  lon: 16.935111111111112
-  altitude: 92.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 500
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5991
-  height: 3938
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-10-30 19:33:46+01:00
+  time: 2020-10-30 19:32:59.000000000+01:00
 - image_filename: 2020_10_30__19_33_DSC04489.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.40756944444444
@@ -588,14 +535,48 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 1000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5958
-  height: 3944
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2020-10-30 19:33:25+01:00
+  iso: 1000
+  width: 5958
+  height: 3944
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:33:25.000000000+01:00
+- image_filename: 2020_10_30__19_33_DSC04490.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.40761111111111
+  lon: 16.935097222222222
+  altitude: 95.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 800
+  width: 5971
+  height: 3953
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:33:29.000000000+01:00
+- image_filename: 2020_10_30__19_33_DSC04493.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.407555555555554
+  lon: 16.935111111111112
+  altitude: 92.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 500
+  width: 5991
+  height: 3938
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:33:46.000000000+01:00
 - image_filename: 2020_10_30__19_34_DSC04498.jpg
   post_slug: 2020-10-30-deszczowy-poznan
   lat: 52.407944444444446
@@ -605,11 +586,28 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 1000
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6019
-  height: 3984
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2020-10-30 19:34:55+01:00
+  iso: 1000
+  width: 6019
+  height: 3984
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:34:55.000000000+01:00
+- image_filename: 2020_10_30__19_35_DSC04501.jpg
+  post_slug: 2020-10-30-deszczowy-poznan
+  lat: 52.40795833333333
+  lon: 16.935305555555555
+  altitude: 76.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 2000
+  width: 5972
+  height: 3911
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-30 19:35:15.000000000+01:00

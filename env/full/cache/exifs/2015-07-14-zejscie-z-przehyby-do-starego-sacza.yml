@@ -1,213 +1,213 @@
 ---
-- image_filename: header.jpg
+- image_filename: IMGP1658raw1.jpg
   post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.46884111111111
-  lon: 20.571827222222222
-  altitude: 1111.9
+  lat: 49.46717777777778
+  lon: 20.56747777777778
+  altitude: 1107.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 5.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-14 07:10:04.000000000+02:00
+- image_filename: IMGP1671raw1.jpg
+  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
+  lat: 49.47501944444445
+  lon: 20.562077777777777
+  altitude: 1009.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2015-07-14 07:14:58+02:00
+  time: 2015-07-14 07:31:46.000000000+02:00
 - image_filename: IMGP1673raw1.jpg
   post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.47590805555556
-  lon: 20.561304444444445
+  lat: 49.47590833333334
+  lon: 20.561305555555556
   altitude: 992.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2015-07-14 07:34:54+02:00
+  time: 2015-07-14 07:34:54.000000000+02:00
+- image_filename: IMGP1687raw1.jpg
+  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
+  lat: 49.487655555555556
+  lon: 20.563222222222223
+  altitude: 834.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 800
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-14 08:14:38.000000000+02:00
 - image_filename: IMGP1703raw1.jpg
   post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
   lat: 49.50926666666667
-  lon: 20.59016611111111
+  lon: 20.590166666666665
   altitude: 522.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
+  time: 2015-07-14 09:13:02.000000000+02:00
+- image_filename: IMGP1717raw1.jpg
+  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
+  lat: 49.50951944444444
+  lon: 20.59074722222222
+  altitude: 516.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-14 09:15:00.000000000+02:00
+- image_filename: IMGP1720raw1.jpg
+  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
+  lat: 49.50989722222222
+  lon: 20.59149722222222
+  altitude: 505.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2015-07-14 09:13:02+02:00
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-14 09:16:19.000000000+02:00
 - image_filename: IMGP1727raw1.jpg
   post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.512546666666665
+  lat: 49.512547222222224
   lon: 20.594955555555554
   altitude: 473.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-14 09:21:59+02:00
-- image_filename: IMGP1752raw1.jpg
-  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.513173888888886
-  lon: 20.607837777777778
-  altitude: 448.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-07-14 09:39:00+02:00
-- image_filename: IMGP1687raw1.jpg
-  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.487654444444445
-  lon: 20.563223611111113
-  altitude: 834.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 800
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-07-14 08:14:38+02:00
-- image_filename: IMGP1784raw1.jpg
-  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.53095138888889
-  lon: 20.622671944444445
-  altitude: 429.9
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-14 10:13:54+02:00
+  time: 2015-07-14 09:21:59.000000000+02:00
 - image_filename: IMGP1728raw1.jpg
   post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.51257805555556
-  lon: 20.59590888888889
+  lat: 49.51257777777778
+  lon: 20.59590833333333
   altitude: 467.3
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2015-07-14 09:22:41+02:00
-- image_filename: IMGP1717raw1.jpg
-  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.509520277777774
-  lon: 20.5907475
-  altitude: 516.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-07-14 09:15:00+02:00
-- image_filename: IMGP1833raw1.jpg
-  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.558369166666665
-  lon: 20.637523055555555
-  altitude: 317.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-07-14 11:06:24+02:00
-- image_filename: IMGP1671raw1.jpg
-  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.47502083333333
-  lon: 20.562076666666666
-  altitude: 1009.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-07-14 07:31:46+02:00
-- image_filename: IMGP1658raw1.jpg
-  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.46717777777778
-  lon: 20.567476666666668
-  altitude: 1107.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 4.0
-  iso: 800
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-14 07:10:04+02:00
-- image_filename: IMGP1720raw1.jpg
-  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.50989638888889
-  lon: 20.59149611111111
-  altitude: 505.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-14 09:16:19+02:00
+  time: 2015-07-14 09:22:41.000000000+02:00
 - image_filename: IMGP1743raw1.jpg
   post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
-  lat: 49.512838611111114
+  lat: 49.512838888888886
   lon: 20.604422222222222
   altitude: 450.5
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-14 09:34:48+02:00
+  time: 2015-07-14 09:34:48.000000000+02:00
+- image_filename: IMGP1752raw1.jpg
+  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
+  lat: 49.513175
+  lon: 20.60783888888889
+  altitude: 448.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-14 09:39:00.000000000+02:00
+- image_filename: IMGP1784raw1.jpg
+  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
+  lat: 49.53095277777778
+  lon: 20.622672222222224
+  altitude: 429.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-14 10:13:54.000000000+02:00
+- image_filename: IMGP1833raw1.jpg
+  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
+  lat: 49.558369444444445
+  lon: 20.637522222222223
+  altitude: 317.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-14 11:06:24.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2015-07-14-zejscie-z-przehyby-do-starego-sacza
+  lat: 49.46884166666667
+  lon: 20.571827777777777
+  altitude: 1111.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-14 07:14:58.000000000+02:00

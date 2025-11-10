@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-11-07-szara-koncowka-jesieni
 - image_filename: 2021_11_07__15_12_DSC00007.jpg
   post_slug: 2021-11-07-szara-koncowka-jesieni
   lat: 52.46995833333334
@@ -52,23 +50,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-07 15:34:01.000000000+01:00
-- image_filename: 2021_11_07__15_37_DSC00078.jpg
-  post_slug: 2021-11-07-szara-koncowka-jesieni
-  lat: 52.46995833333334
-  lon: 17.222930555555553
-  altitude: 0.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 400
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-07 15:37:25.000000000+01:00
 - image_filename: 2021_11_07__15_34_DSC00061.jpg
   post_slug: 2021-11-07-szara-koncowka-jesieni
   lat: 52.46995833333334
@@ -86,6 +67,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-07 15:34:05.000000000+01:00
+- image_filename: 2021_11_07__15_37_DSC00078.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  lat: 52.46995833333334
+  lon: 17.222930555555553
+  altitude: 0.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-07 15:37:25.000000000+01:00
 - image_filename: 2021_11_07__15_39_DSC00088.jpg
   post_slug: 2021-11-07-szara-koncowka-jesieni
   lat: 52.46995833333334
@@ -137,23 +135,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-07 15:42:32.000000000+01:00
-- image_filename: 2021_11_07__15_53_DSC00152.jpg
-  post_slug: 2021-11-07-szara-koncowka-jesieni
-  lat: 52.46995833333334
-  lon: 17.222930555555553
-  altitude: 0.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 640
-  width: 4024
-  height: 6048
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-07 15:53:16.000000000+01:00
 - image_filename: 2021_11_07__15_52_DSC00146.jpg
   post_slug: 2021-11-07-szara-koncowka-jesieni
   lat: 52.46995833333334
@@ -171,7 +152,7 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-07 15:52:58.000000000+01:00
-- image_filename: 2021_11_07__15_58_DSC00172.jpg
+- image_filename: 2021_11_07__15_53_DSC00152.jpg
   post_slug: 2021-11-07-szara-koncowka-jesieni
   lat: 52.46995833333334
   lon: 17.222930555555553
@@ -183,11 +164,11 @@
   exposure: 0.01
   exposure_string: 1/100 s
   iso: 640
-  width: 6047
-  height: 4023
+  width: 4024
+  height: 6048
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-11-07 15:58:22.000000000+01:00
+  time: 2021-11-07 15:53:16.000000000+01:00
 - image_filename: 2021_11_07__15_56_DSC00165.jpg
   post_slug: 2021-11-07-szara-koncowka-jesieni
   lat: 52.46995833333334
@@ -205,7 +186,7 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-07 15:56:38.000000000+01:00
-- image_filename: 2021_11_07__16_00_DSC00179.jpg
+- image_filename: 2021_11_07__15_58_DSC00172.jpg
   post_slug: 2021-11-07-szara-koncowka-jesieni
   lat: 52.46995833333334
   lon: 17.222930555555553
@@ -216,12 +197,12 @@
   aperture: 1.8
   exposure: 0.01
   exposure_string: 1/100 s
-  iso: 800
+  iso: 640
   width: 6047
   height: 4023
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-11-07 16:00:46.000000000+01:00
+  time: 2021-11-07 15:58:22.000000000+01:00
 - image_filename: 2021_11_07__15_58_DSC00175.jpg
   post_slug: 2021-11-07-szara-koncowka-jesieni
   lat: 52.46995833333334
@@ -239,6 +220,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-07 15:58:40.000000000+01:00
+- image_filename: 2021_11_07__16_00_DSC00179.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  lat: 52.46995833333334
+  lon: 17.222930555555553
+  altitude: 0.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 800
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-07 16:00:46.000000000+01:00
 - image_filename: 2021_11_07__16_02_DSC00182.jpg
   post_slug: 2021-11-07-szara-koncowka-jesieni
   lat: 52.46995833333334

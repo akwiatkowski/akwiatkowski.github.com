@@ -1,12 +1,8 @@
 ---
-- image_filename: 2022_07_31__18_45_P7310479.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-- image_filename: header.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
 - image_filename: 2024_10_21__09_55_PA210036.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.711666666666666
-  lon: 16.344166666666666
+  lat: 50.71163888888889
+  lon: 16.34413888888889
   altitude: 502.0
   focal_length: 50.0
   aperture: 6.3
@@ -22,7 +18,7 @@
 - image_filename: 2024_10_21__09_56_PA210037.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
   lat: 50.71194444444445
-  lon: 16.343888888888888
+  lon: 16.343902777777778
   altitude: 502.0
   focal_length: 12.0
   aperture: 6.3
@@ -35,26 +31,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 09:56:09.000000000+02:00
-- image_filename: 2024_10_21__09_57_PA210042.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.71222222222222
-  lon: 16.343333333333334
-  altitude: 501.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 53.02
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 09:57:26.000000000+02:00
 - image_filename: 2024_10_21__09_57_PA210041.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.71222222222222
-  lon: 16.343333333333334
+  lat: 50.71227777777778
+  lon: 16.343444444444444
   altitude: 502.0
   focal_length: 12.0
   aperture: 5.6
@@ -67,10 +47,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 09:57:13.000000000+02:00
+- image_filename: 2024_10_21__09_57_PA210042.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.71227777777778
+  lon: 16.34338888888889
+  altitude: 501.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 53.02
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 09:57:26.000000000+02:00
 - image_filename: 2024_10_21__09_57_PA210043.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
   lat: 50.712500000000006
-  lon: 16.343055555555555
+  lon: 16.343041666666664
   altitude: 500.0
   focal_length: 12.0
   aperture: 6.3
@@ -85,8 +81,8 @@
   time: 2024-10-21 09:57:57.000000000+02:00
 - image_filename: 2024_10_21__09_58_PA210044.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.71277777777778
-  lon: 16.342777777777776
+  lat: 50.71266666666667
+  lon: 16.342805555555554
   altitude: 499.0
   focal_length: 12.0
   aperture: 5.6
@@ -101,7 +97,7 @@
   time: 2024-10-21 09:58:15.000000000+02:00
 - image_filename: 2024_10_21__09_59_PA210046.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.713055555555556
+  lat: 50.71304166666667
   lon: 16.342777777777776
   altitude: 493.0
   focal_length: 29.0
@@ -115,26 +111,9 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 09:59:10.000000000+02:00
-- image_filename: 2024_10_21__10_03_DSC09678.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.715833333333336
-  lon: 16.34361111111111
-  altitude: 461.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.4
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 4024
-  height: 6048
-  lens: 85mm F1.4 DG DN | Art 020
-  camera: ILCE-7M3
-  time: 2024-10-21 10:03:22.000000000+02:00
 - image_filename: 2024_10_21__10_02_DSC09665.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.71527777777778
+  lat: 50.71515277777778
   lon: 16.343333333333334
   altitude: 471.0
   focal_length: 85.0
@@ -149,10 +128,27 @@
   lens: 85mm F1.4 DG DN | Art 020
   camera: ILCE-7M3
   time: 2024-10-21 10:02:15.000000000+02:00
+- image_filename: 2024_10_21__10_03_DSC09678.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.715944444444446
+  lon: 16.34347222222222
+  altitude: 461.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 4024
+  height: 6048
+  lens: 85mm F1.4 DG DN | Art 020
+  camera: ILCE-7M3
+  time: 2024-10-21 10:03:22.000000000+02:00
 - image_filename: 2024_10_21__10_04_PA210049.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.717222222222226
-  lon: 16.343888888888888
+  lat: 50.71715277777778
+  lon: 16.343805555555555
   altitude: 455.0
   focal_length: 18.0
   aperture: 7.1
@@ -167,8 +163,8 @@
   time: 2024-10-21 10:04:52.000000000+02:00
 - image_filename: 2024_10_21__10_09_DSC09701.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72
-  lon: 16.3475
+  lat: 50.72005555555556
+  lon: 16.347624999999997
   altitude: 455.0
   focal_length: 85.0
   focal_length_35: 85.0
@@ -184,7 +180,7 @@
   time: 2024-10-21 10:09:57.000000000+02:00
 - image_filename: 2024_10_21__10_09_PA210050.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72
+  lat: 50.71990277777778
   lon: 16.34722222222222
   altitude: 454.0
   focal_length: 14.0
@@ -200,8 +196,8 @@
   time: 2024-10-21 10:09:30.000000000+02:00
 - image_filename: 2024_10_21__10_13_PA210052.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.719722222222224
-  lon: 16.35027777777778
+  lat: 50.71973611111111
+  lon: 16.350319444444445
   altitude: 452.0
   focal_length: 31.0
   aperture: 4.5
@@ -216,8 +212,8 @@
   time: 2024-10-21 10:13:26.000000000+02:00
 - image_filename: 2024_10_21__10_39_PA210056.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72027777777778
-  lon: 16.353333333333335
+  lat: 50.720222222222226
+  lon: 16.353361111111113
   altitude: 470.0
   focal_length: 100.0
   aperture: 4.0
@@ -232,8 +228,8 @@
   time: 2024-10-21 10:39:00.000000000+02:00
 - image_filename: 2024_10_21__10_40_PA210057.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.720555555555556
-  lon: 16.35388888888889
+  lat: 50.72045833333333
+  lon: 16.353916666666667
   altitude: 471.0
   focal_length: 44.0
   aperture: 5.6
@@ -248,8 +244,8 @@
   time: 2024-10-21 10:40:34.000000000+02:00
 - image_filename: 2024_10_21__10_41_PA210059.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.720555555555556
-  lon: 16.35388888888889
+  lat: 50.72063888888889
+  lon: 16.35379166666667
   altitude: 472.0
   focal_length: 24.0
   aperture: 5.6
@@ -264,8 +260,8 @@
   time: 2024-10-21 10:41:07.000000000+02:00
 - image_filename: 2024_10_21__10_41_PA210060.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72083333333334
-  lon: 16.35388888888889
+  lat: 50.72069444444445
+  lon: 16.35379166666667
   altitude: 472.0
   focal_length: 12.0
   aperture: 5.6
@@ -280,8 +276,8 @@
   time: 2024-10-21 10:41:17.000000000+02:00
 - image_filename: 2024_10_21__10_41_PA210061.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72083333333334
-  lon: 16.35388888888889
+  lat: 50.720777777777776
+  lon: 16.353819444444447
   altitude: 472.0
   focal_length: 47.0
   aperture: 5.0
@@ -296,8 +292,8 @@
   time: 2024-10-21 10:41:27.000000000+02:00
 - image_filename: 2024_10_21__10_44_PA210064.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72277777777778
-  lon: 16.353333333333335
+  lat: 50.72276388888889
+  lon: 16.353458333333336
   altitude: 485.0
   focal_length: 70.0
   aperture: 5.0
@@ -310,26 +306,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 10:44:48.000000000+02:00
-- image_filename: 2024_10_21__10_47_PA210070.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72416666666667
-  lon: 16.352777777777778
-  altitude: 501.0
-  focal_length: 18.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 58.1
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 10:47:51.000000000+02:00
 - image_filename: 2024_10_21__10_46_PA210067.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.723888888888894
-  lon: 16.352777777777778
+  lat: 50.72394444444445
+  lon: 16.352722222222223
   altitude: 498.0
   focal_length: 80.0
   aperture: 5.0
@@ -342,26 +322,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 10:46:56.000000000+02:00
-- image_filename: 2024_10_21__10_52_PA210076.jpg
+- image_filename: 2024_10_21__10_47_PA210070.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72638888888889
-  lon: 16.351666666666667
-  altitude: 522.0
-  focal_length: 75.0
-  aperture: 5.0
+  lat: 50.724291666666666
+  lon: 16.35265277777778
+  altitude: 501.0
+  focal_length: 18.0
+  aperture: 7.1
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 30.23
+  focus_distance: 58.1
   iso: 200
-  width: 6132
-  height: 8168
+  width: 8168
+  height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2024-10-21 10:52:12.000000000+02:00
+  time: 2024-10-21 10:47:51.000000000+02:00
 - image_filename: 2024_10_21__10_52_PA210075.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72638888888889
-  lon: 16.351666666666667
+  lat: 50.726416666666665
+  lon: 16.351597222222225
   altitude: 523.0
   focal_length: 47.0
   aperture: 5.6
@@ -374,26 +354,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 10:52:00.000000000+02:00
-- image_filename: 2024_10_21__10_55_PA210081.jpg
+- image_filename: 2024_10_21__10_52_PA210076.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72833333333333
-  lon: 16.351666666666667
-  altitude: 525.0
-  focal_length: 38.0
-  aperture: 6.3
+  lat: 50.7265
+  lon: 16.35161111111111
+  altitude: 522.0
+  focal_length: 75.0
+  aperture: 5.0
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 13.85
+  focus_distance: 30.23
   iso: 200
-  width: 8168
-  height: 6132
+  width: 6132
+  height: 8168
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2024-10-21 10:55:12.000000000+02:00
+  time: 2024-10-21 10:52:12.000000000+02:00
 - image_filename: 2024_10_21__10_53_PA210078.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.727222222222224
-  lon: 16.35138888888889
+  lat: 50.727250000000005
+  lon: 16.351458333333333
   altitude: 526.0
   focal_length: 75.0
   aperture: 4.5
@@ -408,8 +388,8 @@
   time: 2024-10-21 10:53:30.000000000+02:00
 - image_filename: 2024_10_21__10_55_PA210080.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72805555555556
-  lon: 16.351666666666667
+  lat: 50.72815277777778
+  lon: 16.351708333333335
   altitude: 525.0
   focal_length: 24.0
   aperture: 7.1
@@ -422,10 +402,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 10:55:03.000000000+02:00
+- image_filename: 2024_10_21__10_55_PA210081.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.728236111111116
+  lon: 16.351750000000003
+  altitude: 525.0
+  focal_length: 38.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 13.85
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 10:55:12.000000000+02:00
 - image_filename: 2024_10_21__10_56_PA210082.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.728611111111114
-  lon: 16.352222222222224
+  lat: 50.728722222222224
+  lon: 16.352180555555556
   altitude: 526.0
   focal_length: 41.0
   aperture: 6.3
@@ -440,8 +436,8 @@
   time: 2024-10-21 10:56:23.000000000+02:00
 - image_filename: 2024_10_21__10_56_PA210083.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72888888888889
-  lon: 16.352222222222224
+  lat: 50.72877777777778
+  lon: 16.35227777777778
   altitude: 526.0
   focal_length: 75.0
   aperture: 5.0
@@ -454,26 +450,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 10:56:35.000000000+02:00
-- image_filename: 2024_10_21__10_58_PA210088.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72944444444445
-  lon: 16.352500000000003
-  altitude: 529.0
-  focal_length: 41.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 14.39
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 10:58:44.000000000+02:00
 - image_filename: 2024_10_21__10_57_PA210086.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.72888888888889
-  lon: 16.352500000000003
+  lat: 50.72895833333334
+  lon: 16.352458333333335
   altitude: 527.0
   focal_length: 25.0
   aperture: 7.1
@@ -486,10 +466,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 10:57:24.000000000+02:00
+- image_filename: 2024_10_21__10_58_PA210088.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.72952777777778
+  lon: 16.352625
+  altitude: 529.0
+  focal_length: 41.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 14.39
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 10:58:44.000000000+02:00
 - image_filename: 2024_10_21__10_59_PA210089.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73027777777778
-  lon: 16.352500000000003
+  lat: 50.73016666666667
+  lon: 16.35252777777778
   altitude: 533.0
   focal_length: 100.0
   aperture: 4.5
@@ -502,58 +498,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 10:59:55.000000000+02:00
-- image_filename: 2024_10_21__11_09_PA210104.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73444444444444
-  lon: 16.352777777777778
-  altitude: 506.0
-  focal_length: 12.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.65
-  iso: 200
-  width: 6132
-  height: 8168
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 11:09:26.000000000+02:00
-- image_filename: 2024_10_21__11_06_PA210097.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73305555555556
-  lon: 16.351944444444445
-  altitude: 518.0
-  focal_length: 31.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 21.36
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 11:06:05.000000000+02:00
-- image_filename: 2024_10_21__11_04_PA210092.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.7325
-  lon: 16.352222222222224
-  altitude: 527.0
-  focal_length: 35.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 12.82
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 11:04:33.000000000+02:00
 - image_filename: 2024_10_21__11_00_PA210090.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.730555555555554
-  lon: 16.352500000000003
+  lat: 50.73045833333334
+  lon: 16.352458333333335
   altitude: 534.0
   focal_length: 34.0
   aperture: 7.1
@@ -566,26 +514,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 11:00:49.000000000+02:00
-- image_filename: 2024_10_21__11_10_PA210107.jpg
+- image_filename: 2024_10_21__11_04_PA210092.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.734722222222224
-  lon: 16.353055555555557
-  altitude: 508.0
-  focal_length: 12.0
+  lat: 50.732486111111115
+  lon: 16.352083333333336
+  altitude: 527.0
+  focal_length: 35.0
   aperture: 6.3
   exposure: 0.00625
   exposure_string: 1/160 s
-  focus_distance: 1.93
+  focus_distance: 12.82
   iso: 200
   width: 8168
   height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2024-10-21 11:10:46.000000000+02:00
+  time: 2024-10-21 11:04:33.000000000+02:00
 - image_filename: 2024_10_21__11_05_PA210095.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
   lat: 50.73277777777778
-  lon: 16.351944444444445
+  lon: 16.352069444444446
   altitude: 524.0
   focal_length: 44.0
   aperture: 5.6
@@ -598,10 +546,58 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 11:05:25.000000000+02:00
+- image_filename: 2024_10_21__11_06_PA210097.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.733111111111114
+  lon: 16.351986111111113
+  altitude: 518.0
+  focal_length: 31.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 21.36
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 11:06:05.000000000+02:00
+- image_filename: 2024_10_21__11_09_PA210104.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.73436111111111
+  lon: 16.35275
+  altitude: 506.0
+  focal_length: 12.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.65
+  iso: 200
+  width: 6132
+  height: 8168
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 11:09:26.000000000+02:00
+- image_filename: 2024_10_21__11_10_PA210107.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.73476388888889
+  lon: 16.35315277777778
+  altitude: 508.0
+  focal_length: 12.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.93
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 11:10:46.000000000+02:00
 - image_filename: 2024_10_21__11_15_PA210112.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73583333333333
-  lon: 16.3575
+  lat: 50.735875
+  lon: 16.35738888888889
   altitude: 530.0
   focal_length: 57.0
   aperture: 5.6
@@ -616,8 +612,8 @@
   time: 2024-10-21 11:15:53.000000000+02:00
 - image_filename: 2024_10_21__11_21_PA210113.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73777777777778
-  lon: 16.36277777777778
+  lat: 50.737652777777775
+  lon: 16.36276388888889
   altitude: 529.0
   focal_length: 29.0
   aperture: 6.3
@@ -630,26 +626,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 11:21:50.000000000+02:00
-- image_filename: 2024_10_21__11_22_PA210116.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.737500000000004
-  lon: 16.363333333333333
-  altitude: 528.0
-  focal_length: 100.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 84.45
-  iso: 200
-  width: 7775
-  height: 5568
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 11:22:47.000000000+02:00
 - image_filename: 2024_10_21__11_22_PA210115.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73777777777778
-  lon: 16.363055555555558
+  lat: 50.737680555555556
+  lon: 16.36313888888889
   altitude: 530.0
   focal_length: 12.0
   aperture: 6.3
@@ -662,26 +642,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 11:22:26.000000000+02:00
-- image_filename: 2024_10_21__11_25_PA210123.jpg
+- image_filename: 2024_10_21__11_22_PA210116.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.737500000000004
-  lon: 16.365833333333335
-  altitude: 527.0
-  focal_length: 12.0
+  lat: 50.737625
+  lon: 16.363430555555556
+  altitude: 528.0
+  focal_length: 100.0
   aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1.42
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 84.45
   iso: 200
-  width: 6132
-  height: 8168
+  width: 7775
+  height: 5568
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2024-10-21 11:25:42.000000000+02:00
+  time: 2024-10-21 11:22:47.000000000+02:00
 - image_filename: 2024_10_21__11_25_PA210122.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.737500000000004
-  lon: 16.365555555555556
+  lat: 50.73748611111111
+  lon: 16.365472222222223
   altitude: 527.0
   focal_length: 25.0
   aperture: 5.6
@@ -694,10 +674,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 11:25:19.000000000+02:00
-- image_filename: 2024_10_21__11_27_PA210126.jpg
+- image_filename: 2024_10_21__11_25_PA210123.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
   lat: 50.737500000000004
-  lon: 16.366944444444446
+  lon: 16.36576388888889
+  altitude: 527.0
+  focal_length: 12.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.42
+  iso: 200
+  width: 6132
+  height: 8168
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 11:25:42.000000000+02:00
+- image_filename: 2024_10_21__11_27_PA210126.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.737625
+  lon: 16.367041666666665
   altitude: 531.0
   focal_length: 54.0
   aperture: 5.6
@@ -712,8 +708,8 @@
   time: 2024-10-21 11:27:09.000000000+02:00
 - image_filename: 2024_10_21__11_29_PA210132.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.737500000000004
-  lon: 16.368333333333332
+  lat: 50.737611111111114
+  lon: 16.36838888888889
   altitude: 534.0
   focal_length: 24.0
   aperture: 8.0
@@ -728,8 +724,8 @@
   time: 2024-10-21 11:29:08.000000000+02:00
 - image_filename: 2024_10_21__11_30_DJI_0557.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.71666666666667
-  lon: 16.35
+  lat: 50.71958611111111
+  lon: 16.352611111111113
   altitude: 415.7
   focal_length: 6.7
   focal_length_35: 24.0
@@ -744,8 +740,8 @@
   time: 2024-10-21 11:30:29.000000000+02:00
 - image_filename: 2024_10_21__11_33_DJI_0568.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.71666666666667
-  lon: 16.35
+  lat: 50.72108055555556
+  lon: 16.35751388888889
   altitude: 446.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -758,26 +754,10 @@
   height: 6048
   camera: FC3582
   time: 2024-10-21 11:33:43.000000000+02:00
-- image_filename: 2024_10_21__11_36_PA210141.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.736666666666665
-  lon: 16.375
-  altitude: 536.0
-  focal_length: 35.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 25.68
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 11:36:25.000000000+02:00
 - image_filename: 2024_10_21__11_34_DJI_0570.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.71666666666667
-  lon: 16.35
+  lat: 50.72065
+  lon: 16.354483333333334
   altitude: 442.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -792,8 +772,8 @@
   time: 2024-10-21 11:34:22.000000000+02:00
 - image_filename: 2024_10_21__11_35_DJI_0573.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.71666666666667
-  lon: 16.35
+  lat: 50.720625000000005
+  lon: 16.357969444444446
   altitude: 441.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -806,10 +786,26 @@
   height: 6048
   camera: FC3582
   time: 2024-10-21 11:35:20.000000000+02:00
+- image_filename: 2024_10_21__11_36_PA210141.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.73670833333333
+  lon: 16.37511111111111
+  altitude: 536.0
+  focal_length: 35.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 25.68
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 11:36:25.000000000+02:00
 - image_filename: 2024_10_21__11_48_PA210142.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73638888888889
-  lon: 16.375555555555557
+  lat: 50.73648611111111
+  lon: 16.375541666666667
   altitude: 540.0
   focal_length: 29.0
   aperture: 6.3
@@ -824,8 +820,8 @@
   time: 2024-10-21 11:48:40.000000000+02:00
 - image_filename: 2024_10_21__11_49_PA210144.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73638888888889
-  lon: 16.375833333333333
+  lat: 50.73631944444445
+  lon: 16.375888888888888
   altitude: 542.0
   focal_length: 35.0
   aperture: 6.3
@@ -840,8 +836,8 @@
   time: 2024-10-21 11:49:37.000000000+02:00
 - image_filename: 2024_10_21__11_49_PA210146.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73638888888889
-  lon: 16.375833333333333
+  lat: 50.73627777777778
+  lon: 16.375888888888888
   altitude: 542.0
   focal_length: 44.0
   aperture: 5.6
@@ -856,8 +852,8 @@
   time: 2024-10-21 11:49:58.000000000+02:00
 - image_filename: 2024_10_21__11_50_PA210148.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73638888888889
-  lon: 16.375833333333333
+  lat: 50.73625
+  lon: 16.375875
   altitude: 542.0
   focal_length: 41.0
   aperture: 5.6
@@ -872,8 +868,8 @@
   time: 2024-10-21 11:50:22.000000000+02:00
 - image_filename: 2024_10_21__11_56_PA210153.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73638888888889
-  lon: 16.380833333333335
+  lat: 50.73631944444445
+  lon: 16.380819444444445
   altitude: 562.0
   focal_length: 100.0
   aperture: 5.0
@@ -888,8 +884,8 @@
   time: 2024-10-21 11:56:05.000000000+02:00
 - image_filename: 2024_10_21__11_56_PA210154.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73638888888889
-  lon: 16.38111111111111
+  lat: 50.73634722222222
+  lon: 16.380986111111113
   altitude: 561.0
   focal_length: 100.0
   aperture: 5.0
@@ -904,8 +900,8 @@
   time: 2024-10-21 11:56:18.000000000+02:00
 - image_filename: 2024_10_21__11_56_PA210155.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73638888888889
-  lon: 16.381666666666668
+  lat: 50.736472222222226
+  lon: 16.381583333333335
   altitude: 558.0
   focal_length: 80.0
   aperture: 5.0
@@ -920,8 +916,8 @@
   time: 2024-10-21 11:56:51.000000000+02:00
 - image_filename: 2024_10_21__12_00_PA210157.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73861111111111
-  lon: 16.384166666666665
+  lat: 50.73863888888889
+  lon: 16.384208333333333
   altitude: 532.0
   focal_length: 44.0
   aperture: 5.0
@@ -936,8 +932,8 @@
   time: 2024-10-21 12:00:44.000000000+02:00
 - image_filename: 2024_10_21__12_01_PA210158.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73861111111111
-  lon: 16.385277777777777
+  lat: 50.73869444444445
+  lon: 16.385236111111112
   altitude: 524.0
   focal_length: 100.0
   aperture: 4.0
@@ -952,8 +948,8 @@
   time: 2024-10-21 12:01:40.000000000+02:00
 - image_filename: 2024_10_21__12_01_PA210159.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73861111111111
-  lon: 16.385277777777777
+  lat: 50.73869444444445
+  lon: 16.385236111111112
   altitude: 524.0
   focal_length: 100.0
   aperture: 4.0
@@ -968,8 +964,8 @@
   time: 2024-10-21 12:01:40.000000000+02:00
 - image_filename: 2024_10_21__12_03_PA210163.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.73888888888889
-  lon: 16.38722222222222
+  lat: 50.73894444444444
+  lon: 16.38726388888889
   altitude: 510.0
   focal_length: 100.0
   aperture: 5.0
@@ -984,8 +980,8 @@
   time: 2024-10-21 12:03:59.000000000+02:00
 - image_filename: 2024_10_21__12_10_PA210167.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.74055555555556
-  lon: 16.393055555555556
+  lat: 50.74059722222222
+  lon: 16.39313888888889
   altitude: 478.0
   focal_length: 44.0
   aperture: 6.3
@@ -998,42 +994,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 12:10:00.000000000+02:00
-- image_filename: 2024_10_21__12_15_PA210173.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.7425
-  lon: 16.39611111111111
-  altitude: 475.0
-  focal_length: 80.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 33.17
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 12:15:22.000000000+02:00
-- image_filename: 2024_10_21__12_14_PA210172.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.74194444444444
-  lon: 16.39611111111111
-  altitude: 478.0
-  focal_length: 100.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 74.14
-  iso: 200
-  width: 7930
-  height: 5804
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 12:14:36.000000000+02:00
 - image_filename: 2024_10_21__12_12_PA210168.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
   lat: 50.740833333333335
-  lon: 16.39472222222222
+  lon: 16.394791666666666
   altitude: 475.0
   focal_length: 25.0
   aperture: 8.0
@@ -1046,10 +1010,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 12:12:07.000000000+02:00
+- image_filename: 2024_10_21__12_14_PA210172.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.74205555555556
+  lon: 16.395972222222223
+  altitude: 478.0
+  focal_length: 100.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 74.14
+  iso: 200
+  width: 7930
+  height: 5804
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 12:14:36.000000000+02:00
+- image_filename: 2024_10_21__12_15_PA210173.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.74251388888889
+  lon: 16.39615277777778
+  altitude: 475.0
+  focal_length: 80.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 33.17
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 12:15:22.000000000+02:00
 - image_filename: 2024_10_21__12_21_PA210181.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.74583333333334
-  lon: 16.3975
+  lat: 50.745694444444446
+  lon: 16.39748611111111
   altitude: 458.0
   focal_length: 54.0
   aperture: 5.6
@@ -1064,8 +1060,8 @@
   time: 2024-10-21 12:21:10.000000000+02:00
 - image_filename: 2024_10_21__12_25_PA210186.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.74777777777778
-  lon: 16.399722222222223
+  lat: 50.747708333333335
+  lon: 16.399694444444442
   altitude: 441.0
   focal_length: 20.0
   aperture: 4.0
@@ -1078,26 +1074,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 12:25:11.000000000+02:00
-- image_filename: 2024_10_21__12_31_PA210194.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.749722222222225
-  lon: 16.403333333333332
-  altitude: 401.0
-  focal_length: 44.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 13.77
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 12:31:06.000000000+02:00
 - image_filename: 2024_10_21__12_25_PA210187.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.74777777777778
-  lon: 16.400277777777777
+  lat: 50.747875
+  lon: 16.400180555555554
   altitude: 437.0
   focal_length: 70.0
   aperture: 5.6
@@ -1110,10 +1090,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-10-21 12:25:47.000000000+02:00
+- image_filename: 2024_10_21__12_31_PA210194.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.74979166666667
+  lon: 16.403277777777777
+  altitude: 401.0
+  focal_length: 44.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 13.77
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 12:31:06.000000000+02:00
+- image_filename: 2024_10_21__12_32_PA210195.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.75038888888889
+  lon: 16.403736111111108
+  altitude: 389.0
+  focal_length: 12.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.01
+  iso: 200
+  width: 5690
+  height: 7851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 12:32:38.000000000+02:00
 - image_filename: 2024_10_21__12_36_PA210197.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.75194444444445
-  lon: 16.404999999999998
+  lat: 50.75204166666666
+  lon: 16.404916666666665
   altitude: 368.0
   focal_length: 21.0
   aperture: 6.3
@@ -1128,8 +1140,8 @@
   time: 2024-10-21 12:36:45.000000000+02:00
 - image_filename: 2024_10_21__12_41_DJI_0579.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.733333333333334
-  lon: 16.366666666666667
+  lat: 50.735825
+  lon: 16.37381388888889
   altitude: 458.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -1142,26 +1154,10 @@
   height: 6048
   camera: FC3582
   time: 2024-10-21 12:41:57.000000000+02:00
-- image_filename: 2024_10_21__12_32_PA210195.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.750277777777775
-  lon: 16.40361111111111
-  altitude: 389.0
-  focal_length: 12.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 2.01
-  iso: 200
-  width: 5690
-  height: 7851
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 12:32:38.000000000+02:00
 - image_filename: 2024_10_21__12_43_DJI_0583.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.733333333333334
-  lon: 16.383333333333333
+  lat: 50.73533611111111
+  lon: 16.377505555555555
   altitude: 467.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -1174,26 +1170,10 @@
   height: 6048
   camera: FC3582
   time: 2024-10-21 12:43:06.000000000+02:00
-- image_filename: 2024_10_21__12_45_DJI_0591.jpg
-  post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.733333333333334
-  lon: 16.366666666666667
-  altitude: 464.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 200
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2024-10-21 12:45:14.000000000+02:00
 - image_filename: 2024_10_21__12_45_DJI_0590.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.733333333333334
-  lon: 16.366666666666667
+  lat: 50.736866666666664
+  lon: 16.371794444444443
   altitude: 464.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -1206,26 +1186,26 @@
   height: 6048
   camera: FC3582
   time: 2024-10-21 12:45:05.000000000+02:00
-- image_filename: 2024_10_21__13_19_PA210203.jpg
+- image_filename: 2024_10_21__12_45_DJI_0591.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.75361111111111
-  lon: 16.418333333333333
-  altitude: 374.0
-  focal_length: 25.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 6.49
+  lat: 50.736866666666664
+  lon: 16.371794444444443
+  altitude: 464.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
   iso: 200
-  width: 8121
-  height: 6112
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-10-21 13:19:26.000000000+02:00
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-10-21 12:45:14.000000000+02:00
 - image_filename: 2024_10_21__12_46_DJI_0594.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.733333333333334
-  lon: 16.366666666666667
+  lat: 50.736525
+  lon: 16.369497222222222
   altitude: 464.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -1238,10 +1218,26 @@
   height: 6048
   camera: FC3582
   time: 2024-10-21 12:46:05.000000000+02:00
+- image_filename: 2024_10_21__13_19_PA210203.jpg
+  post_slug: 2024-10-21-okolica-zagorza-slaskiego
+  lat: 50.75369444444444
+  lon: 16.41840277777778
+  altitude: 374.0
+  focal_length: 25.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.49
+  iso: 200
+  width: 8121
+  height: 6112
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-10-21 13:19:26.000000000+02:00
 - image_filename: 2024_10_21__13_19_PA210204.jpg
   post_slug: 2024-10-21-okolica-zagorza-slaskiego
-  lat: 50.75361111111111
-  lon: 16.418333333333333
+  lat: 50.75365277777778
+  lon: 16.418430555555556
   altitude: 374.0
   focal_length: 31.0
   aperture: 5.6

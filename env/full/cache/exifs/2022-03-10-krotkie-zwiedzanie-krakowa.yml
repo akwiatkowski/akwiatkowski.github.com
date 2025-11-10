@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
 - image_filename: 2022_03_10__12_45_P3104626.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.38630555555555
@@ -19,24 +17,6 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
   time: 2022-03-10 12:45:28.000000000+01:00
-- image_filename: 2022_03_10__12_46_P3104646.jpg
-  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
-  lat: 50.370375
-  lon: 20.014319444444446
-  altitude: 364.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 3.2
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5066
-  height: 3672
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-03-10 12:46:29.000000000+01:00
 - image_filename: 2022_03_10__12_46_P3104636.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.37569444444444
@@ -55,6 +35,24 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
   time: 2022-03-10 12:46:10.000000000+01:00
+- image_filename: 2022_03_10__12_46_P3104646.jpg
+  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
+  lat: 50.370375
+  lon: 20.014319444444446
+  altitude: 364.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5066
+  height: 3672
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-03-10 12:46:29.000000000+01:00
 - image_filename: 2022_03_10__12_54_P3104675.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.278
@@ -73,24 +71,6 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
   time: 2022-03-10 12:54:53.000000000+01:00
-- image_filename: 2022_03_10__13_05_P3104732.jpg
-  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
-  lat: 50.138263888888886
-  lon: 20.094166666666666
-  altitude: 300.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 3.2
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 6.43
-  iso: 200
-  width: 5229
-  height: 3901
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-03-10 13:05:45.000000000+01:00
 - image_filename: 2022_03_10__13_05_P3104725.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.14809722222222
@@ -109,6 +89,24 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
   time: 2022-03-10 13:05:10.000000000+01:00
+- image_filename: 2022_03_10__13_05_P3104732.jpg
+  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
+  lat: 50.138263888888886
+  lon: 20.094166666666666
+  altitude: 300.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 6.43
+  iso: 200
+  width: 5229
+  height: 3901
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-03-10 13:05:45.000000000+01:00
 - image_filename: 2022_03_10__13_08_P3104748.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.11580555555555
@@ -199,6 +197,24 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-03-10 23:16:56.000000000+01:00
+- image_filename: 2022_03_10__23_19_P3104772.jpg
+  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
+  lat: 50.061375
+  lon: 19.935902777777777
+  altitude: 204.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7656
+  height: 5964
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-03-10 23:19:54.000000000+01:00
 - image_filename: 2022_03_10__23_20_P3104773.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.06126388888889
@@ -235,24 +251,6 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-03-10 23:21:49.000000000+01:00
-- image_filename: 2022_03_10__23_19_P3104772.jpg
-  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
-  lat: 50.061375
-  lon: 19.935902777777777
-  altitude: 204.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7656
-  height: 5964
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-03-10 23:19:54.000000000+01:00
 - image_filename: 2022_03_10__23_22_P3104777.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.061
@@ -307,24 +305,6 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-03-10 23:25:09.000000000+01:00
-- image_filename: 2022_03_11__00_00_P3114798.jpg
-  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
-  lat: 50.06184722222222
-  lon: 19.931722222222223
-  altitude: 199.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.125
-  exposure_string: 1/8 s
-  focus_distance: 17.0
-  iso: 200
-  width: 7507
-  height: 6109
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-03-11 00:00:38.000000000+01:00
 - image_filename: 2022_03_10__23_57_P3104795.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.06170833333333
@@ -343,24 +323,24 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-03-10 23:57:41.000000000+01:00
-- image_filename: 2022_03_11__00_38_P3114818.jpg
+- image_filename: 2022_03_11__00_00_P3114798.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
-  lat: 50.061097222222216
-  lon: 19.932194444444445
-  altitude: 212.0
+  lat: 50.06184722222222
+  lon: 19.931722222222223
+  altitude: 199.0
   focal_length: 17.0
   focal_length_35: 34.0
   crop: 2.0
   aperture: 1.2
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 15.69
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 17.0
   iso: 200
-  width: 8199
-  height: 6131
+  width: 7507
+  height: 6109
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
-  time: 2022-03-11 00:38:11.000000000+01:00
+  time: 2022-03-11 00:00:38.000000000+01:00
 - image_filename: 2022_03_11__00_35_P3114815.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.061097222222216
@@ -379,24 +359,24 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-03-11 00:35:43.000000000+01:00
-- image_filename: 2022_03_11__11_27_P3114867.jpg
+- image_filename: 2022_03_11__00_38_P3114818.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
-  lat: 50.272527777777775
-  lon: 19.272458333333333
-  altitude: 265.0
-  focal_length: 38.0
-  focal_length_35: 76.0
+  lat: 50.061097222222216
+  lon: 19.932194444444445
+  altitude: 212.0
+  focal_length: 17.0
+  focal_length_35: 34.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 24.71
+  aperture: 1.2
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 15.69
   iso: 200
-  width: 5213
-  height: 3877
-  lens: OLYMPUS M.12-100mm F4.0
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
-  time: 2022-03-11 11:27:42.000000000+01:00
+  time: 2022-03-11 00:38:11.000000000+01:00
 - image_filename: 2022_03_11__00_54_P3114830.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.061097222222216
@@ -415,6 +395,24 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-03-11 00:54:52.000000000+01:00
+- image_filename: 2022_03_11__11_27_P3114867.jpg
+  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
+  lat: 50.272527777777775
+  lon: 19.272458333333333
+  altitude: 265.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 24.71
+  iso: 200
+  width: 5213
+  height: 3877
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-11 11:27:42.000000000+01:00
 - image_filename: 2022_03_11__11_27_P3114872.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.274138888888885
@@ -433,6 +431,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-11 11:27:55.000000000+01:00
+- image_filename: 2022_03_11__11_29_P3114882.jpg
+  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
+  lat: 50.30172222222222
+  lon: 19.28701388888889
+  altitude: 278.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 5182
+  height: 3836
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-11 11:29:49.000000000+01:00
 - image_filename: 2022_03_11__12_54_P3114974.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.668416666666666
@@ -469,24 +485,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-11 13:04:15.000000000+01:00
-- image_filename: 2022_03_11__11_29_P3114882.jpg
-  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
-  lat: 50.30172222222222
-  lon: 19.28701388888889
-  altitude: 278.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 1000.0
-  iso: 320
-  width: 5182
-  height: 3836
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-11 11:29:49.000000000+01:00
 - image_filename: 2022_03_11__13_07_P3115072.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 50.808972222222216
@@ -541,24 +539,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-11 13:36:00.000000000+01:00
-- image_filename: 2022_03_11__13_41_P3115171.jpg
-  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
-  lat: 51.08729166666667
-  lon: 18.208055555555553
-  altitude: 191.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 37.4
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-11 13:41:16.000000000+01:00
 - image_filename: 2022_03_11__13_40_P3115164.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 51.07194444444445
@@ -577,24 +557,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-11 13:40:24.000000000+01:00
-- image_filename: 2022_03_11__13_58_P3115235.jpg
+- image_filename: 2022_03_11__13_41_P3115171.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
-  lat: 51.28809722222222
-  lon: 18.002777777777776
-  altitude: 170.0
-  focal_length: 50.0
-  focal_length_35: 100.0
+  lat: 51.08729166666667
+  lon: 18.208055555555553
+  altitude: 191.0
+  focal_length: 80.0
+  focal_length_35: 160.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 4.5
   exposure: 0.00125
   exposure_string: 1/800 s
-  focus_distance: 23.27
-  iso: 500
+  focus_distance: 37.4
+  iso: 320
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-03-11 13:58:43.000000000+01:00
+  time: 2022-03-11 13:41:16.000000000+01:00
 - image_filename: 2022_03_11__13_58_P3115231.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 51.28630555555555
@@ -613,6 +593,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-11 13:58:35.000000000+01:00
+- image_filename: 2022_03_11__13_58_P3115235.jpg
+  post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
+  lat: 51.28809722222222
+  lon: 18.002777777777776
+  altitude: 170.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 23.27
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-11 13:58:43.000000000+01:00
 - image_filename: 2022_03_11__13_58_P3115238.jpg
   post_slug: 2022-03-10-krotkie-zwiedzanie-krakowa
   lat: 51.28972222222222

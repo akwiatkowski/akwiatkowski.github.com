@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
 - image_filename: 2021_03_19__14_44__3191320.jpg
   post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
   lat: 50.75555555555555
@@ -19,6 +17,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-03-19 14:44:38.000000000+01:00
+- image_filename: 2021_03_19__14_56__3191333.jpg
+  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
+  lat: 50.71715277777778
+  lon: 17.15833333333333
+  altitude: 196.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.56
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-19 14:56:09.000000000+01:00
+- image_filename: 2021_03_19__14_56__3191338.jpg
+  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
+  lat: 50.71716666666667
+  lon: 17.158347222222222
+  altitude: 196.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 16.55
+  iso: 200
+  width: 4891
+  height: 3383
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-19 14:56:40.000000000+01:00
+- image_filename: 2021_03_19__14_57__3191350.jpg
+  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
+  lat: 50.71463888888889
+  lon: 17.157291666666666
+  altitude: 195.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-19 14:57:33.000000000+01:00
 - image_filename: 2021_03_19__15_11__3191358.jpg
   post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
   lat: 50.68431944444444
@@ -37,6 +89,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-03-19 15:11:45.000000000+01:00
+- image_filename: 2021_03_19__15_11__3191359.jpg
+  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
+  lat: 50.684236111111105
+  lon: 17.163402777777776
+  altitude: 196.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.74
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-19 15:11:46.000000000+01:00
 - image_filename: 2021_03_19__15_11__3191360.jpg
   post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
   lat: 50.683902777777774
@@ -55,24 +125,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-03-19 15:11:50.000000000+01:00
-- image_filename: 2021_03_19__15_46__3191409.jpg
+- image_filename: 2021_03_19__15_28__3191378.jpg
   post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.54509722222222
-  lon: 17.189444444444444
-  altitude: 303.0
-  focal_length: 35.0
-  focal_length_35: 70.0
+  lat: 50.60370833333334
+  lon: 17.17751388888889
+  altitude: 214.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 17.07
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 9.15
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-03-19 15:46:12.000000000+01:00
+  time: 2021-03-19 15:28:24.000000000+01:00
+- image_filename: 2021_03_19__15_38__3191398.jpg
+  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
+  lat: 50.571111111111115
+  lon: 17.15484722222222
+  altitude: 240.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.48
+  iso: 200
+  width: 4974
+  height: 3713
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-19 15:38:52.000000000+01:00
 - image_filename: 2021_03_19__15_38__3191400.jpg
   post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
   lat: 50.570861111111114
@@ -91,6 +179,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-03-19 15:38:58.000000000+01:00
+- image_filename: 2021_03_19__15_39__3191406.jpg
+  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
+  lat: 50.56995833333334
+  lon: 17.158583333333333
+  altitude: 242.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 190.51
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-19 15:39:16.000000000+01:00
+- image_filename: 2021_03_19__15_46__3191409.jpg
+  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
+  lat: 50.54509722222222
+  lon: 17.189444444444444
+  altitude: 303.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 17.07
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-19 15:46:12.000000000+01:00
 - image_filename: 2021_03_19__15_46__3191410.jpg
   post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
   lat: 50.54486111111111
@@ -145,6 +269,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-03-19 15:46:32.000000000+01:00
+- image_filename: 2021_03_19__15_46__3191420.jpg
+  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
+  lat: 50.54245833333333
+  lon: 17.197930555555555
+  altitude: 289.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 23.88
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-19 15:46:50.000000000+01:00
 - image_filename: 2021_03_19__15_47__3191421.jpg
   post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
   lat: 50.54245833333333
@@ -181,168 +323,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-03-19 15:52:29.000000000+01:00
-- image_filename: 2021_03_19__15_46__3191420.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.54245833333333
-  lon: 17.197930555555555
-  altitude: 289.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 23.88
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-19 15:46:50.000000000+01:00
-- image_filename: 2021_03_19__15_53__3191434.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.54340277777778
-  lon: 17.228180555555554
-  altitude: 238.0
-  focal_length: 158.0
-  focal_length_35: 316.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 26.94
-  iso: 200
-  width: 4988
-  height: 3724
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  time: 2021-03-19 15:53:35.000000000+01:00
-- image_filename: 2021_03_19__14_56__3191333.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.71715277777778
-  lon: 17.15833333333333
-  altitude: 196.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 25.56
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-19 14:56:09.000000000+01:00
-- image_filename: 2021_03_19__14_57__3191350.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.71463888888889
-  lon: 17.157291666666666
-  altitude: 195.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 4.43
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-19 14:57:33.000000000+01:00
-- image_filename: 2021_03_19__14_56__3191338.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.71716666666667
-  lon: 17.158347222222222
-  altitude: 196.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 16.55
-  iso: 200
-  width: 4891
-  height: 3383
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-19 14:56:40.000000000+01:00
-- image_filename: 2021_03_19__15_11__3191359.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.684236111111105
-  lon: 17.163402777777776
-  altitude: 196.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.74
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-19 15:11:46.000000000+01:00
-- image_filename: 2021_03_19__15_38__3191398.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.571111111111115
-  lon: 17.15484722222222
-  altitude: 240.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 25.48
-  iso: 200
-  width: 4974
-  height: 3713
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-19 15:38:52.000000000+01:00
-- image_filename: 2021_03_19__15_28__3191378.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.60370833333334
-  lon: 17.17751388888889
-  altitude: 214.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 9.15
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-19 15:28:24.000000000+01:00
-- image_filename: 2021_03_19__15_39__3191406.jpg
-  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
-  lat: 50.56995833333334
-  lon: 17.158583333333333
-  altitude: 242.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 190.51
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-19 15:39:16.000000000+01:00
 - image_filename: 2021_03_19__15_53__3191430.jpg
   post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
   lat: 50.543
@@ -379,6 +359,24 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-03-19 15:53:33.000000000+01:00
+- image_filename: 2021_03_19__15_53__3191434.jpg
+  post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
+  lat: 50.54340277777778
+  lon: 17.228180555555554
+  altitude: 238.0
+  focal_length: 158.0
+  focal_length_35: 316.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 26.94
+  iso: 200
+  width: 4988
+  height: 3724
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-19 15:53:35.000000000+01:00
 - image_filename: 2021_03_19__15_53__3191435.jpg
   post_slug: 2021-03-19-miedzy-strzelinem-a-nysa
   lat: 50.543388888888884

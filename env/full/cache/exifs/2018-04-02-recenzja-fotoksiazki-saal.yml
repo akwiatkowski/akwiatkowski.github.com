@@ -1,100 +1,100 @@
 ---
-- image_filename: IMGP6279raw1.jpg
-  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-04-02 16:01:34+02:00
 - image_filename: IMGP6263raw2.jpg
   post_slug: 2018-04-02-recenzja-fotoksiazki-saal
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
-  iso: 800
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-04-02 15:53:18+02:00
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2018-04-02 15:53:18.000000000+02:00
 - image_filename: IMGP6264raw1.jpg
   post_slug: 2018-04-02-recenzja-fotoksiazki-saal
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
-  iso: 800
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-04-02 15:53:49+02:00
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2018-04-02 15:53:49.000000000+02:00
 - image_filename: IMGP6271raw1.jpg
   post_slug: 2018-04-02-recenzja-fotoksiazki-saal
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
-  iso: 800
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2018-04-02 15:56:43+02:00
-- image_filename: IMGP6274raw1.jpg
-  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 400
+  iso: 800
   camera: PENTAX K-S2
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2018-04-02 15:59:28+02:00
-- image_filename: IMGP6276raw1.jpg
-  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2018-04-02 16:00:14+02:00
-- image_filename: IMGP6278raw1.jpg
-  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2018-04-02 16:01:25+02:00
-- image_filename: IMGP6277raw1.jpg
-  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-04-02 16:00:32+02:00
+  time: 2018-04-02 15:56:43.000000000+02:00
 - image_filename: IMGP6273raw1.jpg
   post_slug: 2018-04-02-recenzja-fotoksiazki-saal
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.1
   exposure_string: 1/10 s
-  time: 2018-04-02 15:58:52+02:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-02 15:58:52.000000000+02:00
+- image_filename: IMGP6274raw1.jpg
+  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.1
+  exposure_string: 1/10 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-02 15:59:28.000000000+02:00
+- image_filename: IMGP6276raw1.jpg
+  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-02 16:00:14.000000000+02:00
+- image_filename: IMGP6277raw1.jpg
+  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.04
+  exposure_string: 1/25 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-02 16:00:32.000000000+02:00
+- image_filename: IMGP6278raw1.jpg
+  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.05
+  exposure_string: 1/20 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-02 16:01:25.000000000+02:00
+- image_filename: IMGP6279raw1.jpg
+  post_slug: 2018-04-02-recenzja-fotoksiazki-saal
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-02 16:01:34.000000000+02:00

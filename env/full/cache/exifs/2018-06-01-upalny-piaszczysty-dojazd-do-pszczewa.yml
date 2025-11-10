@@ -1,30 +1,17 @@
 ---
-- image_filename: P6011715raw1.jpg
-  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-06-01 14:47:38+02:00
-  focus_distance: 1000.0
 - image_filename: P6011640raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
   aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 10.58
   iso: 320
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-06-01 10:18:27+02:00
-  focus_distance: 10.58
+  time: 2018-06-01 10:18:27.000000000+02:00
 - image_filename: P6011649raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
   lat: 52.403444444444446
@@ -34,149 +21,39 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 13.98
   iso: 320
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-01 10:52:00+02:00
-  focus_distance: 13.98
+  time: 2018-06-01 10:52:00.000000000+02:00
 - image_filename: P6011651raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 40.6
   iso: 320
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-06-01 11:18:09+02:00
-  focus_distance: 40.6
+  time: 2018-06-01 11:18:09.000000000+02:00
 - image_filename: P6011658raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2018-06-01 11:25:24+02:00
   focus_distance: 0.95
-- image_filename: P6011692raw1.jpg
-  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-06-01 12:29:17+02:00
-  focus_distance: 1000.0
-- image_filename: P6011699raw1.jpg
-  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-06-01 13:08:45+02:00
-  focus_distance: 1000.0
-- image_filename: P6011703raw1.jpg
-  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-06-01 14:20:18+02:00
-  focus_distance: 170.48
-- image_filename: P6011709raw1.jpg
-  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
-  lat: 52.46280555555556
-  lon: 15.778333333333334
-  altitude: 59.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-06-01 14:45:25+02:00
-  focus_distance: 1000.0
-- image_filename: P6011743raw1.jpg
-  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-06-01 15:32:03+02:00
-  focus_distance: 1000.0
-- image_filename: P6011759raw1.jpg
-  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
   iso: 320
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-06-01 15:53:28+02:00
-  focus_distance: 1000.0
-- image_filename: P6011701raw1.jpg
-  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
-  lat: 52.472458333333336
-  lon: 15.80625
-  altitude: 66.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-06-01 13:08:56+02:00
-  focus_distance: 10.27
-- image_filename: P6011686raw1.jpg
-  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-06-01 12:13:41+02:00
-  focus_distance: 132.35
+  time: 2018-06-01 11:25:24.000000000+02:00
 - image_filename: P6011669raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
   lat: 52.425875
@@ -186,10 +63,133 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 14.68
   iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-06-01 11:49:28+02:00
-  focus_distance: 14.68
+  time: 2018-06-01 11:49:28.000000000+02:00
+- image_filename: P6011686raw1.jpg
+  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 132.35
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-06-01 12:13:41.000000000+02:00
+- image_filename: P6011692raw1.jpg
+  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-01 12:29:17.000000000+02:00
+- image_filename: P6011699raw1.jpg
+  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-01 13:08:45.000000000+02:00
+- image_filename: P6011701raw1.jpg
+  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.472458333333336
+  lon: 15.80625
+  altitude: 66.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 10.27
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-01 13:08:56.000000000+02:00
+- image_filename: P6011703raw1.jpg
+  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.2
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 170.48
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-01 14:20:18.000000000+02:00
+- image_filename: P6011709raw1.jpg
+  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.46280555555556
+  lon: 15.778333333333334
+  altitude: 59.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-01 14:45:25.000000000+02:00
+- image_filename: P6011715raw1.jpg
+  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-01 14:47:38.000000000+02:00
+- image_filename: P6011743raw1.jpg
+  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-01 15:32:03.000000000+02:00
+- image_filename: P6011759raw1.jpg
+  post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1000.0
+  iso: 320
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-01 15:53:28.000000000+02:00

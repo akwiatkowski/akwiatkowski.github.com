@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
 - image_filename: 2021_12_11__08_25_PC110136.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -19,42 +17,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-11 08:25:59.000000000+01:00
-- image_filename: 2021_12_11__08_43_PC110145.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 4.03
-  iso: 200
-  width: 7700
-  height: 5758
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-11 08:43:01.000000000+01:00
-- image_filename: 2021_12_11__08_39_PC110140.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 3.38
-  iso: 200
-  width: 7971
-  height: 5960
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-11 08:39:10.000000000+01:00
 - image_filename: 2021_12_11__08_38_PC110139.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -73,7 +35,25 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-11 08:38:48.000000000+01:00
-- image_filename: 2021_12_11__08_44_PC110149.jpg
+- image_filename: 2021_12_11__08_39_PC110140.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.38
+  iso: 200
+  width: 7971
+  height: 5960
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-11 08:39:10.000000000+01:00
+- image_filename: 2021_12_11__08_43_PC110145.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -84,13 +64,13 @@
   aperture: 5.6
   exposure: 0.008
   exposure_string: 1/125 s
-  focus_distance: 13.72
+  focus_distance: 4.03
   iso: 200
-  width: 8037
-  height: 6010
+  width: 7700
+  height: 5758
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-11 08:44:48.000000000+01:00
+  time: 2021-12-11 08:43:01.000000000+01:00
 - image_filename: 2021_12_11__08_44_PC110148.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -109,6 +89,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-11 08:44:16.000000000+01:00
+- image_filename: 2021_12_11__08_44_PC110149.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 13.72
+  iso: 200
+  width: 8037
+  height: 6010
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-11 08:44:48.000000000+01:00
 - image_filename: 2021_12_11__09_01_PC110304.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -163,24 +161,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-11 09:21:16.000000000+01:00
-- image_filename: 2021_12_11__09_22_PC110520.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 41.58
-  iso: 200
-  width: 7939
-  height: 5937
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-11 09:22:12.000000000+01:00
 - image_filename: 2021_12_11__09_21_PC110519.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -199,6 +179,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-11 09:21:42.000000000+01:00
+- image_filename: 2021_12_11__09_22_PC110520.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 41.58
+  iso: 200
+  width: 7939
+  height: 5937
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-11 09:22:12.000000000+01:00
 - image_filename: 2021_12_11__09_24_PC110525.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -217,366 +215,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-11 09:24:26.000000000+01:00
-- image_filename: 2021_12_11__09_52_PC110791.jpg
+- image_filename: 2021_12_11__09_25_PC110526.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
   lon: 16.919805555555556
   altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 11.25
-  iso: 1600
-  width: 4159
-  height: 3180
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 09:52:18.000000000+01:00
-- image_filename: 2021_12_11__10_21_PC111182.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 5.61
-  iso: 500
-  width: 4458
-  height: 3043
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:21:21.000000000+01:00
-- image_filename: 2021_12_11__10_14_PC110953.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
+  focal_length: 75.0
+  focal_length_35: 150.0
   crop: 2.0
   aperture: 5.6
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 4.73
-  iso: 500
-  width: 3900
-  height: 3117
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:14:39.000000000+01:00
-- image_filename: 2021_12_11__09_45_PC110656.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 8.82
-  iso: 1250
-  width: 4458
-  height: 3370
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 09:45:15.000000000+01:00
-- image_filename: 2021_12_11__10_18_PC111092.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 4.03
-  iso: 500
-  width: 4082
-  height: 3084
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:18:47.000000000+01:00
-- image_filename: 2021_12_11__10_22_PC111207.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 2.89
-  iso: 500
-  width: 4942
-  height: 3607
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:22:59.000000000+01:00
-- image_filename: 2021_12_11__10_23_PC111216.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 5.38
-  iso: 500
-  width: 5094
-  height: 3836
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:23:06.000000000+01:00
-- image_filename: 2021_12_11__10_27_PC111316.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 62.33
-  iso: 500
-  width: 4330
-  height: 3335
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:27:33.000000000+01:00
-- image_filename: 2021_12_11__10_23_PC111240.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 4.91
-  iso: 500
-  width: 5090
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:23:14.000000000+01:00
-- image_filename: 2021_12_11__10_14_PC110924.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 5.89
-  iso: 500
-  width: 4271
-  height: 3390
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:14:05.000000000+01:00
-- image_filename: 2021_12_11__10_14_PC110917.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 5.91
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:14:04.000000000+01:00
-- image_filename: 2021_12_11__10_04_PC110840.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 10.39
+  focus_distance: 39.67
   iso: 200
-  width: 8199
-  height: 6131
+  width: 7637
+  height: 5777
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-11 10:04:41.000000000+01:00
-- image_filename: 2021_12_11__10_35_PC111331.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 48.04
-  iso: 200
-  width: 7761
-  height: 5804
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:35:31.000000000+01:00
-- image_filename: 2021_12_11__10_18_PC111094.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 4.03
-  iso: 500
-  width: 4322
-  height: 3225
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:18:47.000000000+01:00
-- image_filename: 2021_12_11__10_20_PC111143.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.26
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:20:56.000000000+01:00
-- image_filename: 2021_12_11__10_18_PC111041.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 4.27
-  iso: 500
-  width: 4563
-  height: 3126
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:18:14.000000000+01:00
-- image_filename: 2021_12_11__10_16_PC110996.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 4.07
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:16:16.000000000+01:00
-- image_filename: 2021_12_11__10_16_PC111006.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.44
-  iso: 500
-  width: 4836
-  height: 3164
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:16:43.000000000+01:00
-- image_filename: 2021_12_11__10_14_PC110932.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 6.55
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:14:13.000000000+01:00
-- image_filename: 2021_12_11__10_27_PC111309.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 60.72
-  iso: 500
-  width: 4251
-  height: 3050
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:27:07.000000000+01:00
+  time: 2021-12-11 09:25:05.000000000+01:00
 - image_filename: 2021_12_11__09_34_PC110574.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -595,187 +251,25 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-11 09:34:17.000000000+01:00
-- image_filename: 2021_12_11__10_34_PC111328.jpg
+- image_filename: 2021_12_11__09_39_PC110609.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
   lon: 16.919805555555556
   altitude: 0.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  focal_length: 420.0
+  focal_length_35: 840.0
   crop: 2.0
-  aperture: 8.0
+  aperture: 5.6
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 3.27
-  iso: 200
-  width: 5680
-  height: 7595
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:34:14.000000000+01:00
-- image_filename: 2021_12_11__10_09_PC110858.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 4.39
-  iso: 1250
-  width: 4884
-  height: 3422
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:09:58.000000000+01:00
-- image_filename: 2021_12_11__10_24_PC111293.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 7.38
+  focus_distance: 6.64
   iso: 500
-  width: 5240
-  height: 3912
+  width: 3349
+  height: 2601
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-11 10:24:34.000000000+01:00
-- image_filename: 2021_12_11__10_19_PC111123.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 5.99
-  iso: 500
-  width: 4198
-  height: 3025
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:19:35.000000000+01:00
-- image_filename: 2021_12_11__10_09_PC110856.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 4.4
-  iso: 1250
-  width: 5086
-  height: 3842
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:09:58.000000000+01:00
-- image_filename: 2021_12_11__10_22_PC111195.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 5.95
-  iso: 500
-  width: 4843
-  height: 3444
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:22:39.000000000+01:00
-- image_filename: 2021_12_11__10_01_PC110836.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 2.21
-  iso: 200
-  width: 7967
-  height: 5958
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:01:33.000000000+01:00
-- image_filename: 2021_12_11__10_21_PC111174.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.43
-  iso: 500
-  width: 3908
-  height: 2881
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:21:08.000000000+01:00
-- image_filename: 2021_12_11__10_23_PC111255.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 3.12
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:23:26.000000000+01:00
-- image_filename: 2021_12_11__10_11_PC110874.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.18
-  iso: 400
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:11:44.000000000+01:00
-- image_filename: 2021_12_11__10_23_PC111261.jpg
+  time: 2021-12-11 09:39:05.000000000+01:00
+- image_filename: 2021_12_11__09_45_PC110656.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -786,13 +280,31 @@
   aperture: 5.6
   exposure: 0.00625
   exposure_string: 1/160 s
-  focus_distance: 3.44
-  iso: 500
-  width: 5156
-  height: 3849
+  focus_distance: 8.82
+  iso: 1250
+  width: 4458
+  height: 3370
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-11 10:23:42.000000000+01:00
+  time: 2021-12-11 09:45:15.000000000+01:00
+- image_filename: 2021_12_11__09_45_PC110668.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 8.52
+  iso: 1250
+  width: 3721
+  height: 2586
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 09:45:58.000000000+01:00
 - image_filename: 2021_12_11__09_48_PC110692.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -811,7 +323,7 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-11 09:48:59.000000000+01:00
-- image_filename: 2021_12_11__10_21_PC111163.jpg
+- image_filename: 2021_12_11__09_52_PC110791.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -820,15 +332,15 @@
   focal_length_35: 840.0
   crop: 2.0
   aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.41
-  iso: 500
-  width: 4420
-  height: 3210
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 11.25
+  iso: 1600
+  width: 4159
+  height: 3180
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-11 10:21:05.000000000+01:00
+  time: 2021-12-11 09:52:18.000000000+01:00
 - image_filename: 2021_12_11__10_01_PC110835.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -847,7 +359,97 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-11 10:01:11.000000000+01:00
-- image_filename: 2021_12_11__10_20_PC111148.jpg
+- image_filename: 2021_12_11__10_01_PC110836.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.21
+  iso: 200
+  width: 7967
+  height: 5958
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:01:33.000000000+01:00
+- image_filename: 2021_12_11__10_04_PC110840.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 10.39
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:04:41.000000000+01:00
+- image_filename: 2021_12_11__10_05_PC110841.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.81
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:05:49.000000000+01:00
+- image_filename: 2021_12_11__10_09_PC110856.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.4
+  iso: 1250
+  width: 5086
+  height: 3842
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:09:58.000000000+01:00
+- image_filename: 2021_12_11__10_09_PC110858.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.39
+  iso: 1250
+  width: 4884
+  height: 3422
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:09:58.000000000+01:00
+- image_filename: 2021_12_11__10_11_PC110874.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -858,13 +460,265 @@
   aperture: 5.6
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 4.27
+  focus_distance: 4.18
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:11:44.000000000+01:00
+- image_filename: 2021_12_11__10_13_PC110907.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 7.24
+  iso: 500
+  width: 4356
+  height: 3154
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:13:54.000000000+01:00
+- image_filename: 2021_12_11__10_14_PC110917.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.91
   iso: 500
   width: 5240
   height: 3912
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-11 10:20:57.000000000+01:00
+  time: 2021-12-11 10:14:04.000000000+01:00
+- image_filename: 2021_12_11__10_14_PC110924.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.89
+  iso: 500
+  width: 4271
+  height: 3390
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:14:05.000000000+01:00
+- image_filename: 2021_12_11__10_14_PC110932.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.55
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:14:13.000000000+01:00
+- image_filename: 2021_12_11__10_14_PC110953.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.73
+  iso: 500
+  width: 3900
+  height: 3117
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:14:39.000000000+01:00
+- image_filename: 2021_12_11__10_14_PC110955.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.74
+  iso: 500
+  width: 3759
+  height: 3059
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:14:40.000000000+01:00
+- image_filename: 2021_12_11__10_14_PC110958.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.74
+  iso: 500
+  width: 3738
+  height: 3084
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:14:41.000000000+01:00
+- image_filename: 2021_12_11__10_15_PC110973.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 7.26
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:15:36.000000000+01:00
+- image_filename: 2021_12_11__10_15_PC110979.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 8.02
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:15:51.000000000+01:00
+- image_filename: 2021_12_11__10_16_PC110996.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.07
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:16:16.000000000+01:00
+- image_filename: 2021_12_11__10_16_PC111002.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.96
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:16:18.000000000+01:00
+- image_filename: 2021_12_11__10_16_PC111006.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.44
+  iso: 500
+  width: 4836
+  height: 3164
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:16:43.000000000+01:00
+- image_filename: 2021_12_11__10_16_PC111014.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.44
+  iso: 500
+  width: 4429
+  height: 3190
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:16:44.000000000+01:00
+- image_filename: 2021_12_11__10_18_PC111041.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 4.27
+  iso: 500
+  width: 4563
+  height: 3126
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:18:14.000000000+01:00
 - image_filename: 2021_12_11__10_18_PC111047.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -901,96 +755,6 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-11 10:18:21.000000000+01:00
-- image_filename: 2021_12_11__10_15_PC110973.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 7.26
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:15:36.000000000+01:00
-- image_filename: 2021_12_11__10_21_PC111170.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.43
-  iso: 500
-  width: 4193
-  height: 2940
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:21:07.000000000+01:00
-- image_filename: 2021_12_11__10_14_PC110958.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 4.74
-  iso: 500
-  width: 3738
-  height: 3084
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:14:41.000000000+01:00
-- image_filename: 2021_12_11__10_13_PC110907.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 7.24
-  iso: 500
-  width: 4356
-  height: 3154
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:13:54.000000000+01:00
-- image_filename: 2021_12_11__10_16_PC111002.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 3.96
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:16:18.000000000+01:00
 - image_filename: 2021_12_11__10_18_PC111063.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -1009,6 +773,42 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-11 10:18:22.000000000+01:00
+- image_filename: 2021_12_11__10_18_PC111092.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.03
+  iso: 500
+  width: 4082
+  height: 3084
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:18:47.000000000+01:00
+- image_filename: 2021_12_11__10_18_PC111094.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.03
+  iso: 500
+  width: 4322
+  height: 3225
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:18:47.000000000+01:00
 - image_filename: 2021_12_11__10_19_PC111105.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -1027,60 +827,6 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-11 10:19:31.000000000+01:00
-- image_filename: 2021_12_11__10_16_PC111014.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 4.44
-  iso: 500
-  width: 4429
-  height: 3190
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:16:44.000000000+01:00
-- image_filename: 2021_12_11__09_39_PC110609.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 6.64
-  iso: 500
-  width: 3349
-  height: 2601
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 09:39:05.000000000+01:00
-- image_filename: 2021_12_11__10_20_PC111133.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 4.06
-  iso: 500
-  width: 4939
-  height: 3417
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:20:35.000000000+01:00
 - image_filename: 2021_12_11__10_19_PC111119.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -1099,7 +845,7 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-11 10:19:33.000000000+01:00
-- image_filename: 2021_12_11__10_14_PC110955.jpg
+- image_filename: 2021_12_11__10_19_PC111123.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -1110,50 +856,14 @@
   aperture: 5.6
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 4.74
+  focus_distance: 5.99
   iso: 500
-  width: 3759
-  height: 3059
+  width: 4198
+  height: 3025
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-11 10:14:40.000000000+01:00
-- image_filename: 2021_12_11__09_25_PC110526.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 39.67
-  iso: 200
-  width: 7637
-  height: 5777
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-11 09:25:05.000000000+01:00
-- image_filename: 2021_12_11__10_05_PC110841.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 3.81
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-11 10:05:49.000000000+01:00
-- image_filename: 2021_12_11__09_45_PC110668.jpg
+  time: 2021-12-11 10:19:35.000000000+01:00
+- image_filename: 2021_12_11__10_20_PC111133.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -1164,31 +874,13 @@
   aperture: 5.6
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 8.52
-  iso: 1250
-  width: 3721
-  height: 2586
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2021-12-11 09:45:58.000000000+01:00
-- image_filename: 2021_12_11__10_15_PC110979.jpg
-  post_slug: 2021-12-11-szybki-zimowy-wschod
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 8.02
+  focus_distance: 4.06
   iso: 500
-  width: 5240
-  height: 3912
+  width: 4939
+  height: 3417
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-11 10:15:51.000000000+01:00
+  time: 2021-12-11 10:20:35.000000000+01:00
 - image_filename: 2021_12_11__10_20_PC111136.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -1207,7 +899,7 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-11 10:20:50.000000000+01:00
-- image_filename: 2021_12_11__10_21_PC111186.jpg
+- image_filename: 2021_12_11__10_20_PC111143.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -1216,15 +908,15 @@
   focal_length_35: 840.0
   crop: 2.0
   aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 5.62
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.26
   iso: 500
-  width: 4508
-  height: 3250
+  width: 5240
+  height: 3912
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
-  time: 2021-12-11 10:21:22.000000000+01:00
+  time: 2021-12-11 10:20:56.000000000+01:00
 - image_filename: 2021_12_11__10_20_PC111145.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -1243,6 +935,168 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-11 10:20:57.000000000+01:00
+- image_filename: 2021_12_11__10_20_PC111148.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.27
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:20:57.000000000+01:00
+- image_filename: 2021_12_11__10_21_PC111163.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.41
+  iso: 500
+  width: 4420
+  height: 3210
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:21:05.000000000+01:00
+- image_filename: 2021_12_11__10_21_PC111170.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.43
+  iso: 500
+  width: 4193
+  height: 2940
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:21:07.000000000+01:00
+- image_filename: 2021_12_11__10_21_PC111174.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.43
+  iso: 500
+  width: 3908
+  height: 2881
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:21:08.000000000+01:00
+- image_filename: 2021_12_11__10_21_PC111182.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 5.61
+  iso: 500
+  width: 4458
+  height: 3043
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:21:21.000000000+01:00
+- image_filename: 2021_12_11__10_21_PC111186.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 5.62
+  iso: 500
+  width: 4508
+  height: 3250
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:21:22.000000000+01:00
+- image_filename: 2021_12_11__10_22_PC111195.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.95
+  iso: 500
+  width: 4843
+  height: 3444
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:22:39.000000000+01:00
+- image_filename: 2021_12_11__10_22_PC111207.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.89
+  iso: 500
+  width: 4942
+  height: 3607
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:22:59.000000000+01:00
+- image_filename: 2021_12_11__10_23_PC111216.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 5.38
+  iso: 500
+  width: 5094
+  height: 3836
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:23:06.000000000+01:00
 - image_filename: 2021_12_11__10_23_PC111232.jpg
   post_slug: 2021-12-11-szybki-zimowy-wschod
   lat: 52.36756944444444
@@ -1261,3 +1115,147 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2021-12-11 10:23:13.000000000+01:00
+- image_filename: 2021_12_11__10_23_PC111240.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.91
+  iso: 500
+  width: 5090
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:23:14.000000000+01:00
+- image_filename: 2021_12_11__10_23_PC111255.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.12
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:23:26.000000000+01:00
+- image_filename: 2021_12_11__10_23_PC111261.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.44
+  iso: 500
+  width: 5156
+  height: 3849
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:23:42.000000000+01:00
+- image_filename: 2021_12_11__10_24_PC111293.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 7.38
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:24:34.000000000+01:00
+- image_filename: 2021_12_11__10_27_PC111309.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 60.72
+  iso: 500
+  width: 4251
+  height: 3050
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:27:07.000000000+01:00
+- image_filename: 2021_12_11__10_27_PC111316.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 62.33
+  iso: 500
+  width: 4330
+  height: 3335
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:27:33.000000000+01:00
+- image_filename: 2021_12_11__10_34_PC111328.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.27
+  iso: 200
+  width: 5680
+  height: 7595
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:34:14.000000000+01:00
+- image_filename: 2021_12_11__10_35_PC111331.jpg
+  post_slug: 2021-12-11-szybki-zimowy-wschod
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 48.04
+  iso: 200
+  width: 7761
+  height: 5804
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-11 10:35:31.000000000+01:00

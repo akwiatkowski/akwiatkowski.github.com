@@ -1,324 +1,304 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-01-03-zimowe-sikorki
-- image_filename: 2021_01_03__13_11__1036331.jpg
-  post_slug: 2021-01-03-zimowe-sikorki
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 1250
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4867
-  height: 3546
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2021-01-03 13:11:25+01:00
-  focus_distance: 6.53
 - image_filename: 2021_01_03__13_08__1036323.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 80.0
   focal_length_35: 160.0
   crop: 2.0
   aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.72
   iso: 3200
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2021-01-03 13:08:54+01:00
-  focus_distance: 6.72
-- image_filename: 2021_01_03__13_14__1036347.jpg
-  post_slug: 2021-01-03-zimowe-sikorki
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 3200
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  width: 3798
-  height: 2984
+  time: 2021-01-03 13:08:54.000000000+01:00
+- image_filename: 2021_01_03__13_11__1036331.jpg
+  post_slug: 2021-01-03-zimowe-sikorki
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 6.3
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2021-01-03 13:14:21+01:00
-  focus_distance: 3.61
+  focus_distance: 6.53
+  iso: 1250
+  width: 4867
+  height: 3546
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:11:25.000000000+01:00
 - image_filename: 2021_01_03__13_14__1036341.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 3200
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4897
-  height: 3739
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2021-01-03 13:14:18+01:00
   focus_distance: 3.55
-- image_filename: 2021_01_03__13_17__1036396.jpg
+  iso: 3200
+  width: 4897
+  height: 3739
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:14:18.000000000+01:00
+- image_filename: 2021_01_03__13_14__1036347.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2500
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.61
+  iso: 3200
+  width: 3798
+  height: 2984
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  width: 4009
-  height: 2985
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2021-01-03 13:17:57+01:00
-  focus_distance: 3.71
+  time: 2021-01-03 13:14:21.000000000+01:00
 - image_filename: 2021_01_03__13_17__1036374.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 3200
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2021-01-03 13:17:42+01:00
   focus_distance: 2.55
+  iso: 3200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:17:42.000000000+01:00
 - image_filename: 2021_01_03__13_17__1036379.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 3200
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5101
-  height: 3808
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2021-01-03 13:17:43+01:00
   focus_distance: 2.54
-- image_filename: 2021_01_03__13_27__1036537.jpg
+  iso: 3200
+  width: 5101
+  height: 3808
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:17:43.000000000+01:00
+- image_filename: 2021_01_03__13_17__1036396.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.71
+  iso: 2500
+  width: 4009
+  height: 2985
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  width: 4819
-  height: 3426
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2021-01-03 13:27:27+01:00
-  focus_distance: 3.26
-- image_filename: 2021_01_03__13_24__1036516.jpg
-  post_slug: 2021-01-03-zimowe-sikorki
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4692
-  height: 3363
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2021-01-03 13:24:55+01:00
-  focus_distance: 5.82
+  time: 2021-01-03 13:17:57.000000000+01:00
 - image_filename: 2021_01_03__13_23__1036467.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.75
   iso: 2500
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
   width: 4897
   height: 3379
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2021-01-03 13:23:20+01:00
-  focus_distance: 4.75
-- image_filename: 2021_01_03__13_39__1036629.jpg
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:23:20.000000000+01:00
+- image_filename: 2021_01_03__13_24__1036516.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 5.82
   iso: 2000
+  width: 4692
+  height: 3363
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  width: 4732
-  height: 3608
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2021-01-03 13:39:11+01:00
-  focus_distance: 2.79
-- image_filename: 2021_01_03__13_39__1036631.jpg
+  time: 2021-01-03 13:24:55.000000000+01:00
+- image_filename: 2021_01_03__13_27__1036537.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.26
   iso: 2000
+  width: 4819
+  height: 3426
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2021-01-03 13:39:11+01:00
-  focus_distance: 2.81
+  time: 2021-01-03 13:27:27.000000000+01:00
 - image_filename: 2021_01_03__13_29__1036552.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4590
-  height: 3454
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2021-01-03 13:29:22+01:00
   focus_distance: 5.76
+  iso: 2000
+  width: 4590
+  height: 3454
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:29:22.000000000+01:00
+- image_filename: 2021_01_03__13_39__1036629.jpg
+  post_slug: 2021-01-03-zimowe-sikorki
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.79
+  iso: 2000
+  width: 4732
+  height: 3608
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:39:11.000000000+01:00
+- image_filename: 2021_01_03__13_39__1036631.jpg
+  post_slug: 2021-01-03-zimowe-sikorki
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.81
+  iso: 2000
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:39:11.000000000+01:00
 - image_filename: 2021_01_03__13_43__1036672.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 3200
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4722
-  height: 3303
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2021-01-03 13:43:52+01:00
   focus_distance: 4.18
+  iso: 3200
+  width: 4722
+  height: 3303
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:43:52.000000000+01:00
 - image_filename: 2021_01_03__13_50__1036733.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 150.0
   focal_length_35: 300.0
   crop: 2.0
   aperture: 2.8
-  iso: 800
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 3643
-  height: 3234
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2021-01-03 13:50:51+01:00
   focus_distance: 3.2
+  iso: 800
+  width: 3643
+  height: 3234
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2021-01-03 13:50:51.000000000+01:00
 - image_filename: 2021_01_03__13_56__1036773.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.86
   iso: 1600
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
   width: 5126
   height: 3827
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2021-01-03 13:56:59+01:00
-  focus_distance: 3.86
-- image_filename: 2021_01_03__14_01__1036901.jpg
-  post_slug: 2021-01-03-zimowe-sikorki
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 2000
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  width: 4288
-  height: 2949
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2021-01-03 14:01:58+01:00
-  focus_distance: 4.59
-- image_filename: 2021_01_03__14_02__1036909.jpg
-  post_slug: 2021-01-03-zimowe-sikorki
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4418
-  height: 3132
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2021-01-03 14:02:04+01:00
-  focus_distance: 2.93
+  time: 2021-01-03 13:56:59.000000000+01:00
 - image_filename: 2021_01_03__13_57__1036779.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 1600
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5215
-  height: 3893
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2021-01-03 13:57:01+01:00
   focus_distance: 3.88
+  iso: 1600
+  width: 5215
+  height: 3893
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 13:57:01.000000000+01:00
+- image_filename: 2021_01_03__14_01__1036901.jpg
+  post_slug: 2021-01-03-zimowe-sikorki
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.59
+  iso: 2000
+  width: 4288
+  height: 2949
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:01:58.000000000+01:00
+- image_filename: 2021_01_03__14_02__1036909.jpg
+  post_slug: 2021-01-03-zimowe-sikorki
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.93
+  iso: 2000
+  width: 4418
+  height: 3132
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:02:04.000000000+01:00
 - image_filename: 2021_01_03__14_02__1036924.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4707
-  height: 3177
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2021-01-03 14:02:40+01:00
   focus_distance: 4.42
-- image_filename: 2021_01_03__14_10__1037050.jpg
-  post_slug: 2021-01-03-zimowe-sikorki
-  lat: 52.38172222222222
-  lon: 16.916124999999997
-  altitude: 107.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
   iso: 2000
+  width: 4707
+  height: 3177
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  width: 4429
-  height: 3042
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2021-01-03 14:10:02+01:00
-  focus_distance: 2.92
+  time: 2021-01-03 14:02:40.000000000+01:00
 - image_filename: 2021_01_03__14_07__1037011.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   lat: 52.38097222222222
@@ -328,33 +308,33 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4690
-  height: 3363
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2021-01-03 14:07:49+01:00
   focus_distance: 2.92
-- image_filename: 2021_01_03__14_12__1037131.jpg
+  iso: 2000
+  width: 4690
+  height: 3363
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:07:49.000000000+01:00
+- image_filename: 2021_01_03__14_10__1037050.jpg
   post_slug: 2021-01-03-zimowe-sikorki
-  lat: 52.383833333333335
-  lon: 16.91776388888889
-  altitude: 104.0
+  lat: 52.38172222222222
+  lon: 16.916124999999997
+  altitude: 107.0
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.92
   iso: 2000
+  width: 4429
+  height: 3042
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  width: 4742
-  height: 3605
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2021-01-03 14:12:54+01:00
-  focus_distance: 4.0
+  time: 2021-01-03 14:10:02.000000000+01:00
 - image_filename: 2021_01_03__14_12__1037111.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   lat: 52.38366666666666
@@ -364,15 +344,33 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 3777
-  height: 3034
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2021-01-03 14:12:34+01:00
   focus_distance: 5.36
+  iso: 2000
+  width: 3777
+  height: 3034
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:12:34.000000000+01:00
+- image_filename: 2021_01_03__14_12__1037131.jpg
+  post_slug: 2021-01-03-zimowe-sikorki
+  lat: 52.383833333333335
+  lon: 16.91776388888889
+  altitude: 104.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.0
+  iso: 2000
+  width: 4742
+  height: 3605
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:12:54.000000000+01:00
 - image_filename: 2021_01_03__14_13__1037157.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   lat: 52.383944444444445
@@ -382,15 +380,15 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4076
-  height: 3280
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2021-01-03 14:13:29+01:00
   focus_distance: 4.21
+  iso: 2000
+  width: 4076
+  height: 3280
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:13:29.000000000+01:00
 - image_filename: 2021_01_03__14_14__1037189.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   lat: 52.38368055555556
@@ -400,15 +398,15 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5048
-  height: 3685
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2021-01-03 14:14:50+01:00
   focus_distance: 4.07
+  iso: 2000
+  width: 5048
+  height: 3685
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:14:50.000000000+01:00
 - image_filename: 2021_01_03__14_16__1037219.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   lat: 52.38323611111111
@@ -418,15 +416,15 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4349
-  height: 3688
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2021-01-03 14:16:38+01:00
   focus_distance: 2.33
+  iso: 2000
+  width: 4349
+  height: 3688
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:16:38.000000000+01:00
 - image_filename: 2021_01_03__14_16__1037233.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   lat: 52.38319444444444
@@ -436,15 +434,15 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 3927
-  height: 3001
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2021-01-03 14:16:48+01:00
   focus_distance: 4.57
+  iso: 2000
+  width: 3927
+  height: 3001
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:16:48.000000000+01:00
 - image_filename: 2021_01_03__14_17__1037245.jpg
   post_slug: 2021-01-03-zimowe-sikorki
   lat: 52.38316666666667
@@ -454,12 +452,12 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
-  iso: 2000
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2021-01-03 14:17:33+01:00
   focus_distance: 2.07
+  iso: 2000
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-01-03 14:17:33.000000000+01:00

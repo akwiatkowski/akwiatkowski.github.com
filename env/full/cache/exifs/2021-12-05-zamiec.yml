@@ -1,668 +1,5 @@
 ---
-- image_filename: 2021_12_05__13_03_DSC02749.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65148611111111
-  lon: 17.11527777777778
-  altitude: 71.0
-  focal_length: 151.3
-  focal_length_35: 151.0
-  crop: 0.9980171844018505
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 320
-  width: 5812
-  height: 3867
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 13:03:45.000000000+01:00
-- image_filename: 2021_12_05__10_45_DSC02335.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.62940277777778
-  lon: 17.10676388888889
-  altitude: 85.0
-  focal_length: 43.0
-  focal_length_35: 43.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 10:45:59.000000000+01:00
-- image_filename: 2021_12_05__13_52_DSC02890.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.665416666666665
-  lon: 17.139569444444444
-  altitude: 77.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  iso: 400
-  width: 5903
-  height: 3927
-  lens: E 20mm F2
-  camera: ILCE-7M3
-  time: 2021-12-05 13:52:29.000000000+01:00
-- image_filename: 2021_12_05__11_09_DSC02434.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.636180555555555
-  lon: 17.108305555555557
-  altitude: 94.0
-  focal_length: 231.8
-  focal_length_35: 231.0
-  crop: 0.996548748921484
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 400
-  width: 5604
-  height: 3729
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 11:09:06.000000000+01:00
-- image_filename: 2021_12_05__11_24_DSC02488.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.64175
-  lon: 17.11243055555556
-  altitude: 91.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 11:24:19.000000000+01:00
-- image_filename: 2021_12_05__11_22_DSC02474.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.64127777777778
-  lon: 17.112972222222222
-  altitude: 93.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 11:22:25.000000000+01:00
-- image_filename: 2021_12_05__12_43_DSC02718.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.652652777777774
-  lon: 17.115347222222223
-  altitude: 95.0
-  focal_length: 227.1
-  focal_length_35: 227.0
-  crop: 0.9995596653456628
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 400
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 12:43:11.000000000+01:00
-- image_filename: 2021_12_05__10_40_DSC02322.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.62802777777778
-  lon: 17.105555555555558
-  altitude: 88.0
-  focal_length: 203.9
-  focal_length_35: 203.0
-  crop: 0.9955860716037273
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:40:57.000000000+01:00
-- image_filename: 2021_12_05__13_48_DSC02870.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.664541666666665
-  lon: 17.137569444444445
-  altitude: 74.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 13:48:20.000000000+01:00
-- image_filename: 2021_12_05__10_54_DSC02348.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.633625
-  lon: 17.106847222222225
-  altitude: 83.0
-  focal_length: 49.0
-  focal_length_35: 49.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 160
-  width: 5902
-  height: 3832
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 10:54:01.000000000+01:00
-- image_filename: 2021_12_05__10_22_DSC02254.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.622875
-  lon: 17.100180555555557
-  altitude: 83.0
-  focal_length: 320.7
-  focal_length_35: 320.0
-  crop: 0.9978172747115684
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 800
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:22:28.000000000+01:00
-- image_filename: 2021_12_05__12_59_DSC02733.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.651666666666664
-  lon: 17.115625
-  altitude: 75.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5480
-  height: 3670
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 12:59:19.000000000+01:00
-- image_filename: 2021_12_05__10_29_DSC02273.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.62569444444444
-  lon: 17.103486111111113
-  altitude: 84.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 1250
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:29:04.000000000+01:00
-- image_filename: 2021_12_05__11_49_DSC02573.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.64727777777778
-  lon: 17.104583333333334
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 11:49:56.000000000+01:00
-- image_filename: 2021_12_05__11_53_DSC02587.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.64773611111111
-  lon: 17.104319444444446
-  altitude: 82.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 11:53:08.000000000+01:00
-- image_filename: 2021_12_05__10_07_DSC02177.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.61675
-  lon: 17.0945
-  altitude: 87.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 5940
-  height: 3952
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 10:07:02.000000000+01:00
-- image_filename: 2021_12_05__13_07_DSC02764.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65222222222222
-  lon: 17.115333333333336
-  altitude: 82.0
-  focal_length: 260.3
-  focal_length_35: 260.0
-  crop: 0.9988474836726853
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 640
-  width: 5168
-  height: 3572
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 13:07:56.000000000+01:00
-- image_filename: 2021_12_05__12_10_DSC02659.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.650999999999996
-  lon: 17.103805555555557
-  altitude: 77.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 12:10:29.000000000+01:00
-- image_filename: 2021_12_05__10_59_DSC02411.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.63469444444444
-  lon: 17.105625
-  altitude: 87.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 1000
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:59:37.000000000+01:00
-- image_filename: 2021_12_05__09_56_DSC02146.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.59577777777778
-  lon: 17.048861111111112
-  altitude: 90.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 160
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:56:04.000000000+01:00
-- image_filename: 2021_12_05__11_31_DSC02506.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.643652777777774
-  lon: 17.110000000000003
-  altitude: 89.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5850
-  height: 3892
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 11:31:12.000000000+01:00
-- image_filename: 2021_12_05__10_14_DSC02220.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.62001388888889
-  lon: 17.096999999999998
-  altitude: 87.0
-  focal_length: 294.1
-  focal_length_35: 294.0
-  crop: 0.9996599795987758
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 320
-  width: 5933
-  height: 3947
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:14:02.000000000+01:00
-- image_filename: 2021_12_05__11_24_DSC02486.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.641666666666666
-  lon: 17.11252777777778
-  altitude: 91.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 11:24:07.000000000+01:00
-- image_filename: 2021_12_05__11_56_DSC02610.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.64811111111111
-  lon: 17.104069444444445
-  altitude: 81.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 125
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 11:56:52.000000000+01:00
-- image_filename: 2021_12_05__10_12_DSC02207.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.61944444444445
-  lon: 17.096319444444443
-  altitude: 87.0
-  focal_length: 290.9
-  focal_length_35: 290.0
-  crop: 0.9969061533172913
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:12:51.000000000+01:00
-- image_filename: 2021_12_05__13_49_DSC02877.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.665083333333335
-  lon: 17.138069444444444
-  altitude: 74.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 320
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 13:49:39.000000000+01:00
-- image_filename: 2021_12_05__13_40_DSC02849.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.66101388888889
-  lon: 17.132916666666667
-  altitude: 79.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 5730
-  height: 3812
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 13:40:32.000000000+01:00
-- image_filename: 2021_12_05__15_09_DSC02928.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.67084722222222
-  lon: 17.15209722222222
-  altitude: 76.0
-  focal_length: 37.0
-  focal_length_35: 37.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 400
-  width: 5766
-  height: 3919
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 15:09:25.000000000+01:00
-- image_filename: 2021_12_05__12_42_DSC02714.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65318055555555
-  lon: 17.11552777777778
-  altitude: 97.0
-  focal_length: 239.8
-  focal_length_35: 239.0
-  crop: 0.9966638865721434
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 200
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 12:42:09.000000000+01:00
-- image_filename: 2021_12_05__11_00_DSC02419.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.634680555555555
-  lon: 17.10576388888889
-  altitude: 86.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 800
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 11:00:27.000000000+01:00
-- image_filename: 2021_12_05__10_38_DSC02317.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.628
-  lon: 17.10552777777778
-  altitude: 87.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 500
-  width: 4413
-  height: 3248
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:38:47.000000000+01:00
-- image_filename: 2021_12_05__10_19_DSC02243.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.62198611111111
-  lon: 17.099180555555556
-  altitude: 87.0
-  focal_length: 277.9
-  focal_length_35: 277.0
-  crop: 0.996761424973012
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 800
-  width: 6033
-  height: 4014
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:19:36.000000000+01:00
-- image_filename: 2021_12_05__09_33_DSC01952.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.50406944444445
-  lon: 16.988694444444445
-  altitude: 75.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 250
-  width: 4730
-  height: 3113
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:33:27.000000000+01:00
-- image_filename: 2021_12_05__12_26_DSC02712.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.655763888888885
-  lon: 17.10943055555556
-  altitude: 89.0
-  focal_length: 189.1
-  focal_length_35: 189.0
-  crop: 0.9994711792702274
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5877
-  height: 3910
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 12:26:45.000000000+01:00
-- image_filename: 2021_12_05__11_13_DSC02442.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.63822222222222
-  lon: 17.110541666666666
-  altitude: 97.0
-  focal_length: 220.6
-  focal_length_35: 220.0
-  crop: 0.9972801450589303
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 250
-  width: 5414
-  height: 3565
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 11:13:20.000000000+01:00
-- image_filename: 2021_12_05__15_21_DSC02959.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.672805555555556
-  lon: 17.160874999999997
-  altitude: 82.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  iso: 500
-  width: 5755
-  height: 3999
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 15:21:58.000000000+01:00
-- image_filename: 2021_12_05__10_14_DSC02224.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.620111111111115
-  lon: 17.097069444444443
-  altitude: 85.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:14:51.000000000+01:00
-- image_filename: 2021_12_05__09_55_DSC02128.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.59413888888889
-  lon: 17.045472222222223
-  altitude: 92.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 250
-  width: 5740
-  height: 3819
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:55:53.000000000+01:00
-- image_filename: 2021_12_05__15_43_DSC02983.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.67454166666666
-  lon: 17.162041666666664
-  altitude: 81.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 2000
-  width: 5710
-  height: 3711
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 15:43:26.000000000+01:00
-- image_filename: 2021_12_05__09_13_DSC01773.jpg
+- image_filename: 2021_12_05__08_52_DSC01730.jpg
   post_slug: 2021-12-05-zamiec
   lat: 52.417291666666664
   lon: 16.930583333333335
@@ -671,150 +8,48 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 400
-  width: 5877
-  height: 3752
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:13:31.000000000+01:00
-- image_filename: 2021_12_05__09_17_DSC01862.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.41418055555555
-  lon: 16.951305555555553
-  altitude: 60.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 320
-  width: 5897
-  height: 3796
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:17:37.000000000+01:00
-- image_filename: 2021_12_05__10_33_DSC02293.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.627027777777776
-  lon: 17.104597222222225
-  altitude: 87.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:33:26.000000000+01:00
-- image_filename: 2021_12_05__09_49_DSC02057.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.56518055555555
-  lon: 17.008569444444444
-  altitude: 70.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 160
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:49:12.000000000+01:00
-- image_filename: 2021_12_05__13_03_DSC02750.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65148611111111
-  lon: 17.11527777777778
-  altitude: 71.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 200
-  width: 6024
-  height: 4008
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 13:03:48.000000000+01:00
-- image_filename: 2021_12_05__15_06_DSC02920.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.67061111111111
-  lon: 17.150555555555552
-  altitude: 75.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 2.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 100
-  width: 5010
-  height: 3145
-  lens: E 20mm F2
-  camera: ILCE-7M3
-  time: 2021-12-05 15:06:58.000000000+01:00
-- image_filename: 2021_12_05__13_03_DSC02746.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65148611111111
-  lon: 17.115291666666668
-  altitude: 71.0
-  focal_length: 134.2
-  focal_length_35: 134.0
-  crop: 0.9985096870342773
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 250
-  width: 5770
-  height: 3839
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  width: 4024
+  height: 6048
+  lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-12-05 13:03:15.000000000+01:00
-- image_filename: 2021_12_05__09_46_DSC01993.jpg
+  time: 2021-12-05 08:52:32.000000000+01:00
+- image_filename: 2021_12_05__08_53_DSC01733.jpg
   post_slug: 2021-12-05-zamiec
-  lat: 52.54366666666667
-  lon: 16.978624999999997
-  altitude: 65.0
+  lat: 52.417291666666664
+  lon: 16.930583333333335
+  altitude: 151.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
-  aperture: 2.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5945
-  height: 3955
+  aperture: 1.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 5769
+  height: 3838
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-12-05 09:46:07.000000000+01:00
-- image_filename: 2021_12_05__11_54_DSC02595.jpg
+  time: 2021-12-05 08:53:06.000000000+01:00
+- image_filename: 2021_12_05__08_58_DSC01753.jpg
   post_slug: 2021-12-05-zamiec
-  lat: 52.64808333333333
-  lon: 17.104083333333335
-  altitude: 81.0
-  focal_length: 354.1
-  focal_length_35: 354.0
-  crop: 0.9997175939000281
+  lat: 52.417291666666664
+  lon: 16.930583333333335
+  altitude: 151.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
   aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 800
-  width: 6048
-  height: 4024
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 8000
+  width: 5976
+  height: 3976
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  time: 2021-12-05 11:54:44.000000000+01:00
+  time: 2021-12-05 08:58:28.000000000+01:00
 - image_filename: 2021_12_05__08_58_DSC01756.jpg
   post_slug: 2021-12-05-zamiec
   lat: 52.417291666666664
@@ -832,44 +67,282 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-12-05 08:58:58.000000000+01:00
-- image_filename: 2021_12_05__11_16_DSC02454.jpg
+- image_filename: 2021_12_05__09_13_DSC01773.jpg
   post_slug: 2021-12-05-zamiec
-  lat: 52.63908333333333
-  lon: 17.11152777777778
-  altitude: 94.0
+  lat: 52.417291666666664
+  lon: 16.930583333333335
+  altitude: 151.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 5900
-  height: 3925
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  width: 5877
+  height: 3752
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-12-05 11:16:37.000000000+01:00
-- image_filename: 2021_12_05__11_35_DSC02522.jpg
+  time: 2021-12-05 09:13:31.000000000+01:00
+- image_filename: 2021_12_05__09_16_DSC01818.jpg
   post_slug: 2021-12-05-zamiec
-  lat: 52.643791666666665
-  lon: 17.108208333333334
-  altitude: 90.0
-  focal_length: 20.0
-  focal_length_35: 20.0
+  lat: 52.416263888888885
+  lon: 16.937763888888888
+  altitude: 107.0
+  focal_length: 85.0
+  focal_length_35: 85.0
   crop: 1.0
-  aperture: 8.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 100
-  width: 5866
-  height: 3903
-  lens: E 20mm F2
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 320
+  width: 5860
+  height: 3761
+  lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-12-05 11:35:52.000000000+01:00
-- image_filename: 2021_12_05__10_55_DSC02356.jpg
+  time: 2021-12-05 09:16:13.000000000+01:00
+- image_filename: 2021_12_05__09_17_DSC01862.jpg
   post_slug: 2021-12-05-zamiec
-  lat: 52.634569444444445
-  lon: 17.105222222222224
+  lat: 52.414180555555554
+  lon: 16.951305555555553
+  altitude: 60.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 320
+  width: 5897
+  height: 3796
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:17:37.000000000+01:00
+- image_filename: 2021_12_05__09_33_DSC01952.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.50406944444445
+  lon: 16.988694444444445
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 250
+  width: 4730
+  height: 3113
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:33:27.000000000+01:00
+- image_filename: 2021_12_05__09_46_DSC01993.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.54366666666667
+  lon: 16.978624999999997
+  altitude: 65.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5945
+  height: 3955
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:46:07.000000000+01:00
+- image_filename: 2021_12_05__09_46_DSC02022.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.551111111111105
+  lon: 16.987486111111114
+  altitude: 65.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 6046
+  height: 4022
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:46:56.000000000+01:00
+- image_filename: 2021_12_05__09_48_DSC02054.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.56348611111111
+  lon: 17.00713888888889
+  altitude: 67.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:48:42.000000000+01:00
+- image_filename: 2021_12_05__09_49_DSC02057.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.56518055555555
+  lon: 17.008569444444444
+  altitude: 70.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 160
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:49:12.000000000+01:00
+- image_filename: 2021_12_05__09_49_DSC02063.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.56522222222222
+  lon: 17.00859722222222
+  altitude: 70.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:49:29.000000000+01:00
+- image_filename: 2021_12_05__09_54_DSC02085.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.58375
+  lon: 17.024041666666665
+  altitude: 81.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5857
+  height: 3897
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:54:14.000000000+01:00
+- image_filename: 2021_12_05__09_55_DSC02128.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.59413888888889
+  lon: 17.045472222222223
+  altitude: 92.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 250
+  width: 5740
+  height: 3819
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:55:53.000000000+01:00
+- image_filename: 2021_12_05__09_56_DSC02146.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.59577777777778
+  lon: 17.048861111111112
+  altitude: 90.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 160
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:56:04.000000000+01:00
+- image_filename: 2021_12_05__09_56_DSC02149.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.59577777777778
+  lon: 17.048861111111112
+  altitude: 90.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 160
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:56:05.000000000+01:00
+- image_filename: 2021_12_05__09_58_DSC02158.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.613708333333335
+  lon: 17.095333333333333
+  altitude: 87.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5338
+  height: 3479
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 09:58:56.000000000+01:00
+- image_filename: 2021_12_05__10_02_DSC02166.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.614000000000004
+  lon: 17.09422222222222
+  altitude: 89.0
+  focal_length: 53.0
+  focal_length_35: 53.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5842
+  height: 3812
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 10:02:00.000000000+01:00
+- image_filename: 2021_12_05__10_07_DSC02177.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.61675
+  lon: 17.0945
+  altitude: 87.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5940
+  height: 3952
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 10:07:02.000000000+01:00
+- image_filename: 2021_12_05__10_11_DSC02198.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.61909722222222
+  lon: 17.095916666666664
   altitude: 85.0
   focal_length: 400.0
   focal_length_35: 400.0
@@ -877,12 +350,199 @@
   aperture: 6.3
   exposure: 0.002
   exposure_string: 1/500 s
-  iso: 3200
-  width: 4348
-  height: 3010
+  iso: 1000
+  width: 6048
+  height: 4024
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  time: 2021-12-05 10:55:56.000000000+01:00
+  time: 2021-12-05 10:11:40.000000000+01:00
+- image_filename: 2021_12_05__10_12_DSC02207.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.61944444444445
+  lon: 17.096319444444443
+  altitude: 87.0
+  focal_length: 290.9
+  focal_length_35: 290.0
+  crop: 0.9969061533172913
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:12:51.000000000+01:00
+- image_filename: 2021_12_05__10_14_DSC02220.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.62001388888889
+  lon: 17.096999999999998
+  altitude: 87.0
+  focal_length: 294.1
+  focal_length_35: 294.0
+  crop: 0.9996599795987758
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 320
+  width: 5933
+  height: 3947
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:14:02.000000000+01:00
+- image_filename: 2021_12_05__10_14_DSC02224.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.620111111111115
+  lon: 17.097069444444443
+  altitude: 85.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:14:51.000000000+01:00
+- image_filename: 2021_12_05__10_19_DSC02243.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.62198611111111
+  lon: 17.099180555555556
+  altitude: 87.0
+  focal_length: 277.9
+  focal_length_35: 277.0
+  crop: 0.996761424973012
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 800
+  width: 6033
+  height: 4014
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:19:36.000000000+01:00
+- image_filename: 2021_12_05__10_22_DSC02254.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.622875
+  lon: 17.100180555555557
+  altitude: 83.0
+  focal_length: 320.7
+  focal_length_35: 320.0
+  crop: 0.9978172747115684
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:22:28.000000000+01:00
+- image_filename: 2021_12_05__10_24_DSC02258.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.623777777777775
+  lon: 17.10161111111111
+  altitude: 83.0
+  focal_length: 132.1
+  focal_length_35: 132.0
+  crop: 0.9992429977289933
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:24:18.000000000+01:00
+- image_filename: 2021_12_05__10_29_DSC02273.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.62569444444444
+  lon: 17.103486111111113
+  altitude: 84.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 1250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:29:04.000000000+01:00
+- image_filename: 2021_12_05__10_33_DSC02293.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.627027777777776
+  lon: 17.104597222222225
+  altitude: 87.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:33:26.000000000+01:00
+- image_filename: 2021_12_05__10_38_DSC02317.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.628
+  lon: 17.10552777777778
+  altitude: 87.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 500
+  width: 4413
+  height: 3248
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:38:47.000000000+01:00
+- image_filename: 2021_12_05__10_40_DSC02322.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.62802777777778
+  lon: 17.105555555555558
+  altitude: 88.0
+  focal_length: 203.9
+  focal_length_35: 203.0
+  crop: 0.9955860716037273
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:40:57.000000000+01:00
+- image_filename: 2021_12_05__10_41_DSC02323.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.62809722222222
+  lon: 17.105625
+  altitude: 88.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:41:13.000000000+01:00
 - image_filename: 2021_12_05__10_42_DSC02326.jpg
   post_slug: 2021-12-05-zamiec
   lat: 52.62847222222222
@@ -900,57 +560,108 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-12-05 10:42:57.000000000+01:00
-- image_filename: 2021_12_05__12_18_DSC02695.jpg
+- image_filename: 2021_12_05__10_43_DSC02328.jpg
   post_slug: 2021-12-05-zamiec
-  lat: 52.65233333333333
-  lon: 17.10525
-  altitude: 76.0
-  focal_length: 100.0
-  focal_length_35: 100.0
+  lat: 52.62847222222222
+  lon: 17.105930555555556
+  altitude: 87.0
+  focal_length: 41.0
+  focal_length_35: 41.0
   crop: 1.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 10:43:22.000000000+01:00
+- image_filename: 2021_12_05__10_45_DSC02335.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.62940277777778
+  lon: 17.10676388888889
+  altitude: 85.0
+  focal_length: 43.0
+  focal_length_35: 43.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 10:45:59.000000000+01:00
+- image_filename: 2021_12_05__10_54_DSC02348.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.633625
+  lon: 17.106847222222225
+  altitude: 83.0
+  focal_length: 49.0
+  focal_length_35: 49.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 160
+  width: 5902
+  height: 3832
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 10:54:01.000000000+01:00
+- image_filename: 2021_12_05__10_54_DSC02350.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.63388888888889
+  lon: 17.10643055555556
+  altitude: 83.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5847
+  height: 3889
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 10:54:25.000000000+01:00
+- image_filename: 2021_12_05__10_55_DSC02356.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.634569444444445
+  lon: 17.105222222222224
+  altitude: 85.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 3200
+  width: 4348
+  height: 3010
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:55:56.000000000+01:00
+- image_filename: 2021_12_05__10_56_DSC02357.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.634625
+  lon: 17.10523611111111
+  altitude: 85.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
   width: 6048
   height: 4024
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  time: 2021-12-05 12:18:07.000000000+01:00
-- image_filename: 2021_12_05__13_18_DSC02786.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65779166666667
-  lon: 17.119291666666665
-  altitude: 93.0
-  focal_length: 143.5
-  focal_length_35: 143.0
-  crop: 0.9965156794425087
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 320
-  width: 5702
-  height: 3794
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 13:18:41.000000000+01:00
-- image_filename: 2021_12_05__13_05_DSC02757.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65161111111111
-  lon: 17.115361111111113
-  altitude: 72.0
-  focal_length: 113.9
-  focal_length_35: 113.0
-  crop: 0.9920983318700614
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 320
-  width: 5916
-  height: 3936
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 13:05:56.000000000+01:00
+  time: 2021-12-05 10:56:27.000000000+01:00
 - image_filename: 2021_12_05__10_56_DSC02368.jpg
   post_slug: 2021-12-05-zamiec
   lat: 52.634625
@@ -985,652 +696,6 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-12-05 10:57:02.000000000+01:00
-- image_filename: 2021_12_05__10_41_DSC02323.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.62809722222222
-  lon: 17.105625
-  altitude: 88.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:41:13.000000000+01:00
-- image_filename: 2021_12_05__09_48_DSC02054.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.56348611111111
-  lon: 17.00713888888889
-  altitude: 67.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:48:42.000000000+01:00
-- image_filename: 2021_12_05__15_17_DSC02954.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.67113888888888
-  lon: 17.15786111111111
-  altitude: 79.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 640
-  width: 5981
-  height: 3997
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 15:17:46.000000000+01:00
-- image_filename: 2021_12_05__08_58_DSC01753.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.417291666666664
-  lon: 16.930583333333335
-  altitude: 151.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 8000
-  width: 5976
-  height: 3976
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 08:58:28.000000000+01:00
-- image_filename: 2021_12_05__12_26_DSC02710.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.655569444444446
-  lon: 17.10913888888889
-  altitude: 88.0
-  focal_length: 185.0
-  focal_length_35: 185.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 12:26:09.000000000+01:00
-- image_filename: 2021_12_05__08_52_DSC01730.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.417291666666664
-  lon: 16.930583333333335
-  altitude: 151.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 250
-  width: 4024
-  height: 6048
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 08:52:32.000000000+01:00
-- image_filename: 2021_12_05__13_36_DSC02842.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.66043055555556
-  lon: 17.13202777777778
-  altitude: 82.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5724
-  height: 3808
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 13:36:52.000000000+01:00
-- image_filename: 2021_12_05__11_12_DSC02440.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.638
-  lon: 17.11029166666667
-  altitude: 96.0
-  focal_length: 189.1
-  focal_length_35: 189.0
-  crop: 0.9994711792702274
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 400
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 11:12:55.000000000+01:00
-- image_filename: 2021_12_05__11_19_DSC02460.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.640347222222225
-  lon: 17.112958333333335
-  altitude: 93.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 11:19:05.000000000+01:00
-- image_filename: 2021_12_05__10_02_DSC02166.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.614000000000004
-  lon: 17.09422222222222
-  altitude: 89.0
-  focal_length: 53.0
-  focal_length_35: 53.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5842
-  height: 3812
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 10:02:00.000000000+01:00
-- image_filename: 2021_12_05__11_58_DSC02616.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.64811111111111
-  lon: 17.104055555555558
-  altitude: 81.0
-  focal_length: 379.1
-  focal_length_35: 379.0
-  crop: 0.9997362173568979
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 800
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 11:58:16.000000000+01:00
-- image_filename: 2021_12_05__09_49_DSC02063.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.56522222222222
-  lon: 17.00859722222222
-  altitude: 70.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 400
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:49:29.000000000+01:00
-- image_filename: 2021_12_05__12_06_DSC02641.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.64993055555556
-  lon: 17.103444444444445
-  altitude: 78.0
-  focal_length: 63.0
-  focal_length_35: 63.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 12:06:59.000000000+01:00
-- image_filename: 2021_12_05__08_53_DSC01733.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.417291666666664
-  lon: 16.930583333333335
-  altitude: 151.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 320
-  width: 5769
-  height: 3838
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 08:53:06.000000000+01:00
-- image_filename: 2021_12_05__13_43_DSC02861.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.662
-  lon: 17.13423611111111
-  altitude: 78.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 250
-  width: 5835
-  height: 3882
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 13:43:02.000000000+01:00
-- image_filename: 2021_12_05__10_43_DSC02328.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.62847222222222
-  lon: 17.105930555555556
-  altitude: 87.0
-  focal_length: 41.0
-  focal_length_35: 41.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 200
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 10:43:22.000000000+01:00
-- image_filename: 2021_12_05__12_45_DSC02725.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.652166666666666
-  lon: 17.115250000000003
-  altitude: 83.0
-  focal_length: 105.1
-  focal_length_35: 105.0
-  crop: 0.9990485252140818
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 160
-  width: 5835
-  height: 3882
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 12:45:14.000000000+01:00
-- image_filename: 2021_12_05__11_35_DSC02519.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.64383333333333
-  lon: 17.10876388888889
-  altitude: 92.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: E 20mm F2
-  camera: ILCE-7M3
-  time: 2021-12-05 11:35:12.000000000+01:00
-- image_filename: 2021_12_05__10_24_DSC02258.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.623777777777775
-  lon: 17.10161111111111
-  altitude: 83.0
-  focal_length: 132.1
-  focal_length_35: 132.0
-  crop: 0.9992429977289933
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 400
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:24:18.000000000+01:00
-- image_filename: 2021_12_05__10_11_DSC02198.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.61909722222222
-  lon: 17.095916666666664
-  altitude: 85.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 1000
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:11:40.000000000+01:00
-- image_filename: 2021_12_05__09_46_DSC02022.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.551111111111105
-  lon: 16.987486111111114
-  altitude: 65.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 200
-  width: 6046
-  height: 4022
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:46:56.000000000+01:00
-- image_filename: 2021_12_05__09_16_DSC01818.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.416263888888885
-  lon: 16.937763888888888
-  altitude: 107.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 320
-  width: 5860
-  height: 3761
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:16:13.000000000+01:00
-- image_filename: 2021_12_05__12_42_DSC02715.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65284722222222
-  lon: 17.115361111111113
-  altitude: 96.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 12:42:47.000000000+01:00
-- image_filename: 2021_12_05__09_56_DSC02149.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.59577777777778
-  lon: 17.048861111111112
-  altitude: 90.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 160
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:56:05.000000000+01:00
-- image_filename: 2021_12_05__13_24_DSC02795.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65880555555555
-  lon: 17.124916666666667
-  altitude: 93.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 2000
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 13:24:53.000000000+01:00
-- image_filename: 2021_12_05__10_56_DSC02357.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.634625
-  lon: 17.10523611111111
-  altitude: 85.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 1000
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 10:56:27.000000000+01:00
-- image_filename: 2021_12_05__11_33_DSC02511.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.643875
-  lon: 17.108944444444447
-  altitude: 92.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 100
-  width: 4024
-  height: 6048
-  lens: E 20mm F2
-  camera: ILCE-7M3
-  time: 2021-12-05 11:33:17.000000000+01:00
-- image_filename: 2021_12_05__11_08_DSC02433.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.635958333333335
-  lon: 17.108069444444446
-  altitude: 94.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 400
-  width: 5961
-  height: 3898
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 11:08:00.000000000+01:00
-- image_filename: 2021_12_05__12_20_DSC02698.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.65348611111111
-  lon: 17.106319444444445
-  altitude: 75.0
-  focal_length: 164.4
-  focal_length_35: 164.0
-  crop: 0.9975669099756691
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 12:20:41.000000000+01:00
-- image_filename: 2021_12_05__15_25_DSC02970.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.67444444444444
-  lon: 17.162055555555554
-  altitude: 82.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 320
-  width: 5994
-  height: 3994
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 15:25:59.000000000+01:00
-- image_filename: 2021_12_05__15_10_DSC02931.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.67088888888889
-  lon: 17.15261111111111
-  altitude: 76.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  iso: 1000
-  width: 5896
-  height: 3785
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 15:10:44.000000000+01:00
-- image_filename: 2021_12_05__11_12_DSC02439.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.637902777777775
-  lon: 17.11018055555556
-  altitude: 95.0
-  focal_length: 212.4
-  focal_length_35: 212.0
-  crop: 0.9981167608286252
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 640
-  width: 5937
-  height: 3950
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 11:12:47.000000000+01:00
-- image_filename: 2021_12_05__13_48_DSC02872.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.664722222222224
-  lon: 17.13775
-  altitude: 73.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 160
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 13:48:34.000000000+01:00
-- image_filename: 2021_12_05__11_37_DSC02527.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.644
-  lon: 17.108
-  altitude: 92.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: E 20mm F2
-  camera: ILCE-7M3
-  time: 2021-12-05 11:37:58.000000000+01:00
-- image_filename: 2021_12_05__10_54_DSC02350.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.63388888888889
-  lon: 17.10643055555556
-  altitude: 83.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 200
-  width: 5847
-  height: 3889
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-12-05 10:54:25.000000000+01:00
-- image_filename: 2021_12_05__11_34_DSC02518.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.64383333333333
-  lon: 17.108819444444446
-  altitude: 92.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: E 20mm F2
-  camera: ILCE-7M3
-  time: 2021-12-05 11:34:12.000000000+01:00
-- image_filename: 2021_12_05__11_01_DSC02421.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.63459722222222
-  lon: 17.105708333333336
-  altitude: 86.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 800
-  width: 5151
-  height: 3378
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-12-05 11:01:25.000000000+01:00
-- image_filename: 2021_12_05__09_58_DSC02158.jpg
-  post_slug: 2021-12-05-zamiec
-  lat: 52.613708333333335
-  lon: 17.095333333333333
-  altitude: 87.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5338
-  height: 3479
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-12-05 09:58:56.000000000+01:00
 - image_filename: 2021_12_05__10_57_DSC02383.jpg
   post_slug: 2021-12-05-zamiec
   lat: 52.63466666666667
@@ -1648,20 +713,955 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-12-05 10:57:30.000000000+01:00
-- image_filename: 2021_12_05__09_54_DSC02085.jpg
+- image_filename: 2021_12_05__10_59_DSC02411.jpg
   post_slug: 2021-12-05-zamiec
-  lat: 52.58375
-  lon: 17.024041666666665
+  lat: 52.63469444444444
+  lon: 17.105625
+  altitude: 87.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 1000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 10:59:37.000000000+01:00
+- image_filename: 2021_12_05__11_00_DSC02419.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.634680555555555
+  lon: 17.10576388888889
+  altitude: 86.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:00:27.000000000+01:00
+- image_filename: 2021_12_05__11_01_DSC02421.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.63459722222222
+  lon: 17.105708333333336
+  altitude: 86.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 800
+  width: 5151
+  height: 3378
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:01:25.000000000+01:00
+- image_filename: 2021_12_05__11_08_DSC02433.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.635958333333335
+  lon: 17.108069444444446
+  altitude: 94.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 5961
+  height: 3898
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:08:00.000000000+01:00
+- image_filename: 2021_12_05__11_09_DSC02434.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.636180555555555
+  lon: 17.108305555555557
+  altitude: 94.0
+  focal_length: 231.8
+  focal_length_35: 231.0
+  crop: 0.996548748921484
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 5604
+  height: 3729
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:09:06.000000000+01:00
+- image_filename: 2021_12_05__11_12_DSC02439.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.637902777777775
+  lon: 17.11018055555556
+  altitude: 95.0
+  focal_length: 212.4
+  focal_length_35: 212.0
+  crop: 0.9981167608286252
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 640
+  width: 5937
+  height: 3950
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:12:47.000000000+01:00
+- image_filename: 2021_12_05__11_12_DSC02440.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.638
+  lon: 17.11029166666667
+  altitude: 96.0
+  focal_length: 189.1
+  focal_length_35: 189.0
+  crop: 0.9994711792702274
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:12:55.000000000+01:00
+- image_filename: 2021_12_05__11_13_DSC02442.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.63822222222222
+  lon: 17.110541666666666
+  altitude: 97.0
+  focal_length: 220.6
+  focal_length_35: 220.0
+  crop: 0.9972801450589303
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 250
+  width: 5414
+  height: 3565
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:13:20.000000000+01:00
+- image_filename: 2021_12_05__11_16_DSC02454.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.63908333333333
+  lon: 17.11152777777778
+  altitude: 94.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 5900
+  height: 3925
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 11:16:37.000000000+01:00
+- image_filename: 2021_12_05__11_19_DSC02460.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.640347222222225
+  lon: 17.112958333333335
+  altitude: 93.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 11:19:05.000000000+01:00
+- image_filename: 2021_12_05__11_22_DSC02474.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64127777777778
+  lon: 17.112972222222222
+  altitude: 93.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 11:22:25.000000000+01:00
+- image_filename: 2021_12_05__11_24_DSC02486.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.641666666666666
+  lon: 17.11252777777778
+  altitude: 91.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 11:24:07.000000000+01:00
+- image_filename: 2021_12_05__11_24_DSC02488.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64175
+  lon: 17.11243055555556
+  altitude: 91.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 11:24:19.000000000+01:00
+- image_filename: 2021_12_05__11_31_DSC02506.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.643652777777774
+  lon: 17.110000000000003
+  altitude: 89.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5850
+  height: 3892
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 11:31:12.000000000+01:00
+- image_filename: 2021_12_05__11_33_DSC02511.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.643875
+  lon: 17.108944444444447
+  altitude: 92.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 4024
+  height: 6048
+  lens: E 20mm F2
+  camera: ILCE-7M3
+  time: 2021-12-05 11:33:17.000000000+01:00
+- image_filename: 2021_12_05__11_34_DSC02518.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64383333333333
+  lon: 17.108819444444446
+  altitude: 92.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 20mm F2
+  camera: ILCE-7M3
+  time: 2021-12-05 11:34:12.000000000+01:00
+- image_filename: 2021_12_05__11_35_DSC02519.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64383333333333
+  lon: 17.10876388888889
+  altitude: 92.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 20mm F2
+  camera: ILCE-7M3
+  time: 2021-12-05 11:35:12.000000000+01:00
+- image_filename: 2021_12_05__11_35_DSC02522.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.643791666666665
+  lon: 17.108208333333334
+  altitude: 90.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 5866
+  height: 3903
+  lens: E 20mm F2
+  camera: ILCE-7M3
+  time: 2021-12-05 11:35:52.000000000+01:00
+- image_filename: 2021_12_05__11_37_DSC02527.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.644
+  lon: 17.108
+  altitude: 92.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 20mm F2
+  camera: ILCE-7M3
+  time: 2021-12-05 11:37:58.000000000+01:00
+- image_filename: 2021_12_05__11_49_DSC02573.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64727777777778
+  lon: 17.104583333333334
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 11:49:56.000000000+01:00
+- image_filename: 2021_12_05__11_53_DSC02587.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64773611111111
+  lon: 17.104319444444446
+  altitude: 82.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 11:53:08.000000000+01:00
+- image_filename: 2021_12_05__11_54_DSC02595.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64808333333333
+  lon: 17.104083333333335
+  altitude: 81.0
+  focal_length: 354.1
+  focal_length_35: 354.0
+  crop: 0.9997175939000281
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:54:44.000000000+01:00
+- image_filename: 2021_12_05__11_56_DSC02610.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64811111111111
+  lon: 17.104069444444445
+  altitude: 81.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:56:52.000000000+01:00
+- image_filename: 2021_12_05__11_58_DSC02616.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64811111111111
+  lon: 17.104055555555558
+  altitude: 81.0
+  focal_length: 379.1
+  focal_length_35: 379.0
+  crop: 0.9997362173568979
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 11:58:16.000000000+01:00
+- image_filename: 2021_12_05__12_06_DSC02641.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.64993055555556
+  lon: 17.103444444444445
+  altitude: 78.0
+  focal_length: 63.0
+  focal_length_35: 63.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 12:06:59.000000000+01:00
+- image_filename: 2021_12_05__12_10_DSC02659.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.650999999999996
+  lon: 17.103805555555557
+  altitude: 77.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 12:10:29.000000000+01:00
+- image_filename: 2021_12_05__12_18_DSC02695.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65233333333333
+  lon: 17.10525
+  altitude: 76.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 12:18:07.000000000+01:00
+- image_filename: 2021_12_05__12_20_DSC02698.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65348611111111
+  lon: 17.106319444444445
+  altitude: 75.0
+  focal_length: 164.4
+  focal_length_35: 164.0
+  crop: 0.9975669099756691
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 12:20:41.000000000+01:00
+- image_filename: 2021_12_05__12_26_DSC02710.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.655569444444446
+  lon: 17.10913888888889
+  altitude: 88.0
+  focal_length: 185.0
+  focal_length_35: 185.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 12:26:09.000000000+01:00
+- image_filename: 2021_12_05__12_26_DSC02712.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.655763888888885
+  lon: 17.10943055555556
+  altitude: 89.0
+  focal_length: 189.1
+  focal_length_35: 189.0
+  crop: 0.9994711792702274
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5877
+  height: 3910
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 12:26:45.000000000+01:00
+- image_filename: 2021_12_05__12_42_DSC02714.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65318055555555
+  lon: 17.11552777777778
+  altitude: 97.0
+  focal_length: 239.8
+  focal_length_35: 239.0
+  crop: 0.9966638865721434
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 12:42:09.000000000+01:00
+- image_filename: 2021_12_05__12_42_DSC02715.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65284722222222
+  lon: 17.115361111111113
+  altitude: 96.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 12:42:47.000000000+01:00
+- image_filename: 2021_12_05__12_43_DSC02718.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.652652777777774
+  lon: 17.115347222222223
+  altitude: 95.0
+  focal_length: 227.1
+  focal_length_35: 227.0
+  crop: 0.9995596653456628
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 12:43:11.000000000+01:00
+- image_filename: 2021_12_05__12_45_DSC02725.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.652166666666666
+  lon: 17.115250000000003
+  altitude: 83.0
+  focal_length: 105.1
+  focal_length_35: 105.0
+  crop: 0.9990485252140818
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  width: 5835
+  height: 3882
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 12:45:14.000000000+01:00
+- image_filename: 2021_12_05__12_59_DSC02733.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.651666666666664
+  lon: 17.115625
+  altitude: 75.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5480
+  height: 3670
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 12:59:19.000000000+01:00
+- image_filename: 2021_12_05__13_03_DSC02746.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65148611111111
+  lon: 17.115291666666668
+  altitude: 71.0
+  focal_length: 134.2
+  focal_length_35: 134.0
+  crop: 0.9985096870342773
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 250
+  width: 5770
+  height: 3839
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 13:03:15.000000000+01:00
+- image_filename: 2021_12_05__13_03_DSC02749.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65148611111111
+  lon: 17.11527777777778
+  altitude: 71.0
+  focal_length: 151.3
+  focal_length_35: 151.0
+  crop: 0.9980171844018505
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 320
+  width: 5812
+  height: 3867
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 13:03:45.000000000+01:00
+- image_filename: 2021_12_05__13_03_DSC02750.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65148611111111
+  lon: 17.11527777777778
+  altitude: 71.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 6024
+  height: 4008
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 13:03:48.000000000+01:00
+- image_filename: 2021_12_05__13_05_DSC02757.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65161111111111
+  lon: 17.115361111111113
+  altitude: 72.0
+  focal_length: 113.9
+  focal_length_35: 113.0
+  crop: 0.9920983318700614
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 320
+  width: 5916
+  height: 3936
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 13:05:56.000000000+01:00
+- image_filename: 2021_12_05__13_07_DSC02764.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65222222222222
+  lon: 17.115333333333336
+  altitude: 82.0
+  focal_length: 260.3
+  focal_length_35: 260.0
+  crop: 0.9988474836726853
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 640
+  width: 5168
+  height: 3572
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 13:07:56.000000000+01:00
+- image_filename: 2021_12_05__13_18_DSC02786.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65779166666667
+  lon: 17.119291666666665
+  altitude: 93.0
+  focal_length: 143.5
+  focal_length_35: 143.0
+  crop: 0.9965156794425087
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 320
+  width: 5702
+  height: 3794
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 13:18:41.000000000+01:00
+- image_filename: 2021_12_05__13_24_DSC02795.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.65880555555555
+  lon: 17.124916666666667
+  altitude: 93.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 2000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-12-05 13:24:53.000000000+01:00
+- image_filename: 2021_12_05__13_36_DSC02842.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.66043055555556
+  lon: 17.13202777777778
+  altitude: 82.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5724
+  height: 3808
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 13:36:52.000000000+01:00
+- image_filename: 2021_12_05__13_40_DSC02849.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.66101388888889
+  lon: 17.132916666666667
+  altitude: 79.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5730
+  height: 3812
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 13:40:32.000000000+01:00
+- image_filename: 2021_12_05__13_43_DSC02861.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.662
+  lon: 17.13423611111111
+  altitude: 78.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  width: 5835
+  height: 3882
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 13:43:02.000000000+01:00
+- image_filename: 2021_12_05__13_48_DSC02870.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.664541666666665
+  lon: 17.137569444444445
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 13:48:20.000000000+01:00
+- image_filename: 2021_12_05__13_48_DSC02872.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.664722222222224
+  lon: 17.13775
+  altitude: 73.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 13:48:34.000000000+01:00
+- image_filename: 2021_12_05__13_49_DSC02877.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.665083333333335
+  lon: 17.138069444444444
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 13:49:39.000000000+01:00
+- image_filename: 2021_12_05__13_52_DSC02890.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.665416666666665
+  lon: 17.139569444444444
+  altitude: 77.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 400
+  width: 5903
+  height: 3927
+  lens: E 20mm F2
+  camera: ILCE-7M3
+  time: 2021-12-05 13:52:29.000000000+01:00
+- image_filename: 2021_12_05__15_06_DSC02920.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.67061111111111
+  lon: 17.150555555555552
+  altitude: 75.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 2.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 5010
+  height: 3145
+  lens: E 20mm F2
+  camera: ILCE-7M3
+  time: 2021-12-05 15:06:58.000000000+01:00
+- image_filename: 2021_12_05__15_09_DSC02928.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.67084722222222
+  lon: 17.15209722222222
+  altitude: 76.0
+  focal_length: 37.0
+  focal_length_35: 37.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 400
+  width: 5766
+  height: 3919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 15:09:25.000000000+01:00
+- image_filename: 2021_12_05__15_10_DSC02931.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.67088888888889
+  lon: 17.15261111111111
+  altitude: 76.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1000
+  width: 5896
+  height: 3785
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 15:10:44.000000000+01:00
+- image_filename: 2021_12_05__15_17_DSC02954.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.67113888888888
+  lon: 17.15786111111111
+  altitude: 79.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 640
+  width: 5981
+  height: 3997
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 15:17:46.000000000+01:00
+- image_filename: 2021_12_05__15_21_DSC02959.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.672805555555556
+  lon: 17.160874999999997
+  altitude: 82.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 500
+  width: 5755
+  height: 3999
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-12-05 15:21:58.000000000+01:00
+- image_filename: 2021_12_05__15_25_DSC02970.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.67444444444444
+  lon: 17.162055555555554
+  altitude: 82.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  width: 5994
+  height: 3994
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-12-05 15:25:59.000000000+01:00
+- image_filename: 2021_12_05__15_43_DSC02983.jpg
+  post_slug: 2021-12-05-zamiec
+  lat: 52.67454166666666
+  lon: 17.162041666666664
   altitude: 81.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
-  aperture: 2.2
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5857
-  height: 3897
+  aperture: 1.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 2000
+  width: 5710
+  height: 3711
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-12-05 09:54:14.000000000+01:00
+  time: 2021-12-05 15:43:26.000000000+01:00

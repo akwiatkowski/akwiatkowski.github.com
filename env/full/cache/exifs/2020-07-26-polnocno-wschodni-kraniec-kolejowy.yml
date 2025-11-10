@@ -1,420 +1,184 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2020_07_26__06_21__7263470.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-- image_filename: 2020_07_26__12_51__7265445.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.214083333333335
-  lon: 23.167986111111112
-  altitude: 161.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 53.74769444444445
+  lon: 20.559013888888888
+  altitude: 117.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 3.61
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 68.84
   iso: 320
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 12:51:16.000000000+02:00
-- image_filename: 2020_07_26__08_40__7263963.jpg
+  time: 2020-07-26 06:21:25.000000000+02:00
+- image_filename: 2020_07_26__06_23__7263488.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.619791666666664
-  lon: 22.02488888888889
-  altitude: 140.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 53.73419444444445
+  lon: 20.570458333333335
+  altitude: 114.0
+  focal_length: 66.0
+  focal_length_35: 132.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 131.07
-  iso: 250
-  width: 5176
-  height: 3864
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 18.43
+  iso: 320
+  width: 5083
+  height: 3794
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 08:40:16.000000000+02:00
-- image_filename: 2020_07_26__09_02__7264159.jpg
+  time: 2020-07-26 06:23:11.000000000+02:00
+- image_filename: 2020_07_26__06_31__7263525.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.72983333333333
-  lon: 22.183875
-  altitude: 139.0
+  lat: 53.69676388888889
+  lon: 20.668805555555558
+  altitude: 136.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
   exposure: 0.002
   exposure_string: 1/500 s
-  focus_distance: 45.01
-  iso: 250
-  width: 5160
-  height: 3851
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 09:02:22.000000000+02:00
-- image_filename: 2020_07_26__08_41__7263989.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.61584722222222
-  lon: 22.031791666666667
-  altitude: 139.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 184.09
-  iso: 250
-  width: 4500
-  height: 3245
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 08:41:00.000000000+02:00
-- image_filename: 2020_07_26__12_19__7265275.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.20202777777778
-  lon: 23.145680555555554
-  altitude: 157.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 18.53
+  focus_distance: 84.45
   iso: 320
-  width: 5239
-  height: 3911
+  width: 4976
+  height: 3715
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 12:19:16.000000000+02:00
-- image_filename: 2020_07_26__10_08__7264346.jpg
+  time: 2020-07-26 06:31:41.000000000+02:00
+- image_filename: 2020_07_26__06_54__7263601.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.03348611111111
-  lon: 22.495083333333334
-  altitude: 170.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 24.38
-  iso: 200
-  width: 5012
-  height: 3773
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:08:54.000000000+02:00
-- image_filename: 2020_07_26__09_23__7264290.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.802569444444444
-  lon: 22.370875
-  altitude: 126.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 34.35
-  iso: 250
-  width: 5169
-  height: 3824
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 09:23:27.000000000+02:00
-- image_filename: 2020_07_26__12_20__7265298.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.211000000000006
-  lon: 23.16148611111111
-  altitude: 158.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 6.53
-  iso: 320
-  width: 4799
-  height: 3729
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:20:44.000000000+02:00
-- image_filename: 2020_07_26__10_39__7264463.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.973708333333335
-  lon: 22.66701388888889
-  altitude: 171.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 16.92
-  iso: 320
-  width: 5063
-  height: 3779
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:39:27.000000000+02:00
-- image_filename: 2020_07_26__11_21__7264879.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.06475
-  lon: 22.91473611111111
-  altitude: 176.0
+  lat: 53.58968055555556
+  lon: 20.890555555555554
+  altitude: 136.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
   exposure: 0.0015625
   exposure_string: 1/640 s
-  focus_distance: 88.56
+  focus_distance: 45.76
   iso: 320
-  width: 4955
-  height: 3698
+  width: 5078
+  height: 3688
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 11:21:29.000000000+02:00
-- image_filename: 2020_07_26__12_01__7264968.jpg
+  time: 2020-07-26 06:54:52.000000000+02:00
+- image_filename: 2020_07_26__07_03__7263629.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.113708333333335
-  lon: 22.97825
-  altitude: 158.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 2.29
-  iso: 320
-  width: 4824
-  height: 3401
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:01:37.000000000+02:00
-- image_filename: 2020_07_26__12_12__7265133.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.1705
-  lon: 23.061708333333335
-  altitude: 167.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 18.0
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:12:12.000000000+02:00
-- image_filename: 2020_07_26__12_11__7265121.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.166222222222224
-  lon: 23.054444444444446
-  altitude: 163.0
+  lat: 53.560805555555554
+  lon: 20.994458333333334
+  altitude: 137.0
   focal_length: 100.0
   focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 109.22
-  iso: 320
-  width: 4952
-  height: 3529
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:11:22.000000000+02:00
-- image_filename: 2020_07_26__12_09__7265074.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.15713888888889
-  lon: 23.03838888888889
-  altitude: 168.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 9.47
-  iso: 320
-  width: 5096
-  height: 3705
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:09:39.000000000+02:00
-- image_filename: 2020_07_26__12_17__7265247.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.19183333333333
-  lon: 23.122375
-  altitude: 163.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 90.02
-  iso: 320
-  width: 5110
-  height: 3815
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:17:18.000000000+02:00
-- image_filename: 2020_07_26__12_00__7264958.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.11388888888889
-  lon: 22.96983333333333
-  altitude: 162.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 41.17
-  iso: 320
-  width: 5028
-  height: 3589
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:00:45.000000000+02:00
-- image_filename: 2020_07_26__10_39__7264468.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.97315277777778
-  lon: 22.6685
-  altitude: 172.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 7.76
-  iso: 320
-  width: 5088
-  height: 3515
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:39:34.000000000+02:00
-- image_filename: 2020_07_26__12_06__7265033.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.13176388888889
-  lon: 23.031902777777777
-  altitude: 171.0
-  focal_length: 23.0
-  focal_length_35: 46.0
   crop: 2.0
   aperture: 4.0
   exposure: 0.0008
   exposure_string: 1/1250 s
-  focus_distance: 5.09
+  focus_distance: 58.51
   iso: 320
-  width: 4931
-  height: 3455
+  width: 5020
+  height: 3597
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 12:06:36.000000000+02:00
-- image_filename: 2020_07_26__09_06__7264192.jpg
+  time: 2020-07-26 07:03:18.000000000+02:00
+- image_filename: 2020_07_26__07_15__7263671.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.73977777777778
-  lon: 22.21602777777778
-  altitude: 158.0
-  focal_length: 24.0
-  focal_length_35: 48.0
+  lat: 53.554361111111106
+  lon: 21.098916666666664
+  altitude: 140.0
+  focal_length: 28.0
+  focal_length_35: 56.0
   crop: 2.0
   aperture: 4.0
   exposure: 0.001
   exposure_string: 1/1000 s
-  focus_distance: 9.46
-  iso: 250
-  width: 5239
-  height: 3911
+  focus_distance: 11.1
+  iso: 400
+  width: 5116
+  height: 3819
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 09:06:09.000000000+02:00
-- image_filename: 2020_07_26__12_11__7265114.jpg
+  time: 2020-07-26 07:15:36.000000000+02:00
+- image_filename: 2020_07_26__07_15__7263673.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.165013888888886
-  lon: 23.052222222222223
-  altitude: 162.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 53.55433333333333
+  lon: 21.099416666666666
+  altitude: 140.0
+  focal_length: 92.0
+  focal_length_35: 184.0
   crop: 2.0
   aperture: 4.0
   exposure: 0.001
   exposure_string: 1/1000 s
-  focus_distance: 4.57
-  iso: 320
-  width: 5239
-  height: 3911
+  focus_distance: 94.16
+  iso: 400
+  width: 5124
+  height: 3639
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 12:11:08.000000000+02:00
-- image_filename: 2020_07_26__12_08__7265061.jpg
+  time: 2020-07-26 07:15:38.000000000+02:00
+- image_filename: 2020_07_26__07_28__7263776.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.14995833333333
-  lon: 23.035333333333334
-  altitude: 172.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 25.44
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:08:44.000000000+02:00
-- image_filename: 2020_07_26__10_24__7264372.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.020152777777774
-  lon: 22.5215
-  altitude: 172.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 53.56830555555556
+  lon: 21.292194444444448
+  altitude: 136.0
+  focal_length: 66.0
+  focal_length_35: 132.0
   crop: 2.0
   aperture: 4.0
   exposure: 0.00125
   exposure_string: 1/800 s
-  focus_distance: 135.4
-  iso: 320
-  width: 5161
-  height: 3853
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:24:30.000000000+02:00
-- image_filename: 2020_07_26__11_00__7264780.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.009861111111114
-  lon: 22.79018055555556
-  altitude: 170.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 39.1
-  iso: 320
+  focus_distance: 22.41
+  iso: 400
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 11:00:22.000000000+02:00
+  time: 2020-07-26 07:28:56.000000000+02:00
+- image_filename: 2020_07_26__07_56__7263802.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.645944444444446
+  lon: 21.567597222222222
+  altitude: 127.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 81.11
+  iso: 400
+  width: 4963
+  height: 3561
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 07:56:18.000000000+02:00
+- image_filename: 2020_07_26__07_56__7263814.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.64465277777778
+  lon: 21.568902777777776
+  altitude: 127.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 4.28
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 07:56:32.000000000+02:00
 - image_filename: 2020_07_26__08_30__7263894.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
   lat: 53.61340277777778
@@ -433,6 +197,546 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-26 08:30:05.000000000+02:00
+- image_filename: 2020_07_26__08_39__7263942.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.62083333333334
+  lon: 22.020902777777778
+  altitude: 140.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 86.68
+  iso: 250
+  width: 4567
+  height: 3697
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 08:39:58.000000000+02:00
+- image_filename: 2020_07_26__08_40__7263963.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.619791666666664
+  lon: 22.02488888888889
+  altitude: 140.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 131.07
+  iso: 250
+  width: 5176
+  height: 3864
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 08:40:16.000000000+02:00
+- image_filename: 2020_07_26__08_40__7263972.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.61902777777778
+  lon: 22.026249999999997
+  altitude: 141.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 104.36
+  iso: 250
+  width: 5107
+  height: 3812
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 08:40:24.000000000+02:00
+- image_filename: 2020_07_26__08_40__7263978.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.61636111111111
+  lon: 22.030305555555554
+  altitude: 139.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 27.31
+  iso: 250
+  width: 5019
+  height: 3747
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 08:40:51.000000000+02:00
+- image_filename: 2020_07_26__08_41__7263989.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.61584722222222
+  lon: 22.031791666666667
+  altitude: 139.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 184.09
+  iso: 250
+  width: 4500
+  height: 3245
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 08:41:00.000000000+02:00
+- image_filename: 2020_07_26__08_45__7264045.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.62470833333333
+  lon: 22.09351388888889
+  altitude: 141.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 96.94
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 08:45:51.000000000+02:00
+- image_filename: 2020_07_26__08_54__7264082.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.685138888888886
+  lon: 22.11101388888889
+  altitude: 144.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 19.85
+  iso: 250
+  width: 5007
+  height: 3738
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 08:54:13.000000000+02:00
+- image_filename: 2020_07_26__08_54__7264096.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.68713888888889
+  lon: 22.112638888888892
+  altitude: 141.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 28.79
+  iso: 250
+  width: 5180
+  height: 3867
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 08:54:29.000000000+02:00
+- image_filename: 2020_07_26__09_02__7264149.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.72743055555556
+  lon: 22.184472222222222
+  altitude: 136.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 77.28
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:02:00.000000000+02:00
+- image_filename: 2020_07_26__09_02__7264156.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.72961111111111
+  lon: 22.183888888888887
+  altitude: 138.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 38.28
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:02:20.000000000+02:00
+- image_filename: 2020_07_26__09_02__7264159.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.72983333333333
+  lon: 22.183875
+  altitude: 139.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 45.01
+  iso: 250
+  width: 5160
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:02:22.000000000+02:00
+- image_filename: 2020_07_26__09_05__7264177.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.74033333333333
+  lon: 22.209430555555556
+  altitude: 158.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 27.17
+  iso: 250
+  width: 5090
+  height: 3422
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:05:35.000000000+02:00
+- image_filename: 2020_07_26__09_06__7264192.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.73977777777778
+  lon: 22.21602777777778
+  altitude: 158.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 9.46
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:06:09.000000000+02:00
+- image_filename: 2020_07_26__09_07__7264195.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.738375
+  lon: 22.232333333333333
+  altitude: 161.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 67.98
+  iso: 250
+  width: 5040
+  height: 3763
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:07:21.000000000+02:00
+- image_filename: 2020_07_26__09_12__7264258.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.746722222222225
+  lon: 22.294319444444447
+  altitude: 158.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 85.33
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:12:30.000000000+02:00
+- image_filename: 2020_07_26__09_14__7264268.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.76201388888889
+  lon: 22.307597222222224
+  altitude: 136.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 109.22
+  iso: 250
+  width: 5126
+  height: 3758
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:14:42.000000000+02:00
+- image_filename: 2020_07_26__09_23__7264290.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.802569444444444
+  lon: 22.370875
+  altitude: 126.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 34.35
+  iso: 250
+  width: 5169
+  height: 3824
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:23:27.000000000+02:00
+- image_filename: 2020_07_26__09_37__7264315.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.84026388888889
+  lon: 22.380958333333332
+  altitude: 128.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4900
+  height: 3711
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 09:37:18.000000000+02:00
+- image_filename: 2020_07_26__10_08__7264346.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.03348611111111
+  lon: 22.495083333333334
+  altitude: 170.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 24.38
+  iso: 200
+  width: 5012
+  height: 3773
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:08:54.000000000+02:00
+- image_filename: 2020_07_26__10_24__7264372.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.020152777777774
+  lon: 22.5215
+  altitude: 172.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 135.4
+  iso: 320
+  width: 5161
+  height: 3853
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:24:30.000000000+02:00
+- image_filename: 2020_07_26__10_30__7264380.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.991166666666665
+  lon: 22.56972222222222
+  altitude: 166.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 91.02
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:30:24.000000000+02:00
+- image_filename: 2020_07_26__10_38__7264439.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.97661111111111
+  lon: 22.661041666666666
+  altitude: 168.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:38:45.000000000+02:00
+- image_filename: 2020_07_26__10_39__7264463.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.973708333333335
+  lon: 22.66701388888889
+  altitude: 171.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 16.92
+  iso: 320
+  width: 5063
+  height: 3779
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:39:27.000000000+02:00
+- image_filename: 2020_07_26__10_39__7264468.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.97315277777778
+  lon: 22.6685
+  altitude: 172.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 7.76
+  iso: 320
+  width: 5088
+  height: 3515
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:39:34.000000000+02:00
+- image_filename: 2020_07_26__10_39__7264484.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.97184722222222
+  lon: 22.671958333333336
+  altitude: 173.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 6.66
+  iso: 320
+  width: 4965
+  height: 3645
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:39:55.000000000+02:00
+- image_filename: 2020_07_26__10_40__7264505.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.97108333333333
+  lon: 22.67523611111111
+  altitude: 174.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 20.3
+  iso: 320
+  width: 5070
+  height: 3785
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:40:13.000000000+02:00
+- image_filename: 2020_07_26__10_42__7264564.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.97252777777778
+  lon: 22.702527777777778
+  altitude: 174.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 3.78
+  iso: 320
+  width: 5068
+  height: 3770
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:42:40.000000000+02:00
+- image_filename: 2020_07_26__10_44__7264597.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.97854166666667
+  lon: 22.708930555555554
+  altitude: 178.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 18.73
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:44:25.000000000+02:00
+- image_filename: 2020_07_26__10_45__7264625.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.98481944444445
+  lon: 22.707166666666666
+  altitude: 177.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 11.41
+  iso: 320
+  width: 5107
+  height: 3811
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:45:45.000000000+02:00
+- image_filename: 2020_07_26__10_46__7264642.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.987097222222225
+  lon: 22.708652777777775
+  altitude: 177.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 39.86
+  iso: 320
+  width: 5060
+  height: 3788
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:46:19.000000000+02:00
 - image_filename: 2020_07_26__10_56__7264715.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
   lat: 53.99458333333333
@@ -469,6 +773,204 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-26 10:56:22.000000000+02:00
+- image_filename: 2020_07_26__10_56__7264735.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.995958333333334
+  lon: 22.78101388888889
+  altitude: 164.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 3.7
+  iso: 320
+  width: 4950
+  height: 3785
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:56:39.000000000+02:00
+- image_filename: 2020_07_26__10_57__7264748.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 53.99930555555556
+  lon: 22.783569444444446
+  altitude: 165.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 17.19
+  iso: 320
+  width: 4658
+  height: 3456
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 10:57:29.000000000+02:00
+- image_filename: 2020_07_26__11_00__7264778.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.009680555555555
+  lon: 22.789944444444448
+  altitude: 170.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 21.14
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 11:00:19.000000000+02:00
+- image_filename: 2020_07_26__11_00__7264780.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.009861111111114
+  lon: 22.79018055555556
+  altitude: 170.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 39.1
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 11:00:22.000000000+02:00
+- image_filename: 2020_07_26__11_10__7264818.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.03520833333333
+  lon: 22.846944444444443
+  altitude: 162.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4287
+  height: 3145
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 11:10:08.000000000+02:00
+- image_filename: 2020_07_26__11_21__7264879.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.06475
+  lon: 22.91473611111111
+  altitude: 176.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 88.56
+  iso: 320
+  width: 4955
+  height: 3698
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 11:21:29.000000000+02:00
+- image_filename: 2020_07_26__11_30__7264907.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.09823611111111
+  lon: 22.953152777777778
+  altitude: 169.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 21.64
+  iso: 320
+  width: 5148
+  height: 3844
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 11:30:11.000000000+02:00
+- image_filename: 2020_07_26__11_36__7264921.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.10551388888889
+  lon: 22.946083333333334
+  altitude: 166.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 2.59
+  iso: 320
+  width: 4870
+  height: 3604
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 11:36:32.000000000+02:00
+- image_filename: 2020_07_26__12_00__7264958.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.11388888888889
+  lon: 22.96983333333333
+  altitude: 162.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 41.17
+  iso: 320
+  width: 5028
+  height: 3589
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:00:45.000000000+02:00
+- image_filename: 2020_07_26__12_01__7264968.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.113708333333335
+  lon: 22.97825
+  altitude: 158.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 2.29
+  iso: 320
+  width: 4824
+  height: 3401
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:01:37.000000000+02:00
+- image_filename: 2020_07_26__12_02__7264972.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.11527777777778
+  lon: 22.988875
+  altitude: 154.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 90.02
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:02:31.000000000+02:00
 - image_filename: 2020_07_26__12_02__7264973.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
   lat: 54.11555555555556
@@ -487,24 +989,438 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-26 12:02:39.000000000+02:00
-- image_filename: 2020_07_26__10_40__7264505.jpg
+- image_filename: 2020_07_26__12_04__7265020.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.97108333333333
-  lon: 22.67523611111111
-  altitude: 174.0
+  lat: 54.12348611111111
+  lon: 23.01488888888889
+  altitude: 165.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 64.5
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:04:52.000000000+02:00
+- image_filename: 2020_07_26__12_06__7265033.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.13176388888889
+  lon: 23.031902777777777
+  altitude: 171.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 5.09
+  iso: 320
+  width: 4931
+  height: 3455
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:06:36.000000000+02:00
+- image_filename: 2020_07_26__12_08__7265061.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.14995833333333
+  lon: 23.035333333333334
+  altitude: 172.0
   focal_length: 47.0
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 20.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 25.44
   iso: 320
-  width: 5070
-  height: 3785
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 10:40:13.000000000+02:00
+  time: 2020-07-26 12:08:44.000000000+02:00
+- image_filename: 2020_07_26__12_08__7265063.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.15025
+  lon: 23.035458333333334
+  altitude: 172.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 20.76
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:08:46.000000000+02:00
+- image_filename: 2020_07_26__12_09__7265074.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.15713888888889
+  lon: 23.03838888888889
+  altitude: 168.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 9.47
+  iso: 320
+  width: 5096
+  height: 3705
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:09:39.000000000+02:00
+- image_filename: 2020_07_26__12_11__7265108.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.16475
+  lon: 23.051722222222224
+  altitude: 162.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 3.52
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:11:05.000000000+02:00
+- image_filename: 2020_07_26__12_11__7265114.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.165013888888886
+  lon: 23.052222222222223
+  altitude: 162.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 4.57
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:11:08.000000000+02:00
+- image_filename: 2020_07_26__12_11__7265116.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.16529166666667
+  lon: 23.052736111111113
+  altitude: 162.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 34.56
+  iso: 320
+  width: 5084
+  height: 3794
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:11:12.000000000+02:00
+- image_filename: 2020_07_26__12_11__7265121.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.166222222222224
+  lon: 23.054444444444446
+  altitude: 163.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 109.22
+  iso: 320
+  width: 4952
+  height: 3529
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:11:22.000000000+02:00
+- image_filename: 2020_07_26__12_12__7265133.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.1705
+  lon: 23.061708333333335
+  altitude: 167.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 18.0
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:12:12.000000000+02:00
+- image_filename: 2020_07_26__12_12__7265160.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.172694444444446
+  lon: 23.064902777777778
+  altitude: 169.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 45.89
+  iso: 320
+  width: 4430
+  height: 3290
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:12:35.000000000+02:00
+- image_filename: 2020_07_26__12_13__7265205.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.17777777777778
+  lon: 23.08147222222222
+  altitude: 164.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 76.56
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:13:52.000000000+02:00
+- image_filename: 2020_07_26__12_15__7265216.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.1825
+  lon: 23.105597222222222
+  altitude: 164.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 3.3
+  iso: 320
+  width: 5178
+  height: 3850
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:15:46.000000000+02:00
+- image_filename: 2020_07_26__12_17__7265225.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.19079166666666
+  lon: 23.11952777777778
+  altitude: 164.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4696
+  height: 3426
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:17:05.000000000+02:00
+- image_filename: 2020_07_26__12_17__7265247.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.19183333333333
+  lon: 23.122375
+  altitude: 163.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 90.02
+  iso: 320
+  width: 5110
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:17:18.000000000+02:00
+- image_filename: 2020_07_26__12_19__7265269.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.20194444444445
+  lon: 23.14547222222222
+  altitude: 157.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 18.34
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:19:15.000000000+02:00
+- image_filename: 2020_07_26__12_19__7265275.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.20202777777778
+  lon: 23.145680555555554
+  altitude: 157.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 18.53
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:19:16.000000000+02:00
+- image_filename: 2020_07_26__12_20__7265292.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.20979166666667
+  lon: 23.15934722222222
+  altitude: 157.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:20:32.000000000+02:00
+- image_filename: 2020_07_26__12_20__7265298.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.211000000000006
+  lon: 23.16148611111111
+  altitude: 158.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 6.53
+  iso: 320
+  width: 4799
+  height: 3729
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:20:44.000000000+02:00
+- image_filename: 2020_07_26__12_21__7265316.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.21465277777778
+  lon: 23.17366666666667
+  altitude: 155.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 44.76
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:21:43.000000000+02:00
+- image_filename: 2020_07_26__12_26__7265354.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.23898611111111
+  lon: 23.207833333333333
+  altitude: 156.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 4.57
+  iso: 320
+  width: 5115
+  height: 3716
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:26:47.000000000+02:00
+- image_filename: 2020_07_26__12_34__7265387.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.24030555555556
+  lon: 23.208791666666666
+  altitude: 155.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.45
+  iso: 200
+  width: 4303
+  height: 3084
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:34:10.000000000+02:00
+- image_filename: 2020_07_26__12_36__7265391.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.23994444444445
+  lon: 23.209041666666668
+  altitude: 155.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 17.16
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:36:35.000000000+02:00
+- image_filename: 2020_07_26__12_39__7265408.jpg
+  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
+  lat: 54.23851388888889
+  lon: 23.207472222222222
+  altitude: 154.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.19
+  iso: 200
+  width: 5034
+  height: 3904
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 12:39:51.000000000+02:00
 - image_filename: 2020_07_26__12_40__7265410.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
   lat: 54.238527777777776
@@ -541,600 +1457,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-26 12:48:18.000000000+02:00
-- image_filename: 2020_07_26__07_03__7263629.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.560805555555554
-  lon: 20.994458333333334
-  altitude: 137.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 58.51
-  iso: 320
-  width: 5020
-  height: 3597
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 07:03:18.000000000+02:00
-- image_filename: 2020_07_26__10_46__7264642.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.987097222222225
-  lon: 22.708652777777775
-  altitude: 177.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 39.86
-  iso: 320
-  width: 5060
-  height: 3788
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:46:19.000000000+02:00
-- image_filename: 2020_07_26__06_21__7263470.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.74769444444445
-  lon: 20.559013888888888
-  altitude: 117.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 68.84
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 06:21:25.000000000+02:00
-- image_filename: 2020_07_26__10_56__7264735.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.995958333333334
-  lon: 22.78101388888889
-  altitude: 164.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 3.7
-  iso: 320
-  width: 4950
-  height: 3785
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:56:39.000000000+02:00
-- image_filename: 2020_07_26__09_02__7264156.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.72961111111111
-  lon: 22.183888888888887
-  altitude: 138.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 38.28
-  iso: 250
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 09:02:20.000000000+02:00
-- image_filename: 2020_07_26__11_10__7264818.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.03520833333333
-  lon: 22.846944444444443
-  altitude: 162.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 1000.0
-  iso: 320
-  width: 4287
-  height: 3145
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 11:10:08.000000000+02:00
-- image_filename: 2020_07_26__12_11__7265116.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.16529166666667
-  lon: 23.052736111111113
-  altitude: 162.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 34.56
-  iso: 320
-  width: 5084
-  height: 3794
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:11:12.000000000+02:00
-- image_filename: 2020_07_26__06_31__7263525.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.69676388888889
-  lon: 20.668805555555558
-  altitude: 136.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 84.45
-  iso: 320
-  width: 4976
-  height: 3715
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 06:31:41.000000000+02:00
-- image_filename: 2020_07_26__11_00__7264778.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.009680555555555
-  lon: 22.789944444444448
-  altitude: 170.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 21.14
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 11:00:19.000000000+02:00
-- image_filename: 2020_07_26__12_13__7265205.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.17777777777778
-  lon: 23.08147222222222
-  altitude: 164.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 76.56
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:13:52.000000000+02:00
-- image_filename: 2020_07_26__08_40__7263972.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.61902777777778
-  lon: 22.026249999999997
-  altitude: 141.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 104.36
-  iso: 250
-  width: 5107
-  height: 3812
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 08:40:24.000000000+02:00
-- image_filename: 2020_07_26__12_15__7265216.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.1825
-  lon: 23.105597222222222
-  altitude: 164.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 3.3
-  iso: 320
-  width: 5178
-  height: 3850
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:15:46.000000000+02:00
-- image_filename: 2020_07_26__12_21__7265316.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.21465277777778
-  lon: 23.17366666666667
-  altitude: 155.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 44.76
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:21:43.000000000+02:00
-- image_filename: 2020_07_26__12_04__7265020.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.12348611111111
-  lon: 23.01488888888889
-  altitude: 165.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 64.5
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:04:52.000000000+02:00
-- image_filename: 2020_07_26__08_54__7264082.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.685138888888886
-  lon: 22.11101388888889
-  altitude: 144.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 19.85
-  iso: 250
-  width: 5007
-  height: 3738
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 08:54:13.000000000+02:00
-- image_filename: 2020_07_26__11_36__7264921.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.10551388888889
-  lon: 22.946083333333334
-  altitude: 166.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 2.59
-  iso: 320
-  width: 4870
-  height: 3604
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 11:36:32.000000000+02:00
-- image_filename: 2020_07_26__06_23__7263488.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.73419444444445
-  lon: 20.570458333333335
-  altitude: 114.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 18.43
-  iso: 320
-  width: 5083
-  height: 3794
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 06:23:11.000000000+02:00
-- image_filename: 2020_07_26__10_39__7264484.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.97184722222222
-  lon: 22.671958333333336
-  altitude: 173.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 6.66
-  iso: 320
-  width: 4965
-  height: 3645
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:39:55.000000000+02:00
-- image_filename: 2020_07_26__12_39__7265408.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.23851388888889
-  lon: 23.207472222222222
-  altitude: 154.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 3.19
-  iso: 200
-  width: 5034
-  height: 3904
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:39:51.000000000+02:00
-- image_filename: 2020_07_26__12_08__7265063.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.15025
-  lon: 23.035458333333334
-  altitude: 172.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 20.76
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:08:46.000000000+02:00
-- image_filename: 2020_07_26__10_42__7264564.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.97252777777778
-  lon: 22.702527777777778
-  altitude: 174.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 3.78
-  iso: 320
-  width: 5068
-  height: 3770
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:42:40.000000000+02:00
-- image_filename: 2020_07_26__12_36__7265391.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.23994444444445
-  lon: 23.209041666666668
-  altitude: 155.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 17.16
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:36:35.000000000+02:00
-- image_filename: 2020_07_26__09_37__7264315.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.84026388888889
-  lon: 22.380958333333332
-  altitude: 128.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1000.0
-  iso: 320
-  width: 4900
-  height: 3711
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 09:37:18.000000000+02:00
-- image_filename: 2020_07_26__10_30__7264380.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.991166666666665
-  lon: 22.56972222222222
-  altitude: 166.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 91.02
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:30:24.000000000+02:00
-- image_filename: 2020_07_26__12_19__7265269.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.20194444444445
-  lon: 23.14547222222222
-  altitude: 157.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 18.34
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:19:15.000000000+02:00
-- image_filename: 2020_07_26__07_15__7263671.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.554361111111106
-  lon: 21.098916666666664
-  altitude: 140.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 11.1
-  iso: 400
-  width: 5116
-  height: 3819
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 07:15:36.000000000+02:00
-- image_filename: 2020_07_26__11_30__7264907.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.09823611111111
-  lon: 22.953152777777778
-  altitude: 169.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 21.64
-  iso: 320
-  width: 5148
-  height: 3844
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 11:30:11.000000000+02:00
-- image_filename: 2020_07_26__08_39__7263942.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.62083333333334
-  lon: 22.020902777777778
-  altitude: 140.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 86.68
-  iso: 250
-  width: 4567
-  height: 3697
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 08:39:58.000000000+02:00
-- image_filename: 2020_07_26__09_14__7264268.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.76201388888889
-  lon: 22.307597222222224
-  altitude: 136.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 109.22
-  iso: 250
-  width: 5126
-  height: 3758
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 09:14:42.000000000+02:00
-- image_filename: 2020_07_26__12_12__7265160.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.172694444444446
-  lon: 23.064902777777778
-  altitude: 169.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 45.89
-  iso: 320
-  width: 4430
-  height: 3290
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:12:35.000000000+02:00
-- image_filename: 2020_07_26__13_00__7265536.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.17572222222222
-  lon: 23.06911111111111
-  altitude: 176.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 3.43
-  iso: 320
-  width: 5180
-  height: 3865
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 13:00:04.000000000+02:00
-- image_filename: 2020_07_26__07_56__7263802.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.645944444444446
-  lon: 21.567597222222222
-  altitude: 127.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 81.11
-  iso: 400
-  width: 4963
-  height: 3561
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 07:56:18.000000000+02:00
-- image_filename: 2020_07_26__09_02__7264149.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.72743055555556
-  lon: 22.184472222222222
-  altitude: 136.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 77.28
-  iso: 250
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 09:02:00.000000000+02:00
 - image_filename: 2020_07_26__12_49__7265437.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
   lat: 54.219319444444444
@@ -1153,186 +1475,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-26 12:49:53.000000000+02:00
-- image_filename: 2020_07_26__08_40__7263978.jpg
+- image_filename: 2020_07_26__12_51__7265445.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.61636111111111
-  lon: 22.030305555555554
-  altitude: 139.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 27.31
-  iso: 250
-  width: 5019
-  height: 3747
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 08:40:51.000000000+02:00
-- image_filename: 2020_07_26__09_12__7264258.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.746722222222225
-  lon: 22.294319444444447
-  altitude: 158.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 85.33
-  iso: 250
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 09:12:30.000000000+02:00
-- image_filename: 2020_07_26__13_06__7265603.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.130180555555555
-  lon: 23.030180555555553
-  altitude: 182.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 38.46
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 13:06:41.000000000+02:00
-- image_filename: 2020_07_26__12_57__7265479.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.180875
-  lon: 23.10268055555556
-  altitude: 171.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 9.92
-  iso: 320
-  width: 4238
-  height: 3188
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:57:38.000000000+02:00
-- image_filename: 2020_07_26__09_07__7264195.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.738375
-  lon: 22.232333333333333
+  lat: 54.214083333333335
+  lon: 23.167986111111112
   altitude: 161.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 67.98
-  iso: 250
-  width: 5040
-  height: 3763
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 09:07:21.000000000+02:00
-- image_filename: 2020_07_26__12_17__7265225.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.19079166666666
-  lon: 23.11952777777778
-  altitude: 164.0
-  focal_length: 15.0
-  focal_length_35: 30.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
   exposure: 0.00125
   exposure_string: 1/800 s
-  focus_distance: 1000.0
-  iso: 320
-  width: 4696
-  height: 3426
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:17:05.000000000+02:00
-- image_filename: 2020_07_26__07_56__7263814.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.64465277777778
-  lon: 21.568902777777776
-  altitude: 127.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 4.28
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 07:56:32.000000000+02:00
-- image_filename: 2020_07_26__10_38__7264439.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.97661111111111
-  lon: 22.661041666666666
-  altitude: 168.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 1000.0
+  focus_distance: 3.61
   iso: 320
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 10:38:45.000000000+02:00
-- image_filename: 2020_07_26__06_54__7263601.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.58968055555556
-  lon: 20.890555555555554
-  altitude: 136.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 45.76
-  iso: 320
-  width: 5078
-  height: 3688
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 06:54:52.000000000+02:00
-- image_filename: 2020_07_26__12_26__7265354.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.23898611111111
-  lon: 23.207833333333333
-  altitude: 156.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 4.57
-  iso: 320
-  width: 5115
-  height: 3716
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:26:47.000000000+02:00
+  time: 2020-07-26 12:51:16.000000000+02:00
 - image_filename: 2020_07_26__12_51__7265461.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
   lat: 54.21293055555556
@@ -1351,150 +1511,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-26 12:51:31.000000000+02:00
-- image_filename: 2020_07_26__10_57__7264748.jpg
+- image_filename: 2020_07_26__12_57__7265479.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.99930555555556
-  lon: 22.783569444444446
-  altitude: 165.0
-  focal_length: 44.0
-  focal_length_35: 88.0
+  lat: 54.180875
+  lon: 23.10268055555556
+  altitude: 171.0
+  focal_length: 20.0
+  focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 17.19
-  iso: 320
-  width: 4658
-  height: 3456
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:57:29.000000000+02:00
-- image_filename: 2020_07_26__12_34__7265387.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.24030555555556
-  lon: 23.208791666666666
-  altitude: 155.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 0.45
-  iso: 200
-  width: 4303
-  height: 3084
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:34:10.000000000+02:00
-- image_filename: 2020_07_26__07_28__7263776.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.56830555555556
-  lon: 21.292194444444448
-  altitude: 136.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 22.41
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 07:28:56.000000000+02:00
-- image_filename: 2020_07_26__12_20__7265292.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.20979166666667
-  lon: 23.15934722222222
-  altitude: 157.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 1000.0
+  focus_distance: 9.92
   iso: 320
-  width: 5239
-  height: 3911
+  width: 4238
+  height: 3188
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 12:20:32.000000000+02:00
-- image_filename: 2020_07_26__10_45__7264625.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.98481944444445
-  lon: 22.707166666666666
-  altitude: 177.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 11.41
-  iso: 320
-  width: 5107
-  height: 3811
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:45:45.000000000+02:00
-- image_filename: 2020_07_26__08_54__7264096.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.68713888888889
-  lon: 22.112638888888892
-  altitude: 141.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 28.79
-  iso: 250
-  width: 5180
-  height: 3867
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 08:54:29.000000000+02:00
-- image_filename: 2020_07_26__12_11__7265108.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.16475
-  lon: 23.051722222222224
-  altitude: 162.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 3.52
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 12:11:05.000000000+02:00
-- image_filename: 2020_07_26__07_15__7263673.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.55433333333333
-  lon: 21.099416666666666
-  altitude: 140.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 94.16
-  iso: 400
-  width: 5124
-  height: 3639
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 07:15:38.000000000+02:00
+  time: 2020-07-26 12:57:38.000000000+02:00
 - image_filename: 2020_07_26__12_58__7265493.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
   lat: 54.17831944444444
@@ -1513,111 +1547,39 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-26 12:58:32.000000000+02:00
-- image_filename: 2020_07_26__10_44__7264597.jpg
+- image_filename: 2020_07_26__13_00__7265536.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.97854166666667
-  lon: 22.708930555555554
-  altitude: 178.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 18.73
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 10:44:25.000000000+02:00
-- image_filename: 2020_07_26__08_45__7264045.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.62470833333333
-  lon: 22.09351388888889
-  altitude: 141.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 96.94
-  iso: 250
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 08:45:51.000000000+02:00
-- image_filename: 2020_07_26__09_05__7264177.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 53.74033333333333
-  lon: 22.209430555555556
-  altitude: 158.0
-  focal_length: 31.0
-  focal_length_35: 62.0
+  lat: 54.17572222222222
+  lon: 23.06911111111111
+  altitude: 176.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
   exposure: 0.001
   exposure_string: 1/1000 s
-  focus_distance: 27.17
-  iso: 250
-  width: 5090
-  height: 3422
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 09:05:35.000000000+02:00
-- image_filename: 2020_07_26__12_02__7264972.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.11527777777778
-  lon: 22.988875
-  altitude: 154.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 90.02
+  focus_distance: 3.43
   iso: 320
-  width: 5239
-  height: 3911
+  width: 5180
+  height: 3865
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 12:02:31.000000000+02:00
-- image_filename: 2020_07_26__13_57__7265623.jpg
+  time: 2020-07-26 13:00:04.000000000+02:00
+- image_filename: 2020_07_26__13_06__7265603.jpg
   post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.12111111111111
-  lon: 22.863333333333333
-  altitude: 147.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 21.17
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-26 13:57:18.000000000+02:00
-- image_filename: 2020_07_26__14_09__7265642.jpg
-  post_slug: 2020-07-26-polnocno-wschodni-kraniec-kolejowy
-  lat: 54.184999999999995
-  lon: 22.730833333333333
+  lat: 54.130180555555555
+  lon: 23.030180555555553
   altitude: 182.0
-  focal_length: 80.0
-  focal_length_35: 160.0
+  focal_length: 38.0
+  focal_length_35: 76.0
   crop: 2.0
   aperture: 4.0
   exposure: 0.001
   exposure_string: 1/1000 s
-  focus_distance: 73.47
+  focus_distance: 38.46
   iso: 320
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-26 14:09:00.000000000+02:00
+  time: 2020-07-26 13:06:41.000000000+02:00

@@ -1,42 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
-- image_filename: 2022_08_27__08_50_P8272033.jpg
-  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
-  lat: 52.586986111111116
-  lon: 17.66525
-  altitude: 96.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 27.08
-  iso: 200
-  width: 8130
-  height: 6052
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-08-27 08:50:12.000000000+02:00
-- image_filename: 2022_08_27__08_46_P8272029.jpg
-  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
-  lat: 52.58554166666667
-  lon: 17.664152777777776
-  altitude: 95.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 15.48
-  iso: 200
-  width: 7904
-  height: 5705
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-08-27 08:46:45.000000000+02:00
 - image_filename: 2022_08_27__08_38_P8272027.jpg
   post_slug: 2022-08-27-goracy-poranek-obok-gniezna
   lat: 52.57555555555556
@@ -55,60 +17,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-08-27 08:38:36.000000000+02:00
-- image_filename: 2022_08_27__09_05_P8272036.jpg
+- image_filename: 2022_08_27__08_46_P8272029.jpg
   post_slug: 2022-08-27-goracy-poranek-obok-gniezna
-  lat: 52.61797222222222
-  lon: 17.648138888888887
-  altitude: 93.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 2.33
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-08-27 09:05:30.000000000+02:00
-- image_filename: 2022_08_27__10_26_P8272038.jpg
-  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
-  lat: 52.608180555555556
-  lon: 17.487625
+  lat: 52.58554166666667
+  lon: 17.664152777777776
   altitude: 95.0
-  focal_length: 20.0
-  focal_length_35: 40.0
+  focal_length: 28.0
+  focal_length_35: 56.0
   crop: 2.0
   aperture: 7.1
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 6.44
+  focus_distance: 15.48
   iso: 200
-  width: 7713
-  height: 5922
+  width: 7904
+  height: 5705
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-08-27 10:26:52.000000000+02:00
-- image_filename: 2022_08_27__08_52_P8272034.jpg
-  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
-  lat: 52.589708333333334
-  lon: 17.666138888888888
-  altitude: 101.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 20.5
-  iso: 200
-  width: 8047
-  height: 5925
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-08-27 08:52:13.000000000+02:00
+  time: 2022-08-27 08:46:45.000000000+02:00
 - image_filename: 2022_08_27__08_47_P8272031.jpg
   post_slug: 2022-08-27-goracy-poranek-obok-gniezna
   lat: 52.58558333333333
@@ -127,6 +53,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-08-27 08:47:43.000000000+02:00
+- image_filename: 2022_08_27__08_50_P8272033.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.586986111111116
+  lon: 17.66525
+  altitude: 96.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 27.08
+  iso: 200
+  width: 8130
+  height: 6052
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-08-27 08:50:12.000000000+02:00
+- image_filename: 2022_08_27__08_52_P8272034.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.589708333333334
+  lon: 17.666138888888888
+  altitude: 101.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 20.5
+  iso: 200
+  width: 8047
+  height: 5925
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-08-27 08:52:13.000000000+02:00
+- image_filename: 2022_08_27__09_05_P8272036.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.61797222222222
+  lon: 17.648138888888887
+  altitude: 93.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.33
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-08-27 09:05:30.000000000+02:00
 - image_filename: 2022_08_27__09_35_P8272037.jpg
   post_slug: 2022-08-27-goracy-poranek-obok-gniezna
   lat: 52.59298611111112
@@ -145,6 +125,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-08-27 09:35:33.000000000+02:00
+- image_filename: 2022_08_27__10_26_P8272038.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.608180555555556
+  lon: 17.487625
+  altitude: 95.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.44
+  iso: 200
+  width: 7713
+  height: 5922
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-08-27 10:26:52.000000000+02:00
 - image_filename: 2022_08_27__10_36_P8272039.jpg
   post_slug: 2022-08-27-goracy-poranek-obok-gniezna
   lat: 52.59081944444445

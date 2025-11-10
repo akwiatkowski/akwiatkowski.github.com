@@ -1,42 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-- image_filename: 2021_05_11__17_21__5115305.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.61822222222222
-  lon: 17.00576388888889
-  altitude: 92.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 17:21:15.000000000+02:00
-- image_filename: 2021_05_11__17_14__5115296.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.608069444444446
-  lon: 17.0145
-  altitude: 99.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 5.06
-  iso: 200
-  width: 5202
-  height: 3833
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 17:14:26.000000000+02:00
 - image_filename: 2021_05_11__17_07__5115290.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.60029166666667
@@ -91,6 +53,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 17:07:37.000000000+02:00
+- image_filename: 2021_05_11__17_14__5115296.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.608069444444446
+  lon: 17.0145
+  altitude: 99.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.06
+  iso: 200
+  width: 5202
+  height: 3833
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 17:14:26.000000000+02:00
+- image_filename: 2021_05_11__17_21__5115305.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.61822222222222
+  lon: 17.00576388888889
+  altitude: 92.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 17:21:15.000000000+02:00
 - image_filename: 2021_05_11__17_32__5115306.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.626125
@@ -217,24 +215,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 17:55:20.000000000+02:00
-- image_filename: 2021_05_11__17_56__5115328.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.65656944444444
-  lon: 16.956902777777778
-  altitude: 111.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 36.57
-  iso: 200
-  width: 5164
-  height: 3855
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 17:56:18.000000000+02:00
 - image_filename: 2021_05_11__17_55__5115324.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.65656944444444
@@ -253,6 +233,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 17:55:44.000000000+02:00
+- image_filename: 2021_05_11__17_56__5115328.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.65656944444444
+  lon: 16.956902777777778
+  altitude: 111.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 36.57
+  iso: 200
+  width: 5164
+  height: 3855
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 17:56:18.000000000+02:00
 - image_filename: 2021_05_11__17_56__5115332.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.65656944444444
@@ -271,24 +269,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 17:56:50.000000000+02:00
-- image_filename: 2021_05_11__18_22__5115344.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.69448611111111
-  lon: 16.934305555555557
-  altitude: 91.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 26.99
-  iso: 200
-  width: 4910
-  height: 3665
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 18:22:54.000000000+02:00
 - image_filename: 2021_05_11__18_18__5115335.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.690194444444444
@@ -307,24 +287,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 18:18:24.000000000+02:00
-- image_filename: 2021_05_11__18_39__5115356.jpg
+- image_filename: 2021_05_11__18_22__5115344.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.735347222222224
-  lon: 16.908666666666665
-  altitude: 87.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 52.69448611111111
+  lon: 16.934305555555557
+  altitude: 91.0
+  focal_length: 31.0
+  focal_length_35: 62.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 75.15
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 26.99
   iso: 200
-  width: 5239
-  height: 3911
+  width: 4910
+  height: 3665
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-11 18:39:59.000000000+02:00
+  time: 2021-05-11 18:22:54.000000000+02:00
 - image_filename: 2021_05_11__18_39__5115350.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.73088888888889
@@ -361,24 +341,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 18:39:05.000000000+02:00
-- image_filename: 2021_05_11__18_59__5115365.jpg
+- image_filename: 2021_05_11__18_39__5115356.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.79259722222222
-  lon: 16.872097222222223
-  altitude: 88.0
-  focal_length: 17.0
-  focal_length_35: 34.0
+  lat: 52.735347222222224
+  lon: 16.908666666666665
+  altitude: 87.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 6.3
+  aperture: 4.0
   exposure: 0.00625
   exposure_string: 1/160 s
-  focus_distance: 1000.0
+  focus_distance: 75.15
   iso: 200
-  width: 5091
-  height: 3800
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-11 18:59:47.000000000+02:00
+  time: 2021-05-11 18:39:59.000000000+02:00
 - image_filename: 2021_05_11__18_42__5115360.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.74570833333333
@@ -397,6 +377,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 18:42:45.000000000+02:00
+- image_filename: 2021_05_11__18_59__5115365.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.79259722222222
+  lon: 16.872097222222223
+  altitude: 88.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5091
+  height: 3800
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 18:59:47.000000000+02:00
 - image_filename: 2021_05_11__19_00__5115369.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.79369444444444
@@ -433,24 +431,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 19:00:42.000000000+02:00
-- image_filename: 2021_05_11__19_02__5115383.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.798027777777776
-  lon: 16.867583333333332
-  altitude: 88.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 37.24
-  iso: 200
-  width: 4905
-  height: 3661
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 19:02:11.000000000+02:00
 - image_filename: 2021_05_11__19_00__5115375.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.796749999999996
@@ -469,60 +449,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 19:00:55.000000000+02:00
-- image_filename: 2021_05_11__19_39__5115420.jpg
+- image_filename: 2021_05_11__19_02__5115383.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.83052777777778
-  lon: 16.934125
-  altitude: 92.0
-  focal_length: 41.0
-  focal_length_35: 82.0
+  lat: 52.798027777777776
+  lon: 16.867583333333332
+  altitude: 88.0
+  focal_length: 47.0
+  focal_length_35: 94.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 37.24
   iso: 200
-  width: 5018
-  height: 3746
+  width: 4905
+  height: 3661
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-11 19:39:26.000000000+02:00
-- image_filename: 2021_05_11__19_37__5115410.jpg
+  time: 2021-05-11 19:02:11.000000000+02:00
+- image_filename: 2021_05_11__19_02__5115386.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.82633333333334
-  lon: 16.936125
-  altitude: 95.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 52.798027777777776
+  lon: 16.867583333333332
+  altitude: 88.0
+  focal_length: 61.0
+  focal_length_35: 122.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 0.45
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 18.85
   iso: 200
-  width: 3724
-  height: 2853
+  width: 5008
+  height: 3665
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-11 19:37:35.000000000+02:00
-- image_filename: 2021_05_11__19_37__5115406.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.82633333333334
-  lon: 16.936125
-  altitude: 95.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 0.47
-  iso: 200
-  width: 3912
-  height: 5240
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 19:37:01.000000000+02:00
+  time: 2021-05-11 19:02:25.000000000+02:00
 - image_filename: 2021_05_11__19_17__5115393.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.81322222222222
@@ -541,6 +503,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 19:17:17.000000000+02:00
+- image_filename: 2021_05_11__19_37__5115406.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.82633333333334
+  lon: 16.936125
+  altitude: 95.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 0.47
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 19:37:01.000000000+02:00
+- image_filename: 2021_05_11__19_37__5115410.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.82633333333334
+  lon: 16.936125
+  altitude: 95.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 0.45
+  iso: 200
+  width: 3724
+  height: 2853
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 19:37:35.000000000+02:00
+- image_filename: 2021_05_11__19_39__5115420.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.83052777777778
+  lon: 16.934125
+  altitude: 92.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5018
+  height: 3746
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 19:39:26.000000000+02:00
 - image_filename: 2021_05_11__19_43__5115425.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   focal_length: 75.0
@@ -592,24 +608,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 19:46:33.000000000+02:00
-- image_filename: 2021_05_11__19_02__5115386.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.798027777777776
-  lon: 16.867583333333332
-  altitude: 88.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 18.85
-  iso: 200
-  width: 5008
-  height: 3665
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 19:02:25.000000000+02:00
 - image_filename: 2021_05_11__19_46__5115435.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.83836111111111
@@ -700,24 +698,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 19:48:42.000000000+02:00
-- image_filename: 2021_05_11__19_49__5115469.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.84502777777778
-  lon: 16.94061111111111
-  altitude: 113.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 0.47
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 19:49:55.000000000+02:00
 - image_filename: 2021_05_11__19_49__5115465.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.84504166666667
@@ -736,24 +716,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 19:49:40.000000000+02:00
-- image_filename: 2021_05_11__19_57__5115477.jpg
+- image_filename: 2021_05_11__19_49__5115469.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.84501388888889
-  lon: 16.940458333333332
-  altitude: 114.0
+  lat: 52.84502777777778
+  lon: 16.94061111111111
+  altitude: 113.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 7.58
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.47
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-11 19:57:15.000000000+02:00
+  time: 2021-05-11 19:49:55.000000000+02:00
 - image_filename: 2021_05_11__19_56__5115471.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.84498611111111
@@ -772,6 +752,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 19:56:33.000000000+02:00
+- image_filename: 2021_05_11__19_57__5115477.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.84501388888889
+  lon: 16.940458333333332
+  altitude: 114.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 7.58
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 19:57:15.000000000+02:00
 - image_filename: 2021_05_11__19_59__5115487.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.84140277777778
@@ -790,24 +788,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 19:59:21.000000000+02:00
-- image_filename: 2021_05_11__20_00__5115492.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.839736111111115
-  lon: 16.95434722222222
-  altitude: 113.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 0.64
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 20:00:25.000000000+02:00
 - image_filename: 2021_05_11__20_00__5115489.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.840333333333334
@@ -826,6 +806,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 20:00:01.000000000+02:00
+- image_filename: 2021_05_11__20_00__5115492.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.839736111111115
+  lon: 16.95434722222222
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.64
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 20:00:25.000000000+02:00
+- image_filename: 2021_05_11__20_01__5115499.jpg
+  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.83854166666667
+  lon: 16.957833333333333
+  altitude: 112.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.75
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-11 20:01:12.000000000+02:00
 - image_filename: 2021_05_11__20_01__5115502.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   lat: 52.83826388888889
@@ -862,24 +878,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-11 20:02:13.000000000+02:00
-- image_filename: 2021_05_11__20_01__5115499.jpg
-  post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
-  lat: 52.83854166666667
-  lon: 16.957833333333333
-  altitude: 112.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 2.75
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-11 20:01:12.000000000+02:00
 - image_filename: 2021_05_11__20_12__5115517.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
   focal_length: 28.0

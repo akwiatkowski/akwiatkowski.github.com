@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_06_01__19_20_P6010532.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516
-  lon: 15.246930555555554
-  altitude: 37.0
-  focal_length: 73.0
-  focal_length_35: 146.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2019-06-01 19:20:39+02:00
-  focus_distance: 10.37
 - image_filename: 2019_06_01__16_34_P6010286.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   lat: 52.51109722222222
@@ -26,1122 +8,45 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2019-06-01 16:34:36+02:00
   focus_distance: 0.96
-- image_filename: 2019_06_01__17_43_P6010329.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51023611111111
-  lon: 15.234625
-  altitude: 37.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4549
-  height: 3400
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-01 17:43:06+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__18_58_P6010346.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.514319444444446
-  lon: 15.246944444444443
-  altitude: 42.0
-  focal_length: 30.0
-  focal_length_35: 60.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4593
-  height: 3408
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-01 18:58:44+02:00
-  focus_distance: 87.93
-- image_filename: 2019_06_01__19_11_P6010378.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51609722222222
-  lon: 15.247652777777777
-  altitude: 35.0
-  focal_length: 55.0
-  focal_length_35: 110.0
-  crop: 2.0
-  aperture: 5.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4453
-  height: 3332
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-06-01 19:11:06+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__19_16_P6010448.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516194444444444
-  lon: 15.247222222222222
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4168
-  height: 2950
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-06-01 19:16:17+02:00
-  focus_distance: 21.16
-- image_filename: 2019_06_01__19_21_P6010545.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51605555555555
-  lon: 15.246930555555554
-  altitude: 39.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
   iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-06-01 19:21:22+02:00
-  focus_distance: 9.15
-- image_filename: 2019_06_01__19_20_P6010509.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516041666666666
-  lon: 15.246944444444443
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-06-01 19:20:04+02:00
-  focus_distance: 5.25
-- image_filename: 2019_06_01__19_26_P6010601.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516222222222225
-  lon: 15.247291666666666
-  altitude: 38.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-01 19:26:51+02:00
-  focus_distance: 2.85
-- image_filename: 2019_06_01__19_27_P6010612.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51618055555556
-  lon: 15.247263888888888
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-01 19:27:29+02:00
-  focus_distance: 5.18
-- image_filename: 2019_06_01__19_38_P6010656.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.517041666666664
-  lon: 15.24598611111111
-  altitude: 40.0
-  focal_length: 26.0
-  focal_length_35: 52.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4603
-  height: 3444
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-01 19:38:58+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__19_39_P6010657.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51679166666666
-  lon: 15.245597222222221
-  altitude: 40.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 19:39:48+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__19_57_P6010676.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51686111111111
-  lon: 15.244555555555555
-  altitude: 40.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-06-01 19:57:18+02:00
-  focus_distance: 9.64
-- image_filename: 2019_06_01__20_07_P6010699.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51651388888889
-  lon: 15.248319444444444
-  altitude: 40.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 1000
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 20:07:16+02:00
-  focus_distance: 1.59
-- image_filename: 2019_06_01__20_10_P6010725.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51697222222222
-  lon: 15.24847222222222
-  altitude: 39.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1600
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-06-01 20:10:58+02:00
-  focus_distance: 3.7
-- image_filename: 2019_06_01__20_18_P6010738.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.515875
-  lon: 15.24697222222222
-  altitude: 40.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-01 20:18:52+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__21_01_P6010759.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.510527777777774
-  lon: 15.240986111111111
-  altitude: 41.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 21:01:36+02:00
-  focus_distance: 6.95
-- image_filename: 2019_06_02__09_42_P6020782.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-06-02 09:42:24+02:00
-  focus_distance: 3.21
-- image_filename: 2019_06_02__09_49_P6020834.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-02 09:49:45+02:00
-  focus_distance: 2.59
-- image_filename: 2019_06_02__09_53_P6020851_01.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-02 09:53:58+02:00
-  focus_distance: 10.62
-- image_filename: 2019_06_02__09_46_P6020819_01.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-02 09:46:42+02:00
-  focus_distance: 1.91
-- image_filename: 2019_06_01__19_41_P6010671.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51656944444444
-  lon: 15.245222222222221
-  altitude: 40.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 19:41:58+02:00
-  focus_distance: 4.68
-- image_filename: 2019_06_01__18_58_P6010345.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51423611111111
-  lon: 15.247
-  altitude: 41.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 18:58:32+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__19_30_P6010630.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516194444444444
-  lon: 15.247333333333332
-  altitude: 38.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4161
-  height: 3146
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-01 19:30:23+02:00
-  focus_distance: 2.56
-- image_filename: 2019_06_01__19_27_P6010606.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51620833333333
-  lon: 15.247319444444443
-  altitude: 38.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 19:27:03+02:00
-  focus_distance: 3.03
-- image_filename: 2019_06_01__19_17_P6010466.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51616666666666
-  lon: 15.247152777777776
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 19:17:52+02:00
-  focus_distance: 5.09
-- image_filename: 2019_06_01__19_32_P6010637.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51618055555556
-  lon: 15.247319444444443
-  altitude: 38.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-01 19:32:05+02:00
-  focus_distance: 23.02
-- image_filename: 2019_06_01__19_24_P6010574.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516
-  lon: 15.246944444444443
-  altitude: 39.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2019-06-01 19:24:38+02:00
-  focus_distance: 1.33
-- image_filename: 2019_06_01__19_20_P6010540.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516
-  lon: 15.246916666666666
-  altitude: 38.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2019-06-01 19:20:51+02:00
-  focus_distance: 22.74
-- image_filename: 2019_06_01__21_14_P6010765.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51179166666667
-  lon: 15.239458333333333
-  altitude: 39.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-06-01 21:14:01+02:00
-  focus_distance: 115.21
-- image_filename: 2019_06_01__19_27_P6010610.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516194444444444
-  lon: 15.247291666666666
-  altitude: 37.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-01 19:27:09+02:00
-  focus_distance: 2.92
-- image_filename: 2019_06_01__18_56_P6010339.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4250
-  height: 3225
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-01 18:56:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__20_10_P6010722.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516958333333335
-  lon: 15.248430555555554
-  altitude: 39.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 1600
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-01 20:10:49+02:00
-  focus_distance: 1.2
-- image_filename: 2019_06_02__09_53_P6020850.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-02 09:53:57+02:00
-  focus_distance: 10.62
-- image_filename: 2019_06_02__09_50_P6020838.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-02 09:50:51+02:00
-  focus_distance: 2.96
-- image_filename: 2019_06_01__19_20_P6010513.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516041666666666
-  lon: 15.246930555555554
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-01 19:20:12+02:00
-  focus_distance: 5.38
-- image_filename: 2019_06_01__19_06_P6010367.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516083333333334
-  lon: 15.247902777777776
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 640
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4065
-  height: 2974
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-06-01 19:06:38+02:00
-  focus_distance: 7.47
-- image_filename: 2019_06_02__09_44_P6020798.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-02 09:44:42+02:00
-  focus_distance: 3.38
-- image_filename: 2019_06_01__21_19_P6010768.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51013888888889
-  lon: 15.241513888888887
-  altitude: 43.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-01 21:19:24+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__19_20_P6010523.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51601388888889
-  lon: 15.246888888888888
-  altitude: 37.0
-  focal_length: 69.0
-  focal_length_35: 138.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-06-01 19:20:23+02:00
-  focus_distance: 6.51
-- image_filename: 2019_06_01__20_23_P6010753.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.514541666666666
-  lon: 15.244458333333332
-  altitude: 40.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-06-01 20:23:46+02:00
-  focus_distance: 4.48
-- image_filename: 2019_06_01__19_14_P6010400.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516083333333334
-  lon: 15.247638888888888
-  altitude: 36.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 19:14:04+02:00
-  focus_distance: 14.26
-- image_filename: 2019_06_02__09_44_P6020803.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-02 09:44:53+02:00
-  focus_distance: 3.28
-- image_filename: 2019_06_01__19_15_P6010434.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51616666666666
-  lon: 15.247208333333333
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-01 19:15:56+02:00
-  focus_distance: 12.75
-- image_filename: 2019_06_01__19_26_P6010595.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516152777777776
-  lon: 15.247166666666665
-  altitude: 38.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4194
-  height: 2988
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-01 19:26:23+02:00
-  focus_distance: 4.29
-- image_filename: 2019_06_01__20_07_P6010702.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516555555555556
-  lon: 15.248319444444444
-  altitude: 40.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 1600
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-01 20:07:27+02:00
-  focus_distance: 1.6
+  time: 2019-06-01 16:34:36.000000000+02:00
 - image_filename: 2019_06_01__16_34_P6010288.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   focal_length: 14.0
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.0
   iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4415
   height: 3284
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 16:34:49+02:00
-  focus_distance: 5.0
-- image_filename: 2019_06_01__19_35_P6010646.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516888888888886
-  lon: 15.246958333333332
-  altitude: 40.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4528
-  height: 3388
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-01 19:35:38+02:00
+  time: 2019-06-01 16:34:49.000000000+02:00
+- image_filename: 2019_06_01__17_35_P6010323.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
   focus_distance: 1000.0
-- image_filename: 2019_06_02__09_46_P6020818.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-02 09:46:41+02:00
-  focus_distance: 1.88
-- image_filename: 2019_06_01__19_38_P6010650.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51713888888889
-  lon: 15.2465
-  altitude: 41.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3449
-  height: 4609
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 19:38:11+02:00
-  focus_distance: 22.24
-- image_filename: 2019_06_02__09_42_P6020784.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-02 09:42:59+02:00
-  focus_distance: 2.17
-- image_filename: 2019_06_01__19_04_P6010363.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.515791666666665
-  lon: 15.248638888888888
-  altitude: 42.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 5.6
   iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-06-01 19:04:38+02:00
-  focus_distance: 6.78
-- image_filename: 2019_06_01__19_18_P6010482.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51613888888889
-  lon: 15.247097222222221
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-01 19:18:47+02:00
-  focus_distance: 5.18
-- image_filename: 2019_06_01__20_07_P6010697.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51647222222222
-  lon: 15.248333333333333
-  altitude: 40.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 1000
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 20:07:05+02:00
-  focus_distance: 2.04
-- image_filename: 2019_06_01__19_20_P6010538.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516
-  lon: 15.246930555555554
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4332
-  height: 3221
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2019-06-01 19:20:47+02:00
-  focus_distance: 17.58
-- image_filename: 2019_06_01__19_19_P6010499.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51602777777778
-  lon: 15.246944444444443
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-01 19:19:57+02:00
-  focus_distance: 4.28
-- image_filename: 2019_06_01__19_33_P6010640.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516444444444446
-  lon: 15.247499999999999
-  altitude: 38.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-01 19:33:49+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_02__09_43_P6020785.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-06-02 09:43:03+02:00
-  focus_distance: 2.14
-- image_filename: 2019_06_01__20_19_P6010739.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.515819444444446
-  lon: 15.246944444444443
-  altitude: 40.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 20:19:03+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__20_16_P6010731.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51629166666667
-  lon: 15.248222222222221
-  altitude: 42.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-01 20:16:35+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__19_23_P6010560.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516041666666666
-  lon: 15.247
-  altitude: 39.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-01 19:23:15+02:00
-  focus_distance: 37.99
-- image_filename: 2019_06_01__18_59_P6010350.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.514625
-  lon: 15.246986111111111
-  altitude: 47.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4472
-  height: 3337
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-01 18:59:39+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_02__09_49_P6020830.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-02 09:49:37+02:00
-  focus_distance: 3.02
-- image_filename: 2019_06_01__19_19_P6010492.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51605555555555
-  lon: 15.247
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-06-01 19:19:12+02:00
-  focus_distance: 5.42
-- image_filename: 2019_06_01__19_24_P6010570.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51601388888889
-  lon: 15.246944444444443
-  altitude: 39.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-06-01 19:24:31+02:00
-  focus_distance: 1.34
-- image_filename: 2019_06_02__09_42_P6020777.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-06-02 09:42:04+02:00
-  focus_distance: 2.88
+  time: 2019-06-01 17:35:14.000000000+02:00
 - image_filename: 2019_06_01__17_36_P6010326.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   lat: 52.510777777777776
@@ -1151,180 +56,171 @@
   focal_length_35: 218.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 1000.0
   iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4568
   height: 3384
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-06-01 17:36:06+02:00
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 17:36:06.000000000+02:00
+- image_filename: 2019_06_01__17_43_P6010329.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51023611111111
+  lon: 15.234625
+  altitude: 37.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
   focus_distance: 1000.0
-- image_filename: 2019_06_01__19_19_P6010494.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516041666666666
-  lon: 15.24697222222222
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
+  iso: 250
+  width: 4549
+  height: 3400
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-06-01 19:19:26+02:00
-  focus_distance: 6.89
-- image_filename: 2019_06_02__09_44_P6020800.jpg
+  time: 2019-06-01 17:43:06.000000000+02:00
+- image_filename: 2019_06_01__18_56_P6010339.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3197
-  height: 4468
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-02 09:44:47+02:00
-  focus_distance: 3.46
-- image_filename: 2019_06_02__09_54_P6020855.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-02 09:54:09+02:00
-  focus_distance: 12.1
-- image_filename: 2019_06_01__19_20_P6010511.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.516041666666666
-  lon: 15.246930555555554
-  altitude: 37.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-01 19:20:11+02:00
-  focus_distance: 5.18
-- image_filename: 2019_06_02__09_41_P6020776.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 84.0
-  focal_length_35: 168.0
-  crop: 2.0
-  aperture: 5.4
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-06-02 09:41:59+02:00
-  focus_distance: 3.07
-- image_filename: 2019_06_02__09_51_P6020843.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-02 09:51:50+02:00
-  focus_distance: 2.77
-- image_filename: 2019_06_01__20_13_P6010729.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51691666666667
-  lon: 15.248305555555556
-  altitude: 39.0
   focal_length: 14.0
   focal_length_35: 28.0
   crop: 2.0
-  aperture: 4.0
-  iso: 500
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 4250
+  height: 3225
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2019-06-01 20:13:06+02:00
-  focus_distance: 1000.0
+  time: 2019-06-01 18:56:00.000000000+02:00
 - image_filename: 2019_06_01__18_56_P6010341.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   focal_length: 34.0
   focal_length_35: 68.0
   crop: 2.0
   aperture: 8.0
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4462
-  height: 3318
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2019-06-01 18:56:46+02:00
   focus_distance: 8.77
-- image_filename: 2019_06_01__20_20_P6010741.jpg
+  iso: 250
+  width: 4462
+  height: 3318
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 18:56:46.000000000+02:00
+- image_filename: 2019_06_01__18_58_P6010345.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51544444444445
-  lon: 15.246527777777777
-  altitude: 40.0
+  lat: 52.51423611111111
+  lon: 15.247
+  altitude: 41.0
   focal_length: 14.0
   focal_length_35: 28.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 250
   width: 4640
   height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-01 20:20:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__19_15_P6010435_01.jpg
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 18:58:32.000000000+02:00
+- image_filename: 2019_06_01__18_58_P6010346.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51616666666666
-  lon: 15.247208333333333
+  lat: 52.514319444444446
+  lon: 15.246944444444443
+  altitude: 42.0
+  focal_length: 30.0
+  focal_length_35: 60.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 87.93
+  iso: 250
+  width: 4593
+  height: 3408
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 18:58:44.000000000+02:00
+- image_filename: 2019_06_01__18_59_P6010350.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.514625
+  lon: 15.246986111111111
+  altitude: 47.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 4472
+  height: 3337
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 18:59:39.000000000+02:00
+- image_filename: 2019_06_01__19_04_P6010363.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.515791666666665
+  lon: 15.248638888888888
+  altitude: 42.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 6.78
+  iso: 250
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:04:38.000000000+02:00
+- image_filename: 2019_06_01__19_06_P6010367.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516083333333334
+  lon: 15.247902777777776
   altitude: 37.0
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
-  iso: 400
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 7.47
+  iso: 640
+  width: 4065
+  height: 2974
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-01 19:15:56+02:00
-  focus_distance: 12.75
+  time: 2019-06-01 19:06:38.000000000+02:00
+- image_filename: 2019_06_01__19_11_P6010378.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51609722222222
+  lon: 15.247652777777777
+  altitude: 35.0
+  focal_length: 55.0
+  focal_length_35: 110.0
+  crop: 2.0
+  aperture: 5.1
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4453
+  height: 3332
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:11:06.000000000+02:00
 - image_filename: 2019_06_01__19_13_P6010393.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   lat: 52.516083333333334
@@ -1334,132 +230,69 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 19.96
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 3785
   height: 2891
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-01 19:13:43+02:00
-  focus_distance: 19.96
-- image_filename: 2019_06_01__19_20_P6010522.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51601388888889
-  lon: 15.246888888888888
-  altitude: 37.0
-  focal_length: 69.0
-  focal_length_35: 138.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
+  time: 2019-06-01 19:13:43.000000000+02:00
+- image_filename: 2019_06_01__19_14_P6010400.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516083333333334
+  lon: 15.247638888888888
+  altitude: 36.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 14.26
+  iso: 200
   width: 4640
   height: 3472
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-06-01 19:20:23+02:00
-  focus_distance: 6.51
-- image_filename: 2019_06_01__19_38_P6010652.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51716666666667
-  lon: 15.246374999999999
-  altitude: 41.0
-  focal_length: 26.0
-  focal_length_35: 52.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 3437
-  height: 4594
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-01 19:38:24+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__20_36_P6010755.jpg
+  time: 2019-06-01 19:14:04.000000000+02:00
+- image_filename: 2019_06_01__19_15_P6010434.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51233333333333
-  lon: 15.241402777777777
-  altitude: 49.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4547
-  height: 3400
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-06-01 20:36:54+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__19_18_P6010485.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.51609722222222
-  lon: 15.247069444444444
+  lat: 52.51616666666666
+  lon: 15.247208333333333
   altitude: 37.0
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4519
-  height: 3337
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-01 19:18:56+02:00
-  focus_distance: 4.93
-- image_filename: 2019_06_02__09_42_P6020781.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 12.75
   iso: 400
+  width: 3472
+  height: 4640
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-06-02 09:42:24+02:00
-  focus_distance: 3.21
-- image_filename: 2019_06_01__17_35_P6010323.jpg
+  time: 2019-06-01 19:15:56.000000000+02:00
+- image_filename: 2019_06_01__19_15_P6010435_01.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2019-06-01 17:35:14+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_02__09_53_P6020848.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51616666666666
+  lon: 15.247208333333333
+  altitude: 37.0
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
-  aperture: 7.1
-  iso: 200
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 12.75
+  iso: 400
+  width: 3472
+  height: 4640
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4464
-  height: 3341
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-02 09:53:53+02:00
-  focus_distance: 8.35
+  time: 2019-06-01 19:15:56.000000000+02:00
 - image_filename: 2019_06_01__19_15_P6010439.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   lat: 52.51618055555556
@@ -1469,87 +302,231 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3190
-  height: 4249
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2019-06-01 19:15:59+02:00
   focus_distance: 17.15
-- image_filename: 2019_06_01__19_22_P6010554.jpg
+  iso: 400
+  width: 3190
+  height: 4249
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:15:59.000000000+02:00
+- image_filename: 2019_06_01__19_16_P6010448.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516194444444444
+  lon: 15.247222222222222
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 21.16
+  iso: 400
+  width: 4168
+  height: 2950
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:16:17.000000000+02:00
+- image_filename: 2019_06_01__19_17_P6010466.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51616666666666
+  lon: 15.247152777777776
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.09
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:17:52.000000000+02:00
+- image_filename: 2019_06_01__19_18_P6010482.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51613888888889
+  lon: 15.247097222222221
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 5.18
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:18:47.000000000+02:00
+- image_filename: 2019_06_01__19_18_P6010485.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51609722222222
+  lon: 15.247069444444444
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 4.93
+  iso: 500
+  width: 4519
+  height: 3337
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:18:56.000000000+02:00
+- image_filename: 2019_06_01__19_19_P6010492.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   lat: 52.51605555555555
-  lon: 15.24697222222222
-  altitude: 39.0
+  lon: 15.247
+  altitude: 37.0
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 5.42
   iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-01 19:22:41+02:00
-  focus_distance: 20.09
-- image_filename: 2019_06_01__19_25_P6010587.jpg
-  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
-  lat: 52.515972222222224
-  lon: 15.246916666666666
-  altitude: 39.0
-  focal_length: 120.0
-  focal_length_35: 240.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-01 19:25:30+02:00
-  focus_distance: 1.98
-- image_filename: 2019_06_01__19_23_P6010557.jpg
+  time: 2019-06-01 19:19:12.000000000+02:00
+- image_filename: 2019_06_01__19_19_P6010494.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   lat: 52.516041666666666
-  lon: 15.247
-  altitude: 39.0
+  lon: 15.24697222222222
+  altitude: 37.0
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 6.89
   iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-01 19:23:13+02:00
-  focus_distance: 37.99
-- image_filename: 2019_06_01__19_24_P6010573.jpg
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:19:26.000000000+02:00
+- image_filename: 2019_06_01__19_19_P6010499.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51602777777778
+  lon: 15.246944444444443
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 4.28
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:19:57.000000000+02:00
+- image_filename: 2019_06_01__19_20_P6010509.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516041666666666
+  lon: 15.246944444444443
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 5.25
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:20:04.000000000+02:00
+- image_filename: 2019_06_01__19_20_P6010511.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516041666666666
+  lon: 15.246930555555554
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 5.18
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:20:11.000000000+02:00
+- image_filename: 2019_06_01__19_20_P6010513.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516041666666666
+  lon: 15.246930555555554
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 5.38
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:20:12.000000000+02:00
+- image_filename: 2019_06_01__19_20_P6010522.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   lat: 52.51601388888889
-  lon: 15.246944444444443
-  altitude: 39.0
-  focal_length: 140.0
-  focal_length_35: 280.0
+  lon: 15.246888888888888
+  altitude: 37.0
+  focal_length: 69.0
+  focal_length_35: 138.0
   crop: 2.0
   aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.0005
   exposure_string: 1/2000 s
-  time: 2019-06-01 19:24:37+02:00
-  focus_distance: 1.31
+  focus_distance: 6.51
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:20:23.000000000+02:00
+- image_filename: 2019_06_01__19_20_P6010523.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51601388888889
+  lon: 15.246888888888888
+  altitude: 37.0
+  focal_length: 69.0
+  focal_length_35: 138.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 6.51
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:20:23.000000000+02:00
 - image_filename: 2019_06_01__19_20_P6010529.jpg
   post_slug: 2019-06-01-male-labedzie-w-lubniewicach
   lat: 52.51601388888889
@@ -1559,12 +536,1035 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.0004
   exposure_string: 1/2500 s
-  time: 2019-06-01 19:20:31+02:00
   focus_distance: 7.28
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:20:31.000000000+02:00
+- image_filename: 2019_06_01__19_20_P6010532.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516
+  lon: 15.246930555555554
+  altitude: 37.0
+  focal_length: 73.0
+  focal_length_35: 146.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  focus_distance: 10.37
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:20:39.000000000+02:00
+- image_filename: 2019_06_01__19_20_P6010538.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516
+  lon: 15.246930555555554
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 17.58
+  iso: 500
+  width: 4332
+  height: 3221
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:20:47.000000000+02:00
+- image_filename: 2019_06_01__19_20_P6010540.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516
+  lon: 15.246916666666666
+  altitude: 38.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 22.74
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:20:51.000000000+02:00
+- image_filename: 2019_06_01__19_21_P6010545.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51605555555555
+  lon: 15.246930555555554
+  altitude: 39.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 9.15
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:21:22.000000000+02:00
+- image_filename: 2019_06_01__19_22_P6010554.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51605555555555
+  lon: 15.24697222222222
+  altitude: 39.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.09
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:22:41.000000000+02:00
+- image_filename: 2019_06_01__19_23_P6010557.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516041666666666
+  lon: 15.247
+  altitude: 39.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 37.99
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:23:13.000000000+02:00
+- image_filename: 2019_06_01__19_23_P6010560.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516041666666666
+  lon: 15.247
+  altitude: 39.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 37.99
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:23:15.000000000+02:00
+- image_filename: 2019_06_01__19_24_P6010570.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51601388888889
+  lon: 15.246944444444443
+  altitude: 39.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 1.34
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:24:31.000000000+02:00
+- image_filename: 2019_06_01__19_24_P6010573.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51601388888889
+  lon: 15.246944444444443
+  altitude: 39.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 1.31
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:24:37.000000000+02:00
+- image_filename: 2019_06_01__19_24_P6010574.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516
+  lon: 15.246944444444443
+  altitude: 39.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 1.33
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:24:38.000000000+02:00
+- image_filename: 2019_06_01__19_25_P6010587.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.515972222222224
+  lon: 15.246916666666666
+  altitude: 39.0
+  focal_length: 120.0
+  focal_length_35: 240.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.98
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:25:30.000000000+02:00
+- image_filename: 2019_06_01__19_26_P6010595.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516152777777776
+  lon: 15.247166666666665
+  altitude: 38.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.29
+  iso: 500
+  width: 4194
+  height: 2988
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:26:23.000000000+02:00
+- image_filename: 2019_06_01__19_26_P6010601.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516222222222225
+  lon: 15.247291666666666
+  altitude: 38.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.85
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:26:51.000000000+02:00
+- image_filename: 2019_06_01__19_27_P6010606.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51620833333333
+  lon: 15.247319444444443
+  altitude: 38.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 3.03
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:27:03.000000000+02:00
+- image_filename: 2019_06_01__19_27_P6010610.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516194444444444
+  lon: 15.247291666666666
+  altitude: 37.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 2.92
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:27:09.000000000+02:00
+- image_filename: 2019_06_01__19_27_P6010612.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51618055555556
+  lon: 15.247263888888888
+  altitude: 37.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 5.18
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:27:29.000000000+02:00
+- image_filename: 2019_06_01__19_30_P6010630.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516194444444444
+  lon: 15.247333333333332
+  altitude: 38.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.56
+  iso: 400
+  width: 4161
+  height: 3146
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:30:23.000000000+02:00
+- image_filename: 2019_06_01__19_32_P6010637.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51618055555556
+  lon: 15.247319444444443
+  altitude: 38.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 23.02
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:32:05.000000000+02:00
+- image_filename: 2019_06_01__19_33_P6010640.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516444444444446
+  lon: 15.247499999999999
+  altitude: 38.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:33:49.000000000+02:00
+- image_filename: 2019_06_01__19_35_P6010646.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516888888888886
+  lon: 15.246958333333332
+  altitude: 40.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4528
+  height: 3388
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:35:38.000000000+02:00
+- image_filename: 2019_06_01__19_38_P6010650.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51713888888889
+  lon: 15.2465
+  altitude: 41.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 22.24
+  iso: 200
+  width: 3449
+  height: 4609
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:38:11.000000000+02:00
+- image_filename: 2019_06_01__19_38_P6010652.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51716666666667
+  lon: 15.246374999999999
+  altitude: 41.0
+  focal_length: 26.0
+  focal_length_35: 52.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3437
+  height: 4594
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:38:24.000000000+02:00
+- image_filename: 2019_06_01__19_38_P6010656.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.517041666666664
+  lon: 15.24598611111111
+  altitude: 40.0
+  focal_length: 26.0
+  focal_length_35: 52.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4603
+  height: 3444
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:38:58.000000000+02:00
+- image_filename: 2019_06_01__19_39_P6010657.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51679166666666
+  lon: 15.245597222222221
+  altitude: 40.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:39:48.000000000+02:00
+- image_filename: 2019_06_01__19_41_P6010671.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51656944444444
+  lon: 15.245222222222221
+  altitude: 40.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 4.68
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:41:58.000000000+02:00
+- image_filename: 2019_06_01__19_57_P6010676.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51686111111111
+  lon: 15.244555555555555
+  altitude: 40.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 9.64
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 19:57:18.000000000+02:00
+- image_filename: 2019_06_01__20_07_P6010697.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51647222222222
+  lon: 15.248333333333333
+  altitude: 40.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 2.04
+  iso: 1000
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:07:05.000000000+02:00
+- image_filename: 2019_06_01__20_07_P6010699.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51651388888889
+  lon: 15.248319444444444
+  altitude: 40.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1.59
+  iso: 1000
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:07:16.000000000+02:00
+- image_filename: 2019_06_01__20_07_P6010702.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516555555555556
+  lon: 15.248319444444444
+  altitude: 40.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.6
+  iso: 1600
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:07:27.000000000+02:00
+- image_filename: 2019_06_01__20_10_P6010722.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.516958333333335
+  lon: 15.248430555555554
+  altitude: 39.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.2
+  iso: 1600
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:10:49.000000000+02:00
+- image_filename: 2019_06_01__20_10_P6010725.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51697222222222
+  lon: 15.24847222222222
+  altitude: 39.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 3.7
+  iso: 1600
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:10:58.000000000+02:00
+- image_filename: 2019_06_01__20_13_P6010729.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51691666666667
+  lon: 15.248305555555556
+  altitude: 39.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 1000.0
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:13:06.000000000+02:00
+- image_filename: 2019_06_01__20_16_P6010731.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51629166666667
+  lon: 15.248222222222221
+  altitude: 42.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:16:35.000000000+02:00
+- image_filename: 2019_06_01__20_18_P6010738.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.515875
+  lon: 15.24697222222222
+  altitude: 40.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:18:52.000000000+02:00
+- image_filename: 2019_06_01__20_19_P6010739.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.515819444444446
+  lon: 15.246944444444443
+  altitude: 40.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:19:03.000000000+02:00
+- image_filename: 2019_06_01__20_20_P6010741.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51544444444445
+  lon: 15.246527777777777
+  altitude: 40.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:20:31.000000000+02:00
+- image_filename: 2019_06_01__20_23_P6010753.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.514541666666666
+  lon: 15.244458333333332
+  altitude: 40.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 4.48
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:23:46.000000000+02:00
+- image_filename: 2019_06_01__20_36_P6010755.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51233333333333
+  lon: 15.241402777777777
+  altitude: 49.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4547
+  height: 3400
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 20:36:54.000000000+02:00
+- image_filename: 2019_06_01__21_01_P6010759.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.510527777777774
+  lon: 15.240986111111111
+  altitude: 41.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.95
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-06-01 21:01:36.000000000+02:00
+- image_filename: 2019_06_01__21_14_P6010765.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51179166666667
+  lon: 15.239458333333333
+  altitude: 39.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 115.21
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-06-01 21:14:01.000000000+02:00
+- image_filename: 2019_06_01__21_19_P6010768.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  lat: 52.51013888888889
+  lon: 15.241513888888887
+  altitude: 43.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-06-01 21:19:24.000000000+02:00
+- image_filename: 2019_06_02__09_41_P6020776.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 84.0
+  focal_length_35: 168.0
+  crop: 2.0
+  aperture: 5.4
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 3.07
+  iso: 400
+  width: 3472
+  height: 4640
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:41:59.000000000+02:00
+- image_filename: 2019_06_02__09_42_P6020777.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 2.88
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:42:04.000000000+02:00
+- image_filename: 2019_06_02__09_42_P6020781.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 3.21
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:42:24.000000000+02:00
+- image_filename: 2019_06_02__09_42_P6020782.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 3.21
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:42:24.000000000+02:00
+- image_filename: 2019_06_02__09_42_P6020784.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.17
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:42:59.000000000+02:00
+- image_filename: 2019_06_02__09_43_P6020785.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 2.14
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:43:03.000000000+02:00
+- image_filename: 2019_06_02__09_44_P6020798.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 3.38
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:44:42.000000000+02:00
+- image_filename: 2019_06_02__09_44_P6020800.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 3.46
+  iso: 200
+  width: 3197
+  height: 4468
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:44:47.000000000+02:00
+- image_filename: 2019_06_02__09_44_P6020803.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 3.28
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:44:53.000000000+02:00
+- image_filename: 2019_06_02__09_46_P6020818.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.88
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:46:41.000000000+02:00
+- image_filename: 2019_06_02__09_46_P6020819_01.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1.91
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:46:42.000000000+02:00
+- image_filename: 2019_06_02__09_49_P6020830.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 3.02
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:49:37.000000000+02:00
+- image_filename: 2019_06_02__09_49_P6020834.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 2.59
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:49:45.000000000+02:00
+- image_filename: 2019_06_02__09_50_P6020838.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 2.96
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:50:51.000000000+02:00
+- image_filename: 2019_06_02__09_51_P6020843.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 2.77
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:51:50.000000000+02:00
+- image_filename: 2019_06_02__09_53_P6020848.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 8.35
+  iso: 200
+  width: 4464
+  height: 3341
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:53:53.000000000+02:00
+- image_filename: 2019_06_02__09_53_P6020850.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 10.62
+  iso: 200
+  width: 3472
+  height: 4640
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:53:57.000000000+02:00
+- image_filename: 2019_06_02__09_53_P6020851_01.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 10.62
+  iso: 200
+  width: 3472
+  height: 4640
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:53:58.000000000+02:00
+- image_filename: 2019_06_02__09_54_P6020855.jpg
+  post_slug: 2019-06-01-male-labedzie-w-lubniewicach
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 12.1
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-02 09:54:09.000000000+02:00

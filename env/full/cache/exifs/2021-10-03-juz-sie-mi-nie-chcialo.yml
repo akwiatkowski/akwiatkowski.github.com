@@ -1,6 +1,274 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2021_10_03__11_50__A032006.jpg
   post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.273375
+  lon: 18.599958333333333
+  altitude: 95.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 10.28
+  iso: 200
+  width: 5114
+  height: 3818
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 11:50:51.000000000+02:00
+- image_filename: 2021_10_03__11_53__A032010.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.273666666666664
+  lon: 18.59923611111111
+  altitude: 96.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.09
+  iso: 200
+  width: 5145
+  height: 3841
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 11:53:16.000000000+02:00
+- image_filename: 2021_10_03__11_53__A032014.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.273666666666664
+  lon: 18.59923611111111
+  altitude: 96.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 16.91
+  iso: 200
+  width: 4988
+  height: 3724
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 11:53:44.000000000+02:00
+- image_filename: 2021_10_03__11_59__A032016.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.28241666666666
+  lon: 18.581444444444443
+  altitude: 102.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 21.61
+  iso: 200
+  width: 4808
+  height: 3321
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 11:59:31.000000000+02:00
+- image_filename: 2021_10_03__11_59__A032020.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.28304166666666
+  lon: 18.579763888888888
+  altitude: 102.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5229
+  height: 3903
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 11:59:49.000000000+02:00
+- image_filename: 2021_10_03__12_11__A032026.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.30347222222222
+  lon: 18.539361111111113
+  altitude: 94.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 9.11
+  iso: 200
+  width: 5026
+  height: 3752
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:11:04.000000000+02:00
+- image_filename: 2021_10_03__12_16__A032030.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.30922222222222
+  lon: 18.54790277777778
+  altitude: 110.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.74
+  iso: 200
+  width: 4698
+  height: 3507
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:16:07.000000000+02:00
+- image_filename: 2021_10_03__12_17__A032033.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.31147222222222
+  lon: 18.549166666666668
+  altitude: 115.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.46
+  iso: 200
+  width: 5084
+  height: 3595
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:17:45.000000000+02:00
+- image_filename: 2021_10_03__12_19__A032035.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.31368055555555
+  lon: 18.549708333333335
+  altitude: 107.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4993
+  height: 3728
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:19:41.000000000+02:00
+- image_filename: 2021_10_03__12_23__A032038.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.31570833333333
+  lon: 18.549069444444445
+  altitude: 97.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 0.49
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:23:37.000000000+02:00
+- image_filename: 2021_10_03__12_24__A032041.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.31636111111111
+  lon: 18.546791666666667
+  altitude: 90.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 0.98
+  iso: 200
+  width: 4661
+  height: 3361
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:24:32.000000000+02:00
+- image_filename: 2021_10_03__12_30__A032042.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.32797222222223
+  lon: 18.531819444444444
+  altitude: 99.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.61
+  iso: 200
+  width: 4980
+  height: 3718
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:30:06.000000000+02:00
+- image_filename: 2021_10_03__12_30__A032044.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.328430555555556
+  lon: 18.53186111111111
+  altitude: 100.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.6
+  iso: 200
+  width: 5083
+  height: 3795
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:30:17.000000000+02:00
+- image_filename: 2021_10_03__12_32__A032046.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.33040277777778
+  lon: 18.53211111111111
+  altitude: 104.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.19
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:32:32.000000000+02:00
+- image_filename: 2021_10_03__12_34__A032050.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.33047222222223
+  lon: 18.532083333333333
+  altitude: 105.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.55
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 12:34:36.000000000+02:00
 - image_filename: 2021_10_03__12_34__A032053.jpg
   post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
   lat: 52.33047222222223
@@ -37,474 +305,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-10-03 12:35:02.000000000+02:00
-- image_filename: 2021_10_03__13_39__A032085.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.448791666666665
-  lon: 18.391569444444443
-  altitude: 82.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 23.1
-  iso: 200
-  width: 5128
-  height: 3828
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 13:39:09.000000000+02:00
-- image_filename: 2021_10_03__11_53__A032014.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.273666666666664
-  lon: 18.59923611111111
-  altitude: 96.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 16.91
-  iso: 200
-  width: 4988
-  height: 3724
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 11:53:44.000000000+02:00
-- image_filename: 2021_10_03__14_34__A032127.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.475458333333336
-  lon: 18.22098611111111
-  altitude: 114.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 4.18
-  iso: 200
-  width: 4350
-  height: 3074
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 14:34:57.000000000+02:00
-- image_filename: 2021_10_03__13_52__A032101.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.485458333333334
-  lon: 18.379083333333334
-  altitude: 83.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.05
-  iso: 200
-  width: 5082
-  height: 3794
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 13:52:35.000000000+02:00
-- image_filename: 2021_10_03__12_32__A032046.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.33040277777778
-  lon: 18.53211111111111
-  altitude: 104.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 8.19
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 12:32:32.000000000+02:00
-- image_filename: 2021_10_03__12_24__A032041.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.31636111111111
-  lon: 18.546791666666667
-  altitude: 90.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 0.98
-  iso: 200
-  width: 4661
-  height: 3361
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 12:24:32.000000000+02:00
-- image_filename: 2021_10_03__12_30__A032044.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.328430555555556
-  lon: 18.53186111111111
-  altitude: 100.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 4.6
-  iso: 200
-  width: 5083
-  height: 3795
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 12:30:17.000000000+02:00
-- image_filename: 2021_10_03__12_34__A032050.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.33047222222223
-  lon: 18.532083333333333
-  altitude: 105.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.55
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 12:34:36.000000000+02:00
-- image_filename: 2021_10_03__11_59__A032020.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.28304166666666
-  lon: 18.579763888888888
-  altitude: 102.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5229
-  height: 3903
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 11:59:49.000000000+02:00
-- image_filename: 2021_10_03__14_28__A032115.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.47788888888889
-  lon: 18.243194444444445
-  altitude: 117.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5087
-  height: 3451
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 14:28:29.000000000+02:00
-- image_filename: 2021_10_03__14_47__A032136.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.50980555555556
-  lon: 18.192611111111113
-  altitude: 109.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 34.93
-  iso: 200
-  width: 5103
-  height: 3810
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 14:47:44.000000000+02:00
-- image_filename: 2021_10_03__14_28__A032117.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.477875000000004
-  lon: 18.24315277777778
-  altitude: 117.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 190.51
-  iso: 200
-  width: 5035
-  height: 3759
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 14:28:39.000000000+02:00
-- image_filename: 2021_10_03__14_17__A032108.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.48555555555556
-  lon: 18.28675
-  altitude: 104.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 3.1
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 14:17:20.000000000+02:00
-- image_filename: 2021_10_03__13_51__A032094.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.4835
-  lon: 18.382083333333334
-  altitude: 84.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.86
-  iso: 200
-  width: 5159
-  height: 3851
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 13:51:58.000000000+02:00
-- image_filename: 2021_10_03__13_52__A032095.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.483805555555556
-  lon: 18.381666666666668
-  altitude: 84.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 13:52:04.000000000+02:00
-- image_filename: 2021_10_03__12_11__A032026.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.30347222222222
-  lon: 18.539361111111113
-  altitude: 94.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 9.11
-  iso: 200
-  width: 5026
-  height: 3752
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 12:11:04.000000000+02:00
-- image_filename: 2021_10_03__12_23__A032038.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.31570833333333
-  lon: 18.549069444444445
-  altitude: 97.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 0.49
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 12:23:37.000000000+02:00
-- image_filename: 2021_10_03__14_16__A032104.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.485527777777776
-  lon: 18.289222222222225
-  altitude: 105.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 3.34
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 14:16:56.000000000+02:00
-- image_filename: 2021_10_03__13_42__A032089.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.456944444444446
-  lon: 18.394569444444443
-  altitude: 88.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 21.39
-  iso: 200
-  width: 4865
-  height: 3607
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 13:42:34.000000000+02:00
-- image_filename: 2021_10_03__13_26__A032071.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.423249999999996
-  lon: 18.430222222222223
-  altitude: 85.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 36.24
-  iso: 200
-  width: 5041
-  height: 3764
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 13:26:12.000000000+02:00
-- image_filename: 2021_10_03__13_02__A032064.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.39561111111111
-  lon: 18.473666666666666
-  altitude: 89.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 2.74
-  iso: 200
-  width: 3795
-  height: 5083
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 13:02:59.000000000+02:00
-- image_filename: 2021_10_03__12_30__A032042.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.32797222222223
-  lon: 18.531819444444444
-  altitude: 99.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 3.61
-  iso: 200
-  width: 4980
-  height: 3718
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 12:30:06.000000000+02:00
-- image_filename: 2021_10_03__14_47__A032137.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.51013888888889
-  lon: 18.192208333333333
-  altitude: 108.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 14:47:50.000000000+02:00
-- image_filename: 2021_10_03__12_16__A032030.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.30922222222222
-  lon: 18.54790277777778
-  altitude: 110.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 5.74
-  iso: 200
-  width: 4698
-  height: 3507
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 12:16:07.000000000+02:00
-- image_filename: 2021_10_03__11_50__A032006.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.273375
-  lon: 18.599958333333333
-  altitude: 95.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 10.28
-  iso: 200
-  width: 5114
-  height: 3818
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 11:50:51.000000000+02:00
-- image_filename: 2021_10_03__13_42__A032091.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.45776388888889
-  lon: 18.394805555555553
-  altitude: 89.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 7.74
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 13:42:46.000000000+02:00
 - image_filename: 2021_10_03__12_40__A032058.jpg
   post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
   lat: 52.342000000000006
@@ -523,60 +323,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-10-03 12:40:17.000000000+02:00
-- image_filename: 2021_10_03__14_47__A032131.jpg
+- image_filename: 2021_10_03__13_02__A032064.jpg
   post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.508402777777775
-  lon: 18.194347222222223
-  altitude: 110.0
-  focal_length: 16.0
-  focal_length_35: 32.0
+  lat: 52.39561111111111
+  lon: 18.473666666666666
+  altitude: 89.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 8.99
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.74
   iso: 200
-  width: 5040
-  height: 3763
+  width: 3795
+  height: 5083
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-10-03 14:47:16.000000000+02:00
-- image_filename: 2021_10_03__14_21__A032110.jpg
+  time: 2021-10-03 13:02:59.000000000+02:00
+- image_filename: 2021_10_03__13_26__A032071.jpg
   post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.481611111111114
-  lon: 18.27148611111111
-  altitude: 107.0
-  focal_length: 23.0
-  focal_length_35: 46.0
+  lat: 52.423249999999996
+  lon: 18.430222222222223
+  altitude: 85.0
+  focal_length: 18.0
+  focal_length_35: 36.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 2.46
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 36.24
   iso: 200
-  width: 5239
-  height: 3911
+  width: 5041
+  height: 3764
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-10-03 14:21:21.000000000+02:00
-- image_filename: 2021_10_03__14_21__A032112.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.48147222222222
-  lon: 18.270944444444442
-  altitude: 108.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 33.44
-  iso: 200
-  width: 5139
-  height: 3837
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 14:21:29.000000000+02:00
+  time: 2021-10-03 13:26:12.000000000+02:00
 - image_filename: 2021_10_03__13_26__A032072.jpg
   post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
   lat: 52.423291666666664
@@ -595,78 +377,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-10-03 13:26:23.000000000+02:00
-- image_filename: 2021_10_03__12_19__A032035.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.31368055555555
-  lon: 18.549708333333335
-  altitude: 107.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4993
-  height: 3728
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 12:19:41.000000000+02:00
-- image_filename: 2021_10_03__11_53__A032010.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.273666666666664
-  lon: 18.59923611111111
-  altitude: 96.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 2.09
-  iso: 200
-  width: 5145
-  height: 3841
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 11:53:16.000000000+02:00
-- image_filename: 2021_10_03__11_59__A032016.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.28241666666666
-  lon: 18.581444444444443
-  altitude: 102.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 21.61
-  iso: 200
-  width: 4808
-  height: 3321
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 11:59:31.000000000+02:00
-- image_filename: 2021_10_03__14_28__A032119.jpg
-  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.477805555555555
-  lon: 18.242583333333336
-  altitude: 117.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 180.04
-  iso: 200
-  width: 5082
-  height: 3794
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-03 14:28:50.000000000+02:00
 - image_filename: 2021_10_03__13_27__A032076.jpg
   post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
   lat: 52.42497222222222
@@ -703,21 +413,309 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-10-03 13:27:13.000000000+02:00
-- image_filename: 2021_10_03__12_17__A032033.jpg
+- image_filename: 2021_10_03__13_39__A032085.jpg
   post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
-  lat: 52.31147222222222
-  lon: 18.549166666666668
-  altitude: 115.0
-  focal_length: 20.0
-  focal_length_35: 40.0
+  lat: 52.448791666666665
+  lon: 18.391569444444443
+  altitude: 82.0
+  focal_length: 70.0
+  focal_length_35: 140.0
   crop: 2.0
-  aperture: 8.0
+  aperture: 5.6
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 2.46
+  focus_distance: 23.1
   iso: 200
-  width: 5084
-  height: 3595
+  width: 5128
+  height: 3828
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-10-03 12:17:45.000000000+02:00
+  time: 2021-10-03 13:39:09.000000000+02:00
+- image_filename: 2021_10_03__13_42__A032089.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.456944444444446
+  lon: 18.394569444444443
+  altitude: 88.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 21.39
+  iso: 200
+  width: 4865
+  height: 3607
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 13:42:34.000000000+02:00
+- image_filename: 2021_10_03__13_42__A032091.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.45776388888889
+  lon: 18.394805555555553
+  altitude: 89.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 7.74
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 13:42:46.000000000+02:00
+- image_filename: 2021_10_03__13_51__A032094.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.4835
+  lon: 18.382083333333334
+  altitude: 84.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.86
+  iso: 200
+  width: 5159
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 13:51:58.000000000+02:00
+- image_filename: 2021_10_03__13_52__A032095.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.483805555555556
+  lon: 18.381666666666668
+  altitude: 84.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 13:52:04.000000000+02:00
+- image_filename: 2021_10_03__13_52__A032101.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.485458333333334
+  lon: 18.379083333333334
+  altitude: 83.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.05
+  iso: 200
+  width: 5082
+  height: 3794
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 13:52:35.000000000+02:00
+- image_filename: 2021_10_03__14_16__A032104.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.485527777777776
+  lon: 18.289222222222225
+  altitude: 105.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.34
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:16:56.000000000+02:00
+- image_filename: 2021_10_03__14_17__A032108.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.48555555555556
+  lon: 18.28675
+  altitude: 104.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.1
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:17:20.000000000+02:00
+- image_filename: 2021_10_03__14_21__A032110.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.481611111111114
+  lon: 18.27148611111111
+  altitude: 107.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.46
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:21:21.000000000+02:00
+- image_filename: 2021_10_03__14_21__A032112.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.48147222222222
+  lon: 18.270944444444442
+  altitude: 108.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 33.44
+  iso: 200
+  width: 5139
+  height: 3837
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:21:29.000000000+02:00
+- image_filename: 2021_10_03__14_28__A032115.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.47788888888889
+  lon: 18.243194444444445
+  altitude: 117.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5087
+  height: 3451
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:28:29.000000000+02:00
+- image_filename: 2021_10_03__14_28__A032117.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.477875000000004
+  lon: 18.24315277777778
+  altitude: 117.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 190.51
+  iso: 200
+  width: 5035
+  height: 3759
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:28:39.000000000+02:00
+- image_filename: 2021_10_03__14_28__A032119.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.477805555555555
+  lon: 18.242583333333336
+  altitude: 117.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 180.04
+  iso: 200
+  width: 5082
+  height: 3794
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:28:50.000000000+02:00
+- image_filename: 2021_10_03__14_34__A032127.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.475458333333336
+  lon: 18.22098611111111
+  altitude: 114.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.18
+  iso: 200
+  width: 4350
+  height: 3074
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:34:57.000000000+02:00
+- image_filename: 2021_10_03__14_47__A032131.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.508402777777775
+  lon: 18.194347222222223
+  altitude: 110.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 8.99
+  iso: 200
+  width: 5040
+  height: 3763
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:47:16.000000000+02:00
+- image_filename: 2021_10_03__14_47__A032136.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.50980555555556
+  lon: 18.192611111111113
+  altitude: 109.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 34.93
+  iso: 200
+  width: 5103
+  height: 3810
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:47:44.000000000+02:00
+- image_filename: 2021_10_03__14_47__A032137.jpg
+  post_slug: 2021-10-03-juz-sie-mi-nie-chcialo
+  lat: 52.51013888888889
+  lon: 18.192208333333333
+  altitude: 108.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-03 14:47:50.000000000+02:00

@@ -1,74 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-- image_filename: 2021_08_25__15_46_DSC07087.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28290277777778
-  lon: 20.489722222222223
-  altitude: 123.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  iso: 1000
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 15:46:58.000000000+02:00
-- image_filename: 2021_08_25__17_36_DSC07113.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28298611111111
-  lon: 20.490069444444444
-  altitude: 136.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 1000
-  width: 5971
-  height: 3975
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:36:20.000000000+02:00
-- image_filename: 2021_08_25__17_33_DSC07101.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28297222222222
-  lon: 20.48988888888889
-  altitude: 137.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 16000
-  width: 5888
-  height: 3917
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:33:19.000000000+02:00
-- image_filename: 2021_08_25__18_52_DSC07168.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.10063888888889
-  lon: 20.745805555555556
-  altitude: 112.0
-  focal_length: 63.0
-  focal_length_35: 63.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 250
-  width: 5770
-  height: 3839
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:52:02.000000000+02:00
 - image_filename: 2021_08_25__11_05__8252911.jpg
   post_slug: 2021-08-25-blisko-granicy-z-rosja
   lat: 54.08175000000001
@@ -87,465 +17,6 @@
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   time: 2021-08-25 11:05:05.000000000+02:00
-- image_filename: 2021_08_25__17_36_DSC07114.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.283027777777775
-  lon: 20.49048611111111
-  altitude: 134.0
-  focal_length: 120.2
-  focal_length_35: 120.0
-  crop: 0.9983361064891847
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 800
-  width: 5980
-  height: 3932
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:36:46.000000000+02:00
-- image_filename: 2021_08_25__18_22_DSC07142.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.126555555555555
-  lon: 20.57863888888889
-  altitude: 71.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  iso: 100
-  width: 6032
-  height: 3923
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:22:04.000000000+02:00
-- image_filename: 2021_08_25__17_36_DSC07112.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.283
-  lon: 20.489930555555556
-  altitude: 136.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 800
-  width: 5976
-  height: 3914
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:36:05.000000000+02:00
-- image_filename: 2021_08_25__18_56_DSC07171.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.10145833333333
-  lon: 20.80276388888889
-  altitude: 96.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 500
-  width: 5406
-  height: 3597
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:56:32.000000000+02:00
-- image_filename: 2021_08_25__18_21_DSC07140.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.12654166666667
-  lon: 20.578666666666667
-  altitude: 71.0
-  focal_length: 67.0
-  focal_length_35: 67.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 200
-  width: 5693
-  height: 3480
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:21:10.000000000+02:00
-- image_filename: 2021_08_25__17_34_DSC07108.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28297222222222
-  lon: 20.48988888888889
-  altitude: 137.0
-  focal_length: 156.6
-  focal_length_35: 156.0
-  crop: 0.996168582375479
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 800
-  width: 5600
-  height: 3738
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:34:12.000000000+02:00
-- image_filename: 2021_08_25__17_37_DSC07115.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28301388888889
-  lon: 20.490958333333335
-  altitude: 132.0
-  focal_length: 379.1
-  focal_length_35: 379.0
-  crop: 0.9997362173568979
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 5000
-  width: 5885
-  height: 3915
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:37:14.000000000+02:00
-- image_filename: 2021_08_25__17_44_DSC07130.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28459722222222
-  lon: 20.493222222222222
-  altitude: 134.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 200
-  width: 5474
-  height: 3718
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 17:44:33.000000000+02:00
-- image_filename: 2021_08_25__17_32_DSC07094.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28297222222222
-  lon: 20.48988888888889
-  altitude: 137.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 200
-  width: 3884
-  height: 5805
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 17:32:25.000000000+02:00
-- image_filename: 2021_08_25__17_39_DSC07122.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.282805555555555
-  lon: 20.492680555555555
-  altitude: 125.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 100
-  width: 5562
-  height: 3927
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 17:39:23.000000000+02:00
-- image_filename: 2021_08_25__18_51_DSC07166.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.10147222222222
-  lon: 20.741777777777777
-  altitude: 114.0
-  focal_length: 38.0
-  focal_length_35: 38.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 125
-  width: 5697
-  height: 3790
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:51:45.000000000+02:00
-- image_filename: 2021_08_25__17_33_DSC07102.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28297222222222
-  lon: 20.48988888888889
-  altitude: 137.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 16000
-  width: 4933
-  height: 3194
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:33:20.000000000+02:00
-- image_filename: 2021_08_25__18_23_DSC07150.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.126555555555555
-  lon: 20.578652777777776
-  altitude: 72.0
-  focal_length: 67.0
-  focal_length_35: 67.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 160
-  width: 5649
-  height: 3869
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:23:12.000000000+02:00
-- image_filename: 2021_08_25__15_49_DSC07088.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.282555555555554
-  lon: 20.489430555555558
-  altitude: 122.0
-  focal_length: 38.0
-  focal_length_35: 38.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 15:49:05.000000000+02:00
-- image_filename: 2021_08_25__18_37_DSC07154.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.12529166666667
-  lon: 20.587430555555553
-  altitude: 72.0
-  focal_length: 36.0
-  focal_length_35: 36.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 125
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:37:23.000000000+02:00
-- image_filename: 2021_08_25__17_37_DSC07117.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28290277777778
-  lon: 20.49191666666667
-  altitude: 128.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 800
-  width: 5948
-  height: 3891
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:37:46.000000000+02:00
-- image_filename: 2021_08_25__17_33_DSC07106.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28297222222222
-  lon: 20.48988888888889
-  altitude: 137.0
-  focal_length: 166.9
-  focal_length_35: 166.0
-  crop: 0.9946075494307969
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 1600
-  width: 6002
-  height: 3986
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:33:58.000000000+02:00
-- image_filename: 2021_08_25__18_56_DSC07174.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.101819444444445
-  lon: 20.80338888888889
-  altitude: 96.0
-  focal_length: 60.0
-  focal_length_35: 60.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 1250
-  width: 5711
-  height: 3799
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:56:41.000000000+02:00
-- image_filename: 2021_08_25__17_39_DSC07120.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28290277777778
-  lon: 20.49238888888889
-  altitude: 126.0
-  focal_length: 51.0
-  focal_length_35: 51.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 100
-  width: 5883
-  height: 3931
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 17:39:00.000000000+02:00
-- image_filename: 2021_08_25__17_39_DSC07123.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.282805555555555
-  lon: 20.492722222222223
-  altitude: 125.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 100
-  width: 5477
-  height: 3823
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 17:39:36.000000000+02:00
-- image_filename: 2021_08_25__18_20_DSC07137.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.127611111111115
-  lon: 20.578833333333332
-  altitude: 73.0
-  focal_length: 29.0
-  focal_length_35: 29.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.02
-  exposure_string: 1/50 s
-  iso: 100
-  width: 5590
-  height: 3934
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:20:02.000000000+02:00
-- image_filename: 2021_08_25__18_51_DSC07164.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.10191666666667
-  lon: 20.739736111111114
-  altitude: 118.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 320
-  width: 5610
-  height: 3844
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:51:36.000000000+02:00
-- image_filename: 2021_08_25__18_22_DSC07145.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.126555555555555
-  lon: 20.578680555555554
-  altitude: 71.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  iso: 100
-  width: 5568
-  height: 3516
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 18:22:36.000000000+02:00
-- image_filename: 2021_08_25__17_34_DSC07110.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28297222222222
-  lon: 20.48988888888889
-  altitude: 137.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 640
-  width: 5970
-  height: 3924
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:34:57.000000000+02:00
-- image_filename: 2021_08_25__17_30_DSC07089.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28297222222222
-  lon: 20.48988888888889
-  altitude: 137.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 5909
-  height: 3807
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 17:30:40.000000000+02:00
-- image_filename: 2021_08_25__17_37_DSC07116.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.28295833333333
-  lon: 20.491416666666666
-  altitude: 130.0
-  focal_length: 141.0
-  focal_length_35: 141.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 500
-  width: 3567
-  height: 5497
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-25 17:37:28.000000000+02:00
-- image_filename: 2021_08_25__17_41_DSC07125.jpg
-  post_slug: 2021-08-25-blisko-granicy-z-rosja
-  lat: 54.283430555555555
-  lon: 20.49427777777778
-  altitude: 123.0
-  focal_length: 39.0
-  focal_length_35: 39.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 100
-  width: 5867
-  height: 3921
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-25 17:41:09.000000000+02:00
 - image_filename: 2021_08_25__15_28_DSC07079.jpg
   post_slug: 2021-08-25-blisko-granicy-z-rosja
   lat: 54.302125
@@ -563,6 +34,278 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-25 15:28:54.000000000+02:00
+- image_filename: 2021_08_25__15_46_DSC07087.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28290277777778
+  lon: 20.489722222222223
+  altitude: 123.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1000
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 15:46:58.000000000+02:00
+- image_filename: 2021_08_25__15_49_DSC07088.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.282555555555554
+  lon: 20.489430555555558
+  altitude: 122.0
+  focal_length: 38.0
+  focal_length_35: 38.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 15:49:05.000000000+02:00
+- image_filename: 2021_08_25__17_30_DSC07089.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28297222222222
+  lon: 20.48988888888889
+  altitude: 137.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5909
+  height: 3807
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 17:30:40.000000000+02:00
+- image_filename: 2021_08_25__17_32_DSC07094.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28297222222222
+  lon: 20.48988888888889
+  altitude: 137.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 3884
+  height: 5805
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 17:32:25.000000000+02:00
+- image_filename: 2021_08_25__17_33_DSC07101.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28297222222222
+  lon: 20.48988888888889
+  altitude: 137.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 16000
+  width: 5888
+  height: 3917
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:33:19.000000000+02:00
+- image_filename: 2021_08_25__17_33_DSC07102.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28297222222222
+  lon: 20.48988888888889
+  altitude: 137.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 16000
+  width: 4933
+  height: 3194
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:33:20.000000000+02:00
+- image_filename: 2021_08_25__17_33_DSC07106.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28297222222222
+  lon: 20.48988888888889
+  altitude: 137.0
+  focal_length: 166.9
+  focal_length_35: 166.0
+  crop: 0.9946075494307969
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1600
+  width: 6002
+  height: 3986
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:33:58.000000000+02:00
+- image_filename: 2021_08_25__17_34_DSC07108.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28297222222222
+  lon: 20.48988888888889
+  altitude: 137.0
+  focal_length: 156.6
+  focal_length_35: 156.0
+  crop: 0.996168582375479
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 800
+  width: 5600
+  height: 3738
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:34:12.000000000+02:00
+- image_filename: 2021_08_25__17_34_DSC07110.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28297222222222
+  lon: 20.48988888888889
+  altitude: 137.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 5970
+  height: 3924
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:34:57.000000000+02:00
+- image_filename: 2021_08_25__17_36_DSC07112.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.283
+  lon: 20.489930555555556
+  altitude: 136.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  width: 5976
+  height: 3914
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:36:05.000000000+02:00
+- image_filename: 2021_08_25__17_36_DSC07113.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28298611111111
+  lon: 20.490069444444444
+  altitude: 136.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
+  width: 5971
+  height: 3975
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:36:20.000000000+02:00
+- image_filename: 2021_08_25__17_36_DSC07114.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.283027777777775
+  lon: 20.49048611111111
+  altitude: 134.0
+  focal_length: 120.2
+  focal_length_35: 120.0
+  crop: 0.9983361064891847
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  width: 5980
+  height: 3932
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:36:46.000000000+02:00
+- image_filename: 2021_08_25__17_37_DSC07115.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28301388888889
+  lon: 20.490958333333335
+  altitude: 132.0
+  focal_length: 379.1
+  focal_length_35: 379.0
+  crop: 0.9997362173568979
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 5000
+  width: 5885
+  height: 3915
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:37:14.000000000+02:00
+- image_filename: 2021_08_25__17_37_DSC07116.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28295833333333
+  lon: 20.491416666666666
+  altitude: 130.0
+  focal_length: 141.0
+  focal_length_35: 141.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 500
+  width: 3567
+  height: 5497
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:37:28.000000000+02:00
+- image_filename: 2021_08_25__17_37_DSC07117.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28290277777778
+  lon: 20.49191666666667
+  altitude: 128.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  width: 5948
+  height: 3891
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-25 17:37:46.000000000+02:00
+- image_filename: 2021_08_25__17_39_DSC07120.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28290277777778
+  lon: 20.49238888888889
+  altitude: 126.0
+  focal_length: 51.0
+  focal_length_35: 51.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 5883
+  height: 3931
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 17:39:00.000000000+02:00
 - image_filename: 2021_08_25__17_39_DSC07121.jpg
   post_slug: 2021-08-25-blisko-granicy-z-rosja
   lat: 54.28281944444444
@@ -580,3 +323,258 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-25 17:39:15.000000000+02:00
+- image_filename: 2021_08_25__17_39_DSC07122.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.282805555555555
+  lon: 20.492680555555555
+  altitude: 125.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 5562
+  height: 3927
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 17:39:23.000000000+02:00
+- image_filename: 2021_08_25__17_39_DSC07123.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.282805555555555
+  lon: 20.492722222222223
+  altitude: 125.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 5477
+  height: 3823
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 17:39:36.000000000+02:00
+- image_filename: 2021_08_25__17_41_DSC07125.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.283430555555555
+  lon: 20.49427777777778
+  altitude: 123.0
+  focal_length: 39.0
+  focal_length_35: 39.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 5867
+  height: 3921
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 17:41:09.000000000+02:00
+- image_filename: 2021_08_25__17_44_DSC07130.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.28459722222222
+  lon: 20.493222222222222
+  altitude: 134.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5474
+  height: 3718
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 17:44:33.000000000+02:00
+- image_filename: 2021_08_25__18_20_DSC07137.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.127611111111115
+  lon: 20.578833333333332
+  altitude: 73.0
+  focal_length: 29.0
+  focal_length_35: 29.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 5590
+  height: 3934
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:20:02.000000000+02:00
+- image_filename: 2021_08_25__18_21_DSC07140.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.12654166666667
+  lon: 20.578666666666667
+  altitude: 71.0
+  focal_length: 67.0
+  focal_length_35: 67.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5693
+  height: 3480
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:21:10.000000000+02:00
+- image_filename: 2021_08_25__18_22_DSC07142.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.126555555555555
+  lon: 20.57863888888889
+  altitude: 71.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 100
+  width: 6032
+  height: 3923
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:22:04.000000000+02:00
+- image_filename: 2021_08_25__18_22_DSC07145.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.126555555555555
+  lon: 20.578680555555554
+  altitude: 71.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 100
+  width: 5568
+  height: 3516
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:22:36.000000000+02:00
+- image_filename: 2021_08_25__18_23_DSC07150.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.126555555555555
+  lon: 20.578652777777776
+  altitude: 72.0
+  focal_length: 67.0
+  focal_length_35: 67.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 160
+  width: 5649
+  height: 3869
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:23:12.000000000+02:00
+- image_filename: 2021_08_25__18_37_DSC07154.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.12529166666667
+  lon: 20.587430555555553
+  altitude: 72.0
+  focal_length: 36.0
+  focal_length_35: 36.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:37:23.000000000+02:00
+- image_filename: 2021_08_25__18_51_DSC07164.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.10191666666667
+  lon: 20.739736111111114
+  altitude: 118.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 320
+  width: 5610
+  height: 3844
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:51:36.000000000+02:00
+- image_filename: 2021_08_25__18_51_DSC07166.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.10147222222222
+  lon: 20.741777777777777
+  altitude: 114.0
+  focal_length: 38.0
+  focal_length_35: 38.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 125
+  width: 5697
+  height: 3790
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:51:45.000000000+02:00
+- image_filename: 2021_08_25__18_52_DSC07168.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.10063888888889
+  lon: 20.745805555555556
+  altitude: 112.0
+  focal_length: 63.0
+  focal_length_35: 63.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 250
+  width: 5770
+  height: 3839
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:52:02.000000000+02:00
+- image_filename: 2021_08_25__18_56_DSC07171.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.10145833333333
+  lon: 20.80276388888889
+  altitude: 96.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 500
+  width: 5406
+  height: 3597
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:56:32.000000000+02:00
+- image_filename: 2021_08_25__18_56_DSC07174.jpg
+  post_slug: 2021-08-25-blisko-granicy-z-rosja
+  lat: 54.101819444444445
+  lon: 20.80338888888889
+  altitude: 96.0
+  focal_length: 60.0
+  focal_length_35: 60.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 1250
+  width: 5711
+  height: 3799
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-25 18:56:41.000000000+02:00

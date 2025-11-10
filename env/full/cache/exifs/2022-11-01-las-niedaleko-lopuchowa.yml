@@ -1,23 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-- image_filename: 2022_11_01__12_32_DSC03581.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57718055555556
-  lon: 17.074513888888887
-  altitude: 125.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 640
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:32:01.000000000+01:00
 - image_filename: 2022_11_01__11_45_DSC03397.jpg
   post_slug: 2022-11-01-las-niedaleko-lopuchowa
   lat: 52.61454166666667
@@ -35,108 +16,6 @@
   lens: E 70-180mm F2.8 A056
   camera: ILCE-7M3
   time: 2022-11-01 11:45:12.000000000+01:00
-- image_filename: 2022_11_01__12_12_DSC03528.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57804166666667
-  lon: 17.07425
-  altitude: 136.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 640
-  width: 4024
-  height: 6048
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:12:09.000000000+01:00
-- image_filename: 2022_11_01__11_59_DSC03470.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.577402777777785
-  lon: 17.070569444444445
-  altitude: 131.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 320
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 11:59:13.000000000+01:00
-- image_filename: 2022_11_01__12_46_DSC03626.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.577444444444446
-  lon: 17.07334722222222
-  altitude: 129.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 320
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:46:21.000000000+01:00
-- image_filename: 2022_11_01__12_05_DSC03496.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57729166666667
-  lon: 17.07401388888889
-  altitude: 142.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 640
-  width: 4024
-  height: 6048
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:05:21.000000000+01:00
-- image_filename: 2022_11_01__12_32_DSC03585.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57694444444445
-  lon: 17.075152777777777
-  altitude: 132.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 320
-  width: 3922
-  height: 5976
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:32:50.000000000+01:00
-- image_filename: 2022_11_01__12_25_DSC03557.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57977777777778
-  lon: 17.073833333333333
-  altitude: 125.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 400
-  width: 5916
-  height: 3819
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:25:19.000000000+01:00
 - image_filename: 2022_11_01__11_45_DSC03399.jpg
   post_slug: 2022-11-01-las-niedaleko-lopuchowa
   lat: 52.61440277777778
@@ -154,193 +33,6 @@
   lens: E 70-180mm F2.8 A056
   camera: ILCE-7M3
   time: 2022-11-01 11:45:14.000000000+01:00
-- image_filename: 2022_11_01__12_00_DSC03474.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.577513888888895
-  lon: 17.070763888888887
-  altitude: 123.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 400
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:00:03.000000000+01:00
-- image_filename: 2022_11_01__12_10_DSC03515.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57716666666667
-  lon: 17.074277777777777
-  altitude: 136.0
-  focal_length: 170.0
-  focal_length_35: 170.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 250
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:10:01.000000000+01:00
-- image_filename: 2022_11_01__12_07_DSC03504.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57716666666667
-  lon: 17.074277777777777
-  altitude: 137.0
-  focal_length: 117.0
-  focal_length_35: 117.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 160
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:07:48.000000000+01:00
-- image_filename: 2022_11_01__12_28_DSC03565.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57915277777778
-  lon: 17.07375
-  altitude: 130.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 250
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:28:33.000000000+01:00
-- image_filename: 2022_11_01__12_02_DSC03489.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.577513888888895
-  lon: 17.07247222222222
-  altitude: 132.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 640
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:02:25.000000000+01:00
-- image_filename: 2022_11_01__12_33_DSC03589.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.576625
-  lon: 17.076249999999998
-  altitude: 130.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 640
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:33:44.000000000+01:00
-- image_filename: 2022_11_01__12_08_DSC03508.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57716666666667
-  lon: 17.074277777777777
-  altitude: 137.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 250
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:08:31.000000000+01:00
-- image_filename: 2022_11_01__12_10_DSC03521.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57766666666667
-  lon: 17.074180555555554
-  altitude: 136.0
-  focal_length: 159.0
-  focal_length_35: 159.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 400
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:10:53.000000000+01:00
-- image_filename: 2022_11_01__12_05_DSC03497.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57723611111111
-  lon: 17.074166666666667
-  altitude: 144.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 500
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:05:31.000000000+01:00
-- image_filename: 2022_11_01__11_58_DSC03462.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57741666666667
-  lon: 17.070597222222222
-  altitude: 132.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 11:58:24.000000000+01:00
-- image_filename: 2022_11_01__12_24_DSC03553.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.58027777777778
-  lon: 17.074125
-  altitude: 124.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 1000
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:24:28.000000000+01:00
 - image_filename: 2022_11_01__11_55_DSC03428.jpg
   post_slug: 2022-11-01-las-niedaleko-lopuchowa
   lat: 52.57747222222223
@@ -358,23 +50,6 @@
   lens: E 70-180mm F2.8 A056
   camera: ILCE-7M3
   time: 2022-11-01 11:55:37.000000000+01:00
-- image_filename: 2022_11_01__12_37_DSC03607.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.575902777777785
-  lon: 17.078388888888888
-  altitude: 130.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 250
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:37:30.000000000+01:00
 - image_filename: 2022_11_01__11_56_DSC03432.jpg
   post_slug: 2022-11-01-las-niedaleko-lopuchowa
   lat: 52.57747222222223
@@ -392,57 +67,23 @@
   lens: E 70-180mm F2.8 A056
   camera: ILCE-7M3
   time: 2022-11-01 11:56:18.000000000+01:00
-- image_filename: 2022_11_01__12_23_DSC03549.jpg
+- image_filename: 2022_11_01__11_58_DSC03462.jpg
   post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.580000000000005
-  lon: 17.07409722222222
-  altitude: 121.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 640
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:23:44.000000000+01:00
-- image_filename: 2022_11_01__12_32_DSC03587.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57691666666667
-  lon: 17.075333333333333
+  lat: 52.57741666666667
+  lon: 17.070597222222222
   altitude: 132.0
-  focal_length: 180.0
-  focal_length_35: 180.0
+  focal_length: 70.0
+  focal_length_35: 70.0
   crop: 1.0
   aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 400
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
   width: 6047
   height: 4023
   lens: E 70-180mm F2.8 A056
   camera: ILCE-7M3
-  time: 2022-11-01 12:32:55.000000000+01:00
-- image_filename: 2022_11_01__12_06_DSC03500.jpg
-  post_slug: 2022-11-01-las-niedaleko-lopuchowa
-  lat: 52.57716666666667
-  lon: 17.074277777777777
-  altitude: 137.0
-  focal_length: 180.0
-  focal_length_35: 180.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 320
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-01 12:06:39.000000000+01:00
+  time: 2022-11-01 11:58:24.000000000+01:00
 - image_filename: 2022_11_01__11_58_DSC03464.jpg
   post_slug: 2022-11-01-las-niedaleko-lopuchowa
   lat: 52.577402777777785
@@ -460,3 +101,360 @@
   lens: E 70-180mm F2.8 A056
   camera: ILCE-7M3
   time: 2022-11-01 11:58:40.000000000+01:00
+- image_filename: 2022_11_01__11_59_DSC03470.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.577402777777785
+  lon: 17.070569444444445
+  altitude: 131.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 11:59:13.000000000+01:00
+- image_filename: 2022_11_01__12_00_DSC03474.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.577513888888895
+  lon: 17.070763888888887
+  altitude: 123.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:00:03.000000000+01:00
+- image_filename: 2022_11_01__12_02_DSC03489.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.577513888888895
+  lon: 17.07247222222222
+  altitude: 132.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:02:25.000000000+01:00
+- image_filename: 2022_11_01__12_05_DSC03496.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57729166666667
+  lon: 17.07401388888889
+  altitude: 142.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 4024
+  height: 6048
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:05:21.000000000+01:00
+- image_filename: 2022_11_01__12_05_DSC03497.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57723611111111
+  lon: 17.074166666666667
+  altitude: 144.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 500
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:05:31.000000000+01:00
+- image_filename: 2022_11_01__12_06_DSC03500.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57716666666667
+  lon: 17.074277777777777
+  altitude: 137.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:06:39.000000000+01:00
+- image_filename: 2022_11_01__12_07_DSC03504.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57716666666667
+  lon: 17.074277777777777
+  altitude: 137.0
+  focal_length: 117.0
+  focal_length_35: 117.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:07:48.000000000+01:00
+- image_filename: 2022_11_01__12_08_DSC03508.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57716666666667
+  lon: 17.074277777777777
+  altitude: 137.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 250
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:08:31.000000000+01:00
+- image_filename: 2022_11_01__12_10_DSC03515.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57716666666667
+  lon: 17.074277777777777
+  altitude: 136.0
+  focal_length: 170.0
+  focal_length_35: 170.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 250
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:10:01.000000000+01:00
+- image_filename: 2022_11_01__12_10_DSC03521.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57766666666667
+  lon: 17.074180555555554
+  altitude: 136.0
+  focal_length: 159.0
+  focal_length_35: 159.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:10:53.000000000+01:00
+- image_filename: 2022_11_01__12_12_DSC03528.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57804166666667
+  lon: 17.07425
+  altitude: 136.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 4024
+  height: 6048
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:12:09.000000000+01:00
+- image_filename: 2022_11_01__12_23_DSC03549.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.580000000000005
+  lon: 17.07409722222222
+  altitude: 121.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:23:44.000000000+01:00
+- image_filename: 2022_11_01__12_24_DSC03553.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.58027777777778
+  lon: 17.074125
+  altitude: 124.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:24:28.000000000+01:00
+- image_filename: 2022_11_01__12_25_DSC03557.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57977777777778
+  lon: 17.073833333333333
+  altitude: 125.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 5916
+  height: 3819
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:25:19.000000000+01:00
+- image_filename: 2022_11_01__12_28_DSC03565.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57915277777778
+  lon: 17.07375
+  altitude: 130.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 250
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:28:33.000000000+01:00
+- image_filename: 2022_11_01__12_32_DSC03581.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57718055555556
+  lon: 17.074513888888887
+  altitude: 125.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:32:01.000000000+01:00
+- image_filename: 2022_11_01__12_32_DSC03585.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57694444444445
+  lon: 17.075152777777777
+  altitude: 132.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 3922
+  height: 5976
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:32:50.000000000+01:00
+- image_filename: 2022_11_01__12_32_DSC03587.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.57691666666667
+  lon: 17.075333333333333
+  altitude: 132.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:32:55.000000000+01:00
+- image_filename: 2022_11_01__12_33_DSC03589.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.576625
+  lon: 17.076249999999998
+  altitude: 130.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:33:44.000000000+01:00
+- image_filename: 2022_11_01__12_37_DSC03607.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.575902777777785
+  lon: 17.078388888888888
+  altitude: 130.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 250
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:37:30.000000000+01:00
+- image_filename: 2022_11_01__12_46_DSC03626.jpg
+  post_slug: 2022-11-01-las-niedaleko-lopuchowa
+  lat: 52.577444444444446
+  lon: 17.07334722222222
+  altitude: 129.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-01 12:46:21.000000000+01:00

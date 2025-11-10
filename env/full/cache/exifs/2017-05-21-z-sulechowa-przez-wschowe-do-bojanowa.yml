@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.67979166666667
-  lon: 16.66111111111111
-  altitude: 134.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-05-21 15:55:39+02:00
 - image_filename: IMGP6397raw1.jpg
   post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
   lat: 52.04009722222222
@@ -22,291 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2017-05-21 08:39:35+02:00
-- image_filename: IMGP6415raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.997
-  lon: 15.696319444444445
-  altitude: 55.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-05-21 09:05:57+02:00
-- image_filename: IMGP6428raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.88491666666667
-  lon: 15.912861111111111
-  altitude: 83.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-05-21 11:04:39+02:00
-- image_filename: IMGP6441raw2.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.87606944444445
-  lon: 16.067805555555555
-  altitude: 58.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-05-21 11:50:26+02:00
-- image_filename: IMGP6479raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.875680555555554
-  lon: 16.073013888888887
-  altitude: 65.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 2.4
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-05-21 12:07:16+02:00
-- image_filename: IMGP6487raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.81901388888889
-  lon: 16.21973611111111
-  altitude: 101.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-05-21 12:42:04+02:00
-- image_filename: IMGP6499raw2.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.806013888888884
-  lon: 16.31613888888889
-  altitude: 99.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-05-21 13:33:12+02:00
-- image_filename: IMGP6500raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.72658333333334
-  lon: 16.45438888888889
-  altitude: 101.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-05-21 14:52:38+02:00
-- image_filename: IMGP6503raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.67236111111111
-  lon: 16.623
-  altitude: 126.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-05-21 15:44:03+02:00
-- image_filename: IMGP6520raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.686375
-  lon: 16.688736111111112
-  altitude: 123.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-05-21 16:02:09+02:00
-- image_filename: IMGP6443raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.87606944444445
-  lon: 16.067833333333333
-  altitude: 58.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-05-21 11:50:38+02:00
-- image_filename: IMGP6435raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.85769444444445
-  lon: 15.995305555555555
-  altitude: 61.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-05-21 11:27:54+02:00
-- image_filename: IMGP6451raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.87606944444445
-  lon: 16.067763888888887
-  altitude: 57.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-05-21 11:53:51+02:00
-- image_filename: IMGP6490raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.80620833333333
-  lon: 16.290444444444447
-  altitude: 104.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-05-21 12:59:04+02:00
-- image_filename: IMGP6533raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.69933333333333
-  lon: 16.732319444444443
-  altitude: 111.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-05-21 16:16:55+02:00
-- image_filename: IMGP6538raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.69908333333333
-  lon: 16.73675
-  altitude: 112.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-05-21 16:18:03+02:00
-- image_filename: IMGP6504raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.67234722222222
-  lon: 16.62323611111111
-  altitude: 126.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-05-21 15:44:06+02:00
-- image_filename: IMGP6489raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.80659722222222
-  lon: 16.289597222222223
-  altitude: 104.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-05-21 12:58:56+02:00
-- image_filename: IMGP6510raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.671569444444444
-  lon: 16.630819444444445
-  altitude: 132.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-05-21 15:45:57+02:00
-- image_filename: IMGP6427raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.99359722222222
-  lon: 15.769361111111111
-  altitude: 58.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-05-21 09:34:16+02:00
-- image_filename: IMGP6462raw1.jpg
-  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
-  lat: 51.875166666666665
-  lon: 16.069319444444446
-  altitude: 60.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-05-21 12:00:12+02:00
+  time: 2017-05-21 08:39:35.000000000+02:00
 - image_filename: IMGP6399raw1.jpg
   post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
   lat: 52.04009722222222
@@ -316,8 +22,302 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-05-21 08:40:57+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 08:40:57.000000000+02:00
+- image_filename: IMGP6415raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.997
+  lon: 15.696319444444445
+  altitude: 55.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-05-21 09:05:57.000000000+02:00
+- image_filename: IMGP6427raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.99359722222222
+  lon: 15.769361111111111
+  altitude: 58.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 09:34:16.000000000+02:00
+- image_filename: IMGP6428raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.88491666666667
+  lon: 15.912861111111111
+  altitude: 83.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 11:04:39.000000000+02:00
+- image_filename: IMGP6435raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.85769444444445
+  lon: 15.995305555555555
+  altitude: 61.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-05-21 11:27:54.000000000+02:00
+- image_filename: IMGP6441raw2.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.87606944444445
+  lon: 16.067805555555555
+  altitude: 58.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 11:50:26.000000000+02:00
+- image_filename: IMGP6443raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.87606944444445
+  lon: 16.067833333333333
+  altitude: 58.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 11:50:38.000000000+02:00
+- image_filename: IMGP6451raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.87606944444445
+  lon: 16.067763888888887
+  altitude: 57.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-05-21 11:53:51.000000000+02:00
+- image_filename: IMGP6462raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.875166666666665
+  lon: 16.069319444444446
+  altitude: 60.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 12:00:12.000000000+02:00
+- image_filename: IMGP6479raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.875680555555554
+  lon: 16.073013888888887
+  altitude: 65.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 2.4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-05-21 12:07:16.000000000+02:00
+- image_filename: IMGP6487raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.81901388888889
+  lon: 16.21973611111111
+  altitude: 101.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-05-21 12:42:04.000000000+02:00
+- image_filename: IMGP6489raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.80659722222222
+  lon: 16.289597222222223
+  altitude: 104.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 12:58:56.000000000+02:00
+- image_filename: IMGP6490raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.80620833333333
+  lon: 16.290444444444447
+  altitude: 104.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 12:59:04.000000000+02:00
+- image_filename: IMGP6499raw2.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.806013888888884
+  lon: 16.31613888888889
+  altitude: 99.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 13:33:12.000000000+02:00
+- image_filename: IMGP6500raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.72658333333334
+  lon: 16.45438888888889
+  altitude: 101.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 14:52:38.000000000+02:00
+- image_filename: IMGP6503raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.67236111111111
+  lon: 16.623
+  altitude: 126.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 15:44:03.000000000+02:00
+- image_filename: IMGP6504raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.67234722222222
+  lon: 16.62323611111111
+  altitude: 126.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 15:44:06.000000000+02:00
+- image_filename: IMGP6510raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.671569444444444
+  lon: 16.630819444444445
+  altitude: 132.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 15:45:57.000000000+02:00
+- image_filename: IMGP6520raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.686375
+  lon: 16.688736111111112
+  altitude: 123.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 16:02:09.000000000+02:00
+- image_filename: IMGP6533raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.69933333333333
+  lon: 16.732319444444443
+  altitude: 111.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 16:16:55.000000000+02:00
+- image_filename: IMGP6538raw1.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.69908333333333
+  lon: 16.73675
+  altitude: 112.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 16:18:03.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-05-21-z-sulechowa-przez-wschowe-do-bojanowa
+  lat: 51.67979166666667
+  lon: 16.66111111111111
+  altitude: 134.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-21 15:55:39.000000000+02:00

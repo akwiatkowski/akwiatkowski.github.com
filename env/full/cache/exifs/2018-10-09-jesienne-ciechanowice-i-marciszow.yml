@@ -1,22 +1,4 @@
 ---
-- image_filename: 2018_10_09_14_48__A090731.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85809722222223
-  lon: 15.978027777777777
-  altitude: 440.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-10-09 14:48:18+02:00
-  focus_distance: 215.57
 - image_filename: 2018_10_09_14_24__A090703.jpg
   post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
   lat: 50.865569444444446
@@ -26,282 +8,15 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.13
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5159
   height: 3800
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-10-09 14:24:38+02:00
-  focus_distance: 1.13
-- image_filename: 2018_10_09_14_27__A090709.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.866416666666666
-  lon: 15.980347222222223
-  altitude: 388.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3802
-  height: 5159
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-10-09 14:27:30+02:00
-  focus_distance: 12.26
-- image_filename: 2018_10_09_14_42__A090725.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.86061111111111
-  lon: 15.978666666666667
-  altitude: 444.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5205
-  height: 3887
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-10-09 14:42:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_09_14_48__A090730.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85819444444444
-  lon: 15.977916666666667
-  altitude: 441.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-09 14:48:06+02:00
-  focus_distance: 3.99
-- image_filename: 2018_10_09_14_52__A090733.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85677777777778
-  lon: 15.98198611111111
-  altitude: 433.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-10-09 14:52:51+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_09_15_05__A090743.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85025
-  lon: 15.989513888888888
-  altitude: 427.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5132
-  height: 3762
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-10-09 15:05:21+02:00
-  focus_distance: 30.57
-- image_filename: 2018_10_09_15_15__A090745.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85322222222222
-  lon: 15.998208333333332
-  altitude: 404.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4522
-  height: 3625
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-10-09 15:15:30+02:00
-  focus_distance: 8.07
-- image_filename: 2018_10_09_15_19__A090750.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.853875
-  lon: 16.002819444444444
-  altitude: 404.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4385
-  height: 3771
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-10-09 15:19:44+02:00
-  focus_distance: 6.53
-- image_filename: 2018_10_09_15_26__A090755.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.852222222222224
-  lon: 16.009680555555555
-  altitude: 411.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4456
-  height: 3863
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-10-09 15:26:27+02:00
-  focus_distance: 3.43
-- image_filename: 2018_10_09_15_33__A090762.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85369444444444
-  lon: 16.01311111111111
-  altitude: 417.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 3729
-  height: 2768
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-10-09 15:33:16+02:00
-  focus_distance: 60.03
-- image_filename: 2018_10_09_15_39__A090769.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85483333333333
-  lon: 16.014680555555554
-  altitude: 426.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-10-09 15:39:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_09_15_49__A090777.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  focal_length: 215.0
-  focal_length_35: 430.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5078
-  height: 3689
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-09 15:49:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_09_15_34__A090765.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.854
-  lon: 16.013638888888888
-  altitude: 418.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 4527
-  height: 3381
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-10-09 15:34:05+02:00
-  focus_distance: 58.53
-- image_filename: 2018_10_09_15_24__A090752.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85288888888889
-  lon: 16.00784722222222
-  altitude: 413.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5119
-  height: 3750
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-10-09 15:24:24+02:00
-  focus_distance: 25.72
-- image_filename: 2018_10_09_15_17__A090748.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85329166666667
-  lon: 16.000083333333333
-  altitude: 404.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-09 15:17:06+02:00
-  focus_distance: 5.97
-- image_filename: 2018_10_09_14_59__A090741.jpg
-  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
-  lat: 50.85305555555556
-  lon: 15.985694444444444
-  altitude: 433.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-09 14:59:43+02:00
-  focus_distance: 121.36
+  time: 2018-10-09 14:24:38.000000000+02:00
 - image_filename: 2018_10_09_14_24__A090705.jpg
   post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
   lat: 50.865611111111114
@@ -311,12 +26,297 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5070
-  height: 3784
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2018-10-09 14:24:58+02:00
   focus_distance: 21.25
+  iso: 200
+  width: 5070
+  height: 3784
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 14:24:58.000000000+02:00
+- image_filename: 2018_10_09_14_27__A090709.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.866416666666666
+  lon: 15.980347222222223
+  altitude: 388.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 12.26
+  iso: 200
+  width: 3802
+  height: 5159
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 14:27:30.000000000+02:00
+- image_filename: 2018_10_09_14_42__A090725.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.86061111111111
+  lon: 15.978666666666667
+  altitude: 444.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5205
+  height: 3887
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 14:42:50.000000000+02:00
+- image_filename: 2018_10_09_14_48__A090730.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85819444444444
+  lon: 15.977916666666667
+  altitude: 441.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 3.99
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 14:48:06.000000000+02:00
+- image_filename: 2018_10_09_14_48__A090731.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85809722222223
+  lon: 15.978027777777777
+  altitude: 440.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 215.57
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 14:48:18.000000000+02:00
+- image_filename: 2018_10_09_14_52__A090733.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85677777777778
+  lon: 15.98198611111111
+  altitude: 433.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 14:52:51.000000000+02:00
+- image_filename: 2018_10_09_14_59__A090741.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85305555555556
+  lon: 15.985694444444444
+  altitude: 433.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 121.36
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 14:59:43.000000000+02:00
+- image_filename: 2018_10_09_15_05__A090743.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85025
+  lon: 15.989513888888888
+  altitude: 427.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 30.57
+  iso: 200
+  width: 5132
+  height: 3762
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 15:05:21.000000000+02:00
+- image_filename: 2018_10_09_15_15__A090745.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85322222222222
+  lon: 15.998208333333332
+  altitude: 404.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.07
+  iso: 200
+  width: 4522
+  height: 3625
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 15:15:30.000000000+02:00
+- image_filename: 2018_10_09_15_17__A090748.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85329166666667
+  lon: 16.000083333333333
+  altitude: 404.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.97
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 15:17:06.000000000+02:00
+- image_filename: 2018_10_09_15_19__A090750.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.853875
+  lon: 16.002819444444444
+  altitude: 404.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 6.53
+  iso: 200
+  width: 4385
+  height: 3771
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 15:19:44.000000000+02:00
+- image_filename: 2018_10_09_15_24__A090752.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85288888888889
+  lon: 16.00784722222222
+  altitude: 413.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 25.72
+  iso: 200
+  width: 5119
+  height: 3750
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 15:24:24.000000000+02:00
+- image_filename: 2018_10_09_15_26__A090755.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.852222222222224
+  lon: 16.009680555555555
+  altitude: 411.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 3.43
+  iso: 200
+  width: 4456
+  height: 3863
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-09 15:26:27.000000000+02:00
+- image_filename: 2018_10_09_15_33__A090762.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85369444444444
+  lon: 16.01311111111111
+  altitude: 417.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 60.03
+  iso: 200
+  width: 3729
+  height: 2768
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-10-09 15:33:16.000000000+02:00
+- image_filename: 2018_10_09_15_34__A090765.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.854
+  lon: 16.013638888888888
+  altitude: 418.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 58.53
+  iso: 200
+  width: 4527
+  height: 3381
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-10-09 15:34:05.000000000+02:00
+- image_filename: 2018_10_09_15_39__A090769.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85483333333333
+  lon: 16.014680555555554
+  altitude: 426.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-10-09 15:39:31.000000000+02:00
+- image_filename: 2018_10_09_15_49__A090777.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  focal_length: 215.0
+  focal_length_35: 430.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5078
+  height: 3689
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-10-09 15:49:00.000000000+02:00

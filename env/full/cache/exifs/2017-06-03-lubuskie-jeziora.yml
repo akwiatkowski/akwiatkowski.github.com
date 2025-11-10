@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.181152777777775
-  lon: 15.453958333333333
-  altitude: 76.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-06-03 08:40:52+02:00
 - image_filename: IMGP6890raw1.jpg
   post_slug: 2017-06-03-lubuskie-jeziora
   lat: 52.10588888888889
@@ -22,347 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-06-03 07:59:45+02:00
-- image_filename: IMGP6939raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.206069444444445
-  lon: 15.43913888888889
-  altitude: 83.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 09:12:22+02:00
-- image_filename: IMGP6954raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.20754166666667
-  lon: 15.422819444444444
-  altitude: 88.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 09:21:41+02:00
-- image_filename: IMGP6969raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.21502777777778
-  lon: 15.400486111111112
-  altitude: 84.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 09:33:55+02:00
-- image_filename: IMGP6981raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.23361111111111
-  lon: 15.375
-  altitude: 98.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-06-03 10:07:09+02:00
-- image_filename: IMGP6990raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.23125
-  lon: 15.322986111111112
-  altitude: 118.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 10:24:19+02:00
-- image_filename: IMGP7015raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.333263888888894
-  lon: 15.295013888888889
-  altitude: 121.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-06-03 11:39:57+02:00
-- image_filename: IMGP7022raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.35226388888889
-  lon: 15.324972222222222
-  altitude: 156.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 12:16:45+02:00
-- image_filename: IMGP7032raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.338097222222224
-  lon: 15.358541666666666
-  altitude: 109.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 12:44:46+02:00
-- image_filename: IMGP7049raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.31472222222222
-  lon: 15.356041666666666
-  altitude: 119.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-06-03 13:06:25+02:00
-- image_filename: IMGP7054raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.29511111111111
-  lon: 15.437152777777778
-  altitude: 82.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-06-03 14:15:37+02:00
-- image_filename: IMGP7046raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.31469444444444
-  lon: 15.358847222222222
-  altitude: 120.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-06-03 13:03:41+02:00
-- image_filename: IMGP6962raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.21501388888889
-  lon: 15.400486111111112
-  altitude: 84.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 09:33:21+02:00
-- image_filename: IMGP6932raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.20451388888889
-  lon: 15.438527777777779
-  altitude: 82.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-06-03 09:10:50+02:00
-- image_filename: IMGP6985raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.231
-  lon: 15.333277777777777
-  altitude: 108.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 10:20:08+02:00
-- image_filename: IMGP7011raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.23733333333333
-  lon: 15.297875
-  altitude: 122.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-03 10:36:35+02:00
-- image_filename: IMGP6977raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.212722222222226
-  lon: 15.400875000000001
-  altitude: 91.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-06-03 09:36:49+02:00
-- image_filename: IMGP7050raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.29822222222222
-  lon: 15.36173611111111
-  altitude: 103.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-06-03 13:13:44+02:00
-- image_filename: IMGP7007raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.233555555555554
-  lon: 15.302819444444445
-  altitude: 108.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-06-03 10:34:05+02:00
-- image_filename: IMGP6946raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.207
-  lon: 15.440597222222223
-  altitude: 81.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 09:12:53+02:00
-- image_filename: IMGP7038raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.31680555555556
-  lon: 15.353125
-  altitude: 122.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-06-03 12:59:22+02:00
-- image_filename: IMGP6996raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.23141666666667
-  lon: 15.320847222222222
-  altitude: 115.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-06-03 10:27:09+02:00
-- image_filename: IMGP6982raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.23225
-  lon: 15.359847222222221
-  altitude: 107.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-06-03 10:10:17+02:00
-- image_filename: IMGP6942raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.20640277777778
-  lon: 15.439819444444444
-  altitude: 81.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 09:12:33+02:00
-- image_filename: IMGP7028raw1.jpg
-  post_slug: 2017-06-03-lubuskie-jeziora
-  lat: 52.35
-  lon: 15.33976388888889
-  altitude: 145.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-03 12:25:14+02:00
+  time: 2017-06-03 07:59:45.000000000+02:00
 - image_filename: IMGP6919raw1.jpg
   post_slug: 2017-06-03-lubuskie-jeziora
   lat: 52.181124999999994
@@ -372,11 +22,39 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2017-06-03 08:43:06+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 08:43:06.000000000+02:00
+- image_filename: IMGP6932raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.20451388888889
+  lon: 15.438527777777779
+  altitude: 82.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 09:10:50.000000000+02:00
+- image_filename: IMGP6939raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.206069444444445
+  lon: 15.43913888888889
+  altitude: 83.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-06-03 09:12:22.000000000+02:00
 - image_filename: IMGP6941raw1.jpg
   post_slug: 2017-06-03-lubuskie-jeziora
   lat: 52.206250000000004
@@ -386,8 +64,330 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-06-03 09:12:29+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-03 09:12:29.000000000+02:00
+- image_filename: IMGP6942raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.20640277777778
+  lon: 15.439819444444444
+  altitude: 81.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-06-03 09:12:33.000000000+02:00
+- image_filename: IMGP6946raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.207
+  lon: 15.440597222222223
+  altitude: 81.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-03 09:12:53.000000000+02:00
+- image_filename: IMGP6954raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.20754166666667
+  lon: 15.422819444444444
+  altitude: 88.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-06-03 09:21:41.000000000+02:00
+- image_filename: IMGP6962raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.21501388888889
+  lon: 15.400486111111112
+  altitude: 84.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-06-03 09:33:21.000000000+02:00
+- image_filename: IMGP6969raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.21502777777778
+  lon: 15.400486111111112
+  altitude: 84.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-06-03 09:33:55.000000000+02:00
+- image_filename: IMGP6977raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.212722222222226
+  lon: 15.400875000000001
+  altitude: 91.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 09:36:49.000000000+02:00
+- image_filename: IMGP6981raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.23361111111111
+  lon: 15.375
+  altitude: 98.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 10:07:09.000000000+02:00
+- image_filename: IMGP6982raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.23225
+  lon: 15.359847222222221
+  altitude: 107.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 10:10:17.000000000+02:00
+- image_filename: IMGP6985raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.231
+  lon: 15.333277777777777
+  altitude: 108.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 10:20:08.000000000+02:00
+- image_filename: IMGP6990raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.23125
+  lon: 15.322986111111112
+  altitude: 118.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 10:24:19.000000000+02:00
+- image_filename: IMGP6996raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.23141666666667
+  lon: 15.320847222222222
+  altitude: 115.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 10:27:09.000000000+02:00
+- image_filename: IMGP7007raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.233555555555554
+  lon: 15.302819444444445
+  altitude: 108.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 10:34:05.000000000+02:00
+- image_filename: IMGP7011raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.23733333333333
+  lon: 15.297875
+  altitude: 122.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 10:36:35.000000000+02:00
+- image_filename: IMGP7015raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.333263888888894
+  lon: 15.295013888888889
+  altitude: 121.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 11:39:57.000000000+02:00
+- image_filename: IMGP7022raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.35226388888889
+  lon: 15.324972222222222
+  altitude: 156.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 12:16:45.000000000+02:00
+- image_filename: IMGP7028raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.35
+  lon: 15.33976388888889
+  altitude: 145.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 12:25:14.000000000+02:00
+- image_filename: IMGP7032raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.338097222222224
+  lon: 15.358541666666666
+  altitude: 109.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 12:44:46.000000000+02:00
+- image_filename: IMGP7038raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.31680555555556
+  lon: 15.353125
+  altitude: 122.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 12:59:22.000000000+02:00
+- image_filename: IMGP7046raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.31469444444444
+  lon: 15.358847222222222
+  altitude: 120.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-03 13:03:41.000000000+02:00
+- image_filename: IMGP7049raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.31472222222222
+  lon: 15.356041666666666
+  altitude: 119.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-03 13:06:25.000000000+02:00
+- image_filename: IMGP7050raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.29822222222222
+  lon: 15.36173611111111
+  altitude: 103.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-03 13:13:44.000000000+02:00
+- image_filename: IMGP7054raw1.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.29511111111111
+  lon: 15.437152777777778
+  altitude: 82.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 14:15:37.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-06-03-lubuskie-jeziora
+  lat: 52.181152777777775
+  lon: 15.453958333333333
+  altitude: 76.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-03 08:40:52.000000000+02:00

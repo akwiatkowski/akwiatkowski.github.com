@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-11-07-szary-listopad
 - image_filename: 2020_11_07__15_34_DSC06147.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58759722222222
@@ -10,14 +8,14 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 320
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-11-07 15:34:17+01:00
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-07 15:34:17.000000000+01:00
 - image_filename: 2020_11_07__15_35_DSC06148.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58748611111111
@@ -27,14 +25,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 125
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-11-07 15:35:10+01:00
+  iso: 125
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 15:35:10.000000000+01:00
 - image_filename: 2020_11_07__15_42_DSC06167.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58734722222223
@@ -44,14 +42,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.5
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5982
-  height: 3926
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-11-07 15:42:08+01:00
+  iso: 100
+  width: 5982
+  height: 3926
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 15:42:08.000000000+01:00
 - image_filename: 2020_11_07__15_43_DSC06168.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58827777777778
@@ -61,14 +59,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.0
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-11-07 15:43:45+01:00
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 15:43:45.000000000+01:00
 - image_filename: 2020_11_07__15_44_DSC06170.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58854166666667
@@ -78,14 +76,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5943
-  height: 3861
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-07 15:44:16+01:00
+  iso: 100
+  width: 5943
+  height: 3861
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 15:44:16.000000000+01:00
 - image_filename: 2020_11_07__15_48_DSC06175.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58940277777778
@@ -95,14 +93,14 @@
   focal_length_35: 220.0
   crop: 0.9972801450589303
   aperture: 5.6
-  iso: 1000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5751
-  height: 3839
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-07 15:48:23+01:00
+  iso: 1000
+  width: 5751
+  height: 3839
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-07 15:48:23.000000000+01:00
 - image_filename: 2020_11_07__15_50_DSC06178.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58954166666667
@@ -112,48 +110,14 @@
   focal_length_35: 118.0
   crop: 0.9983079526226734
   aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 2500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 5751
   height: 3839
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-07 15:50:03+01:00
-- image_filename: 2020_11_07__15_58_DSC06222.jpg
-  post_slug: 2020-11-07-szary-listopad
-  lat: 52.59077777777778
-  lon: 17.08223611111111
-  altitude: 78.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 800
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 3771
-  height: 2825
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-07 15:58:21+01:00
-- image_filename: 2020_11_07__16_07_DSC06239.jpg
-  post_slug: 2020-11-07-szary-listopad
-  lat: 52.58952777777778
-  lon: 17.078208333333333
-  altitude: 68.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 500
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-07 16:07:27+01:00
+  time: 2020-11-07 15:50:03.000000000+01:00
 - image_filename: 2020_11_07__15_53_DSC06191.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.59022222222222
@@ -163,31 +127,48 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4959
-  height: 3009
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-07 15:53:50+01:00
-- image_filename: 2020_11_07__16_16_DSC06276.jpg
-  post_slug: 2020-11-07-szary-listopad
-  lat: 52.58965277777778
-  lon: 17.07736111111111
-  altitude: 62.0
-  focal_length: 43.0
-  focal_length_35: 43.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
+  iso: 500
+  width: 4959
+  height: 3009
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5850
-  height: 3892
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-11-07 16:16:04+01:00
+  time: 2020-11-07 15:53:50.000000000+01:00
+- image_filename: 2020_11_07__15_58_DSC06222.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.59077777777778
+  lon: 17.08223611111111
+  altitude: 78.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 800
+  width: 3771
+  height: 2825
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-07 15:58:21.000000000+01:00
+- image_filename: 2020_11_07__16_07_DSC06239.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58952777777778
+  lon: 17.078208333333333
+  altitude: 68.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 16:07:27.000000000+01:00
 - image_filename: 2020_11_07__16_08_DSC06244.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58952777777778
@@ -197,14 +178,31 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 640
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-07 16:08:03+01:00
+  iso: 640
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 16:08:03.000000000+01:00
+- image_filename: 2020_11_07__16_16_DSC06276.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58965277777778
+  lon: 17.07736111111111
+  altitude: 62.0
+  focal_length: 43.0
+  focal_length_35: 43.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 5850
+  height: 3892
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-07 16:16:04.000000000+01:00
 - image_filename: 2020_11_07__16_30_DSC06284.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.588486111111116
@@ -214,31 +212,14 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 4024
-  height: 6047
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
-  time: 2020-11-07 16:30:36+01:00
-- image_filename: 2020_11_07__16_36_DSC06295.jpg
-  post_slug: 2020-11-07-szary-listopad
-  lat: 52.58726388888889
-  lon: 17.07788888888889
-  altitude: 70.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 320
-  lens: FE 85mm F1.8
+  iso: 125
+  width: 4024
+  height: 6047
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-11-07 16:36:01+01:00
+  time: 2020-11-07 16:30:36.000000000+01:00
 - image_filename: 2020_11_07__16_33_DSC06289.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58775
@@ -248,14 +229,31 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 1600
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 4024
-  height: 6047
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-11-07 16:33:38+01:00
+  iso: 1600
+  width: 4024
+  height: 6047
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-07 16:33:38.000000000+01:00
+- image_filename: 2020_11_07__16_36_DSC06295.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58726388888889
+  lon: 17.07788888888889
+  altitude: 70.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 16:36:01.000000000+01:00
 - image_filename: 2020_11_07__16_37_DSC06304.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.587069444444445
@@ -265,14 +263,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 8000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 3528
-  height: 2408
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-07 16:37:57+01:00
+  iso: 8000
+  width: 3528
+  height: 2408
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-07 16:37:57.000000000+01:00
 - image_filename: 2020_11_07__16_38_DSC06308.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58697222222222
@@ -282,31 +280,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 500
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
   width: 4023
   height: 6047
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-11-07 16:38:53+01:00
-- image_filename: 2020_11_07__16_50_DSC06347.jpg
-  post_slug: 2020-11-07-szary-listopad
-  lat: 52.585347222222225
-  lon: 17.080555555555556
-  altitude: 67.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 1000
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-11-07 16:50:35+01:00
+  time: 2020-11-07 16:38:53.000000000+01:00
 - image_filename: 2020_11_07__16_39_DSC06312.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58691666666667
@@ -316,14 +297,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 400
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-11-07 16:39:23+01:00
+  iso: 400
+  width: 4023
+  height: 6047
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 16:39:23.000000000+01:00
 - image_filename: 2020_11_07__16_48_DSC06339.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58565277777778
@@ -333,31 +314,31 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 320
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-11-07 16:48:15+01:00
-- image_filename: 2020_11_07__17_17_DSC06390.jpg
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 16:48:15.000000000+01:00
+- image_filename: 2020_11_07__16_50_DSC06347.jpg
   post_slug: 2020-11-07-szary-listopad
-  lat: 52.61066666666667
-  lon: 17.090694444444445
-  altitude: 79.0
+  lat: 52.585347222222225
+  lon: 17.080555555555556
+  altitude: 67.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 4000
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 1000
+  width: 6048
+  height: 4024
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  width: 5960
-  height: 3965
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-07 17:17:34+01:00
+  time: 2020-11-07 16:50:35.000000000+01:00
 - image_filename: 2020_11_07__16_56_DSC06355.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58434722222223
@@ -367,14 +348,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 640
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5769
-  height: 3839
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-11-07 16:56:41+01:00
+  iso: 640
+  width: 5769
+  height: 3839
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 16:56:41.000000000+01:00
 - image_filename: 2020_11_07__17_02_DSC06371.jpg
   post_slug: 2020-11-07-szary-listopad
   lat: 52.58416666666667
@@ -384,11 +365,28 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 2000
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 4024
-  height: 6047
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-11-07 17:02:44+01:00
+  iso: 2000
+  width: 4024
+  height: 6047
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 17:02:44.000000000+01:00
+- image_filename: 2020_11_07__17_17_DSC06390.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.61066666666667
+  lon: 17.090694444444445
+  altitude: 79.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 4000
+  width: 5960
+  height: 3965
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-07 17:17:34.000000000+01:00

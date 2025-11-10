@@ -1,37 +1,19 @@
 ---
-- image_filename: 2018_11_29__06_53__B294752.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.48002777777778
-  lon: 18.56488888888889
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5106
-  height: 3760
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-11-29 06:53:02+01:00
-  focus_distance: 7.62
 - image_filename: 2018_11_28__20_38__B284741.jpg
   post_slug: 2018-11-29-wietrzne-orlowo
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5186
-  height: 3839
   exposure: 0.5
   exposure_string: 1/2 s
-  time: 2018-11-28 20:38:36+01:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5186
+  height: 3839
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-11-28 20:38:36.000000000+01:00
 - image_filename: 2018_11_29__06_48__B294750.jpg
   post_slug: 2018-11-29-wietrzne-orlowo
   lat: 54.48013888888889
@@ -41,411 +23,33 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 5.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 11.39
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 4871
   height: 3657
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-11-29 06:48:40+01:00
-  focus_distance: 11.39
-- image_filename: 2018_11_29__07_11__B294763.jpg
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 06:48:40.000000000+01:00
+- image_filename: 2018_11_29__06_53__B294752.jpg
   post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.480375
-  lon: 18.56452777777778
+  lat: 54.48002777777778
+  lon: 18.56488888888889
   altitude: 4294967296.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 7.62
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4864
-  height: 3628
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-11-29 07:11:03+01:00
-  focus_distance: 3.35
-- image_filename: 2018_11_29__07_27__B294775.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47983333333333
-  lon: 18.564305555555556
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4881
-  height: 3618
-  exposure: 15.0
-  exposure_string: 15 s
-  time: 2018-11-29 07:27:52+01:00
-  focus_distance: 12.48
-- image_filename: 2018_11_29__07_29__B294777.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.479819444444445
-  lon: 18.564347222222224
-  altitude: 4294967296.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5108
-  height: 3813
-  exposure: 15.0
-  exposure_string: 15 s
-  time: 2018-11-29 07:29:22+01:00
-  focus_distance: 0.92
-- image_filename: 2018_11_29__08_00__B294825.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47726388888889
-  lon: 18.5635
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4593
-  height: 3506
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2018-11-29 08:00:11+01:00
-  focus_distance: 1.01
-- image_filename: 2018_11_29__08_04__B294833_01_bw_small.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.477222222222224
-  lon: 18.563402777777778
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2018-11-29 08:04:48+01:00
-  focus_distance: 5.98
-- image_filename: 2018_11_29__08_11__B294865.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47830555555556
-  lon: 18.563736111111112
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5129
-  height: 3829
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2018-11-29 08:11:32+01:00
-  focus_distance: 38.83
-- image_filename: 2018_11_29__07_13__B294765.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.48026388888889
-  lon: 18.564194444444446
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4878
-  height: 3620
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-11-29 07:13:04+01:00
-  focus_distance: 4.28
-- image_filename: 2018_11_29__08_15__B294878.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.48008333333333
-  lon: 18.563291666666668
-  altitude: 4294967296.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5198
-  height: 3881
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-11-29 08:15:24+01:00
-  focus_distance: 5.37
-- image_filename: 2018_11_29__07_44__B294797.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47759722222222
-  lon: 18.563666666666666
-  altitude: 4294967296.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5106
-  height: 3812
-  exposure: 5.0
-  exposure_string: 5 s
-  time: 2018-11-29 07:44:32+01:00
-  focus_distance: 9.5
-- image_filename: 2018_11_29__07_03__B294757.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.480375
-  lon: 18.564541666666667
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
+  height: 3760
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4685
-  height: 3444
-  exposure: 13.0
-  exposure_string: 13 s
-  time: 2018-11-29 07:03:27+01:00
-  focus_distance: 2.98
-- image_filename: 2018_11_29__07_37__B294784.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47793055555556
-  lon: 18.56365277777778
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4918
-  height: 3671
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2018-11-29 07:37:28+01:00
-  focus_distance: 9.66
-- image_filename: 2018_11_29__07_55__B294817.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47726388888889
-  lon: 18.563444444444446
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5049
-  height: 3769
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2018-11-29 07:55:43+01:00
-  focus_distance: 1.26
-- image_filename: 2018_11_29__07_48__B294806.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47756944444445
-  lon: 18.563625000000002
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4816
-  height: 3630
-  exposure: 15.0
-  exposure_string: 15 s
-  time: 2018-11-29 07:48:01+01:00
-  focus_distance: 1.14
-- image_filename: 2018_11_29__07_24__B294772.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.479847222222226
-  lon: 18.564125
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4809
-  height: 3640
-  exposure: 50.0
-  exposure_string: 50 s
-  time: 2018-11-29 07:24:04+01:00
-  focus_distance: 3.81
-- image_filename: 2018_11_29__08_14__B294875.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47983333333333
-  lon: 18.56376388888889
-  altitude: 4294967296.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-11-29 08:14:27+01:00
-  focus_distance: 6.28
-- image_filename: 2018_11_29__07_17__B294767.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.48016666666667
-  lon: 18.564333333333334
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5096
-  height: 3805
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-11-29 07:17:39+01:00
-  focus_distance: 3.12
-- image_filename: 2018_11_29__07_25__B294773_01.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47980555555556
-  lon: 18.56425
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4814
-  height: 3572
-  exposure: 50.0
-  exposure_string: 50 s
-  time: 2018-11-29 07:25:34+01:00
-  focus_distance: 5.97
-- image_filename: 2018_11_29__08_00__B294826.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47726388888889
-  lon: 18.5635
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4604
-  height: 3496
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2018-11-29 08:00:52+01:00
-  focus_distance: 0.86
-- image_filename: 2018_11_29__08_08__B294846.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47763888888889
-  lon: 18.563513888888888
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-11-29 08:08:45+01:00
-  focus_distance: 156.04
-- image_filename: 2018_11_29__07_20__B294769.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.479958333333336
-  lon: 18.564291666666666
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4616
-  height: 3631
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-11-29 07:20:16+01:00
-  focus_distance: 3.12
-- image_filename: 2018_11_29__08_01__B294828.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47727777777778
-  lon: 18.5635
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3782
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2018-11-29 08:01:39+01:00
-  focus_distance: 2.08
-- image_filename: 2018_11_29__07_57__B294818.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.47726388888889
-  lon: 18.563458333333333
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5091
-  height: 3800
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2018-11-29 07:57:03+01:00
-  focus_distance: 1.16
+  time: 2018-11-29 06:53:02.000000000+01:00
 - image_filename: 2018_11_29__06_58__B294755_01.jpg
   post_slug: 2018-11-29-wietrzne-orlowo
   lat: 54.48034722222222
@@ -455,12 +59,408 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4871
-  height: 3636
   exposure: 25.0
   exposure_string: 25 s
-  time: 2018-11-29 06:58:55+01:00
   focus_distance: 6.53
+  iso: 200
+  width: 4871
+  height: 3636
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 06:58:55.000000000+01:00
+- image_filename: 2018_11_29__07_03__B294757.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.480375
+  lon: 18.564541666666667
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 13.0
+  exposure_string: 13 s
+  focus_distance: 2.98
+  iso: 200
+  width: 4685
+  height: 3444
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:03:27.000000000+01:00
+- image_filename: 2018_11_29__07_11__B294763.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.480375
+  lon: 18.56452777777778
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 3.35
+  iso: 200
+  width: 4864
+  height: 3628
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:11:03.000000000+01:00
+- image_filename: 2018_11_29__07_13__B294765.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48026388888889
+  lon: 18.564194444444446
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 2.0
+  exposure_string: 3.2 s
+  focus_distance: 4.28
+  iso: 200
+  width: 4878
+  height: 3620
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:13:04.000000000+01:00
+- image_filename: 2018_11_29__07_17__B294767.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48016666666667
+  lon: 18.564333333333334
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 30.0
+  exposure_string: 30 s
+  focus_distance: 3.12
+  iso: 200
+  width: 5096
+  height: 3805
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:17:39.000000000+01:00
+- image_filename: 2018_11_29__07_20__B294769.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.479958333333336
+  lon: 18.564291666666666
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 30.0
+  exposure_string: 30 s
+  focus_distance: 3.12
+  iso: 200
+  width: 4616
+  height: 3631
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:20:16.000000000+01:00
+- image_filename: 2018_11_29__07_24__B294772.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.479847222222226
+  lon: 18.564125
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 50.0
+  exposure_string: 50 s
+  focus_distance: 3.81
+  iso: 200
+  width: 4809
+  height: 3640
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:24:04.000000000+01:00
+- image_filename: 2018_11_29__07_25__B294773_01.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47980555555556
+  lon: 18.56425
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 50.0
+  exposure_string: 50 s
+  focus_distance: 5.97
+  iso: 200
+  width: 4814
+  height: 3572
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:25:34.000000000+01:00
+- image_filename: 2018_11_29__07_27__B294775.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47983333333333
+  lon: 18.564305555555556
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 15.0
+  exposure_string: 15 s
+  focus_distance: 12.48
+  iso: 200
+  width: 4881
+  height: 3618
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:27:52.000000000+01:00
+- image_filename: 2018_11_29__07_29__B294777.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.479819444444445
+  lon: 18.564347222222224
+  altitude: 4294967296.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 15.0
+  exposure_string: 15 s
+  focus_distance: 0.92
+  iso: 200
+  width: 5108
+  height: 3813
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:29:22.000000000+01:00
+- image_filename: 2018_11_29__07_37__B294784.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47793055555556
+  lon: 18.56365277777778
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 4.0
+  exposure_string: 4 s
+  focus_distance: 9.66
+  iso: 200
+  width: 4918
+  height: 3671
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:37:28.000000000+01:00
+- image_filename: 2018_11_29__07_44__B294797.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47759722222222
+  lon: 18.563666666666666
+  altitude: 4294967296.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 5.0
+  exposure_string: 5 s
+  focus_distance: 9.5
+  iso: 200
+  width: 5106
+  height: 3812
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:44:32.000000000+01:00
+- image_filename: 2018_11_29__07_48__B294806.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47756944444445
+  lon: 18.563625000000002
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 15.0
+  exposure_string: 15 s
+  focus_distance: 1.14
+  iso: 200
+  width: 4816
+  height: 3630
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:48:01.000000000+01:00
+- image_filename: 2018_11_29__07_55__B294817.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47726388888889
+  lon: 18.563444444444446
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 8.0
+  exposure_string: 8 s
+  focus_distance: 1.26
+  iso: 200
+  width: 5049
+  height: 3769
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:55:43.000000000+01:00
+- image_filename: 2018_11_29__07_57__B294818.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47726388888889
+  lon: 18.563458333333333
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 8.0
+  exposure_string: 8 s
+  focus_distance: 1.16
+  iso: 200
+  width: 5091
+  height: 3800
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 07:57:03.000000000+01:00
+- image_filename: 2018_11_29__08_00__B294825.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47726388888889
+  lon: 18.5635
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 6.0
+  exposure_string: 6 s
+  focus_distance: 1.01
+  iso: 200
+  width: 4593
+  height: 3506
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 08:00:11.000000000+01:00
+- image_filename: 2018_11_29__08_00__B294826.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47726388888889
+  lon: 18.5635
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 6.0
+  exposure_string: 6 s
+  focus_distance: 0.86
+  iso: 200
+  width: 4604
+  height: 3496
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 08:00:52.000000000+01:00
+- image_filename: 2018_11_29__08_01__B294828.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47727777777778
+  lon: 18.5635
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 6.0
+  exposure_string: 6 s
+  focus_distance: 2.08
+  iso: 200
+  width: 5240
+  height: 3782
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 08:01:39.000000000+01:00
+- image_filename: 2018_11_29__08_04__B294833_01_bw_small.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.477222222222224
+  lon: 18.563402777777778
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 6.0
+  exposure_string: 6 s
+  focus_distance: 5.98
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 08:04:48.000000000+01:00
+- image_filename: 2018_11_29__08_08__B294846.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47763888888889
+  lon: 18.563513888888888
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 156.04
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 08:08:45.000000000+01:00
+- image_filename: 2018_11_29__08_11__B294865.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47830555555556
+  lon: 18.563736111111112
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 38.83
+  iso: 200
+  width: 5129
+  height: 3829
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 08:11:32.000000000+01:00
+- image_filename: 2018_11_29__08_14__B294875.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47983333333333
+  lon: 18.56376388888889
+  altitude: 4294967296.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.28
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 08:14:27.000000000+01:00
+- image_filename: 2018_11_29__08_15__B294878.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48008333333333
+  lon: 18.563291666666668
+  altitude: 4294967296.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.37
+  iso: 200
+  width: 5198
+  height: 3881
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-29 08:15:24.000000000+01:00

@@ -1,378 +1,378 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.47745444444445
-  lon: 20.664133333333332
-  altitude: 595.2
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-12 16:19:20+02:00
 - image_filename: IMGP1260raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.48627583333334
-  lon: 20.7451425
+  lat: 49.486275
+  lon: 20.74514166666667
   altitude: 940.3
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2015-07-12 10:45:10+02:00
+  time: 2015-07-12 10:45:10.000000000+02:00
 - image_filename: IMGP1262raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.48632361111111
-  lon: 20.74470638888889
+  lat: 49.48632222222222
+  lon: 20.744705555555555
   altitude: 943.2
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 10.0
+  exposure: 0.025
+  exposure_string: 1/40 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2015-07-12 10:45:59+02:00
+  time: 2015-07-12 10:45:59.000000000+02:00
 - image_filename: IMGP1284raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.492224444444446
-  lon: 20.715953888888887
+  lat: 49.492225
+  lon: 20.715952777777776
   altitude: 823.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2015-07-12 13:02:10+02:00
+  time: 2015-07-12 13:02:10.000000000+02:00
+- image_filename: IMGP1305raw2.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.48673333333333
+  lon: 20.70696388888889
+  altitude: 762.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-12 13:23:32.000000000+02:00
 - image_filename: IMGP1306raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.48675444444444
-  lon: 20.706974444444445
+  lat: 49.486755555555554
+  lon: 20.706975
   altitude: 762.0
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2015-07-12 13:24:26+02:00
-- image_filename: IMGP1381raw1.jpg
+  time: 2015-07-12 13:24:26.000000000+02:00
+- image_filename: IMGP1350raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.483940833333335
-  lon: 20.669348333333335
-  altitude: 506.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-12 15:48:12+02:00
-- image_filename: IMGP1393raw2.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.48345861111111
-  lon: 20.667510833333335
-  altitude: 531.3
+  lat: 49.48796388888889
+  lon: 20.67848888888889
+  altitude: 365.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-12 15:53:05+02:00
-- image_filename: IMGP1462raw1.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.46014138888889
-  lon: 20.66699861111111
-  altitude: 761.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 2.8
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2015-07-12 19:23:24+02:00
-- image_filename: IMGP1399raw1.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.48178666666667
-  lon: 20.665966666666666
-  altitude: 532.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-12 15:58:02+02:00
-- image_filename: IMGP1404raw1.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.481785
-  lon: 20.665939166666664
-  altitude: 531.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-12 15:58:45+02:00
-- image_filename: IMGP1422raw1.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.48057666666667
-  lon: 20.665273888888887
-  altitude: 538.5
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-12 16:09:05+02:00
-- image_filename: IMGP1439raw1.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.47671416666667
-  lon: 20.66344361111111
-  altitude: 591.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-12 16:22:08+02:00
-- image_filename: IMGP1448raw1.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.473843888888894
-  lon: 20.6630975
-  altitude: 626.9
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-12 16:36:17+02:00
+  time: 2015-07-12 15:21:38.000000000+02:00
 - image_filename: IMGP1375raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
   lat: 49.48430555555556
-  lon: 20.670214722222223
+  lon: 20.67021388888889
   altitude: 495.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-07-12 15:46:47+02:00
-- image_filename: IMGP1444raw1.jpg
+  time: 2015-07-12 15:46:47.000000000+02:00
+- image_filename: IMGP1381raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.47553888888889
-  lon: 20.66283861111111
-  altitude: 609.1
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-12 16:25:35+02:00
-- image_filename: IMGP1305raw2.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.48673277777778
-  lon: 20.706962777777775
-  altitude: 762.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
+  lat: 49.48394166666667
+  lon: 20.669347222222225
+  altitude: 506.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2015-07-12 13:23:32+02:00
-- image_filename: IMGP1435raw1.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.47744638888889
-  lon: 20.664099999999998
-  altitude: 595.2
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
   iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2015-07-12 15:48:12.000000000+02:00
+- image_filename: IMGP1393raw2.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.48345833333333
+  lon: 20.66751111111111
+  altitude: 531.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2015-07-12 16:19:26+02:00
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-12 15:53:05.000000000+02:00
 - image_filename: IMGP1396raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.48320944444445
+  lat: 49.48320833333334
   lon: 20.66721666666667
   altitude: 533.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-12 15:54:03+02:00
-- image_filename: IMGP1442raw1.jpg
+  time: 2015-07-12 15:54:03.000000000+02:00
+- image_filename: IMGP1399raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.475705000000005
-  lon: 20.662824722222222
-  altitude: 606.7
+  lat: 49.48178611111111
+  lon: 20.665966666666666
+  altitude: 532.7
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
-  aperture: 4.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-12 16:25:22+02:00
-- image_filename: IMGP1456raw1.jpg
+  time: 2015-07-12 15:58:02.000000000+02:00
+- image_filename: IMGP1404raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.46519777777778
-  lon: 20.662169444444444
-  altitude: 758.1
+  lat: 49.48178611111111
+  lon: 20.66593888888889
+  altitude: 531.3
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
-  aperture: 4.5
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-12 17:06:24+02:00
-- image_filename: IMGP1350raw1.jpg
+  time: 2015-07-12 15:58:45.000000000+02:00
+- image_filename: IMGP1406raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.487964444444444
-  lon: 20.678488333333334
-  altitude: 365.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
+  lat: 49.48178888888889
+  lon: 20.665980555555553
+  altitude: 530.8
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-12 15:21:38+02:00
+  time: 2015-07-12 15:59:14.000000000+02:00
+- image_filename: IMGP1417raw1.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.48133055555556
+  lon: 20.66541111111111
+  altitude: 535.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-07-12 16:07:16.000000000+02:00
+- image_filename: IMGP1422raw1.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.48057777777778
+  lon: 20.665274999999998
+  altitude: 538.5
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-07-12 16:09:05.000000000+02:00
 - image_filename: IMGP1430raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.4780675
+  lat: 49.47806666666667
   lon: 20.664691666666666
   altitude: 593.8
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2015-07-12 16:18:03+02:00
-- image_filename: IMGP1417raw1.jpg
-  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.48133166666667
-  lon: 20.665409999999998
-  altitude: 535.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-07-12 16:07:16+02:00
-- image_filename: IMGP1406raw1.jpg
+  time: 2015-07-12 16:18:03.000000000+02:00
+- image_filename: IMGP1435raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.481788333333334
-  lon: 20.665980277777777
-  altitude: 530.8
+  lat: 49.477447222222224
+  lon: 20.664099999999998
+  altitude: 595.2
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
+  time: 2015-07-12 16:19:26.000000000+02:00
+- image_filename: IMGP1439raw1.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.47671388888889
+  lon: 20.663444444444444
+  altitude: 591.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2015-07-12 15:59:14+02:00
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-07-12 16:22:08.000000000+02:00
+- image_filename: IMGP1442raw1.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.47570555555556
+  lon: 20.662824999999998
+  altitude: 606.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-07-12 16:25:22.000000000+02:00
+- image_filename: IMGP1444raw1.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.47553888888889
+  lon: 20.66283888888889
+  altitude: 609.1
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-07-12 16:25:35.000000000+02:00
+- image_filename: IMGP1448raw1.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.473844444444445
+  lon: 20.66309722222222
+  altitude: 626.9
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-07-12 16:36:17.000000000+02:00
+- image_filename: IMGP1456raw1.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.46519722222222
+  lon: 20.662169444444444
+  altitude: 758.1
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-07-12 17:06:24.000000000+02:00
+- image_filename: IMGP1462raw1.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.46014166666667
+  lon: 20.667
+  altitude: 761.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-12 19:23:24.000000000+02:00
 - image_filename: IMGP1475raw1.jpg
   post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
-  lat: 49.4537075
-  lon: 20.6639825
+  lat: 49.45370833333334
+  lon: 20.66398333333333
   altitude: 791.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2015-07-12 20:14:14+02:00
+  time: 2015-07-12 20:14:14.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca
+  lat: 49.47745555555556
+  lon: 20.664133333333332
+  altitude: 595.2
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-07-12 16:19:20.000000000+02:00

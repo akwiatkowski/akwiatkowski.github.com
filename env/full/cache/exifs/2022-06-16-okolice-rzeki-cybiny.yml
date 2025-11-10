@@ -1,96 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-- image_filename: 2022_06_16__16_09_P6161525.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.447916666666664
-  lon: 17.245555555555555
-  altitude: 80.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.35
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 16:09:34.000000000+02:00
-- image_filename: 2022_06_16__16_48_P6161546.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.445097222222216
-  lon: 17.203583333333334
-  altitude: 100.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 0.44
-  iso: 200
-  width: 7145
-  height: 4827
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 16:48:50.000000000+02:00
-- image_filename: 2022_06_16__17_12_P6161599.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.44461111111111
-  lon: 17.172097222222224
-  altitude: 90.0
-  focal_length: 95.0
-  focal_length_35: 190.0
-  crop: 2.0
-  aperture: 3.5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 2.05
-  iso: 200
-  width: 5137
-  height: 3769
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-06-16 17:12:31.000000000+02:00
-- image_filename: 2022_06_16__16_23_P6161533.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.445361111111104
-  lon: 17.236291666666666
-  altitude: 96.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 16:23:34.000000000+02:00
-- image_filename: 2022_06_16__17_12_P6161594.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.44461111111111
-  lon: 17.172097222222224
-  altitude: 90.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 2.12
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-06-16 17:12:26.000000000+02:00
 - image_filename: 2022_06_16__15_54_P6161512.jpg
   post_slug: 2022-06-16-okolice-rzeki-cybiny
   lat: 52.46022222222223
@@ -109,96 +17,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-06-16 15:54:35.000000000+02:00
-- image_filename: 2022_06_16__15_58_P6161521.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.45834722222222
-  lon: 17.21925
-  altitude: 106.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 66.07
-  iso: 200
-  width: 5201
-  height: 3861
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 15:58:45.000000000+02:00
-- image_filename: 2022_06_16__18_44_P6161656.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.46176388888889
-  lon: 17.170986111111112
-  altitude: 99.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 0.83
-  iso: 1250
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 18:44:39.000000000+02:00
-- image_filename: 2022_06_16__17_17_P6161642.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.444624999999995
-  lon: 17.172097222222224
-  altitude: 90.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 2.89
-  iso: 200
-  width: 5205
-  height: 3867
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-06-16 17:17:35.000000000+02:00
-- image_filename: 2022_06_16__16_45_P6161541.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.445902777777775
-  lon: 17.207583333333332
-  altitude: 102.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.7
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 16:45:25.000000000+02:00
-- image_filename: 2022_06_16__16_54_P6161556.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.44508333333333
-  lon: 17.203430555555556
-  altitude: 100.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 0.54
-  iso: 200
-  width: 4833
-  height: 3238
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 16:54:38.000000000+02:00
 - image_filename: 2022_06_16__15_58_P6161519.jpg
   post_slug: 2022-06-16-okolice-rzeki-cybiny
   lat: 52.45836111111112
@@ -217,204 +35,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-06-16 15:58:27.000000000+02:00
-- image_filename: 2022_06_16__16_51_P6161548.jpg
+- image_filename: 2022_06_16__15_58_P6161521.jpg
   post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.44508333333333
-  lon: 17.203430555555556
-  altitude: 100.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 0.45
-  iso: 200
-  width: 8136
-  height: 6072
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 16:51:06.000000000+02:00
-- image_filename: 2022_06_16__17_16_P6161637.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.44461111111111
-  lon: 17.172083333333333
-  altitude: 90.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.2
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 3.82
-  iso: 200
-  width: 5157
-  height: 3801
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-06-16 17:16:07.000000000+02:00
-- image_filename: 2022_06_16__16_34_P6161538.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.44691666666667
-  lon: 17.225875
-  altitude: 100.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 36.49
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 16:34:47.000000000+02:00
-- image_filename: 2022_06_16__17_07_P6161571.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.44456944444444
-  lon: 17.172069444444446
-  altitude: 92.0
-  focal_length: 57.0
-  focal_length_35: 114.0
+  lat: 52.45834722222222
+  lon: 17.21925
+  altitude: 106.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.21
-  iso: 200
-  width: 5030
-  height: 3193
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 17:07:05.000000000+02:00
-- image_filename: 2022_06_16__17_14_P6161620.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.444624999999995
-  lon: 17.17211111111111
-  altitude: 90.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 2.62
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-06-16 17:14:12.000000000+02:00
-- image_filename: 2022_06_16__17_04_P6161561.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.44365277777777
-  lon: 17.177708333333335
-  altitude: 96.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5181
-  height: 3838
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 17:04:19.000000000+02:00
-- image_filename: 2022_06_16__16_47_P6161544.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.445097222222216
-  lon: 17.20359722222222
-  altitude: 101.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 0.45
-  iso: 200
-  width: 8146
-  height: 6059
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 16:47:51.000000000+02:00
-- image_filename: 2022_06_16__18_44_P6161665.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.461736111111115
-  lon: 17.170958333333335
-  altitude: 99.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 0.96
-  iso: 800
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 18:44:59.000000000+02:00
-- image_filename: 2022_06_16__17_14_P6161615.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.444624999999995
-  lon: 17.17211111111111
-  altitude: 90.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 2.44
-  iso: 200
-  width: 5240
-  height: 3569
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-06-16 17:14:02.000000000+02:00
-- image_filename: 2022_06_16__16_31_P6161536.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.445902777777775
-  lon: 17.232680555555554
-  altitude: 102.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 16.36
-  iso: 200
-  width: 4206
-  height: 3000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-16 16:31:15.000000000+02:00
-- image_filename: 2022_06_16__17_12_P6161600.jpg
-  post_slug: 2022-06-16-okolice-rzeki-cybiny
-  lat: 52.44461111111111
-  lon: 17.172097222222224
-  altitude: 90.0
-  focal_length: 95.0
-  focal_length_35: 190.0
-  crop: 2.0
-  aperture: 3.5
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 2.05
+  focus_distance: 66.07
   iso: 200
-  width: 5067
-  height: 3673
-  lens: OLYMPUS M.40-150mm F2.8
+  width: 5201
+  height: 3861
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-06-16 17:12:31.000000000+02:00
+  time: 2022-06-16 15:58:45.000000000+02:00
+- image_filename: 2022_06_16__16_09_P6161525.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.447916666666664
+  lon: 17.245555555555555
+  altitude: 80.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.35
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 16:09:34.000000000+02:00
 - image_filename: 2022_06_16__16_23_P6161532.jpg
   post_slug: 2022-06-16-okolice-rzeki-cybiny
   lat: 52.445375
@@ -433,6 +89,78 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-06-16 16:23:11.000000000+02:00
+- image_filename: 2022_06_16__16_23_P6161533.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.445361111111104
+  lon: 17.236291666666666
+  altitude: 96.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 16:23:34.000000000+02:00
+- image_filename: 2022_06_16__16_31_P6161536.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.445902777777775
+  lon: 17.232680555555554
+  altitude: 102.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 16.36
+  iso: 200
+  width: 4206
+  height: 3000
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 16:31:15.000000000+02:00
+- image_filename: 2022_06_16__16_34_P6161538.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.44691666666667
+  lon: 17.225875
+  altitude: 100.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 36.49
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 16:34:47.000000000+02:00
+- image_filename: 2022_06_16__16_45_P6161541.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.445902777777775
+  lon: 17.207583333333332
+  altitude: 102.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.7
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 16:45:25.000000000+02:00
 - image_filename: 2022_06_16__16_47_P6161543.jpg
   post_slug: 2022-06-16-okolice-rzeki-cybiny
   lat: 52.445097222222216
@@ -451,6 +179,150 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-06-16 16:47:36.000000000+02:00
+- image_filename: 2022_06_16__16_47_P6161544.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.445097222222216
+  lon: 17.20359722222222
+  altitude: 101.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.45
+  iso: 200
+  width: 8146
+  height: 6059
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 16:47:51.000000000+02:00
+- image_filename: 2022_06_16__16_48_P6161546.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.445097222222216
+  lon: 17.203583333333334
+  altitude: 100.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.44
+  iso: 200
+  width: 7145
+  height: 4827
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 16:48:50.000000000+02:00
+- image_filename: 2022_06_16__16_51_P6161548.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.44508333333333
+  lon: 17.203430555555556
+  altitude: 100.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 0.45
+  iso: 200
+  width: 8136
+  height: 6072
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 16:51:06.000000000+02:00
+- image_filename: 2022_06_16__16_54_P6161556.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.44508333333333
+  lon: 17.203430555555556
+  altitude: 100.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.54
+  iso: 200
+  width: 4833
+  height: 3238
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 16:54:38.000000000+02:00
+- image_filename: 2022_06_16__17_04_P6161561.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.44365277777777
+  lon: 17.177708333333335
+  altitude: 96.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5181
+  height: 3838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 17:04:19.000000000+02:00
+- image_filename: 2022_06_16__17_07_P6161571.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.44456944444444
+  lon: 17.172069444444446
+  altitude: 92.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.21
+  iso: 200
+  width: 5030
+  height: 3193
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 17:07:05.000000000+02:00
+- image_filename: 2022_06_16__17_12_P6161594.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.44461111111111
+  lon: 17.172097222222224
+  altitude: 90.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.12
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-06-16 17:12:26.000000000+02:00
+- image_filename: 2022_06_16__17_12_P6161600.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.44461111111111
+  lon: 17.172097222222224
+  altitude: 90.0
+  focal_length: 95.0
+  focal_length_35: 190.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.05
+  iso: 200
+  width: 5067
+  height: 3673
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-06-16 17:12:31.000000000+02:00
 - image_filename: 2022_06_16__17_12_P6161606.jpg
   post_slug: 2022-06-16-okolice-rzeki-cybiny
   lat: 52.44461111111111
@@ -469,3 +341,111 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-06-16 17:12:39.000000000+02:00
+- image_filename: 2022_06_16__17_14_P6161615.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.444624999999995
+  lon: 17.17211111111111
+  altitude: 90.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 2.44
+  iso: 200
+  width: 5240
+  height: 3569
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-06-16 17:14:02.000000000+02:00
+- image_filename: 2022_06_16__17_14_P6161620.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.444624999999995
+  lon: 17.17211111111111
+  altitude: 90.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 2.62
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-06-16 17:14:12.000000000+02:00
+- image_filename: 2022_06_16__17_16_P6161637.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.44461111111111
+  lon: 17.172083333333333
+  altitude: 90.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 3.82
+  iso: 200
+  width: 5157
+  height: 3801
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-06-16 17:16:07.000000000+02:00
+- image_filename: 2022_06_16__17_17_P6161642.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.444624999999995
+  lon: 17.172097222222224
+  altitude: 90.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 2.89
+  iso: 200
+  width: 5205
+  height: 3867
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-06-16 17:17:35.000000000+02:00
+- image_filename: 2022_06_16__18_44_P6161656.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.46176388888889
+  lon: 17.170986111111112
+  altitude: 99.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.83
+  iso: 1250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 18:44:39.000000000+02:00
+- image_filename: 2022_06_16__18_44_P6161665.jpg
+  post_slug: 2022-06-16-okolice-rzeki-cybiny
+  lat: 52.461736111111115
+  lon: 17.170958333333335
+  altitude: 99.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.96
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-16 18:44:59.000000000+02:00

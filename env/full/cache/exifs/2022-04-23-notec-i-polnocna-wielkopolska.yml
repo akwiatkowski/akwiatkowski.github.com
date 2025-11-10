@@ -1,42 +1,130 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2022_04_23__10_06_P4231467.jpg
   post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
-- image_filename: 2022_04_23__13_04_P4231940.jpg
-  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
-  lat: 53.01002777777778
-  lon: 17.36913888888889
-  altitude: 146.0
-  focal_length: 92.0
-  focal_length_35: 184.0
+  lat: 53.00363888888889
+  lon: 16.909069444444444
+  altitude: 93.0
+  focal_length: 31.0
+  focal_length_35: 62.0
   crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 72.5
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 15.38
   iso: 200
-  width: 7995
-  height: 5851
+  width: 5193
+  height: 3851
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-04-23 13:04:12.000000000+02:00
-- image_filename: 2022_04_23__13_52_P4231974.jpg
+  time: 2022-04-23 10:06:21.000000000+02:00
+- image_filename: 2022_04_23__10_07_P4231525.jpg
   post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
-  lat: 52.93805555555555
-  lon: 17.28427777777778
-  altitude: 68.0
+  lat: 53.027625
+  lon: 16.89348611111111
+  altitude: 98.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 30.51
+  iso: 320
+  width: 5095
+  height: 3713
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 10:07:53.000000000+02:00
+- image_filename: 2022_04_23__10_58_P4231559.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.085375
+  lon: 16.973125
+  altitude: 115.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 151.7
+  iso: 250
+  width: 5232
+  height: 3902
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 10:58:25.000000000+02:00
+- image_filename: 2022_04_23__11_10_P4231709.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.10605555555556
+  lon: 17.187291666666667
+  altitude: 104.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 20.9
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 11:10:32.000000000+02:00
+- image_filename: 2022_04_23__11_11_P4231729.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.10765277777778
+  lon: 17.205444444444442
+  altitude: 106.0
   focal_length: 47.0
   focal_length_35: 94.0
   crop: 2.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 23.33
-  iso: 200
-  width: 5220
-  height: 3897
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 83.59
+  iso: 250
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-04-23 13:52:43.000000000+02:00
+  time: 2022-04-23 11:11:24.000000000+02:00
+- image_filename: 2022_04_23__11_35_P4231891.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.10530555555556
+  lon: 17.435069444444444
+  altitude: 85.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 18.61
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 11:35:38.000000000+02:00
+- image_filename: 2022_04_23__11_42_P4231900.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.097319444444445
+  lon: 17.432555555555556
+  altitude: 88.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 8.57
+  iso: 200
+  width: 7994
+  height: 5851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 11:42:46.000000000+02:00
 - image_filename: 2022_04_23__11_51_P4231904.jpg
   post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
   lat: 53.093138888888895
@@ -55,3 +143,957 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-04-23 11:51:46.000000000+02:00
+- image_filename: 2022_04_23__12_02_P4231908.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.07754166666667
+  lon: 17.41111111111111
+  altitude: 85.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 47.49
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:02:12.000000000+02:00
+- image_filename: 2022_04_23__12_11_P4231909.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.05115277777777
+  lon: 17.412125
+  altitude: 112.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 41.37
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:11:45.000000000+02:00
+- image_filename: 2022_04_23__12_25_P4231916.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.048430555555555
+  lon: 17.37598611111111
+  altitude: 125.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.54
+  iso: 200
+  width: 6950
+  height: 5025
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:25:17.000000000+02:00
+- image_filename: 2022_04_23__12_35_P4231917.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.03465277777778
+  lon: 17.3495
+  altitude: 136.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 133.2
+  iso: 200
+  width: 8061
+  height: 5941
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:35:33.000000000+02:00
+- image_filename: 2022_04_23__12_40_P4231918.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.029263888888885
+  lon: 17.34733333333333
+  altitude: 137.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.3
+  iso: 200
+  width: 8144
+  height: 6079
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:40:21.000000000+02:00
+- image_filename: 2022_04_23__12_46_P4231919.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.017833333333336
+  lon: 17.365458333333336
+  altitude: 135.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 25.56
+  iso: 200
+  width: 8129
+  height: 6095
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:46:22.000000000+02:00
+- image_filename: 2022_04_23__12_53_P4231924.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.012569444444445
+  lon: 17.371750000000002
+  altitude: 70.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 18.61
+  iso: 200
+  width: 8158
+  height: 6087
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:53:25.000000000+02:00
+- image_filename: 2022_04_23__12_54_P4231926.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.01265277777778
+  lon: 17.37165277777778
+  altitude: 132.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 19.74
+  iso: 200
+  width: 8150
+  height: 6099
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:54:25.000000000+02:00
+- image_filename: 2022_04_23__12_58_P4231931.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.01079166666667
+  lon: 17.36998611111111
+  altitude: 145.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 24.75
+  iso: 200
+  width: 8141
+  height: 6064
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:58:45.000000000+02:00
+- image_filename: 2022_04_23__12_59_P4231934.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.01079166666667
+  lon: 17.36998611111111
+  altitude: 145.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 19.5
+  iso: 200
+  width: 7947
+  height: 5774
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 12:59:49.000000000+02:00
+- image_filename: 2022_04_23__13_00_P4231935.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.01079166666667
+  lon: 17.36998611111111
+  altitude: 145.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 44.28
+  iso: 200
+  width: 7966
+  height: 5809
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:00:09.000000000+02:00
+- image_filename: 2022_04_23__13_00_P4231936.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.01079166666667
+  lon: 17.36998611111111
+  altitude: 145.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 54.79
+  iso: 200
+  width: 8122
+  height: 6042
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:00:29.000000000+02:00
+- image_filename: 2022_04_23__13_03_P4231939.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.01002777777778
+  lon: 17.36913888888889
+  altitude: 146.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 20.9
+  iso: 200
+  width: 8075
+  height: 5967
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:03:50.000000000+02:00
+- image_filename: 2022_04_23__13_04_P4231940.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.01002777777778
+  lon: 17.36913888888889
+  altitude: 146.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 72.5
+  iso: 200
+  width: 7995
+  height: 5851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:04:12.000000000+02:00
+- image_filename: 2022_04_23__13_04_P4231941.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 53.01002777777778
+  lon: 17.369152777777778
+  altitude: 146.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 37.75
+  iso: 200
+  width: 8047
+  height: 5925
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:04:34.000000000+02:00
+- image_filename: 2022_04_23__13_23_P4231952.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.96190277777778
+  lon: 17.33786111111111
+  altitude: 135.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7849
+  height: 5294
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:23:37.000000000+02:00
+- image_filename: 2022_04_23__13_25_P4231953.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.96040277777778
+  lon: 17.33245833333333
+  altitude: 135.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:25:37.000000000+02:00
+- image_filename: 2022_04_23__13_26_P4231955.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.960375000000006
+  lon: 17.332361111111112
+  altitude: 131.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.6
+  iso: 200
+  width: 7989
+  height: 6108
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:26:32.000000000+02:00
+- image_filename: 2022_04_23__13_39_P4231959.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.94738888888889
+  lon: 17.30588888888889
+  altitude: 125.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.49
+  iso: 200
+  width: 8005
+  height: 5970
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:39:06.000000000+02:00
+- image_filename: 2022_04_23__13_39_P4231960.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.947402777777775
+  lon: 17.30588888888889
+  altitude: 70.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.8
+  iso: 200
+  width: 7846
+  height: 5949
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:39:27.000000000+02:00
+- image_filename: 2022_04_23__13_39_P4231961.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.94738888888889
+  lon: 17.30588888888889
+  altitude: 125.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.73
+  iso: 200
+  width: 7489
+  height: 5687
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:39:47.000000000+02:00
+- image_filename: 2022_04_23__13_49_P4231965.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.93930555555555
+  lon: 17.287444444444446
+  altitude: 67.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 26.34
+  iso: 200
+  width: 8121
+  height: 6061
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:49:07.000000000+02:00
+- image_filename: 2022_04_23__13_50_P4231969.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.93929166666666
+  lon: 17.287361111111114
+  altitude: 67.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 159.07
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:50:06.000000000+02:00
+- image_filename: 2022_04_23__13_50_P4231970.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.939277777777775
+  lon: 17.287361111111114
+  altitude: 67.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 18.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 89.04
+  iso: 200
+  width: 5188
+  height: 3842
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:50:29.000000000+02:00
+- image_filename: 2022_04_23__13_52_P4231972.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.93805555555555
+  lon: 17.28427777777778
+  altitude: 68.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 20.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 29.42
+  iso: 200
+  width: 5194
+  height: 3852
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:52:29.000000000+02:00
+- image_filename: 2022_04_23__13_52_P4231974.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.93805555555555
+  lon: 17.28427777777778
+  altitude: 68.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 23.33
+  iso: 200
+  width: 5220
+  height: 3897
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 13:52:43.000000000+02:00
+- image_filename: 2022_04_23__14_02_P4231979.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.916152777777775
+  lon: 17.256527777777777
+  altitude: 67.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 9.8
+  iso: 200
+  width: 7906
+  height: 6089
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 14:02:55.000000000+02:00
+- image_filename: 2022_04_23__14_25_P4231981.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.887930555555556
+  lon: 17.227999999999998
+  altitude: 66.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.92
+  iso: 200
+  width: 7113
+  height: 5532
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 14:25:25.000000000+02:00
+- image_filename: 2022_04_23__14_26_P4231983.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.887930555555556
+  lon: 17.227999999999998
+  altitude: 66.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 277.7
+  iso: 200
+  width: 8167
+  height: 6089
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 14:26:17.000000000+02:00
+- image_filename: 2022_04_23__14_27_P4231985.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.887930555555556
+  lon: 17.227999999999998
+  altitude: 67.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.12
+  iso: 200
+  width: 5057
+  height: 6484
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 14:27:19.000000000+02:00
+- image_filename: 2022_04_23__15_06_P4231993.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.858916666666666
+  lon: 17.156541666666666
+  altitude: 71.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.37
+  iso: 200
+  width: 5198
+  height: 3856
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:06:00.000000000+02:00
+- image_filename: 2022_04_23__15_13_P4232000.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.85523611111111
+  lon: 17.14709722222222
+  altitude: 74.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.35
+  iso: 250
+  width: 5198
+  height: 3855
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:13:17.000000000+02:00
+- image_filename: 2022_04_23__15_21_P4232003.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.85523611111111
+  lon: 17.147152777777777
+  altitude: 74.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 5.99
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:21:21.000000000+02:00
+- image_filename: 2022_04_23__15_25_P4232030.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.85523611111111
+  lon: 17.147152777777777
+  altitude: 74.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.18
+  iso: 1000
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:25:23.000000000+02:00
+- image_filename: 2022_04_23__15_36_P4232037.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.85523611111111
+  lon: 17.147152777777777
+  altitude: 74.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 3.17
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:36:48.000000000+02:00
+- image_filename: 2022_04_23__15_38_P4232041.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.855180555555556
+  lon: 17.147305555555555
+  altitude: 75.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.34
+  iso: 200
+  width: 6061
+  height: 8128
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:38:00.000000000+02:00
+- image_filename: 2022_04_23__15_50_P4232062.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.855180555555556
+  lon: 17.147305555555555
+  altitude: 75.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 0.81
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:50:28.000000000+02:00
+- image_filename: 2022_04_23__15_54_P4232069.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.855180555555556
+  lon: 17.147305555555555
+  altitude: 75.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.83
+  iso: 1250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:54:08.000000000+02:00
+- image_filename: 2022_04_23__15_56_P4232076.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.855180555555556
+  lon: 17.147305555555555
+  altitude: 75.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.62
+  iso: 200
+  width: 4485
+  height: 3207
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:56:12.000000000+02:00
+- image_filename: 2022_04_23__15_56_P4232080.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.855180555555556
+  lon: 17.147305555555555
+  altitude: 75.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.85
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:56:29.000000000+02:00
+- image_filename: 2022_04_23__15_57_P4232094.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.855180555555556
+  lon: 17.147305555555555
+  altitude: 75.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.97
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 15:57:17.000000000+02:00
+- image_filename: 2022_04_23__16_00_P4232120.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.855180555555556
+  lon: 17.147305555555555
+  altitude: 75.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.01
+  iso: 200
+  width: 2678
+  height: 4081
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 16:00:12.000000000+02:00
+- image_filename: 2022_04_23__16_09_P4232123.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.84863888888889
+  lon: 17.124111111111112
+  altitude: 73.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.33
+  iso: 200
+  width: 8138
+  height: 5819
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 16:09:31.000000000+02:00
+- image_filename: 2022_04_23__16_09_P4232124.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.848625000000006
+  lon: 17.124083333333335
+  altitude: 73.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 23.33
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 16:09:53.000000000+02:00
+- image_filename: 2022_04_23__16_10_P4232125.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.848625000000006
+  lon: 17.124083333333335
+  altitude: 73.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.55
+  iso: 200
+  width: 8149
+  height: 6081
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 16:10:14.000000000+02:00
+- image_filename: 2022_04_23__16_13_P4232127.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.848375000000004
+  lon: 17.12161111111111
+  altitude: 73.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 33.44
+  iso: 200
+  width: 8139
+  height: 6069
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 16:13:07.000000000+02:00
+- image_filename: 2022_04_23__16_13_P4232128.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.84838888888889
+  lon: 17.121583333333334
+  altitude: 73.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 46.54
+  iso: 200
+  width: 8146
+  height: 6085
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 16:13:26.000000000+02:00
+- image_filename: 2022_04_23__16_13_P4232129.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.84841666666667
+  lon: 17.121555555555556
+  altitude: 73.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.74
+  iso: 200
+  width: 8057
+  height: 6030
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 16:13:45.000000000+02:00
+- image_filename: 2022_04_23__16_21_P4232135.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.84241666666667
+  lon: 17.111805555555556
+  altitude: 70.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 38.1
+  iso: 200
+  width: 8166
+  height: 6094
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 16:21:34.000000000+02:00
+- image_filename: 2022_04_23__16_31_P4232151.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.83716666666667
+  lon: 17.099194444444443
+  altitude: 69.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 22.63
+  iso: 200
+  width: 8127
+  height: 6041
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 16:31:04.000000000+02:00
+- image_filename: 2022_04_23__17_03_P4232158.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.78659722222222
+  lon: 17.01738888888889
+  altitude: 57.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 17:03:51.000000000+02:00
+- image_filename: 2022_04_23__17_13_P4232160.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.76926388888889
+  lon: 17.015319444444444
+  altitude: 54.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.81
+  iso: 200
+  width: 8118
+  height: 6021
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 17:13:22.000000000+02:00
+- image_filename: 2022_04_23__17_13_P4232161.jpg
+  post_slug: 2022-04-23-notec-i-polnocna-wielkopolska
+  lat: 52.76926388888889
+  lon: 17.015319444444444
+  altitude: 54.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 9.23
+  iso: 200
+  width: 8044
+  height: 5958
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-23 17:13:53.000000000+02:00

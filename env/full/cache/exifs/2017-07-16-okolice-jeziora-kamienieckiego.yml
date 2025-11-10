@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.53479166666666
-  lon: 17.862444444444446
-  altitude: 109.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-16 11:29:39+02:00
 - image_filename: IMGP8769raw1.jpg
   post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
   lat: 52.54522222222222
@@ -22,193 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-07-16 10:24:55+02:00
-- image_filename: IMGP8775raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.528819444444444
-  lon: 17.866069444444445
-  altitude: 106.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-16 10:32:33+02:00
-- image_filename: IMGP8781raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.53997222222222
-  lon: 17.928222222222225
-  altitude: 97.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-07-16 10:54:34+02:00
-- image_filename: IMGP8788raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.544777777777774
-  lon: 17.953277777777778
-  altitude: 94.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-07-16 11:04:27+02:00
-- image_filename: IMGP8803raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.536513888888884
-  lon: 17.959833333333332
-  altitude: 82.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-16 11:17:29+02:00
-- image_filename: IMGP8810raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.52594444444444
-  lon: 17.972319444444445
-  altitude: 89.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-16 11:40:23+02:00
-- image_filename: IMGP8811raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.53026388888889
-  lon: 17.986736111111114
-  altitude: 94.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-07-16 11:47:54+02:00
-- image_filename: IMGP8814raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.5325
-  lon: 17.985708333333335
-  altitude: 96.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-07-16 11:51:00+02:00
-- image_filename: IMGP8844raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.54873611111111
-  lon: 17.98926388888889
-  altitude: 97.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-07-16 12:10:45+02:00
-- image_filename: IMGP8857raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.55069444444444
-  lon: 17.992972222222225
-  altitude: 100.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-07-16 12:15:50+02:00
-- image_filename: IMGP8863raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.55668055555555
-  lon: 17.99240277777778
-  altitude: 93.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-07-16 12:20:57+02:00
-- image_filename: IMGP8869raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.571513888888894
-  lon: 17.99234722222222
-  altitude: 102.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-07-16 12:47:33+02:00
-- image_filename: IMGP8873raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.57152777777778
-  lon: 17.99234722222222
-  altitude: 102.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-16 12:47:59+02:00
-- image_filename: IMGP8883raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.59027777777778
-  lon: 18.018874999999998
-  altitude: 100.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-07-16 13:02:58+02:00
+  time: 2017-07-16 10:24:55.000000000+02:00
 - image_filename: IMGP8774raw1.jpg
   post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
   lat: 52.528819444444444
@@ -218,123 +22,25 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-07-16 10:32:29+02:00
-- image_filename: IMGP8872raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.571513888888894
-  lon: 17.99234722222222
-  altitude: 102.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
+  time: 2017-07-16 10:32:29.000000000+02:00
+- image_filename: IMGP8775raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.528819444444444
+  lon: 17.866069444444445
+  altitude: 106.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-07-16 12:47:50+02:00
-- image_filename: IMGP8834raw2.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.54570833333333
-  lon: 17.98713888888889
-  altitude: 97.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 3.5
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-07-16 12:05:41+02:00
-- image_filename: IMGP8896raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.61522222222222
-  lon: 18.137999999999998
-  altitude: 107.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-07-16 13:51:01+02:00
-- image_filename: IMGP8823raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.54456944444444
-  lon: 17.984222222222222
-  altitude: 98.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-07-16 12:00:18+02:00
-- image_filename: IMGP8856raw2.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.54869444444444
-  lon: 17.99009722222222
-  altitude: 98.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-07-16 12:12:50+02:00
-- image_filename: IMGP8829raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.544958333333334
-  lon: 17.984527777777778
-  altitude: 98.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-16 12:03:18+02:00
-- image_filename: IMGP8832raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.54566666666666
-  lon: 17.986958333333334
-  altitude: 96.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-07-16 12:04:33+02:00
-- image_filename: IMGP8838raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.54606944444444
-  lon: 17.987680555555556
-  altitude: 99.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-07-16 12:07:02+02:00
+  time: 2017-07-16 10:32:33.000000000+02:00
 - image_filename: IMGP8777raw1.jpg
   post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
   lat: 52.53138888888889
@@ -344,11 +50,25 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2017-07-16 10:36:50+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 10:36:50.000000000+02:00
+- image_filename: IMGP8781raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.53997222222222
+  lon: 17.928222222222225
+  altitude: 97.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 10:54:34.000000000+02:00
 - image_filename: IMGP8786raw1.jpg
   post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
   lat: 52.54372222222222
@@ -358,81 +78,39 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-07-16 11:01:45+02:00
-- image_filename: IMGP8876raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.584180555555555
-  lon: 18.007638888888888
-  altitude: 98.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 3.5
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-07-16 12:56:09+02:00
-- image_filename: IMGP8894raw1.jpg
+  time: 2017-07-16 11:01:45.000000000+02:00
+- image_filename: IMGP8788raw1.jpg
   post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.60376388888889
-  lon: 18.107916666666668
-  altitude: 103.0
+  lat: 52.544777777777774
+  lon: 17.953277777777778
+  altitude: 94.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-16 13:34:34+02:00
-- image_filename: IMGP8882raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.59027777777778
-  lon: 18.01888888888889
-  altitude: 100.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-07-16 13:02:50+02:00
-- image_filename: IMGP8878raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.58951388888889
-  lon: 18.01811111111111
-  altitude: 98.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-07-16 13:01:11+02:00
-- image_filename: IMGP8818raw1.jpg
-  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
-  lat: 52.54159722222222
-  lon: 17.982791666666664
-  altitude: 97.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-07-16 11:57:56+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 11:04:27.000000000+02:00
+- image_filename: IMGP8803raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.536513888888884
+  lon: 17.959833333333332
+  altitude: 82.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-16 11:17:29.000000000+02:00
 - image_filename: IMGP8806raw1.jpg
   post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
   lat: 52.53484722222222
@@ -442,11 +120,39 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2017-07-16 11:29:19+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 11:29:19.000000000+02:00
+- image_filename: IMGP8810raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.52594444444444
+  lon: 17.972319444444445
+  altitude: 89.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 11:40:23.000000000+02:00
+- image_filename: IMGP8811raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.53026388888889
+  lon: 17.986736111111114
+  altitude: 94.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 11:47:54.000000000+02:00
 - image_filename: IMGP8812raw1.jpg
   post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
   lat: 52.530277777777776
@@ -456,8 +162,302 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2017-07-16 11:47:59+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-16 11:47:59.000000000+02:00
+- image_filename: IMGP8814raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.5325
+  lon: 17.985708333333335
+  altitude: 96.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 11:51:00.000000000+02:00
+- image_filename: IMGP8818raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.54159722222222
+  lon: 17.982791666666664
+  altitude: 97.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 11:57:56.000000000+02:00
+- image_filename: IMGP8823raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.54456944444444
+  lon: 17.984222222222222
+  altitude: 98.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:00:18.000000000+02:00
+- image_filename: IMGP8829raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.544958333333334
+  lon: 17.984527777777778
+  altitude: 98.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:03:18.000000000+02:00
+- image_filename: IMGP8832raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.54566666666666
+  lon: 17.986958333333334
+  altitude: 96.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:04:33.000000000+02:00
+- image_filename: IMGP8834raw2.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.54570833333333
+  lon: 17.98713888888889
+  altitude: 97.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:05:41.000000000+02:00
+- image_filename: IMGP8838raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.54606944444444
+  lon: 17.987680555555556
+  altitude: 99.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:07:02.000000000+02:00
+- image_filename: IMGP8844raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.54873611111111
+  lon: 17.98926388888889
+  altitude: 97.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:10:45.000000000+02:00
+- image_filename: IMGP8856raw2.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.54869444444444
+  lon: 17.99009722222222
+  altitude: 98.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:12:50.000000000+02:00
+- image_filename: IMGP8857raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.55069444444444
+  lon: 17.992972222222225
+  altitude: 100.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:15:50.000000000+02:00
+- image_filename: IMGP8863raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.55668055555555
+  lon: 17.99240277777778
+  altitude: 93.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:20:57.000000000+02:00
+- image_filename: IMGP8869raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.571513888888894
+  lon: 17.99234722222222
+  altitude: 102.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:47:33.000000000+02:00
+- image_filename: IMGP8872raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.571513888888894
+  lon: 17.99234722222222
+  altitude: 102.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:47:50.000000000+02:00
+- image_filename: IMGP8873raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.57152777777778
+  lon: 17.99234722222222
+  altitude: 102.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:47:59.000000000+02:00
+- image_filename: IMGP8876raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.584180555555555
+  lon: 18.007638888888888
+  altitude: 98.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 12:56:09.000000000+02:00
+- image_filename: IMGP8878raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.58951388888889
+  lon: 18.01811111111111
+  altitude: 98.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 13:01:11.000000000+02:00
+- image_filename: IMGP8882raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.59027777777778
+  lon: 18.01888888888889
+  altitude: 100.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 13:02:50.000000000+02:00
+- image_filename: IMGP8883raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.59027777777778
+  lon: 18.018874999999998
+  altitude: 100.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 13:02:58.000000000+02:00
+- image_filename: IMGP8894raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.60376388888889
+  lon: 18.107916666666668
+  altitude: 103.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-16 13:34:34.000000000+02:00
+- image_filename: IMGP8896raw1.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.61522222222222
+  lon: 18.137999999999998
+  altitude: 107.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 13:51:01.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-07-16-okolice-jeziora-kamienieckiego
+  lat: 52.53479166666666
+  lon: 17.862444444444446
+  altitude: 109.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-16 11:29:39.000000000+02:00

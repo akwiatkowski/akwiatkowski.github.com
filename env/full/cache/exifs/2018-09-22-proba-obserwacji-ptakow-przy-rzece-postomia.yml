@@ -1,694 +1,139 @@
 ---
-- image_filename: _9220124.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.57768055555556
-  lon: 14.813847222222224
-  altitude: 10.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5014
-  height: 3743
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2018-09-22 13:57:04+02:00
-  focus_distance: 4.57
 - image_filename: P9210018.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-09-21 15:33:14+02:00
   focus_distance: 1000.0
-- image_filename: P9210070.jpg
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-21 15:33:14.000000000+02:00
+- image_filename: P9210029.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 57.0
-  focal_length_35: 114.0
+  focal_length: 38.0
+  focal_length_35: 76.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4371
-  height: 3541
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-09-21 15:51:52+02:00
-  focus_distance: 33.85
-- image_filename: _9210151.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-09-21 16:13:27+02:00
-  focus_distance: 1000.0
-- image_filename: _9220067.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-09-22 07:03:38+02:00
-  focus_distance: 1000.0
-- image_filename: _9220114.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2018-09-22 07:06:56+02:00
-  focus_distance: 1000.0
-- image_filename: _9220219.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58408333333333
-  lon: 14.76813888888889
-  altitude: 6.0
-  focal_length: 234.0
-  focal_length_35: 468.0
-  crop: 2.0
-  aperture: 6.4
-  iso: 400
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 4982
-  height: 3675
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-09-22 08:00:34+02:00
-  focus_distance: 1000.0
-- image_filename: _9220030.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.571083333333334
-  lon: 14.806555555555557
-  altitude: 13.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5032
-  height: 3841
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-09-22 13:01:37+02:00
-  focus_distance: 1000.0
-- image_filename: _9220048.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.569944444444445
-  lon: 14.804875000000001
-  altitude: 12.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4521
-  height: 3869
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-09-22 13:06:44+02:00
-  focus_distance: 1.24
-- image_filename: _9220060_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56819444444445
-  lon: 14.804194444444445
-  altitude: 12.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5182
-  height: 3903
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-09-22 13:13:51+02:00
-  focus_distance: 5.83
-- image_filename: _9220067_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56761111111111
-  lon: 14.804666666666668
-  altitude: 13.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5163
-  height: 3808
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-09-22 13:15:26+02:00
-  focus_distance: 113.78
-- image_filename: _9220106.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56845833333334
-  lon: 14.806958333333334
-  altitude: 9.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5130
-  height: 3764
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-22 13:36:53+02:00
-  focus_distance: 24.31
-- image_filename: _9220116.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.57729166666667
-  lon: 14.813777777777778
-  altitude: 10.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-09-22 13:56:07+02:00
-  focus_distance: 1000.0
-- image_filename: _9220012_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5103
-  height: 3810
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-22 16:38:16+02:00
-  focus_distance: 1000.0
-- image_filename: _9220027_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5038
-  height: 3761
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-09-22 16:43:40+02:00
-  focus_distance: 117.03
-- image_filename: _9220113.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58379166666667
-  lon: 14.807444444444446
-  altitude: 10.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4869
-  height: 3635
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2018-09-22 17:51:42+02:00
-  focus_distance: 2.94
-- image_filename: _9220135.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.583263888888894
-  lon: 14.803430555555556
-  altitude: 0.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5022
-  height: 3638
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-09-22 17:59:37+02:00
-  focus_distance: 3.47
-- image_filename: _9220149.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58145833333334
-  lon: 14.792375
-  altitude: 0.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5020
-  height: 3748
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-09-22 18:14:51+02:00
-  focus_distance: 5.72
-- image_filename: _9220172.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.578500000000005
-  lon: 14.794569444444445
-  altitude: 1.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3772
-  height: 5052
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-09-22 18:25:48+02:00
-  focus_distance: 12.7
-- image_filename: _9220194.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.5765
-  lon: 14.793694444444444
-  altitude: 4.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5171
-  height: 3817
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-09-22 18:31:46+02:00
-  focus_distance: 63.5
-- image_filename: _9220230.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.571111111111115
-  lon: 14.798430555555555
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2018-09-22 18:46:16+02:00
-  focus_distance: 22.05
-- image_filename: _9220246.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.570458333333335
-  lon: 14.804902777777778
-  altitude: 8.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 6400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-09-22 18:54:52+02:00
-  focus_distance: 2.09
-- image_filename: _9220076.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56565277777778
-  lon: 14.804819444444446
-  altitude: 10.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5177
-  height: 3837
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-09-22 13:19:08+02:00
-  focus_distance: 30.06
-- image_filename: _9220127.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.578388888888895
-  lon: 14.814250000000001
-  altitude: 9.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-09-22 13:58:09+02:00
   focus_distance: 1000.0
-- image_filename: _9220188.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.584180555555555
-  lon: 14.759013888888889
-  altitude: 5.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 640
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 3877
-  height: 2547
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-09-22 07:51:52+02:00
-  focus_distance: 36.76
-- image_filename: _9220054.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56868055555556
-  lon: 14.804222222222222
-  altitude: 14.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3824
-  height: 5151
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-09-22 13:09:34+02:00
-  focus_distance: 3.19
-- image_filename: _9220121.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.577555555555556
-  lon: 14.813847222222224
-  altitude: 9.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-09-22 13:56:43+02:00
-  focus_distance: 40.85
-- image_filename: _9220003_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5160
-  height: 3852
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-22 16:31:48+02:00
-  focus_distance: 237.45
-- image_filename: P9220167.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-09-22 17:11:53+02:00
-  focus_distance: 1.11
-- image_filename: _9220141_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58415277777778
-  lon: 14.800055555555556
-  altitude: 4294967296.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4531
-  height: 3657
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-09-22 18:03:49+02:00
-  focus_distance: 35.54
+  time: 2018-09-21 15:37:32.000000000+02:00
 - image_filename: P9210034.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2018-09-21 15:40:22+02:00
   focus_distance: 1000.0
-- image_filename: _9220028.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.57118055555556
-  lon: 14.80713888888889
-  altitude: 12.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.5
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-22 13:00:25+02:00
-  focus_distance: 26.82
-- image_filename: _9220020.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.57118055555556
-  lon: 14.809597222222223
-  altitude: 11.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2018-09-22 12:57:00+02:00
-  focus_distance: 12.38
-- image_filename: _9220141.jpg
+  time: 2018-09-21 15:40:22.000000000+02:00
+- image_filename: P9210070.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58166666666667
-  lon: 14.817583333333333
-  altitude: 13.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4985
-  height: 3721
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-09-22 14:06:00+02:00
-  focus_distance: 1000.0
-- image_filename: _9220052.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56877777777778
-  lon: 14.804277777777779
-  altitude: 14.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5194
-  height: 3859
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-09-22 13:09:24+02:00
-  focus_distance: 5.31
-- image_filename: _9220203.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58451388888889
-  lon: 14.762055555555555
-  altitude: 6.0
-  focal_length: 179.0
-  focal_length_35: 358.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-22 07:55:28+02:00
-  focus_distance: 69.65
-- image_filename: _9220183.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.57783333333334
-  lon: 14.794611111111111
-  altitude: 4.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  focal_length: 57.0
+  focal_length_35: 114.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3155
-  height: 2280
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-09-22 18:28:18+02:00
-  focus_distance: 131.07
-- image_filename: _9220151.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.581500000000005
-  lon: 14.753486111111112
-  altitude: 6.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 800
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5035
-  height: 3759
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2018-09-22 07:43:29+02:00
-  focus_distance: 60.94
-- image_filename: _9220129.jpg
+  focus_distance: 33.85
+  iso: 200
+  width: 4371
+  height: 3541
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-21 15:51:52.000000000+02:00
+- image_filename: P9220057.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.57884722222222
-  lon: 14.814694444444445
-  altitude: 10.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  focus_distance: 15.59
+  iso: 200
+  width: 3785
+  height: 5070
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 16:56:49.000000000+02:00
+- image_filename: P9220167.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.11
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 17:11:53.000000000+02:00
+- image_filename: _9210121.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   focal_length: 41.0
   focal_length_35: 82.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-09-22 13:59:01+02:00
-  focus_distance: 20.33
-- image_filename: _9220153_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58090277777778
-  lon: 14.793194444444444
-  altitude: 2.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 64
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5034
-  height: 3758
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2018-09-22 18:17:44+02:00
-  focus_distance: 2.74
+  time: 2018-09-21 16:00:48.000000000+02:00
+- image_filename: _9210144.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-21 16:08:28.000000000+02:00
+- image_filename: _9210151.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-21 16:13:27.000000000+02:00
 - image_filename: _9220001.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   lat: 52.58452777777778
@@ -698,300 +143,141 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
-  iso: 6400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5101
-  height: 3808
   exposure: 0.2
   exposure_string: 1/5 s
-  time: 2018-09-22 06:00:22+02:00
   focus_distance: 2.63
-- image_filename: _9220019_02.jpg
+  iso: 6400
+  width: 5101
+  height: 3808
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 06:00:22.000000000+02:00
+- image_filename: _9220003_01.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5094
-  height: 3803
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-09-22 16:39:34+02:00
-  focus_distance: 1000.0
-- image_filename: _9220050_02.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-09-22 16:54:43+02:00
-  focus_distance: 34.49
-- image_filename: _9220092.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56579166666666
-  lon: 14.806666666666667
-  altitude: 10.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5104
-  height: 3725
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-09-22 13:32:31+02:00
-  focus_distance: 40.15
-- image_filename: _9220128.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58298611111111
-  lon: 14.804208333333333
-  altitude: 2.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5014
-  height: 3743
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2018-09-22 17:57:29+02:00
-  focus_distance: 79.15
-- image_filename: _9220058_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56815277777778
-  lon: 14.803902777777779
-  altitude: 12.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 4.0
+  focus_distance: 237.45
   iso: 200
+  width: 5160
+  height: 3852
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4883
-  height: 3860
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-22 13:13:28+02:00
-  focus_distance: 5.75
-- image_filename: _9220132.jpg
+  time: 2018-09-22 16:31:48.000000000+02:00
+- image_filename: _9220012_01.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.57998611111111
-  lon: 14.815847222222223
-  altitude: 11.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4917
-  height: 3526
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-09-22 14:01:00+02:00
-  focus_distance: 1000.0
-- image_filename: _9220240.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58441666666667
-  lon: 14.774416666666667
-  altitude: 5.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 250
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5119
-  height: 3745
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-09-22 08:07:54+02:00
-  focus_distance: 19.53
-- image_filename: _9220090.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56533333333333
-  lon: 14.80663888888889
-  altitude: 9.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5195
-  height: 3763
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-09-22 13:31:44+02:00
-  focus_distance: 4.14
-- image_filename: _9220119.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.57747222222223
-  lon: 14.813819444444444
-  altitude: 9.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-09-22 13:56:29+02:00
-  focus_distance: 65.01
-- image_filename: _9220071.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.566861111111116
-  lon: 14.804763888888889
-  altitude: 14.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3889
-  height: 5230
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-09-22 13:16:50+02:00
-  focus_distance: 12.26
-- image_filename: _9220062_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4800
-  height: 3584
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-09-22 17:06:54+02:00
-  focus_distance: 9.19
-- image_filename: _9220097_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 16.0
-  focal_length_35: 32.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
   iso: 200
+  width: 5103
+  height: 3810
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5078
-  height: 3791
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-09-22 17:35:38+02:00
-  focus_distance: 1000.0
+  time: 2018-09-22 16:38:16.000000000+02:00
+- image_filename: _9220015_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 4.18
+  iso: 200
+  width: 5172
+  height: 3861
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 16:39:05.000000000+02:00
 - image_filename: _9220017.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3874
-  height: 5190
   exposure: 0.0004
   exposure_string: 1/2500 s
-  time: 2018-09-22 16:39:20+02:00
   focus_distance: 19.59
-- image_filename: _9220088.jpg
+  iso: 200
+  width: 3874
+  height: 5190
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 16:39:20.000000000+02:00
+- image_filename: _9220019_02.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.564930555555556
-  lon: 14.806597222222223
-  altitude: 9.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5094
+  height: 3803
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 16:39:34.000000000+02:00
+- image_filename: _9220020.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.57118055555556
+  lon: 14.809597222222223
+  altitude: 11.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 12.38
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 12:57:00.000000000+02:00
+- image_filename: _9220027_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 117.03
   iso: 200
+  width: 5038
+  height: 3761
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
+  time: 2018-09-22 16:43:40.000000000+02:00
+- image_filename: _9220028.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.57118055555556
+  lon: 14.80713888888889
+  altitude: 12.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 26.82
+  iso: 200
   width: 5240
   height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-09-22 13:30:57+02:00
-  focus_distance: 5.39
-- image_filename: _9210121.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-09-21 16:00:48+02:00
-  focus_distance: 1000.0
-- image_filename: P9210029.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-09-21 15:37:32+02:00
-  focus_distance: 1000.0
-- image_filename: _9220231.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.583986111111116
-  lon: 14.772430555555557
-  altitude: 5.0
-  focal_length: 208.0
-  focal_length_35: 416.0
-  crop: 2.0
-  aperture: 6.2
-  iso: 250
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 3436
-  height: 2975
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-09-22 08:04:19+02:00
-  focus_distance: 45.49
+  time: 2018-09-22 13:00:25.000000000+02:00
 - image_filename: _9220029_01.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   lat: 52.571083333333334
@@ -1001,231 +287,48 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5125
-  height: 3804
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2018-09-22 13:01:35+02:00
   focus_distance: 1000.0
-- image_filename: _9220055.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.56845833333334
-  lon: 14.804166666666667
-  altitude: 14.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
+  width: 5125
+  height: 3804
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4510
-  height: 3520
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-09-22 13:10:09+02:00
-  focus_distance: 5.97
-- image_filename: _9220058.jpg
+  time: 2018-09-22 13:01:35.000000000+02:00
+- image_filename: _9220030.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58004166666667
-  lon: 14.748069444444443
-  altitude: 8.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 2000
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-09-22 06:53:30+02:00
-  focus_distance: 1000.0
-- image_filename: P9220057.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3785
-  height: 5070
-  exposure: 0.0006666666666666666
-  exposure_string: 1/1500 s
-  time: 2018-09-22 16:56:49+02:00
-  focus_distance: 15.59
-- image_filename: _9220015_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 24.0
-  focal_length_35: 48.0
+  lat: 52.571083333333334
+  lon: 14.806555555555557
+  altitude: 13.0
+  focal_length: 35.0
+  focal_length_35: 70.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5172
-  height: 3861
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-22 16:39:05+02:00
-  focus_distance: 4.18
-- image_filename: _9220073.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.566541666666666
-  lon: 14.804805555555557
-  altitude: 14.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5155
-  height: 3797
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-22 13:17:24+02:00
-  focus_distance: 16.48
-- image_filename: _9220178.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.578388888888895
-  lon: 14.794597222222222
-  altitude: 2.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5118
-  height: 3821
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2018-09-22 18:26:36+02:00
-  focus_distance: 29.95
-- image_filename: _9220126_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58295833333334
-  lon: 14.804222222222222
-  altitude: 2.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5009
-  height: 3740
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-09-22 17:57:18+02:00
-  focus_distance: 89.04
-- image_filename: _9220117.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 164.0
-  focal_length_35: 328.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5008
-  height: 3739
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2018-09-22 07:07:05+02:00
+  exposure: 0.0025
+  exposure_string: 1/400 s
   focus_distance: 1000.0
-- image_filename: _9220146_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.58140277777778
-  lon: 14.817333333333334
-  altitude: 11.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
   iso: 200
+  width: 5032
+  height: 3841
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4779
-  height: 3562
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-09-22 14:06:29+02:00
-  focus_distance: 1000.0
-- image_filename: _9210144.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-09-21 16:08:28+02:00
-  focus_distance: 1000.0
+  time: 2018-09-22 13:01:37.000000000+02:00
 - image_filename: _9220030_01.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   focal_length: 17.0
   focal_length_35: 34.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5038
-  height: 3744
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2018-09-22 16:45:14+02:00
   focus_distance: 5.59
-- image_filename: _9220061_01.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
+  width: 5038
+  height: 3744
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3741
-  height: 5012
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-09-22 17:06:44+02:00
-  focus_distance: 5.91
-- image_filename: _9220170.jpg
-  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
-  lat: 52.578625
-  lon: 14.794458333333333
-  altitude: 2.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 1000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5122
-  height: 3752
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-09-22 18:24:53+02:00
-  focus_distance: 162.21
+  time: 2018-09-22 16:45:14.000000000+02:00
 - image_filename: _9220045.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   lat: 52.57029166666667
@@ -1235,15 +338,273 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5000
-  height: 3352
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2018-09-22 13:05:41+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5000
+  height: 3352
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:05:41.000000000+02:00
+- image_filename: _9220048.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.569944444444445
+  lon: 14.804875000000001
+  altitude: 12.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1.24
+  iso: 200
+  width: 4521
+  height: 3869
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:06:44.000000000+02:00
+- image_filename: _9220050_02.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 34.49
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 16:54:43.000000000+02:00
+- image_filename: _9220052.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56877777777778
+  lon: 14.804277777777779
+  altitude: 14.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.31
+  iso: 200
+  width: 5194
+  height: 3859
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:09:24.000000000+02:00
+- image_filename: _9220054.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56868055555556
+  lon: 14.804222222222222
+  altitude: 14.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.19
+  iso: 200
+  width: 3824
+  height: 5151
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:09:34.000000000+02:00
+- image_filename: _9220055.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56845833333334
+  lon: 14.804166666666667
+  altitude: 14.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 5.97
+  iso: 200
+  width: 4510
+  height: 3520
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:10:09.000000000+02:00
+- image_filename: _9220058.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58004166666667
+  lon: 14.748069444444443
+  altitude: 8.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 2000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 06:53:30.000000000+02:00
+- image_filename: _9220058_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56815277777778
+  lon: 14.803902777777779
+  altitude: 12.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 5.75
+  iso: 200
+  width: 4883
+  height: 3860
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:13:28.000000000+02:00
+- image_filename: _9220060_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56819444444445
+  lon: 14.804194444444445
+  altitude: 12.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 5.83
+  iso: 200
+  width: 5182
+  height: 3903
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:13:51.000000000+02:00
+- image_filename: _9220061_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 5.91
+  iso: 200
+  width: 3741
+  height: 5012
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 17:06:44.000000000+02:00
+- image_filename: _9220062_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 9.19
+  iso: 200
+  width: 4800
+  height: 3584
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 17:06:54.000000000+02:00
+- image_filename: _9220067.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 07:03:38.000000000+02:00
+- image_filename: _9220067_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56761111111111
+  lon: 14.804666666666668
+  altitude: 13.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 113.78
+  iso: 200
+  width: 5163
+  height: 3808
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:15:26.000000000+02:00
+- image_filename: _9220071.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.566861111111116
+  lon: 14.804763888888889
+  altitude: 14.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 12.26
+  iso: 200
+  width: 3889
+  height: 5230
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:16:50.000000000+02:00
+- image_filename: _9220073.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.566541666666666
+  lon: 14.804805555555557
+  altitude: 14.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 16.48
+  iso: 200
+  width: 5155
+  height: 3797
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:17:24.000000000+02:00
+- image_filename: _9220076.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56565277777778
+  lon: 14.804819444444446
+  altitude: 10.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 30.06
+  iso: 200
+  width: 5177
+  height: 3837
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:19:08.000000000+02:00
 - image_filename: _9220082.jpg
   post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
   lat: 52.56315277777777
@@ -1253,12 +614,651 @@
   focal_length_35: 32.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4512
-  height: 3179
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2018-09-22 13:27:28+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4512
+  height: 3179
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:27:28.000000000+02:00
+- image_filename: _9220088.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.564930555555556
+  lon: 14.806597222222223
+  altitude: 9.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.39
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:30:57.000000000+02:00
+- image_filename: _9220090.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56533333333333
+  lon: 14.80663888888889
+  altitude: 9.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.14
+  iso: 200
+  width: 5195
+  height: 3763
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:31:44.000000000+02:00
+- image_filename: _9220092.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56579166666666
+  lon: 14.806666666666667
+  altitude: 10.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 40.15
+  iso: 200
+  width: 5104
+  height: 3725
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:32:31.000000000+02:00
+- image_filename: _9220097_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5078
+  height: 3791
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 17:35:38.000000000+02:00
+- image_filename: _9220106.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.56845833333334
+  lon: 14.806958333333334
+  altitude: 9.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 24.31
+  iso: 200
+  width: 5130
+  height: 3764
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:36:53.000000000+02:00
+- image_filename: _9220113.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58379166666667
+  lon: 14.807444444444446
+  altitude: 10.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.94
+  iso: 200
+  width: 4869
+  height: 3635
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 17:51:42.000000000+02:00
+- image_filename: _9220114.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 07:06:56.000000000+02:00
+- image_filename: _9220116.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.57729166666667
+  lon: 14.813777777777778
+  altitude: 10.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:56:07.000000000+02:00
+- image_filename: _9220117.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  focal_length: 164.0
+  focal_length_35: 328.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5008
+  height: 3739
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 07:07:05.000000000+02:00
+- image_filename: _9220119.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.57747222222223
+  lon: 14.813819444444444
+  altitude: 9.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 65.01
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:56:29.000000000+02:00
+- image_filename: _9220121.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.577555555555556
+  lon: 14.813847222222224
+  altitude: 9.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 40.85
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:56:43.000000000+02:00
+- image_filename: _9220124.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.57768055555556
+  lon: 14.813847222222224
+  altitude: 10.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 4.57
+  iso: 200
+  width: 5014
+  height: 3743
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:57:04.000000000+02:00
+- image_filename: _9220126_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58295833333334
+  lon: 14.804222222222222
+  altitude: 2.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 89.04
+  iso: 200
+  width: 5009
+  height: 3740
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 17:57:18.000000000+02:00
+- image_filename: _9220127.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.578388888888895
+  lon: 14.814250000000001
+  altitude: 9.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:58:09.000000000+02:00
+- image_filename: _9220128.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58298611111111
+  lon: 14.804208333333333
+  altitude: 2.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 79.15
+  iso: 200
+  width: 5014
+  height: 3743
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 17:57:29.000000000+02:00
+- image_filename: _9220129.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.57884722222222
+  lon: 14.814694444444445
+  altitude: 10.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 20.33
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 13:59:01.000000000+02:00
+- image_filename: _9220132.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.57998611111111
+  lon: 14.815847222222223
+  altitude: 11.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4917
+  height: 3526
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 14:01:00.000000000+02:00
+- image_filename: _9220135.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.583263888888894
+  lon: 14.803430555555556
+  altitude: 0.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.47
+  iso: 200
+  width: 5022
+  height: 3638
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 17:59:37.000000000+02:00
+- image_filename: _9220141.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58166666666667
+  lon: 14.817583333333333
+  altitude: 13.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4985
+  height: 3721
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 14:06:00.000000000+02:00
+- image_filename: _9220141_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58415277777778
+  lon: 14.800055555555556
+  altitude: 4294967296.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 35.54
+  iso: 320
+  width: 4531
+  height: 3657
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:03:49.000000000+02:00
+- image_filename: _9220146_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58140277777778
+  lon: 14.817333333333334
+  altitude: 11.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4779
+  height: 3562
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 14:06:29.000000000+02:00
+- image_filename: _9220149.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58145833333334
+  lon: 14.792375
+  altitude: 0.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 5.72
+  iso: 200
+  width: 5020
+  height: 3748
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:14:51.000000000+02:00
+- image_filename: _9220151.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.581500000000005
+  lon: 14.753486111111112
+  altitude: 6.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 60.94
+  iso: 800
+  width: 5035
+  height: 3759
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 07:43:29.000000000+02:00
+- image_filename: _9220153_01.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58090277777778
+  lon: 14.793194444444444
+  altitude: 2.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 2.74
+  iso: 64
+  width: 5034
+  height: 3758
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:17:44.000000000+02:00
+- image_filename: _9220170.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.578625
+  lon: 14.794458333333333
+  altitude: 2.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 162.21
+  iso: 1000
+  width: 5122
+  height: 3752
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:24:53.000000000+02:00
+- image_filename: _9220172.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.578500000000005
+  lon: 14.794569444444445
+  altitude: 1.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 12.7
+  iso: 500
+  width: 3772
+  height: 5052
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:25:48.000000000+02:00
+- image_filename: _9220178.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.578388888888895
+  lon: 14.794597222222222
+  altitude: 2.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 29.95
+  iso: 200
+  width: 5118
+  height: 3821
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:26:36.000000000+02:00
+- image_filename: _9220183.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.57783333333334
+  lon: 14.794611111111111
+  altitude: 4.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 131.07
+  iso: 200
+  width: 3155
+  height: 2280
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:28:18.000000000+02:00
+- image_filename: _9220188.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.584180555555555
+  lon: 14.759013888888889
+  altitude: 5.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 36.76
+  iso: 640
+  width: 3877
+  height: 2547
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 07:51:52.000000000+02:00
+- image_filename: _9220194.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.5765
+  lon: 14.793694444444444
+  altitude: 4.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 63.5
+  iso: 200
+  width: 5171
+  height: 3817
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:31:46.000000000+02:00
+- image_filename: _9220203.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58451388888889
+  lon: 14.762055555555555
+  altitude: 6.0
+  focal_length: 179.0
+  focal_length_35: 358.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 69.65
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 07:55:28.000000000+02:00
+- image_filename: _9220219.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58408333333333
+  lon: 14.76813888888889
+  altitude: 6.0
+  focal_length: 234.0
+  focal_length_35: 468.0
+  crop: 2.0
+  aperture: 6.4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 4982
+  height: 3675
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 08:00:34.000000000+02:00
+- image_filename: _9220230.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.571111111111115
+  lon: 14.798430555555555
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 22.05
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:46:16.000000000+02:00
+- image_filename: _9220231.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.583986111111116
+  lon: 14.772430555555557
+  altitude: 5.0
+  focal_length: 208.0
+  focal_length_35: 416.0
+  crop: 2.0
+  aperture: 6.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 45.49
+  iso: 250
+  width: 3436
+  height: 2975
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 08:04:19.000000000+02:00
+- image_filename: _9220240.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.58441666666667
+  lon: 14.774416666666667
+  altitude: 5.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 19.53
+  iso: 250
+  width: 5119
+  height: 3745
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-22 08:07:54.000000000+02:00
+- image_filename: _9220246.jpg
+  post_slug: 2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia
+  lat: 52.570458333333335
+  lon: 14.804902777777778
+  altitude: 8.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.09
+  iso: 6400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-22 18:54:52.000000000+02:00

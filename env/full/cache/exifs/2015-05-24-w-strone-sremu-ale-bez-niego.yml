@@ -1,96 +1,19 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
-  lat: 52.294194166666664
-  lon: 16.8747925
-  altitude: 67.9
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-05-24 14:02:53+02:00
 - image_filename: IMGP0128raw1.jpg
   post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
   lat: 52.3385
-  lon: 16.898243055555554
+  lon: 16.898241666666667
   altitude: 75.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2015-05-24 13:22:34+02:00
-- image_filename: IMGP0140raw1-1.jpg
-  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
-  lat: 52.25317444444445
-  lon: 16.873466944444445
-  altitude: 66.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-05-24 14:34:10+02:00
-- image_filename: IMGP0151raw1.jpg
-  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
-  lat: 52.154111388888886
-  lon: 16.976630277777776
-  altitude: 66.9
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2015-05-24 15:43:37+02:00
-- image_filename: IMGP0157raw1.jpg
-  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
-  lat: 52.138133055555556
-  lon: 16.938533888888887
-  altitude: 84.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-05-24 15:59:14+02:00
-- image_filename: IMGP0164raw1.jpg
-  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
-  lat: 52.12938055555556
-  lon: 16.864731111111112
-  altitude: 79.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 2.4
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2015-05-24 16:17:01+02:00
+  time: 2015-05-24 13:22:34.000000000+02:00
 - image_filename: IMGP0132raw2.jpg
   post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
   lat: 52.29423611111111
@@ -100,39 +23,116 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2015-05-24 14:02:52+02:00
-- image_filename: IMGP0145raw1.jpg
-  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
-  lat: 52.19475694444444
-  lon: 16.97255722222222
-  altitude: 62.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-05-24 15:17:58+02:00
+  time: 2015-05-24 14:02:52.000000000+02:00
 - image_filename: IMGP0135raw1.jpg
   post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
-  lat: 52.25465472222222
+  lat: 52.25465555555556
   lon: 16.871969444444446
   altitude: 66.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2015-05-24 14:33:30.000000000+02:00
+- image_filename: IMGP0140raw1-1.jpg
+  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
+  lat: 52.253175
+  lon: 16.873466666666666
+  altitude: 66.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-05-24 14:34:10.000000000+02:00
+- image_filename: IMGP0145raw1.jpg
+  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
+  lat: 52.19475555555555
+  lon: 16.972558333333332
+  altitude: 62.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2015-05-24 14:33:30+02:00
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-05-24 15:17:58.000000000+02:00
+- image_filename: IMGP0151raw1.jpg
+  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
+  lat: 52.154111111111106
+  lon: 16.976630555555555
+  altitude: 66.9
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-05-24 15:43:37.000000000+02:00
+- image_filename: IMGP0157raw1.jpg
+  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
+  lat: 52.138133333333336
+  lon: 16.938533333333332
+  altitude: 84.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-05-24 15:59:14.000000000+02:00
+- image_filename: IMGP0164raw1.jpg
+  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
+  lat: 52.12938055555556
+  lon: 16.864730555555557
+  altitude: 79.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 2.4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-05-24 16:17:01.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2015-05-24-w-strone-sremu-ale-bez-niego
+  lat: 52.29419444444444
+  lon: 16.874791666666667
+  altitude: 67.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-05-24 14:02:53.000000000+02:00

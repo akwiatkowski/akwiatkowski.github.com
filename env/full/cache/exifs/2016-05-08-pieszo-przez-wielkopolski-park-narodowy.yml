@@ -1,90 +1,90 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-05-08-pieszo-przez-wielkopolski-park-narodowy
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2016-05-08 14:04:38+02:00
 - image_filename: IMGP0158raw1.jpg
   post_slug: 2016-05-08-pieszo-przez-wielkopolski-park-narodowy
-  lat: 52.28369222222222
+  lat: 52.28369166666666
   lon: 16.744819444444445
   altitude: 65.0
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-05-08 12:59:55+02:00
+  time: 2016-05-08 12:59:55.000000000+02:00
 - image_filename: IMGP0168raw1.jpg
   post_slug: 2016-05-08-pieszo-przez-wielkopolski-park-narodowy
-  lat: 52.28488361111111
-  lon: 16.754471944444443
+  lat: 52.28488333333333
+  lon: 16.754472222222223
   altitude: 65.0
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-05-08 13:11:02+02:00
+  time: 2016-05-08 13:11:02.000000000+02:00
 - image_filename: IMGP0185raw1.jpg
   post_slug: 2016-05-08-pieszo-przez-wielkopolski-park-narodowy
-  lat: 52.27431444444444
-  lon: 16.76270583333333
+  lat: 52.27431388888889
+  lon: 16.762705555555556
   altitude: 61.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2016-05-08 13:37:44+02:00
+  time: 2016-05-08 13:37:44.000000000+02:00
 - image_filename: IMGP0239raw1.jpg
   post_slug: 2016-05-08-pieszo-przez-wielkopolski-park-narodowy
-  lat: 52.25337416666667
-  lon: 16.831087222222223
+  lat: 52.253375
+  lon: 16.831086111111112
   altitude: 112.1
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-05-08 15:25:10+02:00
+  time: 2016-05-08 15:25:10.000000000+02:00
 - image_filename: IMGP0244raw1.jpg
   post_slug: 2016-05-08-pieszo-przez-wielkopolski-park-narodowy
-  lat: 52.25286277777778
+  lat: 52.25286388888889
   lon: 16.832169444444443
   altitude: 108.8
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-05-08 15:26:48+02:00
+  time: 2016-05-08 15:26:48.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-05-08-pieszo-przez-wielkopolski-park-narodowy
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 400
+  width: 2000
+  height: 1326
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2016-05-08 14:04:38.000000000+02:00

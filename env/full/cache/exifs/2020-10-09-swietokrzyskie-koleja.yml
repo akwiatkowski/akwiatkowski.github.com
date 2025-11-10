@@ -1,1326 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-- image_filename: 2020_10_09__09_27_DSC07763.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.143055555555556
-  lon: 20.602694444444445
-  altitude: 272.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5691
-  height: 3749
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 09:27:05+02:00
-- image_filename: 2020_10_09__09_46_DSC07932.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.11606944444445
-  lon: 20.881722222222223
-  altitude: 236.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6020
-  height: 3986
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 09:46:18+02:00
-- image_filename: 2020_10_09__10_05_DSC07989.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.09908333333333
-  lon: 20.857916666666668
-  altitude: 240.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5384
-  height: 3510
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 10:05:24+02:00
-- image_filename: 2020_10_09__12_31_DSC08190.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.55330555555555
-  lon: 21.16225
-  altitude: 191.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5248
-  height: 3253
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:31:35+02:00
-- image_filename: 2020_10_09__12_28_DSC08178.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.551375
-  lon: 21.157027777777778
-  altitude: 193.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5923
-  height: 3827
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:28:57+02:00
-- image_filename: 2020_10_09__12_44_DSC08264.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.490319444444445
-  lon: 21.251361111111112
-  altitude: 170.0
-  focal_length: 310.5
-  focal_length_35: 310.0
-  crop: 0.998389694041868
-  aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:44:16+02:00
-- image_filename: 2020_10_09__16_36_DSC08522.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.62526388888889
-  lon: 21.880097222222222
-  altitude: 138.0
-  focal_length: 30.0
-  focal_length_35: 30.0
-  crop: 1.0
-  aperture: 3.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5950
-  height: 3958
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 16:36:05+02:00
-- image_filename: 2020_10_09__18_39_DSC08850.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.71709722222222
-  lon: 23.1475
-  altitude: 227.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 16000
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5480
-  height: 3608
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-10-09 18:39:32+02:00
-- image_filename: 2020_10_09__10_15__A090789.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.74854166666667
-  lon: 20.5855
-  altitude: 220.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5159
-  height: 3803
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 10:15:38+02:00
-  focus_distance: 4.98
-- image_filename: 2020_10_09__09_21__A090499.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.99219444444444
-  lon: 20.80990277777778
-  altitude: 323.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5094
-  height: 3712
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:21:44+02:00
-  focus_distance: 16.82
-- image_filename: 2020_10_09__17_50__A091014.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.71406944444445
-  lon: 23.239916666666666
-  altitude: 208.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5096
-  height: 3718
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2020-10-09 17:50:55+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_10_09__16_19_DSC08441.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.568444444444445
-  lon: 21.696527777777778
-  altitude: 145.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5667
-  height: 3769
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-10-09 16:19:16+02:00
-- image_filename: 2020_10_09__15_11__A090991.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.56891666666667
-  lon: 21.696416666666668
-  altitude: 152.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-10-09 15:11:17+02:00
-  focus_distance: 11.35
-- image_filename: 2020_10_09__18_08__A091034.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.71648611111112
-  lon: 23.252083333333335
-  altitude: 203.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5156
-  height: 3801
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2020-10-09 18:08:26+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_10_09__09_45_DSC07929.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.114000000000004
-  lon: 20.876375
-  altitude: 236.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6022
-  height: 4021
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-10-09 09:45:00+02:00
-- image_filename: 2020_10_09__12_54_DSC08298.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.438541666666666
-  lon: 21.309916666666666
-  altitude: 158.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5928
-  height: 3838
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:54:14+02:00
-- image_filename: 2020_10_09__17_18_DSC08611.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.53759722222222
-  lon: 22.140777777777778
-  altitude: 147.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-10-09 17:18:57+02:00
-- image_filename: 2020_10_09__09_20__A090473.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.995736111111114
-  lon: 20.8205
-  altitude: 313.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5052
-  height: 3771
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:20:13+02:00
-  focus_distance: 23.1
-- image_filename: 2020_10_09__08_04__A090380.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.195874999999994
-  lon: 20.41923611111111
-  altitude: 229.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5120
-  height: 3745
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 08:04:57+02:00
-  focus_distance: 3.92
-- image_filename: 2020_10_09__15_14__A091004.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.568625000000004
-  lon: 21.696666666666665
-  altitude: 152.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-09 15:14:20+02:00
-  focus_distance: 17.0
-- image_filename: 2020_10_09__07_36__A090124.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.411625
-  lon: 20.18676388888889
-  altitude: 180.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5087
-  height: 3700
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-10-09 07:36:59+02:00
-  focus_distance: 38.1
-- image_filename: 2020_10_09__07_45__A090224.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.37098611111111
-  lon: 20.279722222222222
-  altitude: 173.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4867
-  height: 3890
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-10-09 07:45:55+02:00
-  focus_distance: 3.12
-- image_filename: 2020_10_09__09_56__A090672.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.87430555555556
-  lon: 20.61790277777778
-  altitude: 259.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5080
-  height: 3690
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:56:03+02:00
-  focus_distance: 53.9
-- image_filename: 2020_10_09__12_40_DSC08242.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.496722222222225
-  lon: 21.238500000000002
-  altitude: 171.0
-  focal_length: 287.6
-  focal_length_35: 287.0
-  crop: 0.9979137691237829
-  aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:40:58+02:00
-- image_filename: 2020_10_09__08_08__A090408.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.19068055555555
-  lon: 20.42252777777778
-  altitude: 233.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5094
-  height: 3714
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 08:08:38+02:00
-  focus_distance: 53.02
-- image_filename: 2020_10_09__07_40__A090171.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.385305555555554
-  lon: 20.227375
-  altitude: 193.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5070
-  height: 3785
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 07:40:21+02:00
-  focus_distance: 53.9
-- image_filename: 2020_10_09__12_11_DSC08054.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.53340277777777
-  lon: 21.000458333333334
-  altitude: 214.0
-  focal_length: 250.8
-  focal_length_35: 250.0
-  crop: 0.996810207336523
-  aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:11:02+02:00
-- image_filename: 2020_10_09__12_42_DSC08243.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.49163888888889
-  lon: 21.248819444444447
-  altitude: 169.0
-  focal_length: 254.0
-  focal_length_35: 254.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:42:16+02:00
-- image_filename: 2020_10_09__09_41_DSC07886.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.101847222222226
-  lon: 20.83348611111111
-  altitude: 249.0
-  focal_length: 56.0
-  focal_length_35: 56.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5961
-  height: 3892
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:41:33+02:00
-- image_filename: 2020_10_09__12_18_DSC08130.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.524
-  lon: 21.10604166666667
-  altitude: 206.0
-  focal_length: 238.2
-  focal_length_35: 238.0
-  crop: 0.9991603694374476
-  aperture: 6.3
-  iso: 160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5704
-  height: 3624
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:18:55+02:00
-- image_filename: 2020_10_09__12_40_DSC08238.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.499097222222225
-  lon: 21.233666666666668
-  altitude: 174.0
-  focal_length: 174.1
-  focal_length_35: 174.0
-  crop: 0.9994256174612293
-  aperture: 5.6
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:40:32+02:00
-- image_filename: 2020_10_09__12_14_DSC08100.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.529944444444446
-  lon: 21.05379166666667
-  altitude: 214.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4086
-  height: 3117
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:14:52+02:00
-- image_filename: 2020_10_09__18_07_DSC08766.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.57141666666667
-  lon: 22.872180555555556
-  altitude: 239.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 2000
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 18:07:46+02:00
-- image_filename: 2020_10_09__08_08__A090403.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.19068055555555
-  lon: 20.422597222222223
-  altitude: 233.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5145
-  height: 3870
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 08:08:23+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_10_09__16_49_DSC08563.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.621875
-  lon: 21.96011111111111
-  altitude: 138.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5810
-  height: 3633
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 16:49:27+02:00
-- image_filename: 2020_10_09__15_13__A090998.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.56879166666667
-  lon: 21.696930555555557
-  altitude: 152.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5141
-  height: 3784
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-10-09 15:13:13+02:00
-  focus_distance: 30.74
-- image_filename: 2020_10_09__18_04__A091028.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.71636111111111
-  lon: 23.249166666666667
-  altitude: 200.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5061
-  height: 3868
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2020-10-09 18:04:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_10_09__12_21_DSC08163.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.53345833333333
-  lon: 21.130958333333332
-  altitude: 201.0
-  focal_length: 292.5
-  focal_length_35: 292.0
-  crop: 0.9982905982905983
-  aperture: 6.3
-  iso: 160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:21:33+02:00
-- image_filename: 2020_10_09__12_19_DSC08145.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.52686111111111
-  lon: 21.117680555555555
-  altitude: 205.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 125
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5897
-  height: 3923
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:19:53+02:00
-- image_filename: 2020_10_09__09_53__A090649.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.88361111111111
-  lon: 20.622305555555556
-  altitude: 265.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5058
-  height: 3660
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:53:20+02:00
-  focus_distance: 73.47
-- image_filename: 2020_10_09__18_10_DSC08788.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.5795
-  lon: 22.916708333333336
-  altitude: 267.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 12800
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 18:10:47+02:00
-- image_filename: 2020_10_09__09_39__A090587.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.973055555555554
-  lon: 20.62402777777778
-  altitude: 318.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5108
-  height: 3732
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:39:22+02:00
-  focus_distance: 6.4
-- image_filename: 2020_10_09__14_13_DSC08369.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.52976388888889
-  lon: 21.456333333333333
-  altitude: 166.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 14:13:20+02:00
-- image_filename: 2020_10_09__17_58__A091024.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.71538888888889
-  lon: 23.244083333333336
-  altitude: 202.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5096
-  height: 3718
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2020-10-09 17:58:41+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_10_09__09_42_DSC07896.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.10779166666667
-  lon: 20.848152777777777
-  altitude: 243.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:42:27+02:00
-- image_filename: 2020_10_09__12_39_DSC08232.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.50640277777778
-  lon: 21.222388888888887
-  altitude: 174.0
-  focal_length: 273.1
-  focal_length_35: 273.0
-  crop: 0.9996338337605272
-  aperture: 6.3
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5029
-  height: 3600
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:39:18+02:00
-- image_filename: 2020_10_09__18_07_DSC08761.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.57175
-  lon: 22.867722222222223
-  altitude: 237.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 4000
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 18:07:31+02:00
-- image_filename: 2020_10_09__12_46_DSC08282.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.47581944444445
-  lon: 21.269791666666666
-  altitude: 168.0
-  focal_length: 350.1
-  focal_length_35: 350.0
-  crop: 0.9997143673236217
-  aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5986
-  height: 3983
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:46:38+02:00
-- image_filename: 2020_10_09__16_39_DSC08538.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.63458333333333
-  lon: 21.907069444444442
-  altitude: 138.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5916
-  height: 3820
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 16:39:04+02:00
-- image_filename: 2020_10_09__07_26_DSC07642.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5877
-  height: 3724
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-10-09 07:26:13+02:00
-- image_filename: 2020_10_09__15_15__A091009.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.56848611111111
-  lon: 21.696583333333333
-  altitude: 153.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5156
-  height: 3810
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-10-09 15:15:05+02:00
-  focus_distance: 67.14
-- image_filename: 2020_10_09__09_27__A090548.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.983222222222224
-  lon: 20.778152777777777
-  altitude: 342.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5009
-  height: 3739
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:27:56+02:00
-  focus_distance: 3.52
-- image_filename: 2020_10_09__12_25_DSC08167.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.55123611111111
-  lon: 21.156875
-  altitude: 194.0
-  focal_length: 249.3
-  focal_length_35: 249.0
-  crop: 0.9987966305655835
-  aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5861
-  height: 3900
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 12:25:37+02:00
-- image_filename: 2020_10_09__09_14__A090436.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.036138888888885
-  lon: 20.848763888888886
-  altitude: 272.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5156
-  height: 3907
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 09:14:46+02:00
-  focus_distance: 6.67
-- image_filename: 2020_10_09__13_53__A090981.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.571444444444445
-  lon: 21.691027777777776
-  altitude: 157.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-10-09 13:53:22+02:00
-  focus_distance: 2.69
-- image_filename: 2020_10_09__17_49__A091010.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.71395833333334
-  lon: 23.239722222222223
-  altitude: 206.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5154
-  height: 3824
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2020-10-09 17:49:52+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_10_09__17_19_DSC08622.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.538069444444446
-  lon: 22.143958333333334
-  altitude: 148.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 17:19:16+02:00
-- image_filename: 2020_10_09__17_53__A091017.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.71431944444445
-  lon: 23.240333333333336
-  altitude: 213.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5096
-  height: 3718
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2020-10-09 17:53:17+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_10_09__09_28__A090552.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.98251388888889
-  lon: 20.776833333333332
-  altitude: 343.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5123
-  height: 3816
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:28:05+02:00
-  focus_distance: 14.86
-- image_filename: 2020_10_09__09_32_DSC07819.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.13776388888889
-  lon: 20.69151388888889
-  altitude: 284.0
-  focal_length: 44.0
-  focal_length_35: 44.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5989
-  height: 3936
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:32:54+02:00
-- image_filename: 2020_10_09__09_21_DSC07719.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.14281944444444
-  lon: 20.55251388888889
-  altitude: 263.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5220
-  height: 3397
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-10-09 09:21:26+02:00
-- image_filename: 2020_10_09__10_05_DSC07995.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.09751388888889
-  lon: 20.856194444444444
-  altitude: 242.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5313
-  height: 3729
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 10:05:39+02:00
-- image_filename: 2020_10_09__15_14__A091002.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.568736111111114
-  lon: 21.696722222222224
-  altitude: 152.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5190
-  height: 3876
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-10-09 15:14:10+02:00
-  focus_distance: 48.47
-- image_filename: 2020_10_09__17_51_DSC08707.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.54901388888889
-  lon: 22.714902777777777
-  altitude: 191.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 1600
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5479
-  height: 3684
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 17:51:57+02:00
-- image_filename: 2020_10_09__09_48_DSC07948.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.11558333333333
-  lon: 20.880902777777777
-  altitude: 242.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5815
-  height: 3896
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-10-09 09:48:35+02:00
-- image_filename: 2020_10_09__17_53_DSC08716.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.55030555555555
-  lon: 22.72334722222222
-  altitude: 189.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 125
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5904
-  height: 3798
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 17:53:02+02:00
-- image_filename: 2020_10_09__10_58__A090909.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.57611111111112
-  lon: 20.875416666666666
-  altitude: 197.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 10:58:18+02:00
-  focus_distance: 71.24
-- image_filename: 2020_10_09__10_42__A090843.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.60794444444445
-  lon: 20.733666666666668
-  altitude: 244.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5172
-  height: 3517
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 10:42:49+02:00
-  focus_distance: 7.57
-- image_filename: 2020_10_09__14_22_DSC08430.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.528416666666665
-  lon: 21.586305555555555
-  altitude: 142.0
-  focal_length: 171.7
-  focal_length_35: 171.0
-  crop: 0.9959231217239372
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5753
-  height: 3747
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 14:22:36+02:00
-- image_filename: 2020_10_09__13_35__A090958.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.53186111111111
-  lon: 21.686777777777777
-  altitude: 145.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4946
-  height: 3561
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 13:35:37+02:00
-  focus_distance: 14.42
-- image_filename: 2020_10_09__10_13__A090773.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.76940277777778
-  lon: 20.571055555555557
-  altitude: 234.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5039
-  height: 3619
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 10:13:23+02:00
-  focus_distance: 71.54
-- image_filename: 2020_10_09__13_59_DSC08329.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.53547222222222
-  lon: 21.276249999999997
-  altitude: 196.0
-  focal_length: 356.1
-  focal_length_35: 356.0
-  crop: 0.9997191800056163
-  aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5428
-  height: 3610
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 13:59:57+02:00
-- image_filename: 2020_10_09__16_41_DSC08550.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.63440277777778
-  lon: 21.921875
-  altitude: 138.0
-  focal_length: 36.0
-  focal_length_35: 36.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 16:41:13+02:00
-- image_filename: 2020_10_09__17_12_DSC08602.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.55645833333333
-  lon: 22.06723611111111
-  altitude: 153.0
-  focal_length: 51.0
-  focal_length_35: 51.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5980
-  height: 3950
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 17:12:04+02:00
-- image_filename: 2020_10_09__09_46_DSC07937.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.115944444444445
-  lon: 20.881625
-  altitude: 236.0
-  focal_length: 41.0
-  focal_length_35: 41.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5785
-  height: 3849
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 09:46:56+02:00
-- image_filename: 2020_10_09__07_56_DSC07676.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.72211111111111
-  lon: 19.83973611111111
-  altitude: 188.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5639
-  height: 3751
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-10-09 07:56:45+02:00
 - image_filename: 2020_10_09__07_14__A090027.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
   lat: 51.54698611111111
@@ -1330,313 +8,15 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 21.31
   iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5191
   height: 3847
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 07:14:33+02:00
-  focus_distance: 21.31
-- image_filename: 2020_10_09__14_03_DSC08354.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.52676388888889
-  lon: 21.3295
-  altitude: 193.0
-  focal_length: 148.7
-  focal_length_35: 148.0
-  crop: 0.9952925353059853
-  aperture: 5.6
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5496
-  height: 3655
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 14:03:47+02:00
-- image_filename: 2020_10_09__16_31_DSC08500.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.59898611111112
-  lon: 21.827236111111112
-  altitude: 141.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 3.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5983
-  height: 3981
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 16:31:46+02:00
-- image_filename: 2020_10_09__07_20__A090062.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.54669444444444
-  lon: 20.034041666666667
-  altitude: 149.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5169
-  height: 3900
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 07:20:10+02:00
-  focus_distance: 68.26
-- image_filename: 2020_10_09__09_28_DSC07779.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.15211111111111
-  lon: 20.627097222222222
-  altitude: 281.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-09 09:28:50+02:00
-- image_filename: 2020_10_09__09_53__A090651.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.88081944444445
-  lon: 20.621041666666667
-  altitude: 262.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5085
-  height: 3694
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:53:36+02:00
-  focus_distance: 63.5
-- image_filename: 2020_10_09__14_00_DSC08345.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.53495833333333
-  lon: 21.289680555555556
-  altitude: 190.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 14:00:49+02:00
-- image_filename: 2020_10_09__10_16__A090797.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.738458333333334
-  lon: 20.587
-  altitude: 228.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4869
-  height: 3614
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 10:16:32+02:00
-  focus_distance: 49.35
-- image_filename: 2020_10_09__09_24_DSC07733.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 51.14341666666667
-  lon: 20.575347222222224
-  altitude: 266.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-10-09 09:24:34+02:00
-- image_filename: 2020_10_09__17_38_DSC08662.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.53106944444444
-  lon: 22.46372222222222
-  altitude: 183.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 400
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 17:38:12+02:00
-- image_filename: 2020_10_09__12_20_DSC08150.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.527
-  lon: 21.1225
-  altitude: 207.0
-  focal_length: 143.5
-  focal_length_35: 143.0
-  crop: 0.9965156794425087
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5508
-  height: 3564
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:20:30+02:00
-- image_filename: 2020_10_09__09_23__A090523.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.99177777777778
-  lon: 20.798236111111112
-  altitude: 328.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5223
-  height: 3900
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:23:42+02:00
-  focus_distance: 22.98
-- image_filename: 2020_10_09__17_01_DSC08581.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.5965
-  lon: 22.034069444444444
-  altitude: 143.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5925
-  height: 4023
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-10-09 17:01:41+02:00
-- image_filename: 2020_10_09__15_13__A090997.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.56879166666667
-  lon: 21.696930555555557
-  altitude: 152.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5085
-  height: 3703
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-10-09 15:13:09+02:00
-  focus_distance: 21.56
-- image_filename: 2020_10_09__10_20__A090813.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.71158333333334
-  lon: 20.60465277777778
-  altitude: 253.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4964
-  height: 3371
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 10:20:37+02:00
-  focus_distance: 68.26
-- image_filename: 2020_10_09__10_52__A090865.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.59158333333333
-  lon: 20.815430555555555
-  altitude: 213.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5122
-  height: 3824
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 10:52:45+02:00
-  focus_distance: 19.11
-- image_filename: 2020_10_09__09_53__A090656.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.877027777777776
-  lon: 20.619180555555555
-  altitude: 260.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:53:58+02:00
-  focus_distance: 4.43
-- image_filename: 2020_10_09__13_53__A090984.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.57172222222223
-  lon: 21.690958333333334
-  altitude: 157.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-10-09 13:53:44+02:00
-  focus_distance: 90.51
+  time: 2020-10-09 07:14:33.000000000+02:00
 - image_filename: 2020_10_09__07_15__A090033.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
   lat: 51.546708333333335
@@ -1646,50 +26,97 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 13.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5196
-  height: 3857
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-10-09 07:15:21+02:00
   focus_distance: 3.12
-- image_filename: 2020_10_09__17_56_DSC08744.jpg
+  iso: 200
+  width: 5196
+  height: 3857
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 07:15:21.000000000+02:00
+- image_filename: 2020_10_09__07_20__A090062.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.55144444444444
-  lon: 22.731694444444443
-  altitude: 190.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 1000
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5842
-  height: 3886
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 17:56:11+02:00
-- image_filename: 2020_10_09__10_09__A090744.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.801361111111106
-  lon: 20.55227777777778
-  altitude: 225.0
+  lat: 51.54669444444444
+  lon: 20.034041666666667
+  altitude: 149.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.6
+  aperture: 11.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 68.26
   iso: 200
+  width: 5169
+  height: 3900
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5175
-  height: 3400
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 10:09:30+02:00
-  focus_distance: 44.16
+  time: 2020-10-09 07:20:10.000000000+02:00
+- image_filename: 2020_10_09__07_25_DSC07641.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  focal_length: 49.0
+  focal_length_35: 49.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 160
+  width: 5968
+  height: 3936
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 07:25:04.000000000+02:00
+- image_filename: 2020_10_09__07_26_DSC07642.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 5877
+  height: 3724
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 07:26:13.000000000+02:00
+- image_filename: 2020_10_09__07_36__A090124.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.411625
+  lon: 20.18676388888889
+  altitude: 180.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 38.1
+  iso: 200
+  width: 5087
+  height: 3700
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 07:36:59.000000000+02:00
+- image_filename: 2020_10_09__07_40__A090171.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.385305555555554
+  lon: 20.227375
+  altitude: 193.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 53.9
+  iso: 200
+  width: 5070
+  height: 3785
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 07:40:21.000000000+02:00
 - image_filename: 2020_10_09__07_44__A090213.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
   lat: 51.37318055555556
@@ -1699,84 +126,175 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5196
-  height: 3853
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-10-09 07:44:00+02:00
   focus_distance: 51.04
-- image_filename: 2020_10_09__14_17_DSC08419.jpg
+  iso: 200
+  width: 5196
+  height: 3853
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 07:44:00.000000000+02:00
+- image_filename: 2020_10_09__07_45__A090224.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.52813888888889
-  lon: 21.51825
-  altitude: 147.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
+  lat: 51.37098611111111
+  lon: 20.279722222222222
+  altitude: 173.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
   aperture: 6.3
-  iso: 125
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4430
-  height: 3479
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 14:17:32+02:00
-- image_filename: 2020_10_09__18_21_DSC08826.jpg
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.12
+  iso: 200
+  width: 4867
+  height: 3890
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 07:45:55.000000000+02:00
+- image_filename: 2020_10_09__07_56_DSC07676.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.63401388888889
-  lon: 22.969125
-  altitude: 218.0
-  focal_length: 85.0
-  focal_length_35: 85.0
+  lat: 51.72211111111111
+  lon: 19.83973611111111
+  altitude: 188.0
+  focal_length: 75.0
+  focal_length_35: 75.0
   crop: 1.0
-  aperture: 1.8
-  iso: 16000
-  lens: FE 85mm F1.8
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5639
+  height: 3751
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6047
-  height: 4023
+  time: 2020-10-09 07:56:45.000000000+02:00
+- image_filename: 2020_10_09__08_04__A090380.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.195874999999994
+  lon: 20.41923611111111
+  altitude: 229.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-10-09 18:21:04+02:00
-- image_filename: 2020_10_09__16_36_DSC08526.jpg
+  focus_distance: 3.92
+  iso: 320
+  width: 5120
+  height: 3745
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 08:04:57.000000000+02:00
+- image_filename: 2020_10_09__08_08__A090403.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.625569444444444
-  lon: 21.880916666666668
-  altitude: 138.0
+  lat: 51.19068055555555
+  lon: 20.422597222222223
+  altitude: 233.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5145
+  height: 3870
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 08:08:23.000000000+02:00
+- image_filename: 2020_10_09__08_08__A090408.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.19068055555555
+  lon: 20.42252777777778
+  altitude: 233.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 53.02
+  iso: 200
+  width: 5094
+  height: 3714
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 08:08:38.000000000+02:00
+- image_filename: 2020_10_09__09_14__A090436.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.036138888888885
+  lon: 20.848763888888886
+  altitude: 272.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 6.67
+  iso: 500
+  width: 5156
+  height: 3907
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:14:46.000000000+02:00
+- image_filename: 2020_10_09__09_20__A090473.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.995736111111114
+  lon: 20.8205
+  altitude: 313.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 23.1
+  iso: 200
+  width: 5052
+  height: 3771
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:20:13.000000000+02:00
+- image_filename: 2020_10_09__09_21_DSC07719.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.14281944444444
+  lon: 20.55251388888889
+  altitude: 263.0
   focal_length: 28.0
   focal_length_35: 28.0
   crop: 1.0
-  aperture: 4.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
+  width: 5220
+  height: 3397
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
+  time: 2020-10-09 09:21:26.000000000+02:00
+- image_filename: 2020_10_09__09_21__A090499.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.99219444444444
+  lon: 20.80990277777778
+  altitude: 323.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.5
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-10-09 16:36:09+02:00
-- image_filename: 2020_10_09__10_01__A090702.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.85443055555556
-  lon: 20.572180555555555
-  altitude: 239.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 6.3
+  focus_distance: 16.82
   iso: 200
+  width: 5094
+  height: 3712
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5139
-  height: 3774
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 10:01:09+02:00
-  focus_distance: 35.38
+  time: 2020-10-09 09:21:44.000000000+02:00
 - image_filename: 2020_10_09__09_23_DSC07730.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
   lat: 51.143375
@@ -1786,115 +304,188 @@
   focal_length_35: 33.0
   crop: 1.0
   aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 5653
   height: 3760
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-10-09 09:23:50+02:00
-- image_filename: 2020_10_09__17_54_DSC08726.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.551375
-  lon: 22.73136111111111
-  altitude: 191.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 640
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5508
-  height: 3665
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 17:54:18+02:00
-- image_filename: 2020_10_09__12_14_DSC08093.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.53088888888889
-  lon: 21.044597222222222
-  altitude: 212.0
-  focal_length: 203.9
-  focal_length_35: 203.0
-  crop: 0.9955860716037273
-  aperture: 7.1
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:14:12+02:00
-- image_filename: 2020_10_09__07_25_DSC07641.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  focal_length: 49.0
-  focal_length_35: 49.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 160
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5968
-  height: 3936
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-10-09 07:25:04+02:00
-- image_filename: 2020_10_09__12_57_DSC08310.jpg
+  time: 2020-10-09 09:23:50.000000000+02:00
+- image_filename: 2020_10_09__09_23__A090523.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.43836111111111
-  lon: 21.310041666666667
-  altitude: 156.0
-  focal_length: 120.2
-  focal_length_35: 120.0
-  crop: 0.9983361064891847
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5951
-  height: 3866
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-09 12:57:09+02:00
-- image_filename: 2020_10_09__09_47__A090627.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.92377777777777
-  lon: 20.611333333333334
-  altitude: 287.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5079
-  height: 3689
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-10-09 09:47:45+02:00
-  focus_distance: 51.85
-- image_filename: 2020_10_09__13_53__A090982.jpg
-  post_slug: 2020-10-09-swietokrzyskie-koleja
-  lat: 50.5715
-  lon: 21.690930555555557
-  altitude: 157.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 50.99177777777778
+  lon: 20.798236111111112
+  altitude: 328.0
+  focal_length: 38.0
+  focal_length_35: 76.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 22.98
   iso: 200
+  width: 5223
+  height: 3900
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3888
-  height: 2838
+  time: 2020-10-09 09:23:42.000000000+02:00
+- image_filename: 2020_10_09__09_24_DSC07733.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.14341666666667
+  lon: 20.575347222222224
+  altitude: 266.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-10-09 13:53:29+02:00
-  focus_distance: 5.23
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:24:34.000000000+02:00
+- image_filename: 2020_10_09__09_27_DSC07763.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.143055555555556
+  lon: 20.602694444444445
+  altitude: 272.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 125
+  width: 5691
+  height: 3749
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:27:05.000000000+02:00
+- image_filename: 2020_10_09__09_27__A090548.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.983222222222224
+  lon: 20.778152777777777
+  altitude: 342.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 3.52
+  iso: 200
+  width: 5009
+  height: 3739
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:27:56.000000000+02:00
+- image_filename: 2020_10_09__09_28_DSC07779.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.15211111111111
+  lon: 20.627097222222222
+  altitude: 281.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:28:50.000000000+02:00
+- image_filename: 2020_10_09__09_28__A090552.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.98251388888889
+  lon: 20.776833333333332
+  altitude: 343.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 14.86
+  iso: 200
+  width: 5123
+  height: 3816
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:28:05.000000000+02:00
+- image_filename: 2020_10_09__09_32_DSC07819.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.13776388888889
+  lon: 20.69151388888889
+  altitude: 284.0
+  focal_length: 44.0
+  focal_length_35: 44.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5989
+  height: 3936
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:32:54.000000000+02:00
+- image_filename: 2020_10_09__09_39__A090587.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.973055555555554
+  lon: 20.62402777777778
+  altitude: 318.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 6.4
+  iso: 200
+  width: 5108
+  height: 3732
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:39:22.000000000+02:00
+- image_filename: 2020_10_09__09_41_DSC07886.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.101847222222226
+  lon: 20.83348611111111
+  altitude: 249.0
+  focal_length: 56.0
+  focal_length_35: 56.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5961
+  height: 3892
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:41:33.000000000+02:00
+- image_filename: 2020_10_09__09_42_DSC07896.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.10779166666667
+  lon: 20.848152777777777
+  altitude: 243.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:42:27.000000000+02:00
 - image_filename: 2020_10_09__09_42_DSC07904.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
   lat: 51.10815277777778
@@ -1904,14 +495,674 @@
   focal_length_35: 47.0
   crop: 1.0
   aperture: 8.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5493
-  height: 3919
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-10-09 09:42:38+02:00
+  iso: 100
+  width: 5493
+  height: 3919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:42:38.000000000+02:00
+- image_filename: 2020_10_09__09_45_DSC07929.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.114000000000004
+  lon: 20.876375
+  altitude: 236.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6022
+  height: 4021
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:45:00.000000000+02:00
+- image_filename: 2020_10_09__09_46_DSC07932.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.11606944444445
+  lon: 20.881722222222223
+  altitude: 236.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6020
+  height: 3986
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:46:18.000000000+02:00
+- image_filename: 2020_10_09__09_46_DSC07937.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.115944444444445
+  lon: 20.881625
+  altitude: 236.0
+  focal_length: 41.0
+  focal_length_35: 41.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5785
+  height: 3849
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:46:56.000000000+02:00
+- image_filename: 2020_10_09__09_47__A090627.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.92377777777777
+  lon: 20.611333333333334
+  altitude: 287.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 51.85
+  iso: 200
+  width: 5079
+  height: 3689
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:47:45.000000000+02:00
+- image_filename: 2020_10_09__09_48_DSC07948.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.11558333333333
+  lon: 20.880902777777777
+  altitude: 242.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5815
+  height: 3896
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 09:48:35.000000000+02:00
+- image_filename: 2020_10_09__09_53__A090649.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.88361111111111
+  lon: 20.622305555555556
+  altitude: 265.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 73.47
+  iso: 200
+  width: 5058
+  height: 3660
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:53:20.000000000+02:00
+- image_filename: 2020_10_09__09_53__A090651.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.88081944444445
+  lon: 20.621041666666667
+  altitude: 262.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 63.5
+  iso: 200
+  width: 5085
+  height: 3694
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:53:36.000000000+02:00
+- image_filename: 2020_10_09__09_53__A090656.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.877027777777776
+  lon: 20.619180555555555
+  altitude: 260.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:53:58.000000000+02:00
+- image_filename: 2020_10_09__09_56__A090672.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.87430555555556
+  lon: 20.61790277777778
+  altitude: 259.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 53.9
+  iso: 200
+  width: 5080
+  height: 3690
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 09:56:03.000000000+02:00
+- image_filename: 2020_10_09__10_01__A090702.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.85443055555556
+  lon: 20.572180555555555
+  altitude: 239.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 35.38
+  iso: 200
+  width: 5139
+  height: 3774
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 10:01:09.000000000+02:00
+- image_filename: 2020_10_09__10_05_DSC07989.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.09908333333333
+  lon: 20.857916666666668
+  altitude: 240.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5384
+  height: 3510
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 10:05:24.000000000+02:00
+- image_filename: 2020_10_09__10_05_DSC07995.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.09751388888889
+  lon: 20.856194444444444
+  altitude: 242.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5313
+  height: 3729
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 10:05:39.000000000+02:00
+- image_filename: 2020_10_09__10_09__A090744.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.801361111111106
+  lon: 20.55227777777778
+  altitude: 225.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 44.16
+  iso: 200
+  width: 5175
+  height: 3400
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 10:09:30.000000000+02:00
+- image_filename: 2020_10_09__10_13__A090773.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.76940277777778
+  lon: 20.571055555555557
+  altitude: 234.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 71.54
+  iso: 200
+  width: 5039
+  height: 3619
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 10:13:23.000000000+02:00
+- image_filename: 2020_10_09__10_15__A090789.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.74854166666667
+  lon: 20.5855
+  altitude: 220.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 4.98
+  iso: 250
+  width: 5159
+  height: 3803
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 10:15:38.000000000+02:00
+- image_filename: 2020_10_09__10_16__A090797.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.738458333333334
+  lon: 20.587
+  altitude: 228.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 49.35
+  iso: 200
+  width: 4869
+  height: 3614
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 10:16:32.000000000+02:00
+- image_filename: 2020_10_09__10_20__A090813.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.71158333333334
+  lon: 20.60465277777778
+  altitude: 253.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 68.26
+  iso: 200
+  width: 4964
+  height: 3371
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 10:20:37.000000000+02:00
+- image_filename: 2020_10_09__10_42__A090843.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.60794444444445
+  lon: 20.733666666666668
+  altitude: 244.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 7.57
+  iso: 250
+  width: 5172
+  height: 3517
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 10:42:49.000000000+02:00
+- image_filename: 2020_10_09__10_52__A090865.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.59158333333333
+  lon: 20.815430555555555
+  altitude: 213.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 19.11
+  iso: 320
+  width: 5122
+  height: 3824
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 10:52:45.000000000+02:00
+- image_filename: 2020_10_09__10_58__A090909.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.57611111111112
+  lon: 20.875416666666666
+  altitude: 197.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 71.24
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 10:58:18.000000000+02:00
+- image_filename: 2020_10_09__12_11_DSC08054.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.53340277777777
+  lon: 21.000458333333334
+  altitude: 214.0
+  focal_length: 250.8
+  focal_length_35: 250.0
+  crop: 0.996810207336523
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:11:02.000000000+02:00
+- image_filename: 2020_10_09__12_14_DSC08093.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.53088888888889
+  lon: 21.044597222222222
+  altitude: 212.0
+  focal_length: 203.9
+  focal_length_35: 203.0
+  crop: 0.9955860716037273
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:14:12.000000000+02:00
+- image_filename: 2020_10_09__12_14_DSC08100.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.529944444444446
+  lon: 21.05379166666667
+  altitude: 214.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 4086
+  height: 3117
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:14:52.000000000+02:00
+- image_filename: 2020_10_09__12_18_DSC08130.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.524
+  lon: 21.10604166666667
+  altitude: 206.0
+  focal_length: 238.2
+  focal_length_35: 238.0
+  crop: 0.9991603694374476
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 160
+  width: 5704
+  height: 3624
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:18:55.000000000+02:00
+- image_filename: 2020_10_09__12_19_DSC08145.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.52686111111111
+  lon: 21.117680555555555
+  altitude: 205.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 5897
+  height: 3923
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:19:53.000000000+02:00
+- image_filename: 2020_10_09__12_20_DSC08150.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.527
+  lon: 21.1225
+  altitude: 207.0
+  focal_length: 143.5
+  focal_length_35: 143.0
+  crop: 0.9965156794425087
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5508
+  height: 3564
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:20:30.000000000+02:00
+- image_filename: 2020_10_09__12_21_DSC08163.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.53345833333333
+  lon: 21.130958333333332
+  altitude: 201.0
+  focal_length: 292.5
+  focal_length_35: 292.0
+  crop: 0.9982905982905983
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:21:33.000000000+02:00
+- image_filename: 2020_10_09__12_25_DSC08167.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.55123611111111
+  lon: 21.156875
+  altitude: 194.0
+  focal_length: 249.3
+  focal_length_35: 249.0
+  crop: 0.9987966305655835
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5861
+  height: 3900
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:25:37.000000000+02:00
+- image_filename: 2020_10_09__12_28_DSC08178.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.551375
+  lon: 21.157027777777778
+  altitude: 193.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5923
+  height: 3827
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:28:57.000000000+02:00
+- image_filename: 2020_10_09__12_31_DSC08190.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.55330555555555
+  lon: 21.16225
+  altitude: 191.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 160
+  width: 5248
+  height: 3253
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:31:35.000000000+02:00
+- image_filename: 2020_10_09__12_39_DSC08232.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.50640277777778
+  lon: 21.222388888888887
+  altitude: 174.0
+  focal_length: 273.1
+  focal_length_35: 273.0
+  crop: 0.9996338337605272
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 250
+  width: 5029
+  height: 3600
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:39:18.000000000+02:00
+- image_filename: 2020_10_09__12_40_DSC08238.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.499097222222225
+  lon: 21.233666666666668
+  altitude: 174.0
+  focal_length: 174.1
+  focal_length_35: 174.0
+  crop: 0.9994256174612293
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:40:32.000000000+02:00
+- image_filename: 2020_10_09__12_40_DSC08242.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.496722222222225
+  lon: 21.238500000000002
+  altitude: 171.0
+  focal_length: 287.6
+  focal_length_35: 287.0
+  crop: 0.9979137691237829
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 500
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:40:58.000000000+02:00
+- image_filename: 2020_10_09__12_42_DSC08243.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.49163888888889
+  lon: 21.248819444444447
+  altitude: 169.0
+  focal_length: 254.0
+  focal_length_35: 254.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 500
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:42:16.000000000+02:00
+- image_filename: 2020_10_09__12_44_DSC08264.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.490319444444445
+  lon: 21.251361111111112
+  altitude: 170.0
+  focal_length: 310.5
+  focal_length_35: 310.0
+  crop: 0.998389694041868
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 500
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:44:16.000000000+02:00
+- image_filename: 2020_10_09__12_46_DSC08282.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.47581944444445
+  lon: 21.269791666666666
+  altitude: 168.0
+  focal_length: 350.1
+  focal_length_35: 350.0
+  crop: 0.9997143673236217
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 5986
+  height: 3983
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:46:38.000000000+02:00
+- image_filename: 2020_10_09__12_54_DSC08298.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.438541666666666
+  lon: 21.309916666666666
+  altitude: 158.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 160
+  width: 5928
+  height: 3838
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:54:14.000000000+02:00
+- image_filename: 2020_10_09__12_57_DSC08310.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.43836111111111
+  lon: 21.310041666666667
+  altitude: 156.0
+  focal_length: 120.2
+  focal_length_35: 120.0
+  crop: 0.9983361064891847
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5951
+  height: 3866
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 12:57:09.000000000+02:00
 - image_filename: 2020_10_09__13_33__A090944.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
   lat: 50.524388888888886
@@ -1921,12 +1172,759 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 4.0
-  iso: 640
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5217
-  height: 3895
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-10-09 13:33:30+02:00
   focus_distance: 14.77
+  iso: 640
+  width: 5217
+  height: 3895
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 13:33:30.000000000+02:00
+- image_filename: 2020_10_09__13_35__A090958.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.53186111111111
+  lon: 21.686777777777777
+  altitude: 145.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 14.42
+  iso: 200
+  width: 4946
+  height: 3561
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 13:35:37.000000000+02:00
+- image_filename: 2020_10_09__13_53__A090981.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.571444444444445
+  lon: 21.691027777777776
+  altitude: 157.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.69
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 13:53:22.000000000+02:00
+- image_filename: 2020_10_09__13_53__A090982.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.5715
+  lon: 21.690930555555557
+  altitude: 157.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 5.23
+  iso: 200
+  width: 3888
+  height: 2838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 13:53:29.000000000+02:00
+- image_filename: 2020_10_09__13_53__A090984.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.57172222222223
+  lon: 21.690958333333334
+  altitude: 157.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 90.51
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 13:53:44.000000000+02:00
+- image_filename: 2020_10_09__13_59_DSC08329.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.53547222222222
+  lon: 21.276249999999997
+  altitude: 196.0
+  focal_length: 356.1
+  focal_length_35: 356.0
+  crop: 0.9997191800056163
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5428
+  height: 3610
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 13:59:57.000000000+02:00
+- image_filename: 2020_10_09__14_00_DSC08345.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.53495833333333
+  lon: 21.289680555555556
+  altitude: 190.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 14:00:49.000000000+02:00
+- image_filename: 2020_10_09__14_03_DSC08354.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.52676388888889
+  lon: 21.3295
+  altitude: 193.0
+  focal_length: 148.7
+  focal_length_35: 148.0
+  crop: 0.9952925353059853
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 5496
+  height: 3655
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 14:03:47.000000000+02:00
+- image_filename: 2020_10_09__14_13_DSC08369.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.52976388888889
+  lon: 21.456333333333333
+  altitude: 166.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 14:13:20.000000000+02:00
+- image_filename: 2020_10_09__14_17_DSC08419.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.52813888888889
+  lon: 21.51825
+  altitude: 147.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 4430
+  height: 3479
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 14:17:32.000000000+02:00
+- image_filename: 2020_10_09__14_22_DSC08430.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.528416666666665
+  lon: 21.586305555555555
+  altitude: 142.0
+  focal_length: 171.7
+  focal_length_35: 171.0
+  crop: 0.9959231217239372
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5753
+  height: 3747
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-09 14:22:36.000000000+02:00
+- image_filename: 2020_10_09__15_11__A090991.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.56891666666667
+  lon: 21.696416666666668
+  altitude: 152.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.35
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 15:11:17.000000000+02:00
+- image_filename: 2020_10_09__15_13__A090997.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.56879166666667
+  lon: 21.696930555555557
+  altitude: 152.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 21.56
+  iso: 400
+  width: 5085
+  height: 3703
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 15:13:09.000000000+02:00
+- image_filename: 2020_10_09__15_13__A090998.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.56879166666667
+  lon: 21.696930555555557
+  altitude: 152.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 30.74
+  iso: 200
+  width: 5141
+  height: 3784
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 15:13:13.000000000+02:00
+- image_filename: 2020_10_09__15_14__A091002.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.568736111111114
+  lon: 21.696722222222224
+  altitude: 152.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 48.47
+  iso: 400
+  width: 5190
+  height: 3876
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 15:14:10.000000000+02:00
+- image_filename: 2020_10_09__15_14__A091004.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.568625000000004
+  lon: 21.696666666666665
+  altitude: 152.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 17.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 15:14:20.000000000+02:00
+- image_filename: 2020_10_09__15_15__A091009.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.56848611111111
+  lon: 21.696583333333333
+  altitude: 153.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 67.14
+  iso: 200
+  width: 5156
+  height: 3810
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-10-09 15:15:05.000000000+02:00
+- image_filename: 2020_10_09__16_19_DSC08441.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.568444444444445
+  lon: 21.696527777777778
+  altitude: 145.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5667
+  height: 3769
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 16:19:16.000000000+02:00
+- image_filename: 2020_10_09__16_31_DSC08500.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.59898611111112
+  lon: 21.827236111111112
+  altitude: 141.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5983
+  height: 3981
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 16:31:46.000000000+02:00
+- image_filename: 2020_10_09__16_36_DSC08522.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.62526388888889
+  lon: 21.880097222222222
+  altitude: 138.0
+  focal_length: 30.0
+  focal_length_35: 30.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5950
+  height: 3958
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 16:36:05.000000000+02:00
+- image_filename: 2020_10_09__16_36_DSC08526.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.625569444444444
+  lon: 21.880916666666668
+  altitude: 138.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 16:36:09.000000000+02:00
+- image_filename: 2020_10_09__16_39_DSC08538.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.63458333333333
+  lon: 21.907069444444442
+  altitude: 138.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5916
+  height: 3820
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 16:39:04.000000000+02:00
+- image_filename: 2020_10_09__16_41_DSC08550.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.63440277777778
+  lon: 21.921875
+  altitude: 138.0
+  focal_length: 36.0
+  focal_length_35: 36.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 16:41:13.000000000+02:00
+- image_filename: 2020_10_09__16_49_DSC08563.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.621875
+  lon: 21.96011111111111
+  altitude: 138.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5810
+  height: 3633
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 16:49:27.000000000+02:00
+- image_filename: 2020_10_09__17_01_DSC08581.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.5965
+  lon: 22.034069444444444
+  altitude: 143.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5925
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 17:01:41.000000000+02:00
+- image_filename: 2020_10_09__17_12_DSC08602.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.55645833333333
+  lon: 22.06723611111111
+  altitude: 153.0
+  focal_length: 51.0
+  focal_length_35: 51.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5980
+  height: 3950
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 17:12:04.000000000+02:00
+- image_filename: 2020_10_09__17_18_DSC08611.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.53759722222222
+  lon: 22.140777777777778
+  altitude: 147.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 17:18:57.000000000+02:00
+- image_filename: 2020_10_09__17_19_DSC08622.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.538069444444446
+  lon: 22.143958333333334
+  altitude: 148.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-10-09 17:19:16.000000000+02:00
+- image_filename: 2020_10_09__17_38_DSC08662.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.53106944444444
+  lon: 22.46372222222222
+  altitude: 183.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 17:38:12.000000000+02:00
+- image_filename: 2020_10_09__17_49__A091010.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.71395833333334
+  lon: 23.239722222222223
+  altitude: 206.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5154
+  height: 3824
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2020-10-09 17:49:52.000000000+02:00
+- image_filename: 2020_10_09__17_50__A091014.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.71406944444445
+  lon: 23.239916666666666
+  altitude: 208.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.2
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5096
+  height: 3718
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2020-10-09 17:50:55.000000000+02:00
+- image_filename: 2020_10_09__17_51_DSC08707.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.54901388888889
+  lon: 22.714902777777777
+  altitude: 191.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 1600
+  width: 5479
+  height: 3684
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 17:51:57.000000000+02:00
+- image_filename: 2020_10_09__17_53_DSC08716.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.55030555555555
+  lon: 22.72334722222222
+  altitude: 189.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 125
+  width: 5904
+  height: 3798
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 17:53:02.000000000+02:00
+- image_filename: 2020_10_09__17_53__A091017.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.71431944444445
+  lon: 23.240333333333336
+  altitude: 213.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5096
+  height: 3718
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2020-10-09 17:53:17.000000000+02:00
+- image_filename: 2020_10_09__17_54_DSC08726.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.551375
+  lon: 22.73136111111111
+  altitude: 191.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  width: 5508
+  height: 3665
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 17:54:18.000000000+02:00
+- image_filename: 2020_10_09__17_56_DSC08744.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.55144444444444
+  lon: 22.731694444444443
+  altitude: 190.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 1000
+  width: 5842
+  height: 3886
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 17:56:11.000000000+02:00
+- image_filename: 2020_10_09__17_58__A091024.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.71538888888889
+  lon: 23.244083333333336
+  altitude: 202.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5096
+  height: 3718
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2020-10-09 17:58:41.000000000+02:00
+- image_filename: 2020_10_09__18_04__A091028.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.71636111111111
+  lon: 23.249166666666667
+  altitude: 200.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5061
+  height: 3868
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2020-10-09 18:04:29.000000000+02:00
+- image_filename: 2020_10_09__18_07_DSC08761.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.57175
+  lon: 22.867722222222223
+  altitude: 237.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 4000
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 18:07:31.000000000+02:00
+- image_filename: 2020_10_09__18_07_DSC08766.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.57141666666667
+  lon: 22.872180555555556
+  altitude: 239.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 2000
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 18:07:46.000000000+02:00
+- image_filename: 2020_10_09__18_08__A091034.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.71648611111112
+  lon: 23.252083333333335
+  altitude: 203.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5156
+  height: 3801
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2020-10-09 18:08:26.000000000+02:00
+- image_filename: 2020_10_09__18_10_DSC08788.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.5795
+  lon: 22.916708333333336
+  altitude: 267.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 12800
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 18:10:47.000000000+02:00
+- image_filename: 2020_10_09__18_21_DSC08826.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.63401388888889
+  lon: 22.969125
+  altitude: 218.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 16000
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 18:21:04.000000000+02:00
+- image_filename: 2020_10_09__18_39_DSC08850.jpg
+  post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 50.71709722222222
+  lon: 23.1475
+  altitude: 227.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 16000
+  width: 5480
+  height: 3608
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-10-09 18:39:32.000000000+02:00

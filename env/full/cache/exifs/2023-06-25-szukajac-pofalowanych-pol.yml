@@ -1,769 +1,8 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-- image_filename: 2023_06_25__16_11_P6253185.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.62416666666667
-  lon: 17.28888888888889
-  altitude: 103.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 200
-  width: 8140
-  height: 6083
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-06-25 16:11:03.000000000+02:00
-- image_filename: 2023_06_25__16_26_DJI_0461.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.216666666666665
-  altitude: 110.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 7993
-  height: 5958
-  camera: FC3582
-  time: 2023-06-25 16:26:53.000000000+02:00
-- image_filename: 2023_06_25__16_27_DJI_0462.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.216666666666665
-  altitude: 110.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  iso: 130
-  width: 7993
-  height: 5958
-  camera: FC3582
-  time: 2023-06-25 16:27:03.000000000+02:00
-- image_filename: 2023_06_25__16_27_DJI_0463.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.216666666666665
-  altitude: 110.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 7993
-  height: 5958
-  camera: FC3582
-  time: 2023-06-25 16:27:16.000000000+02:00
-- image_filename: 2023_06_25__16_28_DJI_0466.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.216666666666665
-  altitude: 140.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  iso: 100
-  width: 8026
-  height: 6000
-  camera: FC3582
-  time: 2023-06-25 16:28:23.000000000+02:00
-- image_filename: 2023_06_25__16_29_DJI_0470.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.216666666666665
-  altitude: 139.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 8048
-  height: 6031
-  camera: FC3582
-  time: 2023-06-25 16:29:30.000000000+02:00
-- image_filename: 2023_06_25__16_29_DJI_0471.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.216666666666665
-  altitude: 139.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8060
-  height: 6044
-  camera: FC3582
-  time: 2023-06-25 16:29:40.000000000+02:00
-- image_filename: 2023_06_25__16_30_DJI_0474.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.216666666666665
-  altitude: 139.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 8034
-  height: 6012
-  camera: FC3582
-  time: 2023-06-25 16:30:40.000000000+02:00
-- image_filename: 2023_06_25__16_31_DJI_0477.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.216666666666665
-  altitude: 139.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  iso: 130
-  width: 7993
-  height: 5958
-  camera: FC3582
-  time: 2023-06-25 16:31:32.000000000+02:00
-- image_filename: 2023_06_25__16_33_DJI_0481.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.216666666666665
-  altitude: 139.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 110
-  width: 8056
-  height: 6042
-  camera: FC3582
-  time: 2023-06-25 16:33:04.000000000+02:00
-- image_filename: 2023_06_25__16_37_P6253186.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.580555555555556
-  lon: 17.264722222222222
-  altitude: 94.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 200
-  width: 8084
-  height: 5975
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-06-25 16:37:09.000000000+02:00
-- image_filename: 2023_06_25__16_53_DJI_0486.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.283333333333335
-  altitude: 120.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 8044
-  height: 6021
-  camera: FC3582
-  time: 2023-06-25 16:53:07.000000000+02:00
-- image_filename: 2023_06_25__16_47_P6253188.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.57833333333333
-  lon: 17.266111111111112
-  altitude: 97.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 200
-  width: 8148
-  height: 6076
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-06-25 16:47:40.000000000+02:00
-- image_filename: 2023_06_25__16_37_P6253187.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.580555555555556
-  lon: 17.264722222222222
-  altitude: 94.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 200
-  width: 8077
-  height: 5876
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-06-25 16:37:49.000000000+02:00
-- image_filename: 2023_06_25__16_53_DJI_0487.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.283333333333335
-  altitude: 120.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8045
-  height: 6023
-  camera: FC3582
-  time: 2023-06-25 16:53:14.000000000+02:00
-- image_filename: 2023_06_25__16_53_DJI_0488.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.283333333333335
-  altitude: 120.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8003
-  height: 5967
-  camera: FC3582
-  time: 2023-06-25 16:53:24.000000000+02:00
-- image_filename: 2023_06_25__16_54_DJI_0490.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.283333333333335
-  altitude: 120.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  iso: 100
-  width: 8057
-  height: 6038
-  camera: FC3582
-  time: 2023-06-25 16:54:05.000000000+02:00
-- image_filename: 2023_06_25__16_55_DJI_0493.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.283333333333335
-  altitude: 138.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  iso: 100
-  width: 8010
-  height: 5979
-  camera: FC3582
-  time: 2023-06-25 16:55:15.000000000+02:00
-- image_filename: 2023_06_25__16_55_DJI_0494.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.283333333333335
-  altitude: 138.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8034
-  height: 6025
-  camera: FC3582
-  time: 2023-06-25 16:55:25.000000000+02:00
-- image_filename: 2023_06_25__16_55_DJI_0497.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.283333333333335
-  altitude: 137.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  iso: 100
-  width: 8049
-  height: 6027
-  camera: FC3582
-  time: 2023-06-25 16:55:53.000000000+02:00
-- image_filename: 2023_06_25__16_55_DJI_0495.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.283333333333335
-  altitude: 137.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  iso: 160
-  width: 8058
-  height: 6043
-  camera: FC3582
-  time: 2023-06-25 16:55:35.000000000+02:00
-- image_filename: 2023_06_25__16_56_DJI_0500.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.63333333333333
-  lon: 17.283333333333335
-  altitude: 140.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  iso: 110
-  width: 8026
-  height: 5998
-  camera: FC3582
-  time: 2023-06-25 16:56:55.000000000+02:00
-- image_filename: 2023_06_25__16_58_DJI_0505.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.63333333333333
-  lon: 17.283333333333335
-  altitude: 154.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  iso: 130
-  width: 8016
-  height: 5984
-  camera: FC3582
-  time: 2023-06-25 16:58:08.000000000+02:00
-- image_filename: 2023_06_25__17_09_P6253189.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55777777777777
-  lon: 17.33722222222222
-  altitude: 106.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 200
-  width: 8200
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-06-25 17:09:54.000000000+02:00
-- image_filename: 2023_06_25__17_11_P6253190.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55777777777777
-  lon: 17.33722222222222
-  altitude: 105.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 200
-  width: 8136
-  height: 6038
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-06-25 17:11:33.000000000+02:00
-- image_filename: 2023_06_25__17_18_DJI_0517.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.61666666666667
-  lon: 17.283333333333335
-  altitude: 132.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8046
-  height: 6026
-  camera: FC3582
-  time: 2023-06-25 17:18:40.000000000+02:00
-- image_filename: 2023_06_25__17_18_DJI_0518.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.61666666666667
-  lon: 17.283333333333335
-  altitude: 132.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  iso: 200
-  width: 8002
-  height: 5966
-  camera: FC3582
-  time: 2023-06-25 17:18:49.000000000+02:00
-- image_filename: 2023_06_25__17_19_DJI_0519.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.61666666666667
-  lon: 17.283333333333335
-  altitude: 161.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 110
-  width: 8042
-  height: 6020
-  camera: FC3582
-  time: 2023-06-25 17:19:10.000000000+02:00
-- image_filename: 2023_06_25__17_19_DJI_0523.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.61666666666667
-  lon: 17.283333333333335
-  altitude: 161.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8060
-  height: 6045
-  camera: FC3582
-  time: 2023-06-25 17:19:45.000000000+02:00
-- image_filename: 2023_06_25__17_33_P6253191.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.54944444444444
-  lon: 17.350555555555555
-  altitude: 111.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 200
-  width: 8149
-  height: 6071
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-06-25 17:33:57.000000000+02:00
-- image_filename: 2023_06_25__17_41_DJI_0526.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.583333333333336
-  lon: 17.266666666666666
-  altitude: 90.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2023-06-25 17:41:02.000000000+02:00
-- image_filename: 2023_06_25__17_41_DJI_0528.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.583333333333336
-  lon: 17.266666666666666
-  altitude: 103.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 8057
-  height: 6038
-  camera: FC3582
-  time: 2023-06-25 17:41:20.000000000+02:00
-- image_filename: 2023_06_25__17_42_DJI_0533.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.583333333333336
-  lon: 17.266666666666666
-  altitude: 122.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 110
-  width: 8041
-  height: 6018
-  camera: FC3582
-  time: 2023-06-25 17:42:33.000000000+02:00
-- image_filename: 2023_06_25__17_43_DJI_0538.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.583333333333336
-  lon: 17.266666666666666
-  altitude: 126.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8045
-  height: 6023
-  camera: FC3582
-  time: 2023-06-25 17:43:58.000000000+02:00
-- image_filename: 2023_06_25__17_45_DJI_0544.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.583333333333336
-  lon: 17.266666666666666
-  altitude: 126.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 8048
-  height: 6031
-  camera: FC3582
-  time: 2023-06-25 17:45:14.000000000+02:00
-- image_filename: 2023_06_25__18_23_DJI_0548.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 154.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  iso: 110
-  width: 8039
-  height: 6015
-  camera: FC3582
-  time: 2023-06-25 18:23:38.000000000+02:00
-- image_filename: 2023_06_25__18_24_DJI_0550.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 158.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8041
-  height: 6019
-  camera: FC3582
-  time: 2023-06-25 18:24:32.000000000+02:00
-- image_filename: 2023_06_25__18_24_DJI_0551.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 158.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 8036
-  height: 6012
-  camera: FC3582
-  time: 2023-06-25 18:24:41.000000000+02:00
-- image_filename: 2023_06_25__18_24_DJI_0552.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 158.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 8051
-  height: 6033
-  camera: FC3582
-  time: 2023-06-25 18:24:50.000000000+02:00
-- image_filename: 2023_06_25__18_25_DJI_0555.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 158.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 130
-  width: 8030
-  height: 6005
-  camera: FC3582
-  time: 2023-06-25 18:25:49.000000000+02:00
-- image_filename: 2023_06_25__18_26_DJI_0557.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 158.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8046
-  height: 6026
-  camera: FC3582
-  time: 2023-06-25 18:26:32.000000000+02:00
-- image_filename: 2023_06_25__18_27_DJI_0560.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.333333333333332
-  altitude: 158.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 8058
-  height: 6043
-  camera: FC3582
-  time: 2023-06-25 18:27:31.000000000+02:00
-- image_filename: 2023_06_25__18_27_DJI_0561.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.333333333333332
-  altitude: 158.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8057
-  height: 6038
-  camera: FC3582
-  time: 2023-06-25 18:27:40.000000000+02:00
-- image_filename: 2023_06_25__18_28_DJI_0564.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 158.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8029
-  height: 6008
-  camera: FC3582
-  time: 2023-06-25 18:28:41.000000000+02:00
-- image_filename: 2023_06_25__18_29_DJI_0566.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 158.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8060
-  height: 6045
-  camera: FC3582
-  time: 2023-06-25 18:29:50.000000000+02:00
-- image_filename: 2023_06_25__18_30_DJI_0568.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 158.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8054
-  height: 6034
-  camera: FC3582
-  time: 2023-06-25 18:30:40.000000000+02:00
-- image_filename: 2023_06_25__18_31_DJI_0571.jpg
-  post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.55
-  lon: 17.35
-  altitude: 158.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-06-25 18:31:23.000000000+02:00
 - image_filename: 2023_06_25__15_22_P6253182.jpg
   post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.217777777777776
+  lat: 52.64993055555556
+  lon: 17.217666666666666
   altitude: 109.0
   focal_length: 13.0
   focal_length_35: 26.0
@@ -779,8 +18,8 @@
   time: 2023-06-25 15:22:50.000000000+02:00
 - image_filename: 2023_06_25__15_23_P6253183.jpg
   post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.65
-  lon: 17.217777777777776
+  lat: 52.64993055555556
+  lon: 17.217666666666666
   altitude: 108.0
   focal_length: 12.0
   focal_length_35: 24.0
@@ -796,8 +35,8 @@
   time: 2023-06-25 15:23:29.000000000+02:00
 - image_filename: 2023_06_25__16_10_P6253184.jpg
   post_slug: 2023-06-25-szukajac-pofalowanych-pol
-  lat: 52.62416666666667
-  lon: 17.28888888888889
+  lat: 52.62405555555556
+  lon: 17.288833333333336
   altitude: 103.0
   focal_length: 34.0
   focal_length_35: 68.0
@@ -811,3 +50,746 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2023-06-25 16:10:25.000000000+02:00
+- image_filename: 2023_06_25__16_11_P6253185.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.62405555555556
+  lon: 17.28880555555556
+  altitude: 103.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 8140
+  height: 6083
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-06-25 16:11:03.000000000+02:00
+- image_filename: 2023_06_25__16_26_DJI_0461.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64998888888889
+  lon: 17.21780833333333
+  altitude: 110.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 7993
+  height: 5958
+  camera: FC3582
+  time: 2023-06-25 16:26:53.000000000+02:00
+- image_filename: 2023_06_25__16_27_DJI_0462.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64998888888889
+  lon: 17.21781111111111
+  altitude: 110.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 130
+  width: 7993
+  height: 5958
+  camera: FC3582
+  time: 2023-06-25 16:27:03.000000000+02:00
+- image_filename: 2023_06_25__16_27_DJI_0463.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.649991666666665
+  lon: 17.21781111111111
+  altitude: 110.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 7993
+  height: 5958
+  camera: FC3582
+  time: 2023-06-25 16:27:16.000000000+02:00
+- image_filename: 2023_06_25__16_28_DJI_0466.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.65015555555556
+  lon: 17.219877777777775
+  altitude: 140.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8026
+  height: 6000
+  camera: FC3582
+  time: 2023-06-25 16:28:23.000000000+02:00
+- image_filename: 2023_06_25__16_29_DJI_0470.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64885
+  lon: 17.218619444444442
+  altitude: 139.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8048
+  height: 6031
+  camera: FC3582
+  time: 2023-06-25 16:29:30.000000000+02:00
+- image_filename: 2023_06_25__16_29_DJI_0471.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64884444444444
+  lon: 17.218619444444442
+  altitude: 139.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8060
+  height: 6044
+  camera: FC3582
+  time: 2023-06-25 16:29:40.000000000+02:00
+- image_filename: 2023_06_25__16_30_DJI_0474.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.649747222222224
+  lon: 17.220958333333332
+  altitude: 139.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8034
+  height: 6012
+  camera: FC3582
+  time: 2023-06-25 16:30:40.000000000+02:00
+- image_filename: 2023_06_25__16_31_DJI_0477.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.65045555555555
+  lon: 17.221124999999997
+  altitude: 139.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 130
+  width: 7993
+  height: 5958
+  camera: FC3582
+  time: 2023-06-25 16:31:32.000000000+02:00
+- image_filename: 2023_06_25__16_33_DJI_0481.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.65034444444444
+  lon: 17.21723611111111
+  altitude: 139.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8056
+  height: 6042
+  camera: FC3582
+  time: 2023-06-25 16:33:04.000000000+02:00
+- image_filename: 2023_06_25__16_37_P6253186.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.58065277777778
+  lon: 17.264833333333332
+  altitude: 94.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8084
+  height: 5975
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-06-25 16:37:09.000000000+02:00
+- image_filename: 2023_06_25__16_37_P6253187.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.58066666666667
+  lon: 17.264833333333332
+  altitude: 94.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8077
+  height: 5876
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-06-25 16:37:49.000000000+02:00
+- image_filename: 2023_06_25__16_47_P6253188.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.57829166666667
+  lon: 17.266166666666667
+  altitude: 97.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8148
+  height: 6076
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-06-25 16:47:40.000000000+02:00
+- image_filename: 2023_06_25__16_53_DJI_0487.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64218888888889
+  lon: 17.284283333333335
+  altitude: 120.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8045
+  height: 6023
+  camera: FC3582
+  time: 2023-06-25 16:53:14.000000000+02:00
+- image_filename: 2023_06_25__16_53_DJI_0488.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64218888888889
+  lon: 17.284280555555558
+  altitude: 120.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8003
+  height: 5967
+  camera: FC3582
+  time: 2023-06-25 16:53:24.000000000+02:00
+- image_filename: 2023_06_25__16_54_DJI_0490.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64371666666666
+  lon: 17.28526666666667
+  altitude: 120.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8057
+  height: 6038
+  camera: FC3582
+  time: 2023-06-25 16:54:05.000000000+02:00
+- image_filename: 2023_06_25__16_55_DJI_0493.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64187222222222
+  lon: 17.285508333333336
+  altitude: 138.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8010
+  height: 5979
+  camera: FC3582
+  time: 2023-06-25 16:55:15.000000000+02:00
+- image_filename: 2023_06_25__16_55_DJI_0494.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64187222222222
+  lon: 17.285508333333336
+  altitude: 138.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8034
+  height: 6025
+  camera: FC3582
+  time: 2023-06-25 16:55:25.000000000+02:00
+- image_filename: 2023_06_25__16_55_DJI_0495.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64187222222222
+  lon: 17.285505555555556
+  altitude: 137.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  iso: 160
+  width: 8058
+  height: 6043
+  camera: FC3582
+  time: 2023-06-25 16:55:35.000000000+02:00
+- image_filename: 2023_06_25__16_55_DJI_0497.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64187777777778
+  lon: 17.285500000000003
+  altitude: 137.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8049
+  height: 6027
+  camera: FC3582
+  time: 2023-06-25 16:55:53.000000000+02:00
+- image_filename: 2023_06_25__16_56_DJI_0500.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64049444444444
+  lon: 17.288566666666668
+  altitude: 140.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 110
+  width: 8026
+  height: 5998
+  camera: FC3582
+  time: 2023-06-25 16:56:55.000000000+02:00
+- image_filename: 2023_06_25__16_58_DJI_0505.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64026944444444
+  lon: 17.288825000000003
+  altitude: 154.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 130
+  width: 8016
+  height: 5984
+  camera: FC3582
+  time: 2023-06-25 16:58:08.000000000+02:00
+- image_filename: 2023_06_25__17_09_P6253189.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.55781944444444
+  lon: 17.337277777777775
+  altitude: 106.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-06-25 17:09:54.000000000+02:00
+- image_filename: 2023_06_25__17_11_P6253190.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.55779166666667
+  lon: 17.337263888888888
+  altitude: 105.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 8136
+  height: 6038
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-06-25 17:11:33.000000000+02:00
+- image_filename: 2023_06_25__17_18_DJI_0517.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.609180555555554
+  lon: 17.28248333333333
+  altitude: 132.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8046
+  height: 6026
+  camera: FC3582
+  time: 2023-06-25 17:18:40.000000000+02:00
+- image_filename: 2023_06_25__17_18_DJI_0518.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.609180555555554
+  lon: 17.28248333333333
+  altitude: 132.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 200
+  width: 8002
+  height: 5966
+  camera: FC3582
+  time: 2023-06-25 17:18:49.000000000+02:00
+- image_filename: 2023_06_25__17_19_DJI_0519.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.609180555555554
+  lon: 17.28247777777778
+  altitude: 161.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8042
+  height: 6020
+  camera: FC3582
+  time: 2023-06-25 17:19:10.000000000+02:00
+- image_filename: 2023_06_25__17_19_DJI_0523.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.609180555555554
+  lon: 17.282480555555555
+  altitude: 161.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8060
+  height: 6045
+  camera: FC3582
+  time: 2023-06-25 17:19:45.000000000+02:00
+- image_filename: 2023_06_25__17_33_P6253191.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.549388888888885
+  lon: 17.350416666666668
+  altitude: 111.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 8149
+  height: 6071
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-06-25 17:33:57.000000000+02:00
+- image_filename: 2023_06_25__17_41_DJI_0526.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.57833333333333
+  lon: 17.266169444444444
+  altitude: 90.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2023-06-25 17:41:02.000000000+02:00
+- image_filename: 2023_06_25__17_41_DJI_0528.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.57832777777778
+  lon: 17.266172222222224
+  altitude: 103.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8057
+  height: 6038
+  camera: FC3582
+  time: 2023-06-25 17:41:20.000000000+02:00
+- image_filename: 2023_06_25__17_42_DJI_0533.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.577622222222224
+  lon: 17.26583888888889
+  altitude: 122.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8041
+  height: 6018
+  camera: FC3582
+  time: 2023-06-25 17:42:33.000000000+02:00
+- image_filename: 2023_06_25__17_43_DJI_0538.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.579275
+  lon: 17.26725
+  altitude: 126.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8045
+  height: 6023
+  camera: FC3582
+  time: 2023-06-25 17:43:58.000000000+02:00
+- image_filename: 2023_06_25__17_45_DJI_0544.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.57739444444445
+  lon: 17.266022222222222
+  altitude: 126.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8048
+  height: 6031
+  camera: FC3582
+  time: 2023-06-25 17:45:14.000000000+02:00
+- image_filename: 2023_06_25__18_23_DJI_0548.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.549455555555554
+  lon: 17.34978611111111
+  altitude: 154.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 110
+  width: 8039
+  height: 6015
+  camera: FC3582
+  time: 2023-06-25 18:23:38.000000000+02:00
+- image_filename: 2023_06_25__18_24_DJI_0550.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54878333333333
+  lon: 17.347266666666666
+  altitude: 158.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8041
+  height: 6019
+  camera: FC3582
+  time: 2023-06-25 18:24:32.000000000+02:00
+- image_filename: 2023_06_25__18_24_DJI_0551.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54878333333333
+  lon: 17.347263888888886
+  altitude: 158.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8036
+  height: 6012
+  camera: FC3582
+  time: 2023-06-25 18:24:41.000000000+02:00
+- image_filename: 2023_06_25__18_24_DJI_0552.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54878333333333
+  lon: 17.347266666666666
+  altitude: 158.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8051
+  height: 6033
+  camera: FC3582
+  time: 2023-06-25 18:24:50.000000000+02:00
+- image_filename: 2023_06_25__18_25_DJI_0555.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54895
+  lon: 17.344641666666664
+  altitude: 158.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 130
+  width: 8030
+  height: 6005
+  camera: FC3582
+  time: 2023-06-25 18:25:49.000000000+02:00
+- image_filename: 2023_06_25__18_26_DJI_0557.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54849166666666
+  lon: 17.34333611111111
+  altitude: 158.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8046
+  height: 6026
+  camera: FC3582
+  time: 2023-06-25 18:26:32.000000000+02:00
+- image_filename: 2023_06_25__18_27_DJI_0560.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.549727777777775
+  lon: 17.34048333333333
+  altitude: 158.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8058
+  height: 6043
+  camera: FC3582
+  time: 2023-06-25 18:27:31.000000000+02:00
+- image_filename: 2023_06_25__18_27_DJI_0561.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.549724999999995
+  lon: 17.34048333333333
+  altitude: 158.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8057
+  height: 6038
+  camera: FC3582
+  time: 2023-06-25 18:27:40.000000000+02:00
+- image_filename: 2023_06_25__18_28_DJI_0564.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54963055555555
+  lon: 17.343655555555554
+  altitude: 158.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8029
+  height: 6008
+  camera: FC3582
+  time: 2023-06-25 18:28:41.000000000+02:00
+- image_filename: 2023_06_25__18_29_DJI_0566.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.549677777777774
+  lon: 17.34774722222222
+  altitude: 158.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8060
+  height: 6045
+  camera: FC3582
+  time: 2023-06-25 18:29:50.000000000+02:00
+- image_filename: 2023_06_25__18_30_DJI_0568.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54897777777778
+  lon: 17.349977777777777
+  altitude: 158.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8054
+  height: 6034
+  camera: FC3582
+  time: 2023-06-25 18:30:40.000000000+02:00
+- image_filename: 2023_06_25__18_31_DJI_0571.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54951666666666
+  lon: 17.351005555555556
+  altitude: 158.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-06-25 18:31:23.000000000+02:00

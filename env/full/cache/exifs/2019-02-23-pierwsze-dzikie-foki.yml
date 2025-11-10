@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_02_23__12_58__2231201.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.36186111111111
-  lon: 18.943666666666665
-  altitude: 3.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5111
-  height: 3816
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-02-23 12:58:07+01:00
-  focus_distance: 7.72
 - image_filename: 2019_02_23__11_36__2231038.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
   lat: 54.337250000000004
@@ -26,15 +8,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2019-02-23 11:36:03+01:00
   focus_distance: 101.14
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 11:36:03.000000000+01:00
 - image_filename: 2019_02_23__11_40__2231045.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
   lat: 54.339986111111116
@@ -44,309 +26,15 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5096
-  height: 3805
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-02-23 11:40:35+01:00
   focus_distance: 27.67
-- image_filename: 2019_02_23__12_02__2231079.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.348375000000004
-  lon: 18.941666666666666
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
   iso: 200
+  width: 5096
+  height: 3805
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4974
-  height: 3680
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-02-23 12:02:41+01:00
-  focus_distance: 0.62
-- image_filename: 2019_02_23__11_57__2231066.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.346375
-  lon: 18.94086111111111
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-02-23 11:57:20+01:00
-  focus_distance: 2.14
-- image_filename: 2019_02_23__12_38__2231145.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.36223611111111
-  lon: 18.948013888888887
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-02-23 12:38:12+01:00
-  focus_distance: 75.85
-- image_filename: 2019_02_23__12_51__2231185crop.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.363305555555556
-  lon: 18.94425
-  altitude: 0.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5184
-  height: 3888
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-02-23 12:51:28+01:00
-  focus_distance: 124.12
-- image_filename: 2019_02_23__13_00__2231215.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.36119444444444
-  lon: 18.94448611111111
-  altitude: 1.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-02-23 13:00:40+01:00
-  focus_distance: 33.03
-- image_filename: 2019_02_23__13_24__2231273.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.35583333333334
-  lon: 18.944847222222222
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-02-23 13:24:36+01:00
-  focus_distance: 4.82
-- image_filename: 2019_02_23__13_27__2231284.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.354597222222225
-  lon: 18.944166666666668
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-02-23 13:27:08+01:00
-  focus_distance: 80.31
-- image_filename: 2019_02_23__14_15__2231370_01.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.33451388888889
-  lon: 18.934041666666666
-  altitude: 8.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 400
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5123
-  height: 3616
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-02-23 14:15:33+01:00
-  focus_distance: 5.13
-- image_filename: 2019_02_23__14_24__2231511.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.33438888888889
-  lon: 18.93425
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 500
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 4470
-  height: 3679
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-02-23 14:24:44+01:00
-  focus_distance: 4.49
-- image_filename: 2019_02_23__14_28__2231600_01.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.334375
-  lon: 18.93422222222222
-  altitude: 8.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 640
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5075
-  height: 3789
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-02-23 14:28:47+01:00
-  focus_distance: 4.07
-- image_filename: 2019_02_23__20_32__2231663.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 10.0
-  exposure_string: 10 s
-  time: 2019-02-23 20:32:12+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_02_23__20_47__2231673.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4956
-  height: 3737
-  exposure: 15.0
-  exposure_string: 15 s
-  time: 2019-02-23 20:47:08+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_02_23__21_11__2231687.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5182
-  height: 3887
-  exposure: 97.0
-  exposure_string: 97 s
-  time: 2019-02-23 21:11:20+01:00
-  focus_distance: 22.88
-- image_filename: 2019_02_23__12_07__2231097.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.35001388888889
-  lon: 18.94225
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-02-23 12:07:50+01:00
-  focus_distance: 3.19
-- image_filename: 2019_02_23__13_11__2231244.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.360708333333335
-  lon: 18.946416666666668
-  altitude: 1.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-02-23 13:11:33+01:00
-  focus_distance: 1.89
-- image_filename: 2019_02_23__12_51__2231185_02.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.363305555555556
-  lon: 18.94425
-  altitude: 0.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-02-23 12:51:28+01:00
-  focus_distance: 124.12
-- image_filename: 2019_02_23__21_07__2231682.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4740
-  height: 3405
-  exposure: 41.0
-  exposure_string: 41 s
-  time: 2019-02-23 21:07:27+01:00
-  focus_distance: 137.68
+  time: 2019-02-23 11:40:35.000000000+01:00
 - image_filename: 2019_02_23__11_55__2231059.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
   lat: 54.345666666666666
@@ -356,501 +44,51 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-02-23 11:55:18+01:00
   focus_distance: 6.53
-- image_filename: 2019_02_23__14_24__2231505.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.334375
-  lon: 18.93422222222222
-  altitude: 6.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 500
-  lens: OLYMPUS M.40-150mm F2.8
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3883
-  height: 3381
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-02-23 14:24:37+01:00
-  focus_distance: 4.54
-- image_filename: 2019_02_23__12_09__2231103.jpg
+  time: 2019-02-23 11:55:18.000000000+01:00
+- image_filename: 2019_02_23__11_57__2231066.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.350569444444446
-  lon: 18.942430555555557
+  lat: 54.346375
+  lon: 18.94086111111111
   altitude: 4294967296.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4995
-  height: 3556
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-02-23 12:09:33+01:00
-  focus_distance: 6.03
-- image_filename: 2019_02_23__12_57__2231197.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.36219444444445
-  lon: 18.943291666666667
-  altitude: 3.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-02-23 12:57:03+01:00
-  focus_distance: 5.05
-- image_filename: 2019_02_23__13_21__2231258.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.35693055555556
-  lon: 18.945486111111112
-  altitude: 4294967296.0
-  focal_length: 110.0
-  focal_length_35: 220.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-02-23 13:21:25+01:00
-  focus_distance: 5.79
-- image_filename: 2019_02_23__20_50__2231675.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4959
-  height: 3680
-  exposure: 60.0
-  exposure_string: 60 s
-  time: 2019-02-23 20:50:03+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_02_23__13_20__2231254.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.35744444444445
-  lon: 18.945805555555555
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-02-23 13:20:05+01:00
-  focus_distance: 2.96
-- image_filename: 2019_02_23__12_52__2231188crop.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.363305555555556
-  lon: 18.94426388888889
-  altitude: 0.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5184
-  height: 3888
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-02-23 12:52:04+01:00
-  focus_distance: 151.7
-- image_filename: 2019_02_23__21_11__2231686.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5235
-  height: 3908
-  exposure: 97.0
-  exposure_string: 97 s
-  time: 2019-02-23 21:11:20+01:00
-  focus_distance: 22.88
-- image_filename: 2019_02_23__14_08__2231327.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.336708333333334
-  lon: 18.93473611111111
-  altitude: 8.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-02-23 14:08:05+01:00
-  focus_distance: 1.71
-- image_filename: 2019_02_23__12_12__2231109.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.35223611111111
-  lon: 18.943125000000002
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5125
-  height: 3826
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-02-23 12:12:45+01:00
-  focus_distance: 3.52
-- image_filename: 2019_02_23__14_29__2231639.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.334375
-  lon: 18.934291666666667
-  altitude: 8.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 640
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-02-23 14:29:29+01:00
-  focus_distance: 4.26
-- image_filename: 2019_02_23__20_48__2231674.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4547
-  height: 3364
-  exposure: 60.0
-  exposure_string: 60 s
-  time: 2019-02-23 20:48:20+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_02_23__12_56__2231196.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.36222222222222
-  lon: 18.94326388888889
-  altitude: 3.0
-  focal_length: 79.0
-  focal_length_35: 158.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5101
-  height: 3808
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-02-23 12:56:57+01:00
-  focus_distance: 20.68
-- image_filename: 2019_02_23__20_52__2231676.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5082
-  height: 3747
-  exposure: 60.0
-  exposure_string: 60 s
-  time: 2019-02-23 20:52:17+01:00
-  focus_distance: 10.73
-- image_filename: 2019_02_23__14_26__2231530.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.33430555555556
-  lon: 18.934194444444444
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 500
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-02-23 14:26:04+01:00
-  focus_distance: 1.42
-- image_filename: 2019_02_23__13_24__2231275_01.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.355805555555555
-  lon: 18.944805555555554
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-02-23 13:24:47+01:00
-  focus_distance: 4.76
-- image_filename: 2019_02_23__12_59__2231210.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.36145833333333
-  lon: 18.944125
-  altitude: 3.0
-  focal_length: 62.0
-  focal_length_35: 124.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5036
-  height: 3759
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-02-23 12:59:36+01:00
-  focus_distance: 7.95
-- image_filename: 2019_02_23__13_08__2231234.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.36080555555556
-  lon: 18.945833333333333
-  altitude: 5.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 4927
-  height: 3818
+  aperture: 4.5
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2019-02-23 13:08:32+01:00
-  focus_distance: 6.76
-- image_filename: 2019_02_23__12_20__2231119.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.35608333333334
-  lon: 18.94498611111111
-  altitude: 4294967296.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.5
+  focus_distance: 2.14
   iso: 200
+  width: 5240
+  height: 3912
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-02-23 12:20:45+01:00
-  focus_distance: 9.57
-- image_filename: 2019_02_23__14_27__2231588.jpg
+  time: 2019-02-23 11:57:20.000000000+01:00
+- image_filename: 2019_02_23__12_02__2231079.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.334319444444446
-  lon: 18.934166666666666
-  altitude: 8.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 640
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-02-23 14:27:59+01:00
-  focus_distance: 2.32
-- image_filename: 2019_02_23__14_15__2231381.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.33451388888889
-  lon: 18.934055555555556
-  altitude: 8.0
-  focal_length: 142.0
-  focal_length_35: 284.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 400
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 4549
-  height: 3694
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-02-23 14:15:41+01:00
-  focus_distance: 4.31
-- image_filename: 2019_02_23__12_28__2231131.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.358986111111115
-  lon: 18.946625
+  lat: 54.348375000000004
+  lon: 18.941666666666666
   altitude: 4294967296.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5087
-  height: 3798
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-02-23 12:28:50+01:00
-  focus_distance: 167.18
-- image_filename: 2019_02_23__14_24__2231515.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.33438888888889
-  lon: 18.93425
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 500
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 4458
-  height: 3689
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-02-23 14:24:44+01:00
-  focus_distance: 4.49
-- image_filename: 2019_02_23__12_58__2231204.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.36181944444444
-  lon: 18.94377777777778
-  altitude: 3.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-02-23 12:58:29+01:00
-  focus_distance: 4.26
-- image_filename: 2019_02_23__21_02__2231679.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5018
-  height: 3746
-  exposure: 100.0
-  exposure_string: 100 s
-  time: 2019-02-23 21:02:03+01:00
-  focus_distance: 137.68
-- image_filename: 2019_02_23__20_36__2231666.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5096
-  height: 3523
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2019-02-23 20:36:03+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_02_23__14_28__2231616_01.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.334375
-  lon: 18.934208333333334
-  altitude: 8.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 640
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-02-23 14:28:53+01:00
-  focus_distance: 4.1
-- image_filename: 2019_02_23__13_19__2231249.jpg
-  post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.357680555555554
-  lon: 18.945972222222224
-  altitude: 0.0
-  focal_length: 115.0
-  focal_length_35: 230.0
-  crop: 2.0
   aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.62
   iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
+  width: 4974
+  height: 3680
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-02-23 13:19:08+01:00
-  focus_distance: 24.09
+  time: 2019-02-23 12:02:41.000000000+01:00
 - image_filename: 2019_02_23__12_07__2231095.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
   lat: 54.349944444444446
@@ -860,15 +98,87 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-02-23 12:07:35+01:00
   focus_distance: 3.58
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 12:07:35.000000000+01:00
+- image_filename: 2019_02_23__12_07__2231097.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.35001388888889
+  lon: 18.94225
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.19
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 12:07:50.000000000+01:00
+- image_filename: 2019_02_23__12_09__2231103.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.350569444444446
+  lon: 18.942430555555557
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.03
+  iso: 200
+  width: 4995
+  height: 3556
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 12:09:33.000000000+01:00
+- image_filename: 2019_02_23__12_12__2231109.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.35223611111111
+  lon: 18.943125000000002
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.52
+  iso: 200
+  width: 5125
+  height: 3826
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 12:12:45.000000000+01:00
+- image_filename: 2019_02_23__12_20__2231119.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.35608333333334
+  lon: 18.94498611111111
+  altitude: 4294967296.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 9.57
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 12:20:45.000000000+01:00
 - image_filename: 2019_02_23__12_22__2231126.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
   lat: 54.35665277777778
@@ -878,69 +188,339 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2019-02-23 12:22:17+01:00
   focus_distance: 2.3
-- image_filename: 2019_02_23__13_39__2231307.jpg
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 12:22:17.000000000+01:00
+- image_filename: 2019_02_23__12_28__2231131.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.349333333333334
-  lon: 18.941444444444446
+  lat: 54.358986111111115
+  lon: 18.946625
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 167.18
+  iso: 200
+  width: 5087
+  height: 3798
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 12:28:50.000000000+01:00
+- image_filename: 2019_02_23__12_38__2231145.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.36223611111111
+  lon: 18.948013888888887
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 75.85
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 12:38:12.000000000+01:00
+- image_filename: 2019_02_23__12_51__2231185_02.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.363305555555556
+  lon: 18.94425
+  altitude: 0.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 124.12
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 12:51:28.000000000+01:00
+- image_filename: 2019_02_23__12_51__2231185crop.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.363305555555556
+  lon: 18.94425
+  altitude: 0.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 124.12
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 12:51:28.000000000+01:00
+- image_filename: 2019_02_23__12_52__2231188crop.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.363305555555556
+  lon: 18.94426388888889
+  altitude: 0.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 151.7
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 12:52:04.000000000+01:00
+- image_filename: 2019_02_23__12_56__2231196.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.36222222222222
+  lon: 18.94326388888889
+  altitude: 3.0
+  focal_length: 79.0
+  focal_length_35: 158.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 20.68
+  iso: 200
+  width: 5101
+  height: 3808
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 12:56:57.000000000+01:00
+- image_filename: 2019_02_23__12_57__2231197.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.36219444444445
+  lon: 18.943291666666667
+  altitude: 3.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.05
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 12:57:03.000000000+01:00
+- image_filename: 2019_02_23__12_58__2231201.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.36186111111111
+  lon: 18.943666666666665
+  altitude: 3.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 7.72
+  iso: 200
+  width: 5111
+  height: 3816
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 12:58:07.000000000+01:00
+- image_filename: 2019_02_23__12_58__2231204.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.36181944444444
+  lon: 18.94377777777778
+  altitude: 3.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 4.26
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 12:58:29.000000000+01:00
+- image_filename: 2019_02_23__12_59__2231210.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.36145833333333
+  lon: 18.944125
+  altitude: 3.0
+  focal_length: 62.0
+  focal_length_35: 124.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 7.95
+  iso: 200
+  width: 5036
+  height: 3759
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 12:59:36.000000000+01:00
+- image_filename: 2019_02_23__13_00__2231215.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.36119444444444
+  lon: 18.94448611111111
+  altitude: 1.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 33.03
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:00:40.000000000+01:00
+- image_filename: 2019_02_23__13_08__2231234.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.36080555555556
+  lon: 18.945833333333333
+  altitude: 5.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.76
+  iso: 200
+  width: 4927
+  height: 3818
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:08:32.000000000+01:00
+- image_filename: 2019_02_23__13_11__2231244.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.360708333333335
+  lon: 18.946416666666668
+  altitude: 1.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.89
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:11:33.000000000+01:00
+- image_filename: 2019_02_23__13_19__2231249.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.357680555555554
+  lon: 18.945972222222224
+  altitude: 0.0
+  focal_length: 115.0
+  focal_length_35: 230.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 24.09
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:19:08.000000000+01:00
+- image_filename: 2019_02_23__13_20__2231254.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.35744444444445
+  lon: 18.945805555555555
   altitude: 4294967296.0
   focal_length: 150.0
   focal_length_35: 300.0
   crop: 2.0
   aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 2.96
   iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-02-23 13:39:55+01:00
-  focus_distance: 2.13
-- image_filename: 2019_02_23__14_14__2231337.jpg
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:20:05.000000000+01:00
+- image_filename: 2019_02_23__13_21__2231258.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.33451388888889
-  lon: 18.93402777777778
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
+  lat: 54.35693055555556
+  lon: 18.945486111111112
+  altitude: 4294967296.0
+  focal_length: 110.0
+  focal_length_35: 220.0
   crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 5.79
+  iso: 200
   width: 5240
   height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-02-23 14:14:18+01:00
-  focus_distance: 4.62
-- image_filename: 2019_02_23__14_28__2231605_01.jpg
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:21:25.000000000+01:00
+- image_filename: 2019_02_23__13_24__2231273.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
-  lat: 54.334375
-  lon: 18.93422222222222
-  altitude: 8.0
+  lat: 54.35583333333334
+  lon: 18.944847222222222
+  altitude: 4294967296.0
   focal_length: 150.0
   focal_length_35: 300.0
   crop: 2.0
   aperture: 2.8
-  iso: 640
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2019-02-23 14:28:48+01:00
-  focus_distance: 4.03
+  focus_distance: 4.82
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:24:36.000000000+01:00
+- image_filename: 2019_02_23__13_24__2231275_01.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.355805555555555
+  lon: 18.944805555555554
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 4.76
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:24:47.000000000+01:00
 - image_filename: 2019_02_23__13_24__2231276.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
   lat: 54.35577777777778
@@ -950,15 +530,69 @@
   focal_length_35: 270.0
   crop: 2.0
   aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2019-02-23 13:24:50+01:00
   focus_distance: 4.24
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:24:50.000000000+01:00
+- image_filename: 2019_02_23__13_27__2231284.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.354597222222225
+  lon: 18.944166666666668
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 80.31
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:27:08.000000000+01:00
+- image_filename: 2019_02_23__13_39__2231307.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.349333333333334
+  lon: 18.941444444444446
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.13
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 13:39:55.000000000+01:00
+- image_filename: 2019_02_23__14_08__2231327.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.336708333333334
+  lon: 18.93473611111111
+  altitude: 8.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.71
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:08:05.000000000+01:00
 - image_filename: 2019_02_23__14_10__2231329.jpg
   post_slug: 2019-02-23-pierwsze-dzikie-foki
   lat: 54.33554166666667
@@ -968,12 +602,378 @@
   focal_length_35: 180.0
   crop: 2.0
   aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5164
-  height: 3808
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-02-23 14:10:04+01:00
   focus_distance: 11.13
+  iso: 200
+  width: 5164
+  height: 3808
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:10:04.000000000+01:00
+- image_filename: 2019_02_23__14_14__2231337.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.33451388888889
+  lon: 18.93402777777778
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.62
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:14:18.000000000+01:00
+- image_filename: 2019_02_23__14_15__2231370_01.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.33451388888889
+  lon: 18.934041666666666
+  altitude: 8.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 5.13
+  iso: 400
+  width: 5123
+  height: 3616
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:15:33.000000000+01:00
+- image_filename: 2019_02_23__14_15__2231381.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.33451388888889
+  lon: 18.934055555555556
+  altitude: 8.0
+  focal_length: 142.0
+  focal_length_35: 284.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 4.31
+  iso: 400
+  width: 4549
+  height: 3694
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:15:41.000000000+01:00
+- image_filename: 2019_02_23__14_24__2231505.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.334375
+  lon: 18.93422222222222
+  altitude: 6.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 4.54
+  iso: 500
+  width: 3883
+  height: 3381
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:24:37.000000000+01:00
+- image_filename: 2019_02_23__14_24__2231511.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.33438888888889
+  lon: 18.93425
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 4.49
+  iso: 500
+  width: 4470
+  height: 3679
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:24:44.000000000+01:00
+- image_filename: 2019_02_23__14_24__2231515.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.33438888888889
+  lon: 18.93425
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 4.49
+  iso: 500
+  width: 4458
+  height: 3689
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:24:44.000000000+01:00
+- image_filename: 2019_02_23__14_26__2231530.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.33430555555556
+  lon: 18.934194444444444
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1.42
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:26:04.000000000+01:00
+- image_filename: 2019_02_23__14_27__2231588.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.334319444444446
+  lon: 18.934166666666666
+  altitude: 8.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 2.32
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:27:59.000000000+01:00
+- image_filename: 2019_02_23__14_28__2231600_01.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.334375
+  lon: 18.93422222222222
+  altitude: 8.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 4.07
+  iso: 640
+  width: 5075
+  height: 3789
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:28:47.000000000+01:00
+- image_filename: 2019_02_23__14_28__2231605_01.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.334375
+  lon: 18.93422222222222
+  altitude: 8.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 4.03
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:28:48.000000000+01:00
+- image_filename: 2019_02_23__14_28__2231616_01.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.334375
+  lon: 18.934208333333334
+  altitude: 8.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 4.1
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:28:53.000000000+01:00
+- image_filename: 2019_02_23__14_29__2231639.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  lat: 54.334375
+  lon: 18.934291666666667
+  altitude: 8.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 4.26
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-02-23 14:29:29.000000000+01:00
+- image_filename: 2019_02_23__20_32__2231663.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 10.0
+  exposure_string: 10 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 20:32:12.000000000+01:00
+- image_filename: 2019_02_23__20_36__2231666.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 4.0
+  exposure_string: 4 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5096
+  height: 3523
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 20:36:03.000000000+01:00
+- image_filename: 2019_02_23__20_47__2231673.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 15.0
+  exposure_string: 15 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4956
+  height: 3737
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 20:47:08.000000000+01:00
+- image_filename: 2019_02_23__20_48__2231674.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 60.0
+  exposure_string: 60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4547
+  height: 3364
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 20:48:20.000000000+01:00
+- image_filename: 2019_02_23__20_50__2231675.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 60.0
+  exposure_string: 60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4959
+  height: 3680
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 20:50:03.000000000+01:00
+- image_filename: 2019_02_23__20_52__2231676.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 60.0
+  exposure_string: 60 s
+  focus_distance: 10.73
+  iso: 200
+  width: 5082
+  height: 3747
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 20:52:17.000000000+01:00
+- image_filename: 2019_02_23__21_02__2231679.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 76.0
+  exposure_string: 99.76 s
+  focus_distance: 137.68
+  iso: 200
+  width: 5018
+  height: 3746
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 21:02:03.000000000+01:00
+- image_filename: 2019_02_23__21_07__2231682.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 94.0
+  exposure_string: 40.94 s
+  focus_distance: 137.68
+  iso: 200
+  width: 4740
+  height: 3405
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 21:07:27.000000000+01:00
+- image_filename: 2019_02_23__21_11__2231686.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 2.0
+  exposure_string: 97.02 s
+  focus_distance: 22.88
+  iso: 200
+  width: 5235
+  height: 3908
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 21:11:20.000000000+01:00
+- image_filename: 2019_02_23__21_11__2231687.jpg
+  post_slug: 2019-02-23-pierwsze-dzikie-foki
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 2.0
+  exposure_string: 97.02 s
+  focus_distance: 22.88
+  iso: 200
+  width: 5182
+  height: 3887
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-23 21:11:20.000000000+01:00

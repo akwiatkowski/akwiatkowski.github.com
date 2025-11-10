@@ -1,635 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-- image_filename: 2021_09_12__10_45__9120683.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.474805555555555
-  lon: 17.165263888888887
-  altitude: 95.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 327.67
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-12 10:45:46.000000000+02:00
-- image_filename: 2021_09_12__10_46__9120687.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.474722222222226
-  lon: 17.165027777777777
-  altitude: 95.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 285.87
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-12 10:46:54.000000000+02:00
-- image_filename: 2021_09_12__13_26_DSC07990.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.483555555555554
-  lon: 17.12815277777778
-  altitude: 87.0
-  focal_length: 71.0
-  focal_length_35: 71.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5915
-  height: 3935
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:26:25.000000000+02:00
-- image_filename: 2021_09_12__13_12_DSC07977.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48334722222222
-  lon: 17.13313888888889
-  altitude: 93.0
-  focal_length: 44.0
-  focal_length_35: 44.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 100
-  width: 4024
-  height: 6048
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:12:29.000000000+02:00
-- image_filename: 2021_09_12__13_52__9120982.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.487944444444445
-  lon: 17.113097222222223
-  altitude: 91.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.5
-  iso: 200
-  width: 4432
-  height: 3443
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 13:52:23.000000000+02:00
-- image_filename: 2021_09_12__13_03_DSC07951.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.482569444444444
-  lon: 17.138833333333334
-  altitude: 95.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 100
-  width: 5789
-  height: 3851
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:03:56.000000000+02:00
-- image_filename: 2021_09_12__10_43__9120681.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47466666666667
-  lon: 17.16623611111111
-  altitude: 95.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 3912
-  height: 5240
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:43:37.000000000+02:00
-- image_filename: 2021_09_12__10_42__9120680.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47430555555556
-  lon: 17.166833333333333
-  altitude: 92.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 21.64
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:42:47.000000000+02:00
-- image_filename: 2021_09_12__13_55__9120994.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48820833333333
-  lon: 17.11273611111111
-  altitude: 92.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.04
-  iso: 200
-  width: 5023
-  height: 3474
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 13:55:13.000000000+02:00
-- image_filename: 2021_09_12__13_06_DSC07958.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.483125
-  lon: 17.137319444444444
-  altitude: 92.0
-  focal_length: 30.0
-  focal_length_35: 30.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:06:41.000000000+02:00
-- image_filename: 2021_09_12__10_19__9120668.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.46706944444445
-  lon: 17.16926388888889
-  altitude: 98.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 25.28
-  iso: 200
-  width: 4630
-  height: 3216
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:19:18.000000000+02:00
-- image_filename: 2021_09_12__10_47__9120689.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.474555555555554
-  lon: 17.164555555555555
-  altitude: 92.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 3858
-  height: 5167
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-12 10:47:38.000000000+02:00
-- image_filename: 2021_09_12__12_05_DSC07869.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47763888888889
-  lon: 17.144513888888888
-  altitude: 91.0
-  focal_length: 46.0
-  focal_length_35: 46.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:05:17.000000000+02:00
-- image_filename: 2021_09_12__12_07_DSC07882.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47763888888889
-  lon: 17.144513888888888
-  altitude: 91.0
-  focal_length: 60.0
-  focal_length_35: 60.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:07:01.000000000+02:00
-- image_filename: 2021_09_12__12_07_DSC07897.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47763888888889
-  lon: 17.14452777777778
-  altitude: 91.0
-  focal_length: 67.0
-  focal_length_35: 67.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:07:44.000000000+02:00
-- image_filename: 2021_09_12__12_24__9120856.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47847222222222
-  lon: 17.141805555555557
-  altitude: 95.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1.57
-  iso: 200
-  width: 3933
-  height: 2803
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 12:24:33.000000000+02:00
-- image_filename: 2021_09_12__12_31__9120907.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47854166666667
-  lon: 17.14161111111111
-  altitude: 94.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.89
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 12:31:59.000000000+02:00
-- image_filename: 2021_09_12__10_35__9120672.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47477777777778
-  lon: 17.168305555555555
-  altitude: 98.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.04
-  exposure_string: 1/25 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:35:58.000000000+02:00
-- image_filename: 2021_09_12__11_05__9120734.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.475236111111116
-  lon: 17.159541666666666
-  altitude: 92.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 2.04
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-12 11:05:19.000000000+02:00
-- image_filename: 2021_09_12__11_49_DSC07765.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47766666666667
-  lon: 17.144541666666665
-  altitude: 94.0
-  focal_length: 30.0
-  focal_length_35: 30.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 100
-  width: 5885
-  height: 3915
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 11:49:56.000000000+02:00
-- image_filename: 2021_09_12__12_07_DSC07900.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47763888888889
-  lon: 17.14452777777778
-  altitude: 91.0
-  focal_length: 61.0
-  focal_length_35: 61.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:07:47.000000000+02:00
-- image_filename: 2021_09_12__11_52_DSC07813.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47766666666667
-  lon: 17.14452777777778
-  altitude: 93.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 11:52:19.000000000+02:00
-- image_filename: 2021_09_12__12_50_DSC07934.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.480875000000005
-  lon: 17.14125
-  altitude: 85.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5939
-  height: 3951
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:50:04.000000000+02:00
-- image_filename: 2021_09_12__12_42_DSC07927.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47913888888889
-  lon: 17.140527777777777
-  altitude: 91.0
-  focal_length: 58.0
-  focal_length_35: 58.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:42:07.000000000+02:00
-- image_filename: 2021_09_12__13_43_DSC07998.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48601388888889
-  lon: 17.117041666666665
-  altitude: 90.0
-  focal_length: 37.0
-  focal_length_35: 37.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:43:09.000000000+02:00
-- image_filename: 2021_09_12__12_33__9120915.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.478680555555556
-  lon: 17.141402777777778
-  altitude: 93.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.65
-  iso: 250
-  width: 4227
-  height: 3193
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 12:33:30.000000000+02:00
-- image_filename: 2021_09_12__11_52_DSC07807.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47768055555556
-  lon: 17.14452777777778
-  altitude: 93.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 11:52:00.000000000+02:00
-- image_filename: 2021_09_12__12_06_DSC07874.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.477625
-  lon: 17.144513888888888
-  altitude: 91.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 5460
-  height: 3590
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:06:09.000000000+02:00
-- image_filename: 2021_09_12__11_06__9120743.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47519444444445
-  lon: 17.159416666666665
-  altitude: 93.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 2.07
-  iso: 200
-  width: 4879
-  height: 3416
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-12 11:06:17.000000000+02:00
-- image_filename: 2021_09_12__13_47_DSC08001.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.487069444444444
-  lon: 17.114375000000003
-  altitude: 90.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:47:12.000000000+02:00
-- image_filename: 2021_09_12__12_51_DSC07937.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48083333333334
-  lon: 17.141152777777776
-  altitude: 84.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 4022
-  height: 6046
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:51:21.000000000+02:00
-- image_filename: 2021_09_12__11_36__9120818.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47615277777778
-  lon: 17.150291666666664
-  altitude: 95.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.57
-  iso: 200
-  width: 5131
-  height: 3661
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 11:36:18.000000000+02:00
-- image_filename: 2021_09_12__13_05_DSC07952.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.482888888888894
-  lon: 17.138194444444444
-  altitude: 95.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 4024
-  height: 6048
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:05:25.000000000+02:00
-- image_filename: 2021_09_12__12_44__9120963.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47931944444445
-  lon: 17.14023611111111
-  altitude: 92.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 13.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1.63
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 12:44:41.000000000+02:00
-- image_filename: 2021_09_12__12_08_DSC07917.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47763888888889
-  lon: 17.14452777777778
-  altitude: 91.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:08:35.000000000+02:00
-- image_filename: 2021_09_12__11_16__9120769.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.475722222222224
-  lon: 17.154791666666664
-  altitude: 93.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 327.67
-  iso: 200
-  width: 2153
-  height: 1732
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 11:16:44.000000000+02:00
 - image_filename: 2021_09_12__10_18__9120665.jpg
   post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
   lat: 52.46688888888889
@@ -648,587 +17,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-12 10:18:04.000000000+02:00
-- image_filename: 2021_09_12__13_16_DSC07982.jpg
+- image_filename: 2021_09_12__10_19__9120668.jpg
   post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48348611111111
-  lon: 17.13051388888889
-  altitude: 96.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5918
-  height: 3937
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:16:00.000000000+02:00
-- image_filename: 2021_09_12__12_49_DSC07932.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.480875000000005
-  lon: 17.14123611111111
-  altitude: 85.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5694
-  height: 3788
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:49:45.000000000+02:00
-- image_filename: 2021_09_12__10_42__9120678.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.474291666666666
-  lon: 17.16701388888889
-  altitude: 92.0
-  focal_length: 17.0
-  focal_length_35: 34.0
+  lat: 52.46706944444445
+  lon: 17.16926388888889
+  altitude: 98.0
+  focal_length: 66.0
+  focal_length_35: 132.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:42:17.000000000+02:00
-- image_filename: 2021_09_12__11_18__9120785.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47573611111111
-  lon: 17.154777777777777
-  altitude: 94.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 327.67
-  iso: 200
-  width: 2738
-  height: 2098
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 11:18:30.000000000+02:00
-- image_filename: 2021_09_12__11_52_DSC07816.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47766666666667
-  lon: 17.14452777777778
-  altitude: 93.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 6043
-  height: 4020
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 11:52:23.000000000+02:00
-- image_filename: 2021_09_12__11_51__9120833.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47766666666667
-  lon: 17.14452777777778
-  altitude: 94.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1.5
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 11:51:00.000000000+02:00
-- image_filename: 2021_09_12__10_49__9120700.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47452777777778
-  lon: 17.164263888888886
-  altitude: 93.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 2.01
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-12 10:49:30.000000000+02:00
-- image_filename: 2021_09_12__11_54_DSC07828.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47768055555556
-  lon: 17.144541666666665
-  altitude: 94.0
-  focal_length: 59.0
-  focal_length_35: 59.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 5217
-  height: 3656
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 11:54:55.000000000+02:00
-- image_filename: 2021_09_12__13_13_DSC07979.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48338888888889
-  lon: 17.132944444444444
-  altitude: 92.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 200
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:13:03.000000000+02:00
-- image_filename: 2021_09_12__13_23_DSC07985.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48356944444445
-  lon: 17.128138888888888
-  altitude: 88.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 9.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  iso: 160
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:23:16.000000000+02:00
-- image_filename: 2021_09_12__11_50__9120831.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47768055555556
-  lon: 17.144541666666665
-  altitude: 94.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 33.38
-  iso: 200
-  width: 4827
-  height: 3583
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 11:50:14.000000000+02:00
-- image_filename: 2021_09_12__10_53__9120715.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47420833333334
-  lon: 17.16347222222222
-  altitude: 96.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5132
-  height: 3831
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:53:07.000000000+02:00
-- image_filename: 2021_09_12__13_55__9121003.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.488597222222225
-  lon: 17.112166666666667
-  altitude: 94.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.53
-  iso: 250
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 13:55:55.000000000+02:00
-- image_filename: 2021_09_12__13_26__9120972.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.483555555555554
-  lon: 17.128125
-  altitude: 88.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 308.4
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 13:26:56.000000000+02:00
-- image_filename: 2021_09_12__12_26__9120864.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47854166666667
-  lon: 17.141583333333333
-  altitude: 93.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 1.69
-  iso: 640
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 12:26:27.000000000+02:00
-- image_filename: 2021_09_12__13_54_DSC08008.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48822222222222
-  lon: 17.11273611111111
-  altitude: 91.0
-  focal_length: 35.0
-  focal_length_35: 35.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 5946
-  height: 3956
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:54:09.000000000+02:00
-- image_filename: 2021_09_12__10_52__9120711.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47434722222222
-  lon: 17.163777777777778
-  altitude: 95.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 2.53
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:52:38.000000000+02:00
-- image_filename: 2021_09_12__11_14__9120751.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47576388888889
-  lon: 17.154791666666664
-  altitude: 94.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 3253
-  height: 2196
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-12 11:14:34.000000000+02:00
-- image_filename: 2021_09_12__13_11_DSC07973.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48319444444444
-  lon: 17.134041666666665
-  altitude: 92.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:11:05.000000000+02:00
-- image_filename: 2021_09_12__12_54_DSC07940.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48086111111111
-  lon: 17.141180555555554
-  altitude: 86.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5971
-  height: 3973
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:54:27.000000000+02:00
-- image_filename: 2021_09_12__13_37__9120976.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48375
-  lon: 17.12322222222222
-  altitude: 90.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 3.61
-  iso: 200
-  width: 4286
-  height: 2822
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 13:37:06.000000000+02:00
-- image_filename: 2021_09_12__12_32__9120910.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.478625
-  lon: 17.14148611111111
-  altitude: 94.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.93
-  iso: 500
-  width: 4399
-  height: 3374
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 12:32:28.000000000+02:00
-- image_filename: 2021_09_12__12_44__9120961.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47923611111111
-  lon: 17.140333333333334
-  altitude: 92.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 14.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1.63
-  iso: 200
-  width: 4790
-  height: 3203
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 12:44:33.000000000+02:00
-- image_filename: 2021_09_12__10_53__9120718.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.474125
-  lon: 17.16259722222222
-  altitude: 93.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5158
-  height: 3851
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:53:57.000000000+02:00
-- image_filename: 2021_09_12__13_24_DSC07987.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.483555555555554
-  lon: 17.12811111111111
-  altitude: 89.0
-  focal_length: 54.0
-  focal_length_35: 54.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 6038
-  height: 4017
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:24:31.000000000+02:00
-- image_filename: 2021_09_12__10_56__9120723.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47470833333333
-  lon: 17.15986111111111
-  altitude: 95.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 126.03
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:56:52.000000000+02:00
-- image_filename: 2021_09_12__12_29__9120888.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47851388888889
-  lon: 17.141625
-  altitude: 93.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
+  aperture: 7.1
   exposure: 0.0025
   exposure_string: 1/400 s
-  focus_distance: 1.42
-  iso: 500
-  width: 4707
-  height: 3479
-  lens: M.300mm F4.0 + MC-20
+  focus_distance: 25.28
+  iso: 200
+  width: 4630
+  height: 3216
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-09-12 12:29:02.000000000+02:00
-- image_filename: 2021_09_12__13_03_DSC07950.jpg
+  time: 2021-09-12 10:19:18.000000000+02:00
+- image_filename: 2021_09_12__10_35__9120672.jpg
   post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48258333333334
-  lon: 17.138902777777776
-  altitude: 95.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6041
-  height: 4019
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:03:49.000000000+02:00
-- image_filename: 2021_09_12__10_41__9120677.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.474444444444444
-  lon: 17.16754166666667
-  altitude: 92.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.47477777777778
+  lon: 17.168305555555555
+  altitude: 98.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
   focus_distance: 1000.0
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-09-12 10:41:30.000000000+02:00
-- image_filename: 2021_09_12__13_00_DSC07945.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48218055555556
-  lon: 17.140819444444443
-  altitude: 88.0
-  focal_length: 48.0
-  focal_length_35: 48.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5983
-  height: 3981
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:00:26.000000000+02:00
-- image_filename: 2021_09_12__13_23__9120971.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48356944444445
-  lon: 17.128138888888888
-  altitude: 88.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 300.54
-  iso: 400
-  width: 4492
-  height: 2851
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 13:23:34.000000000+02:00
-- image_filename: 2021_09_12__12_08_DSC07909.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47763888888889
-  lon: 17.14452777777778
-  altitude: 91.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:08:15.000000000+02:00
-- image_filename: 2021_09_12__13_53__9120987.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48798611111111
-  lon: 17.113069444444445
-  altitude: 92.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.6
-  iso: 200
-  width: 3884
-  height: 2722
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 13:53:02.000000000+02:00
+  time: 2021-09-12 10:35:58.000000000+02:00
 - image_filename: 2021_09_12__10_36__9120673.jpg
   post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
   lat: 52.47475
@@ -1247,262 +71,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-12 10:36:17.000000000+02:00
-- image_filename: 2021_09_12__10_46__9120685.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47475
-  lon: 17.16511111111111
-  altitude: 95.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 266.33
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-12 10:46:32.000000000+02:00
-- image_filename: 2021_09_12__12_23__9120850.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1.49
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 12:23:16.000000000+02:00
-- image_filename: 2021_09_12__13_55__9121005.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48863888888889
-  lon: 17.112111111111112
-  altitude: 94.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.54
-  iso: 250
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 13:55:59.000000000+02:00
-- image_filename: 2021_09_12__12_29__9120898.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47851388888889
-  lon: 17.14161111111111
-  altitude: 93.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1.4
-  iso: 320
-  width: 5056
-  height: 3799
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 12:29:28.000000000+02:00
-- image_filename: 2021_09_12__15_49__9121008.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.09
-  iso: 200
-  width: 4809
-  height: 3309
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-09-12 15:49:19.000000000+02:00
-- image_filename: 2021_09_12__14_01_DSC08023.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.491569444444444
-  lon: 17.10815277777778
-  altitude: 100.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5907
-  height: 3930
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 14:01:48.000000000+02:00
-- image_filename: 2021_09_12__12_56_DSC07942.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48136111111111
-  lon: 17.14113888888889
-  altitude: 87.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:56:17.000000000+02:00
-- image_filename: 2021_09_12__11_51_DSC07804.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47768055555556
-  lon: 17.14452777777778
-  altitude: 93.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5831
-  height: 3879
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 11:51:53.000000000+02:00
-- image_filename: 2021_09_12__12_49_DSC07933.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.480875000000005
-  lon: 17.14125
-  altitude: 85.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5770
-  height: 3839
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:49:50.000000000+02:00
-- image_filename: 2021_09_12__12_07_DSC07887.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47763888888889
-  lon: 17.14452777777778
-  altitude: 91.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:07:27.000000000+02:00
-- image_filename: 2021_09_12__12_09_DSC07923.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.477625
-  lon: 17.14452777777778
-  altitude: 90.0
-  focal_length: 34.0
-  focal_length_35: 34.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 5698
-  height: 3791
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:09:46.000000000+02:00
-- image_filename: 2021_09_12__13_58_DSC08019.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.48994444444445
-  lon: 17.110305555555556
-  altitude: 98.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 13:58:29.000000000+02:00
-- image_filename: 2021_09_12__12_49_DSC07931.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.480875000000005
-  lon: 17.14123611111111
-  altitude: 85.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5694
-  height: 3788
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-12 12:49:32.000000000+02:00
-- image_filename: 2021_09_12__11_47__9120829.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.477611111111116
-  lon: 17.144583333333333
-  altitude: 97.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5103
-  height: 3810
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 11:47:38.000000000+02:00
-- image_filename: 2021_09_12__10_58__9120724.jpg
-  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
-  lat: 52.47552777777778
-  lon: 17.159180555555555
-  altitude: 93.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 66.07
-  iso: 200
-  width: 3912
-  height: 5240
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-12 10:58:48.000000000+02:00
 - image_filename: 2021_09_12__10_36__9120674.jpg
   post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
   lat: 52.474763888888894
@@ -1521,6 +89,1005 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-12 10:36:42.000000000+02:00
+- image_filename: 2021_09_12__10_41__9120677.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.474444444444444
+  lon: 17.16754166666667
+  altitude: 92.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 10:41:30.000000000+02:00
+- image_filename: 2021_09_12__10_42__9120678.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.474291666666666
+  lon: 17.16701388888889
+  altitude: 92.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 10:42:17.000000000+02:00
+- image_filename: 2021_09_12__10_42__9120680.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47430555555556
+  lon: 17.166833333333333
+  altitude: 92.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 21.64
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 10:42:47.000000000+02:00
+- image_filename: 2021_09_12__10_43__9120681.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47466666666667
+  lon: 17.16623611111111
+  altitude: 95.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 10:43:37.000000000+02:00
+- image_filename: 2021_09_12__10_45__9120683.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.474805555555555
+  lon: 17.165263888888887
+  altitude: 95.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 327.67
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-12 10:45:46.000000000+02:00
+- image_filename: 2021_09_12__10_46__9120685.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47475
+  lon: 17.16511111111111
+  altitude: 95.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 266.33
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-12 10:46:32.000000000+02:00
+- image_filename: 2021_09_12__10_46__9120687.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.474722222222226
+  lon: 17.165027777777777
+  altitude: 95.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 285.87
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-12 10:46:54.000000000+02:00
+- image_filename: 2021_09_12__10_47__9120689.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.474555555555554
+  lon: 17.164555555555555
+  altitude: 92.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3858
+  height: 5167
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-12 10:47:38.000000000+02:00
+- image_filename: 2021_09_12__10_49__9120700.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47452777777778
+  lon: 17.164263888888886
+  altitude: 93.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.01
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-12 10:49:30.000000000+02:00
+- image_filename: 2021_09_12__10_52__9120711.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47434722222222
+  lon: 17.163777777777778
+  altitude: 95.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.53
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 10:52:38.000000000+02:00
+- image_filename: 2021_09_12__10_53__9120715.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47420833333334
+  lon: 17.16347222222222
+  altitude: 96.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5132
+  height: 3831
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 10:53:07.000000000+02:00
+- image_filename: 2021_09_12__10_53__9120718.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.474125
+  lon: 17.16259722222222
+  altitude: 93.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5158
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 10:53:57.000000000+02:00
+- image_filename: 2021_09_12__10_56__9120723.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47470833333333
+  lon: 17.15986111111111
+  altitude: 95.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 126.03
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 10:56:52.000000000+02:00
+- image_filename: 2021_09_12__10_58__9120724.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47552777777778
+  lon: 17.159180555555555
+  altitude: 93.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 66.07
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 10:58:48.000000000+02:00
+- image_filename: 2021_09_12__11_05__9120734.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.475236111111116
+  lon: 17.159541666666666
+  altitude: 92.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.04
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-12 11:05:19.000000000+02:00
+- image_filename: 2021_09_12__11_06__9120743.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47519444444445
+  lon: 17.159416666666665
+  altitude: 93.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.07
+  iso: 200
+  width: 4879
+  height: 3416
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-12 11:06:17.000000000+02:00
+- image_filename: 2021_09_12__11_14__9120751.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47576388888889
+  lon: 17.154791666666664
+  altitude: 94.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3253
+  height: 2196
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-12 11:14:34.000000000+02:00
+- image_filename: 2021_09_12__11_16__9120769.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.475722222222224
+  lon: 17.154791666666664
+  altitude: 93.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 327.67
+  iso: 200
+  width: 2153
+  height: 1732
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 11:16:44.000000000+02:00
+- image_filename: 2021_09_12__11_18__9120785.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47573611111111
+  lon: 17.154777777777777
+  altitude: 94.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 327.67
+  iso: 200
+  width: 2738
+  height: 2098
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 11:18:30.000000000+02:00
+- image_filename: 2021_09_12__11_36__9120818.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47615277777778
+  lon: 17.150291666666664
+  altitude: 95.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.57
+  iso: 200
+  width: 5131
+  height: 3661
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 11:36:18.000000000+02:00
+- image_filename: 2021_09_12__11_47__9120829.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.477611111111116
+  lon: 17.144583333333333
+  altitude: 97.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5103
+  height: 3810
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-12 11:47:38.000000000+02:00
+- image_filename: 2021_09_12__11_49_DSC07765.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47766666666667
+  lon: 17.144541666666665
+  altitude: 94.0
+  focal_length: 30.0
+  focal_length_35: 30.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 5885
+  height: 3915
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 11:49:56.000000000+02:00
+- image_filename: 2021_09_12__11_50__9120831.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47768055555556
+  lon: 17.144541666666665
+  altitude: 94.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 33.38
+  iso: 200
+  width: 4827
+  height: 3583
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 11:50:14.000000000+02:00
+- image_filename: 2021_09_12__11_51_DSC07804.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47768055555556
+  lon: 17.14452777777778
+  altitude: 93.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5831
+  height: 3879
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 11:51:53.000000000+02:00
+- image_filename: 2021_09_12__11_51__9120833.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47766666666667
+  lon: 17.14452777777778
+  altitude: 94.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.5
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 11:51:00.000000000+02:00
+- image_filename: 2021_09_12__11_52_DSC07807.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47768055555556
+  lon: 17.14452777777778
+  altitude: 93.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 11:52:00.000000000+02:00
+- image_filename: 2021_09_12__11_52_DSC07813.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47766666666667
+  lon: 17.14452777777778
+  altitude: 93.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 11:52:19.000000000+02:00
+- image_filename: 2021_09_12__11_52_DSC07816.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47766666666667
+  lon: 17.14452777777778
+  altitude: 93.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 6043
+  height: 4020
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 11:52:23.000000000+02:00
+- image_filename: 2021_09_12__11_54_DSC07828.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47768055555556
+  lon: 17.144541666666665
+  altitude: 94.0
+  focal_length: 59.0
+  focal_length_35: 59.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5217
+  height: 3656
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 11:54:55.000000000+02:00
+- image_filename: 2021_09_12__12_05_DSC07869.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47763888888889
+  lon: 17.144513888888888
+  altitude: 91.0
+  focal_length: 46.0
+  focal_length_35: 46.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:05:17.000000000+02:00
+- image_filename: 2021_09_12__12_06_DSC07874.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.477625
+  lon: 17.144513888888888
+  altitude: 91.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 5460
+  height: 3590
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:06:09.000000000+02:00
+- image_filename: 2021_09_12__12_07_DSC07882.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47763888888889
+  lon: 17.144513888888888
+  altitude: 91.0
+  focal_length: 60.0
+  focal_length_35: 60.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:07:01.000000000+02:00
+- image_filename: 2021_09_12__12_07_DSC07887.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47763888888889
+  lon: 17.14452777777778
+  altitude: 91.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:07:27.000000000+02:00
+- image_filename: 2021_09_12__12_07_DSC07897.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47763888888889
+  lon: 17.14452777777778
+  altitude: 91.0
+  focal_length: 67.0
+  focal_length_35: 67.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:07:44.000000000+02:00
+- image_filename: 2021_09_12__12_07_DSC07900.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47763888888889
+  lon: 17.14452777777778
+  altitude: 91.0
+  focal_length: 61.0
+  focal_length_35: 61.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:07:47.000000000+02:00
+- image_filename: 2021_09_12__12_08_DSC07909.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47763888888889
+  lon: 17.14452777777778
+  altitude: 91.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:08:15.000000000+02:00
+- image_filename: 2021_09_12__12_08_DSC07917.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47763888888889
+  lon: 17.14452777777778
+  altitude: 91.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:08:35.000000000+02:00
+- image_filename: 2021_09_12__12_09_DSC07923.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.477625
+  lon: 17.14452777777778
+  altitude: 90.0
+  focal_length: 34.0
+  focal_length_35: 34.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5698
+  height: 3791
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:09:46.000000000+02:00
+- image_filename: 2021_09_12__12_23__9120850.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.49
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:23:16.000000000+02:00
+- image_filename: 2021_09_12__12_24__9120856.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47847222222222
+  lon: 17.141805555555557
+  altitude: 95.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.57
+  iso: 200
+  width: 3933
+  height: 2803
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:24:33.000000000+02:00
+- image_filename: 2021_09_12__12_26__9120864.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47854166666667
+  lon: 17.141583333333333
+  altitude: 93.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1.69
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:26:27.000000000+02:00
+- image_filename: 2021_09_12__12_29__9120888.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47851388888889
+  lon: 17.141625
+  altitude: 93.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.42
+  iso: 500
+  width: 4707
+  height: 3479
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:29:02.000000000+02:00
+- image_filename: 2021_09_12__12_29__9120898.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47851388888889
+  lon: 17.14161111111111
+  altitude: 93.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.4
+  iso: 320
+  width: 5056
+  height: 3799
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:29:28.000000000+02:00
+- image_filename: 2021_09_12__12_31__9120907.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47854166666667
+  lon: 17.14161111111111
+  altitude: 94.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.89
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:31:59.000000000+02:00
+- image_filename: 2021_09_12__12_32__9120910.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.478625
+  lon: 17.14148611111111
+  altitude: 94.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.93
+  iso: 500
+  width: 4399
+  height: 3374
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:32:28.000000000+02:00
+- image_filename: 2021_09_12__12_33__9120915.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.478680555555556
+  lon: 17.141402777777778
+  altitude: 93.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.65
+  iso: 250
+  width: 4227
+  height: 3193
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:33:30.000000000+02:00
+- image_filename: 2021_09_12__12_42_DSC07927.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47913888888889
+  lon: 17.140527777777777
+  altitude: 91.0
+  focal_length: 58.0
+  focal_length_35: 58.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:42:07.000000000+02:00
+- image_filename: 2021_09_12__12_44__9120961.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47923611111111
+  lon: 17.140333333333334
+  altitude: 92.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 14.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.63
+  iso: 200
+  width: 4790
+  height: 3203
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:44:33.000000000+02:00
+- image_filename: 2021_09_12__12_44__9120963.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.47931944444445
+  lon: 17.14023611111111
+  altitude: 92.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 13.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.63
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 12:44:41.000000000+02:00
+- image_filename: 2021_09_12__12_49_DSC07931.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.480875000000005
+  lon: 17.14123611111111
+  altitude: 85.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5694
+  height: 3788
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:49:32.000000000+02:00
+- image_filename: 2021_09_12__12_49_DSC07932.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.480875000000005
+  lon: 17.14123611111111
+  altitude: 85.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5694
+  height: 3788
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:49:45.000000000+02:00
+- image_filename: 2021_09_12__12_49_DSC07933.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.480875000000005
+  lon: 17.14125
+  altitude: 85.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5770
+  height: 3839
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:49:50.000000000+02:00
+- image_filename: 2021_09_12__12_50_DSC07934.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.480875000000005
+  lon: 17.14125
+  altitude: 85.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5939
+  height: 3951
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:50:04.000000000+02:00
+- image_filename: 2021_09_12__12_51_DSC07937.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48083333333334
+  lon: 17.141152777777776
+  altitude: 84.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 4022
+  height: 6046
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:51:21.000000000+02:00
+- image_filename: 2021_09_12__12_54_DSC07940.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48086111111111
+  lon: 17.141180555555554
+  altitude: 86.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5971
+  height: 3973
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:54:27.000000000+02:00
+- image_filename: 2021_09_12__12_56_DSC07942.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48136111111111
+  lon: 17.14113888888889
+  altitude: 87.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 12:56:17.000000000+02:00
+- image_filename: 2021_09_12__13_00_DSC07945.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48218055555556
+  lon: 17.140819444444443
+  altitude: 88.0
+  focal_length: 48.0
+  focal_length_35: 48.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5983
+  height: 3981
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:00:26.000000000+02:00
 - image_filename: 2021_09_12__13_00_DSC07946.jpg
   post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
   lat: 52.48216666666667
@@ -1538,6 +1105,57 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-09-12 13:00:32.000000000+02:00
+- image_filename: 2021_09_12__13_03_DSC07950.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48258333333334
+  lon: 17.138902777777776
+  altitude: 95.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6041
+  height: 4019
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:03:49.000000000+02:00
+- image_filename: 2021_09_12__13_03_DSC07951.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.482569444444444
+  lon: 17.138833333333334
+  altitude: 95.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 5789
+  height: 3851
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:03:56.000000000+02:00
+- image_filename: 2021_09_12__13_05_DSC07952.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.482888888888894
+  lon: 17.138194444444444
+  altitude: 95.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 4024
+  height: 6048
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:05:25.000000000+02:00
 - image_filename: 2021_09_12__13_05_DSC07953.jpg
   post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
   lat: 52.482958333333336
@@ -1555,6 +1173,196 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-09-12 13:05:30.000000000+02:00
+- image_filename: 2021_09_12__13_06_DSC07958.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.483125
+  lon: 17.137319444444444
+  altitude: 92.0
+  focal_length: 30.0
+  focal_length_35: 30.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:06:41.000000000+02:00
+- image_filename: 2021_09_12__13_11_DSC07973.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48319444444444
+  lon: 17.134041666666665
+  altitude: 92.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:11:05.000000000+02:00
+- image_filename: 2021_09_12__13_12_DSC07977.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48334722222222
+  lon: 17.13313888888889
+  altitude: 93.0
+  focal_length: 44.0
+  focal_length_35: 44.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 4024
+  height: 6048
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:12:29.000000000+02:00
+- image_filename: 2021_09_12__13_13_DSC07979.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48338888888889
+  lon: 17.132944444444444
+  altitude: 92.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:13:03.000000000+02:00
+- image_filename: 2021_09_12__13_16_DSC07982.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48348611111111
+  lon: 17.13051388888889
+  altitude: 96.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5918
+  height: 3937
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:16:00.000000000+02:00
+- image_filename: 2021_09_12__13_23_DSC07985.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48356944444445
+  lon: 17.128138888888888
+  altitude: 88.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:23:16.000000000+02:00
+- image_filename: 2021_09_12__13_23__9120971.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48356944444445
+  lon: 17.128138888888888
+  altitude: 88.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 300.54
+  iso: 400
+  width: 4492
+  height: 2851
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 13:23:34.000000000+02:00
+- image_filename: 2021_09_12__13_24_DSC07987.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.483555555555554
+  lon: 17.12811111111111
+  altitude: 89.0
+  focal_length: 54.0
+  focal_length_35: 54.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6038
+  height: 4017
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:24:31.000000000+02:00
+- image_filename: 2021_09_12__13_26_DSC07990.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.483555555555554
+  lon: 17.12815277777778
+  altitude: 87.0
+  focal_length: 71.0
+  focal_length_35: 71.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5915
+  height: 3935
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:26:25.000000000+02:00
+- image_filename: 2021_09_12__13_26__9120972.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.483555555555554
+  lon: 17.128125
+  altitude: 88.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 308.4
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 13:26:56.000000000+02:00
+- image_filename: 2021_09_12__13_37__9120976.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48375
+  lon: 17.12322222222222
+  altitude: 90.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.61
+  iso: 200
+  width: 4286
+  height: 2822
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 13:37:06.000000000+02:00
 - image_filename: 2021_09_12__13_38_DSC07996.jpg
   post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
   lat: 52.484430555555555
@@ -1572,3 +1380,193 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-09-12 13:38:50.000000000+02:00
+- image_filename: 2021_09_12__13_43_DSC07998.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48601388888889
+  lon: 17.117041666666665
+  altitude: 90.0
+  focal_length: 37.0
+  focal_length_35: 37.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:43:09.000000000+02:00
+- image_filename: 2021_09_12__13_47_DSC08001.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.487069444444444
+  lon: 17.114375000000003
+  altitude: 90.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:47:12.000000000+02:00
+- image_filename: 2021_09_12__13_52__9120982.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.487944444444445
+  lon: 17.113097222222223
+  altitude: 91.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.5
+  iso: 200
+  width: 4432
+  height: 3443
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 13:52:23.000000000+02:00
+- image_filename: 2021_09_12__13_53__9120987.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48798611111111
+  lon: 17.113069444444445
+  altitude: 92.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.6
+  iso: 200
+  width: 3884
+  height: 2722
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 13:53:02.000000000+02:00
+- image_filename: 2021_09_12__13_54_DSC08008.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48822222222222
+  lon: 17.11273611111111
+  altitude: 91.0
+  focal_length: 35.0
+  focal_length_35: 35.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 5946
+  height: 3956
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:54:09.000000000+02:00
+- image_filename: 2021_09_12__13_55__9120994.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48820833333333
+  lon: 17.11273611111111
+  altitude: 92.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.04
+  iso: 200
+  width: 5023
+  height: 3474
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 13:55:13.000000000+02:00
+- image_filename: 2021_09_12__13_55__9121003.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.488597222222225
+  lon: 17.112166666666667
+  altitude: 94.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.53
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 13:55:55.000000000+02:00
+- image_filename: 2021_09_12__13_55__9121005.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48863888888889
+  lon: 17.112111111111112
+  altitude: 94.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.54
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 13:55:59.000000000+02:00
+- image_filename: 2021_09_12__13_58_DSC08019.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.48994444444445
+  lon: 17.110305555555556
+  altitude: 98.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 13:58:29.000000000+02:00
+- image_filename: 2021_09_12__14_01_DSC08023.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  lat: 52.491569444444444
+  lon: 17.10815277777778
+  altitude: 100.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5907
+  height: 3930
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-12 14:01:48.000000000+02:00
+- image_filename: 2021_09_12__15_49__9121008.jpg
+  post_slug: 2021-09-12-poludniowy-brzeg-jeziora-kowalskiego
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.09
+  iso: 200
+  width: 4809
+  height: 3309
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-09-12 15:49:19.000000000+02:00

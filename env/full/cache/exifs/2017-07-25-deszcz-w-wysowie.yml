@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-07-25-deszcz-w-wysowie
-  lat: 49.447125
-  lon: 21.13573611111111
-  altitude: 633.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-07-25 16:24:14+02:00
 - image_filename: IMGP9037raw1.jpg
   post_slug: 2017-07-25-deszcz-w-wysowie
   lat: 49.471250000000005
@@ -22,81 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2017-07-25 15:38:23+02:00
-- image_filename: IMGP9041raw1.jpg
-  post_slug: 2017-07-25-deszcz-w-wysowie
-  lat: 49.47031944444445
-  lon: 21.152666666666665
-  altitude: 508.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-07-25 15:40:33+02:00
-- image_filename: IMGP9052raw1.jpg
-  post_slug: 2017-07-25-deszcz-w-wysowie
-  lat: 49.46673611111111
-  lon: 21.13115277777778
-  altitude: 525.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-25 15:51:47+02:00
-- image_filename: IMGP9076raw1.jpg
-  post_slug: 2017-07-25-deszcz-w-wysowie
-  lat: 49.45223611111111
-  lon: 21.130069444444445
-  altitude: 593.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-25 16:17:01+02:00
-- image_filename: IMGP9084raw1.jpg
-  post_slug: 2017-07-25-deszcz-w-wysowie
-  lat: 49.445652777777774
-  lon: 21.13873611111111
-  altitude: 653.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-25 16:27:30+02:00
-- image_filename: IMGP9073raw1.jpg
-  post_slug: 2017-07-25-deszcz-w-wysowie
-  lat: 49.45225
-  lon: 21.130027777777777
-  altitude: 593.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-25 16:16:44+02:00
+  time: 2017-07-25 15:38:23.000000000+02:00
 - image_filename: IMGP9038raw1.jpg
   post_slug: 2017-07-25-deszcz-w-wysowie
   lat: 49.471250000000005
@@ -106,53 +22,39 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2017-07-25 15:38:29+02:00
-- image_filename: IMGP9082raw1.jpg
-  post_slug: 2017-07-25-deszcz-w-wysowie
-  lat: 49.447125
-  lon: 21.13573611111111
-  altitude: 633.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-07-25 16:24:14+02:00
-- image_filename: IMGP9065raw1.jpg
+  time: 2017-07-25 15:38:29.000000000+02:00
+- image_filename: IMGP9041raw1.jpg
   post_slug: 2017-07-25-deszcz-w-wysowie
-  lat: 49.45365277777778
-  lon: 21.128347222222224
-  altitude: 582.0
+  lat: 49.47031944444445
+  lon: 21.152666666666665
+  altitude: 508.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-25 15:40:33.000000000+02:00
+- image_filename: IMGP9052raw1.jpg
+  post_slug: 2017-07-25-deszcz-w-wysowie
+  lat: 49.46673611111111
+  lon: 21.13115277777778
+  altitude: 525.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
   iso: 320
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-25 16:11:14+02:00
-- image_filename: IMGP9086raw1.jpg
-  post_slug: 2017-07-25-deszcz-w-wysowie
-  lat: 49.44563888888889
-  lon: 21.13872222222222
-  altitude: 653.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-25 16:27:43+02:00
+  time: 2017-07-25 15:51:47.000000000+02:00
 - image_filename: IMGP9054raw1.jpg
   post_slug: 2017-07-25-deszcz-w-wysowie
   lat: 49.45997222222223
@@ -162,11 +64,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.0
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
-  time: 2017-07-25 15:59:47+02:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-07-25 15:59:47.000000000+02:00
 - image_filename: IMGP9064raw1.jpg
   post_slug: 2017-07-25-deszcz-w-wysowie
   lat: 49.45365277777778
@@ -176,8 +78,106 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-07-25 16:11:08+02:00
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-07-25 16:11:08.000000000+02:00
+- image_filename: IMGP9065raw1.jpg
+  post_slug: 2017-07-25-deszcz-w-wysowie
+  lat: 49.45365277777778
+  lon: 21.128347222222224
+  altitude: 582.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-07-25 16:11:14.000000000+02:00
+- image_filename: IMGP9073raw1.jpg
+  post_slug: 2017-07-25-deszcz-w-wysowie
+  lat: 49.45225
+  lon: 21.130027777777777
+  altitude: 593.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-25 16:16:44.000000000+02:00
+- image_filename: IMGP9076raw1.jpg
+  post_slug: 2017-07-25-deszcz-w-wysowie
+  lat: 49.45223611111111
+  lon: 21.130069444444445
+  altitude: 593.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-25 16:17:01.000000000+02:00
+- image_filename: IMGP9082raw1.jpg
+  post_slug: 2017-07-25-deszcz-w-wysowie
+  lat: 49.447125
+  lon: 21.13573611111111
+  altitude: 633.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-25 16:24:14.000000000+02:00
+- image_filename: IMGP9084raw1.jpg
+  post_slug: 2017-07-25-deszcz-w-wysowie
+  lat: 49.445652777777774
+  lon: 21.13873611111111
+  altitude: 653.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-07-25 16:27:30.000000000+02:00
+- image_filename: IMGP9086raw1.jpg
+  post_slug: 2017-07-25-deszcz-w-wysowie
+  lat: 49.44563888888889
+  lon: 21.13872222222222
+  altitude: 653.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-25 16:27:43.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-07-25-deszcz-w-wysowie
+  lat: 49.447125
+  lon: 21.13573611111111
+  altitude: 633.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-25 16:24:14.000000000+02:00

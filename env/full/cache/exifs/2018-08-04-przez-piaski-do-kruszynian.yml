@@ -1,634 +1,4 @@
 ---
-- image_filename: P8040651.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.169152777777775
-  lon: 23.810944444444445
-  altitude: 153.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4321
-  height: 3232
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-04 17:51:45+02:00
-  focus_distance: 1000.0
-- image_filename: P8040390.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21090277777778
-  lon: 23.455277777777777
-  altitude: 124.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4436
-  height: 3318
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-04 07:43:48+02:00
-  focus_distance: 118.14
-- image_filename: P8040417.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21311111111111
-  lon: 23.460013888888888
-  altitude: 121.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4588
-  height: 3432
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-08-04 07:53:26+02:00
-  focus_distance: 1000.0
-- image_filename: P8040432.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21259722222222
-  lon: 23.459125
-  altitude: 125.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4434
-  height: 3263
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-04 07:57:42+02:00
-  focus_distance: 16.99
-- image_filename: P8040488.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.223847222222226
-  lon: 23.464555555555556
-  altitude: 142.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4440
-  height: 3321
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-04 10:37:28+02:00
-  focus_distance: 1000.0
-- image_filename: P8040495.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.22720833333334
-  lon: 23.470069444444444
-  altitude: 148.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4538
-  height: 3394
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-08-04 10:44:04+02:00
-  focus_distance: 1000.0
-- image_filename: P8040497.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.19566666666666
-  lon: 23.508152777777777
-  altitude: 152.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-04 11:10:41+02:00
-  focus_distance: 56.85
-- image_filename: P8040505.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.17366666666666
-  lon: 23.531069444444444
-  altitude: 139.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-04 11:30:09+02:00
-  focus_distance: 1000.0
-- image_filename: P8040513.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.15847222222222
-  lon: 23.545722222222224
-  altitude: 140.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4508
-  height: 3372
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-04 11:44:12+02:00
-  focus_distance: 67.67
-- image_filename: P8040532.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.108583333333335
-  lon: 23.64948611111111
-  altitude: 149.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4443
-  height: 3382
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-04 12:37:32+02:00
-  focus_distance: 1000.0
-- image_filename: P8040536.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.11501388888889
-  lon: 23.716305555555554
-  altitude: 171.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-04 13:59:27+02:00
-  focus_distance: 24.36
-- image_filename: P8040557.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.11197222222222
-  lon: 23.73640277777778
-  altitude: 169.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4422
-  height: 3308
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-04 14:21:46+02:00
-  focus_distance: 0.93
-- image_filename: P8040625.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.11951388888889
-  lon: 23.722666666666665
-  altitude: 163.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-04 16:54:07+02:00
-  focus_distance: 39.12
-- image_filename: P8040642.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.166125
-  lon: 23.795597222222224
-  altitude: 158.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-04 17:43:21+02:00
-  focus_distance: 1000.0
-- image_filename: P8040654.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 1.7
-  iso: 250
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-08-04 18:21:22+02:00
-  focus_distance: 129.16
-- image_filename: P8040668.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4506
-  height: 3308
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-04 18:37:41+02:00
-  focus_distance: 10.62
-- image_filename: P8040750.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.17794444444444
-  lon: 23.813319444444446
-  altitude: 147.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 3980
-  height: 3036
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2018-08-04 19:47:02+02:00
-  focus_distance: 40.6
-- image_filename: P8040460.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 1.7
-  iso: 800
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-08-04 09:21:24+02:00
-  focus_distance: 0.23
-- image_filename: P8040734.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.18311111111111
-  lon: 23.81426388888889
-  altitude: 141.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-08-04 19:29:52+02:00
-  focus_distance: 7.51
-- image_filename: P8040427.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21281944444445
-  lon: 23.459611111111112
-  altitude: 123.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-04 07:55:58+02:00
-  focus_distance: 6.2
-- image_filename: P8040386.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21079166666667
-  lon: 23.45525
-  altitude: 124.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-04 07:42:53+02:00
-  focus_distance: 12.94
-- image_filename: P8040392.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21106944444445
-  lon: 23.455513888888888
-  altitude: 124.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-04 07:44:45+02:00
-  focus_distance: 12.36
-- image_filename: P8040404.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.212375
-  lon: 23.45852777777778
-  altitude: 125.0
-  focal_length: 10.0
-  focal_length_35: 20.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.9-18mm F4.0-5.6
-  camera: E-M10MarkII
-  width: 4337
-  height: 3412
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-04 07:49:40+02:00
-  focus_distance: 1000.0
-- image_filename: P8040720.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-08-04 19:13:27+02:00
-  focus_distance: 0.29
-- image_filename: P8040430.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21279166666667
-  lon: 23.45948611111111
-  altitude: 123.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-04 07:56:49+02:00
-  focus_distance: 12.2
-- image_filename: P8040504.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.18173611111111
-  lon: 23.52477777777778
-  altitude: 140.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-04 11:21:00+02:00
-  focus_distance: 1000.0
-- image_filename: P8040494.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.22720833333334
-  lon: 23.47
-  altitude: 148.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-04 10:43:49+02:00
-  focus_distance: 1000.0
-- image_filename: P8040656.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 1.7
-  iso: 320
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-08-04 18:21:48+02:00
-  focus_distance: 7.59
-- image_filename: P8040603.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.11181944444444
-  lon: 23.73623611111111
-  altitude: 181.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-04 16:35:55+02:00
-  focus_distance: 0.83
-- image_filename: P8040519.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.14202777777778
-  lon: 23.582930555555556
-  altitude: 156.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-04 12:05:16+02:00
-  focus_distance: 0.28
-- image_filename: P8040490.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.224583333333335
-  lon: 23.466208333333334
-  altitude: 144.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4416
-  height: 3303
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-04 10:38:04+02:00
-  focus_distance: 1000.0
-- image_filename: P8040553.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.111916666666666
-  lon: 23.736555555555558
-  altitude: 168.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 3448
-  height: 4611
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-04 14:20:18+02:00
-  focus_distance: 1.2
-- image_filename: P8040425.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21288888888889
-  lon: 23.459791666666668
-  altitude: 122.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4519
-  height: 3380
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-04 07:55:32+02:00
-  focus_distance: 12.41
-- image_filename: P8040620.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.11183333333334
-  lon: 23.73626388888889
-  altitude: 180.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 1.7
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 3668
-  height: 2743
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-08-04 16:37:42+02:00
-  focus_distance: 1.05
-- image_filename: P8040397.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21194444444445
-  lon: 23.45711111111111
-  altitude: 124.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-04 07:47:09+02:00
-  focus_distance: 11.99
-- image_filename: P8040653.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 3994
-  height: 3026
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-04 18:21:09+02:00
-  focus_distance: 1000.0
 - image_filename: P8040383.jpg
   post_slug: 2018-08-04-przez-piaski-do-kruszynian
   lat: 53.21002777777778
@@ -638,279 +8,33 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
   iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
   width: 4489
   height: 3357
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-04 07:41:12+02:00
-  focus_distance: 1000.0
-- image_filename: P8040498.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.182694444444444
-  lon: 23.525180555555554
-  altitude: 142.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-04 11:20:18+02:00
-  focus_distance: 1000.0
-- image_filename: P8040667.jpg
+  time: 2018-08-04 07:41:12.000000000+02:00
+- image_filename: P8040386.jpg
   post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4405
-  height: 3324
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-04 18:37:27+02:00
-  focus_distance: 8.94
-- image_filename: P8040722.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-04 19:13:33+02:00
-  focus_distance: 0.3
-- image_filename: P8040664.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4587
-  height: 3403
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-04 18:36:53+02:00
-  focus_distance: 10.99
-- image_filename: P8040415.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21311111111111
-  lon: 23.46002777777778
-  altitude: 121.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-04 07:53:05+02:00
-  focus_distance: 1000.0
-- image_filename: P8040644.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.16705555555556
-  lon: 23.79788888888889
-  altitude: 158.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4487
-  height: 3356
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-04 17:45:28+02:00
-  focus_distance: 1000.0
-- image_filename: P8040725.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.18508333333333
-  lon: 23.814458333333334
-  altitude: 140.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4519
-  height: 3378
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-04 19:26:35+02:00
-  focus_distance: 50.15
-- image_filename: P8040669.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4570
-  height: 3459
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-08-04 18:37:46+02:00
-  focus_distance: 10.99
-- image_filename: P8040445.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.211666666666666
-  lon: 23.456416666666666
-  altitude: 124.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-04 08:01:51+02:00
-  focus_distance: 1000.0
-- image_filename: P8040703.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2018-08-04 19:05:15+02:00
-  focus_distance: 3.88
-- image_filename: P8040662.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4564
-  height: 3378
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-04 18:36:35+02:00
-  focus_distance: 4.68
-- image_filename: P8040713.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-04 19:12:21+02:00
-  focus_distance: 3.96
-- image_filename: P8040418.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.21313888888889
-  lon: 23.46002777777778
-  altitude: 121.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-04 07:53:44+02:00
-  focus_distance: 1000.0
-- image_filename: P8040689.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-08-04 19:00:11+02:00
-  focus_distance: 4.39
-- image_filename: P8040399.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.212
-  lon: 23.457277777777776
+  lat: 53.21079166666667
+  lon: 23.45525
   altitude: 124.0
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 12.94
   iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4618
-  height: 3463
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-04 07:47:26+02:00
-  focus_distance: 10.78
-- image_filename: P8040631.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.120305555555554
-  lon: 23.72370833333333
-  altitude: 162.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-04 16:55:17+02:00
-  focus_distance: 1000.0
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 07:42:53.000000000+02:00
 - image_filename: P8040388.jpg
   post_slug: 2018-08-04-przez-piaski-do-kruszynian
   lat: 53.21080555555556
@@ -920,201 +44,69 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2018-08-04 07:43:27+02:00
   focus_distance: 8.78
-- image_filename: P8040501.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.18175
-  lon: 23.524791666666665
-  altitude: 140.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
   iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4332
-  height: 3240
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-04 11:20:47+02:00
-  focus_distance: 1000.0
-- image_filename: P8040511.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.15906944444444
-  lon: 23.544694444444445
-  altitude: 142.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4599
-  height: 3457
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-04 11:43:58+02:00
-  focus_distance: 8.94
-- image_filename: P8040640.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.14120833333333
-  lon: 23.75347222222222
-  altitude: 187.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4351
-  height: 3254
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-04 17:23:30+02:00
-  focus_distance: 1000.0
-- image_filename: P8040671.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4522
-  height: 3311
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-04 18:38:11+02:00
-  focus_distance: 10.73
-- image_filename: P8040562.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.111986111111115
-  lon: 23.736416666666667
-  altitude: 169.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-04 14:21:55+02:00
-  focus_distance: 0.72
-- image_filename: P8040674.jpg
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 07:43:27.000000000+02:00
+- image_filename: P8040390.jpg
   post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.21090277777778
+  lon: 23.455277777777777
+  altitude: 124.0
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
-  aperture: 2.8
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 118.14
   iso: 200
+  width: 4436
+  height: 3318
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
-  width: 3407
-  height: 4592
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-04 18:38:44+02:00
-  focus_distance: 4.68
-- image_filename: P8040744.jpg
+  time: 2018-08-04 07:43:48.000000000+02:00
+- image_filename: P8040392.jpg
   post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.181805555555556
-  lon: 23.818541666666665
-  altitude: 152.0
-  focal_length: 20.0
-  focal_length_35: 40.0
+  lat: 53.21106944444445
+  lon: 23.455513888888888
+  altitude: 124.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 12.36
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 07:44:45.000000000+02:00
+- image_filename: P8040397.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.21194444444445
+  lon: 23.45711111111111
+  altitude: 124.0
+  focal_length: 60.0
+  focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.99
   iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4492
-  height: 3264
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-08-04 19:41:07+02:00
-  focus_distance: 30.24
-- image_filename: P8040545.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.11276388888889
-  lon: 23.731444444444442
-  altitude: 165.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4350
-  height: 3342
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-04 14:08:39+02:00
-  focus_distance: 1000.0
-- image_filename: P8040461.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 1.7
-  iso: 800
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-08-04 09:21:30+02:00
-  focus_distance: 0.29
-- image_filename: P8040699_01.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
-  width: 4413
-  height: 3300
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-04 19:01:31+02:00
-  focus_distance: 2.14
-- image_filename: P8040627.jpg
-  post_slug: 2018-08-04-przez-piaski-do-kruszynian
-  lat: 53.120194444444444
-  lon: 23.723569444444443
-  altitude: 163.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 3532
-  height: 2641
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-08-04 16:54:31+02:00
-  focus_distance: 21.86
+  time: 2018-08-04 07:47:09.000000000+02:00
 - image_filename: P8040398.jpg
   post_slug: 2018-08-04-przez-piaski-do-kruszynian
   lat: 53.21194444444445
@@ -1124,12 +116,1020 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2018-08-04 07:47:14+02:00
   focus_distance: 12.78
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 07:47:14.000000000+02:00
+- image_filename: P8040399.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.212
+  lon: 23.457277777777776
+  altitude: 124.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 10.78
+  iso: 200
+  width: 4618
+  height: 3463
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 07:47:26.000000000+02:00
+- image_filename: P8040404.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.212375
+  lon: 23.45852777777778
+  altitude: 125.0
+  focal_length: 10.0
+  focal_length_35: 20.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4337
+  height: 3412
+  lens: OLYMPUS M.9-18mm F4.0-5.6
+  camera: E-M10MarkII
+  time: 2018-08-04 07:49:40.000000000+02:00
+- image_filename: P8040415.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.21311111111111
+  lon: 23.46002777777778
+  altitude: 121.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 07:53:05.000000000+02:00
+- image_filename: P8040417.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.21311111111111
+  lon: 23.460013888888888
+  altitude: 121.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4588
+  height: 3432
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 07:53:26.000000000+02:00
+- image_filename: P8040418.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.21313888888889
+  lon: 23.46002777777778
+  altitude: 121.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 07:53:44.000000000+02:00
+- image_filename: P8040425.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.21288888888889
+  lon: 23.459791666666668
+  altitude: 122.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 12.41
+  iso: 200
+  width: 4519
+  height: 3380
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 07:55:32.000000000+02:00
+- image_filename: P8040427.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.21281944444445
+  lon: 23.459611111111112
+  altitude: 123.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.2
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 07:55:58.000000000+02:00
+- image_filename: P8040430.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.21279166666667
+  lon: 23.45948611111111
+  altitude: 123.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 12.2
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 07:56:49.000000000+02:00
+- image_filename: P8040432.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.21259722222222
+  lon: 23.459125
+  altitude: 125.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 16.99
+  iso: 200
+  width: 4434
+  height: 3263
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 07:57:42.000000000+02:00
+- image_filename: P8040445.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.211666666666666
+  lon: 23.456416666666666
+  altitude: 124.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 08:01:51.000000000+02:00
+- image_filename: P8040460.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 0.23
+  iso: 800
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 09:21:24.000000000+02:00
+- image_filename: P8040461.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 0.29
+  iso: 800
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 09:21:30.000000000+02:00
+- image_filename: P8040488.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.223847222222226
+  lon: 23.464555555555556
+  altitude: 142.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4440
+  height: 3321
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 10:37:28.000000000+02:00
+- image_filename: P8040490.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.224583333333335
+  lon: 23.466208333333334
+  altitude: 144.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4416
+  height: 3303
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 10:38:04.000000000+02:00
+- image_filename: P8040494.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.22720833333334
+  lon: 23.47
+  altitude: 148.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 10:43:49.000000000+02:00
+- image_filename: P8040495.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.22720833333334
+  lon: 23.470069444444444
+  altitude: 148.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4538
+  height: 3394
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 10:44:04.000000000+02:00
+- image_filename: P8040497.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.19566666666666
+  lon: 23.508152777777777
+  altitude: 152.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 56.85
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 11:10:41.000000000+02:00
+- image_filename: P8040498.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.182694444444444
+  lon: 23.525180555555554
+  altitude: 142.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 11:20:18.000000000+02:00
+- image_filename: P8040501.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.18175
+  lon: 23.524791666666665
+  altitude: 140.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4332
+  height: 3240
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 11:20:47.000000000+02:00
+- image_filename: P8040504.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.18173611111111
+  lon: 23.52477777777778
+  altitude: 140.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 11:21:00.000000000+02:00
+- image_filename: P8040505.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.17366666666666
+  lon: 23.531069444444444
+  altitude: 139.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 11:30:09.000000000+02:00
+- image_filename: P8040511.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.15906944444444
+  lon: 23.544694444444445
+  altitude: 142.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 8.94
+  iso: 200
+  width: 4599
+  height: 3457
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 11:43:58.000000000+02:00
+- image_filename: P8040513.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.15847222222222
+  lon: 23.545722222222224
+  altitude: 140.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 67.67
+  iso: 200
+  width: 4508
+  height: 3372
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 11:44:12.000000000+02:00
+- image_filename: P8040519.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.14202777777778
+  lon: 23.582930555555556
+  altitude: 156.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.28
+  iso: 800
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 12:05:16.000000000+02:00
+- image_filename: P8040532.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.108583333333335
+  lon: 23.64948611111111
+  altitude: 149.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4443
+  height: 3382
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 12:37:32.000000000+02:00
+- image_filename: P8040536.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.11501388888889
+  lon: 23.716305555555554
+  altitude: 171.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 24.36
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 13:59:27.000000000+02:00
+- image_filename: P8040545.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.11276388888889
+  lon: 23.731444444444442
+  altitude: 165.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4350
+  height: 3342
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 14:08:39.000000000+02:00
+- image_filename: P8040553.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.111916666666666
+  lon: 23.736555555555558
+  altitude: 168.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.2
+  iso: 200
+  width: 3448
+  height: 4611
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 14:20:18.000000000+02:00
+- image_filename: P8040557.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.11197222222222
+  lon: 23.73640277777778
+  altitude: 169.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.93
+  iso: 200
+  width: 4422
+  height: 3308
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 14:21:46.000000000+02:00
+- image_filename: P8040562.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.111986111111115
+  lon: 23.736416666666667
+  altitude: 169.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.72
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 14:21:55.000000000+02:00
+- image_filename: P8040603.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.11181944444444
+  lon: 23.73623611111111
+  altitude: 181.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.83
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 16:35:55.000000000+02:00
+- image_filename: P8040620.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.11183333333334
+  lon: 23.73626388888889
+  altitude: 180.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 1.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.05
+  iso: 200
+  width: 3668
+  height: 2743
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 16:37:42.000000000+02:00
+- image_filename: P8040625.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.11951388888889
+  lon: 23.722666666666665
+  altitude: 163.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 39.12
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 16:54:07.000000000+02:00
+- image_filename: P8040627.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.120194444444444
+  lon: 23.723569444444443
+  altitude: 163.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 21.86
+  iso: 200
+  width: 3532
+  height: 2641
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 16:54:31.000000000+02:00
+- image_filename: P8040631.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.120305555555554
+  lon: 23.72370833333333
+  altitude: 162.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 16:55:17.000000000+02:00
+- image_filename: P8040640.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.14120833333333
+  lon: 23.75347222222222
+  altitude: 187.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4351
+  height: 3254
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 17:23:30.000000000+02:00
+- image_filename: P8040642.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.166125
+  lon: 23.795597222222224
+  altitude: 158.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 17:43:21.000000000+02:00
+- image_filename: P8040644.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.16705555555556
+  lon: 23.79788888888889
+  altitude: 158.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4487
+  height: 3356
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 17:45:28.000000000+02:00
+- image_filename: P8040651.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.169152777777775
+  lon: 23.810944444444445
+  altitude: 153.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4321
+  height: 3232
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 17:51:45.000000000+02:00
+- image_filename: P8040653.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3994
+  height: 3026
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 18:21:09.000000000+02:00
+- image_filename: P8040654.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 1.7
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 129.16
+  iso: 250
+  width: 3472
+  height: 4640
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 18:21:22.000000000+02:00
+- image_filename: P8040656.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 1.7
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 7.59
+  iso: 320
+  width: 3472
+  height: 4640
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 18:21:48.000000000+02:00
+- image_filename: P8040662.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.68
+  iso: 200
+  width: 4564
+  height: 3378
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 18:36:35.000000000+02:00
+- image_filename: P8040664.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 10.99
+  iso: 200
+  width: 4587
+  height: 3403
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 18:36:53.000000000+02:00
+- image_filename: P8040667.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.94
+  iso: 200
+  width: 4405
+  height: 3324
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 18:37:27.000000000+02:00
+- image_filename: P8040668.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 10.62
+  iso: 200
+  width: 4506
+  height: 3308
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 18:37:41.000000000+02:00
+- image_filename: P8040669.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 10.99
+  iso: 200
+  width: 4570
+  height: 3459
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 18:37:46.000000000+02:00
+- image_filename: P8040671.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 10.73
+  iso: 200
+  width: 4522
+  height: 3311
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 18:38:11.000000000+02:00
+- image_filename: P8040674.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.68
+  iso: 200
+  width: 3407
+  height: 4592
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 18:38:44.000000000+02:00
+- image_filename: P8040689.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 4.39
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 19:00:11.000000000+02:00
+- image_filename: P8040699_01.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.14
+  iso: 200
+  width: 4413
+  height: 3300
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 19:01:31.000000000+02:00
+- image_filename: P8040703.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 3.88
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 19:05:15.000000000+02:00
+- image_filename: P8040713.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.96
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 19:12:21.000000000+02:00
+- image_filename: P8040720.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.29
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 19:13:27.000000000+02:00
+- image_filename: P8040722.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.3
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-04 19:13:33.000000000+02:00
+- image_filename: P8040725.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.18508333333333
+  lon: 23.814458333333334
+  altitude: 140.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 50.15
+  iso: 200
+  width: 4519
+  height: 3378
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 19:26:35.000000000+02:00
+- image_filename: P8040734.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.18311111111111
+  lon: 23.81426388888889
+  altitude: 141.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 7.51
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 19:29:52.000000000+02:00
+- image_filename: P8040744.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.181805555555556
+  lon: 23.818541666666665
+  altitude: 152.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 30.24
+  iso: 200
+  width: 4492
+  height: 3264
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 19:41:07.000000000+02:00
+- image_filename: P8040750.jpg
+  post_slug: 2018-08-04-przez-piaski-do-kruszynian
+  lat: 53.17794444444444
+  lon: 23.813319444444446
+  altitude: 147.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 40.6
+  iso: 200
+  width: 3980
+  height: 3036
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-04 19:47:02.000000000+02:00

@@ -1,22 +1,22 @@
 ---
-- image_filename: 2020_07_11__10_53__7110535.jpg
+- image_filename: 2020_07_11__09_47__7110287.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.79072222222222
-  lon: 15.573083333333333
-  altitude: 27.0
-  focal_length: 15.0
-  focal_length_35: 30.0
+  lat: 52.857194444444445
+  lon: 15.950666666666667
+  altitude: 39.0
+  focal_length: 66.0
+  focal_length_35: 132.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5198
-  height: 3881
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 20.66
+  iso: 500
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-11 10:53:17.000000000+02:00
+  time: 2020-07-11 09:47:39.000000000+02:00
 - image_filename: 2020_07_11__09_54__7110292.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.853861111111115
@@ -35,6 +35,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 09:54:06.000000000+02:00
+- image_filename: 2020_07_11__09_55__7110298.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.85413888888889
+  lon: 15.828958333333333
+  altitude: 24.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 500
+  width: 4736
+  height: 3536
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 09:55:31.000000000+02:00
 - image_filename: 2020_07_11__09_59__7110317.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.85736111111111
@@ -53,6 +71,78 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 09:59:28.000000000+02:00
+- image_filename: 2020_07_11__10_00__7110332.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.85688888888889
+  lon: 15.7225
+  altitude: 29.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 19.34
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:00:23.000000000+02:00
+- image_filename: 2020_07_11__10_16__7110424.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.819500000000005
+  lon: 15.545875
+  altitude: 29.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.12
+  iso: 200
+  width: 4468
+  height: 3745
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:16:20.000000000+02:00
+- image_filename: 2020_07_11__10_20__7110427.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.82248611111111
+  lon: 15.54975
+  altitude: 28.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.52
+  iso: 200
+  width: 4594
+  height: 3704
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:20:26.000000000+02:00
+- image_filename: 2020_07_11__10_22__7110431.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.82054166666667
+  lon: 15.552833333333334
+  altitude: 27.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5077
+  height: 3791
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:22:32.000000000+02:00
 - image_filename: 2020_07_11__10_27__7110434.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.81315277777777
@@ -89,6 +179,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 10:28:10.000000000+02:00
+- image_filename: 2020_07_11__10_34__7110450.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.80069444444444
+  lon: 15.569027777777778
+  altitude: 25.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 109.22
+  iso: 200
+  width: 5075
+  height: 3789
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:34:47.000000000+02:00
 - image_filename: 2020_07_11__10_37__7110461.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.79797222222222
@@ -107,6 +215,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 10:37:20.000000000+02:00
+- image_filename: 2020_07_11__10_37__7110467.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.79759722222222
+  lon: 15.571847222222223
+  altitude: 25.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 93.62
+  iso: 200
+  width: 5036
+  height: 3759
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:37:38.000000000+02:00
+- image_filename: 2020_07_11__10_39__7110469.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.79725
+  lon: 15.572208333333332
+  altitude: 25.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 15.75
+  iso: 200
+  width: 5147
+  height: 3843
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:39:43.000000000+02:00
+- image_filename: 2020_07_11__10_39__7110471.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.79725
+  lon: 15.572194444444444
+  altitude: 25.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5034
+  height: 3759
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:39:51.000000000+02:00
 - image_filename: 2020_07_11__10_41__7110475-hdr.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.797263888888885
@@ -125,6 +287,114 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 10:41:04.000000000+02:00
+- image_filename: 2020_07_11__10_46__7110495.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.79347222222222
+  lon: 15.572986111111112
+  altitude: 25.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 121.36
+  iso: 200
+  width: 5224
+  height: 3901
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:46:04.000000000+02:00
+- image_filename: 2020_07_11__10_51__7110521.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.790708333333335
+  lon: 15.573055555555555
+  altitude: 26.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.4
+  iso: 200
+  width: 5208
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:51:27.000000000+02:00
+- image_filename: 2020_07_11__10_51__7110525.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.790708333333335
+  lon: 15.573055555555555
+  altitude: 27.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 5.72
+  iso: 200
+  width: 5121
+  height: 3823
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:51:54.000000000+02:00
+- image_filename: 2020_07_11__10_53__7110535.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.79072222222222
+  lon: 15.573083333333333
+  altitude: 27.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5198
+  height: 3881
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:53:17.000000000+02:00
+- image_filename: 2020_07_11__10_53__7110540.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.78995833333333
+  lon: 15.572861111111111
+  altitude: 25.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 17.84
+  iso: 200
+  width: 5176
+  height: 3864
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:53:48.000000000+02:00
+- image_filename: 2020_07_11__10_54__7110548.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.78743055555555
+  lon: 15.571166666666667
+  altitude: 25.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.92
+  iso: 200
+  width: 4940
+  height: 3689
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 10:54:43.000000000+02:00
 - image_filename: 2020_07_11__10_59__7110556.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.78479166666666
@@ -143,6 +413,78 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 10:59:10.000000000+02:00
+- image_filename: 2020_07_11__11_02__7110576.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.78380555555555
+  lon: 15.569847222222222
+  altitude: 25.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 16.08
+  iso: 200
+  width: 5098
+  height: 3806
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 11:02:26.000000000+02:00
+- image_filename: 2020_07_11__11_04__7110589.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.780722222222224
+  lon: 15.568652777777778
+  altitude: 25.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.56
+  iso: 200
+  width: 5206
+  height: 3887
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 11:04:57.000000000+02:00
+- image_filename: 2020_07_11__11_06__7110590.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.780763888888885
+  lon: 15.568666666666667
+  altitude: 25.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.27
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 11:06:55.000000000+02:00
+- image_filename: 2020_07_11__11_08__7110596.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.77770833333333
+  lon: 15.568194444444444
+  altitude: 26.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 25.2
+  iso: 200
+  width: 3835
+  height: 5136
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 11:08:35.000000000+02:00
 - image_filename: 2020_07_11__11_10__7110598.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.77540277777778
@@ -161,6 +503,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 11:10:57.000000000+02:00
+- image_filename: 2020_07_11__11_14__7110606.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.774569444444445
+  lon: 15.566625
+  altitude: 25.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 16.42
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 11:14:08.000000000+02:00
+- image_filename: 2020_07_11__11_14__7110608.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.774125
+  lon: 15.566375
+  altitude: 24.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 51.85
+  iso: 200
+  width: 4976
+  height: 3715
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 11:14:21.000000000+02:00
+- image_filename: 2020_07_11__11_41__7110656.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.76575
+  lon: 15.564833333333334
+  altitude: 26.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 15.59
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 11:41:59.000000000+02:00
 - image_filename: 2020_07_11__11_43__7110661.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.76811111111111
@@ -197,6 +593,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 11:45:27.000000000+02:00
+- image_filename: 2020_07_11__11_51__7110674.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.77697222222222
+  lon: 15.569013888888888
+  altitude: 23.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 29.2
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 11:51:41.000000000+02:00
+- image_filename: 2020_07_11__12_13__7110706.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.793708333333335
+  lon: 15.62138888888889
+  altitude: 21.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.09
+  iso: 200
+  width: 5058
+  height: 3776
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 12:13:57.000000000+02:00
 - image_filename: 2020_07_11__12_16__7110721.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.79395833333333
@@ -251,438 +683,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 12:30:17.000000000+02:00
-- image_filename: 2020_07_11__13_41__7110830.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.83006944444445
-  lon: 15.740597222222222
-  altitude: 21.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 22.29
-  iso: 200
-  width: 5025
-  height: 3750
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 13:41:21.000000000+02:00
-- image_filename: 2020_07_11__13_48__7110846.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.825138888888894
-  lon: 15.741930555555555
-  altitude: 22.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 28.64
-  iso: 200
-  width: 5033
-  height: 3757
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 13:48:09.000000000+02:00
-- image_filename: 2020_07_11__14_28__7110894.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.82143055555556
-  lon: 15.814777777777778
-  altitude: 27.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.12
-  iso: 200
-  width: 5163
-  height: 3854
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 14:28:56.000000000+02:00
-- image_filename: 2020_07_11__10_51__7110521.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.790708333333335
-  lon: 15.573055555555555
-  altitude: 26.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 2.4
-  iso: 200
-  width: 5208
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:51:27.000000000+02:00
-- image_filename: 2020_07_11__10_20__7110427.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.82248611111111
-  lon: 15.54975
-  altitude: 28.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.52
-  iso: 200
-  width: 4594
-  height: 3704
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:20:26.000000000+02:00
-- image_filename: 2020_07_11__09_47__7110287.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.857194444444445
-  lon: 15.950666666666667
-  altitude: 39.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 20.66
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 09:47:39.000000000+02:00
-- image_filename: 2020_07_11__13_46__7110831.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.82515277777778
-  lon: 15.741930555555555
-  altitude: 22.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.26
-  iso: 200
-  width: 4963
-  height: 3705
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 13:46:38.000000000+02:00
-- image_filename: 2020_07_11__11_06__7110590.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.780763888888885
-  lon: 15.568666666666667
-  altitude: 25.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 3.27
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 11:06:55.000000000+02:00
-- image_filename: 2020_07_11__13_55__7110857.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.82118055555556
-  lon: 15.745180555555555
-  altitude: 21.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 28.06
-  iso: 200
-  width: 5126
-  height: 3827
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 13:55:07.000000000+02:00
-- image_filename: 2020_07_11__14_14__7110883.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.81177777777778
-  lon: 15.776805555555557
-  altitude: 28.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 4.03
-  iso: 200
-  width: 3848
-  height: 5155
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 14:14:56.000000000+02:00
-- image_filename: 2020_07_11__12_45__7110761.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.79618055555555
-  lon: 15.68473611111111
-  altitude: 18.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 87.61
-  iso: 200
-  width: 5098
-  height: 3267
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 12:45:30.000000000+02:00
-- image_filename: 2020_07_11__10_16__7110424.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.819500000000005
-  lon: 15.545875
-  altitude: 29.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 3.12
-  iso: 200
-  width: 4468
-  height: 3745
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:16:20.000000000+02:00
-- image_filename: 2020_07_11__10_22__7110431.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.82054166666667
-  lon: 15.552833333333334
-  altitude: 27.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5077
-  height: 3791
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:22:32.000000000+02:00
-- image_filename: 2020_07_11__10_51__7110525.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.790708333333335
-  lon: 15.573055555555555
-  altitude: 27.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 5.72
-  iso: 200
-  width: 5121
-  height: 3823
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:51:54.000000000+02:00
-- image_filename: 2020_07_11__10_39__7110469.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.79725
-  lon: 15.572208333333332
-  altitude: 25.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 15.75
-  iso: 200
-  width: 5147
-  height: 3843
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:39:43.000000000+02:00
-- image_filename: 2020_07_11__10_34__7110450.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.80069444444444
-  lon: 15.569027777777778
-  altitude: 25.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 109.22
-  iso: 200
-  width: 5075
-  height: 3789
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:34:47.000000000+02:00
-- image_filename: 2020_07_11__11_08__7110596.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.77770833333333
-  lon: 15.568194444444444
-  altitude: 26.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 25.2
-  iso: 200
-  width: 3835
-  height: 5136
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 11:08:35.000000000+02:00
-- image_filename: 2020_07_11__11_04__7110589.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.780722222222224
-  lon: 15.568652777777778
-  altitude: 25.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 20.56
-  iso: 200
-  width: 5206
-  height: 3887
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 11:04:57.000000000+02:00
-- image_filename: 2020_07_11__12_36__7110752.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.79425
-  lon: 15.659916666666668
-  altitude: 19.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 22.5
-  iso: 200
-  width: 4958
-  height: 3701
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 12:36:14.000000000+02:00
-- image_filename: 2020_07_11__13_41__7110826.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.83005555555556
-  lon: 15.740597222222222
-  altitude: 21.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.8
-  iso: 200
-  width: 5208
-  height: 3887
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 13:41:08.000000000+02:00
-- image_filename: 2020_07_11__12_53__7110766.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.80548611111111
-  lon: 15.677819444444443
-  altitude: 19.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 2.21
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 12:53:01.000000000+02:00
-- image_filename: 2020_07_11__13_48__7110853.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.825138888888894
-  lon: 15.741944444444444
-  altitude: 22.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 114.57
-  iso: 200
-  width: 5168
-  height: 3858
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 13:48:57.000000000+02:00
-- image_filename: 2020_07_11__13_40__7110825.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.83006944444445
-  lon: 15.740597222222222
-  altitude: 21.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 14.72
-  iso: 200
-  width: 5041
-  height: 3764
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 13:40:57.000000000+02:00
-- image_filename: 2020_07_11__14_10__7110877.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.810249999999996
-  lon: 15.761416666666667
-  altitude: 26.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 2.59
-  iso: 200
-  width: 4499
-  height: 3506
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 14:10:30.000000000+02:00
 - image_filename: 2020_07_11__12_31__7110744.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.79423611111111
@@ -701,258 +701,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 12:31:52.000000000+02:00
-- image_filename: 2020_07_11__14_02__7110871.jpg
+- image_filename: 2020_07_11__12_36__7110752.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.81663888888889
-  lon: 15.747
-  altitude: 23.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.79425
+  lon: 15.659916666666668
+  altitude: 19.0
+  focal_length: 20.0
+  focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 2.54
+  focus_distance: 22.5
   iso: 200
-  width: 5064
-  height: 3781
+  width: 4958
+  height: 3701
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-11 14:02:36.000000000+02:00
-- image_filename: 2020_07_11__12_13__7110706.jpg
+  time: 2020-07-11 12:36:14.000000000+02:00
+- image_filename: 2020_07_11__12_45__7110761.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.793708333333335
-  lon: 15.62138888888889
-  altitude: 21.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 25.09
-  iso: 200
-  width: 5058
-  height: 3776
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 12:13:57.000000000+02:00
-- image_filename: 2020_07_11__10_46__7110495.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.79347222222222
-  lon: 15.572986111111112
-  altitude: 25.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 121.36
-  iso: 200
-  width: 5224
-  height: 3901
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:46:04.000000000+02:00
-- image_filename: 2020_07_11__11_14__7110606.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.774569444444445
-  lon: 15.566625
-  altitude: 25.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 16.42
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 11:14:08.000000000+02:00
-- image_filename: 2020_07_11__10_00__7110332.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.85688888888889
-  lon: 15.7225
-  altitude: 29.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 19.34
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:00:23.000000000+02:00
-- image_filename: 2020_07_11__10_53__7110540.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.78995833333333
-  lon: 15.572861111111111
-  altitude: 25.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 17.84
-  iso: 200
-  width: 5176
-  height: 3864
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:53:48.000000000+02:00
-- image_filename: 2020_07_11__10_39__7110471.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.79725
-  lon: 15.572194444444444
-  altitude: 25.0
+  lat: 52.79618055555555
+  lon: 15.68473611111111
+  altitude: 18.0
   focal_length: 16.0
   focal_length_35: 32.0
   crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5034
-  height: 3759
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:39:51.000000000+02:00
-- image_filename: 2020_07_11__11_14__7110608.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.774125
-  lon: 15.566375
-  altitude: 24.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 51.85
-  iso: 200
-  width: 4976
-  height: 3715
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 11:14:21.000000000+02:00
-- image_filename: 2020_07_11__11_02__7110576.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.78380555555555
-  lon: 15.569847222222222
-  altitude: 25.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 16.08
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 87.61
   iso: 200
   width: 5098
-  height: 3806
+  height: 3267
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-11 11:02:26.000000000+02:00
-- image_filename: 2020_07_11__13_36__7110822.jpg
+  time: 2020-07-11 12:45:30.000000000+02:00
+- image_filename: 2020_07_11__12_53__7110766.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.828
-  lon: 15.734458333333333
-  altitude: 20.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.43
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 13:36:46.000000000+02:00
-- image_filename: 2020_07_11__10_54__7110548.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.78743055555555
-  lon: 15.571166666666667
-  altitude: 25.0
+  lat: 52.80548611111111
+  lon: 15.677819444444443
+  altitude: 19.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.92
-  iso: 200
-  width: 4940
-  height: 3689
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:54:43.000000000+02:00
-- image_filename: 2020_07_11__10_37__7110467.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.79759722222222
-  lon: 15.571847222222223
-  altitude: 25.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 93.62
-  iso: 200
-  width: 5036
-  height: 3759
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 10:37:38.000000000+02:00
-- image_filename: 2020_07_11__09_55__7110298.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.85413888888889
-  lon: 15.828958333333333
-  altitude: 24.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1000.0
-  iso: 500
-  width: 4736
-  height: 3536
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2020-07-11 09:55:31.000000000+02:00
-- image_filename: 2020_07_11__11_51__7110674.jpg
-  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.77697222222222
-  lon: 15.569013888888888
-  altitude: 23.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.0
+  aperture: 9.0
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 29.2
+  focus_distance: 2.21
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-11 11:51:41.000000000+02:00
+  time: 2020-07-11 12:53:01.000000000+02:00
 - image_filename: 2020_07_11__13_34__7110816.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
   lat: 52.82629166666667
@@ -971,21 +773,219 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2020-07-11 13:34:43.000000000+02:00
-- image_filename: 2020_07_11__11_41__7110656.jpg
+- image_filename: 2020_07_11__13_36__7110822.jpg
   post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
-  lat: 52.76575
-  lon: 15.564833333333334
-  altitude: 26.0
-  focal_length: 50.0
-  focal_length_35: 100.0
+  lat: 52.828
+  lon: 15.734458333333333
+  altitude: 20.0
+  focal_length: 24.0
+  focal_length_35: 48.0
   crop: 2.0
   aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 15.59
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.43
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2020-07-11 11:41:59.000000000+02:00
+  time: 2020-07-11 13:36:46.000000000+02:00
+- image_filename: 2020_07_11__13_40__7110825.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.83006944444445
+  lon: 15.740597222222222
+  altitude: 21.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 14.72
+  iso: 200
+  width: 5041
+  height: 3764
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 13:40:57.000000000+02:00
+- image_filename: 2020_07_11__13_41__7110826.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.83005555555556
+  lon: 15.740597222222222
+  altitude: 21.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.8
+  iso: 200
+  width: 5208
+  height: 3887
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 13:41:08.000000000+02:00
+- image_filename: 2020_07_11__13_41__7110830.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.83006944444445
+  lon: 15.740597222222222
+  altitude: 21.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 22.29
+  iso: 200
+  width: 5025
+  height: 3750
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 13:41:21.000000000+02:00
+- image_filename: 2020_07_11__13_46__7110831.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.82515277777778
+  lon: 15.741930555555555
+  altitude: 22.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.26
+  iso: 200
+  width: 4963
+  height: 3705
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 13:46:38.000000000+02:00
+- image_filename: 2020_07_11__13_48__7110846.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.825138888888894
+  lon: 15.741930555555555
+  altitude: 22.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 28.64
+  iso: 200
+  width: 5033
+  height: 3757
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 13:48:09.000000000+02:00
+- image_filename: 2020_07_11__13_48__7110853.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.825138888888894
+  lon: 15.741944444444444
+  altitude: 22.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 114.57
+  iso: 200
+  width: 5168
+  height: 3858
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 13:48:57.000000000+02:00
+- image_filename: 2020_07_11__13_55__7110857.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.82118055555556
+  lon: 15.745180555555555
+  altitude: 21.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 28.06
+  iso: 200
+  width: 5126
+  height: 3827
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 13:55:07.000000000+02:00
+- image_filename: 2020_07_11__14_02__7110871.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.81663888888889
+  lon: 15.747
+  altitude: 23.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.54
+  iso: 200
+  width: 5064
+  height: 3781
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 14:02:36.000000000+02:00
+- image_filename: 2020_07_11__14_10__7110877.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.810249999999996
+  lon: 15.761416666666667
+  altitude: 26.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.59
+  iso: 200
+  width: 4499
+  height: 3506
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 14:10:30.000000000+02:00
+- image_filename: 2020_07_11__14_14__7110883.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.81177777777778
+  lon: 15.776805555555557
+  altitude: 28.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.03
+  iso: 200
+  width: 3848
+  height: 5155
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 14:14:56.000000000+02:00
+- image_filename: 2020_07_11__14_28__7110894.jpg
+  post_slug: 2020-07-11-nadnoteckimi-wsiami-do-drezdenka
+  lat: 52.82143055555556
+  lon: 15.814777777777778
+  altitude: 27.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.12
+  iso: 200
+  width: 5163
+  height: 3854
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-11 14:28:56.000000000+02:00

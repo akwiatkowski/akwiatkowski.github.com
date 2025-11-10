@@ -1,566 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.81766666666667
-  lon: 15.506208333333333
-  altitude: 719.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-11-14 17:15:33+01:00
-- image_filename: IMGP9032raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.792319444444445
-  lon: 15.506125
-  altitude: 1271.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 20.0
-  exposure_string: 20 s
-  time: 2016-11-14 07:34:41+01:00
-- image_filename: IMGP9086raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.790375
-  lon: 15.510347222222222
-  altitude: 1311.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2016-11-14 08:03:20+01:00
-- image_filename: IMGP9107raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78856944444444
-  lon: 15.512180555555556
-  altitude: 1308.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2016-11-14 08:15:25+01:00
-- image_filename: IMGP9109raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78776388888889
-  lon: 15.513097222222223
-  altitude: 1294.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2016-11-14 08:17:44+01:00
-- image_filename: IMGP9110raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78744444444444
-  lon: 15.513430555555555
-  altitude: 1289.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2016-11-14 08:18:15+01:00
-- image_filename: IMGP9114raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78570833333333
-  lon: 15.515138888888888
-  altitude: 1278.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2016-11-14 08:21:35+01:00
-- image_filename: IMGP9130raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78234722222222
-  lon: 15.518944444444445
-  altitude: 1329.0
-  focal_length: 500.0
-  focal_length_35: 750.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2016-11-14 08:39:17+01:00
-- image_filename: IMGP9143raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78230555555555
-  lon: 15.518972222222223
-  altitude: 1330.0
-  focal_length: 370.0
-  focal_length_35: 555.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2016-11-14 08:43:42+01:00
-- image_filename: IMGP9156raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78115277777778
-  lon: 15.521111111111113
-  altitude: 1343.0
-  focal_length: 370.0
-  focal_length_35: 555.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-11-14 08:50:55+01:00
-- image_filename: IMGP9169raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.780277777777776
-  lon: 15.522611111111113
-  altitude: 1356.0
-  focal_length: 270.0
-  focal_length_35: 405.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-11-14 08:54:38+01:00
-- image_filename: IMGP9289raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.779402777777776
-  lon: 15.531625
-  altitude: 1395.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 09:52:02+01:00
-- image_filename: IMGP9361raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78809722222222
-  lon: 15.513638888888888
-  altitude: 1292.0
-  focal_length: 38.0
-  focal_length_35: 57.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 10:25:01+01:00
-- image_filename: IMGP9394raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78601388888889
-  lon: 15.514875
-  altitude: 1282.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-11-14 13:22:45+01:00
-- image_filename: IMGP9451raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.779875
-  lon: 15.544916666666667
-  altitude: 1442.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-11-14 14:06:49+01:00
-- image_filename: IMGP9479raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77748611111111
-  lon: 15.558611111111112
-  altitude: 1478.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-11-14 14:30:18+01:00
-- image_filename: IMGP9481raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.777499999999996
-  lon: 15.558569444444446
-  altitude: 1479.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-11-14 14:30:46+01:00
-- image_filename: IMGP9498raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77748611111111
-  lon: 15.558583333333335
-  altitude: 1478.0
-  focal_length: 250.0
-  focal_length_35: 375.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-11-14 14:35:22+01:00
-- image_filename: IMGP9585raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.773875
-  lon: 15.536041666666666
-  altitude: 1374.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-11-14 15:38:44+01:00
-- image_filename: IMGP9627raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78366666666666
-  lon: 15.517347222222224
-  altitude: 1313.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-11-14 16:41:49+01:00
-- image_filename: IMGP9664raw2.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78926388888889
-  lon: 15.511930555555555
-  altitude: 1309.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-11-14 16:57:05+01:00
-- image_filename: IMGP9687raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.79065277777777
-  lon: 15.509236111111111
-  altitude: 1307.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-11-14 17:09:10+01:00
-- image_filename: IMGP9706raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.79344444444444
-  lon: 15.502875
-  altitude: 1215.0
-  focal_length: 29.0
-  focal_length_35: 43.0
-  crop: 1.4827586206896552
-  aperture: 7.1
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-11-14 17:19:29+01:00
-- image_filename: IMGP9713raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.79448611111111
-  lon: 15.501666666666667
-  altitude: 1187.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 7.1
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-11-14 17:23:53+01:00
-- image_filename: IMGP9118raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78297222222222
-  lon: 15.517569444444446
-  altitude: 1323.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2016-11-14 08:29:15+01:00
-- image_filename: IMGP9704raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.79286111111111
-  lon: 15.504916666666666
-  altitude: 1245.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 9.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-11-14 17:17:32+01:00
-- image_filename: IMGP9642raw2.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78545833333333
-  lon: 15.515402777777778
-  altitude: 1279.0
-  focal_length: 29.0
-  focal_length_35: 43.0
-  crop: 1.4827586206896552
-  aperture: 10.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2016-11-14 16:46:18+01:00
-- image_filename: IMGP9198raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77938888888889
-  lon: 15.524444444444445
-  altitude: 1369.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 13.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-11-14 09:05:45+01:00
-- image_filename: IMGP9583raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77395833333333
-  lon: 15.536055555555555
-  altitude: 1375.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-11-14 15:38:34+01:00
-- image_filename: IMGP9693raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.79077777777778
-  lon: 15.508597222222223
-  altitude: 1304.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2016-11-14 17:12:41+01:00
-- image_filename: IMGP9433raw2.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77916666666667
-  lon: 15.534152777777777
-  altitude: 1403.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-11-14 13:54:14+01:00
-- image_filename: IMGP9124raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.782375
-  lon: 15.518902777777779
-  altitude: 1329.0
-  focal_length: 230.0
-  focal_length_35: 345.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-11-14 08:37:43+01:00
-- image_filename: IMGP9616raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78118055555556
-  lon: 15.521083333333333
-  altitude: 1341.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-11-14 16:32:12+01:00
-- image_filename: IMGP9390raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.787791666666664
-  lon: 15.513638888888888
-  altitude: 1295.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-11-14 13:19:03+01:00
-- image_filename: IMGP9486raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.777499999999996
-  lon: 15.558555555555555
-  altitude: 1479.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 14:32:45+01:00
-- image_filename: IMGP9321raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.779777777777774
-  lon: 15.523444444444445
-  altitude: 1362.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-11-14 10:02:34+01:00
-- image_filename: IMGP9179raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77979166666667
-  lon: 15.523361111111113
-  altitude: 1362.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 08:56:52+01:00
-- image_filename: IMGP9454raw2.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.779916666666665
-  lon: 15.54813888888889
-  altitude: 1440.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 14:11:26+01:00
-- image_filename: IMGP9678raw1-1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.79073611111111
-  lon: 15.509736111111112
-  altitude: 1308.0
-  focal_length: 27.0
-  focal_length_35: 40.0
-  crop: 1.4814814814814814
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-11-14 17:03:04+01:00
-- image_filename: IMGP9163raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78081944444445
-  lon: 15.521722222222223
-  altitude: 1347.0
-  focal_length: 160.0
-  focal_length_35: 240.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 08:52:16+01:00
 - image_filename: IMGP9026raw1.jpg
   post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
   lat: 50.793236111111106
@@ -570,375 +8,39 @@
   focal_length_35: 40.0
   crop: 1.4814814814814814
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 20.0
   exposure_string: 20 s
-  time: 2016-11-14 07:26:59+01:00
-- image_filename: IMGP9551raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.779805555555555
-  lon: 15.54973611111111
-  altitude: 1448.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-11-14 14:58:00+01:00
-- image_filename: IMGP9154raw1.jpg
+  time: 2016-11-14 07:26:59.000000000+01:00
+- image_filename: IMGP9032raw1.jpg
   post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78122222222222
-  lon: 15.520958333333335
-  altitude: 1342.0
-  focal_length: 500.0
-  focal_length_35: 750.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2016-11-14 08:50:43+01:00
-- image_filename: IMGP9684raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.79072222222222
-  lon: 15.509736111111112
-  altitude: 1308.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-11-14 17:04:57+01:00
-- image_filename: IMGP9127raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78234722222222
-  lon: 15.51888888888889
-  altitude: 1329.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2016-11-14 08:38:32+01:00
-- image_filename: IMGP9421raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.779069444444445
-  lon: 15.526916666666667
-  altitude: 1378.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-11-14 13:45:58+01:00
-- image_filename: IMGP9360raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78769444444444
-  lon: 15.51361111111111
-  altitude: 1289.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 10:22:58+01:00
-- image_filename: IMGP9384raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78875
-  lon: 15.513416666666666
-  altitude: 1303.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-11-14 13:17:14+01:00
-- image_filename: IMGP9639raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78473611111111
-  lon: 15.515930555555556
-  altitude: 1288.0
+  lat: 50.792319444444445
+  lon: 15.506125
+  altitude: 1271.0
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
+  exposure: 20.0
+  exposure_string: 20 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-11-14 16:44:44+01:00
-- image_filename: IMGP9194raw1.jpg
+  time: 2016-11-14 07:34:41.000000000+01:00
+- image_filename: IMGP9086raw1.jpg
   post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77934722222222
-  lon: 15.524416666666667
-  altitude: 1369.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 16.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2016-11-14 09:04:41+01:00
-- image_filename: IMGP9696raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.79080555555555
-  lon: 15.508472222222222
-  altitude: 1303.0
-  focal_length: 29.0
-  focal_length_35: 43.0
-  crop: 1.4827586206896552
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-11-14 17:12:47+01:00
-- image_filename: IMGP9151raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.7815
-  lon: 15.520444444444445
-  altitude: 1339.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-11-14 08:49:59+01:00
-- image_filename: IMGP9460raw2.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77975
-  lon: 15.550222222222223
-  altitude: 1451.0
+  lat: 50.790375
+  lon: 15.510347222222222
+  altitude: 1311.0
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 14:13:53+01:00
-- image_filename: IMGP9449raw2.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77993055555555
-  lon: 15.544402777777778
-  altitude: 1439.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 14:06:18+01:00
-- image_filename: IMGP9335raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78254166666667
-  lon: 15.518625
-  altitude: 1326.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-11-14 10:09:18+01:00
-- image_filename: IMGP9680raw2.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.79073611111111
-  lon: 15.509722222222223
-  altitude: 1308.0
-  focal_length: 25.0
-  focal_length_35: 37.0
-  crop: 1.48
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-11-14 17:03:17+01:00
-- image_filename: IMGP9407raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.782
-  lon: 15.51940277777778
-  altitude: 1339.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-11-14 13:34:21+01:00
-- image_filename: IMGP9344raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78443055555555
-  lon: 15.516361111111111
-  altitude: 1297.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-11-14 10:16:25+01:00
-- image_filename: IMGP9466raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.779694444444445
-  lon: 15.552027777777779
-  altitude: 1467.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 14:15:57+01:00
-- image_filename: IMGP9175raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.779805555555555
-  lon: 15.523347222222222
-  altitude: 1362.0
-  focal_length: 250.0
-  focal_length_35: 375.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2016-11-14 08:56:33+01:00
-- image_filename: IMGP9147raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.782375
-  lon: 15.51888888888889
-  altitude: 1330.0
-  focal_length: 370.0
-  focal_length_35: 555.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-11-14 08:45:03+01:00
-- image_filename: IMGP9641raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.78536111111111
-  lon: 15.51548611111111
-  altitude: 1280.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 10.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-11-14 16:46:08+01:00
-- image_filename: IMGP9598raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77927777777778
-  lon: 15.534541666666666
-  altitude: 1398.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
   aperture: 11.0
+  exposure: 0.5
+  exposure_string: 1/2 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-11-14 16:13:15+01:00
-- image_filename: IMGP9550raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.779805555555555
-  lon: 15.54975
-  altitude: 1448.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-11-14 14:57:58+01:00
-- image_filename: IMGP9474raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.777458333333335
-  lon: 15.55840277777778
-  altitude: 1478.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-11-14 14:27:29+01:00
-- image_filename: IMGP9181raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.77979166666667
-  lon: 15.523361111111113
-  altitude: 1362.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 08:58:47+01:00
-- image_filename: IMGP9365raw1.jpg
-  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
-  lat: 50.789027777777775
-  lon: 15.513375
-  altitude: 1302.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-11-14 10:27:57+01:00
+  time: 2016-11-14 08:03:20.000000000+01:00
 - image_filename: IMGP9088raw1.jpg
   post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
   lat: 50.79036111111111
@@ -948,8 +50,906 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 11.0
+  exposure: 4.0
+  exposure_string: 0.4 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2016-11-14 08:04:36+01:00
+  time: 2016-11-14 08:04:36.000000000+01:00
+- image_filename: IMGP9107raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78856944444444
+  lon: 15.512180555555556
+  altitude: 1308.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:15:25.000000000+01:00
+- image_filename: IMGP9109raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78776388888889
+  lon: 15.513097222222223
+  altitude: 1294.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:17:44.000000000+01:00
+- image_filename: IMGP9110raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78744444444444
+  lon: 15.513430555555555
+  altitude: 1289.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:18:15.000000000+01:00
+- image_filename: IMGP9114raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78570833333333
+  lon: 15.515138888888888
+  altitude: 1278.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:21:35.000000000+01:00
+- image_filename: IMGP9118raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78297222222222
+  lon: 15.517569444444446
+  altitude: 1323.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:29:15.000000000+01:00
+- image_filename: IMGP9124raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.782375
+  lon: 15.518902777777779
+  altitude: 1329.0
+  focal_length: 230.0
+  focal_length_35: 345.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:37:43.000000000+01:00
+- image_filename: IMGP9127raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78234722222222
+  lon: 15.51888888888889
+  altitude: 1329.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:38:32.000000000+01:00
+- image_filename: IMGP9130raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78234722222222
+  lon: 15.518944444444445
+  altitude: 1329.0
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:39:17.000000000+01:00
+- image_filename: IMGP9143raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78230555555555
+  lon: 15.518972222222223
+  altitude: 1330.0
+  focal_length: 370.0
+  focal_length_35: 555.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:43:42.000000000+01:00
+- image_filename: IMGP9147raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.782375
+  lon: 15.51888888888889
+  altitude: 1330.0
+  focal_length: 370.0
+  focal_length_35: 555.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:45:03.000000000+01:00
+- image_filename: IMGP9151raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.7815
+  lon: 15.520444444444445
+  altitude: 1339.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:49:59.000000000+01:00
+- image_filename: IMGP9154raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78122222222222
+  lon: 15.520958333333335
+  altitude: 1342.0
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:50:43.000000000+01:00
+- image_filename: IMGP9156raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78115277777778
+  lon: 15.521111111111113
+  altitude: 1343.0
+  focal_length: 370.0
+  focal_length_35: 555.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:50:55.000000000+01:00
+- image_filename: IMGP9163raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78081944444445
+  lon: 15.521722222222223
+  altitude: 1347.0
+  focal_length: 160.0
+  focal_length_35: 240.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:52:16.000000000+01:00
+- image_filename: IMGP9169raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.780277777777776
+  lon: 15.522611111111113
+  altitude: 1356.0
+  focal_length: 270.0
+  focal_length_35: 405.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:54:38.000000000+01:00
+- image_filename: IMGP9175raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.779805555555555
+  lon: 15.523347222222222
+  altitude: 1362.0
+  focal_length: 250.0
+  focal_length_35: 375.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:56:33.000000000+01:00
+- image_filename: IMGP9179raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77979166666667
+  lon: 15.523361111111113
+  altitude: 1362.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:56:52.000000000+01:00
+- image_filename: IMGP9181raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77979166666667
+  lon: 15.523361111111113
+  altitude: 1362.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 08:58:47.000000000+01:00
+- image_filename: IMGP9194raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77934722222222
+  lon: 15.524416666666667
+  altitude: 1369.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 16.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 09:04:41.000000000+01:00
+- image_filename: IMGP9198raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77938888888889
+  lon: 15.524444444444445
+  altitude: 1369.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 13.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2016-11-14 09:05:45.000000000+01:00
+- image_filename: IMGP9289raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.779402777777776
+  lon: 15.531625
+  altitude: 1395.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 09:52:02.000000000+01:00
+- image_filename: IMGP9321raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.779777777777774
+  lon: 15.523444444444445
+  altitude: 1362.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 10:02:34.000000000+01:00
+- image_filename: IMGP9335raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78254166666667
+  lon: 15.518625
+  altitude: 1326.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 9.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 10:09:18.000000000+01:00
+- image_filename: IMGP9344raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78443055555555
+  lon: 15.516361111111111
+  altitude: 1297.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 10:16:25.000000000+01:00
+- image_filename: IMGP9360raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78769444444444
+  lon: 15.51361111111111
+  altitude: 1289.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 10:22:58.000000000+01:00
+- image_filename: IMGP9361raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78809722222222
+  lon: 15.513638888888888
+  altitude: 1292.0
+  focal_length: 38.0
+  focal_length_35: 57.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 10:25:01.000000000+01:00
+- image_filename: IMGP9365raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.789027777777775
+  lon: 15.513375
+  altitude: 1302.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 10:27:57.000000000+01:00
+- image_filename: IMGP9384raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78875
+  lon: 15.513416666666666
+  altitude: 1303.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 13:17:14.000000000+01:00
+- image_filename: IMGP9390raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.787791666666664
+  lon: 15.513638888888888
+  altitude: 1295.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 13:19:03.000000000+01:00
+- image_filename: IMGP9394raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78601388888889
+  lon: 15.514875
+  altitude: 1282.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 13:22:45.000000000+01:00
+- image_filename: IMGP9407raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.782
+  lon: 15.51940277777778
+  altitude: 1339.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 13:34:21.000000000+01:00
+- image_filename: IMGP9421raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.779069444444445
+  lon: 15.526916666666667
+  altitude: 1378.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 13:45:58.000000000+01:00
+- image_filename: IMGP9433raw2.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77916666666667
+  lon: 15.534152777777777
+  altitude: 1403.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 13:54:14.000000000+01:00
+- image_filename: IMGP9449raw2.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77993055555555
+  lon: 15.544402777777778
+  altitude: 1439.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:06:18.000000000+01:00
+- image_filename: IMGP9451raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.779875
+  lon: 15.544916666666667
+  altitude: 1442.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:06:49.000000000+01:00
+- image_filename: IMGP9454raw2.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.779916666666665
+  lon: 15.54813888888889
+  altitude: 1440.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:11:26.000000000+01:00
+- image_filename: IMGP9460raw2.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77975
+  lon: 15.550222222222223
+  altitude: 1451.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:13:53.000000000+01:00
+- image_filename: IMGP9466raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.779694444444445
+  lon: 15.552027777777779
+  altitude: 1467.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:15:57.000000000+01:00
+- image_filename: IMGP9474raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.777458333333335
+  lon: 15.55840277777778
+  altitude: 1478.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:27:29.000000000+01:00
+- image_filename: IMGP9479raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77748611111111
+  lon: 15.558611111111112
+  altitude: 1478.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:30:18.000000000+01:00
+- image_filename: IMGP9481raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.777499999999996
+  lon: 15.558569444444446
+  altitude: 1479.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:30:46.000000000+01:00
+- image_filename: IMGP9486raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.777499999999996
+  lon: 15.558555555555555
+  altitude: 1479.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:32:45.000000000+01:00
+- image_filename: IMGP9498raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77748611111111
+  lon: 15.558583333333335
+  altitude: 1478.0
+  focal_length: 250.0
+  focal_length_35: 375.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:35:22.000000000+01:00
+- image_filename: IMGP9550raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.779805555555555
+  lon: 15.54975
+  altitude: 1448.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:57:58.000000000+01:00
+- image_filename: IMGP9551raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.779805555555555
+  lon: 15.54973611111111
+  altitude: 1448.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 14:58:00.000000000+01:00
+- image_filename: IMGP9583raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77395833333333
+  lon: 15.536055555555555
+  altitude: 1375.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 13.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 15:38:34.000000000+01:00
+- image_filename: IMGP9585raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.773875
+  lon: 15.536041666666666
+  altitude: 1374.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 13.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 15:38:44.000000000+01:00
+- image_filename: IMGP9598raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.77927777777778
+  lon: 15.534541666666666
+  altitude: 1398.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 16:13:15.000000000+01:00
+- image_filename: IMGP9616raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78118055555556
+  lon: 15.521083333333333
+  altitude: 1341.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 16:32:12.000000000+01:00
+- image_filename: IMGP9627raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78366666666666
+  lon: 15.517347222222224
+  altitude: 1313.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 16:41:49.000000000+01:00
+- image_filename: IMGP9639raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78473611111111
+  lon: 15.515930555555556
+  altitude: 1288.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-14 16:44:44.000000000+01:00
+- image_filename: IMGP9641raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78536111111111
+  lon: 15.51548611111111
+  altitude: 1280.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 10.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 16:46:08.000000000+01:00
+- image_filename: IMGP9642raw2.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78545833333333
+  lon: 15.515402777777778
+  altitude: 1279.0
+  focal_length: 29.0
+  focal_length_35: 43.0
+  crop: 1.4827586206896552
+  aperture: 10.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 16:46:18.000000000+01:00
+- image_filename: IMGP9664raw2.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.78926388888889
+  lon: 15.511930555555555
+  altitude: 1309.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 16:57:05.000000000+01:00
+- image_filename: IMGP9678raw1-1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.79073611111111
+  lon: 15.509736111111112
+  altitude: 1308.0
+  focal_length: 27.0
+  focal_length_35: 40.0
+  crop: 1.4814814814814814
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:03:04.000000000+01:00
+- image_filename: IMGP9680raw2.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.79073611111111
+  lon: 15.509722222222223
+  altitude: 1308.0
+  focal_length: 25.0
+  focal_length_35: 37.0
+  crop: 1.48
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:03:17.000000000+01:00
+- image_filename: IMGP9684raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.79072222222222
+  lon: 15.509736111111112
+  altitude: 1308.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:04:57.000000000+01:00
+- image_filename: IMGP9687raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.79065277777777
+  lon: 15.509236111111111
+  altitude: 1307.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:09:10.000000000+01:00
+- image_filename: IMGP9693raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.79077777777778
+  lon: 15.508597222222223
+  altitude: 1304.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:12:41.000000000+01:00
+- image_filename: IMGP9696raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.79080555555555
+  lon: 15.508472222222222
+  altitude: 1303.0
+  focal_length: 29.0
+  focal_length_35: 43.0
+  crop: 1.4827586206896552
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:12:47.000000000+01:00
+- image_filename: IMGP9704raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.79286111111111
+  lon: 15.504916666666666
+  altitude: 1245.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:17:32.000000000+01:00
+- image_filename: IMGP9706raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.79344444444444
+  lon: 15.502875
+  altitude: 1215.0
+  focal_length: 29.0
+  focal_length_35: 43.0
+  crop: 1.4827586206896552
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:19:29.000000000+01:00
+- image_filename: IMGP9713raw1.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.79448611111111
+  lon: 15.501666666666667
+  altitude: 1187.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:23:53.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy
+  lat: 50.81766666666667
+  lon: 15.506208333333333
+  altitude: 719.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-11-14 17:15:33.000000000+01:00

@@ -1,15 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-07-30-powrot-przez-pieklo
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-07-30 09:26:55+02:00
 - image_filename: IMGP0035raw1.jpg
   post_slug: 2017-07-30-powrot-przez-pieklo
   lat: 49.72508333333334
@@ -19,11 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2017-07-30 07:50:23+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-30 07:50:23.000000000+02:00
 - image_filename: IMGP0036raw1.jpg
   post_slug: 2017-07-30-powrot-przez-pieklo
   lat: 49.764652777777776
@@ -33,81 +22,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-07-30 08:13:36+02:00
-- image_filename: IMGP0049raw1.jpg
-  post_slug: 2017-07-30-powrot-przez-pieklo
-  lat: 49.86868055555556
-  lon: 21.644041666666666
-  altitude: 259.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2017-07-30 09:44:40+02:00
-- image_filename: IMGP0052raw1.jpg
-  post_slug: 2017-07-30-powrot-przez-pieklo
-  lat: 49.87945833333333
-  lon: 21.670222222222222
-  altitude: 290.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-07-30 10:13:10+02:00
-- image_filename: IMGP0058raw1.jpg
-  post_slug: 2017-07-30-powrot-przez-pieklo
-  lat: 49.949875
-  lon: 21.696291666666667
-  altitude: 380.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-07-30 11:29:44+02:00
-- image_filename: IMGP0059raw1.jpg
-  post_slug: 2017-07-30-powrot-przez-pieklo
-  lat: 49.95291666666667
-  lon: 21.697222222222223
-  altitude: 406.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-07-30 11:34:00+02:00
-- image_filename: IMGP0061raw1.jpg
-  post_slug: 2017-07-30-powrot-przez-pieklo
-  lat: 49.97536111111111
-  lon: 21.708333333333332
-  altitude: 379.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-30 11:47:24+02:00
+  time: 2017-07-30 08:13:36.000000000+02:00
 - image_filename: IMGP0047raw1.jpg
   post_slug: 2017-07-30-powrot-przez-pieklo
   lat: 49.86863888888889
@@ -117,11 +36,39 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
-  time: 2017-07-30 09:40:59+02:00
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2017-07-30 09:40:59.000000000+02:00
+- image_filename: IMGP0049raw1.jpg
+  post_slug: 2017-07-30-powrot-przez-pieklo
+  lat: 49.86868055555556
+  lon: 21.644041666666666
+  altitude: 259.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2017-07-30 09:44:40.000000000+02:00
+- image_filename: IMGP0052raw1.jpg
+  post_slug: 2017-07-30-powrot-przez-pieklo
+  lat: 49.87945833333333
+  lon: 21.670222222222222
+  altitude: 290.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-30 10:13:10.000000000+02:00
 - image_filename: IMGP0054raw1.jpg
   post_slug: 2017-07-30-powrot-przez-pieklo
   lat: 49.885125
@@ -131,8 +78,61 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2017-07-30 10:19:23+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-30 10:19:23.000000000+02:00
+- image_filename: IMGP0058raw1.jpg
+  post_slug: 2017-07-30-powrot-przez-pieklo
+  lat: 49.949875
+  lon: 21.696291666666667
+  altitude: 380.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-30 11:29:44.000000000+02:00
+- image_filename: IMGP0059raw1.jpg
+  post_slug: 2017-07-30-powrot-przez-pieklo
+  lat: 49.95291666666667
+  lon: 21.697222222222223
+  altitude: 406.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-30 11:34:00.000000000+02:00
+- image_filename: IMGP0061raw1.jpg
+  post_slug: 2017-07-30-powrot-przez-pieklo
+  lat: 49.97536111111111
+  lon: 21.708333333333332
+  altitude: 379.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-30 11:47:24.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-07-30-powrot-przez-pieklo
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-30 09:26:55.000000000+02:00

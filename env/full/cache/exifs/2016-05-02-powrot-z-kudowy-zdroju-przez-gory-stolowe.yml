@@ -1,78 +1,78 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
-  lat: 50.44885083333333
-  lon: 16.275563055555555
-  altitude: 494.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-05-02 11:38:06+02:00
 - image_filename: IMGP9951raw1.jpg
   post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
-  lat: 50.44291916666666
-  lon: 16.244640833333335
+  lat: 50.44291944444444
+  lon: 16.244641666666666
   altitude: 386.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-05-02 11:04:32+02:00
+  time: 2016-05-02 11:04:32.000000000+02:00
 - image_filename: IMGP9956raw1.jpg
   post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
-  lat: 50.47610916666667
-  lon: 16.33606861111111
+  lat: 50.476108333333336
+  lon: 16.336069444444444
   altitude: 774.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-05-02 12:39:55+02:00
+  time: 2016-05-02 12:39:55.000000000+02:00
 - image_filename: IMGP9975raw1.jpg
   post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
-  lat: 50.45163333333333
-  lon: 16.540368611111113
+  lat: 50.451633333333334
+  lon: 16.540369444444448
   altitude: 398.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-05-02 15:47:31+02:00
+  time: 2016-05-02 15:47:31.000000000+02:00
 - image_filename: IMGP9987raw3.jpg
   post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
-  lat: 50.45087277777778
-  lon: 16.543692222222223
+  lat: 50.45087222222222
+  lon: 16.543691666666668
   altitude: 417.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-05-02 15:51:36+02:00
+  time: 2016-05-02 15:51:36.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
+  lat: 50.44885
+  lon: 16.27556388888889
+  altitude: 494.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 2000
+  height: 1326
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-02 11:38:06.000000000+02:00

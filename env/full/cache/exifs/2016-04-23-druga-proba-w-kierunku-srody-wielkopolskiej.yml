@@ -1,108 +1,108 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej
-  lat: 52.208635
-  lon: 17.10143916666667
-  altitude: 80.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-04-23 14:05:33+02:00
 - image_filename: IMGP9399raw1.jpg
   post_slug: 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej
-  lat: 52.209207500000005
-  lon: 17.101299444444447
+  lat: 52.209208333333336
+  lon: 17.101300000000002
   altitude: 79.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-04-23 14:05:23+02:00
+  time: 2016-04-23 14:05:23.000000000+02:00
 - image_filename: IMGP9403raw1.jpg
   post_slug: 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej
-  lat: 52.169536666666666
-  lon: 17.128098611111113
+  lat: 52.16953611111111
+  lon: 17.128097222222223
   altitude: 74.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-04-23 14:22:41+02:00
+  time: 2016-04-23 14:22:41.000000000+02:00
 - image_filename: IMGP9413raw1.jpg
   post_slug: 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej
-  lat: 52.16320111111111
+  lat: 52.163199999999996
   lon: 17.12922777777778
   altitude: 77.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-04-23 14:28:02+02:00
-- image_filename: IMGP9420raw1.jpg
-  post_slug: 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej
-  lat: 52.110599722222226
-  lon: 17.317013333333332
-  altitude: 70.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-04-23 15:24:45+02:00
+  time: 2016-04-23 14:28:02.000000000+02:00
 - image_filename: IMGP9415raw2.jpg
   post_slug: 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej
   lat: 52.16506666666667
-  lon: 17.147771111111112
+  lon: 17.147772222222223
   altitude: 76.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-04-23 14:35:46+02:00
+  time: 2016-04-23 14:35:46.000000000+02:00
 - image_filename: IMGP9416raw1.jpg
   post_slug: 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej
-  lat: 52.13878138888889
-  lon: 17.178324166666666
+  lat: 52.138780555555556
+  lon: 17.178325
   altitude: 78.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-04-23 14:48:55+02:00
+  time: 2016-04-23 14:48:55.000000000+02:00
+- image_filename: IMGP9420raw1.jpg
+  post_slug: 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej
+  lat: 52.1106
+  lon: 17.317013888888887
+  altitude: 70.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-04-23 15:24:45.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej
+  lat: 52.20863611111111
+  lon: 17.10143888888889
+  altitude: 80.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2000
+  height: 1326
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-04-23 14:05:33.000000000+02:00

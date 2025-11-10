@@ -1,273 +1,273 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 2048
-  height: 1362
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-09-15 11:48:40+02:00
 - image_filename: IMGP1479.JPG
   post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
   width: 3008
   height: 2000
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-09-15 08:10:12+02:00
-- image_filename: IMGP1595b1.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-09-15 10:16:57+02:00
-- image_filename: IMGP1608b.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2011-09-15 10:27:05+02:00
-- image_filename: IMGP1672b1.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2011-09-15 11:00:43+02:00
-- image_filename: IMGP1719b.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2011-09-15 12:13:46+02:00
-- image_filename: IMGP1742b1.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 22.0
-  focal_length_35: 33.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2011-09-15 12:42:23+02:00
-- image_filename: IMGP1761b.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 45.0
-  focal_length_35: 67.0
-  crop: 1.488888888888889
-  aperture: 6.3
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2011-09-15 13:34:10+02:00
-- image_filename: IMGP1766b1.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 22.0
-  focal_length_35: 33.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2011-09-15 13:38:11+02:00
-- image_filename: IMGP1775b2.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2011-09-15 15:12:21+02:00
-- image_filename: IMGP1640b.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2011-09-15 10:51:30+02:00
-- image_filename: IMGP1768b1.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2011-09-15 13:38:41+02:00
-- image_filename: IMGP1756.JPG
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2011-09-15 13:27:32+02:00
-- image_filename: IMGP1599b2.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2011-09-15 10:21:56+02:00
-- image_filename: IMGP1746c.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2011-09-15 12:44:48+02:00
-- image_filename: IMGP1694b.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-09-15 11:48:40+02:00
-- image_filename: IMGP1601b1rotated.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2011-09-15 10:22:05+02:00
-- image_filename: IMGP1682b.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2011-09-15 11:07:21+02:00
-- image_filename: IMGP1591.JPG
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-09-15 10:06:39+02:00
+  time: 2011-09-15 08:10:12.000000000+02:00
 - image_filename: IMGP1517c.jpg
   post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
+  time: 2011-09-15 09:24:02.000000000+02:00
+- image_filename: IMGP1591.JPG
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 800
+  width: 3008
+  height: 2000
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 10:06:39.000000000+02:00
+- image_filename: IMGP1595b1.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 10:16:57.000000000+02:00
+- image_filename: IMGP1599b2.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  time: 2011-09-15 10:21:56.000000000+02:00
+- image_filename: IMGP1601b1rotated.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2011-09-15 09:24:02+02:00
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  time: 2011-09-15 10:22:05.000000000+02:00
+- image_filename: IMGP1608b.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  time: 2011-09-15 10:27:05.000000000+02:00
+- image_filename: IMGP1640b.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 10:51:30.000000000+02:00
 - image_filename: IMGP1659b.jpg
   post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
   focal_length: 18.0
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2011-09-15 10:56:55+02:00
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 10:56:55.000000000+02:00
+- image_filename: IMGP1672b1.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 11:00:43.000000000+02:00
+- image_filename: IMGP1682b.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 11:07:21.000000000+02:00
+- image_filename: IMGP1694b.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 11:48:40.000000000+02:00
+- image_filename: IMGP1719b.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 12:13:46.000000000+02:00
+- image_filename: IMGP1742b1.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 22.0
+  focal_length_35: 33.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 12:42:23.000000000+02:00
 - image_filename: IMGP1744b.jpg
   post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2011-09-15 12:43:15+02:00
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 12:43:15.000000000+02:00
+- image_filename: IMGP1746c.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 12:44:48.000000000+02:00
+- image_filename: IMGP1756.JPG
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 3008
+  height: 2000
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 13:27:32.000000000+02:00
+- image_filename: IMGP1761b.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 13:34:10.000000000+02:00
+- image_filename: IMGP1766b1.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 22.0
+  focal_length_35: 33.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 13:38:11.000000000+02:00
+- image_filename: IMGP1768b1.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 13:38:41.000000000+02:00
+- image_filename: IMGP1775b2.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 15:12:21.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 800
+  width: 2048
+  height: 1362
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-09-15 11:48:40.000000000+02:00

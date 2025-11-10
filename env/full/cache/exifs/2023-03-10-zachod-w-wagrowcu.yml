@@ -1,78 +1,24 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2023_03_10__17_23_DJI_0870.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
-- image_filename: 2023_03_10__17_27_DJI_0884.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 251.7
+  lat: 52.80929722222222
+  lon: 17.21906111111111
+  altitude: 237.3
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.002857142857142857
-  exposure_string: 1/350 s
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 100
-  width: 8005
-  height: 5967
+  width: 8054
+  height: 6034
   camera: FC3582
-  time: 2023-03-10 17:27:32.000000000+01:00
-- image_filename: 2023_03_10__17_28_DJI_0889.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 247.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.008333333333333333
-  exposure_string: 1/120 s
-  iso: 130
-  width: 8034
-  height: 6015
-  camera: FC3582
-  time: 2023-03-10 17:28:44.000000000+01:00
-- image_filename: 2023_03_10__17_24_DJI_0873.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 251.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 130
-  width: 8033
-  height: 6007
-  camera: FC3582
-  time: 2023-03-10 17:24:31.000000000+01:00
-- image_filename: 2023_03_10__17_47_DJI_0961.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 272.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 110
-  width: 7978
-  height: 5671
-  camera: FC3582
-  time: 2023-03-10 17:47:19.000000000+01:00
-- image_filename: 2023_03_10__17_49_DJI_0972.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 270.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002857142857142857
-  exposure_string: 1/350 s
-  iso: 100
-  width: 4016
-  height: 3003
-  camera: FC3582
-  time: 2023-03-10 17:49:44.000000000+01:00
+  time: 2023-03-10 17:23:55.000000000+01:00
 - image_filename: 2023_03_10__17_24_DJI_0872.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80929722222222
+  lon: 17.21906111111111
   altitude: 251.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -85,8 +31,154 @@
   height: 6029
   camera: FC3582
   time: 2023-03-10 17:24:20.000000000+01:00
+- image_filename: 2023_03_10__17_24_DJI_0873.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80929444444444
+  lon: 17.219069444444443
+  altitude: 251.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 130
+  width: 8033
+  height: 6007
+  camera: FC3582
+  time: 2023-03-10 17:24:31.000000000+01:00
+- image_filename: 2023_03_10__17_24_DJI_0874.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80929166666667
+  lon: 17.219074999999997
+  altitude: 251.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 140
+  width: 8051
+  height: 6033
+  camera: FC3582
+  time: 2023-03-10 17:24:42.000000000+01:00
+- image_filename: 2023_03_10__17_24_DJI_0875.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80929444444444
+  lon: 17.219074999999997
+  altitude: 251.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-10 17:24:50.000000000+01:00
+- image_filename: 2023_03_10__17_25_DJI_0876.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80929444444444
+  lon: 17.21907222222222
+  altitude: 251.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 100
+  width: 8017
+  height: 5986
+  camera: FC3582
+  time: 2023-03-10 17:25:02.000000000+01:00
+- image_filename: 2023_03_10__17_26_DJI_0881.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.809416666666664
+  lon: 17.217130555555553
+  altitude: 251.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 8034
+  height: 6012
+  camera: FC3582
+  time: 2023-03-10 17:26:31.000000000+01:00
+- image_filename: 2023_03_10__17_27_DJI_0883.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80938333333333
+  lon: 17.21503611111111
+  altitude: 251.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8041
+  height: 6018
+  camera: FC3582
+  time: 2023-03-10 17:27:23.000000000+01:00
+- image_filename: 2023_03_10__17_27_DJI_0884.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80938333333333
+  lon: 17.215033333333334
+  altitude: 251.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 100
+  width: 8005
+  height: 5967
+  camera: FC3582
+  time: 2023-03-10 17:27:32.000000000+01:00
+- image_filename: 2023_03_10__17_27_DJI_0885.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80938333333333
+  lon: 17.215038888888888
+  altitude: 250.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008333333333333333
+  exposure_string: 1/120 s
+  iso: 130
+  width: 8064
+  height: 5808
+  camera: FC3582
+  time: 2023-03-10 17:27:43.000000000+01:00
+- image_filename: 2023_03_10__17_27_DJI_0886.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80938611111111
+  lon: 17.215038888888888
+  altitude: 249.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-10 17:27:55.000000000+01:00
 - image_filename: 2023_03_10__17_28_DJI_0887.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80938333333333
+  lon: 17.215041666666664
   altitude: 249.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -99,64 +191,26 @@
   height: 6018
   camera: FC3582
   time: 2023-03-10 17:28:02.000000000+01:00
-- image_filename: 2023_03_10__17_47_DJI_0962.jpg
+- image_filename: 2023_03_10__17_28_DJI_0889.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 271.3
+  lat: 52.80848333333333
+  lon: 17.216327777777778
+  altitude: 247.9
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 110
-  width: 8018
-  height: 5991
+  exposure: 0.008333333333333333
+  exposure_string: 1/120 s
+  iso: 130
+  width: 8034
+  height: 6015
   camera: FC3582
-  time: 2023-03-10 17:47:27.000000000+01:00
-- image_filename: 2023_03_10__17_42_DJI_0933.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 258.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.004166666666666667
-  exposure_string: 1/240 s
-  iso: 110
-  width: 7979
-  height: 5936
-  camera: FC3582
-  time: 2023-03-10 17:42:20.000000000+01:00
-- image_filename: 2023_03_10__17_44_DJI_0940.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 257.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 8029
-  height: 6008
-  camera: FC3582
-  time: 2023-03-10 17:44:35.000000000+01:00
-- image_filename: 2023_03_10__17_47_DJI_0963.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 271.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 100
-  width: 8054
-  height: 6034
-  camera: FC3582
-  time: 2023-03-10 17:47:35.000000000+01:00
+  time: 2023-03-10 17:28:44.000000000+01:00
 - image_filename: 2023_03_10__17_29_DJI_0891.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.808480555555555
+  lon: 17.216327777777778
   altitude: 246.7
   focal_length: 6.7
   focal_length_35: 24.0
@@ -171,6 +225,8 @@
   time: 2023-03-10 17:29:03.000000000+01:00
 - image_filename: 2023_03_10__17_30_DJI_0894.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80811944444444
+  lon: 17.214241666666666
   altitude: 246.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -183,22 +239,42 @@
   height: 6042
   camera: FC3582
   time: 2023-03-10 17:30:02.000000000+01:00
-- image_filename: 2023_03_10__17_27_DJI_0883.jpg
+- image_filename: 2023_03_10__17_30_DJI_0897.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 251.8
+  lat: 52.80812222222222
+  lon: 17.214241666666666
+  altitude: 244.8
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 8041
-  height: 6018
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 120
+  width: 8064
+  height: 5501
   camera: FC3582
-  time: 2023-03-10 17:27:23.000000000+01:00
+  time: 2023-03-10 17:30:26.000000000+01:00
+- image_filename: 2023_03_10__17_30_DJI_0898.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.808125
+  lon: 17.214244444444443
+  altitude: 244.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 120
+  width: 7998
+  height: 5960
+  camera: FC3582
+  time: 2023-03-10 17:30:35.000000000+01:00
 - image_filename: 2023_03_10__17_33_DJI_0905.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80931944444444
+  lon: 17.21528888888889
   altitude: 241.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -213,6 +289,8 @@
   time: 2023-03-10 17:33:04.000000000+01:00
 - image_filename: 2023_03_10__17_34_DJI_0909.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80934722222222
+  lon: 17.217755555555552
   altitude: 237.7
   focal_length: 6.7
   focal_length_35: 24.0
@@ -225,176 +303,10 @@
   height: 6015
   camera: FC3582
   time: 2023-03-10 17:34:15.000000000+01:00
-- image_filename: 2023_03_10__17_30_DJI_0898.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 244.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 120
-  width: 7998
-  height: 5960
-  camera: FC3582
-  time: 2023-03-10 17:30:35.000000000+01:00
-- image_filename: 2023_03_10__17_30_DJI_0897.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 244.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.02
-  exposure_string: 1/50 s
-  iso: 120
-  width: 8064
-  height: 5501
-  camera: FC3582
-  time: 2023-03-10 17:30:26.000000000+01:00
-- image_filename: 2023_03_10__17_24_DJI_0875.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 251.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 130
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-10 17:24:50.000000000+01:00
-- image_filename: 2023_03_10__17_27_DJI_0886.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 249.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 140
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-10 17:27:55.000000000+01:00
-- image_filename: 2023_03_10__17_25_DJI_0876.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 251.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002857142857142857
-  exposure_string: 1/350 s
-  iso: 100
-  width: 8017
-  height: 5986
-  camera: FC3582
-  time: 2023-03-10 17:25:02.000000000+01:00
-- image_filename: 2023_03_10__17_43_DJI_0936.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 257.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-10 17:43:26.000000000+01:00
-- image_filename: 2023_03_10__17_23_DJI_0870.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 237.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 8054
-  height: 6034
-  camera: FC3582
-  time: 2023-03-10 17:23:55.000000000+01:00
-- image_filename: 2023_03_10__17_42_DJI_0934.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 257.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 120
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-10 17:42:33.000000000+01:00
-- image_filename: 2023_03_10__17_43_DJI_0937.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 257.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.011111111111111112
-  exposure_string: 1/90 s
-  iso: 130
-  width: 8014
-  height: 5981
-  camera: FC3582
-  time: 2023-03-10 17:43:36.000000000+01:00
-- image_filename: 2023_03_10__17_26_DJI_0881.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 251.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 200
-  width: 8034
-  height: 6012
-  camera: FC3582
-  time: 2023-03-10 17:26:31.000000000+01:00
-- image_filename: 2023_03_10__17_24_DJI_0874.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 251.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 140
-  width: 8051
-  height: 6033
-  camera: FC3582
-  time: 2023-03-10 17:24:42.000000000+01:00
-- image_filename: 2023_03_10__17_27_DJI_0885.jpg
-  post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 250.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.008333333333333333
-  exposure_string: 1/120 s
-  iso: 130
-  width: 8064
-  height: 5808
-  camera: FC3582
-  time: 2023-03-10 17:27:43.000000000+01:00
 - image_filename: 2023_03_10__17_35_DJI_0914.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80934722222222
+  lon: 17.217744444444442
   altitude: 236.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -407,22 +319,138 @@
   height: 2977
   camera: FC3582
   time: 2023-03-10 17:35:07.000000000+01:00
-- image_filename: 2023_03_10__17_49_DJI_0967.jpg
+- image_filename: 2023_03_10__17_42_DJI_0933.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
-  altitude: 270.9
+  lat: 52.80931944444444
+  lon: 17.219074999999997
+  altitude: 258.4
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  iso: 100
-  width: 8058
-  height: 6039
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 110
+  width: 7979
+  height: 5936
   camera: FC3582
-  time: 2023-03-10 17:49:23.000000000+01:00
+  time: 2023-03-10 17:42:20.000000000+01:00
+- image_filename: 2023_03_10__17_42_DJI_0934.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80931944444444
+  lon: 17.219077777777777
+  altitude: 257.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-10 17:42:33.000000000+01:00
+- image_filename: 2023_03_10__17_43_DJI_0936.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.809577777777776
+  lon: 17.221241666666664
+  altitude: 257.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-10 17:43:26.000000000+01:00
+- image_filename: 2023_03_10__17_43_DJI_0937.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.809574999999995
+  lon: 17.221238888888887
+  altitude: 257.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.011111111111111112
+  exposure_string: 1/90 s
+  iso: 130
+  width: 8014
+  height: 5981
+  camera: FC3582
+  time: 2023-03-10 17:43:36.000000000+01:00
+- image_filename: 2023_03_10__17_44_DJI_0940.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.809886111111105
+  lon: 17.21981111111111
+  altitude: 257.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 8029
+  height: 6008
+  camera: FC3582
+  time: 2023-03-10 17:44:35.000000000+01:00
+- image_filename: 2023_03_10__17_47_DJI_0961.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80976666666666
+  lon: 17.217627777777775
+  altitude: 272.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 110
+  width: 7978
+  height: 5671
+  camera: FC3582
+  time: 2023-03-10 17:47:19.000000000+01:00
+- image_filename: 2023_03_10__17_47_DJI_0962.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80976388888889
+  lon: 17.217633333333332
+  altitude: 271.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2023-03-10 17:47:27.000000000+01:00
+- image_filename: 2023_03_10__17_47_DJI_0963.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80976111111111
+  lon: 17.217633333333332
+  altitude: 271.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 8054
+  height: 6034
+  camera: FC3582
+  time: 2023-03-10 17:47:35.000000000+01:00
 - image_filename: 2023_03_10__17_49_DJI_0966.jpg
   post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.809380555555556
+  lon: 17.219141666666665
   altitude: 271.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -435,3 +463,35 @@
   height: 5977
   camera: FC3582
   time: 2023-03-10 17:49:16.000000000+01:00
+- image_filename: 2023_03_10__17_49_DJI_0967.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80938888888888
+  lon: 17.21916111111111
+  altitude: 270.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 100
+  width: 8058
+  height: 6039
+  camera: FC3582
+  time: 2023-03-10 17:49:23.000000000+01:00
+- image_filename: 2023_03_10__17_49_DJI_0972.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  lat: 52.80938888888888
+  lon: 17.219169444444443
+  altitude: 270.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 100
+  width: 4016
+  height: 3003
+  camera: FC3582
+  time: 2023-03-10 17:49:44.000000000+01:00

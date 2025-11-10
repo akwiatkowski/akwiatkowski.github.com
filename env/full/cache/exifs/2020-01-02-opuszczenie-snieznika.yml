@@ -1,598 +1,4 @@
 ---
-- image_filename: 2020_01_02__09_19__1024853.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1161.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-02 09:19:44+01:00
-  focus_distance: 4.16
-- image_filename: 2020_01_02__09_16__1024847.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1161.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-02 09:16:51+01:00
-  focus_distance: 3.92
-- image_filename: 2020_01_02__10_53__1025039.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.213375000000006
-  lon: 16.805625
-  altitude: 825.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4810
-  height: 3433
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-02 10:53:33+01:00
-  focus_distance: 3.11
-- image_filename: 2020_01_02__10_36__1024997.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.217819444444444
-  lon: 16.813041666666667
-  altitude: 933.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5161
-  height: 3804
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-01-02 10:36:14+01:00
-  focus_distance: 2.63
-- image_filename: 2020_01_02__10_07__1024944.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20829166666667
-  lon: 16.832
-  altitude: 1203.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-02 10:07:15+01:00
-  focus_distance: 8.0
-- image_filename: 2020_01_02__11_09__1025058.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21854166666667
-  lon: 16.80126388888889
-  altitude: 740.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4382
-  height: 3274
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-02 11:09:07+01:00
-  focus_distance: 3.92
-- image_filename: 2020_01_02__10_54__1025042.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.212833333333336
-  lon: 16.80536111111111
-  altitude: 818.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-01-02 10:54:11+01:00
-  focus_distance: 2.98
-- image_filename: 2020_01_02__11_09__1025063.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21866666666667
-  lon: 16.800569444444445
-  altitude: 736.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-01-02 11:09:42+01:00
-  focus_distance: 1.15
-- image_filename: 2020_01_02__10_50__1025036.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21523611111111
-  lon: 16.806708333333333
-  altitude: 854.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5177
-  height: 3829
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-02 10:50:28+01:00
-  focus_distance: 1000.0
-- image_filename: 2020_01_02__09_56__1024915.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.832083333333333
-  altitude: 1159.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 14.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2020-01-02 09:56:16+01:00
-  focus_distance: 10.88
-- image_filename: 2020_01_02__10_05__1024940.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20806944444445
-  lon: 16.832472222222222
-  altitude: 1208.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2020-01-02 10:05:18+01:00
-  focus_distance: 10.86
-- image_filename: 2020_01_02__10_49__1025032.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21530555555556
-  lon: 16.806722222222223
-  altitude: 854.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5183
-  height: 3836
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-01-02 10:49:34+01:00
-  focus_distance: 19.67
-- image_filename: 2020_01_02__11_16__1025067.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21955555555556
-  lon: 16.794180555555556
-  altitude: 700.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5068
-  height: 3674
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-01-02 11:16:04+01:00
-  focus_distance: 68.84
-- image_filename: 2020_01_02__09_43__1024898.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1160.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2020-01-02 09:43:12+01:00
-  focus_distance: 6.28
-- image_filename: 2020_01_02__10_56__1025045.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21197222222222
-  lon: 16.804180555555558
-  altitude: 798.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-01-02 10:56:14+01:00
-  focus_distance: 37.75
-- image_filename: 2020_01_02__09_38__1024878.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1160.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2020-01-02 09:38:30+01:00
-  focus_distance: 5.0
-- image_filename: 2020_01_02__09_24__1024860.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1161.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5118
-  height: 3848
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-01-02 09:24:09+01:00
-  focus_distance: 3.19
-- image_filename: 2020_01_02__09_45__1024907.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1160.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-01-02 09:45:42+01:00
-  focus_distance: 33.1
-- image_filename: 2020_01_02__10_45__1025019.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21568055555556
-  lon: 16.807625
-  altitude: 862.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5199
-  height: 3858
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-01-02 10:45:49+01:00
-  focus_distance: 26.34
-- image_filename: 2020_01_02__09_51__1024912.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1159.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-02 09:51:47+01:00
-  focus_distance: 115.38
-- image_filename: 2020_01_02__10_34__1024994.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21684722222222
-  lon: 16.813180555555558
-  altitude: 948.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4978
-  height: 3716
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-02 10:34:45+01:00
-  focus_distance: 21.06
-- image_filename: 2020_01_02__09_45__1024904.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1160.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-01-02 09:45:12+01:00
-  focus_distance: 167.18
-- image_filename: 2020_01_02__10_49__1025029.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21527777777778
-  lon: 16.80677777777778
-  altitude: 854.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4678
-  height: 3654
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-02 10:49:08+01:00
-  focus_distance: 2.54
-- image_filename: 2020_01_02__09_07__1024835.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1162.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5055
-  height: 3774
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-02 09:07:41+01:00
-  focus_distance: 7.08
-- image_filename: 2020_01_02__10_30__1024986.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21354166666667
-  lon: 16.81336111111111
-  altitude: 1005.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5079
-  height: 3903
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-02 10:30:02+01:00
-  focus_distance: 11.06
-- image_filename: 2020_01_02__09_59__1024922.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.832083333333333
-  altitude: 1159.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5101
-  height: 3808
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2020-01-02 09:59:51+01:00
-  focus_distance: 9.44
-- image_filename: 2020_01_02__10_57__1025047.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.212625
-  lon: 16.804347222222223
-  altitude: 792.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5123
-  height: 3752
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-02 10:57:45+01:00
-  focus_distance: 7.27
-- image_filename: 2020_01_02__09_40__1024887.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1160.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-02 09:40:35+01:00
-  focus_distance: 2.91
-- image_filename: 2020_01_02__09_21__1024855.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.20813888888889
-  lon: 16.83209722222222
-  altitude: 1161.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-02 09:21:05+01:00
-  focus_distance: 3.19
-- image_filename: 2020_01_02__10_15__1024959.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.208152777777784
-  lon: 16.82623611111111
-  altitude: 1142.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 16.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2020-01-02 10:15:32+01:00
-  focus_distance: 9.76
-- image_filename: 2020_01_02__10_48__1025026.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21527777777778
-  lon: 16.806819444444447
-  altitude: 854.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5190
-  height: 3785
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-01-02 10:48:45+01:00
-  focus_distance: 15.56
-- image_filename: 2020_01_02__10_08__1024945.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.208111111111116
-  lon: 16.83136111111111
-  altitude: 1190.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5118
-  height: 3821
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-02 10:08:12+01:00
-  focus_distance: 20.48
-- image_filename: 2020_01_02__10_44__1025016.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.215875000000004
-  lon: 16.808
-  altitude: 866.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-02 10:44:53+01:00
-  focus_distance: 15.68
 - image_filename: 2020_01_02__08_34__1024824.jpg
   post_slug: 2020-01-02-opuszczenie-snieznika
   lat: 50.208125
@@ -602,33 +8,321 @@
   focal_length_35: 82.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 64.0
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5169
   height: 3807
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-02 08:34:30+01:00
-  focus_distance: 64.0
-- image_filename: 2020_01_02__10_57__1025046.jpg
-  post_slug: 2020-01-02-opuszczenie-snieznika
-  lat: 50.21240277777778
-  lon: 16.804277777777777
-  altitude: 794.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5185
-  height: 3839
+  time: 2020-01-02 08:34:30.000000000+01:00
+- image_filename: 2020_01_02__09_07__1024835.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1162.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 6.3
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-01-02 10:57:14+01:00
-  focus_distance: 19.09
+  focus_distance: 7.08
+  iso: 200
+  width: 5055
+  height: 3774
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:07:41.000000000+01:00
+- image_filename: 2020_01_02__09_16__1024847.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1161.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.92
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:16:51.000000000+01:00
+- image_filename: 2020_01_02__09_19__1024853.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1161.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.16
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:19:44.000000000+01:00
+- image_filename: 2020_01_02__09_21__1024855.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1161.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.19
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:21:05.000000000+01:00
+- image_filename: 2020_01_02__09_24__1024860.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1161.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.19
+  iso: 200
+  width: 5118
+  height: 3848
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:24:09.000000000+01:00
+- image_filename: 2020_01_02__09_38__1024878.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1160.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 5.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:38:30.000000000+01:00
+- image_filename: 2020_01_02__09_40__1024887.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1160.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.91
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:40:35.000000000+01:00
+- image_filename: 2020_01_02__09_43__1024898.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1160.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 6.28
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:43:12.000000000+01:00
+- image_filename: 2020_01_02__09_45__1024904.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1160.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 167.18
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:45:12.000000000+01:00
+- image_filename: 2020_01_02__09_45__1024907.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1160.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 33.1
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:45:42.000000000+01:00
+- image_filename: 2020_01_02__09_51__1024912.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.83209722222222
+  altitude: 1159.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 115.38
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:51:47.000000000+01:00
+- image_filename: 2020_01_02__09_56__1024915.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.832083333333333
+  altitude: 1159.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 14.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 10.88
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:56:16.000000000+01:00
+- image_filename: 2020_01_02__09_59__1024922.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20813888888889
+  lon: 16.832083333333333
+  altitude: 1159.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 9.44
+  iso: 200
+  width: 5101
+  height: 3808
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 09:59:51.000000000+01:00
+- image_filename: 2020_01_02__10_05__1024940.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20806944444445
+  lon: 16.832472222222222
+  altitude: 1208.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 10.86
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:05:18.000000000+01:00
+- image_filename: 2020_01_02__10_07__1024944.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.20829166666667
+  lon: 16.832
+  altitude: 1203.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 8.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:07:15.000000000+01:00
+- image_filename: 2020_01_02__10_08__1024945.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.208111111111116
+  lon: 16.83136111111111
+  altitude: 1190.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 20.48
+  iso: 200
+  width: 5118
+  height: 3821
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:08:12.000000000+01:00
+- image_filename: 2020_01_02__10_15__1024959.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.208152777777784
+  lon: 16.82623611111111
+  altitude: 1142.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 16.0
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 9.76
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:15:32.000000000+01:00
 - image_filename: 2020_01_02__10_28__1024983.jpg
   post_slug: 2020-01-02-opuszczenie-snieznika
   lat: 50.212833333333336
@@ -638,15 +332,69 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-01-02 10:28:41+01:00
   focus_distance: 16.28
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:28:41.000000000+01:00
+- image_filename: 2020_01_02__10_30__1024986.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21354166666667
+  lon: 16.81336111111111
+  altitude: 1005.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 11.06
+  iso: 200
+  width: 5079
+  height: 3903
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:30:02.000000000+01:00
+- image_filename: 2020_01_02__10_34__1024994.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21684722222222
+  lon: 16.813180555555558
+  altitude: 948.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 21.06
+  iso: 200
+  width: 4978
+  height: 3716
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:34:45.000000000+01:00
+- image_filename: 2020_01_02__10_36__1024997.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.217819444444444
+  lon: 16.813041666666667
+  altitude: 933.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.63
+  iso: 200
+  width: 5161
+  height: 3804
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:36:14.000000000+01:00
 - image_filename: 2020_01_02__10_41__1025006.jpg
   post_slug: 2020-01-02-opuszczenie-snieznika
   lat: 50.21716666666667
@@ -656,12 +404,264 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-01-02 10:41:09+01:00
   focus_distance: 4.43
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:41:09.000000000+01:00
+- image_filename: 2020_01_02__10_44__1025016.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.215875000000004
+  lon: 16.808
+  altitude: 866.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 15.68
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:44:53.000000000+01:00
+- image_filename: 2020_01_02__10_45__1025019.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21568055555556
+  lon: 16.807625
+  altitude: 862.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 26.34
+  iso: 200
+  width: 5199
+  height: 3858
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:45:49.000000000+01:00
+- image_filename: 2020_01_02__10_48__1025026.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21527777777778
+  lon: 16.806819444444447
+  altitude: 854.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 15.56
+  iso: 200
+  width: 5190
+  height: 3785
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:48:45.000000000+01:00
+- image_filename: 2020_01_02__10_49__1025029.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21527777777778
+  lon: 16.80677777777778
+  altitude: 854.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.54
+  iso: 200
+  width: 4678
+  height: 3654
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:49:08.000000000+01:00
+- image_filename: 2020_01_02__10_49__1025032.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21530555555556
+  lon: 16.806722222222223
+  altitude: 854.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 19.67
+  iso: 200
+  width: 5183
+  height: 3836
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:49:34.000000000+01:00
+- image_filename: 2020_01_02__10_50__1025036.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21523611111111
+  lon: 16.806708333333333
+  altitude: 854.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5177
+  height: 3829
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:50:28.000000000+01:00
+- image_filename: 2020_01_02__10_53__1025039.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.213375000000006
+  lon: 16.805625
+  altitude: 825.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.11
+  iso: 200
+  width: 4810
+  height: 3433
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:53:33.000000000+01:00
+- image_filename: 2020_01_02__10_54__1025042.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.212833333333336
+  lon: 16.80536111111111
+  altitude: 818.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.98
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:54:11.000000000+01:00
+- image_filename: 2020_01_02__10_56__1025045.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21197222222222
+  lon: 16.804180555555558
+  altitude: 798.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 37.75
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:56:14.000000000+01:00
+- image_filename: 2020_01_02__10_57__1025046.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21240277777778
+  lon: 16.804277777777777
+  altitude: 794.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 19.09
+  iso: 200
+  width: 5185
+  height: 3839
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:57:14.000000000+01:00
+- image_filename: 2020_01_02__10_57__1025047.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.212625
+  lon: 16.804347222222223
+  altitude: 792.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 7.27
+  iso: 200
+  width: 5123
+  height: 3752
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 10:57:45.000000000+01:00
+- image_filename: 2020_01_02__11_09__1025058.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21854166666667
+  lon: 16.80126388888889
+  altitude: 740.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.92
+  iso: 200
+  width: 4382
+  height: 3274
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 11:09:07.000000000+01:00
+- image_filename: 2020_01_02__11_09__1025063.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21866666666667
+  lon: 16.800569444444445
+  altitude: 736.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.15
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 11:09:42.000000000+01:00
+- image_filename: 2020_01_02__11_16__1025067.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21955555555556
+  lon: 16.794180555555556
+  altitude: 700.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 68.84
+  iso: 200
+  width: 5068
+  height: 3674
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-02 11:16:04.000000000+01:00

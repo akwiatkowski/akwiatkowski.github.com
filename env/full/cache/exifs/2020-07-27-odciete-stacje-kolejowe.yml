@@ -1,665 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-- image_filename: 2020_07_27__07_44_DSC09347.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.82104166666667
-  lon: 21.59161111111111
-  altitude: 129.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7225
-  height: 4825
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-07-27 07:44:07+02:00
-- image_filename: 2020_07_27__08_18_DSC09422.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.828388888888895
-  lon: 21.352097222222223
-  altitude: 167.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-07-27 08:18:33+02:00
-- image_filename: 2020_07_27__06_52_DSC09279.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.012319444444444
-  lon: 21.735875
-  altitude: 118.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 400
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7271
-  height: 4856
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  time: 2020-07-27 06:52:56+02:00
-- image_filename: 2020_07_27__07_49_DSC09354.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.80836111111111
-  lon: 21.58313888888889
-  altitude: 123.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-07-27 07:49:35+02:00
-- image_filename: 2020_07_27__06_58_DSC09286.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.98829166666667
-  lon: 21.760708333333334
-  altitude: 117.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 400
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7320
-  height: 4889
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-07-27 06:58:30+02:00
-- image_filename: 2020_07_27__07_36_DSC09334.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.87538888888889
-  lon: 21.59201388888889
-  altitude: 117.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 400
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  time: 2020-07-27 07:36:45+02:00
-- image_filename: 2020_07_27__08_09_DSC09389.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.821847222222225
-  lon: 21.458569444444443
-  altitude: 139.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2020-07-27 08:09:06+02:00
-- image_filename: 2020_07_27__08_17_DSC09414.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.832013888888895
-  lon: 21.371875
-  altitude: 148.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7009
-  height: 4681
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2020-07-27 08:17:00+02:00
-- image_filename: 2020_07_27__08_28__7276102.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.85984722222222
-  lon: 21.295694444444447
-  altitude: 152.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4843
-  height: 3524
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-07-27 08:28:14+02:00
-  focus_distance: 3.29
-- image_filename: 2020_07_27__06_49_DSC09275.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.031597222222224
-  lon: 21.743208333333335
-  altitude: 132.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 400
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7052
-  height: 4709
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  time: 2020-07-27 06:49:57+02:00
-- image_filename: 2020_07_27__08_06_DSC09385.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.81133333333333
-  lon: 21.479027777777777
-  altitude: 134.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2020-07-27 08:06:37+02:00
-- image_filename: 2020_07_27__08_05_DSC09378.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.809888888888885
-  lon: 21.49684722222222
-  altitude: 127.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-07-27 08:05:25+02:00
-- image_filename: 2020_07_27__07_35_DSC09327.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.883944444444445
-  lon: 21.577680555555556
-  altitude: 124.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 400
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7365
-  height: 4919
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  time: 2020-07-27 07:35:08+02:00
-- image_filename: 2020_07_26__14_41__7265695.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.295680555555556
-  lon: 22.65636111111111
-  altitude: 195.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-07-26 14:41:55+02:00
-  focus_distance: 102.4
-- image_filename: 2020_07_27__07_01_DSC09298.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.96681944444445
-  lon: 21.750291666666666
-  altitude: 115.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 400
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7365
-  height: 4919
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  time: 2020-07-27 07:01:28+02:00
-- image_filename: 2020_07_27__06_59_DSC09294.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.979486111111115
-  lon: 21.761708333333335
-  altitude: 118.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 400
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7282
-  height: 4863
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  time: 2020-07-27 06:59:25+02:00
-- image_filename: 2020_07_27__08_26_DSC09441.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.85995833333333
-  lon: 21.295958333333335
-  altitude: 152.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7102
-  height: 4744
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2020-07-27 08:26:55+02:00
-- image_filename: 2020_07_27__08_28_DSC09448.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.85976388888889
-  lon: 21.295861111111112
-  altitude: 152.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4919
-  height: 7365
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2020-07-27 08:28:48+02:00
-- image_filename: 2020_07_27__08_43_DSC09463.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.764694444444444
-  lon: 21.337833333333332
-  altitude: 142.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7249
-  height: 4743
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-07-27 08:43:20+02:00
-- image_filename: 2020_07_27__08_03_DSC09375.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.80281944444444
-  lon: 21.501916666666666
-  altitude: 126.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7033
-  height: 4696
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  time: 2020-07-27 08:03:36+02:00
-- image_filename: 2020_07_27__07_58_DSC09366.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.80180555555555
-  lon: 21.562194444444444
-  altitude: 118.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7147
-  height: 4773
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  time: 2020-07-27 07:58:58+02:00
-- image_filename: 2020_07_27__08_45_DSC09467.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.752694444444444
-  lon: 21.34120833333333
-  altitude: 140.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6807
-  height: 4596
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2020-07-27 08:45:11+02:00
-- image_filename: 2020_07_27__07_49_DSC09355.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.80836111111111
-  lon: 21.583125
-  altitude: 123.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-07-27 07:49:41+02:00
-- image_filename: 2020_07_26__17_19__7265995.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.217819444444444
-  lon: 21.725819444444443
-  altitude: 126.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5167
-  height: 3902
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-07-26 17:19:33+02:00
-  focus_distance: 7.95
-- image_filename: 2020_07_27__08_16_DSC09413.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.83204166666667
-  lon: 21.372430555555557
-  altitude: 148.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2020-07-27 08:16:57+02:00
-- image_filename: 2020_07_26__17_21__7266001.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.217736111111115
-  lon: 21.725388888888887
-  altitude: 125.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5198
-  height: 3617
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2020-07-26 17:21:37+02:00
-  focus_distance: 2.99
-- image_filename: 2020_07_27__07_49_DSC09353.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.80836111111111
-  lon: 21.583152777777777
-  altitude: 123.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-07-27 07:49:23+02:00
-- image_filename: 2020_07_26__15_26__7265764.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.28611111111111
-  lon: 22.51797222222222
-  altitude: 213.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5032
-  height: 3692
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-07-26 15:26:52+02:00
-  focus_distance: 215.57
-- image_filename: 2020_07_27__07_48_DSC09351.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.808305555555556
-  lon: 21.583222222222222
-  altitude: 122.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7290
-  height: 4814
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2020-07-27 07:48:49+02:00
-- image_filename: 2020_07_26__17_35__7266015.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.217708333333334
-  lon: 21.72533333333333
-  altitude: 125.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3884
-  height: 5194
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2020-07-26 17:35:39+02:00
-  focus_distance: 2.06
-- image_filename: 2020_07_26__14_39__7265684.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.29595833333333
-  lon: 22.657833333333333
-  altitude: 202.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4501
-  height: 3490
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-07-26 14:39:10+02:00
-  focus_distance: 8.07
-- image_filename: 2020_07_27__08_27__7276099.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.859833333333334
-  lon: 21.295680555555556
-  altitude: 152.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5158
-  height: 3814
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-07-27 08:27:59+02:00
-  focus_distance: 21.61
-- image_filename: 2020_07_26__14_44__7265710.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.29604166666667
-  lon: 22.654916666666665
-  altitude: 191.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-07-26 14:44:57+02:00
-  focus_distance: 8.31
-- image_filename: 2020_07_26__20_52__7266060.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.03594444444444
-  lon: 21.768763888888888
-  altitude: 115.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3746
-  height: 5044
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2020-07-26 20:52:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_07_27__08_46_DSC09471.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.74229166666667
-  lon: 21.33533333333333
-  altitude: 142.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6562
-  height: 4251
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-07-27 08:46:56+02:00
-- image_filename: 2020_07_26__14_41__7265692.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.295680555555556
-  lon: 22.656374999999997
-  altitude: 195.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-07-26 14:41:51+02:00
-  focus_distance: 25.44
-- image_filename: 2020_07_26__16_30__7265822.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.267402777777775
-  lon: 22.27347222222222
-  altitude: 227.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5082
-  height: 3794
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-07-26 16:30:41+02:00
-  focus_distance: 9.9
-- image_filename: 2020_07_26__17_58__7266033.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.21765277777778
-  lon: 21.72523611111111
-  altitude: 125.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-07-26 17:58:35+02:00
-  focus_distance: 2.89
 - image_filename: 2020_07_26__13_57__7265623.jpg
   post_slug: 2020-07-27-odciete-stacje-kolejowe
   lat: 54.121180555555554
@@ -669,32 +8,15 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.0008
   exposure_string: 1/1250 s
-  time: 2020-07-26 13:57:18+02:00
   focus_distance: 21.17
-- image_filename: 2020_07_27__07_51_DSC09357.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.808138888888884
-  lon: 21.58326388888889
-  altitude: 123.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4828
-  height: 7229
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-07-27 07:51:54+02:00
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 13:57:18.000000000+02:00
 - image_filename: 2020_07_26__14_09__7265642.jpg
   post_slug: 2020-07-27-odciete-stacje-kolejowe
   lat: 54.185125
@@ -704,33 +26,33 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-07-26 14:09:00+02:00
   focus_distance: 73.47
-- image_filename: 2020_07_26__18_15__7266037.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.177416666666666
-  lon: 21.813375
-  altitude: 120.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
+  iso: 320
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4765
-  height: 3706
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-07-26 18:15:27+02:00
-  focus_distance: 2.83
+  time: 2020-07-26 14:09:00.000000000+02:00
+- image_filename: 2020_07_26__14_39__7265684.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.29595833333333
+  lon: 22.657833333333333
+  altitude: 202.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 8.07
+  iso: 320
+  width: 4501
+  height: 3490
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 14:39:10.000000000+02:00
 - image_filename: 2020_07_26__14_40__7265690.jpg
   post_slug: 2020-07-27-odciete-stacje-kolejowe
   lat: 54.29597222222222
@@ -740,68 +62,87 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-07-26 14:40:39+02:00
   focus_distance: 15.68
-- image_filename: 2020_07_27__07_48_DSC09349.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.80818055555555
-  lon: 21.583277777777777
-  altitude: 122.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7365
-  height: 4919
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  time: 2020-07-27 07:48:27+02:00
-- image_filename: 2020_07_27__07_52__7276086.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.807916666666664
-  lon: 21.58290277777778
-  altitude: 123.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4444
-  height: 3521
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-07-27 07:52:48+02:00
-  focus_distance: 3.12
-- image_filename: 2020_07_27__07_49__7276077.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.80836111111111
-  lon: 21.58313888888889
-  altitude: 123.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-07-27 07:49:35+02:00
-  focus_distance: 3.7
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 14:40:39.000000000+02:00
+- image_filename: 2020_07_26__14_41__7265692.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.295680555555556
+  lon: 22.656374999999997
+  altitude: 195.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.44
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 14:41:51.000000000+02:00
+- image_filename: 2020_07_26__14_41__7265695.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.295680555555556
+  lon: 22.65636111111111
+  altitude: 195.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 102.4
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 14:41:55.000000000+02:00
+- image_filename: 2020_07_26__14_44__7265710.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.29604166666667
+  lon: 22.654916666666665
+  altitude: 191.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.31
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 14:44:57.000000000+02:00
+- image_filename: 2020_07_26__15_26__7265764.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.28611111111111
+  lon: 22.51797222222222
+  altitude: 213.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 215.57
+  iso: 320
+  width: 5032
+  height: 3692
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 15:26:52.000000000+02:00
 - image_filename: 2020_07_26__16_28__7265814.jpg
   post_slug: 2020-07-27-odciete-stacje-kolejowe
   lat: 54.286208333333335
@@ -811,68 +152,33 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4462
-  height: 3408
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-07-26 16:28:30+02:00
   focus_distance: 121.36
-- image_filename: 2020_07_27__08_26_DSC09438.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.86009722222222
-  lon: 21.29601388888889
-  altitude: 152.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7281
-  height: 4908
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2020-07-27 08:26:35+02:00
-- image_filename: 2020_07_27__07_53__7276089.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.807916666666664
-  lon: 21.582833333333333
-  altitude: 123.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
+  iso: 320
+  width: 4462
+  height: 3408
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4939
-  height: 3828
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-07-27 07:53:03+02:00
-  focus_distance: 3.35
-- image_filename: 2020_07_26__16_52__7265961.jpg
+  time: 2020-07-26 16:28:30.000000000+02:00
+- image_filename: 2020_07_26__16_30__7265822.jpg
   post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 54.247486111111115
-  lon: 22.026569444444444
-  altitude: 112.0
-  focal_length: 29.0
-  focal_length_35: 58.0
+  lat: 54.267402777777775
+  lon: 22.27347222222222
+  altitude: 227.0
+  focal_length: 38.0
+  focal_length_35: 76.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 9.9
   iso: 320
+  width: 5082
+  height: 3794
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5128
-  height: 3760
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-07-26 16:52:59+02:00
-  focus_distance: 4.95
+  time: 2020-07-26 16:30:41.000000000+02:00
 - image_filename: 2020_07_26__16_40__7265909.jpg
   post_slug: 2020-07-27-odciete-stacje-kolejowe
   lat: 54.20934722222223
@@ -882,33 +188,87 @@
   focal_length_35: 82.0
   crop: 2.0
   aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.0004
   exposure_string: 1/2500 s
-  time: 2020-07-26 16:40:43+02:00
   focus_distance: 1000.0
-- image_filename: 2020_07_27__08_28__7276103.jpg
-  post_slug: 2020-07-27-odciete-stacje-kolejowe
-  lat: 53.85977777777778
-  lon: 21.295875000000002
-  altitude: 152.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
+  iso: 320
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5091
-  height: 3816
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-07-27 08:28:57+02:00
-  focus_distance: 2.86
+  time: 2020-07-26 16:40:43.000000000+02:00
+- image_filename: 2020_07_26__16_52__7265961.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.247486111111115
+  lon: 22.026569444444444
+  altitude: 112.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 4.95
+  iso: 320
+  width: 5128
+  height: 3760
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 16:52:59.000000000+02:00
+- image_filename: 2020_07_26__17_19__7265995.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.217819444444444
+  lon: 21.725819444444443
+  altitude: 126.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 7.95
+  iso: 200
+  width: 5167
+  height: 3902
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 17:19:33.000000000+02:00
+- image_filename: 2020_07_26__17_21__7266001.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.217736111111115
+  lon: 21.725388888888887
+  altitude: 125.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 2.99
+  iso: 200
+  width: 5198
+  height: 3617
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 17:21:37.000000000+02:00
+- image_filename: 2020_07_26__17_35__7266015.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.217708333333334
+  lon: 21.72533333333333
+  altitude: 125.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 2.06
+  iso: 200
+  width: 3884
+  height: 5194
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 17:35:39.000000000+02:00
 - image_filename: 2020_07_26__17_58__7266031.jpg
   post_slug: 2020-07-27-odciete-stacje-kolejowe
   lat: 54.21765277777778
@@ -918,15 +278,480 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5004
-  height: 3714
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-07-26 17:58:29+02:00
   focus_distance: 4.43
+  iso: 200
+  width: 5004
+  height: 3714
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 17:58:29.000000000+02:00
+- image_filename: 2020_07_26__17_58__7266033.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.21765277777778
+  lon: 21.72523611111111
+  altitude: 125.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.89
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 17:58:35.000000000+02:00
+- image_filename: 2020_07_26__18_15__7266037.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.177416666666666
+  lon: 21.813375
+  altitude: 120.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 2.83
+  iso: 200
+  width: 4765
+  height: 3706
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-26 18:15:27.000000000+02:00
+- image_filename: 2020_07_26__20_52__7266060.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.03594444444444
+  lon: 21.768763888888888
+  altitude: 115.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3746
+  height: 5044
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2020-07-26 20:52:18.000000000+02:00
+- image_filename: 2020_07_27__06_49_DSC09275.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.031597222222224
+  lon: 21.743208333333335
+  altitude: 132.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 400
+  width: 7052
+  height: 4709
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 06:49:57.000000000+02:00
+- image_filename: 2020_07_27__06_52_DSC09279.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 54.012319444444444
+  lon: 21.735875
+  altitude: 118.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 400
+  width: 7271
+  height: 4856
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 06:52:56.000000000+02:00
+- image_filename: 2020_07_27__06_58_DSC09286.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.98829166666667
+  lon: 21.760708333333334
+  altitude: 117.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 400
+  width: 7320
+  height: 4889
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 06:58:30.000000000+02:00
+- image_filename: 2020_07_27__06_59_DSC09294.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.979486111111115
+  lon: 21.761708333333335
+  altitude: 118.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 400
+  width: 7282
+  height: 4863
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 06:59:25.000000000+02:00
+- image_filename: 2020_07_27__07_01_DSC09298.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.96681944444445
+  lon: 21.750291666666666
+  altitude: 115.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  iso: 400
+  width: 7365
+  height: 4919
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:01:28.000000000+02:00
+- image_filename: 2020_07_27__07_35_DSC09327.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.883944444444445
+  lon: 21.577680555555556
+  altitude: 124.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 400
+  width: 7365
+  height: 4919
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:35:08.000000000+02:00
+- image_filename: 2020_07_27__07_36_DSC09334.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.87538888888889
+  lon: 21.59201388888889
+  altitude: 117.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 400
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:36:45.000000000+02:00
+- image_filename: 2020_07_27__07_44_DSC09347.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.82104166666667
+  lon: 21.59161111111111
+  altitude: 129.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 250
+  width: 7225
+  height: 4825
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:44:07.000000000+02:00
+- image_filename: 2020_07_27__07_48_DSC09349.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.80818055555555
+  lon: 21.583277777777777
+  altitude: 122.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 250
+  width: 7365
+  height: 4919
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:48:27.000000000+02:00
+- image_filename: 2020_07_27__07_48_DSC09351.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.808305555555556
+  lon: 21.583222222222222
+  altitude: 122.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 250
+  width: 7290
+  height: 4814
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:48:49.000000000+02:00
+- image_filename: 2020_07_27__07_49_DSC09353.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.80836111111111
+  lon: 21.583152777777777
+  altitude: 123.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 250
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:49:23.000000000+02:00
+- image_filename: 2020_07_27__07_49_DSC09354.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.80836111111111
+  lon: 21.58313888888889
+  altitude: 123.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:49:35.000000000+02:00
+- image_filename: 2020_07_27__07_49_DSC09355.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.80836111111111
+  lon: 21.583125
+  altitude: 123.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:49:41.000000000+02:00
+- image_filename: 2020_07_27__07_49__7276077.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.80836111111111
+  lon: 21.58313888888889
+  altitude: 123.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.7
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-27 07:49:35.000000000+02:00
+- image_filename: 2020_07_27__07_51_DSC09357.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.808138888888884
+  lon: 21.58326388888889
+  altitude: 123.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 4828
+  height: 7229
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:51:54.000000000+02:00
+- image_filename: 2020_07_27__07_52__7276086.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.807916666666664
+  lon: 21.58290277777778
+  altitude: 123.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.12
+  iso: 200
+  width: 4444
+  height: 3521
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-27 07:52:48.000000000+02:00
+- image_filename: 2020_07_27__07_53__7276089.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.807916666666664
+  lon: 21.582833333333333
+  altitude: 123.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.35
+  iso: 200
+  width: 4939
+  height: 3828
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-27 07:53:03.000000000+02:00
+- image_filename: 2020_07_27__07_58_DSC09366.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.80180555555555
+  lon: 21.562194444444444
+  altitude: 118.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 250
+  width: 7147
+  height: 4773
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 07:58:58.000000000+02:00
+- image_filename: 2020_07_27__08_03_DSC09375.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.80281944444444
+  lon: 21.501916666666666
+  altitude: 126.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  iso: 250
+  width: 7033
+  height: 4696
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:03:36.000000000+02:00
+- image_filename: 2020_07_27__08_05_DSC09378.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.809888888888885
+  lon: 21.49684722222222
+  altitude: 127.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 250
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:05:25.000000000+02:00
+- image_filename: 2020_07_27__08_06_DSC09385.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.81133333333333
+  lon: 21.479027777777777
+  altitude: 134.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 250
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:06:37.000000000+02:00
+- image_filename: 2020_07_27__08_09_DSC09389.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.821847222222225
+  lon: 21.458569444444443
+  altitude: 139.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 250
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:09:06.000000000+02:00
+- image_filename: 2020_07_27__08_16_DSC09413.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.83204166666667
+  lon: 21.372430555555557
+  altitude: 148.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 250
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:16:57.000000000+02:00
+- image_filename: 2020_07_27__08_17_DSC09414.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.832013888888895
+  lon: 21.371875
+  altitude: 148.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 250
+  width: 7009
+  height: 4681
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:17:00.000000000+02:00
 - image_filename: 2020_07_27__08_17_DSC09416.jpg
   post_slug: 2020-07-27-odciete-stacje-kolejowe
   lat: 53.831583333333334
@@ -936,11 +761,184 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7352
-  height: 4911
   exposure: 0.0002
   exposure_string: 1/5000 s
-  time: 2020-07-27 08:17:06+02:00
+  iso: 250
+  width: 7352
+  height: 4911
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:17:06.000000000+02:00
+- image_filename: 2020_07_27__08_18_DSC09422.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.828388888888895
+  lon: 21.352097222222223
+  altitude: 167.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 250
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:18:33.000000000+02:00
+- image_filename: 2020_07_27__08_26_DSC09438.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.86009722222222
+  lon: 21.29601388888889
+  altitude: 152.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 250
+  width: 7281
+  height: 4908
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:26:35.000000000+02:00
+- image_filename: 2020_07_27__08_26_DSC09441.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.85995833333333
+  lon: 21.295958333333335
+  altitude: 152.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 7102
+  height: 4744
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:26:55.000000000+02:00
+- image_filename: 2020_07_27__08_27__7276099.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.859833333333334
+  lon: 21.295680555555556
+  altitude: 152.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 21.61
+  iso: 200
+  width: 5158
+  height: 3814
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-27 08:27:59.000000000+02:00
+- image_filename: 2020_07_27__08_28_DSC09448.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.85976388888889
+  lon: 21.295861111111112
+  altitude: 152.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 4919
+  height: 7365
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:28:48.000000000+02:00
+- image_filename: 2020_07_27__08_28__7276102.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.85984722222222
+  lon: 21.295694444444447
+  altitude: 152.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.29
+  iso: 200
+  width: 4843
+  height: 3524
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-27 08:28:14.000000000+02:00
+- image_filename: 2020_07_27__08_28__7276103.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.85977777777778
+  lon: 21.295875000000002
+  altitude: 152.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.86
+  iso: 200
+  width: 5091
+  height: 3816
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-07-27 08:28:57.000000000+02:00
+- image_filename: 2020_07_27__08_43_DSC09463.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.764694444444444
+  lon: 21.337833333333332
+  altitude: 142.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7249
+  height: 4743
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:43:20.000000000+02:00
+- image_filename: 2020_07_27__08_45_DSC09467.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.752694444444444
+  lon: 21.34120833333333
+  altitude: 140.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 6807
+  height: 4596
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:45:11.000000000+02:00
+- image_filename: 2020_07_27__08_46_DSC09471.jpg
+  post_slug: 2020-07-27-odciete-stacje-kolejowe
+  lat: 53.74229166666667
+  lon: 21.33533333333333
+  altitude: 142.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 6562
+  height: 4251
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-07-27 08:46:56.000000000+02:00

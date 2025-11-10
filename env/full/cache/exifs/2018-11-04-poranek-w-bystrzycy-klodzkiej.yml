@@ -1,616 +1,19 @@
 ---
-- image_filename: 2018_11_04__07_24__B042658.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  lat: 50.299375
-  lon: 16.654152777777778
-  altitude: 345.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 4928
-  height: 3837
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-11-04 07:24:40+01:00
-  focus_distance: 6.72
 - image_filename: 2018_11_03__17_16__B032637.jpg
   post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 5000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2018-11-03 17:16:39+01:00
   focus_distance: 85.78
-- image_filename: 2018_11_04__07_16__B042647.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  lat: 50.29608333333333
-  lon: 16.65151388888889
-  altitude: 338.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5109
-  height: 3904
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2018-11-04 07:16:04+01:00
-  focus_distance: 16.19
-- image_filename: 2018_11_04__07_32__B042664.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5094
-  height: 3702
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-11-04 07:32:03+01:00
-  focus_distance: 6.89
-- image_filename: 2018_11_04__07_32__B042665.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4314
-  height: 3754
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-11-04 07:32:32+01:00
-  focus_distance: 34.28
-- image_filename: 2018_11_04__07_33__B042668.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4681
-  height: 3764
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-11-04 07:33:41+01:00
-  focus_distance: 8.07
-- image_filename: 2018_11_04__07_41__B042675.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4940
-  height: 3595
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2018-11-04 07:41:24+01:00
-  focus_distance: 9.81
-- image_filename: 2018_11_04__07_51__B042688.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5177
-  height: 3858
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2018-11-04 07:51:26+01:00
-  focus_distance: 38.73
-- image_filename: 2018_11_04__07_54__B042698.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3580
-  height: 5236
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2018-11-04 07:54:53+01:00
-  focus_distance: 4.03
-- image_filename: 2018_11_04__08_01__B042724.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
+  iso: 5000
   width: 5240
   height: 3912
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2018-11-04 08:01:44+01:00
-  focus_distance: 3.38
-- image_filename: 2018_11_04__08_03__B042733.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 640
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-11-04 08:03:55+01:00
-  focus_distance: 3.66
-- image_filename: 2018_11_04__08_08__B042755.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3766
-  height: 5134
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2018-11-04 08:08:21+01:00
-  focus_distance: 12.85
-- image_filename: 2018_11_04__08_10__B042760.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5069
-  height: 3768
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-11-04 08:10:26+01:00
-  focus_distance: 3.42
-- image_filename: 2018_11_04__08_14__B042786.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2018-11-04 08:14:47+01:00
-  focus_distance: 1.5
-- image_filename: 2018_11_04__08_16__B042793.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2018-11-04 08:16:01+01:00
-  focus_distance: 5.2
-- image_filename: 2018_11_04__08_17__B042800.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5177
-  height: 3508
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2018-11-04 08:17:48+01:00
-  focus_distance: 3.81
-- image_filename: 2018_11_04__08_18__B042801.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4879
-  height: 3766
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-11-04 08:18:06+01:00
-  focus_distance: 8.57
-- image_filename: 2018_11_04__08_18__B042806.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-11-04 08:18:49+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_11_04__08_22__B042812.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3674
-  height: 5107
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-11-04 08:22:07+01:00
-  focus_distance: 1.76
-- image_filename: 2018_11_04__08_22__B042811.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5113
-  height: 3746
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2018-11-04 08:22:03+01:00
-  focus_distance: 1.32
-- image_filename: 2018_11_04__08_00__B042715.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5119
-  height: 3746
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2018-11-04 08:00:04+01:00
-  focus_distance: 15.26
-- image_filename: 2018_11_04__08_12__B042766.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4868
-  height: 3862
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-11-04 08:12:09+01:00
-  focus_distance: 2.86
-- image_filename: 2018_11_04__07_56__B042704.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4847
-  height: 3896
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2018-11-04 07:56:12+01:00
-  focus_distance: 4.73
-- image_filename: 2018_11_04__07_31__B042662.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 2000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3862
-  height: 5217
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-11-04 07:31:42+01:00
-  focus_distance: 9.81
-- image_filename: 2018_11_04__08_11__B042764.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4744
-  height: 3822
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2018-11-04 08:11:39+01:00
-  focus_distance: 13.72
-- image_filename: 2018_11_04__08_03__B042731.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 640
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5031
-  height: 3740
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2018-11-04 08:03:05+01:00
-  focus_distance: 4.56
-- image_filename: 2018_11_04__07_54__B042699.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3505
-  height: 5208
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2018-11-04 07:54:57+01:00
-  focus_distance: 25.28
-- image_filename: 2018_11_04__07_30__B042661.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4744
-  height: 3852
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-11-04 07:30:08+01:00
-  focus_distance: 17.16
-- image_filename: 2018_11_04__07_52__B042689.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4966
-  height: 3865
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2018-11-04 07:52:07+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_11_04__08_18__B042807.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-11-04 08:18:59+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_11_04__08_04__B042734.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 640
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5133
-  height: 3892
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2018-11-04 08:04:04+01:00
-  focus_distance: 7.88
-- image_filename: 2018_11_04__08_17__B042799.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4540
-  height: 3851
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-11-04 08:17:41+01:00
-  focus_distance: 10.56
-- image_filename: 2018_11_04__08_00__B042720.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4717
-  height: 3707
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2018-11-04 08:00:58+01:00
-  focus_distance: 6.53
-- image_filename: 2018_11_04__07_23__B042656.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  lat: 50.29875
-  lon: 16.653888888888886
-  altitude: 346.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5181
-  height: 3869
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-11-04 07:23:45+01:00
-  focus_distance: 15.65
-- image_filename: 2018_11_04__07_57__B042708.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4662
-  height: 3784
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2018-11-04 07:57:15+01:00
-  focus_distance: 11.43
-- image_filename: 2018_11_04__08_07__B042752.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-11-04 08:07:37+01:00
-  focus_distance: 3.83
-- image_filename: 2018_11_04__07_55__B042703.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4898
-  height: 3853
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2018-11-04 07:55:39+01:00
-  focus_distance: 17.16
-- image_filename: 2018_11_04__07_18__B042652.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  lat: 50.296194444444446
-  lon: 16.652319444444444
-  altitude: 347.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5167
-  height: 3813
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-11-04 07:18:10+01:00
-  focus_distance: 10.19
-- image_filename: 2018_11_04__08_24__B042814.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3821
-  height: 5173
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2018-11-04 08:24:27+01:00
-  focus_distance: 10.66
-- image_filename: 2018_11_04__08_05__B042739.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5097
-  height: 3908
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2018-11-04 08:05:31+01:00
-  focus_distance: 14.23
+  time: 2018-11-03 17:16:39.000000000+01:00
 - image_filename: 2018_11_04__07_14__B042643.jpg
   post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
   lat: 50.296388888888885
@@ -620,57 +23,654 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.0
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5095
-  height: 3710
   exposure: 0.3333333333333333
   exposure_string: 1/3 s
-  time: 2018-11-04 07:14:45+01:00
   focus_distance: 16.97
+  iso: 200
+  width: 5095
+  height: 3710
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-11-04 07:14:45.000000000+01:00
+- image_filename: 2018_11_04__07_16__B042647.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  lat: 50.29608333333333
+  lon: 16.65151388888889
+  altitude: 338.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 16.19
+  iso: 200
+  width: 5109
+  height: 3904
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-11-04 07:16:04.000000000+01:00
+- image_filename: 2018_11_04__07_18__B042652.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  lat: 50.296194444444446
+  lon: 16.652319444444444
+  altitude: 347.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 10.19
+  iso: 200
+  width: 5167
+  height: 3813
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-11-04 07:18:10.000000000+01:00
+- image_filename: 2018_11_04__07_23__B042656.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  lat: 50.29875
+  lon: 16.653888888888886
+  altitude: 346.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 15.65
+  iso: 200
+  width: 5181
+  height: 3869
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-11-04 07:23:45.000000000+01:00
+- image_filename: 2018_11_04__07_24__B042658.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  lat: 50.299375
+  lon: 16.654152777777778
+  altitude: 345.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 6.72
+  iso: 200
+  width: 4928
+  height: 3837
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-11-04 07:24:40.000000000+01:00
+- image_filename: 2018_11_04__07_30__B042661.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 17.16
+  iso: 200
+  width: 4744
+  height: 3852
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:30:08.000000000+01:00
+- image_filename: 2018_11_04__07_31__B042662.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 9.81
+  iso: 2000
+  width: 3862
+  height: 5217
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:31:42.000000000+01:00
+- image_filename: 2018_11_04__07_32__B042664.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 6.89
+  iso: 1000
+  width: 5094
+  height: 3702
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:32:03.000000000+01:00
+- image_filename: 2018_11_04__07_32__B042665.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 34.28
+  iso: 200
+  width: 4314
+  height: 3754
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:32:32.000000000+01:00
 - image_filename: 2018_11_04__07_33__B042667.jpg
   post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
   exposure: 1.0
   exposure_string: 1 s
-  time: 2018-11-04 07:33:15+01:00
   focus_distance: 4.9
+  iso: 400
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:33:15.000000000+01:00
+- image_filename: 2018_11_04__07_33__B042668.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 8.07
+  iso: 250
+  width: 4681
+  height: 3764
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:33:41.000000000+01:00
+- image_filename: 2018_11_04__07_41__B042675.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 9.81
+  iso: 200
+  width: 4940
+  height: 3595
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:41:24.000000000+01:00
+- image_filename: 2018_11_04__07_51__B042688.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 38.73
+  iso: 200
+  width: 5177
+  height: 3858
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:51:26.000000000+01:00
+- image_filename: 2018_11_04__07_52__B042689.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4966
+  height: 3865
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:52:07.000000000+01:00
+- image_filename: 2018_11_04__07_54__B042698.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 4.03
+  iso: 200
+  width: 3580
+  height: 5236
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:54:53.000000000+01:00
+- image_filename: 2018_11_04__07_54__B042699.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 25.28
+  iso: 200
+  width: 3505
+  height: 5208
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:54:57.000000000+01:00
+- image_filename: 2018_11_04__07_55__B042703.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 17.16
+  iso: 200
+  width: 4898
+  height: 3853
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:55:39.000000000+01:00
+- image_filename: 2018_11_04__07_56__B042704.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 4.73
+  iso: 200
+  width: 4847
+  height: 3896
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:56:12.000000000+01:00
+- image_filename: 2018_11_04__07_57__B042708.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 11.43
+  iso: 200
+  width: 4662
+  height: 3784
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 07:57:15.000000000+01:00
+- image_filename: 2018_11_04__08_00__B042715.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 15.26
+  iso: 200
+  width: 5119
+  height: 3746
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:00:04.000000000+01:00
+- image_filename: 2018_11_04__08_00__B042720.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 6.53
+  iso: 200
+  width: 4717
+  height: 3707
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:00:58.000000000+01:00
+- image_filename: 2018_11_04__08_01__B042724.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 3.38
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:01:44.000000000+01:00
+- image_filename: 2018_11_04__08_03__B042731.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 4.56
+  iso: 640
+  width: 5031
+  height: 3740
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:03:05.000000000+01:00
+- image_filename: 2018_11_04__08_03__B042733.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 3.66
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:03:55.000000000+01:00
+- image_filename: 2018_11_04__08_04__B042734.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 7.88
+  iso: 640
+  width: 5133
+  height: 3892
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:04:04.000000000+01:00
 - image_filename: 2018_11_04__08_04__B042737.jpg
   post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 640
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.05
   exposure_string: 1/20 s
-  time: 2018-11-04 08:04:32+01:00
   focus_distance: 7.21
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:04:32.000000000+01:00
+- image_filename: 2018_11_04__08_05__B042739.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 14.23
+  iso: 500
+  width: 5097
+  height: 3908
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:05:31.000000000+01:00
+- image_filename: 2018_11_04__08_07__B042752.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 3.83
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:07:37.000000000+01:00
+- image_filename: 2018_11_04__08_08__B042755.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 12.85
+  iso: 500
+  width: 3766
+  height: 5134
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:08:21.000000000+01:00
+- image_filename: 2018_11_04__08_10__B042760.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 3.42
+  iso: 500
+  width: 5069
+  height: 3768
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:10:26.000000000+01:00
+- image_filename: 2018_11_04__08_11__B042764.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 13.72
+  iso: 500
+  width: 4744
+  height: 3822
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:11:39.000000000+01:00
+- image_filename: 2018_11_04__08_12__B042766.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.86
+  iso: 500
+  width: 4868
+  height: 3862
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:12:09.000000000+01:00
+- image_filename: 2018_11_04__08_14__B042786.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 1.5
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:14:47.000000000+01:00
+- image_filename: 2018_11_04__08_16__B042793.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 5.2
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:16:01.000000000+01:00
+- image_filename: 2018_11_04__08_17__B042799.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 10.56
+  iso: 400
+  width: 4540
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:17:41.000000000+01:00
+- image_filename: 2018_11_04__08_17__B042800.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 3.81
+  iso: 400
+  width: 5177
+  height: 3508
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:17:48.000000000+01:00
+- image_filename: 2018_11_04__08_18__B042801.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 8.57
+  iso: 400
+  width: 4879
+  height: 3766
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:18:06.000000000+01:00
 - image_filename: 2018_11_04__08_18__B042803.jpg
   post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
   focal_length: 35.0
   focal_length_35: 70.0
   crop: 2.0
   aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3822
-  height: 5175
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-11-04 08:18:16+01:00
   focus_distance: 1000.0
+  iso: 400
+  width: 3822
+  height: 5175
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:18:16.000000000+01:00
+- image_filename: 2018_11_04__08_18__B042806.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:18:49.000000000+01:00
+- image_filename: 2018_11_04__08_18__B042807.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:18:59.000000000+01:00
+- image_filename: 2018_11_04__08_22__B042811.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 1.32
+  iso: 200
+  width: 5113
+  height: 3746
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:22:03.000000000+01:00
+- image_filename: 2018_11_04__08_22__B042812.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1.76
+  iso: 200
+  width: 3674
+  height: 5107
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:22:07.000000000+01:00
+- image_filename: 2018_11_04__08_24__B042814.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 10.66
+  iso: 200
+  width: 3821
+  height: 5173
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-04 08:24:27.000000000+01:00

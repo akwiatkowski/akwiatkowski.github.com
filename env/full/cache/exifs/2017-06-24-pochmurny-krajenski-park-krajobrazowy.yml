@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.433611111111105
-  lon: 17.438555555555556
-  altitude: 145.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-24 14:22:34+02:00
 - image_filename: IMGP7880raw1.jpg
   post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
   lat: 53.297291666666666
@@ -22,11 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-06-24 09:32:31+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 09:32:31.000000000+02:00
 - image_filename: IMGP7894raw1.jpg
   post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
   lat: 53.30308333333333
@@ -36,11 +22,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
-  iso: 800
-  camera: PENTAX K-S2
   exposure: 0.06666666666666667
   exposure_string: 1/15 s
-  time: 2017-06-24 09:50:12+02:00
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2017-06-24 09:50:12.000000000+02:00
 - image_filename: IMGP7898raw1.jpg
   post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
   lat: 53.32068055555556
@@ -50,162 +36,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-06-24 10:06:29+02:00
-- image_filename: IMGP7936raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.36684722222222
-  lon: 17.187527777777778
-  altitude: 114.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-06-24 11:30:05+02:00
-- image_filename: IMGP8001raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.40588888888889
-  lon: 17.223
-  altitude: 127.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-24 12:36:57+02:00
-- image_filename: IMGP8006raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.40776388888889
-  lon: 17.226875
-  altitude: 121.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-24 12:42:11+02:00
-- image_filename: IMGP8022raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.40416666666667
-  lon: 17.265583333333332
-  altitude: 123.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-06-24 13:02:38+02:00
-- image_filename: IMGP8036raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.41243055555555
-  lon: 17.286611111111114
-  altitude: 120.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-06-24 13:21:44+02:00
-- image_filename: IMGP8042raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.41363888888889
-  lon: 17.290833333333335
-  altitude: 112.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-06-24 13:25:32+02:00
-- image_filename: IMGP8043raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.41365277777778
-  lon: 17.29105555555556
-  altitude: 111.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-24 13:25:36+02:00
-- image_filename: IMGP8072raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.420791666666666
-  lon: 17.361555555555558
-  altitude: 142.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-06-24 13:55:49+02:00
-- image_filename: IMGP8091raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-06-24 19:27:18+02:00
-- image_filename: IMGP7975raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.37422222222222
-  lon: 17.187694444444446
-  altitude: 112.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-06-24 11:53:32+02:00
-- image_filename: IMGP8019raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.404402777777776
-  lon: 17.26326388888889
-  altitude: 126.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-06-24 13:01:19+02:00
+  time: 2017-06-24 10:06:29.000000000+02:00
 - image_filename: IMGP7899raw1.jpg
   post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
   lat: 53.32072222222222
@@ -215,53 +50,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-06-24 10:06:30+02:00
-- image_filename: IMGP7957raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.37422222222222
-  lon: 17.18777777777778
-  altitude: 113.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-24 11:50:30+02:00
-- image_filename: IMGP8037raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.4125
-  lon: 17.286819444444447
-  altitude: 119.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-06-24 13:21:48+02:00
-- image_filename: IMGP8051raw1.jpg
-  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.41144444444444
-  lon: 17.347347222222222
-  altitude: 130.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-06-24 13:44:35+02:00
+  time: 2017-06-24 10:06:30.000000000+02:00
 - image_filename: IMGP7920raw1.jpg
   post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
   lat: 53.35270833333333
@@ -271,11 +64,25 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-06-24 10:36:45+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 10:36:45.000000000+02:00
+- image_filename: IMGP7936raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.36684722222222
+  lon: 17.187527777777778
+  altitude: 114.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 11:30:05.000000000+02:00
 - image_filename: IMGP7940raw1.jpg
   post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
   lat: 53.366819444444445
@@ -285,25 +92,95 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2017-06-24 11:30:32+02:00
-- image_filename: IMGP8031raw1.jpg
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-24 11:30:32.000000000+02:00
+- image_filename: IMGP7957raw1.jpg
   post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
-  lat: 53.40947222222222
-  lon: 17.277708333333333
-  altitude: 120.0
+  lat: 53.37422222222222
+  lon: 17.18777777777778
+  altitude: 113.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-24 11:50:30.000000000+02:00
+- image_filename: IMGP7975raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.37422222222222
+  lon: 17.187694444444446
+  altitude: 112.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 11:53:32.000000000+02:00
+- image_filename: IMGP8001raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.40588888888889
+  lon: 17.223
+  altitude: 127.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-06-24 12:36:57.000000000+02:00
+- image_filename: IMGP8006raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.40776388888889
+  lon: 17.226875
+  altitude: 121.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-06-24 12:42:11.000000000+02:00
+- image_filename: IMGP8019raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.404402777777776
+  lon: 17.26326388888889
+  altitude: 126.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-06-24 13:17:39+02:00
+  time: 2017-06-24 13:01:19.000000000+02:00
+- image_filename: IMGP8022raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.40416666666667
+  lon: 17.265583333333332
+  altitude: 123.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 13:02:38.000000000+02:00
 - image_filename: IMGP8024raw1.jpg
   post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
   lat: 53.40391666666667
@@ -313,8 +190,131 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-06-24 13:02:59+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 13:02:59.000000000+02:00
+- image_filename: IMGP8031raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.40947222222222
+  lon: 17.277708333333333
+  altitude: 120.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 13:17:39.000000000+02:00
+- image_filename: IMGP8036raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.41243055555555
+  lon: 17.286611111111114
+  altitude: 120.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 13:21:44.000000000+02:00
+- image_filename: IMGP8037raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.4125
+  lon: 17.286819444444447
+  altitude: 119.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 13:21:48.000000000+02:00
+- image_filename: IMGP8042raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.41363888888889
+  lon: 17.290833333333335
+  altitude: 112.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 13:25:32.000000000+02:00
+- image_filename: IMGP8043raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.41365277777778
+  lon: 17.29105555555556
+  altitude: 111.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-06-24 13:25:36.000000000+02:00
+- image_filename: IMGP8051raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.41144444444444
+  lon: 17.347347222222222
+  altitude: 130.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-06-24 13:44:35.000000000+02:00
+- image_filename: IMGP8072raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.420791666666666
+  lon: 17.361555555555558
+  altitude: 142.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-24 13:55:49.000000000+02:00
+- image_filename: IMGP8091raw1.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-24 19:27:18.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-06-24-pochmurny-krajenski-park-krajobrazowy
+  lat: 53.433611111111105
+  lon: 17.438555555555556
+  altitude: 145.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-24 14:22:34.000000000+02:00

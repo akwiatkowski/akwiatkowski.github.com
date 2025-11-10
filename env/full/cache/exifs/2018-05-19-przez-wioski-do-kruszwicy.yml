@@ -1,241 +1,4 @@
 ---
-- image_filename: P5190083raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.71501388888889
-  lon: 18.354861111111113
-  altitude: 80.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-19 13:36:45+02:00
-  focus_distance: 20.58
-- image_filename: P5190034raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.86873611111111
-  lon: 18.407069444444442
-  altitude: 82.0
-  focal_length: 42.0
-  focal_length_35: 84.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-05-19 12:10:43+02:00
-  focus_distance: 5.2
-- image_filename: P5190044raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.80595833333333
-  lon: 18.398916666666665
-  altitude: 83.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-05-19 12:37:28+02:00
-  focus_distance: 4.88
-- image_filename: P5190051raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.791875
-  lon: 18.408708333333333
-  altitude: 76.0
-  focal_length: 42.0
-  focal_length_35: 84.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-05-19 12:45:41+02:00
-  focus_distance: 17.73
-- image_filename: P5190060raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.75102777777778
-  lon: 18.414652777777775
-  altitude: 82.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-05-19 13:03:44+02:00
-  focus_distance: 4.88
-- image_filename: P5190062raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.74677777777778
-  lon: 18.384625
-  altitude: 88.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-05-19 13:15:33+02:00
-  focus_distance: 1000.0
-- image_filename: P5190066raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.73869444444445
-  lon: 18.370083333333334
-  altitude: 93.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-19 13:21:09+02:00
-  focus_distance: 6.5
-- image_filename: P5190078raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.71501388888889
-  lon: 18.354861111111113
-  altitude: 79.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-19 13:36:20+02:00
-  focus_distance: 8.12
-- image_filename: P5190088raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.686055555555555
-  lon: 18.32436111111111
-  altitude: 76.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-19 13:56:21+02:00
-  focus_distance: 13.93
-- image_filename: P5190091raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.642472222222224
-  lon: 18.309694444444446
-  altitude: 82.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-05-19 14:21:04+02:00
-  focus_distance: 1.77
-- image_filename: P5190097raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.641125
-  lon: 18.29827777777778
-  altitude: 80.0
-  focal_length: 42.0
-  focal_length_35: 84.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-19 14:25:28+02:00
-  focus_distance: 14.47
-- image_filename: P5190106raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.64572222222222
-  lon: 18.224375
-  altitude: 96.0
-  focal_length: 42.0
-  focal_length_35: 84.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-19 14:44:42+02:00
-  focus_distance: 32.51
-- image_filename: P5190148raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 5.5
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-05-19 15:38:04+02:00
-  focus_distance: 0.9
-- image_filename: P5190226raw2.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.64194444444444
-  lon: 18.11913888888889
-  altitude: 99.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-19 16:57:38+02:00
-  focus_distance: 2.15
-- image_filename: P5190235raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.69580555555555
-  lon: 18.038444444444448
-  altitude: 105.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-05-19 17:35:50+02:00
-  focus_distance: 12.19
 - image_filename: P5190014raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
   lat: 52.868722222222225
@@ -245,58 +8,13 @@
   focal_length_35: 46.0
   crop: 2.0
   aperture: 10.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.3
   iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-05-19 12:07:35+02:00
-  focus_distance: 2.3
-- image_filename: P5190180raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-19 15:42:04+02:00
-  focus_distance: 0.37
-- image_filename: P5190228raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.641958333333335
-  lon: 18.11913888888889
-  altitude: 99.0
-  focal_length: 42.0
-  focal_length_35: 84.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-05-19 16:57:54+02:00
-  focus_distance: 8.86
-- image_filename: P5190072raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.71751388888889
-  lon: 18.367555555555555
-  altitude: 78.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-19 13:31:06+02:00
-  focus_distance: 3.98
+  time: 2018-05-19 12:07:35.000000000+02:00
 - image_filename: P5190025raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
   lat: 52.86873611111111
@@ -306,109 +24,29 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2018-05-19 12:09:15+02:00
   focus_distance: 0.59
-- image_filename: P5190236raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.69581944444444
-  lon: 18.038444444444448
-  altitude: 106.0
-  focal_length: 33.0
-  focal_length_35: 66.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 100
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-19 17:35:59+02:00
-  focus_distance: 15.63
-- image_filename: P5190086raw1.jpg
+  time: 2018-05-19 12:09:15.000000000+02:00
+- image_filename: P5190034raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.69381944444444
-  lon: 18.322388888888888
-  altitude: 75.0
+  lat: 52.86873611111111
+  lon: 18.407069444444442
+  altitude: 82.0
   focal_length: 42.0
   focal_length_35: 84.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-19 13:49:54+02:00
-  focus_distance: 17.73
-- image_filename: P5190058raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.751041666666666
-  lon: 18.41472222222222
-  altitude: 83.0
-  focal_length: 28.0
-  focal_length_35: 56.0
   crop: 2.0
   aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-19 13:03:19+02:00
-  focus_distance: 1000.0
-- image_filename: P5190108raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.633625
-  lon: 18.217458333333333
-  altitude: 85.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2018-05-19 14:49:03+02:00
-  focus_distance: 3.36
-- image_filename: P5190232raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.65119444444444
-  lon: 18.119097222222223
-  altitude: 88.0
-  focal_length: 42.0
-  focal_length_35: 84.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-19 17:02:48+02:00
-  focus_distance: 8.48
-- image_filename: P5190050raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.79186111111111
-  lon: 18.408708333333333
-  altitude: 76.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
+  focus_distance: 5.2
   iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-05-19 12:45:30+02:00
-  focus_distance: 1000.0
+  time: 2018-05-19 12:10:43.000000000+02:00
 - image_filename: P5190040raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
   lat: 52.86386111111111
@@ -418,103 +56,109 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
   iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-19 12:15:40+02:00
-  focus_distance: 1000.0
-- image_filename: P5190233raw1.jpg
+  time: 2018-05-19 12:15:40.000000000+02:00
+- image_filename: P5190044raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.69594444444444
-  lon: 18.098166666666664
-  altitude: 88.0
+  lat: 52.80595833333333
+  lon: 18.398916666666665
+  altitude: 83.0
   focal_length: 14.0
   focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-19 17:21:52+02:00
-  focus_distance: 3.48
-- image_filename: P5190136raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  focal_length: 42.0
-  focal_length_35: 84.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-19 15:36:26+02:00
-  focus_distance: 1.03
-- image_filename: P5190079raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.71501388888889
-  lon: 18.354861111111113
-  altitude: 79.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-19 13:36:25+02:00
-  focus_distance: 48.76
-- image_filename: P5190134raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  focal_length: 42.0
-  focal_length_35: 84.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-05-19 15:36:14+02:00
-  focus_distance: 1.12
-- image_filename: P5190109raw2.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.63366666666666
-  lon: 18.217513888888888
-  altitude: 85.0
-  focal_length: 42.0
-  focal_length_35: 84.0
   crop: 2.0
   aperture: 9.0
-  iso: 100
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 4.88
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-19 14:49:22+02:00
-  focus_distance: 18.61
-- image_filename: P5190095raw1.jpg
+  time: 2018-05-19 12:37:28.000000000+02:00
+- image_filename: P5190050raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.641125
-  lon: 18.29827777777778
-  altitude: 80.0
+  lat: 52.79186111111111
+  lon: 18.408708333333333
+  altitude: 76.0
   focal_length: 14.0
   focal_length_35: 28.0
   crop: 2.0
-  aperture: 7.1
-  iso: 100
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
+  time: 2018-05-19 12:45:30.000000000+02:00
+- image_filename: P5190051raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.791875
+  lon: 18.408708333333333
+  altitude: 76.0
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 17.73
+  iso: 200
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 12:45:41.000000000+02:00
+- image_filename: P5190058raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.751041666666666
+  lon: 18.41472222222222
+  altitude: 83.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:03:19.000000000+02:00
+- image_filename: P5190060raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.75102777777778
+  lon: 18.414652777777775
+  altitude: 82.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2018-05-19 14:25:08+02:00
-  focus_distance: 8.12
+  focus_distance: 4.88
+  iso: 200
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:03:44.000000000+02:00
+- image_filename: P5190062raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.74677777777778
+  lon: 18.384625
+  altitude: 88.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:15:33.000000000+02:00
 - image_filename: P5190063raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
   lat: 52.738708333333335
@@ -524,61 +168,45 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 24.38
   iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-05-19 13:20:48+02:00
-  focus_distance: 24.38
-- image_filename: P5190103raw1.jpg
+  time: 2018-05-19 13:20:48.000000000+02:00
+- image_filename: P5190066raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.645694444444445
-  lon: 18.224361111111108
-  altitude: 96.0
-  focal_length: 39.0
-  focal_length_35: 78.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-19 14:44:14+02:00
-  focus_distance: 6.72
-- image_filename: P5190230raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.65119444444444
-  lon: 18.119097222222223
-  altitude: 88.0
-  focal_length: 42.0
-  focal_length_35: 84.0
+  lat: 52.73869444444445
+  lon: 18.370083333333334
+  altitude: 93.0
+  focal_length: 24.0
+  focal_length_35: 48.0
   crop: 2.0
   aperture: 8.0
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-19 17:02:38+02:00
-  focus_distance: 6.2
-- image_filename: P5190093raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.642472222222224
-  lon: 18.309680555555556
-  altitude: 82.0
-  focal_length: 42.0
-  focal_length_35: 84.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 100
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2018-05-19 14:21:15+02:00
-  focus_distance: 32.51
+  focus_distance: 6.5
+  iso: 200
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:21:09.000000000+02:00
+- image_filename: P5190072raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.71751388888889
+  lon: 18.367555555555555
+  altitude: 78.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.98
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:31:06.000000000+02:00
 - image_filename: P5190074raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
   lat: 52.715361111111115
@@ -588,10 +216,382 @@
   focal_length_35: 54.0
   crop: 2.0
   aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
   iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
+  time: 2018-05-19 13:34:58.000000000+02:00
+- image_filename: P5190078raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.71501388888889
+  lon: 18.354861111111113
+  altitude: 79.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 8.12
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:36:20.000000000+02:00
+- image_filename: P5190079raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.71501388888889
+  lon: 18.354861111111113
+  altitude: 79.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2018-05-19 13:34:58+02:00
-  focus_distance: 1000.0
+  focus_distance: 48.76
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:36:25.000000000+02:00
+- image_filename: P5190083raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.71501388888889
+  lon: 18.354861111111113
+  altitude: 80.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.58
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:36:45.000000000+02:00
+- image_filename: P5190086raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.69381944444444
+  lon: 18.322388888888888
+  altitude: 75.0
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 17.73
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:49:54.000000000+02:00
+- image_filename: P5190088raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.686055555555555
+  lon: 18.32436111111111
+  altitude: 76.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 13.93
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 13:56:21.000000000+02:00
+- image_filename: P5190091raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.642472222222224
+  lon: 18.309694444444446
+  altitude: 82.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.77
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 14:21:04.000000000+02:00
+- image_filename: P5190093raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.642472222222224
+  lon: 18.309680555555556
+  altitude: 82.0
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 32.51
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 14:21:15.000000000+02:00
+- image_filename: P5190095raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.641125
+  lon: 18.29827777777778
+  altitude: 80.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 8.12
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 14:25:08.000000000+02:00
+- image_filename: P5190097raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.641125
+  lon: 18.29827777777778
+  altitude: 80.0
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 14.47
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 14:25:28.000000000+02:00
+- image_filename: P5190103raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.645694444444445
+  lon: 18.224361111111108
+  altitude: 96.0
+  focal_length: 39.0
+  focal_length_35: 78.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.72
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 14:44:14.000000000+02:00
+- image_filename: P5190106raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.64572222222222
+  lon: 18.224375
+  altitude: 96.0
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 32.51
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 14:44:42.000000000+02:00
+- image_filename: P5190108raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.633625
+  lon: 18.217458333333333
+  altitude: 85.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 3.36
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 14:49:03.000000000+02:00
+- image_filename: P5190109raw2.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.63366666666666
+  lon: 18.217513888888888
+  altitude: 85.0
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 18.61
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 14:49:22.000000000+02:00
+- image_filename: P5190134raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.12
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 15:36:14.000000000+02:00
+- image_filename: P5190136raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.03
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 15:36:26.000000000+02:00
+- image_filename: P5190148raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 0.9
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 15:38:04.000000000+02:00
+- image_filename: P5190180raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.37
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 15:42:04.000000000+02:00
+- image_filename: P5190226raw2.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.64194444444444
+  lon: 18.11913888888889
+  altitude: 99.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.15
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 16:57:38.000000000+02:00
+- image_filename: P5190228raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.641958333333335
+  lon: 18.11913888888889
+  altitude: 99.0
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 8.86
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 16:57:54.000000000+02:00
+- image_filename: P5190230raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.65119444444444
+  lon: 18.119097222222223
+  altitude: 88.0
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.2
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 17:02:38.000000000+02:00
+- image_filename: P5190232raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.65119444444444
+  lon: 18.119097222222223
+  altitude: 88.0
+  focal_length: 42.0
+  focal_length_35: 84.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 8.48
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 17:02:48.000000000+02:00
+- image_filename: P5190233raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.69594444444444
+  lon: 18.098166666666664
+  altitude: 88.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.48
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 17:21:52.000000000+02:00
+- image_filename: P5190235raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.69580555555555
+  lon: 18.038444444444448
+  altitude: 105.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 12.19
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 17:35:50.000000000+02:00
+- image_filename: P5190236raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.69581944444444
+  lon: 18.038444444444448
+  altitude: 106.0
+  focal_length: 33.0
+  focal_length_35: 66.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 15.63
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  time: 2018-05-19 17:35:59.000000000+02:00

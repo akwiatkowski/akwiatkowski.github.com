@@ -1,238 +1,4 @@
 ---
-- image_filename: 2021_09_09__14_49__9090335.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.57977777777778
-  lon: 17.356958333333335
-  altitude: 110.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 24.75
-  iso: 200
-  width: 5179
-  height: 3829
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:49:05.000000000+02:00
-- image_filename: 2021_09_09__17_49__9090401.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.70677777777778
-  lon: 17.31872222222222
-  altitude: 103.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 4.63
-  iso: 200
-  width: 5152
-  height: 3885
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 17:49:37.000000000+02:00
-- image_filename: 2021_09_09__15_16__9090361.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.60436111111111
-  lon: 17.387166666666666
-  altitude: 97.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.02
-  exposure_string: 1/50 s
-  focus_distance: 3.35
-  iso: 200
-  width: 5240
-  height: 3659
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 15:16:47.000000000+02:00
-- image_filename: 2021_09_09__16_51__9090372.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.638152777777776
-  lon: 17.427597222222225
-  altitude: 98.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 25.6
-  iso: 200
-  width: 3865
-  height: 2818
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 16:51:09.000000000+02:00
-- image_filename: 2021_09_09__18_11__9090428.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.74970833333333
-  lon: 17.324444444444445
-  altitude: 87.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 124.12
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:11:14.000000000+02:00
-- image_filename: 2021_09_09__15_12__9090350.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.60311111111111
-  lon: 17.387777777777778
-  altitude: 102.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 20.42
-  iso: 200
-  width: 5193
-  height: 3894
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 15:12:52.000000000+02:00
-- image_filename: 2021_09_09__18_11__9090430.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.74973611111111
-  lon: 17.32351388888889
-  altitude: 85.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 140.03
-  iso: 200
-  width: 5014
-  height: 3743
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:11:22.000000000+02:00
-- image_filename: 2021_09_09__17_13__9090382.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.69022222222222
-  lon: 17.428333333333335
-  altitude: 107.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 19.98
-  iso: 200
-  width: 5115
-  height: 3818
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 17:13:27.000000000+02:00
-- image_filename: 2021_09_09__18_21__9090439.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.758875
-  lon: 17.305152777777778
-  altitude: 83.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.2
-  exposure_string: 1/5 s
-  focus_distance: 52.68
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:21:18.000000000+02:00
-- image_filename: 2021_09_09__15_10__9090344.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.602111111111114
-  lon: 17.386152777777777
-  altitude: 106.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4918
-  height: 3765
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 15:10:06.000000000+02:00
-- image_filename: 2021_09_09__14_20__9090306.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.54588888888889
-  lon: 17.31563888888889
-  altitude: 110.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 77.64
-  iso: 200
-  width: 5109
-  height: 3814
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:20:37.000000000+02:00
-- image_filename: 2021_09_09__17_34__9090393.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.69438888888889
-  lon: 17.363944444444446
-  altitude: 110.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 94.16
-  iso: 200
-  width: 5060
-  height: 3778
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 17:34:09.000000000+02:00
-- image_filename: 2021_09_09__14_45__9090328.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.576972222222224
-  lon: 17.34651388888889
-  altitude: 110.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 14.9
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:45:39.000000000+02:00
 - image_filename: 2021_09_09__14_07__9090289.jpg
   post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
   lat: 52.52547222222222
@@ -251,438 +17,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-09 14:07:50.000000000+02:00
-- image_filename: 2021_09_09__15_00__9090343.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.58511111111111
-  lon: 17.389736111111112
-  altitude: 113.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 81.51
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 15:00:48.000000000+02:00
-- image_filename: 2021_09_09__14_24__9090314.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.54902777777777
-  lon: 17.31876388888889
-  altitude: 111.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 18.28
-  iso: 200
-  width: 5208
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:24:17.000000000+02:00
-- image_filename: 2021_09_09__14_31__9090319.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.55833333333333
-  lon: 17.3325
-  altitude: 110.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 156.04
-  iso: 200
-  width: 5206
-  height: 3869
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:31:30.000000000+02:00
-- image_filename: 2021_09_09__18_42__9090453.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.801125
-  lon: 17.249750000000002
-  altitude: 86.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 115.38
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:42:14.000000000+02:00
-- image_filename: 2021_09_09__14_17__9090301.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.54175
-  lon: 17.311194444444446
-  altitude: 108.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 11.06
-  iso: 200
-  width: 5014
-  height: 3743
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:17:08.000000000+02:00
-- image_filename: 2021_09_09__14_42__9090326.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.57426388888889
-  lon: 17.33976388888889
-  altitude: 108.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 23.6
-  iso: 200
-  width: 5064
-  height: 3780
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:42:58.000000000+02:00
-- image_filename: 2021_09_09__15_15__9090358.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.60427777777778
-  lon: 17.386930555555555
-  altitude: 97.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 64.25
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 15:15:34.000000000+02:00
-- image_filename: 2021_09_09__18_00__9090411.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.738194444444446
-  lon: 17.319930555555555
-  altitude: 92.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5172
-  height: 3861
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:00:49.000000000+02:00
-- image_filename: 2021_09_09__18_04__9090415.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.74440277777778
-  lon: 17.322902777777777
-  altitude: 91.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 9.73
-  iso: 200
-  width: 5143
-  height: 3787
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:04:51.000000000+02:00
-- image_filename: 2021_09_09__14_42__9090323.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.57413888888889
-  lon: 17.339416666666665
-  altitude: 108.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 24.06
-  iso: 200
-  width: 5103
-  height: 3547
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:42:51.000000000+02:00
-- image_filename: 2021_09_09__14_48__9090333.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.57991666666667
-  lon: 17.356194444444444
-  altitude: 109.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 4.28
-  iso: 200
-  width: 4273
-  height: 2932
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:48:53.000000000+02:00
-- image_filename: 2021_09_09__15_17__9090364.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.60434722222222
-  lon: 17.38715277777778
-  altitude: 97.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 21.14
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 15:17:15.000000000+02:00
-- image_filename: 2021_09_09__14_31__9090321.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.558305555555556
-  lon: 17.3325
-  altitude: 110.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 4.61
-  iso: 200
-  width: 5182
-  height: 3844
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:31:55.000000000+02:00
-- image_filename: 2021_09_09__18_42__9090454.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.80120833333333
-  lon: 17.249305555555555
-  altitude: 86.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 89.04
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:42:18.000000000+02:00
-- image_filename: 2021_09_09__17_55__9090410.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.72336111111111
-  lon: 17.31711111111111
-  altitude: 100.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 133.2
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 17:55:49.000000000+02:00
-- image_filename: 2021_09_09__14_45__9090331.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.57723611111111
-  lon: 17.347180555555553
-  altitude: 111.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 109.22
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:45:51.000000000+02:00
-- image_filename: 2021_09_09__17_11__9090378.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.687999999999995
-  lon: 17.429486111111114
-  altitude: 107.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5088
-  height: 3799
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 17:11:42.000000000+02:00
-- image_filename: 2021_09_09__14_21__9090311.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.54661111111111
-  lon: 17.316347222222223
-  altitude: 109.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 58.1
-  iso: 200
-  width: 5096
-  height: 3805
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:21:36.000000000+02:00
-- image_filename: 2021_09_09__18_09__9090419.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.75047222222222
-  lon: 17.328180555555555
-  altitude: 90.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 4.83
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:09:34.000000000+02:00
-- image_filename: 2021_09_09__17_21__9090388.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.69815277777777
-  lon: 17.407166666666665
-  altitude: 109.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 61.36
-  iso: 200
-  width: 5180
-  height: 3867
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 17:21:24.000000000+02:00
-- image_filename: 2021_09_09__18_32__9090444.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.78547222222222
-  lon: 17.29116666666667
-  altitude: 84.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 3.43
-  iso: 200
-  width: 3669
-  height: 4506
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:32:47.000000000+02:00
-- image_filename: 2021_09_09__18_16__9090437.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.75084722222222
-  lon: 17.307944444444445
-  altitude: 83.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 35.69
-  iso: 200
-  width: 5094
-  height: 3864
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 18:16:33.000000000+02:00
-- image_filename: 2021_09_09__14_20__9090305.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.54588888888889
-  lon: 17.31563888888889
-  altitude: 110.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 25.84
-  iso: 200
-  width: 5055
-  height: 3774
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:20:34.000000000+02:00
-- image_filename: 2021_09_09__14_49__9090336.jpg
-  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  lat: 52.579708333333336
-  lon: 17.357319444444446
-  altitude: 110.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 20.15
-  iso: 200
-  width: 5194
-  height: 3878
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-09 14:49:11.000000000+02:00
 - image_filename: 2021_09_09__14_11__9090295.jpg
   post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
   lat: 52.528555555555556
@@ -719,6 +53,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-09 14:17:01.000000000+02:00
+- image_filename: 2021_09_09__14_17__9090301.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.54175
+  lon: 17.311194444444446
+  altitude: 108.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 11.06
+  iso: 200
+  width: 5014
+  height: 3743
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:17:08.000000000+02:00
 - image_filename: 2021_09_09__14_17__9090303.jpg
   post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
   lat: 52.54183333333333
@@ -737,6 +89,276 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-09 14:17:21.000000000+02:00
+- image_filename: 2021_09_09__14_20__9090305.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.54588888888889
+  lon: 17.31563888888889
+  altitude: 110.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.84
+  iso: 200
+  width: 5055
+  height: 3774
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:20:34.000000000+02:00
+- image_filename: 2021_09_09__14_20__9090306.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.54588888888889
+  lon: 17.31563888888889
+  altitude: 110.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 77.64
+  iso: 200
+  width: 5109
+  height: 3814
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:20:37.000000000+02:00
+- image_filename: 2021_09_09__14_21__9090311.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.54661111111111
+  lon: 17.316347222222223
+  altitude: 109.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 58.1
+  iso: 200
+  width: 5096
+  height: 3805
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:21:36.000000000+02:00
+- image_filename: 2021_09_09__14_24__9090314.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.54902777777777
+  lon: 17.31876388888889
+  altitude: 111.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 18.28
+  iso: 200
+  width: 5208
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:24:17.000000000+02:00
+- image_filename: 2021_09_09__14_31__9090319.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.55833333333333
+  lon: 17.3325
+  altitude: 110.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 156.04
+  iso: 200
+  width: 5206
+  height: 3869
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:31:30.000000000+02:00
+- image_filename: 2021_09_09__14_31__9090321.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.558305555555556
+  lon: 17.3325
+  altitude: 110.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.61
+  iso: 200
+  width: 5182
+  height: 3844
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:31:55.000000000+02:00
+- image_filename: 2021_09_09__14_42__9090323.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.57413888888889
+  lon: 17.339416666666665
+  altitude: 108.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 24.06
+  iso: 200
+  width: 5103
+  height: 3547
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:42:51.000000000+02:00
+- image_filename: 2021_09_09__14_42__9090326.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.57426388888889
+  lon: 17.33976388888889
+  altitude: 108.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 23.6
+  iso: 200
+  width: 5064
+  height: 3780
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:42:58.000000000+02:00
+- image_filename: 2021_09_09__14_45__9090328.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.576972222222224
+  lon: 17.34651388888889
+  altitude: 110.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 14.9
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:45:39.000000000+02:00
+- image_filename: 2021_09_09__14_45__9090331.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.57723611111111
+  lon: 17.347180555555553
+  altitude: 111.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 109.22
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:45:51.000000000+02:00
+- image_filename: 2021_09_09__14_48__9090333.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.57991666666667
+  lon: 17.356194444444444
+  altitude: 109.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.28
+  iso: 200
+  width: 4273
+  height: 2932
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:48:53.000000000+02:00
+- image_filename: 2021_09_09__14_49__9090335.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.57977777777778
+  lon: 17.356958333333335
+  altitude: 110.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 24.75
+  iso: 200
+  width: 5179
+  height: 3829
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:49:05.000000000+02:00
+- image_filename: 2021_09_09__14_49__9090336.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.579708333333336
+  lon: 17.357319444444446
+  altitude: 110.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.15
+  iso: 200
+  width: 5194
+  height: 3878
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 14:49:11.000000000+02:00
+- image_filename: 2021_09_09__15_00__9090343.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.58511111111111
+  lon: 17.389736111111112
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 81.51
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 15:00:48.000000000+02:00
+- image_filename: 2021_09_09__15_10__9090344.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.602111111111114
+  lon: 17.386152777777777
+  altitude: 106.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4918
+  height: 3765
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 15:10:06.000000000+02:00
 - image_filename: 2021_09_09__15_12__9090348.jpg
   post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
   lat: 52.603097222222225
@@ -755,6 +377,273 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-09 15:12:26.000000000+02:00
+- image_filename: 2021_09_09__15_12__9090350.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.60311111111111
+  lon: 17.387777777777778
+  altitude: 102.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 20.42
+  iso: 200
+  width: 5193
+  height: 3894
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 15:12:52.000000000+02:00
+- image_filename: 2021_09_09__15_15__9090358.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.60427777777778
+  lon: 17.386930555555555
+  altitude: 97.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 64.25
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 15:15:34.000000000+02:00
+- image_filename: 2021_09_09__15_16__9090361.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.60436111111111
+  lon: 17.387166666666666
+  altitude: 97.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 3.35
+  iso: 200
+  width: 5240
+  height: 3659
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 15:16:47.000000000+02:00
+- image_filename: 2021_09_09__15_17__9090364.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.60434722222222
+  lon: 17.38715277777778
+  altitude: 97.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 21.14
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 15:17:15.000000000+02:00
+- image_filename: 2021_09_09__15_34__9090371.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4912
+  height: 3635
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 15:34:28.000000000+02:00
+- image_filename: 2021_09_09__16_51__9090372.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.638152777777776
+  lon: 17.427597222222225
+  altitude: 98.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 25.6
+  iso: 200
+  width: 3865
+  height: 2818
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 16:51:09.000000000+02:00
+- image_filename: 2021_09_09__17_11__9090378.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.687999999999995
+  lon: 17.429486111111114
+  altitude: 107.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5088
+  height: 3799
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 17:11:42.000000000+02:00
+- image_filename: 2021_09_09__17_13__9090382.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.69022222222222
+  lon: 17.428333333333335
+  altitude: 107.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 19.98
+  iso: 200
+  width: 5115
+  height: 3818
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 17:13:27.000000000+02:00
+- image_filename: 2021_09_09__17_21__9090388.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.69815277777777
+  lon: 17.407166666666665
+  altitude: 109.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 61.36
+  iso: 200
+  width: 5180
+  height: 3867
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 17:21:24.000000000+02:00
+- image_filename: 2021_09_09__17_34__9090393.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.69438888888889
+  lon: 17.363944444444446
+  altitude: 110.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 94.16
+  iso: 200
+  width: 5060
+  height: 3778
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 17:34:09.000000000+02:00
+- image_filename: 2021_09_09__17_49__9090401.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.70677777777778
+  lon: 17.31872222222222
+  altitude: 103.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.63
+  iso: 200
+  width: 5152
+  height: 3885
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 17:49:37.000000000+02:00
+- image_filename: 2021_09_09__17_55__9090410.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.72336111111111
+  lon: 17.31711111111111
+  altitude: 100.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 133.2
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 17:55:49.000000000+02:00
+- image_filename: 2021_09_09__18_00__9090411.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.738194444444446
+  lon: 17.319930555555555
+  altitude: 92.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5172
+  height: 3861
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 18:00:49.000000000+02:00
+- image_filename: 2021_09_09__18_04__9090415.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.74440277777778
+  lon: 17.322902777777777
+  altitude: 91.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 9.73
+  iso: 200
+  width: 5143
+  height: 3787
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 18:04:51.000000000+02:00
+- image_filename: 2021_09_09__18_09__9090419.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.75047222222222
+  lon: 17.328180555555555
+  altitude: 90.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.83
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 18:09:34.000000000+02:00
 - image_filename: 2021_09_09__18_10__9090425.jpg
   post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
   lat: 52.750166666666665
@@ -773,18 +662,129 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-09 18:10:22.000000000+02:00
-- image_filename: 2021_09_09__15_34__9090371.jpg
+- image_filename: 2021_09_09__18_11__9090428.jpg
   post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
-  focal_length: 16.0
-  focal_length_35: 32.0
+  lat: 52.74970833333333
+  lon: 17.324444444444445
+  altitude: 87.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1000.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 124.12
   iso: 200
-  width: 4912
-  height: 3635
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-09-09 15:34:28.000000000+02:00
+  time: 2021-09-09 18:11:14.000000000+02:00
+- image_filename: 2021_09_09__18_11__9090430.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.74973611111111
+  lon: 17.32351388888889
+  altitude: 85.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 140.03
+  iso: 200
+  width: 5014
+  height: 3743
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 18:11:22.000000000+02:00
+- image_filename: 2021_09_09__18_16__9090437.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.75084722222222
+  lon: 17.307944444444445
+  altitude: 83.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 35.69
+  iso: 200
+  width: 5094
+  height: 3864
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 18:16:33.000000000+02:00
+- image_filename: 2021_09_09__18_21__9090439.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.758875
+  lon: 17.305152777777778
+  altitude: 83.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 52.68
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 18:21:18.000000000+02:00
+- image_filename: 2021_09_09__18_32__9090444.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.78547222222222
+  lon: 17.29116666666667
+  altitude: 84.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 3.43
+  iso: 200
+  width: 3669
+  height: 4506
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 18:32:47.000000000+02:00
+- image_filename: 2021_09_09__18_42__9090453.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.801125
+  lon: 17.249750000000002
+  altitude: 86.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 115.38
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 18:42:14.000000000+02:00
+- image_filename: 2021_09_09__18_42__9090454.jpg
+  post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.80120833333333
+  lon: 17.249305555555555
+  altitude: 86.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 89.04
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-09 18:42:18.000000000+02:00

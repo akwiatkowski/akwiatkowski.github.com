@@ -1,476 +1,476 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.20723805555556
-  lon: 19.76433972222222
-  altitude: 2041.5
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 500
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1333
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 13:13:24+02:00
 - image_filename: IMGP3085raw1.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.238215833333335
+  lat: 49.238216666666666
   lon: 19.777380555555556
   altitude: 1382.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-07-21 09:52:41+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-21 09:52:41.000000000+02:00
 - image_filename: IMGP3106raw1.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.23647361111111
-  lon: 19.768508055555554
+  lat: 49.236475
+  lon: 19.768508333333333
   altitude: 1616.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2016-07-21 10:31:14+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-21 10:31:14.000000000+02:00
 - image_filename: IMGP3151raw1.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.2364775
-  lon: 19.768488333333334
+  lat: 49.23647777777778
+  lon: 19.76848888888889
   altitude: 1616.1
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-07-21 10:36:03+02:00
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-21 10:36:03.000000000+02:00
+- image_filename: IMGP3158raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.236608333333336
+  lon: 19.76706111111111
+  altitude: 1640.2
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-21 10:42:04.000000000+02:00
 - image_filename: IMGP3164raw1.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.23659666666667
-  lon: 19.767035
+  lat: 49.23659722222222
+  lon: 19.76703611111111
   altitude: 1640.2
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 500
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 10:45:08+02:00
-- image_filename: IMGP3181raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.23344111111111
-  lon: 19.76703
-  altitude: 1596.4
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 11:10:09+02:00
-- image_filename: IMGP3186raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.23178666666667
-  lon: 19.768028055555554
-  altitude: 1624.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 11:15:25+02:00
-- image_filename: IMGP3236raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.21737388888889
-  lon: 19.76020611111111
-  altitude: 1820.9
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 12:02:03+02:00
-- image_filename: IMGP3300raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.21210388888889
-  lon: 19.759488055555554
-  altitude: 1871.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 12:31:43+02:00
-- image_filename: IMGP3348raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.207304444444446
-  lon: 19.764029444444443
-  altitude: 2048.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 13:12:09+02:00
-- image_filename: IMGP3442raw2.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.20769611111111
-  lon: 19.763187777777777
-  altitude: 2053.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 15:12:33+02:00
-- image_filename: IMGP3491raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 18:22:29+02:00
-- image_filename: IMGP3321raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.20751138888889
-  lon: 19.763046111111112
-  altitude: 2057.4
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 12:57:15+02:00
-- image_filename: IMGP3427raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.20622638888889
-  lon: 19.766780833333332
-  altitude: 1940.6
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-07-21 14:50:32+02:00
-- image_filename: IMGP3311raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.20964611111111
-  lon: 19.7611375
-  altitude: 1949.7
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 12:42:39+02:00
-- image_filename: IMGP3303raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.21037916666667
-  lon: 19.760457777777777
-  altitude: 1910.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 12:37:16+02:00
-- image_filename: IMGP3494raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.23599638888889
-  lon: 19.790444722222222
-  altitude: 1135.9
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-22 09:21:04+02:00
-- image_filename: IMGP3256raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.21575361111111
-  lon: 19.758423333333333
-  altitude: 1869.4
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 12:09:01+02:00
-- image_filename: IMGP3356raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.20713833333333
-  lon: 19.765006666666668
-  altitude: 2024.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 13:15:17+02:00
-- image_filename: IMGP3464raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.213729722222226
-  lon: 19.76478722222222
-  altitude: 1684.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 15:56:17+02:00
-- image_filename: IMGP3259raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.21562305555556
-  lon: 19.758407777777776
-  altitude: 1868.9
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 12:09:31+02:00
-- image_filename: IMGP3391raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.20600666666667
-  lon: 19.768334166666666
-  altitude: 1897.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 13:55:31+02:00
-- image_filename: IMGP3257raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.21575361111111
-  lon: 19.758423333333333
-  altitude: 1869.4
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 12:09:06+02:00
-- image_filename: IMGP3469raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.215118333333336
-  lon: 19.771149722222223
-  altitude: 1526.2
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-07-21 16:23:55+02:00
-- image_filename: IMGP3230raw2.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.21758972222222
-  lon: 19.760515833333333
-  altitude: 1811.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 12:00:09+02:00
-- image_filename: IMGP3435raw2.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.207187222222224
-  lon: 19.764900555555556
-  altitude: 2022.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 15:02:32+02:00
-- image_filename: IMGP3342raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.20742583333334
-  lon: 19.7635275
-  altitude: 2058.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-21 13:09:57+02:00
-- image_filename: IMGP3334raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.207481388888894
-  lon: 19.76310972222222
-  altitude: 2060.2
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-21 13:06:44+02:00
+  time: 2016-07-21 10:45:08.000000000+02:00
 - image_filename: IMGP3169raw1.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.236513055555555
-  lon: 19.76673361111111
+  lat: 49.23651388888889
+  lon: 19.76673333333333
   altitude: 1641.6
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-21 10:59:38+02:00
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-21 10:59:38.000000000+02:00
+- image_filename: IMGP3181raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.233441666666664
+  lon: 19.767030555555554
+  altitude: 1596.4
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-07-21 11:10:09.000000000+02:00
+- image_filename: IMGP3186raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.23178611111111
+  lon: 19.768027777777778
+  altitude: 1624.8
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-21 11:15:25.000000000+02:00
+- image_filename: IMGP3220raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.22017777777778
+  lon: 19.764483333333335
+  altitude: 1767.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-21 11:46:33.000000000+02:00
+- image_filename: IMGP3230raw2.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.21758888888889
+  lon: 19.760516666666668
+  altitude: 1811.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:00:09.000000000+02:00
+- image_filename: IMGP3236raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.217375000000004
+  lon: 19.760205555555554
+  altitude: 1820.9
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:02:03.000000000+02:00
+- image_filename: IMGP3238raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.21715277777778
+  lon: 19.75989722222222
+  altitude: 1827.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:02:49.000000000+02:00
+- image_filename: IMGP3256raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.21575277777778
+  lon: 19.758422222222222
+  altitude: 1869.4
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:09:01.000000000+02:00
+- image_filename: IMGP3257raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.21575277777778
+  lon: 19.758422222222222
+  altitude: 1869.4
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:09:06.000000000+02:00
+- image_filename: IMGP3259raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.21562222222222
+  lon: 19.758408333333332
+  altitude: 1868.9
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:09:31.000000000+02:00
 - image_filename: IMGP3283raw1.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.21561305555556
+  lat: 49.21561388888889
   lon: 19.75843888888889
   altitude: 1869.9
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 9.0
-  iso: 500
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2016-07-21 12:20:03+02:00
-- image_filename: IMGP3220raw1.jpg
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:20:03.000000000+02:00
+- image_filename: IMGP3300raw1.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.22017694444445
-  lon: 19.76448277777778
-  altitude: 1767.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
+  lat: 49.21210277777778
+  lon: 19.75948888888889
+  altitude: 1871.8
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
   aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:31:43.000000000+02:00
+- image_filename: IMGP3303raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.21037777777778
+  lon: 19.760458333333332
+  altitude: 1910.8
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:37:16.000000000+02:00
+- image_filename: IMGP3311raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.20964722222222
+  lon: 19.76113888888889
+  altitude: 1949.7
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-21 11:46:33+02:00
+  time: 2016-07-21 12:42:39.000000000+02:00
+- image_filename: IMGP3321raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.20751111111112
+  lon: 19.763047222222223
+  altitude: 2057.4
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-21 12:57:15.000000000+02:00
+- image_filename: IMGP3334raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.207480555555556
+  lon: 19.763108333333335
+  altitude: 2060.2
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-21 13:06:44.000000000+02:00
+- image_filename: IMGP3342raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.207425
+  lon: 19.763527777777778
+  altitude: 2058.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2016-07-21 13:09:57.000000000+02:00
+- image_filename: IMGP3348raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.20730555555556
+  lon: 19.764030555555557
+  altitude: 2048.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-21 13:12:09.000000000+02:00
+- image_filename: IMGP3356raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.20713888888889
+  lon: 19.765005555555554
+  altitude: 2024.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-07-21 13:15:17.000000000+02:00
+- image_filename: IMGP3391raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.206005555555556
+  lon: 19.76833333333333
+  altitude: 1897.8
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-07-21 13:55:31.000000000+02:00
 - image_filename: IMGP3417raw1.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.20581
-  lon: 19.7706925
+  lat: 49.20581111111112
+  lon: 19.770691666666664
   altitude: 1873.8
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-21 14:26:45+02:00
-- image_filename: IMGP3158raw1.jpg
-  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.236608333333336
-  lon: 19.767060833333332
-  altitude: 1640.2
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
   iso: 200
   camera: PENTAX K-S2
+  time: 2016-07-21 14:26:45.000000000+02:00
+- image_filename: IMGP3427raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.206225
+  lon: 19.766780555555556
+  altitude: 1940.6
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-21 14:50:32.000000000+02:00
+- image_filename: IMGP3435raw2.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.20718611111111
+  lon: 19.7649
+  altitude: 2022.8
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 7.1
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-07-21 10:42:04+02:00
-- image_filename: IMGP3238raw1.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-21 15:02:32.000000000+02:00
+- image_filename: IMGP3442raw2.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
-  lat: 49.217152500000005
-  lon: 19.7598975
-  altitude: 1827.6
+  lat: 49.20769722222222
+  lon: 19.763188888888887
+  altitude: 2053.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-21 15:12:33.000000000+02:00
+- image_filename: IMGP3464raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.21373055555556
+  lon: 19.76478611111111
+  altitude: 1684.8
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-21 15:56:17.000000000+02:00
+- image_filename: IMGP3469raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.21511944444445
+  lon: 19.77115
+  altitude: 1526.2
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-21 16:23:55.000000000+02:00
+- image_filename: IMGP3491raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-21 18:22:29.000000000+02:00
+- image_filename: IMGP3494raw1.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.235997222222224
+  lon: 19.790444444444447
+  altitude: 1135.9
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-22 09:21:04.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.207238888888895
+  lon: 19.76433888888889
+  altitude: 2041.5
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
-  iso: 200
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 500
+  width: 2000
+  height: 1333
   camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-07-21 12:02:49+02:00
+  time: 2016-07-21 13:13:24.000000000+02:00

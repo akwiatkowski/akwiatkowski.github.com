@@ -1,132 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.736402777777776
-  lon: 15.743013888888887
-  altitude: 1533.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 16.0
-  iso: 200
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-12-30 13:07:33+01:00
-- image_filename: IMGP0922raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.75186111111111
-  lon: 15.818958333333333
-  altitude: 1173.0
-  focal_length: 148.0
-  focal_length_35: 222.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 13.0
-  exposure_string: 13 s
-  time: 2016-12-30 07:29:20+01:00
-- image_filename: IMGP0995raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.75325
-  lon: 15.818166666666666
-  altitude: 1224.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2016-12-30 08:18:45+01:00
-- image_filename: IMGP1026raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.74213888888889
-  lon: 15.755194444444445
-  altitude: 1411.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-12-30 12:43:36+01:00
-- image_filename: IMGP1048raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.736361111111115
-  lon: 15.739875
-  altitude: 1591.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-12-30 13:16:58+01:00
-- image_filename: IMGP1054raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.736555555555555
-  lon: 15.740569444444443
-  altitude: 1582.0
-  focal_length: 105.0
-  focal_length_35: 157.0
-  crop: 1.4952380952380953
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-12-30 13:37:03+01:00
-- image_filename: IMGP1068raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.735486111111115
-  lon: 15.742388888888888
-  altitude: 1548.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 5.6
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-12-30 13:41:43+01:00
-- image_filename: IMGP1065raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.73526388888889
-  lon: 15.741944444444444
-  altitude: 1554.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-12-30 13:40:57+01:00
-- image_filename: IMGP1031raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.73840277777778
-  lon: 15.743875
-  altitude: 1494.0
-  focal_length: 36.0
-  focal_length_35: 54.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-12-30 13:00:28+01:00
 - image_filename: IMGP0918raw1.jpg
   post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
   lat: 50.751875
@@ -136,109 +8,25 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
-  time: 2016-12-30 07:25:21+01:00
-- image_filename: IMGP1111raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.74033333333333
-  lon: 15.748972222222221
-  altitude: 1426.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-12-30 14:01:15+01:00
-- image_filename: IMGP1104raw1.jpg
+  time: 2016-12-30 07:25:21.000000000+01:00
+- image_filename: IMGP0922raw1.jpg
   post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.7395
-  lon: 15.746402777777776
-  altitude: 1447.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-12-30 13:56:45+01:00
-- image_filename: IMGP1085raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.738416666666666
-  lon: 15.743749999999999
-  altitude: 1498.0
-  focal_length: 148.0
-  focal_length_35: 222.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-12-30 13:48:49+01:00
-- image_filename: IMGP1143raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.74229166666667
-  lon: 15.772763888888889
-  altitude: 1349.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-12-30 14:38:03+01:00
-- image_filename: IMGP0983raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.75326388888889
-  lon: 15.818152777777778
-  altitude: 1224.0
+  lat: 50.75186111111111
+  lon: 15.818958333333333
+  altitude: 1173.0
   focal_length: 148.0
   focal_length_35: 222.0
   crop: 1.5
   aperture: 11.0
+  exposure: 13.0
+  exposure_string: 13 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2016-12-30 08:14:04+01:00
-- image_filename: IMGP0932raw2.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.75326388888889
-  lon: 15.818166666666666
-  altitude: 1222.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2016-12-30 07:42:13+01:00
-- image_filename: IMGP0993raw2.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.75326388888889
-  lon: 15.818194444444444
-  altitude: 1224.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2016-12-30 08:18:04+01:00
+  time: 2016-12-30 07:29:20.000000000+01:00
 - image_filename: IMGP0930raw1.jpg
   post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
   lat: 50.75326388888889
@@ -248,67 +36,25 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
-  time: 2016-12-30 07:41:02+01:00
-- image_filename: IMGP0998raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.753166666666665
-  lon: 15.817902777777778
-  altitude: 1225.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-12-30 08:25:19+01:00
-- image_filename: IMGP1019raw2.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.74240277777778
-  lon: 15.77176388888889
-  altitude: 1370.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-12-30 12:19:20+01:00
-- image_filename: IMGP0975raw1.jpg
+  time: 2016-12-30 07:41:02.000000000+01:00
+- image_filename: IMGP0932raw2.jpg
   post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.753236111111114
-  lon: 15.818194444444444
-  altitude: 1224.0
+  lat: 50.75326388888889
+  lon: 15.818166666666666
+  altitude: 1222.0
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5
   aperture: 11.0
+  exposure: 2.0
+  exposure_string: 2 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2016-12-30 08:08:27+01:00
-- image_filename: IMGP1001raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.753166666666665
-  lon: 15.817874999999999
-  altitude: 1225.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-12-30 08:25:49+01:00
+  time: 2016-12-30 07:42:13.000000000+01:00
 - image_filename: IMGP0934raw1.jpg
   post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
   lat: 50.75326388888889
@@ -318,39 +64,39 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 11.0
+  exposure: 6.0
+  exposure_string: 1.6 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2016-12-30 07:43:13+01:00
-- image_filename: IMGP1092raw1.jpg
+  time: 2016-12-30 07:43:13.000000000+01:00
+- image_filename: IMGP0975raw1.jpg
   post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.73905555555556
-  lon: 15.745430555555554
-  altitude: 1464.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-12-30 13:53:40+01:00
-- image_filename: IMGP1114raw1.jpg
-  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
-  lat: 50.74109722222222
-  lon: 15.75173611111111
-  altitude: 1421.0
+  lat: 50.753236111111114
+  lon: 15.818194444444444
+  altitude: 1224.0
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5
-  aperture: 8.0
-  iso: 250
+  aperture: 11.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-12-30 14:04:37+01:00
+  time: 2016-12-30 08:08:27.000000000+01:00
+- image_filename: IMGP0983raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.75326388888889
+  lon: 15.818152777777778
+  altitude: 1224.0
+  focal_length: 148.0
+  focal_length_35: 222.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-12-30 08:14:04.000000000+01:00
 - image_filename: IMGP0985raw1.jpg
   post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
   lat: 50.75325
@@ -360,8 +106,262 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.07692307692307693
   exposure_string: 1/13 s
-  time: 2016-12-30 08:14:26+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-12-30 08:14:26.000000000+01:00
+- image_filename: IMGP0993raw2.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.75326388888889
+  lon: 15.818194444444444
+  altitude: 1224.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 18.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-12-30 08:18:04.000000000+01:00
+- image_filename: IMGP0995raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.75325
+  lon: 15.818166666666666
+  altitude: 1224.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 18.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-12-30 08:18:45.000000000+01:00
+- image_filename: IMGP0998raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.753166666666665
+  lon: 15.817902777777778
+  altitude: 1225.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-12-30 08:25:19.000000000+01:00
+- image_filename: IMGP1001raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.753166666666665
+  lon: 15.817874999999999
+  altitude: 1225.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-12-30 08:25:49.000000000+01:00
+- image_filename: IMGP1019raw2.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.74240277777778
+  lon: 15.77176388888889
+  altitude: 1370.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-12-30 12:19:20.000000000+01:00
+- image_filename: IMGP1026raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.74213888888889
+  lon: 15.755194444444445
+  altitude: 1411.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-12-30 12:43:36.000000000+01:00
+- image_filename: IMGP1031raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.73840277777778
+  lon: 15.743875
+  altitude: 1494.0
+  focal_length: 36.0
+  focal_length_35: 54.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-12-30 13:00:28.000000000+01:00
+- image_filename: IMGP1048raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.736361111111115
+  lon: 15.739875
+  altitude: 1591.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-12-30 13:16:58.000000000+01:00
+- image_filename: IMGP1054raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.736555555555555
+  lon: 15.740569444444443
+  altitude: 1582.0
+  focal_length: 105.0
+  focal_length_35: 157.0
+  crop: 1.4952380952380953
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-12-30 13:37:03.000000000+01:00
+- image_filename: IMGP1065raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.73526388888889
+  lon: 15.741944444444444
+  altitude: 1554.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-12-30 13:40:57.000000000+01:00
+- image_filename: IMGP1068raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.735486111111115
+  lon: 15.742388888888888
+  altitude: 1548.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-12-30 13:41:43.000000000+01:00
+- image_filename: IMGP1085raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.738416666666666
+  lon: 15.743749999999999
+  altitude: 1498.0
+  focal_length: 148.0
+  focal_length_35: 222.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-12-30 13:48:49.000000000+01:00
+- image_filename: IMGP1092raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.73905555555556
+  lon: 15.745430555555554
+  altitude: 1464.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-12-30 13:53:40.000000000+01:00
+- image_filename: IMGP1104raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.7395
+  lon: 15.746402777777776
+  altitude: 1447.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-12-30 13:56:45.000000000+01:00
+- image_filename: IMGP1111raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.74033333333333
+  lon: 15.748972222222221
+  altitude: 1426.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-12-30 14:01:15.000000000+01:00
+- image_filename: IMGP1114raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.74109722222222
+  lon: 15.75173611111111
+  altitude: 1421.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-12-30 14:04:37.000000000+01:00
+- image_filename: IMGP1143raw1.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.74229166666667
+  lon: 15.772763888888889
+  altitude: 1349.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2016-12-30 14:38:03.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj
+  lat: 50.736402777777776
+  lon: 15.743013888888887
+  altitude: 1533.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 16.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-12-30 13:07:33.000000000+01:00

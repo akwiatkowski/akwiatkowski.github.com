@@ -1,20 +1,4 @@
 ---
-- image_filename: P6090266raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.86705555555556
-  lon: 20.00911111111111
-  altitude: 114.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-06-09 17:18:11+02:00
-  focus_distance: 1000.0
 - image_filename: P6090183raw1.jpg
   post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
   lat: 53.365944444444445
@@ -24,13 +8,13 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 10.27
   iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-09 09:00:45+02:00
-  focus_distance: 10.27
+  time: 2018-06-09 09:00:45.000000000+02:00
 - image_filename: P6090191raw1.jpg
   post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
   lat: 53.72913888888889
@@ -40,13 +24,13 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
   iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-06-09 10:15:36+02:00
-  focus_distance: 1000.0
+  time: 2018-06-09 10:15:36.000000000+02:00
 - image_filename: P6090197raw1.jpg
   post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
   lat: 53.81129166666666
@@ -56,394 +40,13 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2018-06-09 12:17:06+02:00
   focus_distance: 1000.0
-- image_filename: P6090204raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.83479166666667
-  lon: 20.292055555555557
-  altitude: 143.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
   iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-06-09 13:19:46+02:00
-  focus_distance: 1000.0
-- image_filename: P6090214raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.86391666666667
-  lon: 20.189138888888888
-  altitude: 97.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-06-09 13:48:43+02:00
-  focus_distance: 6.89
-- image_filename: P6090217raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.86391666666667
-  lon: 20.189152777777778
-  altitude: 97.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-06-09 13:49:27+02:00
-  focus_distance: 23.05
-- image_filename: P6090235raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.85411111111111
-  lon: 20.079416666666667
-  altitude: 96.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-06-09 14:44:20+02:00
-  focus_distance: 1000.0
-- image_filename: P6090239raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.85406944444445
-  lon: 20.079375
-  altitude: 95.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-06-09 14:45:27+02:00
-  focus_distance: 1000.0
-- image_filename: P6090261raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.871972222222226
-  lon: 20.055944444444446
-  altitude: 115.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-06-09 15:25:13+02:00
-  focus_distance: 11.49
-- image_filename: P6090265raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.86706944444445
-  lon: 20.009125
-  altitude: 114.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-09 17:18:06+02:00
-  focus_distance: 1000.0
-- image_filename: P6090279raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.86708333333333
-  lon: 20.00911111111111
-  altitude: 113.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-06-09 17:20:36+02:00
-  focus_distance: 1000.0
-- image_filename: P6090284raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.83491666666667
-  lon: 19.960430555555554
-  altitude: 116.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-06-09 17:54:10+02:00
-  focus_distance: 1000.0
-- image_filename: P6090306raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.79284722222222
-  lon: 19.886458333333334
-  altitude: 117.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-06-09 18:37:49+02:00
-  focus_distance: 1000.0
-- image_filename: P6100313raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 50.0
-  exposure_string: 50 s
-  time: 2018-06-10 00:17:35+02:00
-  focus_distance: 1000.0
-- image_filename: P6090243raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.860819444444445
-  lon: 20.063680555555557
-  altitude: 89.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-06-09 14:54:39+02:00
-  focus_distance: 31.12
-- image_filename: P6090232raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.853722222222224
-  lon: 20.122041666666668
-  altitude: 91.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-09 14:28:15+02:00
-  focus_distance: 1000.0
-- image_filename: P6090287raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.81666666666666
-  lon: 19.935666666666666
-  altitude: 118.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-09 18:12:57+02:00
-  focus_distance: 24.93
-- image_filename: P6090233raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.853722222222224
-  lon: 20.122041666666668
-  altitude: 91.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-09 14:28:32+02:00
-  focus_distance: 1000.0
-- image_filename: P6090308raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.792763888888885
-  lon: 19.88647222222222
-  altitude: 117.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-06-09 18:38:28+02:00
-  focus_distance: 1000.0
-- image_filename: P6090209raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.86391666666667
-  lon: 20.189180555555556
-  altitude: 98.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-06-09 13:47:29+02:00
-  focus_distance: 2.28
-- image_filename: P6090296raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.81572222222222
-  lon: 19.936291666666666
-  altitude: 121.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-09 18:15:42+02:00
-  focus_distance: 13.89
-- image_filename: P6090295raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.81638888888889
-  lon: 19.935930555555554
-  altitude: 120.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-06-09 18:14:43+02:00
-  focus_distance: 2.79
-- image_filename: P6090222raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.86390277777778
-  lon: 20.189152777777778
-  altitude: 97.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-06-09 13:50:07+02:00
-  focus_distance: 146.97
-- image_filename: P6090282raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.84359722222222
-  lon: 19.970763888888886
-  altitude: 116.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-09 17:44:47+02:00
-  focus_distance: 1000.0
-- image_filename: P6090238raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.854083333333335
-  lon: 20.079375
-  altitude: 95.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-09 14:45:19+02:00
-  focus_distance: 1000.0
-- image_filename: P6090215raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.863930555555555
-  lon: 20.189166666666665
-  altitude: 97.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-06-09 13:48:52+02:00
-  focus_distance: 1000.0
-- image_filename: P6090299raw1.jpg
-  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.81083333333333
-  lon: 19.91913888888889
-  altitude: 112.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-06-09 18:22:47+02:00
-  focus_distance: 1000.0
+  time: 2018-06-09 12:17:06.000000000+02:00
 - image_filename: P6090199raw1.jpg
   post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
   lat: 53.811305555555556
@@ -453,29 +56,77 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
   iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-06-09 12:17:15+02:00
-  focus_distance: 1000.0
-- image_filename: P6090290raw1.jpg
+  time: 2018-06-09 12:17:15.000000000+02:00
+- image_filename: P6090204raw1.jpg
   post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.816402777777775
-  lon: 19.935875
-  altitude: 120.0
+  lat: 53.83479166666667
+  lon: 20.292055555555557
+  altitude: 143.0
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
   iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-06-09 18:14:08+02:00
-  focus_distance: 72.25
+  time: 2018-06-09 13:19:46.000000000+02:00
+- image_filename: P6090209raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.86391666666667
+  lon: 20.189180555555556
+  altitude: 98.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.28
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 13:47:29.000000000+02:00
+- image_filename: P6090214raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.86391666666667
+  lon: 20.189138888888888
+  altitude: 97.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 6.89
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 13:48:43.000000000+02:00
+- image_filename: P6090215raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.863930555555555
+  lon: 20.189166666666665
+  altitude: 97.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 13:48:52.000000000+02:00
 - image_filename: P6090216raw1.jpg
   post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
   lat: 53.863930555555555
@@ -485,29 +136,45 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 185.29
   iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-06-09 13:49:16+02:00
-  focus_distance: 185.29
-- image_filename: P6090253raw1.jpg
+  time: 2018-06-09 13:49:16.000000000+02:00
+- image_filename: P6090217raw1.jpg
   post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
-  lat: 53.86706944444445
-  lon: 20.05484722222222
-  altitude: 85.0
+  lat: 53.86391666666667
+  lon: 20.189152777777778
+  altitude: 97.0
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 23.05
   iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-06-09 15:08:30+02:00
-  focus_distance: 1000.0
+  time: 2018-06-09 13:49:27.000000000+02:00
+- image_filename: P6090222raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.86390277777778
+  lon: 20.189152777777778
+  altitude: 97.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 146.97
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 13:50:07.000000000+02:00
 - image_filename: P6090224raw1.jpg
   post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
   lat: 53.84684722222222
@@ -517,10 +184,343 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
   iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
+  time: 2018-06-09 14:16:23.000000000+02:00
+- image_filename: P6090232raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.853722222222224
+  lon: 20.122041666666668
+  altitude: 91.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2018-06-09 14:16:23+02:00
   focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 14:28:15.000000000+02:00
+- image_filename: P6090233raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.853722222222224
+  lon: 20.122041666666668
+  altitude: 91.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 14:28:32.000000000+02:00
+- image_filename: P6090235raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.85411111111111
+  lon: 20.079416666666667
+  altitude: 96.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 14:44:20.000000000+02:00
+- image_filename: P6090238raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.854083333333335
+  lon: 20.079375
+  altitude: 95.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 14:45:19.000000000+02:00
+- image_filename: P6090239raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.85406944444445
+  lon: 20.079375
+  altitude: 95.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 14:45:27.000000000+02:00
+- image_filename: P6090243raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.860819444444445
+  lon: 20.063680555555557
+  altitude: 89.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 31.12
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 14:54:39.000000000+02:00
+- image_filename: P6090253raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.867069444444446
+  lon: 20.05484722222222
+  altitude: 85.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 15:08:30.000000000+02:00
+- image_filename: P6090261raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.871972222222226
+  lon: 20.055944444444446
+  altitude: 115.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.49
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 15:25:13.000000000+02:00
+- image_filename: P6090265raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.867069444444446
+  lon: 20.009125
+  altitude: 114.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 17:18:06.000000000+02:00
+- image_filename: P6090266raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.86705555555556
+  lon: 20.00911111111111
+  altitude: 114.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 17:18:11.000000000+02:00
+- image_filename: P6090279raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.86708333333333
+  lon: 20.00911111111111
+  altitude: 113.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 17:20:36.000000000+02:00
+- image_filename: P6090282raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.84359722222222
+  lon: 19.970763888888886
+  altitude: 116.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 17:44:47.000000000+02:00
+- image_filename: P6090284raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.83491666666667
+  lon: 19.960430555555554
+  altitude: 116.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 17:54:10.000000000+02:00
+- image_filename: P6090287raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.81666666666666
+  lon: 19.935666666666666
+  altitude: 118.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 24.93
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 18:12:57.000000000+02:00
+- image_filename: P6090290raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.816402777777775
+  lon: 19.935875
+  altitude: 120.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 72.25
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 18:14:08.000000000+02:00
+- image_filename: P6090295raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.81638888888889
+  lon: 19.935930555555554
+  altitude: 120.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.79
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 18:14:43.000000000+02:00
+- image_filename: P6090296raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.81572222222222
+  lon: 19.936291666666666
+  altitude: 121.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 13.89
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 18:15:42.000000000+02:00
+- image_filename: P6090299raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.81083333333333
+  lon: 19.91913888888889
+  altitude: 112.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 18:22:47.000000000+02:00
+- image_filename: P6090306raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.79284722222222
+  lon: 19.886458333333334
+  altitude: 117.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 18:37:49.000000000+02:00
+- image_filename: P6090308raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  lat: 53.792763888888885
+  lon: 19.88647222222222
+  altitude: 117.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-09 18:38:28.000000000+02:00
+- image_filename: P6100313raw1.jpg
+  post_slug: 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 50.0
+  exposure_string: 50 s
+  focus_distance: 1000.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-06-10 00:17:35.000000000+02:00

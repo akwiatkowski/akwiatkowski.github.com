@@ -1,63 +1,76 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-02-22-narty-w-zielencu
-  lat: 50.33764555555556
-  lon: 16.385312777777777
-  altitude: 865.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-02-19 16:26:13+01:00
 - image_filename: IMGP8422raw1.jpg
   post_slug: 2016-02-22-narty-w-zielencu
-  lat: 50.338076944444445
-  lon: 16.389445
+  lat: 50.338077777777784
+  lon: 16.389444444444443
   altitude: 831.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2016-02-19 15:39:42+01:00
+  time: 2016-02-19 15:39:42.000000000+01:00
 - image_filename: IMGP8448raw1.jpg
   post_slug: 2016-02-22-narty-w-zielencu
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
   iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2016-02-19 17:21:08+01:00
+  time: 2016-02-19 17:21:08.000000000+01:00
 - image_filename: IMGP8456raw1.jpg
   post_slug: 2016-02-22-narty-w-zielencu
-  lat: 50.337491944444444
+  lat: 50.33749166666667
   lon: 16.386127777777777
   altitude: 910.5
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-02-22 10:19:49+01:00
+  time: 2016-02-22 10:19:49.000000000+01:00
+- image_filename: IMGP8463raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.40228888888889
+  lon: 16.391275
+  altitude: 520.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2016-02-22 10:55:04.000000000+01:00
+- image_filename: IMGP8468raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.40441388888889
+  lon: 16.39207222222222
+  altitude: 523.1
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2016-02-22 11:02:45.000000000+01:00
 - image_filename: IMGP8469raw1.jpg
   post_slug: 2016-02-22-narty-w-zielencu
   lat: 50.404316666666666
@@ -67,69 +80,56 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-02-22 11:03:17+01:00
+  time: 2016-02-22 11:03:17.000000000+01:00
 - image_filename: IMGP8470raw1.jpg
   post_slug: 2016-02-22-narty-w-zielencu
-  lat: 50.40413638888889
-  lon: 16.392375555555557
+  lat: 50.40413611111111
+  lon: 16.392375
   altitude: 519.7
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2016-02-22 11:03:30+01:00
-- image_filename: IMGP8463raw1.jpg
-  post_slug: 2016-02-22-narty-w-zielencu
-  lat: 50.40228805555555
-  lon: 16.39127388888889
-  altitude: 520.7
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-02-22 10:55:04+01:00
-- image_filename: IMGP8468raw1.jpg
-  post_slug: 2016-02-22-narty-w-zielencu
-  lat: 50.40441416666666
-  lon: 16.39207111111111
-  altitude: 523.1
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-02-22 11:02:45+01:00
+  time: 2016-02-22 11:03:30.000000000+01:00
 - image_filename: IMGP8514raw1.jpg
   post_slug: 2016-02-22-narty-w-zielencu
-  lat: 50.418972777777775
-  lon: 16.41564083333333
+  lat: 50.41897222222222
+  lon: 16.415641666666666
   altitude: 529.8
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-02-22 14:00:21+01:00
+  time: 2016-02-22 14:00:21.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.33764444444445
+  lon: 16.385313888888888
+  altitude: 865.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 2000
+  height: 1326
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2016-02-19 16:26:13.000000000+01:00

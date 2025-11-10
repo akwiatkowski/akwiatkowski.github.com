@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_06_01__12_00_P6010072.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.410402777777776
-  lon: 14.888902777777778
-  altitude: 74.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 12:00:23+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_06_01__11_07_P6010002.jpg
   post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
   lat: 52.35348611111111
@@ -26,15 +8,15 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2019-06-01 11:07:36+02:00
   focus_distance: 67.51
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 11:07:36.000000000+02:00
 - image_filename: 2019_06_01__11_07_P6010008.jpg
   post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
   lat: 52.35445833333333
@@ -44,15 +26,15 @@
   focal_length_35: 122.0
   crop: 2.0
   aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4408
-  height: 3340
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-06-01 11:07:58+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4408
+  height: 3340
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 11:07:58.000000000+02:00
 - image_filename: 2019_06_01__11_30_P6010014.jpg
   post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
   lat: 52.40743055555556
@@ -62,429 +44,15 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-06-01 11:30:30+02:00
   focus_distance: 1000.0
-- image_filename: 2019_06_01__11_53_P6010065.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40897222222222
-  lon: 14.8895
-  altitude: 78.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 10.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-01 11:53:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__11_59_P6010071.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.411319444444445
-  lon: 14.88773611111111
-  altitude: 68.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-01 11:59:41+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_04_P6010081.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.407513888888886
-  lon: 14.89236111111111
-  altitude: 86.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4422
-  height: 3085
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-01 12:04:46+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_06_P6010083.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40648611111111
-  lon: 14.895055555555555
-  altitude: 94.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4282
-  height: 3282
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 12:06:24+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_11_P6010092.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40801388888889
-  lon: 14.901277777777779
-  altitude: 92.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-01 12:11:23+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_19_P6010104.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.415875
-  lon: 14.913458333333333
-  altitude: 94.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-01 12:19:40+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_27_P6010112.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.424791666666664
-  lon: 14.926874999999999
-  altitude: 88.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4528
-  height: 3361
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-01 12:27:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_41_P6010116.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42802777777778
-  lon: 14.931472222222222
-  altitude: 88.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4418
-  height: 3151
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-01 12:41:01+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_56_P6010126.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.422041666666665
-  lon: 14.969027777777779
-  altitude: 119.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-01 12:56:33+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__13_24_P6010157.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.414833333333334
-  lon: 14.991833333333332
-  altitude: 126.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4375
-  height: 3183
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-01 13:24:53+02:00
-  focus_distance: 83.31
-- image_filename: 2019_06_01__13_37_P6010169.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.41883333333333
-  lon: 15.027944444444445
-  altitude: 105.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-01 13:37:09+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__13_45_P6010188.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42225
-  lon: 15.033888888888889
-  altitude: 114.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 13:45:50+02:00
-  focus_distance: 124.92
-- image_filename: 2019_06_01__14_04_P6010215.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42622222222222
-  lon: 15.067361111111111
-  altitude: 150.0
-  focal_length: 84.0
-  focal_length_35: 168.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4547
-  height: 3347
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-01 14:04:27+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__14_07_P6010221.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42527777777777
-  lon: 15.069666666666667
-  altitude: 153.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-01 14:07:37+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__14_32_P6010229.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.462361111111115
-  lon: 15.123583333333334
-  altitude: 90.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4568
-  height: 3440
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-06-01 14:32:08+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__15_43_P6010230.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.49879166666667
-  lon: 15.159736111111112
-  altitude: 113.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 15:43:28+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__16_02_P6010234.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.515972222222224
-  lon: 15.200875
-  altitude: 74.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-06-01 16:02:27+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__16_07_P6010235.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.51058333333334
-  lon: 15.21523611111111
-  altitude: 55.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4545
-  height: 3200
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-01 16:07:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__14_01_P6010212.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42502777777778
-  lon: 15.06761111111111
-  altitude: 150.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-01 14:01:15+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__13_47_P6010193.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.422513888888886
-  lon: 15.039319444444445
-  altitude: 122.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 13:47:14+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_00_P6010076.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40998611111111
-  lon: 14.889430555555554
-  altitude: 76.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-01 12:00:42+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__14_30_P6010224.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.46065277777778
-  lon: 15.121986111111111
-  altitude: 92.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-01 14:30:05+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__13_25_P6010162.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.41461111111111
-  lon: 14.992416666666665
-  altitude: 125.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4564
-  height: 3368
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-01 13:25:19+02:00
-  focus_distance: 1000.0
+  time: 2019-06-01 11:30:30.000000000+02:00
 - image_filename: 2019_06_01__11_37_P6010031.jpg
   post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
   lat: 52.40797222222222
@@ -494,177 +62,15 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-06-01 11:37:19+02:00
   focus_distance: 1000.0
-- image_filename: 2019_06_01__12_00_P6010075.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.41009722222222
-  lon: 14.889291666666667
-  altitude: 76.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-01 12:00:37+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__13_26_P6010165.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.41461111111111
-  lon: 14.992430555555554
-  altitude: 125.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4563
-  height: 3214
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-01 13:26:07+02:00
-  focus_distance: 18.98
-- image_filename: 2019_06_01__13_46_P6010190.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42238888888889
-  lon: 15.035180555555556
-  altitude: 115.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 13:46:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_00_P6010074.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.41020833333333
-  lon: 14.889152777777777
-  altitude: 75.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-01 12:00:32+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__13_55_P6010202.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42373611111111
-  lon: 15.053861111111113
-  altitude: 142.0
-  focal_length: 32.0
-  focal_length_35: 64.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-01 13:55:49+02:00
-  focus_distance: 9.07
-- image_filename: 2019_06_01__11_51_P6010050.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40840277777777
-  lon: 14.883708333333333
-  altitude: 77.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3249
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-01 11:51:36+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_03_P6010077.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40923611111111
-  lon: 14.889972222222221
-  altitude: 78.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4323
-  height: 3313
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 12:03:14+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__14_07_P6010218.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42472222222222
-  lon: 15.07025
-  altitude: 153.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 14:07:20+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__13_25_P6010159.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.414625
-  lon: 14.99236111111111
-  altitude: 126.0
-  focal_length: 37.0
-  focal_length_35: 74.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4572
-  height: 3463
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-01 13:25:03+02:00
-  focus_distance: 1000.0
+  time: 2019-06-01 11:37:19.000000000+02:00
 - image_filename: 2019_06_01__11_41_P6010037.jpg
   post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
   lat: 52.40881944444444
@@ -674,213 +80,15 @@
   focal_length_35: 38.0
   crop: 2.0
   aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-06-01 11:41:59+02:00
   focus_distance: 1000.0
-- image_filename: 2019_06_01__11_49_P6010045.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40779166666667
-  lon: 14.880958333333334
-  altitude: 66.0
-  focal_length: 84.0
-  focal_length_35: 168.0
-  crop: 2.0
-  aperture: 8.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-01 11:49:05+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__11_52_P6010059.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40844444444444
-  lon: 14.887208333333334
-  altitude: 81.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-01 11:52:59+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__13_44_P6010177.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42106944444444
-  lon: 15.03176388888889
-  altitude: 112.0
-  focal_length: 84.0
-  focal_length_35: 168.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-01 13:44:57+02:00
-  focus_distance: 78.57
-- image_filename: 2019_06_01__13_55_P6010200.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42373611111111
-  lon: 15.053861111111113
-  altitude: 142.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3253
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 13:55:38+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_55_P6010120.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.422555555555554
-  lon: 14.966972222222223
-  altitude: 114.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4505
-  height: 3371
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-01 12:55:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_13_P6010100.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.41
-  lon: 14.903986111111111
-  altitude: 90.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-01 12:13:24+02:00
-  focus_distance: 9.06
-- image_filename: 2019_06_01__12_07_P6010086.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.406083333333335
-  lon: 14.896611111111111
-  altitude: 97.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4162
-  height: 3180
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 12:07:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_58_P6010130.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.42073611111111
-  lon: 14.972111111111111
-  altitude: 127.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-01 12:58:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__12_04_P6010082.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40743055555556
-  lon: 14.892624999999999
-  altitude: 88.0
-  focal_length: 32.0
-  focal_length_35: 64.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4614
-  height: 3460
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-01 12:04:52+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__11_52_P6010058.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.40848611111111
-  lon: 14.886999999999999
-  altitude: 81.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-01 11:52:56+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_01__13_10_P6010150.jpg
-  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
-  lat: 52.41594444444444
-  lon: 14.989208333333332
-  altitude: 128.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 1250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4208
-  height: 2871
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-01 13:10:50+02:00
-  focus_distance: 0.54
+  time: 2019-06-01 11:41:59.000000000+02:00
 - image_filename: 2019_06_01__11_48_P6010043.jpg
   post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
   lat: 52.40781944444444
@@ -890,15 +98,429 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-06-01 11:48:54+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 11:48:54.000000000+02:00
+- image_filename: 2019_06_01__11_49_P6010045.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40779166666667
+  lon: 14.880958333333334
+  altitude: 66.0
+  focal_length: 84.0
+  focal_length_35: 168.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 11:49:05.000000000+02:00
+- image_filename: 2019_06_01__11_51_P6010050.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40840277777777
+  lon: 14.883708333333333
+  altitude: 77.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3249
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 11:51:36.000000000+02:00
+- image_filename: 2019_06_01__11_52_P6010058.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40848611111111
+  lon: 14.886999999999999
+  altitude: 81.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 11:52:56.000000000+02:00
+- image_filename: 2019_06_01__11_52_P6010059.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40844444444444
+  lon: 14.887208333333334
+  altitude: 81.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 11:52:59.000000000+02:00
+- image_filename: 2019_06_01__11_53_P6010065.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40897222222222
+  lon: 14.8895
+  altitude: 78.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 11:53:47.000000000+02:00
+- image_filename: 2019_06_01__11_59_P6010071.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.411319444444445
+  lon: 14.88773611111111
+  altitude: 68.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 11:59:41.000000000+02:00
+- image_filename: 2019_06_01__12_00_P6010072.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.410402777777776
+  lon: 14.888902777777778
+  altitude: 74.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:00:23.000000000+02:00
+- image_filename: 2019_06_01__12_00_P6010074.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.41020833333333
+  lon: 14.889152777777777
+  altitude: 75.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:00:32.000000000+02:00
+- image_filename: 2019_06_01__12_00_P6010075.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.41009722222222
+  lon: 14.889291666666667
+  altitude: 76.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:00:37.000000000+02:00
+- image_filename: 2019_06_01__12_00_P6010076.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40998611111111
+  lon: 14.889430555555554
+  altitude: 76.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:00:42.000000000+02:00
+- image_filename: 2019_06_01__12_03_P6010077.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40923611111111
+  lon: 14.889972222222221
+  altitude: 78.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4323
+  height: 3313
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:03:14.000000000+02:00
+- image_filename: 2019_06_01__12_04_P6010081.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.407513888888886
+  lon: 14.89236111111111
+  altitude: 86.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4422
+  height: 3085
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:04:46.000000000+02:00
+- image_filename: 2019_06_01__12_04_P6010082.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40743055555556
+  lon: 14.892624999999999
+  altitude: 88.0
+  focal_length: 32.0
+  focal_length_35: 64.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4614
+  height: 3460
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:04:52.000000000+02:00
+- image_filename: 2019_06_01__12_06_P6010083.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40648611111111
+  lon: 14.895055555555555
+  altitude: 94.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4282
+  height: 3282
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:06:24.000000000+02:00
+- image_filename: 2019_06_01__12_07_P6010086.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.406083333333335
+  lon: 14.896611111111111
+  altitude: 97.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4162
+  height: 3180
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:07:57.000000000+02:00
+- image_filename: 2019_06_01__12_11_P6010092.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.40801388888889
+  lon: 14.901277777777779
+  altitude: 92.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:11:23.000000000+02:00
+- image_filename: 2019_06_01__12_13_P6010100.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.41
+  lon: 14.903986111111111
+  altitude: 90.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 9.06
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:13:24.000000000+02:00
+- image_filename: 2019_06_01__12_19_P6010104.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.415875
+  lon: 14.913458333333333
+  altitude: 94.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:19:40.000000000+02:00
+- image_filename: 2019_06_01__12_27_P6010112.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.424791666666664
+  lon: 14.926874999999999
+  altitude: 88.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4528
+  height: 3361
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:27:04.000000000+02:00
+- image_filename: 2019_06_01__12_41_P6010116.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42802777777778
+  lon: 14.931472222222222
+  altitude: 88.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4418
+  height: 3151
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:41:01.000000000+02:00
+- image_filename: 2019_06_01__12_55_P6010120.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.422555555555554
+  lon: 14.966972222222223
+  altitude: 114.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4505
+  height: 3371
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:55:50.000000000+02:00
+- image_filename: 2019_06_01__12_56_P6010126.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.422041666666665
+  lon: 14.969027777777779
+  altitude: 119.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:56:33.000000000+02:00
+- image_filename: 2019_06_01__12_58_P6010130.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42073611111111
+  lon: 14.972111111111111
+  altitude: 127.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 12:58:04.000000000+02:00
 - image_filename: 2019_06_01__13_03_P6010140.jpg
   post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
   lat: 52.41701388888889
@@ -908,12 +530,390 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4250
-  height: 3309
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2019-06-01 13:03:08+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4250
+  height: 3309
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:03:08.000000000+02:00
+- image_filename: 2019_06_01__13_10_P6010150.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.41594444444444
+  lon: 14.989208333333332
+  altitude: 128.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 0.54
+  iso: 1250
+  width: 4208
+  height: 2871
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:10:50.000000000+02:00
+- image_filename: 2019_06_01__13_24_P6010157.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.414833333333334
+  lon: 14.991833333333332
+  altitude: 126.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 83.31
+  iso: 200
+  width: 4375
+  height: 3183
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:24:53.000000000+02:00
+- image_filename: 2019_06_01__13_25_P6010159.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.414625
+  lon: 14.99236111111111
+  altitude: 126.0
+  focal_length: 37.0
+  focal_length_35: 74.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4572
+  height: 3463
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:25:03.000000000+02:00
+- image_filename: 2019_06_01__13_25_P6010162.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.41461111111111
+  lon: 14.992416666666665
+  altitude: 125.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4564
+  height: 3368
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:25:19.000000000+02:00
+- image_filename: 2019_06_01__13_26_P6010165.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.41461111111111
+  lon: 14.992430555555554
+  altitude: 125.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 18.98
+  iso: 200
+  width: 4563
+  height: 3214
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:26:07.000000000+02:00
+- image_filename: 2019_06_01__13_37_P6010169.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.41883333333333
+  lon: 15.027944444444445
+  altitude: 105.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:37:09.000000000+02:00
+- image_filename: 2019_06_01__13_44_P6010177.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42106944444444
+  lon: 15.03176388888889
+  altitude: 112.0
+  focal_length: 84.0
+  focal_length_35: 168.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 78.57
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:44:57.000000000+02:00
+- image_filename: 2019_06_01__13_45_P6010188.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42225
+  lon: 15.033888888888889
+  altitude: 114.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 124.92
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:45:50.000000000+02:00
+- image_filename: 2019_06_01__13_46_P6010190.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42238888888889
+  lon: 15.035180555555556
+  altitude: 115.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:46:04.000000000+02:00
+- image_filename: 2019_06_01__13_47_P6010193.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.422513888888886
+  lon: 15.039319444444445
+  altitude: 122.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:47:14.000000000+02:00
+- image_filename: 2019_06_01__13_55_P6010200.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42373611111111
+  lon: 15.053861111111113
+  altitude: 142.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3253
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:55:38.000000000+02:00
+- image_filename: 2019_06_01__13_55_P6010202.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42373611111111
+  lon: 15.053861111111113
+  altitude: 142.0
+  focal_length: 32.0
+  focal_length_35: 64.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 9.07
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 13:55:49.000000000+02:00
+- image_filename: 2019_06_01__14_01_P6010212.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42502777777778
+  lon: 15.06761111111111
+  altitude: 150.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 14:01:15.000000000+02:00
+- image_filename: 2019_06_01__14_04_P6010215.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42622222222222
+  lon: 15.067361111111111
+  altitude: 150.0
+  focal_length: 84.0
+  focal_length_35: 168.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4547
+  height: 3347
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 14:04:27.000000000+02:00
+- image_filename: 2019_06_01__14_07_P6010218.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42472222222222
+  lon: 15.07025
+  altitude: 153.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 14:07:20.000000000+02:00
+- image_filename: 2019_06_01__14_07_P6010221.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.42527777777777
+  lon: 15.069666666666667
+  altitude: 153.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 14:07:37.000000000+02:00
+- image_filename: 2019_06_01__14_30_P6010224.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.46065277777778
+  lon: 15.121986111111111
+  altitude: 92.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 14:30:05.000000000+02:00
+- image_filename: 2019_06_01__14_32_P6010229.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.462361111111115
+  lon: 15.123583333333334
+  altitude: 90.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4568
+  height: 3440
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 14:32:08.000000000+02:00
+- image_filename: 2019_06_01__15_43_P6010230.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.49879166666667
+  lon: 15.159736111111112
+  altitude: 113.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 15:43:28.000000000+02:00
+- image_filename: 2019_06_01__16_02_P6010234.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.515972222222224
+  lon: 15.200875
+  altitude: 74.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 16:02:27.000000000+02:00
+- image_filename: 2019_06_01__16_07_P6010235.jpg
+  post_slug: 2019-06-01-przez-lubuskie-wioski-do-lubniewic
+  lat: 52.51058333333334
+  lon: 15.21523611111111
+  altitude: 55.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4545
+  height: 3200
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-01 16:07:00.000000000+02:00

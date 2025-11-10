@@ -1,126 +1,132 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
-  lat: 50.73978777777778
-  lon: 16.803443055555555
-  altitude: 271.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2016-08-25 15:53:56+02:00
 - image_filename: IMGP4948raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
-  lat: 50.73033527777778
-  lon: 17.047242222222224
+  lat: 50.730336111111114
+  lon: 17.047241666666668
   altitude: 202.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2016-08-25 13:33:23+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-08-25 13:33:23.000000000+02:00
 - image_filename: IMGP4960raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-08-25 13:53:38+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-08-25 13:53:38.000000000+02:00
 - image_filename: IMGP4972raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
-  lat: 50.716255833333335
-  lon: 16.834895555555555
+  lat: 50.716255555555556
+  lon: 16.834894444444444
   altitude: 233.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2016-08-25 15:15:24+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-08-25 15:15:24.000000000+02:00
 - image_filename: IMGP4982raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
-  lat: 50.737364166666666
-  lon: 16.80970361111111
+  lat: 50.73736388888889
+  lon: 16.80970277777778
   altitude: 249.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2016-08-25 15:47:56+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-08-25 15:47:56.000000000+02:00
 - image_filename: IMGP4990raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
-  lat: 50.744045
-  lon: 16.80122916666667
+  lat: 50.74404444444445
+  lon: 16.801230555555556
   altitude: 269.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-08-25 15:57:03+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-08-25 15:57:03.000000000+02:00
 - image_filename: IMGP5001raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
-  lat: 50.747775555555556
-  lon: 16.800642222222223
+  lat: 50.747775000000004
+  lon: 16.800641666666667
   altitude: 271.2
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2016-08-25 16:03:01+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-08-25 16:03:01.000000000+02:00
 - image_filename: IMGP5017raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
-  lat: 50.80415361111111
-  lon: 16.670258611111112
+  lat: 50.80415277777777
+  lon: 16.670258333333333
   altitude: 276.5
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2016-08-25 17:15:01+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-08-25 17:15:01.000000000+02:00
+- image_filename: IMGP5026raw1.jpg
+  post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-08-25 17:29:53.000000000+02:00
+- image_filename: IMGP5028raw1.jpg
+  post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-08-25 17:40:25.000000000+02:00
 - image_filename: IMGP5038raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2016-08-25 17:53:03+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-08-25 17:53:03.000000000+02:00
 - image_filename: IMGP5055raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
   lat: 50.93756944444444
@@ -130,30 +136,24 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 3.5
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 400
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-08-25 18:31:05+02:00
-- image_filename: IMGP5026raw1.jpg
+  time: 2016-08-25 18:31:05.000000000+02:00
+- image_filename: header.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
+  lat: 50.73978888888889
+  lon: 16.803444444444445
+  altitude: 271.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 2000
+  height: 1334
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-08-25 17:29:53+02:00
-- image_filename: IMGP5028raw1.jpg
-  post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-08-25 17:40:25+02:00
+  time: 2016-08-25 15:53:56.000000000+02:00

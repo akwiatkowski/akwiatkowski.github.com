@@ -1,23 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-11-01-okolica-jeziora-brzezno
-- image_filename: 2020_11_01__13_46_DSC04912.jpg
-  post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.65431944444444
-  lon: 17.11613888888889
-  altitude: 98.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5963
-  height: 3967
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-11-01 13:46:09+01:00
 - image_filename: 2020_11_01__13_38_DSC04898.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65165277777778
@@ -27,31 +8,31 @@
   focal_length_35: 36.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5738
-  height: 3788
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-01 13:38:55+01:00
-- image_filename: 2020_11_01__13_49_DSC04934.jpg
-  post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.655027777777775
-  lon: 17.11351388888889
-  altitude: 94.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 2500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  iso: 100
+  width: 5738
+  height: 3788
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 3881
-  height: 5834
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-01 13:49:51+01:00
+  time: 2020-11-01 13:38:55.000000000+01:00
+- image_filename: 2020_11_01__13_46_DSC04912.jpg
+  post_slug: 2020-11-01-okolica-jeziora-brzezno
+  lat: 52.65431944444444
+  lon: 17.11613888888889
+  altitude: 98.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5963
+  height: 3967
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-01 13:46:09.000000000+01:00
 - image_filename: 2020_11_01__13_49_DSC04927.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65497222222222
@@ -61,14 +42,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 1600
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5835
-  height: 3882
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-01 13:49:37+01:00
+  iso: 1600
+  width: 5835
+  height: 3882
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 13:49:37.000000000+01:00
+- image_filename: 2020_11_01__13_49_DSC04934.jpg
+  post_slug: 2020-11-01-okolica-jeziora-brzezno
+  lat: 52.655027777777775
+  lon: 17.11351388888889
+  altitude: 94.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 2500
+  width: 3881
+  height: 5834
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 13:49:51.000000000+01:00
 - image_filename: 2020_11_01__13_50_DSC04936.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65504166666666
@@ -78,14 +76,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 1600
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5835
-  height: 3882
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-01 13:50:01+01:00
+  iso: 1600
+  width: 5835
+  height: 3882
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 13:50:01.000000000+01:00
 - image_filename: 2020_11_01__13_53_DSC04956.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65519444444444
@@ -95,31 +93,14 @@
   focal_length_35: 141.0
   crop: 1.0
   aperture: 5.6
-  iso: 125
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5916
-  height: 3936
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-11-01 13:53:20+01:00
-- image_filename: 2020_11_01__13_58_DSC04989.jpg
-  post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.65611111111111
-  lon: 17.11029166666667
-  altitude: 89.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 4000
+  iso: 125
+  width: 5916
+  height: 3936
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5835
-  height: 3882
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-01 13:58:53+01:00
+  time: 2020-11-01 13:53:20.000000000+01:00
 - image_filename: 2020_11_01__13_58_DSC04978.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65602777777778
@@ -129,14 +110,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5048
-  height: 3302
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-01 13:58:09+01:00
+  iso: 400
+  width: 5048
+  height: 3302
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 13:58:09.000000000+01:00
 - image_filename: 2020_11_01__13_58_DSC04984.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65604166666667
@@ -146,14 +127,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 3318
-  height: 2381
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-01 13:58:14+01:00
+  iso: 400
+  width: 3318
+  height: 2381
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 13:58:14.000000000+01:00
+- image_filename: 2020_11_01__13_58_DSC04989.jpg
+  post_slug: 2020-11-01-okolica-jeziora-brzezno
+  lat: 52.65611111111111
+  lon: 17.11029166666667
+  altitude: 89.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 4000
+  width: 5835
+  height: 3882
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 13:58:53.000000000+01:00
 - image_filename: 2020_11_01__14_01_DSC04996.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.655541666666664
@@ -163,31 +161,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 2000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4739
-  height: 3198
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-01 14:01:59+01:00
-- image_filename: 2020_11_01__14_13_DSC05017.jpg
-  post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.65269444444444
-  lon: 17.10552777777778
-  altitude: 70.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
+  iso: 2000
+  width: 4739
+  height: 3198
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5835
-  height: 3882
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-11-01 14:13:51+01:00
+  time: 2020-11-01 14:01:59.000000000+01:00
 - image_filename: 2020_11_01__14_02_DSC05003.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.655375
@@ -197,14 +178,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 800
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 3285
-  height: 2569
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-01 14:02:34+01:00
+  iso: 800
+  width: 3285
+  height: 2569
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 14:02:34.000000000+01:00
 - image_filename: 2020_11_01__14_07_DSC05011.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65468055555555
@@ -214,48 +195,31 @@
   focal_length_35: 118.0
   crop: 0.9983079526226734
   aperture: 5.6
-  iso: 125
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5835
-  height: 3882
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-11-01 14:07:30+01:00
-- image_filename: 2020_11_01__14_17_DSC05036.jpg
+  iso: 125
+  width: 5835
+  height: 3882
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 14:07:30.000000000+01:00
+- image_filename: 2020_11_01__14_13_DSC05017.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.65240277777777
-  lon: 17.10525
-  altitude: 71.0
+  lat: 52.65269444444444
+  lon: 17.10552777777778
+  altitude: 70.0
   focal_length: 105.0
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 100
+  width: 5835
+  height: 3882
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 3820
-  height: 5914
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-01 14:17:03+01:00
-- image_filename: 2020_11_01__14_17_DSC05039.jpg
-  post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.65229166666666
-  lon: 17.10513888888889
-  altitude: 71.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-01 14:17:17+01:00
+  time: 2020-11-01 14:13:51.000000000+01:00
 - image_filename: 2020_11_01__14_14_DSC05024.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65266666666667
@@ -265,14 +229,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-01 14:14:57+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:14:57.000000000+01:00
 - image_filename: 2020_11_01__14_15_DSC05031.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65259722222222
@@ -282,31 +246,48 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5540
-  height: 3604
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-11-01 14:15:57+01:00
-- image_filename: 2020_11_01__14_18_DSC05045.jpg
+  iso: 100
+  width: 5540
+  height: 3604
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:15:57.000000000+01:00
+- image_filename: 2020_11_01__14_17_DSC05036.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.65186111111111
-  lon: 17.104694444444444
-  altitude: 72.0
+  lat: 52.65240277777777
+  lon: 17.10525
+  altitude: 71.0
   focal_length: 105.0
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 100
+  width: 3820
+  height: 5914
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 3819
-  height: 5914
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-11-01 14:18:35+01:00
+  time: 2020-11-01 14:17:03.000000000+01:00
+- image_filename: 2020_11_01__14_17_DSC05039.jpg
+  post_slug: 2020-11-01-okolica-jeziora-brzezno
+  lat: 52.65229166666666
+  lon: 17.10513888888889
+  altitude: 71.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:17:17.000000000+01:00
 - image_filename: 2020_11_01__14_18_DSC05042.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.651875
@@ -316,14 +297,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5741
-  height: 3935
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2020-11-01 14:18:21+01:00
+  iso: 100
+  width: 5741
+  height: 3935
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:18:21.000000000+01:00
+- image_filename: 2020_11_01__14_18_DSC05045.jpg
+  post_slug: 2020-11-01-okolica-jeziora-brzezno
+  lat: 52.65186111111111
+  lon: 17.104694444444444
+  altitude: 72.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 3819
+  height: 5914
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:18:35.000000000+01:00
 - image_filename: 2020_11_01__14_23_DSC05062.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65038888888889
@@ -333,14 +331,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5741
-  height: 3935
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-01 14:23:37+01:00
+  iso: 100
+  width: 5741
+  height: 3935
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:23:37.000000000+01:00
 - image_filename: 2020_11_01__14_24_DSC05066.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65047222222222
@@ -350,31 +348,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5741
-  height: 3935
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-01 14:24:26+01:00
-- image_filename: 2020_11_01__14_30_DSC05091.jpg
-  post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.65136111111111
-  lon: 17.104277777777778
-  altitude: 70.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
   iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 5741
   height: 3935
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-01 14:30:43+01:00
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:24:26.000000000+01:00
 - image_filename: 2020_11_01__14_24_DSC05070.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.650527777777775
@@ -384,31 +365,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5741
-  height: 3935
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-01 14:24:37+01:00
-- image_filename: 2020_11_01__14_32_DSC05114.jpg
+  iso: 100
+  width: 5741
+  height: 3935
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:24:37.000000000+01:00
+- image_filename: 2020_11_01__14_30_DSC05091.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.65204166666666
-  lon: 17.10488888888889
+  lat: 52.65136111111111
+  lon: 17.104277777777778
   altitude: 70.0
   focal_length: 105.0
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 5741
   height: 3935
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-11-01 14:32:50+01:00
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:30:43.000000000+01:00
 - image_filename: 2020_11_01__14_30_DSC05095.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65141666666666
@@ -418,14 +399,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5741
-  height: 3935
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-01 14:30:51+01:00
+  iso: 100
+  width: 5741
+  height: 3935
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:30:51.000000000+01:00
 - image_filename: 2020_11_01__14_32_DSC05110.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65193055555555
@@ -435,14 +416,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5741
-  height: 3935
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-11-01 14:32:15+01:00
+  iso: 100
+  width: 5741
+  height: 3935
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:32:15.000000000+01:00
+- image_filename: 2020_11_01__14_32_DSC05114.jpg
+  post_slug: 2020-11-01-okolica-jeziora-brzezno
+  lat: 52.65204166666666
+  lon: 17.10488888888889
+  altitude: 70.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 5741
+  height: 3935
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 14:32:50.000000000+01:00
 - image_filename: 2020_11_01__14_39_DSC05130.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.654125
@@ -452,31 +450,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-01 14:39:53+01:00
-- image_filename: 2020_11_01__14_58_DSC05214.jpg
-  post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.65501388888889
-  lon: 17.113583333333334
-  altitude: 92.0
-  focal_length: 385.5
-  focal_length_35: 385.0
-  crop: 0.9987029831387808
-  aperture: 6.3
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 4132
-  height: 3137
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-01 14:58:18+01:00
+  time: 2020-11-01 14:39:53.000000000+01:00
 - image_filename: 2020_11_01__14_57_DSC05199.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.655125
@@ -486,14 +467,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 1000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-01 14:57:43+01:00
+  iso: 1000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 14:57:43.000000000+01:00
+- image_filename: 2020_11_01__14_58_DSC05214.jpg
+  post_slug: 2020-11-01-okolica-jeziora-brzezno
+  lat: 52.65501388888889
+  lon: 17.113583333333334
+  altitude: 92.0
+  focal_length: 385.5
+  focal_length_35: 385.0
+  crop: 0.9987029831387808
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  width: 4132
+  height: 3137
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 14:58:18.000000000+01:00
 - image_filename: 2020_11_01__15_06_DSC05259.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65401388888889
@@ -503,31 +501,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-11-01 15:06:11+01:00
-- image_filename: 2020_11_01__15_16_DSC05321.jpg
-  post_slug: 2020-11-01-okolica-jeziora-brzezno
-  lat: 52.652138888888885
-  lon: 17.11527777777778
-  altitude: 78.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.8
   iso: 100
+  width: 6048
+  height: 4024
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 5761
-  height: 3833
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-01 15:16:41+01:00
+  time: 2020-11-01 15:06:11.000000000+01:00
 - image_filename: 2020_11_01__15_12_DSC05314.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.652625
@@ -537,14 +518,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-01 15:12:55+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 15:12:55.000000000+01:00
+- image_filename: 2020_11_01__15_16_DSC05321.jpg
+  post_slug: 2020-11-01-okolica-jeziora-brzezno
+  lat: 52.652138888888885
+  lon: 17.11527777777778
+  altitude: 78.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5761
+  height: 3833
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-11-01 15:16:41.000000000+01:00
 - image_filename: 2020_11_01__15_26_DSC05332.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65154166666667
@@ -554,14 +552,14 @@
   focal_length_35: 154.0
   crop: 1.0
   aperture: 5.6
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-11-01 15:26:48+01:00
+  iso: 250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 15:26:48.000000000+01:00
 - image_filename: 2020_11_01__15_26_DSC05335.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65152777777778
@@ -571,14 +569,14 @@
   focal_length_35: 303.0
   crop: 0.9970384995064167
   aperture: 6.3
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-01 15:26:58+01:00
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 15:26:58.000000000+01:00
 - image_filename: 2020_11_01__15_27_DSC05338.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65152777777778
@@ -588,14 +586,14 @@
   focal_length_35: 260.0
   crop: 0.9988474836726853
   aperture: 6.3
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5909
-  height: 3931
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-01 15:27:09+01:00
+  iso: 640
+  width: 5909
+  height: 3931
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 15:27:09.000000000+01:00
 - image_filename: 2020_11_01__15_27_DSC05340.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.6515
@@ -605,14 +603,14 @@
   focal_length_35: 352.0
   crop: 0.9997159897756318
   aperture: 6.3
-  iso: 1000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5909
-  height: 3931
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-01 15:27:18+01:00
+  iso: 1000
+  width: 5909
+  height: 3931
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 15:27:18.000000000+01:00
 - image_filename: 2020_11_01__15_30_DSC05352.jpg
   post_slug: 2020-11-01-okolica-jeziora-brzezno
   lat: 52.65165277777778
@@ -622,11 +620,11 @@
   focal_length_35: 308.0
   crop: 0.9970864357397217
   aperture: 6.3
-  iso: 800
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5742
-  height: 3821
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-01 15:30:51+01:00
+  iso: 800
+  width: 5742
+  height: 3821
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-01 15:30:51.000000000+01:00

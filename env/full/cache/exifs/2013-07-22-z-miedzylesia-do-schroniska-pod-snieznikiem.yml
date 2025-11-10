@@ -1,255 +1,255 @@
 ---
-- image_filename: header.jpg
+- image_filename: IMGP6730b.jpg
   post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-07-22 11:57:02+02:00
-- image_filename: IMGP6740b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.15058833333333
-  lon: 16.67597277777778
-  altitude: 465.4
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-07-22 09:04:54+02:00
-- image_filename: IMGP6749b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.1494825
-  lon: 16.68866472222222
-  altitude: 476.5
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-07-22 09:16:33+02:00
-- image_filename: IMGP6853b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.158337777777774
-  lon: 16.73765777777778
-  altitude: 745.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-07-22 11:04:59+02:00
-- image_filename: IMGP6857b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.161185555555555
-  lon: 16.741510277777778
-  altitude: 726.4
+  lat: 50.15031111111111
+  lon: 16.67048888888889
+  altitude: 451.5
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-07-22 11:11:53+02:00
-- image_filename: IMGP6911b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.16886583333333
-  lon: 16.753790833333333
-  altitude: 746.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-07-22 11:53:17+02:00
-- image_filename: IMGP6915raw_c.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-07-22 11:57:02+02:00
-- image_filename: IMGP6927raw_b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2013-07-22 13:14:03+02:00
-- image_filename: IMGP6958b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.20616444444445
-  lon: 16.833014722222224
-  altitude: 1241.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2013-07-22 15:21:17+02:00
+  time: 2013-07-22 08:58:27.000000000+02:00
 - image_filename: IMGP6736b.jpg
   post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.150115
-  lon: 16.67346638888889
+  lat: 50.15011388888889
+  lon: 16.673466666666666
   altitude: 453.9
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
+  time: 2013-07-22 09:01:35.000000000+02:00
+- image_filename: IMGP6737b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.15085555555555
+  lon: 16.67481666666667
+  altitude: 460.6
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2013-07-22 09:01:35+02:00
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-22 09:03:41.000000000+02:00
+- image_filename: IMGP6740b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.15058888888889
+  lon: 16.675972222222224
+  altitude: 465.4
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-22 09:04:54.000000000+02:00
+- image_filename: IMGP6749b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.149483333333336
+  lon: 16.68866388888889
+  altitude: 476.5
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-22 09:16:33.000000000+02:00
+- image_filename: IMGP6807b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.15356388888889
+  lon: 16.702405555555554
+  altitude: 484.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-22 09:32:51.000000000+02:00
+- image_filename: IMGP6809b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.152611111111106
+  lon: 16.714052777777777
+  altitude: 518.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-22 09:56:06.000000000+02:00
+- image_filename: IMGP6853b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.158338888888885
+  lon: 16.737658333333336
+  altitude: 745.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-22 11:04:59.000000000+02:00
+- image_filename: IMGP6857b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.16118611111111
+  lon: 16.741511111111112
+  altitude: 726.4
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-22 11:11:53.000000000+02:00
+- image_filename: IMGP6874b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.16118055555555
+  lon: 16.74161666666667
+  altitude: 725.9
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-22 11:12:12.000000000+02:00
 - image_filename: IMGP6898raw_c.jpg
   post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-07-22 11:36:39+02:00
-- image_filename: IMGP6874b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.161181666666664
-  lon: 16.741615833333334
-  altitude: 725.9
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-07-22 11:12:12+02:00
-- image_filename: IMGP6809b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.152611944444445
-  lon: 16.71405361111111
-  altitude: 518.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-07-22 09:56:06+02:00
-- image_filename: IMGP6807b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.15356305555555
-  lon: 16.702406944444444
-  altitude: 484.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-07-22 09:32:51+02:00
-- image_filename: IMGP6730b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.15031138888889
-  lon: 16.670489444444446
-  altitude: 451.5
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-07-22 08:58:27+02:00
-- image_filename: IMGP6737b.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  lat: 50.15085638888889
-  lon: 16.67481638888889
-  altitude: 460.6
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-07-22 09:03:41+02:00
+  time: 2013-07-22 11:36:39.000000000+02:00
 - image_filename: IMGP6903raw_b.jpg
   post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-07-22 11:43:40+02:00
+  time: 2013-07-22 11:43:40.000000000+02:00
 - image_filename: IMGP6903raw_c.jpg
   post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-07-22 11:43:40+02:00
+  time: 2013-07-22 11:43:40.000000000+02:00
+- image_filename: IMGP6911b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.168866666666666
+  lon: 16.753791666666668
+  altitude: 746.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-22 11:53:17.000000000+02:00
+- image_filename: IMGP6915raw_c.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-22 11:57:02.000000000+02:00
+- image_filename: IMGP6927raw_b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-22 13:14:03.000000000+02:00
+- image_filename: IMGP6958b.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  lat: 50.206163888888895
+  lon: 16.83301388888889
+  altitude: 1241.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-22 15:21:17.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-22 11:57:02.000000000+02:00

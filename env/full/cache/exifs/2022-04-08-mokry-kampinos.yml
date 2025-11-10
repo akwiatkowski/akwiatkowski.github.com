@@ -1,6 +1,220 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2022_04_08__14_40_P4086562.jpg
   post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.30833333333333
+  lon: 20.769319444444445
+  altitude: 76.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1.49
+  iso: 200
+  width: 7716
+  height: 5855
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-08 14:40:28.000000000+02:00
+- image_filename: 2022_04_08__15_04_P4086563.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.308611111111105
+  lon: 20.76877777777778
+  altitude: 77.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 0.76
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-08 15:04:51.000000000+02:00
+- image_filename: 2022_04_08__15_39_P4086573.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.308166666666665
+  lon: 20.76613888888889
+  altitude: 78.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.38
+  iso: 200
+  width: 8026
+  height: 6009
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-08 15:39:50.000000000+02:00
+- image_filename: 2022_04_08__15_48_P4086581.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.30918055555555
+  lon: 20.760347222222222
+  altitude: 76.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 10.56
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-08 15:48:46.000000000+02:00
+- image_filename: 2022_04_08__15_52_P4086585.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.30909722222222
+  lon: 20.760472222222223
+  altitude: 76.0
+  focal_length: 110.0
+  focal_length_35: 220.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8141
+  height: 6065
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 15:52:37.000000000+02:00
+- image_filename: 2022_04_08__16_08_P4086602.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.306638888888884
+  lon: 20.76759722222222
+  altitude: 75.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.91
+  iso: 200
+  width: 4271
+  height: 2943
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:08:32.000000000+02:00
+- image_filename: 2022_04_08__16_11_P4086607.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.305375
+  lon: 20.765930555555556
+  altitude: 74.0
+  focal_length: 102.0
+  focal_length_35: 204.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8033
+  height: 5926
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:11:26.000000000+02:00
+- image_filename: 2022_04_08__16_11_P4086608.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.30522222222222
+  lon: 20.765625
+  altitude: 74.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5753
+  height: 7913
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:11:56.000000000+02:00
+- image_filename: 2022_04_08__16_12_P4086610.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.305055555555555
+  lon: 20.76534722222222
+  altitude: 73.0
+  focal_length: 115.0
+  focal_length_35: 230.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8102
+  height: 6031
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:12:41.000000000+02:00
+- image_filename: 2022_04_08__16_19_P4086618.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.301541666666665
+  lon: 20.762041666666665
+  altitude: 75.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 12.44
+  iso: 200
+  width: 7404
+  height: 5061
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:19:42.000000000+02:00
+- image_filename: 2022_04_08__16_22_P4086622.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.300152777777775
+  lon: 20.761166666666668
+  altitude: 75.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8009
+  height: 5871
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:22:26.000000000+02:00
+- image_filename: 2022_04_08__16_25_P4086626.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.298902777777776
+  lon: 20.760347222222222
+  altitude: 74.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 13.6
+  iso: 200
+  width: 6066
+  height: 8122
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:25:16.000000000+02:00
 - image_filename: 2022_04_08__16_33_P4086635.jpg
   post_slug: 2022-04-08-mokry-kampinos
   lat: 52.295027777777776
@@ -19,3 +233,93 @@
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkIII
   time: 2022-04-08 16:33:02.000000000+02:00
+- image_filename: 2022_04_08__16_35_P4086638.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.29423611111111
+  lon: 20.757152777777776
+  altitude: 75.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 6.24
+  iso: 200
+  width: 6132
+  height: 8200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:35:47.000000000+02:00
+- image_filename: 2022_04_08__16_36_P4086639.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.294041666666665
+  lon: 20.75702777777778
+  altitude: 75.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:36:16.000000000+02:00
+- image_filename: 2022_04_08__16_54_P4086655.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.29072222222222
+  lon: 20.745444444444445
+  altitude: 70.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8020
+  height: 5882
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:54:25.000000000+02:00
+- image_filename: 2022_04_08__16_57_P4086662.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.28995833333333
+  lon: 20.745472222222222
+  altitude: 71.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.12
+  iso: 250
+  width: 5167
+  height: 3738
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:57:49.000000000+02:00
+- image_filename: 2022_04_08__16_58_P4086667.jpg
+  post_slug: 2022-04-08-mokry-kampinos
+  lat: 52.289833333333334
+  lon: 20.745458333333335
+  altitude: 71.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8110
+  height: 6089
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-04-08 16:58:20.000000000+02:00

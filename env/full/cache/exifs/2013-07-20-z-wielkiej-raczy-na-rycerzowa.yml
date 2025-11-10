@@ -1,191 +1,115 @@
 ---
-- image_filename: header.jpg
+- image_filename: IMGP5464b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 5.6
-  iso: 200
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  width: 2048
-  height: 1358
+  time: 2013-07-20 08:54:53.000000000+02:00
+- image_filename: IMGP5492b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2013-07-20 10:00:12+02:00
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-20 09:01:28.000000000+02:00
 - image_filename: IMGP5495b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2013-07-20 09:01:46+02:00
-- image_filename: IMGP5587b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2013-07-20 10:20:28+02:00
-- image_filename: IMGP5738b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-07-20 12:48:14+02:00
-- image_filename: IMGP5882b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-07-20 16:06:14+02:00
-- image_filename: IMGP6048b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-07-20 16:44:04+02:00
-- image_filename: IMGP5696-IMGP5704c.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-- image_filename: IMGP5580b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2013-07-20 10:16:49+02:00
-- image_filename: IMGP5634b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2013-07-20 11:19:15+02:00
-- image_filename: IMGP5802-IMGP5809c.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-- image_filename: IMGP5746b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-07-20 12:51:13+02:00
-- image_filename: IMGP5540b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-07-20 10:00:38+02:00
+  time: 2013-07-20 09:01:46.000000000+02:00
 - image_filename: IMGP5534b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-07-20 09:59:50+02:00
-- image_filename: IMGP6140b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2013-07-20 16:47:34+02:00
-- image_filename: IMGP5762b.jpg
+  time: 2013-07-20 09:59:50.000000000+02:00
+- image_filename: IMGP5537raw_b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2013-07-20 12:59:42+02:00
-- image_filename: IMGP6523raw_b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.0
-  iso: 800
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2013-07-20 20:38:58+02:00
-- image_filename: IMGP5948b.jpg
-  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
   iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
+  lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-07-20 16:42:18+02:00
+  time: 2013-07-20 10:00:12.000000000+02:00
+- image_filename: IMGP5540b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-20 10:00:38.000000000+02:00
+- image_filename: IMGP5580b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-20 10:16:49.000000000+02:00
+- image_filename: IMGP5587b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-20 10:20:28.000000000+02:00
+- image_filename: IMGP5634b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-20 11:19:15.000000000+02:00
 - image_filename: IMGP5640-IMGP5657b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+- image_filename: IMGP5696-IMGP5704c.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
 - image_filename: IMGP5713b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
@@ -193,71 +117,147 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2013-07-20 12:18:12+02:00
-- image_filename: IMGP5464b.jpg
+  time: 2013-07-20 12:18:12.000000000+02:00
+- image_filename: IMGP5738b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 6.3
-  iso: 100
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-07-20 08:54:53+02:00
-- image_filename: IMGP5537raw_b.jpg
+  time: 2013-07-20 12:48:14.000000000+02:00
+- image_filename: IMGP5746b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-20 12:51:13.000000000+02:00
+- image_filename: IMGP5762b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2013-07-20 10:00:12+02:00
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-20 12:59:42.000000000+02:00
+- image_filename: IMGP5802-IMGP5809c.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+- image_filename: IMGP5819-IMGP5827c.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
 - image_filename: IMGP5872b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2013-07-20 16:02:10+02:00
-- image_filename: IMGP5492b.jpg
+  time: 2013-07-20 16:02:10.000000000+02:00
+- image_filename: IMGP5882b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2013-07-20 09:01:28+02:00
-- image_filename: IMGP5819-IMGP5827c.jpg
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-20 16:06:14.000000000+02:00
+- image_filename: IMGP5948b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-07-20 16:42:18.000000000+02:00
+- image_filename: IMGP6048b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-07-20 16:44:04.000000000+02:00
+- image_filename: IMGP6140b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-07-20 16:47:34.000000000+02:00
 - image_filename: IMGP6427b.jpg
   post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-07-20 17:25:27+02:00
+  time: 2013-07-20 17:25:27.000000000+02:00
+- image_filename: IMGP6523raw_b.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 800
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-20 20:38:58.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2013-07-20-z-wielkiej-raczy-na-rycerzowa
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-07-20 10:00:12.000000000+02:00

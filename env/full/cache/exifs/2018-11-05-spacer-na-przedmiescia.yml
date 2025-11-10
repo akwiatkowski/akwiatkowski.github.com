@@ -1,22 +1,4 @@
 ---
-- image_filename: 2018_11_05__09_35__B053767.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.29618055555555
-  lon: 16.65123611111111
-  altitude: 336.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-11-05 09:35:21+01:00
-  focus_distance: 4.51
 - image_filename: 2018_11_05__09_33__B053760.jpg
   post_slug: 2018-11-05-spacer-na-przedmiescia
   lat: 50.296347222222224
@@ -26,15 +8,33 @@
   focal_length_35: 32.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5084
-  height: 3761
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2018-11-05 09:33:32+01:00
   focus_distance: 13.49
+  iso: 200
+  width: 5084
+  height: 3761
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:33:32.000000000+01:00
+- image_filename: 2018_11_05__09_35__B053767.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.29618055555555
+  lon: 16.65123611111111
+  altitude: 336.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.51
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:35:21.000000000+01:00
 - image_filename: 2018_11_05__09_35__B053771.jpg
   post_slug: 2018-11-05-spacer-na-przedmiescia
   lat: 50.29618055555555
@@ -44,231 +44,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2018-11-05 09:35:25+01:00
   focus_distance: 4.57
-- image_filename: 2018_11_05__09_36__B053779.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.296194444444446
-  lon: 16.651263888888888
-  altitude: 335.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
+  iso: 200
   width: 5240
   height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-11-05 09:36:00+01:00
-  focus_distance: 2.53
-- image_filename: 2018_11_05__09_38__B053785.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.29545833333333
-  lon: 16.650305555555555
-  altitude: 334.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3745
-  height: 5124
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-11-05 09:38:26+01:00
-  focus_distance: 2.88
-- image_filename: 2018_11_05__09_40__B053793.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.294916666666666
-  lon: 16.651027777777777
-  altitude: 333.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5189
-  height: 3848
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-11-05 09:40:18+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_11_05__09_43__B053799.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.29322222222222
-  lon: 16.650305555555555
-  altitude: 346.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5153
-  height: 3795
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-11-05 09:43:11+01:00
-  focus_distance: 114.57
-- image_filename: 2018_11_05__10_01__B053818.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.284930555555555
-  lon: 16.647902777777777
-  altitude: 344.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-11-05 10:01:08+01:00
-  focus_distance: 3.0
-- image_filename: 2018_11_05__10_03__B053824.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.285402777777776
-  lon: 16.647055555555553
-  altitude: 345.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5188
-  height: 3846
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-11-05 10:03:49+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_11_05__09_40__B053792.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.29494444444444
-  lon: 16.651027777777777
-  altitude: 333.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4867
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-11-05 09:40:08+01:00
-  focus_distance: 3.43
-- image_filename: 2018_11_05__09_43__B053800.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.29320833333333
-  lon: 16.650291666666664
-  altitude: 346.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5161
-  height: 3807
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-11-05 09:43:13+01:00
-  focus_distance: 93.62
-- image_filename: 2018_11_05__09_43__B053802.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.29320833333333
-  lon: 16.650291666666664
-  altitude: 346.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5081
-  height: 3504
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-11-05 09:43:19+01:00
-  focus_distance: 28.0
-- image_filename: 2018_11_05__09_41__B053796.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.29436111111111
-  lon: 16.65084722222222
-  altitude: 336.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5199
-  height: 3889
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-11-05 09:41:13+01:00
-  focus_distance: 35.23
-- image_filename: 2018_11_05__09_38__B053784.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.29545833333333
-  lon: 16.650305555555555
-  altitude: 335.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4968
-  height: 3751
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-11-05 09:38:21+01:00
-  focus_distance: 8.57
-- image_filename: 2018_11_05__09_51__B053810.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.28725
-  lon: 16.648263888888888
-  altitude: 350.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-11-05 09:51:44+01:00
-  focus_distance: 14.16
+  time: 2018-11-05 09:35:25.000000000+01:00
 - image_filename: 2018_11_05__09_35__B053778.jpg
   post_slug: 2018-11-05-spacer-na-przedmiescia
   lat: 50.29620833333333
@@ -278,15 +62,33 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-11-05 09:35:54+01:00
   focus_distance: 2.47
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:35:54.000000000+01:00
+- image_filename: 2018_11_05__09_36__B053779.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.296194444444446
+  lon: 16.651263888888888
+  altitude: 335.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.53
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:36:00.000000000+01:00
 - image_filename: 2018_11_05__09_36__B053780.jpg
   post_slug: 2018-11-05-spacer-na-przedmiescia
   lat: 50.296194444444446
@@ -296,12 +98,210 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5023
-  height: 3815
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2018-11-05 09:36:01+01:00
   focus_distance: 2.53
+  iso: 400
+  width: 5023
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:36:01.000000000+01:00
+- image_filename: 2018_11_05__09_38__B053784.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.29545833333333
+  lon: 16.650305555555555
+  altitude: 335.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.57
+  iso: 200
+  width: 4968
+  height: 3751
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:38:21.000000000+01:00
+- image_filename: 2018_11_05__09_38__B053785.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.29545833333333
+  lon: 16.650305555555555
+  altitude: 334.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.88
+  iso: 200
+  width: 3745
+  height: 5124
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:38:26.000000000+01:00
+- image_filename: 2018_11_05__09_40__B053792.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.29494444444444
+  lon: 16.651027777777777
+  altitude: 333.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.43
+  iso: 200
+  width: 4867
+  height: 3472
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:40:08.000000000+01:00
+- image_filename: 2018_11_05__09_40__B053793.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.294916666666666
+  lon: 16.651027777777777
+  altitude: 333.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5189
+  height: 3848
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:40:18.000000000+01:00
+- image_filename: 2018_11_05__09_41__B053796.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.29436111111111
+  lon: 16.65084722222222
+  altitude: 336.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 35.23
+  iso: 200
+  width: 5199
+  height: 3889
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:41:13.000000000+01:00
+- image_filename: 2018_11_05__09_43__B053799.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.29322222222222
+  lon: 16.650305555555555
+  altitude: 346.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 114.57
+  iso: 200
+  width: 5153
+  height: 3795
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:43:11.000000000+01:00
+- image_filename: 2018_11_05__09_43__B053800.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.29320833333333
+  lon: 16.650291666666664
+  altitude: 346.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 93.62
+  iso: 200
+  width: 5161
+  height: 3807
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:43:13.000000000+01:00
+- image_filename: 2018_11_05__09_43__B053802.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.29320833333333
+  lon: 16.650291666666664
+  altitude: 346.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 28.0
+  iso: 200
+  width: 5081
+  height: 3504
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:43:19.000000000+01:00
+- image_filename: 2018_11_05__09_51__B053810.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.28725
+  lon: 16.648263888888888
+  altitude: 350.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 14.16
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 09:51:44.000000000+01:00
+- image_filename: 2018_11_05__10_01__B053818.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.284930555555555
+  lon: 16.647902777777777
+  altitude: 344.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 10:01:08.000000000+01:00
+- image_filename: 2018_11_05__10_03__B053824.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.285402777777776
+  lon: 16.647055555555553
+  altitude: 345.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5188
+  height: 3846
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-11-05 10:03:49.000000000+01:00

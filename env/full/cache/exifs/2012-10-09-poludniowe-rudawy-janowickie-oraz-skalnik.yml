@@ -1,143 +1,19 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.77704111111111
-  lon: 15.906866944444445
-  altitude: 565.4
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2012-10-09 12:40:29+02:00
 - image_filename: IMGP2211c.jpg
   post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
   lat: 50.78312777777778
-  lon: 16.02712611111111
+  lon: 16.027124999999998
   altitude: 435.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.2
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2012-10-09 10:02:35+02:00
-- image_filename: IMGP2218c.jpg
-  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.77536388888889
-  lon: 15.970466666666667
-  altitude: 488.5
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2012-10-09 11:22:50+02:00
-- image_filename: IMGP2230b.jpg
-  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.77534694444444
-  lon: 15.904738333333334
-  altitude: 562.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2012-10-09 12:24:37+02:00
-- image_filename: IMGP2286b.jpg
-  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.77603138888889
-  lon: 15.906601111111112
-  altitude: 560.1
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2012-10-09 12:37:28+02:00
-- image_filename: IMGP2314b.jpg
-  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.782963333333335
-  lon: 15.905665
-  altitude: 577.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2012-10-09 12:56:02+02:00
-- image_filename: IMGP2364b.jpg
-  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.79584194444444
-  lon: 15.905788888888889
-  altitude: 729.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2012-10-09 13:45:53+02:00
-- image_filename: IMGP2606c.jpg
-  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.80737305555555
-  lon: 15.894145
-  altitude: 940.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2012-10-09 15:47:32+02:00
-- image_filename: IMGP2646b.jpg
-  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.78170583333333
-  lon: 15.906773055555556
-  altitude: 566.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 4.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2012-10-09 17:04:36+02:00
-- image_filename: IMGP2508-IMGP2520b.jpg
-  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+  time: 2012-10-09 10:02:35.000000000+02:00
 - image_filename: IMGP2218b.JPG
   post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
   lat: 50.77536388888889
@@ -147,43 +23,167 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 4232
-  height: 2803
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2012-10-09 11:22:50+02:00
-- image_filename: IMGP2421b.JPG
+  iso: 800
+  width: 4232
+  height: 2803
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-10-09 11:22:50.000000000+02:00
+- image_filename: IMGP2218c.jpg
   post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.80122833333333
-  lon: 15.91018388888889
-  altitude: 723.0
+  lat: 50.77536388888889
+  lon: 15.970466666666667
+  altitude: 488.5
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 4.0
-  iso: 200
+  aperture: 10.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  width: 3962
-  height: 2624
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2012-10-09 14:08:32+02:00
+  time: 2012-10-09 11:22:50.000000000+02:00
+- image_filename: IMGP2230b.jpg
+  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+  lat: 50.77534722222222
+  lon: 15.90473888888889
+  altitude: 562.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-10-09 12:24:37.000000000+02:00
 - image_filename: IMGP2274b.jpg
   post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
-  lat: 50.775040555555556
-  lon: 15.904825277777778
+  lat: 50.77504166666667
+  lon: 15.904825
   altitude: 560.1
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2012-10-09 12:29:59+02:00
+  time: 2012-10-09 12:29:59.000000000+02:00
+- image_filename: IMGP2286b.jpg
+  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+  lat: 50.77603055555556
+  lon: 15.906600000000001
+  altitude: 560.1
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-10-09 12:37:28.000000000+02:00
+- image_filename: IMGP2314b.jpg
+  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+  lat: 50.78296388888889
+  lon: 15.905663888888888
+  altitude: 577.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-10-09 12:56:02.000000000+02:00
+- image_filename: IMGP2364b.jpg
+  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+  lat: 50.79584166666667
+  lon: 15.905788888888889
+  altitude: 729.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-10-09 13:45:53.000000000+02:00
+- image_filename: IMGP2421b.JPG
+  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+  lat: 50.801227777777775
+  lon: 15.910183333333334
+  altitude: 723.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  width: 3962
+  height: 2624
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-10-09 14:08:32.000000000+02:00
+- image_filename: IMGP2508-IMGP2520b.jpg
+  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+- image_filename: IMGP2606c.jpg
+  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+  lat: 50.80737222222222
+  lon: 15.894144444444445
+  altitude: 940.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-10-09 15:47:32.000000000+02:00
+- image_filename: IMGP2646b.jpg
+  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+  lat: 50.781705555555554
+  lon: 15.906772222222223
+  altitude: 566.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-10-09 17:04:36.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik
+  lat: 50.77704166666667
+  lon: 15.906866666666668
+  altitude: 565.4
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 2048
+  height: 1356
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-10-09 12:40:29.000000000+02:00

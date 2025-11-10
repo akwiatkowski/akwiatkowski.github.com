@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.475
-  lon: 18.225819444444443
-  altitude: 226.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 13:04:28+02:00
 - image_filename: IMGP7068raw1.jpg
   post_slug: 2017-06-09-podmiejskie-kaszuby
   lat: 54.58415277777778
@@ -22,11 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-06-09 11:29:13+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 11:29:13.000000000+02:00
 - image_filename: IMGP7075raw1.jpg
   post_slug: 2017-06-09-podmiejskie-kaszuby
   lat: 54.55545833333333
@@ -36,207 +22,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-06-09 11:53:35+02:00
-- image_filename: IMGP7084raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.49270833333333
-  lon: 18.208944444444445
-  altitude: 161.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
+  iso: 250
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 12:47:46+02:00
-- image_filename: IMGP7112raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.40875
-  lon: 18.233249999999998
-  altitude: 210.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 13:55:39+02:00
-- image_filename: IMGP7123raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.38736111111111
-  lon: 18.220930555555555
-  altitude: 230.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 14:10:33+02:00
-- image_filename: IMGP7134raw2.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.371291666666664
-  lon: 18.214791666666667
-  altitude: 205.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 14:20:05+02:00
-- image_filename: IMGP7142raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.33123611111112
-  lon: 18.366375
-  altitude: 127.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-06-09 17:12:58+02:00
-- image_filename: IMGP7111raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.40893055555556
-  lon: 18.233083333333333
-  altitude: 210.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 13:55:34+02:00
-- image_filename: IMGP7129raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.381972222222224
-  lon: 18.219458333333332
-  altitude: 214.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 14:15:45+02:00
-- image_filename: IMGP7130raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.37861111111111
-  lon: 18.216625
-  altitude: 212.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-06-09 14:16:49+02:00
-- image_filename: IMGP7145raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.320930555555556
-  lon: 18.393
-  altitude: 141.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-06-09 17:26:53+02:00
-- image_filename: IMGP7107raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.41086111111111
-  lon: 18.232944444444442
-  altitude: 208.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-06-09 13:52:24+02:00
-- image_filename: IMGP7117raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.404875
-  lon: 18.230708333333332
-  altitude: 211.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-06-09 13:58:13+02:00
-- image_filename: IMGP7109raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.409625
-  lon: 18.23273611111111
-  altitude: 210.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 13:53:56+02:00
-- image_filename: IMGP7114raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.40548611111111
-  lon: 18.231680555555553
-  altitude: 214.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 13:57:58+02:00
-- image_filename: IMGP7085raw1.jpg
-  post_slug: 2017-06-09-podmiejskie-kaszuby
-  lat: 54.49270833333333
-  lon: 18.208944444444445
-  altitude: 161.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-06-09 12:47:54+02:00
+  time: 2017-06-09 11:53:35.000000000+02:00
 - image_filename: IMGP7078raw1.jpg
   post_slug: 2017-06-09-podmiejskie-kaszuby
   lat: 54.55529166666666
@@ -246,11 +36,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-06-09 11:54:43+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-09 11:54:43.000000000+02:00
 - image_filename: IMGP7082raw1.jpg
   post_slug: 2017-06-09-podmiejskie-kaszuby
   lat: 54.51175
@@ -260,8 +50,218 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-06-09 12:31:37+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 12:31:37.000000000+02:00
+- image_filename: IMGP7084raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.49270833333333
+  lon: 18.208944444444445
+  altitude: 161.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 12:47:46.000000000+02:00
+- image_filename: IMGP7085raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.49270833333333
+  lon: 18.208944444444445
+  altitude: 161.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 12:47:54.000000000+02:00
+- image_filename: IMGP7107raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.41086111111111
+  lon: 18.232944444444442
+  altitude: 208.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 13:52:24.000000000+02:00
+- image_filename: IMGP7109raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.409625
+  lon: 18.23273611111111
+  altitude: 210.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 13:53:56.000000000+02:00
+- image_filename: IMGP7111raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.40893055555556
+  lon: 18.233083333333333
+  altitude: 210.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 13:55:34.000000000+02:00
+- image_filename: IMGP7112raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.40875
+  lon: 18.233249999999998
+  altitude: 210.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 13:55:39.000000000+02:00
+- image_filename: IMGP7114raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.40548611111111
+  lon: 18.231680555555553
+  altitude: 214.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 13:57:58.000000000+02:00
+- image_filename: IMGP7117raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.404875
+  lon: 18.230708333333332
+  altitude: 211.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 13:58:13.000000000+02:00
+- image_filename: IMGP7123raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.38736111111111
+  lon: 18.220930555555555
+  altitude: 230.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-09 14:10:33.000000000+02:00
+- image_filename: IMGP7129raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.381972222222224
+  lon: 18.219458333333332
+  altitude: 214.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-06-09 14:15:45.000000000+02:00
+- image_filename: IMGP7130raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.37861111111111
+  lon: 18.216625
+  altitude: 212.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 14:16:49.000000000+02:00
+- image_filename: IMGP7134raw2.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.371291666666664
+  lon: 18.214791666666667
+  altitude: 205.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 14:20:05.000000000+02:00
+- image_filename: IMGP7142raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.33123611111112
+  lon: 18.366375
+  altitude: 127.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 17:12:58.000000000+02:00
+- image_filename: IMGP7145raw1.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.320930555555556
+  lon: 18.393
+  altitude: 141.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 17:26:53.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-06-09-podmiejskie-kaszuby
+  lat: 54.475
+  lon: 18.225819444444443
+  altitude: 226.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-06-09 13:04:28.000000000+02:00

@@ -1,10 +1,8 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
 - image_filename: 2023_08_04__18_27_P8040001.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.7175
-  lon: 16.285833333333336
+  lat: 52.717486111111114
+  lon: 16.285944444444446
   altitude: 40.0
   focal_length: 80.0
   aperture: 4.0
@@ -17,234 +15,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2023-08-04 18:27:22.000000000+02:00
-- image_filename: 2023_08_04__20_04_DJI_0822.jpg
+- image_filename: 2023_08_04__18_27_P8040002.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 150.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 140
-  width: 8049
-  height: 6029
-  camera: FC3582
-  time: 2023-08-04 20:04:25.000000000+02:00
-- image_filename: 2023_08_04__20_02_DJI_0817.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 98.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 120
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:02:55.000000000+02:00
-- image_filename: 2023_08_04__19_20_DJI_0730.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 172.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 120
-  width: 8060
-  height: 6044
-  camera: FC3582
-  time: 2023-08-04 19:20:12.000000000+02:00
-- image_filename: 2023_08_05__04_56_P8050011.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.717222222222226
-  lon: 16.28611111111111
-  altitude: 46.0
-  focal_length: 86.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 49.05
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 04:56:22.000000000+02:00
-- image_filename: 2023_08_05__05_16_P8050032.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.718611111111116
-  lon: 16.28527777777778
+  lat: 52.717486111111114
+  lon: 16.285944444444446
   altitude: 40.0
-  focal_length: 31.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 21.03
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:16:07.000000000+02:00
-- image_filename: 2023_08_04__20_03_DJI_0818.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 98.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0006666666666666666
-  exposure_string: 1/1500 s
-  iso: 100
-  width: 8023
-  height: 5993
-  camera: FC3582
-  time: 2023-08-04 20:03:04.000000000+02:00
-- image_filename: 2023_08_04__19_12_DJI_0710.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 135.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.004166666666666667
-  exposure_string: 1/240 s
-  iso: 100
-  width: 7432
-  height: 5429
-  camera: FC3582
-  time: 2023-08-04 19:12:51.000000000+02:00
-- image_filename: 2023_08_05__06_11_DJI_0926.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 150.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 110
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 06:11:18.000000000+02:00
-- image_filename: 2023_08_05__05_32_P8050060.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71555555555556
-  lon: 16.291666666666668
-  altitude: 47.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 7.84
-  iso: 400
-  width: 4583
-  height: 3540
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:32:57.000000000+02:00
-- image_filename: 2023_08_05__09_12_P8050265.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.286944444444448
-  altitude: 43.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.56
-  iso: 2500
-  width: 4895
-  height: 3601
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:12:12.000000000+02:00
-- image_filename: 2023_08_05__06_03_DJI_0905.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 95.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 06:03:32.000000000+02:00
-- image_filename: 2023_08_05__05_22_P8050042.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71555555555556
-  lon: 16.28777777777778
-  altitude: 48.0
-  focal_length: 25.0
+  focal_length: 12.0
   aperture: 5.6
   exposure: 0.008
   exposure_string: 1/125 s
-  focus_distance: 4.75
+  focus_distance: 4.03
   iso: 200
-  width: 7821
-  height: 6086
+  width: 8168
+  height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 05:22:42.000000000+02:00
-- image_filename: 2023_08_04__19_44_DJI_0782.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 149.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 8060
-  height: 6044
-  camera: FC3582
-  time: 2023-08-04 19:44:43.000000000+02:00
-- image_filename: 2023_08_04__19_41_DJI_0773.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 146.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 19:41:25.000000000+02:00
+  time: 2023-08-04 18:27:42.000000000+02:00
 - image_filename: 2023_08_04__19_09_DJI_0698.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
+  lat: 52.717533333333336
+  lon: 16.285869444444447
   altitude: 89.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -257,218 +47,10 @@
   height: 5970
   camera: FC3582
   time: 2023-08-04 19:09:54.000000000+02:00
-- image_filename: 2023_08_05__10_37_P8050405.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71361111111111
-  lon: 16.28805555555556
-  altitude: 48.0
-  focal_length: 60.0
-  aperture: 3.5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 0.25
-  iso: 200
-  width: 5076
-  height: 3695
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: OM-1
-  time: 2023-08-05 10:37:34.000000000+02:00
-- image_filename: 2023_08_04__20_06_DJI_0828.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 168.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:06:07.000000000+02:00
-- image_filename: 2023_08_05__11_07_P8050419.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.7075
-  lon: 16.278333333333332
-  altitude: 47.0
-  focal_length: 12.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 2.92
-  iso: 200
-  width: 8153
-  height: 6113
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 11:07:28.000000000+02:00
-- image_filename: 2023_08_04__19_17_DJI_0724.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 134.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001379310344827586
-  exposure_string: 1/725 s
-  iso: 100
-  width: 8057
-  height: 6040
-  camera: FC3582
-  time: 2023-08-04 19:17:52.000000000+02:00
-- image_filename: 2023_08_05__11_55_DJI_0964.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 153.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0006666666666666666
-  exposure_string: 1/1500 s
-  iso: 160
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 11:55:25.000000000+02:00
-- image_filename: 2023_08_04__19_43_DJI_0779.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 148.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 100
-  width: 8057
-  height: 6038
-  camera: FC3582
-  time: 2023-08-04 19:43:35.000000000+02:00
-- image_filename: 2023_08_05__05_21_P8050041.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71611111111111
-  lon: 16.287222222222223
-  altitude: 48.0
-  focal_length: 12.0
-  aperture: 4.0
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 2.37
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:21:51.000000000+02:00
-- image_filename: 2023_08_05__09_18_P8050328.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71611111111111
-  lon: 16.285
-  altitude: 45.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.55
-  iso: 250
-  width: 4467
-  height: 3352
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:18:27.000000000+02:00
-- image_filename: 2023_08_05__05_29_P8050054.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.717222222222226
-  lon: 16.291944444444447
-  altitude: 48.0
-  focal_length: 12.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 3.61
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:29:24.000000000+02:00
-- image_filename: 2023_08_05__11_53_DJI_0959.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 153.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0006666666666666666
-  exposure_string: 1/1500 s
-  iso: 120
-  width: 7978
-  height: 5256
-  camera: FC3582
-  time: 2023-08-05 11:53:53.000000000+02:00
-- image_filename: 2023_08_05__09_20_P8050330.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71611111111111
-  lon: 16.284722222222225
-  altitude: 46.0
-  focal_length: 47.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 25.92
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:20:53.000000000+02:00
-- image_filename: 2023_08_05__09_04_P8050130.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.287222222222223
-  altitude: 41.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 26.3
-  iso: 200
-  width: 6048
-  height: 8106
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:04:17.000000000+02:00
-- image_filename: 2023_08_05__05_11_P8050015.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.718333333333334
-  lon: 16.284722222222225
-  altitude: 41.0
-  focal_length: 31.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 22.02
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:11:02.000000000+02:00
 - image_filename: 2023_08_04__19_10_DJI_0699.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
+  lat: 52.717536111111116
+  lon: 16.285872222222224
   altitude: 89.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -481,586 +63,26 @@
   height: 5958
   camera: FC3582
   time: 2023-08-04 19:10:16.000000000+02:00
-- image_filename: 2023_08_05__06_08_DJI_0919.jpg
+- image_filename: 2023_08_04__19_10_DJI_0702.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 147.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 06:08:33.000000000+02:00
-- image_filename: 2023_08_05__05_15_P8050031.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.718611111111116
-  lon: 16.28527777777778
-  altitude: 40.0
-  focal_length: 86.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 50.1
-  iso: 200
-  width: 8156
-  height: 5827
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:15:57.000000000+02:00
-- image_filename: 2023_08_05__09_09_P8050140.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.286944444444448
-  altitude: 42.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 6.26
-  iso: 800
-  width: 5208
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:09:22.000000000+02:00
-- image_filename: 2023_08_05__05_26_P8050050.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71555555555556
-  lon: 16.291666666666668
-  altitude: 49.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 54.79
-  iso: 200
-  width: 8027
-  height: 5939
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:26:27.000000000+02:00
-- image_filename: 2023_08_05__08_02_P8050079.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.28777777777778
-  altitude: 41.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.69
-  iso: 400
-  width: 5104
-  height: 3704
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 08:02:44.000000000+02:00
-- image_filename: 2023_08_04__19_48_DJI_0795.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 172.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002857142857142857
-  exposure_string: 1/350 s
-  iso: 200
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 19:48:09.000000000+02:00
-- image_filename: 2023_08_04__20_40_DJI_0883.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 157.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 110
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:40:28.000000000+02:00
-- image_filename: 2023_08_05__05_33_P8050061.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71555555555556
-  lon: 16.291666666666668
-  altitude: 47.0
-  focal_length: 15.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7725
-  height: 5664
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:33:10.000000000+02:00
-- image_filename: 2023_08_05__06_02_DJI_0901.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 79.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 06:02:07.000000000+02:00
-- image_filename: 2023_08_05__08_36_P8050104.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71888888888889
-  lon: 16.284166666666668
-  altitude: 34.0
-  focal_length: 80.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.54
-  iso: 500
-  width: 5208
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 08:36:43.000000000+02:00
-- image_filename: 2023_08_04__19_23_DJI_0740.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 170.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-08-04 19:23:21.000000000+02:00
-- image_filename: 2023_08_05__09_10_P8050158.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.287222222222223
-  altitude: 41.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.9
-  iso: 640
-  width: 5208
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:10:06.000000000+02:00
-- image_filename: 2023_08_04__20_33_DJI_0860.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 159.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.008333333333333333
-  exposure_string: 1/120 s
-  iso: 110
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:33:51.000000000+02:00
-- image_filename: 2023_08_05__09_01_P8050127.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.28666666666667
-  altitude: 40.0
-  focal_length: 54.0
-  aperture: 4.5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 11.53
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:01:20.000000000+02:00
-- image_filename: 2023_08_05__11_39_P8050440.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71361111111111
-  lon: 16.289444444444445
-  altitude: 44.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 5.76
-  iso: 200
-  width: 7147
-  height: 5040
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 11:39:34.000000000+02:00
-- image_filename: 2023_08_05__10_31_DJI_0932.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 135.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 10:31:39.000000000+02:00
-- image_filename: 2023_08_04__20_04_DJI_0823.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 167.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:04:37.000000000+02:00
-- image_filename: 2023_08_05__05_27_P8050051.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71638888888889
-  lon: 16.29138888888889
-  altitude: 49.0
-  focal_length: 50.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1.4
-  iso: 640
-  width: 5208
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:27:45.000000000+02:00
-- image_filename: 2023_08_05__05_22_P8050043.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71555555555556
-  lon: 16.28777777777778
-  altitude: 48.0
-  focal_length: 38.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 32.83
-  iso: 200
-  width: 8075
-  height: 6017
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:22:53.000000000+02:00
-- image_filename: 2023_08_05__10_33_DJI_0939.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 134.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 10:33:42.000000000+02:00
-- image_filename: 2023_08_05__10_32_DJI_0934.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 135.2
+  lat: 52.71778888888889
+  lon: 16.286716666666667
+  altitude: 89.2
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
   exposure: 0.00125
   exposure_string: 1/800 s
-  iso: 130
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 10:32:21.000000000+02:00
-- image_filename: 2023_08_05__08_03_P8050081.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.2875
-  altitude: 41.0
-  focal_length: 61.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 13.6
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 08:03:27.000000000+02:00
-- image_filename: 2023_08_04__19_28_DJI_0759.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 167.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00625
-  exposure_string: 1/160 s
   iso: 110
-  width: 8056
-  height: 6037
+  width: 8013
+  height: 5980
   camera: FC3582
-  time: 2023-08-04 19:28:54.000000000+02:00
-- image_filename: 2023_08_05__10_33_DJI_0940.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 134.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 10:33:52.000000000+02:00
-- image_filename: 2023_08_04__19_24_DJI_0744.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 170.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 8034
-  height: 6014
-  camera: FC3582
-  time: 2023-08-04 19:24:33.000000000+02:00
-- image_filename: 2023_08_05__10_43_P8050415.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.712500000000006
-  lon: 16.28611111111111
-  altitude: 47.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.67
-  iso: 1250
-  width: 4510
-  height: 3531
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 10:43:22.000000000+02:00
-- image_filename: 2023_08_05__09_12_P8050284.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.286944444444448
-  altitude: 44.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 3.03
-  iso: 4000
-  width: 4868
-  height: 3692
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:12:38.000000000+02:00
-- image_filename: 2023_08_04__20_36_DJI_0867.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 157.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 100
-  width: 8056
-  height: 5905
-  camera: FC3582
-  time: 2023-08-04 20:36:12.000000000+02:00
-- image_filename: 2023_08_04__20_24_DJI_0841.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 170.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 110
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:24:49.000000000+02:00
-- image_filename: 2023_08_05__09_46_P8050336.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71611111111111
-  lon: 16.284166666666668
-  altitude: 43.0
-  focal_length: 75.0
-  aperture: 4.0
-  exposure: 0.02
-  exposure_string: 1/50 s
-  focus_distance: 23.67
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:46:03.000000000+02:00
-- image_filename: 2023_08_05__05_19_P8050035.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.7175
-  lon: 16.28611111111111
-  altitude: 44.0
-  focal_length: 57.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 8.51
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:19:30.000000000+02:00
-- image_filename: 2023_08_05__05_20_P8050037.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.716944444444444
-  lon: 16.28638888888889
-  altitude: 46.0
-  focal_length: 35.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 22.72
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:20:15.000000000+02:00
-- image_filename: 2023_08_05__08_04_P8050083.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.287222222222223
-  altitude: 41.0
-  focal_length: 17.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7915
-  height: 5969
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 08:04:19.000000000+02:00
-- image_filename: 2023_08_04__19_41_DJI_0775.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 145.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 120
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 19:41:44.000000000+02:00
-- image_filename: 2023_08_04__20_34_DJI_0864.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 158.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 110
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:34:39.000000000+02:00
-- image_filename: 2023_08_05__06_07_DJI_0915.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 148.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.008333333333333333
-  exposure_string: 1/120 s
-  iso: 110
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 06:07:49.000000000+02:00
+  time: 2023-08-04 19:10:58.000000000+02:00
 - image_filename: 2023_08_04__19_12_DJI_0708.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
+  lat: 52.717530555555555
+  lon: 16.285947222222223
   altitude: 135.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -1073,74 +95,58 @@
   height: 5983
   camera: FC3582
   time: 2023-08-04 19:12:29.000000000+02:00
-- image_filename: 2023_08_05__11_45_P8050441.jpg
+- image_filename: 2023_08_04__19_12_DJI_0710.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71472222222223
-  lon: 16.291944444444447
-  altitude: 43.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 85.78
-  iso: 200
-  width: 8098
-  height: 6039
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 11:45:03.000000000+02:00
-- image_filename: 2023_08_05__09_10_P8050153.jpg
+  lat: 52.717530555555555
+  lon: 16.285947222222223
+  altitude: 135.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 100
+  width: 7432
+  height: 5429
+  camera: FC3582
+  time: 2023-08-04 19:12:51.000000000+02:00
+- image_filename: 2023_08_04__19_17_DJI_0724.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.287222222222223
-  altitude: 41.0
-  focal_length: 92.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.81
-  iso: 800
-  width: 5208
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:10:02.000000000+02:00
-- image_filename: 2023_08_05__05_15_P8050028.jpg
+  lat: 52.71828055555556
+  lon: 16.28046111111111
+  altitude: 134.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 8057
+  height: 6040
+  camera: FC3582
+  time: 2023-08-04 19:17:52.000000000+02:00
+- image_filename: 2023_08_04__19_20_DJI_0730.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.718611111111116
-  lon: 16.285555555555558
-  altitude: 40.0
-  focal_length: 66.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 18.25
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:15:19.000000000+02:00
-- image_filename: 2023_08_05__09_09_P8050145.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.287222222222223
-  altitude: 42.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.04
-  iso: 800
-  width: 5208
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:09:47.000000000+02:00
+  lat: 52.718155555555555
+  lon: 16.28263611111111
+  altitude: 172.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 120
+  width: 8060
+  height: 6044
+  camera: FC3582
+  time: 2023-08-04 19:20:12.000000000+02:00
 - image_filename: 2023_08_04__19_20_DJI_0731.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
+  lat: 52.71815277777778
+  lon: 16.28263611111111
   altitude: 172.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -1153,10 +159,586 @@
   height: 6026
   camera: FC3582
   time: 2023-08-04 19:20:24.000000000+02:00
+- image_filename: 2023_08_04__19_21_DJI_0735.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.717486111111114
+  lon: 16.28603888888889
+  altitude: 171.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 120
+  width: 8041
+  height: 6019
+  camera: FC3582
+  time: 2023-08-04 19:21:56.000000000+02:00
+- image_filename: 2023_08_04__19_23_DJI_0740.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71785555555556
+  lon: 16.28813888888889
+  altitude: 170.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-08-04 19:23:21.000000000+02:00
+- image_filename: 2023_08_04__19_24_DJI_0744.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71796388888889
+  lon: 16.289916666666667
+  altitude: 170.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8034
+  height: 6014
+  camera: FC3582
+  time: 2023-08-04 19:24:33.000000000+02:00
+- image_filename: 2023_08_04__19_25_DJI_0748.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71801111111111
+  lon: 16.291319444444447
+  altitude: 169.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 120
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 19:25:25.000000000+02:00
+- image_filename: 2023_08_04__19_27_DJI_0754.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.7177
+  lon: 16.28803888888889
+  altitude: 169.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6037
+  height: 8056
+  camera: FC3582
+  time: 2023-08-04 19:27:13.000000000+02:00
+- image_filename: 2023_08_04__19_27_DJI_0755.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71770277777778
+  lon: 16.28803888888889
+  altitude: 169.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6037
+  height: 8056
+  camera: FC3582
+  time: 2023-08-04 19:27:22.000000000+02:00
+- image_filename: 2023_08_04__19_28_DJI_0759.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71641666666667
+  lon: 16.285419444444447
+  altitude: 167.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 19:28:54.000000000+02:00
+- image_filename: 2023_08_04__19_41_DJI_0773.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715338888888894
+  lon: 16.285630555555556
+  altitude: 146.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 19:41:25.000000000+02:00
+- image_filename: 2023_08_04__19_41_DJI_0775.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71534166666667
+  lon: 16.285644444444447
+  altitude: 145.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 120
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 19:41:44.000000000+02:00
+- image_filename: 2023_08_04__19_43_DJI_0779.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.716438888888895
+  lon: 16.281394444444445
+  altitude: 148.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 8057
+  height: 6038
+  camera: FC3582
+  time: 2023-08-04 19:43:35.000000000+02:00
+- image_filename: 2023_08_04__19_44_DJI_0782.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715411111111116
+  lon: 16.28280833333333
+  altitude: 149.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 8060
+  height: 6044
+  camera: FC3582
+  time: 2023-08-04 19:44:43.000000000+02:00
+- image_filename: 2023_08_04__19_46_DJI_0787.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71488055555556
+  lon: 16.284236111111113
+  altitude: 172.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 19:46:20.000000000+02:00
+- image_filename: 2023_08_04__19_46_DJI_0789.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71487777777778
+  lon: 16.284236111111113
+  altitude: 172.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 19:46:39.000000000+02:00
+- image_filename: 2023_08_04__19_47_DJI_0794.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715113888888894
+  lon: 16.282108333333333
+  altitude: 172.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 19:47:59.000000000+02:00
+- image_filename: 2023_08_04__19_48_DJI_0795.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715113888888894
+  lon: 16.282105555555553
+  altitude: 172.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 200
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 19:48:09.000000000+02:00
+- image_filename: 2023_08_04__20_02_DJI_0817.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715294444444446
+  lon: 16.29261388888889
+  altitude: 98.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 120
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:02:55.000000000+02:00
+- image_filename: 2023_08_04__20_03_DJI_0818.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715294444444446
+  lon: 16.29261388888889
+  altitude: 98.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 8023
+  height: 5993
+  camera: FC3582
+  time: 2023-08-04 20:03:04.000000000+02:00
+- image_filename: 2023_08_04__20_04_DJI_0822.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71550833333334
+  lon: 16.29258888888889
+  altitude: 150.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 140
+  width: 8049
+  height: 6029
+  camera: FC3582
+  time: 2023-08-04 20:04:25.000000000+02:00
+- image_filename: 2023_08_04__20_04_DJI_0823.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71550555555556
+  lon: 16.292586111111113
+  altitude: 167.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:04:37.000000000+02:00
+- image_filename: 2023_08_04__20_06_DJI_0828.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71394166666667
+  lon: 16.292833333333334
+  altitude: 168.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:06:07.000000000+02:00
+- image_filename: 2023_08_04__20_06_DJI_0831.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71396666666667
+  lon: 16.292450000000002
+  altitude: 167.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 140
+  width: 5958
+  height: 7998
+  camera: FC3582
+  time: 2023-08-04 20:06:54.000000000+02:00
+- image_filename: 2023_08_04__20_23_DJI_0835.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71446111111111
+  lon: 16.293369444444448
+  altitude: 173.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.005555555555555556
+  exposure_string: 1/180 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:23:11.000000000+02:00
+- image_filename: 2023_08_04__20_23_DJI_0836.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71446388888889
+  lon: 16.293369444444448
+  altitude: 173.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:23:25.000000000+02:00
+- image_filename: 2023_08_04__20_24_DJI_0841.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71408055555556
+  lon: 16.292650000000002
+  altitude: 170.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:24:49.000000000+02:00
+- image_filename: 2023_08_04__20_26_DJI_0845.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71385
+  lon: 16.29223888888889
+  altitude: 170.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:26:52.000000000+02:00
+- image_filename: 2023_08_04__20_33_DJI_0860.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.711650000000006
+  lon: 16.286255555555556
+  altitude: 159.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008333333333333333
+  exposure_string: 1/120 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:33:51.000000000+02:00
+- image_filename: 2023_08_04__20_34_DJI_0864.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71100277777778
+  lon: 16.287058333333334
+  altitude: 158.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:34:39.000000000+02:00
+- image_filename: 2023_08_04__20_36_DJI_0867.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.714488888888894
+  lon: 16.28590277777778
+  altitude: 157.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 8056
+  height: 5905
+  camera: FC3582
+  time: 2023-08-04 20:36:12.000000000+02:00
+- image_filename: 2023_08_04__20_40_DJI_0883.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71393888888889
+  lon: 16.287836111111112
+  altitude: 157.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:40:28.000000000+02:00
+- image_filename: 2023_08_04__20_45_DJI_0899.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71564444444445
+  lon: 16.285383333333336
+  altitude: 90.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-04 20:45:37.000000000+02:00
+- image_filename: 2023_08_05__04_55_P8050008.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.717222222222226
+  lon: 16.286208333333335
+  altitude: 46.0
+  focal_length: 70.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 20.53
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 04:55:46.000000000+02:00
+- image_filename: 2023_08_05__04_56_P8050011.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71725
+  lon: 16.286208333333335
+  altitude: 46.0
+  focal_length: 86.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 49.05
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 04:56:22.000000000+02:00
+- image_filename: 2023_08_05__05_09_P8050012.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.717736111111115
+  lon: 16.285611111111113
+  altitude: 42.0
+  focal_length: 100.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7940
+  height: 5823
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:09:45.000000000+02:00
+- image_filename: 2023_08_05__05_10_P8050014.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.717847222222225
+  lon: 16.285458333333334
+  altitude: 42.0
+  focal_length: 16.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8027
+  height: 5939
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:10:15.000000000+02:00
+- image_filename: 2023_08_05__05_11_P8050015.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.718361111111115
+  lon: 16.284819444444445
+  altitude: 41.0
+  focal_length: 31.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 22.02
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:11:02.000000000+02:00
+- image_filename: 2023_08_05__05_11_P8050017.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.718444444444444
+  lon: 16.28476388888889
+  altitude: 41.0
+  focal_length: 17.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:11:26.000000000+02:00
 - image_filename: 2023_08_05__05_12_P8050019.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71888888888889
-  lon: 16.285
+  lat: 52.718805555555555
+  lon: 16.284986111111113
   altitude: 40.0
   focal_length: 80.0
   aperture: 5.6
@@ -1169,38 +751,22 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2023-08-05 05:12:56.000000000+02:00
-- image_filename: 2023_08_05__05_14_P8050026.jpg
+- image_filename: 2023_08_05__05_14_P8050022.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.718611111111116
-  lon: 16.285555555555558
+  lat: 52.718625
+  lon: 16.28551388888889
   altitude: 40.0
   focal_length: 100.0
   aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 156.04
-  iso: 200
-  width: 8168
-  height: 6132
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 74.14
+  iso: 640
+  width: 5208
+  height: 3912
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 05:14:55.000000000+02:00
-- image_filename: 2023_08_05__06_09_DJI_0922.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 150.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 120
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 06:09:44.000000000+02:00
+  time: 2023-08-05 05:14:05.000000000+02:00
 - image_filename: 2023_08_05__05_14_P8050025.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
   lat: 52.718611111111116
@@ -1217,250 +783,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2023-08-05 05:14:44.000000000+02:00
-- image_filename: 2023_08_05__05_20_P8050038.jpg
+- image_filename: 2023_08_05__05_14_P8050026.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.716944444444444
-  lon: 16.28638888888889
-  altitude: 46.0
+  lat: 52.718625
+  lon: 16.285541666666667
+  altitude: 40.0
   focal_length: 100.0
   aperture: 4.0
-  exposure: 0.04
-  exposure_string: 1/25 s
-  focus_distance: 59.58
-  iso: 200
-  width: 7855
-  height: 5764
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:20:27.000000000+02:00
-- image_filename: 2023_08_04__20_06_DJI_0831.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 167.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002857142857142857
-  exposure_string: 1/350 s
-  iso: 140
-  width: 5958
-  height: 7998
-  camera: FC3582
-  time: 2023-08-04 20:06:54.000000000+02:00
-- image_filename: 2023_08_05__10_34_DJI_0941.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 134.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 120
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 10:34:06.000000000+02:00
-- image_filename: 2023_08_04__19_25_DJI_0748.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 169.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 120
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 19:25:25.000000000+02:00
-- image_filename: 2023_08_05__09_03_P8050129.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.287222222222223
-  altitude: 41.0
-  focal_length: 28.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 9.14
-  iso: 200
-  width: 7975
-  height: 5994
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:03:44.000000000+02:00
-- image_filename: 2023_08_05__04_55_P8050008.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.717222222222226
-  lon: 16.28611111111111
-  altitude: 46.0
-  focal_length: 70.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 20.53
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 04:55:46.000000000+02:00
-- image_filename: 2023_08_05__11_31_P8050435.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71083333333333
-  lon: 16.28611111111111
-  altitude: 48.0
-  focal_length: 60.0
-  aperture: 5.0
   exposure: 0.00625
   exposure_string: 1/160 s
-  focus_distance: 0.42
-  iso: 200
-  width: 4859
-  height: 3580
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: OM-1
-  time: 2023-08-05 11:31:42.000000000+02:00
-- image_filename: 2023_08_04__20_23_DJI_0835.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 173.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.005555555555555556
-  exposure_string: 1/180 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:23:11.000000000+02:00
-- image_filename: 2023_08_05__09_00_P8050126.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.716944444444444
-  lon: 16.28638888888889
-  altitude: 40.0
-  focal_length: 57.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 8.78
+  focus_distance: 156.04
   iso: 200
   width: 8168
   height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 09:00:50.000000000+02:00
-- image_filename: 2023_08_04__20_23_DJI_0836.jpg
+  time: 2023-08-05 05:14:55.000000000+02:00
+- image_filename: 2023_08_05__05_15_P8050028.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 173.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:23:25.000000000+02:00
-- image_filename: 2023_08_04__19_21_DJI_0735.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 171.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 120
-  width: 8041
-  height: 6019
-  camera: FC3582
-  time: 2023-08-04 19:21:56.000000000+02:00
-- image_filename: 2023_08_05__10_37_P8050392.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71361111111111
-  lon: 16.28805555555556
-  altitude: 48.0
-  focal_length: 60.0
-  aperture: 3.5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 0.28
-  iso: 200
-  width: 5208
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: OM-1
-  time: 2023-08-05 10:37:23.000000000+02:00
-- image_filename: 2023_08_05__10_35_P8050354.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71361111111111
-  lon: 16.28805555555556
-  altitude: 48.0
-  focal_length: 60.0
+  lat: 52.718625
+  lon: 16.285486111111112
+  altitude: 40.0
+  focal_length: 66.0
   aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 0.47
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 18.25
   iso: 200
-  width: 4819
-  height: 3633
-  lens: OLYMPUS M.60mm F2.8 Macro
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 10:35:51.000000000+02:00
-- image_filename: 2023_08_05__06_04_DJI_0910.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 95.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 120
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 06:04:47.000000000+02:00
-- image_filename: 2023_08_04__19_27_DJI_0755.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 169.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 6037
-  height: 8056
-  camera: FC3582
-  time: 2023-08-04 19:27:22.000000000+02:00
+  time: 2023-08-05 05:15:19.000000000+02:00
 - image_filename: 2023_08_05__05_15_P8050029.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.718611111111116
-  lon: 16.28527777777778
+  lat: 52.71865277777778
+  lon: 16.285319444444447
   altitude: 40.0
   focal_length: 12.0
   aperture: 4.0
@@ -1473,154 +831,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2023-08-05 05:15:34.000000000+02:00
-- image_filename: 2023_08_05__05_10_P8050014.jpg
+- image_filename: 2023_08_05__05_15_P8050031.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.717777777777776
-  lon: 16.285555555555558
-  altitude: 42.0
-  focal_length: 16.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
+  lat: 52.71865277777778
+  lon: 16.285305555555556
+  altitude: 40.0
+  focal_length: 86.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 50.1
   iso: 200
-  width: 8027
-  height: 5939
+  width: 8156
+  height: 5827
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 05:10:15.000000000+02:00
-- image_filename: 2023_08_05__05_19_P8050036.jpg
+  time: 2023-08-05 05:15:57.000000000+02:00
+- image_filename: 2023_08_05__05_16_P8050032.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.7175
-  lon: 16.28611111111111
-  altitude: 44.0
-  focal_length: 100.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 11.38
+  lat: 52.71865277777778
+  lon: 16.285305555555556
+  altitude: 40.0
+  focal_length: 31.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 21.03
   iso: 200
   width: 8168
   height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 05:19:41.000000000+02:00
-- image_filename: 2023_08_05__05_14_P8050022.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.718611111111116
-  lon: 16.285555555555558
-  altitude: 40.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 74.14
-  iso: 640
-  width: 5208
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 05:14:05.000000000+02:00
-- image_filename: 2023_08_04__19_46_DJI_0789.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 172.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 19:46:39.000000000+02:00
-- image_filename: 2023_08_04__19_46_DJI_0787.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 172.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 19:46:20.000000000+02:00
-- image_filename: 2023_08_04__19_10_DJI_0702.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 89.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 110
-  width: 8013
-  height: 5980
-  camera: FC3582
-  time: 2023-08-04 19:10:58.000000000+02:00
-- image_filename: 2023_08_05__09_04_P8050132.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.286944444444448
-  altitude: 41.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 20.0
-  iso: 200
-  width: 8103
-  height: 6053
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2023-08-05 09:04:43.000000000+02:00
-- image_filename: 2023_08_05__06_08_DJI_0918.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 147.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 6037
-  height: 6975
-  camera: FC3582
-  time: 2023-08-05 06:08:20.000000000+02:00
-- image_filename: 2023_08_04__20_45_DJI_0899.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 90.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.025
-  exposure_string: 1/40 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 20:45:37.000000000+02:00
+  time: 2023-08-05 05:16:07.000000000+02:00
 - image_filename: 2023_08_05__05_17_P8050033.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71888888888889
-  lon: 16.284444444444446
+  lat: 52.71886111111111
+  lon: 16.284347222222223
   altitude: 40.0
   focal_length: 41.0
   aperture: 4.5
@@ -1633,42 +879,362 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2023-08-05 05:17:12.000000000+02:00
-- image_filename: 2023_08_04__18_27_P8040002.jpg
+- image_filename: 2023_08_05__05_19_P8050035.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.7175
-  lon: 16.285833333333336
-  altitude: 40.0
-  focal_length: 12.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 4.03
+  lat: 52.717375000000004
+  lon: 16.286069444444447
+  altitude: 44.0
+  focal_length: 57.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 8.51
   iso: 200
   width: 8168
   height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-04 18:27:42.000000000+02:00
-- image_filename: 2023_08_04__19_27_DJI_0754.jpg
+  time: 2023-08-05 05:19:30.000000000+02:00
+- image_filename: 2023_08_05__05_19_P8050036.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 169.1
+  lat: 52.71736111111111
+  lon: 16.286083333333334
+  altitude: 44.0
+  focal_length: 100.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 11.38
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:19:41.000000000+02:00
+- image_filename: 2023_08_05__05_20_P8050037.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71702777777778
+  lon: 16.286416666666668
+  altitude: 46.0
+  focal_length: 35.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 22.72
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:20:15.000000000+02:00
+- image_filename: 2023_08_05__05_20_P8050038.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.717
+  lon: 16.286430555555558
+  altitude: 46.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 59.58
+  iso: 200
+  width: 7855
+  height: 5764
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:20:27.000000000+02:00
+- image_filename: 2023_08_05__05_21_P8050041.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71619444444445
+  lon: 16.287222222222223
+  altitude: 48.0
+  focal_length: 12.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 2.37
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:21:51.000000000+02:00
+- image_filename: 2023_08_05__05_22_P8050042.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71563888888889
+  lon: 16.287750000000003
+  altitude: 48.0
+  focal_length: 25.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.75
+  iso: 200
+  width: 7821
+  height: 6086
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:22:42.000000000+02:00
+- image_filename: 2023_08_05__05_22_P8050043.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715583333333335
+  lon: 16.287750000000003
+  altitude: 48.0
+  focal_length: 38.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 32.83
+  iso: 200
+  width: 8075
+  height: 6017
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:22:53.000000000+02:00
+- image_filename: 2023_08_05__05_26_P8050050.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715625
+  lon: 16.291597222222222
+  altitude: 49.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 54.79
+  iso: 200
+  width: 8027
+  height: 5939
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:26:27.000000000+02:00
+- image_filename: 2023_08_05__05_27_P8050051.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71633333333334
+  lon: 16.291333333333334
+  altitude: 49.0
+  focal_length: 50.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.4
+  iso: 640
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:27:45.000000000+02:00
+- image_filename: 2023_08_05__05_29_P8050054.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.717222222222226
+  lon: 16.291875
+  altitude: 48.0
+  focal_length: 12.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.61
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:29:24.000000000+02:00
+- image_filename: 2023_08_05__05_32_P8050060.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715652777777784
+  lon: 16.291666666666668
+  altitude: 47.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 7.84
+  iso: 400
+  width: 4583
+  height: 3540
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:32:57.000000000+02:00
+- image_filename: 2023_08_05__05_33_P8050061.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715583333333335
+  lon: 16.29152777777778
+  altitude: 47.0
+  focal_length: 15.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7725
+  height: 5664
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 05:33:10.000000000+02:00
+- image_filename: 2023_08_05__06_02_DJI_0901.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71758055555556
+  lon: 16.28656388888889
+  altitude: 79.9
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 06:02:07.000000000+02:00
+- image_filename: 2023_08_05__06_03_DJI_0905.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71774166666667
+  lon: 16.289911111111113
+  altitude: 95.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 06:03:32.000000000+02:00
+- image_filename: 2023_08_05__06_04_DJI_0910.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71873888888889
+  lon: 16.293733333333336
+  altitude: 95.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 120
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 06:04:47.000000000+02:00
+- image_filename: 2023_08_05__06_07_DJI_0915.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71830555555556
+  lon: 16.283711111111113
+  altitude: 148.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008333333333333333
+  exposure_string: 1/120 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 06:07:49.000000000+02:00
+- image_filename: 2023_08_05__06_08_DJI_0918.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71830277777778
+  lon: 16.283711111111113
+  altitude: 147.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
   iso: 100
   width: 6037
-  height: 8056
+  height: 6975
   camera: FC3582
-  time: 2023-08-04 19:27:13.000000000+02:00
-- image_filename: 2023_08_05__05_11_P8050017.jpg
+  time: 2023-08-05 06:08:20.000000000+02:00
+- image_filename: 2023_08_05__06_08_DJI_0919.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.718333333333334
-  lon: 16.284722222222225
+  lat: 52.7183
+  lon: 16.283716666666667
+  altitude: 147.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 06:08:33.000000000+02:00
+- image_filename: 2023_08_05__06_09_DJI_0922.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71703333333333
+  lon: 16.280344444444445
+  altitude: 150.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 120
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 06:09:44.000000000+02:00
+- image_filename: 2023_08_05__06_11_DJI_0926.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.717200000000005
+  lon: 16.286716666666667
+  altitude: 150.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 06:11:18.000000000+02:00
+- image_filename: 2023_08_05__08_02_P8050079.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.716750000000005
+  lon: 16.28776388888889
+  altitude: 41.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.69
+  iso: 400
+  width: 5104
+  height: 3704
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 08:02:44.000000000+02:00
+- image_filename: 2023_08_05__08_03_P8050081.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.716750000000005
+  lon: 16.287569444444447
+  altitude: 41.0
+  focal_length: 61.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 13.6
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 08:03:27.000000000+02:00
+- image_filename: 2023_08_05__08_04_P8050083.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.716750000000005
+  lon: 16.28713888888889
   altitude: 41.0
   focal_length: 17.0
   aperture: 5.0
@@ -1676,31 +1242,15 @@
   exposure_string: 1/100 s
   focus_distance: 1000.0
   iso: 200
-  width: 8168
-  height: 6132
+  width: 7915
+  height: 5969
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 05:11:26.000000000+02:00
-- image_filename: 2023_08_04__19_47_DJI_0794.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 172.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  iso: 100
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-04 19:47:59.000000000+02:00
+  time: 2023-08-05 08:04:19.000000000+02:00
 - image_filename: 2023_08_05__08_05_P8050084.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.716944444444444
-  lon: 16.28638888888889
+  lat: 52.71690277777778
+  lon: 16.286486111111113
   altitude: 40.0
   focal_length: 100.0
   aperture: 4.0
@@ -1713,90 +1263,170 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2023-08-05 08:05:40.000000000+02:00
-- image_filename: 2023_08_05__09_16_P8050323.jpg
+- image_filename: 2023_08_05__08_36_P8050104.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71611111111111
-  lon: 16.28527777777778
-  altitude: 45.0
-  focal_length: 17.0
-  aperture: 5.6
+  lat: 52.71890277777778
+  lon: 16.284291666666668
+  altitude: 34.0
+  focal_length: 80.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.54
+  iso: 500
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 08:36:43.000000000+02:00
+- image_filename: 2023_08_05__09_00_P8050126.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71690277777778
+  lon: 16.28651388888889
+  altitude: 40.0
+  focal_length: 57.0
+  aperture: 4.0
   exposure: 0.008
   exposure_string: 1/125 s
-  focus_distance: 1000.0
+  focus_distance: 8.78
   iso: 200
   width: 8168
   height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 09:16:50.000000000+02:00
-- image_filename: 2023_08_05__10_37_DJI_0951.jpg
+  time: 2023-08-05 09:00:50.000000000+02:00
+- image_filename: 2023_08_05__09_01_P8050127.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.283333333333335
-  altitude: 132.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 120
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-08-05 10:37:22.000000000+02:00
-- image_filename: 2023_08_05__05_09_P8050012.jpg
-  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.717777777777776
-  lon: 16.285555555555558
-  altitude: 42.0
-  focal_length: 100.0
-  aperture: 7.1
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1000.0
+  lat: 52.71673611111111
+  lon: 16.286722222222224
+  altitude: 40.0
+  focal_length: 54.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 11.53
   iso: 200
-  width: 7940
-  height: 5823
+  width: 8168
+  height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 05:09:45.000000000+02:00
-- image_filename: 2023_08_05__10_35_P8050344.jpg
+  time: 2023-08-05 09:01:20.000000000+02:00
+- image_filename: 2023_08_05__09_03_P8050129.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71361111111111
-  lon: 16.28805555555556
-  altitude: 48.0
-  focal_length: 60.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.38
+  lat: 52.71586111111112
+  lon: 16.287319444444446
+  altitude: 41.0
+  focal_length: 28.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 9.14
   iso: 200
-  width: 5022
-  height: 3723
-  lens: OLYMPUS M.60mm F2.8 Macro
+  width: 7975
+  height: 5994
+  lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 10:35:27.000000000+02:00
-- image_filename: 2023_08_05__09_12_P8050268.jpg
+  time: 2023-08-05 09:03:44.000000000+02:00
+- image_filename: 2023_08_05__09_04_P8050130.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.286944444444448
-  altitude: 43.0
+  lat: 52.71577777777778
+  lon: 16.287083333333335
+  altitude: 41.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 26.3
+  iso: 200
+  width: 6048
+  height: 8106
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:04:17.000000000+02:00
+- image_filename: 2023_08_05__09_04_P8050132.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715763888888894
+  lon: 16.287041666666667
+  altitude: 41.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 20.0
+  iso: 200
+  width: 8103
+  height: 6053
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:04:43.000000000+02:00
+- image_filename: 2023_08_05__09_09_P8050140.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71577777777778
+  lon: 16.287069444444445
+  altitude: 42.0
   focal_length: 100.0
   aperture: 4.0
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 3.12
-  iso: 1600
-  width: 5053
-  height: 3773
+  focus_distance: 6.26
+  iso: 800
+  width: 5208
+  height: 3912
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2023-08-05 09:12:21.000000000+02:00
+  time: 2023-08-05 09:09:22.000000000+02:00
+- image_filename: 2023_08_05__09_09_P8050145.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71575
+  lon: 16.287097222222222
+  altitude: 42.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.04
+  iso: 800
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:09:47.000000000+02:00
+- image_filename: 2023_08_05__09_10_P8050153.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71575
+  lon: 16.287083333333335
+  altitude: 41.0
+  focal_length: 92.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.81
+  iso: 800
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:10:02.000000000+02:00
+- image_filename: 2023_08_05__09_10_P8050158.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71575
+  lon: 16.287083333333335
+  altitude: 41.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.9
+  iso: 640
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:10:06.000000000+02:00
 - image_filename: 2023_08_05__09_11_P8050244.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.715833333333336
-  lon: 16.287222222222223
+  lat: 52.71573611111111
+  lon: 16.287083333333335
   altitude: 42.0
   focal_length: 100.0
   aperture: 4.0
@@ -1809,19 +1439,387 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2023-08-05 09:11:13.000000000+02:00
-- image_filename: 2023_08_04__20_26_DJI_0845.jpg
+- image_filename: 2023_08_05__09_12_P8050265.jpg
   post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
-  lat: 52.71666666666667
-  lon: 16.3
-  altitude: 170.5
+  lat: 52.71575
+  lon: 16.287069444444445
+  altitude: 43.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.56
+  iso: 2500
+  width: 4895
+  height: 3601
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:12:12.000000000+02:00
+- image_filename: 2023_08_05__09_12_P8050268.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71575
+  lon: 16.287069444444445
+  altitude: 43.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.12
+  iso: 1600
+  width: 5053
+  height: 3773
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:12:21.000000000+02:00
+- image_filename: 2023_08_05__09_12_P8050284.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71575
+  lon: 16.287055555555558
+  altitude: 44.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 3.03
+  iso: 4000
+  width: 4868
+  height: 3692
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:12:38.000000000+02:00
+- image_filename: 2023_08_05__09_16_P8050323.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71608333333334
+  lon: 16.28525
+  altitude: 45.0
+  focal_length: 17.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:16:50.000000000+02:00
+- image_filename: 2023_08_05__09_18_P8050328.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71611111111111
+  lon: 16.285125
+  altitude: 45.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.55
+  iso: 250
+  width: 4467
+  height: 3352
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:18:27.000000000+02:00
+- image_filename: 2023_08_05__09_20_P8050330.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71611111111111
+  lon: 16.284694444444447
+  altitude: 46.0
+  focal_length: 47.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 25.92
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:20:53.000000000+02:00
+- image_filename: 2023_08_05__09_46_P8050336.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.716055555555556
+  lon: 16.28427777777778
+  altitude: 43.0
+  focal_length: 75.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 23.67
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 09:46:03.000000000+02:00
+- image_filename: 2023_08_05__10_31_DJI_0932.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.715786111111115
+  lon: 16.279419444444443
+  altitude: 135.2
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.004166666666666667
-  exposure_string: 1/240 s
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
   width: 8056
   height: 6037
   camera: FC3582
-  time: 2023-08-04 20:26:52.000000000+02:00
+  time: 2023-08-05 10:31:39.000000000+02:00
+- image_filename: 2023_08_05__10_32_DJI_0934.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71568888888889
+  lon: 16.277516666666667
+  altitude: 135.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 130
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 10:32:21.000000000+02:00
+- image_filename: 2023_08_05__10_33_DJI_0939.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71540277777778
+  lon: 16.275905555555553
+  altitude: 134.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 10:33:42.000000000+02:00
+- image_filename: 2023_08_05__10_33_DJI_0940.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.7154
+  lon: 16.275908333333334
+  altitude: 134.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 10:33:52.000000000+02:00
+- image_filename: 2023_08_05__10_34_DJI_0941.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71540277777778
+  lon: 16.27591111111111
+  altitude: 134.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 120
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 10:34:06.000000000+02:00
+- image_filename: 2023_08_05__10_35_P8050344.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71365277777778
+  lon: 16.28804166666667
+  altitude: 48.0
+  focal_length: 60.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.38
+  iso: 200
+  width: 5022
+  height: 3723
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: OM-1
+  time: 2023-08-05 10:35:27.000000000+02:00
+- image_filename: 2023_08_05__10_35_P8050354.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.713638888888894
+  lon: 16.288027777777778
+  altitude: 48.0
+  focal_length: 60.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.47
+  iso: 200
+  width: 4819
+  height: 3633
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: OM-1
+  time: 2023-08-05 10:35:51.000000000+02:00
+- image_filename: 2023_08_05__10_37_DJI_0951.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71515
+  lon: 16.283530555555558
+  altitude: 132.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 120
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 10:37:22.000000000+02:00
+- image_filename: 2023_08_05__10_37_P8050392.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.713625
+  lon: 16.288
+  altitude: 48.0
+  focal_length: 60.0
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.28
+  iso: 200
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: OM-1
+  time: 2023-08-05 10:37:23.000000000+02:00
+- image_filename: 2023_08_05__10_37_P8050405.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.713625
+  lon: 16.288
+  altitude: 48.0
+  focal_length: 60.0
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.25
+  iso: 200
+  width: 5076
+  height: 3695
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: OM-1
+  time: 2023-08-05 10:37:34.000000000+02:00
+- image_filename: 2023_08_05__10_43_P8050415.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71254166666667
+  lon: 16.28604166666667
+  altitude: 47.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.67
+  iso: 1250
+  width: 4510
+  height: 3531
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 10:43:22.000000000+02:00
+- image_filename: 2023_08_05__11_07_P8050419.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.70738888888889
+  lon: 16.278430555555556
+  altitude: 47.0
+  focal_length: 12.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.92
+  iso: 200
+  width: 8153
+  height: 6113
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 11:07:28.000000000+02:00
+- image_filename: 2023_08_05__11_31_P8050435.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71080555555556
+  lon: 16.286
+  altitude: 48.0
+  focal_length: 60.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.42
+  iso: 200
+  width: 4859
+  height: 3580
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: OM-1
+  time: 2023-08-05 11:31:42.000000000+02:00
+- image_filename: 2023_08_05__11_39_P8050440.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.713569444444445
+  lon: 16.289361111111113
+  altitude: 44.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.76
+  iso: 200
+  width: 7147
+  height: 5040
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 11:39:34.000000000+02:00
+- image_filename: 2023_08_05__11_45_P8050441.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.71480555555556
+  lon: 16.292069444444447
+  altitude: 43.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 85.78
+  iso: 200
+  width: 8098
+  height: 6039
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-08-05 11:45:03.000000000+02:00
+- image_filename: 2023_08_05__11_53_DJI_0959.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.710438888888895
+  lon: 16.286144444444446
+  altitude: 153.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 120
+  width: 7978
+  height: 5256
+  camera: FC3582
+  time: 2023-08-05 11:53:53.000000000+02:00
+- image_filename: 2023_08_05__11_55_DJI_0964.jpg
+  post_slug: 2023-08-05-jedna-z-ladniejszych-wiosek
+  lat: 52.70914722222223
+  lon: 16.286583333333336
+  altitude: 153.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 160
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-08-05 11:55:25.000000000+02:00

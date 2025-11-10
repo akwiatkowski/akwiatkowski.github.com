@@ -1,294 +1,294 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 800
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1365
-  exposure: 20.0
-  exposure_string: 20 s
-  time: 2015-12-31 23:59:47+01:00
 - image_filename: IMGP6711pano_raw1.jpg
   post_slug: 2015-12-31-przechadzka-na-turbacz
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5
   aperture: 5.6
-  iso: 400
-  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
-  camera: PENTAX K-5
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2015-12-31 07:50:38+01:00
-- image_filename: IMGP6836raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 14.0
   iso: 400
   lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
   camera: PENTAX K-5
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2015-12-31 08:11:53+01:00
-- image_filename: IMGP6881raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.58124777777778
-  lon: 20.011718333333334
-  altitude: 860.5
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 2.8
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2015-12-31 10:14:02+01:00
-- image_filename: IMGP6992raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.54313111111111
-  lon: 20.1109575
-  altitude: 1302.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2015-12-31 13:23:49+01:00
-- image_filename: IMGP7048raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.54284555555555
-  lon: 20.111214444444446
-  altitude: 1304.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-12-31 14:53:27+01:00
-- image_filename: IMGP7102raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.55795444444444
-  lon: 20.078911388888887
-  altitude: 1086.9
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 800
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-12-31 15:53:40+01:00
-- image_filename: IMGP7117raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 800
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 20.0
-  exposure_string: 20 s
-  time: 2015-12-31 23:59:20+01:00
-- image_filename: IMGP7093raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.548030555555556
-  lon: 20.103092500000002
-  altitude: 1181.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-12-31 15:19:54+01:00
-- image_filename: IMGP7001pano_raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.54337861111111
-  lon: 20.118383333333334
-  altitude: 1272.9
-  focal_length: 340.0
-  focal_length_35: 510.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 400
-  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
-  camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2015-12-31 13:38:00+01:00
-- image_filename: IMGP7013pano_raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.543353055555556
-  lon: 20.118434444444446
-  altitude: 1272.9
-  focal_length: 270.0
-  focal_length_35: 405.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-12-31 13:38:34+01:00
-- image_filename: IMGP7058raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.5434975
-  lon: 20.11046388888889
-  altitude: 1297.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-12-31 14:56:34+01:00
-- image_filename: IMGP6918raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.55936277777778
-  lon: 20.052895555555555
-  altitude: 1012.9
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2015-12-31 11:36:50+01:00
-- image_filename: IMGP7121raw2.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2016-01-01 00:01:48+01:00
-- image_filename: IMGP7136raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2016-01-01 00:12:45+01:00
-- image_filename: IMGP7035raw2.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.543498888888884
-  lon: 20.118716944444444
-  altitude: 1272.9
-  focal_length: 230.0
-  focal_length_35: 345.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-12-31 13:42:04+01:00
-- image_filename: IMGP6809raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 800
-  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
-  camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2015-12-31 08:06:44+01:00
-- image_filename: IMGP7095raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.54920972222222
-  lon: 20.098932777777776
-  altitude: 1175.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-12-31 15:24:47+01:00
-- image_filename: IMGP6907raw1.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.559397222222216
-  lon: 20.043616111111113
-  altitude: 1002.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-12-31 11:25:33+01:00
-- image_filename: IMGP6921raw2.jpg
-  post_slug: 2015-12-31-przechadzka-na-turbacz
-  lat: 49.55935611111111
-  lon: 20.053501666666666
-  altitude: 1010.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2015-12-31 11:37:51+01:00
+  time: 2015-12-31 07:50:38.000000000+01:00
 - image_filename: IMGP6713pano_raw1.jpg
   post_slug: 2015-12-31-przechadzka-na-turbacz
   focal_length: 270.0
   focal_length_35: 405.0
   crop: 1.5
   aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 400
   lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
   camera: PENTAX K-5
+  time: 2015-12-31 07:51:24.000000000+01:00
+- image_filename: IMGP6809raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2015-12-31 07:51:24+01:00
+  iso: 800
+  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
+  camera: PENTAX K-5
+  time: 2015-12-31 08:06:44.000000000+01:00
+- image_filename: IMGP6836raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 14.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  iso: 400
+  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
+  camera: PENTAX K-5
+  time: 2015-12-31 08:11:53.000000000+01:00
+- image_filename: IMGP6881raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.581247222222224
+  lon: 20.011719444444445
+  altitude: 860.5
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-12-31 10:14:02.000000000+01:00
+- image_filename: IMGP6907raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.559397222222216
+  lon: 20.04361666666667
+  altitude: 1002.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 11:25:33.000000000+01:00
+- image_filename: IMGP6918raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.55936388888889
+  lon: 20.052894444444444
+  altitude: 1012.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 11:36:50.000000000+01:00
+- image_filename: IMGP6921raw2.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.559355555555555
+  lon: 20.05350277777778
+  altitude: 1010.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 11:37:51.000000000+01:00
+- image_filename: IMGP6992raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.54313055555556
+  lon: 20.110958333333336
+  altitude: 1302.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 13:23:49.000000000+01:00
+- image_filename: IMGP7001pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.54337777777778
+  lon: 20.118383333333334
+  altitude: 1272.9
+  focal_length: 340.0
+  focal_length_35: 510.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
+  camera: PENTAX K-5
+  time: 2015-12-31 13:38:00.000000000+01:00
+- image_filename: IMGP7013pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.54335277777778
+  lon: 20.118433333333332
+  altitude: 1272.9
+  focal_length: 270.0
+  focal_length_35: 405.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
+  camera: PENTAX K-5
+  time: 2015-12-31 13:38:34.000000000+01:00
+- image_filename: IMGP7035raw2.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.5435
+  lon: 20.118716666666668
+  altitude: 1272.9
+  focal_length: 230.0
+  focal_length_35: 345.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
+  camera: PENTAX K-5
+  time: 2015-12-31 13:42:04.000000000+01:00
+- image_filename: IMGP7048raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.54284444444444
+  lon: 20.11121388888889
+  altitude: 1304.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 14:53:27.000000000+01:00
+- image_filename: IMGP7058raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.54349722222222
+  lon: 20.11046388888889
+  altitude: 1297.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 14:56:34.000000000+01:00
+- image_filename: IMGP7093raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.548030555555556
+  lon: 20.103091666666668
+  altitude: 1181.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 15:19:54.000000000+01:00
+- image_filename: IMGP7095raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.549211111111106
+  lon: 20.09893333333333
+  altitude: 1175.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 15:24:47.000000000+01:00
+- image_filename: IMGP7102raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.55795555555555
+  lon: 20.07891111111111
+  altitude: 1086.9
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 15:53:40.000000000+01:00
+- image_filename: IMGP7117raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 20.0
+  exposure_string: 20 s
+  iso: 800
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 23:59:20.000000000+01:00
+- image_filename: IMGP7121raw2.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-01-01 00:01:48.000000000+01:00
+- image_filename: IMGP7136raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-01-01 00:12:45.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 20.0
+  exposure_string: 20 s
+  iso: 800
+  width: 2048
+  height: 1365
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-12-31 23:59:47.000000000+01:00

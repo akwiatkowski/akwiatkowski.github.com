@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
-  lat: 51.26673611111111
-  lon: 16.72561111111111
-  altitude: 107.0
-  focal_length: 24.0
-  focal_length_35: 36.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-11-18 11:57:38+01:00
 - image_filename: IMGP3121raw1.jpg
   post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
   lat: 51.24341666666667
@@ -22,11 +8,11 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2017-11-18 11:52:34+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-11-18 11:52:34.000000000+01:00
 - image_filename: IMGP3129raw1.jpg
   post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
   lat: 51.26672222222222
@@ -36,81 +22,11 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-11-18 11:57:43+01:00
-- image_filename: IMGP3190raw1.jpg
-  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
-  lat: 51.49747222222222
-  lon: 16.26748611111111
-  altitude: 122.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 640
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-11-18 12:34:36+01:00
-- image_filename: IMGP3251raw1.jpg
-  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
-  lat: 52.04830555555555
-  lon: 15.361652777777778
-  altitude: 64.0
-  focal_length: 39.0
-  focal_length_35: 58.0
-  crop: 1.4871794871794872
-  aperture: 6.3
-  iso: 800
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-11-18 14:00:00+01:00
-- image_filename: IMGP3292raw1.jpg
-  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
-  lat: 52.35036111111111
-  lon: 14.815000000000001
-  altitude: 74.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-11-18 14:39:15+01:00
-- image_filename: IMGP3277raw1.jpg
-  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
-  lat: 52.28393055555556
-  lon: 14.89923611111111
-  altitude: 98.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 800
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-11-18 14:23:29+01:00
-- image_filename: IMGP3268raw1.jpg
-  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
-  lat: 52.11281944444445
-  lon: 15.191722222222223
-  altitude: 80.0
-  focal_length: 33.0
-  focal_length_35: 49.0
-  crop: 1.4848484848484849
-  aperture: 6.3
-  iso: 1600
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-11-18 14:07:03+01:00
+  time: 2017-11-18 11:57:43.000000000+01:00
 - image_filename: IMGP3151raw1.jpg
   post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
   lat: 51.3905
@@ -120,11 +36,11 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 5.6
-  iso: 125
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-11-18 12:13:11+01:00
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-11-18 12:13:11.000000000+01:00
 - image_filename: IMGP3159raw1.jpg
   post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
   lat: 51.40925
@@ -134,11 +50,25 @@
   focal_length_35: 79.0
   crop: 1.490566037735849
   aperture: 4.5
-  iso: 160
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-11-18 12:22:28+01:00
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-11-18 12:22:28.000000000+01:00
+- image_filename: IMGP3190raw1.jpg
+  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
+  lat: 51.49747222222222
+  lon: 16.26748611111111
+  altitude: 122.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2017-11-18 12:34:36.000000000+01:00
 - image_filename: IMGP3239raw1.jpg
   post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
   lat: 51.799499999999995
@@ -148,8 +78,78 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 6.3
-  iso: 1600
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-11-18 13:26:43+01:00
+  iso: 1600
+  camera: PENTAX K-S2
+  time: 2017-11-18 13:26:43.000000000+01:00
+- image_filename: IMGP3251raw1.jpg
+  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
+  lat: 52.04830555555555
+  lon: 15.361652777777778
+  altitude: 64.0
+  focal_length: 39.0
+  focal_length_35: 58.0
+  crop: 1.4871794871794872
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2017-11-18 14:00:00.000000000+01:00
+- image_filename: IMGP3268raw1.jpg
+  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
+  lat: 52.11281944444445
+  lon: 15.191722222222223
+  altitude: 80.0
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1600
+  camera: PENTAX K-S2
+  time: 2017-11-18 14:07:03.000000000+01:00
+- image_filename: IMGP3277raw1.jpg
+  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
+  lat: 52.28393055555556
+  lon: 14.89923611111111
+  altitude: 98.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2017-11-18 14:23:29.000000000+01:00
+- image_filename: IMGP3292raw1.jpg
+  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
+  lat: 52.35036111111111
+  lon: 14.815000000000001
+  altitude: 74.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-11-18 14:39:15.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
+  lat: 51.26673611111111
+  lon: 16.72561111111111
+  altitude: 107.0
+  focal_length: 24.0
+  focal_length_35: 36.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-11-18 11:57:38.000000000+01:00

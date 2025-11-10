@@ -1,218 +1,24 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2023_03_18__13_23_DJI_0084.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-- image_filename: 2023_03_18__15_51_DJI_0215.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 187.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 15:51:21.000000000+01:00
-- image_filename: 2023_03_18__15_51_DJI_0216.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 187.8
+  lat: 52.64218888888889
+  lon: 17.264341666666667
+  altitude: 120.0
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
   exposure: 0.001
   exposure_string: 1/1000 s
-  iso: 200
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 15:51:29.000000000+01:00
-- image_filename: 2023_03_18__14_23_DJI_0122.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 186.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 140
-  width: 6048
-  height: 8064
-  camera: FC3582
-  time: 2023-03-18 14:23:35.000000000+01:00
-- image_filename: 2023_03_18__15_43_DJI_0190.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 192.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 150
-  width: 8056
-  height: 6037
-  camera: FC3582
-  time: 2023-03-18 15:43:39.000000000+01:00
-- image_filename: 2023_03_18__14_43_DJI_0136.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 189.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 130
-  width: 8039
-  height: 6015
-  camera: FC3582
-  time: 2023-03-18 14:43:19.000000000+01:00
-- image_filename: 2023_03_18__13_29_DJI_0098.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 166.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 150
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 13:29:56.000000000+01:00
-- image_filename: 2023_03_18__14_47_DJI_0143.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 190.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 14:47:07.000000000+01:00
-- image_filename: 2023_03_18__15_30_DJI_0156.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 160.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 150
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 15:30:08.000000000+01:00
-- image_filename: 2023_03_18__14_48_DJI_0149.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 187.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 200
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 14:48:25.000000000+01:00
-- image_filename: 2023_03_18__14_23_DJI_0120.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 186.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002857142857142857
-  exposure_string: 1/350 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 14:23:16.000000000+01:00
-- image_filename: 2023_03_18__14_21_DJI_0111.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 163.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 140
-  width: 8058
-  height: 6043
-  camera: FC3582
-  time: 2023-03-18 14:21:02.000000000+01:00
-- image_filename: 2023_03_18__15_48_DJI_0205.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 187.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.004166666666666667
-  exposure_string: 1/240 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 15:48:03.000000000+01:00
-- image_filename: 2023_03_18__15_33_DJI_0166.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 159.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 120
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 15:33:18.000000000+01:00
-- image_filename: 2023_03_18__14_20_DJI_0109.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 163.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 200
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 14:20:09.000000000+01:00
-- image_filename: 2023_03_18__15_46_DJI_0201.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 188.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.005555555555555556
-  exposure_string: 1/180 s
   iso: 110
-  width: 7853
-  height: 5537
+  width: 8064
+  height: 6048
   camera: FC3582
-  time: 2023-03-18 15:46:09.000000000+01:00
+  time: 2023-03-18 13:23:12.000000000+01:00
 - image_filename: 2023_03_18__13_29_DJI_0093.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.64064722222222
+  lon: 17.263944444444444
   altitude: 169.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -225,78 +31,42 @@
   height: 6048
   camera: FC3582
   time: 2023-03-18 13:29:05.000000000+01:00
-- image_filename: 2023_03_18__14_40_DJI_0129.jpg
+- image_filename: 2023_03_18__13_29_DJI_0095.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 208.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 130
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 14:40:07.000000000+01:00
-- image_filename: 2023_03_18__15_30_DJI_0157.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 160.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 150
-  width: 8020
-  height: 6001
-  camera: FC3582
-  time: 2023-03-18 15:30:17.000000000+01:00
-- image_filename: 2023_03_18__15_42_DJI_0187.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 192.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001379310344827586
-  exposure_string: 1/725 s
-  iso: 140
-  width: 7950
-  height: 5897
-  camera: FC3582
-  time: 2023-03-18 15:42:28.000000000+01:00
-- image_filename: 2023_03_18__14_22_DJI_0115.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 186.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 8026
-  height: 6000
-  camera: FC3582
-  time: 2023-03-18 14:22:00.000000000+01:00
-- image_filename: 2023_03_18__14_18_DJI_0106.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 163.1
+  lat: 52.64064444444445
+  lon: 17.26394722222222
+  altitude: 168.3
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
   exposure: 0.0006666666666666666
   exposure_string: 1/1500 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 13:29:24.000000000+01:00
+- image_filename: 2023_03_18__13_29_DJI_0098.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.64064166666667
+  lon: 17.26395
+  altitude: 166.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
   iso: 150
   width: 8064
   height: 6048
   camera: FC3582
-  time: 2023-03-18 14:18:57.000000000+01:00
+  time: 2023-03-18 13:29:56.000000000+01:00
 - image_filename: 2023_03_18__14_18_DJI_0102.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.62312222222222
+  lon: 17.287905555555557
   altitude: 136.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -309,36 +79,58 @@
   height: 5715
   camera: FC3582
   time: 2023-03-18 14:18:08.000000000+01:00
-- image_filename: 2023_03_18__15_39_DJI_0176.jpg
+- image_filename: 2023_03_18__14_18_DJI_0106.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 192.7
+  lat: 52.62309444444445
+  lon: 17.287922222222225
+  altitude: 163.1
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 130
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 150
   width: 8064
   height: 6048
   camera: FC3582
-  time: 2023-03-18 15:39:10.000000000+01:00
-- image_filename: 2023_03_18__14_23_DJI_0123.jpg
+  time: 2023-03-18 14:18:57.000000000+01:00
+- image_filename: 2023_03_18__14_20_DJI_0109.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 186.1
+  lat: 52.62309444444445
+  lon: 17.287919444444444
+  altitude: 163.4
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 130
-  width: 6048
-  height: 8064
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 8064
+  height: 6048
   camera: FC3582
-  time: 2023-03-18 14:23:47.000000000+01:00
+  time: 2023-03-18 14:20:09.000000000+01:00
+- image_filename: 2023_03_18__14_21_DJI_0111.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.622058333333335
+  lon: 17.287986111111113
+  altitude: 163.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 140
+  width: 8058
+  height: 6043
+  camera: FC3582
+  time: 2023-03-18 14:21:02.000000000+01:00
 - image_filename: 2023_03_18__14_21_DJI_0114.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.622525
+  lon: 17.287380555555558
   altitude: 187.1
   focal_length: 6.7
   focal_length_35: 24.0
@@ -351,22 +143,138 @@
   height: 6044
   camera: FC3582
   time: 2023-03-18 14:21:47.000000000+01:00
-- image_filename: 2023_03_18__15_50_DJI_0211.jpg
+- image_filename: 2023_03_18__14_22_DJI_0115.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 187.7
+  lat: 52.622525
+  lon: 17.287380555555558
+  altitude: 186.8
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
   exposure: 0.0015625
   exposure_string: 1/640 s
-  iso: 200
-  width: 7941
-  height: 5881
+  iso: 100
+  width: 8026
+  height: 6000
   camera: FC3582
-  time: 2023-03-18 15:50:08.000000000+01:00
+  time: 2023-03-18 14:22:00.000000000+01:00
+- image_filename: 2023_03_18__14_23_DJI_0120.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.622886111111114
+  lon: 17.289019444444445
+  altitude: 186.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 14:23:16.000000000+01:00
+- image_filename: 2023_03_18__14_23_DJI_0122.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.622880555555554
+  lon: 17.289019444444445
+  altitude: 186.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 140
+  width: 6048
+  height: 8064
+  camera: FC3582
+  time: 2023-03-18 14:23:35.000000000+01:00
+- image_filename: 2023_03_18__14_23_DJI_0123.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.622880555555554
+  lon: 17.289022222222226
+  altitude: 186.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 130
+  width: 6048
+  height: 8064
+  camera: FC3582
+  time: 2023-03-18 14:23:47.000000000+01:00
+- image_filename: 2023_03_18__14_24_DJI_0124.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.622880555555554
+  lon: 17.289019444444445
+  altitude: 186.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 14:24:05.000000000+01:00
+- image_filename: 2023_03_18__14_40_DJI_0129.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.610197222222226
+  lon: 17.28013611111111
+  altitude: 208.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 14:40:07.000000000+01:00
+- image_filename: 2023_03_18__14_40_DJI_0131.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.610197222222226
+  lon: 17.280152777777776
+  altitude: 207.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 150
+  width: 8049
+  height: 6027
+  camera: FC3582
+  time: 2023-03-18 14:40:27.000000000+01:00
+- image_filename: 2023_03_18__14_43_DJI_0136.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.60328611111111
+  lon: 17.269608333333334
+  altitude: 189.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 130
+  width: 8039
+  height: 6015
+  camera: FC3582
+  time: 2023-03-18 14:43:19.000000000+01:00
 - image_filename: 2023_03_18__14_46_DJI_0140.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.61262777777778
+  lon: 17.28581666666667
   altitude: 189.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -379,8 +287,154 @@
   height: 6048
   camera: FC3582
   time: 2023-03-18 14:46:39.000000000+01:00
+- image_filename: 2023_03_18__14_46_DJI_0142_01.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.612625
+  lon: 17.28581388888889
+  altitude: 189.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 14:46:55.000000000+01:00
+- image_filename: 2023_03_18__14_47_DJI_0143.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.612625
+  lon: 17.28581666666667
+  altitude: 190.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 14:47:07.000000000+01:00
+- image_filename: 2023_03_18__14_48_DJI_0147.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.612125
+  lon: 17.283775000000002
+  altitude: 188.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 14:48:09.000000000+01:00
+- image_filename: 2023_03_18__14_48_DJI_0149.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.612125
+  lon: 17.283775000000002
+  altitude: 187.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 14:48:25.000000000+01:00
+- image_filename: 2023_03_18__14_49_DJI_0151.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.609766666666665
+  lon: 17.278841666666665
+  altitude: 187.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 150
+  width: 7636
+  height: 5672
+  camera: FC3582
+  time: 2023-03-18 14:49:45.000000000+01:00
+- image_filename: 2023_03_18__14_49_DJI_0152.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.609766666666665
+  lon: 17.278844444444445
+  altitude: 188.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 14:49:57.000000000+01:00
+- image_filename: 2023_03_18__15_30_DJI_0156.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.56511944444444
+  lon: 17.21947222222222
+  altitude: 160.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 15:30:08.000000000+01:00
+- image_filename: 2023_03_18__15_30_DJI_0157.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.56512222222222
+  lon: 17.21947222222222
+  altitude: 160.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 150
+  width: 8020
+  height: 6001
+  camera: FC3582
+  time: 2023-03-18 15:30:17.000000000+01:00
+- image_filename: 2023_03_18__15_33_DJI_0166.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.567725
+  lon: 17.222677777777776
+  altitude: 159.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 15:33:18.000000000+01:00
 - image_filename: 2023_03_18__15_33_DJI_0167.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.567730555555556
+  lon: 17.222675
   altitude: 159.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -393,8 +447,106 @@
   height: 6048
   camera: FC3582
   time: 2023-03-18 15:33:25.000000000+01:00
+- image_filename: 2023_03_18__15_33_DJI_0169.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.567725
+  lon: 17.222675
+  altitude: 159.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 15:33:43.000000000+01:00
+- image_filename: 2023_03_18__15_39_DJI_0176.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.56514722222222
+  lon: 17.219241666666665
+  altitude: 192.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 15:39:10.000000000+01:00
+- image_filename: 2023_03_18__15_39_DJI_0178.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.565149999999996
+  lon: 17.219241666666665
+  altitude: 192.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 15:39:27.000000000+01:00
+- image_filename: 2023_03_18__15_39_DJI_0179.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.56514722222222
+  lon: 17.219241666666665
+  altitude: 192.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-18 15:39:37.000000000+01:00
+- image_filename: 2023_03_18__15_42_DJI_0187.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.56628055555555
+  lon: 17.215533333333333
+  altitude: 192.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 140
+  width: 7950
+  height: 5897
+  camera: FC3582
+  time: 2023-03-18 15:42:28.000000000+01:00
+- image_filename: 2023_03_18__15_43_DJI_0190.jpg
+  post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.56821388888889
+  lon: 17.217627777777775
+  altitude: 192.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 150
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-03-18 15:43:39.000000000+01:00
 - image_filename: 2023_03_18__15_44_DJI_0196.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.56879444444445
+  lon: 17.218686111111108
   altitude: 192.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -409,6 +561,8 @@
   time: 2023-03-18 15:44:42.000000000+01:00
 - image_filename: 2023_03_18__15_45_DJI_0199.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
+  lat: 52.56848333333334
+  lon: 17.221083333333333
   altitude: 188.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -421,157 +575,83 @@
   height: 5617
   camera: FC3582
   time: 2023-03-18 15:45:52.000000000+01:00
-- image_filename: 2023_03_18__13_23_DJI_0084.jpg
+- image_filename: 2023_03_18__15_46_DJI_0201.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 120.0
+  lat: 52.56848333333334
+  lon: 17.22108611111111
+  altitude: 188.4
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.001
-  exposure_string: 1/1000 s
+  exposure: 0.005555555555555556
+  exposure_string: 1/180 s
   iso: 110
-  width: 8064
-  height: 6048
+  width: 7853
+  height: 5537
   camera: FC3582
-  time: 2023-03-18 13:23:12.000000000+01:00
-- image_filename: 2023_03_18__15_33_DJI_0169.jpg
+  time: 2023-03-18 15:46:09.000000000+01:00
+- image_filename: 2023_03_18__15_48_DJI_0205.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 159.3
+  lat: 52.567394444444446
+  lon: 17.22060833333333
+  altitude: 187.7
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.001379310344827586
-  exposure_string: 1/725 s
-  iso: 150
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 15:33:43.000000000+01:00
-- image_filename: 2023_03_18__14_46_DJI_0142_01.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 189.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
   iso: 100
   width: 8064
   height: 6048
   camera: FC3582
-  time: 2023-03-18 14:46:55.000000000+01:00
-- image_filename: 2023_03_18__14_48_DJI_0147.jpg
+  time: 2023-03-18 15:48:03.000000000+01:00
+- image_filename: 2023_03_18__15_50_DJI_0211.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 188.9
+  lat: 52.56673055555556
+  lon: 17.220166666666664
+  altitude: 187.7
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 8064
-  height: 6048
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 7941
+  height: 5881
   camera: FC3582
-  time: 2023-03-18 14:48:09.000000000+01:00
-- image_filename: 2023_03_18__14_24_DJI_0124.jpg
+  time: 2023-03-18 15:50:08.000000000+01:00
+- image_filename: 2023_03_18__15_51_DJI_0215.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 186.0
+  lat: 52.565013888888885
+  lon: 17.219394444444443
+  altitude: 187.8
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.003125
-  exposure_string: 1/320 s
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 100
   width: 8064
   height: 6048
   camera: FC3582
-  time: 2023-03-18 14:24:05.000000000+01:00
-- image_filename: 2023_03_18__14_49_DJI_0152.jpg
+  time: 2023-03-18 15:51:21.000000000+01:00
+- image_filename: 2023_03_18__15_51_DJI_0216.jpg
   post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 188.2
+  lat: 52.565013888888885
+  lon: 17.219391666666667
+  altitude: 187.8
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
   exposure: 0.001
   exposure_string: 1/1000 s
-  iso: 140
+  iso: 200
   width: 8064
   height: 6048
   camera: FC3582
-  time: 2023-03-18 14:49:57.000000000+01:00
-- image_filename: 2023_03_18__14_49_DJI_0151.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 187.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 150
-  width: 7636
-  height: 5672
-  camera: FC3582
-  time: 2023-03-18 14:49:45.000000000+01:00
-- image_filename: 2023_03_18__15_39_DJI_0178.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 192.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001379310344827586
-  exposure_string: 1/725 s
-  iso: 150
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 15:39:27.000000000+01:00
-- image_filename: 2023_03_18__13_29_DJI_0095.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 168.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0006666666666666666
-  exposure_string: 1/1500 s
-  iso: 140
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 13:29:24.000000000+01:00
-- image_filename: 2023_03_18__14_40_DJI_0131.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 207.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 150
-  width: 8049
-  height: 6027
-  camera: FC3582
-  time: 2023-03-18 14:40:27.000000000+01:00
-- image_filename: 2023_03_18__15_39_DJI_0179.jpg
-  post_slug: 2023-03-19-okolice-kiszkowa
-  altitude: 192.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001379310344827586
-  exposure_string: 1/725 s
-  iso: 150
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-03-18 15:39:37.000000000+01:00
+  time: 2023-03-18 15:51:29.000000000+01:00

@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-02-12-opuszczenie-bialej-krainy
-  lat: 50.74977777777778
-  lon: 15.721111111111112
-  altitude: 1279.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-02-12 10:04:18+01:00
 - image_filename: IMGP2734raw1.jpg
   post_slug: 2017-02-12-opuszczenie-bialej-krainy
   lat: 50.73634722222222
@@ -22,67 +8,11 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-02-12 07:51:20+01:00
-- image_filename: IMGP2776raw1.jpg
-  post_slug: 2017-02-12-opuszczenie-bialej-krainy
-  lat: 50.73865277777778
-  lon: 15.730652777777777
-  altitude: 1393.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 7.1
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-02-12 08:10:27+01:00
-- image_filename: IMGP2782raw1.jpg
-  post_slug: 2017-02-12-opuszczenie-bialej-krainy
-  lat: 50.738791666666664
-  lon: 15.728875
-  altitude: 1383.0
-  focal_length: 31.0
-  focal_length_35: 46.0
-  crop: 1.4838709677419355
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-02-12 08:15:32+01:00
-- image_filename: IMGP2814raw1.jpg
-  post_slug: 2017-02-12-opuszczenie-bialej-krainy
-  lat: 50.74466666666667
-  lon: 15.724763888888889
-  altitude: 1356.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-02-12 09:52:50+01:00
-- image_filename: IMGP2853raw1.jpg
-  post_slug: 2017-02-12-opuszczenie-bialej-krainy
-  lat: 50.74973611111111
-  lon: 15.718083333333334
-  altitude: 1247.0
-  focal_length: 27.0
-  focal_length_35: 40.0
-  crop: 1.4814814814814814
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-02-12 10:11:42+01:00
+  time: 2017-02-12 07:51:20.000000000+01:00
 - image_filename: IMGP2741raw1.jpg
   post_slug: 2017-02-12-opuszczenie-bialej-krainy
   lat: 50.736375
@@ -92,11 +22,39 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2017-02-12 07:54:11+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-12 07:54:11.000000000+01:00
+- image_filename: IMGP2776raw1.jpg
+  post_slug: 2017-02-12-opuszczenie-bialej-krainy
+  lat: 50.73865277777778
+  lon: 15.730652777777777
+  altitude: 1393.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-12 08:10:27.000000000+01:00
+- image_filename: IMGP2782raw1.jpg
+  post_slug: 2017-02-12-opuszczenie-bialej-krainy
+  lat: 50.738791666666664
+  lon: 15.728875
+  altitude: 1383.0
+  focal_length: 31.0
+  focal_length_35: 46.0
+  crop: 1.4838709677419355
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-12 08:15:32.000000000+01:00
 - image_filename: IMGP2811raw1.jpg
   post_slug: 2017-02-12-opuszczenie-bialej-krainy
   lat: 50.7445
@@ -106,8 +64,50 @@
   focal_length_35: 34.0
   crop: 1.4782608695652173
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-02-12 09:52:09+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-12 09:52:09.000000000+01:00
+- image_filename: IMGP2814raw1.jpg
+  post_slug: 2017-02-12-opuszczenie-bialej-krainy
+  lat: 50.74466666666667
+  lon: 15.724763888888889
+  altitude: 1356.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-12 09:52:50.000000000+01:00
+- image_filename: IMGP2853raw1.jpg
+  post_slug: 2017-02-12-opuszczenie-bialej-krainy
+  lat: 50.74973611111111
+  lon: 15.718083333333334
+  altitude: 1247.0
+  focal_length: 27.0
+  focal_length_35: 40.0
+  crop: 1.4814814814814814
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-02-12 10:11:42.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2017-02-12-opuszczenie-bialej-krainy
+  lat: 50.74977777777778
+  lon: 15.721111111111112
+  altitude: 1279.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-12 10:04:18.000000000+01:00

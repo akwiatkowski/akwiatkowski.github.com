@@ -1,46 +1,46 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
-  lat: 52.537887777777776
-  lon: 16.849646944444444
-  altitude: 93.9
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 2.8
-  iso: 400
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2014-08-31 18:25:18+02:00
 - image_filename: IMGP8972raw1.jpg
   post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
-  lat: 52.72356527777778
-  lon: 16.997488055555557
+  lat: 52.72356666666667
+  lon: 16.99748888888889
   altitude: 72.7
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2014-08-31 16:23:06+02:00
+  time: 2014-08-31 16:23:06.000000000+02:00
 - image_filename: IMGP8976raw1.jpg
   post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
-  lat: 52.689909166666666
-  lon: 16.9464325
+  lat: 52.68990833333333
+  lon: 16.946433333333335
   altitude: 81.4
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-08-31 16:44:27+02:00
+  time: 2014-08-31 16:44:27.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
+  lat: 52.53788888888889
+  lon: 16.84964722222222
+  altitude: 93.9
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  time: 2014-08-31 18:25:18.000000000+02:00

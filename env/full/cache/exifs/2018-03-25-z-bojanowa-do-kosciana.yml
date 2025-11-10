@@ -1,116 +1,4 @@
 ---
-- image_filename: IMGP6202raw1.jpg
-  post_slug: 2018-03-25-z-bojanowa-do-kosciana
-  lat: 51.93634722222222
-  lon: 16.738819444444445
-  altitude: 85.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-03-25 11:46:48+02:00
-- image_filename: IMGP6191raw1.jpg
-  post_slug: 2018-03-25-z-bojanowa-do-kosciana
-  lat: 51.7465
-  lon: 16.785111111111114
-  altitude: 100.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-03-25 09:59:39+02:00
-- image_filename: IMGP6196raw1.jpg
-  post_slug: 2018-03-25-z-bojanowa-do-kosciana
-  lat: 51.88858333333333
-  lon: 16.71586111111111
-  altitude: 104.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-03-25 11:02:09+02:00
-- image_filename: IMGP6199raw1.jpg
-  post_slug: 2018-03-25-z-bojanowa-do-kosciana
-  lat: 51.77948611111111
-  lon: 16.79061111111111
-  altitude: 87.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-03-25 11:13:52+02:00
-- image_filename: IMGP6209raw1.jpg
-  post_slug: 2018-03-25-z-bojanowa-do-kosciana
-  lat: 51.94447222222222
-  lon: 16.72623611111111
-  altitude: 74.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-03-25 11:52:15+02:00
-- image_filename: IMGP6210raw1.jpg
-  post_slug: 2018-03-25-z-bojanowa-do-kosciana
-  lat: 52.01177777777778
-  lon: 16.71638888888889
-  altitude: 80.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-03-25 12:11:33+02:00
-- image_filename: IMGP6206raw1.jpg
-  post_slug: 2018-03-25-z-bojanowa-do-kosciana
-  lat: 51.943305555555554
-  lon: 16.727319444444444
-  altitude: 77.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-03-25 11:51:56+02:00
-- image_filename: IMGP6193raw1.jpg
-  post_slug: 2018-03-25-z-bojanowa-do-kosciana
-  lat: 51.863
-  lon: 16.72801388888889
-  altitude: 118.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-03-25 10:48:15+02:00
 - image_filename: IMGP6190raw1.jpg
   post_slug: 2018-03-25-z-bojanowa-do-kosciana
   lat: 51.74568055555556
@@ -120,8 +8,120 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-03-25 09:59:25+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-25 09:59:25.000000000+02:00
+- image_filename: IMGP6191raw1.jpg
+  post_slug: 2018-03-25-z-bojanowa-do-kosciana
+  lat: 51.7465
+  lon: 16.785111111111114
+  altitude: 100.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-25 09:59:39.000000000+02:00
+- image_filename: IMGP6193raw1.jpg
+  post_slug: 2018-03-25-z-bojanowa-do-kosciana
+  lat: 51.863
+  lon: 16.72801388888889
+  altitude: 118.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-25 10:48:15.000000000+02:00
+- image_filename: IMGP6196raw1.jpg
+  post_slug: 2018-03-25-z-bojanowa-do-kosciana
+  lat: 51.88858333333333
+  lon: 16.71586111111111
+  altitude: 104.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-25 11:02:09.000000000+02:00
+- image_filename: IMGP6199raw1.jpg
+  post_slug: 2018-03-25-z-bojanowa-do-kosciana
+  lat: 51.77948611111111
+  lon: 16.79061111111111
+  altitude: 87.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-25 11:13:52.000000000+02:00
+- image_filename: IMGP6202raw1.jpg
+  post_slug: 2018-03-25-z-bojanowa-do-kosciana
+  lat: 51.93634722222222
+  lon: 16.738819444444445
+  altitude: 85.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-25 11:46:48.000000000+02:00
+- image_filename: IMGP6206raw1.jpg
+  post_slug: 2018-03-25-z-bojanowa-do-kosciana
+  lat: 51.943305555555554
+  lon: 16.727319444444444
+  altitude: 77.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-25 11:51:56.000000000+02:00
+- image_filename: IMGP6209raw1.jpg
+  post_slug: 2018-03-25-z-bojanowa-do-kosciana
+  lat: 51.94447222222222
+  lon: 16.72623611111111
+  altitude: 74.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-25 11:52:15.000000000+02:00
+- image_filename: IMGP6210raw1.jpg
+  post_slug: 2018-03-25-z-bojanowa-do-kosciana
+  lat: 52.01177777777778
+  lon: 16.71638888888889
+  altitude: 80.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-25 12:11:33.000000000+02:00

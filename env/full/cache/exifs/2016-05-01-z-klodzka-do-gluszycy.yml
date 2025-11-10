@@ -1,138 +1,138 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-05-01-z-klodzka-do-gluszycy
-  lat: 50.53664944444444
-  lon: 16.46974861111111
-  altitude: 328.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-05-01 11:34:59+02:00
 - image_filename: IMGP9835raw1.jpg
   post_slug: 2016-05-01-z-klodzka-do-gluszycy
-  lat: 50.46181166666667
-  lon: 16.556929722222222
+  lat: 50.46181111111111
+  lon: 16.556930555555557
   altitude: 366.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2016-05-01 10:22:11+02:00
-- image_filename: IMGP9860raw1.jpg
-  post_slug: 2016-05-01-z-klodzka-do-gluszycy
-  lat: 50.52131
-  lon: 16.480921666666664
-  altitude: 347.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-05-01 11:24:53+02:00
-- image_filename: IMGP9914raw1.jpg
-  post_slug: 2016-05-01-z-klodzka-do-gluszycy
-  lat: 50.59536611111111
-  lon: 16.460445277777776
-  altitude: 566.8
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-05-01 14:16:25+02:00
-- image_filename: IMGP9940raw1.jpg
-  post_slug: 2016-05-01-z-klodzka-do-gluszycy
-  lat: 50.638464722222224
-  lon: 16.410886388888887
-  altitude: 556.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-05-01 14:59:51+02:00
-- image_filename: IMGP9943raw1.jpg
-  post_slug: 2016-05-01-z-klodzka-do-gluszycy
-  lat: 50.684515
-  lon: 16.361819166666667
-  altitude: 469.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-05-01 16:07:29+02:00
-- image_filename: IMGP9853raw1.jpg
-  post_slug: 2016-05-01-z-klodzka-do-gluszycy
-  lat: 50.512659166666666
-  lon: 16.50213388888889
-  altitude: 328.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-05-01 11:13:21+02:00
+  time: 2016-05-01 10:22:11.000000000+02:00
 - image_filename: IMGP9840raw1.jpg
   post_slug: 2016-05-01-z-klodzka-do-gluszycy
-  lat: 50.48179694444445
-  lon: 16.56353222222222
+  lat: 50.48179722222223
+  lon: 16.563533333333336
   altitude: 302.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2016-05-01 10:36:16.000000000+02:00
+- image_filename: IMGP9853raw1.jpg
+  post_slug: 2016-05-01-z-klodzka-do-gluszycy
+  lat: 50.512658333333334
+  lon: 16.502133333333333
+  altitude: 328.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2016-05-01 10:36:16+02:00
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-01 11:13:21.000000000+02:00
+- image_filename: IMGP9860raw1.jpg
+  post_slug: 2016-05-01-z-klodzka-do-gluszycy
+  lat: 50.52131111111111
+  lon: 16.48092222222222
+  altitude: 347.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-01 11:24:53.000000000+02:00
 - image_filename: IMGP9873raw1.jpg
   post_slug: 2016-05-01-z-klodzka-do-gluszycy
-  lat: 50.538943055555556
-  lon: 16.46110861111111
+  lat: 50.53894444444444
+  lon: 16.461108333333332
   altitude: 350.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2016-05-01 11:41:31.000000000+02:00
+- image_filename: IMGP9914raw1.jpg
+  post_slug: 2016-05-01-z-klodzka-do-gluszycy
+  lat: 50.59536666666667
+  lon: 16.460444444444445
+  altitude: 566.8
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2016-05-01 11:41:31+02:00
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-05-01 14:16:25.000000000+02:00
+- image_filename: IMGP9940raw1.jpg
+  post_slug: 2016-05-01-z-klodzka-do-gluszycy
+  lat: 50.638463888888886
+  lon: 16.41088611111111
+  altitude: 556.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-01 14:59:51.000000000+02:00
+- image_filename: IMGP9943raw1.jpg
+  post_slug: 2016-05-01-z-klodzka-do-gluszycy
+  lat: 50.68451388888889
+  lon: 16.361819444444446
+  altitude: 469.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-01 16:07:29.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-05-01-z-klodzka-do-gluszycy
+  lat: 50.53665
+  lon: 16.469749999999998
+  altitude: 328.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 2000
+  height: 1326
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-01 11:34:59.000000000+02:00

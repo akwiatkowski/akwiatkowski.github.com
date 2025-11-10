@@ -1,18 +1,4 @@
 ---
-- image_filename: IMGP5363raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60698611111111
-  lon: 18.799847222222223
-  altitude: 4294967296.0
-  focal_length: 500.0
-  focal_length_35: 750.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-02-03 12:39:54+01:00
 - image_filename: IMGP5216raw1.jpg
   post_slug: 2018-02-03-fokarium-na-helu
   lat: 54.45915277777778
@@ -22,159 +8,11 @@
   focal_length_35: 30.0
   crop: 1.5
   aperture: 8.0
+  exposure: 30.0
+  exposure_string: 30 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-03 07:09:13+01:00
-- image_filename: IMGP5237raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.44968055555555
-  lon: 18.56877777777778
-  altitude: 4294967296.0
-  focal_length: 75.0
-  focal_length_35: 112.0
-  crop: 1.4933333333333334
-  aperture: 6.3
-  iso: 800
-  camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2018-02-03 07:39:39+01:00
-- image_filename: IMGP5247raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.449666666666666
-  lon: 18.568819444444443
-  altitude: 4294967296.0
-  focal_length: 13.0
-  focal_length_35: 19.0
-  crop: 1.4615384615384615
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-03 07:51:50+01:00
-- image_filename: IMGP5330raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60702777777778
-  lon: 18.80001388888889
-  altitude: 4294967296.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-02-03 12:31:35+01:00
-- image_filename: IMGP5345raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60711111111111
-  lon: 18.799986111111114
-  altitude: 4294967296.0
-  focal_length: 500.0
-  focal_length_35: 750.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-02-03 12:36:12+01:00
-- image_filename: IMGP5352raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.607
-  lon: 18.799944444444446
-  altitude: 4294967296.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-02-03 12:38:46+01:00
-- image_filename: IMGP5455raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60681944444445
-  lon: 18.800097222222224
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-02-03 14:13:24+01:00
-- image_filename: IMGP5458raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60681944444445
-  lon: 18.800097222222224
-  altitude: 4294967296.0
-  focal_length: 210.0
-  focal_length_35: 315.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-02-03 14:13:32+01:00
-- image_filename: IMGP5505raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  focal_length: 13.0
-  focal_length_35: 19.0
-  crop: 1.4615384615384615
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 10.0
-  exposure_string: 10 s
-  time: 2018-02-03 15:27:40+01:00
-- image_filename: IMGP5517raw2.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-03 15:38:24+01:00
-- image_filename: IMGP5469raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60684722222222
-  lon: 18.800125
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-02-03 14:14:24+01:00
-- image_filename: IMGP5465raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60684722222222
-  lon: 18.800125
-  altitude: 4294967296.0
-  focal_length: 270.0
-  focal_length_35: 405.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-02-03 14:14:01+01:00
+  time: 2018-02-03 07:09:13.000000000+01:00
 - image_filename: IMGP5220raw1true.jpg
   post_slug: 2018-02-03-fokarium-na-helu
   lat: 54.456944444444446
@@ -184,75 +22,25 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
-  time: 2018-02-03 07:14:43+01:00
-- image_filename: IMGP5510raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  focal_length: 12.0
-  focal_length_35: 18.0
-  crop: 1.5
-  aperture: 6.3
   iso: 100
   camera: PENTAX K-S2
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2018-02-03 15:32:46+01:00
-- image_filename: IMGP5500raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60677777777778
-  lon: 18.800083333333333
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-02-03 14:20:13+01:00
-- image_filename: IMGP5347raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  focal_length: 310.0
-  focal_length_35: 465.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-02-03 12:37:19+01:00
-- image_filename: IMGP5428raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60704166666667
-  lon: 18.79993055555556
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 800
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-02-03 13:56:17+01:00
-- image_filename: IMGP5249raw1.jpg
+  time: 2018-02-03 07:14:43.000000000+01:00
+- image_filename: IMGP5237raw1.jpg
   post_slug: 2018-02-03-fokarium-na-helu
   lat: 54.44968055555555
-  lon: 18.568805555555556
+  lon: 18.56877777777778
   altitude: 4294967296.0
-  focal_length: 13.0
-  focal_length_35: 19.0
-  crop: 1.4615384615384615
-  aperture: 10.0
-  iso: 100
+  focal_length: 75.0
+  focal_length_35: 112.0
+  crop: 1.4933333333333334
+  aperture: 6.3
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 800
   camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-03 07:54:09+01:00
+  time: 2018-02-03 07:39:39.000000000+01:00
 - image_filename: IMGP5238raw1.jpg
   post_slug: 2018-02-03-fokarium-na-helu
   lat: 54.44968055555555
@@ -262,47 +50,39 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 6.3
-  iso: 800
-  camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
-  time: 2018-02-03 07:40:46+01:00
-- image_filename: IMGP5522raw1heal.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  focal_length: 12.0
-  focal_length_35: 18.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-03 15:43:49+01:00
-- image_filename: IMGP5450raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60688888888889
-  lon: 18.800069444444446
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 6.3
   iso: 800
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-02-03 14:12:45+01:00
-- image_filename: IMGP5508raw1.jpg
+  time: 2018-02-03 07:40:46.000000000+01:00
+- image_filename: IMGP5247raw1.jpg
   post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.449666666666666
+  lon: 18.568819444444443
+  altitude: 4294967296.0
   focal_length: 13.0
   focal_length_35: 19.0
   crop: 1.4615384615384615
-  aperture: 9.0
+  aperture: 8.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-02-03 07:51:50.000000000+01:00
+- image_filename: IMGP5249raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.44968055555555
+  lon: 18.568805555555556
+  altitude: 4294967296.0
+  focal_length: 13.0
+  focal_length_35: 19.0
+  crop: 1.4615384615384615
+  aperture: 10.0
+  exposure: 30.0
+  exposure_string: 30 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 10.0
-  exposure_string: 10 s
-  time: 2018-02-03 15:31:19+01:00
+  time: 2018-02-03 07:54:09.000000000+01:00
 - image_filename: IMGP5307raw1.jpg
   post_slug: 2018-02-03-fokarium-na-helu
   lat: 54.60702777777778
@@ -312,8 +92,228 @@
   focal_length_35: 465.0
   crop: 1.5
   aperture: 7.1
-  iso: 1000
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2018-02-03 12:27:25+01:00
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2018-02-03 12:27:25.000000000+01:00
+- image_filename: IMGP5330raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60702777777778
+  lon: 18.80001388888889
+  altitude: 4294967296.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-02-03 12:31:35.000000000+01:00
+- image_filename: IMGP5345raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60711111111111
+  lon: 18.799986111111114
+  altitude: 4294967296.0
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-02-03 12:36:12.000000000+01:00
+- image_filename: IMGP5347raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  focal_length: 310.0
+  focal_length_35: 465.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-02-03 12:37:19.000000000+01:00
+- image_filename: IMGP5352raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.607
+  lon: 18.799944444444446
+  altitude: 4294967296.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-02-03 12:38:46.000000000+01:00
+- image_filename: IMGP5363raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60698611111111
+  lon: 18.799847222222223
+  altitude: 4294967296.0
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-02-03 12:39:54.000000000+01:00
+- image_filename: IMGP5428raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60704166666667
+  lon: 18.79993055555556
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2018-02-03 13:56:17.000000000+01:00
+- image_filename: IMGP5450raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60688888888889
+  lon: 18.800069444444446
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2018-02-03 14:12:45.000000000+01:00
+- image_filename: IMGP5455raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60681944444445
+  lon: 18.800097222222224
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2018-02-03 14:13:24.000000000+01:00
+- image_filename: IMGP5458raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60681944444445
+  lon: 18.800097222222224
+  altitude: 4294967296.0
+  focal_length: 210.0
+  focal_length_35: 315.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2018-02-03 14:13:32.000000000+01:00
+- image_filename: IMGP5465raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60684722222222
+  lon: 18.800125
+  altitude: 4294967296.0
+  focal_length: 270.0
+  focal_length_35: 405.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2018-02-03 14:14:01.000000000+01:00
+- image_filename: IMGP5469raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60684722222222
+  lon: 18.800125
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2018-02-03 14:14:24.000000000+01:00
+- image_filename: IMGP5500raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60677777777778
+  lon: 18.800083333333333
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2018-02-03 14:20:13.000000000+01:00
+- image_filename: IMGP5505raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  focal_length: 13.0
+  focal_length_35: 19.0
+  crop: 1.4615384615384615
+  aperture: 8.0
+  exposure: 10.0
+  exposure_string: 10 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-02-03 15:27:40.000000000+01:00
+- image_filename: IMGP5508raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  focal_length: 13.0
+  focal_length_35: 19.0
+  crop: 1.4615384615384615
+  aperture: 9.0
+  exposure: 10.0
+  exposure_string: 10 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-03 15:31:19.000000000+01:00
+- image_filename: IMGP5510raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  focal_length: 12.0
+  focal_length_35: 18.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 6.0
+  exposure_string: 6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-03 15:32:46.000000000+01:00
+- image_filename: IMGP5517raw2.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-03 15:38:24.000000000+01:00
+- image_filename: IMGP5522raw1heal.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  focal_length: 12.0
+  focal_length_35: 18.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-03 15:43:49.000000000+01:00

@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_08_07__06_55__8076872.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41191666666666
-  lon: 17.260152777777776
-  altitude: 131.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5079
-  height: 3792
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 06:55:08+02:00
-  focus_distance: 11.43
 - image_filename: 2019_08_07__06_10__8076641.jpg
   post_slug: 2019-08-07-wielkopolska-balonem
   lat: 52.38934722222222
@@ -26,1077 +8,15 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-08-07 06:10:02+02:00
   focus_distance: 0.61
-- image_filename: 2019_08_07__06_10__8076649.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39008333333333
-  lon: 17.118430555555555
-  altitude: 178.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5136
-  height: 3636
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-07 06:10:51+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_11__8076657.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.390972222222224
-  lon: 17.12184722222222
-  altitude: 333.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5178
-  height: 3866
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-07 06:11:32+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_12__8076664.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.392472222222224
-  lon: 17.12748611111111
-  altitude: 515.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5123
-  height: 3824
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-07 06:12:35+02:00
-  focus_distance: 133.2
-- image_filename: 2019_08_07__06_14__8076674.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.394416666666665
-  lon: 17.13370833333333
-  altitude: 500.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-07 06:14:28+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_16__8076680.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39625
-  lon: 17.13865277777778
-  altitude: 584.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5197
-  height: 3880
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-07 06:16:02+02:00
-  focus_distance: 113.78
-- image_filename: 2019_08_07__06_18__8076692.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39836111111111
-  lon: 17.148027777777777
-  altitude: 537.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5177
-  height: 3865
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-07 06:18:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_18__8076693.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.398513888888886
-  lon: 17.148458333333334
-  altitude: 545.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5069
-  height: 3784
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 06:18:58+02:00
-  focus_distance: 127.0
-- image_filename: 2019_08_07__06_20__8076696.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39976388888889
-  lon: 17.153555555555553
-  altitude: 532.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5191
-  height: 3875
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-08-07 06:20:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_30__8076732.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.402611111111106
-  lon: 17.180777777777777
-  altitude: 228.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-07 06:30:46+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_32__8076744.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40273611111111
-  lon: 17.187986111111112
-  altitude: 319.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-08-07 06:32:34+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_35__8076759.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.402833333333334
-  lon: 17.197555555555557
-  altitude: 282.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 06:35:24+02:00
-  focus_distance: 36.9
-- image_filename: 2019_08_07__06_40__8076791.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.403638888888885
-  lon: 17.21708333333333
-  altitude: 244.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-07 06:40:03+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_40__8076801.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40372222222222
-  lon: 17.21983333333333
-  altitude: 251.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5118
-  height: 3821
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-07 06:40:39+02:00
-  focus_distance: 35.38
-- image_filename: 2019_08_07__06_59__8076910.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.414125
-  lon: 17.275277777777777
-  altitude: 324.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-07 06:59:59+02:00
-  focus_distance: 80.31
-- image_filename: 2019_08_07__07_01__8076919.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41469444444444
-  lon: 17.27883333333333
-  altitude: 361.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5178
-  height: 3866
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 07:01:11+02:00
-  focus_distance: 22.72
-- image_filename: 2019_08_07__07_02__8076932.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41556944444444
-  lon: 17.28386111111111
-  altitude: 316.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3778
-  height: 5060
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 07:02:55+02:00
-  focus_distance: 137.68
-- image_filename: 2019_08_07__07_03__8076938.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41580555555555
-  lon: 17.28602777777778
-  altitude: 266.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 3912
   height: 5240
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-07 07:03:41+02:00
-  focus_distance: 34.06
-- image_filename: 2019_08_07__07_04__8076947.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41586111111111
-  lon: 17.28868055555556
-  altitude: 132.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 07:04:37+02:00
-  focus_distance: 159.07
-- image_filename: 2019_08_07__06_30__8076733.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.402625
-  lon: 17.181625
-  altitude: 249.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:30:56+02:00
-  focus_distance: 31.62
-- image_filename: 2019_08_07__07_03__8076935.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.415708333333335
-  lon: 17.284819444444445
-  altitude: 295.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 07:03:16+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_33__8076753.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40259722222222
-  lon: 17.192180555555556
-  altitude: 299.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-08-07 06:33:48+02:00
-  focus_distance: 237.45
-- image_filename: 2019_08_07__06_41__8076806.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.403749999999995
-  lon: 17.222749999999998
-  altitude: 248.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4958
-  height: 3701
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:41:16+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__07_03__8076936.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41573611111111
-  lon: 17.285097222222223
-  altitude: 290.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5161
-  height: 3853
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-07 07:03:22+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_36__8076765.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40288888888889
-  lon: 17.20213888888889
-  altitude: 271.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5117
-  height: 3820
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 06:36:30+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_13__8076669.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39358333333333
-  lon: 17.131027777777778
-  altitude: 480.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-07 06:13:38+02:00
-  focus_distance: 5.28
-- image_filename: 2019_08_07__07_03__8076941.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.415819444444445
-  lon: 17.28691666666667
-  altitude: 230.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5085
-  height: 3796
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-07 07:03:57+02:00
-  focus_distance: 42.44
-- image_filename: 2019_08_07__06_15__8076679.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39586111111111
-  lon: 17.137486111111112
-  altitude: 574.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-07 06:15:38+02:00
-  focus_distance: 8.52
-- image_filename: 2019_08_07__06_23__8076706.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40025
-  lon: 17.165430555555552
-  altitude: 183.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5130
-  height: 3830
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-07 06:23:56+02:00
-  focus_distance: 21.84
-- image_filename: 2019_08_07__06_39__8076786.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40351388888889
-  lon: 17.213513888888887
-  altitude: 287.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-08-07 06:39:13+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_58__8076894.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41363888888889
-  lon: 17.26908333333333
-  altitude: 285.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5202
-  height: 3883
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-08-07 06:58:17+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_11__8076660.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.391416666666665
-  lon: 17.12315277777778
-  altitude: 397.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5064
-  height: 3780
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-07 06:11:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_22__8076700.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40025
-  lon: 17.160874999999997
-  altitude: 359.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4984
-  height: 3686
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-07 06:22:46+02:00
-  focus_distance: 12.48
-- image_filename: 2019_08_07__06_14__8076675.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.394486111111114
-  lon: 17.133916666666668
-  altitude: 504.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5154
-  height: 3848
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 06:14:32+02:00
-  focus_distance: 96.38
-- image_filename: 2019_08_07__06_32__8076747.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40266666666667
-  lon: 17.189333333333334
-  altitude: 298.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:32:58+02:00
-  focus_distance: 4.84
-- image_filename: 2019_08_07__06_11__8076651.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.390375
-  lon: 17.119319444444447
-  altitude: 212.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5063
-  height: 3779
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-07 06:11:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__07_02__8076928.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41536111111111
-  lon: 17.282666666666664
-  altitude: 335.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5207
-  height: 3887
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 07:02:29+02:00
-  focus_distance: 11.43
-- image_filename: 2019_08_07__06_55__8076874.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.412
-  lon: 17.260569444444446
-  altitude: 120.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4882
-  height: 3645
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-07 06:55:19+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__07_04__8076946.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41583333333333
-  lon: 17.288305555555556
-  altitude: 157.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5143
-  height: 3839
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 07:04:25+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_13__8076670.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39373611111111
-  lon: 17.13151388888889
-  altitude: 481.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5236
-  height: 3909
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-08-07 06:13:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_53__8076865.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41083333333333
-  lon: 17.256611111111113
-  altitude: 147.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-07 06:53:43+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_17__8076686.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39736111111111
-  lon: 17.143319444444444
-  altitude: 500.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-08-07 06:17:22+02:00
-  focus_distance: 124.12
-- image_filename: 2019_08_07__06_57__8076889.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.413805555555555
-  lon: 17.26625
-  altitude: 234.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5180
-  height: 3831
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-07 06:57:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_57__8076884.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.41354166666667
-  lon: 17.264583333333334
-  altitude: 182.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5212
-  height: 3891
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:57:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_36__8076768.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40291666666666
-  lon: 17.204069444444443
-  altitude: 294.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-08-07 06:36:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_13__8076668.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39348611111111
-  lon: 17.130694444444444
-  altitude: 481.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4976
-  height: 3715
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 06:13:32+02:00
-  focus_distance: 6.86
-- image_filename: 2019_08_07__06_45__8076833.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40609722222222
-  lon: 17.239625
-  altitude: 137.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5232
-  height: 3906
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:45:42+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_17__8076684.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.397125
-  lon: 17.14236111111111
-  altitude: 543.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:17:04+02:00
-  focus_distance: 8.02
-- image_filename: 2019_08_07__06_46__8076837.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40648611111111
-  lon: 17.24129166666667
-  altitude: 130.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5030
-  height: 3759
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:46:14+02:00
-  focus_distance: 147.6
-- image_filename: 2019_08_07__06_57__8076890.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.413805555555555
-  lon: 17.266569444444446
-  altitude: 243.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5140
-  height: 3837
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-07 06:57:48+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_42__8076811.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.403958333333335
-  lon: 17.227069444444442
-  altitude: 185.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4929
-  height: 3680
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:42:12+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_14__8076672.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.394305555555555
-  lon: 17.133333333333333
-  altitude: 494.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4982
-  height: 3720
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:14:21+02:00
-  focus_distance: 36.24
-- image_filename: 2019_08_07__06_38__8076779.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40322222222222
-  lon: 17.209958333333333
-  altitude: 308.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5028
-  height: 3565
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:38:19+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_35__8076762.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40284722222222
-  lon: 17.198083333333333
-  altitude: 264.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4934
-  height: 3683
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:35:33+02:00
-  focus_distance: 4.16
-- image_filename: 2019_08_07__06_32__8076742.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40275
-  lon: 17.187472222222222
-  altitude: 325.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5231
-  height: 3905
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-07 06:32:25+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_24__8076711.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40043055555555
-  lon: 17.167180555555557
-  altitude: 136.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 06:24:22+02:00
-  focus_distance: 17.16
-- image_filename: 2019_08_07__06_31__8076735.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.402625
-  lon: 17.181972222222225
-  altitude: 257.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5064
-  height: 3572
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-07 06:31:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_18__8076691.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39791666666667
-  lon: 17.146597222222223
-  altitude: 497.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5168
-  height: 3858
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-07 06:18:22+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_14__8076671.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39422222222222
-  lon: 17.133055555555558
-  altitude: 491.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-07 06:14:16+02:00
-  focus_distance: 81.11
-- image_filename: 2019_08_07__06_37__8076771.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.403
-  lon: 17.205041666666666
-  altitude: 299.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-07 06:37:11+02:00
-  focus_distance: 20.95
+  time: 2019-08-07 06:10:02.000000000+02:00
 - image_filename: 2019_08_07__06_10__8076648.jpg
   post_slug: 2019-08-07-wielkopolska-balonem
   lat: 52.38997222222222
@@ -1106,69 +26,51 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5146
-  height: 3842
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2019-08-07 06:10:46+02:00
   focus_distance: 237.45
-- image_filename: 2019_08_07__06_16__8076683.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.39693055555556
-  lon: 17.141583333333333
-  altitude: 566.0
-  focal_length: 155.0
-  focal_length_35: 310.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
-  lens: M.40-150mm F2.8 + MC-14
+  width: 5146
+  height: 3842
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5110
-  height: 3740
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-07 06:16:50+02:00
-  focus_distance: 56.1
-- image_filename: 2019_08_07__06_44__8076821.jpg
+  time: 2019-08-07 06:10:46.000000000+02:00
+- image_filename: 2019_08_07__06_10__8076649.jpg
   post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.404944444444446
-  lon: 17.234041666666666
-  altitude: 160.0
+  lat: 52.39008333333333
+  lon: 17.118430555555555
+  altitude: 178.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5136
+  height: 3636
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:10:51.000000000+02:00
+- image_filename: 2019_08_07__06_11__8076651.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.390375
+  lon: 17.119319444444447
+  altitude: 212.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5070
-  height: 3678
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2019-08-07 06:44:07+02:00
   focus_distance: 1000.0
-- image_filename: 2019_08_07__06_32__8076746.jpg
-  post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.40272222222222
-  lon: 17.188319444444446
-  altitude: 314.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 8.0
   iso: 200
+  width: 5063
+  height: 3779
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-07 06:32:40+02:00
-  focus_distance: 58.31
+  time: 2019-08-07 06:11:04.000000000+02:00
 - image_filename: 2019_08_07__06_11__8076653.jpg
   post_slug: 2019-08-07-wielkopolska-balonem
   lat: 52.39048611111111
@@ -1178,51 +80,699 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3655
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2019-08-07 06:11:09+02:00
   focus_distance: 287.43
-- image_filename: 2019_08_07__07_00__8076916.jpg
+  iso: 200
+  width: 5240
+  height: 3655
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:11:09.000000000+02:00
+- image_filename: 2019_08_07__06_11__8076657.jpg
   post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.414569444444446
-  lon: 17.27801388888889
-  altitude: 357.0
+  lat: 52.390972222222224
+  lon: 17.12184722222222
+  altitude: 333.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5178
+  height: 3866
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:11:32.000000000+02:00
+- image_filename: 2019_08_07__06_11__8076660.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.391416666666665
+  lon: 17.12315277777778
+  altitude: 397.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5064
+  height: 3780
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:11:47.000000000+02:00
+- image_filename: 2019_08_07__06_12__8076664.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.392472222222224
+  lon: 17.12748611111111
+  altitude: 515.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 133.2
+  iso: 200
+  width: 5123
+  height: 3824
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:12:35.000000000+02:00
+- image_filename: 2019_08_07__06_13__8076668.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39348611111111
+  lon: 17.130694444444444
+  altitude: 481.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 8.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.86
   iso: 200
+  width: 4976
+  height: 3715
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5173
-  height: 3862
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-07 07:00:54+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_07__06_56__8076877.jpg
+  time: 2019-08-07 06:13:32.000000000+02:00
+- image_filename: 2019_08_07__06_13__8076669.jpg
   post_slug: 2019-08-07-wielkopolska-balonem
-  lat: 52.412625
-  lon: 17.26225
-  altitude: 110.0
-  focal_length: 18.0
-  focal_length_35: 36.0
+  lat: 52.39358333333333
+  lon: 17.131027777777778
+  altitude: 480.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.28
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:13:38.000000000+02:00
+- image_filename: 2019_08_07__06_13__8076670.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39373611111111
+  lon: 17.13151388888889
+  altitude: 481.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
   iso: 200
+  width: 5236
+  height: 3909
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5028
-  height: 3754
+  time: 2019-08-07 06:13:47.000000000+02:00
+- image_filename: 2019_08_07__06_14__8076671.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39422222222222
+  lon: 17.133055555555558
+  altitude: 491.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 81.11
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:14:16.000000000+02:00
+- image_filename: 2019_08_07__06_14__8076672.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.394305555555555
+  lon: 17.133333333333333
+  altitude: 494.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 6.3
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-08-07 06:56:13+02:00
+  focus_distance: 36.24
+  iso: 200
+  width: 4982
+  height: 3720
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:14:21.000000000+02:00
+- image_filename: 2019_08_07__06_14__8076674.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.394416666666665
+  lon: 17.13370833333333
+  altitude: 500.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
   focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:14:28.000000000+02:00
+- image_filename: 2019_08_07__06_14__8076675.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.394486111111114
+  lon: 17.133916666666668
+  altitude: 504.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 96.38
+  iso: 200
+  width: 5154
+  height: 3848
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:14:32.000000000+02:00
+- image_filename: 2019_08_07__06_15__8076679.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39586111111111
+  lon: 17.137486111111112
+  altitude: 574.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 8.52
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-08-07 06:15:38.000000000+02:00
+- image_filename: 2019_08_07__06_16__8076680.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39625
+  lon: 17.13865277777778
+  altitude: 584.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 113.78
+  iso: 200
+  width: 5197
+  height: 3880
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-08-07 06:16:02.000000000+02:00
+- image_filename: 2019_08_07__06_16__8076683.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39693055555556
+  lon: 17.141583333333333
+  altitude: 566.0
+  focal_length: 155.0
+  focal_length_35: 310.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 56.1
+  iso: 200
+  width: 5110
+  height: 3740
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-08-07 06:16:50.000000000+02:00
+- image_filename: 2019_08_07__06_17__8076684.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.397125
+  lon: 17.14236111111111
+  altitude: 543.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.02
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-08-07 06:17:04.000000000+02:00
+- image_filename: 2019_08_07__06_17__8076686.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39736111111111
+  lon: 17.143319444444444
+  altitude: 500.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 124.12
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-08-07 06:17:22.000000000+02:00
+- image_filename: 2019_08_07__06_18__8076691.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39791666666667
+  lon: 17.146597222222223
+  altitude: 497.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5168
+  height: 3858
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:18:22.000000000+02:00
+- image_filename: 2019_08_07__06_18__8076692.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39836111111111
+  lon: 17.148027777777777
+  altitude: 537.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5177
+  height: 3865
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:18:50.000000000+02:00
+- image_filename: 2019_08_07__06_18__8076693.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.398513888888886
+  lon: 17.148458333333334
+  altitude: 545.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 127.0
+  iso: 200
+  width: 5069
+  height: 3784
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:18:58.000000000+02:00
+- image_filename: 2019_08_07__06_20__8076696.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.39976388888889
+  lon: 17.153555555555553
+  altitude: 532.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5191
+  height: 3875
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:20:29.000000000+02:00
+- image_filename: 2019_08_07__06_22__8076700.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40025
+  lon: 17.160874999999997
+  altitude: 359.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 12.48
+  iso: 200
+  width: 4984
+  height: 3686
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:22:46.000000000+02:00
+- image_filename: 2019_08_07__06_23__8076706.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40025
+  lon: 17.165430555555552
+  altitude: 183.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 21.84
+  iso: 200
+  width: 5130
+  height: 3830
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:23:56.000000000+02:00
+- image_filename: 2019_08_07__06_24__8076711.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40043055555555
+  lon: 17.167180555555557
+  altitude: 136.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.16
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:24:22.000000000+02:00
+- image_filename: 2019_08_07__06_30__8076732.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.402611111111106
+  lon: 17.180777777777777
+  altitude: 228.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:30:46.000000000+02:00
+- image_filename: 2019_08_07__06_30__8076733.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.402625
+  lon: 17.181625
+  altitude: 249.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 31.62
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:30:56.000000000+02:00
+- image_filename: 2019_08_07__06_31__8076735.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.402625
+  lon: 17.181972222222225
+  altitude: 257.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5064
+  height: 3572
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:31:00.000000000+02:00
+- image_filename: 2019_08_07__06_32__8076742.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40275
+  lon: 17.187472222222222
+  altitude: 325.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5231
+  height: 3905
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:32:25.000000000+02:00
+- image_filename: 2019_08_07__06_32__8076744.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40273611111111
+  lon: 17.187986111111112
+  altitude: 319.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:32:34.000000000+02:00
+- image_filename: 2019_08_07__06_32__8076746.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40272222222222
+  lon: 17.188319444444446
+  altitude: 314.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 58.31
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:32:40.000000000+02:00
+- image_filename: 2019_08_07__06_32__8076747.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40266666666667
+  lon: 17.189333333333334
+  altitude: 298.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.84
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:32:58.000000000+02:00
+- image_filename: 2019_08_07__06_33__8076753.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40259722222222
+  lon: 17.192180555555556
+  altitude: 299.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 237.45
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:33:48.000000000+02:00
+- image_filename: 2019_08_07__06_35__8076759.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.402833333333334
+  lon: 17.197555555555557
+  altitude: 282.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 36.9
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:35:24.000000000+02:00
+- image_filename: 2019_08_07__06_35__8076762.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40284722222222
+  lon: 17.198083333333333
+  altitude: 264.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.16
+  iso: 200
+  width: 4934
+  height: 3683
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:35:33.000000000+02:00
+- image_filename: 2019_08_07__06_36__8076765.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40288888888889
+  lon: 17.20213888888889
+  altitude: 271.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5117
+  height: 3820
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:36:30.000000000+02:00
+- image_filename: 2019_08_07__06_36__8076768.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40291666666666
+  lon: 17.204069444444443
+  altitude: 294.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:36:57.000000000+02:00
+- image_filename: 2019_08_07__06_37__8076771.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.403
+  lon: 17.205041666666666
+  altitude: 299.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 20.95
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:37:11.000000000+02:00
+- image_filename: 2019_08_07__06_38__8076779.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40322222222222
+  lon: 17.209958333333333
+  altitude: 308.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5028
+  height: 3565
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:38:19.000000000+02:00
+- image_filename: 2019_08_07__06_39__8076786.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40351388888889
+  lon: 17.213513888888887
+  altitude: 287.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:39:13.000000000+02:00
+- image_filename: 2019_08_07__06_40__8076791.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.403638888888885
+  lon: 17.21708333333333
+  altitude: 244.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:40:03.000000000+02:00
 - image_filename: 2019_08_07__06_40__8076793.jpg
   post_slug: 2019-08-07-wielkopolska-balonem
   lat: 52.40365277777778
@@ -1232,15 +782,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-08-07 06:40:09+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:40:09.000000000+02:00
 - image_filename: 2019_08_07__06_40__8076797.jpg
   post_slug: 2019-08-07-wielkopolska-balonem
   lat: 52.403666666666666
@@ -1250,15 +800,123 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2019-08-07 06:40:20+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:40:20.000000000+02:00
+- image_filename: 2019_08_07__06_40__8076801.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40372222222222
+  lon: 17.21983333333333
+  altitude: 251.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 35.38
+  iso: 200
+  width: 5118
+  height: 3821
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:40:39.000000000+02:00
+- image_filename: 2019_08_07__06_41__8076806.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.403749999999995
+  lon: 17.222749999999998
+  altitude: 248.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4958
+  height: 3701
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:41:16.000000000+02:00
+- image_filename: 2019_08_07__06_42__8076811.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.403958333333335
+  lon: 17.227069444444442
+  altitude: 185.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4929
+  height: 3680
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:42:12.000000000+02:00
+- image_filename: 2019_08_07__06_44__8076821.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.404944444444446
+  lon: 17.234041666666666
+  altitude: 160.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5070
+  height: 3678
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:44:07.000000000+02:00
+- image_filename: 2019_08_07__06_45__8076833.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40609722222222
+  lon: 17.239625
+  altitude: 137.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5232
+  height: 3906
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:45:42.000000000+02:00
+- image_filename: 2019_08_07__06_46__8076837.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.40648611111111
+  lon: 17.24129166666667
+  altitude: 130.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 147.6
+  iso: 200
+  width: 5030
+  height: 3759
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:46:14.000000000+02:00
 - image_filename: 2019_08_07__06_49__8076855.jpg
   post_slug: 2019-08-07-wielkopolska-balonem
   lat: 52.40823611111111
@@ -1268,12 +926,354 @@
   focal_length_35: 26.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5124
-  height: 3825
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-08-07 06:49:30+02:00
   focus_distance: 3.25
+  iso: 200
+  width: 5124
+  height: 3825
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:49:30.000000000+02:00
+- image_filename: 2019_08_07__06_53__8076865.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41083333333333
+  lon: 17.256611111111113
+  altitude: 147.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:53:43.000000000+02:00
+- image_filename: 2019_08_07__06_55__8076872.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41191666666666
+  lon: 17.260152777777776
+  altitude: 131.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.43
+  iso: 200
+  width: 5079
+  height: 3792
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:55:08.000000000+02:00
+- image_filename: 2019_08_07__06_55__8076874.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.412
+  lon: 17.260569444444446
+  altitude: 120.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4882
+  height: 3645
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:55:19.000000000+02:00
+- image_filename: 2019_08_07__06_56__8076877.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.412625
+  lon: 17.26225
+  altitude: 110.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5028
+  height: 3754
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:56:13.000000000+02:00
+- image_filename: 2019_08_07__06_57__8076884.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41354166666667
+  lon: 17.264583333333334
+  altitude: 182.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5212
+  height: 3891
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:57:18.000000000+02:00
+- image_filename: 2019_08_07__06_57__8076889.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.413805555555555
+  lon: 17.26625
+  altitude: 234.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5180
+  height: 3831
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:57:44.000000000+02:00
+- image_filename: 2019_08_07__06_57__8076890.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.413805555555555
+  lon: 17.266569444444446
+  altitude: 243.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5140
+  height: 3837
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:57:48.000000000+02:00
+- image_filename: 2019_08_07__06_58__8076894.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41363888888889
+  lon: 17.26908333333333
+  altitude: 285.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5202
+  height: 3883
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:58:17.000000000+02:00
+- image_filename: 2019_08_07__06_59__8076910.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.414125
+  lon: 17.275277777777777
+  altitude: 324.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 80.31
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 06:59:59.000000000+02:00
+- image_filename: 2019_08_07__07_00__8076916.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.414569444444446
+  lon: 17.27801388888889
+  altitude: 357.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5173
+  height: 3862
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:00:54.000000000+02:00
+- image_filename: 2019_08_07__07_01__8076919.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41469444444444
+  lon: 17.27883333333333
+  altitude: 361.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.72
+  iso: 200
+  width: 5178
+  height: 3866
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:01:11.000000000+02:00
+- image_filename: 2019_08_07__07_02__8076928.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41536111111111
+  lon: 17.282666666666664
+  altitude: 335.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 11.43
+  iso: 200
+  width: 5207
+  height: 3887
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:02:29.000000000+02:00
+- image_filename: 2019_08_07__07_02__8076932.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41556944444444
+  lon: 17.28386111111111
+  altitude: 316.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 137.68
+  iso: 200
+  width: 3778
+  height: 5060
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:02:55.000000000+02:00
+- image_filename: 2019_08_07__07_03__8076935.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.415708333333335
+  lon: 17.284819444444445
+  altitude: 295.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:03:16.000000000+02:00
+- image_filename: 2019_08_07__07_03__8076936.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41573611111111
+  lon: 17.285097222222223
+  altitude: 290.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5161
+  height: 3853
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:03:22.000000000+02:00
+- image_filename: 2019_08_07__07_03__8076938.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41580555555555
+  lon: 17.28602777777778
+  altitude: 266.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 34.06
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:03:41.000000000+02:00
+- image_filename: 2019_08_07__07_03__8076941.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.415819444444445
+  lon: 17.28691666666667
+  altitude: 230.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 42.44
+  iso: 200
+  width: 5085
+  height: 3796
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:03:57.000000000+02:00
+- image_filename: 2019_08_07__07_04__8076946.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41583333333333
+  lon: 17.288305555555556
+  altitude: 157.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5143
+  height: 3839
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:04:25.000000000+02:00
+- image_filename: 2019_08_07__07_04__8076947.jpg
+  post_slug: 2019-08-07-wielkopolska-balonem
+  lat: 52.41586111111111
+  lon: 17.28868055555556
+  altitude: 132.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 159.07
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-07 07:04:37.000000000+02:00

@@ -1,12 +1,8 @@
 ---
-- image_filename: 2022_07_31__18_45_P7310479.jpg
-  post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-- image_filename: header.jpg
-  post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
 - image_filename: 2024_05_03__08_03_P5030001.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.12888888888889
-  lon: 17.995833333333334
+  lat: 53.12877777777778
+  lon: 17.995722222222224
   altitude: 38.0
   focal_length: 12.0
   aperture: 5.6
@@ -21,8 +17,8 @@
   time: 2024-05-03 08:03:48.000000000+02:00
 - image_filename: 2024_05_03__08_04_P5030002.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.12888888888889
-  lon: 17.995833333333334
+  lat: 53.12877777777778
+  lon: 17.995722222222224
   altitude: 38.0
   focal_length: 29.0
   aperture: 5.6
@@ -37,8 +33,8 @@
   time: 2024-05-03 08:04:05.000000000+02:00
 - image_filename: 2024_05_03__08_04_P5030004.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.12888888888889
-  lon: 17.995833333333334
+  lat: 53.12877777777778
+  lon: 17.995722222222224
   altitude: 38.0
   focal_length: 100.0
   aperture: 4.0
@@ -53,8 +49,8 @@
   time: 2024-05-03 08:04:37.000000000+02:00
 - image_filename: 2024_05_03__10_14_P5030008.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.58694444444445
-  lon: 17.800833333333333
+  lat: 53.586958333333335
+  lon: 17.800875
   altitude: 131.0
   focal_length: 23.0
   aperture: 7.1
@@ -69,8 +65,8 @@
   time: 2024-05-03 10:14:54.000000000+02:00
 - image_filename: 2024_05_03__10_15_P5030011.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.58694444444445
-  lon: 17.800833333333333
+  lat: 53.586958333333335
+  lon: 17.800875
   altitude: 131.0
   focal_length: 86.0
   aperture: 5.0
@@ -85,8 +81,8 @@
   time: 2024-05-03 10:15:38.000000000+02:00
 - image_filename: 2024_05_03__10_15_P5030012.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.58694444444445
-  lon: 17.800833333333333
+  lat: 53.586958333333335
+  lon: 17.800875
   altitude: 131.0
   focal_length: 70.0
   aperture: 5.6
@@ -101,8 +97,8 @@
   time: 2024-05-03 10:15:54.000000000+02:00
 - image_filename: 2024_05_03__10_18_P5030015.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.586666666666666
-  lon: 17.797777777777778
+  lat: 53.586708333333334
+  lon: 17.797861111111114
   altitude: 132.0
   focal_length: 100.0
   aperture: 5.0
@@ -117,8 +113,8 @@
   time: 2024-05-03 10:18:09.000000000+02:00
 - image_filename: 2024_05_03__10_18_P5030016.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.586666666666666
-  lon: 17.797777777777778
+  lat: 53.586708333333334
+  lon: 17.797861111111114
   altitude: 132.0
   focal_length: 100.0
   aperture: 5.0
@@ -133,8 +129,8 @@
   time: 2024-05-03 10:18:22.000000000+02:00
 - image_filename: 2024_05_03__10_27_P5030022.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.581944444444446
-  lon: 17.7675
+  lat: 53.58193055555556
+  lon: 17.767430555555556
   altitude: 138.0
   focal_length: 12.0
   aperture: 8.0
@@ -149,8 +145,8 @@
   time: 2024-05-03 10:27:56.000000000+02:00
 - image_filename: 2024_05_03__10_28_P5030026.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.581944444444446
-  lon: 17.7675
+  lat: 53.58193055555556
+  lon: 17.76738888888889
   altitude: 138.0
   focal_length: 41.0
   aperture: 8.0
@@ -165,7 +161,7 @@
   time: 2024-05-03 10:28:48.000000000+02:00
 - image_filename: 2024_05_03__10_55_P5030028.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60583333333334
+  lat: 53.60594444444445
   lon: 17.706944444444442
   altitude: 116.0
   focal_length: 100.0
@@ -181,8 +177,8 @@
   time: 2024-05-03 10:55:59.000000000+02:00
 - image_filename: 2024_05_03__10_56_P5030029.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60583333333334
-  lon: 17.706944444444442
+  lat: 53.605916666666666
+  lon: 17.706958333333333
   altitude: 117.0
   focal_length: 15.0
   aperture: 5.0
@@ -197,7 +193,7 @@
   time: 2024-05-03 10:56:12.000000000+02:00
 - image_filename: 2024_05_03__10_57_P5030031.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60583333333334
+  lat: 53.605916666666666
   lon: 17.706944444444442
   altitude: 117.0
   focal_length: 66.0
@@ -211,26 +207,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-05-03 10:57:05.000000000+02:00
-- image_filename: 2024_05_03__10_58_P5030034.jpg
-  post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60583333333334
-  lon: 17.70638888888889
-  altitude: 119.0
-  focal_length: 100.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 88.08
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-05-03 10:58:29.000000000+02:00
 - image_filename: 2024_05_03__10_57_P5030033.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60583333333334
-  lon: 17.706944444444442
+  lat: 53.60594444444445
+  lon: 17.70698611111111
   altitude: 117.0
   focal_length: 80.0
   aperture: 4.0
@@ -243,10 +223,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-05-03 10:57:35.000000000+02:00
+- image_filename: 2024_05_03__10_58_P5030034.jpg
+  post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
+  lat: 53.605958333333334
+  lon: 17.706430555555556
+  altitude: 119.0
+  focal_length: 100.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 88.08
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-05-03 10:58:29.000000000+02:00
 - image_filename: 2024_05_03__11_04_P5030036.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.605555555555554
-  lon: 17.688333333333333
+  lat: 53.60551388888889
+  lon: 17.68841666666667
   altitude: 130.0
   focal_length: 100.0
   aperture: 5.6
@@ -261,8 +257,8 @@
   time: 2024-05-03 11:04:17.000000000+02:00
 - image_filename: 2024_05_03__11_04_P5030037.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.605555555555554
-  lon: 17.688333333333333
+  lat: 53.60548611111111
+  lon: 17.68841666666667
   altitude: 129.0
   focal_length: 75.0
   aperture: 5.6
@@ -277,8 +273,8 @@
   time: 2024-05-03 11:04:33.000000000+02:00
 - image_filename: 2024_05_03__11_05_P5030039.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.605555555555554
-  lon: 17.688333333333333
+  lat: 53.60548611111111
+  lon: 17.68841666666667
   altitude: 129.0
   focal_length: 54.0
   aperture: 6.3
@@ -293,8 +289,8 @@
   time: 2024-05-03 11:05:02.000000000+02:00
 - image_filename: 2024_05_03__11_07_P5030040.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60444444444445
-  lon: 17.680833333333336
+  lat: 53.604486111111115
+  lon: 17.68080555555556
   altitude: 129.0
   focal_length: 92.0
   aperture: 5.6
@@ -309,8 +305,8 @@
   time: 2024-05-03 11:07:30.000000000+02:00
 - image_filename: 2024_05_03__11_07_P5030041.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60444444444445
-  lon: 17.680833333333336
+  lat: 53.604486111111115
+  lon: 17.68080555555556
   altitude: 129.0
   focal_length: 100.0
   aperture: 6.3
@@ -325,8 +321,8 @@
   time: 2024-05-03 11:07:45.000000000+02:00
 - image_filename: 2024_05_03__11_18_P5030043.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60305555555556
-  lon: 17.638333333333332
+  lat: 53.60306944444444
+  lon: 17.638194444444444
   altitude: 150.0
   focal_length: 20.0
   aperture: 8.0
@@ -341,8 +337,8 @@
   time: 2024-05-03 11:18:35.000000000+02:00
 - image_filename: 2024_05_03__11_18_P5030044.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60305555555556
-  lon: 17.638333333333332
+  lat: 53.60306944444444
+  lon: 17.638194444444444
   altitude: 150.0
   focal_length: 100.0
   aperture: 5.6
@@ -357,7 +353,7 @@
   time: 2024-05-03 11:18:50.000000000+02:00
 - image_filename: 2024_05_03__11_20_P5030045.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60305555555556
+  lat: 53.60304166666667
   lon: 17.636666666666667
   altitude: 151.0
   focal_length: 20.0
@@ -373,7 +369,7 @@
   time: 2024-05-03 11:20:17.000000000+02:00
 - image_filename: 2024_05_03__11_20_P5030046.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60305555555556
+  lat: 53.60304166666667
   lon: 17.636666666666667
   altitude: 151.0
   focal_length: 57.0
@@ -389,7 +385,7 @@
   time: 2024-05-03 11:20:30.000000000+02:00
 - image_filename: 2024_05_03__11_20_P5030047.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60305555555556
+  lat: 53.60304166666667
   lon: 17.636666666666667
   altitude: 151.0
   focal_length: 57.0
@@ -403,26 +399,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-05-03 11:20:47.000000000+02:00
-- image_filename: 2024_05_03__12_02_P5030049.jpg
-  post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60805555555556
-  lon: 17.546111111111113
-  altitude: 156.0
-  focal_length: 50.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 22.41
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-05-03 12:02:48.000000000+02:00
 - image_filename: 2024_05_03__12_02_P5030048.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.60805555555556
-  lon: 17.546111111111113
+  lat: 53.607930555555555
+  lon: 17.546000000000003
   altitude: 156.0
   focal_length: 100.0
   aperture: 5.6
@@ -435,10 +415,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-05-03 12:02:35.000000000+02:00
+- image_filename: 2024_05_03__12_02_P5030049.jpg
+  post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
+  lat: 53.607930555555555
+  lon: 17.546000000000003
+  altitude: 156.0
+  focal_length: 50.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 22.41
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-05-03 12:02:48.000000000+02:00
 - image_filename: 2024_05_03__12_17_P5030053.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.59805555555556
-  lon: 17.481666666666666
+  lat: 53.59816666666667
+  lon: 17.481583333333333
   altitude: 149.0
   focal_length: 66.0
   aperture: 5.0
@@ -453,8 +449,8 @@
   time: 2024-05-03 12:17:28.000000000+02:00
 - image_filename: 2024_05_03__12_32_P5030056.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.578611111111115
-  lon: 17.423055555555557
+  lat: 53.57852777777778
+  lon: 17.423000000000002
   altitude: 136.0
   focal_length: 25.0
   aperture: 7.1
@@ -469,8 +465,8 @@
   time: 2024-05-03 12:32:13.000000000+02:00
 - image_filename: 2024_05_03__12_32_P5030057.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.578611111111115
-  lon: 17.423055555555557
+  lat: 53.57852777777778
+  lon: 17.423000000000002
   altitude: 136.0
   focal_length: 12.0
   aperture: 7.1
@@ -485,8 +481,8 @@
   time: 2024-05-03 12:32:25.000000000+02:00
 - image_filename: 2024_05_03__12_32_P5030059.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.578611111111115
-  lon: 17.423055555555557
+  lat: 53.57852777777778
+  lon: 17.423000000000002
   altitude: 136.0
   focal_length: 75.0
   aperture: 5.0
@@ -501,8 +497,8 @@
   time: 2024-05-03 12:32:54.000000000+02:00
 - image_filename: 2024_05_03__12_37_P5030063.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.580000000000005
-  lon: 17.419444444444444
+  lat: 53.57994444444445
+  lon: 17.419569444444445
   altitude: 154.0
   focal_length: 47.0
   aperture: 5.6
@@ -515,26 +511,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-05-03 12:37:23.000000000+02:00
-- image_filename: 2024_05_03__13_18_P5030069.jpg
-  post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.55444444444444
-  lon: 17.27777777777778
-  altitude: 155.0
-  focal_length: 28.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 6.35
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-05-03 13:18:12.000000000+02:00
 - image_filename: 2024_05_03__12_46_P5030065.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.58527777777778
-  lon: 17.390833333333333
+  lat: 53.58515277777778
+  lon: 17.390763888888888
   altitude: 161.0
   focal_length: 80.0
   aperture: 5.0
@@ -549,8 +529,8 @@
   time: 2024-05-03 12:46:25.000000000+02:00
 - image_filename: 2024_05_03__12_46_P5030067.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.58527777777778
-  lon: 17.390833333333333
+  lat: 53.58519444444445
+  lon: 17.390763888888888
   altitude: 161.0
   focal_length: 44.0
   aperture: 5.0
@@ -563,10 +543,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-05-03 12:46:57.000000000+02:00
+- image_filename: 2024_05_03__13_18_P5030069.jpg
+  post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
+  lat: 53.554430555555555
+  lon: 17.27788888888889
+  altitude: 155.0
+  focal_length: 28.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.35
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-05-03 13:18:12.000000000+02:00
 - image_filename: 2024_05_03__13_18_P5030070.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
   lat: 53.55444444444444
-  lon: 17.278055555555554
+  lon: 17.277930555555553
   altitude: 155.0
   focal_length: 54.0
   aperture: 5.6
@@ -581,8 +577,8 @@
   time: 2024-05-03 13:18:29.000000000+02:00
 - image_filename: 2024_05_03__14_51_P5030071.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.515
-  lon: 17.155555555555555
+  lat: 53.51486111111111
+  lon: 17.155527777777777
   altitude: 162.0
   focal_length: 38.0
   aperture: 7.1
@@ -597,8 +593,8 @@
   time: 2024-05-03 14:51:22.000000000+02:00
 - image_filename: 2024_05_03__14_51_P5030072.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.514722222222225
-  lon: 17.155555555555555
+  lat: 53.51484722222222
+  lon: 17.155527777777777
   altitude: 162.0
   focal_length: 70.0
   aperture: 4.5
@@ -613,8 +609,8 @@
   time: 2024-05-03 14:51:35.000000000+02:00
 - image_filename: 2024_05_03__14_57_P5030073.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.505
-  lon: 17.134166666666665
+  lat: 53.505069444444445
+  lon: 17.134055555555555
   altitude: 164.0
   focal_length: 100.0
   aperture: 4.0
@@ -629,8 +625,8 @@
   time: 2024-05-03 14:57:05.000000000+02:00
 - image_filename: 2024_05_03__14_57_P5030075.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.505
-  lon: 17.134166666666665
+  lat: 53.505069444444445
+  lon: 17.134055555555555
   altitude: 164.0
   focal_length: 61.0
   aperture: 4.5
@@ -645,8 +641,8 @@
   time: 2024-05-03 14:57:13.000000000+02:00
 - image_filename: 2024_05_03__14_57_P5030076.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.505
-  lon: 17.134166666666665
+  lat: 53.505069444444445
+  lon: 17.134055555555555
   altitude: 164.0
   focal_length: 12.0
   aperture: 6.3
@@ -661,8 +657,8 @@
   time: 2024-05-03 14:57:27.000000000+02:00
 - image_filename: 2024_05_03__14_57_P5030077.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.505
-  lon: 17.134166666666665
+  lat: 53.50505555555556
+  lon: 17.13415277777778
   altitude: 164.0
   focal_length: 34.0
   aperture: 4.5
@@ -677,8 +673,8 @@
   time: 2024-05-03 14:57:59.000000000+02:00
 - image_filename: 2024_05_03__15_01_P5030078.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.50138888888889
-  lon: 17.121666666666666
+  lat: 53.50127777777778
+  lon: 17.121708333333334
   altitude: 157.0
   focal_length: 31.0
   aperture: 6.3
@@ -693,8 +689,8 @@
   time: 2024-05-03 15:01:16.000000000+02:00
 - image_filename: 2024_05_03__15_01_P5030079.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.50138888888889
-  lon: 17.121666666666666
+  lat: 53.50129166666667
+  lon: 17.121694444444444
   altitude: 157.0
   focal_length: 23.0
   aperture: 6.3
@@ -709,8 +705,8 @@
   time: 2024-05-03 15:01:30.000000000+02:00
 - image_filename: 2024_05_03__15_48_P5030081.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.44583333333333
-  lon: 16.973888888888887
+  lat: 53.445874999999994
+  lon: 16.973958333333332
   altitude: 130.0
   focal_length: 16.0
   aperture: 6.3
@@ -725,8 +721,8 @@
   time: 2024-05-03 15:48:14.000000000+02:00
 - image_filename: 2024_05_03__15_48_P5030082.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.44583333333333
-  lon: 16.973888888888887
+  lat: 53.445874999999994
+  lon: 16.973958333333332
   altitude: 129.0
   focal_length: 61.0
   aperture: 5.6
@@ -741,8 +737,8 @@
   time: 2024-05-03 15:48:25.000000000+02:00
 - image_filename: 2024_05_03__15_59_P5030084.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.42777777777778
-  lon: 16.926111111111112
+  lat: 53.427902777777774
+  lon: 16.926000000000002
   altitude: 120.0
   focal_length: 61.0
   aperture: 6.3
@@ -757,8 +753,8 @@
   time: 2024-05-03 15:59:38.000000000+02:00
 - image_filename: 2024_05_03__16_04_P5030088.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.420833333333334
-  lon: 16.91111111111111
+  lat: 53.42093055555555
+  lon: 16.91109722222222
   altitude: 112.0
   focal_length: 75.0
   aperture: 5.0
@@ -773,8 +769,8 @@
   time: 2024-05-03 16:04:38.000000000+02:00
 - image_filename: 2024_05_03__16_04_P5030089.jpg
   post_slug: 2024-05-03-dawno-nie-bylo-tak-ciezko
-  lat: 53.420833333333334
-  lon: 16.91111111111111
+  lat: 53.42091666666666
+  lon: 16.91108333333333
   altitude: 112.0
   focal_length: 12.0
   aperture: 6.3

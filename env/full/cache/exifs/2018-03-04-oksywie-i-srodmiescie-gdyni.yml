@@ -1,144 +1,4 @@
 ---
-- image_filename: IMGP5890raw2.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.51852777777778
-  lon: 18.559319444444444
-  altitude: 4294967296.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 13.0
-  exposure_string: 13 s
-  time: 2018-03-04 16:00:03+01:00
-- image_filename: IMGP5849raw1.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.55381944444444
-  lon: 18.55752777777778
-  altitude: 4294967296.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 20.0
-  exposure_string: 20 s
-  time: 2018-03-04 13:09:04+01:00
-- image_filename: IMGP5858raw1.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.55854166666666
-  lon: 18.552736111111113
-  altitude: 0.0
-  focal_length: 21.0
-  focal_length_35: 31.0
-  crop: 1.4761904761904763
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-03-04 13:25:55+01:00
-- image_filename: IMGP5868raw1.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.519013888888885
-  lon: 18.55979166666667
-  altitude: 4294967296.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-03-04 15:39:26+01:00
-- image_filename: IMGP5886raw1.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.518
-  lon: 18.559805555555556
-  altitude: 4294967296.0
-  focal_length: 39.0
-  focal_length_35: 58.0
-  crop: 1.4871794871794872
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 15.0
-  exposure_string: 15 s
-  time: 2018-03-04 15:54:51+01:00
-- image_filename: IMGP5874raw1.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.519013888888885
-  lon: 18.55966666666667
-  altitude: 4294967296.0
-  focal_length: 24.0
-  focal_length_35: 36.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-03-04 15:45:54+01:00
-- image_filename: IMGP5847raw1.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.552861111111106
-  lon: 18.55836111111111
-  altitude: 4294967296.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 10.0
-  exposure_string: 10 s
-  time: 2018-03-04 13:06:28+01:00
-- image_filename: IMGP5873raw1.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.519041666666666
-  lon: 18.559722222222224
-  altitude: 4294967296.0
-  focal_length: 21.0
-  focal_length_35: 31.0
-  crop: 1.4761904761904763
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-03-04 15:45:44+01:00
-- image_filename: IMGP5848raw2.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.55347222222222
-  lon: 18.557819444444444
-  altitude: 4294967296.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 20.0
-  exposure_string: 20 s
-  time: 2018-03-04 13:07:27+01:00
-- image_filename: IMGP5864raw1.jpg
-  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
-  lat: 54.55894444444444
-  lon: 18.55076388888889
-  altitude: 28.0
-  focal_length: 75.0
-  focal_length_35: 112.0
-  crop: 1.4933333333333334
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2018-03-04 13:35:07+01:00
 - image_filename: IMGP5846raw1.jpg
   post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
   lat: 54.552791666666664
@@ -148,11 +8,81 @@
   focal_length_35: 21.0
   crop: 1.5
   aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 15.0
   exposure_string: 15 s
-  time: 2018-03-04 13:04:54+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 13:04:54.000000000+01:00
+- image_filename: IMGP5847raw1.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.552861111111106
+  lon: 18.55836111111111
+  altitude: 4294967296.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 16.0
+  exposure: 10.0
+  exposure_string: 10 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 13:06:28.000000000+01:00
+- image_filename: IMGP5848raw2.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.55347222222222
+  lon: 18.557819444444444
+  altitude: 4294967296.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 16.0
+  exposure: 20.0
+  exposure_string: 20 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 13:07:27.000000000+01:00
+- image_filename: IMGP5849raw1.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.55381944444444
+  lon: 18.55752777777778
+  altitude: 4294967296.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 16.0
+  exposure: 20.0
+  exposure_string: 20 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 13:09:04.000000000+01:00
+- image_filename: IMGP5858raw1.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.55854166666666
+  lon: 18.552736111111113
+  altitude: 0.0
+  focal_length: 21.0
+  focal_length_35: 31.0
+  crop: 1.4761904761904763
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 13:25:55.000000000+01:00
+- image_filename: IMGP5864raw1.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.55894444444444
+  lon: 18.55076388888889
+  altitude: 28.0
+  focal_length: 75.0
+  focal_length_35: 112.0
+  crop: 1.4933333333333334
+  aperture: 11.0
+  exposure: 8.0
+  exposure_string: 8 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 13:35:07.000000000+01:00
 - image_filename: IMGP5865raw1.jpg
   post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
   lat: 54.51922222222222
@@ -162,11 +92,53 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2018-03-04 15:35:24+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 15:35:24.000000000+01:00
+- image_filename: IMGP5868raw1.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.519013888888885
+  lon: 18.55979166666667
+  altitude: 4294967296.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 15:39:26.000000000+01:00
+- image_filename: IMGP5873raw1.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.519041666666666
+  lon: 18.559722222222224
+  altitude: 4294967296.0
+  focal_length: 21.0
+  focal_length_35: 31.0
+  crop: 1.4761904761904763
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 15:45:44.000000000+01:00
+- image_filename: IMGP5874raw1.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.519013888888885
+  lon: 18.55966666666667
+  altitude: 4294967296.0
+  focal_length: 24.0
+  focal_length_35: 36.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 15:45:54.000000000+01:00
 - image_filename: IMGP5877raw1.jpg
   post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
   lat: 54.519013888888885
@@ -176,8 +148,36 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2018-03-04 15:46:15+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 15:46:15.000000000+01:00
+- image_filename: IMGP5886raw1.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.518
+  lon: 18.559805555555556
+  altitude: 4294967296.0
+  focal_length: 39.0
+  focal_length_35: 58.0
+  crop: 1.4871794871794872
+  aperture: 16.0
+  exposure: 15.0
+  exposure_string: 15 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 15:54:51.000000000+01:00
+- image_filename: IMGP5890raw2.jpg
+  post_slug: 2018-03-04-oksywie-i-srodmiescie-gdyni
+  lat: 54.51852777777778
+  lon: 18.559319444444444
+  altitude: 4294967296.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 14.0
+  exposure: 13.0
+  exposure_string: 13 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-03-04 16:00:03.000000000+01:00

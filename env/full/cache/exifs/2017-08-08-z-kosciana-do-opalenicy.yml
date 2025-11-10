@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-08-08-z-kosciana-do-opalenicy
-  lat: 52.26759722222222
-  lon: 16.439625
-  altitude: 76.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-08-08 17:53:58+02:00
 - image_filename: IMGP0107raw1.jpg
   post_slug: 2017-08-08-z-kosciana-do-opalenicy
   lat: 52.150749999999995
@@ -22,11 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-08-08 16:29:33+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-08 16:29:33.000000000+02:00
 - image_filename: IMGP0109raw1.jpg
   post_slug: 2017-08-08-z-kosciana-do-opalenicy
   lat: 52.19784722222222
@@ -36,67 +22,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2017-08-08 16:44:09+02:00
-- image_filename: IMGP0118raw1.jpg
-  post_slug: 2017-08-08-z-kosciana-do-opalenicy
-  lat: 52.24743055555555
-  lon: 16.46486111111111
-  altitude: 72.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-08-08 17:39:50+02:00
-- image_filename: IMGP0126raw1.jpg
-  post_slug: 2017-08-08-z-kosciana-do-opalenicy
-  lat: 52.267625
-  lon: 16.43936111111111
-  altitude: 75.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-08-08 17:55:20+02:00
-- image_filename: IMGP0115raw1.jpg
-  post_slug: 2017-08-08-z-kosciana-do-opalenicy
-  lat: 52.22870833333334
-  lon: 16.484347222222222
-  altitude: 74.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-08-08 17:32:24+02:00
-- image_filename: IMGP0127raw1.jpg
-  post_slug: 2017-08-08-z-kosciana-do-opalenicy
-  lat: 52.267625
-  lon: 16.439375000000002
-  altitude: 75.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 13.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-08-08 17:55:25+02:00
+  time: 2017-08-08 16:44:09.000000000+02:00
 - image_filename: IMGP0111raw1.jpg
   post_slug: 2017-08-08-z-kosciana-do-opalenicy
   lat: 52.19786111111111
@@ -106,8 +36,78 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 500
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-08-08 16:44:26+02:00
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-08-08 16:44:26.000000000+02:00
+- image_filename: IMGP0115raw1.jpg
+  post_slug: 2017-08-08-z-kosciana-do-opalenicy
+  lat: 52.22870833333334
+  lon: 16.484347222222222
+  altitude: 74.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-08 17:32:24.000000000+02:00
+- image_filename: IMGP0118raw1.jpg
+  post_slug: 2017-08-08-z-kosciana-do-opalenicy
+  lat: 52.24743055555555
+  lon: 16.46486111111111
+  altitude: 72.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-08-08 17:39:50.000000000+02:00
+- image_filename: IMGP0126raw1.jpg
+  post_slug: 2017-08-08-z-kosciana-do-opalenicy
+  lat: 52.267625
+  lon: 16.43936111111111
+  altitude: 75.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-08-08 17:55:20.000000000+02:00
+- image_filename: IMGP0127raw1.jpg
+  post_slug: 2017-08-08-z-kosciana-do-opalenicy
+  lat: 52.267625
+  lon: 16.439375000000002
+  altitude: 75.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 13.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-08-08 17:55:25.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-08-08-z-kosciana-do-opalenicy
+  lat: 52.26759722222222
+  lon: 16.439625
+  altitude: 76.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-08 17:53:58.000000000+02:00

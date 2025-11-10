@@ -1,60 +1,60 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
-  lat: 50.861042777777776
-  lon: 15.879617777777778
-  altitude: 470.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2015-06-06 16:00:30+02:00
 - image_filename: IMGP0436raw1.jpg
   post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
-  lat: 50.81816555555556
-  lon: 15.679405833333332
+  lat: 50.81816666666667
+  lon: 15.679405555555554
   altitude: 428.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
   iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2015-06-06 12:34:31+02:00
+  time: 2015-06-06 12:34:31.000000000+02:00
 - image_filename: IMGP0481raw1.jpg
   post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
   lat: 50.86419444444444
-  lon: 15.868344722222222
+  lon: 15.868344444444444
   altitude: 642.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-06-06 17:09:00+02:00
+  time: 2015-06-06 17:09:00.000000000+02:00
 - image_filename: IMGP0485raw1.jpg
   post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-06-06 19:10:39+02:00
+  time: 2015-06-06 19:10:39.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  lat: 50.861041666666665
+  lon: 15.879616666666667
+  altitude: 470.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-06-06 16:00:30.000000000+02:00

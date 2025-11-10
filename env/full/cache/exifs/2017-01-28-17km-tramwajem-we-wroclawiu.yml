@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-01-28-17km-tramwajem-we-wroclawiu
-  lat: 51.144333333333336
-  lon: 16.872319444444447
-  altitude: 117.0
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-01-28 11:58:58+01:00
 - image_filename: IMGP5957raw1.jpg
   post_slug: 2017-01-28-17km-tramwajem-we-wroclawiu
   lat: 51.144875
@@ -22,25 +8,11 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-5
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2017-01-28 11:54:19+01:00
-- image_filename: IMGP5985raw1.jpg
-  post_slug: 2017-01-28-17km-tramwajem-we-wroclawiu
-  lat: 51.077444444444446
-  lon: 17.083875
-  altitude: 125.0
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 8.0
   iso: 200
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-28 13:07:07+01:00
+  time: 2017-01-28 11:54:19.000000000+01:00
 - image_filename: IMGP5965raw1.jpg
   post_slug: 2017-01-28-17km-tramwajem-we-wroclawiu
   lat: 51.14411111111111
@@ -50,11 +22,11 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-5
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2017-01-28 12:00:18+01:00
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-28 12:00:18.000000000+01:00
 - image_filename: IMGP5975raw1.jpg
   post_slug: 2017-01-28-17km-tramwajem-we-wroclawiu
   lat: 51.142125
@@ -64,8 +36,36 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-5
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2017-01-28 12:14:36+01:00
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-28 12:14:36.000000000+01:00
+- image_filename: IMGP5985raw1.jpg
+  post_slug: 2017-01-28-17km-tramwajem-we-wroclawiu
+  lat: 51.077444444444446
+  lon: 17.083875
+  altitude: 125.0
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-28 13:07:07.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2017-01-28-17km-tramwajem-we-wroclawiu
+  lat: 51.144333333333336
+  lon: 16.872319444444447
+  altitude: 117.0
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-28 11:58:58.000000000+01:00

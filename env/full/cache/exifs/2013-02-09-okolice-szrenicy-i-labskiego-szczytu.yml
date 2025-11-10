@@ -1,405 +1,405 @@
 ---
-- image_filename: IMGP8806b.jpg
+- image_filename: IMGP8352b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78666
-  lon: 15.53549638888889
-  altitude: 1208.0
+  lat: 50.79736111111111
+  lon: 15.51613888888889
+  altitude: 1220.1
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 9.0
-  iso: 100
+  aperture: 20.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2013-02-09 13:40:11+01:00
+  time: 2013-02-09 10:07:27.000000000+01:00
 - image_filename: IMGP8398b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.79464333333333
-  lon: 15.51475138888889
+  lat: 50.794644444444444
+  lon: 15.514752777777778
   altitude: 1327.7
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2013-02-09 10:14:27+01:00
+  time: 2013-02-09 10:14:27.000000000+01:00
+- image_filename: IMGP8399b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.794644444444444
+  lon: 15.514752777777778
+  altitude: 1327.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 10:14:36.000000000+01:00
 - image_filename: IMGP8424b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.79208666666666
-  lon: 15.513459444444445
+  lat: 50.79208611111111
+  lon: 15.513458333333332
   altitude: 1371.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-02-09 10:24:17+01:00
-- image_filename: IMGP8512b.jpg
+  time: 2013-02-09 10:24:17.000000000+01:00
+- image_filename: IMGP8484b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.784821944444445
-  lon: 15.515898333333332
-  altitude: 1294.6
+  lat: 50.788647222222224
+  lon: 15.513427777777778
+  altitude: 1306.1
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-02-09 11:39:27+01:00
-- image_filename: IMGP8537b.jpg
+  time: 2013-02-09 11:25:04.000000000+01:00
+- image_filename: IMGP8496b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78423861111111
-  lon: 15.516812222222223
-  altitude: 1311.9
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-02-09 11:44:02+01:00
-- image_filename: IMGP8714b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.780885
-  lon: 15.534726944444444
-  altitude: 1391.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-02-09 13:16:23+01:00
-- image_filename: IMGP8760b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78419944444444
-  lon: 15.533979166666667
-  altitude: 1287.8
+  lat: 50.78765
+  lon: 15.513588888888888
+  altitude: 1296.0
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-02-09 13:26:45+01:00
-- image_filename: IMGP8838b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.2
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2013-02-09 19:21:15+01:00
-- image_filename: IMGP8561b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.779487777777774
-  lon: 15.529589166666668
-  altitude: 1400.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-02-09 12:14:04+01:00
-- image_filename: IMGP8753b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78379472222222
-  lon: 15.534035555555555
-  altitude: 1302.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-02-09 13:25:41+01:00
-- image_filename: IMGP8809b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78726861111111
-  lon: 15.535868333333333
-  altitude: 1189.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2013-02-09 13:41:32+01:00
-- image_filename: IMGP8715b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78107027777778
-  lon: 15.5346175
-  altitude: 1387.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-02-09 13:16:58+01:00
-- image_filename: IMGP8732b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78230722222222
-  lon: 15.5341425
-  altitude: 1353.7
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-02-09 13:22:05+01:00
-- image_filename: IMGP8765b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78449388888889
-  lon: 15.533995555555556
-  altitude: 1277.7
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-02-09 13:27:48+01:00
-- image_filename: IMGP8607b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.77997277777778
-  lon: 15.544824444444444
-  altitude: 1445.5
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2013-02-09 12:57:12+01:00
+  time: 2013-02-09 11:32:50.000000000+01:00
 - image_filename: IMGP8509b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.785019999999996
+  lat: 50.785019444444444
   lon: 15.515680555555555
   altitude: 1289.8
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2013-02-09 11:38:21+01:00
-- image_filename: IMGP8777b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78503361111111
-  lon: 15.534095833333334
-  altitude: 1258.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-02-09 13:29:39+01:00
-- image_filename: IMGP8613b.jpg
+  time: 2013-02-09 11:38:21.000000000+01:00
+- image_filename: IMGP8512b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78004361111111
-  lon: 15.544109722222222
-  altitude: 1441.2
+  lat: 50.78482222222222
+  lon: 15.515897222222222
+  altitude: 1294.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2013-02-09 12:57:59+01:00
-- image_filename: IMGP8496b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78765
-  lon: 15.513587777777778
-  altitude: 1296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
+  aperture: 8.0
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2013-02-09 11:32:50+01:00
-- image_filename: IMGP8625b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.780073888888886
-  lon: 15.543846666666667
-  altitude: 1439.7
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2013-02-09 12:58:08+01:00
-- image_filename: IMGP8691b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.77965833333333
-  lon: 15.53644861111111
-  altitude: 1408.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-02-09 13:12:37+01:00
+  time: 2013-02-09 11:39:27.000000000+01:00
 - image_filename: IMGP8530b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78436333333333
-  lon: 15.516206111111112
+  lat: 50.78436388888889
+  lon: 15.516205555555555
   altitude: 1304.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-02-09 11:41:30+01:00
-- image_filename: header.jpg
+  time: 2013-02-09 11:41:30.000000000+01:00
+- image_filename: IMGP8537b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78145361111111
-  lon: 15.534435
-  altitude: 1378.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
+  lat: 50.784238888888886
+  lon: 15.516811111111112
+  altitude: 1311.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-02-09 13:18:40+01:00
+  time: 2013-02-09 11:44:02.000000000+01:00
 - image_filename: IMGP8549b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.779466388888885
+  lat: 50.779466666666664
   lon: 15.524011111111111
   altitude: 1377.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-02-09 11:59:54+01:00
-- image_filename: IMGP8352b.jpg
+  time: 2013-02-09 11:59:54.000000000+01:00
+- image_filename: IMGP8561b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.79736111111111
-  lon: 15.516139166666667
-  altitude: 1220.1
+  lat: 50.779488888888885
+  lon: 15.52958888888889
+  altitude: 1400.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-02-09 12:14:04.000000000+01:00
+- image_filename: IMGP8607b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.77997222222222
+  lon: 15.544825
+  altitude: 1445.5
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 20.0
+  aperture: 5.6
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2013-02-09 10:07:27+01:00
-- image_filename: IMGP8399b.jpg
+  time: 2013-02-09 12:57:12.000000000+01:00
+- image_filename: IMGP8613b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.79464333333333
-  lon: 15.51475138888889
-  altitude: 1327.7
+  lat: 50.78004444444444
+  lon: 15.54411111111111
+  altitude: 1441.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 8.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-02-09 10:14:36+01:00
-- image_filename: IMGP8484b.jpg
+  time: 2013-02-09 12:57:59.000000000+01:00
+- image_filename: IMGP8625b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.788648055555555
-  lon: 15.513429166666667
-  altitude: 1306.1
+  lat: 50.780075
+  lon: 15.543847222222222
+  altitude: 1439.7
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 8.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 12:58:08.000000000+01:00
+- image_filename: IMGP8691b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.77965833333333
+  lon: 15.53645
+  altitude: 1408.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-02-09 11:25:04+01:00
+  time: 2013-02-09 13:12:37.000000000+01:00
+- image_filename: IMGP8714b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.78088611111111
+  lon: 15.534727777777778
+  altitude: 1391.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:16:23.000000000+01:00
+- image_filename: IMGP8715b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.78106944444444
+  lon: 15.534616666666667
+  altitude: 1387.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:16:58.000000000+01:00
+- image_filename: IMGP8732b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.78230833333333
+  lon: 15.534141666666667
+  altitude: 1353.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:22:05.000000000+01:00
+- image_filename: IMGP8753b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.783794444444446
+  lon: 15.534036111111112
+  altitude: 1302.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:25:41.000000000+01:00
+- image_filename: IMGP8760b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.7842
+  lon: 15.533977777777778
+  altitude: 1287.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:26:45.000000000+01:00
+- image_filename: IMGP8765b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.78449444444444
+  lon: 15.533994444444444
+  altitude: 1277.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:27:48.000000000+01:00
+- image_filename: IMGP8777b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.78503333333333
+  lon: 15.534094444444444
+  altitude: 1258.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:29:39.000000000+01:00
+- image_filename: IMGP8806b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.78666111111111
+  lon: 15.535497222222222
+  altitude: 1208.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:40:11.000000000+01:00
+- image_filename: IMGP8809b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.78726944444444
+  lon: 15.535869444444444
+  altitude: 1189.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:41:32.000000000+01:00
+- image_filename: IMGP8838b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.2
+  exposure: 8.0
+  exposure_string: 8 s
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 19:21:15.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.78145277777778
+  lon: 15.534436111111111
+  altitude: 1378.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 2048
+  height: 1356
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-09 13:18:40.000000000+01:00

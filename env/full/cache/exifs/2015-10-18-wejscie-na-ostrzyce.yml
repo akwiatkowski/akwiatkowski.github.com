@@ -1,185 +1,185 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.05604888888889
-  lon: 15.763335277777777
-  altitude: 507.7
-  focal_length: 310.0
-  focal_length_35: 465.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-10-18 13:34:09+02:00
 - image_filename: IMGP5558raw1
   post_slug: 2015-10-18-wejscie-na-ostrzyce
-- image_filename: IMGP5673raw1-1.jpg
-  post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.05605277777777
-  lon: 15.763085277777778
-  altitude: 503.4
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 400
-  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-10-18 13:22:47+02:00
-- image_filename: IMGP5734raw1.jpg
-  post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.05605611111111
-  lon: 15.763325555555555
-  altitude: 507.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-10-18 13:28:14+02:00
-- image_filename: IMGP5777raw1.jpg
-  post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.056057499999994
-  lon: 15.763338611111111
-  altitude: 507.7
-  focal_length: 340.0
-  focal_length_35: 510.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-10-18 13:37:33+02:00
-- image_filename: IMGP5726raw1.jpg
-  post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.05605805555555
-  lon: 15.763325555555555
-  altitude: 507.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-10-18 13:27:13+02:00
-- image_filename: IMGP5787raw1.jpg
-  post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.05605138888889
-  lon: 15.76334
-  altitude: 507.2
-  focal_length: 440.0
-  focal_length_35: 660.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-10-18 13:39:04+02:00
-- image_filename: IMGP5866raw1.jpg
-  post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.294647499999996
-  lon: 16.378320000000002
-  altitude: 96.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-10-18 17:16:19+02:00
 - image_filename: IMGP5558raw1.jpg
   post_slug: 2015-10-18-wejscie-na-ostrzyce
   lat: 51.03595833333333
-  lon: 15.870246388888889
+  lon: 15.870247222222222
   altitude: 361.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
+  time: 2015-10-18 10:33:37.000000000+02:00
+- image_filename: IMGP5596raw1.jpg
+  post_slug: 2015-10-18-wejscie-na-ostrzyce
+  lat: 51.03646388888889
+  lon: 15.831636111111111
+  altitude: 294.8
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-10-18 11:13:37.000000000+02:00
+- image_filename: IMGP5673raw1-1.jpg
+  post_slug: 2015-10-18-wejscie-na-ostrzyce
+  lat: 51.05605277777777
+  lon: 15.763086111111111
+  altitude: 503.4
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
+  camera: PENTAX K-5
+  time: 2015-10-18 13:22:47.000000000+02:00
+- image_filename: IMGP5676raw1.jpg
+  post_slug: 2015-10-18-wejscie-na-ostrzyce
+  lat: 51.05604444444444
+  lon: 15.763208333333333
+  altitude: 507.7
+  focal_length: 340.0
+  focal_length_35: 510.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
+  camera: PENTAX K-5
+  time: 2015-10-18 13:23:10.000000000+02:00
+- image_filename: IMGP5726raw1.jpg
+  post_slug: 2015-10-18-wejscie-na-ostrzyce
+  lat: 51.05605833333333
+  lon: 15.763325
+  altitude: 507.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2015-10-18 10:33:37+02:00
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-10-18 13:27:13.000000000+02:00
+- image_filename: IMGP5734raw1.jpg
+  post_slug: 2015-10-18-wejscie-na-ostrzyce
+  lat: 51.05605555555555
+  lon: 15.763325
+  altitude: 507.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-10-18 13:28:14.000000000+02:00
 - image_filename: IMGP5756raw1.jpg
   post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.05605527777777
+  lat: 51.05605555555555
   lon: 15.763333333333334
   altitude: 507.7
   focal_length: 500.0
   focal_length_35: 750.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 400
   lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-10-18 13:33:39+02:00
+  time: 2015-10-18 13:33:39.000000000+02:00
 - image_filename: IMGP5759raw1.jpg
   post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.05604888888889
-  lon: 15.763335277777777
+  lat: 51.05605
+  lon: 15.76333611111111
   altitude: 507.7
   focal_length: 310.0
   focal_length_35: 465.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 400
   lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-10-18 13:34:09+02:00
-- image_filename: IMGP5676raw1.jpg
+  time: 2015-10-18 13:34:09.000000000+02:00
+- image_filename: IMGP5777raw1.jpg
   post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.056044166666666
-  lon: 15.76320861111111
+  lat: 51.05605833333333
+  lon: 15.763338888888889
   altitude: 507.7
   focal_length: 340.0
   focal_length_35: 510.0
   crop: 1.5
-  aperture: 7.1
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 400
   lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
   camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2015-10-18 13:23:10+02:00
-- image_filename: IMGP5596raw1.jpg
+  time: 2015-10-18 13:37:33.000000000+02:00
+- image_filename: IMGP5787raw1.jpg
   post_slug: 2015-10-18-wejscie-na-ostrzyce
-  lat: 51.03646444444444
-  lon: 15.831635277777778
-  altitude: 294.8
-  focal_length: 70.0
-  focal_length_35: 105.0
+  lat: 51.05605277777777
+  lon: 15.763338888888889
+  altitude: 507.2
+  focal_length: 440.0
+  focal_length_35: 660.0
   crop: 1.5
   aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-10-18 11:13:37+02:00
+  time: 2015-10-18 13:39:04.000000000+02:00
+- image_filename: IMGP5866raw1.jpg
+  post_slug: 2015-10-18-wejscie-na-ostrzyce
+  lat: 51.29464722222222
+  lon: 16.378319444444443
+  altitude: 96.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-10-18 17:16:19.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2015-10-18-wejscie-na-ostrzyce
+  lat: 51.05605
+  lon: 15.76333611111111
+  altitude: 507.7
+  focal_length: 310.0
+  focal_length_35: 465.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 2048
+  height: 1358
+  lens: Sigma 150-500mm F5-6.3 APO DG OS HSM
+  camera: PENTAX K-5
+  time: 2015-10-18 13:34:09.000000000+02:00

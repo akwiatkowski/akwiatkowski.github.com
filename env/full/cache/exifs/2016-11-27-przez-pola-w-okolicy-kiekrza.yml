@@ -1,20 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
-  lat: 52.48323611111111
-  lon: 16.812875000000002
-  altitude: 77.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-11-27 13:32:02+01:00
 - image_filename: IMGP0036raw1.jpg
   post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
   lat: 52.452041666666666
@@ -24,11 +8,11 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 4.5
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-11-27 11:28:53+01:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-11-27 11:28:53.000000000+01:00
 - image_filename: IMGP0051raw1.jpg
   post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
   lat: 52.474111111111114
@@ -38,11 +22,11 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2016-11-27 12:04:06+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-27 12:04:06.000000000+01:00
 - image_filename: IMGP0103raw1.jpg
   post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
   lat: 52.48394444444445
@@ -52,39 +36,11 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
-  iso: 500
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-11-27 13:20:55+01:00
-- image_filename: IMGP0172raw1.jpg
-  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
-  lat: 52.474916666666665
-  lon: 16.829333333333334
-  altitude: 82.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 5.6
-  iso: 100
+  iso: 500
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-11-27 14:00:28+01:00
-- image_filename: IMGP0201raw1.jpg
-  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
-  lat: 52.46554166666667
-  lon: 16.82661111111111
-  altitude: 73.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 2.8
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2016-11-27 14:18:30+01:00
+  time: 2016-11-27 13:20:55.000000000+01:00
 - image_filename: IMGP0126raw1.jpg
   post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
   lat: 52.48341666666667
@@ -94,8 +50,52 @@
   focal_length_35: 33.0
   crop: 1.5
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-11-27 13:30:18+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-27 13:30:18.000000000+01:00
+- image_filename: IMGP0172raw1.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.474916666666665
+  lon: 16.829333333333334
+  altitude: 82.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-27 14:00:28.000000000+01:00
+- image_filename: IMGP0201raw1.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.46554166666667
+  lon: 16.82661111111111
+  altitude: 73.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 2.8
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-11-27 14:18:30.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.48323611111111
+  lon: 16.812875000000002
+  altitude: 77.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-11-27 13:32:02.000000000+01:00

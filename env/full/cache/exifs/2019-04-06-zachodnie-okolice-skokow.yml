@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_04_06__12_26_P4060140.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.69294444444444
-  lon: 17.07022222222222
-  altitude: 92.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4520
-  height: 3372
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-04-06 12:26:48+02:00
-  focus_distance: 210.48
 - image_filename: 2019_04_06__10_54_P4060002.jpg
   post_slug: 2019-04-06-zachodnie-okolice-skokow
   lat: 52.69302777777777
@@ -26,897 +8,15 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
   iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
   width: 4531
   height: 3391
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-04-06 10:54:13+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_06__11_07_P4060019.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.70365277777778
-  lon: 17.110805555555558
-  altitude: 78.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-04-06 11:07:04+02:00
-  focus_distance: 7.61
-- image_filename: 2019_04_06__11_13_P4060037.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.704208333333334
-  lon: 17.10640277777778
-  altitude: 67.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-04-06 11:13:43+02:00
-  focus_distance: 0.25
-- image_filename: 2019_04_06__11_17_P4060080.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.70419444444445
-  lon: 17.10638888888889
-  altitude: 68.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-04-06 11:17:34+02:00
-  focus_distance: 0.36
-- image_filename: 2019_04_06__11_19_P4060084.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.704236111111115
-  lon: 17.10640277777778
-  altitude: 68.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4464
-  height: 3341
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-04-06 11:19:29+02:00
-  focus_distance: 12.15
-- image_filename: 2019_04_06__11_37_P4060089.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.713972222222225
-  lon: 17.09361111111111
-  altitude: 75.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 11:37:27+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_06__11_40_P4060096.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.71391666666667
-  lon: 17.093166666666665
-  altitude: 76.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 11:40:14+02:00
-  focus_distance: 53.97
-- image_filename: 2019_04_06__12_13_P4060111.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.69483333333333
-  lon: 17.069291666666665
-  altitude: 98.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4404
-  height: 3325
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 12:13:16+02:00
-  focus_distance: 37.07
-- image_filename: 2019_04_06__12_23_P4060120.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.69405555555555
-  lon: 17.070291666666666
-  altitude: 96.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-04-06 12:23:14+02:00
-  focus_distance: 3.57
-- image_filename: 2019_04_06__12_25_P4060135.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.69291666666666
-  lon: 17.07022222222222
-  altitude: 92.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 12:25:24+02:00
-  focus_distance: 2.87
-- image_filename: 2019_04_06__12_26_P4060139.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.69294444444444
-  lon: 17.07022222222222
-  altitude: 92.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4465
-  height: 3299
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-04-06 12:26:41+02:00
-  focus_distance: 203.38
-- image_filename: 2019_04_06__12_29_P4060145.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.692722222222216
-  lon: 17.070138888888888
-  altitude: 93.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4565
-  height: 3416
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 12:29:37+02:00
-  focus_distance: 224.68
-- image_filename: 2019_04_06__12_34_P4060157.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.68504166666666
-  lon: 17.065875000000002
-  altitude: 94.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4452
-  height: 3331
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-06 12:34:29+02:00
-  focus_distance: 135.9
-- image_filename: 2019_04_06__12_51_P4060163.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.67265277777778
-  lon: 17.05604166666667
-  altitude: 100.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4301
-  height: 3225
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 12:51:15+02:00
-  focus_distance: 86.18
-- image_filename: 2019_04_06__12_55_P4060170.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.674375
-  lon: 17.046361111111114
-  altitude: 100.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4513
-  height: 3296
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-06 12:55:44+02:00
-  focus_distance: 164.31
-- image_filename: 2019_04_06__12_57_P4060173.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.67673611111111
-  lon: 17.04243055555556
-  altitude: 99.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-06 12:57:41+02:00
-  focus_distance: 196.27
-- image_filename: 2019_04_06__13_35_P4060186.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.65855555555555
-  lon: 17.036416666666668
-  altitude: 98.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-06 13:35:45+02:00
-  focus_distance: 139.45
-- image_filename: 2019_04_06__13_37_P4060188.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.65823611111111
-  lon: 17.036430555555558
-  altitude: 97.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-06 13:37:26+02:00
-  focus_distance: 210.48
-- image_filename: 2019_04_06__13_40_P4060195.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.65533333333333
-  lon: 17.037041666666667
-  altitude: 93.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4462
-  height: 3339
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-04-06 13:40:57+02:00
-  focus_distance: 61.31
-- image_filename: 2019_04_06__13_52_P4060201.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.64729166666667
-  lon: 17.039847222222225
-  altitude: 87.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4578
-  height: 3425
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 13:52:24+02:00
-  focus_distance: 9.94
-- image_filename: 2019_04_06__14_29_P4060213.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.64106944444445
-  lon: 17.08825
-  altitude: 89.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4534
-  height: 3376
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 14:29:53+02:00
-  focus_distance: 203.38
-- image_filename: 2019_04_06__14_35_P4060233.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.634819444444446
-  lon: 17.10452777777778
-  altitude: 85.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-04-06 14:35:46+02:00
-  focus_distance: 3.34
-- image_filename: 2019_04_06__14_36_P4060243.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.63452777777778
-  lon: 17.105375000000002
-  altitude: 84.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-06 14:36:21+02:00
-  focus_distance: 2.74
-- image_filename: 2019_04_06__14_36_P4060236.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.63448611111111
-  lon: 17.10540277777778
-  altitude: 84.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-04-06 14:36:05+02:00
-  focus_distance: 2.32
-- image_filename: 2019_04_06__16_22_P4060268.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.383763888888886
-  lon: 16.91722222222222
-  altitude: 68.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 3519
-  height: 2746
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-04-06 16:22:59+02:00
-  focus_distance: 3.71
-- image_filename: 2019_04_06__12_25_P4060136.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.69291666666666
-  lon: 17.07022222222222
-  altitude: 92.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4407
-  height: 3293
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-04-06 12:25:46+02:00
-  focus_distance: 128.79
-- image_filename: 2019_04_06__14_13_P4060205.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.64175
-  lon: 17.058097222222223
-  altitude: 89.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-06 14:13:25+02:00
-  focus_distance: 28.61
-- image_filename: 2019_04_06__14_31_P4060216.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.63941666666667
-  lon: 17.094013888888888
-  altitude: 84.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 14:31:17+02:00
-  focus_distance: 199.82
-- image_filename: 2019_04_06__14_38_P4060250.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.63452777777778
-  lon: 17.10540277777778
-  altitude: 83.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-04-06 14:38:33+02:00
-  focus_distance: 3.93
-- image_filename: 2019_04_06__13_49_P4060199.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.64491666666667
-  lon: 17.03788888888889
-  altitude: 84.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-04-06 13:49:32+02:00
-  focus_distance: 44.88
-- image_filename: 2019_04_06__16_24_P4060295.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.383763888888886
-  lon: 16.917208333333335
-  altitude: 70.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-04-06 16:24:06+02:00
-  focus_distance: 0.98
-- image_filename: 2019_04_06__16_23_P4060287.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.38377777777778
-  lon: 16.917208333333335
-  altitude: 70.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4049
-  height: 3192
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-04-06 16:23:55+02:00
-  focus_distance: 1.0
-- image_filename: 2019_04_06__12_32_P4060152.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.688027777777776
-  lon: 17.068458333333332
-  altitude: 94.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4447
-  height: 3329
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 12:32:07+02:00
-  focus_distance: 228.24
-- image_filename: 2019_04_06__11_14_P4060040.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.704208333333334
-  lon: 17.10638888888889
-  altitude: 67.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4041
-  height: 3087
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-04-06 11:14:14+02:00
-  focus_distance: 0.53
-- image_filename: 2019_04_06__11_58_P4060103.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.705194444444444
-  lon: 17.078277777777778
-  altitude: 95.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4390
-  height: 3285
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-04-06 11:58:55+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_06__11_16_P4060072.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.704208333333334
-  lon: 17.106375
-  altitude: 67.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4196
-  height: 3142
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-04-06 11:16:50+02:00
-  focus_distance: 0.38
-- image_filename: 2019_04_06__16_23_P4060278.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.38379166666667
-  lon: 16.917194444444444
-  altitude: 70.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 3048
-  height: 2273
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-04-06 16:23:45+02:00
-  focus_distance: 2.37
-- image_filename: 2019_04_06__12_52_P4060167.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.67247222222222
-  lon: 17.05184722222222
-  altitude: 99.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4466
-  height: 3342
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 12:52:08+02:00
-  focus_distance: 75.53
-- image_filename: 2019_04_06__14_42_P4060255.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.63259722222222
-  lon: 17.108472222222225
-  altitude: 85.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 14:42:10+02:00
-  focus_distance: 157.21
-- image_filename: 2019_04_06__11_11_P4060028.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.70415277777778
-  lon: 17.106416666666668
-  altitude: 69.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-04-06 11:11:41+02:00
-  focus_distance: 0.75
-- image_filename: 2019_04_06__11_02_P4060017.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.69884722222222
-  lon: 17.122847222222223
-  altitude: 85.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4556
-  height: 3409
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-04-06 11:02:06+02:00
-  focus_distance: 12.07
-- image_filename: 2019_04_06__16_23_P4060272.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.38379166666667
-  lon: 16.91722222222222
-  altitude: 69.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4168
-  height: 2842
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-04-06 16:23:14+02:00
-  focus_distance: 1.22
-- image_filename: 2019_04_06__14_34_P4060221.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.63605555555556
-  lon: 17.101125
-  altitude: 83.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-06 14:34:41+02:00
-  focus_distance: 4.98
-- image_filename: 2019_04_06__11_18_P4060083.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.704208333333334
-  lon: 17.10638888888889
-  altitude: 68.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 500
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-04-06 11:18:51+02:00
-  focus_distance: 0.28
-- image_filename: 2019_04_06__11_38_P4060093.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.71393055555556
-  lon: 17.093416666666666
-  altitude: 76.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 11:38:58+02:00
-  focus_distance: 30.67
-- image_filename: 2019_04_06__14_45_P4060257.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.62716666666667
-  lon: 17.10476388888889
-  altitude: 89.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4586
-  height: 3432
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-06 14:45:46+02:00
-  focus_distance: 174.96
-- image_filename: 2019_04_06__12_37_P4060158.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.682138888888886
-  lon: 17.063625000000002
-  altitude: 96.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 12:37:00+02:00
-  focus_distance: 185.62
-- image_filename: 2019_04_06__10_59_P4060012.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.69881944444444
-  lon: 17.12288888888889
-  altitude: 87.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-04-06 10:59:28+02:00
-  focus_distance: 9.62
-- image_filename: 2019_04_06__13_31_P4060181.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.66272222222222
-  lon: 17.02975
-  altitude: 104.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4531
-  height: 3391
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-06 13:31:32+02:00
-  focus_distance: 68.42
-- image_filename: 2019_04_06__11_15_P4060050.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.70419444444445
-  lon: 17.106375
-  altitude: 67.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4157
-  height: 3215
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-04-06 11:15:05+02:00
-  focus_distance: 0.29
+  time: 2019-04-06 10:54:13.000000000+02:00
 - image_filename: 2019_04_06__10_54_P4060003.jpg
   post_slug: 2019-04-06-zachodnie-okolice-skokow
   lat: 52.69316666666666
@@ -926,33 +26,15 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-04-06 10:54:18+02:00
   focus_distance: 1000.0
-- image_filename: 2019_04_06__14_34_P4060220.jpg
-  post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.6365
-  lon: 17.100013888888892
-  altitude: 81.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
   iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-06 14:34:21+02:00
-  focus_distance: 9.68
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 10:54:18.000000000+02:00
 - image_filename: 2019_04_06__10_57_P4060008.jpg
   post_slug: 2019-04-06-zachodnie-okolice-skokow
   lat: 52.69808333333333
@@ -962,33 +44,123 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4410
-  height: 3299
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-04-06 10:57:35+02:00
   focus_distance: 100.39
-- image_filename: 2019_04_06__12_31_P4060149.jpg
+  iso: 200
+  width: 4410
+  height: 3299
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 10:57:35.000000000+02:00
+- image_filename: 2019_04_06__10_59_P4060012.jpg
   post_slug: 2019-04-06-zachodnie-okolice-skokow
-  lat: 52.68805555555555
-  lon: 17.068458333333332
-  altitude: 94.0
+  lat: 52.69881944444444
+  lon: 17.12288888888889
+  altitude: 87.0
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
-  aperture: 7.1
+  aperture: 10.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 9.62
   iso: 200
+  width: 4640
+  height: 3472
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
-  width: 4596
-  height: 3439
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-06 12:31:45+02:00
-  focus_distance: 203.38
+  time: 2019-04-06 10:59:28.000000000+02:00
+- image_filename: 2019_04_06__11_02_P4060017.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.69884722222222
+  lon: 17.122847222222223
+  altitude: 85.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 12.07
+  iso: 200
+  width: 4556
+  height: 3409
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 11:02:06.000000000+02:00
+- image_filename: 2019_04_06__11_07_P4060019.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.70365277777778
+  lon: 17.110805555555558
+  altitude: 78.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 7.61
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 11:07:04.000000000+02:00
+- image_filename: 2019_04_06__11_11_P4060028.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.70415277777778
+  lon: 17.106416666666668
+  altitude: 69.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.75
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 11:11:41.000000000+02:00
+- image_filename: 2019_04_06__11_13_P4060037.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.704208333333334
+  lon: 17.10640277777778
+  altitude: 67.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.25
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 11:13:43.000000000+02:00
+- image_filename: 2019_04_06__11_14_P4060040.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.704208333333334
+  lon: 17.10638888888889
+  altitude: 67.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.53
+  iso: 200
+  width: 4041
+  height: 3087
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 11:14:14.000000000+02:00
 - image_filename: 2019_04_06__11_14_P4060042.jpg
   post_slug: 2019-04-06-zachodnie-okolice-skokow
   lat: 52.704208333333334
@@ -998,15 +170,573 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 3718
-  height: 2788
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2019-04-06 11:14:28+02:00
   focus_distance: 0.3
+  iso: 200
+  width: 3718
+  height: 2788
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 11:14:28.000000000+02:00
+- image_filename: 2019_04_06__11_15_P4060050.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.70419444444445
+  lon: 17.106375
+  altitude: 67.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.29
+  iso: 200
+  width: 4157
+  height: 3215
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 11:15:05.000000000+02:00
+- image_filename: 2019_04_06__11_16_P4060072.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.704208333333334
+  lon: 17.106375
+  altitude: 67.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.38
+  iso: 200
+  width: 4196
+  height: 3142
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 11:16:50.000000000+02:00
+- image_filename: 2019_04_06__11_17_P4060080.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.70419444444445
+  lon: 17.10638888888889
+  altitude: 68.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.36
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 11:17:34.000000000+02:00
+- image_filename: 2019_04_06__11_18_P4060083.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.704208333333334
+  lon: 17.10638888888889
+  altitude: 68.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.28
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 11:18:51.000000000+02:00
+- image_filename: 2019_04_06__11_19_P4060084.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.704236111111115
+  lon: 17.10640277777778
+  altitude: 68.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 12.15
+  iso: 200
+  width: 4464
+  height: 3341
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 11:19:29.000000000+02:00
+- image_filename: 2019_04_06__11_37_P4060089.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.713972222222225
+  lon: 17.09361111111111
+  altitude: 75.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 11:37:27.000000000+02:00
+- image_filename: 2019_04_06__11_38_P4060093.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.71393055555556
+  lon: 17.093416666666666
+  altitude: 76.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 30.67
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 11:38:58.000000000+02:00
+- image_filename: 2019_04_06__11_40_P4060096.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.71391666666667
+  lon: 17.093166666666665
+  altitude: 76.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 53.97
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 11:40:14.000000000+02:00
+- image_filename: 2019_04_06__11_58_P4060103.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.705194444444444
+  lon: 17.078277777777778
+  altitude: 95.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4390
+  height: 3285
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 11:58:55.000000000+02:00
+- image_filename: 2019_04_06__12_13_P4060111.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.69483333333333
+  lon: 17.069291666666665
+  altitude: 98.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 37.07
+  iso: 200
+  width: 4404
+  height: 3325
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 12:13:16.000000000+02:00
+- image_filename: 2019_04_06__12_23_P4060120.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.69405555555555
+  lon: 17.070291666666666
+  altitude: 96.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 3.57
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:23:14.000000000+02:00
+- image_filename: 2019_04_06__12_25_P4060135.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.69291666666666
+  lon: 17.07022222222222
+  altitude: 92.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.87
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:25:24.000000000+02:00
+- image_filename: 2019_04_06__12_25_P4060136.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.69291666666666
+  lon: 17.07022222222222
+  altitude: 92.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 128.79
+  iso: 200
+  width: 4407
+  height: 3293
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:25:46.000000000+02:00
+- image_filename: 2019_04_06__12_26_P4060139.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.69294444444444
+  lon: 17.07022222222222
+  altitude: 92.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 203.38
+  iso: 200
+  width: 4465
+  height: 3299
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:26:41.000000000+02:00
+- image_filename: 2019_04_06__12_26_P4060140.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.69294444444444
+  lon: 17.07022222222222
+  altitude: 92.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 210.48
+  iso: 200
+  width: 4520
+  height: 3372
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:26:48.000000000+02:00
+- image_filename: 2019_04_06__12_29_P4060145.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.692722222222216
+  lon: 17.070138888888888
+  altitude: 93.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 224.68
+  iso: 200
+  width: 4565
+  height: 3416
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:29:37.000000000+02:00
+- image_filename: 2019_04_06__12_31_P4060149.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.68805555555555
+  lon: 17.068458333333332
+  altitude: 94.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 203.38
+  iso: 200
+  width: 4596
+  height: 3439
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:31:45.000000000+02:00
+- image_filename: 2019_04_06__12_32_P4060152.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.688027777777776
+  lon: 17.068458333333332
+  altitude: 94.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 228.24
+  iso: 200
+  width: 4447
+  height: 3329
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:32:07.000000000+02:00
+- image_filename: 2019_04_06__12_34_P4060157.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.68504166666666
+  lon: 17.065875000000002
+  altitude: 94.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 135.9
+  iso: 200
+  width: 4452
+  height: 3331
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:34:29.000000000+02:00
+- image_filename: 2019_04_06__12_37_P4060158.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.682138888888886
+  lon: 17.063625000000002
+  altitude: 96.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 185.62
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:37:00.000000000+02:00
+- image_filename: 2019_04_06__12_51_P4060163.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.67265277777778
+  lon: 17.05604166666667
+  altitude: 100.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 86.18
+  iso: 200
+  width: 4301
+  height: 3225
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:51:15.000000000+02:00
+- image_filename: 2019_04_06__12_52_P4060167.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.67247222222222
+  lon: 17.05184722222222
+  altitude: 99.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 75.53
+  iso: 200
+  width: 4466
+  height: 3342
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:52:08.000000000+02:00
+- image_filename: 2019_04_06__12_55_P4060170.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.674375
+  lon: 17.046361111111114
+  altitude: 100.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 164.31
+  iso: 200
+  width: 4513
+  height: 3296
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:55:44.000000000+02:00
+- image_filename: 2019_04_06__12_57_P4060173.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.67673611111111
+  lon: 17.04243055555556
+  altitude: 99.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 196.27
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 12:57:41.000000000+02:00
+- image_filename: 2019_04_06__13_31_P4060181.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.66272222222222
+  lon: 17.02975
+  altitude: 104.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 68.42
+  iso: 200
+  width: 4531
+  height: 3391
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 13:31:32.000000000+02:00
+- image_filename: 2019_04_06__13_35_P4060186.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.65855555555555
+  lon: 17.036416666666668
+  altitude: 98.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 139.45
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 13:35:45.000000000+02:00
+- image_filename: 2019_04_06__13_37_P4060188.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.65823611111111
+  lon: 17.036430555555558
+  altitude: 97.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 210.48
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 13:37:26.000000000+02:00
+- image_filename: 2019_04_06__13_40_P4060195.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.65533333333333
+  lon: 17.037041666666667
+  altitude: 93.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 61.31
+  iso: 200
+  width: 4462
+  height: 3339
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 13:40:57.000000000+02:00
+- image_filename: 2019_04_06__13_49_P4060199.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.64491666666667
+  lon: 17.03788888888889
+  altitude: 84.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 44.88
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 13:49:32.000000000+02:00
+- image_filename: 2019_04_06__13_52_P4060201.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.64729166666667
+  lon: 17.039847222222225
+  altitude: 87.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 9.94
+  iso: 200
+  width: 4578
+  height: 3425
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 13:52:24.000000000+02:00
+- image_filename: 2019_04_06__14_13_P4060205.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.64175
+  lon: 17.058097222222223
+  altitude: 89.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 28.61
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 14:13:25.000000000+02:00
 - image_filename: 2019_04_06__14_26_P4060208.jpg
   post_slug: 2019-04-06-zachodnie-okolice-skokow
   lat: 52.642805555555555
@@ -1016,15 +746,33 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2019-04-06 14:26:47+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-06 14:26:47.000000000+02:00
+- image_filename: 2019_04_06__14_29_P4060213.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.64106944444445
+  lon: 17.08825
+  altitude: 89.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 203.38
+  iso: 200
+  width: 4534
+  height: 3376
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:29:53.000000000+02:00
 - image_filename: 2019_04_06__14_29_P4060215.jpg
   post_slug: 2019-04-06-zachodnie-okolice-skokow
   lat: 52.64106944444445
@@ -1034,12 +782,264 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-04-06 14:29:59+02:00
   focus_distance: 167.86
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:29:59.000000000+02:00
+- image_filename: 2019_04_06__14_31_P4060216.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.63941666666667
+  lon: 17.094013888888888
+  altitude: 84.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 199.82
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:31:17.000000000+02:00
+- image_filename: 2019_04_06__14_34_P4060220.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.6365
+  lon: 17.100013888888892
+  altitude: 81.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 9.68
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:34:21.000000000+02:00
+- image_filename: 2019_04_06__14_34_P4060221.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.63605555555556
+  lon: 17.101125
+  altitude: 83.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.98
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:34:41.000000000+02:00
+- image_filename: 2019_04_06__14_35_P4060233.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.634819444444446
+  lon: 17.10452777777778
+  altitude: 85.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 3.34
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:35:46.000000000+02:00
+- image_filename: 2019_04_06__14_36_P4060236.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.63448611111111
+  lon: 17.10540277777778
+  altitude: 84.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 2.32
+  iso: 200
+  width: 3472
+  height: 4640
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:36:05.000000000+02:00
+- image_filename: 2019_04_06__14_36_P4060243.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.63452777777778
+  lon: 17.105375000000002
+  altitude: 84.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.74
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:36:21.000000000+02:00
+- image_filename: 2019_04_06__14_38_P4060250.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.63452777777778
+  lon: 17.10540277777778
+  altitude: 83.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 3.93
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:38:33.000000000+02:00
+- image_filename: 2019_04_06__14_42_P4060255.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.63259722222222
+  lon: 17.108472222222225
+  altitude: 85.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 157.21
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:42:10.000000000+02:00
+- image_filename: 2019_04_06__14_45_P4060257.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.62716666666667
+  lon: 17.10476388888889
+  altitude: 89.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 174.96
+  iso: 200
+  width: 4586
+  height: 3432
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 14:45:46.000000000+02:00
+- image_filename: 2019_04_06__16_22_P4060268.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.383763888888886
+  lon: 16.91722222222222
+  altitude: 68.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 3.71
+  iso: 200
+  width: 3519
+  height: 2746
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 16:22:59.000000000+02:00
+- image_filename: 2019_04_06__16_23_P4060272.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.38379166666667
+  lon: 16.91722222222222
+  altitude: 69.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.22
+  iso: 200
+  width: 4168
+  height: 2842
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 16:23:14.000000000+02:00
+- image_filename: 2019_04_06__16_23_P4060278.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.38379166666667
+  lon: 16.917194444444444
+  altitude: 70.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 2.37
+  iso: 200
+  width: 3048
+  height: 2273
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 16:23:45.000000000+02:00
+- image_filename: 2019_04_06__16_23_P4060287.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.38377777777778
+  lon: 16.917208333333335
+  altitude: 70.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.0
+  iso: 200
+  width: 4049
+  height: 3192
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 16:23:55.000000000+02:00
+- image_filename: 2019_04_06__16_24_P4060295.jpg
+  post_slug: 2019-04-06-zachodnie-okolice-skokow
+  lat: 52.383763888888886
+  lon: 16.917208333333335
+  altitude: 70.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.98
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-04-06 16:24:06.000000000+02:00

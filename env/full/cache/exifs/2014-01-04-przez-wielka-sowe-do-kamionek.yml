@@ -1,171 +1,154 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.680326944444445
-  lon: 16.485678333333333
-  altitude: 1043.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-01-04 14:01:38+01:00
 - image_filename: IMGP2597b1.jpg
   post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.67822944444444
-  lon: 16.400711666666666
+  lat: 50.67823055555555
+  lon: 16.40071111111111
   altitude: 548.1
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2014-01-04 09:38:14+01:00
+  time: 2014-01-04 09:38:14.000000000+01:00
 - image_filename: IMGP2603raw2.jpg
   post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.68104527777778
-  lon: 16.40385472222222
+  lat: 50.68104444444444
+  lon: 16.403855555555555
   altitude: 577.4
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2014-01-04 09:43:20+01:00
-- image_filename: IMGP2652b1.jpg
-  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.67737722222222
-  lon: 16.433355
-  altitude: 716.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2014-01-04 10:43:21+01:00
-- image_filename: IMGP2707raw1.jpg
-  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.66253333333333
-  lon: 16.467511388888887
-  altitude: 775.9
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-01-04 11:51:46+01:00
-- image_filename: IMGP2708raw1.jpg
-  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.66263611111111
-  lon: 16.468317499999998
-  altitude: 790.8
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-01-04 11:53:23+01:00
-- image_filename: IMGP2862raw1.jpg
-  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.68031138888889
-  lon: 16.48568527777778
-  altitude: 1044.1
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-01-04 14:03:21+01:00
-- image_filename: IMGP2864raw1.jpg
-  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.680347777777776
-  lon: 16.485699444444446
-  altitude: 1043.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2014-01-04 14:03:46+01:00
-- image_filename: IMGP2941raw1.jpg
-  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.684105277777775
-  lon: 16.54306
-  altitude: 415.4
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 1600
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2014-01-04 16:14:44+01:00
+  time: 2014-01-04 09:43:20.000000000+01:00
 - image_filename: IMGP2647raw1.jpg
   post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.6783475
-  lon: 16.432209722222222
+  lat: 50.67834722222222
+  lon: 16.432208333333335
   altitude: 714.9
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-01-04 10:40:30+01:00
+  time: 2014-01-04 10:40:30.000000000+01:00
+- image_filename: IMGP2652b1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.67737777777778
+  lon: 16.433355555555554
+  altitude: 716.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-01-04 10:43:21.000000000+01:00
 - image_filename: IMGP2656b1.jpg
   post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.67674805555556
-  lon: 16.435401111111112
+  lat: 50.67674722222222
+  lon: 16.4354
   altitude: 732.7
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2014-01-04 10:45:56+01:00
+  time: 2014-01-04 10:45:56.000000000+01:00
+- image_filename: IMGP2668raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.67659444444444
+  lon: 16.43671388888889
+  altitude: 732.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2014-01-04 11:05:04.000000000+01:00
+- image_filename: IMGP2671raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.675691666666665
+  lon: 16.43841666666667
+  altitude: 717.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2014-01-04 11:06:59.000000000+01:00
+- image_filename: IMGP2682raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.67176388888889
+  lon: 16.442955555555557
+  altitude: 754.8
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2014-01-04 11:17:59.000000000+01:00
+- image_filename: IMGP2707raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.66253333333333
+  lon: 16.467511111111108
+  altitude: 775.9
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2014-01-04 11:51:46.000000000+01:00
+- image_filename: IMGP2708raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.66263611111111
+  lon: 16.468316666666666
+  altitude: 790.8
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2014-01-04 11:53:23.000000000+01:00
 - image_filename: IMGP2760raw1.jpg
   post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
   lat: 50.66396388888889
@@ -175,69 +158,86 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-01-04 13:12:37+01:00
-- image_filename: IMGP2870raw1.jpg
+  time: 2014-01-04 13:12:37.000000000+01:00
+- image_filename: IMGP2862raw1.jpg
   post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.68037805555555
-  lon: 16.485695555555555
+  lat: 50.68031111111111
+  lon: 16.48568611111111
   altitude: 1044.1
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-01-04 14:04:27+01:00
-- image_filename: IMGP2671raw1.jpg
+  time: 2014-01-04 14:03:21.000000000+01:00
+- image_filename: IMGP2864raw1.jpg
   post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.675693055555556
-  lon: 16.438416944444445
-  altitude: 717.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-01-04 11:06:59+01:00
-- image_filename: IMGP2668raw1.jpg
-  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.676595
-  lon: 16.436713611111113
-  altitude: 732.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2014-01-04 11:05:04+01:00
-- image_filename: IMGP2682raw1.jpg
-  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
-  lat: 50.67176472222222
-  lon: 16.442955
-  altitude: 754.8
+  lat: 50.68034722222222
+  lon: 16.4857
+  altitude: 1043.7
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
-  aperture: 8.0
-  iso: 200
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2014-01-04 11:17:59+01:00
+  time: 2014-01-04 14:03:46.000000000+01:00
+- image_filename: IMGP2870raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.68037777777778
+  lon: 16.485694444444444
+  altitude: 1044.1
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2014-01-04 14:04:27.000000000+01:00
+- image_filename: IMGP2941raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.684105555555554
+  lon: 16.54306111111111
+  altitude: 415.4
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1600
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-01-04 16:14:44.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.68032777777778
+  lon: 16.485677777777777
+  altitude: 1043.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2014-01-04 14:01:38.000000000+01:00

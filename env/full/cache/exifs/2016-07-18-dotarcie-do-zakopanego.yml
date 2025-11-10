@@ -1,73 +1,73 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-07-18-dotarcie-do-zakopanego
-  lat: 49.26258083333333
-  lon: 19.971898611111108
-  altitude: 1126.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2016-07-18 16:25:23+02:00
 - image_filename: IMGP2270raw1.jpg
   post_slug: 2016-07-18-dotarcie-do-zakopanego
-  lat: 49.29246277777778
-  lon: 19.964859999999998
+  lat: 49.29246388888889
+  lon: 19.96486111111111
   altitude: 866.8
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 3.5
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2016-07-18 13:42:05+02:00
-- image_filename: IMGP2324raw1.jpg
-  post_slug: 2016-07-18-dotarcie-do-zakopanego
-  lat: 49.259389444444444
-  lon: 19.966757777777776
-  altitude: 1184.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-18 16:37:36+02:00
-- image_filename: IMGP2362raw1.jpg
-  post_slug: 2016-07-18-dotarcie-do-zakopanego
-  lat: 49.259296666666664
-  lon: 19.967010555555554
-  altitude: 1192.2
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2016-07-18 18:59:07+02:00
+  time: 2016-07-18 13:42:05.000000000+02:00
 - image_filename: IMGP2302raw1.jpg
   post_slug: 2016-07-18-dotarcie-do-zakopanego
-  lat: 49.27491861111111
-  lon: 19.980873055555556
+  lat: 49.27491944444444
+  lon: 19.98087222222222
   altitude: 961.9
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.5
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2016-07-18 15:46:54+02:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-07-18 15:46:54.000000000+02:00
+- image_filename: IMGP2324raw1.jpg
+  post_slug: 2016-07-18-dotarcie-do-zakopanego
+  lat: 49.259388888888886
+  lon: 19.96675833333333
+  altitude: 1184.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-07-18 16:37:36.000000000+02:00
+- image_filename: IMGP2362raw1.jpg
+  post_slug: 2016-07-18-dotarcie-do-zakopanego
+  lat: 49.25929722222222
+  lon: 19.96701111111111
+  altitude: 1192.2
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-18 18:59:07.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-07-18-dotarcie-do-zakopanego
+  lat: 49.26258055555556
+  lon: 19.97189722222222
+  altitude: 1126.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.05
+  exposure_string: 1/20 s
+  iso: 400
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-07-18 16:25:23.000000000+02:00

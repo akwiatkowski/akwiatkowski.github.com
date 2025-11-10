@@ -1,888 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-- image_filename: 2020_08_01__11_23__8017034.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.356611111111114
-  lon: 15.436569444444444
-  altitude: 86.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-01 11:23:03+02:00
-  focus_distance: 67.14
-- image_filename: 2020_08_01__11_03__8016997.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.34991666666667
-  lon: 15.444597222222223
-  altitude: 82.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5050
-  height: 3771
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-01 11:03:16+02:00
-  focus_distance: 10.59
-- image_filename: 2020_08_01__20_03__8017211.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.249694444444444
-  lon: 15.532694444444445
-  altitude: 95.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5176
-  height: 3886
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2020-08-01 20:03:39+02:00
-  focus_distance: 23.81
-- image_filename: 2020_08_01__08_49__8016741-hdr.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.273777777777774
-  lon: 15.497930555555556
-  altitude: 101.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-01 08:49:19+02:00
-  focus_distance: 3.43
-- image_filename: 2020_08_01__20_18__8017254.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.248847222222224
-  lon: 15.534513888888888
-  altitude: 85.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5179
-  height: 3828
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2020-08-01 20:18:26+02:00
-  focus_distance: 22.78
-- image_filename: 2020_08_01__20_38__8017297.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.25009722222222
-  lon: 15.532569444444444
-  altitude: 80.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4395
-  height: 3383
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2020-08-01 20:38:51+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_08_01__13_50__8017168.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.33925
-  lon: 15.288319444444443
-  altitude: 132.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2020-08-01 13:50:32+02:00
-  focus_distance: 6.47
-- image_filename: 2020_08_01__09_16__8016788.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.29647222222222
-  lon: 15.44175
-  altitude: 71.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-01 09:16:07+02:00
-  focus_distance: 56.49
-- image_filename: 2020_08_01__19_59__8017198.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.250083333333336
-  lon: 15.533111111111111
-  altitude: 90.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4368
-  height: 3420
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2020-08-01 19:59:06+02:00
-  focus_distance: 4.03
-- image_filename: 2020_08_01__11_05__8017003.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35123611111111
-  lon: 15.445083333333333
-  altitude: 86.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-01 11:05:22+02:00
-  focus_distance: 40.06
-- image_filename: 2020_08_01__11_08__8017008.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.356833333333334
-  lon: 15.44825
-  altitude: 84.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4765
-  height: 3475
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-01 11:08:12+02:00
-  focus_distance: 4.16
-- image_filename: 2020_08_01__20_56__8017343.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.250236111111114
-  lon: 15.534055555555556
-  altitude: 82.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 800
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2020-08-01 20:56:32+02:00
-  focus_distance: 2.81
-- image_filename: 2020_08_01__12_16__8017144.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35022222222222
-  lon: 15.343152777777778
-  altitude: 135.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-08-01 12:16:55+02:00
-  focus_distance: 15.95
-- image_filename: 2020_08_01__11_52__8017108.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.356458333333336
-  lon: 15.396625
-  altitude: 112.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-01 11:52:41+02:00
-  focus_distance: 2.12
-- image_filename: 2020_08_01__20_03__8017209.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.24968055555556
-  lon: 15.532541666666667
-  altitude: 95.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5157
-  height: 3802
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2020-08-01 20:03:15+02:00
-  focus_distance: 11.52
-- image_filename: 2020_08_01__09_58__8016904.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.296013888888886
-  lon: 15.443902777777778
-  altitude: 72.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-08-01 09:58:30+02:00
-  focus_distance: 17.37
-- image_filename: 2020_08_01__21_01__8017356.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.25080555555556
-  lon: 15.5345
-  altitude: 84.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 320
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 3912
-  height: 5239
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2020-08-01 21:01:44+02:00
-  focus_distance: 38.35
-- image_filename: 2020_08_01__20_26__8017265.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.24963888888889
-  lon: 15.534986111111111
-  altitude: 81.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2020-08-01 20:26:15+02:00
-  focus_distance: 5.26
-- image_filename: 2020_08_01__15_32__8017172.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.30763888888889
-  lon: 15.2795
-  altitude: 110.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2020-08-01 15:32:29+02:00
-  focus_distance: 4.43
-- image_filename: 2020_08_01__12_29__8017147.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.337944444444446
-  lon: 15.299486111111111
-  altitude: 135.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5032
-  height: 3888
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-08-01 12:29:51+02:00
-  focus_distance: 2.01
-- image_filename: 2020_08_01__16_08__8017181.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.260625
-  lon: 15.261666666666667
-  altitude: 110.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4729
-  height: 3276
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-01 16:08:09+02:00
-  focus_distance: 1.6
-- image_filename: 2020_08_01__10_49__8016934.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.34630555555556
-  lon: 15.444708333333333
-  altitude: 81.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 4380
-  height: 3323
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2020-08-01 10:49:35+02:00
-  focus_distance: 4.99
-- image_filename: 2020_08_01__11_48__8017100.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35513888888889
-  lon: 15.407972222222222
-  altitude: 110.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-01 11:48:10+02:00
-  focus_distance: 16.74
-- image_filename: 2020_08_01__14_34__8017170.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.31930555555556
-  lon: 15.286763888888888
-  altitude: 113.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5063
-  height: 3779
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-01 14:34:23+02:00
-  focus_distance: 20.3
-- image_filename: 2020_08_01__20_32__8017279.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.25075
-  lon: 15.533388888888888
-  altitude: 80.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2020-08-01 20:32:17+02:00
-  focus_distance: 5.72
-- image_filename: 2020_08_01__11_54__8017112.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35659722222223
-  lon: 15.395666666666667
-  altitude: 113.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4884
-  height: 3676
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-01 11:54:25+02:00
-  focus_distance: 207.39
-- image_filename: 2020_08_01__20_02__8017206.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.24991666666667
-  lon: 15.532347222222223
-  altitude: 95.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4719
-  height: 3907
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2020-08-01 20:02:15+02:00
-  focus_distance: 2.98
-- image_filename: 2020_08_01__12_00__8017125.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35936111111111
-  lon: 15.384138888888888
-  altitude: 126.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-01 12:00:59+02:00
-  focus_distance: 42.12
-- image_filename: 2020_08_01__08_51__8016747.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.27526388888889
-  lon: 15.495819444444443
-  altitude: 106.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5012
-  height: 3742
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-01 08:51:02+02:00
-  focus_distance: 4.16
-- image_filename: 2020_08_01__20_07__8017221.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.24901388888889
-  lon: 15.531402777777778
-  altitude: 92.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4808
-  height: 3706
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2020-08-01 20:07:57+02:00
-  focus_distance: 2.25
-- image_filename: 2020_08_01__20_10__8017231.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.249472222222224
-  lon: 15.531166666666667
-  altitude: 90.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5142
-  height: 3779
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2020-08-01 20:10:38+02:00
-  focus_distance: 11.18
-- image_filename: 2020_08_01__20_05__8017216.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.24940277777778
-  lon: 15.53202777777778
-  altitude: 93.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4603
-  height: 3817
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2020-08-01 20:05:58+02:00
-  focus_distance: 6.53
-- image_filename: 2020_08_01__11_36__8017069.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35418055555556
-  lon: 15.424166666666666
-  altitude: 94.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-01 11:36:29+02:00
-  focus_distance: 39.48
-- image_filename: 2020_08_01__20_31__8017277.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.250625
-  lon: 15.533236111111112
-  altitude: 81.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3764
-  height: 5122
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2020-08-01 20:31:34+02:00
-  focus_distance: 2.4
-- image_filename: 2020_08_01__19_57__8017192.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.250166666666665
-  lon: 15.53401388888889
-  altitude: 88.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4679
-  height: 3780
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2020-08-01 19:57:45+02:00
-  focus_distance: 2.69
-- image_filename: 2020_08_01__12_03__8017128.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.36215277777778
-  lon: 15.378597222222222
-  altitude: 134.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4478
-  height: 3347
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-01 12:03:40+02:00
-  focus_distance: 4.09
-- image_filename: 2020_08_01__08_55__8016748.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.28318055555555
-  lon: 15.482944444444444
-  altitude: 108.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-01 08:55:15+02:00
-  focus_distance: 85.78
-- image_filename: 2020_08_01__20_29__8017273.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.25033333333333
-  lon: 15.534416666666667
-  altitude: 80.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4714
-  height: 3506
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2020-08-01 20:29:03+02:00
-  focus_distance: 5.72
-- image_filename: 2020_08_01__11_24__8017045.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.356833333333334
-  lon: 15.43738888888889
-  altitude: 86.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-08-01 11:24:41+02:00
-  focus_distance: 2.92
-- image_filename: 2020_08_01__10_27__8016916.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.33180555555556
-  lon: 15.437680555555556
-  altitude: 80.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-08-01 10:27:16+02:00
-  focus_distance: 20.9
-- image_filename: 2020_08_01__20_57__8017348.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.25022222222222
-  lon: 15.533833333333334
-  altitude: 83.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 800
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 4966
-  height: 3707
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2020-08-01 20:57:46+02:00
-  focus_distance: 3.45
-- image_filename: 2020_08_01__09_12__8016769.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.29643055555555
-  lon: 15.441791666666667
-  altitude: 71.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-08-01 09:12:54+02:00
-  focus_distance: 4.64
-- image_filename: 2020_08_01__20_34__8017284.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.250972222222224
-  lon: 15.532708333333334
-  altitude: 78.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4767
-  height: 3562
-  exposure: 5.0
-  exposure_string: 5 s
-  time: 2020-08-01 20:34:03+02:00
-  focus_distance: 6.53
-- image_filename: 2020_08_01__20_33__8017282.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.250972222222224
-  lon: 15.532805555555557
-  altitude: 78.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5170
-  height: 3817
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2020-08-01 20:33:38+02:00
-  focus_distance: 1.93
-- image_filename: 2020_08_01__11_04__8017000.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35036111111111
-  lon: 15.444805555555556
-  altitude: 83.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-01 11:04:10+02:00
-  focus_distance: 1.88
-- image_filename: 2020_08_01__11_54__8017110.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35659722222223
-  lon: 15.395652777777777
-  altitude: 113.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5078
-  height: 3791
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-01 11:54:17+02:00
-  focus_distance: 11.35
-- image_filename: 2020_08_01__11_36__8017064.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35418055555556
-  lon: 15.424152777777778
-  altitude: 94.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-01 11:36:04+02:00
-  focus_distance: 2.54
-- image_filename: 2020_08_01__10_50__8016945.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.34630555555556
-  lon: 15.444708333333333
-  altitude: 81.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 4786
-  height: 3581
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-01 10:50:02+02:00
-  focus_distance: 2.74
-- image_filename: 2020_08_01__10_48__8016928.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.34631944444445
-  lon: 15.444680555555555
-  altitude: 81.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 3602
-  height: 4286
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-01 10:48:10+02:00
-  focus_distance: 0.94
 - image_filename: 2020_08_01__08_40__8016735.jpg
   post_slug: 2020-08-01-suche-okolice-lagowa
   lat: 52.261319444444446
@@ -892,267 +8,69 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5129
-  height: 3766
   exposure: 0.0008
   exposure_string: 1/1250 s
-  time: 2020-08-01 08:40:05+02:00
   focus_distance: 57.49
-- image_filename: 2020_08_01__14_34__8017169.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.31930555555556
-  lon: 15.286763888888888
-  altitude: 113.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
+  iso: 320
+  width: 5129
+  height: 3766
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5228
-  height: 3903
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-01 14:34:03+02:00
-  focus_distance: 67.14
-- image_filename: 2020_08_01__13_38__8017150.jpg
+  time: 2020-08-01 08:40:05.000000000+02:00
+- image_filename: 2020_08_01__08_49__8016741-hdr.jpg
   post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.33541666666667
-  lon: 15.292180555555555
-  altitude: 110.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-01 13:38:59+02:00
-  focus_distance: 14.88
-- image_filename: 2020_08_01__20_14__8017244.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.248958333333334
-  lon: 15.533222222222223
-  altitude: 85.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5179
-  height: 3859
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2020-08-01 20:14:53+02:00
-  focus_distance: 24.06
-- image_filename: 2020_08_01__20_30__8017276.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.25020833333333
-  lon: 15.5335
-  altitude: 80.0
+  lat: 52.273777777777774
+  lon: 15.497930555555556
+  altitude: 101.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4700
-  height: 3570
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2020-08-01 20:30:37+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_08_01__20_55__8017330.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.25033333333333
-  lon: 15.534055555555556
-  altitude: 82.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 500
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 4814
-  height: 3534
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2020-08-01 20:55:18+02:00
-  focus_distance: 2.96
-- image_filename: 2020_08_01__11_36__8017070.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35418055555556
-  lon: 15.424138888888889
-  altitude: 94.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-01 11:36:35+02:00
-  focus_distance: 126.03
-- image_filename: 2020_08_01__12_10__8017138.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.353569444444446
-  lon: 15.363777777777777
-  altitude: 129.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5224
-  height: 3899
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-01 12:10:52+02:00
-  focus_distance: 93.62
-- image_filename: 2020_08_01__11_08__8017007.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.356833333333334
-  lon: 15.44825
-  altitude: 84.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
+  aperture: 6.3
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-08-01 11:08:06+02:00
-  focus_distance: 20.4
-- image_filename: 2020_08_01__15_50__8017175.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.29113888888889
-  lon: 15.25323611111111
-  altitude: 100.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.5
+  focus_distance: 3.43
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-01 15:50:27+02:00
-  focus_distance: 17.16
-- image_filename: 2020_08_01__11_38__8017084.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.35404166666667
-  lon: 15.423361111111111
-  altitude: 95.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-01 11:38:50+02:00
-  focus_distance: 46.41
-- image_filename: 2020_08_01__19_56__8017189.jpg
+  time: 2020-08-01 08:49:19.000000000+02:00
+- image_filename: 2020_08_01__08_51__8016747.jpg
   post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.25033333333333
-  lon: 15.534416666666667
-  altitude: 88.0
-  focal_length: 18.0
-  focal_length_35: 36.0
+  lat: 52.27526388888889
+  lon: 15.495819444444443
+  altitude: 106.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.16
   iso: 200
+  width: 5012
+  height: 3742
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3804
-  height: 4969
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2020-08-01 19:56:51+02:00
-  focus_distance: 3.85
-- image_filename: 2020_08_01__20_49__8017302.jpg
+  time: 2020-08-01 08:51:02.000000000+02:00
+- image_filename: 2020_08_01__08_55__8016748.jpg
   post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.250083333333336
-  lon: 15.533125
-  altitude: 85.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4852
-  height: 3096
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2020-08-01 20:49:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_08_01__20_55__8017336.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.25029166666667
-  lon: 15.534097222222222
-  altitude: 82.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 800
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2020-08-01 20:55:58+02:00
-  focus_distance: 1.65
-- image_filename: 2020_08_01__12_03__8017129.jpg
-  post_slug: 2020-08-01-suche-okolice-lagowa
-  lat: 52.36216666666667
-  lon: 15.378597222222222
-  altitude: 134.0
+  lat: 52.28318055555555
+  lon: 15.482944444444444
+  altitude: 108.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 85.78
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-01 12:03:45+02:00
-  focus_distance: 74.14
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 08:55:15.000000000+02:00
 - image_filename: 2020_08_01__09_01__8016760.jpg
   post_slug: 2020-08-01-suche-okolice-lagowa
   lat: 52.286375
@@ -1162,12 +80,642 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3462
-  height: 2401
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-08-01 09:01:16+02:00
   focus_distance: 21.61
+  iso: 200
+  width: 3462
+  height: 2401
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 09:01:16.000000000+02:00
+- image_filename: 2020_08_01__09_12__8016769.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.29643055555555
+  lon: 15.441791666666667
+  altitude: 71.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 4.64
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 09:12:54.000000000+02:00
+- image_filename: 2020_08_01__09_16__8016788.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.29647222222222
+  lon: 15.44175
+  altitude: 71.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 56.49
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 09:16:07.000000000+02:00
+- image_filename: 2020_08_01__09_58__8016904.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.296013888888886
+  lon: 15.443902777777778
+  altitude: 72.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 17.37
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 09:58:30.000000000+02:00
+- image_filename: 2020_08_01__10_27__8016916.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.33180555555556
+  lon: 15.437680555555556
+  altitude: 80.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 20.9
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 10:27:16.000000000+02:00
+- image_filename: 2020_08_01__10_48__8016928.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.34631944444445
+  lon: 15.444680555555555
+  altitude: 81.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.94
+  iso: 200
+  width: 3602
+  height: 4286
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  time: 2020-08-01 10:48:10.000000000+02:00
+- image_filename: 2020_08_01__10_49__8016934.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.34630555555556
+  lon: 15.444708333333333
+  altitude: 81.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 4.99
+  iso: 200
+  width: 4380
+  height: 3323
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  time: 2020-08-01 10:49:35.000000000+02:00
+- image_filename: 2020_08_01__10_50__8016945.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.34630555555556
+  lon: 15.444708333333333
+  altitude: 81.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.74
+  iso: 200
+  width: 4786
+  height: 3581
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  time: 2020-08-01 10:50:02.000000000+02:00
+- image_filename: 2020_08_01__11_03__8016997.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.34991666666667
+  lon: 15.444597222222223
+  altitude: 82.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 10.59
+  iso: 200
+  width: 5050
+  height: 3771
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:03:16.000000000+02:00
+- image_filename: 2020_08_01__11_04__8017000.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35036111111111
+  lon: 15.444805555555556
+  altitude: 83.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.88
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:04:10.000000000+02:00
+- image_filename: 2020_08_01__11_05__8017003.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35123611111111
+  lon: 15.445083333333333
+  altitude: 86.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 40.06
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:05:22.000000000+02:00
+- image_filename: 2020_08_01__11_08__8017007.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.356833333333334
+  lon: 15.44825
+  altitude: 84.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 20.4
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:08:06.000000000+02:00
+- image_filename: 2020_08_01__11_08__8017008.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.356833333333334
+  lon: 15.44825
+  altitude: 84.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.16
+  iso: 200
+  width: 4765
+  height: 3475
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:08:12.000000000+02:00
+- image_filename: 2020_08_01__11_23__8017034.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.356611111111114
+  lon: 15.436569444444444
+  altitude: 86.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 67.14
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:23:03.000000000+02:00
+- image_filename: 2020_08_01__11_24__8017045.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.356833333333334
+  lon: 15.43738888888889
+  altitude: 86.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.92
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:24:41.000000000+02:00
+- image_filename: 2020_08_01__11_36__8017064.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35418055555556
+  lon: 15.424152777777778
+  altitude: 94.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.54
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:36:04.000000000+02:00
+- image_filename: 2020_08_01__11_36__8017069.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35418055555556
+  lon: 15.424166666666666
+  altitude: 94.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 39.48
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:36:29.000000000+02:00
+- image_filename: 2020_08_01__11_36__8017070.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35418055555556
+  lon: 15.424138888888889
+  altitude: 94.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 126.03
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:36:35.000000000+02:00
+- image_filename: 2020_08_01__11_38__8017084.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35404166666667
+  lon: 15.423361111111111
+  altitude: 95.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 46.41
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:38:50.000000000+02:00
+- image_filename: 2020_08_01__11_48__8017100.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35513888888889
+  lon: 15.407972222222222
+  altitude: 110.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 16.74
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:48:10.000000000+02:00
+- image_filename: 2020_08_01__11_52__8017108.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.356458333333336
+  lon: 15.396625
+  altitude: 112.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.12
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:52:41.000000000+02:00
+- image_filename: 2020_08_01__11_54__8017110.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35659722222223
+  lon: 15.395652777777777
+  altitude: 113.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.35
+  iso: 200
+  width: 5078
+  height: 3791
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:54:17.000000000+02:00
+- image_filename: 2020_08_01__11_54__8017112.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35659722222223
+  lon: 15.395666666666667
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 207.39
+  iso: 200
+  width: 4884
+  height: 3676
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 11:54:25.000000000+02:00
+- image_filename: 2020_08_01__12_00__8017125.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35936111111111
+  lon: 15.384138888888888
+  altitude: 126.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 42.12
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 12:00:59.000000000+02:00
+- image_filename: 2020_08_01__12_03__8017128.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.36215277777778
+  lon: 15.378597222222222
+  altitude: 134.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.09
+  iso: 200
+  width: 4478
+  height: 3347
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 12:03:40.000000000+02:00
+- image_filename: 2020_08_01__12_03__8017129.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.36216666666667
+  lon: 15.378597222222222
+  altitude: 134.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 74.14
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 12:03:45.000000000+02:00
+- image_filename: 2020_08_01__12_10__8017138.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.353569444444446
+  lon: 15.363777777777777
+  altitude: 129.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 93.62
+  iso: 200
+  width: 5224
+  height: 3899
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 12:10:52.000000000+02:00
+- image_filename: 2020_08_01__12_16__8017144.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.35022222222222
+  lon: 15.343152777777778
+  altitude: 135.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 15.95
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 12:16:55.000000000+02:00
+- image_filename: 2020_08_01__12_29__8017147.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.337944444444446
+  lon: 15.299486111111111
+  altitude: 135.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.01
+  iso: 200
+  width: 5032
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 12:29:51.000000000+02:00
+- image_filename: 2020_08_01__13_38__8017150.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.33541666666667
+  lon: 15.292180555555555
+  altitude: 110.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 14.88
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 13:38:59.000000000+02:00
+- image_filename: 2020_08_01__13_50__8017168.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.33925
+  lon: 15.288319444444443
+  altitude: 132.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 6.47
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 13:50:32.000000000+02:00
+- image_filename: 2020_08_01__14_34__8017169.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.31930555555556
+  lon: 15.286763888888888
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 67.14
+  iso: 200
+  width: 5228
+  height: 3903
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 14:34:03.000000000+02:00
+- image_filename: 2020_08_01__14_34__8017170.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.31930555555556
+  lon: 15.286763888888888
+  altitude: 113.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.3
+  iso: 200
+  width: 5063
+  height: 3779
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 14:34:23.000000000+02:00
+- image_filename: 2020_08_01__15_32__8017172.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.30763888888889
+  lon: 15.2795
+  altitude: 110.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 15:32:29.000000000+02:00
+- image_filename: 2020_08_01__15_50__8017175.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.29113888888889
+  lon: 15.25323611111111
+  altitude: 100.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 17.16
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 15:50:27.000000000+02:00
+- image_filename: 2020_08_01__16_08__8017181.jpg
+  post_slug: 2020-08-01-suche-okolice-lagowa
+  lat: 52.260625
+  lon: 15.261666666666667
+  altitude: 110.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.6
+  iso: 200
+  width: 4729
+  height: 3276
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-01 16:08:09.000000000+02:00

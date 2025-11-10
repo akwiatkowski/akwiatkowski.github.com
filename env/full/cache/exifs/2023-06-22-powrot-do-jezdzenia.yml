@@ -1,10 +1,8 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2023-06-22-powrot-do-jezdzenia
 - image_filename: 2023_06_22__15_51_P6223179.jpg
   post_slug: 2023-06-22-powrot-do-jezdzenia
-  lat: 52.46083333333333
-  lon: 17.20138888888889
+  lat: 52.46088888888889
+  lon: 17.201277777777776
   altitude: 99.0
   focal_length: 12.0
   focal_length_35: 24.0

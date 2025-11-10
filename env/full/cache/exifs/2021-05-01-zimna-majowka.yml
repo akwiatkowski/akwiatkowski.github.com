@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-05-01-zimna-majowka
 - image_filename: 2021_05_01__15_53_DSC09925.jpg
   post_slug: 2021-05-01-zimna-majowka
   focal_length: 85.0
@@ -29,6 +27,20 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-05-01 15:55:00.000000000+02:00
+- image_filename: 2021_05_01__15_56_DSC09930.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-05-01 15:56:16.000000000+02:00
 - image_filename: 2021_05_01__15_58_DSC09934.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.84401388888889
@@ -46,20 +58,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-05-01 15:58:50.000000000+02:00
-- image_filename: 2021_05_01__15_56_DSC09930.jpg
-  post_slug: 2021-05-01-zimna-majowka
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-05-01 15:56:16.000000000+02:00
 - image_filename: 2021_05_01__15_59_DSC09942.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.843833333333336
@@ -111,23 +109,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-05-01 16:02:45.000000000+02:00
-- image_filename: 2021_05_01__16_10_DSC09958.jpg
-  post_slug: 2021-05-01-zimna-majowka
-  lat: 52.841097222222224
-  lon: 17.1975
-  altitude: 66.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 640
-  width: 5815
-  height: 3789
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-01 16:10:18.000000000+02:00
 - image_filename: 2021_05_01__16_03_DSC09947.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.84330555555556
@@ -162,23 +143,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-05-01 16:04:59.000000000+02:00
-- image_filename: 2021_05_01__16_14_DSC09972.jpg
+- image_filename: 2021_05_01__16_10_DSC09958.jpg
   post_slug: 2021-05-01-zimna-majowka
-  lat: 52.84043055555556
-  lon: 17.19823611111111
-  altitude: 67.0
-  focal_length: 100.0
-  focal_length_35: 100.0
+  lat: 52.841097222222224
+  lon: 17.1975
+  altitude: 66.0
+  focal_length: 400.0
+  focal_length_35: 400.0
   crop: 1.0
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 125
-  width: 5643
-  height: 3754
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 5815
+  height: 3789
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  time: 2021-05-01 16:14:23.000000000+02:00
+  time: 2021-05-01 16:10:18.000000000+02:00
 - image_filename: 2021_05_01__16_13_DSC09967.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.84040277777778
@@ -196,6 +177,23 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-05-01 16:13:52.000000000+02:00
+- image_filename: 2021_05_01__16_14_DSC09972.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84043055555556
+  lon: 17.19823611111111
+  altitude: 67.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 125
+  width: 5643
+  height: 3754
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-01 16:14:23.000000000+02:00
 - image_filename: 2021_05_01__16_14_DSC09975.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.84056944444445
@@ -247,23 +245,6 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-05-01 16:18:18.000000000+02:00
-- image_filename: 2021_05_01__16_21_DSC00022.jpg
-  post_slug: 2021-05-01-zimna-majowka
-  lat: 52.84068055555556
-  lon: 17.198958333333334
-  altitude: 68.0
-  focal_length: 37.0
-  focal_length_35: 37.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 5481
-  height: 3646
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-05-01 16:21:47.000000000+02:00
 - image_filename: 2021_05_01__16_18_DSC00005.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.840763888888894
@@ -281,6 +262,23 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-05-01 16:18:43.000000000+02:00
+- image_filename: 2021_05_01__16_21_DSC00022.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84068055555556
+  lon: 17.198958333333334
+  altitude: 68.0
+  focal_length: 37.0
+  focal_length_35: 37.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5481
+  height: 3646
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-01 16:21:47.000000000+02:00
 - image_filename: 2021_05_01__16_25_DSC00029.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.84075
@@ -315,23 +313,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-05-01 16:32:10.000000000+02:00
-- image_filename: 2021_05_01__16_41_DSC00072.jpg
-  post_slug: 2021-05-01-zimna-majowka
-  lat: 52.84365277777778
-  lon: 17.192458333333335
-  altitude: 73.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 200
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-01 16:41:20.000000000+02:00
 - image_filename: 2021_05_01__16_39_DSC00062.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.84401388888889
@@ -349,6 +330,23 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-05-01 16:39:45.000000000+02:00
+- image_filename: 2021_05_01__16_41_DSC00072.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84365277777778
+  lon: 17.192458333333335
+  altitude: 73.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-01 16:41:20.000000000+02:00
 - image_filename: 2021_05_01__16_41_DSC00080.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.843625
@@ -383,6 +381,23 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-05-01 16:41:59.000000000+02:00
+- image_filename: 2021_05_01__16_43_DSC00094.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84365277777778
+  lon: 17.191097222222222
+  altitude: 79.0
+  focal_length: 370.6
+  focal_length_35: 370.0
+  crop: 0.9983810037776578
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 1600
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-05-01 16:43:47.000000000+02:00
 - image_filename: 2021_05_01__16_51_DSC00098.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.84169444444445
@@ -417,23 +432,6 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-05-01 17:07:32.000000000+02:00
-- image_filename: 2021_05_01__16_43_DSC00094.jpg
-  post_slug: 2021-05-01-zimna-majowka
-  lat: 52.84365277777778
-  lon: 17.191097222222222
-  altitude: 79.0
-  focal_length: 370.6
-  focal_length_35: 370.0
-  crop: 0.9983810037776578
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 1600
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-05-01 16:43:47.000000000+02:00
 - image_filename: 2021_05_01__17_14_DSC00111.jpg
   post_slug: 2021-05-01-zimna-majowka
   lat: 52.843944444444446

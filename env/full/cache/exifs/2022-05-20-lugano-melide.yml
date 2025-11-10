@@ -1,256 +1,22 @@
 ---
-- image_filename: 2022_05_20__11_21_P5202351.jpg
+- image_filename: 2022_05_20__06_44_P5202055.jpg
   post_slug: 2022-05-20-lugano-melide
-  lat: 45.97511111111111
-  lon: 8.965847222222221
-  altitude: 314.0
-  focal_length: 29.0
-  focal_length_35: 58.0
+  lat: 45.89279166666667
+  lon: 8.66798611111111
+  altitude: 277.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
   exposure: 0.00625
   exposure_string: 1/160 s
-  focus_distance: 24.67
+  focus_distance: 4.57
   iso: 200
-  width: 5144
-  height: 3779
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-20 11:21:15.000000000+02:00
-- image_filename: 2022_05_20__13_41_P5202969.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.95225
-  lon: 8.949861111111112
-  altitude: 315.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 6.16
-  iso: 400
-  width: 5240
-  height: 3377
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-05-20 13:41:27.000000000+02:00
-- image_filename: 2022_05_20__11_06_P5202304.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.992736111111114
-  lon: 8.950777777777777
-  altitude: 331.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 31.62
-  iso: 200
-  width: 8145
-  height: 6086
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 11:06:47.000000000+02:00
-- image_filename: 2022_05_20__12_36_P5202799.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.953500000000005
-  lon: 8.950527777777777
-  altitude: 320.0
-  focal_length: 164.0
-  focal_length_35: 328.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 4.95
-  iso: 200
-  width: 5051
-  height: 3646
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-05-20 12:36:11.000000000+02:00
-- image_filename: 2022_05_20__12_36_P5202800.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.95340277777778
-  lon: 8.950430555555554
-  altitude: 315.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 5.17
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-05-20 12:36:32.000000000+02:00
-- image_filename: 2022_05_20__09_05_P5202154.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.00193055555555
-  lon: 8.950111111111111
-  altitude: 327.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 16.38
-  iso: 200
-  width: 8146
-  height: 6094
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 09:05:00.000000000+02:00
-- image_filename: 2022_05_20__09_35_P5202203.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.003625
-  lon: 8.950652777777776
-  altitude: 325.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 5.08
-  iso: 200
-  width: 7474
-  height: 6109
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 09:35:37.000000000+02:00
-- image_filename: 2022_05_20__13_34_P5202876.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.952111111111115
-  lon: 8.950319444444444
-  altitude: 331.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 16.65
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-05-20 13:34:23.000000000+02:00
-- image_filename: 2022_05_20__12_06_P5202604.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.95341666666667
-  lon: 8.951527777777777
-  altitude: 320.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 7.55
-  iso: 200
-  width: 4856
-  height: 3702
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 12:06:58.000000000+02:00
-- image_filename: 2022_05_20__19_13_P5204221.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32873611111111
-  lon: 9.415444444444445
-  altitude: 449.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 14.24
-  iso: 400
-  width: 3849
-  height: 5131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:13:35.000000000+02:00
-- image_filename: 2022_05_20__09_22_P5202180.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.99991666666667
-  lon: 8.949291666666667
-  altitude: 332.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 2.8
-  iso: 200
-  width: 6812
-  height: 6032
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 09:22:53.000000000+02:00
-- image_filename: 2022_05_20__11_04_P5202287.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.993125
-  lon: 8.952361111111111
-  altitude: 328.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 31.03
-  iso: 200
-  width: 5083
-  height: 3699
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 11:04:01.000000000+02:00
-- image_filename: 2022_05_20__19_41_P5204282.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.329125000000005
-  lon: 9.415736111111112
-  altitude: 451.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5616
-  height: 8051
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:41:09.000000000+02:00
-- image_filename: 2022_05_20__15_47_P5203896.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.17183333333333
-  lon: 9.422749999999999
-  altitude: 249.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 15.61
-  iso: 1000
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 15:47:19.000000000+02:00
+  time: 2022-05-20 06:44:53.000000000+02:00
 - image_filename: 2022_05_20__08_40_P5202127.jpg
   post_slug: 2022-05-20-lugano-melide
   lat: 45.84948611111111
@@ -269,366 +35,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-20 08:40:00.000000000+02:00
-- image_filename: 2022_05_20__20_11_P5204322.jpg
+- image_filename: 2022_05_20__09_05_P5202154.jpg
   post_slug: 2022-05-20-lugano-melide
-  lat: 46.32613888888889
-  lon: 9.420569444444444
-  altitude: 413.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 2.5
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 4.86
-  iso: 200
-  width: 8017
-  height: 6077
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-05-20 20:11:59.000000000+02:00
-- image_filename: 2022_05_20__11_29_P5202392.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.96263888888889
-  lon: 8.960791666666665
-  altitude: 316.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 69.42
-  iso: 200
-  width: 5216
-  height: 3880
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 11:29:44.000000000+02:00
-- image_filename: 2022_05_20__19_29_P5204261.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32906944444445
-  lon: 9.411805555555556
-  altitude: 458.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1.57
-  iso: 6400
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:29:32.000000000+02:00
-- image_filename: 2022_05_20__11_05_P5202300.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.993125
-  lon: 8.952361111111111
-  altitude: 328.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 51.52
-  iso: 200
-  width: 5168
-  height: 3815
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 11:05:54.000000000+02:00
-- image_filename: 2022_05_20__14_00_P5203157.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.95225
-  lon: 8.950847222222222
-  altitude: 323.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.31
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 14:00:13.000000000+02:00
-- image_filename: 2022_05_20__20_10_P5204319.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.326347222222225
-  lon: 9.42023611111111
-  altitude: 412.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.25
-  exposure_string: 1/4 s
-  focus_distance: 25.5
-  iso: 200
-  width: 7517
-  height: 5889
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-05-20 20:10:19.000000000+02:00
-- image_filename: 2022_05_20__09_26_P5202185.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.00001388888889
-  lon: 8.949319444444445
-  altitude: 334.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 26.42
-  iso: 200
-  width: 5819
-  height: 7967
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 09:26:38.000000000+02:00
-- image_filename: 2022_05_20__11_27_P5202381.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.96841666666667
-  lon: 8.969847222222223
-  altitude: 320.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 29.78
-  iso: 200
-  width: 8094
-  height: 5992
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 11:27:24.000000000+02:00
-- image_filename: 2022_05_20__11_16_P5202324.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.991958333333336
-  lon: 8.958069444444444
-  altitude: 324.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 17.56
-  iso: 200
-  width: 5133
-  height: 3764
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 11:16:00.000000000+02:00
-- image_filename: 2022_05_20__20_24_P5204394.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32716666666667
-  lon: 9.42161111111111
-  altitude: 428.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  focus_distance: 8.5
-  iso: 200
-  width: 7840
-  height: 5922
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-05-20 20:24:25.000000000+02:00
-- image_filename: 2022_05_20__15_21_P5203549.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.08972222222222
-  lon: 9.278736111111112
-  altitude: 259.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 60.24
-  iso: 500
-  width: 5080
-  height: 3691
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 15:21:35.000000000+02:00
-- image_filename: 2022_05_20__19_52_P5204299.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32729166666667
-  lon: 9.413986111111111
-  altitude: 422.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 8.09
-  iso: 200
-  width: 7797
-  height: 5473
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:52:09.000000000+02:00
-- image_filename: 2022_05_20__12_10_P5202612.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.95351388888889
-  lon: 8.951305555555555
-  altitude: 314.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 3.12
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 12:10:31.000000000+02:00
-- image_filename: 2022_05_20__20_19_P5204383.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.326875
-  lon: 9.420625
-  altitude: 415.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 0.95
-  iso: 3200
-  width: 4836
-  height: 3455
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-05-20 20:19:32.000000000+02:00
-- image_filename: 2022_05_20__12_00_P5202583.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.953986111111114
-  lon: 8.950541666666666
+  lat: 46.00193055555555
+  lon: 8.950111111111111
   altitude: 327.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  focal_length: 54.0
+  focal_length_35: 108.0
   crop: 2.0
-  aperture: 4.5
+  aperture: 6.3
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 25.28
+  focus_distance: 16.38
   iso: 200
-  width: 5192
-  height: 3850
+  width: 8146
+  height: 6094
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-20 12:00:48.000000000+02:00
-- image_filename: 2022_05_20__11_10_P5202312.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.99325
-  lon: 8.947166666666666
-  altitude: 333.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 47.22
-  iso: 200
-  width: 8086
-  height: 5983
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 11:10:13.000000000+02:00
-- image_filename: 2022_05_20__19_35_P5204275.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.329125000000005
-  lon: 9.411722222222222
-  altitude: 448.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.2
-  exposure_string: 1/5 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7729
-  height: 5724
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:35:16.000000000+02:00
-- image_filename: 2022_05_20__15_17_P5203495.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.062999999999995
-  lon: 9.268972222222223
-  altitude: 251.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 49.05
-  iso: 1600
-  width: 5161
-  height: 3840
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 15:17:59.000000000+02:00
-- image_filename: 2022_05_20__11_18_P5202333.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.98518055555556
-  lon: 8.961625
-  altitude: 317.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 21.84
-  iso: 200
-  width: 5156
-  height: 3856
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 11:18:13.000000000+02:00
-- image_filename: 2022_05_20__19_11_P5204217.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.328625
-  lon: 9.415333333333333
-  altitude: 447.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5292
-  height: 7110
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:11:55.000000000+02:00
+  time: 2022-05-20 09:05:00.000000000+02:00
 - image_filename: 2022_05_20__09_11_P5202166.jpg
   post_slug: 2022-05-20-lugano-melide
   lat: 45.99955555555556
@@ -647,60 +71,168 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-20 09:11:31.000000000+02:00
-- image_filename: 2022_05_20__12_03_P5202592.jpg
+- image_filename: 2022_05_20__09_12_P5202167.jpg
   post_slug: 2022-05-20-lugano-melide
-  lat: 45.95391666666667
-  lon: 8.950791666666666
-  altitude: 322.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 17.92
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 12:03:21.000000000+02:00
-- image_filename: 2022_05_20__12_12_P5202617.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.95356944444445
-  lon: 8.951083333333333
-  altitude: 319.0
-  focal_length: 18.0
-  focal_length_35: 36.0
+  lat: 45.999583333333334
+  lon: 8.949694444444445
+  altitude: 324.0
+  focal_length: 41.0
+  focal_length_35: 82.0
   crop: 2.0
   aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 2.46
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 34.93
   iso: 200
-  width: 5097
-  height: 3714
+  width: 7960
+  height: 5802
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-20 12:12:41.000000000+02:00
-- image_filename: 2022_05_20__11_40_P5202477.jpg
+  time: 2022-05-20 09:12:19.000000000+02:00
+- image_filename: 2022_05_20__09_22_P5202180.jpg
   post_slug: 2022-05-20-lugano-melide
-  lat: 45.95279166666667
-  lon: 8.954625
-  altitude: 316.0
-  focal_length: 300.0
-  focal_length_35: 600.0
+  lat: 45.99991666666667
+  lon: 8.949291666666667
+  altitude: 332.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 2.8
+  iso: 200
+  width: 6812
+  height: 6032
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 09:22:53.000000000+02:00
+- image_filename: 2022_05_20__09_26_P5202185.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.00001388888889
+  lon: 8.949319444444445
+  altitude: 334.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 26.42
+  iso: 200
+  width: 5819
+  height: 7967
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 09:26:38.000000000+02:00
+- image_filename: 2022_05_20__09_27_P5202186.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.000055555555555
+  lon: 8.949319444444445
+  altitude: 335.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 7.16
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.03
   iso: 200
+  width: 7265
+  height: 5905
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 09:27:43.000000000+02:00
+- image_filename: 2022_05_20__09_28_P5202188.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.00033333333333
+  lon: 8.949305555555556
+  altitude: 327.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 2.0
+  exposure_string: 3.2 s
+  focus_distance: 4.57
+  iso: 200
+  width: 5048
+  height: 3904
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 09:28:14.000000000+02:00
+- image_filename: 2022_05_20__09_30_P5202194.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.001263888888886
+  lon: 8.949305555555556
+  altitude: 331.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.1
+  iso: 320
   width: 5239
   height: 3911
-  lens: M.40-150mm F2.8 + MC-20
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-20 11:40:13.000000000+02:00
+  time: 2022-05-20 09:30:26.000000000+02:00
+- image_filename: 2022_05_20__09_35_P5202203.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.003625
+  lon: 8.950652777777776
+  altitude: 325.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.08
+  iso: 200
+  width: 7474
+  height: 6109
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 09:35:37.000000000+02:00
+- image_filename: 2022_05_20__09_43_P5202221.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.00352777777778
+  lon: 8.950486111111111
+  altitude: 326.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3694
+  height: 5177
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 09:43:42.000000000+02:00
+- image_filename: 2022_05_20__10_44_P5202268.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.00420833333333
+  lon: 8.952208333333333
+  altitude: 341.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 16.32
+  iso: 200
+  width: 6063
+  height: 8153
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 10:44:53.000000000+02:00
 - image_filename: 2022_05_20__11_03_P5202286.jpg
   post_slug: 2022-05-20-lugano-melide
   lat: 45.993125
@@ -719,6 +251,330 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-20 11:03:23.000000000+02:00
+- image_filename: 2022_05_20__11_04_P5202287.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.993125
+  lon: 8.952361111111111
+  altitude: 328.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 31.03
+  iso: 200
+  width: 5083
+  height: 3699
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:04:01.000000000+02:00
+- image_filename: 2022_05_20__11_05_P5202300.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.993125
+  lon: 8.952361111111111
+  altitude: 328.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 51.52
+  iso: 200
+  width: 5168
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:05:54.000000000+02:00
+- image_filename: 2022_05_20__11_06_P5202304.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.992736111111114
+  lon: 8.950777777777777
+  altitude: 331.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 31.62
+  iso: 200
+  width: 8145
+  height: 6086
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:06:47.000000000+02:00
+- image_filename: 2022_05_20__11_10_P5202312.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.99325
+  lon: 8.947166666666666
+  altitude: 333.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 47.22
+  iso: 200
+  width: 8086
+  height: 5983
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:10:13.000000000+02:00
+- image_filename: 2022_05_20__11_16_P5202324.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.991958333333336
+  lon: 8.958069444444444
+  altitude: 324.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 17.56
+  iso: 200
+  width: 5133
+  height: 3764
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:16:00.000000000+02:00
+- image_filename: 2022_05_20__11_18_P5202333.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.98518055555556
+  lon: 8.961625
+  altitude: 317.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 21.84
+  iso: 200
+  width: 5156
+  height: 3856
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:18:13.000000000+02:00
+- image_filename: 2022_05_20__11_21_P5202351.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.97511111111111
+  lon: 8.965847222222221
+  altitude: 314.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 24.67
+  iso: 200
+  width: 5144
+  height: 3779
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:21:15.000000000+02:00
+- image_filename: 2022_05_20__11_27_P5202381.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.96841666666667
+  lon: 8.969847222222223
+  altitude: 320.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 29.78
+  iso: 200
+  width: 8094
+  height: 5992
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:27:24.000000000+02:00
+- image_filename: 2022_05_20__11_29_P5202392.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.96263888888889
+  lon: 8.960791666666665
+  altitude: 316.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 69.42
+  iso: 200
+  width: 5216
+  height: 3880
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:29:44.000000000+02:00
+- image_filename: 2022_05_20__11_40_P5202477.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.95279166666667
+  lon: 8.954625
+  altitude: 316.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 7.16
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:40:13.000000000+02:00
+- image_filename: 2022_05_20__11_41_P5202548.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.952875000000006
+  lon: 8.954430555555556
+  altitude: 323.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 23.67
+  iso: 200
+  width: 4947
+  height: 3486
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:41:24.000000000+02:00
+- image_filename: 2022_05_20__11_57_P5202575.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.95393055555556
+  lon: 8.950375
+  altitude: 322.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 9.44
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 11:57:38.000000000+02:00
+- image_filename: 2022_05_20__12_00_P5202583.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.953986111111114
+  lon: 8.950541666666666
+  altitude: 327.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.28
+  iso: 200
+  width: 5192
+  height: 3850
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 12:00:48.000000000+02:00
+- image_filename: 2022_05_20__12_03_P5202592.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.95391666666667
+  lon: 8.950791666666666
+  altitude: 322.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 17.92
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 12:03:21.000000000+02:00
+- image_filename: 2022_05_20__12_06_P5202604.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.95341666666667
+  lon: 8.951527777777777
+  altitude: 320.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 7.55
+  iso: 200
+  width: 4856
+  height: 3702
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 12:06:58.000000000+02:00
+- image_filename: 2022_05_20__12_10_P5202612.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.95351388888889
+  lon: 8.951305555555555
+  altitude: 314.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.12
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 12:10:31.000000000+02:00
+- image_filename: 2022_05_20__12_12_P5202617.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.95356944444445
+  lon: 8.951083333333333
+  altitude: 319.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.46
+  iso: 200
+  width: 5097
+  height: 3714
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 12:12:41.000000000+02:00
+- image_filename: 2022_05_20__12_18_P5202634.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.95373611111111
+  lon: 8.950569444444444
+  altitude: 316.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.84
+  iso: 200
+  width: 3282
+  height: 2293
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 12:18:05.000000000+02:00
 - image_filename: 2022_05_20__12_22_P5202699.jpg
   post_slug: 2022-05-20-lugano-melide
   lat: 45.95359722222223
@@ -755,438 +611,78 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkIII
   time: 2022-05-20 12:24:14.000000000+02:00
-- image_filename: 2022_05_20__19_29_P5204262.jpg
+- image_filename: 2022_05_20__12_36_P5202799.jpg
   post_slug: 2022-05-20-lugano-melide
-  lat: 46.32906944444445
-  lon: 9.411805555555556
-  altitude: 458.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 12.12
-  iso: 800
-  width: 5109
-  height: 3734
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:29:47.000000000+02:00
-- image_filename: 2022_05_20__11_57_P5202575.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.95393055555556
-  lon: 8.950375
-  altitude: 322.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 9.44
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 11:57:38.000000000+02:00
-- image_filename: 2022_05_20__19_17_P5204226.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32929166666667
-  lon: 9.414958333333333
-  altitude: 453.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 58.1
-  iso: 200
-  width: 8080
-  height: 5989
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:17:45.000000000+02:00
-- image_filename: 2022_05_20__19_01_P5204198.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32716666666667
-  lon: 9.414944444444444
-  altitude: 415.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 5.97
-  iso: 200
-  width: 7582
-  height: 6073
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:01:21.000000000+02:00
-- image_filename: 2022_05_20__19_36_P5204278.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32931944444445
-  lon: 9.412513888888888
-  altitude: 452.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 63.01
-  iso: 200
-  width: 8149
-  height: 6053
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:36:22.000000000+02:00
-- image_filename: 2022_05_20__09_30_P5202194.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.001263888888886
-  lon: 8.949305555555556
-  altitude: 331.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 1.1
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 09:30:26.000000000+02:00
-- image_filename: 2022_05_20__20_23_P5204393.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.327125
-  lon: 9.421902777777778
-  altitude: 427.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.2
-  exposure_string: 1/5 s
-  focus_distance: 12.75
-  iso: 200
-  width: 7784
-  height: 6115
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-05-20 20:23:55.000000000+02:00
-- image_filename: 2022_05_20__19_44_P5204290.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.328833333333336
-  lon: 9.415888888888889
-  altitude: 455.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 10.12
-  iso: 200
-  width: 5760
-  height: 8188
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:44:36.000000000+02:00
-- image_filename: 2022_05_20__09_43_P5202221.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.00352777777778
-  lon: 8.950486111111111
-  altitude: 326.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 3694
-  height: 5177
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 09:43:42.000000000+02:00
-- image_filename: 2022_05_20__09_12_P5202167.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.999583333333334
-  lon: 8.949694444444445
-  altitude: 324.0
-  focal_length: 41.0
-  focal_length_35: 82.0
+  lat: 45.953500000000005
+  lon: 8.950527777777777
+  altitude: 320.0
+  focal_length: 164.0
+  focal_length_35: 328.0
   crop: 2.0
   aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 34.93
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 4.95
   iso: 200
-  width: 7960
-  height: 5802
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 09:12:19.000000000+02:00
-- image_filename: 2022_05_20__11_41_P5202548.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.952875000000006
-  lon: 8.954430555555556
-  altitude: 323.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 23.67
-  iso: 200
-  width: 4947
-  height: 3486
+  width: 5051
+  height: 3646
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkIII
-  time: 2022-05-20 11:41:24.000000000+02:00
-- image_filename: 2022_05_20__20_19_P5204368.jpg
+  time: 2022-05-20 12:36:11.000000000+02:00
+- image_filename: 2022_05_20__12_36_P5202800.jpg
   post_slug: 2022-05-20-lugano-melide
-  lat: 46.326875
-  lon: 9.420625
-  altitude: 415.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 0.31
-  iso: 3200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-05-20 20:19:05.000000000+02:00
-- image_filename: 2022_05_20__09_28_P5202188.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.00033333333333
-  lon: 8.949305555555556
-  altitude: 327.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 3.0
-  exposure_string: 3 s
-  focus_distance: 4.57
-  iso: 200
-  width: 5048
-  height: 3904
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 09:28:14.000000000+02:00
-- image_filename: 2022_05_20__09_27_P5202186.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.000055555555555
-  lon: 8.949319444444445
-  altitude: 335.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 4.03
-  iso: 200
-  width: 7265
-  height: 5905
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 09:27:43.000000000+02:00
-- image_filename: 2022_05_20__15_32_P5203707.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.14838888888889
-  lon: 9.306222222222223
-  altitude: 264.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1000.0
-  iso: 6400
-  width: 5152
-  height: 3831
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 15:32:16.000000000+02:00
-- image_filename: 2022_05_20__10_44_P5202268.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.00420833333333
-  lon: 8.952208333333333
-  altitude: 341.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 16.32
-  iso: 200
-  width: 6063
-  height: 8153
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 10:44:53.000000000+02:00
-- image_filename: 2022_05_20__19_08_P5204210.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.328125
-  lon: 9.414388888888888
-  altitude: 431.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 48.04
-  iso: 200
-  width: 8149
-  height: 6075
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:08:04.000000000+02:00
-- image_filename: 2022_05_20__12_18_P5202634.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.95373611111111
-  lon: 8.950569444444444
-  altitude: 316.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 45.95340277777778
+  lon: 8.950430555555554
+  altitude: 315.0
+  focal_length: 140.0
+  focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 1.84
+  focus_distance: 5.17
   iso: 200
-  width: 3282
-  height: 2293
-  lens: OLYMPUS M.12-100mm F4.0
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkIII
-  time: 2022-05-20 12:18:05.000000000+02:00
-- image_filename: 2022_05_20__19_36_P5204279.jpg
+  time: 2022-05-20 12:36:32.000000000+02:00
+- image_filename: 2022_05_20__13_34_P5202876.jpg
   post_slug: 2022-05-20-lugano-melide
-  lat: 46.32933333333334
-  lon: 9.412819444444445
-  altitude: 451.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 45.952111111111115
+  lon: 8.950319444444444
+  altitude: 331.0
+  focal_length: 300.0
+  focal_length_35: 600.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 52.17
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 16.65
   iso: 200
-  width: 8062
-  height: 5974
-  lens: OLYMPUS M.12-100mm F4.0
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkIII
-  time: 2022-05-20 19:36:52.000000000+02:00
-- image_filename: 2022_05_20__19_10_P5204214.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32833333333333
-  lon: 9.414888888888889
-  altitude: 433.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 10.44
-  iso: 200
-  width: 7660
-  height: 5851
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:10:07.000000000+02:00
-- image_filename: 2022_05_20__14_01_P5203182.jpg
+  time: 2022-05-20 13:34:23.000000000+02:00
+- image_filename: 2022_05_20__13_41_P5202969.jpg
   post_slug: 2022-05-20-lugano-melide
   lat: 45.95225
-  lon: 8.950847222222222
-  altitude: 323.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lon: 8.949861111111112
+  altitude: 315.0
+  focal_length: 300.0
+  focal_length_35: 600.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.6
   exposure: 0.0025
   exposure_string: 1/400 s
-  focus_distance: 4.88
-  iso: 200
-  width: 5181
-  height: 3838
-  lens: OLYMPUS M.12-100mm F4.0
+  focus_distance: 6.16
+  iso: 400
+  width: 5240
+  height: 3377
+  lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkIII
-  time: 2022-05-20 14:01:18.000000000+02:00
-- image_filename: 2022_05_20__06_44_P5202055.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 45.89279166666667
-  lon: 8.66798611111111
-  altitude: 277.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 4.57
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 06:44:53.000000000+02:00
-- image_filename: 2022_05_20__19_05_P5204207.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32754166666667
-  lon: 9.414222222222223
-  altitude: 421.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 8.82
-  iso: 800
-  width: 4612
-  height: 3542
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:05:52.000000000+02:00
-- image_filename: 2022_05_20__19_18_P5204227.jpg
-  post_slug: 2022-05-20-lugano-melide
-  lat: 46.32930555555556
-  lon: 9.414597222222223
-  altitude: 446.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 54.25
-  iso: 200
-  width: 8077
-  height: 5966
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-20 19:18:16.000000000+02:00
+  time: 2022-05-20 13:41:27.000000000+02:00
 - image_filename: 2022_05_20__13_42_P5203044.jpg
   post_slug: 2022-05-20-lugano-melide
   lat: 45.95225
@@ -1205,6 +701,114 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkIII
   time: 2022-05-20 13:42:02.000000000+02:00
+- image_filename: 2022_05_20__14_00_P5203157.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.95225
+  lon: 8.950847222222222
+  altitude: 323.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.31
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 14:00:13.000000000+02:00
+- image_filename: 2022_05_20__14_01_P5203182.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 45.95225
+  lon: 8.950847222222222
+  altitude: 323.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 4.88
+  iso: 200
+  width: 5181
+  height: 3838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 14:01:18.000000000+02:00
+- image_filename: 2022_05_20__15_17_P5203495.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.062999999999995
+  lon: 9.268972222222223
+  altitude: 251.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 49.05
+  iso: 1600
+  width: 5161
+  height: 3840
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 15:17:59.000000000+02:00
+- image_filename: 2022_05_20__15_21_P5203549.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.08972222222222
+  lon: 9.278736111111112
+  altitude: 259.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 60.24
+  iso: 500
+  width: 5080
+  height: 3691
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 15:21:35.000000000+02:00
+- image_filename: 2022_05_20__15_32_P5203707.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.14838888888889
+  lon: 9.306222222222223
+  altitude: 264.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 6400
+  width: 5152
+  height: 3831
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 15:32:16.000000000+02:00
+- image_filename: 2022_05_20__15_47_P5203896.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.17183333333333
+  lon: 9.422749999999999
+  altitude: 249.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 15.61
+  iso: 1000
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 15:47:19.000000000+02:00
 - image_filename: 2022_05_20__19_00_P5204197.jpg
   post_slug: 2022-05-20-lugano-melide
   lat: 46.32718055555556
@@ -1223,3 +827,399 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-20 19:00:45.000000000+02:00
+- image_filename: 2022_05_20__19_01_P5204198.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32716666666667
+  lon: 9.414944444444444
+  altitude: 415.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 5.97
+  iso: 200
+  width: 7582
+  height: 6073
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:01:21.000000000+02:00
+- image_filename: 2022_05_20__19_05_P5204207.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32754166666667
+  lon: 9.414222222222223
+  altitude: 421.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 8.82
+  iso: 800
+  width: 4612
+  height: 3542
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:05:52.000000000+02:00
+- image_filename: 2022_05_20__19_08_P5204210.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.328125
+  lon: 9.414388888888888
+  altitude: 431.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 48.04
+  iso: 200
+  width: 8149
+  height: 6075
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:08:04.000000000+02:00
+- image_filename: 2022_05_20__19_10_P5204214.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32833333333333
+  lon: 9.414888888888889
+  altitude: 433.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 10.44
+  iso: 200
+  width: 7660
+  height: 5851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:10:07.000000000+02:00
+- image_filename: 2022_05_20__19_11_P5204217.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.328625
+  lon: 9.415333333333333
+  altitude: 447.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5292
+  height: 7110
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:11:55.000000000+02:00
+- image_filename: 2022_05_20__19_13_P5204221.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32873611111111
+  lon: 9.415444444444445
+  altitude: 449.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 14.24
+  iso: 400
+  width: 3849
+  height: 5131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:13:35.000000000+02:00
+- image_filename: 2022_05_20__19_17_P5204226.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32929166666667
+  lon: 9.414958333333333
+  altitude: 453.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 58.1
+  iso: 200
+  width: 8080
+  height: 5989
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:17:45.000000000+02:00
+- image_filename: 2022_05_20__19_18_P5204227.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32930555555556
+  lon: 9.414597222222223
+  altitude: 446.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 54.25
+  iso: 200
+  width: 8077
+  height: 5966
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:18:16.000000000+02:00
+- image_filename: 2022_05_20__19_29_P5204261.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32906944444445
+  lon: 9.411805555555556
+  altitude: 458.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.57
+  iso: 6400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:29:32.000000000+02:00
+- image_filename: 2022_05_20__19_29_P5204262.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32906944444445
+  lon: 9.411805555555556
+  altitude: 458.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 12.12
+  iso: 800
+  width: 5109
+  height: 3734
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:29:47.000000000+02:00
+- image_filename: 2022_05_20__19_35_P5204275.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.329125000000005
+  lon: 9.411722222222222
+  altitude: 448.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7729
+  height: 5724
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:35:16.000000000+02:00
+- image_filename: 2022_05_20__19_36_P5204278.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32931944444445
+  lon: 9.412513888888888
+  altitude: 452.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 63.01
+  iso: 200
+  width: 8149
+  height: 6053
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:36:22.000000000+02:00
+- image_filename: 2022_05_20__19_36_P5204279.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32933333333334
+  lon: 9.412819444444445
+  altitude: 451.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 52.17
+  iso: 200
+  width: 8062
+  height: 5974
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:36:52.000000000+02:00
+- image_filename: 2022_05_20__19_41_P5204282.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.329125000000005
+  lon: 9.415736111111112
+  altitude: 451.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5616
+  height: 8051
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:41:09.000000000+02:00
+- image_filename: 2022_05_20__19_44_P5204290.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.328833333333336
+  lon: 9.415888888888889
+  altitude: 455.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 10.12
+  iso: 200
+  width: 5760
+  height: 8188
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:44:36.000000000+02:00
+- image_filename: 2022_05_20__19_52_P5204299.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32729166666667
+  lon: 9.413986111111111
+  altitude: 422.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 8.09
+  iso: 200
+  width: 7797
+  height: 5473
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-20 19:52:09.000000000+02:00
+- image_filename: 2022_05_20__20_10_P5204319.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.326347222222225
+  lon: 9.42023611111111
+  altitude: 412.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 25.5
+  iso: 200
+  width: 7517
+  height: 5889
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-05-20 20:10:19.000000000+02:00
+- image_filename: 2022_05_20__20_11_P5204322.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32613888888889
+  lon: 9.420569444444444
+  altitude: 413.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 4.86
+  iso: 200
+  width: 8017
+  height: 6077
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-05-20 20:11:59.000000000+02:00
+- image_filename: 2022_05_20__20_19_P5204368.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.326875
+  lon: 9.420625
+  altitude: 415.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.31
+  iso: 3200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-05-20 20:19:05.000000000+02:00
+- image_filename: 2022_05_20__20_19_P5204383.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.326875
+  lon: 9.420625
+  altitude: 415.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.95
+  iso: 3200
+  width: 4836
+  height: 3455
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-05-20 20:19:32.000000000+02:00
+- image_filename: 2022_05_20__20_23_P5204393.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.327125
+  lon: 9.421902777777778
+  altitude: 427.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 12.75
+  iso: 200
+  width: 7784
+  height: 6115
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-05-20 20:23:55.000000000+02:00
+- image_filename: 2022_05_20__20_24_P5204394.jpg
+  post_slug: 2022-05-20-lugano-melide
+  lat: 46.32716666666667
+  lon: 9.42161111111111
+  altitude: 428.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 8.5
+  iso: 200
+  width: 7840
+  height: 5922
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-05-20 20:24:25.000000000+02:00

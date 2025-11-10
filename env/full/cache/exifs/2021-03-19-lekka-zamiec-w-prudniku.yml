@@ -1,24 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-03-19-lekka-zamiec-w-prudniku
-- image_filename: 2021_03_19__19_50__3191548.jpg
-  post_slug: 2021-03-19-lekka-zamiec-w-prudniku
-  lat: 50.32044444444445
-  lon: 17.579180555555556
-  altitude: 261.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 1000.0
-  iso: 1250
-  width: 5112
-  height: 3817
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  time: 2021-03-19 19:50:42.000000000+01:00
 - image_filename: 2021_03_19__16_59__3191458.jpg
   post_slug: 2021-03-19-lekka-zamiec-w-prudniku
   lat: 50.32161111111112
@@ -163,6 +143,24 @@
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   time: 2021-03-19 19:50:35.000000000+01:00
+- image_filename: 2021_03_19__19_50__3191548.jpg
+  post_slug: 2021-03-19-lekka-zamiec-w-prudniku
+  lat: 50.32044444444445
+  lon: 17.579180555555556
+  altitude: 261.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 1250
+  width: 5112
+  height: 3817
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-03-19 19:50:42.000000000+01:00
 - image_filename: 2021_03_19__19_59__3191565.jpg
   post_slug: 2021-03-19-lekka-zamiec-w-prudniku
   lat: 50.32068055555556
@@ -235,24 +233,6 @@
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   time: 2021-03-19 20:06:16.000000000+01:00
-- image_filename: 2021_03_19__20_13__3191595.jpg
-  post_slug: 2021-03-19-lekka-zamiec-w-prudniku
-  lat: 50.32251388888889
-  lon: 17.574291666666667
-  altitude: 264.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5113
-  height: 3817
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  time: 2021-03-19 20:13:12.000000000+01:00
 - image_filename: 2021_03_19__20_07__3191581.jpg
   post_slug: 2021-03-19-lekka-zamiec-w-prudniku
   lat: 50.322208333333336
@@ -289,24 +269,24 @@
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   time: 2021-03-19 20:11:57.000000000+01:00
-- image_filename: 2021_03_19__20_14__3191599.jpg
+- image_filename: 2021_03_19__20_13__3191595.jpg
   post_slug: 2021-03-19-lekka-zamiec-w-prudniku
-  lat: 50.32188888888889
-  lon: 17.57338888888889
+  lat: 50.32251388888889
+  lon: 17.574291666666667
   altitude: 264.0
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
-  aperture: 1.4
-  exposure: 1.0
-  exposure_string: 1 s
+  aperture: 1.2
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
   focus_distance: 1000.0
   iso: 200
-  width: 5111
-  height: 3816
+  width: 5113
+  height: 3817
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
-  time: 2021-03-19 20:14:41.000000000+01:00
+  time: 2021-03-19 20:13:12.000000000+01:00
 - image_filename: 2021_03_19__20_14__3191598.jpg
   post_slug: 2021-03-19-lekka-zamiec-w-prudniku
   lat: 50.322027777777784
@@ -325,6 +305,24 @@
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   time: 2021-03-19 20:14:30.000000000+01:00
+- image_filename: 2021_03_19__20_14__3191599.jpg
+  post_slug: 2021-03-19-lekka-zamiec-w-prudniku
+  lat: 50.32188888888889
+  lon: 17.57338888888889
+  altitude: 264.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5111
+  height: 3816
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-03-19 20:14:41.000000000+01:00
 - image_filename: 2021_03_19__20_16__3191602.jpg
   post_slug: 2021-03-19-lekka-zamiec-w-prudniku
   lat: 50.321583333333336

@@ -1,20 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-10-26-opuszczajac-jesienne-rudawy-janowickie
-  lat: 50.88290277777778
-  lon: 15.861152777777777
-  altitude: 355.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2016-10-26 10:02:24+02:00
 - image_filename: IMGP8755raw1.jpg
   post_slug: 2016-10-26-opuszczajac-jesienne-rudawy-janowickie
   lat: 50.88130555555556
@@ -24,11 +8,11 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.04
   exposure_string: 1/25 s
-  time: 2016-10-26 09:51:48+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-26 09:51:48.000000000+02:00
 - image_filename: IMGP8757raw1.jpg
   post_slug: 2016-10-26-opuszczajac-jesienne-rudawy-janowickie
   lat: 50.88202777777778
@@ -38,11 +22,11 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.04
   exposure_string: 1/25 s
-  time: 2016-10-26 09:53:32+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-26 09:53:32.000000000+02:00
 - image_filename: IMGP8761raw1.jpg
   post_slug: 2016-10-26-opuszczajac-jesienne-rudawy-janowickie
   lat: 50.88254166666667
@@ -52,25 +36,11 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.05
   exposure_string: 1/20 s
-  time: 2016-10-26 09:54:58+02:00
-- image_filename: IMGP8810raw1.jpg
-  post_slug: 2016-10-26-opuszczajac-jesienne-rudawy-janowickie
-  lat: 50.882777777777775
-  lon: 15.872597222222224
-  altitude: 364.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 10.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-10-26 10:28:51+02:00
+  time: 2016-10-26 09:54:58.000000000+02:00
 - image_filename: IMGP8805raw1.jpg
   post_slug: 2016-10-26-opuszczajac-jesienne-rudawy-janowickie
   lat: 50.882
@@ -80,8 +50,38 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2016-10-26 10:27:13+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-26 10:27:13.000000000+02:00
+- image_filename: IMGP8810raw1.jpg
+  post_slug: 2016-10-26-opuszczajac-jesienne-rudawy-janowickie
+  lat: 50.882777777777775
+  lon: 15.872597222222224
+  altitude: 364.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 10.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-26 10:28:51.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-10-26-opuszczajac-jesienne-rudawy-janowickie
+  lat: 50.88290277777778
+  lon: 15.861152777777777
+  altitude: 355.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-10-26 10:02:24.000000000+02:00

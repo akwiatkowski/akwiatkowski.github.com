@@ -1,271 +1,19 @@
 ---
-- image_filename: 2019_04_25__17_12_P4250013.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.13848611111111
-  lon: 17.261944444444445
-  altitude: 60.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4575
-  height: 3423
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-04-25 17:12:48+02:00
-  focus_distance: 159.36
 - image_filename: 2019_04_25__16_51_P4250002.jpg
   post_slug: 2019-04-25-okolice-kornika-wiosna
   focal_length: 14.0
   focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-25 16:51:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__17_05_P4250009.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.136180555555555
-  lon: 17.290819444444445
-  altitude: 62.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4535
-  height: 3394
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-25 17:05:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__17_21_P4250025.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.14263888888889
-  lon: 17.23033333333333
-  altitude: 61.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4557
-  height: 3410
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-04-25 17:21:19+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__17_26_P4250028.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.14241666666667
-  lon: 17.230694444444442
-  altitude: 62.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4574
-  height: 3422
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-25 17:26:11+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__17_31_P4250043.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.14606944444444
-  lon: 17.223625
-  altitude: 64.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-04-25 17:31:00+02:00
-  focus_distance: 2.25
-- image_filename: 2019_04_25__17_31_P4250048.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.14790277777778
-  lon: 17.220888888888886
-  altitude: 66.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-25 17:31:47+02:00
-  focus_distance: 106.83
-- image_filename: 2019_04_25__17_39_P4250059.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.16277777777778
-  lon: 17.2215
-  altitude: 71.0
-  focal_length: 65.0
-  focal_length_35: 130.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4579
-  height: 3118
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-25 17:39:32+02:00
-  focus_distance: 139.78
-- image_filename: 2019_04_25__17_51_P4250068.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.186097222222216
-  lon: 17.199875
-  altitude: 72.0
-  focal_length: 77.0
-  focal_length_35: 154.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4532
-  height: 3391
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-25 17:51:00+02:00
-  focus_distance: 42.11
-- image_filename: 2019_04_25__18_08_P4250087.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.20543055555556
-  lon: 17.15295833333333
-  altitude: 73.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4542
-  height: 3398
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-25 18:08:24+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__18_11_P4250101.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.20986111111112
-  lon: 17.14420833333333
-  altitude: 76.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4569
-  height: 3391
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-25 18:11:06+02:00
-  focus_distance: 49.29
-- image_filename: 2019_04_25__18_15_P4250108.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.212833333333336
-  lon: 17.136736111111112
-  altitude: 70.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4473
-  height: 3347
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-04-25 18:15:21+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__18_29_P4250114.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.23863888888889
-  lon: 17.092222222222222
-  altitude: 62.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4184
-  height: 3226
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-25 18:29:32+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__17_55_P4250076.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.19020833333333
-  lon: 17.191694444444444
-  altitude: 69.0
-  focal_length: 37.0
-  focal_length_35: 74.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4477
-  height: 3350
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-25 17:55:27+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__18_11_P4250100.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.20986111111112
-  lon: 17.14420833333333
-  altitude: 76.0
-  focal_length: 55.0
-  focal_length_35: 110.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4464
-  height: 3441
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-25 18:11:01+02:00
-  focus_distance: 1000.0
+  time: 2019-04-25 16:51:57.000000000+02:00
 - image_filename: 2019_04_25__17_05_P4250005.jpg
   post_slug: 2019-04-25-okolice-kornika-wiosna
   lat: 52.13540277777778
@@ -275,213 +23,15 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4535
-  height: 3394
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-04-25 17:05:31+02:00
   focus_distance: 1000.0
-- image_filename: 2019_04_25__18_11_P4250102.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.20986111111112
-  lon: 17.14420833333333
-  altitude: 76.0
-  focal_length: 84.0
-  focal_length_35: 168.0
-  crop: 2.0
-  aperture: 9.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4520
-  height: 3421
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-25 18:11:08+02:00
-  focus_distance: 80.46
-- image_filename: 2019_04_25__17_55_P4250079.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.19020833333333
-  lon: 17.191694444444444
-  altitude: 69.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-04-25 17:55:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__17_19_P4250018.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.14075
-  lon: 17.236625
-  altitude: 60.0
-  focal_length: 69.0
-  focal_length_35: 138.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-25 17:19:11+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__18_08_P4250089.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.206125
-  lon: 17.15186111111111
-  altitude: 74.0
-  focal_length: 69.0
-  focal_length_35: 138.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-04-25 18:08:40+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__17_12_P4250012.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.138527777777774
-  lon: 17.262680555555555
-  altitude: 60.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4616
-  height: 3454
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-04-25 17:12:41+02:00
-  focus_distance: 226.5
-- image_filename: 2019_04_25__17_51_P4250070.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.18683333333333
-  lon: 17.198486111111112
-  altitude: 72.0
-  focal_length: 69.0
-  focal_length_35: 138.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4453
-  height: 3332
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-25 17:51:17+02:00
-  focus_distance: 49.8
-- image_filename: 2019_04_25__17_51_P4250072.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.1875
-  lon: 17.19723611111111
-  altitude: 72.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-25 17:51:32+02:00
-  focus_distance: 197.9
-- image_filename: 2019_04_25__18_08_P4250088.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.205708333333334
-  lon: 17.15244444444444
-  altitude: 74.0
-  focal_length: 69.0
-  focal_length_35: 138.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4474
-  height: 3238
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-25 18:08:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__17_26_P4250031.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.14241666666667
-  lon: 17.230694444444442
-  altitude: 62.0
-  focal_length: 30.0
-  focal_length_35: 60.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4380
-  height: 3278
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-25 17:26:39+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_25__18_15_P4250111.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.21333333333334
-  lon: 17.135416666666668
-  altitude: 70.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4535
   height: 3394
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-04-25 18:15:33+02:00
-  focus_distance: 138.2
-- image_filename: 2019_04_25__17_40_P4250065.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.16277777777778
-  lon: 17.2215
-  altitude: 71.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4288
-  height: 3209
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-25 17:40:03+02:00
-  focus_distance: 1000.0
+  time: 2019-04-25 17:05:31.000000000+02:00
 - image_filename: 2019_04_25__17_05_P4250006.jpg
   post_slug: 2019-04-25-okolice-kornika-wiosna
   lat: 52.13561111111111
@@ -491,12 +41,462 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4609
-  height: 3449
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2019-04-25 17:05:36+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4609
+  height: 3449
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:05:36.000000000+02:00
+- image_filename: 2019_04_25__17_05_P4250009.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.136180555555555
+  lon: 17.290819444444445
+  altitude: 62.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4535
+  height: 3394
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:05:57.000000000+02:00
+- image_filename: 2019_04_25__17_12_P4250012.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.138527777777774
+  lon: 17.262680555555555
+  altitude: 60.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 226.5
+  iso: 200
+  width: 4616
+  height: 3454
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:12:41.000000000+02:00
+- image_filename: 2019_04_25__17_12_P4250013.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.13848611111111
+  lon: 17.261944444444445
+  altitude: 60.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 159.36
+  iso: 200
+  width: 4575
+  height: 3423
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:12:48.000000000+02:00
+- image_filename: 2019_04_25__17_19_P4250018.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.14075
+  lon: 17.236625
+  altitude: 60.0
+  focal_length: 69.0
+  focal_length_35: 138.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:19:11.000000000+02:00
+- image_filename: 2019_04_25__17_21_P4250025.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.14263888888889
+  lon: 17.23033333333333
+  altitude: 61.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4557
+  height: 3410
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:21:19.000000000+02:00
+- image_filename: 2019_04_25__17_26_P4250028.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.14241666666667
+  lon: 17.230694444444442
+  altitude: 62.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4574
+  height: 3422
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:26:11.000000000+02:00
+- image_filename: 2019_04_25__17_26_P4250031.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.14241666666667
+  lon: 17.230694444444442
+  altitude: 62.0
+  focal_length: 30.0
+  focal_length_35: 60.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4380
+  height: 3278
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:26:39.000000000+02:00
+- image_filename: 2019_04_25__17_31_P4250043.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.14606944444444
+  lon: 17.223625
+  altitude: 64.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 2.25
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:31:00.000000000+02:00
+- image_filename: 2019_04_25__17_31_P4250048.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.14790277777778
+  lon: 17.220888888888886
+  altitude: 66.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 106.83
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:31:47.000000000+02:00
+- image_filename: 2019_04_25__17_39_P4250059.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.16277777777778
+  lon: 17.2215
+  altitude: 71.0
+  focal_length: 65.0
+  focal_length_35: 130.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 139.78
+  iso: 200
+  width: 4579
+  height: 3118
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:39:32.000000000+02:00
+- image_filename: 2019_04_25__17_40_P4250065.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.16277777777778
+  lon: 17.2215
+  altitude: 71.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4288
+  height: 3209
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:40:03.000000000+02:00
+- image_filename: 2019_04_25__17_51_P4250068.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.186097222222216
+  lon: 17.199875
+  altitude: 72.0
+  focal_length: 77.0
+  focal_length_35: 154.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 42.11
+  iso: 200
+  width: 4532
+  height: 3391
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:51:00.000000000+02:00
+- image_filename: 2019_04_25__17_51_P4250070.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.18683333333333
+  lon: 17.198486111111112
+  altitude: 72.0
+  focal_length: 69.0
+  focal_length_35: 138.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 49.8
+  iso: 200
+  width: 4453
+  height: 3332
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:51:17.000000000+02:00
+- image_filename: 2019_04_25__17_51_P4250072.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.1875
+  lon: 17.19723611111111
+  altitude: 72.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 197.9
+  iso: 200
+  width: 3472
+  height: 4640
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:51:32.000000000+02:00
+- image_filename: 2019_04_25__17_55_P4250076.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.19020833333333
+  lon: 17.191694444444444
+  altitude: 69.0
+  focal_length: 37.0
+  focal_length_35: 74.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4477
+  height: 3350
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:55:27.000000000+02:00
+- image_filename: 2019_04_25__17_55_P4250079.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.19020833333333
+  lon: 17.191694444444444
+  altitude: 69.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 17:55:57.000000000+02:00
+- image_filename: 2019_04_25__18_08_P4250087.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.20543055555556
+  lon: 17.15295833333333
+  altitude: 73.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4542
+  height: 3398
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 18:08:24.000000000+02:00
+- image_filename: 2019_04_25__18_08_P4250088.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.205708333333334
+  lon: 17.15244444444444
+  altitude: 74.0
+  focal_length: 69.0
+  focal_length_35: 138.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4474
+  height: 3238
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 18:08:31.000000000+02:00
+- image_filename: 2019_04_25__18_08_P4250089.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.206125
+  lon: 17.15186111111111
+  altitude: 74.0
+  focal_length: 69.0
+  focal_length_35: 138.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 18:08:40.000000000+02:00
+- image_filename: 2019_04_25__18_11_P4250100.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.20986111111112
+  lon: 17.14420833333333
+  altitude: 76.0
+  focal_length: 55.0
+  focal_length_35: 110.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4464
+  height: 3441
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 18:11:01.000000000+02:00
+- image_filename: 2019_04_25__18_11_P4250101.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.20986111111112
+  lon: 17.14420833333333
+  altitude: 76.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 49.29
+  iso: 200
+  width: 4569
+  height: 3391
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 18:11:06.000000000+02:00
+- image_filename: 2019_04_25__18_11_P4250102.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.20986111111112
+  lon: 17.14420833333333
+  altitude: 76.0
+  focal_length: 84.0
+  focal_length_35: 168.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 80.46
+  iso: 200
+  width: 4520
+  height: 3421
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 18:11:08.000000000+02:00
+- image_filename: 2019_04_25__18_15_P4250108.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.212833333333336
+  lon: 17.136736111111112
+  altitude: 70.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4473
+  height: 3347
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 18:15:21.000000000+02:00
+- image_filename: 2019_04_25__18_15_P4250111.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.21333333333334
+  lon: 17.135416666666668
+  altitude: 70.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 138.2
+  iso: 200
+  width: 4535
+  height: 3394
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 18:15:33.000000000+02:00
+- image_filename: 2019_04_25__18_29_P4250114.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.23863888888889
+  lon: 17.092222222222222
+  altitude: 62.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4184
+  height: 3226
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-25 18:29:32.000000000+02:00

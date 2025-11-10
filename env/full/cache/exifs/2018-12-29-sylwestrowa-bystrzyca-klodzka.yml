@@ -1,511 +1,79 @@
 ---
-- image_filename: 2018_12_30__20_59__C309035.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29631944444444
-  lon: 16.65323611111111
-  altitude: 348.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5143
-  height: 3778
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-12-30 20:59:39+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__13_20__C297962.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  focal_length: 94.0
-  focal_length_35: 188.0
-  crop: 2.0
-  aperture: 5.1
-  iso: 320
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-12-29 13:20:41+01:00
-  focus_distance: 64.79
-- image_filename: 2018_12_29__17_44__C298038.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.24523611111111
-  lon: 16.631194444444446
-  altitude: 386.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5027
-  height: 3610
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-12-29 17:44:04+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__18_07__C298053.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.240833333333335
-  lon: 16.631555555555558
-  altitude: 379.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 640
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-12-29 18:07:29+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__18_09__C298056.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.239847222222224
-  lon: 16.63186111111111
-  altitude: 380.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 640
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-12-29 18:09:19+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__18_48__C298070.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29620833333333
-  lon: 16.652124999999998
-  altitude: 368.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-12-29 18:48:04+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__18_56__C298085.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.295138888888886
-  lon: 16.65086111111111
-  altitude: 351.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 640
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-12-29 18:56:48+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__19_56__C308997.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29580555555555
-  lon: 16.650277777777777
-  altitude: 335.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5043
-  height: 3857
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-12-30 19:56:41+01:00
-  focus_distance: 1000.0
 - image_filename: 2018_12_29__12_34__C297803.jpg
   post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
   focal_length: 124.0
   focal_length_35: 248.0
   crop: 2.0
   aperture: 5.6
-  iso: 800
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 4903
-  height: 3716
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2018-12-29 12:34:58+01:00
   focus_distance: 59.58
-- image_filename: 2018_12_29__15_24__C298012.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 250
-  lens: OLYMPUS M.25mm F1.2
+  iso: 800
+  width: 4903
+  height: 3716
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
-  width: 3818
-  height: 5183
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-12-29 15:24:27+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__19_54__C308994.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29602777777777
-  lon: 16.65159722222222
-  altitude: 344.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 500
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5045
-  height: 3771
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-12-30 19:54:02+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__20_38__C309014.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29761111111111
-  lon: 16.65361111111111
-  altitude: 359.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.6
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5221
-  height: 3887
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-12-30 20:38:04+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__14_53__C297982.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5176
-  height: 3826
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-12-29 14:53:07+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__19_59__C309001.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29443055555555
-  lon: 16.65098611111111
-  altitude: 338.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5037
-  height: 3626
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-12-30 19:59:30+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__20_42__C309022.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29708333333333
-  lon: 16.650972222222222
-  altitude: 360.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3494
-  height: 5123
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-12-30 20:42:55+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__19_53__C308993.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29613888888889
-  lon: 16.652041666666666
-  altitude: 351.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 320
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5223
-  height: 3889
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-12-30 19:53:24+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__19_54__C308995.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29595833333333
-  lon: 16.65158333333333
-  altitude: 345.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 250
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5071
-  height: 3829
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-12-30 19:54:25+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__18_01__C298044.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.24201388888889
-  lon: 16.63101388888889
-  altitude: 379.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5109
-  height: 3814
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-12-29 18:01:35+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__20_29__C309007.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.285402777777776
-  lon: 16.64697222222222
-  altitude: 347.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.6
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5123
-  height: 3760
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-12-30 20:29:45+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__21_06__C309044.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29604166666667
-  lon: 16.651
-  altitude: 334.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.6
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5040
-  height: 3823
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-12-30 21:06:09+01:00
-  focus_distance: 1000.0
+  time: 2018-12-29 12:34:58.000000000+01:00
 - image_filename: 2018_12_29__12_41__C297828.jpg
   post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
   focal_length: 75.0
   focal_length_35: 150.0
   crop: 2.0
   aperture: 5.0
-  iso: 500
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2018-12-29 12:41:29+01:00
   focus_distance: 1000.0
-- image_filename: 2018_12_29__17_42__C298035.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.245333333333335
-  lon: 16.631777777777778
-  altitude: 385.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4852
-  height: 3539
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-12-29 17:42:37+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__20_43__C309023.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29711111111111
-  lon: 16.65098611111111
-  altitude: 360.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5132
-  height: 3771
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-12-30 20:43:00+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__21_07__C309045.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29563888888889
-  lon: 16.65023611111111
-  altitude: 334.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5027
-  height: 3830
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-12-30 21:07:38+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__17_42__C298034.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.24529166666667
-  lon: 16.631694444444445
-  altitude: 385.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5133
-  height: 3768
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-12-29 17:42:17+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__19_46__C308989.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.298319444444445
-  lon: 16.648555555555554
-  altitude: 367.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 6400
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5046
-  height: 3638
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2018-12-30 19:46:39+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__18_08__C298055.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.240319444444445
-  lon: 16.631291666666666
-  altitude: 379.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 640
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
+  iso: 500
   width: 5240
   height: 3912
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-12-29 18:08:20+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_29__18_48__C298071.jpg
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-12-29 12:41:29.000000000+01:00
+- image_filename: 2018_12_29__13_20__C297962.jpg
   post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.29604166666667
-  lon: 16.65173611111111
-  altitude: 361.0
+  focal_length: 94.0
+  focal_length_35: 188.0
+  crop: 2.0
+  aperture: 5.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 64.79
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-12-29 13:20:41.000000000+01:00
+- image_filename: 2018_12_29__14_53__C297982.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5176
+  height: 3826
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 14:53:07.000000000+01:00
+- image_filename: 2018_12_29__15_24__C298012.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
-  iso: 200
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 3818
+  height: 5183
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
-  width: 5107
-  height: 3767
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-12-29 18:48:57+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_12_30__20_50__C309026.jpg
-  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
-  lat: 50.297333333333334
-  lon: 16.650583333333334
-  altitude: 362.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3804
-  height: 5165
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-12-30 20:50:01+01:00
-  focus_distance: 1000.0
+  time: 2018-12-29 15:24:27.000000000+01:00
 - image_filename: 2018_12_29__17_38__C298019.jpg
   post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
   lat: 50.245694444444446
@@ -515,15 +83,177 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 3.5
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 1000.0
   iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
   width: 5162
   height: 3820
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-12-29 17:38:25+01:00
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 17:38:25.000000000+01:00
+- image_filename: 2018_12_29__17_42__C298034.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.24529166666667
+  lon: 16.631694444444445
+  altitude: 385.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.2
+  exposure: 5.0
+  exposure_string: 2.5 s
   focus_distance: 1000.0
+  iso: 200
+  width: 5133
+  height: 3768
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 17:42:17.000000000+01:00
+- image_filename: 2018_12_29__17_42__C298035.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.245333333333335
+  lon: 16.631777777777778
+  altitude: 385.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4852
+  height: 3539
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 17:42:37.000000000+01:00
+- image_filename: 2018_12_29__17_44__C298038.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.24523611111111
+  lon: 16.631194444444446
+  altitude: 386.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5027
+  height: 3610
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 17:44:04.000000000+01:00
+- image_filename: 2018_12_29__18_01__C298044.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.24201388888889
+  lon: 16.63101388888889
+  altitude: 379.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5109
+  height: 3814
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 18:01:35.000000000+01:00
+- image_filename: 2018_12_29__18_07__C298053.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.240833333333335
+  lon: 16.631555555555558
+  altitude: 379.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 1000.0
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 18:07:29.000000000+01:00
+- image_filename: 2018_12_29__18_08__C298055.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.240319444444445
+  lon: 16.631291666666666
+  altitude: 379.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 1000.0
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 18:08:20.000000000+01:00
+- image_filename: 2018_12_29__18_09__C298056.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.239847222222224
+  lon: 16.63186111111111
+  altitude: 380.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 1000.0
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 18:09:19.000000000+01:00
+- image_filename: 2018_12_29__18_48__C298070.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29620833333333
+  lon: 16.652124999999998
+  altitude: 368.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 18:48:04.000000000+01:00
+- image_filename: 2018_12_29__18_48__C298071.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29604166666667
+  lon: 16.65173611111111
+  altitude: 361.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5107
+  height: 3767
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 18:48:57.000000000+01:00
 - image_filename: 2018_12_29__18_53__C298078.jpg
   post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
   lat: 50.296305555555556
@@ -533,12 +263,282 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5069
-  height: 3674
   exposure: 1.0
   exposure_string: 1 s
-  time: 2018-12-29 18:53:24+01:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5069
+  height: 3674
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 18:53:24.000000000+01:00
+- image_filename: 2018_12_29__18_56__C298085.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.295138888888886
+  lon: 16.65086111111111
+  altitude: 351.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 1000.0
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-29 18:56:48.000000000+01:00
+- image_filename: 2018_12_30__19_46__C308989.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.298319444444445
+  lon: 16.648555555555554
+  altitude: 367.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1000.0
+  iso: 6400
+  width: 5046
+  height: 3638
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 19:46:39.000000000+01:00
+- image_filename: 2018_12_30__19_53__C308993.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29613888888889
+  lon: 16.652041666666666
+  altitude: 351.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 5223
+  height: 3889
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 19:53:24.000000000+01:00
+- image_filename: 2018_12_30__19_54__C308994.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29602777777777
+  lon: 16.65159722222222
+  altitude: 344.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 1000.0
+  iso: 500
+  width: 5045
+  height: 3771
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 19:54:02.000000000+01:00
+- image_filename: 2018_12_30__19_54__C308995.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29595833333333
+  lon: 16.65158333333333
+  altitude: 345.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 5071
+  height: 3829
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 19:54:25.000000000+01:00
+- image_filename: 2018_12_30__19_56__C308997.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29580555555555
+  lon: 16.650277777777777
+  altitude: 335.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5043
+  height: 3857
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 19:56:41.000000000+01:00
+- image_filename: 2018_12_30__19_59__C309001.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29443055555555
+  lon: 16.65098611111111
+  altitude: 338.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5037
+  height: 3626
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 19:59:30.000000000+01:00
+- image_filename: 2018_12_30__20_29__C309007.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.285402777777776
+  lon: 16.64697222222222
+  altitude: 347.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.6
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5123
+  height: 3760
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 20:29:45.000000000+01:00
+- image_filename: 2018_12_30__20_38__C309014.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29761111111111
+  lon: 16.65361111111111
+  altitude: 359.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.6
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5221
+  height: 3887
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 20:38:04.000000000+01:00
+- image_filename: 2018_12_30__20_42__C309022.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29708333333333
+  lon: 16.650972222222222
+  altitude: 360.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3494
+  height: 5123
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 20:42:55.000000000+01:00
+- image_filename: 2018_12_30__20_43__C309023.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29711111111111
+  lon: 16.65098611111111
+  altitude: 360.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5132
+  height: 3771
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 20:43:00.000000000+01:00
+- image_filename: 2018_12_30__20_50__C309026.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.297333333333334
+  lon: 16.650583333333334
+  altitude: 362.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3804
+  height: 5165
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 20:50:01.000000000+01:00
+- image_filename: 2018_12_30__20_59__C309035.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29631944444444
+  lon: 16.65323611111111
+  altitude: 348.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5143
+  height: 3778
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 20:59:39.000000000+01:00
+- image_filename: 2018_12_30__21_06__C309044.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29604166666667
+  lon: 16.651
+  altitude: 334.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.6
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5040
+  height: 3823
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 21:06:09.000000000+01:00
+- image_filename: 2018_12_30__21_07__C309045.jpg
+  post_slug: 2018-12-29-sylwestrowa-bystrzyca-klodzka
+  lat: 50.29563888888889
+  lon: 16.65023611111111
+  altitude: 334.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.2
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5027
+  height: 3830
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2018-12-30 21:07:38.000000000+01:00

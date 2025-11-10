@@ -1,442 +1,4 @@
 ---
-- image_filename: 2020_08_21__14_41__8219238.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.315638888888884
-  lon: 22.164166666666667
-  altitude: 671.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5180
-  height: 3867
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-08-21 14:41:09+02:00
-  focus_distance: 32.57
-- image_filename: 2020_08_21__15_25_DSC03530.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31372222222222
-  lon: 22.167583333333333
-  altitude: 703.0
-  focal_length: 263.5
-  focal_length_35: 263.0
-  crop: 0.9981024667931688
-  aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4791
-  height: 3290
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-21 15:25:51+02:00
-- image_filename: 2020_08_21__14_34__8219225.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31525
-  lon: 22.161180555555553
-  altitude: 661.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5156
-  height: 3849
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2020-08-21 14:34:17+02:00
-  focus_distance: 3.19
-- image_filename: 2020_08_21__13_06_DSC03438.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.305861111111106
-  lon: 22.12022222222222
-  altitude: 475.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5940
-  height: 3952
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-21 13:06:05+02:00
-- image_filename: 2020_08_21__16_32__8219351.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.313986111111106
-  lon: 22.13222222222222
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-21 16:32:06+02:00
-  focus_distance: 0.44
-- image_filename: 2020_08_21__16_29__8219310.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31401388888889
-  lon: 22.132236111111112
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-21 16:29:20+02:00
-  focus_distance: 0.49
-- image_filename: 2020_08_21__12_41_DSC03405.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.29436111111111
-  lon: 22.113194444444446
-  altitude: 484.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-21 12:41:02+02:00
-- image_filename: 2020_08_21__14_06__8219217.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31584722222222
-  lon: 22.14276388888889
-  altitude: 544.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2020-08-21 14:06:39+02:00
-  focus_distance: 2.06
-- image_filename: 2020_08_21__15_35_DSC03617.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.313986111111106
-  lon: 22.167819444444447
-  altitude: 710.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-21 15:35:27+02:00
-- image_filename: 2020_08_21__15_59_DSC03645.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31331944444444
-  lon: 22.15301388888889
-  altitude: 618.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 200
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-08-21 15:59:16+02:00
-- image_filename: 2020_08_21__16_31__8219341.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.314
-  lon: 22.132194444444444
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-21 16:31:08+02:00
-  focus_distance: 0.54
-- image_filename: 2020_08_21__14_36__8219226.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.315305555555554
-  lon: 22.162694444444444
-  altitude: 674.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-08-21 14:36:06+02:00
-  focus_distance: 15.35
-- image_filename: 2020_08_21__13_45_DSC03460.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31511111111111
-  lon: 22.138986111111112
-  altitude: 535.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2020-08-21 13:45:29+02:00
-- image_filename: 2020_08_21__16_44_DSC03688.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31140277777777
-  lon: 22.11925
-  altitude: 475.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-21 16:44:56+02:00
-- image_filename: 2020_08_21__15_31_DSC03577.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31381944444444
-  lon: 22.167611111111114
-  altitude: 709.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 1250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-21 15:31:25+02:00
-- image_filename: 2020_08_21__19_00_DSC03694.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.29152777777777
-  lon: 22.06802777777778
-  altitude: 569.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5691
-  height: 3763
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-21 19:00:39+02:00
-- image_filename: 2020_08_21__13_54__8219189.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31498611111111
-  lon: 22.13925
-  altitude: 531.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2020-08-21 13:54:08+02:00
-  focus_distance: 5.99
-- image_filename: 2020_08_21__16_29__8219326.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31401388888889
-  lon: 22.132166666666667
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-21 16:29:50+02:00
-  focus_distance: 0.56
-- image_filename: 2020_08_21__15_23_DSC03510.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.313874999999996
-  lon: 22.167805555555557
-  altitude: 703.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 2000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4238
-  height: 2935
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-21 15:23:23+02:00
-- image_filename: 2020_08_21__16_29__8219325.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31401388888889
-  lon: 22.132166666666667
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 3912
-  height: 5239
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-21 16:29:49+02:00
-  focus_distance: 0.55
-- image_filename: 2020_08_21__16_32__8219354.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.314
-  lon: 22.132208333333335
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-21 16:32:18+02:00
-  focus_distance: 0.3
-- image_filename: 2020_08_21__16_29__8219313.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31401388888889
-  lon: 22.132236111111112
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-21 16:29:26+02:00
-  focus_distance: 0.63
-- image_filename: 2020_08_21__13_02_DSC03429.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.302875
-  lon: 22.117333333333335
-  altitude: 478.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5733
-  height: 3814
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-21 13:02:01+02:00
-- image_filename: 2020_08_21__13_55__8219199.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31486111111111
-  lon: 22.13923611111111
-  altitude: 532.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2020-08-21 13:55:27+02:00
-  focus_distance: 27.76
-- image_filename: 2020_08_21__12_55_DSC03421.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.30081944444444
-  lon: 22.1175
-  altitude: 478.0
-  focal_length: 45.0
-  focal_length_35: 45.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-21 12:55:05+02:00
 - image_filename: 2020_08_21__12_34_DSC03399.jpg
   post_slug: 2020-08-21-jeziora-duszatynskie
   lat: 49.290930555555555
@@ -446,243 +8,31 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 6047
   height: 4023
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-21 12:34:52+02:00
-- image_filename: 2020_08_21__16_36__8219364.jpg
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 12:34:52.000000000+02:00
+- image_filename: 2020_08_21__12_41_DSC03405.jpg
   post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31395833333333
-  lon: 22.128625
-  altitude: 500.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4203
-  height: 3285
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-21 16:36:20+02:00
-  focus_distance: 0.28
-- image_filename: 2020_08_21__16_26__8219288.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31401388888889
-  lon: 22.132680555555556
-  altitude: 511.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-21 16:26:26+02:00
-  focus_distance: 0.52
-- image_filename: 2020_08_21__16_32__8219355.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.314
-  lon: 22.132208333333335
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-21 16:32:19+02:00
-  focus_distance: 0.29
-- image_filename: 2020_08_21__13_56__8219204.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31498611111111
-  lon: 22.13940277777778
-  altitude: 531.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4956
-  height: 3700
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2020-08-21 13:56:27+02:00
-  focus_distance: 1.0
-- image_filename: 2020_08_21__19_04_DSC03700.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.291777777777774
-  lon: 22.067708333333332
-  altitude: 567.0
+  lat: 49.29436111111111
+  lon: 22.113194444444446
+  altitude: 484.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-21 19:04:23+02:00
-- image_filename: 2020_08_21__16_29__8219322.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31401388888889
-  lon: 22.132166666666667
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
   aperture: 5.6
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-08-21 16:29:43+02:00
-  focus_distance: 0.38
-- image_filename: 2020_08_21__15_58_DSC03641.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31366666666666
-  lon: 22.154083333333332
-  altitude: 626.0
-  focal_length: 57.0
-  focal_length_35: 57.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 1000
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-08-21 15:58:04+02:00
-- image_filename: 2020_08_21__14_42__8219244.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.315194444444444
-  lon: 22.163819444444442
-  altitude: 671.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-08-21 14:42:58+02:00
-  focus_distance: 10.7
-- image_filename: 2020_08_21__13_07_DSC03439.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.306263888888886
-  lon: 22.120944444444444
-  altitude: 473.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
   iso: 100
+  width: 6048
+  height: 4024
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-21 13:07:55+02:00
-- image_filename: 2020_08_21__16_31__8219338.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.314
-  lon: 22.132194444444444
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-21 16:31:03+02:00
-  focus_distance: 0.4
-- image_filename: 2020_08_21__15_06__8219266.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31386111111111
-  lon: 22.167361111111113
-  altitude: 698.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-21 15:06:38+02:00
-  focus_distance: 0.25
-- image_filename: 2020_08_21__15_45_DSC03631.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31516666666666
-  lon: 22.16409722222222
-  altitude: 688.0
-  focal_length: 63.0
-  focal_length_35: 63.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6007
-  height: 3995
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-21 15:45:02+02:00
-- image_filename: 2020_08_21__12_57_DSC03426.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.30170833333333
-  lon: 22.117055555555556
-  altitude: 476.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-21 12:57:12+02:00
+  time: 2020-08-21 12:41:02.000000000+02:00
 - image_filename: 2020_08_21__12_41_DSC03406.jpg
   post_slug: 2020-08-21-jeziora-duszatynskie
   lat: 49.29436111111111
@@ -692,138 +42,99 @@
   focal_length_35: 49.0
   crop: 1.0
   aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 5337
   height: 3423
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-21 12:41:25+02:00
-- image_filename: 2020_08_21__16_29__8219309.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31401388888889
-  lon: 22.132236111111112
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-21 16:29:18+02:00
-  focus_distance: 0.5
-- image_filename: 2020_08_21__14_05__8219211.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31586111111111
-  lon: 22.14251388888889
-  altitude: 546.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2020-08-21 14:05:09+02:00
-  focus_distance: 8.85
-- image_filename: 2020_08_21__13_26_DSC03457.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31209722222222
-  lon: 22.12066666666667
-  altitude: 486.0
-  focal_length: 33.0
-  focal_length_35: 33.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
+  time: 2020-08-21 12:41:25.000000000+02:00
+- image_filename: 2020_08_21__12_55_DSC03421.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.30081944444444
+  lon: 22.1175
+  altitude: 478.0
+  focal_length: 45.0
+  focal_length_35: 45.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
   width: 6047
   height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 12:55:05.000000000+02:00
+- image_filename: 2020_08_21__12_57_DSC03426.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.30170833333333
+  lon: 22.117055555555556
+  altitude: 476.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-08-21 13:26:26+02:00
-- image_filename: 2020_08_21__16_32__8219350.jpg
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 12:57:12.000000000+02:00
+- image_filename: 2020_08_21__13_02_DSC03429.jpg
   post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.313986111111106
-  lon: 22.132208333333335
-  altitude: 510.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
+  lat: 49.302875
+  lon: 22.117333333333335
+  altitude: 478.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
   aperture: 5.6
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5733
+  height: 3814
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 13:02:01.000000000+02:00
+- image_filename: 2020_08_21__13_06_DSC03438.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.305861111111106
+  lon: 22.12022222222222
+  altitude: 475.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5940
+  height: 3952
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 13:06:05.000000000+02:00
+- image_filename: 2020_08_21__13_07_DSC03439.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.306263888888886
+  lon: 22.120944444444444
+  altitude: 473.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-08-21 16:32:04+02:00
-  focus_distance: 0.38
-- image_filename: 2020_08_21__16_35__8219356.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.31401388888889
-  lon: 22.12851388888889
-  altitude: 501.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-21 16:35:17+02:00
-  focus_distance: 0.72
-- image_filename: 2020_08_21__16_26__8219292.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.314
-  lon: 22.132666666666665
-  altitude: 511.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-21 16:26:33+02:00
-  focus_distance: 0.41
-- image_filename: 2020_08_21__15_25_DSC03528.jpg
-  post_slug: 2020-08-21-jeziora-duszatynskie
-  lat: 49.313763888888886
-  lon: 22.16765277777778
-  altitude: 703.0
-  focal_length: 263.5
-  focal_length_35: 263.0
-  crop: 0.9981024667931688
-  aperture: 6.3
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 4632
-  height: 3040
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-21 15:25:48+02:00
+  time: 2020-08-21 13:07:55.000000000+02:00
 - image_filename: 2020_08_21__13_13_DSC03443.jpg
   post_slug: 2020-08-21-jeziora-duszatynskie
   lat: 49.31004166666666
@@ -833,14 +144,262 @@
   focal_length_35: 38.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-08-21 13:13:37+02:00
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 13:13:37.000000000+02:00
+- image_filename: 2020_08_21__13_26_DSC03457.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31209722222222
+  lon: 22.12066666666667
+  altitude: 486.0
+  focal_length: 33.0
+  focal_length_35: 33.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 13:26:26.000000000+02:00
+- image_filename: 2020_08_21__13_45_DSC03460.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31511111111111
+  lon: 22.138986111111112
+  altitude: 535.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 13:45:29.000000000+02:00
+- image_filename: 2020_08_21__13_54__8219189.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31498611111111
+  lon: 22.13925
+  altitude: 531.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 5.99
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-21 13:54:08.000000000+02:00
+- image_filename: 2020_08_21__13_55__8219199.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31486111111111
+  lon: 22.13923611111111
+  altitude: 532.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 27.76
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-21 13:55:27.000000000+02:00
+- image_filename: 2020_08_21__13_56__8219204.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31498611111111
+  lon: 22.13940277777778
+  altitude: 531.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1.0
+  iso: 200
+  width: 4956
+  height: 3700
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-21 13:56:27.000000000+02:00
+- image_filename: 2020_08_21__14_05__8219211.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31586111111111
+  lon: 22.14251388888889
+  altitude: 546.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 8.85
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-21 14:05:09.000000000+02:00
+- image_filename: 2020_08_21__14_06__8219217.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31584722222222
+  lon: 22.14276388888889
+  altitude: 544.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 2.06
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-21 14:06:39.000000000+02:00
+- image_filename: 2020_08_21__14_34__8219225.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31525
+  lon: 22.161180555555553
+  altitude: 661.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 3.19
+  iso: 200
+  width: 5156
+  height: 3849
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-21 14:34:17.000000000+02:00
+- image_filename: 2020_08_21__14_36__8219226.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.315305555555554
+  lon: 22.162694444444444
+  altitude: 674.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 15.35
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-21 14:36:06.000000000+02:00
+- image_filename: 2020_08_21__14_41__8219238.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.315638888888884
+  lon: 22.164166666666667
+  altitude: 671.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 32.57
+  iso: 200
+  width: 5180
+  height: 3867
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-21 14:41:09.000000000+02:00
+- image_filename: 2020_08_21__14_42__8219244.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.315194444444444
+  lon: 22.163819444444442
+  altitude: 671.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 10.7
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-21 14:42:58.000000000+02:00
+- image_filename: 2020_08_21__15_06__8219266.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31386111111111
+  lon: 22.167361111111113
+  altitude: 698.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.25
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 15:06:38.000000000+02:00
+- image_filename: 2020_08_21__15_23_DSC03510.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.313874999999996
+  lon: 22.167805555555557
+  altitude: 703.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 2000
+  width: 4238
+  height: 2935
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-21 15:23:23.000000000+02:00
+- image_filename: 2020_08_21__15_25_DSC03528.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.313763888888886
+  lon: 22.16765277777778
+  altitude: 703.0
+  focal_length: 263.5
+  focal_length_35: 263.0
+  crop: 0.9981024667931688
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 250
+  width: 4632
+  height: 3040
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-21 15:25:48.000000000+02:00
 - image_filename: 2020_08_21__15_25_DSC03529.jpg
   post_slug: 2020-08-21-jeziora-duszatynskie
   lat: 49.313763888888886
@@ -850,11 +409,452 @@
   focal_length_35: 263.0
   crop: 0.9981024667931688
   aperture: 6.3
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5086
-  height: 3387
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-08-21 15:25:48+02:00
+  iso: 250
+  width: 5086
+  height: 3387
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-21 15:25:48.000000000+02:00
+- image_filename: 2020_08_21__15_25_DSC03530.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31372222222222
+  lon: 22.167583333333333
+  altitude: 703.0
+  focal_length: 263.5
+  focal_length_35: 263.0
+  crop: 0.9981024667931688
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4791
+  height: 3290
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-21 15:25:51.000000000+02:00
+- image_filename: 2020_08_21__15_31_DSC03577.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31381944444444
+  lon: 22.167611111111114
+  altitude: 709.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 1250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-21 15:31:25.000000000+02:00
+- image_filename: 2020_08_21__15_35_DSC03617.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.313986111111106
+  lon: 22.167819444444447
+  altitude: 710.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 500
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-21 15:35:27.000000000+02:00
+- image_filename: 2020_08_21__15_45_DSC03631.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31516666666666
+  lon: 22.16409722222222
+  altitude: 688.0
+  focal_length: 63.0
+  focal_length_35: 63.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6007
+  height: 3995
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 15:45:02.000000000+02:00
+- image_filename: 2020_08_21__15_58_DSC03641.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31366666666666
+  lon: 22.154083333333332
+  altitude: 626.0
+  focal_length: 57.0
+  focal_length_35: 57.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 1000
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 15:58:04.000000000+02:00
+- image_filename: 2020_08_21__15_59_DSC03645.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31331944444444
+  lon: 22.15301388888889
+  altitude: 618.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 200
+  width: 4023
+  height: 6047
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 15:59:16.000000000+02:00
+- image_filename: 2020_08_21__16_26__8219288.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31401388888889
+  lon: 22.132680555555556
+  altitude: 511.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.52
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:26:26.000000000+02:00
+- image_filename: 2020_08_21__16_26__8219292.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.314
+  lon: 22.132666666666665
+  altitude: 511.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.41
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:26:33.000000000+02:00
+- image_filename: 2020_08_21__16_29__8219309.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31401388888889
+  lon: 22.132236111111112
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.5
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:29:18.000000000+02:00
+- image_filename: 2020_08_21__16_29__8219310.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31401388888889
+  lon: 22.132236111111112
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.49
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:29:20.000000000+02:00
+- image_filename: 2020_08_21__16_29__8219313.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31401388888889
+  lon: 22.132236111111112
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.63
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:29:26.000000000+02:00
+- image_filename: 2020_08_21__16_29__8219322.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31401388888889
+  lon: 22.132166666666667
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.38
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:29:43.000000000+02:00
+- image_filename: 2020_08_21__16_29__8219325.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31401388888889
+  lon: 22.132166666666667
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.55
+  iso: 640
+  width: 3912
+  height: 5239
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:29:49.000000000+02:00
+- image_filename: 2020_08_21__16_29__8219326.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31401388888889
+  lon: 22.132166666666667
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.56
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:29:50.000000000+02:00
+- image_filename: 2020_08_21__16_31__8219338.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.314
+  lon: 22.132194444444444
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 0.4
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:31:03.000000000+02:00
+- image_filename: 2020_08_21__16_31__8219341.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.314
+  lon: 22.132194444444444
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 0.54
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:31:08.000000000+02:00
+- image_filename: 2020_08_21__16_32__8219350.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.313986111111106
+  lon: 22.132208333333335
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.38
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:32:04.000000000+02:00
+- image_filename: 2020_08_21__16_32__8219351.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.313986111111106
+  lon: 22.13222222222222
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.44
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:32:06.000000000+02:00
+- image_filename: 2020_08_21__16_32__8219354.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.314
+  lon: 22.132208333333335
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.3
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:32:18.000000000+02:00
+- image_filename: 2020_08_21__16_32__8219355.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.314
+  lon: 22.132208333333335
+  altitude: 510.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.29
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:32:19.000000000+02:00
+- image_filename: 2020_08_21__16_35__8219356.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31401388888889
+  lon: 22.12851388888889
+  altitude: 501.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.72
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:35:17.000000000+02:00
+- image_filename: 2020_08_21__16_36__8219364.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31395833333333
+  lon: 22.128625
+  altitude: 500.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.28
+  iso: 1000
+  width: 4203
+  height: 3285
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-21 16:36:20.000000000+02:00
+- image_filename: 2020_08_21__16_44_DSC03688.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.31140277777777
+  lon: 22.11925
+  altitude: 475.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 16:44:56.000000000+02:00
+- image_filename: 2020_08_21__19_00_DSC03694.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.29152777777777
+  lon: 22.06802777777778
+  altitude: 569.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5691
+  height: 3763
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 19:00:39.000000000+02:00
+- image_filename: 2020_08_21__19_04_DSC03700.jpg
+  post_slug: 2020-08-21-jeziora-duszatynskie
+  lat: 49.291777777777774
+  lon: 22.067708333333332
+  altitude: 567.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-21 19:04:23.000000000+02:00

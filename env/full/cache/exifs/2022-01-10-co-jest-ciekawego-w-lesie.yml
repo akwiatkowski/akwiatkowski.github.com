@@ -1,42 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-- image_filename: 2022_01_10__14_19_P1101731.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.89534722222222
-  lon: 15.941472222222222
-  altitude: 45.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 13.35
-  iso: 200
-  width: 8148
-  height: 6093
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-10 14:19:25.000000000+01:00
-- image_filename: 2022_01_10__15_22_P1101799.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.882736111111114
-  lon: 15.984055555555555
-  altitude: 18.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 5.58
-  iso: 200
-  width: 4933
-  height: 3682
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-10 15:22:18.000000000+01:00
 - image_filename: 2022_01_10__11_17_P1101526.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.93684722222222
@@ -127,24 +89,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 11:22:14.000000000+01:00
-- image_filename: 2022_01_10__11_29_P1101537.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.932944444444445
-  lon: 15.870958333333334
-  altitude: 63.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 15.75
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-10 11:29:35.000000000+01:00
 - image_filename: 2022_01_10__11_29_P1101536.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.93301388888889
@@ -163,6 +107,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 11:29:12.000000000+01:00
+- image_filename: 2022_01_10__11_29_P1101537.jpg
+  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
+  lat: 52.932944444444445
+  lon: 15.870958333333334
+  altitude: 63.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 15.75
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-10 11:29:35.000000000+01:00
 - image_filename: 2022_01_10__11_35_P1101545.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.93098611111111
@@ -325,24 +287,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 11:55:59.000000000+01:00
-- image_filename: 2022_01_10__11_59_P1101571.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.92551388888889
-  lon: 15.87976388888889
-  altitude: 60.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 41.27
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-10 11:59:24.000000000+01:00
 - image_filename: 2022_01_10__11_56_P1101569.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.92630555555555
@@ -361,6 +305,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 11:56:46.000000000+01:00
+- image_filename: 2022_01_10__11_59_P1101571.jpg
+  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
+  lat: 52.92551388888889
+  lon: 15.87976388888889
+  altitude: 60.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 41.27
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-10 11:59:24.000000000+01:00
 - image_filename: 2022_01_10__12_00_P1101573.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.92525
@@ -541,24 +503,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 12:24:03.000000000+01:00
-- image_filename: 2022_01_10__12_29_P1101608.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.91726388888889
-  lon: 15.896819444444445
-  altitude: 75.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 11.82
-  iso: 200
-  width: 7902
-  height: 5715
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-10 12:29:23.000000000+01:00
 - image_filename: 2022_01_10__12_24_P1101604.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.918166666666664
@@ -577,24 +521,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 12:24:47.000000000+01:00
-- image_filename: 2022_01_10__12_36_P1101618.jpg
+- image_filename: 2022_01_10__12_29_P1101608.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.91540277777778
-  lon: 15.897472222222222
-  altitude: 76.0
-  focal_length: 70.0
-  focal_length_35: 140.0
+  lat: 52.91726388888889
+  lon: 15.896819444444445
+  altitude: 75.0
+  focal_length: 41.0
+  focal_length_35: 82.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 29.1
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 11.82
   iso: 200
-  width: 8199
-  height: 6131
+  width: 7902
+  height: 5715
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-01-10 12:36:25.000000000+01:00
+  time: 2022-01-10 12:29:23.000000000+01:00
 - image_filename: 2022_01_10__12_35_P1101617.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.915638888888886
@@ -613,6 +557,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 12:35:52.000000000+01:00
+- image_filename: 2022_01_10__12_36_P1101618.jpg
+  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
+  lat: 52.91540277777778
+  lon: 15.897472222222222
+  altitude: 76.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 29.1
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-10 12:36:25.000000000+01:00
 - image_filename: 2022_01_10__12_37_P1101621.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.915055555555554
@@ -649,24 +611,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 12:45:28.000000000+01:00
-- image_filename: 2022_01_10__12_48_P1101636.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.91052777777777
-  lon: 15.89973611111111
-  altitude: 70.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 10.53
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-10 12:48:44.000000000+01:00
 - image_filename: 2022_01_10__12_45_P1101630.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.911125
@@ -703,24 +647,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 12:46:21.000000000+01:00
-- image_filename: 2022_01_10__12_52_P1101642.jpg
+- image_filename: 2022_01_10__12_48_P1101636.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.90947222222222
-  lon: 15.90113888888889
-  altitude: 68.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 52.91052777777777
+  lon: 15.89973611111111
+  altitude: 70.0
+  focal_length: 18.0
+  focal_length_35: 36.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 4.5
   exposure: 0.0125
   exposure_string: 1/80 s
-  focus_distance: 45.76
+  focus_distance: 10.53
   iso: 200
-  width: 6132
-  height: 8200
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-01-10 12:52:11.000000000+01:00
+  time: 2022-01-10 12:48:44.000000000+01:00
 - image_filename: 2022_01_10__12_49_P1101638.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.91031944444444
@@ -739,24 +683,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 12:49:43.000000000+01:00
-- image_filename: 2022_01_10__12_59_P1101645.jpg
+- image_filename: 2022_01_10__12_52_P1101642.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.90645833333333
-  lon: 15.903694444444445
-  altitude: 60.0
-  focal_length: 41.0
-  focal_length_35: 82.0
+  lat: 52.90947222222222
+  lon: 15.90113888888889
+  altitude: 68.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 34.93
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 45.76
   iso: 200
-  width: 8105
-  height: 6061
+  width: 6132
+  height: 8200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-01-10 12:59:06.000000000+01:00
+  time: 2022-01-10 12:52:11.000000000+01:00
 - image_filename: 2022_01_10__12_58_P1101644.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.90661111111111
@@ -775,24 +719,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 12:58:35.000000000+01:00
-- image_filename: 2022_01_10__13_12_P1101655.jpg
+- image_filename: 2022_01_10__12_59_P1101645.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.90076388888889
-  lon: 15.906597222222222
-  altitude: 63.0
-  focal_length: 50.0
-  focal_length_35: 100.0
+  lat: 52.90645833333333
+  lon: 15.903694444444445
+  altitude: 60.0
+  focal_length: 41.0
+  focal_length_35: 82.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 17.07
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 34.93
   iso: 200
-  width: 8150
-  height: 6067
+  width: 8105
+  height: 6061
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-01-10 13:12:14.000000000+01:00
+  time: 2022-01-10 12:59:06.000000000+01:00
 - image_filename: 2022_01_10__13_01_P1101648.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.90561111111111
@@ -811,6 +755,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 13:01:00.000000000+01:00
+- image_filename: 2022_01_10__13_12_P1101655.jpg
+  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
+  lat: 52.90076388888889
+  lon: 15.906597222222222
+  altitude: 63.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 17.07
+  iso: 200
+  width: 8150
+  height: 6067
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-10 13:12:14.000000000+01:00
+- image_filename: 2022_01_10__13_12_P1101656.jpg
+  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
+  lat: 52.90073611111111
+  lon: 15.906652777777778
+  altitude: 63.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 85.78
+  iso: 200
+  width: 6132
+  height: 8200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-10 13:12:36.000000000+01:00
 - image_filename: 2022_01_10__13_13_P1101658.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.9005
@@ -847,24 +827,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 13:17:17.000000000+01:00
-- image_filename: 2022_01_10__13_12_P1101656.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.90073611111111
-  lon: 15.906652777777778
-  altitude: 63.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 85.78
-  iso: 200
-  width: 6132
-  height: 8200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-10 13:12:36.000000000+01:00
 - image_filename: 2022_01_10__13_17_P1101666.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.89975
@@ -937,24 +899,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 13:45:14.000000000+01:00
-- image_filename: 2022_01_10__13_51_P1101691.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.89388888888889
-  lon: 15.925680555555555
-  altitude: 50.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 2.74
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-10 13:51:46.000000000+01:00
 - image_filename: 2022_01_10__13_46_P1101687.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.89111111111111
@@ -991,24 +935,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 13:47:42.000000000+01:00
-- image_filename: 2022_01_10__13_59_P1101702.jpg
+- image_filename: 2022_01_10__13_51_P1101691.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.895402777777775
-  lon: 15.929166666666665
-  altitude: 49.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 52.89388888888889
+  lon: 15.925680555555555
+  altitude: 50.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 8.1
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.74
   iso: 200
-  width: 5239
-  height: 3911
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-01-10 13:59:19.000000000+01:00
+  time: 2022-01-10 13:51:46.000000000+01:00
 - image_filename: 2022_01_10__13_54_P1101695.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.89458333333333
@@ -1027,24 +971,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 13:54:44.000000000+01:00
-- image_filename: 2022_01_10__14_10_P1101717.jpg
+- image_filename: 2022_01_10__13_59_P1101702.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.895291666666665
-  lon: 15.935944444444445
-  altitude: 44.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.895402777777775
+  lon: 15.929166666666665
+  altitude: 49.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 3.05
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.1
   iso: 200
-  width: 8199
-  height: 6131
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-01-10 14:10:56.000000000+01:00
+  time: 2022-01-10 13:59:19.000000000+01:00
 - image_filename: 2022_01_10__14_04_P1101711.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.89556944444444
@@ -1063,24 +1007,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 14:04:23.000000000+01:00
-- image_filename: 2022_01_10__14_15_P1101725.jpg
+- image_filename: 2022_01_10__14_10_P1101717.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.89513888888889
-  lon: 15.938458333333333
-  altitude: 45.0
-  focal_length: 31.0
-  focal_length_35: 62.0
+  lat: 52.895291666666665
+  lon: 15.935944444444445
+  altitude: 44.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 4.55
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 3.05
   iso: 200
   width: 8199
   height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-01-10 14:15:17.000000000+01:00
+  time: 2022-01-10 14:10:56.000000000+01:00
 - image_filename: 2022_01_10__14_13_P1101722.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.89527777777778
@@ -1099,6 +1043,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 14:13:41.000000000+01:00
+- image_filename: 2022_01_10__14_15_P1101725.jpg
+  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
+  lat: 52.89513888888889
+  lon: 15.938458333333333
+  altitude: 45.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 4.55
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-10 14:15:17.000000000+01:00
 - image_filename: 2022_01_10__14_17_P1101729.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.894875
@@ -1117,6 +1079,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 14:17:08.000000000+01:00
+- image_filename: 2022_01_10__14_19_P1101731.jpg
+  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
+  lat: 52.89534722222222
+  lon: 15.941472222222222
+  altitude: 45.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 13.35
+  iso: 200
+  width: 8148
+  height: 6093
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-10 14:19:25.000000000+01:00
 - image_filename: 2022_01_10__14_21_P1101735.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.89626388888889
@@ -1297,42 +1277,24 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-01-10 15:22:16.000000000+01:00
-- image_filename: 2022_01_10__16_01_P1101820.jpg
+- image_filename: 2022_01_10__15_22_P1101799.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.877916666666664
-  lon: 16.017555555555553
-  altitude: 37.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.882736111111114
+  lon: 15.984055555555555
+  altitude: 18.0
+  focal_length: 150.0
+  focal_length_35: 300.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  focus_distance: 4.73
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.58
   iso: 200
-  width: 7495
-  height: 5652
-  lens: OLYMPUS M.12-100mm F4.0
+  width: 4933
+  height: 3682
+  lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-01-10 16:01:47.000000000+01:00
-- image_filename: 2022_01_10__15_59_P1101817.jpg
-  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.878930555555556
-  lon: 16.01573611111111
-  altitude: 30.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 4.73
-  iso: 200
-  width: 7271
-  height: 5414
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-10 15:59:05.000000000+01:00
+  time: 2022-01-10 15:22:18.000000000+01:00
 - image_filename: 2022_01_10__15_54_P1101813.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.880611111111115
@@ -1351,24 +1313,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 15:54:24.000000000+01:00
-- image_filename: 2022_01_10__16_04_P1101825.jpg
+- image_filename: 2022_01_10__15_59_P1101817.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
-  lat: 52.877097222222226
-  lon: 16.018194444444443
-  altitude: 39.0
+  lat: 52.878930555555556
+  lon: 16.01573611111111
+  altitude: 30.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.1
-  exposure_string: 1/10 s
-  focus_distance: 2.92
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 4.73
   iso: 200
-  width: 7967
-  height: 5852
+  width: 7271
+  height: 5414
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-01-10 16:04:33.000000000+01:00
+  time: 2022-01-10 15:59:05.000000000+01:00
+- image_filename: 2022_01_10__16_01_P1101820.jpg
+  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
+  lat: 52.877916666666664
+  lon: 16.017555555555553
+  altitude: 37.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 4.73
+  iso: 200
+  width: 7495
+  height: 5652
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-10 16:01:47.000000000+01:00
 - image_filename: 2022_01_10__16_04_P1101824.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.87726388888889
@@ -1387,6 +1367,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-01-10 16:04:04.000000000+01:00
+- image_filename: 2022_01_10__16_04_P1101825.jpg
+  post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
+  lat: 52.877097222222226
+  lon: 16.018194444444443
+  altitude: 39.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 2.92
+  iso: 200
+  width: 7967
+  height: 5852
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-10 16:04:33.000000000+01:00
 - image_filename: 2022_01_10__16_05_P1101827.jpg
   post_slug: 2022-01-10-co-jest-ciekawego-w-lesie
   lat: 52.87730555555556

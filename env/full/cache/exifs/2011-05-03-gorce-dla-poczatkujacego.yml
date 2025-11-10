@@ -1,189 +1,189 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2011-05-03-gorce-dla-poczatkujacego
-  focal_length: 133.0
-  focal_length_35: 199.0
-  crop: 1.4962406015037595
-  aperture: 6.3
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2011-05-02 09:40:44+02:00
 - image_filename: IMGP6031b.jpg
   post_slug: 2011-05-03-gorce-dla-poczatkujacego
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-04-30 14:57:28+02:00
+  time: 2011-04-30 14:57:28.000000000+02:00
 - image_filename: IMGP6034b.jpg
   post_slug: 2011-05-03-gorce-dla-poczatkujacego
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2011-04-30 14:58:24+02:00
-- image_filename: IMGP6250b.jpg
-  post_slug: 2011-05-03-gorce-dla-poczatkujacego
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2011-04-30 16:24:54+02:00
-- image_filename: IMGP6504b.jpg
-  post_slug: 2011-05-03-gorce-dla-poczatkujacego
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2011-05-02 09:37:15+02:00
-- image_filename: IMGP6536b.jpg
-  post_slug: 2011-05-03-gorce-dla-poczatkujacego
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2011-05-02 09:42:46+02:00
-- image_filename: IMGP6579.JPG
-  post_slug: 2011-05-03-gorce-dla-poczatkujacego
-  focal_length: 75.0
-  focal_length_35: 112.0
-  crop: 1.4933333333333334
-  aperture: 6.3
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2011-05-02 09:47:52+02:00
-- image_filename: IMGP6559.JPG
-  post_slug: 2011-05-03-gorce-dla-poczatkujacego
-  focal_length: 75.0
-  focal_length_35: 112.0
-  crop: 1.4933333333333334
-  aperture: 6.3
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-05-02 09:45:06+02:00
-- image_filename: IMGP6720b1.jpg
-  post_slug: 2011-05-03-gorce-dla-poczatkujacego
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.7
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2011-05-02 10:18:21+02:00
-- image_filename: IMGP6467b.jpg
-  post_slug: 2011-05-03-gorce-dla-poczatkujacego
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2011-05-02 09:30:37+02:00
+  time: 2011-04-30 14:58:24.000000000+02:00
 - image_filename: IMGP6163b.jpg
   post_slug: 2011-05-03-gorce-dla-poczatkujacego
   focal_length: 133.0
   focal_length_35: 199.0
   crop: 1.4962406015037595
   aperture: 5.6
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2011-04-30 15:38:51+02:00
-- image_filename: IMGP6587b.jpg
-  post_slug: 2011-05-03-gorce-dla-poczatkujacego
-  focal_length: 133.0
-  focal_length_35: 199.0
-  crop: 1.4962406015037595
-  aperture: 6.3
-  iso: 800
-  lens: Sigma Lens
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
   camera: PENTAX K100D
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2011-05-02 09:48:37+02:00
+  time: 2011-04-30 15:38:51.000000000+02:00
+- image_filename: IMGP6250b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  time: 2011-04-30 16:24:54.000000000+02:00
 - image_filename: IMGP6259b1.jpg
   post_slug: 2011-05-03-gorce-dla-poczatkujacego
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
+  time: 2011-04-30 16:26:56.000000000+02:00
+- image_filename: IMGP6467b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  time: 2011-05-02 09:30:37.000000000+02:00
+- image_filename: IMGP6504b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  time: 2011-05-02 09:37:15.000000000+02:00
+- image_filename: IMGP6536b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-05-02 09:42:46.000000000+02:00
+- image_filename: IMGP6559.JPG
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 75.0
+  focal_length_35: 112.0
+  crop: 1.4933333333333334
+  aperture: 6.3
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 800
+  width: 3008
+  height: 2000
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-05-02 09:45:06.000000000+02:00
+- image_filename: IMGP6579.JPG
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 75.0
+  focal_length_35: 112.0
+  crop: 1.4933333333333334
+  aperture: 6.3
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2011-04-30 16:26:56+02:00
+  iso: 800
+  width: 3008
+  height: 2000
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-05-02 09:47:52.000000000+02:00
+- image_filename: IMGP6587b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 133.0
+  focal_length_35: 199.0
+  crop: 1.4962406015037595
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-05-02 09:48:37.000000000+02:00
 - image_filename: IMGP6609.JPG
   post_slug: 2011-05-03-gorce-dla-poczatkujacego
   focal_length: 18.0
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
   exposure: 0.0005
   exposure_string: 1/2000 s
-  time: 2011-05-02 09:54:43+02:00
+  iso: 800
+  width: 3008
+  height: 2000
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-05-02 09:54:43.000000000+02:00
+- image_filename: IMGP6720b1.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-05-02 10:18:21.000000000+02:00
 - image_filename: IMGP6795b1.jpg
   post_slug: 2011-05-03-gorce-dla-poczatkujacego
   focal_length: 75.0
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 5.6
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2011-05-02 10:34:18+02:00
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-05-02 10:34:18.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 133.0
+  focal_length_35: 199.0
+  crop: 1.4962406015037595
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 3008
+  height: 2000
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-05-02 09:40:44.000000000+02:00

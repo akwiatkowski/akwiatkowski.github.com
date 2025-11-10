@@ -1,22 +1,4 @@
 ---
-- image_filename: 2018_10_21__14_33__A212255.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51719444444444
-  lon: 17.146527777777777
-  altitude: 89.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-10-21 14:33:01+02:00
-  focus_distance: 3.7
 - image_filename: 2018_10_20__14_26__A201298.jpg
   post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
   lat: 52.474875000000004
@@ -26,969 +8,15 @@
   focal_length_35: 26.0
   crop: 2.0
   aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.94
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 4985
   height: 3756
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-20 14:26:48+02:00
-  focus_distance: 0.94
-- image_filename: 2018_10_20__14_31__A201305.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.475680555555556
-  lon: 17.24326388888889
-  altitude: 90.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4905
-  height: 3661
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-10-20 14:31:52+02:00
-  focus_distance: 5.43
-- image_filename: 2018_10_20__14_52__A201349.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.48052777777778
-  lon: 17.249430555555556
-  altitude: 86.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-20 14:52:29+02:00
-  focus_distance: 3.12
-- image_filename: 2018_10_20__15_03__A201395.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.481861111111115
-  lon: 17.250888888888888
-  altitude: 85.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-10-20 15:03:18+02:00
-  focus_distance: 22.11
-- image_filename: 2018_10_20__15_08__A201411.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.48305555555556
-  lon: 17.251722222222224
-  altitude: 86.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4802
-  height: 3505
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-20 15:08:02+02:00
-  focus_distance: 5.57
-- image_filename: 2018_10_20__15_35__A201444.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.49241666666667
-  lon: 17.24701388888889
-  altitude: 87.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-20 15:35:05+02:00
-  focus_distance: 4.43
-- image_filename: 2018_10_20__15_37__A201453.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.49406944444445
-  lon: 17.246402777777778
-  altitude: 87.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-10-20 15:37:52+02:00
-  focus_distance: 4.88
-- image_filename: 2018_10_20__15_39__A201456.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.49509722222222
-  lon: 17.24590277777778
-  altitude: 88.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-20 15:39:38+02:00
-  focus_distance: 4.57
-- image_filename: 2018_10_20__15_42__A201468.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.49688888888889
-  lon: 17.246750000000002
-  altitude: 98.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3882
-  height: 5218
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-10-20 15:42:46+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_20__16_12__A201483.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.49744444444445
-  lon: 17.244958333333333
-  altitude: 108.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5097
-  height: 3715
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-10-20 16:12:08+02:00
-  focus_distance: 3.01
-- image_filename: 2018_10_20__16_23__A201494.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.495736111111114
-  lon: 17.239472222222222
-  altitude: 91.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4955
-  height: 3699
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-10-20 16:23:32+02:00
-  focus_distance: 3.19
-- image_filename: 2018_10_21__10_22__A211523.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.49977777777778
-  lon: 17.243833333333335
-  altitude: 112.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-21 10:22:51+02:00
-  focus_distance: 96.94
-- image_filename: 2018_10_21__10_46__A211695.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.502402777777775
-  lon: 17.234097222222225
-  altitude: 107.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-10-21 10:46:01+02:00
-  focus_distance: 0.82
-- image_filename: 2018_10_21__10_59__A211733.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50423611111111
-  lon: 17.2275
-  altitude: 104.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-10-21 10:59:23+02:00
-  focus_distance: 0.53
-- image_filename: 2018_10_21__11_26__A211759.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.5065
-  lon: 17.209555555555553
-  altitude: 96.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5067
-  height: 3898
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-21 11:26:41+02:00
-  focus_distance: 4.43
-- image_filename: 2018_10_21__11_35__A211771.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50613888888889
-  lon: 17.206888888888887
-  altitude: 92.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4992
-  height: 3727
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-21 11:35:56+02:00
-  focus_distance: 20.33
-- image_filename: 2018_10_21__11_42__A211785.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.506
-  lon: 17.206666666666667
-  altitude: 91.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5092
-  height: 3801
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-10-21 11:42:21+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_21__11_59__A211809.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50798611111111
-  lon: 17.200319444444442
-  altitude: 89.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-10-21 11:59:03+02:00
-  focus_distance: 2.74
-- image_filename: 2018_10_21__12_16__A211951.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.508763888888886
-  lon: 17.19825
-  altitude: 93.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 4052
-  height: 2948
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-10-21 12:16:03+02:00
-  focus_distance: 1.25
-- image_filename: 2018_10_21__12_17__A211972.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50879166666667
-  lon: 17.19825
-  altitude: 95.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-21 12:17:20+02:00
-  focus_distance: 0.53
-- image_filename: 2018_10_21__12_27__A212050.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51079166666667
-  lon: 17.19598611111111
-  altitude: 89.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-10-21 12:27:54+02:00
-  focus_distance: 0.37
-- image_filename: 2018_10_21__12_44__A212070.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51348611111111
-  lon: 17.189194444444446
-  altitude: 99.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-10-21 12:44:28+02:00
-  focus_distance: 3.33
-- image_filename: 2018_10_21__12_53__A212080.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51363888888889
-  lon: 17.186652777777777
-  altitude: 93.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4981
-  height: 3719
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-10-21 12:53:53+02:00
-  focus_distance: 4.9
-- image_filename: 2018_10_21__13_40__A212130.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51719444444444
-  lon: 17.161791666666666
-  altitude: 88.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4936
-  height: 3685
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-10-21 13:40:05+02:00
-  focus_distance: 2.33
-- image_filename: 2018_10_21__13_52__A212157.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.517430555555556
-  lon: 17.157041666666665
-  altitude: 88.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-21 13:52:49+02:00
-  focus_distance: 3.79
-- image_filename: 2018_10_21__14_03__A212203.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.517430555555556
-  lon: 17.154027777777777
-  altitude: 90.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-10-21 14:03:16+02:00
-  focus_distance: 1.03
-- image_filename: 2018_10_21__14_07__A212215.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51730555555555
-  lon: 17.15398611111111
-  altitude: 90.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-21 14:07:13+02:00
-  focus_distance: 27.44
-- image_filename: 2018_10_21__11_30__A211766.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.506597222222226
-  lon: 17.207958333333334
-  altitude: 94.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-10-21 11:30:06+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_21__10_18__A211517.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.49922222222222
-  lon: 17.24641666666667
-  altitude: 111.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5218
-  height: 3895
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-10-21 10:18:24+02:00
-  focus_distance: 39.48
-- image_filename: 2018_10_20__15_00__A201385.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.481208333333335
-  lon: 17.25036111111111
-  altitude: 85.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5187
-  height: 3873
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2018-10-20 15:00:12+02:00
-  focus_distance: 5.99
-- image_filename: 2018_10_21__11_41__A211777.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50602777777778
-  lon: 17.20659722222222
-  altitude: 91.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5202
-  height: 3883
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-10-21 11:41:39+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_21__14_36_PA212258.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.518027777777775
-  lon: 17.145430555555556
-  altitude: 93.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5128
-  height: 3828
-  exposure: 0.002857142857142857
-  exposure_string: 1/350 s
-  time: 2018-10-21 14:36:37+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_20__14_50__A201338.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.48016666666667
-  lon: 17.249361111111114
-  altitude: 85.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5125
-  height: 3826
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-20 14:50:45+02:00
-  focus_distance: 25.6
-- image_filename: 2018_10_21__13_24__A212113.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51741666666666
-  lon: 17.16775
-  altitude: 89.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4884
-  height: 3646
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-10-21 13:24:49+02:00
-  focus_distance: 0.96
-- image_filename: 2018_10_20__15_09__A201417.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.48394444444445
-  lon: 17.252708333333334
-  altitude: 87.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-10-20 15:09:49+02:00
-  focus_distance: 2.29
-- image_filename: 2018_10_21__14_10__A212219.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51734722222222
-  lon: 17.154
-  altitude: 90.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-10-21 14:10:51+02:00
-  focus_distance: 0.45
-- image_filename: 2018_10_21__10_39__A211650.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.5015
-  lon: 17.237458333333333
-  altitude: 109.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-10-21 10:39:26+02:00
-  focus_distance: 0.68
-- image_filename: 2018_10_21__14_51__A212265.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.517069444444445
-  lon: 17.134680555555555
-  altitude: 96.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4628
-  height: 3327
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-21 14:51:12+02:00
-  focus_distance: 5.99
-- image_filename: 2018_10_21__14_19__A212248.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51733333333333
-  lon: 17.154041666666664
-  altitude: 90.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 3027
-  height: 2268
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2018-10-21 14:19:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_21__13_35__A212125.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51708333333333
-  lon: 17.163319444444443
-  altitude: 89.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-10-21 13:35:37+02:00
-  focus_distance: 8.43
-- image_filename: 2018_10_21__11_22__A211754.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.506458333333335
-  lon: 17.21152777777778
-  altitude: 99.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5226
-  height: 3882
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-21 11:22:57+02:00
-  focus_distance: 11.81
-- image_filename: 2018_10_21__14_03__A212204.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.517430555555556
-  lon: 17.154027777777777
-  altitude: 90.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2018-10-21 14:03:21+02:00
-  focus_distance: 1.08
-- image_filename: 2018_10_21__12_19__A212014.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50855555555555
-  lon: 17.19798611111111
-  altitude: 89.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 4461
-  height: 3080
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-21 12:19:04+02:00
-  focus_distance: 0.46
-- image_filename: 2018_10_21__12_45__A212074.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51351388888889
-  lon: 17.188902777777777
-  altitude: 99.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-10-21 12:45:48+02:00
-  focus_distance: 15.47
-- image_filename: 2018_10_21__13_44__A212136.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51727777777778
-  lon: 17.160916666666665
-  altitude: 90.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5190
-  height: 3874
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-21 13:44:29+02:00
-  focus_distance: 1.43
-- image_filename: 2018_10_20__15_49__A201480.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.49859722222222
-  lon: 17.24613888888889
-  altitude: 105.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5140
-  height: 3808
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-10-20 15:49:40+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_21__12_35__A212057.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51223611111111
-  lon: 17.192125
-  altitude: 92.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-10-21 12:35:11+02:00
-  focus_distance: 0.4
-- image_filename: 2018_10_21__14_11__A212224.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51738888888889
-  lon: 17.15398611111111
-  altitude: 90.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-10-21 14:11:09+02:00
-  focus_distance: 0.45
-- image_filename: 2018_10_21__12_25__A212047.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51002777777778
-  lon: 17.197083333333335
-  altitude: 91.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-10-21 12:25:43+02:00
-  focus_distance: 5.82
-- image_filename: 2018_10_21__10_45__A211683.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50219444444444
-  lon: 17.234916666666667
-  altitude: 108.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-10-21 10:45:22+02:00
-  focus_distance: 0.94
-- image_filename: 2018_10_21__10_59__A211729.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50413888888889
-  lon: 17.227888888888888
-  altitude: 104.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-10-21 10:59:04+02:00
-  focus_distance: 0.71
-- image_filename: 2018_10_20__15_06__A201408.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.48238888888889
-  lon: 17.251277777777776
-  altitude: 87.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4970
-  height: 3710
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-10-20 15:06:36+02:00
-  focus_distance: 76.92
-- image_filename: 2018_10_21__11_27__A211762.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50647222222222
-  lon: 17.209569444444444
-  altitude: 96.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5232
-  height: 3886
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-10-21 11:27:22+02:00
-  focus_distance: 5.34
-- image_filename: 2018_10_21__12_44__A212068.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.513444444444445
-  lon: 17.18938888888889
-  altitude: 99.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-10-21 12:44:13+02:00
-  focus_distance: 5.89
+  time: 2018-10-20 14:26:48.000000000+02:00
 - image_filename: 2018_10_20__14_31__A201301.jpg
   post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
   lat: 52.47563888888889
@@ -998,159 +26,33 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5000
-  height: 3650
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2018-10-20 14:31:18+02:00
   focus_distance: 1.82
-- image_filename: 2018_10_21__12_51__A212079.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51329166666667
-  lon: 17.186583333333335
-  altitude: 93.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
   iso: 200
+  width: 5000
+  height: 3650
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-10-21 12:51:07+02:00
-  focus_distance: 2.54
-- image_filename: 2018_10_21__10_36__A211616.jpg
+  time: 2018-10-20 14:31:18.000000000+02:00
+- image_filename: 2018_10_20__14_31__A201305.jpg
   post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50143055555556
-  lon: 17.237680555555556
-  altitude: 109.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-10-21 10:36:54+02:00
-  focus_distance: 0.45
-- image_filename: 2018_10_21__14_06__A212213.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51727777777778
-  lon: 17.154013888888887
+  lat: 52.475680555555556
+  lon: 17.24326388888889
   altitude: 90.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5186
-  height: 3872
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-10-21 14:06:37+02:00
-  focus_distance: 10.38
-- image_filename: 2018_10_21__12_09__A211829.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.50877777777778
-  lon: 17.198291666666666
-  altitude: 94.0
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
-  aperture: 1.4
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 5.43
   iso: 200
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-10-21 12:09:25+02:00
-  focus_distance: 2.13
-- image_filename: 2018_10_20__16_17__A201487.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.49638888888889
-  lon: 17.243972222222222
-  altitude: 97.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
+  width: 4905
+  height: 3661
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-10-20 16:17:21+02:00
-  focus_distance: 1000.0
-- image_filename: 2018_10_21__10_31__A211594.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.501263888888886
-  lon: 17.23829166666667
-  altitude: 109.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-10-21 10:31:36+02:00
-  focus_distance: 1.75
-- image_filename: 2018_10_20__14_39__A201319.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.477583333333335
-  lon: 17.249444444444446
-  altitude: 85.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4727
-  height: 3763
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-10-20 14:39:43+02:00
-  focus_distance: 5.28
-- image_filename: 2018_10_21__11_43__A211794.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.506083333333336
-  lon: 17.206611111111112
-  altitude: 91.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-10-21 11:43:27+02:00
-  focus_distance: 1000.0
+  time: 2018-10-20 14:31:52.000000000+02:00
 - image_filename: 2018_10_20__14_34__A201311.jpg
   post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
   lat: 52.47602777777778
@@ -1160,15 +62,339 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5024
-  height: 3750
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2018-10-20 14:34:25+02:00
   focus_distance: 167.18
+  iso: 200
+  width: 5024
+  height: 3750
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 14:34:25.000000000+02:00
+- image_filename: 2018_10_20__14_39__A201319.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.477583333333335
+  lon: 17.249444444444446
+  altitude: 85.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.28
+  iso: 200
+  width: 4727
+  height: 3763
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 14:39:43.000000000+02:00
+- image_filename: 2018_10_20__14_50__A201338.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.48016666666667
+  lon: 17.249361111111114
+  altitude: 85.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 25.6
+  iso: 200
+  width: 5125
+  height: 3826
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 14:50:45.000000000+02:00
+- image_filename: 2018_10_20__14_52__A201349.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.48052777777778
+  lon: 17.249430555555556
+  altitude: 86.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.12
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 14:52:29.000000000+02:00
+- image_filename: 2018_10_20__15_00__A201385.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.481208333333335
+  lon: 17.25036111111111
+  altitude: 85.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 5.99
+  iso: 200
+  width: 5187
+  height: 3873
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-10-20 15:00:12.000000000+02:00
+- image_filename: 2018_10_20__15_03__A201395.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.481861111111115
+  lon: 17.250888888888888
+  altitude: 85.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 22.11
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 15:03:18.000000000+02:00
+- image_filename: 2018_10_20__15_06__A201408.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.48238888888889
+  lon: 17.251277777777776
+  altitude: 87.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 76.92
+  iso: 200
+  width: 4970
+  height: 3710
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 15:06:36.000000000+02:00
+- image_filename: 2018_10_20__15_08__A201411.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.48305555555556
+  lon: 17.251722222222224
+  altitude: 86.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.57
+  iso: 200
+  width: 4802
+  height: 3505
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 15:08:02.000000000+02:00
+- image_filename: 2018_10_20__15_09__A201417.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.48394444444445
+  lon: 17.252708333333334
+  altitude: 87.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.29
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 15:09:49.000000000+02:00
+- image_filename: 2018_10_20__15_35__A201444.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.49241666666667
+  lon: 17.24701388888889
+  altitude: 87.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 15:35:05.000000000+02:00
+- image_filename: 2018_10_20__15_37__A201453.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.49406944444445
+  lon: 17.246402777777778
+  altitude: 87.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.88
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 15:37:52.000000000+02:00
+- image_filename: 2018_10_20__15_39__A201456.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.49509722222222
+  lon: 17.24590277777778
+  altitude: 88.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.57
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 15:39:38.000000000+02:00
+- image_filename: 2018_10_20__15_42__A201468.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.49688888888889
+  lon: 17.246750000000002
+  altitude: 98.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3882
+  height: 5218
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 15:42:46.000000000+02:00
+- image_filename: 2018_10_20__15_49__A201480.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.49859722222222
+  lon: 17.24613888888889
+  altitude: 105.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5140
+  height: 3808
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 15:49:40.000000000+02:00
+- image_filename: 2018_10_20__16_12__A201483.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.49744444444445
+  lon: 17.244958333333333
+  altitude: 108.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.01
+  iso: 200
+  width: 5097
+  height: 3715
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 16:12:08.000000000+02:00
+- image_filename: 2018_10_20__16_17__A201487.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.49638888888889
+  lon: 17.243972222222222
+  altitude: 97.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 16:17:21.000000000+02:00
+- image_filename: 2018_10_20__16_23__A201494.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.495736111111114
+  lon: 17.239472222222222
+  altitude: 91.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.19
+  iso: 200
+  width: 4955
+  height: 3699
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-20 16:23:32.000000000+02:00
+- image_filename: 2018_10_21__10_18__A211517.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.49922222222222
+  lon: 17.24641666666667
+  altitude: 111.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 39.48
+  iso: 200
+  width: 5218
+  height: 3895
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:18:24.000000000+02:00
+- image_filename: 2018_10_21__10_22__A211523.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.49977777777778
+  lon: 17.243833333333335
+  altitude: 112.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 96.94
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:22:51.000000000+02:00
 - image_filename: 2018_10_21__10_25__A211527.jpg
   post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
   lat: 52.500125
@@ -1178,12 +404,786 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2018-10-21 10:25:12+02:00
   focus_distance: 11.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:25:12.000000000+02:00
+- image_filename: 2018_10_21__10_31__A211594.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.501263888888886
+  lon: 17.23829166666667
+  altitude: 109.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.75
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:31:36.000000000+02:00
+- image_filename: 2018_10_21__10_36__A211616.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50143055555556
+  lon: 17.237680555555556
+  altitude: 109.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.45
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:36:54.000000000+02:00
+- image_filename: 2018_10_21__10_39__A211650.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.5015
+  lon: 17.237458333333333
+  altitude: 109.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.68
+  iso: 320
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:39:26.000000000+02:00
+- image_filename: 2018_10_21__10_45__A211683.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50219444444444
+  lon: 17.234916666666667
+  altitude: 108.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.94
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:45:22.000000000+02:00
+- image_filename: 2018_10_21__10_46__A211695.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.502402777777775
+  lon: 17.234097222222225
+  altitude: 107.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 0.82
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:46:01.000000000+02:00
+- image_filename: 2018_10_21__10_59__A211729.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50413888888889
+  lon: 17.227888888888888
+  altitude: 104.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.71
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:59:04.000000000+02:00
+- image_filename: 2018_10_21__10_59__A211733.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50423611111111
+  lon: 17.2275
+  altitude: 104.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.53
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 10:59:23.000000000+02:00
+- image_filename: 2018_10_21__11_22__A211754.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.506458333333335
+  lon: 17.21152777777778
+  altitude: 99.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.81
+  iso: 200
+  width: 5226
+  height: 3882
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 11:22:57.000000000+02:00
+- image_filename: 2018_10_21__11_26__A211759.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.5065
+  lon: 17.209555555555553
+  altitude: 96.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5067
+  height: 3898
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 11:26:41.000000000+02:00
+- image_filename: 2018_10_21__11_27__A211762.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50647222222222
+  lon: 17.209569444444444
+  altitude: 96.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.34
+  iso: 200
+  width: 5232
+  height: 3886
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 11:27:22.000000000+02:00
+- image_filename: 2018_10_21__11_30__A211766.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.506597222222226
+  lon: 17.207958333333334
+  altitude: 94.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 11:30:06.000000000+02:00
+- image_filename: 2018_10_21__11_35__A211771.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50613888888889
+  lon: 17.206888888888887
+  altitude: 92.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 20.33
+  iso: 200
+  width: 4992
+  height: 3727
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 11:35:56.000000000+02:00
+- image_filename: 2018_10_21__11_41__A211777.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50602777777778
+  lon: 17.20659722222222
+  altitude: 91.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5202
+  height: 3883
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-10-21 11:41:39.000000000+02:00
+- image_filename: 2018_10_21__11_42__A211785.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.506
+  lon: 17.206666666666667
+  altitude: 91.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5092
+  height: 3801
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-10-21 11:42:21.000000000+02:00
+- image_filename: 2018_10_21__11_43__A211794.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.506083333333336
+  lon: 17.206611111111112
+  altitude: 91.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-10-21 11:43:27.000000000+02:00
+- image_filename: 2018_10_21__11_59__A211809.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50798611111111
+  lon: 17.200319444444442
+  altitude: 89.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.74
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 11:59:03.000000000+02:00
+- image_filename: 2018_10_21__12_09__A211829.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50877777777778
+  lon: 17.198291666666666
+  altitude: 94.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 2.13
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-10-21 12:09:25.000000000+02:00
+- image_filename: 2018_10_21__12_16__A211951.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.508763888888886
+  lon: 17.19825
+  altitude: 93.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1.25
+  iso: 200
+  width: 4052
+  height: 2948
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-10-21 12:16:03.000000000+02:00
+- image_filename: 2018_10_21__12_17__A211972.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50879166666667
+  lon: 17.19825
+  altitude: 95.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.53
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-10-21 12:17:20.000000000+02:00
+- image_filename: 2018_10_21__12_19__A212014.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.50855555555555
+  lon: 17.19798611111111
+  altitude: 89.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.46
+  iso: 200
+  width: 4461
+  height: 3080
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-10-21 12:19:04.000000000+02:00
+- image_filename: 2018_10_21__12_25__A212047.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51002777777778
+  lon: 17.197083333333335
+  altitude: 91.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 5.82
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-10-21 12:25:43.000000000+02:00
+- image_filename: 2018_10_21__12_27__A212050.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51079166666667
+  lon: 17.19598611111111
+  altitude: 89.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.37
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-10-21 12:27:54.000000000+02:00
+- image_filename: 2018_10_21__12_35__A212057.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51223611111111
+  lon: 17.192125
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.4
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  time: 2018-10-21 12:35:11.000000000+02:00
+- image_filename: 2018_10_21__12_44__A212068.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.513444444444445
+  lon: 17.18938888888889
+  altitude: 99.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 5.89
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 12:44:13.000000000+02:00
+- image_filename: 2018_10_21__12_44__A212070.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51348611111111
+  lon: 17.189194444444446
+  altitude: 99.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.33
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 12:44:28.000000000+02:00
+- image_filename: 2018_10_21__12_45__A212074.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51351388888889
+  lon: 17.188902777777777
+  altitude: 99.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 15.47
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 12:45:48.000000000+02:00
+- image_filename: 2018_10_21__12_51__A212079.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51329166666667
+  lon: 17.186583333333335
+  altitude: 93.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.54
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 12:51:07.000000000+02:00
+- image_filename: 2018_10_21__12_53__A212080.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51363888888889
+  lon: 17.186652777777777
+  altitude: 93.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.9
+  iso: 200
+  width: 4981
+  height: 3719
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 12:53:53.000000000+02:00
+- image_filename: 2018_10_21__13_24__A212113.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51741666666666
+  lon: 17.16775
+  altitude: 89.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.96
+  iso: 200
+  width: 4884
+  height: 3646
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 13:24:49.000000000+02:00
+- image_filename: 2018_10_21__13_35__A212125.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51708333333333
+  lon: 17.163319444444443
+  altitude: 89.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 8.43
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 13:35:37.000000000+02:00
+- image_filename: 2018_10_21__13_40__A212130.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51719444444444
+  lon: 17.161791666666666
+  altitude: 88.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.33
+  iso: 200
+  width: 4936
+  height: 3685
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 13:40:05.000000000+02:00
+- image_filename: 2018_10_21__13_44__A212136.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51727777777778
+  lon: 17.160916666666665
+  altitude: 90.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.43
+  iso: 200
+  width: 5190
+  height: 3874
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 13:44:29.000000000+02:00
+- image_filename: 2018_10_21__13_52__A212157.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.517430555555556
+  lon: 17.157041666666665
+  altitude: 88.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.79
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 13:52:49.000000000+02:00
+- image_filename: 2018_10_21__14_03__A212203.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.517430555555556
+  lon: 17.154027777777777
+  altitude: 90.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1.03
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 14:03:16.000000000+02:00
+- image_filename: 2018_10_21__14_03__A212204.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.517430555555556
+  lon: 17.154027777777777
+  altitude: 90.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 1.08
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 14:03:21.000000000+02:00
+- image_filename: 2018_10_21__14_06__A212213.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51727777777778
+  lon: 17.154013888888887
+  altitude: 90.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 10.38
+  iso: 200
+  width: 5186
+  height: 3872
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 14:06:37.000000000+02:00
+- image_filename: 2018_10_21__14_07__A212215.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51730555555555
+  lon: 17.15398611111111
+  altitude: 90.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 27.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 14:07:13.000000000+02:00
+- image_filename: 2018_10_21__14_10__A212219.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51734722222222
+  lon: 17.154
+  altitude: 90.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.45
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 14:10:51.000000000+02:00
+- image_filename: 2018_10_21__14_11__A212224.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51738888888889
+  lon: 17.15398611111111
+  altitude: 90.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.45
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 14:11:09.000000000+02:00
+- image_filename: 2018_10_21__14_19__A212248.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51733333333333
+  lon: 17.154041666666664
+  altitude: 90.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3027
+  height: 2268
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-10-21 14:19:44.000000000+02:00
+- image_filename: 2018_10_21__14_33__A212255.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51719444444444
+  lon: 17.146527777777777
+  altitude: 89.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 14:33:01.000000000+02:00
+- image_filename: 2018_10_21__14_36_PA212258.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.518027777777775
+  lon: 17.145430555555556
+  altitude: 93.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5128
+  height: 3828
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 14:36:37.000000000+02:00
+- image_filename: 2018_10_21__14_51__A212265.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.517069444444445
+  lon: 17.134680555555555
+  altitude: 96.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.99
+  iso: 200
+  width: 4628
+  height: 3327
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-10-21 14:51:12.000000000+02:00

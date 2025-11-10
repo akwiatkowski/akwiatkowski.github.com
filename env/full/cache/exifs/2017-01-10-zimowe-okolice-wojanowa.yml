@@ -1,172 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.87075
-  lon: 15.813611111111111
-  altitude: 357.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 8.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-01-10 14:34:05+01:00
-- image_filename: IMGP1255raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.880916666666664
-  lon: 15.872361111111111
-  altitude: 369.0
-  focal_length: 148.0
-  focal_length_35: 222.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-01-10 11:35:53+01:00
-- image_filename: IMGP1265raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.87831944444444
-  lon: 15.870166666666668
-  altitude: 357.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-10 11:42:59+01:00
-- image_filename: IMGP1299raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.880180555555555
-  lon: 15.855291666666666
-  altitude: 357.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-01-10 12:06:10+01:00
-- image_filename: IMGP1438raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.88236111111111
-  lon: 15.817777777777778
-  altitude: 349.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-01-10 15:08:46+01:00
-- image_filename: IMGP1472raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.89118055555556
-  lon: 15.833166666666667
-  altitude: 405.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 7.1
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-01-10 15:32:59+01:00
-- image_filename: IMGP1538raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.88001388888889
-  lon: 15.841111111111111
-  altitude: 371.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2017-01-10 16:22:47+01:00
-- image_filename: IMGP1576raw2.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.87186111111111
-  lon: 15.819888888888888
-  altitude: 351.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2017-01-10 18:24:46+01:00
-- image_filename: IMGP1514raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.88805555555555
-  lon: 15.840180555555555
-  altitude: 383.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2017-01-10 15:58:52+01:00
-- image_filename: IMGP1520raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.88675
-  lon: 15.839541666666667
-  altitude: 377.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2017-01-10 16:03:14+01:00
-- image_filename: IMGP1342raw2.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.87411111111111
-  lon: 15.843722222222222
-  altitude: 353.0
-  focal_length: 500.0
-  focal_length_35: 750.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2017-01-10 12:23:29+01:00
-- image_filename: IMGP1487raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.892291666666665
-  lon: 15.837722222222222
-  altitude: 400.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-10 15:40:28+01:00
 - image_filename: IMGP1249raw1.jpg
   post_slug: 2017-01-10-zimowe-okolice-wojanowa
   lat: 50.88259722222222
@@ -176,81 +8,53 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2017-01-10 11:32:10+01:00
-- image_filename: IMGP1434raw1.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-10 11:32:10.000000000+01:00
+- image_filename: IMGP1255raw1.jpg
   post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.88202777777778
-  lon: 15.817166666666667
-  altitude: 350.0
-  focal_length: 90.0
-  focal_length_35: 135.0
+  lat: 50.880916666666664
+  lon: 15.872361111111111
+  altitude: 369.0
+  focal_length: 148.0
+  focal_length_35: 222.0
   crop: 1.5
   aperture: 8.0
-  iso: 400
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-01-10 15:07:16+01:00
-- image_filename: IMGP1500raw2.jpg
+  time: 2017-01-10 11:35:53.000000000+01:00
+- image_filename: IMGP1265raw1.jpg
   post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.88993055555556
-  lon: 15.839597222222222
-  altitude: 401.0
+  lat: 50.87831944444444
+  lon: 15.870166666666668
+  altitude: 357.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-01-10 11:42:59.000000000+01:00
+- image_filename: IMGP1299raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.880180555555555
+  lon: 15.855291666666666
+  altitude: 357.0
   focal_length: 170.0
   focal_length_35: 255.0
   crop: 1.5
   aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-10 15:46:35+01:00
-- image_filename: IMGP1581raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.87051388888889
-  lon: 15.824541666666667
-  altitude: 354.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2017-01-10 18:34:30+01:00
-- image_filename: IMGP1536raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.88026388888889
-  lon: 15.840680555555556
-  altitude: 371.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2017-01-10 16:21:11+01:00
-- image_filename: IMGP1368raw1.jpg
-  post_slug: 2017-01-10-zimowe-okolice-wojanowa
-  lat: 50.87127777777778
-  lon: 15.833416666666666
-  altitude: 351.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-01-10 12:40:53+01:00
+  time: 2017-01-10 12:06:10.000000000+01:00
 - image_filename: IMGP1335raw1.jpg
   post_slug: 2017-01-10-zimowe-okolice-wojanowa
   lat: 50.874430555555556
@@ -260,8 +64,204 @@
   focal_length_35: 510.0
   crop: 1.5
   aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2017-01-10 12:21:04+01:00
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-01-10 12:21:04.000000000+01:00
+- image_filename: IMGP1342raw2.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.87411111111111
+  lon: 15.843722222222222
+  altitude: 353.0
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-01-10 12:23:29.000000000+01:00
+- image_filename: IMGP1368raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.87127777777778
+  lon: 15.833416666666666
+  altitude: 351.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-01-10 12:40:53.000000000+01:00
+- image_filename: IMGP1434raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.88202777777778
+  lon: 15.817166666666667
+  altitude: 350.0
+  focal_length: 90.0
+  focal_length_35: 135.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-01-10 15:07:16.000000000+01:00
+- image_filename: IMGP1438raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.88236111111111
+  lon: 15.817777777777778
+  altitude: 349.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-01-10 15:08:46.000000000+01:00
+- image_filename: IMGP1472raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.89118055555556
+  lon: 15.833166666666667
+  altitude: 405.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2017-01-10 15:32:59.000000000+01:00
+- image_filename: IMGP1487raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.892291666666665
+  lon: 15.837722222222222
+  altitude: 400.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-01-10 15:40:28.000000000+01:00
+- image_filename: IMGP1500raw2.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.88993055555556
+  lon: 15.839597222222222
+  altitude: 401.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-01-10 15:46:35.000000000+01:00
+- image_filename: IMGP1514raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.88805555555555
+  lon: 15.840180555555555
+  altitude: 383.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-10 15:58:52.000000000+01:00
+- image_filename: IMGP1520raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.88675
+  lon: 15.839541666666667
+  altitude: 377.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-10 16:03:14.000000000+01:00
+- image_filename: IMGP1536raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.88026388888889
+  lon: 15.840680555555556
+  altitude: 371.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-10 16:21:11.000000000+01:00
+- image_filename: IMGP1538raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.88001388888889
+  lon: 15.841111111111111
+  altitude: 371.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-10 16:22:47.000000000+01:00
+- image_filename: IMGP1576raw2.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.87186111111111
+  lon: 15.819888888888888
+  altitude: 351.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-01-10 18:24:46.000000000+01:00
+- image_filename: IMGP1581raw1.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.87051388888889
+  lon: 15.824541666666667
+  altitude: 354.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-01-10 18:34:30.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2017-01-10-zimowe-okolice-wojanowa
+  lat: 50.87075
+  lon: 15.813611111111111
+  altitude: 357.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-01-10 14:34:05.000000000+01:00

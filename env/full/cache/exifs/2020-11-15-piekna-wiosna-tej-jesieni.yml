@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
 - image_filename: 2020_11_15__10_25_DSC06835.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.603319444444445
@@ -10,14 +8,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 5749
-  height: 3825
   exposure: 0.0005
   exposure_string: 1/2000 s
-  time: 2020-11-15 10:25:41+01:00
+  iso: 100
+  width: 5749
+  height: 3825
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-15 10:25:41.000000000+01:00
 - image_filename: 2020_11_15__11_43_DSC06896.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.61194444444445
@@ -27,14 +25,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5709
-  height: 3833
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 11:43:52+01:00
+  iso: 200
+  width: 5709
+  height: 3833
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 11:43:52.000000000+01:00
 - image_filename: 2020_11_15__13_09_DSC06905.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.61431944444445
@@ -44,31 +42,14 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5873
-  height: 3907
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-15 13:09:04+01:00
-- image_filename: 2020_11_15__13_09_DSC06910.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.61020833333333
-  lon: 18.146583333333332
-  altitude: 103.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
   iso: 100
+  width: 5873
+  height: 3907
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5956
-  height: 3962
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-11-15 13:09:34+01:00
+  time: 2020-11-15 13:09:04.000000000+01:00
 - image_filename: 2020_11_15__13_09_DSC06908.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.611361111111115
@@ -78,31 +59,31 @@
   focal_length_35: 55.0
   crop: 1.0
   aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5838
-  height: 3884
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-15 13:09:26+01:00
-- image_filename: 2020_11_15__13_34_DSC06913.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.44038888888888
-  lon: 17.95134722222222
-  altitude: 105.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
   iso: 100
+  width: 5838
+  height: 3884
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5873
-  height: 3907
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-15 13:34:54+01:00
+  time: 2020-11-15 13:09:26.000000000+01:00
+- image_filename: 2020_11_15__13_09_DSC06910.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.61020833333333
+  lon: 18.146583333333332
+  altitude: 103.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5956
+  height: 3962
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-15 13:09:34.000000000+01:00
 - image_filename: 2020_11_15__13_09_DSC06911.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.60977777777778
@@ -112,31 +93,14 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5873
-  height: 3907
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-15 13:09:37+01:00
-- image_filename: 2020_11_15__13_34_DSC06914.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.43984722222222
-  lon: 17.950569444444444
-  altitude: 105.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 5873
   height: 3907
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-15 13:34:58+01:00
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-15 13:09:37.000000000+01:00
 - image_filename: 2020_11_15__13_34_DSC06912.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.442055555555555
@@ -146,48 +110,48 @@
   focal_length_35: 51.0
   crop: 1.0
   aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5873
-  height: 3907
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-11-15 13:34:42+01:00
-- image_filename: 2020_11_15__13_43_DSC06918.jpg
+  iso: 100
+  width: 5873
+  height: 3907
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-15 13:34:42.000000000+01:00
+- image_filename: 2020_11_15__13_34_DSC06913.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.43156944444444
-  lon: 17.93588888888889
-  altitude: 93.0
+  lat: 52.44038888888888
+  lon: 17.95134722222222
+  altitude: 105.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 5.6
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
+  width: 5873
+  height: 3907
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5927
-  height: 3943
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-15 13:43:21+01:00
-- image_filename: 2020_11_15__13_45_DSC06925.jpg
+  time: 2020-11-15 13:34:54.000000000+01:00
+- image_filename: 2020_11_15__13_34_DSC06914.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.43169444444444
-  lon: 17.937694444444446
-  altitude: 91.0
-  focal_length: 47.0
-  focal_length_35: 47.0
+  lat: 52.43984722222222
+  lon: 17.950569444444444
+  altitude: 105.0
+  focal_length: 75.0
+  focal_length_35: 75.0
   crop: 1.0
-  aperture: 5.6
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
+  width: 5873
+  height: 3907
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5945
-  height: 3955
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2020-11-15 13:45:48+01:00
+  time: 2020-11-15 13:34:58.000000000+01:00
 - image_filename: 2020_11_15__13_43_DSC06917.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.431555555555555
@@ -197,31 +161,48 @@
   focal_length_35: 36.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5873
-  height: 3907
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-15 13:43:17+01:00
-- image_filename: 2020_11_15__14_00_DSC06962.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.431041666666665
-  lon: 17.935541666666666
-  altitude: 93.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  iso: 100
+  width: 5873
+  height: 3907
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5021
-  height: 3218
+  time: 2020-11-15 13:43:17.000000000+01:00
+- image_filename: 2020_11_15__13_43_DSC06918.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.43156944444444
+  lon: 17.93588888888889
+  altitude: 93.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:00:36+01:00
+  iso: 100
+  width: 5927
+  height: 3943
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-15 13:43:21.000000000+01:00
+- image_filename: 2020_11_15__13_45_DSC06925.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.43169444444444
+  lon: 17.937694444444446
+  altitude: 91.0
+  focal_length: 47.0
+  focal_length_35: 47.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 5945
+  height: 3955
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-15 13:45:48.000000000+01:00
 - image_filename: 2020_11_15__13_48_DSC06938.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.43138888888889
@@ -231,14 +212,14 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 3901
-  height: 5863
   exposure: 0.0002
   exposure_string: 1/5000 s
-  time: 2020-11-15 13:48:41+01:00
+  iso: 100
+  width: 3901
+  height: 5863
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-15 13:48:41.000000000+01:00
 - image_filename: 2020_11_15__14_00_DSC06958.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.43116666666666
@@ -248,14 +229,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 3204
-  height: 2564
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:00:28+01:00
+  iso: 400
+  width: 3204
+  height: 2564
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:00:28.000000000+01:00
 - image_filename: 2020_11_15__14_00_DSC06960.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.43109722222222
@@ -265,31 +246,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 3723
-  height: 2877
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:00:32+01:00
-- image_filename: 2020_11_15__14_00_DSC06968.jpg
+  iso: 500
+  width: 3723
+  height: 2877
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:00:32.000000000+01:00
+- image_filename: 2020_11_15__14_00_DSC06962.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.43098611111111
-  lon: 17.935444444444446
+  lat: 52.431041666666665
+  lon: 17.935541666666666
   altitude: 93.0
   focal_length: 400.0
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4939
-  height: 3152
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:00:51+01:00
+  iso: 640
+  width: 5021
+  height: 3218
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:00:36.000000000+01:00
 - image_filename: 2020_11_15__14_00_DSC06963.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.431041666666665
@@ -299,14 +280,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5389
-  height: 3609
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:00:38+01:00
+  iso: 640
+  width: 5389
+  height: 3609
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:00:38.000000000+01:00
+- image_filename: 2020_11_15__14_00_DSC06968.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.43098611111111
+  lon: 17.935444444444446
+  altitude: 93.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 4939
+  height: 3152
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:00:51.000000000+01:00
 - image_filename: 2020_11_15__14_00_DSC06970.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.430972222222216
@@ -316,14 +314,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5066
-  height: 3612
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:00:52+01:00
+  iso: 640
+  width: 5066
+  height: 3612
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:00:52.000000000+01:00
 - image_filename: 2020_11_15__14_01_DSC06974.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.43088888888889
@@ -333,65 +331,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 4334
   height: 2902
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-15 14:01:10+01:00
-- image_filename: 2020_11_15__14_04_DSC06986.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.431
-  lon: 17.935319444444445
-  altitude: 94.0
-  focal_length: 230.3
-  focal_length_35: 230.0
-  crop: 0.9986973512809378
-  aperture: 5.6
-  iso: 100
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5835
-  height: 3882
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-11-15 14:04:35+01:00
-- image_filename: 2020_11_15__14_07_DSC06993.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.43025
-  lon: 17.93561111111111
-  altitude: 91.0
-  focal_length: 169.3
-  focal_length_35: 169.0
-  crop: 0.9982279976373302
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-15 14:07:20+01:00
-- image_filename: 2020_11_15__14_02_DSC06980.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.43098611111111
-  lon: 17.935305555555555
-  altitude: 93.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-15 14:02:23+01:00
+  time: 2020-11-15 14:01:10.000000000+01:00
 - image_filename: 2020_11_15__14_01_DSC06979.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.43095833333333
@@ -401,31 +348,65 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4398
-  height: 3106
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:01:56+01:00
-- image_filename: 2020_11_15__14_21_DSC07023.jpg
+  iso: 640
+  width: 4398
+  height: 3106
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:01:56.000000000+01:00
+- image_filename: 2020_11_15__14_02_DSC06980.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.45436111111111
-  lon: 17.926750000000002
-  altitude: 99.0
+  lat: 52.43098611111111
+  lon: 17.935305555555555
+  altitude: 93.0
   focal_length: 400.0
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 2500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5903
-  height: 3927
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:21:08+01:00
+  iso: 500
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:02:23.000000000+01:00
+- image_filename: 2020_11_15__14_04_DSC06986.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.431
+  lon: 17.935319444444445
+  altitude: 94.0
+  focal_length: 230.3
+  focal_length_35: 230.0
+  crop: 0.9986973512809378
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5835
+  height: 3882
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:04:35.000000000+01:00
+- image_filename: 2020_11_15__14_07_DSC06993.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.43025
+  lon: 17.93561111111111
+  altitude: 91.0
+  focal_length: 169.3
+  focal_length_35: 169.0
+  crop: 0.9982279976373302
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:07:20.000000000+01:00
 - image_filename: 2020_11_15__14_08_DSC06996.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.43065277777777
@@ -435,14 +416,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4549
-  height: 3157
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:08:31+01:00
+  iso: 400
+  width: 4549
+  height: 3157
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:08:31.000000000+01:00
 - image_filename: 2020_11_15__14_09_DSC07002.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.430930555555555
@@ -452,14 +433,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 3610
-  height: 2878
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:09:14+01:00
+  iso: 400
+  width: 3610
+  height: 2878
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:09:14.000000000+01:00
+- image_filename: 2020_11_15__14_21_DSC07023.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.45436111111111
+  lon: 17.926750000000002
+  altitude: 99.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 2500
+  width: 5903
+  height: 3927
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:21:08.000000000+01:00
 - image_filename: 2020_11_15__14_30_DSC07030.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.464513888888895
@@ -469,31 +467,14 @@
   focal_length_35: 219.0
   crop: 1.0
   aperture: 5.6
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-15 14:30:36+01:00
-- image_filename: 2020_11_15__14_34_DSC07042.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.463375000000006
-  lon: 17.92013888888889
-  altitude: 98.0
-  focal_length: 269.9
-  focal_length_35: 269.0
-  crop: 0.9966654316413487
-  aperture: 6.3
-  iso: 100
+  iso: 250
+  width: 6048
+  height: 4024
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5901
-  height: 3926
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2020-11-15 14:34:59+01:00
+  time: 2020-11-15 14:30:36.000000000+01:00
 - image_filename: 2020_11_15__14_31_DSC07032.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.464333333333336
@@ -503,14 +484,14 @@
   focal_length_35: 350.0
   crop: 0.9997143673236217
   aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6025
-  height: 4009
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-15 14:31:22+01:00
+  iso: 100
+  width: 6025
+  height: 4009
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:31:22.000000000+01:00
 - image_filename: 2020_11_15__14_33_DSC07036.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.46369444444445
@@ -520,31 +501,31 @@
   focal_length_35: 320.0
   crop: 0.9978172747115684
   aperture: 6.3
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6025
-  height: 4009
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-15 14:33:54+01:00
-- image_filename: 2020_11_15__14_36_DSC07045.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.463125000000005
-  lon: 17.919625
-  altitude: 98.0
-  focal_length: 194.9
-  focal_length_35: 194.0
-  crop: 0.9953822473063109
-  aperture: 5.6
-  iso: 100
+  iso: 250
+  width: 6025
+  height: 4009
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6002
-  height: 3993
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-11-15 14:36:06+01:00
+  time: 2020-11-15 14:33:54.000000000+01:00
+- image_filename: 2020_11_15__14_34_DSC07042.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.463375000000006
+  lon: 17.92013888888889
+  altitude: 98.0
+  focal_length: 269.9
+  focal_length_35: 269.0
+  crop: 0.9966654316413487
+  aperture: 6.3
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 5901
+  height: 3926
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:34:59.000000000+01:00
 - image_filename: 2020_11_15__14_35_DSC07044.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.463125000000005
@@ -554,14 +535,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5770
-  height: 3839
   exposure: 0.000625
   exposure_string: 1/1600 s
-  time: 2020-11-15 14:35:40+01:00
+  iso: 100
+  width: 5770
+  height: 3839
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:35:40.000000000+01:00
+- image_filename: 2020_11_15__14_36_DSC07045.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.463125000000005
+  lon: 17.919625
+  altitude: 98.0
+  focal_length: 194.9
+  focal_length_35: 194.0
+  crop: 0.9953822473063109
+  aperture: 5.6
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 6002
+  height: 3993
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:36:06.000000000+01:00
 - image_filename: 2020_11_15__14_36_DSC07046.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.463125000000005
@@ -571,14 +569,14 @@
   focal_length_35: 148.0
   crop: 0.9952925353059853
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5740
-  height: 3819
   exposure: 0.0003125
   exposure_string: 1/3200 s
-  time: 2020-11-15 14:36:10+01:00
+  iso: 100
+  width: 5740
+  height: 3819
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:36:10.000000000+01:00
 - image_filename: 2020_11_15__14_38_DSC07051.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.46313888888889
@@ -588,31 +586,14 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5831
-  height: 3879
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:38:17+01:00
-- image_filename: 2020_11_15__14_53_DSC07072.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.442874999999994
-  lon: 17.927305555555556
-  altitude: 103.0
-  focal_length: 111.7
-  focal_length_35: 111.0
-  crop: 0.9937332139659802
-  aperture: 5.6
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  width: 5831
+  height: 3879
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5805
-  height: 3862
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-11-15 14:53:43+01:00
+  time: 2020-11-15 14:38:17.000000000+01:00
 - image_filename: 2020_11_15__14_38_DSC07054.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.46313888888889
@@ -622,31 +603,31 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5802
-  height: 3860
   exposure: 0.0005
   exposure_string: 1/2000 s
-  time: 2020-11-15 14:38:56+01:00
-- image_filename: 2020_11_15__14_54_DSC07078.jpg
-  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.44083333333333
-  lon: 17.92690277777778
-  altitude: 102.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
   iso: 100
+  width: 5802
+  height: 3860
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-15 14:38:56.000000000+01:00
+- image_filename: 2020_11_15__14_53_DSC07072.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.442874999999994
+  lon: 17.927305555555556
+  altitude: 103.0
+  focal_length: 111.7
+  focal_length_35: 111.0
+  crop: 0.9937332139659802
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5805
+  height: 3862
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5740
-  height: 3819
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-11-15 14:54:18+01:00
+  time: 2020-11-15 14:53:43.000000000+01:00
 - image_filename: 2020_11_15__14_53_DSC07075.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.44102777777778
@@ -656,31 +637,31 @@
   focal_length_35: 294.0
   crop: 0.9996599795987758
   aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5740
-  height: 3819
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-15 14:53:58+01:00
-- image_filename: 2020_11_15__14_55_DSC07086.jpg
+  iso: 100
+  width: 5740
+  height: 3819
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:53:58.000000000+01:00
+- image_filename: 2020_11_15__14_54_DSC07078.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
-  lat: 52.44084722222222
-  lon: 17.92688888888889
+  lat: 52.44083333333333
+  lon: 17.92690277777778
   altitude: 102.0
-  focal_length: 151.3
-  focal_length_35: 151.0
-  crop: 0.9980171844018505
-  aperture: 5.6
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 5740
   height: 3819
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-11-15 14:55:06+01:00
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:54:18.000000000+01:00
 - image_filename: 2020_11_15__14_54_DSC07081.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.44084722222222
@@ -690,14 +671,14 @@
   focal_length_35: 136.0
   crop: 0.9977989728539984
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5740
-  height: 3819
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-15 14:54:36+01:00
+  iso: 100
+  width: 5740
+  height: 3819
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:54:36.000000000+01:00
 - image_filename: 2020_11_15__14_54_DSC07083.jpg
   post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
   lat: 52.44084722222222
@@ -707,11 +688,28 @@
   focal_length_35: 169.0
   crop: 0.9982279976373302
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5740
-  height: 3819
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-15 14:54:44+01:00
+  iso: 100
+  width: 5740
+  height: 3819
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:54:44.000000000+01:00
+- image_filename: 2020_11_15__14_55_DSC07086.jpg
+  post_slug: 2020-11-15-piekna-wiosna-tej-jesieni
+  lat: 52.44084722222222
+  lon: 17.92688888888889
+  altitude: 102.0
+  focal_length: 151.3
+  focal_length_35: 151.0
+  crop: 0.9980171844018505
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5740
+  height: 3819
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-15 14:55:06.000000000+01:00

@@ -1,429 +1,4 @@
 ---
-- image_filename: 2020_06_24__15_55_DSC08568.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23323611111111
-  lon: 17.19665277777778
-  altitude: 90.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7275
-  height: 4798
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-24 15:55:10+02:00
-- image_filename: 2020_06_24__16_27_DSC08633.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23243055555556
-  lon: 17.197166666666668
-  altitude: 91.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 5080
-  height: 3640
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-06-24 16:27:05+02:00
-- image_filename: 2020_06_24__15_53_DSC08564.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23426388888889
-  lon: 17.19325
-  altitude: 88.0
-  focal_length: 64.0
-  focal_length_35: 64.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-24 15:53:44+02:00
-- image_filename: 2020_06_24__15_57_DSC08576.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23319444444444
-  lon: 17.197111111111113
-  altitude: 89.0
-  focal_length: 47.0
-  focal_length_35: 47.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7203
-  height: 4717
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-24 15:57:39+02:00
-- image_filename: 2020_06_24__16_02_DSC08588.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.233000000000004
-  lon: 17.198222222222224
-  altitude: 90.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-24 16:02:56+02:00
-- image_filename: 2020_06_24__16_13_DSC08608.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.2335
-  lon: 17.198583333333335
-  altitude: 89.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-24 16:13:13+02:00
-- image_filename: 2020_06_24__16_34_DSC08645.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23073611111111
-  lon: 17.199402777777777
-  altitude: 91.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7365
-  height: 4919
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-24 16:34:55+02:00
-- image_filename: 2020_06_24__16_49_DSC08671.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.217736111111115
-  lon: 17.217763888888886
-  altitude: 91.0
-  focal_length: 33.0
-  focal_length_35: 33.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7232
-  height: 4883
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-24 16:49:31+02:00
-- image_filename: 2020_06_24__16_17_DSC08612.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23352777777778
-  lon: 17.19851388888889
-  altitude: 89.0
-  focal_length: 44.0
-  focal_length_35: 44.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7076
-  height: 4726
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-24 16:17:46+02:00
-- image_filename: 2020_06_24__16_49_DSC08669.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.217736111111115
-  lon: 17.217763888888886
-  altitude: 90.0
-  focal_length: 35.0
-  focal_length_35: 35.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7148
-  height: 4646
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-06-24 16:49:22+02:00
-- image_filename: 2020_06_24__15_59_DSC08583.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.233111111111114
-  lon: 17.197305555555555
-  altitude: 89.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6727
-  height: 4876
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-24 15:59:30+02:00
-- image_filename: 2020_06_24__16_56_DSC08677.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.21130555555556
-  lon: 17.246625
-  altitude: 92.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 9.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7241
-  height: 4836
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-24 16:56:48+02:00
-- image_filename: 2020_06_24__16_35_DSC08653.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23102777777778
-  lon: 17.19961111111111
-  altitude: 90.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6486
-  height: 4677
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-06-24 16:35:56+02:00
-- image_filename: 2020_06_24__16_46_DSC08666.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.219833333333334
-  lon: 17.214680555555553
-  altitude: 90.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6648
-  height: 4491
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-24 16:46:35+02:00
-- image_filename: 2020_06_24__16_03_DSC08590.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.233041666666665
-  lon: 17.19826388888889
-  altitude: 90.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7243
-  height: 4730
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-24 16:03:08+02:00
-- image_filename: 2020_06_24__16_06_DSC08598.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23261111111111
-  lon: 17.19925
-  altitude: 90.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-24 16:06:52+02:00
-- image_filename: 2020_06_24__16_05_DSC08594.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23277777777778
-  lon: 17.199236111111112
-  altitude: 90.0
-  focal_length: 64.0
-  focal_length_35: 64.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7099
-  height: 4740
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-24 16:05:55+02:00
-- image_filename: 2020_06_24__16_46_DSC08668.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.21944444444445
-  lon: 17.21525
-  altitude: 90.0
-  focal_length: 43.0
-  focal_length_35: 43.0
-  crop: 1.0
-  aperture: 9.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7238
-  height: 4768
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-24 16:46:49+02:00
-- image_filename: 2020_06_24__16_03_DSC08591.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.233041666666665
-  lon: 17.19825
-  altitude: 90.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7168
-  height: 4788
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-24 16:03:15+02:00
-- image_filename: 2020_06_24__16_20_DSC08622.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23368055555556
-  lon: 17.19740277777778
-  altitude: 89.0
-  focal_length: 39.0
-  focal_length_35: 39.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4477
-  height: 6911
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-24 16:20:50+02:00
-- image_filename: 2020_06_24__16_06_DSC08595.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23265277777778
-  lon: 17.19926388888889
-  altitude: 90.0
-  focal_length: 64.0
-  focal_length_35: 64.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-24 16:06:10+02:00
-- image_filename: 2020_06_24__15_37_DSC08558.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.261652777777776
-  lon: 17.166291666666666
-  altitude: 80.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 9.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-24 15:37:11+02:00
-- image_filename: 2020_06_24__16_35_DSC08648.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23073611111111
-  lon: 17.199402777777777
-  altitude: 91.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 9.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6761
-  height: 4872
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-24 16:35:19+02:00
-- image_filename: 2020_06_24__16_03_DSC08589.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23301388888889
-  lon: 17.19823611111111
-  altitude: 90.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-24 16:03:01+02:00
-- image_filename: 2020_06_24__16_11_DSC08604.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.233916666666666
-  lon: 17.199930555555557
-  altitude: 88.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-24 16:11:56+02:00
 - image_filename: 2020_06_24__15_30_DSC08544.jpg
   post_slug: 2020-06-24-susza-i-deszcz
   lat: 52.26295833333333
@@ -433,48 +8,31 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4919
-  height: 7365
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-06-24 15:30:05+02:00
-- image_filename: 2020_06_24__16_07_DSC08601.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.23261111111111
-  lon: 17.19925
-  altitude: 90.0
-  focal_length: 54.0
-  focal_length_35: 54.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 125
+  iso: 100
+  width: 4919
+  height: 7365
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
+  time: 2020-06-24 15:30:05.000000000+02:00
+- image_filename: 2020_06_24__15_37_DSC08558.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.261652777777776
+  lon: 17.166291666666666
+  altitude: 80.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
   width: 7366
   height: 4919
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-06-24 16:07:44+02:00
-- image_filename: 2020_06_24__16_46_DSC08667.jpg
-  post_slug: 2020-06-24-susza-i-deszcz
-  lat: 52.21965277777778
-  lon: 17.214944444444445
-  altitude: 91.0
-  focal_length: 65.0
-  focal_length_35: 65.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
-  width: 7219
-  height: 4822
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-24 16:46:41+02:00
+  time: 2020-06-24 15:37:11.000000000+02:00
 - image_filename: 2020_06_24__15_47_DSC08562.jpg
   post_slug: 2020-06-24-susza-i-deszcz
   lat: 52.24129166666667
@@ -484,14 +42,286 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7295
-  height: 4872
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-06-24 15:47:39+02:00
+  iso: 100
+  width: 7295
+  height: 4872
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 15:47:39.000000000+02:00
+- image_filename: 2020_06_24__15_53_DSC08564.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23426388888889
+  lon: 17.19325
+  altitude: 88.0
+  focal_length: 64.0
+  focal_length_35: 64.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 15:53:44.000000000+02:00
+- image_filename: 2020_06_24__15_55_DSC08568.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23323611111111
+  lon: 17.19665277777778
+  altitude: 90.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7275
+  height: 4798
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 15:55:10.000000000+02:00
+- image_filename: 2020_06_24__15_57_DSC08576.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23319444444444
+  lon: 17.197111111111113
+  altitude: 89.0
+  focal_length: 47.0
+  focal_length_35: 47.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7203
+  height: 4717
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 15:57:39.000000000+02:00
+- image_filename: 2020_06_24__15_59_DSC08583.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.233111111111114
+  lon: 17.197305555555555
+  altitude: 89.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6727
+  height: 4876
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 15:59:30.000000000+02:00
+- image_filename: 2020_06_24__16_02_DSC08588.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.233000000000004
+  lon: 17.198222222222224
+  altitude: 90.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:02:56.000000000+02:00
+- image_filename: 2020_06_24__16_03_DSC08589.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23301388888889
+  lon: 17.19823611111111
+  altitude: 90.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7366
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:03:01.000000000+02:00
+- image_filename: 2020_06_24__16_03_DSC08590.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.233041666666665
+  lon: 17.19826388888889
+  altitude: 90.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7243
+  height: 4730
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:03:08.000000000+02:00
+- image_filename: 2020_06_24__16_03_DSC08591.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.233041666666665
+  lon: 17.19825
+  altitude: 90.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7168
+  height: 4788
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:03:15.000000000+02:00
+- image_filename: 2020_06_24__16_05_DSC08594.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23277777777778
+  lon: 17.199236111111112
+  altitude: 90.0
+  focal_length: 64.0
+  focal_length_35: 64.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7099
+  height: 4740
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:05:55.000000000+02:00
+- image_filename: 2020_06_24__16_06_DSC08595.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23265277777778
+  lon: 17.19926388888889
+  altitude: 90.0
+  focal_length: 64.0
+  focal_length_35: 64.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:06:10.000000000+02:00
+- image_filename: 2020_06_24__16_06_DSC08598.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23261111111111
+  lon: 17.19925
+  altitude: 90.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 125
+  width: 7366
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:06:52.000000000+02:00
+- image_filename: 2020_06_24__16_07_DSC08601.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23261111111111
+  lon: 17.19925
+  altitude: 90.0
+  focal_length: 54.0
+  focal_length_35: 54.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 125
+  width: 7366
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:07:44.000000000+02:00
+- image_filename: 2020_06_24__16_11_DSC08604.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.233916666666666
+  lon: 17.199930555555557
+  altitude: 88.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:11:56.000000000+02:00
+- image_filename: 2020_06_24__16_13_DSC08608.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.2335
+  lon: 17.198583333333335
+  altitude: 89.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:13:13.000000000+02:00
+- image_filename: 2020_06_24__16_17_DSC08612.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23352777777778
+  lon: 17.19851388888889
+  altitude: 89.0
+  focal_length: 44.0
+  focal_length_35: 44.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7076
+  height: 4726
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:17:46.000000000+02:00
+- image_filename: 2020_06_24__16_20_DSC08622.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23368055555556
+  lon: 17.19740277777778
+  altitude: 89.0
+  focal_length: 39.0
+  focal_length_35: 39.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 4477
+  height: 6911
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:20:50.000000000+02:00
 - image_filename: 2020_06_24__16_21_DSC08623.jpg
   post_slug: 2020-06-24-susza-i-deszcz
   lat: 52.23359722222222
@@ -501,11 +331,181 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 320
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-06-24 16:21:06+02:00
+  iso: 320
+  width: 7366
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:21:06.000000000+02:00
+- image_filename: 2020_06_24__16_27_DSC08633.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23243055555556
+  lon: 17.197166666666668
+  altitude: 91.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5080
+  height: 3640
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:27:05.000000000+02:00
+- image_filename: 2020_06_24__16_34_DSC08645.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23073611111111
+  lon: 17.199402777777777
+  altitude: 91.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7365
+  height: 4919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:34:55.000000000+02:00
+- image_filename: 2020_06_24__16_35_DSC08648.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23073611111111
+  lon: 17.199402777777777
+  altitude: 91.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6761
+  height: 4872
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:35:19.000000000+02:00
+- image_filename: 2020_06_24__16_35_DSC08653.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.23102777777778
+  lon: 17.19961111111111
+  altitude: 90.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6486
+  height: 4677
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:35:56.000000000+02:00
+- image_filename: 2020_06_24__16_46_DSC08666.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.219833333333334
+  lon: 17.214680555555553
+  altitude: 90.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6648
+  height: 4491
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:46:35.000000000+02:00
+- image_filename: 2020_06_24__16_46_DSC08667.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.21965277777778
+  lon: 17.214944444444445
+  altitude: 91.0
+  focal_length: 65.0
+  focal_length_35: 65.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7219
+  height: 4822
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:46:41.000000000+02:00
+- image_filename: 2020_06_24__16_46_DSC08668.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.21944444444445
+  lon: 17.21525
+  altitude: 90.0
+  focal_length: 43.0
+  focal_length_35: 43.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7238
+  height: 4768
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:46:49.000000000+02:00
+- image_filename: 2020_06_24__16_49_DSC08669.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.217736111111115
+  lon: 17.217763888888886
+  altitude: 90.0
+  focal_length: 35.0
+  focal_length_35: 35.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 250
+  width: 7148
+  height: 4646
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:49:22.000000000+02:00
+- image_filename: 2020_06_24__16_49_DSC08671.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.217736111111115
+  lon: 17.217763888888886
+  altitude: 91.0
+  focal_length: 33.0
+  focal_length_35: 33.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7232
+  height: 4883
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:49:31.000000000+02:00
+- image_filename: 2020_06_24__16_56_DSC08677.jpg
+  post_slug: 2020-06-24-susza-i-deszcz
+  lat: 52.21130555555556
+  lon: 17.246625
+  altitude: 92.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7241
+  height: 4836
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-06-24 16:56:48.000000000+02:00

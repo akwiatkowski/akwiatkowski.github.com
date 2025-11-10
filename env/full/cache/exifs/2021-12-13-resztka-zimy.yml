@@ -1,4 +1,58 @@
 ---
+- image_filename: 2021_12_13__08_44_PC132037.jpg
+  post_slug: 2021-12-13-resztka-zimy
+  lat: 52.11051388888889
+  lon: 17.319263888888887
+  altitude: 110.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 32.57
+  iso: 200
+  width: 6132
+  height: 8200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-13 08:44:39.000000000+01:00
+- image_filename: 2021_12_13__08_45_PC132038_01.jpg
+  post_slug: 2021-12-13-resztka-zimy
+  lat: 52.11047222222222
+  lon: 17.319319444444446
+  altitude: 106.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 18.64
+  iso: 200
+  width: 7886
+  height: 5897
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-13 08:45:19.000000000+01:00
+- image_filename: 2021_12_13__08_46_PC132040.jpg
+  post_slug: 2021-12-13-resztka-zimy
+  lat: 52.109875
+  lon: 17.319319444444446
+  altitude: 101.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.04
+  iso: 200
+  width: 8133
+  height: 6082
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-13 08:46:45.000000000+01:00
 - image_filename: 2021_12_13__08_47_PC132041.jpg
   post_slug: 2021-12-13-resztka-zimy
   lat: 52.11013888888889
@@ -35,114 +89,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-13 08:48:39.000000000+01:00
-- image_filename: 2021_12_13__08_58_PC132056.jpg
-  post_slug: 2021-12-13-resztka-zimy
-  lat: 52.10919444444445
-  lon: 17.321694444444443
-  altitude: 100.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 14.05
-  iso: 200
-  width: 8036
-  height: 5441
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-13 08:58:54.000000000+01:00
-- image_filename: 2021_12_13__08_44_PC132037.jpg
-  post_slug: 2021-12-13-resztka-zimy
-  lat: 52.11051388888889
-  lon: 17.319263888888887
-  altitude: 110.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.02
-  exposure_string: 1/50 s
-  focus_distance: 32.57
-  iso: 200
-  width: 6132
-  height: 8200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-13 08:44:39.000000000+01:00
-- image_filename: 2021_12_13__09_13_PC132215.jpg
-  post_slug: 2021-12-13-resztka-zimy
-  lat: 52.109097222222225
-  lon: 17.319916666666668
-  altitude: 105.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 1.36
-  iso: 5000
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-13 09:13:22.000000000+01:00
-- image_filename: 2021_12_13__09_03_PC132067.jpg
-  post_slug: 2021-12-13-resztka-zimy
-  lat: 52.10913888888889
-  lon: 17.319902777777777
-  altitude: 101.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 48.76
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-13 09:03:09.000000000+01:00
-- image_filename: 2021_12_13__10_03_PC132227.jpg
-  post_slug: 2021-12-13-resztka-zimy
-  lat: 52.109097222222225
-  lon: 17.319916666666668
-  altitude: 105.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 5.08
-  iso: 200
-  width: 6998
-  height: 5476
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-13 10:03:17.000000000+01:00
-- image_filename: 2021_12_13__08_56_PC132053.jpg
-  post_slug: 2021-12-13-resztka-zimy
-  lat: 52.10948611111111
-  lon: 17.320680555555555
-  altitude: 104.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 15.44
-  iso: 200
-  width: 8068
-  height: 6033
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-13 08:56:25.000000000+01:00
 - image_filename: 2021_12_13__08_50_PC132045.jpg
   post_slug: 2021-12-13-resztka-zimy
   lat: 52.11015277777778
@@ -161,24 +107,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-13 08:50:52.000000000+01:00
-- image_filename: 2021_12_13__10_07_PC132233.jpg
-  post_slug: 2021-12-13-resztka-zimy
-  lat: 52.109097222222225
-  lon: 17.319916666666668
-  altitude: 105.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 5.84
-  iso: 200
-  width: 7890
-  height: 5698
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2021-12-13 10:07:50.000000000+01:00
 - image_filename: 2021_12_13__08_52_PC132048.jpg
   post_slug: 2021-12-13-resztka-zimy
   lat: 52.10998611111111
@@ -197,24 +125,96 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-13 08:52:33.000000000+01:00
-- image_filename: 2021_12_13__08_45_PC132038_01.jpg
+- image_filename: 2021_12_13__08_56_PC132053.jpg
   post_slug: 2021-12-13-resztka-zimy
-  lat: 52.11047222222222
-  lon: 17.319319444444446
-  altitude: 106.0
-  focal_length: 66.0
-  focal_length_35: 132.0
+  lat: 52.10948611111111
+  lon: 17.320680555555555
+  altitude: 104.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 15.44
+  iso: 200
+  width: 8068
+  height: 6033
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-13 08:56:25.000000000+01:00
+- image_filename: 2021_12_13__08_58_PC132056.jpg
+  post_slug: 2021-12-13-resztka-zimy
+  lat: 52.10919444444445
+  lon: 17.321694444444443
+  altitude: 100.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 14.05
+  iso: 200
+  width: 8036
+  height: 5441
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-13 08:58:54.000000000+01:00
+- image_filename: 2021_12_13__09_03_PC132067.jpg
+  post_slug: 2021-12-13-resztka-zimy
+  lat: 52.10913888888889
+  lon: 17.319902777777777
+  altitude: 101.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 48.76
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-13 09:03:09.000000000+01:00
+- image_filename: 2021_12_13__09_13_PC132215.jpg
+  post_slug: 2021-12-13-resztka-zimy
+  lat: 52.109097222222225
+  lon: 17.319916666666668
+  altitude: 105.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 1.36
+  iso: 5000
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-13 09:13:22.000000000+01:00
+- image_filename: 2021_12_13__10_03_PC132227.jpg
+  post_slug: 2021-12-13-resztka-zimy
+  lat: 52.109097222222225
+  lon: 17.319916666666668
+  altitude: 105.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
   exposure: 0.0125
   exposure_string: 1/80 s
-  focus_distance: 18.64
+  focus_distance: 5.08
   iso: 200
-  width: 7886
-  height: 5897
+  width: 6998
+  height: 5476
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-13 08:45:19.000000000+01:00
+  time: 2021-12-13 10:03:17.000000000+01:00
 - image_filename: 2021_12_13__10_04_PC132229.jpg
   post_slug: 2021-12-13-resztka-zimy
   lat: 52.109097222222225
@@ -233,21 +233,21 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2021-12-13 10:04:09.000000000+01:00
-- image_filename: 2021_12_13__08_46_PC132040.jpg
+- image_filename: 2021_12_13__10_07_PC132233.jpg
   post_slug: 2021-12-13-resztka-zimy
-  lat: 52.109875
-  lon: 17.319319444444446
-  altitude: 101.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.109097222222225
+  lon: 17.319916666666668
+  altitude: 105.0
+  focal_length: 25.0
+  focal_length_35: 50.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 2.04
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.84
   iso: 200
-  width: 8133
-  height: 6082
+  width: 7890
+  height: 5698
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2021-12-13 08:46:45.000000000+01:00
+  time: 2021-12-13 10:07:50.000000000+01:00

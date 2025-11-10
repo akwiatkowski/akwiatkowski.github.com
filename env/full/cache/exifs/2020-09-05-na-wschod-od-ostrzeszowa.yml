@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
 - image_filename: 2020_09_05__10_26__9059512.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.405138888888885
@@ -10,15 +8,15 @@
   focal_length_35: 34.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-09-05 10:26:59+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 10:26:59.000000000+02:00
 - image_filename: 2020_09_05__10_27__9059515.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.405138888888885
@@ -28,33 +26,15 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-09-05 10:27:15+02:00
   focus_distance: 3.43
-- image_filename: 2020_09_05__10_28__9059531.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.405138888888885
-  lon: 18.01952777777778
-  altitude: 178.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-09-05 10:28:50+02:00
-  focus_distance: 0.58
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 10:27:15.000000000+02:00
 - image_filename: 2020_09_05__10_27__9059520.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.405138888888885
@@ -64,15 +44,33 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-09-05 10:27:44+02:00
   focus_distance: 1.6
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 10:27:44.000000000+02:00
+- image_filename: 2020_09_05__10_28__9059531.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.405138888888885
+  lon: 18.01952777777778
+  altitude: 178.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 0.58
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 10:28:50.000000000+02:00
 - image_filename: 2020_09_05__10_28__9059532.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.405138888888885
@@ -82,15 +80,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-09-05 10:28:57+02:00
   focus_distance: 0.71
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 10:28:57.000000000+02:00
 - image_filename: 2020_09_05__10_40__9059537.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.39245833333333
@@ -100,15 +98,15 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5128
-  height: 3762
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-09-05 10:40:10+02:00
   focus_distance: 7.71
+  iso: 200
+  width: 5128
+  height: 3762
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 10:40:10.000000000+02:00
 - image_filename: 2020_09_05__10_40__9059539.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.39245833333333
@@ -118,33 +116,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-09-05 10:40:19+02:00
   focus_distance: 46.41
-- image_filename: 2020_09_05__10_40__9059543.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.39245833333333
-  lon: 18.051166666666667
-  altitude: 175.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 7.1
   iso: 200
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5115
-  height: 3818
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-09-05 10:40:42+02:00
-  focus_distance: 65.01
+  time: 2020-09-05 10:40:19.000000000+02:00
 - image_filename: 2020_09_05__10_40__9059540.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.39245833333333
@@ -154,15 +134,33 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5177
-  height: 3865
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-09-05 10:40:22+02:00
   focus_distance: 150.31
+  iso: 200
+  width: 5177
+  height: 3865
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 10:40:22.000000000+02:00
+- image_filename: 2020_09_05__10_40__9059543.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.39245833333333
+  lon: 18.051166666666667
+  altitude: 175.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 65.01
+  iso: 200
+  width: 5115
+  height: 3818
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 10:40:42.000000000+02:00
 - image_filename: 2020_09_05__10_40__9059544.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.39245833333333
@@ -172,15 +170,15 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5102
-  height: 3809
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-09-05 10:40:47+02:00
   focus_distance: 22.69
+  iso: 200
+  width: 5102
+  height: 3809
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 10:40:47.000000000+02:00
 - image_filename: 2020_09_05__10_47__9059546.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.388666666666666
@@ -190,33 +188,15 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5143
-  height: 3839
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-09-05 10:47:55+02:00
   focus_distance: 20.9
-- image_filename: 2020_09_05__11_07__9059552.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.35980555555556
-  lon: 18.160569444444445
-  altitude: 152.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 6.3
   iso: 200
+  width: 5143
+  height: 3839
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5201
-  height: 3904
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-09-05 11:07:45+02:00
-  focus_distance: 27.67
+  time: 2020-09-05 10:47:55.000000000+02:00
 - image_filename: 2020_09_05__11_07__9059549.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.35980555555556
@@ -226,15 +206,33 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4652
-  height: 3094
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-09-05 11:07:37+02:00
   focus_distance: 7.36
+  iso: 200
+  width: 4652
+  height: 3094
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 11:07:37.000000000+02:00
+- image_filename: 2020_09_05__11_07__9059552.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.35980555555556
+  lon: 18.160569444444445
+  altitude: 152.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 27.67
+  iso: 200
+  width: 5201
+  height: 3904
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 11:07:45.000000000+02:00
 - image_filename: 2020_09_05__11_08__9059555.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.35980555555556
@@ -244,15 +242,15 @@
   focal_length_35: 108.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5160
-  height: 3805
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-09-05 11:08:04+02:00
   focus_distance: 12.82
+  iso: 200
+  width: 5160
+  height: 3805
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 11:08:04.000000000+02:00
 - image_filename: 2020_09_05__11_13__9059560.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.351597222222225
@@ -262,15 +260,15 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-09-05 11:13:50+02:00
   focus_distance: 5.28
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 11:13:50.000000000+02:00
 - image_filename: 2020_09_05__11_14__9059565.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.351597222222225
@@ -280,15 +278,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-09-05 11:14:28+02:00
   focus_distance: 64.75
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 11:14:28.000000000+02:00
 - image_filename: 2020_09_05__11_15__9059571.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.351597222222225
@@ -298,33 +296,15 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5097
-  height: 3811
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-09-05 11:15:29+02:00
   focus_distance: 23.31
-- image_filename: 2020_09_05__11_35__9059579.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.344833333333334
-  lon: 18.246666666666666
-  altitude: 169.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
+  width: 5097
+  height: 3811
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-09-05 11:35:47+02:00
-  focus_distance: 2.31
+  time: 2020-09-05 11:15:29.000000000+02:00
 - image_filename: 2020_09_05__11_15__9059574.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.351597222222225
@@ -334,15 +314,33 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-09-05 11:15:43+02:00
   focus_distance: 55.35
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 11:15:43.000000000+02:00
+- image_filename: 2020_09_05__11_35__9059579.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.344833333333334
+  lon: 18.246666666666666
+  altitude: 169.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.31
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 11:35:47.000000000+02:00
 - image_filename: 2020_09_05__11_41__9059580.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.344791666666666
@@ -352,15 +350,15 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-09-05 11:41:30+02:00
   focus_distance: 8.57
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 11:41:30.000000000+02:00
 - image_filename: 2020_09_05__12_20__9059585.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.370847222222224
@@ -370,69 +368,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3320
-  height: 2572
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-09-05 12:20:14+02:00
   focus_distance: 1.25
-- image_filename: 2020_09_05__12_37__9059594.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.40313888888889
-  lon: 18.362583333333333
-  altitude: 173.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 6.3
   iso: 200
+  width: 3320
+  height: 2572
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5176
-  height: 3863
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-09-05 12:37:55+02:00
-  focus_distance: 20.1
-- image_filename: 2020_09_05__12_41__9059605.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.40470833333333
-  lon: 18.36636111111111
-  altitude: 174.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-09-05 12:41:02+02:00
-  focus_distance: 8.86
-- image_filename: 2020_09_05__12_38__9059596.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.40313888888889
-  lon: 18.362583333333333
-  altitude: 173.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5072
-  height: 3786
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-09-05 12:38:03+02:00
-  focus_distance: 22.08
+  time: 2020-09-05 12:20:14.000000000+02:00
 - image_filename: 2020_09_05__12_27__9059590.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.37838888888889
@@ -442,51 +386,69 @@
   focal_length_35: 132.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5132
-  height: 3766
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-09-05 12:27:56+02:00
   focus_distance: 18.88
-- image_filename: 2020_09_05__12_43__9059613.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.40497222222222
-  lon: 18.368708333333334
-  altitude: 174.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
   iso: 200
+  width: 5132
+  height: 3766
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5134
-  height: 3825
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-09-05 12:43:30+02:00
-  focus_distance: 4.57
-- image_filename: 2020_09_05__12_43__9059614.jpg
+  time: 2020-09-05 12:27:56.000000000+02:00
+- image_filename: 2020_09_05__12_37__9059594.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.40497222222222
-  lon: 18.368708333333334
+  lat: 51.40313888888889
+  lon: 18.362583333333333
+  altitude: 173.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.1
+  iso: 200
+  width: 5176
+  height: 3863
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 12:37:55.000000000+02:00
+- image_filename: 2020_09_05__12_38__9059596.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.40313888888889
+  lon: 18.362583333333333
+  altitude: 173.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.08
+  iso: 200
+  width: 5072
+  height: 3786
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 12:38:03.000000000+02:00
+- image_filename: 2020_09_05__12_41__9059605.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.40470833333333
+  lon: 18.36636111111111
   altitude: 174.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 8.86
   iso: 200
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5217
-  height: 3889
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-09-05 12:43:37+02:00
-  focus_distance: 14.85
+  time: 2020-09-05 12:41:02.000000000+02:00
 - image_filename: 2020_09_05__12_41__9059610.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.404694444444445
@@ -496,69 +458,51 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-09-05 12:41:34+02:00
   focus_distance: 15.86
-- image_filename: 2020_09_05__12_55__9059618.jpg
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 12:41:34.000000000+02:00
+- image_filename: 2020_09_05__12_43__9059613.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.419152777777775
-  lon: 18.417625
-  altitude: 178.0
+  lat: 51.40497222222222
+  lon: 18.368708333333334
+  altitude: 174.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 8.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.57
   iso: 200
+  width: 5134
+  height: 3825
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4678
-  height: 3388
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-09-05 12:55:08+02:00
-  focus_distance: 9.81
-- image_filename: 2020_09_05__13_14__9059628.jpg
+  time: 2020-09-05 12:43:30.000000000+02:00
+- image_filename: 2020_09_05__12_43__9059614.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.43711111111111
-  lon: 18.478125
-  altitude: 181.0
+  lat: 51.40497222222222
+  lon: 18.368708333333334
+  altitude: 174.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 14.85
   iso: 200
+  width: 5217
+  height: 3889
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-09-05 13:14:22+02:00
-  focus_distance: 68.55
-- image_filename: 2020_09_05__13_14__9059629.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.43711111111111
-  lon: 18.478125
-  altitude: 181.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-09-05 13:14:28+02:00
-  focus_distance: 5.08
+  time: 2020-09-05 12:43:37.000000000+02:00
 - image_filename: 2020_09_05__12_43__9059615.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.40497222222222
@@ -568,15 +512,15 @@
   focal_length_35: 82.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5226
-  height: 3905
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-09-05 12:43:41+02:00
   focus_distance: 11.06
+  iso: 200
+  width: 5226
+  height: 3905
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 12:43:41.000000000+02:00
 - image_filename: 2020_09_05__12_43__9059616.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.40497222222222
@@ -586,33 +530,33 @@
   focal_length_35: 82.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5163
-  height: 3908
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-09-05 12:43:47+02:00
   focus_distance: 13.4
-- image_filename: 2020_09_05__13_13__9059623.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.43711111111111
-  lon: 18.478125
-  altitude: 181.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
   iso: 200
+  width: 5163
+  height: 3908
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5209
-  height: 3888
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-09-05 13:13:50+02:00
-  focus_distance: 315.08
+  time: 2020-09-05 12:43:47.000000000+02:00
+- image_filename: 2020_09_05__12_55__9059618.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.419152777777775
+  lon: 18.417625
+  altitude: 178.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 9.81
+  iso: 200
+  width: 4678
+  height: 3388
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 12:55:08.000000000+02:00
 - image_filename: 2020_09_05__12_55__9059621.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.419152777777775
@@ -622,69 +566,69 @@
   focal_length_35: 76.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5114
-  height: 3620
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-09-05 12:55:26+02:00
   focus_distance: 12.05
-- image_filename: 2020_09_05__14_33__9059646.jpg
-  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.534
-  lon: 18.662652777777776
-  altitude: 174.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
   iso: 200
+  width: 5114
+  height: 3620
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-09-05 14:33:46+02:00
-  focus_distance: 24.6
-- image_filename: 2020_09_05__14_49__9059651.jpg
+  time: 2020-09-05 12:55:26.000000000+02:00
+- image_filename: 2020_09_05__13_13__9059623.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.567194444444446
-  lon: 18.67826388888889
-  altitude: 166.0
+  lat: 51.43711111111111
+  lon: 18.478125
+  altitude: 181.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 315.08
   iso: 200
+  width: 5209
+  height: 3888
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4584
-  height: 3404
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-09-05 14:49:10+02:00
-  focus_distance: 6.31
-- image_filename: 2020_09_05__14_50__9059664.jpg
+  time: 2020-09-05 13:13:50.000000000+02:00
+- image_filename: 2020_09_05__13_14__9059628.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
-  lat: 51.567194444444446
-  lon: 18.67826388888889
-  altitude: 166.0
+  lat: 51.43711111111111
+  lon: 18.478125
+  altitude: 181.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 68.55
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-09-05 14:50:11+02:00
-  focus_distance: 5.88
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 13:14:22.000000000+02:00
+- image_filename: 2020_09_05__13_14__9059629.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.43711111111111
+  lon: 18.478125
+  altitude: 181.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 5.08
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 13:14:28.000000000+02:00
 - image_filename: 2020_09_05__13_29__9059632.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.46936111111111
@@ -694,15 +638,15 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5168
-  height: 3840
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-09-05 13:29:44+02:00
   focus_distance: 8.51
+  iso: 200
+  width: 5168
+  height: 3840
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 13:29:44.000000000+02:00
 - image_filename: 2020_09_05__13_29__9059633.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.46936111111111
@@ -712,15 +656,15 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5095
-  height: 3899
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-09-05 13:29:47+02:00
   focus_distance: 14.46
+  iso: 200
+  width: 5095
+  height: 3899
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 13:29:47.000000000+02:00
 - image_filename: 2020_09_05__13_34__9059643.jpg
   post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
   lat: 51.47479166666667
@@ -730,12 +674,66 @@
   focal_length_35: 34.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-09-05 13:34:58+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 13:34:58.000000000+02:00
+- image_filename: 2020_09_05__14_33__9059646.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.534
+  lon: 18.662652777777776
+  altitude: 174.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 24.6
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 14:33:46.000000000+02:00
+- image_filename: 2020_09_05__14_49__9059651.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.567194444444446
+  lon: 18.67826388888889
+  altitude: 166.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.31
+  iso: 200
+  width: 4584
+  height: 3404
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 14:49:10.000000000+02:00
+- image_filename: 2020_09_05__14_50__9059664.jpg
+  post_slug: 2020-09-05-na-wschod-od-ostrzeszowa
+  lat: 51.567194444444446
+  lon: 18.67826388888889
+  altitude: 166.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 5.88
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-09-05 14:50:11.000000000+02:00

@@ -1,93 +1,93 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina
-  lat: 52.09084527777778
-  lon: 17.52212722222222
-  altitude: 101.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-04-24 13:52:10+02:00
 - image_filename: IMGP9424raw1.jpg
   post_slug: 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina
-  lat: 52.11870861111111
-  lon: 17.405993055555555
+  lat: 52.11870833333333
+  lon: 17.405991666666665
   altitude: 74.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-04-24 11:52:47+02:00
+  time: 2016-04-24 11:52:47.000000000+02:00
+- image_filename: IMGP9426raw1.jpg
+  post_slug: 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina
+  lat: 52.13205833333333
+  lon: 17.484730555555558
+  altitude: 71.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-04-24 12:10:13.000000000+02:00
+- image_filename: IMGP9436raw1.jpg
+  post_slug: 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina
+  lat: 52.14501111111111
+  lon: 17.506430555555557
+  altitude: 71.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-04-24 13:03:15.000000000+02:00
 - image_filename: IMGP9440raw1.jpg
   post_slug: 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina
-  lat: 52.144443333333335
-  lon: 17.504655
+  lat: 52.144444444444446
+  lon: 17.504655555555555
   altitude: 72.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-04-24 13:06:59+02:00
+  time: 2016-04-24 13:06:59.000000000+02:00
 - image_filename: IMGP9450raw1.jpg
   post_slug: 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina
-  lat: 52.09358027777778
-  lon: 17.52110861111111
+  lat: 52.093580555555555
+  lon: 17.52110833333333
   altitude: 87.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2016-04-24 13:49:27+02:00
-- image_filename: IMGP9426raw1.jpg
-  post_slug: 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina
-  lat: 52.132059166666664
-  lon: 17.48473027777778
-  altitude: 71.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2016-04-24 13:49:27.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina
+  lat: 52.09084444444445
+  lon: 17.522127777777776
+  altitude: 101.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2016-04-24 12:10:13+02:00
-- image_filename: IMGP9436raw1.jpg
-  post_slug: 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina
-  lat: 52.14500972222222
-  lon: 17.506429166666667
-  altitude: 71.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 200
+  width: 2000
+  height: 1326
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2016-04-24 13:03:15+02:00
+  time: 2016-04-24 13:52:10.000000000+02:00

@@ -1,436 +1,4 @@
 ---
-- image_filename: 2019_03_24__13_36__3245999.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.320486111111116
-  lon: 16.94815277777778
-  altitude: 54.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 3746
-  height: 2773
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 13:36:59+01:00
-  focus_distance: 5.67
-- image_filename: 2019_03_24__12_50__3245828.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.315263888888886
-  lon: 16.95261111111111
-  altitude: 60.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-24 12:50:42+01:00
-  focus_distance: 93.62
-- image_filename: 2019_03_24__13_03__3245864.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.311611111111105
-  lon: 16.948416666666667
-  altitude: 59.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-24 13:03:14+01:00
-  focus_distance: 0.99
-- image_filename: 2019_03_24__13_12__3245888.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.3135
-  lon: 16.94461111111111
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-24 13:12:18+01:00
-  focus_distance: 85.33
-- image_filename: 2019_03_24__13_20__3245918.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31598611111111
-  lon: 16.943055555555556
-  altitude: 59.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 4288
-  height: 3104
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-03-24 13:20:32+01:00
-  focus_distance: 0.99
-- image_filename: 2019_03_24__13_37__3246029.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32051388888889
-  lon: 16.948138888888888
-  altitude: 54.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 4164
-  height: 2776
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-24 13:37:26+01:00
-  focus_distance: 7.12
-- image_filename: 2019_03_24__13_40__3246064.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32113888888889
-  lon: 16.948777777777778
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-24 13:40:00+01:00
-  focus_distance: 2.02
-- image_filename: 2019_03_24__13_10__3245886.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31334722222222
-  lon: 16.944805555555554
-  altitude: 57.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 13:10:29+01:00
-  focus_distance: 0.47
-- image_filename: 2019_03_24__13_23__3245925.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31693055555556
-  lon: 16.94348611111111
-  altitude: 56.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-24 13:23:00+01:00
-  focus_distance: 12.44
-- image_filename: 2019_03_24__13_39__3246057.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32109722222223
-  lon: 16.948805555555555
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 13:39:51+01:00
-  focus_distance: 2.31
-- image_filename: 2019_03_24__13_01__3245850.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31197222222222
-  lon: 16.948777777777778
-  altitude: 58.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-03-24 13:01:14+01:00
-  focus_distance: 0.43
-- image_filename: 2019_03_24__13_34__3245963.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32055555555556
-  lon: 16.948055555555555
-  altitude: 53.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-24 13:34:53+01:00
-  focus_distance: 8.06
-- image_filename: 2019_03_24__13_05__3245866.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31197222222222
-  lon: 16.947430555555556
-  altitude: 60.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4488
-  height: 3645
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-24 13:05:23+01:00
-  focus_distance: 0.49
-- image_filename: 2019_03_24__13_39__3246060.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.321111111111115
-  lon: 16.94879166666667
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 13:39:52+01:00
-  focus_distance: 2.31
-- image_filename: 2019_03_24__13_25__3245934.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31772222222222
-  lon: 16.944458333333333
-  altitude: 53.0
-  focal_length: 64.0
-  focal_length_35: 128.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-24 13:25:36+01:00
-  focus_distance: 14.47
-- image_filename: 2019_03_24__13_17__3245911.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.314499999999995
-  lon: 16.94376388888889
-  altitude: 59.0
-  focal_length: 106.0
-  focal_length_35: 212.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-24 13:17:16+01:00
-  focus_distance: 19.5
-- image_filename: 2019_03_24__13_37__3246023.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32051388888889
-  lon: 16.948138888888888
-  altitude: 54.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-24 13:37:25+01:00
-  focus_distance: 7.12
-- image_filename: 2019_03_24__13_40__3246067.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32115277777778
-  lon: 16.948777777777778
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-24 13:40:02+01:00
-  focus_distance: 2.02
-- image_filename: 2019_03_24__13_36__3245987.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.320486111111116
-  lon: 16.948055555555555
-  altitude: 53.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 13:36:19+01:00
-  focus_distance: 5.95
-- image_filename: 2019_03_24__13_40__3246073.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32115277777778
-  lon: 16.94879166666667
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-24 13:40:07+01:00
-  focus_distance: 2.03
-- image_filename: 2019_03_24__12_59__3245837.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31234722222222
-  lon: 16.94901388888889
-  altitude: 59.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-24 12:59:24+01:00
-  focus_distance: 0.67
-- image_filename: 2019_03_24__13_16__3245908.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31386111111111
-  lon: 16.944041666666667
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 13:16:08+01:00
-  focus_distance: 1.11
-- image_filename: 2019_03_24__13_22__3245921.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31681944444445
-  lon: 16.943277777777777
-  altitude: 57.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-03-24 13:22:30+01:00
-  focus_distance: 75.85
-- image_filename: 2019_03_24__13_10__3245881.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31326388888888
-  lon: 16.944875
-  altitude: 57.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-24 13:10:01+01:00
-  focus_distance: 0.65
 - image_filename: 2019_03_24__12_46__3245822.jpg
   post_slug: 2019-03-24-krotki-spacer-w-gluszynie
   lat: 52.317888888888895
@@ -440,213 +8,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1.59
   iso: 200
+  width: 5240
+  height: 3912
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 12:46:17+01:00
-  focus_distance: 1.59
-- image_filename: 2019_03_24__13_31__3245948.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32004166666667
-  lon: 16.947569444444444
-  altitude: 52.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-03-24 13:31:13+01:00
-  focus_distance: 53.89
-- image_filename: 2019_03_24__13_39__3246056.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32109722222223
-  lon: 16.948819444444446
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 13:39:48+01:00
-  focus_distance: 2.49
-- image_filename: 2019_03_24__13_39__3246062.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.321125
-  lon: 16.94879166666667
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-24 13:39:56+01:00
-  focus_distance: 2.33
-- image_filename: 2019_03_24__13_36__3245984.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.320486111111116
-  lon: 16.948055555555555
-  altitude: 53.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 13:36:19+01:00
-  focus_distance: 5.95
-- image_filename: 2019_03_24__13_06__3245876.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31243055555555
-  lon: 16.94648611111111
-  altitude: 60.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-03-24 13:06:57+01:00
-  focus_distance: 0.76
-- image_filename: 2019_03_24__13_37__3246045.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32054166666667
-  lon: 16.948222222222224
-  altitude: 54.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-03-24 13:37:46+01:00
-  focus_distance: 7.16
-- image_filename: 2019_03_24__13_14__3245901.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31372222222222
-  lon: 16.94426388888889
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-24 13:14:01+01:00
-  focus_distance: 13.34
-- image_filename: 2019_03_24__13_39__3246054.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32106944444445
-  lon: 16.948833333333333
-  altitude: 57.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-24 13:39:42+01:00
-  focus_distance: 2.37
-- image_filename: 2019_03_24__13_12__3245892.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31356944444444
-  lon: 16.944430555555556
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-03-24 13:12:32+01:00
-  focus_distance: 8.85
-- image_filename: 2019_03_24__13_40__3246068.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.32115277777778
-  lon: 16.948777777777778
-  altitude: 58.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-24 13:40:03+01:00
-  focus_distance: 2.02
-- image_filename: 2019_03_24__13_30__3245944.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31984722222222
-  lon: 16.947347222222223
-  altitude: 52.0
-  focal_length: 125.0
-  focal_length_35: 250.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-24 13:30:54+01:00
-  focus_distance: 39.76
+  time: 2019-03-24 12:46:17.000000000+01:00
 - image_filename: 2019_03_24__12_46__3245824.jpg
   post_slug: 2019-03-24-krotki-spacer-w-gluszynie
   lat: 52.31751388888889
@@ -656,69 +26,69 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2019-03-24 12:46:45+01:00
   focus_distance: 0.45
-- image_filename: 2019_03_24__13_35__3245972.jpg
-  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.320527777777784
-  lon: 16.948069444444446
-  altitude: 53.0
-  focal_length: 120.0
-  focal_length_35: 240.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-24 13:35:47+01:00
-  focus_distance: 1.38
-- image_filename: 2019_03_24__13_33__3245955.jpg
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-24 12:46:45.000000000+01:00
+- image_filename: 2019_03_24__12_50__3245828.jpg
   post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.320486111111116
-  lon: 16.94811111111111
-  altitude: 52.0
-  focal_length: 150.0
-  focal_length_35: 300.0
+  lat: 52.315263888888886
+  lon: 16.95261111111111
+  altitude: 60.0
+  focal_length: 86.0
+  focal_length_35: 172.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 93.62
   iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5079
-  height: 3564
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-24 13:33:27+01:00
-  focus_distance: 1.09
-- image_filename: 2019_03_24__13_30__3245941.jpg
+  time: 2019-03-24 12:50:42.000000000+01:00
+- image_filename: 2019_03_24__12_59__3245837.jpg
   post_slug: 2019-03-24-krotki-spacer-w-gluszynie
-  lat: 52.31969444444445
-  lon: 16.94713888888889
-  altitude: 52.0
-  focal_length: 97.0
-  focal_length_35: 194.0
+  lat: 52.31234722222222
+  lon: 16.94901388888889
+  altitude: 59.0
+  focal_length: 60.0
+  focal_length_35: 120.0
   crop: 2.0
-  aperture: 5.6
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.67
   iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
-  width: 5026
-  height: 3752
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-24 13:30:17+01:00
-  focus_distance: 35.62
+  time: 2019-03-24 12:59:24.000000000+01:00
+- image_filename: 2019_03_24__13_01__3245850.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31197222222222
+  lon: 16.948777777777778
+  altitude: 58.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.43
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-24 13:01:14.000000000+01:00
 - image_filename: 2019_03_24__13_01__3245853.jpg
   post_slug: 2019-03-24-krotki-spacer-w-gluszynie
   lat: 52.31191666666666
@@ -728,12 +98,642 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-03-24 13:01:41+01:00
   focus_distance: 0.26
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-24 13:01:41.000000000+01:00
+- image_filename: 2019_03_24__13_03__3245864.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.311611111111105
+  lon: 16.948416666666667
+  altitude: 59.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.99
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-24 13:03:14.000000000+01:00
+- image_filename: 2019_03_24__13_05__3245866.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31197222222222
+  lon: 16.947430555555556
+  altitude: 60.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.49
+  iso: 200
+  width: 4488
+  height: 3645
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-24 13:05:23.000000000+01:00
+- image_filename: 2019_03_24__13_06__3245876.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31243055555555
+  lon: 16.94648611111111
+  altitude: 60.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.76
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-24 13:06:57.000000000+01:00
+- image_filename: 2019_03_24__13_10__3245881.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31326388888888
+  lon: 16.944875
+  altitude: 57.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.65
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-24 13:10:01.000000000+01:00
+- image_filename: 2019_03_24__13_10__3245886.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31334722222222
+  lon: 16.944805555555554
+  altitude: 57.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.47
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-24 13:10:29.000000000+01:00
+- image_filename: 2019_03_24__13_12__3245888.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.3135
+  lon: 16.94461111111111
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 85.33
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:12:18.000000000+01:00
+- image_filename: 2019_03_24__13_12__3245892.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31356944444444
+  lon: 16.944430555555556
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 8.85
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:12:32.000000000+01:00
+- image_filename: 2019_03_24__13_14__3245901.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31372222222222
+  lon: 16.94426388888889
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 13.34
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:14:01.000000000+01:00
+- image_filename: 2019_03_24__13_16__3245908.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31386111111111
+  lon: 16.944041666666667
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1.11
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:16:08.000000000+01:00
+- image_filename: 2019_03_24__13_17__3245911.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.314499999999995
+  lon: 16.94376388888889
+  altitude: 59.0
+  focal_length: 106.0
+  focal_length_35: 212.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 19.5
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:17:16.000000000+01:00
+- image_filename: 2019_03_24__13_20__3245918.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31598611111111
+  lon: 16.943055555555556
+  altitude: 59.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 0.99
+  iso: 200
+  width: 4288
+  height: 3104
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:20:32.000000000+01:00
+- image_filename: 2019_03_24__13_22__3245921.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31681944444445
+  lon: 16.943277777777777
+  altitude: 57.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 75.85
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:22:30.000000000+01:00
+- image_filename: 2019_03_24__13_23__3245925.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31693055555556
+  lon: 16.94348611111111
+  altitude: 56.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 12.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:23:00.000000000+01:00
+- image_filename: 2019_03_24__13_25__3245934.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31772222222222
+  lon: 16.944458333333333
+  altitude: 53.0
+  focal_length: 64.0
+  focal_length_35: 128.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 14.47
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:25:36.000000000+01:00
+- image_filename: 2019_03_24__13_30__3245941.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31969444444445
+  lon: 16.94713888888889
+  altitude: 52.0
+  focal_length: 97.0
+  focal_length_35: 194.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 35.62
+  iso: 200
+  width: 5026
+  height: 3752
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:30:17.000000000+01:00
+- image_filename: 2019_03_24__13_30__3245944.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.31984722222222
+  lon: 16.947347222222223
+  altitude: 52.0
+  focal_length: 125.0
+  focal_length_35: 250.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 39.76
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:30:54.000000000+01:00
+- image_filename: 2019_03_24__13_31__3245948.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32004166666667
+  lon: 16.947569444444444
+  altitude: 52.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 53.89
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:31:13.000000000+01:00
+- image_filename: 2019_03_24__13_33__3245955.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.320486111111116
+  lon: 16.94811111111111
+  altitude: 52.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1.09
+  iso: 200
+  width: 5079
+  height: 3564
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:33:27.000000000+01:00
+- image_filename: 2019_03_24__13_34__3245963.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32055555555556
+  lon: 16.948055555555555
+  altitude: 53.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 8.06
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:34:53.000000000+01:00
+- image_filename: 2019_03_24__13_35__3245972.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.320527777777784
+  lon: 16.948069444444446
+  altitude: 53.0
+  focal_length: 120.0
+  focal_length_35: 240.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1.38
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:35:47.000000000+01:00
+- image_filename: 2019_03_24__13_36__3245984.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.320486111111116
+  lon: 16.948055555555555
+  altitude: 53.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 5.95
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:36:19.000000000+01:00
+- image_filename: 2019_03_24__13_36__3245987.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.320486111111116
+  lon: 16.948055555555555
+  altitude: 53.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 5.95
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:36:19.000000000+01:00
+- image_filename: 2019_03_24__13_36__3245999.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.320486111111116
+  lon: 16.94815277777778
+  altitude: 54.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 5.67
+  iso: 200
+  width: 3746
+  height: 2773
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:36:59.000000000+01:00
+- image_filename: 2019_03_24__13_37__3246023.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32051388888889
+  lon: 16.948138888888888
+  altitude: 54.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 7.12
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:37:25.000000000+01:00
+- image_filename: 2019_03_24__13_37__3246029.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32051388888889
+  lon: 16.948138888888888
+  altitude: 54.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 7.12
+  iso: 200
+  width: 4164
+  height: 2776
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:37:26.000000000+01:00
+- image_filename: 2019_03_24__13_37__3246045.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32054166666667
+  lon: 16.948222222222224
+  altitude: 54.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 7.16
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:37:46.000000000+01:00
+- image_filename: 2019_03_24__13_39__3246054.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32106944444445
+  lon: 16.948833333333333
+  altitude: 57.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.37
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:39:42.000000000+01:00
+- image_filename: 2019_03_24__13_39__3246056.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32109722222223
+  lon: 16.948819444444446
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 2.49
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:39:48.000000000+01:00
+- image_filename: 2019_03_24__13_39__3246057.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32109722222223
+  lon: 16.948805555555555
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 2.31
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:39:51.000000000+01:00
+- image_filename: 2019_03_24__13_39__3246060.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.321111111111115
+  lon: 16.94879166666667
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 2.31
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:39:52.000000000+01:00
+- image_filename: 2019_03_24__13_39__3246062.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.321125
+  lon: 16.94879166666667
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.33
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:39:56.000000000+01:00
+- image_filename: 2019_03_24__13_40__3246064.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32113888888889
+  lon: 16.948777777777778
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.02
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:40:00.000000000+01:00
+- image_filename: 2019_03_24__13_40__3246067.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32115277777778
+  lon: 16.948777777777778
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.02
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:40:02.000000000+01:00
+- image_filename: 2019_03_24__13_40__3246068.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32115277777778
+  lon: 16.948777777777778
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.02
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:40:03.000000000+01:00
+- image_filename: 2019_03_24__13_40__3246073.jpg
+  post_slug: 2019-03-24-krotki-spacer-w-gluszynie
+  lat: 52.32115277777778
+  lon: 16.94879166666667
+  altitude: 58.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.03
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-24 13:40:07.000000000+01:00

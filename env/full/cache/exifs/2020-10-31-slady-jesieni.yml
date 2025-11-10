@@ -1,23 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-10-31-slady-jesieni
-- image_filename: 2020_10_31__12_00_DSC04554.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-31 12:00:22+01:00
 - image_filename: 2020_10_31__11_59_DSC04549.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -27,48 +8,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-10-31 11:59:44+01:00
-- image_filename: 2020_10_31__12_03_DSC04577.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
   iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 5863
-  height: 3901
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-10-31 12:03:33+01:00
-- image_filename: 2020_10_31__12_03_DSC04576.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 6048
   height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 11:59:44.000000000+01:00
+- image_filename: 2020_10_31__12_00_DSC04554.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-10-31 12:03:22+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:00:22.000000000+01:00
 - image_filename: 2020_10_31__12_01_DSC04558.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -78,14 +42,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 5000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-10-31 12:01:22+01:00
+  iso: 5000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-31 12:01:22.000000000+01:00
 - image_filename: 2020_10_31__12_01_DSC04560.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -95,14 +59,48 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 5000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-10-31 12:01:49+01:00
+  iso: 5000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-10-31 12:01:49.000000000+01:00
+- image_filename: 2020_10_31__12_03_DSC04576.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:03:22.000000000+01:00
+- image_filename: 2020_10_31__12_03_DSC04577.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5863
+  height: 3901
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:03:33.000000000+01:00
 - image_filename: 2020_10_31__12_04_DSC04584.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -112,14 +110,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 125
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-31 12:04:49+01:00
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:04:49.000000000+01:00
 - image_filename: 2020_10_31__12_05_DSC04588.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -129,31 +127,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-10-31 12:05:33+01:00
-- image_filename: 2020_10_31__12_07_DSC04604.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 160
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
+  iso: 100
   width: 6048
   height: 4024
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-31 12:07:15+01:00
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:05:33.000000000+01:00
 - image_filename: 2020_10_31__12_06_DSC04596.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -163,14 +144,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 200
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-31 12:06:25+01:00
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:06:25.000000000+01:00
 - image_filename: 2020_10_31__12_06_DSC04599.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -180,15 +161,15 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 125
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-31 12:06:45+01:00
-- image_filename: 2020_10_31__12_08_DSC04617.jpg
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:06:45.000000000+01:00
+- image_filename: 2020_10_31__12_07_DSC04604.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
   lon: 16.918111111111113
@@ -197,31 +178,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 200
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-31 12:08:10+01:00
-- image_filename: 2020_10_31__12_07_DSC04610.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 125
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
+  iso: 160
   width: 6048
   height: 4024
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-31 12:07:36+01:00
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:07:15.000000000+01:00
 - image_filename: 2020_10_31__12_07_DSC04606.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -231,14 +195,48 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 160
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-31 12:07:20+01:00
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:07:20.000000000+01:00
+- image_filename: 2020_10_31__12_07_DSC04610.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:07:36.000000000+01:00
+- image_filename: 2020_10_31__12_08_DSC04617.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:08:10.000000000+01:00
 - image_filename: 2020_10_31__12_11_DSC04635.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -248,31 +246,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0008
   exposure_string: 1/1250 s
-  time: 2020-10-31 12:11:25+01:00
-- image_filename: 2020_10_31__12_11_DSC04638.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
   iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2020-10-31 12:11:45+01:00
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:11:25.000000000+01:00
 - image_filename: 2020_10_31__12_11_DSC04637.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -282,15 +263,15 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-10-31 12:11:34+01:00
-- image_filename: 2020_10_31__12_15_DSC04660.jpg
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:11:34.000000000+01:00
+- image_filename: 2020_10_31__12_11_DSC04638.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
   lon: 16.918111111111113
@@ -299,14 +280,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.0004
+  exposure_string: 1/2500 s
   iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-31 12:15:00+01:00
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:11:45.000000000+01:00
 - image_filename: 2020_10_31__12_12_DSC04642.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -316,14 +297,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.6
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-10-31 12:12:29+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:12:29.000000000+01:00
 - image_filename: 2020_10_31__12_13_DSC04652.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -333,14 +314,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.6
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-10-31 12:13:42+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:13:42.000000000+01:00
 - image_filename: 2020_10_31__12_13_DSC04654.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -350,14 +331,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.6
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-10-31 12:13:50+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:13:50.000000000+01:00
+- image_filename: 2020_10_31__12_15_DSC04660.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:15:00.000000000+01:00
 - image_filename: 2020_10_31__12_16_DSC04664.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -367,31 +365,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-10-31 12:16:13+01:00
-- image_filename: 2020_10_31__12_16_DSC04669.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
   iso: 100
+  width: 6048
+  height: 4024
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 4023
-  height: 6047
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-10-31 12:16:58+01:00
+  time: 2020-10-31 12:16:13.000000000+01:00
 - image_filename: 2020_10_31__12_16_DSC04668.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -401,15 +382,15 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-10-31 12:16:56+01:00
-- image_filename: 2020_10_31__12_18_DSC04687.jpg
+  iso: 100
+  width: 4023
+  height: 6047
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:16:56.000000000+01:00
+- image_filename: 2020_10_31__12_16_DSC04669.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
   lon: 16.918111111111113
@@ -418,31 +399,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
+  width: 4023
+  height: 6047
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-10-31 12:18:38+01:00
-- image_filename: 2020_10_31__12_18_DSC04682.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-10-31 12:18:16+01:00
+  time: 2020-10-31 12:16:58.000000000+01:00
 - image_filename: 2020_10_31__12_17_DSC04671.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -452,14 +416,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-10-31 12:17:15+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:17:15.000000000+01:00
+- image_filename: 2020_10_31__12_18_DSC04682.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:18:16.000000000+01:00
 - image_filename: 2020_10_31__12_18_DSC04684.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -469,15 +450,15 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-10-31 12:18:28+01:00
-- image_filename: 2020_10_31__12_23_DSC04714.jpg
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:18:28.000000000+01:00
+- image_filename: 2020_10_31__12_18_DSC04687.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
   lon: 16.918111111111113
@@ -486,31 +467,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-31 12:23:16+01:00
-- image_filename: 2020_10_31__12_23_DSC04717.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 100
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-31 12:23:31+01:00
+  time: 2020-10-31 12:18:38.000000000+01:00
 - image_filename: 2020_10_31__12_20_DSC04702.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -520,14 +484,48 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-10-31 12:20:54+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:20:54.000000000+01:00
+- image_filename: 2020_10_31__12_23_DSC04714.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:23:16.000000000+01:00
+- image_filename: 2020_10_31__12_23_DSC04717.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:23:31.000000000+01:00
 - image_filename: 2020_10_31__12_23_DSC04722.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -537,14 +535,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-31 12:23:57+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:23:57.000000000+01:00
 - image_filename: 2020_10_31__12_24_DSC04725.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -554,14 +552,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-31 12:24:14+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:24:14.000000000+01:00
 - image_filename: 2020_10_31__12_24_DSC04730.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -571,65 +569,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 125
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-10-31 12:24:41+01:00
-- image_filename: 2020_10_31__12_27_DSC04745.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-10-31 12:27:22+01:00
-- image_filename: 2020_10_31__12_30_DSC04768.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 4024
-  height: 6047
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-10-31 12:30:46+01:00
-- image_filename: 2020_10_31__12_27_DSC04746.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
+  iso: 125
   width: 4023
   height: 6047
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-10-31 12:27:30+01:00
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:24:41.000000000+01:00
 - image_filename: 2020_10_31__12_26_DSC04739.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -639,15 +586,15 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-10-31 12:26:35+01:00
-- image_filename: 2020_10_31__12_33_DSC04784.jpg
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:26:35.000000000+01:00
+- image_filename: 2020_10_31__12_27_DSC04745.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
   lon: 16.918111111111113
@@ -656,14 +603,48 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
+  width: 6048
+  height: 4024
   lens: 105mm F1.4 DG HSM | Art 018
   camera: ILCE-7M3
+  time: 2020-10-31 12:27:22.000000000+01:00
+- image_filename: 2020_10_31__12_27_DSC04746.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
   width: 4023
   height: 6047
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-10-31 12:33:44+01:00
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:27:30.000000000+01:00
+- image_filename: 2020_10_31__12_30_DSC04768.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 4024
+  height: 6047
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:30:46.000000000+01:00
 - image_filename: 2020_10_31__12_33_DSC04780.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -673,14 +654,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-10-31 12:33:22+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:33:22.000000000+01:00
+- image_filename: 2020_10_31__12_33_DSC04784.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 4023
+  height: 6047
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:33:44.000000000+01:00
 - image_filename: 2020_10_31__12_34_DSC04787.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -690,14 +688,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0008
   exposure_string: 1/1250 s
-  time: 2020-10-31 12:34:09+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:34:09.000000000+01:00
 - image_filename: 2020_10_31__12_35_DSC04799.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -707,31 +705,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0005
   exposure_string: 1/2000 s
-  time: 2020-10-31 12:35:39+01:00
-- image_filename: 2020_10_31__12_42_DSC04830.jpg
-  post_slug: 2020-10-31-slady-jesieni
-  lat: 52.36548611111111
-  lon: 16.918111111111113
-  altitude: 0.0
-  focal_length: 105.0
-  focal_length_35: 105.0
-  crop: 1.0
-  aperture: 1.4
   iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-10-31 12:42:06+01:00
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:35:39.000000000+01:00
 - image_filename: 2020_10_31__12_41_DSC04824.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -741,14 +722,31 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-10-31 12:41:12+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:41:12.000000000+01:00
+- image_filename: 2020_10_31__12_42_DSC04830.jpg
+  post_slug: 2020-10-31-slady-jesieni
+  lat: 52.36548611111111
+  lon: 16.918111111111113
+  altitude: 0.0
+  focal_length: 105.0
+  focal_length_35: 105.0
+  crop: 1.0
+  aperture: 1.4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:42:06.000000000+01:00
 - image_filename: 2020_10_31__12_48_DSC04865.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -758,14 +756,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-10-31 12:48:15+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:48:15.000000000+01:00
 - image_filename: 2020_10_31__12_52_DSC04886.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -775,14 +773,14 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-10-31 12:52:15+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 12:52:15.000000000+01:00
 - image_filename: 2020_10_31__13_00_DSC04897.jpg
   post_slug: 2020-10-31-slady-jesieni
   lat: 52.36548611111111
@@ -792,11 +790,11 @@
   focal_length_35: 105.0
   crop: 1.0
   aperture: 1.4
-  iso: 100
-  lens: 105mm F1.4 DG HSM | Art 018
-  camera: ILCE-7M3
-  width: 3898
-  height: 5931
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-10-31 13:00:46+01:00
+  iso: 100
+  width: 3898
+  height: 5931
+  lens: 105mm F1.4 DG HSM | Art 018
+  camera: ILCE-7M3
+  time: 2020-10-31 13:00:46.000000000+01:00

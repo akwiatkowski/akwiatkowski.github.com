@@ -1,24 +1,40 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2022_08_01__10_19_P8010613.jpg
   post_slug: 2022-08-01-przygoda-z-elektrykiem
-- image_filename: 2022_08_01__13_01_P8010650.jpg
-  post_slug: 2022-08-01-przygoda-z-elektrykiem
-  lat: 50.57606944444445
-  lon: 16.657083333333333
-  altitude: 489.0
+  lat: 50.57044444444445
+  lon: 16.63661111111111
+  altitude: 590.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 5.49
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.74
+  iso: 200
+  width: 8038
+  height: 5910
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-08-01 10:19:47.000000000+02:00
+- image_filename: 2022_08_01__11_16_P8010619.jpg
+  post_slug: 2022-08-01-przygoda-z-elektrykiem
+  lat: 50.569250000000004
+  lon: 16.646833333333333
+  altitude: 538.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 3.59
   iso: 200
   width: 8199
   height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-08-01 13:01:05.000000000+02:00
+  time: 2022-08-01 11:16:07.000000000+02:00
 - image_filename: 2022_08_01__11_21_P8010620.jpg
   post_slug: 2022-08-01-przygoda-z-elektrykiem
   lat: 50.56940277777778
@@ -37,6 +53,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-08-01 11:21:27.000000000+02:00
+- image_filename: 2022_08_01__11_59_P8010627.jpg
+  post_slug: 2022-08-01-przygoda-z-elektrykiem
+  lat: 50.56020833333333
+  lon: 16.656305555555555
+  altitude: 434.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.07
+  iso: 200
+  width: 8084
+  height: 5986
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-08-01 11:59:06.000000000+02:00
+- image_filename: 2022_08_01__12_12_P8010628.jpg
+  post_slug: 2022-08-01-przygoda-z-elektrykiem
+  lat: 50.56794444444445
+  lon: 16.67351388888889
+  altitude: 386.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.43
+  iso: 200
+  width: 8194
+  height: 6127
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-08-01 12:12:09.000000000+02:00
+- image_filename: 2022_08_01__12_13_P8010640.jpg
+  post_slug: 2022-08-01-przygoda-z-elektrykiem
+  lat: 50.56794444444445
+  lon: 16.67351388888889
+  altitude: 386.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8150
+  height: 6067
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-08-01 12:13:29.000000000+02:00
 - image_filename: 2022_08_01__12_45_P8010642.jpg
   post_slug: 2022-08-01-przygoda-z-elektrykiem
   lat: 50.578944444444446
@@ -73,42 +143,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-08-01 12:49:47.000000000+02:00
-- image_filename: 2022_08_01__12_12_P8010628.jpg
-  post_slug: 2022-08-01-przygoda-z-elektrykiem
-  lat: 50.56794444444445
-  lon: 16.67351388888889
-  altitude: 386.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 4.43
-  iso: 200
-  width: 8194
-  height: 6127
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-08-01 12:12:09.000000000+02:00
-- image_filename: 2022_08_01__11_16_P8010619.jpg
-  post_slug: 2022-08-01-przygoda-z-elektrykiem
-  lat: 50.569250000000004
-  lon: 16.646833333333333
-  altitude: 538.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 3.59
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-08-01 11:16:07.000000000+02:00
 - image_filename: 2022_08_01__12_54_P8010647.jpg
   post_slug: 2022-08-01-przygoda-z-elektrykiem
   lat: 50.57630555555556
@@ -127,42 +161,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-08-01 12:54:31.000000000+02:00
-- image_filename: 2022_08_01__10_19_P8010613.jpg
+- image_filename: 2022_08_01__13_01_P8010650.jpg
   post_slug: 2022-08-01-przygoda-z-elektrykiem
-  lat: 50.57044444444445
-  lon: 16.63661111111111
-  altitude: 590.0
+  lat: 50.57606944444445
+  lon: 16.657083333333333
+  altitude: 489.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 2.74
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 5.49
   iso: 200
-  width: 8038
-  height: 5910
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-08-01 10:19:47.000000000+02:00
-- image_filename: 2022_08_01__11_59_P8010627.jpg
-  post_slug: 2022-08-01-przygoda-z-elektrykiem
-  lat: 50.56020833333333
-  lon: 16.656305555555555
-  altitude: 434.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.07
-  iso: 200
-  width: 8084
-  height: 5986
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-08-01 11:59:06.000000000+02:00
+  time: 2022-08-01 13:01:05.000000000+02:00
 - image_filename: 2022_08_01__13_55_P8010655.jpg
   post_slug: 2022-08-01-przygoda-z-elektrykiem
   lat: 50.57383333333334
@@ -181,21 +197,3 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-08-01 13:55:16.000000000+02:00
-- image_filename: 2022_08_01__12_13_P8010640.jpg
-  post_slug: 2022-08-01-przygoda-z-elektrykiem
-  lat: 50.56794444444445
-  lon: 16.67351388888889
-  altitude: 386.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8150
-  height: 6067
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-08-01 12:13:29.000000000+02:00

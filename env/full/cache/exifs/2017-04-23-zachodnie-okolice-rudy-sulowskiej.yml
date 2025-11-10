@@ -1,228 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.51263888888889
-  lon: 17.130222222222223
-  altitude: 103.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-23 15:07:11+02:00
-- image_filename: IMGP4971raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.521652777777774
-  lon: 17.0825
-  altitude: 93.0
-  focal_length: 90.0
-  focal_length_35: 135.0
-  crop: 1.5
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-23 10:09:29+02:00
-- image_filename: IMGP4983raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.519625
-  lon: 17.042680555555556
-  altitude: 98.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-23 11:12:10+02:00
-- image_filename: IMGP4989raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.51965277777778
-  lon: 17.04263888888889
-  altitude: 98.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2017-04-23 11:20:32+02:00
-- image_filename: IMGP5000raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.522597222222224
-  lon: 17.010291666666667
-  altitude: 95.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-23 11:46:57+02:00
-- image_filename: IMGP5014raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.52280555555556
-  lon: 17.011
-  altitude: 95.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-23 11:55:17+02:00
-- image_filename: IMGP5026raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.53945833333333
-  lon: 17.052833333333336
-  altitude: 97.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-04-23 12:17:15+02:00
-- image_filename: IMGP5032raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.539375
-  lon: 17.055680555555558
-  altitude: 96.0
-  focal_length: 148.0
-  focal_length_35: 222.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-23 12:20:05+02:00
-- image_filename: IMGP5064raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.53326388888889
-  lon: 17.098583333333334
-  altitude: 101.0
-  focal_length: 21.0
-  focal_length_35: 31.0
-  crop: 1.4761904761904763
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2017-04-23 13:18:31+02:00
-- image_filename: IMGP5078raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.547402777777776
-  lon: 17.135055555555557
-  altitude: 108.0
-  focal_length: 33.0
-  focal_length_35: 49.0
-  crop: 1.4848484848484849
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-23 13:58:34+02:00
-- image_filename: IMGP5083raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.53275
-  lon: 17.147375
-  altitude: 113.0
-  focal_length: 90.0
-  focal_length_35: 135.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-23 14:19:23+02:00
-- image_filename: IMGP5110raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.516444444444446
-  lon: 17.11554166666667
-  altitude: 103.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-23 14:47:52+02:00
-- image_filename: IMGP5134raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.51334722222222
-  lon: 17.110972222222223
-  altitude: 96.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-04-23 18:02:12+02:00
-- image_filename: IMGP5125raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.51356944444444
-  lon: 17.108097222222224
-  altitude: 97.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-23 17:56:43+02:00
-- image_filename: IMGP5040raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.541624999999996
-  lon: 17.063402777777778
-  altitude: 99.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-23 12:23:10+02:00
-- image_filename: IMGP4973raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.521680555555555
-  lon: 17.081875
-  altitude: 93.0
-  focal_length: 28.0
-  focal_length_35: 42.0
-  crop: 1.5
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-23 10:09:41+02:00
 - image_filename: IMGP4966raw1.jpg
   post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
   lat: 51.52084722222222
@@ -232,235 +8,11 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-04-23 10:08:07+02:00
-- image_filename: IMGP4979raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.519625
-  lon: 17.042708333333334
-  altitude: 96.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-23 11:05:05+02:00
-- image_filename: IMGP5068raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.54006944444444
-  lon: 17.097902777777776
-  altitude: 103.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-23 13:31:16+02:00
-- image_filename: IMGP5073raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.54995833333333
-  lon: 17.116861111111113
-  altitude: 106.0
-  focal_length: 39.0
-  focal_length_35: 58.0
-  crop: 1.4871794871794872
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-04-23 13:49:43+02:00
-- image_filename: IMGP5013raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.522777777777776
-  lon: 17.010958333333335
-  altitude: 95.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-23 11:55:10+02:00
-- image_filename: IMGP5056raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.52463888888889
-  lon: 17.078458333333334
-  altitude: 97.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-04-23 12:36:37+02:00
-- image_filename: IMGP5146raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.513819444444444
-  lon: 17.113791666666668
-  altitude: 97.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-23 18:10:41+02:00
-- image_filename: IMGP5031raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.53936111111111
-  lon: 17.05565277777778
-  altitude: 96.0
-  focal_length: 24.0
-  focal_length_35: 36.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-04-23 12:19:59+02:00
-- image_filename: IMGP4994raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.519625
-  lon: 17.042680555555556
-  altitude: 99.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-23 11:24:24+02:00
-- image_filename: IMGP5019raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.522083333333335
-  lon: 17.013347222222222
-  altitude: 94.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-04-23 11:56:19+02:00
-- image_filename: IMGP5063raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.532375
-  lon: 17.09873611111111
-  altitude: 102.0
-  focal_length: 90.0
-  focal_length_35: 135.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-23 13:17:02+02:00
-- image_filename: IMGP5124raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.51343055555556
-  lon: 17.107861111111113
-  altitude: 97.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-04-23 17:56:04+02:00
-- image_filename: IMGP5082raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.53304166666666
-  lon: 17.147666666666666
-  altitude: 114.0
-  focal_length: 45.0
-  focal_length_35: 67.0
-  crop: 1.488888888888889
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-23 14:19:15+02:00
-- image_filename: IMGP5052raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.52729166666666
-  lon: 17.074166666666667
-  altitude: 97.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-04-23 12:35:16+02:00
-- image_filename: IMGP5034raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.539375
-  lon: 17.055722222222222
-  altitude: 97.0
-  focal_length: 105.0
-  focal_length_35: 157.0
-  crop: 1.4952380952380953
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-23 12:20:14+02:00
-- image_filename: IMGP4996raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.519625
-  lon: 17.04266666666667
-  altitude: 99.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2017-04-23 11:24:49+02:00
-- image_filename: IMGP5090raw1.jpg
-  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.528999999999996
-  lon: 17.13859722222222
-  altitude: 108.0
-  focal_length: 39.0
-  focal_length_35: 58.0
-  crop: 1.4871794871794872
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2017-04-23 14:24:49+02:00
+  time: 2017-04-23 10:08:07.000000000+02:00
 - image_filename: IMGP4968raw1.jpg
   post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
   lat: 51.520944444444446
@@ -470,25 +22,431 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-04-23 10:08:15+02:00
-- image_filename: IMGP5149raw1.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 10:08:15.000000000+02:00
+- image_filename: IMGP4971raw1.jpg
   post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
-  lat: 51.513708333333334
-  lon: 17.11376388888889
+  lat: 51.521652777777774
+  lon: 17.0825
+  altitude: 93.0
+  focal_length: 90.0
+  focal_length_35: 135.0
+  crop: 1.5
+  aperture: 13.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 10:09:29.000000000+02:00
+- image_filename: IMGP4973raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.521680555555555
+  lon: 17.081875
+  altitude: 93.0
+  focal_length: 28.0
+  focal_length_35: 42.0
+  crop: 1.5
+  aperture: 13.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 10:09:41.000000000+02:00
+- image_filename: IMGP4979raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.519625
+  lon: 17.042708333333334
+  altitude: 96.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 11:05:05.000000000+02:00
+- image_filename: IMGP4983raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.519625
+  lon: 17.042680555555556
+  altitude: 98.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 11:12:10.000000000+02:00
+- image_filename: IMGP4989raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.51965277777778
+  lon: 17.04263888888889
+  altitude: 98.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 11:20:32.000000000+02:00
+- image_filename: IMGP4994raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.519625
+  lon: 17.042680555555556
+  altitude: 99.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-04-23 11:24:24.000000000+02:00
+- image_filename: IMGP4996raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.519625
+  lon: 17.04266666666667
+  altitude: 99.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 11:24:49.000000000+02:00
+- image_filename: IMGP5000raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.522597222222224
+  lon: 17.010291666666667
+  altitude: 95.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 11:46:57.000000000+02:00
+- image_filename: IMGP5013raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.522777777777776
+  lon: 17.010958333333335
+  altitude: 95.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 11:55:10.000000000+02:00
+- image_filename: IMGP5014raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.52280555555556
+  lon: 17.011
+  altitude: 95.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 11:55:17.000000000+02:00
+- image_filename: IMGP5019raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.522083333333335
+  lon: 17.013347222222222
+  altitude: 94.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 11:56:19.000000000+02:00
+- image_filename: IMGP5026raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.53945833333333
+  lon: 17.052833333333336
   altitude: 97.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 12:17:15.000000000+02:00
+- image_filename: IMGP5031raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.53936111111111
+  lon: 17.05565277777778
+  altitude: 96.0
+  focal_length: 24.0
+  focal_length_35: 36.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-23 12:19:59.000000000+02:00
+- image_filename: IMGP5032raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.539375
+  lon: 17.055680555555558
+  altitude: 96.0
   focal_length: 148.0
   focal_length_35: 222.0
   crop: 1.5
   aperture: 8.0
-  iso: 500
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-04-23 18:11:26+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 12:20:05.000000000+02:00
+- image_filename: IMGP5034raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.539375
+  lon: 17.055722222222222
+  altitude: 97.0
+  focal_length: 105.0
+  focal_length_35: 157.0
+  crop: 1.4952380952380953
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 12:20:14.000000000+02:00
+- image_filename: IMGP5040raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.541624999999996
+  lon: 17.063402777777778
+  altitude: 99.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 12:23:10.000000000+02:00
+- image_filename: IMGP5052raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.52729166666666
+  lon: 17.074166666666667
+  altitude: 97.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 12:35:16.000000000+02:00
+- image_filename: IMGP5056raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.52463888888889
+  lon: 17.078458333333334
+  altitude: 97.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 12:36:37.000000000+02:00
+- image_filename: IMGP5063raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.532375
+  lon: 17.09873611111111
+  altitude: 102.0
+  focal_length: 90.0
+  focal_length_35: 135.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-04-23 13:17:02.000000000+02:00
+- image_filename: IMGP5064raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.53326388888889
+  lon: 17.098583333333334
+  altitude: 101.0
+  focal_length: 21.0
+  focal_length_35: 31.0
+  crop: 1.4761904761904763
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 13:18:31.000000000+02:00
+- image_filename: IMGP5068raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.54006944444444
+  lon: 17.097902777777776
+  altitude: 103.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-23 13:31:16.000000000+02:00
+- image_filename: IMGP5073raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.54995833333333
+  lon: 17.116861111111113
+  altitude: 106.0
+  focal_length: 39.0
+  focal_length_35: 58.0
+  crop: 1.4871794871794872
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-23 13:49:43.000000000+02:00
+- image_filename: IMGP5078raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.547402777777776
+  lon: 17.135055555555557
+  altitude: 108.0
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 13:58:34.000000000+02:00
+- image_filename: IMGP5082raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.53304166666666
+  lon: 17.147666666666666
+  altitude: 114.0
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-04-23 14:19:15.000000000+02:00
+- image_filename: IMGP5083raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.53275
+  lon: 17.147375
+  altitude: 113.0
+  focal_length: 90.0
+  focal_length_35: 135.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 14:19:23.000000000+02:00
+- image_filename: IMGP5090raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.528999999999996
+  lon: 17.13859722222222
+  altitude: 108.0
+  focal_length: 39.0
+  focal_length_35: 58.0
+  crop: 1.4871794871794872
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-23 14:24:49.000000000+02:00
+- image_filename: IMGP5110raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.516444444444446
+  lon: 17.11554166666667
+  altitude: 103.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 14:47:52.000000000+02:00
+- image_filename: IMGP5124raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.51343055555556
+  lon: 17.107861111111113
+  altitude: 97.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 17:56:04.000000000+02:00
+- image_filename: IMGP5125raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.51356944444444
+  lon: 17.108097222222224
+  altitude: 97.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-23 17:56:43.000000000+02:00
+- image_filename: IMGP5134raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.51334722222222
+  lon: 17.110972222222223
+  altitude: 96.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-04-23 18:02:12.000000000+02:00
 - image_filename: IMGP5137raw1.jpg
   post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
   lat: 51.51363888888889
@@ -498,8 +456,50 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2017-04-23 18:03:45+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 18:03:45.000000000+02:00
+- image_filename: IMGP5146raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.513819444444444
+  lon: 17.113791666666668
+  altitude: 97.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-04-23 18:10:41.000000000+02:00
+- image_filename: IMGP5149raw1.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.513708333333334
+  lon: 17.11376388888889
+  altitude: 97.0
+  focal_length: 148.0
+  focal_length_35: 222.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-04-23 18:11:26.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-04-23-zachodnie-okolice-rudy-sulowskiej
+  lat: 51.51263888888889
+  lon: 17.130222222222223
+  altitude: 103.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-23 15:07:11.000000000+02:00

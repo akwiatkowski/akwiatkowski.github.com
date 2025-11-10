@@ -1,74 +1,10 @@
 ---
-- image_filename: 2024_08_04__10_22_P8040051.jpg
-  post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.474444444444444
-  lon: 17.32472222222222
-  altitude: 110.0
-  focal_length: 70.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 17.91
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-08-04 10:22:17.000000000+02:00
 - image_filename: 2022_07_31__18_45_P7310479.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-- image_filename: 2024_08_04__09_51_P8040042.jpg
-  post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.52194444444444
-  lon: 17.27361111111111
-  altitude: 117.0
-  focal_length: 75.0
-  aperture: 4.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 31.03
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-08-04 09:51:10.000000000+02:00
-- image_filename: 2024_08_04__10_56_P8040069.jpg
-  post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.44944444444444
-  lon: 17.323888888888888
-  altitude: 123.0
-  focal_length: 35.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 13.94
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-08-04 10:56:05.000000000+02:00
-- image_filename: 2024_08_04__10_44_P8040066.jpg
-  post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.44611111111111
-  lon: 17.339444444444442
-  altitude: 121.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.02
-  exposure_string: 1/50 s
-  focus_distance: 37.75
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-08-04 10:44:09.000000000+02:00
 - image_filename: 2024_08_04__09_50_P8040040.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.52194444444444
-  lon: 17.27361111111111
+  lat: 52.522
+  lon: 17.273680555555554
   altitude: 117.0
   focal_length: 100.0
   aperture: 4.5
@@ -81,42 +17,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-08-04 09:50:44.000000000+02:00
-- image_filename: 2024_08_04__09_56_P8040046.jpg
+- image_filename: 2024_08_04__09_51_P8040042.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.519999999999996
-  lon: 17.291666666666668
-  altitude: 110.0
-  focal_length: 34.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 13.66
+  lat: 52.52198611111111
+  lon: 17.273694444444445
+  altitude: 117.0
+  focal_length: 75.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 31.03
   iso: 200
   width: 8168
   height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2024-08-04 09:56:22.000000000+02:00
-- image_filename: 2024_08_04__10_35_P8040058.jpg
-  post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.45527777777778
-  lon: 17.34638888888889
-  altitude: 119.0
-  focal_length: 100.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 77.64
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-08-04 10:35:52.000000000+02:00
+  time: 2024-08-04 09:51:10.000000000+02:00
 - image_filename: 2024_08_04__09_56_P8040045.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.519999999999996
-  lon: 17.291666666666668
+  lat: 52.51990277777778
+  lon: 17.291777777777778
   altitude: 110.0
   focal_length: 61.0
   aperture: 6.3
@@ -129,10 +49,122 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-08-04 09:56:12.000000000+02:00
+- image_filename: 2024_08_04__09_56_P8040046.jpg
+  post_slug: 2024-08-04-zablokowany-przez-rosliny
+  lat: 52.51990277777778
+  lon: 17.291777777777778
+  altitude: 110.0
+  focal_length: 34.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 13.66
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-08-04 09:56:22.000000000+02:00
+- image_filename: 2024_08_04__09_56_P8040047.jpg
+  post_slug: 2024-08-04-zablokowany-przez-rosliny
+  lat: 52.51990277777778
+  lon: 17.291777777777778
+  altitude: 110.0
+  focal_length: 34.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 13.41
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-08-04 09:56:33.000000000+02:00
+- image_filename: 2024_08_04__10_22_P8040050.jpg
+  post_slug: 2024-08-04-zablokowany-przez-rosliny
+  lat: 52.47438888888889
+  lon: 17.32473611111111
+  altitude: 110.0
+  focal_length: 31.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 14.17
+  iso: 200
+  width: 6132
+  height: 8168
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-08-04 10:22:05.000000000+02:00
+- image_filename: 2024_08_04__10_22_P8040051.jpg
+  post_slug: 2024-08-04-zablokowany-przez-rosliny
+  lat: 52.47438888888889
+  lon: 17.324791666666666
+  altitude: 110.0
+  focal_length: 70.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 17.91
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-08-04 10:22:17.000000000+02:00
+- image_filename: 2024_08_04__10_22_P8040052.jpg
+  post_slug: 2024-08-04-zablokowany-przez-rosliny
+  lat: 52.47438888888889
+  lon: 17.324791666666666
+  altitude: 109.0
+  focal_length: 100.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 63.5
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-08-04 10:22:28.000000000+02:00
+- image_filename: 2024_08_04__10_35_P8040057.jpg
+  post_slug: 2024-08-04-zablokowany-przez-rosliny
+  lat: 52.455263888888894
+  lon: 17.346402777777776
+  altitude: 119.0
+  focal_length: 31.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.97
+  iso: 200
+  width: 7985
+  height: 5882
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-08-04 10:35:40.000000000+02:00
+- image_filename: 2024_08_04__10_35_P8040058.jpg
+  post_slug: 2024-08-04-zablokowany-przez-rosliny
+  lat: 52.455263888888894
+  lon: 17.346402777777776
+  altitude: 119.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 77.64
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-08-04 10:35:52.000000000+02:00
 - image_filename: 2024_08_04__10_36_P8040059.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.45527777777778
-  lon: 17.34638888888889
+  lat: 52.455263888888894
+  lon: 17.346402777777776
   altitude: 119.0
   focal_length: 38.0
   aperture: 5.0
@@ -147,8 +179,8 @@
   time: 2024-08-04 10:36:03.000000000+02:00
 - image_filename: 2024_08_04__10_43_P8040062.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.44611111111111
-  lon: 17.339444444444442
+  lat: 52.44598611111111
+  lon: 17.339513888888888
   altitude: 120.0
   focal_length: 12.0
   aperture: 4.0
@@ -163,8 +195,8 @@
   time: 2024-08-04 10:43:22.000000000+02:00
 - image_filename: 2024_08_04__10_43_P8040064.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.44611111111111
-  lon: 17.339444444444442
+  lat: 52.44597222222222
+  lon: 17.339555555555556
   altitude: 121.0
   focal_length: 44.0
   aperture: 4.0
@@ -177,42 +209,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-08-04 10:43:45.000000000+02:00
-- image_filename: 2024_08_04__10_22_P8040052.jpg
+- image_filename: 2024_08_04__10_44_P8040066.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.474444444444444
-  lon: 17.32472222222222
-  altitude: 109.0
-  focal_length: 100.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 63.5
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-08-04 10:22:28.000000000+02:00
-- image_filename: 2024_08_04__11_50_P8040078.jpg
-  post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.480555555555554
-  lon: 17.249444444444446
-  altitude: 95.0
+  lat: 52.44598611111111
+  lon: 17.339569444444443
+  altitude: 121.0
   focal_length: 100.0
   aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 22.35
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 37.75
   iso: 200
   width: 8168
   height: 6132
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
-  time: 2024-08-04 11:50:08.000000000+02:00
+  time: 2024-08-04 10:44:09.000000000+02:00
+- image_filename: 2024_08_04__10_56_P8040069.jpg
+  post_slug: 2024-08-04-zablokowany-przez-rosliny
+  lat: 52.44933333333333
+  lon: 17.323819444444442
+  altitude: 123.0
+  focal_length: 35.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 13.94
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-08-04 10:56:05.000000000+02:00
 - image_filename: 2024_08_04__10_56_P8040071.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.44944444444444
-  lon: 17.323888888888888
+  lat: 52.44933333333333
+  lon: 17.323819444444442
   altitude: 122.0
   focal_length: 50.0
   aperture: 6.3
@@ -227,8 +259,8 @@
   time: 2024-08-04 10:56:35.000000000+02:00
 - image_filename: 2024_08_04__11_49_P8040075.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.480555555555554
-  lon: 17.249444444444446
+  lat: 52.48056944444445
+  lon: 17.24954166666667
   altitude: 95.0
   focal_length: 12.0
   aperture: 6.3
@@ -241,10 +273,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-08-04 11:49:32.000000000+02:00
+- image_filename: 2024_08_04__11_50_P8040078.jpg
+  post_slug: 2024-08-04-zablokowany-przez-rosliny
+  lat: 52.48056944444445
+  lon: 17.24954166666667
+  altitude: 95.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.35
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-08-04 11:50:08.000000000+02:00
 - image_filename: 2024_08_04__11_59_P8040079.jpg
   post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.47944444444445
-  lon: 17.227777777777778
+  lat: 52.47945833333333
+  lon: 17.22772222222222
   altitude: 94.0
   focal_length: 23.0
   aperture: 4.5
@@ -257,51 +305,3 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-08-04 11:59:34.000000000+02:00
-- image_filename: 2024_08_04__10_22_P8040050.jpg
-  post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.474444444444444
-  lon: 17.32472222222222
-  altitude: 110.0
-  focal_length: 31.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 14.17
-  iso: 200
-  width: 6132
-  height: 8168
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-08-04 10:22:05.000000000+02:00
-- image_filename: 2024_08_04__09_56_P8040047.jpg
-  post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.519999999999996
-  lon: 17.291666666666668
-  altitude: 110.0
-  focal_length: 34.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 13.41
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-08-04 09:56:33.000000000+02:00
-- image_filename: 2024_08_04__10_35_P8040057.jpg
-  post_slug: 2024-08-04-zablokowany-przez-rosliny
-  lat: 52.45527777777778
-  lon: 17.34638888888889
-  altitude: 119.0
-  focal_length: 31.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.97
-  iso: 200
-  width: 7985
-  height: 5882
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-08-04 10:35:40.000000000+02:00

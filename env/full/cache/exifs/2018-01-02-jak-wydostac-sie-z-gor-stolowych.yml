@@ -1,18 +1,4 @@
 ---
-- image_filename: IMGP4286raw1.jpg
-  post_slug: 2018-01-02-jak-wydostac-sie-z-gor-stolowych
-  lat: 50.47944444444445
-  lon: 16.330083333333334
-  altitude: 771.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2018-01-02 09:39:21+01:00
 - image_filename: IMGP4265raw1.jpg
   post_slug: 2018-01-02-jak-wydostac-sie-z-gor-stolowych
   lat: 50.488486111111115
@@ -22,39 +8,11 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 4.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
-  time: 2018-01-02 09:16:08+01:00
-- image_filename: IMGP4281raw1.jpg
-  post_slug: 2018-01-02-jak-wydostac-sie-z-gor-stolowych
-  lat: 50.481125
-  lon: 16.32772222222222
-  altitude: 764.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 6.3
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2018-01-02 09:35:17+01:00
-- image_filename: IMGP4313raw1.jpg
-  post_slug: 2018-01-02-jak-wydostac-sie-z-gor-stolowych
-  lat: 50.465472222222225
-  lon: 16.346791666666665
-  altitude: 752.0
-  focal_length: 20.0
-  focal_length_35: 30.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 1250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-01-02 10:15:43+01:00
+  time: 2018-01-02 09:16:08.000000000+01:00
 - image_filename: IMGP4275raw1.jpg
   post_slug: 2018-01-02-jak-wydostac-sie-z-gor-stolowych
   lat: 50.48238888888889
@@ -64,11 +22,39 @@
   focal_length_35: 30.0
   crop: 1.5
   aperture: 6.3
-  iso: 640
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-01-02 09:31:58+01:00
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-01-02 09:31:58.000000000+01:00
+- image_filename: IMGP4281raw1.jpg
+  post_slug: 2018-01-02-jak-wydostac-sie-z-gor-stolowych
+  lat: 50.481125
+  lon: 16.32772222222222
+  altitude: 764.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-02 09:35:17.000000000+01:00
+- image_filename: IMGP4286raw1.jpg
+  post_slug: 2018-01-02-jak-wydostac-sie-z-gor-stolowych
+  lat: 50.47944444444445
+  lon: 16.330083333333334
+  altitude: 771.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2018-01-02 09:39:21.000000000+01:00
 - image_filename: IMGP4293raw1.jpg
   post_slug: 2018-01-02-jak-wydostac-sie-z-gor-stolowych
   lat: 50.478319444444445
@@ -78,8 +64,22 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
-  time: 2018-01-02 09:41:57+01:00
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2018-01-02 09:41:57.000000000+01:00
+- image_filename: IMGP4313raw1.jpg
+  post_slug: 2018-01-02-jak-wydostac-sie-z-gor-stolowych
+  lat: 50.465472222222225
+  lon: 16.346791666666665
+  altitude: 752.0
+  focal_length: 20.0
+  focal_length_35: 30.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 1250
+  camera: PENTAX K-S2
+  time: 2018-01-02 10:15:43.000000000+01:00

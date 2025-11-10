@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_03_31__14_59__3310814.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.496125
-  lon: 16.955388888888887
-  altitude: 90.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-31 14:59:15+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_03_31__14_19__3310708.jpg
   post_slug: 2019-03-31-kokoryczkowe-wzgorze
   lat: 52.499722222222225
@@ -26,177 +8,15 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 80.71
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5075
   height: 3854
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-03-31 14:19:56+02:00
-  focus_distance: 80.71
-- image_filename: 2019_03_31__14_30__3310718.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49801388888889
-  lon: 16.94984722222222
-  altitude: 87.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4579
-  height: 3723
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-03-31 14:30:08+02:00
-  focus_distance: 4.16
-- image_filename: 2019_03_31__14_39__3310724.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.495805555555556
-  lon: 16.95445833333333
-  altitude: 71.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-03-31 14:39:27+02:00
-  focus_distance: 5.4
-- image_filename: 2019_03_31__14_43__3310741.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49563888888889
-  lon: 16.955111111111112
-  altitude: 71.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-31 14:43:46+02:00
-  focus_distance: 0.44
-- image_filename: 2019_03_31__15_07__3310822.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49443055555555
-  lon: 16.957555555555555
-  altitude: 58.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-31 15:07:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_31__14_48__3310758.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49575
-  lon: 16.9565
-  altitude: 73.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 1250
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-03-31 14:48:26+02:00
-  focus_distance: 0.26
-- image_filename: 2019_03_31__14_44__3310746.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49561111111111
-  lon: 16.955194444444444
-  altitude: 73.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-03-31 14:44:44+02:00
-  focus_distance: 0.29
-- image_filename: 2019_03_31__14_49__3310759.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.495805555555556
-  lon: 16.956166666666665
-  altitude: 78.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-31 14:49:20+02:00
-  focus_distance: 103.93
-- image_filename: 2019_03_31__14_41__3310737.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49583333333334
-  lon: 16.95484722222222
-  altitude: 71.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-03-31 14:41:29+02:00
-  focus_distance: 0.88
-- image_filename: 2019_03_31__15_21__3310835.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.497305555555556
-  lon: 16.949625
-  altitude: 77.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-31 15:21:39+02:00
-  focus_distance: 1000.0
+  time: 2019-03-31 14:19:56.000000000+02:00
 - image_filename: 2019_03_31__14_19__3310709.jpg
   post_slug: 2019-03-31-kokoryczkowe-wzgorze
   lat: 52.49973611111111
@@ -206,15 +26,51 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-03-31 14:19:59+02:00
   focus_distance: 13.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-31 14:19:59.000000000+02:00
+- image_filename: 2019_03_31__14_30__3310718.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49801388888889
+  lon: 16.94984722222222
+  altitude: 87.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.16
+  iso: 200
+  width: 4579
+  height: 3723
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-31 14:30:08.000000000+02:00
+- image_filename: 2019_03_31__14_39__3310724.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.495805555555556
+  lon: 16.95445833333333
+  altitude: 71.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 5.4
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-31 14:39:27.000000000+02:00
 - image_filename: 2019_03_31__14_39__3310727.jpg
   post_slug: 2019-03-31-kokoryczkowe-wzgorze
   lat: 52.495805555555556
@@ -224,15 +80,15 @@
   focal_length_35: 172.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.025
   exposure_string: 1/40 s
-  time: 2019-03-31 14:39:45+02:00
   focus_distance: 5.53
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-31 14:39:45.000000000+02:00
 - image_filename: 2019_03_31__14_39__3310729.jpg
   post_slug: 2019-03-31-kokoryczkowe-wzgorze
   lat: 52.49583333333334
@@ -242,141 +98,15 @@
   focal_length_35: 172.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
-  time: 2019-03-31 14:39:56+02:00
   focus_distance: 5.7
-- image_filename: 2019_03_31__14_51__3310766.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49594444444445
-  lon: 16.95563888888889
-  altitude: 91.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
   iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-31 14:51:21+02:00
-  focus_distance: 6.74
-- image_filename: 2019_03_31__14_44__3310745.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49565277777778
-  lon: 16.95509722222222
-  altitude: 73.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-31 14:44:18+02:00
-  focus_distance: 0.69
-- image_filename: 2019_03_31__14_44__3310748.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.495583333333336
-  lon: 16.95525
-  altitude: 73.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-03-31 14:44:54+02:00
-  focus_distance: 0.29
-- image_filename: 2019_03_31__14_58__3310810.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.496125
-  lon: 16.955430555555555
-  altitude: 91.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-31 14:58:35+02:00
-  focus_distance: 0.2
-- image_filename: 2019_03_31__14_51__3310765.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49594444444445
-  lon: 16.95565277777778
-  altitude: 89.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-31 14:51:01+02:00
-  focus_distance: 12.41
-- image_filename: 2019_03_31__15_04__3310819.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49523611111111
-  lon: 16.957277777777776
-  altitude: 66.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-31 15:04:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_31__14_59__3310813.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.49611111111111
-  lon: 16.955388888888887
-  altitude: 90.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-31 14:59:03+02:00
-  focus_distance: 2.28
+  time: 2019-03-31 14:39:56.000000000+02:00
 - image_filename: 2019_03_31__14_40__3310733.jpg
   post_slug: 2019-03-31-kokoryczkowe-wzgorze
   lat: 52.495847222222224
@@ -386,12 +116,282 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.025
   exposure_string: 1/40 s
-  time: 2019-03-31 14:40:28+02:00
   focus_distance: 3.96
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-31 14:40:28.000000000+02:00
+- image_filename: 2019_03_31__14_41__3310737.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49583333333334
+  lon: 16.95484722222222
+  altitude: 71.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.88
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-31 14:41:29.000000000+02:00
+- image_filename: 2019_03_31__14_43__3310741.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49563888888889
+  lon: 16.955111111111112
+  altitude: 71.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-31 14:43:46.000000000+02:00
+- image_filename: 2019_03_31__14_44__3310745.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49565277777778
+  lon: 16.95509722222222
+  altitude: 73.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.69
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-31 14:44:18.000000000+02:00
+- image_filename: 2019_03_31__14_44__3310746.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49561111111111
+  lon: 16.955194444444444
+  altitude: 73.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.29
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-31 14:44:44.000000000+02:00
+- image_filename: 2019_03_31__14_44__3310748.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.495583333333336
+  lon: 16.95525
+  altitude: 73.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.29
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-31 14:44:54.000000000+02:00
+- image_filename: 2019_03_31__14_48__3310758.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49575
+  lon: 16.9565
+  altitude: 73.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.26
+  iso: 1250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-31 14:48:26.000000000+02:00
+- image_filename: 2019_03_31__14_49__3310759.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.495805555555556
+  lon: 16.956166666666665
+  altitude: 78.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 103.93
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-31 14:49:20.000000000+02:00
+- image_filename: 2019_03_31__14_51__3310765.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49594444444445
+  lon: 16.95565277777778
+  altitude: 89.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 12.41
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-31 14:51:01.000000000+02:00
+- image_filename: 2019_03_31__14_51__3310766.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49594444444445
+  lon: 16.95563888888889
+  altitude: 91.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 6.74
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-31 14:51:21.000000000+02:00
+- image_filename: 2019_03_31__14_58__3310810.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.496125
+  lon: 16.955430555555555
+  altitude: 91.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.2
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-31 14:58:35.000000000+02:00
+- image_filename: 2019_03_31__14_59__3310813.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49611111111111
+  lon: 16.955388888888887
+  altitude: 90.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.28
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-31 14:59:03.000000000+02:00
+- image_filename: 2019_03_31__14_59__3310814.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.496125
+  lon: 16.955388888888887
+  altitude: 90.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-31 14:59:15.000000000+02:00
+- image_filename: 2019_03_31__15_04__3310819.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49523611111111
+  lon: 16.957277777777776
+  altitude: 66.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-31 15:04:18.000000000+02:00
+- image_filename: 2019_03_31__15_07__3310822.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.49443055555555
+  lon: 16.957555555555555
+  altitude: 58.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-31 15:07:29.000000000+02:00
+- image_filename: 2019_03_31__15_21__3310835.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.497305555555556
+  lon: 16.949625
+  altitude: 77.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-31 15:21:39.000000000+02:00

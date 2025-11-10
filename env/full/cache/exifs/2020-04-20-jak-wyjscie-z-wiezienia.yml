@@ -1,270 +1,4 @@
 ---
-- image_filename: 2020_04_20__17_48_DSC07454.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.372972222222224
-  lon: 16.928305555555557
-  altitude: 4294967296.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7143
-  height: 4771
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-04-20 17:48:41+02:00
-- image_filename: 2020_04_22__17_20__4227496.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37634722222222
-  lon: 16.93
-  altitude: 44.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-04-22 17:20:51+02:00
-  focus_distance: 15.11
-- image_filename: 2020_04_22__17_03__4227452.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.372125
-  lon: 16.92579166666667
-  altitude: 53.0
-  focal_length: 135.0
-  focal_length_35: 270.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4904
-  height: 3661
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-04-22 17:03:24+02:00
-  focus_distance: 2.64
-- image_filename: 2020_04_22__17_29__4227509.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.377027777777776
-  lon: 16.933236111111114
-  altitude: 35.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-04-22 17:29:32+02:00
-  focus_distance: 5.72
-- image_filename: 2020_04_22__17_57__4227675.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.38280555555556
-  lon: 16.926472222222223
-  altitude: 41.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-22 17:57:19+02:00
-  focus_distance: 1.6
-- image_filename: 2020_04_22__17_46__4227633.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.380472222222224
-  lon: 16.931458333333335
-  altitude: 41.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4534
-  height: 3386
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-04-22 17:46:29+02:00
-  focus_distance: 2.58
-- image_filename: 2020_04_22__17_57__4227678.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.382875
-  lon: 16.926000000000002
-  altitude: 42.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-04-22 17:57:42+02:00
-  focus_distance: 1.01
-- image_filename: 2020_04_22__17_08__4227465.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37226388888889
-  lon: 16.92855555555556
-  altitude: 59.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4904
-  height: 3661
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2020-04-22 17:08:32+02:00
-  focus_distance: 21.78
-- image_filename: 2020_04_22__18_01__4227699.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.383041666666664
-  lon: 16.924194444444446
-  altitude: 43.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4207
-  height: 3218
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-04-22 18:01:00+02:00
-  focus_distance: 1.12
-- image_filename: 2020_04_22__17_46__4227637.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.380541666666666
-  lon: 16.931541666666668
-  altitude: 41.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-04-22 17:46:39+02:00
-  focus_distance: 2.09
-- image_filename: 2020_04_20__17_55_DSC07463.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37326388888889
-  lon: 16.929166666666667
-  altitude: 4294967296.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7143
-  height: 4771
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-20 17:55:57+02:00
-- image_filename: 2020_04_22__17_03__4227456.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37220833333333
-  lon: 16.92591666666667
-  altitude: 62.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4791
-  height: 3577
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-04-22 17:03:47+02:00
-  focus_distance: 3.82
-- image_filename: 2020_04_22__17_50__4227651.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.381
-  lon: 16.930083333333336
-  altitude: 37.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-04-22 17:50:10+02:00
-  focus_distance: 7.64
-- image_filename: 2020_04_20__18_07_DSC07469.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.36361111111111
-  lon: 16.914624999999997
-  altitude: 16.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7143
-  height: 4771
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-04-20 18:07:24+02:00
-- image_filename: 2020_04_21__17_33_DSC07479.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.36931944444444
-  lon: 16.917555555555555
-  altitude: 68.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6945
-  height: 4639
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-04-21 17:33:18+02:00
 - image_filename: 2020_04_20__17_46_DSC07451.jpg
   post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
   lat: 52.37083333333334
@@ -274,369 +8,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7143
-  height: 4771
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-04-20 17:46:42+02:00
-- image_filename: 2020_04_22__17_10__4227475.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.373125
-  lon: 16.929041666666667
-  altitude: 55.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-04-22 17:10:09+02:00
-  focus_distance: 3.18
-- image_filename: 2020_04_22__17_29__4227520.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37701388888889
-  lon: 16.93327777777778
-  altitude: 35.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4250
-  height: 3135
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-04-22 17:29:35+02:00
-  focus_distance: 5.72
-- image_filename: 2020_04_22__17_56__4227664.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.382736111111114
-  lon: 16.926916666666667
-  altitude: 42.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-22 17:56:01+02:00
-  focus_distance: 0.8
-- image_filename: 2020_04_21__17_33_DSC07480.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.369347222222224
-  lon: 16.917611111111114
-  altitude: 68.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
   iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4771
-  height: 7143
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-04-21 17:33:26+02:00
-- image_filename: 2020_04_22__17_16__4227487.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37526388888889
-  lon: 16.92961111111111
-  altitude: 49.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-04-22 17:16:46+02:00
-  focus_distance: 28.64
-- image_filename: 2020_04_22__17_44__4227621.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37968055555556
-  lon: 16.931083333333333
-  altitude: 41.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-04-22 17:44:08+02:00
-  focus_distance: 2.31
-- image_filename: 2020_04_20__17_52_DSC07460.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.376041666666666
-  lon: 16.927541666666666
-  altitude: 4294967296.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
   width: 7143
   height: 4771
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-04-20 17:52:03+02:00
-- image_filename: 2020_04_21__17_48_DSC07482.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.366416666666666
-  lon: 16.91926388888889
-  altitude: 66.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
-  width: 7143
-  height: 4771
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-21 17:48:08+02:00
-- image_filename: 2020_04_22__17_46__4227638.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.380611111111115
-  lon: 16.931611111111113
-  altitude: 41.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 7.8125e-5
-  exposure_string: 1/12800 s
-  time: 2020-04-22 17:46:47+02:00
-  focus_distance: 1.56
-- image_filename: 2020_04_22__17_58__4227685.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.38290277777778
-  lon: 16.92551388888889
-  altitude: 41.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-04-22 17:58:32+02:00
-  focus_distance: 1.43
-- image_filename: 2020_04_22__17_12__4227478.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37356944444444
-  lon: 16.929291666666668
-  altitude: 51.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4239
-  height: 3351
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-04-22 17:12:13+02:00
-  focus_distance: 5.9
-- image_filename: 2020_04_20__18_06_DSC07467.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.363875
-  lon: 16.916124999999997
-  altitude: 15.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7143
-  height: 4771
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-04-20 18:06:49+02:00
-- image_filename: 2020_04_22__17_10__4227477.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37329166666667
-  lon: 16.929125000000003
-  altitude: 54.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-04-22 17:10:28+02:00
-  focus_distance: 20.38
-- image_filename: 2020_04_22__17_03__4227454.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37213888888889
-  lon: 16.925833333333333
-  altitude: 57.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4904
-  height: 3661
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-04-22 17:03:33+02:00
-  focus_distance: 3.02
-- image_filename: 2020_04_22__17_44__4227629.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37998611111111
-  lon: 16.931291666666667
-  altitude: 41.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-04-22 17:44:28+02:00
-  focus_distance: 2.48
-- image_filename: 2020_04_22__17_59__4227692.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.38293055555555
-  lon: 16.925291666666666
-  altitude: 41.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 3426
-  height: 2760
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-04-22 17:59:31+02:00
-  focus_distance: 17.73
-- image_filename: 2020_04_21__17_21_DSC07474.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.368652777777775
-  lon: 16.91679166666667
-  altitude: 70.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7305
-  height: 4879
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-04-21 17:21:45+02:00
-- image_filename: 2020_04_22__17_55__4227658.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.38272222222222
-  lon: 16.926958333333335
-  altitude: 42.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-04-22 17:55:38+02:00
-  focus_distance: 0.7
-- image_filename: 2020_04_22__17_56__4227673.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.38275
-  lon: 16.92688888888889
-  altitude: 42.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-22 17:56:25+02:00
-  focus_distance: 0.7
-- image_filename: 2020_04_22__17_20__4227494.jpg
-  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
-  lat: 52.37627777777778
-  lon: 16.93
-  altitude: 44.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-04-22 17:20:32+02:00
-  focus_distance: 14.62
+  time: 2020-04-20 17:46:42.000000000+02:00
 - image_filename: 2020_04_20__17_46_DSC07452.jpg
   post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
   lat: 52.371138888888886
@@ -646,11 +25,632 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7143
-  height: 4771
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-04-20 17:46:50+02:00
+  iso: 100
+  width: 7143
+  height: 4771
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-20 17:46:50.000000000+02:00
+- image_filename: 2020_04_20__17_48_DSC07454.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.372972222222224
+  lon: 16.928305555555557
+  altitude: 4294967296.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7143
+  height: 4771
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-20 17:48:41.000000000+02:00
+- image_filename: 2020_04_20__17_52_DSC07460.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.376041666666666
+  lon: 16.927541666666666
+  altitude: 4294967296.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 7143
+  height: 4771
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-20 17:52:03.000000000+02:00
+- image_filename: 2020_04_20__17_55_DSC07463.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37326388888889
+  lon: 16.929166666666667
+  altitude: 4294967296.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7143
+  height: 4771
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-20 17:55:57.000000000+02:00
+- image_filename: 2020_04_20__18_06_DSC07467.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.363875
+  lon: 16.916124999999997
+  altitude: 15.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7143
+  height: 4771
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-20 18:06:49.000000000+02:00
+- image_filename: 2020_04_20__18_07_DSC07469.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.36361111111111
+  lon: 16.914624999999997
+  altitude: 16.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7143
+  height: 4771
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-20 18:07:24.000000000+02:00
+- image_filename: 2020_04_21__17_21_DSC07474.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.368652777777775
+  lon: 16.91679166666667
+  altitude: 70.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7305
+  height: 4879
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-21 17:21:45.000000000+02:00
+- image_filename: 2020_04_21__17_33_DSC07479.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.36931944444444
+  lon: 16.917555555555555
+  altitude: 68.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6945
+  height: 4639
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-21 17:33:18.000000000+02:00
+- image_filename: 2020_04_21__17_33_DSC07480.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.369347222222224
+  lon: 16.917611111111114
+  altitude: 68.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 4771
+  height: 7143
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-21 17:33:26.000000000+02:00
+- image_filename: 2020_04_21__17_48_DSC07482.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.366416666666666
+  lon: 16.91926388888889
+  altitude: 66.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7143
+  height: 4771
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2020-04-21 17:48:08.000000000+02:00
+- image_filename: 2020_04_22__17_03__4227452.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.372125
+  lon: 16.92579166666667
+  altitude: 53.0
+  focal_length: 135.0
+  focal_length_35: 270.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 2.64
+  iso: 200
+  width: 4904
+  height: 3661
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:03:24.000000000+02:00
+- image_filename: 2020_04_22__17_03__4227454.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37213888888889
+  lon: 16.925833333333333
+  altitude: 57.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 3.02
+  iso: 200
+  width: 4904
+  height: 3661
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:03:33.000000000+02:00
+- image_filename: 2020_04_22__17_03__4227456.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37220833333333
+  lon: 16.92591666666667
+  altitude: 62.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 3.82
+  iso: 200
+  width: 4791
+  height: 3577
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:03:47.000000000+02:00
+- image_filename: 2020_04_22__17_08__4227465.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37226388888889
+  lon: 16.92855555555556
+  altitude: 59.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 21.78
+  iso: 200
+  width: 4904
+  height: 3661
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:08:32.000000000+02:00
+- image_filename: 2020_04_22__17_10__4227475.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.373125
+  lon: 16.929041666666667
+  altitude: 55.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.18
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:10:09.000000000+02:00
+- image_filename: 2020_04_22__17_10__4227477.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37329166666667
+  lon: 16.929125000000003
+  altitude: 54.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 20.38
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:10:28.000000000+02:00
+- image_filename: 2020_04_22__17_12__4227478.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37356944444444
+  lon: 16.929291666666668
+  altitude: 51.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 5.9
+  iso: 200
+  width: 4239
+  height: 3351
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:12:13.000000000+02:00
+- image_filename: 2020_04_22__17_16__4227487.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37526388888889
+  lon: 16.92961111111111
+  altitude: 49.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 28.64
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:16:46.000000000+02:00
+- image_filename: 2020_04_22__17_20__4227494.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37627777777778
+  lon: 16.93
+  altitude: 44.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 14.62
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:20:32.000000000+02:00
+- image_filename: 2020_04_22__17_20__4227496.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37634722222222
+  lon: 16.93
+  altitude: 44.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 15.11
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:20:51.000000000+02:00
+- image_filename: 2020_04_22__17_29__4227509.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.377027777777776
+  lon: 16.933236111111114
+  altitude: 35.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 5.72
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:29:32.000000000+02:00
+- image_filename: 2020_04_22__17_29__4227520.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37701388888889
+  lon: 16.93327777777778
+  altitude: 35.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 5.72
+  iso: 200
+  width: 4250
+  height: 3135
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:29:35.000000000+02:00
+- image_filename: 2020_04_22__17_44__4227621.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37968055555556
+  lon: 16.931083333333333
+  altitude: 41.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.31
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:44:08.000000000+02:00
+- image_filename: 2020_04_22__17_44__4227629.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.37998611111111
+  lon: 16.931291666666667
+  altitude: 41.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.48
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:44:28.000000000+02:00
+- image_filename: 2020_04_22__17_46__4227633.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.380472222222224
+  lon: 16.931458333333335
+  altitude: 41.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.58
+  iso: 200
+  width: 4534
+  height: 3386
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:46:29.000000000+02:00
+- image_filename: 2020_04_22__17_46__4227637.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.380541666666666
+  lon: 16.931541666666668
+  altitude: 41.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.09
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:46:39.000000000+02:00
+- image_filename: 2020_04_22__17_46__4227638.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.380611111111115
+  lon: 16.931611111111113
+  altitude: 41.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 7.8125e-5
+  exposure_string: 1/12800 s
+  focus_distance: 1.56
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:46:47.000000000+02:00
+- image_filename: 2020_04_22__17_50__4227651.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.381
+  lon: 16.930083333333336
+  altitude: 37.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 7.64
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:50:10.000000000+02:00
+- image_filename: 2020_04_22__17_55__4227658.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.38272222222222
+  lon: 16.926958333333335
+  altitude: 42.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:55:38.000000000+02:00
+- image_filename: 2020_04_22__17_56__4227664.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.382736111111114
+  lon: 16.926916666666667
+  altitude: 42.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.8
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:56:01.000000000+02:00
+- image_filename: 2020_04_22__17_56__4227673.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.38275
+  lon: 16.92688888888889
+  altitude: 42.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:56:25.000000000+02:00
+- image_filename: 2020_04_22__17_57__4227675.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.38280555555556
+  lon: 16.926472222222223
+  altitude: 41.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.6
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:57:19.000000000+02:00
+- image_filename: 2020_04_22__17_57__4227678.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.382875
+  lon: 16.926000000000002
+  altitude: 42.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.01
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:57:42.000000000+02:00
+- image_filename: 2020_04_22__17_58__4227685.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.38290277777778
+  lon: 16.92551388888889
+  altitude: 41.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 1.43
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:58:32.000000000+02:00
+- image_filename: 2020_04_22__17_59__4227692.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.382930555555554
+  lon: 16.925291666666666
+  altitude: 41.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 17.73
+  iso: 200
+  width: 3426
+  height: 2760
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 17:59:31.000000000+02:00
+- image_filename: 2020_04_22__18_01__4227699.jpg
+  post_slug: 2020-04-20-jak-wyjscie-z-wiezienia
+  lat: 52.383041666666664
+  lon: 16.924194444444446
+  altitude: 43.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.12
+  iso: 200
+  width: 4207
+  height: 3218
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-22 18:01:00.000000000+02:00

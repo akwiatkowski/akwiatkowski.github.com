@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-01-19-spacer-w-steszewie
-  lat: 52.26902777777778
-  lon: 16.724833333333333
-  altitude: 66.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-19 14:36:19+01:00
 - image_filename: IMGP2246raw1.jpg
   post_slug: 2017-01-19-spacer-w-steszewie
   lat: 52.27152777777778
@@ -22,81 +8,11 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-19 14:27:44+01:00
-- image_filename: IMGP2265raw1.jpg
-  post_slug: 2017-01-19-spacer-w-steszewie
-  lat: 52.26958333333333
-  lon: 16.723
-  altitude: 65.0
-  focal_length: 148.0
-  focal_length_35: 222.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-19 14:34:18+01:00
-- image_filename: IMGP2277raw1.jpg
-  post_slug: 2017-01-19-spacer-w-steszewie
-  lat: 52.268652777777774
-  lon: 16.726152777777777
-  altitude: 67.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-19 14:38:11+01:00
-- image_filename: IMGP2302raw1.jpg
-  post_slug: 2017-01-19-spacer-w-steszewie
-  lat: 52.26069444444445
-  lon: 16.746319444444445
-  altitude: 60.0
-  focal_length: 75.0
-  focal_length_35: 112.0
-  crop: 1.4933333333333334
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-01-19 14:58:41+01:00
-- image_filename: IMGP2310raw1.jpg
-  post_slug: 2017-01-19-spacer-w-steszewie
-  lat: 52.25811111111111
-  lon: 16.75038888888889
-  altitude: 58.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-19 15:04:31+01:00
-- image_filename: IMGP2326raw1.jpg
-  post_slug: 2017-01-19-spacer-w-steszewie
-  lat: 52.25651388888889
-  lon: 16.75265277777778
-  altitude: 61.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-01-19 15:13:23+01:00
+  time: 2017-01-19 14:27:44.000000000+01:00
 - image_filename: IMGP2263raw1.jpg
   post_slug: 2017-01-19-spacer-w-steszewie
   lat: 52.26983333333333
@@ -106,39 +22,67 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-01-19 14:33:22+01:00
-- image_filename: IMGP2335raw1.jpg
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-01-19 14:33:22.000000000+01:00
+- image_filename: IMGP2265raw1.jpg
   post_slug: 2017-01-19-spacer-w-steszewie
-  lat: 52.25802777777778
-  lon: 16.750430555555557
-  altitude: 60.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
+  lat: 52.26958333333333
+  lon: 16.723
+  altitude: 65.0
+  focal_length: 148.0
+  focal_length_35: 222.0
+  crop: 1.5
   aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-01-19 14:34:18.000000000+01:00
+- image_filename: IMGP2277raw1.jpg
+  post_slug: 2017-01-19-spacer-w-steszewie
+  lat: 52.268652777777774
+  lon: 16.726152777777777
+  altitude: 67.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 320
   camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2017-01-19 15:17:54+01:00
-- image_filename: IMGP2337raw1.jpg
+  time: 2017-01-19 14:38:11.000000000+01:00
+- image_filename: IMGP2302raw1.jpg
   post_slug: 2017-01-19-spacer-w-steszewie
-  lat: 52.258541666666666
-  lon: 16.749861111111112
-  altitude: 61.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
+  lat: 52.26069444444445
+  lon: 16.746319444444445
+  altitude: 60.0
+  focal_length: 75.0
+  focal_length_35: 112.0
+  crop: 1.4933333333333334
   aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-01-19 15:18:56+01:00
+  time: 2017-01-19 14:58:41.000000000+01:00
+- image_filename: IMGP2310raw1.jpg
+  post_slug: 2017-01-19-spacer-w-steszewie
+  lat: 52.25811111111111
+  lon: 16.75038888888889
+  altitude: 58.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-01-19 15:04:31.000000000+01:00
 - image_filename: IMGP2321raw2.jpg
   post_slug: 2017-01-19-spacer-w-steszewie
   lat: 52.256708333333336
@@ -148,8 +92,64 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2017-01-19 15:10:11+01:00
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-01-19 15:10:11.000000000+01:00
+- image_filename: IMGP2326raw1.jpg
+  post_slug: 2017-01-19-spacer-w-steszewie
+  lat: 52.25651388888889
+  lon: 16.75265277777778
+  altitude: 61.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-01-19 15:13:23.000000000+01:00
+- image_filename: IMGP2335raw1.jpg
+  post_slug: 2017-01-19-spacer-w-steszewie
+  lat: 52.25802777777778
+  lon: 16.750430555555557
+  altitude: 60.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-01-19 15:17:54.000000000+01:00
+- image_filename: IMGP2337raw1.jpg
+  post_slug: 2017-01-19-spacer-w-steszewie
+  lat: 52.258541666666666
+  lon: 16.749861111111112
+  altitude: 61.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-01-19 15:18:56.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2017-01-19-spacer-w-steszewie
+  lat: 52.26902777777778
+  lon: 16.724833333333333
+  altitude: 66.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-01-19 14:36:19.000000000+01:00

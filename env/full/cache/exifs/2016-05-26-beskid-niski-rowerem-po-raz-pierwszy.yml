@@ -1,198 +1,198 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.44334472222222
-  lon: 21.506914444444444
-  altitude: 571.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-05-26 16:58:51+02:00
 - image_filename: IMGP0536raw1.jpg
   post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.90258
-  lon: 21.17340888888889
+  lat: 49.90258055555555
+  lon: 21.173408333333334
   altitude: 324.6
   focal_length: 35.0
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 400
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-05-26 10:40:49+02:00
-- image_filename: IMGP0596raw1.jpg
+  time: 2016-05-26 10:40:49.000000000+02:00
+- image_filename: IMGP0552raw1.jpg
   post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.545853888888885
-  lon: 21.49874861111111
+  lat: 49.75853055555555
+  lon: 21.297583333333336
+  altitude: 243.4
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2016-05-26 11:04:58.000000000+02:00
+- image_filename: IMGP0557raw1.jpg
+  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
+  lat: 49.64105833333333
+  lon: 21.334566666666664
+  altitude: 372.2
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2016-05-26 11:23:57.000000000+02:00
+- image_filename: IMGP0594raw1.jpg
+  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
+  lat: 49.545852777777775
+  lon: 21.498747222222224
   altitude: 475.5
   focal_length: 35.0
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 400
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
+  time: 2016-05-26 12:30:26.000000000+02:00
+- image_filename: IMGP0596raw1.jpg
+  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
+  lat: 49.545852777777775
+  lon: 21.498747222222224
+  altitude: 475.5
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 8.0
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2016-05-26 12:30:29+02:00
+  iso: 400
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2016-05-26 12:30:29.000000000+02:00
 - image_filename: IMGP0604raw1.jpg
   post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.50906027777778
+  lat: 49.50906111111111
   lon: 21.5094
   altitude: 358.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-05-26 14:01:02+02:00
+  time: 2016-05-26 14:01:02.000000000+02:00
 - image_filename: IMGP0606raw1.jpg
   post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.49188388888889
-  lon: 21.507948333333335
+  lat: 49.491883333333334
+  lon: 21.50794722222222
   altitude: 416.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-05-26 14:12:20+02:00
-- image_filename: IMGP0621raw1.jpg
-  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.44077083333333
-  lon: 21.51201888888889
-  altitude: 551.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-05-26 16:55:28+02:00
-- image_filename: IMGP0649raw1.jpg
-  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.44472666666666
-  lon: 21.50387
-  altitude: 591.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-05-26 17:02:02+02:00
-- image_filename: IMGP0662raw1.jpg
-  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.44961472222222
-  lon: 21.49969666666667
-  altitude: 627.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-05-26 17:24:23+02:00
-- image_filename: IMGP0616raw1.jpg
-  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.44033388888889
-  lon: 21.518625277777776
-  altitude: 529.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2016-05-26 16:47:38+02:00
-- image_filename: IMGP0557raw1.jpg
-  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.641059166666665
-  lon: 21.334565555555553
-  altitude: 372.2
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-05-26 11:23:57+02:00
-- image_filename: IMGP0552raw1.jpg
-  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.75853111111111
-  lon: 21.29758277777778
-  altitude: 243.4
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-05-26 11:04:58+02:00
-- image_filename: IMGP0594raw1.jpg
-  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.545853888888885
-  lon: 21.49874861111111
-  altitude: 475.5
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2016-05-26 12:30:26+02:00
+  time: 2016-05-26 14:12:20.000000000+02:00
 - image_filename: IMGP0615raw1.jpg
   post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
-  lat: 49.44033388888889
-  lon: 21.518625277777776
+  lat: 49.44033333333333
+  lon: 21.518625
   altitude: 529.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2016-05-26 16:47:29.000000000+02:00
+- image_filename: IMGP0616raw1.jpg
+  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
+  lat: 49.44033333333333
+  lon: 21.518625
+  altitude: 529.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2016-05-26 16:47:29+02:00
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-26 16:47:38.000000000+02:00
+- image_filename: IMGP0621raw1.jpg
+  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
+  lat: 49.44077222222222
+  lon: 21.512019444444444
+  altitude: 551.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-26 16:55:28.000000000+02:00
+- image_filename: IMGP0649raw1.jpg
+  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
+  lat: 49.44472777777777
+  lon: 21.503869444444444
+  altitude: 591.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-26 17:02:02.000000000+02:00
+- image_filename: IMGP0662raw1.jpg
+  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
+  lat: 49.449613888888884
+  lon: 21.499697222222224
+  altitude: 627.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-26 17:24:23.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy
+  lat: 49.44334444444444
+  lon: 21.50691388888889
+  altitude: 571.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 2000
+  height: 1326
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-05-26 16:58:51.000000000+02:00

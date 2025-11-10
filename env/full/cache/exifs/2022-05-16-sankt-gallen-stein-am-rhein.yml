@@ -1,24 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-- image_filename: 2022_05_16__06_16_P5165852.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.88070833333333
-  lon: 10.040541666666666
-  altitude: 636.0
-  focal_length: 120.0
-  focal_length_35: 240.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1.45
-  iso: 200
-  width: 8148
-  height: 6065
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-16 06:16:41.000000000+02:00
 - image_filename: 2022_05_16__05_07_P5165802.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 48.213166666666666
@@ -37,6 +17,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 05:07:22.000000000+02:00
+- image_filename: 2022_05_16__06_16_P5165852.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.88070833333333
+  lon: 10.040541666666666
+  altitude: 636.0
+  focal_length: 120.0
+  focal_length_35: 240.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.45
+  iso: 200
+  width: 8148
+  height: 6065
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-16 06:16:41.000000000+02:00
 - image_filename: 2022_05_16__07_33_P5165958.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.414125
@@ -127,6 +125,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:18:59.000000000+02:00
+- image_filename: 2022_05_16__08_19_P5166029.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.42570833333333
+  lon: 9.376319444444444
+  altitude: 607.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 19.52
+  iso: 200
+  width: 5164
+  height: 3807
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 08:19:57.000000000+02:00
 - image_filename: 2022_05_16__08_20_P5166030.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.42569444444444
@@ -163,42 +179,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:20:27.000000000+02:00
-- image_filename: 2022_05_16__08_19_P5166029.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42570833333333
-  lon: 9.376319444444444
-  altitude: 607.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 19.52
-  iso: 200
-  width: 5164
-  height: 3807
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 08:19:57.000000000+02:00
-- image_filename: 2022_05_16__08_23_P5166042.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42497222222222
-  lon: 9.376555555555557
-  altitude: 618.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 25.17
-  iso: 200
-  width: 3840
-  height: 5220
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 08:23:45.000000000+02:00
 - image_filename: 2022_05_16__08_23_P5166041.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.425
@@ -217,6 +197,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:23:35.000000000+02:00
+- image_filename: 2022_05_16__08_23_P5166042.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.42497222222222
+  lon: 9.376555555555557
+  altitude: 618.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 25.17
+  iso: 200
+  width: 3840
+  height: 5220
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 08:23:45.000000000+02:00
+- image_filename: 2022_05_16__08_24_P5166046.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.42498611111111
+  lon: 9.376541666666666
+  altitude: 620.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 22.26
+  iso: 200
+  width: 3885
+  height: 5227
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 08:24:19.000000000+02:00
 - image_filename: 2022_05_16__08_25_P5166048.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.424680555555554
@@ -253,42 +269,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:25:47.000000000+02:00
-- image_filename: 2022_05_16__08_24_P5166046.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42498611111111
-  lon: 9.376541666666666
-  altitude: 620.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 22.26
-  iso: 200
-  width: 3885
-  height: 5227
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 08:24:19.000000000+02:00
-- image_filename: 2022_05_16__08_31_P5166061.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42347222222222
-  lon: 9.377680555555557
-  altitude: 632.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 43.12
-  iso: 200
-  width: 7533
-  height: 5871
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 08:31:27.000000000+02:00
 - image_filename: 2022_05_16__08_25_P5166051.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.42459722222222
@@ -307,24 +287,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:25:59.000000000+02:00
-- image_filename: 2022_05_16__08_29_P5166058.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42352777777778
-  lon: 9.376875
-  altitude: 630.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.2
-  exposure_string: 1/5 s
-  focus_distance: 9.15
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 08:29:49.000000000+02:00
 - image_filename: 2022_05_16__08_28_P5166056.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.42345833333333
@@ -343,24 +305,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:28:20.000000000+02:00
-- image_filename: 2022_05_16__08_38_P5166071.jpg
+- image_filename: 2022_05_16__08_29_P5166058.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42315277777777
-  lon: 9.375847222222223
-  altitude: 639.0
-  focal_length: 20.0
-  focal_length_35: 40.0
+  lat: 47.42352777777778
+  lon: 9.376875
+  altitude: 630.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 9.15
   iso: 200
-  width: 7731
-  height: 5836
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-16 08:38:36.000000000+02:00
+  time: 2022-05-16 08:29:49.000000000+02:00
+- image_filename: 2022_05_16__08_31_P5166061.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.42347222222222
+  lon: 9.377680555555557
+  altitude: 632.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 43.12
+  iso: 200
+  width: 7533
+  height: 5871
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 08:31:27.000000000+02:00
+- image_filename: 2022_05_16__08_33_P5166064.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.42305555555555
+  lon: 9.376375000000001
+  altitude: 634.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 13.72
+  iso: 200
+  width: 6687
+  height: 5498
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 08:33:31.000000000+02:00
 - image_filename: 2022_05_16__08_37_P5166068.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.42333333333333
@@ -379,42 +377,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:37:14.000000000+02:00
-- image_filename: 2022_05_16__08_33_P5166064.jpg
+- image_filename: 2022_05_16__08_38_P5166071.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42305555555555
-  lon: 9.376375000000001
-  altitude: 634.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 47.42315277777777
+  lon: 9.375847222222223
+  altitude: 639.0
+  focal_length: 20.0
+  focal_length_35: 40.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 13.72
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
   iso: 200
-  width: 6687
-  height: 5498
+  width: 7731
+  height: 5836
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-16 08:33:31.000000000+02:00
-- image_filename: 2022_05_16__08_39_P5166074.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42276388888889
-  lon: 9.375972222222222
-  altitude: 641.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 2.74
-  iso: 200
-  width: 4772
-  height: 3899
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 08:39:48.000000000+02:00
+  time: 2022-05-16 08:38:36.000000000+02:00
 - image_filename: 2022_05_16__08_39_P5166072.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.422916666666666
@@ -433,6 +413,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:39:06.000000000+02:00
+- image_filename: 2022_05_16__08_39_P5166074.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.42276388888889
+  lon: 9.375972222222222
+  altitude: 641.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.74
+  iso: 200
+  width: 4772
+  height: 3899
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 08:39:48.000000000+02:00
+- image_filename: 2022_05_16__08_39_P5166075.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.42273611111111
+  lon: 9.375972222222222
+  altitude: 642.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.15
+  iso: 200
+  width: 5110
+  height: 3872
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 08:39:52.000000000+02:00
 - image_filename: 2022_05_16__08_40_P5166078.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.422694444444446
@@ -469,24 +485,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:41:07.000000000+02:00
-- image_filename: 2022_05_16__08_39_P5166075.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42273611111111
-  lon: 9.375972222222222
-  altitude: 642.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 8.15
-  iso: 200
-  width: 5110
-  height: 3872
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 08:39:52.000000000+02:00
 - image_filename: 2022_05_16__08_41_P5166080.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.42319444444444
@@ -505,6 +503,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:41:44.000000000+02:00
+- image_filename: 2022_05_16__08_56_P5166085.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.42252777777777
+  lon: 9.376680555555556
+  altitude: 649.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 7.9
+  iso: 200
+  width: 5047
+  height: 3799
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 08:56:26.000000000+02:00
 - image_filename: 2022_05_16__08_56_P5166086.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.42252777777777
@@ -541,24 +557,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 08:57:01.000000000+02:00
-- image_filename: 2022_05_16__08_56_P5166085.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42252777777777
-  lon: 9.376680555555556
-  altitude: 649.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 7.9
-  iso: 200
-  width: 5047
-  height: 3799
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 08:56:26.000000000+02:00
 - image_filename: 2022_05_16__09_31_P5166089.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.42247222222222
@@ -595,6 +593,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 09:32:05.000000000+02:00
+- image_filename: 2022_05_16__09_33_P5166093.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.422444444444444
+  lon: 9.376125
+  altitude: 659.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 11.25
+  iso: 200
+  width: 5657
+  height: 8049
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 09:33:06.000000000+02:00
 - image_filename: 2022_05_16__09_58_P5166094.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.42341666666666
@@ -631,60 +647,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 10:03:04.000000000+02:00
-- image_filename: 2022_05_16__09_33_P5166093.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.422444444444444
-  lon: 9.376125
-  altitude: 659.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 11.25
-  iso: 200
-  width: 5657
-  height: 8049
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 09:33:06.000000000+02:00
-- image_filename: 2022_05_16__10_37_P5166260.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.45322222222222
-  lon: 9.140291666666666
-  altitude: 508.0
-  focal_length: 85.0
-  focal_length_35: 170.0
-  crop: 2.0
-  aperture: 3.2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 26.94
-  iso: 200
-  width: 5142
-  height: 3778
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-16 10:37:17.000000000+02:00
-- image_filename: 2022_05_16__10_31_P5166164.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.42622222222222
-  lon: 9.25426388888889
-  altitude: 674.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 97.52
-  iso: 250
-  width: 5189
-  height: 3856
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-16 10:31:21.000000000+02:00
 - image_filename: 2022_05_16__10_08_P5166101.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.42573611111111
@@ -721,24 +683,42 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-05-16 10:26:39.000000000+02:00
-- image_filename: 2022_05_16__11_11_P5166363.jpg
+- image_filename: 2022_05_16__10_31_P5166164.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.60790277777778
-  lon: 8.917333333333334
-  altitude: 511.0
-  focal_length: 70.0
-  focal_length_35: 140.0
+  lat: 47.42622222222222
+  lon: 9.25426388888889
+  altitude: 674.0
+  focal_length: 150.0
+  focal_length_35: 300.0
   crop: 2.0
   aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 14.32
-  iso: 200
-  width: 4901
-  height: 3554
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 97.52
+  iso: 250
+  width: 5189
+  height: 3856
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-05-16 11:11:44.000000000+02:00
+  time: 2022-05-16 10:31:21.000000000+02:00
+- image_filename: 2022_05_16__10_37_P5166260.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.45322222222222
+  lon: 9.140291666666666
+  altitude: 508.0
+  focal_length: 85.0
+  focal_length_35: 170.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 26.94
+  iso: 200
+  width: 5142
+  height: 3778
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-16 10:37:17.000000000+02:00
 - image_filename: 2022_05_16__11_03_P5166325.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.57270833333334
@@ -757,24 +737,24 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-05-16 11:03:06.000000000+02:00
-- image_filename: 2022_05_16__11_13_P5166380.jpg
+- image_filename: 2022_05_16__11_11_P5166363.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.60566666666667
-  lon: 8.902055555555556
-  altitude: 532.0
-  focal_length: 46.0
-  focal_length_35: 92.0
+  lat: 47.60790277777778
+  lon: 8.917333333333334
+  altitude: 511.0
+  focal_length: 70.0
+  focal_length_35: 140.0
   crop: 2.0
-  aperture: 3.2
+  aperture: 2.8
   exposure: 0.002
   exposure_string: 1/500 s
-  focus_distance: 7.86
-  iso: 250
-  width: 5169
-  height: 3817
+  focus_distance: 14.32
+  iso: 200
+  width: 4901
+  height: 3554
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-05-16 11:13:32.000000000+02:00
+  time: 2022-05-16 11:11:44.000000000+02:00
 - image_filename: 2022_05_16__11_13_P5166372.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.60502777777778
@@ -793,24 +773,24 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-05-16 11:13:20.000000000+02:00
-- image_filename: 2022_05_16__11_24_P5166438.jpg
+- image_filename: 2022_05_16__11_13_P5166380.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.66269444444444
-  lon: 8.838486111111111
-  altitude: 416.0
-  focal_length: 150.0
-  focal_length_35: 300.0
+  lat: 47.60566666666667
+  lon: 8.902055555555556
+  altitude: 532.0
+  focal_length: 46.0
+  focal_length_35: 92.0
   crop: 2.0
   aperture: 3.2
   exposure: 0.002
   exposure_string: 1/500 s
-  focus_distance: 80.31
-  iso: 640
-  width: 5239
-  height: 3911
+  focus_distance: 7.86
+  iso: 250
+  width: 5169
+  height: 3817
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-05-16 11:24:36.000000000+02:00
+  time: 2022-05-16 11:13:32.000000000+02:00
 - image_filename: 2022_05_16__11_19_P5166432.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.646
@@ -829,24 +809,24 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-05-16 11:19:38.000000000+02:00
-- image_filename: 2022_05_16__11_48_P5166502.jpg
+- image_filename: 2022_05_16__11_24_P5166438.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.66001388888889
-  lon: 8.858777777777778
-  altitude: 402.0
-  focal_length: 31.0
-  focal_length_35: 62.0
+  lat: 47.66269444444444
+  lon: 8.838486111111111
+  altitude: 416.0
+  focal_length: 150.0
+  focal_length_35: 300.0
   crop: 2.0
-  aperture: 18.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 12.6
-  iso: 200
-  width: 5128
-  height: 3864
-  lens: OLYMPUS M.12-100mm F4.0
+  aperture: 3.2
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 80.31
+  iso: 640
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-05-16 11:48:29.000000000+02:00
+  time: 2022-05-16 11:24:36.000000000+02:00
 - image_filename: 2022_05_16__11_40_P5166492.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.66076388888889
@@ -865,6 +845,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 11:40:37.000000000+02:00
+- image_filename: 2022_05_16__11_48_P5166502.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.66001388888889
+  lon: 8.858777777777778
+  altitude: 402.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 18.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 12.6
+  iso: 200
+  width: 5128
+  height: 3864
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 11:48:29.000000000+02:00
 - image_filename: 2022_05_16__11_50_P5166507.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.659388888888884
@@ -883,6 +881,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 11:50:51.000000000+02:00
+- image_filename: 2022_05_16__11_51_P5166508.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.65931944444444
+  lon: 8.859291666666666
+  altitude: 402.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.49
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 11:51:26.000000000+02:00
 - image_filename: 2022_05_16__11_54_P5166515.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.659277777777774
@@ -919,42 +935,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 11:55:43.000000000+02:00
-- image_filename: 2022_05_16__11_51_P5166508.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.65931944444444
-  lon: 8.859291666666666
-  altitude: 402.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.49
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 11:51:26.000000000+02:00
-- image_filename: 2022_05_16__11_58_P5166522.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.65838888888889
-  lon: 8.859902777777778
-  altitude: 391.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 5.08
-  iso: 200
-  width: 7905
-  height: 5950
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 11:58:05.000000000+02:00
 - image_filename: 2022_05_16__11_55_P5166519.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.65873611111111
@@ -991,42 +971,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 11:57:39.000000000+02:00
-- image_filename: 2022_05_16__12_04_P5166529.jpg
+- image_filename: 2022_05_16__11_58_P5166522.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.65936111111111
-  lon: 8.859694444444443
-  altitude: 403.0
-  focal_length: 28.0
-  focal_length_35: 56.0
+  lat: 47.65838888888889
+  lon: 8.859902777777778
+  altitude: 391.0
+  focal_length: 24.0
+  focal_length_35: 48.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 4.82
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.08
   iso: 200
-  width: 7576
-  height: 5874
+  width: 7905
+  height: 5950
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-16 12:04:02.000000000+02:00
-- image_filename: 2022_05_16__12_00_P5166526.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.658902777777776
-  lon: 8.860083333333334
-  altitude: 401.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 3.61
-  iso: 200
-  width: 6971
-  height: 5147
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 12:00:32.000000000+02:00
+  time: 2022-05-16 11:58:05.000000000+02:00
 - image_filename: 2022_05_16__11_58_P5166524.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.65836111111111
@@ -1045,6 +1007,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 11:58:56.000000000+02:00
+- image_filename: 2022_05_16__12_00_P5166526.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.658902777777776
+  lon: 8.860083333333334
+  altitude: 401.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.61
+  iso: 200
+  width: 6971
+  height: 5147
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 12:00:32.000000000+02:00
 - image_filename: 2022_05_16__12_01_P5166527.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.65925
@@ -1063,6 +1043,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 12:01:30.000000000+02:00
+- image_filename: 2022_05_16__12_04_P5166529.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.65936111111111
+  lon: 8.859694444444443
+  altitude: 403.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.82
+  iso: 200
+  width: 7576
+  height: 5874
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 12:04:02.000000000+02:00
 - image_filename: 2022_05_16__12_23_P5166537.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.66041666666666
@@ -1189,24 +1187,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 13:07:04.000000000+02:00
-- image_filename: 2022_05_16__13_33_P5166769.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.67686111111111
-  lon: 8.614833333333333
-  altitude: 418.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.05
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 13:33:16.000000000+02:00
 - image_filename: 2022_05_16__13_20_P5166675.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.69308333333333
@@ -1243,24 +1223,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 13:24:12.000000000+02:00
-- image_filename: 2022_05_16__13_44_P5166788.jpg
+- image_filename: 2022_05_16__13_33_P5166769.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.677277777777775
-  lon: 8.614944444444443
-  altitude: 392.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 47.67686111111111
+  lon: 8.614833333333333
+  altitude: 418.0
+  focal_length: 24.0
+  focal_length_35: 48.0
   crop: 2.0
-  aperture: 16.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 104.36
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.05
   iso: 200
-  width: 4829
-  height: 2745
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-16 13:44:05.000000000+02:00
+  time: 2022-05-16 13:33:16.000000000+02:00
 - image_filename: 2022_05_16__13_37_P5166775.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.677055555555555
@@ -1279,6 +1259,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 13:37:25.000000000+02:00
+- image_filename: 2022_05_16__13_44_P5166788.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.677277777777775
+  lon: 8.614944444444443
+  altitude: 392.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 16.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 104.36
+  iso: 200
+  width: 4829
+  height: 2745
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 13:44:05.000000000+02:00
 - image_filename: 2022_05_16__13_44_P5166789.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.677277777777775
@@ -1297,24 +1295,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 13:44:14.000000000+02:00
-- image_filename: 2022_05_16__14_06_P5166883.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.67706944444444
-  lon: 8.614597222222223
-  altitude: 389.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 14.66
-  iso: 200
-  width: 3431
-  height: 5231
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 14:06:44.000000000+02:00
 - image_filename: 2022_05_16__14_04_P5166871.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.67722222222222
@@ -1333,6 +1313,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 14:04:36.000000000+02:00
+- image_filename: 2022_05_16__14_06_P5166883.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.67706944444444
+  lon: 8.614597222222223
+  altitude: 389.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 14.66
+  iso: 200
+  width: 3431
+  height: 5231
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-16 14:06:44.000000000+02:00
 - image_filename: 2022_05_16__14_35_P5166903.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.677375
@@ -1369,24 +1367,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 14:54:18.000000000+02:00
-- image_filename: 2022_05_16__15_12_P5167109.jpg
-  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.91906944444444
-  lon: 8.484805555555555
-  altitude: 702.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 101.14
-  iso: 2000
-  width: 5135
-  height: 3772
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-16 15:12:53.000000000+02:00
 - image_filename: 2022_05_16__15_01_P5166988.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.83829166666667
@@ -1423,24 +1403,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 15:03:51.000000000+02:00
-- image_filename: 2022_05_16__19_09_P5167141.jpg
+- image_filename: 2022_05_16__15_12_P5167109.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.96284722222222
-  lon: 8.474
-  altitude: 679.0
-  focal_length: 150.0
-  focal_length_35: 300.0
+  lat: 47.91906944444444
+  lon: 8.484805555555555
+  altitude: 702.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 3.2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 5.0
-  iso: 1000
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 101.14
+  iso: 2000
+  width: 5135
+  height: 3772
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-16 19:09:32.000000000+02:00
+  time: 2022-05-16 15:12:53.000000000+02:00
 - image_filename: 2022_05_16__19_02_P5167114.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.96365277777778
@@ -1459,24 +1439,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-16 19:02:46.000000000+02:00
-- image_filename: 2022_05_16__19_20_P5167181.jpg
+- image_filename: 2022_05_16__19_09_P5167141.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
-  lat: 47.96318055555556
-  lon: 8.475861111111112
-  altitude: 682.0
+  lat: 47.96284722222222
+  lon: 8.474
+  altitude: 679.0
   focal_length: 150.0
   focal_length_35: 300.0
   crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 46.54
-  iso: 320
+  aperture: 3.2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.0
+  iso: 1000
   width: 5239
   height: 3911
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-05-16 19:20:23.000000000+02:00
+  time: 2022-05-16 19:09:32.000000000+02:00
 - image_filename: 2022_05_16__19_09_P5167143.jpg
   post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
   lat: 47.96284722222222
@@ -1495,3 +1475,21 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-05-16 19:09:40.000000000+02:00
+- image_filename: 2022_05_16__19_20_P5167181.jpg
+  post_slug: 2022-05-16-sankt-gallen-stein-am-rhein
+  lat: 47.96318055555556
+  lon: 8.475861111111112
+  altitude: 682.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 46.54
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-16 19:20:23.000000000+02:00

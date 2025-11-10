@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_01_10__11_07__1100716.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.75259722222222
-  lon: 15.706249999999999
-  altitude: 1203.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4981
-  height: 3719
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-01-10 11:07:37+01:00
-  focus_distance: 32.51
 - image_filename: 2019_01_10__09_06__1100627.jpg
   post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
   lat: 50.776513888888886
@@ -26,159 +8,15 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.66
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 4657
   height: 3791
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-01-10 09:06:50+01:00
-  focus_distance: 2.66
-- image_filename: 2019_01_10__09_34__1100639.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.775819444444444
-  lon: 15.716972222222223
-  altitude: 947.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-01-10 09:34:55+01:00
-  focus_distance: 4.9
-- image_filename: 2019_01_10__10_33__1100660.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.758541666666666
-  lon: 15.704208333333332
-  altitude: 1086.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-01-10 10:33:45+01:00
-  focus_distance: 2.91
-- image_filename: 2019_01_10__10_50__1100685.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.75551388888889
-  lon: 15.70411111111111
-  altitude: 1135.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-01-10 10:50:57+01:00
-  focus_distance: 7.76
-- image_filename: 2019_01_10__11_01__1100700.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.752625
-  lon: 15.704527777777777
-  altitude: 1179.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5029
-  height: 3910
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-01-10 11:01:39+01:00
-  focus_distance: 4.28
-- image_filename: 2019_01_10__11_20__1100724.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.75238888888889
-  lon: 15.709069444444443
-  altitude: 1232.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-01-10 11:20:07+01:00
-  focus_distance: 3.81
-- image_filename: 2019_01_10__11_24__1100734.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.751194444444444
-  lon: 15.708777777777778
-  altitude: 1256.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-01-10 11:24:30+01:00
-  focus_distance: 3.97
-- image_filename: 2019_01_10__11_02__1100703.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.75251388888889
-  lon: 15.704555555555554
-  altitude: 1181.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-01-10 11:02:03+01:00
-  focus_distance: 2.98
-- image_filename: 2019_01_10__10_59__1100693.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.75313888888889
-  lon: 15.70459722222222
-  altitude: 1173.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4977
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-01-10 10:59:36+01:00
-  focus_distance: 5.72
+  time: 2019-01-10 09:06:50.000000000+01:00
 - image_filename: 2019_01_10__09_34__1100636_01.jpg
   post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
   lat: 50.775888888888886
@@ -188,33 +26,33 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-01-10 09:34:40+01:00
   focus_distance: 21.67
-- image_filename: 2019_01_10__10_40__1100677.jpg
-  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
-  lat: 50.756861111111114
-  lon: 15.705041666666666
-  altitude: 1109.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 5.0
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-01-10 10:40:44+01:00
-  focus_distance: 8.06
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 09:34:40.000000000+01:00
+- image_filename: 2019_01_10__09_34__1100639.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.775819444444444
+  lon: 15.716972222222223
+  altitude: 947.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.9
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 09:34:55.000000000+01:00
 - image_filename: 2019_01_10__09_37__1100642.jpg
   post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
   lat: 50.77506944444444
@@ -224,12 +62,174 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.025
   exposure_string: 1/40 s
-  time: 2019-01-10 09:37:19+01:00
   focus_distance: 10.09
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 09:37:19.000000000+01:00
+- image_filename: 2019_01_10__10_33__1100660.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.758541666666666
+  lon: 15.704208333333332
+  altitude: 1086.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.91
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 10:33:45.000000000+01:00
+- image_filename: 2019_01_10__10_40__1100677.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.756861111111114
+  lon: 15.705041666666666
+  altitude: 1109.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 8.06
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 10:40:44.000000000+01:00
+- image_filename: 2019_01_10__10_50__1100685.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.75551388888889
+  lon: 15.70411111111111
+  altitude: 1135.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 7.76
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 10:50:57.000000000+01:00
+- image_filename: 2019_01_10__10_59__1100693.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.75313888888889
+  lon: 15.70459722222222
+  altitude: 1173.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.72
+  iso: 200
+  width: 4977
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 10:59:36.000000000+01:00
+- image_filename: 2019_01_10__11_01__1100700.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.752625
+  lon: 15.704527777777777
+  altitude: 1179.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.28
+  iso: 200
+  width: 5029
+  height: 3910
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 11:01:39.000000000+01:00
+- image_filename: 2019_01_10__11_02__1100703.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.75251388888889
+  lon: 15.704555555555554
+  altitude: 1181.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.98
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 11:02:03.000000000+01:00
+- image_filename: 2019_01_10__11_07__1100716.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.75259722222222
+  lon: 15.706249999999999
+  altitude: 1203.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 32.51
+  iso: 200
+  width: 4981
+  height: 3719
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 11:07:37.000000000+01:00
+- image_filename: 2019_01_10__11_20__1100724.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.75238888888889
+  lon: 15.709069444444443
+  altitude: 1232.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.81
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 11:20:07.000000000+01:00
+- image_filename: 2019_01_10__11_24__1100734.jpg
+  post_slug: 2019-01-10-dotarcie-do-strzechy-akademickiej
+  lat: 50.751194444444444
+  lon: 15.708777777777778
+  altitude: 1256.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.97
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-10 11:24:30.000000000+01:00

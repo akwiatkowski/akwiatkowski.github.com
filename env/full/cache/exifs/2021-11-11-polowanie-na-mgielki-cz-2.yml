@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
 - image_filename: 2021_11_11__06_12_DSC00443.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.403930555555554
@@ -69,23 +67,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 06:31:14.000000000+01:00
-- image_filename: 2021_11_11__07_15_DSC00615.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.47152777777778
-  lon: 17.213708333333333
-  altitude: 97.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5945
-  height: 3885
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-11 07:15:49.000000000+01:00
 - image_filename: 2021_11_11__07_03_DSC00548.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.43318055555555
@@ -120,6 +101,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:14:34.000000000+01:00
+- image_filename: 2021_11_11__07_15_DSC00615.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.47152777777778
+  lon: 17.213708333333333
+  altitude: 97.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5945
+  height: 3885
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-11 07:15:49.000000000+01:00
 - image_filename: 2021_11_11__07_20_DSC00626.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.47002777777778
@@ -171,23 +169,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:23:19.000000000+01:00
-- image_filename: 2021_11_11__07_25_DSC00658.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.469611111111114
-  lon: 17.218916666666665
-  altitude: 94.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-11 07:25:03.000000000+01:00
 - image_filename: 2021_11_11__07_24_DSC00650.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.469680555555556
@@ -222,6 +203,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:24:54.000000000+01:00
+- image_filename: 2021_11_11__07_25_DSC00658.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.469611111111114
+  lon: 17.218916666666665
+  altitude: 94.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-11 07:25:03.000000000+01:00
 - image_filename: 2021_11_11__07_25_DSC00662.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.469625
@@ -239,23 +237,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:25:25.000000000+01:00
-- image_filename: 2021_11_11__07_26_DSC00670.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.46965277777778
-  lon: 17.219152777777776
-  altitude: 95.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-11 07:26:35.000000000+01:00
 - image_filename: 2021_11_11__07_25_DSC00663.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.46959722222223
@@ -273,6 +254,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:25:42.000000000+01:00
+- image_filename: 2021_11_11__07_26_DSC00670.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.46965277777778
+  lon: 17.219152777777776
+  altitude: 95.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-11 07:26:35.000000000+01:00
 - image_filename: 2021_11_11__07_26_DSC00671.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.469680555555556
@@ -307,23 +305,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:27:52.000000000+01:00
-- image_filename: 2021_11_11__07_29_DSC00694.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.47025
-  lon: 17.22
-  altitude: 96.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 200
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-11 07:29:31.000000000+01:00
 - image_filename: 2021_11_11__07_28_DSC00682.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.46998611111111
@@ -358,6 +339,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:29:17.000000000+01:00
+- image_filename: 2021_11_11__07_29_DSC00694.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.47025
+  lon: 17.22
+  altitude: 96.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-11 07:29:31.000000000+01:00
 - image_filename: 2021_11_11__07_29_DSC00696.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.47025
@@ -375,23 +373,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:29:39.000000000+01:00
-- image_filename: 2021_11_11__07_30_DSC00706.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.47020833333333
-  lon: 17.220374999999997
-  altitude: 96.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 200
-  width: 5733
-  height: 3834
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-11 07:30:46.000000000+01:00
 - image_filename: 2021_11_11__07_30_DSC00702.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.47025
@@ -409,23 +390,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:30:15.000000000+01:00
-- image_filename: 2021_11_11__07_34_DSC00728.jpg
+- image_filename: 2021_11_11__07_30_DSC00706.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.47015277777778
-  lon: 17.221902777777775
-  altitude: 98.0
+  lat: 52.47020833333333
+  lon: 17.220374999999997
+  altitude: 96.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5596
-  height: 3772
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5733
+  height: 3834
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-11-11 07:34:22.000000000+01:00
+  time: 2021-11-11 07:30:46.000000000+01:00
 - image_filename: 2021_11_11__07_34_DSC00726.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.47015277777778
@@ -443,40 +424,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:34:12.000000000+01:00
-- image_filename: 2021_11_11__07_36_DSC00747.jpg
+- image_filename: 2021_11_11__07_34_DSC00728.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.470222222222226
-  lon: 17.222291666666663
+  lat: 52.47015277777778
+  lon: 17.221902777777775
   altitude: 98.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 125
-  width: 6047
-  height: 4023
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5596
+  height: 3772
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-11-11 07:36:24.000000000+01:00
-- image_filename: 2021_11_11__07_35_DSC00742.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.47027777777778
-  lon: 17.222194444444444
-  altitude: 98.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 200
-  width: 5820
-  height: 3712
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-11 07:35:45.000000000+01:00
+  time: 2021-11-11 07:34:22.000000000+01:00
 - image_filename: 2021_11_11__07_35_DSC00741.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.47027777777778
@@ -494,6 +458,40 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 07:35:40.000000000+01:00
+- image_filename: 2021_11_11__07_35_DSC00742.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.47027777777778
+  lon: 17.222194444444444
+  altitude: 98.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5820
+  height: 3712
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-11 07:35:45.000000000+01:00
+- image_filename: 2021_11_11__07_36_DSC00747.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.470222222222226
+  lon: 17.222291666666663
+  altitude: 98.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-11 07:36:24.000000000+01:00
 - image_filename: 2021_11_11__07_38_DSC00756.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.47025
@@ -562,6 +560,23 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-11-11 07:44:41.000000000+01:00
+- image_filename: 2021_11_11__07_45_DSC00794.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.46856944444445
+  lon: 17.22634722222222
+  altitude: 104.0
+  focal_length: 340.5
+  focal_length_35: 340.0
+  crop: 0.9985315712187959
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 6400
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-11-11 07:45:55.000000000+01:00
 - image_filename: 2021_11_11__07_46_DSC00797.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.4685
@@ -596,23 +611,6 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-11-11 07:47:20.000000000+01:00
-- image_filename: 2021_11_11__07_45_DSC00794.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.46856944444445
-  lon: 17.22634722222222
-  altitude: 104.0
-  focal_length: 340.5
-  focal_length_35: 340.0
-  crop: 0.9985315712187959
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 6400
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-11-11 07:45:55.000000000+01:00
 - image_filename: 2021_11_11__07_51_DSC00809.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.46768055555556
@@ -698,23 +696,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 08:02:04.000000000+01:00
-- image_filename: 2021_11_11__08_04_DSC00889.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.465875000000004
-  lon: 17.22906944444444
-  altitude: 102.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.01
-  exposure_string: 1/100 s
-  iso: 100
-  width: 5706
-  height: 3641
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-11 08:04:56.000000000+01:00
 - image_filename: 2021_11_11__08_04_DSC00885.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.46584722222222
@@ -732,23 +713,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 08:04:23.000000000+01:00
-- image_filename: 2021_11_11__08_10_DSC00907.jpg
+- image_filename: 2021_11_11__08_04_DSC00889.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.467111111111116
-  lon: 17.228055555555553
-  altitude: 103.0
-  focal_length: 143.5
-  focal_length_35: 143.0
-  crop: 0.9965156794425087
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 160
-  width: 4024
-  height: 6048
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  lat: 52.465875000000004
+  lon: 17.22906944444444
+  altitude: 102.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5706
+  height: 3641
+  lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-11-11 08:10:22.000000000+01:00
+  time: 2021-11-11 08:04:56.000000000+01:00
 - image_filename: 2021_11_11__08_06_DSC00894.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.46625
@@ -766,6 +747,40 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-11-11 08:06:35.000000000+01:00
+- image_filename: 2021_11_11__08_10_DSC00907.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.467111111111116
+  lon: 17.228055555555553
+  altitude: 103.0
+  focal_length: 143.5
+  focal_length_35: 143.0
+  crop: 0.9965156794425087
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 160
+  width: 4024
+  height: 6048
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-11-11 08:10:22.000000000+01:00
+- image_filename: 2021_11_11__08_10_DSC00911.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.46716666666667
+  lon: 17.227888888888888
+  altitude: 103.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-11-11 08:10:35.000000000+01:00
 - image_filename: 2021_11_11__08_18_DSC00931.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.46723611111111
@@ -800,23 +815,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 08:19:25.000000000+01:00
-- image_filename: 2021_11_11__08_10_DSC00911.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.46716666666667
-  lon: 17.227888888888888
-  altitude: 103.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 160
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-11-11 08:10:35.000000000+01:00
 - image_filename: 2021_11_11__08_25_DSC00945.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.467736111111115
@@ -885,6 +883,23 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-11-11 08:26:44.000000000+01:00
+- image_filename: 2021_11_11__08_27_DSC00963.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.467777777777776
+  lon: 17.226527777777775
+  altitude: 94.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-11 08:27:48.000000000+01:00
 - image_filename: 2021_11_11__08_29_DSC00971.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.467819444444444
@@ -919,23 +934,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 08:30:07.000000000+01:00
-- image_filename: 2021_11_11__08_27_DSC00963.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.467777777777776
-  lon: 17.226527777777775
-  altitude: 94.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-11 08:27:48.000000000+01:00
 - image_filename: 2021_11_11__08_30_DSC00982.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.467777777777776
@@ -1021,23 +1019,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-11-11 08:39:23.000000000+01:00
-- image_filename: 2021_11_11__08_41_DSC01031.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.470194444444445
-  lon: 17.222291666666663
-  altitude: 101.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 200
-  width: 5812
-  height: 3825
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-11-11 08:41:52.000000000+01:00
 - image_filename: 2021_11_11__08_41_DSC01030_01.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.470194444444445
@@ -1055,23 +1036,23 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-11-11 08:41:50.000000000+01:00
-- image_filename: 2021_11_11__08_47_DSC01057.jpg
+- image_filename: 2021_11_11__08_41_DSC01031.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.469569444444446
-  lon: 17.218194444444443
-  altitude: 105.0
-  focal_length: 85.0
-  focal_length_35: 85.0
+  lat: 52.470194444444445
+  lon: 17.222291666666663
+  altitude: 101.0
+  focal_length: 400.0
+  focal_length_35: 400.0
   crop: 1.0
-  aperture: 1.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 5922
-  height: 3940
-  lens: FE 85mm F1.8
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5812
+  height: 3825
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  time: 2021-11-11 08:47:34.000000000+01:00
+  time: 2021-11-11 08:41:52.000000000+01:00
 - image_filename: 2021_11_11__08_47_DSC01053.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.46955555555556
@@ -1089,23 +1070,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 08:47:17.000000000+01:00
-- image_filename: 2021_11_11__08_52_DSC01067.jpg
+- image_filename: 2021_11_11__08_47_DSC01057.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.47163888888889
-  lon: 17.21375
-  altitude: 110.0
-  focal_length: 75.0
-  focal_length_35: 75.0
+  lat: 52.469569444444446
+  lon: 17.218194444444443
+  altitude: 105.0
+  focal_length: 85.0
+  focal_length_35: 85.0
   crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
+  aperture: 1.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 100
-  width: 5961
-  height: 3964
-  lens: E 28-75mm F2.8-2.8
+  width: 5922
+  height: 3940
+  lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-11-11 08:52:19.000000000+01:00
+  time: 2021-11-11 08:47:34.000000000+01:00
 - image_filename: 2021_11_11__08_51_DSC01061.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.47138888888889
@@ -1123,6 +1104,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-11-11 08:51:14.000000000+01:00
+- image_filename: 2021_11_11__08_52_DSC01067.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.47163888888889
+  lon: 17.21375
+  altitude: 110.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5961
+  height: 3964
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-11-11 08:52:19.000000000+01:00
 - image_filename: 2021_11_11__09_00_DSC01077_01.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.46106944444445
@@ -1140,23 +1138,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 09:00:42.000000000+01:00
-- image_filename: 2021_11_11__09_07_DSC01173_01.jpg
-  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
-  lat: 52.43522222222222
-  lon: 17.03679166666667
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  iso: 100
-  width: 5787
-  height: 3794
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-11-11 09:07:40.000000000+01:00
 - image_filename: 2021_11_11__09_05_DSC01132.jpg
   post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
   lat: 52.44459722222222
@@ -1188,6 +1169,23 @@
   iso: 100
   width: 5408
   height: 3629
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-11 09:07:40.000000000+01:00
+- image_filename: 2021_11_11__09_07_DSC01173_01.jpg
+  post_slug: 2021-11-11-polowanie-na-mgielki-cz-2
+  lat: 52.43522222222222
+  lon: 17.03679166666667
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 100
+  width: 5787
+  height: 3794
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-11-11 09:07:40.000000000+01:00

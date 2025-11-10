@@ -1,769 +1,4 @@
 ---
-- image_filename: 2019_06_20__12_56__6201761.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.14241666666667
-  lon: 16.749125
-  altitude: 53.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5073
-  height: 3631
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-20 12:56:16+02:00
-  focus_distance: 10.56
-- image_filename: 2019_06_20__11_09__6201643.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 52.75559722222222
-  lon: 16.972347222222222
-  altitude: 57.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4997
-  height: 3469
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-20 11:09:01+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__11_34_DSC07397.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 52.93837499999999
-  lon: 16.92275
-  altitude: 90.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7186
-  height: 4800
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-06-20 11:34:13+02:00
-- image_filename: 2019_06_20__11_48__6201656.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 52.99472222222222
-  lon: 16.909569444444443
-  altitude: 65.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5163
-  height: 3601
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-20 11:48:26+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__12_16__6201668.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.01102777777778
-  lon: 16.908263888888886
-  altitude: 65.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-20 12:16:12+02:00
-  focus_distance: 39.48
-- image_filename: 2019_06_20__12_23__6201718.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.06191666666666
-  lon: 16.83588888888889
-  altitude: 60.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4910
-  height: 3470
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-20 12:23:24+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__12_27__6201728.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.07068055555556
-  lon: 16.815402777777777
-  altitude: 64.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4965
-  height: 3606
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-20 12:27:02+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__12_42__6201742.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.14226388888889
-  lon: 16.750527777777776
-  altitude: 63.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5107
-  height: 3812
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-20 12:42:18+02:00
-  focus_distance: 5.72
-- image_filename: 2019_06_20__13_01__6201766.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.14230555555555
-  lon: 16.748472222222222
-  altitude: 50.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5030
-  height: 3755
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-20 13:01:07+02:00
-  focus_distance: 36.4
-- image_filename: 2019_06_20__13_21__6201802.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.06366666666666
-  lon: 16.727777777777778
-  altitude: 47.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5056
-  height: 3774
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-20 13:21:49+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__13_25__6201812.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.05305555555555
-  lon: 16.715180555555555
-  altitude: 50.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4520
-  height: 3319
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-20 13:25:45+02:00
-  focus_distance: 12.48
-- image_filename: 2019_06_20__14_53_DSC07415.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.14659722222222
-  lon: 16.652458333333332
-  altitude: 104.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 10.0
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7007
-  height: 4458
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-20 14:53:07+02:00
-- image_filename: 2019_06_20__15_06_DSC07431.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.19347222222222
-  lon: 16.557319444444445
-  altitude: 157.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6941
-  height: 4468
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-06-20 15:06:21+02:00
-- image_filename: 2019_06_20__15_23_DSC07447.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.277680555555555
-  lon: 16.483138888888888
-  altitude: 124.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-20 15:23:13+02:00
-- image_filename: 2019_06_20__15_38__6201869.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.22784722222222
-  lon: 16.30602777777778
-  altitude: 155.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-20 15:38:04+02:00
-  focus_distance: 32.9
-- image_filename: 2019_06_20__15_39__6201880.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.22929166666667
-  lon: 16.28391666666667
-  altitude: 142.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-20 15:39:32+02:00
-  focus_distance: 116.19
-- image_filename: 2019_06_20__15_46__6201908.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.21955555555556
-  lon: 16.183708333333332
-  altitude: 108.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5074
-  height: 3788
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-20 15:46:05+02:00
-  focus_distance: 34.86
-- image_filename: 2019_06_20__16_13__6201927.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.277166666666666
-  lon: 15.882833333333334
-  altitude: 97.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4978
-  height: 3568
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-20 16:13:53+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__16_23__6201941.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.28861111111111
-  lon: 15.83
-  altitude: 89.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5036
-  height: 3759
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-20 16:23:02+02:00
-  focus_distance: 133.2
-- image_filename: 2019_06_20__16_27__6201952.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.30544444444444
-  lon: 15.773208333333335
-  altitude: 79.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-20 16:27:44+02:00
-  focus_distance: 9.15
-- image_filename: 2019_06_20__16_47__6202024.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.273833333333336
-  lon: 15.548694444444445
-  altitude: 70.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5233
-  height: 3907
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-20 16:47:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__16_57__6202072.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.31188888888889
-  lon: 15.434555555555555
-  altitude: 70.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5092
-  height: 3702
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-20 16:57:07+02:00
-  focus_distance: 81.51
-- image_filename: 2019_06_20__17_33_DSC07468.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.306486111111106
-  lon: 15.365361111111111
-  altitude: 56.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7050
-  height: 4709
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2019-06-20 17:33:34+02:00
-- image_filename: 2019_06_20__18_11__6202090.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.35238888888889
-  lon: 15.128
-  altitude: 49.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5132
-  height: 3831
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-20 18:11:23+02:00
-  focus_distance: 125.07
-- image_filename: 2019_06_20__18_12__6202100.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.34988888888889
-  lon: 15.120847222222222
-  altitude: 47.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5033
-  height: 3679
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-20 18:12:03+02:00
-  focus_distance: 39.1
-- image_filename: 2019_06_20__18_19__6202124.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.328500000000005
-  lon: 15.040652777777778
-  altitude: 26.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-20 18:19:33+02:00
-  focus_distance: 4.9
-- image_filename: 2019_06_20__15_08__6201862.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.211375000000004
-  lon: 16.529958333333333
-  altitude: 149.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4471
-  height: 3262
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-20 15:08:50+02:00
-  focus_distance: 29.78
-- image_filename: 2019_06_20__16_26__6201949.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.30309722222222
-  lon: 15.786527777777778
-  altitude: 86.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5011
-  height: 3741
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-20 16:26:25+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__15_38__6201873.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.22805555555556
-  lon: 16.29704166666667
-  altitude: 150.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4804
-  height: 3615
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-06-20 15:38:42+02:00
-  focus_distance: 27.86
-- image_filename: 2019_06_20__11_32_DSC07391.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 52.927027777777774
-  lon: 16.93254166666667
-  altitude: 91.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7090
-  height: 4736
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-06-20 11:32:31+02:00
-- image_filename: 2019_06_20__15_11_DSC07443.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.23627777777778
-  lon: 16.517374999999998
-  altitude: 138.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7076
-  height: 4726
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-06-20 15:11:41+02:00
-- image_filename: 2019_06_20__15_39__6201876.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.22847222222222
-  lon: 16.292444444444445
-  altitude: 146.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5229
-  height: 3903
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-06-20 15:39:00+02:00
-  focus_distance: 15.26
-- image_filename: 2019_06_20__18_11__6202096.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.35019444444445
-  lon: 15.121652777777777
-  altitude: 47.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5142
-  height: 3779
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-20 18:11:58+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__16_53__6202047.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.30161111111111
-  lon: 15.487652777777777
-  altitude: 88.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-06-20 16:53:11+02:00
-  focus_distance: 9.15
-- image_filename: 2019_06_20__18_02_DSC07482.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.32969444444445
-  lon: 15.247972222222222
-  altitude: 55.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 11.0
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7271
-  height: 4856
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-20 18:02:52+02:00
-- image_filename: 2019_06_20__12_41__6201737.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.14168055555555
-  lon: 16.755208333333332
-  altitude: 62.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5012
-  height: 3642
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-20 12:41:37+02:00
-  focus_distance: 4.08
-- image_filename: 2019_06_20__12_42__6201744.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.142375
-  lon: 16.749208333333335
-  altitude: 63.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5055
-  height: 3672
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-20 12:42:30+02:00
-  focus_distance: 70.62
-- image_filename: 2019_06_20__15_45__6201896.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.220819444444444
-  lon: 16.191319444444446
-  altitude: 113.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-06-20 15:45:38+02:00
-  focus_distance: 5.11
-- image_filename: 2019_06_20__16_19__6201936.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.27901388888889
-  lon: 15.870625
-  altitude: 96.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5064
-  height: 3561
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-20 16:19:26+02:00
-  focus_distance: 32.57
-- image_filename: 2019_06_20__15_26_DSC07453.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.27483333333333
-  lon: 16.447416666666665
-  altitude: 120.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-20 15:26:10+02:00
-- image_filename: 2019_06_20__15_47__6201917.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.218986111111114
-  lon: 16.17613888888889
-  altitude: 106.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-06-20 15:47:31+02:00
-  focus_distance: 33.17
-- image_filename: 2019_06_20__12_19__6201691.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.03433333333333
-  lon: 16.878083333333333
-  altitude: 59.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5164
-  height: 3855
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-20 12:19:18+02:00
-  focus_distance: 6.75
-- image_filename: 2019_06_20__16_47__6202023.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.273694444444445
-  lon: 15.548777777777778
-  altitude: 70.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-20 16:47:46+02:00
-  focus_distance: 11.12
 - image_filename: 2019_06_20__10_24__6201626.jpg
   post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
   lat: 52.418458333333334
@@ -773,121 +8,67 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.15
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5030
   height: 3755
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-20 10:24:00+02:00
-  focus_distance: 1.15
-- image_filename: 2019_06_20__14_48_DSC07409.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.140277777777776
-  lon: 16.703027777777777
-  altitude: 94.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-06-20 14:48:33+02:00
-- image_filename: 2019_06_20__12_16__6201674.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.01376388888889
-  lon: 16.907902777777775
-  altitude: 65.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4972
-  height: 3785
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-20 12:16:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_20__17_08_DSC07461.jpg
+  time: 2019-06-20 10:24:00.000000000+02:00
+- image_filename: 2019_06_20__11_09__6201643.jpg
   post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.306666666666665
-  lon: 15.364541666666666
-  altitude: 55.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7060
-  height: 4716
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-06-20 17:08:10+02:00
-- image_filename: 2019_06_20__15_03__6201856.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.17679166666667
-  lon: 16.584638888888886
-  altitude: 172.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5057
-  height: 3775
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-20 15:03:30+02:00
-  focus_distance: 33.23
-- image_filename: 2019_06_20__12_45__6201751.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.14230555555555
-  lon: 16.746875
-  altitude: 61.0
+  lat: 52.75559722222222
+  lon: 16.972347222222222
+  altitude: 57.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5108
-  height: 3878
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-20 12:45:05+02:00
-  focus_distance: 9.15
-- image_filename: 2019_06_20__16_56__6202065.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.31372222222222
-  lon: 15.439041666666666
-  altitude: 71.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
   aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5191
-  height: 3875
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2019-06-20 16:56:46+02:00
-  focus_distance: 22.17
+  focus_distance: 1000.0
+  iso: 200
+  width: 4997
+  height: 3469
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 11:09:01.000000000+02:00
+- image_filename: 2019_06_20__11_32_DSC07391.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 52.927027777777774
+  lon: 16.93254166666667
+  altitude: 91.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 7090
+  height: 4736
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 11:32:31.000000000+02:00
+- image_filename: 2019_06_20__11_34_DSC07397.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 52.93837499999999
+  lon: 16.92275
+  altitude: 90.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 7186
+  height: 4800
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 11:34:13.000000000+02:00
 - image_filename: 2019_06_20__11_38_DSC07404.jpg
   post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
   lat: 52.96915277777778
@@ -897,68 +78,50 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 3.2
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2019-06-20 11:38:18+02:00
-- image_filename: 2019_06_20__13_18__6201793.jpg
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 11:38:18.000000000+02:00
+- image_filename: 2019_06_20__11_48__6201656.jpg
   post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.078833333333336
-  lon: 16.735111111111113
-  altitude: 47.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5031
-  height: 3756
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-20 13:18:34+02:00
-  focus_distance: 6.24
-- image_filename: 2019_06_20__16_41__6201992.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.28213888888889
-  lon: 15.602805555555555
-  altitude: 93.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.99472222222222
+  lon: 16.909569444444443
+  altitude: 65.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2019-06-20 16:41:30+02:00
-  focus_distance: 4.9
-- image_filename: 2019_06_20__16_42__6202004.jpg
-  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
-  lat: 53.27722222222222
-  lon: 15.590083333333334
-  altitude: 90.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
+  focus_distance: 1000.0
+  iso: 200
+  width: 5163
+  height: 3601
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5082
-  height: 3728
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-20 16:42:16+02:00
-  focus_distance: 17.64
+  time: 2019-06-20 11:48:26.000000000+02:00
+- image_filename: 2019_06_20__12_16__6201668.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.01102777777778
+  lon: 16.908263888888886
+  altitude: 65.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 39.48
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:16:12.000000000+02:00
 - image_filename: 2019_06_20__12_16__6201670.jpg
   post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
   lat: 53.01188888888889
@@ -968,12 +131,849 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5114
-  height: 3818
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-06-20 12:16:18+02:00
   focus_distance: 5.49
+  iso: 200
+  width: 5114
+  height: 3818
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:16:18.000000000+02:00
+- image_filename: 2019_06_20__12_16__6201674.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.01376388888889
+  lon: 16.907902777777775
+  altitude: 65.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4972
+  height: 3785
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:16:31.000000000+02:00
+- image_filename: 2019_06_20__12_19__6201691.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.03433333333333
+  lon: 16.878083333333333
+  altitude: 59.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.75
+  iso: 200
+  width: 5164
+  height: 3855
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:19:18.000000000+02:00
+- image_filename: 2019_06_20__12_23__6201718.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.06191666666666
+  lon: 16.83588888888889
+  altitude: 60.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4910
+  height: 3470
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:23:24.000000000+02:00
+- image_filename: 2019_06_20__12_27__6201728.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.07068055555556
+  lon: 16.815402777777777
+  altitude: 64.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4965
+  height: 3606
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:27:02.000000000+02:00
+- image_filename: 2019_06_20__12_41__6201737.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.14168055555555
+  lon: 16.755208333333332
+  altitude: 62.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.08
+  iso: 200
+  width: 5012
+  height: 3642
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:41:37.000000000+02:00
+- image_filename: 2019_06_20__12_42__6201742.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.14226388888889
+  lon: 16.750527777777776
+  altitude: 63.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.72
+  iso: 200
+  width: 5107
+  height: 3812
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:42:18.000000000+02:00
+- image_filename: 2019_06_20__12_42__6201744.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.142375
+  lon: 16.749208333333335
+  altitude: 63.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 70.62
+  iso: 200
+  width: 5055
+  height: 3672
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:42:30.000000000+02:00
+- image_filename: 2019_06_20__12_45__6201751.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.14230555555555
+  lon: 16.746875
+  altitude: 61.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 9.15
+  iso: 200
+  width: 5108
+  height: 3878
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:45:05.000000000+02:00
+- image_filename: 2019_06_20__12_56__6201761.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.14241666666667
+  lon: 16.749125
+  altitude: 53.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 10.56
+  iso: 200
+  width: 5073
+  height: 3631
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 12:56:16.000000000+02:00
+- image_filename: 2019_06_20__13_01__6201766.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.14230555555555
+  lon: 16.748472222222222
+  altitude: 50.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 36.4
+  iso: 200
+  width: 5030
+  height: 3755
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 13:01:07.000000000+02:00
+- image_filename: 2019_06_20__13_18__6201793.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.078833333333336
+  lon: 16.735111111111113
+  altitude: 47.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.24
+  iso: 200
+  width: 5031
+  height: 3756
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 13:18:34.000000000+02:00
+- image_filename: 2019_06_20__13_21__6201802.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.06366666666666
+  lon: 16.727777777777778
+  altitude: 47.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5056
+  height: 3774
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 13:21:49.000000000+02:00
+- image_filename: 2019_06_20__13_25__6201812.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.05305555555555
+  lon: 16.715180555555555
+  altitude: 50.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 12.48
+  iso: 200
+  width: 4520
+  height: 3319
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 13:25:45.000000000+02:00
+- image_filename: 2019_06_20__14_48_DSC07409.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.140277777777776
+  lon: 16.703027777777777
+  altitude: 94.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 14:48:33.000000000+02:00
+- image_filename: 2019_06_20__14_53_DSC07415.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.14659722222222
+  lon: 16.652458333333332
+  altitude: 104.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7007
+  height: 4458
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 14:53:07.000000000+02:00
+- image_filename: 2019_06_20__15_03__6201856.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.17679166666667
+  lon: 16.584638888888886
+  altitude: 172.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 33.23
+  iso: 200
+  width: 5057
+  height: 3775
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 15:03:30.000000000+02:00
+- image_filename: 2019_06_20__15_06_DSC07431.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.19347222222222
+  lon: 16.557319444444445
+  altitude: 157.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 6941
+  height: 4468
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 15:06:21.000000000+02:00
+- image_filename: 2019_06_20__15_08__6201862.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.211375000000004
+  lon: 16.529958333333333
+  altitude: 149.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 29.78
+  iso: 200
+  width: 4471
+  height: 3262
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 15:08:50.000000000+02:00
+- image_filename: 2019_06_20__15_11_DSC07443.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.23627777777778
+  lon: 16.517374999999998
+  altitude: 138.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 7076
+  height: 4726
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 15:11:41.000000000+02:00
+- image_filename: 2019_06_20__15_23_DSC07447.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.277680555555555
+  lon: 16.483138888888888
+  altitude: 124.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 15:23:13.000000000+02:00
+- image_filename: 2019_06_20__15_26_DSC07453.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.27483333333333
+  lon: 16.447416666666665
+  altitude: 120.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 15:26:10.000000000+02:00
+- image_filename: 2019_06_20__15_38__6201869.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.22784722222222
+  lon: 16.30602777777778
+  altitude: 155.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 32.9
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 15:38:04.000000000+02:00
+- image_filename: 2019_06_20__15_38__6201873.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.22805555555556
+  lon: 16.29704166666667
+  altitude: 150.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 27.86
+  iso: 320
+  width: 4804
+  height: 3615
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 15:38:42.000000000+02:00
+- image_filename: 2019_06_20__15_39__6201876.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.22847222222222
+  lon: 16.292444444444445
+  altitude: 146.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 15.26
+  iso: 320
+  width: 5229
+  height: 3903
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 15:39:00.000000000+02:00
+- image_filename: 2019_06_20__15_39__6201880.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.22929166666667
+  lon: 16.28391666666667
+  altitude: 142.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 116.19
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 15:39:32.000000000+02:00
+- image_filename: 2019_06_20__15_45__6201896.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.220819444444444
+  lon: 16.191319444444446
+  altitude: 113.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 5.11
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 15:45:38.000000000+02:00
+- image_filename: 2019_06_20__15_46__6201908.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.21955555555556
+  lon: 16.183708333333332
+  altitude: 108.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 34.86
+  iso: 320
+  width: 5074
+  height: 3788
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 15:46:05.000000000+02:00
+- image_filename: 2019_06_20__15_47__6201917.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.218986111111114
+  lon: 16.17613888888889
+  altitude: 106.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 33.17
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 15:47:31.000000000+02:00
+- image_filename: 2019_06_20__16_13__6201927.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.277166666666666
+  lon: 15.882833333333334
+  altitude: 97.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4978
+  height: 3568
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:13:53.000000000+02:00
+- image_filename: 2019_06_20__16_19__6201936.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.27901388888889
+  lon: 15.870625
+  altitude: 96.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 32.57
+  iso: 320
+  width: 5064
+  height: 3561
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:19:26.000000000+02:00
+- image_filename: 2019_06_20__16_23__6201941.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.28861111111111
+  lon: 15.83
+  altitude: 89.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 133.2
+  iso: 320
+  width: 5036
+  height: 3759
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:23:02.000000000+02:00
+- image_filename: 2019_06_20__16_26__6201949.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.30309722222222
+  lon: 15.786527777777778
+  altitude: 86.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 5011
+  height: 3741
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:26:25.000000000+02:00
+- image_filename: 2019_06_20__16_27__6201952.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.30544444444444
+  lon: 15.773208333333335
+  altitude: 79.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 9.15
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:27:44.000000000+02:00
+- image_filename: 2019_06_20__16_41__6201992.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.28213888888889
+  lon: 15.602805555555555
+  altitude: 93.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 4.9
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:41:30.000000000+02:00
+- image_filename: 2019_06_20__16_42__6202004.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.27722222222222
+  lon: 15.590083333333334
+  altitude: 90.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 17.64
+  iso: 320
+  width: 5082
+  height: 3728
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:42:16.000000000+02:00
+- image_filename: 2019_06_20__16_47__6202023.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.273694444444445
+  lon: 15.548777777777778
+  altitude: 70.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 11.12
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:47:46.000000000+02:00
+- image_filename: 2019_06_20__16_47__6202024.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.273833333333336
+  lon: 15.548694444444445
+  altitude: 70.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 5233
+  height: 3907
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:47:47.000000000+02:00
+- image_filename: 2019_06_20__16_53__6202047.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.30161111111111
+  lon: 15.487652777777777
+  altitude: 88.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 9.15
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:53:11.000000000+02:00
+- image_filename: 2019_06_20__16_56__6202065.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.31372222222222
+  lon: 15.439041666666666
+  altitude: 71.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 22.17
+  iso: 320
+  width: 5191
+  height: 3875
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:56:46.000000000+02:00
+- image_filename: 2019_06_20__16_57__6202072.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.31188888888889
+  lon: 15.434555555555555
+  altitude: 70.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 81.51
+  iso: 320
+  width: 5092
+  height: 3702
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 16:57:07.000000000+02:00
+- image_filename: 2019_06_20__17_08_DSC07461.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.306666666666665
+  lon: 15.364541666666666
+  altitude: 55.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 7060
+  height: 4716
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 17:08:10.000000000+02:00
+- image_filename: 2019_06_20__17_33_DSC07468.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.306486111111106
+  lon: 15.365361111111111
+  altitude: 56.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 7050
+  height: 4709
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 17:33:34.000000000+02:00
+- image_filename: 2019_06_20__18_02_DSC07482.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.32969444444445
+  lon: 15.247972222222222
+  altitude: 55.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 11.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7271
+  height: 4856
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-06-20 18:02:52.000000000+02:00
+- image_filename: 2019_06_20__18_11__6202090.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.35238888888889
+  lon: 15.128
+  altitude: 49.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 125.07
+  iso: 320
+  width: 5132
+  height: 3831
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 18:11:23.000000000+02:00
+- image_filename: 2019_06_20__18_11__6202096.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.35019444444445
+  lon: 15.121652777777777
+  altitude: 47.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 5142
+  height: 3779
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 18:11:58.000000000+02:00
+- image_filename: 2019_06_20__18_12__6202100.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.34988888888889
+  lon: 15.120847222222222
+  altitude: 47.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 39.1
+  iso: 250
+  width: 5033
+  height: 3679
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 18:12:03.000000000+02:00
+- image_filename: 2019_06_20__18_19__6202124.jpg
+  post_slug: 2019-06-20-parowozem-przez-pile-do-stargardu
+  lat: 53.328500000000005
+  lon: 15.040652777777778
+  altitude: 26.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 4.9
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-06-20 18:19:33.000000000+02:00

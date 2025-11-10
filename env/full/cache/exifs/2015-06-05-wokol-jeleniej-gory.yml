@@ -1,123 +1,123 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-06-05-wokol-jeleniej-gory
-  lat: 50.948279166666666
-  lon: 15.703435555555554
-  altitude: 390.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-06-05 15:13:24+02:00
 - image_filename: IMGP0348raw1.jpg
   post_slug: 2015-06-05-wokol-jeleniej-gory
-  lat: 50.8736775
-  lon: 15.525535833333334
+  lat: 50.87367777777778
+  lon: 15.525536111111112
   altitude: 750.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-06-05 12:14:03+02:00
+  time: 2015-06-05 12:14:03.000000000+02:00
 - image_filename: IMGP0365raw1.jpg
   post_slug: 2015-06-05-wokol-jeleniej-gory
-  lat: 50.87442472222222
-  lon: 15.526616111111112
+  lat: 50.874425
+  lon: 15.526616666666667
   altitude: 741.8
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
   iso: 100
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
+  time: 2015-06-05 12:26:02.000000000+02:00
+- image_filename: IMGP0368raw1.jpg
+  post_slug: 2015-06-05-wokol-jeleniej-gory
+  lat: 50.87444166666667
+  lon: 15.526597222222223
+  altitude: 741.8
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 7.1
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2015-06-05 12:26:02+02:00
+  iso: 100
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  time: 2015-06-05 12:26:53.000000000+02:00
 - image_filename: IMGP0390raw1.jpg
   post_slug: 2015-06-05-wokol-jeleniej-gory
-  lat: 50.944451388888886
-  lon: 15.644740833333334
+  lat: 50.94445277777778
+  lon: 15.644741666666667
   altitude: 301.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-06-05 14:00:32+02:00
+  time: 2015-06-05 14:00:32.000000000+02:00
 - image_filename: IMGP0396raw1.jpg
   post_slug: 2015-06-05-wokol-jeleniej-gory
-  lat: 50.935471666666665
+  lat: 50.93547222222222
   lon: 15.676608333333332
   altitude: 299.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-06-05 14:25:13+02:00
+  time: 2015-06-05 14:25:13.000000000+02:00
 - image_filename: IMGP0399raw1.jpg
   post_slug: 2015-06-05-wokol-jeleniej-gory
-  lat: 50.93566333333333
+  lat: 50.93566388888888
   lon: 15.677183333333332
   altitude: 298.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-06-05 14:25:27+02:00
+  time: 2015-06-05 14:25:27.000000000+02:00
 - image_filename: IMGP0414raw1.jpg
   post_slug: 2015-06-05-wokol-jeleniej-gory
-  lat: 50.94880972222222
-  lon: 15.705568333333332
+  lat: 50.948811111111105
+  lon: 15.705569444444444
   altitude: 402.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-06-05 15:15:31+02:00
-- image_filename: IMGP0368raw1.jpg
+  time: 2015-06-05 15:15:31.000000000+02:00
+- image_filename: header.jpg
   post_slug: 2015-06-05-wokol-jeleniej-gory
-  lat: 50.87444027777778
-  lon: 15.526596666666668
-  altitude: 741.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
+  lat: 50.948280555555556
+  lon: 15.70343611111111
+  altitude: 390.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  lens: smc PENTAX-DA 40mm F2.8 Limited
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2015-06-05 12:26:53+02:00
+  time: 2015-06-05 15:13:24.000000000+02:00

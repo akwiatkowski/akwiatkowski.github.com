@@ -1,24 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-- image_filename: 2021_06_13__11_53__6132600.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.949861111111105
-  lon: 20.70875
-  altitude: 159.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 30.4
-  iso: 200
-  width: 5093
-  height: 3802
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 11:53:21.000000000+02:00
 - image_filename: 2021_06_13__10_10__6132441.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.98463888888889
@@ -37,42 +17,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 10:10:48.000000000+02:00
-- image_filename: 2021_06_13__10_34__6132466.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.95866666666667
-  lon: 20.469347222222222
-  altitude: 141.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 4.01
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 10:34:59.000000000+02:00
-- image_filename: 2021_06_13__10_33__6132463.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.95904166666667
-  lon: 20.467374999999997
-  altitude: 134.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 10:33:38.000000000+02:00
 - image_filename: 2021_06_13__10_30__6132450.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.960125000000005
@@ -91,24 +35,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 10:30:48.000000000+02:00
-- image_filename: 2021_06_13__10_38__6132480.jpg
+- image_filename: 2021_06_13__10_33__6132463.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.95752777777778
-  lon: 20.47276388888889
-  altitude: 146.0
-  focal_length: 54.0
-  focal_length_35: 108.0
+  lat: 53.95904166666667
+  lon: 20.467374999999997
+  altitude: 134.0
+  focal_length: 15.0
+  focal_length_35: 30.0
   crop: 2.0
-  aperture: 4.5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 25.28
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
   iso: 200
-  width: 3839
-  height: 5143
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 10:38:00.000000000+02:00
+  time: 2021-06-13 10:33:38.000000000+02:00
+- image_filename: 2021_06_13__10_34__6132466.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.95866666666667
+  lon: 20.469347222222222
+  altitude: 141.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.01
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 10:34:59.000000000+02:00
 - image_filename: 2021_06_13__10_36__6132475.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.958111111111116
@@ -127,6 +89,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 10:36:43.000000000+02:00
+- image_filename: 2021_06_13__10_38__6132480.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.95752777777778
+  lon: 20.47276388888889
+  altitude: 146.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 25.28
+  iso: 200
+  width: 3839
+  height: 5143
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 10:38:00.000000000+02:00
 - image_filename: 2021_06_13__10_42__6132485.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.950138888888894
@@ -163,24 +143,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 10:45:55.000000000+02:00
-- image_filename: 2021_06_13__10_57__6132504.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.9355
-  lon: 20.542486111111113
-  altitude: 168.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 55.17
-  iso: 200
-  width: 5240
-  height: 3713
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 10:57:51.000000000+02:00
 - image_filename: 2021_06_13__10_51__6132492.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.943374999999996
@@ -199,24 +161,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 10:51:10.000000000+02:00
-- image_filename: 2021_06_13__10_59__6132514.jpg
+- image_filename: 2021_06_13__10_57__6132504.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.934638888888884
-  lon: 20.544930555555556
-  altitude: 170.0
-  focal_length: 47.0
-  focal_length_35: 94.0
+  lat: 53.9355
+  lon: 20.542486111111113
+  altitude: 168.0
+  focal_length: 92.0
+  focal_length_35: 184.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 27.53
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 55.17
   iso: 200
-  width: 5219
-  height: 3896
+  width: 5240
+  height: 3713
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 10:59:41.000000000+02:00
+  time: 2021-06-13 10:57:51.000000000+02:00
 - image_filename: 2021_06_13__10_59__6132511.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.93468055555555
@@ -235,24 +197,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 10:59:23.000000000+02:00
-- image_filename: 2021_06_13__11_01__6132519.jpg
+- image_filename: 2021_06_13__10_59__6132514.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.93336111111111
-  lon: 20.54802777777778
-  altitude: 171.0
-  focal_length: 54.0
-  focal_length_35: 108.0
+  lat: 53.934638888888884
+  lon: 20.544930555555556
+  altitude: 170.0
+  focal_length: 47.0
+  focal_length_35: 94.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 20.9
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 27.53
   iso: 200
-  width: 4986
-  height: 3707
+  width: 5219
+  height: 3896
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 11:01:03.000000000+02:00
+  time: 2021-06-13 10:59:41.000000000+02:00
 - image_filename: 2021_06_13__10_59__6132517.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.934527777777774
@@ -271,6 +233,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 10:59:49.000000000+02:00
+- image_filename: 2021_06_13__11_01__6132519.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.93336111111111
+  lon: 20.54802777777778
+  altitude: 171.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.9
+  iso: 200
+  width: 4986
+  height: 3707
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 11:01:03.000000000+02:00
 - image_filename: 2021_06_13__11_01__6132522.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.93315277777778
@@ -325,6 +305,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:11:12.000000000+02:00
+- image_filename: 2021_06_13__11_19__6132529.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.936930555555556
+  lon: 20.603555555555555
+  altitude: 165.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 14.66
+  iso: 200
+  width: 5113
+  height: 3666
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 11:19:51.000000000+02:00
 - image_filename: 2021_06_13__11_20__6132535.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.937
@@ -361,42 +359,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:20:31.000000000+02:00
-- image_filename: 2021_06_13__11_19__6132529.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.936930555555556
-  lon: 20.603555555555555
-  altitude: 165.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 14.66
-  iso: 200
-  width: 5113
-  height: 3666
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 11:19:51.000000000+02:00
-- image_filename: 2021_06_13__11_22__6132543.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.937
-  lon: 20.60365277777778
-  altitude: 166.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 12.75
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 11:22:03.000000000+02:00
 - image_filename: 2021_06_13__11_22__6132542.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.937013888888885
@@ -415,24 +377,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:22:00.000000000+02:00
-- image_filename: 2021_06_13__11_22__6132546.jpg
+- image_filename: 2021_06_13__11_22__6132543.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.93705555555555
-  lon: 20.603986111111112
-  altitude: 165.0
-  focal_length: 54.0
-  focal_length_35: 108.0
+  lat: 53.937
+  lon: 20.60365277777778
+  altitude: 166.0
+  focal_length: 70.0
+  focal_length_35: 140.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 14.98
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 12.75
   iso: 200
-  width: 4955
-  height: 3716
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 11:22:43.000000000+02:00
+  time: 2021-06-13 11:22:03.000000000+02:00
 - image_filename: 2021_06_13__11_22__6132545.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.937
@@ -451,24 +413,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:22:19.000000000+02:00
-- image_filename: 2021_06_13__11_24__6132551.jpg
+- image_filename: 2021_06_13__11_22__6132546.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.93881944444444
-  lon: 20.610833333333336
-  altitude: 166.0
-  focal_length: 70.0
-  focal_length_35: 140.0
+  lat: 53.93705555555555
+  lon: 20.603986111111112
+  altitude: 165.0
+  focal_length: 54.0
+  focal_length_35: 108.0
   crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 19.41
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 14.98
   iso: 200
-  width: 5019
-  height: 3684
+  width: 4955
+  height: 3716
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 11:24:50.000000000+02:00
+  time: 2021-06-13 11:22:43.000000000+02:00
 - image_filename: 2021_06_13__11_22__6132549.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.93729166666667
@@ -487,6 +449,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:22:56.000000000+02:00
+- image_filename: 2021_06_13__11_24__6132551.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.93881944444444
+  lon: 20.610833333333336
+  altitude: 166.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 19.41
+  iso: 200
+  width: 5019
+  height: 3684
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 11:24:50.000000000+02:00
 - image_filename: 2021_06_13__11_26__6132563.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.93888888888888
@@ -541,24 +521,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:33:02.000000000+02:00
-- image_filename: 2021_06_13__11_42__6132574.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.94351388888889
-  lon: 20.679680555555557
-  altitude: 157.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 2.45
-  iso: 200
-  width: 3050
-  height: 4172
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 11:42:06.000000000+02:00
 - image_filename: 2021_06_13__11_33__6132570.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.94533333333333
@@ -577,24 +539,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:33:12.000000000+02:00
-- image_filename: 2021_06_13__11_46__6132581.jpg
+- image_filename: 2021_06_13__11_42__6132574.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.94559722222222
-  lon: 20.694166666666668
+  lat: 53.94351388888889
+  lon: 20.679680555555557
   altitude: 157.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 89.04
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.45
   iso: 200
-  width: 4964
-  height: 3706
+  width: 3050
+  height: 4172
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 11:46:24.000000000+02:00
+  time: 2021-06-13 11:42:06.000000000+02:00
 - image_filename: 2021_06_13__11_45__6132577.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.94566666666666
@@ -613,24 +575,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:45:10.000000000+02:00
-- image_filename: 2021_06_13__11_52__6132593.jpg
+- image_filename: 2021_06_13__11_46__6132581.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.94944444444444
-  lon: 20.70859722222222
-  altitude: 161.0
-  focal_length: 24.0
-  focal_length_35: 48.0
+  lat: 53.94559722222222
+  lon: 20.694166666666668
+  altitude: 157.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 7.73
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 89.04
   iso: 200
-  width: 5014
-  height: 3743
+  width: 4964
+  height: 3706
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 11:52:31.000000000+02:00
+  time: 2021-06-13 11:46:24.000000000+02:00
 - image_filename: 2021_06_13__11_50__6132587.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.94748611111111
@@ -649,6 +611,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:50:43.000000000+02:00
+- image_filename: 2021_06_13__11_52__6132593.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.94944444444444
+  lon: 20.70859722222222
+  altitude: 161.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 7.73
+  iso: 200
+  width: 5014
+  height: 3743
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 11:52:31.000000000+02:00
 - image_filename: 2021_06_13__11_53__6132599.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.94969444444444
@@ -667,6 +647,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 11:53:17.000000000+02:00
+- image_filename: 2021_06_13__11_53__6132600.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.949861111111105
+  lon: 20.70875
+  altitude: 159.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 30.4
+  iso: 200
+  width: 5093
+  height: 3802
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 11:53:21.000000000+02:00
 - image_filename: 2021_06_13__11_54__6132602.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.951125000000005
@@ -901,24 +899,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 12:13:50.000000000+02:00
-- image_filename: 2021_06_13__12_28__6132651.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.981097222222225
-  lon: 20.793944444444445
-  altitude: 156.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 117.03
-  iso: 200
-  width: 5073
-  height: 3787
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 12:28:20.000000000+02:00
 - image_filename: 2021_06_13__12_20__6132645.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.97691666666667
@@ -937,6 +917,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 12:20:23.000000000+02:00
+- image_filename: 2021_06_13__12_28__6132651.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.981097222222225
+  lon: 20.793944444444445
+  altitude: 156.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 117.03
+  iso: 200
+  width: 5073
+  height: 3787
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 12:28:20.000000000+02:00
 - image_filename: 2021_06_13__12_36__6132654.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.99251388888889
@@ -973,24 +971,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 12:36:10.000000000+02:00
-- image_filename: 2021_06_13__12_40__6132672.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.999652777777776
-  lon: 20.822430555555556
-  altitude: 155.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 43.12
-  iso: 200
-  width: 5051
-  height: 3771
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 12:40:48.000000000+02:00
 - image_filename: 2021_06_13__12_36__6132665.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.992625000000004
@@ -1027,6 +1007,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 12:39:12.000000000+02:00
+- image_filename: 2021_06_13__12_40__6132672.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.999652777777776
+  lon: 20.822430555555556
+  altitude: 155.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 43.12
+  iso: 200
+  width: 5051
+  height: 3771
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 12:40:48.000000000+02:00
+- image_filename: 2021_06_13__12_40__6132673.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 53.999652777777776
+  lon: 20.822430555555556
+  altitude: 155.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 109.96
+  iso: 200
+  width: 4989
+  height: 3724
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 12:40:52.000000000+02:00
 - image_filename: 2021_06_13__12_40__6132675.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 53.99968055555556
@@ -1063,42 +1079,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 12:41:15.000000000+02:00
-- image_filename: 2021_06_13__12_40__6132673.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 53.999652777777776
-  lon: 20.822430555555556
-  altitude: 155.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 109.96
-  iso: 200
-  width: 4989
-  height: 3724
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 12:40:52.000000000+02:00
-- image_filename: 2021_06_13__12_51__6132687.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 54.01338888888889
-  lon: 20.860861111111113
-  altitude: 146.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 292.57
-  iso: 200
-  width: 5183
-  height: 3869
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 12:51:46.000000000+02:00
 - image_filename: 2021_06_13__12_51__6132686.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.01338888888889
@@ -1117,24 +1097,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 12:51:41.000000000+02:00
-- image_filename: 2021_06_13__12_55__6132692.jpg
+- image_filename: 2021_06_13__12_51__6132687.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 54.008069444444445
-  lon: 20.873625
-  altitude: 148.0
-  focal_length: 66.0
-  focal_length_35: 132.0
+  lat: 54.01338888888889
+  lon: 20.860861111111113
+  altitude: 146.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 19.52
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 292.57
   iso: 200
-  width: 5239
-  height: 3911
+  width: 5183
+  height: 3869
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 12:55:32.000000000+02:00
+  time: 2021-06-13 12:51:46.000000000+02:00
 - image_filename: 2021_06_13__12_51__6132689.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.01338888888889
@@ -1153,6 +1133,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 12:51:51.000000000+02:00
+- image_filename: 2021_06_13__12_55__6132692.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 54.008069444444445
+  lon: 20.873625
+  altitude: 148.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 19.52
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 12:55:32.000000000+02:00
 - image_filename: 2021_06_13__13_02__6132699.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.01020833333333
@@ -1189,42 +1187,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 13:02:13.000000000+02:00
-- image_filename: 2021_06_13__13_20__6132715.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 54.03393055555556
-  lon: 20.95947222222222
-  altitude: 138.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 6.07
-  iso: 200
-  width: 5125
-  height: 3826
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 13:20:41.000000000+02:00
-- image_filename: 2021_06_13__13_09__6132711.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 54.020944444444446
-  lon: 20.916402777777776
-  altitude: 149.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 32.25
-  iso: 200
-  width: 5130
-  height: 3830
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 13:09:39.000000000+02:00
 - image_filename: 2021_06_13__13_09__6132704.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.020472222222224
@@ -1243,24 +1205,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 13:09:08.000000000+02:00
-- image_filename: 2021_06_13__13_22__6132719.jpg
+- image_filename: 2021_06_13__13_09__6132711.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 54.03444444444444
-  lon: 20.96173611111111
-  altitude: 139.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 54.020944444444446
+  lon: 20.916402777777776
+  altitude: 149.0
+  focal_length: 18.0
+  focal_length_35: 36.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 292.57
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 32.25
   iso: 200
-  width: 5239
-  height: 3911
+  width: 5130
+  height: 3830
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 13:22:45.000000000+02:00
+  time: 2021-06-13 13:09:39.000000000+02:00
+- image_filename: 2021_06_13__13_20__6132715.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 54.03393055555556
+  lon: 20.95947222222222
+  altitude: 138.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 6.07
+  iso: 200
+  width: 5125
+  height: 3826
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 13:20:41.000000000+02:00
 - image_filename: 2021_06_13__13_22__6132718.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.03444444444444
@@ -1279,6 +1259,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 13:22:42.000000000+02:00
+- image_filename: 2021_06_13__13_22__6132719.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 54.03444444444444
+  lon: 20.96173611111111
+  altitude: 139.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 292.57
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 13:22:45.000000000+02:00
 - image_filename: 2021_06_13__13_22__6132722.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.03444444444444
@@ -1297,24 +1295,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 13:22:55.000000000+02:00
-- image_filename: 2021_06_13__13_23__6132727.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 54.03448611111111
-  lon: 20.961777777777776
-  altitude: 139.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 186.18
-  iso: 200
-  width: 5213
-  height: 3892
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 13:23:26.000000000+02:00
 - image_filename: 2021_06_13__13_22__6132723.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.03444444444444
@@ -1333,6 +1313,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 13:22:59.000000000+02:00
+- image_filename: 2021_06_13__13_23__6132727.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 54.03448611111111
+  lon: 20.961777777777776
+  altitude: 139.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 186.18
+  iso: 200
+  width: 5213
+  height: 3892
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 13:23:26.000000000+02:00
 - image_filename: 2021_06_13__13_24__6132733.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.03458333333333
@@ -1369,6 +1367,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 13:24:20.000000000+02:00
+- image_filename: 2021_06_13__13_32__6132744.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 54.049680555555554
+  lon: 20.991666666666667
+  altitude: 90.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5081
+  height: 3793
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 13:32:00.000000000+02:00
 - image_filename: 2021_06_13__13_32__6132746.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.04969444444444
@@ -1405,42 +1421,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 13:32:48.000000000+02:00
-- image_filename: 2021_06_13__13_32__6132744.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 54.049680555555554
-  lon: 20.991666666666667
-  altitude: 90.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5081
-  height: 3793
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 13:32:00.000000000+02:00
-- image_filename: 2021_06_13__13_42__6132771.jpg
-  post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 54.06297222222222
-  lon: 21.020555555555553
-  altitude: 85.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 4.03
-  iso: 200
-  width: 5221
-  height: 3898
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-06-13 13:42:58.000000000+02:00
 - image_filename: 2021_06_13__13_35__6132757.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.052166666666665
@@ -1477,24 +1457,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 13:40:23.000000000+02:00
-- image_filename: 2021_06_13__13_44__6132775.jpg
+- image_filename: 2021_06_13__13_42__6132771.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
-  lat: 54.06322222222222
-  lon: 21.02456944444444
-  altitude: 89.0
-  focal_length: 18.0
-  focal_length_35: 36.0
+  lat: 54.06297222222222
+  lon: 21.020555555555553
+  altitude: 85.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 42.78
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.03
   iso: 200
-  width: 5239
-  height: 3911
+  width: 5221
+  height: 3898
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-06-13 13:44:38.000000000+02:00
+  time: 2021-06-13 13:42:58.000000000+02:00
 - image_filename: 2021_06_13__13_43__6132772.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.062999999999995
@@ -1513,6 +1493,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-06-13 13:43:05.000000000+02:00
+- image_filename: 2021_06_13__13_44__6132775.jpg
+  post_slug: 2021-06-13-warmia-jest-piekna
+  lat: 54.06322222222222
+  lon: 21.02456944444444
+  altitude: 89.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 42.78
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-06-13 13:44:38.000000000+02:00
 - image_filename: 2021_06_13__13_45__6132778.jpg
   post_slug: 2021-06-13-warmia-jest-piekna
   lat: 54.06319444444444

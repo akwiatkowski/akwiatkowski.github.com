@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.45919444444445
-  lon: 21.40086111111111
-  altitude: 557.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-07-26 12:51:02+02:00
 - image_filename: IMGP9091raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
   lat: 49.47468055555556
@@ -22,11 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-07-26 08:29:48+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 08:29:48.000000000+02:00
 - image_filename: IMGP9093raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
   lat: 49.48163888888889
@@ -36,11 +22,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-07-26 08:34:57+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 08:34:57.000000000+02:00
 - image_filename: IMGP9099raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
   lat: 49.48865277777778
@@ -50,11 +36,11 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
-  iso: 1000
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-07-26 08:48:53+02:00
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2017-07-26 08:48:53.000000000+02:00
 - image_filename: IMGP9103raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
   lat: 49.49765277777778
@@ -64,697 +50,11 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 160
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 08:52:46+02:00
-- image_filename: IMGP9114raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50109722222222
-  lon: 21.173638888888892
-  altitude: 422.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-07-26 09:00:17+02:00
-- image_filename: IMGP9136raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50727777777778
-  lon: 21.238833333333336
-  altitude: 448.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-26 09:58:54+02:00
-- image_filename: IMGP9160raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.52170833333333
-  lon: 21.266527777777778
-  altitude: 488.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 10:23:07+02:00
-- image_filename: IMGP9176raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.52781944444445
-  lon: 21.279083333333332
-  altitude: 502.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 10:30:59+02:00
-- image_filename: IMGP9188raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.52715277777778
-  lon: 21.308111111111113
-  altitude: 576.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-07-26 10:51:05+02:00
-- image_filename: IMGP9212raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.503055555555555
-  lon: 21.315527777777778
-  altitude: 575.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-07-26 11:16:29+02:00
-- image_filename: IMGP9216raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.499208333333335
-  lon: 21.32373611111111
-  altitude: 586.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-07-26 11:21:44+02:00
-- image_filename: IMGP9274raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.481097222222225
-  lon: 21.36273611111111
-  altitude: 516.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 12:05:30+02:00
-- image_filename: IMGP9286raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.47741666666667
-  lon: 21.372847222222223
-  altitude: 479.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 800
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 12:11:37+02:00
-- image_filename: IMGP9303raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.46981944444445
-  lon: 21.382555555555555
-  altitude: 488.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-07-26 12:30:51+02:00
-- image_filename: IMGP9316raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.45955555555556
-  lon: 21.399527777777777
-  altitude: 550.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-26 12:49:08+02:00
-- image_filename: IMGP9331raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.45066666666667
-  lon: 21.426708333333334
-  altitude: 486.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-07-26 12:58:54+02:00
-- image_filename: IMGP9335raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.44995833333333
-  lon: 21.429097222222225
-  altitude: 487.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-26 13:00:17+02:00
-- image_filename: IMGP9339raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.51852777777778
-  lon: 21.485861111111113
-  altitude: 385.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-26 14:19:47+02:00
-- image_filename: IMGP9351raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.504694444444446
-  lon: 21.492291666666667
-  altitude: 369.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 16:11:24+02:00
-- image_filename: IMGP9370raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50841666666667
-  lon: 21.49788888888889
-  altitude: 364.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-07-26 16:21:39+02:00
-- image_filename: IMGP9198raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.520833333333336
-  lon: 21.30859722222222
-  altitude: 586.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-07-26 11:06:24+02:00
-- image_filename: IMGP9327raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.45075
-  lon: 21.4265
-  altitude: 486.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 12:58:36+02:00
-- image_filename: IMGP9368raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50801388888889
-  lon: 21.497222222222224
-  altitude: 365.0
-  focal_length: 90.0
-  focal_length_35: 135.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-07-26 16:20:32+02:00
-- image_filename: IMGP9285raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.47741666666667
-  lon: 21.372847222222223
-  altitude: 479.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 12:11:32+02:00
-- image_filename: IMGP9359raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50511111111111
-  lon: 21.492625
-  altitude: 370.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-07-26 16:13:02+02:00
-- image_filename: IMGP9170raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.52545833333333
-  lon: 21.273333333333333
-  altitude: 498.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 10:27:17+02:00
-- image_filename: IMGP9321raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.45919444444445
-  lon: 21.40083333333333
-  altitude: 557.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-07-26 12:50:57+02:00
-- image_filename: IMGP9256raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.48105555555556
-  lon: 21.362722222222224
-  altitude: 516.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-07-26 11:58:15+02:00
-- image_filename: IMGP9278raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.48105555555556
-  lon: 21.36273611111111
-  altitude: 516.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 12:06:49+02:00
-- image_filename: IMGP9128raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50568055555556
-  lon: 21.236583333333336
-  altitude: 451.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 09:53:35+02:00
-- image_filename: IMGP9298raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.472097222222224
-  lon: 21.377430555555556
-  altitude: 475.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-26 12:24:50+02:00
-- image_filename: IMGP9116raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50094444444444
-  lon: 21.173527777777778
-  altitude: 423.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 1250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-26 09:04:00+02:00
-- image_filename: IMGP9362raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.506055555555555
-  lon: 21.49354166666667
-  altitude: 367.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-07-26 16:15:04+02:00
-- image_filename: IMGP9246raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.48195833333334
-  lon: 21.359833333333334
-  altitude: 517.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-07-26 11:51:44+02:00
-- image_filename: IMGP9378raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50963888888889
-  lon: 21.499083333333335
-  altitude: 364.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 7.1
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-07-26 16:24:53+02:00
-- image_filename: IMGP9313raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.46061111111111
-  lon: 21.397305555555555
-  altitude: 542.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-26 12:47:03+02:00
-- image_filename: IMGP9177raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.527833333333334
-  lon: 21.279125
-  altitude: 502.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 10:31:06+02:00
-- image_filename: IMGP9259raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.48102777777778
-  lon: 21.362708333333334
-  altitude: 516.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-07-26 11:59:09+02:00
-- image_filename: IMGP9385raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50929166666667
-  lon: 21.49873611111111
-  altitude: 364.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 5.6
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-07-26 17:14:02+02:00
-- image_filename: IMGP9141raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.51736111111111
-  lon: 21.258444444444443
-  altitude: 468.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-07-26 10:12:50+02:00
-- image_filename: IMGP9304raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.46980555555556
-  lon: 21.382569444444446
-  altitude: 488.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-07-26 12:30:54+02:00
-- image_filename: IMGP9224raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.49859722222222
-  lon: 21.328611111111112
-  altitude: 615.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-07-26 11:27:01+02:00
-- image_filename: IMGP9324raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.45916666666667
-  lon: 21.401069444444442
-  altitude: 558.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-26 12:51:39+02:00
-- image_filename: IMGP9191raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.52715277777778
-  lon: 21.308
-  altitude: 575.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-07-26 10:53:41+02:00
-- image_filename: IMGP9150raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.52133333333333
-  lon: 21.265291666666666
-  altitude: 489.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-07-26 10:19:28+02:00
-- image_filename: IMGP9288raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.47702777777778
-  lon: 21.375652777777777
-  altitude: 474.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 12:13:03+02:00
-- image_filename: IMGP9205raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.50559722222222
-  lon: 21.314097222222223
-  altitude: 559.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-07-26 11:12:48+02:00
-- image_filename: IMGP9125raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.51013888888889
-  lon: 21.21747222222222
-  altitude: 439.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 09:30:10+02:00
-- image_filename: IMGP9219raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.498444444444445
-  lon: 21.32623611111111
-  altitude: 602.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-07-26 11:24:16+02:00
-- image_filename: IMGP9228raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.49859722222222
-  lon: 21.328625
-  altitude: 614.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-07-26 11:29:54+02:00
-- image_filename: IMGP9295raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.47443055555556
-  lon: 21.376569444444446
-  altitude: 475.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-07-26 12:21:40+02:00
-- image_filename: IMGP9165raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.52176388888889
-  lon: 21.266638888888888
-  altitude: 488.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 10:23:43+02:00
-- image_filename: IMGP9268raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.481097222222225
-  lon: 21.362722222222224
-  altitude: 516.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-26 12:04:19+02:00
+  time: 2017-07-26 08:52:46.000000000+02:00
 - image_filename: IMGP9112raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
   lat: 49.501
@@ -764,53 +64,221 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-07-26 08:57:31+02:00
-- image_filename: IMGP9353raw1.jpg
-  post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.504777777777775
-  lon: 21.49234722222222
-  altitude: 369.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-07-26 16:11:47+02:00
-- image_filename: IMGP9241raw1.jpg
+  time: 2017-07-26 08:57:31.000000000+02:00
+- image_filename: IMGP9114raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.49404166666667
-  lon: 21.334194444444442
-  altitude: 617.0
+  lat: 49.50109722222222
+  lon: 21.173638888888892
+  altitude: 422.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-07-26 11:44:22+02:00
-- image_filename: IMGP9210raw1.jpg
+  time: 2017-07-26 09:00:17.000000000+02:00
+- image_filename: IMGP9116raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.503055555555555
-  lon: 21.31551388888889
+  lat: 49.50094444444444
+  lon: 21.173527777777778
+  altitude: 423.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 1250
+  camera: PENTAX K-S2
+  time: 2017-07-26 09:04:00.000000000+02:00
+- image_filename: IMGP9125raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.51013888888889
+  lon: 21.21747222222222
+  altitude: 439.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 09:30:10.000000000+02:00
+- image_filename: IMGP9128raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.50568055555556
+  lon: 21.236583333333336
+  altitude: 451.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-07-26 09:53:35.000000000+02:00
+- image_filename: IMGP9136raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.50727777777778
+  lon: 21.238833333333336
+  altitude: 448.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 09:58:54.000000000+02:00
+- image_filename: IMGP9141raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.51736111111111
+  lon: 21.258444444444443
+  altitude: 468.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 10:12:50.000000000+02:00
+- image_filename: IMGP9150raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.52133333333333
+  lon: 21.265291666666666
+  altitude: 489.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 10:19:28.000000000+02:00
+- image_filename: IMGP9160raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.52170833333333
+  lon: 21.266527777777778
+  altitude: 488.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 10:23:07.000000000+02:00
+- image_filename: IMGP9165raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.52176388888889
+  lon: 21.266638888888888
+  altitude: 488.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-07-26 10:23:43.000000000+02:00
+- image_filename: IMGP9170raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.52545833333333
+  lon: 21.273333333333333
+  altitude: 498.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 10:27:17.000000000+02:00
+- image_filename: IMGP9176raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.52781944444445
+  lon: 21.279083333333332
+  altitude: 502.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-07-26 10:30:59.000000000+02:00
+- image_filename: IMGP9177raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.527833333333334
+  lon: 21.279125
+  altitude: 502.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 10:31:06.000000000+02:00
+- image_filename: IMGP9188raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.52715277777778
+  lon: 21.308111111111113
+  altitude: 576.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 10:51:05.000000000+02:00
+- image_filename: IMGP9191raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.52715277777778
+  lon: 21.308
   altitude: 575.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
   iso: 100
   camera: PENTAX K-S2
+  time: 2017-07-26 10:53:41.000000000+02:00
+- image_filename: IMGP9198raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.520833333333336
+  lon: 21.30859722222222
+  altitude: 586.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-07-26 11:16:20+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:06:24.000000000+02:00
 - image_filename: IMGP9203raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
   lat: 49.51493055555556
@@ -820,25 +288,361 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2017-07-26 11:09:11+02:00
-- image_filename: IMGP9328raw1.jpg
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:09:11.000000000+02:00
+- image_filename: IMGP9205raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
-  lat: 49.45075
-  lon: 21.4265
-  altitude: 486.0
+  lat: 49.50559722222222
+  lon: 21.314097222222223
+  altitude: 559.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
   camera: PENTAX K-S2
+  time: 2017-07-26 11:12:48.000000000+02:00
+- image_filename: IMGP9210raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.503055555555555
+  lon: 21.31551388888889
+  altitude: 575.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:16:20.000000000+02:00
+- image_filename: IMGP9212raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.503055555555555
+  lon: 21.315527777777778
+  altitude: 575.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:16:29.000000000+02:00
+- image_filename: IMGP9216raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.499208333333335
+  lon: 21.32373611111111
+  altitude: 586.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:21:44.000000000+02:00
+- image_filename: IMGP9219raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.498444444444445
+  lon: 21.32623611111111
+  altitude: 602.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:24:16.000000000+02:00
+- image_filename: IMGP9224raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.49859722222222
+  lon: 21.328611111111112
+  altitude: 615.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:27:01.000000000+02:00
+- image_filename: IMGP9228raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.49859722222222
+  lon: 21.328625
+  altitude: 614.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:29:54.000000000+02:00
+- image_filename: IMGP9241raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.49404166666667
+  lon: 21.334194444444442
+  altitude: 617.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:44:22.000000000+02:00
+- image_filename: IMGP9246raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.48195833333334
+  lon: 21.359833333333334
+  altitude: 517.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:51:44.000000000+02:00
+- image_filename: IMGP9256raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.48105555555556
+  lon: 21.362722222222224
+  altitude: 516.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2017-07-26 12:58:41+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:58:15.000000000+02:00
+- image_filename: IMGP9259raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.48102777777778
+  lon: 21.362708333333334
+  altitude: 516.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 11:59:09.000000000+02:00
+- image_filename: IMGP9268raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.481097222222225
+  lon: 21.362722222222224
+  altitude: 516.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:04:19.000000000+02:00
+- image_filename: IMGP9274raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.481097222222225
+  lon: 21.36273611111111
+  altitude: 516.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:05:30.000000000+02:00
+- image_filename: IMGP9278raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.48105555555556
+  lon: 21.36273611111111
+  altitude: 516.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:06:49.000000000+02:00
+- image_filename: IMGP9285raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.47741666666667
+  lon: 21.372847222222223
+  altitude: 479.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:11:32.000000000+02:00
+- image_filename: IMGP9286raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.47741666666667
+  lon: 21.372847222222223
+  altitude: 479.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:11:37.000000000+02:00
+- image_filename: IMGP9288raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.47702777777778
+  lon: 21.375652777777777
+  altitude: 474.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:13:03.000000000+02:00
+- image_filename: IMGP9295raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.47443055555556
+  lon: 21.376569444444446
+  altitude: 475.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:21:40.000000000+02:00
+- image_filename: IMGP9298raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.472097222222224
+  lon: 21.377430555555556
+  altitude: 475.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:24:50.000000000+02:00
+- image_filename: IMGP9303raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.46981944444445
+  lon: 21.382555555555555
+  altitude: 488.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:30:51.000000000+02:00
+- image_filename: IMGP9304raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.46980555555556
+  lon: 21.382569444444446
+  altitude: 488.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:30:54.000000000+02:00
+- image_filename: IMGP9313raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.46061111111111
+  lon: 21.397305555555555
+  altitude: 542.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:47:03.000000000+02:00
+- image_filename: IMGP9316raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.45955555555556
+  lon: 21.399527777777777
+  altitude: 550.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:49:08.000000000+02:00
+- image_filename: IMGP9321raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.45919444444445
+  lon: 21.40083333333333
+  altitude: 557.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:50:57.000000000+02:00
+- image_filename: IMGP9324raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.45916666666667
+  lon: 21.401069444444442
+  altitude: 558.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:51:39.000000000+02:00
 - image_filename: IMGP9326raw1.jpg
   post_slug: 2017-07-26-z-hanczowej-do-krempnej
   lat: 49.453611111111115
@@ -848,8 +652,204 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2017-07-26 12:55:17+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:55:17.000000000+02:00
+- image_filename: IMGP9327raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.45075
+  lon: 21.4265
+  altitude: 486.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:58:36.000000000+02:00
+- image_filename: IMGP9328raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.45075
+  lon: 21.4265
+  altitude: 486.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:58:41.000000000+02:00
+- image_filename: IMGP9331raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.45066666666667
+  lon: 21.426708333333334
+  altitude: 486.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:58:54.000000000+02:00
+- image_filename: IMGP9335raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.44995833333333
+  lon: 21.429097222222225
+  altitude: 487.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 13:00:17.000000000+02:00
+- image_filename: IMGP9339raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.51852777777778
+  lon: 21.485861111111113
+  altitude: 385.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 14:19:47.000000000+02:00
+- image_filename: IMGP9351raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.504694444444446
+  lon: 21.492291666666667
+  altitude: 369.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 16:11:24.000000000+02:00
+- image_filename: IMGP9353raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.504777777777775
+  lon: 21.49234722222222
+  altitude: 369.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 16:11:47.000000000+02:00
+- image_filename: IMGP9359raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.50511111111111
+  lon: 21.492625
+  altitude: 370.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-07-26 16:13:02.000000000+02:00
+- image_filename: IMGP9362raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.506055555555555
+  lon: 21.49354166666667
+  altitude: 367.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2017-07-26 16:15:04.000000000+02:00
+- image_filename: IMGP9368raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.50801388888889
+  lon: 21.497222222222224
+  altitude: 365.0
+  focal_length: 90.0
+  focal_length_35: 135.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-07-26 16:20:32.000000000+02:00
+- image_filename: IMGP9370raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.50841666666667
+  lon: 21.49788888888889
+  altitude: 364.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-07-26 16:21:39.000000000+02:00
+- image_filename: IMGP9378raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.50963888888889
+  lon: 21.499083333333335
+  altitude: 364.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-07-26 16:24:53.000000000+02:00
+- image_filename: IMGP9385raw1.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.50929166666667
+  lon: 21.49873611111111
+  altitude: 364.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2017-07-26 17:14:02.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-07-26-z-hanczowej-do-krempnej
+  lat: 49.45919444444445
+  lon: 21.40086111111111
+  altitude: 557.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-07-26 12:51:02.000000000+02:00

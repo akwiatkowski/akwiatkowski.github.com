@@ -1,6 +1,670 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2022_04_10__12_40_P4106986.jpg
   post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.26101388888889
+  lon: 21.009444444444444
+  altitude: 45.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4758
+  height: 3611
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-10 12:40:54.000000000+02:00
+- image_filename: 2022_04_10__12_41_P4106995.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.262166666666666
+  lon: 21.01313888888889
+  altitude: 71.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 43.0
+  iso: 200
+  width: 5034
+  height: 3582
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-10 12:41:13.000000000+02:00
+- image_filename: 2022_04_10__13_26_P4107411.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.57655555555556
+  lon: 20.629236111111112
+  altitude: 86.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 8.73
+  iso: 200
+  width: 5166
+  height: 3817
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 13:26:33.000000000+02:00
+- image_filename: 2022_04_10__13_38_P4107594.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.594722222222224
+  lon: 20.461
+  altitude: 119.0
+  focal_length: 90.0
+  focal_length_35: 180.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 42.22
+  iso: 200
+  width: 5211
+  height: 3874
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 13:38:32.000000000+02:00
+- image_filename: 2022_04_10__13_42_P4107669.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.607305555555556
+  lon: 20.40923611111111
+  altitude: 110.0
+  focal_length: 55.0
+  focal_length_35: 110.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 12.44
+  iso: 200
+  width: 5137
+  height: 3769
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 13:42:33.000000000+02:00
+- image_filename: 2022_04_10__13_44_P4107673.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.61061111111111
+  lon: 20.378625
+  altitude: 99.0
+  focal_length: 82.0
+  focal_length_35: 164.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 24.52
+  iso: 200
+  width: 5175
+  height: 3825
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 13:44:47.000000000+02:00
+- image_filename: 2022_04_10__13_46_P4107692.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.61958333333333
+  lon: 20.360236111111114
+  altitude: 97.0
+  focal_length: 62.0
+  focal_length_35: 124.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 11.8
+  iso: 200
+  width: 4836
+  height: 3313
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 13:46:29.000000000+02:00
+- image_filename: 2022_04_10__14_07_P4107939.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.729416666666665
+  lon: 20.168541666666666
+  altitude: 110.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 16.25
+  iso: 200
+  width: 4825
+  height: 3500
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:07:19.000000000+02:00
+- image_filename: 2022_04_10__14_21_P4108171.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.79651388888889
+  lon: 20.016569444444446
+  altitude: 114.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 68.26
+  iso: 200
+  width: 5174
+  height: 3824
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:21:14.000000000+02:00
+- image_filename: 2022_04_10__14_25_P4108239.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.80458333333333
+  lon: 19.96163888888889
+  altitude: 116.0
+  focal_length: 130.0
+  focal_length_35: 260.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 40.96
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:25:03.000000000+02:00
+- image_filename: 2022_04_10__14_26_P4108273.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.80936111111111
+  lon: 19.941152777777777
+  altitude: 118.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 18.7
+  iso: 200
+  width: 4947
+  height: 3668
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:26:31.000000000+02:00
+- image_filename: 2022_04_10__14_33_P4108355.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.82877777777778
+  lon: 19.84923611111111
+  altitude: 120.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 5.97
+  iso: 200
+  width: 5129
+  height: 3759
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:33:18.000000000+02:00
+- image_filename: 2022_04_10__14_33_P4108401.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.829527777777784
+  lon: 19.842916666666664
+  altitude: 121.0
+  focal_length: 130.0
+  focal_length_35: 260.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 45.01
+  iso: 200
+  width: 4899
+  height: 3424
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:33:44.000000000+02:00
+- image_filename: 2022_04_10__14_37_P4108452.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.832125000000005
+  lon: 19.793305555555555
+  altitude: 117.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 65.01
+  iso: 200
+  width: 5188
+  height: 3842
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:37:15.000000000+02:00
+- image_filename: 2022_04_10__14_38_P4108520.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.83334722222222
+  lon: 19.782291666666666
+  altitude: 118.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 65.01
+  iso: 200
+  width: 5168
+  height: 3813
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:38:17.000000000+02:00
+- image_filename: 2022_04_10__14_49_P4108685.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.847972222222225
+  lon: 19.653819444444444
+  altitude: 117.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 12.84
+  iso: 200
+  width: 5190
+  height: 3863
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:49:01.000000000+02:00
+- image_filename: 2022_04_10__14_49_P4108692.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.84798611111111
+  lon: 19.653791666666667
+  altitude: 116.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 4.61
+  iso: 200
+  width: 5116
+  height: 3741
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:49:39.000000000+02:00
+- image_filename: 2022_04_10__14_50_P4108711.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.84804166666667
+  lon: 19.653652777777776
+  altitude: 116.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 65.01
+  iso: 200
+  width: 4608
+  height: 3384
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 14:50:38.000000000+02:00
+- image_filename: 2022_04_10__15_00_P4108778.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.86620833333333
+  lon: 19.56290277777778
+  altitude: 123.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 5.25
+  iso: 200
+  width: 5207
+  height: 3870
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:00:04.000000000+02:00
+- image_filename: 2022_04_10__15_00_P4108808.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.86633333333334
+  lon: 19.561486111111112
+  altitude: 123.0
+  focal_length: 55.0
+  focal_length_35: 110.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 10.86
+  iso: 200
+  width: 5226
+  height: 3895
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:00:10.000000000+02:00
+- image_filename: 2022_04_10__15_00_P4108833.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.86680555555556
+  lon: 19.555861111111113
+  altitude: 123.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 6.66
+  iso: 200
+  width: 4963
+  height: 3574
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:00:34.000000000+02:00
+- image_filename: 2022_04_10__15_01_P4108874.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.86709722222222
+  lon: 19.54176388888889
+  altitude: 122.0
+  focal_length: 115.0
+  focal_length_35: 230.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 33.85
+  iso: 200
+  width: 4755
+  height: 3222
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:01:32.000000000+02:00
+- image_filename: 2022_04_10__15_03_P4108949.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.866486111111115
+  lon: 19.519541666666665
+  altitude: 117.0
+  focal_length: 120.0
+  focal_length_35: 240.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 38.64
+  iso: 200
+  width: 5189
+  height: 3843
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:03:03.000000000+02:00
+- image_filename: 2022_04_10__15_11_P4109040.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.86276388888889
+  lon: 19.39326388888889
+  altitude: 113.0
+  focal_length: 73.0
+  focal_length_35: 146.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 15.81
+  iso: 250
+  width: 4823
+  height: 3512
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:11:05.000000000+02:00
+- image_filename: 2022_04_10__15_14_P4109126.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.872166666666665
+  lon: 19.340625
+  altitude: 116.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 5.23
+  iso: 200
+  width: 5071
+  height: 3777
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:14:32.000000000+02:00
+- image_filename: 2022_04_10__15_20_P4109219.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.86493055555556
+  lon: 19.245375
+  altitude: 110.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 68.26
+  iso: 200
+  width: 4968
+  height: 3576
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:20:10.000000000+02:00
+- image_filename: 2022_04_10__15_21_P4109251.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.861555555555555
+  lon: 19.232208333333332
+  altitude: 109.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 6.05
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:21:01.000000000+02:00
+- image_filename: 2022_04_10__15_26_P4109305.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.854194444444445
+  lon: 19.179208333333335
+  altitude: 100.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 6.97
+  iso: 200
+  width: 5063
+  height: 3665
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:26:27.000000000+02:00
+- image_filename: 2022_04_10__15_30_P4109395.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.85423611111111
+  lon: 19.17926388888889
+  altitude: 100.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 42.22
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:30:47.000000000+02:00
+- image_filename: 2022_04_10__15_43_P4109486.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.88268055555556
+  lon: 19.07488888888889
+  altitude: 107.0
+  focal_length: 120.0
+  focal_length_35: 240.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 42.22
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:43:44.000000000+02:00
+- image_filename: 2022_04_10__15_48_P4109633.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.91544444444445
+  lon: 19.004041666666666
+  altitude: 102.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 5.64
+  iso: 200
+  width: 4709
+  height: 3226
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:48:53.000000000+02:00
+- image_filename: 2022_04_10__15_49_P4109681.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.91877777777778
+  lon: 18.996291666666668
+  altitude: 100.0
+  focal_length: 48.0
+  focal_length_35: 96.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 10.03
+  iso: 200
+  width: 4831
+  height: 3536
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:49:26.000000000+02:00
+- image_filename: 2022_04_10__15_50_P4109729.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.92552777777777
+  lon: 18.984472222222223
+  altitude: 96.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 6.76
+  iso: 200
+  width: 5170
+  height: 3815
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:50:24.000000000+02:00
+- image_filename: 2022_04_10__15_55_P4109845.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.95261111111111
+  lon: 18.916375
+  altitude: 94.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 6.47
+  iso: 400
+  width: 5229
+  height: 3901
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:55:40.000000000+02:00
+- image_filename: 2022_04_10__15_55_P4109864.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.953611111111115
+  lon: 18.914375
+  altitude: 93.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 15.28
+  iso: 320
+  width: 5229
+  height: 3900
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:55:49.000000000+02:00
+- image_filename: 2022_04_10__15_55_P4109871.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.95418055555556
+  lon: 18.913249999999998
+  altitude: 92.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 7.91
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:55:54.000000000+02:00
+- image_filename: 2022_04_10__15_56_P4109894.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.954861111111114
+  lon: 18.911902777777776
+  altitude: 90.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 6.53
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:56:00.000000000+02:00
 - image_filename: 2022_04_10__15_56_P4109912.jpg
   post_slug: 2022-04-10-pociagiem-do-ciechocinka
   lat: 52.95588888888889
@@ -19,3 +683,291 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-04-10 15:56:09.000000000+02:00
+- image_filename: 2022_04_10__15_56_P4109941.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.95711111111111
+  lon: 18.907416666666666
+  altitude: 88.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 7.82
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:56:20.000000000+02:00
+- image_filename: 2022_04_10__15_56_P4109962.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.95929166666667
+  lon: 18.90301388888889
+  altitude: 89.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 5.38
+  iso: 400
+  width: 5177
+  height: 3853
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:56:40.000000000+02:00
+- image_filename: 2022_04_10__15_59_P4100113.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.97965277777778
+  lon: 18.859875000000002
+  altitude: 93.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 6.47
+  iso: 500
+  width: 4957
+  height: 3663
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 15:59:54.000000000+02:00
+- image_filename: 2022_04_10__16_02_P4100190.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.996875
+  lon: 18.826125
+  altitude: 83.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 7.16
+  iso: 1600
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 16:02:24.000000000+02:00
+- image_filename: 2022_04_10__16_08_P4100265.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 53.02441666666667
+  lon: 18.75576388888889
+  altitude: 50.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 7.0
+  iso: 640
+  width: 5090
+  height: 3707
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 16:08:18.000000000+02:00
+- image_filename: 2022_04_10__16_08_P4100279.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 53.02598611111111
+  lon: 18.75288888888889
+  altitude: 50.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 34.71
+  iso: 1000
+  width: 5210
+  height: 3872
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 16:08:35.000000000+02:00
+- image_filename: 2022_04_10__16_22_P4100400.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 53.00909722222222
+  lon: 18.62173611111111
+  altitude: 44.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 105.03
+  iso: 200
+  width: 5218
+  height: 3888
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 16:22:53.000000000+02:00
+- image_filename: 2022_04_10__16_22_P4100419.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 53.00855555555555
+  lon: 18.622069444444445
+  altitude: 44.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 97.52
+  iso: 200
+  width: 4853
+  height: 3396
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 16:22:59.000000000+02:00
+- image_filename: 2022_04_10__16_32_P4100454.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 53.00251388888889
+  lon: 18.62465277777778
+  altitude: 35.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 17.73
+  iso: 250
+  width: 5091
+  height: 3791
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-04-10 16:32:34.000000000+02:00
+- image_filename: 2022_04_10__17_03_P4100558.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.88136111111111
+  lon: 18.788611111111113
+  altitude: 30.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 6.24
+  iso: 200
+  width: 7484
+  height: 5910
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-10 17:03:50.000000000+02:00
+- image_filename: 2022_04_10__17_04_P4100559.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.88140277777778
+  lon: 18.788694444444445
+  altitude: 31.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 2.9
+  iso: 200
+  width: 5164
+  height: 3821
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-10 17:04:13.000000000+02:00
+- image_filename: 2022_04_10__17_08_P4100565.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.88220833333333
+  lon: 18.790722222222225
+  altitude: 29.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 5.57
+  iso: 200
+  width: 7445
+  height: 5407
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-10 17:08:31.000000000+02:00
+- image_filename: 2022_04_10__17_13_P4100570.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.88129166666667
+  lon: 18.7895
+  altitude: 27.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7821
+  height: 6106
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-10 17:13:31.000000000+02:00
+- image_filename: 2022_04_10__17_16_P4100571.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.88133333333333
+  lon: 18.78904166666667
+  altitude: 26.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 98.11
+  iso: 800
+  width: 5230
+  height: 3901
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-10 17:16:24.000000000+02:00
+- image_filename: 2022_04_10__17_18_P4100572.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.88133333333333
+  lon: 18.789083333333334
+  altitude: 26.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 2.49
+  iso: 200
+  width: 8029
+  height: 5897
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-10 17:18:09.000000000+02:00
+- image_filename: 2022_04_10__17_29_P4100573.jpg
+  post_slug: 2022-04-10-pociagiem-do-ciechocinka
+  lat: 52.88120833333333
+  lon: 18.788319444444447
+  altitude: 26.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7768
+  height: 5480
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-10 17:29:41.000000000+02:00

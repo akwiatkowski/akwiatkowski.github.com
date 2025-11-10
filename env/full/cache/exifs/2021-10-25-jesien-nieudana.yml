@@ -1,499 +1,4 @@
 ---
-- image_filename: 2021_10_25__14_48__A252505-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89136111111111
-  lon: 16.011652777777776
-  altitude: 509.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: -1.5e-9
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 8.76
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:48:12.000000000+02:00
-- image_filename: 2021_10_25__12_32__A252251.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.759541666666664
-  lon: 16.166527777777777
-  altitude: 501.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 37.24
-  iso: 200
-  width: 3755
-  height: 5068
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 12:32:04.000000000+02:00
-- image_filename: 2021_10_25__16_07__A252659-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86622222222223
-  lon: 16.02402777777778
-  altitude: 463.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: -1.5e-9
-  exposure: 1.0
-  exposure_string: 21474835/-1 s
-  focus_distance: 28.2
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:07:26.000000000+02:00
-- image_filename: 2021_10_25__15_31_DSC09166.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88073611111111
-  lon: 16.03020833333333
-  altitude: 507.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 125
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 15:31:36.000000000+02:00
-- image_filename: 2021_10_25__15_50__A252587-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87269444444445
-  lon: 16.03022222222222
-  altitude: 477.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 248.24
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:50:31.000000000+02:00
-- image_filename: 2021_10_25__16_40__A252701-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85469444444445
-  lon: 16.014625
-  altitude: 435.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 42949671/-1 s
-  focus_distance: 4.2
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:40:56.000000000+02:00
-- image_filename: 2021_10_25__14_00__A252404.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88088888888889
-  lon: 15.997180555555556
-  altitude: 441.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.96
-  iso: 200
-  width: 4935
-  height: 3684
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:00:15.000000000+02:00
-- image_filename: 2021_10_25__16_15_DSC09319_01.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86304166666667
-  lon: 16.023875
-  altitude: 446.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 1250
-  width: 5873
-  height: 3907
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:15:48.000000000+02:00
-- image_filename: 2021_10_25__13_56__A252392.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.880805555555554
-  lon: 15.99461111111111
-  altitude: 448.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1.63
-  iso: 200
-  width: 2575
-  height: 2227
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:56:03.000000000+02:00
-- image_filename: 2021_10_25__13_48__A252376.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87704166666667
-  lon: 15.991347222222222
-  altitude: 444.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 2.45
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:48:39.000000000+02:00
-- image_filename: 2021_10_25__16_07__A252660-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.866166666666665
-  lon: 16.02398611111111
-  altitude: 463.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 104.36
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:07:34.000000000+02:00
-- image_filename: 2021_10_25__16_34__A252694-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85834722222222
-  lon: 16.01675
-  altitude: 445.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 17.86
-  iso: 200
-  width: 5100
-  height: 3865
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:34:39.000000000+02:00
-- image_filename: 2021_10_25__14_13__A252442.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.8845
-  lon: 15.999388888888888
-  altitude: 438.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 16.03
-  iso: 200
-  width: 5130
-  height: 3830
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:13:27.000000000+02:00
-- image_filename: 2021_10_25__14_48__A252503-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.891375
-  lon: 16.011541666666666
-  altitude: 509.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: -1.3e-9
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 15.17
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:48:05.000000000+02:00
-- image_filename: 2021_10_25__15_17__A252542-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89047222222222
-  lon: 16.027277777777776
-  altitude: 576.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: -1.5e-9
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 3.25
-  iso: 200
-  width: 5173
-  height: 3879
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:17:03.000000000+02:00
-- image_filename: 2021_10_25__16_21__A252676-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.863
-  lon: 16.023680555555554
-  altitude: 445.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 71582791/-1 s
-  focus_distance: 4.55
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:21:34.000000000+02:00
-- image_filename: 2021_10_25__15_58__A252627-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.870375
-  lon: 16.027638888888887
-  altitude: 471.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 13421772/-1 s
-  focus_distance: 210.05
-  iso: 200
-  width: 4951
-  height: 3685
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:58:38.000000000+02:00
-- image_filename: 2021_10_25__16_15_DSC09312.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86304166666667
-  lon: 16.023902777777778
-  altitude: 446.0
-  focal_length: 331.3
-  focal_length_35: 331.0
-  crop: 0.9990944763054633
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 800
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:15:24.000000000+02:00
-- image_filename: 2021_10_25__16_10_DSC09238.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.864375
-  lon: 16.022819444444444
-  altitude: 453.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 1600
-  width: 5651
-  height: 3760
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:10:49.000000000+02:00
-- image_filename: 2021_10_25__16_13_DSC09272.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.863055555555555
-  lon: 16.023888888888887
-  altitude: 447.0
-  focal_length: 362.1
-  focal_length_35: 362.0
-  crop: 0.9997238331952498
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:13:49.000000000+02:00
-- image_filename: 2021_10_25__13_46__A252367-hdr.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87594444444444
-  lon: 15.991527777777778
-  altitude: 458.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.7
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:46:08.000000000+02:00
-- image_filename: 2021_10_25__13_23_DSC09122.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.869875
-  lon: 15.991416666666666
-  altitude: 413.0
-  focal_length: 154.0
-  focal_length_35: 154.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6007
-  height: 3996
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 13:23:02.000000000+02:00
-- image_filename: 2021_10_25__16_09_DSC09214.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86529166666667
-  lon: 16.02338888888889
-  altitude: 458.0
-  focal_length: 247.7
-  focal_length_35: 247.0
-  crop: 0.9971740008074284
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 640
-  width: 3436
-  height: 5142
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:09:02.000000000+02:00
-- image_filename: 2021_10_25__16_11_DSC09243.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86425
-  lon: 16.023208333333333
-  altitude: 452.0
-  focal_length: 324.2
-  focal_length_35: 324.0
-  crop: 0.999383096853794
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:11:40.000000000+02:00
-- image_filename: 2021_10_25__15_01__A252522-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89086111111111
-  lon: 16.018513888888886
-  altitude: 554.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 42949671/-1 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4959
-  height: 3719
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:01:02.000000000+02:00
-- image_filename: 2021_10_25__14_30_DSC09153.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.890208333333334
-  lon: 16.00263888888889
-  altitude: 467.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 125
-  width: 5838
-  height: 3884
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:30:55.000000000+02:00
-- image_filename: 2021_10_25__16_03__A252647-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86830555555556
-  lon: 16.02573611111111
-  altitude: 471.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: -1.5e-9
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 22.26
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:03:36.000000000+02:00
-- image_filename: 2021_10_25__13_37__A252338.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87306944444445
-  lon: 15.991958333333333
-  altitude: 435.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.29
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:37:26.000000000+02:00
 - image_filename: 2021_10_25__10_13_DSC09098.jpg
   post_slug: 2021-10-25-jesien-nieudana
   lat: 50.76623611111111
@@ -511,906 +16,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-10-25 10:13:18.000000000+02:00
-- image_filename: 2021_10_25__12_13__A252191.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.759347222222225
-  lon: 16.166124999999997
-  altitude: 491.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.75
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 12:13:14.000000000+02:00
-- image_filename: 2021_10_25__16_09_DSC09219.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86519444444445
-  lon: 16.023333333333333
-  altitude: 456.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 800
-  width: 5637
-  height: 3751
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:09:10.000000000+02:00
-- image_filename: 2021_10_25__16_10__A252665-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86461111111111
-  lon: 16.023
-  altitude: 452.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 30.57
-  iso: 200
-  width: 5034
-  height: 3775
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:10:00.000000000+02:00
-- image_filename: 2021_10_25__15_39_DSC09191.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87636111111111
-  lon: 16.029625
-  altitude: 485.0
-  focal_length: 156.6
-  focal_length_35: 156.0
-  crop: 0.996168582375479
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5716
-  height: 3803
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 15:39:30.000000000+02:00
-- image_filename: 2021_10_25__16_10_DSC09237.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.864361111111116
-  lon: 16.022791666666667
-  altitude: 453.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 1600
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:10:47.000000000+02:00
-- image_filename: 2021_10_25__12_39__A252263.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.762902777777775
-  lon: 16.166041666666665
-  altitude: 517.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 23.57
-  iso: 200
-  width: 5193
-  height: 3852
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 12:39:02.000000000+02:00
-- image_filename: 2021_10_25__16_11_DSC09247.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86423611111111
-  lon: 16.023208333333333
-  altitude: 451.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 2500
-  width: 4987
-  height: 3393
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:11:45.000000000+02:00
-- image_filename: 2021_10_25__13_47__A252372.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87640277777778
-  lon: 15.991263888888888
-  altitude: 453.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 20.5
-  iso: 200
-  width: 5063
-  height: 3761
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:47:15.000000000+02:00
-- image_filename: 2021_10_25__13_39__A252348.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87370833333333
-  lon: 15.991736111111111
-  altitude: 437.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 50.88
-  iso: 200
-  width: 4982
-  height: 3720
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:39:01.000000000+02:00
-- image_filename: 2021_10_25__14_12__A252436.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88408333333333
-  lon: 15.999541666666666
-  altitude: 437.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:12:25.000000000+02:00
-- image_filename: 2021_10_25__14_18_DSC09130.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88747222222222
-  lon: 16.000027777777778
-  altitude: 447.0
-  focal_length: 252.4
-  focal_length_35: 252.0
-  crop: 0.9984152139461172
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 5951
-  height: 3959
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:18:58.000000000+02:00
-- image_filename: 2021_10_25__13_24_DSC09125.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.870583333333336
-  lon: 15.991722222222222
-  altitude: 417.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 160
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 13:24:19.000000000+02:00
-- image_filename: 2021_10_25__14_02__A252410.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.881347222222225
-  lon: 15.999263888888889
-  altitude: 435.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.45
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:02:59.000000000+02:00
-- image_filename: 2021_10_25__14_19_DSC09138.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88802777777778
-  lon: 16.000138888888888
-  altitude: 447.0
-  focal_length: 319.0
-  focal_length_35: 319.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 250
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:19:40.000000000+02:00
-- image_filename: 2021_10_25__14_10__A252430.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.883375
-  lon: 15.999791666666665
-  altitude: 436.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 0.74
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:10:00.000000000+02:00
-- image_filename: 2021_10_25__13_40__A252351.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87415277777778
-  lon: 15.99161111111111
-  altitude: 438.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 2.04
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:40:30.000000000+02:00
-- image_filename: 2021_10_25__16_30__A252687-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86047222222222
-  lon: 16.019305555555555
-  altitude: 440.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 42949671/-1 s
-  focus_distance: 49.79
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:30:19.000000000+02:00
-- image_filename: 2021_10_25__15_34__A252576-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87858333333333
-  lon: 16.029916666666665
-  altitude: 494.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 16.42
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:34:56.000000000+02:00
-- image_filename: 2021_10_25__15_59__A252630-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86986111111111
-  lon: 16.027513888888887
-  altitude: 473.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 180.04
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:59:36.000000000+02:00
-- image_filename: 2021_10_25__16_13_DSC09275.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86302777777778
-  lon: 16.023902777777778
-  altitude: 446.0
-  focal_length: 362.1
-  focal_length_35: 362.0
-  crop: 0.9997238331952498
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 1000
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:13:52.000000000+02:00
-- image_filename: 2021_10_25__14_47__A252502-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.891375
-  lon: 16.0115
-  altitude: 508.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: -1.3e-9
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 12.27
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:47:59.000000000+02:00
-- image_filename: 2021_10_25__14_29_DSC09143.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89018055555555
-  lon: 16.00259722222222
-  altitude: 466.0
-  focal_length: 322.5
-  focal_length_35: 322.0
-  crop: 0.9984496124031008
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 320
-  width: 5727
-  height: 3810
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:29:58.000000000+02:00
-- image_filename: 2021_10_25__10_14_DSC09103.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.76623611111111
-  lon: 16.173791666666666
-  altitude: 432.0
-  focal_length: 37.0
-  focal_length_35: 37.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5637
-  height: 4008
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-10-25 10:14:46.000000000+02:00
-- image_filename: 2021_10_25__16_14_DSC09307.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86304166666667
-  lon: 16.02397222222222
-  altitude: 446.0
-  focal_length: 344.3
-  focal_length_35: 344.0
-  crop: 0.9991286668602962
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 1250
-  width: 4484
-  height: 3274
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:14:53.000000000+02:00
-- image_filename: 2021_10_25__15_24__A252559-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88576388888889
-  lon: 16.029291666666666
-  altitude: 541.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 42.22
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:24:16.000000000+02:00
-- image_filename: 2021_10_25__14_46__A252499-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.891444444444446
-  lon: 16.010291666666667
-  altitude: 503.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: -1.3e-9
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 3.67
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:46:56.000000000+02:00
-- image_filename: 2021_10_25__13_48__A252377.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87711111111111
-  lon: 15.991472222222221
-  altitude: 443.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 19.58
-  iso: 200
-  width: 4990
-  height: 3725
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:48:58.000000000+02:00
-- image_filename: 2021_10_25__16_15_DSC09311.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86304166666667
-  lon: 16.023888888888887
-  altitude: 446.0
-  focal_length: 225.5
-  focal_length_35: 225.0
-  crop: 0.9977827050997783
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 500
-  width: 5135
-  height: 3434
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:15:21.000000000+02:00
-- image_filename: 2021_10_25__14_52__A252515.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.890972222222224
-  lon: 16.014333333333333
-  altitude: 525.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:52:33.000000000+02:00
-- image_filename: 2021_10_25__12_22__A252215.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.75680555555556
-  lon: 16.16136111111111
-  altitude: 496.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 9.47
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 12:22:55.000000000+02:00
-- image_filename: 2021_10_25__14_52__A252512-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89105555555555
-  lon: 16.013916666666667
-  altitude: 522.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 19.69
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:52:11.000000000+02:00
-- image_filename: 2021_10_25__13_38__A252343.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87352777777778
-  lon: 15.991777777777777
-  altitude: 436.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 2.18
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:38:20.000000000+02:00
-- image_filename: 2021_10_25__12_09__A252189.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.761125
-  lon: 16.16926388888889
-  altitude: 492.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 12:09:04.000000000+02:00
-- image_filename: 2021_10_25__14_33__A252481-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89083333333333
-  lon: 16.00448611111111
-  altitude: 477.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: -1.3e-9
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 17.35
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:33:38.000000000+02:00
-- image_filename: 2021_10_25__15_53__A252606-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87193055555556
-  lon: 16.029027777777777
-  altitude: 473.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: -1.5e-9
-  exposure: 1.0
-  exposure_string: 13421772/-1 s
-  focus_distance: 20.64
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:53:53.000000000+02:00
-- image_filename: 2021_10_25__16_12_DSC09265.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86377777777778
-  lon: 16.023458333333334
-  altitude: 453.0
-  focal_length: 307.2
-  focal_length_35: 307.0
-  crop: 0.9993489583333334
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:12:21.000000000+02:00
-- image_filename: 2021_10_25__14_12__A252437.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88426388888889
-  lon: 15.999472222222222
-  altitude: 437.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 2.98
-  iso: 200
-  width: 4675
-  height: 3592
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:12:43.000000000+02:00
-- image_filename: 2021_10_25__13_05__A252271.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.865875
-  lon: 15.980194444444445
-  altitude: 420.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 14.39
-  iso: 200
-  width: 5196
-  height: 3860
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:05:07.000000000+02:00
-- image_filename: 2021_10_25__16_14_DSC09297.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86306944444445
-  lon: 16.02409722222222
-  altitude: 446.0
-  focal_length: 242.9
-  focal_length_35: 242.0
-  crop: 0.9962947715109098
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 320
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:14:38.000000000+02:00
-- image_filename: 2021_10_25__15_32_DSC09169.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88034722222222
-  lon: 16.02998611111111
-  altitude: 504.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5188
-  height: 3452
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 15:32:11.000000000+02:00
-- image_filename: 2021_10_25__16_42__A252708-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85365277777778
-  lon: 16.013152777777776
-  altitude: 427.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 42949671/-1 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:42:56.000000000+02:00
-- image_filename: 2021_10_25__15_57__A252623-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87065277777778
-  lon: 16.027555555555555
-  altitude: 471.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 315.08
-  iso: 200
-  width: 5078
-  height: 3808
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:57:49.000000000+02:00
-- image_filename: 2021_10_25__14_09__A252427.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88305555555556
-  lon: 15.999708333333333
-  altitude: 436.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 0.57
-  iso: 200
-  width: 4881
-  height: 3424
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:09:34.000000000+02:00
-- image_filename: 2021_10_25__14_32__A252478.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.8905
-  lon: 16.003805555555555
-  altitude: 472.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.31
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:32:23.000000000+02:00
-- image_filename: 2021_10_25__13_54__A252388.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.879958333333335
-  lon: 15.993569444444443
-  altitude: 446.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 9.07
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:54:03.000000000+02:00
-- image_filename: 2021_10_25__14_30_DSC09146.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89018055555555
-  lon: 16.002625
-  altitude: 466.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 320
-  width: 5973
-  height: 3974
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:30:12.000000000+02:00
-- image_filename: 2021_10_25__13_23__A252309.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86990277777778
-  lon: 15.991430555555555
-  altitude: 413.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 29.57
-  iso: 200
-  width: 5151
-  height: 3845
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:23:14.000000000+02:00
-- image_filename: 2021_10_25__16_09_DSC09220.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86516666666667
-  lon: 16.023305555555556
-  altitude: 456.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 800
-  width: 5953
-  height: 3960
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:09:12.000000000+02:00
-- image_filename: 2021_10_25__15_51__A252591-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87261111111111
-  lon: 16.03011111111111
-  altitude: 476.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4882
-  height: 3662
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:51:08.000000000+02:00
-- image_filename: 2021_10_25__13_07__A252278.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86690277777778
-  lon: 15.980416666666667
-  altitude: 408.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 8.36
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:07:44.000000000+02:00
-- image_filename: 2021_10_25__16_15_DSC09310.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86304166666667
-  lon: 16.023916666666665
-  altitude: 446.0
-  focal_length: 124.3
-  focal_length_35: 124.0
-  crop: 0.997586484312148
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  iso: 160
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:15:05.000000000+02:00
 - image_filename: 2021_10_25__10_14_DSC09100.jpg
   post_slug: 2021-10-25-jesien-nieudana
   lat: 50.76623611111111
@@ -1428,477 +33,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-10-25 10:14:22.000000000+02:00
-- image_filename: 2021_10_26__10_02_DSC09332.jpg
+- image_filename: 2021_10_25__10_14_DSC09103.jpg
   post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85131944444445
-  lon: 16.00761111111111
-  altitude: 425.0
-  focal_length: 75.0
-  focal_length_35: 75.0
+  lat: 50.76623611111111
+  lon: 16.173791666666666
+  altitude: 432.0
+  focal_length: 37.0
+  focal_length_35: 37.0
   crop: 1.0
   aperture: 5.6
   exposure: 0.002
   exposure_string: 1/500 s
   iso: 100
-  width: 5801
-  height: 3800
+  width: 5637
+  height: 4008
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-10-26 10:02:18.000000000+02:00
-- image_filename: 2021_10_25__16_14_DSC09309_01.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86304166666667
-  lon: 16.023958333333333
-  altitude: 446.0
-  focal_length: 151.3
-  focal_length_35: 151.0
-  crop: 0.9980171844018505
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 250
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:14:58.000000000+02:00
-- image_filename: 2021_10_25__15_05__A252525-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89069444444444
-  lon: 16.02198611111111
-  altitude: 581.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: -1.5e-9
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 2.69
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:05:23.000000000+02:00
-- image_filename: 2021_10_25__14_01__A252407.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.880833333333335
-  lon: 15.997791666666666
-  altitude: 439.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 17.26
-  iso: 200
-  width: 4801
-  height: 3633
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:01:25.000000000+02:00
-- image_filename: 2021_10_25__16_11_DSC09251.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86405555555556
-  lon: 16.023305555555556
-  altitude: 453.0
-  focal_length: 223.9
-  focal_length_35: 223.0
-  crop: 0.995980348369808
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 500
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:11:59.000000000+02:00
-- image_filename: 2021_10_25__15_39_DSC09192.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87634722222222
-  lon: 16.029625
-  altitude: 484.0
-  focal_length: 143.5
-  focal_length_35: 143.0
-  crop: 0.9965156794425087
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 15:39:34.000000000+02:00
-- image_filename: 2021_10_25__16_12_DSC09263.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86377777777778
-  lon: 16.023458333333334
-  altitude: 453.0
-  focal_length: 307.2
-  focal_length_35: 307.0
-  crop: 0.9993489583333334
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 640
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:12:21.000000000+02:00
-- image_filename: 2021_10_25__16_32__A252690-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85922222222222
-  lon: 16.017902777777778
-  altitude: 442.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 21474835/-1 s
-  focus_distance: 17.94
-  iso: 200
-  width: 5072
-  height: 3804
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:32:32.000000000+02:00
-- image_filename: 2021_10_25__14_24__A252467.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88979166666667
-  lon: 16.001986111111112
-  altitude: 463.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 138.85
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:24:48.000000000+02:00
-- image_filename: 2021_10_25__16_12_DSC09258.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86386111111111
-  lon: 16.023402777777775
-  altitude: 453.0
-  focal_length: 196.8
-  focal_length_35: 196.0
-  crop: 0.9959349593495934
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 400
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:12:14.000000000+02:00
-- image_filename: 2021_10_25__14_09__A252425.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.883041666666664
-  lon: 15.999694444444444
-  altitude: 436.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.67
-  iso: 200
-  width: 4359
-  height: 3414
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:09:29.000000000+02:00
-- image_filename: 2021_10_25__16_03__A252649-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86816666666667
-  lon: 16.025652777777776
-  altitude: 470.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 21474835/-1 s
-  focus_distance: 51.85
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:03:47.000000000+02:00
-- image_filename: 2021_10_25__16_14_DSC09290.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86306944444445
-  lon: 16.02409722222222
-  altitude: 446.0
-  focal_length: 205.7
-  focal_length_35: 205.0
-  crop: 0.9965969859017988
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 320
-  width: 4809
-  height: 3366
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:14:15.000000000+02:00
-- image_filename: 2021_10_25__12_31__A252246.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.759055555555555
-  lon: 16.16573611111111
-  altitude: 500.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 13.85
-  iso: 200
-  width: 4974
-  height: 3713
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 12:31:00.000000000+02:00
-- image_filename: 2021_10_25__13_47__A252374.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.876847222222224
-  lon: 15.991069444444443
-  altitude: 447.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 11.49
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:47:57.000000000+02:00
-- image_filename: 2021_10_25__13_58__A252400.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88102777777778
-  lon: 15.99561111111111
-  altitude: 443.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 121.36
-  iso: 200
-  width: 4927
-  height: 3678
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:58:30.000000000+02:00
-- image_filename: 2021_10_25__14_29_DSC09141.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.890166666666666
-  lon: 16.002583333333334
-  altitude: 466.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5973
-  height: 3974
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:29:50.000000000+02:00
-- image_filename: 2021_10_25__15_37_DSC09184.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.876694444444446
-  lon: 16.02975
-  altitude: 484.0
-  focal_length: 368.4
-  focal_length_35: 368.0
-  crop: 0.9989142236699241
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 125
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 15:37:53.000000000+02:00
-- image_filename: 2021_10_25__16_12_DSC09254.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86391666666667
-  lon: 16.023374999999998
-  altitude: 453.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 1250
-  width: 5971
-  height: 3973
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:12:10.000000000+02:00
-- image_filename: 2021_10_25__13_43__A252363.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87569444444444
-  lon: 15.991375
-  altitude: 456.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 19.23
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:43:24.000000000+02:00
-- image_filename: 2021_10_25__16_11_DSC09250.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86409722222222
-  lon: 16.02327777777778
-  altitude: 453.0
-  focal_length: 138.6
-  focal_length_35: 138.0
-  crop: 0.9956709956709957
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 250
-  width: 5252
-  height: 3595
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:11:56.000000000+02:00
-- image_filename: 2021_10_25__14_30_DSC09145.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89018055555555
-  lon: 16.00259722222222
-  altitude: 466.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 400
-  width: 5946
-  height: 3956
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:30:07.000000000+02:00
-- image_filename: 2021_10_25__14_52__A252511-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.891083333333334
-  lon: 16.013805555555557
-  altitude: 521.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 22.05
-  iso: 200
-  width: 5117
-  height: 3838
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:52:05.000000000+02:00
-- image_filename: 2021_10_25__16_08_DSC09212.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.865375
-  lon: 16.023444444444443
-  altitude: 459.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 800
-  width: 5335
-  height: 3619
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:08:56.000000000+02:00
-- image_filename: 2021_10_25__12_25__A252231.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.75643055555555
-  lon: 16.162694444444444
-  altitude: 496.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5189
-  height: 3874
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 12:25:01.000000000+02:00
-- image_filename: 2021_10_25__14_19_DSC09135.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.887791666666665
-  lon: 16.000083333333333
-  altitude: 446.0
-  focal_length: 228.7
-  focal_length_35: 228.0
-  crop: 0.9969392216878007
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:19:24.000000000+02:00
-- image_filename: 2021_10_25__16_10_DSC09232.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86431944444445
-  lon: 16.02275
-  altitude: 454.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 1250
-  width: 5248
-  height: 3514
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:10:24.000000000+02:00
+  time: 2021-10-25 10:14:46.000000000+02:00
 - image_filename: 2021_10_25__12_06__A252184.jpg
   post_slug: 2021-10-25-jesien-nieudana
   lat: 50.76198611111111
@@ -1917,94 +68,78 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-10-25 12:06:16.000000000+02:00
-- image_filename: 2021_10_25__16_14_DSC09302.jpg
+- image_filename: 2021_10_25__12_09__A252189.jpg
   post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.863055555555555
-  lon: 16.02402777777778
-  altitude: 446.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
+  lat: 50.761125
+  lon: 16.16926388888889
+  altitude: 492.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 12:09:04.000000000+02:00
+- image_filename: 2021_10_25__12_13__A252191.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.759347222222225
+  lon: 16.166124999999997
+  altitude: 491.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.75
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 12:13:14.000000000+02:00
+- image_filename: 2021_10_25__12_22__A252215.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.75680555555556
+  lon: 16.16136111111111
+  altitude: 496.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 5.6
   exposure: 0.008
   exposure_string: 1/125 s
-  iso: 160
-  width: 5263
-  height: 3459
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:14:46.000000000+02:00
-- image_filename: 2021_10_25__13_42__A252360.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87520833333333
-  lon: 15.991375
-  altitude: 449.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 16.01
+  focus_distance: 9.47
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-10-25 13:42:33.000000000+02:00
-- image_filename: 2021_10_25__15_17__A252545.jpg
+  time: 2021-10-25 12:22:55.000000000+02:00
+- image_filename: 2021_10_25__12_25__A252231.jpg
   post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.890027777777775
-  lon: 16.027277777777776
-  altitude: 573.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 50.75643055555555
+  lon: 16.162694444444444
+  altitude: 496.0
+  focal_length: 16.0
+  focal_length_35: 32.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 6.79
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:17:37.000000000+02:00
-- image_filename: 2021_10_25__13_45__A252365.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87598611111111
-  lon: 15.991624999999999
-  altitude: 458.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 26.47
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:45:55.000000000+02:00
-- image_filename: 2021_10_25__14_30_DSC09151.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.890208333333334
-  lon: 16.00263888888889
-  altitude: 467.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
   aperture: 6.3
   exposure: 0.00625
   exposure_string: 1/160 s
-  iso: 100
-  width: 5769
-  height: 3821
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:30:44.000000000+02:00
+  focus_distance: 1000.0
+  iso: 200
+  width: 5189
+  height: 3874
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 12:25:01.000000000+02:00
 - image_filename: 2021_10_25__12_25__A252235.jpg
   post_slug: 2021-10-25-jesien-nieudana
   lat: 50.756708333333336
@@ -2023,554 +158,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-10-25 12:25:59.000000000+02:00
-- image_filename: 2021_10_25__13_46__A252366.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.875972222222224
-  lon: 15.991569444444444
-  altitude: 458.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 13.47
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:46:00.000000000+02:00
-- image_filename: 2021_10_25__16_41__A252702-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85429166666667
-  lon: 16.014152777777777
-  altitude: 430.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 53687091/-1 s
-  focus_distance: 2.57
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:41:42.000000000+02:00
-- image_filename: 2021_10_25__14_34__A252482-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89122222222222
-  lon: 16.005430555555556
-  altitude: 483.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: -1.5e-9
-  exposure: 1.0
-  exposure_string: 21474835/-1 s
-  focus_distance: 24.13
-  iso: 200
-  width: 4935
-  height: 3701
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:34:57.000000000+02:00
-- image_filename: 2021_10_25__13_20_DSC09108.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87002777777778
-  lon: 15.989930555555555
-  altitude: 411.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 125
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 13:20:17.000000000+02:00
-- image_filename: 2021_10_25__15_57__A252622-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.870666666666665
-  lon: 16.027555555555555
-  altitude: 471.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4896
-  height: 3469
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:57:42.000000000+02:00
-- image_filename: 2021_10_25__13_06__A252276.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86665277777778
-  lon: 15.98038888888889
-  altitude: 408.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.04
-  exposure_string: 1/25 s
-  focus_distance: 4.18
-  iso: 200
-  width: 3912
-  height: 5240
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:06:51.000000000+02:00
-- image_filename: 2021_10_25__13_41__A252357.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.874625
-  lon: 15.991444444444443
-  altitude: 443.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 17.03
-  iso: 200
-  width: 4908
-  height: 3685
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:41:37.000000000+02:00
-- image_filename: 2021_10_25__16_21__A252672-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.863
-  lon: 16.023694444444445
-  altitude: 445.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 42949671/-1 s
-  focus_distance: 1.96
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:21:12.000000000+02:00
-- image_filename: 2021_10_25__14_19_DSC09133.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88766666666667
-  lon: 16.000069444444446
-  altitude: 446.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 200
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:19:15.000000000+02:00
-- image_filename: 2021_10_25__13_24_DSC09127.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.870694444444446
-  lon: 15.991763888888888
-  altitude: 418.0
-  focal_length: 176.4
-  focal_length_35: 176.0
-  crop: 0.9977324263038548
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 13:24:28.000000000+02:00
-- image_filename: 2021_10_25__16_14_DSC09291.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86306944444445
-  lon: 16.02409722222222
-  altitude: 446.0
-  focal_length: 205.7
-  focal_length_35: 205.0
-  crop: 0.9965969859017988
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 320
-  width: 4821
-  height: 3338
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:14:16.000000000+02:00
-- image_filename: 2021_10_25__15_05_DSC09158.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.890708333333336
-  lon: 16.021666666666665
-  altitude: 580.0
-  focal_length: 348.2
-  focal_length_35: 348.0
-  crop: 0.9994256174612293
-  aperture: 8.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5824
-  height: 3772
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 15:05:07.000000000+02:00
-- image_filename: 2021_10_25__16_15_DSC09321.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86304166666667
-  lon: 16.023875
-  altitude: 446.0
-  focal_length: 284.4
-  focal_length_35: 284.0
-  crop: 0.9985935302390999
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 640
-  width: 5816
-  height: 3901
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:15:50.000000000+02:00
-- image_filename: 2021_10_25__13_14__A252288.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86870833333333
-  lon: 15.984444444444444
-  altitude: 414.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 109.22
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:14:08.000000000+02:00
-- image_filename: 2021_10_25__15_28__A252564-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88327777777778
-  lon: 16.030402777777777
-  altitude: 525.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 53687091/-1 s
-  focus_distance: 19.5
-  iso: 200
-  width: 4724
-  height: 3732
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:28:01.000000000+02:00
-- image_filename: 2021_10_25__14_32__A252479.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89055555555556
-  lon: 16.003958333333333
-  altitude: 474.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 61.59
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:32:32.000000000+02:00
-- image_filename: 2021_10_25__14_52__A252510-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89109722222222
-  lon: 16.01372222222222
-  altitude: 521.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: -1.3e-9
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 2.92
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:52:00.000000000+02:00
-- image_filename: 2021_10_25__16_37__A252698-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85711111111111
-  lon: 16.015361111111112
-  altitude: 450.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 42949671/-1 s
-  focus_distance: 7.71
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:37:01.000000000+02:00
-- image_filename: 2021_10_25__15_38_DSC09187.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.876694444444446
-  lon: 16.02973611111111
-  altitude: 484.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 200
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 15:38:06.000000000+02:00
-- image_filename: 2021_10_25__13_38__A252344.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87356944444444
-  lon: 15.991777777777777
-  altitude: 436.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 24.86
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:38:24.000000000+02:00
-- image_filename: 2021_10_25__14_07__A252418.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88272222222222
-  lon: 15.999916666666666
-  altitude: 435.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 23.31
-  iso: 200
-  width: 4847
-  height: 3545
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:07:50.000000000+02:00
-- image_filename: 2021_10_25__15_05_DSC09157.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.890708333333336
-  lon: 16.02161111111111
-  altitude: 579.0
-  focal_length: 171.7
-  focal_length_35: 171.0
-  crop: 0.9959231217239372
-  aperture: 8.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5973
-  height: 3974
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 15:05:01.000000000+02:00
-- image_filename: 2021_10_25__15_53__A252602-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.872
-  lon: 16.029083333333332
-  altitude: 473.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: -1.3e-9
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 27.26
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:53:03.000000000+02:00
-- image_filename: 2021_10_25__14_58__A252519-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89084722222222
-  lon: 16.01838888888889
-  altitude: 552.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 34359739/-1 s
-  focus_distance: 20.87
-  iso: 200
-  width: 5011
-  height: 3758
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:58:29.000000000+02:00
-- image_filename: 2021_10_25__13_15__A252290.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86944444444445
-  lon: 15.985597222222221
-  altitude: 414.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:15:28.000000000+02:00
-- image_filename: 2021_10_25__12_32__A252254.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.75995833333333
-  lon: 16.167097222222225
-  altitude: 501.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 6.01
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 12:32:42.000000000+02:00
-- image_filename: 2021_10_25__14_19_DSC09136.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88788888888889
-  lon: 16.000083333333333
-  altitude: 446.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 250
-  width: 5943
-  height: 3954
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:19:30.000000000+02:00
-- image_filename: 2021_10_25__16_59__A252712-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85131944444445
-  lon: 16.00761111111111
-  altitude: 425.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 214748367/-1 s
-  focus_distance: 11.06
-  iso: 200
-  width: 5057
-  height: 3793
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:59:44.000000000+02:00
-- image_filename: 2021_10_25__16_16_DSC09329.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.863
-  lon: 16.023888888888887
-  altitude: 447.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 1600
-  width: 4290
-  height: 3029
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:16:20.000000000+02:00
-- image_filename: 2021_10_25__13_58__A252398.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88104166666667
-  lon: 15.99536111111111
-  altitude: 444.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 62.06
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:58:03.000000000+02:00
-- image_filename: 2021_10_25__13_34__A252316.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87240277777778
-  lon: 15.992249999999999
-  altitude: 433.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 6.36
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:34:16.000000000+02:00
 - image_filename: 2021_10_25__12_28__A252242.jpg
   post_slug: 2021-10-25-jesien-nieudana
   lat: 50.75827777777778
@@ -2589,591 +176,132 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-10-25 12:28:20.000000000+02:00
-- image_filename: 2021_10_25__13_22_DSC09117.jpg
+- image_filename: 2021_10_25__12_31__A252246.jpg
   post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86980555555556
-  lon: 15.990944444444443
-  altitude: 411.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 250
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 13:22:04.000000000+02:00
-- image_filename: 2021_10_25__16_42__A252706-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85376388888889
-  lon: 16.013277777777777
-  altitude: 428.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 53687091/-1 s
-  focus_distance: 20.5
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:42:42.000000000+02:00
-- image_filename: 2021_10_25__15_12__A252540-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89154166666667
-  lon: 16.02572222222222
-  altitude: 587.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 29.05
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:12:17.000000000+02:00
-- image_filename: 2021_10_25__13_34__A252317.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87240277777778
-  lon: 15.992249999999999
-  altitude: 433.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.86
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:34:19.000000000+02:00
-- image_filename: 2021_10_25__14_35__A252487-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89134722222222
-  lon: 16.006138888888888
-  altitude: 486.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 20.15
-  iso: 200
-  width: 4970
-  height: 3727
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:35:37.000000000+02:00
-- image_filename: 2021_10_25__14_19_DSC09132.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.887569444444445
-  lon: 16.000069444444446
-  altitude: 446.0
-  focal_length: 180.8
-  focal_length_35: 180.0
-  crop: 0.9955752212389379
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 125
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:19:08.000000000+02:00
-- image_filename: 2021_10_25__14_19_DSC09139.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88811111111111
-  lon: 16.000208333333333
-  altitude: 447.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 200
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:19:47.000000000+02:00
-- image_filename: 2021_10_25__15_30__A252569-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.881625
-  lon: 16.030055555555556
-  altitude: 513.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: -1.5e-9
-  exposure: 1.0
-  exposure_string: 21474835/-1 s
-  focus_distance: 20.87
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:30:17.000000000+02:00
-- image_filename: 2021_10_25__13_41__A252355.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87451388888889
-  lon: 15.99148611111111
-  altitude: 442.0
+  lat: 50.759055555555555
+  lon: 16.16573611111111
+  altitude: 500.0
   focal_length: 61.0
   focal_length_35: 122.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 17.21
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 13.85
   iso: 200
-  width: 5239
-  height: 3911
+  width: 4974
+  height: 3713
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-10-25 13:41:11.000000000+02:00
-- image_filename: 2021_10_25__15_57__A252619-edit.jpg
+  time: 2021-10-25 12:31:00.000000000+02:00
+- image_filename: 2021_10_25__12_32__A252251.jpg
   post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.870875
-  lon: 16.027666666666665
-  altitude: 471.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 3.43
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:57:10.000000000+02:00
-- image_filename: 2021_10_25__14_46__A252495.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.8915
-  lon: 16.00986111111111
-  altitude: 500.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 15.5
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:46:34.000000000+02:00
-- image_filename: 2021_10_25__14_29_DSC09142.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89018055555555
-  lon: 16.00259722222222
-  altitude: 466.0
-  focal_length: 182.9
-  focal_length_35: 182.0
-  crop: 0.9950792782941498
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 125
-  width: 5576
-  height: 3710
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:29:55.000000000+02:00
-- image_filename: 2021_10_25__16_02__A252645-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86876388888889
-  lon: 16.026013888888887
-  altitude: 470.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 76.21
-  iso: 200
-  width: 5110
-  height: 3832
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 16:02:40.000000000+02:00
-- image_filename: 2021_10_25__16_16_DSC09323.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86298611111111
-  lon: 16.023902777777778
-  altitude: 447.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 800
-  width: 5429
-  height: 3627
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:16:14.000000000+02:00
-- image_filename: 2021_10_25__14_29__A252475-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.890166666666666
-  lon: 16.002569444444443
-  altitude: 467.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: -1.7e-9
-  exposure: 1.0
-  exposure_string: 21474835/-1 s
-  focus_distance: 5.59
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:29:18.000000000+02:00
-- image_filename: 2021_10_25__16_11_DSC09245.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86423611111111
-  lon: 16.023208333333333
-  altitude: 452.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 3200
-  width: 4268
-  height: 3160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:11:43.000000000+02:00
-- image_filename: 2021_10_25__13_46__A252370.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87623611111111
-  lon: 15.991375
-  altitude: 455.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:46:46.000000000+02:00
-- image_filename: 2021_10_25__14_44__A252492-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89161111111111
-  lon: 16.00872222222222
-  altitude: 496.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: -1.3e-9
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 50.72
-  iso: 200
-  width: 5065
-  height: 3799
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:44:59.000000000+02:00
-- image_filename: 2021_10_25__16_11_DSC09249.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86420833333334
-  lon: 16.023208333333333
-  altitude: 453.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 2500
-  width: 4851
-  height: 3217
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 16:11:48.000000000+02:00
-- image_filename: 2021_10_25__13_36__A252331.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87280555555556
-  lon: 15.992027777777777
-  altitude: 434.0
+  lat: 50.759541666666664
+  lon: 16.166527777777777
+  altitude: 501.0
   focal_length: 70.0
   focal_length_35: 140.0
   crop: 2.0
-  aperture: 5.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 37.24
+  iso: 200
+  width: 3755
+  height: 5068
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 12:32:04.000000000+02:00
+- image_filename: 2021_10_25__12_32__A252254.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.75995833333333
+  lon: 16.167097222222225
+  altitude: 501.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.01
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 12:32:42.000000000+02:00
+- image_filename: 2021_10_25__12_39__A252263.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.762902777777775
+  lon: 16.166041666666665
+  altitude: 517.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 23.57
+  iso: 200
+  width: 5193
+  height: 3852
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 12:39:02.000000000+02:00
+- image_filename: 2021_10_25__13_05__A252271.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.865875
+  lon: 15.980194444444445
+  altitude: 420.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
   exposure: 0.004
   exposure_string: 1/250 s
-  focus_distance: 25.76
-  iso: 200
-  width: 4881
-  height: 3644
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:36:38.000000000+02:00
-- image_filename: 2021_10_25__14_12__A252438.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88426388888889
-  lon: 15.999472222222222
-  altitude: 437.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 7.95
+  focus_distance: 14.39
   iso: 200
   width: 5196
-  height: 3879
+  height: 3860
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-10-25 14:12:46.000000000+02:00
-- image_filename: 2021_10_25__15_52__A252598-edit.jpg
+  time: 2021-10-25 13:05:07.000000000+02:00
+- image_filename: 2021_10_25__13_06__A252276.jpg
   post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87204166666667
-  lon: 16.029180555555556
-  altitude: 473.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 50.86665277777778
+  lon: 15.98038888888889
+  altitude: 408.0
+  focal_length: 29.0
+  focal_length_35: 58.0
   crop: 2.0
   aperture: 4.0
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 1000.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 4.18
   iso: 200
-  width: 5184
-  height: 3888
+  width: 3912
+  height: 5240
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-10-25 15:52:40.000000000+02:00
-- image_filename: 2021_10_25__13_24_DSC09129.jpg
+  time: 2021-10-25 13:06:51.000000000+02:00
+- image_filename: 2021_10_25__13_07__A252278.jpg
   post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.87086111111111
-  lon: 15.991847222222221
-  altitude: 419.0
-  focal_length: 151.3
-  focal_length_35: 151.0
-  crop: 0.9980171844018505
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 13:24:42.000000000+02:00
-- image_filename: 2021_10_25__15_08__A252533-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.89086111111111
-  lon: 16.024541666666664
-  altitude: 592.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: -1.5e-9
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 2.4
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:08:57.000000000+02:00
-- image_filename: 2021_10_25__13_21__A252298.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.86990277777778
-  lon: 15.99048611111111
-  altitude: 411.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 50.86690277777778
+  lon: 15.980416666666667
+  altitude: 408.0
+  focal_length: 20.0
+  focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 131.07
-  iso: 200
-  width: 4999
-  height: 3732
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:21:08.000000000+02:00
-- image_filename: 2021_10_25__17_00__A252713-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.85131944444445
-  lon: 16.00761111111111
-  altitude: 425.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 143165583/-1 s
-  focus_distance: 137.68
-  iso: 200
-  width: 5065
-  height: 3799
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 17:00:00.000000000+02:00
-- image_filename: 2021_10_25__14_24__A252461.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.889652777777776
-  lon: 16.001819444444443
-  altitude: 463.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.25
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:24:20.000000000+02:00
-- image_filename: 2021_10_25__14_46__A252496-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.891486111111114
-  lon: 16.009916666666665
-  altitude: 501.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: -1.3e-9
-  exposure: 1.0
-  exposure_string: 26843545/-1 s
-  focus_distance: 19.5
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 14:46:37.000000000+02:00
-- image_filename: 2021_10_25__13_49__A252380.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.877125
-  lon: 15.991499999999998
-  altitude: 443.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
   exposure: 0.008
   exposure_string: 1/125 s
-  focus_distance: 4.28
+  focus_distance: 8.36
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-10-25 13:49:12.000000000+02:00
-- image_filename: 2021_10_25__15_35__A252577-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.878305555555556
-  lon: 16.029944444444443
-  altitude: 492.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 53687091/-1 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5184
-  height: 3888
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:35:17.000000000+02:00
-- image_filename: 2021_10_25__14_19_DSC09140.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.88816666666666
-  lon: 16.000263888888888
-  altitude: 448.0
-  focal_length: 182.9
-  focal_length_35: 182.0
-  crop: 0.9950792782941498
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-25 14:19:52.000000000+02:00
-- image_filename: 2021_10_25__13_41__A252353.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.874430555555556
-  lon: 15.991513888888887
-  altitude: 441.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 19.36
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 13:41:03.000000000+02:00
-- image_filename: 2021_10_25__15_51__A252594-edit.jpg
-  post_slug: 2021-10-25-jesien-nieudana
-  lat: 50.872375
-  lon: 16.029722222222222
-  altitude: 475.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: -1.0e-9
-  exposure: 1.0
-  exposure_string: 17179869/-1 s
-  focus_distance: 186.18
-  iso: 200
-  width: 4848
-  height: 3636
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-25 15:51:40.000000000+02:00
+  time: 2021-10-25 13:07:44.000000000+02:00
 - image_filename: 2021_10_25__13_12__A252285.jpg
   post_slug: 2021-10-25-jesien-nieudana
   lat: 50.86801388888889
@@ -3192,6 +320,129 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-10-25 13:12:30.000000000+02:00
+- image_filename: 2021_10_25__13_14__A252288.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86870833333333
+  lon: 15.984444444444444
+  altitude: 414.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 109.22
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:14:08.000000000+02:00
+- image_filename: 2021_10_25__13_15__A252290.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86944444444445
+  lon: 15.985597222222221
+  altitude: 414.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:15:28.000000000+02:00
+- image_filename: 2021_10_25__13_20_DSC09108.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87002777777778
+  lon: 15.989930555555555
+  altitude: 411.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 13:20:17.000000000+02:00
+- image_filename: 2021_10_25__13_21__A252298.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86990277777778
+  lon: 15.99048611111111
+  altitude: 411.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 131.07
+  iso: 200
+  width: 4999
+  height: 3732
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:21:08.000000000+02:00
+- image_filename: 2021_10_25__13_22_DSC09117.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86980555555556
+  lon: 15.990944444444443
+  altitude: 411.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 13:22:04.000000000+02:00
+- image_filename: 2021_10_25__13_23_DSC09122.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.869875
+  lon: 15.991416666666666
+  altitude: 413.0
+  focal_length: 154.0
+  focal_length_35: 154.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6007
+  height: 3996
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 13:23:02.000000000+02:00
+- image_filename: 2021_10_25__13_23__A252309.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86990277777778
+  lon: 15.991430555555555
+  altitude: 413.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 29.57
+  iso: 200
+  width: 5151
+  height: 3845
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:23:14.000000000+02:00
 - image_filename: 2021_10_25__13_24_DSC09123.jpg
   post_slug: 2021-10-25-jesien-nieudana
   lat: 50.87054166666667
@@ -3209,3 +460,2752 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-10-25 13:24:13.000000000+02:00
+- image_filename: 2021_10_25__13_24_DSC09125.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.870583333333336
+  lon: 15.991722222222222
+  altitude: 417.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 13:24:19.000000000+02:00
+- image_filename: 2021_10_25__13_24_DSC09127.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.870694444444446
+  lon: 15.991763888888888
+  altitude: 418.0
+  focal_length: 176.4
+  focal_length_35: 176.0
+  crop: 0.9977324263038548
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 13:24:28.000000000+02:00
+- image_filename: 2021_10_25__13_24_DSC09129.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87086111111111
+  lon: 15.991847222222221
+  altitude: 419.0
+  focal_length: 151.3
+  focal_length_35: 151.0
+  crop: 0.9980171844018505
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 13:24:42.000000000+02:00
+- image_filename: 2021_10_25__13_34__A252316.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87240277777778
+  lon: 15.992249999999999
+  altitude: 433.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.36
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:34:16.000000000+02:00
+- image_filename: 2021_10_25__13_34__A252317.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87240277777778
+  lon: 15.992249999999999
+  altitude: 433.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.86
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:34:19.000000000+02:00
+- image_filename: 2021_10_25__13_36__A252331.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87280555555556
+  lon: 15.992027777777777
+  altitude: 434.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.76
+  iso: 200
+  width: 4881
+  height: 3644
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:36:38.000000000+02:00
+- image_filename: 2021_10_25__13_37__A252338.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87306944444445
+  lon: 15.991958333333333
+  altitude: 435.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.29
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:37:26.000000000+02:00
+- image_filename: 2021_10_25__13_38__A252343.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87352777777778
+  lon: 15.991777777777777
+  altitude: 436.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.18
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:38:20.000000000+02:00
+- image_filename: 2021_10_25__13_38__A252344.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87356944444444
+  lon: 15.991777777777777
+  altitude: 436.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 24.86
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:38:24.000000000+02:00
+- image_filename: 2021_10_25__13_39__A252348.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87370833333333
+  lon: 15.991736111111111
+  altitude: 437.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 50.88
+  iso: 200
+  width: 4982
+  height: 3720
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:39:01.000000000+02:00
+- image_filename: 2021_10_25__13_40__A252351.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87415277777778
+  lon: 15.99161111111111
+  altitude: 438.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.04
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:40:30.000000000+02:00
+- image_filename: 2021_10_25__13_41__A252353.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.874430555555556
+  lon: 15.991513888888887
+  altitude: 441.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 19.36
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:41:03.000000000+02:00
+- image_filename: 2021_10_25__13_41__A252355.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87451388888889
+  lon: 15.99148611111111
+  altitude: 442.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 17.21
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:41:11.000000000+02:00
+- image_filename: 2021_10_25__13_41__A252357.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.874625
+  lon: 15.991444444444443
+  altitude: 443.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 17.03
+  iso: 200
+  width: 4908
+  height: 3685
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:41:37.000000000+02:00
+- image_filename: 2021_10_25__13_42__A252360.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87520833333333
+  lon: 15.991375
+  altitude: 449.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 16.01
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:42:33.000000000+02:00
+- image_filename: 2021_10_25__13_43__A252363.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87569444444444
+  lon: 15.991375
+  altitude: 456.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 19.23
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:43:24.000000000+02:00
+- image_filename: 2021_10_25__13_45__A252365.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87598611111111
+  lon: 15.991624999999999
+  altitude: 458.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 26.47
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:45:55.000000000+02:00
+- image_filename: 2021_10_25__13_46__A252366.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.875972222222224
+  lon: 15.991569444444444
+  altitude: 458.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 13.47
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:46:00.000000000+02:00
+- image_filename: 2021_10_25__13_46__A252367-hdr.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87594444444444
+  lon: 15.991527777777778
+  altitude: 458.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.7
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:46:08.000000000+02:00
+- image_filename: 2021_10_25__13_46__A252370.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87623611111111
+  lon: 15.991375
+  altitude: 455.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:46:46.000000000+02:00
+- image_filename: 2021_10_25__13_47__A252372.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87640277777778
+  lon: 15.991263888888888
+  altitude: 453.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 20.5
+  iso: 200
+  width: 5063
+  height: 3761
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:47:15.000000000+02:00
+- image_filename: 2021_10_25__13_47__A252374.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.876847222222224
+  lon: 15.991069444444443
+  altitude: 447.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 11.49
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:47:57.000000000+02:00
+- image_filename: 2021_10_25__13_48__A252376.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87704166666667
+  lon: 15.991347222222222
+  altitude: 444.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.45
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:48:39.000000000+02:00
+- image_filename: 2021_10_25__13_48__A252377.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87711111111111
+  lon: 15.991472222222221
+  altitude: 443.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 19.58
+  iso: 200
+  width: 4990
+  height: 3725
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:48:58.000000000+02:00
+- image_filename: 2021_10_25__13_49__A252380.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.877125
+  lon: 15.991499999999998
+  altitude: 443.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.28
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:49:12.000000000+02:00
+- image_filename: 2021_10_25__13_54__A252388.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.879958333333335
+  lon: 15.993569444444443
+  altitude: 446.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 9.07
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:54:03.000000000+02:00
+- image_filename: 2021_10_25__13_56__A252392.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.880805555555554
+  lon: 15.99461111111111
+  altitude: 448.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.63
+  iso: 200
+  width: 2575
+  height: 2227
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:56:03.000000000+02:00
+- image_filename: 2021_10_25__13_58__A252398.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88104166666667
+  lon: 15.99536111111111
+  altitude: 444.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 62.06
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:58:03.000000000+02:00
+- image_filename: 2021_10_25__13_58__A252400.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88102777777778
+  lon: 15.99561111111111
+  altitude: 443.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 121.36
+  iso: 200
+  width: 4927
+  height: 3678
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 13:58:30.000000000+02:00
+- image_filename: 2021_10_25__14_00__A252404.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88088888888889
+  lon: 15.997180555555556
+  altitude: 441.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.96
+  iso: 200
+  width: 4935
+  height: 3684
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:00:15.000000000+02:00
+- image_filename: 2021_10_25__14_01__A252407.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.880833333333335
+  lon: 15.997791666666666
+  altitude: 439.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 17.26
+  iso: 200
+  width: 4801
+  height: 3633
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:01:25.000000000+02:00
+- image_filename: 2021_10_25__14_02__A252410.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.881347222222225
+  lon: 15.999263888888889
+  altitude: 435.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.45
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:02:59.000000000+02:00
+- image_filename: 2021_10_25__14_07__A252418.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88272222222222
+  lon: 15.999916666666666
+  altitude: 435.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 23.31
+  iso: 200
+  width: 4847
+  height: 3545
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:07:50.000000000+02:00
+- image_filename: 2021_10_25__14_09__A252425.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.883041666666664
+  lon: 15.999694444444444
+  altitude: 436.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.67
+  iso: 200
+  width: 4359
+  height: 3414
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:09:29.000000000+02:00
+- image_filename: 2021_10_25__14_09__A252427.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88305555555556
+  lon: 15.999708333333333
+  altitude: 436.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.57
+  iso: 200
+  width: 4881
+  height: 3424
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:09:34.000000000+02:00
+- image_filename: 2021_10_25__14_10__A252430.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.883375
+  lon: 15.999791666666665
+  altitude: 436.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.74
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:10:00.000000000+02:00
+- image_filename: 2021_10_25__14_12__A252436.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88408333333333
+  lon: 15.999541666666666
+  altitude: 437.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:12:25.000000000+02:00
+- image_filename: 2021_10_25__14_12__A252437.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88426388888889
+  lon: 15.999472222222222
+  altitude: 437.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.98
+  iso: 200
+  width: 4675
+  height: 3592
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:12:43.000000000+02:00
+- image_filename: 2021_10_25__14_12__A252438.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88426388888889
+  lon: 15.999472222222222
+  altitude: 437.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 7.95
+  iso: 200
+  width: 5196
+  height: 3879
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:12:46.000000000+02:00
+- image_filename: 2021_10_25__14_13__A252442.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.8845
+  lon: 15.999388888888888
+  altitude: 438.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 16.03
+  iso: 200
+  width: 5130
+  height: 3830
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:13:27.000000000+02:00
+- image_filename: 2021_10_25__14_18_DSC09130.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88747222222222
+  lon: 16.000027777777778
+  altitude: 447.0
+  focal_length: 252.4
+  focal_length_35: 252.0
+  crop: 0.9984152139461172
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5951
+  height: 3959
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:18:58.000000000+02:00
+- image_filename: 2021_10_25__14_19_DSC09132.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.887569444444445
+  lon: 16.000069444444446
+  altitude: 446.0
+  focal_length: 180.8
+  focal_length_35: 180.0
+  crop: 0.9955752212389379
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:19:08.000000000+02:00
+- image_filename: 2021_10_25__14_19_DSC09133.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88766666666667
+  lon: 16.000069444444446
+  altitude: 446.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:19:15.000000000+02:00
+- image_filename: 2021_10_25__14_19_DSC09135.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.887791666666665
+  lon: 16.000083333333333
+  altitude: 446.0
+  focal_length: 228.7
+  focal_length_35: 228.0
+  crop: 0.9969392216878007
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:19:24.000000000+02:00
+- image_filename: 2021_10_25__14_19_DSC09136.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88788888888889
+  lon: 16.000083333333333
+  altitude: 446.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 250
+  width: 5943
+  height: 3954
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:19:30.000000000+02:00
+- image_filename: 2021_10_25__14_19_DSC09138.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88802777777778
+  lon: 16.000138888888888
+  altitude: 447.0
+  focal_length: 319.0
+  focal_length_35: 319.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:19:40.000000000+02:00
+- image_filename: 2021_10_25__14_19_DSC09139.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88811111111111
+  lon: 16.000208333333333
+  altitude: 447.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:19:47.000000000+02:00
+- image_filename: 2021_10_25__14_19_DSC09140.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88816666666666
+  lon: 16.000263888888888
+  altitude: 448.0
+  focal_length: 182.9
+  focal_length_35: 182.0
+  crop: 0.9950792782941498
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:19:52.000000000+02:00
+- image_filename: 2021_10_25__14_24__A252461.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.889652777777776
+  lon: 16.001819444444443
+  altitude: 463.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.25
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:24:20.000000000+02:00
+- image_filename: 2021_10_25__14_24__A252467.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88979166666667
+  lon: 16.001986111111112
+  altitude: 463.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 138.85
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:24:48.000000000+02:00
+- image_filename: 2021_10_25__14_29_DSC09141.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.890166666666666
+  lon: 16.002583333333334
+  altitude: 466.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5973
+  height: 3974
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:29:50.000000000+02:00
+- image_filename: 2021_10_25__14_29_DSC09142.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89018055555555
+  lon: 16.00259722222222
+  altitude: 466.0
+  focal_length: 182.9
+  focal_length_35: 182.0
+  crop: 0.9950792782941498
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 125
+  width: 5576
+  height: 3710
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:29:55.000000000+02:00
+- image_filename: 2021_10_25__14_29_DSC09143.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89018055555555
+  lon: 16.00259722222222
+  altitude: 466.0
+  focal_length: 322.5
+  focal_length_35: 322.0
+  crop: 0.9984496124031008
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 320
+  width: 5727
+  height: 3810
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:29:58.000000000+02:00
+- image_filename: 2021_10_25__14_29__A252475-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.890166666666666
+  lon: 16.002569444444443
+  altitude: 467.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: -1.7e-9
+  exposure: 5.0
+  exposure_string: 0.005 s
+  focus_distance: 5.59
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:29:18.000000000+02:00
+- image_filename: 2021_10_25__14_30_DSC09145.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89018055555555
+  lon: 16.00259722222222
+  altitude: 466.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 5946
+  height: 3956
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:30:07.000000000+02:00
+- image_filename: 2021_10_25__14_30_DSC09146.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89018055555555
+  lon: 16.002625
+  altitude: 466.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 5973
+  height: 3974
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:30:12.000000000+02:00
+- image_filename: 2021_10_25__14_30_DSC09151.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.890208333333334
+  lon: 16.00263888888889
+  altitude: 467.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5769
+  height: 3821
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:30:44.000000000+02:00
+- image_filename: 2021_10_25__14_30_DSC09153.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.890208333333334
+  lon: 16.00263888888889
+  altitude: 467.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 125
+  width: 5838
+  height: 3884
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 14:30:55.000000000+02:00
+- image_filename: 2021_10_25__14_32__A252478.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.8905
+  lon: 16.003805555555555
+  altitude: 472.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.31
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:32:23.000000000+02:00
+- image_filename: 2021_10_25__14_32__A252479.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89055555555556
+  lon: 16.003958333333333
+  altitude: 474.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 61.59
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:32:32.000000000+02:00
+- image_filename: 2021_10_25__14_33__A252481-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89083333333333
+  lon: 16.00448611111111
+  altitude: 477.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: -1.3e-9
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 17.35
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:33:38.000000000+02:00
+- image_filename: 2021_10_25__14_34__A252482-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89122222222222
+  lon: 16.005430555555556
+  altitude: 483.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: -1.5e-9
+  exposure: 5.0
+  exposure_string: 0.005 s
+  focus_distance: 24.13
+  iso: 200
+  width: 4935
+  height: 3701
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:34:57.000000000+02:00
+- image_filename: 2021_10_25__14_35__A252487-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89134722222222
+  lon: 16.006138888888888
+  altitude: 486.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 20.15
+  iso: 200
+  width: 4970
+  height: 3727
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:35:37.000000000+02:00
+- image_filename: 2021_10_25__14_44__A252492-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89161111111111
+  lon: 16.00872222222222
+  altitude: 496.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: -1.3e-9
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 50.72
+  iso: 200
+  width: 5065
+  height: 3799
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:44:59.000000000+02:00
+- image_filename: 2021_10_25__14_46__A252495.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.8915
+  lon: 16.00986111111111
+  altitude: 500.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 15.5
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:46:34.000000000+02:00
+- image_filename: 2021_10_25__14_46__A252496-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.891486111111114
+  lon: 16.009916666666665
+  altitude: 501.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: -1.3e-9
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 19.5
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:46:37.000000000+02:00
+- image_filename: 2021_10_25__14_46__A252499-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.891444444444446
+  lon: 16.010291666666667
+  altitude: 503.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: -1.3e-9
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 3.67
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:46:56.000000000+02:00
+- image_filename: 2021_10_25__14_47__A252502-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.891375
+  lon: 16.0115
+  altitude: 508.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: -1.3e-9
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 12.27
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:47:59.000000000+02:00
+- image_filename: 2021_10_25__14_48__A252503-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.891375
+  lon: 16.011541666666666
+  altitude: 509.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: -1.3e-9
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 15.17
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:48:05.000000000+02:00
+- image_filename: 2021_10_25__14_48__A252505-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89136111111111
+  lon: 16.011652777777776
+  altitude: 509.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: -1.5e-9
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 8.76
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:48:12.000000000+02:00
+- image_filename: 2021_10_25__14_52__A252510-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89109722222222
+  lon: 16.01372222222222
+  altitude: 521.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: -1.3e-9
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 2.92
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:52:00.000000000+02:00
+- image_filename: 2021_10_25__14_52__A252511-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.891083333333334
+  lon: 16.013805555555557
+  altitude: 521.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 22.05
+  iso: 200
+  width: 5117
+  height: 3838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:52:05.000000000+02:00
+- image_filename: 2021_10_25__14_52__A252512-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89105555555555
+  lon: 16.013916666666667
+  altitude: 522.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 19.69
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:52:11.000000000+02:00
+- image_filename: 2021_10_25__14_52__A252515.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.890972222222224
+  lon: 16.014333333333333
+  altitude: 525.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:52:33.000000000+02:00
+- image_filename: 2021_10_25__14_58__A252519-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89084722222222
+  lon: 16.01838888888889
+  altitude: 552.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 20.87
+  iso: 200
+  width: 5011
+  height: 3758
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 14:58:29.000000000+02:00
+- image_filename: 2021_10_25__15_01__A252522-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89086111111111
+  lon: 16.018513888888886
+  altitude: 554.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 1.0
+  exposure_string: 0.01 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4959
+  height: 3719
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:01:02.000000000+02:00
+- image_filename: 2021_10_25__15_05_DSC09157.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.890708333333336
+  lon: 16.02161111111111
+  altitude: 579.0
+  focal_length: 171.7
+  focal_length_35: 171.0
+  crop: 0.9959231217239372
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5973
+  height: 3974
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 15:05:01.000000000+02:00
+- image_filename: 2021_10_25__15_05_DSC09158.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.890708333333336
+  lon: 16.021666666666665
+  altitude: 580.0
+  focal_length: 348.2
+  focal_length_35: 348.0
+  crop: 0.9994256174612293
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5824
+  height: 3772
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 15:05:07.000000000+02:00
+- image_filename: 2021_10_25__15_05__A252525-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89069444444444
+  lon: 16.02198611111111
+  altitude: 581.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: -1.5e-9
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 2.69
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:05:23.000000000+02:00
+- image_filename: 2021_10_25__15_08__A252533-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89086111111111
+  lon: 16.024541666666664
+  altitude: 592.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: -1.5e-9
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 2.4
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:08:57.000000000+02:00
+- image_filename: 2021_10_25__15_12__A252540-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89154166666667
+  lon: 16.02572222222222
+  altitude: 587.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 29.05
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:12:17.000000000+02:00
+- image_filename: 2021_10_25__15_17__A252542-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.89047222222222
+  lon: 16.027277777777776
+  altitude: 576.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: -1.5e-9
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 3.25
+  iso: 200
+  width: 5173
+  height: 3879
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:17:03.000000000+02:00
+- image_filename: 2021_10_25__15_17__A252545.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.890027777777775
+  lon: 16.027277777777776
+  altitude: 573.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 6.79
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:17:37.000000000+02:00
+- image_filename: 2021_10_25__15_24__A252559-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88576388888889
+  lon: 16.029291666666666
+  altitude: 541.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 42.22
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:24:16.000000000+02:00
+- image_filename: 2021_10_25__15_28__A252564-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88327777777778
+  lon: 16.030402777777777
+  altitude: 525.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 125.0
+  exposure_string: 0.0125 s
+  focus_distance: 19.5
+  iso: 200
+  width: 4724
+  height: 3732
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:28:01.000000000+02:00
+- image_filename: 2021_10_25__15_30__A252569-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.881625
+  lon: 16.030055555555556
+  altitude: 513.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: -1.5e-9
+  exposure: 5.0
+  exposure_string: 0.005 s
+  focus_distance: 20.87
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:30:17.000000000+02:00
+- image_filename: 2021_10_25__15_31_DSC09166.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88073611111111
+  lon: 16.03020833333333
+  altitude: 507.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 15:31:36.000000000+02:00
+- image_filename: 2021_10_25__15_32_DSC09169.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.88034722222222
+  lon: 16.02998611111111
+  altitude: 504.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5188
+  height: 3452
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 15:32:11.000000000+02:00
+- image_filename: 2021_10_25__15_34__A252576-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87858333333333
+  lon: 16.029916666666665
+  altitude: 494.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 16.42
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:34:56.000000000+02:00
+- image_filename: 2021_10_25__15_35__A252577-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.878305555555556
+  lon: 16.029944444444443
+  altitude: 492.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 125.0
+  exposure_string: 0.0125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:35:17.000000000+02:00
+- image_filename: 2021_10_25__15_37_DSC09184.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.876694444444446
+  lon: 16.02975
+  altitude: 484.0
+  focal_length: 368.4
+  focal_length_35: 368.0
+  crop: 0.9989142236699241
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 15:37:53.000000000+02:00
+- image_filename: 2021_10_25__15_38_DSC09187.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.876694444444446
+  lon: 16.02973611111111
+  altitude: 484.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 15:38:06.000000000+02:00
+- image_filename: 2021_10_25__15_39_DSC09191.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87636111111111
+  lon: 16.029625
+  altitude: 485.0
+  focal_length: 156.6
+  focal_length_35: 156.0
+  crop: 0.996168582375479
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5716
+  height: 3803
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 15:39:30.000000000+02:00
+- image_filename: 2021_10_25__15_39_DSC09192.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87634722222222
+  lon: 16.029625
+  altitude: 484.0
+  focal_length: 143.5
+  focal_length_35: 143.0
+  crop: 0.9965156794425087
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 15:39:34.000000000+02:00
+- image_filename: 2021_10_25__15_50__A252587-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87269444444445
+  lon: 16.03022222222222
+  altitude: 477.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 248.24
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:50:31.000000000+02:00
+- image_filename: 2021_10_25__15_51__A252591-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87261111111111
+  lon: 16.03011111111111
+  altitude: 476.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4882
+  height: 3662
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:51:08.000000000+02:00
+- image_filename: 2021_10_25__15_51__A252594-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.872375
+  lon: 16.029722222222222
+  altitude: 475.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 186.18
+  iso: 200
+  width: 4848
+  height: 3636
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:51:40.000000000+02:00
+- image_filename: 2021_10_25__15_52__A252598-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87204166666667
+  lon: 16.029180555555556
+  altitude: 473.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:52:40.000000000+02:00
+- image_filename: 2021_10_25__15_53__A252602-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.872
+  lon: 16.029083333333332
+  altitude: 473.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: -1.3e-9
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 27.26
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:53:03.000000000+02:00
+- image_filename: 2021_10_25__15_53__A252606-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87193055555556
+  lon: 16.029027777777777
+  altitude: 473.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: -1.5e-9
+  exposure: 3125.0
+  exposure_string: 0.003125 s
+  focus_distance: 20.64
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:53:53.000000000+02:00
+- image_filename: 2021_10_25__15_57__A252619-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.870875
+  lon: 16.027666666666665
+  altitude: 471.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 3.43
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:57:10.000000000+02:00
+- image_filename: 2021_10_25__15_57__A252622-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.870666666666665
+  lon: 16.027555555555555
+  altitude: 471.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4896
+  height: 3469
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:57:42.000000000+02:00
+- image_filename: 2021_10_25__15_57__A252623-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.87065277777778
+  lon: 16.027555555555555
+  altitude: 471.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 315.08
+  iso: 200
+  width: 5078
+  height: 3808
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:57:49.000000000+02:00
+- image_filename: 2021_10_25__15_58__A252627-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.870375
+  lon: 16.027638888888887
+  altitude: 471.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 3125.0
+  exposure_string: 0.003125 s
+  focus_distance: 210.05
+  iso: 200
+  width: 4951
+  height: 3685
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:58:38.000000000+02:00
+- image_filename: 2021_10_25__15_59__A252630-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86986111111111
+  lon: 16.027513888888887
+  altitude: 473.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 180.04
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 15:59:36.000000000+02:00
+- image_filename: 2021_10_25__16_02__A252645-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86876388888889
+  lon: 16.026013888888887
+  altitude: 470.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 76.21
+  iso: 200
+  width: 5110
+  height: 3832
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:02:40.000000000+02:00
+- image_filename: 2021_10_25__16_03__A252647-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86830555555556
+  lon: 16.02573611111111
+  altitude: 471.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: -1.5e-9
+  exposure: 4.0
+  exposure_string: 0.004 s
+  focus_distance: 22.26
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:03:36.000000000+02:00
+- image_filename: 2021_10_25__16_03__A252649-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86816666666667
+  lon: 16.025652777777776
+  altitude: 470.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 5.0
+  exposure_string: 0.005 s
+  focus_distance: 51.85
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:03:47.000000000+02:00
+- image_filename: 2021_10_25__16_07__A252659-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86622222222223
+  lon: 16.02402777777778
+  altitude: 463.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: -1.5e-9
+  exposure: 5.0
+  exposure_string: 0.005 s
+  focus_distance: 28.2
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:07:26.000000000+02:00
+- image_filename: 2021_10_25__16_07__A252660-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.866166666666665
+  lon: 16.02398611111111
+  altitude: 463.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 104.36
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:07:34.000000000+02:00
+- image_filename: 2021_10_25__16_08_DSC09212.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.865375
+  lon: 16.023444444444443
+  altitude: 459.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 5335
+  height: 3619
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:08:56.000000000+02:00
+- image_filename: 2021_10_25__16_09_DSC09214.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86529166666667
+  lon: 16.02338888888889
+  altitude: 458.0
+  focal_length: 247.7
+  focal_length_35: 247.0
+  crop: 0.9971740008074284
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 640
+  width: 3436
+  height: 5142
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:09:02.000000000+02:00
+- image_filename: 2021_10_25__16_09_DSC09219.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86519444444445
+  lon: 16.023333333333333
+  altitude: 456.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 5637
+  height: 3751
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:09:10.000000000+02:00
+- image_filename: 2021_10_25__16_09_DSC09220.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86516666666667
+  lon: 16.023305555555556
+  altitude: 456.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 5953
+  height: 3960
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:09:12.000000000+02:00
+- image_filename: 2021_10_25__16_10_DSC09232.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86431944444445
+  lon: 16.02275
+  altitude: 454.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 1250
+  width: 5248
+  height: 3514
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:10:24.000000000+02:00
+- image_filename: 2021_10_25__16_10_DSC09237.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.864361111111116
+  lon: 16.022791666666667
+  altitude: 453.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 1600
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:10:47.000000000+02:00
+- image_filename: 2021_10_25__16_10_DSC09238.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.864375
+  lon: 16.022819444444444
+  altitude: 453.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 1600
+  width: 5651
+  height: 3760
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:10:49.000000000+02:00
+- image_filename: 2021_10_25__16_10__A252665-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86461111111111
+  lon: 16.023
+  altitude: 452.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 625.0
+  exposure_string: 0.00625 s
+  focus_distance: 30.57
+  iso: 200
+  width: 5034
+  height: 3775
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:10:00.000000000+02:00
+- image_filename: 2021_10_25__16_11_DSC09243.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86425
+  lon: 16.023208333333333
+  altitude: 452.0
+  focal_length: 324.2
+  focal_length_35: 324.0
+  crop: 0.999383096853794
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:11:40.000000000+02:00
+- image_filename: 2021_10_25__16_11_DSC09245.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86423611111111
+  lon: 16.023208333333333
+  altitude: 452.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 3200
+  width: 4268
+  height: 3160
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:11:43.000000000+02:00
+- image_filename: 2021_10_25__16_11_DSC09247.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86423611111111
+  lon: 16.023208333333333
+  altitude: 451.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 2500
+  width: 4987
+  height: 3393
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:11:45.000000000+02:00
+- image_filename: 2021_10_25__16_11_DSC09249.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86420833333334
+  lon: 16.023208333333333
+  altitude: 453.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 2500
+  width: 4851
+  height: 3217
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:11:48.000000000+02:00
+- image_filename: 2021_10_25__16_11_DSC09250.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86409722222222
+  lon: 16.02327777777778
+  altitude: 453.0
+  focal_length: 138.6
+  focal_length_35: 138.0
+  crop: 0.9956709956709957
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 250
+  width: 5252
+  height: 3595
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:11:56.000000000+02:00
+- image_filename: 2021_10_25__16_11_DSC09251.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86405555555556
+  lon: 16.023305555555556
+  altitude: 453.0
+  focal_length: 223.9
+  focal_length_35: 223.0
+  crop: 0.995980348369808
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:11:59.000000000+02:00
+- image_filename: 2021_10_25__16_12_DSC09254.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86391666666667
+  lon: 16.023374999999998
+  altitude: 453.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 1250
+  width: 5971
+  height: 3973
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:12:10.000000000+02:00
+- image_filename: 2021_10_25__16_12_DSC09258.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86386111111111
+  lon: 16.023402777777775
+  altitude: 453.0
+  focal_length: 196.8
+  focal_length_35: 196.0
+  crop: 0.9959349593495934
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:12:14.000000000+02:00
+- image_filename: 2021_10_25__16_12_DSC09263.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86377777777778
+  lon: 16.023458333333334
+  altitude: 453.0
+  focal_length: 307.2
+  focal_length_35: 307.0
+  crop: 0.9993489583333334
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:12:21.000000000+02:00
+- image_filename: 2021_10_25__16_12_DSC09265.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86377777777778
+  lon: 16.023458333333334
+  altitude: 453.0
+  focal_length: 307.2
+  focal_length_35: 307.0
+  crop: 0.9993489583333334
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:12:21.000000000+02:00
+- image_filename: 2021_10_25__16_13_DSC09272.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.863055555555555
+  lon: 16.023888888888887
+  altitude: 447.0
+  focal_length: 362.1
+  focal_length_35: 362.0
+  crop: 0.9997238331952498
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:13:49.000000000+02:00
+- image_filename: 2021_10_25__16_13_DSC09275.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86302777777778
+  lon: 16.023902777777778
+  altitude: 446.0
+  focal_length: 362.1
+  focal_length_35: 362.0
+  crop: 0.9997238331952498
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 1000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:13:52.000000000+02:00
+- image_filename: 2021_10_25__16_14_DSC09290.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86306944444445
+  lon: 16.02409722222222
+  altitude: 446.0
+  focal_length: 205.7
+  focal_length_35: 205.0
+  crop: 0.9965969859017988
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  width: 4809
+  height: 3366
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:14:15.000000000+02:00
+- image_filename: 2021_10_25__16_14_DSC09291.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86306944444445
+  lon: 16.02409722222222
+  altitude: 446.0
+  focal_length: 205.7
+  focal_length_35: 205.0
+  crop: 0.9965969859017988
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  width: 4821
+  height: 3338
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:14:16.000000000+02:00
+- image_filename: 2021_10_25__16_14_DSC09297.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86306944444445
+  lon: 16.02409722222222
+  altitude: 446.0
+  focal_length: 242.9
+  focal_length_35: 242.0
+  crop: 0.9962947715109098
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:14:38.000000000+02:00
+- image_filename: 2021_10_25__16_14_DSC09302.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.863055555555555
+  lon: 16.02402777777778
+  altitude: 446.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  width: 5263
+  height: 3459
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:14:46.000000000+02:00
+- image_filename: 2021_10_25__16_14_DSC09307.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86304166666667
+  lon: 16.02397222222222
+  altitude: 446.0
+  focal_length: 344.3
+  focal_length_35: 344.0
+  crop: 0.9991286668602962
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 1250
+  width: 4484
+  height: 3274
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:14:53.000000000+02:00
+- image_filename: 2021_10_25__16_14_DSC09309_01.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86304166666667
+  lon: 16.023958333333333
+  altitude: 446.0
+  focal_length: 151.3
+  focal_length_35: 151.0
+  crop: 0.9980171844018505
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:14:58.000000000+02:00
+- image_filename: 2021_10_25__16_15_DSC09310.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86304166666667
+  lon: 16.023916666666665
+  altitude: 446.0
+  focal_length: 124.3
+  focal_length_35: 124.0
+  crop: 0.997586484312148
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:15:05.000000000+02:00
+- image_filename: 2021_10_25__16_15_DSC09311.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86304166666667
+  lon: 16.023888888888887
+  altitude: 446.0
+  focal_length: 225.5
+  focal_length_35: 225.0
+  crop: 0.9977827050997783
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  width: 5135
+  height: 3434
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:15:21.000000000+02:00
+- image_filename: 2021_10_25__16_15_DSC09312.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86304166666667
+  lon: 16.023902777777778
+  altitude: 446.0
+  focal_length: 331.3
+  focal_length_35: 331.0
+  crop: 0.9990944763054633
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:15:24.000000000+02:00
+- image_filename: 2021_10_25__16_15_DSC09319_01.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86304166666667
+  lon: 16.023875
+  altitude: 446.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 1250
+  width: 5873
+  height: 3907
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:15:48.000000000+02:00
+- image_filename: 2021_10_25__16_15_DSC09321.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86304166666667
+  lon: 16.023875
+  altitude: 446.0
+  focal_length: 284.4
+  focal_length_35: 284.0
+  crop: 0.9985935302390999
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 640
+  width: 5816
+  height: 3901
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:15:50.000000000+02:00
+- image_filename: 2021_10_25__16_16_DSC09323.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86298611111111
+  lon: 16.023902777777778
+  altitude: 447.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 5429
+  height: 3627
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:16:14.000000000+02:00
+- image_filename: 2021_10_25__16_16_DSC09329.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.863
+  lon: 16.023888888888887
+  altitude: 447.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 1600
+  width: 4290
+  height: 3029
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-25 16:16:20.000000000+02:00
+- image_filename: 2021_10_25__16_21__A252672-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.863
+  lon: 16.023694444444445
+  altitude: 445.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 1.0
+  exposure_string: 0.01 s
+  focus_distance: 1.96
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:21:12.000000000+02:00
+- image_filename: 2021_10_25__16_21__A252676-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.863
+  lon: 16.023680555555554
+  altitude: 445.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 166667.0
+  exposure_string: 0.0166667 s
+  focus_distance: 4.55
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:21:34.000000000+02:00
+- image_filename: 2021_10_25__16_30__A252687-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.86047222222222
+  lon: 16.019305555555555
+  altitude: 440.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 1.0
+  exposure_string: 0.01 s
+  focus_distance: 49.79
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:30:19.000000000+02:00
+- image_filename: 2021_10_25__16_32__A252690-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85922222222222
+  lon: 16.017902777777778
+  altitude: 442.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 5.0
+  exposure_string: 0.005 s
+  focus_distance: 17.94
+  iso: 200
+  width: 5072
+  height: 3804
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:32:32.000000000+02:00
+- image_filename: 2021_10_25__16_34__A252694-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85834722222222
+  lon: 16.01675
+  altitude: 445.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 8.0
+  exposure_string: 0.008 s
+  focus_distance: 17.86
+  iso: 200
+  width: 5100
+  height: 3865
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:34:39.000000000+02:00
+- image_filename: 2021_10_25__16_37__A252698-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85711111111111
+  lon: 16.015361111111112
+  altitude: 450.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 1.0
+  exposure_string: 0.01 s
+  focus_distance: 7.71
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:37:01.000000000+02:00
+- image_filename: 2021_10_25__16_40__A252701-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85469444444445
+  lon: 16.014625
+  altitude: 435.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 1.0
+  exposure_string: 0.01 s
+  focus_distance: 4.2
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:40:56.000000000+02:00
+- image_filename: 2021_10_25__16_41__A252702-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85429166666667
+  lon: 16.014152777777777
+  altitude: 430.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: -1.0e-9
+  exposure: 125.0
+  exposure_string: 0.0125 s
+  focus_distance: 2.57
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:41:42.000000000+02:00
+- image_filename: 2021_10_25__16_42__A252706-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85376388888889
+  lon: 16.013277777777777
+  altitude: 428.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 125.0
+  exposure_string: 0.0125 s
+  focus_distance: 20.5
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:42:42.000000000+02:00
+- image_filename: 2021_10_25__16_42__A252708-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85365277777778
+  lon: 16.013152777777776
+  altitude: 427.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 1.0
+  exposure_string: 0.01 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5184
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:42:56.000000000+02:00
+- image_filename: 2021_10_25__16_59__A252712-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85131944444445
+  lon: 16.00761111111111
+  altitude: 425.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 5.0
+  exposure_string: 0.05 s
+  focus_distance: 11.06
+  iso: 200
+  width: 5057
+  height: 3793
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 16:59:44.000000000+02:00
+- image_filename: 2021_10_25__17_00__A252713-edit.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85131944444445
+  lon: 16.00761111111111
+  altitude: 425.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 333333.0
+  exposure_string: 0.0333333 s
+  focus_distance: 137.68
+  iso: 200
+  width: 5065
+  height: 3799
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-25 17:00:00.000000000+02:00
+- image_filename: 2021_10_26__10_02_DSC09332.jpg
+  post_slug: 2021-10-25-jesien-nieudana
+  lat: 50.85131944444445
+  lon: 16.00761111111111
+  altitude: 425.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5801
+  height: 3800
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-10-26 10:02:18.000000000+02:00

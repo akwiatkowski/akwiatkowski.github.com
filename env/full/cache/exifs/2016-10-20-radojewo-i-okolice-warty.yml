@@ -5,10 +5,10 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 11.0
+  exposure: 5.0
+  exposure_string: 2.5 s
   iso: 100
-  camera: PENTAX K-S2
   width: 2000
   height: 1334
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2016-10-20 15:17:54+02:00
+  camera: PENTAX K-S2
+  time: 2016-10-20 15:17:54.000000000+02:00

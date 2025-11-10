@@ -1,580 +1,4 @@
 ---
-- image_filename: 2019_06_23__12_51_P6230109.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.71311111111111
-  lon: 17.225805555555553
-  altitude: 117.0
-  focal_length: 30.0
-  focal_length_35: 60.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4593
-  height: 3409
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-23 12:51:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__10_01_P6230008.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.885
-  lon: 17.71872222222222
-  altitude: 160.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4585
-  height: 3450
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 10:01:14+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__10_21_P6230017.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.867805555555556
-  lon: 17.608347222222225
-  altitude: 146.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4572
-  height: 3380
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-23 10:21:15+02:00
-  focus_distance: 61.32
-- image_filename: 2019_06_23__10_23_P6230019.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.86638888888889
-  lon: 17.60326388888889
-  altitude: 149.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4124
-  height: 3095
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-23 10:23:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__10_23_P6230020.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.86638888888889
-  lon: 17.60326388888889
-  altitude: 150.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4499
-  height: 3343
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-23 10:23:38+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__11_01_P6230032.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.792180555555554
-  lon: 17.528583333333334
-  altitude: 157.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4451
-  height: 3330
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 11:01:07+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__11_13_P6230035.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.77529166666667
-  lon: 17.504472222222223
-  altitude: 154.0
-  focal_length: 19.0
-  focal_length_35: 38.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4494
-  height: 3268
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 11:13:14+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__11_29_P6230044.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.738958333333336
-  lon: 17.4715
-  altitude: 162.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-06-23 11:29:50+02:00
-  focus_distance: 37.21
-- image_filename: 2019_06_23__11_35_P6230049.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.742666666666665
-  lon: 17.45997222222222
-  altitude: 160.0
-  focal_length: 26.0
-  focal_length_35: 52.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4521
-  height: 3383
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-06-23 11:35:26+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__12_01_P6230064.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.74627777777778
-  lon: 17.37777777777778
-  altitude: 135.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4481
-  height: 3353
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 12:01:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__12_01_P6230066.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.74627777777778
-  lon: 17.37777777777778
-  altitude: 135.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4522
-  height: 3384
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 12:01:58+02:00
-  focus_distance: 105.99
-- image_filename: 2019_06_23__12_18_P6230077.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.73258333333334
-  lon: 17.315583333333333
-  altitude: 125.0
-  focal_length: 73.0
-  focal_length_35: 146.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4599
-  height: 3444
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 12:18:09+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__12_22_P6230081.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.73620833333334
-  lon: 17.31511111111111
-  altitude: 122.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-23 12:22:38+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__12_49_P6230100.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.71311111111111
-  lon: 17.22584722222222
-  altitude: 117.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4523
-  height: 3146
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-23 12:49:42+02:00
-  focus_distance: 11.56
-- image_filename: 2019_06_23__13_46_P6230110.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.70230555555556
-  lon: 17.18091666666667
-  altitude: 123.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4615
-  height: 3453
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-06-23 13:46:16+02:00
-  focus_distance: 18.54
-- image_filename: 2019_06_23__13_46_P6230114.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.70231944444445
-  lon: 17.18091666666667
-  altitude: 123.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4637
-  height: 3470
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-23 13:46:45+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__13_58_P6230122.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.66976388888889
-  lon: 17.157
-  altitude: 118.0
-  focal_length: 30.0
-  focal_length_35: 60.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4472
-  height: 3346
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-23 13:58:20+02:00
-  focus_distance: 9.35
-- image_filename: 2019_06_23__14_06_P6230131.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.66093055555555
-  lon: 17.154249999999998
-  altitude: 115.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4544
-  height: 3400
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-23 14:06:07+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__14_15_P6230142.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.66305555555555
-  lon: 17.117527777777777
-  altitude: 136.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4478
-  height: 3351
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-23 14:15:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__14_17_P6230146.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.66352777777777
-  lon: 17.115638888888892
-  altitude: 137.0
-  focal_length: 65.0
-  focal_length_35: 130.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4524
-  height: 3385
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-23 14:17:55+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__15_35_P6230154.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.609458333333336
-  lon: 16.860069444444445
-  altitude: 116.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4466
-  height: 3142
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-23 15:35:56+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__11_35_P6230050.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.742666666666665
-  lon: 17.45997222222222
-  altitude: 160.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4494
-  height: 3363
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-23 11:35:30+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__10_01_P6230009.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.885
-  lon: 17.71872222222222
-  altitude: 159.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4519
-  height: 3418
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 10:01:21+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__13_58_P6230121.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.66976388888889
-  lon: 17.157
-  altitude: 118.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4400
-  height: 3292
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-23 13:58:09+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__12_02_P6230073.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.74627777777778
-  lon: 17.37777777777778
-  altitude: 135.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4620
-  height: 3457
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 12:02:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__10_24_P6230023.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.86638888888889
-  lon: 17.60326388888889
-  altitude: 149.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4057
-  height: 3060
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-23 10:24:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__14_03_P6230124.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.663222222222224
-  lon: 17.15498611111111
-  altitude: 117.0
-  focal_length: 30.0
-  focal_length_35: 60.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4495
-  height: 3363
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-06-23 14:03:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__13_46_P6230113.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.70231944444445
-  lon: 17.18091666666667
-  altitude: 123.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4620
-  height: 3445
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-23 13:46:36+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__09_59_P6230004.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.885222222222225
-  lon: 17.720499999999998
-  altitude: 159.0
-  focal_length: 69.0
-  focal_length_35: 138.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4617
-  height: 3441
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-06-23 09:59:39+02:00
-  focus_distance: 41.26
-- image_filename: 2019_06_23__11_01_P6230033.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.79219444444444
-  lon: 17.528583333333334
-  altitude: 157.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4356
-  height: 3260
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 11:01:16+02:00
-  focus_distance: 111.61
-- image_filename: 2019_06_23__14_15_P6230135.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.66305555555555
-  lon: 17.117527777777777
-  altitude: 136.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4579
-  height: 3426
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-23 14:15:20+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_23__12_28_P6230090.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.74630555555556
-  lon: 17.30988888888889
-  altitude: 130.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4364
-  height: 3265
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-23 12:28:55+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_06_23__09_59_P6230002.jpg
   post_slug: 2019-06-23-z-pleszewa-do-rawicza
   lat: 51.885222222222225
@@ -584,69 +8,69 @@
   focal_length_35: 260.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4604
-  height: 3445
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2019-06-23 09:59:32+02:00
   focus_distance: 1000.0
-- image_filename: 2019_06_23__11_32_P6230047.jpg
-  post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.74225
-  lon: 17.46794444444444
-  altitude: 162.0
-  focal_length: 37.0
-  focal_length_35: 74.0
-  crop: 2.0
-  aperture: 7.1
   iso: 200
+  width: 4604
+  height: 3445
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4441
-  height: 3323
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-23 11:32:31+02:00
-  focus_distance: 11.8
-- image_filename: 2019_06_23__12_29_P6230095.jpg
+  time: 2019-06-23 09:59:32.000000000+02:00
+- image_filename: 2019_06_23__09_59_P6230004.jpg
   post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.74630555555556
-  lon: 17.30988888888889
-  altitude: 130.0
-  focal_length: 115.0
-  focal_length_35: 230.0
+  lat: 51.885222222222225
+  lon: 17.720499999999998
+  altitude: 159.0
+  focal_length: 69.0
+  focal_length_35: 138.0
   crop: 2.0
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 41.26
   iso: 200
+  width: 4617
+  height: 3441
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4496
-  height: 3364
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-23 12:29:17+02:00
-  focus_distance: 93.14
-- image_filename: 2019_06_23__11_13_P6230039.jpg
+  time: 2019-06-23 09:59:39.000000000+02:00
+- image_filename: 2019_06_23__10_01_P6230008.jpg
   post_slug: 2019-06-23-z-pleszewa-do-rawicza
-  lat: 51.77529166666667
-  lon: 17.504472222222223
-  altitude: 154.0
-  focal_length: 46.0
-  focal_length_35: 92.0
+  lat: 51.885
+  lon: 17.71872222222222
+  altitude: 160.0
+  focal_length: 14.0
+  focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
   iso: 200
+  width: 4585
+  height: 3450
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4432
-  height: 3173
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-23 11:13:31+02:00
-  focus_distance: 45.85
+  time: 2019-06-23 10:01:14.000000000+02:00
+- image_filename: 2019_06_23__10_01_P6230009.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.885
+  lon: 17.71872222222222
+  altitude: 159.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4519
+  height: 3418
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 10:01:21.000000000+02:00
 - image_filename: 2019_06_23__10_20_P6230011.jpg
   post_slug: 2019-06-23-z-pleszewa-do-rawicza
   lat: 51.867805555555556
@@ -656,15 +80,231 @@
   focal_length_35: 68.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2019-06-23 10:20:19+02:00
   focus_distance: 22.34
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 10:20:19.000000000+02:00
+- image_filename: 2019_06_23__10_21_P6230017.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.867805555555556
+  lon: 17.608347222222225
+  altitude: 146.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 61.32
+  iso: 200
+  width: 4572
+  height: 3380
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 10:21:15.000000000+02:00
+- image_filename: 2019_06_23__10_23_P6230019.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.86638888888889
+  lon: 17.60326388888889
+  altitude: 149.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4124
+  height: 3095
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 10:23:31.000000000+02:00
+- image_filename: 2019_06_23__10_23_P6230020.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.86638888888889
+  lon: 17.60326388888889
+  altitude: 150.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4499
+  height: 3343
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 10:23:38.000000000+02:00
+- image_filename: 2019_06_23__10_24_P6230023.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.86638888888889
+  lon: 17.60326388888889
+  altitude: 149.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4057
+  height: 3060
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 10:24:00.000000000+02:00
+- image_filename: 2019_06_23__11_01_P6230032.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.792180555555554
+  lon: 17.528583333333334
+  altitude: 157.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4451
+  height: 3330
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 11:01:07.000000000+02:00
+- image_filename: 2019_06_23__11_01_P6230033.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.79219444444444
+  lon: 17.528583333333334
+  altitude: 157.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 111.61
+  iso: 200
+  width: 4356
+  height: 3260
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 11:01:16.000000000+02:00
+- image_filename: 2019_06_23__11_13_P6230035.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.77529166666667
+  lon: 17.504472222222223
+  altitude: 154.0
+  focal_length: 19.0
+  focal_length_35: 38.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4494
+  height: 3268
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 11:13:14.000000000+02:00
+- image_filename: 2019_06_23__11_13_P6230039.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.77529166666667
+  lon: 17.504472222222223
+  altitude: 154.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 45.85
+  iso: 200
+  width: 4432
+  height: 3173
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 11:13:31.000000000+02:00
+- image_filename: 2019_06_23__11_29_P6230044.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.738958333333336
+  lon: 17.4715
+  altitude: 162.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 37.21
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 11:29:50.000000000+02:00
+- image_filename: 2019_06_23__11_32_P6230047.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.74225
+  lon: 17.46794444444444
+  altitude: 162.0
+  focal_length: 37.0
+  focal_length_35: 74.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 11.8
+  iso: 200
+  width: 4441
+  height: 3323
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 11:32:31.000000000+02:00
+- image_filename: 2019_06_23__11_35_P6230049.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.742666666666665
+  lon: 17.45997222222222
+  altitude: 160.0
+  focal_length: 26.0
+  focal_length_35: 52.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4521
+  height: 3383
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 11:35:26.000000000+02:00
+- image_filename: 2019_06_23__11_35_P6230050.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.742666666666665
+  lon: 17.45997222222222
+  altitude: 160.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4494
+  height: 3363
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 11:35:30.000000000+02:00
 - image_filename: 2019_06_23__11_40_P6230059.jpg
   post_slug: 2019-06-23-z-pleszewa-do-rawicza
   lat: 51.740569444444446
@@ -674,15 +314,159 @@
   focal_length_35: 60.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4469
-  height: 3344
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2019-06-23 11:40:36+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4469
+  height: 3344
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 11:40:36.000000000+02:00
+- image_filename: 2019_06_23__12_01_P6230064.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.74627777777778
+  lon: 17.37777777777778
+  altitude: 135.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4481
+  height: 3353
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:01:47.000000000+02:00
+- image_filename: 2019_06_23__12_01_P6230066.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.74627777777778
+  lon: 17.37777777777778
+  altitude: 135.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 105.99
+  iso: 200
+  width: 4522
+  height: 3384
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:01:58.000000000+02:00
+- image_filename: 2019_06_23__12_02_P6230073.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.74627777777778
+  lon: 17.37777777777778
+  altitude: 135.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4620
+  height: 3457
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:02:57.000000000+02:00
+- image_filename: 2019_06_23__12_18_P6230077.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.73258333333334
+  lon: 17.315583333333333
+  altitude: 125.0
+  focal_length: 73.0
+  focal_length_35: 146.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4599
+  height: 3444
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:18:09.000000000+02:00
+- image_filename: 2019_06_23__12_22_P6230081.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.73620833333334
+  lon: 17.31511111111111
+  altitude: 122.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:22:38.000000000+02:00
+- image_filename: 2019_06_23__12_28_P6230090.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.74630555555556
+  lon: 17.30988888888889
+  altitude: 130.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4364
+  height: 3265
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:28:55.000000000+02:00
+- image_filename: 2019_06_23__12_29_P6230095.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.74630555555556
+  lon: 17.30988888888889
+  altitude: 130.0
+  focal_length: 115.0
+  focal_length_35: 230.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 93.14
+  iso: 200
+  width: 4496
+  height: 3364
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:29:17.000000000+02:00
+- image_filename: 2019_06_23__12_49_P6230100.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.71311111111111
+  lon: 17.22584722222222
+  altitude: 117.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 11.56
+  iso: 200
+  width: 4523
+  height: 3146
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:49:42.000000000+02:00
 - image_filename: 2019_06_23__12_50_P6230108.jpg
   post_slug: 2019-06-23-z-pleszewa-do-rawicza
   lat: 51.71311111111111
@@ -692,12 +476,228 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4294
-  height: 3252
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-06-23 12:50:43+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4294
+  height: 3252
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:50:43.000000000+02:00
+- image_filename: 2019_06_23__12_51_P6230109.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.71311111111111
+  lon: 17.225805555555553
+  altitude: 117.0
+  focal_length: 30.0
+  focal_length_35: 60.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4593
+  height: 3409
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 12:51:04.000000000+02:00
+- image_filename: 2019_06_23__13_46_P6230110.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.70230555555556
+  lon: 17.18091666666667
+  altitude: 123.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 18.54
+  iso: 200
+  width: 4615
+  height: 3453
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 13:46:16.000000000+02:00
+- image_filename: 2019_06_23__13_46_P6230113.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.70231944444445
+  lon: 17.18091666666667
+  altitude: 123.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4620
+  height: 3445
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 13:46:36.000000000+02:00
+- image_filename: 2019_06_23__13_46_P6230114.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.70231944444445
+  lon: 17.18091666666667
+  altitude: 123.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4637
+  height: 3470
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 13:46:45.000000000+02:00
+- image_filename: 2019_06_23__13_58_P6230121.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.66976388888889
+  lon: 17.157
+  altitude: 118.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4400
+  height: 3292
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 13:58:09.000000000+02:00
+- image_filename: 2019_06_23__13_58_P6230122.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.66976388888889
+  lon: 17.157
+  altitude: 118.0
+  focal_length: 30.0
+  focal_length_35: 60.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 9.35
+  iso: 200
+  width: 4472
+  height: 3346
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 13:58:20.000000000+02:00
+- image_filename: 2019_06_23__14_03_P6230124.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.663222222222224
+  lon: 17.15498611111111
+  altitude: 117.0
+  focal_length: 30.0
+  focal_length_35: 60.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4495
+  height: 3363
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 14:03:47.000000000+02:00
+- image_filename: 2019_06_23__14_06_P6230131.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.66093055555555
+  lon: 17.154249999999998
+  altitude: 115.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4544
+  height: 3400
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 14:06:07.000000000+02:00
+- image_filename: 2019_06_23__14_15_P6230135.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.66305555555555
+  lon: 17.117527777777777
+  altitude: 136.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4579
+  height: 3426
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 14:15:20.000000000+02:00
+- image_filename: 2019_06_23__14_15_P6230142.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.66305555555555
+  lon: 17.117527777777777
+  altitude: 136.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4478
+  height: 3351
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 14:15:47.000000000+02:00
+- image_filename: 2019_06_23__14_17_P6230146.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.66352777777777
+  lon: 17.115638888888892
+  altitude: 137.0
+  focal_length: 65.0
+  focal_length_35: 130.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4524
+  height: 3385
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 14:17:55.000000000+02:00
+- image_filename: 2019_06_23__15_35_P6230154.jpg
+  post_slug: 2019-06-23-z-pleszewa-do-rawicza
+  lat: 51.609458333333336
+  lon: 16.860069444444445
+  altitude: 116.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4466
+  height: 3142
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-23 15:35:56.000000000+02:00

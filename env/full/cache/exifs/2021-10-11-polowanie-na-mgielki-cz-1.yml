@@ -1,56 +1,4 @@
 ---
-- image_filename: 2021_10_11__08_26_DSC09064.jpg
-  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
-  lat: 52.47505555555556
-  lon: 17.184166666666666
-  altitude: 0.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 160
-  width: 5761
-  height: 3833
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-11 08:26:59.000000000+02:00
-- image_filename: 2021_10_11__08_25_DSC09061.jpg
-  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
-  lat: 52.47505555555556
-  lon: 17.184166666666666
-  altitude: 0.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5630
-  height: 3729
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-11 08:25:01.000000000+02:00
-- image_filename: 2021_10_11__08_43__A114096.jpg
-  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
-  lat: 52.47505555555556
-  lon: 17.184166666666666
-  altitude: 0.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 78.76
-  iso: 200
-  width: 5202
-  height: 3883
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-10-11 08:43:25.000000000+02:00
 - image_filename: 2021_10_11__08_01_DSC09027.jpg
   post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
   lat: 52.47505555555556
@@ -68,6 +16,57 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-10-11 08:01:53.000000000+02:00
+- image_filename: 2021_10_11__08_02_DSC09042.jpg
+  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
+  lat: 52.47505555555556
+  lon: 17.184166666666666
+  altitude: 0.0
+  focal_length: 148.7
+  focal_length_35: 148.0
+  crop: 0.9952925353059853
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 500
+  width: 6014
+  height: 4001
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-11 08:02:56.000000000+02:00
+- image_filename: 2021_10_11__08_04_DSC09053.jpg
+  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
+  lat: 52.47505555555556
+  lon: 17.184166666666666
+  altitude: 0.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 5806
+  height: 3752
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-11 08:04:26.000000000+02:00
+- image_filename: 2021_10_11__08_06_DSC09057.jpg
+  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
+  lat: 52.47505555555556
+  lon: 17.184166666666666
+  altitude: 0.0
+  focal_length: 279.5
+  focal_length_35: 279.0
+  crop: 0.998211091234347
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5487
+  height: 3651
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-11 08:06:59.000000000+02:00
 - image_filename: 2021_10_11__08_24_DSC09060.jpg
   post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
   lat: 52.47505555555556
@@ -85,6 +84,91 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-10-11 08:24:14.000000000+02:00
+- image_filename: 2021_10_11__08_25_DSC09061.jpg
+  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
+  lat: 52.47505555555556
+  lon: 17.184166666666666
+  altitude: 0.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5630
+  height: 3729
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-11 08:25:01.000000000+02:00
+- image_filename: 2021_10_11__08_26_DSC09062.jpg
+  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
+  lat: 52.47505555555556
+  lon: 17.184166666666666
+  altitude: 0.0
+  focal_length: 134.2
+  focal_length_35: 134.0
+  crop: 0.9985096870342773
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  width: 5943
+  height: 3954
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-11 08:26:08.000000000+02:00
+- image_filename: 2021_10_11__08_26_DSC09063.jpg
+  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
+  lat: 52.47505555555556
+  lon: 17.184166666666666
+  altitude: 0.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  width: 5664
+  height: 3768
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-11 08:26:50.000000000+02:00
+- image_filename: 2021_10_11__08_26_DSC09064.jpg
+  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
+  lat: 52.47505555555556
+  lon: 17.184166666666666
+  altitude: 0.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  width: 5761
+  height: 3833
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-11 08:26:59.000000000+02:00
+- image_filename: 2021_10_11__08_31_DSC09069.jpg
+  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
+  lat: 52.47505555555556
+  lon: 17.184166666666666
+  altitude: 0.0
+  focal_length: 128.2
+  focal_length_35: 128.0
+  crop: 0.9984399375975039
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 125
+  width: 5822
+  height: 3873
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-10-11 08:31:04.000000000+02:00
 - image_filename: 2021_10_11__08_36_DSC09072.jpg
   post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
   lat: 52.47505555555556
@@ -136,23 +220,6 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-10-11 08:40:43.000000000+02:00
-- image_filename: 2021_10_11__08_26_DSC09062.jpg
-  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
-  lat: 52.47505555555556
-  lon: 17.184166666666666
-  altitude: 0.0
-  focal_length: 134.2
-  focal_length_35: 134.0
-  crop: 0.9985096870342773
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 250
-  width: 5943
-  height: 3954
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-11 08:26:08.000000000+02:00
 - image_filename: 2021_10_11__08_42_DSC09085.jpg
   post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
   lat: 52.47505555555556
@@ -170,57 +237,6 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-10-11 08:42:51.000000000+02:00
-- image_filename: 2021_10_11__08_04_DSC09053.jpg
-  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
-  lat: 52.47505555555556
-  lon: 17.184166666666666
-  altitude: 0.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 125
-  width: 5806
-  height: 3752
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-11 08:04:26.000000000+02:00
-- image_filename: 2021_10_11__08_26_DSC09063.jpg
-  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
-  lat: 52.47505555555556
-  lon: 17.184166666666666
-  altitude: 0.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 160
-  width: 5664
-  height: 3768
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-11 08:26:50.000000000+02:00
-- image_filename: 2021_10_11__08_06_DSC09057.jpg
-  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
-  lat: 52.47505555555556
-  lon: 17.184166666666666
-  altitude: 0.0
-  focal_length: 279.5
-  focal_length_35: 279.0
-  crop: 0.998211091234347
-  aperture: 6.3
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 200
-  width: 5487
-  height: 3651
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-11 08:06:59.000000000+02:00
 - image_filename: 2021_10_11__08_42__A114093.jpg
   post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
   lat: 52.47505555555556
@@ -239,40 +255,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-10-11 08:42:54.000000000+02:00
-- image_filename: 2021_10_11__09_05_DSC09090.jpg
+- image_filename: 2021_10_11__08_43__A114096.jpg
   post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
   lat: 52.47505555555556
   lon: 17.184166666666666
   altitude: 0.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 250
-  width: 3998
-  height: 3164
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-11 09:05:57.000000000+02:00
-- image_filename: 2021_10_11__08_31_DSC09069.jpg
-  post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
-  lat: 52.47505555555556
-  lon: 17.184166666666666
-  altitude: 0.0
-  focal_length: 128.2
-  focal_length_35: 128.0
-  crop: 0.9984399375975039
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 125
-  width: 5822
-  height: 3873
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-10-11 08:31:04.000000000+02:00
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 78.76
+  iso: 200
+  width: 5202
+  height: 3883
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-10-11 08:43:25.000000000+02:00
 - image_filename: 2021_10_11__09_05_DSC09089.jpg
   post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
   lat: 52.47505555555556
@@ -290,20 +290,20 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-10-11 09:05:55.000000000+02:00
-- image_filename: 2021_10_11__08_02_DSC09042.jpg
+- image_filename: 2021_10_11__09_05_DSC09090.jpg
   post_slug: 2021-10-11-polowanie-na-mgielki-cz-1
   lat: 52.47505555555556
   lon: 17.184166666666666
   altitude: 0.0
-  focal_length: 148.7
-  focal_length_35: 148.0
-  crop: 0.9952925353059853
-  aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 500
-  width: 6014
-  height: 4001
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  width: 3998
+  height: 3164
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  time: 2021-10-11 08:02:56.000000000+02:00
+  time: 2021-10-11 09:05:57.000000000+02:00

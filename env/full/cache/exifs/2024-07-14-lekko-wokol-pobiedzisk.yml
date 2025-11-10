@@ -1,46 +1,10 @@
 ---
-- image_filename: 2024_07_14__09_40_DSC09375.jpg
-  post_slug: 2024-07-14-lekko-wokol-pobiedzisk
 - image_filename: 2022_07_31__18_45_P7310479.jpg
   post_slug: 2024-07-14-lekko-wokol-pobiedzisk
-- image_filename: 2024_07_14__09_24_DSC09358.jpg
-  post_slug: 2024-07-14-lekko-wokol-pobiedzisk
-  lat: 52.51833333333333
-  lon: 17.239722222222223
-  altitude: 111.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 6002
-  height: 3956
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2024-07-14 09:24:39.000000000+02:00
-- image_filename: 2024_07_14__09_40_DSC09373.jpg
-  post_slug: 2024-07-14-lekko-wokol-pobiedzisk
-  lat: 52.519444444444446
-  lon: 17.29361111111111
-  altitude: 110.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2024-07-14 09:40:32.000000000+02:00
 - image_filename: 2024_07_14__09_16_DSC09354.jpg
   post_slug: 2024-07-14-lekko-wokol-pobiedzisk
-  lat: 52.50611111111111
-  lon: 17.21222222222222
+  lat: 52.50618055555555
+  lon: 17.21225
   altitude: 106.0
   focal_length: 75.0
   focal_length_35: 75.0
@@ -54,27 +18,10 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2024-07-14 09:16:35.000000000+02:00
-- image_filename: 2024_07_14__09_27_DSC09363.jpg
-  post_slug: 2024-07-14-lekko-wokol-pobiedzisk
-  lat: 52.52111111111111
-  lon: 17.252777777777776
-  altitude: 110.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5916
-  height: 3819
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2024-07-14 09:27:23.000000000+02:00
 - image_filename: 2024_07_14__09_16_DSC09355.jpg
   post_slug: 2024-07-14-lekko-wokol-pobiedzisk
-  lat: 52.50611111111111
-  lon: 17.21222222222222
+  lat: 52.506166666666665
+  lon: 17.21225
   altitude: 106.0
   focal_length: 71.0
   focal_length_35: 71.0
@@ -88,3 +35,71 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2024-07-14 09:16:40.000000000+02:00
+- image_filename: 2024_07_14__09_24_DSC09358.jpg
+  post_slug: 2024-07-14-lekko-wokol-pobiedzisk
+  lat: 52.518375
+  lon: 17.239583333333336
+  altitude: 111.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6002
+  height: 3956
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2024-07-14 09:24:39.000000000+02:00
+- image_filename: 2024_07_14__09_27_DSC09363.jpg
+  post_slug: 2024-07-14-lekko-wokol-pobiedzisk
+  lat: 52.521138888888885
+  lon: 17.25275
+  altitude: 110.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5916
+  height: 3819
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2024-07-14 09:27:23.000000000+02:00
+- image_filename: 2024_07_14__09_40_DSC09373.jpg
+  post_slug: 2024-07-14-lekko-wokol-pobiedzisk
+  lat: 52.519527777777775
+  lon: 17.293736111111112
+  altitude: 110.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2024-07-14 09:40:32.000000000+02:00
+- image_filename: 2024_07_14__09_40_DSC09375.jpg
+  post_slug: 2024-07-14-lekko-wokol-pobiedzisk
+  lat: 52.51947222222222
+  lon: 17.294027777777778
+  altitude: 110.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2024-07-14 09:40:43.000000000+02:00

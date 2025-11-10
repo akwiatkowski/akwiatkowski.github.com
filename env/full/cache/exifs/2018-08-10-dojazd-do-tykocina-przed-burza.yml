@@ -1,22 +1,4 @@
 ---
-- image_filename: P8100273.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.20455555555556
-  lon: 22.754055555555556
-  altitude: 122.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4435
-  height: 3317
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-10 17:19:52+02:00
-  focus_distance: 16.99
 - image_filename: P8100205.jpg
   post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
   lat: 53.479625
@@ -26,15 +8,15 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2018-08-10 11:30:49+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 11:30:49.000000000+02:00
 - image_filename: P8100210.jpg
   post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
   lat: 53.476958333333336
@@ -44,195 +26,15 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1.23
   iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
   width: 3483
   height: 2605
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-10 11:34:11+02:00
-  focus_distance: 1.23
-- image_filename: P8100223.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.47638888888889
-  lon: 22.733361111111112
-  altitude: 144.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-10 11:41:04+02:00
-  focus_distance: 206.93
-- image_filename: P8100230.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.476375000000004
-  lon: 22.73333333333333
-  altitude: 144.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-08-10 11:41:59+02:00
-  focus_distance: 0.32
-- image_filename: P8100239.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.22702777777778
-  lon: 22.931222222222225
-  altitude: 113.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4486
-  height: 3395
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-10 13:11:22+02:00
-  focus_distance: 11.74
-- image_filename: P8100248.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.23154166666667
-  lon: 22.876569444444446
-  altitude: 107.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4501
-  height: 3366
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-10 14:11:01+02:00
-  focus_distance: 1000.0
-- image_filename: P8100258.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.229930555555555
-  lon: 22.859555555555556
-  altitude: 109.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4498
-  height: 3364
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-10 14:24:36+02:00
-  focus_distance: 20.8
-- image_filename: P8100274_01.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.20561111111111
-  lon: 22.711055555555554
-  altitude: 112.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4582
-  height: 3427
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-08-10 17:30:39+02:00
-  focus_distance: 1000.0
-- image_filename: P8100250.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.23113888888889
-  lon: 22.87586111111111
-  altitude: 109.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4612
-  height: 3449
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-10 14:11:54+02:00
-  focus_distance: 1000.0
-- image_filename: P8100247.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.231750000000005
-  lon: 22.876708333333333
-  altitude: 107.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-10 14:10:54+02:00
-  focus_distance: 1000.0
-- image_filename: P8100267.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.20733333333334
-  lon: 22.77283333333333
-  altitude: 112.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-10 15:28:22+02:00
-  focus_distance: 1000.0
-- image_filename: P8100242.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.233916666666666
-  lon: 22.90663888888889
-  altitude: 108.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-10 13:59:45+02:00
-  focus_distance: 1000.0
+  time: 2018-08-10 11:34:11.000000000+02:00
 - image_filename: P8100214.jpg
   post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
   lat: 53.476958333333336
@@ -242,27 +44,225 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 2903
-  height: 2171
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2018-08-10 11:34:34+02:00
   focus_distance: 1.25
+  iso: 200
+  width: 2903
+  height: 2171
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-10 11:34:34.000000000+02:00
+- image_filename: P8100223.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.47638888888889
+  lon: 22.733361111111112
+  altitude: 144.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 206.93
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-10 11:41:04.000000000+02:00
+- image_filename: P8100230.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.476375000000004
+  lon: 22.73333333333333
+  altitude: 144.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.32
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-10 11:41:59.000000000+02:00
+- image_filename: P8100239.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.22702777777778
+  lon: 22.931222222222225
+  altitude: 113.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 11.74
+  iso: 200
+  width: 4486
+  height: 3395
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 13:11:22.000000000+02:00
+- image_filename: P8100242.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.233916666666666
+  lon: 22.90663888888889
+  altitude: 108.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 13:59:45.000000000+02:00
+- image_filename: P8100247.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.231750000000005
+  lon: 22.876708333333333
+  altitude: 107.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 14:10:54.000000000+02:00
+- image_filename: P8100248.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.23154166666667
+  lon: 22.876569444444446
+  altitude: 107.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4501
+  height: 3366
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 14:11:01.000000000+02:00
+- image_filename: P8100250.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.23113888888889
+  lon: 22.87586111111111
+  altitude: 109.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4612
+  height: 3449
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 14:11:54.000000000+02:00
+- image_filename: P8100258.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.229930555555555
+  lon: 22.859555555555556
+  altitude: 109.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 20.8
+  iso: 200
+  width: 4498
+  height: 3364
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 14:24:36.000000000+02:00
+- image_filename: P8100267.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.20733333333334
+  lon: 22.77283333333333
+  altitude: 112.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 15:28:22.000000000+02:00
+- image_filename: P8100273.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.20455555555556
+  lon: 22.754055555555556
+  altitude: 122.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 16.99
+  iso: 200
+  width: 4435
+  height: 3317
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 17:19:52.000000000+02:00
+- image_filename: P8100274_01.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.20561111111111
+  lon: 22.711055555555554
+  altitude: 112.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4582
+  height: 3427
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 17:30:39.000000000+02:00
 - image_filename: P8100292.jpg
   post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
   aperture: 1.7
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 3331
-  height: 4453
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2018-08-10 17:42:13+02:00
   focus_distance: 0.68
+  iso: 200
+  width: 3331
+  height: 4453
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-10 17:42:13.000000000+02:00

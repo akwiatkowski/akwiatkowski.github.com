@@ -1,6 +1,202 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2022_04_09__11_58_P4096740.jpg
   post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.16034722222222
+  lon: 21.87086111111111
+  altitude: 145.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 112.99
+  iso: 250
+  width: 5209
+  height: 3870
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 11:58:19.000000000+02:00
+- image_filename: 2022_04_09__12_07_P4096747.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.16613888888889
+  lon: 21.871125
+  altitude: 145.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8008
+  height: 5845
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:07:07.000000000+02:00
+- image_filename: 2022_04_09__12_20_P4096761.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.173624999999994
+  lon: 21.874180555555554
+  altitude: 146.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.48
+  iso: 200
+  width: 6076
+  height: 8096
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:20:45.000000000+02:00
+- image_filename: 2022_04_09__12_21_P4096762.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.17373611111111
+  lon: 21.874333333333333
+  altitude: 146.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 121.36
+  iso: 200
+  width: 8066
+  height: 5956
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:21:07.000000000+02:00
+- image_filename: 2022_04_09__12_24_P4096766.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.174638888888886
+  lon: 21.875805555555555
+  altitude: 145.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 230.76
+  iso: 200
+  width: 8142
+  height: 6056
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:24:01.000000000+02:00
+- image_filename: 2022_04_09__12_38_P4096779.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.17990277777778
+  lon: 21.86938888888889
+  altitude: 162.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.7
+  iso: 200
+  width: 8082
+  height: 5984
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:38:08.000000000+02:00
+- image_filename: 2022_04_09__12_43_P4096785.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.181888888888885
+  lon: 21.86475
+  altitude: 162.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 162.21
+  iso: 200
+  width: 8145
+  height: 6076
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:43:57.000000000+02:00
+- image_filename: 2022_04_09__12_49_P4096792.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.18418055555555
+  lon: 21.86176388888889
+  altitude: 147.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 5.32
+  iso: 200
+  width: 8116
+  height: 6011
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:49:02.000000000+02:00
+- image_filename: 2022_04_09__12_56_P4096801.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.185916666666664
+  lon: 21.85604166666667
+  altitude: 133.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 6.86
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:56:41.000000000+02:00
+- image_filename: 2022_04_09__12_58_P4096805.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.18620833333333
+  lon: 21.85576388888889
+  altitude: 133.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 10.56
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:58:03.000000000+02:00
+- image_filename: 2022_04_09__12_58_P4096806.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.18622222222222
+  lon: 21.85576388888889
+  altitude: 133.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 4.57
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 12:58:19.000000000+02:00
 - image_filename: 2022_04_09__12_59_P4096810.jpg
   post_slug: 2022-04-09-rezerwat-przelom-witkowki
   lat: 52.18618055555555
@@ -19,3 +215,165 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-04-09 12:59:15.000000000+02:00
+- image_filename: 2022_04_09__13_01_P4096816.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.186249999999994
+  lon: 21.85575
+  altitude: 134.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.32
+  iso: 200
+  width: 8139
+  height: 6100
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 13:01:19.000000000+02:00
+- image_filename: 2022_04_09__13_06_P4096823.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.186375
+  lon: 21.854000000000003
+  altitude: 136.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 13:06:03.000000000+02:00
+- image_filename: 2022_04_09__13_16_P4096834.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.18381944444444
+  lon: 21.84975
+  altitude: 141.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 42.89
+  iso: 200
+  width: 8145
+  height: 6093
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 13:16:59.000000000+02:00
+- image_filename: 2022_04_09__13_19_P4096836.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.183125
+  lon: 21.847319444444445
+  altitude: 142.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.03
+  iso: 200
+  width: 8131
+  height: 6093
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 13:19:12.000000000+02:00
+- image_filename: 2022_04_09__13_31_P4096844.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.180138888888884
+  lon: 21.838055555555556
+  altitude: 162.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 15.09
+  iso: 200
+  width: 8157
+  height: 6096
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 13:31:32.000000000+02:00
+- image_filename: 2022_04_09__14_02_P4096863.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.17466666666667
+  lon: 21.815708333333333
+  altitude: 157.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 40.96
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 14:02:00.000000000+02:00
+- image_filename: 2022_04_09__14_20_P4096871.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.16781944444444
+  lon: 21.802944444444446
+  altitude: 152.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 45.26
+  iso: 200
+  width: 8153
+  height: 6067
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 14:20:45.000000000+02:00
+- image_filename: 2022_04_09__14_21_P4096872.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.167319444444445
+  lon: 21.803
+  altitude: 151.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 12.64
+  iso: 200
+  width: 8105
+  height: 6005
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-09 14:21:35.000000000+02:00
+- image_filename: 2022_04_09__15_20_P4096979.jpg
+  post_slug: 2022-04-09-rezerwat-przelom-witkowki
+  lat: 52.16686111111111
+  lon: 21.58861111111111
+  altitude: 147.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5182
+  height: 3836
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-04-09 15:20:56.000000000+02:00

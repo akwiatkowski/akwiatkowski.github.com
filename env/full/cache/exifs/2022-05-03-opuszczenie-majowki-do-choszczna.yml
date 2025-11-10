@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-05-03-opuszczenie-majowki-do-choszczna
 - image_filename: 2022_05_03__07_21_P5033856.jpg
   post_slug: 2022-05-03-opuszczenie-majowki-do-choszczna
   lat: 53.15629166666667
@@ -19,60 +17,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-03 07:21:38.000000000+02:00
-- image_filename: 2022_05_03__07_30_P5033859.jpg
-  post_slug: 2022-05-03-opuszczenie-majowki-do-choszczna
-  lat: 53.16009722222222
-  lon: 15.500097222222223
-  altitude: 72.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8060
-  height: 5959
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-03 07:30:24.000000000+02:00
-- image_filename: 2022_05_03__07_55_P5033863.jpg
-  post_slug: 2022-05-03-opuszczenie-majowki-do-choszczna
-  lat: 53.16909722222222
-  lon: 15.419763888888887
-  altitude: 55.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 5.08
-  iso: 200
-  width: 6673
-  height: 5264
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-03 07:55:17.000000000+02:00
-- image_filename: 2022_05_03__07_35_P5033860.jpg
-  post_slug: 2022-05-03-opuszczenie-majowki-do-choszczna
-  lat: 53.17684722222222
-  lon: 15.498180555555555
-  altitude: 64.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 24.17
-  iso: 200
-  width: 8042
-  height: 5917
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-03 07:35:50.000000000+02:00
 - image_filename: 2022_05_03__07_29_P5033858.jpg
   post_slug: 2022-05-03-opuszczenie-majowki-do-choszczna
   lat: 53.159638888888885
@@ -91,3 +35,57 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-03 07:29:10.000000000+02:00
+- image_filename: 2022_05_03__07_30_P5033859.jpg
+  post_slug: 2022-05-03-opuszczenie-majowki-do-choszczna
+  lat: 53.16009722222222
+  lon: 15.500097222222223
+  altitude: 72.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8060
+  height: 5959
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-03 07:30:24.000000000+02:00
+- image_filename: 2022_05_03__07_35_P5033860.jpg
+  post_slug: 2022-05-03-opuszczenie-majowki-do-choszczna
+  lat: 53.17684722222222
+  lon: 15.498180555555555
+  altitude: 64.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 24.17
+  iso: 200
+  width: 8042
+  height: 5917
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-03 07:35:50.000000000+02:00
+- image_filename: 2022_05_03__07_55_P5033863.jpg
+  post_slug: 2022-05-03-opuszczenie-majowki-do-choszczna
+  lat: 53.16909722222222
+  lon: 15.419763888888887
+  altitude: 55.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.08
+  iso: 200
+  width: 6673
+  height: 5264
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-03 07:55:17.000000000+02:00

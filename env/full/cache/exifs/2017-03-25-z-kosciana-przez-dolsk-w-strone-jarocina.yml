@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
-  lat: 52.099291666666666
-  lon: 17.325222222222223
-  altitude: 68.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-03-25 15:02:02+01:00
 - image_filename: IMGP3236raw1.jpg
   post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
   lat: 52.062916666666666
@@ -22,11 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-03-25 11:07:40+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-03-25 11:07:40.000000000+01:00
 - image_filename: IMGP3238raw1.jpg
   post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
   lat: 52.05223611111111
@@ -36,11 +22,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2017-03-25 11:22:10+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-03-25 11:22:10.000000000+01:00
 - image_filename: IMGP3241raw1.jpg
   post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
   lat: 51.984680555555556
@@ -50,11 +36,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-03-25 12:13:57+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-03-25 12:13:57.000000000+01:00
 - image_filename: IMGP3256raw1.jpg
   post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
   lat: 51.975430555555555
@@ -64,11 +50,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-03-25 12:29:27+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-03-25 12:29:27.000000000+01:00
 - image_filename: IMGP3278raw1.jpg
   post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
   lat: 51.98656944444445
@@ -78,11 +64,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-03-25 13:00:12+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-03-25 13:00:12.000000000+01:00
 - image_filename: IMGP3291raw1.jpg
   post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
   lat: 52.04515277777777
@@ -92,11 +78,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-03-25 13:54:06+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-03-25 13:54:06.000000000+01:00
 - image_filename: IMGP3296raw1.jpg
   post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
   lat: 52.092875
@@ -106,11 +92,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-03-25 14:53:35+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-03-25 14:53:35.000000000+01:00
 - image_filename: IMGP3299raw1.jpg
   post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
   lat: 52.096000000000004
@@ -120,8 +106,22 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-03-25 14:55:22+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-03-25 14:55:22.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina
+  lat: 52.099291666666666
+  lon: 17.325222222222223
+  altitude: 68.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-03-25 15:02:02.000000000+01:00

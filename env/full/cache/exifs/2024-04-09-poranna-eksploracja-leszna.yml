@@ -1,74 +1,10 @@
 ---
-- image_filename: 2024_04_09__08_31_DJI_0190.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.9
-  lon: 16.616666666666667
-  altitude: 208.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0006666666666666666
-  exposure_string: 1/1500 s
-  iso: 120
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-09 08:31:39.000000000+02:00
 - image_filename: 2022_07_31__18_45_P7310479.jpg
   post_slug: 2024-04-09-poranna-eksploracja-leszna
-- image_filename: 2024_04_09__09_29_DJI_0224.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.916666666666664
-  lon: 16.733333333333334
-  altitude: 198.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001379310344827586
-  exposure_string: 1/725 s
-  iso: 100
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-09 09:29:24.000000000+02:00
-- image_filename: 2024_04_09__08_20_P4090035.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.91166666666666
-  lon: 16.72694444444444
-  altitude: 80.0
-  focal_length: 100.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 74.14
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-04-09 08:20:00.000000000+02:00
-- image_filename: 2024_04_09__09_58_DJI_0233.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.95
-  lon: 16.783333333333335
-  altitude: 233.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-09 09:58:43.000000000+02:00
 - image_filename: 2024_04_09__07_44_P4090022.jpg
   post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.906388888888884
-  lon: 16.635833333333334
+  lat: 51.90645833333333
+  lon: 16.635749999999998
   altitude: 99.0
   focal_length: 12.0
   aperture: 5.6
@@ -81,42 +17,10 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-04-09 07:44:27.000000000+02:00
-- image_filename: 2024_04_09__09_28_DJI_0220.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.916666666666664
-  lon: 16.733333333333334
-  altitude: 200.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 110
-  width: 7843
-  height: 5728
-  camera: FC3582
-  time: 2024-04-09 09:28:32.000000000+02:00
-- image_filename: 2024_04_09__08_12_P4090027.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.906388888888884
-  lon: 16.700833333333332
-  altitude: 75.0
-  focal_length: 50.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 16.16
-  iso: 200
-  width: 8168
-  height: 6132
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: OM-1
-  time: 2024-04-09 08:12:17.000000000+02:00
 - image_filename: 2024_04_09__07_44_P4090024.jpg
   post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.906388888888884
-  lon: 16.635833333333334
+  lat: 51.90645833333333
+  lon: 16.635749999999998
   altitude: 98.0
   focal_length: 100.0
   aperture: 4.0
@@ -129,42 +33,58 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-04-09 07:44:55.000000000+02:00
-- image_filename: 2024_04_09__10_03_DJI_0249.jpg
+- image_filename: 2024_04_09__08_12_P4090027.jpg
   post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.93333333333333
-  lon: 16.766666666666666
-  altitude: 238.8
+  lat: 51.906277777777774
+  lon: 16.700916666666664
+  altitude: 75.0
+  focal_length: 50.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 16.16
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-04-09 08:12:17.000000000+02:00
+- image_filename: 2024_04_09__08_20_P4090035.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.91161111111111
+  lon: 16.726930555555555
+  altitude: 80.0
+  focal_length: 100.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 74.14
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-04-09 08:20:00.000000000+02:00
+- image_filename: 2024_04_09__08_28_DJI_0179.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.907802777777775
+  lon: 16.62898611111111
+  altitude: 207.5
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 200
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
   width: 8018
   height: 5991
   camera: FC3582
-  time: 2024-04-09 10:03:37.000000000+02:00
-- image_filename: 2024_04_09__09_24_DJI_0208.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.916666666666664
-  lon: 16.733333333333334
-  altitude: 195.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 5991
-  height: 8018
-  camera: FC3582
-  time: 2024-04-09 09:24:54.000000000+02:00
+  time: 2024-04-09 08:28:37.000000000+02:00
 - image_filename: 2024_04_09__08_29_DJI_0184.jpg
   post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.916666666666664
-  lon: 16.633333333333333
+  lat: 51.90977777777778
+  lon: 16.629927777777777
   altitude: 206.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -177,106 +97,26 @@
   height: 5991
   camera: FC3582
   time: 2024-04-09 08:29:49.000000000+02:00
-- image_filename: 2024_04_09__09_26_DJI_0211.jpg
+- image_filename: 2024_04_09__08_31_DJI_0190.jpg
   post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.916666666666664
-  lon: 16.733333333333334
-  altitude: 195.4
+  lat: 51.906413888888885
+  lon: 16.624236111111113
+  altitude: 208.9
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 110
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-09 09:26:03.000000000+02:00
-- image_filename: 2024_04_09__09_58_DJI_0230.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.95
-  lon: 16.783333333333335
-  altitude: 235.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  iso: 200
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-09 09:58:17.000000000+02:00
-- image_filename: 2024_04_09__09_24_DJI_0204.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.916666666666664
-  lon: 16.733333333333334
-  altitude: 195.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
   iso: 120
   width: 8018
   height: 5991
   camera: FC3582
-  time: 2024-04-09 09:24:05.000000000+02:00
-- image_filename: 2024_04_09__10_01_DJI_0244.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.95
-  lon: 16.766666666666666
-  altitude: 238.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 130
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-09 10:01:52.000000000+02:00
-- image_filename: 2024_04_09__10_01_DJI_0242.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.95
-  lon: 16.766666666666666
-  altitude: 238.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-09 10:01:31.000000000+02:00
-- image_filename: 2024_04_09__09_24_DJI_0206.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.916666666666664
-  lon: 16.733333333333334
-  altitude: 195.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 100
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-09 09:24:24.000000000+02:00
+  time: 2024-04-09 08:31:39.000000000+02:00
 - image_filename: 2024_04_09__08_34_DJI_0195.jpg
   post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.9
-  lon: 16.633333333333333
+  lat: 51.90672222222222
+  lon: 16.633866666666666
   altitude: 209.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -291,8 +131,8 @@
   time: 2024-04-09 08:34:16.000000000+02:00
 - image_filename: 2024_04_09__08_34_DJI_0197.jpg
   post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.9
-  lon: 16.633333333333333
+  lat: 51.90672222222222
+  lon: 16.63386111111111
   altitude: 209.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -305,26 +145,10 @@
   height: 5991
   camera: FC3582
   time: 2024-04-09 08:34:32.000000000+02:00
-- image_filename: 2024_04_09__08_28_DJI_0179.jpg
-  post_slug: 2024-04-09-poranna-eksploracja-leszna
-  lat: 51.9
-  lon: 16.633333333333333
-  altitude: 207.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 110
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-09 08:28:37.000000000+02:00
 - image_filename: 2024_04_09__08_44_P4090041.jpg
   post_slug: 2024-04-09-poranna-eksploracja-leszna
   lat: 51.92638888888889
-  lon: 16.76361111111111
+  lon: 16.763513888888887
   altitude: 75.0
   focal_length: 47.0
   aperture: 5.0
@@ -337,3 +161,179 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: OM-1
   time: 2024-04-09 08:44:10.000000000+02:00
+- image_filename: 2024_04_09__09_24_DJI_0204.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.912075
+  lon: 16.726841666666665
+  altitude: 195.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 120
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-09 09:24:05.000000000+02:00
+- image_filename: 2024_04_09__09_24_DJI_0206.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.912077777777775
+  lon: 16.726841666666665
+  altitude: 195.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-09 09:24:24.000000000+02:00
+- image_filename: 2024_04_09__09_24_DJI_0208.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.912075
+  lon: 16.726841666666665
+  altitude: 195.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 5991
+  height: 8018
+  camera: FC3582
+  time: 2024-04-09 09:24:54.000000000+02:00
+- image_filename: 2024_04_09__09_26_DJI_0211.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.91234444444444
+  lon: 16.73024444444444
+  altitude: 195.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-09 09:26:03.000000000+02:00
+- image_filename: 2024_04_09__09_28_DJI_0220.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.91101388888889
+  lon: 16.725377777777776
+  altitude: 200.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 110
+  width: 7843
+  height: 5728
+  camera: FC3582
+  time: 2024-04-09 09:28:32.000000000+02:00
+- image_filename: 2024_04_09__09_29_DJI_0224.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.911544444444445
+  lon: 16.72528333333333
+  altitude: 198.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-09 09:29:24.000000000+02:00
+- image_filename: 2024_04_09__09_58_DJI_0230.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.943777777777775
+  lon: 16.77716111111111
+  altitude: 235.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 200
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-09 09:58:17.000000000+02:00
+- image_filename: 2024_04_09__09_58_DJI_0233.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.943777777777775
+  lon: 16.777147222222222
+  altitude: 233.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-09 09:58:43.000000000+02:00
+- image_filename: 2024_04_09__10_01_DJI_0242.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.94369722222222
+  lon: 16.770566666666667
+  altitude: 238.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-09 10:01:31.000000000+02:00
+- image_filename: 2024_04_09__10_01_DJI_0244.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.94369722222222
+  lon: 16.770566666666667
+  altitude: 238.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 130
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-09 10:01:52.000000000+02:00
+- image_filename: 2024_04_09__10_03_DJI_0249.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.941449999999996
+  lon: 16.77358333333333
+  altitude: 238.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 200
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-09 10:03:37.000000000+02:00

@@ -1,48 +1,48 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
-  lat: 49.58280972222222
-  lon: 20.00825138888889
-  altitude: 823.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-01-02 10:55:46+01:00
-- image_filename: IMGP7310raw1.jpg
-  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
-  lat: 49.59160555555556
-  lon: 19.99698916666667
-  altitude: 661.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-01-02 11:20:13+01:00
 - image_filename: IMGP7295raw1.jpg
   post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
-  lat: 49.58869305555556
-  lon: 19.994883611111113
+  lat: 49.58869444444445
+  lon: 19.994883333333334
   altitude: 735.1
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
+  time: 2016-01-02 11:13:18.000000000+01:00
+- image_filename: IMGP7310raw1.jpg
+  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
+  lat: 49.59160555555556
+  lon: 19.99698888888889
+  altitude: 661.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2016-01-02 11:13:18+01:00
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2016-01-02 11:20:13.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
+  lat: 49.58280833333334
+  lon: 20.008252777777777
+  altitude: 823.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2016-01-02 10:55:46.000000000+01:00

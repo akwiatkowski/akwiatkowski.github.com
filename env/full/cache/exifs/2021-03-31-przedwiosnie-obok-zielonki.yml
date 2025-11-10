@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-03-31-przedwiosnie-obok-zielonki
 - image_filename: 2021_03_31__16_55_P3310003.jpg
   post_slug: 2021-03-31-przedwiosnie-obok-zielonki
   lat: 52.496027777777776
@@ -37,24 +35,6 @@
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   time: 2021-03-31 17:01:10.000000000+02:00
-- image_filename: 2021_03_31__17_37_P3310012.jpg
-  post_slug: 2021-03-31-przedwiosnie-obok-zielonki
-  lat: 52.49518055555556
-  lon: 17.180625000000003
-  altitude: 79.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4640
-  height: 3472
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  time: 2021-03-31 17:37:21.000000000+02:00
 - image_filename: 2021_03_31__17_01_P3310010.jpg
   post_slug: 2021-03-31-przedwiosnie-obok-zielonki
   lat: 52.50022222222222
@@ -73,6 +53,24 @@
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   time: 2021-03-31 17:01:23.000000000+02:00
+- image_filename: 2021_03_31__17_37_P3310012.jpg
+  post_slug: 2021-03-31-przedwiosnie-obok-zielonki
+  lat: 52.49518055555556
+  lon: 17.180625000000003
+  altitude: 79.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2021-03-31 17:37:21.000000000+02:00
 - image_filename: 2021_03_31__17_37_P3310014.jpg
   post_slug: 2021-03-31-przedwiosnie-obok-zielonki
   lat: 52.49516666666667
@@ -145,24 +143,6 @@
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   time: 2021-03-31 17:52:05.000000000+02:00
-- image_filename: 2021_03_31__18_06_P3310036.jpg
-  post_slug: 2021-03-31-przedwiosnie-obok-zielonki
-  lat: 52.48244444444445
-  lon: 17.209
-  altitude: 85.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 11.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4441
-  height: 3295
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  time: 2021-03-31 18:06:52.000000000+02:00
 - image_filename: 2021_03_31__18_06_P3310033.jpg
   post_slug: 2021-03-31-przedwiosnie-obok-zielonki
   lat: 52.48181944444445
@@ -181,6 +161,24 @@
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   time: 2021-03-31 18:06:38.000000000+02:00
+- image_filename: 2021_03_31__18_06_P3310036.jpg
+  post_slug: 2021-03-31-przedwiosnie-obok-zielonki
+  lat: 52.48244444444445
+  lon: 17.209
+  altitude: 85.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4441
+  height: 3295
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2021-03-31 18:06:52.000000000+02:00
 - image_filename: 2021_03_31__18_13_P3310038.jpg
   post_slug: 2021-03-31-przedwiosnie-obok-zielonki
   lat: 52.482375000000005

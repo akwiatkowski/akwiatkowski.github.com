@@ -1,87 +1,87 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem
-  lat: 52.81801055555556
-  lon: 15.746535277777777
-  altitude: 29.9
-  focal_length: 2.8
-  focal_length_35: 15.0
-  crop: 5.357142857142858
-  aperture: 2.8
-  iso: 100
-  camera: Hero3-Black Edition
-  width: 2000
-  height: 1333
-  exposure: 0.0007132667617689016
-  exposure_string: 1/1402 s
-  time: 2016-05-10 12:57:01+02:00
 - image_filename: G0014492b.jpg
   post_slug: 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem
-  lat: 52.874455
-  lon: 15.989238055555555
+  lat: 52.874455555555556
+  lon: 15.989238888888888
   altitude: 38.6
   focal_length: 2.8
   focal_length_35: 15.0
   crop: 5.357142857142858
   aperture: 2.8
+  exposure: 69056.0
+  exposure_string: 0.00069056 s
   iso: 100
   camera: Hero3-Black Edition
-  exposure: 0.0006906077348066298
-  exposure_string: 1/1448 s
-  time: 2016-05-10 11:55:18+02:00
+  time: 2016-05-10 11:55:18.000000000+02:00
 - image_filename: G0034499b.jpg
   post_slug: 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem
-  lat: 52.86152805555556
-  lon: 15.956850833333332
+  lat: 52.86152777777778
+  lon: 15.95685
   altitude: 58.8
   focal_length: 2.8
   focal_length_35: 15.0
   crop: 5.357142857142858
   aperture: 2.8
+  exposure: 145012.0
+  exposure_string: 0.00145012 s
   iso: 100
   camera: Hero3-Black Edition
-  exposure: 0.0014492753623188406
-  exposure_string: 1/690 s
-  time: 2016-05-10 12:02:50+02:00
-- image_filename: G0154547b.jpg
-  post_slug: 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem
-  lat: 52.83334277777778
-  lon: 15.71824111111111
-  altitude: 24.2
-  focal_length: 2.8
-  focal_length_35: 15.0
-  crop: 5.357142857142858
-  aperture: 2.8
-  iso: 100
-  camera: Hero3-Black Edition
-  exposure: 0.0005385029617662897
-  exposure_string: 1/1857 s
-  time: 2016-05-10 13:06:09+02:00
-- image_filename: G0264617b.jpg
-  post_slug: 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem
-  lat: 52.744033333333334
-  lon: 15.40389388888889
-  altitude: 59.7
-  focal_length: 2.8
-  focal_length_35: 15.0
-  crop: 5.357142857142858
-  aperture: 2.8
-  iso: 100
-  camera: Hero3-Black Edition
-  exposure: 0.0006472491909385113
-  exposure_string: 1/1545 s
-  time: 2016-05-10 15:26:23+02:00
+  time: 2016-05-10 12:02:50.000000000+02:00
 - image_filename: G0134544b.jpg
   post_slug: 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem
-  lat: 52.83246611111112
-  lon: 15.718520277777777
+  lat: 52.83246666666667
+  lon: 15.718519444444444
   altitude: 25.6
   focal_length: 2.8
   focal_length_35: 15.0
   crop: 5.357142857142858
   aperture: 2.8
-  iso: 100
-  camera: Hero3-Black Edition
   exposure: 0.0005871990604815032
   exposure_string: 1/1703 s
-  time: 2016-05-10 13:05:40+02:00
+  iso: 100
+  camera: Hero3-Black Edition
+  time: 2016-05-10 13:05:40.000000000+02:00
+- image_filename: G0154547b.jpg
+  post_slug: 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem
+  lat: 52.83334166666667
+  lon: 15.718241666666668
+  altitude: 24.2
+  focal_length: 2.8
+  focal_length_35: 15.0
+  crop: 5.357142857142858
+  aperture: 2.8
+  exposure: 0.0005385029617662897
+  exposure_string: 1/1857 s
+  iso: 100
+  camera: Hero3-Black Edition
+  time: 2016-05-10 13:06:09.000000000+02:00
+- image_filename: G0264617b.jpg
+  post_slug: 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem
+  lat: 52.744033333333334
+  lon: 15.403894444444445
+  altitude: 59.7
+  focal_length: 2.8
+  focal_length_35: 15.0
+  crop: 5.357142857142858
+  aperture: 2.8
+  exposure: 647124.0
+  exposure_string: 0.000647124 s
+  iso: 100
+  camera: Hero3-Black Edition
+  time: 2016-05-10 15:26:23.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem
+  lat: 52.81801111111111
+  lon: 15.74653611111111
+  altitude: 29.9
+  focal_length: 2.8
+  focal_length_35: 15.0
+  crop: 5.357142857142858
+  aperture: 2.8
+  exposure: 713369.0
+  exposure_string: 0.000713369 s
+  iso: 100
+  width: 2000
+  height: 1333
+  camera: Hero3-Black Edition
+  time: 2016-05-10 12:57:01.000000000+02:00

@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_04_18__18_05_P4180013.jpg
-  post_slug: 2019-04-18-ucieczka-do-wpn
-  lat: 52.28469444444444
-  lon: 16.80591666666667
-  altitude: 97.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-04-18 18:05:27+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_04_18__16_54_P4180001.jpg
   post_slug: 2019-04-18-ucieczka-do-wpn
   lat: 52.370805555555556
@@ -26,141 +8,15 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 10.63
   iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
   width: 4417
   height: 3387
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-18 16:54:21+02:00
-  focus_distance: 10.63
-- image_filename: 2019_04_18__17_41_P4180009.jpg
-  post_slug: 2019-04-18-ucieczka-do-wpn
-  lat: 52.31733333333334
-  lon: 16.84945833333333
-  altitude: 77.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-18 17:41:48+02:00
-  focus_distance: 46.85
-- image_filename: 2019_04_18__17_45_P4180012.jpg
-  post_slug: 2019-04-18-ucieczka-do-wpn
-  lat: 52.313291666666665
-  lon: 16.846569444444444
-  altitude: 89.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4514
-  height: 3378
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-18 17:45:22+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_18__18_15_P4180014.jpg
-  post_slug: 2019-04-18-ucieczka-do-wpn
-  lat: 52.288263888888885
-  lon: 16.789305555555558
-  altitude: 91.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-18 18:15:41+02:00
-  focus_distance: 50.15
-- image_filename: 2019_04_18__18_37_P4180022.jpg
-  post_slug: 2019-04-18-ucieczka-do-wpn
-  lat: 52.27451388888889
-  lon: 16.74361111111111
-  altitude: 82.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-18 18:37:32+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_18__18_21_P4180020.jpg
-  post_slug: 2019-04-18-ucieczka-do-wpn
-  lat: 52.280125
-  lon: 16.792222222222225
-  altitude: 97.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-18 18:21:07+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_18__17_45_P4180011.jpg
-  post_slug: 2019-04-18-ucieczka-do-wpn
-  lat: 52.31348611111111
-  lon: 16.846819444444442
-  altitude: 89.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4624
-  height: 3460
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-18 17:45:15+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_18__17_02_P4180004.jpg
-  post_slug: 2019-04-18-ucieczka-do-wpn
-  lat: 52.364513888888894
-  lon: 16.893208333333334
-  altitude: 69.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4385
-  height: 3322
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-04-18 17:02:46+02:00
-  focus_distance: 1000.0
+  time: 2019-04-18 16:54:21.000000000+02:00
 - image_filename: 2019_04_18__16_55_P4180002.jpg
   post_slug: 2019-04-18-ucieczka-do-wpn
   lat: 52.370583333333336
@@ -170,33 +26,33 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4352
-  height: 3280
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-04-18 16:55:16+02:00
   focus_distance: 1000.0
-- image_filename: 2019_04_18__18_20_P4180018.jpg
+  iso: 200
+  width: 4352
+  height: 3280
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 16:55:16.000000000+02:00
+- image_filename: 2019_04_18__17_02_P4180004.jpg
   post_slug: 2019-04-18-ucieczka-do-wpn
-  lat: 52.28026388888889
-  lon: 16.79275
-  altitude: 97.0
+  lat: 52.364513888888894
+  lon: 16.893208333333334
+  altitude: 69.0
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
-  aperture: 4.5
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
   iso: 200
+  width: 4385
+  height: 3322
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  width: 4494
-  height: 3363
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-18 18:20:59+02:00
-  focus_distance: 1000.0
+  time: 2019-04-18 17:02:46.000000000+02:00
 - image_filename: 2019_04_18__17_07_P4180006.jpg
   post_slug: 2019-04-18-ucieczka-do-wpn
   lat: 52.35791666666667
@@ -206,15 +62,15 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-04-18 17:07:37+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 17:07:37.000000000+02:00
 - image_filename: 2019_04_18__17_34_P4180007.jpg
   post_slug: 2019-04-18-ucieczka-do-wpn
   lat: 52.32325
@@ -224,12 +80,156 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4298
-  height: 3138
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-04-18 17:34:40+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4298
+  height: 3138
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 17:34:40.000000000+02:00
+- image_filename: 2019_04_18__17_41_P4180009.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  lat: 52.31733333333334
+  lon: 16.84945833333333
+  altitude: 77.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 46.85
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 17:41:48.000000000+02:00
+- image_filename: 2019_04_18__17_45_P4180011.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  lat: 52.31348611111111
+  lon: 16.846819444444442
+  altitude: 89.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4624
+  height: 3460
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 17:45:15.000000000+02:00
+- image_filename: 2019_04_18__17_45_P4180012.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  lat: 52.313291666666665
+  lon: 16.846569444444444
+  altitude: 89.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4514
+  height: 3378
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 17:45:22.000000000+02:00
+- image_filename: 2019_04_18__18_05_P4180013.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  lat: 52.28469444444444
+  lon: 16.80591666666667
+  altitude: 97.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 18:05:27.000000000+02:00
+- image_filename: 2019_04_18__18_15_P4180014.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  lat: 52.288263888888885
+  lon: 16.789305555555558
+  altitude: 91.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 50.15
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 18:15:41.000000000+02:00
+- image_filename: 2019_04_18__18_20_P4180018.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  lat: 52.28026388888889
+  lon: 16.79275
+  altitude: 97.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4494
+  height: 3363
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 18:20:59.000000000+02:00
+- image_filename: 2019_04_18__18_21_P4180020.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  lat: 52.280125
+  lon: 16.792222222222225
+  altitude: 97.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 18:21:07.000000000+02:00
+- image_filename: 2019_04_18__18_37_P4180022.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  lat: 52.27451388888889
+  lon: 16.74361111111111
+  altitude: 82.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2019-04-18 18:37:32.000000000+02:00

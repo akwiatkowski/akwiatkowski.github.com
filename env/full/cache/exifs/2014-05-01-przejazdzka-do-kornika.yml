@@ -1,123 +1,123 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2014-05-01-przejazdzka-do-kornika
-  lat: 52.24480916666667
-  lon: 16.90183638888889
-  altitude: 59.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-05-01 15:40:09+02:00
 - image_filename: IMGP5553raw1.jpg
   post_slug: 2014-05-01-przejazdzka-do-kornika
-  lat: 52.40457055555555
+  lat: 52.40456944444444
   lon: 16.955233333333332
   altitude: 57.8
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-05-01 09:39:45+02:00
-- image_filename: IMGP5593raw1.jpg
-  post_slug: 2014-05-01-przejazdzka-do-kornika
-  lat: 52.216438611111116
-  lon: 16.981308055555555
-  altitude: 66.5
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2014-05-01 14:38:21+02:00
-- image_filename: IMGP5607raw1.jpg
-  post_slug: 2014-05-01-przejazdzka-do-kornika
-  lat: 52.235351666666666
-  lon: 16.917685277777778
-  altitude: 62.6
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-05-01 15:10:07+02:00
-- image_filename: IMGP5677raw1.jpg
-  post_slug: 2014-05-01-przejazdzka-do-kornika
-  lat: 52.304629444444444
-  lon: 16.89306611111111
-  altitude: 57.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-05-01 16:45:40+02:00
-- image_filename: IMGP5656raw1.jpg
-  post_slug: 2014-05-01-przejazdzka-do-kornika
-  lat: 52.24480916666667
-  lon: 16.90183638888889
-  altitude: 59.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-05-01 15:40:09+02:00
+  time: 2014-05-01 09:39:45.000000000+02:00
 - image_filename: IMGP5566raw1.jpg
   post_slug: 2014-05-01-przejazdzka-do-kornika
-  lat: 52.26164222222222
-  lon: 17.010670277777777
+  lat: 52.26164166666667
+  lon: 17.010669444444446
   altitude: 85.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2014-05-01 12:00:57+02:00
+  time: 2014-05-01 12:00:57.000000000+02:00
+- image_filename: IMGP5593raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.216438888888895
+  lon: 16.98130833333333
+  altitude: 66.5
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-05-01 14:38:21.000000000+02:00
+- image_filename: IMGP5607raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.23535277777778
+  lon: 16.917686111111113
+  altitude: 62.6
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-05-01 15:10:07.000000000+02:00
+- image_filename: IMGP5656raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.24480833333333
+  lon: 16.90183611111111
+  altitude: 59.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-05-01 15:40:09.000000000+02:00
+- image_filename: IMGP5677raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.304630555555555
+  lon: 16.893066666666666
+  altitude: 57.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-05-01 16:45:40.000000000+02:00
 - image_filename: IMGP5682raw1.jpg
   post_slug: 2014-05-01-przejazdzka-do-kornika
-  lat: 52.30996305555555
-  lon: 16.89832277777778
+  lat: 52.30996388888889
+  lon: 16.898322222222223
   altitude: 58.8
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
+  time: 2014-05-01 16:52:23.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.24480833333333
+  lon: 16.90183611111111
+  altitude: 59.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2014-05-01 16:52:23+02:00
+  iso: 100
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-05-01 15:40:09.000000000+02:00

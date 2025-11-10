@@ -1,165 +1,165 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
-  lat: 49.43914472222222
-  lon: 20.61803138888889
-  altitude: 1082.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-07-13 11:05:05+02:00
-- image_filename: IMGP1491raw1.jpg
-  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
-  lat: 49.45581638888889
-  lon: 20.665125555555555
-  altitude: 742.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2015-07-13 09:18:33+02:00
-- image_filename: IMGP1566raw1.jpg
-  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
-  lat: 49.44681138888888
-  lon: 20.60622111111111
-  altitude: 1188.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-07-13 11:55:06+02:00
-- image_filename: IMGP1577raw1.jpg
-  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
-  lat: 49.447919166666665
-  lon: 20.60681361111111
-  altitude: 1228.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-07-13 12:01:58+02:00
-- image_filename: IMGP1648raw1.jpg
-  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
-  lat: 49.465582500000004
-  lon: 20.572784166666665
-  altitude: 1149.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-13 13:22:30+02:00
 - image_filename: IMGP1483raw1.jpg
   post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  exposure: 5.0
+  exposure_string: 2.5 s
   iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2015-07-13 08:26:23+02:00
+  time: 2015-07-13 08:26:23.000000000+02:00
+- image_filename: IMGP1491raw1.jpg
+  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
+  lat: 49.45581666666667
+  lon: 20.665125
+  altitude: 742.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-13 09:18:33.000000000+02:00
 - image_filename: IMGP1497raw1.jpg
   post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
-  lat: 49.455218055555555
-  lon: 20.665079166666665
+  lat: 49.455219444444445
+  lon: 20.665080555555555
   altitude: 748.0
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-07-13 09:20:38+02:00
-- image_filename: IMGP1565raw1.jpg
-  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
-  lat: 49.44656444444444
-  lon: 20.60604777777778
-  altitude: 1181.1
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 2.8
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2015-07-13 11:53:13+02:00
-- image_filename: IMGP1553raw1.jpg
-  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
-  lat: 49.43981194444444
-  lon: 20.608910555555557
-  altitude: 1133.5
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-13 11:34:07+02:00
+  time: 2015-07-13 09:20:38.000000000+02:00
 - image_filename: IMGP1526raw1.jpg
   post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
-  lat: 49.44978
-  lon: 20.657499166666664
+  lat: 49.44978055555555
+  lon: 20.6575
   altitude: 872.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2015-07-13 09:47:30.000000000+02:00
+- image_filename: IMGP1553raw1.jpg
+  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
+  lat: 49.439811111111105
+  lon: 20.608911111111112
+  altitude: 1133.5
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-13 11:34:07.000000000+02:00
+- image_filename: IMGP1565raw1.jpg
+  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
+  lat: 49.44656388888889
+  lon: 20.606047222222223
+  altitude: 1181.1
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-13 11:53:13.000000000+02:00
+- image_filename: IMGP1566raw1.jpg
+  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
+  lat: 49.44681111111111
+  lon: 20.606222222222225
+  altitude: 1188.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.0
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2015-07-13 09:47:30+02:00
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-13 11:55:06.000000000+02:00
+- image_filename: IMGP1577raw1.jpg
+  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
+  lat: 49.447919444444445
+  lon: 20.60681388888889
+  altitude: 1228.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-13 12:01:58.000000000+02:00
 - image_filename: IMGP1586raw1.jpg
   post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
   lat: 49.448055555555555
-  lon: 20.606775555555558
+  lon: 20.606775000000003
   altitude: 1233.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
   iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2015-07-13 12:06:29+02:00
+  time: 2015-07-13 12:06:29.000000000+02:00
+- image_filename: IMGP1648raw1.jpg
+  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
+  lat: 49.465583333333335
+  lon: 20.572783333333334
+  altitude: 1149.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-13 13:22:30.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2015-07-13-z-kordowca-przez-radziejowa-do-przehyby
+  lat: 49.439144444444445
+  lon: 20.618030555555556
+  altitude: 1082.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-13 11:05:05.000000000+02:00

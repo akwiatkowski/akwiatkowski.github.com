@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 53.05183333333333
-  lon: 17.792722222222224
-  altitude: 62.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-11 11:45:23+02:00
 - image_filename: IMGP3400raw1.jpg
   post_slug: 2017-04-11-pociagiem-przez-paluki
   lat: 53.13509722222222
@@ -22,277 +8,11 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 250
   camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-11 10:39:38+02:00
-- image_filename: IMGP3444raw2.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 53.07309722222222
-  lon: 17.813791666666667
-  altitude: 62.0
-  focal_length: 14.0
-  focal_length_35: 21.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-11 11:38:44+02:00
-- image_filename: IMGP3512raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 53.00779166666667
-  lon: 17.740597222222224
-  altitude: 65.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-11 12:09:37+02:00
-- image_filename: IMGP3565raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 53.07306944444445
-  lon: 17.813555555555556
-  altitude: 57.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-11 13:21:36+02:00
-- image_filename: IMGP3640raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 53.15304166666667
-  lon: 17.637652777777777
-  altitude: 69.0
-  focal_length: 148.0
-  focal_length_35: 222.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-04-11 14:59:33+02:00
-- image_filename: IMGP3761raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.996125
-  lon: 17.501722222222224
-  altitude: 98.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-11 16:09:44+02:00
-- image_filename: IMGP3810raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.92979166666667
-  lon: 17.485861111111113
-  altitude: 93.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-11 16:46:15+02:00
-- image_filename: IMGP3832raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.92294444444444
-  lon: 17.48270833333333
-  altitude: 93.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 6.3
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-11 16:47:18+02:00
-- image_filename: IMGP3981raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.84136111111111
-  lon: 17.497500000000002
-  altitude: 100.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-04-11 17:11:34+02:00
-- image_filename: IMGP3898raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.90456944444444
-  lon: 17.477930555555552
-  altitude: 92.0
-  focal_length: 33.0
-  focal_length_35: 49.0
-  crop: 1.4848484848484849
-  aperture: 6.3
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-11 16:52:51+02:00
-- image_filename: IMGP4094raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.70019444444445
-  lon: 17.494555555555557
-  altitude: 104.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-11 17:38:48+02:00
-- image_filename: IMGP3580raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 53.100902777777776
-  lon: 17.892277777777778
-  altitude: 60.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-11 13:33:02+02:00
-- image_filename: IMGP3985raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.839555555555556
-  lon: 17.49740277777778
-  altitude: 100.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-04-11 17:12:17+02:00
-- image_filename: IMGP3553raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 53.07309722222222
-  lon: 17.8135
-  altitude: 57.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-11 13:20:47+02:00
-- image_filename: IMGP3856raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.91180555555555
-  lon: 17.47748611111111
-  altitude: 91.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-11 16:49:16+02:00
-- image_filename: IMGP3746raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.99577777777778
-  lon: 17.501013888888888
-  altitude: 98.0
-  focal_length: 20.0
-  focal_length_35: 30.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-11 15:54:47+02:00
-- image_filename: IMGP3976raw2.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.84279166666667
-  lon: 17.497222222222224
-  altitude: 102.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-11 17:11:08+02:00
-- image_filename: IMGP3825raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.923944444444444
-  lon: 17.483152777777775
-  altitude: 95.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-11 16:47:09+02:00
-- image_filename: IMGP3657raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 53.142583333333334
-  lon: 17.607680555555557
-  altitude: 66.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-04-11 15:03:30+02:00
-- image_filename: IMGP3728raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.99626388888889
-  lon: 17.501361111111112
-  altitude: 98.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-11 15:49:41+02:00
+  time: 2017-04-11 10:39:38.000000000+02:00
 - image_filename: IMGP3443raw1.jpg
   post_slug: 2017-04-11-pociagiem-przez-paluki
   lat: 53.07304166666667
@@ -302,25 +22,39 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 6.3
-  iso: 320
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-04-11 11:36:57+02:00
-- image_filename: IMGP3784raw1.jpg
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-04-11 11:36:57.000000000+02:00
+- image_filename: IMGP3444raw2.jpg
   post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.94333333333333
-  lon: 17.49129166666667
-  altitude: 98.0
-  focal_length: 200.0
-  focal_length_35: 300.0
+  lat: 53.07309722222222
+  lon: 17.813791666666667
+  altitude: 62.0
+  focal_length: 14.0
+  focal_length_35: 21.0
   crop: 1.5
   aperture: 6.3
-  iso: 200
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 320
   camera: PENTAX K-S2
+  time: 2017-04-11 11:38:44.000000000+02:00
+- image_filename: IMGP3512raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 53.00779166666667
+  lon: 17.740597222222224
+  altitude: 65.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 6.3
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-04-11 16:43:20+02:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-04-11 12:09:37.000000000+02:00
 - image_filename: IMGP3523raw1.jpg
   post_slug: 2017-04-11-pociagiem-przez-paluki
   lat: 53.003166666666665
@@ -330,25 +64,11 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 640
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-11 12:42:03+02:00
-- image_filename: IMGP3955raw1.jpg
-  post_slug: 2017-04-11-pociagiem-przez-paluki
-  lat: 52.847791666666666
-  lon: 17.496444444444446
-  altitude: 101.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-11 17:03:05+02:00
+  time: 2017-04-11 12:42:03.000000000+02:00
 - image_filename: IMGP3539raw1.jpg
   post_slug: 2017-04-11-pociagiem-przez-paluki
   lat: 53.00302777777778
@@ -358,11 +78,67 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-04-11 12:54:27+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-11 12:54:27.000000000+02:00
+- image_filename: IMGP3553raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 53.07309722222222
+  lon: 17.8135
+  altitude: 57.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-11 13:20:47.000000000+02:00
+- image_filename: IMGP3565raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 53.07306944444445
+  lon: 17.813555555555556
+  altitude: 57.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-11 13:21:36.000000000+02:00
+- image_filename: IMGP3580raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 53.100902777777776
+  lon: 17.892277777777778
+  altitude: 60.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-11 13:33:02.000000000+02:00
+- image_filename: IMGP3640raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 53.15304166666667
+  lon: 17.637652777777777
+  altitude: 69.0
+  focal_length: 148.0
+  focal_length_35: 222.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-04-11 14:59:33.000000000+02:00
 - image_filename: IMGP3650raw1.jpg
   post_slug: 2017-04-11-pociagiem-przez-paluki
   lat: 53.144375
@@ -372,11 +148,123 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2017-04-11 15:02:13+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-11 15:02:13.000000000+02:00
+- image_filename: IMGP3657raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 53.142583333333334
+  lon: 17.607680555555557
+  altitude: 66.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-04-11 15:03:30.000000000+02:00
+- image_filename: IMGP3728raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.99626388888889
+  lon: 17.501361111111112
+  altitude: 98.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-11 15:49:41.000000000+02:00
+- image_filename: IMGP3746raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.99577777777778
+  lon: 17.501013888888888
+  altitude: 98.0
+  focal_length: 20.0
+  focal_length_35: 30.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-11 15:54:47.000000000+02:00
+- image_filename: IMGP3761raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.996125
+  lon: 17.501722222222224
+  altitude: 98.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-04-11 16:09:44.000000000+02:00
+- image_filename: IMGP3784raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.94333333333333
+  lon: 17.49129166666667
+  altitude: 98.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-11 16:43:20.000000000+02:00
+- image_filename: IMGP3810raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.92979166666667
+  lon: 17.485861111111113
+  altitude: 93.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-11 16:46:15.000000000+02:00
+- image_filename: IMGP3825raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.923944444444444
+  lon: 17.483152777777775
+  altitude: 95.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-11 16:47:09.000000000+02:00
+- image_filename: IMGP3832raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.92294444444444
+  lon: 17.48270833333333
+  altitude: 93.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-04-11 16:47:18.000000000+02:00
 - image_filename: IMGP3834raw1.jpg
   post_slug: 2017-04-11-pociagiem-przez-paluki
   lat: 52.92194444444444
@@ -386,8 +274,120 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-04-11 16:47:27+02:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-04-11 16:47:27.000000000+02:00
+- image_filename: IMGP3856raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.91180555555555
+  lon: 17.47748611111111
+  altitude: 91.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-11 16:49:16.000000000+02:00
+- image_filename: IMGP3898raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.90456944444444
+  lon: 17.477930555555552
+  altitude: 92.0
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-04-11 16:52:51.000000000+02:00
+- image_filename: IMGP3955raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.847791666666666
+  lon: 17.496444444444446
+  altitude: 101.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-04-11 17:03:05.000000000+02:00
+- image_filename: IMGP3976raw2.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.84279166666667
+  lon: 17.497222222222224
+  altitude: 102.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-11 17:11:08.000000000+02:00
+- image_filename: IMGP3981raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.84136111111111
+  lon: 17.497500000000002
+  altitude: 100.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-11 17:11:34.000000000+02:00
+- image_filename: IMGP3985raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.839555555555556
+  lon: 17.49740277777778
+  altitude: 100.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-11 17:12:17.000000000+02:00
+- image_filename: IMGP4094raw1.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 52.70019444444445
+  lon: 17.494555555555557
+  altitude: 104.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-04-11 17:38:48.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-04-11-pociagiem-przez-paluki
+  lat: 53.05183333333333
+  lon: 17.792722222222224
+  altitude: 62.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-04-11 11:45:23.000000000+02:00

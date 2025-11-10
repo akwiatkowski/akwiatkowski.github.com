@@ -1,702 +1,18 @@
 ---
-- image_filename: 2019_09_28__17_51__9282006.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46526388888889
-  lon: 17.052694444444445
-  altitude: 91.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-09-28 17:51:10+02:00
-  focus_distance: 8.9
-- image_filename: 2019_09_28__16_47__9281875.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.451013888888895
-  lon: 17.076083333333333
-  altitude: 75.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-09-28 16:47:25+02:00
-  focus_distance: 68.26
-- image_filename: 2019_09_28__16_48__9281885.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.451
-  lon: 17.076180555555556
-  altitude: 75.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2019-09-28 16:48:16+02:00
-  focus_distance: 0.94
-- image_filename: 2019_09_28__16_55_DSC00226.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.453375
-  lon: 17.07398611111111
-  altitude: 77.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 125
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 16:55:29+02:00
-- image_filename: 2019_09_28__17_01__9281924.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.45466666666667
-  lon: 17.072194444444445
-  altitude: 68.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-09-28 17:01:20+02:00
-  focus_distance: 4.78
-- image_filename: 2019_09_28__17_06_DSC00246.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.45663888888889
-  lon: 17.072152777777777
-  altitude: 79.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-09-28 17:06:36+02:00
-- image_filename: 2019_09_28__17_07_DSC00249.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.457125000000005
-  lon: 17.072041666666667
-  altitude: 78.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7291
-  height: 4825
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  time: 2019-09-28 17:07:40+02:00
-- image_filename: 2019_09_28__17_23__9281970.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46241666666667
-  lon: 17.068819444444443
-  altitude: 80.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-09-28 17:23:06+02:00
-  focus_distance: 20.38
-- image_filename: 2019_09_28__17_24_DSC00266.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.463208333333334
-  lon: 17.06908333333333
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7256
-  height: 4846
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-09-28 17:24:48+02:00
-- image_filename: 2019_09_28__17_25_DSC00267.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46330555555556
-  lon: 17.06913888888889
-  altitude: 85.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4598
-  height: 6884
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 17:25:10+02:00
-- image_filename: 2019_09_28__17_31_DSC00282.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46326388888889
-  lon: 17.067180555555556
-  altitude: 86.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-09-28 17:31:51+02:00
-- image_filename: 2019_09_28__17_32_DSC00285.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46343055555556
-  lon: 17.06602777777778
-  altitude: 88.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-09-28 17:32:57+02:00
-- image_filename: 2019_09_28__17_39_DSC00297.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46398611111111
-  lon: 17.062250000000002
-  altitude: 96.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 125
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6881
-  height: 4596
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 17:39:43+02:00
-- image_filename: 2019_09_28__17_40_DSC00300.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46404166666667
-  lon: 17.062013888888888
-  altitude: 96.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 17:40:17+02:00
-- image_filename: 2019_09_28__17_47_DSC00315.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46501388888889
-  lon: 17.054597222222224
-  altitude: 90.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6743
-  height: 4504
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 17:47:56+02:00
-- image_filename: 2019_09_28__17_48_DSC00316.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46505555555556
-  lon: 17.054236111111113
-  altitude: 90.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-09-28 17:48:18+02:00
-- image_filename: 2019_09_28__17_53_DSC00323.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46552777777778
-  lon: 17.050194444444447
-  altitude: 88.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.2
-  iso: 320
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7053
-  height: 4711
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 17:53:50+02:00
-- image_filename: 2019_09_28__17_58_DSC00337.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.465611111111116
-  lon: 17.04715277777778
-  altitude: 91.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 7.1
-  iso: 100
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 7074
-  height: 4725
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-09-28 17:58:00+02:00
-- image_filename: 2019_09_28__18_04__9282027.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.464819444444444
-  lon: 17.04191666666667
-  altitude: 90.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5042
-  height: 3764
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 18:04:17+02:00
-  focus_distance: 42.22
-- image_filename: 2019_09_28__18_06_DSC00343.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46456944444445
-  lon: 17.040097222222222
-  altitude: 91.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 250
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6868
-  height: 4587
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 18:06:55+02:00
-- image_filename: 2019_09_28__18_18_DSC00359.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46431944444445
-  lon: 17.028541666666666
-  altitude: 86.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 18:18:17+02:00
-- image_filename: 2019_09_28__18_20_DSC00362.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.464263888888894
-  lon: 17.027124999999998
-  altitude: 85.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7129
-  height: 4761
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 18:20:09+02:00
-- image_filename: 2019_09_28__18_25_DSC00369.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46494444444445
-  lon: 17.023097222222223
-  altitude: 85.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.0
-  iso: 500
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6889
-  height: 4601
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 18:25:34+02:00
-- image_filename: 2019_09_28__19_06__9282057.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5003
-  height: 3735
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2019-09-28 19:06:06+02:00
-  focus_distance: 24.67
-- image_filename: 2019_09_28__19_07__9282066.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4678
-  height: 3196
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2019-09-28 19:07:10+02:00
-  focus_distance: 2.45
-- image_filename: 2019_09_28__17_47_DSC00313.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46494444444445
-  lon: 17.05536111111111
-  altitude: 90.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.5
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4684
-  height: 7012
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-09-28 17:47:18+02:00
-- image_filename: 2019_09_28__17_30__9281988.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.463347222222225
-  lon: 17.067458333333335
-  altitude: 86.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-09-28 17:30:48+02:00
-  focus_distance: 91.02
-- image_filename: 2019_09_28__18_08_DSC00348.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46445833333333
-  lon: 17.039291666666667
-  altitude: 93.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-09-28 18:08:29+02:00
-- image_filename: 2019_09_28__17_52__9282019.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.465361111111115
-  lon: 17.051875
-  altitude: 90.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-09-28 17:52:24+02:00
-  focus_distance: 6.72
-- image_filename: 2019_09_28__17_46_DSC00312.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46480555555556
-  lon: 17.056291666666667
-  altitude: 91.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.5
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7323
-  height: 4891
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-09-28 17:46:29+02:00
-- image_filename: 2019_09_28__17_10_DSC00253.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.458444444444446
-  lon: 17.071236111111112
-  altitude: 67.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7131
-  height: 4763
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-09-28 17:10:50+02:00
-- image_filename: 2019_09_28__17_22__9281962.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46231944444445
-  lon: 17.068555555555555
-  altitude: 79.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-09-28 17:22:53+02:00
-  focus_distance: 22.5
-- image_filename: 2019_09_28__17_48_DSC00318.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46511111111111
-  lon: 17.053916666666666
-  altitude: 90.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 125
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 17:48:45+02:00
-- image_filename: 2019_09_28__17_16_DSC00260.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46106944444445
-  lon: 17.068375
-  altitude: 78.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6728
-  height: 4494
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-09-28 17:16:37+02:00
-- image_filename: 2019_09_28__17_56_DSC00333.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46573611111111
-  lon: 17.047847222222224
-  altitude: 91.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 640
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6879
-  height: 4595
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 17:56:07+02:00
-- image_filename: 2019_09_28__19_08__9282068.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4661
-  height: 3282
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2019-09-28 19:08:32+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_09_28__16_24_DSC00184.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
   focal_length: 20.0
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
-  iso: 100
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-09-28 16:24:26+02:00
-- image_filename: 2019_09_28__17_26_DSC00271.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.463013888888895
-  lon: 17.068625
-  altitude: 85.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
   iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
   width: 7366
   height: 4920
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-09-28 17:26:16+02:00
-- image_filename: 2019_09_28__16_34_DSC00193.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.44783333333333
-  lon: 17.076944444444443
-  altitude: 72.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-09-28 16:34:58+02:00
-- image_filename: 2019_09_28__17_51__9282014.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46526388888889
-  lon: 17.052722222222222
-  altitude: 91.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-09-28 17:51:46+02:00
-  focus_distance: 80.31
-- image_filename: 2019_09_28__17_58_DSC00338.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46556944444445
-  lon: 17.046708333333335
-  altitude: 93.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 200
   lens: E 20mm F2
   camera: ILCE-7R
-  width: 7005
-  height: 4679
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-09-28 17:58:35+02:00
+  time: 2019-09-28 16:24:26.000000000+02:00
 - image_filename: 2019_09_28__16_27_DSC00187.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
   lat: 52.445625
@@ -706,220 +22,31 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 4.0
-  iso: 100
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 6703
-  height: 4477
   exposure: 0.000625
   exposure_string: 1/1600 s
-  time: 2019-09-28 16:27:32+02:00
-- image_filename: 2019_09_28__16_44__9281843.jpg
+  iso: 100
+  width: 6703
+  height: 4477
+  lens: E 20mm F2
+  camera: ILCE-7R
+  time: 2019-09-28 16:27:32.000000000+02:00
+- image_filename: 2019_09_28__16_34_DSC00193.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.45106944444445
-  lon: 17.076180555555556
-  altitude: 73.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-09-28 16:44:43+02:00
-  focus_distance: 0.94
-- image_filename: 2019_09_28__17_03_DSC00238.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.45484722222223
-  lon: 17.072458333333334
+  lat: 52.44783333333333
+  lon: 17.076944444444443
   altitude: 72.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-09-28 17:03:03+02:00
-- image_filename: 2019_09_28__17_43_DSC00310.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46441666666667
-  lon: 17.05927777777778
-  altitude: 97.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 160
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7024
-  height: 4692
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 17:43:47+02:00
-- image_filename: 2019_09_28__17_15_DSC00257.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.460569444444445
-  lon: 17.069347222222223
-  altitude: 75.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-09-28 17:15:22+02:00
-- image_filename: 2019_09_28__17_01__9281919.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.45466666666667
-  lon: 17.072194444444445
-  altitude: 68.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-09-28 17:01:10+02:00
-  focus_distance: 5.55
-- image_filename: 2019_09_28__16_44__9281840.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.45111111111111
-  lon: 17.07622222222222
-  altitude: 73.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-09-28 16:44:24+02:00
-  focus_distance: 0.93
-- image_filename: 2019_09_28__17_11_DSC00254.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.45863888888889
-  lon: 17.071527777777778
-  altitude: 66.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-09-28 17:11:11+02:00
-- image_filename: 2019_09_28__17_33_DSC00286.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.463486111111116
-  lon: 17.065555555555555
-  altitude: 88.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 5.0
   iso: 100
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 7052
-  height: 4710
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-09-28 17:33:50+02:00
-- image_filename: 2019_09_28__16_53__9281910.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.45266666666667
-  lon: 17.075180555555555
-  altitude: 78.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 16:53:52+02:00
-  focus_distance: 33.03
-- image_filename: 2019_09_28__17_02_DSC00237.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.45465277777778
-  lon: 17.072125
-  altitude: 68.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 320
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 17:02:10+02:00
-- image_filename: 2019_09_28__16_55_DSC00224.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.453375
-  lon: 17.074069444444444
-  altitude: 77.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 160
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
   width: 7366
   height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-09-28 16:55:20+02:00
-- image_filename: 2019_09_28__19_07__9282065.jpg
-  post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5050
-  height: 3583
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2019-09-28 19:07:04+02:00
-  focus_distance: 6.32
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 16:34:58.000000000+02:00
 - image_filename: 2019_09_28__16_36_DSC00196.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
   lat: 52.44913888888888
@@ -929,14 +56,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.000625
   exposure_string: 1/1600 s
-  time: 2019-09-28 16:36:58+02:00
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 16:36:58.000000000+02:00
 - image_filename: 2019_09_28__16_41_DSC00209.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
   lat: 52.451
@@ -946,50 +73,86 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2019-09-28 16:41:48+02:00
-- image_filename: 2019_09_28__17_30__9281991.jpg
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 16:41:48.000000000+02:00
+- image_filename: 2019_09_28__16_44__9281840.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46327777777778
-  lon: 17.067458333333335
-  altitude: 86.0
-  focal_length: 150.0
-  focal_length_35: 300.0
+  lat: 52.45111111111111
+  lon: 17.07622222222222
+  altitude: 73.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.93
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-09-28 16:44:24.000000000+02:00
+- image_filename: 2019_09_28__16_44__9281843.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.45106944444445
+  lon: 17.076180555555556
+  altitude: 73.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.94
   iso: 200
-  lens: M.40-150mm F2.8 + MC-14
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5153
-  height: 3847
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-09-28 17:30:58+02:00
-  focus_distance: 32.25
-- image_filename: 2019_09_28__17_51__9282008.jpg
+  time: 2019-09-28 16:44:43.000000000+02:00
+- image_filename: 2019_09_28__16_47__9281875.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
-  lat: 52.46527777777778
-  lon: 17.05275
-  altitude: 91.0
+  lat: 52.451013888888895
+  lon: 17.076083333333333
+  altitude: 75.0
   focal_length: 210.0
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
-  iso: 320
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 68.26
+  iso: 200
   width: 5240
   height: 3912
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-09-28 17:51:20+02:00
-  focus_distance: 51.85
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 16:47:25.000000000+02:00
+- image_filename: 2019_09_28__16_48__9281885.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.451
+  lon: 17.076180555555556
+  altitude: 75.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 0.94
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 16:48:16.000000000+02:00
 - image_filename: 2019_09_28__16_52__9281899.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
   lat: 52.452444444444446
@@ -999,15 +162,413 @@
   focal_length_35: 300.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 3737
-  height: 5006
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2019-09-28 16:52:58+02:00
   focus_distance: 32.25
+  iso: 200
+  width: 3737
+  height: 5006
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 16:52:58.000000000+02:00
+- image_filename: 2019_09_28__16_53__9281910.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.45266666666667
+  lon: 17.075180555555555
+  altitude: 78.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 33.03
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 16:53:52.000000000+02:00
+- image_filename: 2019_09_28__16_55_DSC00224.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.453375
+  lon: 17.074069444444444
+  altitude: 77.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 16:55:20.000000000+02:00
+- image_filename: 2019_09_28__16_55_DSC00226.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.453375
+  lon: 17.07398611111111
+  altitude: 77.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 16:55:29.000000000+02:00
+- image_filename: 2019_09_28__17_01__9281919.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.45466666666667
+  lon: 17.072194444444445
+  altitude: 68.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.55
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:01:10.000000000+02:00
+- image_filename: 2019_09_28__17_01__9281924.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.45466666666667
+  lon: 17.072194444444445
+  altitude: 68.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.78
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:01:20.000000000+02:00
+- image_filename: 2019_09_28__17_02_DSC00237.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.45465277777778
+  lon: 17.072125
+  altitude: 68.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  width: 4920
+  height: 7366
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:02:10.000000000+02:00
+- image_filename: 2019_09_28__17_03_DSC00238.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.45484722222223
+  lon: 17.072458333333334
+  altitude: 72.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:03:03.000000000+02:00
+- image_filename: 2019_09_28__17_06_DSC00246.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.45663888888889
+  lon: 17.072152777777777
+  altitude: 79.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:06:36.000000000+02:00
+- image_filename: 2019_09_28__17_07_DSC00249.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.457125000000005
+  lon: 17.072041666666667
+  altitude: 78.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 100
+  width: 7291
+  height: 4825
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:07:40.000000000+02:00
+- image_filename: 2019_09_28__17_10_DSC00253.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.458444444444446
+  lon: 17.071236111111112
+  altitude: 67.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7131
+  height: 4763
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:10:50.000000000+02:00
+- image_filename: 2019_09_28__17_11_DSC00254.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.45863888888889
+  lon: 17.071527777777778
+  altitude: 66.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 4920
+  height: 7366
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:11:11.000000000+02:00
+- image_filename: 2019_09_28__17_15_DSC00257.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.460569444444445
+  lon: 17.069347222222223
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:15:22.000000000+02:00
+- image_filename: 2019_09_28__17_16_DSC00260.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46106944444445
+  lon: 17.068375
+  altitude: 78.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6728
+  height: 4494
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:16:37.000000000+02:00
+- image_filename: 2019_09_28__17_22__9281962.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46231944444445
+  lon: 17.068555555555555
+  altitude: 79.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 22.5
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:22:53.000000000+02:00
+- image_filename: 2019_09_28__17_23__9281970.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46241666666667
+  lon: 17.068819444444443
+  altitude: 80.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.38
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:23:06.000000000+02:00
+- image_filename: 2019_09_28__17_24_DSC00266.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.463208333333334
+  lon: 17.06908333333333
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7256
+  height: 4846
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:24:48.000000000+02:00
+- image_filename: 2019_09_28__17_25_DSC00267.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46330555555556
+  lon: 17.06913888888889
+  altitude: 85.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 4598
+  height: 6884
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:25:10.000000000+02:00
+- image_filename: 2019_09_28__17_26_DSC00271.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.463013888888895
+  lon: 17.068625
+  altitude: 85.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:26:16.000000000+02:00
+- image_filename: 2019_09_28__17_30__9281988.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.463347222222225
+  lon: 17.067458333333335
+  altitude: 86.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 91.02
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:30:48.000000000+02:00
+- image_filename: 2019_09_28__17_30__9281991.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46327777777778
+  lon: 17.067458333333335
+  altitude: 86.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 32.25
+  iso: 200
+  width: 5153
+  height: 3847
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:30:58.000000000+02:00
+- image_filename: 2019_09_28__17_31_DSC00282.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46326388888889
+  lon: 17.067180555555556
+  altitude: 86.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:31:51.000000000+02:00
+- image_filename: 2019_09_28__17_32_DSC00285.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46343055555556
+  lon: 17.06602777777778
+  altitude: 88.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:32:57.000000000+02:00
+- image_filename: 2019_09_28__17_33_DSC00286.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.463486111111116
+  lon: 17.065555555555555
+  altitude: 88.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7052
+  height: 4710
+  lens: E 20mm F2
+  camera: ILCE-7R
+  time: 2019-09-28 17:33:50.000000000+02:00
 - image_filename: 2019_09_28__17_36_DSC00291.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
   lat: 52.46381944444445
@@ -1017,11 +578,450 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 5.0
-  iso: 125
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 6878
-  height: 4594
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2019-09-28 17:36:24+02:00
+  iso: 125
+  width: 6878
+  height: 4594
+  lens: E 20mm F2
+  camera: ILCE-7R
+  time: 2019-09-28 17:36:24.000000000+02:00
+- image_filename: 2019_09_28__17_39_DSC00297.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46398611111111
+  lon: 17.062250000000002
+  altitude: 96.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  width: 6881
+  height: 4596
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:39:43.000000000+02:00
+- image_filename: 2019_09_28__17_40_DSC00300.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46404166666667
+  lon: 17.062013888888888
+  altitude: 96.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:40:17.000000000+02:00
+- image_filename: 2019_09_28__17_43_DSC00310.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46441666666667
+  lon: 17.05927777777778
+  altitude: 97.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  width: 7024
+  height: 4692
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:43:47.000000000+02:00
+- image_filename: 2019_09_28__17_46_DSC00312.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46480555555556
+  lon: 17.056291666666667
+  altitude: 91.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7323
+  height: 4891
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:46:29.000000000+02:00
+- image_filename: 2019_09_28__17_47_DSC00313.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46494444444445
+  lon: 17.05536111111111
+  altitude: 90.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 4684
+  height: 7012
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:47:18.000000000+02:00
+- image_filename: 2019_09_28__17_47_DSC00315.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46501388888889
+  lon: 17.054597222222224
+  altitude: 90.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6743
+  height: 4504
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:47:56.000000000+02:00
+- image_filename: 2019_09_28__17_48_DSC00316.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46505555555556
+  lon: 17.054236111111113
+  altitude: 90.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:48:18.000000000+02:00
+- image_filename: 2019_09_28__17_48_DSC00318.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46511111111111
+  lon: 17.053916666666666
+  altitude: 90.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:48:45.000000000+02:00
+- image_filename: 2019_09_28__17_51__9282006.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46526388888889
+  lon: 17.052694444444445
+  altitude: 91.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 8.9
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:51:10.000000000+02:00
+- image_filename: 2019_09_28__17_51__9282008.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46527777777778
+  lon: 17.05275
+  altitude: 91.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 51.85
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:51:20.000000000+02:00
+- image_filename: 2019_09_28__17_51__9282014.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46526388888889
+  lon: 17.052722222222222
+  altitude: 91.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 80.31
+  iso: 320
+  width: 3912
+  height: 5240
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:51:46.000000000+02:00
+- image_filename: 2019_09_28__17_52__9282019.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.465361111111115
+  lon: 17.051875
+  altitude: 90.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 6.72
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 17:52:24.000000000+02:00
+- image_filename: 2019_09_28__17_53_DSC00323.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46552777777778
+  lon: 17.050194444444447
+  altitude: 88.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  width: 7053
+  height: 4711
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:53:50.000000000+02:00
+- image_filename: 2019_09_28__17_56_DSC00333.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46573611111111
+  lon: 17.047847222222224
+  altitude: 91.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 640
+  width: 6879
+  height: 4595
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 17:56:07.000000000+02:00
+- image_filename: 2019_09_28__17_58_DSC00337.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.465611111111116
+  lon: 17.04715277777778
+  altitude: 91.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 7074
+  height: 4725
+  lens: E 20mm F2
+  camera: ILCE-7R
+  time: 2019-09-28 17:58:00.000000000+02:00
+- image_filename: 2019_09_28__17_58_DSC00338.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46556944444445
+  lon: 17.046708333333335
+  altitude: 93.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 7005
+  height: 4679
+  lens: E 20mm F2
+  camera: ILCE-7R
+  time: 2019-09-28 17:58:35.000000000+02:00
+- image_filename: 2019_09_28__18_04__9282027.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.464819444444444
+  lon: 17.04191666666667
+  altitude: 90.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 42.22
+  iso: 800
+  width: 5042
+  height: 3764
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-09-28 18:04:17.000000000+02:00
+- image_filename: 2019_09_28__18_06_DSC00343.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46456944444445
+  lon: 17.040097222222222
+  altitude: 91.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  width: 6868
+  height: 4587
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 18:06:55.000000000+02:00
+- image_filename: 2019_09_28__18_08_DSC00348.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46445833333333
+  lon: 17.039291666666667
+  altitude: 93.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 18:08:29.000000000+02:00
+- image_filename: 2019_09_28__18_18_DSC00359.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46431944444445
+  lon: 17.028541666666666
+  altitude: 86.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 18:18:17.000000000+02:00
+- image_filename: 2019_09_28__18_20_DSC00362.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.464263888888894
+  lon: 17.027124999999998
+  altitude: 85.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7129
+  height: 4761
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 18:20:09.000000000+02:00
+- image_filename: 2019_09_28__18_25_DSC00369.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46494444444445
+  lon: 17.023097222222223
+  altitude: 85.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 500
+  width: 6889
+  height: 4601
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-09-28 18:25:34.000000000+02:00
+- image_filename: 2019_09_28__19_06__9282057.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 24.67
+  iso: 200
+  width: 5003
+  height: 3735
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-09-28 19:06:06.000000000+02:00
+- image_filename: 2019_09_28__19_07__9282065.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 6.32
+  iso: 200
+  width: 5050
+  height: 3583
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-09-28 19:07:04.000000000+02:00
+- image_filename: 2019_09_28__19_07__9282066.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 2.45
+  iso: 200
+  width: 4678
+  height: 3196
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-09-28 19:07:10.000000000+02:00
+- image_filename: 2019_09_28__19_08__9282068.jpg
+  post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4661
+  height: 3282
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-09-28 19:08:32.000000000+02:00

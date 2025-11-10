@@ -1,130 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-05-22-wieczor-w-rosnowku
-  lat: 52.29855555555555
-  lon: 16.77134722222222
-  altitude: 75.0
-  focal_length: 13.0
-  focal_length_35: 19.0
-  crop: 1.4615384615384615
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2017-05-22 19:39:10+02:00
-- image_filename: IMGP6630raw1.jpg
-  post_slug: 2017-05-22-wieczor-w-rosnowku
-  lat: 52.29344444444444
-  lon: 16.77809722222222
-  altitude: 70.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-05-22 18:42:25+02:00
-- image_filename: IMGP6652raw1.jpg
-  post_slug: 2017-05-22-wieczor-w-rosnowku
-  lat: 52.29344444444444
-  lon: 16.778069444444444
-  altitude: 70.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-05-22 18:44:09+02:00
-- image_filename: IMGP6686raw1.jpg
-  post_slug: 2017-05-22-wieczor-w-rosnowku
-  lat: 52.29334722222222
-  lon: 16.778125
-  altitude: 75.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-05-22 18:52:22+02:00
-- image_filename: IMGP6720raw1.jpg
-  post_slug: 2017-05-22-wieczor-w-rosnowku
-  lat: 52.291916666666665
-  lon: 16.784861111111113
-  altitude: 67.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-05-22 19:00:21+02:00
-- image_filename: IMGP6726raw1.jpg
-  post_slug: 2017-05-22-wieczor-w-rosnowku
-  lat: 52.297402777777776
-  lon: 16.778416666666665
-  altitude: 68.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 2.8
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-05-22 19:13:22+02:00
-- image_filename: IMGP6738raw1.jpg
-  post_slug: 2017-05-22-wieczor-w-rosnowku
-  lat: 52.29940277777778
-  lon: 16.772125
-  altitude: 81.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2017-05-22 19:26:49+02:00
-- image_filename: IMGP6755raw1.jpg
-  post_slug: 2017-05-22-wieczor-w-rosnowku
-  lat: 52.29706944444444
-  lon: 16.76920833333333
-  altitude: 81.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2017-05-22 19:45:21+02:00
-- image_filename: IMGP6732raw1.jpg
-  post_slug: 2017-05-22-wieczor-w-rosnowku
-  lat: 52.29801388888889
-  lon: 16.776638888888886
-  altitude: 69.0
-  focal_length: 25.0
-  focal_length_35: 37.0
-  crop: 1.48
-  aperture: 4.0
-  iso: 800
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-05-22 19:17:58+02:00
 - image_filename: IMGP6558raw1.jpg
   post_slug: 2017-05-22-wieczor-w-rosnowku
   lat: 52.29398611111111
@@ -134,11 +8,53 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2017-05-22 18:32:19+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-22 18:32:19.000000000+02:00
+- image_filename: IMGP6630raw1.jpg
+  post_slug: 2017-05-22-wieczor-w-rosnowku
+  lat: 52.29344444444444
+  lon: 16.77809722222222
+  altitude: 70.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-05-22 18:42:25.000000000+02:00
+- image_filename: IMGP6652raw1.jpg
+  post_slug: 2017-05-22-wieczor-w-rosnowku
+  lat: 52.29344444444444
+  lon: 16.778069444444444
+  altitude: 70.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-05-22 18:44:09.000000000+02:00
+- image_filename: IMGP6686raw1.jpg
+  post_slug: 2017-05-22-wieczor-w-rosnowku
+  lat: 52.29334722222222
+  lon: 16.778125
+  altitude: 75.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-05-22 18:52:22.000000000+02:00
 - image_filename: IMGP6711raw1.jpg
   post_slug: 2017-05-22-wieczor-w-rosnowku
   lat: 52.29181944444444
@@ -148,11 +64,39 @@
   focal_length_35: 57.0
   crop: 1.5
   aperture: 3.5
-  iso: 160
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2017-05-22 18:56:16+02:00
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-05-22 18:56:16.000000000+02:00
+- image_filename: IMGP6720raw1.jpg
+  post_slug: 2017-05-22-wieczor-w-rosnowku
+  lat: 52.291916666666665
+  lon: 16.784861111111113
+  altitude: 67.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-05-22 19:00:21.000000000+02:00
+- image_filename: IMGP6726raw1.jpg
+  post_slug: 2017-05-22-wieczor-w-rosnowku
+  lat: 52.297402777777776
+  lon: 16.778416666666665
+  altitude: 68.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-05-22 19:13:22.000000000+02:00
 - image_filename: IMGP6730raw1.jpg
   post_slug: 2017-05-22-wieczor-w-rosnowku
   lat: 52.29783333333333
@@ -162,8 +106,64 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 4.0
-  iso: 320
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2017-05-22 19:14:35+02:00
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-05-22 19:14:35.000000000+02:00
+- image_filename: IMGP6732raw1.jpg
+  post_slug: 2017-05-22-wieczor-w-rosnowku
+  lat: 52.29801388888889
+  lon: 16.776638888888886
+  altitude: 69.0
+  focal_length: 25.0
+  focal_length_35: 37.0
+  crop: 1.48
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2017-05-22 19:17:58.000000000+02:00
+- image_filename: IMGP6738raw1.jpg
+  post_slug: 2017-05-22-wieczor-w-rosnowku
+  lat: 52.29940277777778
+  lon: 16.772125
+  altitude: 81.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 13.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-22 19:26:49.000000000+02:00
+- image_filename: IMGP6755raw1.jpg
+  post_slug: 2017-05-22-wieczor-w-rosnowku
+  lat: 52.29706944444444
+  lon: 16.76920833333333
+  altitude: 81.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 16.0
+  exposure: 8.0
+  exposure_string: 8 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-22 19:45:21.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-05-22-wieczor-w-rosnowku
+  lat: 52.29855555555555
+  lon: 16.77134722222222
+  altitude: 75.0
+  focal_length: 13.0
+  focal_length_35: 19.0
+  crop: 1.4615384615384615
+  aperture: 16.0
+  exposure: 1.0
+  exposure_string: 1 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-22 19:39:10.000000000+02:00

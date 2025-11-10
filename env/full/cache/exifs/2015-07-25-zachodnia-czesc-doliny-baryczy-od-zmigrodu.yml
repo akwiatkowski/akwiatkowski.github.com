@@ -1,270 +1,270 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.5403125
-  lon: 17.04236416666667
-  altitude: 94.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-07-25 17:05:10+02:00
 - image_filename: IMGP2006raw2.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 52.06440666666666
-  lon: 16.627235
+  lat: 52.06440555555555
+  lon: 16.627236111111113
   altitude: 76.1
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.000625
+  exposure_string: 1/1600 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2015-07-25 10:44:50+02:00
+  time: 2015-07-25 10:44:50.000000000+02:00
+- image_filename: IMGP2014raw1.jpg
+  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
+  lat: 52.00545833333333
+  lon: 16.588494444444443
+  altitude: 77.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-25 10:50:42.000000000+02:00
+- image_filename: IMGP2028raw1.jpg
+  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
+  lat: 51.920825
+  lon: 16.570827777777776
+  altitude: 110.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-25 11:00:20.000000000+02:00
 - image_filename: IMGP2065raw1.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.48269361111111
-  lon: 16.916606944444442
+  lat: 51.48269444444445
+  lon: 16.916605555555556
   altitude: 87.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2015-07-25 13:59:07+02:00
+  time: 2015-07-25 13:59:07.000000000+02:00
+- image_filename: IMGP2077raw1.jpg
+  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
+  lat: 51.482375000000005
+  lon: 16.916497222222223
+  altitude: 95.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-25 14:26:30.000000000+02:00
 - image_filename: IMGP2083raw1.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.497701666666664
-  lon: 16.926055277777778
+  lat: 51.49770277777778
+  lon: 16.926055555555557
   altitude: 95.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-07-25 15:04:29+02:00
+  time: 2015-07-25 15:04:29.000000000+02:00
 - image_filename: IMGP2095raw1.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
   lat: 51.52274166666667
-  lon: 17.010911666666665
+  lon: 17.01091111111111
   altitude: 94.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-07-25 16:37:52+02:00
+  time: 2015-07-25 16:37:52.000000000+02:00
 - image_filename: IMGP2113raw1.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.53762944444444
-  lon: 17.065796944444447
+  lat: 51.53763055555555
+  lon: 17.065797222222223
   altitude: 95.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2015-07-25 17:14:34+02:00
+  time: 2015-07-25 17:14:34.000000000+02:00
+- image_filename: IMGP2122raw1.jpg
+  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
+  lat: 51.50861666666667
+  lon: 17.111225
+  altitude: 98.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-25 17:35:30.000000000+02:00
 - image_filename: IMGP2126raw1.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.5074325
-  lon: 17.112651666666668
+  lat: 51.50743333333333
+  lon: 17.11265277777778
   altitude: 98.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2015-07-25 17:36:24+02:00
+  time: 2015-07-25 17:36:24.000000000+02:00
+- image_filename: IMGP2129raw1.jpg
+  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
+  lat: 51.49503055555556
+  lon: 17.110397222222225
+  altitude: 100.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-25 17:43:19.000000000+02:00
 - image_filename: IMGP2139raw1.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.47287416666667
-  lon: 17.087948055555554
+  lat: 51.472875
+  lon: 17.087947222222223
   altitude: 99.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2015-07-25 18:06:55+02:00
+  time: 2015-07-25 18:06:55.000000000+02:00
+- image_filename: IMGP2141raw1.jpg
+  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
+  lat: 51.47208333333334
+  lon: 17.088047222222222
+  altitude: 99.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-25 18:07:17.000000000+02:00
 - image_filename: IMGP2145raw1.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.46132388888889
-  lon: 17.047618055555557
+  lat: 51.461325
+  lon: 17.047619444444447
   altitude: 99.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-07-25 18:22:18+02:00
+  time: 2015-07-25 18:22:18.000000000+02:00
+- image_filename: IMGP2153raw1.jpg
+  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
+  lat: 51.46200833333334
+  lon: 17.011227777777776
+  altitude: 97.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-25 18:33:35.000000000+02:00
+- image_filename: IMGP2159raw1.jpg
+  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
+  lat: 51.51284444444445
+  lon: 16.971719444444442
+  altitude: 91.5
+  focal_length: 135.0
+  focal_length_35: 202.0
+  crop: 1.4962962962962962
+  aperture: 0.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  lens: K or M Lens
+  camera: PENTAX K-5
+  time: 2015-07-25 20:20:32.000000000+02:00
 - image_filename: IMGP2162raw1.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
   focal_length: 135.0
   focal_length_35: 202.0
   crop: 1.4962962962962962
   aperture: 0.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
   iso: 100
   lens: K or M Lens
   camera: PENTAX K-5
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2015-07-25 20:27:38+02:00
-- image_filename: IMGP2122raw1.jpg
+  time: 2015-07-25 20:27:38.000000000+02:00
+- image_filename: header.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.50861527777778
-  lon: 17.11122416666667
-  altitude: 98.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-25 17:35:30+02:00
-- image_filename: IMGP2129raw1.jpg
-  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.49503166666667
-  lon: 17.110398055555557
-  altitude: 100.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-25 17:43:19+02:00
-- image_filename: IMGP2153raw1.jpg
-  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.46200833333334
-  lon: 17.011226944444445
-  altitude: 97.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-25 18:33:35+02:00
-- image_filename: IMGP2141raw1.jpg
-  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.47208305555556
-  lon: 17.08804861111111
-  altitude: 99.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2015-07-25 18:07:17+02:00
-- image_filename: IMGP2077raw1.jpg
-  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.482374166666666
-  lon: 16.916496388888888
-  altitude: 95.8
+  lat: 51.54031388888889
+  lon: 17.04236388888889
+  altitude: 94.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 400
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 2048
+  height: 1358
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-07-25 14:26:30+02:00
-- image_filename: IMGP2014raw1.jpg
-  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 52.00545916666667
-  lon: 16.588493888888888
-  altitude: 77.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2015-07-25 10:50:42+02:00
-- image_filename: IMGP2028raw1.jpg
-  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.92082472222222
-  lon: 16.570828055555555
-  altitude: 110.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-07-25 11:00:20+02:00
-- image_filename: IMGP2159raw1.jpg
-  post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
-  lat: 51.51284583333333
-  lon: 16.971719166666666
-  altitude: 91.5
-  focal_length: 135.0
-  focal_length_35: 202.0
-  crop: 1.4962962962962962
-  aperture: 0.0
-  iso: 400
-  lens: K or M Lens
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-07-25 20:20:32+02:00
+  time: 2015-07-25 17:05:10.000000000+02:00

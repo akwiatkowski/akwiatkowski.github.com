@@ -1,150 +1,40 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2022_05_07__10_54_P5074090.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-- image_filename: 2022_05_07__13_24_P5074141.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.61230555555556
-  lon: 17.496125
-  altitude: 128.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 41.9
-  iso: 200
-  width: 8019
-  height: 5887
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 13:24:20.000000000+02:00
-- image_filename: 2022_05_07__13_34_P5074146.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.60420833333333
-  lon: 17.54275
-  altitude: 131.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 140.03
-  iso: 200
-  width: 8048
-  height: 5937
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 13:34:45.000000000+02:00
-- image_filename: 2022_05_07__13_13_P5074133.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.62426388888889
-  lon: 17.465625
-  altitude: 125.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 32.76
-  iso: 200
-  width: 8169
-  height: 6100
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 13:13:42.000000000+02:00
-- image_filename: 2022_05_07__14_49_P5074167.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.564625
-  lon: 17.69676388888889
-  altitude: 134.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.65354166666666
+  lon: 17.199277777777777
+  altitude: 100.0
+  focal_length: 21.0
+  focal_length_35: 42.0
   crop: 2.0
   aperture: 7.1
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 4.9
+  focus_distance: 21.93
   iso: 200
-  width: 7459
-  height: 5368
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-07 14:49:24.000000000+02:00
-- image_filename: 2022_05_07__11_40_P5074118.jpg
+  time: 2022-05-07 10:54:19.000000000+02:00
+- image_filename: 2022_05_07__11_04_P5074091.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.65369444444444
-  lon: 17.34197222222222
-  altitude: 128.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 5.97
-  iso: 200
-  width: 8042
-  height: 5917
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 11:40:01.000000000+02:00
-- image_filename: 2022_05_07__11_13_P5074102.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.645944444444446
-  lon: 17.266430555555555
-  altitude: 119.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 137.68
-  iso: 200
-  width: 8169
-  height: 6109
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 11:13:11.000000000+02:00
-- image_filename: 2022_05_07__14_30_P5074156.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.578611111111115
-  lon: 17.66754166666667
-  altitude: 122.0
-  focal_length: 75.0
-  focal_length_35: 150.0
+  lat: 52.648208333333336
+  lon: 17.255125
+  altitude: 100.0
+  focal_length: 17.0
+  focal_length_35: 34.0
   crop: 2.0
   aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 23.57
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
   iso: 200
-  width: 8141
-  height: 6072
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-07 14:30:32.000000000+02:00
-- image_filename: 2022_05_07__11_25_P5074109.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.66043055555556
-  lon: 17.295222222222225
-  altitude: 127.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 48.04
-  iso: 200
-  width: 8173
-  height: 6100
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 11:25:34.000000000+02:00
+  time: 2022-05-07 11:04:16.000000000+02:00
 - image_filename: 2022_05_07__11_04_P5074094.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
   lat: 52.648208333333336
@@ -163,6 +53,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-07 11:04:53.000000000+02:00
+- image_filename: 2022_05_07__11_13_P5074102.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.645944444444446
+  lon: 17.266430555555555
+  altitude: 119.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 137.68
+  iso: 200
+  width: 8169
+  height: 6109
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 11:13:11.000000000+02:00
+- image_filename: 2022_05_07__11_17_P5074106.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.653708333333334
+  lon: 17.269402777777778
+  altitude: 117.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 51.69
+  iso: 200
+  width: 8096
+  height: 5990
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 11:17:12.000000000+02:00
+- image_filename: 2022_05_07__11_25_P5074109.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.66043055555556
+  lon: 17.295222222222225
+  altitude: 127.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 48.04
+  iso: 200
+  width: 8173
+  height: 6100
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 11:25:34.000000000+02:00
 - image_filename: 2022_05_07__11_29_P5074112.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
   lat: 52.658569444444446
@@ -181,6 +125,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-07 11:29:33.000000000+02:00
+- image_filename: 2022_05_07__11_34_P5074117.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.657125
+  lon: 17.31513888888889
+  altitude: 129.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 45.76
+  iso: 200
+  width: 8166
+  height: 6093
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 11:34:05.000000000+02:00
+- image_filename: 2022_05_07__11_40_P5074118.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.65369444444444
+  lon: 17.34197222222222
+  altitude: 128.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.97
+  iso: 200
+  width: 8042
+  height: 5917
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 11:40:01.000000000+02:00
+- image_filename: 2022_05_07__11_48_P5074124.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.65347222222222
+  lon: 17.344430555555554
+  altitude: 127.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8071
+  height: 6035
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 11:48:26.000000000+02:00
 - image_filename: 2022_05_07__11_50_P5074126.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
   lat: 52.653527777777775
@@ -217,114 +215,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-07 11:52:40.000000000+02:00
-- image_filename: 2022_05_07__11_17_P5074106.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.653708333333334
-  lon: 17.269402777777778
-  altitude: 117.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 51.69
-  iso: 200
-  width: 8096
-  height: 5990
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 11:17:12.000000000+02:00
-- image_filename: 2022_05_07__12_03_P5074131.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.64394444444444
-  lon: 17.39538888888889
-  altitude: 132.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 4.73
-  iso: 200
-  width: 7368
-  height: 5275
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 12:03:34.000000000+02:00
-- image_filename: 2022_05_07__10_54_P5074090.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.65354166666666
-  lon: 17.199277777777777
-  altitude: 100.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 21.93
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 10:54:19.000000000+02:00
-- image_filename: 2022_05_07__11_34_P5074117.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.657125
-  lon: 17.31513888888889
-  altitude: 129.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 45.76
-  iso: 200
-  width: 8166
-  height: 6093
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 11:34:05.000000000+02:00
-- image_filename: 2022_05_07__11_04_P5074091.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.648208333333336
-  lon: 17.255125
-  altitude: 100.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 11:04:16.000000000+02:00
-- image_filename: 2022_05_07__11_48_P5074124.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.65347222222222
-  lon: 17.344430555555554
-  altitude: 127.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8071
-  height: 6035
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 11:48:26.000000000+02:00
 - image_filename: 2022_05_07__12_00_P5074128.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
   lat: 52.645625
@@ -343,6 +233,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-07 12:00:12.000000000+02:00
+- image_filename: 2022_05_07__12_03_P5074131.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.64394444444444
+  lon: 17.39538888888889
+  altitude: 132.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.73
+  iso: 200
+  width: 7368
+  height: 5275
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 12:03:34.000000000+02:00
 - image_filename: 2022_05_07__13_05_P5074132.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
   lat: 52.63308333333333
@@ -361,24 +269,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-07 13:05:40.000000000+02:00
-- image_filename: 2022_05_07__14_13_P5074151.jpg
+- image_filename: 2022_05_07__13_13_P5074133.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.589444444444446
-  lon: 17.62152777777778
-  altitude: 134.0
-  focal_length: 17.0
-  focal_length_35: 34.0
+  lat: 52.62426388888889
+  lon: 17.465625
+  altitude: 125.0
+  focal_length: 35.0
+  focal_length_35: 70.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 32.76
   iso: 200
-  width: 8199
-  height: 6131
+  width: 8169
+  height: 6100
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-07 14:13:00.000000000+02:00
+  time: 2022-05-07 13:13:42.000000000+02:00
+- image_filename: 2022_05_07__13_24_P5074141.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.61230555555556
+  lon: 17.496125
+  altitude: 128.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 41.9
+  iso: 200
+  width: 8019
+  height: 5887
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 13:24:20.000000000+02:00
+- image_filename: 2022_05_07__13_34_P5074146.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.60420833333333
+  lon: 17.54275
+  altitude: 131.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 140.03
+  iso: 200
+  width: 8048
+  height: 5937
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 13:34:45.000000000+02:00
 - image_filename: 2022_05_07__13_47_P5074148.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
   lat: 52.61661111111111
@@ -397,42 +341,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-07 13:47:33.000000000+02:00
-- image_filename: 2022_05_07__14_44_P5074160.jpg
+- image_filename: 2022_05_07__14_13_P5074151.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.56831944444445
-  lon: 17.686569444444444
-  altitude: 135.0
-  focal_length: 35.0
-  focal_length_35: 70.0
+  lat: 52.589444444444446
+  lon: 17.62152777777778
+  altitude: 134.0
+  focal_length: 17.0
+  focal_length_35: 34.0
   crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 46.41
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
   iso: 200
-  width: 8072
-  height: 5959
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-07 14:44:42.000000000+02:00
-- image_filename: 2022_05_07__14_30_P5074157.jpg
-  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.578611111111115
-  lon: 17.66754166666667
-  altitude: 122.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 69.42
-  iso: 200
-  width: 8076
-  height: 5996
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-07 14:30:54.000000000+02:00
+  time: 2022-05-07 14:13:00.000000000+02:00
 - image_filename: 2022_05_07__14_26_P5074152.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
   lat: 52.58094444444445
@@ -451,24 +377,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-07 14:26:17.000000000+02:00
-- image_filename: 2022_05_07__14_46_P5074164.jpg
+- image_filename: 2022_05_07__14_30_P5074156.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
-  lat: 52.56831944444445
-  lon: 17.686611111111112
-  altitude: 135.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.578611111111115
+  lon: 17.66754166666667
+  altitude: 122.0
+  focal_length: 75.0
+  focal_length_35: 150.0
   crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.16
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 23.57
   iso: 200
-  width: 7970
-  height: 5816
+  width: 8141
+  height: 6072
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-07 14:46:02.000000000+02:00
+  time: 2022-05-07 14:30:32.000000000+02:00
+- image_filename: 2022_05_07__14_30_P5074157.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.578611111111115
+  lon: 17.66754166666667
+  altitude: 122.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 69.42
+  iso: 200
+  width: 8076
+  height: 5996
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 14:30:54.000000000+02:00
+- image_filename: 2022_05_07__14_44_P5074160.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.56831944444445
+  lon: 17.686569444444444
+  altitude: 135.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 46.41
+  iso: 200
+  width: 8072
+  height: 5959
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 14:44:42.000000000+02:00
 - image_filename: 2022_05_07__14_45_P5074161.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
   lat: 52.56831944444445
@@ -487,6 +449,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-07 14:45:01.000000000+02:00
+- image_filename: 2022_05_07__14_46_P5074164.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.56831944444445
+  lon: 17.686611111111112
+  altitude: 135.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.16
+  iso: 200
+  width: 7970
+  height: 5816
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 14:46:02.000000000+02:00
+- image_filename: 2022_05_07__14_49_P5074167.jpg
+  post_slug: 2022-05-07-nie-trzeba-jechac-daleko
+  lat: 52.564625
+  lon: 17.69676388888889
+  altitude: 134.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.9
+  iso: 200
+  width: 7459
+  height: 5368
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-07 14:49:24.000000000+02:00
 - image_filename: 2022_05_07__14_54_P5074170.jpg
   post_slug: 2022-05-07-nie-trzeba-jechac-daleko
   lat: 52.556888888888885

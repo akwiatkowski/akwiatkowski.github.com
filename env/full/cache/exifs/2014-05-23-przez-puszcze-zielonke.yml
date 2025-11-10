@@ -1,18 +1,18 @@
 ---
 - image_filename: header.jpg
   post_slug: 2014-05-23-przez-puszcze-zielonke
-  lat: 52.50140805555556
+  lat: 52.50140833333333
   lon: 16.958605555555554
   altitude: 62.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2014-05-20 14:31:31+02:00
+  iso: 200
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2014-05-20 14:31:31.000000000+02:00

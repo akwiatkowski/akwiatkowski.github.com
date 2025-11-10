@@ -1,183 +1,183 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.844499722222224
-  lon: 16.60832527777778
-  altitude: 93.9
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-05-02 13:08:35+02:00
 - image_filename: IMGP9763raw1.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.63873861111111
-  lon: 16.58068388888889
+  lat: 52.63873888888889
+  lon: 16.580683333333333
   altitude: 70.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-05-02 10:47:44+02:00
+  time: 2015-05-02 10:47:44.000000000+02:00
 - image_filename: IMGP9765raw1.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.663155833333334
-  lon: 16.62204277777778
+  lat: 52.663155555555555
+  lon: 16.622041666666668
   altitude: 66.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-05-02 11:00:46+02:00
+  time: 2015-05-02 11:00:46.000000000+02:00
 - image_filename: IMGP9777raw1.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.706227222222225
-  lon: 16.54303777777778
+  lat: 52.706227777777784
+  lon: 16.54303888888889
   altitude: 51.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-05-02 11:45:31+02:00
+  time: 2015-05-02 11:45:31.000000000+02:00
 - image_filename: IMGP9781raw1.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.74731083333334
+  lat: 52.74731111111111
   lon: 16.546258333333334
   altitude: 63.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-05-02 12:08:02+02:00
+  time: 2015-05-02 12:08:02.000000000+02:00
+- image_filename: IMGP9793raw1.jpg
+  post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
+  lat: 52.844483333333336
+  lon: 16.608325
+  altitude: 93.9
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  time: 2015-05-02 13:09:09.000000000+02:00
 - image_filename: IMGP9795raw1.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.84782277777778
-  lon: 16.599631388888888
+  lat: 52.84782222222223
+  lon: 16.599630555555553
   altitude: 94.3
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-05-02 13:13:00+02:00
+  time: 2015-05-02 13:13:00.000000000+02:00
 - image_filename: IMGP9798raw1.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.853412222222225
+  lat: 52.853411111111114
   lon: 16.575569444444444
   altitude: 93.4
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-05-02 13:20:14+02:00
+  time: 2015-05-02 13:20:14.000000000+02:00
 - image_filename: IMGP9804raw2.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.86506361111111
-  lon: 16.562335555555556
+  lat: 52.86506388888889
+  lon: 16.56233611111111
   altitude: 102.5
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-05-02 13:28:40+02:00
+  time: 2015-05-02 13:28:40.000000000+02:00
 - image_filename: IMGP9809raw1.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.9932925
-  lon: 16.546099722222223
+  lat: 52.993291666666664
+  lon: 16.546100000000003
   altitude: 45.8
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-05-02 14:44:53+02:00
+  time: 2015-05-02 14:44:53.000000000+02:00
 - image_filename: IMGP9813raw1.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 53.01473638888889
-  lon: 16.52807861111111
+  lat: 53.01473611111111
+  lon: 16.528077777777778
   altitude: 57.3
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
   iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2015-05-02 14:57:15+02:00
+  time: 2015-05-02 14:57:15.000000000+02:00
 - image_filename: IMGP9825raw1.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.90718861111111
+  lat: 52.90718888888889
   lon: 16.17932777777778
   altitude: 34.7
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 800
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2015-05-02 17:01:20+02:00
-- image_filename: IMGP9793raw1.jpg
+  time: 2015-05-02 17:01:20.000000000+02:00
+- image_filename: header.jpg
   post_slug: 2015-05-02-z-szamotul-do-trzcianki-zielonym
-  lat: 52.844482500000005
-  lon: 16.60832527777778
+  lat: 52.844500000000004
+  lon: 16.608325
   altitude: 93.9
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
-  aperture: 8.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
+  width: 2048
+  height: 1358
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-05-02 13:09:09+02:00
+  time: 2015-05-02 13:08:35.000000000+02:00

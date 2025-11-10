@@ -1,55 +1,4 @@
 ---
-- image_filename: 2020_01_18__13_38_DSC06066.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81165277777777
-  lon: 16.16558333333333
-  altitude: 756.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7174
-  height: 4620
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-01-18 13:38:06+01:00
-- image_filename: 2020_01_18__10_43_DSC05872.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80158333333333
-  lon: 16.251652777777778
-  altitude: 406.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6528
-  height: 4649
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 10:43:41+01:00
-- image_filename: 2020_01_18__10_46_DSC05878.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.802625
-  lon: 16.252319444444446
-  altitude: 404.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 500
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6831
-  height: 4522
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 10:46:00+01:00
 - image_filename: 2020_01_18__10_09__1180470.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
   lat: 50.80495833333333
@@ -59,628 +8,15 @@
   focal_length_35: 126.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5126
-  height: 3757
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
-  time: 2020-01-18 10:09:06+01:00
   focus_distance: 6.28
-- image_filename: 2020_01_18__10_14__1180513.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80468055555555
-  lon: 16.235569444444444
-  altitude: 434.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 2000
+  iso: 200
+  width: 5126
+  height: 3757
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-01-18 10:14:47+01:00
-  focus_distance: 49.95
-- image_filename: 2020_01_18__10_22__1180564.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.803124999999994
-  lon: 16.230124999999997
-  altitude: 438.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2020-01-18 10:22:47+01:00
-  focus_distance: 2.66
-- image_filename: 2020_01_18__10_24__1180572.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80209722222222
-  lon: 16.229430555555552
-  altitude: 442.0
-  focal_length: 65.0
-  focal_length_35: 130.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2020-01-18 10:24:56+01:00
-  focus_distance: 7.91
-- image_filename: 2020_01_18__11_53_DSC05915.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80148611111111
-  lon: 16.214708333333334
-  altitude: 451.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-18 11:53:11+01:00
-- image_filename: 2020_01_18__12_03_DSC05928.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80316666666666
-  lon: 16.207819444444443
-  altitude: 464.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-01-18 12:03:00+01:00
-- image_filename: 2020_01_18__11_15__1180597.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80481944444444
-  lon: 16.197819444444445
-  altitude: 451.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-01-18 11:15:23+01:00
-  focus_distance: 21.44
-- image_filename: 2020_01_18__11_27__1180602.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.802499999999995
-  lon: 16.191902777777777
-  altitude: 475.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4693
-  height: 3474
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-18 11:27:29+01:00
-  focus_distance: 4.73
-- image_filename: 2020_01_18__11_42__1180617.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80609722222222
-  lon: 16.184652777777778
-  altitude: 541.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 11:42:30+01:00
-  focus_distance: 3.43
-- image_filename: 2020_01_18__12_19__1180638.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81033333333333
-  lon: 16.16634722222222
-  altitude: 719.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-01-18 12:19:38+01:00
-  focus_distance: 2.32
-- image_filename: 2020_01_18__13_08_DSC05946.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80993055555555
-  lon: 16.171125
-  altitude: 666.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7202
-  height: 4733
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:08:44+01:00
-- image_filename: 2020_01_18__13_28_DSC05998.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.810541666666666
-  lon: 16.166194444444443
-  altitude: 729.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7165
-  height: 4598
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:28:33+01:00
-- image_filename: 2020_01_18__13_30_DSC06011.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81088888888888
-  lon: 16.165305555555555
-  altitude: 739.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7101
-  height: 4809
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:30:14+01:00
-- image_filename: 2020_01_18__13_40_DSC06075.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812013888888885
-  lon: 16.16483333333333
-  altitude: 769.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-01-18 13:40:41+01:00
-- image_filename: 2020_01_18__13_55_DSC06085.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812625
-  lon: 16.163597222222222
-  altitude: 804.0
-  focal_length: 36.0
-  focal_length_35: 36.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6990
-  height: 4669
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:55:40+01:00
-- image_filename: 2020_01_18__14_02_DSC06116.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81265277777778
-  lon: 16.16358333333333
-  altitude: 803.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 14:02:59+01:00
-- image_filename: 2020_01_18__14_11_DSC06137.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81273611111111
-  lon: 16.16361111111111
-  altitude: 801.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 14:11:46+01:00
-- image_filename: 2020_01_18__12_58__1180693.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812638888888884
-  lon: 16.163555555555554
-  altitude: 805.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-01-18 12:58:46+01:00
-  focus_distance: 227.55
-- image_filename: 2020_01_18__13_06__1180738.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81272222222222
-  lon: 16.163708333333332
-  altitude: 802.0
-  focal_length: 115.0
-  focal_length_35: 230.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-18 13:06:53+01:00
-  focus_distance: 49.95
-- image_filename: 2020_01_18__13_51__1180789.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81361111111111
-  lon: 16.14945833333333
-  altitude: 557.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-01-18 13:51:14+01:00
-  focus_distance: 2.77
-- image_filename: 2020_01_18__13_57__1180798.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.813694444444444
-  lon: 16.14423611111111
-  altitude: 493.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-01-18 13:57:55+01:00
-  focus_distance: 15.44
-- image_filename: 2020_01_18__14_03__1180809.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81079166666667
-  lon: 16.142166666666665
-  altitude: 486.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-01-18 14:03:31+01:00
-  focus_distance: 2.98
-- image_filename: 2020_01_18__14_26__1180856.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.806124999999994
-  lon: 16.124916666666667
-  altitude: 449.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5161
-  height: 3853
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-01-18 14:26:06+01:00
-  focus_distance: 167.18
-- image_filename: 2020_01_18__14_40__1180901.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.79781944444444
-  lon: 16.130041666666667
-  altitude: 454.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4817
-  height: 3299
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-18 14:40:06+01:00
-  focus_distance: 2.8
-- image_filename: 2020_01_18__13_04__1180721.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812638888888884
-  lon: 16.163805555555555
-  altitude: 801.0
-  focal_length: 170.0
-  focal_length_35: 340.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-01-18 13:04:22+01:00
-  focus_distance: 105.03
-- image_filename: 2020_01_18__14_01_DSC06105.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812666666666665
-  lon: 16.163708333333332
-  altitude: 804.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7007
-  height: 4680
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-18 14:01:19+01:00
-- image_filename: 2020_01_18__13_57_DSC06097.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812666666666665
-  lon: 16.16358333333333
-  altitude: 805.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-18 13:57:17+01:00
-- image_filename: 2020_01_18__14_13_DSC06144.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81269444444444
-  lon: 16.163680555555555
-  altitude: 796.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 14:13:31+01:00
-- image_filename: 2020_01_18__10_21__1180561.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.803416666666664
-  lon: 16.230513888888886
-  altitude: 436.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 10:21:45+01:00
-  focus_distance: 8.85
-- image_filename: 2020_01_18__13_39_DSC06071.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.811791666666664
-  lon: 16.16525
-  altitude: 761.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6244
-  height: 4782
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-01-18 13:39:24+01:00
-- image_filename: 2020_01_18__13_32_DSC06033.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.810986111111106
-  lon: 16.165402777777775
-  altitude: 741.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7249
-  height: 4745
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:32:50+01:00
-- image_filename: 2020_01_18__13_10__1180747.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812749999999994
-  lon: 16.16361111111111
-  altitude: 801.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-01-18 13:10:17+01:00
-  focus_distance: 327.67
-- image_filename: 2020_01_18__14_08__1180820.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80965277777778
-  lon: 16.13848611111111
-  altitude: 476.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-18 14:08:02+01:00
-  focus_distance: 126.03
-- image_filename: 2020_01_18__11_48_DSC05914.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80127777777778
-  lon: 16.214930555555554
-  altitude: 448.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 11:48:52+01:00
-- image_filename: 2020_01_18__13_35_DSC06051.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81140277777777
-  lon: 16.16570833333333
-  altitude: 753.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4261
-  height: 7266
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 13:35:53+01:00
-- image_filename: 2020_01_18__13_37_DSC06065.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81165277777777
-  lon: 16.165625
-  altitude: 756.0
-  focal_length: 59.0
-  focal_length_35: 59.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-18 13:37:55+01:00
+  time: 2020-01-18 10:09:06.000000000+01:00
 - image_filename: 2020_01_18__10_10__1180479.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
   lat: 50.80481944444444
@@ -690,636 +26,87 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 8.06
   iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
   width: 5201
   height: 3876
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-01-18 10:10:10+01:00
-  focus_distance: 8.06
-- image_filename: 2020_01_18__13_24_DSC05979.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.8105
-  lon: 16.165875
-  altitude: 728.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:24:53+01:00
-- image_filename: 2020_01_18__10_46_DSC05879.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.803
-  lon: 16.252291666666668
-  altitude: 405.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6822
-  height: 4685
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 10:46:43+01:00
-- image_filename: 2020_01_18__13_29_DSC06003.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81070833333333
-  lon: 16.165416666666665
-  altitude: 735.0
-  focal_length: 41.0
-  focal_length_35: 41.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7033
-  height: 4673
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 13:29:29+01:00
-- image_filename: 2020_01_18__12_08_DSC05933.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.804430555555555
-  lon: 16.20223611111111
-  altitude: 448.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-18 12:08:57+01:00
-- image_filename: 2020_01_18__13_30_DSC06014.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.810916666666664
-  lon: 16.165319444444442
-  altitude: 740.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 320
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7176
-  height: 4707
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:30:37+01:00
-- image_filename: 2020_01_18__12_20__1180650.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81030555555555
-  lon: 16.16633333333333
-  altitude: 720.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
+  lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-01-18 12:20:34+01:00
-  focus_distance: 2.49
-- image_filename: 2020_01_18__13_29_DSC06002.jpg
+  time: 2020-01-18 10:10:10.000000000+01:00
+- image_filename: 2020_01_18__10_14__1180513.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81066666666666
-  lon: 16.16548611111111
-  altitude: 735.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 13:29:19+01:00
-- image_filename: 2020_01_18__12_52__1180678.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81273611111111
-  lon: 16.163625
-  altitude: 799.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-18 12:52:55+01:00
-  focus_distance: 144.99
-- image_filename: 2020_01_18__10_44_DSC05875.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80179166666667
-  lon: 16.252041666666667
-  altitude: 406.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6555
-  height: 4820
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 10:44:12+01:00
-- image_filename: 2020_01_18__10_42_DSC05868.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80093055555555
-  lon: 16.251236111111112
-  altitude: 407.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-18 10:42:33+01:00
-- image_filename: 2020_01_18__10_44_DSC05874.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80172222222222
-  lon: 16.251916666666666
-  altitude: 406.0
-  focal_length: 32.0
-  focal_length_35: 32.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6851
-  height: 4762
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 10:44:03+01:00
-- image_filename: 2020_01_18__11_48_DSC05913.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80126388888888
-  lon: 16.214944444444445
-  altitude: 448.0
-  focal_length: 47.0
-  focal_length_35: 47.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-18 11:48:47+01:00
-- image_filename: 2020_01_18__13_16_DSC05963.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.810291666666664
-  lon: 16.166527777777777
-  altitude: 717.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:16:46+01:00
-- image_filename: 2020_01_18__13_21_DSC05966.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81031944444444
-  lon: 16.16633333333333
-  altitude: 720.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 5836
-  height: 4474
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:21:42+01:00
-- image_filename: 2020_01_18__12_58__1180688.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81265277777778
-  lon: 16.163597222222222
-  altitude: 805.0
+  lat: 50.80468055555555
+  lon: 16.235569444444444
+  altitude: 434.0
   focal_length: 210.0
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 49.95
+  iso: 2000
+  width: 5240
+  height: 3912
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5209
-  height: 3889
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-01-18 12:58:17+01:00
-  focus_distance: 327.67
-- image_filename: 2020_01_18__13_21_DSC05967.jpg
+  time: 2020-01-18 10:14:47.000000000+01:00
+- image_filename: 2020_01_18__10_21__1180561.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81031944444444
-  lon: 16.166319444444444
-  altitude: 720.0
-  focal_length: 71.0
-  focal_length_35: 71.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 160
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:21:47+01:00
-- image_filename: 2020_01_18__13_30_DSC06010.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81084722222222
-  lon: 16.165305555555555
-  altitude: 738.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4595
-  height: 7202
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:30:05+01:00
-- image_filename: 2020_01_18__13_29_DSC06001.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.810624999999995
-  lon: 16.16572222222222
-  altitude: 733.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 160
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4537
-  height: 7248
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:29:04+01:00
-- image_filename: 2020_01_18__12_20__1180645.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81033333333333
-  lon: 16.16638888888889
-  altitude: 719.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2020-01-18 12:20:07+01:00
-  focus_distance: 2.54
-- image_filename: 2020_01_18__11_45_DSC05904.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80158333333333
-  lon: 16.21747222222222
-  altitude: 437.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-18 11:45:12+01:00
-- image_filename: 2020_01_18__13_55_DSC06081.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81261111111111
-  lon: 16.163652777777777
-  altitude: 805.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7221
-  height: 4823
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-01-18 13:55:08+01:00
-- image_filename: 2020_01_18__13_50__1180786.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.813583333333334
-  lon: 16.149541666666668
-  altitude: 556.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-01-18 13:50:59+01:00
-  focus_distance: 3.61
-- image_filename: 2020_01_18__13_28_DSC05999.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81059722222222
-  lon: 16.165944444444442
-  altitude: 732.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6313
-  height: 4687
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 13:28:52+01:00
-- image_filename: 2020_01_18__13_31_DSC06023.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81097222222222
-  lon: 16.165291666666665
-  altitude: 740.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7017
-  height: 4570
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:31:36+01:00
-- image_filename: 2020_01_18__13_08_DSC05944.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.809749999999994
-  lon: 16.17151388888889
-  altitude: 662.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-01-18 13:08:13+01:00
-- image_filename: 2020_01_18__11_54_DSC05916.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80170833333333
-  lon: 16.21386111111111
-  altitude: 457.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-18 11:54:19+01:00
-- image_filename: 2020_01_18__13_31_DSC06027.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81095833333333
-  lon: 16.165305555555555
-  altitude: 741.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 320
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7313
-  height: 4887
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:31:59+01:00
-- image_filename: 2020_01_18__11_41_DSC05894.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.800444444444445
-  lon: 16.21922222222222
-  altitude: 443.0
-  focal_length: 31.0
-  focal_length_35: 31.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-18 11:41:11+01:00
-- image_filename: 2020_01_18__13_27_DSC05994.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81055555555555
-  lon: 16.16623611111111
-  altitude: 730.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6307
-  height: 4868
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 13:27:17+01:00
-- image_filename: 2020_01_18__13_33_DSC06038.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.811097222222216
-  lon: 16.165458333333333
-  altitude: 744.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7144
-  height: 4568
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:33:35+01:00
-- image_filename: 2020_01_18__11_44_DSC05901.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.801541666666665
-  lon: 16.21809722222222
-  altitude: 437.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-18 11:44:31+01:00
-- image_filename: 2020_01_18__12_19__1180640.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81034722222222
-  lon: 16.166375
-  altitude: 719.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-01-18 12:19:46+01:00
-  focus_distance: 2.47
-- image_filename: 2020_01_18__11_54_DSC05919.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80186111111111
-  lon: 16.213583333333332
-  altitude: 459.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-01-18 11:54:39+01:00
-- image_filename: 2020_01_18__13_12__1180764.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81273611111111
-  lon: 16.16361111111111
-  altitude: 801.0
+  lat: 50.803416666666664
+  lon: 16.230513888888886
+  altitude: 436.0
   focal_length: 56.0
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 8.85
   iso: 200
+  width: 5240
+  height: 3912
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-18 13:12:04+01:00
-  focus_distance: 13.21
-- image_filename: 2020_01_18__12_51__1180665.jpg
+  time: 2020-01-18 10:21:45.000000000+01:00
+- image_filename: 2020_01_18__10_22__1180564.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81268055555555
-  lon: 16.163541666666664
-  altitude: 796.0
-  focal_length: 50.0
-  focal_length_35: 100.0
+  lat: 50.803124999999994
+  lon: 16.230124999999997
+  altitude: 438.0
+  focal_length: 56.0
+  focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 2.66
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-01-18 12:51:04+01:00
-  focus_distance: 39.19
-- image_filename: 2020_01_18__13_49__1180784.jpg
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 10:22:47.000000000+01:00
+- image_filename: 2020_01_18__10_24__1180572.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.8135
-  lon: 16.15063888888889
-  altitude: 572.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 50.80209722222222
+  lon: 16.229430555555552
+  altitude: 442.0
+  focal_length: 65.0
+  focal_length_35: 130.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 7.91
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
+  width: 3912
+  height: 5240
+  lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2020-01-18 13:49:41+01:00
-  focus_distance: 2.59
+  time: 2020-01-18 10:24:56.000000000+01:00
 - image_filename: 2020_01_18__10_37__1180588.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
   lat: 50.799875
@@ -1329,227 +116,15 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-01-18 10:37:58+01:00
   focus_distance: 9.89
-- image_filename: 2020_01_18__13_22_DSC05971.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81033333333333
-  lon: 16.166277777777776
-  altitude: 721.0
-  focal_length: 47.0
-  focal_length_35: 47.0
-  crop: 1.0
-  aperture: 4.0
   iso: 200
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-01-18 13:22:23+01:00
-- image_filename: 2020_01_18__12_54__1180683.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812625
-  lon: 16.163625
-  altitude: 806.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5110
-  height: 3815
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-01-18 12:54:16+01:00
-  focus_distance: 9.69
-- image_filename: 2020_01_18__10_47_DSC05882.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80356944444444
-  lon: 16.25226388888889
-  altitude: 406.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 640
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 10:47:38+01:00
-- image_filename: 2020_01_18__13_34_DSC06043.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81118055555555
-  lon: 16.16563888888889
-  altitude: 747.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7131
-  height: 4545
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:34:18+01:00
-- image_filename: 2020_01_18__13_55_DSC06086.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812625
-  lon: 16.163597222222222
-  altitude: 804.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7067
-  height: 4720
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:55:43+01:00
-- image_filename: 2020_01_18__13_21__1180770.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.813069444444444
-  lon: 16.163402777777776
-  altitude: 770.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:21:57+01:00
-  focus_distance: 3.7
-- image_filename: 2020_01_18__12_58__1180690.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812638888888884
-  lon: 16.16358333333333
-  altitude: 805.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-01-18 12:58:28+01:00
-  focus_distance: 327.67
-- image_filename: 2020_01_18__12_54__1180684.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812625
-  lon: 16.163652777777777
-  altitude: 805.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-01-18 12:54:25+01:00
-  focus_distance: 4.73
-- image_filename: 2020_01_18__14_21__1180852.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.808861111111106
-  lon: 16.128097222222223
-  altitude: 466.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-18 14:21:25+01:00
-  focus_distance: 17.77
-- image_filename: 2020_01_18__11_54__1180626.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.80911111111111
-  lon: 16.177208333333333
-  altitude: 625.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-01-18 11:54:59+01:00
-  focus_distance: 14.74
-- image_filename: 2020_01_18__13_01__1180712.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81265277777778
-  lon: 16.163708333333332
-  altitude: 804.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-01-18 13:01:30+01:00
-  focus_distance: 30.57
-- image_filename: 2020_01_18__11_24__1180600.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.803
-  lon: 16.19463888888889
-  altitude: 464.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-01-18 11:24:29+01:00
-  focus_distance: 4.32
+  time: 2020-01-18 10:37:58.000000000+01:00
 - image_filename: 2020_01_18__10_39_DSC05865.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
   lat: 50.800444444444445
@@ -1559,137 +134,239 @@
   focal_length_35: 31.0
   crop: 1.0
   aperture: 4.0
-  iso: 400
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2020-01-18 10:39:50+01:00
-- image_filename: 2020_01_18__13_10__1180752.jpg
+  iso: 400
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 10:39:50.000000000+01:00
+- image_filename: 2020_01_18__10_42_DSC05868.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812749999999994
-  lon: 16.163652777777777
-  altitude: 801.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-01-18 13:10:29+01:00
-  focus_distance: 170.66
-- image_filename: 2020_01_18__13_01__1180713.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812638888888884
-  lon: 16.163708333333332
-  altitude: 804.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5134
-  height: 3833
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-01-18 13:01:37+01:00
-  focus_distance: 327.67
-- image_filename: 2020_01_18__13_12_DSC05956.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81031944444444
-  lon: 16.168305555555555
-  altitude: 684.0
+  lat: 50.80093055555555
+  lon: 16.251236111111112
+  altitude: 407.0
   focal_length: 28.0
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
   width: 7366
   height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 10:42:33.000000000+01:00
+- image_filename: 2020_01_18__10_43_DSC05872.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80158333333333
+  lon: 16.251652777777778
+  altitude: 406.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2020-01-18 13:12:48+01:00
-- image_filename: 2020_01_18__11_58__1180629.jpg
+  iso: 125
+  width: 6528
+  height: 4649
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 10:43:41.000000000+01:00
+- image_filename: 2020_01_18__10_44_DSC05874.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.809805555555556
-  lon: 16.17448611111111
-  altitude: 626.0
+  lat: 50.80172222222222
+  lon: 16.251916666666666
+  altitude: 406.0
+  focal_length: 32.0
+  focal_length_35: 32.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 250
+  width: 6851
+  height: 4762
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 10:44:03.000000000+01:00
+- image_filename: 2020_01_18__10_44_DSC05875.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80179166666667
+  lon: 16.252041666666667
+  altitude: 406.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 6555
+  height: 4820
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 10:44:12.000000000+01:00
+- image_filename: 2020_01_18__10_46_DSC05878.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.802625
+  lon: 16.252319444444446
+  altitude: 404.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 500
+  width: 6831
+  height: 4522
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 10:46:00.000000000+01:00
+- image_filename: 2020_01_18__10_46_DSC05879.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.803
+  lon: 16.252291666666668
+  altitude: 405.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 125
+  width: 6822
+  height: 4685
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 10:46:43.000000000+01:00
+- image_filename: 2020_01_18__10_47_DSC05882.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80356944444444
+  lon: 16.25226388888889
+  altitude: 406.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 640
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 10:47:38.000000000+01:00
+- image_filename: 2020_01_18__11_15__1180597.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80481944444444
+  lon: 16.197819444444445
+  altitude: 451.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 21.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 11:15:23.000000000+01:00
+- image_filename: 2020_01_18__11_24__1180600.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.803
+  lon: 16.19463888888889
+  altitude: 464.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 4.32
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 11:24:29.000000000+01:00
+- image_filename: 2020_01_18__11_27__1180602.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.802499999999995
+  lon: 16.191902777777777
+  altitude: 475.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-18 11:58:01+01:00
-  focus_distance: 2.98
-- image_filename: 2020_01_18__13_06__1180734.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.81272222222222
-  lon: 16.163666666666664
-  altitude: 802.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-01-18 13:06:31+01:00
-  focus_distance: 195.04
-- image_filename: 2020_01_18__13_41_DSC06077.jpg
+  focus_distance: 4.73
+  iso: 200
+  width: 4693
+  height: 3474
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 11:27:29.000000000+01:00
+- image_filename: 2020_01_18__11_41_DSC05894.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.812152777777776
-  lon: 16.164555555555555
-  altitude: 772.0
+  lat: 50.800444444444445
+  lon: 16.21922222222222
+  altitude: 443.0
+  focal_length: 31.0
+  focal_length_35: 31.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 11:41:11.000000000+01:00
+- image_filename: 2020_01_18__11_42__1180617.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80609722222222
+  lon: 16.184652777777778
+  altitude: 541.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 3.43
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 11:42:30.000000000+01:00
+- image_filename: 2020_01_18__11_44_DSC05901.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.801541666666665
+  lon: 16.21809722222222
+  altitude: 437.0
   focal_length: 28.0
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
   width: 7366
   height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-01-18 13:41:24+01:00
-- image_filename: 2020_01_18__13_26_DSC05985.jpg
-  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
-  lat: 50.810624999999995
-  lon: 16.165944444444442
-  altitude: 731.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 160
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-01-18 13:26:03+01:00
+  time: 2020-01-18 11:44:31.000000000+01:00
 - image_filename: 2020_01_18__11_44_DSC05902.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
   lat: 50.801624999999994
@@ -1699,14 +376,954 @@
   focal_length_35: 72.0
   crop: 1.0
   aperture: 2.8
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-01-18 11:44:53+01:00
+  iso: 125
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 11:44:53.000000000+01:00
+- image_filename: 2020_01_18__11_45_DSC05904.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80158333333333
+  lon: 16.21747222222222
+  altitude: 437.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 11:45:12.000000000+01:00
+- image_filename: 2020_01_18__11_48_DSC05913.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80126388888888
+  lon: 16.214944444444445
+  altitude: 448.0
+  focal_length: 47.0
+  focal_length_35: 47.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 11:48:47.000000000+01:00
+- image_filename: 2020_01_18__11_48_DSC05914.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80127777777778
+  lon: 16.214930555555554
+  altitude: 448.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 125
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 11:48:52.000000000+01:00
+- image_filename: 2020_01_18__11_53_DSC05915.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80148611111111
+  lon: 16.214708333333334
+  altitude: 451.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 11:53:11.000000000+01:00
+- image_filename: 2020_01_18__11_54_DSC05916.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80170833333333
+  lon: 16.21386111111111
+  altitude: 457.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 11:54:19.000000000+01:00
+- image_filename: 2020_01_18__11_54_DSC05919.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80186111111111
+  lon: 16.213583333333332
+  altitude: 459.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 11:54:39.000000000+01:00
+- image_filename: 2020_01_18__11_54__1180626.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80911111111111
+  lon: 16.177208333333333
+  altitude: 625.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 14.74
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 11:54:59.000000000+01:00
+- image_filename: 2020_01_18__11_58__1180629.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.809805555555556
+  lon: 16.17448611111111
+  altitude: 626.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.98
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 11:58:01.000000000+01:00
+- image_filename: 2020_01_18__12_03_DSC05928.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80316666666666
+  lon: 16.207819444444443
+  altitude: 464.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 12:03:00.000000000+01:00
+- image_filename: 2020_01_18__12_08_DSC05933.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.804430555555555
+  lon: 16.20223611111111
+  altitude: 448.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 12:08:57.000000000+01:00
+- image_filename: 2020_01_18__12_19__1180638.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81033333333333
+  lon: 16.16634722222222
+  altitude: 719.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 2.32
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 12:19:38.000000000+01:00
+- image_filename: 2020_01_18__12_19__1180640.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81034722222222
+  lon: 16.166375
+  altitude: 719.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 2.47
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 12:19:46.000000000+01:00
+- image_filename: 2020_01_18__12_20__1180645.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81033333333333
+  lon: 16.16638888888889
+  altitude: 719.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 2.54
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 12:20:07.000000000+01:00
+- image_filename: 2020_01_18__12_20__1180650.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81030555555555
+  lon: 16.16633333333333
+  altitude: 720.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 2.49
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 12:20:34.000000000+01:00
+- image_filename: 2020_01_18__12_51__1180665.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81268055555555
+  lon: 16.163541666666664
+  altitude: 796.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 39.19
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 12:51:04.000000000+01:00
+- image_filename: 2020_01_18__12_52__1180678.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81273611111111
+  lon: 16.163625
+  altitude: 799.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 144.99
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 12:52:55.000000000+01:00
+- image_filename: 2020_01_18__12_54__1180683.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812625
+  lon: 16.163625
+  altitude: 806.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 9.69
+  iso: 200
+  width: 5110
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 12:54:16.000000000+01:00
+- image_filename: 2020_01_18__12_54__1180684.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812625
+  lon: 16.163652777777777
+  altitude: 805.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.73
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 12:54:25.000000000+01:00
+- image_filename: 2020_01_18__12_58__1180688.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81265277777778
+  lon: 16.163597222222222
+  altitude: 805.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 327.67
+  iso: 200
+  width: 5209
+  height: 3889
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 12:58:17.000000000+01:00
+- image_filename: 2020_01_18__12_58__1180690.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812638888888884
+  lon: 16.16358333333333
+  altitude: 805.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 327.67
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 12:58:28.000000000+01:00
+- image_filename: 2020_01_18__12_58__1180693.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812638888888884
+  lon: 16.163555555555554
+  altitude: 805.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 227.55
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 12:58:46.000000000+01:00
+- image_filename: 2020_01_18__13_01__1180712.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81265277777778
+  lon: 16.163708333333332
+  altitude: 804.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 30.57
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 13:01:30.000000000+01:00
+- image_filename: 2020_01_18__13_01__1180713.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812638888888884
+  lon: 16.163708333333332
+  altitude: 804.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 327.67
+  iso: 200
+  width: 5134
+  height: 3833
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 13:01:37.000000000+01:00
+- image_filename: 2020_01_18__13_04__1180721.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812638888888884
+  lon: 16.163805555555555
+  altitude: 801.0
+  focal_length: 170.0
+  focal_length_35: 340.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 105.03
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 13:04:22.000000000+01:00
+- image_filename: 2020_01_18__13_06__1180734.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81272222222222
+  lon: 16.163666666666664
+  altitude: 802.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 195.04
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 13:06:31.000000000+01:00
+- image_filename: 2020_01_18__13_06__1180738.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81272222222222
+  lon: 16.163708333333332
+  altitude: 802.0
+  focal_length: 115.0
+  focal_length_35: 230.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 49.95
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 13:06:53.000000000+01:00
+- image_filename: 2020_01_18__13_08_DSC05944.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.809749999999994
+  lon: 16.17151388888889
+  altitude: 662.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:08:13.000000000+01:00
+- image_filename: 2020_01_18__13_08_DSC05946.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80993055555555
+  lon: 16.171125
+  altitude: 666.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7202
+  height: 4733
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:08:44.000000000+01:00
+- image_filename: 2020_01_18__13_10__1180747.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812749999999994
+  lon: 16.16361111111111
+  altitude: 801.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 327.67
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 13:10:17.000000000+01:00
+- image_filename: 2020_01_18__13_10__1180752.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812749999999994
+  lon: 16.163652777777777
+  altitude: 801.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 170.66
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 13:10:29.000000000+01:00
+- image_filename: 2020_01_18__13_12_DSC05956.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81031944444444
+  lon: 16.168305555555555
+  altitude: 684.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:12:48.000000000+01:00
+- image_filename: 2020_01_18__13_12__1180764.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81273611111111
+  lon: 16.16361111111111
+  altitude: 801.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 13.21
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-01-18 13:12:04.000000000+01:00
+- image_filename: 2020_01_18__13_16_DSC05963.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.810291666666664
+  lon: 16.166527777777777
+  altitude: 717.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 250
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:16:46.000000000+01:00
+- image_filename: 2020_01_18__13_21_DSC05966.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81031944444444
+  lon: 16.16633333333333
+  altitude: 720.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 5836
+  height: 4474
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:21:42.000000000+01:00
+- image_filename: 2020_01_18__13_21_DSC05967.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81031944444444
+  lon: 16.166319444444444
+  altitude: 720.0
+  focal_length: 71.0
+  focal_length_35: 71.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 160
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:21:47.000000000+01:00
+- image_filename: 2020_01_18__13_21__1180770.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.813069444444444
+  lon: 16.163402777777776
+  altitude: 770.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 13:21:57.000000000+01:00
+- image_filename: 2020_01_18__13_22_DSC05971.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81033333333333
+  lon: 16.166277777777776
+  altitude: 721.0
+  focal_length: 47.0
+  focal_length_35: 47.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:22:23.000000000+01:00
+- image_filename: 2020_01_18__13_24_DSC05979.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.8105
+  lon: 16.165875
+  altitude: 728.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 125
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:24:53.000000000+01:00
+- image_filename: 2020_01_18__13_26_DSC05985.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.810624999999995
+  lon: 16.165944444444442
+  altitude: 731.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 160
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:26:03.000000000+01:00
+- image_filename: 2020_01_18__13_27_DSC05994.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81055555555555
+  lon: 16.16623611111111
+  altitude: 730.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 6307
+  height: 4868
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:27:17.000000000+01:00
+- image_filename: 2020_01_18__13_28_DSC05998.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.810541666666666
+  lon: 16.166194444444443
+  altitude: 729.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 250
+  width: 7165
+  height: 4598
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:28:33.000000000+01:00
+- image_filename: 2020_01_18__13_28_DSC05999.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81059722222222
+  lon: 16.165944444444442
+  altitude: 732.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 125
+  width: 6313
+  height: 4687
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:28:52.000000000+01:00
+- image_filename: 2020_01_18__13_29_DSC06001.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.810624999999995
+  lon: 16.16572222222222
+  altitude: 733.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 160
+  width: 4537
+  height: 7248
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:29:04.000000000+01:00
+- image_filename: 2020_01_18__13_29_DSC06002.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81066666666666
+  lon: 16.16548611111111
+  altitude: 735.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:29:19.000000000+01:00
+- image_filename: 2020_01_18__13_29_DSC06003.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81070833333333
+  lon: 16.165416666666665
+  altitude: 735.0
+  focal_length: 41.0
+  focal_length_35: 41.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 250
+  width: 7033
+  height: 4673
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:29:29.000000000+01:00
+- image_filename: 2020_01_18__13_30_DSC06010.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81084722222222
+  lon: 16.165305555555555
+  altitude: 738.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 250
+  width: 4595
+  height: 7202
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:30:05.000000000+01:00
+- image_filename: 2020_01_18__13_30_DSC06011.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81088888888888
+  lon: 16.165305555555555
+  altitude: 739.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 250
+  width: 7101
+  height: 4809
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:30:14.000000000+01:00
+- image_filename: 2020_01_18__13_30_DSC06014.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.810916666666664
+  lon: 16.165319444444442
+  altitude: 740.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 320
+  width: 7176
+  height: 4707
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:30:37.000000000+01:00
+- image_filename: 2020_01_18__13_31_DSC06023.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81097222222222
+  lon: 16.165291666666665
+  altitude: 740.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7017
+  height: 4570
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:31:36.000000000+01:00
+- image_filename: 2020_01_18__13_31_DSC06027.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81095833333333
+  lon: 16.165305555555555
+  altitude: 741.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 320
+  width: 7313
+  height: 4887
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:31:59.000000000+01:00
+- image_filename: 2020_01_18__13_32_DSC06033.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.810986111111106
+  lon: 16.165402777777775
+  altitude: 741.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 250
+  width: 7249
+  height: 4745
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:32:50.000000000+01:00
+- image_filename: 2020_01_18__13_33_DSC06038.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.811097222222216
+  lon: 16.165458333333333
+  altitude: 744.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7144
+  height: 4568
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:33:35.000000000+01:00
+- image_filename: 2020_01_18__13_34_DSC06043.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81118055555555
+  lon: 16.16563888888889
+  altitude: 747.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7131
+  height: 4545
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:34:18.000000000+01:00
+- image_filename: 2020_01_18__13_35_DSC06051.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81140277777777
+  lon: 16.16570833333333
+  altitude: 753.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 4261
+  height: 7266
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:35:53.000000000+01:00
 - image_filename: 2020_01_18__13_37_DSC06062.jpg
   post_slug: 2020-01-18-prawie-zima-na-trojgarbie
   lat: 50.811638888888886
@@ -1716,11 +1333,394 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-01-18 13:37:09+01:00
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:37:09.000000000+01:00
+- image_filename: 2020_01_18__13_37_DSC06065.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81165277777777
+  lon: 16.165625
+  altitude: 756.0
+  focal_length: 59.0
+  focal_length_35: 59.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 4920
+  height: 7366
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:37:55.000000000+01:00
+- image_filename: 2020_01_18__13_38_DSC06066.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81165277777777
+  lon: 16.16558333333333
+  altitude: 756.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7174
+  height: 4620
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:38:06.000000000+01:00
+- image_filename: 2020_01_18__13_39_DSC06071.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.811791666666664
+  lon: 16.16525
+  altitude: 761.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6244
+  height: 4782
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:39:24.000000000+01:00
+- image_filename: 2020_01_18__13_40_DSC06075.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812013888888885
+  lon: 16.16483333333333
+  altitude: 769.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:40:41.000000000+01:00
+- image_filename: 2020_01_18__13_41_DSC06077.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812152777777776
+  lon: 16.164555555555555
+  altitude: 772.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:41:24.000000000+01:00
+- image_filename: 2020_01_18__13_49__1180784.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.8135
+  lon: 16.15063888888889
+  altitude: 572.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 2.59
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 13:49:41.000000000+01:00
+- image_filename: 2020_01_18__13_50__1180786.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.813583333333334
+  lon: 16.149541666666668
+  altitude: 556.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 3.61
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 13:50:59.000000000+01:00
+- image_filename: 2020_01_18__13_51__1180789.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81361111111111
+  lon: 16.14945833333333
+  altitude: 557.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 2.77
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 13:51:14.000000000+01:00
+- image_filename: 2020_01_18__13_55_DSC06081.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81261111111111
+  lon: 16.163652777777777
+  altitude: 805.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7221
+  height: 4823
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:55:08.000000000+01:00
+- image_filename: 2020_01_18__13_55_DSC06085.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812625
+  lon: 16.163597222222222
+  altitude: 804.0
+  focal_length: 36.0
+  focal_length_35: 36.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 6990
+  height: 4669
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:55:40.000000000+01:00
+- image_filename: 2020_01_18__13_55_DSC06086.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812625
+  lon: 16.163597222222222
+  altitude: 804.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7067
+  height: 4720
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:55:43.000000000+01:00
+- image_filename: 2020_01_18__13_57_DSC06097.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812666666666665
+  lon: 16.16358333333333
+  altitude: 805.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 13:57:17.000000000+01:00
+- image_filename: 2020_01_18__13_57__1180798.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.813694444444444
+  lon: 16.14423611111111
+  altitude: 493.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 15.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 13:57:55.000000000+01:00
+- image_filename: 2020_01_18__14_01_DSC06105.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812666666666665
+  lon: 16.163708333333332
+  altitude: 804.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7007
+  height: 4680
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 14:01:19.000000000+01:00
+- image_filename: 2020_01_18__14_02_DSC06116.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81265277777778
+  lon: 16.16358333333333
+  altitude: 803.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 14:02:59.000000000+01:00
+- image_filename: 2020_01_18__14_03__1180809.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81079166666667
+  lon: 16.142166666666665
+  altitude: 486.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.98
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 14:03:31.000000000+01:00
+- image_filename: 2020_01_18__14_08__1180820.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.80965277777778
+  lon: 16.13848611111111
+  altitude: 476.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 126.03
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 14:08:02.000000000+01:00
+- image_filename: 2020_01_18__14_11_DSC06137.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81273611111111
+  lon: 16.16361111111111
+  altitude: 801.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 14:11:46.000000000+01:00
+- image_filename: 2020_01_18__14_13_DSC06144.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.81269444444444
+  lon: 16.163680555555555
+  altitude: 796.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 4920
+  height: 7366
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-01-18 14:13:31.000000000+01:00
+- image_filename: 2020_01_18__14_21__1180852.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.808861111111106
+  lon: 16.128097222222223
+  altitude: 466.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.77
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 14:21:25.000000000+01:00
+- image_filename: 2020_01_18__14_26__1180856.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.806124999999994
+  lon: 16.124916666666667
+  altitude: 449.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 167.18
+  iso: 200
+  width: 5161
+  height: 3853
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 14:26:06.000000000+01:00
+- image_filename: 2020_01_18__14_40__1180901.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.79781944444444
+  lon: 16.130041666666667
+  altitude: 454.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.8
+  iso: 200
+  width: 4817
+  height: 3299
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-01-18 14:40:06.000000000+01:00

@@ -1,669 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-- image_filename: 2020_08_17__13_55__8177861.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.518138888888885
-  lon: 21.93138888888889
-  altitude: 341.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-17 13:55:58+02:00
-  focus_distance: 9.15
-- image_filename: 2020_08_18__13_10__8188034.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39438888888889
-  lon: 22.12461111111111
-  altitude: 439.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-18 13:10:38+02:00
-  focus_distance: 184.09
-- image_filename: 2020_08_18__11_16__8187968.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39808333333333
-  lon: 22.075736111111112
-  altitude: 578.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 11:16:35+02:00
-  focus_distance: 180.04
-- image_filename: 2020_08_18__13_17__8188048.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.392041666666664
-  lon: 22.129097222222224
-  altitude: 413.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-08-18 13:17:51+02:00
-  focus_distance: 17.26
-- image_filename: 2020_08_18__13_38__8188079.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38297222222222
-  lon: 22.12551388888889
-  altitude: 434.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-18 13:38:28+02:00
-  focus_distance: 26.55
-- image_filename: 2020_08_18__19_06__8188124.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.25147222222222
-  lon: 22.10077777777778
-  altitude: 580.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-08-18 19:06:09+02:00
-  focus_distance: 61.36
-- image_filename: 2020_08_18__13_46__8188088.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.382222222222225
-  lon: 22.121513888888888
-  altitude: 446.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4759
-  height: 3486
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-18 13:46:34+02:00
-  focus_distance: 0.9
-- image_filename: 2020_08_18__19_10_DSC01674.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.26859722222222
-  lon: 22.082819444444443
-  altitude: 587.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 640
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5839
-  height: 3885
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:10:50+02:00
-- image_filename: 2020_08_18__19_11_DSC01685.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.268652777777774
-  lon: 22.082944444444443
-  altitude: 588.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:11:37+02:00
-- image_filename: 2020_08_18__19_12_DSC01689.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.268652777777774
-  lon: 22.082930555555556
-  altitude: 588.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5655
-  height: 3762
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:12:02+02:00
-- image_filename: 2020_08_18__13_13__8188043.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39323611111111
-  lon: 22.126069444444443
-  altitude: 430.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5091
-  height: 3904
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-08-18 13:13:19+02:00
-  focus_distance: 3.68
-- image_filename: 2020_08_18__13_32__8188071.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.385374999999996
-  lon: 22.126680555555556
-  altitude: 418.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5143
-  height: 3840
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-18 13:32:53+02:00
-  focus_distance: 13.12
-- image_filename: 2020_08_18__19_10_DSC01669.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.26861111111111
-  lon: 22.082805555555556
-  altitude: 587.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2020-08-18 19:10:06+02:00
-- image_filename: 2020_08_18__14_27_DSC01594.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38820833333333
-  lon: 22.105625
-  altitude: 445.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-18 14:27:14+02:00
-- image_filename: 2020_08_18__14_18_DSC01521.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.387972222222224
-  lon: 22.105583333333335
-  altitude: 444.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5535
-  height: 3436
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:18:12+02:00
-- image_filename: 2020_08_18__12_51_DSC01393.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.40131944444445
-  lon: 22.114583333333336
-  altitude: 501.0
-  focal_length: 53.0
-  focal_length_35: 53.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-18 12:51:22+02:00
-- image_filename: 2020_08_18__09_06_DSC01200.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.396097222222224
-  lon: 22.07801388888889
-  altitude: 565.0
-  focal_length: 231.8
-  focal_length_35: 231.0
-  crop: 0.996548748921484
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 09:06:32+02:00
-- image_filename: 2020_08_18__19_05__8188118.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.25145833333333
-  lon: 22.10077777777778
-  altitude: 582.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4827
-  height: 3588
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-08-18 19:05:38+02:00
-  focus_distance: 107.08
-- image_filename: 2020_08_18__09_11_DSC01215.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.396097222222224
-  lon: 22.07801388888889
-  altitude: 565.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 09:11:04+02:00
-- image_filename: 2020_08_18__11_24__8188011.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.398944444444446
-  lon: 22.074875
-  altitude: 591.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 11:24:00+02:00
-  focus_distance: 0.28
-- image_filename: 2020_08_18__13_51__8188102.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.382305555555554
-  lon: 22.11722222222222
-  altitude: 427.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5063
-  height: 3689
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 13:51:15+02:00
-  focus_distance: 1.05
-- image_filename: 2020_08_18__14_55_DSC01646.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39091666666667
-  lon: 22.087333333333333
-  altitude: 475.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-18 14:55:39+02:00
-- image_filename: 2020_08_18__09_27_DSC01260.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39608333333333
-  lon: 22.07801388888889
-  altitude: 565.0
-  focal_length: 289.2
-  focal_length_35: 289.0
-  crop: 0.9993084370677732
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-18 09:27:15+02:00
-- image_filename: 2020_08_18__19_06__8188125.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.25145833333333
-  lon: 22.100763888888892
-  altitude: 579.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-08-18 19:06:14+02:00
-  focus_distance: 32.57
-- image_filename: 2020_08_18__09_09_DSC01206.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.396097222222224
-  lon: 22.07801388888889
-  altitude: 565.0
-  focal_length: 194.9
-  focal_length_35: 194.0
-  crop: 0.9953822473063109
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 09:09:23+02:00
-- image_filename: 2020_08_18__13_48__8188090.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.382222222222225
-  lon: 22.119777777777777
-  altitude: 440.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3457
-  height: 4663
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-18 13:48:14+02:00
-  focus_distance: 24.67
-- image_filename: 2020_08_18__11_22__8187994.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.398944444444446
-  lon: 22.074875
-  altitude: 591.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 500
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 3638
-  height: 5008
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-18 11:22:59+02:00
-  focus_distance: 0.25
-- image_filename: 2020_08_18__19_09_DSC01666.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.26863888888889
-  lon: 22.082791666666665
-  altitude: 587.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 800
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 19:09:40+02:00
-- image_filename: 2020_08_18__19_12_DSC01693.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.26863888888889
-  lon: 22.08288888888889
-  altitude: 588.0
-  focal_length: 289.2
-  focal_length_35: 289.0
-  crop: 0.9993084370677732
-  aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:12:25+02:00
-- image_filename: 2020_08_18__12_06_DSC01358.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.407041666666665
-  lon: 22.07990277777778
-  altitude: 701.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5945
-  height: 3863
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 12:06:40+02:00
-- image_filename: 2020_08_18__12_06_DSC01356.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.40705555555555
-  lon: 22.07975
-  altitude: 701.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 12:06:31+02:00
-- image_filename: 2020_08_18__14_07_DSC01427.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.386625
-  lon: 22.108375000000002
-  altitude: 439.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5971
-  height: 3973
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-18 14:07:55+02:00
-- image_filename: 2020_08_18__11_24_DSC01264.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.399319444444444
-  lon: 22.074583333333333
-  altitude: 597.0
-  focal_length: 40.0
-  focal_length_35: 40.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-18 11:24:58+02:00
-- image_filename: 2020_08_18__14_08_DSC01431.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38663888888889
-  lon: 22.108361111111112
-  altitude: 439.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:08:20+02:00
-- image_filename: 2020_08_18__13_29__8188066.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38686111111111
-  lon: 22.127333333333333
-  altitude: 414.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5125
-  height: 3795
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-08-18 13:29:20+02:00
-  focus_distance: 5.97
-- image_filename: 2020_08_18__12_59_DSC01405.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39816666666667
-  lon: 22.119611111111112
-  altitude: 475.0
-  focal_length: 43.0
-  focal_length_35: 43.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 12:59:22+02:00
-- image_filename: 2020_08_18__09_06_DSC01195.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.396097222222224
-  lon: 22.07801388888889
-  altitude: 565.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-18 09:06:11+02:00
-- image_filename: 2020_08_18__13_22__8188055.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39061111111111
-  lon: 22.129986111111112
-  altitude: 409.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5198
-  height: 3870
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-18 13:22:36+02:00
-  focus_distance: 0.8
 - image_filename: 2020_08_18__09_05_DSC01193.jpg
   post_slug: 2020-08-18-deszczowa-rzepedka
   lat: 49.396097222222224
@@ -673,375 +8,82 @@
   focal_length_35: 100.0
   crop: 1.0
   aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 4023
   height: 6047
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 09:05:36+02:00
-- image_filename: 2020_08_18__11_26_DSC01268.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39993055555556
-  lon: 22.073944444444443
-  altitude: 601.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-18 11:26:12+02:00
-- image_filename: 2020_08_18__14_17_DSC01503.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38795833333333
-  lon: 22.105611111111113
-  altitude: 444.0
-  focal_length: 207.4
-  focal_length_35: 207.0
-  crop: 0.9980713596914175
-  aperture: 5.6
-  iso: 100
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 4904
-  height: 3143
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 14:17:56+02:00
-- image_filename: 2020_08_18__19_03_DSC01665.jpg
+  time: 2020-08-18 09:05:36.000000000+02:00
+- image_filename: 2020_08_18__09_06_DSC01195.jpg
   post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.251444444444445
-  lon: 22.10077777777778
-  altitude: 580.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:03:11+02:00
-- image_filename: 2020_08_18__19_09_DSC01667.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.26861111111111
-  lon: 22.082805555555556
-  altitude: 587.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:09:55+02:00
-- image_filename: 2020_08_18__14_46_DSC01628.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.390902777777775
-  lon: 22.093999999999998
-  altitude: 469.0
+  lat: 49.396097222222224
+  lon: 22.07801388888889
+  altitude: 565.0
   focal_length: 100.0
   focal_length_35: 100.0
   crop: 1.0
   aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
+  width: 6048
+  height: 4024
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
+  time: 2020-08-18 09:06:11.000000000+02:00
+- image_filename: 2020_08_18__09_06_DSC01200.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.396097222222224
+  lon: 22.07801388888889
+  altitude: 565.0
+  focal_length: 231.8
+  focal_length_35: 231.0
+  crop: 0.996548748921484
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 09:06:32.000000000+02:00
+- image_filename: 2020_08_18__09_09_DSC01206.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.396097222222224
+  lon: 22.07801388888889
+  altitude: 565.0
+  focal_length: 194.9
+  focal_length_35: 194.0
+  crop: 0.9953822473063109
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
   width: 4023
   height: 6047
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:46:14+02:00
-- image_filename: 2020_08_18__12_19_DSC01374.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.405097222222224
-  lon: 22.08948611111111
-  altitude: 673.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-18 12:19:01+02:00
-- image_filename: 2020_08_18__14_00__8188107.jpg
+  time: 2020-08-18 09:09:23.000000000+02:00
+- image_filename: 2020_08_18__09_11_DSC01215.jpg
   post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.385152777777776
-  lon: 22.111250000000002
-  altitude: 435.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5038
-  height: 3761
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-18 14:00:45+02:00
-  focus_distance: 125.07
-- image_filename: 2020_08_18__11_56_DSC01333.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.40754166666667
-  lon: 22.0745
-  altitude: 684.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-18 11:56:02+02:00
-- image_filename: 2020_08_18__09_19_DSC01249.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39608333333333
+  lat: 49.396097222222224
   lon: 22.07801388888889
   altitude: 565.0
-  focal_length: 333.1
-  focal_length_35: 333.0
-  crop: 0.999699789852897
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-18 09:19:06+02:00
-- image_filename: 2020_08_18__12_49_DSC01389.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.40222222222222
-  lon: 22.112791666666666
-  altitude: 510.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-18 12:49:01+02:00
-- image_filename: 2020_08_18__09_19_DSC01252.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39608333333333
-  lon: 22.07801388888889
-  altitude: 565.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-18 09:19:44+02:00
-- image_filename: 2020_08_18__19_11_DSC01686.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.268652777777774
-  lon: 22.082944444444443
-  altitude: 588.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:11:43+02:00
-- image_filename: 2020_08_18__12_57_DSC01394.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.398986111111114
-  lon: 22.118666666666666
-  altitude: 483.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 12:57:10+02:00
-- image_filename: 2020_08_18__12_37_DSC01382.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.400375
-  lon: 22.1045
-  altitude: 607.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-08-18 12:37:10+02:00
-- image_filename: 2020_08_18__14_02__8188109.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.385555555555555
-  lon: 22.110680555555557
-  altitude: 436.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5143
-  height: 3839
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-18 14:02:29+02:00
-  focus_distance: 4.3
-- image_filename: 2020_08_18__13_23__8188056.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39023611111111
-  lon: 22.129569444444446
-  altitude: 410.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5094
-  height: 3708
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-18 13:23:13+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_08_18__09_18_DSC01246.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39608333333333
-  lon: 22.07801388888889
-  altitude: 565.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-18 09:18:59+02:00
-- image_filename: 2020_08_18__14_31_DSC01606.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38901388888889
-  lon: 22.10452777777778
-  altitude: 445.0
   focal_length: 100.0
   focal_length_35: 100.0
   crop: 1.0
-  aperture: 5.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-18 14:31:18+02:00
-- image_filename: 2020_08_18__19_18__8188135.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.268625
-  lon: 22.08277777777778
-  altitude: 587.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-08-18 19:18:39+02:00
-  focus_distance: 31.69
-- image_filename: 2020_08_18__14_15_DSC01488.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38733333333333
-  lon: 22.10643055555556
-  altitude: 447.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 500
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 4023
-  height: 6047
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:15:04+02:00
-- image_filename: 2020_08_18__13_04_DSC01416.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.396125
-  lon: 22.122319444444447
-  altitude: 453.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 13:04:44+02:00
+  time: 2020-08-18 09:11:04.000000000+02:00
 - image_filename: 2020_08_18__09_18_DSC01238.jpg
   post_slug: 2020-08-18-deszczowa-rzepedka
   lat: 49.39608333333333
@@ -1051,339 +93,14 @@
   focal_length_35: 105.0
   crop: 0.9990485252140818
   aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 5820
   height: 3866
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 09:18:01+02:00
-- image_filename: 2020_08_18__14_14_DSC01475.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38752777777778
-  lon: 22.106236111111112
-  altitude: 445.0
-  focal_length: 257.2
-  focal_length_35: 257.0
-  crop: 0.9992223950233282
-  aperture: 6.3
-  iso: 125
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-18 14:14:20+02:00
-- image_filename: 2020_08_18__14_11_DSC01458.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38706944444444
-  lon: 22.107361111111114
-  altitude: 442.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:11:10+02:00
-- image_filename: 2020_08_18__14_26_DSC01592.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.388041666666666
-  lon: 22.105694444444445
-  altitude: 445.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-18 14:26:43+02:00
-- image_filename: 2020_08_18__14_10_DSC01452.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38704166666667
-  lon: 22.107458333333334
-  altitude: 442.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:10:39+02:00
-- image_filename: 2020_08_18__19_11_DSC01677.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.26859722222222
-  lon: 22.082819444444443
-  altitude: 587.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5968
-  height: 3971
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:11:00+02:00
-- image_filename: 2020_08_18__19_11_DSC01684.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.26863888888889
-  lon: 22.082930555555556
-  altitude: 588.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:11:36+02:00
-- image_filename: 2020_08_18__13_05_DSC01419.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39586111111111
-  lon: 22.122625
-  altitude: 451.0
-  focal_length: 52.0
-  focal_length_35: 52.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-18 13:05:06+02:00
-- image_filename: 2020_08_18__19_11_DSC01682.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.26861111111111
-  lon: 22.08288888888889
-  altitude: 588.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 19:11:21+02:00
-- image_filename: 2020_08_18__09_18_DSC01244.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39608333333333
-  lon: 22.07801388888889
-  altitude: 565.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-08-18 09:18:44+02:00
-- image_filename: 2020_08_18__14_53_DSC01644.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39072222222222
-  lon: 22.088916666666666
-  altitude: 474.0
-  focal_length: 191.0
-  focal_length_35: 191.0
-  crop: 1.0
-  aperture: 9.0
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-18 14:53:30+02:00
-- image_filename: 2020_08_18__14_14_DSC01472.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38751388888889
-  lon: 22.10626388888889
-  altitude: 445.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:14:17+02:00
-- image_filename: 2020_08_18__14_07_DSC01424.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38659722222222
-  lon: 22.108472222222225
-  altitude: 438.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 3866
-  height: 5811
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-18 14:07:27+02:00
-- image_filename: 2020_08_18__14_18_DSC01538.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38795833333333
-  lon: 22.105625
-  altitude: 446.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5476
-  height: 3749
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:18:36+02:00
-- image_filename: 2020_08_18__14_48_DSC01633.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.39102777777778
-  lon: 22.093180555555556
-  altitude: 472.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 800
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:48:31+02:00
-- image_filename: 2020_08_18__14_08_DSC01429.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38663888888889
-  lon: 22.108361111111112
-  altitude: 439.0
-  focal_length: 134.2
-  focal_length_35: 134.0
-  crop: 0.9985096870342773
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:08:11+02:00
-- image_filename: 2020_08_18__12_18__8188024.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.40536111111111
-  lon: 22.08898611111111
-  altitude: 678.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-18 12:18:03+02:00
-  focus_distance: 77.64
-- image_filename: 2020_08_18__19_02_DSC01662.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.25147222222222
-  lon: 22.100763888888892
-  altitude: 581.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-18 19:02:44+02:00
-- image_filename: 2020_08_18__14_09_DSC01435.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.386763888888886
-  lon: 22.108027777777778
-  altitude: 440.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-18 14:09:07+02:00
-- image_filename: 2020_08_18__13_46__8188087.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.38220833333333
-  lon: 22.121555555555556
-  altitude: 447.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4793
-  height: 3400
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-18 13:46:31+02:00
-  focus_distance: 0.88
+  time: 2020-08-18 09:18:01.000000000+02:00
 - image_filename: 2020_08_18__09_18_DSC01242.jpg
   post_slug: 2020-08-18-deszczowa-rzepedka
   lat: 49.39608333333333
@@ -1393,31 +110,1001 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2020-08-18 09:18:29+02:00
-- image_filename: 2020_08_18__19_10_DSC01672.jpg
-  post_slug: 2020-08-18-deszczowa-rzepedka
-  lat: 49.26861111111111
-  lon: 22.082791666666665
-  altitude: 587.0
-  focal_length: 180.8
-  focal_length_35: 180.0
-  crop: 0.9955752212389379
-  aperture: 5.6
-  iso: 250
+  iso: 100
+  width: 6048
+  height: 4024
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5852
-  height: 3894
+  time: 2020-08-18 09:18:29.000000000+02:00
+- image_filename: 2020_08_18__09_18_DSC01244.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39608333333333
+  lon: 22.07801388888889
+  altitude: 565.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 09:18:44.000000000+02:00
+- image_filename: 2020_08_18__09_18_DSC01246.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39608333333333
+  lon: 22.07801388888889
+  altitude: 565.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 09:18:59.000000000+02:00
+- image_filename: 2020_08_18__09_19_DSC01249.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39608333333333
+  lon: 22.07801388888889
+  altitude: 565.0
+  focal_length: 333.1
+  focal_length_35: 333.0
+  crop: 0.999699789852897
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 09:19:06.000000000+02:00
+- image_filename: 2020_08_18__09_19_DSC01252.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39608333333333
+  lon: 22.07801388888889
+  altitude: 565.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 09:19:44.000000000+02:00
+- image_filename: 2020_08_18__09_27_DSC01260.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39608333333333
+  lon: 22.07801388888889
+  altitude: 565.0
+  focal_length: 289.2
+  focal_length_35: 289.0
+  crop: 0.9993084370677732
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 09:27:15.000000000+02:00
+- image_filename: 2020_08_18__11_16__8187968.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39808333333333
+  lon: 22.075736111111112
+  altitude: 578.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 180.04
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 11:16:35.000000000+02:00
+- image_filename: 2020_08_18__11_22__8187994.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.398944444444446
+  lon: 22.074875
+  altitude: 591.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.25
+  iso: 500
+  width: 3638
+  height: 5008
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-18 11:22:59.000000000+02:00
+- image_filename: 2020_08_18__11_24_DSC01264.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.399319444444444
+  lon: 22.074583333333333
+  altitude: 597.0
+  focal_length: 40.0
+  focal_length_35: 40.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 11:24:58.000000000+02:00
+- image_filename: 2020_08_18__11_24__8188011.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.398944444444446
+  lon: 22.074875
+  altitude: 591.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.28
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-18 11:24:00.000000000+02:00
+- image_filename: 2020_08_18__11_26_DSC01268.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39993055555556
+  lon: 22.073944444444443
+  altitude: 601.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 11:26:12.000000000+02:00
+- image_filename: 2020_08_18__11_56_DSC01333.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.40754166666667
+  lon: 22.0745
+  altitude: 684.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 11:56:02.000000000+02:00
+- image_filename: 2020_08_18__12_06_DSC01356.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.40705555555555
+  lon: 22.07975
+  altitude: 701.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 12:06:31.000000000+02:00
+- image_filename: 2020_08_18__12_06_DSC01358.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.407041666666665
+  lon: 22.07990277777778
+  altitude: 701.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5945
+  height: 3863
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 12:06:40.000000000+02:00
+- image_filename: 2020_08_18__12_18__8188024.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.40536111111111
+  lon: 22.08898611111111
+  altitude: 678.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-08-18 19:10:14+02:00
+  focus_distance: 77.64
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 12:18:03.000000000+02:00
+- image_filename: 2020_08_18__12_19_DSC01374.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.405097222222224
+  lon: 22.08948611111111
+  altitude: 673.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 12:19:01.000000000+02:00
+- image_filename: 2020_08_18__12_37_DSC01382.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.400375
+  lon: 22.1045
+  altitude: 607.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 12:37:10.000000000+02:00
+- image_filename: 2020_08_18__12_49_DSC01389.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.40222222222222
+  lon: 22.112791666666666
+  altitude: 510.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 12:49:01.000000000+02:00
+- image_filename: 2020_08_18__12_51_DSC01393.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.40131944444445
+  lon: 22.114583333333336
+  altitude: 501.0
+  focal_length: 53.0
+  focal_length_35: 53.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 12:51:22.000000000+02:00
+- image_filename: 2020_08_18__12_57_DSC01394.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.398986111111114
+  lon: 22.118666666666666
+  altitude: 483.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 12:57:10.000000000+02:00
+- image_filename: 2020_08_18__12_59_DSC01405.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39816666666667
+  lon: 22.119611111111112
+  altitude: 475.0
+  focal_length: 43.0
+  focal_length_35: 43.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 12:59:22.000000000+02:00
+- image_filename: 2020_08_18__13_04_DSC01416.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.396125
+  lon: 22.122319444444447
+  altitude: 453.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 13:04:44.000000000+02:00
+- image_filename: 2020_08_18__13_05_DSC01419.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39586111111111
+  lon: 22.122625
+  altitude: 451.0
+  focal_length: 52.0
+  focal_length_35: 52.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 13:05:06.000000000+02:00
+- image_filename: 2020_08_18__13_10__8188034.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39438888888889
+  lon: 22.12461111111111
+  altitude: 439.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 184.09
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:10:38.000000000+02:00
+- image_filename: 2020_08_18__13_13__8188043.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39323611111111
+  lon: 22.126069444444443
+  altitude: 430.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.68
+  iso: 200
+  width: 5091
+  height: 3904
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:13:19.000000000+02:00
+- image_filename: 2020_08_18__13_17__8188048.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.392041666666664
+  lon: 22.129097222222224
+  altitude: 413.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 17.26
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:17:51.000000000+02:00
+- image_filename: 2020_08_18__13_22__8188055.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39061111111111
+  lon: 22.129986111111112
+  altitude: 409.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.8
+  iso: 200
+  width: 5198
+  height: 3870
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:22:36.000000000+02:00
+- image_filename: 2020_08_18__13_23__8188056.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39023611111111
+  lon: 22.129569444444446
+  altitude: 410.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5094
+  height: 3708
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:23:13.000000000+02:00
+- image_filename: 2020_08_18__13_29__8188066.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38686111111111
+  lon: 22.127333333333333
+  altitude: 414.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 5.97
+  iso: 200
+  width: 5125
+  height: 3795
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:29:20.000000000+02:00
+- image_filename: 2020_08_18__13_32__8188071.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.385374999999996
+  lon: 22.126680555555556
+  altitude: 418.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 13.12
+  iso: 200
+  width: 5143
+  height: 3840
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:32:53.000000000+02:00
+- image_filename: 2020_08_18__13_38__8188079.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38297222222222
+  lon: 22.12551388888889
+  altitude: 434.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 26.55
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:38:28.000000000+02:00
+- image_filename: 2020_08_18__13_46__8188087.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38220833333333
+  lon: 22.121555555555556
+  altitude: 447.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.88
+  iso: 200
+  width: 4793
+  height: 3400
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:46:31.000000000+02:00
+- image_filename: 2020_08_18__13_46__8188088.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.382222222222225
+  lon: 22.121513888888888
+  altitude: 446.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.9
+  iso: 200
+  width: 4759
+  height: 3486
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:46:34.000000000+02:00
+- image_filename: 2020_08_18__13_48__8188090.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.382222222222225
+  lon: 22.119777777777777
+  altitude: 440.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 24.67
+  iso: 200
+  width: 3457
+  height: 4663
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:48:14.000000000+02:00
+- image_filename: 2020_08_18__13_51__8188102.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.382305555555554
+  lon: 22.11722222222222
+  altitude: 427.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.05
+  iso: 200
+  width: 5063
+  height: 3689
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 13:51:15.000000000+02:00
+- image_filename: 2020_08_18__14_00__8188107.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.385152777777776
+  lon: 22.111250000000002
+  altitude: 435.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 125.07
+  iso: 200
+  width: 5038
+  height: 3761
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 14:00:45.000000000+02:00
+- image_filename: 2020_08_18__14_02__8188109.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.385555555555555
+  lon: 22.110680555555557
+  altitude: 436.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.3
+  iso: 200
+  width: 5143
+  height: 3839
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 14:02:29.000000000+02:00
+- image_filename: 2020_08_18__14_07_DSC01424.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38659722222222
+  lon: 22.108472222222225
+  altitude: 438.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 3866
+  height: 5811
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:07:27.000000000+02:00
+- image_filename: 2020_08_18__14_07_DSC01427.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.386625
+  lon: 22.108375000000002
+  altitude: 439.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5971
+  height: 3973
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:07:55.000000000+02:00
+- image_filename: 2020_08_18__14_08_DSC01429.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38663888888889
+  lon: 22.108361111111112
+  altitude: 439.0
+  focal_length: 134.2
+  focal_length_35: 134.0
+  crop: 0.9985096870342773
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:08:11.000000000+02:00
+- image_filename: 2020_08_18__14_08_DSC01431.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38663888888889
+  lon: 22.108361111111112
+  altitude: 439.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:08:20.000000000+02:00
+- image_filename: 2020_08_18__14_09_DSC01435.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.386763888888886
+  lon: 22.108027777777778
+  altitude: 440.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:09:07.000000000+02:00
+- image_filename: 2020_08_18__14_10_DSC01452.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38704166666667
+  lon: 22.107458333333334
+  altitude: 442.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:10:39.000000000+02:00
+- image_filename: 2020_08_18__14_11_DSC01458.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38706944444444
+  lon: 22.107361111111114
+  altitude: 442.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:11:10.000000000+02:00
+- image_filename: 2020_08_18__14_14_DSC01472.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38751388888889
+  lon: 22.10626388888889
+  altitude: 445.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:14:17.000000000+02:00
+- image_filename: 2020_08_18__14_14_DSC01475.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38752777777778
+  lon: 22.106236111111112
+  altitude: 445.0
+  focal_length: 257.2
+  focal_length_35: 257.0
+  crop: 0.9992223950233282
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:14:20.000000000+02:00
+- image_filename: 2020_08_18__14_15_DSC01488.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38733333333333
+  lon: 22.10643055555556
+  altitude: 447.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 500
+  width: 4023
+  height: 6047
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:15:04.000000000+02:00
+- image_filename: 2020_08_18__14_17_DSC01503.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38795833333333
+  lon: 22.105611111111113
+  altitude: 444.0
+  focal_length: 207.4
+  focal_length_35: 207.0
+  crop: 0.9980713596914175
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 4904
+  height: 3143
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:17:56.000000000+02:00
+- image_filename: 2020_08_18__14_18_DSC01521.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.387972222222224
+  lon: 22.105583333333335
+  altitude: 444.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 5535
+  height: 3436
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:18:12.000000000+02:00
+- image_filename: 2020_08_18__14_18_DSC01538.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38795833333333
+  lon: 22.105625
+  altitude: 446.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 250
+  width: 5476
+  height: 3749
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:18:36.000000000+02:00
+- image_filename: 2020_08_18__14_26_DSC01592.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.388041666666666
+  lon: 22.105694444444445
+  altitude: 445.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:26:43.000000000+02:00
+- image_filename: 2020_08_18__14_27_DSC01594.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38820833333333
+  lon: 22.105625
+  altitude: 445.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 4023
+  height: 6047
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:27:14.000000000+02:00
+- image_filename: 2020_08_18__14_31_DSC01606.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.38901388888889
+  lon: 22.10452777777778
+  altitude: 445.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:31:18.000000000+02:00
+- image_filename: 2020_08_18__14_46_DSC01628.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.390902777777775
+  lon: 22.093999999999998
+  altitude: 469.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 4023
+  height: 6047
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:46:14.000000000+02:00
+- image_filename: 2020_08_18__14_48_DSC01633.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39102777777778
+  lon: 22.093180555555556
+  altitude: 472.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:48:31.000000000+02:00
+- image_filename: 2020_08_18__14_53_DSC01644.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39072222222222
+  lon: 22.088916666666666
+  altitude: 474.0
+  focal_length: 191.0
+  focal_length_35: 191.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 4023
+  height: 6047
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 14:53:30.000000000+02:00
+- image_filename: 2020_08_18__14_55_DSC01646.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.39091666666667
+  lon: 22.087333333333333
+  altitude: 475.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 14:55:39.000000000+02:00
+- image_filename: 2020_08_18__19_02_DSC01662.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.25147222222222
+  lon: 22.100763888888892
+  altitude: 581.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 19:02:44.000000000+02:00
 - image_filename: 2020_08_18__19_02_DSC01664.jpg
   post_slug: 2020-08-18-deszczowa-rzepedka
   lat: 49.25145833333333
@@ -1427,11 +1114,304 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-08-18 19:02:53+02:00
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 19:02:53.000000000+02:00
+- image_filename: 2020_08_18__19_03_DSC01665.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.251444444444445
+  lon: 22.10077777777778
+  altitude: 580.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-18 19:03:11.000000000+02:00
+- image_filename: 2020_08_18__19_05__8188118.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.25145833333333
+  lon: 22.10077777777778
+  altitude: 582.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 107.08
+  iso: 200
+  width: 4827
+  height: 3588
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 19:05:38.000000000+02:00
+- image_filename: 2020_08_18__19_06__8188124.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.25147222222222
+  lon: 22.10077777777778
+  altitude: 580.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 61.36
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 19:06:09.000000000+02:00
+- image_filename: 2020_08_18__19_06__8188125.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.25145833333333
+  lon: 22.100763888888892
+  altitude: 579.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 32.57
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 19:06:14.000000000+02:00
+- image_filename: 2020_08_18__19_09_DSC01666.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.26863888888889
+  lon: 22.082791666666665
+  altitude: 587.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:09:40.000000000+02:00
+- image_filename: 2020_08_18__19_09_DSC01667.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.26861111111111
+  lon: 22.082805555555556
+  altitude: 587.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:09:55.000000000+02:00
+- image_filename: 2020_08_18__19_10_DSC01669.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.26861111111111
+  lon: 22.082805555555556
+  altitude: 587.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:10:06.000000000+02:00
+- image_filename: 2020_08_18__19_10_DSC01672.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.26861111111111
+  lon: 22.082791666666665
+  altitude: 587.0
+  focal_length: 180.8
+  focal_length_35: 180.0
+  crop: 0.9955752212389379
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 250
+  width: 5852
+  height: 3894
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:10:14.000000000+02:00
+- image_filename: 2020_08_18__19_10_DSC01674.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.26859722222222
+  lon: 22.082819444444443
+  altitude: 587.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 5839
+  height: 3885
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:10:50.000000000+02:00
+- image_filename: 2020_08_18__19_11_DSC01677.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.26859722222222
+  lon: 22.082819444444443
+  altitude: 587.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 500
+  width: 5968
+  height: 3971
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:11:00.000000000+02:00
+- image_filename: 2020_08_18__19_11_DSC01682.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.26861111111111
+  lon: 22.08288888888889
+  altitude: 588.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 500
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:11:21.000000000+02:00
+- image_filename: 2020_08_18__19_11_DSC01684.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.26863888888889
+  lon: 22.082930555555556
+  altitude: 588.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:11:36.000000000+02:00
+- image_filename: 2020_08_18__19_11_DSC01685.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.268652777777774
+  lon: 22.082944444444443
+  altitude: 588.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:11:37.000000000+02:00
+- image_filename: 2020_08_18__19_11_DSC01686.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.268652777777774
+  lon: 22.082944444444443
+  altitude: 588.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 4023
+  height: 6047
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:11:43.000000000+02:00
+- image_filename: 2020_08_18__19_12_DSC01689.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.268652777777774
+  lon: 22.082930555555556
+  altitude: 588.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 5655
+  height: 3762
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:12:02.000000000+02:00
+- image_filename: 2020_08_18__19_12_DSC01693.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.26863888888889
+  lon: 22.08288888888889
+  altitude: 588.0
+  focal_length: 289.2
+  focal_length_35: 289.0
+  crop: 0.9993084370677732
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-18 19:12:25.000000000+02:00
+- image_filename: 2020_08_18__19_18__8188135.jpg
+  post_slug: 2020-08-18-deszczowa-rzepedka
+  lat: 49.268625
+  lon: 22.08277777777778
+  altitude: 587.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 31.69
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-18 19:18:39.000000000+02:00

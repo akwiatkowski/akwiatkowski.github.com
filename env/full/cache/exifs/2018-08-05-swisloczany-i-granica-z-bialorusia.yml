@@ -1,22 +1,4 @@
 ---
-- image_filename: P8050045.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.078319444444446
-  lon: 23.86577777777778
-  altitude: 143.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4577
-  height: 3386
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-05 11:48:41+02:00
-  focus_distance: 1000.0
 - image_filename: P8050002.jpg
   post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
   lat: 53.109569444444446
@@ -26,816 +8,15 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
   iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
   width: 4499
   height: 3366
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-05 11:03:43+02:00
-  focus_distance: 1000.0
-- image_filename: P8050016.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.09883333333334
-  lon: 23.813875
-  altitude: 148.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  width: 4559
-  height: 3361
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-08-05 11:16:12+02:00
-  focus_distance: 1000.0
-- image_filename: P8050021.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.08890277777778
-  lon: 23.821986111111112
-  altitude: 151.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4140
-  height: 3118
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-05 11:25:21+02:00
-  focus_distance: 1000.0
-- image_filename: P8050034.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.079750000000004
-  lon: 23.84636111111111
-  altitude: 146.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4467
-  height: 3341
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-05 11:38:05+02:00
-  focus_distance: 1000.0
-- image_filename: P8050060.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.078430555555556
-  lon: 23.86711111111111
-  altitude: 143.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-05 11:55:11+02:00
-  focus_distance: 1000.0
-- image_filename: P8050066.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.069861111111116
-  lon: 23.877041666666667
-  altitude: 142.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-05 12:03:31+02:00
-  focus_distance: 1000.0
-- image_filename: P8050078.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.06623611111111
-  lon: 23.88176388888889
-  altitude: 140.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-05 12:10:17+02:00
-  focus_distance: 1000.0
-- image_filename: P8050070.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.066402777777775
-  lon: 23.879583333333333
-  altitude: 148.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4510
-  height: 3293
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-05 12:06:57+02:00
-  focus_distance: 1000.0
-- image_filename: P8050103.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.06594444444444
-  lon: 23.879402777777777
-  altitude: 143.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4426
-  height: 3165
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-05 12:32:55+02:00
-  focus_distance: 1000.0
-- image_filename: P8050089.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.06595833333333
-  lon: 23.879916666666666
-  altitude: 144.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 2583
-  height: 4156
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-05 12:29:40+02:00
-  focus_distance: 1000.0
-- image_filename: P8050119.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.05108333333333
-  lon: 23.859458333333336
-  altitude: 167.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-05 12:51:51+02:00
-  focus_distance: 1000.0
-- image_filename: P8050126.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.035805555555555
-  lon: 23.83888888888889
-  altitude: 170.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4510
-  height: 3373
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-05 13:05:01+02:00
-  focus_distance: 11.49
-- image_filename: P8050132.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.03798611111111
-  lon: 23.784430555555556
-  altitude: 155.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-05 13:33:32+02:00
-  focus_distance: 17.4
-- image_filename: P8050133.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.03795833333333
-  lon: 23.783611111111114
-  altitude: 154.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4535
-  height: 3329
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-05 13:38:27+02:00
-  focus_distance: 14.35
-- image_filename: P8050136.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.08368055555556
-  lon: 23.705875
-  altitude: 151.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4479
-  height: 3352
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-08-05 14:11:23+02:00
-  focus_distance: 18.78
-- image_filename: P8050140.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.08866666666667
-  lon: 23.698666666666668
-  altitude: 152.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4595
-  height: 3413
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-05 14:14:47+02:00
-  focus_distance: 1000.0
-- image_filename: P8050143.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.09290277777778
-  lon: 23.678625
-  altitude: 148.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4459
-  height: 3389
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-05 14:21:27+02:00
-  focus_distance: 103.96
-- image_filename: P8050146.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.095263888888894
-  lon: 23.664416666666664
-  altitude: 149.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 2943
-  height: 4531
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-05 15:29:27+02:00
-  focus_distance: 26.16
-- image_filename: P8050170_01.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.115180555555554
-  lon: 23.737819444444444
-  altitude: 140.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4415
-  height: 3302
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-08-05 19:05:39+02:00
-  focus_distance: 284.02
-- image_filename: P8050184.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.120194444444444
-  lon: 23.73604166666667
-  altitude: 144.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-08-05 19:17:22+02:00
-  focus_distance: 107.49
-- image_filename: P8050228.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.12025
-  lon: 23.723666666666666
-  altitude: 139.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-05 19:41:04+02:00
-  focus_distance: 157.21
-- image_filename: P8050261.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.11259722222222
-  lon: 23.733944444444447
-  altitude: 148.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4484
-  height: 3258
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-08-05 20:17:03+02:00
-  focus_distance: 43.95
-- image_filename: P8050135.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.038069444444446
-  lon: 23.78111111111111
-  altitude: 157.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4390
-  height: 3258
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-05 13:39:50+02:00
-  focus_distance: 1000.0
-- image_filename: P8050161.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-08-05 17:54:19+02:00
-  focus_distance: 4.57
-- image_filename: P8050085.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.06597222222222
-  lon: 23.879944444444444
-  altitude: 145.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4330
-  height: 3285
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-05 12:28:45+02:00
-  focus_distance: 1000.0
-- image_filename: P8050258.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.11291666666667
-  lon: 23.72747222222222
-  altitude: 148.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-05 20:10:33+02:00
-  focus_distance: 1000.0
-- image_filename: P8050249.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.113
-  lon: 23.726152777777777
-  altitude: 149.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4094
-  height: 2799
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2018-08-05 20:07:20+02:00
-  focus_distance: 1000.0
-- image_filename: P8050028.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.08213888888889
-  lon: 23.840055555555555
-  altitude: 146.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4379
-  height: 3275
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-08-05 11:34:31+02:00
-  focus_distance: 11.13
-- image_filename: P8050217.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.120555555555555
-  lon: 23.724083333333333
-  altitude: 139.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2018-08-05 19:37:43+02:00
-  focus_distance: 192.72
-- image_filename: P8050156.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-05 17:43:19+02:00
-  focus_distance: 3.89
-- image_filename: P8050179.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.119083333333336
-  lon: 23.737444444444446
-  altitude: 143.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2018-08-05 19:14:01+02:00
-  focus_distance: 0.55
-- image_filename: P8050063.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.07845833333334
-  lon: 23.867069444444446
-  altitude: 143.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4508
-  height: 3397
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-05 11:55:44+02:00
-  focus_distance: 11.56
-- image_filename: P8050012.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.10205555555556
-  lon: 23.807291666666668
-  altitude: 152.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4560
-  height: 3366
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-08-05 11:13:11+02:00
-  focus_distance: 1000.0
-- image_filename: P8050110.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.05488888888888
-  lon: 23.86698611111111
-  altitude: 163.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4425
-  height: 3311
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-05 12:46:37+02:00
-  focus_distance: 1000.0
-- image_filename: P8050113.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.05444444444444
-  lon: 23.86601388888889
-  altitude: 162.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4444
-  height: 3193
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-05 12:47:03+02:00
-  focus_distance: 1000.0
-- image_filename: P8050128.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.035152777777775
-  lon: 23.797069444444446
-  altitude: 166.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4612
-  height: 3451
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-08-05 13:25:24+02:00
-  focus_distance: 1000.0
-- image_filename: P8050030.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.081652777777784
-  lon: 23.840902777777778
-  altitude: 146.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-05 11:34:48+02:00
-  focus_distance: 22.09
-- image_filename: P8050233.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.11918055555556
-  lon: 23.72222222222222
-  altitude: 141.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4433
-  height: 3317
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-08-05 19:48:46+02:00
-  focus_distance: 167.86
-- image_filename: P8050038.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.07955555555556
-  lon: 23.848652777777776
-  altitude: 145.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-05 11:40:28+02:00
-  focus_distance: 1000.0
-- image_filename: P8050036.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.07955555555556
-  lon: 23.848583333333334
-  altitude: 145.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-05 11:39:58+02:00
-  focus_distance: 1000.0
-- image_filename: P8050222.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.12040277777778
-  lon: 23.72383333333333
-  altitude: 139.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-08-05 19:38:34+02:00
-  focus_distance: 96.83
-- image_filename: P8050067.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.068847222222225
-  lon: 23.877833333333335
-  altitude: 143.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4510
-  height: 3029
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-05 12:04:58+02:00
-  focus_distance: 1000.0
-- image_filename: P8050120.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.046569444444444
-  lon: 23.85343055555556
-  altitude: 168.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4503
-  height: 3280
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-08-05 12:56:23+02:00
-  focus_distance: 1000.0
-- image_filename: P8050152.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-08-05 17:28:49+02:00
-  focus_distance: 4.11
-- image_filename: P8050094.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.06601388888889
-  lon: 23.879486111111113
-  altitude: 144.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 2929
-  height: 4435
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-05 12:30:45+02:00
-  focus_distance: 12.65
-- image_filename: P8050238.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.115430555555555
-  lon: 23.717013888888886
-  altitude: 151.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 3335
-  height: 4540
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2018-08-05 19:56:21+02:00
-  focus_distance: 10.84
+  time: 2018-08-05 11:03:43.000000000+02:00
 - image_filename: P8050011.jpg
   post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
   lat: 53.10491666666667
@@ -845,123 +26,177 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
   iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-05 11:11:20+02:00
-  focus_distance: 1000.0
-- image_filename: P8050236.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.117805555555556
-  lon: 23.720388888888888
-  altitude: 143.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4435
-  height: 3319
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-08-05 19:51:32+02:00
-  focus_distance: 1.47
-- image_filename: P8050084.jpg
-  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.06613888888889
-  lon: 23.880166666666668
-  altitude: 144.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  width: 4463
-  height: 3244
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-05 12:15:57+02:00
-  focus_distance: 1000.0
-- image_filename: P8050106.jpg
+  time: 2018-08-05 11:11:20.000000000+02:00
+- image_filename: P8050012.jpg
   post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.06594444444444
-  lon: 23.879444444444445
-  altitude: 142.0
+  lat: 53.10205555555556
+  lon: 23.807291666666668
+  altitude: 152.0
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.2
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2018-08-05 12:35:07+02:00
-  focus_distance: 202.93
-- image_filename: P8050234.jpg
+  focus_distance: 1000.0
+  iso: 200
+  width: 4560
+  height: 3366
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 11:13:11.000000000+02:00
+- image_filename: P8050016.jpg
   post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.118833333333335
-  lon: 23.72175
-  altitude: 142.0
-  focal_length: 60.0
-  focal_length_35: 120.0
+  lat: 53.09883333333334
+  lon: 23.813875
+  altitude: 148.0
+  focal_length: 20.0
+  focal_length_35: 40.0
   crop: 2.0
   aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
   iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
+  width: 4559
+  height: 3361
+  lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  width: 4274
-  height: 3198
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-08-05 19:49:33+02:00
-  focus_distance: 107.49
-- image_filename: P8050130.jpg
+  time: 2018-08-05 11:16:12.000000000+02:00
+- image_filename: P8050021.jpg
   post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.03798611111111
-  lon: 23.784430555555556
-  altitude: 155.0
+  lat: 53.08890277777778
+  lon: 23.821986111111112
+  altitude: 151.0
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
   iso: 200
+  width: 4140
+  height: 3118
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-05 13:33:10+02:00
-  focus_distance: 1000.0
-- image_filename: P8050165.jpg
+  time: 2018-08-05 11:25:21.000000000+02:00
+- image_filename: P8050028.jpg
   post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
-  lat: 53.11276388888889
-  lon: 23.737180555555558
-  altitude: 142.0
-  focal_length: 60.0
-  focal_length_35: 120.0
+  lat: 53.08213888888889
+  lon: 23.840055555555555
+  altitude: 146.0
+  focal_length: 20.0
+  focal_length_35: 40.0
   crop: 2.0
-  aperture: 2.8
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 11.13
   iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
+  width: 4379
+  height: 3275
+  lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
+  time: 2018-08-05 11:34:31.000000000+02:00
+- image_filename: P8050030.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.081652777777784
+  lon: 23.840902777777778
+  altitude: 146.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 22.09
+  iso: 200
   width: 4640
   height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2018-08-05 19:00:25+02:00
-  focus_distance: 128.79
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 11:34:48.000000000+02:00
+- image_filename: P8050034.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.079750000000004
+  lon: 23.84636111111111
+  altitude: 146.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4467
+  height: 3341
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 11:38:05.000000000+02:00
+- image_filename: P8050036.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.07955555555556
+  lon: 23.848583333333334
+  altitude: 145.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 11:39:58.000000000+02:00
+- image_filename: P8050038.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.07955555555556
+  lon: 23.848652777777776
+  altitude: 145.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 11:40:28.000000000+02:00
+- image_filename: P8050045.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.078319444444446
+  lon: 23.86577777777778
+  altitude: 143.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4577
+  height: 3386
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 11:48:41.000000000+02:00
 - image_filename: P8050053.jpg
   post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
   lat: 53.07845833333334
@@ -971,12 +206,777 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 2.5
-  iso: 200
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4517
-  height: 3391
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2018-08-05 11:53:40+02:00
   focus_distance: 14.96
+  iso: 200
+  width: 4517
+  height: 3391
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 11:53:40.000000000+02:00
+- image_filename: P8050060.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.078430555555556
+  lon: 23.86711111111111
+  altitude: 143.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 11:55:11.000000000+02:00
+- image_filename: P8050063.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.07845833333334
+  lon: 23.867069444444446
+  altitude: 143.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.56
+  iso: 200
+  width: 4508
+  height: 3397
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 11:55:44.000000000+02:00
+- image_filename: P8050066.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.069861111111116
+  lon: 23.877041666666667
+  altitude: 142.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:03:31.000000000+02:00
+- image_filename: P8050067.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.068847222222225
+  lon: 23.877833333333335
+  altitude: 143.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4510
+  height: 3029
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:04:58.000000000+02:00
+- image_filename: P8050070.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.066402777777775
+  lon: 23.879583333333333
+  altitude: 148.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4510
+  height: 3293
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:06:57.000000000+02:00
+- image_filename: P8050078.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.06623611111111
+  lon: 23.88176388888889
+  altitude: 140.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:10:17.000000000+02:00
+- image_filename: P8050084.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.06613888888889
+  lon: 23.880166666666668
+  altitude: 144.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4463
+  height: 3244
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:15:57.000000000+02:00
+- image_filename: P8050085.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.06597222222222
+  lon: 23.879944444444444
+  altitude: 145.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4330
+  height: 3285
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:28:45.000000000+02:00
+- image_filename: P8050089.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.06595833333333
+  lon: 23.879916666666666
+  altitude: 144.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 2583
+  height: 4156
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:29:40.000000000+02:00
+- image_filename: P8050094.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.06601388888889
+  lon: 23.879486111111113
+  altitude: 144.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 12.65
+  iso: 200
+  width: 2929
+  height: 4435
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:30:45.000000000+02:00
+- image_filename: P8050103.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.06594444444444
+  lon: 23.879402777777777
+  altitude: 143.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4426
+  height: 3165
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:32:55.000000000+02:00
+- image_filename: P8050106.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.06594444444444
+  lon: 23.879444444444445
+  altitude: 142.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 202.93
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:35:07.000000000+02:00
+- image_filename: P8050110.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.05488888888888
+  lon: 23.86698611111111
+  altitude: 163.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4425
+  height: 3311
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:46:37.000000000+02:00
+- image_filename: P8050113.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.05444444444444
+  lon: 23.86601388888889
+  altitude: 162.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4444
+  height: 3193
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:47:03.000000000+02:00
+- image_filename: P8050119.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.05108333333333
+  lon: 23.859458333333336
+  altitude: 167.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:51:51.000000000+02:00
+- image_filename: P8050120.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.046569444444444
+  lon: 23.85343055555556
+  altitude: 168.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4503
+  height: 3280
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 12:56:23.000000000+02:00
+- image_filename: P8050126.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.035805555555555
+  lon: 23.83888888888889
+  altitude: 170.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.49
+  iso: 200
+  width: 4510
+  height: 3373
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 13:05:01.000000000+02:00
+- image_filename: P8050128.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.035152777777775
+  lon: 23.797069444444446
+  altitude: 166.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4612
+  height: 3451
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 13:25:24.000000000+02:00
+- image_filename: P8050130.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.03798611111111
+  lon: 23.784430555555556
+  altitude: 155.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 13:33:10.000000000+02:00
+- image_filename: P8050132.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.03798611111111
+  lon: 23.784430555555556
+  altitude: 155.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 17.4
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 13:33:32.000000000+02:00
+- image_filename: P8050133.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.03795833333333
+  lon: 23.783611111111114
+  altitude: 154.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 14.35
+  iso: 200
+  width: 4535
+  height: 3329
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 13:38:27.000000000+02:00
+- image_filename: P8050135.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.038069444444446
+  lon: 23.78111111111111
+  altitude: 157.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4390
+  height: 3258
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 13:39:50.000000000+02:00
+- image_filename: P8050136.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.08368055555556
+  lon: 23.705875
+  altitude: 151.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 18.78
+  iso: 200
+  width: 4479
+  height: 3352
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 14:11:23.000000000+02:00
+- image_filename: P8050140.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.08866666666667
+  lon: 23.698666666666668
+  altitude: 152.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4595
+  height: 3413
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 14:14:47.000000000+02:00
+- image_filename: P8050143.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.09290277777778
+  lon: 23.678625
+  altitude: 148.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 103.96
+  iso: 200
+  width: 4459
+  height: 3389
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 14:21:27.000000000+02:00
+- image_filename: P8050146.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.095263888888894
+  lon: 23.664416666666664
+  altitude: 149.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 26.16
+  iso: 200
+  width: 2943
+  height: 4531
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 15:29:27.000000000+02:00
+- image_filename: P8050152.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 4.11
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 17:28:49.000000000+02:00
+- image_filename: P8050156.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.89
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 17:43:19.000000000+02:00
+- image_filename: P8050161.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.57
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 17:54:19.000000000+02:00
+- image_filename: P8050165.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.11276388888889
+  lon: 23.737180555555558
+  altitude: 142.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 128.79
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 19:00:25.000000000+02:00
+- image_filename: P8050170_01.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.115180555555554
+  lon: 23.737819444444444
+  altitude: 140.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 284.02
+  iso: 200
+  width: 4415
+  height: 3302
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 19:05:39.000000000+02:00
+- image_filename: P8050179.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.119083333333336
+  lon: 23.737444444444446
+  altitude: 143.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.2
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 0.55
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 19:14:01.000000000+02:00
+- image_filename: P8050184.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.120194444444444
+  lon: 23.73604166666667
+  altitude: 144.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 107.49
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 19:17:22.000000000+02:00
+- image_filename: P8050217.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.120555555555555
+  lon: 23.724083333333333
+  altitude: 139.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 192.72
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 19:37:43.000000000+02:00
+- image_filename: P8050222.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.12040277777778
+  lon: 23.72383333333333
+  altitude: 139.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 96.83
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 19:38:34.000000000+02:00
+- image_filename: P8050228.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.12025
+  lon: 23.723666666666666
+  altitude: 139.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 157.21
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 19:41:04.000000000+02:00
+- image_filename: P8050233.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.11918055555556
+  lon: 23.72222222222222
+  altitude: 141.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 167.86
+  iso: 200
+  width: 4433
+  height: 3317
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 19:48:46.000000000+02:00
+- image_filename: P8050234.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.118833333333335
+  lon: 23.72175
+  altitude: 142.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 107.49
+  iso: 200
+  width: 4274
+  height: 3198
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 19:49:33.000000000+02:00
+- image_filename: P8050236.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.117805555555556
+  lon: 23.720388888888888
+  altitude: 143.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1.47
+  iso: 200
+  width: 4435
+  height: 3319
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 19:51:32.000000000+02:00
+- image_filename: P8050238.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.115430555555555
+  lon: 23.717013888888886
+  altitude: 151.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 10.84
+  iso: 200
+  width: 3335
+  height: 4540
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-08-05 19:56:21.000000000+02:00
+- image_filename: P8050249.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.113
+  lon: 23.726152777777777
+  altitude: 149.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4094
+  height: 2799
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 20:07:20.000000000+02:00
+- image_filename: P8050258.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.11291666666667
+  lon: 23.72747222222222
+  altitude: 148.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 20:10:33.000000000+02:00
+- image_filename: P8050261.jpg
+  post_slug: 2018-08-05-swisloczany-i-granica-z-bialorusia
+  lat: 53.11259722222222
+  lon: 23.733944444444447
+  altitude: 148.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 43.95
+  iso: 200
+  width: 4484
+  height: 3258
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  time: 2018-08-05 20:17:03.000000000+02:00

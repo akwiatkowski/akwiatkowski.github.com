@@ -1,13 +1,13 @@
 ---
 - image_filename: header.jpg
   post_slug: 2017-07-06-popoludniowa-ucieczka-do-szamotul
-  lat: 52.51239777777778
-  lon: 16.69586361111111
+  lat: 52.51239722222222
+  lon: 16.69586388888889
   altitude: 79.0
   focal_length: 3.5
   aperture: 2.2
+  exposure: 481.0
+  exposure_string: 0.000481 s
   iso: 116
   camera: Redmi Note 3
-  exposure: 0.000481000481000481
-  exposure_string: 1/2079 s
-  time: 2017-07-06 17:37:48+02:00
+  time: 2017-07-06 17:37:48.000000000+02:00

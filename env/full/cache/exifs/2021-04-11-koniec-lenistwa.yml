@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-04-11-koniec-lenistwa
 - image_filename: 2021_04_11__13_42__4112753.jpg
   post_slug: 2021-04-11-koniec-lenistwa
   lat: 52.480402777777776
@@ -37,24 +35,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-04-11 14:31:35.000000000+02:00
-- image_filename: 2021_04_11__14_42__4112764.jpg
-  post_slug: 2021-04-11-koniec-lenistwa
-  lat: 52.541694444444445
-  lon: 17.227388888888886
-  altitude: 81.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 9.85
-  iso: 200
-  width: 5139
-  height: 3837
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-04-11 14:42:45.000000000+02:00
 - image_filename: 2021_04_11__14_31__4112760.jpg
   post_slug: 2021-04-11-koniec-lenistwa
   lat: 52.548944444444444
@@ -73,6 +53,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-04-11 14:31:40.000000000+02:00
+- image_filename: 2021_04_11__14_42__4112764.jpg
+  post_slug: 2021-04-11-koniec-lenistwa
+  lat: 52.541694444444445
+  lon: 17.227388888888886
+  altitude: 81.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 9.85
+  iso: 200
+  width: 5139
+  height: 3837
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-11 14:42:45.000000000+02:00
 - image_filename: 2021_04_11__14_43__4112767.jpg
   post_slug: 2021-04-11-koniec-lenistwa
   lat: 52.541875
@@ -199,24 +197,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-04-11 16:48:52.000000000+02:00
-- image_filename: 2021_04_11__16_55__4112793.jpg
-  post_slug: 2021-04-11-koniec-lenistwa
-  lat: 52.584250000000004
-  lon: 17.033652777777778
-  altitude: 58.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 31.88
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-04-11 16:55:00.000000000+02:00
 - image_filename: 2021_04_11__16_49__4112792.jpg
   post_slug: 2021-04-11-koniec-lenistwa
   lat: 52.57879166666667
@@ -235,6 +215,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-04-11 16:49:21.000000000+02:00
+- image_filename: 2021_04_11__16_55__4112793.jpg
+  post_slug: 2021-04-11-koniec-lenistwa
+  lat: 52.584250000000004
+  lon: 17.033652777777778
+  altitude: 58.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 31.88
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-11 16:55:00.000000000+02:00
 - image_filename: 2021_04_11__16_55__4112798.jpg
   post_slug: 2021-04-11-koniec-lenistwa
   lat: 52.58486111111112

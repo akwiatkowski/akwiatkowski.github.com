@@ -1,213 +1,213 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.445166388888886
-  lon: 20.269343888888887
-  altitude: 526.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-07-22 17:32:20+02:00
 - image_filename: IMGP3508raw1.jpg
   post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.45441
-  lon: 20.27129361111111
+  lat: 49.45441111111111
+  lon: 20.271294444444443
   altitude: 561.5
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-22 16:59:57+02:00
-- image_filename: IMGP3530raw1.jpg
-  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.44638222222222
-  lon: 20.26925888888889
-  altitude: 526.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-22 17:19:17+02:00
-- image_filename: IMGP3557raw1.jpg
-  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.45915416666667
-  lon: 20.284093333333335
-  altitude: 597.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-07-22 18:10:03+02:00
-- image_filename: IMGP3571raw1.jpg
-  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.46092083333333
-  lon: 20.27886611111111
-  altitude: 608.2
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-22 18:18:37+02:00
-- image_filename: IMGP3575raw1.jpg
-  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.46127805555556
-  lon: 20.277960277777776
-  altitude: 612.5
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-22 18:20:44+02:00
-- image_filename: IMGP3532raw1.jpg
-  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.446328611111106
-  lon: 20.269103055555554
-  altitude: 526.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-07-22 17:20:01+02:00
+  time: 2016-07-22 16:59:57.000000000+02:00
 - image_filename: IMGP3512raw1.jpg
   post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.45353472222222
-  lon: 20.271022499999997
+  lat: 49.45353333333333
+  lon: 20.27102222222222
   altitude: 558.2
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2016-07-22 17:01:47+02:00
-- image_filename: IMGP3554raw1.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-22 17:01:47.000000000+02:00
+- image_filename: IMGP3530raw1.jpg
   post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.45857166666667
-  lon: 20.28464638888889
-  altitude: 594.7
+  lat: 49.44638333333333
+  lon: 20.269258333333333
+  altitude: 526.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
+  aperture: 10.0
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-07-22 18:08:39+02:00
-- image_filename: IMGP3555raw1.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-22 17:19:17.000000000+02:00
+- image_filename: IMGP3532raw1.jpg
   post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.45857166666667
-  lon: 20.28464638888889
-  altitude: 594.7
+  lat: 49.446327777777775
+  lon: 20.26910277777778
+  altitude: 526.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
-  iso: 100
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
   camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2016-07-22 18:08:41+02:00
-- image_filename: IMGP3552raw1.jpg
-  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.458174444444445
-  lon: 20.285028055555557
-  altitude: 591.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2016-07-22 18:07:44+02:00
-- image_filename: IMGP3559raw1.jpg
-  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.45943444444445
-  lon: 20.2837825
-  altitude: 598.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-22 18:10:50+02:00
-- image_filename: IMGP3544raw1.jpg
-  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.45337472222222
-  lon: 20.281713611111112
-  altitude: 556.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-22 17:55:34+02:00
+  time: 2016-07-22 17:20:01.000000000+02:00
 - image_filename: IMGP3536raw1.jpg
   post_slug: 2016-07-22-spacer-po-okolicy-maniowy
-  lat: 49.446396111111106
-  lon: 20.269346944444443
+  lat: 49.44639722222222
+  lon: 20.269347222222223
   altitude: 525.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2016-07-22 17:23:03+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-22 17:23:03.000000000+02:00
+- image_filename: IMGP3544raw1.jpg
+  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
+  lat: 49.453375
+  lon: 20.281713888888888
+  altitude: 556.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-22 17:55:34.000000000+02:00
+- image_filename: IMGP3552raw1.jpg
+  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
+  lat: 49.458175000000004
+  lon: 20.28502777777778
+  altitude: 591.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-22 18:07:44.000000000+02:00
+- image_filename: IMGP3554raw1.jpg
+  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
+  lat: 49.45857222222222
+  lon: 20.284647222222222
+  altitude: 594.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-22 18:08:39.000000000+02:00
+- image_filename: IMGP3555raw1.jpg
+  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
+  lat: 49.45857222222222
+  lon: 20.284647222222222
+  altitude: 594.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-22 18:08:41.000000000+02:00
+- image_filename: IMGP3557raw1.jpg
+  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
+  lat: 49.45915555555556
+  lon: 20.284094444444445
+  altitude: 597.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-22 18:10:03.000000000+02:00
+- image_filename: IMGP3559raw1.jpg
+  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
+  lat: 49.45943333333334
+  lon: 20.283783333333336
+  altitude: 598.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-22 18:10:50.000000000+02:00
 - image_filename: IMGP3566raw1.jpg
   post_slug: 2016-07-22-spacer-po-okolicy-maniowy
   lat: 49.46049444444445
-  lon: 20.280710833333334
+  lon: 20.28071111111111
   altitude: 592.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-07-22 18:14:50+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-22 18:14:50.000000000+02:00
+- image_filename: IMGP3571raw1.jpg
+  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
+  lat: 49.46092222222222
+  lon: 20.278866666666666
+  altitude: 608.2
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-22 18:18:37.000000000+02:00
+- image_filename: IMGP3575raw1.jpg
+  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
+  lat: 49.46127777777778
+  lon: 20.27796111111111
+  altitude: 612.5
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2016-07-22 18:20:44.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-07-22-spacer-po-okolicy-maniowy
+  lat: 49.445166666666665
+  lon: 20.269344444444442
+  altitude: 526.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-07-22 17:32:20.000000000+02:00

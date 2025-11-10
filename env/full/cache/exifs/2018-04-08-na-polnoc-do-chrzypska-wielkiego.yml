@@ -1,18 +1,4 @@
 ---
-- image_filename: IMGP6416raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.389944444444446
-  lon: 16.27698611111111
-  altitude: 98.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-04-08 11:31:42+02:00
 - image_filename: IMGP6394raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
   lat: 52.36526388888889
@@ -22,193 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-04-08 11:10:09+02:00
-- image_filename: IMGP6396raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.36751388888889
-  lon: 16.25336111111111
-  altitude: 115.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-04-08 11:13:06+02:00
-- image_filename: IMGP6433raw2.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.394305555555555
-  lon: 16.284361111111114
-  altitude: 102.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-04-08 11:34:59+02:00
-- image_filename: IMGP6446raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.42993055555555
-  lon: 16.297736111111114
-  altitude: 93.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-08 12:14:50+02:00
-- image_filename: IMGP6450raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.44334722222222
-  lon: 16.296444444444447
-  altitude: 90.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-04-08 12:27:40+02:00
-- image_filename: IMGP6453raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.445902777777775
-  lon: 16.297444444444444
-  altitude: 91.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-04-08 12:28:33+02:00
-- image_filename: IMGP6461raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.45241666666667
-  lon: 16.299986111111114
-  altitude: 93.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-04-08 12:30:47+02:00
-- image_filename: IMGP6469raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.551180555555554
-  lon: 16.246555555555556
-  altitude: 98.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-04-08 14:26:36+02:00
-- image_filename: IMGP6478raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.609236111111116
-  lon: 16.24191666666667
-  altitude: 46.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2018-04-08 15:08:18+02:00
-- image_filename: IMGP6481raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.60925
-  lon: 16.24191666666667
-  altitude: 46.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-04-08 15:08:51+02:00
-- image_filename: IMGP6488raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.61544444444445
-  lon: 16.250680555555554
-  altitude: 50.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-04-08 15:25:21+02:00
-- image_filename: IMGP6511raw2.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.656277777777774
-  lon: 16.30298611111111
-  altitude: 74.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-08 16:13:19+02:00
-- image_filename: IMGP6465raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.49681944444445
-  lon: 16.284513888888892
-  altitude: 92.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-04-08 12:48:00+02:00
-- image_filename: IMGP6475raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.60925
-  lon: 16.241875
-  altitude: 46.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-08 15:07:38+02:00
+  time: 2018-04-08 11:10:09.000000000+02:00
 - image_filename: IMGP6395raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
   lat: 52.366416666666666
@@ -218,81 +22,25 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2018-04-08 11:12:34+02:00
-- image_filename: IMGP6429raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.39272222222222
-  lon: 16.281569444444443
-  altitude: 108.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-04-08 11:34:12+02:00
-- image_filename: IMGP6476raw1.jpg
+  time: 2018-04-08 11:12:34.000000000+02:00
+- image_filename: IMGP6396raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.609236111111116
-  lon: 16.241861111111113
-  altitude: 46.0
+  lat: 52.36751388888889
+  lon: 16.25336111111111
+  altitude: 115.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2018-04-08 15:08:00+02:00
-- image_filename: IMGP6464raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.453986111111114
-  lon: 16.300597222222223
-  altitude: 93.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-04-08 12:31:21+02:00
-- image_filename: IMGP6473raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.58133333333333
-  lon: 16.248583333333336
-  altitude: 96.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-04-08 14:43:52+02:00
-- image_filename: IMGP6421raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.391333333333336
-  lon: 16.278972222222222
-  altitude: 104.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 14.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-04-08 11:32:36+02:00
+  time: 2018-04-08 11:13:06.000000000+02:00
 - image_filename: IMGP6407raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
   lat: 52.38458333333333
@@ -302,25 +50,39 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-04-08 11:28:32+02:00
-- image_filename: IMGP6426raw2.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 11:28:32.000000000+02:00
+- image_filename: IMGP6416raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.391888888888886
-  lon: 16.280027777777775
-  altitude: 106.0
+  lat: 52.389944444444446
+  lon: 16.27698611111111
+  altitude: 98.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
+  aperture: 8.0
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-04-08 11:33:37+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 11:31:42.000000000+02:00
+- image_filename: IMGP6421raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.391333333333336
+  lon: 16.278972222222222
+  altitude: 104.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 14.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2018-04-08 11:32:36.000000000+02:00
 - image_filename: IMGP6426raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
   lat: 52.391888888888886
@@ -330,11 +92,53 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-04-08 11:33:37+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 11:33:37.000000000+02:00
+- image_filename: IMGP6426raw2.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.391888888888886
+  lon: 16.280027777777775
+  altitude: 106.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 11:33:37.000000000+02:00
+- image_filename: IMGP6429raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.39272222222222
+  lon: 16.281569444444443
+  altitude: 108.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 11:34:12.000000000+02:00
+- image_filename: IMGP6433raw2.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.394305555555555
+  lon: 16.284361111111114
+  altitude: 102.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2018-04-08 11:34:59.000000000+02:00
 - image_filename: IMGP6442raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
   lat: 52.40986111111111
@@ -344,95 +148,25 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-04-08 11:52:18+02:00
-- image_filename: IMGP6458raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.44995833333333
-  lon: 16.29901388888889
-  altitude: 92.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-04-08 12:29:53+02:00
-- image_filename: IMGP6484raw1.jpg
+  time: 2018-04-08 11:52:18.000000000+02:00
+- image_filename: IMGP6446raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.60925
-  lon: 16.24188888888889
-  altitude: 46.0
+  lat: 52.42993055555555
+  lon: 16.297736111111114
+  altitude: 93.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 16.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-04-08 15:10:24+02:00
-- image_filename: IMGP6452raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.44434722222222
-  lon: 16.296833333333336
-  altitude: 91.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-04-08 12:28:02+02:00
-- image_filename: IMGP6466raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.51031944444444
-  lon: 16.25448611111111
-  altitude: 94.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
+  aperture: 9.0
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-04-08 13:09:52+02:00
-- image_filename: IMGP6456raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.44772222222222
-  lon: 16.29815277777778
-  altitude: 91.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-04-08 12:29:07+02:00
-- image_filename: IMGP6501raw1.jpg
-  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
-  lat: 52.641375
-  lon: 16.284819444444445
-  altitude: 54.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-08 16:03:13+02:00
+  time: 2018-04-08 12:14:50.000000000+02:00
 - image_filename: IMGP6449raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
   lat: 52.44273611111111
@@ -442,11 +176,277 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2018-04-08 12:27:27+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 12:27:27.000000000+02:00
+- image_filename: IMGP6450raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.44334722222222
+  lon: 16.296444444444447
+  altitude: 90.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 12:27:40.000000000+02:00
+- image_filename: IMGP6452raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.44434722222222
+  lon: 16.296833333333336
+  altitude: 91.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 12:28:02.000000000+02:00
+- image_filename: IMGP6453raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.445902777777775
+  lon: 16.297444444444444
+  altitude: 91.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 12:28:33.000000000+02:00
+- image_filename: IMGP6456raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.44772222222222
+  lon: 16.29815277777778
+  altitude: 91.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 12:29:07.000000000+02:00
+- image_filename: IMGP6458raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.44995833333333
+  lon: 16.29901388888889
+  altitude: 92.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 12:29:53.000000000+02:00
+- image_filename: IMGP6461raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.45241666666667
+  lon: 16.299986111111114
+  altitude: 93.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-08 12:30:47.000000000+02:00
+- image_filename: IMGP6464raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.453986111111114
+  lon: 16.300597222222223
+  altitude: 93.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 12:31:21.000000000+02:00
+- image_filename: IMGP6465raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.49681944444445
+  lon: 16.284513888888892
+  altitude: 92.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 12:48:00.000000000+02:00
+- image_filename: IMGP6466raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.51031944444444
+  lon: 16.25448611111111
+  altitude: 94.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 13:09:52.000000000+02:00
+- image_filename: IMGP6469raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.551180555555554
+  lon: 16.246555555555556
+  altitude: 98.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 14:26:36.000000000+02:00
+- image_filename: IMGP6473raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.58133333333333
+  lon: 16.248583333333336
+  altitude: 96.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 14:43:52.000000000+02:00
+- image_filename: IMGP6475raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.60925
+  lon: 16.241875
+  altitude: 46.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 15:07:38.000000000+02:00
+- image_filename: IMGP6476raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.609236111111116
+  lon: 16.241861111111113
+  altitude: 46.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 15:08:00.000000000+02:00
+- image_filename: IMGP6478raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.609236111111116
+  lon: 16.24191666666667
+  altitude: 46.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-08 15:08:18.000000000+02:00
+- image_filename: IMGP6481raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.60925
+  lon: 16.24191666666667
+  altitude: 46.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-08 15:08:51.000000000+02:00
+- image_filename: IMGP6484raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.60925
+  lon: 16.24188888888889
+  altitude: 46.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 16.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-08 15:10:24.000000000+02:00
+- image_filename: IMGP6488raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.61544444444445
+  lon: 16.250680555555554
+  altitude: 50.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 15:25:21.000000000+02:00
+- image_filename: IMGP6501raw1.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.641375
+  lon: 16.284819444444445
+  altitude: 54.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 16:03:13.000000000+02:00
+- image_filename: IMGP6511raw2.jpg
+  post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
+  lat: 52.656277777777774
+  lon: 16.30298611111111
+  altitude: 74.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 16:13:19.000000000+02:00
 - image_filename: IMGP6513raw1.jpg
   post_slug: 2018-04-08-na-polnoc-do-chrzypska-wielkiego
   lat: 52.65763888888889
@@ -456,8 +456,8 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-04-08 16:13:58+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-08 16:13:58.000000000+02:00

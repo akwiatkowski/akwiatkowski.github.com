@@ -1,20 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
-  lat: 50.83043055555556
-  lon: 15.521319444444446
-  altitude: 681.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2016-11-13 13:55:14+01:00
 - image_filename: IMGP8986raw1.jpg
   post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
   lat: 50.813986111111106
@@ -24,53 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 13.0
   exposure_string: 13 s
-  time: 2016-11-13 16:04:50+01:00
-- image_filename: IMGP8993raw1.jpg
-  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
-  lat: 50.814027777777774
-  lon: 15.496875
-  altitude: 816.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 16.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 20.0
-  exposure_string: 20 s
-  time: 2016-11-13 16:12:15+01:00
-- image_filename: IMGP9011raw1.jpg
-  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
-  lat: 50.813986111111106
-  lon: 15.496569444444443
-  altitude: 814.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2016-11-13 16:29:55+01:00
-- image_filename: IMGP9022raw1.jpg
-  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
-  lat: 50.82216666666667
-  lon: 15.520347222222224
-  altitude: 661.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 20.0
-  exposure_string: 20 s
-  time: 2016-11-13 17:47:46+01:00
+  time: 2016-11-13 16:04:50.000000000+01:00
 - image_filename: IMGP8992raw1.jpg
   post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
   lat: 50.813986111111106
@@ -80,11 +22,25 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 10.0
   exposure_string: 10 s
-  time: 2016-11-13 16:11:40+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-13 16:11:40.000000000+01:00
+- image_filename: IMGP8993raw1.jpg
+  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
+  lat: 50.814027777777774
+  lon: 15.496875
+  altitude: 816.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 16.0
+  exposure: 20.0
+  exposure_string: 20 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-13 16:12:15.000000000+01:00
 - image_filename: IMGP9007raw1.jpg
   post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
   lat: 50.814027777777774
@@ -94,8 +50,52 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 13.0
   exposure_string: 13 s
-  time: 2016-11-13 16:27:30+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-13 16:27:30.000000000+01:00
+- image_filename: IMGP9011raw1.jpg
+  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
+  lat: 50.813986111111106
+  lon: 15.496569444444443
+  altitude: 814.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 2.0
+  exposure_string: 2 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-13 16:29:55.000000000+01:00
+- image_filename: IMGP9022raw1.jpg
+  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
+  lat: 50.82216666666667
+  lon: 15.520347222222224
+  altitude: 661.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 14.0
+  exposure: 20.0
+  exposure_string: 20 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-11-13 17:47:46.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
+  lat: 50.83043055555556
+  lon: 15.521319444444446
+  altitude: 681.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-11-13 13:55:14.000000000+01:00

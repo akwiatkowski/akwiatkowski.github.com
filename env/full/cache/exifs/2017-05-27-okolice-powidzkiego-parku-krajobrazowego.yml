@@ -1,15 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-05-27 14:27:18+02:00
 - image_filename: IMGP6764raw1.jpg
   post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
   lat: 52.324847222222225
@@ -19,137 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2017-05-27 08:22:04+02:00
-- image_filename: IMGP6792raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.39961111111111
-  lon: 17.94954166666667
-  altitude: 102.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-05-27 09:27:51+02:00
-- image_filename: IMGP6801raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.40618055555555
-  lon: 17.999180555555558
-  altitude: 110.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-05-27 09:45:39+02:00
-- image_filename: IMGP6821raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.54197222222222
-  lon: 18.14452777777778
-  altitude: 98.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2017-05-27 11:42:33+02:00
-- image_filename: IMGP6825raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.542680555555556
-  lon: 18.143444444444444
-  altitude: 98.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2017-05-27 11:43:05+02:00
-- image_filename: IMGP6833raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.56419444444444
-  lon: 18.005305555555555
-  altitude: 103.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-05-27 14:25:24+02:00
-- image_filename: IMGP6842raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.56326388888888
-  lon: 17.991555555555557
-  altitude: 81.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2017-05-27 14:33:52+02:00
-- image_filename: IMGP6855raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.581986111111114
-  lon: 17.992305555555557
-  altitude: 93.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2017-05-27 14:45:41+02:00
-- image_filename: IMGP6868raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.59634722222223
-  lon: 17.965374999999998
-  altitude: 102.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-05-27 14:54:06+02:00
-- image_filename: IMGP6798raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.40361111111111
-  lon: 17.997722222222222
-  altitude: 112.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-05-27 09:44:52+02:00
+  time: 2017-05-27 08:22:04.000000000+02:00
 - image_filename: IMGP6779raw1.jpg
   post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
   lat: 52.39961111111111
@@ -159,67 +22,53 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2017-05-27 09:25:52+02:00
-- image_filename: IMGP6829raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.56740277777778
-  lon: 18.008972222222223
-  altitude: 90.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 200
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-05-27 14:21:20+02:00
-- image_filename: IMGP6866raw1.jpg
+  time: 2017-05-27 09:25:52.000000000+02:00
+- image_filename: IMGP6792raw1.jpg
   post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.59561111111111
-  lon: 17.967152777777777
+  lat: 52.39961111111111
+  lon: 17.94954166666667
   altitude: 102.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 8.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2017-05-27 14:53:49+02:00
-- image_filename: IMGP6860raw1.jpg
+  time: 2017-05-27 09:27:51.000000000+02:00
+- image_filename: IMGP6798raw1.jpg
   post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.58847222222222
-  lon: 17.98829166666667
-  altitude: 100.0
+  lat: 52.40361111111111
+  lon: 17.997722222222222
+  altitude: 112.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-05-27 14:49:39+02:00
-- image_filename: IMGP6850raw1.jpg
-  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
-  lat: 52.56326388888888
-  lon: 17.99159722222222
-  altitude: 81.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2017-05-27 14:35:50+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 09:44:52.000000000+02:00
+- image_filename: IMGP6801raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.40618055555555
+  lon: 17.999180555555558
+  altitude: 110.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 09:45:39.000000000+02:00
 - image_filename: IMGP6804raw1.jpg
   post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
   lat: 52.41327777777778
@@ -229,11 +78,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2017-05-27 10:13:08+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 10:13:08.000000000+02:00
 - image_filename: IMGP6812raw1.jpg
   post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
   lat: 52.45495833333334
@@ -243,8 +92,159 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2017-05-27 10:46:18+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 10:46:18.000000000+02:00
+- image_filename: IMGP6821raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.54197222222222
+  lon: 18.14452777777778
+  altitude: 98.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-05-27 11:42:33.000000000+02:00
+- image_filename: IMGP6825raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.542680555555556
+  lon: 18.143444444444444
+  altitude: 98.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 11:43:05.000000000+02:00
+- image_filename: IMGP6829raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.56740277777778
+  lon: 18.008972222222223
+  altitude: 90.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-05-27 14:21:20.000000000+02:00
+- image_filename: IMGP6833raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.56419444444444
+  lon: 18.005305555555555
+  altitude: 103.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 14:25:24.000000000+02:00
+- image_filename: IMGP6842raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.56326388888888
+  lon: 17.991555555555557
+  altitude: 81.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 14:33:52.000000000+02:00
+- image_filename: IMGP6850raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.56326388888888
+  lon: 17.99159722222222
+  altitude: 81.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-05-27 14:35:50.000000000+02:00
+- image_filename: IMGP6855raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.581986111111114
+  lon: 17.992305555555557
+  altitude: 93.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 14:45:41.000000000+02:00
+- image_filename: IMGP6860raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.58847222222222
+  lon: 17.98829166666667
+  altitude: 100.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 14:49:39.000000000+02:00
+- image_filename: IMGP6866raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.59561111111111
+  lon: 17.967152777777777
+  altitude: 102.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 14:53:49.000000000+02:00
+- image_filename: IMGP6868raw1.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.59634722222223
+  lon: 17.965374999999998
+  altitude: 102.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 14:54:06.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-05-27 14:27:18.000000000+02:00

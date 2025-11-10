@@ -1,143 +1,143 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.245559166666666
-  lon: 17.52288361111111
-  altitude: 107.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-07-30 12:15:49+02:00
 - image_filename: IMGP3632raw1.jpg
   post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.081345000000006
-  lon: 16.879735
+  lat: 53.08134444444445
+  lon: 16.87973611111111
   altitude: 79.0
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-30 08:41:51+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-30 08:41:51.000000000+02:00
 - image_filename: IMGP3637raw1.jpg
   post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.08456277777778
-  lon: 16.972206666666665
+  lat: 53.084563888888894
+  lon: 16.972205555555554
   altitude: 57.8
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-30 09:02:02+02:00
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-30 09:02:02.000000000+02:00
 - image_filename: IMGP3644raw1.jpg
   post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.10878694444445
-  lon: 17.2122275
+  lat: 53.108786111111115
+  lon: 17.212227777777777
   altitude: 64.6
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-07-30 10:04:02+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-30 10:04:02.000000000+02:00
 - image_filename: IMGP3649raw1.jpg
   post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.19440916666667
+  lat: 53.19440833333333
   lon: 17.308227777777777
   altitude: 98.2
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-07-30 11:06:32+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-30 11:06:32.000000000+02:00
 - image_filename: IMGP3653raw1.jpg
   post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.194404444444444
-  lon: 17.308297500000002
+  lat: 53.194405555555555
+  lon: 17.308297222222222
   altitude: 98.7
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-30 11:07:30+02:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-07-30 11:07:30.000000000+02:00
 - image_filename: IMGP3656raw1.jpg
   post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.24556444444445
-  lon: 17.522863055555554
+  lat: 53.24556388888889
+  lon: 17.52286388888889
   altitude: 106.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2016-07-30 12:14:42+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-30 12:14:42.000000000+02:00
 - image_filename: IMGP3663raw1.jpg
   post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.258920277777776
+  lat: 53.258919444444444
   lon: 17.684969444444445
   altitude: 99.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-30 13:01:19+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-30 13:01:19.000000000+02:00
 - image_filename: IMGP3666raw1.jpg
   post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.23510138888889
-  lon: 17.787323333333337
+  lat: 53.235102777777776
+  lon: 17.787322222222222
   altitude: 109.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2016-07-30 13:25:40+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-30 13:25:40.000000000+02:00
 - image_filename: IMGP3669raw1.jpg
   post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
-  lat: 53.18229861111111
-  lon: 17.867759166666666
+  lat: 53.1823
+  lon: 17.867758333333335
   altitude: 71.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-07-30 13:49:52+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-30 13:49:52.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad
+  lat: 53.245558333333335
+  lon: 17.522883333333333
+  altitude: 107.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-07-30 12:15:49.000000000+02:00

@@ -1,37 +1,49 @@
 ---
-- image_filename: 2019_07_03__21_09__7031610.jpg
+- image_filename: 2019_07_03__10_25__7031319.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.765569444444445
-  lon: 19.457166666666666
-  altitude: 232.0
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
-  aperture: 8.0
-  iso: 200
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 100
+  width: 3714
+  height: 5221
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
-  width: 5104
-  height: 3740
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2019-07-03 21:09:58+02:00
-  focus_distance: 1000.0
+  time: 2019-07-03 10:25:36.000000000+02:00
 - image_filename: 2019_07_03__10_26__7031324.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
   aperture: 3.5
-  iso: 100
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3802
-  height: 5228
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2019-07-03 10:26:19+02:00
   focus_distance: 1000.0
+  iso: 100
+  width: 3802
+  height: 5228
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 10:26:19.000000000+02:00
+- image_filename: 2019_07_03__10_28__7031329.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 100
+  width: 5096
+  height: 3714
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 10:28:34.000000000+02:00
 - image_filename: 2019_07_03__16_21__7031339.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
   lat: 51.773624999999996
@@ -41,696 +53,15 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
   iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
   width: 5070
   height: 3843
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-07-03 16:21:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__16_28__7031351.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.77276388888889
-  lon: 19.444208333333332
-  altitude: 216.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
-  width: 3703
-  height: 5150
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-07-03 16:28:14+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__16_28__7031353.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.77275
-  lon: 19.444569444444443
-  altitude: 216.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-07-03 16:28:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__16_34__7031366.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.772666666666666
-  lon: 19.44825
-  altitude: 216.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-07-03 16:34:55+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__17_36__7031406.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.663888888888884
-  lon: 19.364291666666666
-  altitude: 183.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-07-03 17:36:20+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__17_42__7031433.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.664569444444446
-  lon: 19.359375
-  altitude: 176.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5208
-  height: 3868
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-07-03 17:42:21+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_43__7031514.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.753305555555556
-  lon: 19.478166666666667
-  altitude: 198.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-07-03 18:43:08+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_51__7031535.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.754694444444446
-  lon: 19.48338888888889
-  altitude: 201.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5158
-  height: 3884
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-07-03 18:51:25+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_59__7031557.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.75769444444445
-  lon: 19.482166666666664
-  altitude: 204.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5030
-  height: 3754
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-07-03 18:59:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__19_06__7031566.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76226388888889
-  lon: 19.48048611111111
-  altitude: 203.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4858
-  height: 3682
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-07-03 19:06:36+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__19_06__7031568.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76218055555555
-  lon: 19.480152777777775
-  altitude: 203.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4931
-  height: 3699
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-07-03 19:06:56+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__19_11__7031577.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76291666666667
-  lon: 19.476180555555555
-  altitude: 201.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-07-03 19:11:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__19_16__7031585.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76347222222222
-  lon: 19.471638888888886
-  altitude: 204.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-07-03 19:16:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__20_58__7031602.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76445833333333
-  lon: 19.461916666666667
-  altitude: 226.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2019-07-03 20:58:14+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__16_22__7031343.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.774
-  lon: 19.440541666666668
-  altitude: 215.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5132
-  height: 3906
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-07-03 16:22:51+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_44__7031519.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.753083333333336
-  lon: 19.47848611111111
-  altitude: 198.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-07-03 18:44:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_58__7031553.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.757083333333334
-  lon: 19.48234722222222
-  altitude: 204.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5016
-  height: 3670
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-07-03 18:58:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_38__7031511.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.75181944444444
-  lon: 19.473611111111108
-  altitude: 192.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4975
-  height: 3900
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-07-03 18:38:16+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__19_08__7031573.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.762027777777774
-  lon: 19.47876388888889
-  altitude: 201.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4918
-  height: 3867
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-07-03 19:08:26+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__21_14__7031612.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76690277777778
-  lon: 19.454208333333334
-  altitude: 227.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5055
-  height: 3709
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2019-07-03 21:14:19+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_53__7031543.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.75604166666667
-  lon: 19.482430555555553
-  altitude: 202.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-07-03 18:53:58+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__21_01__7031608.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76561111111111
-  lon: 19.45925
-  altitude: 237.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4714
-  height: 3894
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2019-07-03 21:01:48+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_05__7031493.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.70048611111111
-  lon: 19.414708333333333
-  altitude: 189.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-07-03 18:05:58+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_43__7031517.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.75304166666667
-  lon: 19.478402777777777
-  altitude: 198.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-07-03 18:43:52+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_49__7031529.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.75416666666667
-  lon: 19.482999999999997
-  altitude: 201.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3548
-  height: 5158
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-07-03 18:49:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__16_28__7031354.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.77275
-  lon: 19.444791666666667
-  altitude: 216.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5038
-  height: 3898
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-07-03 16:28:40+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__19_15__7031581.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76358333333334
-  lon: 19.472819444444443
-  altitude: 203.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-07-03 19:15:10+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__19_11__7031576.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.762680555555555
-  lon: 19.476208333333332
-  altitude: 200.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4874
-  height: 3666
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-07-03 19:11:03+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_49__7031527.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.753972222222224
-  lon: 19.482499999999998
-  altitude: 201.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4634
-  height: 3615
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-07-03 18:49:10+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__17_19__7031379.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.68930555555555
-  lon: 19.40623611111111
-  altitude: 190.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.5
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4867
-  height: 3303
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-07-03 17:19:49+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__17_42__7031430.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.66447222222222
-  lon: 19.359402777777778
-  altitude: 177.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3653
-  height: 5040
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-07-03 17:42:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__16_34__7031365.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.772597222222224
-  lon: 19.448305555555557
-  altitude: 216.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3787
-  height: 5148
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-07-03 16:34:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__19_07__7031569.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76204166666667
-  lon: 19.47986111111111
-  altitude: 202.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3800
-  height: 5222
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-07-03 19:07:22+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__17_42__7031431.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.66448611111111
-  lon: 19.359416666666668
-  altitude: 177.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-07-03 17:42:05+02:00
-  focus_distance: 15.0
-- image_filename: 2019_07_03__16_23__7031344.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.77386111111111
-  lon: 19.441208333333332
-  altitude: 215.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5209
-  height: 3868
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-07-03 16:23:40+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__19_06__7031564.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.76223611111111
-  lon: 19.48072222222222
-  altitude: 204.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4866
-  height: 3819
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-07-03 19:06:17+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__17_51__7031448.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.66334722222222
-  lon: 19.391069444444444
-  altitude: 196.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3841
-  height: 5195
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-07-03 17:51:45+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__18_43__7031516.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.75302777777778
-  lon: 19.478291666666664
-  altitude: 198.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-07-03 18:43:40+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_07_03__10_28__7031329.jpg
-  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 100
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5096
-  height: 3714
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-07-03 10:28:34+02:00
-  focus_distance: 1000.0
+  time: 2019-07-03 16:21:44.000000000+02:00
 - image_filename: 2019_07_03__16_22__7031342.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
   lat: 51.77363888888889
@@ -740,33 +71,51 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3738
-  height: 5102
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-07-03 16:22:22+02:00
   focus_distance: 1000.0
-- image_filename: 2019_07_03__18_49__7031528.jpg
+  iso: 200
+  width: 3738
+  height: 5102
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 16:22:22.000000000+02:00
+- image_filename: 2019_07_03__16_22__7031343.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.753972222222224
-  lon: 19.48251388888889
-  altitude: 201.0
+  lat: 51.774
+  lon: 19.440541666666668
+  altitude: 215.0
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
   aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
   iso: 200
+  width: 5132
+  height: 3906
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
-  width: 4900
-  height: 3615
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-07-03 18:49:11+02:00
+  time: 2019-07-03 16:22:51.000000000+02:00
+- image_filename: 2019_07_03__16_23__7031344.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.77386111111111
+  lon: 19.441208333333332
+  altitude: 215.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.04
+  exposure_string: 1/25 s
   focus_distance: 1000.0
+  iso: 200
+  width: 5209
+  height: 3868
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 16:23:40.000000000+02:00
 - image_filename: 2019_07_03__16_25__7031346.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
   lat: 51.77254166666667
@@ -776,33 +125,105 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4990
-  height: 3598
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-07-03 16:25:51+02:00
   focus_distance: 1000.0
-- image_filename: 2019_07_03__19_21__7031592.jpg
+  iso: 200
+  width: 4990
+  height: 3598
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 16:25:51.000000000+02:00
+- image_filename: 2019_07_03__16_28__7031351.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
-  lat: 51.764472222222224
-  lon: 19.466569444444445
-  altitude: 208.0
+  lat: 51.77276388888889
+  lon: 19.444208333333332
+  altitude: 216.0
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
   iso: 200
+  width: 3703
+  height: 5150
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
-  width: 4988
-  height: 3735
+  time: 2019-07-03 16:28:14.000000000+02:00
+- image_filename: 2019_07_03__16_28__7031353.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.77275
+  lon: 19.444569444444443
+  altitude: 216.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 16:28:29.000000000+02:00
+- image_filename: 2019_07_03__16_28__7031354.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.77275
+  lon: 19.444791666666667
+  altitude: 216.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-07-03 19:21:31+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5038
+  height: 3898
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 16:28:40.000000000+02:00
+- image_filename: 2019_07_03__16_34__7031365.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.772597222222224
+  lon: 19.448305555555557
+  altitude: 216.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3787
+  height: 5148
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 16:34:50.000000000+02:00
+- image_filename: 2019_07_03__16_34__7031366.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.772666666666666
+  lon: 19.44825
+  altitude: 216.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 16:34:55.000000000+02:00
 - image_filename: 2019_07_03__16_36__7031371.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
   lat: 51.77326388888889
@@ -812,15 +233,429 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5061
-  height: 3865
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-07-03 16:36:11+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5061
+  height: 3865
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 16:36:11.000000000+02:00
+- image_filename: 2019_07_03__17_19__7031379.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.68930555555555
+  lon: 19.40623611111111
+  altitude: 190.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4867
+  height: 3303
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 17:19:49.000000000+02:00
+- image_filename: 2019_07_03__17_36__7031406.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.663888888888884
+  lon: 19.364291666666666
+  altitude: 183.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.5
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 17:36:20.000000000+02:00
+- image_filename: 2019_07_03__17_42__7031430.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.66447222222222
+  lon: 19.359402777777778
+  altitude: 177.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3653
+  height: 5040
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 17:42:00.000000000+02:00
+- image_filename: 2019_07_03__17_42__7031431.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.66448611111111
+  lon: 19.359416666666668
+  altitude: 177.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 15.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 17:42:05.000000000+02:00
+- image_filename: 2019_07_03__17_42__7031433.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.664569444444446
+  lon: 19.359375
+  altitude: 176.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5208
+  height: 3868
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 17:42:21.000000000+02:00
+- image_filename: 2019_07_03__17_51__7031448.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.66334722222222
+  lon: 19.391069444444444
+  altitude: 196.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3841
+  height: 5195
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 17:51:45.000000000+02:00
+- image_filename: 2019_07_03__18_05__7031493.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.70048611111111
+  lon: 19.414708333333333
+  altitude: 189.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:05:58.000000000+02:00
+- image_filename: 2019_07_03__18_38__7031511.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.75181944444444
+  lon: 19.473611111111108
+  altitude: 192.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4975
+  height: 3900
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:38:16.000000000+02:00
+- image_filename: 2019_07_03__18_43__7031514.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.753305555555556
+  lon: 19.478166666666667
+  altitude: 198.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:43:08.000000000+02:00
+- image_filename: 2019_07_03__18_43__7031516.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.75302777777778
+  lon: 19.478291666666664
+  altitude: 198.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:43:40.000000000+02:00
+- image_filename: 2019_07_03__18_43__7031517.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.75304166666667
+  lon: 19.478402777777777
+  altitude: 198.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:43:52.000000000+02:00
+- image_filename: 2019_07_03__18_44__7031519.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.753083333333336
+  lon: 19.47848611111111
+  altitude: 198.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:44:00.000000000+02:00
+- image_filename: 2019_07_03__18_49__7031527.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.753972222222224
+  lon: 19.482499999999998
+  altitude: 201.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4634
+  height: 3615
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:49:10.000000000+02:00
+- image_filename: 2019_07_03__18_49__7031528.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.753972222222224
+  lon: 19.48251388888889
+  altitude: 201.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4900
+  height: 3615
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:49:11.000000000+02:00
+- image_filename: 2019_07_03__18_49__7031529.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.75416666666667
+  lon: 19.482999999999997
+  altitude: 201.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3548
+  height: 5158
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:49:47.000000000+02:00
+- image_filename: 2019_07_03__18_51__7031535.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.754694444444446
+  lon: 19.48338888888889
+  altitude: 201.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5158
+  height: 3884
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:51:25.000000000+02:00
+- image_filename: 2019_07_03__18_53__7031543.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.75604166666667
+  lon: 19.482430555555553
+  altitude: 202.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:53:58.000000000+02:00
+- image_filename: 2019_07_03__18_58__7031553.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.757083333333334
+  lon: 19.48234722222222
+  altitude: 204.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5016
+  height: 3670
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:58:44.000000000+02:00
+- image_filename: 2019_07_03__18_59__7031557.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.757694444444446
+  lon: 19.482166666666664
+  altitude: 204.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5030
+  height: 3754
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 18:59:31.000000000+02:00
+- image_filename: 2019_07_03__19_06__7031564.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76223611111111
+  lon: 19.48072222222222
+  altitude: 204.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4866
+  height: 3819
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:06:17.000000000+02:00
+- image_filename: 2019_07_03__19_06__7031566.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76226388888889
+  lon: 19.48048611111111
+  altitude: 203.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4858
+  height: 3682
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:06:36.000000000+02:00
+- image_filename: 2019_07_03__19_06__7031568.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76218055555555
+  lon: 19.480152777777775
+  altitude: 203.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4931
+  height: 3699
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:06:56.000000000+02:00
+- image_filename: 2019_07_03__19_07__7031569.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76204166666667
+  lon: 19.47986111111111
+  altitude: 202.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3800
+  height: 5222
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:07:22.000000000+02:00
 - image_filename: 2019_07_03__19_08__7031572.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
   lat: 51.762027777777774
@@ -830,15 +665,105 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5060
-  height: 3779
   exposure: 0.04
   exposure_string: 1/25 s
-  time: 2019-07-03 19:08:19+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 5060
+  height: 3779
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:08:19.000000000+02:00
+- image_filename: 2019_07_03__19_08__7031573.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.762027777777774
+  lon: 19.47876388888889
+  altitude: 201.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4918
+  height: 3867
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:08:26.000000000+02:00
+- image_filename: 2019_07_03__19_11__7031576.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.762680555555555
+  lon: 19.476208333333332
+  altitude: 200.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4874
+  height: 3666
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:11:03.000000000+02:00
+- image_filename: 2019_07_03__19_11__7031577.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76291666666667
+  lon: 19.476180555555555
+  altitude: 201.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:11:18.000000000+02:00
+- image_filename: 2019_07_03__19_15__7031581.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76358333333334
+  lon: 19.472819444444443
+  altitude: 203.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:15:10.000000000+02:00
+- image_filename: 2019_07_03__19_16__7031585.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76347222222222
+  lon: 19.471638888888886
+  altitude: 204.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:16:18.000000000+02:00
 - image_filename: 2019_07_03__19_18__7031590.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
   lat: 51.76331944444444
@@ -848,27 +773,102 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-07-03 19:18:28+02:00
   focus_distance: 1000.0
-- image_filename: 2019_07_03__10_25__7031319.jpg
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 19:18:28.000000000+02:00
+- image_filename: 2019_07_03__19_21__7031592.jpg
   post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.764472222222224
+  lon: 19.466569444444445
+  altitude: 208.0
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
-  aperture: 3.5
-  iso: 100
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4988
+  height: 3735
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
-  width: 3714
-  height: 5221
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-07-03 10:25:36+02:00
+  time: 2019-07-03 19:21:31.000000000+02:00
+- image_filename: 2019_07_03__20_58__7031602.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76445833333333
+  lon: 19.461916666666667
+  altitude: 226.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 625.0
+  exposure_string: 0.625 s
   focus_distance: 1000.0
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 20:58:14.000000000+02:00
+- image_filename: 2019_07_03__21_01__7031608.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76561111111111
+  lon: 19.45925
+  altitude: 237.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4714
+  height: 3894
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 21:01:48.000000000+02:00
+- image_filename: 2019_07_03__21_09__7031610.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.765569444444445
+  lon: 19.457166666666666
+  altitude: 232.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5104
+  height: 3740
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 21:09:58.000000000+02:00
+- image_filename: 2019_07_03__21_14__7031612.jpg
+  post_slug: 2019-07-03-lodz-i-linia-tramwajowa-41
+  lat: 51.76690277777778
+  lon: 19.454208333333334
+  altitude: 227.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5055
+  height: 3709
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-07-03 21:14:19.000000000+02:00

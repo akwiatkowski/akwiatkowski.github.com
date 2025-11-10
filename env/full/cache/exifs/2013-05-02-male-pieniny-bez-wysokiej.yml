@@ -1,300 +1,300 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.395649166666665
-  lon: 20.540117222222225
-  altitude: 752.4
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-05-02 14:23:09+02:00
 - image_filename: IMGP1045b.jpg
   post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.405764166666664
-  lon: 20.566556944444446
+  lat: 49.405763888888885
+  lon: 20.566558333333333
   altitude: 606.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-05-01 18:32:13+02:00
+  time: 2013-05-01 18:32:13.000000000+02:00
+- image_filename: IMGP1047b.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.405763888888885
+  lon: 20.566558333333333
+  altitude: 606.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-05-01 18:32:15.000000000+02:00
 - image_filename: IMGP1074b.jpg
   post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.40587166666666
-  lon: 20.54735416666667
+  lat: 49.40587222222222
+  lon: 20.54735555555556
   altitude: 564.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-05-02 08:30:15+02:00
-- image_filename: IMGP1168b.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.38473583333333
-  lon: 20.557020277777777
-  altitude: 832.6
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-05-02 09:57:38+02:00
-- image_filename: IMGP1203c.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.38724833333333
-  lon: 20.536799444444448
-  altitude: 898.5
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-05-02 11:10:50+02:00
-- image_filename: IMGP1268c.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.39053555555555
-  lon: 20.536081666666668
-  altitude: 849.5
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-05-02 14:08:51+02:00
-- image_filename: IMGP1338b.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.39564583333333
-  lon: 20.539915833333335
-  altitude: 753.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-05-02 14:22:49+02:00
-- image_filename: IMGP1347b.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.39599861111111
-  lon: 20.541045
-  altitude: 743.2
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-05-02 14:26:23+02:00
-- image_filename: IMGP1339b.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.395649166666665
-  lon: 20.540117222222225
-  altitude: 752.4
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-05-02 14:23:09+02:00
-- image_filename: IMGP1151b.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.38583722222222
-  lon: 20.556515833333336
-  altitude: 804.8
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-05-02 09:49:33+02:00
-- image_filename: IMGP1047b.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.405764166666664
-  lon: 20.566556944444446
-  altitude: 606.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-05-01 18:32:15+02:00
-- image_filename: IMGP1150b.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.38583722222222
-  lon: 20.556515833333336
-  altitude: 804.8
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2013-05-02 09:49:28+02:00
+  time: 2013-05-02 08:30:15.000000000+02:00
 - image_filename: IMGP1093b.jpg
   post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.404312777777776
+  lat: 49.404313888888886
   lon: 20.548030555555556
   altitude: 573.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2013-05-02 08:34:45.000000000+02:00
+- image_filename: IMGP1142b.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.38826111111111
+  lon: 20.555205555555556
+  altitude: 750.5
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 4.5
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2013-05-02 08:34:45+02:00
+  iso: 200
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-05-02 09:40:43.000000000+02:00
+- image_filename: IMGP1146b.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.38637222222222
+  lon: 20.556275
+  altitude: 793.7
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-05-02 09:47:30.000000000+02:00
+- image_filename: IMGP1150b.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.38583611111111
+  lon: 20.556516666666667
+  altitude: 804.8
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-05-02 09:49:28.000000000+02:00
+- image_filename: IMGP1151b.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.38583611111111
+  lon: 20.556516666666667
+  altitude: 804.8
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-05-02 09:49:33.000000000+02:00
+- image_filename: IMGP1168b.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.38473611111111
+  lon: 20.557019444444446
+  altitude: 832.6
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-05-02 09:57:38.000000000+02:00
+- image_filename: IMGP1203c.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.38724722222222
+  lon: 20.536800000000003
+  altitude: 898.5
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-05-02 11:10:50.000000000+02:00
 - image_filename: IMGP1240c.jpg
   post_slug: 2013-05-02-male-pieniny-bez-wysokiej
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-05-02 12:10:07+02:00
-- image_filename: IMGP1309c.jpg
+  time: 2013-05-02 12:10:07.000000000+02:00
+- image_filename: IMGP1268c.jpg
   post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.39216
-  lon: 20.537827500000002
-  altitude: 812.5
+  lat: 49.39053611111111
+  lon: 20.536080555555557
+  altitude: 849.5
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
-  aperture: 4.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-05-02 14:14:51+02:00
-- image_filename: IMGP1347d.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.39599861111111
-  lon: 20.541045
-  altitude: 743.2
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-05-02 14:26:23+02:00
-- image_filename: IMGP1142b.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.388260833333334
-  lon: 20.55520638888889
-  altitude: 750.5
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2013-05-02 09:40:43+02:00
+  time: 2013-05-02 14:08:51.000000000+02:00
 - image_filename: IMGP1298b.jpg
   post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.3908525
+  lat: 49.39085277777778
   lon: 20.53618888888889
   altitude: 844.2
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
+  time: 2013-05-02 14:11:30.000000000+02:00
+- image_filename: IMGP1309c.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.39216111111111
+  lon: 20.53782777777778
+  altitude: 812.5
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-02 14:14:51.000000000+02:00
+- image_filename: IMGP1338b.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.39564722222222
+  lon: 20.539916666666667
+  altitude: 753.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2013-05-02 14:11:30+02:00
-- image_filename: IMGP1146b.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.38637277777778
-  lon: 20.556274444444444
-  altitude: 793.7
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 5.6
   iso: 200
-  lens: smc PENTAX-DA 35mm F2.4 AL
+  lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-05-02 09:47:30+02:00
+  time: 2013-05-02 14:22:49.000000000+02:00
+- image_filename: IMGP1339b.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.395649999999996
+  lon: 20.54011666666667
+  altitude: 752.4
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-02 14:23:09.000000000+02:00
 - image_filename: IMGP1344b.jpg
   post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.39560111111111
-  lon: 20.540536944444447
+  lat: 49.3956
+  lon: 20.540536111111113
   altitude: 749.0
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-05-02 14:24:40+02:00
+  time: 2013-05-02 14:24:40.000000000+02:00
+- image_filename: IMGP1347b.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.39599722222222
+  lon: 20.541044444444445
+  altitude: 743.2
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-02 14:26:23.000000000+02:00
+- image_filename: IMGP1347d.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.39599722222222
+  lon: 20.541044444444445
+  altitude: 743.2
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-02 14:26:23.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.395649999999996
+  lon: 20.54011666666667
+  altitude: 752.4
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 2048
+  height: 1356
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-02 14:23:09.000000000+02:00

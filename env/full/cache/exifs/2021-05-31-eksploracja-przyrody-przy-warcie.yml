@@ -1,24 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-- image_filename: 2021_05_31__17_00__5317975.jpg
-  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.10208333333333
-  lon: 17.328055555555554
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 3.02
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-31 17:00:08.000000000+02:00
 - image_filename: 2021_05_31__16_59__5317972.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.10209722222223
@@ -37,24 +17,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-31 16:59:58.000000000+02:00
-- image_filename: 2021_05_31__17_03__5317986.jpg
+- image_filename: 2021_05_31__17_00__5317975.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.10098611111111
-  lon: 17.32523611111111
+  lat: 52.10208333333333
+  lon: 17.328055555555554
   altitude: 4294967296.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 9.34
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.02
   iso: 200
-  width: 3965
-  height: 2830
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-31 17:03:24.000000000+02:00
+  time: 2021-05-31 17:00:08.000000000+02:00
 - image_filename: 2021_05_31__17_01__5317983.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.10208333333333
@@ -73,6 +53,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-31 17:01:31.000000000+02:00
+- image_filename: 2021_05_31__17_03__5317986.jpg
+  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
+  lat: 52.10098611111111
+  lon: 17.32523611111111
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 9.34
+  iso: 200
+  width: 3965
+  height: 2830
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-31 17:03:24.000000000+02:00
 - image_filename: 2021_05_31__17_07__5318003.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.10098611111111
@@ -145,24 +143,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-31 17:17:17.000000000+02:00
-- image_filename: 2021_05_31__17_19__5318023.jpg
-  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.097972222222225
-  lon: 17.326041666666665
-  altitude: 0.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1.58
-  iso: 200
-  width: 3079
-  height: 2493
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-31 17:19:12.000000000+02:00
 - image_filename: 2021_05_31__17_19__5318020.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.098
@@ -181,6 +161,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-31 17:19:08.000000000+02:00
+- image_filename: 2021_05_31__17_19__5318023.jpg
+  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
+  lat: 52.097972222222225
+  lon: 17.326041666666665
+  altitude: 0.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.58
+  iso: 200
+  width: 3079
+  height: 2493
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-31 17:19:12.000000000+02:00
 - image_filename: 2021_05_31__17_20__5318026.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09759722222223
@@ -217,24 +215,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-31 17:22:10.000000000+02:00
-- image_filename: 2021_05_31__17_32__5318045.jpg
-  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.09498611111111
-  lon: 17.333194444444445
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.19
-  iso: 200
-  width: 5131
-  height: 3830
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-31 17:32:32.000000000+02:00
 - image_filename: 2021_05_31__17_22__5318034.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09759722222223
@@ -253,6 +233,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-31 17:22:34.000000000+02:00
+- image_filename: 2021_05_31__17_32__5318045.jpg
+  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
+  lat: 52.09498611111111
+  lon: 17.333194444444445
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.19
+  iso: 200
+  width: 5131
+  height: 3830
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-31 17:32:32.000000000+02:00
 - image_filename: 2021_05_31__17_40__5318068.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09498611111111
@@ -307,24 +305,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-31 17:45:44.000000000+02:00
-- image_filename: 2021_05_31__17_55__5318112.jpg
-  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.09498611111111
-  lon: 17.33320833333333
-  altitude: 4294967296.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 0.52
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-31 17:55:54.000000000+02:00
 - image_filename: 2021_05_31__17_53__5318102.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09498611111111
@@ -343,6 +323,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-31 17:53:10.000000000+02:00
+- image_filename: 2021_05_31__17_55__5318112.jpg
+  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
+  lat: 52.09498611111111
+  lon: 17.33320833333333
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.52
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-31 17:55:54.000000000+02:00
 - image_filename: 2021_05_31__17_59__5318118.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09498611111111
@@ -361,24 +359,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-31 17:59:28.000000000+02:00
-- image_filename: 2021_05_31__18_15__5318156.jpg
-  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.09243055555556
-  lon: 17.33556944444444
-  altitude: 4294967296.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  focus_distance: 2.43
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  time: 2021-05-31 18:15:37.000000000+02:00
 - image_filename: 2021_05_31__18_15__5318154.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09243055555556
@@ -397,42 +377,24 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   time: 2021-05-31 18:15:25.000000000+02:00
-- image_filename: 2021_05_31__18_25__5318180.jpg
+- image_filename: 2021_05_31__18_15__5318156.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.09129166666667
-  lon: 17.34272222222222
-  altitude: 0.0
+  lat: 52.09243055555556
+  lon: 17.33556944444444
+  altitude: 4294967296.0
   focal_length: 75.0
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  focus_distance: 1.71
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  focus_distance: 2.43
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
-  time: 2021-05-31 18:25:26.000000000+02:00
-- image_filename: 2021_05_31__18_22__5318174.jpg
-  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.09129166666667
-  lon: 17.34273611111111
-  altitude: 0.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5076
-  height: 3789
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-31 18:22:39.000000000+02:00
+  time: 2021-05-31 18:15:37.000000000+02:00
 - image_filename: 2021_05_31__18_15__5318160.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09243055555556
@@ -451,6 +413,42 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   time: 2021-05-31 18:15:49.000000000+02:00
+- image_filename: 2021_05_31__18_22__5318174.jpg
+  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
+  lat: 52.09129166666667
+  lon: 17.34273611111111
+  altitude: 0.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5076
+  height: 3789
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-31 18:22:39.000000000+02:00
+- image_filename: 2021_05_31__18_25__5318180.jpg
+  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
+  lat: 52.09129166666667
+  lon: 17.34272222222222
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  focus_distance: 1.71
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  time: 2021-05-31 18:25:26.000000000+02:00
 - image_filename: 2021_05_31__18_25__5318184.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09129166666667
@@ -559,24 +557,6 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   time: 2021-05-31 18:28:29.000000000+02:00
-- image_filename: 2021_05_31__18_30__5318225.jpg
-  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.09129166666667
-  lon: 17.34272222222222
-  altitude: 0.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  focus_distance: 1.12
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  time: 2021-05-31 18:30:20.000000000+02:00
 - image_filename: 2021_05_31__18_29__5318222.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09129166666667
@@ -595,6 +575,24 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   time: 2021-05-31 18:29:52.000000000+02:00
+- image_filename: 2021_05_31__18_30__5318225.jpg
+  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
+  lat: 52.09129166666667
+  lon: 17.34272222222222
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  focus_distance: 1.12
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  time: 2021-05-31 18:30:20.000000000+02:00
 - image_filename: 2021_05_31__18_31__5318230.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.09129166666667
@@ -703,24 +701,6 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   time: 2021-05-31 19:43:31.000000000+02:00
-- image_filename: 2021_05_31__19_45__5318283.jpg
-  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
-  lat: 52.07020833333333
-  lon: 17.35027777777778
-  altitude: 12.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1.61
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  time: 2021-05-31 19:45:46.000000000+02:00
 - image_filename: 2021_05_31__19_45__5318280.jpg
   post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
   lat: 52.07020833333333
@@ -739,3 +719,21 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   time: 2021-05-31 19:45:42.000000000+02:00
+- image_filename: 2021_05_31__19_45__5318283.jpg
+  post_slug: 2021-05-31-eksploracja-przyrody-przy-warcie
+  lat: 52.07020833333333
+  lon: 17.35027777777778
+  altitude: 12.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1.61
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  time: 2021-05-31 19:45:46.000000000+02:00

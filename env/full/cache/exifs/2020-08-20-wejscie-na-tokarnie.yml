@@ -1,979 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-- image_filename: 2020_08_20__13_30__8208641.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42476388888889
-  lon: 22.049597222222225
-  altitude: 594.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 500
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4964
-  height: 3678
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-20 13:30:27+02:00
-  focus_distance: 0.26
-- image_filename: 2020_08_20__11_04__8208291.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42611111111111
-  lon: 22.04740277777778
-  altitude: 631.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-20 11:04:48+02:00
-  focus_distance: 82.33
-- image_filename: 2020_08_20__11_01__8208280.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42558333333333
-  lon: 22.048236111111112
-  altitude: 613.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-20 11:01:49+02:00
-  focus_distance: 34.93
-- image_filename: 2020_08_20__11_27__8208339.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42819444444444
-  lon: 22.044305555555557
-  altitude: 715.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-20 11:27:23+02:00
-  focus_distance: 1.75
-- image_filename: 2020_08_20__11_16__8208326.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42725
-  lon: 22.046819444444445
-  altitude: 659.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-20 11:16:50+02:00
-  focus_distance: 118.72
-- image_filename: 2020_08_20__11_09__8208303.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42663888888889
-  lon: 22.04690277777778
-  altitude: 644.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4453
-  height: 3255
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-20 11:09:07+02:00
-  focus_distance: 0.63
-- image_filename: 2020_08_20__13_28__8208631.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42477777777778
-  lon: 22.049597222222225
-  altitude: 595.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 500
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4325
-  height: 3173
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-08-20 13:28:30+02:00
-  focus_distance: 0.28
-- image_filename: 2020_08_20__10_55__8208264.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42433333333333
-  lon: 22.05026388888889
-  altitude: 579.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-20 10:55:53+02:00
-  focus_distance: 8.07
-- image_filename: 2020_08_20__12_07_DSC02393.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43263888888889
-  lon: 22.032291666666666
-  altitude: 768.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 12:07:45+02:00
-- image_filename: 2020_08_20__13_30__8208649.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.424625
-  lon: 22.049819444444445
-  altitude: 592.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 500
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4857
-  height: 3537
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-20 13:30:55+02:00
-  focus_distance: 0.25
-- image_filename: 2020_08_20__13_25__8208617.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42488888888889
-  lon: 22.049472222222224
-  altitude: 597.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 500
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3438
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-20 13:25:21+02:00
-  focus_distance: 0.29
-- image_filename: 2020_08_20__11_58_DSC02366.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43266666666666
-  lon: 22.03245833333333
-  altitude: 764.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5677
-  height: 3373
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 11:58:25+02:00
-- image_filename: 2020_08_20__13_16_DSC02508.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.426430555555555
-  lon: 22.04738888888889
-  altitude: 643.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-08-20 13:16:33+02:00
-- image_filename: 2020_08_20__12_22__8208508.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43270833333333
-  lon: 22.032402777777776
-  altitude: 768.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4913
-  height: 3629
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-20 12:22:39+02:00
-  focus_distance: 0.28
-- image_filename: 2020_08_20__10_09_DSC02313.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.421680555555554
-  lon: 22.12488888888889
-  altitude: 431.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-20 10:09:54+02:00
-- image_filename: 2020_08_20__12_35__8208553.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.432624999999994
-  lon: 22.032194444444443
-  altitude: 771.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-08-20 12:35:04+02:00
-  focus_distance: 0.28
-- image_filename: 2020_08_20__12_34__8208547.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43268055555556
-  lon: 22.032430555555553
-  altitude: 770.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-20 12:34:31+02:00
-  focus_distance: 0.28
-- image_filename: 2020_08_20__13_24__8208613.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42488888888889
-  lon: 22.049472222222224
-  altitude: 597.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 500
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3816
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 13:24:49+02:00
-  focus_distance: 0.27
-- image_filename: 2020_08_20__12_21__8208497.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43272222222222
-  lon: 22.032402777777776
-  altitude: 767.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-08-20 12:21:44+02:00
-  focus_distance: 0.28
-- image_filename: 2020_08_20__10_53__8208260.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42361111111111
-  lon: 22.051819444444444
-  altitude: 561.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-20 10:53:35+02:00
-  focus_distance: 21.67
-- image_filename: 2020_08_20__11_54__8208403.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43209722222222
-  lon: 22.033055555555556
-  altitude: 762.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-20 11:54:11+02:00
-  focus_distance: 2.57
-- image_filename: 2020_08_20__11_57_DSC02362.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43268055555556
-  lon: 22.032430555555553
-  altitude: 765.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5783
-  height: 3847
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-20 11:57:36+02:00
-- image_filename: 2020_08_20__11_06__8208296.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42647222222222
-  lon: 22.04713888888889
-  altitude: 640.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-20 11:06:32+02:00
-  focus_distance: 18.7
-- image_filename: 2020_08_20__13_05__8208576.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42733333333333
-  lon: 22.04676388888889
-  altitude: 667.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-08-20 13:05:05+02:00
-  focus_distance: 21.33
-- image_filename: 2020_08_20__11_30__8208352.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.428152777777775
-  lon: 22.043277777777778
-  altitude: 726.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4358
-  height: 3064
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-20 11:30:34+02:00
-  focus_distance: 0.67
-- image_filename: 2020_08_20__11_32__8208357.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42809722222222
-  lon: 22.043041666666667
-  altitude: 729.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-20 11:32:14+02:00
-  focus_distance: 0.5
-- image_filename: 2020_08_20__11_37__8208379.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42886111111111
-  lon: 22.039583333333336
-  altitude: 750.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2020-08-20 11:37:37+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_08_20__11_57_DSC02363.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43268055555556
-  lon: 22.032430555555553
-  altitude: 765.0
-  focal_length: 287.6
-  focal_length_35: 287.0
-  crop: 0.9979137691237829
-  aperture: 8.0
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5029
-  height: 3376
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-20 11:57:43+02:00
-- image_filename: 2020_08_20__12_34__8208548.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43268055555556
-  lon: 22.032430555555553
-  altitude: 770.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-20 12:34:38+02:00
-  focus_distance: 0.27
-- image_filename: 2020_08_20__12_08_DSC02414.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43263888888889
-  lon: 22.03245833333333
-  altitude: 768.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 125
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 12:08:18+02:00
-- image_filename: 2020_08_20__12_33__8208543.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.432652777777776
-  lon: 22.032375
-  altitude: 770.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4378
-  height: 3042
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-20 12:33:50+02:00
-  focus_distance: 0.4
-- image_filename: 2020_08_20__11_48__8208399.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43154166666667
-  lon: 22.034472222222224
-  altitude: 755.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5094
-  height: 3802
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-20 11:48:54+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_08_20__10_57__8208267.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.424680555555554
-  lon: 22.049708333333335
-  altitude: 586.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-20 10:57:39+02:00
-  focus_distance: 20.98
-- image_filename: 2020_08_20__12_40__8208556.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43255555555555
-  lon: 22.032291666666666
-  altitude: 771.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4721
-  height: 3779
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-20 12:40:28+02:00
-  focus_distance: 23.01
-- image_filename: 2020_08_20__12_10_DSC02438.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.432652777777776
-  lon: 22.03245833333333
-  altitude: 768.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 12:10:16+02:00
-- image_filename: 2020_08_20__11_03__8208285.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.425888888888885
-  lon: 22.047777777777778
-  altitude: 622.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-20 11:03:10+02:00
-  focus_distance: 89.53
-- image_filename: 2020_08_20__12_07_DSC02396.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.432652777777776
-  lon: 22.03234722222222
-  altitude: 767.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 125
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 12:07:50+02:00
-- image_filename: 2020_08_20__11_55_DSC02357.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.432402777777774
-  lon: 22.03258333333333
-  altitude: 765.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5999
-  height: 3991
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 11:55:26+02:00
-- image_filename: 2020_08_20__11_03__8208288.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42597222222222
-  lon: 22.04763888888889
-  altitude: 625.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-20 11:03:29+02:00
-  focus_distance: 5.49
-- image_filename: 2020_08_20__11_43__8208394.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43018055555555
-  lon: 22.036722222222224
-  altitude: 745.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 11:43:48+02:00
-  focus_distance: 0.48
-- image_filename: 2020_08_20__12_22__8208507.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43270833333333
-  lon: 22.03238888888889
-  altitude: 769.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 640
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-20 12:22:34+02:00
-  focus_distance: 0.28
-- image_filename: 2020_08_20__12_07_DSC02389.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43263888888889
-  lon: 22.03209722222222
-  altitude: 769.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 125
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 12:07:30+02:00
-- image_filename: 2020_08_20__12_19__8208488.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43273611111111
-  lon: 22.032416666666666
-  altitude: 768.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 500
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4470
-  height: 3467
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-20 12:19:33+02:00
-  focus_distance: 0.25
-- image_filename: 2020_08_20__12_22__8208502.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43270833333333
-  lon: 22.032430555555553
-  altitude: 769.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-08-20 12:22:03+02:00
-  focus_distance: 0.25
-- image_filename: 2020_08_20__11_10__8208310.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42666666666666
-  lon: 22.04690277777778
-  altitude: 645.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-20 11:10:57+02:00
-  focus_distance: 0.64
-- image_filename: 2020_08_20__13_31__8208653.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42448611111111
-  lon: 22.050069444444446
-  altitude: 589.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 500
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-20 13:31:11+02:00
-  focus_distance: 0.19
-- image_filename: 2020_08_20__12_03__8208408.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43270833333333
-  lon: 22.032375
-  altitude: 766.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4728
-  height: 3303
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-20 12:03:24+02:00
-  focus_distance: 0.28
-- image_filename: 2020_08_20__11_03__8208283.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42583333333333
-  lon: 22.047875
-  altitude: 621.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-20 11:03:02+02:00
-  focus_distance: 14.96
-- image_filename: 2020_08_20__12_07_DSC02388.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.432624999999994
-  lon: 22.032055555555555
-  altitude: 769.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 12:07:26+02:00
-- image_filename: 2020_08_20__11_53_DSC02350.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43209722222222
-  lon: 22.033055555555556
-  altitude: 762.0
-  focal_length: 64.0
-  focal_length_35: 64.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-20 11:53:20+02:00
-- image_filename: 2020_08_20__13_16_DSC02509.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.426319444444445
-  lon: 22.04723611111111
-  altitude: 642.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2020-08-20 13:16:56+02:00
-- image_filename: 2020_08_20__12_52__8208569.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.428777777777775
-  lon: 22.039736111111115
-  altitude: 758.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-08-20 12:52:17+02:00
-  focus_distance: 0.45
-- image_filename: 2020_08_20__10_44_DSC02345.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.42183333333333
-  lon: 22.053694444444446
-  altitude: 513.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-08-20 10:44:10+02:00
-- image_filename: 2020_08_20__11_53_DSC02352.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43209722222222
-  lon: 22.033055555555556
-  altitude: 762.0
-  focal_length: 64.0
-  focal_length_35: 64.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-20 11:53:27+02:00
-- image_filename: 2020_08_20__11_58_DSC02369.jpg
-  post_slug: 2020-08-20-wejscie-na-tokarnie
-  lat: 49.43266666666666
-  lon: 22.03247222222222
-  altitude: 764.0
-  focal_length: 219.0
-  focal_length_35: 219.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5658
-  height: 3361
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-08-20 11:58:44+02:00
 - image_filename: 2020_08_20__10_03_DSC02294.jpg
   post_slug: 2020-08-20-wejscie-na-tokarnie
   lat: 49.382263888888886
@@ -983,11 +8,984 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5670
-  height: 3772
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-08-20 10:03:09+02:00
+  iso: 100
+  width: 5670
+  height: 3772
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-20 10:03:09.000000000+02:00
+- image_filename: 2020_08_20__10_09_DSC02313.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.421680555555554
+  lon: 22.12488888888889
+  altitude: 431.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-20 10:09:54.000000000+02:00
+- image_filename: 2020_08_20__10_44_DSC02345.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42183333333333
+  lon: 22.053694444444446
+  altitude: 513.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-20 10:44:10.000000000+02:00
+- image_filename: 2020_08_20__10_53__8208260.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42361111111111
+  lon: 22.051819444444444
+  altitude: 561.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 21.67
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 10:53:35.000000000+02:00
+- image_filename: 2020_08_20__10_55__8208264.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42433333333333
+  lon: 22.05026388888889
+  altitude: 579.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.07
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 10:55:53.000000000+02:00
+- image_filename: 2020_08_20__10_57__8208267.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.424680555555554
+  lon: 22.049708333333335
+  altitude: 586.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.98
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 10:57:39.000000000+02:00
+- image_filename: 2020_08_20__11_01__8208280.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42558333333333
+  lon: 22.048236111111112
+  altitude: 613.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 34.93
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:01:49.000000000+02:00
+- image_filename: 2020_08_20__11_03__8208283.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42583333333333
+  lon: 22.047875
+  altitude: 621.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 14.96
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:03:02.000000000+02:00
+- image_filename: 2020_08_20__11_03__8208285.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.425888888888885
+  lon: 22.047777777777778
+  altitude: 622.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 89.53
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:03:10.000000000+02:00
+- image_filename: 2020_08_20__11_03__8208288.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42597222222222
+  lon: 22.04763888888889
+  altitude: 625.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.49
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:03:29.000000000+02:00
+- image_filename: 2020_08_20__11_04__8208291.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42611111111111
+  lon: 22.04740277777778
+  altitude: 631.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 82.33
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:04:48.000000000+02:00
+- image_filename: 2020_08_20__11_06__8208296.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42647222222222
+  lon: 22.04713888888889
+  altitude: 640.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 18.7
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:06:32.000000000+02:00
+- image_filename: 2020_08_20__11_09__8208303.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42663888888889
+  lon: 22.04690277777778
+  altitude: 644.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.63
+  iso: 200
+  width: 4453
+  height: 3255
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:09:07.000000000+02:00
+- image_filename: 2020_08_20__11_10__8208310.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42666666666666
+  lon: 22.04690277777778
+  altitude: 645.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.64
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:10:57.000000000+02:00
+- image_filename: 2020_08_20__11_16__8208326.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42725
+  lon: 22.046819444444445
+  altitude: 659.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 118.72
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:16:50.000000000+02:00
+- image_filename: 2020_08_20__11_27__8208339.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42819444444444
+  lon: 22.044305555555557
+  altitude: 715.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.75
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:27:23.000000000+02:00
+- image_filename: 2020_08_20__11_30__8208352.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.428152777777775
+  lon: 22.043277777777778
+  altitude: 726.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.67
+  iso: 200
+  width: 4358
+  height: 3064
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:30:34.000000000+02:00
+- image_filename: 2020_08_20__11_32__8208357.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42809722222222
+  lon: 22.043041666666667
+  altitude: 729.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.5
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:32:14.000000000+02:00
+- image_filename: 2020_08_20__11_37__8208379.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42886111111111
+  lon: 22.039583333333336
+  altitude: 750.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3911
+  height: 5239
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:37:37.000000000+02:00
+- image_filename: 2020_08_20__11_43__8208394.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43018055555555
+  lon: 22.036722222222224
+  altitude: 745.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.48
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:43:48.000000000+02:00
+- image_filename: 2020_08_20__11_48__8208399.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43154166666667
+  lon: 22.034472222222224
+  altitude: 755.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5094
+  height: 3802
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:48:54.000000000+02:00
+- image_filename: 2020_08_20__11_53_DSC02350.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43209722222222
+  lon: 22.033055555555556
+  altitude: 762.0
+  focal_length: 64.0
+  focal_length_35: 64.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-20 11:53:20.000000000+02:00
+- image_filename: 2020_08_20__11_53_DSC02352.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43209722222222
+  lon: 22.033055555555556
+  altitude: 762.0
+  focal_length: 64.0
+  focal_length_35: 64.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-20 11:53:27.000000000+02:00
+- image_filename: 2020_08_20__11_54__8208403.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43209722222222
+  lon: 22.033055555555556
+  altitude: 762.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.57
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 11:54:11.000000000+02:00
+- image_filename: 2020_08_20__11_55_DSC02357.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432402777777774
+  lon: 22.03258333333333
+  altitude: 765.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5999
+  height: 3991
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-20 11:55:26.000000000+02:00
+- image_filename: 2020_08_20__11_57_DSC02362.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43268055555556
+  lon: 22.032430555555553
+  altitude: 765.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5783
+  height: 3847
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 11:57:36.000000000+02:00
+- image_filename: 2020_08_20__11_57_DSC02363.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43268055555556
+  lon: 22.032430555555553
+  altitude: 765.0
+  focal_length: 287.6
+  focal_length_35: 287.0
+  crop: 0.9979137691237829
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5029
+  height: 3376
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 11:57:43.000000000+02:00
+- image_filename: 2020_08_20__11_58_DSC02366.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43266666666666
+  lon: 22.03245833333333
+  altitude: 764.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 160
+  width: 5677
+  height: 3373
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 11:58:25.000000000+02:00
+- image_filename: 2020_08_20__11_58_DSC02369.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43266666666666
+  lon: 22.03247222222222
+  altitude: 764.0
+  focal_length: 219.0
+  focal_length_35: 219.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5658
+  height: 3361
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 11:58:44.000000000+02:00
+- image_filename: 2020_08_20__12_03__8208408.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43270833333333
+  lon: 22.032375
+  altitude: 766.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.28
+  iso: 320
+  width: 4728
+  height: 3303
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:03:24.000000000+02:00
+- image_filename: 2020_08_20__12_07_DSC02388.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432624999999994
+  lon: 22.032055555555555
+  altitude: 769.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 12:07:26.000000000+02:00
+- image_filename: 2020_08_20__12_07_DSC02389.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43263888888889
+  lon: 22.03209722222222
+  altitude: 769.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 12:07:30.000000000+02:00
+- image_filename: 2020_08_20__12_07_DSC02393.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43263888888889
+  lon: 22.032291666666666
+  altitude: 768.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 12:07:45.000000000+02:00
+- image_filename: 2020_08_20__12_07_DSC02396.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432652777777776
+  lon: 22.03234722222222
+  altitude: 767.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 12:07:50.000000000+02:00
+- image_filename: 2020_08_20__12_08_DSC02414.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43263888888889
+  lon: 22.03245833333333
+  altitude: 768.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 12:08:18.000000000+02:00
+- image_filename: 2020_08_20__12_10_DSC02438.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432652777777776
+  lon: 22.03245833333333
+  altitude: 768.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-20 12:10:16.000000000+02:00
+- image_filename: 2020_08_20__12_19__8208488.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43273611111111
+  lon: 22.032416666666666
+  altitude: 768.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.25
+  iso: 500
+  width: 4470
+  height: 3467
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:19:33.000000000+02:00
+- image_filename: 2020_08_20__12_21__8208497.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43272222222222
+  lon: 22.032402777777776
+  altitude: 767.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.28
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:21:44.000000000+02:00
+- image_filename: 2020_08_20__12_22__8208502.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43270833333333
+  lon: 22.032430555555553
+  altitude: 769.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.25
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:22:03.000000000+02:00
+- image_filename: 2020_08_20__12_22__8208507.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43270833333333
+  lon: 22.03238888888889
+  altitude: 769.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.28
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:22:34.000000000+02:00
+- image_filename: 2020_08_20__12_22__8208508.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43270833333333
+  lon: 22.032402777777776
+  altitude: 768.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.28
+  iso: 640
+  width: 4913
+  height: 3629
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:22:39.000000000+02:00
+- image_filename: 2020_08_20__12_33__8208543.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432652777777776
+  lon: 22.032375
+  altitude: 770.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.4
+  iso: 640
+  width: 4378
+  height: 3042
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:33:50.000000000+02:00
+- image_filename: 2020_08_20__12_34__8208547.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43268055555556
+  lon: 22.032430555555553
+  altitude: 770.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.28
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:34:31.000000000+02:00
+- image_filename: 2020_08_20__12_34__8208548.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43268055555556
+  lon: 22.032430555555553
+  altitude: 770.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.27
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:34:38.000000000+02:00
+- image_filename: 2020_08_20__12_35__8208553.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432624999999994
+  lon: 22.032194444444443
+  altitude: 771.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.28
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 12:35:04.000000000+02:00
+- image_filename: 2020_08_20__12_40__8208556.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43255555555555
+  lon: 22.032291666666666
+  altitude: 771.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 23.01
+  iso: 400
+  width: 4721
+  height: 3779
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 12:40:28.000000000+02:00
+- image_filename: 2020_08_20__12_52__8208569.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.428777777777775
+  lon: 22.039736111111115
+  altitude: 758.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 0.45
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 12:52:17.000000000+02:00
+- image_filename: 2020_08_20__13_05__8208576.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42733333333333
+  lon: 22.04676388888889
+  altitude: 667.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 21.33
+  iso: 200
+  width: 3911
+  height: 5239
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-20 13:05:05.000000000+02:00
+- image_filename: 2020_08_20__13_16_DSC02508.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.426430555555555
+  lon: 22.04738888888889
+  altitude: 643.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-20 13:16:33.000000000+02:00
+- image_filename: 2020_08_20__13_16_DSC02509.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.426319444444445
+  lon: 22.04723611111111
+  altitude: 642.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-20 13:16:56.000000000+02:00
+- image_filename: 2020_08_20__13_24__8208613.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42488888888889
+  lon: 22.049472222222224
+  altitude: 597.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.27
+  iso: 500
+  width: 5240
+  height: 3816
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 13:24:49.000000000+02:00
+- image_filename: 2020_08_20__13_25__8208617.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42488888888889
+  lon: 22.049472222222224
+  altitude: 597.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.29
+  iso: 500
+  width: 5240
+  height: 3438
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 13:25:21.000000000+02:00
+- image_filename: 2020_08_20__13_28__8208631.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42477777777778
+  lon: 22.049597222222225
+  altitude: 595.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.28
+  iso: 500
+  width: 4325
+  height: 3173
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 13:28:30.000000000+02:00
+- image_filename: 2020_08_20__13_30__8208641.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42476388888889
+  lon: 22.049597222222225
+  altitude: 594.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.26
+  iso: 500
+  width: 4964
+  height: 3678
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 13:30:27.000000000+02:00
+- image_filename: 2020_08_20__13_30__8208649.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.424625
+  lon: 22.049819444444445
+  altitude: 592.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.25
+  iso: 500
+  width: 4857
+  height: 3537
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 13:30:55.000000000+02:00
+- image_filename: 2020_08_20__13_31__8208653.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42448611111111
+  lon: 22.050069444444446
+  altitude: 589.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.19
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-08-20 13:31:11.000000000+02:00

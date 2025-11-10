@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
-  lat: 52.307361111111106
-  lon: 16.972111111111108
-  altitude: 55.0
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 5.0
-  iso: 200
-  camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-01-29 16:11:57+01:00
 - image_filename: IMGP5991raw1.jpg
   post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
   lat: 52.30773611111111
@@ -22,11 +8,11 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 4.5
-  iso: 200
-  camera: PENTAX K-5
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2017-01-29 14:48:52+01:00
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-29 14:48:52.000000000+01:00
 - image_filename: IMGP6005raw1.jpg
   post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
   lat: 52.30347222222222
@@ -36,39 +22,11 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 6.3
-  iso: 200
-  camera: PENTAX K-5
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-01-29 14:59:22+01:00
-- image_filename: IMGP6028raw1.jpg
-  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
-  lat: 52.303749999999994
-  lon: 16.97348611111111
-  altitude: 48.0
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 4.5
   iso: 200
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-01-29 15:10:15+01:00
-- image_filename: IMGP6054raw1.jpg
-  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
-  lat: 52.3045
-  lon: 16.964694444444444
-  altitude: 63.0
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-29 16:03:34+01:00
+  time: 2017-01-29 14:59:22.000000000+01:00
 - image_filename: IMGP6008raw1.jpg
   post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
   lat: 52.303444444444445
@@ -78,11 +36,39 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 7.1
-  iso: 200
-  camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-01-29 14:59:58+01:00
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-29 14:59:58.000000000+01:00
+- image_filename: IMGP6028raw1.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.303749999999994
+  lon: 16.97348611111111
+  altitude: 48.0
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-29 15:10:15.000000000+01:00
+- image_filename: IMGP6054raw1.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.3045
+  lon: 16.964694444444444
+  altitude: 63.0
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-29 16:03:34.000000000+01:00
 - image_filename: IMGP6057raw1.jpg
   post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
   lat: 52.30515277777778
@@ -92,8 +78,22 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-5
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2017-01-29 16:05:41+01:00
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-29 16:05:41.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.307361111111106
+  lon: 16.972111111111108
+  altitude: 55.0
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-5
+  time: 2017-01-29 16:11:57.000000000+01:00

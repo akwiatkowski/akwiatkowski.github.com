@@ -1,92 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.45558333333334
-  lon: 16.974708333333332
-  altitude: 43.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1333
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2016-10-14 08:25:55+02:00
-- image_filename: IMGP7699raw1.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.455555555555556
-  lon: 16.97561111111111
-  altitude: 42.0
-  aperture: 0.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-10-14 07:58:35+02:00
-- image_filename: IMGP7704raw1.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.455555555555556
-  lon: 16.975555555555555
-  altitude: 42.0
-  aperture: 0.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-10-14 07:59:14+02:00
-- image_filename: IMGP7708raw2.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.45554166666667
-  lon: 16.975541666666665
-  altitude: 42.0
-  aperture: 0.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-10-14 07:59:50+02:00
-- image_filename: IMGP7711raw1.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.45556944444445
-  lon: 16.975583333333333
-  altitude: 42.0
-  aperture: 0.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-10-14 08:00:34+02:00
-- image_filename: IMGP7717raw1.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.45552777777778
-  lon: 16.975527777777778
-  altitude: 43.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2016-10-14 08:06:23+02:00
-- image_filename: IMGP7739raw1.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.45558333333334
-  lon: 16.974708333333332
-  altitude: 43.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2016-10-14 08:25:55+02:00
 - image_filename: IMGP7691raw1.jpg
   post_slug: 2016-10-14-poranek-nad-warta
   lat: 52.45554166666667
@@ -96,22 +8,138 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 13.0
   exposure_string: 13 s
-  time: 2016-10-14 07:53:29+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 07:53:29.000000000+02:00
+- image_filename: IMGP7695raw1.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.45554166666667
+  lon: 16.975624999999997
+  altitude: 42.0
+  aperture: 0.0
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 07:57:45.000000000+02:00
+- image_filename: IMGP7697raw1.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.45554166666667
+  lon: 16.97559722222222
+  altitude: 42.0
+  aperture: 0.0
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 07:58:12.000000000+02:00
+- image_filename: IMGP7699raw1.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.455555555555556
+  lon: 16.97561111111111
+  altitude: 42.0
+  aperture: 0.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 07:58:35.000000000+02:00
+- image_filename: IMGP7703raw1.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.45554166666667
+  lon: 16.975569444444442
+  altitude: 42.0
+  aperture: 0.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 07:59:08.000000000+02:00
+- image_filename: IMGP7704raw1.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.455555555555556
+  lon: 16.975555555555555
+  altitude: 42.0
+  aperture: 0.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 07:59:14.000000000+02:00
 - image_filename: IMGP7707raw1.jpg
   post_slug: 2016-10-14-poranek-nad-warta
   lat: 52.45554166666667
   lon: 16.975541666666665
   altitude: 42.0
   aperture: 0.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2016-10-14 07:59:44+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 07:59:44.000000000+02:00
+- image_filename: IMGP7708raw2.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.45554166666667
+  lon: 16.975541666666665
+  altitude: 42.0
+  aperture: 0.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 07:59:50.000000000+02:00
+- image_filename: IMGP7710raw1.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.455555555555556
+  lon: 16.975569444444442
+  altitude: 42.0
+  aperture: 0.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 08:00:25.000000000+02:00
+- image_filename: IMGP7711raw1.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.45556944444445
+  lon: 16.975583333333333
+  altitude: 42.0
+  aperture: 0.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 08:00:34.000000000+02:00
+- image_filename: IMGP7717raw1.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.45552777777778
+  lon: 16.975527777777778
+  altitude: 43.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 18.0
+  exposure: 8.0
+  exposure_string: 8 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 08:06:23.000000000+02:00
+- image_filename: IMGP7739raw1.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.45558333333334
+  lon: 16.974708333333332
+  altitude: 43.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 16.0
+  exposure: 6.0
+  exposure_string: 6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-14 08:25:55.000000000+02:00
 - image_filename: IMGP7756raw1.jpg
   post_slug: 2016-10-14-poranek-nad-warta
   lat: 52.455486111111114
@@ -121,52 +149,24 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 22.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 10.0
   exposure_string: 10 s
-  time: 2016-10-14 08:39:19+02:00
-- image_filename: IMGP7697raw1.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.45554166666667
-  lon: 16.97559722222222
-  altitude: 42.0
-  aperture: 0.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2016-10-14 07:58:12+02:00
-- image_filename: IMGP7710raw1.jpg
+  time: 2016-10-14 08:39:19.000000000+02:00
+- image_filename: header.jpg
   post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.455555555555556
-  lon: 16.975569444444442
-  altitude: 42.0
-  aperture: 0.0
+  lat: 52.45558333333334
+  lon: 16.974708333333332
+  altitude: 43.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 16.0
+  exposure: 6.0
+  exposure_string: 6 s
   iso: 100
+  width: 2000
+  height: 1333
   camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-10-14 08:00:25+02:00
-- image_filename: IMGP7695raw1.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.45554166666667
-  lon: 16.975624999999997
-  altitude: 42.0
-  aperture: 0.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2016-10-14 07:57:45+02:00
-- image_filename: IMGP7703raw1.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.45554166666667
-  lon: 16.975569444444442
-  altitude: 42.0
-  aperture: 0.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-10-14 07:59:08+02:00
+  time: 2016-10-14 08:25:55.000000000+02:00

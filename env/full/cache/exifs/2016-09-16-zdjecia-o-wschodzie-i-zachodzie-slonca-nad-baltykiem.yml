@@ -1,353 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2016-09-17 06:39:59+02:00
-- image_filename: IMGP6154raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.922291666666666
-  lon: 14.262708333333334
-  altitude: 4.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-09-16 19:04:58+02:00
-- image_filename: IMGP6205raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92627777777778
-  lon: 14.277472222222222
-  altitude: 3.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2016-09-16 19:36:54+02:00
-- image_filename: IMGP6532raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.924819444444445
-  lon: 14.278444444444446
-  altitude: 1.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2016-09-18 06:22:47+02:00
-- image_filename: IMGP6605raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92572222222222
-  lon: 14.277972222222223
-  altitude: 4294967296.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2016-09-18 06:54:28+02:00
-- image_filename: IMGP6825raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92480555555555
-  lon: 14.278416666666667
-  altitude: 4294967296.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2016-09-19 06:08:29+02:00
-- image_filename: IMGP6842raw3.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92281944444444
-  lon: 14.279375000000002
-  altitude: 4294967296.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2016-09-19 06:20:31+02:00
-- image_filename: IMGP6857raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.923624999999994
-  lon: 14.27913888888889
-  altitude: 4294967296.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2016-09-19 06:29:18+02:00
-- image_filename: IMGP6899raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92323611111111
-  lon: 14.274708333333335
-  altitude: 0.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-09-19 07:00:48+02:00
-- image_filename: IMGP6053raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92245833333333
-  lon: 14.256458333333333
-  altitude: 14.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 3.2
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-09-16 17:47:38+02:00
-- image_filename: IMGP6242raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92069444444444
-  lon: 14.263125
-  altitude: 19.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2016-09-17 06:22:38+02:00
-- image_filename: IMGP6840raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92279166666666
-  lon: 14.279319444444445
-  altitude: 4294967296.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2016-09-19 06:19:00+02:00
-- image_filename: IMGP6878raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92448611111111
-  lon: 14.278805555555556
-  altitude: 0.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2016-09-19 06:49:13+02:00
-- image_filename: IMGP6798raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92231944444444
-  lon: 14.262819444444444
-  altitude: 4294967296.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2016-09-19 05:37:50+02:00
-- image_filename: IMGP6221raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92086111111111
-  lon: 14.26313888888889
-  altitude: 20.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2016-09-17 06:13:14+02:00
-- image_filename: IMGP6800raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.922333333333334
-  lon: 14.262833333333333
-  altitude: 4294967296.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2016-09-19 05:40:25+02:00
-- image_filename: IMGP6118raw2.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92211111111111
-  lon: 14.255958333333334
-  altitude: 8.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2016-09-16 18:46:04+02:00
-- image_filename: IMGP6172raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.923138888888886
-  lon: 14.274430555555556
-  altitude: 3.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2016-09-16 19:18:13+02:00
-- image_filename: IMGP6536raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92509722222222
-  lon: 14.278347222222223
-  altitude: 1.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2016-09-18 06:25:02+02:00
-- image_filename: IMGP6843raw2.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92281944444444
-  lon: 14.279361111111111
-  altitude: 4294967296.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2016-09-19 06:20:50+02:00
-- image_filename: IMGP6331raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92022222222222
-  lon: 14.263111111111112
-  altitude: 18.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2016-09-17 06:49:27+02:00
-- image_filename: IMGP6895raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.923249999999996
-  lon: 14.274652777777778
-  altitude: 0.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-09-19 07:00:27+02:00
-- image_filename: IMGP6366raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.920069444444444
-  lon: 14.263111111111112
-  altitude: 18.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-09-17 06:58:23+02:00
-- image_filename: IMGP6545raw1.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.926138888888886
-  lon: 14.277486111111111
-  altitude: 0.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2016-09-18 06:33:15+02:00
-- image_filename: IMGP6808raw2.jpg
-  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.922180555555556
-  lon: 14.267847222222223
-  altitude: 4294967296.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2016-09-19 05:51:51+02:00
 - image_filename: IMGP6001raw1.jpg
   post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
   lat: 53.91031944444444
@@ -357,39 +8,123 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.5
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2016-09-16 15:30:18+02:00
-- image_filename: IMGP6520raw1.jpg
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-09-16 15:30:18.000000000+02:00
+- image_filename: IMGP6053raw1.jpg
   post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92223611111111
-  lon: 14.263333333333334
-  altitude: 7.0
+  lat: 53.92245833333333
+  lon: 14.256458333333333
+  altitude: 14.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-16 17:47:38.000000000+02:00
+- image_filename: IMGP6118raw2.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92211111111111
+  lon: 14.255958333333334
+  altitude: 8.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 10.0
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 13.0
-  exposure_string: 13 s
-  time: 2016-09-18 06:05:51+02:00
-- image_filename: IMGP6827raw1.jpg
+  time: 2016-09-16 18:46:04.000000000+02:00
+- image_filename: IMGP6154raw1.jpg
   post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
-  lat: 53.92480555555555
-  lon: 14.278430555555556
-  altitude: 4294967296.0
+  lat: 53.922291666666666
+  lon: 14.262708333333334
+  altitude: 4.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-16 19:04:58.000000000+02:00
+- image_filename: IMGP6172raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.923138888888886
+  lon: 14.274430555555556
+  altitude: 3.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 4.0
+  exposure_string: 0.4 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-16 19:18:13.000000000+02:00
+- image_filename: IMGP6205raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92627777777778
+  lon: 14.277472222222222
+  altitude: 3.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 1.0
+  exposure_string: 1 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-16 19:36:54.000000000+02:00
+- image_filename: IMGP6221raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92086111111111
+  lon: 14.26313888888889
+  altitude: 20.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 6.0
+  exposure_string: 6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-17 06:13:14.000000000+02:00
+- image_filename: IMGP6242raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92069444444444
+  lon: 14.263125
+  altitude: 19.0
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  exposure: 6.0
+  exposure_string: 0.6 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2016-09-19 06:09:31+02:00
+  time: 2016-09-17 06:22:38.000000000+02:00
+- image_filename: IMGP6331raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92022222222222
+  lon: 14.263111111111112
+  altitude: 18.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-17 06:49:27.000000000+02:00
 - image_filename: IMGP6361raw2.jpg
   post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
   lat: 53.92011111111111
@@ -399,8 +134,273 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-09-17 06:56:12+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-09-17 06:56:12.000000000+02:00
+- image_filename: IMGP6366raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.920069444444444
+  lon: 14.263111111111112
+  altitude: 18.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-09-17 06:58:23.000000000+02:00
+- image_filename: IMGP6520raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92223611111111
+  lon: 14.263333333333334
+  altitude: 7.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 13.0
+  exposure_string: 13 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-18 06:05:51.000000000+02:00
+- image_filename: IMGP6532raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.924819444444445
+  lon: 14.278444444444446
+  altitude: 1.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 4.0
+  exposure_string: 4 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-18 06:22:47.000000000+02:00
+- image_filename: IMGP6536raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92509722222222
+  lon: 14.278347222222223
+  altitude: 1.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 1.0
+  exposure_string: 1 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-18 06:25:02.000000000+02:00
+- image_filename: IMGP6545raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.926138888888886
+  lon: 14.277486111111111
+  altitude: 0.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 13.0
+  exposure: 2.0
+  exposure_string: 2 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-18 06:33:15.000000000+02:00
+- image_filename: IMGP6605raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92572222222222
+  lon: 14.277972222222223
+  altitude: 4294967296.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-18 06:54:28.000000000+02:00
+- image_filename: IMGP6798raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92231944444444
+  lon: 14.262819444444444
+  altitude: 4294967296.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-19 05:37:50.000000000+02:00
+- image_filename: IMGP6800raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.922333333333334
+  lon: 14.262833333333333
+  altitude: 4294967296.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-09-19 05:40:25.000000000+02:00
+- image_filename: IMGP6808raw2.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.922180555555556
+  lon: 14.267847222222223
+  altitude: 4294967296.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-19 05:51:51.000000000+02:00
+- image_filename: IMGP6825raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92480555555555
+  lon: 14.278416666666667
+  altitude: 4294967296.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 6.0
+  exposure_string: 6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-19 06:08:29.000000000+02:00
+- image_filename: IMGP6827raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92480555555555
+  lon: 14.278430555555556
+  altitude: 4294967296.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 3.0
+  exposure_string: 3 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-19 06:09:31.000000000+02:00
+- image_filename: IMGP6840raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92279166666666
+  lon: 14.279319444444445
+  altitude: 4294967296.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 3.0
+  exposure_string: 3 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-19 06:19:00.000000000+02:00
+- image_filename: IMGP6842raw3.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92281944444444
+  lon: 14.279375000000002
+  altitude: 4294967296.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 6.0
+  exposure_string: 6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-19 06:20:31.000000000+02:00
+- image_filename: IMGP6843raw2.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92281944444444
+  lon: 14.279361111111111
+  altitude: 4294967296.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 6.0
+  exposure_string: 6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-19 06:20:50.000000000+02:00
+- image_filename: IMGP6857raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.923624999999994
+  lon: 14.27913888888889
+  altitude: 4294967296.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 3.0
+  exposure_string: 3 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-19 06:29:18.000000000+02:00
+- image_filename: IMGP6878raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92448611111111
+  lon: 14.278805555555556
+  altitude: 0.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-09-19 06:49:13.000000000+02:00
+- image_filename: IMGP6895raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.923249999999996
+  lon: 14.274652777777778
+  altitude: 0.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-09-19 07:00:27.000000000+02:00
+- image_filename: IMGP6899raw1.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  lat: 53.92323611111111
+  lon: 14.274708333333335
+  altitude: 0.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-09-19 07:00:48.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 3.0
+  exposure_string: 0.3 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-09-17 06:39:59.000000000+02:00

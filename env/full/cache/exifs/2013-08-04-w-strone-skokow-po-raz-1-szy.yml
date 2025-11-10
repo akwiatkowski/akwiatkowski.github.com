@@ -1,60 +1,60 @@
 ---
-- image_filename: IMGP7287b.jpg
-  post_slug: 2013-08-04-w-strone-skokow-po-raz-1-szy
-  lat: 52.71266472222222
-  lon: 17.089860833333333
-  altitude: 81.8
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-08-04 16:12:24+02:00
 - image_filename: IMGP7279b.jpg
   post_slug: 2013-08-04-w-strone-skokow-po-raz-1-szy
-  lat: 52.52816222222222
+  lat: 52.52816111111111
   lon: 16.912830555555555
   altitude: 90.0
   focal_length: 35.0
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-08-04 13:50:43+02:00
+  time: 2013-08-04 13:50:43.000000000+02:00
 - image_filename: IMGP7285b.jpg
   post_slug: 2013-08-04-w-strone-skokow-po-raz-1-szy
-  lat: 52.712203611111114
-  lon: 17.089047777777775
+  lat: 52.71220277777778
+  lon: 17.08904722222222
   altitude: 82.8
   focal_length: 35.0
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2013-08-04 16:12:09+02:00
+  time: 2013-08-04 16:12:09.000000000+02:00
+- image_filename: IMGP7287b.jpg
+  post_slug: 2013-08-04-w-strone-skokow-po-raz-1-szy
+  lat: 52.71266388888889
+  lon: 17.08986111111111
+  altitude: 81.8
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-08-04 16:12:24.000000000+02:00
 - image_filename: header.jpg
   post_slug: 2013-08-04-w-strone-skokow-po-raz-1-szy
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 16.0
+  exposure: 3.0
+  exposure_string: 0.3 s
   iso: 100
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
   width: 2048
   height: 1358
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2013-07-13 20:47:35+02:00
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-13 20:47:35.000000000+02:00

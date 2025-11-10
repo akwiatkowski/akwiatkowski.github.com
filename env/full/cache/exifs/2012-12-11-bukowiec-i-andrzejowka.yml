@@ -1,183 +1,183 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.68474555555555
-  lon: 16.275673333333334
-  altitude: 798.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1366
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2012-12-11 13:19:26+01:00
 - image_filename: IMGP6202b.jpg
   post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.68980055555555
-  lon: 16.241495555555556
+  lat: 50.6898
+  lon: 16.241494444444445
   altitude: 582.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2012-12-11 09:43:59+01:00
-- image_filename: IMGP6295b.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.69367777777777
-  lon: 16.248225277777777
-  altitude: 810.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2012-12-11 11:06:18+01:00
-- image_filename: IMGP6321d.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.69569527777777
-  lon: 16.250996944444445
-  altitude: 891.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2012-12-11 11:26:10+01:00
-- image_filename: IMGP6345b.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.69571777777777
-  lon: 16.252055
-  altitude: 901.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2012-12-11 11:34:20+01:00
-- image_filename: IMGP6482b.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.68830833333333
-  lon: 16.26632861111111
-  altitude: 812.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2012-12-11 12:55:03+01:00
-- image_filename: IMGP6542.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.68520777777778
-  lon: 16.27755972222222
-  altitude: 802.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2012-12-11 14:21:16+01:00
-- image_filename: IMGP6467b.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.69144416666666
-  lon: 16.262269444444446
-  altitude: 839.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2012-12-11 12:21:56+01:00
-- image_filename: IMGP6289b.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.693617499999995
-  lon: 16.248185833333334
-  altitude: 801.9
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2012-12-11 11:04:36+01:00
-- image_filename: IMGP6467c.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.69144416666666
-  lon: 16.262269444444446
-  altitude: 839.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2012-12-11 12:21:56+01:00
-- image_filename: IMGP6321b.jpg
-  post_slug: 2012-12-11-bukowiec-i-andrzejowka
-  lat: 50.69569527777777
-  lon: 16.250996944444445
-  altitude: 891.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2012-12-11 11:26:10+01:00
+  time: 2012-12-11 09:43:59.000000000+01:00
 - image_filename: IMGP6245b.jpg
   post_slug: 2012-12-11-bukowiec-i-andrzejowka
   lat: 50.69226666666666
-  lon: 16.246363055555555
+  lon: 16.24636388888889
   altitude: 709.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2012-12-11 10:15:57+01:00
+  time: 2012-12-11 10:15:57.000000000+01:00
+- image_filename: IMGP6289b.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.693616666666664
+  lon: 16.248186111111114
+  altitude: 801.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-12-11 11:04:36.000000000+01:00
+- image_filename: IMGP6295b.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.69367777777777
+  lon: 16.248225
+  altitude: 810.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-12-11 11:06:18.000000000+01:00
+- image_filename: IMGP6321b.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.69569444444444
+  lon: 16.25099722222222
+  altitude: 891.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-12-11 11:26:10.000000000+01:00
+- image_filename: IMGP6321d.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.69569444444444
+  lon: 16.25099722222222
+  altitude: 891.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-12-11 11:26:10.000000000+01:00
+- image_filename: IMGP6345b.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.69571666666666
+  lon: 16.252055555555554
+  altitude: 901.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-12-11 11:34:20.000000000+01:00
+- image_filename: IMGP6467b.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.69144444444444
+  lon: 16.262269444444446
+  altitude: 839.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-12-11 12:21:56.000000000+01:00
+- image_filename: IMGP6467c.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.69144444444444
+  lon: 16.262269444444446
+  altitude: 839.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-12-11 12:21:56.000000000+01:00
+- image_filename: IMGP6482b.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.68830833333333
+  lon: 16.26632777777778
+  altitude: 812.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-12-11 12:55:03.000000000+01:00
+- image_filename: IMGP6542.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.68520833333333
+  lon: 16.277561111111112
+  altitude: 802.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-12-11 14:21:16.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2012-12-11-bukowiec-i-andrzejowka
+  lat: 50.68474444444444
+  lon: 16.275672222222223
+  altitude: 798.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 2048
+  height: 1366
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2012-12-11 13:19:26.000000000+01:00

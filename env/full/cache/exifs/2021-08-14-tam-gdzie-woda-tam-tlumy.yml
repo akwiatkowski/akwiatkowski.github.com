@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
 - image_filename: 2021_08_12__18_54__8120001.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.920763888888885
@@ -37,24 +35,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-12 18:55:28.000000000+02:00
-- image_filename: 2021_08_12__19_00__8120019.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.92355555555555
-  lon: 16.531888888888886
-  altitude: 119.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 4.9
-  iso: 200
-  width: 5232
-  height: 3906
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-12 19:00:11.000000000+02:00
 - image_filename: 2021_08_12__18_59__8120017.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.92355555555555
@@ -73,42 +53,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-12 18:59:43.000000000+02:00
-- image_filename: 2021_08_12__19_14__8120032.jpg
+- image_filename: 2021_08_12__19_00__8120019.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.94179166666666
-  lon: 16.510819444444444
-  altitude: 106.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 51.92355555555555
+  lon: 16.531888888888886
+  altitude: 119.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 47.08
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.9
   iso: 200
-  width: 5208
-  height: 3888
+  width: 5232
+  height: 3906
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-08-12 19:14:46.000000000+02:00
-- image_filename: 2021_08_12__19_08__8120025.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.94022222222222
-  lon: 16.516111111111112
-  altitude: 90.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 33.64
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-12 19:08:57.000000000+02:00
+  time: 2021-08-12 19:00:11.000000000+02:00
 - image_filename: 2021_08_12__19_06__8120024.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.93333333333333
@@ -127,6 +89,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-12 19:06:06.000000000+02:00
+- image_filename: 2021_08_12__19_08__8120025.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.94022222222222
+  lon: 16.516111111111112
+  altitude: 90.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 33.64
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-12 19:08:57.000000000+02:00
+- image_filename: 2021_08_12__19_14__8120032.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.94179166666666
+  lon: 16.510819444444444
+  altitude: 106.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 47.08
+  iso: 200
+  width: 5208
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-12 19:14:46.000000000+02:00
 - image_filename: 2021_08_12__19_14__8120034.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.94177777777777
@@ -181,24 +179,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-12 19:27:13.000000000+02:00
-- image_filename: 2021_08_12__19_33__8120060.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.94316666666666
-  lon: 16.46947222222222
-  altitude: 109.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 17.1
-  iso: 200
-  width: 5060
-  height: 3778
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-12 19:33:42.000000000+02:00
 - image_filename: 2021_08_12__19_31__8120056.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.942027777777774
@@ -217,6 +197,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-12 19:31:00.000000000+02:00
+- image_filename: 2021_08_12__19_33__8120060.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.94316666666666
+  lon: 16.46947222222222
+  altitude: 109.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 17.1
+  iso: 200
+  width: 5060
+  height: 3778
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-12 19:33:42.000000000+02:00
 - image_filename: 2021_08_12__19_34__8120065.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.94313888888889
@@ -253,6 +251,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-12 19:36:35.000000000+02:00
+- image_filename: 2021_08_12__19_45__8120084.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.94136111111111
+  lon: 16.444833333333335
+  altitude: 112.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 4.07
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-12 19:45:55.000000000+02:00
 - image_filename: 2021_08_12__19_47__8120097.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.94136111111111
@@ -289,60 +305,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-12 20:11:31.000000000+02:00
-- image_filename: 2021_08_12__19_45__8120084.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.94136111111111
-  lon: 16.444833333333335
-  altitude: 112.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 4.07
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-12 19:45:55.000000000+02:00
-- image_filename: 2021_08_13__18_54__8130114.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.93340277777777
-  lon: 16.21123611111111
-  altitude: 60.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 28.84
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-13 18:54:29.000000000+02:00
-- image_filename: 2021_08_13__18_46__8130110.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.94345833333333
-  lon: 16.216569444444445
-  altitude: 61.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 5.97
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-13 18:46:47.000000000+02:00
 - image_filename: 2021_08_13__16_43__8130101.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.915124999999996
@@ -361,24 +323,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-13 16:43:39.000000000+02:00
-- image_filename: 2021_08_13__19_00__8130125.jpg
+- image_filename: 2021_08_13__18_46__8130110.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.92590277777778
-  lon: 16.208
+  lat: 51.94345833333333
+  lon: 16.216569444444445
   altitude: 61.0
-  focal_length: 31.0
-  focal_length_35: 62.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 27.17
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 5.97
   iso: 200
-  width: 5148
-  height: 3260
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-08-13 19:00:03.000000000+02:00
+  time: 2021-08-13 18:46:47.000000000+02:00
+- image_filename: 2021_08_13__18_54__8130114.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.93340277777777
+  lon: 16.21123611111111
+  altitude: 60.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 28.84
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-13 18:54:29.000000000+02:00
 - image_filename: 2021_08_13__18_56__8130119.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.932513888888884
@@ -415,24 +395,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-13 18:56:39.000000000+02:00
-- image_filename: 2021_08_13__19_03__8130133.jpg
+- image_filename: 2021_08_13__19_00__8130125.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.92454166666666
-  lon: 16.21225
-  altitude: 63.0
-  focal_length: 34.0
-  focal_length_35: 68.0
+  lat: 51.92590277777778
+  lon: 16.208
+  altitude: 61.0
+  focal_length: 31.0
+  focal_length_35: 62.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 18.04
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 27.17
   iso: 200
   width: 5148
-  height: 3843
+  height: 3260
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-08-13 19:03:05.000000000+02:00
+  time: 2021-08-13 19:00:03.000000000+02:00
 - image_filename: 2021_08_13__19_00__8130128.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.925916666666666
@@ -451,6 +431,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-13 19:00:15.000000000+02:00
+- image_filename: 2021_08_13__19_03__8130133.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.92454166666666
+  lon: 16.21225
+  altitude: 63.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 18.04
+  iso: 200
+  width: 5148
+  height: 3843
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-13 19:03:05.000000000+02:00
 - image_filename: 2021_08_13__19_05__8130134.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.925486111111105
@@ -541,24 +539,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-13 19:21:56.000000000+02:00
-- image_filename: 2021_08_13__19_23__8130170.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.93091666666666
-  lon: 16.257055555555556
-  altitude: 61.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 18.28
-  iso: 200
-  width: 4932
-  height: 3682
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-13 19:23:49.000000000+02:00
 - image_filename: 2021_08_13__19_23__8130166.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.93091666666666
@@ -577,6 +557,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-13 19:23:31.000000000+02:00
+- image_filename: 2021_08_13__19_23__8130170.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.93091666666666
+  lon: 16.257055555555556
+  altitude: 61.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 18.28
+  iso: 200
+  width: 4932
+  height: 3682
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-13 19:23:49.000000000+02:00
 - image_filename: 2021_08_13__19_32__8130175.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.93930555555555
@@ -595,24 +593,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-13 19:32:38.000000000+02:00
-- image_filename: 2021_08_13__19_38__8130185.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.93901388888889
-  lon: 16.283652777777778
-  altitude: 60.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 5.47
-  iso: 200
-  width: 5141
-  height: 3838
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-13 19:38:06.000000000+02:00
 - image_filename: 2021_08_13__19_34__8130179.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.93877777777777
@@ -631,6 +611,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-13 19:34:12.000000000+02:00
+- image_filename: 2021_08_13__19_38__8130185.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.93901388888889
+  lon: 16.283652777777778
+  altitude: 60.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 5.47
+  iso: 200
+  width: 5141
+  height: 3838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-13 19:38:06.000000000+02:00
 - image_filename: 2021_08_14__10_44__8140216.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.94894444444444
@@ -649,24 +647,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-14 10:44:54.000000000+02:00
-- image_filename: 2021_08_14__10_49__8140233.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.954638888888894
-  lon: 16.376375
-  altitude: 93.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 117.87
-  iso: 200
-  width: 5236
-  height: 3909
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-14 10:49:03.000000000+02:00
 - image_filename: 2021_08_14__10_48__8140224.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.954638888888894
@@ -685,24 +665,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-14 10:48:25.000000000+02:00
-- image_filename: 2021_08_14__11_08__8140252.jpg
+- image_filename: 2021_08_14__10_49__8140233.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.97097222222222
-  lon: 16.37165277777778
-  altitude: 75.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 51.954638888888894
+  lon: 16.376375
+  altitude: 93.0
+  focal_length: 86.0
+  focal_length_35: 172.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 115.38
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 117.87
   iso: 200
-  width: 4846
-  height: 3618
+  width: 5236
+  height: 3909
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-08-14 11:08:43.000000000+02:00
+  time: 2021-08-14 10:49:03.000000000+02:00
 - image_filename: 2021_08_14__11_07__8140249.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.96859722222222
@@ -721,6 +701,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-14 11:07:26.000000000+02:00
+- image_filename: 2021_08_14__11_08__8140252.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.97097222222222
+  lon: 16.37165277777778
+  altitude: 75.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 115.38
+  iso: 200
+  width: 4846
+  height: 3618
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-14 11:08:43.000000000+02:00
 - image_filename: 2021_08_14__11_08__8140255.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.97098611111111
@@ -775,6 +773,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-14 11:48:14.000000000+02:00
+- image_filename: 2021_08_14__11_55__8140280.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 52.00827777777778
+  lon: 16.442333333333334
+  altitude: 105.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.92
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-14 11:55:06.000000000+02:00
 - image_filename: 2021_08_14__12_00__8140284.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 52.00915277777778
@@ -811,24 +827,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-14 12:46:37.000000000+02:00
-- image_filename: 2021_08_14__11_55__8140280.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 52.00827777777778
-  lon: 16.442333333333334
-  altitude: 105.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 22.92
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-14 11:55:06.000000000+02:00
 - image_filename: 2021_08_14__12_47__8140291.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 52.01294444444444
@@ -883,42 +881,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-14 12:48:32.000000000+02:00
-- image_filename: 2021_08_14__13_30__8140324.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.99488888888889
-  lon: 16.551402777777778
-  altitude: 94.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 6.79
-  iso: 200
-  width: 4885
-  height: 3647
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-14 13:30:48.000000000+02:00
-- image_filename: 2021_08_14__13_25__8140319.jpg
-  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
-  lat: 51.99747222222222
-  lon: 16.536625
-  altitude: 95.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 21.0
-  iso: 200
-  width: 5052
-  height: 3772
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-14 13:25:11.000000000+02:00
 - image_filename: 2021_08_14__13_23__8140314.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 52.00018055555555
@@ -937,6 +899,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-14 13:23:14.000000000+02:00
+- image_filename: 2021_08_14__13_25__8140319.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.99747222222222
+  lon: 16.536625
+  altitude: 95.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 21.0
+  iso: 200
+  width: 5052
+  height: 3772
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-14 13:25:11.000000000+02:00
+- image_filename: 2021_08_14__13_30__8140324.jpg
+  post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
+  lat: 51.99488888888889
+  lon: 16.551402777777778
+  altitude: 94.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.79
+  iso: 200
+  width: 4885
+  height: 3647
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-14 13:30:48.000000000+02:00
 - image_filename: 2021_08_14__13_39__8140335.jpg
   post_slug: 2021-08-14-tam-gdzie-woda-tam-tlumy
   lat: 51.99011111111111

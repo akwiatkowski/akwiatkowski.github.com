@@ -1,244 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-- image_filename: 2021_08_24__13_29_DSC06768.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.14798611111111
-  lon: 21.365986111111113
-  altitude: 84.0
-  focal_length: 65.0
-  focal_length_35: 65.0
-  crop: 1.0
-  aperture: 8.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  iso: 125
-  width: 5813
-  height: 3868
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:29:46.000000000+02:00
-- image_filename: 2021_08_24__14_45_DSC06845.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.21472222222223
-  lon: 21.226569444444443
-  altitude: 51.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5965
-  height: 3968
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:45:11.000000000+02:00
-- image_filename: 2021_08_24__15_12_DSC06883.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.25377777777778
-  lon: 21.192569444444445
-  altitude: 39.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 5916
-  height: 3936
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:12:14.000000000+02:00
-- image_filename: 2021_08_24__17_11_DSC06980.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.17256944444444
-  lon: 21.13561111111111
-  altitude: 61.0
-  focal_length: 38.0
-  focal_length_35: 38.0
-  crop: 1.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5765
-  height: 3835
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 17:11:03.000000000+02:00
-- image_filename: 2021_08_24__13_40_DSC06782.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.15348611111111
-  lon: 21.33373611111111
-  altitude: 72.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5788
-  height: 3851
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:40:55.000000000+02:00
-- image_filename: 2021_08_24__15_45_DSC06901.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.22027777777778
-  lon: 21.070791666666665
-  altitude: 44.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5996
-  height: 3989
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:45:41.000000000+02:00
-- image_filename: 2021_08_24__12_43_DSC06719.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.08152777777778
-  lon: 21.437833333333334
-  altitude: 104.0
-  focal_length: 40.0
-  focal_length_35: 40.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 12:43:12.000000000+02:00
-- image_filename: 2021_08_24__14_45_DSC06843.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.21472222222223
-  lon: 21.226569444444443
-  altitude: 51.0
-  focal_length: 49.0
-  focal_length_35: 49.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:45:09.000000000+02:00
-- image_filename: 2021_08_24__14_53_DSC06861.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.22109722222223
-  lon: 21.219680555555556
-  altitude: 44.0
-  focal_length: 36.0
-  focal_length_35: 36.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 5735
-  height: 3816
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:53:48.000000000+02:00
-- image_filename: 2021_08_24__15_45_DSC06903.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.22002777777778
-  lon: 21.07038888888889
-  altitude: 44.0
-  focal_length: 32.0
-  focal_length_35: 32.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5999
-  height: 3991
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:45:47.000000000+02:00
-- image_filename: 2021_08_24__12_52_DSC06723.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.08893055555556
-  lon: 21.41968055555556
-  altitude: 104.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 12:52:07.000000000+02:00
-- image_filename: 2021_08_24__17_09_DSC06937.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.17447222222222
-  lon: 21.129875000000002
-  altitude: 61.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5994
-  height: 3988
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 17:09:41.000000000+02:00
-- image_filename: 2021_08_24__13_17_DSC06751.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.14105555555555
-  lon: 21.389166666666664
-  altitude: 92.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 5894
-  height: 3921
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:17:02.000000000+02:00
-- image_filename: 2021_08_24__15_55_DSC06911.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.19945833333333
-  lon: 21.04061111111111
-  altitude: 53.0
-  focal_length: 38.0
-  focal_length_35: 38.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 5839
-  height: 3885
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:55:49.000000000+02:00
 - image_filename: 2021_08_24__12_41_DSC06715.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
   lat: 54.081430555555556
@@ -256,720 +16,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-24 12:41:09.000000000+02:00
-- image_filename: 2021_08_24__14_59_DSC06870.jpg
+- image_filename: 2021_08_24__12_43_DSC06719.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.23030555555556
-  lon: 21.221
-  altitude: 44.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5769
-  height: 3838
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:59:40.000000000+02:00
-- image_filename: 2021_08_24__13_08_DSC06731.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.11879166666667
-  lon: 21.399069444444443
-  altitude: 116.0
-  focal_length: 63.0
-  focal_length_35: 63.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5867
-  height: 3911
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:08:48.000000000+02:00
-- image_filename: 2021_08_24__14_46_DSC06853.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.21734722222222
-  lon: 21.21983333333333
-  altitude: 48.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:46:57.000000000+02:00
-- image_filename: 2021_08_24__13_33_DSC06773.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.15468055555555
-  lon: 21.35851388888889
-  altitude: 78.0
-  focal_length: 60.0
-  focal_length_35: 60.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 5968
-  height: 3971
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:33:03.000000000+02:00
-- image_filename: 2021_08_24__15_27_DSC06891.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.237375
-  lon: 21.123125
-  altitude: 38.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5734
-  height: 3815
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:27:01.000000000+02:00
-- image_filename: 2021_08_24__14_57_DSC06867.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.226819444444445
-  lon: 21.221069444444442
-  altitude: 37.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 5731
-  height: 3813
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:57:07.000000000+02:00
-- image_filename: 2021_08_24__14_02_DSC06792.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.19095833333333
-  lon: 21.286722222222224
-  altitude: 59.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 5963
-  height: 3967
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:02:24.000000000+02:00
-- image_filename: 2021_08_24__14_29_DSC06801.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.20751388888889
-  lon: 21.249305555555555
-  altitude: 41.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5481
-  height: 3435
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:29:43.000000000+02:00
-- image_filename: 2021_08_24__13_17_DSC06756.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.141125
-  lon: 21.386805555555554
-  altitude: 89.0
-  focal_length: 47.0
-  focal_length_35: 47.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5945
-  height: 3955
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:17:44.000000000+02:00
-- image_filename: 2021_08_24__17_11_DSC06975.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.17261111111111
-  lon: 21.135472222222223
-  altitude: 61.0
-  focal_length: 34.0
-  focal_length_35: 34.0
-  crop: 1.0
-  aperture: 4.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5369
-  height: 3575
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 17:11:01.000000000+02:00
-- image_filename: 2021_08_24__15_45_DSC06902.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.220111111111116
-  lon: 21.070527777777777
-  altitude: 44.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:45:45.000000000+02:00
-- image_filename: 2021_08_24__15_08_DSC06878.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.24427777777778
-  lon: 21.202430555555555
-  altitude: 40.0
-  focal_length: 54.0
-  focal_length_35: 54.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5916
-  height: 3936
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:08:31.000000000+02:00
-- image_filename: 2021_08_24__14_32_DSC06825.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.2075
-  lon: 21.24926388888889
-  altitude: 41.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:32:46.000000000+02:00
-- image_filename: 2021_08_24__16_06_DSC06914.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.18666666666666
-  lon: 21.018152777777775
-  altitude: 55.0
-  focal_length: 65.0
-  focal_length_35: 65.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 16:06:06.000000000+02:00
-- image_filename: 2021_08_24__14_45_DSC06847.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.21472222222223
-  lon: 21.22658333333333
-  altitude: 51.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:45:19.000000000+02:00
-- image_filename: 2021_08_24__13_20_DSC06758.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.143708333333336
-  lon: 21.38040277777778
-  altitude: 86.0
-  focal_length: 36.0
-  focal_length_35: 36.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5997
-  height: 3990
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:20:11.000000000+02:00
-- image_filename: 2021_08_24__14_38_DSC06830.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.20784722222223
-  lon: 21.245972222222225
-  altitude: 39.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5597
-  height: 3723
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:38:37.000000000+02:00
-- image_filename: 2021_08_24__14_42_DSC06835.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.21227777777778
-  lon: 21.23286111111111
-  altitude: 41.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:42:20.000000000+02:00
-- image_filename: 2021_08_24__13_22_DSC06761.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.144625
-  lon: 21.37638888888889
-  altitude: 89.0
-  focal_length: 56.0
-  focal_length_35: 56.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 5979
-  height: 3978
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:22:28.000000000+02:00
-- image_filename: 2021_08_24__17_10_DSC06971.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.17270833333333
-  lon: 21.135166666666667
-  altitude: 61.0
-  focal_length: 51.0
-  focal_length_35: 51.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5839
-  height: 4017
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 17:10:58.000000000+02:00
-- image_filename: 2021_08_24__14_54_DSC06864.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.221625
-  lon: 21.220291666666665
-  altitude: 43.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5784
-  height: 3831
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:54:00.000000000+02:00
-- image_filename: 2021_08_24__13_14_DSC06742.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.13736111111111
-  lon: 21.391819444444444
-  altitude: 95.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5660
-  height: 3766
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:14:53.000000000+02:00
-- image_filename: 2021_08_24__16_43_DSC06916.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.14230555555555
-  lon: 21.069458333333333
-  altitude: 78.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5948
-  height: 3957
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 16:43:21.000000000+02:00
-- image_filename: 2021_08_24__15_28_DSC06895.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.235305555555556
-  lon: 21.110625000000002
-  altitude: 34.0
-  focal_length: 47.0
-  focal_length_35: 47.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 5876
-  height: 3909
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:28:52.000000000+02:00
-- image_filename: 2021_08_24__14_02_DSC06791.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.19095833333333
-  lon: 21.286722222222224
-  altitude: 59.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:02:20.000000000+02:00
-- image_filename: 2021_08_24__14_39_DSC06832.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.207930555555556
-  lon: 21.245819444444447
-  altitude: 41.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 5675
-  height: 3776
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:39:34.000000000+02:00
-- image_filename: 2021_08_24__13_16_DSC06747.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.14080555555555
-  lon: 21.390875
-  altitude: 93.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5882
-  height: 3913
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:16:44.000000000+02:00
-- image_filename: 2021_08_24__14_53_DSC06860.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.220930555555555
-  lon: 21.21948611111111
-  altitude: 44.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5836
-  height: 3883
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:53:44.000000000+02:00
-- image_filename: 2021_08_24__13_33_DSC06777.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.15495833333333
-  lon: 21.358055555555556
-  altitude: 80.0
-  focal_length: 58.0
-  focal_length_35: 58.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5939
-  height: 3951
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:33:19.000000000+02:00
-- image_filename: 2021_08_24__13_29_DSC06770.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.14822222222222
-  lon: 21.365694444444447
-  altitude: 83.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 5620
-  height: 3739
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:29:54.000000000+02:00
-- image_filename: 2021_08_24__13_41_DSC06787.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.15445833333333
-  lon: 21.332583333333332
-  altitude: 71.0
-  focal_length: 68.0
-  focal_length_35: 68.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5879
-  height: 3911
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:41:22.000000000+02:00
-- image_filename: 2021_08_24__14_38_DSC06829.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.20784722222223
-  lon: 21.245972222222225
-  altitude: 39.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 5705
-  height: 3796
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:38:34.000000000+02:00
-- image_filename: 2021_08_24__14_44_DSC06842.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.21406944444445
-  lon: 21.22825
-  altitude: 51.0
-  focal_length: 31.0
-  focal_length_35: 31.0
+  lat: 54.08152777777778
+  lon: 21.437833333333334
+  altitude: 104.0
+  focal_length: 40.0
+  focal_length_35: 40.0
   crop: 1.0
   aperture: 5.6
   exposure: 0.005
   exposure_string: 1/200 s
   iso: 100
-  width: 5758
-  height: 3765
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:44:03.000000000+02:00
-- image_filename: 2021_08_24__14_29_DSC06799.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.20751388888889
-  lon: 21.249305555555555
-  altitude: 41.0
-  focal_length: 51.0
-  focal_length_35: 51.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 5694
-  height: 3740
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:29:39.000000000+02:00
-- image_filename: 2021_08_24__14_30_DSC06808.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.20751388888889
-  lon: 21.249305555555555
-  altitude: 41.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 4348
-  height: 3301
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:30:57.000000000+02:00
-- image_filename: 2021_08_24__14_42_DSC06841.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.21295833333333
-  lon: 21.231125
-  altitude: 44.0
-  focal_length: 47.0
-  focal_length_35: 47.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
   width: 6048
   height: 4024
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-08-24 14:42:51.000000000+02:00
-- image_filename: 2021_08_24__15_23_DSC06887.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.239666666666665
-  lon: 21.14270833333333
-  altitude: 40.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5928
-  height: 3944
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:23:47.000000000+02:00
-- image_filename: 2021_08_24__14_32_DSC06822.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.20751388888889
-  lon: 21.249291666666668
-  altitude: 41.0
-  focal_length: 61.0
-  focal_length_35: 61.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:32:31.000000000+02:00
-- image_filename: 2021_08_24__13_12_DSC06739.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.13243055555556
-  lon: 21.393125
-  altitude: 94.0
-  focal_length: 36.0
-  focal_length_35: 36.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5792
-  height: 3822
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:12:38.000000000+02:00
-- image_filename: 2021_08_24__14_42_DSC06837.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.21245833333334
-  lon: 21.232430555555553
-  altitude: 42.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 14:42:27.000000000+02:00
-- image_filename: 2021_08_24__15_26_DSC06888.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.23809722222222
-  lon: 21.12761111111111
-  altitude: 39.0
-  focal_length: 54.0
-  focal_length_35: 54.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 5768
-  height: 3837
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:26:22.000000000+02:00
-- image_filename: 2021_08_24__15_51_DSC06906.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.209097222222226
-  lon: 21.054000000000002
-  altitude: 53.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5751
-  height: 3737
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:51:25.000000000+02:00
+  time: 2021-08-24 12:43:12.000000000+02:00
 - image_filename: 2021_08_24__12_51_DSC06721.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
   lat: 54.088569444444445
@@ -987,57 +50,108 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-24 12:51:50.000000000+02:00
-- image_filename: 2021_08_24__13_17_DSC06755.jpg
+- image_filename: 2021_08_24__12_52_DSC06723.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.141083333333334
-  lon: 21.387375
-  altitude: 90.0
-  focal_length: 28.0
-  focal_length_35: 28.0
+  lat: 54.08893055555556
+  lon: 21.41968055555556
+  altitude: 104.0
+  focal_length: 75.0
+  focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 100
-  width: 5815
-  height: 3869
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:17:24.000000000+02:00
-- image_filename: 2021_08_24__15_01_DSC06873.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.23315277777778
-  lon: 21.21686111111111
-  altitude: 46.0
-  focal_length: 58.0
-  focal_length_35: 58.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 100
   width: 6048
   height: 4024
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-08-24 15:01:24.000000000+02:00
-- image_filename: 2021_08_24__17_17_DSC07050.jpg
+  time: 2021-08-24 12:52:07.000000000+02:00
+- image_filename: 2021_08_24__13_08_DSC06731.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.135263888888886
-  lon: 21.207527777777777
-  altitude: 85.0
-  focal_length: 52.0
-  focal_length_35: 52.0
+  lat: 54.11879166666667
+  lon: 21.399069444444443
+  altitude: 116.0
+  focal_length: 63.0
+  focal_length_35: 63.0
   crop: 1.0
-  aperture: 2.8
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5867
+  height: 3911
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:08:48.000000000+02:00
+- image_filename: 2021_08_24__13_12_DSC06739.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.13243055555556
+  lon: 21.393125
+  altitude: 94.0
+  focal_length: 36.0
+  focal_length_35: 36.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5792
+  height: 3822
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:12:38.000000000+02:00
+- image_filename: 2021_08_24__13_14_DSC06742.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.13736111111111
+  lon: 21.391819444444444
+  altitude: 95.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
   exposure: 0.00125
   exposure_string: 1/800 s
-  iso: 640
-  width: 6048
-  height: 4024
+  iso: 100
+  width: 5660
+  height: 3766
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-08-24 17:17:58.000000000+02:00
+  time: 2021-08-24 13:14:53.000000000+02:00
+- image_filename: 2021_08_24__13_16_DSC06747.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.14080555555555
+  lon: 21.390875
+  altitude: 93.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5882
+  height: 3913
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:16:44.000000000+02:00
+- image_filename: 2021_08_24__13_17_DSC06751.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.14105555555555
+  lon: 21.389166666666664
+  altitude: 92.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5894
+  height: 3921
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:17:02.000000000+02:00
 - image_filename: 2021_08_24__13_17_DSC06753.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
   lat: 54.141041666666666
@@ -1055,23 +169,227 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-24 13:17:16.000000000+02:00
-- image_filename: 2021_08_24__15_55_DSC06908.jpg
+- image_filename: 2021_08_24__13_17_DSC06755.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.19984722222222
-  lon: 21.04136111111111
-  altitude: 53.0
+  lat: 54.141083333333334
+  lon: 21.387375
+  altitude: 90.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 5815
+  height: 3869
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:17:24.000000000+02:00
+- image_filename: 2021_08_24__13_17_DSC06756.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.141125
+  lon: 21.386805555555554
+  altitude: 89.0
+  focal_length: 47.0
+  focal_length_35: 47.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5945
+  height: 3955
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:17:44.000000000+02:00
+- image_filename: 2021_08_24__13_20_DSC06758.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.143708333333336
+  lon: 21.38040277777778
+  altitude: 86.0
+  focal_length: 36.0
+  focal_length_35: 36.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5997
+  height: 3990
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:20:11.000000000+02:00
+- image_filename: 2021_08_24__13_22_DSC06761.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.144625
+  lon: 21.37638888888889
+  altitude: 89.0
+  focal_length: 56.0
+  focal_length_35: 56.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5979
+  height: 3978
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:22:28.000000000+02:00
+- image_filename: 2021_08_24__13_29_DSC06768.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.14798611111111
+  lon: 21.365986111111113
+  altitude: 84.0
+  focal_length: 65.0
+  focal_length_35: 65.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 125
+  width: 5813
+  height: 3868
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:29:46.000000000+02:00
+- image_filename: 2021_08_24__13_29_DSC06770.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.14822222222222
+  lon: 21.365694444444447
+  altitude: 83.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5620
+  height: 3739
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:29:54.000000000+02:00
+- image_filename: 2021_08_24__13_33_DSC06773.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.15468055555555
+  lon: 21.35851388888889
+  altitude: 78.0
+  focal_length: 60.0
+  focal_length_35: 60.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5968
+  height: 3971
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:33:03.000000000+02:00
+- image_filename: 2021_08_24__13_33_DSC06776.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.154944444444446
+  lon: 21.35823611111111
+  altitude: 80.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 5.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5910
+  height: 3932
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:33:14.000000000+02:00
+- image_filename: 2021_08_24__13_33_DSC06777.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.15495833333333
+  lon: 21.358055555555556
+  altitude: 80.0
+  focal_length: 58.0
+  focal_length_35: 58.0
+  crop: 1.0
+  aperture: 5.6
   exposure: 0.004
   exposure_string: 1/250 s
   iso: 100
-  width: 5511
-  height: 3666
+  width: 5939
+  height: 3951
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-08-24 15:55:38.000000000+02:00
+  time: 2021-08-24 13:33:19.000000000+02:00
+- image_filename: 2021_08_24__13_40_DSC06782.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.15348611111111
+  lon: 21.33373611111111
+  altitude: 72.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5788
+  height: 3851
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:40:55.000000000+02:00
+- image_filename: 2021_08_24__13_41_DSC06787.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.15445833333333
+  lon: 21.332583333333332
+  altitude: 71.0
+  focal_length: 68.0
+  focal_length_35: 68.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5879
+  height: 3911
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 13:41:22.000000000+02:00
+- image_filename: 2021_08_24__14_02_DSC06791.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.19095833333333
+  lon: 21.286722222222224
+  altitude: 59.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:02:20.000000000+02:00
+- image_filename: 2021_08_24__14_02_DSC06792.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.19095833333333
+  lon: 21.286722222222224
+  altitude: 59.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5963
+  height: 3967
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:02:24.000000000+02:00
 - image_filename: 2021_08_24__14_06_DSC06798.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
   lat: 54.19347222222222
@@ -1089,23 +407,278 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-24 14:06:29.000000000+02:00
-- image_filename: 2021_08_24__15_33_DSC06899.jpg
+- image_filename: 2021_08_24__14_29_DSC06799.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.23283333333333
-  lon: 21.100222222222225
-  altitude: 38.0
+  lat: 54.20751388888889
+  lon: 21.249305555555555
+  altitude: 41.0
+  focal_length: 51.0
+  focal_length_35: 51.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5694
+  height: 3740
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:29:39.000000000+02:00
+- image_filename: 2021_08_24__14_29_DSC06801.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.20751388888889
+  lon: 21.249305555555555
+  altitude: 41.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 100
-  width: 5600
-  height: 3623
+  width: 5481
+  height: 3435
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-08-24 15:33:38.000000000+02:00
+  time: 2021-08-24 14:29:43.000000000+02:00
+- image_filename: 2021_08_24__14_30_DSC06808.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.20751388888889
+  lon: 21.249305555555555
+  altitude: 41.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 4348
+  height: 3301
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:30:57.000000000+02:00
+- image_filename: 2021_08_24__14_32_DSC06822.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.20751388888889
+  lon: 21.249291666666668
+  altitude: 41.0
+  focal_length: 61.0
+  focal_length_35: 61.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:32:31.000000000+02:00
+- image_filename: 2021_08_24__14_32_DSC06825.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.2075
+  lon: 21.24926388888889
+  altitude: 41.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:32:46.000000000+02:00
+- image_filename: 2021_08_24__14_38_DSC06829.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.20784722222223
+  lon: 21.245972222222225
+  altitude: 39.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5705
+  height: 3796
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:38:34.000000000+02:00
+- image_filename: 2021_08_24__14_38_DSC06830.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.20784722222223
+  lon: 21.245972222222225
+  altitude: 39.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5597
+  height: 3723
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:38:37.000000000+02:00
+- image_filename: 2021_08_24__14_39_DSC06832.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.207930555555556
+  lon: 21.245819444444447
+  altitude: 41.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5675
+  height: 3776
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:39:34.000000000+02:00
+- image_filename: 2021_08_24__14_42_DSC06835.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.21227777777778
+  lon: 21.23286111111111
+  altitude: 41.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:42:20.000000000+02:00
+- image_filename: 2021_08_24__14_42_DSC06837.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.21245833333334
+  lon: 21.232430555555553
+  altitude: 42.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:42:27.000000000+02:00
+- image_filename: 2021_08_24__14_42_DSC06841.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.21295833333333
+  lon: 21.231125
+  altitude: 44.0
+  focal_length: 47.0
+  focal_length_35: 47.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:42:51.000000000+02:00
+- image_filename: 2021_08_24__14_44_DSC06842.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.21406944444445
+  lon: 21.22825
+  altitude: 51.0
+  focal_length: 31.0
+  focal_length_35: 31.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5758
+  height: 3765
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:44:03.000000000+02:00
+- image_filename: 2021_08_24__14_45_DSC06843.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.21472222222223
+  lon: 21.226569444444443
+  altitude: 51.0
+  focal_length: 49.0
+  focal_length_35: 49.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:45:09.000000000+02:00
+- image_filename: 2021_08_24__14_45_DSC06845.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.21472222222223
+  lon: 21.226569444444443
+  altitude: 51.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5965
+  height: 3968
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:45:11.000000000+02:00
+- image_filename: 2021_08_24__14_45_DSC06847.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.21472222222223
+  lon: 21.22658333333333
+  altitude: 51.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:45:19.000000000+02:00
+- image_filename: 2021_08_24__14_46_DSC06853.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.21734722222222
+  lon: 21.21983333333333
+  altitude: 48.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:46:57.000000000+02:00
 - image_filename: 2021_08_24__14_51_DSC06855.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
   lat: 54.21947222222222
@@ -1140,57 +713,40 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-24 14:53:42.000000000+02:00
-- image_filename: 2021_08_24__15_51_DSC06907.jpg
+- image_filename: 2021_08_24__14_53_DSC06860.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.20908333333334
-  lon: 21.053958333333334
-  altitude: 53.0
-  focal_length: 43.0
-  focal_length_35: 43.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5639
-  height: 3752
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 15:51:30.000000000+02:00
-- image_filename: 2021_08_24__13_33_DSC06776.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.154944444444446
-  lon: 21.35823611111111
-  altitude: 80.0
+  lat: 54.220930555555555
+  lon: 21.21948611111111
+  altitude: 44.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 5910
-  height: 3932
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-24 13:33:14.000000000+02:00
-- image_filename: 2021_08_24__17_10_DSC06961.jpg
-  post_slug: 2021-08-24-polnocne-okolice-korsza
-  lat: 54.17281944444444
-  lon: 21.134819444444442
-  altitude: 61.0
-  focal_length: 51.0
-  focal_length_35: 51.0
-  crop: 1.0
-  aperture: 3.5
+  aperture: 5.6
   exposure: 0.00125
   exposure_string: 1/800 s
   iso: 100
-  width: 6046
-  height: 4022
+  width: 5836
+  height: 3883
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-08-24 17:10:55.000000000+02:00
+  time: 2021-08-24 14:53:44.000000000+02:00
+- image_filename: 2021_08_24__14_53_DSC06861.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.22109722222223
+  lon: 21.219680555555556
+  altitude: 44.0
+  focal_length: 36.0
+  focal_length_35: 36.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 5735
+  height: 3816
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:53:48.000000000+02:00
 - image_filename: 2021_08_24__14_53_DSC06862.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
   lat: 54.22130555555556
@@ -1208,6 +764,363 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-24 14:53:53.000000000+02:00
+- image_filename: 2021_08_24__14_54_DSC06864.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.221625
+  lon: 21.220291666666665
+  altitude: 43.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5784
+  height: 3831
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:54:00.000000000+02:00
+- image_filename: 2021_08_24__14_57_DSC06867.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.226819444444445
+  lon: 21.221069444444442
+  altitude: 37.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5731
+  height: 3813
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:57:07.000000000+02:00
+- image_filename: 2021_08_24__14_59_DSC06870.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.23030555555556
+  lon: 21.221
+  altitude: 44.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5769
+  height: 3838
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 14:59:40.000000000+02:00
+- image_filename: 2021_08_24__15_01_DSC06873.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.23315277777778
+  lon: 21.21686111111111
+  altitude: 46.0
+  focal_length: 58.0
+  focal_length_35: 58.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:01:24.000000000+02:00
+- image_filename: 2021_08_24__15_08_DSC06878.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.24427777777778
+  lon: 21.202430555555555
+  altitude: 40.0
+  focal_length: 54.0
+  focal_length_35: 54.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5916
+  height: 3936
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:08:31.000000000+02:00
+- image_filename: 2021_08_24__15_12_DSC06883.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.25377777777778
+  lon: 21.192569444444445
+  altitude: 39.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5916
+  height: 3936
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:12:14.000000000+02:00
+- image_filename: 2021_08_24__15_23_DSC06887.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.239666666666665
+  lon: 21.14270833333333
+  altitude: 40.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5928
+  height: 3944
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:23:47.000000000+02:00
+- image_filename: 2021_08_24__15_26_DSC06888.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.23809722222222
+  lon: 21.12761111111111
+  altitude: 39.0
+  focal_length: 54.0
+  focal_length_35: 54.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5768
+  height: 3837
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:26:22.000000000+02:00
+- image_filename: 2021_08_24__15_27_DSC06891.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.237375
+  lon: 21.123125
+  altitude: 38.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5734
+  height: 3815
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:27:01.000000000+02:00
+- image_filename: 2021_08_24__15_28_DSC06895.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.235305555555556
+  lon: 21.110625000000002
+  altitude: 34.0
+  focal_length: 47.0
+  focal_length_35: 47.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5876
+  height: 3909
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:28:52.000000000+02:00
+- image_filename: 2021_08_24__15_33_DSC06899.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.23283333333333
+  lon: 21.100222222222225
+  altitude: 38.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5600
+  height: 3623
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:33:38.000000000+02:00
+- image_filename: 2021_08_24__15_45_DSC06901.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.22027777777778
+  lon: 21.070791666666665
+  altitude: 44.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5996
+  height: 3989
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:45:41.000000000+02:00
+- image_filename: 2021_08_24__15_45_DSC06902.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.220111111111116
+  lon: 21.070527777777777
+  altitude: 44.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:45:45.000000000+02:00
+- image_filename: 2021_08_24__15_45_DSC06903.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.22002777777778
+  lon: 21.07038888888889
+  altitude: 44.0
+  focal_length: 32.0
+  focal_length_35: 32.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5999
+  height: 3991
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:45:47.000000000+02:00
+- image_filename: 2021_08_24__15_51_DSC06906.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.209097222222226
+  lon: 21.054000000000002
+  altitude: 53.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5751
+  height: 3737
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:51:25.000000000+02:00
+- image_filename: 2021_08_24__15_51_DSC06907.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.20908333333334
+  lon: 21.053958333333334
+  altitude: 53.0
+  focal_length: 43.0
+  focal_length_35: 43.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5639
+  height: 3752
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:51:30.000000000+02:00
+- image_filename: 2021_08_24__15_55_DSC06908.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.19984722222222
+  lon: 21.04136111111111
+  altitude: 53.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5511
+  height: 3666
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:55:38.000000000+02:00
+- image_filename: 2021_08_24__15_55_DSC06911.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.19945833333333
+  lon: 21.04061111111111
+  altitude: 53.0
+  focal_length: 38.0
+  focal_length_35: 38.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5839
+  height: 3885
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 15:55:49.000000000+02:00
+- image_filename: 2021_08_24__16_06_DSC06914.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.18666666666666
+  lon: 21.018152777777775
+  altitude: 55.0
+  focal_length: 65.0
+  focal_length_35: 65.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 16:06:06.000000000+02:00
+- image_filename: 2021_08_24__16_43_DSC06916.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.14230555555555
+  lon: 21.069458333333333
+  altitude: 78.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5948
+  height: 3957
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 16:43:21.000000000+02:00
+- image_filename: 2021_08_24__17_09_DSC06937.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.17447222222222
+  lon: 21.129875000000002
+  altitude: 61.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5994
+  height: 3988
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 17:09:41.000000000+02:00
 - image_filename: 2021_08_24__17_10_DSC06950.jpg
   post_slug: 2021-08-24-polnocne-okolice-korsza
   lat: 54.17395833333333
@@ -1225,3 +1138,88 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-24 17:10:31.000000000+02:00
+- image_filename: 2021_08_24__17_10_DSC06961.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.17281944444444
+  lon: 21.134819444444442
+  altitude: 61.0
+  focal_length: 51.0
+  focal_length_35: 51.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6046
+  height: 4022
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 17:10:55.000000000+02:00
+- image_filename: 2021_08_24__17_10_DSC06971.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.17270833333333
+  lon: 21.135166666666667
+  altitude: 61.0
+  focal_length: 51.0
+  focal_length_35: 51.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5839
+  height: 4017
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 17:10:58.000000000+02:00
+- image_filename: 2021_08_24__17_11_DSC06975.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.17261111111111
+  lon: 21.135472222222223
+  altitude: 61.0
+  focal_length: 34.0
+  focal_length_35: 34.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5369
+  height: 3575
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 17:11:01.000000000+02:00
+- image_filename: 2021_08_24__17_11_DSC06980.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.17256944444444
+  lon: 21.13561111111111
+  altitude: 61.0
+  focal_length: 38.0
+  focal_length_35: 38.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5765
+  height: 3835
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 17:11:03.000000000+02:00
+- image_filename: 2021_08_24__17_17_DSC07050.jpg
+  post_slug: 2021-08-24-polnocne-okolice-korsza
+  lat: 54.135263888888886
+  lon: 21.207527777777777
+  altitude: 85.0
+  focal_length: 52.0
+  focal_length_35: 52.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 640
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-24 17:17:58.000000000+02:00

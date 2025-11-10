@@ -1,15 +1,4 @@
 ---
-- image_filename: IMGP5567raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 08:33:36+01:00
 - image_filename: IMGP5531raw1.jpg
   post_slug: 2018-02-04-orlowskie-kamyczki
   lat: 54.459208333333336
@@ -19,249 +8,11 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
-  time: 2018-02-04 07:24:08+01:00
-- image_filename: IMGP5536raw2.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.45876388888889
-  lon: 18.56277777777778
-  altitude: 4294967296.0
-  focal_length: 13.0
-  focal_length_35: 19.0
-  crop: 1.4615384615384615
-  aperture: 10.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 07:32:50+01:00
-- image_filename: IMGP5540raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.45868055555556
-  lon: 18.56273611111111
-  altitude: 4294967296.0
-  focal_length: 14.0
-  focal_length_35: 21.0
-  crop: 1.5
-  aperture: 14.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 07:40:09+01:00
-- image_filename: IMGP5555raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.45834722222222
-  lon: 18.56286111111111
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 14.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 07:59:49+01:00
-- image_filename: IMGP5561raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.45843055555556
-  lon: 18.562833333333334
-  altitude: 4294967296.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 08:06:20+01:00
-- image_filename: IMGP5566raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.467222222222226
-  lon: 18.56226388888889
-  altitude: 4294967296.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 08:32:27+01:00
-- image_filename: IMGP5602raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.46716666666667
-  lon: 18.562208333333334
-  altitude: 4294967296.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 22.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 09:03:50+01:00
-- image_filename: IMGP5589raw2.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.46716666666667
-  lon: 18.56226388888889
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 15.0
-  exposure_string: 15 s
-  time: 2018-02-04 08:52:29+01:00
-- image_filename: IMGP5563raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.45943055555556
-  lon: 18.562458333333336
-  altitude: 4294967296.0
-  focal_length: 105.0
-  focal_length_35: 157.0
-  crop: 1.4952380952380953
-  aperture: 10.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 08:08:11+01:00
-- image_filename: IMGP5572raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.46716666666667
-  lon: 18.562236111111112
-  altitude: 4294967296.0
-  focal_length: 31.0
-  focal_length_35: 46.0
-  crop: 1.4838709677419355
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 08:38:42+01:00
-- image_filename: IMGP5545raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.45866666666667
-  lon: 18.562763888888888
-  altitude: 4294967296.0
-  focal_length: 14.0
-  focal_length_35: 21.0
-  crop: 1.5
-  aperture: 14.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 07:45:23+01:00
-- image_filename: IMGP5581raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.46709722222222
-  lon: 18.56222222222222
-  altitude: 4294967296.0
-  focal_length: 43.0
-  focal_length_35: 64.0
-  crop: 1.4883720930232558
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-02-04 08:46:06+01:00
-- image_filename: IMGP5558raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.458333333333336
-  lon: 18.562875000000002
-  altitude: 4294967296.0
-  focal_length: 148.0
-  focal_length_35: 222.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 15.0
-  exposure_string: 15 s
-  time: 2018-02-04 08:03:46+01:00
-- image_filename: IMGP5568raw2.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.46720833333333
-  lon: 18.56226388888889
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 08:34:34+01:00
-- image_filename: IMGP5565raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.467222222222226
-  lon: 18.56227777777778
-  altitude: 4294967296.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 08:31:39+01:00
-- image_filename: IMGP5604raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.46716666666667
-  lon: 18.562250000000002
-  altitude: 4294967296.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 22.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 15.0
-  exposure_string: 15 s
-  time: 2018-02-04 09:05:08+01:00
-- image_filename: IMGP5535raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.45901388888889
-  lon: 18.562527777777778
-  altitude: 4294967296.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 07:31:51+01:00
-- image_filename: IMGP5569raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  lat: 54.46720833333333
-  lon: 18.56226388888889
-  altitude: 4294967296.0
-  focal_length: 22.0
-  focal_length_35: 33.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 08:35:44+01:00
+  time: 2018-02-04 07:24:08.000000000+01:00
 - image_filename: IMGP5533raw1.jpg
   post_slug: 2018-02-04-orlowskie-kamyczki
   lat: 54.45923611111112
@@ -271,19 +22,268 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
-  time: 2018-02-04 07:27:22+01:00
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2018-02-04 07:27:22.000000000+01:00
+- image_filename: IMGP5535raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.45901388888889
+  lon: 18.562527777777778
+  altitude: 4294967296.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-02-04 07:31:51.000000000+01:00
+- image_filename: IMGP5536raw2.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.45876388888889
+  lon: 18.56277777777778
+  altitude: 4294967296.0
+  focal_length: 13.0
+  focal_length_35: 19.0
+  crop: 1.4615384615384615
+  aperture: 10.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-02-04 07:32:50.000000000+01:00
+- image_filename: IMGP5540raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.45868055555556
+  lon: 18.56273611111111
+  altitude: 4294967296.0
+  focal_length: 14.0
+  focal_length_35: 21.0
+  crop: 1.5
+  aperture: 14.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-02-04 07:40:09.000000000+01:00
+- image_filename: IMGP5545raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.45866666666667
+  lon: 18.562763888888888
+  altitude: 4294967296.0
+  focal_length: 14.0
+  focal_length_35: 21.0
+  crop: 1.5
+  aperture: 14.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-02-04 07:45:23.000000000+01:00
+- image_filename: IMGP5555raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.45834722222222
+  lon: 18.56286111111111
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 14.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 07:59:49.000000000+01:00
+- image_filename: IMGP5558raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.458333333333336
+  lon: 18.562875000000002
+  altitude: 4294967296.0
+  focal_length: 148.0
+  focal_length_35: 222.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 15.0
+  exposure_string: 15 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:03:46.000000000+01:00
+- image_filename: IMGP5561raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.45843055555556
+  lon: 18.562833333333334
+  altitude: 4294967296.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:06:20.000000000+01:00
+- image_filename: IMGP5563raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.45943055555556
+  lon: 18.562458333333336
+  altitude: 4294967296.0
+  focal_length: 105.0
+  focal_length_35: 157.0
+  crop: 1.4952380952380953
+  aperture: 10.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:08:11.000000000+01:00
+- image_filename: IMGP5565raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.467222222222226
+  lon: 18.56227777777778
+  altitude: 4294967296.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 8.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:31:39.000000000+01:00
+- image_filename: IMGP5566raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.467222222222226
+  lon: 18.56226388888889
+  altitude: 4294967296.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 8.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:32:27.000000000+01:00
+- image_filename: IMGP5567raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:33:36.000000000+01:00
+- image_filename: IMGP5568raw2.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.46720833333333
+  lon: 18.56226388888889
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:34:34.000000000+01:00
+- image_filename: IMGP5569raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.46720833333333
+  lon: 18.56226388888889
+  altitude: 4294967296.0
+  focal_length: 22.0
+  focal_length_35: 33.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:35:44.000000000+01:00
+- image_filename: IMGP5572raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.46716666666667
+  lon: 18.562236111111112
+  altitude: 4294967296.0
+  focal_length: 31.0
+  focal_length_35: 46.0
+  crop: 1.4838709677419355
+  aperture: 14.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:38:42.000000000+01:00
+- image_filename: IMGP5581raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.46709722222222
+  lon: 18.56222222222222
+  altitude: 4294967296.0
+  focal_length: 43.0
+  focal_length_35: 64.0
+  crop: 1.4883720930232558
+  aperture: 9.0
+  exposure: 6.0
+  exposure_string: 1.6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:46:06.000000000+01:00
+- image_filename: IMGP5589raw2.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.46716666666667
+  lon: 18.56226388888889
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 18.0
+  exposure: 15.0
+  exposure_string: 15 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 08:52:29.000000000+01:00
+- image_filename: IMGP5602raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.46716666666667
+  lon: 18.562208333333334
+  altitude: 4294967296.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 22.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 09:03:50.000000000+01:00
+- image_filename: IMGP5604raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.46716666666667
+  lon: 18.562250000000002
+  altitude: 4294967296.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 22.0
+  exposure: 15.0
+  exposure_string: 15 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 09:05:08.000000000+01:00
 - image_filename: IMGP5608raw1.jpg
   post_slug: 2018-02-04-orlowskie-kamyczki
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 22.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 25.0
   exposure_string: 25 s
-  time: 2018-02-04 09:08:35+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-02-04 09:08:35.000000000+01:00

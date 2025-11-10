@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-02-20-pandemiczna-sniezka
 - image_filename: 2021_02_19__18_22__2190271.jpg
   post_slug: 2021-02-20-pandemiczna-sniezka
   focal_length: 150.0
@@ -25,8 +23,8 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
+  exposure: 4.0
+  exposure_string: 0.4 s
   focus_distance: 1000.0
   iso: 200
   width: 5207
@@ -79,8 +77,8 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
-  exposure: 1.0
-  exposure_string: 1 s
+  exposure: 769231.0
+  exposure_string: 0.769231 s
   focus_distance: 1000.0
   iso: 2000
   width: 5239
@@ -97,8 +95,8 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
-  exposure: 3.0
-  exposure_string: 3 s
+  exposure: 2.0
+  exposure_string: 3.2 s
   focus_distance: 1000.0
   iso: 800
   width: 5239
@@ -133,8 +131,8 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 3.2
-  exposure: 1.0
-  exposure_string: 1 s
+  exposure: 3.0
+  exposure_string: 1.3 s
   focus_distance: 1000.0
   iso: 200
   width: 5104
@@ -151,8 +149,8 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 4.5
-  exposure: 1.0
-  exposure_string: 1 s
+  exposure: 3.0
+  exposure_string: 1.3 s
   focus_distance: 1.34
   iso: 200
   width: 5239
@@ -169,8 +167,8 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.5
-  exposure: 1.0
-  exposure_string: 1 s
+  exposure: 3.0
+  exposure_string: 1.3 s
   focus_distance: 1000.0
   iso: 200
   width: 5239

@@ -1,575 +1,4 @@
 ---
-- image_filename: 2020_02_08__15_20_DSC06824.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70531944444445
-  lon: 16.86213888888889
-  altitude: 56.0
-  focal_length: 30.0
-  focal_length_35: 30.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-02-08 15:20:05+01:00
-- image_filename: 2020_02_08__15_42__2081806.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.706694444444445
-  lon: 16.860444444444447
-  altitude: 53.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-02-08 15:42:27+01:00
-  focus_distance: 6.01
-- image_filename: 2020_02_08__15_53_DSC06844.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70677777777778
-  lon: 16.859111111111112
-  altitude: 53.0
-  focal_length: 35.0
-  focal_length_35: 35.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4772
-  height: 7145
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-02-08 15:53:11+01:00
-- image_filename: 2020_02_08__16_01_DSC06850.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70531944444445
-  lon: 16.86301388888889
-  altitude: 56.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-02-08 16:01:39+01:00
-- image_filename: 2020_02_08__16_11__2081923.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70327777777778
-  lon: 16.86515277777778
-  altitude: 56.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-02-08 16:11:23+01:00
-  focus_distance: 9.02
-- image_filename: 2020_02_08__14_48__2081694.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.694736111111105
-  lon: 16.86126388888889
-  altitude: 55.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-02-08 14:48:04+01:00
-  focus_distance: 27.17
-- image_filename: 2020_02_08__15_55_DSC06847.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70670833333334
-  lon: 16.860444444444447
-  altitude: 53.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6908
-  height: 4712
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-02-08 15:55:11+01:00
-- image_filename: 2020_02_08__15_22__2081759.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70523611111111
-  lon: 16.861666666666668
-  altitude: 56.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-02-08 15:22:47+01:00
-  focus_distance: 16.25
-- image_filename: 2020_02_08__15_19__2081752.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70530555555556
-  lon: 16.86213888888889
-  altitude: 56.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-02-08 15:19:42+01:00
-  focus_distance: 7.31
-- image_filename: 2020_02_08__14_54__2081707.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.69459722222222
-  lon: 16.861500000000003
-  altitude: 61.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-02-08 14:54:28+01:00
-  focus_distance: 9.35
-- image_filename: 2020_02_08__15_13__2081738.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70379166666667
-  lon: 16.865236111111113
-  altitude: 58.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-02-08 15:13:58+01:00
-  focus_distance: 3.18
-- image_filename: 2020_02_08__14_46__2081688.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.694652777777776
-  lon: 16.861305555555557
-  altitude: 55.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-02-08 14:46:18+01:00
-  focus_distance: 37.92
-- image_filename: 2020_02_08__16_31__2081937.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.68911111111111
-  lon: 16.859361111111113
-  altitude: 56.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2020-02-08 16:31:33+01:00
-  focus_distance: 113.78
-- image_filename: 2020_02_08__14_45__2081683.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.694541666666666
-  lon: 16.86123611111111
-  altitude: 55.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-02-08 14:45:15+01:00
-  focus_distance: 21.73
-- image_filename: 2020_02_08__15_18__2081748.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70527777777778
-  lon: 16.86226388888889
-  altitude: 56.0
-  focal_length: 110.0
-  focal_length_35: 220.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-02-08 15:18:38+01:00
-  focus_distance: 6.01
-- image_filename: 2020_02_08__16_10__2081918.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70370833333334
-  lon: 16.865180555555558
-  altitude: 56.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4267
-  height: 3358
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-02-08 16:10:45+01:00
-  focus_distance: 48.19
-- image_filename: 2020_02_08__15_23__2081764.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.705222222222226
-  lon: 16.861319444444447
-  altitude: 56.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-02-08 15:23:04+01:00
-  focus_distance: 8.06
-- image_filename: 2020_02_08__14_54__2081709.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.69456944444444
-  lon: 16.861694444444446
-  altitude: 64.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-02-08 14:54:51+01:00
-  focus_distance: 7.82
-- image_filename: 2020_02_08__14_55__2081712.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.694541666666666
-  lon: 16.86176388888889
-  altitude: 64.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-02-08 14:55:02+01:00
-  focus_distance: 49.95
-- image_filename: 2020_02_08__16_30__2081935.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.68976388888888
-  lon: 16.85977777777778
-  altitude: 57.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2020-02-08 16:30:35+01:00
-  focus_distance: 9.97
-- image_filename: 2020_02_08__16_01__2081873.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70530555555556
-  lon: 16.862861111111112
-  altitude: 56.0
-  focal_length: 90.0
-  focal_length_35: 180.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5047
-  height: 3768
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-02-08 16:01:29+01:00
-  focus_distance: 15.81
-- image_filename: 2020_02_08__15_18__2081746.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70527777777778
-  lon: 16.86273611111111
-  altitude: 56.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-02-08 15:18:11+01:00
-  focus_distance: 7.0
-- image_filename: 2020_02_08__15_24__2081771.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.705222222222226
-  lon: 16.86077777777778
-  altitude: 55.0
-  focal_length: 160.0
-  focal_length_35: 320.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-02-08 15:24:05+01:00
-  focus_distance: 48.19
-- image_filename: 2020_02_08__16_00__2081863.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70530555555556
-  lon: 16.861833333333333
-  altitude: 56.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5142
-  height: 3818
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-02-08 16:00:24+01:00
-  focus_distance: 105.03
-- image_filename: 2020_02_08__16_22__2081934.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.69577777777778
-  lon: 16.86301388888889
-  altitude: 56.0
-  focal_length: 190.0
-  focal_length_35: 380.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2020-02-08 16:22:29+01:00
-  focus_distance: 48.19
-- image_filename: 2020_02_08__15_13__2081736.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70368055555556
-  lon: 16.865194444444445
-  altitude: 58.0
-  focal_length: 85.0
-  focal_length_35: 170.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-02-08 15:13:42+01:00
-  focus_distance: 1.7
-- image_filename: 2020_02_08__14_30__2081657.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.687152777777776
-  lon: 16.858
-  altitude: 70.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-02-08 14:30:14+01:00
-  focus_distance: 3.27
-- image_filename: 2020_02_08__15_43__2081807.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.706722222222226
-  lon: 16.860305555555556
-  altitude: 54.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5033
-  height: 3757
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-02-08 15:43:32+01:00
-  focus_distance: 12.44
-- image_filename: 2020_02_08__14_35__2081671.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.68981944444444
-  lon: 16.859694444444447
-  altitude: 65.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-02-08 14:35:28+01:00
-  focus_distance: 16.28
-- image_filename: 2020_02_08__15_51__2081847.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70708333333334
-  lon: 16.858458333333335
-  altitude: 53.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-02-08 15:51:50+01:00
-  focus_distance: 21.78
-- image_filename: 2020_02_08__15_45_DSC06828.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70677777777778
-  lon: 16.859291666666667
-  altitude: 54.0
-  focal_length: 34.0
-  focal_length_35: 34.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-02-08 15:45:07+01:00
-- image_filename: 2020_02_08__15_04__2081730.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.698166666666665
-  lon: 16.864736111111114
-  altitude: 65.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-02-08 15:04:48+01:00
-  focus_distance: 91.02
 - image_filename: 2020_02_08__14_28__2081654.jpg
   post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
   lat: 52.68608333333333
@@ -579,33 +8,69 @@
   focal_length_35: 26.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-02-08 14:28:02+01:00
   focus_distance: 1.29
-- image_filename: 2020_02_08__16_07__2081882.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.704527777777784
-  lon: 16.864958333333334
-  altitude: 55.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-02-08 16:07:01+01:00
-  focus_distance: 17.28
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-02-08 14:28:02.000000000+01:00
+- image_filename: 2020_02_08__14_30__2081657.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.687152777777776
+  lon: 16.858
+  altitude: 70.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 3.27
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-02-08 14:30:14.000000000+01:00
+- image_filename: 2020_02_08__14_35__2081671.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.68981944444444
+  lon: 16.859694444444447
+  altitude: 65.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 16.28
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-02-08 14:35:28.000000000+01:00
+- image_filename: 2020_02_08__14_45__2081683.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.694541666666666
+  lon: 16.86123611111111
+  altitude: 55.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 21.73
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-02-08 14:45:15.000000000+01:00
 - image_filename: 2020_02_08__14_46__2081686.jpg
   post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
   lat: 52.69463888888889
@@ -615,85 +80,159 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-02-08 14:46:02+01:00
   focus_distance: 7.22
-- image_filename: 2020_02_08__15_54_DSC06846.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.706763888888894
-  lon: 16.859805555555557
-  altitude: 53.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-02-08 15:54:35+01:00
-- image_filename: 2020_02_08__15_59__2081857.jpg
-  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.705333333333336
-  lon: 16.861138888888892
-  altitude: 55.0
-  focal_length: 190.0
-  focal_length_35: 380.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2020-02-08 15:59:07+01:00
-  focus_distance: 10.19
-- image_filename: 2020_02_08__15_24__2081775.jpg
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-02-08 14:46:02.000000000+01:00
+- image_filename: 2020_02_08__14_46__2081688.jpg
   post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70525
-  lon: 16.86052777777778
-  altitude: 56.0
+  lat: 52.694652777777776
+  lon: 16.861305555555557
+  altitude: 55.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 37.92
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-02-08 14:46:18.000000000+01:00
+- image_filename: 2020_02_08__14_48__2081694.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.694736111111105
+  lon: 16.86126388888889
+  altitude: 55.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 27.17
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-02-08 14:48:04.000000000+01:00
+- image_filename: 2020_02_08__14_54__2081707.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.69459722222222
+  lon: 16.861500000000003
+  altitude: 61.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 9.35
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 14:54:28.000000000+01:00
+- image_filename: 2020_02_08__14_54__2081709.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.69456944444444
+  lon: 16.861694444444446
+  altitude: 64.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 7.82
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 14:54:51.000000000+01:00
+- image_filename: 2020_02_08__14_55__2081712.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.694541666666666
+  lon: 16.86176388888889
+  altitude: 64.0
   focal_length: 210.0
   focal_length_35: 420.0
   crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
+  aperture: 4.0
   exposure: 0.025
   exposure_string: 1/40 s
-  time: 2020-02-08 15:24:23+01:00
-  focus_distance: 80.31
-- image_filename: 2020_02_08__15_19_DSC06823.jpg
+  focus_distance: 49.95
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 14:55:02.000000000+01:00
+- image_filename: 2020_02_08__15_04__2081730.jpg
   post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
-  lat: 52.70530555555556
-  lon: 16.86213888888889
-  altitude: 56.0
-  focal_length: 30.0
-  focal_length_35: 30.0
-  crop: 1.0
+  lat: 52.698166666666665
+  lon: 16.864736111111114
+  altitude: 65.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 91.02
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:04:48.000000000+01:00
+- image_filename: 2020_02_08__15_13__2081736.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70368055555556
+  lon: 16.865194444444445
+  altitude: 58.0
+  focal_length: 85.0
+  focal_length_35: 170.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:13:42.000000000+01:00
+- image_filename: 2020_02_08__15_13__2081738.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70379166666667
+  lon: 16.865236111111113
+  altitude: 58.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
   aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-02-08 15:19:52+01:00
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 3.18
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:13:58.000000000+01:00
 - image_filename: 2020_02_08__15_14__2081743.jpg
   post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
   lat: 52.70436111111111
@@ -703,12 +242,473 @@
   focal_length_35: 180.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-02-08 15:14:55+01:00
   focus_distance: 12.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:14:55.000000000+01:00
+- image_filename: 2020_02_08__15_18__2081746.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70527777777778
+  lon: 16.86273611111111
+  altitude: 56.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 7.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:18:11.000000000+01:00
+- image_filename: 2020_02_08__15_18__2081748.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70527777777778
+  lon: 16.86226388888889
+  altitude: 56.0
+  focal_length: 110.0
+  focal_length_35: 220.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 6.01
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:18:38.000000000+01:00
+- image_filename: 2020_02_08__15_19_DSC06823.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70530555555556
+  lon: 16.86213888888889
+  altitude: 56.0
+  focal_length: 30.0
+  focal_length_35: 30.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 4920
+  height: 7366
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-02-08 15:19:52.000000000+01:00
+- image_filename: 2020_02_08__15_19__2081752.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70530555555556
+  lon: 16.86213888888889
+  altitude: 56.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 7.31
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:19:42.000000000+01:00
+- image_filename: 2020_02_08__15_20_DSC06824.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70531944444445
+  lon: 16.86213888888889
+  altitude: 56.0
+  focal_length: 30.0
+  focal_length_35: 30.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-02-08 15:20:05.000000000+01:00
+- image_filename: 2020_02_08__15_22__2081759.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70523611111111
+  lon: 16.861666666666668
+  altitude: 56.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 16.25
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:22:47.000000000+01:00
+- image_filename: 2020_02_08__15_23__2081764.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.705222222222226
+  lon: 16.861319444444447
+  altitude: 56.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 8.06
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:23:04.000000000+01:00
+- image_filename: 2020_02_08__15_24__2081771.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.705222222222226
+  lon: 16.86077777777778
+  altitude: 55.0
+  focal_length: 160.0
+  focal_length_35: 320.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 48.19
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:24:05.000000000+01:00
+- image_filename: 2020_02_08__15_24__2081775.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70525
+  lon: 16.86052777777778
+  altitude: 56.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 80.31
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:24:23.000000000+01:00
+- image_filename: 2020_02_08__15_42__2081806.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.706694444444445
+  lon: 16.860444444444447
+  altitude: 53.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 6.01
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:42:27.000000000+01:00
+- image_filename: 2020_02_08__15_43__2081807.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.706722222222226
+  lon: 16.860305555555556
+  altitude: 54.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 12.44
+  iso: 200
+  width: 5033
+  height: 3757
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:43:32.000000000+01:00
+- image_filename: 2020_02_08__15_45_DSC06828.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70677777777778
+  lon: 16.859291666666667
+  altitude: 54.0
+  focal_length: 34.0
+  focal_length_35: 34.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-02-08 15:45:07.000000000+01:00
+- image_filename: 2020_02_08__15_51__2081847.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70708333333334
+  lon: 16.858458333333335
+  altitude: 53.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 21.78
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:51:50.000000000+01:00
+- image_filename: 2020_02_08__15_53_DSC06844.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70677777777778
+  lon: 16.859111111111112
+  altitude: 53.0
+  focal_length: 35.0
+  focal_length_35: 35.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 4772
+  height: 7145
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-02-08 15:53:11.000000000+01:00
+- image_filename: 2020_02_08__15_54_DSC06846.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.706763888888894
+  lon: 16.859805555555557
+  altitude: 53.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 4920
+  height: 7366
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-02-08 15:54:35.000000000+01:00
+- image_filename: 2020_02_08__15_55_DSC06847.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70670833333334
+  lon: 16.860444444444447
+  altitude: 53.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6908
+  height: 4712
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-02-08 15:55:11.000000000+01:00
+- image_filename: 2020_02_08__15_59__2081857.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.705333333333336
+  lon: 16.861138888888892
+  altitude: 55.0
+  focal_length: 190.0
+  focal_length_35: 380.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 10.19
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 15:59:07.000000000+01:00
+- image_filename: 2020_02_08__16_00__2081863.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70530555555556
+  lon: 16.861833333333333
+  altitude: 56.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 105.03
+  iso: 200
+  width: 5142
+  height: 3818
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 16:00:24.000000000+01:00
+- image_filename: 2020_02_08__16_01_DSC06850.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70531944444445
+  lon: 16.86301388888889
+  altitude: 56.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-02-08 16:01:39.000000000+01:00
+- image_filename: 2020_02_08__16_01__2081873.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70530555555556
+  lon: 16.862861111111112
+  altitude: 56.0
+  focal_length: 90.0
+  focal_length_35: 180.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 15.81
+  iso: 200
+  width: 5047
+  height: 3768
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 16:01:29.000000000+01:00
+- image_filename: 2020_02_08__16_07__2081882.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.704527777777784
+  lon: 16.864958333333334
+  altitude: 55.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 17.28
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 16:07:01.000000000+01:00
+- image_filename: 2020_02_08__16_10__2081918.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70370833333334
+  lon: 16.865180555555558
+  altitude: 56.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 48.19
+  iso: 200
+  width: 4267
+  height: 3358
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 16:10:45.000000000+01:00
+- image_filename: 2020_02_08__16_11__2081923.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.70327777777778
+  lon: 16.86515277777778
+  altitude: 56.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 9.02
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 16:11:23.000000000+01:00
+- image_filename: 2020_02_08__16_22__2081934.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.69577777777778
+  lon: 16.86301388888889
+  altitude: 56.0
+  focal_length: 190.0
+  focal_length_35: 380.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 48.19
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 16:22:29.000000000+01:00
+- image_filename: 2020_02_08__16_30__2081935.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.68976388888888
+  lon: 16.85977777777778
+  altitude: 57.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 9.97
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 16:30:35.000000000+01:00
+- image_filename: 2020_02_08__16_31__2081937.jpg
+  post_slug: 2020-02-08-polaczenie-rzek-welny-i-flinty
+  lat: 52.68911111111111
+  lon: 16.859361111111113
+  altitude: 56.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 113.78
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-02-08 16:31:33.000000000+01:00

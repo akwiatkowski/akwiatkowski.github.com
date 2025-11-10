@@ -1,4 +1,454 @@
 ---
+- image_filename: 2022_07_17__10_02_P7174921.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.42411111111111
+  lon: 15.620750000000001
+  altitude: 57.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.15
+  iso: 200
+  width: 7440
+  height: 5528
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 10:02:13.000000000+02:00
+- image_filename: 2022_07_17__10_04_P7174924.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.42444444444444
+  lon: 15.621180555555556
+  altitude: 57.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8080
+  height: 5964
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 10:04:01.000000000+02:00
+- image_filename: 2022_07_17__10_10_P7174925.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.43102777777778
+  lon: 15.62213888888889
+  altitude: 67.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 12.77
+  iso: 200
+  width: 8194
+  height: 6124
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 10:10:01.000000000+02:00
+- image_filename: 2022_07_17__10_16_P7174928.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.43904166666666
+  lon: 15.625152777777778
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 48.76
+  iso: 200
+  width: 7987
+  height: 6013
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 10:16:17.000000000+02:00
+- image_filename: 2022_07_17__10_29_P7174930.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.460486111111116
+  lon: 15.644291666666666
+  altitude: 55.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 17.37
+  iso: 200
+  width: 8027
+  height: 6005
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 10:29:01.000000000+02:00
+- image_filename: 2022_07_17__10_34_P7174933.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.465138888888895
+  lon: 15.646513888888888
+  altitude: 53.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 20.5
+  iso: 200
+  width: 7982
+  height: 5832
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 10:34:50.000000000+02:00
+- image_filename: 2022_07_17__10_43_P7174947.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.46619444444445
+  lon: 15.645513888888889
+  altitude: 53.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.03
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 10:43:39.000000000+02:00
+- image_filename: 2022_07_17__10_51_P7174951.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.467930555555554
+  lon: 15.648513888888889
+  altitude: 52.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 41.27
+  iso: 200
+  width: 8116
+  height: 6020
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 10:51:37.000000000+02:00
+- image_filename: 2022_07_17__11_00_P7174955.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47515277777778
+  lon: 15.654097222222223
+  altitude: 55.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.43
+  iso: 200
+  width: 4089
+  height: 3091
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:00:29.000000000+02:00
+- image_filename: 2022_07_17__11_00_P7174960.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47515277777778
+  lon: 15.654097222222223
+  altitude: 55.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.3
+  iso: 200
+  width: 5178
+  height: 3834
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:00:49.000000000+02:00
+- image_filename: 2022_07_17__11_00_P7174965.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47515277777778
+  lon: 15.654097222222223
+  altitude: 55.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.65
+  iso: 200
+  width: 5032
+  height: 3450
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:00:58.000000000+02:00
+- image_filename: 2022_07_17__11_12_P7174972.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.75
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:12:15.000000000+02:00
+- image_filename: 2022_07_17__11_12_P7174980.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.22
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:12:40.000000000+02:00
+- image_filename: 2022_07_17__11_16_P7175010.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 0.27
+  iso: 800
+  width: 4017
+  height: 3010
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:16:38.000000000+02:00
+- image_filename: 2022_07_17__11_16_P7175024.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.25
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:16:58.000000000+02:00
+- image_filename: 2022_07_17__11_17_P7175032.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.2
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:17:04.000000000+02:00
+- image_filename: 2022_07_17__11_17_P7175045.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.24
+  iso: 800
+  width: 4049
+  height: 3098
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:17:38.000000000+02:00
+- image_filename: 2022_07_17__11_17_P7175051.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.25
+  iso: 800
+  width: 4443
+  height: 3356
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:17:54.000000000+02:00
+- image_filename: 2022_07_17__11_19_P7175078.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.23
+  iso: 800
+  width: 5048
+  height: 3635
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:19:15.000000000+02:00
+- image_filename: 2022_07_17__11_20_P7175090.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 0.25
+  iso: 800
+  width: 4918
+  height: 3390
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:20:41.000000000+02:00
+- image_filename: 2022_07_17__11_21_P7175124.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.19
+  iso: 800
+  width: 4557
+  height: 3186
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:21:52.000000000+02:00
+- image_filename: 2022_07_17__11_22_P7175135.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.27
+  iso: 800
+  width: 4349
+  height: 3146
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:22:52.000000000+02:00
+- image_filename: 2022_07_17__11_24_P7175143.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 0.38
+  iso: 800
+  width: 4371
+  height: 3294
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:24:41.000000000+02:00
+- image_filename: 2022_07_17__11_30_P7175163.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47529166666667
+  lon: 15.648347222222222
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.25
+  iso: 200
+  width: 8082
+  height: 5681
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:30:10.000000000+02:00
+- image_filename: 2022_07_17__11_45_P7175212.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47536111111111
+  lon: 15.648416666666666
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.29
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:45:10.000000000+02:00
 - image_filename: 2022_07_17__11_45_P7175222.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
   lat: 52.47536111111111
@@ -17,6 +467,114 @@
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkIII
   time: 2022-07-17 11:45:20.000000000+02:00
+- image_filename: 2022_07_17__11_46_P7175234.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47536111111111
+  lon: 15.648416666666666
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.27
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:46:03.000000000+02:00
+- image_filename: 2022_07_17__11_46_P7175250.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47536111111111
+  lon: 15.648416666666666
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.23
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:46:22.000000000+02:00
+- image_filename: 2022_07_17__11_46_P7175264.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47536111111111
+  lon: 15.648416666666666
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.22
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:46:53.000000000+02:00
+- image_filename: 2022_07_17__11_47_P7175278.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47536111111111
+  lon: 15.648416666666666
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.2
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:47:01.000000000+02:00
+- image_filename: 2022_07_17__11_53_P7175299.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47536111111111
+  lon: 15.648416666666666
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.35
+  iso: 400
+  width: 4241
+  height: 3099
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:53:21.000000000+02:00
+- image_filename: 2022_07_17__11_55_P7175314.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47536111111111
+  lon: 15.648416666666666
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.25
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-07-17 11:55:15.000000000+02:00
 - image_filename: 2022_07_17__12_04_P7175336.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
   lat: 52.47536111111111
@@ -53,7 +611,7 @@
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkIII
   time: 2022-07-17 12:08:13.000000000+02:00
-- image_filename: 2022_07_17__11_47_P7175278.jpg
+- image_filename: 2022_07_17__12_10_P7175378.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
   lat: 52.47536111111111
   lon: 15.648416666666666
@@ -61,16 +619,88 @@
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
-  aperture: 6.3
+  aperture: 8.0
   exposure: 0.004
   exposure_string: 1/250 s
   focus_distance: 0.2
   iso: 400
-  width: 5240
-  height: 3912
+  width: 3576
+  height: 4917
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkIII
-  time: 2022-07-17 11:47:01.000000000+02:00
+  time: 2022-07-17 12:10:04.000000000+02:00
+- image_filename: 2022_07_17__12_18_P7175412.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.47536111111111
+  lon: 15.648416666666666
+  altitude: 50.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.49
+  iso: 320
+  width: 4901
+  height: 3543
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 12:18:22.000000000+02:00
+- image_filename: 2022_07_17__12_35_P7175435.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.46820833333334
+  lon: 15.665597222222223
+  altitude: 54.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 0.57
+  iso: 320
+  width: 4561
+  height: 3127
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 12:35:07.000000000+02:00
+- image_filename: 2022_07_17__12_35_P7175439.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.46820833333334
+  lon: 15.665597222222223
+  altitude: 54.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 0.47
+  iso: 320
+  width: 5084
+  height: 3403
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 12:35:09.000000000+02:00
+- image_filename: 2022_07_17__12_41_P7175447.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.46551388888889
+  lon: 15.674999999999999
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.21
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 12:41:25.000000000+02:00
 - image_filename: 2022_07_17__12_47_P7175450.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
   lat: 52.46443055555556
@@ -107,654 +737,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-07-17 12:51:31.000000000+02:00
-- image_filename: 2022_07_17__11_17_P7175045.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 0.24
-  iso: 800
-  width: 4049
-  height: 3098
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:17:38.000000000+02:00
-- image_filename: 2022_07_17__11_21_P7175124.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 0.19
-  iso: 800
-  width: 4557
-  height: 3186
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:21:52.000000000+02:00
-- image_filename: 2022_07_17__16_38_P7175803.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.417291666666664
-  lon: 15.618194444444445
-  altitude: 59.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 15.02
-  iso: 200
-  width: 8016
-  height: 5992
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 16:38:55.000000000+02:00
-- image_filename: 2022_07_17__11_46_P7175264.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47536111111111
-  lon: 15.648416666666666
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 0.22
-  iso: 400
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:46:53.000000000+02:00
-- image_filename: 2022_07_17__11_12_P7174972.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 0.75
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:12:15.000000000+02:00
-- image_filename: 2022_07_17__11_17_P7175051.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 0.25
-  iso: 800
-  width: 4443
-  height: 3356
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:17:54.000000000+02:00
-- image_filename: 2022_07_17__11_17_P7175032.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 0.2
-  iso: 800
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:17:04.000000000+02:00
-- image_filename: 2022_07_17__11_12_P7174980.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 0.22
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:12:40.000000000+02:00
-- image_filename: 2022_07_17__10_51_P7174951.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.467930555555554
-  lon: 15.648513888888889
-  altitude: 52.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 41.27
-  iso: 200
-  width: 8116
-  height: 6020
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 10:51:37.000000000+02:00
-- image_filename: 2022_07_17__11_45_P7175212.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47536111111111
-  lon: 15.648416666666666
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.29
-  iso: 400
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:45:10.000000000+02:00
-- image_filename: 2022_07_17__12_35_P7175439.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.46820833333334
-  lon: 15.665597222222223
-  altitude: 54.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 0.47
-  iso: 320
-  width: 5084
-  height: 3403
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 12:35:09.000000000+02:00
-- image_filename: 2022_07_17__11_00_P7174965.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47515277777778
-  lon: 15.654097222222223
-  altitude: 55.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 2.65
-  iso: 200
-  width: 5032
-  height: 3450
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:00:58.000000000+02:00
-- image_filename: 2022_07_17__11_20_P7175090.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 0.25
-  iso: 800
-  width: 4918
-  height: 3390
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:20:41.000000000+02:00
-- image_filename: 2022_07_17__11_00_P7174960.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47515277777778
-  lon: 15.654097222222223
-  altitude: 55.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 4.3
-  iso: 200
-  width: 5178
-  height: 3834
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:00:49.000000000+02:00
-- image_filename: 2022_07_17__14_34_P7175465.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.417291666666664
-  lon: 15.618194444444445
-  altitude: 59.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 2.18
-  iso: 800
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-07-17 14:34:20.000000000+02:00
-- image_filename: 2022_07_17__11_30_P7175163.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 0.25
-  iso: 200
-  width: 8082
-  height: 5681
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:30:10.000000000+02:00
-- image_filename: 2022_07_17__14_37_P7175571.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.417291666666664
-  lon: 15.618194444444445
-  altitude: 59.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1.33
-  iso: 250
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-07-17 14:37:15.000000000+02:00
-- image_filename: 2022_07_17__11_16_P7175024.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 0.25
-  iso: 800
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:16:58.000000000+02:00
-- image_filename: 2022_07_17__14_34_P7175480.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.417291666666664
-  lon: 15.618194444444445
-  altitude: 59.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 1.21
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-07-17 14:34:55.000000000+02:00
-- image_filename: 2022_07_17__11_46_P7175250.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47536111111111
-  lon: 15.648416666666666
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 0.23
-  iso: 400
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:46:22.000000000+02:00
-- image_filename: 2022_07_17__11_53_P7175299.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47536111111111
-  lon: 15.648416666666666
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 0.35
-  iso: 400
-  width: 4241
-  height: 3099
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:53:21.000000000+02:00
-- image_filename: 2022_07_17__11_00_P7174955.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47515277777778
-  lon: 15.654097222222223
-  altitude: 55.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 4.43
-  iso: 200
-  width: 4089
-  height: 3091
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:00:29.000000000+02:00
-- image_filename: 2022_07_17__10_16_P7174928.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.43904166666666
-  lon: 15.625152777777778
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 48.76
-  iso: 200
-  width: 7987
-  height: 6013
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 10:16:17.000000000+02:00
-- image_filename: 2022_07_17__10_04_P7174924.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.42444444444444
-  lon: 15.621180555555556
-  altitude: 57.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8080
-  height: 5964
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 10:04:01.000000000+02:00
-- image_filename: 2022_07_17__12_35_P7175435.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.46820833333334
-  lon: 15.665597222222223
-  altitude: 54.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 0.57
-  iso: 320
-  width: 4561
-  height: 3127
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 12:35:07.000000000+02:00
-- image_filename: 2022_07_17__11_19_P7175078.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 0.23
-  iso: 800
-  width: 5048
-  height: 3635
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:19:15.000000000+02:00
-- image_filename: 2022_07_17__14_35_P7175492.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.417291666666664
-  lon: 15.618194444444445
-  altitude: 59.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 2.3
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-07-17 14:35:38.000000000+02:00
-- image_filename: 2022_07_17__10_34_P7174933.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.465138888888895
-  lon: 15.646513888888888
-  altitude: 53.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 20.5
-  iso: 200
-  width: 7982
-  height: 5832
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 10:34:50.000000000+02:00
-- image_filename: 2022_07_17__11_24_P7175143.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 0.38
-  iso: 800
-  width: 4371
-  height: 3294
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:24:41.000000000+02:00
-- image_filename: 2022_07_17__11_46_P7175234.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47536111111111
-  lon: 15.648416666666666
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 0.27
-  iso: 400
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:46:03.000000000+02:00
-- image_filename: 2022_07_17__11_22_P7175135.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 0.27
-  iso: 800
-  width: 4349
-  height: 3146
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:22:52.000000000+02:00
-- image_filename: 2022_07_17__12_10_P7175378.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47536111111111
-  lon: 15.648416666666666
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 0.2
-  iso: 400
-  width: 3576
-  height: 4917
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 12:10:04.000000000+02:00
-- image_filename: 2022_07_17__10_29_P7174930.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.460486111111116
-  lon: 15.644291666666666
-  altitude: 55.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 17.37
-  iso: 200
-  width: 8027
-  height: 6005
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 10:29:01.000000000+02:00
-- image_filename: 2022_07_17__14_09_P7175461.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.42419444444444
-  lon: 15.620694444444444
-  altitude: 58.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 2.45
-  iso: 200
-  width: 7997
-  height: 5994
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 14:09:40.000000000+02:00
-- image_filename: 2022_07_17__12_18_P7175412.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47536111111111
-  lon: 15.648416666666666
-  altitude: 50.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 0.49
-  iso: 320
-  width: 4901
-  height: 3543
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 12:18:22.000000000+02:00
-- image_filename: 2022_07_17__10_02_P7174921.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.42411111111111
-  lon: 15.620750000000001
-  altitude: 57.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 2.15
-  iso: 200
-  width: 7440
-  height: 5528
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 10:02:13.000000000+02:00
 - image_filename: 2022_07_17__12_55_P7175457.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
   lat: 52.46259722222222
@@ -773,60 +755,96 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-07-17 12:55:34.000000000+02:00
-- image_filename: 2022_07_17__14_40_P7175698.jpg
+- image_filename: 2022_07_17__14_09_P7175461.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.42419444444444
+  lon: 15.620694444444444
+  altitude: 58.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.45
+  iso: 200
+  width: 7997
+  height: 5994
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-17 14:09:40.000000000+02:00
+- image_filename: 2022_07_17__14_34_P7175465.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
   lat: 52.417291666666664
   lon: 15.618194444444445
   altitude: 59.0
-  focal_length: 135.0
-  focal_length_35: 270.0
+  focal_length: 150.0
+  focal_length_35: 300.0
   crop: 2.0
   aperture: 2.8
   exposure: 0.0025
   exposure_string: 1/400 s
-  focus_distance: 0.71
-  iso: 500
+  focus_distance: 2.18
+  iso: 800
   width: 5239
   height: 3911
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-07-17 14:40:36.000000000+02:00
-- image_filename: 2022_07_17__10_43_P7174947.jpg
+  time: 2022-07-17 14:34:20.000000000+02:00
+- image_filename: 2022_07_17__14_34_P7175480.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.46619444444445
-  lon: 15.645513888888889
-  altitude: 53.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.417291666666664
+  lon: 15.618194444444445
+  altitude: 59.0
+  focal_length: 150.0
+  focal_length_35: 300.0
   crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.03
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1.21
   iso: 200
   width: 5239
   height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
+  lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-07-17 10:43:39.000000000+02:00
-- image_filename: 2022_07_17__11_16_P7175010.jpg
+  time: 2022-07-17 14:34:55.000000000+02:00
+- image_filename: 2022_07_17__14_35_P7175492.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47529166666667
-  lon: 15.648347222222222
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
+  lat: 52.417291666666664
+  lon: 15.618194444444445
+  altitude: 59.0
+  focal_length: 150.0
+  focal_length_35: 300.0
   crop: 2.0
-  aperture: 5.0
+  aperture: 2.8
   exposure: 0.001
   exposure_string: 1/1000 s
-  focus_distance: 0.27
-  iso: 800
-  width: 4017
-  height: 3010
-  lens: OLYMPUS M.60mm F2.8 Macro
+  focus_distance: 2.3
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-07-17 11:16:38.000000000+02:00
+  time: 2022-07-17 14:35:38.000000000+02:00
+- image_filename: 2022_07_17__14_37_P7175571.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.417291666666664
+  lon: 15.618194444444445
+  altitude: 59.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.33
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-07-17 14:37:15.000000000+02:00
 - image_filename: 2022_07_17__14_38_P7175608.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
   lat: 52.417291666666664
@@ -845,57 +863,39 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-07-17 14:38:27.000000000+02:00
-- image_filename: 2022_07_17__10_10_P7174925.jpg
+- image_filename: 2022_07_17__14_40_P7175698.jpg
   post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.43102777777778
-  lon: 15.62213888888889
-  altitude: 67.0
-  focal_length: 29.0
-  focal_length_35: 58.0
+  lat: 52.417291666666664
+  lon: 15.618194444444445
+  altitude: 59.0
+  focal_length: 135.0
+  focal_length_35: 270.0
   crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 12.77
-  iso: 200
-  width: 8194
-  height: 6124
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-17 10:10:01.000000000+02:00
-- image_filename: 2022_07_17__11_55_P7175314.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.47536111111111
-  lon: 15.648416666666666
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
+  aperture: 2.8
   exposure: 0.0025
   exposure_string: 1/400 s
-  focus_distance: 0.25
-  iso: 400
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-07-17 11:55:15.000000000+02:00
-- image_filename: 2022_07_17__12_41_P7175447.jpg
-  post_slug: 2022-07-17-motyle-przy-obrze
-  lat: 52.46551388888889
-  lon: 15.674999999999999
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 2.21
-  iso: 200
+  focus_distance: 0.71
+  iso: 500
   width: 5239
   height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-07-17 14:40:36.000000000+02:00
+- image_filename: 2022_07_17__16_38_P7175803.jpg
+  post_slug: 2022-07-17-motyle-przy-obrze
+  lat: 52.417291666666664
+  lon: 15.618194444444445
+  altitude: 59.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 15.02
+  iso: 200
+  width: 8016
+  height: 5992
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-07-17 12:41:25.000000000+02:00
+  time: 2022-07-17 16:38:55.000000000+02:00

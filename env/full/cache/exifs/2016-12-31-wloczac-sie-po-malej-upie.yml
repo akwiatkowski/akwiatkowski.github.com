@@ -1,20 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-12-31-wloczac-sie-po-malej-upie
-  lat: 50.73386111111111
-  lon: 15.810402777777778
-  altitude: 935.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-12-31 13:37:12+01:00
 - image_filename: IMGP1158raw1.jpg
   post_slug: 2016-12-31-wloczac-sie-po-malej-upie
   lat: 50.742152777777775
@@ -24,11 +8,11 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2016-12-31 12:29:49+01:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-12-31 12:29:49.000000000+01:00
 - image_filename: IMGP1189raw1.jpg
   post_slug: 2016-12-31-wloczac-sie-po-malej-upie
   lat: 50.73579166666667
@@ -38,8 +22,24 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2016-12-31 12:55:52+01:00
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-12-31 12:55:52.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2016-12-31-wloczac-sie-po-malej-upie
+  lat: 50.73386111111111
+  lon: 15.810402777777778
+  altitude: 935.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-12-31 13:37:12.000000000+01:00

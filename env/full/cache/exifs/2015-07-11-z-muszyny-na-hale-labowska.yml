@@ -1,141 +1,79 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.60622888888889
-  lon: 20.861395555555557
-  altitude: 466.4
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-07-11 06:37:30+02:00
-- image_filename: IMGP0991raw1.jpg
-  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.75874611111111
-  lon: 20.956241388888888
-  altitude: 214.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-11 06:00:40+02:00
-- image_filename: IMGP1089raw1.jpg
-  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.465719444444446
-  lon: 20.697651666666665
-  altitude: 355.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-11 07:15:20+02:00
-- image_filename: IMGP1135raw1.jpg
-  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.37685388888889
-  lon: 20.88503861111111
-  altitude: 554.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-07-11 09:31:46+02:00
-- image_filename: IMGP1140raw1.jpg
-  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.37956305555556
-  lon: 20.88620111111111
-  altitude: 569.7
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-07-11 09:37:12+02:00
-- image_filename: IMGP1180raw1.jpg
-  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.445006944444444
-  lon: 20.875865833333332
-  altitude: 1000.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2015-07-11 13:56:01+02:00
-- image_filename: IMGP1201raw1.jpg
-  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.46704666666667
-  lon: 20.83014
-  altitude: 972.5
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 100
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-11 15:17:08+02:00
-- image_filename: IMGP1028raw1.jpg
-  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.61905333333333
-  lon: 20.918673611111114
-  altitude: 398.6
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-11 06:29:00+02:00
 - image_filename: IMGP0983raw1.jpg
   post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.89006055555556
-  lon: 21.06002416666667
+  lat: 49.89006111111111
+  lon: 21.060025
   altitude: 159.7
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 800
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-11 05:37:54+02:00
+  time: 2015-07-11 05:37:54.000000000+02:00
+- image_filename: IMGP0991raw1.jpg
+  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
+  lat: 49.75874722222222
+  lon: 20.956241666666667
+  altitude: 214.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2015-07-11 06:00:40.000000000+02:00
+- image_filename: IMGP0996raw1.jpg
+  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
+  lat: 49.71503333333334
+  lon: 20.956105555555556
+  altitude: 233.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-11 06:06:24.000000000+02:00
+- image_filename: IMGP1028raw1.jpg
+  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
+  lat: 49.61905277777778
+  lon: 20.918672222222224
+  altitude: 398.6
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-11 06:29:00.000000000+02:00
+- image_filename: IMGP1089raw1.jpg
+  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
+  lat: 49.465719444444446
+  lon: 20.69765277777778
+  altitude: 355.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-11 07:15:20.000000000+02:00
 - image_filename: IMGP1099raw1.jpg
   post_slug: 2015-07-11-z-muszyny-na-hale-labowska
   lat: 49.353008333333335
@@ -145,39 +83,101 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-07-11 08:43:36+02:00
+  time: 2015-07-11 08:43:36.000000000+02:00
+- image_filename: IMGP1135raw1.jpg
+  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
+  lat: 49.37685277777778
+  lon: 20.88503888888889
+  altitude: 554.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-11 09:31:46.000000000+02:00
+- image_filename: IMGP1140raw1.jpg
+  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
+  lat: 49.37956388888889
+  lon: 20.8862
+  altitude: 569.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-11 09:37:12.000000000+02:00
 - image_filename: IMGP1146raw1.jpg
   post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.38299027777778
-  lon: 20.88712027777778
+  lat: 49.38299166666667
+  lon: 20.887119444444444
   altitude: 623.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-07-11 09:44:50+02:00
-- image_filename: IMGP0996raw1.jpg
+  time: 2015-07-11 09:44:50.000000000+02:00
+- image_filename: IMGP1180raw1.jpg
   post_slug: 2015-07-11-z-muszyny-na-hale-labowska
-  lat: 49.71503333333334
-  lon: 20.956106388888887
-  altitude: 233.7
+  lat: 49.44500833333333
+  lon: 20.875866666666667
+  altitude: 1000.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-07-11 13:56:01.000000000+02:00
+- image_filename: IMGP1201raw1.jpg
+  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
+  lat: 49.46704722222223
+  lon: 20.83013888888889
+  altitude: 972.5
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 11.0
-  iso: 400
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2015-07-11 06:06:24+02:00
+  time: 2015-07-11 15:17:08.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2015-07-11-z-muszyny-na-hale-labowska
+  lat: 49.60622777777778
+  lon: 20.861394444444446
+  altitude: 466.4
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 2000
+  height: 1326
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2015-07-11 06:37:30.000000000+02:00

@@ -1,36 +1,19 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
-  lat: 52.56843472222223
-  lon: 17.3871325
-  altitude: 117.9
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-09-01 09:02:27+02:00
 - image_filename: IMGP3191raw1.jpg
   post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
-  lat: 52.56890805555556
-  lon: 17.387260555555557
+  lat: 52.56890833333334
+  lon: 17.387261111111112
   altitude: 117.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2015-09-01 09:02:25+02:00
+  time: 2015-09-01 09:02:25.000000000+02:00
 - image_filename: IMGP3197raw1.jpg
   post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
   lat: 52.568961111111115
@@ -40,39 +23,56 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-09-01 09:37:29+02:00
+  time: 2015-09-01 09:37:29.000000000+02:00
 - image_filename: IMGP3211raw1.jpg
   post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
-  lat: 52.61080527777778
+  lat: 52.61080555555556
   lon: 17.291883333333335
   altitude: 110.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-09-01 10:27:55+02:00
+  time: 2015-09-01 10:27:55.000000000+02:00
 - image_filename: IMGP3220raw1.jpg
   post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
   lat: 52.62215833333333
-  lon: 17.26653472222222
+  lon: 17.266533333333335
   altitude: 103.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-09-01 10:36:56+02:00
+  time: 2015-09-01 10:36:56.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
+  lat: 52.56843333333334
+  lon: 17.38713333333333
+  altitude: 117.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2015-09-01 09:02:27.000000000+02:00

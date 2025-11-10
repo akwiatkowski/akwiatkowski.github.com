@@ -1,817 +1,4 @@
 ---
-- image_filename: 2020_04_26__14_52_DSC07655.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46863888888889
-  lon: 16.974305555555553
-  altitude: 46.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-04-26 14:52:32+02:00
-- image_filename: 2020_04_26__14_22__4268111.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.467111111111116
-  lon: 16.975069444444443
-  altitude: 51.0
-  focal_length: 87.0
-  focal_length_35: 174.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-04-26 14:22:19+02:00
-  focus_distance: 0.76
-- image_filename: 2020_04_26__14_15__4268077.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46716666666667
-  lon: 16.975125
-  altitude: 50.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-04-26 14:15:33+02:00
-  focus_distance: 3.34
-- image_filename: 2020_04_26__15_52__4268162.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46291666666667
-  lon: 16.95927777777778
-  altitude: 68.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-26 15:52:12+02:00
-  focus_distance: 1.86
-- image_filename: 2020_04_26__14_24_DSC07619.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46713888888889
-  lon: 16.975194444444444
-  altitude: 49.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-04-26 14:24:35+02:00
-- image_filename: 2020_04_26__15_34_DSC07708.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.466319444444444
-  lon: 16.966319444444444
-  altitude: 54.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 10.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7120
-  height: 4756
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-26 15:34:19+02:00
-- image_filename: 2020_04_26__14_22__4268117.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46709722222222
-  lon: 16.975041666666666
-  altitude: 50.0
-  focal_length: 180.0
-  focal_length_35: 360.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-04-26 14:22:48+02:00
-  focus_distance: 1.38
-- image_filename: 2020_04_26__14_17__4268098.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.467111111111116
-  lon: 16.97508333333333
-  altitude: 51.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-04-26 14:17:35+02:00
-  focus_distance: 2.04
-- image_filename: 2020_04_26__14_31_DSC07641.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46718055555556
-  lon: 16.974930555555552
-  altitude: 50.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-04-26 14:31:32+02:00
-- image_filename: 2020_04_26__14_06_DSC07611.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46690277777778
-  lon: 16.974666666666664
-  altitude: 53.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-04-26 14:06:23+02:00
-- image_filename: 2020_04_26__14_31__4268124.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46716666666667
-  lon: 16.974930555555552
-  altitude: 50.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-04-26 14:31:16+02:00
-  focus_distance: 0.29
-- image_filename: 2020_04_26__15_03_DSC07669.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.47075
-  lon: 16.973875
-  altitude: 46.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-26 15:03:20+02:00
-- image_filename: 2020_04_26__14_50_DSC07648.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46826388888889
-  lon: 16.974152777777775
-  altitude: 48.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-04-26 14:50:54+02:00
-- image_filename: 2020_04_26__14_51_DSC07652.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46856944444445
-  lon: 16.97422222222222
-  altitude: 46.0
-  focal_length: 46.0
-  focal_length_35: 46.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-04-26 14:51:48+02:00
-- image_filename: 2020_04_26__14_45__4268138.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.467555555555556
-  lon: 16.975194444444444
-  altitude: 46.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-26 14:45:37+02:00
-  focus_distance: 3.28
-- image_filename: 2020_04_26__14_58_DSC07663.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46995833333334
-  lon: 16.97426388888889
-  altitude: 47.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 100
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 7146
-  height: 4703
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-04-26 14:58:50+02:00
-- image_filename: 2020_04_26__13_38_DSC07596.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46095833333334
-  lon: 16.96225
-  altitude: 84.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-26 13:38:43+02:00
-- image_filename: 2020_04_26__14_14__4268070.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46715277777778
-  lon: 16.975125
-  altitude: 50.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-04-26 14:14:37+02:00
-  focus_distance: 4.59
-- image_filename: 2020_04_26__15_04_DSC07683.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.47098611111111
-  lon: 16.97358333333333
-  altitude: 46.0
-  focal_length: 67.0
-  focal_length_35: 67.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6920
-  height: 4622
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-04-26 15:04:52+02:00
-- image_filename: 2020_04_26__15_54__4268165.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46281944444445
-  lon: 16.959305555555556
-  altitude: 68.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-04-26 15:54:05+02:00
-  focus_distance: 6.44
-- image_filename: 2020_04_26__14_11__4268063.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46720833333333
-  lon: 16.974999999999998
-  altitude: 51.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-04-26 14:11:33+02:00
-  focus_distance: 0.29
-- image_filename: 2020_04_26__15_26_DSC07698.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.469319444444444
-  lon: 16.96626388888889
-  altitude: 51.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4756
-  height: 7120
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-04-26 15:26:35+02:00
-- image_filename: 2020_04_26__14_46__4268141.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.467416666666665
-  lon: 16.975069444444443
-  altitude: 48.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-04-26 14:46:55+02:00
-  focus_distance: 3.9
-- image_filename: 2020_04_26__15_30_DSC07703.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.467819444444444
-  lon: 16.966555555555555
-  altitude: 52.0
-  focal_length: 50.0
-  focal_length_35: 50.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7120
-  height: 4756
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-04-26 15:30:19+02:00
-- image_filename: 2020_04_26__14_32_DSC07644.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46715277777778
-  lon: 16.974930555555552
-  altitude: 48.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-04-26 14:32:22+02:00
-- image_filename: 2020_04_26__15_06_DSC07690.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.471250000000005
-  lon: 16.973541666666666
-  altitude: 47.0
-  focal_length: 47.0
-  focal_length_35: 47.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7256
-  height: 4701
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-04-26 15:06:58+02:00
-- image_filename: 2020_04_26__15_35_DSC07710.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46626388888889
-  lon: 16.96575
-  altitude: 55.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-04-26 15:35:12+02:00
-- image_filename: 2020_04_26__13_52_DSC07606.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46201388888889
-  lon: 16.973694444444444
-  altitude: 65.0
-  focal_length: 29.0
-  focal_length_35: 29.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-04-26 13:52:59+02:00
-- image_filename: 2020_04_26__15_20_DSC07697.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.472
-  lon: 16.965930555555556
-  altitude: 52.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7120
-  height: 4756
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-26 15:20:51+02:00
-- image_filename: 2020_04_26__14_26_DSC07630.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46709722222222
-  lon: 16.97513888888889
-  altitude: 50.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-26 14:26:44+02:00
-- image_filename: 2020_04_26__14_43__4268131.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.467625000000005
-  lon: 16.97523611111111
-  altitude: 45.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-04-26 14:43:20+02:00
-  focus_distance: 3.12
-- image_filename: 2020_04_26__15_52__4268161.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46293055555556
-  lon: 16.959291666666665
-  altitude: 68.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-04-26 15:52:08+02:00
-  focus_distance: 1.9
-- image_filename: 2020_04_26__15_03_DSC07673.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.47090277777778
-  lon: 16.97375
-  altitude: 46.0
-  focal_length: 63.0
-  focal_length_35: 63.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-04-26 15:03:48+02:00
-- image_filename: 2020_04_26__14_32_DSC07643.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46715277777778
-  lon: 16.974916666666665
-  altitude: 48.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-04-26 14:32:10+02:00
-- image_filename: 2020_04_26__15_51__4268158.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46304166666667
-  lon: 16.95934722222222
-  altitude: 68.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-04-26 15:51:50+02:00
-  focus_distance: 1.63
-- image_filename: 2020_04_26__15_35_DSC07711.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46626388888889
-  lon: 16.965694444444445
-  altitude: 56.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7230
-  height: 4695
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-04-26 15:35:18+02:00
-- image_filename: 2020_04_26__15_27_DSC07700.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.469
-  lon: 16.96625
-  altitude: 52.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7120
-  height: 4756
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-04-26 15:27:18+02:00
-- image_filename: 2020_04_26__14_51_DSC07651.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.468583333333335
-  lon: 16.974194444444443
-  altitude: 46.0
-  focal_length: 58.0
-  focal_length_35: 58.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-04-26 14:51:38+02:00
-- image_filename: 2020_04_26__14_30_DSC07633.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46716666666667
-  lon: 16.97509722222222
-  altitude: 49.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-04-26 14:30:00+02:00
-- image_filename: 2020_04_26__14_57_DSC07662.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46965277777778
-  lon: 16.97447222222222
-  altitude: 47.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 50
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-04-26 14:57:51+02:00
-- image_filename: 2020_04_26__15_16_DSC07694.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.47251388888889
-  lon: 16.967875
-  altitude: 50.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7120
-  height: 4756
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-26 15:16:34+02:00
-- image_filename: 2020_04_26__14_30__4268120.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46716666666667
-  lon: 16.975180555555553
-  altitude: 49.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-04-26 14:30:33+02:00
-  focus_distance: 0.56
-- image_filename: 2020_04_26__14_25_DSC07623.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.467125
-  lon: 16.975111111111108
-  altitude: 50.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-04-26 14:25:33+02:00
-- image_filename: 2020_04_26__13_41_DSC07598.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.461666666666666
-  lon: 16.964875
-  altitude: 79.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-26 13:41:48+02:00
-- image_filename: 2020_04_26__14_51_DSC07650.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.468472222222225
-  lon: 16.974152777777775
-  altitude: 46.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-04-26 14:51:24+02:00
-- image_filename: 2020_04_26__15_32_DSC07706.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lon: 16.96695833333333
-  altitude: 54.0
-  focal_length: 41.0
-  focal_length_35: 41.0
-  crop: 1.0
-  aperture: 7.1
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6968
-  height: 4654
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-26 15:32:51+02:00
-- image_filename: 2020_04_26__14_07_DSC07613.jpg
-  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
-  lat: 52.46718055555556
-  lon: 16.97513888888889
-  altitude: 51.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-04-26 14:07:19+02:00
 - image_filename: 2020_04_26__13_32_DSC07592.jpg
   post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
   lat: 52.46215277777778
@@ -821,14 +8,224 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7239
-  height: 4891
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-04-26 13:32:51+02:00
+  iso: 100
+  width: 7239
+  height: 4891
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 13:32:51.000000000+02:00
+- image_filename: 2020_04_26__13_38_DSC07596.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46095833333334
+  lon: 16.96225
+  altitude: 84.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 13:38:43.000000000+02:00
+- image_filename: 2020_04_26__13_41_DSC07598.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.461666666666666
+  lon: 16.964875
+  altitude: 79.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 13:41:48.000000000+02:00
+- image_filename: 2020_04_26__13_52_DSC07606.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46201388888889
+  lon: 16.973694444444444
+  altitude: 65.0
+  focal_length: 29.0
+  focal_length_35: 29.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 13:52:59.000000000+02:00
+- image_filename: 2020_04_26__14_06_DSC07611.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46690277777778
+  lon: 16.974666666666664
+  altitude: 53.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:06:23.000000000+02:00
+- image_filename: 2020_04_26__14_07_DSC07613.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46718055555556
+  lon: 16.97513888888889
+  altitude: 51.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:07:19.000000000+02:00
+- image_filename: 2020_04_26__14_11__4268063.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46720833333333
+  lon: 16.974999999999998
+  altitude: 51.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.29
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-04-26 14:11:33.000000000+02:00
+- image_filename: 2020_04_26__14_14__4268070.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46715277777778
+  lon: 16.975125
+  altitude: 50.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 4.59
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 14:14:37.000000000+02:00
+- image_filename: 2020_04_26__14_15__4268077.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46716666666667
+  lon: 16.975125
+  altitude: 50.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 3.34
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 14:15:33.000000000+02:00
+- image_filename: 2020_04_26__14_17__4268098.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.467111111111116
+  lon: 16.97508333333333
+  altitude: 51.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 2.04
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 14:17:35.000000000+02:00
+- image_filename: 2020_04_26__14_22__4268111.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.467111111111116
+  lon: 16.975069444444443
+  altitude: 51.0
+  focal_length: 87.0
+  focal_length_35: 174.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.76
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 14:22:19.000000000+02:00
+- image_filename: 2020_04_26__14_22__4268117.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46709722222222
+  lon: 16.975041666666666
+  altitude: 50.0
+  focal_length: 180.0
+  focal_length_35: 360.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.38
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 14:22:48.000000000+02:00
+- image_filename: 2020_04_26__14_24_DSC07619.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46713888888889
+  lon: 16.975194444444444
+  altitude: 49.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:24:35.000000000+02:00
 - image_filename: 2020_04_26__14_24_DSC07620.jpg
   post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
   lat: 52.46713888888889
@@ -838,14 +235,291 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-04-26 14:24:44+02:00
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:24:44.000000000+02:00
+- image_filename: 2020_04_26__14_25_DSC07623.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.467125
+  lon: 16.975111111111108
+  altitude: 50.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:25:33.000000000+02:00
+- image_filename: 2020_04_26__14_26_DSC07630.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46709722222222
+  lon: 16.97513888888889
+  altitude: 50.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:26:44.000000000+02:00
+- image_filename: 2020_04_26__14_30_DSC07633.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46716666666667
+  lon: 16.97509722222222
+  altitude: 49.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:30:00.000000000+02:00
+- image_filename: 2020_04_26__14_30__4268120.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46716666666667
+  lon: 16.975180555555553
+  altitude: 49.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.56
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-04-26 14:30:33.000000000+02:00
+- image_filename: 2020_04_26__14_31_DSC07641.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46718055555556
+  lon: 16.974930555555552
+  altitude: 50.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:31:32.000000000+02:00
+- image_filename: 2020_04_26__14_31__4268124.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46716666666667
+  lon: 16.974930555555552
+  altitude: 50.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 0.29
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2020-04-26 14:31:16.000000000+02:00
+- image_filename: 2020_04_26__14_32_DSC07643.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46715277777778
+  lon: 16.974916666666665
+  altitude: 48.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:32:10.000000000+02:00
+- image_filename: 2020_04_26__14_32_DSC07644.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46715277777778
+  lon: 16.974930555555552
+  altitude: 48.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:32:22.000000000+02:00
+- image_filename: 2020_04_26__14_43__4268131.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.467625000000005
+  lon: 16.97523611111111
+  altitude: 45.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 3.12
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 14:43:20.000000000+02:00
+- image_filename: 2020_04_26__14_45__4268138.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.467555555555556
+  lon: 16.975194444444444
+  altitude: 46.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.28
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 14:45:37.000000000+02:00
+- image_filename: 2020_04_26__14_46__4268141.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.467416666666665
+  lon: 16.975069444444443
+  altitude: 48.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.9
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 14:46:55.000000000+02:00
+- image_filename: 2020_04_26__14_50_DSC07648.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46826388888889
+  lon: 16.974152777777775
+  altitude: 48.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:50:54.000000000+02:00
+- image_filename: 2020_04_26__14_51_DSC07650.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.468472222222225
+  lon: 16.974152777777775
+  altitude: 46.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 50
+  width: 4920
+  height: 7366
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:51:24.000000000+02:00
+- image_filename: 2020_04_26__14_51_DSC07651.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.468583333333335
+  lon: 16.974194444444443
+  altitude: 46.0
+  focal_length: 58.0
+  focal_length_35: 58.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:51:38.000000000+02:00
+- image_filename: 2020_04_26__14_51_DSC07652.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46856944444445
+  lon: 16.97422222222222
+  altitude: 46.0
+  focal_length: 46.0
+  focal_length_35: 46.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:51:48.000000000+02:00
+- image_filename: 2020_04_26__14_52_DSC07655.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46863888888889
+  lon: 16.974305555555553
+  altitude: 46.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:52:32.000000000+02:00
 - image_filename: 2020_04_26__14_52_DSC07656.jpg
   post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
   lat: 52.46875
@@ -855,11 +529,338 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
-  iso: 50
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-04-26 14:52:49+02:00
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 14:52:49.000000000+02:00
+- image_filename: 2020_04_26__14_57_DSC07662.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46965277777778
+  lon: 16.97447222222222
+  altitude: 47.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 50
+  width: 7366
+  height: 4920
+  lens: E 20mm F2
+  camera: ILCE-7R
+  time: 2020-04-26 14:57:51.000000000+02:00
+- image_filename: 2020_04_26__14_58_DSC07663.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46995833333334
+  lon: 16.97426388888889
+  altitude: 47.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7146
+  height: 4703
+  lens: E 20mm F2
+  camera: ILCE-7R
+  time: 2020-04-26 14:58:50.000000000+02:00
+- image_filename: 2020_04_26__15_03_DSC07669.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.47075
+  lon: 16.973875
+  altitude: 46.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:03:20.000000000+02:00
+- image_filename: 2020_04_26__15_03_DSC07673.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.47090277777778
+  lon: 16.97375
+  altitude: 46.0
+  focal_length: 63.0
+  focal_length_35: 63.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:03:48.000000000+02:00
+- image_filename: 2020_04_26__15_04_DSC07683.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.47098611111111
+  lon: 16.97358333333333
+  altitude: 46.0
+  focal_length: 67.0
+  focal_length_35: 67.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6920
+  height: 4622
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:04:52.000000000+02:00
+- image_filename: 2020_04_26__15_06_DSC07690.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.471250000000005
+  lon: 16.973541666666666
+  altitude: 47.0
+  focal_length: 47.0
+  focal_length_35: 47.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 7256
+  height: 4701
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:06:58.000000000+02:00
+- image_filename: 2020_04_26__15_16_DSC07694.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.47251388888889
+  lon: 16.967875
+  altitude: 50.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7120
+  height: 4756
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:16:34.000000000+02:00
+- image_filename: 2020_04_26__15_20_DSC07697.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.472
+  lon: 16.965930555555556
+  altitude: 52.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7120
+  height: 4756
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:20:51.000000000+02:00
+- image_filename: 2020_04_26__15_26_DSC07698.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.469319444444444
+  lon: 16.96626388888889
+  altitude: 51.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 4756
+  height: 7120
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:26:35.000000000+02:00
+- image_filename: 2020_04_26__15_27_DSC07700.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.469
+  lon: 16.96625
+  altitude: 52.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7120
+  height: 4756
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:27:18.000000000+02:00
+- image_filename: 2020_04_26__15_30_DSC07703.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.467819444444444
+  lon: 16.966555555555555
+  altitude: 52.0
+  focal_length: 50.0
+  focal_length_35: 50.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7120
+  height: 4756
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:30:19.000000000+02:00
+- image_filename: 2020_04_26__15_32_DSC07706.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46666666666667
+  lon: 16.96695833333333
+  altitude: 54.0
+  focal_length: 41.0
+  focal_length_35: 41.0
+  crop: 1.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6968
+  height: 4654
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:32:51.000000000+02:00
+- image_filename: 2020_04_26__15_34_DSC07708.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.466319444444444
+  lon: 16.966319444444444
+  altitude: 54.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 10.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7120
+  height: 4756
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:34:19.000000000+02:00
+- image_filename: 2020_04_26__15_35_DSC07710.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46626388888889
+  lon: 16.96575
+  altitude: 55.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:35:12.000000000+02:00
+- image_filename: 2020_04_26__15_35_DSC07711.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46626388888889
+  lon: 16.965694444444445
+  altitude: 56.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 7230
+  height: 4695
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2020-04-26 15:35:18.000000000+02:00
+- image_filename: 2020_04_26__15_51__4268158.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46304166666667
+  lon: 16.95934722222222
+  altitude: 68.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.63
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 15:51:50.000000000+02:00
+- image_filename: 2020_04_26__15_52__4268161.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46293055555556
+  lon: 16.959291666666665
+  altitude: 68.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.9
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 15:52:08.000000000+02:00
+- image_filename: 2020_04_26__15_52__4268162.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46291666666667
+  lon: 16.95927777777778
+  altitude: 68.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.86
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 15:52:12.000000000+02:00
+- image_filename: 2020_04_26__15_54__4268165.jpg
+  post_slug: 2020-04-26-nadwarcianskie-lasy-radojewa
+  lat: 52.46281944444445
+  lon: 16.959305555555556
+  altitude: 68.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 6.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2020-04-26 15:54:05.000000000+02:00

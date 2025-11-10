@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_04_30__15_23_P4300618.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.31729166666667
-  lon: 19.335305555555554
-  altitude: 104.0
-  focal_length: 88.0
-  focal_length_35: 176.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 15:23:35+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_04_30__07_14_P4300015.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 52.649499999999996
@@ -26,15 +8,15 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4592
-  height: 3439
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2019-04-30 07:14:34+02:00
   focus_distance: 98.22
+  iso: 320
+  width: 4592
+  height: 3439
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 07:14:34.000000000+02:00
 - image_filename: 2019_04_30__07_32_P4300089.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 52.804916666666664
@@ -44,663 +26,15 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 6.3
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4377
-  height: 3317
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2019-04-30 07:32:40+02:00
   focus_distance: 1000.0
-- image_filename: 2019_04_30__07_56_P4300143.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.00040277777778
-  lon: 18.614069444444446
-  altitude: 30.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
   iso: 320
+  width: 4377
+  height: 3317
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4541
-  height: 3338
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 07:56:37+02:00
-  focus_distance: 181.52
-- image_filename: 2019_04_30__08_24_P4300222.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.16895833333333
-  lon: 18.877916666666668
-  altitude: 81.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4534
-  height: 3393
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-04-30 08:24:22+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__08_40_P4300290.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.35488888888889
-  lon: 19.095652777777776
-  altitude: 85.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4511
-  height: 3375
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-04-30 08:40:05+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__11_02_P4300354.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.60823611111111
-  lon: 19.564069444444446
-  altitude: 108.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4566
-  height: 3417
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-30 11:02:19+02:00
-  focus_distance: 50.73
-- image_filename: 2019_04_30__11_02_P4300355.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.60834722222222
-  lon: 19.563694444444444
-  altitude: 107.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-30 11:02:34+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__11_46_P4300380.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.54827777777778
-  lon: 19.503541666666667
-  altitude: 102.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 11:46:23+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__11_56_P4300390.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.53513888888889
-  lon: 19.47973611111111
-  altitude: 105.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 11:56:01+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__12_06_P4300401.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.534375
-  lon: 19.460208333333334
-  altitude: 103.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 12:06:20+02:00
-  focus_distance: 28.82
-- image_filename: 2019_04_30__12_17_P4300429.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.51251388888889
-  lon: 19.433430555555557
-  altitude: 101.0
-  focal_length: 97.0
-  focal_length_35: 194.0
-  crop: 2.0
-  aperture: 5.4
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4490
-  height: 3360
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-30 12:17:09+02:00
-  focus_distance: 55.04
-- image_filename: 2019_04_30__12_20_P4300437.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.509166666666665
-  lon: 19.42863888888889
-  altitude: 100.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4613
-  height: 3451
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-04-30 12:20:57+02:00
-  focus_distance: 166.33
-- image_filename: 2019_04_30__12_23_P4300448.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.50706944444445
-  lon: 19.417041666666666
-  altitude: 99.0
-  focal_length: 19.0
-  focal_length_35: 38.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 12:23:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_03_P4300455.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.47704166666667
-  lon: 19.37109722222222
-  altitude: 95.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-30 13:03:45+02:00
-  focus_distance: 76.99
-- image_filename: 2019_04_30__13_08_P4300462.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.46752777777778
-  lon: 19.381527777777777
-  altitude: 93.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-04-30 13:08:10+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_20_P4300480.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.44799999999999
-  lon: 19.365791666666667
-  altitude: 94.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 13:20:59+02:00
-  focus_distance: 186.88
-- image_filename: 2019_04_30__13_30_P4300496.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.43594444444444
-  lon: 19.343333333333334
-  altitude: 91.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 13:30:46+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_40_P4300527.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.421416666666666
-  lon: 19.343597222222222
-  altitude: 90.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4561
-  height: 3413
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 13:40:12+02:00
-  focus_distance: 80.76
-- image_filename: 2019_04_30__14_08_P4300535.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.375
-  lon: 19.373444444444445
-  altitude: 108.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-30 14:08:30+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__14_29_P4300551.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.34404166666667
-  lon: 19.374666666666666
-  altitude: 97.0
-  focal_length: 77.0
-  focal_length_35: 154.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4460
-  height: 3337
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 14:29:05+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__15_02_P4300576.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.328069444444445
-  lon: 19.371152777777777
-  altitude: 108.0
-  focal_length: 84.0
-  focal_length_35: 168.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-04-30 15:02:01+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__15_02_P4300579.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.326527777777784
-  lon: 19.366680555555558
-  altitude: 99.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4539
-  height: 3396
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 15:02:42+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__15_04_P4300591.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.324361111111116
-  lon: 19.358305555555557
-  altitude: 80.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4464
-  height: 3341
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 15:04:55+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__15_07_P4300598.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.324375
-  lon: 19.35829166666667
-  altitude: 78.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4385
-  height: 3281
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 15:07:19+02:00
-  focus_distance: 32.06
-- image_filename: 2019_04_30__15_08_P4300603.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.324083333333334
-  lon: 19.35825
-  altitude: 79.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4556
-  height: 3409
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-30 15:08:38+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__15_24_P4300622.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.31579166666666
-  lon: 19.331583333333334
-  altitude: 109.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 15:24:36+02:00
-  focus_distance: 85.55
-- image_filename: 2019_04_30__15_35_P4300630.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.326055555555556
-  lon: 19.313875
-  altitude: 95.0
-  focal_length: 55.0
-  focal_length_35: 110.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4525
-  height: 3386
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-30 15:35:41+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__16_06_P4300643.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.349291666666666
-  lon: 19.231166666666667
-  altitude: 89.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4172
-  height: 3011
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-30 16:06:06+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__16_06_P4300649.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.34990277777778
-  lon: 19.229833333333332
-  altitude: 91.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4480
-  height: 3352
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 16:06:35+02:00
-  focus_distance: 74.75
-- image_filename: 2019_04_30__16_45_P4300656.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.31940277777778
-  lon: 19.178569444444445
-  altitude: 98.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4532
-  height: 3391
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 16:45:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__17_01_P4300684.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32873611111111
-  lon: 19.128583333333335
-  altitude: 90.0
-  focal_length: 32.0
-  focal_length_35: 64.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 17:01:28+02:00
-  focus_distance: 15.11
-- image_filename: 2019_04_30__17_03_P4300686.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32938888888889
-  lon: 19.124277777777777
-  altitude: 96.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 17:03:22+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__17_09_P4300691.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32852777777778
-  lon: 19.104861111111113
-  altitude: 102.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-04-30 17:09:54+02:00
-  focus_distance: 162.54
-- image_filename: 2019_04_30__19_10_P4300702.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.60319444444445
-  lon: 19.599291666666666
-  altitude: 106.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-04-30 19:10:06+02:00
-  focus_distance: 3.69
-- image_filename: 2019_04_30__08_11_P4300168.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.087986111111114
-  lon: 18.71972222222222
-  altitude: 76.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 5.4
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4396
-  height: 3398
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-04-30 08:11:58+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_22_P4300486.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.44801388888889
-  lon: 19.36566666666667
-  altitude: 94.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4476
-  height: 3377
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 13:22:13+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__14_29_P4300559.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.343375
-  lon: 19.374680555555557
-  altitude: 97.0
-  focal_length: 84.0
-  focal_length_35: 168.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4395
-  height: 3289
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-30 14:29:42+02:00
-  focus_distance: 26.23
-- image_filename: 2019_04_30__08_37_P4300275.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32355555555556
-  lon: 19.059694444444446
-  altitude: 88.0
-  focal_length: 65.0
-  focal_length_35: 130.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-04-30 08:37:52+02:00
-  focus_distance: 1000.0
+  time: 2019-04-30 07:32:40.000000000+02:00
 - image_filename: 2019_04_30__07_50_P4300138.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 52.990125
@@ -710,159 +44,51 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4607
-  height: 3427
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2019-04-30 07:50:14+02:00
   focus_distance: 1000.0
-- image_filename: 2019_04_30__12_23_P4300442.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.506972222222224
-  lon: 19.418041666666667
-  altitude: 101.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 12:23:25+02:00
-  focus_distance: 8.48
-- image_filename: 2019_04_30__08_21_P4300190.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.16384722222222
-  lon: 18.869194444444446
-  altitude: 78.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
   iso: 320
+  width: 4607
+  height: 3427
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4564
-  height: 3372
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-04-30 08:21:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__15_08_P4300600.jpg
+  time: 2019-04-30 07:50:14.000000000+02:00
+- image_filename: 2019_04_30__07_56_P4300143.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32427777777778
-  lon: 19.358333333333334
-  altitude: 79.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 15:08:17+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__16_22_P4300653.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.34988888888889
-  lon: 19.227041666666665
-  altitude: 88.0
+  lat: 53.00040277777778
+  lon: 18.614069444444446
+  altitude: 30.0
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4240
-  height: 3144
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 16:22:03+02:00
-  focus_distance: 95.99
-- image_filename: 2019_04_30__13_14_P4300465.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.46222222222222
-  lon: 19.38051388888889
-  altitude: 97.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 13:14:41+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_33_P4300507.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.43413888888889
-  lon: 19.342263888888887
-  altitude: 99.0
-  focal_length: 97.0
-  focal_length_35: 194.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-04-30 13:33:48+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__17_13_P4300694.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32823611111112
-  lon: 19.095458333333333
-  altitude: 102.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4243
-  height: 3240
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-30 17:13:36+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__14_08_P4300536.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.374805555555554
-  lon: 19.373444444444445
-  altitude: 108.0
-  focal_length: 55.0
-  focal_length_35: 110.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-04-30 14:08:40+02:00
+  focus_distance: 181.52
+  iso: 320
+  width: 4541
+  height: 3338
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 07:56:37.000000000+02:00
+- image_filename: 2019_04_30__08_11_P4300168.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.087986111111114
+  lon: 18.71972222222222
+  altitude: 76.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 5.4
+  exposure: 0.001
+  exposure_string: 1/1000 s
   focus_distance: 1000.0
+  iso: 320
+  width: 4396
+  height: 3398
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 08:11:58.000000000+02:00
 - image_filename: 2019_04_30__08_15_P4300184.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 53.133375
@@ -872,15 +98,123 @@
   focal_length_35: 146.0
   crop: 2.0
   aperture: 5.4
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4382
-  height: 3301
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2019-04-30 08:15:35+02:00
   focus_distance: 1000.0
+  iso: 320
+  width: 4382
+  height: 3301
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 08:15:35.000000000+02:00
+- image_filename: 2019_04_30__08_21_P4300190.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.16384722222222
+  lon: 18.869194444444446
+  altitude: 78.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4564
+  height: 3372
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 08:21:44.000000000+02:00
+- image_filename: 2019_04_30__08_24_P4300222.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.16895833333333
+  lon: 18.877916666666668
+  altitude: 81.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4534
+  height: 3393
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 08:24:22.000000000+02:00
+- image_filename: 2019_04_30__08_37_P4300275.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32355555555556
+  lon: 19.059694444444446
+  altitude: 88.0
+  focal_length: 65.0
+  focal_length_35: 130.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 08:37:52.000000000+02:00
+- image_filename: 2019_04_30__08_40_P4300290.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.35488888888889
+  lon: 19.095652777777776
+  altitude: 85.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4511
+  height: 3375
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 08:40:05.000000000+02:00
+- image_filename: 2019_04_30__11_02_P4300354.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.60823611111111
+  lon: 19.564069444444446
+  altitude: 108.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 50.73
+  iso: 200
+  width: 4566
+  height: 3417
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 11:02:19.000000000+02:00
+- image_filename: 2019_04_30__11_02_P4300355.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.60834722222222
+  lon: 19.563694444444444
+  altitude: 107.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 11:02:34.000000000+02:00
 - image_filename: 2019_04_30__11_36_P4300370.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 53.56511111111111
@@ -890,267 +224,33 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4491
   height: 3265
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-30 11:36:34+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_33_P4300508.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.43413888888889
-  lon: 19.342263888888887
-  altitude: 99.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4453
-  height: 3332
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 13:33:53+02:00
-  focus_distance: 105.89
-- image_filename: 2019_04_30__14_16_P4300544.jpg
+  time: 2019-04-30 11:36:34.000000000+02:00
+- image_filename: 2019_04_30__11_46_P4300380.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.358875000000005
-  lon: 19.384291666666666
-  altitude: 92.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4411
-  height: 3301
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-04-30 14:16:32+02:00
-  focus_distance: 108.44
-- image_filename: 2019_04_30__15_06_P4300592.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.324361111111116
-  lon: 19.358222222222224
-  altitude: 78.0
+  lat: 53.54827777777778
+  lon: 19.503541666666667
+  altitude: 102.0
   focal_length: 14.0
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-04-30 15:06:23+02:00
   focus_distance: 1000.0
-- image_filename: 2019_04_30__16_59_P4300681.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32752777777778
-  lon: 19.132361111111113
-  altitude: 90.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 16:59:23+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__15_06_P4300594.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.324375
-  lon: 19.35827777777778
-  altitude: 78.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 15:06:48+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__12_17_P4300431.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.51251388888889
-  lon: 19.433430555555557
-  altitude: 101.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4565
-  height: 3438
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-04-30 12:17:21+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_30_P4300498.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.43552777777777
-  lon: 19.34309722222222
-  altitude: 92.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4466
-  height: 3342
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 13:30:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__15_06_P4300593.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.324361111111116
-  lon: 19.35825
-  altitude: 78.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-30 15:06:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__16_57_P4300678.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32619444444445
-  lon: 19.139152777777777
-  altitude: 90.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4528
-  height: 3401
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 16:57:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_30_P4300497.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.43570833333333
-  lon: 19.343208333333333
-  altitude: 91.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4513
-  height: 3377
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 13:30:52+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_18_P4300469.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.454486111111116
-  lon: 19.371333333333332
-  altitude: 101.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 13:18:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_21_P4300484.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.44799999999999
-  lon: 19.36577777777778
-  altitude: 94.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 13:21:16+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_29_P4300495.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.439680555555555
-  lon: 19.345319444444442
-  altitude: 94.0
-  focal_length: 37.0
-  focal_length_35: 74.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 13:29:52+02:00
-  focus_distance: 14.56
-- image_filename: 2019_04_30__15_03_P4300582.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32627777777778
-  lon: 19.364375000000003
-  altitude: 99.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 15:03:09+02:00
-  focus_distance: 1000.0
+  time: 2019-04-30 11:46:23.000000000+02:00
 - image_filename: 2019_04_30__11_49_P4300382.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 53.54141666666666
@@ -1160,51 +260,51 @@
   focal_length_35: 146.0
   crop: 2.0
   aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2019-04-30 11:49:45+02:00
   focus_distance: 61.97
-- image_filename: 2019_04_30__14_06_P4300530.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.378708333333336
-  lon: 19.37425
-  altitude: 96.0
-  focal_length: 65.0
-  focal_length_35: 130.0
-  crop: 2.0
-  aperture: 9.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4394
-  height: 3288
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-30 14:06:40+02:00
-  focus_distance: 44.46
-- image_filename: 2019_04_30__13_31_P4300502.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.43480555555555
-  lon: 19.342694444444444
-  altitude: 94.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 11:49:45.000000000+02:00
+- image_filename: 2019_04_30__11_56_P4300390.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.53513888888889
+  lon: 19.47973611111111
+  altitude: 105.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-04-30 13:31:20+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 11:56:01.000000000+02:00
+- image_filename: 2019_04_30__12_06_P4300401.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.534375
+  lon: 19.460208333333334
+  altitude: 103.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 28.82
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 12:06:20.000000000+02:00
 - image_filename: 2019_04_30__12_16_P4300425.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 53.51251388888889
@@ -1214,177 +314,87 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-04-30 12:16:49+02:00
   focus_distance: 1000.0
-- image_filename: 2019_04_30__14_16_P4300542.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.359541666666665
-  lon: 19.383388888888888
-  altitude: 93.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4570
-  height: 3420
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-30 14:16:17+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__14_09_P4300539.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.37477777777778
-  lon: 19.373458333333335
-  altitude: 108.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-04-30 14:09:05+02:00
-  focus_distance: 151.29
-- image_filename: 2019_04_30__12_23_P4300447.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.50701388888889
-  lon: 19.417583333333333
-  altitude: 100.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4474
-  height: 3348
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-04-30 12:23:51+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_19_P4300471.jpg
+  time: 2019-04-30 12:16:49.000000000+02:00
+- image_filename: 2019_04_30__12_17_P4300429.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.45391666666667
-  lon: 19.370930555555557
-  altitude: 99.0
-  focal_length: 88.0
-  focal_length_35: 176.0
+  lat: 53.51251388888889
+  lon: 19.433430555555557
+  altitude: 101.0
+  focal_length: 97.0
+  focal_length_35: 194.0
   crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 13:19:06+02:00
-  focus_distance: 84.64
-- image_filename: 2019_04_30__15_10_P4300608.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32402777777778
-  lon: 19.358083333333333
-  altitude: 78.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 15:10:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__15_18_P4300612.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.32118055555556
-  lon: 19.342291666666664
-  altitude: 85.0
-  focal_length: 19.0
-  focal_length_35: 38.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 15:18:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__14_32_P4300570.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.34227777777778
-  lon: 19.375375000000002
-  altitude: 98.0
-  focal_length: 73.0
-  focal_length_35: 146.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 14:32:25+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_30__13_38_P4300518.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.427055555555555
-  lon: 19.340652777777777
-  altitude: 90.0
-  focal_length: 73.0
-  focal_length_35: 146.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
+  aperture: 5.4
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-04-30 13:38:13+02:00
-  focus_distance: 39.62
-- image_filename: 2019_04_30__15_04_P4300586.jpg
+  focus_distance: 55.04
+  iso: 200
+  width: 4490
+  height: 3360
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 12:17:09.000000000+02:00
+- image_filename: 2019_04_30__12_17_P4300431.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.324402777777784
-  lon: 19.358472222222225
-  altitude: 80.0
+  lat: 53.51251388888889
+  lon: 19.433430555555557
+  altitude: 101.0
   focal_length: 14.0
   focal_length_35: 28.0
   crop: 2.0
-  aperture: 7.1
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
   iso: 200
+  width: 4565
+  height: 3438
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4480
-  height: 3352
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-04-30 15:04:15+02:00
-  focus_distance: 1000.0
+  time: 2019-04-30 12:17:21.000000000+02:00
+- image_filename: 2019_04_30__12_20_P4300437.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.509166666666665
+  lon: 19.42863888888889
+  altitude: 100.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 166.33
+  iso: 200
+  width: 4613
+  height: 3451
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 12:20:57.000000000+02:00
+- image_filename: 2019_04_30__12_23_P4300442.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.506972222222224
+  lon: 19.418041666666667
+  altitude: 101.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.48
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 12:23:25.000000000+02:00
 - image_filename: 2019_04_30__12_23_P4300443.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 53.50695833333333
@@ -1394,15 +404,141 @@
   focal_length_35: 80.0
   crop: 2.0
   aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4494
-  height: 3363
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-04-30 12:23:33+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4494
+  height: 3363
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 12:23:33.000000000+02:00
+- image_filename: 2019_04_30__12_23_P4300447.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.50701388888889
+  lon: 19.417583333333333
+  altitude: 100.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4474
+  height: 3348
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 12:23:51.000000000+02:00
+- image_filename: 2019_04_30__12_23_P4300448.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.50706944444445
+  lon: 19.417041666666666
+  altitude: 99.0
+  focal_length: 19.0
+  focal_length_35: 38.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 12:23:57.000000000+02:00
+- image_filename: 2019_04_30__13_03_P4300455.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.47704166666667
+  lon: 19.37109722222222
+  altitude: 95.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 76.99
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:03:45.000000000+02:00
+- image_filename: 2019_04_30__13_08_P4300462.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.46752777777778
+  lon: 19.381527777777777
+  altitude: 93.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:08:10.000000000+02:00
+- image_filename: 2019_04_30__13_14_P4300465.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.46222222222222
+  lon: 19.38051388888889
+  altitude: 97.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:14:41.000000000+02:00
+- image_filename: 2019_04_30__13_18_P4300469.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.454486111111116
+  lon: 19.371333333333332
+  altitude: 101.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:18:57.000000000+02:00
+- image_filename: 2019_04_30__13_19_P4300471.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.45391666666667
+  lon: 19.370930555555557
+  altitude: 99.0
+  focal_length: 88.0
+  focal_length_35: 176.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 84.64
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:19:06.000000000+02:00
 - image_filename: 2019_04_30__13_20_P4300478.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 53.44808333333333
@@ -1412,15 +548,213 @@
   focal_length_35: 154.0
   crop: 2.0
   aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-04-30 13:20:50+02:00
   focus_distance: 40.93
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:20:50.000000000+02:00
+- image_filename: 2019_04_30__13_20_P4300480.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.44799999999999
+  lon: 19.365791666666667
+  altitude: 94.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 186.88
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:20:59.000000000+02:00
+- image_filename: 2019_04_30__13_21_P4300484.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.44799999999999
+  lon: 19.36577777777778
+  altitude: 94.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:21:16.000000000+02:00
+- image_filename: 2019_04_30__13_22_P4300486.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.44801388888889
+  lon: 19.36566666666667
+  altitude: 94.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4476
+  height: 3377
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:22:13.000000000+02:00
+- image_filename: 2019_04_30__13_29_P4300495.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.439680555555555
+  lon: 19.345319444444442
+  altitude: 94.0
+  focal_length: 37.0
+  focal_length_35: 74.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 14.56
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:29:52.000000000+02:00
+- image_filename: 2019_04_30__13_30_P4300496.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.43594444444444
+  lon: 19.343333333333334
+  altitude: 91.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:30:46.000000000+02:00
+- image_filename: 2019_04_30__13_30_P4300497.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.43570833333333
+  lon: 19.343208333333333
+  altitude: 91.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4513
+  height: 3377
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:30:52.000000000+02:00
+- image_filename: 2019_04_30__13_30_P4300498.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.43552777777777
+  lon: 19.34309722222222
+  altitude: 92.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4466
+  height: 3342
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:30:57.000000000+02:00
+- image_filename: 2019_04_30__13_31_P4300502.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.43480555555555
+  lon: 19.342694444444444
+  altitude: 94.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:31:20.000000000+02:00
+- image_filename: 2019_04_30__13_33_P4300507.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.43413888888889
+  lon: 19.342263888888887
+  altitude: 99.0
+  focal_length: 97.0
+  focal_length_35: 194.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:33:48.000000000+02:00
+- image_filename: 2019_04_30__13_33_P4300508.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.43413888888889
+  lon: 19.342263888888887
+  altitude: 99.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 105.89
+  iso: 200
+  width: 4453
+  height: 3332
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:33:53.000000000+02:00
+- image_filename: 2019_04_30__13_38_P4300518.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.427055555555555
+  lon: 19.340652777777777
+  altitude: 90.0
+  focal_length: 73.0
+  focal_length_35: 146.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 39.62
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:38:13.000000000+02:00
 - image_filename: 2019_04_30__13_40_P4300526.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 53.42143055555555
@@ -1430,12 +764,678 @@
   focal_length_35: 52.0
   crop: 2.0
   aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-04-30 13:40:04+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:40:04.000000000+02:00
+- image_filename: 2019_04_30__13_40_P4300527.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.421416666666666
+  lon: 19.343597222222222
+  altitude: 90.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 80.76
+  iso: 200
+  width: 4561
+  height: 3413
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 13:40:12.000000000+02:00
+- image_filename: 2019_04_30__14_06_P4300530.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.378708333333336
+  lon: 19.37425
+  altitude: 96.0
+  focal_length: 65.0
+  focal_length_35: 130.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 44.46
+  iso: 200
+  width: 4394
+  height: 3288
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 14:06:40.000000000+02:00
+- image_filename: 2019_04_30__14_08_P4300535.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.375
+  lon: 19.373444444444445
+  altitude: 108.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 14:08:30.000000000+02:00
+- image_filename: 2019_04_30__14_08_P4300536.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.374805555555554
+  lon: 19.373444444444445
+  altitude: 108.0
+  focal_length: 55.0
+  focal_length_35: 110.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 14:08:40.000000000+02:00
+- image_filename: 2019_04_30__14_09_P4300539.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.37477777777778
+  lon: 19.373458333333335
+  altitude: 108.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 151.29
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 14:09:05.000000000+02:00
+- image_filename: 2019_04_30__14_16_P4300542.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.359541666666665
+  lon: 19.383388888888888
+  altitude: 93.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4570
+  height: 3420
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 14:16:17.000000000+02:00
+- image_filename: 2019_04_30__14_16_P4300544.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.358875000000005
+  lon: 19.384291666666666
+  altitude: 92.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 108.44
+  iso: 200
+  width: 4411
+  height: 3301
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 14:16:32.000000000+02:00
+- image_filename: 2019_04_30__14_29_P4300551.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.34404166666667
+  lon: 19.374666666666666
+  altitude: 97.0
+  focal_length: 77.0
+  focal_length_35: 154.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4460
+  height: 3337
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 14:29:05.000000000+02:00
+- image_filename: 2019_04_30__14_29_P4300559.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.343375
+  lon: 19.374680555555557
+  altitude: 97.0
+  focal_length: 84.0
+  focal_length_35: 168.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 26.23
+  iso: 200
+  width: 4395
+  height: 3289
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 14:29:42.000000000+02:00
+- image_filename: 2019_04_30__14_32_P4300570.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.34227777777778
+  lon: 19.375375000000002
+  altitude: 98.0
+  focal_length: 73.0
+  focal_length_35: 146.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 14:32:25.000000000+02:00
+- image_filename: 2019_04_30__15_02_P4300576.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.328069444444445
+  lon: 19.371152777777777
+  altitude: 108.0
+  focal_length: 84.0
+  focal_length_35: 168.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:02:01.000000000+02:00
+- image_filename: 2019_04_30__15_02_P4300579.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.326527777777784
+  lon: 19.366680555555558
+  altitude: 99.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4539
+  height: 3396
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:02:42.000000000+02:00
+- image_filename: 2019_04_30__15_03_P4300582.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32627777777778
+  lon: 19.364375000000003
+  altitude: 99.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:03:09.000000000+02:00
+- image_filename: 2019_04_30__15_04_P4300586.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.324402777777784
+  lon: 19.358472222222225
+  altitude: 80.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4480
+  height: 3352
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:04:15.000000000+02:00
+- image_filename: 2019_04_30__15_04_P4300591.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.324361111111116
+  lon: 19.358305555555557
+  altitude: 80.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4464
+  height: 3341
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:04:55.000000000+02:00
+- image_filename: 2019_04_30__15_06_P4300592.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.324361111111116
+  lon: 19.358222222222224
+  altitude: 78.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:06:23.000000000+02:00
+- image_filename: 2019_04_30__15_06_P4300593.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.324361111111116
+  lon: 19.35825
+  altitude: 78.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:06:31.000000000+02:00
+- image_filename: 2019_04_30__15_06_P4300594.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.324375
+  lon: 19.35827777777778
+  altitude: 78.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:06:48.000000000+02:00
+- image_filename: 2019_04_30__15_07_P4300598.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.324375
+  lon: 19.35829166666667
+  altitude: 78.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 32.06
+  iso: 200
+  width: 4385
+  height: 3281
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:07:19.000000000+02:00
+- image_filename: 2019_04_30__15_08_P4300600.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32427777777778
+  lon: 19.358333333333334
+  altitude: 79.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:08:17.000000000+02:00
+- image_filename: 2019_04_30__15_08_P4300603.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.324083333333334
+  lon: 19.35825
+  altitude: 79.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4556
+  height: 3409
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:08:38.000000000+02:00
+- image_filename: 2019_04_30__15_10_P4300608.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32402777777778
+  lon: 19.358083333333333
+  altitude: 78.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:10:44.000000000+02:00
+- image_filename: 2019_04_30__15_18_P4300612.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32118055555556
+  lon: 19.342291666666664
+  altitude: 85.0
+  focal_length: 19.0
+  focal_length_35: 38.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:18:50.000000000+02:00
+- image_filename: 2019_04_30__15_23_P4300618.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.31729166666667
+  lon: 19.335305555555554
+  altitude: 104.0
+  focal_length: 88.0
+  focal_length_35: 176.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:23:35.000000000+02:00
+- image_filename: 2019_04_30__15_24_P4300622.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.31579166666666
+  lon: 19.331583333333334
+  altitude: 109.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 85.55
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:24:36.000000000+02:00
+- image_filename: 2019_04_30__15_35_P4300630.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.326055555555556
+  lon: 19.313875
+  altitude: 95.0
+  focal_length: 55.0
+  focal_length_35: 110.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4525
+  height: 3386
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 15:35:41.000000000+02:00
+- image_filename: 2019_04_30__16_06_P4300643.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.349291666666666
+  lon: 19.231166666666667
+  altitude: 89.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4172
+  height: 3011
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 16:06:06.000000000+02:00
+- image_filename: 2019_04_30__16_06_P4300649.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.34990277777778
+  lon: 19.229833333333332
+  altitude: 91.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 74.75
+  iso: 200
+  width: 4480
+  height: 3352
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 16:06:35.000000000+02:00
+- image_filename: 2019_04_30__16_22_P4300653.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.34988888888889
+  lon: 19.227041666666665
+  altitude: 88.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 95.99
+  iso: 200
+  width: 4240
+  height: 3144
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 16:22:03.000000000+02:00
+- image_filename: 2019_04_30__16_45_P4300656.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.31940277777778
+  lon: 19.178569444444445
+  altitude: 98.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4532
+  height: 3391
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 16:45:04.000000000+02:00
+- image_filename: 2019_04_30__16_57_P4300678.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32619444444445
+  lon: 19.139152777777777
+  altitude: 90.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4528
+  height: 3401
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 16:57:29.000000000+02:00
+- image_filename: 2019_04_30__16_59_P4300681.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32752777777778
+  lon: 19.132361111111113
+  altitude: 90.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 16:59:23.000000000+02:00
+- image_filename: 2019_04_30__17_01_P4300684.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32873611111111
+  lon: 19.128583333333335
+  altitude: 90.0
+  focal_length: 32.0
+  focal_length_35: 64.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 15.11
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 17:01:28.000000000+02:00
+- image_filename: 2019_04_30__17_03_P4300686.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32938888888889
+  lon: 19.124277777777777
+  altitude: 96.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 17:03:22.000000000+02:00
+- image_filename: 2019_04_30__17_09_P4300691.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32852777777778
+  lon: 19.104861111111113
+  altitude: 102.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 162.54
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 17:09:54.000000000+02:00
+- image_filename: 2019_04_30__17_13_P4300694.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.32823611111112
+  lon: 19.095458333333333
+  altitude: 102.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4243
+  height: 3240
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 17:13:36.000000000+02:00
+- image_filename: 2019_04_30__19_10_P4300702.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.60319444444445
+  lon: 19.599291666666666
+  altitude: 106.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 3.69
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-04-30 19:10:06.000000000+02:00

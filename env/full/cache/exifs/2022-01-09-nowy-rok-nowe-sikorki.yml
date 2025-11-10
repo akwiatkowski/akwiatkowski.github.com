@@ -1,60 +1,4 @@
 ---
-- image_filename: 2022_01_10__14_19_P1101731.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-- image_filename: 2022_01_09__12_31_P1091379.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 7.32
-  iso: 800
-  width: 4472
-  height: 3451
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-01-09 12:31:06.000000000+01:00
-- image_filename: 2022_01_09__12_26_P1091324.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 4.74
-  iso: 1600
-  width: 5083
-  height: 3638
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-01-09 12:26:44.000000000+01:00
-- image_filename: 2022_01_09__12_23_P1091263.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 3.65
-  iso: 4000
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-01-09 12:23:42.000000000+01:00
 - image_filename: 2022_01_08__14_36_P1080003.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -73,24 +17,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-08 14:36:56.000000000+01:00
-- image_filename: 2022_01_08__14_47_P1080125.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.04
-  exposure_string: 1/25 s
-  focus_distance: 5.47
-  iso: 500
-  width: 3840
-  height: 2859
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-01-08 14:47:58.000000000+01:00
 - image_filename: 2022_01_08__14_40_P1080029.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -109,6 +35,24 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2022-01-08 14:40:44.000000000+01:00
+- image_filename: 2022_01_08__14_47_P1080125.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 5.47
+  iso: 500
+  width: 3840
+  height: 2859
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-01-08 14:47:58.000000000+01:00
 - image_filename: 2022_01_08__15_05_P1080222.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -199,42 +143,6 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2022-01-09 11:46:18.000000000+01:00
-- image_filename: 2022_01_09__11_48_P1090518.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 4.41
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-01-09 11:48:56.000000000+01:00
-- image_filename: 2022_01_09__11_47_P1090476.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 3.84
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-01-09 11:47:03.000000000+01:00
 - image_filename: 2022_01_09__11_46_P1090470.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -253,6 +161,42 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2022-01-09 11:46:44.000000000+01:00
+- image_filename: 2022_01_09__11_47_P1090476.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.84
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-01-09 11:47:03.000000000+01:00
+- image_filename: 2022_01_09__11_48_P1090518.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.41
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-01-09 11:48:56.000000000+01:00
 - image_filename: 2022_01_09__11_50_P1090537.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -379,6 +323,24 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2022-01-09 11:58:30.000000000+01:00
+- image_filename: 2022_01_09__12_04_P1090841.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.8
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-01-09 12:04:34.000000000+01:00
 - image_filename: 2022_01_09__12_04_P1090851.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -415,24 +377,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:05:50.000000000+01:00
-- image_filename: 2022_01_09__12_04_P1090841.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.8
-  iso: 320
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-01-09 12:04:34.000000000+01:00
 - image_filename: 2022_01_09__12_05_P1090866.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -451,6 +395,24 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:05:56.000000000+01:00
+- image_filename: 2022_01_09__12_07_P1090897.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.17
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-01-09 12:07:06.000000000+01:00
 - image_filename: 2022_01_09__12_07_P1090906.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -487,24 +449,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:07:29.000000000+01:00
-- image_filename: 2022_01_09__12_07_P1090897.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 6.17
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-01-09 12:07:06.000000000+01:00
 - image_filename: 2022_01_09__12_08_P1090932.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -631,24 +575,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:22:08.000000000+01:00
-- image_filename: 2022_01_09__12_22_P1091246.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 4.44
-  iso: 1600
-  width: 4748
-  height: 3478
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-01-09 12:22:46.000000000+01:00
 - image_filename: 2022_01_09__12_22_P1091234.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -667,7 +593,43 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:22:36.000000000+01:00
+- image_filename: 2022_01_09__12_22_P1091246.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.44
+  iso: 1600
+  width: 4748
+  height: 3478
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-01-09 12:22:46.000000000+01:00
 - image_filename: 2022_01_09__12_23_P1091262.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 3.65
+  iso: 4000
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-01-09 12:23:42.000000000+01:00
+- image_filename: 2022_01_09__12_23_P1091263.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -703,24 +665,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:24:34.000000000+01:00
-- image_filename: 2022_01_09__12_26_P1091300.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 5.61
-  iso: 1600
-  width: 3276
-  height: 4648
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-01-09 12:26:15.000000000+01:00
 - image_filename: 2022_01_09__12_24_P1091282.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -739,7 +683,7 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:24:50.000000000+01:00
-- image_filename: 2022_01_09__12_26_P1091314.jpg
+- image_filename: 2022_01_09__12_26_P1091300.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -750,13 +694,13 @@
   aperture: 8.0
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 4.74
+  focus_distance: 5.61
   iso: 1600
-  width: 5240
-  height: 3526
+  width: 3276
+  height: 4648
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
-  time: 2022-01-09 12:26:41.000000000+01:00
+  time: 2022-01-09 12:26:15.000000000+01:00
 - image_filename: 2022_01_09__12_26_P1091304.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -775,6 +719,24 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:26:17.000000000+01:00
+- image_filename: 2022_01_09__12_26_P1091314.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.74
+  iso: 1600
+  width: 5240
+  height: 3526
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-01-09 12:26:41.000000000+01:00
 - image_filename: 2022_01_09__12_26_P1091320.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -793,6 +755,24 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:26:42.000000000+01:00
+- image_filename: 2022_01_09__12_26_P1091324.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.74
+  iso: 1600
+  width: 5083
+  height: 3638
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-01-09 12:26:44.000000000+01:00
 - image_filename: 2022_01_09__12_27_P1091350.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -811,6 +791,24 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:27:14.000000000+01:00
+- image_filename: 2022_01_09__12_31_P1091379.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 7.32
+  iso: 800
+  width: 4472
+  height: 3451
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-01-09 12:31:06.000000000+01:00
 - image_filename: 2022_01_09__12_32_P1091403.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -829,24 +827,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:32:56.000000000+01:00
-- image_filename: 2022_01_09__12_33_P1091422.jpg
-  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
-  lat: 52.36756944444444
-  lon: 16.919805555555556
-  altitude: 0.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 5.12
-  iso: 1250
-  width: 5074
-  height: 3794
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-01-09 12:33:00.000000000+01:00
 - image_filename: 2022_01_09__12_32_P1091415.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -865,7 +845,7 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:32:58.000000000+01:00
-- image_filename: 2022_01_09__12_41_P1091488.jpg
+- image_filename: 2022_01_09__12_33_P1091422.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
   lon: 16.919805555555556
@@ -873,16 +853,16 @@
   focal_length: 600.0
   focal_length_35: 1200.0
   crop: 2.0
-  aperture: 8.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 6.62
-  iso: 640
-  width: 4313
-  height: 3133
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.12
+  iso: 1250
+  width: 5074
+  height: 3794
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
-  time: 2022-01-09 12:41:40.000000000+01:00
+  time: 2022-01-09 12:33:00.000000000+01:00
 - image_filename: 2022_01_09__12_35_P1091463.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444
@@ -901,6 +881,24 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-01-09 12:35:58.000000000+01:00
+- image_filename: 2022_01_09__12_41_P1091488.jpg
+  post_slug: 2022-01-09-nowy-rok-nowe-sikorki
+  lat: 52.36756944444444
+  lon: 16.919805555555556
+  altitude: 0.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.62
+  iso: 640
+  width: 4313
+  height: 3133
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-01-09 12:41:40.000000000+01:00
 - image_filename: 2022_01_09__12_45_P1091513.jpg
   post_slug: 2022-01-09-nowy-rok-nowe-sikorki
   lat: 52.36756944444444

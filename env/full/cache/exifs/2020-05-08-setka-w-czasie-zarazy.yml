@@ -1,454 +1,4 @@
 ---
-- image_filename: 2020_05_08__10_48__5086431.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.461625000000005
-  lon: 16.066791666666667
-  altitude: 106.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5018
-  height: 3746
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-05-08 10:48:10+02:00
-  focus_distance: 5.97
-- image_filename: 2020_05_08__12_31__5086465.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.45265277777778
-  lon: 16.3735
-  altitude: 113.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5199
-  height: 3882
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-05-08 12:31:01+02:00
-  focus_distance: 28.49
-- image_filename: 2020_05_08__08_36__5086304.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.369791666666664
-  lon: 15.88151388888889
-  altitude: 63.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4923
-  height: 3499
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-05-08 08:36:50+02:00
-  focus_distance: 47.22
-- image_filename: 2020_05_08__12_15__5086449.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.44047222222222
-  lon: 16.31952777777778
-  altitude: 116.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5204
-  height: 3885
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 12:15:55+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_05_08__12_43__5086472.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.458986111111116
-  lon: 16.42702777777778
-  altitude: 117.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4748
-  height: 3596
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-05-08 12:43:32+02:00
-  focus_distance: 22.02
-- image_filename: 2020_05_08__13_59__5086492.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.452875000000006
-  lon: 16.591319444444444
-  altitude: 121.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 13:59:24+02:00
-  focus_distance: 8.57
-- image_filename: 2020_05_08__10_00__5086385.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.416624999999996
-  lon: 15.945152777777778
-  altitude: 97.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5197
-  height: 3853
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-05-08 10:00:40+02:00
-  focus_distance: 14.24
-- image_filename: 2020_05_08__09_58__5086376.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.416624999999996
-  lon: 15.945152777777778
-  altitude: 97.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5094
-  height: 3819
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-05-08 09:58:33+02:00
-  focus_distance: 7.55
-- image_filename: 2020_05_08__10_47__5086424.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.461597222222224
-  lon: 16.06665277777778
-  altitude: 107.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5040
-  height: 3763
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 10:47:25+02:00
-  focus_distance: 1.22
-- image_filename: 2020_05_08__14_25__5086510.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.43051388888889
-  lon: 16.65309722222222
-  altitude: 111.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5231
-  height: 3905
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 14:25:24+02:00
-  focus_distance: 36.17
-- image_filename: 2020_05_08__10_22__5086406.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.43976388888888
-  lon: 15.995791666666666
-  altitude: 106.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5086
-  height: 3797
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-08 10:22:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_05_08__08_52__5086317.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.35516666666667
-  lon: 15.914236111111112
-  altitude: 70.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-08 08:52:31+02:00
-  focus_distance: 27.44
-- image_filename: 2020_05_08__14_25__5086508.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.43051388888889
-  lon: 16.65308333333333
-  altitude: 111.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-05-08 14:25:06+02:00
-  focus_distance: 92.57
-- image_filename: 2020_05_08__08_23__5086289.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.34586111111111
-  lon: 15.875430555555557
-  altitude: 62.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4998
-  height: 3690
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 08:23:45+02:00
-  focus_distance: 17.44
-- image_filename: 2020_05_08__14_05__5086497.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.44233333333333
-  lon: 16.60576388888889
-  altitude: 115.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-05-08 14:05:36+02:00
-  focus_distance: 52.51
-- image_filename: 2020_05_08__09_57__5086365.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.416624999999996
-  lon: 15.945152777777778
-  altitude: 96.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2020-05-08 09:57:51+02:00
-  focus_distance: 0.47
-- image_filename: 2020_05_08__12_45__5086477.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.46025
-  lon: 16.431222222222225
-  altitude: 117.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-05-08 12:45:51+02:00
-  focus_distance: 102.4
-- image_filename: 2020_05_08__13_58__5086488.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.453208333333336
-  lon: 16.59084722222222
-  altitude: 122.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4959
-  height: 3703
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 13:58:55+02:00
-  focus_distance: 10.05
-- image_filename: 2020_05_08__13_58__5086486.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.453208333333336
-  lon: 16.59084722222222
-  altitude: 122.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4982
-  height: 3644
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-05-08 13:58:48+02:00
-  focus_distance: 19.93
-- image_filename: 2020_05_08__08_38__5086314.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.36994444444444
-  lon: 15.882097222222223
-  altitude: 63.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4955
-  height: 3814
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-05-08 08:38:01+02:00
-  focus_distance: 8.61
-- image_filename: 2020_05_08__10_41__5086409.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.45891666666667
-  lon: 16.055708333333335
-  altitude: 107.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5214
-  height: 3892
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-05-08 10:41:17+02:00
-  focus_distance: 45.13
-- image_filename: 2020_05_08__08_37__5086309.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.369819444444445
-  lon: 15.88151388888889
-  altitude: 63.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5089
-  height: 3702
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-05-08 08:37:12+02:00
-  focus_distance: 12.48
-- image_filename: 2020_05_08__08_38__5086316.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.370111111111115
-  lon: 15.882847222222223
-  altitude: 64.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4989
-  height: 3658
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 08:38:12+02:00
-  focus_distance: 16.51
-- image_filename: 2020_05_08__13_02__5086479.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.449777777777776
-  lon: 16.491027777777777
-  altitude: 123.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-05-08 13:02:40+02:00
-  focus_distance: 39.96
-- image_filename: 2020_05_08__14_05__5086502.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.44163888888889
-  lon: 16.60654166666667
-  altitude: 113.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-08 14:05:56+02:00
-  focus_distance: 15.7
 - image_filename: 2020_05_08__08_10__5086281.jpg
   post_slug: 2020-05-08-setka-w-czasie-zarazy
   lat: 52.30495833333333
@@ -458,141 +8,15 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 7.32
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 08:10:00+02:00
-  focus_distance: 7.32
-- image_filename: 2020_05_08__08_31__5086295.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.36595833333333
-  lon: 15.876652777777778
-  altitude: 62.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5112
-  height: 3736
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 08:31:41+02:00
-  focus_distance: 14.66
-- image_filename: 2020_05_08__08_31__5086294.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.365944444444445
-  lon: 15.87663888888889
-  altitude: 62.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4673
-  height: 3422
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 08:31:34+02:00
-  focus_distance: 1.7
-- image_filename: 2020_05_08__08_32__5086300.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.36661111111111
-  lon: 15.877708333333334
-  altitude: 62.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4931
-  height: 3456
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-08 08:32:10+02:00
-  focus_distance: 12.81
-- image_filename: 2020_05_08__10_15__5086397.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.43801388888888
-  lon: 15.967541666666667
-  altitude: 106.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5228
-  height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-08 10:15:32+02:00
-  focus_distance: 43.0
-- image_filename: 2020_05_08__11_18__5086440.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.44643055555555
-  lon: 16.16911111111111
-  altitude: 116.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5178
-  height: 3827
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-05-08 11:18:14+02:00
-  focus_distance: 16.75
-- image_filename: 2020_05_08__13_02__5086482.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.44984722222222
-  lon: 16.492361111111112
-  altitude: 123.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5064
-  height: 3600
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-08 13:02:58+02:00
-  focus_distance: 69.13
-- image_filename: 2020_05_08__09_30__5086351.jpg
-  post_slug: 2020-05-08-setka-w-czasie-zarazy
-  lat: 52.37251388888889
-  lon: 15.957458333333333
-  altitude: 74.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5046
-  height: 3775
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-05-08 09:30:44+02:00
-  focus_distance: 65.54
+  time: 2020-05-08 08:10:00.000000000+02:00
 - image_filename: 2020_05_08__08_10__5086283.jpg
   post_slug: 2020-05-08-setka-w-czasie-zarazy
   lat: 52.30495833333333
@@ -602,15 +26,195 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5145
-  height: 3841
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-05-08 08:10:06+02:00
   focus_distance: 63.5
+  iso: 200
+  width: 5145
+  height: 3841
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:10:06.000000000+02:00
+- image_filename: 2020_05_08__08_23__5086289.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.34586111111111
+  lon: 15.875430555555557
+  altitude: 62.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 17.44
+  iso: 200
+  width: 4998
+  height: 3690
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:23:45.000000000+02:00
+- image_filename: 2020_05_08__08_31__5086294.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.365944444444445
+  lon: 15.87663888888889
+  altitude: 62.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.7
+  iso: 200
+  width: 4673
+  height: 3422
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:31:34.000000000+02:00
+- image_filename: 2020_05_08__08_31__5086295.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.36595833333333
+  lon: 15.876652777777778
+  altitude: 62.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 14.66
+  iso: 200
+  width: 5112
+  height: 3736
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:31:41.000000000+02:00
+- image_filename: 2020_05_08__08_32__5086300.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.36661111111111
+  lon: 15.877708333333334
+  altitude: 62.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 12.81
+  iso: 200
+  width: 4931
+  height: 3456
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:32:10.000000000+02:00
+- image_filename: 2020_05_08__08_36__5086304.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.369791666666664
+  lon: 15.88151388888889
+  altitude: 63.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 47.22
+  iso: 200
+  width: 4923
+  height: 3499
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:36:50.000000000+02:00
+- image_filename: 2020_05_08__08_37__5086309.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.369819444444445
+  lon: 15.88151388888889
+  altitude: 63.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 12.48
+  iso: 200
+  width: 5089
+  height: 3702
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:37:12.000000000+02:00
+- image_filename: 2020_05_08__08_38__5086314.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.36994444444444
+  lon: 15.882097222222223
+  altitude: 63.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 8.61
+  iso: 200
+  width: 4955
+  height: 3814
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:38:01.000000000+02:00
+- image_filename: 2020_05_08__08_38__5086316.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.370111111111115
+  lon: 15.882847222222223
+  altitude: 64.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 16.51
+  iso: 200
+  width: 4989
+  height: 3658
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:38:12.000000000+02:00
+- image_filename: 2020_05_08__08_52__5086317.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.35516666666667
+  lon: 15.914236111111112
+  altitude: 70.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 27.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 08:52:31.000000000+02:00
+- image_filename: 2020_05_08__09_30__5086351.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.37251388888889
+  lon: 15.957458333333333
+  altitude: 74.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 65.54
+  iso: 200
+  width: 5046
+  height: 3775
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 09:30:44.000000000+02:00
 - image_filename: 2020_05_08__09_30__5086353.jpg
   post_slug: 2020-05-08-setka-w-czasie-zarazy
   lat: 52.37251388888889
@@ -620,12 +224,408 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5188
-  height: 3843
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-05-08 09:30:54+02:00
   focus_distance: 27.95
+  iso: 200
+  width: 5188
+  height: 3843
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 09:30:54.000000000+02:00
+- image_filename: 2020_05_08__09_57__5086365.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.416624999999996
+  lon: 15.945152777777778
+  altitude: 96.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  focus_distance: 0.47
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 09:57:51.000000000+02:00
+- image_filename: 2020_05_08__09_58__5086376.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.416624999999996
+  lon: 15.945152777777778
+  altitude: 97.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 7.55
+  iso: 200
+  width: 5094
+  height: 3819
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 09:58:33.000000000+02:00
+- image_filename: 2020_05_08__10_00__5086385.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.416624999999996
+  lon: 15.945152777777778
+  altitude: 97.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 14.24
+  iso: 200
+  width: 5197
+  height: 3853
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 10:00:40.000000000+02:00
+- image_filename: 2020_05_08__10_15__5086397.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.43801388888888
+  lon: 15.967541666666667
+  altitude: 106.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 43.0
+  iso: 200
+  width: 5228
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 10:15:32.000000000+02:00
+- image_filename: 2020_05_08__10_22__5086406.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.43976388888888
+  lon: 15.995791666666666
+  altitude: 106.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5086
+  height: 3797
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 10:22:47.000000000+02:00
+- image_filename: 2020_05_08__10_41__5086409.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.45891666666667
+  lon: 16.055708333333335
+  altitude: 107.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 45.13
+  iso: 200
+  width: 5214
+  height: 3892
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 10:41:17.000000000+02:00
+- image_filename: 2020_05_08__10_47__5086424.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.461597222222224
+  lon: 16.06665277777778
+  altitude: 107.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.22
+  iso: 200
+  width: 5040
+  height: 3763
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 10:47:25.000000000+02:00
+- image_filename: 2020_05_08__10_48__5086431.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.461625000000005
+  lon: 16.066791666666667
+  altitude: 106.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.97
+  iso: 200
+  width: 5018
+  height: 3746
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 10:48:10.000000000+02:00
+- image_filename: 2020_05_08__11_18__5086440.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.44643055555555
+  lon: 16.16911111111111
+  altitude: 116.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 16.75
+  iso: 200
+  width: 5178
+  height: 3827
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 11:18:14.000000000+02:00
+- image_filename: 2020_05_08__12_15__5086449.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.44047222222222
+  lon: 16.31952777777778
+  altitude: 116.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5204
+  height: 3885
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 12:15:55.000000000+02:00
+- image_filename: 2020_05_08__12_31__5086465.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.45265277777778
+  lon: 16.3735
+  altitude: 113.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 28.49
+  iso: 200
+  width: 5199
+  height: 3882
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 12:31:01.000000000+02:00
+- image_filename: 2020_05_08__12_43__5086472.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.458986111111116
+  lon: 16.42702777777778
+  altitude: 117.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 22.02
+  iso: 200
+  width: 4748
+  height: 3596
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 12:43:32.000000000+02:00
+- image_filename: 2020_05_08__12_45__5086477.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.46025
+  lon: 16.431222222222225
+  altitude: 117.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 102.4
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 12:45:51.000000000+02:00
+- image_filename: 2020_05_08__13_02__5086479.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.449777777777776
+  lon: 16.491027777777777
+  altitude: 123.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 39.96
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 13:02:40.000000000+02:00
+- image_filename: 2020_05_08__13_02__5086482.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.44984722222222
+  lon: 16.492361111111112
+  altitude: 123.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 69.13
+  iso: 200
+  width: 5064
+  height: 3600
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 13:02:58.000000000+02:00
+- image_filename: 2020_05_08__13_58__5086486.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.453208333333336
+  lon: 16.59084722222222
+  altitude: 122.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 19.93
+  iso: 200
+  width: 4982
+  height: 3644
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 13:58:48.000000000+02:00
+- image_filename: 2020_05_08__13_58__5086488.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.453208333333336
+  lon: 16.59084722222222
+  altitude: 122.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 10.05
+  iso: 200
+  width: 4959
+  height: 3703
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 13:58:55.000000000+02:00
+- image_filename: 2020_05_08__13_59__5086492.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.452875000000006
+  lon: 16.591319444444444
+  altitude: 121.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 8.57
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 13:59:24.000000000+02:00
+- image_filename: 2020_05_08__14_05__5086497.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.44233333333333
+  lon: 16.60576388888889
+  altitude: 115.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 52.51
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 14:05:36.000000000+02:00
+- image_filename: 2020_05_08__14_05__5086502.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.44163888888889
+  lon: 16.60654166666667
+  altitude: 113.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 15.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 14:05:56.000000000+02:00
+- image_filename: 2020_05_08__14_25__5086508.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.43051388888889
+  lon: 16.65308333333333
+  altitude: 111.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 92.57
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 14:25:06.000000000+02:00
+- image_filename: 2020_05_08__14_25__5086510.jpg
+  post_slug: 2020-05-08-setka-w-czasie-zarazy
+  lat: 52.43051388888889
+  lon: 16.65309722222222
+  altitude: 111.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 36.17
+  iso: 200
+  width: 5231
+  height: 3905
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-05-08 14:25:24.000000000+02:00

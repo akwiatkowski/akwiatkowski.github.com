@@ -1,116 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-10-22-najlepszy-widok-na-bardo
-  lat: 50.500791666666665
-  lon: 16.741430555555556
-  altitude: 457.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-10-22 10:29:29+02:00
-- image_filename: IMGP2441raw1.jpg
-  post_slug: 2017-10-22-najlepszy-widok-na-bardo
-  lat: 50.50080555555556
-  lon: 16.736805555555556
-  altitude: 313.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-10-22 09:50:22+02:00
-- image_filename: IMGP2446raw1.jpg
-  post_slug: 2017-10-22-najlepszy-widok-na-bardo
-  lat: 50.49633333333333
-  lon: 16.73875
-  altitude: 384.0
-  focal_length: 38.0
-  focal_length_35: 57.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-10-22 10:04:42+02:00
-- image_filename: IMGP2497raw1.jpg
-  post_slug: 2017-10-22-najlepszy-widok-na-bardo
-  lat: 50.498083333333334
-  lon: 16.74077777777778
-  altitude: 428.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-10-22 10:35:19+02:00
-- image_filename: IMGP2504raw1.jpg
-  post_slug: 2017-10-22-najlepszy-widok-na-bardo
-  lat: 50.50270833333333
-  lon: 16.73273611111111
-  altitude: 314.0
-  focal_length: 38.0
-  focal_length_35: 57.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-10-22 10:59:27+02:00
-- image_filename: IMGP2506raw1.jpg
-  post_slug: 2017-10-22-najlepszy-widok-na-bardo
-  lat: 50.504416666666664
-  lon: 16.73108333333333
-  altitude: 276.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-10-22 11:06:28+02:00
-- image_filename: IMGP2511raw1.jpg
-  post_slug: 2017-10-22-najlepszy-widok-na-bardo
-  lat: 50.50581944444444
-  lon: 16.739847222222224
-  altitude: 278.0
-  focal_length: 19.0
-  focal_length_35: 28.0
-  crop: 1.4736842105263157
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-22 11:18:09+02:00
-- image_filename: IMGP2520raw1.jpg
-  post_slug: 2017-10-22-najlepszy-widok-na-bardo
-  lat: 50.53598611111111
-  lon: 16.897333333333332
-  altitude: 260.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-10-22 12:32:58+02:00
 - image_filename: IMGP2436raw1.jpg
   post_slug: 2017-10-22-najlepszy-widok-na-bardo
   lat: 50.50190277777778
@@ -120,11 +8,53 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 3.5
-  iso: 160
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-10-22 09:46:47+02:00
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-10-22 09:46:47.000000000+02:00
+- image_filename: IMGP2441raw1.jpg
+  post_slug: 2017-10-22-najlepszy-widok-na-bardo
+  lat: 50.50080555555556
+  lon: 16.736805555555556
+  altitude: 313.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-10-22 09:50:22.000000000+02:00
+- image_filename: IMGP2446raw1.jpg
+  post_slug: 2017-10-22-najlepszy-widok-na-bardo
+  lat: 50.49633333333333
+  lon: 16.73875
+  altitude: 384.0
+  focal_length: 38.0
+  focal_length_35: 57.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-10-22 10:04:42.000000000+02:00
+- image_filename: IMGP2497raw1.jpg
+  post_slug: 2017-10-22-najlepszy-widok-na-bardo
+  lat: 50.498083333333334
+  lon: 16.74077777777778
+  altitude: 428.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2017-10-22 10:35:19.000000000+02:00
 - image_filename: IMGP2502raw1.jpg
   post_slug: 2017-10-22-najlepszy-widok-na-bardo
   lat: 50.50256944444445
@@ -134,8 +64,78 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2017-10-22 10:58:56+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-10-22 10:58:56.000000000+02:00
+- image_filename: IMGP2504raw1.jpg
+  post_slug: 2017-10-22-najlepszy-widok-na-bardo
+  lat: 50.50270833333333
+  lon: 16.73273611111111
+  altitude: 314.0
+  focal_length: 38.0
+  focal_length_35: 57.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-10-22 10:59:27.000000000+02:00
+- image_filename: IMGP2506raw1.jpg
+  post_slug: 2017-10-22-najlepszy-widok-na-bardo
+  lat: 50.504416666666664
+  lon: 16.73108333333333
+  altitude: 276.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-10-22 11:06:28.000000000+02:00
+- image_filename: IMGP2511raw1.jpg
+  post_slug: 2017-10-22-najlepszy-widok-na-bardo
+  lat: 50.50581944444444
+  lon: 16.739847222222224
+  altitude: 278.0
+  focal_length: 19.0
+  focal_length_35: 28.0
+  crop: 1.4736842105263157
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-10-22 11:18:09.000000000+02:00
+- image_filename: IMGP2520raw1.jpg
+  post_slug: 2017-10-22-najlepszy-widok-na-bardo
+  lat: 50.53598611111111
+  lon: 16.897333333333332
+  altitude: 260.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-10-22 12:32:58.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-10-22-najlepszy-widok-na-bardo
+  lat: 50.500791666666665
+  lon: 16.741430555555556
+  altitude: 457.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-10-22 10:29:29.000000000+02:00

@@ -1,204 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-- image_filename: 2022_07_02__11_05_P7022770.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.80994444444444
-  lon: 15.299041666666666
-  altitude: 50.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.35
-  iso: 200
-  width: 8109
-  height: 6017
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 11:05:26.000000000+02:00
-- image_filename: 2022_07_02__12_02_P7022820.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.811097222222216
-  lon: 15.427249999999999
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 2.88
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:02:12.000000000+02:00
-- image_filename: 2022_07_02__11_03_P7022765.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.81004166666666
-  lon: 15.297097222222222
-  altitude: 49.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.3
-  iso: 200
-  width: 5157
-  height: 3803
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 11:03:03.000000000+02:00
-- image_filename: 2022_07_02__11_33_P7022789.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.81031944444444
-  lon: 15.372902777777778
-  altitude: 58.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 22.53
-  iso: 200
-  width: 8096
-  height: 5994
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 11:33:03.000000000+02:00
-- image_filename: 2022_07_02__11_03_P7022766.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.81004166666666
-  lon: 15.297097222222222
-  altitude: 49.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 75.15
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 11:03:09.000000000+02:00
-- image_filename: 2022_07_02__11_07_P7022772.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.80998611111111
-  lon: 15.301944444444445
-  altitude: 48.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 71.54
-  iso: 200
-  width: 8160
-  height: 6080
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 11:07:55.000000000+02:00
-- image_filename: 2022_07_02__10_57_P7022764.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.81122222222222
-  lon: 15.287069444444445
-  altitude: 35.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 10:57:41.000000000+02:00
-- image_filename: 2022_07_02__11_33_P7022790.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.81030555555555
-  lon: 15.372916666666667
-  altitude: 59.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.33
-  iso: 200
-  width: 8120
-  height: 6025
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 11:33:27.000000000+02:00
-- image_filename: 2022_07_02__11_44_P7022793.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.789791666666666
-  lon: 15.395027777777777
-  altitude: 56.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 31.93
-  iso: 200
-  width: 8141
-  height: 6053
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 11:44:58.000000000+02:00
-- image_filename: 2022_07_02__11_46_P7022794.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.78859722222222
-  lon: 15.396333333333333
-  altitude: 56.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 35.46
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 11:46:20.000000000+02:00
-- image_filename: 2022_07_02__11_28_P7022775.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.80820833333333
-  lon: 15.365041666666666
-  altitude: 55.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 10.78
-  iso: 200
-  width: 5149
-  height: 3790
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 11:28:43.000000000+02:00
 - image_filename: 2022_07_02__10_48_P7022763.jpg
   post_slug: 2022-07-02-pomorskimi-lasami
   lat: 53.808569444444444
@@ -217,6 +17,150 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-07-02 10:48:40.000000000+02:00
+- image_filename: 2022_07_02__10_57_P7022764.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.81122222222222
+  lon: 15.287069444444445
+  altitude: 35.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 10:57:41.000000000+02:00
+- image_filename: 2022_07_02__11_03_P7022765.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.81004166666666
+  lon: 15.297097222222222
+  altitude: 49.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.3
+  iso: 200
+  width: 5157
+  height: 3803
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 11:03:03.000000000+02:00
+- image_filename: 2022_07_02__11_03_P7022766.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.81004166666666
+  lon: 15.297097222222222
+  altitude: 49.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 75.15
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 11:03:09.000000000+02:00
+- image_filename: 2022_07_02__11_05_P7022770.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.80994444444444
+  lon: 15.299041666666666
+  altitude: 50.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.35
+  iso: 200
+  width: 8109
+  height: 6017
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 11:05:26.000000000+02:00
+- image_filename: 2022_07_02__11_07_P7022772.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.80998611111111
+  lon: 15.301944444444445
+  altitude: 48.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 71.54
+  iso: 200
+  width: 8160
+  height: 6080
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 11:07:55.000000000+02:00
+- image_filename: 2022_07_02__11_28_P7022775.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.80820833333333
+  lon: 15.365041666666666
+  altitude: 55.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 10.78
+  iso: 200
+  width: 5149
+  height: 3790
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 11:28:43.000000000+02:00
+- image_filename: 2022_07_02__11_33_P7022789.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.81031944444444
+  lon: 15.372902777777778
+  altitude: 58.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 22.53
+  iso: 200
+  width: 8096
+  height: 5994
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 11:33:03.000000000+02:00
+- image_filename: 2022_07_02__11_33_P7022790.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.81030555555555
+  lon: 15.372916666666667
+  altitude: 59.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.33
+  iso: 200
+  width: 8120
+  height: 6025
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 11:33:27.000000000+02:00
 - image_filename: 2022_07_02__11_35_P7022791.jpg
   post_slug: 2022-07-02-pomorskimi-lasami
   lat: 53.81172222222222
@@ -253,6 +197,546 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-07-02 11:36:25.000000000+02:00
+- image_filename: 2022_07_02__11_44_P7022793.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.789791666666666
+  lon: 15.395027777777777
+  altitude: 56.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 31.93
+  iso: 200
+  width: 8141
+  height: 6053
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 11:44:58.000000000+02:00
+- image_filename: 2022_07_02__11_46_P7022794.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.78859722222222
+  lon: 15.396333333333333
+  altitude: 56.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 35.46
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 11:46:20.000000000+02:00
+- image_filename: 2022_07_02__12_00_P7022799.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.811097222222216
+  lon: 15.427319444444445
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 6.68
+  iso: 200
+  width: 3594
+  height: 2820
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:00:37.000000000+02:00
+- image_filename: 2022_07_02__12_00_P7022800.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.811097222222216
+  lon: 15.427305555555556
+  altitude: 56.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.7
+  iso: 200
+  width: 5155
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:00:44.000000000+02:00
+- image_filename: 2022_07_02__12_00_P7022802.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.811097222222216
+  lon: 15.427291666666665
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 5.53
+  iso: 200
+  width: 4006
+  height: 3291
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:00:50.000000000+02:00
+- image_filename: 2022_07_02__12_01_P7022812.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.81111111111111
+  lon: 15.427263888888888
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 3.16
+  iso: 200
+  width: 5125
+  height: 3756
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:01:31.000000000+02:00
+- image_filename: 2022_07_02__12_01_P7022818.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.81111111111111
+  lon: 15.427277777777777
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.94
+  iso: 200
+  width: 3083
+  height: 4480
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:01:43.000000000+02:00
+- image_filename: 2022_07_02__12_02_P7022820.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.811097222222216
+  lon: 15.427249999999999
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.88
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:02:12.000000000+02:00
+- image_filename: 2022_07_02__12_02_P7022823.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.811097222222216
+  lon: 15.427249999999999
+  altitude: 56.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.2
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:02:27.000000000+02:00
+- image_filename: 2022_07_02__12_02_P7022829.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.811097222222216
+  lon: 15.427249999999999
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.04
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:02:48.000000000+02:00
+- image_filename: 2022_07_02__12_03_P7022833.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.811097222222216
+  lon: 15.427263888888888
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 56.69
+  iso: 200
+  width: 7873
+  height: 5972
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:03:13.000000000+02:00
+- image_filename: 2022_07_02__12_03_P7022834.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.811138888888884
+  lon: 15.427319444444445
+  altitude: 57.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.36
+  iso: 200
+  width: 7733
+  height: 5643
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:03:44.000000000+02:00
+- image_filename: 2022_07_02__12_05_P7022835.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.81272222222222
+  lon: 15.434277777777778
+  altitude: 57.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 4.57
+  iso: 200
+  width: 8136
+  height: 6043
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:05:55.000000000+02:00
+- image_filename: 2022_07_02__12_16_P7022839.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.83020833333334
+  lon: 15.469694444444444
+  altitude: 51.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7316
+  height: 5757
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:16:54.000000000+02:00
+- image_filename: 2022_07_02__12_19_P7022841.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.83127777777778
+  lon: 15.468555555555556
+  altitude: 51.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 6933
+  height: 5658
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:19:16.000000000+02:00
+- image_filename: 2022_07_02__12_28_P7022842.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.83219444444445
+  lon: 15.491597222222222
+  altitude: 62.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.19
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:28:27.000000000+02:00
+- image_filename: 2022_07_02__12_36_P7022843.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.836597222222224
+  lon: 15.508097222222222
+  altitude: 65.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.92
+  iso: 200
+  width: 8069
+  height: 5957
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:36:37.000000000+02:00
+- image_filename: 2022_07_02__12_46_P7022848.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.84238888888889
+  lon: 15.524625
+  altitude: 64.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 0.59
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:46:24.000000000+02:00
+- image_filename: 2022_07_02__12_58_P7022851.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.85036111111111
+  lon: 15.549972222222221
+  altitude: 58.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1.59
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:58:23.000000000+02:00
+- image_filename: 2022_07_02__12_59_P7022853.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.85041666666667
+  lon: 15.55001388888889
+  altitude: 58.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 2.49
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 12:59:08.000000000+02:00
+- image_filename: 2022_07_02__13_07_P7022859.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.85398611111111
+  lon: 15.557833333333335
+  altitude: 62.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.57
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 13:07:20.000000000+02:00
+- image_filename: 2022_07_02__13_25_P7022862.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.880097222222226
+  lon: 15.581083333333334
+  altitude: 64.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5208
+  height: 3870
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 13:25:09.000000000+02:00
+- image_filename: 2022_07_02__13_29_P7022872.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.88041666666667
+  lon: 15.581541666666666
+  altitude: 62.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.73
+  iso: 200
+  width: 6093
+  height: 8166
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 13:29:50.000000000+02:00
+- image_filename: 2022_07_02__13_37_P7022875.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.88776388888889
+  lon: 15.591722222222224
+  altitude: 49.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.19
+  iso: 200
+  width: 7587
+  height: 5325
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 13:37:03.000000000+02:00
+- image_filename: 2022_07_02__13_38_P7022877.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.88934722222222
+  lon: 15.596250000000001
+  altitude: 50.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 15.32
+  iso: 200
+  width: 3986
+  height: 2971
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 13:38:43.000000000+02:00
+- image_filename: 2022_07_02__13_39_P7022881.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.88934722222222
+  lon: 15.59626388888889
+  altitude: 50.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 18.7
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 13:39:43.000000000+02:00
+- image_filename: 2022_07_02__13_50_P7022883.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.893375
+  lon: 15.632736111111111
+  altitude: 72.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3496
+  height: 5095
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 13:50:55.000000000+02:00
+- image_filename: 2022_07_02__13_51_P7022885.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.893458333333335
+  lon: 15.632652777777778
+  altitude: 70.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7728
+  height: 6109
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 13:51:50.000000000+02:00
+- image_filename: 2022_07_02__13_57_P7022886.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.892041666666664
+  lon: 15.659
+  altitude: 70.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.16
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 13:57:50.000000000+02:00
+- image_filename: 2022_07_02__14_06_P7022887.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.888875
+  lon: 15.706569444444444
+  altitude: 51.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.92
+  iso: 200
+  width: 7005
+  height: 5391
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 14:06:21.000000000+02:00
 - image_filename: 2022_07_02__14_08_P7022923.jpg
   post_slug: 2022-07-02-pomorskimi-lasami
   lat: 53.88890277777778
@@ -271,6 +755,78 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-07-02 14:08:56.000000000+02:00
+- image_filename: 2022_07_02__14_10_P7022937.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.88890277777778
+  lon: 15.70661111111111
+  altitude: 51.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5044
+  height: 3844
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 14:10:21.000000000+02:00
+- image_filename: 2022_07_02__15_36_P7022943.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.93220833333333
+  lon: 15.815305555555556
+  altitude: 41.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5053
+  height: 3848
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 15:36:09.000000000+02:00
+- image_filename: 2022_07_02__15_38_P7022947.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.93222222222222
+  lon: 15.815291666666667
+  altitude: 42.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 0.72
+  iso: 250
+  width: 4638
+  height: 3151
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 15:38:02.000000000+02:00
+- image_filename: 2022_07_02__15_43_P7022952.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.93438888888888
+  lon: 15.826833333333333
+  altitude: 52.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7352
+  height: 5506
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 15:43:31.000000000+02:00
 - image_filename: 2022_07_02__15_44_P7022953.jpg
   post_slug: 2022-07-02-pomorskimi-lasami
   lat: 53.93436111111111
@@ -307,60 +863,114 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-07-02 15:44:41.000000000+02:00
-- image_filename: 2022_07_02__13_50_P7022883.jpg
+- image_filename: 2022_07_02__15_46_P7022957.jpg
   post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.893375
-  lon: 15.632736111111111
-  altitude: 72.0
-  focal_length: 16.0
-  focal_length_35: 32.0
+  lat: 53.93445833333333
+  lon: 15.826777777777778
+  altitude: 53.0
+  focal_length: 28.0
+  focal_length_35: 56.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 19.0
+  iso: 200
+  width: 8037
+  height: 5965
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 15:46:07.000000000+02:00
+- image_filename: 2022_07_02__16_06_P7022963.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.937555555555555
+  lon: 15.884083333333333
+  altitude: 41.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.7
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 16:06:00.000000000+02:00
+- image_filename: 2022_07_02__16_08_P7022966.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.93765277777777
+  lon: 15.885083333333332
+  altitude: 41.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   focus_distance: 1000.0
   iso: 200
-  width: 3496
-  height: 5095
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-07-02 13:50:55.000000000+02:00
-- image_filename: 2022_07_02__13_37_P7022875.jpg
+  time: 2022-07-02 16:08:01.000000000+02:00
+- image_filename: 2022_07_02__16_08_P7022968.jpg
   post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.88776388888889
-  lon: 15.591722222222224
-  altitude: 49.0
+  lat: 53.937666666666665
+  lon: 15.885055555555555
+  altitude: 41.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 3.19
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 5.49
   iso: 200
-  width: 7587
-  height: 5325
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-07-02 13:37:03.000000000+02:00
-- image_filename: 2022_07_02__14_06_P7022887.jpg
+  time: 2022-07-02 16:08:59.000000000+02:00
+- image_filename: 2022_07_02__16_17_P7022974.jpg
   post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.888875
-  lon: 15.706569444444444
-  altitude: 51.0
+  lat: 53.944291666666665
+  lon: 15.900458333333333
+  altitude: 48.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 3.92
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.98
   iso: 200
-  width: 7005
-  height: 5391
+  width: 7182
+  height: 5463
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-07-02 14:06:21.000000000+02:00
+  time: 2022-07-02 16:17:28.000000000+02:00
+- image_filename: 2022_07_02__16_34_P7022978.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.976875
+  lon: 15.939027777777778
+  altitude: 17.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 55.53
+  iso: 200
+  width: 5125
+  height: 3797
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 16:34:48.000000000+02:00
 - image_filename: 2022_07_02__16_43_P7022981.jpg
   post_slug: 2022-07-02-pomorskimi-lasami
   lat: 53.98268055555556
@@ -397,780 +1007,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-07-02 16:50:23.000000000+02:00
-- image_filename: 2022_07_02__14_10_P7022937.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.88890277777778
-  lon: 15.70661111111111
-  altitude: 51.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5044
-  height: 3844
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 14:10:21.000000000+02:00
-- image_filename: 2022_07_02__16_08_P7022968.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.937666666666665
-  lon: 15.885055555555555
-  altitude: 41.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 5.49
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 16:08:59.000000000+02:00
-- image_filename: 2022_07_02__12_00_P7022799.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.811097222222216
-  lon: 15.427319444444445
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 6.68
-  iso: 200
-  width: 3594
-  height: 2820
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:00:37.000000000+02:00
-- image_filename: 2022_07_02__13_29_P7022872.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.88041666666667
-  lon: 15.581541666666666
-  altitude: 62.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.73
-  iso: 200
-  width: 6093
-  height: 8166
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 13:29:50.000000000+02:00
-- image_filename: 2022_07_02__13_25_P7022862.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.880097222222226
-  lon: 15.581083333333334
-  altitude: 64.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5208
-  height: 3870
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 13:25:09.000000000+02:00
-- image_filename: 2022_07_02__12_03_P7022834.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.811138888888884
-  lon: 15.427319444444445
-  altitude: 57.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.36
-  iso: 200
-  width: 7733
-  height: 5643
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:03:44.000000000+02:00
-- image_filename: 2022_07_02__13_38_P7022877.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.88934722222222
-  lon: 15.596250000000001
-  altitude: 50.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 15.32
-  iso: 200
-  width: 3986
-  height: 2971
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 13:38:43.000000000+02:00
-- image_filename: 2022_07_02__15_36_P7022943.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.93220833333333
-  lon: 15.815305555555556
-  altitude: 41.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5053
-  height: 3848
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 15:36:09.000000000+02:00
-- image_filename: 2022_07_02__12_03_P7022833.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.811097222222216
-  lon: 15.427263888888888
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 56.69
-  iso: 200
-  width: 7873
-  height: 5972
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:03:13.000000000+02:00
-- image_filename: 2022_07_02__13_51_P7022885.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.893458333333335
-  lon: 15.632652777777778
-  altitude: 70.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7728
-  height: 6109
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 13:51:50.000000000+02:00
-- image_filename: 2022_07_02__17_06_P7022996.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.98083333333334
-  lon: 16.00122222222222
-  altitude: 28.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 2.26
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 17:06:32.000000000+02:00
-- image_filename: 2022_07_02__12_16_P7022839.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.83020833333334
-  lon: 15.469694444444444
-  altitude: 51.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7316
-  height: 5757
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:16:54.000000000+02:00
-- image_filename: 2022_07_02__16_59_P7022993.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.99041666666667
-  lon: 15.983180555555556
-  altitude: 41.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.93
-  iso: 200
-  width: 8124
-  height: 6029
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 16:59:13.000000000+02:00
-- image_filename: 2022_07_02__12_46_P7022848.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.84238888888889
-  lon: 15.524625
-  altitude: 64.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 0.59
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:46:24.000000000+02:00
-- image_filename: 2022_07_02__12_00_P7022802.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.811097222222216
-  lon: 15.427291666666665
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 5.53
-  iso: 200
-  width: 4006
-  height: 3291
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:00:50.000000000+02:00
-- image_filename: 2022_07_02__16_58_P7022990.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.99041666666667
-  lon: 15.983194444444445
-  altitude: 41.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 23.6
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 16:58:49.000000000+02:00
-- image_filename: 2022_07_02__12_19_P7022841.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.83127777777778
-  lon: 15.468555555555556
-  altitude: 51.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 6933
-  height: 5658
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:19:16.000000000+02:00
-- image_filename: 2022_07_02__20_02_P7023031.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.98030555555556
-  lon: 16.002277777777778
-  altitude: 22.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 0.31
-  iso: 800
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 20:02:58.000000000+02:00
-- image_filename: 2022_07_02__12_36_P7022843.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.836597222222224
-  lon: 15.508097222222222
-  altitude: 65.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 3.92
-  iso: 200
-  width: 8069
-  height: 5957
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:36:37.000000000+02:00
-- image_filename: 2022_07_02__16_17_P7022974.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.944291666666665
-  lon: 15.900458333333333
-  altitude: 48.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 2.98
-  iso: 200
-  width: 7182
-  height: 5463
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 16:17:28.000000000+02:00
-- image_filename: 2022_07_02__13_57_P7022886.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.892041666666664
-  lon: 15.659
-  altitude: 70.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.16
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 13:57:50.000000000+02:00
-- image_filename: 2022_07_02__12_02_P7022829.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.811097222222216
-  lon: 15.427249999999999
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 1.04
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:02:48.000000000+02:00
-- image_filename: 2022_07_02__12_28_P7022842.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.83219444444445
-  lon: 15.491597222222222
-  altitude: 62.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 3.19
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:28:27.000000000+02:00
-- image_filename: 2022_07_02__15_38_P7022947.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.93222222222222
-  lon: 15.815291666666667
-  altitude: 42.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 0.72
-  iso: 250
-  width: 4638
-  height: 3151
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 15:38:02.000000000+02:00
-- image_filename: 2022_07_02__20_02_P7023015.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.98030555555556
-  lon: 16.002277777777778
-  altitude: 22.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 3.65
-  iso: 500
-  width: 5047
-  height: 3790
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 20:02:06.000000000+02:00
-- image_filename: 2022_07_02__13_07_P7022859.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.85398611111111
-  lon: 15.557833333333335
-  altitude: 62.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 4.57
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 13:07:20.000000000+02:00
-- image_filename: 2022_07_02__12_01_P7022812.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.81111111111111
-  lon: 15.427263888888888
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 3.16
-  iso: 200
-  width: 5125
-  height: 3756
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:01:31.000000000+02:00
-- image_filename: 2022_07_02__20_02_P7023018.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.98030555555556
-  lon: 16.002277777777778
-  altitude: 22.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 3.58
-  iso: 500
-  width: 5118
-  height: 3746
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 20:02:11.000000000+02:00
-- image_filename: 2022_07_02__20_01_P7023013.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.98030555555556
-  lon: 16.002277777777778
-  altitude: 22.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 3.77
-  iso: 500
-  width: 4788
-  height: 3527
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 20:01:59.000000000+02:00
-- image_filename: 2022_07_02__16_34_P7022978.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.976875
-  lon: 15.939027777777778
-  altitude: 17.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 55.53
-  iso: 200
-  width: 5125
-  height: 3797
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 16:34:48.000000000+02:00
-- image_filename: 2022_07_02__12_58_P7022851.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.85036111111111
-  lon: 15.549972222222221
-  altitude: 58.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 1.59
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:58:23.000000000+02:00
-- image_filename: 2022_07_02__12_01_P7022818.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.81111111111111
-  lon: 15.427277777777777
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 2.94
-  iso: 200
-  width: 3083
-  height: 4480
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:01:43.000000000+02:00
-- image_filename: 2022_07_02__16_08_P7022966.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.93765277777777
-  lon: 15.885083333333332
-  altitude: 41.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 16:08:01.000000000+02:00
-- image_filename: 2022_07_02__19_56_P7023004.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.98491666666667
-  lon: 15.993694444444444
-  altitude: 22.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 27.22
-  iso: 800
-  width: 5184
-  height: 3836
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 19:56:53.000000000+02:00
-- image_filename: 2022_07_02__16_06_P7022963.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.937555555555555
-  lon: 15.884083333333333
-  altitude: 41.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.7
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 16:06:00.000000000+02:00
-- image_filename: 2022_07_02__12_00_P7022800.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.811097222222216
-  lon: 15.427305555555556
-  altitude: 56.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 5.7
-  iso: 200
-  width: 5155
-  height: 3815
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:00:44.000000000+02:00
-- image_filename: 2022_07_02__15_46_P7022957.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.93445833333333
-  lon: 15.826777777777778
-  altitude: 53.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 19.0
-  iso: 200
-  width: 8037
-  height: 5965
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 15:46:07.000000000+02:00
-- image_filename: 2022_07_02__12_05_P7022835.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.81272222222222
-  lon: 15.434277777777778
-  altitude: 57.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 4.57
-  iso: 200
-  width: 8136
-  height: 6043
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:05:55.000000000+02:00
-- image_filename: 2022_07_02__15_43_P7022952.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.93438888888888
-  lon: 15.826833333333333
-  altitude: 52.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7352
-  height: 5506
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 15:43:31.000000000+02:00
-- image_filename: 2022_07_02__20_04_P7023042.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.98030555555556
-  lon: 16.00223611111111
-  altitude: 23.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 1.95
-  iso: 800
-  width: 3912
-  height: 5240
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 20:04:09.000000000+02:00
-- image_filename: 2022_07_02__12_59_P7022853.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.85041666666667
-  lon: 15.55001388888889
-  altitude: 58.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 2.49
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:59:08.000000000+02:00
-- image_filename: 2022_07_02__13_39_P7022881.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.88934722222222
-  lon: 15.59626388888889
-  altitude: 50.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 18.7
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 13:39:43.000000000+02:00
-- image_filename: 2022_07_02__12_02_P7022823.jpg
-  post_slug: 2022-07-02-pomorskimi-lasami
-  lat: 53.811097222222216
-  lon: 15.427249999999999
-  altitude: 56.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1.2
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-07-02 12:02:27.000000000+02:00
 - image_filename: 2022_07_02__16_50_P7022984.jpg
   post_slug: 2022-07-02-pomorskimi-lasami
   lat: 53.99019444444445
@@ -1189,3 +1025,165 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-07-02 16:50:55.000000000+02:00
+- image_filename: 2022_07_02__16_58_P7022990.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.99041666666667
+  lon: 15.983194444444445
+  altitude: 41.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 23.6
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 16:58:49.000000000+02:00
+- image_filename: 2022_07_02__16_59_P7022993.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.99041666666667
+  lon: 15.983180555555556
+  altitude: 41.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.93
+  iso: 200
+  width: 8124
+  height: 6029
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 16:59:13.000000000+02:00
+- image_filename: 2022_07_02__17_06_P7022996.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.98083333333334
+  lon: 16.00122222222222
+  altitude: 28.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.26
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 17:06:32.000000000+02:00
+- image_filename: 2022_07_02__19_56_P7023004.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.98491666666667
+  lon: 15.993694444444444
+  altitude: 22.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 27.22
+  iso: 800
+  width: 5184
+  height: 3836
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 19:56:53.000000000+02:00
+- image_filename: 2022_07_02__20_01_P7023013.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.98030555555556
+  lon: 16.002277777777778
+  altitude: 22.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 3.77
+  iso: 500
+  width: 4788
+  height: 3527
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 20:01:59.000000000+02:00
+- image_filename: 2022_07_02__20_02_P7023015.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.98030555555556
+  lon: 16.002277777777778
+  altitude: 22.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 3.65
+  iso: 500
+  width: 5047
+  height: 3790
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 20:02:06.000000000+02:00
+- image_filename: 2022_07_02__20_02_P7023018.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.98030555555556
+  lon: 16.002277777777778
+  altitude: 22.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 3.58
+  iso: 500
+  width: 5118
+  height: 3746
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 20:02:11.000000000+02:00
+- image_filename: 2022_07_02__20_02_P7023031.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.98030555555556
+  lon: 16.002277777777778
+  altitude: 22.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 0.31
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 20:02:58.000000000+02:00
+- image_filename: 2022_07_02__20_04_P7023042.jpg
+  post_slug: 2022-07-02-pomorskimi-lasami
+  lat: 53.98030555555556
+  lon: 16.00223611111111
+  altitude: 23.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.95
+  iso: 800
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-07-02 20:04:09.000000000+02:00

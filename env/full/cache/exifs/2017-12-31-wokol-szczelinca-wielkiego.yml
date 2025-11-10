@@ -1,18 +1,15 @@
 ---
-- image_filename: IMGP4184raw1.jpg
+- image_filename: IMGP4098raw1.jpg
   post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.483333333333334
-  lon: 16.352055555555555
-  altitude: 729.0
-  focal_length: 18.0
-  focal_length_35: 27.0
+  focal_length: 10.0
+  focal_length_35: 15.0
   crop: 1.5
-  aperture: 5.6
-  iso: 800
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-12-31 13:15:10+01:00
+  time: 2017-12-31 11:49:22.000000000+01:00
 - image_filename: IMGP4100raw1.jpg
   post_slug: 2017-12-31-wokol-szczelinca-wielkiego
   lat: 50.490972222222226
@@ -22,249 +19,11 @@
   focal_length_35: 30.0
   crop: 1.5
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-12-31 11:51:00+01:00
-- image_filename: IMGP4172raw2.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.47625
-  lon: 16.353083333333334
-  altitude: 736.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-12-31 13:01:25+01:00
-- image_filename: IMGP4188raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.484069444444444
-  lon: 16.351430555555556
-  altitude: 728.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2017-12-31 13:17:45+01:00
-- image_filename: IMGP4196raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.48601388888889
-  lon: 16.350194444444448
-  altitude: 725.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 1250
-  camera: PENTAX K-S2
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2017-12-31 13:21:28+01:00
-- image_filename: IMGP4233raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.49636111111111
-  lon: 16.327388888888887
-  altitude: 688.0
-  focal_length: 105.0
-  focal_length_35: 157.0
-  crop: 1.4952380952380953
-  aperture: 5.6
-  iso: 1250
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-01-01 14:56:37+01:00
-- image_filename: IMGP4207raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.48591666666667
-  lon: 16.33286111111111
-  altitude: 751.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 16.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2017-12-31 13:44:38+01:00
-- image_filename: IMGP4185raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.48375
-  lon: 16.351708333333335
-  altitude: 729.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-12-31 13:16:19+01:00
-- image_filename: IMGP4229raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.497569444444444
-  lon: 16.326916666666666
-  altitude: 673.0
-  focal_length: 45.0
-  focal_length_35: 67.0
-  crop: 1.488888888888889
-  aperture: 4.5
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-01-01 14:52:04+01:00
-- image_filename: IMGP4193raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.485527777777776
-  lon: 16.351125
-  altitude: 725.0
-  focal_length: 45.0
-  focal_length_35: 67.0
-  crop: 1.488888888888889
-  aperture: 5.6
-  iso: 1250
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2017-12-31 13:20:03+01:00
-- image_filename: IMGP4187raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.48394444444445
-  lon: 16.3515
-  altitude: 728.0
-  focal_length: 21.0
-  focal_length_35: 31.0
-  crop: 1.4761904761904763
-  aperture: 5.6
-  iso: 1000
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-12-31 13:17:30+01:00
-- image_filename: IMGP4237raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.49636111111111
-  lon: 16.327333333333332
-  altitude: 688.0
-  focal_length: 28.0
-  focal_length_35: 42.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-01-01 14:59:37+01:00
-- image_filename: IMGP4214raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.49801388888889
-  lon: 16.32386111111111
-  altitude: 654.0
-  focal_length: 39.0
-  focal_length_35: 58.0
-  crop: 1.4871794871794872
-  aperture: 4.5
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-01-01 14:44:10+01:00
-- image_filename: IMGP4247raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.49520833333334
-  lon: 16.327375
-  altitude: 681.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2018-01-01 15:08:38+01:00
-- image_filename: IMGP4226raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.49823611111111
-  lon: 16.325916666666668
-  altitude: 663.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 4.5
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-01-01 14:49:57+01:00
-- image_filename: IMGP4228raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.49801388888889
-  lon: 16.326486111111112
-  altitude: 667.0
-  focal_length: 45.0
-  focal_length_35: 67.0
-  crop: 1.488888888888889
-  aperture: 4.5
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-01-01 14:50:52+01:00
-- image_filename: IMGP4174raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.47640277777778
-  lon: 16.353986111111112
-  altitude: 732.0
-  focal_length: 45.0
-  focal_length_35: 67.0
-  crop: 1.488888888888889
-  aperture: 5.6
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-12-31 13:02:10+01:00
-- image_filename: IMGP4159raw2.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.476
-  lon: 16.35077777777778
-  altitude: 744.0
-  focal_length: 75.0
-  focal_length_35: 112.0
-  crop: 1.4933333333333334
-  aperture: 5.6
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-12-31 12:58:53+01:00
-- image_filename: IMGP4199raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.48719444444445
-  lon: 16.34808333333333
-  altitude: 729.0
-  focal_length: 33.0
-  focal_length_35: 49.0
-  crop: 1.4848484848484849
-  aperture: 5.6
-  iso: 1250
-  camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2017-12-31 13:23:46+01:00
+  time: 2017-12-31 11:51:00.000000000+01:00
 - image_filename: IMGP4105raw1.jpg
   post_slug: 2017-12-31-wokol-szczelinca-wielkiego
   lat: 50.488375
@@ -274,19 +33,260 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2017-12-31 11:56:50+01:00
-- image_filename: IMGP4098raw1.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-12-31 11:56:50.000000000+01:00
+- image_filename: IMGP4159raw2.jpg
   post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.476
+  lon: 16.35077777777778
+  altitude: 744.0
+  focal_length: 75.0
+  focal_length_35: 112.0
+  crop: 1.4933333333333334
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-12-31 12:58:53.000000000+01:00
+- image_filename: IMGP4172raw2.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.47625
+  lon: 16.353083333333334
+  altitude: 736.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:01:25.000000000+01:00
+- image_filename: IMGP4174raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.47640277777778
+  lon: 16.353986111111112
+  altitude: 732.0
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:02:10.000000000+01:00
+- image_filename: IMGP4184raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.483333333333334
+  lon: 16.352055555555555
+  altitude: 729.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:15:10.000000000+01:00
+- image_filename: IMGP4185raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48375
+  lon: 16.351708333333335
+  altitude: 729.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:16:19.000000000+01:00
+- image_filename: IMGP4187raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48394444444445
+  lon: 16.3515
+  altitude: 728.0
+  focal_length: 21.0
+  focal_length_35: 31.0
+  crop: 1.4761904761904763
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:17:30.000000000+01:00
+- image_filename: IMGP4188raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.484069444444444
+  lon: 16.351430555555556
+  altitude: 728.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:17:45.000000000+01:00
+- image_filename: IMGP4193raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.485527777777776
+  lon: 16.351125
+  altitude: 725.0
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1250
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:20:03.000000000+01:00
+- image_filename: IMGP4196raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48601388888889
+  lon: 16.350194444444448
+  altitude: 725.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 1250
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:21:28.000000000+01:00
+- image_filename: IMGP4199raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48719444444445
+  lon: 16.34808333333333
+  altitude: 729.0
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 5.6
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 1250
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:23:46.000000000+01:00
+- image_filename: IMGP4207raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48591666666667
+  lon: 16.33286111111111
+  altitude: 751.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 16.0
+  exposure: 3.0
+  exposure_string: 3 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-12-31 13:44:38.000000000+01:00
+- image_filename: IMGP4214raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49801388888889
+  lon: 16.32386111111111
+  altitude: 654.0
+  focal_length: 39.0
+  focal_length_35: 58.0
+  crop: 1.4871794871794872
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-01-01 14:44:10.000000000+01:00
+- image_filename: IMGP4226raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49823611111111
+  lon: 16.325916666666668
+  altitude: 663.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-01-01 14:49:57.000000000+01:00
+- image_filename: IMGP4228raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49801388888889
+  lon: 16.326486111111112
+  altitude: 667.0
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2018-01-01 14:50:52.000000000+01:00
+- image_filename: IMGP4229raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.497569444444444
+  lon: 16.326916666666666
+  altitude: 673.0
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-01-01 14:52:04.000000000+01:00
+- image_filename: IMGP4233raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49636111111111
+  lon: 16.327388888888887
+  altitude: 688.0
+  focal_length: 105.0
+  focal_length_35: 157.0
+  crop: 1.4952380952380953
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 1250
+  camera: PENTAX K-S2
+  time: 2018-01-01 14:56:37.000000000+01:00
+- image_filename: IMGP4237raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49636111111111
+  lon: 16.327333333333332
+  altitude: 688.0
+  focal_length: 28.0
+  focal_length_35: 42.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-01 14:59:37.000000000+01:00
+- image_filename: IMGP4247raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49520833333334
+  lon: 16.327375
+  altitude: 681.0
   focal_length: 10.0
   focal_length_35: 15.0
   crop: 1.5
-  aperture: 6.3
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-12-31 11:49:22+01:00
+  time: 2018-01-01 15:08:38.000000000+01:00

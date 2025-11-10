@@ -1,250 +1,10 @@
 ---
-- image_filename: 2024_04_07__11_33_DJI_0098.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.766666666666666
-  lon: 17.116666666666667
-  altitude: 134.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 160
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 11:33:40.000000000+02:00
 - image_filename: 2022_07_31__18_45_P7310479.jpg
   post_slug: 2024-04-07-dron-pod-wagrowcem
-- image_filename: 2024_04_07__12_08_DJI_0162.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 187.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 12:08:32.000000000+02:00
-- image_filename: 2024_04_07__11_50_DJI_0118.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 128.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 140
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 11:50:57.000000000+02:00
-- image_filename: 2024_04_07__12_06_DJI_0155.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 188.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001379310344827586
-  exposure_string: 1/725 s
-  iso: 100
-  width: 7973
-  height: 5933
-  camera: FC3582
-  time: 2024-04-07 12:06:55.000000000+02:00
-- image_filename: 2024_04_07__12_07_DJI_0158.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 188.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 12:07:34.000000000+02:00
-- image_filename: 2024_04_07__11_49_DJI_0113.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 129.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 120
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 11:49:39.000000000+02:00
-- image_filename: 2024_04_07__11_49_DJI_0111.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 129.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 200
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 11:49:16.000000000+02:00
-- image_filename: 2024_04_07__12_10_DJI_0167.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.15
-  altitude: 180.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 200
-  width: 7718
-  height: 5626
-  camera: FC3582
-  time: 2024-04-07 12:10:24.000000000+02:00
-- image_filename: 2024_04_07__11_53_DJI_0127.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 177.4
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 120
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 11:53:01.000000000+02:00
-- image_filename: 2024_04_07__12_03_DJI_0147.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 97.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 100
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 12:03:53.000000000+02:00
-- image_filename: 2024_04_07__12_06_DJI_0154.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 188.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0003333333333333333
-  exposure_string: 1/3000 s
-  iso: 110
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 12:06:41.000000000+02:00
-- image_filename: 2024_04_07__12_04_DJI_0149.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 97.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 120
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 12:04:40.000000000+02:00
-- image_filename: 2024_04_07__11_54_DJI_0132.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 175.8
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 100
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 11:54:03.000000000+02:00
-- image_filename: 2024_04_07__11_47_DJI_0108.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.15
-  altitude: 129.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  iso: 140
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 11:47:54.000000000+02:00
-- image_filename: 2024_04_07__11_49_DJI_0112.jpg
-  post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.133333333333333
-  altitude: 129.5
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8018
-  height: 5991
-  camera: FC3582
-  time: 2024-04-07 11:49:28.000000000+02:00
 - image_filename: 2024_04_07__11_31_DJI_0091.jpg
   post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.766666666666666
-  lon: 17.133333333333333
+  lat: 52.771988888888885
+  lon: 17.125175
   altitude: 132.7
   focal_length: 6.7
   focal_length_35: 24.0
@@ -259,8 +19,8 @@
   time: 2024-04-07 11:31:57.000000000+02:00
 - image_filename: 2024_04_07__11_32_DJI_0092.jpg
   post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.766666666666666
-  lon: 17.133333333333333
+  lat: 52.771988888888885
+  lon: 17.125172222222222
   altitude: 132.7
   focal_length: 6.7
   focal_length_35: 24.0
@@ -273,10 +33,26 @@
   height: 5991
   camera: FC3582
   time: 2024-04-07 11:32:07.000000000+02:00
+- image_filename: 2024_04_07__11_33_DJI_0098.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.77274444444444
+  lon: 17.122375
+  altitude: 134.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 160
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 11:33:40.000000000+02:00
 - image_filename: 2024_04_07__11_47_DJI_0107.jpg
   post_slug: 2024-04-07-dron-pod-wagrowcem
-  lat: 52.733333333333334
-  lon: 17.15
+  lat: 52.738730555555556
+  lon: 17.14416111111111
   altitude: 130.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -289,3 +65,227 @@
   height: 5991
   camera: FC3582
   time: 2024-04-07 11:47:44.000000000+02:00
+- image_filename: 2024_04_07__11_47_DJI_0108.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.738733333333336
+  lon: 17.144166666666667
+  altitude: 129.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 140
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 11:47:54.000000000+02:00
+- image_filename: 2024_04_07__11_49_DJI_0111.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.737383333333334
+  lon: 17.138955555555555
+  altitude: 129.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 11:49:16.000000000+02:00
+- image_filename: 2024_04_07__11_49_DJI_0112.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.737386111111114
+  lon: 17.138955555555555
+  altitude: 129.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 11:49:28.000000000+02:00
+- image_filename: 2024_04_07__11_49_DJI_0113.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.737386111111114
+  lon: 17.138952777777778
+  altitude: 129.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 120
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 11:49:39.000000000+02:00
+- image_filename: 2024_04_07__11_50_DJI_0118.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.73648333333333
+  lon: 17.137827777777776
+  altitude: 128.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 140
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 11:50:57.000000000+02:00
+- image_filename: 2024_04_07__11_53_DJI_0127.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.73641388888889
+  lon: 17.134808333333332
+  altitude: 177.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 120
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 11:53:01.000000000+02:00
+- image_filename: 2024_04_07__11_54_DJI_0132.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.73855555555556
+  lon: 17.135213888888888
+  altitude: 175.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 11:54:03.000000000+02:00
+- image_filename: 2024_04_07__12_03_DJI_0147.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.73704444444444
+  lon: 17.139041666666667
+  altitude: 97.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 12:03:53.000000000+02:00
+- image_filename: 2024_04_07__12_04_DJI_0149.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.735794444444444
+  lon: 17.13812777777778
+  altitude: 97.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 120
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 12:04:40.000000000+02:00
+- image_filename: 2024_04_07__12_06_DJI_0154.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.73728611111111
+  lon: 17.135516666666668
+  altitude: 188.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 12:06:41.000000000+02:00
+- image_filename: 2024_04_07__12_06_DJI_0155.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.73728888888889
+  lon: 17.135513888888887
+  altitude: 188.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 7973
+  height: 5933
+  camera: FC3582
+  time: 2024-04-07 12:06:55.000000000+02:00
+- image_filename: 2024_04_07__12_07_DJI_0158.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.736875
+  lon: 17.133619444444445
+  altitude: 188.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 12:07:34.000000000+02:00
+- image_filename: 2024_04_07__12_08_DJI_0162.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.739266666666666
+  lon: 17.134008333333334
+  altitude: 187.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2024-04-07 12:08:32.000000000+02:00
+- image_filename: 2024_04_07__12_10_DJI_0167.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  lat: 52.74016388888889
+  lon: 17.142033333333334
+  altitude: 180.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 200
+  width: 7718
+  height: 5626
+  camera: FC3582
+  time: 2024-04-07 12:10:24.000000000+02:00

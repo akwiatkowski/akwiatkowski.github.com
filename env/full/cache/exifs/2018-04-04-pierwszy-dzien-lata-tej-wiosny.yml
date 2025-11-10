@@ -1,18 +1,4 @@
 ---
-- image_filename: IMGP6283raw1crop.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.298180555555554
-  lon: 15.786458333333334
-  altitude: 79.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-04 09:14:47+02:00
 - image_filename: IMGP6281raw1.jpg
   post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
   lat: 52.272527777777775
@@ -22,176 +8,25 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-04-04 09:04:05+02:00
-- image_filename: IMGP6298raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-04-04 09:46:20+02:00
-- image_filename: IMGP6293raw1.jpg
+  time: 2018-04-04 09:04:05.000000000+02:00
+- image_filename: IMGP6283raw1crop.jpg
   post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.33302777777778
-  lon: 15.722291666666667
-  altitude: 93.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-04-04 09:37:10+02:00
-- image_filename: IMGP6305raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.357055555555554
-  lon: 15.705819444444444
-  altitude: 112.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-04-04 09:51:50+02:00
-- image_filename: IMGP6309raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.37602777777778
-  lon: 15.681430555555554
-  altitude: 109.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-04-04 10:05:45+02:00
-- image_filename: IMGP6314raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.43156944444444
-  lon: 15.591222222222223
-  altitude: 46.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-04 10:32:25+02:00
-- image_filename: IMGP6318raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.38506944444445
-  lon: 15.64625
-  altitude: 92.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-04 11:14:08+02:00
-- image_filename: IMGP6320raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.48136111111111
-  lon: 15.448666666666666
-  altitude: 46.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-04 11:59:09+02:00
-- image_filename: IMGP6325raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.48195833333334
-  lon: 15.430638888888888
-  altitude: 49.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-04-04 12:08:05+02:00
-- image_filename: IMGP6328raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.48195833333334
-  lon: 15.430625
-  altitude: 49.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-04-04 12:08:24+02:00
-- image_filename: IMGP6310raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.41016666666667
-  lon: 15.634194444444445
-  altitude: 56.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-04 10:20:07+02:00
-- image_filename: IMGP6330raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.48195833333334
-  lon: 15.430625
-  altitude: 49.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-04-04 12:09:09+02:00
-- image_filename: IMGP6288raw1.jpg
-  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
-  lat: 52.31573611111111
-  lon: 15.751458333333334
+  lat: 52.298180555555554
+  lon: 15.786458333333334
   altitude: 79.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2018-04-04 09:27:13+02:00
+  time: 2018-04-04 09:14:47.000000000+02:00
 - image_filename: IMGP6286raw1.jpg
   post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
   lat: 52.299416666666666
@@ -201,11 +36,176 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2018-04-04 09:15:14+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 09:15:14.000000000+02:00
+- image_filename: IMGP6288raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.31573611111111
+  lon: 15.751458333333334
+  altitude: 79.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-04 09:27:13.000000000+02:00
+- image_filename: IMGP6293raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.33302777777778
+  lon: 15.722291666666667
+  altitude: 93.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 09:37:10.000000000+02:00
+- image_filename: IMGP6298raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 09:46:20.000000000+02:00
+- image_filename: IMGP6305raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.357055555555554
+  lon: 15.705819444444444
+  altitude: 112.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 09:51:50.000000000+02:00
+- image_filename: IMGP6309raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.37602777777778
+  lon: 15.681430555555554
+  altitude: 109.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 10:05:45.000000000+02:00
+- image_filename: IMGP6310raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.41016666666667
+  lon: 15.634194444444445
+  altitude: 56.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 10:20:07.000000000+02:00
+- image_filename: IMGP6314raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.43156944444444
+  lon: 15.591222222222223
+  altitude: 46.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 10:32:25.000000000+02:00
+- image_filename: IMGP6318raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.38506944444445
+  lon: 15.64625
+  altitude: 92.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 11:14:08.000000000+02:00
+- image_filename: IMGP6320raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.48136111111111
+  lon: 15.448666666666666
+  altitude: 46.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 11:59:09.000000000+02:00
+- image_filename: IMGP6325raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.48195833333334
+  lon: 15.430638888888888
+  altitude: 49.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-04 12:08:05.000000000+02:00
+- image_filename: IMGP6328raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.48195833333334
+  lon: 15.430625
+  altitude: 49.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 12:08:24.000000000+02:00
+- image_filename: IMGP6330raw1.jpg
+  post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
+  lat: 52.48195833333334
+  lon: 15.430625
+  altitude: 49.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 12:09:09.000000000+02:00
 - image_filename: IMGP6334raw1.jpg
   post_slug: 2018-04-04-pierwszy-dzien-lata-tej-wiosny
   lat: 52.53479166666666
@@ -215,8 +215,8 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2018-04-04 12:41:38+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-04 12:41:38.000000000+02:00

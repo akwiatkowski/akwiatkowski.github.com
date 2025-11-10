@@ -1,25 +1,8 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
-  lat: 50.249722222222225
-  lon: 16.804722222222225
-  altitude: 1158.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 200
-  width: 2048
-  height: 1356
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  time: 2013-07-24 11:20:43.000000000+02:00
 - image_filename: IMGP7194b.jpg
   post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
-  lat: 50.22555555555556
-  lon: 16.833055555555557
+  lat: 50.22541666666667
+  lon: 16.832941666666667
   altitude: 1140.3
   focal_length: 15.0
   focal_length_35: 22.0
@@ -31,6 +14,21 @@
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   time: 2013-07-24 09:41:47.000000000+02:00
+- image_filename: IMGP7203b.jpg
+  post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
+  lat: 50.24013611111111
+  lon: 16.82515
+  altitude: 1100.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-24 10:14:49.000000000+02:00
 - image_filename: IMGP7203raw_b.jpg
   post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
   focal_length: 15.0
@@ -43,40 +41,25 @@
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   time: 2013-07-24 10:14:49.000000000+02:00
-- image_filename: IMGP7229b.jpg
+- image_filename: IMGP7208b.jpg
   post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
-  lat: 50.24
-  lon: 16.778333333333332
-  altitude: 855.2
+  lat: 50.24979722222222
+  lon: 16.804683333333333
+  altitude: 1158.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  time: 2013-07-24 12:28:37.000000000+02:00
-- image_filename: IMGP7246b.jpg
-  post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
-  lat: 50.23111111111111
-  lon: 16.766666666666666
-  altitude: 637.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  time: 2013-07-24 13:09:16.000000000+02:00
+  time: 2013-07-24 11:20:43.000000000+02:00
 - image_filename: IMGP7212b.jpg
   post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
-  lat: 50.25111111111111
-  lon: 16.804722222222225
+  lat: 50.25111666666667
+  lon: 16.804858333333335
   altitude: 1186.4
   focal_length: 15.0
   focal_length_35: 22.0
@@ -90,8 +73,8 @@
   time: 2013-07-24 11:24:55.000000000+02:00
 - image_filename: IMGP7221b.jpg
   post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
-  lat: 50.24611111111111
-  lon: 16.794722222222223
+  lat: 50.24616944444445
+  lon: 16.794811111111112
   altitude: 998.0
   focal_length: 15.0
   focal_length_35: 22.0
@@ -115,21 +98,6 @@
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   time: 2013-07-24 12:00:26.000000000+02:00
-- image_filename: IMGP7208b.jpg
-  post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
-  lat: 50.249722222222225
-  lon: 16.804722222222225
-  altitude: 1158.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  time: 2013-07-24 11:20:43.000000000+02:00
 - image_filename: IMGP7223raw_b.jpg
   post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
   focal_length: 15.0
@@ -142,18 +110,50 @@
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   time: 2013-07-24 12:26:10.000000000+02:00
-- image_filename: IMGP7203b.jpg
+- image_filename: IMGP7229b.jpg
   post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
-  lat: 50.24
-  lon: 16.825277777777778
-  altitude: 1100.8
+  lat: 50.239961111111114
+  lon: 16.778319444444442
+  altitude: 855.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  time: 2013-07-24 10:14:49.000000000+02:00
+  time: 2013-07-24 12:28:37.000000000+02:00
+- image_filename: IMGP7246b.jpg
+  post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
+  lat: 50.23109166666667
+  lon: 16.766708333333334
+  altitude: 637.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-24 13:09:16.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore
+  lat: 50.24979722222222
+  lon: 16.804683333333333
+  altitude: 1158.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 2048
+  height: 1356
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-07-24 11:20:43.000000000+02:00

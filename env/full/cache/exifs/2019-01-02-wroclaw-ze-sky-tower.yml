@@ -1,256 +1,4 @@
 ---
-- image_filename: 2019_01_02__14_40__1020131.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5108
-  height: 3813
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:40:32+01:00
-  focus_distance: 8.95
-- image_filename: 2019_01_02__10_45__1029578.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.284527777777775
-  lon: 16.648722222222222
-  altitude: 354.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4909
-  height: 3598
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-01-02 10:45:01+01:00
-  focus_distance: 10.97
-- image_filename: 2019_01_02__10_57__1029600.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.34201388888889
-  lon: 16.662319444444442
-  altitude: 355.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-01-02 10:57:39+01:00
-  focus_distance: 76.21
-- image_filename: 2019_01_02__11_40__1029774.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.55058333333333
-  lon: 16.79866666666667
-  altitude: 288.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-01-02 11:40:09+01:00
-  focus_distance: 76.92
-- image_filename: 2019_01_02__12_07__1029807.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.589847222222225
-  lon: 16.807000000000002
-  altitude: 262.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-01-02 12:07:50+01:00
-  focus_distance: 46.94
-- image_filename: 2019_01_02__12_14__1029829.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.618027777777776
-  lon: 16.828180555555555
-  altitude: 302.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-01-02 12:14:00+01:00
-  focus_distance: 121.36
-- image_filename: 2019_01_02__12_17__1029854.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.65648611111111
-  lon: 16.82859722222222
-  altitude: 302.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-01-02 12:17:41+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__12_22__1029891.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.692027777777774
-  lon: 16.821930555555554
-  altitude: 250.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-01-02 12:22:40+01:00
-  focus_distance: 248.24
-- image_filename: 2019_01_02__12_44__1029982.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.77976388888889
-  lon: 16.842041666666667
-  altitude: 184.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-01-02 12:44:57+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_31__1020085.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5200
-  height: 3908
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-01-02 14:31:17+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_32__1020092.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5142
-  height: 3780
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:32:12+01:00
-  focus_distance: 65.62
-- image_filename: 2019_01_02__14_34__1020103.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5144
-  height: 3794
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:34:11+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_41__1020136.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5198
-  height: 3881
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:41:17+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_42__1020144.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5043
-  height: 3675
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-01-02 14:42:47+01:00
-  focus_distance: 10.17
-- image_filename: 2019_01_02__11_00__1029621.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.37141666666667
-  lon: 16.674444444444447
-  altitude: 320.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-01-02 11:00:56+01:00
-  focus_distance: 83.17
 - image_filename: 2019_01_02__10_34__1029555.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
   lat: 50.284666666666666
@@ -260,234 +8,15 @@
   focal_length_35: 62.0
   crop: 2.0
   aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4967
-  height: 3708
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-01-02 10:34:23+01:00
   focus_distance: 11.6
-- image_filename: 2019_01_02__12_06__1029796.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.58765277777778
-  lon: 16.806055555555556
-  altitude: 260.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-01-02 12:06:24+01:00
-  focus_distance: 16.19
-- image_filename: 2019_01_02__14_35__1020107.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 94.0
-  focal_length_35: 188.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5195
-  height: 3853
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:35:01+01:00
-  focus_distance: 71.6
-- image_filename: 2019_01_02__11_06__1029640.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.42344444444444
-  lon: 16.627055555555557
-  altitude: 320.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-01-02 11:06:50+01:00
-  focus_distance: 163.84
-- image_filename: 2019_01_02__11_40__1029782.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.55119444444444
-  lon: 16.798555555555556
-  altitude: 286.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-01-02 11:40:39+01:00
-  focus_distance: 105.7
-- image_filename: 2019_01_02__10_58__1029607.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.34706944444444
-  lon: 16.663555555555554
-  altitude: 364.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-01-02 10:58:19+01:00
-  focus_distance: 37.06
-- image_filename: 2019_01_02__14_40__1020132.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5099
-  height: 3806
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:40:54+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__12_25__1029922.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.71965277777778
-  lon: 16.824875
-  altitude: 219.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
   iso: 400
+  width: 4967
+  height: 3708
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4726
-  height: 3451
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-01-02 12:25:49+01:00
-  focus_distance: 138.85
-- image_filename: 2019_01_02__14_31__1020088.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:31:36+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__12_22__1029888.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.69108333333333
-  lon: 16.821305555555554
-  altitude: 251.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-01-02 12:22:32+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__12_25__1029912_01.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.71783333333334
-  lon: 16.825291666666665
-  altitude: 220.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5163
-  height: 3806
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-01-02 12:25:35+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_38__1020120.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5012
-  height: 3891
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:38:04+01:00
-  focus_distance: 292.57
-- image_filename: 2019_01_02__14_36__1020115.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5203
-  height: 3867
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:36:18+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__12_45__1029984.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.779944444444446
-  lon: 16.842152777777777
-  altitude: 184.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-01-02 12:45:05+01:00
-  focus_distance: 1000.0
+  time: 2019-01-02 10:34:23.000000000+01:00
 - image_filename: 2019_01_02__10_44__1029572.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
   lat: 50.28454166666666
@@ -497,348 +26,105 @@
   focal_length_35: 132.0
   crop: 2.0
   aperture: 4.5
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4735
-  height: 3618
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-01-02 10:44:27+01:00
   focus_distance: 12.52
-- image_filename: 2019_01_02__12_36__1029973.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.77170833333333
-  lon: 16.838472222222222
-  altitude: 184.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-01-02 12:36:36+01:00
-  focus_distance: 79.92
-- image_filename: 2019_01_02__12_13__1029821.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.61029166666667
-  lon: 16.826027777777778
-  altitude: 297.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
   iso: 400
+  width: 4735
+  height: 3618
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-01-02 12:13:20+01:00
-  focus_distance: 268.59
-- image_filename: 2019_01_02__12_14__1029837.jpg
+  time: 2019-01-02 10:44:27.000000000+01:00
+- image_filename: 2019_01_02__10_45__1029578.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.62422222222222
-  lon: 16.828263888888888
-  altitude: 322.0
+  lat: 50.284527777777775
+  lon: 16.648722222222222
+  altitude: 354.0
   focal_length: 47.0
   focal_length_35: 94.0
   crop: 2.0
   aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 10.97
   iso: 400
+  width: 4909
+  height: 3598
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4811
-  height: 3592
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-01-02 12:14:29+01:00
-  focus_distance: 24.38
-- image_filename: 2019_01_02__12_31__1029949.jpg
+  time: 2019-01-02 10:45:01.000000000+01:00
+- image_filename: 2019_01_02__10_57__1029600.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.760305555555554
-  lon: 16.840652777777777
-  altitude: 185.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5136
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-01-02 12:31:03+01:00
-  focus_distance: 78.39
-- image_filename: 2019_01_02__12_25__1029912.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.71783333333334
-  lon: 16.825291666666665
-  altitude: 220.0
+  lat: 50.34201388888889
+  lon: 16.662319444444442
+  altitude: 355.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5163
-  height: 3806
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-01-02 12:25:35+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__12_14__1029836.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.623152777777776
-  lon: 16.828222222222223
-  altitude: 317.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5010
-  height: 3574
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-01-02 12:14:24+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__11_40__1029778.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.550888888888885
-  lon: 16.798611111111114
-  altitude: 287.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5165
-  height: 3856
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-01-02 11:40:17+01:00
-  focus_distance: 68.26
-- image_filename: 2019_01_02__13_15__1020075.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.97841666666667
-  lon: 16.946666666666665
-  altitude: 125.0
-  focal_length: 124.0
-  focal_length_35: 248.0
-  crop: 2.0
-  aperture: 5.4
-  iso: 800
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 76.21
+  iso: 500
   width: 5240
   height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-01-02 13:15:30+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__11_31__1029741.jpg
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 10:57:39.000000000+01:00
+- image_filename: 2019_01_02__10_58__1029607.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.50431944444444
-  lon: 16.72970833333333
-  altitude: 288.0
+  lat: 50.34706944444444
+  lon: 16.663555555555554
+  altitude: 364.0
   focal_length: 44.0
   focal_length_35: 88.0
   crop: 2.0
   aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 37.06
   iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-01-02 11:31:44+01:00
-  focus_distance: 14.1
-- image_filename: 2019_01_02__14_31__1020087.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5076
-  height: 3756
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:31:22+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_31__1020083.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5130
-  height: 3761
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-01-02 14:31:00+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_35__1020110.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5179
-  height: 3833
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-01-02 14:35:20+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_33__1020097.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5164
-  height: 3809
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:33:18+01:00
-  focus_distance: 60.94
-- image_filename: 2019_01_02__14_33__1020100.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5111
-  height: 3740
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:33:35+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__12_21__1029873.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.68138888888889
-  lon: 16.82148611111111
-  altitude: 251.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4646
-  height: 3707
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-01-02 12:21:13+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_33__1020101.jpg
+  time: 2019-01-02 10:58:19.000000000+01:00
+- image_filename: 2019_01_02__11_00__1029621.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5143
-  height: 3781
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-01-02 14:33:54+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__12_18__1029859.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.661027777777775
-  lon: 16.827833333333334
-  altitude: 303.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 50.37141666666667
+  lon: 16.674444444444447
+  altitude: 320.0
+  focal_length: 86.0
+  focal_length_35: 172.0
   crop: 2.0
   aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 83.17
+  iso: 500
   width: 5240
   height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-01-02 12:18:04+01:00
-  focus_distance: 128.0
-- image_filename: 2019_01_02__14_43__1020150.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5201
-  height: 3883
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-01-02 14:43:48+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_01_02__14_39__1020127.jpg
+  time: 2019-01-02 11:00:56.000000000+01:00
+- image_filename: 2019_01_02__11_06__1029640.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 47.0
-  focal_length_35: 94.0
+  lat: 50.42344444444444
+  lon: 16.627055555555557
+  altitude: 320.0
+  focal_length: 92.0
+  focal_length_35: 184.0
   crop: 2.0
-  aperture: 5.6
-  iso: 200
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 163.84
+  iso: 500
+  width: 5240
+  height: 3912
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5190
-  height: 3735
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-01-02 14:39:47+01:00
-  focus_distance: 30.45
-- image_filename: 2019_01_02__14_34__1020106.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 3885
-  height: 5236
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-01-02 14:34:49+01:00
-  focus_distance: 1000.0
+  time: 2019-01-02 11:06:50.000000000+01:00
 - image_filename: 2019_01_02__11_21__1029693.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
   lat: 50.45840277777778
@@ -848,48 +134,231 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 5.6
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5039
-  height: 3627
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2019-01-02 11:21:00+01:00
   focus_distance: 18.83
-- image_filename: 2019_01_02__14_35__1020113.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 109.0
-  focal_length_35: 218.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  iso: 500
+  width: 5039
+  height: 3627
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5203
-  height: 3866
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:35:41+01:00
-  focus_distance: 60.03
-- image_filename: 2019_01_02__12_22__1029882.jpg
+  time: 2019-01-02 11:21:00.000000000+01:00
+- image_filename: 2019_01_02__11_31__1029741.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  lat: 50.689375
-  lon: 16.820486111111112
-  altitude: 250.0
+  lat: 50.50431944444444
+  lon: 16.72970833333333
+  altitude: 288.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 14.1
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 11:31:44.000000000+01:00
+- image_filename: 2019_01_02__11_40__1029774.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.55058333333333
+  lon: 16.79866666666667
+  altitude: 288.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 76.92
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 11:40:09.000000000+01:00
+- image_filename: 2019_01_02__11_40__1029778.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.550888888888885
+  lon: 16.798611111111114
+  altitude: 287.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 68.26
+  iso: 400
+  width: 5165
+  height: 3856
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 11:40:17.000000000+01:00
+- image_filename: 2019_01_02__11_40__1029782.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.55119444444444
+  lon: 16.798555555555556
+  altitude: 286.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 105.7
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 11:40:39.000000000+01:00
+- image_filename: 2019_01_02__12_06__1029796.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.58765277777778
+  lon: 16.806055555555556
+  altitude: 260.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 16.19
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:06:24.000000000+01:00
+- image_filename: 2019_01_02__12_07__1029807.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.589847222222225
+  lon: 16.807000000000002
+  altitude: 262.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 46.94
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:07:50.000000000+01:00
+- image_filename: 2019_01_02__12_13__1029821.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.61029166666667
+  lon: 16.826027777777778
+  altitude: 297.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 268.59
   iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-01-02 12:22:19+01:00
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:13:20.000000000+01:00
+- image_filename: 2019_01_02__12_14__1029829.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.618027777777776
+  lon: 16.828180555555555
+  altitude: 302.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 121.36
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:14:00.000000000+01:00
+- image_filename: 2019_01_02__12_14__1029836.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.623152777777776
+  lon: 16.828222222222223
+  altitude: 317.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   focus_distance: 1000.0
+  iso: 400
+  width: 5010
+  height: 3574
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:14:24.000000000+01:00
+- image_filename: 2019_01_02__12_14__1029837.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.62422222222222
+  lon: 16.828263888888888
+  altitude: 322.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 24.38
+  iso: 400
+  width: 4811
+  height: 3592
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:14:29.000000000+01:00
+- image_filename: 2019_01_02__12_17__1029854.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.65648611111111
+  lon: 16.82859722222222
+  altitude: 302.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:17:41.000000000+01:00
+- image_filename: 2019_01_02__12_18__1029859.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.661027777777775
+  lon: 16.827833333333334
+  altitude: 303.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 128.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:18:04.000000000+01:00
 - image_filename: 2019_01_02__12_18__1029865.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
   lat: 50.66851388888889
@@ -899,60 +368,87 @@
   focal_length_35: 108.0
   crop: 2.0
   aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2019-01-02 12:18:54+01:00
   focus_distance: 43.46
-- image_filename: 2019_01_02__14_40__1020130.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
+  iso: 400
+  width: 5240
+  height: 3912
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5110
-  height: 3815
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-01-02 14:40:25+01:00
-  focus_distance: 9.81
-- image_filename: 2019_01_02__14_33__1020096.jpg
+  time: 2019-01-02 12:18:54.000000000+01:00
+- image_filename: 2019_01_02__12_21__1029873.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 75.0
-  focal_length_35: 150.0
+  lat: 50.68138888888889
+  lon: 16.82148611111111
+  altitude: 251.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5184
-  height: 3840
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-01-02 14:33:14+01:00
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
   focus_distance: 1000.0
-- image_filename: 2019_01_02__14_45__1020157.jpg
-  post_slug: 2019-01-02-wroclaw-ze-sky-tower
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
+  iso: 400
+  width: 4646
+  height: 3707
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3852
-  height: 5160
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-01-02 14:45:27+01:00
-  focus_distance: 8.07
+  time: 2019-01-02 12:21:13.000000000+01:00
+- image_filename: 2019_01_02__12_22__1029882.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.689375
+  lon: 16.820486111111112
+  altitude: 250.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:22:19.000000000+01:00
+- image_filename: 2019_01_02__12_22__1029888.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.69108333333333
+  lon: 16.821305555555554
+  altitude: 251.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:22:32.000000000+01:00
+- image_filename: 2019_01_02__12_22__1029891.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.692027777777774
+  lon: 16.821930555555554
+  altitude: 250.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 248.24
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:22:40.000000000+01:00
 - image_filename: 2019_01_02__12_25__1029908.jpg
   post_slug: 2019-01-02-wroclaw-ze-sky-tower
   lat: 50.713680555555555
@@ -962,12 +458,516 @@
   focal_length_35: 76.0
   crop: 2.0
   aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-01-02 12:25:12+01:00
   focus_distance: 167.18
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:25:12.000000000+01:00
+- image_filename: 2019_01_02__12_25__1029912.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.71783333333334
+  lon: 16.825291666666665
+  altitude: 220.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5163
+  height: 3806
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:25:35.000000000+01:00
+- image_filename: 2019_01_02__12_25__1029912_01.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.71783333333334
+  lon: 16.825291666666665
+  altitude: 220.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5163
+  height: 3806
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:25:35.000000000+01:00
+- image_filename: 2019_01_02__12_25__1029922.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.71965277777778
+  lon: 16.824875
+  altitude: 219.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 138.85
+  iso: 400
+  width: 4726
+  height: 3451
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:25:49.000000000+01:00
+- image_filename: 2019_01_02__12_31__1029949.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.760305555555554
+  lon: 16.840652777777777
+  altitude: 185.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 78.39
+  iso: 400
+  width: 5136
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:31:03.000000000+01:00
+- image_filename: 2019_01_02__12_36__1029973.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.77170833333333
+  lon: 16.838472222222222
+  altitude: 184.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 79.92
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:36:36.000000000+01:00
+- image_filename: 2019_01_02__12_44__1029982.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.77976388888889
+  lon: 16.842041666666667
+  altitude: 184.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:44:57.000000000+01:00
+- image_filename: 2019_01_02__12_45__1029984.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.779944444444446
+  lon: 16.842152777777777
+  altitude: 184.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 12:45:05.000000000+01:00
+- image_filename: 2019_01_02__13_15__1020075.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  lat: 50.97841666666667
+  lon: 16.946666666666665
+  altitude: 125.0
+  focal_length: 124.0
+  focal_length_35: 248.0
+  crop: 2.0
+  aperture: 5.4
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 13:15:30.000000000+01:00
+- image_filename: 2019_01_02__14_31__1020083.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5130
+  height: 3761
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:31:00.000000000+01:00
+- image_filename: 2019_01_02__14_31__1020085.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5200
+  height: 3908
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:31:17.000000000+01:00
+- image_filename: 2019_01_02__14_31__1020087.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5076
+  height: 3756
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:31:22.000000000+01:00
+- image_filename: 2019_01_02__14_31__1020088.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:31:36.000000000+01:00
+- image_filename: 2019_01_02__14_32__1020092.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 65.62
+  iso: 200
+  width: 5142
+  height: 3780
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:32:12.000000000+01:00
+- image_filename: 2019_01_02__14_33__1020096.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5184
+  height: 3840
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:33:14.000000000+01:00
+- image_filename: 2019_01_02__14_33__1020097.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 60.94
+  iso: 200
+  width: 5164
+  height: 3809
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:33:18.000000000+01:00
+- image_filename: 2019_01_02__14_33__1020100.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5111
+  height: 3740
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:33:35.000000000+01:00
+- image_filename: 2019_01_02__14_33__1020101.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5143
+  height: 3781
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:33:54.000000000+01:00
+- image_filename: 2019_01_02__14_34__1020103.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5144
+  height: 3794
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:34:11.000000000+01:00
+- image_filename: 2019_01_02__14_34__1020106.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3885
+  height: 5236
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:34:49.000000000+01:00
+- image_filename: 2019_01_02__14_35__1020107.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 94.0
+  focal_length_35: 188.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 71.6
+  iso: 200
+  width: 5195
+  height: 3853
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:35:01.000000000+01:00
+- image_filename: 2019_01_02__14_35__1020110.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5179
+  height: 3833
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:35:20.000000000+01:00
+- image_filename: 2019_01_02__14_35__1020113.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 109.0
+  focal_length_35: 218.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 60.03
+  iso: 200
+  width: 5203
+  height: 3866
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:35:41.000000000+01:00
+- image_filename: 2019_01_02__14_36__1020115.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5203
+  height: 3867
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-01-02 14:36:18.000000000+01:00
+- image_filename: 2019_01_02__14_38__1020120.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 292.57
+  iso: 200
+  width: 5012
+  height: 3891
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 14:38:04.000000000+01:00
+- image_filename: 2019_01_02__14_39__1020127.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 30.45
+  iso: 200
+  width: 5190
+  height: 3735
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 14:39:47.000000000+01:00
+- image_filename: 2019_01_02__14_40__1020130.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 9.81
+  iso: 200
+  width: 5110
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 14:40:25.000000000+01:00
+- image_filename: 2019_01_02__14_40__1020131.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 8.95
+  iso: 200
+  width: 5108
+  height: 3813
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 14:40:32.000000000+01:00
+- image_filename: 2019_01_02__14_40__1020132.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5099
+  height: 3806
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 14:40:54.000000000+01:00
+- image_filename: 2019_01_02__14_41__1020136.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5198
+  height: 3881
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 14:41:17.000000000+01:00
+- image_filename: 2019_01_02__14_42__1020144.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 10.17
+  iso: 200
+  width: 5043
+  height: 3675
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 14:42:47.000000000+01:00
+- image_filename: 2019_01_02__14_43__1020150.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5201
+  height: 3883
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 14:43:48.000000000+01:00
+- image_filename: 2019_01_02__14_45__1020157.jpg
+  post_slug: 2019-01-02-wroclaw-ze-sky-tower
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 8.07
+  iso: 200
+  width: 3852
+  height: 5160
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-01-02 14:45:27.000000000+01:00

@@ -1,69 +1,69 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2014-07-14-z-sianozet-do-dabek
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2014-07-13 21:51:51+02:00
 - image_filename: IMGP8114raw1.jpg
   post_slug: 2014-07-14-z-sianozet-do-dabek
-  lat: 54.28374861111111
-  lon: 16.1312675
+  lat: 54.28375
+  lon: 16.13126666666667
   altitude: 3.2
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2014-07-14 15:25:12+02:00
+  time: 2014-07-14 15:25:12.000000000+02:00
 - image_filename: IMGP8156raw1.jpg
   post_slug: 2014-07-14-z-sianozet-do-dabek
   lat: 54.28729166666667
-  lon: 16.258486944444446
+  lon: 16.25848611111111
   altitude: 12.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2014-07-14 16:47:05+02:00
-- image_filename: IMGP8190raw1.jpg
-  post_slug: 2014-07-14-z-sianozet-do-dabek
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 200
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2014-07-14 21:09:36+02:00
+  time: 2014-07-14 16:47:05.000000000+02:00
 - image_filename: IMGP8177raw1.jpg
   post_slug: 2014-07-14-z-sianozet-do-dabek
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2014-07-14 20:38:13+02:00
+  time: 2014-07-14 20:38:13.000000000+02:00
+- image_filename: IMGP8190raw1.jpg
+  post_slug: 2014-07-14-z-sianozet-do-dabek
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  time: 2014-07-14 21:09:36.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2014-07-14-z-sianozet-do-dabek
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 3.0
+  exposure_string: 0.3 s
+  iso: 400
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2014-07-13 21:51:51.000000000+02:00

@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_08_10__18_11__8100050.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.098958333333336
-  lon: 16.989250000000002
-  altitude: 457.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 800
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5156
-  height: 3799
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-10 18:11:52+02:00
-  focus_distance: 32.63
 - image_filename: 2019_08_10__08_54__8107746.jpg
   post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
   lat: 50.22945833333333
@@ -26,1393 +8,15 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2019-08-10 08:54:39+02:00
   focus_distance: 7.62
-- image_filename: 2019_08_10__09_36__8107776.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.25848611111111
-  lon: 17.225194444444444
-  altitude: 417.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5187
-  height: 3856
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 09:36:12+02:00
-  focus_distance: 156.04
-- image_filename: 2019_08_10__10_00__8107829.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.30741666666666
-  lon: 17.380305555555555
-  altitude: 298.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5116
-  height: 3755
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 10:00:27+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__10_04__8107849.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.32227777777778
-  lon: 17.392916666666665
-  altitude: 306.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5088
-  height: 3799
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 10:04:30+02:00
-  focus_distance: 73.14
-- image_filename: 2019_08_10__10_13__8107870.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.31801388888889
-  lon: 17.395319444444443
-  altitude: 309.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4994
-  height: 3438
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 10:13:16+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__10_28__8107912.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.26302777777778
-  lon: 17.522972222222222
-  altitude: 362.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5085
-  height: 3666
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 10:28:15+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__10_31__8107935.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.24854166666667
-  lon: 17.53840277777778
-  altitude: 347.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5101
-  height: 3762
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-10 10:31:48+02:00
-  focus_distance: 109.22
-- image_filename: 2019_08_10__10_45__8107967.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.176624999999994
-  lon: 17.578791666666667
-  altitude: 389.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5203
-  height: 3884
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 10:45:57+02:00
-  focus_distance: 27.58
-- image_filename: 2019_08_10__10_46__8107969.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.172999999999995
-  lon: 17.576944444444443
-  altitude: 385.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5001
-  height: 3682
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-10 10:46:25+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__11_19__8108044.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.038
-  lon: 17.585402777777777
-  altitude: 406.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5212
-  height: 3875
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 11:19:31+02:00
-  focus_distance: 22.05
-- image_filename: 2019_08_10__11_24__8108050.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.01427777777778
-  lon: 17.557625
-  altitude: 440.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5126
-  height: 3756
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 11:24:36+02:00
-  focus_distance: 292.57
-- image_filename: 2019_08_10__11_40__8108094.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.974944444444446
-  lon: 17.466652777777778
-  altitude: 530.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5113
-  height: 3736
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 11:40:25+02:00
-  focus_distance: 76.92
-- image_filename: 2019_08_10__11_51__8108128.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.89756944444444
-  lon: 17.429958333333335
-  altitude: 548.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5063
-  height: 3797
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 11:51:32+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__12_08__8108167.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.837583333333335
-  lon: 17.393638888888887
-  altitude: 612.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 12:08:09+02:00
-  focus_distance: 172.46
-- image_filename: 2019_08_10__12_31__8108205.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.70034722222223
-  lon: 17.43488888888889
-  altitude: 412.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-10 12:31:48+02:00
-  focus_distance: 34.28
-- image_filename: 2019_08_10__12_37__8108220.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.66959722222222
-  lon: 17.438277777777778
-  altitude: 350.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5060
-  height: 3659
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 12:37:11+02:00
-  focus_distance: 315.08
-- image_filename: 2019_08_10__12_55__8108241.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.600569444444446
-  lon: 17.315458333333336
-  altitude: 237.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5047
-  height: 3768
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 12:55:49+02:00
-  focus_distance: 174.29
-- image_filename: 2019_08_10__15_47__8108406.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.671499999999995
-  lon: 17.220763888888886
-  altitude: 231.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4895
-  height: 3466
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 15:47:09+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__16_13__8108432.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.79776388888889
-  lon: 16.93051388888889
-  altitude: 261.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5125
-  height: 3833
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-10 16:13:35+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__17_08_DSC08642.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.92811111111111
-  lon: 16.938805555555557
-  altitude: 292.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 17:08:47+02:00
-- image_filename: 2019_08_10__17_40_DSC08666.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.98375
-  lon: 16.88873611111111
-  altitude: 330.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 160
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7100
-  height: 4836
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-10 17:40:22+02:00
-- image_filename: 2019_08_10__18_28__8100075.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.17261111111111
-  lon: 17.033277777777776
-  altitude: 647.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 18:28:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__18_49__8100128.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.226708333333335
-  lon: 17.113152777777778
-  altitude: 545.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 18:49:07+02:00
-  focus_distance: 4.27
-- image_filename: 2019_08_10__10_30__8107922.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.24977777777778
-  lon: 17.535041666666668
-  altitude: 348.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 10:30:34+02:00
-  focus_distance: 6.53
-- image_filename: 2019_08_10__16_46__8108480.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.927875
-  lon: 16.938833333333335
-  altitude: 293.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 5.0
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4264
-  height: 3168
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 16:46:39+02:00
-  focus_distance: 16.3
-- image_filename: 2019_08_10__10_49__8107987.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.156013888888886
-  lon: 17.58427777777778
-  altitude: 380.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5047
-  height: 3641
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-10 10:49:38+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__11_24__8108051.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.01426388888889
-  lon: 17.557597222222224
-  altitude: 440.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4674
-  height: 3068
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 11:24:40+02:00
-  focus_distance: 138.85
-- image_filename: 2019_08_10__18_14__8100063.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.109180555555554
-  lon: 16.997902777777778
-  altitude: 479.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 800
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4449
-  height: 3389
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-10 18:14:30+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__10_16__8107882.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.31511111111111
-  lon: 17.41865277777778
-  altitude: 317.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-10 10:16:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__16_39__8108477.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.927902777777774
-  lon: 16.938791666666667
-  altitude: 294.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5070
-  height: 3409
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 16:39:14+02:00
-  focus_distance: 3.52
-- image_filename: 2019_08_10__17_08_DSC08640.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.92813888888889
-  lon: 16.938930555555554
-  altitude: 292.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-08-10 17:08:09+02:00
-- image_filename: 2019_08_10__11_34__8108070.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.99543055555556
-  lon: 17.484347222222222
-  altitude: 542.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5144
-  height: 3780
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-10 11:34:32+02:00
-  focus_distance: 97.52
-- image_filename: 2019_08_10__11_36__8108079.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.99327777777778
-  lon: 17.474305555555553
-  altitude: 545.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5127
-  height: 3760
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 11:36:31+02:00
-  focus_distance: 10.69
-- image_filename: 2019_08_10__10_07__8107859.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.32902777777778
-  lon: 17.394194444444445
-  altitude: 306.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4660
-  height: 3502
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 10:07:00+02:00
-  focus_distance: 21.61
-- image_filename: 2019_08_10__10_54__8107998.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.11701388888889
-  lon: 17.643541666666668
-  altitude: 338.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 10:54:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__10_05__8107851.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.32469444444445
-  lon: 17.39338888888889
-  altitude: 306.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4679
-  height: 3493
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 10:05:31+02:00
-  focus_distance: 24.78
-- image_filename: 2019_08_10__18_29__8100079.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.17273611111111
-  lon: 17.03440277777778
-  altitude: 649.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 18:29:03+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__09_35__8107770.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.256541666666664
-  lon: 17.220763888888886
-  altitude: 421.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5237
-  height: 3907
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-10 09:35:43+02:00
-  focus_distance: 25.76
-- image_filename: 2019_08_10__10_29__8107920.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.25826388888889
-  lon: 17.53095833333333
-  altitude: 355.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4845
-  height: 3675
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-10 10:29:11+02:00
-  focus_distance: 138.85
-- image_filename: 2019_08_10__10_29__8107917.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.25918055555555
-  lon: 17.52938888888889
-  altitude: 356.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-10 10:29:00+02:00
-  focus_distance: 105.7
-- image_filename: 2019_08_10__10_40__8107951.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.199861111111105
-  lon: 17.57390277777778
-  altitude: 388.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 10:40:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__11_54__8108133.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.87661111111111
-  lon: 17.420916666666667
-  altitude: 581.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5098
-  height: 3718
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 11:54:06+02:00
-  focus_distance: 19.59
-- image_filename: 2019_08_10__18_47__8100114.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.22452777777778
-  lon: 17.095958333333332
-  altitude: 570.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4207
-  height: 3333
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 18:47:41+02:00
-  focus_distance: 1.76
-- image_filename: 2019_08_10__10_00__8107822.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.307652777777776
-  lon: 17.37951388888889
-  altitude: 298.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5160
-  height: 3842
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 10:00:14+02:00
-  focus_distance: 11.02
-- image_filename: 2019_08_10__11_51__8108130.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.89694444444444
-  lon: 17.429972222222222
-  altitude: 549.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4879
-  height: 3642
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 11:51:36+02:00
-  focus_distance: 96.38
-- image_filename: 2019_08_10__10_49__8107983.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.159194444444445
-  lon: 17.581291666666665
-  altitude: 382.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 10:49:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__11_33__8108066.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.99995833333333
-  lon: 17.499958333333336
-  altitude: 523.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 11:33:05+02:00
-  focus_distance: 45.76
-- image_filename: 2019_08_10__10_23__8107895.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.28483333333333
-  lon: 17.478694444444443
-  altitude: 334.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 10:23:05+02:00
-  focus_distance: 7.62
-- image_filename: 2019_08_10__11_42__8108109.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.96280555555556
-  lon: 17.451013888888887
-  altitude: 543.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5154
-  height: 3848
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 11:42:08+02:00
-  focus_distance: 54.07
-- image_filename: 2019_08_10__12_36__8108214.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.67436111111111
-  lon: 17.44215277777778
-  altitude: 359.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-08-10 12:36:12+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__12_07__8108152.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.83861111111111
-  lon: 17.395083333333332
-  altitude: 612.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5155
-  height: 3796
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 12:07:11+02:00
-  focus_distance: 16.14
-- image_filename: 2019_08_10__10_00__8107825.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.307513888888884
-  lon: 17.379805555555556
-  altitude: 298.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5122
-  height: 3857
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 10:00:19+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__18_48__8100125.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.22595833333334
-  lon: 17.110277777777778
-  altitude: 550.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1000
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 18:48:51+02:00
-  focus_distance: 4.03
-- image_filename: 2019_08_10__11_44__8108119.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.94494444444444
-  lon: 17.435680555555557
-  altitude: 530.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 11:44:15+02:00
-  focus_distance: 49.95
-- image_filename: 2019_08_10__09_37__8107779.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.259875
-  lon: 17.227930555555552
-  altitude: 413.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5008
-  height: 3739
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 09:37:03+02:00
-  focus_distance: 24.67
-- image_filename: 2019_08_10__10_03__8107841.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.31845833333334
-  lon: 17.39259722222222
-  altitude: 305.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 10:03:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__13_00__8108250.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.593375
-  lon: 17.278208333333332
-  altitude: 224.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5132
-  height: 3769
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 13:00:18+02:00
-  focus_distance: 26.21
-- image_filename: 2019_08_10__18_06__8100033.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.07897222222223
-  lon: 16.945055555555555
-  altitude: 401.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 800
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4681
-  height: 3495
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-10 18:06:02+02:00
-  focus_distance: 77.64
-- image_filename: 2019_08_10__09_50__8107806.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.30201388888889
-  lon: 17.319541666666666
-  altitude: 326.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4856
-  height: 3659
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 09:50:03+02:00
-  focus_distance: 30.68
-- image_filename: 2019_08_10__12_30__8108200.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.70948611111111
-  lon: 17.43925
-  altitude: 431.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 12:30:36+02:00
-  focus_distance: 12.48
-- image_filename: 2019_08_10__16_28__8108471.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.904444444444444
-  lon: 16.917708333333334
-  altitude: 284.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-10 16:28:53+02:00
-  focus_distance: 41.58
-- image_filename: 2019_08_10__09_39__8107795.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.27436111111111
-  lon: 17.247444444444444
-  altitude: 401.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5221
-  height: 3907
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 09:39:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__10_07__8107863.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.330222222222226
-  lon: 17.394444444444446
-  altitude: 306.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5142
-  height: 3780
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-10 10:07:33+02:00
-  focus_distance: 13.01
-- image_filename: 2019_08_10__15_50__8108409.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3722
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 15:50:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__12_19__8108181.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.77748611111111
-  lon: 17.434416666666667
-  altitude: 528.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 12:19:11+02:00
-  focus_distance: 65.79
-- image_filename: 2019_08_10__17_07_DSC08638.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.92806944444444
-  lon: 16.938930555555554
-  altitude: 293.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-08-10 17:07:25+02:00
-- image_filename: 2019_08_10__19_06__8100145.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.228861111111115
-  lon: 17.198444444444444
-  altitude: 434.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-08-10 19:06:43+02:00
-  focus_distance: 4.43
-- image_filename: 2019_08_10__10_47__8107971.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.168236111111106
-  lon: 17.578458333333334
-  altitude: 384.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5131
-  height: 3894
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 10:47:34+02:00
-  focus_distance: 26.0
-- image_filename: 2019_08_10__16_28__8108464.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.89930555555556
-  lon: 16.907652777777777
-  altitude: 284.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-10 16:28:16+02:00
-  focus_distance: 10.47
-- image_filename: 2019_08_10__11_00__8108002.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.09730555555556
-  lon: 17.682694444444447
-  altitude: 320.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5088
-  height: 3851
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-10 11:00:52+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__11_18__8108038.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.038041666666665
-  lon: 17.595
-  altitude: 400.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5201
-  height: 3523
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 11:18:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__18_11__8100048.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.09894444444445
-  lon: 16.98923611111111
-  altitude: 457.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 800
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5056
-  height: 3656
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-10 18:11:40+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__10_26__8107906.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.27265277777778
-  lon: 17.511152777777777
-  altitude: 351.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 10:26:30+02:00
-  focus_distance: 20.92
-- image_filename: 2019_08_10__17_36_DSC08663.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.966944444444444
-  lon: 16.872805555555555
-  altitude: 319.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.5
-  iso: 125
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7265
-  height: 4766
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-10 17:36:29+02:00
-- image_filename: 2019_08_10__10_03__8107842.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.32054166666667
-  lon: 17.39313888888889
-  altitude: 307.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4813
-  height: 3347
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 10:03:41+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__10_45__8107965.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.17858333333333
-  lon: 17.579847222222224
-  altitude: 392.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4881
-  height: 3644
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-10 10:45:43+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_10__16_14__8108440.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 49.80656944444444
-  lon: 16.925138888888892
-  altitude: 263.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 16:14:00+02:00
-  focus_distance: 42.22
-- image_filename: 2019_08_10__11_27__8108054.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.01097222222222
-  lon: 17.544555555555558
-  altitude: 453.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 11:27:53+02:00
-  focus_distance: 1000.0
+  time: 2019-08-10 08:54:39.000000000+02:00
 - image_filename: 2019_08_10__09_01__8107763.jpg
   post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
   lat: 50.22765277777778
@@ -1422,33 +26,159 @@
   focal_length_35: 26.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5051
-  height: 3668
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-08-10 09:01:25+02:00
   focus_distance: 1000.0
-- image_filename: 2019_08_10__18_34__8100090.jpg
-  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
-  lat: 50.19029166666666
-  lon: 17.058125
-  altitude: 731.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
+  iso: 200
+  width: 5051
+  height: 3668
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-10 18:34:45+02:00
-  focus_distance: 22.88
+  time: 2019-08-10 09:01:25.000000000+02:00
+- image_filename: 2019_08_10__09_35__8107770.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.256541666666664
+  lon: 17.220763888888886
+  altitude: 421.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 25.76
+  iso: 400
+  width: 5237
+  height: 3907
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 09:35:43.000000000+02:00
+- image_filename: 2019_08_10__09_36__8107776.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.25848611111111
+  lon: 17.225194444444444
+  altitude: 417.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 156.04
+  iso: 400
+  width: 5187
+  height: 3856
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 09:36:12.000000000+02:00
+- image_filename: 2019_08_10__09_37__8107779.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.259875
+  lon: 17.227930555555552
+  altitude: 413.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 24.67
+  iso: 400
+  width: 5008
+  height: 3739
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 09:37:03.000000000+02:00
+- image_filename: 2019_08_10__09_39__8107795.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.27436111111111
+  lon: 17.247444444444444
+  altitude: 401.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5221
+  height: 3907
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 09:39:50.000000000+02:00
+- image_filename: 2019_08_10__09_50__8107806.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.30201388888889
+  lon: 17.319541666666666
+  altitude: 326.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 30.68
+  iso: 400
+  width: 4856
+  height: 3659
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 09:50:03.000000000+02:00
+- image_filename: 2019_08_10__10_00__8107822.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.307652777777776
+  lon: 17.37951388888889
+  altitude: 298.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 11.02
+  iso: 400
+  width: 5160
+  height: 3842
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:00:14.000000000+02:00
+- image_filename: 2019_08_10__10_00__8107825.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.307513888888884
+  lon: 17.379805555555556
+  altitude: 298.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5122
+  height: 3857
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:00:19.000000000+02:00
+- image_filename: 2019_08_10__10_00__8107829.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.30741666666666
+  lon: 17.380305555555555
+  altitude: 298.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5116
+  height: 3755
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:00:27.000000000+02:00
 - image_filename: 2019_08_10__10_00__8107830.jpg
   post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
   lat: 50.30741666666666
@@ -1458,12 +188,1282 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5005
-  height: 3578
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-08-10 10:00:34+02:00
   focus_distance: 1000.0
+  iso: 400
+  width: 5005
+  height: 3578
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:00:34.000000000+02:00
+- image_filename: 2019_08_10__10_03__8107841.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.31845833333334
+  lon: 17.39259722222222
+  altitude: 305.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:03:18.000000000+02:00
+- image_filename: 2019_08_10__10_03__8107842.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.32054166666667
+  lon: 17.39313888888889
+  altitude: 307.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 4813
+  height: 3347
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:03:41.000000000+02:00
+- image_filename: 2019_08_10__10_04__8107849.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.32227777777778
+  lon: 17.392916666666665
+  altitude: 306.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 73.14
+  iso: 400
+  width: 5088
+  height: 3799
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:04:30.000000000+02:00
+- image_filename: 2019_08_10__10_05__8107851.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.32469444444445
+  lon: 17.39338888888889
+  altitude: 306.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 24.78
+  iso: 400
+  width: 4679
+  height: 3493
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:05:31.000000000+02:00
+- image_filename: 2019_08_10__10_07__8107859.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.32902777777778
+  lon: 17.394194444444445
+  altitude: 306.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 21.61
+  iso: 400
+  width: 4660
+  height: 3502
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:07:00.000000000+02:00
+- image_filename: 2019_08_10__10_07__8107863.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.330222222222226
+  lon: 17.394444444444446
+  altitude: 306.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 13.01
+  iso: 400
+  width: 5142
+  height: 3780
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:07:33.000000000+02:00
+- image_filename: 2019_08_10__10_13__8107870.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.31801388888889
+  lon: 17.395319444444443
+  altitude: 309.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 4994
+  height: 3438
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:13:16.000000000+02:00
+- image_filename: 2019_08_10__10_16__8107882.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.31511111111111
+  lon: 17.41865277777778
+  altitude: 317.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:16:00.000000000+02:00
+- image_filename: 2019_08_10__10_23__8107895.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.28483333333333
+  lon: 17.478694444444443
+  altitude: 334.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 7.62
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:23:05.000000000+02:00
+- image_filename: 2019_08_10__10_26__8107906.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.27265277777778
+  lon: 17.511152777777777
+  altitude: 351.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 20.92
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:26:30.000000000+02:00
+- image_filename: 2019_08_10__10_28__8107912.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.26302777777778
+  lon: 17.522972222222222
+  altitude: 362.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5085
+  height: 3666
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:28:15.000000000+02:00
+- image_filename: 2019_08_10__10_29__8107917.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.25918055555555
+  lon: 17.52938888888889
+  altitude: 356.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 105.7
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:29:00.000000000+02:00
+- image_filename: 2019_08_10__10_29__8107920.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.25826388888889
+  lon: 17.53095833333333
+  altitude: 355.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 138.85
+  iso: 400
+  width: 4845
+  height: 3675
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:29:11.000000000+02:00
+- image_filename: 2019_08_10__10_30__8107922.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.24977777777778
+  lon: 17.535041666666668
+  altitude: 348.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.53
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:30:34.000000000+02:00
+- image_filename: 2019_08_10__10_31__8107935.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.24854166666667
+  lon: 17.53840277777778
+  altitude: 347.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 109.22
+  iso: 400
+  width: 5101
+  height: 3762
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:31:48.000000000+02:00
+- image_filename: 2019_08_10__10_40__8107951.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.199861111111105
+  lon: 17.57390277777778
+  altitude: 388.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:40:00.000000000+02:00
+- image_filename: 2019_08_10__10_45__8107965.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.17858333333333
+  lon: 17.579847222222224
+  altitude: 392.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 4881
+  height: 3644
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:45:43.000000000+02:00
+- image_filename: 2019_08_10__10_45__8107967.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.176624999999994
+  lon: 17.578791666666667
+  altitude: 389.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 27.58
+  iso: 400
+  width: 5203
+  height: 3884
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:45:57.000000000+02:00
+- image_filename: 2019_08_10__10_46__8107969.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.172999999999995
+  lon: 17.576944444444443
+  altitude: 385.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5001
+  height: 3682
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:46:25.000000000+02:00
+- image_filename: 2019_08_10__10_47__8107971.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.168236111111106
+  lon: 17.578458333333334
+  altitude: 384.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 26.0
+  iso: 400
+  width: 5131
+  height: 3894
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:47:34.000000000+02:00
+- image_filename: 2019_08_10__10_49__8107983.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.159194444444445
+  lon: 17.581291666666665
+  altitude: 382.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:49:18.000000000+02:00
+- image_filename: 2019_08_10__10_49__8107987.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.156013888888886
+  lon: 17.58427777777778
+  altitude: 380.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5047
+  height: 3641
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:49:38.000000000+02:00
+- image_filename: 2019_08_10__10_54__8107998.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.11701388888889
+  lon: 17.643541666666668
+  altitude: 338.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 10:54:50.000000000+02:00
+- image_filename: 2019_08_10__11_00__8108002.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.09730555555556
+  lon: 17.682694444444447
+  altitude: 320.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5088
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:00:52.000000000+02:00
+- image_filename: 2019_08_10__11_18__8108038.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.038041666666665
+  lon: 17.595
+  altitude: 400.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5201
+  height: 3523
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:18:47.000000000+02:00
+- image_filename: 2019_08_10__11_19__8108044.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.038
+  lon: 17.585402777777777
+  altitude: 406.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 22.05
+  iso: 400
+  width: 5212
+  height: 3875
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:19:31.000000000+02:00
+- image_filename: 2019_08_10__11_24__8108050.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.01427777777778
+  lon: 17.557625
+  altitude: 440.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 292.57
+  iso: 400
+  width: 5126
+  height: 3756
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:24:36.000000000+02:00
+- image_filename: 2019_08_10__11_24__8108051.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.01426388888889
+  lon: 17.557597222222224
+  altitude: 440.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 138.85
+  iso: 400
+  width: 4674
+  height: 3068
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:24:40.000000000+02:00
+- image_filename: 2019_08_10__11_27__8108054.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.01097222222222
+  lon: 17.544555555555558
+  altitude: 453.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:27:53.000000000+02:00
+- image_filename: 2019_08_10__11_33__8108066.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.99995833333333
+  lon: 17.499958333333336
+  altitude: 523.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 45.76
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:33:05.000000000+02:00
+- image_filename: 2019_08_10__11_34__8108070.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.99543055555556
+  lon: 17.484347222222222
+  altitude: 542.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 97.52
+  iso: 400
+  width: 5144
+  height: 3780
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:34:32.000000000+02:00
+- image_filename: 2019_08_10__11_36__8108079.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.99327777777778
+  lon: 17.474305555555553
+  altitude: 545.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 10.69
+  iso: 400
+  width: 5127
+  height: 3760
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:36:31.000000000+02:00
+- image_filename: 2019_08_10__11_40__8108094.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.974944444444446
+  lon: 17.466652777777778
+  altitude: 530.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 76.92
+  iso: 400
+  width: 5113
+  height: 3736
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:40:25.000000000+02:00
+- image_filename: 2019_08_10__11_42__8108109.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.96280555555556
+  lon: 17.451013888888887
+  altitude: 543.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 54.07
+  iso: 400
+  width: 5154
+  height: 3848
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:42:08.000000000+02:00
+- image_filename: 2019_08_10__11_44__8108119.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.94494444444444
+  lon: 17.435680555555557
+  altitude: 530.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 49.95
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:44:15.000000000+02:00
+- image_filename: 2019_08_10__11_51__8108128.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.89756944444444
+  lon: 17.429958333333335
+  altitude: 548.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5063
+  height: 3797
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:51:32.000000000+02:00
+- image_filename: 2019_08_10__11_51__8108130.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.89694444444444
+  lon: 17.429972222222222
+  altitude: 549.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 96.38
+  iso: 400
+  width: 4879
+  height: 3642
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:51:36.000000000+02:00
+- image_filename: 2019_08_10__11_54__8108133.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.87661111111111
+  lon: 17.420916666666667
+  altitude: 581.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 19.59
+  iso: 400
+  width: 5098
+  height: 3718
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 11:54:06.000000000+02:00
+- image_filename: 2019_08_10__12_07__8108152.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.83861111111111
+  lon: 17.395083333333332
+  altitude: 612.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 16.14
+  iso: 400
+  width: 5155
+  height: 3796
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 12:07:11.000000000+02:00
+- image_filename: 2019_08_10__12_08__8108167.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.837583333333335
+  lon: 17.393638888888887
+  altitude: 612.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 172.46
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 12:08:09.000000000+02:00
+- image_filename: 2019_08_10__12_19__8108181.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.77748611111111
+  lon: 17.434416666666667
+  altitude: 528.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 65.79
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 12:19:11.000000000+02:00
+- image_filename: 2019_08_10__12_30__8108200.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.70948611111111
+  lon: 17.43925
+  altitude: 431.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 12.48
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 12:30:36.000000000+02:00
+- image_filename: 2019_08_10__12_31__8108205.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.70034722222223
+  lon: 17.43488888888889
+  altitude: 412.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 34.28
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 12:31:48.000000000+02:00
+- image_filename: 2019_08_10__12_36__8108214.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.67436111111111
+  lon: 17.44215277777778
+  altitude: 359.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 12:36:12.000000000+02:00
+- image_filename: 2019_08_10__12_37__8108220.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.66959722222222
+  lon: 17.438277777777778
+  altitude: 350.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 315.08
+  iso: 400
+  width: 5060
+  height: 3659
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 12:37:11.000000000+02:00
+- image_filename: 2019_08_10__12_55__8108241.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.600569444444446
+  lon: 17.315458333333336
+  altitude: 237.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 174.29
+  iso: 400
+  width: 5047
+  height: 3768
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 12:55:49.000000000+02:00
+- image_filename: 2019_08_10__13_00__8108250.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.593375
+  lon: 17.278208333333332
+  altitude: 224.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 26.21
+  iso: 400
+  width: 5132
+  height: 3769
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 13:00:18.000000000+02:00
+- image_filename: 2019_08_10__15_47__8108406.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.671499999999995
+  lon: 17.220763888888886
+  altitude: 231.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 4895
+  height: 3466
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 15:47:09.000000000+02:00
+- image_filename: 2019_08_10__15_50__8108409.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5240
+  height: 3722
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 15:50:57.000000000+02:00
+- image_filename: 2019_08_10__16_13__8108432.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.79776388888889
+  lon: 16.93051388888889
+  altitude: 261.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5125
+  height: 3833
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 16:13:35.000000000+02:00
+- image_filename: 2019_08_10__16_14__8108440.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.80656944444444
+  lon: 16.925138888888892
+  altitude: 263.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 42.22
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 16:14:00.000000000+02:00
+- image_filename: 2019_08_10__16_28__8108464.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.89930555555556
+  lon: 16.907652777777777
+  altitude: 284.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 10.47
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 16:28:16.000000000+02:00
+- image_filename: 2019_08_10__16_28__8108471.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.904444444444444
+  lon: 16.917708333333334
+  altitude: 284.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 41.58
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 16:28:53.000000000+02:00
+- image_filename: 2019_08_10__16_39__8108477.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.927902777777774
+  lon: 16.938791666666667
+  altitude: 294.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.52
+  iso: 200
+  width: 5070
+  height: 3409
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 16:39:14.000000000+02:00
+- image_filename: 2019_08_10__16_46__8108480.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.927875
+  lon: 16.938833333333335
+  altitude: 293.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 16.3
+  iso: 200
+  width: 4264
+  height: 3168
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 16:46:39.000000000+02:00
+- image_filename: 2019_08_10__17_07_DSC08638.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.92806944444444
+  lon: 16.938930555555554
+  altitude: 293.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-08-10 17:07:25.000000000+02:00
+- image_filename: 2019_08_10__17_08_DSC08640.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.92813888888889
+  lon: 16.938930555555554
+  altitude: 292.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-08-10 17:08:09.000000000+02:00
+- image_filename: 2019_08_10__17_08_DSC08642.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.92811111111111
+  lon: 16.938805555555557
+  altitude: 292.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-08-10 17:08:47.000000000+02:00
+- image_filename: 2019_08_10__17_36_DSC08663.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.966944444444444
+  lon: 16.872805555555555
+  altitude: 319.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  width: 7265
+  height: 4766
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-08-10 17:36:29.000000000+02:00
+- image_filename: 2019_08_10__17_40_DSC08666.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 49.98375
+  lon: 16.88873611111111
+  altitude: 330.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  width: 7100
+  height: 4836
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-08-10 17:40:22.000000000+02:00
+- image_filename: 2019_08_10__18_06__8100033.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.07897222222223
+  lon: 16.945055555555555
+  altitude: 401.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 77.64
+  iso: 800
+  width: 4681
+  height: 3495
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:06:02.000000000+02:00
+- image_filename: 2019_08_10__18_11__8100048.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.09894444444445
+  lon: 16.98923611111111
+  altitude: 457.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 800
+  width: 5056
+  height: 3656
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:11:40.000000000+02:00
+- image_filename: 2019_08_10__18_11__8100050.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.098958333333336
+  lon: 16.989250000000002
+  altitude: 457.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 32.63
+  iso: 800
+  width: 5156
+  height: 3799
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:11:52.000000000+02:00
+- image_filename: 2019_08_10__18_14__8100063.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.109180555555554
+  lon: 16.997902777777778
+  altitude: 479.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 800
+  width: 4449
+  height: 3389
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:14:30.000000000+02:00
+- image_filename: 2019_08_10__18_28__8100075.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.17261111111111
+  lon: 17.033277777777776
+  altitude: 647.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:28:57.000000000+02:00
+- image_filename: 2019_08_10__18_29__8100079.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.17273611111111
+  lon: 17.03440277777778
+  altitude: 649.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:29:03.000000000+02:00
+- image_filename: 2019_08_10__18_34__8100090.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.19029166666666
+  lon: 17.058125
+  altitude: 731.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 22.88
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:34:45.000000000+02:00
+- image_filename: 2019_08_10__18_47__8100114.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.22452777777778
+  lon: 17.095958333333332
+  altitude: 570.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.76
+  iso: 1000
+  width: 4207
+  height: 3333
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:47:41.000000000+02:00
+- image_filename: 2019_08_10__18_48__8100125.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.22595833333334
+  lon: 17.110277777777778
+  altitude: 550.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.03
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:48:51.000000000+02:00
+- image_filename: 2019_08_10__18_49__8100128.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.226708333333335
+  lon: 17.113152777777778
+  altitude: 545.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.27
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 18:49:07.000000000+02:00
+- image_filename: 2019_08_10__19_06__8100145.jpg
+  post_slug: 2019-08-10-petla-kolejowa-z-jesionika-do-olomunca
+  lat: 50.228861111111115
+  lon: 17.198444444444444
+  altitude: 434.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-08-10 19:06:43.000000000+02:00

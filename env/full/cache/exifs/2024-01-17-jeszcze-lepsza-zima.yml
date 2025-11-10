@@ -1,12 +1,8 @@
 ---
-- image_filename: 2022_07_31__18_45_P7310479.jpg
-  post_slug: 2024-01-17-jeszcze-lepsza-zima
-- image_filename: header.jpg
-  post_slug: 2024-01-17-jeszcze-lepsza-zima
 - image_filename: 2024_01_17__08_11_DJI_0891.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58448333333334
+  lon: 17.025727777777778
   altitude: 236.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -21,8 +17,8 @@
   time: 2024-01-17 08:11:19.000000000+01:00
 - image_filename: 2024_01_17__08_11_DJI_0893.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58449166666667
+  lon: 17.025708333333334
   altitude: 235.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -35,26 +31,10 @@
   height: 6033
   camera: FC3582
   time: 2024-01-17 08:11:40.000000000+01:00
-- image_filename: 2024_01_17__08_12_DJI_0897.jpg
-  post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
-  altitude: 235.2
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 200
-  width: 7592
-  height: 5356
-  camera: FC3582
-  time: 2024-01-17 08:12:35.000000000+01:00
 - image_filename: 2024_01_17__08_12_DJI_0896.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58531388888889
+  lon: 17.027613888888887
   altitude: 235.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -67,10 +47,26 @@
   height: 5865
   camera: FC3582
   time: 2024-01-17 08:12:24.000000000+01:00
+- image_filename: 2024_01_17__08_12_DJI_0897.jpg
+  post_slug: 2024-01-17-jeszcze-lepsza-zima
+  lat: 52.58531666666667
+  lon: 17.027591666666666
+  altitude: 235.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 7592
+  height: 5356
+  camera: FC3582
+  time: 2024-01-17 08:12:35.000000000+01:00
 - image_filename: 2024_01_17__08_13_DJI_0899.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.584411111111116
+  lon: 17.028091666666665
   altitude: 234.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -85,8 +81,8 @@
   time: 2024-01-17 08:13:20.000000000+01:00
 - image_filename: 2024_01_17__08_15_DJI_0903.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.586688888888894
+  lon: 17.028747222222222
   altitude: 231.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -101,8 +97,8 @@
   time: 2024-01-17 08:15:01.000000000+01:00
 - image_filename: 2024_01_17__08_17_DJI_0911.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58691944444445
+  lon: 17.036594444444447
   altitude: 229.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -117,8 +113,8 @@
   time: 2024-01-17 08:17:48.000000000+01:00
 - image_filename: 2024_01_17__08_19_DJI_0915.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.587338888888894
+  lon: 17.033719444444447
   altitude: 227.1
   focal_length: 6.7
   focal_length_35: 24.0
@@ -133,8 +129,8 @@
   time: 2024-01-17 08:19:13.000000000+01:00
 - image_filename: 2024_01_17__08_19_DJI_0917.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.5889
+  lon: 17.0346
   altitude: 227.1
   focal_length: 6.7
   focal_length_35: 24.0
@@ -149,8 +145,8 @@
   time: 2024-01-17 08:19:54.000000000+01:00
 - image_filename: 2024_01_17__08_26_DJI_0928.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58793888888889
+  lon: 17.035080555555556
   altitude: 228.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -165,8 +161,8 @@
   time: 2024-01-17 08:26:28.000000000+01:00
 - image_filename: 2024_01_17__08_27_DJI_0932.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58903611111111
+  lon: 17.034325000000003
   altitude: 227.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -181,8 +177,8 @@
   time: 2024-01-17 08:27:17.000000000+01:00
 - image_filename: 2024_01_17__08_28_DJI_0935.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.590408333333336
+  lon: 17.03613055555556
   altitude: 209.7
   focal_length: 6.7
   focal_length_35: 24.0
@@ -197,8 +193,8 @@
   time: 2024-01-17 08:28:24.000000000+01:00
 - image_filename: 2024_01_17__08_31_DJI_0940.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58613611111112
+  lon: 17.03129722222222
   altitude: 177.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -213,8 +209,8 @@
   time: 2024-01-17 08:31:06.000000000+01:00
 - image_filename: 2024_01_17__08_33_DJI_0947.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58629722222222
+  lon: 17.031277777777778
   altitude: 282.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -229,8 +225,8 @@
   time: 2024-01-17 08:33:24.000000000+01:00
 - image_filename: 2024_01_17__08_35_DJI_0955.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58532777777778
+  lon: 17.029730555555556
   altitude: 280.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -245,8 +241,8 @@
   time: 2024-01-17 08:35:45.000000000+01:00
 - image_filename: 2024_01_17__08_36_DJI_0960.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.584783333333334
+  lon: 17.031988888888886
   altitude: 281.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -261,8 +257,8 @@
   time: 2024-01-17 08:36:43.000000000+01:00
 - image_filename: 2024_01_17__08_38_DJI_0964.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.58518055555556
+  lon: 17.027808333333333
   altitude: 272.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -277,8 +273,8 @@
   time: 2024-01-17 08:38:10.000000000+01:00
 - image_filename: 2024_01_17__08_38_DJI_0966.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.586019444444446
+  lon: 17.027069444444443
   altitude: 266.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -293,8 +289,8 @@
   time: 2024-01-17 08:38:44.000000000+01:00
 - image_filename: 2024_01_17__08_39_DJI_0971.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.584975
+  lon: 17.027319444444444
   altitude: 265.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -309,8 +305,8 @@
   time: 2024-01-17 08:39:54.000000000+01:00
 - image_filename: 2024_01_17__08_40_DJI_0972.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.033333333333335
+  lat: 52.584986111111114
+  lon: 17.02733333333333
   altitude: 265.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -325,8 +321,8 @@
   time: 2024-01-17 08:40:03.000000000+01:00
 - image_filename: 2024_01_17__08_45_DJI_0977.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
+  lat: 52.58442222222222
+  lon: 17.024719444444443
   altitude: 282.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -341,8 +337,8 @@
   time: 2024-01-17 08:45:42.000000000+01:00
 - image_filename: 2024_01_17__08_46_DJI_0979.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
+  lat: 52.584425
+  lon: 17.024719444444443
   altitude: 281.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -357,8 +353,8 @@
   time: 2024-01-17 08:46:26.000000000+01:00
 - image_filename: 2024_01_17__08_47_DJI_0981.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
+  lat: 52.583736111111115
+  lon: 17.02484722222222
   altitude: 278.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -371,26 +367,10 @@
   height: 6026
   camera: FC3582
   time: 2024-01-17 08:47:08.000000000+01:00
-- image_filename: 2024_01_17__08_47_DJI_0986.jpg
-  post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
-  altitude: 276.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 130
-  width: 8046
-  height: 6026
-  camera: FC3582
-  time: 2024-01-17 08:47:58.000000000+01:00
 - image_filename: 2024_01_17__08_47_DJI_0985.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
+  lat: 52.583819444444444
+  lon: 17.024794444444442
   altitude: 276.7
   focal_length: 6.7
   focal_length_35: 24.0
@@ -403,10 +383,26 @@
   height: 6026
   camera: FC3582
   time: 2024-01-17 08:47:49.000000000+01:00
+- image_filename: 2024_01_17__08_47_DJI_0986.jpg
+  post_slug: 2024-01-17-jeszcze-lepsza-zima
+  lat: 52.583844444444445
+  lon: 17.024805555555556
+  altitude: 276.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 130
+  width: 8046
+  height: 6026
+  camera: FC3582
+  time: 2024-01-17 08:47:58.000000000+01:00
 - image_filename: 2024_01_17__08_48_DJI_0989.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
+  lat: 52.58328055555556
+  lon: 17.02313611111111
   altitude: 260.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -421,8 +417,8 @@
   time: 2024-01-17 08:48:58.000000000+01:00
 - image_filename: 2024_01_17__08_49_DJI_0990.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
+  lat: 52.583283333333334
+  lon: 17.023133333333334
   altitude: 260.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -435,26 +431,10 @@
   height: 6015
   camera: FC3582
   time: 2024-01-17 08:49:10.000000000+01:00
-- image_filename: 2024_01_17__08_52_DJI_0996.jpg
-  post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
-  altitude: 260.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 120
-  width: 8046
-  height: 6026
-  camera: FC3582
-  time: 2024-01-17 08:52:25.000000000+01:00
 - image_filename: 2024_01_17__08_51_DJI_0993.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
+  lat: 52.58208611111112
+  lon: 17.021224999999998
   altitude: 260.1
   focal_length: 6.7
   focal_length_35: 24.0
@@ -467,10 +447,26 @@
   height: 6026
   camera: FC3582
   time: 2024-01-17 08:51:55.000000000+01:00
+- image_filename: 2024_01_17__08_52_DJI_0996.jpg
+  post_slug: 2024-01-17-jeszcze-lepsza-zima
+  lat: 52.58208888888889
+  lon: 17.021238888888888
+  altitude: 260.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 120
+  width: 8046
+  height: 6026
+  camera: FC3582
+  time: 2024-01-17 08:52:25.000000000+01:00
 - image_filename: 2024_01_17__08_53_DJI_0003.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
+  lat: 52.58218055555556
+  lon: 17.018805555555556
   altitude: 247.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -485,8 +481,8 @@
   time: 2024-01-17 08:53:47.000000000+01:00
 - image_filename: 2024_01_17__08_54_DJI_0008.jpg
   post_slug: 2024-01-17-jeszcze-lepsza-zima
-  lat: 52.583333333333336
-  lon: 17.016666666666666
+  lat: 52.58274166666667
+  lon: 17.020947222222222
   altitude: 293.0
   focal_length: 6.7
   focal_length_35: 24.0

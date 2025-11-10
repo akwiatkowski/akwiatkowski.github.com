@@ -1,63 +1,63 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-06-11-wokol-jezior-wolsztyna
-  lat: 52.1054325
-  lon: 16.09000861111111
-  altitude: 64.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-06-11 16:04:51+02:00
 - image_filename: IMGP1404raw1.jpg
   post_slug: 2016-06-11-wokol-jezior-wolsztyna
-  lat: 52.12034611111111
-  lon: 16.115759166666667
+  lat: 52.12034722222222
+  lon: 16.115758333333336
   altitude: 63.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-06-11 14:22:14+02:00
+  time: 2016-06-11 14:22:14.000000000+02:00
 - image_filename: IMGP1407raw1.jpg
   post_slug: 2016-06-11-wokol-jezior-wolsztyna
-  lat: 52.13310416666667
-  lon: 16.120153333333334
+  lat: 52.13310555555556
+  lon: 16.12015277777778
   altitude: 63.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-06-11 14:35:58+02:00
+  time: 2016-06-11 14:35:58.000000000+02:00
 - image_filename: IMGP1413raw1.jpg
   post_slug: 2016-06-11-wokol-jezior-wolsztyna
-  lat: 52.14378305555555
-  lon: 16.052326666666666
+  lat: 52.14378333333333
+  lon: 16.05232777777778
   altitude: 66.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-06-11 15:30:10+02:00
+  time: 2016-06-11 15:30:10.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-06-11-wokol-jezior-wolsztyna
+  lat: 52.10543333333334
+  lon: 16.090008333333333
+  altitude: 64.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 2000
+  height: 1326
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-06-11 16:04:51.000000000+02:00

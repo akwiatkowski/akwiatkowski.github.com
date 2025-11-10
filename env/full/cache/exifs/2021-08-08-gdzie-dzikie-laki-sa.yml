@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
 - image_filename: 2021_08_08__16_40__8084343.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.110236111111114
@@ -73,6 +71,24 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-08-08 16:58:55.000000000+02:00
+- image_filename: 2021_08_08__17_01__8084409.jpg
+  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
+  lat: 52.10420833333333
+  lon: 17.326
+  altitude: 61.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.59
+  iso: 200
+  width: 4506
+  height: 3175
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-08-08 17:01:24.000000000+02:00
 - image_filename: 2021_08_08__17_01__8084419.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.104194444444445
@@ -127,24 +143,6 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-08-08 17:06:50.000000000+02:00
-- image_filename: 2021_08_08__17_01__8084409.jpg
-  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.10420833333333
-  lon: 17.326
-  altitude: 61.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 2.59
-  iso: 200
-  width: 4506
-  height: 3175
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-08-08 17:01:24.000000000+02:00
 - image_filename: 2021_08_08__17_11__8084485.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.10294444444445
@@ -163,6 +161,24 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-08-08 17:11:04.000000000+02:00
+- image_filename: 2021_08_08__17_17__8084522.jpg
+  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
+  lat: 52.10152777777778
+  lon: 17.323833333333333
+  altitude: 64.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.15
+  iso: 320
+  width: 4772
+  height: 3285
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-08-08 17:17:04.000000000+02:00
 - image_filename: 2021_08_08__17_19__8084545.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.10120833333333
@@ -199,60 +215,6 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-08-08 17:21:53.000000000+02:00
-- image_filename: 2021_08_08__17_17__8084522.jpg
-  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.10152777777778
-  lon: 17.323833333333333
-  altitude: 64.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 2.15
-  iso: 320
-  width: 4772
-  height: 3285
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-08-08 17:17:04.000000000+02:00
-- image_filename: 2021_08_08__17_26__8084628.jpg
-  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.09923611111111
-  lon: 17.32525
-  altitude: 65.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5110
-  height: 3815
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-08 17:26:37.000000000+02:00
-- image_filename: 2021_08_08__17_26__8084625.jpg
-  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.099250000000005
-  lon: 17.32523611111111
-  altitude: 65.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 40.96
-  iso: 200
-  width: 3900
-  height: 5224
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-08 17:26:31.000000000+02:00
 - image_filename: 2021_08_08__17_22__8084620.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.10076388888889
@@ -271,6 +233,42 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-08-08 17:22:42.000000000+02:00
+- image_filename: 2021_08_08__17_26__8084625.jpg
+  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
+  lat: 52.099250000000005
+  lon: 17.32523611111111
+  altitude: 65.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 40.96
+  iso: 200
+  width: 3900
+  height: 5224
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-08 17:26:31.000000000+02:00
+- image_filename: 2021_08_08__17_26__8084628.jpg
+  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
+  lat: 52.09923611111111
+  lon: 17.32525
+  altitude: 65.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5110
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-08 17:26:37.000000000+02:00
 - image_filename: 2021_08_08__17_31__8084636.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.09759722222223
@@ -307,42 +305,6 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-08-08 17:33:49.000000000+02:00
-- image_filename: 2021_08_08__17_42__8084697.jpg
-  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.097458333333336
-  lon: 17.330166666666667
-  altitude: 65.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5093
-  height: 3802
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-08 17:42:17.000000000+02:00
-- image_filename: 2021_08_08__17_37__8084690.jpg
-  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.097833333333334
-  lon: 17.327694444444443
-  altitude: 66.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 29.59
-  iso: 200
-  width: 3876
-  height: 2649
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-08-08 17:37:23.000000000+02:00
 - image_filename: 2021_08_08__17_34__8084672.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.09763888888889
@@ -361,42 +323,42 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-08-08 17:34:48.000000000+02:00
-- image_filename: 2021_08_08__17_52__8084719.jpg
+- image_filename: 2021_08_08__17_37__8084690.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.09506944444445
-  lon: 17.333319444444445
-  altitude: 63.0
+  lat: 52.097833333333334
+  lon: 17.327694444444443
+  altitude: 66.0
   focal_length: 420.0
   focal_length_35: 840.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1.5
+  aperture: 10.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 29.59
   iso: 200
-  width: 3129
-  height: 2171
+  width: 3876
+  height: 2649
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
-  time: 2021-08-08 17:52:18.000000000+02:00
-- image_filename: 2021_08_08__17_56__8084736.jpg
+  time: 2021-08-08 17:37:23.000000000+02:00
+- image_filename: 2021_08_08__17_42__8084697.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.09505555555556
-  lon: 17.333222222222222
-  altitude: 63.0
-  focal_length: 420.0
-  focal_length_35: 840.0
+  lat: 52.097458333333336
+  lon: 17.330166666666667
+  altitude: 65.0
+  focal_length: 16.0
+  focal_length_35: 32.0
   crop: 2.0
   aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1.4
-  iso: 640
-  width: 4377
-  height: 3055
-  lens: M.300mm F4.0 + MC-14
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5093
+  height: 3802
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-08-08 17:56:25.000000000+02:00
+  time: 2021-08-08 17:42:17.000000000+02:00
 - image_filename: 2021_08_08__17_51__8084704.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.09506944444445
@@ -415,6 +377,24 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-08-08 17:51:32.000000000+02:00
+- image_filename: 2021_08_08__17_52__8084719.jpg
+  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
+  lat: 52.09506944444445
+  lon: 17.333319444444445
+  altitude: 63.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.5
+  iso: 200
+  width: 3129
+  height: 2171
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-08-08 17:52:18.000000000+02:00
 - image_filename: 2021_08_08__17_55__8084730.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.09506944444445
@@ -433,6 +413,24 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-08-08 17:55:13.000000000+02:00
+- image_filename: 2021_08_08__17_56__8084736.jpg
+  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
+  lat: 52.09505555555556
+  lon: 17.333222222222222
+  altitude: 63.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.4
+  iso: 640
+  width: 4377
+  height: 3055
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-08-08 17:56:25.000000000+02:00
 - image_filename: 2021_08_08__18_01__8084785.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.095194444444445
@@ -486,23 +484,6 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-08-08 18:08:13.000000000+02:00
-- image_filename: 2021_08_08__18_09_DSC04624.jpg
-  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.09505555555556
-  lon: 17.333166666666667
-  altitude: 65.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 5743
-  height: 3637
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  time: 2021-08-08 18:09:01.000000000+02:00
 - image_filename: 2021_08_08__18_08_DSC04615.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.09506944444445
@@ -520,23 +501,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-08-08 18:08:34.000000000+02:00
-- image_filename: 2021_08_08__18_09_DSC04638.jpg
+- image_filename: 2021_08_08__18_09_DSC04624.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.09505555555556
-  lon: 17.333180555555554
+  lon: 17.333166666666667
   altitude: 65.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  exposure: 0.0005
-  exposure_string: 1/2000 s
+  exposure: 0.0008
+  exposure_string: 1/1250 s
   iso: 100
-  width: 6047
-  height: 4023
+  width: 5743
+  height: 3637
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  time: 2021-08-08 18:09:46.000000000+02:00
+  time: 2021-08-08 18:09:01.000000000+02:00
 - image_filename: 2021_08_08__18_09_DSC04637.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.09505555555556
@@ -554,6 +535,23 @@
   lens: FE 85mm F1.8
   camera: ILCE-7M3
   time: 2021-08-08 18:09:44.000000000+02:00
+- image_filename: 2021_08_08__18_09_DSC04638.jpg
+  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
+  lat: 52.09505555555556
+  lon: 17.333180555555554
+  altitude: 65.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-08-08 18:09:46.000000000+02:00
 - image_filename: 2021_08_08__18_10_DSC04657.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.095083333333335
@@ -766,24 +764,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkII
   time: 2021-08-08 19:04:25.000000000+02:00
-- image_filename: 2021_08_08__19_07__8085129.jpg
-  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
-  lat: 52.103180555555554
-  lon: 17.327666666666666
-  altitude: 65.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 9.69
-  iso: 200
-  width: 4058
-  height: 2902
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkII
-  time: 2021-08-08 19:07:57.000000000+02:00
 - image_filename: 2021_08_08__19_07__8085123.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.103180555555554
@@ -802,6 +782,24 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkII
   time: 2021-08-08 19:07:45.000000000+02:00
+- image_filename: 2021_08_08__19_07__8085129.jpg
+  post_slug: 2021-08-08-gdzie-dzikie-laki-sa
+  lat: 52.103180555555554
+  lon: 17.327666666666666
+  altitude: 65.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 9.69
+  iso: 200
+  width: 4058
+  height: 2902
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkII
+  time: 2021-08-08 19:07:57.000000000+02:00
 - image_filename: 2021_08_08__19_09__8085162.jpg
   post_slug: 2021-08-08-gdzie-dzikie-laki-sa
   lat: 52.10325

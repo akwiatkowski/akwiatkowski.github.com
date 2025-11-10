@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
 - image_filename: 2021_03_21__11_10_DSC07657.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.307513888888884
@@ -52,23 +50,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-03-21 11:11:27.000000000+01:00
-- image_filename: 2021_03_21__11_12_DSC07750.jpg
-  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
-  lat: 50.30734722222222
-  lon: 17.519041666666666
-  altitude: 281.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-03-21 11:12:01.000000000+01:00
 - image_filename: 2021_03_21__11_11_DSC07698.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.307361111111106
@@ -86,6 +67,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-03-21 11:11:33.000000000+01:00
+- image_filename: 2021_03_21__11_12_DSC07750.jpg
+  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
+  lat: 50.30734722222222
+  lon: 17.519041666666666
+  altitude: 281.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-21 11:12:01.000000000+01:00
 - image_filename: 2021_03_21__11_12_DSC07796.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.30734722222222
@@ -121,23 +119,6 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-03-21 11:23:41.000000000+01:00
-- image_filename: 2021_03_21__11_42_DSC07833.jpg
-  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
-  lat: 50.35413888888889
-  lon: 17.609375
-  altitude: 243.0
-  focal_length: 56.0
-  focal_length_35: 56.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5518
-  height: 3671
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-03-21 11:42:22.000000000+01:00
 - image_filename: 2021_03_21__11_35_DSC07827.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.343875000000004
@@ -173,6 +154,23 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-03-21 11:41:01.000000000+01:00
+- image_filename: 2021_03_21__11_42_DSC07833.jpg
+  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
+  lat: 50.35413888888889
+  lon: 17.609375
+  altitude: 243.0
+  focal_length: 56.0
+  focal_length_35: 56.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5518
+  height: 3671
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-21 11:42:22.000000000+01:00
 - image_filename: 2021_03_21__11_53__3212182.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.377805555555554
@@ -191,23 +189,6 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-03-21 11:53:31.000000000+01:00
-- image_filename: 2021_03_21__11_59_DSC07849.jpg
-  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
-  lat: 50.38494444444444
-  lon: 17.65951388888889
-  altitude: 232.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5702
-  height: 3794
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-03-21 11:59:17.000000000+01:00
 - image_filename: 2021_03_21__11_53__3212187.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.3785
@@ -226,6 +207,23 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-03-21 11:53:51.000000000+01:00
+- image_filename: 2021_03_21__11_59_DSC07849.jpg
+  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
+  lat: 50.38494444444444
+  lon: 17.65951388888889
+  altitude: 232.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5702
+  height: 3794
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-21 11:59:17.000000000+01:00
 - image_filename: 2021_03_21__11_59_DSC07854.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.38498611111111
@@ -294,6 +292,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-03-21 12:20:39.000000000+01:00
+- image_filename: 2021_03_21__12_30_DSC07898.jpg
+  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
+  lat: 50.46425
+  lon: 17.694416666666665
+  altitude: 182.0
+  focal_length: 48.0
+  focal_length_35: 48.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5385
+  height: 3373
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-21 12:30:46.000000000+01:00
 - image_filename: 2021_03_21__13_23__3212208.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.43908333333333
@@ -312,41 +327,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-03-21 13:23:46.000000000+01:00
-- image_filename: 2021_03_21__12_30_DSC07898.jpg
-  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
-  lat: 50.46425
-  lon: 17.694416666666665
-  altitude: 182.0
-  focal_length: 48.0
-  focal_length_35: 48.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 5385
-  height: 3373
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-03-21 12:30:46.000000000+01:00
-- image_filename: 2021_03_21__13_37__3212239.jpg
-  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
-  lat: 50.441180555555555
-  lon: 17.767444444444443
-  altitude: 185.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 33.23
-  iso: 200
-  width: 5132
-  height: 3831
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-21 13:37:48.000000000+01:00
 - image_filename: 2021_03_21__13_36__3212235.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.441069444444445
@@ -365,24 +345,24 @@
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   time: 2021-03-21 13:36:03.000000000+01:00
-- image_filename: 2021_03_21__14_11__3212271.jpg
+- image_filename: 2021_03_21__13_37__3212239.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
-  lat: 50.439611111111105
-  lon: 17.768555555555555
-  altitude: 188.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 50.441180555555555
+  lon: 17.767444444444443
+  altitude: 185.0
+  focal_length: 34.0
+  focal_length_35: 68.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.1
-  exposure_string: 1/10 s
-  focus_distance: 6.24
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 33.23
   iso: 200
-  width: 5239
-  height: 3911
+  width: 5132
+  height: 3831
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-03-21 14:11:30.000000000+01:00
+  time: 2021-03-21 13:37:48.000000000+01:00
 - image_filename: 2021_03_21__13_46__3212243.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.44097222222222
@@ -401,6 +381,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-03-21 13:46:01.000000000+01:00
+- image_filename: 2021_03_21__14_11__3212271.jpg
+  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
+  lat: 50.439611111111105
+  lon: 17.768555555555555
+  altitude: 188.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 6.24
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-21 14:11:30.000000000+01:00
+- image_filename: 2021_03_21__14_14__3212276.jpg
+  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
+  lat: 50.43888888888888
+  lon: 17.768208333333334
+  altitude: 188.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.03
+  iso: 200
+  width: 4332
+  height: 3347
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-21 14:14:51.000000000+01:00
 - image_filename: 2021_03_21__14_15__3212278.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.43888888888888
@@ -436,41 +452,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-03-21 15:09:01.000000000+01:00
-- image_filename: 2021_03_21__14_14__3212276.jpg
-  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
-  lat: 50.43888888888888
-  lon: 17.768208333333334
-  altitude: 188.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.03
-  iso: 200
-  width: 4332
-  height: 3347
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-03-21 14:14:51.000000000+01:00
-- image_filename: 2021_03_21__15_11_DSC07923.jpg
-  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
-  lat: 50.602805555555555
-  lon: 17.862569444444446
-  altitude: 170.0
-  focal_length: 66.0
-  focal_length_35: 66.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5954
-  height: 3961
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-03-21 15:11:46.000000000+01:00
 - image_filename: 2021_03_21__15_10_DSC07918.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.602916666666665
@@ -488,6 +469,23 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-03-21 15:10:56.000000000+01:00
+- image_filename: 2021_03_21__15_11_DSC07923.jpg
+  post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
+  lat: 50.602805555555555
+  lon: 17.862569444444446
+  altitude: 170.0
+  focal_length: 66.0
+  focal_length_35: 66.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5954
+  height: 3961
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-21 15:11:46.000000000+01:00
 - image_filename: 2021_03_21__15_51_DSC07937.jpg
   post_slug: 2021-03-21-deszczowa-eksploracja-opolskiego
   lat: 50.66884722222222

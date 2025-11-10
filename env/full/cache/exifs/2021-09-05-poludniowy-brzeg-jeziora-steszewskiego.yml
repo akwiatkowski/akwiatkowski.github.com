@@ -1,184 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-- image_filename: 2021_09_05__18_26__9050251.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.496097222222225
-  lon: 17.18427777777778
-  altitude: 109.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 19.98
-  iso: 200
-  width: 5213
-  height: 3892
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-05 18:26:37.000000000+02:00
-- image_filename: 2021_09_05__18_06__9050209.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.508208333333336
-  lon: 17.18116666666667
-  altitude: 108.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1.8
-  iso: 200
-  width: 4017
-  height: 3056
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 18:06:17.000000000+02:00
-- image_filename: 2021_09_05__17_51__9050183.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.510777777777776
-  lon: 17.180041666666668
-  altitude: 115.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.1
-  exposure_string: 1/10 s
-  focus_distance: 26.38
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-05 17:51:01.000000000+02:00
-- image_filename: 2021_09_05__17_52_DSC07747.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.509902777777775
-  lon: 17.18038888888889
-  altitude: 115.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-05 17:52:55.000000000+02:00
-- image_filename: 2021_09_05__16_35__9050012.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.515680555555555
-  lon: 17.143361111111112
-  altitude: 120.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1.74
-  iso: 200
-  width: 4414
-  height: 3335
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 16:35:33.000000000+02:00
-- image_filename: 2021_09_05__18_20__9050245.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.50040277777778
-  lon: 17.184
-  altitude: 110.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 1.83
-  iso: 640
-  width: 3684
-  height: 3001
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 18:20:19.000000000+02:00
-- image_filename: 2021_09_05__16_56__9050058.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.514069444444445
-  lon: 17.157958333333333
-  altitude: 115.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 2.66
-  iso: 3200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 16:56:14.000000000+02:00
-- image_filename: 2021_09_05__17_52_DSC07746.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.50988888888889
-  lon: 17.18036111111111
-  altitude: 115.0
-  focal_length: 51.0
-  focal_length_35: 51.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  iso: 100
-  width: 5751
-  height: 3826
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-05 17:52:48.000000000+02:00
-- image_filename: 2021_09_05__18_29__9050256.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.49541666666667
-  lon: 17.18576388888889
-  altitude: 108.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 14.77
-  iso: 200
-  width: 4801
-  height: 3515
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 18:29:28.000000000+02:00
-- image_filename: 2021_09_05__16_35__9050017.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.515625
-  lon: 17.143597222222223
-  altitude: 120.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 2.87
-  iso: 200
-  width: 3543
-  height: 2657
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 16:35:47.000000000+02:00
 - image_filename: 2021_09_05__16_34__9050005.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
   lat: 52.51572222222222
@@ -197,257 +17,42 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-09-05 16:34:22.000000000+02:00
-- image_filename: 2021_09_05__18_12__9050232.jpg
+- image_filename: 2021_09_05__16_35__9050012.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.50493055555555
-  lon: 17.182180555555558
-  altitude: 108.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 14.35
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 18:12:32.000000000+02:00
-- image_filename: 2021_09_05__17_28__9050154.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.51577777777778
-  lon: 17.169458333333335
-  altitude: 111.0
+  lat: 52.515680555555555
+  lon: 17.143361111111112
+  altitude: 120.0
   focal_length: 420.0
   focal_length_35: 840.0
   crop: 2.0
   aperture: 6.3
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 4.06
-  iso: 640
-  width: 3912
-  height: 5240
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.74
+  iso: 200
+  width: 4414
+  height: 3335
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
-  time: 2021-09-05 17:28:00.000000000+02:00
-- image_filename: 2021_09_05__17_46__9050178.jpg
+  time: 2021-09-05 16:35:33.000000000+02:00
+- image_filename: 2021_09_05__16_35__9050017.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.51295833333333
-  lon: 17.17851388888889
-  altitude: 108.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 2.86
-  iso: 200
-  width: 5158
-  height: 3851
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-05 17:46:09.000000000+02:00
-- image_filename: 2021_09_05__18_04__9050205.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.50776388888889
-  lon: 17.181208333333334
-  altitude: 109.0
+  lat: 52.515625
+  lon: 17.143597222222223
+  altitude: 120.0
   focal_length: 420.0
   focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 50.08
-  iso: 200
-  width: 5065
-  height: 3781
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 18:04:18.000000000+02:00
-- image_filename: 2021_09_05__19_21__9050280.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.48401388888889
-  lon: 17.208416666666665
-  altitude: 105.0
-  focal_length: 100.0
-  focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 72.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.87
   iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-05 19:21:14.000000000+02:00
-- image_filename: 2021_09_05__16_47__9050035.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.51368055555555
-  lon: 17.15273611111111
-  altitude: 119.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 1.73
-  iso: 800
-  width: 5240
-  height: 3912
+  width: 3543
+  height: 2657
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
-  time: 2021-09-05 16:47:53.000000000+02:00
-- image_filename: 2021_09_05__16_59__9050066.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.513666666666666
-  lon: 17.159916666666664
-  altitude: 113.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.1
-  exposure_string: 1/10 s
-  focus_distance: 1000.0
-  iso: 250
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-05 16:59:28.000000000+02:00
-- image_filename: 2021_09_05__18_10__9050227.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.50629166666667
-  lon: 17.18175
-  altitude: 109.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 65.46
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 18:10:29.000000000+02:00
-- image_filename: 2021_09_05__18_08__9050222.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.5075
-  lon: 17.181305555555557
-  altitude: 109.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.43
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 18:08:13.000000000+02:00
-- image_filename: 2021_09_05__17_20__9050134.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.514625
-  lon: 17.167583333333333
-  altitude: 110.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 24.99
-  iso: 200
-  width: 3661
-  height: 4935
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 17:20:50.000000000+02:00
-- image_filename: 2021_09_05__16_52__9050053.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.51351388888889
-  lon: 17.155430555555554
-  altitude: 115.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 3.89
-  iso: 200
-  width: 4279
-  height: 3172
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 16:52:37.000000000+02:00
-- image_filename: 2021_09_05__17_48_DSC07729.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.51173611111111
-  lon: 17.179430555555555
-  altitude: 114.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-05 17:48:50.000000000+02:00
-- image_filename: 2021_09_05__17_52__9050187.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.51
-  lon: 17.18027777777778
-  altitude: 115.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 21.67
-  iso: 200
-  width: 5042
-  height: 3764
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-05 17:52:29.000000000+02:00
-- image_filename: 2021_09_05__19_15__9050277.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.485083333333336
-  lon: 17.209333333333333
-  altitude: 106.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 51.85
-  iso: 200
-  width: 5046
-  height: 3767
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-09-05 19:15:47.000000000+02:00
+  time: 2021-09-05 16:35:47.000000000+02:00
 - image_filename: 2021_09_05__16_40__9050024.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
   lat: 52.51452777777778
@@ -466,6 +71,78 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-09-05 16:40:43.000000000+02:00
+- image_filename: 2021_09_05__16_47__9050035.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.51368055555555
+  lon: 17.15273611111111
+  altitude: 119.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.73
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 16:47:53.000000000+02:00
+- image_filename: 2021_09_05__16_52__9050053.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.51351388888889
+  lon: 17.155430555555554
+  altitude: 115.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 3.89
+  iso: 200
+  width: 4279
+  height: 3172
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 16:52:37.000000000+02:00
+- image_filename: 2021_09_05__16_56__9050058.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.514069444444445
+  lon: 17.157958333333333
+  altitude: 115.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.66
+  iso: 3200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 16:56:14.000000000+02:00
+- image_filename: 2021_09_05__16_59__9050066.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.513666666666666
+  lon: 17.159916666666664
+  altitude: 113.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-05 16:59:28.000000000+02:00
 - image_filename: 2021_09_05__17_09__9050105.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
   lat: 52.51265277777778
@@ -484,59 +161,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-05 17:09:41.000000000+02:00
-- image_filename: 2021_09_05__17_22__9050140.jpg
+- image_filename: 2021_09_05__17_18__9050131.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.51459722222222
-  lon: 17.167527777777778
-  altitude: 110.0
+  lat: 52.514375
+  lon: 17.1675
+  altitude: 111.0
   focal_length: 420.0
   focal_length_35: 840.0
   crop: 2.0
-  aperture: 8.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 5.13
-  iso: 200
-  width: 3857
-  height: 5166
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkII
-  time: 2021-09-05 17:22:22.000000000+02:00
-- image_filename: 2021_09_05__17_48_DSC07727.jpg
-  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.51179166666667
-  lon: 17.179166666666667
-  altitude: 112.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
+  aperture: 5.6
   exposure: 0.004
   exposure_string: 1/250 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-09-05 17:48:33.000000000+02:00
-- image_filename: 2021_09_05__17_22__9050141.jpg
+  focus_distance: 17.01
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 17:18:45.000000000+02:00
+- image_filename: 2021_09_05__17_20__9050134.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.514583333333334
-  lon: 17.167527777777778
+  lat: 52.514625
+  lon: 17.167583333333333
   altitude: 110.0
   focal_length: 420.0
   focal_length_35: 840.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 7.61
+  aperture: 9.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 24.99
   iso: 200
-  width: 5125
-  height: 3826
+  width: 3661
+  height: 4935
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
-  time: 2021-09-05 17:22:29.000000000+02:00
+  time: 2021-09-05 17:20:50.000000000+02:00
 - image_filename: 2021_09_05__17_21__9050137.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
   lat: 52.51463888888889
@@ -555,42 +215,218 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-09-05 17:21:49.000000000+02:00
-- image_filename: 2021_09_05__18_56__9050276.jpg
+- image_filename: 2021_09_05__17_22__9050140.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.49023611111111
-  lon: 17.206291666666665
-  altitude: 105.0
-  focal_length: 44.0
-  focal_length_35: 88.0
+  lat: 52.51459722222222
+  lon: 17.167527777777778
+  altitude: 110.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 5.13
+  iso: 200
+  width: 3857
+  height: 5166
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 17:22:22.000000000+02:00
+- image_filename: 2021_09_05__17_22__9050141.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.514583333333334
+  lon: 17.167527777777778
+  altitude: 110.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 7.61
+  iso: 200
+  width: 5125
+  height: 3826
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 17:22:29.000000000+02:00
+- image_filename: 2021_09_05__17_24__9050143.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.514944444444446
+  lon: 17.16775
+  altitude: 111.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 13.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 17:24:11.000000000+02:00
+- image_filename: 2021_09_05__17_28__9050154.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.51577777777778
+  lon: 17.169458333333335
+  altitude: 111.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 4.06
+  iso: 640
+  width: 3912
+  height: 5240
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 17:28:00.000000000+02:00
+- image_filename: 2021_09_05__17_33__9050161.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.51566666666667
+  lon: 17.172847222222224
+  altitude: 110.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1.8
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 17:33:09.000000000+02:00
+- image_filename: 2021_09_05__17_46__9050178.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.51295833333333
+  lon: 17.17851388888889
+  altitude: 108.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 2.86
+  iso: 200
+  width: 5158
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-05 17:46:09.000000000+02:00
+- image_filename: 2021_09_05__17_48_DSC07727.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.51179166666667
+  lon: 17.179166666666667
+  altitude: 112.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-05 17:48:33.000000000+02:00
+- image_filename: 2021_09_05__17_48_DSC07729.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.51173611111111
+  lon: 17.179430555555555
+  altitude: 114.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-05 17:48:50.000000000+02:00
+- image_filename: 2021_09_05__17_51__9050183.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.510777777777776
+  lon: 17.180041666666668
+  altitude: 115.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.04
-  exposure_string: 1/25 s
-  focus_distance: 17.07
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 26.38
   iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-09-05 18:56:39.000000000+02:00
-- image_filename: 2021_09_05__18_10__9050228_01.jpg
+  time: 2021-09-05 17:51:01.000000000+02:00
+- image_filename: 2021_09_05__17_52_DSC07746.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.50625
-  lon: 17.18179166666667
-  altitude: 109.0
-  focal_length: 420.0
-  focal_length_35: 840.0
+  lat: 52.50988888888889
+  lon: 17.18036111111111
+  altitude: 115.0
+  focal_length: 51.0
+  focal_length_35: 51.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 100
+  width: 5751
+  height: 3826
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-05 17:52:48.000000000+02:00
+- image_filename: 2021_09_05__17_52_DSC07747.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.509902777777775
+  lon: 17.18038888888889
+  altitude: 115.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-09-05 17:52:55.000000000+02:00
+- image_filename: 2021_09_05__17_52__9050187.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.51
+  lon: 17.18027777777778
+  altitude: 115.0
+  focal_length: 54.0
+  focal_length_35: 108.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 1000.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 21.67
   iso: 200
-  width: 5182
-  height: 3846
-  lens: M.300mm F4.0 + MC-14
+  width: 5042
+  height: 3764
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-09-05 18:10:35.000000000+02:00
+  time: 2021-09-05 17:52:29.000000000+02:00
 - image_filename: 2021_09_05__18_02__9050199.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
   lat: 52.508
@@ -627,24 +463,168 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
   time: 2021-09-05 18:03:04.000000000+02:00
-- image_filename: 2021_09_05__17_18__9050131.jpg
+- image_filename: 2021_09_05__18_04__9050205.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.514375
-  lon: 17.1675
-  altitude: 111.0
+  lat: 52.50776388888889
+  lon: 17.181208333333334
+  altitude: 109.0
   focal_length: 420.0
   focal_length_35: 840.0
   crop: 2.0
   aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 17.01
-  iso: 800
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 50.08
+  iso: 200
+  width: 5065
+  height: 3781
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 18:04:18.000000000+02:00
+- image_filename: 2021_09_05__18_06__9050209.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.508208333333336
+  lon: 17.18116666666667
+  altitude: 108.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.8
+  iso: 200
+  width: 4017
+  height: 3056
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 18:06:17.000000000+02:00
+- image_filename: 2021_09_05__18_08__9050222.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.5075
+  lon: 17.181305555555557
+  altitude: 109.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.43
+  iso: 200
   width: 5240
   height: 3912
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkII
-  time: 2021-09-05 17:18:45.000000000+02:00
+  time: 2021-09-05 18:08:13.000000000+02:00
+- image_filename: 2021_09_05__18_10__9050227.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.50629166666667
+  lon: 17.18175
+  altitude: 109.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 65.46
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 18:10:29.000000000+02:00
+- image_filename: 2021_09_05__18_10__9050228_01.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.50625
+  lon: 17.18179166666667
+  altitude: 109.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5182
+  height: 3846
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 18:10:35.000000000+02:00
+- image_filename: 2021_09_05__18_12__9050232.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.50493055555555
+  lon: 17.182180555555558
+  altitude: 108.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 14.35
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 18:12:32.000000000+02:00
+- image_filename: 2021_09_05__18_20__9050245.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.50040277777778
+  lon: 17.184
+  altitude: 110.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1.83
+  iso: 640
+  width: 3684
+  height: 3001
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 18:20:19.000000000+02:00
+- image_filename: 2021_09_05__18_26__9050251.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.496097222222225
+  lon: 17.18427777777778
+  altitude: 109.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 19.98
+  iso: 200
+  width: 5213
+  height: 3892
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-05 18:26:37.000000000+02:00
+- image_filename: 2021_09_05__18_29__9050256.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.49541666666667
+  lon: 17.18576388888889
+  altitude: 108.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 14.77
+  iso: 200
+  width: 4801
+  height: 3515
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkII
+  time: 2021-09-05 18:29:28.000000000+02:00
 - image_filename: 2021_09_05__18_42__9050271.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
   lat: 52.49422222222222
@@ -681,39 +661,57 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-09-05 18:44:29.000000000+02:00
-- image_filename: 2021_09_05__17_33__9050161.jpg
+- image_filename: 2021_09_05__18_56__9050276.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.51566666666667
-  lon: 17.172847222222224
-  altitude: 110.0
-  focal_length: 420.0
-  focal_length_35: 840.0
+  lat: 52.49023611111111
+  lon: 17.206291666666665
+  altitude: 105.0
+  focal_length: 44.0
+  focal_length_35: 88.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 1.8
-  iso: 640
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 17.07
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-09-05 17:33:09.000000000+02:00
-- image_filename: 2021_09_05__17_24__9050143.jpg
+  time: 2021-09-05 18:56:39.000000000+02:00
+- image_filename: 2021_09_05__19_15__9050277.jpg
   post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
-  lat: 52.514944444444446
-  lon: 17.16775
-  altitude: 111.0
-  focal_length: 420.0
-  focal_length_35: 840.0
+  lat: 52.485083333333336
+  lon: 17.209333333333333
+  altitude: 106.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.6
+  aperture: 4.0
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
-  focus_distance: 13.44
+  focus_distance: 51.85
   iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
+  width: 5046
+  height: 3767
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-09-05 17:24:11.000000000+02:00
+  time: 2021-09-05 19:15:47.000000000+02:00
+- image_filename: 2021_09_05__19_21__9050280.jpg
+  post_slug: 2021-09-05-poludniowy-brzeg-jeziora-steszewskiego
+  lat: 52.48401388888889
+  lon: 17.208416666666665
+  altitude: 105.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 72.5
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-09-05 19:21:14.000000000+02:00

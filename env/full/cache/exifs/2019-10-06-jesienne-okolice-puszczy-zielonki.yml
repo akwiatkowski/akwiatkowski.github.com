@@ -1,403 +1,4 @@
 ---
-- image_filename: 2019_10_06__17_31__A060219.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50394444444444
-  lon: 16.994027777777777
-  altitude: 73.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5138
-  height: 3836
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-10-06 17:31:44+02:00
-  focus_distance: 5.72
-- image_filename: 2019_10_06__14_48__A060020.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55972222222222
-  lon: 17.013472222222223
-  altitude: 47.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-10-06 14:48:37+02:00
-  focus_distance: 43.57
-- image_filename: 2019_10_06__15_09_DSC00814.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55727777777778
-  lon: 17.011541666666666
-  altitude: 57.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 160
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-10-06 15:09:56+02:00
-- image_filename: 2019_10_06__15_14_DSC00834.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55730555555555
-  lon: 17.010347222222222
-  altitude: 59.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-10-06 15:14:35+02:00
-- image_filename: 2019_10_06__15_16_DSC00844.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55744444444444
-  lon: 17.00990277777778
-  altitude: 55.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-10-06 15:16:11+02:00
-- image_filename: 2019_10_06__15_29__A060118.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.559374999999996
-  lon: 17.008777777777777
-  altitude: 54.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 640
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4275
-  height: 3005
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-10-06 15:29:57+02:00
-  focus_distance: 0.75
-- image_filename: 2019_10_06__15_40_DSC00871.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.560402777777774
-  lon: 17.008680555555557
-  altitude: 55.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-10-06 15:40:54+02:00
-- image_filename: 2019_10_06__17_40__A060233.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50077777777778
-  lon: 16.999236111111113
-  altitude: 79.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-10-06 17:40:08+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_10_06__17_42_DSC00897.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50072222222222
-  lon: 17.000791666666668
-  altitude: 82.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 7.1
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6940
-  height: 4635
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-10-06 17:42:48+02:00
-- image_filename: 2019_10_06__18_09__A060303.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50486111111111
-  lon: 16.992708333333333
-  altitude: 74.0
-  focal_length: 175.0
-  focal_length_35: 350.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5108
-  height: 3753
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-10-06 18:09:51+02:00
-  focus_distance: 53.89
-- image_filename: 2019_10_06__16_58_DSC00882.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7246
-  height: 4736
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2019-10-06 16:58:34+02:00
-- image_filename: 2019_10_06__17_01__A060163.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.575944444444445
-  lon: 17.010430555555555
-  altitude: 70.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-10-06 17:01:08+02:00
-  focus_distance: 11.43
-- image_filename: 2019_10_06__15_12_DSC00828.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55733333333333
-  lon: 17.011555555555557
-  altitude: 58.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-10-06 15:12:09+02:00
-- image_filename: 2019_10_06__15_38_DSC00864.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.560125
-  lon: 17.008708333333335
-  altitude: 56.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-10-06 15:38:01+02:00
-- image_filename: 2019_10_06__15_16_DSC00843.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55745833333333
-  lon: 17.00990277777778
-  altitude: 55.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-10-06 15:16:02+02:00
-- image_filename: 2019_10_06__18_09__A060300.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50481944444444
-  lon: 16.992708333333333
-  altitude: 74.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-10-06 18:09:28+02:00
-  focus_distance: 8.06
-- image_filename: 2019_10_06__18_00__A060285.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50176388888889
-  lon: 16.997305555555556
-  altitude: 69.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5026
-  height: 3752
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-10-06 18:00:59+02:00
-  focus_distance: 85.33
-- image_filename: 2019_10_06__18_13__A060318.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50711111111111
-  lon: 16.991444444444447
-  altitude: 71.0
-  focal_length: 155.0
-  focal_length_35: 310.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4966
-  height: 3708
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-10-06 18:13:45+02:00
-  focus_distance: 49.95
-- image_filename: 2019_10_06__17_41_DSC00892.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50038888888889
-  lon: 17.000055555555555
-  altitude: 82.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-10-06 17:41:00+02:00
-- image_filename: 2019_10_06__18_16__A060325.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50845833333333
-  lon: 16.99073611111111
-  altitude: 67.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5184
-  height: 3870
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-10-06 18:16:07+02:00
-  focus_distance: 113.78
-- image_filename: 2019_10_06__18_05__A060296.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50333333333333
-  lon: 16.99488888888889
-  altitude: 69.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 640
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-10-06 18:05:12+02:00
-  focus_distance: 1.1
-- image_filename: 2019_10_06__15_40_DSC00870.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.56020833333333
-  lon: 17.008694444444444
-  altitude: 56.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-10-06 15:40:19+02:00
-- image_filename: 2019_10_06__15_17_DSC00850.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55744444444444
-  lon: 17.009708333333332
-  altitude: 54.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 125
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-10-06 15:17:48+02:00
 - image_filename: 2019_10_06__14_36__A060002.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
   lat: 52.56419444444444
@@ -407,262 +8,33 @@
   focal_length_35: 34.0
   crop: 2.0
   aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5141
   height: 3847
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-10-06 14:36:48+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_10_06__15_07__A060072.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55734722222222
-  lon: 17.012041666666665
-  altitude: 58.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-10-06 15:07:12+02:00
-  focus_distance: 18.45
-- image_filename: 2019_10_06__15_19_DSC00856.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.557513888888884
-  lon: 17.009527777777777
-  altitude: 56.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-10-06 15:19:25+02:00
-- image_filename: 2019_10_06__18_09__A060301.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50483333333333
-  lon: 16.992708333333333
-  altitude: 74.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2019-10-06 18:09:32+02:00
-  focus_distance: 7.64
-- image_filename: 2019_10_06__15_31__A060128.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55936111111111
-  lon: 17.008777777777777
-  altitude: 54.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 640
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-10-06 15:31:05+02:00
-  focus_distance: 0.7
-- image_filename: 2019_10_06__15_15_DSC00839.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55744444444444
-  lon: 17.01002777777778
-  altitude: 57.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-10-06 15:15:31+02:00
-- image_filename: 2019_10_06__18_12__A060313.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.506194444444446
-  lon: 16.99191666666667
-  altitude: 73.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4991
-  height: 3744
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-10-06 18:12:04+02:00
-  focus_distance: 124.12
-- image_filename: 2019_10_06__17_38_DSC00891.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.501194444444444
-  lon: 16.99840277777778
-  altitude: 74.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7122
-  height: 4757
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-10-06 17:38:48+02:00
-- image_filename: 2019_10_06__17_48_DSC00900.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50148611111111
-  lon: 17.002222222222223
-  altitude: 82.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7150
-  height: 4776
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-10-06 17:48:13+02:00
-- image_filename: 2019_10_06__18_13__A060316.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50675
-  lon: 16.99163888888889
-  altitude: 72.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5098
-  height: 3806
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2019-10-06 18:13:14+02:00
-  focus_distance: 26.42
-- image_filename: 2019_10_06__15_25__A060081.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55938888888888
-  lon: 17.008777777777777
-  altitude: 55.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-10-06 15:25:07+02:00
-  focus_distance: 0.88
-- image_filename: 2019_10_06__17_27__A060199.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.505
-  lon: 16.992652777777778
-  altitude: 76.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-10-06 17:27:44+02:00
-  focus_distance: 101.76
-- image_filename: 2019_10_06__15_20_DSC00858.jpg
+  time: 2019-10-06 14:36:48.000000000+02:00
+- image_filename: 2019_10_06__14_48__A060020.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55784722222222
-  lon: 17.009375
-  altitude: 56.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-10-06 15:20:05+02:00
-- image_filename: 2019_10_06__15_26__A060099.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.55936111111111
-  lon: 17.00876388888889
-  altitude: 55.0
+  lat: 52.55972222222222
+  lon: 17.013472222222223
+  altitude: 47.0
   focal_length: 210.0
   focal_length_35: 420.0
   crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4377
-  height: 3292
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-10-06 15:26:36+02:00
-  focus_distance: 1.26
-- image_filename: 2019_10_06__17_55__A060272.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50031944444444
-  lon: 17.00122222222222
-  altitude: 82.0
-  focal_length: 90.0
-  focal_length_35: 180.0
-  crop: 2.0
-  aperture: 4.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 43.57
   iso: 200
+  width: 5240
+  height: 3912
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5052
-  height: 3772
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2019-10-06 17:55:22+02:00
-  focus_distance: 8.62
+  time: 2019-10-06 14:48:37.000000000+02:00
 - image_filename: 2019_10_06__14_48__A060022.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
   lat: 52.55970833333333
@@ -672,15 +44,15 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2019-10-06 14:48:53+02:00
   focus_distance: 43.57
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 14:48:53.000000000+02:00
 - image_filename: 2019_10_06__14_50__A060029.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
   lat: 52.55940277777778
@@ -690,33 +62,15 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2019-10-06 14:50:07+02:00
   focus_distance: 40.96
-- image_filename: 2019_10_06__17_54__A060268.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50044444444445
-  lon: 17.00151388888889
-  altitude: 82.0
-  focal_length: 115.0
-  focal_length_35: 230.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
+  width: 5240
+  height: 3912
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5145
-  height: 3841
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-10-06 17:54:44+02:00
-  focus_distance: 14.02
+  time: 2019-10-06 14:50:07.000000000+02:00
 - image_filename: 2019_10_06__14_50__A060031.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
   lat: 52.55943055555555
@@ -726,171 +80,15 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2019-10-06 14:50:56+02:00
   focus_distance: 38.64
-- image_filename: 2019_10_06__17_25_DSC00884.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50573611111111
-  lon: 16.992208333333334
-  altitude: 76.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-10-06 17:25:35+02:00
-- image_filename: 2019_10_06__17_48__A060248.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50148611111111
-  lon: 17.002222222222223
-  altitude: 82.0
-  focal_length: 102.0
-  focal_length_35: 204.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
   width: 5240
   height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-10-06 17:48:34+02:00
-  focus_distance: 21.44
-- image_filename: 2019_10_06__17_38_DSC00890.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50134722222222
-  lon: 16.998069444444447
-  altitude: 72.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-10-06 17:38:03+02:00
-- image_filename: 2019_10_06__16_58__A060158.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5087
-  height: 3882
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-10-06 16:58:56+02:00
-  focus_distance: 7.61
-- image_filename: 2019_10_06__15_09_DSC00809.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.557249999999996
-  lon: 17.01172222222222
-  altitude: 57.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-10-06 15:09:04+02:00
-- image_filename: 2019_10_06__17_29__A060205.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50468055555555
-  lon: 16.992847222222224
-  altitude: 76.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5117
-  height: 3820
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-10-06 17:29:07+02:00
-  focus_distance: 4.16
-- image_filename: 2019_10_06__17_51__A060259.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50106944444445
-  lon: 17.002569444444443
-  altitude: 82.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-10-06 17:51:56+02:00
-  focus_distance: 3.57
-- image_filename: 2019_10_06__17_49__A060256.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.50151388888889
-  lon: 17.002291666666668
-  altitude: 82.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-10-06 17:49:28+02:00
-  focus_distance: 8.26
-- image_filename: 2019_10_06__17_12__A060183.jpg
-  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.53147222222222
-  lon: 16.978402777777777
-  altitude: 60.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4982
-  height: 3720
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-10-06 17:12:20+02:00
-  focus_distance: 37.4
+  time: 2019-10-06 14:50:56.000000000+02:00
 - image_filename: 2019_10_06__14_59__A060059.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
   lat: 52.558055555555555
@@ -900,33 +98,619 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-10-06 14:59:26+02:00
   focus_distance: 1.7
-- image_filename: 2019_10_06__18_14__A060320.jpg
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 14:59:26.000000000+02:00
+- image_filename: 2019_10_06__15_07__A060072.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
-  lat: 52.507333333333335
-  lon: 16.991347222222224
-  altitude: 70.0
+  lat: 52.55734722222222
+  lon: 17.012041666666665
+  altitude: 58.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 18.45
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 15:07:12.000000000+02:00
+- image_filename: 2019_10_06__15_09_DSC00809.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.557249999999996
+  lon: 17.01172222222222
+  altitude: 57.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:09:04.000000000+02:00
+- image_filename: 2019_10_06__15_09_DSC00814.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55727777777778
+  lon: 17.011541666666666
+  altitude: 57.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:09:56.000000000+02:00
+- image_filename: 2019_10_06__15_12_DSC00828.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55733333333333
+  lon: 17.011555555555557
+  altitude: 58.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:12:09.000000000+02:00
+- image_filename: 2019_10_06__15_14_DSC00834.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55730555555555
+  lon: 17.010347222222222
+  altitude: 59.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:14:35.000000000+02:00
+- image_filename: 2019_10_06__15_15_DSC00839.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55744444444444
+  lon: 17.01002777777778
+  altitude: 57.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:15:31.000000000+02:00
+- image_filename: 2019_10_06__15_16_DSC00843.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55745833333333
+  lon: 17.00990277777778
+  altitude: 55.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:16:02.000000000+02:00
+- image_filename: 2019_10_06__15_16_DSC00844.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55744444444444
+  lon: 17.00990277777778
+  altitude: 55.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:16:11.000000000+02:00
+- image_filename: 2019_10_06__15_17_DSC00850.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55744444444444
+  lon: 17.009708333333332
+  altitude: 54.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:17:48.000000000+02:00
+- image_filename: 2019_10_06__15_19_DSC00856.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.557513888888884
+  lon: 17.009527777777777
+  altitude: 56.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:19:25.000000000+02:00
+- image_filename: 2019_10_06__15_20_DSC00858.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55784722222222
+  lon: 17.009375
+  altitude: 56.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:20:05.000000000+02:00
+- image_filename: 2019_10_06__15_25__A060081.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55938888888888
+  lon: 17.008777777777777
+  altitude: 55.0
   focal_length: 210.0
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.88
   iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
   width: 5240
   height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 15:25:07.000000000+02:00
+- image_filename: 2019_10_06__15_26__A060099.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55936111111111
+  lon: 17.00876388888889
+  altitude: 55.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.26
+  iso: 400
+  width: 4377
+  height: 3292
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 15:26:36.000000000+02:00
+- image_filename: 2019_10_06__15_29__A060118.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.559374999999996
+  lon: 17.008777777777777
+  altitude: 54.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.75
+  iso: 640
+  width: 4275
+  height: 3005
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 15:29:57.000000000+02:00
+- image_filename: 2019_10_06__15_31__A060128.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.55936111111111
+  lon: 17.008777777777777
+  altitude: 54.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.7
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 15:31:05.000000000+02:00
+- image_filename: 2019_10_06__15_38_DSC00864.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.560125
+  lon: 17.008708333333335
+  altitude: 56.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:38:01.000000000+02:00
+- image_filename: 2019_10_06__15_40_DSC00870.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.56020833333333
+  lon: 17.008694444444444
+  altitude: 56.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:40:19.000000000+02:00
+- image_filename: 2019_10_06__15_40_DSC00871.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.560402777777774
+  lon: 17.008680555555557
+  altitude: 55.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 15:40:54.000000000+02:00
+- image_filename: 2019_10_06__16_58_DSC00882.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 7246
+  height: 4736
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 16:58:34.000000000+02:00
+- image_filename: 2019_10_06__16_58__A060158.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 7.61
+  iso: 200
+  width: 5087
+  height: 3882
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-10-06 16:58:56.000000000+02:00
+- image_filename: 2019_10_06__17_01__A060163.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.575944444444445
+  lon: 17.010430555555555
+  altitude: 70.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 11.43
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-10-06 17:01:08.000000000+02:00
+- image_filename: 2019_10_06__17_12__A060183.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.53147222222222
+  lon: 16.978402777777777
+  altitude: 60.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 37.4
+  iso: 200
+  width: 4982
+  height: 3720
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-10-06 17:12:20.000000000+02:00
+- image_filename: 2019_10_06__17_25_DSC00884.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50573611111111
+  lon: 16.992208333333334
+  altitude: 76.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 17:25:35.000000000+02:00
+- image_filename: 2019_10_06__17_27__A060199.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.505
+  lon: 16.992652777777778
+  altitude: 76.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 101.76
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-10-06 17:27:44.000000000+02:00
+- image_filename: 2019_10_06__17_29__A060205.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50468055555555
+  lon: 16.992847222222224
+  altitude: 76.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.16
+  iso: 200
+  width: 5117
+  height: 3820
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-10-06 17:29:07.000000000+02:00
+- image_filename: 2019_10_06__17_31__A060219.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50394444444444
+  lon: 16.994027777777777
+  altitude: 73.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 5.72
+  iso: 200
+  width: 5138
+  height: 3836
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-10-06 17:31:44.000000000+02:00
+- image_filename: 2019_10_06__17_38_DSC00890.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50134722222222
+  lon: 16.998069444444447
+  altitude: 72.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 17:38:03.000000000+02:00
+- image_filename: 2019_10_06__17_38_DSC00891.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.501194444444444
+  lon: 16.99840277777778
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7122
+  height: 4757
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 17:38:48.000000000+02:00
+- image_filename: 2019_10_06__17_40__A060233.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50077777777778
+  lon: 16.999236111111113
+  altitude: 79.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 8.0
   exposure: 0.025
   exposure_string: 1/40 s
-  time: 2019-10-06 18:14:23+02:00
-  focus_distance: 151.7
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-10-06 17:40:08.000000000+02:00
+- image_filename: 2019_10_06__17_41_DSC00892.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50038888888889
+  lon: 17.000055555555555
+  altitude: 82.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 17:41:00.000000000+02:00
+- image_filename: 2019_10_06__17_42_DSC00897.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50072222222222
+  lon: 17.000791666666668
+  altitude: 82.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6940
+  height: 4635
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 17:42:48.000000000+02:00
+- image_filename: 2019_10_06__17_48_DSC00900.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50148611111111
+  lon: 17.002222222222223
+  altitude: 82.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7150
+  height: 4776
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  time: 2019-10-06 17:48:13.000000000+02:00
+- image_filename: 2019_10_06__17_48__A060248.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50148611111111
+  lon: 17.002222222222223
+  altitude: 82.0
+  focal_length: 102.0
+  focal_length_35: 204.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 21.44
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 17:48:34.000000000+02:00
+- image_filename: 2019_10_06__17_49__A060256.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50151388888889
+  lon: 17.002291666666668
+  altitude: 82.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 8.26
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 17:49:28.000000000+02:00
+- image_filename: 2019_10_06__17_51__A060259.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50106944444445
+  lon: 17.002569444444443
+  altitude: 82.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.57
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 17:51:56.000000000+02:00
 - image_filename: 2019_10_06__17_53__A060266.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
   lat: 52.500597222222225
@@ -936,12 +720,228 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 11.0
-  iso: 200
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0004
   exposure_string: 1/2500 s
-  time: 2019-10-06 17:53:47+02:00
   focus_distance: 151.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 17:53:47.000000000+02:00
+- image_filename: 2019_10_06__17_54__A060268.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50044444444445
+  lon: 17.00151388888889
+  altitude: 82.0
+  focal_length: 115.0
+  focal_length_35: 230.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 14.02
+  iso: 200
+  width: 5145
+  height: 3841
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 17:54:44.000000000+02:00
+- image_filename: 2019_10_06__17_55__A060272.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50031944444444
+  lon: 17.00122222222222
+  altitude: 82.0
+  focal_length: 90.0
+  focal_length_35: 180.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 8.62
+  iso: 200
+  width: 5052
+  height: 3772
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 17:55:22.000000000+02:00
+- image_filename: 2019_10_06__18_00__A060285.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50176388888889
+  lon: 16.997305555555556
+  altitude: 69.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 85.33
+  iso: 200
+  width: 5026
+  height: 3752
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:00:59.000000000+02:00
+- image_filename: 2019_10_06__18_05__A060296.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50333333333333
+  lon: 16.99488888888889
+  altitude: 69.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.1
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:05:12.000000000+02:00
+- image_filename: 2019_10_06__18_09__A060300.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50481944444444
+  lon: 16.992708333333333
+  altitude: 74.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 8.06
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:09:28.000000000+02:00
+- image_filename: 2019_10_06__18_09__A060301.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50483333333333
+  lon: 16.992708333333333
+  altitude: 74.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 7.64
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:09:32.000000000+02:00
+- image_filename: 2019_10_06__18_09__A060303.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50486111111111
+  lon: 16.992708333333333
+  altitude: 74.0
+  focal_length: 175.0
+  focal_length_35: 350.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 53.89
+  iso: 200
+  width: 5108
+  height: 3753
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:09:51.000000000+02:00
+- image_filename: 2019_10_06__18_12__A060313.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.506194444444446
+  lon: 16.99191666666667
+  altitude: 73.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 124.12
+  iso: 200
+  width: 4991
+  height: 3744
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:12:04.000000000+02:00
+- image_filename: 2019_10_06__18_13__A060316.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50675
+  lon: 16.99163888888889
+  altitude: 72.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 26.42
+  iso: 200
+  width: 5098
+  height: 3806
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:13:14.000000000+02:00
+- image_filename: 2019_10_06__18_13__A060318.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50711111111111
+  lon: 16.991444444444447
+  altitude: 71.0
+  focal_length: 155.0
+  focal_length_35: 310.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 49.95
+  iso: 200
+  width: 4966
+  height: 3708
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:13:45.000000000+02:00
+- image_filename: 2019_10_06__18_14__A060320.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.507333333333335
+  lon: 16.991347222222224
+  altitude: 70.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 151.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:14:23.000000000+02:00
+- image_filename: 2019_10_06__18_16__A060325.jpg
+  post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.50845833333333
+  lon: 16.99073611111111
+  altitude: 67.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 113.78
+  iso: 200
+  width: 5184
+  height: 3870
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  time: 2019-10-06 18:16:07.000000000+02:00

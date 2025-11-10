@@ -1,150 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-- image_filename: 2022_01_21__08_10_P1212214.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.417
-  altitude: 2.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 65.01
-  iso: 1250
-  width: 5183
-  height: 3869
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:10:45.000000000+01:00
-- image_filename: 2022_01_21__08_15_P1212426.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79822222222222
-  lon: 18.417680555555556
-  altitude: 2.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 65.01
-  iso: 1250
-  width: 5036
-  height: 3759
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:15:47.000000000+01:00
-- image_filename: 2022_01_21__08_16_P1212462.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79819444444444
-  lon: 18.41766666666667
-  altitude: 2.0
-  focal_length: 142.0
-  focal_length_35: 284.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 35.62
-  iso: 800
-  width: 5036
-  height: 3759
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:16:59.000000000+01:00
-- image_filename: 2022_01_21__08_18_P1212554.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79819444444444
-  lon: 18.41766666666667
-  altitude: 1.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 65.01
-  iso: 1000
-  width: 5036
-  height: 3759
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:18:53.000000000+01:00
-- image_filename: 2022_01_21__11_48_P1212261.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798138888888886
-  lon: 18.41777777777778
-  altitude: 6.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 68.26
-  iso: 400
-  width: 4931
-  height: 3681
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:48:14.000000000+01:00
-- image_filename: 2022_01_21__11_36_P1211318.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.41777777777778
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 71.86
-  iso: 400
-  width: 5095
-  height: 3804
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:36:42.000000000+01:00
-- image_filename: 2022_01_21__11_36_P1211282.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.41777777777778
-  altitude: 6.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 56.1
-  iso: 1000
-  width: 4991
-  height: 3479
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:36:29.000000000+01:00
-- image_filename: 2022_01_20__19_29_P1201883.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.52123611111111
-  lon: 18.53627777777778
-  altitude: 0.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8158
-  height: 6096
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-01-20 19:29:08.000000000+01:00
 - image_filename: 2022_01_20__19_27_P1201881.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.52125
@@ -163,24 +17,24 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-01-20 19:27:51.000000000+01:00
-- image_filename: 2022_01_20__19_32_P1201886.jpg
+- image_filename: 2022_01_20__19_29_P1201883.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.521319444444444
-  lon: 18.538944444444446
-  altitude: 2.0
+  lat: 54.52123611111111
+  lon: 18.53627777777778
+  altitude: 0.0
   focal_length: 17.0
   focal_length_35: 34.0
   crop: 2.0
   aperture: 1.2
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  focus_distance: 40.81
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1000.0
   iso: 200
-  width: 5394
-  height: 7071
+  width: 8158
+  height: 6096
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
-  time: 2022-01-20 19:32:07.000000000+01:00
+  time: 2022-01-20 19:29:08.000000000+01:00
 - image_filename: 2022_01_20__19_30_P1201884.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.52126388888889
@@ -199,6 +53,24 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-01-20 19:30:20.000000000+01:00
+- image_filename: 2022_01_20__19_32_P1201886.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.521319444444444
+  lon: 18.538944444444446
+  altitude: 2.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 40.81
+  iso: 200
+  width: 5394
+  height: 7071
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-01-20 19:32:07.000000000+01:00
 - image_filename: 2022_01_20__19_33_P1201887.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.52220833333333
@@ -217,24 +89,6 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-01-20 19:33:32.000000000+01:00
-- image_filename: 2022_01_20__19_36_P1201890.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.52327777777778
-  lon: 18.537791666666667
-  altitude: 1.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 102.08
-  iso: 200
-  width: 4754
-  height: 6561
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-01-20 19:36:26.000000000+01:00
 - image_filename: 2022_01_20__19_34_P1201888.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.52283333333333
@@ -253,6 +107,42 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-01-20 19:34:50.000000000+01:00
+- image_filename: 2022_01_20__19_36_P1201890.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.52327777777778
+  lon: 18.537791666666667
+  altitude: 1.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 102.08
+  iso: 200
+  width: 4754
+  height: 6561
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-01-20 19:36:26.000000000+01:00
+- image_filename: 2022_01_20__19_36_P1201891.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.52330555555555
+  lon: 18.537708333333335
+  altitude: 2.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 29.15
+  iso: 200
+  width: 4954
+  height: 3622
+  lens: OLYMPUS M.17mm F1.2
+  camera: E-M1MarkIII
+  time: 2022-01-20 19:36:53.000000000+01:00
 - image_filename: 2022_01_20__19_38_P1201893.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.52313888888889
@@ -289,24 +179,6 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-01-20 19:41:48.000000000+01:00
-- image_filename: 2022_01_20__19_36_P1201891.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.52330555555555
-  lon: 18.537708333333335
-  altitude: 2.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 1.2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 29.15
-  iso: 200
-  width: 4954
-  height: 3622
-  lens: OLYMPUS M.17mm F1.2
-  camera: E-M1MarkIII
-  time: 2022-01-20 19:36:53.000000000+01:00
 - image_filename: 2022_01_20__19_42_P1201899.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.52223611111111
@@ -469,6 +341,24 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-01-20 22:11:04.000000000+01:00
+- image_filename: 2022_01_21__08_10_P1212214.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.417
+  altitude: 2.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 65.01
+  iso: 1250
+  width: 5183
+  height: 3869
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:10:45.000000000+01:00
 - image_filename: 2022_01_21__08_15_P1212412.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.79822222222222
@@ -487,6 +377,24 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-01-21 08:15:39.000000000+01:00
+- image_filename: 2022_01_21__08_15_P1212426.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79822222222222
+  lon: 18.417680555555556
+  altitude: 2.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 65.01
+  iso: 1250
+  width: 5036
+  height: 3759
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:15:47.000000000+01:00
 - image_filename: 2022_01_21__08_16_P1212441.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.79822222222222
@@ -505,6 +413,168 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-01-21 08:16:40.000000000+01:00
+- image_filename: 2022_01_21__08_16_P1212462.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79819444444444
+  lon: 18.41766666666667
+  altitude: 2.0
+  focal_length: 142.0
+  focal_length_35: 284.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 35.62
+  iso: 800
+  width: 5036
+  height: 3759
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:16:59.000000000+01:00
+- image_filename: 2022_01_21__08_18_P1212551.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79819444444444
+  lon: 18.41766666666667
+  altitude: 1.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 61.13
+  iso: 1000
+  width: 5036
+  height: 3759
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:18:53.000000000+01:00
+- image_filename: 2022_01_21__08_18_P1212554.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79819444444444
+  lon: 18.41766666666667
+  altitude: 1.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 65.01
+  iso: 1000
+  width: 5036
+  height: 3759
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:18:53.000000000+01:00
+- image_filename: 2022_01_21__08_19_P1212590.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79819444444444
+  lon: 18.41765277777778
+  altitude: 2.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 58.51
+  iso: 1250
+  width: 4930
+  height: 3681
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:19:09.000000000+01:00
+- image_filename: 2022_01_21__08_23_P1212753.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798208333333335
+  lon: 18.417694444444447
+  altitude: 0.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 56.1
+  iso: 1000
+  width: 4771
+  height: 3561
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:23:12.000000000+01:00
+- image_filename: 2022_01_21__08_25_P1212922.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79823611111111
+  lon: 18.417847222222225
+  altitude: 0.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 49.95
+  iso: 1000
+  width: 5019
+  height: 3747
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:25:30.000000000+01:00
+- image_filename: 2022_01_21__08_25_P1212962.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79823611111111
+  lon: 18.41786111111111
+  altitude: 0.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 56.1
+  iso: 800
+  width: 4932
+  height: 3682
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:25:40.000000000+01:00
+- image_filename: 2022_01_21__08_29_P1213266.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79822222222222
+  lon: 18.417847222222225
+  altitude: 1.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 53.89
+  iso: 1000
+  width: 4865
+  height: 3632
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:29:42.000000000+01:00
+- image_filename: 2022_01_21__08_29_P1213281.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79823611111111
+  lon: 18.417847222222225
+  altitude: 2.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 56.1
+  iso: 1250
+  width: 5034
+  height: 3758
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:29:55.000000000+01:00
 - image_filename: 2022_01_21__08_33_P1213516.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.798208333333335
@@ -523,6 +593,24 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-01-21 08:33:26.000000000+01:00
+- image_filename: 2022_01_21__08_34_P1213608.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798208333333335
+  lon: 18.41786111111111
+  altitude: 1.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 48.19
+  iso: 800
+  width: 4959
+  height: 3702
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 08:34:25.000000000+01:00
 - image_filename: 2022_01_21__08_43_P1213988.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.79823611111111
@@ -559,402 +647,6 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-01-21 08:43:20.000000000+01:00
-- image_filename: 2022_01_21__08_29_P1213266.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79822222222222
-  lon: 18.417847222222225
-  altitude: 1.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 53.89
-  iso: 1000
-  width: 4865
-  height: 3632
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:29:42.000000000+01:00
-- image_filename: 2022_01_21__14_30_P1212599.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.74744444444445
-  lon: 18.386416666666666
-  altitude: 9.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 28.79
-  iso: 1600
-  width: 5057
-  height: 3775
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-21 14:30:09.000000000+01:00
-- image_filename: 2022_01_21__11_23_P1210346.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.41775
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 68.26
-  iso: 400
-  width: 5220
-  height: 3897
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:23:53.000000000+01:00
-- image_filename: 2022_01_21__11_35_P1211136.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798138888888886
-  lon: 18.417791666666666
-  altitude: 6.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 71.86
-  iso: 640
-  width: 5003
-  height: 3735
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:35:01.000000000+01:00
-- image_filename: 2022_01_21__14_03_P1211878.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79377777777778
-  lon: 18.417319444444445
-  altitude: 3.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 13.28
-  iso: 200
-  width: 8060
-  height: 6037
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-21 14:03:20.000000000+01:00
-- image_filename: 2022_01_21__11_36_P1211321.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.41777777777778
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 71.86
-  iso: 400
-  width: 5095
-  height: 3804
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:36:42.000000000+01:00
-- image_filename: 2022_01_21__14_30_P1212611.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.74623611111111
-  lon: 18.386875
-  altitude: 8.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 12.53
-  iso: 1250
-  width: 5176
-  height: 3864
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-21 14:30:15.000000000+01:00
-- image_filename: 2022_01_21__11_45_P1211960.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79823611111111
-  lon: 18.417722222222224
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 68.26
-  iso: 400
-  width: 4911
-  height: 3701
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:45:45.000000000+01:00
-- image_filename: 2022_01_21__11_19_P1210098.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.41775
-  altitude: 8.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 91.02
-  iso: 320
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:19:21.000000000+01:00
-- image_filename: 2022_01_21__11_38_P1211403.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798138888888886
-  lon: 18.417791666666666
-  altitude: 6.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 65.01
-  iso: 500
-  width: 4828
-  height: 3604
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:38:51.000000000+01:00
-- image_filename: 2022_01_21__11_34_P1211127.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798138888888886
-  lon: 18.417791666666666
-  altitude: 5.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 61.13
-  iso: 500
-  width: 5003
-  height: 3735
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:34:45.000000000+01:00
-- image_filename: 2022_01_21__11_41_P1211703.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.41775
-  altitude: 6.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 61.13
-  iso: 400
-  width: 5019
-  height: 3747
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:41:59.000000000+01:00
-- image_filename: 2022_01_21__08_34_P1213608.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798208333333335
-  lon: 18.41786111111111
-  altitude: 1.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 48.19
-  iso: 800
-  width: 4959
-  height: 3702
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:34:25.000000000+01:00
-- image_filename: 2022_01_21__08_29_P1213281.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79823611111111
-  lon: 18.417847222222225
-  altitude: 2.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 56.1
-  iso: 1250
-  width: 5034
-  height: 3758
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:29:55.000000000+01:00
-- image_filename: 2022_01_21__11_29_P1210697.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.41773611111111
-  altitude: 5.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 80.31
-  iso: 320
-  width: 5012
-  height: 3741
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:29:02.000000000+01:00
-- image_filename: 2022_01_21__11_18_P1210043.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.417722222222224
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 53.89
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:18:46.000000000+01:00
-- image_filename: 2022_01_21__11_51_P1212488.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798180555555554
-  lon: 18.41777777777778
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 136.53
-  iso: 250
-  width: 4990
-  height: 3725
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:51:59.000000000+01:00
-- image_filename: 2022_01_21__08_18_P1212551.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79819444444444
-  lon: 18.41766666666667
-  altitude: 1.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 61.13
-  iso: 1000
-  width: 5036
-  height: 3759
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:18:53.000000000+01:00
-- image_filename: 2022_01_21__08_19_P1212590.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79819444444444
-  lon: 18.41765277777778
-  altitude: 2.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 58.51
-  iso: 1250
-  width: 4930
-  height: 3681
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:19:09.000000000+01:00
-- image_filename: 2022_01_21__11_39_P1211419.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798125
-  lon: 18.417791666666666
-  altitude: 5.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 58.51
-  iso: 400
-  width: 4908
-  height: 3664
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:39:36.000000000+01:00
-- image_filename: 2022_01_21__08_51_P1214332.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79822222222222
-  lon: 18.417847222222225
-  altitude: 3.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  focus_distance: 124.12
-  iso: 640
-  width: 4990
-  height: 3725
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:51:57.000000000+01:00
-- image_filename: 2022_01_21__08_23_P1212753.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798208333333335
-  lon: 18.417694444444447
-  altitude: 0.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 56.1
-  iso: 1000
-  width: 4771
-  height: 3561
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:23:12.000000000+01:00
 - image_filename: 2022_01_21__08_47_P1214155.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.798208333333335
@@ -973,150 +665,24 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-01-21 08:47:02.000000000+01:00
-- image_filename: 2022_01_21__11_39_P1211423.jpg
+- image_filename: 2022_01_21__08_51_P1214332.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798125
-  lon: 18.417791666666666
-  altitude: 5.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 68.26
-  iso: 400
-  width: 4908
-  height: 3664
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:39:36.000000000+01:00
-- image_filename: 2022_01_21__14_27_P1212569.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.75451388888889
-  lon: 18.373319444444444
-  altitude: 21.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1000.0
-  iso: 800
-  width: 5144
-  height: 3840
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-01-21 14:27:56.000000000+01:00
-- image_filename: 2022_01_21__08_25_P1212962.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79823611111111
-  lon: 18.41786111111111
-  altitude: 0.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 56.1
-  iso: 800
-  width: 4932
-  height: 3682
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 08:25:40.000000000+01:00
-- image_filename: 2022_01_21__08_25_P1212922.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79823611111111
+  lat: 54.79822222222222
   lon: 18.417847222222225
-  altitude: 0.0
+  altitude: 3.0
   focal_length: 150.0
   focal_length_35: 300.0
   crop: 2.0
   aperture: 2.8
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 49.95
-  iso: 1000
-  width: 5019
-  height: 3747
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 124.12
+  iso: 640
+  width: 4990
+  height: 3725
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-01-21 08:25:30.000000000+01:00
-- image_filename: 2022_01_21__11_39_P1211446.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798138888888886
-  lon: 18.41776388888889
-  altitude: 6.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 105.03
-  iso: 400
-  width: 4876
-  height: 3640
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:39:48.000000000+01:00
-- image_filename: 2022_01_21__11_29_P1210730.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.41773611111111
-  altitude: 5.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 61.13
-  iso: 500
-  width: 4952
-  height: 3697
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:29:09.000000000+01:00
-- image_filename: 2022_01_21__11_35_P1211222.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.41777777777778
-  altitude: 6.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 105.03
-  iso: 320
-  width: 5109
-  height: 3814
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:35:51.000000000+01:00
-- image_filename: 2022_01_21__11_20_P1210210.jpg
-  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.79816666666667
-  lon: 18.417722222222224
-  altitude: 7.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 48.19
-  iso: 400
-  width: 4927
-  height: 3678
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-01-21 11:20:57.000000000+01:00
+  time: 2022-01-21 08:51:57.000000000+01:00
 - image_filename: 2022_01_21__11_18_P1210035.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.79816666666667
@@ -1135,10 +701,82 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-01-21 11:18:44.000000000+01:00
-- image_filename: 2022_01_21__11_40_P1211571.jpg
+- image_filename: 2022_01_21__11_18_P1210043.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
-  lat: 54.798208333333335
+  lat: 54.79816666666667
+  lon: 18.417722222222224
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 53.89
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:18:46.000000000+01:00
+- image_filename: 2022_01_21__11_19_P1210098.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
   lon: 18.41775
+  altitude: 8.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 91.02
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:19:21.000000000+01:00
+- image_filename: 2022_01_21__11_20_P1210210.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.417722222222224
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 48.19
+  iso: 400
+  width: 4927
+  height: 3678
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:20:57.000000000+01:00
+- image_filename: 2022_01_21__11_23_P1210346.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.41775
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 68.26
+  iso: 400
+  width: 5220
+  height: 3897
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:23:53.000000000+01:00
+- image_filename: 2022_01_21__11_29_P1210697.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.41773611111111
   altitude: 5.0
   focal_length: 150.0
   focal_length_35: 300.0
@@ -1146,13 +784,85 @@
   aperture: 2.8
   exposure: 0.001
   exposure_string: 1/1000 s
-  focus_distance: 58.51
-  iso: 400
-  width: 5075
-  height: 3789
+  focus_distance: 80.31
+  iso: 320
+  width: 5012
+  height: 3741
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
-  time: 2022-01-21 11:40:57.000000000+01:00
+  time: 2022-01-21 11:29:02.000000000+01:00
+- image_filename: 2022_01_21__11_29_P1210730.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.41773611111111
+  altitude: 5.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 61.13
+  iso: 500
+  width: 4952
+  height: 3697
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:29:09.000000000+01:00
+- image_filename: 2022_01_21__11_34_P1211127.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798138888888886
+  lon: 18.417791666666666
+  altitude: 5.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 61.13
+  iso: 500
+  width: 5003
+  height: 3735
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:34:45.000000000+01:00
+- image_filename: 2022_01_21__11_35_P1211136.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798138888888886
+  lon: 18.417791666666666
+  altitude: 6.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 71.86
+  iso: 640
+  width: 5003
+  height: 3735
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:35:01.000000000+01:00
+- image_filename: 2022_01_21__11_35_P1211222.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.41777777777778
+  altitude: 6.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 105.03
+  iso: 320
+  width: 5109
+  height: 3814
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:35:51.000000000+01:00
 - image_filename: 2022_01_21__11_36_P1211275.jpg
   post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
   lat: 54.79816666666667
@@ -1171,3 +881,291 @@
   lens: OLYMPUS M.40-150mm F2.8
   camera: E-M1MarkIII
   time: 2022-01-21 11:36:29.000000000+01:00
+- image_filename: 2022_01_21__11_36_P1211282.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.41777777777778
+  altitude: 6.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 56.1
+  iso: 1000
+  width: 4991
+  height: 3479
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:36:29.000000000+01:00
+- image_filename: 2022_01_21__11_36_P1211318.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.41777777777778
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 71.86
+  iso: 400
+  width: 5095
+  height: 3804
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:36:42.000000000+01:00
+- image_filename: 2022_01_21__11_36_P1211321.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.41777777777778
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 71.86
+  iso: 400
+  width: 5095
+  height: 3804
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:36:42.000000000+01:00
+- image_filename: 2022_01_21__11_38_P1211403.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798138888888886
+  lon: 18.417791666666666
+  altitude: 6.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 65.01
+  iso: 500
+  width: 4828
+  height: 3604
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:38:51.000000000+01:00
+- image_filename: 2022_01_21__11_39_P1211419.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798125
+  lon: 18.417791666666666
+  altitude: 5.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 58.51
+  iso: 400
+  width: 4908
+  height: 3664
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:39:36.000000000+01:00
+- image_filename: 2022_01_21__11_39_P1211423.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798125
+  lon: 18.417791666666666
+  altitude: 5.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 68.26
+  iso: 400
+  width: 4908
+  height: 3664
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:39:36.000000000+01:00
+- image_filename: 2022_01_21__11_39_P1211446.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798138888888886
+  lon: 18.41776388888889
+  altitude: 6.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 105.03
+  iso: 400
+  width: 4876
+  height: 3640
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:39:48.000000000+01:00
+- image_filename: 2022_01_21__11_40_P1211571.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798208333333335
+  lon: 18.41775
+  altitude: 5.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 58.51
+  iso: 400
+  width: 5075
+  height: 3789
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:40:57.000000000+01:00
+- image_filename: 2022_01_21__11_41_P1211703.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79816666666667
+  lon: 18.41775
+  altitude: 6.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 61.13
+  iso: 400
+  width: 5019
+  height: 3747
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:41:59.000000000+01:00
+- image_filename: 2022_01_21__11_45_P1211960.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79823611111111
+  lon: 18.417722222222224
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 68.26
+  iso: 400
+  width: 4911
+  height: 3701
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:45:45.000000000+01:00
+- image_filename: 2022_01_21__11_48_P1212261.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798138888888886
+  lon: 18.41777777777778
+  altitude: 6.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 68.26
+  iso: 400
+  width: 4931
+  height: 3681
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:48:14.000000000+01:00
+- image_filename: 2022_01_21__11_51_P1212488.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.798180555555554
+  lon: 18.41777777777778
+  altitude: 7.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 136.53
+  iso: 250
+  width: 4990
+  height: 3725
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-01-21 11:51:59.000000000+01:00
+- image_filename: 2022_01_21__14_03_P1211878.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.79377777777778
+  lon: 18.417319444444445
+  altitude: 3.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 13.28
+  iso: 200
+  width: 8060
+  height: 6037
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-21 14:03:20.000000000+01:00
+- image_filename: 2022_01_21__14_27_P1212569.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.75451388888889
+  lon: 18.373319444444444
+  altitude: 21.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 800
+  width: 5144
+  height: 3840
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-21 14:27:56.000000000+01:00
+- image_filename: 2022_01_21__14_30_P1212599.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.74744444444445
+  lon: 18.386416666666666
+  altitude: 9.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 28.79
+  iso: 1600
+  width: 5057
+  height: 3775
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-21 14:30:09.000000000+01:00
+- image_filename: 2022_01_21__14_30_P1212611.jpg
+  post_slug: 2022-01-21-pierwszy-prawdziwy-sztorm
+  lat: 54.74623611111111
+  lon: 18.386875
+  altitude: 8.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 12.53
+  iso: 1250
+  width: 5176
+  height: 3864
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-21 14:30:15.000000000+01:00

@@ -1,202 +1,4 @@
 ---
-- image_filename: 2020_06_12__10_24__6126666.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.95304166666667
-  lon: 16.790055555555558
-  altitude: 209.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5123
-  height: 3824
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 10:24:43+02:00
-  focus_distance: 6.24
-- image_filename: 2020_06_12__09_41__6126596.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.992472222222226
-  lon: 16.919486111111112
-  altitude: 211.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5127
-  height: 3773
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-12 09:41:15+02:00
-  focus_distance: 42.44
-- image_filename: 2020_06_12__16_33__6127305.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.67106944444444
-  lon: 16.490361111111113
-  altitude: 193.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-12 16:33:57+02:00
-  focus_distance: 23.2
-- image_filename: 2020_06_12__11_54__6126709.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.907402777777776
-  lon: 16.665916666666664
-  altitude: 191.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-06-12 11:54:46+02:00
-  focus_distance: 88.56
-- image_filename: 2020_06_12__13_54__6126826.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.80647222222222
-  lon: 16.527388888888886
-  altitude: 170.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5179
-  height: 3837
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 13:54:51+02:00
-  focus_distance: 15.65
-- image_filename: 2020_06_12__12_38__6126740.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84386111111111
-  lon: 16.671430555555556
-  altitude: 176.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-12 12:38:26+02:00
-  focus_distance: 3.18
-- image_filename: 2020_06_12__16_47__6127322.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.66788888888889
-  lon: 16.489875
-  altitude: 192.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5023
-  height: 3275
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-12 16:47:37+02:00
-  focus_distance: 1.38
-- image_filename: 2020_06_12__13_38__6126803.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.820888888888895
-  lon: 16.559541666666668
-  altitude: 184.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5170
-  height: 3859
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-12 13:38:51+02:00
-  focus_distance: 142.47
-- image_filename: 2020_06_12__13_22__6126788.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84568055555556
-  lon: 16.565236111111112
-  altitude: 190.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-06-12 13:22:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_12__14_57__6127164.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72880555555556
-  lon: 16.46558333333333
-  altitude: 193.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4454
-  height: 3218
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-06-12 14:57:53+02:00
-  focus_distance: 0.45
-- image_filename: 2020_06_12__14_51__6127070.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72929166666667
-  lon: 16.465666666666667
-  altitude: 191.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-06-12 14:51:48+02:00
-  focus_distance: 0.45
 - image_filename: 2020_06_12__09_25__6126588.jpg
   post_slug: 2020-06-12-odwrotna-pomorska-500
   lat: 53.99727777777778
@@ -206,285 +8,15 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 43.34
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5171
   height: 3821
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-12 09:25:34+02:00
-  focus_distance: 43.34
-- image_filename: 2020_06_12__10_15__6126654.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.955000000000005
-  lon: 16.83775
-  altitude: 224.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5150
-  height: 3843
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-12 10:15:28+02:00
-  focus_distance: 9.42
-- image_filename: 2020_06_12__12_19__6126713.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.865458333333336
-  lon: 16.711902777777777
-  altitude: 185.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5196
-  height: 3879
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-12 12:19:38+02:00
-  focus_distance: 4.28
-- image_filename: 2020_06_12__10_12__6126650.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.956652777777784
-  lon: 16.846277777777775
-  altitude: 238.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 10:12:05+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_12__17_39__6127441.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.640125
-  lon: 16.489916666666666
-  altitude: 202.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5171
-  height: 3826
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-12 17:39:30+02:00
-  focus_distance: 109.96
-- image_filename: 2020_06_12__14_50__6126959.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72929166666667
-  lon: 16.465666666666667
-  altitude: 191.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4653
-  height: 3659
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-12 14:50:35+02:00
-  focus_distance: 0.45
-- image_filename: 2020_06_12__17_19__6127415.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.61598611111111
-  lon: 16.477055555555555
-  altitude: 175.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5033
-  height: 3758
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 17:19:58+02:00
-  focus_distance: 3.7
-- image_filename: 2020_06_12__16_07__6127270.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.70868055555556
-  lon: 16.468625
-  altitude: 215.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2020-06-12 16:07:35+02:00
-  focus_distance: 6.5
-- image_filename: 2020_06_12__15_11__6127235.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.71575
-  lon: 16.434194444444444
-  altitude: 222.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-12 15:11:41+02:00
-  focus_distance: 95.81
-- image_filename: 2020_06_12__17_23__6127432.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.616
-  lon: 16.477055555555555
-  altitude: 175.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5116
-  height: 3818
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-12 17:23:05+02:00
-  focus_distance: 54.43
-- image_filename: 2020_06_12__14_47__6126880.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72929166666667
-  lon: 16.465666666666667
-  altitude: 191.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5028
-  height: 3754
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-12 14:47:23+02:00
-  focus_distance: 9.55
-- image_filename: 2020_06_12__09_55__6126606.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.980875000000005
-  lon: 16.881680555555555
-  altitude: 243.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 09:55:12+02:00
-  focus_distance: 1.08
-- image_filename: 2020_06_12__12_35__6126732.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84386111111111
-  lon: 16.671430555555556
-  altitude: 175.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5225
-  height: 3895
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-12 12:35:25+02:00
-  focus_distance: 46.94
-- image_filename: 2020_06_12__12_39__6126746.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84326388888889
-  lon: 16.669666666666668
-  altitude: 175.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-12 12:39:12+02:00
-  focus_distance: 3.23
-- image_filename: 2020_06_12__16_30__6127295.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.67477777777778
-  lon: 16.492083333333333
-  altitude: 187.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5022
-  height: 3579
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 16:30:02+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_12__11_53__6126702.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.91034722222222
-  lon: 16.663361111111108
-  altitude: 192.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-12 11:53:57+02:00
-  focus_distance: 3.92
+  time: 2020-06-12 09:25:34.000000000+02:00
 - image_filename: 2020_06_12__09_40__6126591.jpg
   post_slug: 2020-06-12-odwrotna-pomorska-500
   lat: 53.992472222222226
@@ -494,771 +26,33 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2020-06-12 09:40:41+02:00
   focus_distance: 21.99
-- image_filename: 2020_06_12__12_35__6126729.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84386111111111
-  lon: 16.671430555555556
-  altitude: 176.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.0
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5180
-  height: 3842
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-12 12:35:07+02:00
-  focus_distance: 16.12
-- image_filename: 2020_06_12__16_07__6127272.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.70868055555556
-  lon: 16.468625
-  altitude: 215.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2020-06-12 16:07:48+02:00
-  focus_distance: 21.64
-- image_filename: 2020_06_12__11_54__6126705.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.90923611111111
-  lon: 16.664125
-  altitude: 195.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-06-12 11:54:18+02:00
-  focus_distance: 18.73
-- image_filename: 2020_06_12__16_24__6127280.jpg
+  time: 2020-06-12 09:40:41.000000000+02:00
+- image_filename: 2020_06_12__09_41__6126596.jpg
   post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.674930555555555
-  lon: 16.492069444444446
-  altitude: 188.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 16:24:54+02:00
-  focus_distance: 15.19
-- image_filename: 2020_06_12__10_30__6126674.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.948138888888884
-  lon: 16.774944444444444
-  altitude: 198.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4951
-  height: 3656
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 10:30:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_12__17_16__6127398.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.61598611111111
-  lon: 16.477055555555555
-  altitude: 175.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-12 17:16:11+02:00
-  focus_distance: 35.69
-- image_filename: 2020_06_12__16_49__6127390.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.66163888888889
-  lon: 16.48911111111111
-  altitude: 195.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 16:49:34+02:00
-  focus_distance: 0.22
-- image_filename: 2020_06_12__12_40__6126773.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84301388888889
-  lon: 16.66011111111111
-  altitude: 177.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-12 12:40:33+02:00
-  focus_distance: 2.97
-- image_filename: 2020_06_12__13_48__6126824.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.811277777777775
-  lon: 16.550944444444447
-  altitude: 192.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4870
-  height: 3714
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 13:48:39+02:00
-  focus_distance: 4.24
-- image_filename: 2020_06_12__15_48__6127243.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.716097222222224
-  lon: 16.429555555555556
-  altitude: 228.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-12 15:48:49+02:00
-  focus_distance: 2.56
-- image_filename: 2020_06_12__14_50__6126952.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72929166666667
-  lon: 16.465666666666667
-  altitude: 191.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-12 14:50:22+02:00
-  focus_distance: 0.45
-- image_filename: 2020_06_12__12_38__6126737.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84386111111111
-  lon: 16.671430555555556
-  altitude: 176.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-12 12:38:23+02:00
-  focus_distance: 3.14
-- image_filename: 2020_06_12__09_56__6126613.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.98088888888889
-  lon: 16.881652777777777
-  altitude: 243.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3680
-  height: 4818
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 09:56:42+02:00
-  focus_distance: 0.45
-- image_filename: 2020_06_12__13_27__6126792.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84102777777778
-  lon: 16.557402777777778
-  altitude: 182.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 13:27:10+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_12__12_41__6126780.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84323611111111
-  lon: 16.65698611111111
-  altitude: 177.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5077
-  height: 3711
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-12 12:41:03+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_12__16_05__6127262.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.71016666666667
-  lon: 16.465541666666667
-  altitude: 218.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5015
-  height: 3744
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-06-12 16:05:49+02:00
-  focus_distance: 36.74
-- image_filename: 2020_06_12__14_53__6127117.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72929166666667
-  lon: 16.465680555555554
-  altitude: 192.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4614
-  height: 3423
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-12 14:53:20+02:00
-  focus_distance: 0.45
-- image_filename: 2020_06_12__16_48__6127353.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.66430555555555
-  lon: 16.489958333333334
-  altitude: 193.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 16:48:38+02:00
-  focus_distance: 0.73
-- image_filename: 2020_06_12__12_19__6126715.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.86530555555556
-  lon: 16.712319444444443
-  altitude: 185.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5164
-  height: 3854
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-12 12:19:43+02:00
-  focus_distance: 23.57
-- image_filename: 2020_06_12__13_22__6126785.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.846111111111114
-  lon: 16.566819444444445
-  altitude: 190.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-12 13:22:13+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_12__14_18__6126840.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.765319444444444
-  lon: 16.486416666666667
-  altitude: 159.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-12 14:18:23+02:00
-  focus_distance: 135.4
-- image_filename: 2020_06_12__14_47__6126878.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72929166666667
-  lon: 16.465666666666667
-  altitude: 191.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 14:47:13+02:00
-  focus_distance: 1.7
-- image_filename: 2020_06_12__16_33__6127302.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.671680555555554
-  lon: 16.49038888888889
-  altitude: 193.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5213
-  height: 3884
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-12 16:33:40+02:00
-  focus_distance: 96.38
-- image_filename: 2020_06_12__10_24__6126663.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.953250000000004
-  lon: 16.791972222222224
+  lat: 53.992472222222226
+  lon: 16.919486111111112
   altitude: 211.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 10:24:24+02:00
-  focus_distance: 112.99
-- image_filename: 2020_06_12__17_19__6127405-hdr.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.61598611111111
-  lon: 16.477055555555555
-  altitude: 175.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5127
-  height: 3827
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 17:19:20+02:00
-  focus_distance: 4.43
-- image_filename: 2020_06_12__13_46__6126819.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.811277777777775
-  lon: 16.550944444444447
-  altitude: 192.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4906
-  height: 3525
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 13:46:56+02:00
-  focus_distance: 24.98
-- image_filename: 2020_06_12__13_47__6126822.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.811277777777775
-  lon: 16.550944444444447
-  altitude: 192.0
-  focal_length: 61.0
-  focal_length_35: 122.0
+  focal_length: 86.0
+  focal_length_35: 172.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 13:47:07+02:00
-  focus_distance: 19.74
-- image_filename: 2020_06_12__13_27__6126796.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.83986111111111
-  lon: 16.557361111111113
-  altitude: 186.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5076
-  height: 3789
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 13:27:39+02:00
-  focus_distance: 42.56
-- image_filename: 2020_06_12__16_47__6127326.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.66772222222222
-  lon: 16.489875
-  altitude: 192.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 250
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 16:47:41+02:00
-  focus_distance: 1.2
-- image_filename: 2020_06_12__17_55__6127449.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.6645
-  lon: 16.44840277777778
-  altitude: 197.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5106
-  height: 3812
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-12 17:55:18+02:00
-  focus_distance: 54.25
-- image_filename: 2020_06_12__16_30__6127297.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.674569444444444
-  lon: 16.491708333333335
-  altitude: 187.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3193
-  height: 4826
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-12 16:30:14+02:00
-  focus_distance: 5.36
-- image_filename: 2020_06_12__14_50__6126916.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72929166666667
-  lon: 16.465666666666667
-  altitude: 191.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-12 14:50:05+02:00
-  focus_distance: 0.45
-- image_filename: 2020_06_12__14_18__6126837.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.76566666666667
-  lon: 16.487375
-  altitude: 158.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-06-12 14:18:09+02:00
-  focus_distance: 6.68
-- image_filename: 2020_06_12__10_00__6126626.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.979819444444445
-  lon: 16.875208333333333
-  altitude: 251.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
+  focus_distance: 42.44
   iso: 200
+  width: 5127
+  height: 3773
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 10:00:31+02:00
-  focus_distance: 21.0
-- image_filename: 2020_06_12__12_34__6126725.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84384722222222
-  lon: 16.671430555555556
-  altitude: 176.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4851
-  height: 3557
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 12:34:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_12__12_35__6126728.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.84384722222222
-  lon: 16.671430555555556
-  altitude: 176.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5108
-  height: 3845
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-12 12:35:01+02:00
-  focus_distance: 57.08
-- image_filename: 2020_06_12__14_51__6127024.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72929166666667
-  lon: 16.465666666666667
-  altitude: 191.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4550
-  height: 3290
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-12 14:51:29+02:00
-  focus_distance: 0.45
-- image_filename: 2020_06_12__14_54__6127140.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.72929166666667
-  lon: 16.465680555555554
-  altitude: 192.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4539
-  height: 3483
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-12 14:54:12+02:00
-  focus_distance: 0.45
-- image_filename: 2020_06_12__15_12__6127237.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.71590277777778
-  lon: 16.432875000000003
-  altitude: 224.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5130
-  height: 3829
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-06-12 15:12:01+02:00
-  focus_distance: 18.81
-- image_filename: 2020_06_12__10_03__6126637.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.97631944444445
-  lon: 16.866791666666668
-  altitude: 252.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5177
-  height: 3865
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-12 10:03:31+02:00
-  focus_distance: 20.27
-- image_filename: 2020_06_12__18_33__6127462.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.740625
-  lon: 16.354666666666667
-  altitude: 156.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5052
-  height: 3651
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-12 18:33:14+02:00
-  focus_distance: 7.97
-- image_filename: 2020_06_12__10_11__6126640.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.95823611111111
-  lon: 16.85065277777778
-  altitude: 238.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 10:11:12+02:00
-  focus_distance: 9.94
+  time: 2020-06-12 09:41:15.000000000+02:00
 - image_filename: 2020_06_12__09_43__6126602.jpg
   post_slug: 2020-06-12-odwrotna-pomorska-500
   lat: 53.994305555555556
@@ -1268,33 +62,69 @@
   focal_length_35: 122.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-06-12 09:43:48+02:00
   focus_distance: 19.02
-- image_filename: 2020_06_12__17_51__6127443.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.660333333333334
-  lon: 16.454013888888888
-  altitude: 193.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-06-12 17:51:53+02:00
-  focus_distance: 12.56
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 09:43:48.000000000+02:00
+- image_filename: 2020_06_12__09_55__6126606.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.980875000000005
+  lon: 16.881680555555555
+  altitude: 243.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.08
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 09:55:12.000000000+02:00
+- image_filename: 2020_06_12__09_56__6126613.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.98088888888889
+  lon: 16.881652777777777
+  altitude: 243.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.45
+  iso: 200
+  width: 3680
+  height: 4818
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 09:56:42.000000000+02:00
+- image_filename: 2020_06_12__10_00__6126626.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.979819444444445
+  lon: 16.875208333333333
+  altitude: 251.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 21.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 10:00:31.000000000+02:00
 - image_filename: 2020_06_12__10_03__6126636.jpg
   post_slug: 2020-06-12-odwrotna-pomorska-500
   lat: 53.97651388888889
@@ -1304,15 +134,51 @@
   focal_length_35: 108.0
   crop: 2.0
   aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5125
-  height: 3826
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-06-12 10:03:27+02:00
   focus_distance: 19.85
+  iso: 200
+  width: 5125
+  height: 3826
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 10:03:27.000000000+02:00
+- image_filename: 2020_06_12__10_03__6126637.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.97631944444445
+  lon: 16.866791666666668
+  altitude: 252.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 20.27
+  iso: 200
+  width: 5177
+  height: 3865
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 10:03:31.000000000+02:00
+- image_filename: 2020_06_12__10_11__6126640.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.95823611111111
+  lon: 16.85065277777778
+  altitude: 238.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 9.94
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 10:11:12.000000000+02:00
 - image_filename: 2020_06_12__10_11__6126649.jpg
   post_slug: 2020-06-12-odwrotna-pomorska-500
   lat: 53.956652777777784
@@ -1322,69 +188,105 @@
   focal_length_35: 132.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5076
-  height: 3789
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-06-12 10:11:59+02:00
   focus_distance: 21.87
-- image_filename: 2020_06_12__16_49__6127384.jpg
-  post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.66186111111111
-  lon: 16.489569444444445
-  altitude: 195.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
+  width: 5076
+  height: 3789
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
+  time: 2020-06-12 10:11:59.000000000+02:00
+- image_filename: 2020_06_12__10_12__6126650.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.956652777777784
+  lon: 16.846277777777775
+  altitude: 238.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
   width: 5239
   height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 16:49:28+02:00
-  focus_distance: 0.25
-- image_filename: 2020_06_12__11_48__6126699.jpg
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 10:12:05.000000000+02:00
+- image_filename: 2020_06_12__10_15__6126654.jpg
   post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.92391666666666
-  lon: 16.657638888888886
-  altitude: 199.0
+  lat: 53.955000000000005
+  lon: 16.83775
+  altitude: 224.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 9.42
+  iso: 200
+  width: 5150
+  height: 3843
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 10:15:28.000000000+02:00
+- image_filename: 2020_06_12__10_24__6126663.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.953250000000004
+  lon: 16.791972222222224
+  altitude: 211.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 112.99
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 10:24:24.000000000+02:00
+- image_filename: 2020_06_12__10_24__6126666.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.95304166666667
+  lon: 16.790055555555558
+  altitude: 209.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.24
   iso: 200
+  width: 5123
+  height: 3824
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 3874
-  height: 5190
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2020-06-12 11:48:43+02:00
-  focus_distance: 2.92
-- image_filename: 2020_06_12__16_44__6127307.jpg
+  time: 2020-06-12 10:24:43.000000000+02:00
+- image_filename: 2020_06_12__10_30__6126674.jpg
   post_slug: 2020-06-12-odwrotna-pomorska-500
-  lat: 53.668416666666666
-  lon: 16.489833333333333
-  altitude: 192.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 53.948138888888884
+  lon: 16.774944444444444
+  altitude: 198.0
+  focal_length: 14.0
+  focal_length_35: 28.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
   iso: 200
+  width: 4951
+  height: 3656
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5051
-  height: 3618
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-12 16:44:38+02:00
-  focus_distance: 64.5
+  time: 2020-06-12 10:30:29.000000000+02:00
 - image_filename: 2020_06_12__11_47__6126695.jpg
   post_slug: 2020-06-12-odwrotna-pomorska-500
   lat: 53.928013888888884
@@ -1394,12 +296,1110 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.025
   exposure_string: 1/40 s
-  time: 2020-06-12 11:47:08+02:00
   focus_distance: 2.49
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 11:47:08.000000000+02:00
+- image_filename: 2020_06_12__11_48__6126699.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.92391666666666
+  lon: 16.657638888888886
+  altitude: 199.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 2.92
+  iso: 200
+  width: 3874
+  height: 5190
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 11:48:43.000000000+02:00
+- image_filename: 2020_06_12__11_53__6126702.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.91034722222222
+  lon: 16.663361111111108
+  altitude: 192.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.92
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 11:53:57.000000000+02:00
+- image_filename: 2020_06_12__11_54__6126705.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.90923611111111
+  lon: 16.664125
+  altitude: 195.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 18.73
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 11:54:18.000000000+02:00
+- image_filename: 2020_06_12__11_54__6126709.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.907402777777776
+  lon: 16.665916666666664
+  altitude: 191.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 88.56
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 11:54:46.000000000+02:00
+- image_filename: 2020_06_12__12_19__6126713.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.865458333333336
+  lon: 16.711902777777777
+  altitude: 185.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.28
+  iso: 200
+  width: 5196
+  height: 3879
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:19:38.000000000+02:00
+- image_filename: 2020_06_12__12_19__6126715.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.86530555555556
+  lon: 16.712319444444443
+  altitude: 185.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 23.57
+  iso: 200
+  width: 5164
+  height: 3854
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:19:43.000000000+02:00
+- image_filename: 2020_06_12__12_34__6126725.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84384722222222
+  lon: 16.671430555555556
+  altitude: 176.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4851
+  height: 3557
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:34:50.000000000+02:00
+- image_filename: 2020_06_12__12_35__6126728.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84384722222222
+  lon: 16.671430555555556
+  altitude: 176.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 57.08
+  iso: 200
+  width: 5108
+  height: 3845
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:35:01.000000000+02:00
+- image_filename: 2020_06_12__12_35__6126729.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84386111111111
+  lon: 16.671430555555556
+  altitude: 176.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 16.12
+  iso: 200
+  width: 5180
+  height: 3842
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:35:07.000000000+02:00
+- image_filename: 2020_06_12__12_35__6126732.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84386111111111
+  lon: 16.671430555555556
+  altitude: 175.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 46.94
+  iso: 200
+  width: 5225
+  height: 3895
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:35:25.000000000+02:00
+- image_filename: 2020_06_12__12_38__6126737.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84386111111111
+  lon: 16.671430555555556
+  altitude: 176.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.14
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:38:23.000000000+02:00
+- image_filename: 2020_06_12__12_38__6126740.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84386111111111
+  lon: 16.671430555555556
+  altitude: 176.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.18
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:38:26.000000000+02:00
+- image_filename: 2020_06_12__12_39__6126746.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84326388888889
+  lon: 16.669666666666668
+  altitude: 175.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.23
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:39:12.000000000+02:00
+- image_filename: 2020_06_12__12_40__6126773.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84301388888889
+  lon: 16.66011111111111
+  altitude: 177.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 2.97
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:40:33.000000000+02:00
+- image_filename: 2020_06_12__12_41__6126780.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84323611111111
+  lon: 16.65698611111111
+  altitude: 177.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5077
+  height: 3711
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 12:41:03.000000000+02:00
+- image_filename: 2020_06_12__13_22__6126785.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.846111111111114
+  lon: 16.566819444444445
+  altitude: 190.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 13:22:13.000000000+02:00
+- image_filename: 2020_06_12__13_22__6126788.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84568055555556
+  lon: 16.565236111111112
+  altitude: 190.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 13:22:29.000000000+02:00
+- image_filename: 2020_06_12__13_27__6126792.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.84102777777778
+  lon: 16.557402777777778
+  altitude: 182.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 13:27:10.000000000+02:00
+- image_filename: 2020_06_12__13_27__6126796.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.83986111111111
+  lon: 16.557361111111113
+  altitude: 186.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 42.56
+  iso: 200
+  width: 5076
+  height: 3789
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 13:27:39.000000000+02:00
+- image_filename: 2020_06_12__13_38__6126803.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.820888888888895
+  lon: 16.559541666666668
+  altitude: 184.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 142.47
+  iso: 200
+  width: 5170
+  height: 3859
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 13:38:51.000000000+02:00
+- image_filename: 2020_06_12__13_46__6126819.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.811277777777775
+  lon: 16.550944444444447
+  altitude: 192.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 24.98
+  iso: 200
+  width: 4906
+  height: 3525
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 13:46:56.000000000+02:00
+- image_filename: 2020_06_12__13_47__6126822.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.811277777777775
+  lon: 16.550944444444447
+  altitude: 192.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 19.74
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 13:47:07.000000000+02:00
+- image_filename: 2020_06_12__13_48__6126824.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.811277777777775
+  lon: 16.550944444444447
+  altitude: 192.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.24
+  iso: 200
+  width: 4870
+  height: 3714
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 13:48:39.000000000+02:00
+- image_filename: 2020_06_12__13_54__6126826.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.80647222222222
+  lon: 16.527388888888886
+  altitude: 170.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 15.65
+  iso: 200
+  width: 5179
+  height: 3837
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 13:54:51.000000000+02:00
+- image_filename: 2020_06_12__14_18__6126837.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.76566666666667
+  lon: 16.487375
+  altitude: 158.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.68
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:18:09.000000000+02:00
+- image_filename: 2020_06_12__14_18__6126840.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.765319444444444
+  lon: 16.486416666666667
+  altitude: 159.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 135.4
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:18:23.000000000+02:00
+- image_filename: 2020_06_12__14_47__6126878.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72929166666667
+  lon: 16.465666666666667
+  altitude: 191.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.7
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:47:13.000000000+02:00
+- image_filename: 2020_06_12__14_47__6126880.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72929166666667
+  lon: 16.465666666666667
+  altitude: 191.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 9.55
+  iso: 200
+  width: 5028
+  height: 3754
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:47:23.000000000+02:00
+- image_filename: 2020_06_12__14_50__6126916.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72929166666667
+  lon: 16.465666666666667
+  altitude: 191.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.45
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:50:05.000000000+02:00
+- image_filename: 2020_06_12__14_50__6126952.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72929166666667
+  lon: 16.465666666666667
+  altitude: 191.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.45
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:50:22.000000000+02:00
+- image_filename: 2020_06_12__14_50__6126959.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72929166666667
+  lon: 16.465666666666667
+  altitude: 191.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.45
+  iso: 400
+  width: 4653
+  height: 3659
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:50:35.000000000+02:00
+- image_filename: 2020_06_12__14_51__6127024.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72929166666667
+  lon: 16.465666666666667
+  altitude: 191.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.45
+  iso: 400
+  width: 4550
+  height: 3290
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:51:29.000000000+02:00
+- image_filename: 2020_06_12__14_51__6127070.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72929166666667
+  lon: 16.465666666666667
+  altitude: 191.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 0.45
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:51:48.000000000+02:00
+- image_filename: 2020_06_12__14_53__6127117.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72929166666667
+  lon: 16.465680555555554
+  altitude: 192.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.45
+  iso: 400
+  width: 4614
+  height: 3423
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:53:20.000000000+02:00
+- image_filename: 2020_06_12__14_54__6127140.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72929166666667
+  lon: 16.465680555555554
+  altitude: 192.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.45
+  iso: 400
+  width: 4539
+  height: 3483
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:54:12.000000000+02:00
+- image_filename: 2020_06_12__14_57__6127164.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.72880555555556
+  lon: 16.46558333333333
+  altitude: 193.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 0.45
+  iso: 400
+  width: 4454
+  height: 3218
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 14:57:53.000000000+02:00
+- image_filename: 2020_06_12__15_11__6127235.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.71575
+  lon: 16.434194444444444
+  altitude: 222.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 95.81
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 15:11:41.000000000+02:00
+- image_filename: 2020_06_12__15_12__6127237.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.71590277777778
+  lon: 16.432875000000003
+  altitude: 224.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 18.81
+  iso: 400
+  width: 5130
+  height: 3829
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 15:12:01.000000000+02:00
+- image_filename: 2020_06_12__15_48__6127243.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.716097222222224
+  lon: 16.429555555555556
+  altitude: 228.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.56
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 15:48:49.000000000+02:00
+- image_filename: 2020_06_12__16_05__6127262.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.71016666666667
+  lon: 16.465541666666667
+  altitude: 218.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 36.74
+  iso: 200
+  width: 5015
+  height: 3744
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:05:49.000000000+02:00
+- image_filename: 2020_06_12__16_07__6127270.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.70868055555556
+  lon: 16.468625
+  altitude: 215.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 6.5
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:07:35.000000000+02:00
+- image_filename: 2020_06_12__16_07__6127272.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.70868055555556
+  lon: 16.468625
+  altitude: 215.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 21.64
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:07:48.000000000+02:00
+- image_filename: 2020_06_12__16_24__6127280.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.674930555555555
+  lon: 16.492069444444446
+  altitude: 188.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 15.19
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:24:54.000000000+02:00
+- image_filename: 2020_06_12__16_30__6127295.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.67477777777778
+  lon: 16.492083333333333
+  altitude: 187.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5022
+  height: 3579
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:30:02.000000000+02:00
+- image_filename: 2020_06_12__16_30__6127297.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.674569444444444
+  lon: 16.491708333333335
+  altitude: 187.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.36
+  iso: 200
+  width: 3193
+  height: 4826
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:30:14.000000000+02:00
+- image_filename: 2020_06_12__16_33__6127302.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.671680555555554
+  lon: 16.49038888888889
+  altitude: 193.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 96.38
+  iso: 200
+  width: 5213
+  height: 3884
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:33:40.000000000+02:00
+- image_filename: 2020_06_12__16_33__6127305.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.67106944444444
+  lon: 16.490361111111113
+  altitude: 193.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 23.2
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:33:57.000000000+02:00
+- image_filename: 2020_06_12__16_44__6127307.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.668416666666666
+  lon: 16.489833333333333
+  altitude: 192.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 64.5
+  iso: 200
+  width: 5051
+  height: 3618
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:44:38.000000000+02:00
+- image_filename: 2020_06_12__16_47__6127322.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.66788888888889
+  lon: 16.489875
+  altitude: 192.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.38
+  iso: 200
+  width: 5023
+  height: 3275
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:47:37.000000000+02:00
+- image_filename: 2020_06_12__16_47__6127326.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.66772222222222
+  lon: 16.489875
+  altitude: 192.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.2
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:47:41.000000000+02:00
+- image_filename: 2020_06_12__16_48__6127353.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.66430555555555
+  lon: 16.489958333333334
+  altitude: 193.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.73
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:48:38.000000000+02:00
+- image_filename: 2020_06_12__16_49__6127384.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.66186111111111
+  lon: 16.489569444444445
+  altitude: 195.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.25
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:49:28.000000000+02:00
+- image_filename: 2020_06_12__16_49__6127390.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.66163888888889
+  lon: 16.48911111111111
+  altitude: 195.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.22
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 16:49:34.000000000+02:00
+- image_filename: 2020_06_12__17_16__6127398.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.61598611111111
+  lon: 16.477055555555555
+  altitude: 175.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 35.69
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 17:16:11.000000000+02:00
+- image_filename: 2020_06_12__17_19__6127405-hdr.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.61598611111111
+  lon: 16.477055555555555
+  altitude: 175.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5127
+  height: 3827
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 17:19:20.000000000+02:00
+- image_filename: 2020_06_12__17_19__6127415.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.61598611111111
+  lon: 16.477055555555555
+  altitude: 175.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.7
+  iso: 200
+  width: 5033
+  height: 3758
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 17:19:58.000000000+02:00
+- image_filename: 2020_06_12__17_23__6127432.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.616
+  lon: 16.477055555555555
+  altitude: 175.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 54.43
+  iso: 200
+  width: 5116
+  height: 3818
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 17:23:05.000000000+02:00
+- image_filename: 2020_06_12__17_39__6127441.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.640125
+  lon: 16.489916666666666
+  altitude: 202.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 109.96
+  iso: 200
+  width: 5171
+  height: 3826
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 17:39:30.000000000+02:00
+- image_filename: 2020_06_12__17_51__6127443.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.660333333333334
+  lon: 16.454013888888888
+  altitude: 193.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 12.56
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 17:51:53.000000000+02:00
+- image_filename: 2020_06_12__17_55__6127449.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.6645
+  lon: 16.44840277777778
+  altitude: 197.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 54.25
+  iso: 200
+  width: 5106
+  height: 3812
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 17:55:18.000000000+02:00
+- image_filename: 2020_06_12__18_33__6127462.jpg
+  post_slug: 2020-06-12-odwrotna-pomorska-500
+  lat: 53.740625
+  lon: 16.354666666666667
+  altitude: 156.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 7.97
+  iso: 200
+  width: 5052
+  height: 3651
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-06-12 18:33:14.000000000+02:00

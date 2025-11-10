@@ -1,23 +1,90 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2021_08_26__19_05_DSC07182.jpg
   post_slug: 2021-08-26-krotki-spacer-w-stawkach
-- image_filename: 2021_08_26__19_14_DSC07225.jpg
+  lat: 54.20666666666667
+  lon: 21.62697222222222
+  altitude: 165.0
+  focal_length: 276.3
+  focal_length_35: 276.0
+  crop: 0.998914223669924
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 8000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-26 19:05:29.000000000+02:00
+- image_filename: 2021_08_26__19_06_DSC07192.jpg
   post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.20926388888889
-  lon: 21.62438888888889
-  altitude: 123.0
-  focal_length: 143.5
-  focal_length_35: 143.0
-  crop: 0.9965156794425087
+  lat: 54.20693055555556
+  lon: 21.627277777777778
+  altitude: 164.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 16000
+  width: 4987
+  height: 3290
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-26 19:06:40.000000000+02:00
+- image_filename: 2021_08_26__19_07_DSC07196.jpg
+  post_slug: 2021-08-26-krotki-spacer-w-stawkach
+  lat: 54.20713888888889
+  lon: 21.627055555555557
+  altitude: 139.0
+  focal_length: 185.0
+  focal_length_35: 185.0
+  crop: 1.0
   aperture: 5.6
   exposure: 0.005
   exposure_string: 1/200 s
-  iso: 1000
-  width: 5793
-  height: 3854
+  iso: 6400
+  width: 6048
+  height: 4024
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  time: 2021-08-26 19:14:05.000000000+02:00
+  time: 2021-08-26 19:07:16.000000000+02:00
+- image_filename: 2021_08_26__19_07_DSC07197.jpg
+  post_slug: 2021-08-26-krotki-spacer-w-stawkach
+  lat: 54.20719444444445
+  lon: 21.627069444444444
+  altitude: 134.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 4000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-26 19:07:26.000000000+02:00
+- image_filename: 2021_08_26__19_07__8262917.jpg
+  post_slug: 2021-08-26-krotki-spacer-w-stawkach
+  lat: 54.207055555555556
+  lon: 21.62713888888889
+  altitude: 149.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 78.01
+  iso: 320
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-26 19:07:00.000000000+02:00
 - image_filename: 2021_08_26__19_07__8262920.jpg
   post_slug: 2021-08-26-krotki-spacer-w-stawkach
   lat: 54.20741666666667
@@ -54,143 +121,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-26 19:08:36.000000000+02:00
-- image_filename: 2021_08_26__19_07__8262917.jpg
-  post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.207055555555556
-  lon: 21.62713888888889
-  altitude: 149.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.25
-  exposure_string: 1/4 s
-  focus_distance: 78.01
-  iso: 320
-  width: 3912
-  height: 5240
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-26 19:07:00.000000000+02:00
-- image_filename: 2021_08_26__19_07_DSC07196.jpg
-  post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.20713888888889
-  lon: 21.627055555555557
-  altitude: 139.0
-  focal_length: 185.0
-  focal_length_35: 185.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 6400
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-26 19:07:16.000000000+02:00
-- image_filename: 2021_08_26__19_07_DSC07197.jpg
-  post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.20719444444445
-  lon: 21.627069444444444
-  altitude: 134.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 4000
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-26 19:07:26.000000000+02:00
-- image_filename: 2021_08_26__19_15_DSC07233.jpg
-  post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.20959722222222
-  lon: 21.623833333333334
-  altitude: 120.0
-  focal_length: 276.3
-  focal_length_35: 276.0
-  crop: 0.998914223669924
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 2000
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-26 19:15:52.000000000+02:00
-- image_filename: 2021_08_26__19_10_DSC07217.jpg
-  post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.208111111111116
-  lon: 21.62576388888889
-  altitude: 128.0
-  focal_length: 174.1
-  focal_length_35: 174.0
-  crop: 0.9994256174612293
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 1250
-  width: 5569
-  height: 3705
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-26 19:10:23.000000000+02:00
-- image_filename: 2021_08_26__19_06_DSC07192.jpg
-  post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.20693055555556
-  lon: 21.627277777777778
-  altitude: 164.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 16000
-  width: 4987
-  height: 3290
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-26 19:06:40.000000000+02:00
-- image_filename: 2021_08_26__19_05_DSC07182.jpg
-  post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.20666666666667
-  lon: 21.62697222222222
-  altitude: 165.0
-  focal_length: 276.3
-  focal_length_35: 276.0
-  crop: 0.998914223669924
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 8000
-  width: 6048
-  height: 4024
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-26 19:05:29.000000000+02:00
-- image_filename: 2021_08_26__19_11_DSC07220.jpg
-  post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.20816666666667
-  lon: 21.625666666666667
-  altitude: 128.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 1000
-  width: 5643
-  height: 3754
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-26 19:11:23.000000000+02:00
 - image_filename: 2021_08_26__19_09_DSC07209.jpg
   post_slug: 2021-08-26-krotki-spacer-w-stawkach
   lat: 54.208125
@@ -208,6 +138,91 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-08-26 19:09:28.000000000+02:00
+- image_filename: 2021_08_26__19_10_DSC07217.jpg
+  post_slug: 2021-08-26-krotki-spacer-w-stawkach
+  lat: 54.208111111111116
+  lon: 21.62576388888889
+  altitude: 128.0
+  focal_length: 174.1
+  focal_length_35: 174.0
+  crop: 0.9994256174612293
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1250
+  width: 5569
+  height: 3705
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-26 19:10:23.000000000+02:00
+- image_filename: 2021_08_26__19_11_DSC07220.jpg
+  post_slug: 2021-08-26-krotki-spacer-w-stawkach
+  lat: 54.20816666666667
+  lon: 21.625666666666667
+  altitude: 128.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
+  width: 5643
+  height: 3754
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-26 19:11:23.000000000+02:00
+- image_filename: 2021_08_26__19_14_DSC07225.jpg
+  post_slug: 2021-08-26-krotki-spacer-w-stawkach
+  lat: 54.20926388888889
+  lon: 21.62438888888889
+  altitude: 123.0
+  focal_length: 143.5
+  focal_length_35: 143.0
+  crop: 0.9965156794425087
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
+  width: 5793
+  height: 3854
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-26 19:14:05.000000000+02:00
+- image_filename: 2021_08_26__19_15_DSC07231.jpg
+  post_slug: 2021-08-26-krotki-spacer-w-stawkach
+  lat: 54.209500000000006
+  lon: 21.624055555555557
+  altitude: 121.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 2000
+  width: 5541
+  height: 3524
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-26 19:15:08.000000000+02:00
+- image_filename: 2021_08_26__19_15_DSC07233.jpg
+  post_slug: 2021-08-26-krotki-spacer-w-stawkach
+  lat: 54.20959722222222
+  lon: 21.623833333333334
+  altitude: 120.0
+  focal_length: 276.3
+  focal_length_35: 276.0
+  crop: 0.998914223669924
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 2000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-26 19:15:52.000000000+02:00
 - image_filename: 2021_08_26__19_17_DSC07240.jpg
   post_slug: 2021-08-26-krotki-spacer-w-stawkach
   lat: 54.210097222222224
@@ -242,20 +257,3 @@
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
   time: 2021-08-26 19:17:44.000000000+02:00
-- image_filename: 2021_08_26__19_15_DSC07231.jpg
-  post_slug: 2021-08-26-krotki-spacer-w-stawkach
-  lat: 54.209500000000006
-  lon: 21.624055555555557
-  altitude: 121.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 2000
-  width: 5541
-  height: 3524
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  time: 2021-08-26 19:15:08.000000000+02:00

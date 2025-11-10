@@ -1,405 +1,405 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 2048
-  height: 1365
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2011-12-31 09:46:44+01:00
 - image_filename: IMGP2524b1.jpg
   post_slug: 2011-12-31-zimowa-sniezka
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2011-12-28 13:53:52+01:00
-- image_filename: IMGP2628b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 25.0
-  exposure_string: 25 s
-  time: 2011-12-29 19:28:40+01:00
-- image_filename: IMGP2950b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-12-31 11:00:48+01:00
-- image_filename: IMGP3130b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2011-12-31 12:25:10+01:00
-- image_filename: IMGP3026b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 113.0
-  focal_length_35: 169.0
-  crop: 1.4955752212389382
-  aperture: 8.0
-  iso: 200
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2011-12-31 11:24:43+01:00
-- image_filename: IMGP3041.JPG
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2011-12-31 11:29:17+01:00
-- image_filename: IMGP3090.JPG
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2011-12-31 11:40:47+01:00
-- image_filename: IMGP3119b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2011-12-31 12:22:30+01:00
-- image_filename: IMGP3176b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2011-12-31 12:47:39+01:00
-- image_filename: IMGP3038b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-12-31 11:29:12+01:00
-- image_filename: IMGP3111b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2011-12-31 12:19:40+01:00
-- image_filename: IMGP3009b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2011-12-31 11:18:57+01:00
-- image_filename: IMGP2803.JPG
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 1600
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2011-12-31 08:42:15+01:00
-- image_filename: IMGP3151b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2011-12-31 12:32:44+01:00
-- image_filename: IMGP3599b.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 75.0
-  focal_length_35: 112.0
-  crop: 1.4933333333333334
-  aperture: 8.0
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2012-01-02 10:18:39+01:00
-- image_filename: IMGP3153b2.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-12-31 12:33:52+01:00
-- image_filename: IMGP2872b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2011-12-31 09:24:54+01:00
-- image_filename: IMGP3154b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-12-31 12:33:59+01:00
+  time: 2011-12-28 13:53:52.000000000+01:00
 - image_filename: IMGP2618b.jpg
   post_slug: 2011-12-31-zimowa-sniezka
   focal_length: 18.0
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
   exposure: 30.0
   exposure_string: 30 s
-  time: 2011-12-29 19:03:35+01:00
-- image_filename: IMGP3016b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2011-12-31 11:19:48+01:00
-- image_filename: IMGP3647b.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
   iso: 800
-  lens: Sigma Lens
+  lens: Sigma 55-200mm F4-5.6 DC
   camera: PENTAX K100D
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2012-01-02 10:31:55+01:00
+  time: 2011-12-29 19:03:35.000000000+01:00
 - image_filename: IMGP2620.JPG
   post_slug: 2011-12-31-zimowa-sniezka
   focal_length: 18.0
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
-  iso: 800
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
   exposure: 25.0
   exposure_string: 25 s
-  time: 2011-12-29 19:06:51+01:00
-- image_filename: IMGP3093b1.jpg
+  iso: 800
+  width: 3008
+  height: 2000
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-12-29 19:06:51.000000000+01:00
+- image_filename: IMGP2628b1.jpg
   post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 18.0
+  focal_length_35: 27.0
   crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
+  aperture: 6.3
+  exposure: 25.0
+  exposure_string: 25 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
   camera: PENTAX K100D
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2011-12-31 11:40:52+01:00
-- image_filename: IMGP2911b1.jpg
+  time: 2011-12-29 19:28:40.000000000+01:00
+- image_filename: IMGP2803.JPG
   post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 5.6
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2011-12-31 09:42:06+01:00
-- image_filename: IMGP3091b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 18.0
+  focal_length_35: 27.0
   crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
+  aperture: 4.5
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2011-12-31 11:40:49+01:00
-- image_filename: IMGP3156b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2011-12-31 12:35:08+01:00
-- image_filename: IMGP3150b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2011-12-31 12:30:20+01:00
-- image_filename: IMGP3173.JPG
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
+  iso: 1600
   width: 3008
   height: 2000
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2011-12-31 12:47:26+01:00
-- image_filename: IMGP3169b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: A Series Lens
+  lens: Sigma 55-200mm F4-5.6 DC
   camera: PENTAX K100D
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2011-12-31 12:46:13+01:00
-- image_filename: IMGP3183b1.jpg
+  time: 2011-12-31 08:42:15.000000000+01:00
+- image_filename: IMGP2872b1.jpg
   post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 18.0
+  focal_length_35: 27.0
   crop: 1.5
-  aperture: 5.6
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2011-12-31 12:50:03+01:00
-- image_filename: IMGP3077.JPG
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-12-31 11:37:02+01:00
-- image_filename: IMGP3089b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
-  camera: PENTAX K100D
+  aperture: 4.5
   exposure: 0.00025
   exposure_string: 1/4000 s
-  time: 2011-12-31 11:40:45+01:00
-- image_filename: IMGP3102b1.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: A Series Lens
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
   camera: PENTAX K100D
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2011-12-31 12:16:54+01:00
+  time: 2011-12-31 09:24:54.000000000+01:00
 - image_filename: IMGP2896b.jpg
   post_slug: 2011-12-31-zimowa-sniezka
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
-  iso: 400
-  lens: Sigma Lens
-  camera: PENTAX K100D
   exposure: 0.0005
   exposure_string: 1/2000 s
-  time: 2011-12-31 09:37:11+01:00
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-12-31 09:37:11.000000000+01:00
+- image_filename: IMGP2911b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 5.6
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 400
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-12-31 09:42:06.000000000+01:00
+- image_filename: IMGP2950b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-12-31 11:00:48.000000000+01:00
+- image_filename: IMGP3009b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 200
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-12-31 11:18:57.000000000+01:00
+- image_filename: IMGP3016b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-12-31 11:19:48.000000000+01:00
+- image_filename: IMGP3026b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 113.0
+  focal_length_35: 169.0
+  crop: 1.4955752212389382
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-12-31 11:24:43.000000000+01:00
+- image_filename: IMGP3038b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 11:29:12.000000000+01:00
+- image_filename: IMGP3041.JPG
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 200
+  width: 3008
+  height: 2000
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 11:29:17.000000000+01:00
+- image_filename: IMGP3077.JPG
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 3008
+  height: 2000
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 11:37:02.000000000+01:00
+- image_filename: IMGP3089b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 11:40:45.000000000+01:00
+- image_filename: IMGP3090.JPG
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 3008
+  height: 2000
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 11:40:47.000000000+01:00
+- image_filename: IMGP3091b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 11:40:49.000000000+01:00
+- image_filename: IMGP3093b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 11:40:52.000000000+01:00
+- image_filename: IMGP3102b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:16:54.000000000+01:00
+- image_filename: IMGP3111b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:19:40.000000000+01:00
+- image_filename: IMGP3119b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:22:30.000000000+01:00
+- image_filename: IMGP3130b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:25:10.000000000+01:00
+- image_filename: IMGP3150b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:30:20.000000000+01:00
+- image_filename: IMGP3151b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:32:44.000000000+01:00
+- image_filename: IMGP3153b2.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:33:52.000000000+01:00
+- image_filename: IMGP3154b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:33:59.000000000+01:00
+- image_filename: IMGP3156b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:35:08.000000000+01:00
 - image_filename: IMGP3159b1.jpg
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 9.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-12-31 12:35:37+01:00
+  time: 2011-12-31 12:35:37.000000000+01:00
+- image_filename: IMGP3169b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:46:13.000000000+01:00
+- image_filename: IMGP3173.JPG
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 3008
+  height: 2000
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:47:26.000000000+01:00
+- image_filename: IMGP3176b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:47:39.000000000+01:00
+- image_filename: IMGP3183b1.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: A Series Lens
+  camera: PENTAX K100D
+  time: 2011-12-31 12:50:03.000000000+01:00
+- image_filename: IMGP3599b.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 75.0
+  focal_length_35: 112.0
+  crop: 1.4933333333333334
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2012-01-02 10:18:39.000000000+01:00
+- image_filename: IMGP3647b.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 800
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2012-01-02 10:31:55.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 400
+  width: 2048
+  height: 1365
+  lens: Sigma 55-200mm F4-5.6 DC
+  camera: PENTAX K100D
+  time: 2011-12-31 09:46:44.000000000+01:00

@@ -1,226 +1,48 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2018-01-08 08:06:48+01:00
 - image_filename: IMGP4506raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
   focal_length: 27.0
   focal_length_35: 40.0
   crop: 1.4814814814814814
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
-  time: 2018-01-07 19:49:01+01:00
-- image_filename: IMGP4536raw2.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 10.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 15.0
-  exposure_string: 15 s
-  time: 2018-01-07 20:39:49+01:00
+  time: 2018-01-07 19:49:01.000000000+01:00
+- image_filename: IMGP4508raw2.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 4.5
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2018-01-07 19:51:54.000000000+01:00
 - image_filename: IMGP4510raw2.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
   focal_length: 19.0
   focal_length_35: 28.0
   crop: 1.4736842105263157
   aperture: 5.6
+  exposure: 30.0
+  exposure_string: 30 s
   iso: 500
   camera: PENTAX K-S2
+  time: 2018-01-07 19:55:43.000000000+01:00
+- image_filename: IMGP4512raw2.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 5.0
   exposure: 30.0
   exposure_string: 30 s
-  time: 2018-01-07 19:55:43+01:00
-- image_filename: IMGP4516raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.47858333333333
-  lon: 18.563680555555557
-  altitude: 4294967296.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 3.2
-  iso: 640
+  iso: 500
   camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-01-07 20:06:06+01:00
-- image_filename: IMGP4543raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2018-01-08 07:44:55+01:00
-- image_filename: IMGP4553raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.48104166666667
-  lon: 18.56498611111111
-  altitude: 4294967296.0
-  focal_length: 19.0
-  focal_length_35: 28.0
-  crop: 1.4736842105263157
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-01-08 07:55:51+01:00
-- image_filename: IMGP4556raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.48101388888889
-  lon: 18.565
-  altitude: 4294967296.0
-  focal_length: 500.0
-  focal_length_35: 750.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 800
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-01-08 07:58:39+01:00
-- image_filename: IMGP4572raw3.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.48147222222222
-  lon: 18.56527777777778
-  altitude: 4294967296.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 5.0
-  exposure_string: 5 s
-  time: 2018-01-08 08:04:42+01:00
-- image_filename: IMGP4586raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.48151388888889
-  lon: 18.565180555555557
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 800
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-01-08 08:13:46+01:00
-- image_filename: IMGP4728raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-01-08 12:04:45+01:00
-- image_filename: IMGP4750raw3retinex.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-01-08 12:08:29+01:00
-- image_filename: IMGP4788raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-01-08 12:19:39+01:00
-- image_filename: IMGP4621raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 53.780763888888885
-  lon: 18.687333333333335
-  altitude: 73.0
-  focal_length: 36.0
-  focal_length_35: 54.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-01-08 10:12:59+01:00
-- image_filename: IMGP4550raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.48102777777778
-  lon: 18.565097222222224
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2018-01-08 07:49:49+01:00
-- image_filename: IMGP4571raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2018-01-08 08:04:11+01:00
-- image_filename: IMGP4542raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.480111111111114
-  lon: 18.564194444444446
-  altitude: 4294967296.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 10.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-01-08 07:44:24+01:00
-- image_filename: IMGP4570raw2.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-01-08 08:04:00+01:00
+  time: 2018-01-07 20:00:36.000000000+01:00
 - image_filename: IMGP4513raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
   lat: 54.47858333333333
@@ -230,89 +52,25 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 5.0
-  iso: 500
-  camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
-  time: 2018-01-07 20:01:48+01:00
-- image_filename: IMGP4544raw1cropped.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.480111111111114
-  lon: 18.564222222222224
-  altitude: 4294967296.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 400
+  iso: 500
   camera: PENTAX K-S2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2018-01-08 07:45:24+01:00
-- image_filename: IMGP4512raw2.jpg
+  time: 2018-01-07 20:01:48.000000000+01:00
+- image_filename: IMGP4516raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.47858333333333
+  lon: 18.563680555555557
+  altitude: 4294967296.0
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178
-  aperture: 5.0
-  iso: 500
-  camera: PENTAX K-S2
+  aperture: 3.2
   exposure: 30.0
   exposure_string: 30 s
-  time: 2018-01-07 20:00:36+01:00
-- image_filename: IMGP4544raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.480111111111114
-  lon: 18.564222222222224
-  altitude: 4294967296.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 400
+  iso: 640
   camera: PENTAX K-S2
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2018-01-08 07:45:24+01:00
-- image_filename: IMGP4508raw2.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 4.5
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-01-07 19:51:54+01:00
-- image_filename: IMGP4581raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.48151388888889
-  lon: 18.565180555555557
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 800
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-01-08 08:13:03+01:00
-- image_filename: IMGP4528raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.479819444444445
-  lon: 18.566694444444444
-  altitude: 4294967296.0
-  focal_length: 13.0
-  focal_length_35: 19.0
-  crop: 1.4615384615384615
-  aperture: 7.1
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-01-07 20:24:20+01:00
+  time: 2018-01-07 20:06:06.000000000+01:00
 - image_filename: IMGP4524raw2.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
   lat: 54.480111111111114
@@ -322,11 +80,36 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 7.1
-  iso: 500
-  camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
-  time: 2018-01-07 20:17:36+01:00
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2018-01-07 20:17:36.000000000+01:00
+- image_filename: IMGP4528raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.479819444444445
+  lon: 18.566694444444444
+  altitude: 4294967296.0
+  focal_length: 13.0
+  focal_length_35: 19.0
+  crop: 1.4615384615384615
+  aperture: 7.1
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2018-01-07 20:24:20.000000000+01:00
+- image_filename: IMGP4536raw2.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
+  exposure: 15.0
+  exposure_string: 15 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 20:39:49.000000000+01:00
 - image_filename: IMGP4539raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
   lat: 54.48009722222223
@@ -336,25 +119,106 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 9.0
+  exposure: 8.0
+  exposure_string: 0.8 s
   iso: 400
   camera: PENTAX K-S2
+  time: 2018-01-08 07:41:33.000000000+01:00
+- image_filename: IMGP4542raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.480111111111114
+  lon: 18.564194444444446
+  altitude: 4294967296.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 10.0
   exposure: 1.0
   exposure_string: 1 s
-  time: 2018-01-08 07:41:33+01:00
-- image_filename: IMGP4593raw1.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  lat: 54.481097222222225
-  lon: 18.564972222222224
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 1250
+  iso: 400
   camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2018-01-08 08:14:39+01:00
+  time: 2018-01-08 07:44:24.000000000+01:00
+- image_filename: IMGP4543raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-01-08 07:44:55.000000000+01:00
+- image_filename: IMGP4544raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.480111111111114
+  lon: 18.564222222222224
+  altitude: 4294967296.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-01-08 07:45:24.000000000+01:00
+- image_filename: IMGP4544raw1cropped.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.480111111111114
+  lon: 18.564222222222224
+  altitude: 4294967296.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-01-08 07:45:24.000000000+01:00
+- image_filename: IMGP4550raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.48102777777778
+  lon: 18.565097222222224
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 14.0
+  exposure: 8.0
+  exposure_string: 8 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 07:49:49.000000000+01:00
+- image_filename: IMGP4553raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.48104166666667
+  lon: 18.56498611111111
+  altitude: 4294967296.0
+  focal_length: 19.0
+  focal_length_35: 28.0
+  crop: 1.4736842105263157
+  aperture: 14.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 07:55:51.000000000+01:00
+- image_filename: IMGP4556raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.48101388888889
+  lon: 18.565
+  altitude: 4294967296.0
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2018-01-08 07:58:39.000000000+01:00
 - image_filename: IMGP4566raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
   lat: 54.480986111111115
@@ -364,8 +228,144 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 4.0
   exposure_string: 4 s
-  time: 2018-01-08 08:02:06+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 08:02:06.000000000+01:00
+- image_filename: IMGP4570raw2.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 8.0
+  exposure: 1.0
+  exposure_string: 1 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 08:04:00.000000000+01:00
+- image_filename: IMGP4571raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 16.0
+  exposure: 8.0
+  exposure_string: 8 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 08:04:11.000000000+01:00
+- image_filename: IMGP4572raw3.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.48147222222222
+  lon: 18.56527777777778
+  altitude: 4294967296.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 14.0
+  exposure: 5.0
+  exposure_string: 5 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 08:04:42.000000000+01:00
+- image_filename: IMGP4581raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.48151388888889
+  lon: 18.565180555555557
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2018-01-08 08:13:03.000000000+01:00
+- image_filename: IMGP4586raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.48151388888889
+  lon: 18.565180555555557
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2018-01-08 08:13:46.000000000+01:00
+- image_filename: IMGP4593raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.481097222222225
+  lon: 18.564972222222224
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1250
+  camera: PENTAX K-S2
+  time: 2018-01-08 08:14:39.000000000+01:00
+- image_filename: IMGP4621raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 53.780763888888885
+  lon: 18.687333333333335
+  altitude: 73.0
+  focal_length: 36.0
+  focal_length_35: 54.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 10:12:59.000000000+01:00
+- image_filename: IMGP4728raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 12:04:45.000000000+01:00
+- image_filename: IMGP4750raw3retinex.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 12:08:29.000000000+01:00
+- image_filename: IMGP4788raw1.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-01-08 12:19:39.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 13.0
+  exposure: 4.0
+  exposure_string: 4 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-08 08:06:48.000000000+01:00

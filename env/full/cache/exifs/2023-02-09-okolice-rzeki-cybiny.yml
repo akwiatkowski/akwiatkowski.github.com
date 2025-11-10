@@ -1,8 +1,8 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2023-02-09-okolice-rzeki-cybiny
 - image_filename: 2023_02_09__15_09_DJI_0519.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.46073055555556
+  lon: 17.20381111111111
   altitude: 13.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -15,8 +15,26 @@
   height: 6048
   camera: FC3582
   time: 2023-02-09 15:09:55.000000000+01:00
+- image_filename: 2023_02_09__15_13_DJI_0525.jpg
+  post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.457883333333335
+  lon: 17.205619444444444
+  altitude: 12.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-09 15:13:11.000000000+01:00
 - image_filename: 2023_02_09__15_23_DJI_0531.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.458000000000006
+  lon: 17.202394444444444
   altitude: 28.7
   focal_length: 6.7
   focal_length_35: 24.0
@@ -31,6 +49,8 @@
   time: 2023-02-09 15:23:15.000000000+01:00
 - image_filename: 2023_02_09__15_24_DJI_0534.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.45729722222222
+  lon: 17.20373888888889
   altitude: 28.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -43,22 +63,10 @@
   height: 6048
   camera: FC3582
   time: 2023-02-09 15:24:02.000000000+01:00
-- image_filename: 2023_02_09__15_13_DJI_0525.jpg
-  post_slug: 2023-02-09-okolice-rzeki-cybiny
-  altitude: 12.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  iso: 150
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-02-09 15:13:11.000000000+01:00
 - image_filename: 2023_02_09__15_24_DJI_0535.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.457300000000004
+  lon: 17.203733333333332
   altitude: 28.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -73,6 +81,8 @@
   time: 2023-02-09 15:24:17.000000000+01:00
 - image_filename: 2023_02_09__15_24_DJI_0536.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.457302777777784
+  lon: 17.20372777777778
   altitude: 27.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -87,6 +97,8 @@
   time: 2023-02-09 15:24:27.000000000+01:00
 - image_filename: 2023_02_09__15_29_DJI_0553.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.45789166666667
+  lon: 17.202575
   altitude: 3.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -99,22 +111,10 @@
   height: 6048
   camera: FC3582
   time: 2023-02-09 15:29:15.000000000+01:00
-- image_filename: 2023_02_09__15_42_DJI_0558.jpg
-  post_slug: 2023-02-09-okolice-rzeki-cybiny
-  altitude: 8.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.001379310344827586
-  exposure_string: 1/725 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-02-09 15:42:09.000000000+01:00
 - image_filename: 2023_02_09__15_42_DJI_0557.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.46353888888889
+  lon: 17.205005555555555
   altitude: 8.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -127,8 +127,26 @@
   height: 6048
   camera: FC3582
   time: 2023-02-09 15:42:01.000000000+01:00
+- image_filename: 2023_02_09__15_42_DJI_0558.jpg
+  post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.46354166666667
+  lon: 17.205005555555555
+  altitude: 8.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-09 15:42:09.000000000+01:00
 - image_filename: 2023_02_09__15_43_DJI_0562.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.46353888888889
+  lon: 17.205005555555555
   altitude: 55.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -143,6 +161,8 @@
   time: 2023-02-09 15:43:01.000000000+01:00
 - image_filename: 2023_02_09__15_43_DJI_0564.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.46354166666667
+  lon: 17.205005555555555
   altitude: 55.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -157,6 +177,8 @@
   time: 2023-02-09 15:43:18.000000000+01:00
 - image_filename: 2023_02_09__15_43_DJI_0565.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.46353888888889
+  lon: 17.205011111111112
   altitude: 54.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -169,36 +191,10 @@
   height: 6048
   camera: FC3582
   time: 2023-02-09 15:43:28.000000000+01:00
-- image_filename: 2023_02_09__15_45_DJI_0569.jpg
-  post_slug: 2023-02-09-okolice-rzeki-cybiny
-  altitude: 53.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 120
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-02-09 15:45:11.000000000+01:00
-- image_filename: 2023_02_09__15_43_DJI_0567.jpg
-  post_slug: 2023-02-09-okolice-rzeki-cybiny
-  altitude: 54.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  iso: 110
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-02-09 15:43:46.000000000+01:00
 - image_filename: 2023_02_09__15_43_DJI_0566.jpg
   post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.46353888888889
+  lon: 17.205011111111112
   altitude: 54.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -211,3 +207,35 @@
   height: 6048
   camera: FC3582
   time: 2023-02-09 15:43:37.000000000+01:00
+- image_filename: 2023_02_09__15_43_DJI_0567.jpg
+  post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.46353888888889
+  lon: 17.205005555555555
+  altitude: 54.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-09 15:43:46.000000000+01:00
+- image_filename: 2023_02_09__15_45_DJI_0569.jpg
+  post_slug: 2023-02-09-okolice-rzeki-cybiny
+  lat: 52.465497222222226
+  lon: 17.201116666666667
+  altitude: 53.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-09 15:45:11.000000000+01:00

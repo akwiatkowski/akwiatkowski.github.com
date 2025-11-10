@@ -1,31 +1,31 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-08-10-aby-nie-czekac-za-pociagiem-w-zielonej-gorze
-  lat: 51.90413
-  lon: 15.346091111111111
-  altitude: 145.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-08-10 17:41:15+02:00
 - image_filename: IMGP4253raw1.jpg
   post_slug: 2016-08-10-aby-nie-czekac-za-pociagiem-w-zielonej-gorze
-  lat: 51.872344166666664
-  lon: 15.318624166666666
+  lat: 51.872344444444444
+  lon: 15.318624999999999
   altitude: 78.5
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2016-08-10 17:22:18+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-08-10 17:22:18.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-08-10-aby-nie-czekac-za-pociagiem-w-zielonej-gorze
+  lat: 51.904130555555554
+  lon: 15.346091666666668
+  altitude: 145.8
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-08-10 17:41:15.000000000+02:00

@@ -1,31 +1,31 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2014-04-06-przejazdzka-na-dziewicza-gore
-  lat: 52.46785888888889
-  lon: 17.069415
-  altitude: 95.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2014-04-06 15:48:46+02:00
 - image_filename: IMGP4536raw1.jpg
   post_slug: 2014-04-06-przejazdzka-na-dziewicza-gore
-  lat: 52.40831305555555
-  lon: 17.044889166666668
+  lat: 52.408313888888884
+  lon: 17.04488888888889
   altitude: 75.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2014-04-06 13:06:38.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2014-04-06-przejazdzka-na-dziewicza-gore
+  lat: 52.46785833333333
+  lon: 17.06941388888889
+  altitude: 95.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2014-04-06 13:06:38+02:00
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2014-04-06 15:48:46.000000000+02:00

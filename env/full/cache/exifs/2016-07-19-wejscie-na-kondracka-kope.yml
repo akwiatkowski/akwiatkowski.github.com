@@ -1,238 +1,238 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.24027888888889
-  lon: 19.943778333333334
-  altitude: 1546.9
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 800
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-19 13:48:14+02:00
 - image_filename: IMGP2388raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.25935361111111
+  lat: 49.25935277777778
   lon: 19.966925
   altitude: 1206.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2016-07-19 09:41:51+02:00
-- image_filename: IMGP2429raw1.jpg
-  post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.24718333333333
-  lon: 19.946245833333332
-  altitude: 1381.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 320
+  iso: 200
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-19 10:33:57+02:00
+  time: 2016-07-19 09:41:51.000000000+02:00
+- image_filename: IMGP2398raw1.jpg
+  post_slug: 2016-07-19-wejscie-na-kondracka-kope
+  lat: 49.25933611111111
+  lon: 19.966930555555553
+  altitude: 1205.2
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2016-07-19 09:43:35.000000000+02:00
+- image_filename: IMGP2407raw1.jpg
+  post_slug: 2016-07-19-wejscie-na-kondracka-kope
+  lat: 49.256994444444445
+  lon: 19.96816944444444
+  altitude: 1179.7
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 800
+  camera: PENTAX K-S2
+  time: 2016-07-19 09:49:54.000000000+02:00
 - image_filename: IMGP2419raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.24944583333333
-  lon: 19.951418888888888
+  lat: 49.24944444444444
+  lon: 19.951419444444443
   altitude: 1330.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
-  iso: 160
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-07-19 10:22:52+02:00
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-07-19 10:22:52.000000000+02:00
+- image_filename: IMGP2429raw1.jpg
+  post_slug: 2016-07-19-wejscie-na-kondracka-kope
+  lat: 49.24718333333333
+  lon: 19.946244444444446
+  altitude: 1381.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-19 10:33:57.000000000+02:00
 - image_filename: IMGP2459raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.245915833333335
-  lon: 19.935725277777777
+  lat: 49.245916666666666
+  lon: 19.935725
   altitude: 1556.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.05
   exposure_string: 1/20 s
-  time: 2016-07-19 11:06:07+02:00
-- image_filename: IMGP2511raw1.jpg
-  post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.239450833333336
-  lon: 19.93426388888889
-  altitude: 1905.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 250
+  iso: 200
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-19 12:13:30+02:00
-- image_filename: IMGP2523raw1.jpg
+  time: 2016-07-19 11:06:07.000000000+02:00
+- image_filename: IMGP2462raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.236495833333336
-  lon: 19.93229138888889
-  altitude: 1996.8
+  lat: 49.24596944444445
+  lon: 19.935141666666667
+  altitude: 1574.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-07-19 12:47:04+02:00
-- image_filename: IMGP2563raw1.jpg
+  time: 2016-07-19 11:09:08.000000000+02:00
+- image_filename: IMGP2474raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.238352222222225
-  lon: 19.942064722222224
-  altitude: 1622.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
+  lat: 49.24625
+  lon: 19.934155555555556
+  altitude: 1624.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
   aperture: 9.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-19 13:33:54+02:00
-- image_filename: IMGP2627raw1.jpg
-  post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.24724888888889
-  lon: 19.94902
-  altitude: 1363.3
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-19 14:16:18+02:00
-- image_filename: IMGP2704raw1.jpg
-  post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-07-20 09:00:59+02:00
+  time: 2016-07-19 11:24:59.000000000+02:00
 - image_filename: IMGP2481raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.24662444444444
+  lat: 49.246625
   lon: 19.933
   altitude: 1687.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2016-07-19 11:34:28+02:00
-- image_filename: IMGP2407raw1.jpg
-  post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.256995833333335
-  lon: 19.968170833333332
-  altitude: 1179.7
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 2.8
-  iso: 800
+  iso: 200
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-19 09:49:54+02:00
+  time: 2016-07-19 11:34:28.000000000+02:00
 - image_filename: IMGP2496raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.245445555555555
-  lon: 19.9323075
+  lat: 49.245444444444445
+  lon: 19.932308333333335
   altitude: 1725.2
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
-  iso: 320
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-07-19 11:46:16+02:00
-- image_filename: IMGP2398raw1.jpg
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-19 11:46:16.000000000+02:00
+- image_filename: IMGP2511raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.2593375
-  lon: 19.966930277777777
-  altitude: 1205.2
+  lat: 49.23945
+  lon: 19.93426388888889
+  altitude: 1905.0
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
-  aperture: 4.0
-  iso: 800
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
   camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-07-19 09:43:35+02:00
-- image_filename: IMGP2462raw1.jpg
+  time: 2016-07-19 12:13:30.000000000+02:00
+- image_filename: IMGP2523raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.24596861111111
-  lon: 19.93514111111111
-  altitude: 1574.8
+  lat: 49.236494444444446
+  lon: 19.932291666666668
+  altitude: 1996.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2016-07-19 11:09:08+02:00
+  time: 2016-07-19 12:47:04.000000000+02:00
+- image_filename: IMGP2563raw1.jpg
+  post_slug: 2016-07-19-wejscie-na-kondracka-kope
+  lat: 49.23835277777778
+  lon: 19.94206388888889
+  altitude: 1622.8
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2016-07-19 13:33:54.000000000+02:00
 - image_filename: IMGP2624raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.24712111111111
-  lon: 19.94888027777778
+  lat: 49.247122222222224
+  lon: 19.948880555555554
   altitude: 1364.2
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 9.0
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-19 14:15:59+02:00
-- image_filename: IMGP2474raw1.jpg
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-19 14:15:59.000000000+02:00
+- image_filename: IMGP2627raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
-  lat: 49.246249166666665
-  lon: 19.93415472222222
-  altitude: 1624.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
+  lat: 49.24725
+  lon: 19.949019444444446
+  altitude: 1363.3
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
   aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-07-19 14:16:18.000000000+02:00
+- image_filename: IMGP2704raw1.jpg
+  post_slug: 2016-07-19-wejscie-na-kondracka-kope
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-19 11:24:59+02:00
+  time: 2016-07-20 09:00:59.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-07-19-wejscie-na-kondracka-kope
+  lat: 49.24027777777778
+  lon: 19.94377777777778
+  altitude: 1546.9
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 800
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-07-19 13:48:14.000000000+02:00

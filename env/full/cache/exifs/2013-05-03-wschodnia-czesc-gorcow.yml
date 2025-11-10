@@ -1,198 +1,198 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.459945000000005
-  lon: 20.404409444444443
-  altitude: 758.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2013-05-03 08:53:56+02:00
-- image_filename: IMGP1432b.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.44729611111111
-  lon: 20.415040555555553
-  altitude: 541.4
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-05-03 07:53:49+02:00
-- image_filename: IMGP1433b.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.447435
-  lon: 20.415015555555556
-  altitude: 541.8
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 5.6
-  iso: 200
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-05-03 07:53:53+02:00
-- image_filename: IMGP1482b.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.453918333333334
-  lon: 20.40761694444444
-  altitude: 655.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-05-03 08:20:05+02:00
-- image_filename: IMGP1523b.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.459945000000005
-  lon: 20.404409444444443
-  altitude: 758.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2013-05-03 08:53:56+02:00
-- image_filename: IMGP1660b.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.48822222222222
-  lon: 20.340779166666664
-  altitude: 1180.6
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 4.5
-  iso: 400
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2013-05-03 11:57:01+02:00
 - image_filename: IMGP1430b.jpg
   post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.44714055555555
-  lon: 20.415045277777775
+  lat: 49.44714166666666
+  lon: 20.415044444444444
   altitude: 540.4
   focal_length: 35.0
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2013-05-03 07:53:34+02:00
-- image_filename: IMGP1543b.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.460343333333334
-  lon: 20.404330833333333
-  altitude: 762.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-05-03 08:56:20+02:00
-- image_filename: IMGP1575c.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.46835666666667
-  lon: 20.393518888888888
-  altitude: 812.5
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2013-05-03 09:20:30+02:00
-- image_filename: IMGP1663b.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.48822666666667
-  lon: 20.3407625
-  altitude: 1180.6
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 3.2
-  iso: 400
-  lens: smc PENTAX-DA 35mm F2.4 AL
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-05-03 11:57:43+02:00
-- image_filename: IMGP1634b.jpg
-  post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.48557888888889
-  lon: 20.35086805555556
-  altitude: 1117.7
-  focal_length: 35.0
-  focal_length_35: 52.0
-  crop: 1.4857142857142858
-  aperture: 4.5
   iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2013-05-03 11:07:59+02:00
+  time: 2013-05-03 07:53:34.000000000+02:00
+- image_filename: IMGP1432b.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.44729722222222
+  lon: 20.415041666666664
+  altitude: 541.4
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-05-03 07:53:49.000000000+02:00
+- image_filename: IMGP1433b.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.44743611111111
+  lon: 20.415016666666666
+  altitude: 541.8
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-05-03 07:53:53.000000000+02:00
 - image_filename: IMGP1447b.jpg
   post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.44970194444444
-  lon: 20.412407499999997
+  lat: 49.44970277777777
+  lon: 20.41240833333333
   altitude: 588.0
   focal_length: 35.0
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2013-05-03 08:07:07+02:00
+  time: 2013-05-03 08:07:07.000000000+02:00
 - image_filename: IMGP1459b.jpg
   post_slug: 2013-05-03-wschodnia-czesc-gorcow
-  lat: 49.452023611111116
-  lon: 20.410544166666664
+  lat: 49.452025000000006
+  lon: 20.410544444444444
   altitude: 616.8
   focal_length: 35.0
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2013-05-03 08:11:39+02:00
+  time: 2013-05-03 08:11:39.000000000+02:00
+- image_filename: IMGP1482b.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.453919444444445
+  lon: 20.407616666666666
+  altitude: 655.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-03 08:20:05.000000000+02:00
+- image_filename: IMGP1523b.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.459944444444446
+  lon: 20.404408333333333
+  altitude: 758.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-03 08:53:56.000000000+02:00
+- image_filename: IMGP1543b.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.460344444444445
+  lon: 20.404330555555553
+  altitude: 762.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-03 08:56:20.000000000+02:00
+- image_filename: IMGP1575c.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.468355555555554
+  lon: 20.393519444444443
+  altitude: 812.5
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-03 09:20:30.000000000+02:00
+- image_filename: IMGP1634b.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.48557777777778
+  lon: 20.35086666666667
+  altitude: 1117.7
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-05-03 11:07:59.000000000+02:00
+- image_filename: IMGP1660b.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.48822222222222
+  lon: 20.340777777777777
+  altitude: 1180.6
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-05-03 11:57:01.000000000+02:00
+- image_filename: IMGP1663b.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.48822777777778
+  lon: 20.340763888888887
+  altitude: 1180.6
+  focal_length: 35.0
+  focal_length_35: 52.0
+  crop: 1.4857142857142858
+  aperture: 3.2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  lens: smc PENTAX-DA 35mm F2.4 AL
+  camera: PENTAX K-5
+  time: 2013-05-03 11:57:43.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2013-05-03-wschodnia-czesc-gorcow
+  lat: 49.459944444444446
+  lon: 20.404408333333333
+  altitude: 758.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  width: 2048
+  height: 1356
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2013-05-03 08:53:56.000000000+02:00

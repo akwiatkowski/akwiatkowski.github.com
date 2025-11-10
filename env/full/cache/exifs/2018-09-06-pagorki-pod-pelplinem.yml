@@ -1,22 +1,4 @@
 ---
-- image_filename: _9060153.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.876125
-  lon: 18.6845
-  altitude: 52.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5163
-  height: 3854
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-09-06 16:37:36+02:00
-  focus_distance: 1000.0
 - image_filename: _9060010.jpg
   post_slug: 2018-09-06-pagorki-pod-pelplinem
   lat: 53.879666666666665
@@ -26,15 +8,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5033
-  height: 3712
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2018-09-06 15:19:23+02:00
   focus_distance: 303.4
+  iso: 200
+  width: 5033
+  height: 3712
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-06 15:19:23.000000000+02:00
 - image_filename: _9060021b.jpg
   post_slug: 2018-09-06-pagorki-pod-pelplinem
   lat: 53.88033333333333
@@ -44,15 +26,15 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4984
-  height: 3720
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2018-09-06 15:27:45+02:00
   focus_distance: 118.72
+  iso: 200
+  width: 4984
+  height: 3720
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-06 15:27:45.000000000+02:00
 - image_filename: _9060040.jpg
   post_slug: 2018-09-06-pagorki-pod-pelplinem
   lat: 53.88319444444444
@@ -62,249 +44,15 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.05
   exposure_string: 1/20 s
-  time: 2018-09-06 15:38:56+02:00
   focus_distance: 3.53
-- image_filename: _9060048b.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.882625
-  lon: 18.705041666666666
-  altitude: 30.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
+  width: 5240
+  height: 3912
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-09-06 15:40:46+02:00
-  focus_distance: 13.36
-- image_filename: _9060067.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.882375
-  lon: 18.70559722222222
-  altitude: 28.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4959
-  height: 3704
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-09-06 15:46:26+02:00
-  focus_distance: 78.39
-- image_filename: _9060165.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.87640277777778
-  lon: 18.685625
-  altitude: 47.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 4961
-  height: 3704
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-09-06 16:40:02+02:00
-  focus_distance: 1000.0
-- image_filename: _9060108.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.87601388888889
-  lon: 18.68411111111111
-  altitude: 52.0
-  focal_length: 94.0
-  focal_length_35: 188.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 4912
-  height: 3667
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-09-06 16:19:32+02:00
-  focus_distance: 1000.0
-- image_filename: _9060132.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.875347222222224
-  lon: 18.680069444444445
-  altitude: 53.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 4917
-  height: 3671
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-09-06 16:29:42+02:00
-  focus_distance: 1000.0
-- image_filename: _9060135.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.875347222222224
-  lon: 18.680069444444445
-  altitude: 53.0
-  focal_length: 117.0
-  focal_length_35: 234.0
-  crop: 2.0
-  aperture: 5.3
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-09-06 16:30:06+02:00
-  focus_distance: 1000.0
-- image_filename: _9060161b.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.876263888888886
-  lon: 18.684916666666666
-  altitude: 51.0
-  focal_length: 164.0
-  focal_length_35: 328.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5028
-  height: 3754
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-06 16:38:41+02:00
-  focus_distance: 1000.0
-- image_filename: _9060098.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.87722222222222
-  lon: 18.68751388888889
-  altitude: 46.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-09-06 16:13:59+02:00
-  focus_distance: 1000.0
-- image_filename: _9060050b.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.8825
-  lon: 18.705388888888887
-  altitude: 29.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4935
-  height: 3686
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2018-09-06 15:41:04+02:00
-  focus_distance: 63.01
-- image_filename: _9060103.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.87629166666667
-  lon: 18.685319444444445
-  altitude: 48.0
-  focal_length: 187.0
-  focal_length_35: 374.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-09-06 16:17:24+02:00
-  focus_distance: 1000.0
-- image_filename: _9060085.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.87909722222222
-  lon: 18.689694444444445
-  altitude: 44.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5101
-  height: 3727
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-09-06 16:07:20+02:00
-  focus_distance: 1000.0
-- image_filename: _9060073.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.88154166666667
-  lon: 18.69665277777778
-  altitude: 41.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5092
-  height: 3705
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-09-06 15:56:43+02:00
-  focus_distance: 32.0
-- image_filename: _9060156b.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.87616666666667
-  lon: 18.684555555555555
-  altitude: 52.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-06 16:37:52+02:00
-  focus_distance: 56.25
+  time: 2018-09-06 15:38:56.000000000+02:00
 - image_filename: _9060044b.jpg
   post_slug: 2018-09-06-pagorki-pod-pelplinem
   lat: 53.88316666666667
@@ -314,66 +62,159 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
   exposure: 0.05
   exposure_string: 1/20 s
-  time: 2018-09-06 15:39:06+02:00
   focus_distance: 3.13
-- image_filename: _9060112b.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.87602777777778
-  lon: 18.684083333333334
-  altitude: 53.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 8.0
   iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 4811
-  height: 3470
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-09-06 16:20:12+02:00
-  focus_distance: 1000.0
-- image_filename: _9060176.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
+  width: 3912
+  height: 5240
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5114
-  height: 3740
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-09-06 16:51:05+02:00
-  focus_distance: 1000.0
-- image_filename: _9060120.jpg
+  time: 2018-09-06 15:39:06.000000000+02:00
+- image_filename: _9060048b.jpg
   post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.875597222222225
-  lon: 18.682375
-  altitude: 51.0
-  focal_length: 228.0
-  focal_length_35: 456.0
+  lat: 53.882625
+  lon: 18.705041666666666
+  altitude: 30.0
+  focal_length: 31.0
+  focal_length_35: 62.0
   crop: 2.0
-  aperture: 9.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 13.36
   iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-06 15:40:46.000000000+02:00
+- image_filename: _9060050b.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.8825
+  lon: 18.705388888888887
+  altitude: 29.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 63.01
+  iso: 200
+  width: 4935
+  height: 3686
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-06 15:41:04.000000000+02:00
+- image_filename: _9060067.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.882375
+  lon: 18.70559722222222
+  altitude: 28.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 78.39
+  iso: 200
+  width: 4959
+  height: 3704
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-06 15:46:26.000000000+02:00
+- image_filename: _9060073.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.88154166666667
+  lon: 18.69665277777778
+  altitude: 41.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 32.0
+  iso: 200
+  width: 5092
+  height: 3705
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-06 15:56:43.000000000+02:00
+- image_filename: _9060085.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.87909722222222
+  lon: 18.689694444444445
+  altitude: 44.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5101
+  height: 3727
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
-  width: 3741
-  height: 5012
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-09-06 16:23:38+02:00
+  time: 2018-09-06 16:07:20.000000000+02:00
+- image_filename: _9060098.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.87722222222222
+  lon: 18.68751388888889
+  altitude: 46.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
   focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:13:59.000000000+02:00
+- image_filename: _9060103.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.87629166666667
+  lon: 18.685319444444445
+  altitude: 48.0
+  focal_length: 187.0
+  focal_length_35: 374.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:17:24.000000000+02:00
+- image_filename: _9060108.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.87601388888889
+  lon: 18.68411111111111
+  altitude: 52.0
+  focal_length: 94.0
+  focal_length_35: 188.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4912
+  height: 3667
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:19:32.000000000+02:00
 - image_filename: _9060111.jpg
   post_slug: 2018-09-06-pagorki-pod-pelplinem
   lat: 53.87602777777778
@@ -383,12 +224,171 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 3539
-  height: 4731
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2018-09-06 16:20:09+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 3539
+  height: 4731
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:20:09.000000000+02:00
+- image_filename: _9060112b.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.87602777777778
+  lon: 18.684083333333334
+  altitude: 53.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4811
+  height: 3470
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:20:12.000000000+02:00
+- image_filename: _9060120.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.875597222222225
+  lon: 18.682375
+  altitude: 51.0
+  focal_length: 228.0
+  focal_length_35: 456.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3741
+  height: 5012
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:23:38.000000000+02:00
+- image_filename: _9060132.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.875347222222224
+  lon: 18.680069444444445
+  altitude: 53.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4917
+  height: 3671
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:29:42.000000000+02:00
+- image_filename: _9060135.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.875347222222224
+  lon: 18.680069444444445
+  altitude: 53.0
+  focal_length: 117.0
+  focal_length_35: 234.0
+  crop: 2.0
+  aperture: 5.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:30:06.000000000+02:00
+- image_filename: _9060153.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.876125
+  lon: 18.6845
+  altitude: 52.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5163
+  height: 3854
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:37:36.000000000+02:00
+- image_filename: _9060156b.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.87616666666667
+  lon: 18.684555555555555
+  altitude: 52.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 56.25
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:37:52.000000000+02:00
+- image_filename: _9060161b.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.876263888888886
+  lon: 18.684916666666666
+  altitude: 51.0
+  focal_length: 164.0
+  focal_length_35: 328.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5028
+  height: 3754
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:38:41.000000000+02:00
+- image_filename: _9060165.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.87640277777778
+  lon: 18.685625
+  altitude: 47.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4961
+  height: 3704
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2018-09-06 16:40:02.000000000+02:00
+- image_filename: _9060176.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5114
+  height: 3740
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2018-09-06 16:51:05.000000000+02:00

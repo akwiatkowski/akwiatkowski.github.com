@@ -1,547 +1,4 @@
 ---
-- image_filename: IMGP8625raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.577444444444446
-  lon: 17.776194444444442
-  altitude: 127.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 09:49:02+02:00
-- image_filename: IMGP8596raw2.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.73255555555556
-  lon: 18.03516666666667
-  altitude: 122.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-04 08:11:34+02:00
-- image_filename: IMGP8608raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.617555555555555
-  lon: 17.96748611111111
-  altitude: 107.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-04 08:19:36+02:00
-- image_filename: IMGP8613raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.58833333333334
-  lon: 17.85904166666667
-  altitude: 107.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 08:51:53+02:00
-- image_filename: IMGP8616raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.586625000000005
-  lon: 17.79775
-  altitude: 131.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-04 09:41:39+02:00
-- image_filename: IMGP8622raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.57747222222223
-  lon: 17.77627777777778
-  altitude: 128.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 09:47:40+02:00
-- image_filename: IMGP8628raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.57745833333334
-  lon: 17.776194444444442
-  altitude: 127.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 09:50:46+02:00
-- image_filename: IMGP8639raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.58801388888889
-  lon: 17.85926388888889
-  altitude: 109.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 10:07:31+02:00
-- image_filename: IMGP8651raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.538069444444446
-  lon: 17.66184722222222
-  altitude: 128.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 10:30:08+02:00
-- image_filename: IMGP8655raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.59319444444445
-  lon: 17.813402777777778
-  altitude: 136.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-05-04 10:34:52+02:00
-- image_filename: IMGP8664raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.571083333333334
-  lon: 17.729652777777776
-  altitude: 114.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-05-04 11:01:08+02:00
-- image_filename: IMGP8665raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.55605555555555
-  lon: 17.709888888888887
-  altitude: 116.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 11:07:48+02:00
-- image_filename: IMGP8679raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.514763888888886
-  lon: 17.357986111111114
-  altitude: 146.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 12:31:20+02:00
-- image_filename: IMGP8682raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.53066666666667
-  lon: 17.512930555555556
-  altitude: 135.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 12:44:53+02:00
-- image_filename: IMGP8686raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.52769444444444
-  lon: 17.44838888888889
-  altitude: 145.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 12:59:46+02:00
-- image_filename: IMGP8680raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.530430555555554
-  lon: 17.514305555555556
-  altitude: 135.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2018-05-04 12:44:06+02:00
-- image_filename: IMGP8617raw2.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.5865
-  lon: 17.797666666666668
-  altitude: 130.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-04 09:42:01+02:00
-- image_filename: IMGP8595raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.64051388888889
-  lon: 17.990236111111113
-  altitude: 107.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-04 08:07:02+02:00
-- image_filename: IMGP8640raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.58802777777778
-  lon: 17.85927777777778
-  altitude: 109.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 10:07:39+02:00
-- image_filename: IMGP8598raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.63259722222222
-  lon: 17.981583333333333
-  altitude: 101.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2018-05-04 08:12:05+02:00
-- image_filename: IMGP8627raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.57747222222223
-  lon: 17.77622222222222
-  altitude: 127.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 09:50:37+02:00
-- image_filename: IMGP8662raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.574555555555555
-  lon: 17.74451388888889
-  altitude: 112.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-04 10:57:31+02:00
-- image_filename: IMGP8646raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.590500000000006
-  lon: 17.857875
-  altitude: 105.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-04 10:22:02+02:00
-- image_filename: IMGP8632raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.574402777777784
-  lon: 17.745597222222223
-  altitude: 114.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 09:56:23+02:00
-- image_filename: IMGP8618raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.578
-  lon: 17.778416666666665
-  altitude: 127.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-04 09:46:19+02:00
-- image_filename: IMGP8612raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.658944444444444
-  lon: 18.03501388888889
-  altitude: 119.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-04 08:51:46+02:00
-- image_filename: IMGP8631raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.57405555555556
-  lon: 17.75252777777778
-  altitude: 123.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 09:55:16+02:00
-- image_filename: IMGP8659raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.57747222222223
-  lon: 17.77622222222222
-  altitude: 127.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-05-04 10:50:27+02:00
-- image_filename: IMGP8591raw2.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-04 07:47:55+02:00
-- image_filename: IMGP8689raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.497194444444446
-  lon: 17.25713888888889
-  altitude: 144.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-04 14:27:14+02:00
-- image_filename: IMGP8644raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.58854166666667
-  lon: 17.858486111111112
-  altitude: 107.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 10:20:59+02:00
-- image_filename: IMGP8603raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.61913888888889
-  lon: 17.972875
-  altitude: 106.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-04 08:18:38+02:00
-- image_filename: IMGP8596raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.63293055555555
-  lon: 17.98195833333333
-  altitude: 101.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-04 08:11:34+02:00
-- image_filename: IMGP8676raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.53311111111111
-  lon: 17.519875
-  altitude: 131.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-04 12:15:03+02:00
-- image_filename: IMGP8652raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.59577777777778
-  lon: 17.82875
-  altitude: 129.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-04 10:30:13+02:00
-- image_filename: IMGP8610raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.61661111111111
-  lon: 17.964222222222222
-  altitude: 107.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-04 08:20:12+02:00
-- image_filename: IMGP8650raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.596069444444446
-  lon: 17.836624999999998
-  altitude: 123.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-04 10:28:33+02:00
-- image_filename: IMGP8668raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.52701388888889
-  lon: 17.53827777777778
-  altitude: 121.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-04 12:00:29+02:00
-- image_filename: IMGP8648raw1.jpg
-  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
-  lat: 53.59170833333334
-  lon: 17.8575
-  altitude: 105.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-04 10:22:30+02:00
 - image_filename: IMGP8591raw1.jpg
   post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
   lat: 53.66458333333333
@@ -551,11 +8,78 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-05-04 07:47:55+02:00
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2018-05-04 07:47:55.000000000+02:00
+- image_filename: IMGP8591raw2.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2018-05-04 07:47:55.000000000+02:00
+- image_filename: IMGP8595raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.64051388888889
+  lon: 17.990236111111113
+  altitude: 107.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:07:02.000000000+02:00
+- image_filename: IMGP8596raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.632930555555554
+  lon: 17.98195833333333
+  altitude: 101.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:11:34.000000000+02:00
+- image_filename: IMGP8596raw2.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.73255555555556
+  lon: 18.03516666666667
+  altitude: 122.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:11:34.000000000+02:00
+- image_filename: IMGP8598raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.63259722222222
+  lon: 17.981583333333333
+  altitude: 101.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:12:05.000000000+02:00
 - image_filename: IMGP8601raw1.jpg
   post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
   lat: 53.63131944444444
@@ -565,8 +89,484 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-05-04 08:12:43+02:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:12:43.000000000+02:00
+- image_filename: IMGP8603raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.61913888888889
+  lon: 17.972875
+  altitude: 106.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:18:38.000000000+02:00
+- image_filename: IMGP8608raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.617555555555555
+  lon: 17.96748611111111
+  altitude: 107.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:19:36.000000000+02:00
+- image_filename: IMGP8610raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.61661111111111
+  lon: 17.964222222222222
+  altitude: 107.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:20:12.000000000+02:00
+- image_filename: IMGP8612raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.658944444444444
+  lon: 18.03501388888889
+  altitude: 119.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:51:46.000000000+02:00
+- image_filename: IMGP8613raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.58833333333334
+  lon: 17.85904166666667
+  altitude: 107.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 08:51:53.000000000+02:00
+- image_filename: IMGP8616raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.586625000000005
+  lon: 17.79775
+  altitude: 131.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 09:41:39.000000000+02:00
+- image_filename: IMGP8617raw2.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.5865
+  lon: 17.797666666666668
+  altitude: 130.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-04 09:42:01.000000000+02:00
+- image_filename: IMGP8618raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.578
+  lon: 17.778416666666665
+  altitude: 127.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 09:46:19.000000000+02:00
+- image_filename: IMGP8622raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.57747222222223
+  lon: 17.77627777777778
+  altitude: 128.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 09:47:40.000000000+02:00
+- image_filename: IMGP8625raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.577444444444446
+  lon: 17.776194444444442
+  altitude: 127.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 09:49:02.000000000+02:00
+- image_filename: IMGP8627raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.57747222222223
+  lon: 17.77622222222222
+  altitude: 127.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2018-05-04 09:50:37.000000000+02:00
+- image_filename: IMGP8628raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.57745833333334
+  lon: 17.776194444444442
+  altitude: 127.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 09:50:46.000000000+02:00
+- image_filename: IMGP8631raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.57405555555556
+  lon: 17.75252777777778
+  altitude: 123.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2018-05-04 09:55:16.000000000+02:00
+- image_filename: IMGP8632raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.574402777777784
+  lon: 17.745597222222223
+  altitude: 114.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-05-04 09:56:23.000000000+02:00
+- image_filename: IMGP8639raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.58801388888889
+  lon: 17.85926388888889
+  altitude: 109.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:07:31.000000000+02:00
+- image_filename: IMGP8640raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.58802777777778
+  lon: 17.85927777777778
+  altitude: 109.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:07:39.000000000+02:00
+- image_filename: IMGP8644raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.58854166666667
+  lon: 17.858486111111112
+  altitude: 107.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:20:59.000000000+02:00
+- image_filename: IMGP8646raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.590500000000006
+  lon: 17.857875
+  altitude: 105.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:22:02.000000000+02:00
+- image_filename: IMGP8648raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.59170833333334
+  lon: 17.8575
+  altitude: 105.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:22:30.000000000+02:00
+- image_filename: IMGP8650raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.596069444444446
+  lon: 17.836624999999998
+  altitude: 123.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:28:33.000000000+02:00
+- image_filename: IMGP8651raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.538069444444446
+  lon: 17.66184722222222
+  altitude: 128.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:30:08.000000000+02:00
+- image_filename: IMGP8652raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.59577777777778
+  lon: 17.82875
+  altitude: 129.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:30:13.000000000+02:00
+- image_filename: IMGP8655raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.59319444444445
+  lon: 17.813402777777778
+  altitude: 136.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:34:52.000000000+02:00
+- image_filename: IMGP8659raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.57747222222223
+  lon: 17.77622222222222
+  altitude: 127.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:50:27.000000000+02:00
+- image_filename: IMGP8662raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.574555555555555
+  lon: 17.74451388888889
+  altitude: 112.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 10:57:31.000000000+02:00
+- image_filename: IMGP8664raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.571083333333334
+  lon: 17.729652777777776
+  altitude: 114.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 11:01:08.000000000+02:00
+- image_filename: IMGP8665raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.55605555555555
+  lon: 17.709888888888887
+  altitude: 116.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 11:07:48.000000000+02:00
+- image_filename: IMGP8668raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.52701388888889
+  lon: 17.53827777777778
+  altitude: 121.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 12:00:29.000000000+02:00
+- image_filename: IMGP8676raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.53311111111111
+  lon: 17.519875
+  altitude: 131.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 12:15:03.000000000+02:00
+- image_filename: IMGP8679raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.514763888888886
+  lon: 17.357986111111114
+  altitude: 146.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 12:31:20.000000000+02:00
+- image_filename: IMGP8680raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.530430555555554
+  lon: 17.514305555555556
+  altitude: 135.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 12:44:06.000000000+02:00
+- image_filename: IMGP8682raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.53066666666667
+  lon: 17.512930555555556
+  altitude: 135.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 12:44:53.000000000+02:00
+- image_filename: IMGP8686raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.52769444444444
+  lon: 17.44838888888889
+  altitude: 145.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-04 12:59:46.000000000+02:00
+- image_filename: IMGP8689raw1.jpg
+  post_slug: 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku
+  lat: 53.497194444444446
+  lon: 17.25713888888889
+  altitude: 144.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2018-05-04 14:27:14.000000000+02:00

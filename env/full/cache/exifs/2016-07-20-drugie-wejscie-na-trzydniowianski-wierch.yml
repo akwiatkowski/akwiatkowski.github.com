@@ -1,672 +1,672 @@
 ---
-- image_filename: header.jpg
+- image_filename: IMGP2739raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-07-20 16:57:11+02:00
-- image_filename: IMGP2783raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.23633138888889
-  lon: 19.7916925
-  altitude: 1100.8
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-20 13:15:53+02:00
-- image_filename: IMGP2800raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.232416944444445
-  lon: 19.806434166666666
-  altitude: 1272.4
+  lat: 49.25743888888889
+  lon: 19.815355555555556
+  altitude: 981.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-07-20 15:21:09+02:00
-- image_filename: IMGP2806raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.2309775
-  lon: 19.80833
-  altitude: 1389.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 500
+  iso: 250
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-20 15:35:59+02:00
-- image_filename: IMGP2826raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22752305555556
-  lon: 19.806837222222224
-  altitude: 1556.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-20 16:04:20+02:00
-- image_filename: IMGP2849raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22372277777778
-  lon: 19.805184444444446
-  altitude: 1632.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:23:05+02:00
-- image_filename: IMGP2880raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22089277777778
-  lon: 19.80465416666667
-  altitude: 1685.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:37:12+02:00
-- image_filename: IMGP3040raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21786027777778
-  lon: 19.789461388888892
-  altitude: 1292.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2016-07-20 18:30:48+02:00
-- image_filename: IMGP3020raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21566861111111
-  lon: 19.79642
-  altitude: 1425.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2016-07-20 18:07:46+02:00
+  time: 2016-07-20 12:06:16.000000000+02:00
 - image_filename: IMGP2759raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.248023611111115
-  lon: 19.813974722222223
+  lat: 49.248022222222225
+  lon: 19.813975
   altitude: 1007.6
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-07-20 12:42:20+02:00
-- image_filename: IMGP2818raw1-1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.227960555555555
-  lon: 19.807066111111112
-  altitude: 1542.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 320
+  iso: 200
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-20 15:59:29+02:00
-- image_filename: IMGP2900raw1.jpg
+  time: 2016-07-20 12:42:20.000000000+02:00
+- image_filename: IMGP2779raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21910472222223
-  lon: 19.80376916666667
-  altitude: 1749.7
+  lat: 49.23740277777778
+  lon: 19.79652777777778
+  altitude: 1084.5
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-20 16:48:36+02:00
-- image_filename: IMGP2924raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21911333333333
-  lon: 19.803762777777777
-  altitude: 1748.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:56:42+02:00
-- image_filename: IMGP2913raw3.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21910694444445
-  lon: 19.803731666666668
-  altitude: 1749.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-20 16:51:22+02:00
-- image_filename: IMGP2958raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21828555555556
-  lon: 19.803899166666667
-  altitude: 1729.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-07-20 17:18:55+02:00
-- image_filename: IMGP3058raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22594138888889
-  lon: 19.784796111111113
-  altitude: 1184.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2016-07-20 18:54:59+02:00
-- image_filename: IMGP2816raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.228121111111115
-  lon: 19.807265555555556
-  altitude: 1535.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
   iso: 250
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-20 15:57:57+02:00
-- image_filename: IMGP2875raw1.jpg
+  time: 2016-07-20 13:10:27.000000000+02:00
+- image_filename: IMGP2783raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22157638888889
-  lon: 19.80494138888889
-  altitude: 1679.1
-  focal_length: 70.0
-  focal_length_35: 105.0
+  lat: 49.236330555555554
+  lon: 19.79169166666667
+  altitude: 1100.8
+  focal_length: 40.0
+  focal_length_35: 60.0
   crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:34:55+02:00
-- image_filename: IMGP3033raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.217846388888894
-  lon: 19.789588333333334
-  altitude: 1293.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2016-07-20 18:28:32+02:00
-- image_filename: IMGP3053raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22581111111111
-  lon: 19.78477527777778
-  altitude: 1185.9
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2016-07-20 18:52:04+02:00
-- image_filename: IMGP3017raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21463055555556
-  lon: 19.798741944444448
-  altitude: 1462.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2016-07-20 18:02:09+02:00
-- image_filename: IMGP2920raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.219095555555555
-  lon: 19.80378277777778
-  altitude: 1748.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-07-20 16:55:38+02:00
-- image_filename: IMGP2831raw1-1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22650416666667
-  lon: 19.806689444444444
-  altitude: 1568.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-20 16:08:22+02:00
-- image_filename: IMGP2892raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21915
-  lon: 19.803713333333334
-  altitude: 1748.8
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:45:55+02:00
-- image_filename: IMGP3011raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21441416666667
-  lon: 19.7999775
-  altitude: 1492.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2016-07-20 17:58:09+02:00
-- image_filename: IMGP3025raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21668666666667
-  lon: 19.794466111111113
-  altitude: 1402.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2016-07-20 18:12:53+02:00
+  time: 2016-07-20 13:15:53.000000000+02:00
 - image_filename: IMGP2799raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.232664166666666
+  lat: 49.232663888888894
   lon: 19.806427777777778
   altitude: 1262.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  time: 2016-07-20 15:18:18+02:00
-- image_filename: IMGP2779raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.2374025
-  lon: 19.79652805555556
-  altitude: 1084.5
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-20 13:10:27+02:00
-- image_filename: IMGP3068raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.23606111111111
-  lon: 19.79311527777778
-  altitude: 1112.9
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 19:18:32+02:00
-- image_filename: IMGP3004raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21476361111112
-  lon: 19.802317777777777
-  altitude: 1553.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2016-07-20 17:50:33+02:00
-- image_filename: IMGP2856raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22162194444444
-  lon: 19.80488861111111
-  altitude: 1678.1
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:30:31+02:00
-- image_filename: IMGP2861raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22161583333334
-  lon: 19.804885000000002
-  altitude: 1678.1
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:30:51+02:00
-- image_filename: IMGP2820raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22772055555556
-  lon: 19.806870555555555
-  altitude: 1550.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-20 16:01:23+02:00
-- image_filename: IMGP2903raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.219096111111114
-  lon: 19.803762222222222
-  altitude: 1749.7
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-07-20 16:48:55+02:00
-- image_filename: IMGP2927raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21910916666667
-  lon: 19.803798055555557
-  altitude: 1748.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 17:00:28+02:00
-- image_filename: IMGP2882raw1.jpg
+  time: 2016-07-20 15:18:18.000000000+02:00
+- image_filename: IMGP2800raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22052
-  lon: 19.804460000000002
-  altitude: 1696.4
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:38:51+02:00
-- image_filename: IMGP2923raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21911333333333
-  lon: 19.803762777777777
-  altitude: 1748.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:56:35+02:00
-- image_filename: IMGP2952raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21868333333334
-  lon: 19.80406027777778
-  altitude: 1744.9
+  lat: 49.232416666666666
+  lon: 19.806433333333334
+  altitude: 1272.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
+  aperture: 8.0
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-07-20 17:15:28+02:00
-- image_filename: IMGP2949raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.219123611111115
-  lon: 19.803734444444444
-  altitude: 1752.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-07-20 17:12:03+02:00
-- image_filename: IMGP2890raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21924527777778
-  lon: 19.80375527777778
-  altitude: 1746.4
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-07-20 16:45:25+02:00
-- image_filename: IMGP2739raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.25743972222222
-  lon: 19.815354444444445
-  altitude: 981.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-20 12:06:16+02:00
-- image_filename: IMGP3043raw1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21890361111112
-  lon: 19.787783055555558
-  altitude: 1279.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.2
-  exposure_string: 1/5 s
-  time: 2016-07-20 18:34:49+02:00
+  time: 2016-07-20 15:21:09.000000000+02:00
 - image_filename: IMGP2805raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.231273055555555
+  lat: 49.23127222222222
   lon: 19.80791111111111
   altitude: 1359.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 500
-  camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
-  time: 2016-07-20 15:32:01+02:00
-- image_filename: IMGP2874raw1-1.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.221605555555556
-  lon: 19.804870277777777
-  altitude: 1678.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
+  iso: 500
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-07-20 16:34:33+02:00
-- image_filename: IMGP2822raw1.jpg
+  time: 2016-07-20 15:32:01.000000000+02:00
+- image_filename: IMGP2806raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.22770388888889
-  lon: 19.80686222222222
+  lat: 49.23097777777778
+  lon: 19.808330555555557
+  altitude: 1389.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2016-07-20 15:35:59.000000000+02:00
+- image_filename: IMGP2816raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.228122222222225
+  lon: 19.807266666666667
+  altitude: 1535.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-20 15:57:57.000000000+02:00
+- image_filename: IMGP2818raw1-1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.227961111111114
+  lon: 19.807066666666667
+  altitude: 1542.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-20 15:59:29.000000000+02:00
+- image_filename: IMGP2820raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.227719444444446
+  lon: 19.806869444444445
   altitude: 1550.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-07-20 16:02:08+02:00
-- image_filename: IMGP2956raw1.jpg
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:01:23.000000000+02:00
+- image_filename: IMGP2822raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.218406111111115
-  lon: 19.803958611111113
-  altitude: 1732.9
+  lat: 49.22770277777778
+  lon: 19.80686111111111
+  altitude: 1550.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-07-20 17:18:17+02:00
+  time: 2016-07-20 16:02:08.000000000+02:00
+- image_filename: IMGP2826raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.22752222222223
+  lon: 19.80683611111111
+  altitude: 1556.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:04:20.000000000+02:00
+- image_filename: IMGP2831raw1-1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.22650277777778
+  lon: 19.80668888888889
+  altitude: 1568.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:08:22.000000000+02:00
+- image_filename: IMGP2849raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.22372222222222
+  lon: 19.805183333333336
+  altitude: 1632.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:23:05.000000000+02:00
+- image_filename: IMGP2856raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.22162222222222
+  lon: 19.80488888888889
+  altitude: 1678.1
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:30:31.000000000+02:00
+- image_filename: IMGP2861raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.22161666666667
+  lon: 19.804886111111113
+  altitude: 1678.1
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:30:51.000000000+02:00
+- image_filename: IMGP2874raw1-1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.221605555555556
+  lon: 19.804869444444446
+  altitude: 1678.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:34:33.000000000+02:00
+- image_filename: IMGP2875raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.221575
+  lon: 19.804941666666668
+  altitude: 1679.1
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:34:55.000000000+02:00
+- image_filename: IMGP2880raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.22089166666667
+  lon: 19.804655555555556
+  altitude: 1685.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:37:12.000000000+02:00
+- image_filename: IMGP2882raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.22051944444445
+  lon: 19.804461111111113
+  altitude: 1696.4
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:38:51.000000000+02:00
+- image_filename: IMGP2890raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21924444444445
+  lon: 19.803755555555558
+  altitude: 1746.4
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:45:25.000000000+02:00
+- image_filename: IMGP2892raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21915
+  lon: 19.80371388888889
+  altitude: 1748.8
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:45:55.000000000+02:00
 - image_filename: IMGP2894raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21907388888889
-  lon: 19.803697777777778
+  lat: 49.219075000000004
+  lon: 19.803697222222223
   altitude: 1749.3
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
-  iso: 320
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-07-20 16:46:27+02:00
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:46:27.000000000+02:00
+- image_filename: IMGP2900raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21910555555556
+  lon: 19.803769444444445
+  altitude: 1749.7
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:48:36.000000000+02:00
+- image_filename: IMGP2903raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.219097222222224
+  lon: 19.80376111111111
+  altitude: 1749.7
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:48:55.000000000+02:00
+- image_filename: IMGP2913raw3.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21910555555556
+  lon: 19.803730555555557
+  altitude: 1749.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:51:22.000000000+02:00
+- image_filename: IMGP2920raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.219094444444444
+  lon: 19.803783333333335
+  altitude: 1748.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:55:38.000000000+02:00
+- image_filename: IMGP2923raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21911388888889
+  lon: 19.803763888888888
+  altitude: 1748.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:56:35.000000000+02:00
+- image_filename: IMGP2924raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21911388888889
+  lon: 19.803763888888888
+  altitude: 1748.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:56:42.000000000+02:00
+- image_filename: IMGP2927raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21910833333334
+  lon: 19.803797222222222
+  altitude: 1748.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-20 17:00:28.000000000+02:00
+- image_filename: IMGP2949raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.219122222222225
+  lon: 19.803733333333334
+  altitude: 1752.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-20 17:12:03.000000000+02:00
+- image_filename: IMGP2952raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21868333333334
+  lon: 19.80406111111111
+  altitude: 1744.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 17:15:28.000000000+02:00
+- image_filename: IMGP2956raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.218405555555556
+  lon: 19.803958333333334
+  altitude: 1732.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 17:18:17.000000000+02:00
+- image_filename: IMGP2958raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21828611111111
+  lon: 19.803900000000002
+  altitude: 1729.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-20 17:18:55.000000000+02:00
 - image_filename: IMGP2965raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  lat: 49.21738638888889
-  lon: 19.802903333333333
+  lat: 49.21738611111111
+  lon: 19.802902777777778
   altitude: 1684.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-07-20 17:26:01+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 17:26:01.000000000+02:00
+- image_filename: IMGP3004raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21476388888889
+  lon: 19.802316666666666
+  altitude: 1553.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 17:50:33.000000000+02:00
+- image_filename: IMGP3011raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21441388888889
+  lon: 19.79997777777778
+  altitude: 1492.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 17:58:09.000000000+02:00
+- image_filename: IMGP3017raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21463055555556
+  lon: 19.79874166666667
+  altitude: 1462.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 18:02:09.000000000+02:00
+- image_filename: IMGP3020raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.215669444444444
+  lon: 19.796419444444446
+  altitude: 1425.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 18:07:46.000000000+02:00
+- image_filename: IMGP3025raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.216686111111116
+  lon: 19.79446666666667
+  altitude: 1402.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2016-07-20 18:12:53.000000000+02:00
+- image_filename: IMGP3033raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.217847222222225
+  lon: 19.78958888888889
+  altitude: 1293.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 18:28:32.000000000+02:00
+- image_filename: IMGP3040raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21786111111111
+  lon: 19.789461111111113
+  altitude: 1292.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 13.0
+  exposure: 1.0
+  exposure_string: 1 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 18:30:48.000000000+02:00
+- image_filename: IMGP3043raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.21890277777778
+  lon: 19.787783333333334
+  altitude: 1279.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 18:34:49.000000000+02:00
+- image_filename: IMGP3053raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.22581111111111
+  lon: 19.784775000000003
+  altitude: 1185.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-07-20 18:52:04.000000000+02:00
+- image_filename: IMGP3058raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.22594166666667
+  lon: 19.784797222222224
+  altitude: 1184.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 13.0
+  exposure: 2.0
+  exposure_string: 2 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-07-20 18:54:59.000000000+02:00
+- image_filename: IMGP3068raw1.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  lat: 49.23606111111111
+  lon: 19.79311666666667
+  altitude: 1112.9
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-07-20 19:18:32.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-07-20 16:57:11.000000000+02:00

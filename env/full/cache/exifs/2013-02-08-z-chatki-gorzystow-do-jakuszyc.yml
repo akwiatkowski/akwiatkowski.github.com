@@ -1,228 +1,228 @@
 ---
-- image_filename: IMGP8140b.jpg
-  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.84967916666667
-  lon: 15.386969166666667
-  altitude: 910.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-02-08 10:30:32+01:00
 - image_filename: IMGP8010b.jpg
   post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.854711944444446
-  lon: 15.361051666666667
+  lat: 50.854711111111115
+  lon: 15.361052777777777
   altitude: 850.4
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-02-08 08:32:25+01:00
+  time: 2013-02-08 08:32:25.000000000+01:00
 - image_filename: IMGP8046b.jpg
   post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.85413166666667
-  lon: 15.359787222222222
+  lat: 50.85413055555556
+  lon: 15.359786111111111
   altitude: 844.7
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-02-08 08:37:11+01:00
+  time: 2013-02-08 08:37:11.000000000+01:00
 - image_filename: IMGP8056b.jpg
   post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
   lat: 50.85232777777778
-  lon: 15.35867611111111
+  lon: 15.358675
   altitude: 835.0
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2013-02-08 08:42:03+01:00
+  time: 2013-02-08 08:42:03.000000000+01:00
+- image_filename: IMGP8058b.jpg
+  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
+  lat: 50.85232777777778
+  lon: 15.358675
+  altitude: 835.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-08 08:42:09.000000000+01:00
+- image_filename: IMGP8062b.jpg
+  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
+  lat: 50.85146944444445
+  lon: 15.3591
+  altitude: 834.6
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-08 08:43:46.000000000+01:00
 - image_filename: IMGP8066b.jpg
   post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.850523611111115
-  lon: 15.359373333333332
+  lat: 50.850525000000005
+  lon: 15.359372222222222
   altitude: 831.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2013-02-08 08:48:02+01:00
-- image_filename: IMGP8102b.jpg
-  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.84567027777778
-  lon: 15.369078055555557
-  altitude: 854.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2013-02-08 09:22:23+01:00
-- image_filename: IMGP8126b.jpg
-  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.848706944444444
-  lon: 15.383454166666667
-  altitude: 890.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-02-08 10:18:12+01:00
-- image_filename: IMGP8216b.jpg
-  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.83433416666667
-  lon: 15.514353333333334
-  altitude: 699.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 800
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-02-08 14:24:40+01:00
+  time: 2013-02-08 08:48:02.000000000+01:00
 - image_filename: IMGP8075b.jpg
   post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.847635555555556
-  lon: 15.362964999999999
+  lat: 50.847636111111115
+  lon: 15.362963888888888
   altitude: 847.5
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 2.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2013-02-08 08:59:47+01:00
-- image_filename: IMGP8164b.jpg
+  time: 2013-02-08 08:59:47.000000000+01:00
+- image_filename: IMGP8102b.jpg
   post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.84635361111111
-  lon: 15.39357861111111
-  altitude: 938.9
+  lat: 50.84566944444445
+  lon: 15.369077777777779
+  altitude: 854.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 4.0
+  aperture: 9.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2013-02-08 11:00:50+01:00
-- image_filename: IMGP8062b.jpg
-  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.85146833333334
-  lon: 15.3591
-  altitude: 834.6
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2013-02-08 08:43:46+01:00
-- image_filename: IMGP8058b.jpg
-  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.85232777777778
-  lon: 15.35867611111111
-  altitude: 835.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2013-02-08 08:42:09+01:00
-- image_filename: header.jpg
-  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.85146833333334
-  lon: 15.3591
-  altitude: 834.6
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 200
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2013-02-08 08:43:46+01:00
-- image_filename: IMGP8128b.jpg
-  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.849230000000006
-  lon: 15.384393611111111
-  altitude: 896.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-02-08 10:21:41+01:00
+  time: 2013-02-08 09:22:23.000000000+01:00
 - image_filename: IMGP8114b.jpg
   post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
-  lat: 50.845706944444444
-  lon: 15.371917222222223
+  lat: 50.84570555555556
+  lon: 15.371916666666667
   altitude: 853.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2013-02-08 09:35:04.000000000+01:00
+- image_filename: IMGP8126b.jpg
+  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
+  lat: 50.84870555555556
+  lon: 15.383455555555555
+  altitude: 890.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-02-08 10:18:12.000000000+01:00
+- image_filename: IMGP8128b.jpg
+  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
+  lat: 50.84923055555556
+  lon: 15.384394444444444
+  altitude: 896.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-02-08 10:21:41.000000000+01:00
+- image_filename: IMGP8140b.jpg
+  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
+  lat: 50.84968055555556
+  lon: 15.386969444444444
+  altitude: 910.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-02-08 10:30:32.000000000+01:00
+- image_filename: IMGP8164b.jpg
+  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
+  lat: 50.84635277777778
+  lon: 15.393577777777777
+  altitude: 938.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 4.0
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2013-02-08 09:35:04+01:00
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-02-08 11:00:50.000000000+01:00
+- image_filename: IMGP8216b.jpg
+  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
+  lat: 50.83433333333333
+  lon: 15.514352777777777
+  altitude: 699.5
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2013-02-08 14:24:40.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2013-02-08-z-chatki-gorzystow-do-jakuszyc
+  lat: 50.85146944444445
+  lon: 15.3591
+  altitude: 834.6
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 200
+  width: 2048
+  height: 1356
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2013-02-08 08:43:46.000000000+01:00

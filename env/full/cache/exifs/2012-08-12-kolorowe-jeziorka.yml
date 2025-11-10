@@ -1,277 +1,277 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.82333888888889
-  lon: 15.971951111111112
-  altitude: 628.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.2
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2012-08-12 17:55:46+02:00
 - image_filename: IMGP7844b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.86568416666667
-  lon: 15.870750555555556
+  lat: 50.86568333333334
+  lon: 15.870750000000001
   altitude: 541.8
   focal_length: 135.0
   focal_length_35: 202.0
   crop: 1.4962962962962962
   aperture: 0.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 400
   lens: K or M Lens
   camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2012-08-12 05:53:54+02:00
+  time: 2012-08-12 05:53:54.000000000+02:00
 - image_filename: IMGP7875b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.86577444444445
-  lon: 15.870726944444446
+  lat: 50.865775
+  lon: 15.870727777777779
   altitude: 543.3
   focal_length: 16.0
   focal_length_35: 24.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
   iso: 800
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2012-08-12 06:06:38+02:00
+  time: 2012-08-12 06:06:38.000000000+02:00
 - image_filename: IMGP8080b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.864048333333336
-  lon: 15.868731111111112
+  lat: 50.864047222222226
+  lon: 15.868730555555556
   altitude: 656.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2012-08-12 10:22:07+02:00
+  time: 2012-08-12 10:22:07.000000000+02:00
+- image_filename: IMGP8118b.jpg
+  post_slug: 2012-08-12-kolorowe-jeziorka
+  lat: 50.86405833333333
+  lon: 15.868672222222223
+  altitude: 656.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-08-12 10:24:25.000000000+02:00
 - image_filename: IMGP8131b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.88024222222222
-  lon: 15.871106111111112
+  lat: 50.88024166666667
+  lon: 15.871105555555555
   altitude: 361.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2012-08-12 11:53:22+02:00
+  time: 2012-08-12 11:53:22.000000000+02:00
 - image_filename: IMGP8172b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.882040277777776
-  lon: 15.874235833333334
+  lat: 50.88203888888889
+  lon: 15.874236111111111
   altitude: 387.1
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  exposure: 0.0004
+  exposure_string: 1/2500 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2012-08-12 15:19:36+02:00
-- image_filename: IMGP8389b.JPG
+  time: 2012-08-12 15:19:36.000000000+02:00
+- image_filename: IMGP8248b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.828269444444445
-  lon: 15.973760555555556
-  altitude: 554.3
+  lat: 50.83722777777778
+  lon: 15.974297222222223
+  altitude: 483.7
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 5.6
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 3264
-  height: 4928
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2012-08-12 18:43:23+02:00
-- image_filename: IMGP8353b.jpg
-  post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.828245833333334
-  lon: 15.973660833333334
-  altitude: 554.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2012-08-12 18:34:47+02:00
-- image_filename: IMGP8304b.jpg
-  post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.82333888888889
-  lon: 15.971951111111112
-  altitude: 628.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.2
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2012-08-12 17:55:46+02:00
-- image_filename: IMGP8465b.jpg
-  post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.84608444444444
-  lon: 15.987334444444443
-  altitude: 440.9
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2012-08-12 19:38:12+02:00
-- image_filename: IMGP8497b.jpg
-  post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.853184722222224
-  lon: 15.998468055555554
-  altitude: 414.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.0
-  iso: 1600
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2012-08-12 20:10:31+02:00
+  time: 2012-08-12 16:42:55.000000000+02:00
 - image_filename: IMGP8265b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.82345777777778
+  lat: 50.823458333333335
   lon: 15.971944444444444
   altitude: 629.8
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2012-08-12 17:47:48+02:00
-- image_filename: IMGP8377b.jpg
+  time: 2012-08-12 17:47:48.000000000+02:00
+- image_filename: IMGP8304b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.82803777777778
-  lon: 15.973809444444445
-  altitude: 551.0
+  lat: 50.82333888888889
+  lon: 15.97195
+  altitude: 628.8
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 4.0
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2012-08-12 18:38:24+02:00
-- image_filename: IMGP8485b.jpg
-  post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.847188888888894
-  lon: 15.99107361111111
-  altitude: 431.8
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
+  aperture: 3.2
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2012-08-12 19:46:53+02:00
-- image_filename: IMGP8371b.JPG
-  post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.82816972222223
-  lon: 15.973789722222222
-  altitude: 551.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 800
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 4928
-  height: 3264
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2012-08-12 18:36:53+02:00
-- image_filename: IMGP8248b.jpg
-  post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.837227222222225
-  lon: 15.9742975
-  altitude: 483.7
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2012-08-12 16:42:55+02:00
+  time: 2012-08-12 17:55:46.000000000+02:00
 - image_filename: IMGP8342b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.82829944444445
-  lon: 15.973775277777778
+  lat: 50.828300000000006
+  lon: 15.973775
   altitude: 557.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
   iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2012-08-12 18:34:38+02:00
-- image_filename: IMGP8118b.jpg
+  time: 2012-08-12 18:34:38.000000000+02:00
+- image_filename: IMGP8353b.jpg
   post_slug: 2012-08-12-kolorowe-jeziorka
-  lat: 50.86405694444444
-  lon: 15.868671944444445
-  altitude: 656.2
+  lat: 50.82824444444445
+  lon: 15.973661111111111
+  altitude: 554.3
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 8.0
-  iso: 200
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2012-08-12 10:24:25+02:00
+  time: 2012-08-12 18:34:47.000000000+02:00
+- image_filename: IMGP8371b.JPG
+  post_slug: 2012-08-12-kolorowe-jeziorka
+  lat: 50.82816944444445
+  lon: 15.973788888888889
+  altitude: 551.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 800
+  width: 4928
+  height: 3264
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-08-12 18:36:53.000000000+02:00
+- image_filename: IMGP8377b.jpg
+  post_slug: 2012-08-12-kolorowe-jeziorka
+  lat: 50.82803888888889
+  lon: 15.973808333333334
+  altitude: 551.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-08-12 18:38:24.000000000+02:00
+- image_filename: IMGP8389b.JPG
+  post_slug: 2012-08-12-kolorowe-jeziorka
+  lat: 50.828269444444445
+  lon: 15.973761111111111
+  altitude: 554.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 800
+  width: 3264
+  height: 4928
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-08-12 18:43:23.000000000+02:00
+- image_filename: IMGP8465b.jpg
+  post_slug: 2012-08-12-kolorowe-jeziorka
+  lat: 50.84608333333333
+  lon: 15.987333333333332
+  altitude: 440.9
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-08-12 19:38:12.000000000+02:00
+- image_filename: IMGP8485b.jpg
+  post_slug: 2012-08-12-kolorowe-jeziorka
+  lat: 50.847188888888894
+  lon: 15.991072222222222
+  altitude: 431.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-08-12 19:46:53.000000000+02:00
+- image_filename: IMGP8497b.jpg
+  post_slug: 2012-08-12-kolorowe-jeziorka
+  lat: 50.853183333333334
+  lon: 15.998466666666666
+  altitude: 414.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1600
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-08-12 20:10:31.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2012-08-12-kolorowe-jeziorka
+  lat: 50.82333888888889
+  lon: 15.97195
+  altitude: 628.8
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  width: 2048
+  height: 1356
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2012-08-12 17:55:46.000000000+02:00

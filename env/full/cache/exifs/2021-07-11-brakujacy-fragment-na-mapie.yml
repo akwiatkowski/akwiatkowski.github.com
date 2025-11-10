@@ -1,381 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-- image_filename: 2021_07_11__16_59__7118295.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.22115277777778
-  lon: 17.28073611111111
-  altitude: 154.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 6.78
-  iso: 200
-  width: 4844
-  height: 3528
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 16:59:56.000000000+02:00
-- image_filename: 2021_07_11__17_22__7118304.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.25183333333333
-  lon: 17.309402777777777
-  altitude: 158.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 11.4
-  iso: 200
-  width: 5144
-  height: 3840
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:22:01.000000000+02:00
-- image_filename: 2021_07_11__17_48__7118345.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.28934722222222
-  lon: 17.330125
-  altitude: 171.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.6
-  iso: 500
-  width: 4641
-  height: 3371
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:48:12.000000000+02:00
-- image_filename: 2021_07_11__18_10__7118384.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.31777777777778
-  lon: 17.322847222222222
-  altitude: 178.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 15.32
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:10:09.000000000+02:00
-- image_filename: 2021_07_11__17_11__7118301.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.23569444444445
-  lon: 17.288930555555556
-  altitude: 158.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 98.11
-  iso: 200
-  width: 5203
-  height: 3884
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:11:41.000000000+02:00
-- image_filename: 2021_07_11__17_32__7118315.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.26456944444445
-  lon: 17.32023611111111
-  altitude: 165.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 14.06
-  iso: 200
-  width: 5123
-  height: 3824
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:32:12.000000000+02:00
-- image_filename: 2021_07_11__18_24__7118409.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.343833333333336
-  lon: 17.334555555555553
-  altitude: 182.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 90.51
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:24:10.000000000+02:00
-- image_filename: 2021_07_11__17_31__7118311.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.26305555555555
-  lon: 17.32027777777778
-  altitude: 164.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5173
-  height: 3862
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:31:44.000000000+02:00
-- image_filename: 2021_07_11__18_36__7118439.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.35176388888889
-  lon: 17.331791666666668
-  altitude: 186.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:36:02.000000000+02:00
-- image_filename: 2021_07_11__17_52__7118360.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.28934722222222
-  lon: 17.330125
-  altitude: 172.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1.77
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:52:38.000000000+02:00
-- image_filename: 2021_07_11__18_21__7118406-hdr.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.33993055555556
-  lon: 17.329722222222223
-  altitude: 178.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 9.64
-  iso: 200
-  width: 4894
-  height: 3654
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:21:19.000000000+02:00
-- image_filename: 2021_07_11__18_10__7118386-hdr.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.31777777777778
-  lon: 17.322847222222222
-  altitude: 177.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 3.19
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:10:30.000000000+02:00
-- image_filename: 2021_07_11__18_31__7118428.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.347166666666666
-  lon: 17.33536111111111
-  altitude: 183.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 256.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:31:03.000000000+02:00
-- image_filename: 2021_07_11__18_35__7118437.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.35176388888889
-  lon: 17.331791666666668
-  altitude: 185.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 1.2
-  iso: 200
-  width: 4070
-  height: 2894
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:35:19.000000000+02:00
-- image_filename: 2021_07_11__18_52__7118443.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 84.45
-  iso: 200
-  width: 5122
-  height: 3700
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:52:44.000000000+02:00
-- image_filename: 2021_07_11__17_11__7118297.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.235569444444444
-  lon: 17.28888888888889
-  altitude: 158.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5107
-  height: 3609
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:11:27.000000000+02:00
-- image_filename: 2021_07_11__17_47__7118328.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.28934722222222
-  lon: 17.330125
-  altitude: 171.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.54
-  iso: 1600
-  width: 3931
-  height: 2995
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:47:27.000000000+02:00
-- image_filename: 2021_07_11__18_20__7118400.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.33880555555556
-  lon: 17.328097222222222
-  altitude: 176.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.49
-  iso: 200
-  width: 5082
-  height: 3794
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:20:35.000000000+02:00
-- image_filename: 2021_07_11__18_31__7118432.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.348958333333336
-  lon: 17.33359722222222
-  altitude: 182.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 20.25
-  iso: 200
-  width: 5137
-  height: 3835
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 18:31:48.000000000+02:00
-- image_filename: 2021_07_11__17_48__7118339.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.28934722222222
-  lon: 17.330125
-  altitude: 171.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.65
-  iso: 500
-  width: 4057
-  height: 3032
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:48:09.000000000+02:00
-- image_filename: 2021_07_11__17_54__7118375.jpg
-  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.28934722222222
-  lon: 17.330125
-  altitude: 172.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.46
-  iso: 200
-  width: 4550
-  height: 3295
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-07-11 17:54:52.000000000+02:00
 - image_filename: 2021_07_11__16_59__7118294.jpg
   post_slug: 2021-07-11-brakujacy-fragment-na-mapie
   lat: 52.22097222222222
@@ -394,24 +17,240 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-07-11 16:59:52.000000000+02:00
-- image_filename: 2021_07_11__18_20__7118404.jpg
+- image_filename: 2021_07_11__16_59__7118295.jpg
   post_slug: 2021-07-11-brakujacy-fragment-na-mapie
-  lat: 52.33913888888889
-  lon: 17.32863888888889
-  altitude: 176.0
+  lat: 52.22115277777778
+  lon: 17.28073611111111
+  altitude: 154.0
   focal_length: 29.0
   focal_length_35: 58.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 8.19
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.78
   iso: 200
-  width: 5058
-  height: 3776
+  width: 4844
+  height: 3528
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-07-11 18:20:55.000000000+02:00
+  time: 2021-07-11 16:59:56.000000000+02:00
+- image_filename: 2021_07_11__17_11__7118297.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.235569444444444
+  lon: 17.28888888888889
+  altitude: 158.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5107
+  height: 3609
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:11:27.000000000+02:00
+- image_filename: 2021_07_11__17_11__7118301.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.23569444444445
+  lon: 17.288930555555556
+  altitude: 158.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 98.11
+  iso: 200
+  width: 5203
+  height: 3884
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:11:41.000000000+02:00
+- image_filename: 2021_07_11__17_22__7118304.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.25183333333333
+  lon: 17.309402777777777
+  altitude: 158.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.4
+  iso: 200
+  width: 5144
+  height: 3840
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:22:01.000000000+02:00
+- image_filename: 2021_07_11__17_31__7118311.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.26305555555555
+  lon: 17.32027777777778
+  altitude: 164.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5173
+  height: 3862
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:31:44.000000000+02:00
+- image_filename: 2021_07_11__17_32__7118315.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.26456944444445
+  lon: 17.32023611111111
+  altitude: 165.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 14.06
+  iso: 200
+  width: 5123
+  height: 3824
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:32:12.000000000+02:00
+- image_filename: 2021_07_11__17_47__7118328.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.28934722222222
+  lon: 17.330125
+  altitude: 171.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.54
+  iso: 1600
+  width: 3931
+  height: 2995
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:47:27.000000000+02:00
+- image_filename: 2021_07_11__17_48__7118339.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.28934722222222
+  lon: 17.330125
+  altitude: 171.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.65
+  iso: 500
+  width: 4057
+  height: 3032
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:48:09.000000000+02:00
+- image_filename: 2021_07_11__17_48__7118345.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.28934722222222
+  lon: 17.330125
+  altitude: 171.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.6
+  iso: 500
+  width: 4641
+  height: 3371
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:48:12.000000000+02:00
+- image_filename: 2021_07_11__17_52__7118360.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.28934722222222
+  lon: 17.330125
+  altitude: 172.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.77
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:52:38.000000000+02:00
+- image_filename: 2021_07_11__17_54__7118375.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.28934722222222
+  lon: 17.330125
+  altitude: 172.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.46
+  iso: 200
+  width: 4550
+  height: 3295
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 17:54:52.000000000+02:00
+- image_filename: 2021_07_11__18_10__7118384.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.31777777777778
+  lon: 17.322847222222222
+  altitude: 178.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 15.32
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:10:09.000000000+02:00
+- image_filename: 2021_07_11__18_10__7118386-hdr.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.31777777777778
+  lon: 17.322847222222222
+  altitude: 177.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 3.19
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:10:30.000000000+02:00
 - image_filename: 2021_07_11__18_20__7118398.jpg
   post_slug: 2021-07-11-brakujacy-fragment-na-mapie
   lat: 52.33880555555556
@@ -430,3 +269,162 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-07-11 18:20:24.000000000+02:00
+- image_filename: 2021_07_11__18_20__7118400.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.33880555555556
+  lon: 17.328097222222222
+  altitude: 176.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.49
+  iso: 200
+  width: 5082
+  height: 3794
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:20:35.000000000+02:00
+- image_filename: 2021_07_11__18_20__7118404.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.33913888888889
+  lon: 17.32863888888889
+  altitude: 176.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 8.19
+  iso: 200
+  width: 5058
+  height: 3776
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:20:55.000000000+02:00
+- image_filename: 2021_07_11__18_21__7118406-hdr.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.33993055555556
+  lon: 17.329722222222223
+  altitude: 178.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 9.64
+  iso: 200
+  width: 4894
+  height: 3654
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:21:19.000000000+02:00
+- image_filename: 2021_07_11__18_24__7118409.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.343833333333336
+  lon: 17.334555555555553
+  altitude: 182.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 90.51
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:24:10.000000000+02:00
+- image_filename: 2021_07_11__18_31__7118428.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.347166666666666
+  lon: 17.33536111111111
+  altitude: 183.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 256.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:31:03.000000000+02:00
+- image_filename: 2021_07_11__18_31__7118432.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.348958333333336
+  lon: 17.33359722222222
+  altitude: 182.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 20.25
+  iso: 200
+  width: 5137
+  height: 3835
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:31:48.000000000+02:00
+- image_filename: 2021_07_11__18_35__7118437.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.35176388888889
+  lon: 17.331791666666668
+  altitude: 185.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1.2
+  iso: 200
+  width: 4070
+  height: 2894
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:35:19.000000000+02:00
+- image_filename: 2021_07_11__18_36__7118439.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.35176388888889
+  lon: 17.331791666666668
+  altitude: 186.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:36:02.000000000+02:00
+- image_filename: 2021_07_11__18_52__7118443.jpg
+  post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 84.45
+  iso: 200
+  width: 5122
+  height: 3700
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-07-11 18:52:44.000000000+02:00

@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
 - image_filename: 2021_05_26__19_54__5266505.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -37,24 +35,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 19:54:56.000000000+02:00
-- image_filename: 2021_05_26__19_56__5266520.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.23009722222223
-  lon: 21.009333333333334
-  altitude: 145.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5161
-  height: 3853
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-26 19:56:09.000000000+02:00
 - image_filename: 2021_05_26__19_55__5266516.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -73,42 +53,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 19:55:36.000000000+02:00
-- image_filename: 2021_05_26__21_05__5266561.jpg
+- image_filename: 2021_05_26__19_56__5266520.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
   lon: 21.009333333333334
   altitude: 145.0
-  focal_length: 23.0
-  focal_length_35: 46.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 3.6
-  iso: 200
-  width: 5190
-  height: 3874
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-26 21:05:42.000000000+02:00
-- image_filename: 2021_05_26__19_59__5266548.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.23009722222223
-  lon: 21.009333333333334
-  altitude: 145.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.125
-  exposure_string: 1/8 s
+  exposure: 0.025
+  exposure_string: 1/40 s
   focus_distance: 1000.0
   iso: 200
-  width: 5239
-  height: 3911
+  width: 5161
+  height: 3853
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-26 19:59:05.000000000+02:00
+  time: 2021-05-26 19:56:09.000000000+02:00
 - image_filename: 2021_05_26__19_56__5266523.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -127,6 +89,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 19:56:26.000000000+02:00
+- image_filename: 2021_05_26__19_59__5266548.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.23009722222223
+  lon: 21.009333333333334
+  altitude: 145.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-26 19:59:05.000000000+02:00
+- image_filename: 2021_05_26__21_05__5266561.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.23009722222223
+  lon: 21.009333333333334
+  altitude: 145.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 3.6
+  iso: 200
+  width: 5190
+  height: 3874
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-26 21:05:42.000000000+02:00
 - image_filename: 2021_05_26__21_06__5266566.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -136,8 +134,8 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
-  exposure: 2.0
-  exposure_string: 2 s
+  exposure: 6.0
+  exposure_string: 1.6 s
   focus_distance: 1000.0
   iso: 200
   width: 4969
@@ -163,24 +161,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 21:07:14.000000000+02:00
-- image_filename: 2021_05_26__21_07__5266574.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.23009722222223
-  lon: 21.009333333333334
-  altitude: 145.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 3.0
-  exposure_string: 3 s
-  focus_distance: 4.66
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-26 21:07:39.000000000+02:00
 - image_filename: 2021_05_26__21_07__5266572.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -190,8 +170,8 @@
   focal_length_35: 46.0
   crop: 2.0
   aperture: 7.1
-  exposure: 3.0
-  exposure_string: 3 s
+  exposure: 2.0
+  exposure_string: 3.2 s
   focus_distance: 3.82
   iso: 200
   width: 5239
@@ -199,6 +179,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 21:07:21.000000000+02:00
+- image_filename: 2021_05_26__21_07__5266574.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.23009722222223
+  lon: 21.009333333333334
+  altitude: 145.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 2.0
+  exposure_string: 3.2 s
+  focus_distance: 4.66
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-26 21:07:39.000000000+02:00
+- image_filename: 2021_05_26__21_07__5266576.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.23009722222223
+  lon: 21.009333333333334
+  altitude: 145.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 2.0
+  exposure_string: 3.2 s
+  focus_distance: 7.26
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-26 21:07:59.000000000+02:00
 - image_filename: 2021_05_26__22_47__5266598.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -217,24 +233,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 22:47:51.000000000+02:00
-- image_filename: 2021_05_26__21_07__5266576.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.23009722222223
-  lon: 21.009333333333334
-  altitude: 145.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 3.0
-  exposure_string: 3 s
-  focus_distance: 7.26
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-26 21:07:59.000000000+02:00
 - image_filename: 2021_05_26__22_49__5266604.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -271,24 +269,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 22:49:38.000000000+02:00
-- image_filename: 2021_05_26__22_52__5266620.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.23009722222223
-  lon: 21.009333333333334
-  altitude: 145.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 25.97
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-26 22:52:23.000000000+02:00
 - image_filename: 2021_05_26__22_49__5266606.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -307,6 +287,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 22:49:44.000000000+02:00
+- image_filename: 2021_05_26__22_52__5266620.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.23009722222223
+  lon: 21.009333333333334
+  altitude: 145.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 25.97
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-26 22:52:23.000000000+02:00
 - image_filename: 2021_05_26__22_52__5266622.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -397,24 +395,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 22:54:12.000000000+02:00
-- image_filename: 2021_05_27__19_42__5276663.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.44398611111111
-  lon: 20.704930555555556
-  altitude: 114.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 22.2
-  iso: 200
-  width: 5192
-  height: 3876
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-27 19:42:05.000000000+02:00
 - image_filename: 2021_05_26__22_56__5266647.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.23009722222223
@@ -433,24 +413,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-26 22:56:10.000000000+02:00
-- image_filename: 2021_05_27__19_53__5276687.jpg
+- image_filename: 2021_05_27__19_42__5276663.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.441430555555556
-  lon: 20.700319444444442
-  altitude: 112.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 52.44398611111111
+  lon: 20.704930555555556
+  altitude: 114.0
+  focal_length: 54.0
+  focal_length_35: 108.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.04
-  exposure_string: 1/25 s
-  focus_distance: 5.02
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 22.2
   iso: 200
-  width: 5239
-  height: 3911
+  width: 5192
+  height: 3876
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-27 19:53:22.000000000+02:00
+  time: 2021-05-27 19:42:05.000000000+02:00
 - image_filename: 2021_05_27__19_46__5276669.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.44298611111111
@@ -487,6 +467,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-27 19:51:11.000000000+02:00
+- image_filename: 2021_05_27__19_53__5276687.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.441430555555556
+  lon: 20.700319444444442
+  altitude: 112.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 5.02
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-27 19:53:22.000000000+02:00
+- image_filename: 2021_05_27__19_58__5276700.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.438805555555554
+  lon: 20.697055555555554
+  altitude: 109.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 202.27
+  iso: 200
+  width: 5024
+  height: 3751
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-27 19:58:10.000000000+02:00
 - image_filename: 2021_05_27__19_59__5276702.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.43844444444444
@@ -523,42 +539,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-27 20:02:39.000000000+02:00
-- image_filename: 2021_05_27__19_58__5276700.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.438805555555554
-  lon: 20.697055555555554
-  altitude: 109.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  focus_distance: 202.27
-  iso: 200
-  width: 5024
-  height: 3751
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-27 19:58:10.000000000+02:00
-- image_filename: 2021_05_27__20_07__5276739.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.43855555555555
-  lon: 20.69686111111111
-  altitude: 110.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 88.08
-  iso: 3200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-27 20:07:20.000000000+02:00
 - image_filename: 2021_05_27__20_02__5276731.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.43830555555555
@@ -577,6 +557,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-27 20:02:47.000000000+02:00
+- image_filename: 2021_05_27__20_07__5276739.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.43855555555555
+  lon: 20.69686111111111
+  altitude: 110.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 88.08
+  iso: 3200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-27 20:07:20.000000000+02:00
 - image_filename: 2021_05_27__20_24__5276770.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.436375
@@ -667,24 +665,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-27 20:34:10.000000000+02:00
-- image_filename: 2021_05_27__21_54__5276835.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.229375000000005
-  lon: 21.008333333333333
-  altitude: 158.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 3.0
-  exposure_string: 3 s
-  focus_distance: 9.81
-  iso: 200
-  width: 4597
-  height: 3848
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-27 21:54:35.000000000+02:00
 - image_filename: 2021_05_27__20_51__5276825.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.443416666666664
@@ -694,8 +674,8 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 9.0
-  exposure: 2.0
-  exposure_string: 2 s
+  exposure: 6.0
+  exposure_string: 1.6 s
   focus_distance: 4.16
   iso: 200
   width: 5239
@@ -703,6 +683,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-27 20:51:50.000000000+02:00
+- image_filename: 2021_05_27__21_54__5276835.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.229375000000005
+  lon: 21.008333333333333
+  altitude: 158.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 5.0
+  exposure_string: 2.5 s
+  focus_distance: 9.81
+  iso: 200
+  width: 4597
+  height: 3848
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-27 21:54:35.000000000+02:00
 - image_filename: 2021_05_28__12_25__5286877.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.213875
@@ -721,42 +719,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-28 12:25:48.000000000+02:00
-- image_filename: 2021_05_28__12_28__5286894.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.213875
-  lon: 21.026319444444443
-  altitude: 128.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.84
-  iso: 1250
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-28 12:28:50.000000000+02:00
-- image_filename: 2021_05_28__12_28__5286889.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.213875
-  lon: 21.026319444444443
-  altitude: 128.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 0.88
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-28 12:28:42.000000000+02:00
 - image_filename: 2021_05_28__12_28__5286886.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.213875
@@ -775,6 +737,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-28 12:28:19.000000000+02:00
+- image_filename: 2021_05_28__12_28__5286889.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.213875
+  lon: 21.026319444444443
+  altitude: 128.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.88
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-28 12:28:42.000000000+02:00
+- image_filename: 2021_05_28__12_28__5286894.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.213875
+  lon: 21.026319444444443
+  altitude: 128.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.84
+  iso: 1250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-28 12:28:50.000000000+02:00
 - image_filename: 2021_05_28__12_28__5286900.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.213875
@@ -901,24 +899,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-28 18:21:27.000000000+02:00
-- image_filename: 2021_05_28__18_45__5286988.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.21477777777778
-  lon: 21.034736111111112
-  altitude: 116.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 4.89
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-28 18:45:59.000000000+02:00
 - image_filename: 2021_05_28__18_25__5286968.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.21504166666667
@@ -937,24 +917,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-28 18:25:05.000000000+02:00
-- image_filename: 2021_05_28__18_52__5287008.jpg
+- image_filename: 2021_05_28__18_45__5286988.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.21369444444445
-  lon: 21.03651388888889
-  altitude: 114.0
-  focal_length: 61.0
-  focal_length_35: 122.0
+  lat: 52.21477777777778
+  lon: 21.034736111111112
+  altitude: 116.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 24.09
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.89
   iso: 200
-  width: 5214
-  height: 3892
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-05-28 18:52:26.000000000+02:00
+  time: 2021-05-28 18:45:59.000000000+02:00
 - image_filename: 2021_05_28__18_47__5286992.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.21483333333334
@@ -973,6 +953,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-28 18:47:13.000000000+02:00
+- image_filename: 2021_05_28__18_52__5287008.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.21369444444445
+  lon: 21.03651388888889
+  altitude: 114.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 24.09
+  iso: 200
+  width: 5214
+  height: 3892
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-28 18:52:26.000000000+02:00
 - image_filename: 2021_05_28__19_00__5287036.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.214125
@@ -1009,24 +1007,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-28 19:02:01.000000000+02:00
-- image_filename: 2021_05_28__19_02__5287056.jpg
-  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
-  lat: 52.21441666666667
-  lon: 21.035194444444446
-  altitude: 118.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 4.21
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-28 19:02:52.000000000+02:00
 - image_filename: 2021_05_28__19_02__5287051.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.21441666666667
@@ -1045,6 +1025,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-28 19:02:48.000000000+02:00
+- image_filename: 2021_05_28__19_02__5287056.jpg
+  post_slug: 2021-05-28-warszawa-modlin-i-lazienki
+  lat: 52.21441666666667
+  lon: 21.035194444444446
+  altitude: 118.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.21
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-28 19:02:52.000000000+02:00
 - image_filename: 2021_05_28__19_04__5287067.jpg
   post_slug: 2021-05-28-warszawa-modlin-i-lazienki
   lat: 52.21441666666667

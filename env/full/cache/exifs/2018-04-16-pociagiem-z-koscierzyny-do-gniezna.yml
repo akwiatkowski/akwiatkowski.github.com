@@ -1,18 +1,4 @@
 ---
-- image_filename: IMGP7473raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.523513888888886
-  lon: 17.541597222222222
-  altitude: 121.0
-  focal_length: 24.0
-  focal_length_35: 36.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 10:42:10+02:00
 - image_filename: IMGP7186raw1.jpg
   post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
   lat: 54.120472222222226
@@ -22,11 +8,11 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2018-04-16 07:11:35+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-16 07:11:35.000000000+02:00
 - image_filename: IMGP7198raw1.jpg
   post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
   lat: 54.11870833333333
@@ -36,333 +22,11 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 800
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 07:45:33+02:00
-- image_filename: IMGP7275raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.8825
-  lon: 17.728111111111108
-  altitude: 145.0
-  focal_length: 33.0
-  focal_length_35: 49.0
-  crop: 1.4848484848484849
-  aperture: 4.5
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 08:24:29+02:00
-- image_filename: IMGP7316raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.67415277777778
-  lon: 17.544694444444445
-  altitude: 159.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-04-16 09:05:32+02:00
-- image_filename: IMGP7381raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.657944444444446
-  lon: 17.3715
-  altitude: 159.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 09:32:19+02:00
-- image_filename: IMGP7414raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.57330555555556
-  lon: 17.540000000000003
-  altitude: 151.0
-  focal_length: 33.0
-  focal_length_35: 49.0
-  crop: 1.4848484848484849
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 10:30:09+02:00
-- image_filename: IMGP7455raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.52847222222222
-  lon: 17.54318055555556
-  altitude: 120.0
-  focal_length: 170.0
-  focal_length_35: 255.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-04-16 10:38:58+02:00
-- image_filename: IMGP7496raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.50009722222222
-  lon: 17.538583333333335
-  altitude: 133.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-04-16 10:49:18+02:00
-- image_filename: IMGP7529raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.46065277777778
-  lon: 17.53851388888889
-  altitude: 118.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-16 11:07:28+02:00
-- image_filename: IMGP7558raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.46084722222223
-  lon: 17.538472222222225
-  altitude: 117.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 1600
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 11:17:38+02:00
-- image_filename: IMGP7583raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.460972222222225
-  lon: 17.53851388888889
-  altitude: 117.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 11:31:27+02:00
-- image_filename: IMGP7651raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.35563888888889
-  lon: 17.481972222222222
-  altitude: 109.0
-  focal_length: 45.0
-  focal_length_35: 67.0
-  crop: 1.488888888888889
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 12:10:42+02:00
-- image_filename: IMGP7749raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 52.99543055555556
-  lon: 17.50051388888889
-  altitude: 100.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 15:25:00+02:00
-- image_filename: IMGP7787raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 52.858125
-  lon: 17.494875
-  altitude: 104.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 5.6
-  iso: 1600
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 16:32:35+02:00
-- image_filename: IMGP7792raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 52.857569444444444
-  lon: 17.494972222222223
-  altitude: 104.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 16:32:47+02:00
-- image_filename: IMGP7281raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.88252777777778
-  lon: 17.72809722222222
-  altitude: 145.0
-  focal_length: 24.0
-  focal_length_35: 36.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 08:24:52+02:00
-- image_filename: IMGP7534raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.46066666666667
-  lon: 17.538569444444445
-  altitude: 118.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 1600
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-04-16 11:08:17+02:00
-- image_filename: IMGP7235raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.986916666666666
-  lon: 17.780375
-  altitude: 149.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-16 08:11:59+02:00
-- image_filename: IMGP7241raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.935125
-  lon: 17.74198611111111
-  altitude: 139.0
-  focal_length: 148.0
-  focal_length_35: 222.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 08:17:48+02:00
-- image_filename: IMGP7743raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 52.996069444444444
-  lon: 17.50188888888889
-  altitude: 98.0
-  focal_length: 75.0
-  focal_length_35: 112.0
-  crop: 1.4933333333333334
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 15:20:24+02:00
-- image_filename: IMGP7655raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.35565277777778
-  lon: 17.482083333333332
-  altitude: 109.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 12:12:01+02:00
-- image_filename: IMGP7329raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.65734722222222
-  lon: 17.370416666666667
-  altitude: 160.0
-  focal_length: 90.0
-  focal_length_35: 135.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-04-16 09:20:05+02:00
-- image_filename: IMGP7421raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.558625
-  lon: 17.53838888888889
-  altitude: 142.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 10:32:38+02:00
-- image_filename: IMGP7591raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.40998611111111
-  lon: 17.549083333333336
-  altitude: 116.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 11:47:40+02:00
-- image_filename: IMGP7301raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.848194444444445
-  lon: 17.698958333333334
-  altitude: 132.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 08:29:37+02:00
+  time: 2018-04-16 07:45:33.000000000+02:00
 - image_filename: IMGP7211raw1.jpg
   post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
   lat: 54.10308333333334
@@ -372,53 +36,67 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 4.5
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2018-04-16 07:54:30+02:00
-- image_filename: IMGP7810raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 52.80973611111111
-  lon: 17.487055555555557
-  altitude: 101.0
-  focal_length: 125.0
-  focal_length_35: 187.0
-  crop: 1.496
-  aperture: 5.6
-  iso: 1250
+  iso: 100
   camera: PENTAX K-S2
+  time: 2018-04-16 07:54:30.000000000+02:00
+- image_filename: IMGP7235raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.986916666666666
+  lon: 17.780375
+  altitude: 149.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-16 08:11:59.000000000+02:00
+- image_filename: IMGP7241raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.935125
+  lon: 17.74198611111111
+  altitude: 139.0
+  focal_length: 148.0
+  focal_length_35: 222.0
+  crop: 1.5
+  aperture: 6.3
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2018-04-16 16:43:36+02:00
-- image_filename: IMGP7611raw1.jpg
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-04-16 08:17:48.000000000+02:00
+- image_filename: IMGP7275raw1.jpg
   post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.38095833333333
-  lon: 17.543819444444445
-  altitude: 116.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 6.3
+  lat: 53.8825
+  lon: 17.728111111111108
+  altitude: 145.0
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 11:57:46+02:00
-- image_filename: IMGP7472raw1.jpg
+  time: 2018-04-16 08:24:29.000000000+02:00
+- image_filename: IMGP7281raw1.jpg
   post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.52390277777778
-  lon: 17.541694444444445
-  altitude: 120.0
+  lat: 53.88252777777778
+  lon: 17.72809722222222
+  altitude: 145.0
   focal_length: 24.0
   focal_length_35: 36.0
   crop: 1.5
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
+  aperture: 4.5
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2018-04-16 10:42:02+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-16 08:24:52.000000000+02:00
 - image_filename: IMGP7293raw1.jpg
   post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
   lat: 53.87140277777778
@@ -428,11 +106,291 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 5.6
-  iso: 125
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2018-04-16 08:26:59+02:00
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2018-04-16 08:26:59.000000000+02:00
+- image_filename: IMGP7301raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.848194444444445
+  lon: 17.698958333333334
+  altitude: 132.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-04-16 08:29:37.000000000+02:00
+- image_filename: IMGP7316raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.67415277777778
+  lon: 17.544694444444445
+  altitude: 159.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2018-04-16 09:05:32.000000000+02:00
+- image_filename: IMGP7329raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.65734722222222
+  lon: 17.370416666666667
+  altitude: 160.0
+  focal_length: 90.0
+  focal_length_35: 135.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-16 09:20:05.000000000+02:00
+- image_filename: IMGP7381raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.657944444444446
+  lon: 17.3715
+  altitude: 159.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-16 09:32:19.000000000+02:00
+- image_filename: IMGP7414raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.57330555555556
+  lon: 17.540000000000003
+  altitude: 151.0
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-16 10:30:09.000000000+02:00
+- image_filename: IMGP7421raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.558625
+  lon: 17.53838888888889
+  altitude: 142.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-16 10:32:38.000000000+02:00
+- image_filename: IMGP7455raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.52847222222222
+  lon: 17.54318055555556
+  altitude: 120.0
+  focal_length: 170.0
+  focal_length_35: 255.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-16 10:38:58.000000000+02:00
+- image_filename: IMGP7472raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.52390277777778
+  lon: 17.541694444444445
+  altitude: 120.0
+  focal_length: 24.0
+  focal_length_35: 36.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-16 10:42:02.000000000+02:00
+- image_filename: IMGP7473raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.523513888888886
+  lon: 17.541597222222222
+  altitude: 121.0
+  focal_length: 24.0
+  focal_length_35: 36.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-16 10:42:10.000000000+02:00
+- image_filename: IMGP7496raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.50009722222222
+  lon: 17.538583333333335
+  altitude: 133.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-16 10:49:18.000000000+02:00
+- image_filename: IMGP7529raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.46065277777778
+  lon: 17.53851388888889
+  altitude: 118.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-16 11:07:28.000000000+02:00
+- image_filename: IMGP7534raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.46066666666667
+  lon: 17.538569444444445
+  altitude: 118.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 1600
+  camera: PENTAX K-S2
+  time: 2018-04-16 11:08:17.000000000+02:00
+- image_filename: IMGP7558raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.46084722222223
+  lon: 17.538472222222225
+  altitude: 117.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1600
+  camera: PENTAX K-S2
+  time: 2018-04-16 11:17:38.000000000+02:00
+- image_filename: IMGP7583raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.460972222222225
+  lon: 17.53851388888889
+  altitude: 117.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-16 11:31:27.000000000+02:00
+- image_filename: IMGP7591raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.40998611111111
+  lon: 17.549083333333336
+  altitude: 116.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-16 11:47:40.000000000+02:00
+- image_filename: IMGP7611raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.38095833333333
+  lon: 17.543819444444445
+  altitude: 116.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-04-16 11:57:46.000000000+02:00
+- image_filename: IMGP7651raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.35563888888889
+  lon: 17.481972222222222
+  altitude: 109.0
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-04-16 12:10:42.000000000+02:00
+- image_filename: IMGP7655raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.35565277777778
+  lon: 17.482083333333332
+  altitude: 109.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2018-04-16 12:12:01.000000000+02:00
+- image_filename: IMGP7743raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 52.996069444444444
+  lon: 17.50188888888889
+  altitude: 98.0
+  focal_length: 75.0
+  focal_length_35: 112.0
+  crop: 1.4933333333333334
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-16 15:20:24.000000000+02:00
+- image_filename: IMGP7749raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 52.99543055555556
+  lon: 17.50051388888889
+  altitude: 100.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-16 15:25:00.000000000+02:00
 - image_filename: IMGP7761raw1.jpg
   post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
   lat: 52.9955
@@ -442,8 +400,50 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
-  iso: 1000
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2018-04-16 15:33:08+02:00
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2018-04-16 15:33:08.000000000+02:00
+- image_filename: IMGP7787raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 52.858125
+  lon: 17.494875
+  altitude: 104.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1600
+  camera: PENTAX K-S2
+  time: 2018-04-16 16:32:35.000000000+02:00
+- image_filename: IMGP7792raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 52.857569444444444
+  lon: 17.494972222222223
+  altitude: 104.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-04-16 16:32:47.000000000+02:00
+- image_filename: IMGP7810raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 52.80973611111111
+  lon: 17.487055555555557
+  altitude: 101.0
+  focal_length: 125.0
+  focal_length_35: 187.0
+  crop: 1.496
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1250
+  camera: PENTAX K-S2
+  time: 2018-04-16 16:43:36.000000000+02:00

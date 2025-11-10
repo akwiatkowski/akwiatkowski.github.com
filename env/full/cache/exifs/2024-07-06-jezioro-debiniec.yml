@@ -1,74 +1,10 @@
 ---
-- image_filename: 2024_07_06__09_42_P7060078.jpg
-  post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.46944444444445
-  lon: 17.224999999999998
-  altitude: 99.0
-  focal_length: 300.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1.59
-  iso: 200
-  width: 4892
-  height: 3586
-  lens: OLYMPUS M.300mm F4.0
-  camera: OM-1
-  time: 2024-07-06 09:42:03.000000000+02:00
 - image_filename: 2022_07_31__18_45_P7310479.jpg
   post_slug: 2024-07-06-jezioro-debiniec
-- image_filename: 2024_07_06__08_50_P7060006.jpg
-  post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.470555555555556
-  lon: 17.21527777777778
-  altitude: 92.0
-  focal_length: 300.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 14.95
-  iso: 200
-  width: 7853
-  height: 5693
-  lens: OLYMPUS M.300mm F4.0
-  camera: OM-1
-  time: 2024-07-06 08:50:19.000000000+02:00
-- image_filename: 2024_07_06__09_36_P7060022.jpg
-  post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.469722222222224
-  lon: 17.225277777777777
-  altitude: 94.0
-  focal_length: 300.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1.66
-  iso: 640
-  width: 4839
-  height: 3677
-  lens: OLYMPUS M.300mm F4.0
-  camera: OM-1
-  time: 2024-07-06 09:36:24.000000000+02:00
-- image_filename: 2024_07_06__09_57_P7060084.jpg
-  post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.47083333333334
-  lon: 17.21472222222222
-  altitude: 101.0
-  focal_length: 300.0
-  aperture: 5.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 1.66
-  iso: 200
-  width: 5208
-  height: 3912
-  lens: OLYMPUS M.300mm F4.0
-  camera: OM-1
-  time: 2024-07-06 09:57:33.000000000+02:00
 - image_filename: 2024_07_06__08_18_P7060001.jpg
   post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.483333333333334
-  lon: 17.20861111111111
+  lat: 52.48327777777778
+  lon: 17.20859722222222
   altitude: 108.0
   focal_length: 8.0
   aperture: 9.0
@@ -81,26 +17,26 @@
   lens: LEICA DG 8-18/F2.8-4.0
   camera: OM-1
   time: 2024-07-06 08:18:34.000000000+02:00
-- image_filename: 2024_07_06__09_37_P7060028.jpg
+- image_filename: 2024_07_06__08_50_P7060006.jpg
   post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.469722222222224
-  lon: 17.224999999999998
-  altitude: 95.0
+  lat: 52.470597222222224
+  lon: 17.21523611111111
+  altitude: 92.0
   focal_length: 300.0
   aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1.84
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 14.95
   iso: 200
-  width: 6702
-  height: 4955
+  width: 7853
+  height: 5693
   lens: OLYMPUS M.300mm F4.0
   camera: OM-1
-  time: 2024-07-06 09:37:56.000000000+02:00
+  time: 2024-07-06 08:50:19.000000000+02:00
 - image_filename: 2024_07_06__09_34_P7060012.jpg
   post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.469722222222224
-  lon: 17.225277777777777
+  lat: 52.469611111111114
+  lon: 17.22522222222222
   altitude: 95.0
   focal_length: 300.0
   aperture: 4.0
@@ -113,10 +49,74 @@
   lens: OLYMPUS M.300mm F4.0
   camera: OM-1
   time: 2024-07-06 09:34:18.000000000+02:00
+- image_filename: 2024_07_06__09_36_P7060021.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.46958333333333
+  lon: 17.225194444444444
+  altitude: 94.0
+  focal_length: 300.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1.52
+  iso: 250
+  width: 5006
+  height: 3668
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  time: 2024-07-06 09:36:13.000000000+02:00
+- image_filename: 2024_07_06__09_36_P7060022.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.46958333333333
+  lon: 17.225194444444444
+  altitude: 94.0
+  focal_length: 300.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1.66
+  iso: 640
+  width: 4839
+  height: 3677
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  time: 2024-07-06 09:36:24.000000000+02:00
+- image_filename: 2024_07_06__09_37_P7060028.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.469625
+  lon: 17.22509722222222
+  altitude: 95.0
+  focal_length: 300.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.84
+  iso: 200
+  width: 6702
+  height: 4955
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  time: 2024-07-06 09:37:56.000000000+02:00
+- image_filename: 2024_07_06__09_38_P7060030.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.46959722222223
+  lon: 17.22508333333333
+  altitude: 95.0
+  focal_length: 300.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1.44
+  iso: 200
+  width: 7878
+  height: 5605
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  time: 2024-07-06 09:38:18.000000000+02:00
 - image_filename: 2024_07_06__09_39_P7060041.jpg
   post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.46944444444445
-  lon: 17.224999999999998
+  lat: 52.469569444444446
+  lon: 17.225069444444443
   altitude: 96.0
   focal_length: 300.0
   aperture: 4.0
@@ -131,8 +131,8 @@
   time: 2024-07-06 09:39:08.000000000+02:00
 - image_filename: 2024_07_06__09_39_P7060045.jpg
   post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.46944444444445
-  lon: 17.224999999999998
+  lat: 52.469569444444446
+  lon: 17.225069444444443
   altitude: 96.0
   focal_length: 300.0
   aperture: 4.0
@@ -147,8 +147,8 @@
   time: 2024-07-06 09:39:14.000000000+02:00
 - image_filename: 2024_07_06__09_39_P7060055.jpg
   post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.46944444444445
-  lon: 17.224999999999998
+  lat: 52.469569444444446
+  lon: 17.225055555555553
   altitude: 96.0
   focal_length: 300.0
   aperture: 4.0
@@ -163,8 +163,8 @@
   time: 2024-07-06 09:39:38.000000000+02:00
 - image_filename: 2024_07_06__09_39_P7060061.jpg
   post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.46944444444445
-  lon: 17.224999999999998
+  lat: 52.469569444444446
+  lon: 17.225055555555553
   altitude: 96.0
   focal_length: 300.0
   aperture: 4.0
@@ -177,42 +177,10 @@
   lens: OLYMPUS M.300mm F4.0
   camera: OM-1
   time: 2024-07-06 09:39:45.000000000+02:00
-- image_filename: 2024_07_06__09_36_P7060021.jpg
-  post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.469722222222224
-  lon: 17.225277777777777
-  altitude: 94.0
-  focal_length: 300.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1.52
-  iso: 250
-  width: 5006
-  height: 3668
-  lens: OLYMPUS M.300mm F4.0
-  camera: OM-1
-  time: 2024-07-06 09:36:13.000000000+02:00
-- image_filename: 2024_07_06__09_38_P7060030.jpg
-  post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.469722222222224
-  lon: 17.224999999999998
-  altitude: 95.0
-  focal_length: 300.0
-  aperture: 4.0
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1.44
-  iso: 200
-  width: 7878
-  height: 5605
-  lens: OLYMPUS M.300mm F4.0
-  camera: OM-1
-  time: 2024-07-06 09:38:18.000000000+02:00
 - image_filename: 2024_07_06__09_41_P7060075.jpg
   post_slug: 2024-07-06-jezioro-debiniec
-  lat: 52.46944444444445
-  lon: 17.224999999999998
+  lat: 52.46954166666667
+  lon: 17.22486111111111
   altitude: 98.0
   focal_length: 300.0
   aperture: 4.0
@@ -225,3 +193,35 @@
   lens: OLYMPUS M.300mm F4.0
   camera: OM-1
   time: 2024-07-06 09:41:20.000000000+02:00
+- image_filename: 2024_07_06__09_42_P7060078.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.46955555555556
+  lon: 17.224888888888888
+  altitude: 99.0
+  focal_length: 300.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.59
+  iso: 200
+  width: 4892
+  height: 3586
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  time: 2024-07-06 09:42:03.000000000+02:00
+- image_filename: 2024_07_06__09_57_P7060084.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.470875
+  lon: 17.214624999999998
+  altitude: 101.0
+  focal_length: 300.0
+  aperture: 5.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 1.66
+  iso: 200
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  time: 2024-07-06 09:57:33.000000000+02:00

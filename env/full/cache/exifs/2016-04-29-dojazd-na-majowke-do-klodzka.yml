@@ -1,273 +1,273 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.46798805555556
-  lon: 16.579857222222223
-  altitude: 355.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-04-29 16:27:16+02:00
-- image_filename: IMGP9516raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.76826583333333
-  lon: 17.04873388888889
-  altitude: 170.3
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-04-29 14:46:13+02:00
-- image_filename: IMGP9651raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.553155555555556
-  lon: 16.929470000000002
-  altitude: 288.5
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2016-04-29 15:14:48+02:00
-- image_filename: IMGP9676raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.46772
-  lon: 16.63147638888889
-  altitude: 293.8
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-04-29 16:05:14+02:00
-- image_filename: IMGP9678raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.47040166666667
-  lon: 16.589003055555555
-  altitude: 312.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-04-29 16:20:13+02:00
-- image_filename: IMGP9696raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.452781944444446
-  lon: 16.580648055555557
-  altitude: 362.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-04-29 17:34:27+02:00
-- image_filename: IMGP9711raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.459968333333336
-  lon: 16.57775138888889
-  altitude: 354.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-04-29 17:56:39+02:00
 - image_filename: IMGP9494raw1.jpg
   post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.844322500000004
-  lon: 17.039335
+  lat: 50.844322222222225
+  lon: 17.039336111111112
   altitude: 149.1
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
+  time: 2016-04-29 14:33:28.000000000+02:00
+- image_filename: IMGP9516raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.76826666666667
+  lon: 17.048733333333335
+  altitude: 170.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 14:46:13.000000000+02:00
+- image_filename: IMGP9531raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.729025
+  lon: 17.029775
+  altitude: 176.1
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 14:49:31.000000000+02:00
+- image_filename: IMGP9555raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.71268611111111
+  lon: 17.034694444444447
+  altitude: 178.5
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 14:52:57.000000000+02:00
+- image_filename: IMGP9560raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.70583055555556
+  lon: 17.034558333333337
+  altitude: 179.4
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 14:54:08.000000000+02:00
+- image_filename: IMGP9628raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.56343611111111
+  lon: 16.946722222222224
+  altitude: 296.2
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 15:12:40.000000000+02:00
+- image_filename: IMGP9639raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.55569166666666
+  lon: 16.934180555555557
+  altitude: 291.4
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 15:14:23.000000000+02:00
+- image_filename: IMGP9651raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.553155555555556
+  lon: 16.929469444444447
+  altitude: 288.5
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2016-04-29 14:33:28+02:00
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 15:14:48.000000000+02:00
+- image_filename: IMGP9656raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.53618055555555
+  lon: 16.897530555555555
+  altitude: 264.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 15:18:28.000000000+02:00
+- image_filename: IMGP9676raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.46771944444445
+  lon: 16.631475000000002
+  altitude: 293.8
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 16:05:14.000000000+02:00
+- image_filename: IMGP9678raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.47040277777778
+  lon: 16.589002777777775
+  altitude: 312.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 16:20:13.000000000+02:00
+- image_filename: IMGP9684raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.46843333333334
+  lon: 16.581208333333333
+  altitude: 349.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 16:26:08.000000000+02:00
+- image_filename: IMGP9696raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.452780555555556
+  lon: 16.580647222222222
+  altitude: 362.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 17:34:27.000000000+02:00
 - image_filename: IMGP9708raw1.jpg
   post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.45812138888889
-  lon: 16.576608888888888
+  lat: 50.45812222222222
+  lon: 16.576608333333333
   altitude: 362.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
+  time: 2016-04-29 17:51:59.000000000+02:00
+- image_filename: IMGP9711raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.45996944444445
+  lon: 16.57775277777778
+  altitude: 354.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2016-04-29 17:51:59+02:00
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 17:56:39.000000000+02:00
+- image_filename: IMGP9718raw1.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.461172222222224
+  lon: 16.581108333333333
+  altitude: 348.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  time: 2016-04-29 18:06:38.000000000+02:00
 - image_filename: IMGP9726raw1.jpg
   post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.460125833333336
+  lat: 50.460125000000005
   lon: 16.578505555555555
   altitude: 353.9
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-04-29 18:17:43+02:00
-- image_filename: IMGP9656raw1.jpg
+  time: 2016-04-29 18:17:43.000000000+02:00
+- image_filename: header.jpg
   post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.536180277777774
-  lon: 16.897529166666665
-  altitude: 264.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
+  lat: 50.46798888888889
+  lon: 16.579858333333334
+  altitude: 355.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2016-04-29 15:18:28+02:00
-- image_filename: IMGP9718raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.461172500000004
-  lon: 16.581109722222223
-  altitude: 348.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
   iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
+  width: 2000
+  height: 1326
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-04-29 18:06:38+02:00
-- image_filename: IMGP9684raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.46843388888889
-  lon: 16.581209166666667
-  altitude: 349.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-04-29 16:26:08+02:00
-- image_filename: IMGP9639raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.55569277777777
-  lon: 16.934181666666667
-  altitude: 291.4
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2016-04-29 15:14:23+02:00
-- image_filename: IMGP9531raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.72902416666667
-  lon: 17.029773888888887
-  altitude: 176.1
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2016-04-29 14:49:31+02:00
-- image_filename: IMGP9628raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.56343694444444
-  lon: 16.94672277777778
-  altitude: 296.2
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2016-04-29 15:12:40+02:00
-- image_filename: IMGP9555raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.71268555555556
-  lon: 17.034693888888892
-  altitude: 178.5
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2016-04-29 14:52:57+02:00
-- image_filename: IMGP9560raw1.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.70583111111112
-  lon: 17.034557777777778
-  altitude: 179.4
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 400
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2016-04-29 14:54:08+02:00
+  time: 2016-04-29 16:27:16.000000000+02:00

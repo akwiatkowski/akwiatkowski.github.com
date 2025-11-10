@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
-  lat: 52.211194444444445
-  lon: 17.568041666666666
-  altitude: 91.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-08-26 09:59:45+02:00
 - image_filename: IMGP0443raw1.jpg
   post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
   lat: 52.42355555555555
@@ -22,11 +8,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2017-08-26 07:57:16+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-26 07:57:16.000000000+02:00
 - image_filename: IMGP0444raw1.jpg
   post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
   lat: 52.377291666666665
@@ -36,11 +22,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-08-26 08:13:13+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-26 08:13:13.000000000+02:00
 - image_filename: IMGP0451raw1.jpg
   post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
   lat: 52.33083333333334
@@ -50,67 +36,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2017-08-26 08:51:49+02:00
-- image_filename: IMGP0458raw1.jpg
-  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
-  lat: 52.21204166666667
-  lon: 17.571555555555555
-  altitude: 94.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-08-26 09:57:15+02:00
-- image_filename: IMGP0461raw1.jpg
-  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
-  lat: 52.211333333333336
-  lon: 17.56811111111111
-  altitude: 91.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-08-26 09:59:42+02:00
-- image_filename: IMGP0469raw1.jpg
-  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
-  lat: 52.200694444444444
-  lon: 17.488472222222224
-  altitude: 85.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-08-26 10:22:50+02:00
-- image_filename: IMGP0472raw1.jpg
-  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
-  lat: 52.20525
-  lon: 17.46333333333333
-  altitude: 78.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-08-26 10:31:36+02:00
+  time: 2017-08-26 08:51:49.000000000+02:00
 - image_filename: IMGP0453raw1.jpg
   post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
   lat: 52.24073611111111
@@ -120,39 +50,39 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-08-26 09:34:26+02:00
-- image_filename: IMGP0471raw1.jpg
-  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
-  lat: 52.200694444444444
-  lon: 17.488472222222224
-  altitude: 85.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-08-26 10:23:10+02:00
-- image_filename: IMGP0476raw1.jpg
+  time: 2017-08-26 09:34:26.000000000+02:00
+- image_filename: IMGP0458raw1.jpg
   post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
-  lat: 52.20520833333334
-  lon: 17.462930555555555
-  altitude: 78.0
+  lat: 52.21204166666667
+  lon: 17.571555555555555
+  altitude: 94.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
   camera: PENTAX K-S2
+  time: 2017-08-26 09:57:15.000000000+02:00
+- image_filename: IMGP0461raw1.jpg
+  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
+  lat: 52.211333333333336
+  lon: 17.56811111111111
+  altitude: 91.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-08-26 10:32:36+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-26 09:59:42.000000000+02:00
 - image_filename: IMGP0465raw1.jpg
   post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
   lat: 52.195763888888884
@@ -162,8 +92,78 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2017-08-26 10:12:58+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-26 10:12:58.000000000+02:00
+- image_filename: IMGP0469raw1.jpg
+  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
+  lat: 52.200694444444444
+  lon: 17.488472222222224
+  altitude: 85.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-08-26 10:22:50.000000000+02:00
+- image_filename: IMGP0471raw1.jpg
+  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
+  lat: 52.200694444444444
+  lon: 17.488472222222224
+  altitude: 85.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-26 10:23:10.000000000+02:00
+- image_filename: IMGP0472raw1.jpg
+  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
+  lat: 52.20525
+  lon: 17.46333333333333
+  altitude: 78.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-26 10:31:36.000000000+02:00
+- image_filename: IMGP0476raw1.jpg
+  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
+  lat: 52.20520833333334
+  lon: 17.462930555555555
+  altitude: 78.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-08-26 10:32:36.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-08-26-z-gniezna-do-srody-wielkopolskiej
+  lat: 52.211194444444445
+  lon: 17.568041666666666
+  altitude: 91.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-08-26 09:59:45.000000000+02:00

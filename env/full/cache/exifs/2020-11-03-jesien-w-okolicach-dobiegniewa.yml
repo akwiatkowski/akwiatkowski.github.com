@@ -1,40 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-- image_filename: 2020_11_03__09_49_DSC05376.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.95155555555556
-  lon: 15.825972222222221
-  altitude: 53.0
-  focal_length: 34.0
-  focal_length_35: 34.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5891
-  height: 3919
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-11-03 09:49:07+01:00
-- image_filename: 2020_11_03__09_48_DSC05373.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.94908333333333
-  lon: 15.832972222222223
-  altitude: 53.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5993
-  height: 3987
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-11-03 09:48:23+01:00
 - image_filename: 2020_11_03__09_26_DSC05359.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.87701388888889
@@ -44,48 +8,48 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5973
-  height: 3974
   exposure: 0.000625
   exposure_string: 1/1600 s
-  time: 2020-11-03 09:26:37+01:00
-- image_filename: 2020_11_03__09_56_DSC05395.jpg
+  iso: 100
+  width: 5973
+  height: 3974
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 09:26:37.000000000+01:00
+- image_filename: 2020_11_03__09_48_DSC05373.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.96840277777778
-  lon: 15.747069444444444
-  altitude: 67.0
+  lat: 52.94908333333333
+  lon: 15.832972222222223
+  altitude: 53.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5895
-  height: 3922
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-03 09:56:38+01:00
-- image_filename: 2020_11_03__10_08_DSC05406.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.02330555555555
-  lon: 15.659708333333334
-  altitude: 76.0
-  focal_length: 36.0
-  focal_length_35: 36.0
-  crop: 1.0
-  aperture: 2.8
   iso: 100
+  width: 5993
+  height: 3987
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5931
-  height: 3926
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 10:08:44+01:00
+  time: 2020-11-03 09:48:23.000000000+01:00
+- image_filename: 2020_11_03__09_49_DSC05376.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.95155555555556
+  lon: 15.825972222222221
+  altitude: 53.0
+  focal_length: 34.0
+  focal_length_35: 34.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5891
+  height: 3919
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 09:49:07.000000000+01:00
 - image_filename: 2020_11_03__09_49_DSC05380.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.95155555555556
@@ -95,48 +59,48 @@
   focal_length_35: 44.0
   crop: 1.0
   aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-11-03 09:49:20+01:00
-- image_filename: 2020_11_03__10_13_DSC05417.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.023375
-  lon: 15.65375
-  altitude: 70.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-11-03 10:13:59+01:00
-- image_filename: 2020_11_03__10_14_DSC05420.jpg
+  time: 2020-11-03 09:49:20.000000000+01:00
+- image_filename: 2020_11_03__09_56_DSC05395.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.02334722222222
-  lon: 15.653625
-  altitude: 70.0
-  focal_length: 85.0
-  focal_length_35: 85.0
+  lat: 52.96840277777778
+  lon: 15.747069444444444
+  altitude: 67.0
+  focal_length: 75.0
+  focal_length_35: 75.0
   crop: 1.0
-  aperture: 1.8
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
   iso: 100
-  lens: FE 85mm F1.8
+  width: 5895
+  height: 3922
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5894
-  height: 3900
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-11-03 10:14:24+01:00
+  time: 2020-11-03 09:56:38.000000000+01:00
+- image_filename: 2020_11_03__10_08_DSC05406.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 53.02330555555555
+  lon: 15.659708333333334
+  altitude: 76.0
+  focal_length: 36.0
+  focal_length_35: 36.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5931
+  height: 3926
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:08:44.000000000+01:00
 - image_filename: 2020_11_03__10_12_DSC05412.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.02372222222222
@@ -146,48 +110,48 @@
   focal_length_35: 42.0
   crop: 1.0
   aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-11-03 10:12:45+01:00
-- image_filename: 2020_11_03__10_15_DSC05426.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.02338888888889
-  lon: 15.653638888888889
-  altitude: 69.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
   iso: 100
-  lens: FE 85mm F1.8
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  time: 2020-11-03 10:15:02+01:00
-- image_filename: 2020_11_03__10_16_DSC05433.jpg
+  time: 2020-11-03 10:12:45.000000000+01:00
+- image_filename: 2020_11_03__10_13_DSC05417.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.02326388888889
-  lon: 15.653319444444445
+  lat: 53.023375
+  lon: 15.65375
   altitude: 70.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 100
+  width: 6047
+  height: 4023
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  width: 5918
-  height: 3937
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-03 10:16:12+01:00
+  time: 2020-11-03 10:13:59.000000000+01:00
+- image_filename: 2020_11_03__10_14_DSC05420.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 53.02334722222222
+  lon: 15.653625
+  altitude: 70.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 5894
+  height: 3900
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:14:24.000000000+01:00
 - image_filename: 2020_11_03__10_14_DSC05422.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.02338888888889
@@ -197,48 +161,48 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.0004
   exposure_string: 1/2500 s
-  time: 2020-11-03 10:14:36+01:00
-- image_filename: 2020_11_03__10_16_DSC05440.jpg
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:14:36.000000000+01:00
+- image_filename: 2020_11_03__10_15_DSC05426.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.02320833333333
-  lon: 15.653361111111112
+  lat: 53.02338888888889
+  lon: 15.653638888888889
+  altitude: 69.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:15:02.000000000+01:00
+- image_filename: 2020_11_03__10_16_DSC05433.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 53.02326388888889
+  lon: 15.653319444444445
   altitude: 70.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
+  width: 5918
+  height: 3937
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-11-03 10:16:38+01:00
-- image_filename: 2020_11_03__10_16_DSC05439.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.02322222222222
-  lon: 15.653333333333334
-  altitude: 70.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-11-03 10:16:35+01:00
+  time: 2020-11-03 10:16:12.000000000+01:00
 - image_filename: 2020_11_03__10_16_DSC05437.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.02323611111111
@@ -248,31 +212,48 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.000625
   exposure_string: 1/1600 s
-  time: 2020-11-03 10:16:28+01:00
-- image_filename: 2020_11_03__10_22_DSC05465.jpg
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:16:28.000000000+01:00
+- image_filename: 2020_11_03__10_16_DSC05439.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.02251388888889
-  lon: 15.651180555555555
-  altitude: 68.0
+  lat: 53.02322222222222
+  lon: 15.653333333333334
+  altitude: 70.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-11-03 10:22:29+01:00
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:16:35.000000000+01:00
+- image_filename: 2020_11_03__10_16_DSC05440.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 53.02320833333333
+  lon: 15.653361111111112
+  altitude: 70.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:16:38.000000000+01:00
 - image_filename: 2020_11_03__10_18_DSC05449.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.02316666666667
@@ -282,48 +263,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 1600
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 10:18:47+01:00
-- image_filename: 2020_11_03__10_31_DSC05496.jpg
+  iso: 1600
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 10:18:47.000000000+01:00
+- image_filename: 2020_11_03__10_22_DSC05465.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.01915277777778
-  lon: 15.645861111111111
-  altitude: 67.0
+  lat: 53.02251388888889
+  lon: 15.651180555555555
+  altitude: 68.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
   iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
   width: 6047
   height: 4023
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-03 10:31:31+01:00
-- image_filename: 2020_11_03__10_28_DSC05487.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.020180555555555
-  lon: 15.647444444444444
-  altitude: 65.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-11-03 10:28:33+01:00
+  time: 2020-11-03 10:22:29.000000000+01:00
 - image_filename: 2020_11_03__10_23_DSC05473.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.02220833333333
@@ -333,31 +297,48 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
   exposure: 0.0003125
   exposure_string: 1/3200 s
-  time: 2020-11-03 10:23:08+01:00
-- image_filename: 2020_11_03__10_35_DSC05510.jpg
+  iso: 100
+  width: 4023
+  height: 6047
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:23:08.000000000+01:00
+- image_filename: 2020_11_03__10_28_DSC05487.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.017375
-  lon: 15.643277777777778
+  lat: 53.020180555555555
+  lon: 15.647444444444444
   altitude: 65.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
   iso: 100
+  width: 6047
+  height: 4023
   lens: FE 85mm F1.8
   camera: ILCE-7M3
-  width: 5768
-  height: 3837
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-11-03 10:35:13+01:00
+  time: 2020-11-03 10:28:33.000000000+01:00
+- image_filename: 2020_11_03__10_31_DSC05496.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 53.01915277777778
+  lon: 15.645861111111111
+  altitude: 67.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:31:31.000000000+01:00
 - image_filename: 2020_11_03__10_31_DSC05498.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.019083333333334
@@ -367,14 +348,31 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 10:31:40+01:00
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:31:40.000000000+01:00
+- image_filename: 2020_11_03__10_35_DSC05510.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 53.017375
+  lon: 15.643277777777778
+  altitude: 65.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5768
+  height: 3837
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:35:13.000000000+01:00
 - image_filename: 2020_11_03__10_37_DSC05520.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.016222222222225
@@ -384,48 +382,14 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
-  iso: 100
-  lens: FE 85mm F1.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-11-03 10:37:42+01:00
-- image_filename: 2020_11_03__10_57_DSC05553.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.013
-  lon: 15.637527777777777
-  altitude: 61.0
-  focal_length: 31.0
-  focal_length_35: 31.0
-  crop: 1.0
-  aperture: 5.6
   iso: 100
-  lens: E 28-75mm F2.8-2.8
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-03 10:57:57+01:00
-- image_filename: 2020_11_03__10_55_DSC05544.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.01302777777778
-  lon: 15.638013888888889
-  altitude: 59.0
-  focal_length: 203.9
-  focal_length_35: 203.0
-  crop: 0.9955860716037273
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5882
-  height: 3913
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-03 10:55:44+01:00
+  time: 2020-11-03 10:37:42.000000000+01:00
 - image_filename: 2020_11_03__10_53_DSC05532.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.01306944444445
@@ -435,14 +399,14 @@
   focal_length_35: 33.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-03 10:53:43+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:53:43.000000000+01:00
 - image_filename: 2020_11_03__10_55_DSC05541.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.013083333333334
@@ -452,31 +416,48 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5708
-  height: 3797
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-11-03 10:55:09+01:00
-- image_filename: 2020_11_03__11_09_DSC05577.jpg
+  iso: 100
+  width: 5708
+  height: 3797
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:55:09.000000000+01:00
+- image_filename: 2020_11_03__10_55_DSC05544.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.00663888888889
-  lon: 15.637166666666666
-  altitude: 69.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 800
+  lat: 53.01302777777778
+  lon: 15.638013888888889
+  altitude: 59.0
+  focal_length: 203.9
+  focal_length_35: 203.0
+  crop: 0.9955860716037273
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5882
+  height: 3913
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5687
-  height: 3784
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 11:09:00+01:00
+  time: 2020-11-03 10:55:44.000000000+01:00
+- image_filename: 2020_11_03__10_57_DSC05553.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 53.013
+  lon: 15.637527777777777
+  altitude: 61.0
+  focal_length: 31.0
+  focal_length_35: 31.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 10:57:57.000000000+01:00
 - image_filename: 2020_11_03__11_00_DSC05558.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.012027777777774
@@ -486,14 +467,14 @@
   focal_length_35: 67.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5943
-  height: 3954
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-03 11:00:09+01:00
+  iso: 100
+  width: 5943
+  height: 3954
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 11:00:09.000000000+01:00
 - image_filename: 2020_11_03__11_03_DSC05563.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.00994444444444
@@ -503,14 +484,31 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 4.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5850
-  height: 3892
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-11-03 11:03:42+01:00
+  iso: 100
+  width: 5850
+  height: 3892
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 11:03:42.000000000+01:00
+- image_filename: 2020_11_03__11_09_DSC05577.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 53.00663888888889
+  lon: 15.637166666666666
+  altitude: 69.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 5687
+  height: 3784
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:09:00.000000000+01:00
 - image_filename: 2020_11_03__11_10_DSC05585.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.006
@@ -520,14 +518,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5672
-  height: 3774
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:10:09+01:00
+  iso: 500
+  width: 5672
+  height: 3774
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:10:09.000000000+01:00
 - image_filename: 2020_11_03__11_10_DSC05588.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.006
@@ -537,48 +535,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5819
-  height: 3871
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:10:12+01:00
-- image_filename: 2020_11_03__11_13_DSC05606.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.00505555555556
-  lon: 15.636791666666666
-  altitude: 68.0
-  focal_length: 68.0
-  focal_length_35: 68.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
+  iso: 500
+  width: 5819
+  height: 3871
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5918
-  height: 3937
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-03 11:13:27+01:00
-- image_filename: 2020_11_03__11_26_DSC05629.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.99698611111111
-  lon: 15.634847222222222
-  altitude: 75.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5653
-  height: 3761
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2020-11-03 11:26:27+01:00
+  time: 2020-11-03 11:10:12.000000000+01:00
 - image_filename: 2020_11_03__11_10_DSC05592.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.00598611111111
@@ -588,14 +552,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4018
-  height: 6040
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:10:25+01:00
+  iso: 500
+  width: 4018
+  height: 6040
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:10:25.000000000+01:00
 - image_filename: 2020_11_03__11_12_DSC05598.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.005430555555556
@@ -605,31 +569,31 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5875
-  height: 3908
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-03 11:12:30+01:00
-- image_filename: 2020_11_03__11_21_DSC05625.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 53.000347222222224
-  lon: 15.635652777777777
-  altitude: 75.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
   iso: 100
+  width: 5875
+  height: 3908
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5857
-  height: 3897
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-11-03 11:21:24+01:00
+  time: 2020-11-03 11:12:30.000000000+01:00
+- image_filename: 2020_11_03__11_13_DSC05606.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 53.00505555555556
+  lon: 15.636791666666666
+  altitude: 68.0
+  focal_length: 68.0
+  focal_length_35: 68.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5918
+  height: 3937
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 11:13:27.000000000+01:00
 - image_filename: 2020_11_03__11_18_DSC05618.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 53.00244444444444
@@ -639,65 +603,48 @@
   focal_length_35: 71.0
   crop: 1.0
   aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 5953
   height: 3956
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 11:18:15+01:00
-- image_filename: 2020_11_03__11_33_DSC05645.jpg
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 11:18:15.000000000+01:00
+- image_filename: 2020_11_03__11_21_DSC05625.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.99220833333334
-  lon: 15.632416666666668
-  altitude: 73.0
-  focal_length: 156.6
-  focal_length_35: 156.0
-  crop: 0.996168582375479
-  aperture: 5.6
+  lat: 53.000347222222224
+  lon: 15.635652777777777
+  altitude: 75.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  width: 5857
+  height: 3897
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-11-03 11:33:41+01:00
-- image_filename: 2020_11_03__11_33_DSC05643.jpg
+  time: 2020-11-03 11:21:24.000000000+01:00
+- image_filename: 2020_11_03__11_26_DSC05629.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.99230555555555
-  lon: 15.632527777777778
-  altitude: 73.0
-  focal_length: 400.0
-  focal_length_35: 400.0
+  lat: 52.99698611111111
+  lon: 15.634847222222222
+  altitude: 75.0
+  focal_length: 75.0
+  focal_length_35: 75.0
   crop: 1.0
-  aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  aperture: 5.6
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 5653
+  height: 3761
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 11:33:23+01:00
-- image_filename: 2020_11_03__11_34_DSC05648.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.991958333333336
-  lon: 15.632180555555555
-  altitude: 74.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4925
-  height: 3388
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 11:34:19+01:00
+  time: 2020-11-03 11:26:27.000000000+01:00
 - image_filename: 2020_11_03__11_26_DSC05630.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.99698611111111
@@ -707,48 +654,65 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5708
-  height: 3797
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:26:30+01:00
-- image_filename: 2020_11_03__11_35_DSC05659.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.99177777777778
-  lon: 15.631916666666667
-  altitude: 73.0
-  focal_length: 143.5
-  focal_length_35: 143.0
-  crop: 0.9965156794425087
-  aperture: 5.6
-  iso: 125
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  iso: 100
+  width: 5708
+  height: 3797
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-11-03 11:35:17+01:00
-- image_filename: 2020_11_03__11_35_DSC05664.jpg
+  time: 2020-11-03 11:26:30.000000000+01:00
+- image_filename: 2020_11_03__11_33_DSC05643.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.99180555555556
-  lon: 15.631930555555556
-  altitude: 75.0
+  lat: 52.992305555555554
+  lon: 15.632527777777778
+  altitude: 73.0
   focal_length: 400.0
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:35:36+01:00
+  iso: 400
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:33:23.000000000+01:00
+- image_filename: 2020_11_03__11_33_DSC05645.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.99220833333334
+  lon: 15.632416666666668
+  altitude: 73.0
+  focal_length: 156.6
+  focal_length_35: 156.0
+  crop: 0.996168582375479
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:33:41.000000000+01:00
+- image_filename: 2020_11_03__11_34_DSC05648.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.991958333333336
+  lon: 15.632180555555555
+  altitude: 74.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 4925
+  height: 3388
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:34:19.000000000+01:00
 - image_filename: 2020_11_03__11_34_DSC05653.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.991791666666664
@@ -758,14 +722,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:34:44+01:00
+  iso: 400
+  width: 4023
+  height: 6047
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:34:44.000000000+01:00
 - image_filename: 2020_11_03__11_35_DSC05655.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.99177777777778
@@ -775,31 +739,48 @@
   focal_length_35: 315.0
   crop: 0.9980988593155893
   aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-03 11:35:11+01:00
-- image_filename: 2020_11_03__11_38_DSC05678.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.990972222222226
-  lon: 15.631458333333335
-  altitude: 76.0
-  focal_length: 198.6
-  focal_length_35: 198.0
-  crop: 0.9969788519637462
-  aperture: 5.6
-  iso: 100
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5860
-  height: 3898
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-03 11:38:56+01:00
+  time: 2020-11-03 11:35:11.000000000+01:00
+- image_filename: 2020_11_03__11_35_DSC05659.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.99177777777778
+  lon: 15.631916666666667
+  altitude: 73.0
+  focal_length: 143.5
+  focal_length_35: 143.0
+  crop: 0.9965156794425087
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:35:17.000000000+01:00
+- image_filename: 2020_11_03__11_35_DSC05664.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.99180555555556
+  lon: 15.631930555555556
+  altitude: 75.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:35:36.000000000+01:00
 - image_filename: 2020_11_03__11_35_DSC05671.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.991847222222226
@@ -809,14 +790,14 @@
   focal_length_35: 169.0
   crop: 0.9982279976373302
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5941
-  height: 3982
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-03 11:35:56+01:00
+  iso: 100
+  width: 5941
+  height: 3982
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:35:56.000000000+01:00
 - image_filename: 2020_11_03__11_38_DSC05677.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.99115277777778
@@ -826,14 +807,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 1600
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:38:29+01:00
+  iso: 1600
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:38:29.000000000+01:00
+- image_filename: 2020_11_03__11_38_DSC05678.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.990972222222226
+  lon: 15.631458333333335
+  altitude: 76.0
+  focal_length: 198.6
+  focal_length_35: 198.0
+  crop: 0.9969788519637462
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5860
+  height: 3898
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:38:56.000000000+01:00
 - image_filename: 2020_11_03__11_40_DSC05682.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.99038888888889
@@ -843,14 +841,14 @@
   focal_length_35: 118.0
   crop: 0.9983079526226734
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5354
-  height: 3846
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-03 11:40:03+01:00
+  iso: 100
+  width: 5354
+  height: 3846
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:40:03.000000000+01:00
 - image_filename: 2020_11_03__11_40_DSC05684.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.990291666666664
@@ -860,31 +858,14 @@
   focal_length_35: 202.0
   crop: 0.9990108803165183
   aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 5817
   height: 3937
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 11:40:14+01:00
-- image_filename: 2020_11_03__11_42_DSC05694.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.98945833333333
-  lon: 15.633236111111112
-  altitude: 70.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 3200
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 11:42:58+01:00
+  time: 2020-11-03 11:40:14.000000000+01:00
 - image_filename: 2020_11_03__11_40_DSC05688.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.99005555555556
@@ -894,14 +875,14 @@
   focal_length_35: 166.0
   crop: 0.9946075494307969
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:40:38+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:40:38.000000000+01:00
 - image_filename: 2020_11_03__11_42_DSC05692.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98956944444445
@@ -911,82 +892,31 @@
   focal_length_35: 105.0
   crop: 0.9990485252140818
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6040
-  height: 4021
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2020-11-03 11:42:36+01:00
-- image_filename: 2020_11_03__11_47_DSC05714.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.987875
-  lon: 15.637041666666667
-  altitude: 69.0
-  focal_length: 169.3
-  focal_length_35: 169.0
-  crop: 0.9982279976373302
-  aperture: 5.6
   iso: 100
+  width: 6040
+  height: 4021
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5933
-  height: 3947
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 11:47:47+01:00
-- image_filename: 2020_11_03__11_45_DSC05701.jpg
+  time: 2020-11-03 11:42:36.000000000+01:00
+- image_filename: 2020_11_03__11_42_DSC05694.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.9885
-  lon: 15.635166666666667
-  altitude: 71.0
-  focal_length: 134.2
-  focal_length_35: 134.0
-  crop: 0.9985096870342773
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 11:45:11+01:00
-- image_filename: 2020_11_03__11_45_DSC05699.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.98858333333333
-  lon: 15.634972222222222
+  lat: 52.98945833333333
+  lon: 15.633236111111112
   altitude: 70.0
-  focal_length: 156.6
-  focal_length_35: 156.0
-  crop: 0.996168582375479
-  aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-03 11:45:03+01:00
-- image_filename: 2020_11_03__11_45_DSC05706.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.98826388888889
-  lon: 15.635736111111111
-  altitude: 71.0
   focal_length: 400.0
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:45:46+01:00
+  iso: 3200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:42:58.000000000+01:00
 - image_filename: 2020_11_03__11_43_DSC05695.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98938888888889
@@ -996,31 +926,82 @@
   focal_length_35: 128.0
   crop: 0.9984399375975039
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-03 11:43:05+01:00
-- image_filename: 2020_11_03__11_51_DSC05746.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.987097222222225
-  lon: 15.640083333333333
-  altitude: 66.0
-  focal_length: 364.2
-  focal_length_35: 364.0
-  crop: 0.99945085118067
-  aperture: 6.3
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 6048
   height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:43:05.000000000+01:00
+- image_filename: 2020_11_03__11_45_DSC05699.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.98858333333333
+  lon: 15.634972222222222
+  altitude: 70.0
+  focal_length: 156.6
+  focal_length_35: 156.0
+  crop: 0.996168582375479
+  aperture: 5.6
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-03 11:51:42+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:45:03.000000000+01:00
+- image_filename: 2020_11_03__11_45_DSC05701.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.9885
+  lon: 15.635166666666667
+  altitude: 71.0
+  focal_length: 134.2
+  focal_length_35: 134.0
+  crop: 0.9985096870342773
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:45:11.000000000+01:00
+- image_filename: 2020_11_03__11_45_DSC05706.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.98826388888889
+  lon: 15.635736111111111
+  altitude: 71.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:45:46.000000000+01:00
+- image_filename: 2020_11_03__11_47_DSC05714.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.987875
+  lon: 15.637041666666667
+  altitude: 69.0
+  focal_length: 169.3
+  focal_length_35: 169.0
+  crop: 0.9982279976373302
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5933
+  height: 3947
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:47:47.000000000+01:00
 - image_filename: 2020_11_03__11_49_DSC05718.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.987500000000004
@@ -1030,31 +1011,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:49:13+01:00
-- image_filename: 2020_11_03__11_51_DSC05743.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.987097222222225
-  lon: 15.640055555555556
-  altitude: 66.0
-  focal_length: 281.2
-  focal_length_35: 281.0
-  crop: 0.9992887624466572
-  aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
+  iso: 160
   width: 6048
   height: 4024
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-03 11:51:28+01:00
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:49:13.000000000+01:00
 - image_filename: 2020_11_03__11_50_DSC05730.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98741666666667
@@ -1064,31 +1028,48 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4982
-  height: 3323
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 11:50:00+01:00
-- image_filename: 2020_11_03__11_56_DSC05761.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.986625000000004
-  lon: 15.641680555555554
-  altitude: 67.0
-  focal_length: 287.6
-  focal_length_35: 287.0
-  crop: 0.9979137691237829
-  aperture: 6.3
-  iso: 125
+  iso: 160
+  width: 4982
+  height: 3323
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5747
-  height: 3823
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-03 11:56:28+01:00
+  time: 2020-11-03 11:50:00.000000000+01:00
+- image_filename: 2020_11_03__11_51_DSC05743.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.987097222222225
+  lon: 15.640055555555556
+  altitude: 66.0
+  focal_length: 281.2
+  focal_length_35: 281.0
+  crop: 0.9992887624466572
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:51:28.000000000+01:00
+- image_filename: 2020_11_03__11_51_DSC05746.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.987097222222225
+  lon: 15.640083333333333
+  altitude: 66.0
+  focal_length: 364.2
+  focal_length_35: 364.0
+  crop: 0.99945085118067
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:51:42.000000000+01:00
 - image_filename: 2020_11_03__11_52_DSC05751.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.987
@@ -1098,14 +1079,14 @@
   focal_length_35: 156.0
   crop: 0.996168582375479
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5841
-  height: 3886
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-03 11:52:20+01:00
+  iso: 100
+  width: 5841
+  height: 3886
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:52:20.000000000+01:00
 - image_filename: 2020_11_03__11_56_DSC05759.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.986625000000004
@@ -1115,31 +1096,31 @@
   focal_length_35: 203.0
   crop: 0.9955860716037273
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5662
-  height: 3767
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-03 11:56:19+01:00
-- image_filename: 2020_11_03__11_59_DSC05775.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.986222222222224
-  lon: 15.643166666666666
-  altitude: 66.0
-  focal_length: 331.3
-  focal_length_35: 331.0
-  crop: 0.9990944763054633
-  aperture: 6.3
-  iso: 125
+  iso: 100
+  width: 5662
+  height: 3767
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6014
-  height: 4001
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-03 11:59:46+01:00
+  time: 2020-11-03 11:56:19.000000000+01:00
+- image_filename: 2020_11_03__11_56_DSC05761.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.986625000000004
+  lon: 15.641680555555554
+  altitude: 67.0
+  focal_length: 287.6
+  focal_length_35: 287.0
+  crop: 0.9979137691237829
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 125
+  width: 5747
+  height: 3823
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:56:28.000000000+01:00
 - image_filename: 2020_11_03__11_57_DSC05768.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98648611111111
@@ -1149,48 +1130,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 5933
   height: 3947
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 11:57:53+01:00
-- image_filename: 2020_11_03__12_00_DSC05784.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.98597222222222
-  lon: 15.644083333333333
-  altitude: 67.0
-  focal_length: 327.7
-  focal_length_35: 327.0
-  crop: 0.9978638999084529
-  aperture: 6.3
-  iso: 125
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5894
-  height: 3921
+  time: 2020-11-03 11:57:53.000000000+01:00
+- image_filename: 2020_11_03__11_59_DSC05775.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.986222222222224
+  lon: 15.643166666666666
+  altitude: 66.0
+  focal_length: 331.3
+  focal_length_35: 331.0
+  crop: 0.9990944763054633
+  aperture: 6.3
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-03 12:00:54+01:00
-- image_filename: 2020_11_03__12_01_DSC05786.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.98590277777778
-  lon: 15.644361111111111
-  altitude: 67.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 320
+  iso: 125
+  width: 6014
+  height: 4001
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5894
-  height: 3921
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 12:01:07+01:00
+  time: 2020-11-03 11:59:46.000000000+01:00
 - image_filename: 2020_11_03__11_59_DSC05776.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98620833333334
@@ -1200,14 +1164,48 @@
   focal_length_35: 305.0
   crop: 0.9980366492146596
   aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5641
-  height: 3753
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-03 11:59:53+01:00
+  iso: 100
+  width: 5641
+  height: 3753
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 11:59:53.000000000+01:00
+- image_filename: 2020_11_03__12_00_DSC05784.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.98597222222222
+  lon: 15.644083333333333
+  altitude: 67.0
+  focal_length: 327.7
+  focal_length_35: 327.0
+  crop: 0.9978638999084529
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 125
+  width: 5894
+  height: 3921
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 12:00:54.000000000+01:00
+- image_filename: 2020_11_03__12_01_DSC05786.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.98590277777778
+  lon: 15.644361111111111
+  altitude: 67.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 5894
+  height: 3921
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 12:01:07.000000000+01:00
 - image_filename: 2020_11_03__12_02_DSC05791.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98575
@@ -1217,65 +1215,14 @@
   focal_length_35: 48.0
   crop: 1.0
   aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 5788
   height: 3851
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 12:02:43+01:00
-- image_filename: 2020_11_03__12_17_DSC05819.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.98413888888889
-  lon: 15.650652777777777
-  altitude: 70.0
-  focal_length: 57.0
-  focal_length_35: 57.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-11-03 12:17:42+01:00
-- image_filename: 2020_11_03__12_14_DSC05808.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.984902777777776
-  lon: 15.647888888888888
-  altitude: 68.0
-  focal_length: 46.0
-  focal_length_35: 46.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5916
-  height: 3936
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 12:14:31+01:00
-- image_filename: 2020_11_03__12_15_DSC05814.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.98455555555556
-  lon: 15.649125
-  altitude: 68.0
-  focal_length: 53.0
-  focal_length_35: 53.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5477
-  height: 3644
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-11-03 12:15:55+01:00
+  time: 2020-11-03 12:02:43.000000000+01:00
 - image_filename: 2020_11_03__12_12_DSC05801.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98544444444445
@@ -1285,31 +1232,65 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5627
-  height: 3744
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-03 12:12:43+01:00
-- image_filename: 2020_11_03__12_23_DSC05827.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.98165277777778
-  lon: 15.65638888888889
-  altitude: 73.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
   iso: 100
+  width: 5627
+  height: 3744
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
+  time: 2020-11-03 12:12:43.000000000+01:00
+- image_filename: 2020_11_03__12_14_DSC05808.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.984902777777776
+  lon: 15.647888888888888
+  altitude: 68.0
+  focal_length: 46.0
+  focal_length_35: 46.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5916
+  height: 3936
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:14:31.000000000+01:00
+- image_filename: 2020_11_03__12_15_DSC05814.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.98455555555556
+  lon: 15.649125
+  altitude: 68.0
+  focal_length: 53.0
+  focal_length_35: 53.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5477
+  height: 3644
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:15:55.000000000+01:00
+- image_filename: 2020_11_03__12_17_DSC05819.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.98413888888889
+  lon: 15.650652777777777
+  altitude: 70.0
+  focal_length: 57.0
+  focal_length_35: 57.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
   width: 6048
   height: 4024
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-11-03 12:23:19+01:00
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:17:42.000000000+01:00
 - image_filename: 2020_11_03__12_21_DSC05823.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98218055555556
@@ -1319,14 +1300,14 @@
   focal_length_35: 46.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5988
-  height: 3984
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2020-11-03 12:21:57+01:00
+  iso: 100
+  width: 5988
+  height: 3984
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:21:57.000000000+01:00
 - image_filename: 2020_11_03__12_22_DSC05824.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98215277777778
@@ -1336,14 +1317,31 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-03 12:22:04+01:00
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:22:04.000000000+01:00
+- image_filename: 2020_11_03__12_23_DSC05827.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.98165277777778
+  lon: 15.65638888888889
+  altitude: 73.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:23:19.000000000+01:00
 - image_filename: 2020_11_03__12_24_DSC05831.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.981125
@@ -1353,31 +1351,14 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 5939
   height: 3951
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-11-03 12:24:54+01:00
-- image_filename: 2020_11_03__12_27_DSC05840.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.980444444444444
-  lon: 15.660111111111112
-  altitude: 73.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5802
-  height: 3860
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-11-03 12:27:41+01:00
+  time: 2020-11-03 12:24:54.000000000+01:00
 - image_filename: 2020_11_03__12_24_DSC05832.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.98111111111111
@@ -1387,31 +1368,31 @@
   focal_length_35: 57.0
   crop: 1.0
   aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5886
-  height: 3916
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-11-03 12:24:57+01:00
-- image_filename: 2020_11_03__12_33_DSC05849.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.97906944444445
-  lon: 15.666486111111112
-  altitude: 73.0
-  focal_length: 50.0
-  focal_length_35: 50.0
-  crop: 1.0
-  aperture: 5.6
   iso: 100
+  width: 5886
+  height: 3916
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 12:33:08+01:00
+  time: 2020-11-03 12:24:57.000000000+01:00
+- image_filename: 2020_11_03__12_27_DSC05840.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.980444444444444
+  lon: 15.660111111111112
+  altitude: 73.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5802
+  height: 3860
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:27:41.000000000+01:00
 - image_filename: 2020_11_03__12_30_DSC05843.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97969444444445
@@ -1421,14 +1402,31 @@
   focal_length_35: 52.0
   crop: 1.0
   aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5590
-  height: 3719
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-03 12:30:19+01:00
+  iso: 100
+  width: 5590
+  height: 3719
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:30:19.000000000+01:00
+- image_filename: 2020_11_03__12_33_DSC05849.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.97906944444445
+  lon: 15.666486111111112
+  altitude: 73.0
+  focal_length: 50.0
+  focal_length_35: 50.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:33:08.000000000+01:00
 - image_filename: 2020_11_03__12_36_DSC05853.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.978875
@@ -1438,31 +1436,14 @@
   focal_length_35: 59.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 12:36:21+01:00
-- image_filename: 2020_11_03__13_03_DSC05900.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.97634722222222
-  lon: 15.697486111111111
-  altitude: 50.0
-  focal_length: 100.0
-  focal_length_35: 100.0
-  crop: 1.0
-  aperture: 5.6
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-11-03 13:03:25+01:00
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 12:36:21.000000000+01:00
 - image_filename: 2020_11_03__12_53_DSC05884.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97669444444445
@@ -1472,31 +1453,14 @@
   focal_length_35: 282.0
   crop: 0.9971711456859972
   aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4023
-  height: 6047
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-11-03 12:53:35+01:00
-- image_filename: 2020_11_03__13_00_DSC05894.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.97618055555556
-  lon: 15.694680555555555
-  altitude: 55.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
   iso: 100
+  width: 4023
+  height: 6047
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 13:00:02+01:00
+  time: 2020-11-03 12:53:35.000000000+01:00
 - image_filename: 2020_11_03__12_59_DSC05892.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97615277777778
@@ -1506,31 +1470,48 @@
   focal_length_35: 191.0
   crop: 1.0
   aperture: 5.6
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5907
-  height: 3930
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-03 12:59:49+01:00
-- image_filename: 2020_11_03__13_08_DSC05917.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.973263888888894
-  lon: 15.699361111111111
-  altitude: 50.0
-  focal_length: 132.1
-  focal_length_35: 132.0
-  crop: 0.9992429977289933
-  aperture: 5.6
   iso: 200
+  width: 5907
+  height: 3930
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5584
-  height: 3647
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-11-03 13:08:58+01:00
+  time: 2020-11-03 12:59:49.000000000+01:00
+- image_filename: 2020_11_03__13_00_DSC05894.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.97618055555556
+  lon: 15.694680555555555
+  altitude: 55.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:00:02.000000000+01:00
+- image_filename: 2020_11_03__13_03_DSC05900.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.97634722222222
+  lon: 15.697486111111111
+  altitude: 50.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:03:25.000000000+01:00
 - image_filename: 2020_11_03__13_06_DSC05904.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97513888888889
@@ -1540,14 +1521,14 @@
   focal_length_35: 191.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5832
-  height: 3880
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-03 13:06:13+01:00
+  iso: 100
+  width: 5832
+  height: 3880
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:06:13.000000000+01:00
 - image_filename: 2020_11_03__13_07_DSC05910.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97426388888889
@@ -1557,14 +1538,31 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 320
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 4121
-  height: 3143
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 13:07:14+01:00
+  iso: 320
+  width: 4121
+  height: 3143
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:07:14.000000000+01:00
+- image_filename: 2020_11_03__13_08_DSC05917.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.973263888888894
+  lon: 15.699361111111111
+  altitude: 50.0
+  focal_length: 132.1
+  focal_length_35: 132.0
+  crop: 0.9992429977289933
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5584
+  height: 3647
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:08:58.000000000+01:00
 - image_filename: 2020_11_03__13_10_DSC05922.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97241666666667
@@ -1574,31 +1572,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 1600
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 4516
   height: 3177
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 13:10:26+01:00
-- image_filename: 2020_11_03__13_13_DSC05935.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.97105555555556
-  lon: 15.700055555555554
-  altitude: 54.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 800
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 13:13:20+01:00
+  time: 2020-11-03 13:10:26.000000000+01:00
 - image_filename: 2020_11_03__13_11_DSC05925.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97190277777778
@@ -1608,14 +1589,31 @@
   focal_length_35: 231.0
   crop: 0.996548748921484
   aperture: 5.6
-  iso: 160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5902
-  height: 3901
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-11-03 13:11:17+01:00
+  iso: 160
+  width: 5902
+  height: 3901
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:11:17.000000000+01:00
+- image_filename: 2020_11_03__13_13_DSC05935.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.97105555555556
+  lon: 15.700055555555554
+  altitude: 54.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:13:20.000000000+01:00
 - image_filename: 2020_11_03__13_14_DSC05953.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.970708333333334
@@ -1625,65 +1623,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 160
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 3301
   height: 5484
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 13:14:36+01:00
-- image_filename: 2020_11_03__13_15_DSC05963.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.97068055555556
-  lon: 15.699972222222222
-  altitude: 55.0
-  focal_length: 302.3
-  focal_length_35: 302.0
-  crop: 0.9990076083360899
-  aperture: 9.0
-  iso: 100
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 6032
-  height: 4013
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-11-03 13:15:51+01:00
-- image_filename: 2020_11_03__13_20_DSC05968.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.96816666666667
-  lon: 15.701986111111111
-  altitude: 60.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 4000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 13:20:43+01:00
-- image_filename: 2020_11_03__13_19_DSC05964.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.96859722222222
-  lon: 15.700597222222221
-  altitude: 60.0
-  focal_length: 205.7
-  focal_length_35: 205.0
-  crop: 0.9965969859017988
-  aperture: 5.6
-  iso: 125
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5994
-  height: 3988
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-11-03 13:19:36+01:00
+  time: 2020-11-03 13:14:36.000000000+01:00
 - image_filename: 2020_11_03__13_14_DSC05960.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97072222222222
@@ -1693,48 +1640,65 @@
   focal_length_35: 164.0
   crop: 0.9975669099756691
   aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 13:14:53+01:00
-- image_filename: 2020_11_03__13_25_DSC05988.jpg
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:14:53.000000000+01:00
+- image_filename: 2020_11_03__13_15_DSC05963.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.967625000000005
-  lon: 15.704013888888888
-  altitude: 56.0
+  lat: 52.97068055555556
+  lon: 15.699972222222222
+  altitude: 55.0
+  focal_length: 302.3
+  focal_length_35: 302.0
+  crop: 0.9990076083360899
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6032
+  height: 4013
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:15:51.000000000+01:00
+- image_filename: 2020_11_03__13_19_DSC05964.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.96859722222222
+  lon: 15.700597222222221
+  altitude: 60.0
+  focal_length: 205.7
+  focal_length_35: 205.0
+  crop: 0.9965969859017988
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 125
+  width: 5994
+  height: 3988
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:19:36.000000000+01:00
+- image_filename: 2020_11_03__13_20_DSC05968.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.96816666666667
+  lon: 15.701986111111111
+  altitude: 60.0
   focal_length: 400.0
   focal_length_35: 400.0
   crop: 1.0
-  aperture: 10.0
-  iso: 3200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5157
-  height: 3538
+  aperture: 6.3
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 13:25:10+01:00
-- image_filename: 2020_11_03__13_25_DSC05984.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.967597222222224
-  lon: 15.704083333333333
-  altitude: 56.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
-  aperture: 10.0
-  iso: 3200
+  iso: 4000
+  width: 6048
+  height: 4024
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5463
-  height: 3883
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 13:25:06+01:00
+  time: 2020-11-03 13:20:43.000000000+01:00
 - image_filename: 2020_11_03__13_20_DSC05972.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.968111111111114
@@ -1744,31 +1708,48 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 5000
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 13:20:53+01:00
-- image_filename: 2020_11_03__13_29_DSC06006.jpg
+  iso: 5000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:20:53.000000000+01:00
+- image_filename: 2020_11_03__13_25_DSC05984.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.96794444444445
-  lon: 15.702930555555556
-  altitude: 58.0
+  lat: 52.967597222222224
+  lon: 15.704083333333333
+  altitude: 56.0
   focal_length: 400.0
   focal_length_35: 400.0
   crop: 1.0
   aperture: 10.0
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5577
-  height: 3715
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 13:29:09+01:00
+  iso: 3200
+  width: 5463
+  height: 3883
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:25:06.000000000+01:00
+- image_filename: 2020_11_03__13_25_DSC05988.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.967625000000005
+  lon: 15.704013888888888
+  altitude: 56.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 10.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 3200
+  width: 5157
+  height: 3538
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:25:10.000000000+01:00
 - image_filename: 2020_11_03__13_26_DSC05999.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.96776388888889
@@ -1778,31 +1759,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 10.0
-  iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 13:26:22+01:00
-- image_filename: 2020_11_03__13_29_DSC06010.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.968111111111114
-  lon: 15.70234722222222
-  altitude: 60.0
-  focal_length: 265.1
-  focal_length_35: 265.0
-  crop: 0.9996227838551489
-  aperture: 10.0
-  iso: 400
+  iso: 200
+  width: 6048
+  height: 4024
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5950
-  height: 3909
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-11-03 13:29:38+01:00
+  time: 2020-11-03 13:26:22.000000000+01:00
 - image_filename: 2020_11_03__13_26_DSC06002.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.96776388888889
@@ -1812,14 +1776,48 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 10.0
-  iso: 250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 13:26:53+01:00
+  iso: 250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:26:53.000000000+01:00
+- image_filename: 2020_11_03__13_29_DSC06006.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.96794444444445
+  lon: 15.702930555555556
+  altitude: 58.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 10.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 5577
+  height: 3715
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:29:09.000000000+01:00
+- image_filename: 2020_11_03__13_29_DSC06010.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.968111111111114
+  lon: 15.70234722222222
+  altitude: 60.0
+  focal_length: 265.1
+  focal_length_35: 265.0
+  crop: 0.9996227838551489
+  aperture: 10.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 5950
+  height: 3909
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:29:38.000000000+01:00
 - image_filename: 2020_11_03__13_30_DSC06022.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.96852777777778
@@ -1829,14 +1827,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 10.0
-  iso: 1250
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5183
-  height: 3400
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 13:30:39+01:00
+  iso: 1250
+  width: 5183
+  height: 3400
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:30:39.000000000+01:00
 - image_filename: 2020_11_03__13_32_DSC06043.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.96902777777778
@@ -1846,48 +1844,14 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 2500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
   width: 6048
   height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 13:32:04+01:00
-- image_filename: 2020_11_03__13_32_DSC06046.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.96906944444444
-  lon: 15.700388888888888
-  altitude: 60.0
-  focal_length: 141.0
-  focal_length_35: 141.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5931
-  height: 3845
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-11-03 13:32:13+01:00
-- image_filename: 2020_11_03__13_33_DSC06049.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.969861111111115
-  lon: 15.700249999999999
-  altitude: 56.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5925
-  height: 3980
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-11-03 13:33:58+01:00
+  time: 2020-11-03 13:32:04.000000000+01:00
 - image_filename: 2020_11_03__13_32_DSC06044.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.96904166666667
@@ -1897,48 +1861,48 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 2500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 13:32:05+01:00
-- image_filename: 2020_11_03__14_24_DSC06073.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.97190277777778
-  lon: 15.719180555555555
-  altitude: 45.0
-  focal_length: 176.4
-  focal_length_35: 176.0
-  crop: 0.9977324263038548
-  aperture: 8.0
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
+  iso: 2500
   width: 6048
   height: 4024
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  time: 2020-11-03 14:24:09+01:00
-- image_filename: 2020_11_03__13_52_DSC06071.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.973083333333335
-  lon: 15.719041666666667
-  altitude: 53.0
-  focal_length: 124.3
-  focal_length_35: 124.0
-  crop: 0.997586484312148
-  aperture: 8.0
-  iso: 100
   lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 4896
-  height: 3363
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-11-03 13:52:08+01:00
+  time: 2020-11-03 13:32:05.000000000+01:00
+- image_filename: 2020_11_03__13_32_DSC06046.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.96906944444444
+  lon: 15.700388888888888
+  altitude: 60.0
+  focal_length: 141.0
+  focal_length_35: 141.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5931
+  height: 3845
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:32:13.000000000+01:00
+- image_filename: 2020_11_03__13_33_DSC06049.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.969861111111115
+  lon: 15.700249999999999
+  altitude: 56.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5925
+  height: 3980
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 13:33:58.000000000+01:00
 - image_filename: 2020_11_03__13_48_DSC06067.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.973305555555555
@@ -1948,48 +1912,48 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 400
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5877
-  height: 3910
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-11-03 13:48:04+01:00
-- image_filename: 2020_11_03__14_41_DSC06090.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.971180555555556
-  lon: 15.718402777777778
-  altitude: 59.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
+  iso: 400
+  width: 5877
+  height: 3910
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
+  time: 2020-11-03 13:48:04.000000000+01:00
+- image_filename: 2020_11_03__13_52_DSC06071.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.973083333333335
+  lon: 15.719041666666667
+  altitude: 53.0
+  focal_length: 124.3
+  focal_length_35: 124.0
+  crop: 0.997586484312148
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 4896
+  height: 3363
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 13:52:08.000000000+01:00
+- image_filename: 2020_11_03__14_24_DSC06073.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.97190277777778
+  lon: 15.719180555555555
+  altitude: 45.0
+  focal_length: 176.4
+  focal_length_35: 176.0
+  crop: 0.9977324263038548
+  aperture: 8.0
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 100
   width: 6048
   height: 4024
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-11-03 14:41:22+01:00
-- image_filename: 2020_11_03__14_37_DSC06077.jpg
-  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.97201388888889
-  lon: 15.719194444444444
-  altitude: 45.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
   camera: ILCE-7M3
-  width: 5872
-  height: 3906
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2020-11-03 14:37:52+01:00
+  time: 2020-11-03 14:24:09.000000000+01:00
 - image_filename: 2020_11_03__14_24_DSC06075.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97190277777778
@@ -1999,31 +1963,48 @@
   focal_length_35: 281.0
   crop: 0.9992887624466572
   aperture: 6.3
-  iso: 100
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5903
-  height: 3927
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2020-11-03 14:24:18+01:00
-- image_filename: 2020_11_03__14_53_DSC06104.jpg
+  iso: 100
+  width: 5903
+  height: 3927
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-11-03 14:24:18.000000000+01:00
+- image_filename: 2020_11_03__14_37_DSC06077.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
-  lat: 52.97247222222222
-  lon: 15.729277777777778
-  altitude: 67.0
-  focal_length: 48.0
-  focal_length_35: 48.0
+  lat: 52.97201388888889
+  lon: 15.719194444444444
+  altitude: 45.0
+  focal_length: 28.0
+  focal_length_35: 28.0
   crop: 1.0
   aperture: 5.6
+  exposure: 0.0005
+  exposure_string: 1/2000 s
   iso: 100
+  width: 5872
+  height: 3906
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 5910
-  height: 3814
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-11-03 14:53:40+01:00
+  time: 2020-11-03 14:37:52.000000000+01:00
+- image_filename: 2020_11_03__14_41_DSC06090.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.971180555555556
+  lon: 15.718402777777778
+  altitude: 59.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 14:41:22.000000000+01:00
 - image_filename: 2020_11_03__14_46_DSC06099.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97329166666667
@@ -2033,14 +2014,31 @@
   focal_length_35: 40.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 3794
-  height: 5890
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-03 14:46:01+01:00
+  iso: 100
+  width: 3794
+  height: 5890
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 14:46:01.000000000+01:00
+- image_filename: 2020_11_03__14_53_DSC06104.jpg
+  post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
+  lat: 52.97247222222222
+  lon: 15.729277777777778
+  altitude: 67.0
+  focal_length: 48.0
+  focal_length_35: 48.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5910
+  height: 3814
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 14:53:40.000000000+01:00
 - image_filename: 2020_11_03__15_00_DSC06106.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.97175
@@ -2050,14 +2048,14 @@
   focal_length_35: 56.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5923
-  height: 3895
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-11-03 15:00:10+01:00
+  iso: 100
+  width: 5923
+  height: 3895
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 15:00:10.000000000+01:00
 - image_filename: 2020_11_03__15_19_DSC06112.jpg
   post_slug: 2020-11-03-jesien-w-okolicach-dobiegniewa
   lat: 52.96915277777778
@@ -2067,11 +2065,11 @@
   focal_length_35: 58.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5921
-  height: 3825
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-11-03 15:19:50+01:00
+  iso: 100
+  width: 5921
+  height: 3825
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-11-03 15:19:50.000000000+01:00

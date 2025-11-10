@@ -1,22 +1,4 @@
 ---
-- image_filename: 2019_05_01__12_27_P5010403.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.594055555555556
-  lon: 19.063069444444444
-  altitude: 92.0
-  focal_length: 26.0
-  focal_length_35: 52.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4405
-  height: 3296
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 12:27:43+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_05_01__06_19_P5010005.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
   lat: 53.726416666666665
@@ -26,915 +8,15 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2019-05-01 06:19:58+02:00
   focus_distance: 74.54
-- image_filename: 2019_05_01__06_32_P5010045.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.80433333333333
-  lon: 19.178444444444445
-  altitude: 101.0
-  focal_length: 73.0
-  focal_length_35: 146.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4393
-  height: 3287
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-05-01 06:32:24+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__06_40_P5010072.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.87473611111111
-  lon: 19.129458333333332
-  altitude: 73.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
+  iso: 200
   width: 4640
   height: 3472
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-05-01 06:40:47+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__06_51_P5010084.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.962875000000004
-  lon: 19.095208333333332
-  altitude: 38.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 400
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4420
-  height: 3307
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-05-01 06:51:17+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__06_55_P5010090.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.97745833333334
-  lon: 19.087374999999998
-  altitude: 36.0
-  focal_length: 88.0
-  focal_length_35: 176.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4508
-  height: 3373
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 06:55:51+02:00
-  focus_distance: 281.29
-- image_filename: 2019_05_01__06_57_P5010101.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.97704166666667
-  lon: 19.085819444444443
-  altitude: 29.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4278
-  height: 3195
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-05-01 06:57:52+02:00
-  focus_distance: 263.99
-- image_filename: 2019_05_01__06_58_P5010102.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.97704166666667
-  lon: 19.085833333333333
-  altitude: 29.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4558
-  height: 3342
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 06:58:01+02:00
-  focus_distance: 23.01
-- image_filename: 2019_05_01__07_02_P5010111.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.97293055555556
-  lon: 19.081972222222223
-  altitude: 38.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 07:02:56+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__07_37_P5010152.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.92833333333333
-  lon: 19.043625000000002
-  altitude: 47.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3388
-  height: 4527
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-05-01 07:37:52+02:00
-  focus_distance: 16.26
-- image_filename: 2019_05_01__07_26_P5010121.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.940124999999995
-  lon: 19.055111111111113
-  altitude: 44.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4519
-  height: 3381
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-01 07:26:42+02:00
-  focus_distance: 73.71
-- image_filename: 2019_05_01__07_30_P5010134.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.938111111111105
-  lon: 19.051430555555555
-  altitude: 50.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4526
-  height: 3387
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-05-01 07:30:49+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__07_48_P5010161.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.916222222222224
-  lon: 19.036972222222225
-  altitude: 47.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4542
-  height: 3398
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-05-01 07:48:05+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__07_48_P5010165.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.91558333333333
-  lon: 19.035930555555556
-  altitude: 43.0
-  focal_length: 26.0
-  focal_length_35: 52.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4442
-  height: 3324
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 07:48:41+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__08_21_P5010205.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.90761111111111
-  lon: 19.04790277777778
-  altitude: 55.0
-  focal_length: 37.0
-  focal_length_35: 74.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4546
-  height: 3401
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-05-01 08:21:17+02:00
-  focus_distance: 8.06
-- image_filename: 2019_05_01__08_28_P5010213.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.89523611111111
-  lon: 19.042305555555558
-  altitude: 51.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4476
-  height: 3349
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-05-01 08:28:27+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__08_39_P5010223.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.87376388888889
-  lon: 19.054555555555556
-  altitude: 42.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4097
-  height: 3291
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-05-01 08:39:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__08_50_P5010230.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.86086111111111
-  lon: 19.05927777777778
-  altitude: 53.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4346
-  height: 3421
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 08:50:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__08_50_P5010233.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.86002777777778
-  lon: 19.060125
-  altitude: 53.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4322
-  height: 3234
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-01 08:50:58+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__09_05_P5010244.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.839222222222226
-  lon: 19.051333333333336
-  altitude: 69.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4379
-  height: 3276
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-01 09:05:05+02:00
-  focus_distance: 153.51
-- image_filename: 2019_05_01__09_16_P5010253.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.819430555555556
-  lon: 19.03902777777778
-  altitude: 72.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4469
-  height: 3344
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 09:16:40+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__09_52_P5010270.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.79609722222222
-  lon: 19.044722222222223
-  altitude: 77.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-05-01 09:52:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__10_01_P5010273.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.77573611111111
-  lon: 19.016541666666665
-  altitude: 79.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4422
-  height: 3282
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-05-01 10:01:39+02:00
-  focus_distance: 10.67
-- image_filename: 2019_05_01__10_05_P5010276.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.77180555555555
-  lon: 19.0125
-  altitude: 74.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4531
-  height: 3338
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2019-05-01 10:05:27+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__10_25_P5010288.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.73727777777778
-  lon: 19.027277777777776
-  altitude: 83.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4428
-  height: 3313
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-05-01 10:25:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__10_48_P5010305.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.70915277777778
-  lon: 19.06451388888889
-  altitude: 88.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4472
-  height: 3346
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-05-01 10:48:20+02:00
-  focus_distance: 12.56
-- image_filename: 2019_05_01__11_11_P5010322.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.699819444444444
-  lon: 19.070319444444443
-  altitude: 86.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-05-01 11:11:21+02:00
-  focus_distance: 17.94
-- image_filename: 2019_05_01__11_15_P5010328.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.69577777777778
-  lon: 19.07073611111111
-  altitude: 103.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 11:15:51+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__11_20_P5010339.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.69045833333333
-  lon: 19.067180555555556
-  altitude: 105.0
-  focal_length: 69.0
-  focal_length_35: 138.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 11:20:21+02:00
-  focus_distance: 219.29
-- image_filename: 2019_05_01__11_20_P5010342.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.69044444444444
-  lon: 19.067180555555556
-  altitude: 105.0
-  focal_length: 19.0
-  focal_length_35: 38.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 11:20:39+02:00
-  focus_distance: 36.14
-- image_filename: 2019_05_01__11_27_P5010357.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.678916666666666
-  lon: 19.062083333333334
-  altitude: 101.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3303
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 11:27:52+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__12_20_P5010389.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.59802777777778
-  lon: 19.064444444444444
-  altitude: 94.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-01 12:20:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__12_38_P5010413.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.574847222222225
-  lon: 19.062361111111112
-  altitude: 94.0
-  focal_length: 55.0
-  focal_length_35: 110.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-05-01 12:38:48+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__12_42_P5010419.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.568361111111116
-  lon: 19.061958333333333
-  altitude: 73.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 12:42:24+02:00
-  focus_distance: 23.56
-- image_filename: 2019_05_01__12_47_P5010436.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.56393055555555
-  lon: 19.06138888888889
-  altitude: 78.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 12:47:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__12_56_P5010452.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.55672222222222
-  lon: 19.058694444444445
-  altitude: 93.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4436
-  height: 3319
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-05-01 12:56:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__13_50_P5010471.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.51673611111111
-  lon: 19.090152777777778
-  altitude: 89.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4491
-  height: 3360
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 13:50:19+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__13_50_P5010474.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.51493055555556
-  lon: 19.091027777777775
-  altitude: 81.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4348
-  height: 3253
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 13:50:57+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_01_P5010480.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.49765277777778
-  lon: 19.087652777777777
-  altitude: 75.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4415
-  height: 3304
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-05-01 14:01:45+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_05_P5010486.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.496875
-  lon: 19.081319444444443
-  altitude: 82.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4342
-  height: 3127
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 14:05:54+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_21_P5010492.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.47027777777778
-  lon: 19.108333333333334
-  altitude: 67.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4460
-  height: 3337
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-05-01 14:21:44+02:00
-  focus_distance: 8.89
-- image_filename: 2019_05_01__14_40_P5010497.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.43922222222222
-  lon: 19.08670833333333
-  altitude: 67.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 14:40:16+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_52_P5010516.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.42968055555556
-  lon: 19.06116666666667
-  altitude: 61.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4450
-  height: 3330
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-05-01 14:52:08+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_56_P5010521.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.426652777777775
-  lon: 19.054277777777777
-  altitude: 73.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4332
-  height: 3106
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 14:56:27+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__15_08_P5010541.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.41422222222222
-  lon: 19.040791666666667
-  altitude: 100.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4388
-  height: 3105
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-05-01 15:08:09+02:00
-  focus_distance: 263.71
-- image_filename: 2019_05_01__15_49_P5010558.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.36327777777778
-  lon: 18.996305555555555
-  altitude: 115.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-01 15:49:09+02:00
-  focus_distance: 166.63
-- image_filename: 2019_05_01__17_35_P5010588.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.32983333333333
-  lon: 19.069958333333332
-  altitude: 105.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4206
-  height: 3240
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-05-01 17:35:58+02:00
-  focus_distance: 2.87
-- image_filename: 2019_05_01__07_44_P5010160.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.918680555555554
-  lon: 19.03679166666667
-  altitude: 48.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4263
-  height: 3124
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-05-01 07:44:40+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__17_35_P5010581.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.329
-  lon: 19.069055555555554
-  altitude: 106.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4166
-  height: 3131
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-05-01 17:35:25+02:00
-  focus_distance: 4.8
-- image_filename: 2019_05_01__07_26_P5010122.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.93995833333333
-  lon: 19.054833333333335
-  altitude: 45.0
-  focal_length: 30.0
-  focal_length_35: 60.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4624
-  height: 3460
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 07:26:49+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__12_17_P5010382.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.59984722222222
-  lon: 19.064847222222223
-  altitude: 89.0
-  focal_length: 73.0
-  focal_length_35: 146.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4302
-  height: 3129
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 12:17:51+02:00
-  focus_distance: 106.33
-- image_filename: 2019_05_01__16_06_P5010577.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.33294444444445
-  lon: 19.008166666666668
-  altitude: 91.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-05-01 16:06:19+02:00
-  focus_distance: 1000.0
+  time: 2019-05-01 06:19:58.000000000+02:00
 - image_filename: 2019_05_01__06_27_P5010030.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
   lat: 53.75808333333333
@@ -944,825 +26,69 @@
   focal_length_35: 138.0
   crop: 2.0
   aperture: 11.0
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2019-05-01 06:27:24+02:00
   focus_distance: 188.18
-- image_filename: 2019_05_01__07_30_P5010136.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.93784722222222
-  lon: 19.05098611111111
-  altitude: 50.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4521
-  height: 3347
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-05-01 07:30:58+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_02_P5010485.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.497416666666666
-  lon: 19.084402777777775
-  altitude: 80.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4373
-  height: 3324
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 14:02:42+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__08_41_P5010228.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.87141666666667
-  lon: 19.057861111111112
-  altitude: 51.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4050
-  height: 2761
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 08:41:01+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_58_P5010529.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.42420833333333
-  lon: 19.049722222222226
-  altitude: 83.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4507
-  height: 3372
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 14:58:37+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__11_25_P5010354.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.68173611111111
-  lon: 19.063583333333334
-  altitude: 93.0
-  focal_length: 77.0
-  focal_length_35: 154.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4567
-  height: 3418
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 11:25:46+02:00
-  focus_distance: 37.92
-- image_filename: 2019_05_01__09_18_P5010258.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.81881944444445
-  lon: 19.040069444444445
-  altitude: 74.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4372
-  height: 3271
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 09:18:15+02:00
-  focus_distance: 13.05
-- image_filename: 2019_05_01__15_49_P5010566.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.36311111111111
-  lon: 18.996277777777777
-  altitude: 115.0
-  focal_length: 102.0
-  focal_length_35: 204.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4471
-  height: 3346
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 15:49:53+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__07_30_P5010129.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.93881944444444
-  lon: 19.052819444444445
-  altitude: 49.0
-  focal_length: 65.0
-  focal_length_35: 130.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4588
-  height: 3433
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-05-01 07:30:20+02:00
-  focus_distance: 80.46
-- image_filename: 2019_05_01__12_55_P5010443.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.558055555555555
-  lon: 19.05777777777778
-  altitude: 89.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4608
-  height: 3448
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 12:55:02+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__10_25_P5010290.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.73672222222223
-  lon: 19.027555555555555
-  altitude: 84.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
+  iso: 400
   width: 4640
   height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 10:25:45+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__11_20_P5010341.jpg
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 06:27:24.000000000+02:00
+- image_filename: 2019_05_01__06_32_P5010045.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.69044444444444
-  lon: 19.067180555555556
-  altitude: 105.0
+  lat: 53.80433333333333
+  lon: 19.178444444444445
+  altitude: 101.0
+  focal_length: 73.0
+  focal_length_35: 146.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 4393
+  height: 3287
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 06:32:24.000000000+02:00
+- image_filename: 2019_05_01__06_40_P5010072.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.87473611111111
+  lon: 19.129458333333332
+  altitude: 73.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 06:40:47.000000000+02:00
+- image_filename: 2019_05_01__06_51_P5010084.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.962875000000004
+  lon: 19.095208333333332
+  altitude: 38.0
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 11:20:33+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__09_00_P5010237.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.844625
-  lon: 19.060055555555557
-  altitude: 71.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4297
-  height: 3091
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 09:00:12+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__12_39_P5010417.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.57358333333334
-  lon: 19.063972222222223
-  altitude: 90.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4304
-  height: 3383
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-05-01 12:39:21+02:00
-  focus_distance: 121.65
-- image_filename: 2019_05_01__06_57_P5010093.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.97858333333333
-  lon: 19.087249999999997
-  altitude: 28.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4484
-  height: 3355
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-05-01 06:57:02+02:00
   focus_distance: 1000.0
-- image_filename: 2019_05_01__07_30_P5010130.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.938694444444444
-  lon: 19.052569444444444
-  altitude: 50.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4356
-  height: 3022
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-05-01 07:30:26+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__17_35_P5010583.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.32919444444445
-  lon: 19.06936111111111
-  altitude: 106.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-05-01 17:35:36+02:00
-  focus_distance: 3.61
-- image_filename: 2019_05_01__06_57_P5010094.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.97829166666667
-  lon: 19.08675
-  altitude: 28.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 06:57:10+02:00
-  focus_distance: 17.89
-- image_filename: 2019_05_01__11_21_P5010346.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.69005555555555
-  lon: 19.067027777777778
-  altitude: 105.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 11:21:15+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__07_37_P5010150.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.92833333333333
-  lon: 19.04361111111111
-  altitude: 47.0
-  focal_length: 77.0
-  focal_length_35: 154.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4231
-  height: 3213
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-01 07:37:36+02:00
-  focus_distance: 33.04
-- image_filename: 2019_05_01__07_31_P5010138.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.93747222222222
-  lon: 19.050444444444445
-  altitude: 51.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4316
-  height: 3206
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-05-01 07:31:10+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__06_57_P5010099.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.977180555555556
-  lon: 19.08573611111111
-  altitude: 29.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4383
-  height: 3280
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-05-01 06:57:39+02:00
-  focus_distance: 189.9
-- image_filename: 2019_05_01__12_21_P5010394.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.596333333333334
-  lon: 19.06447222222222
-  altitude: 91.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 12:21:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__10_49_P5010312.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.70719444444445
-  lon: 19.066319444444446
-  altitude: 96.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4440
-  height: 3322
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 10:49:37+02:00
-  focus_distance: 53.06
-- image_filename: 2019_05_01__17_35_P5010586.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.32965277777778
-  lon: 19.069625
-  altitude: 104.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-05-01 17:35:50+02:00
-  focus_distance: 5.51
-- image_filename: 2019_05_01__08_13_P5010199.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.91498611111111
-  lon: 19.03538888888889
-  altitude: 46.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 500
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4198
-  height: 3257
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-05-01 08:13:21+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__13_00_P5010460.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.554916666666664
-  lon: 19.06013888888889
-  altitude: 92.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-05-01 13:00:01+02:00
-  focus_distance: 105.76
-- image_filename: 2019_05_01__09_22_P5010267.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.816722222222225
-  lon: 19.04390277777778
-  altitude: 79.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4511
-  height: 3375
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-05-01 09:22:55+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_12_P5010490.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.48677777777778
-  lon: 19.09551388888889
-  altitude: 86.0
-  focal_length: 55.0
-  focal_length_35: 110.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4533
-  height: 3392
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-05-01 14:12:20+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__08_40_P5010227.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.87176388888889
-  lon: 19.057361111111113
-  altitude: 49.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4292
-  height: 3019
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-01 08:40:46+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__06_57_P5010095.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.978097222222225
-  lon: 19.086333333333332
-  altitude: 28.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4521
-  height: 3383
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 06:57:16+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__07_35_P5010143.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.9325
-  lon: 19.045458333333336
-  altitude: 52.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4429
-  height: 3314
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 07:35:00+02:00
-  focus_distance: 21.28
-- image_filename: 2019_05_01__15_47_P5010555.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.36743055555556
-  lon: 18.99765277777778
-  altitude: 109.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4507
-  height: 3372
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 15:47:02+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__10_37_P5010293.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.72841666666667
-  lon: 19.044958333333334
-  altitude: 80.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 10:37:07+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_02_P5010483.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.497486111111115
-  lon: 19.08556944444444
-  altitude: 79.0
-  focal_length: 26.0
-  focal_length_35: 52.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4433
-  height: 3317
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 14:02:20+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__11_25_P5010350.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.68263888888889
-  lon: 19.064
-  altitude: 94.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4325
-  height: 3236
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 11:25:25+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__07_35_P5010146.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.931041666666665
-  lon: 19.044708333333336
-  altitude: 52.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4512
-  height: 3376
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-05-01 07:35:30+02:00
-  focus_distance: 91.67
-- image_filename: 2019_05_01__07_00_P5010104.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.975722222222224
-  lon: 19.086624999999998
-  altitude: 31.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4528
-  height: 3388
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 07:00:48+02:00
-  focus_distance: 85.55
-- image_filename: 2019_05_01__09_19_P5010262.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.818472222222226
-  lon: 19.04077777777778
-  altitude: 76.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4269
-  height: 3201
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 09:19:34+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__08_28_P5010211.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.89576388888889
-  lon: 19.04254166666667
-  altitude: 49.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
+  iso: 400
   width: 4420
   height: 3307
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-05-01 08:28:11+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__12_25_P5010399.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.59406944444445
-  lon: 19.063055555555557
-  altitude: 91.0
-  focal_length: 65.0
-  focal_length_35: 130.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-01 12:25:54+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__11_28_P5010359.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.678916666666666
-  lon: 19.062069444444447
-  altitude: 101.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-05-01 11:28:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_01_P5010478.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.49773611111111
-  lon: 19.08873611111111
-  altitude: 75.0
-  focal_length: 125.0
-  focal_length_35: 250.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4479
-  height: 3352
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-05-01 14:01:32+02:00
-  focus_distance: 98.67
-- image_filename: 2019_05_01__17_34_P5010579.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.33002777777778
-  lon: 19.067666666666668
-  altitude: 102.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4407
-  height: 3104
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2019-05-01 17:34:16+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__15_58_P5010571.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.349583333333335
-  lon: 19.001083333333334
-  altitude: 114.0
-  focal_length: 32.0
-  focal_length_35: 64.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4497
-  height: 3365
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 15:58:37+02:00
-  focus_distance: 16.95
-- image_filename: 2019_05_01__12_56_P5010457.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.555388888888885
-  lon: 19.05975
-  altitude: 93.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4423
-  height: 3312
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-05-01 12:56:31+02:00
-  focus_distance: 1000.0
+  time: 2019-05-01 06:51:17.000000000+02:00
 - image_filename: 2019_05_01__06_55_P5010088.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
   lat: 53.977444444444444
@@ -1772,33 +98,87 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4531
-  height: 3391
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-05-01 06:55:41+02:00
   focus_distance: 1000.0
-- image_filename: 2019_05_01__14_43_P5010504.jpg
+  iso: 200
+  width: 4531
+  height: 3391
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 06:55:41.000000000+02:00
+- image_filename: 2019_05_01__06_55_P5010090.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.437263888888886
-  lon: 19.08001388888889
-  altitude: 73.0
+  lat: 53.97745833333334
+  lon: 19.087374999999998
+  altitude: 36.0
+  focal_length: 88.0
+  focal_length_35: 176.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 281.29
+  iso: 200
+  width: 4508
+  height: 3373
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 06:55:51.000000000+02:00
+- image_filename: 2019_05_01__06_57_P5010093.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.97858333333333
+  lon: 19.087249999999997
+  altitude: 28.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4484
+  height: 3355
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 06:57:02.000000000+02:00
+- image_filename: 2019_05_01__06_57_P5010094.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.97829166666667
+  lon: 19.08675
+  altitude: 28.0
   focal_length: 46.0
   focal_length_35: 92.0
   crop: 2.0
   aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.89
   iso: 200
+  width: 4640
+  height: 3472
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4509
-  height: 3292
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-05-01 14:43:45+02:00
-  focus_distance: 26.39
+  time: 2019-05-01 06:57:10.000000000+02:00
+- image_filename: 2019_05_01__06_57_P5010095.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.978097222222225
+  lon: 19.086333333333332
+  altitude: 28.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4521
+  height: 3383
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 06:57:16.000000000+02:00
 - image_filename: 2019_05_01__06_57_P5010096.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
   lat: 53.97794444444445
@@ -1808,123 +188,105 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4552
-  height: 3406
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-05-01 06:57:20+02:00
   focus_distance: 87.71
-- image_filename: 2019_05_01__07_48_P5010167.jpg
+  iso: 200
+  width: 4552
+  height: 3406
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 06:57:20.000000000+02:00
+- image_filename: 2019_05_01__06_57_P5010099.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.91556944444444
-  lon: 19.035597222222226
-  altitude: 42.0
+  lat: 53.977180555555556
+  lon: 19.08573611111111
+  altitude: 29.0
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
   aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 189.9
   iso: 200
+  width: 4383
+  height: 3280
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4628
-  height: 3463
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-05-01 07:48:57+02:00
-  focus_distance: 148.5
-- image_filename: 2019_05_01__16_06_P5010575.jpg
+  time: 2019-05-01 06:57:39.000000000+02:00
+- image_filename: 2019_05_01__06_57_P5010101.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.33295833333334
-  lon: 19.008166666666668
-  altitude: 91.0
-  focal_length: 69.0
-  focal_length_35: 138.0
+  lat: 53.97704166666667
+  lon: 19.085819444444443
+  altitude: 29.0
+  focal_length: 140.0
+  focal_length_35: 280.0
   crop: 2.0
   aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 263.99
   iso: 200
+  width: 4278
+  height: 3195
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
+  time: 2019-05-01 06:57:52.000000000+02:00
+- image_filename: 2019_05_01__06_58_P5010102.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.97704166666667
+  lon: 19.085833333333333
+  altitude: 29.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 8.0
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-05-01 16:06:09+02:00
-  focus_distance: 56.88
-- image_filename: 2019_05_01__08_33_P5010218.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.890819444444446
-  lon: 19.0425
-  altitude: 56.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 7.1
+  focus_distance: 23.01
   iso: 200
+  width: 4558
+  height: 3342
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4475
-  height: 3349
+  time: 2019-05-01 06:58:01.000000000+02:00
+- image_filename: 2019_05_01__07_00_P5010104.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.975722222222224
+  lon: 19.086624999999998
+  altitude: 31.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-05-01 08:33:05+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__10_37_P5010295.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.72813888888889
-  lon: 19.04554166666667
-  altitude: 80.0
-  focal_length: 88.0
-  focal_length_35: 176.0
-  crop: 2.0
-  aperture: 8.0
+  focus_distance: 85.55
   iso: 200
+  width: 4528
+  height: 3388
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4393
-  height: 3287
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-05-01 10:37:17+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__10_50_P5010317.jpg
+  time: 2019-05-01 07:00:48.000000000+02:00
+- image_filename: 2019_05_01__07_02_P5010111.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.706472222222224
-  lon: 19.06715277777778
-  altitude: 99.0
-  focal_length: 37.0
-  focal_length_35: 74.0
+  lat: 53.97293055555556
+  lon: 19.081972222222223
+  altitude: 38.0
+  focal_length: 34.0
+  focal_length_35: 68.0
   crop: 2.0
   aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-05-01 10:50:50+02:00
-  focus_distance: 48.95
-- image_filename: 2019_05_01__15_24_P5010545.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.384875
-  lon: 19.03730555555556
-  altitude: 115.0
-  focal_length: 65.0
-  focal_length_35: 130.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4540
-  height: 3335
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-05-01 15:24:43+02:00
-  focus_distance: 1000.0
+  time: 2019-05-01 07:02:56.000000000+02:00
 - image_filename: 2019_05_01__07_25_P5010116.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
   lat: 53.942388888888885
@@ -1934,69 +296,771 @@
   focal_length_35: 240.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-05-01 07:25:31+02:00
   focus_distance: 148.41
-- image_filename: 2019_05_01__15_01_P5010535.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.42261111111111
-  lon: 19.047944444444447
-  altitude: 90.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
   iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4163
-  height: 3208
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-05-01 15:01:01+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__14_06_P5010489.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.496375
-  lon: 19.082652777777778
-  altitude: 83.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4517
-  height: 3439
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-05-01 14:06:17+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_05_01__12_22_P5010397.jpg
-  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
-  lat: 53.59563888888889
-  lon: 19.064347222222224
-  altitude: 93.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:25:31.000000000+02:00
+- image_filename: 2019_05_01__07_26_P5010121.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.940124999999995
+  lon: 19.055111111111113
+  altitude: 44.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 73.71
+  iso: 200
+  width: 4519
+  height: 3381
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:26:42.000000000+02:00
+- image_filename: 2019_05_01__07_26_P5010122.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.93995833333333
+  lon: 19.054833333333335
+  altitude: 45.0
+  focal_length: 30.0
+  focal_length_35: 60.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4624
+  height: 3460
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:26:49.000000000+02:00
+- image_filename: 2019_05_01__07_30_P5010129.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.93881944444444
+  lon: 19.052819444444445
+  altitude: 49.0
+  focal_length: 65.0
+  focal_length_35: 130.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 80.46
+  iso: 200
+  width: 4588
+  height: 3433
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:30:20.000000000+02:00
+- image_filename: 2019_05_01__07_30_P5010130.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.938694444444444
+  lon: 19.052569444444444
+  altitude: 50.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4356
+  height: 3022
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:30:26.000000000+02:00
+- image_filename: 2019_05_01__07_30_P5010134.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.938111111111105
+  lon: 19.051430555555555
+  altitude: 50.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4526
+  height: 3387
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:30:49.000000000+02:00
+- image_filename: 2019_05_01__07_30_P5010136.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.93784722222222
+  lon: 19.05098611111111
+  altitude: 50.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2019-05-01 12:22:04+02:00
   focus_distance: 1000.0
+  iso: 200
+  width: 4521
+  height: 3347
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:30:58.000000000+02:00
+- image_filename: 2019_05_01__07_31_P5010138.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.93747222222222
+  lon: 19.050444444444445
+  altitude: 51.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4316
+  height: 3206
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:31:10.000000000+02:00
+- image_filename: 2019_05_01__07_35_P5010143.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.9325
+  lon: 19.045458333333336
+  altitude: 52.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 21.28
+  iso: 200
+  width: 4429
+  height: 3314
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:35:00.000000000+02:00
+- image_filename: 2019_05_01__07_35_P5010146.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.931041666666665
+  lon: 19.044708333333336
+  altitude: 52.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 91.67
+  iso: 200
+  width: 4512
+  height: 3376
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:35:30.000000000+02:00
+- image_filename: 2019_05_01__07_37_P5010150.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.92833333333333
+  lon: 19.04361111111111
+  altitude: 47.0
+  focal_length: 77.0
+  focal_length_35: 154.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 33.04
+  iso: 200
+  width: 4231
+  height: 3213
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:37:36.000000000+02:00
+- image_filename: 2019_05_01__07_37_P5010152.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.92833333333333
+  lon: 19.043625000000002
+  altitude: 47.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 16.26
+  iso: 200
+  width: 3388
+  height: 4527
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:37:52.000000000+02:00
+- image_filename: 2019_05_01__07_44_P5010160.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.918680555555554
+  lon: 19.03679166666667
+  altitude: 48.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4263
+  height: 3124
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:44:40.000000000+02:00
+- image_filename: 2019_05_01__07_48_P5010161.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.916222222222224
+  lon: 19.036972222222225
+  altitude: 47.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4542
+  height: 3398
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:48:05.000000000+02:00
+- image_filename: 2019_05_01__07_48_P5010165.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.91558333333333
+  lon: 19.035930555555556
+  altitude: 43.0
+  focal_length: 26.0
+  focal_length_35: 52.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4442
+  height: 3324
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:48:41.000000000+02:00
+- image_filename: 2019_05_01__07_48_P5010167.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.91556944444444
+  lon: 19.035597222222226
+  altitude: 42.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 148.5
+  iso: 200
+  width: 4628
+  height: 3463
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 07:48:57.000000000+02:00
+- image_filename: 2019_05_01__08_13_P5010199.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.91498611111111
+  lon: 19.03538888888889
+  altitude: 46.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 500
+  width: 4198
+  height: 3257
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:13:21.000000000+02:00
+- image_filename: 2019_05_01__08_21_P5010205.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.90761111111111
+  lon: 19.04790277777778
+  altitude: 55.0
+  focal_length: 37.0
+  focal_length_35: 74.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 8.06
+  iso: 200
+  width: 4546
+  height: 3401
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:21:17.000000000+02:00
+- image_filename: 2019_05_01__08_28_P5010211.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.89576388888889
+  lon: 19.04254166666667
+  altitude: 49.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4420
+  height: 3307
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:28:11.000000000+02:00
+- image_filename: 2019_05_01__08_28_P5010213.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.89523611111111
+  lon: 19.042305555555558
+  altitude: 51.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4476
+  height: 3349
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:28:27.000000000+02:00
+- image_filename: 2019_05_01__08_33_P5010218.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.890819444444446
+  lon: 19.0425
+  altitude: 56.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4475
+  height: 3349
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:33:05.000000000+02:00
+- image_filename: 2019_05_01__08_39_P5010223.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.87376388888889
+  lon: 19.054555555555556
+  altitude: 42.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4097
+  height: 3291
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:39:31.000000000+02:00
+- image_filename: 2019_05_01__08_40_P5010227.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.87176388888889
+  lon: 19.057361111111113
+  altitude: 49.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4292
+  height: 3019
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:40:46.000000000+02:00
+- image_filename: 2019_05_01__08_41_P5010228.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.87141666666667
+  lon: 19.057861111111112
+  altitude: 51.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4050
+  height: 2761
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:41:01.000000000+02:00
+- image_filename: 2019_05_01__08_50_P5010230.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.86086111111111
+  lon: 19.05927777777778
+  altitude: 53.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4346
+  height: 3421
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:50:44.000000000+02:00
+- image_filename: 2019_05_01__08_50_P5010233.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.86002777777778
+  lon: 19.060125
+  altitude: 53.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4322
+  height: 3234
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 08:50:58.000000000+02:00
+- image_filename: 2019_05_01__09_00_P5010237.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.844625
+  lon: 19.060055555555557
+  altitude: 71.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4297
+  height: 3091
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 09:00:12.000000000+02:00
+- image_filename: 2019_05_01__09_05_P5010244.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.839222222222226
+  lon: 19.051333333333336
+  altitude: 69.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 153.51
+  iso: 200
+  width: 4379
+  height: 3276
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 09:05:05.000000000+02:00
+- image_filename: 2019_05_01__09_16_P5010253.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.819430555555556
+  lon: 19.03902777777778
+  altitude: 72.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4469
+  height: 3344
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 09:16:40.000000000+02:00
+- image_filename: 2019_05_01__09_18_P5010258.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.81881944444445
+  lon: 19.040069444444445
+  altitude: 74.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 13.05
+  iso: 200
+  width: 4372
+  height: 3271
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 09:18:15.000000000+02:00
+- image_filename: 2019_05_01__09_19_P5010262.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.818472222222226
+  lon: 19.04077777777778
+  altitude: 76.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4269
+  height: 3201
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 09:19:34.000000000+02:00
+- image_filename: 2019_05_01__09_22_P5010267.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.816722222222225
+  lon: 19.04390277777778
+  altitude: 79.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4511
+  height: 3375
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 09:22:55.000000000+02:00
+- image_filename: 2019_05_01__09_52_P5010270.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.79609722222222
+  lon: 19.044722222222223
+  altitude: 77.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 09:52:04.000000000+02:00
+- image_filename: 2019_05_01__10_01_P5010273.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.77573611111111
+  lon: 19.016541666666665
+  altitude: 79.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 10.67
+  iso: 200
+  width: 4422
+  height: 3282
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 10:01:39.000000000+02:00
+- image_filename: 2019_05_01__10_05_P5010276.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.77180555555555
+  lon: 19.0125
+  altitude: 74.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4531
+  height: 3338
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 10:05:27.000000000+02:00
+- image_filename: 2019_05_01__10_25_P5010288.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.73727777777778
+  lon: 19.027277777777776
+  altitude: 83.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4428
+  height: 3313
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 10:25:29.000000000+02:00
+- image_filename: 2019_05_01__10_25_P5010290.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.73672222222223
+  lon: 19.027555555555555
+  altitude: 84.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 10:25:45.000000000+02:00
+- image_filename: 2019_05_01__10_37_P5010293.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.72841666666667
+  lon: 19.044958333333334
+  altitude: 80.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 10:37:07.000000000+02:00
+- image_filename: 2019_05_01__10_37_P5010295.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.72813888888889
+  lon: 19.04554166666667
+  altitude: 80.0
+  focal_length: 88.0
+  focal_length_35: 176.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4393
+  height: 3287
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 10:37:17.000000000+02:00
+- image_filename: 2019_05_01__10_48_P5010305.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.70915277777778
+  lon: 19.06451388888889
+  altitude: 88.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 12.56
+  iso: 200
+  width: 4472
+  height: 3346
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 10:48:20.000000000+02:00
+- image_filename: 2019_05_01__10_49_P5010312.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.70719444444445
+  lon: 19.066319444444446
+  altitude: 96.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 53.06
+  iso: 200
+  width: 4440
+  height: 3322
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 10:49:37.000000000+02:00
+- image_filename: 2019_05_01__10_50_P5010317.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.706472222222224
+  lon: 19.06715277777778
+  altitude: 99.0
+  focal_length: 37.0
+  focal_length_35: 74.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 48.95
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 10:50:50.000000000+02:00
+- image_filename: 2019_05_01__11_11_P5010322.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.699819444444444
+  lon: 19.070319444444443
+  altitude: 86.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 17.94
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:11:21.000000000+02:00
 - image_filename: 2019_05_01__11_13_P5010326.jpg
   post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
   lat: 53.69741666666666
@@ -2006,12 +1070,948 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-05-01 11:13:27+02:00
   focus_distance: 16.05
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:13:27.000000000+02:00
+- image_filename: 2019_05_01__11_15_P5010328.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.69577777777778
+  lon: 19.07073611111111
+  altitude: 103.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:15:51.000000000+02:00
+- image_filename: 2019_05_01__11_20_P5010339.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.69045833333333
+  lon: 19.067180555555556
+  altitude: 105.0
+  focal_length: 69.0
+  focal_length_35: 138.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 219.29
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:20:21.000000000+02:00
+- image_filename: 2019_05_01__11_20_P5010341.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.69044444444444
+  lon: 19.067180555555556
+  altitude: 105.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3472
+  height: 4640
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:20:33.000000000+02:00
+- image_filename: 2019_05_01__11_20_P5010342.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.69044444444444
+  lon: 19.067180555555556
+  altitude: 105.0
+  focal_length: 19.0
+  focal_length_35: 38.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 36.14
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:20:39.000000000+02:00
+- image_filename: 2019_05_01__11_21_P5010346.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.69005555555555
+  lon: 19.067027777777778
+  altitude: 105.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:21:15.000000000+02:00
+- image_filename: 2019_05_01__11_25_P5010350.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.68263888888889
+  lon: 19.064
+  altitude: 94.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4325
+  height: 3236
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:25:25.000000000+02:00
+- image_filename: 2019_05_01__11_25_P5010354.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.68173611111111
+  lon: 19.063583333333334
+  altitude: 93.0
+  focal_length: 77.0
+  focal_length_35: 154.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 37.92
+  iso: 200
+  width: 4567
+  height: 3418
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:25:46.000000000+02:00
+- image_filename: 2019_05_01__11_27_P5010357.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.678916666666666
+  lon: 19.062083333333334
+  altitude: 101.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3303
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:27:52.000000000+02:00
+- image_filename: 2019_05_01__11_28_P5010359.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.678916666666666
+  lon: 19.062069444444447
+  altitude: 101.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 11:28:04.000000000+02:00
+- image_filename: 2019_05_01__12_17_P5010382.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.59984722222222
+  lon: 19.064847222222223
+  altitude: 89.0
+  focal_length: 73.0
+  focal_length_35: 146.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 106.33
+  iso: 200
+  width: 4302
+  height: 3129
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:17:51.000000000+02:00
+- image_filename: 2019_05_01__12_20_P5010389.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.59802777777778
+  lon: 19.064444444444444
+  altitude: 94.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:20:00.000000000+02:00
+- image_filename: 2019_05_01__12_21_P5010394.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.596333333333334
+  lon: 19.06447222222222
+  altitude: 91.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:21:44.000000000+02:00
+- image_filename: 2019_05_01__12_22_P5010397.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.59563888888889
+  lon: 19.064347222222224
+  altitude: 93.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:22:04.000000000+02:00
+- image_filename: 2019_05_01__12_25_P5010399.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.59406944444445
+  lon: 19.063055555555557
+  altitude: 91.0
+  focal_length: 65.0
+  focal_length_35: 130.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:25:54.000000000+02:00
+- image_filename: 2019_05_01__12_27_P5010403.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.594055555555556
+  lon: 19.063069444444444
+  altitude: 92.0
+  focal_length: 26.0
+  focal_length_35: 52.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4405
+  height: 3296
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:27:43.000000000+02:00
+- image_filename: 2019_05_01__12_38_P5010413.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.574847222222225
+  lon: 19.062361111111112
+  altitude: 94.0
+  focal_length: 55.0
+  focal_length_35: 110.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:38:48.000000000+02:00
+- image_filename: 2019_05_01__12_39_P5010417.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.57358333333334
+  lon: 19.063972222222223
+  altitude: 90.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 121.65
+  iso: 200
+  width: 4304
+  height: 3383
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:39:21.000000000+02:00
+- image_filename: 2019_05_01__12_42_P5010419.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.568361111111116
+  lon: 19.061958333333333
+  altitude: 73.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 23.56
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:42:24.000000000+02:00
+- image_filename: 2019_05_01__12_47_P5010436.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.56393055555555
+  lon: 19.06138888888889
+  altitude: 78.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:47:04.000000000+02:00
+- image_filename: 2019_05_01__12_55_P5010443.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.558055555555555
+  lon: 19.05777777777778
+  altitude: 89.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4608
+  height: 3448
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:55:02.000000000+02:00
+- image_filename: 2019_05_01__12_56_P5010452.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.55672222222222
+  lon: 19.058694444444445
+  altitude: 93.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4436
+  height: 3319
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:56:00.000000000+02:00
+- image_filename: 2019_05_01__12_56_P5010457.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.555388888888885
+  lon: 19.05975
+  altitude: 93.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4423
+  height: 3312
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 12:56:31.000000000+02:00
+- image_filename: 2019_05_01__13_00_P5010460.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.554916666666664
+  lon: 19.06013888888889
+  altitude: 92.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 105.76
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 13:00:01.000000000+02:00
+- image_filename: 2019_05_01__13_50_P5010471.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.51673611111111
+  lon: 19.090152777777778
+  altitude: 89.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4491
+  height: 3360
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 13:50:19.000000000+02:00
+- image_filename: 2019_05_01__13_50_P5010474.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.51493055555556
+  lon: 19.091027777777775
+  altitude: 81.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4348
+  height: 3253
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 13:50:57.000000000+02:00
+- image_filename: 2019_05_01__14_01_P5010478.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.49773611111111
+  lon: 19.08873611111111
+  altitude: 75.0
+  focal_length: 125.0
+  focal_length_35: 250.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 98.67
+  iso: 200
+  width: 4479
+  height: 3352
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:01:32.000000000+02:00
+- image_filename: 2019_05_01__14_01_P5010480.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.49765277777778
+  lon: 19.087652777777777
+  altitude: 75.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4415
+  height: 3304
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:01:45.000000000+02:00
+- image_filename: 2019_05_01__14_02_P5010483.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.497486111111115
+  lon: 19.08556944444444
+  altitude: 79.0
+  focal_length: 26.0
+  focal_length_35: 52.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4433
+  height: 3317
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:02:20.000000000+02:00
+- image_filename: 2019_05_01__14_02_P5010485.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.497416666666666
+  lon: 19.084402777777775
+  altitude: 80.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4373
+  height: 3324
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:02:42.000000000+02:00
+- image_filename: 2019_05_01__14_05_P5010486.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.496875
+  lon: 19.081319444444443
+  altitude: 82.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4342
+  height: 3127
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:05:54.000000000+02:00
+- image_filename: 2019_05_01__14_06_P5010489.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.496375
+  lon: 19.082652777777778
+  altitude: 83.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4517
+  height: 3439
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:06:17.000000000+02:00
+- image_filename: 2019_05_01__14_12_P5010490.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.48677777777778
+  lon: 19.09551388888889
+  altitude: 86.0
+  focal_length: 55.0
+  focal_length_35: 110.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4533
+  height: 3392
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:12:20.000000000+02:00
+- image_filename: 2019_05_01__14_21_P5010492.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.47027777777778
+  lon: 19.108333333333334
+  altitude: 67.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 8.89
+  iso: 200
+  width: 4460
+  height: 3337
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:21:44.000000000+02:00
+- image_filename: 2019_05_01__14_40_P5010497.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.43922222222222
+  lon: 19.08670833333333
+  altitude: 67.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:40:16.000000000+02:00
+- image_filename: 2019_05_01__14_43_P5010504.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.437263888888886
+  lon: 19.08001388888889
+  altitude: 73.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 26.39
+  iso: 200
+  width: 4509
+  height: 3292
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:43:45.000000000+02:00
+- image_filename: 2019_05_01__14_52_P5010516.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.42968055555556
+  lon: 19.06116666666667
+  altitude: 61.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4450
+  height: 3330
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:52:08.000000000+02:00
+- image_filename: 2019_05_01__14_56_P5010521.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.426652777777775
+  lon: 19.054277777777777
+  altitude: 73.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4332
+  height: 3106
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:56:27.000000000+02:00
+- image_filename: 2019_05_01__14_58_P5010529.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.42420833333333
+  lon: 19.049722222222226
+  altitude: 83.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4507
+  height: 3372
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 14:58:37.000000000+02:00
+- image_filename: 2019_05_01__15_01_P5010535.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.42261111111111
+  lon: 19.047944444444447
+  altitude: 90.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4163
+  height: 3208
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 15:01:01.000000000+02:00
+- image_filename: 2019_05_01__15_08_P5010541.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.41422222222222
+  lon: 19.040791666666667
+  altitude: 100.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 263.71
+  iso: 200
+  width: 4388
+  height: 3105
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 15:08:09.000000000+02:00
+- image_filename: 2019_05_01__15_24_P5010545.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.384875
+  lon: 19.03730555555556
+  altitude: 115.0
+  focal_length: 65.0
+  focal_length_35: 130.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4540
+  height: 3335
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 15:24:43.000000000+02:00
+- image_filename: 2019_05_01__15_47_P5010555.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.36743055555556
+  lon: 18.99765277777778
+  altitude: 109.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4507
+  height: 3372
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 15:47:02.000000000+02:00
+- image_filename: 2019_05_01__15_49_P5010558.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.36327777777778
+  lon: 18.996305555555555
+  altitude: 115.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 166.63
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 15:49:09.000000000+02:00
+- image_filename: 2019_05_01__15_49_P5010566.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.36311111111111
+  lon: 18.996277777777777
+  altitude: 115.0
+  focal_length: 102.0
+  focal_length_35: 204.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4471
+  height: 3346
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 15:49:53.000000000+02:00
+- image_filename: 2019_05_01__15_58_P5010571.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.349583333333335
+  lon: 19.001083333333334
+  altitude: 114.0
+  focal_length: 32.0
+  focal_length_35: 64.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 16.95
+  iso: 200
+  width: 4497
+  height: 3365
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 15:58:37.000000000+02:00
+- image_filename: 2019_05_01__16_06_P5010575.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.33295833333334
+  lon: 19.008166666666668
+  altitude: 91.0
+  focal_length: 69.0
+  focal_length_35: 138.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 56.88
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 16:06:09.000000000+02:00
+- image_filename: 2019_05_01__16_06_P5010577.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.33294444444445
+  lon: 19.008166666666668
+  altitude: 91.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 16:06:19.000000000+02:00
+- image_filename: 2019_05_01__17_34_P5010579.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.33002777777778
+  lon: 19.067666666666668
+  altitude: 102.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4407
+  height: 3104
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 17:34:16.000000000+02:00
+- image_filename: 2019_05_01__17_35_P5010581.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.329
+  lon: 19.069055555555554
+  altitude: 106.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 4.8
+  iso: 500
+  width: 4166
+  height: 3131
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 17:35:25.000000000+02:00
+- image_filename: 2019_05_01__17_35_P5010583.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.32919444444445
+  lon: 19.06936111111111
+  altitude: 106.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 3.61
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 17:35:36.000000000+02:00
+- image_filename: 2019_05_01__17_35_P5010586.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.32965277777778
+  lon: 19.069625
+  altitude: 104.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 5.51
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 17:35:50.000000000+02:00
+- image_filename: 2019_05_01__17_35_P5010588.jpg
+  post_slug: 2019-05-01-pierwsza-setka-na-pierwszego-maja
+  lat: 53.32983333333333
+  lon: 19.069958333333332
+  altitude: 105.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 2.87
+  iso: 500
+  width: 4206
+  height: 3240
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-05-01 17:35:58.000000000+02:00

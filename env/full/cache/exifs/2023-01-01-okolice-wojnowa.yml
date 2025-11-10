@@ -1,8 +1,8 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2023-01-01-okolice-wojnowa
 - image_filename: 2023_01_01__12_55_DJI_0051.jpg
   post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.619030555555554
+  lon: 17.04166388888889
   altitude: 76.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -17,6 +17,8 @@
   time: 2023-01-01 12:55:46.000000000+01:00
 - image_filename: 2023_01_01__13_34_DJI_0063.jpg
   post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.62487222222222
+  lon: 17.060683333333333
   altitude: 74.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -29,22 +31,10 @@
   height: 3024
   camera: FC3582
   time: 2023-01-01 13:34:08.000000000+01:00
-- image_filename: 2023_01_01__13_47_DJI_0070.jpg
-  post_slug: 2023-01-01-okolice-wojnowa
-  altitude: 96.7
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 140
-  width: 4028
-  height: 3018
-  camera: FC3582
-  time: 2023-01-01 13:47:18.000000000+01:00
 - image_filename: 2023_01_01__13_46_DJI_0068.jpg
   post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.62733055555556
+  lon: 17.061094444444446
   altitude: 108.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -57,8 +47,26 @@
   height: 3024
   camera: FC3582
   time: 2023-01-01 13:46:59.000000000+01:00
+- image_filename: 2023_01_01__13_47_DJI_0070.jpg
+  post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.62733055555556
+  lon: 17.061091666666666
+  altitude: 96.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 140
+  width: 4028
+  height: 3018
+  camera: FC3582
+  time: 2023-01-01 13:47:18.000000000+01:00
 - image_filename: 2023_01_01__13_48_DJI_0074.jpg
   post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.62842222222222
+  lon: 17.062425
   altitude: 109.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -73,6 +81,8 @@
   time: 2023-01-01 13:48:29.000000000+01:00
 - image_filename: 2023_01_01__13_55_DJI_0080.jpg
   post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.629975
+  lon: 17.06156111111111
   altitude: 105.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -85,36 +95,10 @@
   height: 3024
   camera: FC3582
   time: 2023-01-01 13:55:09.000000000+01:00
-- image_filename: 2023_01_01__14_31_DJI_0094.jpg
-  post_slug: 2023-01-01-okolice-wojnowa
-  altitude: 106.9
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.005
-  exposure_string: 1/200 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-01-01 14:31:09.000000000+01:00
-- image_filename: 2023_01_01__13_58_DJI_0088.jpg
-  post_slug: 2023-01-01-okolice-wojnowa
-  altitude: 88.3
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 110
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-01-01 13:58:33.000000000+01:00
 - image_filename: 2023_01_01__13_55_DJI_0081.jpg
   post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.629975
+  lon: 17.06156111111111
   altitude: 106.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -127,22 +111,10 @@
   height: 3024
   camera: FC3582
   time: 2023-01-01 13:55:16.000000000+01:00
-- image_filename: 2023_01_01__13_58_DJI_0089.jpg
-  post_slug: 2023-01-01-okolice-wojnowa
-  altitude: 114.1
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.002
-  exposure_string: 1/500 s
-  iso: 130
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-01-01 13:58:57.000000000+01:00
 - image_filename: 2023_01_01__13_58_DJI_0087.jpg
   post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.627988888888886
+  lon: 17.061152777777778
   altitude: 88.1
   focal_length: 6.7
   focal_length_35: 24.0
@@ -155,22 +127,58 @@
   height: 6046
   camera: FC3582
   time: 2023-01-01 13:58:22.000000000+01:00
-- image_filename: 2023_01_01__14_31_DJI_0096.jpg
+- image_filename: 2023_01_01__13_58_DJI_0088.jpg
   post_slug: 2023-01-01-okolice-wojnowa
-  altitude: 106.4
+  lat: 52.627988888888886
+  lon: 17.061152777777778
+  altitude: 88.3
   focal_length: 6.7
   focal_length_35: 24.0
   crop: 3.582089552238806
   aperture: 1.7
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 8058
-  height: 5722
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 110
+  width: 8064
+  height: 6048
   camera: FC3582
-  time: 2023-01-01 14:31:34.000000000+01:00
+  time: 2023-01-01 13:58:33.000000000+01:00
+- image_filename: 2023_01_01__13_58_DJI_0089.jpg
+  post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.627988888888886
+  lon: 17.061155555555555
+  altitude: 114.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-01 13:58:57.000000000+01:00
+- image_filename: 2023_01_01__14_31_DJI_0094.jpg
+  post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.62414166666667
+  lon: 17.055383333333335
+  altitude: 106.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-01 14:31:09.000000000+01:00
 - image_filename: 2023_01_01__14_31_DJI_0095.jpg
   post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.62415
+  lon: 17.055380555555555
   altitude: 106.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -183,8 +191,26 @@
   height: 5975
   camera: FC3582
   time: 2023-01-01 14:31:19.000000000+01:00
+- image_filename: 2023_01_01__14_31_DJI_0096.jpg
+  post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.62415
+  lon: 17.055383333333335
+  altitude: 106.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 8058
+  height: 5722
+  camera: FC3582
+  time: 2023-01-01 14:31:34.000000000+01:00
 - image_filename: 2023_01_01__14_39_DJI_0100_01.jpg
   post_slug: 2023-01-01-okolice-wojnowa
+  lat: 52.62308055555555
+  lon: 17.052455555555557
   altitude: 82.1
   focal_length: 6.7
   focal_length_35: 24.0

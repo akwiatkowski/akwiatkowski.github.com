@@ -1,289 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-- image_filename: 2021_08_21__07_59_DSC06140.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.34790277777778
-  lon: 20.038236111111114
-  altitude: 327.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 125
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 07:59:18.000000000+02:00
-- image_filename: 2021_08_21__06_20_DSC06100.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 49.877
-  lon: 19.792805555555557
-  altitude: 268.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  iso: 100
-  width: 5348
-  height: 3638
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 06:20:05.000000000+02:00
-- image_filename: 2021_08_21__15_37_DSC06564.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.83075
-  lon: 21.951625
-  altitude: 131.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5742
-  height: 3821
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 15:37:28.000000000+02:00
-- image_filename: 2021_08_29__12_14_DSC07710.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.14473611111111
-  lon: 18.86951388888889
-  altitude: 83.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  iso: 100
-  width: 5724
-  height: 3805
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-29 12:14:45.000000000+02:00
-- image_filename: 2021_08_28__14_05_DSC07565.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.63775
-  lon: 19.65861111111111
-  altitude: 100.0
-  focal_length: 43.0
-  focal_length_35: 43.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 4000
-  width: 4024
-  height: 6048
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-28 14:05:26.000000000+02:00
-- image_filename: 2021_08_16__15_05__8160459.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.46691666666667
-  lon: 18.18075
-  altitude: 315.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 29.52
-  iso: 200
-  width: 5197
-  height: 3880
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 15:05:01.000000000+02:00
-- image_filename: 2021_08_16__16_04__8160518.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.253375
-  lon: 18.981805555555553
-  altitude: 275.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 174.29
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 16:04:50.000000000+02:00
-- image_filename: 2021_08_16__18_05__8160562.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 49.76848611111111
-  lon: 19.592375
-  altitude: 314.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 117.87
-  iso: 640
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 18:05:49.000000000+02:00
-- image_filename: 2021_08_16__14_59__8160417.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.480402777777776
-  lon: 18.059569444444445
-  altitude: 199.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5029
-  height: 3755
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 14:59:44.000000000+02:00
-- image_filename: 2021_08_16__16_09__8160531.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.227875000000004
-  lon: 19.076555555555554
-  altitude: 258.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 78.39
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 16:09:24.000000000+02:00
-- image_filename: 2021_08_16__14_15__8160364.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.75223611111111
-  lon: 17.438902777777777
-  altitude: 170.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 27.91
-  iso: 200
-  width: 5135
-  height: 3833
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 14:15:22.000000000+02:00
-- image_filename: 2021_08_16__15_06__8160481.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.46154166666667
-  lon: 18.228944444444444
-  altitude: 284.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 237.45
-  iso: 200
-  width: 4636
-  height: 3604
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 15:06:54.000000000+02:00
-- image_filename: 2021_08_16__15_11__8160494.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.44556944444444
-  lon: 18.349208333333333
-  altitude: 252.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4690
-  height: 2979
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 15:11:17.000000000+02:00
-- image_filename: 2021_08_16__14_55__8160403.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.5135
-  lon: 17.959125
-  altitude: 172.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 107.79
-  iso: 200
-  width: 3671
-  height: 2984
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 14:55:26.000000000+02:00
-- image_filename: 2021_08_16__18_08__8160567.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 49.74523611111111
-  lon: 19.6035
-  altitude: 325.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 43.69
-  iso: 640
-  width: 5133
-  height: 3832
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 18:08:19.000000000+02:00
-- image_filename: 2021_08_16__15_04__8160455.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.466875
-  lon: 18.179000000000002
-  altitude: 319.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4280
-  height: 3453
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 15:04:55.000000000+02:00
 - image_filename: 2021_08_16__13_59__8160351.jpg
   post_slug: 2021-08-29-petla-po-polsce
   lat: 50.842875
@@ -302,24 +17,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-16 13:59:11.000000000+02:00
-- image_filename: 2021_08_16__15_02__8160435.jpg
+- image_filename: 2021_08_16__14_12__8160359.jpg
   post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.480875000000005
-  lon: 18.12013888888889
-  altitude: 257.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 50.773555555555554
+  lon: 17.368222222222222
+  altitude: 164.0
+  focal_length: 29.0
+  focal_length_35: 58.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1000.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 195.04
   iso: 200
-  width: 4938
-  height: 2999
+  width: 5185
+  height: 3871
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-08-16 15:02:01.000000000+02:00
+  time: 2021-08-16 14:12:40.000000000+02:00
+- image_filename: 2021_08_16__14_15__8160364.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.75223611111111
+  lon: 17.438902777777777
+  altitude: 170.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 27.91
+  iso: 200
+  width: 5135
+  height: 3833
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 14:15:22.000000000+02:00
 - image_filename: 2021_08_16__14_15__8160368.jpg
   post_slug: 2021-08-29-petla-po-polsce
   lat: 50.745041666666665
@@ -338,60 +71,168 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-16 14:15:56.000000000+02:00
-- image_filename: 2021_08_16__18_10__8160576.jpg
+- image_filename: 2021_08_16__14_17__8160386.jpg
   post_slug: 2021-08-29-petla-po-polsce
-  lat: 49.74219444444444
-  lon: 19.600125000000002
-  altitude: 326.0
-  focal_length: 34.0
-  focal_length_35: 68.0
+  lat: 50.73588888888889
+  lon: 17.488208333333333
+  altitude: 177.0
+  focal_length: 17.0
+  focal_length_35: 34.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 21.17
-  iso: 640
-  width: 5047
-  height: 3840
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5075
+  height: 3789
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-08-16 18:10:09.000000000+02:00
-- image_filename: 2021_08_16__18_02__8160554.jpg
+  time: 2021-08-16 14:17:11.000000000+02:00
+- image_filename: 2021_08_16__14_55__8160403.jpg
   post_slug: 2021-08-29-petla-po-polsce
-  lat: 49.775013888888886
-  lon: 19.591625
-  altitude: 308.0
+  lat: 50.5135
+  lon: 17.959125
+  altitude: 172.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 197.4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 107.79
   iso: 200
-  width: 5222
-  height: 3889
+  width: 3671
+  height: 2984
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-08-16 18:02:47.000000000+02:00
-- image_filename: 2021_08_16__18_01__8160546.jpg
+  time: 2021-08-16 14:55:26.000000000+02:00
+- image_filename: 2021_08_16__14_59__8160417.jpg
   post_slug: 2021-08-29-petla-po-polsce
-  lat: 49.775013888888886
-  lon: 19.591638888888887
-  altitude: 308.0
-  focal_length: 35.0
-  focal_length_35: 70.0
+  lat: 50.480402777777776
+  lon: 18.059569444444445
+  altitude: 199.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 28.54
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
   iso: 200
-  width: 5148
-  height: 3872
+  width: 5029
+  height: 3755
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  time: 2021-08-16 18:01:51.000000000+02:00
+  time: 2021-08-16 14:59:44.000000000+02:00
+- image_filename: 2021_08_16__15_02__8160435.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.480875000000005
+  lon: 18.12013888888889
+  altitude: 257.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4938
+  height: 2999
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 15:02:01.000000000+02:00
+- image_filename: 2021_08_16__15_02__8160442.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.48008333333333
+  lon: 18.123527777777777
+  altitude: 265.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 114.57
+  iso: 200
+  width: 4655
+  height: 3561
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 15:02:10.000000000+02:00
+- image_filename: 2021_08_16__15_02__8160449.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.47931944444445
+  lon: 18.131027777777778
+  altitude: 285.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 76.92
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 15:02:28.000000000+02:00
+- image_filename: 2021_08_16__15_04__8160455.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.466875
+  lon: 18.179000000000002
+  altitude: 319.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4280
+  height: 3453
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 15:04:55.000000000+02:00
+- image_filename: 2021_08_16__15_05__8160459.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.46691666666667
+  lon: 18.18075
+  altitude: 315.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 29.52
+  iso: 200
+  width: 5197
+  height: 3880
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 15:05:01.000000000+02:00
+- image_filename: 2021_08_16__15_06__8160481.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.46154166666667
+  lon: 18.228944444444444
+  altitude: 284.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 237.45
+  iso: 200
+  width: 4636
+  height: 3604
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 15:06:54.000000000+02:00
 - image_filename: 2021_08_16__15_10__8160489.jpg
   post_slug: 2021-08-29-petla-po-polsce
   lat: 50.45070833333334
@@ -410,6 +251,78 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-16 15:10:11.000000000+02:00
+- image_filename: 2021_08_16__15_11__8160494.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.44556944444444
+  lon: 18.349208333333333
+  altitude: 252.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4690
+  height: 2979
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 15:11:17.000000000+02:00
+- image_filename: 2021_08_16__16_04__8160518.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.253375
+  lon: 18.981805555555553
+  altitude: 275.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 174.29
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 16:04:50.000000000+02:00
+- image_filename: 2021_08_16__16_09__8160531.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.227875000000004
+  lon: 19.076555555555554
+  altitude: 258.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 78.39
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 16:09:24.000000000+02:00
+- image_filename: 2021_08_16__18_01__8160546.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 49.775013888888886
+  lon: 19.591638888888887
+  altitude: 308.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 28.54
+  iso: 200
+  width: 5148
+  height: 3872
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 18:01:51.000000000+02:00
 - image_filename: 2021_08_16__18_02__8160547.jpg
   post_slug: 2021-08-29-petla-po-polsce
   lat: 49.775013888888886
@@ -428,6 +341,265 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-16 18:02:03.000000000+02:00
+- image_filename: 2021_08_16__18_02__8160554.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 49.775013888888886
+  lon: 19.591625
+  altitude: 308.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 197.4
+  iso: 200
+  width: 5222
+  height: 3889
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 18:02:47.000000000+02:00
+- image_filename: 2021_08_16__18_05__8160562.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 49.76848611111111
+  lon: 19.592375
+  altitude: 314.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 117.87
+  iso: 640
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 18:05:49.000000000+02:00
+- image_filename: 2021_08_16__18_08__8160567.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 49.74523611111111
+  lon: 19.6035
+  altitude: 325.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 43.69
+  iso: 640
+  width: 5133
+  height: 3832
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 18:08:19.000000000+02:00
+- image_filename: 2021_08_16__18_10__8160576.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 49.74219444444444
+  lon: 19.600125000000002
+  altitude: 326.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 21.17
+  iso: 640
+  width: 5047
+  height: 3840
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-16 18:10:09.000000000+02:00
+- image_filename: 2021_08_21__06_20_DSC06100.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 49.877
+  lon: 19.792805555555557
+  altitude: 268.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 5348
+  height: 3638
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 06:20:05.000000000+02:00
+- image_filename: 2021_08_21__07_53_DSC06120.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.328375
+  lon: 20.033875000000002
+  altitude: 322.0
+  focal_length: 47.0
+  focal_length_35: 47.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 125
+  width: 5701
+  height: 3793
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 07:53:22.000000000+02:00
+- image_filename: 2021_08_21__07_53_DSC06124.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.328375
+  lon: 20.03386111111111
+  altitude: 322.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 160
+  width: 5593
+  height: 3718
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 07:53:58.000000000+02:00
+- image_filename: 2021_08_21__07_59_DSC06140.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.34790277777778
+  lon: 20.038236111111114
+  altitude: 327.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 07:59:18.000000000+02:00
+- image_filename: 2021_08_21__08_01_DSC06172.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.364069444444446
+  lon: 20.044444444444448
+  altitude: 291.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5873
+  height: 3907
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 08:01:09.000000000+02:00
+- image_filename: 2021_08_21__08_04_DSC06234.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.383069444444445
+  lon: 20.046069444444445
+  altitude: 362.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 160
+  width: 6000
+  height: 3992
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 08:04:10.000000000+02:00
+- image_filename: 2021_08_21__08_10_DSC06288.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.42869444444444
+  lon: 20.130958333333332
+  altitude: 289.0
+  focal_length: 69.0
+  focal_length_35: 69.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 4385
+  height: 3204
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 08:10:10.000000000+02:00
+- image_filename: 2021_08_21__08_12_DSC06297.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.45027777777778
+  lon: 20.144972222222222
+  altitude: 269.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5125
+  height: 3258
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 08:12:32.000000000+02:00
+- image_filename: 2021_08_21__08_32_DSC06358.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.71990277777778
+  lon: 20.409902777777777
+  altitude: 251.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6043
+  height: 4020
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 08:32:30.000000000+02:00
+- image_filename: 2021_08_21__08_48_DSC06381.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 50.928638888888884
+  lon: 20.64423611111111
+  altitude: 323.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5755
+  height: 3920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 08:48:31.000000000+02:00
+- image_filename: 2021_08_21__13_31_DSC06452.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.019375
+  lon: 21.958541666666665
+  altitude: 113.0
+  focal_length: 48.0
+  focal_length_35: 48.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5790
+  height: 3852
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 13:31:15.000000000+02:00
 - image_filename: 2021_08_21__13_33_DSC06454.jpg
   post_slug: 2021-08-29-petla-po-polsce
   lat: 53.019375
@@ -445,6 +617,159 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-21 13:33:22.000000000+02:00
+- image_filename: 2021_08_21__13_34_DSC06458.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.019375
+  lon: 21.958541666666665
+  altitude: 113.0
+  focal_length: 33.0
+  focal_length_35: 33.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5721
+  height: 3808
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 13:34:49.000000000+02:00
+- image_filename: 2021_08_21__14_47_DSC06497.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.40773611111111
+  lon: 21.932708333333334
+  altitude: 122.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5601
+  height: 3567
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 14:47:43.000000000+02:00
+- image_filename: 2021_08_21__15_01_DSC06512.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.51218055555555
+  lon: 21.865430555555555
+  altitude: 115.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5662
+  height: 3767
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 15:01:02.000000000+02:00
+- image_filename: 2021_08_21__15_14_DSC06532.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.63238888888889
+  lon: 21.80304166666667
+  altitude: 112.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5971
+  height: 3973
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 15:14:46.000000000+02:00
+- image_filename: 2021_08_21__15_31_DSC06552.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.78934722222222
+  lon: 21.927875
+  altitude: 122.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 4771
+  height: 3214
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 15:31:42.000000000+02:00
+- image_filename: 2021_08_21__15_37_DSC06564.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.83075
+  lon: 21.951625
+  altitude: 131.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5742
+  height: 3821
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 15:37:28.000000000+02:00
+- image_filename: 2021_08_21__15_37_DSC06581.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.833444444444446
+  lon: 21.950833333333332
+  altitude: 139.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5809
+  height: 3865
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 15:37:45.000000000+02:00
+- image_filename: 2021_08_21__15_38_DSC06593.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.84102777777778
+  lon: 21.948722222222223
+  altitude: 135.0
+  focal_length: 54.0
+  focal_length_35: 54.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 125
+  width: 5986
+  height: 3983
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 15:38:24.000000000+02:00
+- image_filename: 2021_08_21__15_41_DSC06611.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.87056944444444
+  lon: 21.93080555555556
+  altitude: 141.0
+  focal_length: 43.0
+  focal_length_35: 43.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5766
+  height: 3697
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 15:41:01.000000000+02:00
 - image_filename: 2021_08_21__15_41_DSC06614.jpg
   post_slug: 2021-08-29-petla-po-polsce
   lat: 53.87126388888889
@@ -479,41 +804,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-21 15:41:20.000000000+02:00
-- image_filename: 2021_08_16__14_12__8160359.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.77355555555555
-  lon: 17.368222222222222
-  altitude: 164.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 195.04
-  iso: 200
-  width: 5185
-  height: 3871
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 14:12:40.000000000+02:00
-- image_filename: 2021_08_21__17_46_DSC06707.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 54.120111111111115
-  lon: 21.53505555555556
-  altitude: 116.0
-  focal_length: 43.0
-  focal_length_35: 43.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 100
-  width: 5839
-  height: 3797
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 17:46:48.000000000+02:00
 - image_filename: 2021_08_21__15_55_DSC06652.jpg
   post_slug: 2021-08-29-petla-po-polsce
   lat: 53.951486111111116
@@ -531,417 +821,6 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-21 15:55:49.000000000+02:00
-- image_filename: 2021_08_16__14_17__8160386.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.73588888888889
-  lon: 17.488208333333333
-  altitude: 177.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5075
-  height: 3789
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 14:17:11.000000000+02:00
-- image_filename: 2021_08_21__16_06_DSC06670.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 54.02851388888889
-  lon: 21.801055555555557
-  altitude: 118.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5851
-  height: 3893
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 16:06:39.000000000+02:00
-- image_filename: 2021_08_21__15_14_DSC06532.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.63238888888889
-  lon: 21.80304166666667
-  altitude: 112.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5971
-  height: 3973
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 15:14:46.000000000+02:00
-- image_filename: 2021_08_21__15_38_DSC06593.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.84102777777778
-  lon: 21.948722222222223
-  altitude: 135.0
-  focal_length: 54.0
-  focal_length_35: 54.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 125
-  width: 5986
-  height: 3983
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 15:38:24.000000000+02:00
-- image_filename: 2021_08_29__11_54_DSC07691.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.21347222222222
-  lon: 19.182458333333333
-  altitude: 76.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  iso: 100
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-29 11:54:43.000000000+02:00
-- image_filename: 2021_08_21__08_32_DSC06358.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.71990277777778
-  lon: 20.409902777777777
-  altitude: 251.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 9.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 6043
-  height: 4020
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 08:32:30.000000000+02:00
-- image_filename: 2021_08_21__13_34_DSC06458.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.019375
-  lon: 21.958541666666665
-  altitude: 113.0
-  focal_length: 33.0
-  focal_length_35: 33.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  iso: 100
-  width: 5721
-  height: 3808
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 13:34:49.000000000+02:00
-- image_filename: 2021_08_21__15_41_DSC06611.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.87056944444444
-  lon: 21.93080555555556
-  altitude: 141.0
-  focal_length: 43.0
-  focal_length_35: 43.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5766
-  height: 3697
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 15:41:01.000000000+02:00
-- image_filename: 2021_08_29__11_41_DSC07673.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.26394444444445
-  lon: 19.399569444444445
-  altitude: 68.0
-  focal_length: 67.0
-  focal_length_35: 67.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5891
-  height: 3919
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-29 11:41:46.000000000+02:00
-- image_filename: 2021_08_21__08_10_DSC06288.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.42869444444444
-  lon: 20.130958333333332
-  altitude: 289.0
-  focal_length: 69.0
-  focal_length_35: 69.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 4385
-  height: 3204
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 08:10:10.000000000+02:00
-- image_filename: 2021_08_21__08_04_DSC06234.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.383069444444445
-  lon: 20.046069444444445
-  altitude: 362.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 160
-  width: 6000
-  height: 3992
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 08:04:10.000000000+02:00
-- image_filename: 2021_08_21__16_00_DSC06667.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.98883333333333
-  lon: 21.838708333333333
-  altitude: 133.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 3712
-  height: 2959
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 16:00:25.000000000+02:00
-- image_filename: 2021_08_21__13_31_DSC06452.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.019375
-  lon: 21.958541666666665
-  altitude: 113.0
-  focal_length: 48.0
-  focal_length_35: 48.0
-  crop: 1.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 100
-  width: 5790
-  height: 3852
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 13:31:15.000000000+02:00
-- image_filename: 2021_08_16__15_02__8160449.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.47931944444445
-  lon: 18.131027777777778
-  altitude: 285.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 76.92
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 15:02:28.000000000+02:00
-- image_filename: 2021_08_21__08_12_DSC06297.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.45027777777778
-  lon: 20.144972222222222
-  altitude: 269.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5125
-  height: 3258
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 08:12:32.000000000+02:00
-- image_filename: 2021_08_21__16_33_DSC06703.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 54.20366666666667
-  lon: 21.744055555555555
-  altitude: 117.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 125
-  width: 6048
-  height: 4024
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 16:33:15.000000000+02:00
-- image_filename: 2021_08_21__15_31_DSC06552.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.78934722222222
-  lon: 21.927875
-  altitude: 122.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 4771
-  height: 3214
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 15:31:42.000000000+02:00
-- image_filename: 2021_08_21__16_44_DSC06704.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 54.19297222222222
-  lon: 21.75263888888889
-  altitude: 115.0
-  focal_length: 30.0
-  focal_length_35: 30.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5931
-  height: 3946
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 16:44:33.000000000+02:00
-- image_filename: 2021_08_21__08_01_DSC06172.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.364069444444446
-  lon: 20.044444444444448
-  altitude: 291.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 200
-  width: 5873
-  height: 3907
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 08:01:09.000000000+02:00
-- image_filename: 2021_08_16__15_02__8160442.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.48008333333333
-  lon: 18.123527777777777
-  altitude: 265.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 114.57
-  iso: 200
-  width: 4655
-  height: 3561
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-16 15:02:10.000000000+02:00
-- image_filename: 2021_08_21__16_14_DSC06690.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 54.08313888888889
-  lon: 21.828222222222223
-  altitude: 155.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 160
-  width: 5628
-  height: 3559
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 16:14:09.000000000+02:00
-- image_filename: 2021_08_21__15_01_DSC06512.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.51218055555555
-  lon: 21.865430555555555
-  altitude: 115.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 6.3
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5662
-  height: 3767
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 15:01:02.000000000+02:00
-- image_filename: 2021_08_21__15_37_DSC06581.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.833444444444446
-  lon: 21.950833333333332
-  altitude: 139.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5809
-  height: 3865
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 15:37:45.000000000+02:00
-- image_filename: 2021_08_28__14_05_DSC07564.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.63775
-  lon: 19.65859722222222
-  altitude: 100.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  iso: 4000
-  width: 4024
-  height: 6048
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-28 14:05:23.000000000+02:00
 - image_filename: 2021_08_21__15_55_DSC06657.jpg
   post_slug: 2021-08-29-petla-po-polsce
   lat: 53.9515
@@ -959,40 +838,142 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-21 15:55:55.000000000+02:00
-- image_filename: 2021_08_21__08_48_DSC06381.jpg
+- image_filename: 2021_08_21__16_00_DSC06667.jpg
   post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.928638888888884
-  lon: 20.64423611111111
-  altitude: 323.0
+  lat: 53.98883333333333
+  lon: 21.838708333333333
+  altitude: 133.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 6.3
+  aperture: 3.5
   exposure: 0.00125
   exposure_string: 1/800 s
   iso: 100
-  width: 5755
-  height: 3920
+  width: 3712
+  height: 2959
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-08-21 08:48:31.000000000+02:00
-- image_filename: 2021_08_21__07_53_DSC06124.jpg
+  time: 2021-08-21 16:00:25.000000000+02:00
+- image_filename: 2021_08_21__16_06_DSC06670.jpg
   post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.328375
-  lon: 20.03386111111111
-  altitude: 322.0
+  lat: 54.02851388888889
+  lon: 21.801055555555557
+  altitude: 118.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5851
+  height: 3893
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 16:06:39.000000000+02:00
+- image_filename: 2021_08_21__16_14_DSC06690.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 54.08313888888889
+  lon: 21.828222222222223
+  altitude: 155.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 160
+  width: 5628
+  height: 3559
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 16:14:09.000000000+02:00
+- image_filename: 2021_08_21__16_33_DSC06703.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 54.20366666666667
+  lon: 21.744055555555555
+  altitude: 117.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
   exposure: 0.00125
   exposure_string: 1/800 s
-  iso: 160
-  width: 5593
-  height: 3718
+  iso: 125
+  width: 6048
+  height: 4024
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-08-21 07:53:58.000000000+02:00
+  time: 2021-08-21 16:33:15.000000000+02:00
+- image_filename: 2021_08_21__16_44_DSC06704.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 54.19297222222222
+  lon: 21.75263888888889
+  altitude: 115.0
+  focal_length: 30.0
+  focal_length_35: 30.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5931
+  height: 3946
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 16:44:33.000000000+02:00
+- image_filename: 2021_08_21__17_46_DSC06707.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 54.120111111111115
+  lon: 21.53505555555556
+  altitude: 116.0
+  focal_length: 43.0
+  focal_length_35: 43.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5839
+  height: 3797
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-21 17:46:48.000000000+02:00
+- image_filename: 2021_08_28__14_05_DSC07564.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.63775
+  lon: 19.65859722222222
+  altitude: 100.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 4000
+  width: 4024
+  height: 6048
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-28 14:05:23.000000000+02:00
+- image_filename: 2021_08_28__14_05_DSC07565.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.63775
+  lon: 19.65861111111111
+  altitude: 100.0
+  focal_length: 43.0
+  focal_length_35: 43.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 4000
+  width: 4024
+  height: 6048
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-28 14:05:26.000000000+02:00
 - image_filename: 2021_08_28__14_05_DSC07567.jpg
   post_slug: 2021-08-29-petla-po-polsce
   lat: 53.63773611111111
@@ -1010,37 +991,54 @@
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
   time: 2021-08-28 14:05:46.000000000+02:00
-- image_filename: 2021_08_21__14_47_DSC06497.jpg
+- image_filename: 2021_08_29__11_41_DSC07673.jpg
   post_slug: 2021-08-29-petla-po-polsce
-  lat: 53.40773611111111
-  lon: 21.932708333333334
-  altitude: 122.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 5601
-  height: 3567
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  time: 2021-08-21 14:47:43.000000000+02:00
-- image_filename: 2021_08_21__07_53_DSC06120.jpg
-  post_slug: 2021-08-29-petla-po-polsce
-  lat: 50.328375
-  lon: 20.033875000000002
-  altitude: 322.0
-  focal_length: 47.0
-  focal_length_35: 47.0
+  lat: 53.26394444444445
+  lon: 19.399569444444445
+  altitude: 68.0
+  focal_length: 67.0
+  focal_length_35: 67.0
   crop: 1.0
   aperture: 2.8
   exposure: 0.00125
   exposure_string: 1/800 s
-  iso: 125
-  width: 5701
-  height: 3793
+  iso: 100
+  width: 5891
+  height: 3919
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  time: 2021-08-21 07:53:22.000000000+02:00
+  time: 2021-08-29 11:41:46.000000000+02:00
+- image_filename: 2021_08_29__11_54_DSC07691.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.21347222222222
+  lon: 19.182458333333333
+  altitude: 76.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-29 11:54:43.000000000+02:00
+- image_filename: 2021_08_29__12_14_DSC07710.jpg
+  post_slug: 2021-08-29-petla-po-polsce
+  lat: 53.14473611111111
+  lon: 18.86951388888889
+  altitude: 83.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 5724
+  height: 3805
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-29 12:14:45.000000000+02:00

@@ -1,78 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-05-14-okolice-welny-z-wiatrem
-- image_filename: 2022_05_14__13_27_P5145654.jpg
-  post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.77916666666667
-  lon: 17.44090277777778
-  altitude: 105.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 15.26
-  iso: 200
-  width: 5091
-  height: 3705
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-14 13:27:58.000000000+02:00
-- image_filename: 2022_05_14__13_27_P5145652.jpg
-  post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.77916666666667
-  lon: 17.44090277777778
-  altitude: 105.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 124.12
-  iso: 200
-  width: 8038
-  height: 5976
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-14 13:27:27.000000000+02:00
-- image_filename: 2022_05_14__13_15_P5145620.jpg
-  post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.78344444444444
-  lon: 17.41658333333333
-  altitude: 101.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 11.0
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 11.19
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-14 13:15:21.000000000+02:00
-- image_filename: 2022_05_14__12_18_P5145583.jpg
-  post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.729375000000005
-  lon: 17.224652777777777
-  altitude: 89.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 9.12
-  iso: 200
-  width: 8009
-  height: 5952
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-14 12:18:08.000000000+02:00
 - image_filename: 2022_05_14__12_06_P5145580.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.712361111111115
@@ -91,6 +17,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 12:06:48.000000000+02:00
+- image_filename: 2022_05_14__12_18_P5145583.jpg
+  post_slug: 2022-05-14-okolice-welny-z-wiatrem
+  lat: 52.729375000000005
+  lon: 17.224652777777777
+  altitude: 89.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 9.12
+  iso: 200
+  width: 8009
+  height: 5952
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-14 12:18:08.000000000+02:00
 - image_filename: 2022_05_14__12_57_P5145598.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.77147222222222
@@ -118,8 +62,8 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 8.0
-  exposure: 0.5
-  exposure_string: 1/2 s
+  exposure: 625.0
+  exposure_string: 0.625 s
   focus_distance: 65.54
   iso: 200
   width: 5107
@@ -163,6 +107,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 13:14:33.000000000+02:00
+- image_filename: 2022_05_14__13_15_P5145620.jpg
+  post_slug: 2022-05-14-okolice-welny-z-wiatrem
+  lat: 52.78344444444444
+  lon: 17.41658333333333
+  altitude: 101.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 11.19
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-14 13:15:21.000000000+02:00
 - image_filename: 2022_05_14__13_23_P5145642.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.778277777777774
@@ -199,6 +161,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 13:27:06.000000000+02:00
+- image_filename: 2022_05_14__13_27_P5145652.jpg
+  post_slug: 2022-05-14-okolice-welny-z-wiatrem
+  lat: 52.77916666666667
+  lon: 17.44090277777778
+  altitude: 105.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 124.12
+  iso: 200
+  width: 8038
+  height: 5976
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-14 13:27:27.000000000+02:00
+- image_filename: 2022_05_14__13_27_P5145654.jpg
+  post_slug: 2022-05-14-okolice-welny-z-wiatrem
+  lat: 52.77916666666667
+  lon: 17.44090277777778
+  altitude: 105.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 15.26
+  iso: 200
+  width: 5091
+  height: 3705
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-14 13:27:58.000000000+02:00
 - image_filename: 2022_05_14__13_28_P5145657.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.77916666666667
@@ -253,24 +251,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 14:14:28.000000000+02:00
-- image_filename: 2022_05_14__14_17_P5145686.jpg
-  post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.767833333333336
-  lon: 17.57208333333333
-  altitude: 101.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 22.69
-  iso: 200
-  width: 5083
-  height: 3694
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-14 14:17:41.000000000+02:00
 - image_filename: 2022_05_14__14_17_P5145684.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.76784722222222
@@ -289,24 +269,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 14:17:20.000000000+02:00
-- image_filename: 2022_05_14__14_29_P5145692.jpg
+- image_filename: 2022_05_14__14_17_P5145686.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.747416666666666
-  lon: 17.61726388888889
-  altitude: 91.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.767833333333336
+  lon: 17.57208333333333
+  altitude: 101.0
+  focal_length: 66.0
+  focal_length_35: 132.0
   crop: 2.0
-  aperture: 8.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 3.43
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.69
   iso: 200
-  width: 5177
-  height: 3826
+  width: 5083
+  height: 3694
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-14 14:29:36.000000000+02:00
+  time: 2022-05-14 14:17:41.000000000+02:00
 - image_filename: 2022_05_14__14_25_P5145690.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.747347222222224
@@ -325,24 +305,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 14:25:33.000000000+02:00
-- image_filename: 2022_05_14__15_58_P5145711.jpg
+- image_filename: 2022_05_14__14_29_P5145692.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.73213888888889
-  lon: 17.762041666666665
-  altitude: 96.0
-  focal_length: 44.0
-  focal_length_35: 88.0
+  lat: 52.747416666666666
+  lon: 17.61726388888889
+  altitude: 91.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 120.47
+  aperture: 8.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 3.43
   iso: 200
-  width: 8012
-  height: 5874
+  width: 5177
+  height: 3826
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-14 15:58:36.000000000+02:00
+  time: 2022-05-14 14:29:36.000000000+02:00
 - image_filename: 2022_05_14__14_30_P5145696.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.747416666666666
@@ -379,6 +359,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 15:47:04.000000000+02:00
+- image_filename: 2022_05_14__15_58_P5145711.jpg
+  post_slug: 2022-05-14-okolice-welny-z-wiatrem
+  lat: 52.73213888888889
+  lon: 17.762041666666665
+  altitude: 96.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 120.47
+  iso: 200
+  width: 8012
+  height: 5874
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-14 15:58:36.000000000+02:00
 - image_filename: 2022_05_14__16_05_P5145718.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.73094444444445
@@ -397,24 +395,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 16:05:52.000000000+02:00
-- image_filename: 2022_05_14__16_07_P5145720.jpg
-  post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.73084722222222
-  lon: 17.782999999999998
-  altitude: 98.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.7
-  iso: 200
-  width: 8038
-  height: 5910
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-14 16:07:43.000000000+02:00
 - image_filename: 2022_05_14__16_06_P5145719.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.73094444444445
@@ -433,24 +413,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 16:06:22.000000000+02:00
-- image_filename: 2022_05_14__16_29_P5145724.jpg
+- image_filename: 2022_05_14__16_07_P5145720.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.69902777777777
-  lon: 17.836583333333333
-  altitude: 110.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 52.73084722222222
+  lon: 17.782999999999998
+  altitude: 98.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 58.51
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.7
   iso: 200
-  width: 8148
-  height: 6089
+  width: 8038
+  height: 5910
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-14 16:29:31.000000000+02:00
+  time: 2022-05-14 16:07:43.000000000+02:00
 - image_filename: 2022_05_14__16_15_P5145723.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.720416666666665
@@ -469,24 +449,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 16:15:54.000000000+02:00
-- image_filename: 2022_05_14__16_40_P5145729.jpg
+- image_filename: 2022_05_14__16_29_P5145724.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
-  lat: 52.68645833333333
-  lon: 17.878069444444446
-  altitude: 96.0
-  focal_length: 18.0
-  focal_length_35: 36.0
+  lat: 52.69902777777777
+  lon: 17.836583333333333
+  altitude: 110.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 58.51
   iso: 200
-  width: 8150
-  height: 6073
+  width: 8148
+  height: 6089
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-14 16:40:00.000000000+02:00
+  time: 2022-05-14 16:29:31.000000000+02:00
 - image_filename: 2022_05_14__16_29_P5145725.jpg
   post_slug: 2022-05-14-okolice-welny-z-wiatrem
   lat: 52.69902777777777
@@ -505,3 +485,21 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-14 16:29:53.000000000+02:00
+- image_filename: 2022_05_14__16_40_P5145729.jpg
+  post_slug: 2022-05-14-okolice-welny-z-wiatrem
+  lat: 52.68645833333333
+  lon: 17.878069444444446
+  altitude: 96.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8150
+  height: 6073
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-14 16:40:00.000000000+02:00

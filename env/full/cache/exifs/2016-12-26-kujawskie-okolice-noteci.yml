@@ -1,17 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-12-26-kujawskie-okolice-noteci
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 1250
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-12-26 12:22:22+01:00
 - image_filename: IMGP0606raw1.jpg
   post_slug: 2016-12-26-kujawskie-okolice-noteci
   lat: 52.596111111111114
@@ -21,53 +8,11 @@
   focal_length_35: 37.0
   crop: 1.48
   aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-12-26 12:17:14+01:00
-- image_filename: IMGP0624raw1.jpg
-  post_slug: 2016-12-26-kujawskie-okolice-noteci
-  lat: 52.573750000000004
-  lon: 18.00883333333333
-  altitude: 77.0
-  focal_length: 90.0
-  focal_length_35: 135.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-12-26 12:35:37+01:00
-- image_filename: IMGP0647raw2.jpg
-  post_slug: 2016-12-26-kujawskie-okolice-noteci
-  lat: 52.55665277777778
-  lon: 17.99240277777778
-  altitude: 85.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 4.5
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-12-26 12:59:52+01:00
-- image_filename: IMGP0645raw1.jpg
-  post_slug: 2016-12-26-kujawskie-okolice-noteci
-  lat: 52.55690277777777
-  lon: 17.992430555555558
-  altitude: 86.0
-  focal_length: 75.0
-  focal_length_35: 112.0
-  crop: 1.4933333333333334
-  aperture: 5.6
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-12-26 12:59:39+01:00
+  time: 2016-12-26 12:17:14.000000000+01:00
 - image_filename: IMGP0615raw1.jpg
   post_slug: 2016-12-26-kujawskie-okolice-noteci
   lat: 52.574222222222225
@@ -77,8 +22,63 @@
   focal_length_35: 222.0
   crop: 1.5
   aperture: 7.1
-  iso: 640
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2016-12-26 12:28:50+01:00
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2016-12-26 12:28:50.000000000+01:00
+- image_filename: IMGP0624raw1.jpg
+  post_slug: 2016-12-26-kujawskie-okolice-noteci
+  lat: 52.573750000000004
+  lon: 18.00883333333333
+  altitude: 77.0
+  focal_length: 90.0
+  focal_length_35: 135.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-12-26 12:35:37.000000000+01:00
+- image_filename: IMGP0645raw1.jpg
+  post_slug: 2016-12-26-kujawskie-okolice-noteci
+  lat: 52.55690277777777
+  lon: 17.992430555555558
+  altitude: 86.0
+  focal_length: 75.0
+  focal_length_35: 112.0
+  crop: 1.4933333333333334
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-12-26 12:59:39.000000000+01:00
+- image_filename: IMGP0647raw2.jpg
+  post_slug: 2016-12-26-kujawskie-okolice-noteci
+  lat: 52.55665277777778
+  lon: 17.99240277777778
+  altitude: 85.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-12-26 12:59:52.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2016-12-26-kujawskie-okolice-noteci
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1250
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-12-26 12:22:22.000000000+01:00

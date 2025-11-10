@@ -1,382 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.529180555555556
-  lon: 17.299750000000003
-  altitude: 113.0
-  focal_length: 39.0
-  focal_length_35: 58.0
-  crop: 1.4871794871794872
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 10:44:40+02:00
-- image_filename: IMGP4821raw2.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.50293055555556
-  lon: 17.183333333333334
-  altitude: 116.0
-  focal_length: 28.0
-  focal_length_35: 42.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2017-04-22 09:35:33+02:00
-- image_filename: IMGP4829raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.512
-  lon: 17.209805555555555
-  altitude: 122.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 09:45:35+02:00
-- image_filename: IMGP4836raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.530055555555556
-  lon: 17.263527777777778
-  altitude: 108.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-22 10:13:16+02:00
-- image_filename: IMGP4853raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.53126388888889
-  lon: 17.26877777777778
-  altitude: 111.0
-  focal_length: 24.0
-  focal_length_35: 36.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-04-22 10:24:54+02:00
-- image_filename: IMGP4868raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.529222222222224
-  lon: 17.33251388888889
-  altitude: 115.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 11:02:11+02:00
-- image_filename: IMGP4875raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.550805555555556
-  lon: 17.36726388888889
-  altitude: 110.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 11:37:03+02:00
-- image_filename: IMGP4887raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.54148611111111
-  lon: 17.348888888888887
-  altitude: 107.0
-  focal_length: 24.0
-  focal_length_35: 36.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 12:30:38+02:00
-- image_filename: IMGP4879raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.552388888888885
-  lon: 17.360666666666667
-  altitude: 110.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-22 11:43:10+02:00
-- image_filename: IMGP4888raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.53848611111111
-  lon: 17.34636111111111
-  altitude: 103.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 12:32:32+02:00
-- image_filename: IMGP4908raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.513083333333334
-  lon: 17.377430555555556
-  altitude: 122.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-22 14:45:36+02:00
-- image_filename: IMGP4912raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.51351388888889
-  lon: 17.36766666666667
-  altitude: 123.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-04-22 14:51:57+02:00
-- image_filename: IMGP4930raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.494458333333334
-  lon: 17.165319444444442
-  altitude: 100.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-04-22 17:02:19+02:00
-- image_filename: IMGP4953raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.508541666666666
-  lon: 17.139083333333332
-  altitude: 102.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-22 17:29:10+02:00
-- image_filename: IMGP4828raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.51193055555556
-  lon: 17.209652777777777
-  altitude: 122.0
-  focal_length: 148.0
-  focal_length_35: 222.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-04-22 09:45:32+02:00
-- image_filename: IMGP4881raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.552388888888885
-  lon: 17.360680555555557
-  altitude: 110.0
-  focal_length: 39.0
-  focal_length_35: 58.0
-  crop: 1.4871794871794872
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-22 11:43:18+02:00
-- image_filename: IMGP4955raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.508625
-  lon: 17.138236111111112
-  altitude: 102.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 17:29:22+02:00
-- image_filename: IMGP4848raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.53023611111111
-  lon: 17.26952777777778
-  altitude: 110.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-04-22 10:19:43+02:00
-- image_filename: IMGP4849raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.53125
-  lon: 17.268430555555554
-  altitude: 111.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-22 10:20:36+02:00
-- image_filename: IMGP4933raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.50344444444445
-  lon: 17.161875
-  altitude: 112.0
-  focal_length: 105.0
-  focal_length_35: 157.0
-  crop: 1.4952380952380953
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-22 17:12:32+02:00
-- image_filename: IMGP4920raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.524125
-  lon: 17.307916666666667
-  altitude: 126.0
-  focal_length: 28.0
-  focal_length_35: 42.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-22 15:20:37+02:00
-- image_filename: IMGP4957raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.50877777777778
-  lon: 17.137680555555555
-  altitude: 101.0
-  focal_length: 105.0
-  focal_length_35: 157.0
-  crop: 1.4952380952380953
-  aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-22 17:29:31+02:00
-- image_filename: IMGP4843raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.53008333333333
-  lon: 17.26498611111111
-  altitude: 109.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-22 10:17:57+02:00
-- image_filename: IMGP4903raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.512569444444445
-  lon: 17.384180555555556
-  altitude: 122.0
-  focal_length: 53.0
-  focal_length_35: 79.0
-  crop: 1.490566037735849
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-22 14:43:33+02:00
-- image_filename: IMGP4867raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.528958333333335
-  lon: 17.331222222222223
-  altitude: 115.0
-  focal_length: 39.0
-  focal_length_35: 58.0
-  crop: 1.4871794871794872
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-04-22 11:01:43+02:00
-- image_filename: IMGP4941raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.507527777777774
-  lon: 17.148180555555555
-  altitude: 105.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 17:21:13+02:00
-- image_filename: IMGP4962raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.51145833333333
-  lon: 17.112236111111113
-  altitude: 100.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-04-22 17:40:54+02:00
 - image_filename: IMGP4816raw1.jpg
   post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
   lat: 51.50825
@@ -386,95 +8,25 @@
   focal_length_35: 79.0
   crop: 1.490566037735849
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2017-04-22 09:21:26+02:00
-- image_filename: IMGP4859raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.52890277777777
-  lon: 17.29929166666667
-  altitude: 113.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 10:44:32+02:00
-- image_filename: IMGP4909raw1.jpg
+  time: 2017-04-22 09:21:26.000000000+02:00
+- image_filename: IMGP4821raw2.jpg
   post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.51320833333333
-  lon: 17.376333333333335
-  altitude: 122.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 8.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-22 14:46:55+02:00
-- image_filename: IMGP4865raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.529513888888886
-  lon: 17.323888888888888
+  lat: 51.50293055555556
+  lon: 17.183333333333334
   altitude: 116.0
-  focal_length: 200.0
-  focal_length_35: 300.0
+  focal_length: 28.0
+  focal_length_35: 42.0
   crop: 1.5
   aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 10:53:59+02:00
-- image_filename: IMGP4937raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.50609722222222
-  lon: 17.153805555555554
-  altitude: 110.0
-  focal_length: 105.0
-  focal_length_35: 157.0
-  crop: 1.4952380952380953
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 17:15:04+02:00
-- image_filename: IMGP4840raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.530027777777775
-  lon: 17.263583333333333
-  altitude: 108.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-22 10:15:10+02:00
-- image_filename: IMGP4860raw1.jpg
-  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
-  lat: 51.528999999999996
-  lon: 17.299458333333334
-  altitude: 113.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-04-22 10:44:35+02:00
+  time: 2017-04-22 09:35:33.000000000+02:00
 - image_filename: IMGP4822raw1.jpg
   post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
   lat: 51.50698611111111
@@ -484,11 +36,123 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-04-22 09:42:39+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 09:42:39.000000000+02:00
+- image_filename: IMGP4828raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.51193055555556
+  lon: 17.209652777777777
+  altitude: 122.0
+  focal_length: 148.0
+  focal_length_35: 222.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 09:45:32.000000000+02:00
+- image_filename: IMGP4829raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.512
+  lon: 17.209805555555555
+  altitude: 122.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-04-22 09:45:35.000000000+02:00
+- image_filename: IMGP4836raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.530055555555556
+  lon: 17.263527777777778
+  altitude: 108.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:13:16.000000000+02:00
+- image_filename: IMGP4840raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.530027777777775
+  lon: 17.263583333333333
+  altitude: 108.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:15:10.000000000+02:00
+- image_filename: IMGP4843raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.53008333333333
+  lon: 17.26498611111111
+  altitude: 109.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:17:57.000000000+02:00
+- image_filename: IMGP4848raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.53023611111111
+  lon: 17.26952777777778
+  altitude: 110.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:19:43.000000000+02:00
+- image_filename: IMGP4849raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.53125
+  lon: 17.268430555555554
+  altitude: 111.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:20:36.000000000+02:00
+- image_filename: IMGP4853raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.53126388888889
+  lon: 17.26877777777778
+  altitude: 111.0
+  focal_length: 24.0
+  focal_length_35: 36.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:24:54.000000000+02:00
 - image_filename: IMGP4856raw1.jpg
   post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
   lat: 51.52815277777778
@@ -498,8 +162,344 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2017-04-22 10:42:41+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:42:41.000000000+02:00
+- image_filename: IMGP4859raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.52890277777777
+  lon: 17.29929166666667
+  altitude: 113.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:44:32.000000000+02:00
+- image_filename: IMGP4860raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.528999999999996
+  lon: 17.299458333333334
+  altitude: 113.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:44:35.000000000+02:00
+- image_filename: IMGP4865raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.529513888888886
+  lon: 17.323888888888888
+  altitude: 116.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:53:59.000000000+02:00
+- image_filename: IMGP4867raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.528958333333335
+  lon: 17.331222222222223
+  altitude: 115.0
+  focal_length: 39.0
+  focal_length_35: 58.0
+  crop: 1.4871794871794872
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 11:01:43.000000000+02:00
+- image_filename: IMGP4868raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.529222222222224
+  lon: 17.33251388888889
+  altitude: 115.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 11:02:11.000000000+02:00
+- image_filename: IMGP4875raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.550805555555556
+  lon: 17.36726388888889
+  altitude: 110.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 11:37:03.000000000+02:00
+- image_filename: IMGP4879raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.552388888888885
+  lon: 17.360666666666667
+  altitude: 110.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 11:43:10.000000000+02:00
+- image_filename: IMGP4881raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.552388888888885
+  lon: 17.360680555555557
+  altitude: 110.0
+  focal_length: 39.0
+  focal_length_35: 58.0
+  crop: 1.4871794871794872
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 11:43:18.000000000+02:00
+- image_filename: IMGP4887raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.54148611111111
+  lon: 17.348888888888887
+  altitude: 107.0
+  focal_length: 24.0
+  focal_length_35: 36.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 12:30:38.000000000+02:00
+- image_filename: IMGP4888raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.53848611111111
+  lon: 17.34636111111111
+  altitude: 103.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-04-22 12:32:32.000000000+02:00
+- image_filename: IMGP4903raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.512569444444445
+  lon: 17.384180555555556
+  altitude: 122.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-04-22 14:43:33.000000000+02:00
+- image_filename: IMGP4908raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.513083333333334
+  lon: 17.377430555555556
+  altitude: 122.0
+  focal_length: 53.0
+  focal_length_35: 79.0
+  crop: 1.490566037735849
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-22 14:45:36.000000000+02:00
+- image_filename: IMGP4909raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.51320833333333
+  lon: 17.376333333333335
+  altitude: 122.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-04-22 14:46:55.000000000+02:00
+- image_filename: IMGP4912raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.51351388888889
+  lon: 17.36766666666667
+  altitude: 123.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 14:51:57.000000000+02:00
+- image_filename: IMGP4920raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.524125
+  lon: 17.307916666666667
+  altitude: 126.0
+  focal_length: 28.0
+  focal_length_35: 42.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 15:20:37.000000000+02:00
+- image_filename: IMGP4930raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.494458333333334
+  lon: 17.165319444444442
+  altitude: 100.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-22 17:02:19.000000000+02:00
+- image_filename: IMGP4933raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.50344444444445
+  lon: 17.161875
+  altitude: 112.0
+  focal_length: 105.0
+  focal_length_35: 157.0
+  crop: 1.4952380952380953
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2017-04-22 17:12:32.000000000+02:00
+- image_filename: IMGP4937raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.50609722222222
+  lon: 17.153805555555554
+  altitude: 110.0
+  focal_length: 105.0
+  focal_length_35: 157.0
+  crop: 1.4952380952380953
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-04-22 17:15:04.000000000+02:00
+- image_filename: IMGP4941raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.507527777777774
+  lon: 17.148180555555555
+  altitude: 105.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2017-04-22 17:21:13.000000000+02:00
+- image_filename: IMGP4953raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.508541666666666
+  lon: 17.139083333333332
+  altitude: 102.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2017-04-22 17:29:10.000000000+02:00
+- image_filename: IMGP4955raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.508625
+  lon: 17.138236111111112
+  altitude: 102.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-04-22 17:29:22.000000000+02:00
+- image_filename: IMGP4957raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.50877777777778
+  lon: 17.137680555555555
+  altitude: 101.0
+  focal_length: 105.0
+  focal_length_35: 157.0
+  crop: 1.4952380952380953
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-04-22 17:29:31.000000000+02:00
+- image_filename: IMGP4962raw1.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.51145833333333
+  lon: 17.112236111111113
+  altitude: 100.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 17:40:54.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-04-22-przez-punkty-widokowe-na-wschod-od-milicza
+  lat: 51.529180555555556
+  lon: 17.299750000000003
+  altitude: 113.0
+  focal_length: 39.0
+  focal_length_35: 58.0
+  crop: 1.4871794871794872
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-04-22 10:44:40.000000000+02:00

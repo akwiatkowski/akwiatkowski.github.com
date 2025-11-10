@@ -1,706 +1,4 @@
 ---
-- image_filename: 2019_03_30__17_07__3300536.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34265277777778
-  lon: 16.43126388888889
-  altitude: 76.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-30 17:07:01+01:00
-  focus_distance: 0.58
-- image_filename: 2019_03_30__15_00__3300049.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.309888888888885
-  lon: 16.400791666666667
-  altitude: 65.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-03-30 15:00:04+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__15_01__3300053.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.309805555555556
-  lon: 16.40211111111111
-  altitude: 69.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2019-03-30 15:01:36+01:00
-  focus_distance: 2.61
-- image_filename: 2019_03_30__15_06__3300065.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31093055555555
-  lon: 16.405694444444443
-  altitude: 91.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 15:06:14+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__15_13__3300136.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404277777777775
-  altitude: 86.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4370
-  height: 3244
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 15:13:39+01:00
-  focus_distance: 0.35
-- image_filename: 2019_03_30__15_14__3300162.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404249999999998
-  altitude: 86.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4812
-  height: 3544
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 15:14:04+01:00
-  focus_distance: 0.29
-- image_filename: 2019_03_30__15_16__3300239.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31254166666666
-  lon: 16.404083333333332
-  altitude: 87.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4519
-  height: 3300
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-03-30 15:16:54+01:00
-  focus_distance: 0.4
-- image_filename: 2019_03_30__15_22__3300275.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.314027777777774
-  lon: 16.403763888888886
-  altitude: 85.0
-  focal_length: 156.0
-  focal_length_35: 312.0
-  crop: 2.0
-  aperture: 5.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 15:22:04+01:00
-  focus_distance: 3.04
-- image_filename: 2019_03_30__15_24__3300279.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31556944444444
-  lon: 16.40370833333333
-  altitude: 84.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-03-30 15:24:55+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__15_41__3300299.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.32518055555556
-  lon: 16.400680555555553
-  altitude: 82.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 15:41:59+01:00
-  focus_distance: 13.05
-- image_filename: 2019_03_30__15_55__3300335.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.325125
-  lon: 16.410513888888886
-  altitude: 76.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 15:55:02+01:00
-  focus_distance: 8.96
-- image_filename: 2019_03_30__15_56__3300345.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.325208333333336
-  lon: 16.410527777777776
-  altitude: 77.0
-  focal_length: 281.0
-  focal_length_35: 562.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5019
-  height: 3850
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 15:56:01+01:00
-  focus_distance: 34.45
-- image_filename: 2019_03_30__15_58__3300356.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.325097222222226
-  lon: 16.410916666666665
-  altitude: 76.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 15:58:05+01:00
-  focus_distance: 61.13
-- image_filename: 2019_03_30__16_00__3300364.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.32579166666667
-  lon: 16.412055555555554
-  altitude: 77.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5116
-  height: 3819
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 16:00:20+01:00
-  focus_distance: 9.68
-- image_filename: 2019_03_30__16_04__3300376.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.32726388888889
-  lon: 16.412805555555554
-  altitude: 75.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-30 16:04:20+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__16_46__3300405.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.340333333333334
-  lon: 16.421680555555557
-  altitude: 77.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-30 16:46:01+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__16_54__3300423.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.341625
-  lon: 16.427555555555557
-  altitude: 76.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 16:54:44+01:00
-  focus_distance: 0.14
-- image_filename: 2019_03_30__16_56__3300430.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.341625
-  lon: 16.42751388888889
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-30 16:56:15+01:00
-  focus_distance: 0.75
-- image_filename: 2019_03_30__16_59__3300450.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.342111111111116
-  lon: 16.429277777777777
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 400
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-03-30 16:59:50+01:00
-  focus_distance: 0.64
-- image_filename: 2019_03_30__17_01__3300469.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34209722222222
-  lon: 16.429291666666668
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 17:01:04+01:00
-  focus_distance: 0.26
-- image_filename: 2019_03_30__17_05__3300510.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34265277777778
-  lon: 16.431250000000002
-  altitude: 76.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-30 17:05:25+01:00
-  focus_distance: 0.43
-- image_filename: 2019_03_30__17_06__3300532.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.342666666666666
-  lon: 16.431319444444444
-  altitude: 76.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 17:06:48+01:00
-  focus_distance: 0.5
-- image_filename: 2019_03_30__17_15__3300583.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.344375
-  lon: 16.436833333333333
-  altitude: 75.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-30 17:15:44+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__17_36__3300602.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34668055555556
-  lon: 16.455458333333333
-  altitude: 76.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-03-30 17:36:35+01:00
-  focus_distance: 6.25
-- image_filename: 2019_03_30__17_37__3300613.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34659722222222
-  lon: 16.455388888888887
-  altitude: 75.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5171
-  height: 3820
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 17:37:35+01:00
-  focus_distance: 13.21
-- image_filename: 2019_03_30__17_54__3300633.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.33513888888889
-  lon: 16.45734722222222
-  altitude: 75.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5122
-  height: 3824
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-30 17:54:14+01:00
-  focus_distance: 95.25
-- image_filename: 2019_03_30__17_58__3300658.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.33244444444445
-  lon: 16.460069444444443
-  altitude: 76.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5157
-  height: 3801
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-03-30 17:58:49+01:00
-  focus_distance: 19.72
-- image_filename: 2019_03_30__17_48__3300620.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.338944444444444
-  lon: 16.456611111111112
-  altitude: 78.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5112
-  height: 3817
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 17:48:27+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__15_14__3300169.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404263888888888
-  altitude: 85.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-30 15:14:22+01:00
-  focus_distance: 0.44
-- image_filename: 2019_03_30__16_31__3300402.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34052777777778
-  lon: 16.412527777777775
-  altitude: 78.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4904
-  height: 3661
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-03-30 16:31:44+01:00
-  focus_distance: 63.5
-- image_filename: 2019_03_30__16_56__3300434.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.341638888888895
-  lon: 16.427680555555558
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-03-30 16:56:31+01:00
-  focus_distance: 0.76
-- image_filename: 2019_03_30__17_18__3300589.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.345305555555555
-  lon: 16.439055555555555
-  altitude: 75.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-03-30 17:18:35+01:00
-  focus_distance: 0.12
-- image_filename: 2019_03_30__16_57__3300440.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.341722222222224
-  lon: 16.42802777777778
-  altitude: 78.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-03-30 16:57:11+01:00
-  focus_distance: 0.27
-- image_filename: 2019_03_30__17_56__3300643.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.33390277777778
-  lon: 16.458875
-  altitude: 76.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-03-30 17:56:22+01:00
-  focus_distance: 22.88
-- image_filename: 2019_03_30__15_11__3300086.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31238888888888
-  lon: 16.404208333333333
-  altitude: 87.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 400
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 15:11:33+01:00
-  focus_distance: 0.3
-- image_filename: 2019_03_30__16_52__3300419.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.341236111111115
-  lon: 16.42615277777778
-  altitude: 77.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 1.8
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-03-30 16:52:16+01:00
-  focus_distance: 0.14
-- image_filename: 2019_03_30__17_54__3300636.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.33501388888889
-  lon: 16.457555555555555
-  altitude: 75.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-30 17:54:26+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__17_09__3300558.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34298611111112
-  lon: 16.43251388888889
-  altitude: 75.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-03-30 17:09:36+01:00
-  focus_distance: 0.72
-- image_filename: 2019_03_30__15_17__3300257.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.312555555555555
-  lon: 16.404069444444442
-  altitude: 87.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5079
-  height: 3398
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-03-30 15:17:14+01:00
-  focus_distance: 0.47
 - image_filename: 2019_03_30__15_00__3300048.jpg
   post_slug: 2019-03-30-okolice-opalenicy
   lat: 52.309875
@@ -710,33 +8,51 @@
   focal_length_35: 16.0
   crop: 2.0
   aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2019-03-30 15:00:00+01:00
   focus_distance: 1000.0
-- image_filename: 2019_03_30__17_00__3300465.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34209722222222
-  lon: 16.429291666666668
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
   iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
   camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-30 17:00:47+01:00
-  focus_distance: 0.34
+  time: 2019-03-30 15:00:00.000000000+01:00
+- image_filename: 2019_03_30__15_00__3300049.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.309888888888885
+  lon: 16.400791666666667
+  altitude: 65.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 15:00:04.000000000+01:00
+- image_filename: 2019_03_30__15_01__3300053.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.309805555555556
+  lon: 16.40211111111111
+  altitude: 69.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 2.61
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 15:01:36.000000000+01:00
 - image_filename: 2019_03_30__15_04__3300055.jpg
   post_slug: 2019-03-30-okolice-opalenicy
   lat: 52.31034722222222
@@ -746,267 +62,51 @@
   focal_length_35: 16.0
   crop: 2.0
   aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
   iso: 200
+  width: 5240
+  height: 3912
   lens: OLYMPUS M.8mm F1.8
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 15:04:20+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__15_59__3300363.jpg
+  time: 2019-03-30 15:04:20.000000000+01:00
+- image_filename: 2019_03_30__15_06__3300065.jpg
   post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.325750000000006
-  lon: 16.412041666666664
-  altitude: 77.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-03-30 15:59:59+01:00
-  focus_distance: 24.09
-- image_filename: 2019_03_30__15_13__3300153.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404249999999998
-  altitude: 86.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-03-30 15:13:52+01:00
-  focus_distance: 0.58
-- image_filename: 2019_03_30__15_17__3300254.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.312555555555555
-  lon: 16.404069444444442
-  altitude: 87.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5052
-  height: 3802
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-03-30 15:17:13+01:00
-  focus_distance: 0.47
-- image_filename: 2019_03_30__17_03__3300504.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34240277777778
-  lon: 16.430375
-  altitude: 76.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-03-30 17:03:29+01:00
-  focus_distance: 0.26
-- image_filename: 2019_03_30__15_16__3300230.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.312416666666664
-  lon: 16.40423611111111
-  altitude: 84.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4910
-  height: 3488
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-03-30 15:16:23+01:00
-  focus_distance: 0.44
-- image_filename: 2019_03_30__17_00__3300460.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34209722222222
-  lon: 16.42930555555556
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-30 17:00:34+01:00
-  focus_distance: 0.39
-- image_filename: 2019_03_30__15_14__3300181.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404263888888888
-  altitude: 85.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-03-30 15:14:33+01:00
-  focus_distance: 0.51
-- image_filename: 2019_03_30__17_00__3300466.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34209722222222
-  lon: 16.429291666666668
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 17:00:50+01:00
-  focus_distance: 0.29
-- image_filename: 2019_03_30__15_20__3300265.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31341666666666
-  lon: 16.403847222222222
-  altitude: 86.0
-  focal_length: 156.0
-  focal_length_35: 312.0
-  crop: 2.0
-  aperture: 5.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 15:20:35+01:00
-  focus_distance: 2.99
-- image_filename: 2019_03_30__18_10__3300675.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.327111111111115
-  lon: 16.467055555555554
-  altitude: 77.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5178
-  height: 3828
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-03-30 18:10:24+01:00
-  focus_distance: 53.9
-- image_filename: 2019_03_30__15_17__3300246.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31254166666666
-  lon: 16.404083333333332
-  altitude: 87.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 1000
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4918
-  height: 3725
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-03-30 15:17:01+01:00
-  focus_distance: 0.7
-- image_filename: 2019_03_30__17_02__3300489.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34220833333334
-  lon: 16.429625
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 17:02:06+01:00
-  focus_distance: 0.56
-- image_filename: 2019_03_30__17_10__3300561.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.343111111111114
-  lon: 16.432972222222222
-  altitude: 75.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-30 17:10:07+01:00
-  focus_distance: 0.56
-- image_filename: 2019_03_30__17_14__3300577.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34395833333333
-  lon: 16.435819444444444
-  altitude: 75.0
+  lat: 52.31093055555555
+  lon: 16.405694444444443
+  altitude: 91.0
   focal_length: 8.0
   focal_length_35: 16.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
   iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
   width: 5240
   height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 15:06:14.000000000+01:00
+- image_filename: 2019_03_30__15_11__3300086.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31238888888888
+  lon: 16.404208333333333
+  altitude: 87.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-03-30 17:14:41+01:00
-  focus_distance: 2.75
+  focus_distance: 0.3
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:11:33.000000000+01:00
 - image_filename: 2019_03_30__15_12__3300104.jpg
   post_slug: 2019-03-30-okolice-opalenicy
   lat: 52.31238888888888
@@ -1016,483 +116,15 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.29
   iso: 400
+  width: 5240
+  height: 3912
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 15:12:26+01:00
-  focus_distance: 0.29
-- image_filename: 2019_03_30__15_42__3300304.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.325208333333336
-  lon: 16.400680555555553
-  altitude: 82.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-30 15:42:07+01:00
-  focus_distance: 13.17
-- image_filename: 2019_03_30__15_13__3300150.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404263888888888
-  altitude: 86.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-03-30 15:13:51+01:00
-  focus_distance: 0.58
-- image_filename: 2019_03_30__18_10__3300670.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.32705555555556
-  lon: 16.466777777777775
-  altitude: 77.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5129
-  height: 3829
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 18:10:07+01:00
-  focus_distance: 207.39
-- image_filename: 2019_03_30__16_04__3300374.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.32720833333334
-  lon: 16.412791666666664
-  altitude: 75.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 16:04:04+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__17_08__3300550.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34279166666667
-  lon: 16.431819444444447
-  altitude: 75.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-03-30 17:08:14+01:00
-  focus_distance: 3.69
-- image_filename: 2019_03_30__15_13__3300139.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404277777777775
-  altitude: 86.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4243
-  height: 3295
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 15:13:42+01:00
-  focus_distance: 0.31
-- image_filename: 2019_03_30__18_03__3300666.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.33204166666667
-  lon: 16.46597222222222
-  altitude: 77.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5060
-  height: 3658
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2019-03-30 18:03:09+01:00
-  focus_distance: 11.02
-- image_filename: 2019_03_30__17_56__3300645.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.333486111111114
-  lon: 16.459055555555555
-  altitude: 76.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-03-30 17:56:56+01:00
-  focus_distance: 4.7
-- image_filename: 2019_03_30__15_13__3300137.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404277777777775
-  altitude: 86.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 15:13:40+01:00
-  focus_distance: 0.35
-- image_filename: 2019_03_30__17_29__3300598.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34886111111111
-  lon: 16.450694444444444
-  altitude: 75.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 17:29:07+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__15_13__3300149.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404263888888888
-  altitude: 86.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-03-30 15:13:51+01:00
-  focus_distance: 0.58
-- image_filename: 2019_03_30__17_06__3300529.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.342666666666666
-  lon: 16.43134722222222
-  altitude: 76.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 17:06:34+01:00
-  focus_distance: 0.73
-- image_filename: 2019_03_30__15_13__3300134.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404277777777775
-  altitude: 86.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 15:13:38+01:00
-  focus_distance: 0.35
-- image_filename: 2019_03_30__17_13__3300570.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.343722222222226
-  lon: 16.43526388888889
-  altitude: 75.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 17:13:44+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__15_14__3300157.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404249999999998
-  altitude: 86.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-30 15:14:01+01:00
-  focus_distance: 0.29
-- image_filename: 2019_03_30__17_07__3300548.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34269444444445
-  lon: 16.431416666666667
-  altitude: 75.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 320
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-03-30 17:07:54+01:00
-  focus_distance: 0.2
-- image_filename: 2019_03_30__17_02__3300492.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34220833333334
-  lon: 16.429625
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-03-30 17:02:12+01:00
-  focus_distance: 0.29
-- image_filename: 2019_03_30__15_55__3300338.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.325138888888894
-  lon: 16.4105
-  altitude: 75.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 15:55:24+01:00
-  focus_distance: 32.51
-- image_filename: 2019_03_30__15_48__3300315.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.32570833333334
-  lon: 16.40608333333333
-  altitude: 79.0
-  focal_length: 109.0
-  focal_length_35: 218.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 15:48:40+01:00
-  focus_distance: 55.01
-- image_filename: 2019_03_30__17_53__3300631.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.3355
-  lon: 16.457194444444443
-  altitude: 75.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-03-30 17:53:46+01:00
-  focus_distance: 128.0
-- image_filename: 2019_03_30__15_14__3300176.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.31243055555555
-  lon: 16.404263888888888
-  altitude: 85.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5004
-  height: 3691
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 15:14:29+01:00
-  focus_distance: 0.54
-- image_filename: 2019_03_30__17_36__3300605.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34668055555556
-  lon: 16.455430555555555
-  altitude: 76.0
-  focal_length: 125.0
-  focal_length_35: 250.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 3436
-  height: 4982
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-03-30 17:36:44+01:00
-  focus_distance: 2.71
-- image_filename: 2019_03_30__17_12__3300566.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34363888888889
-  lon: 16.434847222222224
-  altitude: 75.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 3820
-  height: 5012
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-03-30 17:12:52+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_30__17_01__3300471.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.342111111111116
-  lon: 16.429277777777777
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-30 17:01:08+01:00
-  focus_distance: 0.24
-- image_filename: 2019_03_30__16_05__3300379.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.327847222222225
-  lon: 16.412652777777776
-  altitude: 76.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-03-30 16:05:08+01:00
-  focus_distance: 0.99
-- image_filename: 2019_03_30__17_57__3300650.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.33301388888889
-  lon: 16.459291666666665
-  altitude: 75.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5143
-  height: 3894
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-03-30 17:57:47+01:00
-  focus_distance: 46.41
+  time: 2019-03-30 15:12:26.000000000+01:00
 - image_filename: 2019_03_30__15_13__3300133.jpg
   post_slug: 2019-03-30-okolice-opalenicy
   lat: 52.31243055555555
@@ -1502,69 +134,339 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
-  iso: 800
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 4086
-  height: 3098
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2019-03-30 15:13:38+01:00
   focus_distance: 0.35
-- image_filename: 2019_03_30__17_08__3300554.jpg
+  iso: 800
+  width: 4086
+  height: 3098
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:13:38.000000000+01:00
+- image_filename: 2019_03_30__15_13__3300134.jpg
   post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.342930555555554
-  lon: 16.432291666666668
-  altitude: 75.0
+  lat: 52.31243055555555
+  lon: 16.404277777777775
+  altitude: 86.0
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5148
-  height: 3769
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-03-30 17:08:38+01:00
-  focus_distance: 0.99
-- image_filename: 2019_03_30__15_57__3300353.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.325097222222226
-  lon: 16.410874999999997
-  altitude: 76.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkII
-  width: 4324
-  height: 3228
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-03-30 15:57:36+01:00
-  focus_distance: 22.14
-- image_filename: 2019_03_30__17_00__3300455.jpg
-  post_slug: 2019-03-30-okolice-opalenicy
-  lat: 52.34209722222222
-  lon: 16.429291666666668
-  altitude: 77.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.35
+  iso: 800
   width: 5240
   height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-30 17:00:22+01:00
-  focus_distance: 0.43
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:13:38.000000000+01:00
+- image_filename: 2019_03_30__15_13__3300136.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404277777777775
+  altitude: 86.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.35
+  iso: 800
+  width: 4370
+  height: 3244
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:13:39.000000000+01:00
+- image_filename: 2019_03_30__15_13__3300137.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404277777777775
+  altitude: 86.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.35
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:13:40.000000000+01:00
+- image_filename: 2019_03_30__15_13__3300139.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404277777777775
+  altitude: 86.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.31
+  iso: 800
+  width: 4243
+  height: 3295
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:13:42.000000000+01:00
+- image_filename: 2019_03_30__15_13__3300149.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404263888888888
+  altitude: 86.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 0.58
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:13:51.000000000+01:00
+- image_filename: 2019_03_30__15_13__3300150.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404263888888888
+  altitude: 86.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 0.58
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:13:51.000000000+01:00
+- image_filename: 2019_03_30__15_13__3300153.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404249999999998
+  altitude: 86.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 0.58
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:13:52.000000000+01:00
+- image_filename: 2019_03_30__15_14__3300157.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404249999999998
+  altitude: 86.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.29
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:14:01.000000000+01:00
+- image_filename: 2019_03_30__15_14__3300162.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404249999999998
+  altitude: 86.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.29
+  iso: 800
+  width: 4812
+  height: 3544
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:14:04.000000000+01:00
+- image_filename: 2019_03_30__15_14__3300169.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404263888888888
+  altitude: 85.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.44
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:14:22.000000000+01:00
+- image_filename: 2019_03_30__15_14__3300176.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404263888888888
+  altitude: 85.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.54
+  iso: 800
+  width: 5004
+  height: 3691
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:14:29.000000000+01:00
+- image_filename: 2019_03_30__15_14__3300181.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31243055555555
+  lon: 16.404263888888888
+  altitude: 85.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 0.51
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:14:33.000000000+01:00
+- image_filename: 2019_03_30__15_16__3300230.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.312416666666664
+  lon: 16.40423611111111
+  altitude: 84.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 0.44
+  iso: 1000
+  width: 4910
+  height: 3488
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:16:23.000000000+01:00
+- image_filename: 2019_03_30__15_16__3300239.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31254166666666
+  lon: 16.404083333333332
+  altitude: 87.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 0.4
+  iso: 1000
+  width: 4519
+  height: 3300
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:16:54.000000000+01:00
+- image_filename: 2019_03_30__15_17__3300246.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31254166666666
+  lon: 16.404083333333332
+  altitude: 87.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 0.7
+  iso: 1000
+  width: 4918
+  height: 3725
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:17:01.000000000+01:00
+- image_filename: 2019_03_30__15_17__3300254.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.312555555555555
+  lon: 16.404069444444442
+  altitude: 87.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 0.47
+  iso: 1000
+  width: 5052
+  height: 3802
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:17:13.000000000+01:00
+- image_filename: 2019_03_30__15_17__3300257.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.312555555555555
+  lon: 16.404069444444442
+  altitude: 87.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 0.47
+  iso: 1000
+  width: 5079
+  height: 3398
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 15:17:14.000000000+01:00
+- image_filename: 2019_03_30__15_20__3300265.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31341666666666
+  lon: 16.403847222222222
+  altitude: 86.0
+  focal_length: 156.0
+  focal_length_35: 312.0
+  crop: 2.0
+  aperture: 5.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 2.99
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-03-30 15:20:35.000000000+01:00
 - image_filename: 2019_03_30__15_21__3300273.jpg
   post_slug: 2019-03-30-okolice-opalenicy
   lat: 52.31397222222222
@@ -1574,15 +476,51 @@
   focal_length_35: 312.0
   crop: 2.0
   aperture: 5.7
-  iso: 200
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2019-03-30 15:21:59+01:00
   focus_distance: 2.89
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-03-30 15:21:59.000000000+01:00
+- image_filename: 2019_03_30__15_22__3300275.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.314027777777774
+  lon: 16.403763888888886
+  altitude: 85.0
+  focal_length: 156.0
+  focal_length_35: 312.0
+  crop: 2.0
+  aperture: 5.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 3.04
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-03-30 15:22:04.000000000+01:00
+- image_filename: 2019_03_30__15_24__3300279.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.31556944444444
+  lon: 16.40370833333333
+  altitude: 84.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 15:24:55.000000000+01:00
 - image_filename: 2019_03_30__15_26__3300285.jpg
   post_slug: 2019-03-30-okolice-opalenicy
   lat: 52.31680555555556
@@ -1592,12 +530,1074 @@
   focal_length_35: 16.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2019-03-30 15:26:41+01:00
   focus_distance: 4.97
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 15:26:41.000000000+01:00
+- image_filename: 2019_03_30__15_41__3300299.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.32518055555556
+  lon: 16.400680555555553
+  altitude: 82.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 13.05
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-03-30 15:41:59.000000000+01:00
+- image_filename: 2019_03_30__15_42__3300304.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.325208333333336
+  lon: 16.400680555555553
+  altitude: 82.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 13.17
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-03-30 15:42:07.000000000+01:00
+- image_filename: 2019_03_30__15_48__3300315.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.32570833333334
+  lon: 16.40608333333333
+  altitude: 79.0
+  focal_length: 109.0
+  focal_length_35: 218.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 55.01
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-03-30 15:48:40.000000000+01:00
+- image_filename: 2019_03_30__15_55__3300335.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.325125
+  lon: 16.410513888888886
+  altitude: 76.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 8.96
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-03-30 15:55:02.000000000+01:00
+- image_filename: 2019_03_30__15_55__3300338.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.325138888888894
+  lon: 16.4105
+  altitude: 75.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 32.51
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-03-30 15:55:24.000000000+01:00
+- image_filename: 2019_03_30__15_56__3300345.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.325208333333336
+  lon: 16.410527777777776
+  altitude: 77.0
+  focal_length: 281.0
+  focal_length_35: 562.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 34.45
+  iso: 200
+  width: 5019
+  height: 3850
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  time: 2019-03-30 15:56:01.000000000+01:00
+- image_filename: 2019_03_30__15_57__3300353.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.325097222222226
+  lon: 16.410874999999997
+  altitude: 76.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 22.14
+  iso: 200
+  width: 4324
+  height: 3228
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-30 15:57:36.000000000+01:00
+- image_filename: 2019_03_30__15_58__3300356.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.325097222222226
+  lon: 16.410916666666665
+  altitude: 76.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 61.13
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-30 15:58:05.000000000+01:00
+- image_filename: 2019_03_30__15_59__3300363.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.325750000000006
+  lon: 16.412041666666664
+  altitude: 77.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 24.09
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-30 15:59:59.000000000+01:00
+- image_filename: 2019_03_30__16_00__3300364.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.32579166666667
+  lon: 16.412055555555554
+  altitude: 77.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 9.68
+  iso: 200
+  width: 5116
+  height: 3819
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-30 16:00:20.000000000+01:00
+- image_filename: 2019_03_30__16_04__3300374.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.32720833333334
+  lon: 16.412791666666664
+  altitude: 75.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 16:04:04.000000000+01:00
+- image_filename: 2019_03_30__16_04__3300376.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.32726388888889
+  lon: 16.412805555555554
+  altitude: 75.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 16:04:20.000000000+01:00
+- image_filename: 2019_03_30__16_05__3300379.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.327847222222225
+  lon: 16.412652777777776
+  altitude: 76.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.99
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 16:05:08.000000000+01:00
+- image_filename: 2019_03_30__16_31__3300402.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34052777777778
+  lon: 16.412527777777775
+  altitude: 78.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 63.5
+  iso: 200
+  width: 4904
+  height: 3661
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 16:31:44.000000000+01:00
+- image_filename: 2019_03_30__16_46__3300405.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.340333333333334
+  lon: 16.421680555555557
+  altitude: 77.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 16:46:01.000000000+01:00
+- image_filename: 2019_03_30__16_52__3300419.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.341236111111115
+  lon: 16.42615277777778
+  altitude: 77.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 0.14
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 16:52:16.000000000+01:00
+- image_filename: 2019_03_30__16_54__3300423.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.341625
+  lon: 16.427555555555557
+  altitude: 76.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.14
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 16:54:44.000000000+01:00
+- image_filename: 2019_03_30__16_56__3300430.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.341625
+  lon: 16.42751388888889
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.75
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 16:56:15.000000000+01:00
+- image_filename: 2019_03_30__16_56__3300434.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.341638888888895
+  lon: 16.427680555555558
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.76
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 16:56:31.000000000+01:00
+- image_filename: 2019_03_30__16_57__3300440.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.341722222222224
+  lon: 16.42802777777778
+  altitude: 78.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.27
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 16:57:11.000000000+01:00
+- image_filename: 2019_03_30__16_59__3300450.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.342111111111116
+  lon: 16.429277777777777
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.64
+  iso: 400
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 16:59:50.000000000+01:00
+- image_filename: 2019_03_30__17_00__3300455.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34209722222222
+  lon: 16.429291666666668
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.43
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:00:22.000000000+01:00
+- image_filename: 2019_03_30__17_00__3300460.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34209722222222
+  lon: 16.42930555555556
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.39
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:00:34.000000000+01:00
+- image_filename: 2019_03_30__17_00__3300465.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34209722222222
+  lon: 16.429291666666668
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.34
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:00:47.000000000+01:00
+- image_filename: 2019_03_30__17_00__3300466.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34209722222222
+  lon: 16.429291666666668
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.29
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:00:50.000000000+01:00
+- image_filename: 2019_03_30__17_01__3300469.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34209722222222
+  lon: 16.429291666666668
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.26
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:01:04.000000000+01:00
+- image_filename: 2019_03_30__17_01__3300471.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.342111111111116
+  lon: 16.429277777777777
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.24
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:01:08.000000000+01:00
+- image_filename: 2019_03_30__17_02__3300489.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34220833333334
+  lon: 16.429625
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.56
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:02:06.000000000+01:00
+- image_filename: 2019_03_30__17_02__3300492.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34220833333334
+  lon: 16.429625
+  altitude: 77.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.29
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:02:12.000000000+01:00
+- image_filename: 2019_03_30__17_03__3300504.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34240277777778
+  lon: 16.430375
+  altitude: 76.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.26
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:03:29.000000000+01:00
+- image_filename: 2019_03_30__17_05__3300510.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34265277777778
+  lon: 16.431250000000002
+  altitude: 76.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.43
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:05:25.000000000+01:00
+- image_filename: 2019_03_30__17_06__3300529.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.342666666666666
+  lon: 16.43134722222222
+  altitude: 76.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.73
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:06:34.000000000+01:00
+- image_filename: 2019_03_30__17_06__3300532.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.342666666666666
+  lon: 16.431319444444444
+  altitude: 76.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.5
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:06:48.000000000+01:00
+- image_filename: 2019_03_30__17_07__3300536.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34265277777778
+  lon: 16.43126388888889
+  altitude: 76.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.58
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:07:01.000000000+01:00
+- image_filename: 2019_03_30__17_07__3300548.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34269444444445
+  lon: 16.431416666666667
+  altitude: 75.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.2
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:07:54.000000000+01:00
+- image_filename: 2019_03_30__17_08__3300550.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34279166666667
+  lon: 16.431819444444447
+  altitude: 75.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 3.69
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:08:14.000000000+01:00
+- image_filename: 2019_03_30__17_08__3300554.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.342930555555554
+  lon: 16.432291666666668
+  altitude: 75.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.99
+  iso: 200
+  width: 5148
+  height: 3769
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:08:38.000000000+01:00
+- image_filename: 2019_03_30__17_09__3300558.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34298611111112
+  lon: 16.43251388888889
+  altitude: 75.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.72
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:09:36.000000000+01:00
+- image_filename: 2019_03_30__17_10__3300561.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.343111111111114
+  lon: 16.432972222222222
+  altitude: 75.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.56
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2019-03-30 17:10:07.000000000+01:00
+- image_filename: 2019_03_30__17_12__3300566.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34363888888889
+  lon: 16.434847222222224
+  altitude: 75.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3820
+  height: 5012
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 17:12:52.000000000+01:00
+- image_filename: 2019_03_30__17_13__3300570.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.343722222222226
+  lon: 16.43526388888889
+  altitude: 75.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 17:13:44.000000000+01:00
+- image_filename: 2019_03_30__17_14__3300577.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34395833333333
+  lon: 16.435819444444444
+  altitude: 75.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.75
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 17:14:41.000000000+01:00
+- image_filename: 2019_03_30__17_15__3300583.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.344375
+  lon: 16.436833333333333
+  altitude: 75.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 17:15:44.000000000+01:00
+- image_filename: 2019_03_30__17_18__3300589.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.345305555555555
+  lon: 16.439055555555555
+  altitude: 75.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 0.12
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 17:18:35.000000000+01:00
+- image_filename: 2019_03_30__17_29__3300598.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34886111111111
+  lon: 16.450694444444444
+  altitude: 75.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  time: 2019-03-30 17:29:07.000000000+01:00
+- image_filename: 2019_03_30__17_36__3300602.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34668055555556
+  lon: 16.455458333333333
+  altitude: 76.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.25
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-30 17:36:35.000000000+01:00
+- image_filename: 2019_03_30__17_36__3300605.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34668055555556
+  lon: 16.455430555555555
+  altitude: 76.0
+  focal_length: 125.0
+  focal_length_35: 250.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.71
+  iso: 200
+  width: 3436
+  height: 4982
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-30 17:36:44.000000000+01:00
+- image_filename: 2019_03_30__17_37__3300613.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.34659722222222
+  lon: 16.455388888888887
+  altitude: 75.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 13.21
+  iso: 200
+  width: 5171
+  height: 3820
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  time: 2019-03-30 17:37:35.000000000+01:00
+- image_filename: 2019_03_30__17_48__3300620.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.338944444444444
+  lon: 16.456611111111112
+  altitude: 78.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5112
+  height: 3817
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 17:48:27.000000000+01:00
+- image_filename: 2019_03_30__17_53__3300631.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.3355
+  lon: 16.457194444444443
+  altitude: 75.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 128.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 17:53:46.000000000+01:00
+- image_filename: 2019_03_30__17_54__3300633.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.33513888888889
+  lon: 16.45734722222222
+  altitude: 75.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 95.25
+  iso: 200
+  width: 5122
+  height: 3824
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 17:54:14.000000000+01:00
+- image_filename: 2019_03_30__17_54__3300636.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.33501388888889
+  lon: 16.457555555555555
+  altitude: 75.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 17:54:26.000000000+01:00
+- image_filename: 2019_03_30__17_56__3300643.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.33390277777778
+  lon: 16.458875
+  altitude: 76.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 22.88
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 17:56:22.000000000+01:00
+- image_filename: 2019_03_30__17_56__3300645.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.333486111111114
+  lon: 16.459055555555555
+  altitude: 76.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.7
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 17:56:56.000000000+01:00
+- image_filename: 2019_03_30__17_57__3300650.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.33301388888889
+  lon: 16.459291666666665
+  altitude: 75.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 46.41
+  iso: 200
+  width: 5143
+  height: 3894
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 17:57:47.000000000+01:00
+- image_filename: 2019_03_30__17_58__3300658.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.33244444444445
+  lon: 16.460069444444443
+  altitude: 76.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 19.72
+  iso: 200
+  width: 5157
+  height: 3801
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 17:58:49.000000000+01:00
+- image_filename: 2019_03_30__18_03__3300666.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.33204166666667
+  lon: 16.46597222222222
+  altitude: 77.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 11.02
+  iso: 200
+  width: 5060
+  height: 3658
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 18:03:09.000000000+01:00
+- image_filename: 2019_03_30__18_10__3300670.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.32705555555556
+  lon: 16.466777777777775
+  altitude: 77.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 207.39
+  iso: 200
+  width: 5129
+  height: 3829
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 18:10:07.000000000+01:00
+- image_filename: 2019_03_30__18_10__3300675.jpg
+  post_slug: 2019-03-30-okolice-opalenicy
+  lat: 52.327111111111115
+  lon: 16.467055555555554
+  altitude: 77.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 53.9
+  iso: 200
+  width: 5178
+  height: 3828
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-03-30 18:10:24.000000000+01:00

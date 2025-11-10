@@ -1,28 +1,4 @@
 ---
-- image_filename: .jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__09_34_P3053750.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__09_51_P3053778.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__13_49_P3053853.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__13_51_P3053865.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__13_52_P3053881.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__13_56_P3053963.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__14_01_P3053987.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__14_12_P3054022.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__14_41_P3054061.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__14_51_P3054092.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__15_11_P3054198.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
 - image_filename: 2022_03_05__15_19_P3054202.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.24151388888889
@@ -41,6 +17,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 15:19:45.000000000+01:00
+- image_filename: 2022_03_05__15_38_P3054217.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.24679166666667
+  lon: 17.49723611111111
+  altitude: 106.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.18
+  iso: 200
+  width: 8077
+  height: 5981
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 15:38:56.000000000+01:00
 - image_filename: 2022_03_05__15_42_P3054224.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.24765277777778
@@ -59,6 +53,132 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 15:42:59.000000000+01:00
+- image_filename: 2022_03_05__15_43_P3054226.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.24769444444445
+  lon: 17.498611111111114
+  altitude: 107.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 46.81
+  iso: 200
+  width: 8150
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 15:43:58.000000000+01:00
+- image_filename: 2022_03_05__15_45_P3054228.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.24776388888889
+  lon: 17.499513888888888
+  altitude: 107.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8030
+  height: 5914
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 15:45:31.000000000+01:00
+- image_filename: 2022_03_05__15_48_P3054233.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.24820833333334
+  lon: 17.500430555555557
+  altitude: 111.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 10.2
+  iso: 200
+  width: 7926
+  height: 5768
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 15:48:33.000000000+01:00
+- image_filename: 2022_03_05__15_52_P3054237.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.24981944444445
+  lon: 17.502
+  altitude: 111.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 12.28
+  iso: 200
+  width: 8008
+  height: 5885
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 15:52:11.000000000+01:00
+- image_filename: 2022_03_05__15_54_P3054240.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.25088888888889
+  lon: 17.5035
+  altitude: 109.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 104.36
+  iso: 200
+  width: 7956
+  height: 5809
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 15:54:57.000000000+01:00
+- image_filename: 2022_03_05__15_55_P3054242.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.25088888888889
+  lon: 17.50373611111111
+  altitude: 111.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 2.41
+  iso: 200
+  width: 8150
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 15:55:42.000000000+01:00
+- image_filename: 2022_03_05__16_04_P3054248.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.250819444444446
+  lon: 17.50761111111111
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 48.9
+  iso: 200
+  width: 8150
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 16:04:32.000000000+01:00
 - image_filename: 2022_03_05__16_09_P3054258.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.250375
@@ -77,6 +197,42 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2022-03-05 16:09:43.000000000+01:00
+- image_filename: 2022_03_05__16_10_P3054264.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.25036111111111
+  lon: 17.509486111111112
+  altitude: 113.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7693
+  height: 5801
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-03-05 16:10:45.000000000+01:00
+- image_filename: 2022_03_05__16_12_P3054268.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.25036111111111
+  lon: 17.50979166666667
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.49
+  iso: 200
+  width: 5208
+  height: 3877
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 16:12:55.000000000+01:00
 - image_filename: 2022_03_05__16_13_P3054269.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.25036111111111
@@ -95,6 +251,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 16:13:03.000000000+01:00
+- image_filename: 2022_03_05__16_23_P3054283.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.24919444444445
+  lon: 17.517083333333332
+  altitude: 112.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 21.56
+  iso: 200
+  width: 8150
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 16:23:36.000000000+01:00
 - image_filename: 2022_03_05__16_24_P3054285_01.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.24915277777778
@@ -113,6 +287,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 16:24:54.000000000+01:00
+- image_filename: 2022_03_05__16_25_P3054286.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.24911111111111
+  lon: 17.518652777777778
+  altitude: 113.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.97
+  iso: 200
+  width: 8052
+  height: 5945
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 16:25:17.000000000+01:00
 - image_filename: 2022_03_05__16_32_P3054297.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.24968055555556
@@ -131,6 +323,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 16:32:28.000000000+01:00
+- image_filename: 2022_03_05__16_32_P3054298.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.249694444444444
+  lon: 17.523041666666664
+  altitude: 113.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.07
+  iso: 200
+  width: 8124
+  height: 6028
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 16:32:35.000000000+01:00
 - image_filename: 2022_03_05__16_46_P3054312.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.25783333333333
@@ -149,6 +359,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 16:46:40.000000000+01:00
+- image_filename: 2022_03_05__16_47_P3054313.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.25811111111111
+  lon: 17.524625
+  altitude: 113.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.9
+  iso: 200
+  width: 8150
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 16:47:10.000000000+01:00
+- image_filename: 2022_03_05__16_49_P3054317.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.258583333333334
+  lon: 17.524305555555554
+  altitude: 114.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 13.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 16.91
+  iso: 200
+  width: 5208
+  height: 3877
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 16:49:10.000000000+01:00
 - image_filename: 2022_03_05__16_49_P3054319.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.258625
@@ -167,6 +413,42 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 16:49:28.000000000+01:00
+- image_filename: 2022_03_05__17_05_P3054329.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.262347222222225
+  lon: 17.518819444444443
+  altitude: 129.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 66.33
+  iso: 200
+  width: 8150
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 17:05:55.000000000+01:00
+- image_filename: 2022_03_05__17_21_P3054346.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.262861111111114
+  lon: 17.50190277777778
+  altitude: 113.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 22.92
+  iso: 200
+  width: 8122
+  height: 6076
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 17:21:52.000000000+01:00
 - image_filename: 2022_03_05__17_23_P3054352.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.26294444444444
@@ -185,6 +467,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 17:23:42.000000000+01:00
+- image_filename: 2022_03_05__17_27_P3054359.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.263194444444444
+  lon: 17.498416666666667
+  altitude: 119.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 21.58
+  iso: 200
+  width: 8150
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 17:27:44.000000000+01:00
+- image_filename: 2022_03_05__17_28_P3054361.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.26318055555556
+  lon: 17.49838888888889
+  altitude: 118.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 49.49
+  iso: 200
+  width: 8052
+  height: 5942
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 17:28:31.000000000+01:00
+- image_filename: 2022_03_05__17_32_P3054366.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.26358333333334
+  lon: 17.493944444444445
+  altitude: 107.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 12.55
+  iso: 200
+  width: 7949
+  height: 5801
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-03-05 17:32:23.000000000+01:00
 - image_filename: 2022_03_05__17_33_P3054368.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.26347222222222
@@ -230,8 +566,8 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
+  exposure: 4.0
+  exposure_string: 0.4 s
   focus_distance: 3.35
   iso: 200
   width: 8150
@@ -239,430 +575,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 17:40:16.000000000+01:00
-- image_filename: 2022_03_05__18_11_P3054393.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.24323611111111
-  lon: 17.47709722222222
-  altitude: 98.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  exposure: 0.25
-  exposure_string: 1/4 s
-  focus_distance: 7.8
-  iso: 800
-  width: 5149
-  height: 3798
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-03-05 18:11:26.000000000+01:00
-- image_filename: 2022_03_05__18_18_P3054397.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.240833333333335
-  lon: 17.48386111111111
-  altitude: 104.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 7.75
-  iso: 800
-  width: 5132
-  height: 3773
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-03-05 18:18:40.000000000+01:00
-- image_filename: 2022_03_06__10_38_P3064415.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_06__11_42_P3064439.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_06__12_23_P3064463.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_06__13_04_P3064536.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_06__14_30_P3064588.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-- image_filename: 2022_03_05__17_05_P3054329.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.262347222222225
-  lon: 17.518819444444443
-  altitude: 129.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 66.33
-  iso: 200
-  width: 8150
-  height: 6077
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 17:05:55.000000000+01:00
-- image_filename: 2022_03_05__17_21_P3054346.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.262861111111114
-  lon: 17.50190277777778
-  altitude: 113.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 22.92
-  iso: 200
-  width: 8122
-  height: 6076
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 17:21:52.000000000+01:00
-- image_filename: 2022_03_05__16_49_P3054317.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.258583333333334
-  lon: 17.524305555555554
-  altitude: 114.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 13.0
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 16.91
-  iso: 200
-  width: 5208
-  height: 3877
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 16:49:10.000000000+01:00
-- image_filename: 2022_03_05__15_45_P3054228.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.24776388888889
-  lon: 17.499513888888888
-  altitude: 107.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8030
-  height: 5914
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 15:45:31.000000000+01:00
-- image_filename: 2022_03_05__15_38_P3054217.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.24679166666667
-  lon: 17.49723611111111
-  altitude: 106.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 2.18
-  iso: 200
-  width: 8077
-  height: 5981
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 15:38:56.000000000+01:00
-- image_filename: 2022_03_05__16_23_P3054283.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.24919444444445
-  lon: 17.517083333333332
-  altitude: 112.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 21.56
-  iso: 200
-  width: 8150
-  height: 6077
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 16:23:36.000000000+01:00
-- image_filename: 2022_03_05__16_10_P3054264.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.25036111111111
-  lon: 17.509486111111112
-  altitude: 113.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7693
-  height: 5801
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-03-05 16:10:45.000000000+01:00
-- image_filename: 2022_03_05__17_27_P3054359.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.263194444444444
-  lon: 17.498416666666667
-  altitude: 119.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 21.58
-  iso: 200
-  width: 8150
-  height: 6077
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 17:27:44.000000000+01:00
-- image_filename: 2022_03_05__15_48_P3054233.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.24820833333334
-  lon: 17.500430555555557
-  altitude: 111.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 10.2
-  iso: 200
-  width: 7926
-  height: 5768
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 15:48:33.000000000+01:00
-- image_filename: 2022_03_05__15_43_P3054226.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.24769444444445
-  lon: 17.498611111111114
-  altitude: 107.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 46.81
-  iso: 200
-  width: 8150
-  height: 6077
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 15:43:58.000000000+01:00
-- image_filename: 2022_03_05__16_12_P3054268.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.25036111111111
-  lon: 17.50979166666667
-  altitude: 113.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 1.49
-  iso: 200
-  width: 5208
-  height: 3877
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 16:12:55.000000000+01:00
-- image_filename: 2022_03_05__17_32_P3054366.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.26358333333334
-  lon: 17.493944444444445
-  altitude: 107.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 12.55
-  iso: 200
-  width: 7949
-  height: 5801
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 17:32:23.000000000+01:00
-- image_filename: 2022_03_05__15_52_P3054237.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.24981944444445
-  lon: 17.502
-  altitude: 111.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 12.28
-  iso: 200
-  width: 8008
-  height: 5885
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 15:52:11.000000000+01:00
-- image_filename: 2022_03_05__17_28_P3054361.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.26318055555556
-  lon: 17.49838888888889
-  altitude: 118.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 49.49
-  iso: 200
-  width: 8052
-  height: 5942
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 17:28:31.000000000+01:00
-- image_filename: 2022_03_05__16_04_P3054248.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.250819444444446
-  lon: 17.50761111111111
-  altitude: 113.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 48.9
-  iso: 200
-  width: 8150
-  height: 6077
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 16:04:32.000000000+01:00
-- image_filename: 2022_03_05__15_54_P3054240.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.25088888888889
-  lon: 17.5035
-  altitude: 109.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 104.36
-  iso: 200
-  width: 7956
-  height: 5809
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 15:54:57.000000000+01:00
-- image_filename: 2022_03_05__16_47_P3054313.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.25811111111111
-  lon: 17.524625
-  altitude: 113.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 4.9
-  iso: 200
-  width: 8150
-  height: 6077
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 16:47:10.000000000+01:00
-- image_filename: 2022_03_05__16_25_P3054286.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.24911111111111
-  lon: 17.518652777777778
-  altitude: 113.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 5.97
-  iso: 200
-  width: 8052
-  height: 5945
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 16:25:17.000000000+01:00
-- image_filename: 2022_03_05__16_32_P3054298.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.249694444444444
-  lon: 17.523041666666664
-  altitude: 113.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 5.07
-  iso: 200
-  width: 8124
-  height: 6028
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 16:32:35.000000000+01:00
-- image_filename: 2022_03_05__15_55_P3054242.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.25088888888889
-  lon: 17.50373611111111
-  altitude: 111.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 2.41
-  iso: 200
-  width: 8150
-  height: 6077
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-03-05 15:55:42.000000000+01:00
-- image_filename: 2022_03_05__18_14_P3054395.jpg
-  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
-  lat: 53.24143055555556
-  lon: 17.479291666666665
-  altitude: 105.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 2.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 1000.0
-  iso: 500
-  width: 5213
-  height: 3898
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-03-05 18:14:38.000000000+01:00
 - image_filename: 2022_03_05__17_41_P3054378.jpg
   post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
   lat: 53.263152777777776
@@ -681,3 +593,57 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-03-05 17:41:06.000000000+01:00
+- image_filename: 2022_03_05__18_11_P3054393.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.24323611111111
+  lon: 17.47709722222222
+  altitude: 98.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 7.8
+  iso: 800
+  width: 5149
+  height: 3798
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-03-05 18:11:26.000000000+01:00
+- image_filename: 2022_03_05__18_14_P3054395.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.24143055555556
+  lon: 17.479291666666665
+  altitude: 105.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 1000.0
+  iso: 500
+  width: 5213
+  height: 3898
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-03-05 18:14:38.000000000+01:00
+- image_filename: 2022_03_05__18_18_P3054397.jpg
+  post_slug: 2022-03-05-wokol-jeziora-witoslawskiego
+  lat: 53.240833333333335
+  lon: 17.48386111111111
+  altitude: 104.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 7.75
+  iso: 800
+  width: 5132
+  height: 3773
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-03-05 18:18:40.000000000+01:00

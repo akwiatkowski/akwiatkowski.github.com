@@ -1,22 +1,292 @@
 ---
-- image_filename: 2022_05_21__10_35_P5216344.jpg
+- image_filename: 2022_05_21__06_45_P5214406.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.37361111111111
-  lon: 10.03226388888889
-  altitude: 2132.0
-  focal_length: 66.0
-  focal_length_35: 132.0
+  lat: 46.32706944444445
+  lon: 9.416416666666667
+  altitude: 435.0
+  focal_length: 80.0
+  focal_length_35: 160.0
   crop: 2.0
-  aperture: 6.3
+  aperture: 5.6
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 22.69
+  focus_distance: 35.77
   iso: 200
-  width: 8150
-  height: 6095
+  width: 8199
+  height: 6131
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-21 10:35:46.000000000+02:00
+  time: 2022-05-21 06:45:13.000000000+02:00
+- image_filename: 2022_05_21__06_55_P5214410.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.32113888888889
+  lon: 9.397736111111112
+  altitude: 375.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 19.09
+  iso: 500
+  width: 4074
+  height: 3248
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 06:55:29.000000000+02:00
+- image_filename: 2022_05_21__06_56_P5214415.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.31754166666667
+  lon: 9.39223611111111
+  altitude: 370.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 37.24
+  iso: 400
+  width: 5240
+  height: 3652
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 06:56:41.000000000+02:00
+- image_filename: 2022_05_21__07_12_P5214510.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.22533333333334
+  lon: 9.447916666666666
+  altitude: 249.0
+  focal_length: 120.0
+  focal_length_35: 240.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 45.01
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-21 07:12:25.000000000+02:00
+- image_filename: 2022_05_21__07_54_P5215146.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.16177777777778
+  lon: 9.800638888888889
+  altitude: 325.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 105.03
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-21 07:54:08.000000000+02:00
+- image_filename: 2022_05_21__07_55_P5215191.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.161833333333334
+  lon: 9.817402777777778
+  altitude: 331.0
+  focal_length: 130.0
+  focal_length_35: 260.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 48.19
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-21 07:55:32.000000000+02:00
+- image_filename: 2022_05_21__08_00_P5215264.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.168638888888886
+  lon: 9.863249999999999
+  altitude: 339.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 12.23
+  iso: 400
+  width: 5189
+  height: 3843
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-21 08:00:19.000000000+02:00
+- image_filename: 2022_05_21__08_09_P5215357.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.16920833333333
+  lon: 9.922180555555554
+  altitude: 332.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 85.33
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-21 08:09:02.000000000+02:00
+- image_filename: 2022_05_21__08_11_P5215421.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.16331944444444
+  lon: 9.947027777777778
+  altitude: 369.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 105.03
+  iso: 400
+  width: 4709
+  height: 3389
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-21 08:11:27.000000000+02:00
+- image_filename: 2022_05_21__08_23_P5215548.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.161791666666666
+  lon: 10.081402777777777
+  altitude: 425.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 5.7
+  iso: 640
+  width: 4948
+  height: 3771
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-05-21 08:23:00.000000000+02:00
+- image_filename: 2022_05_21__08_50_P5215639.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.215611111111116
+  lon: 10.166805555555555
+  altitude: 479.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.39
+  iso: 200
+  width: 4593
+  height: 3235
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 08:50:25.000000000+02:00
+- image_filename: 2022_05_21__09_14_P5215672.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.226875
+  lon: 10.145916666666666
+  altitude: 544.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5135
+  height: 3788
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 09:14:42.000000000+02:00
+- image_filename: 2022_05_21__09_24_P5215759.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.25440277777778
+  lon: 10.128902777777778
+  altitude: 712.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.12
+  iso: 250
+  width: 4661
+  height: 3852
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 09:24:29.000000000+02:00
+- image_filename: 2022_05_21__09_33_P5215819.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.272888888888886
+  lon: 10.099291666666668
+  altitude: 930.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5134
+  height: 3768
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 09:33:25.000000000+02:00
+- image_filename: 2022_05_21__09_35_P5215826.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.272888888888886
+  lon: 10.099291666666668
+  altitude: 930.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 09:35:22.000000000+02:00
+- image_filename: 2022_05_21__09_52_P5215931.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.34655555555556
+  lon: 10.049777777777777
+  altitude: 1535.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 25.84
+  iso: 200
+  width: 5215
+  height: 3879
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 09:52:04.000000000+02:00
 - image_filename: 2022_05_21__09_53_P5215961.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
   lat: 46.34655555555556
@@ -53,42 +323,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-21 09:53:35.000000000+02:00
-- image_filename: 2022_05_21__12_57_P5217099.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.60665277777778
-  lon: 9.97888888888889
-  altitude: 1728.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 32.44
-  iso: 800
-  width: 5196
-  height: 3910
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 12:57:39.000000000+02:00
-- image_filename: 2022_05_21__10_27_P5216307.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.37452777777778
-  lon: 10.031375
-  altitude: 2062.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 51.2
-  iso: 200
-  width: 8138
-  height: 6074
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:27:49.000000000+02:00
 - image_filename: 2022_05_21__09_54_P5215986.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
   lat: 46.34655555555556
@@ -107,942 +341,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-21 09:54:10.000000000+02:00
-- image_filename: 2022_05_21__12_00_P5216926.jpg
+- image_filename: 2022_05_21__09_59_P5216041.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.49825
-  lon: 9.838555555555557
-  altitude: 1916.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 11.95
-  iso: 200
-  width: 7578
-  height: 5929
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 12:00:05.000000000+02:00
-- image_filename: 2022_05_21__15_53_P5218249.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.847875
-  lon: 9.53475
-  altitude: 623.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 4.57
-  iso: 200
-  width: 7721
-  height: 6099
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:53:43.000000000+02:00
-- image_filename: 2022_05_21__17_01_P5218351.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 47.041374999999995
-  lon: 9.465166666666667
-  altitude: 530.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 57.49
-  iso: 640
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 17:01:45.000000000+02:00
-- image_filename: 2022_05_21__15_33_P5218216.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.848194444444445
-  lon: 9.52975
-  altitude: 599.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7506
-  height: 5877
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:33:40.000000000+02:00
-- image_filename: 2022_05_21__11_00_P5216595.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.43597222222222
-  lon: 9.991513888888887
-  altitude: 2234.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 30.91
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:00:21.000000000+02:00
-- image_filename: 2022_05_21__15_58_P5218259.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84852777777778
-  lon: 9.532611111111112
-  altitude: 601.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 18.36
-  iso: 200
-  width: 6081
-  height: 8162
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:58:03.000000000+02:00
-- image_filename: 2022_05_21__16_01_P5218264.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.849000000000004
-  lon: 9.531375
-  altitude: 599.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 2.74
-  iso: 200
-  width: 6828
-  height: 5274
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 16:01:01.000000000+02:00
-- image_filename: 2022_05_21__13_40_P5217532.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.75022222222222
-  lon: 9.947694444444444
-  altitude: 2403.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 3.35
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:40:17.000000000+02:00
-- image_filename: 2022_05_21__15_35_P5218219.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84813888888889
-  lon: 9.531166666666667
-  altitude: 601.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 16.94
-  iso: 200
-  width: 5977
-  height: 8085
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:35:52.000000000+02:00
-- image_filename: 2022_05_21__10_50_P5216411.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.41625
-  lon: 10.011208333333334
-  altitude: 2191.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 40.76
-  iso: 200
-  width: 5235
-  height: 3905
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:50:45.000000000+02:00
-- image_filename: 2022_05_21__10_32_P5216328.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.374097222222225
-  lon: 10.03165277777778
-  altitude: 2130.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 40.55
-  iso: 200
-  width: 6099
-  height: 8139
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:32:15.000000000+02:00
-- image_filename: 2022_05_21__07_55_P5215191.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.161833333333334
-  lon: 9.817402777777778
-  altitude: 331.0
-  focal_length: 130.0
-  focal_length_35: 260.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 48.19
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-21 07:55:32.000000000+02:00
-- image_filename: 2022_05_21__13_10_P5217249.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.688291666666665
-  lon: 10.084416666666668
-  altitude: 1542.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 38.37
-  iso: 400
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:10:08.000000000+02:00
-- image_filename: 2022_05_21__12_25_P5216938.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.496694444444444
-  lon: 9.844222222222223
-  altitude: 1822.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 3.35
-  iso: 200
-  width: 8146
-  height: 6059
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 12:25:27.000000000+02:00
-- image_filename: 2022_05_21__12_22_P5216933.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.49622222222222
-  lon: 9.842194444444445
-  altitude: 1830.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 8.1
-  iso: 200
-  width: 8063
-  height: 5942
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 12:22:07.000000000+02:00
-- image_filename: 2022_05_21__16_33_P5218279.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84759722222223
-  lon: 9.529930555555556
-  altitude: 599.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7412
-  height: 5295
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 16:33:21.000000000+02:00
-- image_filename: 2022_05_21__10_55_P5216520.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.41625
-  lon: 10.011208333333334
-  altitude: 2191.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 29.47
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:55:18.000000000+02:00
-- image_filename: 2022_05_21__13_41_P5217540.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.75036111111111
-  lon: 9.947527777777777
-  altitude: 2404.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4981
-  height: 3838
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:41:51.000000000+02:00
-- image_filename: 2022_05_21__14_57_P5218100.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.97025
-  lon: 9.560708333333334
-  altitude: 568.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 30.17
-  iso: 640
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 14:57:41.000000000+02:00
-- image_filename: 2022_05_21__11_10_P5216728.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.45143055555556
-  lon: 9.942638888888888
-  altitude: 2129.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 32.9
-  iso: 200
-  width: 5023
-  height: 3772
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:10:02.000000000+02:00
-- image_filename: 2022_05_21__09_24_P5215759.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.25440277777778
-  lon: 10.128902777777778
-  altitude: 712.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 3.12
-  iso: 250
-  width: 4661
-  height: 3852
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 09:24:29.000000000+02:00
-- image_filename: 2022_05_21__13_26_P5217369.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.751805555555556
-  lon: 10.042763888888889
-  altitude: 1783.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 61.83
-  iso: 2000
-  width: 3912
-  height: 5240
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:26:53.000000000+02:00
-- image_filename: 2022_05_21__15_34_P5218217.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84805555555556
-  lon: 9.530125
-  altitude: 600.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 22.75
-  iso: 200
-  width: 5938
-  height: 8166
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:34:19.000000000+02:00
-- image_filename: 2022_05_21__08_23_P5215548.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.161791666666666
-  lon: 10.081402777777777
-  altitude: 425.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 5.7
-  iso: 640
-  width: 4948
-  height: 3771
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-21 08:23:00.000000000+02:00
-- image_filename: 2022_05_21__10_25_P5216298.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.374583333333334
-  lon: 10.031666666666668
-  altitude: 2007.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:25:58.000000000+02:00
-- image_filename: 2022_05_21__11_01_P5216624.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.43631944444444
-  lon: 9.991263888888888
-  altitude: 2234.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 96.38
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:01:27.000000000+02:00
-- image_filename: 2022_05_21__13_35_P5217495.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.7425
-  lon: 9.972
-  altitude: 2271.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 30.8
-  iso: 250
-  width: 5240
-  height: 3773
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:35:10.000000000+02:00
-- image_filename: 2022_05_21__15_44_P5218239.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84776388888889
-  lon: 9.534236111111111
-  altitude: 620.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 13.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 3.35
-  iso: 200
-  width: 4709
-  height: 3721
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:44:53.000000000+02:00
-- image_filename: 2022_05_21__06_55_P5214410.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.32113888888889
-  lon: 9.397736111111112
-  altitude: 375.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 19.09
-  iso: 500
-  width: 4074
-  height: 3248
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 06:55:29.000000000+02:00
-- image_filename: 2022_05_21__13_39_P5217531.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.75022222222222
-  lon: 9.947694444444444
-  altitude: 2403.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 25.01
-  iso: 200
-  width: 8141
-  height: 6078
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:39:55.000000000+02:00
-- image_filename: 2022_05_21__13_51_P5217614.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.76561111111111
-  lon: 9.940069444444445
-  altitude: 2275.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 24.42
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:51:35.000000000+02:00
-- image_filename: 2022_05_21__10_23_P5216256.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.37213888888889
-  lon: 10.034152777777777
-  altitude: 1972.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 46.15
-  iso: 200
-  width: 3912
-  height: 5240
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:23:53.000000000+02:00
-- image_filename: 2022_05_21__16_30_P5218271.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84841666666667
-  lon: 9.52977777777778
-  altitude: 600.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 10.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 8.32
-  iso: 200
-  width: 5060
-  height: 3812
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 16:30:18.000000000+02:00
-- image_filename: 2022_05_21__13_48_P5217563.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.75172222222222
-  lon: 9.945847222222222
-  altitude: 2419.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 23.75
-  iso: 250
-  width: 5240
-  height: 3825
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:48:25.000000000+02:00
-- image_filename: 2022_05_21__10_28_P5216308.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.37438888888889
-  lon: 10.031291666666668
-  altitude: 2097.0
+  lat: 46.34655555555556
+  lon: 10.049777777777777
+  altitude: 1535.0
   focal_length: 41.0
   focal_length_35: 82.0
   crop: 2.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 6067
-  height: 8111
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:28:16.000000000+02:00
-- image_filename: 2022_05_21__14_30_P5217979.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.85681944444445
-  lon: 9.879486111111111
-  altitude: 1396.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 71.86
-  iso: 2000
-  width: 5056
-  height: 3655
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 14:30:15.000000000+02:00
-- image_filename: 2022_05_21__13_32_P5217457.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.74454166666667
-  lon: 9.987763888888889
-  altitude: 2168.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 19.02
-  iso: 200
-  width: 8134
-  height: 6084
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:32:45.000000000+02:00
-- image_filename: 2022_05_21__13_04_P5217194.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.65929166666667
-  lon: 10.036944444444444
-  altitude: 1684.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1000.0
-  iso: 800
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:04:38.000000000+02:00
-- image_filename: 2022_05_21__10_53_P5216460.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.41625
-  lon: 10.011208333333334
-  altitude: 2191.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 7.1
+  aperture: 5.6
   exposure: 0.00625
   exposure_string: 1/160 s
-  focus_distance: 24.2
+  focus_distance: 45.51
   iso: 200
-  width: 5239
-  height: 3911
+  width: 8012
+  height: 5901
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-21 10:53:05.000000000+02:00
-- image_filename: 2022_05_21__13_02_P5217155.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.64369444444444
-  lon: 10.022694444444445
-  altitude: 1682.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 24.75
-  iso: 1600
-  width: 4483
-  height: 3355
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:02:33.000000000+02:00
-- image_filename: 2022_05_21__16_03_P5218269.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.848444444444446
-  lon: 9.53052777777778
-  altitude: 599.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 16.0
-  iso: 200
-  width: 5022
-  height: 3851
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 16:03:51.000000000+02:00
-- image_filename: 2022_05_21__15_42_P5218233.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84818055555556
-  lon: 9.532833333333334
-  altitude: 604.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 8.26
-  iso: 200
-  width: 5979
-  height: 8046
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:42:03.000000000+02:00
-- image_filename: 2022_05_21__13_27_P5217388.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.75340277777778
-  lon: 10.035916666666667
-  altitude: 1813.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 53.9
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:27:26.000000000+02:00
-- image_filename: 2022_05_21__16_32_P5218276.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84773611111111
-  lon: 9.529652777777779
-  altitude: 599.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.28
-  iso: 200
-  width: 7038
-  height: 5807
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 16:32:04.000000000+02:00
-- image_filename: 2022_05_21__14_38_P5218068.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.90322222222222
-  lon: 9.826666666666666
-  altitude: 1066.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.5
-  exposure_string: 1/2 s
-  focus_distance: 73.14
-  iso: 800
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 14:38:47.000000000+02:00
-- image_filename: 2022_05_21__09_33_P5215819.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.272888888888886
-  lon: 10.099291666666668
-  altitude: 930.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5134
-  height: 3768
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 09:33:25.000000000+02:00
-- image_filename: 2022_05_21__11_35_P5216888.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.49925
-  lon: 9.849736111111111
-  altitude: 1781.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 21.61
-  iso: 250
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:35:12.000000000+02:00
-- image_filename: 2022_05_21__10_49_P5216394.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.41625
-  lon: 10.011208333333334
-  altitude: 2191.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5181
-  height: 3833
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:49:39.000000000+02:00
-- image_filename: 2022_05_21__10_30_P5216314.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.374069444444444
-  lon: 10.031583333333334
-  altitude: 2128.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 126.03
-  iso: 200
-  width: 8163
-  height: 6077
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:30:44.000000000+02:00
-- image_filename: 2022_05_21__10_23_P5216253.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.37213888888889
-  lon: 10.034152777777777
-  altitude: 1972.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 23.77
-  iso: 200
-  width: 8141
-  height: 6058
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:23:30.000000000+02:00
-- image_filename: 2022_05_21__11_55_P5216920.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.49825
-  lon: 9.838555555555557
-  altitude: 1916.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 21.75
-  iso: 200
-  width: 8059
-  height: 5939
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:55:31.000000000+02:00
-- image_filename: 2022_05_21__13_10_P5217262.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.69043055555555
-  lon: 10.087208333333335
-  altitude: 1537.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 174.29
-  iso: 1250
-  width: 4983
-  height: 3356
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:10:29.000000000+02:00
+  time: 2022-05-21 09:59:38.000000000+02:00
 - image_filename: 2022_05_21__10_04_P5216086.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
   lat: 46.34452777777778
@@ -1061,78 +377,186 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-21 10:04:57.000000000+02:00
-- image_filename: 2022_05_21__10_52_P5216449.jpg
+- image_filename: 2022_05_21__10_06_P5216127.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.41625
-  lon: 10.011208333333334
-  altitude: 2191.0
-  focal_length: 23.0
-  focal_length_35: 46.0
+  lat: 46.343625
+  lon: 10.044333333333332
+  altitude: 1528.0
+  focal_length: 47.0
+  focal_length_35: 94.0
   crop: 2.0
-  aperture: 8.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.54
-  iso: 200
-  width: 3892
-  height: 5183
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:52:15.000000000+02:00
-- image_filename: 2022_05_21__07_12_P5214510.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.22533333333334
-  lon: 9.447916666666666
-  altitude: 249.0
-  focal_length: 120.0
-  focal_length_35: 240.0
-  crop: 2.0
-  aperture: 3.2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 45.01
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-21 07:12:25.000000000+02:00
-- image_filename: 2022_05_21__13_31_P5217450.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.74494444444444
-  lon: 9.990222222222222
-  altitude: 2113.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 22.94
   iso: 250
-  width: 3763
-  height: 5083
+  width: 5183
+  height: 3826
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-21 13:31:42.000000000+02:00
-- image_filename: 2022_05_21__13_55_P5217722.jpg
+  time: 2022-05-21 10:06:38.000000000+02:00
+- image_filename: 2022_05_21__10_23_P5216253.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.780680555555556
-  lon: 9.9255
-  altitude: 2074.0
+  lat: 46.37213888888889
+  lon: 10.034152777777777
+  altitude: 1972.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 23.77
+  iso: 200
+  width: 8141
+  height: 6058
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:23:30.000000000+02:00
+- image_filename: 2022_05_21__10_23_P5216256.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.37213888888889
+  lon: 10.034152777777777
+  altitude: 1972.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 46.15
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:23:53.000000000+02:00
+- image_filename: 2022_05_21__10_25_P5216298.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.374583333333334
+  lon: 10.031666666666668
+  altitude: 2007.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.5
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 32.0
-  iso: 3200
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
   width: 5239
   height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-21 13:55:45.000000000+02:00
+  time: 2022-05-21 10:25:58.000000000+02:00
+- image_filename: 2022_05_21__10_27_P5216307.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.37452777777778
+  lon: 10.031375
+  altitude: 2062.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 51.2
+  iso: 200
+  width: 8138
+  height: 6074
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:27:49.000000000+02:00
+- image_filename: 2022_05_21__10_28_P5216308.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.37438888888889
+  lon: 10.031291666666668
+  altitude: 2097.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 6067
+  height: 8111
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:28:16.000000000+02:00
+- image_filename: 2022_05_21__10_29_P5216310.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.37419444444444
+  lon: 10.031444444444446
+  altitude: 2119.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 123.18
+  iso: 200
+  width: 8157
+  height: 6063
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:29:13.000000000+02:00
+- image_filename: 2022_05_21__10_30_P5216314.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.374069444444444
+  lon: 10.031583333333334
+  altitude: 2128.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 126.03
+  iso: 200
+  width: 8163
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:30:44.000000000+02:00
+- image_filename: 2022_05_21__10_32_P5216328.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.374097222222225
+  lon: 10.03165277777778
+  altitude: 2130.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 40.55
+  iso: 200
+  width: 6099
+  height: 8139
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:32:15.000000000+02:00
+- image_filename: 2022_05_21__10_35_P5216344.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.37361111111111
+  lon: 10.03226388888889
+  altitude: 2132.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 22.69
+  iso: 200
+  width: 8150
+  height: 6095
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:35:46.000000000+02:00
 - image_filename: 2022_05_21__10_36_P5216345.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
   lat: 46.37361111111111
@@ -1151,150 +575,294 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-21 10:36:12.000000000+02:00
-- image_filename: 2022_05_21__13_53_P5217671.jpg
+- image_filename: 2022_05_21__10_49_P5216388.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.77206944444444
-  lon: 9.936972222222222
-  altitude: 2199.0
+  lat: 46.41625
+  lon: 10.011208333333334
+  altitude: 2191.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5068
+  height: 3792
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:49:33.000000000+02:00
+- image_filename: 2022_05_21__10_49_P5216394.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.41625
+  lon: 10.011208333333334
+  altitude: 2191.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5181
+  height: 3833
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:49:39.000000000+02:00
+- image_filename: 2022_05_21__10_50_P5216411.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.41625
+  lon: 10.011208333333334
+  altitude: 2191.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 40.76
+  iso: 200
+  width: 5235
+  height: 3905
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:50:45.000000000+02:00
+- image_filename: 2022_05_21__10_52_P5216449.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.41625
+  lon: 10.011208333333334
+  altitude: 2191.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.54
+  iso: 200
+  width: 3892
+  height: 5183
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:52:15.000000000+02:00
+- image_filename: 2022_05_21__10_53_P5216460.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.41625
+  lon: 10.011208333333334
+  altitude: 2191.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 24.2
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:53:05.000000000+02:00
+- image_filename: 2022_05_21__10_55_P5216520.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.41625
+  lon: 10.011208333333334
+  altitude: 2191.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 29.47
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:55:18.000000000+02:00
+- image_filename: 2022_05_21__10_56_P5216543.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.41708333333333
+  lon: 10.01125
+  altitude: 2191.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 10:56:42.000000000+02:00
+- image_filename: 2022_05_21__11_00_P5216595.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.43597222222222
+  lon: 9.991513888888887
+  altitude: 2234.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 30.91
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 11:00:21.000000000+02:00
+- image_filename: 2022_05_21__11_01_P5216624.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.43631944444444
+  lon: 9.991263888888888
+  altitude: 2234.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 96.38
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 11:01:27.000000000+02:00
+- image_filename: 2022_05_21__11_09_P5216693.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.44766666666666
+  lon: 9.966375
+  altitude: 2129.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 63.01
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 11:09:00.000000000+02:00
+- image_filename: 2022_05_21__11_10_P5216728.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.45143055555556
+  lon: 9.942638888888888
+  altitude: 2129.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 32.9
+  iso: 200
+  width: 5023
+  height: 3772
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 11:10:02.000000000+02:00
+- image_filename: 2022_05_21__11_10_P5216735.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.45143055555556
+  lon: 9.942638888888888
+  altitude: 2129.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3790
+  height: 4822
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 11:10:50.000000000+02:00
+- image_filename: 2022_05_21__11_30_P5216833.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.51109722222222
+  lon: 9.87725
+  altitude: 1786.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 84.02
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 11:30:37.000000000+02:00
+- image_filename: 2022_05_21__11_32_P5216878.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.50609722222222
+  lon: 9.858888888888888
+  altitude: 1778.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 5014
+  height: 3782
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 11:32:55.000000000+02:00
+- image_filename: 2022_05_21__11_35_P5216888.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.49925
+  lon: 9.849736111111111
+  altitude: 1781.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 21.61
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 11:35:12.000000000+02:00
+- image_filename: 2022_05_21__11_36_P5216904.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.49794444444444
+  lon: 9.846388888888889
+  altitude: 1806.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  focus_distance: 12.48
-  iso: 1000
-  width: 5179
-  height: 3830
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 13:53:29.000000000+02:00
-- image_filename: 2022_05_21__15_16_P5218142.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.94794444444444
-  lon: 9.545486111111112
-  altitude: 570.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 25.92
-  iso: 800
-  width: 5065
-  height: 3671
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:16:34.000000000+02:00
-- image_filename: 2022_05_21__08_09_P5215357.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.16920833333333
-  lon: 9.922180555555554
-  altitude: 332.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 85.33
-  iso: 320
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-21 08:09:02.000000000+02:00
-- image_filename: 2022_05_21__17_17_P5218491.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 47.246097222222225
-  lon: 9.518833333333335
-  altitude: 493.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 115.38
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.69
   iso: 200
-  width: 4969
-  height: 3554
+  width: 8095
+  height: 6003
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-21 17:17:17.000000000+02:00
-- image_filename: 2022_05_21__12_43_P5216949.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.51029166666667
-  lon: 9.86575
-  altitude: 1770.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 52.51
-  iso: 800
-  width: 5156
-  height: 3794
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 12:43:12.000000000+02:00
-- image_filename: 2022_05_21__12_56_P5217032.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.59541666666667
-  lon: 9.960847222222222
-  altitude: 1719.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 157.54
-  iso: 800
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 12:56:15.000000000+02:00
-- image_filename: 2022_05_21__17_07_P5218427.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 47.10848611111111
-  lon: 9.516736111111111
-  altitude: 522.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 77.64
-  iso: 1000
-  width: 5150
-  height: 3787
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 17:07:22.000000000+02:00
-- image_filename: 2022_05_21__12_57_P5217072.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.60113888888889
-  lon: 9.972055555555556
-  altitude: 1719.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 23.37
-  iso: 640
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 12:57:03.000000000+02:00
+  time: 2022-05-21 11:36:51.000000000+02:00
 - image_filename: 2022_05_21__11_39_P5216905.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
   lat: 46.49777777777778
@@ -1331,222 +899,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-21 11:39:58.000000000+02:00
-- image_filename: 2022_05_21__17_02_P5218363.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 47.04884722222222
-  lon: 9.470597222222223
-  altitude: 547.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 70.01
-  iso: 1000
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 17:02:19.000000000+02:00
-- image_filename: 2022_05_21__16_01_P5218265.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84898611111112
-  lon: 9.531027777777778
-  altitude: 599.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 17.73
-  iso: 200
-  width: 6002
-  height: 8101
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 16:01:23.000000000+02:00
-- image_filename: 2022_05_21__11_56_P5216922.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.49825
-  lon: 9.838555555555557
-  altitude: 1916.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 4.9
-  iso: 200
-  width: 7531
-  height: 6129
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:56:25.000000000+02:00
-- image_filename: 2022_05_21__15_58_P5218260.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84854166666667
-  lon: 9.532597222222224
-  altitude: 601.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 9.37
-  iso: 200
-  width: 5913
-  height: 8187
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:58:37.000000000+02:00
-- image_filename: 2022_05_21__09_52_P5215931.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.34655555555556
-  lon: 10.049777777777777
-  altitude: 1535.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 25.84
-  iso: 200
-  width: 5215
-  height: 3879
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 09:52:04.000000000+02:00
-- image_filename: 2022_05_21__08_11_P5215421.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.16331944444444
-  lon: 9.947027777777778
-  altitude: 369.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 105.03
-  iso: 400
-  width: 4709
-  height: 3389
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-21 08:11:27.000000000+02:00
-- image_filename: 2022_05_21__11_36_P5216904.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.49794444444444
-  lon: 9.846388888888889
-  altitude: 1806.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 2.69
-  iso: 200
-  width: 8095
-  height: 6003
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:36:51.000000000+02:00
-- image_filename: 2022_05_21__15_49_P5218245.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.847833333333334
-  lon: 9.534833333333333
-  altitude: 623.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 14.81
-  iso: 200
-  width: 4564
-  height: 7529
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:49:01.000000000+02:00
-- image_filename: 2022_05_21__06_45_P5214406.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.32706944444445
-  lon: 9.416416666666667
-  altitude: 435.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 35.77
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 06:45:13.000000000+02:00
-- image_filename: 2022_05_21__10_56_P5216543.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.41708333333333
-  lon: 10.01125
-  altitude: 2191.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:56:42.000000000+02:00
-- image_filename: 2022_05_21__16_43_P5218305.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84630555555556
-  lon: 9.510583333333333
-  altitude: 629.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 17.73
-  iso: 2500
-  width: 5109
-  height: 3764
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 16:43:13.000000000+02:00
-- image_filename: 2022_05_21__11_30_P5216833.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.51109722222222
-  lon: 9.87725
-  altitude: 1786.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 84.02
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:30:37.000000000+02:00
 - image_filename: 2022_05_21__11_50_P5216914.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
   lat: 46.49825
@@ -1565,348 +917,60 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-21 11:50:10.000000000+02:00
-- image_filename: 2022_05_21__12_58_P5217121.jpg
+- image_filename: 2022_05_21__11_55_P5216920.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.611847222222224
-  lon: 9.989458333333333
-  altitude: 1718.0
+  lat: 46.49825
+  lon: 9.838555555555557
+  altitude: 1916.0
   focal_length: 70.0
   focal_length_35: 140.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 32.0
-  iso: 1000
-  width: 5159
-  height: 3803
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 12:58:19.000000000+02:00
-- image_filename: 2022_05_21__09_14_P5215672.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.226875
-  lon: 10.145916666666666
-  altitude: 544.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5135
-  height: 3788
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 09:14:42.000000000+02:00
-- image_filename: 2022_05_21__12_26_P5216939.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.49681944444445
-  lon: 9.844680555555556
-  altitude: 1820.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.73
-  iso: 200
-  width: 7952
-  height: 5821
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 12:26:05.000000000+02:00
-- image_filename: 2022_05_21__15_32_P5218212.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.847625
-  lon: 9.529805555555557
-  altitude: 599.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 11.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 50.56
-  iso: 200
-  width: 5203
-  height: 3862
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:32:25.000000000+02:00
-- image_filename: 2022_05_21__10_06_P5216127.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.343625
-  lon: 10.044333333333332
-  altitude: 1528.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 22.94
-  iso: 250
-  width: 5183
-  height: 3826
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:06:38.000000000+02:00
-- image_filename: 2022_05_21__09_35_P5215826.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.272888888888886
-  lon: 10.099291666666668
-  altitude: 930.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
   exposure: 0.01
   exposure_string: 1/100 s
-  focus_distance: 1000.0
+  focus_distance: 21.75
   iso: 200
-  width: 8199
-  height: 6131
+  width: 8059
+  height: 5939
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-21 09:35:22.000000000+02:00
-- image_filename: 2022_05_21__08_50_P5215639.jpg
+  time: 2022-05-21 11:55:31.000000000+02:00
+- image_filename: 2022_05_21__11_56_P5216922.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.215611111111116
-  lon: 10.166805555555555
-  altitude: 479.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 11.39
-  iso: 200
-  width: 4593
-  height: 3235
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 08:50:25.000000000+02:00
-- image_filename: 2022_05_21__10_29_P5216310.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.37419444444444
-  lon: 10.031444444444446
-  altitude: 2119.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 123.18
-  iso: 200
-  width: 8157
-  height: 6063
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:29:13.000000000+02:00
-- image_filename: 2022_05_21__11_32_P5216878.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.50609722222222
-  lon: 9.858888888888888
-  altitude: 1778.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1000.0
-  iso: 250
-  width: 5014
-  height: 3782
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:32:55.000000000+02:00
-- image_filename: 2022_05_21__15_59_P5218261.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.84872222222222
-  lon: 9.5325
-  altitude: 601.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 18.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 25.6
-  iso: 200
-  width: 5204
-  height: 3865
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:59:04.000000000+02:00
-- image_filename: 2022_05_21__11_10_P5216735.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.45143055555556
-  lon: 9.942638888888888
-  altitude: 2129.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 3790
-  height: 4822
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:10:50.000000000+02:00
-- image_filename: 2022_05_21__15_33_P5218215.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.848083333333335
-  lon: 9.529625000000001
-  altitude: 599.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 24.38
-  iso: 200
-  width: 6100
-  height: 8176
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 15:33:20.000000000+02:00
-- image_filename: 2022_05_21__08_00_P5215264.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.168638888888886
-  lon: 9.863249999999999
-  altitude: 339.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 12.23
-  iso: 400
-  width: 5189
-  height: 3843
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-21 08:00:19.000000000+02:00
-- image_filename: 2022_05_21__06_56_P5214415.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.31754166666667
-  lon: 9.39223611111111
-  altitude: 370.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 37.24
-  iso: 400
-  width: 5240
-  height: 3652
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 06:56:41.000000000+02:00
-- image_filename: 2022_05_21__09_59_P5216041.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.34655555555556
-  lon: 10.049777777777777
-  altitude: 1535.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 45.51
-  iso: 200
-  width: 8012
-  height: 5901
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 09:59:38.000000000+02:00
-- image_filename: 2022_05_21__11_09_P5216693.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.44766666666666
-  lon: 9.966375
-  altitude: 2129.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 63.01
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 11:09:00.000000000+02:00
-- image_filename: 2022_05_21__07_54_P5215146.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.16177777777778
-  lon: 9.800638888888889
-  altitude: 325.0
-  focal_length: 150.0
-  focal_length_35: 300.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 105.03
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.40-150mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-05-21 07:54:08.000000000+02:00
-- image_filename: 2022_05_21__10_49_P5216388.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.41625
-  lon: 10.011208333333334
-  altitude: 2191.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5068
-  height: 3792
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-05-21 10:49:33.000000000+02:00
-- image_filename: 2022_05_21__13_42_P5217541.jpg
-  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
-  lat: 46.750527777777776
-  lon: 9.947236111111112
-  altitude: 2324.0
+  lat: 46.49825
+  lon: 9.838555555555557
+  altitude: 1916.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 4.43
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.9
   iso: 200
-  width: 8199
-  height: 6131
+  width: 7531
+  height: 6129
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-05-21 13:42:19.000000000+02:00
+  time: 2022-05-21 11:56:25.000000000+02:00
+- image_filename: 2022_05_21__12_00_P5216926.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.49825
+  lon: 9.838555555555557
+  altitude: 1916.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 11.95
+  iso: 200
+  width: 7578
+  height: 5929
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 12:00:05.000000000+02:00
 - image_filename: 2022_05_21__12_21_P5216932.jpg
   post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
   lat: 46.49625
@@ -1925,3 +989,939 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-05-21 12:21:43.000000000+02:00
+- image_filename: 2022_05_21__12_22_P5216933.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.49622222222222
+  lon: 9.842194444444445
+  altitude: 1830.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.1
+  iso: 200
+  width: 8063
+  height: 5942
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 12:22:07.000000000+02:00
+- image_filename: 2022_05_21__12_25_P5216938.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.496694444444444
+  lon: 9.844222222222223
+  altitude: 1822.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.35
+  iso: 200
+  width: 8146
+  height: 6059
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 12:25:27.000000000+02:00
+- image_filename: 2022_05_21__12_26_P5216939.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.49681944444445
+  lon: 9.844680555555556
+  altitude: 1820.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.73
+  iso: 200
+  width: 7952
+  height: 5821
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 12:26:05.000000000+02:00
+- image_filename: 2022_05_21__12_43_P5216949.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.51029166666667
+  lon: 9.86575
+  altitude: 1770.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 52.51
+  iso: 800
+  width: 5156
+  height: 3794
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 12:43:12.000000000+02:00
+- image_filename: 2022_05_21__12_56_P5217032.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.59541666666667
+  lon: 9.960847222222222
+  altitude: 1719.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 157.54
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 12:56:15.000000000+02:00
+- image_filename: 2022_05_21__12_57_P5217072.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.60113888888889
+  lon: 9.972055555555556
+  altitude: 1719.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 23.37
+  iso: 640
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 12:57:03.000000000+02:00
+- image_filename: 2022_05_21__12_57_P5217099.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.60665277777778
+  lon: 9.97888888888889
+  altitude: 1728.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 32.44
+  iso: 800
+  width: 5196
+  height: 3910
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 12:57:39.000000000+02:00
+- image_filename: 2022_05_21__12_58_P5217121.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.611847222222224
+  lon: 9.989458333333333
+  altitude: 1718.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 32.0
+  iso: 1000
+  width: 5159
+  height: 3803
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 12:58:19.000000000+02:00
+- image_filename: 2022_05_21__13_02_P5217155.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.64369444444444
+  lon: 10.022694444444445
+  altitude: 1682.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 24.75
+  iso: 1600
+  width: 4483
+  height: 3355
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:02:33.000000000+02:00
+- image_filename: 2022_05_21__13_04_P5217194.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.65929166666667
+  lon: 10.036944444444444
+  altitude: 1684.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:04:38.000000000+02:00
+- image_filename: 2022_05_21__13_10_P5217249.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.688291666666665
+  lon: 10.084416666666668
+  altitude: 1542.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 38.37
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:10:08.000000000+02:00
+- image_filename: 2022_05_21__13_10_P5217262.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.69043055555555
+  lon: 10.087208333333335
+  altitude: 1537.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 174.29
+  iso: 1250
+  width: 4983
+  height: 3356
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:10:29.000000000+02:00
+- image_filename: 2022_05_21__13_26_P5217369.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.751805555555556
+  lon: 10.042763888888889
+  altitude: 1783.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 61.83
+  iso: 2000
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:26:53.000000000+02:00
+- image_filename: 2022_05_21__13_27_P5217388.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.75340277777778
+  lon: 10.035916666666667
+  altitude: 1813.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 53.9
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:27:26.000000000+02:00
+- image_filename: 2022_05_21__13_31_P5217450.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.74494444444444
+  lon: 9.990222222222222
+  altitude: 2113.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 3763
+  height: 5083
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:31:42.000000000+02:00
+- image_filename: 2022_05_21__13_32_P5217457.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.74454166666667
+  lon: 9.987763888888889
+  altitude: 2168.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 19.02
+  iso: 200
+  width: 8134
+  height: 6084
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:32:45.000000000+02:00
+- image_filename: 2022_05_21__13_35_P5217495.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.7425
+  lon: 9.972
+  altitude: 2271.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 30.8
+  iso: 250
+  width: 5240
+  height: 3773
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:35:10.000000000+02:00
+- image_filename: 2022_05_21__13_39_P5217531.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.75022222222222
+  lon: 9.947694444444444
+  altitude: 2403.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 25.01
+  iso: 200
+  width: 8141
+  height: 6078
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:39:55.000000000+02:00
+- image_filename: 2022_05_21__13_40_P5217532.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.75022222222222
+  lon: 9.947694444444444
+  altitude: 2403.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 3.35
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:40:17.000000000+02:00
+- image_filename: 2022_05_21__13_41_P5217540.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.75036111111111
+  lon: 9.947527777777777
+  altitude: 2404.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4981
+  height: 3838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:41:51.000000000+02:00
+- image_filename: 2022_05_21__13_42_P5217541.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.750527777777776
+  lon: 9.947236111111112
+  altitude: 2324.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.43
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:42:19.000000000+02:00
+- image_filename: 2022_05_21__13_48_P5217563.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.75172222222222
+  lon: 9.945847222222222
+  altitude: 2419.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 23.75
+  iso: 250
+  width: 5240
+  height: 3825
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:48:25.000000000+02:00
+- image_filename: 2022_05_21__13_51_P5217614.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.76561111111111
+  lon: 9.940069444444445
+  altitude: 2275.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 24.42
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:51:35.000000000+02:00
+- image_filename: 2022_05_21__13_53_P5217671.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.77206944444444
+  lon: 9.936972222222222
+  altitude: 2199.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 12.48
+  iso: 1000
+  width: 5179
+  height: 3830
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:53:29.000000000+02:00
+- image_filename: 2022_05_21__13_55_P5217722.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.780680555555556
+  lon: 9.9255
+  altitude: 2074.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 32.0
+  iso: 3200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 13:55:45.000000000+02:00
+- image_filename: 2022_05_21__14_30_P5217979.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.85681944444445
+  lon: 9.879486111111111
+  altitude: 1396.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 71.86
+  iso: 2000
+  width: 5056
+  height: 3655
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 14:30:15.000000000+02:00
+- image_filename: 2022_05_21__14_38_P5218068.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.90322222222222
+  lon: 9.826666666666666
+  altitude: 1066.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 73.14
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 14:38:47.000000000+02:00
+- image_filename: 2022_05_21__14_57_P5218100.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.97025
+  lon: 9.560708333333334
+  altitude: 568.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 30.17
+  iso: 640
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 14:57:41.000000000+02:00
+- image_filename: 2022_05_21__15_16_P5218142.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.94794444444444
+  lon: 9.545486111111112
+  altitude: 570.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 25.92
+  iso: 800
+  width: 5065
+  height: 3671
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:16:34.000000000+02:00
+- image_filename: 2022_05_21__15_32_P5218212.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.847625
+  lon: 9.529805555555557
+  altitude: 599.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 50.56
+  iso: 200
+  width: 5203
+  height: 3862
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:32:25.000000000+02:00
+- image_filename: 2022_05_21__15_33_P5218215.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.848083333333335
+  lon: 9.529625000000001
+  altitude: 599.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 24.38
+  iso: 200
+  width: 6100
+  height: 8176
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:33:20.000000000+02:00
+- image_filename: 2022_05_21__15_33_P5218216.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.848194444444445
+  lon: 9.52975
+  altitude: 599.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7506
+  height: 5877
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:33:40.000000000+02:00
+- image_filename: 2022_05_21__15_34_P5218217.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84805555555556
+  lon: 9.530125
+  altitude: 600.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.75
+  iso: 200
+  width: 5938
+  height: 8166
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:34:19.000000000+02:00
+- image_filename: 2022_05_21__15_35_P5218219.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84813888888889
+  lon: 9.531166666666667
+  altitude: 601.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 16.94
+  iso: 200
+  width: 5977
+  height: 8085
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:35:52.000000000+02:00
+- image_filename: 2022_05_21__15_42_P5218233.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84818055555556
+  lon: 9.532833333333334
+  altitude: 604.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.26
+  iso: 200
+  width: 5979
+  height: 8046
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:42:03.000000000+02:00
+- image_filename: 2022_05_21__15_44_P5218239.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84776388888889
+  lon: 9.534236111111111
+  altitude: 620.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 13.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 3.35
+  iso: 200
+  width: 4709
+  height: 3721
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:44:53.000000000+02:00
+- image_filename: 2022_05_21__15_49_P5218245.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.847833333333334
+  lon: 9.534833333333333
+  altitude: 623.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 14.81
+  iso: 200
+  width: 4564
+  height: 7529
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:49:01.000000000+02:00
+- image_filename: 2022_05_21__15_53_P5218249.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.847875
+  lon: 9.53475
+  altitude: 623.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.57
+  iso: 200
+  width: 7721
+  height: 6099
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:53:43.000000000+02:00
+- image_filename: 2022_05_21__15_58_P5218259.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84852777777778
+  lon: 9.532611111111112
+  altitude: 601.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 18.36
+  iso: 200
+  width: 6081
+  height: 8162
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:58:03.000000000+02:00
+- image_filename: 2022_05_21__15_58_P5218260.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84854166666667
+  lon: 9.532597222222224
+  altitude: 601.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 9.37
+  iso: 200
+  width: 5913
+  height: 8187
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:58:37.000000000+02:00
+- image_filename: 2022_05_21__15_59_P5218261.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84872222222222
+  lon: 9.5325
+  altitude: 601.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 18.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 25.6
+  iso: 200
+  width: 5204
+  height: 3865
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 15:59:04.000000000+02:00
+- image_filename: 2022_05_21__16_01_P5218264.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.849000000000004
+  lon: 9.531375
+  altitude: 599.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.74
+  iso: 200
+  width: 6828
+  height: 5274
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 16:01:01.000000000+02:00
+- image_filename: 2022_05_21__16_01_P5218265.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84898611111112
+  lon: 9.531027777777778
+  altitude: 599.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.73
+  iso: 200
+  width: 6002
+  height: 8101
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 16:01:23.000000000+02:00
+- image_filename: 2022_05_21__16_03_P5218269.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.848444444444446
+  lon: 9.53052777777778
+  altitude: 599.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 16.0
+  iso: 200
+  width: 5022
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 16:03:51.000000000+02:00
+- image_filename: 2022_05_21__16_30_P5218271.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84841666666667
+  lon: 9.52977777777778
+  altitude: 600.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 8.32
+  iso: 200
+  width: 5060
+  height: 3812
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 16:30:18.000000000+02:00
+- image_filename: 2022_05_21__16_32_P5218276.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84773611111111
+  lon: 9.529652777777779
+  altitude: 599.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.28
+  iso: 200
+  width: 7038
+  height: 5807
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 16:32:04.000000000+02:00
+- image_filename: 2022_05_21__16_33_P5218279.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84759722222223
+  lon: 9.529930555555556
+  altitude: 599.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7412
+  height: 5295
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 16:33:21.000000000+02:00
+- image_filename: 2022_05_21__16_43_P5218305.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 46.84630555555556
+  lon: 9.510583333333333
+  altitude: 629.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 17.73
+  iso: 2500
+  width: 5109
+  height: 3764
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 16:43:13.000000000+02:00
+- image_filename: 2022_05_21__17_01_P5218351.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 47.041374999999995
+  lon: 9.465166666666667
+  altitude: 530.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 57.49
+  iso: 640
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 17:01:45.000000000+02:00
+- image_filename: 2022_05_21__17_02_P5218363.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 47.04884722222222
+  lon: 9.470597222222223
+  altitude: 547.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 70.01
+  iso: 1000
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 17:02:19.000000000+02:00
+- image_filename: 2022_05_21__17_07_P5218427.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 47.10848611111111
+  lon: 9.516736111111111
+  altitude: 522.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 77.64
+  iso: 1000
+  width: 5150
+  height: 3787
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 17:07:22.000000000+02:00
+- image_filename: 2022_05_21__17_17_P5218491.jpg
+  post_slug: 2022-05-21-bernina-ekspres-st-moritz-chur
+  lat: 47.246097222222225
+  lon: 9.518833333333335
+  altitude: 493.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 115.38
+  iso: 200
+  width: 4969
+  height: 3554
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-05-21 17:17:17.000000000+02:00

@@ -1,49 +1,49 @@
 ---
-- image_filename: 2019_02_22__17_29__2220153.jpg
+- image_filename: 2019_02_22__15_42__2220008.jpg
   post_slug: 2019-02-22-popoludniowy-sopot
-  focal_length: 12.0
-  focal_length_35: 24.0
+  focal_length: 66.0
+  focal_length_35: 132.0
   crop: 2.0
-  aperture: 6.3
-  iso: 200
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 27.72
+  iso: 400
+  width: 4840
+  height: 3849
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5226
-  height: 3901
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2019-02-22 17:29:41+01:00
-  focus_distance: 4.16
+  time: 2019-02-22 15:42:11.000000000+01:00
 - image_filename: 2019_02_22__15_42__2220009.jpg
   post_slug: 2019-02-22-popoludniowy-sopot
   focal_length: 66.0
   focal_length_35: 132.0
   crop: 2.0
   aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4811
-  height: 3563
   exposure: 0.00125
   exposure_string: 1/800 s
-  time: 2019-02-22 15:42:32+01:00
   focus_distance: 26.59
+  iso: 400
+  width: 4811
+  height: 3563
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 15:42:32.000000000+01:00
 - image_filename: 2019_02_22__15_47__2220025.jpg
   post_slug: 2019-02-22-popoludniowy-sopot
   focal_length: 57.0
   focal_length_35: 114.0
   crop: 2.0
   aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2019-02-22 15:47:29+01:00
   focus_distance: 32.63
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 15:47:29.000000000+01:00
 - image_filename: 2019_02_22__15_49__2220031.jpg
   post_slug: 2019-02-22-popoludniowy-sopot
   lat: 53.85551388888889
@@ -53,159 +53,15 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5047
-  height: 3768
   exposure: 0.000625
   exposure_string: 1/1600 s
-  time: 2019-02-22 15:49:28+01:00
   focus_distance: 1000.0
-- image_filename: 2019_02_22__15_59__2220086.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  lat: 54.02529166666667
-  lon: 18.764972222222223
-  altitude: 27.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4939
-  height: 3687
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-02-22 15:59:36+01:00
-  focus_distance: 22.17
-- image_filename: 2019_02_22__17_28__2220147.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5144
-  height: 3840
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2019-02-22 17:28:07+01:00
-  focus_distance: 25.8
-- image_filename: 2019_02_22__17_30__2220155.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5100
-  height: 3807
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2019-02-22 17:30:09+01:00
-  focus_distance: 3.17
-- image_filename: 2019_02_22__19_15__2220188.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.0
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5084
-  height: 3795
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2019-02-22 19:15:39+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_02_22__19_25__2220193.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4962
-  height: 3893
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2019-02-22 19:25:57+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_02_22__17_44__2220171.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 2500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4971
-  height: 3711
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2019-02-22 17:44:24+01:00
-  focus_distance: 57.08
-- image_filename: 2019_02_22__16_21__2220141.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  lat: 54.24104166666667
-  lon: 18.647402777777778
-  altitude: 4.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
   iso: 400
+  width: 5047
+  height: 3768
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5151
-  height: 3702
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-02-22 16:21:25+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_02_22__15_57__2220082.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  lat: 53.99554166666667
-  lon: 18.75777777777778
-  altitude: 34.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-02-22 15:57:55+01:00
-  focus_distance: 31.15
-- image_filename: 2019_02_22__15_42__2220008.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4840
-  height: 3849
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-02-22 15:42:11+01:00
-  focus_distance: 27.72
+  time: 2019-02-22 15:49:28.000000000+01:00
 - image_filename: 2019_02_22__15_49__2220037.jpg
   post_slug: 2019-02-22-popoludniowy-sopot
   lat: 53.85970833333334
@@ -215,30 +71,51 @@
   focal_length_35: 132.0
   crop: 2.0
   aperture: 4.0
-  iso: 400
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5119
-  height: 3306
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2019-02-22 15:49:42+01:00
   focus_distance: 34.71
-- image_filename: 2019_02_22__17_32__2220158.jpg
-  post_slug: 2019-02-22-popoludniowy-sopot
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
+  iso: 400
+  width: 5119
+  height: 3306
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5125
-  height: 3826
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2019-02-22 17:32:04+01:00
-  focus_distance: 4.43
+  time: 2019-02-22 15:49:42.000000000+01:00
+- image_filename: 2019_02_22__15_57__2220082.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  lat: 53.99554166666667
+  lon: 18.75777777777778
+  altitude: 34.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 31.15
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 15:57:55.000000000+01:00
+- image_filename: 2019_02_22__15_59__2220086.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  lat: 54.02529166666667
+  lon: 18.764972222222223
+  altitude: 27.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 22.17
+  iso: 320
+  width: 4939
+  height: 3687
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 15:59:36.000000000+01:00
 - image_filename: 2019_02_22__16_19__2220126.jpg
   post_slug: 2019-02-22-popoludniowy-sopot
   lat: 54.20536111111112
@@ -248,27 +125,150 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  iso: 320
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4932
-  height: 3682
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2019-02-22 16:19:18+01:00
   focus_distance: 176.17
+  iso: 320
+  width: 4932
+  height: 3682
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 16:19:18.000000000+01:00
+- image_filename: 2019_02_22__16_21__2220141.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  lat: 54.24104166666667
+  lon: 18.647402777777778
+  altitude: 4.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 5151
+  height: 3702
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 16:21:25.000000000+01:00
+- image_filename: 2019_02_22__17_28__2220147.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 25.8
+  iso: 200
+  width: 5144
+  height: 3840
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 17:28:07.000000000+01:00
 - image_filename: 2019_02_22__17_29__2220151.jpg
   post_slug: 2019-02-22-popoludniowy-sopot
   focal_length: 29.0
   focal_length_35: 58.0
   crop: 2.0
   aperture: 6.3
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 5.24
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5111
   height: 3816
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2019-02-22 17:29:14+01:00
-  focus_distance: 5.24
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 17:29:14.000000000+01:00
+- image_filename: 2019_02_22__17_29__2220153.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 4.16
+  iso: 200
+  width: 5226
+  height: 3901
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 17:29:41.000000000+01:00
+- image_filename: 2019_02_22__17_30__2220155.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 6.0
+  exposure_string: 1.6 s
+  focus_distance: 3.17
+  iso: 200
+  width: 5100
+  height: 3807
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 17:30:09.000000000+01:00
+- image_filename: 2019_02_22__17_32__2220158.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5125
+  height: 3826
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 17:32:04.000000000+01:00
+- image_filename: 2019_02_22__17_44__2220171.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 57.08
+  iso: 2500
+  width: 4971
+  height: 3711
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-02-22 17:44:24.000000000+01:00
+- image_filename: 2019_02_22__19_15__2220188.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5084
+  height: 3795
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-02-22 19:15:39.000000000+01:00
+- image_filename: 2019_02_22__19_25__2220193.jpg
+  post_slug: 2019-02-22-popoludniowy-sopot
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4962
+  height: 3893
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-02-22 19:25:57.000000000+01:00

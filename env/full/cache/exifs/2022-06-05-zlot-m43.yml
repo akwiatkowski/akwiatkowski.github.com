@@ -1,24 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-06-05-zlot-m43
-- image_filename: 2022_06_02__17_19_P6028540.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.52002777777778
-  lon: 17.313083333333335
-  altitude: 123.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7528
-  height: 5541
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-02 17:19:41.000000000+02:00
 - image_filename: 2022_06_02__17_18_P6028536.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.52002777777778
@@ -37,6 +17,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-06-02 17:18:32.000000000+02:00
+- image_filename: 2022_06_02__17_19_P6028540.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.52002777777778
+  lon: 17.313083333333335
+  altitude: 123.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7528
+  height: 5541
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-02 17:19:41.000000000+02:00
 - image_filename: 2022_06_02__17_33_P6028542.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.51313888888889
@@ -73,6 +71,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-06-02 17:52:26.000000000+02:00
+- image_filename: 2022_06_02__18_08_P6028559.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.542138888888886
+  lon: 17.490694444444447
+  altitude: 104.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.06
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-02 18:08:32.000000000+02:00
 - image_filename: 2022_06_02__18_46_P6028563.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.54161111111111
@@ -109,24 +125,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-06-02 18:51:37.000000000+02:00
-- image_filename: 2022_06_02__18_08_P6028559.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.542138888888886
-  lon: 17.490694444444447
-  altitude: 104.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 1.06
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-02 18:08:32.000000000+02:00
 - image_filename: 2022_06_02__18_53_P6028611.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.5405
@@ -145,24 +143,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-06-02 18:53:56.000000000+02:00
-- image_filename: 2022_06_02__18_56_P6028627.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.540388888888884
-  lon: 17.492486111111113
-  altitude: 160.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 103.71
-  iso: 400
-  width: 4019
-  height: 2907
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 18:56:19.000000000+02:00
 - image_filename: 2022_06_02__18_55_P6028621.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.54047222222222
@@ -181,6 +161,24 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-06-02 18:55:41.000000000+02:00
+- image_filename: 2022_06_02__18_56_P6028627.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.540388888888884
+  lon: 17.492486111111113
+  altitude: 160.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 103.71
+  iso: 400
+  width: 4019
+  height: 2907
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-02 18:56:19.000000000+02:00
 - image_filename: 2022_06_02__19_06_P6028719.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.539402777777774
@@ -235,42 +233,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-06-02 19:08:40.000000000+02:00
-- image_filename: 2022_06_02__19_09_P6028796.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53934722222222
-  lon: 17.494027777777777
-  altitude: 156.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 65.1
-  iso: 2500
-  width: 3565
-  height: 2451
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:09:00.000000000+02:00
-- image_filename: 2022_06_02__19_09_P6028793.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53934722222222
-  lon: 17.494027777777777
-  altitude: 156.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 64.74
-  iso: 2500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:09:00.000000000+02:00
 - image_filename: 2022_06_02__19_08_P6028789.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.53934722222222
@@ -289,6 +251,42 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-06-02 19:08:59.000000000+02:00
+- image_filename: 2022_06_02__19_09_P6028793.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53934722222222
+  lon: 17.494027777777777
+  altitude: 156.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 64.74
+  iso: 2500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-02 19:09:00.000000000+02:00
+- image_filename: 2022_06_02__19_09_P6028796.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53934722222222
+  lon: 17.494027777777777
+  altitude: 156.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 65.1
+  iso: 2500
+  width: 3565
+  height: 2451
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-02 19:09:00.000000000+02:00
 - image_filename: 2022_06_02__19_09_P6028812.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.53934722222222
@@ -307,24 +305,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-06-02 19:09:42.000000000+02:00
-- image_filename: 2022_06_02__19_10_P6028821.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53934722222222
-  lon: 17.494027777777777
-  altitude: 157.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  focus_distance: 123.36
-  iso: 3200
-  width: 5158
-  height: 3801
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:10:11.000000000+02:00
 - image_filename: 2022_06_02__19_10_P6028823.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.53934722222222
@@ -343,492 +323,6 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-06-02 19:10:11.000000000+02:00
-- image_filename: 2022_06_03__12_40_P6030643.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54175
-  lon: 17.490930555555558
-  altitude: 154.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 40.54
-  iso: 200
-  width: 1894
-  height: 1301
-  lens: OLYMPUS M.300mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 12:40:35.000000000+02:00
-- image_filename: 2022_06_02__19_15_P6028988.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53934722222222
-  lon: 17.494027777777777
-  altitude: 157.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 83.11
-  iso: 400
-  width: 5150
-  height: 3791
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:15:57.000000000+02:00
-- image_filename: 2022_06_05__03_31_P6051212.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53688888888889
-  lon: 17.489250000000002
-  altitude: 150.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 13.31
-  iso: 800
-  width: 4207
-  height: 2981
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-06-05 03:31:21.000000000+02:00
-- image_filename: 2022_06_03__03_19_P6039092.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54045833333333
-  lon: 17.49276388888889
-  altitude: 153.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 15.8
-  iso: 200
-  width: 8096
-  height: 5994
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 03:19:35.000000000+02:00
-- image_filename: 2022_06_02__19_17_P6028998.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53934722222222
-  lon: 17.494027777777777
-  altitude: 156.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1.9
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:17:17.000000000+02:00
-- image_filename: 2022_06_04__08_44_P6041037.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.536902777777776
-  lon: 17.5
-  altitude: 156.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 0.65
-  iso: 200
-  width: 8152
-  height: 6045
-  lens: OLYMPUS M.8-25mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-04 08:44:55.000000000+02:00
-- image_filename: 2022_06_04__03_46_P6041000.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.538444444444444
-  lon: 17.496555555555556
-  altitude: 158.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 61.83
-  iso: 200
-  width: 8084
-  height: 5989
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-04 03:46:21.000000000+02:00
-- image_filename: 2022_06_03__12_01_P6030408.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54172222222222
-  lon: 17.484555555555556
-  altitude: 149.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 0.25
-  iso: 400
-  width: 4713
-  height: 3548
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 12:01:33.000000000+02:00
-- image_filename: 2022_06_05__04_03_P6051317.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53565277777778
-  lon: 17.502416666666665
-  altitude: 157.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:03:53.000000000+02:00
-- image_filename: 2022_06_03__10_52_P6030057.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54534722222222
-  lon: 17.492083333333333
-  altitude: 156.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 2.19
-  iso: 200
-  width: 4423
-  height: 3363
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 10:52:16.000000000+02:00
-- image_filename: 2022_06_03__18_17_P6030866.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54125
-  lon: 17.484486111111114
-  altitude: 145.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.25
-  iso: 200
-  width: 3304
-  height: 4470
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 18:17:19.000000000+02:00
-- image_filename: 2022_06_03__12_14_P6030566.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54113888888889
-  lon: 17.484625
-  altitude: 151.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 14.57
-  iso: 200
-  width: 8154
-  height: 6081
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 12:14:46.000000000+02:00
-- image_filename: 2022_06_03__10_50_P6030038.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54530555555555
-  lon: 17.492125
-  altitude: 157.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 10.22
-  iso: 800
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 10:50:17.000000000+02:00
-- image_filename: 2022_06_03__17_51_P6030649.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54168055555555
-  lon: 17.4845
-  altitude: 146.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.19
-  iso: 1000
-  width: 4808
-  height: 3231
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 17:51:54.000000000+02:00
-- image_filename: 2022_06_03__11_17_P6030146.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54501388888889
-  lon: 17.486666666666668
-  altitude: 155.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1.53
-  iso: 1000
-  width: 4415
-  height: 3440
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 11:17:51.000000000+02:00
-- image_filename: 2022_06_03__18_00_P6030711.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54168055555555
-  lon: 17.4845
-  altitude: 146.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 0.22
-  iso: 800
-  width: 3490
-  height: 4796
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 18:00:46.000000000+02:00
-- image_filename: 2022_06_03__20_27_P6030963.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54219444444444
-  lon: 17.490291666666668
-  altitude: 161.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 10399
-  height: 7791
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-06-03 20:27:00.000000000+02:00
-- image_filename: 2022_06_02__19_29_P6029078.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53936111111111
-  lon: 17.494041666666668
-  altitude: 155.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.76
-  iso: 6400
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:29:40.000000000+02:00
-- image_filename: 2022_06_03__17_53_P6030671.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54168055555555
-  lon: 17.4845
-  altitude: 146.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 0.19
-  iso: 2000
-  width: 2544
-  height: 3206
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 17:53:24.000000000+02:00
-- image_filename: 2022_06_03__18_14_P6030849.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54125
-  lon: 17.484458333333333
-  altitude: 130.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.28
-  iso: 400
-  width: 3669
-  height: 2642
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 18:14:45.000000000+02:00
-- image_filename: 2022_06_04__19_38_P6041134.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54222222222222
-  lon: 17.49054166666667
-  altitude: 162.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 3.81
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-04 19:38:23.000000000+02:00
-- image_filename: 2022_06_03__12_25_P6030597.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54113888888889
-  lon: 17.490722222222225
-  altitude: 148.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1.5
-  iso: 1000
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 12:25:28.000000000+02:00
-- image_filename: 2022_06_03__11_47_P6030314.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.541694444444445
-  lon: 17.484527777777778
-  altitude: 147.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1.4
-  iso: 400
-  width: 5048
-  height: 3666
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 11:47:34.000000000+02:00
-- image_filename: 2022_06_02__19_30_P6029086.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53936111111111
-  lon: 17.494041666666668
-  altitude: 155.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.57
-  iso: 6400
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:30:00.000000000+02:00
-- image_filename: 2022_06_03__11_06_P6030126.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.545249999999996
-  lon: 17.490666666666666
-  altitude: 155.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 1.46
-  iso: 640
-  width: 4961
-  height: 3421
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 11:06:03.000000000+02:00
-- image_filename: 2022_06_05__04_30_P6051387.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.541152777777775
-  lon: 17.490750000000002
-  altitude: 155.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  focus_distance: 44.56
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.300mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:30:10.000000000+02:00
-- image_filename: 2022_06_02__19_27_P6029067.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53934722222222
-  lon: 17.494027777777777
-  altitude: 155.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.64
-  iso: 3200
-  width: 3912
-  height: 5240
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:27:12.000000000+02:00
 - image_filename: 2022_06_02__19_11_P6028925.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.53934722222222
@@ -847,114 +341,240 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-06-02 19:11:26.000000000+02:00
-- image_filename: 2022_06_03__11_19_P6030164.jpg
+- image_filename: 2022_06_02__19_14_P6028960.jpg
   post_slug: 2022-06-05-zlot-m43
-  lat: 51.54501388888889
-  lon: 17.486666666666668
-  altitude: 155.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 11.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1.45
-  iso: 2000
-  width: 4496
-  height: 3122
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 11:19:09.000000000+02:00
-- image_filename: 2022_06_03__11_29_P6030235.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.545069444444444
-  lon: 17.48513888888889
-  altitude: 158.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.37
-  iso: 800
-  width: 4499
-  height: 3418
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 11:29:07.000000000+02:00
-- image_filename: 2022_06_03__11_04_P6030105.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.545249999999996
-  lon: 17.490666666666666
-  altitude: 155.0
+  lat: 51.53934722222222
+  lon: 17.494027777777777
+  altitude: 157.0
   focal_length: 600.0
   focal_length_35: 1200.0
   crop: 2.0
   aperture: 8.0
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
-  focus_distance: 1.82
-  iso: 640
-  width: 4198
-  height: 2921
+  focus_distance: 80.26
+  iso: 250
+  width: 5123
+  height: 3753
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
-  time: 2022-06-03 11:04:52.000000000+02:00
-- image_filename: 2022_06_05__04_02_P6051304.jpg
+  time: 2022-06-02 19:14:33.000000000+02:00
+- image_filename: 2022_06_02__19_15_P6028988.jpg
   post_slug: 2022-06-05-zlot-m43
-  lat: 51.53575
-  lon: 17.502305555555555
-  altitude: 163.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 20.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 11.54
-  iso: 200
-  width: 5100
-  height: 3818
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:02:34.000000000+02:00
-- image_filename: 2022_06_03__10_49_P6030035.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54522222222222
-  lon: 17.49215277777778
-  altitude: 162.0
+  lat: 51.53934722222222
+  lon: 17.494027777777777
+  altitude: 157.0
   focal_length: 600.0
   focal_length_35: 1200.0
   crop: 2.0
   aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 2.02
-  iso: 200
-  width: 3112
-  height: 4915
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 83.11
+  iso: 400
+  width: 5150
+  height: 3791
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
-  time: 2022-06-03 10:49:35.000000000+02:00
-- image_filename: 2022_06_05__09_28_P6051446.jpg
+  time: 2022-06-02 19:15:57.000000000+02:00
+- image_filename: 2022_06_02__19_17_P6028998.jpg
   post_slug: 2022-06-05-zlot-m43
-  lat: 51.60576388888889
-  lon: 17.748083333333334
-  altitude: 158.0
-  focal_length: 34.0
-  focal_length_35: 68.0
+  lat: 51.53934722222222
+  lon: 17.494027777777777
+  altitude: 156.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
   crop: 2.0
-  aperture: 5.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 1000.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.9
   iso: 200
-  width: 5142
-  height: 3779
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-02 19:17:17.000000000+02:00
+- image_filename: 2022_06_02__19_19_P6029010.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53934722222222
+  lon: 17.494027777777777
+  altitude: 156.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.4
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-02 19:19:09.000000000+02:00
+- image_filename: 2022_06_02__19_27_P6029067.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53934722222222
+  lon: 17.494027777777777
+  altitude: 155.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.64
+  iso: 3200
+  width: 3912
+  height: 5240
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-02 19:27:12.000000000+02:00
+- image_filename: 2022_06_02__19_29_P6029078.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53936111111111
+  lon: 17.494041666666668
+  altitude: 155.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.76
+  iso: 6400
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-02 19:29:40.000000000+02:00
+- image_filename: 2022_06_02__19_30_P6029086.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53936111111111
+  lon: 17.494041666666668
+  altitude: 155.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.57
+  iso: 6400
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-02 19:30:00.000000000+02:00
+- image_filename: 2022_06_02__19_37_P6029089.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54
+  lon: 17.493791666666667
+  altitude: 147.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 6.14
+  iso: 200
+  width: 8112
+  height: 6065
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-06-05 09:28:38.000000000+02:00
+  time: 2022-06-02 19:37:26.000000000+02:00
+- image_filename: 2022_06_03__03_19_P6039092.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54045833333333
+  lon: 17.49276388888889
+  altitude: 153.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 15.8
+  iso: 200
+  width: 8096
+  height: 5994
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 03:19:35.000000000+02:00
+- image_filename: 2022_06_03__03_23_P6039094.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53993055555556
+  lon: 17.493972222222222
+  altitude: 149.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 70.32
+  iso: 200
+  width: 8076
+  height: 5964
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 03:23:38.000000000+02:00
+- image_filename: 2022_06_03__03_24_P6039095.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53980555555555
+  lon: 17.494097222222223
+  altitude: 151.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 2.21
+  iso: 200
+  width: 8156
+  height: 6073
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 03:24:06.000000000+02:00
+- image_filename: 2022_06_03__03_25_P6039096.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53966666666666
+  lon: 17.49425
+  altitude: 146.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 15.1
+  iso: 200
+  width: 8074
+  height: 5960
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 03:25:01.000000000+02:00
+- image_filename: 2022_06_03__03_39_P6039106.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53936111111111
+  lon: 17.49390277777778
+  altitude: 147.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 6.99
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 03:39:51.000000000+02:00
 - image_filename: 2022_06_03__03_44_P6039109.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.53959722222222
@@ -973,24 +593,78 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-06-03 03:44:42.000000000+02:00
-- image_filename: 2022_06_03__11_57_P6030352.jpg
+- image_filename: 2022_06_03__03_46_P6039112.jpg
   post_slug: 2022-06-05-zlot-m43
-  lat: 51.54175
-  lon: 17.484555555555556
-  altitude: 149.0
-  focal_length: 60.0
-  focal_length_35: 120.0
+  lat: 51.539402777777774
+  lon: 17.49476388888889
+  altitude: 158.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.03
+  iso: 200
+  width: 8156
+  height: 6075
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 03:46:54.000000000+02:00
+- image_filename: 2022_06_03__03_50_P6039117.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53944444444444
+  lon: 17.494847222222223
+  altitude: 157.0
+  focal_length: 17.0
+  focal_length_35: 34.0
   crop: 2.0
   aperture: 8.0
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 0.29
-  iso: 2500
-  width: 4000
-  height: 3118
-  lens: OLYMPUS M.60mm F2.8 Macro
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 15.1
+  iso: 200
+  width: 4775
+  height: 3323
+  lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-06-03 11:57:02.000000000+02:00
+  time: 2022-06-03 03:50:32.000000000+02:00
+- image_filename: 2022_06_03__03_53_P6039122.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.538694444444445
+  lon: 17.49609722222222
+  altitude: 158.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 3.12
+  iso: 200
+  width: 8090
+  height: 5980
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 03:53:41.000000000+02:00
+- image_filename: 2022_06_03__03_54_P6039123.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53854166666667
+  lon: 17.496430555555555
+  altitude: 156.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.81
+  iso: 200
+  width: 6064
+  height: 8143
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 03:54:23.000000000+02:00
 - image_filename: 2022_06_03__03_58_P6039126.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.538125
@@ -1009,6 +683,420 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-06-03 03:58:32.000000000+02:00
+- image_filename: 2022_06_03__04_20_P6039130.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.539541666666665
+  lon: 17.494347222222224
+  altitude: 156.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 42.33
+  iso: 200
+  width: 8101
+  height: 6006
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 04:20:43.000000000+02:00
+- image_filename: 2022_06_03__04_36_P6039131.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54031944444444
+  lon: 17.493305555555555
+  altitude: 159.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 17.58
+  iso: 200
+  width: 7987
+  height: 5836
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 04:36:09.000000000+02:00
+- image_filename: 2022_06_03__08_14_P6030001.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54227777777778
+  lon: 17.49041666666667
+  altitude: 156.0
+  focal_length: 400.0
+  focal_length_35: 800.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.71
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.100-400mm F5.0-6.3
+  camera: E-M1MarkIII
+  time: 2022-06-03 08:14:52.000000000+02:00
+- image_filename: 2022_06_03__08_16_P6030011.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54227777777778
+  lon: 17.49041666666667
+  altitude: 156.0
+  focal_length: 400.0
+  focal_length_35: 800.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 13.3
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.100-400mm F5.0-6.3
+  camera: E-M1MarkIII
+  time: 2022-06-03 08:16:41.000000000+02:00
+- image_filename: 2022_06_03__09_46_P6030024.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54227777777778
+  lon: 17.49041666666667
+  altitude: 156.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.72
+  iso: 200
+  width: 3894
+  height: 2876
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 09:46:26.000000000+02:00
+- image_filename: 2022_06_03__10_38_P6030026.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54216666666667
+  lon: 17.490458333333333
+  altitude: 150.0
+  focal_length: 7.0
+  focal_length_35: 14.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.7-14mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-06-03 10:38:59.000000000+02:00
+- image_filename: 2022_06_03__10_43_P6030030.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54344444444444
+  lon: 17.491666666666667
+  altitude: 161.0
+  focal_length: 7.0
+  focal_length_35: 14.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 6132
+  height: 8200
+  lens: OLYMPUS M.7-14mm F2.8
+  camera: E-M1MarkIII
+  time: 2022-06-03 10:43:10.000000000+02:00
+- image_filename: 2022_06_03__10_49_P6030035.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54522222222222
+  lon: 17.49215277777778
+  altitude: 162.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.02
+  iso: 200
+  width: 3112
+  height: 4915
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 10:49:35.000000000+02:00
+- image_filename: 2022_06_03__10_50_P6030037.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.545249999999996
+  lon: 17.49215277777778
+  altitude: 157.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.58
+  iso: 200
+  width: 4316
+  height: 3100
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 10:50:04.000000000+02:00
+- image_filename: 2022_06_03__10_50_P6030038.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54530555555555
+  lon: 17.492125
+  altitude: 157.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 10.22
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 10:50:17.000000000+02:00
+- image_filename: 2022_06_03__10_51_P6030053.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54534722222222
+  lon: 17.492083333333333
+  altitude: 159.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 14.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.82
+  iso: 200
+  width: 4065
+  height: 2880
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 10:51:22.000000000+02:00
+- image_filename: 2022_06_03__10_52_P6030057.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54534722222222
+  lon: 17.492083333333333
+  altitude: 156.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 2.19
+  iso: 200
+  width: 4423
+  height: 3363
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 10:52:16.000000000+02:00
+- image_filename: 2022_06_03__10_53_P6030067.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54534722222222
+  lon: 17.492083333333333
+  altitude: 160.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.89
+  iso: 320
+  width: 4753
+  height: 3309
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 10:53:03.000000000+02:00
+- image_filename: 2022_06_03__11_04_P6030105.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.545249999999996
+  lon: 17.490666666666666
+  altitude: 155.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.82
+  iso: 640
+  width: 4198
+  height: 2921
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:04:52.000000000+02:00
+- image_filename: 2022_06_03__11_06_P6030126.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.545249999999996
+  lon: 17.490666666666666
+  altitude: 155.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.46
+  iso: 640
+  width: 4961
+  height: 3421
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:06:03.000000000+02:00
+- image_filename: 2022_06_03__11_17_P6030146.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54501388888889
+  lon: 17.486666666666668
+  altitude: 155.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.53
+  iso: 1000
+  width: 4415
+  height: 3440
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:17:51.000000000+02:00
+- image_filename: 2022_06_03__11_19_P6030164.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54501388888889
+  lon: 17.486666666666668
+  altitude: 155.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.45
+  iso: 2000
+  width: 4496
+  height: 3122
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:19:09.000000000+02:00
+- image_filename: 2022_06_03__11_25_P6030206.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54493055555555
+  lon: 17.486027777777778
+  altitude: 154.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.57
+  iso: 500
+  width: 4080
+  height: 3183
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:25:20.000000000+02:00
+- image_filename: 2022_06_03__11_29_P6030235.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.545069444444444
+  lon: 17.48513888888889
+  altitude: 158.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.37
+  iso: 800
+  width: 4499
+  height: 3418
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:29:07.000000000+02:00
+- image_filename: 2022_06_03__11_34_P6030249.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.544666666666664
+  lon: 17.484180555555557
+  altitude: 154.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 14.49
+  iso: 1600
+  width: 3378
+  height: 2670
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:34:26.000000000+02:00
+- image_filename: 2022_06_03__11_38_P6030272.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.543458333333334
+  lon: 17.484208333333335
+  altitude: 147.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.49
+  iso: 1250
+  width: 4199
+  height: 2956
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:38:12.000000000+02:00
+- image_filename: 2022_06_03__11_44_P6030305.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54176388888889
+  lon: 17.484458333333333
+  altitude: 148.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.84
+  iso: 200
+  width: 4141
+  height: 3085
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:44:09.000000000+02:00
+- image_filename: 2022_06_03__11_47_P6030314.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.541694444444445
+  lon: 17.484527777777778
+  altitude: 147.0
+  focal_length: 600.0
+  focal_length_35: 1200.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.4
+  iso: 400
+  width: 5048
+  height: 3666
+  lens: M.300mm F4.0 + MC-20
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:47:34.000000000+02:00
 - image_filename: 2022_06_03__11_48_P6030325.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.54170833333333
@@ -1027,24 +1115,42 @@
   lens: M.300mm F4.0 + MC-20
   camera: E-M1MarkIII
   time: 2022-06-03 11:48:17.000000000+02:00
-- image_filename: 2022_06_05__04_07_P6051333.jpg
+- image_filename: 2022_06_03__11_57_P6030352.jpg
   post_slug: 2022-06-05-zlot-m43
-  lat: 51.535666666666664
-  lon: 17.50248611111111
-  altitude: 160.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 51.54175
+  lon: 17.484555555555556
+  altitude: 149.0
+  focal_length: 60.0
+  focal_length_35: 120.0
   crop: 2.0
-  aperture: 5.6
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.29
+  iso: 2500
+  width: 4000
+  height: 3118
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 11:57:02.000000000+02:00
+- image_filename: 2022_06_03__12_01_P6030408.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54172222222222
+  lon: 17.484555555555556
+  altitude: 149.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
   exposure: 0.0025
   exposure_string: 1/400 s
-  focus_distance: 53.9
-  iso: 200
-  width: 6027
-  height: 8120
-  lens: OLYMPUS M.12-100mm F4.0
+  focus_distance: 0.25
+  iso: 400
+  width: 4713
+  height: 3548
+  lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkIII
-  time: 2022-06-05 04:07:06.000000000+02:00
+  time: 2022-06-03 12:01:33.000000000+02:00
 - image_filename: 2022_06_03__12_06_P6030489.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.541694444444445
@@ -1081,546 +1187,24 @@
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkIII
   time: 2022-06-03 12:10:15.000000000+02:00
-- image_filename: 2022_06_04__13_08_P6041050.jpg
+- image_filename: 2022_06_03__12_14_P6030566.jpg
   post_slug: 2022-06-05-zlot-m43
-  lat: 51.536902777777776
-  lon: 17.5
-  altitude: 156.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 1.01
-  iso: 200
-  width: 8200
-  height: 6132
-  lens: OLYMPUS M.8-25mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-04 13:08:36.000000000+02:00
-- image_filename: 2022_06_03__03_23_P6039094.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53993055555556
-  lon: 17.493972222222222
-  altitude: 149.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.05
-  exposure_string: 1/20 s
-  focus_distance: 70.32
-  iso: 200
-  width: 8076
-  height: 5964
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 03:23:38.000000000+02:00
-- image_filename: 2022_06_03__18_09_P6030797.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.541513888888886
-  lon: 17.48427777777778
-  altitude: 169.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.25
-  iso: 500
-  width: 3763
-  height: 4969
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 18:09:45.000000000+02:00
-- image_filename: 2022_06_05__09_00_P6051393.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54056944444444
-  lon: 17.648958333333333
-  altitude: 109.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 16.83
-  iso: 200
-  width: 8040
-  height: 5915
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-05 09:00:06.000000000+02:00
-- image_filename: 2022_06_02__19_19_P6029010.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53934722222222
-  lon: 17.494027777777777
-  altitude: 156.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 11.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 1.4
-  iso: 800
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:19:09.000000000+02:00
-- image_filename: 2022_06_03__18_13_P6030843.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.541555555555554
-  lon: 17.484333333333336
-  altitude: 162.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 0.74
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 18:13:43.000000000+02:00
-- image_filename: 2022_06_04__19_50_P6041151.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54222222222222
-  lon: 17.49054166666667
-  altitude: 162.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 327.67
-  iso: 250
-  width: 3744
-  height: 2904
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-06-04 19:50:16.000000000+02:00
-- image_filename: 2022_06_03__03_46_P6039112.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.539402777777774
-  lon: 17.49476388888889
-  altitude: 158.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 4.03
-  iso: 200
-  width: 8156
-  height: 6075
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 03:46:54.000000000+02:00
-- image_filename: 2022_06_05__04_03_P6051311.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.535736111111106
-  lon: 17.502305555555555
-  altitude: 163.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 10.25
-  iso: 320
-  width: 3912
-  height: 5240
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:03:12.000000000+02:00
-- image_filename: 2022_06_03__04_20_P6039130.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.539541666666665
-  lon: 17.494347222222224
-  altitude: 156.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 42.33
-  iso: 200
-  width: 8101
-  height: 6006
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 04:20:43.000000000+02:00
-- image_filename: 2022_06_05__04_03_P6051309.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.535736111111106
-  lon: 17.502305555555555
-  altitude: 163.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 9.0
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  focus_distance: 11.4
-  iso: 200
-  width: 3912
-  height: 5240
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:03:08.000000000+02:00
-- image_filename: 2022_06_03__11_44_P6030305.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54176388888889
-  lon: 17.484458333333333
-  altitude: 148.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 4.84
-  iso: 200
-  width: 4141
-  height: 3085
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 11:44:09.000000000+02:00
-- image_filename: 2022_06_03__03_50_P6039117.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53944444444444
-  lon: 17.494847222222223
-  altitude: 157.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 15.1
-  iso: 200
-  width: 4775
-  height: 3323
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 03:50:32.000000000+02:00
-- image_filename: 2022_06_03__03_24_P6039095.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53980555555555
-  lon: 17.494097222222223
+  lat: 51.54113888888889
+  lon: 17.484625
   altitude: 151.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.1
-  exposure_string: 1/10 s
-  focus_distance: 2.21
-  iso: 200
-  width: 8156
-  height: 6073
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 03:24:06.000000000+02:00
-- image_filename: 2022_06_03__03_39_P6039106.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53936111111111
-  lon: 17.49390277777778
-  altitude: 147.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 6.99
-  iso: 800
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 03:39:51.000000000+02:00
-- image_filename: 2022_06_04__19_47_P6041147.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54222222222222
-  lon: 17.49054166666667
-  altitude: 162.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 16.03
-  iso: 200
-  width: 8057
-  height: 5989
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-04 19:47:17.000000000+02:00
-- image_filename: 2022_06_03__10_51_P6030053.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54534722222222
-  lon: 17.492083333333333
-  altitude: 159.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 14.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 1.82
-  iso: 200
-  width: 4065
-  height: 2880
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 10:51:22.000000000+02:00
-- image_filename: 2022_06_05__04_27_P6051355.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.540527777777775
-  lon: 17.491930555555555
-  altitude: 155.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 11.89
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.300mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:27:10.000000000+02:00
-- image_filename: 2022_06_03__21_27_P6030976.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54219444444444
-  lon: 17.490291666666668
-  altitude: 161.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 1.8
-  exposure: 8.0
-  exposure_string: 8 s
-  focus_distance: 4.52
-  iso: 200
-  width: 10365
-  height: 7745
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-06-03 21:27:43.000000000+02:00
-- image_filename: 2022_06_05__04_27_P6051367.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54055555555556
-  lon: 17.491569444444444
-  altitude: 152.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 111.61
-  iso: 200
-  width: 4025
-  height: 2999
-  lens: OLYMPUS M.300mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:27:45.000000000+02:00
-- image_filename: 2022_06_05__04_09_P6051338.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53563888888889
-  lon: 17.5025
-  altitude: 158.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 15.92
-  iso: 200
-  width: 8130
-  height: 6040
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:09:24.000000000+02:00
-- image_filename: 2022_06_03__11_25_P6030206.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54493055555555
-  lon: 17.486027777777778
-  altitude: 154.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 0.57
-  iso: 500
-  width: 4080
-  height: 3183
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 11:25:20.000000000+02:00
-- image_filename: 2022_06_05__09_25_P6051420.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.587097222222226
-  lon: 17.701833333333333
-  altitude: 164.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 22.63
-  iso: 200
-  width: 7856
-  height: 5648
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-05 09:25:34.000000000+02:00
-- image_filename: 2022_06_05__03_58_P6051287.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53490277777777
-  lon: 17.499402777777778
-  altitude: 162.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 26.16
-  iso: 400
-  width: 3912
-  height: 5240
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-06-05 03:58:18.000000000+02:00
-- image_filename: 2022_06_03__10_38_P6030026.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54216666666667
-  lon: 17.490458333333333
-  altitude: 150.0
-  focal_length: 7.0
-  focal_length_35: 14.0
+  focal_length: 31.0
+  focal_length_35: 62.0
   crop: 2.0
   aperture: 7.1
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.7-14mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-06-03 10:38:59.000000000+02:00
-- image_filename: 2022_06_03__09_46_P6030024.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54227777777778
-  lon: 17.49041666666667
-  altitude: 156.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 9.0
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 0.72
+  focus_distance: 14.57
   iso: 200
-  width: 3894
-  height: 2876
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 09:46:26.000000000+02:00
-- image_filename: 2022_06_03__10_50_P6030037.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.545249999999996
-  lon: 17.49215277777778
-  altitude: 157.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 2.58
-  iso: 200
-  width: 4316
-  height: 3100
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 10:50:04.000000000+02:00
-- image_filename: 2022_06_03__18_06_P6030744.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.541513888888886
-  lon: 17.48427777777778
-  altitude: 169.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 0.25
-  iso: 1000
-  width: 3037
-  height: 4842
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkIII
-  time: 2022-06-03 18:06:45.000000000+02:00
-- image_filename: 2022_06_03__04_36_P6039131.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54031944444444
-  lon: 17.493305555555555
-  altitude: 159.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  focus_distance: 17.58
-  iso: 200
-  width: 7987
-  height: 5836
+  width: 8154
+  height: 6081
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-06-03 04:36:09.000000000+02:00
-- image_filename: 2022_06_03__03_53_P6039122.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.538694444444445
-  lon: 17.49609722222222
-  altitude: 158.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 3.12
-  iso: 200
-  width: 8090
-  height: 5980
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 03:53:41.000000000+02:00
+  time: 2022-06-03 12:14:46.000000000+02:00
 - image_filename: 2022_06_03__12_25_P6030585.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.54113888888889
@@ -1639,258 +1223,132 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-06-03 12:25:17.000000000+02:00
-- image_filename: 2022_06_04__18_11_P6041080.jpg
+- image_filename: 2022_06_03__12_25_P6030597.jpg
   post_slug: 2022-06-05-zlot-m43
-  lat: 51.54222222222222
-  lon: 17.49054166666667
-  altitude: 162.0
+  lat: 51.54113888888889
+  lon: 17.490722222222225
+  altitude: 148.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.5
+  iso: 1000
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-03 12:25:28.000000000+02:00
+- image_filename: 2022_06_03__12_40_P6030643.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54175
+  lon: 17.490930555555558
+  altitude: 154.0
   focal_length: 300.0
   focal_length_35: 600.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 72.33
-  iso: 200
-  width: 8154
-  height: 6132
-  lens: OLYMPUS M.300mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-04 18:11:43.000000000+02:00
-- image_filename: 2022_06_03__10_43_P6030030.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54344444444444
-  lon: 17.491666666666667
-  altitude: 161.0
-  focal_length: 7.0
-  focal_length_35: 14.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 6132
-  height: 8200
-  lens: OLYMPUS M.7-14mm F2.8
-  camera: E-M1MarkIII
-  time: 2022-06-03 10:43:10.000000000+02:00
-- image_filename: 2022_06_03__03_25_P6039096.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53966666666666
-  lon: 17.49425
-  altitude: 146.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  focus_distance: 15.1
-  iso: 200
-  width: 8074
-  height: 5960
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 03:25:01.000000000+02:00
-- image_filename: 2022_06_03__10_53_P6030067.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54534722222222
-  lon: 17.492083333333333
-  altitude: 160.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1.89
-  iso: 320
-  width: 4753
-  height: 3309
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 10:53:03.000000000+02:00
-- image_filename: 2022_06_03__03_54_P6039123.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53854166666667
-  lon: 17.496430555555555
-  altitude: 156.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 3.81
-  iso: 200
-  width: 6064
-  height: 8143
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-03 03:54:23.000000000+02:00
-- image_filename: 2022_06_03__11_34_P6030249.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.544666666666664
-  lon: 17.484180555555557
-  altitude: 154.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
   crop: 2.0
   aperture: 8.0
   exposure: 0.0025
   exposure_string: 1/400 s
-  focus_distance: 14.49
-  iso: 1600
-  width: 3378
-  height: 2670
-  lens: M.300mm F4.0 + MC-20
+  focus_distance: 40.54
+  iso: 200
+  width: 1894
+  height: 1301
+  lens: OLYMPUS M.300mm F4.0
   camera: E-M1MarkIII
-  time: 2022-06-03 11:34:26.000000000+02:00
-- image_filename: 2022_06_05__04_17_P6051350.jpg
+  time: 2022-06-03 12:40:35.000000000+02:00
+- image_filename: 2022_06_03__17_51_P6030649.jpg
   post_slug: 2022-06-05-zlot-m43
-  lat: 51.53673611111111
-  lon: 17.500430555555557
+  lat: 51.54168055555555
+  lon: 17.4845
   altitude: 146.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.2
-  exposure_string: 1/5 s
-  focus_distance: 5.2
-  iso: 200
-  width: 8161
-  height: 6104
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:17:13.000000000+02:00
-- image_filename: 2022_06_03__08_16_P6030011.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54227777777778
-  lon: 17.49041666666667
-  altitude: 156.0
-  focal_length: 400.0
-  focal_length_35: 800.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 13.3
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.100-400mm F5.0-6.3
-  camera: E-M1MarkIII
-  time: 2022-06-03 08:16:41.000000000+02:00
-- image_filename: 2022_06_05__04_02_P6051306.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.535736111111106
-  lon: 17.502305555555555
-  altitude: 163.0
-  focal_length: 420.0
-  focal_length_35: 840.0
+  focal_length: 60.0
+  focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
-  exposure: 0.002
-  exposure_string: 1/500 s
-  focus_distance: 11.27
-  iso: 200
-  width: 4877
-  height: 3625
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-06-05 04:02:43.000000000+02:00
-- image_filename: 2022_06_02__19_37_P6029089.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54
-  lon: 17.493791666666667
-  altitude: 147.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  focus_distance: 6.14
-  iso: 200
-  width: 8112
-  height: 6065
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:37:26.000000000+02:00
-- image_filename: 2022_06_05__03_38_P6051240.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.535805555555555
-  lon: 17.48926388888889
-  altitude: 156.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1000.0
-  iso: 3200
-  width: 4474
-  height: 3261
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-06-05 03:38:59.000000000+02:00
-- image_filename: 2022_06_02__19_14_P6028960.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.53934722222222
-  lon: 17.494027777777777
-  altitude: 157.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 80.26
-  iso: 250
-  width: 5123
-  height: 3753
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-02 19:14:33.000000000+02:00
-- image_filename: 2022_06_03__11_38_P6030272.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.543458333333334
-  lon: 17.484208333333335
-  altitude: 147.0
-  focal_length: 600.0
-  focal_length_35: 1200.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1.49
-  iso: 1250
-  width: 4199
-  height: 2956
-  lens: M.300mm F4.0 + MC-20
-  camera: E-M1MarkIII
-  time: 2022-06-03 11:38:12.000000000+02:00
-- image_filename: 2022_06_05__08_25_P6051388.jpg
-  post_slug: 2022-06-05-zlot-m43
-  lat: 51.54325
-  lon: 17.54901388888889
-  altitude: 106.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 7.1
   exposure: 0.005
   exposure_string: 1/200 s
-  focus_distance: 4.71
-  iso: 200
-  width: 8131
-  height: 6080
-  lens: OLYMPUS M.12-100mm F4.0
+  focus_distance: 0.19
+  iso: 1000
+  width: 4808
+  height: 3231
+  lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkIII
-  time: 2022-06-05 08:25:48.000000000+02:00
+  time: 2022-06-03 17:51:54.000000000+02:00
+- image_filename: 2022_06_03__17_53_P6030671.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54168055555555
+  lon: 17.4845
+  altitude: 146.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.19
+  iso: 2000
+  width: 2544
+  height: 3206
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 17:53:24.000000000+02:00
+- image_filename: 2022_06_03__18_00_P6030711.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54168055555555
+  lon: 17.4845
+  altitude: 146.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.22
+  iso: 800
+  width: 3490
+  height: 4796
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 18:00:46.000000000+02:00
+- image_filename: 2022_06_03__18_06_P6030744.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.541513888888886
+  lon: 17.48427777777778
+  altitude: 169.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.25
+  iso: 1000
+  width: 3037
+  height: 4842
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 18:06:45.000000000+02:00
+- image_filename: 2022_06_03__18_09_P6030797.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.541513888888886
+  lon: 17.48427777777778
+  altitude: 169.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.25
+  iso: 500
+  width: 3763
+  height: 4969
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 18:09:45.000000000+02:00
 - image_filename: 2022_06_03__18_11_P6030842.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.541513888888886
@@ -1909,6 +1367,96 @@
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkIII
   time: 2022-06-03 18:11:45.000000000+02:00
+- image_filename: 2022_06_03__18_13_P6030843.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.541555555555554
+  lon: 17.484333333333336
+  altitude: 162.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.74
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 18:13:43.000000000+02:00
+- image_filename: 2022_06_03__18_14_P6030849.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54125
+  lon: 17.484458333333333
+  altitude: 130.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.28
+  iso: 400
+  width: 3669
+  height: 2642
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 18:14:45.000000000+02:00
+- image_filename: 2022_06_03__18_17_P6030866.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54125
+  lon: 17.484486111111114
+  altitude: 145.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.25
+  iso: 200
+  width: 3304
+  height: 4470
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-06-03 18:17:19.000000000+02:00
+- image_filename: 2022_06_03__20_27_P6030963.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54219444444444
+  lon: 17.490291666666668
+  altitude: 161.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 10399
+  height: 7791
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-06-03 20:27:00.000000000+02:00
+- image_filename: 2022_06_03__21_27_P6030976.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54219444444444
+  lon: 17.490291666666668
+  altitude: 161.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 8.0
+  exposure_string: 8 s
+  focus_distance: 4.52
+  iso: 200
+  width: 10365
+  height: 7745
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-06-03 21:27:43.000000000+02:00
 - image_filename: 2022_06_03__22_19_P6030982.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.54219444444444
@@ -1927,24 +1475,258 @@
   lens: OLYMPUS M.17mm F1.2
   camera: E-M1MarkIII
   time: 2022-06-03 22:19:12.000000000+02:00
-- image_filename: 2022_06_03__08_14_P6030001.jpg
+- image_filename: 2022_06_04__03_46_P6041000.jpg
   post_slug: 2022-06-05-zlot-m43
-  lat: 51.54227777777778
-  lon: 17.49041666666667
+  lat: 51.538444444444444
+  lon: 17.496555555555556
+  altitude: 158.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 61.83
+  iso: 200
+  width: 8084
+  height: 5989
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-04 03:46:21.000000000+02:00
+- image_filename: 2022_06_04__08_44_P6041037.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.536902777777776
+  lon: 17.5
   altitude: 156.0
-  focal_length: 400.0
-  focal_length_35: 800.0
+  focal_length: 8.0
+  focal_length_35: 16.0
   crop: 2.0
   aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 4.71
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.65
   iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.100-400mm F5.0-6.3
+  width: 8152
+  height: 6045
+  lens: OLYMPUS M.8-25mm F4.0
   camera: E-M1MarkIII
-  time: 2022-06-03 08:14:52.000000000+02:00
+  time: 2022-06-04 08:44:55.000000000+02:00
+- image_filename: 2022_06_04__13_08_P6041050.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.536902777777776
+  lon: 17.5
+  altitude: 156.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.01
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.8-25mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-04 13:08:36.000000000+02:00
+- image_filename: 2022_06_04__18_11_P6041080.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54222222222222
+  lon: 17.49054166666667
+  altitude: 162.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 72.33
+  iso: 200
+  width: 8154
+  height: 6132
+  lens: OLYMPUS M.300mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-04 18:11:43.000000000+02:00
+- image_filename: 2022_06_04__19_38_P6041134.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54222222222222
+  lon: 17.49054166666667
+  altitude: 162.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.81
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-04 19:38:23.000000000+02:00
+- image_filename: 2022_06_04__19_47_P6041147.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54222222222222
+  lon: 17.49054166666667
+  altitude: 162.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 16.03
+  iso: 200
+  width: 8057
+  height: 5989
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-04 19:47:17.000000000+02:00
+- image_filename: 2022_06_04__19_50_P6041151.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54222222222222
+  lon: 17.49054166666667
+  altitude: 162.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 327.67
+  iso: 250
+  width: 3744
+  height: 2904
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-06-04 19:50:16.000000000+02:00
+- image_filename: 2022_06_05__03_31_P6051212.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53688888888889
+  lon: 17.489250000000002
+  altitude: 150.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 13.31
+  iso: 800
+  width: 4207
+  height: 2981
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-06-05 03:31:21.000000000+02:00
+- image_filename: 2022_06_05__03_38_P6051240.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.535805555555555
+  lon: 17.48926388888889
+  altitude: 156.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 3200
+  width: 4474
+  height: 3261
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-06-05 03:38:59.000000000+02:00
+- image_filename: 2022_06_05__03_58_P6051287.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53490277777777
+  lon: 17.499402777777778
+  altitude: 162.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 26.16
+  iso: 400
+  width: 3912
+  height: 5240
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-06-05 03:58:18.000000000+02:00
+- image_filename: 2022_06_05__04_02_P6051304.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53575
+  lon: 17.502305555555555
+  altitude: 163.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 20.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 11.54
+  iso: 200
+  width: 5100
+  height: 3818
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:02:34.000000000+02:00
+- image_filename: 2022_06_05__04_02_P6051306.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.535736111111106
+  lon: 17.502305555555555
+  altitude: 163.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 11.27
+  iso: 200
+  width: 4877
+  height: 3625
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:02:43.000000000+02:00
+- image_filename: 2022_06_05__04_03_P6051309.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.535736111111106
+  lon: 17.502305555555555
+  altitude: 163.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  focus_distance: 11.4
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:03:08.000000000+02:00
+- image_filename: 2022_06_05__04_03_P6051311.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.535736111111106
+  lon: 17.502305555555555
+  altitude: 163.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 10.25
+  iso: 320
+  width: 3912
+  height: 5240
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:03:12.000000000+02:00
 - image_filename: 2022_06_05__04_03_P6051315.jpg
   post_slug: 2022-06-05-zlot-m43
   lat: 51.535666666666664
@@ -1963,3 +1745,201 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2022-06-05 04:03:30.000000000+02:00
+- image_filename: 2022_06_05__04_03_P6051317.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53565277777778
+  lon: 17.502416666666665
+  altitude: 157.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:03:53.000000000+02:00
+- image_filename: 2022_06_05__04_07_P6051333.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.535666666666664
+  lon: 17.50248611111111
+  altitude: 160.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 53.9
+  iso: 200
+  width: 6027
+  height: 8120
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:07:06.000000000+02:00
+- image_filename: 2022_06_05__04_09_P6051338.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53563888888889
+  lon: 17.5025
+  altitude: 158.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 15.92
+  iso: 200
+  width: 8130
+  height: 6040
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:09:24.000000000+02:00
+- image_filename: 2022_06_05__04_17_P6051350.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.53673611111111
+  lon: 17.500430555555557
+  altitude: 146.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 5.2
+  iso: 200
+  width: 8161
+  height: 6104
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:17:13.000000000+02:00
+- image_filename: 2022_06_05__04_27_P6051355.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.540527777777775
+  lon: 17.491930555555555
+  altitude: 155.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.89
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.300mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:27:10.000000000+02:00
+- image_filename: 2022_06_05__04_27_P6051367.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54055555555556
+  lon: 17.491569444444444
+  altitude: 152.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 111.61
+  iso: 200
+  width: 4025
+  height: 2999
+  lens: OLYMPUS M.300mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:27:45.000000000+02:00
+- image_filename: 2022_06_05__04_30_P6051387.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.541152777777775
+  lon: 17.490750000000002
+  altitude: 155.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 44.56
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.300mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 04:30:10.000000000+02:00
+- image_filename: 2022_06_05__08_25_P6051388.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54325
+  lon: 17.54901388888889
+  altitude: 106.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.71
+  iso: 200
+  width: 8131
+  height: 6080
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 08:25:48.000000000+02:00
+- image_filename: 2022_06_05__09_00_P6051393.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.54056944444444
+  lon: 17.648958333333333
+  altitude: 109.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 16.83
+  iso: 200
+  width: 8040
+  height: 5915
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 09:00:06.000000000+02:00
+- image_filename: 2022_06_05__09_25_P6051420.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.587097222222226
+  lon: 17.701833333333333
+  altitude: 164.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 22.63
+  iso: 200
+  width: 7856
+  height: 5648
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 09:25:34.000000000+02:00
+- image_filename: 2022_06_05__09_28_P6051446.jpg
+  post_slug: 2022-06-05-zlot-m43
+  lat: 51.60576388888889
+  lon: 17.748083333333334
+  altitude: 158.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5142
+  height: 3779
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-05 09:28:38.000000000+02:00

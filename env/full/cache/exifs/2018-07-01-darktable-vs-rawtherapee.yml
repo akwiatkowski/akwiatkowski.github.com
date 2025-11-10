@@ -5,12 +5,12 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
-  iso: 160
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.00025
   exposure_string: 1/4000 s
-  time: 2018-06-24 11:46:47+02:00
   focus_distance: 0.79
+  iso: 160
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2018-06-24 11:46:47.000000000+02:00

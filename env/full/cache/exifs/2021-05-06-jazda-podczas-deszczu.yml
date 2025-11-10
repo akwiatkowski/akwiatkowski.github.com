@@ -1,24 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-05-06-jazda-podczas-deszczu
-- image_filename: 2021_05_06__17_48__5063639.jpg
-  post_slug: 2021-05-06-jazda-podczas-deszczu
-  lat: 52.487125
-  lon: 17.20722222222222
-  altitude: 112.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 24.86
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-05-06 17:48:59.000000000+02:00
 - image_filename: 2021_05_06__17_48__5063637.jpg
   post_slug: 2021-05-06-jazda-podczas-deszczu
   lat: 52.487125
@@ -37,3 +17,21 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-05-06 17:48:43.000000000+02:00
+- image_filename: 2021_05_06__17_48__5063639.jpg
+  post_slug: 2021-05-06-jazda-podczas-deszczu
+  lat: 52.487125
+  lon: 17.20722222222222
+  altitude: 112.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 24.86
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-06 17:48:59.000000000+02:00

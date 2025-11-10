@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354625
-  lon: 18.938458333333333
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-01-07 15:04:15+01:00
 - image_filename: IMGP4316raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
   lat: 54.34152777777778
@@ -22,11 +8,11 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 5.0
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-01-07 14:18:24+01:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2018-01-07 14:18:24.000000000+01:00
 - image_filename: IMGP4320raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
   lat: 54.34419444444445
@@ -36,11 +22,11 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2018-01-07 14:21:34+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 14:21:34.000000000+01:00
 - image_filename: IMGP4326raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
   lat: 54.35431944444444
@@ -50,343 +36,11 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2018-01-07 14:40:21+01:00
-- image_filename: IMGP4338raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35447222222222
-  lon: 18.938291666666668
-  altitude: 4294967296.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-01-07 14:53:36+01:00
-- image_filename: IMGP4342raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35447222222222
-  lon: 18.93836111111111
-  altitude: 4294967296.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-01-07 14:54:58+01:00
-- image_filename: IMGP4364raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 18.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-01-07 15:03:58+01:00
-- image_filename: IMGP4373raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354625
-  lon: 18.938444444444446
-  altitude: 4294967296.0
-  focal_length: 370.0
-  focal_length_35: 555.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-01-07 15:10:03+01:00
-- image_filename: IMGP4379raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  focal_length: 500.0
-  focal_length_35: 750.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 640
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-01-07 15:11:43+01:00
-- image_filename: IMGP4446raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35454166666667
-  lon: 18.93836111111111
-  altitude: 4294967296.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-01-07 15:36:11+01:00
-- image_filename: IMGP4481raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-01-07 15:47:57+01:00
-- image_filename: IMGP4498raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.353430555555555
-  lon: 18.938402777777778
-  altitude: 4294967296.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 25.0
-  exposure_string: 25 s
-  time: 2018-01-07 15:59:46+01:00
-- image_filename: IMGP4372raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35461111111111
-  lon: 18.938430555555556
-  altitude: 4294967296.0
-  focal_length: 500.0
-  focal_length_35: 750.0
-  crop: 1.5
-  aperture: 6.3
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-01-07 15:09:49+01:00
-- image_filename: IMGP4494raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35370833333334
-  lon: 18.937375
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 10.0
-  exposure_string: 10 s
-  time: 2018-01-07 15:56:39+01:00
-- image_filename: IMGP4415raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35454166666667
-  lon: 18.938347222222223
-  altitude: 4294967296.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2018-01-07 15:21:33+01:00
-- image_filename: IMGP4496raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2018-01-07 15:57:45+01:00
-- image_filename: IMGP4488raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354125
-  lon: 18.93786111111111
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-01-07 15:53:41+01:00
-- image_filename: IMGP4491raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35377777777778
-  lon: 18.937402777777777
-  altitude: 4294967296.0
-  focal_length: 33.0
-  focal_length_35: 49.0
-  crop: 1.4848484848484849
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-01-07 15:55:28+01:00
-- image_filename: IMGP4418raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354569444444444
-  lon: 18.938388888888888
-  altitude: 4294967296.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2018-01-07 15:23:31+01:00
-- image_filename: IMGP4354raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35445833333333
-  lon: 18.93826388888889
-  altitude: 4294967296.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-01-07 14:58:28+01:00
-- image_filename: IMGP4485raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35415277777778
-  lon: 18.937986111111112
-  altitude: 4294967296.0
-  focal_length: 13.0
-  focal_length_35: 19.0
-  crop: 1.4615384615384615
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-01-07 15:50:14+01:00
-- image_filename: IMGP4479raw2.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354222222222226
-  lon: 18.938430555555556
-  altitude: 4294967296.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2018-01-07 15:44:07+01:00
-- image_filename: IMGP4477raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 13.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-01-07 15:43:29+01:00
-- image_filename: IMGP4398raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354597222222225
-  lon: 18.938402777777778
-  altitude: 4294967296.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-01-07 15:13:57+01:00
-- image_filename: IMGP4450raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.35454166666667
-  lon: 18.938375
-  altitude: 4294967296.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 16.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2018-01-07 15:37:14+01:00
-- image_filename: IMGP4466raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354486111111115
-  lon: 18.938305555555555
-  altitude: 4294967296.0
-  focal_length: 20.0
-  focal_length_35: 30.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2018-01-07 15:41:00+01:00
-- image_filename: IMGP4366raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354625
-  lon: 18.938458333333333
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-01-07 15:04:15+01:00
-- image_filename: IMGP4428raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354569444444444
-  lon: 18.93836111111111
-  altitude: 4294967296.0
-  focal_length: 29.0
-  focal_length_35: 43.0
-  crop: 1.4827586206896552
-  aperture: 18.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2018-01-07 15:28:43+01:00
-- image_filename: IMGP4361raw1.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  focal_length: 33.0
-  focal_length_35: 49.0
-  crop: 1.4848484848484849
-  aperture: 14.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2018-01-07 15:03:20+01:00
+  time: 2018-01-07 14:40:21.000000000+01:00
 - image_filename: IMGP4334raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
   lat: 54.35447222222222
@@ -396,22 +50,117 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-01-07 14:52:54+01:00
-- image_filename: IMGP4503raw1.jpg
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2018-01-07 14:52:54.000000000+01:00
+- image_filename: IMGP4338raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 11.0
+  lat: 54.35447222222222
+  lon: 18.938291666666668
+  altitude: 4294967296.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2018-01-07 14:53:36.000000000+01:00
+- image_filename: IMGP4342raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35447222222222
+  lon: 18.93836111111111
+  altitude: 4294967296.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2018-01-07 14:54:58.000000000+01:00
+- image_filename: IMGP4354raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35445833333333
+  lon: 18.93826388888889
+  altitude: 4294967296.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-01-07 14:58:28.000000000+01:00
+- image_filename: IMGP4361raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 14.0
+  exposure: 1.0
+  exposure_string: 1 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 8.0
-  exposure_string: 8 s
-  time: 2018-01-07 16:04:21+01:00
+  time: 2018-01-07 15:03:20.000000000+01:00
+- image_filename: IMGP4364raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 18.0
+  exposure: 2.0
+  exposure_string: 2 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:03:58.000000000+01:00
+- image_filename: IMGP4366raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354625
+  lon: 18.938458333333333
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 18.0
+  exposure: 2.0
+  exposure_string: 2 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:04:15.000000000+01:00
+- image_filename: IMGP4372raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35461111111111
+  lon: 18.938430555555556
+  altitude: 4294967296.0
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:09:49.000000000+01:00
+- image_filename: IMGP4373raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354625
+  lon: 18.938444444444446
+  altitude: 4294967296.0
+  focal_length: 370.0
+  focal_length_35: 555.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:10:03.000000000+01:00
 - image_filename: IMGP4376raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
   lat: 54.35461111111111
@@ -421,19 +170,270 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 6.3
-  iso: 640
-  camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2018-01-07 15:10:41+01:00
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:10:41.000000000+01:00
+- image_filename: IMGP4379raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:11:43.000000000+01:00
+- image_filename: IMGP4398raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354597222222225
+  lon: 18.938402777777778
+  altitude: 4294967296.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:13:57.000000000+01:00
+- image_filename: IMGP4415raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35454166666667
+  lon: 18.938347222222223
+  altitude: 4294967296.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 18.0
+  exposure: 4.0
+  exposure_string: 4 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:21:33.000000000+01:00
+- image_filename: IMGP4418raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354569444444444
+  lon: 18.938388888888888
+  altitude: 4294967296.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 16.0
+  exposure: 6.0
+  exposure_string: 6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:23:31.000000000+01:00
+- image_filename: IMGP4428raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354569444444444
+  lon: 18.93836111111111
+  altitude: 4294967296.0
+  focal_length: 29.0
+  focal_length_35: 43.0
+  crop: 1.4827586206896552
+  aperture: 18.0
+  exposure: 4.0
+  exposure_string: 4 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:28:43.000000000+01:00
+- image_filename: IMGP4446raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35454166666667
+  lon: 18.93836111111111
+  altitude: 4294967296.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 13.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:36:11.000000000+01:00
+- image_filename: IMGP4450raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35454166666667
+  lon: 18.938375
+  altitude: 4294967296.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 16.0
+  exposure: 3.0
+  exposure_string: 3 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:37:14.000000000+01:00
+- image_filename: IMGP4466raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354486111111115
+  lon: 18.938305555555555
+  altitude: 4294967296.0
+  focal_length: 20.0
+  focal_length_35: 30.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:41:00.000000000+01:00
+- image_filename: IMGP4477raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 13.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:43:29.000000000+01:00
+- image_filename: IMGP4479raw2.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354222222222226
+  lon: 18.938430555555556
+  altitude: 4294967296.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 18.0
+  exposure: 4.0
+  exposure_string: 4 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:44:07.000000000+01:00
+- image_filename: IMGP4481raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 14.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:47:57.000000000+01:00
+- image_filename: IMGP4485raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35415277777778
+  lon: 18.937986111111112
+  altitude: 4294967296.0
+  focal_length: 13.0
+  focal_length_35: 19.0
+  crop: 1.4615384615384615
+  aperture: 14.0
+  exposure: 6.0
+  exposure_string: 1.6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:50:14.000000000+01:00
+- image_filename: IMGP4488raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354125
+  lon: 18.93786111111111
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 13.0
+  exposure: 6.0
+  exposure_string: 1.6 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:53:41.000000000+01:00
+- image_filename: IMGP4491raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35377777777778
+  lon: 18.937402777777777
+  altitude: 4294967296.0
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 14.0
+  exposure: 5.0
+  exposure_string: 2.5 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:55:28.000000000+01:00
+- image_filename: IMGP4494raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35370833333334
+  lon: 18.937375
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 16.0
+  exposure: 10.0
+  exposure_string: 10 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:56:39.000000000+01:00
+- image_filename: IMGP4496raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 16.0
+  exposure: 8.0
+  exposure_string: 8 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:57:45.000000000+01:00
+- image_filename: IMGP4498raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.353430555555555
+  lon: 18.938402777777778
+  altitude: 4294967296.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 18.0
+  exposure: 25.0
+  exposure_string: 25 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:59:46.000000000+01:00
 - image_filename: IMGP4502raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 8.0
   exposure_string: 8 s
-  time: 2018-01-07 16:03:59+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 16:03:59.000000000+01:00
+- image_filename: IMGP4503raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 11.0
+  exposure: 8.0
+  exposure_string: 8 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 16:04:21.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354625
+  lon: 18.938458333333333
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 18.0
+  exposure: 2.0
+  exposure_string: 2 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-01-07 15:04:15.000000000+01:00

@@ -1,744 +1,4 @@
 ---
-- image_filename: 2019_12_29__11_27__C291981.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.263305555555554
-  lon: 16.8765
-  altitude: 573.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4831
-  height: 3606
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 11:27:06+01:00
-  focus_distance: 6.86
-- image_filename: 2019_12_29__18_31_DSC05435.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.207930555555556
-  lon: 16.832444444444445
-  altitude: 1203.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 400
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7245
-  height: 4839
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2019-12-29 18:31:02+01:00
-- image_filename: 2019_12_29__14_44_DSC05287.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.22788888888889
-  lon: 16.841666666666665
-  altitude: 865.0
-  focal_length: 64.0
-  focal_length_35: 64.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 160
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 14:44:34+01:00
-- image_filename: 2019_12_29__11_06__C291888.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.27097222222222
-  lon: 16.88111111111111
-  altitude: 558.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4968
-  height: 3716
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 11:06:20+01:00
-  focus_distance: 47.76
-- image_filename: 2019_12_29__11_21__C291953.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26519444444445
-  lon: 16.879416666666668
-  altitude: 575.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-12-29 11:21:56+01:00
-  focus_distance: 23.27
-- image_filename: 2019_12_29__12_53__C292062.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26163888888889
-  lon: 16.869777777777777
-  altitude: 590.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 12:53:37+01:00
-  focus_distance: 1.64
-- image_filename: 2019_12_29__13_05__C292146.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26086111111111
-  lon: 16.867444444444445
-  altitude: 594.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1600
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-12-29 13:05:18+01:00
-  focus_distance: 2.49
-- image_filename: 2019_12_29__14_07_DSC05255.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.23880555555556
-  lon: 16.85004166666667
-  altitude: 730.0
-  focal_length: 40.0
-  focal_length_35: 40.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7172
-  height: 4790
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-12-29 14:07:37+01:00
-- image_filename: 2019_12_29__15_43__C292427.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.216055555555556
-  lon: 16.836333333333332
-  altitude: 1117.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 15:43:58+01:00
-  focus_distance: 3.05
-- image_filename: 2019_12_29__14_04_DSC05246.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.24027777777778
-  lon: 16.85129166666667
-  altitude: 718.0
-  focal_length: 45.0
-  focal_length_35: 45.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-12-29 14:04:28+01:00
-- image_filename: 2019_12_29__15_50_DSC05347.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.21427777777778
-  lon: 16.83451388888889
-  altitude: 1139.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7230
-  height: 4829
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-12-29 15:50:01+01:00
-- image_filename: 2019_12_29__14_52_DSC05303.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.22506944444444
-  lon: 16.84133333333333
-  altitude: 904.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 14:52:37+01:00
-- image_filename: 2019_12_29__11_09__C291903.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26940277777778
-  lon: 16.88127777777778
-  altitude: 568.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5040
-  height: 3763
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-12-29 11:09:55+01:00
-  focus_distance: 92.57
-- image_filename: 2019_12_29__13_36__C292277.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.25058333333333
-  lon: 16.851597222222225
-  altitude: 660.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 13:36:10+01:00
-  focus_distance: 5.11
-- image_filename: 2019_12_28__18_32__C281765.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.29833333333333
-  lon: 16.876444444444445
-  altitude: 486.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.4
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5099
-  height: 3717
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2019-12-28 18:32:59+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_12_28__15_52__C281673.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.29695833333333
-  lon: 16.88138888888889
-  altitude: 488.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5162
-  height: 3815
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-28 15:52:28+01:00
-  focus_distance: 4.43
-- image_filename: 2019_12_29__16_11__C292484.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.209138888888894
-  lon: 16.83151388888889
-  altitude: 1207.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4960
-  height: 3703
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-12-29 16:11:07+01:00
-  focus_distance: 16.7
-- image_filename: 2019_12_29__10_26_DSC05161.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.28429166666667
-  lon: 16.873958333333334
-  altitude: 517.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6717
-  height: 4486
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 10:26:09+01:00
-- image_filename: 2019_12_29__13_00__C292098.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.260930555555554
-  lon: 16.867416666666667
-  altitude: 594.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 13:00:00+01:00
-  focus_distance: 5.08
-- image_filename: 2019_12_29__13_16__C292242.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26001388888889
-  lon: 16.861611111111113
-  altitude: 617.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 13:16:41+01:00
-  focus_distance: 4.78
-- image_filename: 2019_12_29__14_15_DSC05271.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.23665277777778
-  lon: 16.84573611111111
-  altitude: 756.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7111
-  height: 4750
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 14:15:52+01:00
-- image_filename: 2019_12_29__18_08_DSC05419.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20791666666667
-  lon: 16.832444444444445
-  altitude: 1205.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 3.5
-  iso: 200
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7333
-  height: 4898
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2019-12-29 18:08:14+01:00
-- image_filename: 2019_12_29__14_46_DSC05289.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.22751388888889
-  lon: 16.84159722222222
-  altitude: 873.0
-  focal_length: 50.0
-  focal_length_35: 50.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 14:46:10+01:00
-- image_filename: 2019_12_29__10_29_DSC05173.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.284666666666666
-  lon: 16.876361111111112
-  altitude: 517.0
-  focal_length: 35.0
-  focal_length_35: 35.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 10:29:17+01:00
-- image_filename: 2019_12_29__13_05__C292155.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.260875
-  lon: 16.867444444444445
-  altitude: 594.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1600
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-12-29 13:05:22+01:00
-  focus_distance: 2.49
-- image_filename: 2019_12_29__13_05__C292162.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.260875
-  lon: 16.867444444444445
-  altitude: 595.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-12-29 13:05:38+01:00
-  focus_distance: 2.65
-- image_filename: 2019_12_29__13_04__C292126.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26083333333333
-  lon: 16.867458333333335
-  altitude: 594.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1600
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-12-29 13:04:48+01:00
-  focus_distance: 2.55
-- image_filename: 2019_12_29__11_25__C291976.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26343055555556
-  lon: 16.877
-  altitude: 572.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 11:25:48+01:00
-  focus_distance: 4.84
-- image_filename: 2019_12_29__14_11_DSC05267.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.23781944444445
-  lon: 16.848972222222223
-  altitude: 737.0
-  focal_length: 48.0
-  focal_length_35: 48.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 14:11:24+01:00
-- image_filename: 2019_12_29__16_19_DSC05395.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.208083333333335
-  lon: 16.832125
-  altitude: 1210.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 9.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7301
-  height: 4876
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 16:19:10+01:00
-- image_filename: 2019_12_28__15_49__C281666.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.29611111111111
-  lon: 16.878666666666668
-  altitude: 485.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5189
-  height: 3845
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-28 15:49:44+01:00
-  focus_distance: 19.95
-- image_filename: 2019_12_28__18_31__C281764.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.298402777777774
-  lon: 16.87575
-  altitude: 484.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5116
-  height: 3740
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2019-12-28 18:31:33+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_12_29__13_07__C292190.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26098611111111
-  lon: 16.86738888888889
-  altitude: 595.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-12-29 13:07:33+01:00
-  focus_distance: 0.85
-- image_filename: 2019_12_29__10_23_DSC05154.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.28568055555555
-  lon: 16.873944444444444
-  altitude: 510.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7092
-  height: 4737
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 10:23:04+01:00
-- image_filename: 2019_12_29__12_59__C292092.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.260930555555554
-  lon: 16.867472222222222
-  altitude: 593.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5074
-  height: 3785
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 12:59:39+01:00
-  focus_distance: 3.16
-- image_filename: 2019_12_29__15_41__C292421.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.21597222222223
-  lon: 16.83672222222222
-  altitude: 1114.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5130
-  height: 3830
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 15:41:51+01:00
-  focus_distance: 10.56
-- image_filename: 2019_12_29__10_35_DSC05188.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.28288888888889
-  lon: 16.87501388888889
-  altitude: 518.0
-  focal_length: 46.0
-  focal_length_35: 46.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 10:35:12+01:00
-- image_filename: 2019_12_28__18_48__C281794.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.295125
-  lon: 16.880916666666668
-  altitude: 495.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 4749
-  height: 3545
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2019-12-28 18:48:23+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_12_29__16_14_DSC05379.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.208819444444444
-  lon: 16.83170833333333
-  altitude: 1207.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 14.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 16:14:07+01:00
-- image_filename: 2019_12_29__12_53__C292066.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.261625
-  lon: 16.869736111111113
-  altitude: 590.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-12-29 12:53:41+01:00
-  focus_distance: 1.55
-- image_filename: 2019_12_28__17_00__C281722.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.297444444444444
-  lon: 16.881333333333334
-  altitude: 494.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4618
-  height: 3367
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2019-12-28 17:00:55+01:00
-  focus_distance: 5.08
-- image_filename: 2019_12_29__11_03__C291874.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.271388888888886
-  lon: 16.881333333333334
-  altitude: 554.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5146
-  height: 3799
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-12-29 11:03:36+01:00
-  focus_distance: 20.02
 - image_filename: 2019_12_28__15_47__C281657.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
   lat: 50.29609722222222
@@ -748,1107 +8,33 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 31.62
   iso: 500
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 5148
   height: 3793
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-12-28 15:47:53+01:00
-  focus_distance: 31.62
-- image_filename: 2019_12_29__11_07__C291891.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.27048611111111
-  lon: 16.88125
-  altitude: 562.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 11:07:38+01:00
-  focus_distance: 20.23
-- image_filename: 2019_12_29__12_51__C292016.jpg
+  time: 2019-12-28 15:47:53.000000000+01:00
+- image_filename: 2019_12_28__15_49__C281666.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26265277777778
-  lon: 16.870722222222224
-  altitude: 587.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 50.29611111111111
+  lon: 16.878666666666668
+  altitude: 485.0
+  focal_length: 66.0
+  focal_length_35: 132.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4642
-  height: 3554
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 12:51:04+01:00
-  focus_distance: 1.5
-- image_filename: 2019_12_29__16_21_DSC05400.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.208083333333335
-  lon: 16.83213888888889
-  altitude: 1210.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 7.1
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7301
-  height: 4876
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2019-12-29 16:21:18+01:00
-- image_filename: 2019_12_29__15_46_DSC05340.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.215611111111116
-  lon: 16.835527777777777
-  altitude: 1124.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-12-29 15:46:25+01:00
-- image_filename: 2019_12_29__10_25_DSC05159.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.28445833333333
-  lon: 16.873930555555557
-  altitude: 516.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7245
-  height: 4839
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 10:25:56+01:00
-- image_filename: 2019_12_29__11_01__C291871.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.27184722222222
-  lon: 16.881875
-  altitude: 548.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
+  focus_distance: 19.95
+  iso: 500
+  width: 5189
+  height: 3845
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5017
-  height: 3745
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 11:01:52+01:00
-  focus_distance: 47.76
-- image_filename: 2019_12_29__11_15__C291929.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26781944444444
-  lon: 16.880777777777777
-  altitude: 572.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 11:15:21+01:00
-  focus_distance: 14.48
-- image_filename: 2019_12_29__15_50_DSC05352.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.21409722222222
-  lon: 16.834374999999998
-  altitude: 1142.0
-  focal_length: 31.0
-  focal_length_35: 31.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7275
-  height: 4859
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-12-29 15:50:56+01:00
-- image_filename: 2019_12_29__15_31__C292371.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.217222222222226
-  lon: 16.838763888888888
-  altitude: 1053.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4815
-  height: 3505
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-12-29 15:31:23+01:00
-  focus_distance: 128.0
-- image_filename: 2019_12_29__13_55__C292308.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.24173611111111
-  lon: 16.853069444444447
-  altitude: 709.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5208
-  height: 3888
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 13:55:18+01:00
-  focus_distance: 26.25
-- image_filename: 2019_12_29__15_39__C292413.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.21593055555556
-  lon: 16.837541666666667
-  altitude: 1100.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 15:39:41+01:00
-  focus_distance: 4.28
-- image_filename: 2019_12_29__13_25__C292259.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.25665277777778
-  lon: 16.856208333333335
-  altitude: 640.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-12-29 13:25:01+01:00
-  focus_distance: 3.27
-- image_filename: 2019_12_29__12_53__C292047.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26184722222222
-  lon: 16.87026388888889
-  altitude: 588.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 12:53:01+01:00
-  focus_distance: 1.8
-- image_filename: 2019_12_29__10_26_DSC05160.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.28433333333333
-  lon: 16.873930555555557
-  altitude: 517.0
-  focal_length: 57.0
-  focal_length_35: 57.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6865
-  height: 4585
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 10:26:05+01:00
-- image_filename: 2019_12_29__16_22_DSC05403.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20806944444445
-  lon: 16.832125
-  altitude: 1210.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 8.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7301
-  height: 4876
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 16:22:45+01:00
-- image_filename: 2019_12_29__11_13__C291921.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26863888888889
-  lon: 16.881027777777778
-  altitude: 571.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5047
-  height: 3768
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 11:13:11+01:00
-  focus_distance: 24.86
-- image_filename: 2019_12_28__18_11__C281743.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.29604166666667
-  lon: 16.874625
-  altitude: 489.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5070
-  height: 3676
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2019-12-28 18:11:44+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_12_29__18_20_DSC05428.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.207930555555556
-  lon: 16.832444444444445
-  altitude: 1204.0
-  focal_length: 42.0
-  focal_length_35: 42.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 400
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7239
-  height: 4835
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2019-12-29 18:20:57+01:00
-- image_filename: 2019_12_29__16_10__C292479.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.209125
-  lon: 16.831527777777776
-  altitude: 1206.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4960
-  height: 3703
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-12-29 16:10:17+01:00
-  focus_distance: 25.68
-- image_filename: 2019_12_29__16_23_DSC05407.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20806944444445
-  lon: 16.832125
-  altitude: 1209.0
-  focal_length: 56.0
-  focal_length_35: 56.0
-  crop: 1.0
-  aperture: 6.3
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7301
-  height: 4876
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 16:23:31+01:00
-- image_filename: 2019_12_29__14_56_DSC05311.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.22380555555556
-  lon: 16.840902777777778
-  altitude: 921.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 14:56:10+01:00
-- image_filename: 2019_12_29__10_39_DSC05203.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.28036111111111
-  lon: 16.876166666666666
-  altitude: 511.0
-  focal_length: 49.0
-  focal_length_35: 49.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 10:39:29+01:00
-- image_filename: 2019_12_29__10_10__C291832.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.29143055555556
-  lon: 16.87397222222222
-  altitude: 495.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4979
-  height: 3538
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 10:10:04+01:00
-  focus_distance: 4.96
-- image_filename: 2019_12_29__14_09_DSC05262.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.23795833333333
-  lon: 16.849069444444442
-  altitude: 737.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7297
-  height: 4874
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 14:09:22+01:00
-- image_filename: 2019_12_29__18_02_DSC05415.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20791666666667
-  lon: 16.832444444444445
-  altitude: 1205.0
-  focal_length: 65.0
-  focal_length_35: 65.0
-  crop: 1.0
-  aperture: 3.5
-  iso: 200
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7352
-  height: 4911
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2019-12-29 18:02:24+01:00
-- image_filename: 2019_12_29__21_03__C292537.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.207972222222224
-  lon: 16.832430555555554
-  altitude: 1193.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 2000
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 5.0
-  exposure_string: 5 s
-  time: 2019-12-29 21:03:52+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_12_29__11_15__C291931.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26777777777777
-  lon: 16.880777777777777
-  altitude: 572.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4943
-  height: 3690
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 11:15:31+01:00
-  focus_distance: 24.34
-- image_filename: 2019_12_29__11_06__C291885.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.27098611111111
-  lon: 16.881097222222223
-  altitude: 558.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 11:06:11+01:00
-  focus_distance: 29.36
-- image_filename: 2019_12_29__15_36__C292393.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.21625
-  lon: 16.838375
-  altitude: 1080.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 15:36:58+01:00
-  focus_distance: 4.16
-- image_filename: 2019_12_29__16_16__C292523.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20847222222223
-  lon: 16.832083333333333
-  altitude: 1210.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4957
-  height: 3703
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-12-29 16:16:23+01:00
-  focus_distance: 18.83
-- image_filename: 2019_12_28__18_43__C281779.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.29615277777778
-  lon: 16.878305555555556
-  altitude: 488.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5095
-  height: 3712
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2019-12-28 18:43:28+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_12_29__10_04__C291825.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.29084722222222
-  lon: 16.87751388888889
-  altitude: 499.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5060
-  height: 3862
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 10:04:15+01:00
-  focus_distance: 10.2
-- image_filename: 2019_12_29__16_16_DSC05385.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20843055555556
-  lon: 16.83213888888889
-  altitude: 1210.0
-  focal_length: 35.0
-  focal_length_35: 35.0
-  crop: 1.0
-  aperture: 11.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7301
-  height: 4876
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 16:16:58+01:00
-- image_filename: 2019_12_29__16_07__C292451.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.209763888888894
-  lon: 16.831222222222223
-  altitude: 1200.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4960
-  height: 3703
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-12-29 16:07:34+01:00
-  focus_distance: 60.68
-- image_filename: 2019_12_29__13_11__C292234.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.260819444444444
-  lon: 16.86515277777778
-  altitude: 604.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4863
-  height: 3630
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2019-12-29 13:11:51+01:00
-  focus_distance: 1.83
-- image_filename: 2019_12_29__11_18__C291943.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.266444444444446
-  lon: 16.880625000000002
-  altitude: 573.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 11:18:22+01:00
-  focus_distance: 5.08
-- image_filename: 2019_12_29__15_49_DSC05345.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.214708333333334
-  lon: 16.834805555555555
-  altitude: 1133.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-12-29 15:49:02+01:00
-- image_filename: 2019_12_29__11_09__C291899.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.269638888888885
-  lon: 16.881319444444443
-  altitude: 567.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 11:09:17+01:00
-  focus_distance: 25.48
-- image_filename: 2019_12_29__10_11__C291833.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.291180555555556
-  lon: 16.87363888888889
-  altitude: 497.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4576
-  height: 3335
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-12-29 10:11:31+01:00
-  focus_distance: 4.9
-- image_filename: 2019_12_29__13_06__C292169.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26091666666667
-  lon: 16.867416666666667
-  altitude: 595.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.06666666666666667
-  exposure_string: 1/15 s
-  time: 2019-12-29 13:06:16+01:00
-  focus_distance: 2.79
-- image_filename: 2019_12_29__12_49__C291989.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26280555555556
-  lon: 16.870680555555555
-  altitude: 588.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 12:49:55+01:00
-  focus_distance: 3.97
-- image_filename: 2019_12_29__10_14__C291842.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.28941666666667
-  lon: 16.873958333333334
-  altitude: 499.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3935
-  height: 3379
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 10:14:09+01:00
-  focus_distance: 3.97
-- image_filename: 2019_12_29__14_59_DSC05317.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.22269444444445
-  lon: 16.84098611111111
-  altitude: 934.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 14:59:14+01:00
-- image_filename: 2019_12_28__18_41__C281775.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.29625
-  lon: 16.877958333333332
-  altitude: 488.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5168
-  height: 3821
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2019-12-28 18:41:48+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_12_29__15_51_DSC05354.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.214083333333335
-  lon: 16.83434722222222
-  altitude: 1142.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7275
-  height: 4859
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-12-29 15:51:03+01:00
-- image_filename: 2019_12_29__10_45_DSC05213.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.27729166666666
-  lon: 16.879194444444444
-  altitude: 517.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7197
-  height: 4807
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 10:45:13+01:00
-- image_filename: 2019_12_29__13_07__C292184.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26098611111111
-  lon: 16.867416666666667
-  altitude: 595.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2019-12-29 13:07:05+01:00
-  focus_distance: 2.91
-- image_filename: 2019_12_29__11_09__C291898.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26969444444445
-  lon: 16.881333333333334
-  altitude: 567.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 11:09:13+01:00
-  focus_distance: 39.1
-- image_filename: 2019_12_29__11_00__C291867.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.27236111111111
-  lon: 16.882708333333333
-  altitude: 540.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 11:00:00+01:00
-  focus_distance: 133.2
-- image_filename: 2019_12_29__18_09_DSC05420.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20791666666667
-  lon: 16.832444444444445
-  altitude: 1205.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.0
-  iso: 200
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2019-12-29 18:09:52+01:00
-- image_filename: 2019_12_29__13_04__C292123.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26083333333333
-  lon: 16.867458333333335
-  altitude: 594.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1600
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-12-29 13:04:44+01:00
-  focus_distance: 2.32
-- image_filename: 2019_12_29__18_16_DSC05425.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.207930555555556
-  lon: 16.832444444444445
-  altitude: 1204.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 400
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7314
-  height: 4885
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2019-12-29 18:16:54+01:00
-- image_filename: 2019_12_29__10_49_DSC05221.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.27526388888889
-  lon: 16.881805555555555
-  altitude: 523.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7011
-  height: 4682
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 10:49:26+01:00
-- image_filename: 2019_12_28__16_56__C281710.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.296347222222224
-  lon: 16.88075
-  altitude: 490.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5205
-  height: 3878
-  exposure: 0.125
-  exposure_string: 1/8 s
-  time: 2019-12-28 16:56:27+01:00
-  focus_distance: 115.38
-- image_filename: 2019_12_29__18_15_DSC05424.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.207930555555556
-  lon: 16.832444444444445
-  altitude: 1204.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 400
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2019-12-29 18:15:30+01:00
-- image_filename: 2019_12_29__10_49_DSC05222.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.27525
-  lon: 16.881819444444446
-  altitude: 523.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6965
-  height: 4652
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 10:49:31+01:00
-- image_filename: 2019_12_29__11_24__C291972.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.263819444444444
-  lon: 16.877861111111113
-  altitude: 570.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-12-29 11:24:39+01:00
-  focus_distance: 17.21
-- image_filename: 2019_12_29__11_32_DSC05231.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26338888888889
-  lon: 16.87591666666667
-  altitude: 573.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6640
-  height: 4435
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 11:32:15+01:00
-- image_filename: 2019_12_29__15_40__C292417.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.21590277777778
-  lon: 16.8375
-  altitude: 1101.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 15:40:10+01:00
-  focus_distance: 3.61
-- image_filename: 2019_12_29__21_04__C292538.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.207972222222224
-  lon: 16.832430555555554
-  altitude: 1193.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  iso: 200
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5167
-  height: 3813
-  exposure: 5.0
-  exposure_string: 5 s
-  time: 2019-12-29 21:04:59+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_12_29__10_28_DSC05167.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.284555555555556
-  lon: 16.875708333333336
-  altitude: 517.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 10:28:23+01:00
-- image_filename: 2019_12_29__16_13__C292502.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20883333333334
-  lon: 16.831722222222222
-  altitude: 1208.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4957
-  height: 3703
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-12-29 16:13:32+01:00
-  focus_distance: 1000.0
+  time: 2019-12-28 15:49:44.000000000+01:00
 - image_filename: 2019_12_28__15_50__C281669.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
   lat: 50.29611111111111
@@ -1858,87 +44,69 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5129
-  height: 3764
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2019-12-28 15:50:31+01:00
   focus_distance: 52.17
-- image_filename: 2019_12_29__12_53__C292052.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26181944444444
-  lon: 16.87023611111111
-  altitude: 589.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
   iso: 200
+  width: 5129
+  height: 3764
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 12:53:03+01:00
-  focus_distance: 1.8
-- image_filename: 2019_12_29__10_05__C291828.jpg
+  time: 2019-12-28 15:50:31.000000000+01:00
+- image_filename: 2019_12_28__15_52__C281673.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.28995833333333
-  lon: 16.877333333333333
-  altitude: 500.0
+  lat: 50.29695833333333
+  lon: 16.88138888888889
+  altitude: 488.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4680
-  height: 3322
+  aperture: 4.0
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2019-12-29 10:05:59+01:00
-  focus_distance: 2.59
-- image_filename: 2019_12_29__13_46__C292286.jpg
+  focus_distance: 4.43
+  iso: 200
+  width: 5162
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-28 15:52:28.000000000+01:00
+- image_filename: 2019_12_28__16_56__C281710.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.245666666666665
-  lon: 16.85275
-  altitude: 686.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 50.296347222222224
+  lon: 16.88075
+  altitude: 490.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 115.38
+  iso: 200
+  width: 5205
+  height: 3878
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-28 16:56:27.000000000+01:00
+- image_filename: 2019_12_28__17_00__C281722.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.297444444444444
+  lon: 16.881333333333334
+  altitude: 494.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 5.08
   iso: 200
+  width: 4618
+  height: 3367
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 13:46:01+01:00
-  focus_distance: 119.59
-- image_filename: 2019_12_29__13_08__C292197.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26097222222222
-  lon: 16.867430555555558
-  altitude: 595.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.25
-  exposure_string: 1/4 s
-  time: 2019-12-29 13:08:06+01:00
-  focus_distance: 1.83
+  time: 2019-12-28 17:00:55.000000000+01:00
 - image_filename: 2019_12_28__18_02__C281725.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
   lat: 50.296638888888886
@@ -1948,280 +116,332 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 3.92
   iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
   width: 4998
   height: 3731
-  exposure: 1.0
-  exposure_string: 1 s
-  time: 2019-12-28 18:02:29+01:00
-  focus_distance: 3.92
-- image_filename: 2019_12_29__11_25__C291975.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.263527777777774
-  lon: 16.877375
-  altitude: 571.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
+  time: 2019-12-28 18:02:29.000000000+01:00
+- image_filename: 2019_12_28__18_11__C281743.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.29604166666667
+  lon: 16.874625
+  altitude: 489.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5070
+  height: 3676
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-12-28 18:11:44.000000000+01:00
+- image_filename: 2019_12_28__18_31__C281764.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.298402777777774
+  lon: 16.87575
+  altitude: 484.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 769231.0
+  exposure_string: 0.769231 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5116
+  height: 3740
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-12-28 18:31:33.000000000+01:00
+- image_filename: 2019_12_28__18_32__C281765.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.29833333333333
+  lon: 16.876444444444445
+  altitude: 486.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.4
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5099
+  height: 3717
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-12-28 18:32:59.000000000+01:00
+- image_filename: 2019_12_28__18_41__C281775.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.29625
+  lon: 16.877958333333332
+  altitude: 488.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5168
+  height: 3821
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-12-28 18:41:48.000000000+01:00
+- image_filename: 2019_12_28__18_43__C281779.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.29615277777778
+  lon: 16.878305555555556
+  altitude: 488.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5095
+  height: 3712
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-12-28 18:43:28.000000000+01:00
+- image_filename: 2019_12_28__18_48__C281794.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.295125
+  lon: 16.880916666666668
+  altitude: 495.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 625.0
+  exposure_string: 0.625 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4749
+  height: 3545
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-12-28 18:48:23.000000000+01:00
+- image_filename: 2019_12_29__10_04__C291825.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.29084722222222
+  lon: 16.87751388888889
+  altitude: 499.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 10.2
+  iso: 200
+  width: 5060
+  height: 3862
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 10:04:15.000000000+01:00
+- image_filename: 2019_12_29__10_05__C291828.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.28995833333333
+  lon: 16.877333333333333
+  altitude: 500.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.59
+  iso: 200
+  width: 4680
+  height: 3322
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 10:05:59.000000000+01:00
+- image_filename: 2019_12_29__10_10__C291832.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.29143055555556
+  lon: 16.87397222222222
+  altitude: 495.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 4.96
+  iso: 200
+  width: 4979
+  height: 3538
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 10:10:04.000000000+01:00
+- image_filename: 2019_12_29__10_11__C291833.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.291180555555556
+  lon: 16.87363888888889
+  altitude: 497.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 4.9
+  iso: 200
+  width: 4576
+  height: 3335
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 10:11:31.000000000+01:00
+- image_filename: 2019_12_29__10_14__C291842.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.28941666666667
+  lon: 16.873958333333334
+  altitude: 499.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-12-29 11:25:25+01:00
-  focus_distance: 1000.0
-- image_filename: 2019_12_29__14_03_DSC05243.jpg
+  focus_distance: 3.97
+  iso: 200
+  width: 3935
+  height: 3379
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 10:14:09.000000000+01:00
+- image_filename: 2019_12_29__10_23_DSC05154.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.24073611111111
-  lon: 16.851736111111112
-  altitude: 715.0
+  lat: 50.28568055555555
+  lon: 16.873944444444444
+  altitude: 510.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7092
+  height: 4737
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:23:04.000000000+01:00
+- image_filename: 2019_12_29__10_25_DSC05159.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.28445833333333
+  lon: 16.873930555555557
+  altitude: 516.0
   focal_length: 28.0
   focal_length_35: 28.0
   crop: 1.0
   aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
   iso: 100
+  width: 7245
+  height: 4839
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
-  width: 6790
-  height: 4523
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-12-29 14:03:36+01:00
-- image_filename: 2019_12_29__16_09__C292470.jpg
+  time: 2019-12-29 10:25:56.000000000+01:00
+- image_filename: 2019_12_29__10_26_DSC05160.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20933333333333
-  lon: 16.831416666666666
-  altitude: 1205.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4960
-  height: 3703
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-12-29 16:09:41+01:00
-  focus_distance: 16.17
-- image_filename: 2019_12_29__13_54__C292299.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.24183333333333
-  lon: 16.853194444444444
-  altitude: 707.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 13:54:09+01:00
-  focus_distance: 44.64
-- image_filename: 2019_12_29__14_05_DSC05249.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.23976388888889
-  lon: 16.85079166666667
-  altitude: 722.0
-  focal_length: 49.0
-  focal_length_35: 49.0
+  lat: 50.28433333333333
+  lon: 16.873930555555557
+  altitude: 517.0
+  focal_length: 57.0
+  focal_length_35: 57.0
   crop: 1.0
   aperture: 4.5
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-12-29 14:05:40+01:00
-- image_filename: 2019_12_29__13_18__C292249.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.25886111111111
-  lon: 16.86026388888889
-  altitude: 623.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5021
-  height: 3771
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2019-12-29 13:18:44+01:00
-  focus_distance: 11.43
-- image_filename: 2019_12_29__12_52__C292028.jpg
+  iso: 100
+  width: 6865
+  height: 4585
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:26:05.000000000+01:00
+- image_filename: 2019_12_29__10_26_DSC05161.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26188888888889
-  lon: 16.870458333333335
-  altitude: 588.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 12:52:44+01:00
-  focus_distance: 4.62
-- image_filename: 2019_12_29__16_12__C292492.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.20911111111111
-  lon: 16.8315
-  altitude: 1206.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4960
-  height: 3703
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-12-29 16:12:15+01:00
-  focus_distance: 30.17
-- image_filename: 2019_12_29__11_10__C291906.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26913888888889
-  lon: 16.881222222222224
-  altitude: 569.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5039
-  height: 3762
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-12-29 11:10:45+01:00
-  focus_distance: 21.0
-- image_filename: 2019_12_29__10_45_DSC05215.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.277208333333334
-  lon: 16.879305555555558
+  lat: 50.28429166666667
+  lon: 16.873958333333334
   altitude: 517.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 3.2
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 100
+  width: 6717
+  height: 4486
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
-  width: 6853
-  height: 4577
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-12-29 10:45:21+01:00
-- image_filename: 2019_12_29__15_57_DSC05368.jpg
+  time: 2019-12-29 10:26:09.000000000+01:00
+- image_filename: 2019_12_29__10_28_DSC05167.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.21201388888889
-  lon: 16.832402777777776
-  altitude: 1177.0
-  focal_length: 75.0
-  focal_length_35: 75.0
+  lat: 50.284555555555556
+  lon: 16.875708333333336
+  altitude: 517.0
+  focal_length: 28.0
+  focal_length_35: 28.0
   crop: 1.0
-  aperture: 18.0
-  iso: 800
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
   width: 7366
   height: 4920
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-12-29 15:57:33+01:00
-- image_filename: 2019_12_29__14_02_DSC05241.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.241347222222224
-  lon: 16.852472222222225
-  altitude: 711.0
-  focal_length: 52.0
-  focal_length_35: 52.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
-  width: 7228
-  height: 4828
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-12-29 14:02:03+01:00
-- image_filename: 2019_12_29__11_23__C291964.jpg
+  time: 2019-12-29 10:28:23.000000000+01:00
+- image_filename: 2019_12_29__10_29_DSC05173.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26433333333333
-  lon: 16.87836111111111
-  altitude: 571.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
+  lat: 50.284666666666666
+  lon: 16.876361111111112
+  altitude: 517.0
+  focal_length: 35.0
+  focal_length_35: 35.0
+  crop: 1.0
   aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-12-29 11:23:37+01:00
-  focus_distance: 20.42
-- image_filename: 2019_12_29__13_01__C292107.jpg
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:29:17.000000000+01:00
+- image_filename: 2019_12_29__10_35_DSC05188.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.260958333333335
-  lon: 16.8675
-  altitude: 593.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 14.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.3333333333333333
-  exposure_string: 1/3 s
-  time: 2019-12-29 13:01:06+01:00
-  focus_distance: 4.76
-- image_filename: 2019_12_29__13_05__C292133.jpg
-  post_slug: 2019-12-28-stronie-slaskie-i-okolica
-  lat: 50.26083333333333
-  lon: 16.867458333333335
-  altitude: 594.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 1600
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-12-29 13:05:01+01:00
-  focus_distance: 2.49
+  lat: 50.28288888888889
+  lon: 16.87501388888889
+  altitude: 518.0
+  focal_length: 46.0
+  focal_length_35: 46.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:35:12.000000000+01:00
 - image_filename: 2019_12_29__10_39_DSC05201.jpg
   post_slug: 2019-12-28-stronie-slaskie-i-okolica
   lat: 50.28047222222222
@@ -2231,11 +451,1791 @@
   focal_length_35: 44.0
   crop: 1.0
   aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2019-12-29 10:39:18+01:00
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:39:18.000000000+01:00
+- image_filename: 2019_12_29__10_39_DSC05203.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.28036111111111
+  lon: 16.876166666666666
+  altitude: 511.0
+  focal_length: 49.0
+  focal_length_35: 49.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:39:29.000000000+01:00
+- image_filename: 2019_12_29__10_45_DSC05213.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.27729166666666
+  lon: 16.879194444444444
+  altitude: 517.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7197
+  height: 4807
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:45:13.000000000+01:00
+- image_filename: 2019_12_29__10_45_DSC05215.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.277208333333334
+  lon: 16.879305555555558
+  altitude: 517.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6853
+  height: 4577
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:45:21.000000000+01:00
+- image_filename: 2019_12_29__10_49_DSC05221.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.27526388888889
+  lon: 16.881805555555555
+  altitude: 523.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7011
+  height: 4682
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:49:26.000000000+01:00
+- image_filename: 2019_12_29__10_49_DSC05222.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.27525
+  lon: 16.881819444444446
+  altitude: 523.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6965
+  height: 4652
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 10:49:31.000000000+01:00
+- image_filename: 2019_12_29__11_00__C291867.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.27236111111111
+  lon: 16.882708333333333
+  altitude: 540.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 133.2
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:00:00.000000000+01:00
+- image_filename: 2019_12_29__11_01__C291871.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.27184722222222
+  lon: 16.881875
+  altitude: 548.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 47.76
+  iso: 200
+  width: 5017
+  height: 3745
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:01:52.000000000+01:00
+- image_filename: 2019_12_29__11_03__C291874.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.271388888888886
+  lon: 16.881333333333334
+  altitude: 554.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 20.02
+  iso: 200
+  width: 5146
+  height: 3799
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:03:36.000000000+01:00
+- image_filename: 2019_12_29__11_06__C291885.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.27098611111111
+  lon: 16.881097222222223
+  altitude: 558.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 29.36
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:06:11.000000000+01:00
+- image_filename: 2019_12_29__11_06__C291888.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.27097222222222
+  lon: 16.88111111111111
+  altitude: 558.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 47.76
+  iso: 200
+  width: 4968
+  height: 3716
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:06:20.000000000+01:00
+- image_filename: 2019_12_29__11_07__C291891.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.27048611111111
+  lon: 16.88125
+  altitude: 562.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 20.23
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:07:38.000000000+01:00
+- image_filename: 2019_12_29__11_09__C291898.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26969444444445
+  lon: 16.881333333333334
+  altitude: 567.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 39.1
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:09:13.000000000+01:00
+- image_filename: 2019_12_29__11_09__C291899.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.269638888888885
+  lon: 16.881319444444443
+  altitude: 567.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 25.48
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:09:17.000000000+01:00
+- image_filename: 2019_12_29__11_09__C291903.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26940277777778
+  lon: 16.88127777777778
+  altitude: 568.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 92.57
+  iso: 200
+  width: 5040
+  height: 3763
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:09:55.000000000+01:00
+- image_filename: 2019_12_29__11_10__C291906.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26913888888889
+  lon: 16.881222222222224
+  altitude: 569.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 21.0
+  iso: 200
+  width: 5039
+  height: 3762
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:10:45.000000000+01:00
+- image_filename: 2019_12_29__11_13__C291921.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26863888888889
+  lon: 16.881027777777778
+  altitude: 571.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 24.86
+  iso: 200
+  width: 5047
+  height: 3768
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:13:11.000000000+01:00
+- image_filename: 2019_12_29__11_15__C291929.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26781944444444
+  lon: 16.880777777777777
+  altitude: 572.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 14.48
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:15:21.000000000+01:00
+- image_filename: 2019_12_29__11_15__C291931.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26777777777777
+  lon: 16.880777777777777
+  altitude: 572.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 24.34
+  iso: 200
+  width: 4943
+  height: 3690
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:15:31.000000000+01:00
+- image_filename: 2019_12_29__11_18__C291943.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.266444444444446
+  lon: 16.880625000000002
+  altitude: 573.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 5.08
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:18:22.000000000+01:00
+- image_filename: 2019_12_29__11_21__C291953.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26519444444445
+  lon: 16.879416666666668
+  altitude: 575.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 23.27
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:21:56.000000000+01:00
+- image_filename: 2019_12_29__11_23__C291964.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26433333333333
+  lon: 16.87836111111111
+  altitude: 571.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 20.42
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:23:37.000000000+01:00
+- image_filename: 2019_12_29__11_24__C291972.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.263819444444444
+  lon: 16.877861111111113
+  altitude: 570.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 17.21
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:24:39.000000000+01:00
+- image_filename: 2019_12_29__11_25__C291975.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.263527777777774
+  lon: 16.877375
+  altitude: 571.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:25:25.000000000+01:00
+- image_filename: 2019_12_29__11_25__C291976.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26343055555556
+  lon: 16.877
+  altitude: 572.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.84
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:25:48.000000000+01:00
+- image_filename: 2019_12_29__11_27__C291981.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.263305555555554
+  lon: 16.8765
+  altitude: 573.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.86
+  iso: 200
+  width: 4831
+  height: 3606
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 11:27:06.000000000+01:00
+- image_filename: 2019_12_29__11_32_DSC05231.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26338888888889
+  lon: 16.87591666666667
+  altitude: 573.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6640
+  height: 4435
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 11:32:15.000000000+01:00
+- image_filename: 2019_12_29__12_49__C291989.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26280555555556
+  lon: 16.870680555555555
+  altitude: 588.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.97
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 12:49:55.000000000+01:00
+- image_filename: 2019_12_29__12_51__C292016.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26265277777778
+  lon: 16.870722222222224
+  altitude: 587.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.5
+  iso: 200
+  width: 4642
+  height: 3554
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 12:51:04.000000000+01:00
+- image_filename: 2019_12_29__12_52__C292028.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26188888888889
+  lon: 16.870458333333335
+  altitude: 588.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.62
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 12:52:44.000000000+01:00
+- image_filename: 2019_12_29__12_53__C292047.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26184722222222
+  lon: 16.87026388888889
+  altitude: 588.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.8
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 12:53:01.000000000+01:00
+- image_filename: 2019_12_29__12_53__C292052.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26181944444444
+  lon: 16.87023611111111
+  altitude: 589.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.8
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 12:53:03.000000000+01:00
+- image_filename: 2019_12_29__12_53__C292062.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26163888888889
+  lon: 16.869777777777777
+  altitude: 590.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.64
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 12:53:37.000000000+01:00
+- image_filename: 2019_12_29__12_53__C292066.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.261625
+  lon: 16.869736111111113
+  altitude: 590.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.55
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 12:53:41.000000000+01:00
+- image_filename: 2019_12_29__12_59__C292092.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.260930555555554
+  lon: 16.867472222222222
+  altitude: 593.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.16
+  iso: 200
+  width: 5074
+  height: 3785
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 12:59:39.000000000+01:00
+- image_filename: 2019_12_29__13_00__C292098.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.260930555555554
+  lon: 16.867416666666667
+  altitude: 594.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 5.08
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:00:00.000000000+01:00
+- image_filename: 2019_12_29__13_01__C292107.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.260958333333335
+  lon: 16.8675
+  altitude: 593.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 14.0
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 4.76
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:01:06.000000000+01:00
+- image_filename: 2019_12_29__13_04__C292123.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26083333333333
+  lon: 16.867458333333335
+  altitude: 594.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 2.32
+  iso: 1600
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:04:44.000000000+01:00
+- image_filename: 2019_12_29__13_04__C292126.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26083333333333
+  lon: 16.867458333333335
+  altitude: 594.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 2.55
+  iso: 1600
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:04:48.000000000+01:00
+- image_filename: 2019_12_29__13_05__C292133.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26083333333333
+  lon: 16.867458333333335
+  altitude: 594.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 2.49
+  iso: 1600
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:05:01.000000000+01:00
+- image_filename: 2019_12_29__13_05__C292146.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26086111111111
+  lon: 16.867444444444445
+  altitude: 594.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 2.49
+  iso: 1600
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:05:18.000000000+01:00
+- image_filename: 2019_12_29__13_05__C292155.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.260875
+  lon: 16.867444444444445
+  altitude: 594.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 2.49
+  iso: 1600
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:05:22.000000000+01:00
+- image_filename: 2019_12_29__13_05__C292162.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.260875
+  lon: 16.867444444444445
+  altitude: 595.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 2.65
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:05:38.000000000+01:00
+- image_filename: 2019_12_29__13_06__C292169.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26091666666667
+  lon: 16.867416666666667
+  altitude: 595.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 2.79
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:06:16.000000000+01:00
+- image_filename: 2019_12_29__13_07__C292184.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26098611111111
+  lon: 16.867416666666667
+  altitude: 595.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 2.91
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:07:05.000000000+01:00
+- image_filename: 2019_12_29__13_07__C292190.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26098611111111
+  lon: 16.86738888888889
+  altitude: 595.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 0.85
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:07:33.000000000+01:00
+- image_filename: 2019_12_29__13_08__C292197.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26097222222222
+  lon: 16.867430555555558
+  altitude: 595.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 1.83
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:08:06.000000000+01:00
+- image_filename: 2019_12_29__13_11__C292234.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.260819444444444
+  lon: 16.86515277777778
+  altitude: 604.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 1.83
+  iso: 200
+  width: 4863
+  height: 3630
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:11:51.000000000+01:00
+- image_filename: 2019_12_29__13_16__C292242.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.26001388888889
+  lon: 16.861611111111113
+  altitude: 617.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.78
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:16:41.000000000+01:00
+- image_filename: 2019_12_29__13_18__C292249.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.25886111111111
+  lon: 16.86026388888889
+  altitude: 623.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 11.43
+  iso: 200
+  width: 5021
+  height: 3771
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:18:44.000000000+01:00
+- image_filename: 2019_12_29__13_25__C292259.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.25665277777778
+  lon: 16.856208333333335
+  altitude: 640.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 3.27
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:25:01.000000000+01:00
+- image_filename: 2019_12_29__13_36__C292277.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.25058333333333
+  lon: 16.851597222222225
+  altitude: 660.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 5.11
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:36:10.000000000+01:00
+- image_filename: 2019_12_29__13_46__C292286.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.245666666666665
+  lon: 16.85275
+  altitude: 686.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 119.59
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:46:01.000000000+01:00
+- image_filename: 2019_12_29__13_54__C292299.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.24183333333333
+  lon: 16.853194444444444
+  altitude: 707.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 44.64
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:54:09.000000000+01:00
+- image_filename: 2019_12_29__13_55__C292308.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.24173611111111
+  lon: 16.853069444444447
+  altitude: 709.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 26.25
+  iso: 200
+  width: 5208
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 13:55:18.000000000+01:00
+- image_filename: 2019_12_29__14_02_DSC05241.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.241347222222224
+  lon: 16.852472222222225
+  altitude: 711.0
+  focal_length: 52.0
+  focal_length_35: 52.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 7228
+  height: 4828
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:02:03.000000000+01:00
+- image_filename: 2019_12_29__14_03_DSC05243.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.24073611111111
+  lon: 16.851736111111112
+  altitude: 715.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 6790
+  height: 4523
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:03:36.000000000+01:00
+- image_filename: 2019_12_29__14_04_DSC05246.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.24027777777778
+  lon: 16.85129166666667
+  altitude: 718.0
+  focal_length: 45.0
+  focal_length_35: 45.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:04:28.000000000+01:00
+- image_filename: 2019_12_29__14_05_DSC05249.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.23976388888889
+  lon: 16.85079166666667
+  altitude: 722.0
+  focal_length: 49.0
+  focal_length_35: 49.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 125
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:05:40.000000000+01:00
+- image_filename: 2019_12_29__14_07_DSC05255.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.23880555555556
+  lon: 16.85004166666667
+  altitude: 730.0
+  focal_length: 40.0
+  focal_length_35: 40.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 7172
+  height: 4790
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:07:37.000000000+01:00
+- image_filename: 2019_12_29__14_09_DSC05262.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.23795833333333
+  lon: 16.849069444444442
+  altitude: 737.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7297
+  height: 4874
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:09:22.000000000+01:00
+- image_filename: 2019_12_29__14_11_DSC05267.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.23781944444445
+  lon: 16.848972222222223
+  altitude: 737.0
+  focal_length: 48.0
+  focal_length_35: 48.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:11:24.000000000+01:00
+- image_filename: 2019_12_29__14_15_DSC05271.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.23665277777778
+  lon: 16.84573611111111
+  altitude: 756.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7111
+  height: 4750
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:15:52.000000000+01:00
+- image_filename: 2019_12_29__14_44_DSC05287.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.22788888888889
+  lon: 16.841666666666665
+  altitude: 865.0
+  focal_length: 64.0
+  focal_length_35: 64.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 160
+  width: 4920
+  height: 7366
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:44:34.000000000+01:00
+- image_filename: 2019_12_29__14_46_DSC05289.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.22751388888889
+  lon: 16.84159722222222
+  altitude: 873.0
+  focal_length: 50.0
+  focal_length_35: 50.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:46:10.000000000+01:00
+- image_filename: 2019_12_29__14_52_DSC05303.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.22506944444444
+  lon: 16.84133333333333
+  altitude: 904.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:52:37.000000000+01:00
+- image_filename: 2019_12_29__14_56_DSC05311.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.22380555555556
+  lon: 16.840902777777778
+  altitude: 921.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:56:10.000000000+01:00
+- image_filename: 2019_12_29__14_59_DSC05317.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.22269444444445
+  lon: 16.84098611111111
+  altitude: 934.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 14:59:14.000000000+01:00
+- image_filename: 2019_12_29__15_31__C292371.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.217222222222226
+  lon: 16.838763888888888
+  altitude: 1053.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 128.0
+  iso: 200
+  width: 4815
+  height: 3505
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 15:31:23.000000000+01:00
+- image_filename: 2019_12_29__15_36__C292393.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.21625
+  lon: 16.838375
+  altitude: 1080.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 4.16
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 15:36:58.000000000+01:00
+- image_filename: 2019_12_29__15_39__C292413.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.21593055555556
+  lon: 16.837541666666667
+  altitude: 1100.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.28
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 15:39:41.000000000+01:00
+- image_filename: 2019_12_29__15_40__C292417.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.21590277777778
+  lon: 16.8375
+  altitude: 1101.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.61
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 15:40:10.000000000+01:00
+- image_filename: 2019_12_29__15_41__C292421.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.21597222222223
+  lon: 16.83672222222222
+  altitude: 1114.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 10.56
+  iso: 200
+  width: 5130
+  height: 3830
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 15:41:51.000000000+01:00
+- image_filename: 2019_12_29__15_43__C292427.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.216055555555556
+  lon: 16.836333333333332
+  altitude: 1117.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.05
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 15:43:58.000000000+01:00
+- image_filename: 2019_12_29__15_46_DSC05340.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.215611111111116
+  lon: 16.835527777777777
+  altitude: 1124.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 15:46:25.000000000+01:00
+- image_filename: 2019_12_29__15_49_DSC05345.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.214708333333334
+  lon: 16.834805555555555
+  altitude: 1133.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 15:49:02.000000000+01:00
+- image_filename: 2019_12_29__15_50_DSC05347.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.21427777777778
+  lon: 16.83451388888889
+  altitude: 1139.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7230
+  height: 4829
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 15:50:01.000000000+01:00
+- image_filename: 2019_12_29__15_50_DSC05352.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.21409722222222
+  lon: 16.834374999999998
+  altitude: 1142.0
+  focal_length: 31.0
+  focal_length_35: 31.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7275
+  height: 4859
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 15:50:56.000000000+01:00
+- image_filename: 2019_12_29__15_51_DSC05354.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.214083333333335
+  lon: 16.83434722222222
+  altitude: 1142.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7275
+  height: 4859
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 15:51:03.000000000+01:00
+- image_filename: 2019_12_29__15_57_DSC05368.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.21201388888889
+  lon: 16.832402777777776
+  altitude: 1177.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 18.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 800
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 15:57:33.000000000+01:00
+- image_filename: 2019_12_29__16_07__C292451.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.209763888888894
+  lon: 16.831222222222223
+  altitude: 1200.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 60.68
+  iso: 200
+  width: 4960
+  height: 3703
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 16:07:34.000000000+01:00
+- image_filename: 2019_12_29__16_09__C292470.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20933333333333
+  lon: 16.831416666666666
+  altitude: 1205.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 16.17
+  iso: 200
+  width: 4960
+  height: 3703
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 16:09:41.000000000+01:00
+- image_filename: 2019_12_29__16_10__C292479.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.209125
+  lon: 16.831527777777776
+  altitude: 1206.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.68
+  iso: 200
+  width: 4960
+  height: 3703
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 16:10:17.000000000+01:00
+- image_filename: 2019_12_29__16_11__C292484.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.209138888888894
+  lon: 16.83151388888889
+  altitude: 1207.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 16.7
+  iso: 200
+  width: 4960
+  height: 3703
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 16:11:07.000000000+01:00
+- image_filename: 2019_12_29__16_12__C292492.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20911111111111
+  lon: 16.8315
+  altitude: 1206.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 30.17
+  iso: 200
+  width: 4960
+  height: 3703
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 16:12:15.000000000+01:00
+- image_filename: 2019_12_29__16_13__C292502.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20883333333334
+  lon: 16.831722222222222
+  altitude: 1208.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4957
+  height: 3703
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 16:13:32.000000000+01:00
+- image_filename: 2019_12_29__16_14_DSC05379.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.208819444444444
+  lon: 16.83170833333333
+  altitude: 1207.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 14.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 16:14:07.000000000+01:00
+- image_filename: 2019_12_29__16_16_DSC05385.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20843055555556
+  lon: 16.83213888888889
+  altitude: 1210.0
+  focal_length: 35.0
+  focal_length_35: 35.0
+  crop: 1.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7301
+  height: 4876
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 16:16:58.000000000+01:00
+- image_filename: 2019_12_29__16_16__C292523.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20847222222223
+  lon: 16.832083333333333
+  altitude: 1210.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 18.83
+  iso: 200
+  width: 4957
+  height: 3703
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2019-12-29 16:16:23.000000000+01:00
+- image_filename: 2019_12_29__16_19_DSC05395.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.208083333333335
+  lon: 16.832125
+  altitude: 1210.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7301
+  height: 4876
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 16:19:10.000000000+01:00
+- image_filename: 2019_12_29__16_21_DSC05400.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.208083333333335
+  lon: 16.83213888888889
+  altitude: 1210.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7301
+  height: 4876
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 16:21:18.000000000+01:00
+- image_filename: 2019_12_29__16_22_DSC05403.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20806944444445
+  lon: 16.832125
+  altitude: 1210.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7301
+  height: 4876
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 16:22:45.000000000+01:00
+- image_filename: 2019_12_29__16_23_DSC05407.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20806944444445
+  lon: 16.832125
+  altitude: 1209.0
+  focal_length: 56.0
+  focal_length_35: 56.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7301
+  height: 4876
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 16:23:31.000000000+01:00
+- image_filename: 2019_12_29__18_02_DSC05415.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20791666666667
+  lon: 16.832444444444445
+  altitude: 1205.0
+  focal_length: 65.0
+  focal_length_35: 65.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 200
+  width: 7352
+  height: 4911
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 18:02:24.000000000+01:00
+- image_filename: 2019_12_29__18_08_DSC05419.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20791666666667
+  lon: 16.832444444444445
+  altitude: 1205.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 200
+  width: 7333
+  height: 4898
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 18:08:14.000000000+01:00
+- image_filename: 2019_12_29__18_09_DSC05420.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.20791666666667
+  lon: 16.832444444444445
+  altitude: 1205.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 200
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 18:09:52.000000000+01:00
+- image_filename: 2019_12_29__18_15_DSC05424.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.207930555555556
+  lon: 16.832444444444445
+  altitude: 1204.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 400
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 18:15:30.000000000+01:00
+- image_filename: 2019_12_29__18_16_DSC05425.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.207930555555556
+  lon: 16.832444444444445
+  altitude: 1204.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 400
+  width: 7314
+  height: 4885
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 18:16:54.000000000+01:00
+- image_filename: 2019_12_29__18_20_DSC05428.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.207930555555556
+  lon: 16.832444444444445
+  altitude: 1204.0
+  focal_length: 42.0
+  focal_length_35: 42.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 400
+  width: 7239
+  height: 4835
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 18:20:57.000000000+01:00
+- image_filename: 2019_12_29__18_31_DSC05435.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.207930555555556
+  lon: 16.832444444444445
+  altitude: 1203.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 30.0
+  exposure_string: 30 s
+  iso: 400
+  width: 7245
+  height: 4839
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  time: 2019-12-29 18:31:02.000000000+01:00
+- image_filename: 2019_12_29__21_03__C292537.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.207972222222224
+  lon: 16.832430555555554
+  altitude: 1193.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 5.0
+  exposure_string: 5 s
+  focus_distance: 1000.0
+  iso: 2000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-12-29 21:03:52.000000000+01:00
+- image_filename: 2019_12_29__21_04__C292538.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.207972222222224
+  lon: 16.832430555555554
+  altitude: 1193.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 5.0
+  exposure_string: 5 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5167
+  height: 3813
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2019-12-29 21:04:59.000000000+01:00

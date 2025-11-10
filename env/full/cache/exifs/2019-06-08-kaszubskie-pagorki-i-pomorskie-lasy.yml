@@ -1,1261 +1,19 @@
 ---
-- image_filename: 2019_06_08__11_19_P6080119.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23291666666667
-  lon: 18.268902777777775
-  altitude: 242.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-08 11:19:05+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_06_08__08_21_P6080002.jpg
   post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2019-06-08 08:21:33+02:00
   focus_distance: 12.2
-- image_filename: 2019_06_08__09_50_P6080008.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.263625
-  lon: 18.403125
-  altitude: 148.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
   iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3267
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-08 09:50:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__09_54_P6080015.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.26058333333334
-  lon: 18.389430555555556
-  altitude: 148.0
-  focal_length: 88.0
-  focal_length_35: 176.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
   width: 4640
   height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 09:54:25+02:00
-  focus_distance: 9.98
-- image_filename: 2019_06_08__10_02_P6080026.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.257305555555554
-  lon: 18.370319444444444
-  altitude: 177.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4039
-  height: 2909
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-08 10:02:33+02:00
-  focus_distance: 52.26
-- image_filename: 2019_06_08__10_57_P6080043.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.24406944444445
-  lon: 18.29940277777778
-  altitude: 239.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4494
-  height: 3363
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 10:57:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_01_P6080045.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23747222222222
-  lon: 18.29652777777778
-  altitude: 239.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-08 11:01:51+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_09_P6080073.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.271694444444442
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-08 11:09:48+02:00
-  focus_distance: 1.75
-- image_filename: 2019_06_08__11_12_P6080106.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.271694444444442
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-06-08 11:12:43+02:00
-  focus_distance: 4.34
-- image_filename: 2019_06_08__11_19_P6080123.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.232708333333335
-  lon: 18.267027777777777
-  altitude: 238.0
-  focal_length: 37.0
-  focal_length_35: 74.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4629
-  height: 3463
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 11:19:36+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_55_P6080147.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.24526388888889
-  lon: 18.184958333333334
-  altitude: 231.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 11:55:10+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__12_04_P6080152.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.252583333333334
-  lon: 18.17476388888889
-  altitude: 195.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 12:04:36+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__12_07_P6080165.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.253375
-  lon: 18.174583333333334
-  altitude: 183.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 12:07:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__12_18_P6080189.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25175
-  lon: 18.158680555555556
-  altitude: 166.0
-  focal_length: 77.0
-  focal_length_35: 154.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4514
-  height: 3424
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 12:18:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__12_22_P6080214.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.24927777777778
-  lon: 18.15222222222222
-  altitude: 174.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 12:22:52+02:00
-  focus_distance: 153.4
-- image_filename: 2019_06_08__13_42_P6080238.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25944444444445
-  lon: 18.100819444444447
-  altitude: 169.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4461
-  height: 3338
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-06-08 13:42:58+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__14_49_P6080250.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.273180555555555
-  lon: 18.09347222222222
-  altitude: 190.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 14:49:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__15_31_P6080253.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.21372222222222
-  lon: 17.959125
-  altitude: 168.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4242
-  height: 3061
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 15:31:07+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__15_54_P6080272.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.206652777777784
-  lon: 17.953125
-  altitude: 163.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4369
-  height: 3269
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-08 15:54:49+02:00
-  focus_distance: 1.18
-- image_filename: 2019_06_08__16_10_P6080290.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.20944444444445
-  lon: 17.93611111111111
-  altitude: 187.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 16:10:24+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__16_25_P6080302.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.20373611111111
-  lon: 17.880916666666668
-  altitude: 172.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 16:25:08+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__16_37_P6080313.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.207013888888895
-  lon: 17.851194444444445
-  altitude: 181.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 16:37:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__16_55_P6080320.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.20133333333334
-  lon: 17.815708333333333
-  altitude: 194.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 16:55:12+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__16_56_P6080322.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.199638888888884
-  lon: 17.81001388888889
-  altitude: 190.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-08 16:56:39+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__17_16_P6080333.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.177166666666665
-  lon: 17.766416666666668
-  altitude: 165.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 17:16:23+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__17_19_P6080349.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.170125
-  lon: 17.76861111111111
-  altitude: 164.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 17:19:03+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__17_31_P6080358.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.165166666666664
-  lon: 17.748458333333335
-  altitude: 182.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4534
-  height: 3344
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 17:31:04+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__17_36_P6080362.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.165375
-  lon: 17.73876388888889
-  altitude: 193.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 17:36:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__17_38_P6080371.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.167291666666664
-  lon: 17.733777777777778
-  altitude: 194.0
-  focal_length: 109.0
-  focal_length_35: 218.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-08 17:38:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__17_49_P6080386.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.15506944444444
-  lon: 17.705944444444444
-  altitude: 197.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 17:49:23+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__18_10_P6080401.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.14319444444445
-  lon: 17.655083333333334
-  altitude: 195.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 18:10:17+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__18_31_P6080414.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.153819444444444
-  lon: 17.593694444444445
-  altitude: 206.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 18:31:26+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__18_32_P6080422.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.15511111111111
-  lon: 17.590041666666664
-  altitude: 207.0
-  focal_length: 65.0
-  focal_length_35: 130.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2019-06-08 18:32:25+02:00
-  focus_distance: 12.57
-- image_filename: 2019_06_08__12_05_P6080160.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25259722222222
-  lon: 18.174736111111113
-  altitude: 195.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 12:05:05+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__18_32_P6080420.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.15484722222222
-  lon: 17.590902777777778
-  altitude: 207.0
-  focal_length: 19.0
-  focal_length_35: 38.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-08 18:32:11+02:00
-  focus_distance: 4.72
-- image_filename: 2019_06_08__16_22_P6080295.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.203541666666666
-  lon: 17.894541666666665
-  altitude: 187.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4489
-  height: 3359
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 16:22:41+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__10_01_P6080022.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25866666666667
-  lon: 18.372708333333335
-  altitude: 177.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4251
-  height: 3247
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-08 10:01:48+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__12_06_P6080163.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25331944444444
-  lon: 18.17463888888889
-  altitude: 185.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-08 12:06:38+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__15_31_P6080254.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.21355555555556
-  lon: 17.959
-  altitude: 168.0
-  focal_length: 30.0
-  focal_length_35: 60.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4604
-  height: 3451
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 15:31:11+02:00
-  focus_distance: 11.88
-- image_filename: 2019_06_08__17_19_P6080352.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.17009722222222
-  lon: 17.768583333333332
-  altitude: 164.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 17:19:15+02:00
-  focus_distance: 6.68
-- image_filename: 2019_06_08__11_12_P6080110.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.271694444444442
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-06-08 11:12:52+02:00
-  focus_distance: 3.24
-- image_filename: 2019_06_08__12_09_P6080183.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25377777777778
-  lon: 18.173805555555557
-  altitude: 173.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 12:09:30+02:00
-  focus_distance: 165.92
-- image_filename: 2019_06_08__11_06_P6080057.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23605555555556
-  lon: 18.275875
-  altitude: 237.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-08 11:06:16+02:00
-  focus_distance: 0.76
-- image_filename: 2019_06_08__18_09_P6080399.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.14288888888889
-  lon: 17.65683333333333
-  altitude: 196.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4590
-  height: 3435
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 18:09:56+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_10_P6080083.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.271708333333333
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-08 11:10:26+02:00
-  focus_distance: 0.39
-- image_filename: 2019_06_08__12_25_P6080219.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.24930555555556
-  lon: 18.149680555555555
-  altitude: 185.0
-  focal_length: 32.0
-  focal_length_35: 64.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4585
-  height: 3431
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 12:25:13+02:00
-  focus_distance: 13.86
-- image_filename: 2019_06_08__11_12_P6080101.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.235083333333336
-  lon: 18.271680555555555
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3163
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-06-08 11:12:20+02:00
-  focus_distance: 3.76
-- image_filename: 2019_06_08__12_08_P6080172.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25351388888889
-  lon: 18.17436111111111
-  altitude: 179.0
-  focal_length: 40.0
-  focal_length_35: 80.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 12:08:10+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_32_P6080137.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.22813888888889
-  lon: 18.246333333333336
-  altitude: 229.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 11:32:37+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__16_27_P6080306.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.20352777777778
-  lon: 17.877319444444446
-  altitude: 170.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 16:27:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_31_P6080134.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.226875
-  lon: 18.249097222222222
-  altitude: 223.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 11:31:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__12_08_P6080171.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25348611111111
-  lon: 18.174458333333334
-  altitude: 181.0
-  focal_length: 46.0
-  focal_length_35: 92.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-08 12:08:05+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__17_28_P6080355.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.16491666666666
-  lon: 17.756375
-  altitude: 182.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 17:28:24+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_09_P6080070.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.271694444444442
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-06-08 11:09:28+02:00
-  focus_distance: 0.69
-- image_filename: 2019_06_08__17_38_P6080373.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.16727777777778
-  lon: 17.732777777777777
-  altitude: 193.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 17:38:39+02:00
-  focus_distance: 138.2
-- image_filename: 2019_06_08__18_23_P6080410.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.147444444444446
-  lon: 17.61640277777778
-  altitude: 195.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-08 18:23:20+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_13_P6080118.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.271694444444442
-  altitude: 236.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-08 11:13:54+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__12_04_P6080157.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25259722222222
-  lon: 18.17476388888889
-  altitude: 195.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-08 12:04:51+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__17_59_P6080391.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.14877777777778
-  lon: 17.685055555555557
-  altitude: 191.0
-  focal_length: 19.0
-  focal_length_35: 38.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 17:59:54+02:00
-  focus_distance: 15.4
-- image_filename: 2019_06_08__16_32_P6080312.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.20622222222222
-  lon: 17.863430555555556
-  altitude: 176.0
-  focal_length: 77.0
-  focal_length_35: 154.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-06-08 16:32:18+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__18_13_P6080406.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.1445
-  lon: 17.650583333333334
-  altitude: 193.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-08 18:13:01+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_07_P6080067.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.235083333333336
-  lon: 18.27173611111111
-  altitude: 238.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-08 11:07:15+02:00
-  focus_distance: 2.21
-- image_filename: 2019_06_08__11_12_P6080107.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.271694444444442
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4532
-  height: 3384
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-06-08 11:12:48+02:00
-  focus_distance: 3.53
-- image_filename: 2019_06_08__17_45_P6080381.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.158722222222224
-  lon: 17.718305555555553
-  altitude: 196.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-08 17:45:37+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_10_P6080095.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.27172222222222
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-08 11:10:41+02:00
-  focus_distance: 0.49
-- image_filename: 2019_06_08__12_21_P6080205.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.249319444444446
-  lon: 18.152624999999997
-  altitude: 174.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 12:21:00+02:00
-  focus_distance: 159.36
-- image_filename: 2019_06_08__12_04_P6080158.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25259722222222
-  lon: 18.17476388888889
-  altitude: 195.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 12:04:56+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_09_P6080075.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.271708333333333
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-06-08 11:09:56+02:00
-  focus_distance: 1.02
-- image_filename: 2019_06_08__10_01_P6080019.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25879166666667
-  lon: 18.373041666666666
-  altitude: 177.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-08 10:01:39+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__17_16_P6080340.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.17540277777778
-  lon: 17.766944444444444
-  altitude: 165.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-08 17:16:55+02:00
-  focus_distance: 1000.0
+  time: 2019-06-08 08:21:33.000000000+02:00
 - image_filename: 2019_06_08__09_45_P6080006.jpg
   post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
   lat: 54.26525
@@ -1265,429 +23,33 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.6
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4431
-  height: 3355
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2019-06-08 09:45:04+02:00
   focus_distance: 1000.0
-- image_filename: 2019_06_08__11_04_P6080049.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23648611111111
-  lon: 18.283055555555556
-  altitude: 239.0
-  focal_length: 77.0
-  focal_length_35: 154.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
+  iso: 400
+  width: 4431
+  height: 3355
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-06-08 11:04:47+02:00
-  focus_distance: 7.03
-- image_filename: 2019_06_08__11_06_P6080063.jpg
+  time: 2019-06-08 09:45:04.000000000+02:00
+- image_filename: 2019_06_08__09_50_P6080008.jpg
   post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.235236111111114
-  lon: 18.272166666666667
-  altitude: 238.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-06-08 11:06:56+02:00
-  focus_distance: 2.22
-- image_filename: 2019_06_08__17_38_P6080375.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.16723611111111
-  lon: 17.732680555555554
-  altitude: 193.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 320
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-06-08 17:38:46+02:00
-  focus_distance: 166.52
-- image_filename: 2019_06_08__12_19_P6080197.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25094444444444
-  lon: 18.156430555555556
-  altitude: 167.0
-  focal_length: 24.0
-  focal_length_35: 48.0
+  lat: 54.263625
+  lon: 18.403125
+  altitude: 148.0
+  focal_length: 14.0
+  focal_length_35: 28.0
   crop: 2.0
   aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 12:19:36+02:00
+  exposure: 0.005
+  exposure_string: 1/200 s
   focus_distance: 1000.0
-- image_filename: 2019_06_08__11_21_P6080127.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.226819444444445
-  lon: 18.262569444444445
-  altitude: 226.0
-  focal_length: 37.0
-  focal_length_35: 74.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4588
-  height: 3433
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 11:21:26+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__16_22_P6080296.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.203625
-  lon: 17.893874999999998
-  altitude: 187.0
-  focal_length: 81.0
-  focal_length_35: 162.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 250
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
+  iso: 400
   width: 4640
-  height: 3472
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-06-08 16:22:50+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__10_02_P6080025.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.25770833333333
-  lon: 18.370458333333335
-  altitude: 176.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 10.0
-  iso: 200
+  height: 3267
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 10:02:23+02:00
-  focus_distance: 95.39
-- image_filename: 2019_06_08__11_13_P6080116.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23511111111111
-  lon: 18.271694444444442
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 2.8
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2019-06-08 11:13:14+02:00
-  focus_distance: 4.23
-- image_filename: 2019_06_08__11_19_P6080121.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23291666666667
-  lon: 18.268763888888888
-  altitude: 242.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 11:19:15+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_40_P6080145.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23215277777778
-  lon: 18.2245
-  altitude: 246.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4517
-  height: 3380
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2019-06-08 11:40:36+02:00
-  focus_distance: 58.65
-- image_filename: 2019_06_08__11_07_P6080066.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.27175
-  altitude: 237.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 3472
-  height: 4640
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-08 11:07:06+02:00
-  focus_distance: 0.91
-- image_filename: 2019_06_08__11_34_P6080139.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.22852777777778
-  lon: 18.242569444444445
-  altitude: 235.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 11.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 11:34:23+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__15_30_P6080251.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.214222222222226
-  lon: 17.95951388888889
-  altitude: 168.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4368
-  height: 3133
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 15:30:55+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__16_59_P6080330.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.198680555555555
-  lon: 17.80334722222222
-  altitude: 167.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4456
-  height: 3334
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-06-08 16:59:36+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_28_P6080131.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.22204166666667
-  lon: 18.25529166666667
-  altitude: 224.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 11:28:11+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_02_P6080048.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23729166666667
-  lon: 18.29575
-  altitude: 239.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4503
-  height: 3305
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-06-08 11:02:01+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_10_P6080097.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23509722222222
-  lon: 18.27172222222222
-  altitude: 236.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-06-08 11:10:56+02:00
-  focus_distance: 0.52
-- image_filename: 2019_06_08__12_06_P6080162.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.253305555555556
-  lon: 18.174694444444444
-  altitude: 186.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 9.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4394
-  height: 3152
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-06-08 12:06:33+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_06_P6080060.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.23575
-  lon: 18.274416666666667
-  altitude: 237.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-08 11:06:31+02:00
-  focus_distance: 0.87
-- image_filename: 2019_06_08__11_06_P6080055.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.236180555555556
-  lon: 18.276722222222222
-  altitude: 237.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-06-08 11:06:08+02:00
-  focus_distance: 0.81
-- image_filename: 2019_06_08__17_37_P6080368.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.16569444444444
-  lon: 17.737208333333335
-  altitude: 196.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4367
-  height: 3105
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-06-08 17:37:20+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_06_08__11_06_P6080064.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.235194444444446
-  lon: 18.27201388888889
-  altitude: 237.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 3.5
-  iso: 200
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2019-06-08 11:06:58+02:00
-  focus_distance: 2.9
-- image_filename: 2019_06_08__10_57_P6080041.jpg
-  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
-  lat: 54.24425
-  lon: 18.300208333333334
-  altitude: 241.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 8.0
-  iso: 200
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-06-08 10:57:25+02:00
-  focus_distance: 1000.0
+  time: 2019-06-08 09:50:04.000000000+02:00
 - image_filename: 2019_06_08__09_52_P6080011.jpg
   post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
   lat: 54.261319444444446
@@ -1697,12 +59,1650 @@
   focal_length_35: 110.0
   crop: 2.0
   aperture: 11.0
-  iso: 400
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2019-06-08 09:52:55+02:00
   focus_distance: 1000.0
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 09:52:55.000000000+02:00
+- image_filename: 2019_06_08__09_54_P6080015.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.26058333333334
+  lon: 18.389430555555556
+  altitude: 148.0
+  focal_length: 88.0
+  focal_length_35: 176.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 9.98
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 09:54:25.000000000+02:00
+- image_filename: 2019_06_08__10_01_P6080019.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25879166666667
+  lon: 18.373041666666666
+  altitude: 177.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 10:01:39.000000000+02:00
+- image_filename: 2019_06_08__10_01_P6080022.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25866666666667
+  lon: 18.372708333333335
+  altitude: 177.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 400
+  width: 4251
+  height: 3247
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 10:01:48.000000000+02:00
+- image_filename: 2019_06_08__10_02_P6080025.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25770833333333
+  lon: 18.370458333333335
+  altitude: 176.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 95.39
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 10:02:23.000000000+02:00
+- image_filename: 2019_06_08__10_02_P6080026.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.257305555555554
+  lon: 18.370319444444444
+  altitude: 177.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 52.26
+  iso: 200
+  width: 4039
+  height: 2909
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 10:02:33.000000000+02:00
+- image_filename: 2019_06_08__10_57_P6080041.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.24425
+  lon: 18.300208333333334
+  altitude: 241.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 10:57:25.000000000+02:00
+- image_filename: 2019_06_08__10_57_P6080043.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.24406944444445
+  lon: 18.29940277777778
+  altitude: 239.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4494
+  height: 3363
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 10:57:31.000000000+02:00
+- image_filename: 2019_06_08__11_01_P6080045.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23747222222222
+  lon: 18.29652777777778
+  altitude: 239.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:01:51.000000000+02:00
+- image_filename: 2019_06_08__11_02_P6080048.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23729166666667
+  lon: 18.29575
+  altitude: 239.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4503
+  height: 3305
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:02:01.000000000+02:00
+- image_filename: 2019_06_08__11_04_P6080049.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23648611111111
+  lon: 18.283055555555556
+  altitude: 239.0
+  focal_length: 77.0
+  focal_length_35: 154.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 7.03
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:04:47.000000000+02:00
+- image_filename: 2019_06_08__11_06_P6080055.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.236180555555556
+  lon: 18.276722222222222
+  altitude: 237.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.81
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:06:08.000000000+02:00
+- image_filename: 2019_06_08__11_06_P6080057.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23605555555556
+  lon: 18.275875
+  altitude: 237.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.76
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:06:16.000000000+02:00
+- image_filename: 2019_06_08__11_06_P6080060.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23575
+  lon: 18.274416666666667
+  altitude: 237.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.87
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:06:31.000000000+02:00
+- image_filename: 2019_06_08__11_06_P6080063.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.235236111111114
+  lon: 18.272166666666667
+  altitude: 238.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 2.22
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:06:56.000000000+02:00
+- image_filename: 2019_06_08__11_06_P6080064.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.235194444444446
+  lon: 18.27201388888889
+  altitude: 237.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 2.9
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:06:58.000000000+02:00
+- image_filename: 2019_06_08__11_07_P6080066.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.27175
+  altitude: 237.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 0.91
+  iso: 200
+  width: 3472
+  height: 4640
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:07:06.000000000+02:00
+- image_filename: 2019_06_08__11_07_P6080067.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.235083333333336
+  lon: 18.27173611111111
+  altitude: 238.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 2.21
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:07:15.000000000+02:00
+- image_filename: 2019_06_08__11_09_P6080070.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.271694444444442
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.69
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:09:28.000000000+02:00
+- image_filename: 2019_06_08__11_09_P6080073.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.271694444444442
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1.75
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:09:48.000000000+02:00
+- image_filename: 2019_06_08__11_09_P6080075.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.271708333333333
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1.02
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:09:56.000000000+02:00
+- image_filename: 2019_06_08__11_10_P6080083.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.271708333333333
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 0.39
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:10:26.000000000+02:00
+- image_filename: 2019_06_08__11_10_P6080095.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.27172222222222
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.49
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:10:41.000000000+02:00
+- image_filename: 2019_06_08__11_10_P6080097.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.27172222222222
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.52
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:10:56.000000000+02:00
+- image_filename: 2019_06_08__11_12_P6080101.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.235083333333336
+  lon: 18.271680555555555
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 3.76
+  iso: 200
+  width: 4640
+  height: 3163
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:12:20.000000000+02:00
+- image_filename: 2019_06_08__11_12_P6080106.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.271694444444442
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 4.34
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:12:43.000000000+02:00
+- image_filename: 2019_06_08__11_12_P6080107.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.271694444444442
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  focus_distance: 3.53
+  iso: 200
+  width: 4532
+  height: 3384
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:12:48.000000000+02:00
+- image_filename: 2019_06_08__11_12_P6080110.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.271694444444442
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 3.24
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:12:52.000000000+02:00
+- image_filename: 2019_06_08__11_13_P6080116.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23511111111111
+  lon: 18.271694444444442
+  altitude: 236.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 4.23
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  time: 2019-06-08 11:13:14.000000000+02:00
+- image_filename: 2019_06_08__11_13_P6080118.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23509722222222
+  lon: 18.271694444444442
+  altitude: 236.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:13:54.000000000+02:00
+- image_filename: 2019_06_08__11_19_P6080119.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23291666666667
+  lon: 18.268902777777775
+  altitude: 242.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:19:05.000000000+02:00
+- image_filename: 2019_06_08__11_19_P6080121.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23291666666667
+  lon: 18.268763888888888
+  altitude: 242.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:19:15.000000000+02:00
+- image_filename: 2019_06_08__11_19_P6080123.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.232708333333335
+  lon: 18.267027777777777
+  altitude: 238.0
+  focal_length: 37.0
+  focal_length_35: 74.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4629
+  height: 3463
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:19:36.000000000+02:00
+- image_filename: 2019_06_08__11_21_P6080127.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.226819444444445
+  lon: 18.262569444444445
+  altitude: 226.0
+  focal_length: 37.0
+  focal_length_35: 74.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4588
+  height: 3433
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:21:26.000000000+02:00
+- image_filename: 2019_06_08__11_28_P6080131.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.22204166666667
+  lon: 18.25529166666667
+  altitude: 224.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:28:11.000000000+02:00
+- image_filename: 2019_06_08__11_31_P6080134.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.226875
+  lon: 18.249097222222222
+  altitude: 223.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:31:31.000000000+02:00
+- image_filename: 2019_06_08__11_32_P6080137.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.22813888888889
+  lon: 18.246333333333336
+  altitude: 229.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:32:37.000000000+02:00
+- image_filename: 2019_06_08__11_34_P6080139.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.22852777777778
+  lon: 18.242569444444445
+  altitude: 235.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:34:23.000000000+02:00
+- image_filename: 2019_06_08__11_40_P6080145.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.23215277777778
+  lon: 18.2245
+  altitude: 246.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 58.65
+  iso: 200
+  width: 4517
+  height: 3380
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:40:36.000000000+02:00
+- image_filename: 2019_06_08__11_55_P6080147.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.24526388888889
+  lon: 18.184958333333334
+  altitude: 231.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3472
+  height: 4640
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 11:55:10.000000000+02:00
+- image_filename: 2019_06_08__12_04_P6080152.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.252583333333334
+  lon: 18.17476388888889
+  altitude: 195.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:04:36.000000000+02:00
+- image_filename: 2019_06_08__12_04_P6080157.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25259722222222
+  lon: 18.17476388888889
+  altitude: 195.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:04:51.000000000+02:00
+- image_filename: 2019_06_08__12_04_P6080158.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25259722222222
+  lon: 18.17476388888889
+  altitude: 195.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:04:56.000000000+02:00
+- image_filename: 2019_06_08__12_05_P6080160.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25259722222222
+  lon: 18.174736111111113
+  altitude: 195.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:05:05.000000000+02:00
+- image_filename: 2019_06_08__12_06_P6080162.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.253305555555556
+  lon: 18.174694444444444
+  altitude: 186.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4394
+  height: 3152
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:06:33.000000000+02:00
+- image_filename: 2019_06_08__12_06_P6080163.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25331944444444
+  lon: 18.17463888888889
+  altitude: 185.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:06:38.000000000+02:00
+- image_filename: 2019_06_08__12_07_P6080165.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.253375
+  lon: 18.174583333333334
+  altitude: 183.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:07:44.000000000+02:00
+- image_filename: 2019_06_08__12_08_P6080171.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25348611111111
+  lon: 18.174458333333334
+  altitude: 181.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:08:05.000000000+02:00
+- image_filename: 2019_06_08__12_08_P6080172.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25351388888889
+  lon: 18.17436111111111
+  altitude: 179.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:08:10.000000000+02:00
+- image_filename: 2019_06_08__12_09_P6080183.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25377777777778
+  lon: 18.173805555555557
+  altitude: 173.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 165.92
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:09:30.000000000+02:00
+- image_filename: 2019_06_08__12_18_P6080189.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25175
+  lon: 18.158680555555556
+  altitude: 166.0
+  focal_length: 77.0
+  focal_length_35: 154.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4514
+  height: 3424
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:18:50.000000000+02:00
+- image_filename: 2019_06_08__12_19_P6080197.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25094444444444
+  lon: 18.156430555555556
+  altitude: 167.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:19:36.000000000+02:00
+- image_filename: 2019_06_08__12_21_P6080205.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.249319444444446
+  lon: 18.152624999999997
+  altitude: 174.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 159.36
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:21:00.000000000+02:00
+- image_filename: 2019_06_08__12_22_P6080214.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.24927777777778
+  lon: 18.15222222222222
+  altitude: 174.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 153.4
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:22:52.000000000+02:00
+- image_filename: 2019_06_08__12_25_P6080219.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.24930555555556
+  lon: 18.149680555555555
+  altitude: 185.0
+  focal_length: 32.0
+  focal_length_35: 64.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 13.86
+  iso: 200
+  width: 4585
+  height: 3431
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 12:25:13.000000000+02:00
+- image_filename: 2019_06_08__13_42_P6080238.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.25944444444445
+  lon: 18.100819444444447
+  altitude: 169.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4461
+  height: 3338
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 13:42:58.000000000+02:00
+- image_filename: 2019_06_08__14_49_P6080250.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.273180555555555
+  lon: 18.09347222222222
+  altitude: 190.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 14:49:00.000000000+02:00
+- image_filename: 2019_06_08__15_30_P6080251.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.214222222222226
+  lon: 17.95951388888889
+  altitude: 168.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4368
+  height: 3133
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 15:30:55.000000000+02:00
+- image_filename: 2019_06_08__15_31_P6080253.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.21372222222222
+  lon: 17.959125
+  altitude: 168.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4242
+  height: 3061
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 15:31:07.000000000+02:00
+- image_filename: 2019_06_08__15_31_P6080254.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.21355555555556
+  lon: 17.959
+  altitude: 168.0
+  focal_length: 30.0
+  focal_length_35: 60.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 11.88
+  iso: 200
+  width: 4604
+  height: 3451
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 15:31:11.000000000+02:00
+- image_filename: 2019_06_08__15_54_P6080272.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.206652777777784
+  lon: 17.953125
+  altitude: 163.0
+  focal_length: 46.0
+  focal_length_35: 92.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1.18
+  iso: 200
+  width: 4369
+  height: 3269
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 15:54:49.000000000+02:00
+- image_filename: 2019_06_08__16_10_P6080290.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.20944444444445
+  lon: 17.93611111111111
+  altitude: 187.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:10:24.000000000+02:00
+- image_filename: 2019_06_08__16_22_P6080295.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.203541666666666
+  lon: 17.894541666666665
+  altitude: 187.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4489
+  height: 3359
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:22:41.000000000+02:00
+- image_filename: 2019_06_08__16_22_P6080296.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.203625
+  lon: 17.893874999999998
+  altitude: 187.0
+  focal_length: 81.0
+  focal_length_35: 162.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:22:50.000000000+02:00
+- image_filename: 2019_06_08__16_25_P6080302.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.20373611111111
+  lon: 17.880916666666668
+  altitude: 172.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:25:08.000000000+02:00
+- image_filename: 2019_06_08__16_27_P6080306.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.20352777777778
+  lon: 17.877319444444446
+  altitude: 170.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3472
+  height: 4640
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:27:00.000000000+02:00
+- image_filename: 2019_06_08__16_32_P6080312.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.20622222222222
+  lon: 17.863430555555556
+  altitude: 176.0
+  focal_length: 77.0
+  focal_length_35: 154.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:32:18.000000000+02:00
+- image_filename: 2019_06_08__16_37_P6080313.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.207013888888895
+  lon: 17.851194444444445
+  altitude: 181.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:37:50.000000000+02:00
+- image_filename: 2019_06_08__16_55_P6080320.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.20133333333334
+  lon: 17.815708333333333
+  altitude: 194.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:55:12.000000000+02:00
+- image_filename: 2019_06_08__16_56_P6080322.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.199638888888884
+  lon: 17.81001388888889
+  altitude: 190.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:56:39.000000000+02:00
+- image_filename: 2019_06_08__16_59_P6080330.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.198680555555555
+  lon: 17.80334722222222
+  altitude: 167.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4456
+  height: 3334
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 16:59:36.000000000+02:00
+- image_filename: 2019_06_08__17_16_P6080333.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.177166666666665
+  lon: 17.766416666666668
+  altitude: 165.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:16:23.000000000+02:00
+- image_filename: 2019_06_08__17_16_P6080340.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.17540277777778
+  lon: 17.766944444444444
+  altitude: 165.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3472
+  height: 4640
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:16:55.000000000+02:00
+- image_filename: 2019_06_08__17_19_P6080349.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.170125
+  lon: 17.76861111111111
+  altitude: 164.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:19:03.000000000+02:00
+- image_filename: 2019_06_08__17_19_P6080352.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.17009722222222
+  lon: 17.768583333333332
+  altitude: 164.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 6.68
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:19:15.000000000+02:00
+- image_filename: 2019_06_08__17_28_P6080355.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.16491666666666
+  lon: 17.756375
+  altitude: 182.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:28:24.000000000+02:00
+- image_filename: 2019_06_08__17_31_P6080358.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.165166666666664
+  lon: 17.748458333333335
+  altitude: 182.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4534
+  height: 3344
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:31:04.000000000+02:00
+- image_filename: 2019_06_08__17_36_P6080362.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.165375
+  lon: 17.73876388888889
+  altitude: 193.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:36:18.000000000+02:00
+- image_filename: 2019_06_08__17_37_P6080368.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.16569444444444
+  lon: 17.737208333333335
+  altitude: 196.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4367
+  height: 3105
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:37:20.000000000+02:00
+- image_filename: 2019_06_08__17_38_P6080371.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.167291666666664
+  lon: 17.733777777777778
+  altitude: 194.0
+  focal_length: 109.0
+  focal_length_35: 218.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:38:29.000000000+02:00
+- image_filename: 2019_06_08__17_38_P6080373.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.16727777777778
+  lon: 17.732777777777777
+  altitude: 193.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 138.2
+  iso: 320
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:38:39.000000000+02:00
+- image_filename: 2019_06_08__17_38_P6080375.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.16723611111111
+  lon: 17.732680555555554
+  altitude: 193.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 166.52
+  iso: 320
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:38:46.000000000+02:00
+- image_filename: 2019_06_08__17_45_P6080381.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.158722222222224
+  lon: 17.718305555555553
+  altitude: 196.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:45:37.000000000+02:00
+- image_filename: 2019_06_08__17_49_P6080386.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.15506944444444
+  lon: 17.705944444444444
+  altitude: 197.0
+  focal_length: 40.0
+  focal_length_35: 80.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:49:23.000000000+02:00
+- image_filename: 2019_06_08__17_59_P6080391.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.14877777777778
+  lon: 17.685055555555557
+  altitude: 191.0
+  focal_length: 19.0
+  focal_length_35: 38.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 15.4
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 17:59:54.000000000+02:00
+- image_filename: 2019_06_08__18_09_P6080399.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.14288888888889
+  lon: 17.65683333333333
+  altitude: 196.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4590
+  height: 3435
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 18:09:56.000000000+02:00
+- image_filename: 2019_06_08__18_10_P6080401.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.14319444444445
+  lon: 17.655083333333334
+  altitude: 195.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 18:10:17.000000000+02:00
+- image_filename: 2019_06_08__18_13_P6080406.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.1445
+  lon: 17.650583333333334
+  altitude: 193.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 18:13:01.000000000+02:00
+- image_filename: 2019_06_08__18_23_P6080410.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.147444444444446
+  lon: 17.61640277777778
+  altitude: 195.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 18:23:20.000000000+02:00
+- image_filename: 2019_06_08__18_31_P6080414.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.153819444444444
+  lon: 17.593694444444445
+  altitude: 206.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 18:31:26.000000000+02:00
+- image_filename: 2019_06_08__18_32_P6080420.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.15484722222222
+  lon: 17.590902777777778
+  altitude: 207.0
+  focal_length: 19.0
+  focal_length_35: 38.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 4.72
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 18:32:11.000000000+02:00
+- image_filename: 2019_06_08__18_32_P6080422.jpg
+  post_slug: 2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy
+  lat: 54.15511111111111
+  lon: 17.590041666666664
+  altitude: 207.0
+  focal_length: 65.0
+  focal_length_35: 130.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 12.57
+  iso: 200
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  time: 2019-06-08 18:32:25.000000000+02:00

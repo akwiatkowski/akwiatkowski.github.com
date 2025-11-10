@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.31568055555555
-  lon: 16.63976388888889
-  altitude: 60.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-09-09 17:26:02+02:00
 - image_filename: IMGP0482raw1.jpg
   post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
   lat: 52.29230555555555
@@ -22,11 +8,11 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.2
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-09-09 16:01:43+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-09-09 16:01:43.000000000+02:00
 - image_filename: IMGP0484raw1.jpg
   post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
   lat: 52.29209722222222
@@ -36,120 +22,22 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-09-09 16:02:11+02:00
-- image_filename: IMGP0488raw1.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.29073611111111
-  lon: 16.68425
-  altitude: 60.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-09-09 16:07:59+02:00
-- image_filename: IMGP0500raw1.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.30073611111111
-  lon: 16.66522222222222
-  altitude: 65.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 2.8
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2017-09-09 16:50:32+02:00
-- image_filename: IMGP0501raw1.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.30480555555555
-  lon: 16.65536111111111
-  altitude: 61.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-09-09 17:00:36+02:00
-- image_filename: IMGP0532raw1.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.313694444444444
-  lon: 16.6375
-  altitude: 63.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2017-09-09 17:30:04+02:00
-- image_filename: IMGP0487raw1.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.291041666666665
-  lon: 16.684930555555557
-  altitude: 60.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-09-09 16:06:19+02:00
-- image_filename: IMGP0503raw1.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.30647222222222
-  lon: 16.65611111111111
-  altitude: 57.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-09-09 17:03:27+02:00
+  time: 2017-09-09 16:02:11.000000000+02:00
 - image_filename: IMGP0485raw1.jpg
   post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2017-09-09 16:06:01+02:00
-- image_filename: IMGP0543raw1.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.29069444444444
-  lon: 16.683722222222222
-  altitude: 58.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  iso: 640
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2017-09-09 18:26:25+02:00
+  time: 2017-09-09 16:06:01.000000000+02:00
 - image_filename: IMGP0486raw1.jpg
   post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
   lat: 52.291041666666665
@@ -159,39 +47,39 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2017-09-09 16:06:14+02:00
-- image_filename: IMGP0515raw1.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.31447222222222
-  lon: 16.6415
-  altitude: 68.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 500
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-09-09 17:20:15+02:00
-- image_filename: IMGP0545raw1.jpg
+  time: 2017-09-09 16:06:14.000000000+02:00
+- image_filename: IMGP0487raw1.jpg
   post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.29286111111111
-  lon: 16.689375000000002
-  altitude: 66.0
+  lat: 52.291041666666665
+  lon: 16.684930555555557
+  altitude: 60.0
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
-  aperture: 2.8
-  iso: 1000
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
   camera: PENTAX K-S2
-  exposure: 0.07692307692307693
-  exposure_string: 1/13 s
-  time: 2017-09-09 18:32:22+02:00
+  time: 2017-09-09 16:06:19.000000000+02:00
+- image_filename: IMGP0488raw1.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.29073611111111
+  lon: 16.68425
+  altitude: 60.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-09-09 16:07:59.000000000+02:00
 - image_filename: IMGP0492raw1.jpg
   post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
   lat: 52.29143055555556
@@ -201,25 +89,53 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2017-09-09 16:23:00+02:00
-- image_filename: IMGP0520raw1.jpg
-  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
-  lat: 52.31601388888889
-  lon: 16.63976388888889
-  altitude: 56.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 8.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2017-09-09 17:25:32+02:00
+  time: 2017-09-09 16:23:00.000000000+02:00
+- image_filename: IMGP0500raw1.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.30073611111111
+  lon: 16.66522222222222
+  altitude: 65.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-09-09 16:50:32.000000000+02:00
+- image_filename: IMGP0501raw1.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.304805555555554
+  lon: 16.65536111111111
+  altitude: 61.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-09-09 17:00:36.000000000+02:00
+- image_filename: IMGP0503raw1.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.30647222222222
+  lon: 16.65611111111111
+  altitude: 57.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-09-09 17:03:27.000000000+02:00
 - image_filename: IMGP0506raw1.jpg
   post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
   lat: 52.3095
@@ -229,8 +145,92 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
-  time: 2017-09-09 17:08:46+02:00
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-09-09 17:08:46.000000000+02:00
+- image_filename: IMGP0515raw1.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.31447222222222
+  lon: 16.6415
+  altitude: 68.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2017-09-09 17:20:15.000000000+02:00
+- image_filename: IMGP0520raw1.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.31601388888889
+  lon: 16.63976388888889
+  altitude: 56.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-09-09 17:25:32.000000000+02:00
+- image_filename: IMGP0532raw1.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.313694444444444
+  lon: 16.6375
+  altitude: 63.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-09-09 17:30:04.000000000+02:00
+- image_filename: IMGP0543raw1.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.29069444444444
+  lon: 16.683722222222222
+  altitude: 58.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 640
+  camera: PENTAX K-S2
+  time: 2017-09-09 18:26:25.000000000+02:00
+- image_filename: IMGP0545raw1.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.29286111111111
+  lon: 16.689375000000002
+  altitude: 66.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 1000
+  camera: PENTAX K-S2
+  time: 2017-09-09 18:32:22.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-09-09-spacer-w-okolicy-rzeki-samicy
+  lat: 52.31568055555555
+  lon: 16.63976388888889
+  altitude: 60.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-09-09 17:26:02.000000000+02:00

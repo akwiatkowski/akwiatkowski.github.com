@@ -1,186 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2022-11-19-atak-zimy
-- image_filename: 2022_11_20__11_35_PB201687.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36540277777778
-  lon: 16.91786111111111
-  altitude: 98.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 6.31
-  iso: 800
-  width: 5142
-  height: 3633
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:35:31.000000000+01:00
-- image_filename: 2022_11_20__11_32_PB201657.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36541666666667
-  lon: 16.917875000000002
-  altitude: 97.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 13.37
-  iso: 640
-  width: 4964
-  height: 3504
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:32:35.000000000+01:00
-- image_filename: 2022_11_20__11_00_PB201450.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36725
-  lon: 16.920250000000003
-  altitude: 92.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 8.34
-  iso: 1000
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:00:47.000000000+01:00
-- image_filename: 2022_11_20__11_24_PB201594.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36727777777778
-  lon: 16.920361111111113
-  altitude: 91.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 5.69
-  iso: 1250
-  width: 5083
-  height: 3549
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:24:59.000000000+01:00
-- image_filename: 2022_11_20__11_31_PB201637.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36541666666667
-  lon: 16.917875000000002
-  altitude: 95.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 10.9
-  iso: 640
-  width: 4336
-  height: 3326
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:31:32.000000000+01:00
-- image_filename: 2022_11_20__11_36_PB201697.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36540277777778
-  lon: 16.91786111111111
-  altitude: 98.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 4.51
-  iso: 400
-  width: 4284
-  height: 3097
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:36:06.000000000+01:00
-- image_filename: 2023_02_03__09_53_P2037562.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.479
-  lon: 17.21013888888889
-  altitude: 114.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 25.01
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-03 09:53:08.000000000+01:00
-- image_filename: 2022_11_20__11_24_PB201595.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36727777777778
-  lon: 16.920361111111113
-  altitude: 91.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 5.68
-  iso: 1250
-  width: 4880
-  height: 3658
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:24:59.000000000+01:00
-- image_filename: 2022_11_20__11_02_PB201466.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36725
-  lon: 16.92026388888889
-  altitude: 92.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 7.76
-  iso: 1000
-  width: 4408
-  height: 3544
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:02:12.000000000+01:00
-- image_filename: 2022_11_19__15_33_PB191393.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.48538888888889
-  lon: 17.208458333333333
-  altitude: 0.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 3.5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 6.24
-  iso: 200
-  width: 8153
-  height: 6071
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-11-19 15:33:15.000000000+01:00
 - image_filename: 2022_11_19__14_08_PB191315.jpg
   post_slug: 2022-11-19-atak-zimy
   lat: 52.48538888888889
@@ -199,419 +17,6 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
   time: 2022-11-19 14:08:42.000000000+01:00
-- image_filename: 2022_11_20__11_49_PB201771.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.37006944444445
-  lon: 16.918069444444445
-  altitude: 90.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 1.96
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:49:47.000000000+01:00
-- image_filename: 2023_02_03__09_59_P2037572.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.474916666666665
-  lon: 17.210472222222222
-  altitude: 106.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 12.92
-  iso: 200
-  width: 8159
-  height: 6074
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-03 09:59:40.000000000+01:00
-- image_filename: 2022_11_20__11_34_PB201673.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36540277777778
-  lon: 16.91786111111111
-  altitude: 97.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 6.3
-  iso: 640
-  width: 4701
-  height: 3369
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:34:19.000000000+01:00
-- image_filename: 2022_11_19__15_25_PB191384.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.48538888888889
-  lon: 17.208458333333333
-  altitude: 0.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 2.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 6.24
-  iso: 200
-  width: 8115
-  height: 6051
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-11-19 15:25:42.000000000+01:00
-- image_filename: 2022_11_20__10_32_DSC03791.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.37225
-  lon: 16.91702777777778
-  altitude: 89.0
-  focal_length: 95.0
-  focal_length_35: 95.0
-  crop: 1.0
-  aperture: 2.8
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  iso: 100
-  width: 4024
-  height: 6048
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-20 10:32:52.000000000+01:00
-- image_filename: 2023_02_03__09_58_P2037570.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.475833333333334
-  lon: 17.21009722222222
-  altitude: 105.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 51.85
-  iso: 200
-  width: 8138
-  height: 6084
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-03 09:58:23.000000000+01:00
-- image_filename: 2023_02_03__10_06_P2037579.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.471625
-  lon: 17.21375
-  altitude: 113.0
-  focal_length: 86.0
-  focal_length_35: 172.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 17.21
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-03 10:06:05.000000000+01:00
-- image_filename: 2022_11_20__11_31_PB201629.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36541666666667
-  lon: 16.917875000000002
-  altitude: 95.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 6.32
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:31:03.000000000+01:00
-- image_filename: 2022_11_20__11_05_PB201499.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36725
-  lon: 16.92026388888889
-  altitude: 92.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 7.37
-  iso: 1000
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:05:00.000000000+01:00
-- image_filename: 2023_02_03__09_50_P2037558.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.480222222222224
-  lon: 17.20975
-  altitude: 115.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 16.8
-  iso: 250
-  width: 5240
-  height: 3912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-02-03 09:50:53.000000000+01:00
-- image_filename: 2022_11_19__15_23_PB191377.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.48538888888889
-  lon: 17.208458333333333
-  altitude: 0.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 20.75
-  iso: 200
-  width: 8106
-  height: 6056
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-11-19 15:23:06.000000000+01:00
-- image_filename: 2022_11_19__15_12_PB191373.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.48538888888889
-  lon: 17.208458333333333
-  altitude: 0.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7897
-  height: 5795
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-11-19 15:12:24.000000000+01:00
-- image_filename: 2022_11_20__11_39_PB201755.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36540277777778
-  lon: 16.917847222222225
-  altitude: 99.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 8.73
-  iso: 500
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:39:16.000000000+01:00
-- image_filename: 2022_11_20__11_31_PB201645.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36541666666667
-  lon: 16.917875000000002
-  altitude: 95.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 11.12
-  iso: 1000
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:31:58.000000000+01:00
-- image_filename: 2022_11_20__11_30_PB201623.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36541666666667
-  lon: 16.917875000000002
-  altitude: 95.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 6.22
-  iso: 1000
-  width: 5055
-  height: 3654
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:30:54.000000000+01:00
-- image_filename: 2022_11_20__11_31_PB201648.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36541666666667
-  lon: 16.917875000000002
-  altitude: 95.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 11.11
-  iso: 1000
-  width: 4443
-  height: 3512
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:31:59.000000000+01:00
-- image_filename: 2022_11_19__15_33_PB191394.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.48538888888889
-  lon: 17.208458333333333
-  altitude: 0.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 3.2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  focus_distance: 6.68
-  iso: 200
-  width: 8124
-  height: 6020
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-11-19 15:33:38.000000000+01:00
-- image_filename: 2022_11_20__11_14_PB201548.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36727777777778
-  lon: 16.920361111111113
-  altitude: 90.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 8.2
-  iso: 1250
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:14:35.000000000+01:00
-- image_filename: 2022_11_20__11_04_PB201489.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36725
-  lon: 16.92026388888889
-  altitude: 92.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 8.57
-  iso: 1000
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:04:02.000000000+01:00
-- image_filename: 2022_11_20__11_38_PB201748.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36540277777778
-  lon: 16.917847222222225
-  altitude: 99.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 7.53
-  iso: 1600
-  width: 4429
-  height: 3407
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:38:43.000000000+01:00
-- image_filename: 2022_11_20__11_34_PB201674.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.36540277777778
-  lon: 16.91786111111111
-  altitude: 97.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 6.29
-  iso: 640
-  width: 4991
-  height: 3289
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:34:19.000000000+01:00
-- image_filename: 2022_11_19__15_23_PB191379.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.48538888888889
-  lon: 17.208458333333333
-  altitude: 0.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 8.21
-  iso: 200
-  width: 5504
-  height: 7768
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-11-19 15:23:47.000000000+01:00
-- image_filename: 2022_11_19__15_26_PB191385.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.48538888888889
-  lon: 17.208458333333333
-  altitude: 0.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 2.8
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 8.23
-  iso: 200
-  width: 8109
-  height: 6032
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkIII
-  time: 2022-11-19 15:26:44.000000000+01:00
 - image_filename: 2022_11_19__14_08_PB191316.jpg
   post_slug: 2022-11-19-atak-zimy
   lat: 52.48538888888889
@@ -630,42 +35,60 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
   time: 2022-11-19 14:08:49.000000000+01:00
-- image_filename: 2022_11_20__11_37_PB201716.jpg
+- image_filename: 2022_11_19__15_12_PB191373.jpg
   post_slug: 2022-11-19-atak-zimy
-  lat: 52.36540277777778
-  lon: 16.91786111111111
-  altitude: 99.0
-  focal_length: 420.0
-  focal_length_35: 840.0
+  lat: 52.48538888888889
+  lon: 17.208458333333333
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 6.18
-  iso: 640
-  width: 4736
-  height: 3265
-  lens: M.300mm F4.0 + MC-14
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7897
+  height: 5795
+  lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
-  time: 2022-11-20 11:37:34.000000000+01:00
-- image_filename: 2022_11_20__11_02_PB201478.jpg
+  time: 2022-11-19 15:12:24.000000000+01:00
+- image_filename: 2022_11_19__15_23_PB191377.jpg
   post_slug: 2022-11-19-atak-zimy
-  lat: 52.36725
-  lon: 16.92026388888889
-  altitude: 92.0
-  focal_length: 420.0
-  focal_length_35: 840.0
+  lat: 52.48538888888889
+  lon: 17.208458333333333
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 5.36
-  iso: 1000
-  width: 4915
-  height: 3427
-  lens: M.300mm F4.0 + MC-14
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 20.75
+  iso: 200
+  width: 8106
+  height: 6056
+  lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
-  time: 2022-11-20 11:02:53.000000000+01:00
+  time: 2022-11-19 15:23:06.000000000+01:00
+- image_filename: 2022_11_19__15_23_PB191379.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.48538888888889
+  lon: 17.208458333333333
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 8.21
+  iso: 200
+  width: 5504
+  height: 7768
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-11-19 15:23:47.000000000+01:00
 - image_filename: 2022_11_19__15_25_PB191383.jpg
   post_slug: 2022-11-19-atak-zimy
   lat: 52.48538888888889
@@ -684,24 +107,112 @@
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
   time: 2022-11-19 15:25:20.000000000+01:00
-- image_filename: 2022_11_20__11_35_PB201692.jpg
+- image_filename: 2022_11_19__15_25_PB191384.jpg
   post_slug: 2022-11-19-atak-zimy
-  lat: 52.36540277777778
-  lon: 16.91786111111111
-  altitude: 98.0
-  focal_length: 420.0
-  focal_length_35: 840.0
+  lat: 52.48538888888889
+  lon: 17.208458333333333
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
   crop: 2.0
-  aperture: 5.6
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 6.3
-  iso: 800
-  width: 4676
-  height: 3547
-  lens: M.300mm F4.0 + MC-14
+  aperture: 2.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.24
+  iso: 200
+  width: 8115
+  height: 6051
+  lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkIII
-  time: 2022-11-20 11:35:33.000000000+01:00
+  time: 2022-11-19 15:25:42.000000000+01:00
+- image_filename: 2022_11_19__15_26_PB191385.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.48538888888889
+  lon: 17.208458333333333
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 8.23
+  iso: 200
+  width: 8109
+  height: 6032
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-11-19 15:26:44.000000000+01:00
+- image_filename: 2022_11_19__15_33_PB191393.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.48538888888889
+  lon: 17.208458333333333
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 6.24
+  iso: 200
+  width: 8153
+  height: 6071
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-11-19 15:33:15.000000000+01:00
+- image_filename: 2022_11_19__15_33_PB191394.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.48538888888889
+  lon: 17.208458333333333
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 3.2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 6.68
+  iso: 200
+  width: 8124
+  height: 6020
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-11-19 15:33:38.000000000+01:00
+- image_filename: 2022_11_20__10_32_DSC03791.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.37225
+  lon: 16.91702777777778
+  altitude: 89.0
+  focal_length: 95.0
+  focal_length_35: 95.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 4024
+  height: 6048
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-20 10:32:52.000000000+01:00
+- image_filename: 2022_11_20__10_38_DSC03809.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.37018055555556
+  lon: 16.918041666666667
+  altitude: 74.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-11-20 10:38:41.000000000+01:00
 - image_filename: 2022_11_20__10_38_PB201402.jpg
   post_slug: 2022-11-19-atak-zimy
   lat: 52.37018055555556
@@ -720,59 +231,6 @@
   lens: OLYMPUS M.300mm F4.0
   camera: E-M1MarkIII
   time: 2022-11-20 10:38:39.000000000+01:00
-- image_filename: 2022_11_20__11_50_PB201775.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.37006944444445
-  lon: 16.918055555555558
-  altitude: 90.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1.89
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:50:13.000000000+01:00
-- image_filename: 2022_11_20__11_49_PB201764.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.37006944444445
-  lon: 16.918083333333335
-  altitude: 90.0
-  focal_length: 420.0
-  focal_length_35: 840.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 2.62
-  iso: 200
-  width: 5240
-  height: 3912
-  lens: M.300mm F4.0 + MC-14
-  camera: E-M1MarkIII
-  time: 2022-11-20 11:49:06.000000000+01:00
-- image_filename: 2022_11_20__10_38_DSC03809.jpg
-  post_slug: 2022-11-19-atak-zimy
-  lat: 52.37018055555556
-  lon: 16.918041666666667
-  altitude: 74.0
-  focal_length: 70.0
-  focal_length_35: 70.0
-  crop: 1.0
-  aperture: 4.5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  iso: 100
-  width: 6047
-  height: 4023
-  lens: E 70-180mm F2.8 A056
-  camera: ILCE-7M3
-  time: 2022-11-20 10:38:41.000000000+01:00
 - image_filename: 2022_11_20__10_49_PB201417.jpg
   post_slug: 2022-11-19-atak-zimy
   lat: 52.36743055555556
@@ -791,6 +249,42 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2022-11-20 10:49:43.000000000+01:00
+- image_filename: 2022_11_20__11_00_PB201450.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36725
+  lon: 16.920250000000003
+  altitude: 92.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 8.34
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:00:47.000000000+01:00
+- image_filename: 2022_11_20__11_02_PB201466.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36725
+  lon: 16.92026388888889
+  altitude: 92.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 7.76
+  iso: 1000
+  width: 4408
+  height: 3544
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:02:12.000000000+01:00
 - image_filename: 2022_11_20__11_02_PB201468.jpg
   post_slug: 2022-11-19-atak-zimy
   lat: 52.36725
@@ -809,3 +303,507 @@
   lens: M.300mm F4.0 + MC-14
   camera: E-M1MarkIII
   time: 2022-11-20 11:02:12.000000000+01:00
+- image_filename: 2022_11_20__11_02_PB201478.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36725
+  lon: 16.92026388888889
+  altitude: 92.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 5.36
+  iso: 1000
+  width: 4915
+  height: 3427
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:02:53.000000000+01:00
+- image_filename: 2022_11_20__11_04_PB201489.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36725
+  lon: 16.92026388888889
+  altitude: 92.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 8.57
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:04:02.000000000+01:00
+- image_filename: 2022_11_20__11_05_PB201499.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36725
+  lon: 16.92026388888889
+  altitude: 92.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 7.37
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:05:00.000000000+01:00
+- image_filename: 2022_11_20__11_14_PB201548.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36727777777778
+  lon: 16.920361111111113
+  altitude: 90.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 8.2
+  iso: 1250
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:14:35.000000000+01:00
+- image_filename: 2022_11_20__11_24_PB201594.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36727777777778
+  lon: 16.920361111111113
+  altitude: 91.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.69
+  iso: 1250
+  width: 5083
+  height: 3549
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:24:59.000000000+01:00
+- image_filename: 2022_11_20__11_24_PB201595.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36727777777778
+  lon: 16.920361111111113
+  altitude: 91.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 5.68
+  iso: 1250
+  width: 4880
+  height: 3658
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:24:59.000000000+01:00
+- image_filename: 2022_11_20__11_30_PB201623.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36541666666667
+  lon: 16.917875000000002
+  altitude: 95.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 6.22
+  iso: 1000
+  width: 5055
+  height: 3654
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:30:54.000000000+01:00
+- image_filename: 2022_11_20__11_31_PB201629.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36541666666667
+  lon: 16.917875000000002
+  altitude: 95.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 6.32
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:31:03.000000000+01:00
+- image_filename: 2022_11_20__11_31_PB201637.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36541666666667
+  lon: 16.917875000000002
+  altitude: 95.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 10.9
+  iso: 640
+  width: 4336
+  height: 3326
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:31:32.000000000+01:00
+- image_filename: 2022_11_20__11_31_PB201645.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36541666666667
+  lon: 16.917875000000002
+  altitude: 95.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 11.12
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:31:58.000000000+01:00
+- image_filename: 2022_11_20__11_31_PB201648.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36541666666667
+  lon: 16.917875000000002
+  altitude: 95.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 11.11
+  iso: 1000
+  width: 4443
+  height: 3512
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:31:59.000000000+01:00
+- image_filename: 2022_11_20__11_32_PB201657.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36541666666667
+  lon: 16.917875000000002
+  altitude: 97.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 13.37
+  iso: 640
+  width: 4964
+  height: 3504
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:32:35.000000000+01:00
+- image_filename: 2022_11_20__11_34_PB201673.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36540277777778
+  lon: 16.91786111111111
+  altitude: 97.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.3
+  iso: 640
+  width: 4701
+  height: 3369
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:34:19.000000000+01:00
+- image_filename: 2022_11_20__11_34_PB201674.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36540277777778
+  lon: 16.91786111111111
+  altitude: 97.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.29
+  iso: 640
+  width: 4991
+  height: 3289
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:34:19.000000000+01:00
+- image_filename: 2022_11_20__11_35_PB201687.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36540277777778
+  lon: 16.91786111111111
+  altitude: 98.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.31
+  iso: 800
+  width: 5142
+  height: 3633
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:35:31.000000000+01:00
+- image_filename: 2022_11_20__11_35_PB201692.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36540277777778
+  lon: 16.91786111111111
+  altitude: 98.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.3
+  iso: 800
+  width: 4676
+  height: 3547
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:35:33.000000000+01:00
+- image_filename: 2022_11_20__11_36_PB201697.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36540277777778
+  lon: 16.91786111111111
+  altitude: 98.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.51
+  iso: 400
+  width: 4284
+  height: 3097
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:36:06.000000000+01:00
+- image_filename: 2022_11_20__11_37_PB201716.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36540277777778
+  lon: 16.91786111111111
+  altitude: 99.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.18
+  iso: 640
+  width: 4736
+  height: 3265
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:37:34.000000000+01:00
+- image_filename: 2022_11_20__11_38_PB201748.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36540277777778
+  lon: 16.917847222222225
+  altitude: 99.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 7.53
+  iso: 1600
+  width: 4429
+  height: 3407
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:38:43.000000000+01:00
+- image_filename: 2022_11_20__11_39_PB201755.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.36540277777778
+  lon: 16.917847222222225
+  altitude: 99.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 8.73
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:39:16.000000000+01:00
+- image_filename: 2022_11_20__11_49_PB201764.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.37006944444445
+  lon: 16.918083333333335
+  altitude: 90.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.62
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:49:06.000000000+01:00
+- image_filename: 2022_11_20__11_49_PB201771.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.37006944444445
+  lon: 16.918069444444445
+  altitude: 90.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1.96
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:49:47.000000000+01:00
+- image_filename: 2022_11_20__11_50_PB201775.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.37006944444445
+  lon: 16.918055555555558
+  altitude: 90.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.89
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-11-20 11:50:13.000000000+01:00
+- image_filename: 2023_02_03__09_50_P2037558.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.480222222222224
+  lon: 17.20975
+  altitude: 115.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 16.8
+  iso: 250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-03 09:50:53.000000000+01:00
+- image_filename: 2023_02_03__09_53_P2037562.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.479
+  lon: 17.21013888888889
+  altitude: 114.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 25.01
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-03 09:53:08.000000000+01:00
+- image_filename: 2023_02_03__09_58_P2037570.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.475833333333334
+  lon: 17.21009722222222
+  altitude: 105.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 51.85
+  iso: 200
+  width: 8138
+  height: 6084
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-03 09:58:23.000000000+01:00
+- image_filename: 2023_02_03__09_59_P2037572.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.474916666666665
+  lon: 17.210472222222222
+  altitude: 106.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 12.92
+  iso: 200
+  width: 8159
+  height: 6074
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-03 09:59:40.000000000+01:00
+- image_filename: 2023_02_03__10_06_P2037579.jpg
+  post_slug: 2022-11-19-atak-zimy
+  lat: 52.471625
+  lon: 17.21375
+  altitude: 113.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 17.21
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-02-03 10:06:05.000000000+01:00

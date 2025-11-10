@@ -1,215 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-- image_filename: 2020_08_17__14_03__8177902.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.51795833333333
-  lon: 21.930944444444446
-  altitude: 341.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-17 14:03:23+02:00
-  focus_distance: 54.98
-- image_filename: 2020_08_17__13_55__8177861.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.518138888888885
-  lon: 21.93138888888889
-  altitude: 341.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-17 13:55:58+02:00
-  focus_distance: 9.15
-- image_filename: 2020_08_17__14_03__8177903.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.517944444444446
-  lon: 21.930930555555555
-  altitude: 341.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-17 14:03:32+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_08_17__14_37__8177953.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.518027777777775
-  lon: 21.926291666666668
-  altitude: 369.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 6.3
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5064
-  height: 3779
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-17 14:37:09+02:00
-  focus_distance: 41.37
-- image_filename: 2020_08_17__15_00_DSC00776.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.49843055555556
-  lon: 21.931833333333334
-  altitude: 464.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-08-17 15:00:00+02:00
-- image_filename: 2020_08_17__17_34_DSC00923.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.56509722222222
-  lon: 21.93277777777778
-  altitude: 334.0
-  focal_length: 368.4
-  focal_length_35: 368.0
-  crop: 0.9989142236699241
-  aperture: 6.3
-  iso: 800
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5018
-  height: 3388
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-17 17:34:07+02:00
-- image_filename: 2020_08_17__17_27_DSC00888.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.56509722222222
-  lon: 21.93140277777778
-  altitude: 333.0
-  focal_length: 53.0
-  focal_length_35: 53.0
-  crop: 1.0
-  aperture: 4.5
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-08-17 17:27:55+02:00
-- image_filename: 2020_08_17__18_05_DSC01065.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.434374999999996
-  lon: 22.082333333333334
-  altitude: 440.0
-  focal_length: 48.0
-  focal_length_35: 48.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5655
-  height: 3669
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 18:05:26+02:00
-- image_filename: 2020_08_17__18_07_DSC01089.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.43156944444444
-  lon: 22.10826388888889
-  altitude: 441.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 320
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 18:07:58+02:00
-- image_filename: 2020_08_17__14_23__8177947.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.51911111111111
-  lon: 21.9315
-  altitude: 341.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-17 14:23:01+02:00
-  focus_distance: 6.24
-- image_filename: 2020_08_17__17_27_DSC00885.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.56502777777777
-  lon: 21.931486111111113
-  altitude: 333.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-08-17 17:27:24+02:00
-- image_filename: 2020_08_17__17_49_DSC01000.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.514361111111114
-  lon: 22.016
-  altitude: 385.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 4774
-  height: 3385
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-08-17 17:49:25+02:00
 - image_filename: 2020_08_17__13_55__8177860.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
   lat: 49.518125
@@ -219,202 +8,33 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-08-17 13:55:54+02:00
   focus_distance: 4.03
-- image_filename: 2020_08_17__18_10_DSC01109.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.41493055555556
-  lon: 22.131833333333333
-  altitude: 399.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5666
-  height: 3769
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 18:10:58+02:00
-- image_filename: 2020_08_17__18_01_DSC01047.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.45408333333334
-  lon: 22.05263888888889
-  altitude: 474.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
   iso: 200
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5795
-  height: 3855
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 18:01:07+02:00
-- image_filename: 2020_08_17__15_00_DSC00808.jpg
+  width: 3911
+  height: 5239
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-17 13:55:54.000000000+02:00
+- image_filename: 2020_08_17__13_55__8177861.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.49838888888889
-  lon: 21.931833333333334
-  altitude: 463.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-17 15:00:48+02:00
-- image_filename: 2020_08_17__18_03_DSC01058.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.44141666666666
-  lon: 22.063458333333333
-  altitude: 483.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 320
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5953
-  height: 3960
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 18:03:16+02:00
-- image_filename: 2020_08_17__18_35_DSC01151.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.39672222222222
-  lon: 22.07795833333333
-  altitude: 547.0
-  focal_length: 400.0
-  focal_length_35: 400.0
-  crop: 1.0
+  lat: 49.518138888888885
+  lon: 21.93138888888889
+  altitude: 341.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
   aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 9.15
   iso: 200
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-17 18:35:19+02:00
-- image_filename: 2020_08_17__17_17_DSC00856.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.57763888888889
-  lon: 21.862805555555557
-  altitude: 320.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5926
-  height: 3842
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 17:17:13+02:00
-- image_filename: 2020_08_17__15_02_DSC00812.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.49848611111111
-  lon: 21.93188888888889
-  altitude: 466.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6001
-  height: 3927
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-08-17 15:02:12+02:00
-- image_filename: 2020_08_17__14_53_DSC00761.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.49645833333334
-  lon: 21.911666666666665
-  altitude: 412.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-08-17 14:53:50+02:00
-- image_filename: 2020_08_17__16_41_DSC00839.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.57715277777778
-  lon: 21.923583333333333
-  altitude: 337.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5864
-  height: 3902
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-08-17 16:41:21+02:00
-- image_filename: 2020_08_17__17_53_DSC01015.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.49938888888889
-  lon: 22.038208333333333
-  altitude: 396.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 320
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-08-17 17:53:16+02:00
-- image_filename: 2020_08_17__18_14_DSC01130.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.394527777777775
-  lon: 22.13936111111111
-  altitude: 398.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 640
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-08-17 18:14:46+02:00
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-17 13:55:58.000000000+02:00
 - image_filename: 2020_08_17__13_56__8177866.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
   lat: 49.518125
@@ -424,15 +44,15 @@
   focal_length_35: 108.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-08-17 13:56:44+02:00
   focus_distance: 21.56
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-17 13:56:44.000000000+02:00
 - image_filename: 2020_08_17__14_02__8177898.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
   lat: 49.517986111111114
@@ -442,49 +62,104 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 4.0
-  iso: 200
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
   exposure: 0.07692307692307693
   exposure_string: 1/13 s
-  time: 2020-08-17 14:02:47+02:00
   focus_distance: 21.0
-- image_filename: 2020_08_17__17_28_DSC00890.jpg
+  iso: 200
+  width: 3911
+  height: 5239
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-17 14:02:47.000000000+02:00
+- image_filename: 2020_08_17__14_03__8177902.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.56511111111111
-  lon: 21.931194444444447
-  altitude: 333.0
+  lat: 49.51795833333333
+  lon: 21.930944444444446
+  altitude: 341.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 54.98
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-17 14:03:23.000000000+02:00
+- image_filename: 2020_08_17__14_03__8177903.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.517944444444446
+  lon: 21.930930555555555
+  altitude: 341.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-17 14:03:32.000000000+02:00
+- image_filename: 2020_08_17__14_23__8177947.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.51911111111111
+  lon: 21.9315
+  altitude: 341.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.24
+  iso: 200
+  width: 3911
+  height: 5239
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-17 14:23:01.000000000+02:00
+- image_filename: 2020_08_17__14_37__8177953.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.518027777777775
+  lon: 21.926291666666668
+  altitude: 369.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 41.37
+  iso: 200
+  width: 5064
+  height: 3779
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2020-08-17 14:37:09.000000000+02:00
+- image_filename: 2020_08_17__14_53_DSC00761.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.49645833333334
+  lon: 21.911666666666665
+  altitude: 412.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
+  aperture: 2.8
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-08-17 17:28:16+02:00
-- image_filename: 2020_08_17__17_43_DSC00953.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.53069444444444
-  lon: 21.974791666666665
-  altitude: 368.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 3.2
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 6047
   height: 4023
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 17:43:52+02:00
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 14:53:50.000000000+02:00
 - image_filename: 2020_08_17__14_57_DSC00767.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
   lat: 49.49905555555556
@@ -494,167 +169,31 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5632
-  height: 3244
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-08-17 14:57:34+02:00
-- image_filename: 2020_08_17__17_45_DSC00968.jpg
+  iso: 100
+  width: 5632
+  height: 3244
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 14:57:34.000000000+02:00
+- image_filename: 2020_08_17__15_00_DSC00776.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.527138888888885
-  lon: 21.98702777777778
-  altitude: 369.0
+  lat: 49.49843055555556
+  lon: 21.931833333333334
+  altitude: 464.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 3.2
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
   width: 6047
   height: 4023
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 17:45:07+02:00
-- image_filename: 2020_08_17__18_04_DSC01062.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.43497222222222
-  lon: 22.068666666666665
-  altitude: 466.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 200
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 18:04:18+02:00
-- image_filename: 2020_08_17__17_46_DSC00974.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.523833333333336
-  lon: 21.99523611111111
-  altitude: 383.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5548
-  height: 3593
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 17:46:00+02:00
-- image_filename: 2020_08_17__17_33_DSC00902.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.56505555555555
-  lon: 21.932291666666668
-  altitude: 332.0
-  focal_length: 362.1
-  focal_length_35: 362.0
-  crop: 0.9997238331952498
-  aperture: 6.3
-  iso: 500
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 6048
-  height: 4024
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-17 17:33:10+02:00
-- image_filename: 2020_08_17__17_47_DSC00987.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.51616666666666
-  lon: 21.99977777777778
-  altitude: 403.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 125
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6022
-  height: 4007
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-08-17 17:47:13+02:00
-- image_filename: 2020_08_17__18_07_DSC01086.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.431888888888885
-  lon: 22.10702777777778
-  altitude: 435.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 250
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-08-17 18:07:49+02:00
-- image_filename: 2020_08_17__17_21_DSC00874.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.57973611111112
-  lon: 21.908347222222222
-  altitude: 343.0
-  focal_length: 46.0
-  focal_length_35: 46.0
-  crop: 1.0
-  aperture: 3.2
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6021
-  height: 4005
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-08-17 17:21:35+02:00
-- image_filename: 2020_08_17__17_26_DSC00876.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.565041666666666
-  lon: 21.932333333333336
-  altitude: 332.0
-  focal_length: 64.0
-  focal_length_35: 64.0
-  crop: 1.0
-  aperture: 5.6
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5617
-  height: 3649
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-08-17 17:26:01+02:00
-- image_filename: 2020_08_17__15_00_DSC00795.jpg
-  post_slug: 2020-08-17-pogarda-dla-przyrody
-  lat: 49.49838888888889
-  lon: 21.931805555555556
-  altitude: 463.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-08-17 15:00:34+02:00
+  time: 2020-08-17 15:00:00.000000000+02:00
 - image_filename: 2020_08_17__15_00_DSC00782.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
   lat: 49.49841666666667
@@ -664,14 +203,82 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 5181
-  height: 3542
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-08-17 15:00:05+02:00
+  iso: 100
+  width: 5181
+  height: 3542
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 15:00:05.000000000+02:00
+- image_filename: 2020_08_17__15_00_DSC00795.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.49838888888889
+  lon: 21.931805555555556
+  altitude: 463.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 15:00:34.000000000+02:00
+- image_filename: 2020_08_17__15_00_DSC00808.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.49838888888889
+  lon: 21.931833333333334
+  altitude: 463.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 15:00:48.000000000+02:00
+- image_filename: 2020_08_17__15_02_DSC00812.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.49848611111111
+  lon: 21.93188888888889
+  altitude: 466.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6001
+  height: 3927
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 15:02:12.000000000+02:00
+- image_filename: 2020_08_17__16_41_DSC00839.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.57715277777778
+  lon: 21.923583333333333
+  altitude: 337.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5864
+  height: 3902
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 16:41:21.000000000+02:00
 - image_filename: 2020_08_17__16_42_DSC00842.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
   lat: 49.58155555555556
@@ -681,14 +288,405 @@
   focal_length_35: 46.0
   crop: 1.0
   aperture: 3.2
-  iso: 100
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7M3
-  width: 6047
-  height: 4023
   exposure: 0.001
   exposure_string: 1/1000 s
-  time: 2020-08-17 16:42:41+02:00
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 16:42:41.000000000+02:00
+- image_filename: 2020_08_17__17_17_DSC00856.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.57763888888889
+  lon: 21.862805555555557
+  altitude: 320.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5926
+  height: 3842
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:17:13.000000000+02:00
+- image_filename: 2020_08_17__17_21_DSC00874.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.57973611111112
+  lon: 21.908347222222222
+  altitude: 343.0
+  focal_length: 46.0
+  focal_length_35: 46.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6021
+  height: 4005
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:21:35.000000000+02:00
+- image_filename: 2020_08_17__17_26_DSC00876.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.565041666666666
+  lon: 21.932333333333336
+  altitude: 332.0
+  focal_length: 64.0
+  focal_length_35: 64.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5617
+  height: 3649
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:26:01.000000000+02:00
+- image_filename: 2020_08_17__17_27_DSC00885.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.56502777777777
+  lon: 21.931486111111113
+  altitude: 333.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:27:24.000000000+02:00
+- image_filename: 2020_08_17__17_27_DSC00888.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.56509722222222
+  lon: 21.93140277777778
+  altitude: 333.0
+  focal_length: 53.0
+  focal_length_35: 53.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:27:55.000000000+02:00
+- image_filename: 2020_08_17__17_28_DSC00890.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.56511111111111
+  lon: 21.931194444444447
+  altitude: 333.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:28:16.000000000+02:00
+- image_filename: 2020_08_17__17_33_DSC00902.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.56505555555555
+  lon: 21.932291666666668
+  altitude: 332.0
+  focal_length: 362.1
+  focal_length_35: 362.0
+  crop: 0.9997238331952498
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 500
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-17 17:33:10.000000000+02:00
+- image_filename: 2020_08_17__17_34_DSC00923.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.56509722222222
+  lon: 21.93277777777778
+  altitude: 334.0
+  focal_length: 368.4
+  focal_length_35: 368.0
+  crop: 0.9989142236699241
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
+  width: 5018
+  height: 3388
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-17 17:34:07.000000000+02:00
+- image_filename: 2020_08_17__17_43_DSC00953.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.53069444444444
+  lon: 21.974791666666665
+  altitude: 368.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:43:52.000000000+02:00
+- image_filename: 2020_08_17__17_45_DSC00968.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.527138888888885
+  lon: 21.98702777777778
+  altitude: 369.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:45:07.000000000+02:00
+- image_filename: 2020_08_17__17_46_DSC00974.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.523833333333336
+  lon: 21.99523611111111
+  altitude: 383.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 250
+  width: 5548
+  height: 3593
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:46:00.000000000+02:00
+- image_filename: 2020_08_17__17_47_DSC00987.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.51616666666666
+  lon: 21.99977777777778
+  altitude: 403.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 125
+  width: 6022
+  height: 4007
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:47:13.000000000+02:00
+- image_filename: 2020_08_17__17_49_DSC01000.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.514361111111114
+  lon: 22.016
+  altitude: 385.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 250
+  width: 4774
+  height: 3385
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:49:25.000000000+02:00
+- image_filename: 2020_08_17__17_53_DSC01015.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.49938888888889
+  lon: 22.038208333333333
+  altitude: 396.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 320
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 17:53:16.000000000+02:00
+- image_filename: 2020_08_17__18_01_DSC01047.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.45408333333334
+  lon: 22.05263888888889
+  altitude: 474.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5795
+  height: 3855
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 18:01:07.000000000+02:00
+- image_filename: 2020_08_17__18_03_DSC01058.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.44141666666666
+  lon: 22.063458333333333
+  altitude: 483.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 320
+  width: 5953
+  height: 3960
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 18:03:16.000000000+02:00
+- image_filename: 2020_08_17__18_04_DSC01062.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.43497222222222
+  lon: 22.068666666666665
+  altitude: 466.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 18:04:18.000000000+02:00
+- image_filename: 2020_08_17__18_05_DSC01065.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.434374999999996
+  lon: 22.082333333333334
+  altitude: 440.0
+  focal_length: 48.0
+  focal_length_35: 48.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 125
+  width: 5655
+  height: 3669
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 18:05:26.000000000+02:00
+- image_filename: 2020_08_17__18_07_DSC01086.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.431888888888885
+  lon: 22.10702777777778
+  altitude: 435.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 250
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 18:07:49.000000000+02:00
+- image_filename: 2020_08_17__18_07_DSC01089.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.43156944444444
+  lon: 22.10826388888889
+  altitude: 441.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 320
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 18:07:58.000000000+02:00
+- image_filename: 2020_08_17__18_10_DSC01109.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.41493055555556
+  lon: 22.131833333333333
+  altitude: 399.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 250
+  width: 5666
+  height: 3769
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 18:10:58.000000000+02:00
+- image_filename: 2020_08_17__18_14_DSC01130.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.394527777777775
+  lon: 22.13936111111111
+  altitude: 398.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 640
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2020-08-17 18:14:46.000000000+02:00
+- image_filename: 2020_08_17__18_35_DSC01151.jpg
+  post_slug: 2020-08-17-pogarda-dla-przyrody
+  lat: 49.39672222222222
+  lon: 22.07795833333333
+  altitude: 547.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-17 18:35:19.000000000+02:00
 - image_filename: 2020_08_17__18_36_DSC01167.jpg
   post_slug: 2020-08-17-pogarda-dla-przyrody
   lat: 49.39669444444444
@@ -698,11 +696,11 @@
   focal_length_35: 400.0
   crop: 1.0
   aperture: 6.3
-  iso: 800
-  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
-  camera: ILCE-7M3
-  width: 5943
-  height: 3728
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2020-08-17 18:36:45+02:00
+  iso: 800
+  width: 5943
+  height: 3728
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2020-08-17 18:36:45.000000000+02:00

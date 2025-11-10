@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
-  lat: 52.83765277777778
-  lon: 16.995319444444444
-  altitude: 88.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 125
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 14:47:35+02:00
 - image_filename: IMGP0893raw1.jpg
   post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
   lat: 52.600875
@@ -22,11 +8,11 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
-  iso: 125
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-10-01 12:29:04+02:00
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-10-01 12:29:04.000000000+02:00
 - image_filename: IMGP0899raw1.jpg
   post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
   lat: 52.81594444444444
@@ -36,95 +22,11 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 160
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 13:52:26+02:00
-- image_filename: IMGP0915raw1.jpg
-  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
-  lat: 52.83456944444445
-  lon: 16.90559722222222
-  altitude: 90.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 14:12:47+02:00
-- image_filename: IMGP0916raw1.jpg
-  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
-  lat: 52.843361111111115
-  lon: 16.934444444444445
-  altitude: 91.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 14:20:12+02:00
-- image_filename: IMGP0929raw1.jpg
-  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
-  lat: 52.845263888888894
-  lon: 16.94176388888889
-  altitude: 91.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 14:29:54+02:00
-- image_filename: IMGP0937raw1.jpg
-  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
-  lat: 52.83680555555556
-  lon: 16.991444444444447
-  altitude: 87.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 14:50:43+02:00
-- image_filename: IMGP0924raw1.jpg
-  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
-  lat: 52.84404166666667
-  lon: 16.938166666666667
-  altitude: 91.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 14:23:34+02:00
-- image_filename: IMGP0914raw1.jpg
-  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
-  lat: 52.834472222222225
-  lon: 16.90536111111111
-  altitude: 90.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 14:12:44+02:00
+  time: 2017-10-01 13:52:26.000000000+02:00
 - image_filename: IMGP0901raw1.jpg
   post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
   lat: 52.81594444444444
@@ -134,25 +36,11 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 250
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 13:52:43+02:00
-- image_filename: IMGP0936raw1.jpg
-  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
-  lat: 52.83836111111111
-  lon: 16.997041666666668
-  altitude: 87.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-10-01 14:49:24+02:00
+  time: 2017-10-01 13:52:43.000000000+02:00
 - image_filename: IMGP0908raw1.jpg
   post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
   lat: 52.817083333333336
@@ -162,11 +50,11 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
-  time: 2017-10-01 13:54:24+02:00
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2017-10-01 13:54:24.000000000+02:00
 - image_filename: IMGP0912raw1.jpg
   post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
   lat: 52.83269444444445
@@ -176,11 +64,81 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-10-01 14:11:41+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:11:41.000000000+02:00
+- image_filename: IMGP0914raw1.jpg
+  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
+  lat: 52.834472222222225
+  lon: 16.90536111111111
+  altitude: 90.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:12:44.000000000+02:00
+- image_filename: IMGP0915raw1.jpg
+  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
+  lat: 52.83456944444445
+  lon: 16.90559722222222
+  altitude: 90.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:12:47.000000000+02:00
+- image_filename: IMGP0916raw1.jpg
+  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
+  lat: 52.843361111111115
+  lon: 16.934444444444445
+  altitude: 91.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:20:12.000000000+02:00
+- image_filename: IMGP0924raw1.jpg
+  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
+  lat: 52.84404166666667
+  lon: 16.938166666666667
+  altitude: 91.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:23:34.000000000+02:00
+- image_filename: IMGP0929raw1.jpg
+  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
+  lat: 52.845263888888894
+  lon: 16.94176388888889
+  altitude: 91.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:29:54.000000000+02:00
 - image_filename: IMGP0935raw1.jpg
   post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
   lat: 52.83855555555556
@@ -190,8 +148,50 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 7.1
-  iso: 320
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-10-01 14:49:16+02:00
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:49:16.000000000+02:00
+- image_filename: IMGP0936raw1.jpg
+  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
+  lat: 52.83836111111111
+  lon: 16.997041666666668
+  altitude: 87.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:49:24.000000000+02:00
+- image_filename: IMGP0937raw1.jpg
+  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
+  lat: 52.83680555555556
+  lon: 16.991444444444447
+  altitude: 87.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:50:43.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2017-10-01-okolice-wschodniej-puszczy-noteckiej
+  lat: 52.83765277777778
+  lon: 16.995319444444444
+  altitude: 88.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 125
+  camera: PENTAX K-S2
+  time: 2017-10-01 14:47:35.000000000+02:00

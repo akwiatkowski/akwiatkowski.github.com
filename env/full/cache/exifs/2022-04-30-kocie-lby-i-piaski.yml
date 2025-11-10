@@ -1,6 +1,130 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2022_04_30__10_31_P4302998.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.15756944444444
+  lon: 15.547680555555555
+  altitude: 28.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 2.8
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 10:31:21.000000000+02:00
+- image_filename: 2022_04_30__10_48_P4303002.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.14376388888889
+  lon: 15.551111111111112
+  altitude: 60.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7810
+  height: 6075
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 10:48:49.000000000+02:00
+- image_filename: 2022_04_30__11_23_P4303094.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13675
+  lon: 15.585805555555556
+  altitude: 89.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.56
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 11:23:22.000000000+02:00
+- image_filename: 2022_04_30__11_23_P4303098.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13675
+  lon: 15.585805555555556
+  altitude: 89.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.57
+  iso: 640
+  width: 4664
+  height: 3528
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 11:23:23.000000000+02:00
+- image_filename: 2022_04_30__11_23_P4303111.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13675
+  lon: 15.585805555555556
+  altitude: 89.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.5
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 11:23:55.000000000+02:00
+- image_filename: 2022_04_30__11_24_P4303126.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13675
+  lon: 15.585819444444445
+  altitude: 89.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.45
+  iso: 800
+  width: 4822
+  height: 3556
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 11:24:02.000000000+02:00
+- image_filename: 2022_04_30__11_25_P4303154.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13677777777778
+  lon: 15.585791666666667
+  altitude: 89.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.5
+  iso: 500
+  width: 4539
+  height: 3385
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 11:25:24.000000000+02:00
 - image_filename: 2022_04_30__11_26_P4303169.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
   lat: 53.136763888888886
@@ -19,60 +143,24 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-04-30 11:26:19.000000000+02:00
-- image_filename: 2022_04_30__11_38_P4303192.jpg
+- image_filename: 2022_04_30__11_26_P4303174.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13511111111111
-  lon: 15.601388888888888
+  lat: 53.13675
+  lon: 15.585819444444445
   altitude: 89.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 4.7
-  iso: 200
-  width: 8135
-  height: 6046
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 11:38:41.000000000+02:00
-- image_filename: 2022_04_30__14_04_P4303236.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.14597222222222
-  lon: 15.627041666666667
-  altitude: 97.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 5.49
-  iso: 200
-  width: 6971
-  height: 5224
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 14:04:01.000000000+02:00
-- image_filename: 2022_04_30__12_08_P4303205.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.12484722222222
-  lon: 15.611791666666667
-  altitude: 94.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  focal_length: 92.0
+  focal_length_35: 184.0
   crop: 2.0
   aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 133.2
-  iso: 200
-  width: 6132
-  height: 8200
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.47
+  iso: 400
+  width: 4021
+  height: 3121
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-04-30 12:08:21.000000000+02:00
+  time: 2022-04-30 11:26:44.000000000+02:00
 - image_filename: 2022_04_30__11_29_P4303184.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
   lat: 53.13659722222222
@@ -91,6 +179,114 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-04-30 11:29:37.000000000+02:00
+- image_filename: 2022_04_30__11_38_P4303192.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13511111111111
+  lon: 15.601388888888888
+  altitude: 89.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.7
+  iso: 200
+  width: 8135
+  height: 6046
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 11:38:41.000000000+02:00
+- image_filename: 2022_04_30__11_57_P4303199.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13213888888889
+  lon: 15.606416666666666
+  altitude: 96.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 24.38
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 11:57:20.000000000+02:00
+- image_filename: 2022_04_30__12_03_P4303203.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13068055555556
+  lon: 15.60848611111111
+  altitude: 100.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 12:03:20.000000000+02:00
+- image_filename: 2022_04_30__12_08_P4303205.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.12484722222222
+  lon: 15.611791666666667
+  altitude: 94.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 133.2
+  iso: 200
+  width: 6132
+  height: 8200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 12:08:21.000000000+02:00
+- image_filename: 2022_04_30__12_41_P4303208.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.105402777777776
+  lon: 15.628097222222223
+  altitude: 73.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 17.71
+  iso: 200
+  width: 8136
+  height: 6043
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 12:41:45.000000000+02:00
+- image_filename: 2022_04_30__13_09_P4303210.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.10458333333334
+  lon: 15.623833333333334
+  altitude: 74.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 18.75
+  iso: 200
+  width: 7937
+  height: 5800
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 13:09:10.000000000+02:00
 - image_filename: 2022_04_30__13_11_P4303212.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
   lat: 53.107930555555555
@@ -127,132 +323,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-04-30 13:15:10.000000000+02:00
-- image_filename: 2022_04_30__12_03_P4303203.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13068055555556
-  lon: 15.60848611111111
-  altitude: 100.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 12:03:20.000000000+02:00
-- image_filename: 2022_04_30__14_40_P4303249.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13558333333333
-  lon: 15.594444444444445
-  altitude: 95.0
-  focal_length: 13.0
-  focal_length_35: 26.0
-  crop: 2.0
-  aperture: 8.0
-  exposure: 0.004
-  exposure_string: 1/250 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 14:40:05.000000000+02:00
-- image_filename: 2022_04_30__16_13_P4303308.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.159625
-  lon: 15.550958333333334
-  altitude: 72.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  focus_distance: 3.08
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 16:13:49.000000000+02:00
-- image_filename: 2022_04_30__13_19_P4303218.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.11651388888889
-  lon: 15.626986111111112
-  altitude: 76.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 5.6
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 13:19:56.000000000+02:00
-- image_filename: 2022_04_30__11_57_P4303199.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13213888888889
-  lon: 15.606416666666666
-  altitude: 96.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 24.38
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 11:57:20.000000000+02:00
-- image_filename: 2022_04_30__13_09_P4303210.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.10458333333334
-  lon: 15.623833333333334
-  altitude: 74.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 18.75
-  iso: 200
-  width: 7937
-  height: 5800
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 13:09:10.000000000+02:00
-- image_filename: 2022_04_30__11_23_P4303111.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13675
-  lon: 15.585805555555556
-  altitude: 89.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 0.5
-  iso: 800
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 11:23:55.000000000+02:00
 - image_filename: 2022_04_30__13_17_P4303216.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
   lat: 53.11486111111111
@@ -271,6 +341,150 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-04-30 13:17:48.000000000+02:00
+- image_filename: 2022_04_30__13_19_P4303218.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.11651388888889
+  lon: 15.626986111111112
+  altitude: 76.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 13:19:56.000000000+02:00
+- image_filename: 2022_04_30__13_46_P4303226.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13444444444444
+  lon: 15.624847222222222
+  altitude: 76.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 14.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 2.54
+  iso: 200
+  width: 5052
+  height: 3813
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 13:46:37.000000000+02:00
+- image_filename: 2022_04_30__13_56_P4303229.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13602777777778
+  lon: 15.627055555555556
+  altitude: 107.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 20.05
+  iso: 200
+  width: 8159
+  height: 6099
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 13:56:51.000000000+02:00
+- image_filename: 2022_04_30__14_03_P4303235.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.14486111111111
+  lon: 15.627069444444444
+  altitude: 100.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 25.12
+  iso: 200
+  width: 8111
+  height: 6015
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 14:03:07.000000000+02:00
+- image_filename: 2022_04_30__14_04_P4303236.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.14597222222222
+  lon: 15.627041666666667
+  altitude: 97.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 5.49
+  iso: 200
+  width: 6971
+  height: 5224
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 14:04:01.000000000+02:00
+- image_filename: 2022_04_30__14_05_P4303237.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.146388888888886
+  lon: 15.627305555555557
+  altitude: 94.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7383
+  height: 5419
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 14:05:02.000000000+02:00
+- image_filename: 2022_04_30__14_27_P4303243.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.14030555555556
+  lon: 15.597847222222223
+  altitude: 80.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8146
+  height: 6075
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 14:27:41.000000000+02:00
+- image_filename: 2022_04_30__14_40_P4303249.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.13558333333333
+  lon: 15.594444444444445
+  altitude: 95.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 14:40:05.000000000+02:00
 - image_filename: 2022_04_30__16_08_P4303252.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
   lat: 53.159625
@@ -289,24 +503,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-04-30 16:08:55.000000000+02:00
-- image_filename: 2022_04_30__11_23_P4303094.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13675
-  lon: 15.585805555555556
-  altitude: 89.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 0.56
-  iso: 500
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 11:23:22.000000000+02:00
 - image_filename: 2022_04_30__16_09_P4303255.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
   lat: 53.159625
@@ -343,222 +539,6 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-04-30 16:10:14.000000000+02:00
-- image_filename: 2022_04_30__16_18_P4303327.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.159625
-  lon: 15.550958333333334
-  altitude: 72.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.008
-  exposure_string: 1/125 s
-  focus_distance: 1.86
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 16:18:48.000000000+02:00
-- image_filename: 2022_04_30__11_26_P4303174.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13675
-  lon: 15.585819444444445
-  altitude: 89.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 0.47
-  iso: 400
-  width: 4021
-  height: 3121
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 11:26:44.000000000+02:00
-- image_filename: 2022_04_30__10_31_P4302998.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.15756944444444
-  lon: 15.547680555555555
-  altitude: 28.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  focus_distance: 2.8
-  iso: 200
-  width: 8199
-  height: 6131
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 10:31:21.000000000+02:00
-- image_filename: 2022_04_30__11_24_P4303126.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13675
-  lon: 15.585819444444445
-  altitude: 89.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 0.45
-  iso: 800
-  width: 4822
-  height: 3556
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 11:24:02.000000000+02:00
-- image_filename: 2022_04_30__14_03_P4303235.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.14486111111111
-  lon: 15.627069444444444
-  altitude: 100.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 25.12
-  iso: 200
-  width: 8111
-  height: 6015
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 14:03:07.000000000+02:00
-- image_filename: 2022_04_30__13_46_P4303226.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13444444444444
-  lon: 15.624847222222222
-  altitude: 76.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 14.0
-  exposure: 1.0
-  exposure_string: 1 s
-  focus_distance: 2.54
-  iso: 200
-  width: 5052
-  height: 3813
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 13:46:37.000000000+02:00
-- image_filename: 2022_04_30__16_16_P4303319.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.159625
-  lon: 15.550958333333334
-  altitude: 72.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 1.02
-  iso: 200
-  width: 5239
-  height: 3911
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 16:16:08.000000000+02:00
-- image_filename: 2022_04_30__14_05_P4303237.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.146388888888886
-  lon: 15.627305555555557
-  altitude: 94.0
-  focal_length: 17.0
-  focal_length_35: 34.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7383
-  height: 5419
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 14:05:02.000000000+02:00
-- image_filename: 2022_04_30__12_41_P4303208.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.105402777777776
-  lon: 15.628097222222223
-  altitude: 73.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  focus_distance: 17.71
-  iso: 200
-  width: 8136
-  height: 6043
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 12:41:45.000000000+02:00
-- image_filename: 2022_04_30__11_25_P4303154.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13677777777778
-  lon: 15.585791666666667
-  altitude: 89.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 0.5
-  iso: 500
-  width: 4539
-  height: 3385
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 11:25:24.000000000+02:00
-- image_filename: 2022_04_30__10_48_P4303002.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.14376388888889
-  lon: 15.551111111111112
-  altitude: 60.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 7810
-  height: 6075
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 10:48:49.000000000+02:00
-- image_filename: 2022_04_30__11_23_P4303098.jpg
-  post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13675
-  lon: 15.585805555555556
-  altitude: 89.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  focus_distance: 0.57
-  iso: 640
-  width: 4664
-  height: 3528
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2022-04-30 11:23:23.000000000+02:00
 - image_filename: 2022_04_30__16_12_P4303288.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
   lat: 53.159625
@@ -577,39 +557,57 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
   time: 2022-04-30 16:12:11.000000000+02:00
-- image_filename: 2022_04_30__14_27_P4303243.jpg
+- image_filename: 2022_04_30__16_13_P4303308.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.14030555555556
-  lon: 15.597847222222223
-  altitude: 80.0
+  lat: 53.159625
+  lon: 15.550958333333334
+  altitude: 72.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 3.08
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-04-30 16:13:49.000000000+02:00
+- image_filename: 2022_04_30__16_16_P4303319.jpg
+  post_slug: 2022-04-30-kocie-lby-i-piaski
+  lat: 53.159625
+  lon: 15.550958333333334
+  altitude: 72.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
   exposure: 0.003125
   exposure_string: 1/320 s
-  focus_distance: 1000.0
+  focus_distance: 1.02
   iso: 200
-  width: 8146
-  height: 6075
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-04-30 14:27:41.000000000+02:00
-- image_filename: 2022_04_30__13_56_P4303229.jpg
+  time: 2022-04-30 16:16:08.000000000+02:00
+- image_filename: 2022_04_30__16_18_P4303327.jpg
   post_slug: 2022-04-30-kocie-lby-i-piaski
-  lat: 53.13602777777778
-  lon: 15.627055555555556
-  altitude: 107.0
-  focal_length: 35.0
-  focal_length_35: 70.0
+  lat: 53.159625
+  lon: 15.550958333333334
+  altitude: 72.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 6.3
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  focus_distance: 20.05
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.86
   iso: 200
-  width: 8159
-  height: 6099
+  width: 5239
+  height: 3911
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkIII
-  time: 2022-04-30 13:56:51.000000000+02:00
+  time: 2022-04-30 16:18:48.000000000+02:00

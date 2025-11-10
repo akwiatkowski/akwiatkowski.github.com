@@ -1,18 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2017-02-09-przywitanie-z-karkonoszami
-  lat: 50.74131944444444
-  lon: 15.72423611111111
-  altitude: 1389.0
-  focal_length: 31.0
-  focal_length_35: 46.0
-  crop: 1.4838709677419355
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2017-02-09 12:40:57+01:00
 - image_filename: IMGP2368raw1.jpg
   post_slug: 2017-02-09-przywitanie-z-karkonoszami
   lat: 50.745986111111115
@@ -22,11 +8,11 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 11.0
-  iso: 160
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-02-09 12:31:51+01:00
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-02-09 12:31:51.000000000+01:00
 - image_filename: IMGP2379raw1.jpg
   post_slug: 2017-02-09-przywitanie-z-karkonoszami
   lat: 50.74256944444445
@@ -36,81 +22,11 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2017-02-09 12:38:44+01:00
-- image_filename: IMGP2399raw2.jpg
-  post_slug: 2017-02-09-przywitanie-z-karkonoszami
-  lat: 50.73627777777778
-  lon: 15.7395
-  altitude: 1599.0
-  focal_length: 19.0
-  focal_length_35: 28.0
-  crop: 1.4736842105263157
-  aperture: 9.0
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-02-09 14:53:56+01:00
-- image_filename: IMGP2412raw2.jpg
-  post_slug: 2017-02-09-przywitanie-z-karkonoszami
-  lat: 50.735819444444445
-  lon: 15.7395
-  altitude: 1601.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-02-09 15:01:58+01:00
-- image_filename: IMGP2417raw1.jpg
-  post_slug: 2017-02-09-przywitanie-z-karkonoszami
-  lat: 50.735819444444445
-  lon: 15.739583333333332
-  altitude: 1601.0
-  focal_length: 340.0
-  focal_length_35: 510.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2017-02-09 15:02:52+01:00
-- image_filename: IMGP2457raw2.jpg
-  post_slug: 2017-02-09-przywitanie-z-karkonoszami
-  lat: 50.73652777777778
-  lon: 15.739583333333332
-  altitude: 1589.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-02-09 15:20:58+01:00
-- image_filename: IMGP2458raw1.jpg
-  post_slug: 2017-02-09-przywitanie-z-karkonoszami
-  lat: 50.73648611111111
-  lon: 15.73948611111111
-  altitude: 1591.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  iso: 160
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-02-09 15:21:10+01:00
+  time: 2017-02-09 12:38:44.000000000+01:00
 - image_filename: IMGP2391raw1.jpg
   post_slug: 2017-02-09-przywitanie-z-karkonoszami
   lat: 50.73975
@@ -120,11 +36,25 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2017-02-09 12:45:46+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-09 12:45:46.000000000+01:00
+- image_filename: IMGP2399raw2.jpg
+  post_slug: 2017-02-09-przywitanie-z-karkonoszami
+  lat: 50.73627777777778
+  lon: 15.7395
+  altitude: 1599.0
+  focal_length: 19.0
+  focal_length_35: 28.0
+  crop: 1.4736842105263157
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-09 14:53:56.000000000+01:00
 - image_filename: IMGP2402raw2.jpg
   post_slug: 2017-02-09-przywitanie-z-karkonoszami
   lat: 50.73601388888889
@@ -134,11 +64,67 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 9.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2017-02-09 14:58:24+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-09 14:58:24.000000000+01:00
+- image_filename: IMGP2412raw2.jpg
+  post_slug: 2017-02-09-przywitanie-z-karkonoszami
+  lat: 50.735819444444445
+  lon: 15.7395
+  altitude: 1601.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-09 15:01:58.000000000+01:00
+- image_filename: IMGP2417raw1.jpg
+  post_slug: 2017-02-09-przywitanie-z-karkonoszami
+  lat: 50.735819444444445
+  lon: 15.739583333333332
+  altitude: 1601.0
+  focal_length: 340.0
+  focal_length_35: 510.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-09 15:02:52.000000000+01:00
+- image_filename: IMGP2457raw2.jpg
+  post_slug: 2017-02-09-przywitanie-z-karkonoszami
+  lat: 50.73652777777778
+  lon: 15.739583333333332
+  altitude: 1589.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-02-09 15:20:58.000000000+01:00
+- image_filename: IMGP2458raw1.jpg
+  post_slug: 2017-02-09-przywitanie-z-karkonoszami
+  lat: 50.73648611111111
+  lon: 15.73948611111111
+  altitude: 1591.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2017-02-09 15:21:10.000000000+01:00
 - image_filename: IMGP2492raw2.jpg
   post_slug: 2017-02-09-przywitanie-z-karkonoszami
   lat: 50.736361111111115
@@ -148,8 +134,22 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2017-02-09 15:48:19+01:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-09 15:48:19.000000000+01:00
+- image_filename: header.jpg
+  post_slug: 2017-02-09-przywitanie-z-karkonoszami
+  lat: 50.74131944444444
+  lon: 15.72423611111111
+  altitude: 1389.0
+  focal_length: 31.0
+  focal_length_35: 46.0
+  crop: 1.4838709677419355
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2017-02-09 12:40:57.000000000+01:00

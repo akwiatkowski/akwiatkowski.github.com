@@ -1,20 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.869625
-  lon: 15.869569444444444
-  altitude: 642.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-10-24 15:52:27+02:00
 - image_filename: IMGP8135raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.88540277777778
@@ -24,11 +8,11 @@
   focal_length_35: 34.0
   crop: 1.4782608695652173
   aperture: 5.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-10-24 12:43:58+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-10-24 12:43:58.000000000+02:00
 - image_filename: IMGP8164raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.87273611111111
@@ -38,11 +22,11 @@
   focal_length_35: 510.0
   crop: 1.5
   aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2016-10-24 13:25:04+02:00
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-10-24 13:25:04.000000000+02:00
 - image_filename: IMGP8187raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.86869444444444
@@ -52,11 +36,11 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 5.6
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-10-24 14:07:40+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-24 14:07:40.000000000+02:00
 - image_filename: IMGP8192raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.86879166666667
@@ -66,11 +50,11 @@
   focal_length_35: 43.0
   crop: 1.4827586206896552
   aperture: 5.6
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2016-10-24 14:13:19+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-10-24 14:13:19.000000000+02:00
 - image_filename: IMGP8195raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.8685
@@ -80,11 +64,11 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2016-10-24 14:15:00+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-10-24 14:15:00.000000000+02:00
 - image_filename: IMGP8199raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.86775
@@ -94,11 +78,11 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2016-10-24 14:25:24+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-10-24 14:25:24.000000000+02:00
 - image_filename: IMGP8214raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.86841666666667
@@ -108,193 +92,11 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.0
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2016-10-24 14:33:10+02:00
-- image_filename: IMGP8232raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.86943055555555
-  lon: 15.850527777777778
-  altitude: 402.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 2.8
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-10-24 14:40:46+02:00
-- image_filename: IMGP8273raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.869625
-  lon: 15.869541666666667
-  altitude: 639.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-10-24 15:31:28+02:00
-- image_filename: IMGP8413raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.85220833333334
-  lon: 15.864805555555556
-  altitude: 391.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 4.5
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2016-10-24 17:15:48+02:00
-- image_filename: IMGP8265raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.86868055555556
-  lon: 15.868152777777778
-  altitude: 570.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
   iso: 400
   camera: PENTAX K-S2
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2016-10-24 15:20:41+02:00
-- image_filename: IMGP8339raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.86961111111111
-  lon: 15.869569444444444
-  altitude: 642.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 11.0
-  iso: 320
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-10-24 15:47:16+02:00
-- image_filename: IMGP8324raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.869625
-  lon: 15.869569444444444
-  altitude: 640.0
-  focal_length: 250.0
-  focal_length_35: 375.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-10-24 15:42:07+02:00
-- image_filename: IMGP8369raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.869597222222225
-  lon: 15.86951388888889
-  altitude: 631.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-10-24 15:57:31+02:00
-- image_filename: IMGP8395raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.85779166666667
-  lon: 15.87213888888889
-  altitude: 434.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 6.3
-  iso: 400
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-10-24 17:00:19+02:00
-- image_filename: IMGP8320raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.869625
-  lon: 15.869555555555555
-  altitude: 640.0
-  focal_length: 150.0
-  focal_length_35: 225.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 500
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-10-24 15:41:46+02:00
-- image_filename: IMGP8388raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.858402777777776
-  lon: 15.87263888888889
-  altitude: 440.0
-  focal_length: 29.0
-  focal_length_35: 43.0
-  crop: 1.4827586206896552
-  aperture: 8.0
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2016-10-24 16:57:34+02:00
-- image_filename: IMGP8280raw2.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.869625
-  lon: 15.869555555555555
-  altitude: 640.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-10-24 15:33:57+02:00
-- image_filename: IMGP8360raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.869597222222225
-  lon: 15.869555555555555
-  altitude: 642.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-10-24 15:54:28+02:00
-- image_filename: IMGP8285raw2.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.869597222222225
-  lon: 15.869569444444444
-  altitude: 640.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-10-24 15:35:16+02:00
+  time: 2016-10-24 14:33:10.000000000+02:00
 - image_filename: IMGP8228raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.86915277777778
@@ -304,11 +106,25 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 3.5
-  iso: 200
-  camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2016-10-24 14:39:34+02:00
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-10-24 14:39:34.000000000+02:00
+- image_filename: IMGP8232raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.86943055555555
+  lon: 15.850527777777778
+  altitude: 402.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-24 14:40:46.000000000+02:00
 - image_filename: IMGP8248raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.86961111111111
@@ -318,39 +134,95 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 400
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2016-10-24 14:51:42+02:00
-- image_filename: IMGP8409raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.852472222222225
-  lon: 15.869736111111111
-  altitude: 394.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  iso: 250
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-10-24 17:10:31+02:00
-- image_filename: IMGP8396raw1.jpg
-  post_slug: 2016-10-24-wejscie-na-sokolik
-  lat: 50.85777777777778
-  lon: 15.872111111111112
-  altitude: 434.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 6.3
   iso: 400
   camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-10-24 17:00:42+02:00
+  time: 2016-10-24 14:51:42.000000000+02:00
+- image_filename: IMGP8265raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.86868055555556
+  lon: 15.868152777777778
+  altitude: 570.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:20:41.000000000+02:00
+- image_filename: IMGP8273raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.869625
+  lon: 15.869541666666667
+  altitude: 639.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:31:28.000000000+02:00
+- image_filename: IMGP8280raw2.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.869625
+  lon: 15.869555555555555
+  altitude: 640.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:33:57.000000000+02:00
+- image_filename: IMGP8285raw2.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.869597222222225
+  lon: 15.869569444444444
+  altitude: 640.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:35:16.000000000+02:00
+- image_filename: IMGP8320raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.869625
+  lon: 15.869555555555555
+  altitude: 640.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:41:46.000000000+02:00
+- image_filename: IMGP8324raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.869625
+  lon: 15.869569444444444
+  altitude: 640.0
+  focal_length: 250.0
+  focal_length_35: 375.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:42:07.000000000+02:00
 - image_filename: IMGP8335raw1.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.869625
@@ -360,11 +232,25 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2016-10-24 15:46:46+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:46:46.000000000+02:00
+- image_filename: IMGP8339raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.86961111111111
+  lon: 15.869569444444444
+  altitude: 642.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 11.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:47:16.000000000+02:00
 - image_filename: IMGP8344raw2.jpg
   post_slug: 2016-10-24-wejscie-na-sokolik
   lat: 50.86958333333333
@@ -374,8 +260,122 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
-  iso: 160
-  camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2016-10-24 15:48:02+02:00
+  iso: 160
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:48:02.000000000+02:00
+- image_filename: IMGP8360raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.869597222222225
+  lon: 15.869555555555555
+  altitude: 642.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:54:28.000000000+02:00
+- image_filename: IMGP8369raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.869597222222225
+  lon: 15.86951388888889
+  altitude: 631.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:57:31.000000000+02:00
+- image_filename: IMGP8388raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.858402777777776
+  lon: 15.87263888888889
+  altitude: 440.0
+  focal_length: 29.0
+  focal_length_35: 43.0
+  crop: 1.4827586206896552
+  aperture: 8.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-10-24 16:57:34.000000000+02:00
+- image_filename: IMGP8395raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.85779166666667
+  lon: 15.87213888888889
+  altitude: 434.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-10-24 17:00:19.000000000+02:00
+- image_filename: IMGP8396raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.85777777777778
+  lon: 15.872111111111112
+  altitude: 434.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  camera: PENTAX K-S2
+  time: 2016-10-24 17:00:42.000000000+02:00
+- image_filename: IMGP8409raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.852472222222225
+  lon: 15.869736111111111
+  altitude: 394.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  camera: PENTAX K-S2
+  time: 2016-10-24 17:10:31.000000000+02:00
+- image_filename: IMGP8413raw1.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.85220833333334
+  lon: 15.864805555555556
+  altitude: 391.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 4.5
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 320
+  camera: PENTAX K-S2
+  time: 2016-10-24 17:15:48.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2016-10-24-wejscie-na-sokolik
+  lat: 50.869625
+  lon: 15.869569444444444
+  altitude: 642.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  time: 2016-10-24 15:52:27.000000000+02:00

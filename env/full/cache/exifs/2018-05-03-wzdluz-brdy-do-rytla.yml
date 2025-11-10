@@ -1,155 +1,4 @@
 ---
-- image_filename: IMGP8574raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.718472222222225
-  lon: 17.841819444444443
-  altitude: 118.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-03 13:03:26+02:00
-- image_filename: IMGP8543raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.71840277777778
-  lon: 18.02061111111111
-  altitude: 115.0
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-03 11:19:22+02:00
-- image_filename: IMGP8547raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.746125
-  lon: 18.023152777777778
-  altitude: 110.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-03 11:31:16+02:00
-- image_filename: IMGP8559raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.738166666666665
-  lon: 18.028347222222223
-  altitude: 124.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-03 12:07:55+02:00
-- image_filename: IMGP8567raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.718472222222225
-  lon: 17.841833333333334
-  altitude: 116.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-03 12:56:57+02:00
-- image_filename: IMGP8576raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.72175
-  lon: 17.90175
-  altitude: 113.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-03 13:05:54+02:00
-- image_filename: IMGP8584raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.72316666666667
-  lon: 17.901666666666664
-  altitude: 107.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-05-03 13:23:28+02:00
-- image_filename: IMGP8590raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2018-05-03 14:35:20+02:00
-- image_filename: IMGP8564raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.71083333333333
-  lon: 17.871791666666667
-  altitude: 115.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-03 12:44:41+02:00
-- image_filename: IMGP8570raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.72233333333334
-  lon: 17.90809722222222
-  altitude: 113.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-03 12:57:23+02:00
-- image_filename: IMGP8565raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.711958333333335
-  lon: 17.941152777777777
-  altitude: 112.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-03 12:45:08+02:00
 - image_filename: IMGP8542raw1.jpg
   post_slug: 2018-05-03-wzdluz-brdy-do-rytla
   lat: 53.74605555555556
@@ -159,92 +8,39 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
   iso: 160
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-03 11:19:18+02:00
-- image_filename: IMGP8572raw1.jpg
+  time: 2018-05-03 11:19:18.000000000+02:00
+- image_filename: IMGP8543raw1.jpg
   post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.72168055555556
-  lon: 17.901291666666665
-  altitude: 112.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
+  lat: 53.71840277777778
+  lon: 18.02061111111111
+  altitude: 115.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
   iso: 200
   camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-05-03 13:03:12+02:00
-- image_filename: IMGP8581raw1.jpg
+  time: 2018-05-03 11:19:22.000000000+02:00
+- image_filename: IMGP8547raw1.jpg
   post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-03 13:09:35+02:00
-- image_filename: IMGP8582raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.72163888888889
-  lon: 17.901138888888887
-  altitude: 107.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  iso: 200
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-03 13:21:28+02:00
-- image_filename: IMGP8553raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.71093055555556
-  lon: 17.94090277777778
-  altitude: 112.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-05-03 11:43:34+02:00
-- image_filename: IMGP8589raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.75009722222222
-  lon: 17.77875
-  altitude: 117.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-03 13:26:07+02:00
-- image_filename: IMGP8552raw1.jpg
-  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
-  lat: 53.74608333333333
-  lon: 18.023208333333333
+  lat: 53.746125
+  lon: 18.023152777777778
   altitude: 110.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  exposure: 0.02
+  exposure_string: 1/50 s
   iso: 100
   camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-03 11:43:29+02:00
+  time: 2018-05-03 11:31:16.000000000+02:00
 - image_filename: IMGP8549raw1.jpg
   post_slug: 2018-05-03-wzdluz-brdy-do-rytla
   lat: 53.71383333333333
@@ -254,8 +50,212 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
-  iso: 100
-  camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
-  time: 2018-05-03 11:31:34+02:00
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-03 11:31:34.000000000+02:00
+- image_filename: IMGP8552raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.74608333333333
+  lon: 18.023208333333333
+  altitude: 110.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-03 11:43:29.000000000+02:00
+- image_filename: IMGP8553raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.71093055555556
+  lon: 17.94090277777778
+  altitude: 112.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-03 11:43:34.000000000+02:00
+- image_filename: IMGP8559raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.738166666666665
+  lon: 18.028347222222223
+  altitude: 124.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-03 12:07:55.000000000+02:00
+- image_filename: IMGP8564raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.71083333333333
+  lon: 17.871791666666667
+  altitude: 115.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-03 12:44:41.000000000+02:00
+- image_filename: IMGP8565raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.711958333333335
+  lon: 17.941152777777777
+  altitude: 112.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-03 12:45:08.000000000+02:00
+- image_filename: IMGP8567raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.718472222222225
+  lon: 17.841833333333334
+  altitude: 116.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-03 12:56:57.000000000+02:00
+- image_filename: IMGP8570raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.72233333333334
+  lon: 17.90809722222222
+  altitude: 113.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-03 12:57:23.000000000+02:00
+- image_filename: IMGP8572raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.72168055555556
+  lon: 17.901291666666665
+  altitude: 112.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-03 13:03:12.000000000+02:00
+- image_filename: IMGP8574raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.718472222222225
+  lon: 17.841819444444443
+  altitude: 118.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-03 13:03:26.000000000+02:00
+- image_filename: IMGP8576raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.72175
+  lon: 17.90175
+  altitude: 113.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-03 13:05:54.000000000+02:00
+- image_filename: IMGP8581raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-03 13:09:35.000000000+02:00
+- image_filename: IMGP8582raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.72163888888889
+  lon: 17.901138888888887
+  altitude: 107.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-03 13:21:28.000000000+02:00
+- image_filename: IMGP8584raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.72316666666667
+  lon: 17.901666666666664
+  altitude: 107.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-03 13:23:28.000000000+02:00
+- image_filename: IMGP8589raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.75009722222222
+  lon: 17.77875
+  altitude: 117.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  camera: PENTAX K-S2
+  time: 2018-05-03 13:26:07.000000000+02:00
+- image_filename: IMGP8590raw1.jpg
+  post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  camera: PENTAX K-S2
+  time: 2018-05-03 14:35:20.000000000+02:00

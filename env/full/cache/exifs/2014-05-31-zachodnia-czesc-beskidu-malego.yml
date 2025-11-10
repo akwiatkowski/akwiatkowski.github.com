@@ -1,63 +1,63 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2014-05-31-zachodnia-czesc-beskidu-malego
-  lat: 49.77695055555555
-  lon: 19.116469722222224
-  altitude: 821.1
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  iso: 400
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2014-05-30 16:23:51+02:00
 - image_filename: IMGP6487raw1.jpg
   post_slug: 2014-05-31-zachodnia-czesc-beskidu-malego
-  lat: 49.79327416666666
-  lon: 19.074196666666666
+  lat: 49.793275
+  lon: 19.07419722222222
   altitude: 394.8
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-05-30 14:51:08+02:00
+  time: 2014-05-30 14:51:08.000000000+02:00
 - image_filename: IMGP6506raw1.jpg
   post_slug: 2014-05-31-zachodnia-czesc-beskidu-malego
-  lat: 49.785718055555556
-  lon: 19.099609722222223
+  lat: 49.785719444444446
+  lon: 19.09961111111111
   altitude: 607.2
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2014-05-30 15:35:26+02:00
+  time: 2014-05-30 15:35:26.000000000+02:00
 - image_filename: IMGP6516raw1.jpg
   post_slug: 2014-05-31-zachodnia-czesc-beskidu-malego
-  lat: 49.777454999999996
+  lat: 49.777455555555555
   lon: 19.11176111111111
   altitude: 799.5
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  exposure: 0.025
+  exposure_string: 1/40 s
   iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2014-05-30 16:17:08+02:00
+  time: 2014-05-30 16:17:08.000000000+02:00
+- image_filename: header.jpg
+  post_slug: 2014-05-31-zachodnia-czesc-beskidu-malego
+  lat: 49.77695
+  lon: 19.116469444444444
+  altitude: 821.1
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 2048
+  height: 1358
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  time: 2014-05-30 16:23:51.000000000+02:00
