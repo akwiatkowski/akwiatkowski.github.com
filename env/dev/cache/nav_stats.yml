@@ -10,7 +10,7 @@ train_time_length: 0
 train_count: 0
 self_distance: 182
 self_time_length: 25
-updated_at: 2024-04-06 01:15:05.310653453+02:00
+updated_at: 2025-08-28 13:29:24.800757000+02:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
@@ -23,7 +23,7 @@ tags_nav:
 - name: Najlepsze
   url: /tag/best/masonry.html
   count: 2
-- name: Rower
+- name: Rowerem
   url: /tag/bicycle/masonry.html
   count: 2
 - name: Pieszo

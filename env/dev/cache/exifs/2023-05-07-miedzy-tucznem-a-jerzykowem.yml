@@ -1,26 +1,10 @@
 ---
 - image_filename: 2023_05_07__17_20_DJI_0908.jpg
   post_slug: 2023-05-07-miedzy-tucznem-a-jerzykowem
-- image_filename: 2023_05_07__18_46_DJI_0036.jpg
-  post_slug: 2023-05-07-miedzy-tucznem-a-jerzykowem
-  lat: 52.483333333333334
-  lon: 17.25
-  altitude: 86.0
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.0004
-  exposure_string: 1/2500 s
-  iso: 110
-  width: 8034
-  height: 6012
-  camera: FC3582
-  time: 2023-05-07 18:46:21.000000000+02:00
 - image_filename: 2023_05_07__17_13_DJI_0878.jpg
   post_slug: 2023-05-07-miedzy-tucznem-a-jerzykowem
-  lat: 52.5
-  lon: 17.133333333333333
+  lat: 52.49655277777778
+  lon: 17.132558333333336
   altitude: 72.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -33,3 +17,19 @@
   height: 6048
   camera: FC3582
   time: 2023-05-07 17:13:58.000000000+02:00
+- image_filename: 2023_05_07__18_46_DJI_0036.jpg
+  post_slug: 2023-05-07-miedzy-tucznem-a-jerzykowem
+  lat: 52.49091111111111
+  lon: 17.24781388888889
+  altitude: 86.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8034
+  height: 6012
+  camera: FC3582
+  time: 2023-05-07 18:46:21.000000000+02:00

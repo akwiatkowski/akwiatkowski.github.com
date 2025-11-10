@@ -1223,6 +1223,21 @@
     time: 2023-05-07 17:13:58.000000000+02:00
     lat: 52.5
     lon: 17.133333
+  - image_filename: 2021_09_26__14_41__9261852.jpg
+    post_slug: 2021-09-26-rowerem-wokol-jeziora-kowalskiego
+    time: 2021-09-26 14:41:18.000000000+02:00
+    lat: 52.498196
+    lon: 17.159027
+  - image_filename: 2023_05_07__17_13_DJI_0878.jpg
+    post_slug: 2023-05-07-miedzy-tucznem-a-jerzykowem
+    time: 2023-05-07 17:13:58.000000000+02:00
+    lat: 52.49655
+    lon: 17.132559
+  - image_filename: 2023_05_07__18_46_DJI_0036.jpg
+    post_slug: 2023-05-07-miedzy-tucznem-a-jerzykowem
+    time: 2023-05-07 18:46:21.000000000+02:00
+    lat: 52.49091
+    lon: 17.247814
   info:
     closest_town_name: Swarzedz
     closest_town_distance: 11.1086445
@@ -1395,6 +1410,11 @@
     time: 2022-12-18 07:57:23.000000000+01:00
     lat: 50.88118
     lon: 15.868889
+  - image_filename: 2022_12_18__08_07_PC182484.jpg
+    post_slug: 2022-12-18-zdazyc-przed-koncem-zimy
+    time: 2022-12-18 08:07:44.000000000+01:00
+    lat: 50.883335
+    lon: 15.871583
   info:
     closest_town_name: Janowice Wielkie
     closest_town_distance: 3.4209936
