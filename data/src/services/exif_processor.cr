@@ -92,7 +92,7 @@ class ExifProcessor
 
         exif.lon = decimal
       else
-        Log.error { "photo '#{path}' lon '#{hash["Exif.GPSInfo.GPSLongitude"]? }' regexp not match" }
+        Log.error { "photo '#{path}' lon '#{hash["Exif.GPSInfo.GPSLongitude"]?}' regexp not match" }
       end
 
       if match = hash["Exif.GPSInfo.GPSLatitude"].match(GEO_DEGREE_REGEXP)
@@ -108,7 +108,7 @@ class ExifProcessor
 
         exif.lat = decimal
       else
-        Log.error { "photo '#{path}' lat '#{hash["Exif.GPSInfo.GPSLatitude"]? }' regexp not match" }
+        Log.error { "photo '#{path}' lat '#{hash["Exif.GPSInfo.GPSLatitude"]?}' regexp not match" }
       end
     end
 
