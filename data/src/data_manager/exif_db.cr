@@ -132,7 +132,10 @@ class ExifDb
 
     create_path_if_needed
     File.open(exif_db_file_path(post_slug), "w") do |f|
-      @exif_entities[post_slug].to_yaml(f)
+      # saving sorted explicit
+      @exif_entities[post_slug].sort { |a, b|
+        a.image_filename <=> b.image_filename
+      }.to_yaml(f)
     end
 
     Log.info { "save_exif_entities #{@exif_entities[post_slug].size}" }
