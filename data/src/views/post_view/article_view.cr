@@ -7,12 +7,10 @@ module PostView
     def initialize(
       @blog : Tremolite::Blog,
       @post : Tremolite::Post,
-      @hide_not_finished : Bool = false
+      @hide_not_finished : Bool = false,
     )
       @url = @post.url.as(String)
       @validator = @blog.validator.as(Tremolite::Validator)
-
-      puts "#{@post.slug} - #{@hide_not_finished}"
     end
 
     # not ready posts will not be added to sitemap.xml
@@ -249,7 +247,7 @@ module PostView
       end
 
       # for released version I'd like no to send not finished, draft content
-      if @hide_not_finished == true
+      if @hide_not_finished == true && !ready
         data["content"] = ""
       end
 

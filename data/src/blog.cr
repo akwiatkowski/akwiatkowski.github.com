@@ -85,7 +85,7 @@ class Tremolite::Blog
     exifs_changed : Bool = false,
     # when post is not finished it's content won't be rendered
     # this lead to empty posts on release server
-    hide_not_finished : Bool = false
+    hide_not_finished : Bool = false,
   )
     # ** new way is to render what has changed
 
@@ -152,7 +152,7 @@ class Tremolite::Blog
     post_to_update_exif : Array(Tremolite::Post),
     exifs_changed : Bool,
     refresh_nav_stats : Bool,
-    hide_not_finished : Bool
+    hide_not_finished : Bool,
   )
     # test+dev stuff
     renderer.dev_render
