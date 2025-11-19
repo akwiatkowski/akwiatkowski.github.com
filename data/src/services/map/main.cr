@@ -52,7 +52,7 @@ class Map::Main
   )
     Log.info { "Start zoom=#{@zoom}, posts.size=#{@posts.size}, photos.size=#{@photos.nil? ? nil : @photos.not_nil!.size}, posts: #{@posts[0..6].map { |post| post.date.to_s }.join(",")} " }
     # just to make sure log info is rendered
-    sleep 0.00001
+    sleep(Time::Span.new(nanoseconds: 1))
 
     # only used for calculating how output map should be cropped
     @raster_crop = Crop::RasterCrop.new(type: @coord_crop_type)
