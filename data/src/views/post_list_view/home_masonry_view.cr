@@ -17,7 +17,7 @@ module PostListView
     end
 
     def title
-      @blog.data_manager.not_nil!["site.title"]
+      @blog.data_manager.not_nil!["home.title"]
     end
 
     def meta_keywords_string

@@ -46,7 +46,7 @@ class Tremolite::DataManager
       blog: @blog
     )
     @photo_map_dictionary = PhotoMapDictionary.new(
-      public_path: @blog.public_path
+      output_path: @blog.output_path
     )
   end
 

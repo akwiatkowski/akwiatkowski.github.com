@@ -261,12 +261,12 @@ class Tremolite::Views::BaseView
     return load_html("partials/pro_tip")
   end
 
-  def public_path
-    @blog.public_path.as(String)
+  def output_path
+    @blog.output_path.as(String)
   end
 
   def image_size(url)
-    path = File.join([public_path, url])
+    path = File.join([output_path, url])
     if File.exists?(path)
       return File.size(path)
     else

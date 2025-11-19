@@ -2,11 +2,14 @@
 all_compile: dev_compile_release dev_compile compile_release compile
 
 # dev env
-dev_serve:
-	cd env/dev/public && npx serve -p 5001
+dev_serve_local:
+	cd env/dev/public/local && npx serve -p 5001
+
+dev_serve_release:
+	cd env/dev/public/release && npx serve -p 5001
 
 dev_render_release:
-	crystal env/dev/src/run_local_full.cr
+	crystal env/dev/src/render_release.cr
 
 # release is executed once to refresh all parts of website
 # local means using local version of `tremolite` shard
@@ -58,12 +61,13 @@ run_compiled:
 	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" env/full/blog
 
 watch_smart:
-	bash env/full/watch_smart.sh
+	# bash env/full/watch_smart.sh
+	bash env/full/watch_smart_mac.sh
 
 watch_coffee:
 	coffee -bcw data/assets/js/*.coffee
-	
-	
+
+
 # old stuff
 # watch:
 # 	bash watch.sh

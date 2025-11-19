@@ -9,7 +9,7 @@ class Commands::ListPostsMissingDetailedRoutes
     @blog = Tremolite::Blog.new(
       mod_watcher_yaml_path: File.join([@env_path, "cache", "mod_watcher.yml"]),
       data_path: File.join([@env_path, "data"]),
-      public_path: File.join([@env_path, "public"]),
+      output_path: File.join([@env_path, "public"]),
       config_path: File.join([@universal_path, "config"]),
       cache_path: File.join([@env_path, "cache"]),
       layout_path: File.join([@universal_path, "layout"]),

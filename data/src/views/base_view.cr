@@ -45,7 +45,7 @@ class BaseView < Tremolite::Views::BaseView
     buffered_html = @blog.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?
     return buffered_html.not_nil! if buffered_html
 
-    public_path = @blog.@public_path
+    output_path = @blog.@output_path
     i = 0
 
     original_head = load_html("include/head_open")
@@ -61,7 +61,7 @@ class BaseView < Tremolite::Views::BaseView
           # ignore xml files which are created dynamically
           next if web_path.includes?(".xml")
 
-          public_file_path = File.join([public_path, web_path])
+          public_file_path = File.join([output_path, web_path])
           # some included files do not exists
           if File.exists?(public_file_path)
             fi = File.info(public_file_path)
