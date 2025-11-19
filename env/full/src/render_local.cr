@@ -1,13 +1,13 @@
 require "../../../../tremolite/src/tremolite"
 require "../../../data/src/blog"
 
-env_path = File.join(["env", "dev"])
+env_path = File.join(["env", "full"])
 universal_path = "data"
 
 t = Tremolite::Blog.new(
   mod_watcher_yaml_path: File.join([env_path, "cache", "mod_watcher.yml"]),
   data_path: File.join([env_path, "data"]),
-  public_path: File.join([env_path, "public"]),
+  output_path: File.join([env_path, "public", "local"]),
   config_path: File.join([universal_path, "config"]),
   cache_path: File.join([env_path, "cache"]),
   layout_path: File.join([universal_path, "layout"]),

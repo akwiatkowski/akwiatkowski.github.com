@@ -88,10 +88,11 @@ module RendererMixin::RenderPostRelated
     Log.info { "Renderer: Posts finished" }
   end
 
-  def render_post(post : Tremolite::Post)
+  def render_post(post : Tremolite::Post, hide_not_finished : Bool = false)
     view = PostView::ArticleView.new(
       blog: blog,
-      post: post
+      post: post,
+      hide_not_finished: hide_not_finished
     )
     write_output(view)
 

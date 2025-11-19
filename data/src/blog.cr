@@ -83,6 +83,9 @@ class Tremolite::Blog
   def make_it_so(
     force_full_render : Bool = false,
     exifs_changed : Bool = false,
+    # when post is not finished it's content won't be rendered
+    # this lead to empty posts on release server
+    hide_not_finished : Bool = false
   )
     # ** new way is to render what has changed
 
@@ -124,7 +127,8 @@ class Tremolite::Blog
       post_to_update_photos: post_to_update_photos,
       post_to_update_exif: post_to_update_exif,
       exifs_changed: exifs_changed,
-      refresh_nav_stats: refresh_nav_stats
+      refresh_nav_stats: refresh_nav_stats,
+      hide_not_finished: hide_not_finished
     )
 
     # update sitemap only when full render to not mess
@@ -148,6 +152,7 @@ class Tremolite::Blog
     post_to_update_exif : Array(Tremolite::Post),
     exifs_changed : Bool,
     refresh_nav_stats : Bool,
+    hide_not_finished : Bool
   )
     # test+dev stuff
     renderer.dev_render
@@ -176,7 +181,7 @@ class Tremolite::Blog
       data_manager.exif_db.initialize_post_photos_exif(post)
 
       Log.debug { "#{post.slug} - rendering" }
-      renderer.render_post(post)
+      renderer.render_post(post, hide_not_finished: hide_not_finished)
 
       Log.debug { "#{post.slug} - rendering galleries" }
       renderer.render_post_galleries_for_post(post)
@@ -198,7 +203,7 @@ class Tremolite::Blog
       post.content_html
 
       Log.debug { "#{post.slug} - rendering" }
-      renderer.render_post(post)
+      renderer.render_post(post, hide_not_finished: hide_not_finished)
 
       Log.debug { "#{post.slug} - saving exif cache" }
       data_manager.exif_db.save_cache(post.slug)
