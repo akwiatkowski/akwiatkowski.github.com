@@ -2,29 +2,13 @@ version: 2.0
 shards:
   common_mark:
     git: https://github.com/ysbaddaden/crystal-cmark.git
-    version: 0.3.0+git.commit.efa51e2c054d897c707c44d0686118986ad58932
+    version: 0.3.0+git.commit.58f488cf0ba38fe9d6b92058e04ce6d8b4c34792
 
   crystal_gpx:
     git: https://github.com/akwiatkowski/crystal_gpx.git
-    version: 0.3+git.commit.bed1bd40d4a4babf1bf682e598be27a53627fef6
-
-  exception_page:
-    git: https://github.com/crystal-loot/exception_page.git
-    version: 0.1.4
-
-  kemal:
-    git: https://github.com/kemalcr/kemal.git
-    version: 0.27.0+git.commit.f71a83e2c43b963fd2fa2e6fb73b8abf447c17bf
-
-  kilt:
-    git: https://github.com/jeromegn/kilt.git
-    version: 0.4.0
-
-  radix:
-    git: https://github.com/luislavena/radix.git
-    version: 0.4.0
+    version: 0.3.1+git.commit.e0220c908e46356fed914cefc5bdc3edab74bdee
 
   tremolite:
     git: https://github.com/akwiatkowski/tremolite.git
-    version: 0.2.0+git.commit.c1f7b9ac0238255c94d935120a2af629cc902e3b
+    version: 0.2.2+git.commit.8edd4a74369e01a0d3f110609b190d1b9f1b9568
 
