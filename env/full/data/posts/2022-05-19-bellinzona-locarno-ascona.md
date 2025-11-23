@@ -36,6 +36,7 @@ strava:
 
 ---
 
+[wiki-maggia]: https://pl.wikipedia.org/wiki/Lago_Maggiore
 [wiki-cittiglio]: https://en.wikipedia.org/wiki/Cittiglio
 [wiki-bellinzona]: https://pl.wikipedia.org/wiki/Bellinzona
 [wiki-locarno-stacja]: https://en.wikipedia.org/wiki/Locarno_FART_railway_station

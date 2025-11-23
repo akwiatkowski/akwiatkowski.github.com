@@ -32,9 +32,11 @@ strava:
 
 [bourne1]: https://www.youtube.com/watch?v=r5JPwQfohlo
 
+[wiki-warszawa]: https://pl.wikipedia.org/wiki/Warszawa
 [wiki-limmat-rzeka]: https://pl.wikipedia.org/wiki/Limmat
 [wiki-berno]: https://pl.wikipedia.org/wiki/Berno
 [wiki-zurych]: https://pl.wikipedia.org/wiki/Zurych
+[wiki-interlaken]: https://pl.wikipedia.org/wiki/Interlaken
 
 ## Wstęp
 

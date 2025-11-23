@@ -16,7 +16,7 @@ towns:                  [dolnoslaskie, swidnica]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2024-10-21-swidnica-miasto.json"
 coords_type:            "hike"
-map_zooms:              14
+map_zooms:              15
 distance:               2
 time_spent:             1
 elevation:              8

@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2024_10_22__09_36_DJI_0599.jpg
 image_position:         50% 58%
 tags:                   [hike, main]
-towns:                  [dolnoslaskie, marcinkowice]
+towns:                  [dolnoslaskie, marcinowice]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2024-10-22-aby-wykorzystac-wczesniejszy-powrot.json"

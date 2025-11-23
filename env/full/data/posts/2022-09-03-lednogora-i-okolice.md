@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2022_09_03__13_39_P9030062.jpg
 #image_position:         50% 70%
 tags:                   [bicycle, todo]
-towns:                  []
+towns:                  [wielkopolskie, lubowo, pobiedziska, swarzedz, poznan]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-09-03-lednogora-i-okolice.json"
@@ -39,4 +39,18 @@ strava:
 
 ## Wstęp
 
+Ponad [dwa miesiące temu]({% post_url 2022-06-24-przed-upalem %})
+również zaczynałem trasę w [Lednogórze][wiki-lednogora]. Dlaczego powtórzyłem
+tą wycieczkę? Nie wiem.
+
 ## Szczegóły
+
+{% photo "2022_09_03__12_40_P9030030.jpg","Kot w Lednogórze" %}
+
+{% photo "2022_09_03__12_43_P9030033.jpg","Jezioro Lednickie" %}
+
+{% photo "2022_09_03__12_49_P9030043.jpg","Kościół w Lednogórze" %}
+
+{% photo "2022_09_03__13_04_P9030050.jpg","Dalsze okolice Węglewa" %}
+
+{% photo "2022_09_03__13_40_P9030070.jpg","Pole rzepaku" %}

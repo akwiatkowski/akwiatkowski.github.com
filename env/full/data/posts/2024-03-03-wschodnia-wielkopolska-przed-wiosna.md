@@ -16,7 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2024-03-03-wschodnia-wielkopolska-przed-wiosna.json"
 coords_type:            "bicycle"
-map_zooms:              11
+map_zooms:              10
 distance:               4
 time_spent:             2
 elevation:              42

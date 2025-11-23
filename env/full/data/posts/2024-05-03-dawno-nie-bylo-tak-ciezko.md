@@ -16,7 +16,7 @@ towns:                  [kujawsko_pomorskie, pomorskie, tuchola, kesowo, chojnic
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2024-05-03-dawno-nie-bylo-tak-ciezko.json"
 coords_type:            "bicycle"
-map_zooms:              11
+map_zooms:              10
 distance:               90
 time_spent:             7
 elevation:              497

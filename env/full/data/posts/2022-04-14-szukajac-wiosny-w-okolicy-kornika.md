@@ -36,4 +36,25 @@ strava: 6981510386
 
 ## Wstęp
 
+Tego dnia chciałem, jak nie raz, uciec z [miasta][wiki-poznan] i jednocześnie
+sprawdzić jedną miejscowość pod [Poznaniem][wiki-poznan]. Było nią
+[Czołowo][wiki-czolowo] gdzie obok mieszka kolega.
+Istotny był  również łatwy dojazd do stacji kolejowej.
+
 ## Szczegóły
+
+Wysiadłem w [Gądkach][wiki-gadki] więc w pociągu byłem tylko chwilę. To była
+lepsza opcja niż jazda przez [Kórnik][wiki-kornik].
+
+{% photo "2022_04_10__15_55_P4109871.jpg","Okolice Czernikowa" %}
+
+Pierwsze co uderzyło mnie to duży ruch samochodowy. Tereny te są na tyle
+blisko [Poznania][wiki-poznan] dlatego wiele osób codziennie jeździ do pracy.
+
+Gdt z [Borówca][wiki-borowiec] odbiłem czerwonym szlakiem rowerowym na południe
+do [Mościenicy][wiki-moscienica] ruch się uspokoił. Szlak niestety po chwili
+chwili zamienił się w drogę gruntową przez las.
+
+Zbliżając się do [Czołowa][wiki-czolowo] musiałem podjąć kilka decyzji odnośnie
+trasy. Wszystkie opcje były raczej złe bo te tereny nie są zbyt dobre na rower.
+Chociaż może mieszkańcy znają jakieś skróty.

@@ -98,7 +98,7 @@ w tereny rolnicze.
 
 {% photo "2019_07_07__12_20_P7070048.jpg","Centrum Starego Gołębina" %}
 
-Kierowaliśmy się do [Starego Gołębina][wiki-stary-golebin]. W [Spytówce][wiki-spytowka]
+Kierowaliśmy się do [Starego Gołębina][wiki-stary-golebin]. W [Spytówkach][wiki-spytowki]
 widziałem sporo starszych domów, podobał mi się też bardzo klimatyczny sklep.
 Postanowiłem sobie, że będę ograniczał jazdę na południe od [Poznania][wiki-poznan]
 gdyż wolę więcej natury.

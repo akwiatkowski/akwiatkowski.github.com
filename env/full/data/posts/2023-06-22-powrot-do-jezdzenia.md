@@ -14,7 +14,7 @@ tags:                   [bicycle, todo]
 towns:                  [wielkopolskie]
 
 coords:                 [{"route": [], "type": "bicycle"}]
-coords_file:            "2023-06-22-powrot-do-jezdzenia.json"
+#coords_file:            "2023-06-22-powrot-do-jezdzenia.json"
 coords_type:            "bicycle"
 distance:               13
 time_spent:             1

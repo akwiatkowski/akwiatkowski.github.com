@@ -56,7 +56,7 @@ warunki pogodowe.
 
 ## Szczegóły
 
-Plan był prosty - ruszyć porannym pociągiem do [Jabłonowa][wiki-jablonowo-pomorskie]
+Plan był prosty - ruszyć porannym pociągiem do [Jabłonowa Pomorskiego][wiki-jablonowo-pomorskie]
 i pojechać przez jakieś wioski. Mogłem jechać w stronę [Grudziądza][wiki-grudziadz]
 jednak znałem te tereny i wolałem wybrać coś innego. Pomyślałem, że warto by
 przejechać przez [Golub-Dobrzyń][wiki-golub-dobrzyn] i jechać dalej na południe do
@@ -106,7 +106,7 @@ było to na
 jeszcze nie myślał o pandemii.
 
 Drugi raz byłem [miesiąc wcześniej]({% post_url 2022-06-18-okolice-brodnicy %})
-kiedy wracałem z [Jabłonowa][wiki-jablonowo] do noclegu.
+kiedy wracałem z [Jabłonowa Pomorskiego][wiki-jablonowo-pomorskie] do noclegu.
 
 {% photo "2022_07_23__10_11_P7230030.jpg","Stary dom w Osieczku" %}
 
@@ -121,7 +121,7 @@ jak najwięcej pozytywnych rzeczy.
 Krajobraz też "nie był tego wart". Nie był zły, ale w mojej ocenie teraz
 lepszym pomysłem byłoby jechać na północ w okolice [Grudziądza][wiki-grudziadz].
 
-Dotarłem do [Dąbrówki][wiki-dabrowk], a dokładniej głównego skrzyżowania w tej miejscowości.
+Dotarłem do [Dąbrówki][wiki-dabrowka], a dokładniej głównego skrzyżowania w tej miejscowości.
 Tam już miałem solidne wątpliwości i już rozplanowałem awaryjne
 zakończenie tej wycieczki. Przypomniałem sobie o restauracji
 w [Książkach][wiki-ksiazki] oraz sprawdziłem powrotny pociąg.

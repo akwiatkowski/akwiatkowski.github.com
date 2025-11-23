@@ -35,7 +35,7 @@ strava: 6436561512
 
 {% photo_header "Zima w Dusznie","tag:sunrise,tag:winter,tag:best,tag:good" %}
 
-[wiki-izbdy]: https://pl.wikipedia.org/wiki/Izdby
+[wiki-izdby]: https://pl.wikipedia.org/wiki/Izdby
 [wiki-wydartowo]: https://pl.wikipedia.org/wiki/Wydartowo
 [wiki-dolnoslaskie]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie
 [wiki-duszno]: https://pl.wikipedia.org/wiki/Duszno

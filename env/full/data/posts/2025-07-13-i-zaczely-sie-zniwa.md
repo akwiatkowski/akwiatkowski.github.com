@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2025_07_13__13_44_P7131308.jpg
 #image_position:         50% 70%
 tags:                   [train, todo]
-towns:                  [warminsko_mazorskie, korsze, bisztynek, kolno, biskupiec_olsztynski, barczewo]
+towns:                  [warminsko_mazurskie, korsze, bisztynek, kolno, biskupiec_olsztynski, barczewo]
 
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2025-07-13-i-zaczely-sie-zniwa.json"

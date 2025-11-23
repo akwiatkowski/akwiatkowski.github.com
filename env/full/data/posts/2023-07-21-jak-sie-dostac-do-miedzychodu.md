@@ -16,7 +16,7 @@ towns:                  [lubuskie, wielkopolskie, miedzyrzecz, przytoczna, miedz
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2023-07-21-jak-sie-dostac-do-miedzychodu.json"
 coords_type:            "bicycle"
-map_zooms:              11
+map_zooms:              10
 distance:               73
 time_spent:             6
 elevation:              319

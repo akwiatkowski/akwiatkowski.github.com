@@ -11,12 +11,12 @@ categories:             trip
 image_filename:         2025_07_12__12_16_P7120216.jpg
 image_position:         50% 40%
 tags:                   [bicycle, bikepacking, main, best]
-towns:                  [warminsko_mazorskie, pieniezno, lelkowo, gorowo_ilawieckie, bartoszyce]
+towns:                  [warminsko_mazurskie, pieniezno, lelkowo, gorowo_ilawieckie, bartoszyce]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2025-07-12-pod-granice-z-rosja.json"
 coords_type:            "bicycle"
-map_zooms:              11
+map_zooms:              10
 distance:               69
 time_spent:             8
 elevation:              501

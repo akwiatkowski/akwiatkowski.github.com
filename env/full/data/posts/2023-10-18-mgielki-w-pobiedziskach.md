@@ -49,7 +49,7 @@ Pojawiła się obiecująca prognoza pogody i dlatego ruszyłem pociągiem rano.
 Wybrałem [Pobiedziska][wiki-pobiedziska] gdyż jest tam kilka ciekawych
 jezior.
 
-{% photo "2023_10_18__08_04_DJI_0142","Jezioro Małe" %}
+{% photo "2023_10_18__08_04_DJI_0142.jpg","Jezioro Małe" %}
 
 Gdy wysiadłem ze stacji ruszyłem w stronę centrum. Sam rynek jest ładny ale
 tego dnia nie był dla mnie istotnym punktem.
@@ -57,13 +57,13 @@ tego dnia nie był dla mnie istotnym punktem.
 Chciałem przedostać się w stronę Jeziora Małego. Tam zobaczyłem, że warunki
 pogodowe są naprawdę dobre. Parujące jezioro zamienia się w mgłę.
 
-{% photo "2023_10_18__08_08_DJI_0156","Budynki w mgłach" %}
+{% photo "2023_10_18__08_08_DJI_0156.jpg","Budynki w mgłach" %}
 
 Jednak z drugiej strony miałem problem idealnie wykorzystać zastane warunki.
 Wydaje mi się, że lepiej by było gdybym był wcześniej. To potwierdziło się
 dopiero później, pod koniec tego porannego spaceru.
 
-{% photo "2023_10_18__08_11_DJI_0165","Woda, budynki i mgły" %}
+{% photo "2023_10_18__08_11_DJI_0165.jpg","Woda, budynki i mgły" %}
 
 Co ciekawe mgieł nie było w mieście. One pojawiały się dopiero przy zbiornikach
 wodnych.
@@ -72,17 +72,17 @@ Pierwszy lot miałem w okolicy parkingu prze Jeziorze Małym. Jest to ładne mie
 ale trochę blisko zabudowań i centrum. Zaciekawiły mnie dalsze tereny i
 postanowiłem pójść dalej ulicą Klasztorną.
 
-{% photo "2023_10_18__08_11_DJI_0166","W centrum mgieł brak" %}
+{% photo "2023_10_18__08_11_DJI_0166.jpg","W centrum mgieł brak" %}
 
 Drugi lot wykonałem skupiając się na drugim jeziorze - Dobrym. Chciałem zobaczyć
 co jest dalej i poszedłem na kraniec [Pobiedzisk][wiki-pobiedziska].
 
-{% photo "2023_10_18__08_22_DJI_0176","Jezioro Dobre" %}
+{% photo "2023_10_18__08_22_DJI_0176.jpg","Jezioro Dobre" %}
 
 Widziałem delikatne mgły na horyzoncie ale nie miałem czasu aby iść dalej. A wraz
 z podnoszącym się słońcem wzrastała temperatura. Mgiełki z jezior powoli znikały.
 
-{% photo "2023_10_18__08_27_DJI_0193","Droga do Zbierkowa" %}
+{% photo "2023_10_18__08_27_DJI_0193.jpg","Droga do Zbierkowa" %}
 
 Dlatego właśnie wydawało mi się, że byłem zbyt późno. Nie zmienia to faktu,
 że byłem bardzo zadowolony z tego wyjścia.

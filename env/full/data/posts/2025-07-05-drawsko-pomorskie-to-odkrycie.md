@@ -57,7 +57,7 @@ strava:
 [wiki-cianowo]: https://pl.wikipedia.org/wiki/Cianowo
 [wiki-kumki]: https://pl.wikipedia.org/wiki/Kumki
 [wiki-rydzewo]: https://pl.wikipedia.org/wiki/Rydzewo_(wojew%C3%B3dztwo_zachodniopomorskie)
-[wiki-zajezierza]: https://pl.wikipedia.org/wiki/Zajezierze_(wojew%C3%B3dztwo_zachodniopomorskie)
+[wiki-zajezierze]: https://pl.wikipedia.org/wiki/Zajezierze_(wojew%C3%B3dztwo_zachodniopomorskie)
 
 ## Wstęp
 
@@ -117,7 +117,7 @@ wypraszać z pociągu.
 ### Ruszamy
 
 Chciałem rozpocząć jazdę w [Ziemomyślu][wiki-ziemomysl] gdyż
-[w 2019 roku]{% post_url 2019-08-03-suche-i-mokre-zachodniopomorskie %}
+[w 2019 roku]({% post_url 2019-08-03-suche-i-mokre-zachodniopomorskie %})
 jechałem z tego miejsca w przeciwnym kierunku.
 
 {% photo "2025_07_05__10_48_P7050513.jpg","Stary sklep w Linówku" %}
@@ -125,7 +125,7 @@ jechałem z tego miejsca w przeciwnym kierunku.
 Pierwszym celem było [Ińsko][wiki-insko] i nie jestem pewien czy była to dobra
 decyzja. Zaletą tego jest możliwość zjedzenia obiadu, bo jest to istotna miejscowość.
 Chciałem też Maciejowi pokazać wieżę widokową i okolicę jeziora, które
-[też w 2019 roku]{% post_url 2019-08-24-dojazd-w-inski-park-krajobrazowy %}
+[też w 2019 roku]({% post_url 2019-08-24-dojazd-w-inski-park-krajobrazowy %})
 zobaczyłem pierwszy raz.
 
 {% photo "2025_07_05__11_27_P7050517.jpg","Ińsko z wieży" %}
@@ -155,7 +155,7 @@ Dotarliśmy do rzeki [Ina][wiki-ina-rzeka] gdzie okazało się, że most
 został spalony. Na szczęście mogliśmy przeprowadzić rowery i most nie był
 najgorszym mostem przez jaki przechodziłem.
 Pamiętam przejście przez rzekę [Bystrzycę][wiki-bystrzyca-rzeka]
-w [2018 roku]{% post_url 2018-07-07-plasko-zle-gory-zle %}.
+w [2018 roku]({% post_url 2018-07-07-plasko-zle-gory-zle %}).
 
 {% photo "2025_07_05__12_16_P7050545.jpg","Pola obok Wiewiecka","tag:timeline" %}
 
@@ -253,7 +253,7 @@ wybierać asfaltów (jeszcze).
 {% photo "2025_07_05__16_27_P7050673.jpg","Trzy albo pięć drzew" %}
 
 Dotarliśmy do [Rydzewa][wiki-rydzewo] gdzie byłem pierwszy raz
-w [2019 roku]{% post_url 2019-07-13-okolice-drawskiego-parku-krajobrazowego %}.
+w [2019 roku]({% post_url 2019-07-13-okolice-drawskiego-parku-krajobrazowego %}).
 Teraz musieliśmy jakoś wrócić do [Drawska][wiki-drawsko-pomorskie].
 Najlepszą opcją było jechać w stronę [Kumek][wiki-kumki].
 
