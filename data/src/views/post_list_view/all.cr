@@ -1,0 +1,11 @@
+require "./home_masonry_view"
+require "./home_new_view"
+require "./tag_masonry_view"
+require "./tag_list_view"
+require "./town_masonry_view"
+require "./town_list_view"
+require "./voivodeship_masonry_view"
+require "./voivodeship_list_view"
+require "./land_masonry_view"
+require "./land_list_view"
+# TODO: add more requires here and only require it

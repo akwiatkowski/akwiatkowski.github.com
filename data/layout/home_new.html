@@ -1,0 +1,205 @@
+<div class="container">
+    <div id="posts-container">
+        <div class="loading-state">Wczytywanie wpisów</div>
+    </div>
+</div>
+
+    <script>
+        // State management using in-memory variables
+        let postsData = [];
+        const TAG_TRANSLATIONS = {
+          main: "Polecane",
+          hike: "Pieszo",
+          bicycle: "Rowerem",
+          best: "Najlepsze",
+          photo: "Zdjęcie",
+          photo_of_the_year: "Zdjęcie roku",
+          mountains: "Góry",
+          todo: "Do zrobienia",
+          air: "Dronem",
+          gravel: "Gravel",
+          road: "Szosa",
+          forest: "Las",
+          lakes: "Jeziora",
+          urban: "Miasto",
+          winter: "Zima",
+          bikepacking: "Bikepacking",
+          chillout: "Na spokojnie",
+          panniers: "Z sakwami",
+          bus: "Autobusem",
+          car: "Samochodem"
+        };
+        const CATEGORY_TRANSLATIONS = {
+          trip: "Wyprawa"
+        };
+        const FILTER_TAG = "main"; // Only show posts with this tag
+
+        // Sample data inline fallback if no payload.json is available
+        const SAMPLE_POSTS = [];
+
+        // Fetch and display posts
+        async function loadPosts() {
+            const container = document.getElementById('posts-container');
+            let posts;
+            let tags;
+            try {
+                const response = await fetch('/payload.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+                posts = (data.posts || []).filter(p => p.visible && p.ready && (p.tags||[]).includes(FILTER_TAG));
+                tags = data.tags;
+            } catch (error) {
+                // fall back to sample data if fetch fails
+                posts = SAMPLE_POSTS.filter(p => p.visible && p.ready && (p.tags||[]).includes(FILTER_TAG));
+            }
+            // always sort by date (descending, newest first)
+            posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+            postsData = posts;
+            container.innerHTML = '';
+
+            // set up lazy rendering
+            setupLazyRender(postsData, tags);
+        }
+
+        // Incremental/lazy rendering states
+        let renderedCount = 0;
+        const PAGE_SIZE = 12; // render batches of 12
+        let observer = null;
+
+        function setupLazyRender(postsArr, tags) {
+            const container = document.getElementById('posts-container');
+            const grid = document.createElement('div');
+            grid.className = 'posts-grid';
+            container.appendChild(grid);
+
+            renderedCount = 0;
+            renderBatch(postsArr, grid, PAGE_SIZE, tags);
+            setupScrollObserver(postsArr, grid, tags);
+        }
+
+        function setupScrollObserver(postsArr, grid, tags) {
+            const sentinel = document.createElement('div');
+            sentinel.id = 'scroll-sentinel';
+            sentinel.style.height = '1px';
+            grid.appendChild(sentinel);
+
+            if(observer) observer.disconnect();
+            observer = new window.IntersectionObserver(entries => {
+                entries.forEach(entry => {
+                    if(entry.isIntersecting && renderedCount < postsArr.length) {
+                        renderBatch(postsArr, grid, PAGE_SIZE, tags);
+                    }
+                });
+            }, { rootMargin: '700px' });
+            observer.observe(sentinel);
+        }
+
+        function renderBatch(postsArr, grid, batchSize, tags) {
+            const nextIdx = Math.min(renderedCount + batchSize, postsArr.length);
+            for(let i = renderedCount; i < nextIdx; ++i) {
+                const card = createPostCard(postsArr[i], tags);
+                grid.insertBefore(card, document.getElementById('scroll-sentinel'));
+            }
+            renderedCount = nextIdx;
+        }
+
+        // Create a post card element
+        function createPostCard(post, tags) {
+            const card = document.createElement('article');
+            card.className = 'post-card';
+
+            // Determine primary activity type
+            const activityType = getActivityType(post.tags || []);
+
+            // Format date
+            const formattedDate = formatDate(post.date);
+
+            card.innerHTML = `
+                <div class="post-image-container">
+                    <img src="${post.small_image_url}" alt="${escapeHtml(post.title)}" class="post-image" loading="lazy">
+                </div>
+                <div class="post-overlay">
+                    <h2 class="post-title">
+                        <a href="${post.url}">${escapeHtml(post.title)}</a>
+                    </h2>
+                    ${post.subtitle ? `<p class="post-subtitle">${escapeHtml(post.subtitle)}</p>` : ''}
+                </div>
+                <div class="post-overlay-bottom">
+                    ${renderStats(post)}
+                    <div class="post-tags">
+                        ${renderTags(post.tags || [], tags)}
+                    </div>
+                </div>
+                <div class="post-overlay-top-corner">
+                    <div class="post-date">
+                        ${escapeHtml(post.date)}
+                    </div>
+                </div>
+            `;
+
+            return card;
+        }
+
+        // Render post statistics
+        function renderStats(post) {
+            const stats = [];
+
+            if (post.distace && post.distace > 0) {
+                stats.push(`
+                    <div class="stat-item">
+                        <span class="icon-distance"></span>
+                        <span>${post.distace} km</span>
+                    </div>
+                `);
+            }
+
+            if (post.time_spent && post.time_spent > 0) {
+                stats.push(`
+                    <div class="stat-item">
+                        <span class="icon-time"></span>
+                        <span>${post.time_spent}h</span>
+                    </div>
+                `);
+            }
+
+            return stats.length > 0 ? `<div class="post-stats">${stats.join('')}</div>` : '';
+        }
+
+        // Render tags
+        function renderTags(postTags, tags) {
+            return postTags.map(tag => {
+                const tagObj = tags.find(t => t.slug === tag);
+                const tagClass = `tag tag-${tag.toLowerCase()}`;
+                const tagSlug = tag.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+                const tagLabel = tagObj.name;// TAG_TRANSLATIONS[tag] || tag;
+                return `<a href="/tag/${tagSlug}/" class="${tagClass}" target="_blank">${escapeHtml(tagLabel)}</a>`;
+            }).join('');
+        }
+
+        // Get primary activity type from tags
+        function getActivityType(tags) {
+            if (tags.includes('bicycle')) return 'bicycle';
+            if (tags.includes('hike')) return 'hike';
+            if (tags.includes('photo')) return 'photo';
+            return null;
+        }
+
+        // Format ISO date to readable format
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            return date.toLocaleDateString('pl-PL', options);
+        }
+
+        // Escape HTML to prevent XSS
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Load posts when page loads
+        document.addEventListener('DOMContentLoaded', loadPosts);
+    </script>
