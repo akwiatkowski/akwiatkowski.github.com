@@ -1,10 +1,12 @@
 require "../views/special_view/payload_json_generator"
+require "../views/special_view/ideas_json_generator"
 require "../views/special_view/rss_generator"
 require "../views/special_view/atom_generator"
 
 module RendererMixin::RenderSpecial
   def render_all_special_views_post_and_yaml_related
     render_payload_json
+    render_ideas_json
     render_rss
     render_atom
   end
@@ -16,7 +18,13 @@ module RendererMixin::RenderSpecial
 
   def render_payload_json
     write_output(
-      SpecialView::PayloadJsonGenerator.new(blog: @blog, url: "/payload.json")
+      SpecialView::PayloadJsonGenerator.new(blog: @blog)
+    )
+  end
+
+  def render_ideas_json
+    write_output(
+      SpecialView::IdeasJsonGenerator.new(blog: @blog)
     )
   end
 

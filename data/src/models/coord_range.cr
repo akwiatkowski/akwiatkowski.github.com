@@ -62,6 +62,10 @@ struct CoordRange
     )
   end
 
+  def self.within_poland?(lat : Float64, lon : Float64)
+    poland_area.is_within?(lat: lat, lon: lon)
+  end
+
   def +(coord_range : CoordRange)
     self.enlarge!(
       [coord_range.lat_from, coord_range.lat_to].min,

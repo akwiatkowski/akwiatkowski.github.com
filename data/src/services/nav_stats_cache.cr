@@ -152,7 +152,7 @@ class NavStatsCache
       if count >= ignore_less_than
         nav_array << NavStatsCacheObject::EntityNavTuple.new(
           name: model.name,
-          url: model.masonry_url,
+          url: model.view_url,
           count: count,
         )
       end

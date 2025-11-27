@@ -57,8 +57,12 @@ struct TownEntity
     return @type == "voivodeship"
   end
 
+  def view_url
+    return "/town/#{@slug}.html"
+  end
+
   def list_url
-    return "/town/#{@slug}"
+    return "/town/#{@slug}/old.html"
   end
 
   def masonry_url

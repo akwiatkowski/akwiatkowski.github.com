@@ -1,4 +1,4 @@
-require "../views/post_list_view/home_masonry_view"
+require "../views/post_list_view/all"
 require "../views/static_view/map_view"
 require "../views/dynamic_view/summary_view"
 require "../views/dynamic_view/timeline_view"
@@ -11,6 +11,15 @@ module RendererMixin::RenderFast
   def render_home
     write_output(
       PostListView::HomeMasonryView.new(
+        blog: blog,
+        url: "/old"
+      )
+    )
+  end
+
+  def render_home_new
+    write_output(
+      PostListView::CollectionDynamicView.new(
         blog: blog,
         url: "/"
       )

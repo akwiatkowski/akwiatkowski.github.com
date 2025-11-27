@@ -1,7 +1,7 @@
 require "./abstract_list_view"
 
 module PostListView
-  class LandListView < AbstractListView
+  class LandListView < AbstractListView # DEPRECATED
     Log = ::Log.for(self)
 
     @preselected_size : Int32?

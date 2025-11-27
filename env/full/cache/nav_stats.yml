@@ -1,127 +1,130 @@
 ---
-bicycle_distance: 15201
-bicycle_time_length: 1525
-bicycle_count: 282
-hike_distance: 2560
-hike_time_length: 1136
-hike_count: 246
-train_distance: 5803
-train_time_length: 198
-train_count: 29
-self_distance: 17761
-self_time_length: 2661
-updated_at: 2024-11-03 21:08:35.560701121+01:00
+bicycle_distance: 15658
+bicycle_time_length: 1569
+bicycle_count: 293
+hike_distance: 2619
+hike_time_length: 1160
+hike_count: 256
+train_distance: 5918
+train_time_length: 203
+train_count: 32
+self_distance: 18277
+self_time_length: 2729
+updated_at: 2025-11-27 16:53:43.449254000+01:00
 voivodeships_nav:
 - name: Dolnośląskie
-  url: /voivodeship/dolnoslaskie/masonry.html
-  count: 134
+  url: /voivodeship/dolnoslaskie.html
+  count: 136
 - name: Kujawsko-pomorskie
-  url: /voivodeship/kujawsko_pomorskie/masonry.html
-  count: 43
+  url: /voivodeship/kujawsko_pomorskie.html
+  count: 46
 - name: Łódzkie
-  url: /voivodeship/lodzkie/masonry.html
+  url: /voivodeship/lodzkie.html
   count: 4
 - name: Lubuskie
-  url: /voivodeship/lubuskie/masonry.html
+  url: /voivodeship/lubuskie.html
   count: 36
 - name: Małopolskie
-  url: /voivodeship/malopolskie/masonry.html
-  count: 34
+  url: /voivodeship/malopolskie.html
+  count: 35
+- name: Mazowieckie
+  url: /voivodeship/mazowieckie.html
+  count: 2
 - name: Opolskie
-  url: /voivodeship/opolskie/masonry.html
-  count: 5
+  url: /voivodeship/opolskie.html
+  count: 6
 - name: Podkarpackie
-  url: /voivodeship/podkarpackie/masonry.html
+  url: /voivodeship/podkarpackie.html
   count: 14
 - name: Podlaskie
-  url: /voivodeship/podlaskie/masonry.html
+  url: /voivodeship/podlaskie.html
   count: 14
 - name: Pomorskie
-  url: /voivodeship/pomorskie/masonry.html
-  count: 45
+  url: /voivodeship/pomorskie.html
+  count: 46
 - name: Śląskie
-  url: /voivodeship/slaskie/masonry.html
+  url: /voivodeship/slaskie.html
   count: 9
 - name: Warmińsko-mazurskie
-  url: /voivodeship/warminsko_mazurskie/masonry.html
-  count: 17
+  url: /voivodeship/warminsko_mazurskie.html
+  count: 21
 - name: Wielkopolskie
-  url: /voivodeship/wielkopolskie/masonry.html
-  count: 189
+  url: /voivodeship/wielkopolskie.html
+  count: 195
 - name: Zachodnio-pomorskie
-  url: /voivodeship/zachodnio_pomorskie/masonry.html
-  count: 33
+  url: /voivodeship/zachodnio_pomorskie.html
+  count: 35
 lands_nav:
 - name: Karkonosze
-  url: /land/karkonosze/masonry.html
+  url: /land/karkonosze.html
   count: 24
 - name: Rudawy Janowickie
-  url: /land/rudawy_janowickie/masonry.html
+  url: /land/rudawy_janowickie.html
   count: 17
 - name: Beskid Niski
-  url: /land/beskid_niski/masonry.html
+  url: /land/beskid_niski.html
   count: 16
 - name: Gorce
-  url: /land/gorce/masonry.html
+  url: /land/gorce.html
   count: 10
 - name: Pojezierze Poznańskie
-  url: /land/pojezierze_poznanskie/masonry.html
+  url: /land/pojezierze_poznanskie.html
   count: 9
 - name: Góry Izerskie
-  url: /land/gory_izerskie/masonry.html
+  url: /land/gory_izerskie.html
   count: 8
 - name: Masyw Śnieżnika
-  url: /land/masyw_snieznika/masonry.html
+  url: /land/masyw_snieznika.html
   count: 8
 - name: Góry Kaczawskie
-  url: /land/gory_kaczawskie/masonry.html
+  url: /land/gory_kaczawskie.html
   count: 7
 - name: Tatry
-  url: /land/tatry/masonry.html
+  url: /land/tatry.html
   count: 7
 - name: Kotlina Kłodzka
-  url: /land/kotlina_klodzka/masonry.html
+  url: /land/kotlina_klodzka.html
   count: 7
 - name: Pojezierza Pomorskie
-  url: /land/pojezierza_pomorskie/masonry.html
+  url: /land/pojezierza_pomorskie.html
   count: 6
 - name: Góry Sowie
-  url: /land/gory_sowie/masonry.html
+  url: /land/gory_sowie.html
   count: 5
 - name: Góry Stołowe
-  url: /land/gory_stolowe/masonry.html
+  url: /land/gory_stolowe.html
   count: 4
 - name: Góry Bystrzyckie
-  url: /land/gory_bystrzyckie/masonry.html
+  url: /land/gory_bystrzyckie.html
   count: 4
 - name: Beskid Sądecki
-  url: /land/beskid_sadecki/masonry.html
+  url: /land/beskid_sadecki.html
   count: 4
 - name: Drawski Park Krajobrazy
-  url: /land/drawski_park_krajobrazowy/masonry.html
+  url: /land/drawski_park_krajobrazowy.html
   count: 4
 tags_nav:
 - name: Najlepsze
-  url: /tag/best/masonry.html
-  count: 111
-- name: Rower
-  url: /tag/bicycle/masonry.html
-  count: 247
+  url: /tag/best.html
+  count: 114
+- name: Rowerem
+  url: /tag/bicycle.html
+  count: 256
 - name: Pieszo
-  url: /tag/hike/masonry.html
-  count: 190
+  url: /tag/hike.html
+  count: 192
 - name: Kolejowe
-  url: /tag/train/masonry.html
-  count: 21
+  url: /tag/train.html
+  count: 23
 - name: Zdjęcia
-  url: /tag/photo/masonry.html
+  url: /tag/photo.html
   count: 107
 - name: Góry
-  url: /tag/mountains/masonry.html
+  url: /tag/mountains.html
   count: 105
 - name: Zdjęcie roku
-  url: /tag/photo_of_the_year/masonry.html
-  count: 13
+  url: /tag/photo_of_the_year.html
+  count: 14
 - name: Bikepacking
-  url: /tag/bikepacking/masonry.html
-  count: 4
+  url: /tag/bikepacking.html
+  count: 8

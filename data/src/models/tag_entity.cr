@@ -17,8 +17,12 @@ struct TagEntity
     return self.is_nav
   end
 
+  def view_url
+    "/tag/#{@slug}.html"
+  end
+
   def list_url
-    "/tag/#{@slug}"
+    "/tag/#{@slug}/old.html"
   end
 
   def masonry_url

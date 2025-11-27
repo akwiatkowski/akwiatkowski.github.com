@@ -1,6 +1,4 @@
-require "../views/post_list_view/land_list_view"
-require "../views/post_list_view/land_masonry_view"
-
+require "../views/post_list_view/all"
 require "../views/model_view/lands_index_view"
 
 module RendererMixin::RenderLands
@@ -22,7 +20,8 @@ module RendererMixin::RenderLands
   end
 
   def render_land_page(land)
-    write_output(PostListView::LandListView.new(blog: blog, land: land))
-    write_output(PostListView::LandMasonryView.new(blog: blog, land: land))
+    write_output(PostListView::LandDynamicView.new(blog: blog, land: land))
+    # write_output(PostListView::LandListView.new(blog: blog, land: land)) # TODO: deprecated
+    # write_output(PostListView::LandMasonryView.new(blog: blog, land: land)) # TODO: deprecated
   end
 end

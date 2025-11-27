@@ -11,6 +11,7 @@ module RendererMixin::RenderOveralls
 
   def render_all_views_post_related
     render_home
+    render_home_new
     render_map
     render_pois
   end

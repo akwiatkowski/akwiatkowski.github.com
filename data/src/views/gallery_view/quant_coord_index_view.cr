@@ -77,8 +77,7 @@ module GalleryView
 
             s << "<td class=\"coord-photo-cell #{additional_css_class}\" style=\"#{additional_css_style}\" title=\"#{town_name}\">"
             if exists
-              # TODO: use url from renderers
-              s << "<a href=\"/gallery/coord/#{lat},#{lon}\">"
+              s << "<a href=\"#{renderer.not_nil!.url}\">"
               s << "<img src=\"/img/blank.gif\" class=\"coord-photo-cell-blank-link\">"
               s << "</a>"
             end

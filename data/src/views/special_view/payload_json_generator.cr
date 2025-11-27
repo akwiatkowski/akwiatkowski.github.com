@@ -4,7 +4,10 @@ module SpecialView
   class PayloadJsonGenerator < Tremolite::Views::AbstractView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url : String)
+    def initialize(
+      @blog : Tremolite::Blog,
+      @url : String = "/payload.json",
+    )
     end
 
     getter :url
@@ -29,6 +32,9 @@ module SpecialView
                   json.field("url", post.url)
                   json.field("slug", post.slug)
                   json.field("title", post.title)
+                  json.field("subtitle", post.subtitle)
+                  json.field("visible", post.visible?)
+                  json.field("ready", post.ready?)
                   json.field("category", post.category)
                   json.field("date", post.date)
                   json.field("distace", post.distance)
@@ -37,7 +43,6 @@ module SpecialView
                   # json.field("towns_count", post.towns.size)
                   json.field("year", post.time.year)
                   json.field("month", post.time.month)
-                  json.field("header-ext-img", post.image_url)
                   json.field("image_url", post.image_url)
                   json.field("small_image_url", post.small_image_url)
 
@@ -63,7 +68,7 @@ module SpecialView
             json.array do
               @blog.data_manager.not_nil!.towns.not_nil!.each do |town|
                 json.object do
-                  json.field("url", town.list_url)
+                  json.field("url", town.view_url)
                   json.field("slug", town.slug)
                   json.field("name", town.name)
                   json.field("header-ext-img", town.image_url)
@@ -80,7 +85,7 @@ module SpecialView
             json.array do
               @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
                 json.object do
-                  json.field("url", voivodeship.list_url)
+                  json.field("url", voivodeship.view_url)
                   json.field("slug", voivodeship.slug)
                   json.field("name", voivodeship.name)
                   json.field("header-ext-img", voivodeship.image_url)
@@ -95,7 +100,7 @@ module SpecialView
             json.array do
               @blog.data_manager.not_nil!.tags.not_nil!.each do |tag|
                 json.object do
-                  json.field("url", tag.list_url)
+                  json.field("url", tag.view_url)
                   json.field("slug", tag.slug)
                   json.field("name", tag.name)
                   json.field("header-ext-img", tag.image_url)
@@ -110,7 +115,7 @@ module SpecialView
             json.array do
               @blog.data_manager.not_nil!.lands.not_nil!.each do |land|
                 json.object do
-                  json.field("url", land.list_url)
+                  json.field("url", land.view_url)
                   json.field("slug", land.slug)
                   json.field("name", land.name)
                   json.field("header-ext-img", land.image_url)

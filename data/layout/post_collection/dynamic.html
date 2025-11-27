@@ -1,4 +1,4 @@
-<div class="container">
+<div class="post-collection-container">
     <div id="posts-container">
         <div class="loading-state">Wczytywanie wpisów</div>
     </div>
@@ -7,32 +7,12 @@
     <script>
         // State management using in-memory variables
         let postsData = [];
-        const TAG_TRANSLATIONS = {
-          main: "Polecane",
-          hike: "Pieszo",
-          bicycle: "Rowerem",
-          best: "Najlepsze",
-          photo: "Zdjęcie",
-          photo_of_the_year: "Zdjęcie roku",
-          mountains: "Góry",
-          todo: "Do zrobienia",
-          air: "Dronem",
-          gravel: "Gravel",
-          road: "Szosa",
-          forest: "Las",
-          lakes: "Jeziora",
-          urban: "Miasto",
-          winter: "Zima",
-          bikepacking: "Bikepacking",
-          chillout: "Na spokojnie",
-          panniers: "Z sakwami",
-          bus: "Autobusem",
-          car: "Samochodem"
-        };
         const CATEGORY_TRANSLATIONS = {
           trip: "Wyprawa"
         };
-        const FILTER_TAG = "main"; // Only show posts with this tag
+        // Needed to filter posts to use this view as new index renderer
+        const FILTER_BY = "{{ filter_by }}";
+        const FILTER_VALUE = "{{ filter_value }}";
 
         // Sample data inline fallback if no payload.json is available
         const SAMPLE_POSTS = [];
@@ -48,7 +28,18 @@
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const data = await response.json();
-                posts = (data.posts || []).filter(p => p.visible && p.ready && (p.tags||[]).includes(FILTER_TAG));
+                posts = (data.posts || []).filter(p => p.visible && p.ready);
+
+                if (FILTER_BY === "tag") {
+                  posts = posts.filter(p => (p.tags || []).includes(FILTER_VALUE));
+                }
+                if (FILTER_BY === "town") {
+                  posts = posts.filter(p => (p.towns || []).includes(FILTER_VALUE));
+                }
+                if (FILTER_BY === "land") {
+                  posts = posts.filter(p => (p.lands || []).includes(FILTER_VALUE));
+                }
+
                 tags = data.tags;
             } catch (error) {
                 // fall back to sample data if fetch fails
@@ -99,14 +90,14 @@
         function renderBatch(postsArr, grid, batchSize, tags) {
             const nextIdx = Math.min(renderedCount + batchSize, postsArr.length);
             for(let i = renderedCount; i < nextIdx; ++i) {
-                const card = createPostCard(postsArr[i], tags);
+                const card = createPostCard(postsArr[i], tags, i);
                 grid.insertBefore(card, document.getElementById('scroll-sentinel'));
             }
             renderedCount = nextIdx;
         }
 
         // Create a post card element
-        function createPostCard(post, tags) {
+        function createPostCard(post, tags, index) {
             const card = document.createElement('article');
             card.className = 'post-card';
 
@@ -117,7 +108,7 @@
             const formattedDate = formatDate(post.date);
 
             card.innerHTML = `
-                <div class="post-image-container">
+                <div class="post-image-container" data-post-index="${index}">
                     <img src="${post.small_image_url}" alt="${escapeHtml(post.title)}" class="post-image" loading="lazy">
                 </div>
                 <div class="post-overlay">
@@ -171,10 +162,15 @@
         function renderTags(postTags, tags) {
             return postTags.map(tag => {
                 const tagObj = tags.find(t => t.slug === tag);
-                const tagClass = `tag tag-${tag.toLowerCase()}`;
-                const tagSlug = tag.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-                const tagLabel = tagObj.name;// TAG_TRANSLATIONS[tag] || tag;
-                return `<a href="/tag/${tagSlug}/" class="${tagClass}" target="_blank">${escapeHtml(tagLabel)}</a>`;
+                if (tagObj) {
+                  const tagClass = `tag tag-${tag.toLowerCase()}`;
+                  const tagSlug = tag.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+                  const tagLabel = tagObj.name;
+                  return `<a href="/tag/${tagSlug}/" class="${tagClass}" target="_blank">${escapeHtml(tagLabel)}</a>`;
+                } else {
+                  console.log('Missing tag for', tag);
+                  return "";
+                }
             }).join('');
         }
 

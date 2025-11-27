@@ -44,8 +44,7 @@ struct VoivodeshipEntity
     h = TownEntityHash.new
     unless @slug.nil?
       h["slug"] = @slug.to_s
-      h["url"] = self.list_url
-      h["masonry_url"] = self.masonry_url
+      h["url"] = self.view_url
     end
     h["name"] = @name.to_s unless @name.nil?
     h["type"] = @type.to_s unless @type.nil?
@@ -65,8 +64,12 @@ struct VoivodeshipEntity
     return @country == "Polska"
   end
 
+  def view_url
+    return "/voivodeship/#{@slug}.html"
+  end
+
   def list_url
-    return "/voivodeship/#{@slug}"
+    return "/voivodeship/#{@slug}/list.html"
   end
 
   def masonry_url

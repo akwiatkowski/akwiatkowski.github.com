@@ -22,7 +22,8 @@ module RendererMixin::RenderTowns
   end
 
   def render_town_page(town)
-    write_output(PostListView::TownListView.new(blog: blog, town: town))
-    write_output(PostListView::TownMasonryView.new(blog: blog, town: town))
+    write_output(PostListView::TownDynamicView.new(blog: blog, town: town))
+    # write_output(PostListView::TownListView.new(blog: blog, town: town)) # DEPRECATED
+    # write_output(PostListView::TownMasonryView.new(blog: blog, town: town)) # DEPRECATED
   end
 end

@@ -1,5 +1,4 @@
-require "../views/post_list_view/tag_list_view"
-require "../views/post_list_view/tag_masonry_view"
+require "../views/post_list_view/all"
 
 module RendererMixin::RenderTags
   def render_tags_pages
@@ -15,7 +14,8 @@ module RendererMixin::RenderTags
   end
 
   def render_tag_page(tag)
-    write_output(PostListView::TagListView.new(blog: blog, tag: tag))
-    write_output(PostListView::TagMasonryView.new(blog: blog, tag: tag))
+    write_output(PostListView::TagDynamicView.new(blog: blog, tag: tag))
+    # write_output(PostListView::TagListView.new(blog: blog, tag: tag)) # TODO: deprecated
+    # write_output(PostListView::TagMasonryView.new(blog: blog, tag: tag)) # TODO: deprecated
   end
 end

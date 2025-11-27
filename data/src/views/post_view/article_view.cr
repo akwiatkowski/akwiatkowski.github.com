@@ -85,7 +85,7 @@ module PostView
       @post.tags.not_nil!.each do |tag|
         @blog.data_manager.not_nil!.tags.not_nil!.each do |tag_entity|
           if tag == tag_entity.slug
-            links << "<a href=\"" + tag_entity.list_url + "\">" + tag_entity.name + "</a>"
+            links << "<a href=\"" + tag_entity.view_url + "\">" + tag_entity.name + "</a>"
           end
         end
       end
@@ -105,7 +105,7 @@ module PostView
       @post.lands.not_nil!.each do |land|
         @blog.data_manager.not_nil!.lands.not_nil!.each do |land_entity|
           if land == land_entity.slug
-            links << "<a href=\"" + land_entity.list_url + "\">" + land_entity.name + "</a>"
+            links << "<a href=\"" + land_entity.view_url + "\">" + land_entity.name + "</a>"
           end
         end
       end
@@ -125,7 +125,7 @@ module PostView
       @post.towns.not_nil!.each do |town|
         town_entities = @blog.data_manager.not_nil!.towns.not_nil!.select { |town_entity| town == town_entity.slug }
         town_entities.each do |town_entity|
-          links << "<a href=\"" + town_entity.list_url + "\">" + town_entity.name + "</a>"
+          links << "<a href=\"" + town_entity.view_url + "\">" + town_entity.name + "</a>"
         end
       end
       if links.size > 0
@@ -144,7 +144,7 @@ module PostView
       @post.towns.not_nil!.each do |voivodeship|
         @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship_entity|
           if voivodeship == voivodeship_entity.slug
-            links << "<a href=\"" + voivodeship_entity.list_url + "\">" + voivodeship_entity.name + "</a>"
+            links << "<a href=\"" + voivodeship_entity.view_url + "\">" + voivodeship_entity.name + "</a>"
           end
         end
       end

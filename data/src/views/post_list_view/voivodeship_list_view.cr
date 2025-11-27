@@ -1,7 +1,7 @@
 require "./abstract_list_view"
 
 module PostListView
-  class VoivodeshipListView < AbstractListView
+  class VoivodeshipListView < AbstractListView # DEPRECATED
     Log = ::Log.for(self)
 
     def initialize(@blog : Tremolite::Blog, @voivodeship : VoivodeshipEntity)

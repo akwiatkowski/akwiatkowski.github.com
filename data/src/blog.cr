@@ -7,6 +7,8 @@ require "./validator"
 require "./mod_watcher"
 require "./services/town_photo_cache"
 require "./services/post_coord_quant_cache"
+require "./services/external_gpx_preprocessor"
+require "./services/tools/all"
 
 class Tremolite::Blog
   def mod_watcher_summary
@@ -240,6 +242,7 @@ class Tremolite::Blog
     renderer.render_fast_static_renders
   end
 
+  # TODO check if it's used
   def routes_path
     @routes_path ||= File.join(
       [

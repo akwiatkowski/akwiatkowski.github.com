@@ -32,7 +32,7 @@ module ModelView
     end
 
     def town_element(town)
-      s = "<li><a href=\"#{town.list_url}\">#{town.name}</a>"
+      s = "<li><a href=\"#{town.view_url}\">#{town.name}</a>"
 
       if town.lat && town.lon
         # s += "<a class=\"small\" href"

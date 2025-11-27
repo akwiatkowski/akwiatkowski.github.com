@@ -17,9 +17,6 @@ struct LandEntity
   def initialize(y : YAML::Any)
     @slug = y["slug"].to_s
     @name = y["name"].to_s
-    if y["header-ext-img"]?
-      @header_ext_img = y["header-ext-img"].to_s
-    end
     if y["header_img"]?
       @header_img = y["header_img"].to_s
     end
@@ -46,8 +43,12 @@ struct LandEntity
     end
   end
 
+  def view_url
+    "/land/#{@slug}.html"
+  end
+
   def list_url
-    "/land/#{@slug}"
+    "/land/#{@slug}/list.html"
   end
 
   def masonry_url

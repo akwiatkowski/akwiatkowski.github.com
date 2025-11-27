@@ -29,7 +29,7 @@ module GalleryView
       @subtitle = "#{count_sum} zdjęć"
       @title = "Współrzędne"
 
-      @url = "/gallery/coord/"
+      @url = "/gallery/coord/2.html" # TODO
     end
   end
 end

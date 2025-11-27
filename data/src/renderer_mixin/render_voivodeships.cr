@@ -1,5 +1,4 @@
-require "../views/post_list_view/voivodeship_list_view"
-require "../views/post_list_view/voivodeship_masonry_view"
+require "../views/post_list_view/all"
 
 module RendererMixin::RenderVoivodeships
   def render_voivodeships_pages
@@ -15,7 +14,8 @@ module RendererMixin::RenderVoivodeships
   end
 
   def render_voivodeship_page(voivodeship)
-    write_output(PostListView::VoivodeshipListView.new(blog: blog, voivodeship: voivodeship))
-    write_output(PostListView::VoivodeshipMasonryView.new(blog: blog, voivodeship: voivodeship))
+    write_output(PostListView::VoivodeshipDynamicView.new(blog: blog, voivodeship: voivodeship))
+    # write_output(PostListView::VoivodeshipListView.new(blog: blog, voivodeship: voivodeship)) # TODO: deprecated
+    # write_output(PostListView::VoivodeshipMasonryView.new(blog: blog, voivodeship: voivodeship)) # TODO: deprecated
   end
 end

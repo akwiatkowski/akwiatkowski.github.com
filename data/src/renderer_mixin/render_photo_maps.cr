@@ -294,7 +294,7 @@ module RendererMixin::RenderPhotoMaps
   end
 
   def render_photo_maps_debug_post
-    sleep 0.01
+    # sleep 0.01
     puts "DEBUG"
     slug = "2021-09-26-rowerem-wokol-jeziora-kowalskiego"
     post = @blog.post_collection.posts.not_nil!.select do |post|
@@ -304,7 +304,7 @@ module RendererMixin::RenderPhotoMaps
     render_big_photo_map_for_post(post)
     render_small_photo_map_for_post(post)
     puts "SLEEPING"
-    sleep 500
+    # sleep 500
   end
 
   def render_photo_maps_debug_voivodeship
@@ -313,7 +313,7 @@ module RendererMixin::RenderPhotoMaps
       next unless voivodeship.slug == "wielkopolskie"
       render_photo_map_for_voivodeship(voivodeship)
       puts "SLEEPING"
-      sleep 5
+      # sleep 5
     end
   end
 end
