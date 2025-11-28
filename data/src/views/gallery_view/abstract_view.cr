@@ -91,47 +91,26 @@ module GalleryView
       end
     end
 
-    # photos will be rendered not within `container` class
-    def page_article_html
-      return String.build do |s|
-        s << photos_html
-        s << bottom_html
-        s << js_gallery_html
-      end
-    end
+    def to_html
+      data = Hash(String, String).new
+      data["json.items"] = @photo_entities.reverse.map do |photo_entity|
+        photo_entity.hash_for_partial
+      end.to_json
+      data["title"] = title
 
-    # in post gallery there are added buttons to next,prev post
-    def bottom_html
-      return ""
-    end
+      return load_html("gallery/gallery_dynamic", data)
 
-    def inner_html
-      return photos
-    end
-
-    def photos_html
-      return String.build do |s|
-        # noticed that `d-inline-flex` remove center align
-        # `lg-enabled` enable light gallery for all
-        s << "<div class=\"gallery-container flex-wrap lg-enabled\">\n"
-
-        pes = @photo_entities
-        pes = pes.reverse if @reverse == true
-        pes.each do |photo_entity|
-          s << load_html("gallery/gallery_post_image", photo_entity.hash_for_partial)
-        end
-
-        s << "</div>\n"
-      end
-    end
-
-    def js_gallery_html
-      return "
-        <script type=\"text/javascript\">
-          $(document).ready(function () {
-            galleryMasonry();
-          });
-        </script>"
+      # return top_html +
+      #   head_open_html +
+      #   title_html +
+      #   tracking_html +
+      #   head_close_html +
+      #   open_body_html +
+      #   nav_html +
+      #   content +
+      #   footer_html +
+      #   close_body_html +
+      #   close_html_html
     end
   end
 end
