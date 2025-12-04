@@ -1,4 +1,4 @@
-require "../../crystal/tremolite/src/tremolite"
+require "../../tremolite/src/tremolite"
 require "../data/src/blog"
 
 require "../data/src/services/map/base"
@@ -11,7 +11,7 @@ class Commands::GeneratePhotoMap
     @blog = Tremolite::Blog.new(
       mod_watcher_yaml_path: File.join([@env_path, "cache", "mod_watcher.yml"]),
       data_path: File.join([@env_path, "data"]),
-      output_path: File.join([@env_path, "public"]),
+      output_path: File.join([@env_path, "public", "local"]),
       config_path: File.join([@universal_path, "config"]),
       cache_path: File.join([@env_path, "cache"]),
       layout_path: File.join([@universal_path, "layout"]),
@@ -32,19 +32,7 @@ class Commands::GeneratePhotoMap
     map = Map::Main.new(
       posts: [post],
       photos: Array(PhotoEntity).new,
-      autozoom_width: 700,
-      # photo_size: Map::DEFAULT_PHOTO_SIZE,
-      # tile: @tile,
-      # zoom: @zoom,
-      #
-      # # just for this kind of map
-      # post_slugs: [@post.slug],
-      # type: Map::MapType::PhotoDots,
-      # photo_entities: photo_entities,
-      # photo_link_to: Map::MapPhotoLinkTo::LinkToPhoto,
-      # routes_type: Map::MapRoutesType::Static,
-      # coord_range: coord_range,
-      # custom_width: POST_ROUTE_SVG_WIDTH,
+      autozoom_width: 700
     )
     svg = map.to_svg
 
