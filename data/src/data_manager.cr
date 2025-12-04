@@ -1,11 +1,4 @@
-require "./models/town_entity"
-require "./models/voivodeship_entity"
-require "./models/tag_entity"
-require "./models/land_type_entity"
-require "./models/land_entity"
-require "./models/transport_poi_entity"
-require "./models/todo_route_entity"
-require "./models/portfolio_entity"
+require "./models/all"
 
 require "./services/nav_stats_cache"
 require "./services/exif_processor"
@@ -21,11 +14,13 @@ class Tremolite::DataManager
     @town_slugs = Array(String).new
     @voivodeships = Array(VoivodeshipEntity).new
     @tags = Array(TagEntity).new
+    @photo_tags = Array(PhotoTagEntity).new
     @land_types = Array(LandTypeEntity).new
     @lands = Array(LandEntity).new
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
     @portfolios = Array(PortfolioEntity).new
+    @ideas = Array(IdeaEntity).new
 
     @town_photo_cache = TownPhotoCache.new(
       blog: @blog
@@ -53,6 +48,8 @@ class Tremolite::DataManager
   getter :tags
   getter :towns, :town_slugs, :voivodeships
   getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
+  getter :ideas, :photo_tags
+
   getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
   getter :photo_map_dictionary
 
@@ -74,6 +71,22 @@ class Tremolite::DataManager
     load_transport_pois
     load_todo_routes
     load_portfolio
+    load_ideas
+    load_photo_tags
+  end
+
+  def load_ideas
+    Log.debug { "loading ideas" }
+
+    ideas_path = File.join([@data_path, "ideas"])
+    ideas_scan_path = File.join([ideas_path, "*.yaml"])
+    puts ideas_scan_path
+    Dir[ideas_scan_path].each do |f|
+      if File.file?(f)
+        idea = YAML.parse(File.read(f))
+        @ideas.not_nil! << IdeaEntity.new(idea)
+      end
+    end
   end
 
   def load_portfolio
@@ -123,6 +136,16 @@ class Tremolite::DataManager
     YAML.parse(File.read(f)).as_a.each do |land|
       o = LandEntity.new(land)
       @lands.not_nil! << o
+    end
+  end
+
+  def load_photo_tags
+    Log.debug { "loading photo tags" }
+
+    f = File.join([@config_path, "photo_tags.yml"])
+    YAML.parse(File.read(f)).as_a.each do |tag|
+      o = PhotoTagEntity.new(tag)
+      @photo_tags.not_nil! << o
     end
   end
 
