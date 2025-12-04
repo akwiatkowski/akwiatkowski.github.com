@@ -219,8 +219,8 @@ class BaseView < Tremolite::Views::BaseView
 
       if include_latest
         h = Hash(String, String).new
-        h["url"] = PostListView::NewPostsMasonryView::URL
-        h["name"] = "Najnowsze (#{PostListView::NewPostsView::COUNT})"
+        h["url"] = PostListView::NewPostsDynamicView::URL
+        h["name"] = "Najnowsze (#{PostListView::NewPostsDynamicView::COUNT})"
 
         s << load_html("include/category_nav_element", h)
       end
