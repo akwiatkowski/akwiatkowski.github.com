@@ -117,8 +117,9 @@ module RendererMixin::RenderPostRelated
   end
 
   def render_last_updated_posts
-    write_output(PostListView::NewPostsView.new(blog: blog))
-    write_output(PostListView::NewPostsMasonryView.new(blog: blog))
+    write_output(PostListView::NewPostsDynamicView.new(blog: blog))
+    # write_output(PostListView::NewPostsView.new(blog: blog)) # DEPRECATED
+    # write_output(PostListView::NewPostsMasonryView.new(blog: blog)) # DEPRECATED
     Log.info { "New posts rendered" }
   end
 end
