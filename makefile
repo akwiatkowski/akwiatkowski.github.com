@@ -1,93 +1,65 @@
-# aliases
-all_compile: dev_compile_release dev_compile compile_release compile
+PORT := 5001
 
-# dev env
-dev_serve_local:
-	cd env/dev/public/local && npx serve -p 5001
+PUBLIC_PATH_PART := public
+DEV_BASE_PATH := env/dev
+FULL_BASE_PATH := env/full
+DEV_SRC_PATH := $(DEV_BASE_PATH)/src
+FULL_SRC_PATH := $(FULL_BASE_PATH)/src
 
-dev_serve_release:
-	cd env/dev/public/release && npx serve -p 5001
+PYTHON_SERVER := python3 -m http.server $(PORT)
+CRYSTAL_COMMAND := crystal
 
-dev_render_release:
-	crystal env/dev/src/render_release.cr
+RENDER_RELEASE_TARGET_COMMAND_PATH := render_release.cr
+RENDER_LOCAL_TARGET_COMMAND_PATH := render_local.cr
+RUN_LOCAL_TARGET_COMMAND_PATH := run_local.cr
 
-# release is executed once to refresh all parts of website
-# local means using local version of `tremolite` shard
-dev_compile_release:
-	crystal build env/dev/src/run_local_full.cr -o env/dev/blog_release --release
+EXEC_BLOG_LOCAL := blog_local
 
-dev_run_compiled_release:
-	env/dev/blog_release
+COMPILE_LOCAL_RELEASE_FLAG := --release
 
-dev_compile_and_run: dev_clean_compiled dev_compile dev_run_compiled
+.PHONY: dev_serve_local dev_serve_release dev_render_release dev_render_local \
+        serve_local serve_release render_release render_local \
+        compile_local run_compiled_local run_compiled_local_check watch_coffee watch_local_mac
 
-dev_compile:
-	crystal build env/dev/src/run_local.cr -o env/dev/blog --release
-
-dev_compile_fast:
-	crystal build env/dev/src/run_local.cr -o env/dev/blog
-
-dev_run_compiled:
-	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" env/dev/blog
-
-dev_clean_compiled:
-	rm env/dev/blog
-
-dev_watch_smart:
-	bash env/dev/watch_smart.sh
-
-# full env
-serve:
-	cd env/full/public && npx serve -p 5001
-
-release: run_compiled_release
-
-release_ovh:
-	cd env/full && ./release_ovh.sh
-
-render_release:
-	crystal env/full/src/run_local_full.cr
-
-compile_release:
-	crystal build env/full/src/run_local_full.cr -o env/full/blog_release --release
-
-run_compiled_release:
-	env/full/blog_release
-
-compile:
-	crystal build env/full/src/run_local.cr -o env/full/blog --release
-
-run_compiled:
-	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" env/full/blog
-
-watch_smart:
-	# bash env/full/watch_smart.sh
-	bash env/full/watch_smart_mac.sh
-
+# Assets
 watch_coffee:
 	coffee -bcw data/assets/js/*.coffee
 
+# Dev serve targets (dynamic pattern)
+dev-serve-%:
+	cd $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/$* && $(PYTHON_SERVER)
 
-# old stuff
-# watch:
-# 	bash watch.sh
-#
-# watch_dev:
-# 	bash watch_dev.sh
-#
-# watch_compiled:
-# 	bash watch_compiled.sh
-#
-#
-# upload:
-# 	bash release_ovh.sh
-#
-# run:
-# 	crystal src/odkrywajac_polske.cr
-#
-# serve:
-# 	cd public && serve -p 5001
-#
-#
-# compile:
-# 	crystal build src/odkrywajac_polske.cr -o blog --release
+dev-render-release:
+	$(CRYSTAL_COMMAND) $(DEV_SRC_PATH)/$(RENDER_RELEASE_TARGET_COMMAND_PATH)
+
+dev-render-local:
+	$(CRYSTAL_COMMAND) $(DEV_SRC_PATH)/$(RENDER_LOCAL_TARGET_COMMAND_PATH)
+
+# Full env serve targets (dynamic pattern)
+serve-%:
+	cd $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/$* && $(PYTHON_SERVER)
+
+render-release:
+	$(CRYSTAL_COMMAND) $(FULL_SRC_PATH)/$(RENDER_RELEASE_TARGET_COMMAND_PATH)
+
+render_local:
+	$(CRYSTAL_COMMAND) $(FULL_SRC_PATH)/$(RENDER_LOCAL_TARGET_COMMAND_PATH)
+
+# Compile local executable
+compile_local:
+	$(CRYSTAL_COMMAND) build $(FULL_SRC_PATH)/$(RUN_LOCAL_TARGET_COMMAND_PATH) -o $(FULL_BASE_PATH)/$(EXEC_BLOG_LOCAL) $(COMPILE_LOCAL_RELEASE_FLAG)
+
+# Run compiled executable (assumes it's present)
+run_compiled_local:
+	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" $(FULL_BASE_PATH)/$(EXEC_BLOG_LOCAL)
+
+# Run compiled executable with check, compile if missing
+run_compiled_local_check:
+	if [ ! -f $(FULL_BASE_PATH)/$(EXEC_BLOG_LOCAL) ]; then \
+		$(MAKE) compile_local; \
+	fi; \
+	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" $(FULL_BASE_PATH)/$(EXEC_BLOG_LOCAL)
+
+# File watcher for macOS to compile and run with check
+watch_local_mac:
+	watchman-make -p '**/*.cr' '**/*.h' 'Makefile*' -t compile_local -p '**/*.md' 'tests/**/*.c' -t run_compiled_local_check
