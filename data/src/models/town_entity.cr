@@ -58,15 +58,7 @@ struct TownEntity
   end
 
   def view_url
-    return "/town/#{@slug}.html"
-  end
-
-  def list_url
-    return "/town/#{@slug}/old.html"
-  end
-
-  def masonry_url
-    return "/town/#{@slug}/masonry.html"
+    return "/gmina/#{@slug}.html"
   end
 
   def image_url

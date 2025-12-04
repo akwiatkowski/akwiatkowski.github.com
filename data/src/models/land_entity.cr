@@ -44,15 +44,7 @@ struct LandEntity
   end
 
   def view_url
-    "/land/#{@slug}.html"
-  end
-
-  def list_url
-    "/land/#{@slug}/list.html"
-  end
-
-  def masonry_url
-    "/land/#{@slug}/masonry.html"
+    "/kraina/#{@slug}.html"
   end
 
   def image_url

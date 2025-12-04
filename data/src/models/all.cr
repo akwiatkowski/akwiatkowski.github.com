@@ -1,6 +1,7 @@
 require "./town_entity"
 require "./voivodeship_entity"
 require "./tag_entity"
+require "./photo_tag_entity"
 require "./land_type_entity"
 require "./land_entity"
 require "./transport_poi_entity"

@@ -9,6 +9,7 @@ struct TagEntity
 
   def initialize(y : YAML::Any)
     @slug = y["slug"].to_s
+    @slug_pl = y["slug_pl"].to_s
     @name = y["name"].to_s
     @is_nav = y["is_nav"]?.to_s == "true"
   end
@@ -18,15 +19,7 @@ struct TagEntity
   end
 
   def view_url
-    "/tag/#{@slug}.html"
-  end
-
-  def list_url
-    "/tag/#{@slug}/old.html"
-  end
-
-  def masonry_url
-    "/tag/#{@slug}/masonry.html"
+    "/tag/#{@slug_pl}.html"
   end
 
   def image_url

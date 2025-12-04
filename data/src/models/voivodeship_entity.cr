@@ -65,15 +65,11 @@ struct VoivodeshipEntity
   end
 
   def view_url
-    return "/voivodeship/#{@slug}.html"
-  end
-
-  def list_url
-    return "/voivodeship/#{@slug}/list.html"
-  end
-
-  def masonry_url
-    return "/voivodeship/#{@slug}/masonry.html"
+    if is_poland?
+      return "/wojewodztwo/#{@slug}.html"
+    else
+      return "/region/#{@slug}.html"
+    end
   end
 
   def image_url
