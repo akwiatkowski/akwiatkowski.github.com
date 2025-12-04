@@ -21,6 +21,11 @@
 
 # credentials
 env/full/upload_tiles.sh
+data/config/gpx_rectifier.yml
+
+# full GPX for route ideas
+env/dev/data/ideas/raw
+env/full/data/ideas/raw
 
 /drafts/
 
@@ -41,3 +46,23 @@ old
 watch_dev.sh
 watch_dev_smart.sh
 ./blog
+
+# who the f... installed it here?
+node_modules
+
+# mac env and compiled
+**/.DS_Store
+**/.dwarf
+env/full/blog_local.dwarf
+env/full/blog_local
+env/full/blog_release.dwarf
+env/full/blog_release
+env/full/blog.dwarf
+env/full/blog
+env/dev/blog_local.dwarf
+env/dev/blog_local
+env/dev/blog_release.dwarf
+env/dev/blog_release
+env/dev/blog.dwarf
+env/dev/blog
+.stfolder/
