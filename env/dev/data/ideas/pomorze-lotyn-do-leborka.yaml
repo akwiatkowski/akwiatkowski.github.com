@@ -1,0 +1,31 @@
+slug: pomorze-lotyn-do-leborka
+link: http://trasy.ump.waw.pl/?hl=pl&loc=53.599510,16.779644&loc=53.599373,16.926489&loc=53.608799,17.015009&loc=53.734287,17.058971&loc=53.801765,17.268703&loc=53.897472,17.330652&loc=53.932068,17.309664&loc=53.980042,17.318451&loc=54.090256,17.333157&loc=54.160900,17.442137&loc=54.247169,17.577784&loc=54.361359,17.626545&loc=54.453308,17.674568&loc=54.534000,17.750645&z=9&center=54.067448,16.861267&alt=0&df=0&re=4&ly=611352508
+distance: 164
+elevation:
+days_min: 2
+days_normal: 3
+start:
+  name: Lotyń
+  lat: 53.59951
+  lon: 16.77981
+  train_time_distance: 2.5 # hours
+finish:
+  name: Lębork
+  lat: 54.53376
+  lon: 17.75073
+  train_time_distance: 5.0 # hours
+surface: gravel # road, gravel, mtb
+towns:
+  - okonek
+  - czarne
+  - rzeczenica
+  - przechlewo
+  - konarzyny
+  - lipnica
+  - tuchomie
+  - borzytuchom
+  - bytow
+  - czarna_dobrowka
+  - cewice
+  - nowa_wies_leborska
+  - lebork
