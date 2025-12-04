@@ -1004,12 +1004,11 @@ $(function() {
 
 // responsive tables
 $(document).ready(function() {
-	$("table").wrap("<div class='table-responsive'></div>");
-	$("table").addClass("table");
+	$("table:not(.not-responsive)").wrap("<div class='table-responsive'></div>").addClass("table");
 });
 
 // responsive embed videos
-$(document).ready(function () { 
+$(document).ready(function () {
     $('iframe[src*="youtube.com"]').wrap('<div class="embed-responsive embed-responsive-16by9"></div>');
 	$('iframe[src*="youtube.com"]').addClass('embed-responsive-item');
     $('iframe[src*="vimeo.com"]').wrap('<div class="embed-responsive embed-responsive-16by9"></div>');

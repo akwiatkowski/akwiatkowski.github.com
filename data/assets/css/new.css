@@ -501,7 +501,10 @@ body {
 .bg-light {
   background-color: unset !important;
 }
-.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand  {
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand, .table  {
+  color: var(--color-text) !important;
+}
+.table:hover, tr:hover {
   color: var(--color-text) !important;
 }
 a {

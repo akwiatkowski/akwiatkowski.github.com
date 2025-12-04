@@ -1,0 +1,76 @@
+.coord-photo-table {
+  display: grid;
+  gap: 1px;
+  max-width: 90vmin;
+  aspect-ratio: 1;
+  margin: 0 auto;
+  background: #333; /* Dark grid background */
+  padding: 4px; /* Optional subtle padding */
+  container-type: inline-size; /* For container queries */
+}
+
+@container (max-width: 400px) {
+  .coord-photo-table {
+    gap: 0.5px;
+    padding: 2px;
+    max-width: 95vmin;
+  }
+}
+
+.coord-photo-row { display: contents; }
+
+.coord-photo-cell {
+  position: relative;
+  border-radius: 3px;
+  transition: transform 0.1s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+}
+
+.coord-photo-cell:hover {
+  transform: scale(1.05);
+  z-index: 5;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.coord-photo-cell::after {
+  content: attr(title);
+  position: absolute;
+  bottom: 100%; left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0,0,0,0.9);
+  color: white;
+  padding: 6px 10px;
+  font-size: 12px;
+  white-space: nowrap;
+  border-radius: 4px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+  margin-bottom: 4px;
+  z-index: 10;
+}
+
+.coord-photo-cell:hover::after {
+  opacity: 1;
+}
+
+.coord-photo-cell-disabled {
+  background: linear-gradient(135deg, #ddd 0%, #ccc 100%);
+}
+
+.coord-photo-cell-enabled {
+  background: linear-gradient(135deg, #555 0%, #333 100%);
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.coord-photo-cell-enabled:hover {
+  background: linear-gradient(135deg, #666 0%, #444 100%);
+}
+
+.coord-photo-cell-blank-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+}
