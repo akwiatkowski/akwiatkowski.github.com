@@ -69,10 +69,10 @@ module RendererMixin::RenderPhotoRelated
   def render_tag_galleries
     tag_renderers = Array(GalleryView::TagView).new
 
-    PhotoEntity::TAG_GALLERIES.each do |tag|
+    blog.data_manager.photo_tags.not_nil!.each do |photo_tag|
       view = GalleryView::TagView.new(
         blog: blog,
-        tag: tag
+        photo_tag: photo_tag
       )
       write_output(view)
 
