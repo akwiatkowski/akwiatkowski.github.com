@@ -12,7 +12,7 @@ image_filename:         2022_12_18__14_47_PC182986.jpg
 # 2022_12_18__14_47_PC182986
 # 2022_12_18__14_31_PC182967
 image_position:         50% 70%
-tags:                   [hike, photo, main, best, photo_of_the_year]
+tags:                   [todo, hike, photo, main, best, photo_of_the_year]
 towns:                  [dolnoslaskie, jelenia_gora, janowice_wielkie, marciszow]
 
 coords:                 [{"route": [], "type": "hike"}]
