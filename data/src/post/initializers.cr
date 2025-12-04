@@ -41,6 +41,13 @@ class Tremolite::Post
     photo_map_data_from_headers
   end
 
+  # override post url
+  def process_paths
+    time_part = @time.to_s("%Y/%m/%d")
+    slug_wo_time = @slug.gsub(/\d{4}-\d{2}-\d{2}-/, "")
+    @url = "/#{time_part}/#{slug_wo_time}.html"
+  end
+
   # TODO this will require a lot of operations
   def slow_process_header
     photos_entities_from_content
