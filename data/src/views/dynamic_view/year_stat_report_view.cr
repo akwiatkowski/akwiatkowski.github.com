@@ -7,20 +7,26 @@ module DynamicView
     OPACITY_MAX          =   1.0
     OPACITY_MIN          =  0.02
 
-    def initialize(@blog : Tremolite::Blog,
-                   @year : Int32,
-                   @all_years : Array(Int32))
+    def initialize(
+      @blog : Tremolite::Blog,
+      @year : Int32,
+      @all_years : Array(Int32),
+    )
       @posts = @blog.post_collection.posts.select { |p| p.time.year == @year }.as(Array(Tremolite::Post))
       @image_url = generate_image_url.as(String)
       @title = "#{@year}"
       @subtitle = "Podsumowanie roku #{@year}, czyli #{hours.to_i} godzin i #{distance.to_i} kilometrów w terenie"
-      @url = "/year/#{@year}"
+      @url = self.class.url_for_year(@year)
 
       @data_manager = @blog.data_manager.as(Tremolite::DataManager)
     end
 
     getter :image_url, :title, :subtitle, :year
     property :url
+
+    def self.url_for_year(year)
+      return "/rok/#{year}.html"
+    end
 
     def inner_html
       data = Hash(String, String).new
@@ -46,7 +52,7 @@ module DynamicView
       years_strings = Array(String).new
       @all_years.each do |y|
         if @year != y
-          years_strings << "<a href=\"/year/#{y}\">#{y}</a>"
+          years_strings << "<a href=\"#{self.class.url_for_year(y)}\">#{y}</a>"
         else
           years_strings << "<strong>#{y}</strong>"
         end
