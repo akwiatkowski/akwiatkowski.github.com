@@ -7,7 +7,11 @@ class Tremolite::Post
   DEFAULT_IMAGE_FORMAT = IMAGE_FORMAT_APSC
 
   def gallery_url
-    self.url + GalleryView::PostView::GALLERY_URL_SUFFIX
+    GalleryView::PostView::GALLERY_URL_PREFIX + self.url.as(String)
+  end
+
+  def gallery_stats_url
+    PostGalleryStatsView::STATS_URL_PREFIX + self.url.as(String)
   end
 
   def image_url
