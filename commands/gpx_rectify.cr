@@ -1,5 +1,5 @@
-require "../../../../tremolite/src/tremolite"
-require "../../../data/src/blog"
+require "../../tremolite/src/tremolite"
+require "../data/src/blog"
 
 env_path = File.join(["env", "full"])
 

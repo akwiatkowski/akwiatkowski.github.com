@@ -1,0 +1,13 @@
+private:
+  enabled: false
+  range: 1000
+  lat: 52.0
+  lon: 17.0
+settings:
+  min_bearing_change: 5.0
+  min_distance_for_bearing: 0.03
+  max_distance: 1.0
+routes:
+  post_slug: "/home/user/route.gpx"
+ideas:
+  idea_slug: "/home/user/idea.gpx"
