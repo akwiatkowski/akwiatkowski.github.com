@@ -7,6 +7,7 @@ require "./land_dynamic_view"
 require "./town_dynamic_view"
 # TODO: add here tag, .. -index page
 # TODO: think about passing rendered tags to tag index
+require "./new_posts_dynamic_view"
 
 require "./tag_masonry_view"         # DEPRECATED
 require "./tag_list_view"            # DEPRECATED
