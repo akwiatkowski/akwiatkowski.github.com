@@ -3,10 +3,10 @@ require "../services/exif_stat/exif_stat_helper"
 class PostGalleryStatsView < BaseView
   Log = ::Log.for(self)
 
-  STATS_URL_SUFFIX = "/gallery_stats.html"
+  STATS_URL_PREFIX = "/galeria/statystyki"
 
   def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)
-    @url = @post.url.as(String) + STATS_URL_SUFFIX
+    @url = @post.gallery_stats_url
   end
 
   # could mess with duplicate SEO
@@ -53,7 +53,7 @@ class PostGalleryStatsView < BaseView
     np = @blog.post_collection.next_to(@post)
     if np
       nd = Hash(String, String).new
-      nd["post.url"] = np.url + STATS_URL_SUFFIX
+      nd["post.url"] = np.gallery_stats_url
       nd["post.title"] = np.title
       nl = load_html("post/pager_next", nd)
       data["next_post_pager"] = nl
@@ -62,7 +62,7 @@ class PostGalleryStatsView < BaseView
     pp = @blog.post_collection.prev_to(@post)
     if pp
       pd = Hash(String, String).new
-      pd["post.url"] = pp.url + STATS_URL_SUFFIX
+      pd["post.url"] = pp.gallery_stats_url
       pd["post.title"] = pp.title
       pl = load_html("post/pager_prev", pd)
       data["prev_post_pager"] = pl
