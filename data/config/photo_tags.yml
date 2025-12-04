@@ -1,0 +1,52 @@
+- slug: good
+  slug_pl: dobre
+  title: Dobre
+  subtitle: nie najlepsze, ale lepsze niż większość
+- slug: best
+  slug_pl: najlepsze
+  title: Najlepsze zdjęcia
+  subtitle: to czym subiektywnie bym się chwalił
+- slug: timeline
+  slug_pl: pory_roku
+  title: Pory roku
+  subtitle: zdjęcia najlepiej pokazujące jak się zmienia przyroda w zależności od pory roku
+- slug: bird
+  slug_pl: ptaki
+  title: Ptaki
+  subtitle: latająca przyroda
+- slug: macro
+  slug_pl: makro
+  title: Makro
+  subtitle: czyli wszystko co jest małe
+- slug: mountains
+  slug_pl: gory
+  title: Góry
+  subtitle: ale nie pagórki i pogórza
+- slug: winter
+  slug_pl: zima
+  title: Zima
+  subtitle: gdy jest biało i zimno
+- slug: sunrise
+  slug_pl: wschod_slonca
+  title: Wschody i zachody
+  subtitle: najlepsze warunki do zdjęć krajobrazu
+- slug: spring
+  slug_pl: wiosna
+  title: Wiosna
+  subtitle: gdy przyroda budzi się do życia
+- slug: city
+  slug_pl: miasto
+  title: Miasto
+  subtitle: trochę więcej betonu
+- slug: rural
+  slug_pl: wies
+  title: Wieś
+  subtitle: wszystko to co ani nie jest miastem, ani nie jest czystą przyrodą
+- slug: night
+  slug_pl: noc
+  title: Noc
+  subtitle: zdjęcia zrobione przy trochę ciemniejszych warunkach oświetleniowych
+- slug: common
+  slug_pl: zwyaczjne
+  title: Zwyczajne
+  subtitle: domyślny tag dla każdego zdjęcia

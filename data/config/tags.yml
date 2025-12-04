@@ -1,81 +1,105 @@
 - slug: best
+  slug_pl: najlepsze
   name: Najlepsze
   is_nav: true
 
 - slug: main
+  slug_pl: strona_glowna
   name: Strona główna
 
 - slug: bicycle
+  slug_pl: rowerem
   name: Rowerem
   is_nav: true
 
 - slug: hike
+  slug_pl: pieszo
   name: Pieszo
   is_nav: true
 
 - slug: ev
+  slug_pl: elektrykiem
   name: Pojazdem elektrycznym
   is_nav: true
 
 - slug: train
+  slug_pl: kolejowe
   name: Kolejowe
   is_nav: true
 
 - slug: car
+  slug_pl: samochodem
   name: Samochodem
 
 - slug: workshop
+  slug_pl: warsztaty
   name: Warsztaty
 
 - slug: photo
+  slug_pl: zdjecia
   name: Zdjęcia
   is_nav: true
 
 - slug: mountains
+  slug_pl: gory
   name: Góry
   is_nav: true
 
 - slug: coast
+  slug_pl: wybrzeze
   name: Wybrzeże
 
 - slug: panniers
+  slug_pl: sakwy
   name: Z sakwami
 
 - slug: localhost
+  slug_pl: domowe
   name: W domu
 
 - slug: todo
+  slug_pl: niedokonczone
   name: Niedokończone
 
 - slug: todo_media
+  slug_pl: dodac_zdjecia
   name: Dodać zdjęcia
 
 - slug: todo_media_later
+  slug_pl: dodac_zdjecia_pozniej
   name: Dodać zdjęcia później
 
 - slug: uncorrected
+  slug_pl: do_korekty
   name: Do korekty
 
 - slug: cat
+  slug_pl: koty
   name: Koty
 
 - slug: article
+  slug_pl: artykul
   name: Artykuły
 
 - slug: opinion
+  slug_pl: opinia
   name: Opinia
 
 - slug: relax
+  slug_pl: spokojne
   name: Na spokojnie
 
 - slug: photo_of_the_year
+  slug_pl: zdjecie_roku
   name: Zdjęcie roku
   is_nav: true
 
 - slug: city
+  slug_pl: miasto
   name: Miasto
 
 - slug: countryside
+  slug_pl: wies
   name: Wieś
   is_nav: true
 
@@ -83,14 +107,18 @@
 #   name: Zima
 
 - slug: birds
+  slug_pl: ptaki
   name: Ptaki
 
 - slug: bikepacking
+  slug_pl: bikepacking
   name: Bikepacking
   is_nav: true
 
 - slug: air
+  slug_pl: powietrzne
   name: Z powietrza
 
 - slug: bus
+  slug_pl: autobusem
   name: Autobusowa
