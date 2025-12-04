@@ -3,6 +3,7 @@ class Map::RoutesLayer
 
   def initialize(
     @posts : Array(Tremolite::Post),
+    @routes : Array(PostRouteObject),
     @raster_crop : Map::Crop::RasterCrop,
     @tiles_layer : TilesLayer,
     @type : Map::MapRoutesType = Map::MapRoutesType::Static,
@@ -25,6 +26,12 @@ class Map::RoutesLayer
             s << convert_route_object_to_array_of_svg_lines(route_object)
           end
         end
+      end
+
+      @routes.each_with_index do |route_object, i|
+        # append
+        s << "<!-- route: #{i} -->\n"
+        s << convert_route_object_to_array_of_svg_lines(route_object)
       end
 
       s << "</g>"

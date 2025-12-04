@@ -17,13 +17,14 @@ class Map::Main
 
   def initialize(
     @posts = Array(Tremolite::Post).new,
+    @routes = Array(PostRouteObject).new,
 
     @tile = Map::MapTile::Ump,
     @type = MapType::Blank,
     @zoom = DEFAULT_ZOOM,
 
     @photo_size = Map::DEFAULT_PHOTO_SIZE,
-    @photos : Array(PhotoEntity) = Array(PhotoEntity),
+    @photos : Array(PhotoEntity) = Array(PhotoEntity).new,
 
     # selective rendering
     @render_routes : Bool = true,
@@ -85,40 +86,47 @@ class Map::Main
       Log.debug { "area from photos #{@coord_crop.coord_range.to_s}" }
     end
 
+    route_objects = Array(PostRouteObject).new
+
     # enlarge coord range
     if @posts.size > 0
       route_objects = @posts.map { |post| post.detailed_routes }.flatten.compact
       route_objects = [route_objects] if route_objects.is_a?(PostRouteObject)
-
-      # TODO: add a way to truncate routes which utilize multiple voivodeships
-
-      route_objects.each do |route_object|
-        route_object.route.each do |coord|
-          lat = coord[0]
-          lon = coord[1]
-          @coord_crop.route(lat, lon)
-        end
-      end
-
-      # routes_coord_range = PostRouteObject.array_to_coord_range(
-      #   array: array
-      # )
-      #
-      # if routes_coord_range
-      #   Log.debug { "routes_coord_range #{routes_coord_range}" }
-      #
-      #   routes_coord_range = routes_coord_range.not_nil!
-      #   # when we don't have photos near edges of route (I haven't took photo
-      #   # soon after start riding) we need to enlarge coord range to make
-      #   # all route point visible on map
-      #
-      #   # TODO: check this flag
-      #   if !@internal_coord_range.valid? # || @todo_do_not_crop_routes
-      #     @internal_coord_range.enlarge!(routes_coord_range)
-      #     Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
-      #   end
-      # end
     end
+
+    # inject routes w/o posts
+    route_objects += @routes
+
+    # TODO: add a way to truncate routes which utilize multiple voivodeships
+
+    route_objects.each do |route_object|
+      route_object.route.each do |coord|
+        lat = coord[0]
+        lon = coord[1]
+        @coord_crop.route(lat, lon)
+      end
+    end
+
+    # routes_coord_range = PostRouteObject.array_to_coord_range(
+    #   array: array
+    # )
+    #
+    # if routes_coord_range
+    #   Log.debug { "routes_coord_range #{routes_coord_range}" }
+    #
+    #   routes_coord_range = routes_coord_range.not_nil!
+    #   # when we don't have photos near edges of route (I haven't took photo
+    #   # soon after start riding) we need to enlarge coord range to make
+    #   # all route point visible on map
+    #
+    #   # TODO: check this flag
+    #   if !@internal_coord_range.valid? # || @todo_do_not_crop_routes
+    #     @internal_coord_range.enlarge!(routes_coord_range)
+    #     Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
+    #   end
+    # end
+
+    # direct passing of route data
 
     # # new calculation of autozoom
 
@@ -148,6 +156,7 @@ class Map::Main
 
     @routes_layer = RoutesLayer.new(
       posts: @posts,
+      routes: @routes,
       raster_crop: @raster_crop,
       tiles_layer: @tiles_layer,
       type: @routes_type,
