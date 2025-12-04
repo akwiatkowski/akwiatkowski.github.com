@@ -4,13 +4,13 @@ module GalleryView
   class PostView < AbstractView
     Log = ::Log.for(self)
 
-    GALLERY_URL_SUFFIX = "/gallery.html"
+    GALLERY_URL_PREFIX = "/galeria"
 
     def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)
       @photo_entities = @post.all_photo_entities_sorted.as(Array(PhotoEntity))
       @title = @post.title.as(String)
       @subtitle = @post.subtitle.as(String)
-      @url = @post.url.as(String) + GALLERY_URL_SUFFIX
+      @url = @post.gallery_url.as(String)
       @reverse = false
     end
 
@@ -59,7 +59,7 @@ module GalleryView
       np = @blog.post_collection.next_to(@post)
       if np
         nd = Hash(String, String).new
-        nd["post.url"] = np.url + GALLERY_URL_SUFFIX
+        nd["post.url"] = np.gallery_url
         nd["post.title"] = np.title
         nl = load_html("post/pager_next", nd)
         data["next_post_pager"] = nl
@@ -68,7 +68,7 @@ module GalleryView
       pp = @blog.post_collection.prev_to(@post)
       if pp
         pd = Hash(String, String).new
-        pd["post.url"] = pp.url + GALLERY_URL_SUFFIX
+        pd["post.url"] = pp.gallery_url
         pd["post.title"] = pp.title
         pl = load_html("post/pager_prev", pd)
         data["prev_post_pager"] = pl
@@ -79,7 +79,7 @@ module GalleryView
       pl = load_html("post/pager_post", pd)
       data["post_pager"] = pl
 
-      data["stats.path"] = @post.url + PostGalleryStatsView::STATS_URL_SUFFIX
+      data["stats.path"] = @post.gallery_stats_url
 
       return load_html("post/gallery_bottom", data)
     end

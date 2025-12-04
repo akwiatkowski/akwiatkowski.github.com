@@ -28,7 +28,7 @@ module GalleryView
       ).as(Array(PhotoEntity))
 
       @title = "ISO #{@iso_from}"
-      @url = "/gallery/iso/#{@iso_from}"
+      @url = "/galeria/iso/#{@iso_from}.html"
       @reverse = true
     end
   end

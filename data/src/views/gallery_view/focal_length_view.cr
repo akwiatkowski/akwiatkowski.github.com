@@ -24,7 +24,7 @@ module GalleryView
       ).as(Array(PhotoEntity))
 
       @title = "#{@focal_from.to_i}-#{@focal_to.to_i}mm"
-      @url = "/gallery/focal_length/#{@focal_from.to_i}_#{@focal_to.to_i}"
+      @url = "/galeria/ogniskowa/#{@focal_from.to_i}_#{@focal_to.to_i}.html"
       @reverse = true
     end
   end

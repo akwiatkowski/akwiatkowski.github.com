@@ -29,7 +29,7 @@ module GalleryView
       @subtitle = "#{count_sum} zdjęć"
       @title = "Ogniskowe"
 
-      @url = "/gallery/focal_length/"
+      @url = "/galeria/ogniskowe.html"
     end
   end
 end

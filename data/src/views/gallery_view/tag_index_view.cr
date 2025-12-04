@@ -12,7 +12,7 @@ module GalleryView
       end.sort do |a, b|
         # think it's better to sort by name not count reversed
         # b.photo_entities_count <=> a.photo_entities_count
-        a.tag <=> b.tag
+        a.tag_pl <=> b.tag_pl
       end.as(Array(TagView))
 
       count_sum = @filtered_renderers.map do |lr|
@@ -29,7 +29,7 @@ module GalleryView
       @subtitle = "#{count_sum} zdjęć"
       @title = "Tagi"
 
-      @url = "/gallery/tag/"
+      @url = "/galeria/tagi.html"
     end
   end
 end

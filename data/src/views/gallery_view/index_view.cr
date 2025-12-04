@@ -12,7 +12,7 @@ module GalleryView
       @exposure_gallery_index_view : ExposureIndexView,
       @quant_coord_index_view : QuantCoordIndexView,
     )
-      @url = "/gallery"
+      @url = "/galeria.html"
     end
 
     def subtitle

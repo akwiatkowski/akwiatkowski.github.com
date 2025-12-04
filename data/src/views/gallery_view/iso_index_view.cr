@@ -29,7 +29,7 @@ module GalleryView
       @subtitle = "#{count_sum} zdjęć"
       @title = "ISO"
 
-      @url = "/gallery/iso/"
+      @url = "/galeria/iso.html"
     end
   end
 end

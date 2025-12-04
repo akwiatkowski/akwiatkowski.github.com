@@ -37,7 +37,7 @@ module GalleryView
       @subtitle = "#{count_sum} zdjęć"
       @title = "Aparaty"
 
-      @url = "/gallery/camera/"
+      @url = "/galeria/aparaty.html"
     end
   end
 end

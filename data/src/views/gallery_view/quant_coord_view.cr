@@ -35,7 +35,7 @@ module GalleryView
       end
 
       @title = "#{@lat},#{@lon}#{town_name_text}"
-      @url = "/gallery/coord/#{@lat},#{@lon}.html"
+      @url = "/galeria/wspolrzedne/#{@lat},#{@lon}.html"
       @reverse = true
     end
   end

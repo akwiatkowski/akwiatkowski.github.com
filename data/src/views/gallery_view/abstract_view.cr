@@ -91,7 +91,7 @@ module GalleryView
       end
     end
 
-    def to_html
+    def content
       data = Hash(String, String).new
       data["json.items"] = @photo_entities.reverse.map do |photo_entity|
         photo_entity.hash_for_partial
@@ -99,18 +99,6 @@ module GalleryView
       data["title"] = title
 
       return load_html("gallery/gallery_dynamic", data)
-
-      # return top_html +
-      #   head_open_html +
-      #   title_html +
-      #   tracking_html +
-      #   head_close_html +
-      #   open_body_html +
-      #   nav_html +
-      #   content +
-      #   footer_html +
-      #   close_body_html +
-      #   close_html_html
     end
   end
 end

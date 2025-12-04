@@ -29,7 +29,7 @@ module GalleryView
       @subtitle = "#{count_sum} zdjęć"
       @title = "Czasy naświetlenia"
 
-      @url = "/gallery/exposure/"
+      @url = "/galeria/naswietlenie.html"
     end
   end
 end

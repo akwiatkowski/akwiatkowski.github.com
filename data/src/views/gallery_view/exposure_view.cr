@@ -28,7 +28,7 @@ module GalleryView
       ).as(Array(PhotoEntity))
 
       @title = "Naświetlenie #{exposure_to_human(@exposure_from)} - #{exposure_to_human(@exposure_to)}"
-      @url = "/gallery/iso/#{@exposure_from.to_s}"
+      @url = "/galeria/naswietlenie/#{@exposure_from.to_s}.html"
       @reverse = true
     end
 

@@ -21,7 +21,7 @@ module GalleryView
 
       @title = @lens
       @lens_sanitized = @lens.gsub(/\s/, "_").downcase.as(String)
-      @url = "/gallery/lens/#{@lens_sanitized}"
+      @url = "/galeria/obiektyw/#{@lens_sanitized}.html"
       @reverse = true
     end
   end

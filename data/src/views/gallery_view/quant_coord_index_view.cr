@@ -28,7 +28,7 @@ module GalleryView
       @subtitle = "zdjęcia podzielone na współrzędne"
       @title = "Współrzędne"
 
-      @url = "/gallery/coord/"
+      @url = "/galeria/wspolrzedne.html"
     end
 
     def page_header_html
@@ -39,10 +39,10 @@ module GalleryView
       return String.build do |s|
         s << "<div style=\"margin-left: auto; margin-right: auto\">\n"
 
-        s << "<table class=\"coord-photo-table\">\n"
+        s << "<div class=\"coord-photo-table\">\n"
 
         @lats.reverse.each do |lat|
-          s << "<tr>\n"
+          s << "<div class=\"coord-photo-row\">\n"
           @lons.each do |lon|
             exists = @renderers[lat]? && @renderers[lat][lon]? && @renderers[lat][lon].photo_entities_count > MIN_PHOTOS_TO_RENDER
 
@@ -75,20 +75,38 @@ module GalleryView
               town_name = ""
             end
 
-            s << "<td class=\"coord-photo-cell #{additional_css_class}\" style=\"#{additional_css_style}\" title=\"#{town_name}\">"
+            s << "<div class=\"coord-photo-cell #{additional_css_class}\" style=\"#{additional_css_style}\" title=\"#{town_name}\">"
             if exists
               s << "<a href=\"#{renderer.not_nil!.url}\">"
               s << "<img src=\"/img/blank.gif\" class=\"coord-photo-cell-blank-link\">"
               s << "</a>"
             end
-            s << "</td>\n"
+            s << "</div>\n"
           end
-          s << "</tr>\n"
+          s << "</div>\n"
         end
 
-        s << "</table>\n"
+        s << "</div>\n"
 
         s << "</div>\n"
+
+        s << "<script>
+    function initCoordMap() {
+      const grid = document.querySelector('.coord-photo-table');
+      const firstRow = grid.querySelector('.coord-photo-row');
+      const cols = firstRow ? firstRow.children.length : 9;
+      const rows = grid.querySelectorAll('.coord-photo-row').length;
+
+      grid.style.gridTemplateColumns = `repeat(${cols}, 1fr)`;
+      grid.style.gridTemplateRows = `repeat(${rows}, 1fr)`;
+    }
+
+    // Run immediately after script loads
+    initCoordMap();
+
+    // Re-run on window resize
+    window.addEventListener('resize', initCoordMap);
+  </script>"
       end
     end
   end
