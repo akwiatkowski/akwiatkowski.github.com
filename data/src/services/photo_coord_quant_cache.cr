@@ -40,6 +40,11 @@ class PhotoCoordQuantCache
   def refresh_for_post(post : Tremolite::Post)
     post.all_photo_entities_unsorted.each do |photo_entity|
       next if photo_entity.exif.lat.nil? || photo_entity.exif.lon.nil?
+      # for now only photos in Poland and close to it
+      next unless CoordRange.within_poland?(
+                    lat: photo_entity.exif.lat.not_nil!,
+                    lon: photo_entity.exif.lon.not_nil!,
+                  )
 
       key = convert_photo_entity_to_key(photo_entity)
       coord_photo = convert_photo_entity_to_coord_photo(photo_entity)
