@@ -10,98 +10,98 @@ train_time_length: 203
 train_count: 32
 self_distance: 18277
 self_time_length: 2729
-updated_at: 2025-11-27 16:53:43.449254000+01:00
+updated_at: 2025-12-01 00:55:08.815356000+01:00
 voivodeships_nav:
 - name: Dolnośląskie
-  url: /voivodeship/dolnoslaskie.html
+  url: /wojewodztwo/dolnoslaskie.html
   count: 136
 - name: Kujawsko-pomorskie
-  url: /voivodeship/kujawsko_pomorskie.html
+  url: /wojewodztwo/kujawsko_pomorskie.html
   count: 46
 - name: Łódzkie
-  url: /voivodeship/lodzkie.html
+  url: /wojewodztwo/lodzkie.html
   count: 4
 - name: Lubuskie
-  url: /voivodeship/lubuskie.html
+  url: /wojewodztwo/lubuskie.html
   count: 36
 - name: Małopolskie
-  url: /voivodeship/malopolskie.html
+  url: /wojewodztwo/malopolskie.html
   count: 35
 - name: Mazowieckie
-  url: /voivodeship/mazowieckie.html
+  url: /wojewodztwo/mazowieckie.html
   count: 2
 - name: Opolskie
-  url: /voivodeship/opolskie.html
+  url: /wojewodztwo/opolskie.html
   count: 6
 - name: Podkarpackie
-  url: /voivodeship/podkarpackie.html
+  url: /wojewodztwo/podkarpackie.html
   count: 14
 - name: Podlaskie
-  url: /voivodeship/podlaskie.html
+  url: /wojewodztwo/podlaskie.html
   count: 14
 - name: Pomorskie
-  url: /voivodeship/pomorskie.html
+  url: /wojewodztwo/pomorskie.html
   count: 46
 - name: Śląskie
-  url: /voivodeship/slaskie.html
+  url: /wojewodztwo/slaskie.html
   count: 9
 - name: Warmińsko-mazurskie
-  url: /voivodeship/warminsko_mazurskie.html
+  url: /wojewodztwo/warminsko_mazurskie.html
   count: 21
 - name: Wielkopolskie
-  url: /voivodeship/wielkopolskie.html
+  url: /wojewodztwo/wielkopolskie.html
   count: 195
 - name: Zachodnio-pomorskie
-  url: /voivodeship/zachodnio_pomorskie.html
+  url: /wojewodztwo/zachodnio_pomorskie.html
   count: 35
 lands_nav:
 - name: Karkonosze
-  url: /land/karkonosze.html
+  url: /kraina/karkonosze.html
   count: 24
 - name: Rudawy Janowickie
-  url: /land/rudawy_janowickie.html
+  url: /kraina/rudawy_janowickie.html
   count: 17
 - name: Beskid Niski
-  url: /land/beskid_niski.html
+  url: /kraina/beskid_niski.html
   count: 16
 - name: Gorce
-  url: /land/gorce.html
+  url: /kraina/gorce.html
   count: 10
 - name: Pojezierze Poznańskie
-  url: /land/pojezierze_poznanskie.html
+  url: /kraina/pojezierze_poznanskie.html
   count: 9
 - name: Góry Izerskie
-  url: /land/gory_izerskie.html
+  url: /kraina/gory_izerskie.html
   count: 8
 - name: Masyw Śnieżnika
-  url: /land/masyw_snieznika.html
+  url: /kraina/masyw_snieznika.html
   count: 8
 - name: Góry Kaczawskie
-  url: /land/gory_kaczawskie.html
+  url: /kraina/gory_kaczawskie.html
   count: 7
 - name: Tatry
-  url: /land/tatry.html
+  url: /kraina/tatry.html
   count: 7
 - name: Kotlina Kłodzka
-  url: /land/kotlina_klodzka.html
+  url: /kraina/kotlina_klodzka.html
   count: 7
 - name: Pojezierza Pomorskie
-  url: /land/pojezierza_pomorskie.html
+  url: /kraina/pojezierza_pomorskie.html
   count: 6
 - name: Góry Sowie
-  url: /land/gory_sowie.html
+  url: /kraina/gory_sowie.html
   count: 5
 - name: Góry Stołowe
-  url: /land/gory_stolowe.html
+  url: /kraina/gory_stolowe.html
   count: 4
 - name: Góry Bystrzyckie
-  url: /land/gory_bystrzyckie.html
+  url: /kraina/gory_bystrzyckie.html
   count: 4
 - name: Beskid Sądecki
-  url: /land/beskid_sadecki.html
+  url: /kraina/beskid_sadecki.html
   count: 4
 - name: Drawski Park Krajobrazy
-  url: /land/drawski_park_krajobrazowy.html
+  url: /kraina/drawski_park_krajobrazowy.html
   count: 4
 tags_nav:
 - name: Najlepsze

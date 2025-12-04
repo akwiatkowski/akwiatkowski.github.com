@@ -10,13 +10,13 @@ train_time_length: 0
 train_count: 0
 self_distance: 182
 self_time_length: 25
-updated_at: 2025-11-27 16:45:19.040868000+01:00
+updated_at: 2025-12-04 13:16:46.205868000+01:00
 voivodeships_nav:
 - name: Kujawsko-pomorskie
-  url: /voivodeship/kujawsko_pomorskie/masonry.html
+  url: /wojewodztwo/kujawsko_pomorskie.html
   count: 2
 lands_nav: []
 tags_nav:
 - name: Rowerem
-  url: /tag/bicycle/masonry.html
+  url: /tag/rowerem.html
   count: 2
