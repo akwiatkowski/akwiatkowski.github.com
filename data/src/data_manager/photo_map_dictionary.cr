@@ -19,10 +19,10 @@ class PhotoMapDictionary
   end
 
   def url_photomap_for_post_big(post : Tremolite::Post)
-    return "/photo_map/for_post/#{post.slug}/big.svg"
+    return Map::LinkGenerator.url_photomap_for_post_big(post: post)
   end
 
   def url_photomap_for_post_small(post : Tremolite::Post)
-    return "/photo_map/for_post/#{post.slug}/small.svg"
+    return Map::LinkGenerator.url_photomap_for_post_small(post: post)
   end
 end

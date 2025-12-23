@@ -20,6 +20,7 @@ class Tremolite::DataManager
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
     @portfolios = Array(PortfolioEntity).new
+    @train_stations = Array(TrainStationEntity).new
     @ideas = Array(IdeaEntity).new
 
     @town_photo_cache = TownPhotoCache.new(
@@ -48,7 +49,7 @@ class Tremolite::DataManager
   getter :tags
   getter :towns, :town_slugs, :voivodeships
   getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
-  getter :ideas, :photo_tags
+  getter :ideas, :photo_tags, :train_stations
 
   getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
   getter :photo_map_dictionary
@@ -71,8 +72,19 @@ class Tremolite::DataManager
     load_transport_pois
     load_todo_routes
     load_portfolio
+    load_train_stations
     load_ideas
     load_photo_tags
+  end
+
+  def load_train_stations
+    Log.debug { "loading train stations" }
+
+    f = File.join([@config_path, "train_stations.yml"])
+    YAML.parse(File.read(f)).as_a.each do |train_station|
+      o = TrainStationEntity.new(train_station)
+      @train_stations.not_nil! << o
+    end
   end
 
   def load_ideas
@@ -80,7 +92,6 @@ class Tremolite::DataManager
 
     ideas_path = File.join([@data_path, "ideas"])
     ideas_scan_path = File.join([ideas_path, "*.yaml"])
-    puts ideas_scan_path
     Dir[ideas_scan_path].each do |f|
       if File.file?(f)
         idea = YAML.parse(File.read(f))
@@ -106,6 +117,21 @@ class Tremolite::DataManager
       if File.file?(f)
         load_town_yaml(f)
       end
+    end
+  end
+
+  # self-propelled
+  def towns_already_visited_only_selfpropelled
+    slugs = Array(String).new
+    @blog.post_collection.posts.each do |post|
+      next if post.towns.nil?
+
+      slugs += post.towns.not_nil!
+      slugs.uniq.sort
+    end
+
+    return @towns.not_nil!.select do |town_entity|
+      slugs.includes?(town_entity.slug)
     end
   end
 

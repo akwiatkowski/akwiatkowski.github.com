@@ -31,6 +31,8 @@ module GalleryView
       @url = "/galeria/wspolrzedne.html"
     end
 
+    BLANK_IMAGE_URL = "/img/blank.gif"
+
     def page_header_html
       return ""
     end
@@ -48,6 +50,8 @@ module GalleryView
 
             if exists
               renderer = @renderers[lat][lon]
+              photo_entity = renderer.photo_entities.first.as(PhotoEntity)
+              background_image_url = photo_entity.gallery_thumb_image_src
 
               # normalize to max 100
               max_photo_count = 50
@@ -62,10 +66,20 @@ module GalleryView
 
               green = blue / 2
 
-              color = "rgba(0,#{green},#{blue},1)"
+              blue_dark = blue - 30
+              green_dark = green - 30
+              blue_dark = 0 if blue_dark < 0
+              green_dark = 0 if green_dark < 0
 
               additional_css_class = "coord-photo-cell-enabled"
-              additional_css_style = "background-color:#{color};"
+
+              # color = "rgba(0,#{green},#{blue},0.5)"
+              additional_css_style = "background:
+                linear-gradient(135deg, rgba(0,#{green},#{blue},0.4) 0%, rgba(0,#{green_dark},#{blue_dark},0.02) 100%),
+                url('#{background_image_url}');
+              background-size: cover;
+              background-position: center;
+              background-repeat: no-repeat;"
 
               town_name = renderer.closest_town_name
             else
@@ -78,7 +92,7 @@ module GalleryView
             s << "<div class=\"coord-photo-cell #{additional_css_class}\" style=\"#{additional_css_style}\" title=\"#{town_name}\">"
             if exists
               s << "<a href=\"#{renderer.not_nil!.url}\">"
-              s << "<img src=\"/img/blank.gif\" class=\"coord-photo-cell-blank-link\">"
+              s << "<img src=\"#{BLANK_IMAGE_URL}\" class=\"coord-photo-cell-blank-link\">"
               s << "</a>"
             end
             s << "</div>\n"

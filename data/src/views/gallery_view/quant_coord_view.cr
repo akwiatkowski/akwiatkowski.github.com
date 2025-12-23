@@ -5,7 +5,8 @@ module GalleryView
   class QuantCoordView < AbstractView
     Log = ::Log.for(self)
 
-    getter :lat, :lon, :closest_town_distance, :closest_town_name
+    getter :lat, :lon, :closest_town_distance, :closest_town_name,
+      :photo_entities
 
     def initialize(
       @blog : Tremolite::Blog,
