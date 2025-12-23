@@ -2,6 +2,7 @@ module RendererMixin::RenderPhotoMaps
   def render_all_photo_maps
     render_photo_maps_voivodeships
     render_photo_maps_posts
+    render_photo_maps_ideas
 
     render_photo_maps_global
 
@@ -87,8 +88,28 @@ module RendererMixin::RenderPhotoMaps
     @photomaps_global.not_nil![name] = view
   end
 
-  private def url_photomap_globals(slug)
-    return "/photo_map/global/#{slug}.svg"
+  private def url_photomap_globals(slug : String)
+    return Map::LinkGenerator.url_photomap_for_main(slug: slug)
+  end
+
+  # # Ideas
+
+  def render_photo_maps_ideas
+    @blog.data_manager.ideas.not_nil!.each do |idea|
+      render_photo_map_for_idea(idea: idea)
+    end
+  end
+
+  protected def render_photo_map_for_idea(idea : IdeaEntity)
+    Log.debug { "render_photo_map_for_idea #{idea.slug}" }
+
+    idea_map_view = PhotoMap::IdeaRouteMapSvgView.new(
+      blog: @blog,
+      idea: idea
+    )
+
+    write_output(idea_map_view)
+    Log.debug { "#{idea.slug} - render_photo_map_for_idea done" }
   end
 
   # # Posts
@@ -157,11 +178,11 @@ module RendererMixin::RenderPhotoMaps
   end
 
   private def url_photomap_for_post_big(post : Tremolite::Post)
-    return "/photo_map/for_post/#{post.slug}/big.svg"
+    return Map::LinkGenerator.url_photomap_for_post_big(post: post)
   end
 
   private def url_photomap_for_post_small(post : Tremolite::Post)
-    return "/photo_map/for_post/#{post.slug}/small.svg"
+    return Map::LinkGenerator.url_photomap_for_post_small(post: post)
   end
 
   # # Voivodesips
@@ -217,7 +238,7 @@ module RendererMixin::RenderPhotoMaps
   end
 
   private def url_photomap_for_voivodeship_big(voivodeship : VoivodeshipEntity)
-    return "/photo_map/for_voivodeship/#{voivodeship.slug}/big.svg"
+    return Map::LinkGenerator.url_photomap_for_voivodeship_big(voivodeship: voivodeship)
   end
 
   private def add_photomap_for_voivodeship_small(voivodeship, view)
@@ -226,7 +247,7 @@ module RendererMixin::RenderPhotoMaps
   end
 
   private def url_photomap_for_voivodeship_small(voivodeship : VoivodeshipEntity)
-    return "/photo_map/for_voivodeship/#{voivodeship.slug}/small.svg"
+    return Map::LinkGenerator.url_photomap_for_voivodeship_small(voivodeship: voivodeship)
   end
 
   # # PhotoEntity tags, not Post tag
@@ -267,7 +288,7 @@ module RendererMixin::RenderPhotoMaps
   end
 
   private def url_photomap_for_tag(tag : String)
-    return "/photo_map/for_tag/#{tag}.svg"
+    return Map::LinkGenerator.url_photomap_for_tag(slug: tag)
   end
 
   # # Index page
@@ -275,7 +296,7 @@ module RendererMixin::RenderPhotoMaps
   def render_photo_maps_index
     html_view = PhotoMap::IndexView.new(
       blog: @blog,
-      url: "/photo_map",
+      url: "/mapa_zdjec.html",
       photomaps_for_tag: @photomaps_for_tag.not_nil!,
       photomaps_for_voivodeship_big: @photomaps_for_voivodeship_big.not_nil!,
       photomaps_for_voivodeship_small: @photomaps_for_voivodeship_small.not_nil!,

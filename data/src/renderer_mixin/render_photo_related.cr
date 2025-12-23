@@ -286,7 +286,7 @@ module RendererMixin::RenderPhotoRelated
     write_output(
       DynamicView::PortfolioView.new(
         blog: blog,
-        url: "/portfolio"
+        url: "/portfolio.html"
       )
     )
   end
@@ -298,6 +298,7 @@ module RendererMixin::RenderPhotoRelated
     tags = ["bicycle", "hike", "photo", "train"]
 
     tags.each do |tag|
+      # TODO: make it more useful
       view_by_tag = DynamicView::ExifStatsView.new(
         blog: @blog,
         url: "/exif_stats",

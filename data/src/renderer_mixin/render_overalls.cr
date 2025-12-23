@@ -13,6 +13,7 @@ module RendererMixin::RenderOveralls
     render_home
     render_home_new
     render_map
+    render_ideas
     render_pois
   end
 

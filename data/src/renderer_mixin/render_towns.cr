@@ -13,7 +13,7 @@ module RendererMixin::RenderTowns
   end
 
   def render_towns_index
-    view = ModelView::TownsIndexView.new(blog: @blog, url: "/towns")
+    view = ModelView::TownsIndexView.new(blog: @blog, url: "/gminy.html")
     write_output(view)
   end
 

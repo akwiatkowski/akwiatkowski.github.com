@@ -11,7 +11,7 @@ module RendererMixin::RenderLands
   end
 
   def render_lands_index
-    view = ModelView::LandsIndexView.new(blog: @blog, url: "/lands")
+    view = ModelView::LandsIndexView.new(blog: @blog, url: "/krainy.html")
     write_output(view)
   end
 

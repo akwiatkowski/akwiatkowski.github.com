@@ -100,6 +100,7 @@ module RendererMixin::RenderPostRelated
   end
 
   def render_mountain_range_planner
+    # DEPRECATED
     write_output(
       DynamicView::MountainRangePlannerView.new(
         blog: blog,

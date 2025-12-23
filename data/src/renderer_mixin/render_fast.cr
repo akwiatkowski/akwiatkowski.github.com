@@ -1,5 +1,5 @@
 require "../views/post_list_view/all"
-require "../views/static_view/map_view"
+require "../views/static_view/all"
 require "../views/dynamic_view/summary_view"
 require "../views/dynamic_view/timeline_view"
 require "../views/dynamic_view/year_stat_report_view"
@@ -9,12 +9,13 @@ require "../views/dynamic_view/towns_timeline_view"
 
 module RendererMixin::RenderFast
   def render_home
-    write_output(
-      PostListView::HomeMasonryView.new(
-        blog: blog,
-        url: "/old"
-      )
-    )
+    # DEPRECATED
+    # write_output(
+    #   PostListView::HomeMasonryView.new(
+    #     blog: blog,
+    #     url: "/old"
+    #   )
+    # )
   end
 
   def render_home_new
@@ -30,7 +31,16 @@ module RendererMixin::RenderFast
     write_output(
       StaticView::MapView.new(
         blog: blog,
-        url: "/map"
+        url: "/mapa.html"
+      )
+    )
+  end
+
+  def render_ideas
+    write_output(
+      StaticView::IdeasView.new(
+        blog: blog,
+        url: "pomysly.html"
       )
     )
   end
@@ -38,7 +48,7 @@ module RendererMixin::RenderFast
   def render_more
     view = MarkdownPageView.new(
       blog: blog,
-      url: "/more",
+      url: "/wiecej.html",
       file: "more",
       image_url: blog.data_manager.not_nil!["more.backgrounds"],
       title: blog.data_manager.not_nil!["more.title"],
@@ -50,7 +60,7 @@ module RendererMixin::RenderFast
   def render_about
     view = MarkdownPageView.new(
       blog: blog,
-      url: "/about",
+      url: "/o_mnie.html",
       file: "about",
       image_url: blog.data_manager.not_nil!["about.backgrounds"],
       title: blog.data_manager.not_nil!["about.title"],
@@ -62,7 +72,7 @@ module RendererMixin::RenderFast
   def render_en
     view = MarkdownPageView.new(
       blog: blog,
-      url: "/en",
+      url: "/en/index.html",
       file: "en",
       image_url: blog.data_manager.not_nil!["en.backgrounds"],
       title: blog.data_manager.not_nil!["en.title"],
@@ -76,7 +86,7 @@ module RendererMixin::RenderFast
     write_output(
       DynamicView::SummaryView.new(
         blog: blog,
-        url: "/summary"
+        url: "/zestawienie.html"
       )
     )
   end
@@ -115,7 +125,7 @@ module RendererMixin::RenderFast
     write_output(
       DynamicView::TownsHistoryView.new(
         blog: blog,
-        url: "/towns/history"
+        url: "/gminy/historia.html"
       )
     )
   end
@@ -124,7 +134,7 @@ module RendererMixin::RenderFast
     write_output(
       DynamicView::TownsTimelineView.new(
         blog: blog,
-        url: "/towns/timeline"
+        url: "/gminy/chronologicznie.html"
       )
     )
   end
@@ -133,7 +143,7 @@ module RendererMixin::RenderFast
     write_output(
       PoisView.new(
         blog: blog,
-        url: "/pois"
+        url: "/pois.html"
       )
     )
   end
