@@ -10,7 +10,7 @@ train_time_length: 203
 train_count: 32
 self_distance: 18277
 self_time_length: 2729
-updated_at: 2025-12-01 00:55:08.815356000+01:00
+updated_at: 2025-12-05 00:23:58.338120000+01:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /wojewodztwo/dolnoslaskie.html
@@ -105,25 +105,25 @@ lands_nav:
   count: 4
 tags_nav:
 - name: Najlepsze
-  url: /tag/best.html
+  url: /tag/najlepsze.html
   count: 114
 - name: Rowerem
-  url: /tag/bicycle.html
+  url: /tag/rowerem.html
   count: 256
 - name: Pieszo
-  url: /tag/hike.html
+  url: /tag/pieszo.html
   count: 192
 - name: Kolejowe
-  url: /tag/train.html
+  url: /tag/kolejowe.html
   count: 23
 - name: Zdjęcia
-  url: /tag/photo.html
+  url: /tag/zdjecia.html
   count: 107
 - name: Góry
-  url: /tag/mountains.html
+  url: /tag/gory.html
   count: 105
 - name: Zdjęcie roku
-  url: /tag/photo_of_the_year.html
+  url: /tag/zdjecie_roku.html
   count: 14
 - name: Bikepacking
   url: /tag/bikepacking.html
