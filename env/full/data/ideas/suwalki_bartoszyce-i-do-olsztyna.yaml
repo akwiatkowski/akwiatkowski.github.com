@@ -4,17 +4,10 @@ distance: 240
 elevation:
 days_min: 3
 days_normal: 4
-start:
-  name: Suwałki
-  lat: 54.10586
-  lon: 22.94537
-  train_time_distance: 8 # 7 min, max 9.5 hours
-finish:
-  name: Barczewo
-  lat: 53.84438
-  lon: 20.69983
-  train_time_distance: 4.5 # hours
-surface: gravel # road, gravel, mtb
+start: Suwałki
+finish: Barczewo
+surfaces:
+  - gravel # road, gravel, mtb
 towns:
   - suwalki
   - jeleniewo

@@ -1,0 +1,19 @@
+slug: szczecinek-kepice-ustka
+link: http://trasy.ump.waw.pl/?hl=pl&loc=53.694073,16.704760&loc=53.865753,16.710629&loc=53.954254,16.665487&loc=54.464561,17.011200&loc=54.490921,16.915789&loc=54.579639,16.860746&z=11&center=54.195186,16.964264&alt=0&df=0&re=4&ly=611352508
+distance: 132
+elevation:
+days_min: 2
+days_normal: 2
+start: Szczecinek
+finish: Ustka
+surfaces: # road, gravel, mtb
+  - gravel
+  - road
+towns:
+  - szczecinek
+  - bobolice
+  - polanow
+  - kepice
+  - kobylnica
+  - slupsk
+  - ustka

@@ -4,17 +4,10 @@ distance: 164
 elevation:
 days_min: 2
 days_normal: 3
-start:
-  name: Lotyń
-  lat: 53.59951
-  lon: 16.77981
-  train_time_distance: 2.5 # hours
-finish:
-  name: Lębork
-  lat: 54.53376
-  lon: 17.75073
-  train_time_distance: 5.0 # hours
-surface: gravel # road, gravel, mtb
+start: Lotyń
+finish: Lębork
+surfaces:
+  - gravel # road, gravel, mtb
 towns:
   - okonek
   - czarne

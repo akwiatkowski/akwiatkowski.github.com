@@ -1,0 +1,27 @@
+slug: koscian-rudna-jelenia
+link: http://umapa.pl/qj4SU
+distance: 188
+elevation:
+days_min: 2
+days_normal: 3
+start: Kościan
+finish: Jelenia Góra
+surfaces: # road, gravel, mtb
+  - gravel
+  - road
+towns:
+  - koscian
+  - smigiel
+  - osieczna
+  - rydzyna
+  - gora
+  - jemielno
+  - rudna
+  - lubin
+  - kunice
+  - legnica
+  - krotoszyce
+  - mecinka
+  - swierzawa
+  - jezow_sudecki
+  - jelenia_gora

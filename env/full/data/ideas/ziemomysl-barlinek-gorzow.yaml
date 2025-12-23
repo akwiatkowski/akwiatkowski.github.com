@@ -1,0 +1,17 @@
+slug: ziemomysl-barlinek-gorzow
+link: http://trasy.ump.waw.pl/?hl=pl&loc=53.167313,15.302497&loc=53.058334,15.192141&loc=52.933937,15.285288&loc=52.727985,15.229623&z=10&center=53.042864,15.027924&alt=0&df=0&re=2&ly=611352508
+distance: 65
+elevation:
+days_min: 1
+days_normal: 1
+start: Ziemomyśl
+finish: Barczewo
+surfaces: # road, gravel, mtb
+  - gravel
+  - road
+towns:
+  - dolice
+  - przelewice
+  - barlinek
+  - klodawa
+  - gorzow_wielkopolski
