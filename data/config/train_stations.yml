@@ -1,0 +1,36 @@
+- name: Lotyń
+  lat: 53.59951
+  lon: 16.77981
+  time_distance: 2.5 # hours
+- name: Lębork
+  lat: 54.53376
+  lon: 17.75073
+  time_distance: 5.0 # hours
+- name: Suwałki
+  lat: 54.10586
+  lon: 22.94537
+  time_distance: 8 # 7 min, max 9.5 hours
+- name: Barczewo
+  lat: 53.84438
+  lon: 20.69983
+  time_distance: 4.5 # hours
+- name: Kościan
+  lat: 52.07904
+  lon: 16.64226
+  time_distance: 0.75
+- name: Jelenia Góra
+  lat: 50.90223
+  lon: 15.75555
+  time_distance: 4
+- name: Ziemomyśl
+  lat: 53.16706
+  lon: 15.30202
+  time_distance: 2.25
+- name: Szczecinek
+  lat: 53.69341
+  lon: 16.70501
+  time_distance: 2.5
+- name: Ustka
+  lat: 54.57869
+  lon: 16.86070
+  time_distance: 5  

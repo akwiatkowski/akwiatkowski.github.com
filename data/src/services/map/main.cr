@@ -10,6 +10,8 @@ require "./const"
 require "./tiles_layer"
 require "./routes_layer"
 
+require "./link_generator"
+
 require "./photo_layer/all"
 
 class Map::Main

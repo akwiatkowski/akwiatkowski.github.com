@@ -1,0 +1,648 @@
+<body>
+    <div id="root"></div>
+
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <script type="text/babel">
+        const { useState, useEffect, useMemo } = React;
+
+        // Town Lookup Utility
+        const getTownBySlug = (slug, towns) => {
+            if (!slug || !towns) return null;
+            const town = towns.find(t => t.slug === slug.toLowerCase());
+            return town || null;
+        };
+
+        // Map Modal Component
+        const MapModal = ({ show, onHide, trip }) => {
+            if (!show || !trip) return null;
+
+            return (
+                <>
+                    <div className="map-modal-backdrop" onClick={onHide}></div>
+                    <div className={`map-modal ${show ? 'show' : ''}`}>
+                        <div className="map-modal-dialog">
+                            <div className="map-modal-content">
+                                <div className="map-modal-header">
+                                    <h5 className="map-modal-title">
+                                        {trip.start.name} → {trip.end.name}
+                                    </h5>
+                                    <button
+                                        type="button"
+                                        className="map-modal-close"
+                                        onClick={onHide}
+                                        aria-label="Close"
+                                    >
+                                        ×
+                                    </button>
+                                </div>
+                                <div className="map-modal-body">
+                                    <object
+                                        data={trip.photo_map_url}
+                                        alt={`Map for ${trip.start.name} to ${trip.end.name}`}
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </>
+            );
+        };
+
+        // Trip Card Component
+        const TripCard = ({ trip, onMapClick, towns }) => {
+            const easyAccessHours = 1.5;
+            const mediumAccessHours = 2.8;
+            const hardAccessHours = 3.8;
+
+            const avgTrainTime = (trip.start.time_distance + trip.end.time_distance) / 2.0;
+            const isEasyAccess = avgTrainTime < easyAccessHours;
+            const isMediumAccess = avgTrainTime >= easyAccessHours && avgTrainTime < mediumAccessHours;
+            const isHardAccess = avgTrainTime >= mediumAccessHours && avgTrainTime < hardAccessHours;
+            const isEpicAccess = avgTrainTime >= hardAccessHours;
+
+            const badgeClass = isEasyAccess ? 'bg-success' :
+                  isMediumAccess ? 'bg-warning' :
+                  isHardAccess ? 'bg-danger' :
+                  isEpicAccess ? 'bg-dark' : 'bg-secondary';
+
+            // Convert town slugs to town objects
+            const townObjects = trip.towns.map(slug => {
+                const town = getTownBySlug(slug, towns);
+                return town || { slug, name: slug, url: null };
+            });
+
+            return (
+                <div className="col">
+                    <div className="trip-card">
+                        <div className="trip-card-header">
+                            <h5>{trip.start.name} → {trip.end.name}</h5>
+                        </div>
+                        <div className="trip-card-body">
+                            <div className="mb-3">
+                                <span className="stat-badge bg-light text-dark">
+                                    📏 {trip.distance} km
+                                </span>
+                                <span className="stat-badge bg-light text-dark">
+                                    📅 {trip.days_min === trip.days_normal ? `${trip.days_normal} dni` : `${trip.days_min}-${trip.days_normal} dni`}
+                                </span>
+                                {trip.elevation && (
+                                    <span className="stat-badge bg-light text-dark">
+                                        ⛰️ {trip.elevation}m
+                                    </span>
+                                )}
+                            </div>
+
+                            <div className="mb-3">
+                              <span className={`surface-badge`}>
+                                {trip.surfaces.map((surface, index) => (
+                                  <span key={index}>
+                                    {surface === 'road' && '🛣️'}
+                                    {surface === 'gravel' && '🚵'}
+                                    {surface === 'mtb' && '🚵‍♂️'}
+                                    {' '}{surface.toUpperCase()}
+                                    {index < trip.surfaces.length - 1 && ', '}
+                                  </span>
+                                ))}
+                              </span>
+                            </div>
+
+                            <div className="mb-3">
+                                <small className="d-block mb-1 fw-semibold">Dojazd pociągiem:</small>
+                                <span className={`badge train-badge ${badgeClass} me-1`}>
+                                    🚂 Start: {trip.start.time_distance}h
+                                </span>
+                                <span className={`badge train-badge ${badgeClass}`}>
+                                    🚂 End: {trip.end.time_distance}h
+                                </span>
+                            </div>
+
+                            <div className="mb-3">
+                                <small className="d-block mb-1 fw-semibold">Gminy:</small>
+                                <div className="towns-list" style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem' }}>
+                                    {townObjects.map((town, idx) => (
+                                        town.url ? (
+                                            <a
+                                                key={idx}
+                                                href={town.url}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="badge bg-info text-decoration-none"
+                                                style={{
+                                                    fontSize: '0.8rem',
+                                                    padding: '0.4rem 0.7rem',
+                                                    transition: 'all 0.2s ease',
+                                                    cursor: 'pointer'
+                                                }}
+                                                onMouseOver={(e) => e.currentTarget.style.opacity = '0.8'}
+                                                onMouseOut={(e) => e.currentTarget.style.opacity = '1'}
+                                            >
+                                                {town.name}
+                                            </a>
+                                        ) : (
+                                            <span
+                                                key={idx}
+                                                className="badge bg-secondary hidden"
+                                                style={{
+                                                    fontSize: '0.8rem',
+                                                    padding: '0.4rem 0.7rem'
+                                                }}
+                                            >
+                                                {town.name}
+                                            </span>
+                                        )
+                                    ))}
+                                </div>
+                                <small className="d-block mb-1 fw-semibold">
+                                  Niezaliczonych <strong>{trip.towns_not_visited}</strong> gmin.
+                                  Aby zaliczyć jedną gminę potrzeba <strong>{trip.time_cost_to_visit_new_town}</strong> godzin.
+                                  Kierunek <strong>{trip.direction_char}</strong>
+                                </small>
+                            </div>
+
+                            <button
+                                className="btn btn-primary w-100 fw-semibold"
+                                onClick={() => window.open(trip.link, '_blank')}
+                            >
+                                🗺️ Mapa zewnętrzna
+                            </button>
+
+                            {trip.photo_map_url && (
+                                <div
+                                    className="trip-card-map"
+                                    onClick={() => onMapClick(trip)}
+                                    role="button"
+                                    tabIndex="0"
+                                    onKeyPress={(e) => {
+                                        if (e.key === 'Enter' || e.key === ' ') {
+                                            onMapClick(trip);
+                                        }
+                                    }}
+                                    aria-label={`Zobacz na mapie od ${trip.start.name} do ${trip.end.name}`}
+                                >
+                                    <object
+                                        data={trip.photo_map_url}
+                                        style={{ pointerEvents: 'none' }}
+                                        alt={`Miniaturowa mapa od ${trip.start.name} do ${trip.end.name}`}
+                                    />
+                                </div>
+                            )}
+                        </div>
+                    </div>
+                </div>
+            );
+        };
+
+        // Trip Filters Component
+        const TripFilters = ({ filters, onFilterChange, availableSurfaces, availableDirections }) => {
+            return (
+                <div className="filters-card">
+                    <h5 className="mb-4">🔍 Filtruj</h5>
+
+                    {/* Search */}
+                    <div className="filter-section">
+                        <h6>Search</h6>
+                        <input
+                            type="text"
+                            className="form-control"
+                            placeholder="Szukaj po gminie"
+                            value={filters.searchText}
+                            onChange={(e) => onFilterChange('searchText', e.target.value)}
+                        />
+                    </div>
+
+                    {/* Distance Range */}
+                    <div className="filter-section">
+                        <h6>Przedział dystansu:</h6>
+                        <div className="mb-2">
+                            <span className="range-value">{filters.distanceRange[0]} km</span>
+                            <span className="float-end range-value">{filters.distanceRange[1]} km</span>
+                        </div>
+                        <input
+                            type="range"
+                            className="form-range"
+                            min="50"
+                            max="300"
+                            step="10"
+                            value={filters.distanceRange[0]}
+                            onChange={(e) => onFilterChange('distanceRange', [parseInt(e.target.value), filters.distanceRange[1]])}
+                        />
+                        <input
+                            type="range"
+                            className="form-range"
+                            min="50"
+                            max="300"
+                            step="10"
+                            value={filters.distanceRange[1]}
+                            onChange={(e) => onFilterChange('distanceRange', [filters.distanceRange[0], parseInt(e.target.value)])}
+                        />
+                    </div>
+
+                    {/* Direction */}
+                    <div className="filter-section">
+                        <h6>Kierunki</h6>
+                        <div className="mb-2">
+                            <span>Kierunek</span>
+                        </div>
+                        <select
+                            className="form-select"
+                            value={filters.direction}
+                            onChange={(e) => onFilterChange('direction', e.target.value)}
+                        >
+                            <option value="">Wszystkie</option>
+                            {availableDirections.map(direction => (
+                                <option value={direction} >{direction}</option>
+                            ))}
+                        </select>
+                    </div>
+
+                    {/* Towns visited */}
+                    <div className="filter-section">
+                        <h6>Niezaliczone gminy przynajmniej</h6>
+                        <div className="mb-2">
+                            <span>{filters.notVisited} gmin</span>
+                        </div>
+                        <input
+                            type="range"
+                            className="form-range"
+                            min="0"
+                            max="10"
+                            step="1"
+                            value={filters.notVisited}
+                            onChange={(e) => onFilterChange('notVisited', parseInt(e.target.value))}
+                        />
+                    </div>
+
+                    {/* Trip Duration */}
+                    <div className="filter-section">
+                        <h6>Ilu dniowa</h6>
+                        <div className="form-check">
+                            <input
+                                className="form-check-input"
+                                type="checkbox"
+                                id="duration-1"
+                                checked={filters.duration.includes('1')}
+                                onChange={(e) => {
+                                    const newDuration = e.target.checked
+                                        ? [...filters.duration, '1']
+                                        : filters.duration.filter(d => d !== '1');
+                                    onFilterChange('duration', newDuration);
+                                }}
+                            />
+                            <label className="form-check-label" htmlFor="duration-1">
+                                1 dzień
+                            </label>
+                        </div>
+                        <div className="form-check">
+                            <input
+                                className="form-check-input"
+                                type="checkbox"
+                                id="duration-2"
+                                checked={filters.duration.includes('2')}
+                                onChange={(e) => {
+                                    const newDuration = e.target.checked
+                                        ? [...filters.duration, '2']
+                                        : filters.duration.filter(d => d !== '2');
+                                    onFilterChange('duration', newDuration);
+                                }}
+                            />
+                            <label className="form-check-label" htmlFor="duration-2">
+                                2 dni
+                            </label>
+                        </div>
+                        <div className="form-check">
+                            <input
+                                className="form-check-input"
+                                type="checkbox"
+                                id="duration-3"
+                                checked={filters.duration.includes('3')}
+                                onChange={(e) => {
+                                    const newDuration = e.target.checked
+                                        ? [...filters.duration, '3']
+                                        : filters.duration.filter(d => d !== '3');
+                                    onFilterChange('duration', newDuration);
+                                }}
+                            />
+                            <label className="form-check-label" htmlFor="duration-3">
+                                3 dni
+                            </label>
+                        </div>
+                        <div className="form-check">
+                            <input
+                                className="form-check-input"
+                                type="checkbox"
+                                id="duration-4"
+                                checked={filters.duration.includes('4')}
+                                onChange={(e) => {
+                                    const newDuration = e.target.checked
+                                        ? [...filters.duration, '4']
+                                        : filters.duration.filter(d => d !== '4');
+                                    onFilterChange('duration', newDuration);
+                                }}
+                            />
+                            <label className="form-check-label" htmlFor="duration-4">
+                                4 dni
+                            </label>
+                        </div>
+                        <div className="form-check">
+                            <input
+                                className="form-check-input"
+                                type="checkbox"
+                                id="duration-5-plus"
+                                checked={filters.duration.includes('5+')}
+                                onChange={(e) => {
+                                    const newDuration = e.target.checked
+                                        ? [...filters.duration, '5+']
+                                        : filters.duration.filter(d => d !== '5+');
+                                    onFilterChange('duration', newDuration);
+                                }}
+                            />
+                            <label className="form-check-label" htmlFor="duration-5-plus">
+                                5+ dni
+                            </label>
+                        </div>
+                    </div>
+
+                    {/* Surface Type */}
+                    <div className="filter-section">
+                        <h6>Surface Type</h6>
+                        <div className="d-flex flex-wrap gap-2">
+                            {availableSurfaces.map(surface => (
+                                <button
+                                    key={surface}
+                                    className={`btn btn-sm btn-surface ${filters.surface.includes(surface) ? 'active' : ''}`}
+                                    onClick={() => {
+                                        const newSurface = filters.surface.includes(surface)
+                                            ? filters.surface.filter(s => s !== surface)
+                                            : [...filters.surface, surface];
+                                        onFilterChange('surface', newSurface);
+                                    }}
+                                >
+                                    {surface === 'road' && '🛣️'}
+                                    {surface === 'gravel' && '🚵'}
+                                    {surface === 'mtb' && '🚵‍♂️'}
+                                    {' '}{surface}
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+
+                    {/* Train Accessibility */}
+                    <div className="filter-section">
+                        <h6>Dojazd pociągiem</h6>
+                        <select
+                            className="form-select"
+                            value={filters.trainAccessibility}
+                            onChange={(e) => onFilterChange('trainAccessibility', e.target.value)}
+                        >
+                            <option value="all">Wszystkie</option>
+                            <option value="easy">Szybkie [2h]</option>
+                            <option value="medium">Średni [4h]</option>
+                            <option value="hard">Ciężki [6h]</option>
+                            <option value="epic">Grube [8h]</option>
+                        </select>
+                    </div>
+
+                    {/* Reset Button */}
+                    <button
+                        className="btn btn-outline-secondary w-100"
+                        onClick={() => onFilterChange('reset', null)}
+                    >
+                        Reset All Filters
+                    </button>
+                </div>
+            );
+        };
+
+        // Trip List Component
+        const TripList = ({ trips, loading, onMapClick, towns }) => {
+            if (loading) {
+                return (
+                    <div className="loading-spinner">
+                        <div className="spinner-border text-primary" role="status" style={{ width: '3rem', height: '3rem' }}>
+                            <span className="visually-hidden">Loading...</span>
+                        </div>
+                        <p className="mt-3">Loading trips...</p>
+                    </div>
+                );
+            }
+
+            if (trips.length === 0) {
+                return (
+                    <div className="empty-state">
+                        <div className="empty-state-icon">🚫</div>
+                        <h3>Brak pomysłów na wycieczkę</h3>
+                        <p className="">Zmień filtry aby zobaczyć jakieś pomysły</p>
+                    </div>
+                );
+            }
+
+            return (
+                <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                    {trips.map((trip, index) => (
+                        <TripCard
+                            key={trip.slug || index}
+                            trip={trip}
+                            onMapClick={onMapClick}
+                            towns={towns}
+                        />
+                    ))}
+                </div>
+            );
+        };
+
+        // Main App Component
+        const App = () => {
+            const [trips, setTrips] = useState([]);
+            const [towns, setTowns] = useState([]);
+            const [loading, setLoading] = useState(true);
+            const [selectedMapTrip, setSelectedMapTrip] = useState(null);
+            const [filters, setFilters] = useState({
+                searchText: '',
+                distanceRange: [50, 300],
+                notVisited: 0,
+                duration: [],
+                surface: [],
+                trainAccessibility: 'all'
+            });
+
+            // Fetch trips on mount
+            useEffect(() => {
+                const fetchTrips = async () => {
+                    setLoading(true);
+                    try {
+                        const response = await fetch('/ideas.json');
+                        if (!response.ok) throw new Error('Failed to fetch');
+                        const data = await response.json();
+
+                        // Handle new JSON structure with ideas and towns arrays
+                        const ideas = data.ideas || data;
+                        const townsData = data.towns || [];
+
+                        // Map new format to old format
+                        const mappedTrips = (Array.isArray(ideas) ? ideas : []).map(trip => ({
+                            ...trip,
+                            days_min: trip.days_min || trip.lindays_mink,
+                            end: trip.end || trip.finish,
+                            photo_map_url: trip.photo_map_url,
+                            direction: trip.direction_char
+                        }));
+
+                        setTrips(mappedTrips);
+                        setTowns(townsData);
+                    } catch (err) {
+                        console.warn('Using mock data:', err);
+                        setTrips(mockTrips);
+                        setTowns(mockTowns);
+                    } finally {
+                        setLoading(false);
+                    }
+                };
+
+                fetchTrips();
+            }, []);
+
+            // Get available surfaces
+            const availableSurfaces = useMemo(() => {
+                const surfaces = new Set();
+                trips.forEach(trip => {
+                    if (Array.isArray(trip.surfaces)) {
+                        trip.surfaces.forEach(surface => surfaces.add(surface));
+                    } else if (trip.surfaces) {
+                        surfaces.add(trip.surfaces);
+                    }
+                });
+                return Array.from(surfaces).sort();
+            }, [trips]);
+
+            const availableDirections = useMemo(() => {
+                const directions = new Set();
+                trips.forEach(trip => {
+                    directions.add(trip.direction);
+                });
+                return Array.from(directions).sort();
+            }, [trips]);
+
+            // Apply filters
+            const filteredTrips = useMemo(() => {
+                return trips.filter(trip => {
+                    // Direction filter
+                    if (filters.direction && trip.direction != filters.direction) {
+                      return false;
+                    }
+
+                    // Distance filter
+                    if (trip.distance < filters.distanceRange[0] || trip.distance > filters.distanceRange[1]) {
+                        return false;
+                    }
+
+                    // Distance filter
+                    if (trip.towns_not_visited < filters.notVisited) {
+                        return false;
+                    }
+
+                    // Duration filter
+                    if (filters.duration.length > 0) {
+                        const duration = trip.days_normal;
+                        const matches = filters.duration.some(d => {
+                            if (d === '1' && duration == 1) return true;
+                            if (d === '2' && duration == 2) return true;
+                            if (d === '3' && duration == 3) return true;
+                            if (d === '4' && duration == 4) return true;
+                            if (d === '5+' && duration > 4) return true;
+                            return false;
+                        });
+                        if (!matches) return false;
+                    }
+
+                    // Surface filter
+                    if (
+                      filters.surface.length > 0 &&
+                      !trip.surfaces.some(surface => filters.surface.includes(surface))
+                    ) {
+                      return false;
+                    }
+
+                    // Search filter
+                    if (filters.searchText) {
+                        const search = filters.searchText.toLowerCase();
+                        const searchFields = [
+                            trip.start.name,
+                            trip.end.name,
+                            trip.slug,
+                            ...trip.towns
+                        ].join(' ').toLowerCase();
+                        if (!searchFields.includes(search)) return false;
+                    }
+
+                    // Train accessibility filter
+                    if (filters.trainAccessibility !== 'all') {
+                        const avgTrain = (trip.start.time_distance + trip.end.time_distance) / 2;
+                        if (filters.trainAccessibility === 'easy' && avgTrain > 2) return false;
+                        if (filters.trainAccessibility === 'medium' && avgTrain > 4) return false;
+                        if (filters.trainAccessibility === 'hard' && avgTrain > 6) return false;
+                        if (filters.trainAccessibility === 'epic' && avgTrain > 8) return false;
+                    }
+
+                    return true;
+                });
+            }, [trips, filters]);
+
+            // Handle filter changes
+            const handleFilterChange = (filterType, value) => {
+                if (filterType === 'reset') {
+                    setFilters({
+                        searchText: '',
+                        distanceRange: [50, 300],
+                        duration: [],
+                        surface: [],
+                        trainAccessibility: 'all'
+                    });
+                } else {
+                    setFilters(prev => ({
+                        ...prev,
+                        [filterType]: value
+                    }));
+                }
+            };
+
+            return (
+                <>
+                    <div className="container" style={{ paddingTop: '2rem' }}>
+                        <div className="row">
+                            <div className="col-lg-3 mb-4">
+                                <TripFilters
+                                    filters={filters}
+                                    onFilterChange={handleFilterChange}
+                                    availableSurfaces={availableSurfaces}
+                                    availableDirections={availableDirections}
+                                />
+                            </div>
+                            <div className="col-lg-9">
+                                <div className="result-count">
+                                    <strong>{filteredTrips.length}</strong> {filteredTrips.length === 1 ? 'trip' : 'trips'} found
+                                </div>
+                                <TripList
+                                    trips={filteredTrips}
+                                    loading={loading}
+                                    onMapClick={(trip) => setSelectedMapTrip(trip)}
+                                    towns={towns}
+                                />
+                            </div>
+                        </div>
+                    </div>
+                    <MapModal
+                        show={!!selectedMapTrip}
+                        onHide={() => setSelectedMapTrip(null)}
+                        trip={selectedMapTrip}
+                    />
+                </>
+            );
+        };
+
+        // Render the app
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>

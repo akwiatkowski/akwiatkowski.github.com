@@ -1,0 +1,333 @@
+:root {
+    --ideas-background: var(--color-white);
+    --ideas-filter-background: var(--color-white);
+    --ideas-card-background: var(--color-white);
+    --ideas-card-header-background: var(--color-white);
+
+    --primary-color: #0d6efd;
+    --success-color: #198754;
+    --info-color: #0dcaf0;
+    --warning-color: #ffc107;
+    --danger-color: #dc3545;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ideas-background: var(--color-charcoal-700);
+    --ideas-filter-background: var(--color-slate-500);
+    --ideas-card-background: var(--color-slate-500);
+    --ideas-card-header-background: var(--color-white);
+  }
+}
+
+.filters-card {
+    background: var(--ideas-filter-background);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    position: sticky;
+    top: 20px;
+}
+
+.filter-section {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.filter-section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.filter-section h6 {
+    font-weight: 600;
+    margin-bottom: 1rem;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.trip-card {
+    background: var(--ideas-card-background);
+    border-radius: 12px;
+    border: 1px solid #e9ecef;
+    transition: all 0.3s ease;
+    height: 100%;
+    overflow: hidden;
+}
+
+.trip-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.12);
+    border-color: #667eea;
+}
+
+.trip-card-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: var(--ideas-card-header-background);
+    padding: 1rem;
+}
+
+.trip-card-header h5 {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.trip-card-body {
+    padding: 1.25rem;
+}
+
+.stat-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.surface-badge {
+    font-weight: 600;
+    padding: 0.35rem 0.85rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+
+.surface-road {
+    background-color: #d1e7dd;
+    color: #0f5132;
+}
+
+.surface-gravel {
+    background-color: #cff4fc;
+    color: #055160;
+}
+
+.surface-mtb {
+    background-color: #f8d7da;
+    color: #842029;
+}
+
+.towns-list {
+    font-size: 0.85rem;
+    color: #6c757d;
+    line-height: 1.6;
+}
+
+.train-badge {
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+}
+
+.result-count {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #495057;
+    margin-bottom: 1.5rem;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.empty-state-icon {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+.loading-spinner {
+    text-align: center;
+    padding: 4rem 2rem;
+}
+
+.btn-surface {
+    border: 2px solid #dee2e6;
+    background: white;
+    color: #495057;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.btn-surface:hover {
+    border-color: #667eea;
+    background: #f8f9fa;
+}
+
+.btn-surface.active {
+    border-color: #667eea;
+    background: #667eea;
+    color: white;
+}
+
+.range-value {
+    font-weight: 600;
+}
+
+@media (max-width: 991px) {
+    .filters-card {
+        position: static;
+    }
+}
+
+@media (max-width: 767px) {
+    .header h1 {
+        font-size: 1.5rem;
+    }
+
+    .trip-card-header h5 {
+        font-size: 1rem;
+    }
+}
+
+/* Minimap Styles */
+.trip-card-map {
+    margin-top: 1rem;
+    width: 100%;
+    height: 140px;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #e9ecef;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.trip-card-map:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    transform: scale(1.02);
+}
+
+.trip-card-map img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+}
+
+/* Modal Styles */
+.map-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1050;
+    display: none;
+}
+
+.map-modal.show {
+    display: block;
+}
+
+.map-modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1040;
+}
+
+.map-modal-dialog {
+    position: relative;
+    width: auto;
+    max-width: 90%;
+    margin: 1.75rem auto;
+    z-index: 1050;
+}
+
+.map-modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 12px;
+    outline: 0;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+}
+
+.map-modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #dee2e6;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.map-modal-title {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #495057;
+}
+
+.map-modal-close {
+    padding: 0.5rem 0.5rem;
+    margin: -0.5rem -0.5rem -0.5rem auto;
+    background: transparent;
+    border: 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    opacity: 0.5;
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+
+.map-modal-close:hover {
+    opacity: 0.75;
+}
+
+.map-modal-body {
+    position: relative;
+    flex: 1 1 auto;
+    padding: 1.5rem;
+    max-height: calc(100vh - 200px);
+    overflow: auto;
+}
+
+.map-modal-body img {
+    width: 100%;
+    height: auto;
+    max-height: 600px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+    .map-modal-dialog {
+        max-width: 800px;
+    }
+}
+
+@media (max-width: 767px) {
+    .map-modal-dialog {
+        max-width: 95%;
+        margin: 1rem auto;
+    }
+
+    .map-modal-body {
+        max-height: calc(100vh - 150px);
+        padding: 1rem;
+    }
+}

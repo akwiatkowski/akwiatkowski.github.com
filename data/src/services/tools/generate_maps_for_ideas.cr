@@ -1,3 +1,6 @@
+# TODO: make it agnostic of env+target
+# TODO: load ideas from env config and use PhotoMap::IdeaRouteMapSvgView instead
+# of running `generate_map_for_idea`
 class Tools::GenerateMapsForIdeas
   ENVS    = ["dev", "full"]
   TARGETS = ["local", "release"]
@@ -64,7 +67,7 @@ class Tools::GenerateMapsForIdeas
 
     TARGETS.each do |target_path|
       output_path = File.join([
-        "env", env_string, "public", target_path, "photo_map", "for_idea", slug, "normal.svg",
+        "env", env_string, "public", target_path, Map::LinkGenerator.url_photomap_for_idea(slug: slug),
       ])
 
       Dir.mkdir_p(Path.new(output_path).parent)
