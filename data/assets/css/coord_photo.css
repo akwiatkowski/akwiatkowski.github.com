@@ -1,13 +1,15 @@
 .coord-photo-table {
   display: grid;
   gap: 1px;
-  max-width: 90vmin;
+  max-width: 100vmin;
   aspect-ratio: 1;
   margin: 0 auto;
   background: #333; /* Dark grid background */
   padding: 4px; /* Optional subtle padding */
   container-type: inline-size; /* For container queries */
 }
+
+
 
 @container (max-width: 400px) {
   .coord-photo-table {
@@ -21,16 +23,11 @@
 
 .coord-photo-cell {
   position: relative;
-  border-radius: 3px;
+  /* border-radius: 3px; */
   transition: transform 0.1s ease, box-shadow 0.2s ease;
   overflow: hidden;
 }
 
-.coord-photo-cell:hover {
-  transform: scale(1.05);
-  z-index: 5;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-}
 
 .coord-photo-cell::after {
   content: attr(title);
@@ -55,16 +52,26 @@
 }
 
 .coord-photo-cell-disabled {
-  background: linear-gradient(135deg, #ddd 0%, #ccc 100%);
+  background: #ddd;
+}
+
+@media (prefers-color-scheme: dark) {
+  .coord-photo-cell-disabled {
+    background: #111;
+  }
 }
 
 .coord-photo-cell-enabled {
-  background: linear-gradient(135deg, #555 0%, #333 100%);
+  background: linear-gradient(135deg, rgba(85, 85, 85, 0.4) 0%, rgba(51, 51, 51, 0.2) 100%);
   border: 1px solid rgba(255,255,255,0.1);
 }
 
 .coord-photo-cell-enabled:hover {
-  background: linear-gradient(135deg, #666 0%, #444 100%);
+  background: linear-gradient(135deg, rgba(85, 145, 85, 0.5) 0%, rgba(51, 81, 51, 0.2) 100%);
+
+  transform: scale(1.4);
+  z-index: 5;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
 .coord-photo-cell-blank-link {

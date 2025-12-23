@@ -143,6 +143,8 @@
   --container-md: 768px;
   --container-lg: 1024px;
   --container-xl: 1280px;
+
+  --bs-secondary-color: var(--color-charcoal-800);
 }
 
 /* Dark mode colors */
@@ -193,6 +195,8 @@
 
     --color-overlay-gradient-top: rgba(0,0,0,0.2);
     --color-overlay-gradient-bottom: rgba(0,0,0,0.15);
+
+    --bs-secondary-color: var(--color-gray-300);
   }
 }
 
@@ -203,6 +207,10 @@
 }
 
 /* Base styles */
+html {
+  background-color: var(--color-background) !important;
+}
+
 body {
   background-color: var(--color-background) !important;
   font-size: var(--font-size-base) !important;
@@ -500,6 +508,10 @@ body {
 /* Override default style */
 .bg-light {
   background-color: unset !important;
+}
+
+.navbar-brand {
+  margin-left: 10px;
 }
 .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand, .table  {
   color: var(--color-text) !important;
