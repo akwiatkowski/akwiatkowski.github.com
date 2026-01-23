@@ -1,0 +1,23 @@
+slug: welna-z-jankowa-dolnego-do-wagrowca
+link: http://trasy.ump.waw.pl/?hl=pl&loc=52.538799,17.719637&loc=52.587719,17.665833&loc=52.662521,17.606226&loc=52.755352,17.615446&loc=52.772705,17.510321&loc=52.762600,17.434956&loc=52.763840,17.301434&loc=52.809097,17.202221&z=14&center=52.803177,17.196522&alt=0&df=0&re=4&ly=611352508
+distance: 76
+elevation:
+days_min: 1
+days_normal: 1
+start: Jankowo Dolne
+finish: Wągrowiec
+surfaces: # road, gravel, mtb
+  - gravel
+towns:
+  - gniezno
+  - mieleszyn
+  - rogowo_zninski
+  - janowiec_wielkopolski
+  - miescisko
+  - wagrowiec
+drone_pois:
+  - 52.57537,17.66907 # Strzyżewo Kościelne
+  - 52.71317,17.61156 # Rzym, near S5 lower terrain near river
+  - 52.77947,17.58427 # ! Janowiec-Rogowo
+  - 52.75813,17.38918 # ! Janowiec-Mieścisko, Tumidaj
+  - 52.78601,17.27717 # Nowa Wieś, Wągrowiec
