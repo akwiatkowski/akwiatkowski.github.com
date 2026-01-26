@@ -6,13 +6,14 @@ struct PhotoTagEntity
   @title : String
   @subtitle : String?
 
-  getter :slug, :slug_pl, :title, :subtitle
+  getter :slug, :slug_pl, :title, :subtitle, :points
 
   def initialize(y : YAML::Any)
     @slug = y["slug"].as_s
     @slug_pl = y["slug_pl"].as_s
     @title = y["title"].as_s
     @subtitle = y["subtitle"].as_s?
+    @points = y["points"].as_i
   end
 
   def view_url

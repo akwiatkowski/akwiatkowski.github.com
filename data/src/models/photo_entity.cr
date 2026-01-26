@@ -27,6 +27,8 @@ struct PhotoEntity
 
   @full_image_src : String
 
+  @points : Int32
+
   @exif : ExifEntity
 
   @tags : Array(String)
@@ -94,12 +96,13 @@ struct PhotoEntity
   getter :post_preview_image_src, :gallery_thumb_image_src, :full_image_src, :masonry_image_src, :map_thumb_image_src
   getter :full_image_sanitized
   getter :time, :day_of_year, :float_of_year
-  getter :tags, :nameless
+  getter :tags, :nameless, :points
   getter :post_title, :post_time, :post_slug, :post_url, :param_string
 
   property :exif
 
   def initialize(
+    blog : Tremolite::Blog,
     post : Tremolite::Post,
     @image_filename : String,
     @param_string,
@@ -146,6 +149,19 @@ struct PhotoEntity
       post_slug: @post_slug,
       image_filename: @image_filename,
     )
+
+    # calculate points
+    @points = 0
+    @tags.each do |tag|
+      selected = blog.data_manager.photo_tags.not_nil!.select do |photo_tag|
+        photo_tag.slug == tag
+      end
+
+      Log.error { "tag '#{tag}' not in photo tag config yaml" } if selected.size == 0
+      photo_tag = selected.first
+
+      @points += photo_tag.points
+    end
   end
 
   def mark_as_published!
@@ -261,6 +277,16 @@ struct PhotoEntity
 
   def exif_time
     self.exif.time.not_nil!
+  end
+
+  def post_url
+    return post_slug.sub(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/) do |match|
+      year = match[1]
+      month = match[2]
+      day = match[3]
+      slug = match[4]
+      "#{year}/#{month}/#{day}/#{slug}.html"
+    end
   end
 
   # when there is not enough camera/lens/tag photos to populate gallery

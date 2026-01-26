@@ -7,7 +7,7 @@ struct TrainStationEntity
   Log = ::Log.for(self)
 
   @name : String
-  @time_distance : Float64
+  @time_distance : Hash(String, Float64)
   @lat : Float64
   @lon : Float64
 
@@ -15,9 +15,26 @@ struct TrainStationEntity
 
   def initialize(y : YAML::Any)
     @name = y["name"].as_s
-    @time_distance = y["time_distance"].as_f
     @lat = y["lat"].as_f
     @lon = y["lon"].as_f
+
+    @time_distance = Hash(String, Float64).new
+    y["time_distance"].as_h.keys.each do |city|
+      @time_distance[city.to_s] = y["time_distance"][city].as_f
+    end
+  end
+
+  def poznan_time_distance
+    return @time_distance["Poznań"]
+  end
+
+  def get_time_distance_from(station_name : String)
+    {
+      name:          name,
+      lat:           lat,
+      lon:           lon,
+      time_distance: time_distance[station_name],
+    }
   end
 
   # def view_url

@@ -85,16 +85,19 @@ struct IdeaEntity
   # TODO: maybe allow to get array of strings also?
   def towns_not_visited(visited_towns : Array(TownEntity)) : Int32
     visited_slugs = visited_towns.map { |town_entity| town_entity.slug }.flatten
-    not_visited = [visited_slugs - @towns].flatten
+    # @towns are towns which will be marked as visited
+    # if we remove already visited then we get to know how many will be
+    # added as visited after riding this route
+    not_visited = [@towns - visited_slugs].compact.flatten
     not_visited.size
   end
 
-  def time_cost_to_visit_new_town(
+  def time_cost_stats_for_new_town(
     visited_towns : Array(TownEntity),
     total_train_ride_time : Int32,     # rounded, ceiling
     realistic_velocity : Int32 = 10,   # km/h per ride-time (no sleeping and rest time)
     max_per_day_ride_time : Int32 = 8, # hours
-  ) : Int32
+  )
     sleep_and_rest_time = 0.0
     realistic_ride_time = distance.to_f / realistic_velocity.to_f
 
@@ -111,9 +114,25 @@ struct IdeaEntity
     not_visited = towns_not_visited(visited_towns)
 
     if not_visited == 0
-      return 100 # failsafe
+      # failsafe
+      time_cost_with_sleeping = 100
+      time_cost_riding = 100
+      time_cost_riding_and_train = 100
     else
-      return (total_time / not_visited.to_f).ceil.to_i
+      time_cost_with_sleeping = (total_time / not_visited.to_f).ceil.to_i
+      time_cost_riding = (realistic_ride_time / not_visited.to_f).ceil.to_i
+      time_cost_riding_and_train = ((realistic_ride_time + total_train_ride_time.to_f) / not_visited.to_f).ceil.to_i
     end
+
+    return {
+      sleep_and_rest_time:        sleep_and_rest_time,
+      realistic_ride_time:        realistic_ride_time,
+      total_train_ride_time:      total_train_ride_time,
+      total_time:                 total_time,
+      not_visited:                not_visited,
+      time_cost_with_sleeping:    time_cost_with_sleeping,
+      time_cost_riding:           time_cost_riding,
+      time_cost_riding_and_train: time_cost_riding_and_train,
+    }
   end
 end
