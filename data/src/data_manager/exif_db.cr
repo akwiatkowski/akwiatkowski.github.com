@@ -101,6 +101,7 @@ class ExifDb
 
     not_published_filenames.each do |uploaded_path|
       draft_photo_entity = PhotoEntity.new(
+        blog: @blog,
         post: post,
         image_filename: uploaded_path,
         param_string: "",
