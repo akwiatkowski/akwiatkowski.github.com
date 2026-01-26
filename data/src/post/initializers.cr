@@ -43,9 +43,12 @@ class Tremolite::Post
 
   # override post url
   def process_paths
-    time_part = @time.to_s("%Y/%m/%d")
-    slug_wo_time = @slug.gsub(/\d{4}-\d{2}-\d{2}-/, "")
-    @url = "/#{time_part}/#{slug_wo_time}.html"
+    time_part_wo_day = @time.to_s("%Y/%m/")
+    slug_with_day = @slug.gsub(/\d{4}-\d{2}-/, "")
+    @url = "/#{time_part_wo_day}#{slug_with_day}.html"
+    # used for 301. If there will be another url change in # future
+    # this must be changed here
+    @old_url = "/#{@category || "trip"}/#{@slug}"
   end
 
   # TODO this will require a lot of operations
@@ -306,6 +309,7 @@ class Tremolite::Post
 
     # set head_photo_entity
     @head_photo_entity = PhotoEntity.new(
+      blog: @blog,
       image_filename: @image_filename.not_nil!,
       desc: @title,
       is_gallery: gallery?,

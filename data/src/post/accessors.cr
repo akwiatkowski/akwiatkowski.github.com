@@ -18,6 +18,7 @@ class Tremolite::Post
   getter :finished_at
   getter :head_photo_entity
   getter :default_suggested_map_zooms
+  getter :old_url # for 301 redirects
 
   # getter :voivodeships
   def voivodeships
