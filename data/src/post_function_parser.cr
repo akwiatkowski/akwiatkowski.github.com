@@ -104,6 +104,7 @@ class Tremolite::Views::BaseView
   def post_photo(post : Tremolite::Post, image_filename : String, desc : String, param_string : String)
     # create entity instance
     photo_entity = PhotoEntity.new(
+      blog: @blog,
       post: post,
       desc: desc,
       image_filename: image_filename,
@@ -119,11 +120,14 @@ class Tremolite::Views::BaseView
     )
   end
 
-  def self.photo_tag_gallery_link(photo_entity, tag)
+  def self.photo_tag_gallery_link(
+    photo_entity : PhotoEntity,
+    photo_tag_entity : PhotoTagEntity,
+  )
     String.build do |s|
-      s << "<a href=\"/gallery/#{tag}##{photo_entity.full_image_sanitized}\">"
+      s << "<a href=\"#{photo_tag_entity.view_url}##{photo_entity.full_image_sanitized}\">"
       s << bootstrap_icon(
-        key: PhotoEntity::TAG_BOOTSTRAP_ICON[tag],
+        key: PhotoEntity::TAG_BOOTSTRAP_ICON[photo_tag_entity.slug],
         size: 16
       )
       s << "</a> "
@@ -135,10 +139,19 @@ class Tremolite::Views::BaseView
       # only predefined tags will have icon link to gallery page
       PhotoEntity::TAG_BOOTSTRAP_ICON.keys.each do |tag|
         if photo.tags.includes?(tag)
-          s << self.class.photo_tag_gallery_link(
-            photo_entity: photo,
-            tag: tag
-          )
+          selected_photo_tag = @blog.data_manager.photo_tags.not_nil!.select do |photo_tag|
+            photo_tag.slug == tag
+          end
+
+          Log.error { "tag '#{tag}' not in photo tag config yaml" } if selected_photo_tag.size == 0
+          photo_tag = selected_photo_tag.first
+
+          if photo_tag
+            s << self.class.photo_tag_gallery_link(
+              photo_entity: photo,
+              photo_tag_entity: photo_tag
+            )
+          end
         end
       end
     end
