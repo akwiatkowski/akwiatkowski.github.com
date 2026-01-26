@@ -58,7 +58,7 @@ strava: 5680381158
 [wiki-ludowice]: https://pl.wikipedia.org/wiki/Ludowice
 [wiki-zielen]: https://pl.wikipedia.org/wiki/Ziele%C5%84_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 
-{% photo_header "W czasie żniw","tag:summer,tag:timeline,tag:countryside" %}
+{% photo_header "W czasie żniw","tag:summer,tag:timeline,tag:rural" %}
 
 ## Wstęp
 
@@ -67,7 +67,7 @@ Po tak dobrych doświadczeniach
 w okolicy [Jabłonowa Pomorskiego][wiki-jablonowo-pomorskie],
 postanowiłem powtórzyć wycieczkę.
 
-{% photo "2021_07_24__13_29_DSC03069.jpg","Okolica Buku Pomorskiego","tag:good,tag:timeline,tag:countryside" %}
+{% photo "2021_07_24__13_29_DSC03069.jpg","Okolica Buku Pomorskiego","tag:good,tag:timeline,tag:rural" %}
 
 Oczywiście nie chciałem jechać tą samą trasą. Wolałem teraz kierować się
 docelowo do [Torunia][wiki-torun].
@@ -79,14 +79,14 @@ Wziąłem inny rower (szosa) i inny aparat fotograficzny
 Pierwszy pociąg do [Jabłonowa][wiki-jablonowo-pomorskie] jest po godzinie 6-tej.
 Dla mnie to było zbyt wcześnie i ruszyłem późniejszym - około godziny 10-tej.
 
-{% photo "2021_07_24__13_34_DSC03079.jpg","Pomiędzy Bukiem Pomorskim a Nową Wsią","tag:timeline,tag:countryside,tag:summer" %}
+{% photo "2021_07_24__13_34_DSC03079.jpg","Pomiędzy Bukiem Pomorskim a Nową Wsią","tag:timeline,tag:rural,tag:summer" %}
 
 Moim pierwszym celem było powtórzenie zdjęcia alei drzew, którą pierwszy raz
 widziałem [bardzo późną jesienią]({% post_url 2019-12-01-eksploracja-warmii-samochodem %}). Dlatego
 ruszyłem teraz przez [Buk Pomorski][wiki-buk-pomorski] w stronę
 [Lisnowa][wiki-lisnowo].
 
-{% photo "2021_07_24__13_42_DSC03099.jpg","Samotna drewniana wieża","tag:good,tag:countryside" %}
+{% photo "2021_07_24__13_42_DSC03099.jpg","Samotna drewniana wieża","tag:good,tag:rural" %}
 
 Dotarłem do [Nowej Wsi][wiki-nowa-wies-jablonowo]. Ciekawe ile w Polsce jest miejscowości
 o takiej nazwie.
@@ -122,7 +122,7 @@ Droga była usłana podjazdami i zjazdami. Chociaż teraz patrząc na nagrane
 filmiki to wydaje mi się, że zjazdów było więcej - chociaż
 nie powinno mnie to dziwić gdyż nagrywam głównie zjazdy.
 
-{% photo "2021_07_24__14_37_DSC03185.jpg","Prace rolne w okolicy Linowa","tag:countryside" %}
+{% photo "2021_07_24__14_37_DSC03185.jpg","Prace rolne w okolicy Linowa","tag:rural" %}
 
 Krajobraz mi się bardzo podobał. Zwłaszcza zjazdy w oklicy
 [Świecia nad Osą][wiki-swiecie-nad-osa].
@@ -212,7 +212,7 @@ Zbliżając się do drogi 548 na drodze "stanęły" betonowe płytki. Jadąc
 rowerem spokojnie je wyminąłem. Droga była tutaj remontowana i te płytki blokowały
 dojazd dla samochodów.
 
-{% photo "2021_07_24__17_42_DSC03411.jpg","Wieś Ludowice","tag:countryside" %}
+{% photo "2021_07_24__17_42_DSC03411.jpg","Wieś Ludowice","tag:rural" %}
 
 Aby wyminąć tereny leśne podjechałem trochę na zachód i kierowałem się
 do wsi [Trzciano][wiki-trzciano].
