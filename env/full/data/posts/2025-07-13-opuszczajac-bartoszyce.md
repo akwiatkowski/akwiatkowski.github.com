@@ -49,7 +49,7 @@ Po wczorajszym męczącym dniu dzisiaj musiałem zaplanować znacznie
 łatwiejszą trasę. Chciałem dojechać do [Korsze][wiki-korsze] jako najsensowniejsza
 stacja kolejowa do powrotu.
 
-{% photo "2025_07_13__10_02_P7130319.jpg","Pole niedaleko wsi Skitno" %}
+{% photo "2025_07_13__10_02_P7130319.jpg","Pole niedaleko wsi Skitno","tag:timeline,tag:common" %}
 
 ## Szczegóły
 
@@ -58,47 +58,47 @@ Rosją aby zobaczyć klimat tych wiosek. Zastanawiałem się, gdzie będziemy mo
 się rozdzielić. To nie było proste i patrząc na teraz to uważam, że byłaby
 to złą decyzją.
 
-{% photo "2025_07_13__10_14_P7130330.jpg","Budynki obok wsi Liski" %}
+{% photo "2025_07_13__10_14_P7130330.jpg","Budynki obok wsi Liski","tag:rural" %}
 
 Pogoda tego dnia była diametralnie inna. Jak wczoraj niebo było zachmurzone
 tak dzisiaj było bezchmurne. Było ciepło ale nie za ciepło.
 
-{% photo "2025_07_13__10_27_P7130335.jpg","Pod Lasem obok Turcza" %}
+{% photo "2025_07_13__10_27_P7130335.jpg","Pod Lasem obok Turcza","tag:rural" %}
 
 Dzisiaj również zaufałem Green Velo. I zgodnie z trasą
 wyjechaliśmy z [Bartoszyc][wiki-bartoszyce].
 
-{% photo "2025_07_13__10_28_P7130337.jpg","Droga do Smolanki" %}
+{% photo "2025_07_13__10_28_P7130337.jpg","Droga do Smolanki","tag:common" %}
 
 Dla mnie krajobraz był zdecydowanie nudniejszy. Było płasko i monotonnie.
 Same wioski, pola i nic więcej. Chociaż jest to powierzchowna opinia bo
 wydaje mi się, że gdybyśmy trochę dalej zboczyli to znalazłbym dużo
 klimatycznych miejsc.
 
-{% photo "2025_07_13__10_45_P7130344.jpg","Droga przez Sępopol" %}
+{% photo "2025_07_13__10_45_P7130344.jpg","Droga przez Sępopol","tag:town" %}
 
 Jechaliśmy przez [Sępopol][wiki-sepopol] do wsi [Prosna][wiki-prosna]
 gdzie są ruiny zamku. Aleks tam polatał dronem a ja pojechałem dalej do
 skrzyżowania rzek [Sajna][wiki-sajna-rzeka] i [Guber][wiki-guber-rzeka].
 
-{% photo "2025_07_13__13_14_DJI_0627.jpg","Wieś Sątoczno" %}
+{% photo "2025_07_13__13_14_DJI_0627.jpg","Wieś Sątoczno","tag:rural,tag:air" %}
 
 Korzystając z lepszej pogody trochę dłużej polataliśmy dronami niż wczoraj. Ilość
 zapasowego czasu do odjazdu pociągu się zmniejszyła istotnie. Ze sporego
 zapasu dotarliśmy do sytuacji gdzie musieliśmy sprawnie jechać aby zdążyć.
 
-{% photo "2025_07_13__12_24_P7130388.jpg","Stare budynki we wsi Sątoczno" %}
+{% photo "2025_07_13__12_24_P7130388.jpg","Stare budynki we wsi Sątoczno","tag:rural,tag:ruin" %}
 
 Przeżyliśmy chwilowy deszcz. Najpierw zobaczyłem go na wyświetlaczu
 pilota. Nic nie wskazywało aby tego dnia mogło padać.
 
-{% photo "2025_07_13__13_16_DJI_0632.jpg","Wieś Prosna i rzeka Guber" %}
+{% photo "2025_07_13__13_16_DJI_0632.jpg","Wieś Prosna i rzeka Guber","tag:air,tag:rural" %}
 
 Dronem doleciałem do wsi [Sątoczno][wiki-satoczno] gdzie
 byłem w [2021]({% post_url 2021-08-24-polnocne-okolice-korsza %}) roku.
 Miejscowość ta była chyba najładniejsza (patrząc z perspektywy drona).
 
-{% photo "2025_07_13__13_41_DJI_0677.jpg","Wieś Bykowo i rzeka Sajna" %}
+{% photo "2025_07_13__13_41_DJI_0677.jpg","Wieś Bykowo i rzeka Sajna","tag:air,tag:rural" %}
 
 Następnie szybko jechaliśmy do [Korsze][wiki-korsze] gdzie za kilkanaście
 minut przyjechać miał powrotny pociąg. Wspomniana wcześniej myśl o rozdzieleniu

@@ -83,7 +83,7 @@ Byłem tutaj rowerem
 Tym razem musieliśmy skręcić w prawo do [Luboradzy][wiki-luboradza]
 zamiast jechać w stronę [Kluczewa][wiki-kluczewo].
 
-{% photo "2020_06_13__08_48__6137493.jpg","Zając we wsi Parchlino","tag:wild" %}
+{% photo "2020_06_13__08_48__6137493.jpg","Zając we wsi Parchlino","tag:wildlife %}
 
 Wieś [Parchlino][wiki-parchlino] bardzo mi się podobała. Jest ona położona tak
 "z dala od wszystkiego". Izolacja tutaj musi być czymś strasznym i jednocześnie

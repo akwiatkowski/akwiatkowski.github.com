@@ -84,7 +84,7 @@ Jechaliśmy pociągiem osobowym do stacji [Szczecin Dąbie][wiki-szczecin-dabie]
 Jak zwykle nie mogło obyć się bez przygód. Były jakieś problemy z zasilaniem i nasz
 pociąg spóźnił się 1-2 minuty na przesiadkę. Na szczęście szynobus na nas poczekał.
 
-{% photo "2022_07_02__11_28_P7022775.jpg","Droga do Luboradzy","tag:countryside" %}
+{% photo "2022_07_02__11_28_P7022775.jpg","Droga do Luboradzy","tag:rural" %}
 
 Z okna pociągu okolica nie była jakaś rewelacyjna. Bliskość ekspresówki
 S6 tłumaczy dlaczego.
@@ -94,12 +94,12 @@ to miasteczko jednak nasz dzisiejszy cel był dość odległy dlatego postanowil
 bez zatrzymywania się jechać dalej. A szkoda, bo domy w okolicy
 stacji kolejowej mi się bardzo podobały.
 
-{% photo "2022_07_02__11_33_P7022789.jpg","Dom na polu","tag:countryside" %}
+{% photo "2022_07_02__11_33_P7022789.jpg","Dom na polu","tag:rural" %}
 
 Podjechaliśmy niecałe kilometr na północ do [Słudwi][wiki-sludwia]
 gdzie już mogliśmy bardzo spokojnymi drogami jechać dalej na wschód.
 
-{% photo "2022_07_02__11_44_P7022793.jpg","Wieś Słowikowo","tag:countryside,tag:summer" %}
+{% photo "2022_07_02__11_44_P7022793.jpg","Wieś Słowikowo","tag:rural,tag:summer" %}
 
 Niedawno była jakaś wichura która przewróciła drzewa na linie telefoniczną.
 

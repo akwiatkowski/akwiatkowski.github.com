@@ -164,7 +164,7 @@ czasu aby poszukać plaży.
 
 {% photo "2021_05_22__16_33__5226255.jpg","Widok z wieży widokowej w Świechocinie","tag:good" %}
 
-{% photo "2021_05_22__16_34__5226267.jpg","Widok na wieś Świechocin","tag:countryside" %}
+{% photo "2021_05_22__16_34__5226267.jpg","Widok na wieś Świechocin","tag:rural" %}
 
 Zrobiliśmy krótką przerwę przy sklepie. To był drugi sklep odwiedzony tego dnia.
 Przekonał mnie napis "hot-dogi" na szyldzie ale okazało się, że jest on

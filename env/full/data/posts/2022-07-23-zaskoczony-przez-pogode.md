@@ -70,7 +70,7 @@ specjalnie bo rzadko wstawałem o 5-tej rano ale to mały szczegół.
 Oczywiście patrzyłem często na prognozę pogody, jednak jakoś wydawało mi się,
 że będzie ona inna. A raczej zakładałem, że bez problemu powinienem przeżyć 26C.
 
-{% photo "2022_07_23__09_01_P7230011.jpg","Okolice Lembargu","tag:timeline,tag:summer,tag:countryside" %}
+{% photo "2022_07_23__09_01_P7230011.jpg","Okolice Lembargu","tag:timeline,tag:summer,tag:rural" %}
 
 Na początku musiałem pojechać trochę na zachód. Jest tutaj jakiś
 zamek na wzgórzu, który kojarzyłem głównie z wycieczek [Turkola][turkol]
@@ -78,14 +78,14 @@ gdyż widziałem go z okna pociągu.
 
 Przejechałem pod bardzo ładnym tunelem pod torami kolejowymi.
 
-{% photo "2022_07_23__09_01_P7230013.jpg","Niektóre pola już zostały ścięte","tag:timeline,tag:summer,tag:countryside,tag:good" %}
+{% photo "2022_07_23__09_01_P7230013.jpg","Niektóre pola już zostały ścięte","tag:timeline,tag:summer,tag:rural,tag:good" %}
 
 Kierowałem się na południe spokojną drogą przez małe wioski. Trasę miałem zaplanowaną
 i teoretycznie nie była trudna, jednak jazda nie sprawiała mi przyjemności.
 Było tak *bardzo* ciepło i wilgotno w powietrzu, że jazda nie sprawiała
 mi przyjemności. A było wcześnie rano i wiedziałem, że później będzie trudniej.
 
-{% photo "2022_07_23__09_39_P7230025.jpg","Dom w okolicy Dąbrówki","tag:countryside" %}
+{% photo "2022_07_23__09_39_P7230025.jpg","Dom w okolicy Dąbrówki","tag:rural" %}
 
 Jeżeli miałbym oceniać zboża to wybrałem idealny dzień. Jeżeli miałbym
 oceniać pogodę to wręcz przeciwnie.
@@ -95,7 +95,7 @@ się nie tworzą.
 Powodem jest wyższa wilgotność powietrza i się chmury formują.
 Jest to bardzo smutny wniosek związany ze zmianami klimatu.
 
-{% photo "2022_07_23__10_01_P7230027.jpg","Gromadzące się chmury przed burzą","tag:countryside" %}
+{% photo "2022_07_23__10_01_P7230027.jpg","Gromadzące się chmury przed burzą","tag:rural" %}
 
 W [Bukowcu][wiki-bukowiec] okazało się, że skrót drogi nie nadaje się na mój
 rower i musiałem jechać do [Lembargu][wiki-lembarg].

@@ -156,11 +156,11 @@ odjazdu.
 Chciałem dostać się na pierwsze karmienie fok w [fokarium][fokarium],
 które jest o godzinie 11-tej.
 
-{% photo "2020_02_05__11_03__2050557.jpg","Foka (2)","tag:seal" %}
+{% photo "2020_02_05__11_03__2050557.jpg","Foka (2)","tag:animal" %}
 
 Wysiadłem w [Helu][wiki-hel] około 20 minut przed 11-tą. Ruszyłem w stronę portu.
 
-{% photo "2020_02_05__11_05__2050633.jpg","Foka na plecach","tag:seal" %}
+{% photo "2020_02_05__11_05__2050633.jpg","Foka na plecach","tag:animal" %}
 
 Przed wejście do [fokarium][fokarium] potrenowałem robiąc zdjęcia
 ptakom w locie.
@@ -169,7 +169,7 @@ ptakom w locie.
 
 Używałem do tego Olympus M1 mark 2 i Olympusa 40-150/2.8 z telekonwerterem 1.4x.
 
-{% photo "2020_02_05__11_18__2051130.jpg","Foka podwodna","tag:good,tag:seal" %}
+{% photo "2020_02_05__11_18__2051130.jpg","Foka podwodna","tag:good,tag:animal" %}
 
 W samym [fokarium][fokarium] było sporo ludzi. Czasami miałem problem
 aby mieć dostęp - ludzie zasłaniali widok.

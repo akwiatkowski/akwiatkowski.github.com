@@ -69,7 +69,7 @@ strava: 5716897856
 [wiki-linia-353]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_353
 [wiki-ostrowite-kolo-jablonowa]: https://pl.wikipedia.org/wiki/Ostrowite_ko%C5%82o_Jab%C5%82onowa
 
-{% photo_header "Północne okolice Jezioraka","tag:summer,tag:timeline,tag:countryside" %}
+{% photo_header "Północne okolice Jezioraka","tag:summer,tag:timeline,tag:rural" %}
 
 ## Wstęp
 
@@ -85,7 +85,7 @@ preferował inną wersję trasy. Ja szczerze mówiąc początkowo wolałem jecha
 [Bydgoszczy][wiki-bydgoszcz] aby zaliczyć kilka nowych gmin, jednak nie sądziłem,
 że moja opcja jest znacznie lepsza.
 
-{% photo "2021_07_31__09_54__7310605.jpg","Okolica Nowej Wsi","tag:timeline,tag:countryside,tag:summer" %}
+{% photo "2021_07_31__09_54__7310605.jpg","Okolica Nowej Wsi","tag:timeline,tag:rural,tag:summer" %}
 
 Dzień wcześniej po 22-giej byłem już prawie spakowany. Chciałem podmienić
 siodełko jednak okazało się, że starsze mi lepiej pasuje z torbą podsiodłową.
@@ -153,7 +153,7 @@ Dojazd kolejowy do [Ostrowite koło Jabłonowa][wiki-ostrowite-kolo-jablonowa]
 jest dość ciężki. Chyba każde połączenie wiąże się z długim czasem oczekiwania
 za przesiadką w [Toruniu][wiki-torun].
 
-{% photo "2021_07_31__10_31__7310741.jpg","Droga do Mierzyna","tag:countryside" %}
+{% photo "2021_07_31__10_31__7310741.jpg","Droga do Mierzyna","tag:rural" %}
 
 Jechaliśmy na północ w stronę do [Mierzyna][wiki-mierzyn]. Krajobraz był
 delikatnie pofalowany ale jednocześnie bardzo ładny i uspokajający.
@@ -162,20 +162,20 @@ W [Suminie][wiki-sumin] na chwilę odwiedziłem sklep. Patrząc na mapę
 ciekawi mnie niebieski szlak pieszy na zachód, w stronę
 [Świecia nad Osą][wiki-swiecie-nad-osa].
 
-{% photo "2021_07_31__10_43__7310751.jpg","Dom w obniżeniu przy Jeziorze Mierzyńskim","tag:countryside" %}
+{% photo "2021_07_31__10_43__7310751.jpg","Dom w obniżeniu przy Jeziorze Mierzyńskim","tag:rural" %}
 
 Dotarliśmy do [Wielkiej Tymawy][wiki-wielka-tymawa]. Okazało się,
 że jednak jest sensowna droga do wsi [Święte][wiki-swiete] i nie musimy
 jechać do [Szonowy Szlacheckiej][wiki-szonowa-szlachecka].
 Sama droga wojewódzka 538 nie wyglądała na ruchliwą.
 
-{% photo "2021_07_31__11_02__7310764.jpg","Okolice wsi Osówko","tag:countryside" %}
+{% photo "2021_07_31__11_02__7310764.jpg","Okolice wsi Osówko","tag:rural" %}
 
 Wieś [Święte][wiki-swiete] miała swój klimat: mała, ładna i spokojna.
 
 Kierowaliśmy się przez [Kozłowo][wiki-kozlowo] do [Kisielic][wiki-kisielice].
 
-{% photo "2021_07_31__11_13__7310774.jpg","Droga z Wielkiej Tymawy do Donowa","tag:countryside,tag:summer,tag:timeline" %}
+{% photo "2021_07_31__11_13__7310774.jpg","Droga z Wielkiej Tymawy do Donowa","tag:rural,tag:summer,tag:timeline" %}
 
 Jechaliśmy drogą położoną blisko Jeziora Goryńskiego. Wybraliśmy
 tak, aby nie jechać przez półtora kilometra drogą krajową 16-tką.
@@ -202,20 +202,20 @@ dopiero po 13-tej. Nie było sensu czekać.
 Kolejną większą miejscowością na zaplanowanej trasie był [Susz][wiki-susz] i
 tam chcieliśmy zjeść obiad. Musieliśmy przejechać około 13km.
 
-{% photo "2021_07_31__11_37__7310813.jpg","Droga obok Krzywki","tag:countryside" %}
+{% photo "2021_07_31__11_37__7310813.jpg","Droga obok Krzywki","tag:rural" %}
 
 Powoli zaczął padać deszcz. Schowaliśmy się pod wiatą przystanku autobusowego.
 Dobrze, że chociaż są wiaty, pomimo tego że prawdopodobnie nie obsługują
 teraz żadnych autobusów.
 
-{% photo "2021_07_31__11_56__7310837.jpg","Okolica Jeziora Małego obok wsi Goryń","tag:countryside,tag:timeline" %}
+{% photo "2021_07_31__11_56__7310837.jpg","Okolica Jeziora Małego obok wsi Goryń","tag:rural,tag:timeline" %}
 
 Jechaliśmy po żółtym szlaku rowerowym.
 
 Niebo się bardzo szybko rozpogodziło i krajobraz wyglądał zupełnie
 inaczej. Po chwili nie było widać śladów deszczu.
 
-{% photo "2021_07_31__12_50__7310866.jpg","Ciągnik niedaleko Łęgowa","tag:countryside,tag:good" %}
+{% photo "2021_07_31__12_50__7310866.jpg","Ciągnik niedaleko Łęgowa","tag:rural,tag:good" %}
 
 Przejeżdżając obok [Bałoszyc Małych][wiki-baloszyce-male] widziałem
 kolejny przystanek autobusowy. Zastanawiałem się, czy ktokolwiek

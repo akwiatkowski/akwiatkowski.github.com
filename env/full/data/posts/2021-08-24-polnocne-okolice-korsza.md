@@ -84,7 +84,7 @@ raczej-polną.
 Przejechałem przez teren [linii kolejowej 259][wiki-linia-259], która jest nieczynna od 2009
 roku, jednak zdarzają się przejazdy [Turkolem][turkol] tam.
 
-{% photo "2021_08_24__12_52_DSC06723.jpg","Widok na Starą Różankę","tag:countryside" %}
+{% photo "2021_08_24__12_52_DSC06723.jpg","Widok na Starą Różankę","tag:rural" %}
 
 Na polu prowadzone były prace zbierające snopki.
 
@@ -108,7 +108,7 @@ ta ścieżka może być poprowadzona dalej do [Srokowa][wiki-srokowo].
 Spodobał mi się przystanek autobusowy w formie blaszanej wiaty
 przy skrzyżowaniu do [Szat Wielkich][wiki-szaty-wielkie].
 
-{% photo "2021_08_24__13_17_DSC06756.jpg","Obniżenie terenu w okolicy osady Moruny","tag:good,tag:countryside" %}
+{% photo "2021_08_24__13_17_DSC06756.jpg","Obniżenie terenu w okolicy osady Moruny","tag:good,tag:rural" %}
 
 W [Skierkach][wiki-skierki] postanowiłem skręcić w lewo aby już nie jechać po
 drodze wojewódzkiej.
@@ -120,7 +120,7 @@ do granicy z Rosją, czułem że ludzie żyją tutaj inaczej i mało kto
 tutaj przyjeżdża "rekreacyjnie", chociaż dla mnie ta odmienność to dobra
 motywacja aby właśnie tutaj być.
 
-{% photo "2021_08_24__13_29_DSC06770.jpg","Droga do Kiemławek Wielkich","tag:countryside" %}
+{% photo "2021_08_24__13_29_DSC06770.jpg","Droga do Kiemławek Wielkich","tag:rural" %}
 
 Jechałem beztrosko na zachód do osady [Moruny][wiki-moruny]. Może pagórków nie było
 jakiś wyjątkowych ale odczułem wrażenie ogromnej przestrzeni przede mną.
@@ -131,7 +131,7 @@ Dojechałem do krańca tej osady i okazało się, że nie ma odpowiedniej
 drogi na północ. Musiałem się cofnąć i droga, którą chciałem jechać...
 nie bardzo chciałem. Była bardzo zaniedbaną i zarośnięta.
 
-{% photo "2021_08_24__14_29_DSC06799.jpg","Centrum Drogoszy","tag:countryside" %}
+{% photo "2021_08_24__14_29_DSC06799.jpg","Centrum Drogoszy","tag:rural" %}
 
 Dotarłem do lasu i od tego momentu droga gruntowa była bardziej cywilizowana.
 Cały cas należy mieć na uwadze to, że jechałem sam i byłem w pasie przygranicznym.

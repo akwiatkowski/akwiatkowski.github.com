@@ -57,7 +57,7 @@ strava: 5649609085
 [wiki-kitnowka]: https://pl.wikipedia.org/wiki/Kitn%C3%B3wko
 [wiki-nowy-mlyn]: https://pl.wikipedia.org/wiki/Nowy_M%C5%82yn_(powiat_wolszty%C5%84ski)
 
-{% photo_header "Droga ze wsi Słup w okolicy rzeki Osa","tag:summer,tag:timeline,tag:countryside" %}
+{% photo_header "Droga ze wsi Słup w okolicy rzeki Osa","tag:summer,tag:timeline,tag:rural" %}
 
 ## Wstęp
 
@@ -95,7 +95,7 @@ chciałem jechać na wschód wracając najprawdopodobniej z
 Wziąłem rower "górski" gdyż nie chciałem się spieszyć i wolałem
 mieć aparat łatwo dostępny z torby przy kierownicy.
 
-{% photo "2021_07_18__12_01__7180054.jpg","Szynobus dojeżdżający do Dubielna","tag:countryside" %}
+{% photo "2021_07_18__12_01__7180054.jpg","Szynobus dojeżdżający do Dubielna","tag:rural" %}
 
 Gdy wysiadłem w [Laskowicach Pomorskich][wiki-laskowice-pomorskie]
 nic istotnego mnie nie urzekło. Delikatnie podobały mi się stare domy
@@ -196,14 +196,14 @@ Nie miałem konkretnego planu. Wiedziałem o której mam powrotny pociąg z
 [Jabłonowa][wiki-jablonowo-pomorskie] (albo okolicznej stacji)
 i teraz mogłem eksplorować okolicę tak, jak sam tego chciałem.
 
-{% photo "2021_07_18__15_48__7180327-hdr.jpg","Pofalowane zboża w okolicy Annowa","tag:countryside" %}
+{% photo "2021_07_18__15_48__7180327-hdr.jpg","Pofalowane zboża w okolicy Annowa","tag:rural" %}
 
 Postanowiłem skorzystać z wiedzy innych i jechać dalej żółtym szlakiem
 rowerowym przez [Annowo][wiki-annowo] mając przeczucie, że okolica
 powinna być tam ciekawa. I była! Cały fragment aż do drogi 538
 (obok [Mełna][wiki-melno]) był bardzo ładny.
 
-{% photo "2021_07_18__16_00__7180354.jpg","Okolice Gruty","tag:summer,tag:timeline,tag:countryside" %}
+{% photo "2021_07_18__16_00__7180354.jpg","Okolice Gruty","tag:summer,tag:timeline,tag:rural" %}
 
 Dotarłem do skrzyżowania z drogą wojewódzką 538. Tutaj żółty szlak rowerowy
 nie był dla mnie przydatny. Wolałem pojechać na północ w stronę wiosek, które
@@ -222,7 +222,7 @@ W okolicy wsi [Gruta][wiki-gruta] są dwa jeziora. Nie jest to czymś
 rzadkim w tych stronach. Niestety wybrałem drogę, które uniemożliwiała
 zobaczenie ich gdyż jechałem w stronę wsi [Orle][wiki-orle].
 
-{% photo "2021_07_18__16_31__7180392.jpg","Widok w stronę Jasiewa","tag:summer,tag:countryside" %}
+{% photo "2021_07_18__16_31__7180392.jpg","Widok w stronę Jasiewa","tag:summer,tag:rural" %}
 
 Ruch był prawie zerowy, a ja miałem bardzo ładny widok
 na obniżenie terenu na południe.
@@ -234,7 +234,7 @@ Zaplanowałem teraz przejechać przez [Słup][wiki-slup] do
 na rower, której zwieńczeniem był bardzo przyjemny zjazd do
 [Świecia][wiki-swiecie-nad-osa].
 
-{% photo "2021_07_18__16_41__7180429.jpg","Okolice Słupa","tag:summer,tag:countryside" %}
+{% photo "2021_07_18__16_41__7180429.jpg","Okolice Słupa","tag:summer,tag:rural" %}
 
 Tutaj zobaczyłem znak do [Jabłonowa][wiki-jablonowo]. Zostało mi chyba 10km
 jazdy do celu dzisiejszego dnia.
@@ -268,7 +268,7 @@ rodzaju rzadkością, gdyż w [Jabłonowa Pomorskiego][wiki-jablonowo-pomorskie]
 zatrzymują się pociągi IC, a z niej bardzo szybko można
 dostać się w naprawdę ciekawe tereny.
 
-{% photo "2021_07_18__17_33__7180509.jpg","Droga gruntowa w stronę Buka Pomorskiego","tag:countryside" %}
+{% photo "2021_07_18__17_33__7180509.jpg","Droga gruntowa w stronę Buka Pomorskiego","tag:rural" %}
 
 Przejechałem pod torami kolejowymi i szukałem czegoś do jedzenia.
 Wybór był dosyć słaby. Najlepszą dostępną opcją był fastfood z ławkami

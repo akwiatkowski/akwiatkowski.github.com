@@ -33,7 +33,7 @@ strava: 5840506787
 
 ---
 
-{% photo_header "Widok na Reszel","tag:summer,tag:countryside" %}
+{% photo_header "Widok na Reszel","tag:summer,tag:rural" %}
 
 [wiki-satopy-samulewo-stacja]: https://pl.wikipedia.org/wiki/S%C4%85topy-Samulewo_(stacja_kolejowa)
 [wiki-ketrzyn]: https://pl.wikipedia.org/wiki/K%C4%99trzyn
@@ -113,18 +113,18 @@ ale ruch nadal był nie na tyle mały, abym mógł polecać jazdę tą drogą.
 Dotarłem do [Pieckowa][wiki-pieckowo] gdzie prawdopodobnie kiedyś był przystanek
 kolejowy na linii łączącej [Reszel][wiki-reszel] z [Nowym Młynem][wiki-nowy-mlyn].
 
-{% photo "2021_08_23__14_34__8232569.jpg","Droga do Legin","tag:countryside" %}
+{% photo "2021_08_23__14_34__8232569.jpg","Droga do Legin","tag:rural" %}
 
 Jechałem cały czas czerwonym szlakiem rowerowym. Dotarłem do [Świętej Lipki][wiki-swieta-lipka]
 gdzie zrobiłem przerwę na zapiekankę. Jest tutaj sanktuarium i sporo
 turystów/pielgrzymów.
 
-{% photo "2021_08_23__14_40__8232585.jpg","Pofalowane pola Warmii (1)","tag:countryside,tag:good,tag:summer" %}
+{% photo "2021_08_23__14_40__8232585.jpg","Pofalowane pola Warmii (1)","tag:rural,tag:good,tag:summer" %}
 
 Początkowo planowałem jechać drogą wojewódzką dalej do [Reszela][wiki-reszel]
 jednak miałem dość ruchu samochodów i chciałem trochę spokoju.
 
-{% photo "2021_08_23__14_44__8232600.jpg","Pofalowane pola Warmii (2)","tag:countryside,tag:good,tag:summer" %}
+{% photo "2021_08_23__14_44__8232600.jpg","Pofalowane pola Warmii (2)","tag:rural,tag:good,tag:summer" %}
 
 W okolicy było kilka jezior i pomyślałem, że warto by było przejechać przez ich
 okolice.
@@ -198,7 +198,7 @@ do odjazdu pociągu.
 Na mapie zobaczyłem że jest gdzieś tutaj pałac. Chciałem pojechać,
 jednak okazało się, że jest to bardziej skomplikowane.
 
-{% photo "2021_08_23__17_01__8232790.jpg","Okolice osady Pleśno","tag:countryside,tag:timeline" %}
+{% photo "2021_08_23__17_01__8232790.jpg","Okolice osady Pleśno","tag:rural,tag:timeline" %}
 
 Wróciłem na dworzec czekając za pociągiem.
 

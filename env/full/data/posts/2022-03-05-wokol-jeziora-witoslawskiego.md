@@ -103,7 +103,7 @@ Dotarliśmy do wsi [Rościmin][wiki-roscimin]. Bardzo mnie zaciekawiła
 droga na północ. Można się nią dostać do [Runowa Krajeńskiego][wiki-runowo-krajenskie]
 oraz [Więcborka][wiki-wiecbork].
 
-{% photo "2022_03_05__17_33_P3054368.jpg","Droga do Katarzyńca","tag:countryside" %}
+{% photo "2022_03_05__17_33_P3054368.jpg","Droga do Katarzyńca","tag:rural" %}
 
 Droga ta przypomniała mi dużo pozytywnych emocji z wielu wycieczek rowerowych
 oraz sprawiła, że zacząłem zastanawiać się nad kolejnymi opcjami.

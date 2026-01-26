@@ -133,7 +133,7 @@ a później gdy opuszczałem to miejsce. Osoby te dotarły dwoma samochodami.
 Cieni na pofalowanym terenie było jeszcze stosunkowo niewiele. Możliwe, że
 gdybym był na wschodzie słońca, to słońce ładniej by oświetlało śnieg.
 
-{% photo "2021_12_27__14_42_PC273110.jpg","Okoliczne zabudowania w kierunku północnym - 5.6&deg nad horyzontem","tag:countryside" %}
+{% photo "2021_12_27__14_42_PC273110.jpg","Okoliczne zabudowania w kierunku północnym - 5.6&deg nad horyzontem","tag:rural" %}
 
 Przewidywałem, że im później tym słońce będzie miało ładniejszą barwę. Nie
 pomyślałem o tym, że pojawiało się coraz więcej cieni.
@@ -184,7 +184,7 @@ Ogólnie dzisiejszy dzień mnie zaskoczył: że mamy takie ciekawe okolice blisk
 [Mogilna][wiki-mogilno] oraz, że zimą wszystko jest inne. Czułem się jakbym
 był na innym świecie. Wszystko było takie ładniejsze, czystsze, ciekawsze.
 
-{% photo "2021_12_27__15_52_PC273215.jpg","Wieczorne warstwy pól - 1.4&deg pod horyzontem","tag:countryside,tag:winter" %}
+{% photo "2021_12_27__15_52_PC273215.jpg","Wieczorne warstwy pól - 1.4&deg pod horyzontem","tag:rural,tag:winter" %}
 
 Wracałem teraz do [Wydartowa][wiki-wydartowo]. Nie chciałem być zbyt wcześnie i czekać godzinę
 za pociągiem ale jednocześnie robiło się już zimno, a ja nie chciałem

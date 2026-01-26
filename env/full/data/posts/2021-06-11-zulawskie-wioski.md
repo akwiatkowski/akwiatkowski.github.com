@@ -94,7 +94,7 @@ Pociąg nie nadrobił opóźnienia. W [Tczewie][wiki-tczew] zdążyłem na poci�
 osobowy przez jego opóźnienie. Może też bym zdążył bez opóźnienia ale nie
 jest to pewne. Pociąg osobowy był znacznie fajniejszy dla rowerów.
 
-{% photo "2021_06_11__19_56__6111481.jpg","Stary dom","tag:old" %}
+{% photo "2021_06_11__19_56__6111481.jpg","Stary dom","tag:ruin" %}
 
 Podobał mi się widok na wschodni brzeg [Wisły][wiki-rzeka-wisla].
 W [Malborku][wiki-malbork] dołączyły dwie osoby do mnie. Mogłem jechać

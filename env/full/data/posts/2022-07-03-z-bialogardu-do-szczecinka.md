@@ -124,7 +124,7 @@ autostrad i ekspresówek, to raczej smutno możemy patrzyć w naszą przyszłoś
 mi o to, że nie powinniśmy ich mieć, ale kluczowy w przyszłości będzie transport
 publiczny a nie widzę analogicznych inwestycji w kolej.
 
-{% photo "2022_07_03__11_11_P7033119.jpg","Wieś Dargiń","tag:countryside" %}
+{% photo "2022_07_03__11_11_P7033119.jpg","Wieś Dargiń","tag:rural" %}
 
 Byliśmy w [Krępie][wiki-krepa] i kierowaliśmy się do [Bobolic][wiki-bobolice].
 Zostało około 18km do tej miejscowości.
@@ -181,7 +181,7 @@ byłem w tej wsi. Patrząc na mapę widać tutaj kilka jezior.
 Tylko nie wiadomo czy są one atrakcyjne widokowo, a na pewno nie mieliśmy
 teraz czasu na ich eksploracje.
 
-{% photo "2022_07_03__14_46_P7033183.jpg","Wieś Porost","tag:countryside" %}
+{% photo "2022_07_03__14_46_P7033183.jpg","Wieś Porost","tag:rural" %}
 
 Widząc kolejny sklep postanowiliśmy się przy nim zatrzymać. Nie chciałem
 znowu jechać 20km szukając zapasów.
@@ -212,7 +212,7 @@ i polecam je każdemu.
 
 Droga która miała być asfaltowa okazała się być stosunkowo dobrą drogą leśną.
 
-{% photo "2022_07_03__16_06_P7033223.jpg","Wieś Spore","tag:countryside" %}
+{% photo "2022_07_03__16_06_P7033223.jpg","Wieś Spore","tag:rural" %}
 
 Wieś [Spore][wiki-spore] mi się bardzo podobała. Głównie przez jej położenie
 jest trochę "zapomnianą" miejscowością, która jest otoczona lasami ze wschodu.
@@ -234,7 +234,7 @@ Od razu chcialiśmy zostawić dodatkowy bagaż i pojechać coś zjeść. Pracown
 hotelu polecił jedno miejsce. Nie miałem ochoty szukać innych i zgodziliśmy się
 z zaleceniem.
 
-{% photo "2022_07_03__16_55_P7033249.jpg","Droga z Gałowa do Szczecinka","tag:countryside,tag:timeline" %}
+{% photo "2022_07_03__16_55_P7033249.jpg","Droga z Gałowa do Szczecinka","tag:rural,tag:timeline" %}
 
 Gdy tam dotarliśmy spotkałem swoich znajomych. Jak to jest nieprawdopodobne
 znaleźć się w tym samym miejscu, o tej samej porze, będąc na różnych wycieczkach

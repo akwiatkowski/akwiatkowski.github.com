@@ -209,7 +209,7 @@ odbić do miejscowości [Niwy][wiki-niwy]. Wieś wygląda jakby była
 złożona z kilku części. Pierwsza jest zdecydowanie najbliżej i najwyżej, a ostatnia część
 jest tuż przed zjadem do rzeki [Kamionki][wiki-rzeka-kamionka].
 
-{% photo "2024_05_03__14_57_P5030077.jpg","A takie drogi lubię najbardziej","tag:good,tag:countryside" %}
+{% photo "2024_05_03__14_57_P5030077.jpg","A takie drogi lubię najbardziej","tag:good,tag:rural" %}
 
 Gdy dojechaliśmy do wsi [Mosiny][wiki-mosiny] zauważyłem pierwszy błąd mojej trasy.
 Teraz musieliśmy jechać 10km do [Debrzna][wiki-debrzno] po drodze wojewódzkiej.

@@ -91,7 +91,7 @@ Dojechaliśmy pociągiem do [Żmigrodu][wiki-zmigrod] chyba w dwie godziny. Pier
 celem była [Ścinawa][wiki-scinawa] do której trasa była stosunkowo prosta.
 Wystarczyło jechać rowerami na zachód.
 
-{% photo "2021_06_05__10_53__6050422.jpg","Wieś Bychowo","tag:timeline,tag:countryside" %}
+{% photo "2021_06_05__10_53__6050422.jpg","Wieś Bychowo","tag:timeline,tag:rural" %}
 
 Centrum (no prawie) [Żmigrodu][wiki-zmigrod] było stosunkowo ładne, jednak po
 chwili wjechaliśmy na drogę wojewódzką 339. Ruch był wyraźny gdyż jest to
@@ -125,7 +125,7 @@ samochodowy bo to było oczywiste. Mało kto poruszał się po ulicy.
 Dotarliśmy do [Stryjna][wiki-stryjno] co oznaczało, że zbliżaliśmy się do
 [Wińska][wiki-winsko].
 
-{% photo "2021_06_05__12_40__6050491.jpg","Okolica wsi Gryżyce","tag:timeline,tag:good,tag:spring,tag:countryside" %}
+{% photo "2021_06_05__12_40__6050491.jpg","Okolica wsi Gryżyce","tag:timeline,tag:good,tag:spring,tag:rural" %}
 
 Przejechaliśmy przez nieduży las i byliśmy już w [Wińsku][wiki-winsko].
 [Miasto][wiki-winsko] jest bardzo ciekawie położone - na istotnym podwyższeniu terenu, gdzie
@@ -140,7 +140,7 @@ i pozbawiony gastronomii.
 
 Oprócz braku restauracji na rynku nie mogłem znaleźć kosza na śmieci.
 
-{% photo "2021_06_05__12_56__6050522.jpg","Małe jezioro/staw obok wsi Dąbie","tag:good,tag:countryside,tag:spring" %}
+{% photo "2021_06_05__12_56__6050522.jpg","Małe jezioro/staw obok wsi Dąbie","tag:good,tag:rural,tag:spring" %}
 
 Aby dostać się do [Ścinawy][wiki-scinawa] wybraliśmy drogę do
 [Budkowa][wiki-budkow] a następnie jechać wzdłuż rzeki [Odry][wiki-rzeka-odra].
@@ -189,7 +189,7 @@ Znalazłem na mapach google jakieś miejsce gdzie można by zjeść. Okazało si
 że jest ono teraz zamknięte. Przez czas pandemii wszystko się bardziej
 skomplikowało.
 
-{% photo "2021_06_05__14_50__6050583.jpg","Dom w Toszowicach","tag:countryside" %}
+{% photo "2021_06_05__14_50__6050583.jpg","Dom w Toszowicach","tag:rural" %}
 
 Podjechaliśmy pod sklep. Gdyby to była niedziela ten sklep mógłby
 być zamknięty. Zamknięte sklepy, zamknięte restauracje, ... i co wtedy
@@ -263,7 +263,7 @@ Mogliśmy pojechać na stacje kolejową i poczekać ale pomyślałem o tym,
 że warto by było pojechać trochę dalej aby spróbować liczyć
 kolejną gminę. Niby jestem leniwy ale mam takie pomysły.
 
-{% photo "2021_06_05__16_38__6050688.jpg","Podjazd z widokiem na Żelazny Most","tag:countryside" %}
+{% photo "2021_06_05__16_38__6050688.jpg","Podjazd z widokiem na Żelazny Most","tag:rural" %}
 
 Przedostaliśmy się przez _głogowski różowy most_ nad [Odrą][wiki-rzeka-odra].
 Tym razem nie było takich fajnych ścieżek i musieliśmy korzystać

@@ -62,7 +62,7 @@ Stacje początkową ([Sarbiewo][wiki-sarbiewo])
 wybrałem w taki sposób, aby do noclegu można było
 dojechać spokojnie, bez używania ruchliwych dróg.
 
-{% photo "2020_07_11__10_27__7110434.jpg","Okolice Sarbiewa","tag:timeline,tag:countryside" %}
+{% photo "2020_07_11__10_27__7110434.jpg","Okolice Sarbiewa","tag:timeline,tag:rural" %}
 
 Dalszą stacją na zachód są [Górki Noteckie][wiki-gorki-noteckie]. Wysiadanie tam
 miałoby średni sens ale patrząc na nazwę tej miejscowości, to czuję
@@ -122,7 +122,7 @@ więcej napisać. Było raczej miło i spokojnie. Faktycznie były takie momenty
 Dojeżdżaliśmy do [Przynotecka][wiki-przynotecko]. Okolica bardzo mi się podobała
 zwłaszcza nieogrodzone stare domy i kościół w starym niemieckim stylu.
 
-{% photo "2020_07_11__12_30__7110742.jpg","Stary dom we wsi Gościmiec","tag:countryside" %}
+{% photo "2020_07_11__12_30__7110742.jpg","Stary dom we wsi Gościmiec","tag:rural" %}
 
 Aby nie jechać drogą wojewódzką z [Przynotecka][wiki-przynotecko]
 do [Trzebicza][wiki-trzebicz] podjechaliśmy dalej. W zamian mieliśmy lepszy widok

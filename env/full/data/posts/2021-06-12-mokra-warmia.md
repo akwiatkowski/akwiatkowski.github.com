@@ -141,7 +141,7 @@ się tylko po to, aby skorzystać z toalety, ale w tym samym momencie zaczął p
 I tak z krótkiej przerwy zrobiła się ponad trzygodzinna przerwą na drugie
 śniadanie i obiad. Padało bardzo mocno a ilość klientów się zwiększała.
 
-{% photo "2021_06_12__16_43__6121996.jpg","Sklep w Godkowie","tag:old" %}
+{% photo "2021_06_12__16_43__6121996.jpg","Sklep w Godkowie","tag:ruin" %}
 
 Ruszyliśmy pomimo lekkiej mżawki, która trochę utrudniała nagrywanie filmików
 na kamerce.
@@ -150,7 +150,7 @@ Przejechaliśmy przez [Pasłęk][wiki-paslek]. Jedyne co było
 nietrywialne tutaj to skręt w lewo na rondzie, który był tylko łatwy.
 Przejazd przez tą miejscowość był bardzo łatwy.
 
-{% photo "2021_06_12__16_45__6122000.jpg","Zapomniany sklep","tag:old" %}
+{% photo "2021_06_12__16_45__6122000.jpg","Zapomniany sklep","tag:ruin" %}
 
 Mieliśmy już określony nocleg w hotelu w [Dobrym Mieście][wiki-dobre-miasto].
 Rezerwowo znaleźliśmy coś w [Miłakowie][wiki-milakowo], chociaż
