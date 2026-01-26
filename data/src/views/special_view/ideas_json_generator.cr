@@ -48,14 +48,15 @@ module SpecialView
                 json.object do
                   start_train_station = get_train_station_for_name(idea.start)
                   finish_train_station = get_train_station_for_name(idea.finish)
+
                   direction = calculate_direction(
                     start: start_train_station,
                     finish: finish_train_station
                   )
                   total_train_ride_time = (
-                    start_train_station.time_distance + finish_train_station.time_distance
+                    start_train_station.poznan_time_distance + finish_train_station.poznan_time_distance
                   ).ceil.to_i
-                  time_cost_to_visit_new_town = idea.time_cost_to_visit_new_town(
+                  time_cost_stats_for_new_town = idea.time_cost_stats_for_new_town(
                     visited_towns: visited_towns,
                     total_train_ride_time: total_train_ride_time
                   )
@@ -66,11 +67,11 @@ module SpecialView
                   json.field("elevation", idea.elevation)
                   json.field("lindays_mink", idea.days_min)
                   json.field("days_normal", idea.days_normal)
-                  json.field("start", start_train_station)
-                  json.field("finish", finish_train_station)
+                  json.field("start", start_train_station.get_time_distance_from(station_name: "Poznań"))
+                  json.field("finish", finish_train_station.get_time_distance_from(station_name: "Poznań"))
                   json.field("direction", direction)
                   json.field("direction_char", compass_normalized(direction))
-                  json.field("time_cost_to_visit_new_town", time_cost_to_visit_new_town)
+                  json.field("time_cost_stats_for_new_town", time_cost_stats_for_new_town)
                   json.field("surfaces", idea.surfaces)
                   json.field("towns", idea.towns)
                   json.field("photo_map_url", idea.photo_map_url)

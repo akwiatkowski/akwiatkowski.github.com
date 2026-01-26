@@ -37,6 +37,7 @@ module SpecialView
                   json.field("ready", post.ready?)
                   json.field("category", post.category)
                   json.field("date", post.date)
+                  json.field("time", post.time)
                   json.field("distace", post.distance)
                   json.field("time_spent", post.time_spent)
                   # need to separate towns from voivodeships
