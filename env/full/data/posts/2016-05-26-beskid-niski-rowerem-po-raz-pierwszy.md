@@ -65,7 +65,7 @@ Planowaliśmy w okolice Bożego Ciała wyruszyć na pętle wokół Tatr, jednak 
 pogoda sprawiła, że udało mi się przekonać aby odwiedzić najdziksze górskie pasmo
 Polski.
 
-{% photo "IMGP0596raw1.jpg","Okolica Nowego Żmigrodu","tag:timeline,tag:mountains,tag:countryside,tag:spring" %}
+{% photo "IMGP0596raw1.jpg","Okolica Nowego Żmigrodu","tag:timeline,tag:mountains,tag:rural,tag:spring" %}
 
 Szczegóły
 ---------
@@ -85,7 +85,7 @@ a rzeka w tym miejscu jest raczej szeroka. Udało mi się przejechać, jednak bu
 miałem solidnie przemoczone (co nie jest jakimś wielkim wyczynem).
 Było ciepło, więc to mi nie przeszkadzało.
 
-{% photo "IMGP0606raw1.jpg","Niebieska kapliczka","tag:countryside" %}
+{% photo "IMGP0606raw1.jpg","Niebieska kapliczka","tag:rural" %}
 
 Jechałem dalej lekkim podjazdem. Mijałem łąki po drodzę, później jakieś zabudowania.
 Było to raczej kilka domów, które na mapach nazywane jest
@@ -102,7 +102,7 @@ pierwszeństwo. Podjechaliśmy pod [Wisłokę][wiki-wisloka], gdyż chciałem po
 reszcie przejazd przez rzekę. Dopiero w tym momencie zauważyłem most wiszący obok,
 którym mógłbym przeprowadzić rower.
 
-{% photo "IMGP0621raw1.jpg","Niedostępne miejsce","tag:timeline,tag:countryside" %}
+{% photo "IMGP0621raw1.jpg","Niedostępne miejsce","tag:timeline,tag:rural" %}
 
 Krzychu miał jedną przygodę z rzeką, a Ewa miała aż dwie. Szczegółów tutaj nie będę
 opisywał.

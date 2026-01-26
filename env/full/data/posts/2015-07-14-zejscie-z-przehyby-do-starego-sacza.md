@@ -41,7 +41,7 @@ Szlak ten można podzielić na dwie częśći: las i wioski. W lesie to cały cz
 poprowadzoną zboczami. "Fajnie" musi się tam chodzić w zimie. Przez wioski to, według mnie, najciekawsza
 część trasy. Znacznie ciekawsze widoki.
 
-{% photo "IMGP1703raw1.jpg","Widok na Przysietnicę","tag:timeline,tag:countryside,tag:mountains" %}
+{% photo "IMGP1703raw1.jpg","Widok na Przysietnicę","tag:timeline,tag:rural,tag:mountains" %}
 
 Gdy wyszliśmy z lasu trasa się mocno wypłaszczyła. Jak mam szukać dziur w całym, to powiedziałbym,
 że za bardzo. Zdziwiłem się widząc pierwszy dom tak blisko "lasu", na takim odludziu.

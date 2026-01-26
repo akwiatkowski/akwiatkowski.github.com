@@ -24,7 +24,7 @@ strava: 849290563
 
 [wiki-gluszynka]: https://pl.wikipedia.org/wiki/G%C5%82uszynka_(rzeka)
 
-{% photo_header "Zachód w okolicy Głuszynki","tag:sunrise,tag:countryside" %}
+{% photo_header "Zachód w okolicy Głuszynki","tag:sunrise,tag:rural" %}
 
 Wstęp
 -----

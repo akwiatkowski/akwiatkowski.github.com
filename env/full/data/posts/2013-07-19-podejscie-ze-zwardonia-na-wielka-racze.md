@@ -29,7 +29,7 @@ strava: 167090796
 [wiki-natura]:                  https://pl.wikipedia.org/wiki/Natura_2000
 [wiki-schron-racza]:            https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Wielkiej_Raczy
 
-{% photo_header "Pola Beskidu Żywieckiego","tag:mountains,tag:countryside,tag:summer" %}
+{% photo_header "Pola Beskidu Żywieckiego","tag:mountains,tag:rural,tag:summer" %}
 
 Wstęp
 -----

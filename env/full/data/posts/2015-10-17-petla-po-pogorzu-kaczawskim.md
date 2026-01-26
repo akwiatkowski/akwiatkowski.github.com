@@ -81,7 +81,7 @@ Nie można powiedzieć że było to złe, gdyż las we mgle jest okazja na dobre
 Szliśmy przez las we mgle. Niby las to las, ale było widać jak on się zmienia. Zmieniały się rodzaje drzew,
 ilość i kolor liści jakie leżały (w końcu to jesień), oraz ilość i rodzaj trawy.
 
-{% photo "IMGP5168raw1.jpg","Droga w stronę Chrośnicy","tag:countryside,tag:ruin" %}
+{% photo "IMGP5168raw1.jpg","Droga w stronę Chrośnicy","tag:rural,tag:ruin" %}
 
 Widoku z [Okole][wiki-okole] nie mieliśmy w ogóle. Chwilka przerwy i idziemy dalej.
 

@@ -87,7 +87,7 @@ przejazd, przejście w butach, przejście gołymi stopami, a nawet budowa wysepe
 z kamieni aby przejść suchymi butami. Ja nie pamiętam teraz co wybierałem, ale buty
 miałem i tak mokre.
 
-{% photo "IMGP0698raw1.jpg","Drzwi w Nieznajowej","tag:countryside,tag:spring,tag:timeline" %}
+{% photo "IMGP0698raw1.jpg","Drzwi w Nieznajowej","tag:rural,tag:spring,tag:timeline" %}
 
 Bardzo podobał mi się ten szlak, ta bliskość rzeki, która sprawiała, że jest
 tutaj trochę inaczej. Może było bardziej dziko niż zwykle jest.

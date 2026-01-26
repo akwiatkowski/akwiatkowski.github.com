@@ -26,7 +26,7 @@ strava: 346183284
 [wiki-labowska]:        https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_%C5%81abowskiej
 [wiki-beskid-sadecki]:  https://pl.wikipedia.org/wiki/Beskid_S%C4%85decki
 
-{% photo_header "Sądeckie pagórki","tag:timeline,tag:mountains,tag:countryside,tag:summer" %}
+{% photo_header "Sądeckie pagórki","tag:timeline,tag:mountains,tag:rural,tag:summer" %}
 
 Wstęp
 -----

@@ -48,7 +48,7 @@ strava: 318922776
 [vimeo-6]:                      https://vimeo.com/130620133
 [vimeo-7]:                      https://vimeo.com/130626295
 
-{% photo_header "Widok na Karkonosze","tag:spring,tag:timeline,tag:countryside" %}
+{% photo_header "Widok na Karkonosze","tag:spring,tag:timeline,tag:rural" %}
 
 Wstęp
 -----

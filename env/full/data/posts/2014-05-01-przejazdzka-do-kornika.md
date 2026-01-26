@@ -53,7 +53,7 @@ przez [Starołękę][wiki-staroleka] w stronę [Daszewic][wiki-daszewice].
 Dalej jechaliśmy głównie lasami, aż do [Jeziora Skrzyneckiego Dużego][wiki-j-skrzyneckie].
 Przejechaliśmy [Kórnik][wiki-kornik] z przerwą na jedzenie obok [zamku][wiki-kornik-zamek].
 
-{% photo "IMGP5593raw1.jpg","Okolice Radzewic","tag:good,tag:countryside" %}
+{% photo "IMGP5593raw1.jpg","Okolice Radzewic","tag:good,tag:rural" %}
 
 Wracaliśmy w kierunku [Rogalina][wiki-rogalin] i dalej w stronę [Mosiny][wiki-mosina], z
 której już normalnie [Nadwarciańskim Szlakiem Rowerowym][wiki-nadwiarcianski].

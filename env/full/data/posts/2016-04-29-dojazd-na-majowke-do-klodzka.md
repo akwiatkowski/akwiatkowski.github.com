@@ -32,7 +32,7 @@ strava: 560110711
 [wiki-roszyce]:            https://pl.wikipedia.org/wiki/Roszyce
 [wiki-bierkowice]:         https://pl.wikipedia.org/wiki/Bierkowice_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 
-{% photo_header "Widok na Gołogłowy","tag:spring,tag:timeline,tag:countryside,tag:mountains" %}
+{% photo_header "Widok na Gołogłowy","tag:spring,tag:timeline,tag:rural,tag:mountains" %}
 
 Wstęp
 -----
@@ -57,7 +57,7 @@ osobowe są znacznie rzadziej wykorzystywane. To jest w sumie sensowne - większ
 ludzi jedzie z daleka na kilka dni wolnego i woli dojechać szybko jednym
 pociągiem do celu.
 
-{% photo "IMGP9651raw1.jpg","Wieś Starczów","tag:timeline,tag:countryside" %}
+{% photo "IMGP9651raw1.jpg","Wieś Starczów","tag:timeline,tag:rural" %}
 
 Swoją trasę rozpocząłem w [Ławicy][wiki-lawica]. Od razu poczułem, że jest to
 inny teren niż ten po jakim normalnie jeżdzę.

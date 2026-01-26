@@ -45,12 +45,12 @@ Bazę mieliśmy w dolinie, w wiosce [Porębie Wielkiej][wiki-poreba].
 Nie było żadnych planów tras, przez to jak udało nam się rozlokować i wyruszyć była już przynajmniej 16-ta. Udało nam się
 wejść tylko na [Tobołów][wiki-tobolow] bo co chwilę coś ładnego, nowego, i musiałem robić zdjęcia.
 
-{% photo "IMGP6034b.jpg","Dom w Koninkach","tag:good,tag:countryside" %}
+{% photo "IMGP6034b.jpg","Dom w Koninkach","tag:good,tag:rural" %}
 
 Następnego dnia był plan aby wejść na [Turbacz][wiki-turbacz]. Wyszliśmy rano, około 10-tej. Po przejściu 20-30 minut zaczęło padać.
 Już wiem, że warto sprawdzać prognozę pogody wcześniej, oraz warto mieć trochę odpowiedniejsze ubranie.
 
-{% photo "IMGP6250b.jpg","Domy na zboczach Poręby Wielkiej","tag:countryside" %}
+{% photo "IMGP6250b.jpg","Domy na zboczach Poręby Wielkiej","tag:rural" %}
 
 Padało tak cały dzień, dopiero
 wieczorem było można wyjść i pozwiedzać okolice wioski. Udało się nam znaleźć polanę, położoną bardzo blisko, ale
@@ -62,7 +62,7 @@ Następnego dnia musieliśmy (w sumie to nie musieliśmy) wracać już. Poszliś
 Wszystko było tak soczyście zielone i świeże po wczorajszym deszczowym dniu.
 Dodatkową atrakcją były pasące się owce.
 
-{% photo "IMGP6536b.jpg","Owce wypasane nad Koninkami","tag:good,tag:countryside" %}
+{% photo "IMGP6536b.jpg","Owce wypasane nad Koninkami","tag:good,tag:rural" %}
 
 Jeżeli się nie mylę, to następnego dnia spadł śnieg w tych rejonach. Było to
 trochę zaskakujące.

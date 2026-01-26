@@ -61,13 +61,13 @@ obok rzeki [Świdnik][wiki-swidnik].
 Doszliśmy do [Przełęczy Kowarskiej][wiki-przel-kowarska], czyli byliśmy już na 727m
 wysokości n.p.m.
 
-{% photo "IMGP2737b.jpg","Bardzo stary i zaniedbany dom w Ogorzelcu","tag:good,tag:best,tag:old" %}
+{% photo "IMGP2737b.jpg","Bardzo stary i zaniedbany dom w Ogorzelcu","tag:good,tag:best,tag:ruin" %}
 
 Od tego miejsca szliśmy cały czas żółtym szlakiem pieszym
 w kierunku [Malá Úpa][wiki-mala-upa] lub
 [Przełęczy Okraj][wiki-okraj].
 
-{% photo "IMGP2801c.jpg","Wieś Podgórzyn","tag:timeline,tag:countryside,tag:mountains" %}
+{% photo "IMGP2801c.jpg","Wieś Podgórzyn","tag:timeline,tag:rural,tag:mountains" %}
 
 Po drodze z prawej strony mieliśmy bardzo dobry widok na
 [Kotlinę Jeleniogórską][wiki-kotlina-jel], wieś [Podgórzyn][wiki-podgorzyn] oraz [Jelenią Strugę][jelenia-struga].

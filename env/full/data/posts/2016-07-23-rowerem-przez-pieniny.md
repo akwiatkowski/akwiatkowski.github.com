@@ -67,7 +67,7 @@ Zjechaliśmy przez centrum [Kluszkowców][wiki-kluszkowce] i ruszyliśmy w stron
 [Czorsztyna][wiki-czorsztyn]. Czekał na nas podjazd, był on średni, ale
 tego dnia było bardzo ciepło, więc nie szaleliśmy.
 
-{% photo "IMGP3593raw1.jpg","Widok na pienińskie/gorczańskie wioski - Kluszkowce i Maniowy","tag:timeline,tag:good,tag:summer,tag:countryside" %}
+{% photo "IMGP3593raw1.jpg","Widok na pienińskie/gorczańskie wioski - Kluszkowce i Maniowy","tag:timeline,tag:good,tag:summer,tag:rural" %}
 
 Myślałem że [Czorsztyn][wiki-czorsztyn] będzie większą miejscowością, a tu
 takie 2-3 ulice, trochę domów i chyba koniec. Jedynie coś się dzieje w okolicy portu.
@@ -100,14 +100,14 @@ Przejechaliśmy przez [Pieniński Park Narodowy][wiki-pieniny-park] i czekał na
 lekki zjazd do [Czorsztyna][wiki-czorsztyn] gdzie zrobiliśmy dłuższą przerwę na
 obiad.
 
-{% photo "IMGP3618raw1.jpg","Pienińsko-gorczańskie wioski","tag:timeline,tag:summer,tag:mountains,tag:countryside" %}
+{% photo "IMGP3618raw1.jpg","Pienińsko-gorczańskie wioski","tag:timeline,tag:summer,tag:mountains,tag:rural" %}
 
 Wracaliśmy do [Maniowy][wiki-maniowy] i czekał na nas zjazd. Jadąc ostrożnie na
 nie swoim rowerze udało mi się osiągnąć prędkość 61.8km/h, co mnie bardzo
 pozytywnie zaskoczyło. Na swoim możliwe że prędkość byłaby znacznie większa.
 Miałem kask, ale nie miałem okularów, ani kamerki.
 
-{% photo "IMGP3619raw1.jpg","Domek przy jeziorze","tag:summer,tag:mountains,tag:countryside" %}
+{% photo "IMGP3619raw1.jpg","Domek przy jeziorze","tag:summer,tag:mountains,tag:rural" %}
 
 Na chwilę pojechaliśmy na [Podbrzezie][wiki-podbrzezie] na punkt widokowy.
 Już trochę domów tam się pobudowało. Później ruszyliśmy oddać rowery i

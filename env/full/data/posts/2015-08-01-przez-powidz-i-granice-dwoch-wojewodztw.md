@@ -49,7 +49,7 @@ strava: 359582810
 [wiki-ciensisko]:          https://pl.wikipedia.org/wiki/Ciencisko
 [wiki-bronislaw]:          https://pl.wikipedia.org/wiki/Bronis%C5%82aw_(powiat_mogile%C5%84ski)
 
-{% photo_header "Dom w Niezgodzie","tag:countryside" %}
+{% photo_header "Dom w Niezgodzie","tag:rural" %}
 
 Wstęp
 -----
@@ -68,7 +68,7 @@ Wyruszyłem na północ przejeżdżając przez tereny wiejskie i leśne.
 Niewiele o nich mogę napisać, nie były zbyt ciekawe, ale raczej spokojne i przyjemne
 do jazdy.
 
-{% photo "IMGP2410raw1.jpg","Droga do Polanowa","tag:timeline,tag:countryside" %}
+{% photo "IMGP2410raw1.jpg","Droga do Polanowa","tag:timeline,tag:rural" %}
 
 W [Niezgodzie][wiki-niezgoda] zrobiłem najlepsze zdjęcie - pomalowanej na biało
 starej stodoły. Zdjęcie te jest głównym zdjęciem tego wpisu.
@@ -102,13 +102,13 @@ województwo [wielkopolskie][wiki-wielkopolskie].
 
 Do [Przyjezierza][wiki-przyjezierze] wjechałemo-6] przez las.
 
-{% photo "IMGP2445raw1.jpg","Droga w stronę Wysokiego Mostu","tag:timeline,tag:countryside" %}
+{% photo "IMGP2445raw1.jpg","Droga w stronę Wysokiego Mostu","tag:timeline,tag:rural" %}
 
 Przejechałem [Przyjezierze][wiki-przyjezierze] i kierowałem sie w stronę [Strzelna][wiki-strzelno].
 Mijałem wsie ([Ostrowo][wiki-ostrowo] i [Cieńcisko][wiki-ciensisko]),
 które znałem całkiem dobrze.
 
-{% photo "IMGP2482raw1.jpg","Pola po żniwach","tag:timeline,tag:countryside" %}
+{% photo "IMGP2482raw1.jpg","Pola po żniwach","tag:timeline,tag:rural" %}
 
 Mając trochę czasu przejechałem się do [Bronisławia][wiki-bronislaw] przez małe
 kujawskie wioski.

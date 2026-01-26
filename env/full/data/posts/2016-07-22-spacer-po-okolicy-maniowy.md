@@ -62,7 +62,7 @@ ma się idealny widok na góry.
 Jest to nawet lepsze niż w [Gorcach][wiki-gorce], gdzie jest kilka punktów widokowych,
 bo tutaj wszystko jest jednym wielkim punktem widokowym.
 
-{% photo "IMGP3557raw1.jpg","Widok z Maniowy na Tatry","tag:timeline,tag:good,tag:summer,tag:countryside" %}
+{% photo "IMGP3557raw1.jpg","Widok z Maniowy na Tatry","tag:timeline,tag:good,tag:summer,tag:rural" %}
 
 [Maniowy][wiki-maniowy] jest wioską położoną bardzo ciekawie wokół pagórków.
 

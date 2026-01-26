@@ -70,6 +70,6 @@ ona daleko.
 Będąc już w dolinie zaczęło ponownie mocno padać, więc schroniliśmy się obok wejścia do [Wąwózu Homole][wiki-homole]
 i po pewnym czasie wracaliśmy do [Jaworek][wiki-jaworki].
 
-{% photo "IMGP1347b.jpg","Owce schowały się pod drzewami","tag:sheep" %}
+{% photo "IMGP1347b.jpg","Owce schowały się pod drzewami","tag:animal" %}
 
 Pogorszenie pogody towarzyszyło nam prawie do końca majówki, jak się później okazało.

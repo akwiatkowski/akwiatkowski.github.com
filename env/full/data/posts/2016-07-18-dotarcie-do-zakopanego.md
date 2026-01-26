@@ -40,7 +40,7 @@ Nie udało mi się załatwić kuszetki. Spóźniłem się z wolnymi miejscami na
 o 23-ciej, a w pociągu o 2-giej nie było wagonu pierwszej klasy. Kupiłem w drugiej, jednak
 to miejsce było w wagonie bezprzedziałowym z cały czas włączonym światłem.
 
-{% photo "IMGP2270raw1.jpg","Drewniana architektura Zakopanego","tag:architecture" %}
+{% photo "IMGP2270raw1.jpg","Drewniana architektura Zakopanego","tag:ruin" %}
 
 Trudno odpowiedzieć w prosty sposób na pytanie "czy się wyspałem?". Raczej
 egzystowałem w trybie zombie.

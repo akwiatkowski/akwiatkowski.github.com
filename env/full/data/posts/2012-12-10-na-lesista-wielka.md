@@ -54,7 +54,7 @@ Tam kupiliśmy trochę zapasów w sklepie i zjedliśmy, a następnie ruszyliśmy
 [Grząd Górnych][wiki-grzedy-gorne]. Tutaj ulica się kończyła, a zaczynało się lekkie podejście
 i śnieg w terenie.
 
-{% photo "IMGP5649b.jpg","Stary budynek w Grzędach","tag:good,tag:old" %}
+{% photo "IMGP5649b.jpg","Stary budynek w Grzędach","tag:good,tag:ruin" %}
 
 Trudno mi opisać podejście. Przyznam że za wiele nie pamiętam, tylko że coraz wyżej, bardziej biało, trochę mgły.
 

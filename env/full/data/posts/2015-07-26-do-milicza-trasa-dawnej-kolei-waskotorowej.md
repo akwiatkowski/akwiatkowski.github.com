@@ -42,7 +42,7 @@ strava: 354708275
 [vimeo-3]:                      https://vimeo.com/134878409
 [vimeo-4]:                      https://vimeo.com/135268126
 
-{% photo_header "Okolica torów kolejowych","tag:countryside" %}
+{% photo_header "Okolica torów kolejowych","tag:rural" %}
 
 Wstęp
 -----
@@ -72,7 +72,7 @@ Ruszyliśmy przez las aby dostać się do szlaku dawnej kolei wąskotorowej od w
 [Milicz][wiki-milicz] była to najlepsza część trasy.
 Idealna, spokojna trasa rowerowa po drodze asfaltowej przez pola.
 
-{% photo "IMGP2236raw1.jpg","Budynki gospodarcze wsi Pracze","tag:countryside" %}
+{% photo "IMGP2236raw1.jpg","Budynki gospodarcze wsi Pracze","tag:rural" %}
 
 W związku z tym że mieliśmy trochę czasu, a ja chciałem trochę kilometrów dorobić, to pojechałem z [Milicza][wiki-milicz]
 na małą przejażdżkę. Pojechałem tam gdzie jest dużo stawów na mapie,
@@ -92,7 +92,7 @@ szlakiem pieszym. Jak dojechałem do mostu kolejowego trochę zgłupiałem co ro
 przejechałem przez most i pod koniec mam do wyboru zejście w lewo lub w prawo.
 Gdy wybiorę w lewo nic nie widzę co jest dalej, gdy w prawo jest jakaś droga tam.
 
-{% photo "IMGP2362raw1.jpg","Okolica Cząszczewa","tag:timeline,tag:countryside" %}
+{% photo "IMGP2362raw1.jpg","Okolica Cząszczewa","tag:timeline,tag:rural" %}
 
 Przechodzę przez tory i znoszę rower z sakwami po schodach. Okazuje się, że ludzie się tam kręcą i dowiaduję
 się że dojadę do dworca.

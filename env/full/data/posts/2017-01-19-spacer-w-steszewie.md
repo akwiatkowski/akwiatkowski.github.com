@@ -36,7 +36,7 @@ strava: 837596171
 [jakdojade]: http://poznan.jakdojade.pl
 [mosina-komunikacja]: http://www.zukmosina.pl/dzial-transportu-osobowego/rozklad-jazdy/
 
-{% photo_header "Oszroniona droga z Stęszewa","tag:countryside,tag:winter,tag:good,tag:best" %}
+{% photo_header "Oszroniona droga z Stęszewa","tag:rural,tag:winter,tag:good,tag:best" %}
 
 Wstęp
 -----

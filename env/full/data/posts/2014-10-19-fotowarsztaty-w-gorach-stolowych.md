@@ -58,7 +58,7 @@ Później wyruszyliśmy w stronę [Błędnych Skał][wiki-bledne-skaly], jednak 
 jak jest tam ciasno opuściłem grupę i przeszedłem się drogą w stronę
 [Kudowy Zdrój][wiki-kudowa].
 
-{% photo "IMGP1197raw1b.jpg","Okolice Radkowa","tag:good,tag:countryside" %}
+{% photo "IMGP1197raw1b.jpg","Okolice Radkowa","tag:good,tag:rural" %}
 
 Wschód słońca dnia następnego był lepszy, jednak nie był tak dobry jak to było
 rok temu.

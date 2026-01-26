@@ -122,7 +122,7 @@ byłbym mniej zmęczony (również mentalnie) bo wiedziałbym, że swoją bazę 
 Mógłbym później wstać, lepiej zwiedzić okolicę i wybrać odpowiednie miejsca
 dzień wcześniej.
 
-{% photo "IMGP9110raw1.jpg","Czeska strona Karkonoszy w idealnym momencie na zdjęcia","tag:sunrize,tag:winter,tag:mountains" %}
+{% photo "IMGP9110raw1.jpg","Czeska strona Karkonoszy w idealnym momencie na zdjęcia","tag:sunrise,tag:winter,tag:mountains" %}
 
 Teraz myślenie było takie nagłe i prowizoryczne niż przemyślane.
 Wschód słońca to mniej niż 20 minut światła o czerwonym kolorze,

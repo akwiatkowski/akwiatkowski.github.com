@@ -56,7 +56,7 @@ strava: 833408153
 [mzk15]: http://www.mzk.jgora.pl/pl/linia/15
 [mzk19]: http://www.mzk.jgora.pl/pl/linia/19
 
-{% photo_header "Zima z Sokolika","tag:countryside,tag:winter,tag:mountains,tag:good,tag:best,tag:sunrise" %}
+{% photo_header "Zima z Sokolika","tag:rural,tag:winter,tag:mountains,tag:good,tag:best,tag:sunrise" %}
 
 Wstęp
 -----
@@ -102,7 +102,7 @@ Sama zmiana obiektywu musiała być przeprowadzona w plecaku a zdjęcia mogłem 
 tylko jak akurat w danej sekundzie wiatr był słabszy.
 Teleobiektyw się raczej nie spisał w tych warunkach.
 
-{% photo "IMGP1677raw2.jpg","Widok na Radomierz z Sokolika","tag:good,tag:best,tag:countryside:tag:sunrise,tag:winter" %}
+{% photo "IMGP1677raw2.jpg","Widok na Radomierz z Sokolika","tag:good,tag:best,tag:rural:tag:sunrise,tag:winter" %}
 
 Przez wszelakie drgania miałem problem z ustawianiem ostrości przez LiveView.
 

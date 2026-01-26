@@ -55,7 +55,7 @@ strava: 583258728
 
 [alpakoland]:            http://alpakoland.pl/pl/index
 
-{% photo_header "Pole rzepaku","tag:timeline,tag:countryside" %}
+{% photo_header "Pole rzepaku","tag:timeline,tag:rural" %}
 
 Wstęp
 -----

@@ -48,7 +48,7 @@ Najciekawszym dniem miał być drugi, kiedy planowany był zachód słońca na [
 
 Przy tak słabej pogodzie koncentrowaliśmy się na robieniu zdjęć cerkwiom.
 
-{% photo "IMGP0124raw1.jpg","Cerkiew we wsi Równia","tag:good,tag:old" %}
+{% photo "IMGP0124raw1.jpg","Cerkiew we wsi Równia","tag:good,tag:ruin" %}
 
 Widok zapiera dech w piersi. Do dnia dzisiejszego zastanawiam się co ludzie widzą w tym zdjęciu.
 

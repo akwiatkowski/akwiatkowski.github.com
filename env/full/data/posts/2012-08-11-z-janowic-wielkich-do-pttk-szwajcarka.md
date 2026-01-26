@@ -29,7 +29,7 @@ strava: 167091762
 
 [szwajcarka]:           http://schronisko-szwajcarka.pl/
 
-{% photo_header "Zamek Bolczów","tag:old" %}
+{% photo_header "Zamek Bolczów","tag:ruin" %}
 
 Wstęp
 -----

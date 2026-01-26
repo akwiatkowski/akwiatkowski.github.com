@@ -61,7 +61,7 @@ strava: 724713750
 [maraton-lopuchowo]: http://gpmtb.pl/mtb/Lopuchowo
 [grod-piasta]: http://martina.nazwa.pl/grod_piasta/
 
-{% photo_header "Jezioro Łopienno Południowe","tag:timeline,tag:countryside" %}
+{% photo_header "Jezioro Łopienno Południowe","tag:timeline,tag:rural" %}
 
 Wstęp
 -----

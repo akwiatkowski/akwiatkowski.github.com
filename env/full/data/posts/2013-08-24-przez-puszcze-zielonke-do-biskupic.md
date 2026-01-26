@@ -32,7 +32,7 @@ strava: 137188530
 [wiki-biskupice]:        https://pl.wikipedia.org/wiki/Biskupice_(powiat_pozna%C5%84ski)
 [wiki-puszcza-zielonka]: https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Puszcza_Zielonka
 
-{% photo_header "Podrzędna droga","tag:countryside" %}
+{% photo_header "Podrzędna droga","tag:rural" %}
 
 Wstęp
 -----

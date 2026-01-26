@@ -29,7 +29,7 @@ strava: 546021292
 [wiki-tulce]:            https://pl.wikipedia.org/wiki/Tulce
 [wiki-gadki]:            https://pl.wikipedia.org/wiki/G%C4%85dki
 
-{% photo_header "Wyjazd z Tulców","tag:countryside" %}
+{% photo_header "Wyjazd z Tulców","tag:rural" %}
 
 Wstęp
 -----

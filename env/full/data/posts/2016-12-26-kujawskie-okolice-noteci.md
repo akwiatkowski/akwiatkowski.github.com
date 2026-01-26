@@ -60,7 +60,7 @@ dużo błota.
 Pojechaliśmy dalej do [Kamionka][wiki-kamionek] obok której jest całkiem
 duże jezioro. Płynie przez nie [Noteć][wiki-notec].
 
-{% photo "IMGP0647raw2.jpg","Droga z Kamionek do Ostrówka","tag:countryside" %}
+{% photo "IMGP0647raw2.jpg","Droga z Kamionek do Ostrówka","tag:rural" %}
 
 Później zobaczyliśmy przypalone ruiny stacji w [Procyniu][wiki-procyn].
 

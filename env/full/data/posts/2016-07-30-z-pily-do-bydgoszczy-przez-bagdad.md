@@ -157,7 +157,7 @@ Jechaliśmy na północ. Musieliśmy minąć [S10][wiki-s10] i to trochę
 potrwało gdyż tam ruch rzadko zamiera. Wcześniej przejechaliśmy przez rzekę
 [Orla][wiki-rzeka-orla].
 
-{% photo "IMGP3649raw1.jpg","Snopki na polu","tag:timeline,tag:summer,tag:countryside" %}
+{% photo "IMGP3649raw1.jpg","Snopki na polu","tag:timeline,tag:summer,tag:rural" %}
 
 Wjechaliśmy do [Bagdadu][wiki-bagdad]. Wioska o ciekawej nazwie rozpoczynała
 innych charakter miejscowości. Od tego momentu były już zdecydowanie

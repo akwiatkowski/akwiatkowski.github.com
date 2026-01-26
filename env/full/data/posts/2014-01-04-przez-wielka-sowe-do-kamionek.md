@@ -46,7 +46,7 @@ czy była to zwykła droga gruntowa. Naszym celem było dojście do czerwonego s
 będącego [Głównym Szlakiem Sudeckim][wiki-gss], który krzyżował się przy
 [Rozdrożu pod Moszną][wiki-rozdroze].
 
-{% photo "IMGP2597b1.jpg","Jeden z ostatnich domów na ulicy Gdańskiej","tag:old" %}
+{% photo "IMGP2597b1.jpg","Jeden z ostatnich domów na ulicy Gdańskiej","tag:ruin" %}
 
 Dopiero od tego momentu rozpoczęły się najciekawsze widoki - wioski i pagórki w
 okolicy [Rzeczki Górnej][wiki-rzeczka-gorna].
@@ -92,4 +92,4 @@ minęliśmy tylko dwa ciekawe miejsce:
 Po rozpakowaniu się wyskoczyliśmy "na miasto". Każdemu polecam spróbować spokój,
 jaki jest po sezonie w sudeckich wioskach.
 
-{% photo "IMGP2941raw1.jpg","Dom w Kamionkach","tag:old" %}
+{% photo "IMGP2941raw1.jpg","Dom w Kamionkach","tag:ruin" %}

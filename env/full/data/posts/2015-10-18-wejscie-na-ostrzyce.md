@@ -23,7 +23,7 @@ time_spent:             5
 [wiki-proboszczow]:      https://pl.wikipedia.org/wiki/Proboszcz%C3%B3w
 [wiki-ostrzyca]:         https://pl.wikipedia.org/wiki/Ostrzyca_(Pog%C3%B3rze_Kaczawskie)
 
-{% photo_header "Widok z Ostrzycy","tag:autumn,tag:mountains,tag:countryside" %}
+{% photo_header "Widok z Ostrzycy","tag:autumn,tag:mountains,tag:rural" %}
 
 Wstęp
 -----

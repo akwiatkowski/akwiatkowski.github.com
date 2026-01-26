@@ -53,7 +53,7 @@ Po pewnym czasie weszliśmy w las i tak szliśmy prawie aż do [Przełęczy Prze
 był czas na jakieś solidne jedzenie. Trochę musieliśmy się cofnąć, aby dostać się do czerwonego
 szlaku do [Rycerzowej][wiki-rycerzowa].
 
-{% photo "IMGP5738b.jpg","Okolice Przełęczy Przegibek","tag:good,tag:countryside" %}
+{% photo "IMGP5738b.jpg","Okolice Przełęczy Przegibek","tag:good,tag:rural" %}
 
 Znowu szliśmy przez las i chyba nic ciekawego tam nie było. Dopiero gdy schodziliśmy z
 [Rycerzowej Wielkiej][wiki-rycerzowa] ukazał się nam najlepszy widok tego dnia - okolica schroniska.

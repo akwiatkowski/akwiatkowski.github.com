@@ -43,7 +43,7 @@ Szczegóły
 Jechaliśmy przez [Luboń][wiki-lubon] i [Wiry][wiki-wiry] aż do żółtego szlaku rowerowego
 w [parku][wiki-wpn]. Całkiem ciekawe były te tereny, zwłaszcza wioski i pola.
 
-{% photo "IMGP0187raw1.jpg","Piaszczysta droga w Wirach","tag:good,tag:countryside" %}
+{% photo "IMGP0187raw1.jpg","Piaszczysta droga w Wirach","tag:good,tag:rural" %}
 
 Gdy już byliśmy w [parku][wiki-wpn] zrobiło się trochę nudniej, gdyż jechaliśmy przez
 prawie 5km prostą drogą. Wyglądało to jak zwykły przejazd przez las. Ciekawie wyglądało

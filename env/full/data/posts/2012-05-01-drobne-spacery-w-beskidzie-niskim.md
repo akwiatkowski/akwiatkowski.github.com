@@ -82,4 +82,4 @@ Przeszukając archiwa znalazłem kilka z nich.
 
 Samo miejsce jest bardzo klimatyczne.
 
-{% photo "IMGP7619b.jpg","Drewniany dom w Regietowie","tag:old" %}
+{% photo "IMGP7619b.jpg","Drewniany dom w Regietowie","tag:ruin" %}

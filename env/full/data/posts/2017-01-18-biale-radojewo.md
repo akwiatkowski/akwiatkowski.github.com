@@ -26,7 +26,7 @@ strava: 837601397
 [wiki-warta]: https://pl.wikipedia.org/wiki/Warta
 [wiki-radojewo]: https://pl.wikipedia.org/wiki/Radojewo
 
-{% photo_header "Oszronione Radojewo","tag:countryside,tag:winter,tag:good" %}
+{% photo_header "Oszronione Radojewo","tag:rural,tag:winter,tag:good" %}
 
 Wstęp
 -----

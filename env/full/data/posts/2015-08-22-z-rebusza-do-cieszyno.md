@@ -48,7 +48,7 @@ strava: 375948441
 [vimeo6]:               https://vimeo.com/137237581
 [vimeo8]:               https://vimeo.com/137251918
 
-{% photo_header "Wjazd do Pławna","tag:timeline,tag:countryside" %}
+{% photo_header "Wjazd do Pławna","tag:timeline,tag:rural" %}
 
 Wstęp
 -----
@@ -108,14 +108,14 @@ która przez kilkadziesiąt metrów była idealnym szlakiem dla mnie. Wokół po
 więcej piasku. Dojechałem ostatecznie przez las i tym razem przejechałem przez tory, które są jeszcze używane. Przejeżdza tam
 [szynobus z Piły do Szczecina][wiki-kalisz-pom-tor].
 
-{% photo "IMGP2827raw1.jpg","Zielony szlak rowerowy obok miejscowości Giżyno", "tag:timeline,tag:good,tag:countryside" %}
+{% photo "IMGP2827raw1.jpg","Zielony szlak rowerowy obok miejscowości Giżyno", "tag:timeline,tag:good,tag:rural" %}
 
 Z [Kalisza Pomorskiego][wiki-kalisz-pomorski] wyruszyłem w kierunku [Wierzchowa Pomorskiego][wiki-wierzchowo]. Przez ten dłuższy
 czas niewiele rzeczy się odznaczało, jednak tereny były według mnie ładne. Jednym z ciekawszych fragmentów to
 wyraźne zafałdowanie terenu między [Pepłówkiem][wiki-peplowek] a [Starą Studnicą][wiki-stara-studnica]. Widać to
 pod koniec [filmiku][vimeo4].
 
-{% photo "IMGP2836raw1.jpg","Stara Sienica","tag:countryside" %}
+{% photo "IMGP2836raw1.jpg","Stara Sienica","tag:rural" %}
 
 Drugim to solidny zjazd za
 [Starą Studnicą][wiki-stara-studnica] w stronę doliny rzeki Studzienica przedstawiony na filmiku poniżej.
@@ -141,7 +141,7 @@ przydałyby się większe pagórki. Jechałem bez sakw, więc było fajniej i dy
 do [Stare Worowo][wiki-stare-worowo], gdzie był otwarty sklep. Drugi najbliższy jest w [Cieszyno][wiki-cieszyno]. Następnie
 [wróciłem][vimeo8] szlakiem rowerowym utworzonym po rozebraniu [torów][wiki-drawno-kolej].
 
-{% photo "IMGP2857raw1.jpg","Szlak rowerowy na wschód od jeziora Siecino","tag:timeline,tag:summer,tag:countryside" %}
+{% photo "IMGP2857raw1.jpg","Szlak rowerowy na wschód od jeziora Siecino","tag:timeline,tag:summer,tag:rural" %}
 
 Dzień zakończyłem mając 103km, nie licząc 8km dojazdu do PKP w Poznaniu. Całkiem dobrze jak na sakwy i małe pagórki.
 

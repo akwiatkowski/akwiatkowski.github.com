@@ -88,7 +88,7 @@ raczej głównie z tego powodu, była to bardzo ładna okolica.
 Ciekawiło mnie "co jest tam za wzgórzem", ale niestety nie było na to czasu.
 Wrócę tutaj rowerem i zobaczę więcej następnym razem.
 
-{% photo "IMGP5665raw1.jpg","Droga na północ do lasu","tag:timeline,tag:good,tag:best,tag:summer,tag:countryside" %}
+{% photo "IMGP5665raw1.jpg","Droga na północ do lasu","tag:timeline,tag:good,tag:best,tag:summer,tag:rural" %}
 
 Wróciliśmy drogą "główną", która nawet nie była asfaltowa, do [Osieka][wiki-osiek]
 i dalej do [Dobiegniewa][wiki-dobiegniew].

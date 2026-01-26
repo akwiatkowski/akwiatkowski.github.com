@@ -65,7 +65,7 @@ W [Sowinie][wiki-sowina] ruszyliśmy na północ w kierunku [Sokolca][wiki-sokol
 Pamiętam że podejście było trochę nużące dla mnie. Po pewnym czasie dotarliśmy
 do schroniska [Orzeł][wiki-schron-orzel].
 
-{% photo "IMGP3126raw1.jpg","Niektóre budynki to prawdziwa ruina","tag:good,tag:old" %}
+{% photo "IMGP3126raw1.jpg","Niektóre budynki to prawdziwa ruina","tag:good,tag:ruin" %}
 
 Warunki subiektywnie bardzo dobre, jednak nie zrozumiałem jak to może być, że
 ludzie do późna latają po korytarzu i hałasują. W nocy spadł lekki śnieg, ale
@@ -75,7 +75,7 @@ rano już go nie było.
 Wnioski
 -------
 
-{% photo "IMGP3135raw1.jpg","Inne to ruina ale mniejsza","tag:old" %}
+{% photo "IMGP3135raw1.jpg","Inne to ruina ale mniejsza","tag:ruin" %}
 
 Czy te tereny są depresyjne? O tej porze roku mogą być.
 [Góry Sowie][wiki-gory-sowie] są chyba terenem z którego najwięcej osób się

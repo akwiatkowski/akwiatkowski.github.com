@@ -38,7 +38,7 @@ strava: 472914887
 [wiki-bystrzyckie]:             https://pl.wikipedia.org/wiki/G%C3%B3ry_Bystrzyckie_(Sudety)
 [wiki-orlickie]:                https://pl.wikipedia.org/wiki/G%C3%B3ry_Orlickie
 
-{% photo_header "Okolice Międzylesia","tag:winter,tag:countryside" %}
+{% photo_header "Okolice Międzylesia","tag:winter,tag:rural" %}
 
 Wstęp
 -----

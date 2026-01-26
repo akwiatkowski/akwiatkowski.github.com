@@ -35,7 +35,7 @@ strava: 833063516
 [wiki-pastewnik]: https://pl.wikipedia.org/wiki/Pastewnik_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 [wiki-dziwiszow]: https://pl.wikipedia.org/wiki/Dziwisz%C3%B3w
 
-{% photo_header "Resztki śniegu","tag:countryside,tag:winter,tag:good" %}
+{% photo_header "Resztki śniegu","tag:rural,tag:winter,tag:good" %}
 
 Wstęp
 -----

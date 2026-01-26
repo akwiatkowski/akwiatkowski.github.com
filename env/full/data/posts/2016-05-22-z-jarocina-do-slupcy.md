@@ -26,7 +26,7 @@ strava: 584342247
 
 ---
 
-{% photo_header "Widok na miejscowość Ląd","tag:timeline,tag:countryside,tag:spring" %}
+{% photo_header "Widok na miejscowość Ląd","tag:timeline,tag:rural,tag:spring" %}
 
 Wstęp
 -----

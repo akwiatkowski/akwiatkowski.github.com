@@ -56,7 +56,7 @@ Dojechaliśmy pociągiem do [Żmigrodu][wiki-zmigrod]. Udaliśmy się do sklepu 
 Było bardzo ciepło i wilgotno, pojawiły się szare chmury.
 Zaskoczyła nas burza w momencie gdy jedliśmy siedząc pod parasolami.
 
-{% photo "IMGP2006raw2.jpg","Okolica Kościanu","tag:timeline,tag:countryside" %}
+{% photo "IMGP2006raw2.jpg","Okolica Kościanu","tag:timeline,tag:rural" %}
 
 Na szczeście nie trwała ona długo i między 13-tą a 14-tą wyruszyliśmy w stronę [zamku][wiki-zmigrod-zamek], gdzie znowu
 nas spotkała burza. To był dobry test wodoodporności sakw. Zamek oprócz wieży to ruiny, ale można powiedzieć, że
@@ -82,7 +82,7 @@ najlepiej ogrom ich ilości.
 Ruszyłem dalej w stronę [Olszy][wiki-olsza] przez [Wilkowo][wiki-wilkowo]. Ta ostatnia wieś ma bardzo duży starych,
 opuszczonych domów. Jest dziko, ale bardzo ładnie.
 
-{% photo "IMGP2113raw1.jpg","Dom z kotkiem w Olszy","tag:countryside" %}
+{% photo "IMGP2113raw1.jpg","Dom z kotkiem w Olszy","tag:rural" %}
 
 Od [Grabówki][wiki-grabowka] aż za [Rudę Sułowską][wiki-ruda-sulowska] do drogi 439 ([Radziądz][wiki-radziadz]-[Sułów][wiki-sulow])
 prowadził najbardziej "wodnisty" (bardzo dużo stawów obok) szlak tego dnia.

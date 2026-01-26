@@ -28,7 +28,7 @@ strava: 346183870
 
 [cyrla]:                https://sites.google.com/site/chatacyrla/
 
-{% photo_header "Wioski w okolicy Rytra","tag:timeline,tag:countryside,tag:summer" %}
+{% photo_header "Wioski w okolicy Rytra","tag:timeline,tag:rural,tag:summer" %}
 
 Wstęp
 -----
@@ -69,7 +69,7 @@ Tutaj było ich znacznie więcej.
 
 Szlak w stronę Kordowca miał w sobie nie tylko widoki, było też trochę tunelów przez las lub inne krzaczory.
 
-{% photo "IMGP1393raw2.jpg","Szlak w stronę Kordowca","tag:good,tag:countryside" %}
+{% photo "IMGP1393raw2.jpg","Szlak w stronę Kordowca","tag:good,tag:rural" %}
 
 Gdy dotarliśmy do Kordowca, dowiedzieliśmy się że to takie małe schronisko, oraz nie ma tam jedzenia. Bo po
 co zapytać się podczas rezerwacji. Rozpoczęła się analiza ile mamy jedzenia, i wyszło że powinno jakoś wystarczyć.
@@ -99,6 +99,6 @@ Widok na Rytro
 
 Domy na zboczach
 
-{% photo "IMGP1448raw1.jpg","Wyżyny Rytra","tag:timeline,tag:countryside" %}
+{% photo "IMGP1448raw1.jpg","Wyżyny Rytra","tag:timeline,tag:rural" %}
 
 Wyżyny Rytra

@@ -113,7 +113,7 @@ Zdziwiłęm się jak wysokie są tam górki. Gdybym wiedział co mnie czeka to u
 lepsze buty, gdyż wejście i zejście po mokrej ziemii było bardzo trudne.
 Schodziłem prawie na czworakach a do tego zaczęło padać.
 
-{% photo "IMGP3875raw1.jpg","Pociąg wjeżdża do Czarnkowa","tag:countryside" %}
+{% photo "IMGP3875raw1.jpg","Pociąg wjeżdża do Czarnkowa","tag:rural" %}
 
 Następnie dojechaliśmy na dworzec w [Czarnkowie][wiki-czarnkow] i udaliśmy się
 na punkt widokowy z którego idealnie było widać okolice [Noteci][wiki-notec].

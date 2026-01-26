@@ -69,7 +69,7 @@ dnia na wschód przez [Polany][wiki-polany]. Tym
 razem nie jechaliśmy do [Huty Polańskiej][wiki-huta-polanska] a w kierunku
 [Olchowca][wiki-olchowiec].
 
-{% photo "IMGP0837raw1.jpg","Droga Polany-Olchowiec","tag:timeline,tag:spring,tag:countryside" %}
+{% photo "IMGP0837raw1.jpg","Droga Polany-Olchowiec","tag:timeline,tag:spring,tag:rural" %}
 
 Trasa do [Jaślisk][wiki-jasliska] jest dosyć prosta, tylko że my nie chcieliśmy
 wracać tą samą drogą. Z tego powodu były dwa "odbicia". Pierwsze

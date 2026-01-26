@@ -67,7 +67,7 @@ Miłe było zejście do [Zagórnika][wiki-zagornik]. Zawsze lubiłem polany, wzn
 i wysoką trawę. Tutaj zaczęła ona mnie delikatnie irytować, ale przemilczałem to,
 gdyż rzadko się chodzi po takich terenach.
 
-{% photo "IMGP6890raw1.jpg","Idąc do wsi Zagórnik","tag:timeline,tag:countryside" %}
+{% photo "IMGP6890raw1.jpg","Idąc do wsi Zagórnik","tag:timeline,tag:rural" %}
 
 W [Zagórniku][wiki-zagornik] kupiliśmy za dużo picia (soki, jogurty, ...) i
 na przystanku to "obalaliśmy".
@@ -85,7 +85,7 @@ W [Inwałdzie][wiki-inwald] szlak również był ciekawy, zwłaszcza taki mały 
 Na stację dotarliśmy ze spokojem i mogliśmy poleżeć na peronie czekając na
 pociąg.
 
-{% photo "IMGP6927raw2.jpg","Wkraczając do Inwałdu","tag:countryside" %}
+{% photo "IMGP6927raw2.jpg","Wkraczając do Inwałdu","tag:rural" %}
 
 Wnioski
 -------

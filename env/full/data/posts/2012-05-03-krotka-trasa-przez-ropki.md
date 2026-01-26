@@ -50,7 +50,7 @@ aż do wsi [Ropki][wiki-ropki], gdzie skręciliśmy w lewo na niebieski szlak.
 Tą drogą kierowaliśmy się już do
 [Wysowej][wiki-wysowa] przez [Hutę Wysowską][wiki-huta-wysowska].
 
-{% photo "IMGP8093b.jpg","Zieleń w pełni","tag:good,tag:countryside,tag:spring" %}
+{% photo "IMGP8093b.jpg","Zieleń w pełni","tag:good,tag:rural,tag:spring" %}
 
 Lekki teren, spokojnie dałoby się tam pojeździć rowerem. Klimatyczne odludne miejsca.
 

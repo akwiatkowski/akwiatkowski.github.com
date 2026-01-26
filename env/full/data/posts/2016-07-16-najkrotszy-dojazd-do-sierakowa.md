@@ -66,7 +66,7 @@ Dojechałem pociągiem do [Mokrza][wiki-mokrz] - mała osada w
 [Puszczy Noteckiej][wiki-puszcza-notecka]. Stacja jest malutka, trochę pocieszna,
 bo taka sama postawiona pośrodku wielkiego lasu. Zielono jest tam z każdej strony.
 
-{% photo "IMGP2201raw1.jpg","Początek wsi Chojno","tag:timeline,tag:summer,tag:countryside" %}
+{% photo "IMGP2201raw1.jpg","Początek wsi Chojno","tag:timeline,tag:summer,tag:rural" %}
 
 Ruszyłem niebieskim szlakiem rowerowym na południe do drogi 150. Okazało się, że
 droga jest w dobrej jakości i jechało się przyjemnie.

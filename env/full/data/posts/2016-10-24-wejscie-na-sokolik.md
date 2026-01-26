@@ -145,7 +145,7 @@ aby coś zjeść i ruszyłem żółtym szlakiem do
 [Karpnik][wiki-karpniki]. Gdzieś w oddali ulicy Janowickiej chyba
 widziałem wilka.
 
-{% photo "IMGP8413raw1.jpg","Opuszczony sklep w Karpnikach","tag:rurar" %}
+{% photo "IMGP8413raw1.jpg","Opuszczony sklep w Karpnikach","tag:rural,tag:ruin" %}
 
 Wracałem ulicą Stawową. Powoli robiło się ciemno. W noclegu byłem przed godziną
 19-tą. Czołówka zdecydowanie się przydała.
@@ -160,7 +160,7 @@ Idąc na [Sokolik][wiki-sokolik] można natrafić miejscami na całkiem spore g�
 Po lewej stronie na dole widać rzekę [Bóbr][wiki-bobr]. Wokół tej rzeki jest
 między innymi [Wojanów][wiki-wojanow] i [Trzcińsko][wiki-trzcinsko].
 
-{% photo "IMGP8339raw1.jpg","Widok z Sokolika","tag:countryside,tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP8339raw1.jpg","Widok z Sokolika","tag:rural,tag:timeline,tag:good,tag:best" %}
 
 Gdzieś obok drogi stał samotny dom w budowie. Zrobiłem jemu zdjęcie.
 

@@ -51,7 +51,7 @@ strava: 375949214
 [vimeo6]:               https://vimeo.com/137783300
 [vimeo7]:               https://vimeo.com/137978961
 
-{% photo_header "Z Czaplinka do Czarne Małe","tag:timeline,tag:countryside,tag:summer" %}
+{% photo_header "Z Czaplinka do Czarne Małe","tag:timeline,tag:rural,tag:summer" %}
 
 Wstęp
 -----
@@ -116,7 +116,7 @@ tam droga. Ja bym tego drogą nie nazwał. Jechałem przez las, w pewnym miejscu
 prosto, tylko że nie było drogi. Pojechałem dalej. Z jednej strony szlak, z drugiej jakaś dziwna
 żółta kropka na drzewie. Wybrałem tą żółtą kropkę bo tak mój zmysł nawigacji podpowiadał i to była dobra decyzja.
 
-{% photo "IMGP3095raw1.jpg","Między Przyjezierzem a Jelenino","tag:timeline,tag:countryside" %}
+{% photo "IMGP3095raw1.jpg","Między Przyjezierzem a Jelenino","tag:timeline,tag:rural" %}
 
 Wjechałem w wieś [Jelonek][wiki-jelonek]. Trochę musiałem jechać wzdłuż drogi 20-tki, na szczęście wzdłuż niej
 był dobry chodnik.

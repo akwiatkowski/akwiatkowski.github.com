@@ -35,7 +35,7 @@ strava: 167091764
 
 [regietow-namiot]:              http://www.chatki.com.pl/regetow.html
 
-{% photo_header "Droga w Regietowie","tag:timeline,tag:countryside,tag:spring" %}
+{% photo_header "Droga w Regietowie","tag:timeline,tag:rural,tag:spring" %}
 
 Wstęp
 -----

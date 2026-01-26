@@ -48,7 +48,7 @@ strava: 160945973
 [vimeo-4]:              https://vimeo.com/103631448
 [vimeo-5]:              https://vimeo.com/103631449
 
-{% photo_header "Droga do Mściszewa","tag:good,tag:summer,tag:countryside,tag:timeline" %}
+{% photo_header "Droga do Mściszewa","tag:good,tag:summer,tag:rural,tag:timeline" %}
 
 Wstęp
 -----
@@ -75,7 +75,7 @@ do [Mściszewa][wiki-msciszewo] oddaliłem się od [Warty][wiki-warta].
 [Mściszewo][wiki-msciszewo] jest wioską położoną w dolinie. Wyjeżdzając z niej, czekał mnie chyba
 najmocniejszy podjazd na tej wycieczce.
 
-{% photo "IMGP7598raw1.jpg","Droga z Pacholewa","tag:timeline,tag:countryside" %}
+{% photo "IMGP7598raw1.jpg","Droga z Pacholewa","tag:timeline,tag:rural" %}
 
 Następnie kierowałem sie w stronę [Starczanowa][wiki-starczanowo]. Wioska ta jest położona pośrodku terenów
 leśnych. A na zachód od niej jest rezerwat [Śnieżycowy Jar][wiki-sniezycowy].
@@ -96,7 +96,7 @@ Wjeżdzając do [Łoskonia Starego][wiki-loskon] po lewej stronie jest staw, kt�
 Na skrzyżowaniu dróg polnych skręcam w lewo i jadę na północ. Mijam [Budziszewice][wiki-budziszewice]
 oraz [Budziszewko][wiki-budziszewko]. To od tych wiosek ma swoją nazwę [Jezioro Budziszewskie][wiki-jezioro-budz].
 
-{% photo "IMGP7645raw1.jpg","Droga do Grzybowic","tag:timeline,tag:good,tag:best,tag:countryside,tag:summer" %}
+{% photo "IMGP7645raw1.jpg","Droga do Grzybowic","tag:timeline,tag:good,tag:best,tag:rural,tag:summer" %}
 
 Wjeżdzam na drogą polną i kieruję się na północ w stronę [Jeziora Budziszewskiego][wiki-jezioro-budz].
 Przejeżdzam przez most i widzę je po prawej stronie, a następnie dalej jadę przez las.
