@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bicycle Trip Generator</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #f5f5f5;
+            color: #333;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 16px;
+            padding: 16px;
+            min-height: 100vh;
+        }
+
+        .sidebar {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow-y: auto;
+            max-height: calc(100vh - 32px);
+        }
+
+        .sidebar h2 {
+            font-size: 18px;
+            margin-bottom: 16px;
+            color: #1a1a1a;
+        }
+
+        .sidebar h3 {
+            font-size: 14px;
+            font-weight: 600;
+            margin-top: 16px;
+            margin-bottom: 12px;
+            color: #555;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .filter-group {
+            margin-bottom: 16px;
+        }
+
+        .radio-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .radio-item {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        .radio-item input[type="radio"] {
+            margin-right: 8px;
+            cursor: pointer;
+        }
+
+        .radio-item label {
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #2196F3;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s;
+            margin-top: 12px;
+        }
+
+        button:hover {
+            background: #1976D2;
+        }
+
+        button:active {
+            background: #1565C0;
+        }
+
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .map-container {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            height: calc(100vh - 32px);
+        }
+
+        .results {
+            margin-top: 16px;
+            padding: 12px;
+            background: #f9f9f9;
+            border-radius: 6px;
+            font-size: 13px;
+            border-left: 4px solid #2196F3;
+        }
+
+        .results p {
+            margin: 4px 0;
+        }
+
+        .route-popup {
+            font-size: 12px;
+        }
+
+        .route-popup h4 {
+            font-size: 13px;
+            margin-bottom: 8px;
+            color: #1a1a1a;
+        }
+
+        .route-popup p {
+            margin: 4px 0;
+            color: #555;
+        }
+
+        .export-links {
+            margin-top: 8px;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .export-link {
+            display: inline-block;
+            padding: 6px 12px;
+            background: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 11px;
+            text-align: center;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .export-link:hover {
+            background: #45a049;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #999;
+        }
+
+        .error {
+            background: #ffebee;
+            color: #c62828;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 12px;
+            border-left: 4px solid #c62828;
+            font-size: 13px;
+        }
+
+        .legend {
+            background: white;
+            padding: 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            margin-top: 12px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+            border-radius: 3px;
+        }
+
+        .stats {
+            font-size: 12px;
+            margin-top: 8px;
+            padding: 8px;
+            background: white;
+            border-radius: 4px;
+            border-left: 3px solid #ff9800;
+        }
+
+        .stats p {
+            margin: 2px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Trip Generator</h2>
+
+            <div id="error-container"></div>
+
+            <div class="filter-group">
+                <h3>Trip Duration</h3>
+                <div class="radio-group">
+                    <div class="radio-item">
+                        <input type="radio" id="days1" name="tripDays" value="1" checked>
+                        <label for="days1">1 day (60 km)</label>
+                    </div>
+                    <div class="radio-item">
+                        <input type="radio" id="days2" name="tripDays" value="2">
+                        <label for="days2">2 days (120 km)</label>
+                    </div>
+                    <div class="radio-item">
+                        <input type="radio" id="days3" name="tripDays" value="3">
+                        <label for="days3">3 days (180 km)</label>
+                    </div>
+                    <div class="radio-item">
+                        <input type="radio" id="days4" name="tripDays" value="4">
+                        <label for="days4">4+ days (240+ km)</label>
+                    </div>
+                </div>
+            </div>
+
+            <button onclick="generateTrips()">Generate Routes</button>
+
+            <div id="results" class="results" style="display: none;">
+                <p><strong>Top Routes:</strong></p>
+                <div id="results-content"></div>
+            </div>
+
+            <div class="stats">
+                <p><strong>Coverage Stats</strong></p>
+                <p>Total cells: <span id="totalCells">-</span></p>
+                <p>Filled cells: <span id="filledCells">-</span></p>
+                <p>Blank cells: <span id="blankCells">-</span></p>
+                <p>Coverage: <span id="coveragePercent">-</span>%</p>
+            </div>
+
+            <div class="legend">
+                <p><strong>Legend</strong></p>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: rgba(76, 175, 80, 0.6);"></div>
+                    <span>Filled (has photos)</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: rgba(244, 67, 54, 0.6);"></div>
+                    <span>Blank (no photos)</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: rgba(33, 150, 243, 0.8);"></div>
+                    <span>Train stations</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: rgba(255, 152, 0, 1); height: 3px;"></div>
+                    <span>Suggested route</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const CONFIG = {
+            GRID_SIZE_KM: 10,
+            DAILY_DISTANCE_KM: 60,
+            BASE_STATION: { lat: 52.4082, lon: 16.9254, name: 'Poznań' }, // Poznań Central
+            POLAND_BOUNDS: [[49.0, 14.1], [54.8, 24.1]],
+            TILE_URL: '/tiles/ump/{z}/{x}/{y}.png',
+            FALLBACK_TILE_URL: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            ROUTES_SLICE: 15,
+            DUPLICATE_PENALTY: 0.3,
+        };
+
+        let map;
+        let stations = [];
+        let photos = [];
+        let gridCells = new Map();
+        let drawnRoutes = [];
+        let stationMarkers = [];
+
+        // Initialize map
+        function initMap() {
+            map = L.map('map').setView([52.0, 19.0], 7);
+
+            // Try primary tile layer, fall back to OSM
+            const tileLayer = L.tileLayer(CONFIG.TILE_URL, {
+                attribution: 'Map tiles',
+                maxZoom: 14,
+                minZoom: 6,
+                errorTileUrl: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256"><rect fill="%23f0f0f0" width="256" height="256"/></svg>'
+            });
+
+            tileLayer.on('tileerror', () => {
+                map.removeLayer(tileLayer);
+                L.tileLayer(CONFIG.FALLBACK_TILE_URL).addTo(map);
+            });
+
+            tileLayer.addTo(map);
+
+            // Restrict map bounds to Poland
+            map.setMaxBounds(CONFIG.POLAND_BOUNDS);
+            map.on('drag', () => {
+                map.panInsideBounds(CONFIG.POLAND_BOUNDS, { animate: false });
+            });
+        }
+
+        // Calculate grid cell key from lat/lon
+        function getCellKey(lat, lon) {
+            const KM_PER_DEGREE_LAT = 111;
+            const KM_PER_DEGREE_LON_BASE = 111;
+
+            const latCellSize = CONFIG.GRID_SIZE_KM / KM_PER_DEGREE_LAT;
+            const lonCellSize = CONFIG.GRID_SIZE_KM / (KM_PER_DEGREE_LON_BASE * Math.cos(lat * Math.PI / 180));
+
+            const cellX = Math.floor(lon / lonCellSize);
+            const cellY = Math.floor(lat / latCellSize);
+
+            return `${cellX},${cellY}`;
+        }
+
+        // Calculate distance between two points (km)
+        function getDistance(lat1, lon1, lat2, lon2) {
+            const R = 6371;
+            const dLat = (lat2 - lat1) * Math.PI / 180;
+            const dLon = (lon2 - lon1) * Math.PI / 180;
+            const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                      Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                      Math.sin(dLon/2) * Math.sin(dLon/2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+            return R * c;
+        }
+
+        // Load data
+        // Load data
+        async function loadData() {
+            try {
+                const photosRes = await fetch('/photos.json');
+                const photosData = await photosRes.json();
+
+                // Extract photos array from {routes: [], photos: [...]} structure
+                // Filter for photos with valid EXIF lat/lon coordinates
+                photos = (photosData.photos || []).filter(p => p['exif.lat'] !== null && p['exif.lon'] !== null);
+
+                const stationsRes = await fetch('/train_stations.json');
+                const stationsData = await stationsRes.json();
+
+                // Extract train_stations array and normalize field names
+                const rawStations = stationsData.train_stations || [];
+                stations = rawStations.map(s => ({
+                    name: s.name,
+                    lat: typeof s.lat === 'number' ? s.lat : parseFloat(s.lat),
+                    lon: typeof s.lon === 'number' ? s.lon : parseFloat(s.lon),
+                    time_distance: s.time_distance,
+                }));
+
+                console.log(`Loaded ${photos.length} photos with EXIF coords and ${stations.length} stations`);
+                console.log('Sample photo:', photos[0]);
+                console.log('Sample station:', stations[0]);
+
+                processPhotos();
+                drawGrid();
+                drawStations();
+                updateStats();
+            } catch (error) {
+                showError(`Failed to load data: ${error.message}`);
+                console.error(error);
+            }
+        }
+
+
+        // Process photos into grid
+        // Process photos into grid
+        function processPhotos() {
+            gridCells.clear();
+
+            photos.forEach(photo => {
+                const lat = photo['exif.lat'];
+                const lon = photo['exif.lon'];
+                if (lat !== null && lon !== null && lat !== undefined && lon !== undefined) {
+                    const key = getCellKey(lat, lon);
+                    if (!gridCells.has(key)) {
+                        gridCells.set(key, 0);
+                    }
+                    gridCells.set(key, gridCells.get(key) + 1);
+                }
+            });
+
+            console.log(`Grid cells with photos: ${gridCells.size}`);
+        }
+
+
+        // Draw grid on map
+        function drawGrid() {
+            const KM_PER_DEGREE_LAT = 111;
+            const KM_PER_DEGREE_LON_BASE = 111;
+
+            const latCellSize = CONFIG.GRID_SIZE_KM / KM_PER_DEGREE_LAT;
+            const lonCellSize = CONFIG.GRID_SIZE_KM / (KM_PER_DEGREE_LON_BASE * Math.cos(52 * Math.PI / 180));
+
+            const bounds = CONFIG.POLAND_BOUNDS;
+            const [minLat, minLon] = bounds[0];
+            const [maxLat, maxLon] = bounds[1];
+
+            for (let lat = Math.floor(minLat / latCellSize) * latCellSize; lat < maxLat; lat += latCellSize) {
+                for (let lon = Math.floor(minLon / lonCellSize) * lonCellSize; lon < maxLon; lon += lonCellSize) {
+                    const key = getCellKey(lat + latCellSize/2, lon + lonCellSize/2);
+                    const hasPhotos = gridCells.has(key);
+                    const color = hasPhotos ? 'rgba(76, 175, 80, 0.3)' : 'rgba(244, 67, 54, 0.7)';
+
+                    L.rectangle(
+                        [[lat, lon], [lat + latCellSize, lon + lonCellSize]],
+                        { color: color, weight: 1, fillColor: color, fillOpacity: hasPhotos ? 0.3 : 0.7, interactive: false }
+                    ).addTo(map);
+                }
+            }
+        }
+
+        // Draw train stations
+        function drawStations() {
+            stationMarkers.forEach(marker => map.removeLayer(marker));
+            stationMarkers = [];
+
+            stations.forEach(station => {
+                if (station.lat !== undefined && station.lon !== undefined) {
+                    const marker = L.circleMarker([station.lat, station.lon], {
+                        radius: 6,
+                        fillColor: '#2196F3',
+                        color: '#1565C0',
+                        weight: 2,
+                        opacity: 1,
+                        fillOpacity: 0.8
+                    }).addTo(map);
+
+                    const content = `
+                        <div class="route-popup">
+                            <h4>${station.name}</h4>
+                            <p>Time distance: ${station.time_distance} km</p>
+                        </div>
+                    `;
+                    marker.bindPopup(content);
+
+                    stationMarkers.push(marker);
+                }
+            });
+        }
+
+        // Generate trips
+        function generateTrips() {
+            clearResults();
+
+            const days = parseInt(document.querySelector('input[name="tripDays"]:checked').value);
+            const maxKm = days * CONFIG.DAILY_DISTANCE_KM;
+
+            const routes = findBestRoutes(days, maxKm);
+            displayRoutes(routes);
+        }
+
+        // Find best routes maximizing blank cell coverage
+        // Find best stations (single station routes)
+        // Find best station-to-station routes (no chaining)
+        // Find best single long segments between stations
+        // Find best routes with station limits
+        function findBestRoutes(days, maxKm) {
+            const routes = [];
+            const stationUsage = new Map(); // Track station appearances
+            const MAX_USES_PER_STATION = 2; // Configurable: max trips per station
+
+            // Generate all valid station pairs
+            for (let i = 0; i < stations.length; i++) {
+                for (let j = i + 1; j < stations.length; j++) {
+                    const station1 = stations[i];
+                    const station2 = stations[j];
+
+                    if (!station1.lat || !station1.lon || !station2.lat || !station2.lon) continue;
+
+                    const dist = getDistance(station1.lat, station1.lon, station2.lat, station2.lon);
+                    if (dist > maxKm || dist < 20) continue;
+
+                    const blankCells = countBlankCellsOnSegment(station1.lat, station1.lon, station2.lat, station2.lon);
+
+                    const route = {
+                        stations: [station1, station2],
+                        totalKm: dist,
+                        blankCells: blankCells,
+                        segments: [{
+                            from: station1,
+                            to: station2,
+                            km: dist
+                        }]
+                    };
+
+                    // Check station limits (soft: allow if high quality)
+                    const current1 = stationUsage.get(station1.name) || 0;
+                    const current2 = stationUsage.get(station2.name) || 0;
+
+                    if (current1 < MAX_USES_PER_STATION || current2 < MAX_USES_PER_STATION) {
+                        routes.push(route);
+                        stationUsage.set(station1.name, current1 + 1);
+                        stationUsage.set(station2.name, current2 + 1);
+                    }
+                }
+            }
+
+            // Final sort by efficiency
+            routes.sort((a, b) =>
+                calculateEfficiency(b, routes) - calculateEfficiency(a, routes) ||
+                b.totalKm - a.totalKm
+            );
+
+            return routes.slice(0, CONFIG.ROUTES_SLICE);
+        }
+
+
+
+        // Calculate efficiency: new cells per day (higher = better)
+        function calculateEfficiency(route, allRoutes = []) {
+            const bikingDays = Math.ceil(route.totalKm / 60);
+            const bikingHours = bikingDays * 10;
+
+            const startTime = route.stations[0]?.time_distance || 0;
+            const endTime = route.stations[1]?.time_distance || 0;
+            const trainHours = startTime + endTime;
+
+            const totalHours = bikingHours + trainHours;
+            const totalDays = Math.ceil(totalHours / 10);
+
+            let efficiency = route.blankCells / totalDays; // Cells per day
+
+            // Safe diversity penalty
+            const usedStations = new Set();
+            if (Array.isArray(allRoutes)) {
+                allRoutes.slice(0, 3).forEach(r => {
+                    if (r && r.stations && Array.isArray(r.stations)) {
+                        r.stations.forEach(s => s?.name && usedStations.add(s.name));
+                    }
+                });
+            }
+
+            let duplicatePenalty = 0;
+            if (route.stations[0]?.name && usedStations.has(route.stations[0].name)) duplicatePenalty += CONFIG.DUPLICATE_PENALTY;
+            if (route.stations[1]?.name && usedStations.has(route.stations[1].name)) duplicatePenalty += CONFIG.DUPLICATE_PENALTY;
+
+            efficiency *= (1 - duplicatePenalty);
+
+            console.log(route.stations[0]?.name, route.stations[1]?.name, efficiency, "*");
+
+            return isFinite(efficiency) && efficiency > 0 ? efficiency : 0;
+        }
+
+
+
+
+        // Count blank cells within radius of station
+        function countBlankCellsInRadius(lat, lon, radiusKm) {
+            const steps = 50; // Sample points around station
+            let blankCount = 0;
+            const counted = new Set();
+
+            for (let angle = 0; angle < 360; angle += 360/steps) {
+                for (let r = 0; r <= radiusKm; r += radiusKm/10) {
+                    const targetLat = lat + (r / 111.0) * Math.cos(angle * Math.PI / 180);
+                    const targetLon = lon + (r / (111.0 * Math.cos(lat * Math.PI / 180))) * Math.sin(angle * Math.PI / 180);
+
+                    const key = getCellKey(targetLat, targetLon);
+                    if (!counted.has(key)) {
+                        counted.add(key);
+                        if (!gridCells.has(key)) {
+                            blankCount++;
+                        }
+                    }
+                }
+            }
+
+            return blankCount;
+        }
+        // Count ALL cells on a segment (visited + blank)
+        function countCellsOnSegment(lat1, lon1, lat2, lon2) {
+            const steps = 20;
+            const counted = new Set();
+
+            for (let i = 0; i <= steps; i++) {
+                const t = i / steps;
+                const lat = lat1 + (lat2 - lat1) * t;
+                const lon = lon1 + (lon2 - lon1) * t;
+
+                const key = getCellKey(lat, lon);
+                counted.add(key);
+            }
+
+            return counted.size;
+        }
+
+
+        // Count blank cells on a segment
+        function countBlankCellsOnSegment(lat1, lon1, lat2, lon2) {
+            const steps = 20;
+            let blankCount = 0;
+            const counted = new Set();
+
+            for (let i = 0; i <= steps; i++) {
+                const t = i / steps;
+                const lat = lat1 + (lat2 - lat1) * t;
+                const lon = lon1 + (lon2 - lon1) * t;
+
+                const key = getCellKey(lat, lon);
+                if (!counted.has(key)) {
+                    counted.add(key);
+                    if (!gridCells.has(key)) {
+                        blankCount++;
+                    }
+                }
+            }
+
+            return blankCount;
+        }
+
+        function generateExportLinks(route) {
+            const s1 = route.stations[0];
+            const s2 = route.stations[1];
+
+            // Google Maps - bicycle
+            const google = `https://www.google.com/maps/dir/${s1.lat},${s1.lon}/${s2.lat},${s2.lon}/?dirflg=b`;
+
+            // OpenRouteService - FIXED for mixed terrain cycling (cycling-mountain profile)
+            const orsCoords = `${s1.lon},${s1.lat};${s2.lon},${s2.lat}`; // lng,lat with SEMICOLON separator
+
+            const orsData = {
+                coordinates: orsCoords,
+                options: {
+                    profile: 'cycling-mountain',  // Perfect for gravel/mixed terrain
+                    preference: 'recommended',    // Balanced route
+                    zoom: 14                      // Good overview zoom
+                }
+            };
+
+            // Encode JSON data for URL fragment
+            const encodedData = encodeURIComponent(JSON.stringify(orsData));
+            const ors = `https://maps.openrouteservice.org/#/directions/none/location/data/${encodedData}`;
+
+            return `
+                <div class="export-links">
+                    <a class="export-link" href="${google}" target="_blank">🚲 Google Bike</a>
+                    <a class="export-link" href="${ors}" target="_blank">🚲 ORS Gravel Bike</a>
+                </div>
+            `;
+        }
+
+
+
+
+
+
+
+        // Display routes
+        function displayRoutes(routes) {
+            clearRouteLines();
+
+            const resultsDiv = document.getElementById('results-content');
+            resultsDiv.innerHTML = '';
+
+            routes.forEach((route, idx) => {
+                const estDays = Math.ceil(route.totalKm / CONFIG.DAILY_DISTANCE_KM);
+                const efficiency = calculateEfficiency(route);
+                const routeHtml = `
+                    <div style="margin-bottom: 12px; padding: 8px; background: white; border-radius: 4px; border-left: 3px solid #ff9800;">
+                        <p><strong>Route ${idx + 1}</strong> (Eff: ${efficiency.toFixed(1)} cells/day)</p>
+                        <p>Chain: ${route.stations.map(s => s.name).join(' → ')}</p>
+                        <p>Distance: ${route.totalKm.toFixed(1)} km</p>
+                        <p>New blanks: ${route.blankCells}</p>
+                        <p>Train time: ${route.stations[0].time_distance || 0}h + ${route.stations[1].time_distance || 0}h</p>
+                        <div class="export-links">
+                            ${generateExportLinks(route)}
+                        </div>
+                    </div>
+                `;                resultsDiv.innerHTML += routeHtml;
+
+                // Draw route on map
+                drawRoute(route, idx);
+            });
+
+            document.getElementById('results').style.display = 'block';
+        }
+
+        // Draw route on map
+        function drawRoute(route, idx) {
+            const colors = [
+                '#D32F2F',  // Dark crimson red
+                '#1976D2',  // Navy blue
+                '#C2185B',  // Deep pink/magenta
+                '#6A1B9A',  // Dark purple
+                '#388E3C',  // Dark forest green
+                '#F57C00',  // Dark burnt orange (brownish)
+                '#2E7D32',  // Dark emerald
+                '#7B1FA2',  // Dark violet
+                '#E65100',  // Dark rust orange
+                '#01579B'   // Deep navy
+            ];
+            const color = colors[idx % colors.length];
+
+            route.segments.forEach((segment, segIdx) => {
+                const polyline = L.polyline(
+                    [[segment.from.lat, segment.from.lon], [segment.to.lat, segment.to.lon]],
+                    {
+                        color: color,
+                        weight: 5,
+                        opacity: 0.8,
+                        dashArray: '5, 5'
+                    }
+                ).addTo(map);
+
+                const visitedCells = route.blankCells ? 0 : 0; // Already handled in scoring
+                const popup = `
+                    <div class="route-popup">
+                        <h4>${route.stations[0].name} → ${route.stations[1].name}</h4>
+                        <p>Distance: ${segment.km.toFixed(1)} km</p>
+                        <p>New cells: <strong>${route.blankCells}</strong></p>
+                        <p>Total cells crossed: <strong>${countCellsOnSegment(segment.from.lat, segment.from.lon, segment.from.lon, segment.to.lon)}</strong></p>
+                        <p>Czas dojazdu: ${route.stations[0].time_distance} + ${route.stations[1].time_distance} godzin</p>
+                    </div>
+                `;
+                polyline.bindPopup(popup);
+
+                drawnRoutes.push(polyline);
+            });
+        }
+
+        // Generate Google Maps link
+        function generateGoogleMapsLink(route) {
+            const waypoints = route.stations.map(s => `${s.lat},${s.lon}`).join('|');
+            const url = `https://www.google.com/maps/dir/?api=1&waypoints=${waypoints}&dirflg=b`;
+            return `<a class="export-link" href="${url}" target="_blank">Google Maps</a>`;
+        }
+
+        // Generate OSRM link
+        function generateOSRMLink(route) {
+            const coords = route.stations.map(s => `${s.lon},${s.lat}`).join(';');
+            const url = `https://router.project-osrm.org/?center=52,19&loc=${coords}`;
+            return `<a class="export-link" href="${url}" target="_blank">OSRM Route</a>`;
+        }
+
+        // Clear route lines
+        function clearRouteLines() {
+            drawnRoutes.forEach(line => map.removeLayer(line));
+            drawnRoutes = [];
+        }
+
+        // Clear results
+        function clearResults() {
+            document.getElementById('results').style.display = 'none';
+            document.getElementById('results-content').innerHTML = '';
+            clearRouteLines();
+        }
+
+        // Update coverage stats
+        function updateStats() {
+            const KM_PER_DEGREE_LAT = 111;
+            const KM_PER_DEGREE_LON_BASE = 111;
+
+            const latCellSize = CONFIG.GRID_SIZE_KM / KM_PER_DEGREE_LAT;
+            const lonCellSize = CONFIG.GRID_SIZE_KM / (KM_PER_DEGREE_LON_BASE * Math.cos(52 * Math.PI / 180));
+
+            const bounds = CONFIG.POLAND_BOUNDS;
+            const [minLat, minLon] = bounds[0];
+            const [maxLat, maxLon] = bounds[1];
+
+            let totalCells = 0;
+            for (let lat = Math.floor(minLat / latCellSize) * latCellSize; lat < maxLat; lat += latCellSize) {
+                for (let lon = Math.floor(minLon / lonCellSize) * lonCellSize; lon < maxLon; lon += lonCellSize) {
+                    totalCells++;
+                }
+            }
+
+            const filledCells = gridCells.size;
+            const blankCells = totalCells - filledCells;
+            const coverage = ((filledCells / totalCells) * 100).toFixed(1);
+
+            document.getElementById('totalCells').textContent = totalCells;
+            document.getElementById('filledCells').textContent = filledCells;
+            document.getElementById('blankCells').textContent = blankCells;
+            document.getElementById('coveragePercent').textContent = coverage;
+        }
+
+        // Show error
+        function showError(message) {
+            const errorDiv = document.getElementById('error-container');
+            errorDiv.innerHTML = `<div class="error">${message}</div>`;
+        }
+
+        // Initialize on load
+        window.addEventListener('load', () => {
+            initMap();
+            loadData();
+        });
+    </script>
+</body>
+</html>
