@@ -1,5 +1,5 @@
 module StaticView
-  class IdeasView < BaseView
+  class JsPanoramioView < BaseView
     Log = ::Log.for(self)
 
     def initialize(@blog : Tremolite::Blog, @url : String)
@@ -7,7 +7,7 @@ module StaticView
 
     def content
       data = Hash(String, String).new
-      return load_html("ideas/ideas", data)
+      return load_html("map/panoramio", data)
     end
   end
 end
