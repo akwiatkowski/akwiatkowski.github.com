@@ -5,7 +5,7 @@ require "./tiles_layer"
 
 class Map::Downloader
   DEFAULT_ZOOM = 10
-  PUBLIC_PATH  = "env/full/public/tiles"
+  PUBLIC_PATH  = "env/full/public/release/tiles"
   # download addition border tile
   BORDER_TILE = 2
 
