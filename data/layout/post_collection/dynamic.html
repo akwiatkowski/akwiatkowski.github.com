@@ -46,7 +46,7 @@
                 posts = SAMPLE_POSTS.filter(p => p.visible && p.ready && (p.tags||[]).includes(FILTER_TAG));
             }
             // always sort by date (descending, newest first)
-            posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+            posts.sort((a, b) => new Date(b.time) - new Date(a.time));
             postsData = posts;
             container.innerHTML = '';
 
@@ -164,9 +164,9 @@
                 const tagObj = tags.find(t => t.slug === tag);
                 if (tagObj) {
                   const tagClass = `tag tag-${tag.toLowerCase()}`;
-                  const tagSlug = tag.toLowerCase().replace(/[^a-z0-9]+/g, '-');
                   const tagLabel = tagObj.name;
-                  return `<a href="/tag/${tagSlug}/" class="${tagClass}" target="_blank">${escapeHtml(tagLabel)}</a>`;
+                  const tagUrl = tagObj.url;
+                  return `<a href="${tagUrl}" class="${tagClass}" target="_blank">${escapeHtml(tagLabel)}</a>`;
                 } else {
                   console.log('Missing tag for', tag);
                   return "";

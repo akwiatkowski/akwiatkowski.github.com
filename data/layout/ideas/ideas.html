@@ -1,10 +1,6 @@
 <body>
     <div id="root"></div>
 
-    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-
     <script type="text/babel">
         const { useState, useEffect, useMemo } = React;
 
@@ -156,8 +152,11 @@
                                     ))}
                                 </div>
                                 <small className="d-block mb-1 fw-semibold">
-                                  Niezaliczonych <strong>{trip.towns_not_visited}</strong> gmin.
-                                  Aby zaliczyć jedną gminę potrzeba <strong>{trip.time_cost_to_visit_new_town}</strong> godzin.
+                                  Niezaliczonych <strong>{trip.towns_not_visited}</strong> gmin.<br />
+                                  Aby zaliczyć jedną gminę potrzeba<br />
+                                  - <strong>{trip.time_cost_stats_for_new_town.time_cost_riding}h</strong> jazdy rowerem<br />
+                                  - <strong>{trip.time_cost_stats_for_new_town.time_cost_riding_and_train}h</strong> rower + dojazd<br />
+                                  - <strong>{trip.time_cost_stats_for_new_town.time_cost_with_sleeping}h</strong> z noclegiem<br />
                                   Kierunek <strong>{trip.direction_char}</strong>
                                 </small>
                             </div>

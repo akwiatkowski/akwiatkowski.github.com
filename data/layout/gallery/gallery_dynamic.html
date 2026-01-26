@@ -115,7 +115,8 @@
                                 onClick={() => handleImageClick(index)}
                                 role="button"
                                 tabIndex={0}
-                                aria-label={`View ${item['img.alt']}`}
+                                aria-label={`Zobacz ${item['img.alt']}`}
+                                id={item['img.full_image_sanitized']}
                             >
                                 <img
                                     src={item['img.src']}
