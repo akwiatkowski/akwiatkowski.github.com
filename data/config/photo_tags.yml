@@ -2,51 +2,164 @@
   slug_pl: dobre
   title: Dobre
   subtitle: nie najlepsze, ale lepsze niż większość
+  points: 50
 - slug: best
   slug_pl: najlepsze
   title: Najlepsze zdjęcia
   subtitle: to czym subiektywnie bym się chwalił
+  points: 100
+- slug: portfolio
+  slug_pl: portfolio
+  title: Portfolio
+  subtitle: # TODO:
+  points: 200
 - slug: timeline
   slug_pl: pory_roku
   title: Pory roku
   subtitle: zdjęcia najlepiej pokazujące jak się zmienia przyroda w zależności od pory roku
+  points: 30
 - slug: bird
   slug_pl: ptaki
   title: Ptaki
   subtitle: latająca przyroda
+  points: 15
+- slug: wildlife
+  slug_pl: dzika_przyroda
+  title: Dzika przyroda
+  subtitle: zwierzaki dzikie
+  points: 15
+- slug: animal
+  slug_pl: zwierzaki
+  title: Zwierzaki
+  subtitle: inne niż koty
+  points: 10
 - slug: macro
   slug_pl: makro
   title: Makro
   subtitle: czyli wszystko co jest małe
+  points: 15
 - slug: mountains
   slug_pl: gory
   title: Góry
   subtitle: ale nie pagórki i pogórza
+  points: 20
 - slug: winter
   slug_pl: zima
   title: Zima
   subtitle: gdy jest biało i zimno
-- slug: sunrise
-  slug_pl: wschod_slonca
-  title: Wschody i zachody
-  subtitle: najlepsze warunki do zdjęć krajobrazu
+  points: 30
+- slug: summer
+  slug_pl: lat
+  title: Lato
+  subtitle: środek roku i ciepło
+  points: 30
+- slug: autumn
+  slug_pl: jesien
+  title: Jesień
+  subtitle: gdy liście robią się kolorowe
+  points: 30
 - slug: spring
   slug_pl: wiosna
   title: Wiosna
   subtitle: gdy przyroda budzi się do życia
+  points: 30
+- slug: sunrise
+  slug_pl: wschod_slonca
+  title: Wschody i zachody
+  subtitle: najlepsze warunki do zdjęć krajobrazu
+  points: 40
+- slug: spring
+  slug_pl: wiosna
+  title: Wiosna
+  subtitle: gdy przyroda budzi się do życia
+  points: 20
 - slug: city
   slug_pl: miasto
   title: Miasto
   subtitle: trochę więcej betonu
+  points: 15
+- slug: town
+  slug_pl: miasteczko
+  title: Miasteczko
+  subtitle: między wsią a miastem
+  points: 20
 - slug: rural
   slug_pl: wies
   title: Wieś
   subtitle: wszystko to co ani nie jest miastem, ani nie jest czystą przyrodą
+  points: 25
+- slug: forest
+  slug_pl: las
+  title: Las
+  subtitle: tam gdzie dużo drzewa
+  points: 15
+- slug: road
+  slug_pl: droga
+  title: Drogi i ścieżki
+  subtitle: # TODO:
+  points: 20
 - slug: night
   slug_pl: noc
   title: Noc
   subtitle: zdjęcia zrobione przy trochę ciemniejszych warunkach oświetleniowych
+  points: 10
+- slug: fog
+  slug_pl: mgly
+  title: Mgły
+  subtitle: gdy warunki pogodowe są ciekawe
+  points: 40
+- slug: weather
+  slug_pl: pogoda
+  title: Ciekawe warunki pogodowe
+  subtitle: ale inne niż mgły
+  points: 20
 - slug: common
   slug_pl: zwyaczjne
   title: Zwyczajne
   subtitle: domyślny tag dla każdego zdjęcia
+  points: 5
+- slug: air
+  slug_pl: z_gory
+  title: Z góry
+  subtitle: zdjęcia z drona lub innego pojazdu latającego
+  points: 5
+- slug: ruin
+  slug_pl: ruiny
+  title: Ruiny
+  subtitle: ruiny lub bardzo stare konstrukcje
+  points: 5
+- slug: industrial
+  slug_pl: przemyslowe
+  title: Obiekty przemysłowe
+  subtitle: obiekty które nie są mieszkalne i nie są ruinami, mają swój przemysłowy charakter
+  points: 5
+- slug: train
+  slug_pl: kolejowe
+  title: Kolej i infrastruktura
+  subtitle: pociągi, mosty, wiadukty, stacje
+  points: 5
+- slug: nature
+  slug_pl: natura
+  title: Natura
+  subtitle: inne zdjęcia przedstawiające naturę, krajobrazy nie pasujące do terenów wiejskich
+  points: 20
+- slug: cat
+  slug_pl: koty
+  title: Koty
+  subtitle: Koty spotkanie na trasie
+  points: 5
+- slug: dog # TODO: remove
+  slug_pl: psy
+  title: Psy
+  subtitle:
+  points: 5
+- slug: water
+  slug_pl: woda
+  title: Woda
+  subtitle: Jeziora i morze
+  points: 15
+- slug: sign
+  slug_pl: tablice
+  title: Tablice
+  subtitle: informacyjne, znaki, ...
+  points: 5

@@ -1,36 +1,330 @@
 - name: Lotyń
   lat: 53.59951
   lon: 16.77981
-  time_distance: 2.5 # hours
+  time_distance:
+    Poznań: 2.5 # hours
 - name: Lębork
   lat: 54.53376
   lon: 17.75073
-  time_distance: 5.0 # hours
+  time_distance:
+    Poznań: 5.0 # hours
 - name: Suwałki
   lat: 54.10586
   lon: 22.94537
-  time_distance: 8 # 7 min, max 9.5 hours
+  time_distance:
+    Poznań: 8.0 # 7 min, max 9.5 hours
 - name: Barczewo
   lat: 53.84438
   lon: 20.69983
-  time_distance: 4.5 # hours
+  time_distance:
+    Poznań: 4.5 # hours
 - name: Kościan
   lat: 52.07904
   lon: 16.64226
-  time_distance: 0.75
+  time_distance:
+    Poznań: 0.75
 - name: Jelenia Góra
   lat: 50.90223
   lon: 15.75555
-  time_distance: 4
+  time_distance:
+    Poznań: 4
 - name: Ziemomyśl
   lat: 53.16706
   lon: 15.30202
-  time_distance: 2.25
+  time_distance:
+    Poznań: 2.25
 - name: Szczecinek
   lat: 53.69341
   lon: 16.70501
-  time_distance: 2.5
+  time_distance:
+    Poznań: 2.5
 - name: Ustka
   lat: 54.57869
   lon: 16.86070
-  time_distance: 5  
+  time_distance:
+    Poznań: 5.0
+- name: Jankowo Dolne
+  lat: 52.53869
+  lon: 17.71953
+  time_distance:
+    Poznań: 1.0
+- name: Wągrowiec
+  lat: 52.80934
+  lon: 17.20232
+  time_distance:
+    Poznań: 1.5
+- name: Rzeszów
+  lat: 50.04315
+  lon: 22.00584
+  time_distance:
+    Poznań: 6.5
+- name: Kraków
+  lat: 50.06847
+  lon: 19.94770
+  time_distance:
+    Poznań: 5.0
+- name: Lublin
+  lat: 51.23101
+  lon: 22.56949
+  time_distance:
+    Poznań: 6.0
+- name: Białystok
+  lat: 53.13409
+  lon: 23.13588
+  time_distance:
+    Poznań: 5.0
+- name: Warszawa
+  lat: 52.22881
+  lon: 21.00299
+  time_distance:
+    Poznań: 3.0
+- name: Gdańsk
+  lat: 54.35540
+  lon: 18.64464
+  time_distance:
+    Poznań: 3.0
+- name: Kołobrzeg
+  lat: 54.18215
+  lon: 15.57044
+  time_distance:
+    Poznań: 3.5
+- name: Stargard
+  lat: 53.33945
+  lon: 15.03151
+  time_distance:
+    Poznań: 1.5 # 2:10 regio
+- name: Wrocław
+  lat: 51.09869
+  lon: 17.03638
+  time_distance:
+    Poznań: 2.0
+- name: Częstochowa
+  lat: 50.79752
+  lon: 19.10748
+  time_distance:
+    Poznań: 5.0
+- name: Kielce
+  lat: 50.87411
+  lon: 20.61831
+  time_distance:
+    Poznań: 5.5
+- name: Siedlce
+  lat: 52.16250
+  lon: 22.27068
+  time_distance:
+    Poznań: 4.5
+- name: Ełk
+  lat: 53.82466
+  lon: 22.36209
+  time_distance:
+    Poznań: 8.0
+- name: Giżycko
+  lat: 54.03141
+  lon: 21.77819
+  time_distance:
+    Poznań: 6.0
+- name: Korsze
+  lat: 54.17225
+  lon: 21.13669
+  time_distance:
+    Poznań: 5.0
+- name: Jabłonowo Pomorskie
+  lat: 53.39282
+  lon: 19.16138
+  time_distance:
+    Poznań: 2.0
+- name: Toruń
+  lat: 53.01181
+  lon: 18.61953
+  time_distance:
+    Poznań: 1.5
+- name: Piła
+  lat: 53.14303
+  lon: 16.74396
+  time_distance:
+    Poznań: 2.0
+- name: Szczecinek
+  lat: 53.69362
+  lon: 16.70448
+  time_distance:
+    Poznań: 2.75 # ICE 2h
+- name: Łódź
+  lat: 51.75750
+  lon: 19.43029
+  time_distance:
+    Poznań: 3.0
+- name: Elbląg
+  lat: 54.15084
+  lon: 19.41630
+  time_distance:
+    Poznań: 4.5
+- name: Sandomierz
+  lat: 50.66020
+  lon: 21.76462
+  time_distance:
+    Poznań: 8.0 # 6 min
+- name: Żywiec
+  lat: 49.67909
+  lon: 19.18583
+  time_distance:
+    Poznań: 6.0
+- name: Katowice
+  lat: 50.2598
+  lon: 19.0265
+  time_distance:
+    Poznań: 4.0
+- name: Zakopane
+  lat: 49.2990
+  lon: 19.9499
+  time_distance:
+    Poznań: 8.0
+- name: Gdynia
+  lat: 54.5211
+  lon: 18.4940
+  time_distance:
+    Poznań: 3.25
+- name: Bydgoszcz
+  lat: 53.1236
+  lon: 18.0078
+  time_distance:
+    Poznań: 2.0
+- name: Zielona Góra
+  lat: 51.9336
+  lon: 15.5059
+  time_distance:
+    Poznań: 2.5
+- name: Tarnów
+  lat: 50.0142
+  lon: 20.9897
+  time_distance:
+    Poznań: 5.5
+- name: Przemyśl
+  lat: 49.7833
+  lon: 22.7667
+  time_distance:
+    Poznań: 8.0
+- name: Krosno
+  lat: 49.6892
+  lon: 21.7616
+  time_distance:
+    Poznań: 10.0
+- name: Jarosław
+  lat: 50.0167
+  lon: 22.6833
+  time_distance:
+    Poznań: 8.0
+- name: Nowa Ruda
+  lat: 50.4917
+  lon: 16.4967
+  time_distance:
+    Poznań: 4.5
+- name: Radom
+  lat: 51.4022
+  lon: 21.1471
+  time_distance:
+    Poznań: 4.0
+- name: Chełm
+  lat: 51.1439
+  lon: 23.4719
+  time_distance:
+    Poznań: 6.5
+- name: Kłodzko
+  lat: 50.4347
+  lon: 16.6613
+  time_distance:
+    Poznań: 3.0
+- name: Opole
+  lat: 50.7953
+  lon: 17.9475
+  time_distance:
+    Poznań: 2.5
+- name: Płock
+  lat: 52.5469
+  lon: 19.6863
+  time_distance:
+    Poznań: 3.5
+- name: Skierniewice
+  lat: 51.9621
+  lon: 20.1691
+  time_distance:
+    Poznań: 3.5
+- name: Kalisz
+  lat: 51.7611
+  lon: 18.0910
+  time_distance:
+    Poznań: 1.75
+- name: Leszno
+  lat: 51.8556
+  lon: 16.5728
+  time_distance:
+    Poznań: 1.25  # 70km from Kościan
+- name: Choszczno
+  lat: 53.1667
+  lon: 15.4167
+  time_distance:
+    Poznań: 2.0   # 60km from Stargard
+- name: Gorzów Wielkopolski
+  lat: 52.7314
+  lon: 15.2368
+  time_distance:
+    Poznań: 1.75  # 80km NW Poznań
+- name: Głogów
+  lat: 51.6620
+  lon: 16.1858
+  time_distance:
+    Poznań: 1.75   # 70km from Leszno
+- name: Tczew
+  lat: 54.1039
+  lon: 18.7853
+  time_distance:
+    Poznań: 2.5  # 55km from Gdańsk
+- name: Chojnice
+  lat: 53.7003
+  lon: 17.5639
+  time_distance:
+    Poznań: 3.25   # 70km from Szczecinek
+- name: Koszalin
+  lat: 54.1909
+  lon: 16.1826
+  time_distance:
+    Poznań: 3.75  # 65km from Kołobrzeg
+# - name: Kościerzyna
+#   lat: 54.1222
+#   lon: 17.9833
+#   time_distance:
+#     Poznań: 3.5   # 60km from Gdynia
+- name: Gniezno
+  lat: 52.4833
+  lon: 17.6000
+  time_distance:
+    Poznań: 1.0  # 55km from Wągrowiec
+- name: Inowrocław
+  lat: 52.7994
+  lon: 18.2667
+  time_distance:
+    Poznań: 1.5  # 65km from Toruń
+- name: Wałbrzych
+  lat: 50.7858
+  lon: 16.2858
+  time_distance:
+    Poznań: 3.0   # 55km from Jelenia Góra
+- name: Legnica
+  lat: 51.2072
+  lon: 16.1624
+  time_distance:
+    Poznań: 2.5   # 70km from Wrocław
+- name: Nowy Targ
+  lat: 49.4797
+  lon: 20.0333
+  time_distance:
+    Poznań: 8.0  # 60km from Zakopane
+- name: Zamość
+  lat: 50.7217
+  lon: 23.2522
+  time_distance:
+    Poznań: 7.75  # 110km from Lublin
+- name: Terespol
+  lat: 52.0914
+  lon: 23.6061
+  time_distance:
+    Poznań: 5.75   # 130km from Chełm (Belarus border)
