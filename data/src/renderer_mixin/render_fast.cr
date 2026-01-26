@@ -36,11 +36,47 @@ module RendererMixin::RenderFast
     )
   end
 
-  def render_ideas
+  def render_js_ideas
     write_output(
-      StaticView::IdeasView.new(
+      StaticView::JsIdeasView.new(
         blog: blog,
         url: "pomysly.html"
+      )
+    )
+  end
+
+  def render_js_timeline
+    write_output(
+      StaticView::JsTimelineView.new(
+        blog: blog,
+        url: "linia_czasu.html"
+      )
+    )
+  end
+
+  def render_js_panoramio
+    write_output(
+      StaticView::JsPanoramioView.new(
+        blog: blog,
+        url: "mapa2.html"
+      )
+    )
+  end
+
+  def render_js_exif_stats
+    write_output(
+      StaticView::JsExifView.new(
+        blog: blog,
+        url: "exif_statystyki.html"
+      )
+    )
+  end
+
+  def render_js_timeline
+    write_output(
+      StaticView::JsBicyclePlannerView.new(
+        blog: blog,
+        url: "pomysly2.html"
       )
     )
   end

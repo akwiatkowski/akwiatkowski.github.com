@@ -12,8 +12,12 @@ module RendererMixin::RenderPostRelated
     render_all_special_views_post_related
     render_all_views_post_related
 
+    render_js_pages
+
     render_posts_paginated_lists
     render_last_updated_posts
+
+    render_posts_redirects
 
     render_debug_posts
 
@@ -88,6 +92,14 @@ module RendererMixin::RenderPostRelated
     Log.info { "Renderer: Posts finished" }
   end
 
+  def render_posts_redirects
+    blog.post_collection.posts.each do |post|
+      old_url = post.old_url.not_nil!
+      new_url = post.url
+      render_redirect(old_url: old_url, new_url: new_url)
+    end
+  end
+
   def render_post(post : Tremolite::Post, hide_not_finished : Bool = false)
     view = PostView::ArticleView.new(
       blog: blog,
@@ -97,6 +109,16 @@ module RendererMixin::RenderPostRelated
     write_output(view)
 
     Log.debug { "render_post #{post.slug} DONE" }
+  end
+
+  def render_redirect(old_url : String, new_url : String)
+    view = SpecialView::RedirectView.new(
+      blog: blog,
+      old_url: old_url,
+      new_url: new_url
+    )
+    write_output(view)
+    Log.info { "Renderer: redirects #{old_url} -> #{new_url}" }
   end
 
   def render_mountain_range_planner

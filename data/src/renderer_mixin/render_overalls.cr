@@ -13,8 +13,14 @@ module RendererMixin::RenderOveralls
     render_home
     render_home_new
     render_map
-    render_ideas
     render_pois
+  end
+
+  def render_js_pages
+    render_js_ideas
+    render_js_timeline
+    render_js_panoramio
+    render_js_exif_stats
   end
 
   def render_fast_static_renders
