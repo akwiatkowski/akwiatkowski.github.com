@@ -1,3 +1,8 @@
+- name: Poznań
+  lat: 52.40374
+  lon: 16.91170
+  time_distance:
+    Poznań: 0.05 # hours
 - name: Lotyń
   lat: 53.59951
   lon: 16.77981
@@ -294,8 +299,8 @@
 #   time_distance:
 #     Poznań: 3.5   # 60km from Gdynia
 - name: Gniezno
-  lat: 52.4833
-  lon: 17.6000
+  lat: 52.52971
+  lon: 17.60316
   time_distance:
     Poznań: 1.0  # 55km from Wągrowiec
 - name: Inowrocław
@@ -328,3 +333,43 @@
   lon: 23.6061
   time_distance:
     Poznań: 5.75   # 130km from Chełm (Belarus border)
+- name: Krzyż Wielkopolski
+  lat: 52.87748
+  lon: 16.01898
+  time_distance:
+    Poznań: 0.9 # 0:45 - 1:09
+- name: Słupsk
+  lat: 54.46721
+  lon: 17.01736
+  time_distance:
+    Poznań: 4.5
+- name: Świnoujście
+  lat: 53.90106
+  lon: 14.25997
+  time_distance:
+    Poznań: 4.0
+- name: Nysa
+  lat: 50.47762
+  lon: 17.34197
+  time_distance:
+    Poznań: 4.0
+- name: Konin
+  lat: 52.23140
+  lon: 18.25094
+  time_distance:
+    Poznań: 1.5
+- name: Ciechanów
+  lat: 52.88328
+  lon: 20.59167
+  time_distance:
+    Poznań: 4.5
+- name: Małkinia
+  lat: 52.69414
+  lon: 22.03423
+  time_distance:
+    Poznań: 4.5
+- name: Nowy Sącz
+  lat: 49.60683
+  lon: 20.70231
+  time_distance:
+    Poznań: 9.0
