@@ -3823,6 +3823,16 @@
       common_size: 1
       not_common_size: 5
       days_diff: 4399
+    2026-01-04-zima-zaatakowala:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 4535
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 4540
   quants:
   - lat: 52.4
     lon: 17.0
@@ -4578,6 +4588,26 @@
       common_size: 1
       not_common_size: 3
       days_diff: 4379
+    2026-01-04-zima-zaatakowala:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 4515
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 4520
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 4520
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 4521
   quants:
   - lat: 52.4
     lon: 17.0
@@ -5309,6 +5339,16 @@
       common_size: 1
       not_common_size: 4
       days_diff: 4378
+    2026-01-04-zima-zaatakowala:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 4514
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 4519
   quants:
   - lat: 52.4
     lon: 17.0
@@ -5782,6 +5822,16 @@
       common_size: 2
       not_common_size: 4
       days_diff: 4395
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 4505
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 4506
   quants:
   - lat: 52.4
     lon: 17.2
@@ -8052,6 +8102,16 @@
       common_size: 1
       not_common_size: 2
       days_diff: 4162
+    2026-01-04-zima-zaatakowala:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 4298
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 4303
   quants:
   - lat: 52.4
     lon: 17.0
@@ -10620,6 +10680,16 @@
       common_size: 1
       not_common_size: 2
       days_diff: 4107
+    2026-01-04-zima-zaatakowala:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 4243
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 4248
   quants:
   - lat: 52.4
     lon: 17.0
@@ -12107,6 +12177,16 @@
       common_size: 1
       not_common_size: 4
       days_diff: 4067
+    2026-01-04-zima-zaatakowala:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 4203
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 4208
   quants:
   - lat: 52.4
     lon: 17.0
@@ -14865,6 +14945,16 @@
       common_size: 1
       not_common_size: 4
       days_diff: 3808
+    2026-01-04-zima-zaatakowala:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3944
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3949
   quants:
   - lat: 52.4
     lon: 17.0
@@ -19969,6 +20059,16 @@
       common_size: 2
       not_common_size: 4
       days_diff: 3641
+    2026-01-04-zima-zaatakowala:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3777
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3782
   quants:
   - lat: 52.4
     lon: 17.4
@@ -21449,6 +21549,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 3412
+    2026-01-04-zima-zaatakowala:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3548
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3553
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -24471,6 +24581,16 @@
       common_size: 1
       not_common_size: 8
       days_diff: 3301
+    2026-01-04-zima-zaatakowala:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 3437
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 3442
   quants:
   - lat: 52.4
     lon: 17.0
@@ -25732,6 +25852,16 @@
       common_size: 2
       not_common_size: 5
       days_diff: 3252
+    2026-01-04-zima-zaatakowala:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 3387
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 3392
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -33408,6 +33538,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 3073
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3232
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3233
   quants:
   - lat: 52.4
     lon: 17.0
@@ -34400,6 +34540,16 @@
       common_size: 1
       not_common_size: 11
       days_diff: 3053
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 3194
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 3195
   quants:
   - lat: 52.4
     lon: 17.0
@@ -38331,6 +38481,16 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2955
+    2026-01-04-zima-zaatakowala:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3091
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3096
   quants:
   - lat: 52.4
     lon: 17.0
@@ -41867,6 +42027,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 2845
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2981
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2986
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -43957,6 +44127,16 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2720
+    2026-01-04-zima-zaatakowala:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2855
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2860
   quants:
   - lat: 52.4
     lon: 17.0
@@ -45003,6 +45183,26 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2693
+    2026-01-04-zima-zaatakowala:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2828
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2833
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2834
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2835
   quants:
   - lat: 52.4
     lon: 17.2
@@ -45994,6 +46194,16 @@
       common_size: 1
       not_common_size: 17
       days_diff: 2683
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 17
+      days_diff: 2824
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 17
+      days_diff: 2825
   quants:
   - lat: 52.4
     lon: 17.0
@@ -49975,6 +50185,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 2526
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2686
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2687
   quants:
   - lat: 52.4
     lon: 17.0
@@ -51377,6 +51597,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 2496
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2631
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2636
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2637
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2638
   quants:
   - lat: 52.4
     lon: 17.2
@@ -55387,6 +55627,16 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2329
+    2026-01-04-zima-zaatakowala:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2464
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2470
   quants:
   - lat: 52.4
     lon: 17.0
@@ -55735,6 +55985,16 @@
       common_size: 2
       not_common_size: 0
       days_diff: 2309
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2469
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2470
   quants:
   - lat: 52.4
     lon: 17.2
@@ -58282,6 +58542,16 @@
       common_size: 1
       not_common_size: 5
       days_diff: 2316
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2427
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2428
   quants:
   - lat: 52.4
     lon: 17.0
@@ -58772,6 +59042,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2240
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2400
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2401
   quants:
   - lat: 52.4
     lon: 17.2
@@ -60516,6 +60796,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2187
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2347
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2348
   quants:
   - lat: 52.4
     lon: 17.2
@@ -63850,6 +64140,16 @@
       common_size: 2
       not_common_size: 30
       days_diff: 2120
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 3
+      common_size: 1
+      not_common_size: 31
+      days_diff: 2231
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 3
+      common_size: 1
+      not_common_size: 31
+      days_diff: 2232
   quants:
   - lat: 52.4
     lon: 17.0
@@ -65005,6 +65305,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1979
+    2026-01-04-zima-zaatakowala:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2114
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2119
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -67573,6 +67883,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1937
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2072
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2077
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2078
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2079
   quants:
   - lat: 52.4
     lon: 17.2
@@ -68666,6 +68996,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1904
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2064
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2065
   quants:
   - lat: 52.2
     lon: 17.2
@@ -69018,6 +69358,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1921
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2057
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2062
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -69678,6 +70028,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1889
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2048
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2049
   quants:
   - lat: 52.4
     lon: 17.2
@@ -71938,6 +72298,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1793
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1929
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1934
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1934
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1935
   quants:
   - lat: 52.4
     lon: 17.2
@@ -73615,6 +73995,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1754
+    2026-01-04-zima-zaatakowala:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1889
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1894
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -74725,6 +75115,16 @@
       common_size: 1
       not_common_size: 9
       days_diff: 1770
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 10
+      common_size: 1
+      not_common_size: 9
+      days_diff: 1881
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 10
+      common_size: 1
+      not_common_size: 9
+      days_diff: 1882
   quants:
   - lat: 52.4
     lon: 17.0
@@ -76442,6 +76842,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1604
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1740
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1745
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1745
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1746
   quants:
   - lat: 52.4
     lon: 17.2
@@ -76964,6 +77384,26 @@
       common_size: 1
       not_common_size: 2
       days_diff: 1593
+    2026-01-04-zima-zaatakowala:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1728
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1733
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1734
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1735
   quants:
   - lat: 52.4
     lon: 17.2
@@ -77228,6 +77668,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1583
+    2026-01-04-zima-zaatakowala:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1718
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1723
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -77658,6 +78108,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1549
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1709
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1710
   quants:
   - lat: 52.4
     lon: 17.2
@@ -78310,6 +78770,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1544
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1704
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1705
   quants:
   - lat: 52.4
     lon: 17.0
@@ -78971,6 +79441,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1561
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1697
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1702
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1702
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1703
   quants:
   - lat: 52.4
     lon: 17.2
@@ -80037,6 +80527,26 @@
       common_size: 3
       not_common_size: 5
       days_diff: 1543
+    2026-01-04-zima-zaatakowala:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1679
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1684
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1684
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1685
   quants:
   - lat: 52.4
     lon: 17.0
@@ -80929,6 +81439,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1490
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1649
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1650
   quants:
   - lat: 52.4
     lon: 17.2
@@ -83150,6 +83670,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1445
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1581
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1586
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1586
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1587
   quants:
   - lat: 52.4
     lon: 17.2
@@ -83667,6 +84207,26 @@
       common_size: 2
       not_common_size: 3
       days_diff: 1441
+    2026-01-04-zima-zaatakowala:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1577
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1582
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1582
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1583
   quants:
   - lat: 52.4
     lon: 17.2
@@ -84025,6 +84585,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1439
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1575
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1580
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -84457,6 +85027,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1439
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1574
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1579
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1580
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1581
   quants:
   - lat: 52.4
     lon: 17.2
@@ -84826,6 +85416,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1406
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1566
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1567
   quants:
   - lat: 52.4
     lon: 17.2
@@ -85346,6 +85946,26 @@
       common_size: 1
       not_common_size: 2
       days_diff: 1419
+    2026-01-04-zima-zaatakowala:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1554
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1559
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1560
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1561
   quants:
   - lat: 52.4
     lon: 17.2
@@ -86593,6 +87213,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1401
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1536
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1542
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1542
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1543
   quants:
   - lat: 52.4
     lon: 17.2
@@ -87057,6 +87697,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1364
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1523
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1524
   quants:
   - lat: 52.4
     lon: 17.2
@@ -87370,6 +88020,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1360
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1520
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1521
   quants:
   - lat: 52.4
     lon: 17.2
@@ -87720,6 +88380,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1354
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1490
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1495
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -88158,6 +88828,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1348
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1483
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1488
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1489
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1490
   quants:
   - lat: 52.4
     lon: 17.2
@@ -89944,6 +90634,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1274
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1433
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1434
   quants:
   - lat: 52.4
     lon: 17.2
@@ -90770,6 +91470,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1257
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1392
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1397
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1398
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1399
   quants:
   - lat: 52.4
     lon: 17.2
@@ -92365,6 +93085,16 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1232
+    2026-01-04-zima-zaatakowala:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1337
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1342
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -93485,6 +94215,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1146
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1305
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1306
   quants:
   - lat: 52.4
     lon: 17.0
@@ -93797,6 +94537,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1143
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1302
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1303
   quants:
   - lat: 52.4
     lon: 17.2
@@ -94340,6 +95090,26 @@
       common_size: 2
       not_common_size: 2
       days_diff: 1154
+    2026-01-04-zima-zaatakowala:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1290
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1295
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1295
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1296
   quants:
   - lat: 52.4
     lon: 17.2
@@ -95174,6 +95944,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1106
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1266
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1267
   quants:
   - lat: 52.4
     lon: 17.0
@@ -96409,6 +97189,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1088
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1224
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1229
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -97121,6 +97911,26 @@
       common_size: 2
       not_common_size: 3
       days_diff: 1083
+    2026-01-04-zima-zaatakowala:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1218
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1223
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1224
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1225
   quants:
   - lat: 52.4
     lon: 17.0
@@ -98399,6 +99209,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 987
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1147
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1148
   quants:
   - lat: 52.4
     lon: 17.0
@@ -99023,6 +99843,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 947
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1107
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1108
   quants:
   - lat: 52.4
     lon: 17.2
@@ -100215,6 +101045,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 868
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1028
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1029
   quants:
   - lat: 52.4
     lon: 17.0
@@ -100938,6 +101778,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 825
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 985
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 986
   quants:
   - lat: 52.4
     lon: 17.0
@@ -101322,6 +102172,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 818
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 978
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 979
   quants:
   - lat: 52.4
     lon: 17.2
@@ -101752,6 +102612,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 817
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 952
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 958
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 958
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 959
   quants:
   - lat: 52.4
     lon: 17.2
@@ -102677,6 +103557,16 @@
       common_size: 2
       not_common_size: 1
       days_diff: 787
+    2026-01-04-zima-zaatakowala:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 923
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 928
   quants:
   - lat: 52.4
     lon: 17.4
@@ -103196,6 +104086,26 @@
       common_size: 2
       not_common_size: 2
       days_diff: 776
+    2026-01-04-zima-zaatakowala:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 911
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 916
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 917
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 918
   quants:
   - lat: 52.4
     lon: 17.2
@@ -103742,6 +104652,16 @@
       common_size: 2
       not_common_size: 0
       days_diff: 834
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 994
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 995
   quants:
   - lat: 52.4
     lon: 17.2
@@ -104541,6 +105461,26 @@
       common_size: 2
       not_common_size: 2
       days_diff: 403
+    2026-01-04-zima-zaatakowala:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 538
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 543
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 544
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 545
   quants:
   - lat: 52.4
     lon: 17.2
@@ -104857,6 +105797,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 654
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 814
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 815
   quants:
   - lat: 52.4
     lon: 17.2
@@ -105643,6 +106593,26 @@
       common_size: 1
       not_common_size: 7
       days_diff: 566
+    2026-01-04-zima-zaatakowala:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 671
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 676
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 677
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 678
   quants:
   - lat: 52.4
     lon: 17.0
@@ -106220,6 +107190,26 @@
       common_size: 2
       not_common_size: 2
       days_diff: 382
+    2026-01-04-zima-zaatakowala:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 517
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 523
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 523
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 524
   quants:
   - lat: 52.4
     lon: 17.2
@@ -106847,6 +107837,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 213
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 349
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 354
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 354
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 355
   quants:
   - lat: 52.4
     lon: 17.2
@@ -107305,6 +108315,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 163
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 323
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 324
   quants:
   - lat: 52.4
     lon: 17.2
@@ -107820,6 +108840,26 @@
       common_size: 1
       not_common_size: 4
       days_diff: 196
+    2026-01-04-zima-zaatakowala:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 301
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 306
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 307
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 308
   quants:
   - lat: 52.4
     lon: 17.2
@@ -108141,6 +109181,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 103
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 263
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 264
   quants:
   - lat: 52.4
     lon: 17.2
@@ -108721,6 +109771,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 88
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 223
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 229
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 229
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 230
   quants:
   - lat: 52.4
     lon: 17.2
@@ -109174,6 +110244,26 @@
       common_size: 2
       not_common_size: 1
       days_diff: 60
+    2026-01-04-zima-zaatakowala:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 196
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 201
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 201
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 202
   quants:
   - lat: 52.4
     lon: 17.2
@@ -109738,6 +110828,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 30
+    2026-01-04-zima-zaatakowala:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 165
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 171
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 171
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 172
   quants:
   - lat: 52.4
     lon: 17.2
@@ -110080,6 +111190,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 11
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 159
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 160
   quants:
   - lat: 52.4
     lon: 17.2
@@ -110575,6 +111695,16 @@
       common_size: 1
       not_common_size: 3
       days_diff: 30
+    2026-01-04-zima-zaatakowala:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 135
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 140
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -111223,3 +112353,1192 @@
     lon: 15.8
   - lat: 50.8
     lon: 16.0
+2026-01-04-zima-zaatakowala:
+  related_posts:
+    2013-08-04-w-strone-skokow-po-raz-1-szy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4535
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4515
+    2013-08-25-w-strone-skokow-po-raz-2-gi:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4514
+    2014-03-29-petla-wokol-murowanej-gosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4298
+    2014-05-23-przez-puszcze-zielonke:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4243
+    2014-07-02-w-strone-skokow-po-raz-3-ci:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4203
+    2015-03-18-w-strone-skokow-po-raz-4-ty:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3944
+    2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3777
+    2016-04-17-wloczac-sie-wokol-skokow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3548
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3437
+    2016-09-25-ze-skokow-do-janikowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3387
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3091
+    2017-11-05-lesne-okolice-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2981
+    2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2855
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2828
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2631
+    2019-04-06-zachodnie-okolice-skokow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2464
+    2020-03-21-pagorki-w-okolicy-puszczy-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2114
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2072
+    2020-05-17-zachodnie-okolice-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2057
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1929
+    2020-11-01-okolica-jeziora-brzezno:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1889
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1740
+    2021-04-11-koniec-lenistwa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1728
+    2021-04-24-szukajac-wiosny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1718
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1697
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1679
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1581
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1577
+    2021-09-11-rezerwat-jezioro-czarne:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1575
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1574
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1554
+    2021-10-20-jesien-awaryjna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1536
+    2021-12-05-zamiec:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1490
+    2021-12-12-zimowa-mgla:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1483
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1392
+    2022-05-07-nie-trzeba-jechac-daleko:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1337
+    2022-06-24-przed-upalem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1290
+    2022-08-28-brzezno-wioska-kotow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1224
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1218
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 952
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 923
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 911
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 671
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 538
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 517
+    2025-01-20-mrozny-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 349
+    2025-03-08-jak-zawsze-na-wiosne:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 301
+    2025-05-25-rowerem-do-kiszkowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 223
+    2025-06-22-turostowo-i-skrzetuszewo:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 196
+    2025-07-22-trudne-wakacje:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 165
+    2025-08-21-test-zasiegu-roweru:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 135
+    2026-01-09-lagiewniki-i-kanal-wronczynski:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 5
+  quants:
+  - lat: 52.600002
+    lon: 17.2
+2026-01-09-lagiewniki-i-kanal-wronczynski:
+  related_posts:
+    2013-08-04-w-strone-skokow-po-raz-1-szy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4540
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4520
+    2013-08-25-w-strone-skokow-po-raz-2-gi:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4519
+    2014-03-29-petla-wokol-murowanej-gosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4303
+    2014-05-23-przez-puszcze-zielonke:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4248
+    2014-07-02-w-strone-skokow-po-raz-3-ci:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4208
+    2015-03-18-w-strone-skokow-po-raz-4-ty:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3949
+    2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3782
+    2016-04-17-wloczac-sie-wokol-skokow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3553
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3442
+    2016-09-25-ze-skokow-do-janikowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3392
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3096
+    2017-11-05-lesne-okolice-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2986
+    2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2860
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2833
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2636
+    2019-04-06-zachodnie-okolice-skokow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2470
+    2020-03-21-pagorki-w-okolicy-puszczy-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2119
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2077
+    2020-05-17-zachodnie-okolice-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2062
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1934
+    2020-11-01-okolica-jeziora-brzezno:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1894
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1745
+    2021-04-11-koniec-lenistwa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1733
+    2021-04-24-szukajac-wiosny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1723
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1702
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1684
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1586
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1582
+    2021-09-11-rezerwat-jezioro-czarne:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1580
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1579
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1559
+    2021-10-20-jesien-awaryjna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1542
+    2021-12-05-zamiec:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1495
+    2021-12-12-zimowa-mgla:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1488
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1397
+    2022-05-07-nie-trzeba-jechac-daleko:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1342
+    2022-06-24-przed-upalem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1295
+    2022-08-28-brzezno-wioska-kotow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1229
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1223
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 958
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 928
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 916
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 676
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 543
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 523
+    2025-01-20-mrozny-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 354
+    2025-03-08-jak-zawsze-na-wiosne:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 306
+    2025-05-25-rowerem-do-kiszkowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 229
+    2025-06-22-turostowo-i-skrzetuszewo:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 201
+    2025-07-22-trudne-wakacje:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 171
+    2025-08-21-test-zasiegu-roweru:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 140
+    2026-01-04-zima-zaatakowala:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 5
+  quants:
+  - lat: 52.600002
+    lon: 17.2
+2026-01-09-niemrawy-zachod-w-starej-gorze:
+  related_posts: {}
+  quants: []
+2026-01-10-zachod-w-starej-gorze:
+  related_posts: {}
+  quants: []
+2026-01-12-pagorki-turostowa:
+  related_posts: {}
+  quants: []
+2026-01-09-niemrawy-zachod-w-starej-gorce:
+  related_posts:
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4520
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4505
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3232
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3194
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2834
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2824
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2686
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2637
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2469
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2427
+    2019-06-15-okolice-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2400
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2347
+    2019-12-01-eksploracja-warmii-samochodem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2231
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2078
+    2020-05-16-dzien-zmiany-planow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2064
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2048
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1934
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1881
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1745
+    2021-04-11-koniec-lenistwa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1734
+    2021-05-06-jazda-podczas-deszczu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1709
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1704
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1702
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1684
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1649
+    2021-08-29-petla-po-polsce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1593
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1586
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1582
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1580
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1566
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1560
+    2021-10-20-jesien-awaryjna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1542
+    2021-11-07-szara-koncowka-jesieni:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1523
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1520
+    2021-12-12-zimowa-mgla:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1489
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1433
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1398
+    2022-06-13-szukajac-makow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1305
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1302
+    2022-06-24-przed-upalem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1295
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1266
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1224
+    2022-11-19-atak-zimy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1147
+    2022-12-29-pierwszy-lot-dji-mini-3-pro:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1107
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1028
+    2023-04-21-testujac-rower-i-drona:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 994
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 985
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 978
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 958
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 917
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 814
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 677
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 544
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 523
+    2025-01-20-mrozny-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 354
+    2025-02-20-prawdziwa-zima-w-dolinie-cybiny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 323
+    2025-03-08-jak-zawsze-na-wiosne:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 307
+    2025-04-21-park-promno:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 263
+    2025-05-25-rowerem-do-kiszkowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 229
+    2025-06-22-turostowo-i-skrzetuszewo:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 201
+    2025-07-22-trudne-wakacje:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 171
+    2025-08-02-kocialkowa-gora-pieszo:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 159
+    2026-01-10-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1
+  quants:
+  - lat: 52.4
+    lon: 17.2
+2026-01-10-zachod-w-starej-gorce:
+  related_posts:
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4521
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 4506
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3233
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3195
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2835
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2825
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2687
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2638
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2470
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2428
+    2019-06-15-okolice-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2401
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2348
+    2019-12-01-eksploracja-warmii-samochodem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2232
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2079
+    2020-05-16-dzien-zmiany-planow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2065
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2049
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1935
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1882
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1746
+    2021-04-11-koniec-lenistwa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1735
+    2021-05-06-jazda-podczas-deszczu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1710
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1705
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1703
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1685
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1650
+    2021-08-29-petla-po-polsce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1594
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1587
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1583
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1581
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1567
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1561
+    2021-10-20-jesien-awaryjna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1543
+    2021-11-07-szara-koncowka-jesieni:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1524
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1521
+    2021-12-12-zimowa-mgla:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1490
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1434
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1399
+    2022-06-13-szukajac-makow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1306
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1303
+    2022-06-24-przed-upalem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1296
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1267
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1225
+    2022-11-19-atak-zimy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1148
+    2022-12-29-pierwszy-lot-dji-mini-3-pro:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1108
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1029
+    2023-04-21-testujac-rower-i-drona:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 995
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 986
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 979
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 959
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 918
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 815
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 678
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 545
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 524
+    2025-01-20-mrozny-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 355
+    2025-02-20-prawdziwa-zima-w-dolinie-cybiny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 324
+    2025-03-08-jak-zawsze-na-wiosne:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 308
+    2025-04-21-park-promno:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 264
+    2025-05-25-rowerem-do-kiszkowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 230
+    2025-06-22-turostowo-i-skrzetuszewo:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 202
+    2025-07-22-trudne-wakacje:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 172
+    2025-08-02-kocialkowa-gora-pieszo:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 160
+    2026-01-09-niemrawy-zachod-w-starej-gorce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1
+  quants:
+  - lat: 52.4
+    lon: 17.2

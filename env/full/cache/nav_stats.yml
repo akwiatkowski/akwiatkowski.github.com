@@ -10,121 +10,197 @@ train_time_length: 203
 train_count: 32
 self_distance: 18277
 self_time_length: 2729
-updated_at: 2025-12-05 00:23:58.338120000+01:00
+updated_at: 2026-01-28 22:59:31.821500000+01:00
 voivodeships_nav:
 - name: Dolnośląskie
+  slug: dolnoslaskie
+  type: voivodeship
   url: /wojewodztwo/dolnoslaskie.html
-  count: 136
+  count: 138
 - name: Kujawsko-pomorskie
+  slug: kujawsko_pomorskie
+  type: voivodeship
   url: /wojewodztwo/kujawsko_pomorskie.html
   count: 46
 - name: Łódzkie
+  slug: lodzkie
+  type: voivodeship
   url: /wojewodztwo/lodzkie.html
   count: 4
 - name: Lubuskie
+  slug: lubuskie
+  type: voivodeship
   url: /wojewodztwo/lubuskie.html
   count: 36
 - name: Małopolskie
+  slug: malopolskie
+  type: voivodeship
   url: /wojewodztwo/malopolskie.html
   count: 35
 - name: Mazowieckie
+  slug: mazowieckie
+  type: voivodeship
   url: /wojewodztwo/mazowieckie.html
   count: 2
 - name: Opolskie
+  slug: opolskie
+  type: voivodeship
   url: /wojewodztwo/opolskie.html
   count: 6
 - name: Podkarpackie
+  slug: podkarpackie
+  type: voivodeship
   url: /wojewodztwo/podkarpackie.html
   count: 14
 - name: Podlaskie
+  slug: podlaskie
+  type: voivodeship
   url: /wojewodztwo/podlaskie.html
   count: 14
 - name: Pomorskie
+  slug: pomorskie
+  type: voivodeship
   url: /wojewodztwo/pomorskie.html
   count: 46
 - name: Śląskie
+  slug: slaskie
+  type: voivodeship
   url: /wojewodztwo/slaskie.html
   count: 9
 - name: Warmińsko-mazurskie
+  slug: warminsko_mazurskie
+  type: voivodeship
   url: /wojewodztwo/warminsko_mazurskie.html
   count: 21
 - name: Wielkopolskie
+  slug: wielkopolskie
+  type: voivodeship
   url: /wojewodztwo/wielkopolskie.html
-  count: 195
+  count: 199
 - name: Zachodnio-pomorskie
+  slug: zachodnio_pomorskie
+  type: voivodeship
   url: /wojewodztwo/zachodnio_pomorskie.html
   count: 35
 lands_nav:
 - name: Karkonosze
+  slug: karkonosze
+  type: lands
   url: /kraina/karkonosze.html
   count: 24
 - name: Rudawy Janowickie
+  slug: rudawy_janowickie
+  type: lands
   url: /kraina/rudawy_janowickie.html
-  count: 17
+  count: 18
 - name: Beskid Niski
+  slug: beskid_niski
+  type: lands
   url: /kraina/beskid_niski.html
   count: 16
 - name: Gorce
+  slug: gorce
+  type: lands
   url: /kraina/gorce.html
   count: 10
 - name: Pojezierze Poznańskie
+  slug: pojezierze_poznanskie
+  type: lands
   url: /kraina/pojezierze_poznanskie.html
   count: 9
 - name: Góry Izerskie
+  slug: gory_izerskie
+  type: lands
   url: /kraina/gory_izerskie.html
   count: 8
 - name: Masyw Śnieżnika
+  slug: masyw_snieznika
+  type: lands
   url: /kraina/masyw_snieznika.html
   count: 8
 - name: Góry Kaczawskie
+  slug: gory_kaczawskie
+  type: lands
   url: /kraina/gory_kaczawskie.html
   count: 7
 - name: Tatry
+  slug: tatry
+  type: lands
   url: /kraina/tatry.html
   count: 7
 - name: Kotlina Kłodzka
+  slug: kotlina_klodzka
+  type: lands
   url: /kraina/kotlina_klodzka.html
   count: 7
 - name: Pojezierza Pomorskie
+  slug: pojezierza_pomorskie
+  type: lands
   url: /kraina/pojezierza_pomorskie.html
   count: 6
 - name: Góry Sowie
+  slug: gory_sowie
+  type: lands
   url: /kraina/gory_sowie.html
   count: 5
 - name: Góry Stołowe
+  slug: gory_stolowe
+  type: lands
   url: /kraina/gory_stolowe.html
   count: 4
 - name: Góry Bystrzyckie
+  slug: gory_bystrzyckie
+  type: lands
   url: /kraina/gory_bystrzyckie.html
   count: 4
 - name: Beskid Sądecki
+  slug: beskid_sadecki
+  type: lands
   url: /kraina/beskid_sadecki.html
   count: 4
 - name: Drawski Park Krajobrazy
+  slug: drawski_park_krajobrazowy
+  type: lands
   url: /kraina/drawski_park_krajobrazowy.html
   count: 4
 tags_nav:
 - name: Najlepsze
+  slug: best
+  type: tag
   url: /tag/najlepsze.html
   count: 114
 - name: Rowerem
+  slug: bicycle
+  type: tag
   url: /tag/rowerem.html
   count: 256
 - name: Pieszo
+  slug: hike
+  type: tag
   url: /tag/pieszo.html
-  count: 192
+  count: 194
 - name: Kolejowe
+  slug: train
+  type: tag
   url: /tag/kolejowe.html
   count: 23
 - name: Zdjęcia
+  slug: photo
+  type: tag
   url: /tag/zdjecia.html
   count: 107
 - name: Góry
+  slug: mountains
+  type: tag
   url: /tag/gory.html
   count: 105
 - name: Zdjęcie roku
+  slug: photo_of_the_year
+  type: tag
   url: /tag/zdjecie_roku.html
   count: 14
 - name: Bikepacking
+  slug: bikepacking
+  type: tag
   url: /tag/bikepacking.html
   count: 8
