@@ -483,7 +483,7 @@
                         { className: 'modal-dialog modal-lg', onClick: (e) => e.stopPropagation() },
                         window.React.createElement('div', { className: 'modal-content' },
                             window.React.createElement('div', { className: 'modal-header' },
-                                window.React.createElement('h5', { className: 'modal-title' }, photo.post_slug),
+                                window.React.createElement('h5', { className: 'modal-title' }, photo.desc),
                                 window.React.createElement('button', {
                                     type: 'button',
                                     className: 'btn-close',
@@ -536,11 +536,11 @@
                                     )
                                 ),
                                 window.React.createElement('a', {
-                                    href: photo.post_preview_url,
+                                    href: photo.post_url,
                                     target: '_blank',
                                     rel: 'noopener noreferrer',
                                     className: 'btn btn-primary btn-sm mt-3'
-                                }, 'View on Blog')
+                                }, 'Wpis na blogu')
                             )
                         )
                     )
