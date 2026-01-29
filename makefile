@@ -42,7 +42,7 @@ serve-%:
 render-release:
 	$(CRYSTAL_COMMAND) $(FULL_SRC_PATH)/$(RENDER_RELEASE_TARGET_COMMAND_PATH)
 
-render_local:
+render-local:
 	$(CRYSTAL_COMMAND) $(FULL_SRC_PATH)/$(RENDER_LOCAL_TARGET_COMMAND_PATH)
 
 # Compile local executable
