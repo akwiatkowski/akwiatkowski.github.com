@@ -5,12 +5,18 @@ struct NavStatsCacheObject
     include YAML::Serializable
 
     @name : String = ""
+    @slug : String = ""
+    @type : String = ""
     @url : String = ""
     @count : Int32 = 0
 
-    property :name, :url, :count
+    property :name, :url, :count, :slug, :type
 
-    def initialize(@name, @url, @count)
+    def initialize(@name, @url, @count, @slug, @type)
+    end
+
+    def html_id
+      return "nav-post-count-#{type}-#{slug}"
     end
   end
 
@@ -136,11 +142,16 @@ class NavStatsCache
     end
     h["current_year"] = Time.local.year.to_s
 
+    h["url.map"] = StaticView::MapView::URL
+    h["url.more"] = StaticView::MoreView::URL
+    h["url.gallery"] = GalleryView::IndexView::URL
+
     return h
   end
 
   private def process_model_array_to_nav(
     model_array : Array,
+    type : String, # TODO: get type from model_array.first.class
     ignore_less_than = 1,
     perform_sort = true,
   )
@@ -154,6 +165,8 @@ class NavStatsCache
           name: model.name,
           url: model.view_url,
           count: count,
+          slug: model.slug,
+          type: type
         )
       end
     end
@@ -172,6 +185,7 @@ class NavStatsCache
 
     @stats.voivodeships_nav = process_model_array_to_nav(
       model_array: voivodeships,
+      type: "voivodeship",
       ignore_less_than: 2,
       perform_sort: false
     )
@@ -182,6 +196,7 @@ class NavStatsCache
 
     @stats.lands_nav = process_model_array_to_nav(
       model_array: lands,
+      type: "lands",
       ignore_less_than: 4,
       perform_sort: true
     )
@@ -192,6 +207,7 @@ class NavStatsCache
 
     @stats.tags_nav = process_model_array_to_nav(
       model_array: tags,
+      type: "tag",
       ignore_less_than: 2,
       perform_sort: false
     )

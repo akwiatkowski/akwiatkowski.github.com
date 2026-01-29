@@ -279,16 +279,6 @@ struct PhotoEntity
     self.exif.time.not_nil!
   end
 
-  def post_url
-    return post_slug.sub(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/) do |match|
-      year = match[1]
-      month = match[2]
-      day = match[3]
-      slug = match[4]
-      "#{year}/#{month}/#{day}/#{slug}.html"
-    end
-  end
-
   # when there is not enough camera/lens/tag photos to populate gallery
   # we can use photos from other tags
   #
