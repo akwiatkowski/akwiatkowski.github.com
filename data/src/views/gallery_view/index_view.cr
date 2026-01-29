@@ -2,6 +2,8 @@ module GalleryView
   class IndexView < PageView
     Log = ::Log.for(self)
 
+    URL = "/galeria.html"
+
     def initialize(
       @blog : Tremolite::Blog,
       @tag_gallery_index_view : TagIndexView,
@@ -12,7 +14,7 @@ module GalleryView
       @exposure_gallery_index_view : ExposureIndexView,
       @quant_coord_index_view : QuantCoordIndexView,
     )
-      @url = "/galeria.html"
+      @url = URL
     end
 
     def subtitle

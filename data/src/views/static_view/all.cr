@@ -1,4 +1,6 @@
 require "./map_view"
+require "./more_view"
+
 require "./js_ideas_view"
 require "./js_timeline_view"
 require "./js_exif_view"

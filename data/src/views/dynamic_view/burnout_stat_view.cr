@@ -1,3 +1,4 @@
+require "../wide_page_view"
 require "../../services/burnout_stat"
 
 module DynamicView

@@ -2,9 +2,14 @@ require "../base_view"
 
 module StaticView
   class MapView < BaseView
+    URL = "/mapa.html"
+
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url : String)
+    def initialize(
+      @blog : Tremolite::Blog,
+      @url : String = URL,
+    )
       @image_url = @blog.data_manager.not_nil!["map.backgrounds"].as(String)
     end
 

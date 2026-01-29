@@ -21,7 +21,7 @@ module DynamicView
       @image_url = @blog.data_manager.not_nil!["timeline.backgrounds"].as(String)
       @title = @blog.data_manager.not_nil!["timeline.title"].as(String)
       @subtitle = @blog.data_manager.not_nil!["timeline.subtitle"].as(String)
-      @url = "/timeline/photos"
+      @url = "/debug/timeline_photos.html" # TODO: move to debug
 
       # we will dive year (366 days) every @quant_days days
       @quant_days = 7

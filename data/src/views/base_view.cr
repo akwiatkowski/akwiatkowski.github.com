@@ -26,6 +26,7 @@ class BaseView < Tremolite::Views::BaseView
       head_close_html +
       open_body_html +
       nav_html +
+      nav_js_overload +
       content +
       footer_html +
       close_body_html +
@@ -207,22 +208,28 @@ class BaseView < Tremolite::Views::BaseView
     return @blog.data_manager.nav_stats_cache.not_nil!
   end
 
-  private def nav_stats_model_array_to_html(array, include_latest : Bool = false)
+  private def nav_stats_model_array_to_html(
+    array,
+    key : String,
+    include_latest : Bool = false,
+  )
     return String.build do |s|
       array.each do |ni|
         h = Hash(String, String).new
         h["url"] = ni.url
-        h["name"] = "#{ni.name} (#{ni.count})"
+        h["name"] = ni.name
+        h["id"] = ni.html_id
 
-        s << load_html("include/category_nav_element", h)
+        s << load_html("include/navigation/category_element", h)
       end
 
       if include_latest
         h = Hash(String, String).new
         h["url"] = PostListView::NewPostsDynamicView::URL
         h["name"] = "Najnowsze (#{PostListView::NewPostsDynamicView::COUNT})"
+        h["id"] = "nav-post-count-tag-latest"
 
-        s << load_html("include/category_nav_element", h)
+        s << load_html("include/navigation/category_element", h)
       end
     end
   end
@@ -232,17 +239,24 @@ class BaseView < Tremolite::Views::BaseView
     h["site.title"] = @blog.data_manager.not_nil!["site.title"] if @blog.data_manager.not_nil!["site.title"]?
 
     h["nav-voivodeships"] = nav_stats_model_array_to_html(
-      array: nav_stats_cache.stats.voivodeships_nav
+      array: nav_stats_cache.stats.voivodeships_nav,
+      key: "voivodeship"
     )
     h["nav-tags"] = nav_stats_model_array_to_html(
       array: nav_stats_cache.stats.tags_nav,
       include_latest: true,
+      key: "tag"
     )
     h["nav-lands"] = nav_stats_model_array_to_html(
-      array: nav_stats_cache.stats.lands_nav
+      array: nav_stats_cache.stats.lands_nav,
+      key: "land"
     )
 
-    return load_html("include/nav", h)
+    return load_html("include/navigation/static", h)
+  end
+
+  def nav_js_overload
+    return load_html("include/navigation/js_overload", {} of String => String)
   end
 
   def content
