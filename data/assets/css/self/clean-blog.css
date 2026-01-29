@@ -222,3 +222,7 @@ footer .copyright {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+.dropdown-item {
+  width: fit-content;
+}
