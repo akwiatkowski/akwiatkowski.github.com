@@ -197,7 +197,7 @@
         // Trip Filters Component
         const TripFilters = ({ filters, onFilterChange, availableSurfaces, availableDirections }) => {
             return (
-                <div className="filters-card">
+                <div className="filters-card" style={{ overflow: "clip" }}>
                     <h5 className="mb-4">🔍 Filtruj</h5>
 
                     {/* Search */}
@@ -249,6 +249,7 @@
                             className="form-select"
                             value={filters.direction}
                             onChange={(e) => onFilterChange('direction', e.target.value)}
+                            style={{ width: "initial" }}
                         >
                             <option value="">Wszystkie</option>
                             {availableDirections.map(direction => (
@@ -611,7 +612,7 @@
                 <>
                     <div className="container" style={{ paddingTop: '2rem' }}>
                         <div className="row">
-                            <div className="col-lg-3 mb-4">
+                            <div className="col-lg-2 mb-4">
                                 <TripFilters
                                     filters={filters}
                                     onFilterChange={handleFilterChange}
