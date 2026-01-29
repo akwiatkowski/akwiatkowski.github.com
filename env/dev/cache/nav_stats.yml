@@ -10,13 +10,17 @@ train_time_length: 0
 train_count: 0
 self_distance: 182
 self_time_length: 25
-updated_at: 2025-12-23 22:41:05.422673000+01:00
+updated_at: 2026-01-29 11:05:36.408872000+01:00
 voivodeships_nav:
 - name: Kujawsko-pomorskie
+  slug: kujawsko_pomorskie
+  type: voivodeship
   url: /wojewodztwo/kujawsko_pomorskie.html
   count: 2
 lands_nav: []
 tags_nav:
 - name: Rowerem
+  slug: bicycle
+  type: tag
   url: /tag/rowerem.html
   count: 2
