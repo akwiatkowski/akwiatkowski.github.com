@@ -1,6 +1,6 @@
 require "../data/src/services/map/downloader"
 
-zooms = [6]
+zooms = [15]
 
 zooms.each do |zoom|
   m = Map::Downloader.new(
