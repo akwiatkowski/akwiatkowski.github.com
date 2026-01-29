@@ -6,6 +6,8 @@ module RendererMixin::RenderSpecial
     render_ideas_json
     render_photos_json
     render_train_stations_json
+    render_nav_stats_json
+
     render_rss
     render_atom
   end
@@ -24,6 +26,12 @@ module RendererMixin::RenderSpecial
   def render_ideas_json
     write_output(
       SpecialView::IdeasJsonGenerator.new(blog: @blog)
+    )
+  end
+
+  def render_nav_stats_json
+    write_output(
+      SpecialView::NavStatsJsonGenerator.new(blog: @blog)
     )
   end
 

@@ -1,3 +1,4 @@
+require "../views/all" # TODO: change to just require this one line
 require "../views/post_list_view/all"
 require "../views/static_view/all"
 require "../views/dynamic_view/summary_view"
@@ -30,8 +31,7 @@ module RendererMixin::RenderFast
   def render_map
     write_output(
       StaticView::MapView.new(
-        blog: blog,
-        url: "/mapa.html"
+        blog: blog
       )
     )
   end
@@ -82,14 +82,15 @@ module RendererMixin::RenderFast
   end
 
   def render_more
-    view = MarkdownPageView.new(
-      blog: blog,
-      url: "/wiecej.html",
-      file: "more",
-      image_url: blog.data_manager.not_nil!["more.backgrounds"],
-      title: blog.data_manager.not_nil!["more.title"],
-      subtitle: blog.data_manager.not_nil!["more.subtitle"]
-    )
+    # view = MarkdownPageView.new(
+    #   blog: blog,
+    #   url: "/wiecej.html",
+    #   file: "more",
+    #   image_url: blog.data_manager.not_nil!["more.backgrounds"],
+    #   title: blog.data_manager.not_nil!["more.title"],
+    #   subtitle: blog.data_manager.not_nil!["more.subtitle"]
+    # )
+    view = StaticView::MoreView.new(blog: blog)
     write_output(view)
   end
 
