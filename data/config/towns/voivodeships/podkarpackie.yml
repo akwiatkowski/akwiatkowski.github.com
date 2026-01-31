@@ -1,133 +1,2568 @@
 ---
-- slug: czarna_bieszczady
-  name: Czarna
+- slug: skolyszyn
+  name: Skołyszyn
   type: town
   voivodeship: podkarpackie
-  lat: 49.32612
-  lon: 22.66154
-- slug: dukla
-  name: Dukla
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.55450
-  lon: 21.68272
-- slug: jasliska
-  name: Jaśliska
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.44122
-  lon: 21.80804
-- slug: krempna
-  name: Krempna
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.51038
-  lon: 21.49939
-- slug: lutowiska
-  name: Lutowiska
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.25357
-  lon: 22.69003
-- slug: olszanica
-  name: Olszanica
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.47637
-  lon: 22.44318
-- slug: rymanow
-  name: Rymanów
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.57387
-  lon: 21.86674
-- slug: nowy_zmigrod
-  name: Nowy Żmigród
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.60214
-  lon: 21.52394
-- slug: komancza
-  name: Komańcza
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.33529
-  lon: 22.06639
-- slug: krosno
-  name: Krosno
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.69183
-  lon: 21.76443
-- slug: wisniowa
-  name: Wiśniowa
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.86764
-  lon: 21.64736
-- slug: strzyzow
-  name: Strzyżów
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.87051
-  lon: 21.78932
-- slug: czudec
-  name: Czudec
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.94481
-  lon: 21.83550
-- slug: wielopole_skrzynskie
-  name: Wielopole Skrzyńskie
-  type: town
-  voivodeship: podkarpackie
-  lat: 49.94580
-  lon: 21.61371
-- slug: iwierzyce
-  name: Iwierzyce
-  type: town
-  voivodeship: podkarpackie
-  lat: 50.02659
-  lon: 21.75619
-- slug: sedziszow_malopolski
-  name: Sędziszów Małopolski
-  type: town
-  voivodeship: podkarpackie
-  lat: 50.07179
-  lon: 21.69611
+  lat: 49.75046
+  lon: 21.33969
+  lands:
+    pogorze_ciezkowickie: 69.786
+    obnizenie_gorlickie: 22.8415
+    pogorze_jasielskie: 7.2532
+  boundary:
+    southWest:
+      lat: 49.69198409300003
+      lng: 21.24177209100003
+    northEast:
+      lat: 49.811922577000075
+      lng: 21.401982992000057
 - slug: wojaszowka
   name: Wojaszówka
   type: town
   voivodeship: podkarpackie
-  lat: 49.77959
-  lon: 21.66521
-- slug: rzeszow
-  name: Rzeszów
+  lat: 49.78497
+  lon: 21.686
+  lands:
+    pogorze_dynowskie: 45.1301
+    kotlina_jasielskokrosnienska: 35.1275
+    pogorze_strzyzowskie: 19.7424
+  boundary:
+    southWest:
+      lat: 49.71917496400005
+      lng: 21.618146161000027
+    northEast:
+      lat: 49.843689794000056
+      lng: 21.784048918000053
+- slug: horynieczdroj
+  name: Horyniec-Zdrój
   type: town
   voivodeship: podkarpackie
-  lat: 50.03696
-  lon: 22.00407
+  lat: 50.2241
+  lon: 23.37175
+  lands:
+    roztocze_wschodnie: 67.3167
+    plaskowyz_tarnogrodzki: 32.6327
+  boundary:
+    southWest:
+      lat: 50.14412864900004
+      lng: 23.251924302000077
+    northEast:
+      lat: 50.307653720000076
+      lng: 23.547882552000033
+- slug: czarna
+  name: Czarna
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.11425
+  lon: 22.19347
+  lands:
+    plaskowyz_kolbuszowski: 47.4499
+    pradolina_podkarpacka: 37.327
+    podgorze_rzeszowskie: 15.2231
+  boundary:
+    southWest:
+      lat: 50.04436842600006
+      lng: 22.085722200000077
+    northEast:
+      lat: 50.18457636200003
+      lng: 22.258034251000026
+- slug: lancut
+  name: Łańcut
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.02747
+  lon: 22.20001
+  lands:
+    podgorze_rzeszowskie: 58.5447
+    pogorze_dynowskie: 33.2741
+    pradolina_podkarpacka: 8.1812
+  boundary:
+    southWest:
+      lat: 49.96681395000007
+      lng: 22.122768027000063
+    northEast:
+      lat: 50.09487369800007
+      lng: 22.38373474100007
+- slug: harasiuki
+  name: Harasiuki
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.49242
+  lon: 22.47995
+  lands:
+    rownina_bilgorajska: 72.3797
+    plaskowyz_tarnogrodzki: 27.6203
+  boundary:
+    southWest:
+      lat: 50.39727705100006
+      lng: 22.349439490000066
+    northEast:
+      lat: 50.591937149000046
+      lng: 22.583588409000072
+- slug: krzywcza
+  name: Krzywcza
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.78832
+  lon: 22.53311
+  lands:
+    pogorze_dynowskie: 71.5069
+    pogorze_przemyskie: 28.4931
+  boundary:
+    southWest:
+      lat: 49.72151914500006
+      lng: 22.41874043400003
+    northEast:
+      lat: 49.84910353400005
+      lng: 22.606907017000026
+- slug: chmielnik
+  name: Chmielnik
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.97281
+  lon: 22.16494
+  lands:
+    pogorze_dynowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.93833513100003
+      lng: 22.073290668000027
+    northEast:
+      lat: 50.01037602900004
+      lng: 22.230058024000073
+- slug: trzebownisko
+  name: Trzebownisko
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.12144
+  lon: 22.06191
+  lands:
+    pradolina_podkarpacka: 69.0119
+    plaskowyz_kolbuszowski: 30.9881
+  boundary:
+    southWest:
+      lat: 50.068703748000075
+      lng: 21.978733937000072
+    northEast:
+      lat: 50.18527929700008
+      lng: 22.17606431300004
+- slug: wisniowa
+  name: Wiśniowa
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.87259
+  lon: 21.6741
+  lands:
+    pogorze_strzyzowskie: 79.6842
+    pogorze_dynowskie: 20.3158
+  boundary:
+    southWest:
+      lat: 49.81631327600007
+      lng: 21.541471496000042
+    northEast:
+      lat: 49.93228903800008
+      lng: 21.73076064600008
+- slug: jasienica_rosielna
+  name: Jasienica Rosielna
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.74493
+  lon: 21.95866
+  lands:
+    pogorze_dynowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.70446813900003
+      lng: 21.850859229000037
+    northEast:
+      lat: 49.78109344300003
+      lng: 22.028819697000074
+- slug: czarna
+  name: Czarna
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.30857
+  lon: 22.61752
+  lands:
+    gory_sanockoturczanskie: 67.4273
+    bieszczady_zachodnie: 32.3631
+  boundary:
+    southWest:
+      lat: 49.22592263900003
+      lng: 22.44933704700003
+    northEast:
+      lat: 49.37598459800006
+      lng: 22.750956076000023
+- slug: jaroslaw
+  name: Jarosław
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.01102
+  lon: 22.74052
+  lands:
+    dolina_dolnego_sanu: 52.8572
+    plaskowyz_tarnogrodzki: 30.4926
+    podgorze_rzeszowskie: 16.6502
+  boundary:
+    southWest:
+      lat: 49.954054674000076
+      lng: 22.58269722500006
+    northEast:
+      lat: 50.14090013900005
+      lng: 22.84738856900003
 - slug: cisna
   name: Cisna
   type: town
   voivodeship: podkarpackie
-  lat: 49.20901
-  lon: 22.32928
-- slug: solina
-  name: Solina
+  lat: 49.17915
+  lon: 22.36332
+  lands:
+    bieszczady_zachodnie: 99.419
+  boundary:
+    southWest:
+      lat: 49.08844302800003
+      lng: 22.221924667000053
+    northEast:
+      lat: 49.276773098000035
+      lng: 22.553060275000064
+- slug: lutowiska
+  name: Lutowiska
   type: town
   voivodeship: podkarpackie
-  lat: 49.39929
-  lon: 22.44790
+  lat: 49.1452
+  lon: 22.66984
+  lands:
+    bieszczady_zachodnie: 94.5539
+    gory_sanockoturczanskie: 4.4821
+  boundary:
+    southWest:
+      lat: 49.00250538000006
+      lng: 22.476842004000048
+    northEast:
+      lat: 49.30054098900007
+      lng: 22.891259000000048
+- slug: rozwienica
+  name: Roźwienica
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.91163
+  lon: 22.56883
+  lands:
+    podgorze_rzeszowskie: 70.6379
+    pogorze_dynowskie: 29.3621
+  boundary:
+    southWest:
+      lat: 49.838562239000055
+      lng: 22.514952727000036
+    northEast:
+      lat: 49.98289859600004
+      lng: 22.63901191900004
+- slug: tarnowiec
+  name: Tarnowiec
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.69893
+  lon: 21.55088
+  lands:
+    pogorze_jasielskie: 67.6955
+    kotlina_jasielskokrosnienska: 32.3045
+  boundary:
+    southWest:
+      lat: 49.64664246800004
+      lng: 21.501706177000074
+    northEast:
+      lat: 49.75087869300006
+      lng: 21.620525288000067
+- slug: chorkowka
+  name: Chorkówka
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.63373
+  lon: 21.66413
+  lands:
+    pogorze_jasielskie: 72.2135
+    kotlina_jasielskokrosnienska: 27.7865
+  boundary:
+    southWest:
+      lat: 49.57731494400008
+      lng: 21.57196232900003
+    northEast:
+      lat: 49.690986671000076
+      lng: 21.732806185000072
+- slug: miejsce_piastowe
+  name: Miejsce Piastowe
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.62842
+  lon: 21.78014
+  lands:
+    kotlina_jasielskokrosnienska: 90.0993
+    pogorze_bukowskie: 9.9007
+  boundary:
+    southWest:
+      lat: 49.58936471800007
+      lng: 21.713731075000055
+    northEast:
+      lat: 49.67410540600008
+      lng: 21.852617465000037
+- slug: cieszanow
+  name: Cieszanów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.26874
+  lon: 23.1574
+  lands:
+    plaskowyz_tarnogrodzki: 90.7579
+    rownina_bilgorajska: 9.2421
+  boundary:
+    southWest:
+      lat: 50.18467534600006
+      lng: 23.012087664000035
+    northEast:
+      lat: 50.35432001800007
+      lng: 23.299662647000048
+- slug: lubaczow
+  name: Lubaczów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.13746
+  lon: 23.24712
+  lands:
+    plaskowyz_tarnogrodzki: 99.6065
+  boundary:
+    southWest:
+      lat: 50.065817208000055
+      lng: 23.028162112000075
+    northEast:
+      lat: 50.20944695400004
+      lng: 23.357728477000023
+- slug: wielkie_oczy
+  name: Wielkie Oczy
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.04434
+  lon: 23.13468
+  lands:
+    plaskowyz_tarnogrodzki: 99.9943
+  boundary:
+    southWest:
+      lat: 49.98078703400006
+      lng: 23.00218372300003
+    northEast:
+      lat: 50.10488712500006
+      lng: 23.25106579800007
+- slug: markowa
+  name: Markowa
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.99209
+  lon: 22.28291
+  lands:
+    pogorze_dynowskie: 68.4945
+    podgorze_rzeszowskie: 31.5055
+  boundary:
+    southWest:
+      lat: 49.93068849700006
+      lng: 22.210684832000027
+    northEast:
+      lat: 50.052379418000044
+      lng: 22.350497118000078
+- slug: rakszawa
+  name: Rakszawa
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.18706
+  lon: 22.21559
+  lands:
+    plaskowyz_kolbuszowski: 95.1299
+    pradolina_podkarpacka: 4.8701
+  boundary:
+    southWest:
+      lat: 50.12067117400005
+      lng: 22.171986340000046
+    northEast:
+      lat: 50.24676806100007
+      lng: 22.285537307000027
+- slug: mielec
+  name: Mielec
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.28481
+  lon: 21.44938
+  lands:
+    dolina_dolnej_wisloki: 92.0818
+    nizina_nadwislanska: 7.9182
+  boundary:
+    southWest:
+      lat: 50.24092074500004
+      lng: 21.396058245000063
+    northEast:
+      lat: 50.330020869000066
+      lng: 21.510686166000028
+- slug: gawluszowice
+  name: Gawłuszowice
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.40775
+  lon: 21.40201
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.367203568000036
+      lng: 21.339071425000043
+    northEast:
+      lat: 50.44120332300008
+      lng: 21.455699319000075
+- slug: radomysl_wielki
+  name: Radomyśl Wielki
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.19019
+  lon: 21.26465
+  lands:
+    plaskowyz_tarnowski: 98.5597
+    nizina_nadwislanska: 1.4403
+  boundary:
+    southWest:
+      lat: 50.131316620000064
+      lng: 21.14211164900007
+    northEast:
+      lat: 50.253125028000056
+      lng: 21.395340591000036
+- slug: jezowe
+  name: Jeżowe
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.36349
+  lon: 22.14116
+  lands:
+    plaskowyz_kolbuszowski: 63.6479
+    rownina_tarnobrzeska: 36.3521
+  boundary:
+    southWest:
+      lat: 50.30891076100005
+      lng: 21.966867130000026
+    northEast:
+      lat: 50.41615523000007
+      lng: 22.272574791000068
+- slug: jarocin
+  name: Jarocin
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.56674
+  lon: 22.33757
+  lands:
+    rownina_bilgorajska: 100.0
+  boundary:
+    southWest:
+      lat: 50.518485474000045
+      lng: 22.225786421000066
+    northEast:
+      lat: 50.62490250400003
+      lng: 22.422406382000077
+- slug: przemysl
+  name: Przemyśl
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.7293
+  lon: 22.77937
+  lands:
+    podgorze_hermanowickie: 43.2904
+    plaskowyz_mosciski: 24.2818
+    pogorze_przemyskie: 18.0015
+  boundary:
+    southWest:
+      lat: 49.68291177300006
+      lng: 22.59421926600004
+    northEast:
+      lat: 49.85383725500003
+      lng: 22.872897850000072
+- slug: orly
+  name: Orły
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.87786
+  lon: 22.81395
+  lands:
+    podgorze_rzeszowskie: 62.4364
+    dolina_dolnego_sanu: 37.5636
+  boundary:
+    southWest:
+      lat: 49.83651183000006
+      lng: 22.692470712000045
+    northEast:
+      lat: 49.92540793200004
+      lng: 22.913365768000062
+- slug: stubno
+  name: Stubno
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.89911
+  lon: 22.9765
+  lands:
+    dolina_dolnego_sanu: 61.091
+    plaskowyz_tarnogrodzki: 38.4383
+  boundary:
+    southWest:
+      lat: 49.84105728900005
+      lng: 22.89686385500005
+    northEast:
+      lat: 49.94948551700003
+      lng: 23.09285141600003
+- slug: tryncza
+  name: Tryńcza
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.13577
+  lon: 22.55891
+  lands:
+    pradolina_podkarpacka: 54.3708
+    dolina_dolnego_sanu: 45.6292
+  boundary:
+    southWest:
+      lat: 50.07695126700003
+      lng: 22.44390602900006
+    northEast:
+      lat: 50.20297753800003
+      lng: 22.602454699000077
+- slug: lubenia
+  name: Lubenia
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.91958
+  lon: 21.95173
+  lands:
+    pogorze_dynowskie: 90.8209
+    pogorze_strzyzowskie: 9.1791
+  boundary:
+    southWest:
+      lat: 49.86346085000008
+      lng: 21.901833441000065
+    northEast:
+      lat: 49.973666466000054
+      lng: 22.038792414000056
+- slug: besko
+  name: Besko
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.59283
+  lon: 21.9541
+  lands:
+    kotlina_jasielskokrosnienska: 100.0
+  boundary:
+    southWest:
+      lat: 49.562869645000035
+      lng: 21.91542398300004
+    northEast:
+      lat: 49.62039214400005
+      lng: 21.99607265700007
+- slug: sanok
+  name: Sanok
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.58037
+  lon: 22.14562
+  lands:
+    pogorze_dynowskie: 42.5355
+    pogorze_bukowskie: 29.4827
+    gory_sanockoturczanskie: 22.2111
+  boundary:
+    southWest:
+      lat: 49.47525784900006
+      lng: 22.057490323000025
+    northEast:
+      lat: 49.68573315300006
+      lng: 22.36379348400004
+- slug: zaleszany
+  name: Zaleszany
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.64487
+  lon: 21.92945
+  lands:
+    dolina_dolnego_sanu: 68.9464
+    nizina_nadwislanska: 31.0536
+  boundary:
+    southWest:
+      lat: 50.584604984000066
+      lng: 21.858191704000035
+    northEast:
+      lat: 50.70270356900005
+      lng: 22.044370921000052
+- slug: lesko
+  name: Lesko
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.46028
+  lon: 22.32946
+  lands:
+    gory_sanockoturczanskie: 89.5881
+    pogorze_bukowskie: 10.4119
+  boundary:
+    southWest:
+      lat: 49.37929396700008
+      lng: 22.26132146300006
+    northEast:
+      lat: 49.55027363700003
+      lng: 22.43174500200007
+- slug: debica
+  name: Dębica
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.05404
+  lon: 21.47563
+  lands:
+    pogorze_strzyzowskie: 48.9035
+    dolina_dolnej_wisloki: 43.8238
+    pradolina_podkarpacka: 7.2727
+  boundary:
+    southWest:
+      lat: 49.94865459000005
+      lng: 21.32573773200005
+    northEast:
+      lat: 50.16862614100006
+      lng: 21.567960994000032
+- slug: pruchnik
+  name: Pruchnik
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.89574
+  lon: 22.4781
+  lands:
+    pogorze_dynowskie: 66.3653
+    podgorze_rzeszowskie: 33.6347
+  boundary:
+    southWest:
+      lat: 49.84296328800008
+      lng: 22.410472825000056
+    northEast:
+      lat: 49.95196681900006
+      lng: 22.569290959000057
+- slug: radymno
+  name: Radymno
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.9451
+  lon: 23.05723
+  lands:
+    plaskowyz_tarnogrodzki: 50.2813
+    dolina_dolnego_sanu: 45.8685
+    podgorze_rzeszowskie: 3.8501
+  boundary:
+    southWest:
+      lat: 49.88733870900006
+      lng: 22.74991924400007
+    northEast:
+      lat: 50.00321154300008
+      lng: 23.15383963100004
+- slug: dukla
+  name: Dukla
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.50983
+  lon: 21.68741
+  lands:
+    beskid_niski: 72.2577
+    pogorze_jasielskie: 16.7218
+    pogorze_bukowskie: 10.684
+  boundary:
+    southWest:
+      lat: 49.38912830600003
+      lng: 21.569567466000024
+    northEast:
+      lat: 49.63131614200006
+      lng: 21.79247021200007
+- slug: sedziszow_malopolski
+  name: Sędziszów Małopolski
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.07418
+  lon: 21.70484
+  lands:
+    pradolina_podkarpacka: 49.7267
+    pogorze_strzyzowskie: 33.5408
+    plaskowyz_kolbuszowski: 16.7325
+  boundary:
+    southWest:
+      lat: 49.971296822000056
+      lng: 21.612508238000032
+    northEast:
+      lat: 50.178492136000045
+      lng: 21.82002766900007
+- slug: tyczyn
+  name: Tyczyn
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.95374
+  lon: 22.0597
+  lands:
+    pogorze_dynowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.913405322000074
+      lng: 21.981940268000074
+    northEast:
+      lat: 49.99001967100003
+      lng: 22.132638721000035
+- slug: cmolas
+  name: Cmolas
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.32425
+  lon: 21.70062
+  lands:
+    plaskowyz_kolbuszowski: 62.0384
+    nizina_nadwislanska: 37.961
+    dolina_dolnej_wisloki: 0.0007
+  boundary:
+    southWest:
+      lat: 50.26402947500003
+      lng: 21.566784503000065
+    northEast:
+      lat: 50.38995759000005
+      lng: 21.837842735000038
+- slug: jedlicze
+  name: Jedlicze
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.72018
+  lon: 21.66169
+  lands:
+    kotlina_jasielskokrosnienska: 78.2561
+    pogorze_jasielskie: 21.7337
+    pogorze_strzyzowskie: 0.0103
+  boundary:
+    southWest:
+      lat: 49.671953966000046
+      lng: 21.57824384500003
+    northEast:
+      lat: 49.772580478000066
+      lng: 21.71266045300007
+- slug: lezajsk
+  name: Leżajsk
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.22907
+  lon: 22.41554
+  lands:
+    plaskowyz_kolbuszowski: 58.8517
+    dolina_dolnego_sanu: 41.1483
+  boundary:
+    southWest:
+      lat: 50.16399864600004
+      lng: 22.233462085000042
+    northEast:
+      lat: 50.343321235000076
+      lng: 22.606275666000045
+- slug: kurylowka
+  name: Kuryłówka
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.32786
+  lon: 22.52237
+  lands:
+    plaskowyz_tarnogrodzki: 59.6539
+    dolina_dolnego_sanu: 40.3461
+  boundary:
+    southWest:
+      lat: 50.25680502200004
+      lng: 22.405447786000025
+    northEast:
+      lat: 50.40011767200008
+      lng: 22.687595372000033
+- slug: nowa_sarzyna
+  name: Nowa Sarzyna
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.32828
+  lon: 22.28872
+  lands:
+    plaskowyz_kolbuszowski: 43.1207
+    rownina_tarnobrzeska: 38.7543
+    dolina_dolnego_sanu: 18.1249
+  boundary:
+    southWest:
+      lat: 50.25145075700004
+      lng: 22.18859999800003
+    northEast:
+      lat: 50.39327763800003
+      lng: 22.39828691300005
+- slug: oleszyce
+  name: Oleszyce
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.14688
+  lon: 22.99463
+  lands:
+    plaskowyz_tarnogrodzki: 100.0
+  boundary:
+    southWest:
+      lat: 50.06583812300005
+      lng: 22.849971106000055
+    northEast:
+      lat: 50.220686529000034
+      lng: 23.095944452000026
+- slug: lancut
+  name: Łańcut
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.06946
+  lon: 22.2325
+  lands:
+    podgorze_rzeszowskie: 59.8665
+    pradolina_podkarpacka: 40.1335
+  boundary:
+    southWest:
+      lat: 50.04436842600006
+      lng: 22.186787243000026
+    northEast:
+      lat: 50.09497271200007
+      lng: 22.260817420000024
+- slug: zolynia
+  name: Żołynia
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.15799
+  lon: 22.32225
+  lands:
+    plaskowyz_kolbuszowski: 79.6409
+    pradolina_podkarpacka: 20.3591
+  boundary:
+    southWest:
+      lat: 50.114120822000075
+      lng: 22.247526938000078
+    northEast:
+      lat: 50.20483511400005
+      lng: 22.37869360800005
+- slug: krasne
+  name: Krasne
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.04772
+  lon: 22.09323
+  lands:
+    podgorze_rzeszowskie: 42.0305
+    pradolina_podkarpacka: 38.8587
+    pogorze_dynowskie: 19.1109
+  boundary:
+    southWest:
+      lat: 50.004953724000075
+      lng: 22.056082556000035
+    northEast:
+      lat: 50.09455385500007
+      lng: 22.169064594000076
+- slug: dynow
+  name: Dynów
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.81872
+  lon: 22.15134
+  lands:
+    pogorze_dynowskie: 73.4558
+    pogorze_przemyskie: 26.5442
+  boundary:
+    southWest:
+      lat: 49.74457995000006
+      lng: 22.096148103000075
+    northEast:
+      lat: 49.89029697700005
+      lng: 22.336414543000046
+- slug: sanok
+  name: Sanok
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.55586
+  lon: 22.20588
+  lands:
+    pogorze_bukowskie: 65.6622
+    gory_sanockoturczanskie: 34.3378
+  boundary:
+    southWest:
+      lat: 49.52281432700005
+      lng: 22.147616237000022
+    northEast:
+      lat: 49.587165379000055
+      lng: 22.281718100000035
+- slug: bojanow
+  name: Bojanów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.43476
+  lon: 21.96187
+  lands:
+    rownina_tarnobrzeska: 93.226
+    plaskowyz_kolbuszowski: 6.774
+  boundary:
+    southWest:
+      lat: 50.36185737000005
+      lng: 21.851936095000042
+    northEast:
+      lat: 50.527448270000036
+      lng: 22.086581344000024
+- slug: frysztak
+  name: Frysztak
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.84212
+  lon: 21.56816
+  lands:
+    pogorze_strzyzowskie: 94.805
+    pogorze_dynowskie: 5.195
+  boundary:
+    southWest:
+      lat: 49.78545827600004
+      lng: 21.477367555000058
+    northEast:
+      lat: 49.89592282600006
+      lng: 21.660800481000024
+- slug: czudec
+  name: Czudec
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.9405
+  lon: 21.81053
+  lands:
+    pogorze_strzyzowskie: 82.741
+    pogorze_dynowskie: 17.259
+  boundary:
+    southWest:
+      lat: 49.89551222500006
+      lng: 21.695253087000026
+    northEast:
+      lat: 49.972864478000076
+      lng: 21.91548957400005
+- slug: niebylec
+  name: Niebylec
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.8446
+  lon: 21.93103
+  lands:
+    pogorze_dynowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.78109344300003
+      lng: 21.840271664000056
+    northEast:
+      lat: 49.91850146000007
+      lng: 22.020208351000065
+- slug: nozdrzec
+  name: Nozdrzec
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.76825
+  lon: 22.15208
+  lands:
+    pogorze_dynowskie: 82.1871
+    pogorze_przemyskie: 17.8129
+  boundary:
+    southWest:
+      lat: 49.70953587200006
+      lng: 22.04292403100004
+    northEast:
+      lat: 49.83576825100005
+      lng: 22.294474253000033
+- slug: jodlowa
+  name: Jodłowa
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.87777
+  lon: 21.28718
+  lands:
+    pogorze_ciezkowickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.83660076900003
+      lng: 21.224958851000054
+    northEast:
+      lat: 49.93062480700007
+      lng: 21.34968274000005
+- slug: debica
+  name: Dębica
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.04612
+  lon: 21.41276
+  lands:
+    dolina_dolnej_wisloki: 64.9131
+    pogorze_strzyzowskie: 35.0869
+  boundary:
+    southWest:
+      lat: 50.00688225600004
+      lng: 21.367870792000076
+    northEast:
+      lat: 50.08502039600006
+      lng: 21.464635883000028
+- slug: pilzno
+  name: Pilzno
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.97157
+  lon: 21.28259
+  lands:
+    pogorze_ciezkowickie: 55.6188
+    plaskowyz_tarnowski: 21.3429
+    pogorze_strzyzowskie: 19.6209
+  boundary:
+    southWest:
+      lat: 49.91912295100008
+      lng: 21.15043879800004
+    northEast:
+      lat: 50.02925885500008
+      lng: 21.424252468000077
+- slug: laszki
+  name: Laszki
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.02789
+  lon: 22.91832
+  lands:
+    plaskowyz_tarnogrodzki: 74.8573
+    dolina_dolnego_sanu: 25.1427
+  boundary:
+    southWest:
+      lat: 49.965312125000025
+      lng: 22.77221035900004
+    northEast:
+      lat: 50.07788766900006
+      lng: 23.07094873400007
+- slug: ranizow
+  name: Raniżów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.27435
+  lon: 22.00333
+  lands:
+    plaskowyz_kolbuszowski: 100.0
+  boundary:
+    southWest:
+      lat: 50.23175042300005
+      lng: 21.891812249000054
+    northEast:
+      lat: 50.32940741200008
+      lng: 22.09534619300007
+- slug: przeclaw
+  name: Przecław
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.21587
+  lon: 21.48782
+  lands:
+    dolina_dolnej_wisloki: 65.6554
+    plaskowyz_tarnowski: 34.3446
+  boundary:
+    southWest:
+      lat: 50.15935066900005
+      lng: 21.356654904000038
+    northEast:
+      lat: 50.264568749000034
+      lng: 21.60900670500007
+- slug: wadowice_gorne
+  name: Wadowice Górne
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.26688
+  lon: 21.24289
+  lands:
+    nizina_nadwislanska: 72.5729
+    plaskowyz_tarnowski: 26.663
+    dolina_dolnej_wisloki: 0.7641
+  boundary:
+    southWest:
+      lat: 50.22399330600007
+      lng: 21.145726763000027
+    northEast:
+      lat: 50.310866012000076
+      lng: 21.37580185400003
+- slug: nisko
+  name: Nisko
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.48336
+  lon: 22.12898
+  lands:
+    rownina_tarnobrzeska: 63.4419
+    dolina_dolnego_sanu: 25.94
+    rownina_bilgorajska: 10.6181
+  boundary:
+    southWest:
+      lat: 50.403329822000046
+      lng: 22.058525563000046
+    northEast:
+      lat: 50.54942708500005
+      lng: 22.263792538000075
+- slug: rudnik_nad_sanem
+  name: Rudnik nad Sanem
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.44158
+  lon: 22.22946
+  lands:
+    rownina_tarnobrzeska: 51.1585
+    dolina_dolnego_sanu: 48.8415
+  boundary:
+    southWest:
+      lat: 50.38421301600005
+      lng: 22.17293581200005
+    northEast:
+      lat: 50.502340177000065
+      lng: 22.31775530400006
+- slug: dubiecko
+  name: Dubiecko
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.80513
+  lon: 22.38185
+  lands:
+    pogorze_dynowskie: 66.4262
+    pogorze_przemyskie: 33.5738
+  boundary:
+    southWest:
+      lat: 49.73255833800005
+      lng: 22.295283324000025
+    northEast:
+      lat: 49.888690231000055
+      lng: 22.467797592000068
+- slug: medyka
+  name: Medyka
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.80187
+  lon: 22.92693
+  lands:
+    dolina_dolnego_sanu: 79.5943
+    plaskowyz_mosciski: 19.958
+  boundary:
+    southWest:
+      lat: 49.73639385100006
+      lng: 22.834233212000072
+    northEast:
+      lat: 49.867410807000056
+      lng: 22.987731818000043
+- slug: jawornik_polski
+  name: Jawornik Polski
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.9228
+  lon: 22.30116
+  lands:
+    pogorze_dynowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.87280827500007
+      lng: 22.23422731000005
+    northEast:
+      lat: 49.958493187000045
+      lng: 22.380301750000058
+- slug: sieniawa
+  name: Sieniawa
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.18809
+  lon: 22.65338
+  lands:
+    plaskowyz_tarnogrodzki: 66.7481
+    dolina_dolnego_sanu: 33.2519
+  boundary:
+    southWest:
+      lat: 50.12884257300004
+      lng: 22.552503758000057
+    northEast:
+      lat: 50.243890684000064
+      lng: 22.777397705000055
+- slug: przeworsk
+  name: Przeworsk
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.05662
+  lon: 22.42289
+  lands:
+    podgorze_rzeszowskie: 61.3765
+    pradolina_podkarpacka: 38.6235
+  boundary:
+    southWest:
+      lat: 50.00146816800003
+      lng: 22.37474639100003
+    northEast:
+      lat: 50.11694445400008
+      lng: 22.600448622000044
+- slug: ostrow
+  name: Ostrów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.14916
+  lon: 21.61425
+  lands:
+    pradolina_podkarpacka: 39.4465
+    plaskowyz_kolbuszowski: 37.9366
+    dolina_dolnej_wisloki: 22.6169
+  boundary:
+    southWest:
+      lat: 50.080534519000025
+      lng: 21.51124867300007
+    northEast:
+      lat: 50.20909119800007
+      lng: 21.701943968000023
+- slug: hyzne
+  name: Hyżne
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.91869
+  lon: 22.18177
+  lands:
+    pogorze_dynowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.870105558000034
+      lng: 22.11302278900007
+    northEast:
+      lat: 49.947475619000045
+      lng: 22.266872076000027
+- slug: sokolow_malopolski
+  name: Sokołów Małopolski
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.23871
+  lon: 22.13331
+  lands:
+    plaskowyz_kolbuszowski: 100.0
+  boundary:
+    southWest:
+      lat: 50.17107530700008
+      lng: 22.028351946000043
+    northEast:
+      lat: 50.30089226700005
+      lng: 22.25225648600008
 - slug: bukowsko
   name: Bukowsko
   type: town
   voivodeship: podkarpackie
-  lat: 49.47866
-  lon: 22.06080
+  lat: 49.47497
+  lon: 22.04394
+  lands:
+    pogorze_bukowskie: 63.0576
+    beskid_niski: 28.5133
+    kotlina_jasielskokrosnienska: 8.429
+  boundary:
+    southWest:
+      lat: 49.40543686500007
+      lng: 21.94890389400007
+    northEast:
+      lat: 49.54553281600005
+      lng: 22.139845966000053
 - slug: zarszyn
   name: Zarszyn
   type: town
   voivodeship: podkarpackie
-  lat: 49.583906004114105
-  lon: 22.016237528350693
+  lat: 49.56072
+  lon: 22.01012
+  lands:
+    kotlina_jasielskokrosnienska: 74.1114
+    pogorze_bukowskie: 18.8
+    pogorze_dynowskie: 7.0886
+  boundary:
+    southWest:
+      lat: 49.48851117000004
+      lng: 21.926621846000046
+    northEast:
+      lat: 49.636613141000055
+      lng: 22.097109825000075
+- slug: tarnobrzeg
+  name: Tarnobrzeg
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.58656
+  lon: 21.7139
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.51245619500003
+      lng: 21.60119646100003
+    northEast:
+      lat: 50.65524880100003
+      lng: 21.795692875000043
+- slug: przemysl
+  name: Przemyśl
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.78239
+  lon: 22.78796
+  lands:
+    dolina_dolnego_sanu: 38.4612
+    pogorze_przemyskie: 29.8979
+    pogorze_dynowskie: 27.2249
+  boundary:
+    southWest:
+      lat: 49.746496267000055
+      lng: 22.713819012000044
+    northEast:
+      lat: 49.81439473000006
+      lng: 22.85523299700003
+- slug: dydnia
+  name: Dydnia
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.67617
+  lon: 22.20465
+  lands:
+    pogorze_dynowskie: 81.7864
+    pogorze_przemyskie: 18.2136
+  boundary:
+    southWest:
+      lat: 49.62843322400005
+      lng: 22.074243288000048
+    northEast:
+      lat: 49.73547002600003
+      lng: 22.328293458000076
+- slug: krempna
+  name: Krempna
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.49774
+  lon: 21.51113
+  lands:
+    beskid_niski: 99.6622
+  boundary:
+    southWest:
+      lat: 49.412281750000034
+      lng: 21.35847431800005
+    northEast:
+      lat: 49.57593097700004
+      lng: 21.612817004000078
+- slug: zaklikow
+  name: Zaklików
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.73816
+  lon: 22.09651
+  lands:
+    rownina_bilgorajska: 78.4457
+    wzniesienia_urzedowskie: 16.9096
+    dolina_dolnego_sanu: 4.6103
+  boundary:
+    southWest:
+      lat: 50.65120852800004
+      lng: 21.951755183000046
+    northEast:
+      lat: 50.818563374000064
+      lng: 22.200773044000073
+- slug: glogow_malopolski
+  name: Głogów Małopolski
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.1696
+  lon: 21.95828
+  lands:
+    plaskowyz_kolbuszowski: 88.875
+    pradolina_podkarpacka: 11.125
+  boundary:
+    southWest:
+      lat: 50.07575623300005
+      lng: 21.85937490400005
+    northEast:
+      lat: 50.24871634300007
+      lng: 22.061275696000052
+- slug: dzikowiec
+  name: Dzikowiec
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.33097
+  lon: 21.90732
+  lands:
+    plaskowyz_kolbuszowski: 88.9796
+    rownina_tarnobrzeska: 11.0204
+  boundary:
+    southWest:
+      lat: 50.24407559100007
+      lng: 21.790732440000056
+    northEast:
+      lat: 50.41476370500004
+      lng: 21.994680422000044
+- slug: majdan_krolewski
+  name: Majdan Królewski
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.41112
+  lon: 21.83482
+  lands:
+    plaskowyz_kolbuszowski: 48.0967
+    nizina_nadwislanska: 26.5495
+    rownina_tarnobrzeska: 25.3537
+  boundary:
+    southWest:
+      lat: 50.33273270600006
+      lng: 21.63540568700006
+    northEast:
+      lat: 50.48224493200007
+      lng: 21.90091828900006
+- slug: jaslo
+  name: Jasło
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.72049
+  lon: 21.40783
+  lands:
+    kotlina_jasielskokrosnienska: 43.4121
+    pogorze_jasielskie: 29.6975
+    pogorze_ciezkowickie: 22.4069
+  boundary:
+    southWest:
+      lat: 49.671856852000076
+      lng: 21.347128231000056
+    northEast:
+      lat: 49.797943572000065
+      lng: 21.645928199000025
+- slug: korczyna
+  name: Korczyna
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.72799
+  lon: 21.84438
+  lands:
+    pogorze_dynowskie: 86.8557
+    kotlina_jasielskokrosnienska: 13.1443
+  boundary:
+    southWest:
+      lat: 49.659737376000066
+      lng: 21.74131783200005
+    northEast:
+      lat: 49.801016427000036
+      lng: 21.911106781000058
+- slug: bialobrzegi
+  name: Białobrzegi
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.11875
+  lon: 22.37689
+  lands:
+    pradolina_podkarpacka: 96.6882
+    plaskowyz_kolbuszowski: 3.3118
+  boundary:
+    southWest:
+      lat: 50.08587733400003
+      lng: 22.230970694000064
+    northEast:
+      lat: 50.15238548600007
+      lng: 22.45211333900005
+- slug: krzeszow
+  name: Krzeszów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.38743
+  lon: 22.3831
+  lands:
+    dolina_dolnego_sanu: 61.4951
+    plaskowyz_tarnogrodzki: 38.5036
+    rownina_tarnobrzeska: 0.0013
+  boundary:
+    southWest:
+      lat: 50.33026013600005
+      lng: 22.299904129000026
+    northEast:
+      lat: 50.445091742000045
+      lng: 22.45570268700004
+- slug: fredropol
+  name: Fredropol
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.64124
+  lon: 22.67613
+  lands:
+    pogorze_przemyskie: 77.3173
+    podgorze_hermanowickie: 22.5129
+  boundary:
+    southWest:
+      lat: 49.573072972000034
+      lng: 22.581003054000064
+    northEast:
+      lat: 49.722210361000066
+      lng: 22.813315011000043
+- slug: kanczuga
+  name: Kańczuga
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.94959
+  lon: 22.42127
+  lands:
+    pogorze_dynowskie: 54.4774
+    podgorze_rzeszowskie: 45.5226
+  boundary:
+    southWest:
+      lat: 49.888287313000035
+      lng: 22.30444075500003
+    northEast:
+      lat: 50.00902860600007
+      lng: 22.492843992000076
+- slug: wielopole_skrzynskie
+  name: Wielopole Skrzyńskie
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.94287
+  lon: 21.59595
+  lands:
+    pogorze_strzyzowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.88719752500003
+      lng: 21.498961460000032
+    northEast:
+      lat: 49.99961269600004
+      lng: 21.696969555000067
+- slug: stalowa_wola
+  name: Stalowa Wola
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.57077
+  lon: 22.03104
+  lands:
+    rownina_tarnobrzeska: 57.4234
+    dolina_dolnego_sanu: 38.9583
+    nizina_nadwislanska: 3.6184
+  boundary:
+    southWest:
+      lat: 50.50923022000006
+      lng: 21.937079178000033
+    northEast:
+      lat: 50.62886020000008
+      lng: 22.097724750000054
+- slug: gorzyce
+  name: Gorzyce
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.66624
+  lon: 21.82711
+  lands:
+    nizina_nadwislanska: 99.9418
+    dolina_dolnego_sanu: 0.0582
+  boundary:
+    southWest:
+      lat: 50.59810347100006
+      lng: 21.773574076000045
+    northEast:
+      lat: 50.73924107100004
+      lng: 21.88152851700005
+- slug: solina
+  name: Solina
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.35339
+  lon: 22.42758
+  lands:
+    gory_sanockoturczanskie: 65.608
+    bieszczady_zachodnie: 34.392
+  boundary:
+    southWest:
+      lat: 49.256644796000046
+      lng: 22.309585945000038
+    northEast:
+      lat: 49.44609809800005
+      lng: 22.518855306000034
+- slug: brzozow
+  name: Brzozów
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.68659
+  lon: 22.01904
+  lands:
+    pogorze_dynowskie: 96.3851
+    kotlina_jasielskokrosnienska: 3.6149
+  boundary:
+    southWest:
+      lat: 49.618299937000074
+      lng: 21.93309991500007
+    northEast:
+      lat: 49.75107472500008
+      lng: 22.11353717000003
+- slug: rokietnica
+  name: Rokietnica
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.88563
+  lon: 22.62674
+  lands:
+    podgorze_rzeszowskie: 57.5283
+    pogorze_dynowskie: 42.4717
+  boundary:
+    southWest:
+      lat: 49.83875209900003
+      lng: 22.568241923000073
+    northEast:
+      lat: 49.930892811000035
+      lng: 22.702125653000053
+- slug: chlopice
+  name: Chłopice
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.94128
+  lon: 22.70131
+  lands:
+    podgorze_rzeszowskie: 90.9721
+    dolina_dolnego_sanu: 9.0279
+  boundary:
+    southWest:
+      lat: 49.90411652100005
+      lng: 22.62461666300004
+    northEast:
+      lat: 49.97407265100003
+      lng: 22.785222523000073
+- slug: komancza
+  name: Komańcza
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.31775
+  lon: 22.07681
+  lands:
+    beskid_niski: 54.3318
+    bieszczady_zachodnie: 40.7782
+    pogorze_bukowskie: 3.6558
+  boundary:
+    southWest:
+      lat: 49.17442005600003
+      lng: 21.926032699000075
+    northEast:
+      lat: 49.463046088000056
+      lng: 22.250117846000023
+- slug: nowy_zmigrod
+  name: Nowy Żmigród
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.6044
+  lon: 21.55445
+  lands:
+    pogorze_jasielskie: 55.4852
+    beskid_niski: 44.5148
+  boundary:
+    southWest:
+      lat: 49.532220032000055
+      lng: 21.430667028000073
+    northEast:
+      lat: 49.66914909500008
+      lng: 21.620962598000062
+- slug: osiek_jasielski
+  name: Osiek Jasielski
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.61846
+  lon: 21.45519
+  lands:
+    pogorze_jasielskie: 65.6675
+    beskid_niski: 34.3325
+  boundary:
+    southWest:
+      lat: 49.56438856800003
+      lng: 21.384518424000078
+    northEast:
+      lat: 49.67216423600007
+      lng: 21.517514892000065
+- slug: iwoniczzdroj
+  name: Iwonicz-Zdrój
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.56842
+  lon: 21.77242
+  lands:
+    pogorze_bukowskie: 68.2288
+    kotlina_jasielskokrosnienska: 17.2765
+    beskid_niski: 14.4946
+  boundary:
+    southWest:
+      lat: 49.507748538000044
+      lng: 21.733744874000024
+    northEast:
+      lat: 49.622430044000055
+      lng: 21.83285094400003
+- slug: narol
+  name: Narol
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.34119
+  lon: 23.29748
+  lands:
+    roztocze_wschodnie: 35.8846
+    roztocze_srodkowe: 31.7767
+    rownina_bilgorajska: 27.3677
+  boundary:
+    southWest:
+      lat: 50.27569725300003
+      lng: 23.123757213000033
+    northEast:
+      lat: 50.41054161300008
+      lng: 23.436152982000067
+- slug: stary_dzikow
+  name: Stary Dzików
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.22374
+  lon: 22.91611
+  lands:
+    plaskowyz_tarnogrodzki: 100.0
+  boundary:
+    southWest:
+      lat: 50.14915483300007
+      lng: 22.797822173000043
+    northEast:
+      lat: 50.300743071000056
+      lng: 23.03562408500005
+- slug: tuszow_narodowy
+  name: Tuszów Narodowy
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.37093
+  lon: 21.51182
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.325788415000034
+      lng: 21.401655470000037
+    northEast:
+      lat: 50.415241750000064
+      lng: 21.62789452900006
+- slug: zurawica
+  name: Żurawica
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.84993
+  lon: 22.66771
+  lands:
+    podgorze_rzeszowskie: 52.6563
+    dolina_dolnego_sanu: 32.7078
+    pogorze_dynowskie: 14.636
+  boundary:
+    southWest:
+      lat: 49.791889370000035
+      lng: 22.59421926600004
+    northEast:
+      lat: 49.903949957000066
+      lng: 22.920953445000066
+- slug: adamowka
+  name: Adamówka
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.25366
+  lon: 22.70016
+  lands:
+    plaskowyz_tarnogrodzki: 98.7345
+    dolina_dolnego_sanu: 1.2655
+  boundary:
+    southWest:
+      lat: 50.207306638000034
+      lng: 22.576584479000076
+    northEast:
+      lat: 50.30307759900006
+      lng: 22.841301814000076
+- slug: zarzecze
+  name: Zarzecze
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.996
+  lon: 22.52306
+  lands:
+    podgorze_rzeszowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.944845024000074
+      lng: 22.46803397800005
+    northEast:
+      lat: 50.03798963400004
+      lng: 22.58067296200005
+- slug: boguchwala
+  name: Boguchwała
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.99479
+  lon: 21.86854
+  lands:
+    pogorze_strzyzowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.94826178900007
+      lng: 21.748191500000075
+    northEast:
+      lat: 50.04260994300006
+      lng: 21.965407863000053
+- slug: tyrawa_woloska
+  name: Tyrawa Wołoska
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.58815
+  lon: 22.36044
+  lands:
+    gory_sanockoturczanskie: 84.8021
+    pogorze_przemyskie: 15.1979
+  boundary:
+    southWest:
+      lat: 49.52745337400006
+      lng: 22.29039625000007
+    northEast:
+      lat: 49.64904302700006
+      lng: 22.42790369900007
+- slug: strzyzow
+  name: Strzyżów
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.85974
+  lon: 21.7895
+  lands:
+    pogorze_dynowskie: 63.9199
+    pogorze_strzyzowskie: 36.0801
+  boundary:
+    southWest:
+      lat: 49.78120751500006
+      lng: 21.677152441000032
+    northEast:
+      lat: 49.95190217700008
+      lng: 21.874144026000067
+- slug: nowa_deba
+  name: Nowa Dęba
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.46469
+  lon: 21.75335
+  lands:
+    nizina_nadwislanska: 84.422
+    rownina_tarnobrzeska: 12.3241
+    plaskowyz_kolbuszowski: 3.2538
+  boundary:
+    southWest:
+      lat: 50.38778571900008
+      lng: 21.612543860000073
+    northEast:
+      lat: 50.53890996600006
+      lng: 21.866163130000075
+- slug: ustrzyki_dolne
+  name: Ustrzyki Dolne
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.50303
+  lon: 22.57634
+  lands:
+    gory_sanockoturczanskie: 73.3646
+    pogorze_przemyskie: 26.552
+  boundary:
+    southWest:
+      lat: 49.32789442500007
+      lng: 22.399302197000054
+    northEast:
+      lat: 49.66998248300007
+      lng: 22.74680735800007
+- slug: brzostek
+  name: Brzostek
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.88891
+  lon: 21.43527
+  lands:
+    pogorze_strzyzowskie: 81.3703
+    pogorze_ciezkowickie: 18.6297
+  boundary:
+    southWest:
+      lat: 49.82885575700004
+      lng: 21.329147636000073
+    northEast:
+      lat: 49.95506765200008
+      lng: 21.52352306100005
+- slug: radymno
+  name: Radymno
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.95651
+  lon: 22.8269
+  lands:
+    dolina_dolnego_sanu: 100.0
+  boundary:
+    southWest:
+      lat: 49.93758886100005
+      lng: 22.791911583000058
+    northEast:
+      lat: 49.97672841500008
+      lng: 22.857156117000045
+- slug: wiazownica
+  name: Wiązownica
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.11955
+  lon: 22.77872
+  lands:
+    plaskowyz_tarnogrodzki: 88.7823
+    dolina_dolnego_sanu: 11.2177
+  boundary:
+    southWest:
+      lat: 50.023878006000075
+      lng: 22.640958583000042
+    northEast:
+      lat: 50.21292874100004
+      lng: 22.95367075100006
+- slug: krosno
+  name: Krosno
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.6842
+  lon: 21.75433
+  lands:
+    kotlina_jasielskokrosnienska: 100.0
+  boundary:
+    southWest:
+      lat: 49.65039817500008
+      lng: 21.694689621000066
+    northEast:
+      lat: 49.73143397300004
+      lng: 21.809348818000046
+- slug: swilcza
+  name: Świlcza
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.08661
+  lon: 21.89238
+  lands:
+    pradolina_podkarpacka: 55.0726
+    pogorze_strzyzowskie: 29.4437
+    plaskowyz_kolbuszowski: 15.4838
+  boundary:
+    southWest:
+      lat: 50.02720868600005
+      lng: 21.779016753000064
+    northEast:
+      lat: 50.15143706900005
+      lng: 21.969445758000063
+- slug: iwierzyce
+  name: Iwierzyce
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.01494
+  lon: 21.76003
+  lands:
+    pogorze_strzyzowskie: 99.9929
+    pradolina_podkarpacka: 0.0071
+  boundary:
+    southWest:
+      lat: 49.96415947400004
+      lng: 21.688537058000065
+    northEast:
+      lat: 50.07608494400006
+      lng: 21.821698751000042
+- slug: brzyska
+  name: Brzyska
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.82092
+  lon: 21.37911
+  lands:
+    pogorze_ciezkowickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.76715023000003
+      lng: 21.290739882000025
+    northEast:
+      lat: 49.87176345000006
+      lng: 21.42775023100006
+- slug: kolaczyce
+  name: Kołaczyce
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.80725
+  lon: 21.49167
+  lands:
+    pogorze_strzyzowskie: 93.3916
+    pogorze_ciezkowickie: 6.6084
+  boundary:
+    southWest:
+      lat: 49.77441302600005
+      lng: 21.410388241000078
+    northEast:
+      lat: 49.84054605100005
+      lng: 21.559855398000025
+- slug: grodzisko_dolne
+  name: Grodzisko Dolne
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.16518
+  lon: 22.44574
+  lands:
+    plaskowyz_kolbuszowski: 73.3796
+    pradolina_podkarpacka: 23.6808
+    dolina_dolnego_sanu: 2.9396
+  boundary:
+    southWest:
+      lat: 50.123075508000056
+      lng: 22.354609672000038
+    northEast:
+      lat: 50.206908680000026
+      lng: 22.526610834000053
+- slug: lubaczow
+  name: Lubaczów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.15724
+  lon: 23.11657
+  lands:
+    plaskowyz_tarnogrodzki: 100.0
+  boundary:
+    southWest:
+      lat: 50.12231630900004
+      lng: 23.076825347000067
+    northEast:
+      lat: 50.190244292000045
+      lng: 23.153728987000022
+- slug: czermin
+  name: Czermin
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.31715
+  lon: 21.29082
+  lands:
+    nizina_nadwislanska: 90.0018
+    dolina_dolnej_wisloki: 7.4938
+    plaskowyz_tarnowski: 2.5044
+  boundary:
+    southWest:
+      lat: 50.26522970700006
+      lng: 21.20883156900004
+    northEast:
+      lat: 50.37612779400007
+      lng: 21.373195312000064
+- slug: ulanow
+  name: Ulanów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.49242
+  lon: 22.32262
+  lands:
+    rownina_bilgorajska: 58.4399
+    plaskowyz_tarnogrodzki: 22.7717
+    dolina_dolnego_sanu: 18.7884
+  boundary:
+    southWest:
+      lat: 50.42112064300005
+      lng: 22.20716238700004
+    northEast:
+      lat: 50.57414843200007
+      lng: 22.407637647000058
+- slug: bircza
+  name: Bircza
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.67768
+  lon: 22.45377
+  lands:
+    pogorze_przemyskie: 96.5757
+    gory_sanockoturczanskie: 3.4243
+  boundary:
+    southWest:
+      lat: 49.58992703900003
+      lng: 22.253974535000054
+    northEast:
+      lat: 49.77113546100003
+      lng: 22.584021361000055
+- slug: gac
+  name: Gać
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.02894
+  lon: 22.40103
+  lands:
+    podgorze_rzeszowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.997856124000066
+      lng: 22.341308162000075
+    northEast:
+      lat: 50.05388543000004
+      lng: 22.468395335000025
+- slug: ropczyce
+  name: Ropczyce
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.02038
+  lon: 21.58243
+  lands:
+    pogorze_strzyzowskie: 83.2716
+    pradolina_podkarpacka: 16.5027
+    dolina_dolnej_wisloki: 0.2257
+  boundary:
+    southWest:
+      lat: 49.94634533200008
+      lng: 21.46420699300006
+    northEast:
+      lat: 50.095328015000064
+      lng: 21.679552021000063
+- slug: radomysl_nad_sanem
+  name: Radomyśl nad Sanem
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.70767
+  lon: 21.9406
+  lands:
+    dolina_dolnego_sanu: 45.3365
+    nizina_nadwislanska: 32.0601
+    rownina_bilgorajska: 22.6035
+  boundary:
+    southWest:
+      lat: 50.62203260900003
+      lng: 21.84019826900004
+    northEast:
+      lat: 50.802706785000055
+      lng: 22.082978980000064
+- slug: baligrod
+  name: Baligród
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.32697
+  lon: 22.28035
+  lands:
+    bieszczady_zachodnie: 61.9873
+    gory_sanockoturczanskie: 38.0127
+  boundary:
+    southWest:
+      lat: 49.23152464200007
+      lng: 22.187134650000075
+    northEast:
+      lat: 49.41385895600007
+      lng: 22.36000883300005
+- slug: zyrakow
+  name: Żyraków
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.10832
+  lon: 21.39408
+  lands:
+    plaskowyz_tarnowski: 60.505
+    dolina_dolnej_wisloki: 39.495
+  boundary:
+    southWest:
+      lat: 50.04778006200007
+      lng: 21.30221968500007
+    northEast:
+      lat: 50.16909478400004
+      lng: 21.47977021500003
+- slug: rymanow
+  name: Rymanów
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.55642
+  lon: 21.86219
+  lands:
+    pogorze_bukowskie: 54.4539
+    kotlina_jasielskokrosnienska: 30.6852
+    beskid_niski: 14.8609
+  boundary:
+    southWest:
+      lat: 49.45987553900005
+      lng: 21.773512562000064
+    northEast:
+      lat: 49.643920672000036
+      lng: 21.969288779000067
+- slug: jasliska
+  name: Jaśliska
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.41076
+  lon: 21.84601
+  lands:
+    beskid_niski: 99.3291
+  boundary:
+    southWest:
+      lat: 49.34692558300003
+      lng: 21.732207687000027
+    northEast:
+      lat: 49.48943090400007
+      lng: 21.972356413000057
+- slug: rzeszow
+  name: Rzeszów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.00722
+  lon: 22.01283
+  lands:
+    pogorze_strzyzowskie: 58.5005
+    pogorze_dynowskie: 17.9916
+    pradolina_podkarpacka: 14.5882
+  boundary:
+    southWest:
+      lat: 49.93258265500003
+      lng: 21.858782285000075
+    northEast:
+      lat: 50.08166797100006
+      lng: 22.092791453000075
+- slug: kolbuszowa
+  name: Kolbuszowa
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.21395
+  lon: 21.82585
+  lands:
+    plaskowyz_kolbuszowski: 100.0
+  boundary:
+    southWest:
+      lat: 50.15098293700004
+      lng: 21.683057250000047
+    northEast:
+      lat: 50.28526058800003
+      lng: 21.93459427700003
+- slug: niwiska
+  name: Niwiska
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.23937
+  lon: 21.64488
+  lands:
+    plaskowyz_kolbuszowski: 86.9517
+    dolina_dolnej_wisloki: 12.8646
+    nizina_nadwislanska: 0.1836
+  boundary:
+    southWest:
+      lat: 50.17587872400003
+      lng: 21.53039214200004
+    northEast:
+      lat: 50.30174984900003
+      lng: 21.731003744000077
+- slug: jaslo
+  name: Jasło
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.75041
+  lon: 21.4955
+  lands:
+    kotlina_jasielskokrosnienska: 67.1705
+    pogorze_ciezkowickie: 26.359
+    pogorze_strzyzowskie: 6.2191
+  boundary:
+    southWest:
+      lat: 49.715154795000046
+      lng: 21.405102593000038
+    northEast:
+      lat: 49.78256374600005
+      lng: 21.540142615000036
+- slug: debowiec
+  name: Dębowiec
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.63615
+  lon: 21.40016
+  lands:
+    pogorze_jasielskie: 72.7772
+    beskid_niski: 23.7454
+    kotlina_jasielskokrosnienska: 3.4774
+  boundary:
+    southWest:
+      lat: 49.57025187200003
+      lng: 21.33125057500007
+    northEast:
+      lat: 49.70596196400004
+      lng: 21.523272418000033
+- slug: kroscienko_wyzne
+  name: Krościenko Wyżne
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.67963
+  lon: 21.8257
+  lands:
+    kotlina_jasielskokrosnienska: 100.0
+  boundary:
+    southWest:
+      lat: 49.65242247500004
+      lng: 21.79966240400006
+    northEast:
+      lat: 49.69969439400006
+      lng: 21.857919520000053
+- slug: lezajsk
+  name: Leżajsk
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.26436
+  lon: 22.42583
+  lands:
+    dolina_dolnego_sanu: 66.7689
+    plaskowyz_kolbuszowski: 33.2311
+  boundary:
+    southWest:
+      lat: 50.238138338000056
+      lng: 22.37161923700006
+    northEast:
+      lat: 50.29567795600008
+      lng: 22.465613210000072
+- slug: mielec
+  name: Mielec
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.29687
+  lon: 21.38799
+  lands:
+    dolina_dolnej_wisloki: 40.2669
+    nizina_nadwislanska: 40.1293
+    plaskowyz_tarnowski: 19.6038
+  boundary:
+    southWest:
+      lat: 50.22750201100007
+      lng: 21.34640864000005
+    northEast:
+      lat: 50.36765028800005
+      lng: 21.610175577000064
+- slug: borowa
+  name: Borowa
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.38504
+  lon: 21.31458
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.34219897100007
+      lng: 21.245349988000044
+    northEast:
+      lat: 50.43054410900004
+      lng: 21.396194238000078
+- slug: padew_narodowa
+  name: Padew Narodowa
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.4372
+  lon: 21.48167
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.37795788600005
+      lng: 21.399957725000036
+    northEast:
+      lat: 50.496437566000054
+      lng: 21.596366500000045
+- slug: krasiczyn
+  name: Krasiczyn
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.75364
+  lon: 22.63568
+  lands:
+    pogorze_przemyskie: 78.9358
+    pogorze_dynowskie: 21.0642
+  boundary:
+    southWest:
+      lat: 49.68347126400005
+      lng: 22.53459747000005
+    northEast:
+      lat: 49.82390770300003
+      lng: 22.735834012000055
+- slug: przeworsk
+  name: Przeworsk
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.05202
+  lon: 22.50226
+  lands:
+    podgorze_rzeszowskie: 74.9749
+    pradolina_podkarpacka: 25.0251
+  boundary:
+    southWest:
+      lat: 50.02103471500004
+      lng: 22.467883639000036
+    northEast:
+      lat: 50.08684843000003
+      lng: 22.534762681000075
+- slug: dynow
+  name: Dynów
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.81687
+  lon: 22.23138
+  lands:
+    pogorze_dynowskie: 75.1431
+    pogorze_przemyskie: 24.8569
+  boundary:
+    southWest:
+      lat: 49.79012353500008
+      lng: 22.189489448000074
+    northEast:
+      lat: 49.83737478300003
+      lng: 22.27745108000005
+- slug: blazowa
+  name: Błażowa
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.8806
+  lon: 22.08613
+  lands:
+    pogorze_dynowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.825084649000075
+      lng: 21.96745473900006
+    northEast:
+      lat: 49.94015030000003
+      lng: 22.185112549000053
+- slug: kamien
+  name: Kamień
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.31535
+  lon: 22.10033
+  lands:
+    plaskowyz_kolbuszowski: 99.8978
+    rownina_tarnobrzeska: 0.1022
+  boundary:
+    southWest:
+      lat: 50.27910135900004
+      lng: 21.99881859100003
+    northEast:
+      lat: 50.355027420000056
+      lng: 22.211990421000053
+- slug: zagorz
+  name: Zagórz
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.41985
+  lon: 22.22567
+  lands:
+    pogorze_bukowskie: 47.9702
+    gory_sanockoturczanskie: 35.8021
+    bieszczady_zachodnie: 16.2277
+  boundary:
+    southWest:
+      lat: 49.30771924100003
+      lng: 22.116700449000064
+    northEast:
+      lat: 49.54032803800004
+      lng: 22.300419592000026
+- slug: pysznica
+  name: Pysznica
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.59864
+  lon: 22.16354
+  lands:
+    rownina_bilgorajska: 60.6099
+    dolina_dolnego_sanu: 39.3901
+  boundary:
+    southWest:
+      lat: 50.527912497000045
+      lng: 22.044988456000056
+    northEast:
+      lat: 50.669691439000076
+      lng: 22.26398609000006
+- slug: baranow_sandomierski
+  name: Baranów Sandomierski
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.45473
+  lon: 21.60791
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.38680362300005
+      lng: 21.482106789000056
+    northEast:
+      lat: 50.52002517000005
+      lng: 21.689867539000034
+- slug: grebow
+  name: Grębów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.5457
+  lon: 21.84914
+  lands:
+    nizina_nadwislanska: 80.1518
+    rownina_tarnobrzeska: 19.8482
+  boundary:
+    southWest:
+      lat: 50.47288458700007
+      lng: 21.711878796000065
+    northEast:
+      lat: 50.626049797000064
+      lng: 21.979098256000043
+- slug: olszanica
+  name: Olszanica
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.49395
+  lon: 22.44069
+  lands:
+    gory_sanockoturczanskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.42780846900007
+      lng: 22.363090276000037
+    northEast:
+      lat: 49.55353525900006
+      lng: 22.533512061000067
+- slug: domaradz
+  name: Domaradz
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.79193
+  lon: 21.98982
+  lands:
+    pogorze_dynowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.74722183600005
+      lng: 21.894796134000046
+    northEast:
+      lat: 49.837620936000064
+      lng: 22.075129094000033
+- slug: haczow
+  name: Haczów
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.6685
+  lon: 21.90273
+  lands:
+    kotlina_jasielskokrosnienska: 60.6317
+    pogorze_dynowskie: 39.3683
+  boundary:
+    southWest:
+      lat: 49.61785912200003
+      lng: 21.85194485100004
+    northEast:
+      lat: 49.71995502600004
+      lng: 22.02905510000005
+- slug: czarna
+  name: Czarna
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.08427
+  lon: 21.23539
+  lands:
+    plaskowyz_tarnowski: 86.0497
+    dolina_dolnej_wisloki: 13.9503
+  boundary:
+    southWest:
+      lat: 50.010842112000034
+      lng: 21.146066907000034
+    northEast:
+      lat: 50.15470576700005
+      lng: 21.377342527000053
+- slug: jaroslaw
+  name: Jarosław
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.03992
+  lon: 22.6627
+  lands:
+    dolina_dolnego_sanu: 55.2432
+    podgorze_rzeszowskie: 44.7568
+  boundary:
+    southWest:
+      lat: 49.99440214800006
+      lng: 22.625759978000076
+    northEast:
+      lat: 50.08678687300005
+      lng: 22.722546629000078
+- slug: pawlosiow
+  name: Pawłosiów
+  type: town
+  voivodeship: podkarpackie
+  lat: 50.00297
+  lon: 22.61278
+  lands:
+    podgorze_rzeszowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.96928748900007
+      lng: 22.551236583000048
+    northEast:
+      lat: 50.04181514700008
+      lng: 22.68876756700007

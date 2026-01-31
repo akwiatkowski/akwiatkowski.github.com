@@ -1,135 +1,2949 @@
 ---
-- slug: czorsztyn
-  name: Czorsztyn
+- slug: raclawice
+  name: Racławice
   type: town
   voivodeship: malopolskie
-  lat: 49.43787
-  lon: 20.33098
-- slug: gorlice
-  name: Gorlice
+  lat: 50.32904
+  lon: 20.22116
+  lands:
+    wyzyna_miechowska: 93.4302
+    plaskowyz_proszowicki: 6.5698
+  boundary:
+    southWest:
+      lat: 50.29895223200003
+      lng: 20.13503428000007
+    northEast:
+      lat: 50.36870375400008
+      lng: 20.30532725300003
+- slug: pcim
+  name: Pcim
   type: town
   voivodeship: malopolskie
-  lat: 49.65762
-  lon: 21.15821
-- slug: koscielisko
-  name: Kościelisko
+  lat: 49.76905
+  lon: 19.98324
+  lands:
+    beskid_makowski: 99.6094
+    beskid_wyspowy: 0.3906
+  boundary:
+    southWest:
+      lat: 49.727379807000034
+      lng: 19.799205648000054
+    northEast:
+      lat: 49.81125066300007
+      lng: 20.04823323200003
+- slug: wolbrom
+  name: Wolbrom
   type: town
   voivodeship: malopolskie
-  lat: 49.28935
-  lon: 19.88723
-- slug: krakow
-  name: Kraków
-  header-ext-img: https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d
+  lat: 50.38854
+  lon: 19.75933
+  lands:
+    wyzyna_czestochowska: 48.2964
+    wyzyna_olkuska: 30.5671
+    wyzyna_miechowska: 21.1365
+  boundary:
+    southWest:
+      lat: 50.33211738600005
+      lng: 19.63656410300007
+    northEast:
+      lat: 50.448159813000075
+      lng: 19.852464990000044
+- slug: sucha_beskidzka
+  name: Sucha Beskidzka
   type: town
   voivodeship: malopolskie
-- slug: krynica_zdroj
-  name: Krynica Zdrój
-  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  lat: 49.72936
+  lon: 19.58204
+  lands:
+    beskid_zywieckoorawski: 56.2078
+    pasma_pewelskokrzeczowskie: 34.2195
+    beskid_makowski: 9.5727
+  boundary:
+    southWest:
+      lat: 49.69902545700006
+      lng: 19.533766729000035
+    northEast:
+      lat: 49.765544789000046
+      lng: 19.621342180000056
+- slug: rzepiennik_strzyzewski
+  name: Rzepiennik Strzyżewski
   type: town
   voivodeship: malopolskie
-- slug: labowa
-  name: Łabowa
-  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  lat: 49.79573
+  lon: 21.09106
+  lands:
+    pogorze_ciezkowickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.74674545200003
+      lng: 20.98717655200005
+    northEast:
+      lat: 49.84233883500008
+      lng: 21.164531572000044
+- slug: wojnicz
+  name: Wojnicz
   type: town
   voivodeship: malopolskie
-- slug: lapsze_nizne
-  name: Łapsze Niżne
-  header-ext-img: https://drscdn.500px.org/photo/164959879/q%3D80_m%3D2000/c65402c988d86a6340c915d8a5ba888b
+  lat: 49.94472
+  lon: 20.81549
+  lands:
+    pogorze_wisnickie: 41.5372
+    podgorze_bochenskie: 34.0509
+    pogorze_roznowskie: 14.3174
+  boundary:
+    southWest:
+      lat: 49.87807157000003
+      lng: 20.74591917600003
+    northEast:
+      lat: 50.01516332600005
+      lng: 20.881766912000046
+- slug: tomice
+  name: Tomice
   type: town
   voivodeship: malopolskie
-- slug: muszyna
-  name: Muszyna
-  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  lat: 49.92784
+  lon: 19.51402
+  lands:
+    pogorze_wielickie: 80.9442
+    pogorze_slaskie: 19.0558
+  boundary:
+    southWest:
+      lat: 49.89216941700005
+      lng: 19.445210447000022
+    northEast:
+      lat: 49.958323309000036
+      lng: 19.58885719600005
+- slug: iwkowa
+  name: Iwkowa
   type: town
   voivodeship: malopolskie
-- slug: nawojowa
-  name: Nawojowa
-  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  lat: 49.8015
+  lon: 20.57073
+  lands:
+    pogorze_roznowskie: 81.4963
+    beskid_wyspowy: 18.5037
+  boundary:
+    southWest:
+      lat: 49.76187359900007
+      lng: 20.518081891000065
+    northEast:
+      lat: 49.83790417200004
+      lng: 20.634353099000066
+- slug: babice
+  name: Babice
   type: town
   voivodeship: malopolskie
-- slug: niedzwiedz
-  name: Niedźwiedź
-  header-ext-img: https://drscdn.500px.org/photo/24295083/m%3D2048/791b872deaae78a39bde2e079af34123
+  lat: 50.06168
+  lon: 19.4174
+  lands:
+    dolina_gornej_wisly: 69.9217
+    garb_tenczynski: 30.0783
+  boundary:
+    southWest:
+      lat: 50.024542576000044
+      lng: 19.35853031000005
+    northEast:
+      lat: 50.104263235000076
+      lng: 19.51386102500004
+- slug: medrzechow
+  name: Mędrzechów
   type: town
   voivodeship: malopolskie
-- slug: nowy_sacz
-  name: Nowy Sącz
-  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  lat: 50.28077
+  lon: 20.95623
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.24307556200006
+      lng: 20.907316645000037
+    northEast:
+      lat: 50.31386904200008
+      lng: 21.02597062500007
+- slug: biecz
+  name: Biecz
   type: town
   voivodeship: malopolskie
-- slug: nowy_targ
-  name: Nowy Targ
-  header-ext-img: https://drscdn.500px.org/photo/34473826/m%3D2048/4e1d4f7f46cb5ba9b277a92ebac70dba
+  lat: 49.7236
+  lon: 21.24945
+  lands:
+    pogorze_ciezkowickie: 66.7365
+    obnizenie_gorlickie: 32.8841
+    pogorze_jasielskie: 0.3794
+  boundary:
+    southWest:
+      lat: 49.66971357300008
+      lng: 21.095023810000043
+    northEast:
+      lat: 49.78161342300007
+      lng: 21.330963792000034
+- slug: liszki
+  name: Liszki
   type: town
   voivodeship: malopolskie
-- slug: ochotnica_dolna
-  name: Ochotnica Dolna
-  header-ext-img: https://drscdn.500px.org/photo/34474028/m%3D2048/95df032502c17261a54d2896d072d890
+  lat: 50.03766
+  lon: 19.7639
+  lands:
+    obnizenie_cholerzynskie: 57.1885
+    garb_tenczynski: 29.4336
+    pomost_krakowski: 7.6152
+  boundary:
+    southWest:
+      lat: 49.980257935000054
+      lng: 19.661128204000022
+    northEast:
+      lat: 50.090240796000046
+      lng: 19.82632559700005
+- slug: limanowa
+  name: Limanowa
   type: town
   voivodeship: malopolskie
-- slug: piwniczna_zdroj
-  name: Piwniczna Zdrój
-  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  lat: 49.70888
+  lon: 20.42346
+  lands:
+    beskid_wyspowy: 100.0
+  boundary:
+    southWest:
+      lat: 49.68559532300003
+      lng: 20.369457086000068
+    northEast:
+      lat: 49.74193612700003
+      lng: 20.451163687000076
+- slug: slopnice
+  name: Słopnice
   type: town
   voivodeship: malopolskie
-- slug: rabka
-  name: Rabka
-  header-ext-img: https://drscdn.500px.org/photo/33156193/m%3D2048/12ef096892b0b28f5f8ccdab4e94c646
-  type: town
-  voivodeship: malopolskie
-- slug: ropa
-  name: Ropa
-  header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
-  type: town
-  voivodeship: malopolskie
-- slug: rytro
-  name: Rytro
-  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
-  type: town
-  voivodeship: malopolskie
-- slug: sekowa
-  name: Sękowa
-  header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
-  type: town
-  voivodeship: malopolskie
-- slug: stary_sacz
-  name: Stary Sącz
-  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
-  type: town
-  voivodeship: malopolskie
+  lat: 49.67573
+  lon: 20.3354
+  lands:
+    beskid_wyspowy: 100.0
+  boundary:
+    southWest:
+      lat: 49.63254044900003
+      lng: 20.276764787000047
+    northEast:
+      lat: 49.71866556200007
+      lng: 20.38909250000006
 - slug: szczawnica
   name: Szczawnica
-  header-ext-img: https://drscdn.500px.org/photo/33587579/m%3D2048/f3a8c435a5a9d2fef30eb5aba09f155d
   type: town
   voivodeship: malopolskie
-- slug: uscie_gorlickie
-  name: Uście Gorlickie
-  header-ext-img: https://drscdn.500px.org/photo/30576125/m%3D2048/344c96d96b63ccf3c668a06825796e71
+  lat: 49.42343
+  lon: 20.52739
+  lands:
+    beskid_sadecki: 71.3816
+    pieniny: 24.2095
+  boundary:
+    southWest:
+      lat: 49.37639083300007
+      lng: 20.44326532300005
+    northEast:
+      lat: 49.47271122800004
+      lng: 20.614932528000054
+- slug: sekowa
+  name: Sękowa
   type: town
   voivodeship: malopolskie
-- slug: zakopane
-  name: Zakopane
+  lat: 49.53811
+  lon: 21.32977
+  lands:
+    beskid_niski: 98.3236
+    obnizenie_gorlickie: 1.4711
+  boundary:
+    southWest:
+      lat: 49.43251975000004
+      lng: 21.136000069000033
+    northEast:
+      lat: 49.64100893600005
+      lng: 21.42092883500004
+- slug: golcza
+  name: Gołcza
   type: town
   voivodeship: malopolskie
+  lat: 50.32145
+  lon: 19.90215
+  lands:
+    wyzyna_miechowska: 74.2517
+    wyzyna_olkuska: 25.7483
+  boundary:
+    southWest:
+      lat: 50.258932909000066
+      lng: 19.825311299000077
+    northEast:
+      lat: 50.395108245000074
+      lng: 20.022461857000053
+- slug: wisniowa
+  name: Wiśniowa
+  type: town
+  voivodeship: malopolskie
+  lat: 49.77887
+  lon: 20.09719
+  lands:
+    pogorze_wisnickie: 49.0253
+    beskid_makowski: 30.2617
+    beskid_wyspowy: 20.713
+  boundary:
+    southWest:
+      lat: 49.730584269000076
+      lng: 20.03152213900006
+    northEast:
+      lat: 49.82879187700007
+      lng: 20.152787815000067
 - slug: grybow
   name: Grybów
   type: town
   voivodeship: malopolskie
-- slug: zawoja
-  name: Zawoja
+  lat: 49.6147
+  lon: 20.9516
+  lands:
+    beskid_niski: 98.5892
+  boundary:
+    southWest:
+      lat: 49.594270220000055
+      lng: 20.905474456000036
+    northEast:
+      lat: 49.62987079000004
+      lng: 21.007781315000045
+- slug: labowa
+  name: Łabowa
   type: town
   voivodeship: malopolskie
-  lat: 49.65921
-  lon: 19.55666
+  lat: 49.49004
+  lon: 20.8513
+  lands:
+    beskid_sadecki: 68.4921
+    beskid_niski: 31.5079
+  boundary:
+    southWest:
+      lat: 49.43581408000006
+      lng: 20.762664037000036
+    northEast:
+      lat: 49.548699224000075
+      lng: 20.962457019000055
+- slug: grybow
+  name: Grybów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.60607
+  lon: 20.87464
+  lands:
+    beskid_niski: 72.6038
+    pogorze_roznowskie: 16.1926
+    pogorze_ciezkowickie: 11.2037
+  boundary:
+    southWest:
+      lat: 49.52326855700005
+      lng: 20.812439519000066
+    northEast:
+      lat: 49.68880652300004
+      lng: 21.05454059300007
+- slug: podegrodzie
+  name: Podegrodzie
+  type: town
+  voivodeship: malopolskie
+  lat: 49.59398
+  lon: 20.60024
+  lands:
+    kotlina_sadecka: 100.0
+  boundary:
+    southWest:
+      lat: 49.547284930000046
+      lng: 20.47639643900004
+    northEast:
+      lat: 49.64716355000007
+      lng: 20.65677782700004
+- slug: stary_sacz
+  name: Stary Sącz
+  type: town
+  voivodeship: malopolskie
+  lat: 49.52912
+  lon: 20.61751
+  lands:
+    kotlina_sadecka: 51.167
+    beskid_sadecki: 48.833
+  boundary:
+    southWest:
+      lat: 49.46567691400003
+      lng: 20.536357722000048
+    northEast:
+      lat: 49.589080618000025
+      lng: 20.734586229000058
+- slug: ochotnica_dolna
+  name: Ochotnica Dolna
+  type: town
+  voivodeship: malopolskie
+  lat: 49.52306
+  lon: 20.27425
+  lands:
+    gorce: 87.0264
+    beskid_sadecki: 12.9736
+  boundary:
+    southWest:
+      lat: 49.464163152000026
+      lng: 20.14530055000006
+    northEast:
+      lat: 49.569901849000075
+      lng: 20.470078964000038
+- slug: bukowno
+  name: Bukowno
+  type: town
+  voivodeship: malopolskie
+  lat: 50.26134
+  lon: 19.4207
+  lands:
+    pagory_jaworznickie: 83.8797
+    wyzyna_olkuska: 9.6802
+    kotlina_siewierza: 6.4401
+  boundary:
+    southWest:
+      lat: 50.22553774800008
+      lng: 19.323422760000028
+    northEast:
+      lat: 50.29698316100007
+      lng: 19.510848805000023
+- slug: przeciszow
+  name: Przeciszów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.99212
+  lon: 19.37456
+  lands:
+    dolina_gornej_wisly: 74.4151
+    podgorze_wilamowickie: 25.5849
+  boundary:
+    southWest:
+      lat: 49.94500602200003
+      lng: 19.336669570000026
+    northEast:
+      lat: 50.04368425600006
+      lng: 19.40414025800004
+- slug: koniusza
+  name: Koniusza
+  type: town
+  voivodeship: malopolskie
+  lat: 50.17423
+  lon: 20.21267
+  lands:
+    wyzyna_miechowska: 62.1416
+    plaskowyz_proszowicki: 37.8535
+    nizina_nadwislanska: 0.0049
+  boundary:
+    southWest:
+      lat: 50.11101503500004
+      lng: 20.152252007000072
+    northEast:
+      lat: 50.24518742200007
+      lng: 20.279271038000047
+- slug: nowe_brzesko
+  name: Nowe Brzesko
+  type: town
+  voivodeship: malopolskie
+  lat: 50.1487
+  lon: 20.40198
+  lands:
+    plaskowyz_proszowicki: 77.7254
+    nizina_nadwislanska: 22.2746
+  boundary:
+    southWest:
+      lat: 50.11353970400006
+      lng: 20.31893775800006
+    northEast:
+      lat: 50.177239361000034
+      lng: 20.48736057700006
+- slug: chelmek
+  name: Chełmek
+  type: town
+  voivodeship: malopolskie
+  lat: 50.09233
+  lon: 19.25209
+  lands:
+    dolina_gornej_wisly: 71.2792
+    garb_tenczynski: 17.2723
+    row_krzeszowicki: 11.4485
+  boundary:
+    southWest:
+      lat: 50.047356636000075
+      lng: 19.211858937000045
+    northEast:
+      lat: 50.13419335100008
+      lng: 19.290645746000052
 - slug: stryszawa
   name: Stryszawa
   type: town
   voivodeship: malopolskie
-  lat: 49.71308
-  lon: 19.51993
+  lat: 49.72867
+  lon: 19.49196
+  lands:
+    beskid_zywieckoorawski: 49.9885
+    pasma_pewelskokrzeczowskie: 34.1095
+    beskid_maly: 15.902
+  boundary:
+    southWest:
+      lat: 49.66081268800008
+      lng: 19.369976348000023
+    northEast:
+      lat: 49.795726169000034
+      lng: 19.57332817500003
+- slug: gromnik
+  name: Gromnik
+  type: town
+  voivodeship: malopolskie
+  lat: 49.84317
+  lon: 20.9518
+  lands:
+    pogorze_ciezkowickie: 59.7224
+    pogorze_roznowskie: 40.2776
+  boundary:
+    southWest:
+      lat: 49.806813126000065
+      lng: 20.849278188000028
+    northEast:
+      lat: 49.883918408000056
+      lng: 21.043235538000033
+- slug: kalwaria_zebrzydowska
+  name: Kalwaria Zebrzydowska
+  type: town
+  voivodeship: malopolskie
+  lat: 49.88712
+  lon: 19.68223
+  lands:
+    pogorze_wielickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.84462096100003
+      lng: 19.577637263000042
+    northEast:
+      lat: 49.93430358100005
+      lng: 19.765627943000027
+- slug: andrychow
+  name: Andrychów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.8299
+  lon: 19.35231
+  lands:
+    beskid_maly: 62.5789
+    pogorze_slaskie: 33.299
+    podgorze_wilamowickie: 4.122
+  boundary:
+    southWest:
+      lat: 49.76167899400008
+      lng: 19.28657047100006
+    northEast:
+      lat: 49.88410328300006
+      lng: 19.445682687000044
+- slug: mucharz
+  name: Mucharz
+  type: town
+  voivodeship: malopolskie
+  lat: 49.81496
+  lon: 19.52631
+  lands:
+    beskid_maly: 99.9999
+    pogorze_wielickie: 0.0001
+  boundary:
+    southWest:
+      lat: 49.78701229100005
+      lng: 19.461040689000072
+    northEast:
+      lat: 49.848640448000026
+      lng: 19.594143983000038
+- slug: lanckorona
+  name: Lanckorona
+  type: town
+  voivodeship: malopolskie
+  lat: 49.85136
+  lon: 19.73897
+  lands:
+    pogorze_wielickie: 95.8184
+    beskid_makowski: 4.1816
+  boundary:
+    southWest:
+      lat: 49.80359947100004
+      lng: 19.68377035900005
+    northEast:
+      lat: 49.902551783000035
+      lng: 19.810345003000066
+- slug: krakow
+  name: Kraków
+  type: town
+  voivodeship: malopolskie
+  lat: 50.04579
+  lon: 19.99391
+  lands:
+    nizina_nadwislanska: 37.0435
+    pomost_krakowski: 35.3745
+    podgorze_krakowskie: 13.2811
+  boundary:
+    southWest:
+      lat: 49.96862752700008
+      lng: 19.79223816500007
+    northEast:
+      lat: 50.12398363500006
+      lng: 20.21734629100007
+- slug: borzecin
+  name: Borzęcin
+  type: town
+  voivodeship: malopolskie
+  lat: 50.06608
+  lon: 20.71188
+  lands:
+    podgorze_bochenskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.00361732700003
+      lng: 20.62683105700006
+    northEast:
+      lat: 50.12429194300006
+      lng: 20.798168773000043
+- slug: gnojnik
+  name: Gnojnik
+  type: town
+  voivodeship: malopolskie
+  lat: 49.89134
+  lon: 20.62476
+  lands:
+    pogorze_wisnickie: 99.921
+    pogorze_roznowskie: 0.079
+  boundary:
+    southWest:
+      lat: 49.85289348900005
+      lng: 20.553965248000054
+    northEast:
+      lat: 49.929925807000075
+      lng: 20.69798313000007
+- slug: michalowice
+  name: Michałowice
+  type: town
+  voivodeship: malopolskie
+  lat: 50.15397
+  lon: 20.00345
+  lands:
+    wyzyna_miechowska: 58.0479
+    wyzyna_olkuska: 31.3073
+    plaskowyz_proszowicki: 10.6447
+  boundary:
+    southWest:
+      lat: 50.10788540500005
+      lng: 19.92573812300003
+    northEast:
+      lat: 50.19719876000005
+      lng: 20.06188237200007
+- slug: kamienica
+  name: Kamienica
+  type: town
+  voivodeship: malopolskie
+  lat: 49.58548
+  lon: 20.29676
+  lands:
+    gorce: 61.533
+    beskid_wyspowy: 38.467
+  boundary:
+    southWest:
+      lat: 49.53413726100007
+      lng: 20.119493471000055
+    northEast:
+      lat: 49.64275655600005
+      lng: 20.385638063000044
+- slug: zakopane
+  name: Zakopane
+  type: town
+  voivodeship: malopolskie
+  lat: 49.28031
+  lon: 19.96895
+  lands:
+    bruzda_podtatrzanska: 34.3832
+    tatry_reglowe: 32.9335
+    tatry_zachodnie: 15.9108
+  boundary:
+    southWest:
+      lat: 49.219405333000054
+      lng: 19.900887854000075
+    northEast:
+      lat: 49.33261816900006
+      lng: 20.036391183000035
+- slug: jablonka
+  name: Jabłonka
+  type: town
+  voivodeship: malopolskie
+  lat: 49.51149
+  lon: 19.68615
+  lands:
+    kotlina_orawskonowotarska: 36.1705
+    dzialy_orawskie: 32.4428
+    pogorze_orawskojordanowskie: 23.1062
+  boundary:
+    southWest:
+      lat: 49.39092619400003
+      lng: 19.56880737800003
+    northEast:
+      lat: 49.62369887800003
+      lng: 19.77923699200005
+- slug: piwnicznazdroj
+  name: Piwniczna-Zdrój
+  type: town
+  voivodeship: malopolskie
+  lat: 49.43412
+  lon: 20.72784
+  lands:
+    beskid_sadecki: 88.9295
+  boundary:
+    southWest:
+      lat: 49.374904779000076
+      lng: 20.605093434000025
+    northEast:
+      lat: 49.49387669200007
+      lng: 20.873715102000062
+- slug: krynicazdroj
+  name: Krynica-Zdrój
+  type: town
+  voivodeship: malopolskie
+  lat: 49.44599
+  lon: 20.98196
+  lands:
+    beskid_sadecki: 46.4198
+    beskid_niski: 41.3305
+    pogorze_popradzkie: 11.7634
+  boundary:
+    southWest:
+      lat: 49.358477427000025
+      lng: 20.87483443900004
+    northEast:
+      lat: 49.53021937800003
+      lng: 21.104104333000066
+- slug: koszyce
+  name: Koszyce
+  type: town
+  voivodeship: malopolskie
+  lat: 50.17297
+  lon: 20.56324
+  lands:
+    plaskowyz_proszowicki: 79.5361
+    nizina_nadwislanska: 20.4639
+  boundary:
+    southWest:
+      lat: 50.13434227700003
+      lng: 20.476397621000046
+    northEast:
+      lat: 50.210732746000076
+      lng: 20.681538717000024
+- slug: dobczyce
+  name: Dobczyce
+  type: town
+  voivodeship: malopolskie
+  lat: 49.87438
+  lon: 20.09796
+  lands:
+    pogorze_wielickie: 53.6171
+    pogorze_wisnickie: 46.3829
+  boundary:
+    southWest:
+      lat: 49.82156407200006
+      lng: 20.015838906000056
+    northEast:
+      lat: 49.927235661000054
+      lng: 20.17565252600002
+- slug: raciechowice
+  name: Raciechowice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.83463
+  lon: 20.17222
+  lands:
+    pogorze_wisnickie: 93.2888
+    beskid_wyspowy: 6.7112
+  boundary:
+    southWest:
+      lat: 49.80076677000005
+      lng: 20.093197201000066
+    northEast:
+      lat: 49.87691562900005
+      lng: 20.246910134000075
+- slug: kamionka_wielka
+  name: Kamionka Wielka
+  type: town
+  voivodeship: malopolskie
+  lat: 49.58387
+  lon: 20.81746
+  lands:
+    beskid_niski: 100.0
+  boundary:
+    southWest:
+      lat: 49.539311705000046
+      lng: 20.74511268400005
+    northEast:
+      lat: 49.62225651500006
+      lng: 20.919163210000022
+- slug: lososina_dolna
+  name: Łososina Dolna
+  type: town
+  voivodeship: malopolskie
+  lat: 49.74455
+  lon: 20.64548
+  lands:
+    pogorze_roznowskie: 65.1605
+    beskid_wyspowy: 34.8395
+  boundary:
+    southWest:
+      lat: 49.684979199000054
+      lng: 20.525880450000045
+    northEast:
+      lat: 49.795171948000075
+      lng: 20.72158902600006
+- slug: olkusz
+  name: Olkusz
+  type: town
+  voivodeship: malopolskie
+  lat: 50.2687
+  lon: 19.59256
+  lands:
+    wyzyna_olkuska: 91.7962
+    kotlina_siewierza: 8.1661
+    wyzyna_czestochowska: 0.0377
+  boundary:
+    southWest:
+      lat: 50.18899918800008
+      lng: 19.492314066000063
+    northEast:
+      lat: 50.34607502500006
+      lng: 19.686026456000036
+- slug: bialy_dunajec
+  name: Biały Dunajec
+  type: town
+  voivodeship: malopolskie
+  lat: 49.36969
+  lon: 19.99841
+  lands:
+    pogorza_przedtatrzanskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.33493400400005
+      lng: 19.942159226000058
+    northEast:
+      lat: 49.39754894100008
+      lng: 20.075034524000046
+- slug: wadowice
+  name: Wadowice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.85611
+  lon: 19.50015
+  lands:
+    pogorze_wielickie: 49.5322
+    beskid_maly: 25.9324
+    pogorze_slaskie: 24.5354
+  boundary:
+    southWest:
+      lat: 49.795620676000055
+      lng: 19.41190208300003
+    northEast:
+      lat: 49.92409053400007
+      lng: 19.648100701000033
+- slug: biskupice
+  name: Biskupice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.96199
+  lon: 20.14585
+  lands:
+    podgorze_krakowskie: 52.7762
+    pogorze_wielickie: 47.2238
+  boundary:
+    southWest:
+      lat: 49.922170537000056
+      lng: 20.09094273000005
+    northEast:
+      lat: 49.99573683800003
+      lng: 20.19409048700004
+- slug: brzesko
+  name: Brzesko
+  type: town
+  voivodeship: malopolskie
+  lat: 49.9745
+  lon: 20.61253
+  lands:
+    podgorze_bochenskie: 56.3606
+    pogorze_wisnickie: 43.6394
+  boundary:
+    southWest:
+      lat: 49.91595741000003
+      lng: 20.523501054000064
+    northEast:
+      lat: 50.05366175000006
+      lng: 20.723221542000033
+- slug: bochnia
+  name: Bochnia
+  type: town
+  voivodeship: malopolskie
+  lat: 49.99122
+  lon: 20.38218
+  lands:
+    podgorze_bochenskie: 49.5049
+    pogorze_wisnickie: 40.6364
+    nizina_nadwislanska: 5.2134
+  boundary:
+    southWest:
+      lat: 49.88135149800007
+      lng: 20.30709403000003
+    northEast:
+      lat: 50.10392292800003
+      lng: 20.534010972000033
+- slug: boleslaw
+  name: Bolesław
+  type: town
+  voivodeship: malopolskie
+  lat: 50.27203
+  lon: 20.87426
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.23715568500006
+      lng: 20.830355904000044
+    northEast:
+      lat: 50.306684405000055
+      lng: 20.931143192000036
+- slug: bobowa
+  name: Bobowa
+  type: town
+  voivodeship: malopolskie
+  lat: 49.71137
+  lon: 20.94503
+  lands:
+    pogorze_ciezkowickie: 63.983
+    pogorze_roznowskie: 36.017
+  boundary:
+    southWest:
+      lat: 49.66696744500007
+      lng: 20.88242651300004
+    northEast:
+      lat: 49.74744376000007
+      lng: 21.008763785000042
+- slug: iwanowice
+  name: Iwanowice
+  type: town
+  voivodeship: malopolskie
+  lat: 50.23251
+  lon: 19.97704
+  lands:
+    wyzyna_miechowska: 51.8336
+    wyzyna_olkuska: 48.1664
+  boundary:
+    southWest:
+      lat: 50.17300653800004
+      lng: 19.91395406600003
+    northEast:
+      lat: 50.28231793900005
+      lng: 20.033874194000077
+- slug: igolomiawawrzenczyce
+  name: Igołomia-Wawrzeńczyce
+  type: town
+  voivodeship: malopolskie
+  lat: 50.10414
+  lon: 20.27083
+  lands:
+    nizina_nadwislanska: 65.8383
+    plaskowyz_proszowicki: 34.1617
+  boundary:
+    southWest:
+      lat: 50.05343460200004
+      lng: 20.18978344900006
+    northEast:
+      lat: 50.15853350200007
+      lng: 20.353766045000043
+- slug: jerzmanowiceprzeginia
+  name: Jerzmanowice-Przeginia
+  type: town
+  voivodeship: malopolskie
+  lat: 50.21547
+  lon: 19.73181
+  lands:
+    wyzyna_olkuska: 100.0
+  boundary:
+    southWest:
+      lat: 50.16169997800006
+      lng: 19.648141725000073
+    northEast:
+      lat: 50.26198668500007
+      lng: 19.809154075000038
+- slug: jodlownik
+  name: Jodłownik
+  type: town
+  voivodeship: malopolskie
+  lat: 49.78954
+  lon: 20.23337
+  lands:
+    pogorze_wisnickie: 74.7937
+    beskid_wyspowy: 25.2063
+  boundary:
+    southWest:
+      lat: 49.73739649000004
+      lng: 20.142683929000043
+    northEast:
+      lat: 49.82950343300007
+      lng: 20.318366861000072
+- slug: lukowica
+  name: Łukowica
+  type: town
+  voivodeship: malopolskie
+  lat: 49.625
+  lon: 20.45251
+  lands:
+    kotlina_sadecka: 50.3899
+    beskid_wyspowy: 49.6101
+  boundary:
+    southWest:
+      lat: 49.578712487000075
+      lng: 20.375870835000057
+    northEast:
+      lat: 49.66821228400005
+      lng: 20.55099104900006
+- slug: spytkowice
+  name: Spytkowice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.57182
+  lon: 19.80384
+  lands:
+    pogorze_orawskojordanowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.54478512800006
+      lng: 19.75145653000004
+    northEast:
+      lat: 49.59930424100003
+      lng: 19.87495022400003
+- slug: koscielisko
+  name: Kościelisko
+  type: town
+  voivodeship: malopolskie
+  lat: 49.27545
+  lon: 19.86006
+  lands:
+    tatry_zachodnie: 42.4818
+    pogorza_przedtatrzanskie: 31.4432
+    tatry_reglowe: 15.5027
+  boundary:
+    southWest:
+      lat: 49.19506680600006
+      lng: 19.76310563900006
+    northEast:
+      lat: 49.35412715700005
+      lng: 19.932217750000063
+- slug: kroscienko_nad_dunajcem
+  name: Krościenko nad Dunajcem
+  type: town
+  voivodeship: malopolskie
+  lat: 49.45149
+  lon: 20.39566
+  lands:
+    gorce: 52.3347
+    pieniny: 26.5357
+    beskid_sadecki: 21.0938
+  boundary:
+    southWest:
+      lat: 49.41633236100006
+      lng: 20.322480737000035
+    northEast:
+      lat: 49.49025757900006
+      lng: 20.47424587100005
+- slug: kozlow
+  name: Kozłów
+  type: town
+  voivodeship: malopolskie
+  lat: 50.47508
+  lon: 20.00746
+  lands:
+    wyzyna_miechowska: 96.8752
+    garb_wodzislawski: 2.6839
+    plaskowyz_jedrzejowski: 0.4408
+  boundary:
+    southWest:
+      lat: 50.428590264000036
+      lng: 19.892077314000062
+    northEast:
+      lat: 50.51976914100004
+      lng: 20.113807574000077
+- slug: siepraw
+  name: Siepraw
+  type: town
+  voivodeship: malopolskie
+  lat: 49.90116
+  lon: 19.99818
+  lands:
+    pogorze_wielickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.87183507000003
+      lng: 19.929958784000064
+    northEast:
+      lat: 49.93152283500007
+      lng: 20.047073686000033
+- slug: grodek_nad_dunajcem
+  name: Gródek nad Dunajcem
+  type: town
+  voivodeship: malopolskie
+  lat: 49.75119
+  lon: 20.76826
+  lands:
+    pogorze_roznowskie: 100.0
+  boundary:
+    southWest:
+      lat: 49.69413741900007
+      lng: 20.646158266000043
+    northEast:
+      lat: 49.80685115300008
+      lng: 20.822526711000023
+- slug: klucze
+  name: Klucze
+  type: town
+  voivodeship: malopolskie
+  lat: 50.36463
+  lon: 19.56272
+  lands:
+    wyzyna_czestochowska: 59.3494
+    kotlina_siewierza: 21.1837
+    wyzyna_olkuska: 19.4669
+  boundary:
+    southWest:
+      lat: 50.31056635900006
+      lng: 19.459388532000048
+    northEast:
+      lat: 50.42023886100003
+      lng: 19.682812268000077
+- slug: zator
+  name: Zator
+  type: town
+  voivodeship: malopolskie
+  lat: 49.97931
+  lon: 19.43219
+  lands:
+    dolina_gornej_wisly: 84.2267
+    pogorze_wielickie: 13.287
+    pogorze_slaskie: 2.2856
+  boundary:
+    southWest:
+      lat: 49.93655751300008
+      lng: 19.390465819000042
+    northEast:
+      lat: 50.03937283500005
+      lng: 19.510290492000024
+- slug: jordanow
+  name: Jordanów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.65097
+  lon: 19.83712
+  lands:
+    pogorze_orawskojordanowskie: 77.1264
+    beskid_makowski: 22.8736
+  boundary:
+    southWest:
+      lat: 49.62200369900006
+      lng: 19.798274486000025
+    northEast:
+      lat: 49.67844740800007
+      lng: 19.876105348000067
+- slug: bystrasidzina
+  name: Bystra-Sidzina
+  type: town
+  voivodeship: malopolskie
+  lat: 49.62147
+  lon: 19.69043
+  lands:
+    pogorze_orawskojordanowskie: 68.3975
+    beskid_zywieckoorawski: 30.3043
+    beskid_makowski: 1.2982
+  boundary:
+    southWest:
+      lat: 49.57155042200003
+      lng: 19.619281975000035
+    northEast:
+      lat: 49.66987508700004
+      lng: 19.809894977000056
+- slug: budzow
+  name: Budzów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.78263
+  lon: 19.7211
+  lands:
+    beskid_makowski: 94.8855
+    pogorze_wielickie: 5.1145
+  boundary:
+    southWest:
+      lat: 49.738759550000054
+      lng: 19.61726229900006
+    northEast:
+      lat: 49.83058807100008
+      lng: 19.804491299000063
+- slug: polanka_wielka
+  name: Polanka Wielka
+  type: town
+  voivodeship: malopolskie
+  lat: 49.97958
+  lon: 19.30418
+  lands:
+    podgorze_wilamowickie: 85.5259
+    dolina_gornej_wisly: 14.4741
+  boundary:
+    southWest:
+      lat: 49.95959869400008
+      lng: 19.257141063000063
+    northEast:
+      lat: 50.00307492300004
+      lng: 19.35458844900006
+- slug: makow_podhalanski
+  name: Maków Podhalański
+  type: town
+  voivodeship: malopolskie
+  lat: 49.70059
+  lon: 19.66736
+  lands:
+    beskid_makowski: 53.8103
+    beskid_zywieckoorawski: 46.1897
+  boundary:
+    southWest:
+      lat: 49.640999785000076
+      lng: 19.57209791100007
+    northEast:
+      lat: 49.76150674000007
+      lng: 19.790744398000072
+- slug: zembrzyce
+  name: Zembrzyce
+  type: town
+  voivodeship: malopolskie
+  lat: 49.77604
+  lon: 19.57272
+  lands:
+    pasma_pewelskokrzeczowskie: 38.4118
+    beskid_maly: 36.8619
+    beskid_makowski: 24.7262
+  boundary:
+    southWest:
+      lat: 49.75430390300005
+      lng: 19.448526069000025
+    northEast:
+      lat: 49.79861404600007
+      lng: 19.647083071000054
+- slug: skrzyszow
+  name: Skrzyszów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.9963
+  lon: 21.08826
+  lands:
+    pogorze_ciezkowickie: 50.6393
+    plaskowyz_tarnowski: 49.3607
+  boundary:
+    southWest:
+      lat: 49.93182766400008
+      lng: 21.01668197500004
+    northEast:
+      lat: 50.04698814600005
+      lng: 21.19290646500008
+- slug: wierzchoslawice
+  name: Wierzchosławice
+  type: town
+  voivodeship: malopolskie
+  lat: 50.01632
+  lon: 20.84746
+  lands:
+    podgorze_bochenskie: 54.7077
+    nizina_nadwislanska: 45.2923
+  boundary:
+    southWest:
+      lat: 49.97450702500004
+      lng: 20.754949515000078
+    northEast:
+      lat: 50.07442328700006
+      lng: 20.915882853000028
+- slug: zabno
+  name: Żabno
+  type: town
+  voivodeship: malopolskie
+  lat: 50.1406
+  lon: 20.90218
+  lands:
+    nizina_nadwislanska: 86.197
+    plaskowyz_tarnowski: 13.803
+  boundary:
+    southWest:
+      lat: 50.05040760800006
+      lng: 20.749132044000078
+    northEast:
+      lat: 50.22214414500007
+      lng: 20.964053079000053
+- slug: tarnow
+  name: Tarnów
+  type: town
+  voivodeship: malopolskie
+  lat: 50.03156
+  lon: 20.96987
+  lands:
+    nizina_nadwislanska: 51.5887
+    plaskowyz_tarnowski: 45.2621
+    pogorze_ciezkowickie: 3.1492
+  boundary:
+    southWest:
+      lat: 49.98819605300008
+      lng: 20.893615812000064
+    northEast:
+      lat: 50.06653003500003
+      lng: 21.062343464000037
+- slug: wieliczka
+  name: Wieliczka
+  type: town
+  voivodeship: malopolskie
+  lat: 49.97577
+  lon: 20.04969
+  lands:
+    pogorze_wielickie: 58.0205
+    podgorze_krakowskie: 26.9329
+    nizina_nadwislanska: 15.043
+  boundary:
+    southWest:
+      lat: 49.90909585400004
+      lng: 19.96343509600007
+    northEast:
+      lat: 50.04301056500003
+      lng: 20.15395767900003
+- slug: debno
+  name: Dębno
+  type: town
+  voivodeship: malopolskie
+  lat: 49.94472
+  lon: 20.71598
+  lands:
+    pogorze_wisnickie: 69.4345
+    podgorze_bochenskie: 30.5655
+  boundary:
+    southWest:
+      lat: 49.88132955000003
+      lng: 20.642657711000027
+    northEast:
+      lat: 50.00739248300005
+      lng: 20.787202630000024
+- slug: szczurowa
+  name: Szczurowa
+  type: town
+  voivodeship: malopolskie
+  lat: 50.12246
+  lon: 20.60054
+  lands:
+    nizina_nadwislanska: 66.7285
+    podgorze_bochenskie: 33.2715
+  boundary:
+    southWest:
+      lat: 50.04133766800004
+      lng: 20.500525493000055
+    northEast:
+      lat: 50.200803722000046
+      lng: 20.759320805000073
+- slug: nowy_wisnicz
+  name: Nowy Wiśnicz
+  type: town
+  voivodeship: malopolskie
+  lat: 49.89788
+  lon: 20.48909
+  lands:
+    pogorze_wisnickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.840848522000044
+      lng: 20.380460495000023
+    northEast:
+      lat: 49.95204661100007
+      lng: 20.56648423200005
+- slug: lapanow
+  name: Łapanów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.85623
+  lon: 20.28423
+  lands:
+    pogorze_wisnickie: 99.8867
+    pogorze_wielickie: 0.1133
+  boundary:
+    southWest:
+      lat: 49.80633740400003
+      lng: 20.232496983000033
+    northEast:
+      lat: 49.91886780600004
+      lng: 20.37805915900003
+- slug: rzezawa
+  name: Rzezawa
+  type: town
+  voivodeship: malopolskie
+  lat: 50.0174
+  lon: 20.53242
+  lands:
+    podgorze_bochenskie: 91.307
+    pogorze_wisnickie: 8.4593
+    nizina_nadwislanska: 0.2337
+  boundary:
+    southWest:
+      lat: 49.95387456800006
+      lng: 20.459257026000046
+    northEast:
+      lat: 50.08196771200005
+      lng: 20.63101253600007
+- slug: dabrowa_tarnowska
+  name: Dąbrowa Tarnowska
+  type: town
+  voivodeship: malopolskie
+  lat: 50.17882
+  lon: 21.02469
+  lands:
+    plaskowyz_tarnowski: 92.7262
+    nizina_nadwislanska: 7.2738
+  boundary:
+    southWest:
+      lat: 50.10663564400005
+      lng: 20.93197728800004
+    northEast:
+      lat: 50.25099344700004
+      lng: 21.11086802600005
+- slug: szczucin
+  name: Szczucin
+  type: town
+  voivodeship: malopolskie
+  lat: 50.29476
+  lon: 21.09626
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.23456801800006
+      lng: 20.991629318000037
+    northEast:
+      lat: 50.35489777200007
+      lng: 21.222636030000047
+- slug: moszczenica
+  name: Moszczenica
+  type: town
+  voivodeship: malopolskie
+  lat: 49.73338
+  lon: 21.09707
+  lands:
+    pogorze_ciezkowickie: 92.0701
+    obnizenie_gorlickie: 7.9299
+  boundary:
+    southWest:
+      lat: 49.69523486700007
+      lng: 21.003660901000046
+    northEast:
+      lat: 49.77024826500008
+      lng: 21.14097596000005
+- slug: suloszowa
+  name: Sułoszowa
+  type: town
+  voivodeship: malopolskie
+  lat: 50.26015
+  lon: 19.76387
+  lands:
+    wyzyna_olkuska: 100.0
+  boundary:
+    southWest:
+      lat: 50.221037197000044
+      lng: 19.672944545000064
+    northEast:
+      lat: 50.299519574000044
+      lng: 19.834174405000056
+- slug: wielka_wies
+  name: Wielka Wieś
+  type: town
+  voivodeship: malopolskie
+  lat: 50.15339
+  lon: 19.84495
+  lands:
+    wyzyna_olkuska: 83.0255
+    row_krzeszowicki: 11.0744
+    pomost_krakowski: 5.9
+  boundary:
+    southWest:
+      lat: 50.10174347000003
+      lng: 19.721631523000042
+    northEast:
+      lat: 50.19990629200004
+      lng: 19.895921869000063
+- slug: dobra
+  name: Dobra
+  type: town
+  voivodeship: malopolskie
+  lat: 49.69105
+  lon: 20.23461
+  lands:
+    beskid_wyspowy: 96.3916
+    pogorze_wisnickie: 3.4223
+    gorce: 0.1861
+  boundary:
+    southWest:
+      lat: 49.62032576000007
+      lng: 20.12713659700006
+    northEast:
+      lat: 49.77359938700005
+      lng: 20.290817316000073
+- slug: mszana_dolna
+  name: Mszana Dolna
+  type: town
+  voivodeship: malopolskie
+  lat: 49.67897
+  lon: 20.07292
+  lands:
+    beskid_wyspowy: 94.7585
+    gorce: 5.2415
+  boundary:
+    southWest:
+      lat: 49.65000553500005
+      lng: 20.027990531000057
+    northEast:
+      lat: 49.71269382500003
+      lng: 20.131032978000064
+- slug: niedzwiedz
+  name: Niedźwiedź
+  type: town
+  voivodeship: malopolskie
+  lat: 49.5958
+  lon: 20.10013
+  lands:
+    gorce: 99.9998
+    beskid_wyspowy: 0.0002
+  boundary:
+    southWest:
+      lat: 49.54451947900003
+      lng: 20.03692555300006
+    northEast:
+      lat: 49.65085363600008
+      lng: 20.17420983900007
+- slug: tymbark
+  name: Tymbark
+  type: town
+  voivodeship: malopolskie
+  lat: 49.72943
+  lon: 20.31425
+  lands:
+    beskid_wyspowy: 100.0
+  boundary:
+    southWest:
+      lat: 49.698654874000056
+      lng: 20.24946036500006
+    northEast:
+      lat: 49.760503063000044
+      lng: 20.370341540000027
+- slug: czarny_dunajec
+  name: Czarny Dunajec
+  type: town
+  voivodeship: malopolskie
+  lat: 49.42779
+  lon: 19.85928
+  lands:
+    kotlina_orawskonowotarska: 47.095
+    pogorza_przedtatrzanskie: 30.0473
+    pogorze_orawskojordanowskie: 22.8257
+  boundary:
+    southWest:
+      lat: 49.32727412100007
+      lng: 19.739154045000078
+    northEast:
+      lat: 49.531327934000046
+      lng: 19.954360964000045
+- slug: uscie_gorlickie
+  name: Uście Gorlickie
+  type: town
+  voivodeship: malopolskie
+  lat: 49.49217
+  lon: 21.17278
+  lands:
+    beskid_niski: 99.6633
+  boundary:
+    southWest:
+      lat: 49.40099075000006
+      lng: 20.998838594000063
+    northEast:
+      lat: 49.57871073500007
+      lng: 21.348194758000034
+- slug: alwernia
+  name: Alwernia
+  type: town
+  voivodeship: malopolskie
+  lat: 50.06569
+  lon: 19.53327
+  lands:
+    garb_tenczynski: 84.0127
+    row_krzeszowicki: 8.7997
+    dolina_gornej_wisly: 5.9609
+  boundary:
+    southWest:
+      lat: 50.01205340800004
+      lng: 19.462761319000037
+    northEast:
+      lat: 50.118435109000075
+      lng: 19.627064690000054
+- slug: ksiaz_wielki
+  name: Książ Wielki
+  type: town
+  voivodeship: malopolskie
+  lat: 50.44419
+  lon: 20.1689
+  lands:
+    wyzyna_miechowska: 70.8248
+    garb_wodzislawski: 29.1752
+  boundary:
+    southWest:
+      lat: 50.39297145000006
+      lng: 19.991206474000023
+    northEast:
+      lat: 50.49559564900005
+      lng: 20.27286807400003
+- slug: rytro
+  name: Rytro
+  type: town
+  voivodeship: malopolskie
+  lat: 49.47235
+  lon: 20.63081
+  lands:
+    beskid_sadecki: 100.0
+  boundary:
+    southWest:
+      lat: 49.439356101000044
+      lng: 20.57156493100007
+    northEast:
+      lat: 49.51051911400003
+      lng: 20.732426463000024
+- slug: szaflary
+  name: Szaflary
+  type: town
+  voivodeship: malopolskie
+  lat: 49.42147
+  lon: 19.992
+  lands:
+    pogorza_przedtatrzanskie: 87.5551
+    kotlina_orawskonowotarska: 12.4449
+  boundary:
+    southWest:
+      lat: 49.37451072700003
+      lng: 19.920194164000065
+    northEast:
+      lat: 49.46072454200004
+      lng: 20.064611783000032
+- slug: trzyciaz
+  name: Trzyciąż
+  type: town
+  voivodeship: malopolskie
+  lat: 50.30476
+  lon: 19.79061
+  lands:
+    wyzyna_olkuska: 99.9779
+    wyzyna_miechowska: 0.0221
+  boundary:
+    southWest:
+      lat: 50.25679678600005
+      lng: 19.672944545000064
+    northEast:
+      lat: 50.34569348100007
+      lng: 19.92094654400006
+- slug: osiek
+  name: Osiek
+  type: town
+  voivodeship: malopolskie
+  lat: 49.95006
+  lon: 19.28793
+  lands:
+    podgorze_wilamowickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.91938322300007
+      lng: 19.218382633000033
+    northEast:
+      lat: 49.975021155000036
+      lng: 19.35649562800006
+- slug: oswiecim
+  name: Oświęcim
+  type: town
+  voivodeship: malopolskie
+  lat: 50.035
+  lon: 19.26143
+  lands:
+    dolina_gornej_wisly: 100.0
+  boundary:
+    southWest:
+      lat: 50.01559631600003
+      lng: 19.18464774200004
+    northEast:
+      lat: 50.05734856500004
+      lng: 19.334388656000044
+- slug: kety
+  name: Kęty
+  type: town
+  voivodeship: malopolskie
+  lat: 49.90352
+  lon: 19.24821
+  lands:
+    podgorze_wilamowickie: 95.6296
+    dolina_gornej_wisly: 3.6302
+    pogorze_slaskie: 0.7402
+  boundary:
+    southWest:
+      lat: 49.85055320600003
+      lng: 19.157070030000057
+    northEast:
+      lat: 49.96948243000003
+      lng: 19.316134702000056
+- slug: tuchow
+  name: Tuchów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.89357
+  lon: 21.03336
+  lands:
+    pogorze_ciezkowickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.81072855100007
+      lng: 20.96391163800007
+    northEast:
+      lat: 49.96228478900008
+      lng: 21.132857869000077
+- slug: ciezkowice
+  name: Ciężkowice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.77413
+  lon: 20.9493
+  lands:
+    pogorze_roznowskie: 68.8419
+    pogorze_ciezkowickie: 31.1581
+  boundary:
+    southWest:
+      lat: 49.73178195200006
+      lng: 20.828357693000044
+    northEast:
+      lat: 49.81945352400004
+      lng: 21.04379847000007
+- slug: wieprz
+  name: Wieprz
+  type: town
+  voivodeship: malopolskie
+  lat: 49.91494
+  lon: 19.37815
+  lands:
+    podgorze_wilamowickie: 58.9318
+    pogorze_slaskie: 40.4763
+    dolina_gornej_wisly: 0.5918
+  boundary:
+    southWest:
+      lat: 49.861361962000046
+      lng: 19.298335937000047
+    northEast:
+      lat: 49.961399336000056
+      lng: 19.452301668000075
+- slug: bochnia
+  name: Bochnia
+  type: town
+  voivodeship: malopolskie
+  lat: 49.97684
+  lon: 20.42651
+  lands:
+    pogorze_wisnickie: 60.268
+    podgorze_bochenskie: 39.732
+  boundary:
+    southWest:
+      lat: 49.93909565600006
+      lng: 20.38788216100005
+    northEast:
+      lat: 50.01073216300006
+      lng: 20.47244604200006
+- slug: gorlice
+  name: Gorlice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.66405
+  lon: 21.15312
+  lands:
+    obnizenie_gorlickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.63486878200007
+      lng: 21.119643067000027
+    northEast:
+      lat: 49.69204096000004
+      lng: 21.202145315000053
+- slug: lipinki
+  name: Lipinki
+  type: town
+  voivodeship: malopolskie
+  lat: 49.65668
+  lon: 21.28881
+  lands:
+    beskid_niski: 45.9181
+    obnizenie_gorlickie: 38.4667
+    pogorze_jasielskie: 15.6152
+  boundary:
+    southWest:
+      lat: 49.60060119800005
+      lng: 21.230796739000027
+    northEast:
+      lat: 49.71721794600006
+      lng: 21.36267338300007
+- slug: ropa
+  name: Ropa
+  type: town
+  voivodeship: malopolskie
+  lat: 49.57219
+  lon: 21.07135
+  lands:
+    beskid_niski: 100.0
+  boundary:
+    southWest:
+      lat: 49.52716113500003
+      lng: 21.00002905300005
+    northEast:
+      lat: 49.619860576000065
+      lng: 21.125489279000078
+- slug: krzeszowice
+  name: Krzeszowice
+  type: town
+  voivodeship: malopolskie
+  lat: 50.13121
+  lon: 19.60702
+  lands:
+    wyzyna_olkuska: 42.7169
+    row_krzeszowicki: 29.6514
+    garb_tenczynski: 27.6317
+  boundary:
+    southWest:
+      lat: 50.06208884700004
+      lng: 19.525301951000074
+    northEast:
+      lat: 50.20073152900005
+      lng: 19.716434634000052
+- slug: skala
+  name: Skała
+  type: town
+  voivodeship: malopolskie
+  lat: 50.22932
+  lon: 19.8751
+  lands:
+    wyzyna_olkuska: 100.0
+  boundary:
+    southWest:
+      lat: 50.172737761000064
+      lng: 19.78716341100005
+    northEast:
+      lat: 50.27606640800008
+      lng: 19.933365550000076
+- slug: skawina
+  name: Skawina
+  type: town
+  voivodeship: malopolskie
+  lat: 49.93769
+  lon: 19.78104
+  lands:
+    pogorze_wielickie: 53.6666
+    row_skawinski: 34.7612
+    podgorze_krakowskie: 11.5722
+  boundary:
+    southWest:
+      lat: 49.88518923700008
+      lng: 19.652265234000026
+    northEast:
+      lat: 49.99699434300004
+      lng: 19.86882679400003
+- slug: zabierzow
+  name: Zabierzów
+  type: town
+  voivodeship: malopolskie
+  lat: 50.12162
+  lon: 19.7595
+  lands:
+    row_krzeszowicki: 43.7282
+    garb_tenczynski: 31.2987
+    wyzyna_olkuska: 15.2569
+  boundary:
+    southWest:
+      lat: 50.06226611400007
+      lng: 19.668020555000055
+    northEast:
+      lat: 50.177446100000054
+      lng: 19.864337135000028
+- slug: czorsztyn
+  name: Czorsztyn
+  type: town
+  voivodeship: malopolskie
+  lat: 49.45013
+  lon: 20.28469
+  lands:
+    gorce: 59.0458
+    pieniny: 30.1435
+    kotlina_orawskonowotarska: 9.9734
+  boundary:
+    southWest:
+      lat: 49.39102430600008
+      lng: 20.22363764800002
+    northEast:
+      lat: 49.496920233000026
+      lng: 20.432111433000046
+- slug: charsznica
+  name: Charsznica
+  type: town
+  voivodeship: malopolskie
+  lat: 50.40106
+  lon: 19.91665
+  lands:
+    wyzyna_miechowska: 100.0
+  boundary:
+    southWest:
+      lat: 50.354700910000076
+      lng: 19.842493090000062
+    northEast:
+      lat: 50.456971886000076
+      lng: 20.001691094000023
+- slug: tokarnia
+  name: Tokarnia
+  type: town
+  voivodeship: malopolskie
+  lat: 49.73688
+  lon: 19.87415
+  lands:
+    beskid_makowski: 84.0376
+    beskid_wyspowy: 15.9624
+  boundary:
+    southWest:
+      lat: 49.704488971000046
+      lng: 19.772164418000045
+    northEast:
+      lat: 49.77373044800004
+      lng: 19.96039016000003
+- slug: sulkowice
+  name: Sułkowice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.84238
+  lon: 19.82103
+  lands:
+    pogorze_wielickie: 79.1648
+    beskid_makowski: 20.8352
+  boundary:
+    southWest:
+      lat: 49.78622272200005
+      lng: 19.74304969900004
+    northEast:
+      lat: 49.90618403500008
+      lng: 19.873182601000053
+- slug: lacko
+  name: Łącko
+  type: town
+  voivodeship: malopolskie
+  lat: 49.54513
+  lon: 20.466
+  lands:
+    beskid_sadecki: 38.8386
+    beskid_wyspowy: 33.4746
+    kotlina_sadecka: 23.7823
+  boundary:
+    southWest:
+      lat: 49.46650308100004
+      lng: 20.36201576600007
+    northEast:
+      lat: 49.62123689800006
+      lng: 20.567957659000058
+- slug: nawojowa
+  name: Nawojowa
+  type: town
+  voivodeship: malopolskie
+  lat: 49.52964
+  lon: 20.74141
+  lands:
+    beskid_sadecki: 72.053
+    beskid_niski: 17.1515
+    kotlina_sadecka: 10.7956
+  boundary:
+    southWest:
+      lat: 49.48063526900006
+      lng: 20.68009393500006
+    northEast:
+      lat: 49.57658434100006
+      lng: 20.821749015000023
+- slug: nowy_targ
+  name: Nowy Targ
+  type: town
+  voivodeship: malopolskie
+  lat: 49.49494
+  lon: 20.0262
+  lands:
+    gorce: 50.989
+    kotlina_orawskonowotarska: 49.011
+  boundary:
+    southWest:
+      lat: 49.44403734500003
+      lng: 19.982508847000076
+    northEast:
+      lat: 49.53383711200007
+      lng: 20.090729856000053
+- slug: proszowice
+  name: Proszowice
+  type: town
+  voivodeship: malopolskie
+  lat: 50.20345
+  lon: 20.3294
+  lands:
+    plaskowyz_proszowicki: 99.7668
+    wyzyna_miechowska: 0.2332
+  boundary:
+    southWest:
+      lat: 50.154349628000034
+      lng: 20.24315272900003
+    northEast:
+      lat: 50.25773978800004
+      lng: 20.500025944000072
+- slug: palecznica
+  name: Pałecznica
+  type: town
+  voivodeship: malopolskie
+  lat: 50.27288
+  lon: 20.30232
+  lands:
+    plaskowyz_proszowicki: 95.8021
+    wyzyna_miechowska: 4.1979
+  boundary:
+    southWest:
+      lat: 50.234229612000036
+      lng: 20.254554244000076
+    northEast:
+      lat: 50.32219867900005
+      lng: 20.356906697000056
+- slug: radziemice
+  name: Radziemice
+  type: town
+  voivodeship: malopolskie
+  lat: 50.26611
+  lon: 20.19761
+  lands:
+    wyzyna_miechowska: 86.8022
+    plaskowyz_proszowicki: 13.1978
+  boundary:
+    southWest:
+      lat: 50.22445361600006
+      lng: 20.12620129900006
+    northEast:
+      lat: 50.30274563800003
+      lng: 20.27730044900005
+- slug: brzeszcze
+  name: Brzeszcze
+  type: town
+  voivodeship: malopolskie
+  lat: 49.98196
+  lon: 19.16107
+  lands:
+    dolina_gornej_wisly: 99.5843
+    podgorze_wilamowickie: 0.3728
+    pogorze_slaskie: 0.0429
+  boundary:
+    southWest:
+      lat: 49.938850907000074
+      lng: 19.093209873000035
+    northEast:
+      lat: 50.01695267500003
+      lng: 19.210255295000024
+- slug: ryglice
+  name: Ryglice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.89856
+  lon: 21.1892
+  lands:
+    pogorze_ciezkowickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.84317084600008
+      lng: 21.081590739000035
+    northEast:
+      lat: 49.946638962000065
+      lng: 21.28817580900005
+- slug: wietrzychowice
+  name: Wietrzychowice
+  type: town
+  voivodeship: malopolskie
+  lat: 50.19193
+  lon: 20.73635
+  lands:
+    nizina_nadwislanska: 94.557
+    podgorze_bochenskie: 5.443
+  boundary:
+    southWest:
+      lat: 50.14570435200005
+      lng: 20.681533943000034
+    northEast:
+      lat: 50.24275255100008
+      lng: 20.80828646200007
+- slug: niepolomice
+  name: Niepołomice
+  type: town
+  voivodeship: malopolskie
+  lat: 50.03916
+  lon: 20.23392
+  lands:
+    nizina_nadwislanska: 71.4722
+    podgorze_krakowskie: 14.542
+    podgorze_bochenskie: 13.9858
+  boundary:
+    southWest:
+      lat: 49.97461443100008
+      lng: 20.116823382000064
+    northEast:
+      lat: 50.09992027700008
+      lng: 20.366086980000034
+- slug: gdow
+  name: Gdów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.92837
+  lon: 20.24125
+  lands:
+    pogorze_wielickie: 51.6576
+    podgorze_krakowskie: 27.4823
+    pogorze_wisnickie: 20.8601
+  boundary:
+    southWest:
+      lat: 49.86355815100006
+      lng: 20.110057507000022
+    northEast:
+      lat: 49.988278293000064
+      lng: 20.311180971000056
+- slug: czchow
+  name: Czchów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.84496
+  lon: 20.64577
+  lands:
+    pogorze_roznowskie: 66.4627
+    pogorze_wisnickie: 33.5373
+  boundary:
+    southWest:
+      lat: 49.78923315900005
+      lng: 20.575777370000026
+    northEast:
+      lat: 49.89783683500008
+      lng: 20.736199886000065
+- slug: lipnica_murowana
+  name: Lipnica Murowana
+  type: town
+  voivodeship: malopolskie
+  lat: 49.84361
+  lon: 20.52274
+  lands:
+    pogorze_wisnickie: 60.3474
+    pogorze_roznowskie: 34.1068
+    beskid_wyspowy: 5.5458
+  boundary:
+    southWest:
+      lat: 49.79745660800006
+      lng: 20.458431080000025
+    northEast:
+      lat: 49.89421144200003
+      lng: 20.578520625000067
+- slug: chrzanow
+  name: Chrzanów
+  type: town
+  voivodeship: malopolskie
+  lat: 50.13851
+  lon: 19.36653
+  lands:
+    row_krzeszowicki: 49.9858
+    garb_tenczynski: 29.5671
+    pagory_jaworznickie: 20.4471
+  boundary:
+    southWest:
+      lat: 50.078752293000036
+      lng: 19.275217805000068
+    northEast:
+      lat: 50.19991522200007
+      lng: 19.499409264000064
+- slug: trzebinia
+  name: Trzebinia
+  type: town
+  voivodeship: malopolskie
+  lat: 50.16797
+  lon: 19.48488
+  lands:
+    wyzyna_olkuska: 53.0448
+    row_krzeszowicki: 27.1788
+    pagory_jaworznickie: 16.5867
+  boundary:
+    southWest:
+      lat: 50.10401347000004
+      lng: 19.387431950000064
+    northEast:
+      lat: 50.22913497400003
+      lng: 19.588696302000074
+- slug: greboszow
+  name: Gręboszów
+  type: town
+  voivodeship: malopolskie
+  lat: 50.2479
+  lon: 20.78348
+  lands:
+    nizina_nadwislanska: 100.0
+  boundary:
+    southWest:
+      lat: 50.20956144000007
+      lng: 20.727987495000036
+    northEast:
+      lat: 50.28958229500006
+      lng: 20.83974162000004
+- slug: luzna
+  name: Łużna
+  type: town
+  voivodeship: malopolskie
+  lat: 49.69851
+  lon: 21.05975
+  lands:
+    obnizenie_gorlickie: 41.3981
+    pogorze_ciezkowickie: 39.1041
+    beskid_niski: 19.4978
+  boundary:
+    southWest:
+      lat: 49.649255477000054
+      lng: 20.99056125000004
+    northEast:
+      lat: 49.74535343400004
+      lng: 21.131381712000064
+- slug: gorlice
+  name: Gorlice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.65689
+  lon: 21.09813
+  lands:
+    beskid_niski: 52.821
+    obnizenie_gorlickie: 36.3747
+    pogorze_ciezkowickie: 10.8044
+  boundary:
+    southWest:
+      lat: 49.577486402000034
+      lng: 21.047131291000028
+    northEast:
+      lat: 49.73419237200005
+      lng: 21.25250287700004
+- slug: slomniki
+  name: Słomniki
+  type: town
+  voivodeship: malopolskie
+  lat: 50.25118
+  lon: 20.07498
+  lands:
+    wyzyna_miechowska: 100.0
+  boundary:
+    southWest:
+      lat: 50.185548838000045
+      lng: 19.99509507500005
+    northEast:
+      lat: 50.30569880500008
+      lng: 20.176867573000038
+- slug: mszana_dolna
+  name: Mszana Dolna
+  type: town
+  voivodeship: malopolskie
+  lat: 49.6522
+  lon: 20.13392
+  lands:
+    beskid_wyspowy: 63.1221
+    gorce: 31.3865
+    beskid_makowski: 5.2013
+  boundary:
+    southWest:
+      lat: 49.55864055200004
+      lng: 19.99187929800007
+    northEast:
+      lat: 49.74650416000003
+      lng: 20.242640651000045
+- slug: raba_wyzna
+  name: Raba Wyżna
+  type: town
+  voivodeship: malopolskie
+  lat: 49.57567
+  lon: 19.89344
+  lands:
+    pogorze_orawskojordanowskie: 80.5249
+    gorce: 19.4751
+  boundary:
+    southWest:
+      lat: 49.511517309000055
+      lng: 19.756659908000074
+    northEast:
+      lat: 49.63756093600006
+      lng: 19.970288365000044
 - slug: lipnica_wielka
   name: Lipnica Wielka
   type: town
   voivodeship: malopolskie
-  lat: 49.48890
-  lon: 19.62447
+  lat: 49.5156
+  lon: 19.57737
+  lands:
+    dzialy_orawskie: 66.4861
+    beskid_zywieckoorawski: 21.5065
+    kotlina_orawskonowotarska: 10.8685
+  boundary:
+    southWest:
+      lat: 49.446873389000075
+      lng: 19.52933211100003
+    northEast:
+      lat: 49.58778943900006
+      lng: 19.651934693000044
+- slug: slaboszow
+  name: Słaboszów
+  type: town
+  voivodeship: malopolskie
+  lat: 50.38672
+  lon: 20.22065
+  lands:
+    wyzyna_miechowska: 99.3137
+    plaskowyz_proszowicki: 0.6863
+  boundary:
+    southWest:
+      lat: 50.34917935500005
+      lng: 20.127754476000064
+    northEast:
+      lat: 50.426613631000066
+      lng: 20.33738637700003
+- slug: chelmiec
+  name: Chełmiec
+  type: town
+  voivodeship: malopolskie
+  lat: 49.64873
+  lon: 20.62462
+  lands:
+    kotlina_sadecka: 50.7696
+    pogorze_roznowskie: 23.4257
+    beskid_niski: 22.3373
+  boundary:
+    southWest:
+      lat: 49.59741460500004
+      lng: 20.55472795000003
+    northEast:
+      lat: 49.70443678000004
+      lng: 20.82869837000004
+- slug: korzenna
+  name: Korzenna
+  type: town
+  voivodeship: malopolskie
+  lat: 49.69853
+  lon: 20.82165
+  lands:
+    pogorze_roznowskie: 93.6084
+    beskid_niski: 5.9609
+    pogorze_ciezkowickie: 0.4307
+  boundary:
+    southWest:
+      lat: 49.62949252800007
+      lng: 20.72564445300003
+    northEast:
+      lat: 49.76430731900007
+      lng: 20.94813950500003
+- slug: rabkazdroj
+  name: Rabka-Zdrój
+  type: town
+  voivodeship: malopolskie
+  lat: 49.59028
+  lon: 19.9686
+  lands:
+    gorce: 53.3579
+    pogorze_orawskojordanowskie: 27.9863
+    beskid_wyspowy: 18.6558
+  boundary:
+    southWest:
+      lat: 49.539725393000026
+      lng: 19.91166133100006
+    northEast:
+      lat: 49.66074512800003
+      lng: 20.039495337000062
+- slug: plesna
+  name: Pleśna
+  type: town
+  voivodeship: malopolskie
+  lat: 49.91571
+  lon: 20.90539
+  lands:
+    pogorze_ciezkowickie: 90.611
+    pogorze_roznowskie: 5.7327
+    nizina_nadwislanska: 3.6563
+  boundary:
+    southWest:
+      lat: 49.86701423900007
+      lng: 20.828030529000046
+    northEast:
+      lat: 49.964033432000065
+      lng: 20.984381124000038
+- slug: lisia_gora
+  name: Lisia Góra
+  type: town
+  voivodeship: malopolskie
+  lat: 50.09489
+  lon: 21.05738
+  lands:
+    plaskowyz_tarnowski: 96.5659
+    nizina_nadwislanska: 3.4341
+  boundary:
+    southWest:
+      lat: 50.046544262000054
+      lng: 20.942098612000052
+    northEast:
+      lat: 50.147641434000036
+      lng: 21.18459426800007
+- slug: zakliczyn
+  name: Zakliczyn
+  type: town
+  voivodeship: malopolskie
+  lat: 49.83328
+  lon: 20.78213
+  lands:
+    pogorze_roznowskie: 83.0047
+    pogorze_wisnickie: 14.6199
+    pogorze_ciezkowickie: 2.3754
+  boundary:
+    southWest:
+      lat: 49.763530107000065
+      lng: 20.709544938000022
+    northEast:
+      lat: 49.90385518900007
+      lng: 20.882844740000053
+- slug: szerzyny
+  name: Szerzyny
+  type: town
+  voivodeship: malopolskie
+  lat: 49.81468
+  lon: 21.2517
+  lands:
+    pogorze_ciezkowickie: 100.0
+  boundary:
+    southWest:
+      lat: 49.776104487000055
+      lng: 21.128473798000073
+    northEast:
+      lat: 49.854670455000075
+      lng: 21.339460159000055
+- slug: poronin
+  name: Poronin
+  type: town
+  voivodeship: malopolskie
+  lat: 49.29884
+  lon: 20.06743
+  lands:
+    pogorza_przedtatrzanskie: 51.0609
+    bruzda_podtatrzanska: 27.9279
+    tatry_reglowe: 14.1262
+  boundary:
+    southWest:
+      lat: 49.22712241500005
+      lng: 19.899331407000034
+    northEast:
+      lat: 49.36239272200004
+      lng: 20.106466736000073
+- slug: brzeznica
+  name: Brzeźnica
+  type: town
+  voivodeship: malopolskie
+  lat: 49.95753
+  lon: 19.59837
+  lands:
+    pogorze_wielickie: 79.3154
+    row_skawinski: 20.6846
+  boundary:
+    southWest:
+      lat: 49.91791578200008
+      lng: 19.536731539000073
+    northEast:
+      lat: 49.996760806000054
+      lng: 19.728732656000034
+- slug: nowy_sacz
+  name: Nowy Sącz
+  type: town
+  voivodeship: malopolskie
+  lat: 49.61296
+  lon: 20.71558
+  lands:
+    kotlina_sadecka: 78.2143
+    beskid_niski: 21.7857
+  boundary:
+    southWest:
+      lat: 49.55492263300005
+      lng: 20.648407115000055
+    northEast:
+      lat: 49.658380055000066
+      lng: 20.764872754000066
+- slug: drwinia
+  name: Drwinia
+  type: town
+  voivodeship: malopolskie
+  lat: 50.07632
+  lon: 20.42165
+  lands:
+    nizina_nadwislanska: 69.0243
+    podgorze_bochenskie: 30.9757
+  boundary:
+    southWest:
+      lat: 50.00141998300006
+      lng: 20.340523603000065
+    northEast:
+      lat: 50.143056854000065
+      lng: 20.511474634000024
+- slug: trzciana
+  name: Trzciana
+  type: town
+  voivodeship: malopolskie
+  lat: 49.83076
+  lon: 20.37084
+  lands:
+    pogorze_wisnickie: 94.3848
+    beskid_wyspowy: 5.6152
+  boundary:
+    southWest:
+      lat: 49.77885486300005
+      lng: 20.330127250000032
+    northEast:
+      lat: 49.88205399600008
+      lng: 20.42679497200004
+- slug: zegocina
+  name: Żegocina
+  type: town
+  voivodeship: malopolskie
+  lat: 49.8131
+  lon: 20.42682
+  lands:
+    pogorze_wisnickie: 62.5722
+    beskid_wyspowy: 37.4278
+  boundary:
+    southWest:
+      lat: 49.780104951000055
+      lng: 20.38135922300006
+    northEast:
+      lat: 49.848835552000025
+      lng: 20.47683630000006
+- slug: libiaz
+  name: Libiąż
+  type: town
+  voivodeship: malopolskie
+  lat: 50.08711
+  lon: 19.3231
+  lands:
+    garb_tenczynski: 42.5479
+    dolina_gornej_wisly: 29.8489
+    row_krzeszowicki: 27.6032
+  boundary:
+    southWest:
+      lat: 50.04262057200003
+      lng: 19.259177503000046
+    northEast:
+      lat: 50.13276096000004
+      lng: 19.375908679000077
+- slug: radgoszcz
+  name: Radgoszcz
+  type: town
+  voivodeship: malopolskie
+  lat: 50.19724
+  lon: 21.12663
+  lands:
+    plaskowyz_tarnowski: 77.249
+    nizina_nadwislanska: 22.751
+  boundary:
+    southWest:
+      lat: 50.113384566000036
+      lng: 21.052158528000064
+    northEast:
+      lat: 50.26254102900003
+      lng: 21.181518279000045
+- slug: czernichow
+  name: Czernichów
+  type: town
+  voivodeship: malopolskie
+  lat: 50.02051
+  lon: 19.64556
+  lands:
+    garb_tenczynski: 37.7125
+    obnizenie_cholerzynskie: 33.3372
+    row_skawinski: 28.9503
+  boundary:
+    southWest:
+      lat: 49.97616823700008
+      lng: 19.559340834000068
+    northEast:
+      lat: 50.06446990000006
+      lng: 19.76110452300003
+- slug: kocmyrzowluborzyca
+  name: Kocmyrzów-Luborzyca
+  type: town
+  voivodeship: malopolskie
+  lat: 50.15544
+  lon: 20.10703
+  lands:
+    wyzyna_miechowska: 74.5068
+    plaskowyz_proszowicki: 25.4932
+  boundary:
+    southWest:
+      lat: 50.10646783300007
+      lng: 20.026985213000046
+    northEast:
+      lat: 50.20640765400003
+      lng: 20.201290219000043
+- slug: mogilany
+  name: Mogilany
+  type: town
+  voivodeship: malopolskie
+  lat: 49.94123
+  lon: 19.88528
+  lands:
+    pogorze_wielickie: 88.9388
+    podgorze_krakowskie: 11.0612
+  boundary:
+    southWest:
+      lat: 49.89880529700008
+      lng: 19.829916233000063
+    northEast:
+      lat: 49.98103772600007
+      lng: 19.945053675000054
+- slug: swiatniki_gorne
+  name: Świątniki Górne
+  type: town
+  voivodeship: malopolskie
+  lat: 49.943
+  lon: 19.97114
+  lands:
+    pogorze_wielickie: 99.0317
+    podgorze_krakowskie: 0.9683
+  boundary:
+    southWest:
+      lat: 49.90532883000003
+      lng: 19.91269700600003
+    northEast:
+      lat: 49.97402821400004
+      lng: 20.005387419000044
+- slug: limanowa
+  name: Limanowa
+  type: town
+  voivodeship: malopolskie
+  lat: 49.72601
+  lon: 20.4462
+  lands:
+    beskid_wyspowy: 70.465
+    kotlina_sadecka: 23.099
+    pogorze_wisnickie: 6.4361
+  boundary:
+    southWest:
+      lat: 49.63502845200003
+      lng: 20.29488637000003
+    northEast:
+      lat: 49.81900529100005
+      lng: 20.591798229000062
+- slug: zawoja
+  name: Zawoja
+  type: town
+  voivodeship: malopolskie
+  lat: 49.63652
+  lon: 19.57235
+  lands:
+    beskid_zywieckoorawski: 99.5666
+  boundary:
+    southWest:
+      lat: 49.573018139000055
+      lng: 19.467375833000062
+    northEast:
+      lat: 49.69873308600006
+      lng: 19.67601418600003
+- slug: lapsze_nizne
+  name: Łapsze Niżne
+  type: town
+  voivodeship: malopolskie
+  lat: 49.39949
+  lon: 20.22615
+  lands:
+    magura_spiska: 57.9934
+    pieniny: 31.7686
+    kotlina_orawskonowotarska: 8.496
+  boundary:
+    southWest:
+      lat: 49.337729194000076
+      lng: 20.115989214000024
+    northEast:
+      lat: 49.46100922900007
+      lng: 20.33746880600006
+- slug: spytkowice
+  name: Spytkowice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.98519
+  lon: 19.51885
+  lands:
+    pogorze_wielickie: 50.0521
+    row_skawinski: 27.2662
+    dolina_gornej_wisly: 22.6817
+  boundary:
+    southWest:
+      lat: 49.94459853300003
+      lng: 19.464435448000074
+    northEast:
+      lat: 50.025697499000046
+      lng: 19.58502313400004
+- slug: miechow
+  name: Miechów
+  type: town
+  voivodeship: malopolskie
+  lat: 50.35903
+  lon: 20.04875
+  lands:
+    wyzyna_miechowska: 100.0
+  boundary:
+    southWest:
+      lat: 50.290156513000056
+      lng: 19.938216854000075
+    northEast:
+      lat: 50.426149775000056
+      lng: 20.199664081000037
+- slug: lubien
+  name: Lubień
+  type: town
+  voivodeship: malopolskie
+  lat: 49.67774
+  lon: 19.95083
+  lands:
+    beskid_wyspowy: 82.4173
+    pogorze_orawskojordanowskie: 9.538
+    beskid_makowski: 8.0446
+  boundary:
+    southWest:
+      lat: 49.61796976000005
+      lng: 19.88583742700007
+    northEast:
+      lat: 49.732900948000065
+      lng: 20.024520774000052
+- slug: myslenice
+  name: Myślenice
+  type: town
+  voivodeship: malopolskie
+  lat: 49.85514
+  lon: 19.95223
+  lands:
+    pogorze_wielickie: 57.8607
+    beskid_makowski: 30.7923
+    pogorze_wisnickie: 11.3469
+  boundary:
+    southWest:
+      lat: 49.78086484500005
+      lng: 19.81662854900003
+    northEast:
+      lat: 49.931315856000026
+      lng: 20.07117652100004
+- slug: nowy_targ
+  name: Nowy Targ
+  type: town
+  voivodeship: malopolskie
+  lat: 49.48001
+  lon: 20.14493
+  lands:
+    gorce: 41.1367
+    kotlina_orawskonowotarska: 38.058
+    pogorze_orawskojordanowskie: 9.5997
+  boundary:
+    southWest:
+      lat: 49.40480118900007
+      lng: 19.879217873000073
+    northEast:
+      lat: 49.55997370800003
+      lng: 20.22988771200005
+- slug: boleslaw
+  name: Bolesław
+  type: town
+  voivodeship: malopolskie
+  lat: 50.30002
+  lon: 19.47255
+  lands:
+    kotlina_siewierza: 65.3808
+    pagory_jaworznickie: 34.6
+    wyzyna_olkuska: 0.0192
+  boundary:
+    southWest:
+      lat: 50.27227983100005
+      lng: 19.40404320400006
+    northEast:
+      lat: 50.32879749400007
+      lng: 19.546560584000076
+- slug: jordanow
+  name: Jordanów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.68081
+  lon: 19.81297
+  lands:
+    beskid_makowski: 62.0144
+    beskid_wyspowy: 17.8478
+    beskid_zywieckoorawski: 12.1966
+  boundary:
+    southWest:
+      lat: 49.58557671400007
+      lng: 19.718972576000056
+    northEast:
+      lat: 49.72396803700008
+      lng: 19.912116602000026
+- slug: oswiecim
+  name: Oświęcim
+  type: town
+  voivodeship: malopolskie
+  lat: 50.01183
+  lon: 19.24906
+  lands:
+    dolina_gornej_wisly: 88.8413
+    podgorze_wilamowickie: 11.1587
+  boundary:
+    southWest:
+      lat: 49.96141593200008
+      lng: 19.13208163400003
+    northEast:
+      lat: 50.06574267500008
+      lng: 19.35377645400007
+- slug: radlow
+  name: Radłów
+  type: town
+  voivodeship: malopolskie
+  lat: 50.10852
+  lon: 20.81953
+  lands:
+    nizina_nadwislanska: 61.8072
+    podgorze_bochenskie: 38.1928
+  boundary:
+    southWest:
+      lat: 50.04341475500007
+      lng: 20.73446720800007
+    northEast:
+      lat: 50.16980795400008
+      lng: 20.898910298000033
+- slug: tarnow
+  name: Tarnów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.96927
+  lon: 20.95115
+  lands:
+    pogorze_ciezkowickie: 78.3551
+    nizina_nadwislanska: 21.6449
+  boundary:
+    southWest:
+      lat: 49.93235975300007
+      lng: 20.873933876000024
+    northEast:
+      lat: 50.070671669000035
+      lng: 21.165331063000053
+- slug: stryszow
+  name: Stryszów
+  type: town
+  voivodeship: malopolskie
+  lat: 49.82738
+  lon: 19.63431
+  lands:
+    pogorze_wielickie: 76.1719
+    beskid_makowski: 17.2805
+    beskid_maly: 6.5475
+  boundary:
+    southWest:
+      lat: 49.792719059000035
+      lng: 19.55110019400007
+    northEast:
+      lat: 49.86455715900007
+      lng: 19.707192364000036
+- slug: klaj
+  name: Kłaj
+  type: town
+  voivodeship: malopolskie
+  lat: 50.01322
+  lon: 20.27815
+  lands:
+    podgorze_bochenskie: 52.8594
+    podgorze_krakowskie: 20.6219
+    pogorze_wielickie: 13.8662
+  boundary:
+    southWest:
+      lat: 49.960786893000034
+      lng: 20.20938114300003
+    northEast:
+      lat: 50.06491440800005
+      lng: 20.387566028000037
+- slug: olesno
+  name: Olesno
+  type: town
+  voivodeship: malopolskie
+  lat: 50.20749
+  lon: 20.92179
+  lands:
+    nizina_nadwislanska: 68.0871
+    plaskowyz_tarnowski: 31.9129
+  boundary:
+    southWest:
+      lat: 50.16098206000004
+      lng: 20.83616734800006
+    northEast:
+      lat: 50.25464809700003
+      lng: 21.001108302000034
+- slug: zielonki
+  name: Zielonki
+  type: town
+  voivodeship: malopolskie
+  lat: 50.14353
+  lon: 19.92882
+  lands:
+    wyzyna_olkuska: 65.8793
+    plaskowyz_proszowicki: 34.1207
+  boundary:
+    southWest:
+      lat: 50.10478310800005
+      lng: 19.856879304000074
+    northEast:
+      lat: 50.18331299000005
+      lng: 20.03162486100007
+- slug: laskowa
+  name: Laskowa
+  type: town
+  voivodeship: malopolskie
+  lat: 49.7553
+  lon: 20.50405
+  lands:
+    beskid_wyspowy: 100.0
+  boundary:
+    southWest:
+      lat: 49.719877516000054
+      lng: 20.40237886400007
+    northEast:
+      lat: 49.80183354300004
+      lng: 20.585079880000023
+- slug: bukowina_tatrzanska
+  name: Bukowina Tatrzańska
+  type: town
+  voivodeship: malopolskie
+  lat: 49.30122
+  lon: 20.11928
+  lands:
+    pogorza_przedtatrzanskie: 46.9233
+    tatry_wysokie: 24.9402
+    magura_spiska: 21.3624
+  boundary:
+    southWest:
+      lat: 49.17876422200004
+      lng: 20.009293917000036
+    northEast:
+      lat: 49.425329858000055
+      lng: 20.190132361000053
+- slug: muszyna
+  name: Muszyna
+  type: town
+  voivodeship: malopolskie
+  lat: 49.37046
+  lon: 20.88724
+  lands:
+    beskid_sadecki: 59.4307
+    pogorze_popradzkie: 39.164
+  boundary:
+    southWest:
+      lat: 49.29605177800005
+      lng: 20.775755855000057
+    northEast:
+      lat: 49.441213031000075
+      lng: 21.03378639300007

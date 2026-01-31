@@ -1,139 +1,1883 @@
 ---
-- slug: suwalki
-  name: Suwałki
-  type: town
-  voivodeship: podlaskie
-  lat: 54.10931
-  lon: 22.92933
-- slug: raczki
-  name: Raczki
-  type: town
-  voivodeship: podlaskie
-  lat: 53.99120
-  lon: 22.77913
-- slug: bialystok
-  name: Białystok
-  type: town
-  voivodeship: podlaskie
-  lat: 53.13532
-  lon: 23.15867
-- slug: wasilkow
-  name: Wasilków
-  type: town
-  voivodeship: podlaskie
-  lat: 53.19902
-  lon: 23.20794
-- slug: suprasl
-  name: Supraśl
-  type: town
-  voivodeship: podlaskie
-  lat: 53.20930
-  lon: 23.33274
-- slug: szudzialowo
-  name: Szudziałowo
-  type: town
-  voivodeship: podlaskie
-  lat: 53.29742
-  lon: 23.65426
-- slug: grodek
-  name: Gródek
-  type: town
-  voivodeship: podlaskie
-  lat: 53.09514
-  lon: 23.66628
-- slug: krynki
-  name: Krynki
-  type: town
-  voivodeship: podlaskie
-  lat: 53.26324
-  lon: 23.77168
-- slug: szudzialowo
-  name: Szudziałowo
-  type: town
-  voivodeship: podlaskie
-  lat: 53.29742
-  lon: 23.65460
-- slug: michalowo
-  name: Michałowo
-  type: town
-  voivodeship: podlaskie
-  lat: 53.03613
-  lon: 23.60345
-- slug: sokolka
-  name: Sokółka
-  type: town
-  voivodeship: podlaskie
-  lat: 53.40521
-  lon: 23.50938
-- slug: kuznica
-  name: Kuźnica
-  type: town
-  voivodeship: podlaskie
-  lat: 53.51467
-  lon: 23.64293
-- slug: sidra
-  name: Sidra
-  type: town
-  voivodeship: podlaskie
-  lat: 53.55252
-  lon: 23.45239
-- slug: sztabin
-  name: Sztabin
-  type: town
-  voivodeship: podlaskie
-  lat: 53.67971
-  lon: 23.09585
-- slug: jaswily
-  name: Jaświły
-  type: town
-  voivodeship: podlaskie
-  lat: 53.48312
-  lon: 22.94307
-- slug: goniadz
-  name: Goniądz
-  type: town
-  voivodeship: podlaskie
-  lat: 53.48974
-  lon: 22.73236
-- slug: dobrzyniewo_duze
-  name: Dobrzyniewo Duże
-  type: town
-  voivodeship: podlaskie
-  lat: 53.20131
-  lon: 23.01173
-- slug: krypno
-  name: Krypno
-  type: town
-  voivodeship: podlaskie
-  lat: 53.27754
-  lon: 22.87174
-- slug: tykocin
-  name: Tykocin
-  type: town
-  voivodeship: podlaskie
-  lat: 53.20542
-  lon: 22.76669
-- slug: kobylin_borzymy
-  name: Kobylin-Borzymy
-  type: town
-  voivodeship: podlaskie
-  lat: 53.09115
-  lon: 22.67159
 - slug: choroszcz
   name: Choroszcz
   type: town
   voivodeship: podlaskie
-  lat: 53.14554
-  lon: 22.98538
-- slug: sokoly
-  name: Sokoły
-  type: town
-  voivodeship: podlaskie
-  lat: 52.99083
-  lon: 22.70043
+  lat: 53.14826
+  lon: 22.97927
+  lands:
+    wysoczyzna_bialostocka: 67.8523
+    dolina_gornej_narwi: 23.0138
+    wysoczyzna_wysokomazowiecka: 9.1338
+  boundary:
+    southWest:
+      lat: 53.071178849000034
+      lng: 22.803918989000067
+    northEast:
+      lat: 53.21721126700004
+      lng: 23.116137731000038
 - slug: lapy
   name: Łapy
   type: town
   voivodeship: podlaskie
-  lat: 52.98917
-  lon: 22.88239
+  lat: 52.99753
+  lon: 22.8674
+  lands:
+    wysoczyzna_wysokomazowiecka: 70.0511
+    dolina_gornej_narwi: 20.4842
+    wysoczyzna_bialostocka: 9.4647
+  boundary:
+    southWest:
+      lat: 52.92321481400006
+      lng: 22.76868522500007
+    northEast:
+      lat: 53.07678570100006
+      lng: 22.960233405000054
+- slug: poswietne
+  name: Poświętne
+  type: town
+  voivodeship: podlaskie
+  lat: 52.91366
+  lon: 22.82492
+  lands:
+    wysoczyzna_wysokomazowiecka: 78.545
+    rownina_bielska: 15.2829
+    dolina_gornej_narwi: 6.1721
+  boundary:
+    southWest:
+      lat: 52.85425891500006
+      lng: 22.70767760600006
+    northEast:
+      lat: 52.965940955000065
+      lng: 22.93848523500003
+- slug: hajnowka
+  name: Hajnówka
+  type: town
+  voivodeship: podlaskie
+  lat: 52.72283
+  lon: 23.57107
+  lands:
+    rownina_bielska: 99.9753
+  boundary:
+    southWest:
+      lat: 52.60231348900004
+      lng: 23.414228410000078
+    northEast:
+      lat: 52.845010624000054
+      lng: 23.718903193000074
+- slug: monki
+  name: Mońki
+  type: town
+  voivodeship: podlaskie
+  lat: 53.3867
+  lon: 22.8081
+  lands:
+    wysoczyzna_bialostocka: 96.3587
+    kotlina_biebrzanska: 3.6413
+  boundary:
+    southWest:
+      lat: 53.31245370600004
+      lng: 22.618654690000028
+    northEast:
+      lat: 53.46532580300004
+      lng: 22.92732604500003
+- slug: perlejewo
+  name: Perlejewo
+  type: town
+  voivodeship: podlaskie
+  lat: 52.57414
+  lon: 22.55849
+  lands:
+    wysoczyzna_drohiczynska: 96.4059
+    podlaski_przelom_bugu: 3.5941
+  boundary:
+    southWest:
+      lat: 52.51705331000005
+      lng: 22.457845469000063
+    northEast:
+      lat: 52.61776205400008
+      lng: 22.65714218100004
+- slug: punsk
+  name: Puńsk
+  type: town
+  voivodeship: podlaskie
+  lat: 54.23913
+  lon: 23.2327
+  lands:
+    pojezierze_wschodniosuwalskie: 99.6252
+  boundary:
+    southWest:
+      lat: 54.17145320700007
+      lng: 23.108707508000066
+    northEast:
+      lat: 54.29700481300006
+      lng: 23.35921964000005
+- slug: kuznica
+  name: Kuźnica
+  type: town
+  voivodeship: podlaskie
+  lat: 53.50578
+  lon: 23.60183
+  lands:
+    wzgorza_sokolskie: 99.5473
+  boundary:
+    southWest:
+      lat: 53.418577103000075
+      lng: 23.511559757000043
+    northEast:
+      lat: 53.601527702000055
+      lng: 23.709267450000027
+- slug: sidra
+  name: Sidra
+  type: town
+  voivodeship: podlaskie
+  lat: 53.54036
+  lon: 23.44298
+  lands:
+    wzgorza_sokolskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.46497315200003
+      lng: 23.314263269000037
+    northEast:
+      lat: 53.615386743000045
+      lng: 23.605746762000024
+- slug: sokolka
+  name: Sokółka
+  type: town
+  voivodeship: podlaskie
+  lat: 53.37736
+  lon: 23.46953
+  lands:
+    wzgorza_sokolskie: 99.2141
+    wysoczyzna_bialostocka: 0.7859
+  boundary:
+    southWest:
+      lat: 53.26704880400007
+      lng: 23.30711375800007
+    northEast:
+      lat: 53.487679178000064
+      lng: 23.725913564000052
+- slug: suwalki
+  name: Suwałki
+  type: town
+  voivodeship: podlaskie
+  lat: 54.09628
+  lon: 23.04679
+  lands:
+    pojezierze_wschodniosuwalskie: 48.3999
+    rownina_augustowska: 34.0871
+    pojezierze_zachodniosuwalskie: 17.513
+  boundary:
+    southWest:
+      lat: 54.007106219000036
+      lng: 22.773248773000034
+    northEast:
+      lat: 54.18419839500007
+      lng: 23.141860957000063
+- slug: klukowo
+  name: Klukowo
+  type: town
+  voivodeship: podlaskie
+  lat: 52.76091
+  lon: 22.56377
+  lands:
+    wysoczyzna_wysokomazowiecka: 98.41
+    rownina_bielska: 1.59
+  boundary:
+    southWest:
+      lat: 52.693923522000034
+      lng: 22.440932953000072
+    northEast:
+      lat: 52.82300194600003
+      lng: 22.682808333000025
+- slug: jasionowka
+  name: Jasionówka
+  type: town
+  voivodeship: podlaskie
+  lat: 53.37672
+  lon: 23.03923
+  lands:
+    wysoczyzna_bialostocka: 100.0
+  boundary:
+    southWest:
+      lat: 53.319620935000046
+      lng: 22.92732604500003
+    northEast:
+      lat: 53.46502766300006
+      lng: 23.122663772000067
+- slug: maly_plock
+  name: Mały Płock
+  type: town
+  voivodeship: podlaskie
+  lat: 53.30032
+  lon: 21.99318
+  lands:
+    wysoczyzna_kolnenska: 86.1668
+    rownina_kurpiowska: 8.3362
+    dolina_dolnej_narwi: 5.497
+  boundary:
+    southWest:
+      lat: 53.23916694400003
+      lng: 21.871687438000038
+    northEast:
+      lat: 53.37239412900004
+      lng: 22.12320272100004
+- slug: turosn_koscielna
+  name: Turośń Kościelna
+  type: town
+  voivodeship: podlaskie
+  lat: 53.02386
+  lon: 23.02593
+  lands:
+    wysoczyzna_bialostocka: 90.5998
+    dolina_gornej_narwi: 9.4002
+    wysoczyzna_wysokomazowiecka: 0.0
+  boundary:
+    southWest:
+      lat: 52.94253495100003
+      lng: 22.897388744000068
+    northEast:
+      lat: 53.10175682300007
+      lng: 23.11492879700006
+- slug: czyze
+  name: Czyże
+  type: town
+  voivodeship: podlaskie
+  lat: 52.7889
+  lon: 23.43993
+  lands:
+    rownina_bielska: 100.0
+  boundary:
+    southWest:
+      lat: 52.685271639000064
+      lng: 23.333623930000044
+    northEast:
+      lat: 52.88698548600007
+      lng: 23.533810569000025
+- slug: mielnik
+  name: Mielnik
+  type: town
+  voivodeship: podlaskie
+  lat: 52.35754
+  lon: 23.10494
+  lands:
+    wysoczyzna_drohiczynska: 85.9472
+    podlaski_przelom_bugu: 13.8638
+  boundary:
+    southWest:
+      lat: 52.27997028200008
+      lng: 22.929204510000034
+    northEast:
+      lat: 52.421419238000055
+      lng: 23.272095033000028
+- slug: sejny
+  name: Sejny
+  type: town
+  voivodeship: podlaskie
+  lat: 54.12431
+  lon: 23.39369
+  lands:
+    pojezierze_wschodniosuwalskie: 82.6263
+    rownina_augustowska: 16.3739
+  boundary:
+    southWest:
+      lat: 54.00965890200007
+      lng: 23.26460228800005
+    northEast:
+      lat: 54.23287419900004
+      lng: 23.528601483000045
+- slug: korycin
+  name: Korycin
+  type: town
+  voivodeship: podlaskie
+  lat: 53.44632
+  lon: 23.1193
+  lands:
+    wysoczyzna_bialostocka: 97.9283
+    kotlina_biebrzanska: 2.0717
+  boundary:
+    southWest:
+      lat: 53.33922443800003
+      lng: 23.058225219000064
+    northEast:
+      lat: 53.51910166400006
+      lng: 23.203570626000044
+- slug: rutkatartak
+  name: Rutka-Tartak
+  type: town
+  voivodeship: podlaskie
+  lat: 54.32475
+  lon: 22.96882
+  lands:
+    pojezierze_wschodniosuwalskie: 99.8455
+  boundary:
+    southWest:
+      lat: 54.259740314000055
+      lng: 22.863762631000043
+    northEast:
+      lat: 54.39098878300007
+      lng: 23.06316477000007
+- slug: ciechanowiec
+  name: Ciechanowiec
+  type: town
+  voivodeship: podlaskie
+  lat: 52.66427
+  lon: 22.57326
+  lands:
+    wysoczyzna_drohiczynska: 64.8532
+    wysoczyzna_wysokomazowiecka: 19.5803
+    rownina_bielska: 13.5281
+  boundary:
+    southWest:
+      lat: 52.58535899800006
+      lng: 22.408588834000057
+    northEast:
+      lat: 52.739548581000065
+      lng: 22.71734936300004
+- slug: juchnowiec_koscielny
+  name: Juchnowiec Kościelny
+  type: town
+  voivodeship: podlaskie
+  lat: 53.00251
+  lon: 23.1443
+  lands:
+    wysoczyzna_bialostocka: 97.0168
+    dolina_gornej_narwi: 2.9832
+  boundary:
+    southWest:
+      lat: 52.90034380000003
+      lng: 23.06695042000007
+    northEast:
+      lat: 53.10463790300008
+      lng: 23.242826446000038
+- slug: bielsk_podlaski
+  name: Bielsk Podlaski
+  type: town
+  voivodeship: podlaskie
+  lat: 52.7729
+  lon: 23.19015
+  lands:
+    rownina_bielska: 100.0
+  boundary:
+    southWest:
+      lat: 52.728410034000035
+      lng: 23.145216361000053
+    northEast:
+      lat: 52.799908705000064
+      lng: 23.23528679800006
+- slug: rudka
+  name: Rudka
+  type: town
+  voivodeship: podlaskie
+  lat: 52.71299
+  lon: 22.70386
+  lands:
+    rownina_bielska: 98.7428
+    wysoczyzna_wysokomazowiecka: 1.2572
+  boundary:
+    southWest:
+      lat: 52.67459996700006
+      lng: 22.611431925000034
+    northEast:
+      lat: 52.75869422900007
+      lng: 22.80304854700006
+- slug: przytuly
+  name: Przytuły
+  type: town
+  voivodeship: podlaskie
+  lat: 53.38524
+  lon: 22.31077
+  lands:
+    wysoczyzna_kolnenska: 100.0
+  boundary:
+    southWest:
+      lat: 53.331054186000074
+      lng: 22.235954702000072
+    northEast:
+      lat: 53.43784832500006
+      lng: 22.405554504000065
+- slug: jedwabne
+  name: Jedwabne
+  type: town
+  voivodeship: podlaskie
+  lat: 53.2975
+  lon: 22.3461
+  lands:
+    wysoczyzna_kolnenska: 96.9691
+    kotlina_biebrzanska: 3.0309
+  boundary:
+    southWest:
+      lat: 53.23631808500005
+      lng: 22.20636165600007
+    northEast:
+      lat: 53.351740748000054
+      lng: 22.497577351000075
+- slug: jaswily
+  name: Jaświły
+  type: town
+  voivodeship: podlaskie
+  lat: 53.50084
+  lon: 22.98215
+  lands:
+    wysoczyzna_bialostocka: 87.3238
+    kotlina_biebrzanska: 12.6762
+  boundary:
+    southWest:
+      lat: 53.417843746000074
+      lng: 22.852635502000055
+    northEast:
+      lat: 53.59141032800005
+      lng: 23.071320986000046
+- slug: krynki
+  name: Krynki
+  type: town
+  voivodeship: podlaskie
+  lat: 53.23949
+  lon: 23.75066
+  lands:
+    wzgorza_sokolskie: 91.4275
+    wysoczyzna_bialostocka: 8.4555
+  boundary:
+    southWest:
+      lat: 53.14898505200006
+      lng: 23.645578432000036
+    northEast:
+      lat: 53.32867055600008
+      lng: 23.90945819700005
+- slug: suchowola
+  name: Suchowola
+  type: town
+  voivodeship: podlaskie
+  lat: 53.59264
+  lon: 23.07726
+  lands:
+    wysoczyzna_bialostocka: 39.5098
+    wzgorza_sokolskie: 37.1285
+    kotlina_biebrzanska: 23.3617
+  boundary:
+    southWest:
+      lat: 53.50115997000006
+      lng: 22.928678868000077
+    northEast:
+      lat: 53.68364908900003
+      lng: 23.280700528000068
+- slug: nowe_piekuty
+  name: Nowe Piekuty
+  type: town
+  voivodeship: podlaskie
+  lat: 52.87169
+  lon: 22.69228
+  lands:
+    wysoczyzna_wysokomazowiecka: 90.9549
+    rownina_bielska: 9.0451
+  boundary:
+    southWest:
+      lat: 52.80193445400005
+      lng: 22.618958384000052
+    northEast:
+      lat: 52.94506836000005
+      lng: 22.77639281200004
+- slug: rutki
+  name: Rutki
+  type: town
+  voivodeship: podlaskie
+  lat: 53.11965
+  lon: 22.43491
+  lands:
+    wysoczyzna_wysokomazowiecka: 60.2559
+    kotlina_biebrzanska: 39.7441
+  boundary:
+    southWest:
+      lat: 53.03863591100003
+      lng: 22.28221009300006
+    northEast:
+      lat: 53.20336956400007
+      lng: 22.594008848000044
+- slug: michalowo
+  name: Michałowo
+  type: town
+  voivodeship: podlaskie
+  lat: 53.02419
+  lon: 23.58538
+  lands:
+    wysoczyzna_bialostocka: 91.3907
+    dolina_gornej_narwi: 8.3901
+  boundary:
+    southWest:
+      lat: 52.90201698700008
+      lng: 23.42275842500004
+    northEast:
+      lat: 53.14618041300008
+      lng: 23.946270238000068
+- slug: knyszyn
+  name: Knyszyn
+  type: town
+  voivodeship: podlaskie
+  lat: 53.34244
+  lon: 22.92871
+  lands:
+    wysoczyzna_bialostocka: 100.0
+  boundary:
+    southWest:
+      lat: 53.27962634600004
+      lng: 22.82212296600005
+    northEast:
+      lat: 53.417843746000074
+      lng: 23.081302987000072
+- slug: barglow_koscielny
+  name: Bargłów Kościelny
+  type: town
+  voivodeship: podlaskie
+  lat: 53.7424
+  lon: 22.82579
+  lands:
+    pojezierze_elckie: 91.7828
+    kotlina_biebrzanska: 8.2172
+  boundary:
+    southWest:
+      lat: 53.64001940400004
+      lng: 22.69680157700003
+    northEast:
+      lat: 53.84227171900005
+      lng: 22.942568691000076
+- slug: bielsk_podlaski
+  name: Bielsk Podlaski
+  type: town
+  voivodeship: podlaskie
+  lat: 52.78579
+  lon: 23.17759
+  lands:
+    rownina_bielska: 97.2326
+    dolina_gornej_narwi: 2.7674
+  boundary:
+    southWest:
+      lat: 52.660164964000046
+      lng: 22.974892456000077
+    northEast:
+      lat: 52.91329850100004
+      lng: 23.378666663000047
+- slug: hajnowka
+  name: Hajnówka
+  type: town
+  voivodeship: podlaskie
+  lat: 52.73176
+  lon: 23.56465
+  lands:
+    rownina_bielska: 100.0
+  boundary:
+    southWest:
+      lat: 52.70216039700006
+      lng: 23.52902445600006
+    northEast:
+      lat: 52.76180873000004
+      lng: 23.613630929000067
+- slug: narew
+  name: Narew
+  type: town
+  voivodeship: podlaskie
+  lat: 52.91259
+  lon: 23.5252
+  lands:
+    rownina_bielska: 48.4093
+    wysoczyzna_bialostocka: 35.4455
+    dolina_gornej_narwi: 16.1452
+  boundary:
+    southWest:
+      lat: 52.825858561000075
+      lng: 23.33015483300005
+    northEast:
+      lat: 52.990209297000035
+      lng: 23.665276121000034
+- slug: milejczyce
+  name: Milejczyce
+  type: town
+  voivodeship: podlaskie
+  lat: 52.52291
+  lon: 23.14761
+  lands:
+    wysoczyzna_drohiczynska: 100.0
+  boundary:
+    southWest:
+      lat: 52.475253930000065
+      lng: 23.002030079000065
+    northEast:
+      lat: 52.58540803000005
+      lng: 23.314937599000075
+- slug: drohiczyn
+  name: Drohiczyn
+  type: town
+  voivodeship: podlaskie
+  lat: 52.44983
+  lon: 22.64083
+  lands:
+    wysoczyzna_drohiczynska: 78.6065
+    podlaski_przelom_bugu: 21.3935
+  boundary:
+    southWest:
+      lat: 52.372263273000044
+      lng: 22.510109817000057
+    northEast:
+      lat: 52.536640970000064
+      lng: 22.76617860700003
+- slug: grodzisk
+  name: Grodzisk
+  type: town
+  voivodeship: podlaskie
+  lat: 52.5933
+  lon: 22.75501
+  lands:
+    wysoczyzna_drohiczynska: 93.2642
+    rownina_bielska: 6.7358
+  boundary:
+    southWest:
+      lat: 52.49747589300006
+      lng: 22.636130621000063
+    northEast:
+      lat: 52.69687254400003
+      lng: 22.884443920000024
+- slug: nurzecstacja
+  name: Nurzec-Stacja
+  type: town
+  voivodeship: podlaskie
+  lat: 52.45311
+  lon: 23.13261
+  lands:
+    wysoczyzna_drohiczynska: 99.8888
+  boundary:
+    southWest:
+      lat: 52.38540467000007
+      lng: 22.954049411000028
+    northEast:
+      lat: 52.51447858800003
+      lng: 23.31391615000007
+- slug: siemiatycze
+  name: Siemiatycze
+  type: town
+  voivodeship: podlaskie
+  lat: 52.44983
+  lon: 22.86283
+  lands:
+    wysoczyzna_drohiczynska: 87.6893
+    podlaski_przelom_bugu: 12.3107
+  boundary:
+    southWest:
+      lat: 52.35878654700008
+      lng: 22.72440757100003
+    northEast:
+      lat: 52.53953294100006
+      lng: 23.012097329000028
+- slug: dabrowa_bialostocka
+  name: Dąbrowa Białostocka
+  type: town
+  voivodeship: podlaskie
+  lat: 53.62512
+  lon: 23.33143
+  lands:
+    wzgorza_sokolskie: 95.8286
+    kotlina_biebrzanska: 4.1714
+  boundary:
+    southWest:
+      lat: 53.52891945500005
+      lng: 23.139424160000033
+    northEast:
+      lat: 53.72195679100008
+      lng: 23.458020058000045
+- slug: janow
+  name: Janów
+  type: town
+  voivodeship: podlaskie
+  lat: 53.44893
+  lon: 23.27552
+  lands:
+    wysoczyzna_bialostocka: 55.7525
+    wzgorza_sokolskie: 44.2475
+  boundary:
+    southWest:
+      lat: 53.36700435400007
+      lng: 23.148501450000026
+    northEast:
+      lat: 53.535539992000054
+      lng: 23.426271790000044
+- slug: raczki
+  name: Raczki
+  type: town
+  voivodeship: podlaskie
+  lat: 53.98487
+  lon: 22.78602
+  lands:
+    pojezierze_zachodniosuwalskie: 52.1161
+    pojezierze_elckie: 36.1721
+    rownina_augustowska: 11.7119
+  boundary:
+    southWest:
+      lat: 53.92285022000004
+      lng: 22.670336220000024
+    northEast:
+      lat: 54.06108102400003
+      lng: 22.913425716000063
+- slug: kulesze_koscielne
+  name: Kulesze Kościelne
+  type: town
+  voivodeship: podlaskie
+  lat: 53.01355
+  lon: 22.5237
+  lands:
+    wysoczyzna_wysokomazowiecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.95557707200004
+      lng: 22.398096329000055
+    northEast:
+      lat: 53.06327973900005
+      lng: 22.644623657000068
+- slug: kobylinborzymy
+  name: Kobylin-Borzymy
+  type: town
+  voivodeship: podlaskie
+  lat: 53.08355
+  lon: 22.66989
+  lands:
+    wysoczyzna_wysokomazowiecka: 97.8261
+    dolina_gornej_narwi: 2.1739
+  boundary:
+    southWest:
+      lat: 53.02000230800007
+      lng: 22.559862450000026
+    northEast:
+      lat: 53.14378301100004
+      lng: 22.81166506900007
+- slug: giby
+  name: Giby
+  type: town
+  voivodeship: podlaskie
+  lat: 53.99455
+  lon: 23.2938
+  lands:
+    rownina_augustowska: 83.2153
+    pojezierze_wschodniosuwalskie: 16.6641
+  boundary:
+    southWest:
+      lat: 53.894284801000026
+      lng: 23.079942180000046
+    northEast:
+      lat: 54.08468801300006
+      lng: 23.515380466000067
+- slug: plaska
+  name: Płaska
+  type: town
+  voivodeship: podlaskie
+  lat: 53.8675
+  lon: 23.33627
+  lands:
+    rownina_augustowska: 83.7735
+    kotlina_biebrzanska: 16.0605
+    wzgorza_sokolskie: 0.0005
+  boundary:
+    southWest:
+      lat: 53.77390403100003
+      lng: 23.063420660000077
+    northEast:
+      lat: 53.95947183700008
+      lng: 23.553905059000044
+- slug: bialowieza
+  name: Białowieża
+  type: town
+  voivodeship: podlaskie
+  lat: 52.70204
+  lon: 23.81798
+  lands:
+    rownina_bielska: 99.9813
+  boundary:
+    southWest:
+      lat: 52.61125601800006
+      lng: 23.716413551000073
+    northEast:
+      lat: 52.78620753100006
+      lng: 23.93891331100008
+- slug: miastkowo
+  name: Miastkowo
+  type: town
+  voivodeship: podlaskie
+  lat: 53.13393
+  lon: 21.8017
+  lands:
+    miedzyrzecze_lomzynskie: 88.4372
+    dolina_dolnej_narwi: 11.5628
+  boundary:
+    southWest:
+      lat: 53.07167214800006
+      lng: 21.694427520000033
+    northEast:
+      lat: 53.20082005900008
+      lng: 21.925354843000036
+- slug: sniadowo
+  name: Śniadowo
+  type: town
+  voivodeship: podlaskie
+  lat: 53.06467
+  lon: 21.99582
+  lands:
+    miedzyrzecze_lomzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.97883365300004
+      lng: 21.86037694500004
+    northEast:
+      lat: 53.15280346700007
+      lng: 22.068206675000056
+- slug: szumowo
+  name: Szumowo
+  type: town
+  voivodeship: podlaskie
+  lat: 52.91068
+  lon: 22.09801
+  lands:
+    wysoczyzna_wysokomazowiecka: 62.0185
+    miedzyrzecze_lomzynskie: 37.9815
+  boundary:
+    southWest:
+      lat: 52.84270072100003
+      lng: 21.976098023000077
+    northEast:
+      lat: 52.986130510000066
+      lng: 22.217544179000072
+- slug: nowinka
+  name: Nowinka
+  type: town
+  voivodeship: podlaskie
+  lat: 53.94817
+  lon: 23.00045
+  lands:
+    rownina_augustowska: 77.8971
+    pojezierze_zachodniosuwalskie: 17.4826
+    pojezierze_wschodniosuwalskie: 4.6202
+  boundary:
+    southWest:
+      lat: 53.86644395500008
+      lng: 22.85060108600004
+    northEast:
+      lat: 54.02476971400006
+      lng: 23.15549938600003
+- slug: sztabin
+  name: Sztabin
+  type: town
+  voivodeship: podlaskie
+  lat: 53.71247
+  lon: 23.0748
+  lands:
+    kotlina_biebrzanska: 82.5191
+    rownina_augustowska: 17.4809
+  boundary:
+    southWest:
+      lat: 53.570063548000064
+      lng: 22.87022751300003
+    northEast:
+      lat: 53.856149189000064
+      lng: 23.349414488000036
+- slug: dobrzyniewo_duze
+  name: Dobrzyniewo Duże
+  type: town
+  voivodeship: podlaskie
+  lat: 53.23751
+  lon: 22.99089
+  lands:
+    wysoczyzna_bialostocka: 90.3915
+    dolina_gornej_narwi: 9.6085
+  boundary:
+    southWest:
+      lat: 53.15519073100006
+      lng: 22.884442548000038
+    northEast:
+      lat: 53.307653834000064
+      lng: 23.12334237500005
+- slug: zawady
+  name: Zawady
+  type: town
+  voivodeship: podlaskie
+  lat: 53.15067
+  lon: 22.58449
+  lands:
+    wysoczyzna_wysokomazowiecka: 66.2095
+    kotlina_biebrzanska: 33.0751
+    dolina_gornej_narwi: 0.7153
+  boundary:
+    southWest:
+      lat: 53.094095147000075
+      lng: 22.469074242000033
+    northEast:
+      lat: 53.22013042400005
+      lng: 22.67422606300005
+- slug: zabludow
+  name: Zabłudów
+  type: town
+  voivodeship: podlaskie
+  lat: 53.01142
+  lon: 23.33493
+  lands:
+    wysoczyzna_bialostocka: 97.5829
+    dolina_gornej_narwi: 2.4079
+    rownina_bielska: 0.0092
+  boundary:
+    southWest:
+      lat: 52.89271493600006
+      lng: 23.20081895900006
+    northEast:
+      lat: 53.125577357000054
+      lng: 23.503188979000072
+- slug: rajgrod
+  name: Rajgród
+  type: town
+  voivodeship: podlaskie
+  lat: 53.67857
+  lon: 22.66078
+  lands:
+    pojezierze_elckie: 68.0591
+    kotlina_biebrzanska: 31.9409
+  boundary:
+    southWest:
+      lat: 53.59962167600003
+      lng: 22.472509709000065
+    northEast:
+      lat: 53.76158878600006
+      lng: 22.84417679200004
+- slug: radzilow
+  name: Radziłów
+  type: town
+  voivodeship: podlaskie
+  lat: 53.41888
+  lon: 22.41607
+  lands:
+    wysoczyzna_kolnenska: 64.3046
+    kotlina_biebrzanska: 35.6954
+  boundary:
+    southWest:
+      lat: 53.34859065200004
+      lng: 22.284965527000054
+    northEast:
+      lat: 53.49009139000003
+      lng: 22.620027840000034
+- slug: dubicze_cerkiewne
+  name: Dubicze Cerkiewne
+  type: town
+  voivodeship: podlaskie
+  lat: 52.63743
+  lon: 23.46118
+  lands:
+    rownina_bielska: 99.8114
+  boundary:
+    southWest:
+      lat: 52.564593785000056
+      lng: 23.35537597700005
+    northEast:
+      lat: 52.71598652900008
+      lng: 23.62219206700007
+- slug: kolno
+  name: Kolno
+  type: town
+  voivodeship: podlaskie
+  lat: 53.42687
+  lon: 21.93742
+  lands:
+    wysoczyzna_kolnenska: 87.8681
+    rownina_kurpiowska: 7.5953
+    rownina_mazurska: 4.4007
+  boundary:
+    southWest:
+      lat: 53.319921382000075
+      lng: 21.76903893700006
+    northEast:
+      lat: 53.53581761700008
+      lng: 22.111749130000078
+- slug: grabowo
+  name: Grabowo
+  type: town
+  voivodeship: podlaskie
+  lat: 53.48245
+  lon: 22.17447
+  lands:
+    wysoczyzna_kolnenska: 100.0
+  boundary:
+    southWest:
+      lat: 53.414625630000046
+      lng: 22.059873011000036
+    northEast:
+      lat: 53.54453996600006
+      lng: 22.279352396000036
+- slug: szudzialowo
+  name: Szudziałowo
+  type: town
+  voivodeship: podlaskie
+  lat: 53.28775
+  lon: 23.6001
+  lands:
+    wzgorza_sokolskie: 97.4651
+    wysoczyzna_bialostocka: 2.4904
+  boundary:
+    southWest:
+      lat: 53.169564139000045
+      lng: 23.439226638000036
+    northEast:
+      lat: 53.40863720500005
+      lng: 23.76877909800004
+- slug: szypliszki
+  name: Szypliszki
+  type: town
+  voivodeship: podlaskie
+  lat: 54.235
+  lon: 23.04937
+  lands:
+    pojezierze_wschodniosuwalskie: 99.35
+    rownina_augustowska: 0.5698
+  boundary:
+    southWest:
+      lat: 54.14305396700007
+      lng: 22.96834874800004
+    northEast:
+      lat: 54.31594990500008
+      lng: 23.159756301000073
+- slug: kolaki_koscielne
+  name: Kołaki Kościelne
+  type: town
+  voivodeship: podlaskie
+  lat: 53.01572
+  lon: 22.36317
+  lands:
+    wysoczyzna_wysokomazowiecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.95711025300005
+      lng: 22.286401846000047
+    northEast:
+      lat: 53.06665060500006
+      lng: 22.44252630400007
+- slug: lipsk
+  name: Lipsk
+  type: town
+  voivodeship: podlaskie
+  lat: 53.75723
+  lon: 23.43339
+  lands:
+    wzgorza_sokolskie: 61.9202
+    kotlina_biebrzanska: 37.9827
+  boundary:
+    southWest:
+      lat: 53.695670489000065
+      lng: 23.293566953000038
+    northEast:
+      lat: 53.82671801500004
+      lng: 23.58870229400003
+- slug: grajewo
+  name: Grajewo
+  type: town
+  voivodeship: podlaskie
+  lat: 53.58067
+  lon: 22.5477
+  lands:
+    kotlina_biebrzanska: 68.9761
+    wysoczyzna_kolnenska: 20.4049
+    pojezierze_elckie: 10.619
+  boundary:
+    southWest:
+      lat: 53.472612886000036
+      lng: 22.323815532000026
+    northEast:
+      lat: 53.69896782400008
+      lng: 22.71829706500006
+- slug: grajewo
+  name: Grajewo
+  type: town
+  voivodeship: podlaskie
+  lat: 53.643
+  lon: 22.45481
+  lands:
+    pojezierze_elckie: 38.718
+    wysoczyzna_kolnenska: 35.0484
+    kotlina_biebrzanska: 26.2337
+  boundary:
+    southWest:
+      lat: 53.615248361000056
+      lng: 22.40858892600005
+    northEast:
+      lat: 53.663620811000044
+      lng: 22.49671060600008
+- slug: zbojna
+  name: Zbójna
+  type: town
+  voivodeship: podlaskie
+  lat: 53.25091
+  lon: 21.75743
+  lands:
+    rownina_kurpiowska: 86.9269
+    dolina_dolnej_narwi: 13.0731
+  boundary:
+    southWest:
+      lat: 53.16761878300008
+      lng: 21.633820403000072
+    northEast:
+      lat: 53.335075508000045
+      lng: 21.89529253300003
+- slug: augustow
+  name: Augustów
+  type: town
+  voivodeship: podlaskie
+  lat: 53.84803
+  lon: 23.01856
+  lands:
+    rownina_augustowska: 75.3039
+    pojezierze_elckie: 24.6961
+  boundary:
+    southWest:
+      lat: 53.81249738500003
+      lng: 22.880739798000036
+    northEast:
+      lat: 53.88464341000008
+      lng: 23.153196561000073
+- slug: suprasl
+  name: Supraśl
+  type: town
+  voivodeship: podlaskie
+  lat: 53.19178
+  lon: 23.32479
+  lands:
+    wysoczyzna_bialostocka: 96.0438
+    wzgorza_sokolskie: 3.9562
+  boundary:
+    southWest:
+      lat: 53.09746348800007
+      lng: 23.22024183900004
+    northEast:
+      lat: 53.277470437000034
+      lng: 23.512563214000068
+- slug: tykocin
+  name: Tykocin
+  type: town
+  voivodeship: podlaskie
+  lat: 53.19636
+  lon: 22.77518
+  lands:
+    wysoczyzna_wysokomazowiecka: 58.9785
+    dolina_gornej_narwi: 24.2405
+    wysoczyzna_bialostocka: 15.4187
+  boundary:
+    southWest:
+      lat: 53.11462192500005
+      lng: 22.61746794100003
+    northEast:
+      lat: 53.27693128200008
+      lng: 22.909109181000076
+- slug: orla
+  name: Orla
+  type: town
+  voivodeship: podlaskie
+  lat: 52.67041
+  lon: 23.29466
+  lands:
+    rownina_bielska: 100.0
+  boundary:
+    southWest:
+      lat: 52.58841792800007
+      lng: 23.184089408000034
+    northEast:
+      lat: 52.755796786000076
+      lng: 23.401703086000055
+- slug: czeremcha
+  name: Czeremcha
+  type: town
+  voivodeship: podlaskie
+  lat: 52.49572
+  lon: 23.33749
+  lands:
+    wysoczyzna_drohiczynska: 59.2115
+    rownina_bielska: 40.7023
+  boundary:
+    southWest:
+      lat: 52.42669001100006
+      lng: 23.256907480000052
+    northEast:
+      lat: 52.56581376300005
+      lng: 23.495583845000056
+- slug: stawiski
+  name: Stawiski
+  type: town
+  voivodeship: podlaskie
+  lat: 53.36559
+  lon: 22.13257
+  lands:
+    wysoczyzna_kolnenska: 100.0
+  boundary:
+    southWest:
+      lat: 53.28429760400007
+      lng: 22.02612524700004
+    northEast:
+      lat: 53.44033106000006
+      lng: 22.26700033000003
+- slug: turosl
+  name: Turośl
+  type: town
+  voivodeship: podlaskie
+  lat: 53.40355
+  lon: 21.72639
+  lands:
+    rownina_kurpiowska: 98.3508
+    wysoczyzna_kolnenska: 1.6323
+    rownina_mazurska: 0.0169
+  boundary:
+    southWest:
+      lat: 53.31272824500007
+      lng: 21.603625656000077
+    northEast:
+      lat: 53.492756678000035
+      lng: 21.83512571600005
+- slug: piatnica
+  name: Piątnica
+  type: town
+  voivodeship: podlaskie
+  lat: 53.21402
+  lon: 22.1783
+  lands:
+    wysoczyzna_kolnenska: 89.7481
+    dolina_dolnej_narwi: 7.839
+    kotlina_biebrzanska: 2.4129
+  boundary:
+    southWest:
+      lat: 53.120183464000036
+      lng: 22.007031092000034
+    northEast:
+      lat: 53.30739574800003
+      lng: 22.30108417100007
+- slug: wizna
+  name: Wizna
+  type: town
+  voivodeship: podlaskie
+  lat: 53.19245
+  lon: 22.3437
+  lands:
+    wysoczyzna_kolnenska: 76.977
+    kotlina_biebrzanska: 23.023
+  boundary:
+    southWest:
+      lat: 53.11068023200005
+      lng: 22.240994261000026
+    northEast:
+      lat: 53.27045898700004
+      lng: 22.479717166000057
+- slug: siemiatycze
+  name: Siemiatycze
+  type: town
+  voivodeship: podlaskie
+  lat: 52.42206
+  lon: 22.8753
+  lands:
+    wysoczyzna_drohiczynska: 95.3612
+    podlaski_przelom_bugu: 4.6388
+  boundary:
+    southWest:
+      lat: 52.376374629000054
+      lng: 22.821322807000058
+    northEast:
+      lat: 52.46473731200007
+      lng: 22.92907481900005
+- slug: sejny
+  name: Sejny
+  type: town
+  voivodeship: podlaskie
+  lat: 54.10575
+  lon: 23.34592
+  lands:
+    pojezierze_wschodniosuwalskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.095809907000046
+      lng: 23.330171791000055
+    northEast:
+      lat: 54.11977267300006
+      lng: 23.364447185000074
+- slug: krasnopol
+  name: Krasnopol
+  type: town
+  voivodeship: podlaskie
+  lat: 54.10045
+  lon: 23.19542
+  lands:
+    pojezierze_wschodniosuwalskie: 98.1658
+    rownina_augustowska: 1.8342
+  boundary:
+    southWest:
+      lat: 54.00424570300004
+      lng: 23.079981737000026
+    northEast:
+      lat: 54.183727168000075
+      lng: 23.305988902000024
+- slug: jeleniewo
+  name: Jeleniewo
+  type: town
+  voivodeship: podlaskie
+  lat: 54.22018
+  lon: 22.89154
+  lands:
+    pojezierze_wschodniosuwalskie: 87.84
+    rownina_augustowska: 12.16
+  boundary:
+    southWest:
+      lat: 54.156193002000066
+      lng: 22.79221196900005
+    northEast:
+      lat: 54.27398286500005
+      lng: 22.996633022000026
+- slug: wysokie_mazowieckie
+  name: Wysokie Mazowieckie
+  type: town
+  voivodeship: podlaskie
+  lat: 52.92746
+  lon: 22.51327
+  lands:
+    wysoczyzna_wysokomazowiecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.899844587000075
+      lng: 22.484842401000037
+    northEast:
+      lat: 52.94998744000003
+      lng: 22.543869347000054
+- slug: suwalki
+  name: Suwałki
+  type: town
+  voivodeship: podlaskie
+  lat: 54.10895
+  lon: 22.92737
+  lands:
+    rownina_augustowska: 94.5135
+    pojezierze_wschodniosuwalskie: 5.4865
+  boundary:
+    southWest:
+      lat: 54.04041628900006
+      lng: 22.872232704000055
+    northEast:
+      lat: 54.16501752700003
+      lng: 22.994512299000064
+- slug: zambrow
+  name: Zambrów
+  type: town
+  voivodeship: podlaskie
+  lat: 52.97879
+  lon: 22.23709
+  lands:
+    wysoczyzna_wysokomazowiecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.94284424500006
+      lng: 22.204247096000074
+    northEast:
+      lat: 53.00222801000007
+      lng: 22.29033129800007
+- slug: lomza
+  name: Łomża
+  type: town
+  voivodeship: podlaskie
+  lat: 53.17947
+  lon: 22.05622
+  lands:
+    miedzyrzecze_lomzynskie: 65.4436
+    dolina_dolnej_narwi: 34.5564
+  boundary:
+    southWest:
+      lat: 53.14366437800004
+      lng: 22.011157094000055
+    northEast:
+      lat: 53.21361683100008
+      lng: 22.106596525000043
+- slug: narewka
+  name: Narewka
+  type: town
+  voivodeship: podlaskie
+  lat: 52.85383
+  lon: 23.76833
+  lands:
+    rownina_bielska: 94.5919
+    dolina_gornej_narwi: 5.3039
+  boundary:
+    southWest:
+      lat: 52.75400016200007
+      lng: 23.59716018900008
+    northEast:
+      lat: 52.946597344000054
+      lng: 23.93956526200003
+- slug: bialystok
+  name: Białystok
+  type: town
+  voivodeship: podlaskie
+  lat: 53.12161
+  lon: 23.15052
+  lands:
+    wysoczyzna_bialostocka: 100.0
+  boundary:
+    southWest:
+      lat: 53.06659683700008
+      lng: 23.067158152000047
+    northEast:
+      lat: 53.18810775700007
+      lng: 23.247192919000042
+- slug: lomza
+  name: Łomża
+  type: town
+  voivodeship: podlaskie
+  lat: 53.14658
+  lon: 22.00545
+  lands:
+    miedzyrzecze_lomzynskie: 69.9524
+    dolina_dolnej_narwi: 12.8279
+    kotlina_biebrzanska: 12.1511
+  boundary:
+    southWest:
+      lat: 53.04020959600007
+      lng: 21.911499741000057
+    northEast:
+      lat: 53.24889158800005
+      lng: 22.31394333800006
+- slug: czarna_bialostocka
+  name: Czarna Białostocka
+  type: town
+  voivodeship: podlaskie
+  lat: 53.31604
+  lon: 23.23057
+  lands:
+    wysoczyzna_bialostocka: 99.7463
+    wzgorza_sokolskie: 0.2537
+  boundary:
+    southWest:
+      lat: 53.24720242700005
+      lng: 23.07581579400005
+    northEast:
+      lat: 53.38474597600003
+      lng: 23.40373085600004
+- slug: grodek
+  name: Gródek
+  type: town
+  voivodeship: podlaskie
+  lat: 53.10791
+  lon: 23.71331
+  lands:
+    wysoczyzna_bialostocka: 98.0028
+    wzgorza_sokolskie: 1.8848
+  boundary:
+    southWest:
+      lat: 52.99977027500006
+      lng: 23.368714199000067
+    northEast:
+      lat: 53.21508053900004
+      lng: 23.91578820500007
+- slug: wasilkow
+  name: Wasilków
+  type: town
+  voivodeship: podlaskie
+  lat: 53.22533
+  lon: 23.19527
+  lands:
+    wysoczyzna_bialostocka: 100.0
+  boundary:
+    southWest:
+      lat: 53.16658749900006
+      lng: 23.087809459000027
+    northEast:
+      lat: 53.27667223000003
+      lng: 23.324978385000065
+- slug: suraz
+  name: Suraż
+  type: town
+  voivodeship: podlaskie
+  lat: 52.94494
+  lon: 22.94999
+  lands:
+    wysoczyzna_bialostocka: 63.3153
+    dolina_gornej_narwi: 33.1176
+    wysoczyzna_wysokomazowiecka: 3.5672
+  boundary:
+    southWest:
+      lat: 52.90139721000003
+      lng: 22.896160637000037
+    northEast:
+      lat: 52.988274630000035
+      lng: 23.112564001000067
+- slug: bransk
+  name: Brańsk
+  type: town
+  voivodeship: podlaskie
+  lat: 52.76553
+  lon: 22.83234
+  lands:
+    rownina_bielska: 100.0
+  boundary:
+    southWest:
+      lat: 52.73739230100006
+      lng: 22.78507618200007
+    northEast:
+      lat: 52.803501949000065
+      lng: 22.911111621000032
+- slug: bocki
+  name: Boćki
+  type: town
+  voivodeship: podlaskie
+  lat: 52.64058
+  lon: 23.03985
+  lands:
+    rownina_bielska: 68.0754
+    wysoczyzna_drohiczynska: 31.9246
+  boundary:
+    southWest:
+      lat: 52.56589601300004
+      lng: 22.882223534000047
+    northEast:
+      lat: 52.71733080900003
+      lng: 23.222790103000023
+- slug: szczuczyn
+  name: Szczuczyn
+  type: town
+  voivodeship: podlaskie
+  lat: 53.58049
+  lon: 22.29763
+  lands:
+    wysoczyzna_kolnenska: 92.7758
+    pojezierze_elckie: 7.2242
+  boundary:
+    southWest:
+      lat: 53.50998186000004
+      lng: 22.13572796400007
+    northEast:
+      lat: 53.63345923300005
+      lng: 22.44319236900003
+- slug: kolno
+  name: Kolno
+  type: town
+  voivodeship: podlaskie
+  lat: 53.39908
+  lon: 21.93821
+  lands:
+    wysoczyzna_kolnenska: 100.0
+  boundary:
+    southWest:
+      lat: 53.36634768000005
+      lng: 21.880390859000045
+    northEast:
+      lat: 53.43686316900005
+      lng: 21.99188601000003
+- slug: goniadz
+  name: Goniądz
+  type: town
+  voivodeship: podlaskie
+  lat: 53.54285
+  lon: 22.76183
+  lands:
+    kotlina_biebrzanska: 73.107
+    wysoczyzna_bialostocka: 23.9802
+    pojezierze_elckie: 2.9128
+  boundary:
+    southWest:
+      lat: 53.39944529100006
+      lng: 22.539984507000042
+    northEast:
+      lat: 53.689846447000036
+      lng: 22.90160736000007
+- slug: krypno
+  name: Krypno
+  type: town
+  voivodeship: podlaskie
+  lat: 53.27295
+  lon: 22.84631
+  lands:
+    wysoczyzna_bialostocka: 94.0964
+  boundary:
+    southWest:
+      lat: 53.21426619300007
+      lng: 22.731867543000078
+    northEast:
+      lat: 53.33107025700008
+      lng: 22.955260923000026
+- slug: dziadkowice
+  name: Dziadkowice
+  type: town
+  voivodeship: podlaskie
+  lat: 52.57019
+  lon: 22.9327
+  lands:
+    wysoczyzna_drohiczynska: 100.0
+  boundary:
+    southWest:
+      lat: 52.50313356300006
+      lng: 22.799546061000058
+    northEast:
+      lat: 52.64169110100005
+      lng: 23.019399152000062
+- slug: bakalarzewo
+  name: Bakałarzewo
+  type: town
+  voivodeship: podlaskie
+  lat: 54.08748
+  lon: 22.70219
+  lands:
+    pojezierze_zachodniosuwalskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.029306768000026
+      lng: 22.595064208000053
+    northEast:
+      lat: 54.14999891000008
+      lng: 22.81140860000005
+- slug: przerosl
+  name: Przerośl
+  type: town
+  voivodeship: podlaskie
+  lat: 54.2334
+  lon: 22.69535
+  lands:
+    pojezierze_wschodniosuwalskie: 51.0273
+    pojezierze_zachodniosuwalskie: 46.1269
+    rownina_augustowska: 2.8457
+  boundary:
+    southWest:
+      lat: 54.17240094400006
+      lng: 22.558966524000027
+    northEast:
+      lat: 54.29120781800003
+      lng: 22.82441837700003
+- slug: wizajny
+  name: Wiżajny
+  type: town
+  voivodeship: podlaskie
+  lat: 54.33863
+  lon: 22.84578
+  lands:
+    pojezierze_wschodniosuwalskie: 99.6653
+  boundary:
+    southWest:
+      lat: 54.26519773000007
+      lng: 22.768003822000026
+    northEast:
+      lat: 54.41040285500003
+      lng: 22.967893038000057
+- slug: sokoly
+  name: Sokoły
+  type: town
+  voivodeship: podlaskie
+  lat: 53.00995
+  lon: 22.69878
+  lands:
+    wysoczyzna_wysokomazowiecka: 95.3982
+    dolina_gornej_narwi: 4.6018
+  boundary:
+    southWest:
+      lat: 52.92050973800008
+      lng: 22.60582256300006
+    northEast:
+      lat: 53.10005210000003
+      lng: 22.866526873000055
+- slug: wysokie_mazowieckie
+  name: Wysokie Mazowieckie
+  type: town
+  voivodeship: podlaskie
+  lat: 52.92053
+  lon: 22.47385
+  lands:
+    wysoczyzna_wysokomazowiecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.864246981000065
+      lng: 22.344608119000043
+    northEast:
+      lat: 52.98635766600006
+      lng: 22.692718241000023
+- slug: kleszczele
+  name: Kleszczele
+  type: town
+  voivodeship: podlaskie
+  lat: 52.59465
+  lon: 23.33302
+  lands:
+    rownina_bielska: 73.9295
+    wysoczyzna_drohiczynska: 26.0705
+  boundary:
+    southWest:
+      lat: 52.53134157300008
+      lng: 23.174813253000025
+    northEast:
+      lat: 52.657794264000074
+      lng: 23.50056759100005
+- slug: zambrow
+  name: Zambrów
+  type: town
+  voivodeship: podlaskie
+  lat: 52.99023
+  lon: 22.1747
+  lands:
+    wysoczyzna_wysokomazowiecka: 65.9922
+    miedzyrzecze_lomzynskie: 34.0078
+  boundary:
+    southWest:
+      lat: 52.87111224900008
+      lng: 22.030171223000025
+    northEast:
+      lat: 53.117269570000076
+      lng: 22.35680635800003
+- slug: augustow
+  name: Augustów
+  type: town
+  voivodeship: podlaskie
+  lat: 53.84022
+  lon: 22.83451
+  lands:
+    pojezierze_elckie: 49.0011
+    rownina_augustowska: 41.5358
+    kotlina_biebrzanska: 9.4632
+  boundary:
+    southWest:
+      lat: 53.726634174000026
+      lng: 22.746094941000024
+    northEast:
+      lat: 53.952789550000034
+      lng: 23.149988570000062
+- slug: bransk
+  name: Brańsk
+  type: town
+  voivodeship: podlaskie
+  lat: 52.74776
+  lon: 22.94332
+  lands:
+    rownina_bielska: 96.409
+    wysoczyzna_drohiczynska: 3.591
+  boundary:
+    southWest:
+      lat: 52.64103465100004
+      lng: 22.664494067000078
+    northEast:
+      lat: 52.85706610700004
+      lng: 23.006647543000042
+- slug: wyszki
+  name: Wyszki
+  type: town
+  voivodeship: podlaskie
+  lat: 52.84352
+  lon: 22.94402
+  lands:
+    rownina_bielska: 92.1325
+    dolina_gornej_narwi: 7.8429
+    wysoczyzna_wysokomazowiecka: 0.0246
+  boundary:
+    southWest:
+      lat: 52.749898948000066
+      lng: 22.791907949000063
+    northEast:
+      lat: 52.92567199200005
+      lng: 23.123756917000037
+- slug: wasosz
+  name: Wąsosz
+  type: town
+  voivodeship: podlaskie
+  lat: 53.49711
+  lon: 22.34799
+  lands:
+    wysoczyzna_kolnenska: 93.8294
+    kotlina_biebrzanska: 6.1706
+  boundary:
+    southWest:
+      lat: 53.42926902600004
+      lng: 22.230943670000045
+    northEast:
+      lat: 53.56031836300008
+      lng: 22.475141069000074
+- slug: trzcianne
+  name: Trzcianne
+  type: town
+  voivodeship: podlaskie
+  lat: 53.30892
+  lon: 22.6097
+  lands:
+    kotlina_biebrzanska: 74.4148
+    wysoczyzna_bialostocka: 25.117
+    wysoczyzna_kolnenska: 0.1146
+  boundary:
+    southWest:
+      lat: 53.20136404500005
+      lng: 22.430342963000044
+    northEast:
+      lat: 53.41981968600004
+      lng: 22.771069148000038
+- slug: filipow
+  name: Filipów
+  type: town
+  voivodeship: podlaskie
+  lat: 54.18943
+  lon: 22.61107
+  lands:
+    pojezierze_zachodniosuwalskie: 96.7082
+    pojezierze_wschodniosuwalskie: 1.8578
+    rownina_augustowska: 1.434
+  boundary:
+    southWest:
+      lat: 54.12733922100006
+      lng: 22.48153028200005
+    northEast:
+      lat: 54.247577860000035
+      lng: 22.807966269000076
+- slug: czyzew
+  name: Czyżew
+  type: town
+  voivodeship: podlaskie
+  lat: 52.82782
+  lon: 22.34099
+  lands:
+    wysoczyzna_wysokomazowiecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.74080232600005
+      lng: 22.249175458000025
+    northEast:
+      lat: 52.907611373000066
+      lng: 22.471225282000034
+- slug: szepietowo
+  name: Szepietowo
+  type: town
+  voivodeship: podlaskie
+  lat: 52.8557
+  lon: 22.52378
+  lands:
+    wysoczyzna_wysokomazowiecka: 98.6856
+    rownina_bielska: 1.3144
+  boundary:
+    southWest:
+      lat: 52.76868975500008
+      lng: 22.416260873000056
+    northEast:
+      lat: 52.931915023000045
+      lng: 22.70184966900007
+- slug: nowy_dwor
+  name: Nowy Dwór
+  type: town
+  voivodeship: podlaskie
+  lat: 53.65352
+  lon: 23.52605
+  lands:
+    wzgorza_sokolskie: 99.9317
+  boundary:
+    southWest:
+      lat: 53.59809062000005
+      lng: 23.410431507000055
+    northEast:
+      lat: 53.71023612700003
+      lng: 23.624756929000057
+- slug: nowogrod
+  name: Nowogród
+  type: town
+  voivodeship: podlaskie
+  lat: 53.22141
+  lon: 21.88473
+  lands:
+    miedzyrzecze_lomzynskie: 59.597
+    dolina_dolnej_narwi: 38.464
+    wysoczyzna_kolnenska: 1.7743
+  boundary:
+    southWest:
+      lat: 53.15882950400004
+      lng: 21.786745360000054
+    northEast:
+      lat: 53.281048776000034
+      lng: 21.986150188000067

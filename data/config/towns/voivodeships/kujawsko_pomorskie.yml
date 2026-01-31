@@ -1,391 +1,2312 @@
 ---
-- slug: bydgoszcz
-  name: Bydgoszcz
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.12517
-  lon: 18.00069
-- slug: dabrowa
-  name: Dąbrowa
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.74359
-  lon: 17.94199
-- slug: gasawa
-  name: Gąsawa
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.76583
-  lon: 17.75419
 - slug: janikowo
   name: Janikowo
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.74650
-  lon: 18.11365
-- slug: janowiec_wielkopolski
-  name: Janowiec Wielkopolski
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.75575
-  lon: 17.49172
-- slug: jeziora_wielkie
-  name: Jeziora Wielkie
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.52904
-  lon: 18.26763
-- slug: mogilno
-  name: Mogilno
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.65960
-  lon: 17.94696
-- slug: mrocza
-  name: Mrocza
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.24404
-  lon: 17.60709
-- slug: rogowo_zninski
-  name: Rogowo (powiat żniński)
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.72211
-  lon: 17.64815
-- slug: sicienko
-  name: Sicienko
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.20373
-  lon: 17.79681
-- slug: strzelno
-  name: Strzelno
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.62739
-  lon: 18.16966
-- slug: biale_blota
-  name: Białe Błota
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.09831
-  lon: 17.91972
-- slug: szubin
-  name: Szubin
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.00772
-  lon: 17.74222
-- slug: naklo_nad_notecia
-  name: Naklo nad Notecią
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.14034
-  lon: 17.60352
-- slug: kcynia
-  name: Kcynia
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.99015
-  lon: 17.48542
-- slug: znin
-  name: Żnin
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.85126
-  lon: 17.72368
+  voivodeship: kujawsko-pomorskie
+  lat: 52.72447
+  lon: 18.10447
+  lands:
+    pojezierze_zninskomogilenskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.67293033000004
+      lng: 17.99763024600003
+    northEast:
+      lat: 52.77381240500006
+      lng: 18.20273260500005
 - slug: kruszwica
   name: Kruszwica
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.67259
-  lon: 18.32621
-- slug: inowroclaw
-  name: Inowrocław
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.79441
-  lon: 18.25823
-- slug: wiecbork
-  name: Więcbork
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.35358
-  lon: 17.48473
-- slug: sepolno_krajenskie
-  name: Sępólno Krajeńskie
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.45367
-  lon: 17.53657
-- slug: kesowo
-  name: Kęsowo
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.55699
-  lon: 17.71441
-- slug: gostycyn
-  name: Gostycyn
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.48882
-  lon: 17.81089
-- slug: tuchola
-  name: Tuchola
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.58492
-  lon: 17.86238
+  voivodeship: kujawsko-pomorskie
+  lat: 52.63729
+  lon: 18.35557
+  lands:
+    pojezierze_zninskomogilenskie: 48.2971
+    rownina_inowroclawska: 37.6673
+    pojezierze_kujawskie: 14.0356
+  boundary:
+    southWest:
+      lat: 52.53746379200004
+      lng: 18.235499969000045
+    northEast:
+      lat: 52.73500296200007
+      lng: 18.50366900100005
 - slug: pakosc
   name: Pakość
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.80417
-  lon: 18.09069
-- slug: zlotniki_kujawskie
-  name: Złotniki Kujawskie
+  voivodeship: kujawsko-pomorskie
+  lat: 52.81622
+  lon: 18.11857
+  lands:
+    pojezierze_zninskomogilenskie: 72.2204
+    rownina_inowroclawska: 27.7796
+  boundary:
+    southWest:
+      lat: 52.75463039200008
+      lng: 17.996413748000066
+    northEast:
+      lat: 52.86959065500008
+      lng: 18.20822917600003
+- slug: rojewo
+  name: Rojewo
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.90157
-  lon: 18.14216
-- slug: kamien_krajenski
-  name: Kamień Krajeński
+  voivodeship: kujawsko-pomorskie
+  lat: 52.9257
+  lon: 18.28501
+  lands:
+    kotlina_torunska: 58.0019
+    rownina_inowroclawska: 41.9981
+  boundary:
+    southWest:
+      lat: 52.85135294400004
+      lng: 18.206734362000077
+    northEast:
+      lat: 52.99098356600007
+      lng: 18.38241724900007
+- slug: bobrowniki
+  name: Bobrowniki
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.53149
-  lon: 17.51803
-- slug: sosno
-  name: Sośno
+  voivodeship: kujawsko-pomorskie
+  lat: 52.77655
+  lon: 19.00096
+  lands:
+    nieszawski_przelom_wisly: 77.6126
+    pojezierze_dobrzynskie: 22.3874
+  boundary:
+    southWest:
+      lat: 52.714149046000045
+      lng: 18.907263189000048
+    northEast:
+      lat: 52.835815326000045
+      lng: 19.08857655500003
+- slug: wielgie
+  name: Wielgie
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.38912
-  lon: 17.68643
-- slug: cekcyn
-  name: Cekcyń
+  voivodeship: kujawsko-pomorskie
+  lat: 52.74777
+  lon: 19.26547
+  lands:
+    pojezierze_dobrzynskie: 86.549
+    rownina_urszulewska: 13.451
+  boundary:
+    southWest:
+      lat: 52.68724088000005
+      lng: 19.161721795000062
+    northEast:
+      lat: 52.812311934000036
+      lng: 19.35752851700005
+- slug: tluchowo
+  name: Tłuchowo
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.57259
-  lon: 18.01070
-- slug: pruszcz
-  name: Pruszcz
+  voivodeship: kujawsko-pomorskie
+  lat: 52.74017
+  lon: 19.4272
+  lands:
+    rownina_urszulewska: 98.4851
+    pojezierze_dobrzynskie: 1.5149
+  boundary:
+    southWest:
+      lat: 52.68123716100007
+      lng: 19.34696173900005
+    northEast:
+      lat: 52.81553322100007
+      lng: 19.52583574700003
+- slug: jeziora_wielkie
+  name: Jeziora Wielkie
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.33165
-  lon: 18.19558
-- slug: swiekatowo
-  name: Świekatowo
+  voivodeship: kujawsko-pomorskie
+  lat: 52.53456
+  lon: 18.25868
+  lands:
+    pojezierze_zninskomogilenskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.48116030400007
+      lng: 18.09024878100007
+    northEast:
+      lat: 52.59317741000007
+      lng: 18.361213193000026
+- slug: radziejow
+  name: Radziejów
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.41940
-  lon: 18.09362
-- slug: bukowiec
-  name: Bukowiec
+  voivodeship: kujawsko-pomorskie
+  lat: 52.62301
+  lon: 18.52848
+  lands:
+    pojezierze_kujawskie: 98.6301
+    rownina_inowroclawska: 1.3699
+  boundary:
+    southWest:
+      lat: 52.60252766800005
+      lng: 18.513758976000076
+    northEast:
+      lat: 52.63353026600004
+      lng: 18.548244182000076
+- slug: wiecbork
+  name: Więcbork
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.43065
-  lon: 18.23782
+  voivodeship: kujawsko-pomorskie
+  lat: 53.34948
+  lon: 17.46436
+  lands:
+    pojezierze_poludniowokrajenskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.26751475900005
+      lng: 17.247740348000036
+    northEast:
+      lat: 53.43136597500006
+      lng: 17.621731070000067
 - slug: drzycim
   name: Drzycim
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.508816
-  lon: 18.312448
-- slug: osie
-  name: Osie
+  voivodeship: kujawsko-pomorskie
+  lat: 53.50947
+  lon: 18.33442
+  lands:
+    wysoczyzna_swiecka: 100.0
+  boundary:
+    southWest:
+      lat: 53.43950005000005
+      lng: 18.237345032000064
+    northEast:
+      lat: 53.58378803700003
+      lng: 18.413798753000037
+- slug: warlubie
+  name: Warlubie
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.598398
-  lon: 18.345540
-- slug: sliwice
-  name: Śliwice
+  voivodeship: kujawsko-pomorskie
+  lat: 53.62335
+  lon: 18.51853
+  lands:
+    bory_tucholskie: 90.0509
+    dolina_kwidzynska: 8.0614
+    kotlina_grudziadzka: 1.8876
+  boundary:
+    southWest:
+      lat: 53.52335110200005
+      lng: 18.396470329000067
+    northEast:
+      lat: 53.70372189600005
+      lng: 18.717594817000077
+- slug: gostycyn
+  name: Gostycyn
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.710727
-  lon: 18.179846
-- slug: gniewkowo
-  name: Gniewkowo
+  voivodeship: kujawsko-pomorskie
+  lat: 53.49156
+  lon: 17.804
+  lands:
+    pojezierze_polnocnokrajenskie: 73.0897
+    dolina_brdy: 26.7908
+    pojezierze_poludniowokrajenskie: 0.1195
+  boundary:
+    southWest:
+      lat: 53.416170641000065
+      lng: 17.719799283000043
+    northEast:
+      lat: 53.56110283400005
+      lng: 17.90031119100007
+- slug: tuchola
+  name: Tuchola
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.895624
-  lon: 18.408578
-- slug: dabrowa_biskupia
-  name: Dąbrowa Biskupia
+  voivodeship: kujawsko-pomorskie
+  lat: 53.64795
+  lon: 17.85951
+  lands:
+    bory_tucholskie: 50.9649
+    pojezierze_polnocnokrajenskie: 41.2421
+    dolina_brdy: 7.793
+  boundary:
+    southWest:
+      lat: 53.547103967000055
+      lng: 17.737666903000047
+    northEast:
+      lat: 53.75962767800007
+      lng: 18.05104644000005
+- slug: chodecz
+  name: Chodecz
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.777844
-  lon: 18.534629
-- slug: labiszyn
-  name: Łabiszyn
+  voivodeship: kujawsko-pomorskie
+  lat: 52.39532
+  lon: 19.00165
+  lands:
+    pojezierze_kujawskie: 99.7917
+    wysoczyzna_klodawska: 0.2083
+  boundary:
+    southWest:
+      lat: 52.332092990000035
+      lng: 18.916695985000047
+    northEast:
+      lat: 52.45709847900008
+      lng: 19.13556621600003
+- slug: lubraniec
+  name: Lubraniec
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.951321
-  lon: 17.918996
-- slug: zbiczno
-  name: Zbiczno
+  voivodeship: kujawsko-pomorskie
+  lat: 52.51846
+  lon: 18.83889
+  lands:
+    pojezierze_kujawskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.44215982400004
+      lng: 18.726894705000063
+    northEast:
+      lat: 52.59563107100007
+      lng: 18.972664610000038
+- slug: dabrowa_chelminska
+  name: Dąbrowa Chełmińska
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.333531
-  lon: 19.375582
-- slug: bobrowo
-  name: Bobrowo
+  voivodeship: kujawsko-pomorskie
+  lat: 53.17274
+  lon: 18.27563
+  lands:
+    pojezierze_chelminskie: 45.9509
+    dolina_fordonska: 29.9488
+    kotlina_torunska: 24.1003
+  boundary:
+    southWest:
+      lat: 53.10355758600008
+      lng: 18.135279138000044
+    northEast:
+      lat: 53.24560932700007
+      lng: 18.353532118000032
+- slug: solec_kujawski
+  name: Solec Kujawski
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.287266
-  lon: 19.271094
-- slug: jablonowo_pomorskie
-  name: Jabłonowo Pomorskie
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.390975
-  lon: 19.158212
-- slug: ksiazki
-  name: Książki
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.329193
-  lon: 19.070243
-- slug: lasin
-  name: Łasin
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.518897
-  lon: 19.087398
-- slug: swiecie_nad_osa
-  name: Świecie nad Osą
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.443670
-  lon: 19.100177
-- slug: radzyn_chelminski
-  name: Radzyń Chełmiński
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.385639
-  lon: 18.935896
-- slug: kowalewo_pomorskie
-  name: Kowalewo Pomorskie
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.15464
-  lon: 18.89725
-- slug: torun
-  name: Toruń
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.01555
-  lon: 18.60594
-- slug: sadki
-  name: Sadki
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.15855
-  lon: 17.44860
-- slug: koronowo
-  name: Koronowo
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.31180
-  lon: 17.94153
-- slug: brodnica
-  name: Brodnica
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.25554
-  lon: 19.40282
-- slug: golub_dobrzyn
-  name: Golub-Dobrzyń
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.11214
-  lon: 19.05169
-- slug: gruta
-  name: Gruta
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.45962
-  lon: 18.96606
-- slug: wabrzezno
-  name: Wąbrzeźno
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.27946
-  lon: 18.94924
-- slug: pluznica
-  name: Płużnica
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.29147
-  lon: 18.77758
-- slug: jezewo
-  name: Jeżewo
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.50742
-  lon: 18.49193
-- slug: dragacz
-  name: Dragacz
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.49047
-  lon: 18.71046
-- slug: grudziadz
-  name: Grudziądz
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.48230
-  lon: 18.75835
-- slug: brzozie
-  name: Brzozie
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.32441
-  lon: 19.60692
-- slug: lubicz
-  name: Lubicz
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.03212
-  lon: 18.75634
+  voivodeship: kujawsko-pomorskie
+  lat: 53.03698
+  lon: 18.25372
+  lands:
+    kotlina_torunska: 100.0
+  boundary:
+    southWest:
+      lat: 52.97054915000007
+      lng: 18.101839106000057
+    northEast:
+      lat: 53.098766502000046
+      lng: 18.407411637000052
 - slug: ciechocin
   name: Ciechocin
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.05658
-  lon: 18.92337
+  voivodeship: kujawsko-pomorskie
+  lat: 53.04649
+  lon: 18.93795
+  lands:
+    pojezierze_dobrzynskie: 53.3063
+    dolina_drwecy: 46.6472
+    pojezierze_chelminskie: 0.0465
+  boundary:
+    southWest:
+      lat: 52.973794672000054
+      lng: 18.81863382100005
+    northEast:
+      lat: 53.115902332000076
+      lng: 19.030817351000053
 - slug: radomin
   name: Radomin
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.08639
-  lon: 19.19511
+  voivodeship: kujawsko-pomorskie
+  lat: 53.08852
+  lon: 19.17703
+  lands:
+    pojezierze_dobrzynskie: 92.5783
+    dolina_drwecy: 7.4217
+  boundary:
+    southWest:
+      lat: 53.03665525100007
+      lng: 19.09095971200003
+    northEast:
+      lat: 53.152776792000054
+      lng: 19.256858480000062
+- slug: rynsk
+  name: Ryńsk
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.26936
+  lon: 18.91937
+  lands:
+    pojezierze_chelminskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.18330677200004
+      lng: 18.761789087000068
+    northEast:
+      lat: 53.348112437000054
+      lng: 19.062983418000044
+- slug: inowroclaw
+  name: Inowrocław
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.79194
+  lon: 18.34003
+  lands:
+    rownina_inowroclawska: 82.7921
+    pojezierze_zninskomogilenskie: 17.2079
+  boundary:
+    southWest:
+      lat: 52.71349586600007
+      lng: 18.138238046000026
+    northEast:
+      lat: 52.880308555000056
+      lng: 18.414807669000027
+- slug: lipno
+  name: Lipno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.84646
+  lon: 19.17907
+  lands:
+    pojezierze_dobrzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.827827497000044
+      lng: 19.137054301000035
+    northEast:
+      lat: 52.856938598000056
+      lng: 19.218636249000042
+- slug: mrocza
+  name: Mrocza
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.23874
+  lon: 17.55125
+  lands:
+    pojezierze_poludniowokrajenskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.18053330400005
+      lng: 17.412662771000043
+    northEast:
+      lat: 53.29490081200004
+      lng: 17.702421448000052
+- slug: brzuze
+  name: Brzuze
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.05745
+  lon: 19.26236
+  lands:
+    pojezierze_dobrzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.997103339000034
+      lng: 19.179996648000042
+    northEast:
+      lat: 53.11552820300005
+      lng: 19.338634187000025
+- slug: swiekatowo
+  name: Świekatowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.41707
+  lon: 18.11095
+  lands:
+    wysoczyzna_swiecka: 100.0
+  boundary:
+    southWest:
+      lat: 53.36688855700004
+      lng: 18.034278869000048
+    northEast:
+      lat: 53.46982551600007
+      lng: 18.176794175000055
+- slug: sliwice
+  name: Śliwice
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.69981
+  lon: 18.12717
+  lands:
+    bory_tucholskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.61967824000004
+      lng: 18.025184055000068
+    northEast:
+      lat: 53.78107503600006
+      lng: 18.274116030000073
+- slug: lubanie
+  name: Lubanie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.74569
+  lon: 18.90141
+  lands:
+    rownina_inowroclawska: 54.9305
+    nieszawski_przelom_wisly: 45.0695
+  boundary:
+    southWest:
+      lat: 52.665135070000076
+      lng: 18.82750376900003
+    northEast:
+      lat: 52.782599737000055
+      lng: 19.019441764000078
+- slug: kowal
+  name: Kowal
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.53297
+  lon: 19.18444
+  lands:
+    kotlina_plocka: 50.786
+    pojezierze_kujawskie: 49.214
+  boundary:
+    southWest:
+      lat: 52.45491699100006
+      lng: 19.05536353900004
+    northEast:
+      lat: 52.610817170000075
+      lng: 19.27926381000003
+- slug: lubien_kujawski
+  name: Lubień Kujawski
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.40876
+  lon: 19.17806
+  lands:
+    pojezierze_kujawskie: 81.8505
+    wysoczyzna_klodawska: 18.1495
+  boundary:
+    southWest:
+      lat: 52.34078873700008
+      lng: 19.06735059700003
+    northEast:
+      lat: 52.47920023100005
+      lng: 19.29656631100005
+- slug: rogowo
+  name: Rogowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.70655
+  lon: 17.68216
+  lands:
+    pojezierze_gnieznienskie: 82.6276
+    pojezierze_chodzieskie: 17.0872
+    pojezierze_zninskomogilenskie: 0.2852
+  boundary:
+    southWest:
+      lat: 52.602397705000044
+      lng: 17.54609399700007
+    northEast:
+      lat: 52.80795654700006
+      lng: 17.815452047000065
+- slug: bydgoszcz
+  name: Bydgoszcz
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.12438
+  lon: 18.03627
+  lands:
+    kotlina_torunska: 82.4835
+    dolina_brdy: 6.4997
+    dolina_fordonska: 6.1278
+  boundary:
+    southWest:
+      lat: 53.05010956800004
+      lng: 17.874166312000057
+    northEast:
+      lat: 53.20851564900005
+      lng: 18.202103153000053
+- slug: lisewo
+  name: Lisewo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.29094
+  lon: 18.65942
+  lands:
+    pojezierze_chelminskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.241370837000034
+      lng: 18.55694999600007
+    northEast:
+      lat: 53.35093496600007
+      lng: 18.740792611000074
+- slug: unislaw
+  name: Unisław
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.23165
+  lon: 18.3787
+  lands:
+    pojezierze_chelminskie: 52.7703
+    dolina_fordonska: 47.2297
+  boundary:
+    southWest:
+      lat: 53.16977527000006
+      lng: 18.26715905100002
+    northEast:
+      lat: 53.283090849000075
+      lng: 18.468024962000072
+- slug: nieszawa
+  name: Nieszawa
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.84729
+  lon: 18.8868
+  lands:
+    rownina_inowroclawska: 62.1383
+    kotlina_torunska: 23.6463
+    nieszawski_przelom_wisly: 14.2154
+  boundary:
+    southWest:
+      lat: 52.81901110100006
+      lng: 18.863885225000047
+    northEast:
+      lat: 52.86023763500003
+      lng: 18.909185645000036
+- slug: ciechocinek
+  name: Ciechocinek
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.88846
+  lon: 18.80947
+  lands:
+    kotlina_torunska: 100.0
+  boundary:
+    southWest:
+      lat: 52.862328597000044
+      lng: 18.76602874400004
+    northEast:
+      lat: 52.907828186000074
+      lng: 18.835505741000077
+- slug: zakrzewo
+  name: Zakrzewo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.74869
+  lon: 18.63372
+  lands:
+    rownina_inowroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.70817772700008
+      lng: 18.500224013000036
+    northEast:
+      lat: 52.78957148900008
+      lng: 18.74877432100004
+- slug: bobrowo
+  name: Bobrowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.26201
+  lon: 19.22036
+  lands:
+    pojezierze_chelminskie: 71.3723
+    pojezierze_brodnickie: 27.0054
+    dolina_drwecy: 1.6223
+  boundary:
+    southWest:
+      lat: 53.19975623400006
+      lng: 19.113533346000054
+    northEast:
+      lat: 53.33429255600004
+      lng: 19.377642670000057
+- slug: gorzno
+  name: Górzno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.18657
+  lon: 19.64582
+  lands:
+    pojezierze_dobrzynskie: 53.0353
+    rownina_urszulewska: 46.9647
+  boundary:
+    southWest:
+      lat: 53.12561715900006
+      lng: 19.54475887700005
+    northEast:
+      lat: 53.24622896900007
+      lng: 19.761595214000067
+- slug: grudziadz
+  name: Grudziądz
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.4337
+  lon: 18.6832
+  lands:
+    kotlina_grudziadzka: 57.0228
+    pojezierze_chelminskie: 36.9308
+    dolina_fordonska: 5.8834
+  boundary:
+    southWest:
+      lat: 53.36482764900006
+      lng: 18.598252916000035
+    northEast:
+      lat: 53.60704626000006
+      lng: 18.887914973000022
+- slug: swiecie_nad_osa
+  name: Świecie nad Osą
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.43951
+  lon: 19.09465
+  lands:
+    pojezierze_brodnickie: 59.8371
+    pojezierze_chelminskie: 40.1187
+    pojezierze_lasinskie: 0.0442
+  boundary:
+    southWest:
+      lat: 53.37824658800008
+      lng: 19.019951604000028
+    northEast:
+      lat: 53.500858907000065
+      lng: 19.236311014000023
+- slug: gniewkowo
+  name: Gniewkowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.88435
+  lon: 18.44572
+  lands:
+    rownina_inowroclawska: 79.9881
+    kotlina_torunska: 20.0119
+  boundary:
+    southWest:
+      lat: 52.81565433600008
+      lng: 18.28746829000005
+    northEast:
+      lat: 52.955806867000035
+      lng: 18.564748586000064
+- slug: kikol
+  name: Kikół
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.92462
+  lon: 19.12118
+  lands:
+    pojezierze_dobrzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.87437547700006
+      lng: 19.009569226000053
+    northEast:
+      lat: 52.970854994000035
+      lng: 19.215366627000037
+- slug: dobrzyn_nad_wisla
+  name: Dobrzyń nad Wisłą
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.67577
+  lon: 19.30621
+  lands:
+    pojezierze_dobrzynskie: 90.3604
+    kotlina_plocka: 7.3204
+    rownina_urszulewska: 2.3192
+  boundary:
+    southWest:
+      lat: 52.627302333000046
+      lng: 19.169719607000047
+    northEast:
+      lat: 52.72339870800005
+      lng: 19.436902489000033
+- slug: lipno
+  name: Lipno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.81423
+  lon: 19.19681
+  lands:
+    pojezierze_dobrzynskie: 91.7827
+    nieszawski_przelom_wisly: 4.8944
+    kotlina_torunska: 2.166
+  boundary:
+    southWest:
+      lat: 52.725110707000056
+      lng: 18.943144548000078
+    northEast:
+      lat: 52.90186096800005
+      lng: 19.323607010000046
+- slug: mogilno
+  name: Mogilno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.63341
+  lon: 17.96261
+  lands:
+    pojezierze_zninskomogilenskie: 96.8981
+    pojezierze_gnieznienskie: 3.1019
+  boundary:
+    southWest:
+      lat: 52.54773175100007
+      lng: 17.78666623500004
+    northEast:
+      lat: 52.720871653000074
+      lng: 18.115098577000026
+- slug: szubin
+  name: Szubin
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.01299
+  lon: 17.72225
+  lands:
+    pojezierze_zninskomogilenskie: 67.7916
+    kotlina_torunska: 20.3483
+    pojezierze_chodzieskie: 9.7578
+  boundary:
+    southWest:
+      lat: 52.91065300100007
+      lng: 17.569730658000026
+    northEast:
+      lat: 53.113510878000056
+      lng: 17.878377425000053
 - slug: wapielsk
   name: Wąpielsk
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.13719
-  lon: 19.28162
-- slug: osiek
-  name: Osiek
+  voivodeship: kujawsko-pomorskie
+  lat: 53.14417
+  lon: 19.26924
+  lands:
+    pojezierze_dobrzynskie: 72.5155
+    dolina_drwecy: 27.4845
+  boundary:
+    southWest:
+      lat: 53.07853449300006
+      lng: 19.18613361200005
+    northEast:
+      lat: 53.21669885600005
+      lng: 19.368384544000037
+- slug: kamien_krajenski
+  name: Kamień Krajeński
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.16879
-  lon: 19.38634
-- slug: byton
-  name: Bytoń
+  voivodeship: kujawsko-pomorskie
+  lat: 53.54998
+  lon: 17.51219
+  lands:
+    pojezierze_polnocnokrajenskie: 97.5986
+    pojezierze_poludniowokrajenskie: 2.4014
+  boundary:
+    southWest:
+      lat: 53.47710621600004
+      lng: 17.40203332300007
+    northEast:
+      lat: 53.61318269100008
+      lng: 17.656697629000064
+- slug: pruszcz
+  name: Pruszcz
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.55708720112263
-  lon: 18.595882608593122
-- slug: topolko
-  name: Topółka
-  type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 52.502661439735355
-  lon: 18.70921989117469
+  voivodeship: kujawsko-pomorskie
+  lat: 53.31708
+  lon: 18.21637
+  lands:
+    wysoczyzna_swiecka: 93.7754
+    dolina_fordonska: 6.2246
+  boundary:
+    southWest:
+      lat: 53.25307763400008
+      lng: 18.049297995000074
+    northEast:
+      lat: 53.38503063100006
+      lng: 18.327129980000052
 - slug: lysomice
   name: Łysomice
   type: town
-  voivodeship: kujawsko_pomorskie
-  lat: 53.08520680227515
-  lon: 18.61985440569016
+  voivodeship: kujawsko-pomorskie
+  lat: 53.10233
+  lon: 18.63515
+  lands:
+    pojezierze_chelminskie: 80.1962
+    kotlina_torunska: 19.8038
+  boundary:
+    southWest:
+      lat: 53.04340855100003
+      lng: 18.481495469000038
+    northEast:
+      lat: 53.15614234100008
+      lng: 18.787232809000045
+- slug: barcin
+  name: Barcin
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.85345
+  lon: 17.9732
+  lands:
+    pojezierze_zninskomogilenskie: 66.5782
+    rownina_inowroclawska: 33.4218
+  boundary:
+    southWest:
+      lat: 52.797025517000066
+      lng: 17.825254164000057
+    northEast:
+      lat: 52.91790931300005
+      lng: 18.070490568000025
+- slug: chelmno
+  name: Chełmno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.35525
+  lon: 18.42788
+  lands:
+    pojezierze_chelminskie: 57.3651
+    dolina_fordonska: 42.6349
+  boundary:
+    southWest:
+      lat: 53.331703868000034
+      lng: 18.385063007000042
+    northEast:
+      lat: 53.37441718700006
+      lng: 18.463115824000056
+- slug: raciazek
+  name: Raciążek
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.8487
+  lon: 18.81587
+  lands:
+    rownina_inowroclawska: 66.075
+    kotlina_torunska: 33.925
+  boundary:
+    southWest:
+      lat: 52.81826837300008
+      lng: 18.755441731000076
+    northEast:
+      lat: 52.88333648400004
+      lng: 18.88601083100008
+- slug: koronowo
+  name: Koronowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.32247
+  lon: 17.89897
+  lands:
+    pojezierze_poludniowokrajenskie: 57.9324
+    dolina_brdy: 31.1358
+    wysoczyzna_swiecka: 10.7375
+  boundary:
+    southWest:
+      lat: 53.20225734700006
+      lng: 17.687282293000067
+    northEast:
+      lat: 53.44324508900007
+      lng: 18.065896534000046
+- slug: radzyn_chelminski
+  name: Radzyń Chełmiński
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.37434
+  lon: 18.94217
+  lands:
+    pojezierze_chelminskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.333461500000055
+      lng: 18.81058521800003
+    northEast:
+      lat: 53.430438209000044
+      lng: 19.062373405000073
+- slug: gruta
+  name: Gruta
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.45503
+  lon: 18.95071
+  lands:
+    pojezierze_chelminskie: 97.6564
+    pojezierze_lasinskie: 2.2491
+    kotlina_grudziadzka: 0.0534
+  boundary:
+    southWest:
+      lat: 53.38868709400003
+      lng: 18.826896093000073
+    northEast:
+      lat: 53.512237764000076
+      lng: 19.070914771000048
+- slug: strzelno
+  name: Strzelno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.6294
+  lon: 18.17237
+  lands:
+    pojezierze_zninskomogilenskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.52865506900008
+      lng: 18.05894715100004
+    northEast:
+      lat: 52.732581098000026
+      lng: 18.289864257000033
+- slug: sadki
+  name: Sadki
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.16038
+  lon: 17.426
+  lands:
+    pojezierze_poludniowokrajenskie: 71.5144
+    dolina_srodkowej_noteci: 28.4856
+  boundary:
+    southWest:
+      lat: 53.08720485600003
+      lng: 17.321125804000076
+    northEast:
+      lat: 53.23199093800008
+      lng: 17.534496701000023
+- slug: dragacz
+  name: Dragacz
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.50386
+  lon: 18.66911
+  lands:
+    kotlina_grudziadzka: 91.7395
+    dolina_kwidzynska: 4.7376
+    bory_tucholskie: 1.9063
+  boundary:
+    southWest:
+      lat: 53.42738506100005
+      lng: 18.582995483000047
+    northEast:
+      lat: 53.56431819800008
+      lng: 18.764829159000044
+- slug: bukowiec
+  name: Bukowiec
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.42982
+  lon: 18.25396
+  lands:
+    wysoczyzna_swiecka: 100.0
+  boundary:
+    southWest:
+      lat: 53.366472024000075
+      lng: 18.150965219000057
+    northEast:
+      lat: 53.48180098700004
+      lng: 18.344851908000066
+- slug: nowe
+  name: Nowe
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.62229
+  lon: 18.69013
+  lands:
+    bory_tucholskie: 38.9623
+    pojezierze_starogardzkie: 32.0919
+    dolina_kwidzynska: 28.9458
+  boundary:
+    southWest:
+      lat: 53.556860733000065
+      lng: 18.560468980000053
+    northEast:
+      lat: 53.70210535800004
+      lng: 18.788971425000057
+- slug: chelmza
+  name: Chełmża
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.18374
+  lon: 18.60762
+  lands:
+    pojezierze_chelminskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.169308466000075
+      lng: 18.58563599300004
+    northEast:
+      lat: 53.19730902200007
+      lng: 18.632156468000062
+- slug: cekcyn
+  name: Cekcyn
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.56842
+  lon: 18.04613
+  lands:
+    bory_tucholskie: 51.4281
+    wysoczyzna_swiecka: 29.7054
+    dolina_brdy: 18.8665
+  boundary:
+    southWest:
+      lat: 53.46551804500007
+      lng: 17.87722195400005
+    northEast:
+      lat: 53.67125186000004
+      lng: 18.22615931100006
+- slug: lubiewo
+  name: Lubiewo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.46201
+  lon: 17.9832
+  lands:
+    wysoczyzna_swiecka: 71.513
+    dolina_brdy: 28.487
+  boundary:
+    southWest:
+      lat: 53.38300059300008
+      lng: 17.884729250000078
+    northEast:
+      lat: 53.54110694000008
+      lng: 18.102819628000077
+- slug: boniewo
+  name: Boniewo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.45706
+  lon: 18.88215
+  lands:
+    pojezierze_kujawskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.39824592600007
+      lng: 18.80286142800003
+    northEast:
+      lat: 52.518917542000054
+      lng: 18.958850304000066
+- slug: janowiec_wielkopolski
+  name: Janowiec Wielkopolski
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.76466
+  lon: 17.48671
+  lands:
+    pojezierze_gnieznienskie: 50.4515
+    pojezierze_chodzieskie: 49.5485
+  boundary:
+    southWest:
+      lat: 52.67416026800004
+      lng: 17.407847125000046
+    northEast:
+      lat: 52.86050691400004
+      lng: 17.61982594600005
+- slug: znin
+  name: Żnin
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.8549
+  lon: 17.71127
+  lands:
+    pojezierze_chodzieskie: 52.1012
+    pojezierze_zninskomogilenskie: 47.8988
+  boundary:
+    southWest:
+      lat: 52.78624809000007
+      lng: 17.512543527000048
+    northEast:
+      lat: 52.92544299200006
+      lng: 17.92005123900003
+- slug: grudziadz
+  name: Grudziądz
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.46645
+  lon: 18.7561
+  lands:
+    kotlina_grudziadzka: 99.3105
+    pojezierze_chelminskie: 0.6775
+    pojezierze_lasinskie: 0.012
+  boundary:
+    southWest:
+      lat: 53.42291487700004
+      lng: 18.704015539000068
+    northEast:
+      lat: 53.52388207200005
+      lng: 18.87090881200004
+- slug: torun
+  name: Toruń
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.02211
+  lon: 18.60598
+  lands:
+    kotlina_torunska: 96.7633
+    pojezierze_chelminskie: 3.2367
+  boundary:
+    southWest:
+      lat: 52.97254623500004
+      lng: 18.46066692100004
+    northEast:
+      lat: 53.06551879700004
+      lng: 18.731334168000046
+- slug: kijewo_krolewskie
+  name: Kijewo Królewskie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.25933
+  lon: 18.43253
+  lands:
+    pojezierze_chelminskie: 94.193
+    dolina_fordonska: 5.807
+  boundary:
+    southWest:
+      lat: 53.19335139800006
+      lng: 18.36846577600005
+    northEast:
+      lat: 53.33410842100005
+      lng: 18.51426974700007
+- slug: badkowo
+  name: Bądkowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.70579
+  lon: 18.7901
+  lands:
+    rownina_inowroclawska: 99.6106
+    pojezierze_kujawskie: 0.3894
+  boundary:
+    southWest:
+      lat: 52.63555446500004
+      lng: 18.71675850400004
+    northEast:
+      lat: 52.77278110100008
+      lng: 18.866178010000056
+- slug: aleksandrow_kujawski
+  name: Aleksandrów Kujawski
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.86192
+  lon: 18.64802
+  lands:
+    rownina_inowroclawska: 60.7381
+    kotlina_torunska: 39.2619
+  boundary:
+    southWest:
+      lat: 52.79780986900005
+      lng: 18.531445518000055
+    northEast:
+      lat: 52.93341055800005
+      lng: 18.800516408000078
+- slug: brodnica
+  name: Brodnica
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.25813
+  lon: 19.40518
+  lands:
+    dolina_drwecy: 85.4126
+    pojezierze_brodnickie: 8.8512
+    pojezierze_dobrzynskie: 5.7363
+  boundary:
+    southWest:
+      lat: 53.22212158800005
+      lng: 19.359362843000042
+    northEast:
+      lat: 53.29380114000003
+      lng: 19.456109397000034
+- slug: bartniczka
+  name: Bartniczka
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.23
+  lon: 19.51347
+  lands:
+    pojezierze_dobrzynskie: 66.6238
+    garb_lubawski: 25.2428
+    dolina_drwecy: 8.1334
+  boundary:
+    southWest:
+      lat: 53.17277078700005
+      lng: 19.46425459900007
+    northEast:
+      lat: 53.284950293000065
+      lng: 19.693176581000046
+- slug: jablonowo_pomorskie
+  name: Jabłonowo Pomorskie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.38458
+  lon: 19.21381
+  lands:
+    pojezierze_brodnickie: 76.9144
+    pojezierze_chelminskie: 23.0856
+  boundary:
+    southWest:
+      lat: 53.318871939000076
+      lng: 19.08396612200005
+    northEast:
+      lat: 53.45663386800004
+      lng: 19.32001116300006
+- slug: osielsko
+  name: Osielsko
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.21487
+  lon: 18.03012
+  lands:
+    wysoczyzna_swiecka: 52.7193
+    dolina_brdy: 46.5234
+    dolina_fordonska: 0.6645
+  boundary:
+    southWest:
+      lat: 53.16412449500007
+      lng: 17.930646356000068
+    northEast:
+      lat: 53.270665517000054
+      lng: 18.179850758000043
+- slug: wloclawek
+  name: Włocławek
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.59707
+  lon: 19.31805
+  lands:
+    kotlina_plocka: 85.0577
+    pojezierze_kujawskie: 14.9423
+  boundary:
+    southWest:
+      lat: 52.53841552800003
+      lng: 18.928199592000055
+    northEast:
+      lat: 52.65592633500006
+      lng: 19.426104531000078
+- slug: dabrowa_biskupia
+  name: Dąbrowa Biskupia
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.77106
+  lon: 18.49965
+  lands:
+    rownina_inowroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.709265335000055
+      lng: 18.379138501000057
+    northEast:
+      lat: 52.84189900700005
+      lng: 18.625107421000052
+- slug: byton
+  name: Bytoń
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.55516
+  lon: 18.61557
+  lands:
+    pojezierze_kujawskie: 87.0147
+    rownina_inowroclawska: 12.9853
+  boundary:
+    southWest:
+      lat: 52.507694506000064
+      lng: 18.542571125000052
+    northEast:
+      lat: 52.60767710200008
+      lng: 18.698703119000072
+- slug: rogowo
+  name: Rogowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.98437
+  lon: 19.3804
+  lands:
+    rownina_urszulewska: 65.0607
+    pojezierze_dobrzynskie: 34.9393
+  boundary:
+    southWest:
+      lat: 52.934401852000065
+      lng: 19.259570848000067
+    northEast:
+      lat: 53.03410146400006
+      lng: 19.57543950400003
+- slug: lubicz
+  name: Lubicz
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.0399
+  lon: 18.77984
+  lands:
+    pojezierze_chelminskie: 44.3931
+    kotlina_torunska: 30.7958
+    dolina_drwecy: 24.8111
+  boundary:
+    southWest:
+      lat: 52.951199933000055
+      lng: 18.677291456000034
+    northEast:
+      lat: 53.13252591600008
+      lng: 18.860510093000073
+- slug: czernikowo
+  name: Czernikowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.91843
+  lon: 18.96011
+  lands:
+    pojezierze_dobrzynskie: 53.5285
+    kotlina_torunska: 45.0174
+    nieszawski_przelom_wisly: 1.4541
+  boundary:
+    southWest:
+      lat: 52.830455348000044
+      lng: 18.831191640000043
+    northEast:
+      lat: 53.005254525000055
+      lng: 19.094268526000064
+- slug: lubianka
+  name: Łubianka
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.13769
+  lon: 18.49182
+  lands:
+    pojezierze_chelminskie: 90.3599
+    kotlina_torunska: 9.6401
+  boundary:
+    southWest:
+      lat: 53.08070499000007
+      lng: 18.416941649000023
+    northEast:
+      lat: 53.20168784300006
+      lng: 18.560580440000024
+- slug: obrowo
+  name: Obrowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.97904
+  lon: 18.86136
+  lands:
+    kotlina_torunska: 49.7665
+    pojezierze_dobrzynskie: 42.6481
+    dolina_drwecy: 7.5854
+  boundary:
+    southWest:
+      lat: 52.893577280000045
+      lng: 18.710068724000052
+    northEast:
+      lat: 53.06076887200004
+      lng: 18.95812696300004
+- slug: debowa_laka
+  name: Dębowa Łąka
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.23278
+  lon: 19.061
+  lands:
+    pojezierze_chelminskie: 99.9549
+    dolina_drwecy: 0.0451
+  boundary:
+    southWest:
+      lat: 53.17274577300003
+      lng: 18.982728047000023
+    northEast:
+      lat: 53.28777726100003
+      lng: 19.142129803000046
+- slug: baruchowo
+  name: Baruchowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.49978
+  lon: 19.28783
+  lands:
+    kotlina_plocka: 74.6317
+    pojezierze_kujawskie: 25.3683
+  boundary:
+    southWest:
+      lat: 52.43998158200003
+      lng: 19.199403516000075
+    northEast:
+      lat: 52.57329903600004
+      lng: 19.395674136000025
+- slug: labiszyn
+  name: Łabiszyn
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.9636
+  lon: 17.92026
+  lands:
+    kotlina_torunska: 45.3113
+    pojezierze_zninskomogilenskie: 39.952
+    rownina_inowroclawska: 14.7366
+  boundary:
+    southWest:
+      lat: 52.88429308900004
+      lng: 17.779194594000046
+    northEast:
+      lat: 53.042988354000045
+      lng: 18.01574318100006
+- slug: gasawa
+  name: Gąsawa
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.76456
+  lon: 17.80194
+  lands:
+    pojezierze_zninskomogilenskie: 65.9765
+    pojezierze_chodzieskie: 21.1737
+    pojezierze_gnieznienskie: 12.8498
+  boundary:
+    southWest:
+      lat: 52.70193230600006
+      lng: 17.678914358000043
+    northEast:
+      lat: 52.82298577100005
+      lng: 17.916856345000042
+- slug: wloclawek
+  name: Włocławek
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.66576
+  lon: 19.09033
+  lands:
+    kotlina_plocka: 60.8242
+    nieszawski_przelom_wisly: 36.6242
+    pojezierze_dobrzynskie: 2.5516
+  boundary:
+    southWest:
+      lat: 52.594790067000076
+      lng: 18.939054448000036
+    northEast:
+      lat: 52.73597064000006
+      lng: 19.182608363000043
+- slug: stolno
+  name: Stolno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.34096
+  lon: 18.54267
+  lands:
+    pojezierze_chelminskie: 97.9034
+    dolina_fordonska: 2.0966
+  boundary:
+    southWest:
+      lat: 53.28134659300008
+      lng: 18.452131735000023
+    northEast:
+      lat: 53.39683977200008
+      lng: 18.724247380000065
+- slug: brodnica
+  name: Brodnica
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.24238
+  lon: 19.32222
+  lands:
+    pojezierze_dobrzynskie: 46.5192
+    pojezierze_brodnickie: 32.9295
+    dolina_drwecy: 18.7303
+  boundary:
+    southWest:
+      lat: 53.164766833000044
+      lng: 19.275103286000046
+    northEast:
+      lat: 53.31730091900005
+      lng: 19.531491208000034
+- slug: zbiczno
+  name: Zbiczno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.35355
+  lon: 19.40161
+  lands:
+    pojezierze_brodnickie: 95.4554
+    dolina_drwecy: 4.5446
+  boundary:
+    southWest:
+      lat: 53.28712722500006
+      lng: 19.24753295200003
+    northEast:
+      lat: 53.411490024000045
+      lng: 19.52785098000004
+- slug: biale_blota
+  name: Białe Błota
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.08118
+  lon: 17.93293
+  lands:
+    kotlina_torunska: 100.0
+  boundary:
+    southWest:
+      lat: 53.03304399600006
+      lng: 17.78117121500003
+    northEast:
+      lat: 53.14200475700005
+      lng: 18.027874351000037
+- slug: kowalewo_pomorskie
+  name: Kowalewo Pomorskie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.14649
+  lon: 18.8584
+  lands:
+    pojezierze_chelminskie: 92.8127
+    dolina_drwecy: 7.1873
+  boundary:
+    southWest:
+      lat: 53.08112534600008
+      lng: 18.727403603000027
+    northEast:
+      lat: 53.21073313900007
+      lng: 19.01275230500005
+- slug: lasin
+  name: Łasin
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.52728
+  lon: 19.11995
+  lands:
+    pojezierze_lasinskie: 89.9863
+    pojezierze_brodnickie: 9.9849
+    pojezierze_chelminskie: 0.0287
+  boundary:
+    southWest:
+      lat: 53.45698525300003
+      lng: 18.975035890000072
+    northEast:
+      lat: 53.59672294600006
+      lng: 19.218839312000057
+- slug: zlotniki_kujawskie
+  name: Złotniki Kujawskie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.89425
+  lon: 18.12924
+  lands:
+    rownina_inowroclawska: 73.317
+    kotlina_torunska: 19.7674
+    pojezierze_zninskomogilenskie: 6.9156
+  boundary:
+    southWest:
+      lat: 52.831690697000056
+      lng: 17.96774447000007
+    northEast:
+      lat: 52.96677335700008
+      lng: 18.217929810000044
+- slug: osieciny
+  name: Osięciny
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.6469
+  lon: 18.7361
+  lands:
+    rownina_inowroclawska: 79.6852
+    pojezierze_kujawskie: 20.3148
+  boundary:
+    southWest:
+      lat: 52.57341209600003
+      lng: 18.63443727200007
+    northEast:
+      lat: 52.72142148200004
+      lng: 18.828556853000066
+- slug: dobre
+  name: Dobre
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.68373
+  lon: 18.56922
+  lands:
+    rownina_inowroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.64345709200006
+      lng: 18.489638264000064
+    northEast:
+      lat: 52.72586732900004
+      lng: 18.677748853000026
+- slug: piotrkow_kujawski
+  name: Piotrków Kujawski
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.52315
+  lon: 18.48511
+  lands:
+    pojezierze_kujawskie: 94.3935
+    pojezierze_zninskomogilenskie: 5.6065
+  boundary:
+    southWest:
+      lat: 52.46501163100004
+      lng: 18.375880858000073
+    northEast:
+      lat: 52.59860390400007
+      lng: 18.642308467000078
+- slug: topolka
+  name: Topólka
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.50687
+  lon: 18.68957
+  lands:
+    pojezierze_kujawskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.421694898000055
+      lng: 18.592761546000077
+    northEast:
+      lat: 52.58014473600008
+      lng: 18.758313626000074
+- slug: lniano
+  name: Lniano
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.51655
+  lon: 18.18502
+  lands:
+    wysoczyzna_swiecka: 94.6335
+    bory_tucholskie: 5.3665
+  boundary:
+    southWest:
+      lat: 53.44123723800004
+      lng: 18.113111065000055
+    northEast:
+      lat: 53.58889625100005
+      lng: 18.28813060600004
+- slug: zlawies_wielka
+  name: Zławieś Wielka
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.10116
+  lon: 18.29051
+  lands:
+    kotlina_torunska: 74.505
+    pojezierze_chelminskie: 25.495
+  boundary:
+    southWest:
+      lat: 53.01551392600004
+      lng: 18.144871608000074
+    northEast:
+      lat: 53.18325034700007
+      lng: 18.524452092000047
+- slug: kesowo
+  name: Kęsowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.57779
+  lon: 17.71835
+  lands:
+    pojezierze_polnocnokrajenskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.50182607200003
+      lng: 17.602644043000055
+    northEast:
+      lat: 53.65562455500003
+      lng: 17.811901469000077
+- slug: kowal
+  name: Kowal
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.53343
+  lon: 19.14545
+  lands:
+    pojezierze_kujawskie: 88.3848
+    kotlina_plocka: 11.6152
+  boundary:
+    southWest:
+      lat: 52.51687782800008
+      lng: 19.12880313000005
+    northEast:
+      lat: 52.54791387900008
+      lng: 19.162057551000032
+- slug: papowo_biskupie
+  name: Papowo Biskupie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.25855
+  lon: 18.56511
+  lands:
+    pojezierze_chelminskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.21695723600004
+      lng: 18.471400128000028
+    northEast:
+      lat: 53.297052379000036
+      lng: 18.670036266000068
+- slug: waganiec
+  name: Waganiec
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.80856
+  lon: 18.85888
+  lands:
+    rownina_inowroclawska: 90.8136
+    nieszawski_przelom_wisly: 9.1864
+  boundary:
+    southWest:
+      lat: 52.76867780200007
+      lng: 18.77638523400003
+    northEast:
+      lat: 52.839500427000075
+      lng: 18.93853785400006
+- slug: brzozie
+  name: Brzozie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.30511
+  lon: 19.59182
+  lands:
+    garb_lubawski: 68.3783
+    dolina_drwecy: 18.4974
+    pojezierze_brodnickie: 12.7309
+  boundary:
+    southWest:
+      lat: 53.26341714900008
+      lng: 19.474175520000074
+    northEast:
+      lat: 53.34460597000003
+      lng: 19.718122750000077
+- slug: sicienko
+  name: Sicienko
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.21457
+  lon: 17.78665
+  lands:
+    pojezierze_poludniowokrajenskie: 78.9244
+    dolina_brdy: 10.608
+    kotlina_torunska: 10.4676
+  boundary:
+    southWest:
+      lat: 53.13950690400003
+      lng: 17.668996657000037
+    northEast:
+      lat: 53.29192112000004
+      lng: 17.95839526700007
+- slug: rogozno
+  name: Rogóźno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.55403
+  lon: 18.94482
+  lands:
+    pojezierze_lasinskie: 99.4969
+    kotlina_grudziadzka: 0.2762
+    pojezierze_chelminskie: 0.226
+  boundary:
+    southWest:
+      lat: 53.49749191600006
+      lng: 18.800590580000062
+    northEast:
+      lat: 53.604682593000064
+      lng: 19.057473353000034
+- slug: skepe
+  name: Skępe
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.87029
+  lon: 19.39957
+  lands:
+    rownina_urszulewska: 87.3119
+    pojezierze_dobrzynskie: 12.6881
+  boundary:
+    southWest:
+      lat: 52.78444157900003
+      lng: 19.259101482000062
+    northEast:
+      lat: 52.952083791000064
+      lng: 19.51603726600007
+- slug: chrostkowo
+  name: Chrostkowo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.94647
+  lon: 19.25551
+  lands:
+    pojezierze_dobrzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.890137810000056
+      lng: 19.14968088200004
+    northEast:
+      lat: 53.00248518300003
+      lng: 19.30374923200003
+- slug: kcynia
+  name: Kcynia
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.00224
+  lon: 17.44356
+  lands:
+    pojezierze_chodzieskie: 71.2022
+    dolina_srodkowej_noteci: 25.2775
+    pojezierze_zninskomogilenskie: 3.5202
+  boundary:
+    southWest:
+      lat: 52.89634340500004
+      lng: 17.301556495000057
+    northEast:
+      lat: 53.11041039700007
+      lng: 17.60720482800002
+- slug: naklo_nad_notecia
+  name: Nakło nad Notecią
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.14907
+  lon: 17.62941
+  lands:
+    pojezierze_poludniowokrajenskie: 43.0191
+    kotlina_torunska: 33.9937
+    dolina_srodkowej_noteci: 21.5221
+  boundary:
+    southWest:
+      lat: 53.07365512200005
+      lng: 17.508238582000047
+    northEast:
+      lat: 53.21198642500008
+      lng: 17.790359452000075
+- slug: rypin
+  name: Rypin
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.05067
+  lon: 19.42717
+  lands:
+    pojezierze_dobrzynskie: 83.9714
+    rownina_urszulewska: 16.0286
+  boundary:
+    southWest:
+      lat: 52.98167555500004
+      lng: 19.314970250000044
+    northEast:
+      lat: 53.11625930100007
+      lng: 19.567455248000044
+- slug: skrwilno
+  name: Skrwilno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.03258
+  lon: 19.59379
+  lands:
+    rownina_urszulewska: 90.8785
+    pojezierze_dobrzynskie: 9.1215
+  boundary:
+    southWest:
+      lat: 52.95623976200005
+      lng: 19.502617975000078
+    northEast:
+      lat: 53.11418839600003
+      lng: 19.684805941000036
+- slug: osie
+  name: Osie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.62153
+  lon: 18.28926
+  lands:
+    bory_tucholskie: 68.6429
+    wysoczyzna_swiecka: 31.3571
+  boundary:
+    southWest:
+      lat: 53.525365882000074
+      lng: 18.160084355000038
+    northEast:
+      lat: 53.70948964400003
+      lng: 18.443400992000022
+- slug: wielka_nieszawka
+  name: Wielka Nieszawka
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.94987
+  lon: 18.5767
+  lands:
+    kotlina_torunska: 99.8077
+    rownina_inowroclawska: 0.1923
+  boundary:
+    southWest:
+      lat: 52.85814400900006
+      lng: 18.360860609000042
+    northEast:
+      lat: 53.03949988800008
+      lng: 18.722576881000066
+- slug: wabrzezno
+  name: Wąbrzeźno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.27927
+  lon: 18.95206
+  lands:
+    pojezierze_chelminskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.260373980000054
+      lng: 18.92782111100007
+    northEast:
+      lat: 53.29622221100004
+      lng: 18.98571766400005
+- slug: fabianki
+  name: Fabianki
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.7056
+  lon: 19.09039
+  lands:
+    pojezierze_dobrzynskie: 91.848
+    nieszawski_przelom_wisly: 7.8626
+    kotlina_plocka: 0.2894
+  boundary:
+    southWest:
+      lat: 52.661324370000045
+      lng: 19.00091001100003
+    northEast:
+      lat: 52.77944731200006
+      lng: 19.188753032000022
+- slug: koneck
+  name: Koneck
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.78836
+  lon: 18.71476
+  lands:
+    rownina_inowroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.73953090300006
+      lng: 18.614034854000067
+    northEast:
+      lat: 52.83642511700003
+      lng: 18.800650544000064
+- slug: swiedziebnia
+  name: Świedziebnia
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.13013
+  lon: 19.56791
+  lands:
+    pojezierze_dobrzynskie: 72.4845
+    rownina_urszulewska: 27.5155
+  boundary:
+    southWest:
+      lat: 53.08030637200005
+      lng: 19.446169573000077
+    northEast:
+      lat: 53.18089396200003
+      lng: 19.71195631200004
+- slug: osiek
+  name: Osiek
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.15281
+  lon: 19.41093
+  lands:
+    pojezierze_dobrzynskie: 95.9511
+    dolina_drwecy: 4.0489
+  boundary:
+    southWest:
+      lat: 53.10721861400003
+      lng: 19.319683835000035
+    northEast:
+      lat: 53.20841471500006
+      lng: 19.485794158000033
+- slug: dobrcz
+  name: Dobrcz
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.27397
+  lon: 18.13934
+  lands:
+    wysoczyzna_swiecka: 93.2523
+    dolina_fordonska: 6.1794
+    dolina_brdy: 0.5683
+  boundary:
+    southWest:
+      lat: 53.19731509700006
+      lng: 18.048421981000047
+    northEast:
+      lat: 53.34473684300008
+      lng: 18.279668292000053
+- slug: golubdobrzyn
+  name: Golub-Dobrzyń
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.11412
+  lon: 19.05753
+  lands:
+    dolina_drwecy: 68.3759
+    pojezierze_chelminskie: 31.6241
+  boundary:
+    southWest:
+      lat: 53.094060323000065
+      lng: 19.035680463000062
+    northEast:
+      lat: 53.130388208000056
+      lng: 19.077773901000057
+- slug: chocen
+  name: Choceń
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.50361
+  lon: 19.03236
+  lands:
+    pojezierze_kujawskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.44842896700004
+      lng: 18.94599170200007
+    northEast:
+      lat: 52.55336629100003
+      lng: 19.109874784000056
+- slug: zbojno
+  name: Zbójno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.01474
+  lon: 19.10852
+  lands:
+    pojezierze_dobrzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.963588067000046
+      lng: 19.007718913000076
+    northEast:
+      lat: 53.05910390400004
+      lng: 19.238995270000032
+- slug: inowroclaw
+  name: Inowrocław
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.78237
+  lon: 18.24311
+  lands:
+    rownina_inowroclawska: 78.9657
+    pojezierze_zninskomogilenskie: 21.0343
+  boundary:
+    southWest:
+      lat: 52.74397220800006
+      lng: 18.20733682300005
+    northEast:
+      lat: 52.81965563800003
+      lng: 18.292658200000062
+- slug: dabrowa
+  name: Dąbrowa
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.77076
+  lon: 17.96808
+  lands:
+    pojezierze_zninskomogilenskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.70068436500003
+      lng: 17.847848854000063
+    northEast:
+      lat: 52.841661145000046
+      lng: 18.03811489900005
+- slug: radziejow
+  name: Radziejów
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.63191
+  lon: 18.55645
+  lands:
+    rownina_inowroclawska: 70.6165
+    pojezierze_kujawskie: 29.3835
+  boundary:
+    southWest:
+      lat: 52.57532925100003
+      lng: 18.45676938300005
+    northEast:
+      lat: 52.690350601000034
+      lng: 18.671522190000076
+- slug: rypin
+  name: Rypin
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.06246
+  lon: 19.42258
+  lands:
+    pojezierze_dobrzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.04280556500004
+      lng: 19.38603531600006
+    northEast:
+      lat: 53.08331274600005
+      lng: 19.455438582000056
+- slug: sosno
+  name: Sośno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.35986
+  lon: 17.65893
+  lands:
+    pojezierze_poludniowokrajenskie: 98.614
+    pojezierze_polnocnokrajenskie: 1.386
+  boundary:
+    southWest:
+      lat: 53.27450535500003
+      lng: 17.549136623000038
+    northEast:
+      lat: 53.44976959500008
+      lng: 17.770729622000033
+- slug: sepolno_krajenskie
+  name: Sępólno Krajeńskie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.44753
+  lon: 17.53165
+  lands:
+    pojezierze_poludniowokrajenskie: 51.973
+    pojezierze_polnocnokrajenskie: 48.027
+  boundary:
+    southWest:
+      lat: 53.37436718300006
+      lng: 17.298463639000033
+    northEast:
+      lat: 53.52428585200005
+      lng: 17.72753980600004
+- slug: jezewo
+  name: Jeżewo
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.53636
+  lon: 18.48525
+  lands:
+    bory_tucholskie: 49.7801
+    wysoczyzna_swiecka: 47.1922
+    kotlina_grudziadzka: 3.0277
+  boundary:
+    southWest:
+      lat: 53.46060885900005
+      lng: 18.382010856000022
+    northEast:
+      lat: 53.61222404800003
+      lng: 18.613678487000072
+- slug: swiecie
+  name: Świecie
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.39759
+  lon: 18.39595
+  lands:
+    wysoczyzna_swiecka: 50.7548
+    dolina_fordonska: 36.5271
+    bory_tucholskie: 8.0124
+  boundary:
+    southWest:
+      lat: 53.30098829600007
+      lng: 18.287823074000073
+    northEast:
+      lat: 53.49553498300003
+      lng: 18.618388038000035
+- slug: chelmza
+  name: Chełmża
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.19171
+  lon: 18.6133
+  lands:
+    pojezierze_chelminskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.12064219800004
+      lng: 18.47199500100004
+    northEast:
+      lat: 53.26295298400004
+      lng: 18.802447132000054
+- slug: ksiazki
+  name: Książki
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.33452
+  lon: 19.06194
+  lands:
+    pojezierze_chelminskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.26703000700007
+      lng: 18.970105447000037
+    northEast:
+      lat: 53.39269835400006
+      lng: 19.156690593000064
+- slug: pluznica
+  name: Płużnica
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.31782
+  lon: 18.80745
+  lands:
+    pojezierze_chelminskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.24772685700003
+      lng: 18.695666241000026
+    northEast:
+      lat: 53.38750371800006
+      lng: 18.891402011000025
+- slug: brzesc_kujawski
+  name: Brześć Kujawski
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.62831
+  lon: 18.89799
+  lands:
+    pojezierze_kujawskie: 62.076
+    rownina_inowroclawska: 20.6786
+    nieszawski_przelom_wisly: 14.0305
+  boundary:
+    southWest:
+      lat: 52.55126958200003
+      lng: 18.752039386000035
+    northEast:
+      lat: 52.706601825000064
+      lng: 19.02615423700007
+- slug: izbica_kujawska
+  name: Izbica Kujawska
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.3995
+  lon: 18.81304
+  lands:
+    pojezierze_kujawskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.33276968400003
+      lng: 18.677056555000036
+    northEast:
+      lat: 52.46532650700004
+      lng: 18.928906899000026
+- slug: chelmno
+  name: Chełmno
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.38695
+  lon: 18.55249
+  lands:
+    dolina_fordonska: 94.0224
+    pojezierze_chelminskie: 5.6335
+    kotlina_grudziadzka: 0.3442
+  boundary:
+    southWest:
+      lat: 53.26012570700004
+      lng: 18.318034970000042
+    northEast:
+      lat: 53.43121972500006
+      lng: 18.650797606000026
+- slug: aleksandrow_kujawski
+  name: Aleksandrów Kujawski
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 52.88085
+  lon: 18.69885
+  lands:
+    kotlina_torunska: 96.4854
+    rownina_inowroclawska: 3.5146
+  boundary:
+    southWest:
+      lat: 52.85491589000003
+      lng: 18.682704114000046
+    northEast:
+      lat: 52.897482066000066
+      lng: 18.723605442000064
+- slug: nowa_wies_wielka
+  name: Nowa Wieś Wielka
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.01767
+  lon: 18.05145
+  lands:
+    kotlina_torunska: 99.9978
+    rownina_inowroclawska: 0.0022
+  boundary:
+    southWest:
+      lat: 52.94027655000008
+      lng: 17.960841295000023
+    northEast:
+      lat: 53.09069488200004
+      lng: 18.253443134000065
+- slug: golubdobrzyn
+  name: Golub-Dobrzyń
+  type: town
+  voivodeship: kujawsko-pomorskie
+  lat: 53.13123
+  lon: 19.03998
+  lands:
+    pojezierze_chelminskie: 42.8334
+    dolina_drwecy: 39.2278
+    pojezierze_dobrzynskie: 17.9388
+  boundary:
+    southWest:
+      lat: 53.03178426900007
+      lng: 18.95073665800004
+    northEast:
+      lat: 53.23767730700007
+      lng: 19.25348152400005

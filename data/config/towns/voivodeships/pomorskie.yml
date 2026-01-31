@@ -1,355 +1,1971 @@
 ---
-- slug: miastko
-  name: Miastko
+- slug: liniewo
+  name: Liniewo
   type: town
   voivodeship: pomorskie
-  lat: 53.99999
-  lon: 16.97474
-- slug: ustka
-  name: Ustka
+  lat: 54.08078
+  lon: 18.24328
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.01944210400006
+      lng: 18.126972188000025
+    northEast:
+      lat: 54.13216238800004
+      lng: 18.35724925900007
+- slug: potegowo
+  name: Potęgowo
   type: town
   voivodeship: pomorskie
-  lat: 54.58141
-  lon: 16.86161
-- slug: wejherowo
-  name: Wejherowo
+  lat: 54.45945
+  lon: 17.46417
+  lands:
+    wysoczyzna_damnicka: 78.9848
+    wysoczyzna_polanowska: 9.9733
+    pojezierze_kaszubskie: 6.8381
+  boundary:
+    southWest:
+      lat: 54.371695903000045
+      lng: 17.29126053300007
+    northEast:
+      lat: 54.55303778600006
+      lng: 17.619264935000047
+- slug: glowczyce
+  name: Główczyce
   type: town
   voivodeship: pomorskie
-  lat: 54.60438
-  lon: 18.23525
-- slug: luzino
-  name: Luzino
+  lat: 54.6315
+  lon: 17.46111
+  lands:
+    wysoczyzna_damnicka: 70.4249
+    wybrzeze_slowinskie: 21.9178
+    pradolina_redyleby: 7.6573
+  boundary:
+    southWest:
+      lat: 54.53736121700007
+      lng: 17.141852800000038
+    northEast:
+      lat: 54.71471875800006
+      lng: 17.616689114000053
+- slug: kobylnica
+  name: Kobylnica
   type: town
   voivodeship: pomorskie
-  lat: 54.55892
-  lon: 18.10375
-- slug: szemud
-  name: Szemud
-  type: town
-  voivodeship: pomorskie
-  lat: 54.48589
-  lon: 18.21963
-- slug: przodkowo
-  name: Przodkowo
-  type: town
-  voivodeship: pomorskie
-  lat: 54.37895
-  lon: 18.28726
-- slug: kartuzy
-  name: Kartuzy
-  type: town
-  voivodeship: pomorskie
-  lat: 54.33213
-  lon: 18.19937
-- slug: zukowo
-  name: Żukowo
-  type: town
-  voivodeship: pomorskie
-  lat: 54.34214
-  lon: 18.36039
-- slug: kolbudy
-  name: Kolbudy
-  type: town
-  voivodeship: pomorskie
-  lat: 54.27053
-  lon: 18.46888
-- slug: pruszcz_gdanski
-  name: Pruszcz Gdański
-  type: town
-  voivodeship: pomorskie
-  lat: 54.26182
-  lon: 18.63796
-- slug: suchy_dab
-  name: Suchy Dąb
-  type: town
-  voivodeship: pomorskie
-  lat: 54.20612
-  lon: 18.76654
-- slug: tczew
-  name: Tczew
-  type: town
-  voivodeship: pomorskie
-  lat: 54.09453
-  lon: 18.78714
-- slug: gdansk
-  name: Gdańsk
-  type: town
-  voivodeship: pomorskie
-  lat: 54.35635
-  lon: 18.64466
-- slug: somonino
-  name: Somonino
-  type: town
-  voivodeship: pomorskie
-  lat: 54.27003
-  lon: 18.19319
-- slug: stezyca
-  name: Stężyca
-  type: town
-  voivodeship: pomorskie
-  lat: 54.20612
-  lon: 17.95595
-- slug: koscierzyna
-  name: Kościerzyna
-  type: town
-  voivodeship: pomorskie
-  lat: 54.12120
-  lon: 17.98239
-- slug: lipusz
-  name: Lipusz
-  type: town
-  voivodeship: pomorskie
-  lat: 54.09825
-  lon: 17.78343
-- slug: dziemiany
-  name: Dziemiany
-  type: town
-  voivodeship: pomorskie
-  lat: 54.00564
-  lon: 17.77245
-- slug: brusy
-  name: Brusy
-  type: town
-  voivodeship: pomorskie
-  lat: 53.88476
-  lon: 17.72267
-- slug: chojnice
-  name: Chojnice
-  type: town
-  voivodeship: pomorskie
-  lat: 53.69248
-  lon: 17.56637
-- slug: czersk
-  name: Czersk
-  type: town
-  voivodeship: pomorskie
-  lat: 53.79639
-  lon: 17.97612
-- slug: kaliska
-  name: Kaliska
-  type: town
-  voivodeship: pomorskie
-  lat: 53.90463
-  lon: 18.21808
-- slug: zblewo
-  name: Zblewo
-  type: town
-  voivodeship: pomorskie
-  lat: 53.93318
-  lon: 18.32022
+  lat: 54.37835
+  lon: 16.97708
+  lands:
+    rownina_slupska: 79.6575
+    wysoczyzna_polanowska: 17.4259
+    wysoczyzna_damnicka: 2.9165
+  boundary:
+    southWest:
+      lat: 54.29120488900003
+      lng: 16.81389325300006
+    northEast:
+      lat: 54.45858279500004
+      lng: 17.122152349000032
 - slug: starogard_gdanski
   name: Starogard Gdański
   type: town
   voivodeship: pomorskie
-  lat: 53.96773
-  lon: 18.53179
-- slug: gdynia
-  name: Gdynia
+  lat: 53.99082
+  lon: 18.54809
+  lands:
+    pojezierze_starogardzkie: 98.8131
+    pojezierze_kaszubskie: 1.0228
+    bory_tucholskie: 0.1641
+  boundary:
+    southWest:
+      lat: 53.89327464200005
+      lng: 18.404471127000022
+    northEast:
+      lat: 54.09302286600007
+      lng: 18.67980306800007
+- slug: zblewo
+  name: Zblewo
   type: town
   voivodeship: pomorskie
-  lat: 54.52116
-  lon: 18.53814
-- slug: sopot
-  name: Sopot
+  lat: 53.94553
+  lon: 18.33488
+  lands:
+    pojezierze_starogardzkie: 76.4741
+    bory_tucholskie: 23.5259
+  boundary:
+    southWest:
+      lat: 53.866726475000064
+      lng: 18.236929860000032
+    northEast:
+      lat: 54.02258003800006
+      lng: 18.440168938000056
+- slug: tczew
+  name: Tczew
   type: town
   voivodeship: pomorskie
-  lat: 54.44108
-  lon: 18.56646
-- slug: hel
-  name: Hel
+  lat: 54.08402
+  lon: 18.66431
+  lands:
+    pojezierze_starogardzkie: 84.87
+    zulawy_wislane: 15.13
+  boundary:
+    southWest:
+      lat: 54.01651820100005
+      lng: 18.556351679000045
+    northEast:
+      lat: 54.154104450000034
+      lng: 18.82817342000004
+- slug: linia
+  name: Linia
   type: town
   voivodeship: pomorskie
-  lat: 54.60467
-  lon: 18.80550
-- slug: czluchow
-  name: Człuchów
+  lat: 54.45359
+  lon: 17.97771
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.40995533000006
+      lng: 17.84579199800004
+    northEast:
+      lat: 54.50147553700003
+      lng: 18.12545493500005
+- slug: czarna_dabrowka
+  name: Czarna Dąbrówka
   type: town
   voivodeship: pomorskie
-  lat: 53.66492
-  lon: 17.35951
-- slug: stara_kiszewa
-  name: Stara Kiszewa
-  type: town
-  voivodeship: pomorskie
-  lat: 53.98944
-  lon: 18.16915
-- slug: skarszewy
-  name: Skarszewy
-  type: town
-  voivodeship: pomorskie
-  lat: 54.07191
-  lon: 18.44639
-- slug: trabki_wielkie
-  name: Trąbki Wielkie
-  type: town
-  voivodeship: pomorskie
-  lat: 54.17094
-  lon: 18.53740
-- slug: pszczolki
-  name: Pszczółki
-  type: town
-  voivodeship: pomorskie
-  lat: 54.17342
-  lon: 18.69306
-- slug: lubichowo
-  name: Lubichowo
-  type: town
-  voivodeship: pomorskie
-  lat: 53.85205
-  lon: 18.39609
+  lat: 54.34583
+  lon: 17.60241
+  lands:
+    wysoczyzna_polanowska: 58.4493
+    pojezierze_kaszubskie: 41.5507
+  boundary:
+    southWest:
+      lat: 54.24817801300003
+      lng: 17.42034084000005
+    northEast:
+      lat: 54.44251628200004
+      lng: 17.750392392000037
 - slug: debrzno
   name: Debrzno
   type: town
   voivodeship: pomorskie
-  lat: 53.53799
-  lon: 17.23514
-- slug: karsin
-  name: Karsin
+  lat: 53.56248
+  lon: 17.22044
+  lands:
+    pojezierze_polnocnokrajenskie: 76.0555
+    pojezierze_poludniowokrajenskie: 14.7794
+    dolina_gwdy: 9.1651
+  boundary:
+    southWest:
+      lat: 53.49096427100005
+      lng: 16.99908923600003
+    northEast:
+      lat: 53.63406437700007
+      lng: 17.42185585200002
+- slug: sopot
+  name: Sopot
   type: town
   voivodeship: pomorskie
-  lat: 53.90437
-  lon: 17.92780
-- slug: stary_dzierzgon
-  name: Stary Dzierzgoń
+  lat: 54.43759
+  lon: 18.54432
+  lands:
+    pojezierze_kaszubskie: 85.9911
+    zulawy_wislane: 7.5957
+    mierzeja_wislana: 4.1586
+  boundary:
+    southWest:
+      lat: 54.42275034700003
+      lng: 18.504484728000023
+    northEast:
+      lat: 54.46391483500008
+      lng: 18.59115889700007
+- slug: hel
+  name: Hel
   type: town
   voivodeship: pomorskie
-  lat: 53.83950
-  lon: 19.40632
-- slug: dzierzgon
-  name: Dzierzgoń
+  lat: 54.63041
+  lon: 18.79277
+  lands:
+    mierzeja_helska: 93.8271
+  boundary:
+    southWest:
+      lat: 54.59320744100006
+      lng: 18.720207366000068
+    northEast:
+      lat: 54.680806027000074
+      lng: 18.828895401000068
+- slug: krokowa
+  name: Krokowa
   type: town
   voivodeship: pomorskie
-  lat: 53.92378
-  lon: 19.34692
-- slug: stary_targ
-  name: Stary Targ
+  lat: 54.76786
+  lon: 18.16399
+  lands:
+    pobrzeze_kaszubskie: 45.1554
+    wybrzeze_slowinskie: 36.2272
+    wysoczyzna_choczewska: 17.5971
+  boundary:
+    southWest:
+      lat: 54.695276353000054
+      lng: 17.911406450000072
+    northEast:
+      lat: 54.83522222200003
+      lng: 18.297175955000057
+- slug: dziemiany
+  name: Dziemiany
   type: town
   voivodeship: pomorskie
-  lat: 53.92308
-  lon: 19.17114
-- slug: malbork
-  name: Malbork
+  lat: 54.01184
+  lon: 17.78872
+  lands:
+    bory_tucholskie: 53.9961
+    rownina_charzykowska: 46.0039
+  boundary:
+    southWest:
+      lat: 53.95361118100004
+      lng: 17.646826134000037
+    northEast:
+      lat: 54.06629391200005
+      lng: 17.92512460100005
+- slug: koscierzyna
+  name: Kościerzyna
   type: town
   voivodeship: pomorskie
-  lat: 54.03120
-  lon: 19.03570
-- slug: przechlewo
-  name: Przechlewo
+  lat: 54.09243
+  lon: 17.96709
+  lands:
+    bory_tucholskie: 51.1734
+    pojezierze_kaszubskie: 48.8266
+  boundary:
+    southWest:
+      lat: 53.99248684200006
+      lng: 17.79522539800007
+    northEast:
+      lat: 54.19946827800004
+      lng: 18.135188078000056
+- slug: stara_kiszewa
+  name: Stara Kiszewa
   type: town
   voivodeship: pomorskie
-  lat: 53.79866
-  lon: 17.25557
+  lat: 53.98497
+  lon: 18.17098
+  lands:
+    bory_tucholskie: 50.8919
+    pojezierze_kaszubskie: 40.9906
+    pojezierze_starogardzkie: 8.1175
+  boundary:
+    southWest:
+      lat: 53.901725405000036
+      lng: 17.98817444200006
+    northEast:
+      lat: 54.057550882000044
+      lng: 18.34953577500005
+- slug: lichnowy
+  name: Lichnowy
+  type: town
+  voivodeship: pomorskie
+  lat: 54.11112
+  lon: 18.89584
+  lands:
+    zulawy_wislane: 100.0
+  boundary:
+    southWest:
+      lat: 54.04925128900004
+      lng: 18.805954144000054
+    northEast:
+      lat: 54.16639986600006
+      lng: 18.99222977100004
+- slug: stegna
+  name: Stegna
+  type: town
+  voivodeship: pomorskie
+  lat: 54.3013
+  lon: 19.04274
+  lands:
+    zulawy_wislane: 85.6078
+    mierzeja_wislana: 14.0427
+  boundary:
+    southWest:
+      lat: 54.22665641300006
+      lng: 18.93370125000007
+    northEast:
+      lat: 54.35831018500005
+      lng: 19.212470191000023
+- slug: ustka
+  name: Ustka
+  type: town
+  voivodeship: pomorskie
+  lat: 54.57323
+  lon: 16.85852
+  lands:
+    wybrzeze_koszalinskie: 86.1457
+    rownina_slupska: 13.1541
+  boundary:
+    southWest:
+      lat: 54.55602364600003
+      lng: 16.823118755000053
+    northEast:
+      lat: 54.59089344400007
+      lng: 16.897257039000067
 - slug: pelplin
   name: Pelplin
   type: town
   voivodeship: pomorskie
-  lat: 53.92648
-  lon: 18.70681
-- slug: sztum
-  name: Sztum
-  type: town
-  voivodeship: pomorskie
-  lat: 53.91984
-  lon: 19.03124
-- slug: ryjewo
-  name: Ryjewo
-  type: town
-  voivodeship: pomorskie
-  lat: 53.84375
-  lon: 18.95862
+  lat: 53.92613
+  lon: 18.74214
+  lands:
+    pojezierze_starogardzkie: 81.312
+    dolina_kwidzynska: 18.688
+  boundary:
+    southWest:
+      lat: 53.86813385900007
+      lng: 18.602797061000047
+    northEast:
+      lat: 53.98450947600003
+      lng: 18.872257674000025
 - slug: kwidzyn
-  name: Kwidzyń
+  name: Kwidzyn
   type: town
   voivodeship: pomorskie
-  lat: 53.73098
-  lon: 18.93699
-- slug: gardeja
-  name: Gardeja
-  type: town
-  voivodeship: pomorskie
-  lat: 53.60935
-  lon: 18.94455
-- slug: bytow
-  name: Bytów
-  type: town
-  voivodeship: pomorskie
-  lat: 54.16759
-  lon: 17.48852
-- slug: przywidz
-  name: Przywidz
-  type: town
-  voivodeship: pomorskie
-  lat: 54.19552
-  lon: 18.32210
-- slug: chmielno
-  name: Chmielno
-  type: town
-  voivodeship: pomorskie
-  lat: 54.32407
-  lon: 18.09826
-- slug: suleczyno
-  name: Sulęczyno
-  type: town
-  voivodeship: pomorskie
-  lat: 54.23005
-  lon: 17.77450
-- slug: borzytuchom
-  name: Borzytuchom
-  type: town
-  voivodeship: pomorskie
-  lat: 54.19853
-  lon: 17.36767
-- slug: tuchomie
-  name: Tuchomie
-  type: town
-  voivodeship: pomorskie
-  lat: 54.11389
-  lon: 17.33282
-- slug: trzebielino
-  name: Trzebielino
-  type: town
-  voivodeship: pomorskie
-  lat: 54.19821
-  lon: 17.08554
+  lat: 53.72541
+  lon: 18.93772
+  lands:
+    pojezierze_lasinskie: 50.733
+    pojezierze_dzierzgonskomoraskie: 48.0484
+    dolina_kwidzynska: 1.2186
+  boundary:
+    southWest:
+      lat: 53.68519294100008
+      lng: 18.901575534000074
+    northEast:
+      lat: 53.756034826000075
+      lng: 18.989053483000077
 - slug: kolczyglowy
   name: Kołczygłowy
   type: town
   voivodeship: pomorskie
-  lat: 54.23756
-  lon: 17.23386
-- slug: studzienice
-  name: Studzienice
+  lat: 54.20158
+  lon: 17.23523
+  lands:
+    wysoczyzna_polanowska: 75.0032
+    pojezierze_bytowskie: 24.9968
+  boundary:
+    southWest:
+      lat: 54.080058344000065
+      lng: 17.15796188300004
+    northEast:
+      lat: 54.31442969500006
+      lng: 17.35834199100003
+- slug: pruszcz_gdanski
+  name: Pruszcz Gdański
   type: town
   voivodeship: pomorskie
-  lat: 54.09103
-  lon: 17.57512
-- slug: parchowo
-  name: Parchowo
+  lat: 54.2526
+  lon: 18.64842
+  lands:
+    zulawy_wislane: 81.5601
+    pojezierze_kaszubskie: 18.4399
+  boundary:
+    southWest:
+      lat: 54.23809218200006
+      lng: 18.61019608600003
+    northEast:
+      lat: 54.279676702000074
+      lng: 18.680402152000056
+- slug: suleczyno
+  name: Sulęczyno
   type: town
   voivodeship: pomorskie
-  lat: 54.20559
-  lon: 17.66849
-- slug: jastarnia
-  name: Jastarnia
+  lat: 54.24829
+  lon: 17.7877
+  lands:
+    pojezierze_kaszubskie: 73.8668
+    bory_tucholskie: 16.8532
+    pojezierze_bytowskie: 9.2799
+  boundary:
+    southWest:
+      lat: 54.17817254100004
+      lng: 17.697472169000037
+    northEast:
+      lat: 54.31272910800004
+      lng: 17.903422026000044
+- slug: zukowo
+  name: Żukowo
   type: town
   voivodeship: pomorskie
-  lat: 54.70057
-  lon: 18.67676
+  lat: 54.36543
+  lon: 18.38024
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.26231633900005
+      lng: 18.268377043000044
+    northEast:
+      lat: 54.476174822000075
+      lng: 18.487985055000024
 - slug: stare_pole
   name: Stare Pole
   type: town
   voivodeship: pomorskie
-  lat: 54.05298
-  lon: 19.20380
-- slug: jurata
-  name: Jurata
+  lat: 54.053
+  lon: 19.18718
+  lands:
+    zulawy_wislane: 100.0
+  boundary:
+    southWest:
+      lat: 54.01008920500004
+      lng: 19.08686147000003
+    northEast:
+      lat: 54.11557060200005
+      lng: 19.282212525000034
+- slug: kaliska
+  name: Kaliska
   type: town
   voivodeship: pomorskie
-  lat: 54.68316
-  lon: 18.71371
+  lat: 53.89671
+  lon: 18.2086
+  lands:
+    bory_tucholskie: 96.5526
+    pojezierze_starogardzkie: 3.4474
+  boundary:
+    southWest:
+      lat: 53.830167688000074
+      lng: 18.070847766000043
+    northEast:
+      lat: 53.96095109700008
+      lng: 18.28586647700007
+- slug: subkowy
+  name: Subkowy
+  type: town
+  voivodeship: pomorskie
+  lat: 54.00018
+  lon: 18.75368
+  lands:
+    pojezierze_starogardzkie: 89.349
+    dolina_kwidzynska: 7.6469
+    zulawy_wislane: 3.0041
+  boundary:
+    southWest:
+      lat: 53.957756876000076
+      lng: 18.657834500000035
+    northEast:
+      lat: 54.04560212100006
+      lng: 18.872257674000025
+- slug: sadlinki
+  name: Sadlinki
+  type: town
+  voivodeship: pomorskie
+  lat: 53.65278
+  lon: 18.83031
+  lands:
+    dolina_kwidzynska: 70.0893
+    pojezierze_lasinskie: 29.6834
+    pojezierze_dzierzgonskomoraskie: 0.2273
+  boundary:
+    southWest:
+      lat: 53.59949775500007
+      lng: 18.73932037700007
+    northEast:
+      lat: 53.70805666900003
+      lng: 18.94820942900003
+- slug: studzienice
+  name: Studzienice
+  type: town
+  voivodeship: pomorskie
+  lat: 54.08687
+  lon: 17.59252
+  lands:
+    rownina_charzykowska: 72.2268
+    pojezierze_bytowskie: 27.7657
+    bory_tucholskie: 0.0075
+  boundary:
+    southWest:
+      lat: 53.98318682300004
+      lng: 17.46534011400007
+    northEast:
+      lat: 54.19052812900003
+      lng: 17.737525790000063
+- slug: nowa_wies_leborska
+  name: Nowa Wieś Lęborska
+  type: town
+  voivodeship: pomorskie
+  lat: 54.57234
+  lon: 17.6877
+  lands:
+    wysoczyzna_choczewska: 52.8086
+    pradolina_redyleby: 26.9379
+    pojezierze_kaszubskie: 17.5219
+  boundary:
+    southWest:
+      lat: 54.46876266100003
+      lng: 17.543225977000077
+    northEast:
+      lat: 54.677667599000074
+      lng: 17.838004988000023
+- slug: czarna_woda
+  name: Czarna Woda
+  type: town
+  voivodeship: pomorskie
+  lat: 53.843
+  lon: 18.1412
+  lands:
+    bory_tucholskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.82686806500004
+      lng: 18.063505357000054
+    northEast:
+      lat: 53.87079094200004
+      lng: 18.209958509000046
+- slug: stezyca
+  name: Stężyca
+  type: town
+  voivodeship: pomorskie
+  lat: 54.22973
+  lon: 18.01606
+  lands:
+    pojezierze_kaszubskie: 82.6939
+    bory_tucholskie: 17.3061
+  boundary:
+    southWest:
+      lat: 54.17430120600005
+      lng: 17.82321447100003
+    northEast:
+      lat: 54.29727900700004
+      lng: 18.154196566000053
+- slug: nowa_karczma
+  name: Nowa Karczma
+  type: town
+  voivodeship: pomorskie
+  lat: 54.13464
+  lon: 18.22102
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.07076267800005
+      lng: 18.090269774000035
+    northEast:
+      lat: 54.19895308400004
+      lng: 18.327937510000027
+- slug: miloradz
+  name: Miłoradz
+  type: town
+  voivodeship: pomorskie
+  lat: 54.0172
+  lon: 18.89141
+  lands:
+    zulawy_wislane: 92.664
+    dolina_kwidzynska: 7.336
+  boundary:
+    southWest:
+      lat: 53.94307693500008
+      lng: 18.811879437000073
+    northEast:
+      lat: 54.086586142000044
+      lng: 18.97060834100006
+- slug: ostaszewo
+  name: Ostaszewo
+  type: town
+  voivodeship: pomorskie
+  lat: 54.2019
+  lon: 18.94849
+  lands:
+    zulawy_wislane: 100.0
+  boundary:
+    southWest:
+      lat: 54.15223155800004
+      lng: 18.836579534000066
+    northEast:
+      lat: 54.25216018000003
+      lng: 19.048509521000028
+- slug: sztutowo
+  name: Sztutowo
+  type: town
+  voivodeship: pomorskie
+  lat: 54.31817
+  lon: 19.2783
+  lands:
+    zulawy_wislane: 36.9361
+    mierzeja_wislana: 19.9056
+  boundary:
+    southWest:
+      lat: 54.26644630700008
+      lng: 19.138232956000024
+    northEast:
+      lat: 54.36670553400006
+      lng: 19.414998266000055
+- slug: debnica_kaszubska
+  name: Dębnica Kaszubska
+  type: town
+  voivodeship: pomorskie
+  lat: 54.34771
+  lon: 17.28642
+  lands:
+    wysoczyzna_polanowska: 72.0969
+    wysoczyzna_damnicka: 27.8449
+    rownina_slupska: 0.0536
+  boundary:
+    southWest:
+      lat: 54.24323198400003
+      lng: 17.08486205300005
+    northEast:
+      lat: 54.43460158400006
+      lng: 17.46042208500006
+- slug: ustka
+  name: Ustka
+  type: town
+  voivodeship: pomorskie
+  lat: 54.58536
+  lon: 17.00441
+  lands:
+    wysoczyzna_damnicka: 30.3808
+    rownina_slupska: 30.1623
+    wybrzeze_koszalinskie: 26.4009
+  boundary:
+    southWest:
+      lat: 54.486141402000044
+      lng: 16.699086545000057
+    northEast:
+      lat: 54.679638158000046
+      lng: 17.128668305000076
+- slug: bobowo
+  name: Bobowo
+  type: town
+  voivodeship: pomorskie
+  lat: 53.87023
+  lon: 18.53668
+  lands:
+    pojezierze_starogardzkie: 100.0
+  boundary:
+    southWest:
+      lat: 53.825016574000074
+      lng: 18.449529176000055
+    northEast:
+      lat: 53.918377881000026
+      lng: 18.624667643000066
+- slug: choczewo
+  name: Choczewo
+  type: town
+  voivodeship: pomorskie
+  lat: 54.74796
+  lon: 17.85512
+  lands:
+    wysoczyzna_choczewska: 78.3601
+    wybrzeze_slowinskie: 21.5273
+  boundary:
+    southWest:
+      lat: 54.66585192100007
+      lng: 17.666588740000066
+    northEast:
+      lat: 54.82450143500006
+      lng: 17.97399473200005
+- slug: mikolajki_pomorskie
+  name: Mikołajki Pomorskie
+  type: town
+  voivodeship: pomorskie
+  lat: 53.84931
+  lon: 19.2069
+  lands:
+    pojezierze_dzierzgonskomoraskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.80556602000007
+      lng: 19.078505303000043
+    northEast:
+      lat: 53.89328420800007
+      lng: 19.331011295000053
+- slug: dzierzgon
+  name: Dzierzgoń
+  type: town
+  voivodeship: pomorskie
+  lat: 53.94698
+  lon: 19.31327
+  lands:
+    pojezierze_dzierzgonskomoraskie: 86.4857
+    zulawy_wislane: 13.5143
+  boundary:
+    southWest:
+      lat: 53.86312170800005
+      lng: 19.213822393000044
+    northEast:
+      lat: 54.02744247500004
+      lng: 19.41073265700004
+- slug: sztum
+  name: Sztum
+  type: town
+  voivodeship: pomorskie
+  lat: 53.91906
+  lon: 18.99229
+  lands:
+    pojezierze_dzierzgonskomoraskie: 89.9367
+    dolina_kwidzynska: 8.6834
+    zulawy_wislane: 1.3799
+  boundary:
+    southWest:
+      lat: 53.846884411000076
+      lng: 18.86134637500004
+    northEast:
+      lat: 54.00569137100007
+      lng: 19.138968374000058
+- slug: kwidzyn
+  name: Kwidzyn
+  type: town
+  voivodeship: pomorskie
+  lat: 53.77037
+  lon: 18.96264
+  lands:
+    dolina_kwidzynska: 40.3249
+    pojezierze_lasinskie: 37.6672
+    pojezierze_dzierzgonskomoraskie: 22.0079
+  boundary:
+    southWest:
+      lat: 53.689250607000076
+      lng: 18.799949869000045
+    northEast:
+      lat: 53.84428586300004
+      lng: 19.144892054000024
+- slug: borzytuchom
+  name: Borzytuchom
+  type: town
+  voivodeship: pomorskie
+  lat: 54.2092
+  lon: 17.35595
+  lands:
+    pojezierze_bytowskie: 83.0909
+    wysoczyzna_polanowska: 16.9091
+  boundary:
+    southWest:
+      lat: 54.14602949700003
+      lng: 17.25766774400006
+    northEast:
+      lat: 54.269112938000035
+      lng: 17.457850638000025
+- slug: bytow
+  name: Bytów
+  type: town
+  voivodeship: pomorskie
+  lat: 54.15667
+  lon: 17.51051
+  lands:
+    pojezierze_bytowskie: 88.7747
+    wysoczyzna_polanowska: 6.3122
+    rownina_charzykowska: 4.9131
+  boundary:
+    southWest:
+      lat: 54.055796824000026
+      lng: 17.362336176000042
+    northEast:
+      lat: 54.26019618200007
+      lng: 17.61954497800002
+- slug: cedry_wielkie
+  name: Cedry Wielkie
+  type: town
+  voivodeship: pomorskie
+  lat: 54.25587
+  lon: 18.8556
+  lands:
+    zulawy_wislane: 100.0
+  boundary:
+    southWest:
+      lat: 54.19433027200006
+      lng: 18.73411036300007
+    northEast:
+      lat: 54.31771228100007
+      lng: 18.945953361000022
+- slug: chmielno
+  name: Chmielno
+  type: town
+  voivodeship: pomorskie
+  lat: 54.30695
+  lon: 18.04269
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.24670925600003
+      lng: 17.969353007000052
+    northEast:
+      lat: 54.37417065200003
+      lng: 18.13445720200002
+- slug: brusy
+  name: Brusy
+  type: town
+  voivodeship: pomorskie
+  lat: 53.9054
+  lon: 17.66545
+  lands:
+    bory_tucholskie: 58.0919
+    rownina_charzykowska: 41.9081
+  boundary:
+    southWest:
+      lat: 53.78097821800003
+      lng: 17.491310688000056
+    northEast:
+      lat: 54.031336698000075
+      lng: 17.877859726000054
+- slug: szemud
+  name: Szemud
+  type: town
+  voivodeship: pomorskie
+  lat: 54.47474
+  lon: 18.25651
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.41365495200006
+      lng: 18.098386016000063
+    northEast:
+      lat: 54.53535978100007
+      lng: 18.417779986000028
 - slug: wladyslawowo
   name: Władysławowo
   type: town
   voivodeship: pomorskie
-  lat: 54.79402521005942
-  lon: 18.402386055671496
+  lat: 54.7924
+  lon: 18.39452
+  lands:
+    pobrzeze_kaszubskie: 54.0942
+    wybrzeze_slowinskie: 32.7621
+    mierzeja_helska: 5.4514
+  boundary:
+    southWest:
+      lat: 54.75222554100003
+      lng: 18.194418593000023
+    northEast:
+      lat: 54.83641666700004
+      lng: 18.529330163000054
+- slug: czluchow
+  name: Człuchów
+  type: town
+  voivodeship: pomorskie
+  lat: 53.67615
+  lon: 17.34512
+  lands:
+    pojezierze_polnocnokrajenskie: 96.604
+    rownina_charzykowska: 3.396
+  boundary:
+    southWest:
+      lat: 53.56461811300005
+      lng: 17.123434404000022
+    northEast:
+      lat: 53.79189261100004
+      lng: 17.521075649000068
+- slug: kartuzy
+  name: Kartuzy
+  type: town
+  voivodeship: pomorskie
+  lat: 54.34522
+  lon: 18.17588
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.25690093400004
+      lng: 17.91894276200003
+    northEast:
+      lat: 54.434454895000044
+      lng: 18.31231030600003
+- slug: koscierzyna
+  name: Kościerzyna
+  type: town
+  voivodeship: pomorskie
+  lat: 54.12121
+  lon: 17.98403
+  lands:
+    pojezierze_kaszubskie: 99.9878
+    bory_tucholskie: 0.0122
+  boundary:
+    southWest:
+      lat: 54.09812353900003
+      lng: 17.94326136500007
+    northEast:
+      lat: 54.14270269600007
+      lng: 18.02258967100005
+- slug: lipusz
+  name: Lipusz
+  type: town
+  voivodeship: pomorskie
+  lat: 54.10773
+  lon: 17.78272
+  lands:
+    bory_tucholskie: 67.7325
+    rownina_charzykowska: 32.2675
+  boundary:
+    southWest:
+      lat: 54.04220062500008
+      lng: 17.662268182000048
+    northEast:
+      lat: 54.179072862000055
+      lng: 17.87894410100006
+- slug: kosakowo
+  name: Kosakowo
+  type: town
+  voivodeship: pomorskie
+  lat: 54.59905
+  lon: 18.47161
+  lands:
+    pobrzeze_kaszubskie: 98.0833
+  boundary:
+    southWest:
+      lat: 54.55738128100006
+      lng: 18.40952245400007
+    northEast:
+      lat: 54.63727797800004
+      lng: 18.541724699000042
+- slug: smoldzino
+  name: Smołdzino
+  type: town
+  voivodeship: pomorskie
+  lat: 54.67485
+  lon: 17.21885
+  lands:
+    wybrzeze_slowinskie: 78.714
+    wysoczyzna_damnicka: 21.1562
+  boundary:
+    southWest:
+      lat: 54.58489268900007
+      lng: 17.059251047000032
+    northEast:
+      lat: 54.76009093200008
+      lng: 17.529485134000026
+- slug: slupsk
+  name: Słupsk
+  type: town
+  voivodeship: pomorskie
+  lat: 54.46295
+  lon: 17.0301
+  lands:
+    rownina_slupska: 58.673
+    wysoczyzna_damnicka: 41.327
+  boundary:
+    southWest:
+      lat: 54.42278346300003
+      lng: 16.951422903000037
+    northEast:
+      lat: 54.495951406000074
+      lng: 17.104991953000024
+- slug: osieczna
+  name: Osieczna
+  type: town
+  voivodeship: pomorskie
+  lat: 53.79134
+  lon: 18.17837
+  lands:
+    bory_tucholskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.73900671800004
+      lng: 18.072036292000064
+    northEast:
+      lat: 53.83667681900005
+      lng: 18.382005735000064
+- slug: skarszewy
+  name: Skarszewy
+  type: town
+  voivodeship: pomorskie
+  lat: 54.06986
+  lon: 18.44436
+  lands:
+    pojezierze_kaszubskie: 78.3781
+    pojezierze_starogardzkie: 21.6219
+  boundary:
+    southWest:
+      lat: 53.99287625900007
+      lng: 18.278068449000045
+    northEast:
+      lat: 54.14108546400007
+      lng: 18.59070046000005
+- slug: reda
+  name: Reda
+  type: town
+  voivodeship: pomorskie
+  lat: 54.62322
+  lon: 18.32791
+  lands:
+    pobrzeze_kaszubskie: 87.0805
+    pradolina_redyleby: 7.328
+    pojezierze_kaszubskie: 5.5915
+  boundary:
+    southWest:
+      lat: 54.588819355000055
+      lng: 18.26748729800005
+    northEast:
+      lat: 54.653754132000074
+      lng: 18.411065282000038
+- slug: gniewino
+  name: Gniewino
+  type: town
+  voivodeship: pomorskie
+  lat: 54.70334
+  lon: 18.03251
+  lands:
+    wysoczyzna_choczewska: 95.8934
+    pradolina_redyleby: 3.129
+    pobrzeze_kaszubskie: 0.9776
+  boundary:
+    southWest:
+      lat: 54.61254236100007
+      lng: 17.869700368000053
+    northEast:
+      lat: 54.79512831300008
+      lng: 18.124312420000024
+- slug: wejherowo
+  name: Wejherowo
+  type: town
+  voivodeship: pomorskie
+  lat: 54.60839
+  lon: 18.24946
+  lands:
+    pradolina_redyleby: 44.2729
+    pojezierze_kaszubskie: 40.7525
+    pobrzeze_kaszubskie: 14.9746
+  boundary:
+    southWest:
+      lat: 54.58038710300008
+      lng: 18.194345207000026
+    northEast:
+      lat: 54.62806942700007
+      lng: 18.30155078200005
+- slug: rumia
+  name: Rumia
+  type: town
+  voivodeship: pomorskie
+  lat: 54.56967
+  lon: 18.38557
+  lands:
+    pojezierze_kaszubskie: 55.5142
+    pobrzeze_kaszubskie: 44.4858
+  boundary:
+    southWest:
+      lat: 54.53293386900003
+      lng: 18.340146108000056
+    northEast:
+      lat: 54.606396622000034
+      lng: 18.430951598000036
+- slug: wejherowo
+  name: Wejherowo
+  type: town
+  voivodeship: pomorskie
+  lat: 54.59597
+  lon: 18.16569
+  lands:
+    pojezierze_kaszubskie: 63.3317
+    pobrzeze_kaszubskie: 23.7964
+    pradolina_redyleby: 12.7991
+  boundary:
+    southWest:
+      lat: 54.48996350700003
+      lng: 18.07142067700005
+    northEast:
+      lat: 54.69968068000003
+      lng: 18.39065812900003
+- slug: trzebielino
+  name: Trzebielino
+  type: town
+  voivodeship: pomorskie
+  lat: 54.204
+  lon: 17.11009
+  lands:
+    wysoczyzna_polanowska: 91.7781
+    pojezierze_bytowskie: 8.2219
+  boundary:
+    southWest:
+      lat: 54.08622950500006
+      lng: 16.92832382000006
+    northEast:
+      lat: 54.315054548000035
+      lng: 17.214811502000032
+- slug: tuchomie
+  name: Tuchomie
+  type: town
+  voivodeship: pomorskie
+  lat: 54.10746
+  lon: 17.30571
+  lands:
+    pojezierze_bytowskie: 97.1225
+    rownina_charzykowska: 2.851
+    wysoczyzna_polanowska: 0.0265
+  boundary:
+    southWest:
+      lat: 54.03864908700007
+      lng: 17.19978072600003
+    northEast:
+      lat: 54.17714803800004
+      lng: 17.397108650000064
+- slug: czarne
+  name: Czarne
+  type: town
+  voivodeship: pomorskie
+  lat: 53.64326
+  lon: 17.03453
+  lands:
+    pojezierze_polnocnokrajenskie: 54.8481
+    dolina_gwdy: 45.1519
+  boundary:
+    southWest:
+      lat: 53.54866847000005
+      lng: 16.87368543100007
+    northEast:
+      lat: 53.73487569100007
+      lng: 17.20364538800004
+- slug: trabki_wielkie
+  name: Trąbki Wielkie
+  type: town
+  voivodeship: pomorskie
+  lat: 54.16236
+  lon: 18.51828
+  lands:
+    pojezierze_kaszubskie: 92.8648
+    pojezierze_starogardzkie: 7.1352
+  boundary:
+    southWest:
+      lat: 54.105901122000034
+      lng: 18.361115991000077
+    northEast:
+      lat: 54.22162434100005
+      lng: 18.636112179000065
+- slug: pruszcz_gdanski
+  name: Pruszcz Gdański
+  type: town
+  voivodeship: pomorskie
+  lat: 54.27088
+  lon: 18.57271
+  lands:
+    zulawy_wislane: 53.4516
+    pojezierze_kaszubskie: 46.5484
+  boundary:
+    southWest:
+      lat: 54.195693540000036
+      lng: 18.476415625000072
+    northEast:
+      lat: 54.34653528100006
+      lng: 18.86865120300007
+- slug: cewice
+  name: Cewice
+  type: town
+  voivodeship: pomorskie
+  lat: 54.43294
+  lon: 17.73887
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.35336386800003
+      lng: 17.597902985000076
+    northEast:
+      lat: 54.520051367000065
+      lng: 17.88123762400005
+- slug: gdansk
+  name: Gdańsk
+  type: town
+  voivodeship: pomorskie
+  lat: 54.36463
+  lon: 18.62258
+  lands:
+    pojezierze_kaszubskie: 51.8279
+    zulawy_wislane: 33.9435
+    mierzeja_wislana: 12.3939
+  boundary:
+    southWest:
+      lat: 54.27672505500004
+      lng: 18.43046018900003
+    northEast:
+      lat: 54.44520287100005
+      lng: 18.95002966100003
+- slug: jastarnia
+  name: Jastarnia
+  type: town
+  voivodeship: pomorskie
+  lat: 54.71474
+  lon: 18.64146
+  lands:
+    mierzeja_helska: 72.7786
+  boundary:
+    southWest:
+      lat: 54.67473445600007
+      lng: 18.524923200000046
+    northEast:
+      lat: 54.75540456400006
+      lng: 18.735105212000065
+- slug: lipnica
+  name: Lipnica
+  type: town
+  voivodeship: pomorskie
+  lat: 53.97931
+  lon: 17.37908
+  lands:
+    rownina_charzykowska: 93.2902
+    pojezierze_bytowskie: 6.7098
+  boundary:
+    southWest:
+      lat: 53.872770252000066
+      lng: 17.18133135900007
+    northEast:
+      lat: 54.083402926000076
+      lng: 17.542782895000073
+- slug: sierakowice
+  name: Sierakowice
+  type: town
+  voivodeship: pomorskie
+  lat: 54.34196
+  lon: 17.87198
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.283302882000044
+      lng: 17.71112809300007
+    northEast:
+      lat: 54.41901350400008
+      lng: 18.014904036000075
+- slug: nowy_staw
+  name: Nowy Staw
+  type: town
+  voivodeship: pomorskie
+  lat: 54.13405
+  lon: 19.0859
+  lands:
+    zulawy_wislane: 100.0
+  boundary:
+    southWest:
+      lat: 54.08341434700003
+      lng: 18.913808951000078
+    northEast:
+      lat: 54.18308220500006
+      lng: 19.221443702000045
+- slug: starogard_gdanski
+  name: Starogard Gdański
+  type: town
+  voivodeship: pomorskie
+  lat: 53.95966
+  lon: 18.52341
+  lands:
+    pojezierze_starogardzkie: 100.0
+  boundary:
+    southWest:
+      lat: 53.93422609600003
+      lng: 18.48170856400003
+    northEast:
+      lat: 53.99567635000005
+      lng: 18.57150987600005
+- slug: osiek
+  name: Osiek
+  type: town
+  voivodeship: pomorskie
+  lat: 53.72454
+  lon: 18.40022
+  lands:
+    bory_tucholskie: 94.7601
+    pojezierze_starogardzkie: 5.2399
+  boundary:
+    southWest:
+      lat: 53.656990877000055
+      lng: 18.25425073200006
+    northEast:
+      lat: 53.788616012000034
+      lng: 18.63103433400005
+- slug: lubichowo
+  name: Lubichowo
+  type: town
+  voivodeship: pomorskie
+  lat: 53.8276
+  lon: 18.35022
+  lands:
+    bory_tucholskie: 73.3329
+    pojezierze_starogardzkie: 26.6671
+  boundary:
+    southWest:
+      lat: 53.740913127000056
+      lng: 18.239164793000043
+    northEast:
+      lat: 53.90673602900006
+      lng: 18.493837050000025
+- slug: leczyce
+  name: Łęczyce
+  type: town
+  voivodeship: pomorskie
+  lat: 54.5891
+  lon: 17.9246
+  lands:
+    wysoczyzna_choczewska: 40.9981
+    pojezierze_kaszubskie: 40.5626
+    pradolina_redyleby: 18.4393
+  boundary:
+    southWest:
+      lat: 54.48487185600004
+      lng: 17.778330681000057
+    northEast:
+      lat: 54.69124373400007
+      lng: 18.087624041000026
+- slug: stary_targ
+  name: Stary Targ
+  type: town
+  voivodeship: pomorskie
+  lat: 53.95333
+  lon: 19.17386
+  lands:
+    pojezierze_dzierzgonskomoraskie: 91.1653
+    zulawy_wislane: 8.8347
+  boundary:
+    southWest:
+      lat: 53.88173468100007
+      lng: 19.06869030300004
+    northEast:
+      lat: 54.02381813000005
+      lng: 19.26823805300006
+- slug: gardeja
+  name: Gardeja
+  type: town
+  voivodeship: pomorskie
+  lat: 53.65014
+  lon: 19.04871
+  lands:
+    pojezierze_lasinskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.58815041500003
+      lng: 18.87584742200005
+    northEast:
+      lat: 53.71214424000004
+      lng: 19.201097848000074
+- slug: ryjewo
+  name: Ryjewo
+  type: town
+  voivodeship: pomorskie
+  lat: 53.85031
+  lon: 18.96472
+  lands:
+    pojezierze_dzierzgonskomoraskie: 55.8168
+    dolina_kwidzynska: 44.1444
+    pojezierze_lasinskie: 0.0388
+  boundary:
+    southWest:
+      lat: 53.78272394900006
+      lng: 18.843625100000054
+    northEast:
+      lat: 53.91159404500007
+      lng: 19.099691478000068
+- slug: rzeczenica
+  name: Rzeczenica
+  type: town
+  voivodeship: pomorskie
+  lat: 53.78088
+  lon: 17.04452
+  lands:
+    dolina_gwdy: 39.2998
+    rownina_charzykowska: 30.2174
+    pojezierze_polnocnokrajenskie: 27.7164
+  boundary:
+    southWest:
+      lat: 53.673734241000034
+      lng: 16.85765346200003
+    northEast:
+      lat: 53.884190225000054
+      lng: 17.212913877000062
+- slug: pszczolki
+  name: Pszczółki
+  type: town
+  voivodeship: pomorskie
+  lat: 54.18826
+  lon: 18.67132
+  lands:
+    pojezierze_starogardzkie: 42.6283
+    pojezierze_kaszubskie: 36.743
+    zulawy_wislane: 20.6287
+  boundary:
+    southWest:
+      lat: 54.14000055100007
+      lng: 18.62129088300003
+    northEast:
+      lat: 54.226716372000055
+      lng: 18.73882039600005
+- slug: przywidz
+  name: Przywidz
+  type: town
+  voivodeship: pomorskie
+  lat: 54.20596
+  lon: 18.31481
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.13702345400003
+      lng: 18.215088793000064
+    northEast:
+      lat: 54.27741813400007
+      lng: 18.452990415000045
+- slug: lebork
+  name: Lębork
+  type: town
+  voivodeship: pomorskie
+  lat: 54.53596
+  lon: 17.75149
+  lands:
+    pradolina_redyleby: 74.3308
+    pojezierze_kaszubskie: 13.9043
+    wysoczyzna_choczewska: 11.7649
+  boundary:
+    southWest:
+      lat: 54.51272364600004
+      lng: 17.710537913000053
+    northEast:
+      lat: 54.55903736600004
+      lng: 17.80562689100003
+- slug: wicko
+  name: Wicko
+  type: town
+  voivodeship: pomorskie
+  lat: 54.70761
+  lon: 17.61208
+  lands:
+    wysoczyzna_choczewska: 56.8726
+    wybrzeze_slowinskie: 40.3019
+    pradolina_redyleby: 2.8255
+  boundary:
+    southWest:
+      lat: 54.634485863000066
+      lng: 17.416745976000072
+    northEast:
+      lat: 54.77767891900004
+      lng: 17.78849928300002
+- slug: gdynia
+  name: Gdynia
+  type: town
+  voivodeship: pomorskie
+  lat: 54.50066
+  lon: 18.46491
+  lands:
+    pojezierze_kaszubskie: 68.523
+    pobrzeze_kaszubskie: 30.9464
+    mierzeja_wislana: 0.0063
+  boundary:
+    southWest:
+      lat: 54.42275034700003
+      lng: 18.358159038000053
+    northEast:
+      lat: 54.584478225000055
+      lng: 18.569062719000044
+- slug: przechlewo
+  name: Przechlewo
+  type: town
+  voivodeship: pomorskie
+  lat: 53.82841
+  lon: 17.24637
+  lands:
+    pojezierze_polnocnokrajenskie: 52.3049
+    rownina_charzykowska: 47.6951
+  boundary:
+    southWest:
+      lat: 53.715970550000065
+      lng: 17.070264792000046
+    northEast:
+      lat: 53.94272568000008
+      lng: 17.382667583000057
+- slug: karsin
+  name: Karsin
+  type: town
+  voivodeship: pomorskie
+  lat: 53.91637
+  lon: 17.90912
+  lands:
+    bory_tucholskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.83539040000005
+      lng: 17.79676823400007
+    northEast:
+      lat: 53.99654725700003
+      lng: 18.030666074000067
+- slug: malbork
+  name: Malbork
+  type: town
+  voivodeship: pomorskie
+  lat: 54.02253
+  lon: 19.03424
+  lands:
+    pojezierze_dzierzgonskomoraskie: 69.169
+    zulawy_wislane: 30.831
+  boundary:
+    southWest:
+      lat: 54.005365134000044
+      lng: 18.998481810000044
+    northEast:
+      lat: 54.05156256400005
+      lng: 19.092428203000054
+- slug: malbork
+  name: Malbork
+  type: town
+  voivodeship: pomorskie
+  lat: 54.04796
+  lon: 18.98419
+  lands:
+    zulawy_wislane: 84.0899
+    pojezierze_dzierzgonskomoraskie: 15.9101
+  boundary:
+    southWest:
+      lat: 53.988105973000074
+      lng: 18.94370959200006
+    northEast:
+      lat: 54.110246647000054
+      lng: 19.14236006400006
+- slug: kepice
+  name: Kępice
+  type: town
+  voivodeship: pomorskie
+  lat: 54.204
+  lon: 16.87203
+  lands:
+    wysoczyzna_polanowska: 84.7192
+    rownina_slupska: 14.9974
+    pojezierze_bytowskie: 0.2835
+  boundary:
+    southWest:
+      lat: 54.08454543100004
+      lng: 16.712988214000063
+    northEast:
+      lat: 54.31903661400003
+      lng: 17.030311951000044
+- slug: smetowo_graniczne
+  name: Smętowo Graniczne
+  type: town
+  voivodeship: pomorskie
+  lat: 53.72513
+  lon: 18.61186
+  lands:
+    pojezierze_starogardzkie: 87.1335
+    bory_tucholskie: 12.8665
+  boundary:
+    southWest:
+      lat: 53.67489609000006
+      lng: 18.523207267000032
+    northEast:
+      lat: 53.77540388700004
+      lng: 18.732576145000053
+- slug: tczew
+  name: Tczew
+  type: town
+  voivodeship: pomorskie
+  lat: 54.08931
+  lon: 18.77941
+  lands:
+    pojezierze_starogardzkie: 70.9353
+    zulawy_wislane: 29.0647
+  boundary:
+    southWest:
+      lat: 54.060771868000074
+      lng: 18.745760390000044
+    northEast:
+      lat: 54.11949424900007
+      lng: 18.820479806000037
+- slug: stary_dzierzgon
+  name: Stary Dzierzgoń
+  type: town
+  voivodeship: pomorskie
+  lat: 53.85949
+  lon: 19.41653
+  lands:
+    pojezierze_dzierzgonskomoraskie: 87.9082
+    rownina_ilawska: 12.0918
+  boundary:
+    southWest:
+      lat: 53.77510682600007
+      lng: 19.307077375000063
+    northEast:
+      lat: 53.94831053200005
+      lng: 19.581069309000043
+- slug: parchowo
+  name: Parchowo
+  type: town
+  voivodeship: pomorskie
+  lat: 54.21046
+  lon: 17.65837
+  lands:
+    pojezierze_bytowskie: 50.4309
+    pojezierze_kaszubskie: 25.828
+    bory_tucholskie: 16.1464
+  boundary:
+    southWest:
+      lat: 54.12129380300007
+      lng: 17.577366264000034
+    northEast:
+      lat: 54.30141267600004
+      lng: 17.800193638000053
+- slug: miastko
+  name: Miastko
+  type: town
+  voivodeship: pomorskie
+  lat: 54.03192
+  lon: 17.00289
+  lands:
+    pojezierze_bytowskie: 90.4491
+    wysoczyzna_polanowska: 6.308
+    rownina_charzykowska: 3.243
+  boundary:
+    southWest:
+      lat: 53.90464749600005
+      lng: 16.782766785000035
+    northEast:
+      lat: 54.16603308600003
+      lng: 17.215272792000064
+- slug: koczala
+  name: Koczała
+  type: town
+  voivodeship: pomorskie
+  lat: 53.91446
+  lon: 17.0878
+  lands:
+    rownina_charzykowska: 87.5131
+    pojezierze_bytowskie: 12.4869
+  boundary:
+    southWest:
+      lat: 53.81449807800004
+      lng: 16.97738519400002
+    northEast:
+      lat: 54.011128419000045
+      lng: 17.241208554000025
+- slug: somonino
+  name: Somonino
+  type: town
+  voivodeship: pomorskie
+  lat: 54.24391
+  lon: 18.20074
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.18687859200003
+      lng: 18.103094962000057
+    northEast:
+      lat: 54.30420710200008
+      lng: 18.328024369000047
+- slug: przodkowo
+  name: Przodkowo
+  type: town
+  voivodeship: pomorskie
+  lat: 54.39177
+  lon: 18.26305
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.34224556300006
+      lng: 18.173803579000037
+    northEast:
+      lat: 54.43996622000003
+      lng: 18.363799672000027
+- slug: chojnice
+  name: Chojnice
+  type: town
+  voivodeship: pomorskie
+  lat: 53.70634
+  lon: 17.56671
+  lands:
+    pojezierze_polnocnokrajenskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.67788745400003
+      lng: 17.509137580000072
+    northEast:
+      lat: 53.723809525000036
+      lng: 17.610561413000028
+- slug: chojnice
+  name: Chojnice
+  type: town
+  voivodeship: pomorskie
+  lat: 53.74573
+  lon: 17.58989
+  lands:
+    pojezierze_polnocnokrajenskie: 57.5072
+    rownina_charzykowska: 36.7414
+    bory_tucholskie: 5.7514
+  boundary:
+    southWest:
+      lat: 53.571152149000056
+      lng: 17.414277309000056
+    northEast:
+      lat: 53.92225685900007
+      lng: 17.772189740000044
+- slug: krynica_morska
+  name: Krynica Morska
+  type: town
+  voivodeship: pomorskie
+  lat: 54.38655
+  lon: 19.52479
+  lands:
+    mierzeja_wislana: 20.7169
+  boundary:
+    southWest:
+      lat: 54.32012090200004
+      lng: 19.331369608000045
+    northEast:
+      lat: 54.45915250100006
+      lng: 19.648735518000024
+- slug: konarzyny
+  name: Konarzyny
+  type: town
+  voivodeship: pomorskie
+  lat: 53.861
+  lon: 17.38993
+  lands:
+    rownina_charzykowska: 83.7171
+    pojezierze_polnocnokrajenskie: 16.2829
+  boundary:
+    southWest:
+      lat: 53.787730174000046
+      lng: 17.297935718000076
+    northEast:
+      lat: 53.93595115900007
+      lng: 17.480989414000078
+- slug: nowy_dwor_gdanski
+  name: Nowy Dwór Gdański
+  type: town
+  voivodeship: pomorskie
+  lat: 54.1996
+  lon: 19.15747
+  lands:
+    zulawy_wislane: 100.0
+  boundary:
+    southWest:
+      lat: 54.11612145600003
+      lng: 18.950660808000066
+    northEast:
+      lat: 54.276630338000075
+      lng: 19.326268044000074
+- slug: puck
+  name: Puck
+  type: town
+  voivodeship: pomorskie
+  lat: 54.71774
+  lon: 18.4112
+  lands:
+    pobrzeze_kaszubskie: 96.6306
+  boundary:
+    southWest:
+      lat: 54.70827725000004
+      lng: 18.393579561000024
+    northEast:
+      lat: 54.72673973000008
+      lng: 18.433775854000032
+- slug: puck
+  name: Puck
+  type: town
+  voivodeship: pomorskie
+  lat: 54.71802
+  lon: 18.29101
+  lands:
+    pobrzeze_kaszubskie: 98.0673
+    wybrzeze_slowinskie: 1.4956
+  boundary:
+    southWest:
+      lat: 54.613059269000075
+      lng: 18.16573856100007
+    northEast:
+      lat: 54.81999343700005
+      lng: 18.47400538100004
+- slug: damnica
+  name: Damnica
+  type: town
+  voivodeship: pomorskie
+  lat: 54.49611
+  lon: 17.28194
+  lands:
+    wysoczyzna_damnicka: 100.0
+  boundary:
+    southWest:
+      lat: 54.42578388800007
+      lng: 17.141239235000057
+    northEast:
+      lat: 54.57078888400008
+      lng: 17.429097438000042
+- slug: slupsk
+  name: Słupsk
+  type: town
+  voivodeship: pomorskie
+  lat: 54.48979
+  lon: 16.89923
+  lands:
+    wysoczyzna_damnicka: 54.2014
+    rownina_slupska: 45.7986
+  boundary:
+    southWest:
+      lat: 54.39185068100005
+      lng: 16.793314902000077
+    northEast:
+      lat: 54.58829070000007
+      lng: 17.217788764000034
+- slug: skorcz
+  name: Skórcz
+  type: town
+  voivodeship: pomorskie
+  lat: 53.79669
+  lon: 18.52281
+  lands:
+    pojezierze_starogardzkie: 94.2482
+    bory_tucholskie: 5.7518
+  boundary:
+    southWest:
+      lat: 53.78249546500007
+      lng: 18.500039817000072
+    northEast:
+      lat: 53.80622083700007
+      lng: 18.535572107000064
+- slug: skorcz
+  name: Skórcz
+  type: town
+  voivodeship: pomorskie
+  lat: 53.80512
+  lon: 18.47833
+  lands:
+    pojezierze_starogardzkie: 91.4111
+    bory_tucholskie: 8.5889
+  boundary:
+    southWest:
+      lat: 53.743938454000045
+      lng: 18.423532675000047
+    northEast:
+      lat: 53.86663329600003
+      lng: 18.63423062000004
+- slug: gniew
+  name: Gniew
+  type: town
+  voivodeship: pomorskie
+  lat: 53.80755
+  lon: 18.79074
+  lands:
+    pojezierze_starogardzkie: 76.6925
+    dolina_kwidzynska: 23.3075
+  boundary:
+    southWest:
+      lat: 53.68445694400003
+      lng: 18.68779138600007
+    northEast:
+      lat: 53.927884550000044
+      lng: 18.887151463000066
+- slug: morzeszczyn
+  name: Morzeszczyn
+  type: town
+  voivodeship: pomorskie
+  lat: 53.83367
+  lon: 18.67536
+  lands:
+    pojezierze_starogardzkie: 100.0
+  boundary:
+    southWest:
+      lat: 53.76982461700004
+      lng: 18.58749195200005
+    northEast:
+      lat: 53.886689224000065
+      lng: 18.74780647600005
+- slug: luzino
+  name: Luzino
+  type: town
+  voivodeship: pomorskie
+  lat: 54.56037
+  lon: 18.12356
+  lands:
+    pojezierze_kaszubskie: 88.7851
+    pradolina_redyleby: 8.9458
+    wysoczyzna_choczewska: 2.2692
+  boundary:
+    southWest:
+      lat: 54.48157486800005
+      lng: 17.998675828000046
+    northEast:
+      lat: 54.64241660300007
+      lng: 18.194512067000062
+- slug: prabuty
+  name: Prabuty
+  type: town
+  voivodeship: pomorskie
+  lat: 53.74211
+  lon: 19.19696
+  lands:
+    pojezierze_dzierzgonskomoraskie: 56.3246
+    pojezierze_lasinskie: 43.2693
+    rownina_ilawska: 0.4061
+  boundary:
+    southWest:
+      lat: 53.63806184500004
+      lng: 19.07945353300005
+    northEast:
+      lat: 53.84154080700006
+      lng: 19.32297806500003
+- slug: czluchow
+  name: Człuchów
+  type: town
+  voivodeship: pomorskie
+  lat: 53.66027
+  lon: 17.3555
+  lands:
+    pojezierze_polnocnokrajenskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.644026782000026
+      lng: 17.327109285000063
+    northEast:
+      lat: 53.685563399000046
+      lng: 17.409440825000047
+- slug: kolbudy
+  name: Kolbudy
+  type: town
+  voivodeship: pomorskie
+  lat: 54.27409
+  lon: 18.46498
+  lands:
+    pojezierze_kaszubskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.21374491800003
+      lng: 18.388920265000024
+    northEast:
+      lat: 54.335636769000075
+      lng: 18.58846515600004
+- slug: suchy_dab
+  name: Suchy Dąb
+  type: town
+  voivodeship: pomorskie
+  lat: 54.19941
+  lon: 18.77251
+  lands:
+    zulawy_wislane: 100.0
+  boundary:
+    southWest:
+      lat: 54.14157260700006
+      lng: 18.70477109600006
+    northEast:
+      lat: 54.26296586300003
+      lng: 18.882719516000066
+- slug: leba
+  name: Łeba
+  type: town
+  voivodeship: pomorskie
+  lat: 54.76603
+  lon: 17.56278
+  lands:
+    wybrzeze_slowinskie: 89.8697
+  boundary:
+    southWest:
+      lat: 54.74619289100008
+      lng: 17.491266891000066
+    northEast:
+      lat: 54.78324058100003
+      lng: 17.67253656300005
+- slug: czersk
+  name: Czersk
+  type: town
+  voivodeship: pomorskie
+  lat: 53.80432
+  lon: 17.92709
+  lands:
+    bory_tucholskie: 99.9795
+    pojezierze_polnocnokrajenskie: 0.0205
+  boundary:
+    southWest:
+      lat: 53.678802992000044
+      lng: 17.655639832000077
+    northEast:
+      lat: 53.93118892200005
+      lng: 18.137415684000075

@@ -1,528 +1,1377 @@
-# geographic regions
-# https://pl.wikipedia.org/wiki/Regionalizacja_fizycznogeograficzna_Polski
-# https://upload.wikimedia.org/wikipedia/commons/7/7c/Physico-Geographical_Regionalization_of_Poland.png
-# http://wgik.dolnyslask.pl/documents/10179/21831/plany+urz-rol2.JPG/3fce5151-1276-4882-aafd-95509e54335b?t=1362648369000?t=1362648369516
-# BEST: https://upload.wikimedia.org/wikipedia/commons/4/4e/Mezoregiony_Kondrackiego.png
-
-# sudety
-- slug: gory_izerskie
-  name: Góry Izerskie
-  header-ext-img: https://drscdn.500px.org/photo/32054089/m%3D2048/f542bb00d1e558f4153eb0ceedc6cd2a
-  main: sudety
+---
+- slug: podgorze_hermanowickie
+  name: Podgórze Hermanowickie
+  code: "521.11"
   country: Polska
-  type: mountain
-  visited: 2013-02
-  train_time_poznan: 6
-  near:
-    - karkonosze
-
-- slug: karkonosze
-  name: Karkonosze
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: sudety
+- slug: gory_sanockoturczanskie
+  name: Góry Sanocko-Turczańskie
+  code: "522.11"
   country: Polska
-  type: mountain
-  visited: 2011-12
-  train_time_poznan: 6
-  near:
-    - gory_kaczawskie
-    - rudawy_janowickie
-    - rudawy_janowickie
-
-- slug: gory_kaczawskie
-  name: Góry Kaczawskie
-  header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
-  main: sudety
+- slug: bieszczady_zachodnie
+  name: Bieszczady Zachodnie
+  code: "522.12"
   country: Polska
-  type: mountain
-  visited: 2015-06
-  train_time_poznan: 7
-  near:
-    - pogorze_sudeckie
-    - karkonosze
-    - rudawy_janowickie
-
-- slug: rudawy_janowickie
-  name: Rudawy Janowickie
-  header-ext-img: https://drscdn.500px.org/photo/23974283/m%3D2048/6f6eab37b64f6c0d37f96c4c8de7c1b8
-  main: sudety
-  country: Polska
-  type: mountain
-  visited: 2012-08
-  train_time_poznan: 5
-  near:
-    - gory_kaczawskie
-    - karkonosze
-    - gory_kamienne
-
-- slug: gory_walbrzyskie
-  name: Góry Wałbrzyskie
-  header-ext-img: https://drscdn.500px.org/photo/31441227/m%3D2048/fdf4f19ddacf65f9e0288ada72332489
-  main: sudety
-  country: Polska
-  type: mountain
-  train_time_poznan: 4
-  near:
-    - gory_kamienne
-    - gory_sowie
-    - gory_kaczawskie
-
-- slug: gory_kamienne
-  name: Góry Kamienne
-  header-ext-img: https://drscdn.500px.org/photo/31441227/m%3D2048/fdf4f19ddacf65f9e0288ada72332489
-  main: sudety
-  country: Polska
-  type: mountain
-  visited: 2012-12
-  train_time_poznan: 4
-  near:
-    - gory_walbrzyskie
-    - rudawy_janowickie
-
-- slug: gory_sowie
-  name: Góry Sowie
-  header-ext-img: https://drscdn.500px.org/photo/61532277/m%3D2048/194c5c96793ed4ec82b3dc0c3dd4bc7a
-  main: sudety
-  country: Polska
-  type: mountain
-  visited: 2014-01
-  train_time_poznan: 5
-  near:
-    - gory_kamienne
-    - gory_bardzkie
-    - gory_stolowe
-
-- slug: gory_bardzkie
-  name: Góry Bardzkie
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: sudety
-  country: Polska
-  type: mountain
-  train_time_poznan: 4
-  near:
-    - gory_zloty
-    - gory_sowie
-
-- slug: gory_stolowe
-  name: Góry Stołowe
-  header-ext-img: https://drscdn.500px.org/photo/49894062/m%3D2048/ad4e41f4b7e0c6c60b502df3712fb283
-  main: sudety
-  country: Polska
-  type: mountain
-  visited: 2013-10
-  train_time_poznan: 6
-  near:
-    - gory_bystrzyckie
-
-- slug: gory_bystrzyckie
-  name: Góry Bystrzyckie
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: sudety
-  country: Polska
-  type: mountain
-  train_time_poznan: 5
-  near:
-    - gory_orlickie
-    - gory_stolowe
-
-- slug: gory_orlickie
-  name: Góry Orlickie
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: sudety
-  country: Polska
-  type: mountain
-  train_time_poznan: 6
-  near:
-    - gory_bystrzyckie
-
-- slug: masyw_snieznika
-  name: Masyw Śnieżnika
-  header-ext-img: https://drscdn.500px.org/photo/41495140/m%3D2048/d63e6ac9124d094d1d38d9abe41b042f
-  main: sudety
-  country: Polska
-  type: mountain
-  visited: 2013-07
-  train_time_poznan: 6
-  near:
-    - gory_bialskie
-    - gory_zlote
-
-- slug: gory_bialskie
-  name: Góry Bialskie
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: sudety
-  country: Polska
-  type: mountain
-  near:
-    - masyw_snieznika
-    - gory_zlote
-
-- slug: gory_zloty
-  name: Góry Złote
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: sudety
-  country: Polska
-  type: mountain
-  near:
-    - gory_bialskie
-    - masyw_snieznika
-
-- slug: gory_opawskie
-  name: Góry Opawskie
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: sudety
-  country: Polska
-  type: mountain
-
-# karpaty
-- slug: beskid_slaski
-  name: Beskid Śląski
-  header-ext-img: https://drscdn.500px.org/photo/31311545/m%3D2048/bd050149677e698ab5893672aa7b5487
-  main: karpaty
-  country: Polska
-  type: mountain
-  visited: 2012-04
-  train_time_poznan: 8
-  near:
-    - beskid_zywiecki
-    - beskid_maly
-
-- slug: beskid_zywiecki
-  name: Beskid Żywiecki
-  header-ext-img: https://drscdn.500px.org/photo/41309460/m%3D2048/8282953d8e04e71ca1f9b29499310fcb
-  main: karpaty
-  country: Polska
-  type: mountain
-  visited: 2013-07
-  train_time_poznan: 8
-  near:
-    - beskid_slaski
-    - beskid_maly
-    - beskid_makowski
-
-- slug: beskid_maly
-  name: Beskid Mały
-  header-ext-img: https://drscdn.500px.org/photo/72685025/m%3D2048/41c522ea6a5935c3c32bcad562a133c2
-  main: karpaty
-  country: Polska
-  type: mountain
-  visited: 2014-05
-  train_time_poznan: 7
-  near:
-    - beskid_slaski
-    - beskid_zywiecki
-    - beskid_makowski
-
-- slug: beskid_makowski
-  name: Beskid Makowski
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: karpaty
-  country: Polska
-  type: mountain
-  train_time_poznan: 8
-  near:
-    - beskid_wyspowy
-    - beskid_zywiecki
-    - beskid_maly
-
-- slug: tatry
-  name: Tatry
-  header-ext-img: https://drscdn.500px.org/photo/24015259/m%3D2048/5c876be8dd5ad63d08ef64e226c26b7e
-  main: karpaty
-  country: Polska
-  type: mountain
-  visited: 2011-09
-  train_time_poznan: 9
-
-- slug: gorce
-  name: Gorce
-  header-ext-img: https://drscdn.500px.org/photo/29288073/m%3D2048/74820a5fbbba914d66953a0b6350cefb
-  main: karpaty
-  country: Polska
-  type: mountain
-  visited: 2011-05
-  train_time_poznan: 8
-  near:
-    - beskid_sadecki
-    - pieniny
-
-- slug: beskid_wyspowy
-  name: Beskid Wyspowy
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: karpaty
-  country: Polska
-  type: mountain
-  train_time_poznan: 8
-  near:
-    - gorce
-    - beskid_makowski
-
-- slug: pieniny
-  name: Pieniny
-  header-ext-img: https://drscdn.500px.org/photo/33587725/m%3D2048/14e408970127e4461a1a2be2759daf5c
-  main: karpaty
-  country: Polska
-  type: mountain
-  visited: 2013-05
-  train_time_poznan: 9
-  near:
-    - beskid_sadecki
-    - gorce
-
-- slug: beskid_sadecki
-  name: Beskid Sądecki
-  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
-  main: karpaty
-  country: Polska
-  type: mountain
-  visited: 2015-07
-  train_time_poznan: 9
-  near:
-    - beskid_niski
-    - pieniny
-    - gorce
-
 - slug: beskid_niski
   name: Beskid Niski
-  header-ext-img: https://drscdn.500px.org/photo/30608357/m%3D2048/d9d73f6566372b1e3f0e693318e0585d
-  main: karpaty
+  code: "513.71"
   country: Polska
-  type: mountain
-  visited: 2012-05
-  train_time_poznan: 10
-  near:
-    - beskid_sadecki
-    - bieszczady
-
-- slug: bieszczady
-  name: Bieszczady
-  header-ext-img: https://drscdn.500px.org/photo/51989474/m%3D2048/0167e57632caf6622867f08744f9f538
-  main: karpaty
+- slug: pogorze_bukowskie
+  name: Pogórze Bukowskie
+  code: "513.69"
   country: Polska
-  type: mountain
-  visited: 2013-11
-  train_time_poznan: 10
-  near:
-    - beskid_niski
-    - gory_sanocko_turczanskie
-
-- slug: gory_sanocko_turczanskie
-  name: Góry Sanocko-Turczańskie
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
-  main: karpaty
+- slug: pogorze_jasielskie
+  name: Pogórze Jasielskie
+  code: "513.68"
   country: Polska
-  type: mountain
-  near:
-    - bieszczady
-
-# foothill
-- slug: pogorze_sudeckie
-  name: Pogórze Sudeckie
-  main: sudety
+- slug: pogorze_dynowskie
+  name: Pogórze Dynowskie
+  code: "513.64"
   country: Polska
-  type: foothill
-  near:
-    - gory_kaczawskie
-
-- slug: przedgorze_sudeckie
-  name: Przedgórze Sudecki
-  main: sudety
+- slug: obnizenie_gorlickie
+  name: Obniżenie Gorlickie
+  code: "513.66"
   country: Polska
-  type: foothill
-
-- slug: podhale
-  name: Podhale
-  header-ext-img: https://drscdn.500px.org/photo/164959623/q%3D80_m%3D2000/1588e418c8871127b24670bd2633e501
-  main: sudety
+- slug: pogorze_strzyzowskie
+  name: Pogórze Strzyżowskie
+  code: "513.63"
   country: Polska
-  type: foothill
-  near:
-    - gorce
-    - pieniny
-
-# coastline
-- slug: wybrzeze_trzebiatowskie
-  name: Wybrzeże Trzebiatowskie
-  header-ext-img: https://drscdn.500px.org/photo/112892627/m%3D2048/04733da45e6245d9d6719da8ecc28318
-  main: coastline
+- slug: pogorze_ciezkowickie
+  name: Pogórze Ciężkowickie
+  code: "513.62"
   country: Polska
-  type: coastline
-  visited: 2014-07
-
-- slug: wybrzeze_slowinskie
-  name: Wybrzeże Słowińskie
-  header-ext-img: https://drscdn.500px.org/photo/79684929/m%3D2048/cae4ae6b4f76c7a355d500bb5d2c0cff
-  main: coastline
+- slug: kotlina_jasielskokrosnienska
+  name: Kotlina Jasielsko-Krośnieńska
+  code: "513.67"
   country: Polska
-  type: coastline
-  visited: 2014-07
-
-# lowland
-- slug: pojezierza_pomorskie
-  name: Pojezierza Pomorskie
-  main: lowland
+- slug: plaskowyz_tarnowski
+  name: Płaskowyż Tarnowski
+  code: "512.43"
   country: Polska
-  type: lowland
-
-- slug: dolina_baryczy
-  name: Dolina Baryczy
-  header-ext-img: https://drscdn.500px.org/photo/116283285/m%3D2048/5eb8e98a8daa352db6f7c411a4d28776
-  main: lowland
+- slug: podgorze_bochenskie
+  name: Podgórze Bocheńskie
+  code: "512.42"
   country: Polska
-  type: lowland
-  visited: 2015-07
-  train_time_poznan: 3
-
-- slug: drawski_park_krajobrazowy
-  name: Drawski Park Krajobrazy
-  header-ext-img: https://drscdn.500px.org/photo/119360673/m%3D2048/3819bf91cd8dfc406ffe4d5628a0010b
-  main: lowland
+- slug: pogorze_przemyskie
+  name: Pogórze Przemyskie
+  code: "513.65"
   country: Polska
-  type: lowland
-  visited: 2015-07
-  train_time_poznan: 3
-
+- slug: dolina_dolnej_wisloki
+  name: Dolina Dolnej Wisłoki
+  code: "512.44"
+  country: Polska
+- slug: pogorze_roznowskie
+  name: Pogórze Rożnowskie
+  code: "513.61"
+  country: Polska
+- slug: tatry_zachodnie
+  name: Tatry Zachodnie
+  code: "514.52"
+  country: Polska
+- slug: tatry_wysokie
+  name: Tatry Wysokie
+  code: "514.53"
+  country: Polska
+- slug: bruzda_podtatrzanska
+  name: Bruzda Podtatrzańska
+  code: "514.14"
+  country: Polska
+- slug: pogorza_przedtatrzanskie
+  name: Pogórza Przedtatrzanskie
+  code: "514.13"
+  country: Polska
+- slug: dolina_dolnego_sanu
+  name: Dolina Dolnego Sanu
+  code: "512.46"
+  country: Polska
+- slug: podgorze_rzeszowskie
+  name: Podgórze Rzeszowskie
+  code: "512.52"
+  country: Polska
+- slug: pradolina_podkarpacka
+  name: Pradolina Podkarpacka
+  code: "512.51"
+  country: Polska
+- slug: plaskowyz_kolbuszowski
+  name: Płaskowyż Kolbuszowski
+  code: "512.48"
+  country: Polska
+- slug: rownina_tarnobrzeska
+  name: Równina Tarnobrzeska
+  code: "512.45"
+  country: Polska
+- slug: pieniny
+  name: Pieniny
+  code: "514.12"
+  country: Polska
+- slug: beskid_zywieckoorawski
+  name: Beskid Żywiecko-Orawski
+  code: "513.51"
+  country: Polska
+- slug: gorce
+  name: Gorce
+  code: "513.52"
+  country: Polska
+- slug: beskid_wyspowy
+  name: Beskid Wyspowy
+  code: "513.49"
+  country: Polska
+- slug: kotlina_orawskonowotarska
+  name: Kotlina Orawsko-Nowotarska
+  code: "514.11"
+  country: Polska
+- slug: kotlina_sadecka
+  name: Kotlina Sądecka
+  code: "513.53"
+  country: Polska
+- slug: beskid_sadecki
+  name: Beskid Sądecki
+  code: "513.54"
+  country: Polska
+- slug: pogorze_wisnickie
+  name: Pogórze Wiśnickie
+  code: "513.34"
+  country: Polska
+- slug: beskid_slaski
+  name: Beskid Śląski
+  code: "513.45"
+  country: Polska
+- slug: beskid_makowski
+  name: Beskid Makowski
+  code: "513.48"
+  country: Polska
+- slug: kotlina_zywiecka
+  name: Kotlina Żywiecka
+  code: "513.46"
+  country: Polska
+- slug: podgorze_wilamowickie
+  name: Podgórze Wilamowickie
+  code: "512.23"
+  country: Polska
+- slug: pogorze_slaskie
+  name: Pogórze Śląskie
+  code: "513.32"
+  country: Polska
+- slug: pogorze_wielickie
+  name: Pogórze Wielickie
+  code: "513.33"
+  country: Polska
+- slug: beskid_maly
+  name: Beskid Mały
+  code: "513.47"
+  country: Polska
+- slug: wysoczyzna_konczycka
+  name: Wysoczyzna Kończycka
+  code: "512.11"
+  country: Polska
+- slug: rownina_pszczynska
+  name: Równina Pszczyńska
+  code: "512.21"
+  country: Polska
+- slug: plaskowyz_rybnicki
+  name: Płaskowyż Rybnicki
+  code: "341.15"
+  country: Polska
+- slug: dolina_gornej_wisly
+  name: Dolina Górnej Wisły
+  code: "512.22"
+  country: Polska
+- slug: pomost_krakowski
+  name: Pomost Krakowski
+  code: "512.33"
+  country: Polska
+- slug: row_skawinski
+  name: Rów Skawiński
+  code: "512.31"
+  country: Polska
+- slug: garb_tenczynski
+  name: Garb Tenczyński
+  code: "341.34"
+  country: Polska
+- slug: nizina_nadwislanska
+  name: Nizina Nadwiślańska
+  code: "512.41"
+  country: Polska
+- slug: obnizenie_cholerzynskie
+  name: Obniżenie Cholerzyńskie
+  code: "512.32"
+  country: Polska
+- slug: row_krzeszowicki
+  name: Rów Krzeszowicki
+  code: "341.33"
+  country: Polska
+- slug: wyzyna_olkuska
+  name: Wyżyna Olkuska
+  code: "341.32"
+  country: Polska
+- slug: rownina_niemodlinska
+  name: Równina Niemodlińska
+  code: "318.55"
+  country: Polska
+- slug: masyw_slezy
+  name: Masyw Ślęży
+  code: "332.13"
+  country: Polska
+- slug: obnizenie_podsudeckie
+  name: Obniżenie Podsudeckie
+  code: "332.15"
+  country: Polska
+- slug: rownina_swidnicka
+  name: Równina Świdnicka
+  code: "332.12"
+  country: Polska
+- slug: wzgorza_strzegomskie
+  name: Wzgórza Strzegomskie
+  code: "332.11"
+  country: Polska
+- slug: rownina_chojnowska
+  name: Równina Chojnowska
+  code: "317.78"
+  country: Polska
+- slug: rownina_legnicka
+  name: Równina Legnicka
+  code: "317.77"
+  country: Polska
+- slug: chelm
+  name: Chełm
+  code: "341.11"
+  country: Polska
+- slug: pagory_jaworznickie
+  name: Pagóry Jaworznickie
+  code: "341.14"
+  country: Polska
+- slug: wyzyna_katowicka
+  name: Wyżyna Katowicka
+  code: "341.13"
+  country: Polska
+- slug: wal_muzakowski
+  name: Wał Mużakowski
+  code: "317.46"
+  country: Polska
+- slug: bory_dolnoslaskie
+  name: Bory Dolnośląskie
+  code: "317.74"
+  country: Polska
+- slug: wzniesienia_zarskie
+  name: Wzniesienia Żarskie
+  code: "318.41"
+  country: Polska
+- slug: mierzeja_helska
+  name: Mierzeja Helska
+  code: "313.52"
+  country: Polska
+- slug: rownina_warszawska
+  name: Równina Warszawska
+  code: "318.76"
+  country: Polska
+- slug: obnizenie_scinawskie
+  name: Obniżenie Ścinawskie
+  code: "318.43"
+  country: Polska
+- slug: prog_lelowski
+  name: Próg Lelowski
+  code: "342.13"
+  country: Polska
+- slug: wyzyna_czestochowska
+  name: Wyżyna Częstochowska
+  code: "341.31"
+  country: Polska
+- slug: obnizenie_gornej_warty
+  name: Obniżenie Górnej Warty
+  code: "341.25"
+  country: Polska
+- slug: mierzeja_wislana
+  name: Mierzeja Wiślana
+  code: "313.53"
+  country: Polska
+- slug: zulawy_wislane
+  name: Żuławy Wiślane
+  code: "313.54"
+  country: Polska
+- slug: pojezierze_starogardzkie
+  name: Pojezierze Starogardzkie
+  code: "314.52"
+  country: Polska
+- slug: pojezierze_brodnickie
+  name: Pojezierze Brodnickie
+  code: "315.12"
+  country: Polska
+- slug: pojezierze_chelminskie
+  name: Pojezierze Chełmińskie
+  code: "315.11"
+  country: Polska
+- slug: pojezierze_kujawskie
+  name: Pojezierze Kujawskie
+  code: "315.57"
+  country: Polska
+- slug: rownina_wrzesinska
+  name: Równina Wrzesińska
+  code: "315.56"
+  country: Polska
+- slug: lubuski_przelom_odry
+  name: Lubuski Przełom Odry
+  code: "315.41"
+  country: Polska
+- slug: rownina_torzymska
+  name: Równina Torzymska
+  code: "315.43"
+  country: Polska
+- slug: pojezierze_lagowskie
+  name: Pojezierze Łagowskie
+  code: "315.42"
+  country: Polska
+- slug: dolina_dolnego_bobru
+  name: Dolina Dolnego Bobru
+  code: "315.72"
+  country: Polska
 - slug: kotlina_sremska
   name: Kotlina Śremska
-  header-ext-img: https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9
-  main: lowland
+  code: "315.64"
   country: Polska
-  type: lowland
-  visited: 2015-08
-  train_time_poznan: 2
-
-- slug: pojezierze_gnieznienskie
-  name: Pojezierze Gnieźnieńskie
-  header-ext-img: https://drscdn.500px.org/photo/121610327/m%3D2048/06fbfd7a192d453eee6388675c73c225
-  main: lowland
+- slug: dolina_koninska
+  name: Dolina Konińska
+  code: "318.13"
   country: Polska
-  type: lowland
-  visited: 2013-08
-  train_time_poznan: 1
-
-- slug: pojezierze_krzywinskie
-  name: Pojezierze Krzywińskie
-  header-ext-img: https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9
-  main: lowland
+- slug: kotlina_kolska
+  name: Kotlina Kolska
+  code: "318.14"
   country: Polska
-  type: lowland
-  visited: 2016-04
-  train_time_poznan: 1
-
-- slug: pojezierze_poznanskie
-  name: Pojezierze Poznańskie
-  header-ext-img: https://drscdn.500px.org/photo/106720173/m%3D2048/e461630e194db4b9f03003d144588e37
-  main: lowland
+- slug: wysoczyzna_klodawska
+  name: Wysoczyzna Kłodawska
+  code: "318.15"
   country: Polska
-  type: lowland
-  visited: 2013-07
-  train_time_poznan: 1
-
-- slug: powidzki_park_krajobrazowy
-  name: Powidzki Park Krajobrazowy
-  header-ext-img: https://drscdn.500px.org/photo/117006701/m%3D2048/3d23b55abe3b31f6a01d06f559db95e3
-  main: lowland
+- slug: rownina_kutnowska
+  name: Równina Kutnowska
+  code: "318.71"
   country: Polska
-  type: lowland
-  visited: 2015-08
-  train_time_poznan: 2
-
-- slug: puszcza_zielonka
-  name: Puszcza Zielonka
-  header-ext-img: https://drscdn.500px.org/photo/44132576/m%3D2048/6e9a578dfcb2652ea46afe64b8a9cb5d
-  main: lowland
+- slug: wzniesienia_lodzkie
+  name: Wzniesienia Łódzkie
+  code: "318.82"
   country: Polska
-  type: lowland
-  visited: 2013-08
-  train_time_poznan: 1
-
+- slug: wysoczyzna_belchatowska
+  name: Wysoczyzna Bełchatowska
+  code: "318.81"
+  country: Polska
+- slug: wysoczyzna_laska
+  name: Wysoczyzna Łaska
+  code: "318.19"
+  country: Polska
+- slug: rownina_inowroclawska
+  name: Równina Inowrocławska
+  code: "315.55"
+  country: Polska
+- slug: kotlina_plocka
+  name: Kotlina Płocka
+  code: "315.36"
+  country: Polska
+- slug: kotlina_zasiecka
+  name: Kotlina Zasiecka
+  code: "317.23"
+  country: Polska
+- slug: obnizenie_nowosolskie
+  name: Obniżenie Nowosolskie
+  code: "318.31"
+  country: Polska
+- slug: wzgorza_dalkowskie
+  name: Wzgórza Dalkowskie
+  code: "318.42"
+  country: Polska
+- slug: wysoczyzna_lubinska
+  name: Wysoczyzna Lubińska
+  code: "317.76"
+  country: Polska
+- slug: rownina_przemkowska
+  name: Równina Przemkowska
+  code: "317.75"
+  country: Polska
+- slug: plaskowyz_suchedniowski
+  name: Płaskowyż Suchedniowski
+  code: "342.31"
+  country: Polska
+- slug: wyzyna_sandomierska
+  name: Wyżyna Sandomierska
+  code: "342.36"
+  country: Polska
+- slug: gory_swietokrzyskie
+  name: Góry Świętokrzyskie
+  code: 342.34-35
+  country: Polska
+- slug: niecka_polaniecka
+  name: Niecka Połaniecka
+  code: "342.28"
+  country: Polska
+- slug: dolina_nidy
+  name: Dolina Nidy
+  code: "342.25"
+  country: Polska
+- slug: pogorze_szydlowskie
+  name: Pogórze Szydłowskie
+  code: "342.37"
+  country: Polska
+- slug: garb_pinczowski
+  name: Garb Pińczowski
+  code: "342.27"
+  country: Polska
+- slug: niecka_solecka
+  name: Niecka Solecka
+  code: "342.26"
+  country: Polska
+- slug: wzgorza_lopuszanskie
+  name: Wzgórza Łopuszańskie
+  code: "342.16"
+  country: Polska
+- slug: plaskowyz_proszowicki
+  name: Płaskowyż Proszowicki
+  code: "342.23"
+  country: Polska
+- slug: wzgorza_radomszczanskie
+  name: Wzgórza Radomszczańskie
+  code: "342.11"
+  country: Polska
+- slug: pasmo_przedborskomalogoskie
+  name: Pasmo Przedborsko-Małogoskie
+  code: "342.15"
+  country: Polska
+- slug: plaskowyz_jedrzejowski
+  name: Płaskowyż Jędrzejowski
+  code: "342.21"
+  country: Polska
+- slug: wyzyna_miechowska
+  name: Wyżyna Miechowska
+  code: "342.22"
+  country: Polska
+- slug: niecka_wloszczowska
+  name: Niecka Włoszczowska
+  code: "342.14"
+  country: Polska
+- slug: garb_wodzislawski
+  name: Garb Wodzisławski
+  code: "342.24"
+  country: Polska
+- slug: wysoczyzna_roscislawska
+  name: Wysoczyzna Rościsławska
+  code: "318.51"
+  country: Polska
+- slug: kotlina_szczercowska
+  name: Kotlina Szczercowska
+  code: "318.23"
+  country: Polska
+- slug: wyzyna_wielunska
+  name: Wyżyna Wieluńska
+  code: "341.21"
+  country: Polska
+- slug: obnizenie_krzepickie
+  name: Obniżenie Krzepickie
+  code: "341.26"
+  country: Polska
+- slug: wzniesienia_gubinskie
+  name: Wzniesienia Gubińskie
+  code: "315.71"
+  country: Polska
+- slug: dolina_srodkowej_odry
+  name: Dolina Środkowej Odry
+  code: "315.61"
+  country: Polska
+- slug: wysoczyzna_czerwienska
+  name: Wysoczyzna Czerwieńska
+  code: "315.73"
+  country: Polska
+- slug: wal_zielonogorski
+  name: Wał Zielonogórski
+  code: "315.74"
+  country: Polska
+- slug: pradolina_wroclawska
+  name: Pradolina Wrocławska
+  code: "318.52"
+  country: Polska
+- slug: prog_herbski
+  name: Próg Herbski
+  code: "341.24"
+  country: Polska
+- slug: prog_woznicki
+  name: Próg Woźnicki
+  code: "341.23"
+  country: Polska
+- slug: obnizenie_liswarty
+  name: Obniżenie Liswarty
+  code: "341.22"
+  country: Polska
+- slug: rownina_opolska
+  name: Równina Opolska
+  code: "318.57"
+  country: Polska
+- slug: rownina_olesnicka
+  name: Równina Oleśnicka
+  code: "318.56"
+  country: Polska
+- slug: garb_tarnogorski
+  name: Garb Tarnogórski
+  code: "341.12"
+  country: Polska
+- slug: pradolina_glogowska
+  name: Pradolina Głogowska
+  code: "318.32"
+  country: Polska
+- slug: wzgorza_twardogorskie
+  name: Wzgórza Twardogórskie
+  code: "318.45"
+  country: Polska
+- slug: wzgorza_trzebnickie
+  name: Wzgórza Trzebnickie
+  code: "318.44"
+  country: Polska
+- slug: kotlina_zmigrodzka
+  name: Kotlina Żmigrodzka
+  code: "318.33"
+  country: Polska
+- slug: wzgorza_ostrzeszowskie
+  name: Wzgórza Ostrzeszowskie
+  code: "318.46"
+  country: Polska
+- slug: kotlina_milicka
+  name: Kotlina Milicka
+  code: "318.34"
+  country: Polska
+- slug: wysoczyzna_wieruszowska
+  name: Wysoczyzna Wieruszowska
+  code: "318.24"
+  country: Polska
+- slug: kotlina_grabowska
+  name: Kotlina Grabowska
+  code: "318.21"
+  country: Polska
+- slug: rownina_rychwalska
+  name: Równina Rychwalska
+  code: "318.16"
+  country: Polska
+- slug: wysoczyzna_kaliska
+  name: Wysoczyzna Kaliska
+  code: "318.12"
+  country: Polska
+- slug: wal_zerkowski
+  name: Wał Żerkowski
+  code: "315.84"
+  country: Polska
 - slug: rownina_koscianska
   name: Równina Kościańska
-  header-ext-img: https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9
-  main: lowland
+  code: "315.83"
   country: Polska
-  type: lowland
-  visited: 2015-08
-  train_time_poznan: 2
-
-- slug: sierakowski_park_krajobrazowy
-  name: Sierakowski Park Krajobrazowy
-  header-ext-img: https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce
-  main: lowland
+- slug: pojezierze_krzywinskie
+  name: Pojezierze Krzywińskie
+  code: "315.82"
   country: Polska
-  type: lowland
-  visited: 2016-04
-  train_time_poznan: 2
-
-# highlands
-- slug: gop
-  name: Górnośląski Okręg Przemysłowy
-  header-ext-img: https://drscdn.500px.org/photo/116283285/m%3D2048/5eb8e98a8daa352db6f7c411a4d28776
-  main: highland
+- slug: dolina_srodkowej_obry
+  name: Dolina Środkowej Obry
+  code: "315.63"
   country: Polska
-  type: highland
-  visited: 2012-07
-  train_time_poznan: 6
-
-- slug: wyzyna_slaska
-  name: Wyżyna Śląska
-  header-ext-img: https://drscdn.500px.org/photo/116283285/m%3D2048/5eb8e98a8daa352db6f7c411a4d28776
-  main: highland
+- slug: pojezierze_slawskie
+  name: Pojezierze Sławskie
+  code: "315.81"
   country: Polska
-  type: highland
-  visited: 2012-07
-  train_time_poznan: 6
-
-- slug: kotlina_klodzka
-  name: Kotlina Kłodzka
-  header-ext-img: https://drscdn.500px.org/photo/136585827/m%3D2048/61cde6d090bae78bec388cd4ad9b7012
-  main: highland
+- slug: wysoczyzna_leszczynska
+  name: Wysoczyzna Leszczyńska
+  code: "318.11"
   country: Polska
-  type: highland
-  visited: 2013-08
-  train_time_poznan: 6
-
-- slug: obnizenie_otmuchowskie
-  name: Obniżenie Otmuchowskie
-  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
-  main: highland
+- slug: rownina_bielska
+  name: Równina Bielska
+  code: "843.37"
   country: Polska
-  type: highland
-  visited: 2016-05
-  train_time_poznan: 5
-
-- slug: wzgorza_niemczansko_strzelinskie
-  name: Wzgórza Niemczańsko-Strzelińskie
-  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
-  main: highland
+- slug: wysoczyzna_drohiczynska
+  name: Wysoczyzna Drohiczyńska
+  code: "843.38"
   country: Polska
-  type: highland
-  visited: 2016-05
-  train_time_poznan: 4
-
+- slug: dolina_gornej_narwi
+  name: Dolina Górnej Narwi
+  code: "843.36"
+  country: Polska
+- slug: wysoczyzna_bialostocka
+  name: Wysoczyzna Białostocka
+  code: "843.33"
+  country: Polska
+- slug: wzgorza_sokolskie
+  name: Wzgórza Sokólskie
+  code: "843.34"
+  country: Polska
+- slug: pojezierze_zachodniosuwalskie
+  name: Pojezierze Zachodniosuwalskie
+  code: "842.72"
+  country: Polska
+- slug: wzgorza_szeskie
+  name: Wzgórza Szeskie
+  code: "842.85"
+  country: Polska
+- slug: wysoczyzna_kaluszynska
+  name: Wysoczyzna Kałuszyńska
+  code: "318.92"
+  country: Polska
+- slug: kraina_wielkich_jezior_mazurskich
+  name: Kraina Wielkich Jezior Mazurskich
+  code: "842.83"
+  country: Polska
+- slug: pojezierze_mragowskie
+  name: Pojezierze Mrągowskie
+  code: "842.82"
+  country: Polska
+- slug: dolina_brdy
+  name: Dolina Brdy
+  code: "314.72"
+  country: Polska
+- slug: dolina_drwecy
+  name: Dolina Drwęcy
+  code: "315.13"
+  country: Polska
+- slug: pojezierze_dobrzynskie
+  name: Pojezierze Dobrzyńskie
+  code: "315.14"
+  country: Polska
+- slug: garb_lubawski
+  name: Garb Lubawski
+  code: "315.15"
+  country: Polska
+- slug: kotlina_grudziadzka
+  name: Kotlina Grudziądzka
+  code: "314.82"
+  country: Polska
+- slug: dolina_fordonska
+  name: Dolina Fordońska
+  code: "314.83"
+  country: Polska
+- slug: dolina_kwidzynska
+  name: Dolina Kwidzyńska
+  code: "314.81"
+  country: Polska
+- slug: bory_tucholskie
+  name: Bory Tucholskie
+  code: "314.71"
+  country: Polska
+- slug: pojezierze_dzierzgonskomoraskie
+  name: Pojezierze Dzierzgońsko-Morąskie
+  code: "314.91"
+  country: Polska
+- slug: pojezierze_olsztynskie
+  name: Pojezierze Olsztyńskie
+  code: "842.81"
+  country: Polska
+- slug: wysoczyzna_swiecka
+  name: Wysoczyzna Świecka
+  code: "314.73"
+  country: Polska
+- slug: nieszawski_przelom_wisly
+  name: Nieszawski Przełom Wisły
+  code: "315.37"
+  country: Polska
+- slug: garb_wlodawski
+  name: Garb Włodawski
+  code: "845.15"
+  country: Polska
+- slug: obnizenie_chodelskie
+  name: Obniżenie Chodelskie
+  code: "343.14"
+  country: Polska
+- slug: wynioslosc_gielczewska
+  name: Wyniosłość Giełczewska
+  code: "343.17"
+  country: Polska
+- slug: roztocze_zachodnie
+  name: Roztocze Zachodnie
+  code: "343.21"
+  country: Polska
+- slug: obnizenie_dorohuckie
+  name: Obniżenie Dorohuckie
+  code: "845.31"
+  country: Polska
+- slug: zakleslosc_sosnowicka
+  name: Zaklęsłość Sosnowicka
+  code: "845.14"
+  country: Polska
+- slug: grzeda_sokalska
+  name: Grzęda Sokalska
+  code: "851.13"
+  country: Polska
+- slug: pojezierze_leczynskowlodawskie
+  name: Pojezierze Łęczyńsko-Włodawskie
+  code: "845.16"
+  country: Polska
+- slug: pagory_chelmskie
+  name: Pagóry Chełmskie
+  code: "845.32"
+  country: Polska
+- slug: plaskowyz_naleczowski
+  name: Płaskowyż Nałęczowski
+  code: "343.12"
+  country: Polska
+- slug: plaskowyz_tarnogrodzki
+  name: Płaskowyż Tarnogrodzki
+  code: "512.49"
+  country: Polska
+- slug: wysoczyzna_turecka
+  name: Wysoczyzna Turecka
+  code: "318.17"
+  country: Polska
+- slug: rownina_olsztynka
+  name: Równina Olsztynka
+  code: "842.88"
+  country: Polska
+- slug: wysoczyzna_jezioranskobisztynecka
+  name: Wysoczyzna Jeziorańsko-Bisztynecka
+  code: "842.89"
+  country: Polska
+- slug: pojezierze_lasinskie
+  name: Pojezierze Łasińskie
+  code: "314.92"
+  country: Polska
+- slug: rownina_ilawska
+  name: Równina Iławska
+  code: "314.93"
+  country: Polska
+- slug: kotlina_biebrzanska
+  name: Kotlina Biebrzańska
+  code: "843.32"
+  country: Polska
+- slug: wysoczyzna_kolnenska
+  name: Wysoczyzna Kolneńska
+  code: "843.31"
+  country: Polska
+- slug: rownina_ornecka
+  name: Równina Ornecka
+  code: "841.58"
+  country: Polska
+- slug: nizina_sepopolska
+  name: Nizina Sępopolska
+  code: "841.59"
+  country: Polska
+- slug: puszcza_romincka
+  name: Puszcza Romincka
+  code: "842.71"
+  country: Polska
+- slug: kraina_wegorapy
+  name: Kraina Węgorapy
+  code: "842.84"
+  country: Polska
+- slug: pojezierze_elckie
+  name: Pojezierze Ełckie
+  code: "842.86"
+  country: Polska
+- slug: pojezierze_wschodniosuwalskie
+  name: Pojezierze Wschodniosuwalskie
+  code: "842.73"
+  country: Polska
+- slug: rownina_augustowska
+  name: Równina Augustowska
+  code: "842.74"
+  country: Polska
+- slug: wzniesienia_gorowskie
+  name: Wzniesienia Górowskie
+  code: "841.57"
+  country: Polska
+- slug: rownina_warminska
+  name: Równina Warmińska
+  code: "313.56"
+  country: Polska
+- slug: wysoczyzna_elblaska
+  name: Wysoczyzna Elbląska
+  code: "313.55"
+  country: Polska
+- slug: wybrzeze_staropruskie
+  name: Wybrzeże Staropruskie
+  code: "313.57"
+  country: Polska
+- slug: rownina_charzykowska
+  name: Równina Charzykowska
+  code: "314.67"
+  country: Polska
+- slug: pojezierze_bytowskie
+  name: Pojezierze Bytowskie
+  code: "314.47"
+  country: Polska
+- slug: rownina_mazurska
+  name: Równina Mazurska
+  code: "842.87"
+  country: Polska
+- slug: rownina_kurpiowska
+  name: Równina Kurpiowska
+  code: "318.65"
+  country: Polska
+- slug: dolina_dolnej_narwi
+  name: Dolina Dolnej Narwi
+  code: "318.66"
+  country: Polska
+- slug: rownina_raciaska
+  name: Równina Raciąska
+  code: "318.62"
+  country: Polska
+- slug: wysoczyzna_ciechanowska
+  name: Wysoczyzna Ciechanowska
+  code: "318.64"
+  country: Polska
+- slug: miedzyrzecze_lomzynskie
+  name: Międzyrzecze Łomżyńskie
+  code: "318.67"
+  country: Polska
+- slug: wysoczyzna_wysokomazowiecka
+  name: Wysoczyzna Wysokomazowiecka
+  code: "843.35"
+  country: Polska
+- slug: dolina_dolnego_bugu
+  name: Dolina Dolnego Bugu
+  code: "318.74"
+  country: Polska
+- slug: podlaski_przelom_bugu
+  name: Podlaski Przełom Bugu
+  code: "318.91"
+  country: Polska
+- slug: dolina_bialobrzeska
+  name: Dolina Białobrzeska
+  code: "318.85"
+  country: Polska
+- slug: rownina_piotrkowska
+  name: Równina Piotrkowska
+  code: "318.84"
+  country: Polska
+- slug: malopolski_przelom_wisly
+  name: Małopolski Przełom Wisły
+  code: "343.11"
+  country: Polska
+- slug: przedgorze_ilzeckie
+  name: Przedgórze Iłżeckie
+  code: "342.33"
+  country: Polska
+- slug: rownina_radomska
+  name: Równina Radomska
+  code: "318.86"
+  country: Polska
+- slug: garb_gielniowski
+  name: Garb Gielniowski
+  code: "342.32"
+  country: Polska
+- slug: wzgorza_opoczynskie
+  name: Wzgórza Opoczyńskie
+  code: "342.12"
+  country: Polska
+- slug: dolina_dolnej_pilicy
+  name: Dolina Dolnej Pilicy
+  code: "318.70"
+  country: Polska
+- slug: rownina_lowickoblonska
+  name: Równina Łowicko-Błońska
+  code: "318.72"
+  country: Polska
+- slug: wysoczyzna_rawska
+  name: Wysoczyzna Rawska
+  code: "318.83"
+  country: Polska
+- slug: rownina_garwolinska
+  name: Równina Garwolińska
+  code: "318.79"
+  country: Polska
+- slug: wysoczyzna_zelechowska
+  name: Wysoczyzna Żelechowska
+  code: "318.95"
+  country: Polska
+- slug: rownina_lukowska
+  name: Równina Łukowska
+  code: "318.96"
+  country: Polska
+- slug: obnizenie_wegrowskie
+  name: Obniżenie Węgrowskie
+  code: "318.93"
+  country: Polska
+- slug: rownina_urszulewska
+  name: Równina Urszulewska
+  code: "315.16"
+  country: Polska
+- slug: wysoczyzna_plonska
+  name: Wysoczyzna Płońska
+  code: "318.61"
+  country: Polska
+- slug: wzniesienia_mlawskie
+  name: Wzniesienia Mławskie
+  code: "318.63"
+  country: Polska
+- slug: kotlina_warszawska
+  name: Kotlina Warszawska
+  code: "318.73"
+  country: Polska
+- slug: dolina_srodkowej_wisly
+  name: Dolina Środkowej Wisły
+  code: "318.75"
+  country: Polska
+- slug: wysoczyzna_siedlecka
+  name: Wysoczyzna Siedlecka
+  code: "318.94"
+  country: Polska
+- slug: rownina_wolominska
+  name: Równina Wołomińska
+  code: "318.78"
+  country: Polska
+- slug: rownina_kozienicka
+  name: Równina Kozienicka
+  code: "318.77"
+  country: Polska
+- slug: rownina_belzycka
+  name: Równina Bełżycka
+  code: "343.13"
+  country: Polska
+- slug: roztocze_wschodnie
+  name: Roztocze Wschodnie
+  code: "343.23"
+  country: Polska
+- slug: roztocze_srodkowe
+  name: Roztocze Środkowe
+  code: "343.22"
+  country: Polska
+- slug: rownina_belska
+  name: Równina Bełska
+  code: "851.21"
+  country: Polska
+- slug: kotlina_hrubieszowska
+  name: Kotlina Hrubieszowska
+  code: "851.12"
+  country: Polska
+- slug: grzeda_horodelska
+  name: Grzęda Horodelska
+  code: "851.11"
+  country: Polska
+- slug: wysoczyzna_parczewskokodenska
+  name: Wysoczyzna Parczewsko-Kodeńska
+  code: "845.12"
+  country: Polska
+- slug: obnizenie_dubienskie
+  name: Obniżenie Dubieńskie
+  code: "845.33"
+  country: Polska
+- slug: wzniesienia_urzedowskie
+  name: Wzniesienia Urzędowskie
+  code: "343.15"
+  country: Polska
+- slug: rownina_bilgorajska
+  name: Równina Biłgorajska
+  code: "512.47"
+  country: Polska
+- slug: dolina_srodkowego_bugu
+  name: Dolina Środkowego Bugu
+  code: "845.18"
+  country: Polska
+- slug: dzialy_grabowieckie
+  name: Działy Grabowieckie
+  code: "343.18"
+  country: Polska
+- slug: kotlina_zamojska
+  name: Kotlina Zamojska
+  code: "343.19"
+  country: Polska
+- slug: wysoczyzna_lubartowska
+  name: Wysoczyzna Lubartowska
+  code: "318.98"
+  country: Polska
+- slug: plaskowyz_swidnicki
+  name: Płaskowyż Świdnicki
+  code: "343.16"
+  country: Polska
+- slug: pradolina_wieprza
+  name: Pradolina Wieprza
+  code: "318.97"
+  country: Polska
+- slug: zakleslosc_lomaska
+  name: Zaklęsłość Łomaska
+  code: "845.11"
+  country: Polska
+- slug: bruzda_zbaszynska
+  name: Bruzda Zbąszyńska
+  code: "315.44"
+  country: Polska
+- slug: kotlina_kargowska
+  name: Kotlina Kargowska
+  code: "315.62"
+  country: Polska
+- slug: wysoczyzna_grodziska
+  name: Wysoczyzna Grodziska
+  code: "315.59"
+  country: Polska
+- slug: rownina_nowotomyska
+  name: Równina Nowotomyska
+  code: "315.50"
+  country: Polska
+- slug: pojezierze_poznanskie
+  name: Pojezierze Poznańskie
+  code: "315.51"
+  country: Polska
+- slug: poznanski_przelom_warty
+  name: Poznański Przełom Warty
+  code: "315.52"
+  country: Polska
+- slug: rownina_goleniowska
+  name: Równina Goleniowska
+  code: "313.25"
+  country: Polska
+- slug: wzniesienia_szczecinskie
+  name: Wzniesienia Szczecińskie
+  code: "313.26"
+  country: Polska
+- slug: rownina_wkrzanska_rownina_policka
+  name: Równina Wkrzańska (Równina Policka)
+  code: "313.23"
+  country: Polska
+- slug: rownina_nowogardzka
+  name: Równina Nowogardzka
+  code: "313.32"
+  country: Polska
+- slug: rownina_pyrzycka
+  name: Równina Pyrzycka
+  code: "313.31"
+  country: Polska
+- slug: pojezierze_drawskie
+  name: Pojezierze Drawskie
+  code: "314.45"
+  country: Polska
+- slug: pojezierze_szczecineckie
+  name: Pojezierze Szczecineckie
+  code: "314.66"
+  country: Polska
+- slug: pojezierze_mysliborskie
+  name: Pojezierze Myśliborskie
+  code: "314.41"
+  country: Polska
+- slug: pojezierze_choszczenskie
+  name: Pojezierze Choszczeńskie
+  code: "314.42"
+  country: Polska
+- slug: wysoczyzna_damnicka
+  name: Wysoczyzna Damnicka
+  code: "313.44"
+  country: Polska
+- slug: rownina_slupska
+  name: Równina Słupska
+  code: "313.43"
+  country: Polska
+- slug: wysoczyzna_polanowska
+  name: Wysoczyzna Polanowska
+  code: "314.46"
+  country: Polska
+- slug: pojezierze_poludniowokrajenskie
+  name: Pojezierze Południowokrajeńskie
+  code: "314.74"
+  country: Polska
+- slug: dolina_srodkowej_noteci
+  name: Dolina Środkowej Noteci
+  code: "315.34"
+  country: Polska
+- slug: pojezierze_chodzieskie
+  name: Pojezierze Chodzieskie
+  code: "315.53"
+  country: Polska
+- slug: pojezierze_zninskomogilenskie
+  name: Pojezierze Żnińsko-Mogileńskie
+  code: "315.58"
+  country: Polska
+- slug: pojezierze_polnocnokrajenskie
+  name: Pojezierze Północnokrajeńskie
+  code: "314.69"
+  country: Polska
+- slug: kotlina_torunska
+  name: Kotlina Toruńska
+  code: "315.35"
+  country: Polska
+- slug: dolina_gwdy
+  name: Dolina Gwdy
+  code: "314.68"
+  country: Polska
+- slug: rownina_walecka
+  name: Równina Wałecka
+  code: "314.65"
+  country: Polska
+- slug: uznam_i_wolin
+  name: Uznam i Wolin
+  code: "313.21"
+  country: Polska
+- slug: rownina_gryficka
+  name: Równina Gryficka
+  code: "313.33"
+  country: Polska
+- slug: rownina_bialogardzka
+  name: Równina Białogardzka
+  code: "313.42"
+  country: Polska
+- slug: wybrzeze_slowinskie
+  name: Wybrzeże Słowińskie
+  code: "313.41"
+  country: Polska
+- slug: pojezierze_kaszubskie
+  name: Pojezierze Kaszubskie
+  code: "314.51"
+  country: Polska
+- slug: pradolina_redyleby
+  name: Pradolina Redy-Łeby
+  code: "313.46"
+  country: Polska
+- slug: pojezierze_inskie
+  name: Pojezierze Ińskie
+  code: "314.43"
+  country: Polska
+- slug: wysoczyzna_lobeska
+  name: Wysoczyzna Łobeska
+  code: "314.44"
+  country: Polska
+- slug: wybrzeze_trzebiatowskie
+  name: Wybrzeże Trzebiatowskie
+  code: "313.22"
+  country: Polska
+- slug: rownina_weltynska
+  name: Równina Wełtyńska
+  code: "313.28"
+  country: Polska
+- slug: wzgorza_bukowe
+  name: Wzgórza Bukowe
+  code: "313.27"
+  country: Polska
+- slug: dolina_dolnej_odry
+  name: Dolina Dolnej Odry
+  code: "313.24"
+  country: Polska
+- slug: rownina_gorzowska
+  name: Równina Gorzowska
+  code: "314.61"
+  country: Polska
+- slug: kotlina_freienwaldzka
+  name: Kotlina Freienwaldzka
+  code: "315.32"
+  country: Polska
+- slug: pojezierze_dobiegniewskie
+  name: Pojezierze Dobiegniewskie
+  code: "314.62"
+  country: Polska
+- slug: pojezierze_waleckie
+  name: Pojezierze Wałeckie
+  code: "314.64"
+  country: Polska
+- slug: rownina_drawska
+  name: Równina Drawska
+  code: "314.63"
+  country: Polska
+- slug: kotlina_gorzowska
+  name: Kotlina Gorzowska
+  code: "315.33"
+  country: Polska
+- slug: wysoczyzna_choczewska
+  name: Wysoczyzna Choczewska
+  code: "313.45"
+  country: Polska
+- slug: pobrzeze_kaszubskie
+  name: Pobrzeże Kaszubskie
+  code: "313.51"
+  country: Polska
+- slug: kotlina_sieradzka
+  name: Kotlina Sieradzka
+  code: "318.18"
+  country: Polska
+- slug: wysoczyzna_zloczewska
+  name: Wysoczyzna Złoczewska
+  code: "318.22"
+  country: Polska
+- slug: pogorze_orlickie
+  name: Pogórze Orlickie
+  code: "332.51"
+  country: Polska
+- slug: gory_bardzkie
+  name: Góry Bardzkie
+  code: "332.45"
+  country: Polska
+- slug: brama_lubawska
+  name: Brama Lubawska
+  code: "332.41"
+  country: Polska
 - slug: obnizenie_scinawki
   name: Obniżenie Ścinawki
-  header-ext-img: https://drscdn.500px.org/photo/152229321/q%3D80_m%3D2000/c590c87f2a2d9d078829c94d6a1a861c
-  main: highland
+  code: "332.47"
   country: Polska
-  type: highland
-  visited: 2016-05
-  train_time_poznan: 6
-
-- slug: obnizenie_nowej_rudy
-  name: Obnizenie Nowej Rudy
-  header-ext-img: https://drscdn.500px.org/photo/152229321/q%3D80_m%3D2000/c590c87f2a2d9d078829c94d6a1a861c
-  main: highland
+- slug: kotlina_zytawska
+  name: Kotlina Żytawska
+  code: "332.25"
   country: Polska
-  type: highland
-  visited: 2016-05
-  train_time_poznan: 6
-
-- slug: pogorze_orlickie
-  name: Pogorze Orlickie
-  header-ext-img: https://drscdn.500px.org/photo/152229851/q%3D80_m%3D2000/d91e640d51cb32fc6d0bf4f1ffa458ec
-  main: highland
+- slug: pogorze_kaczawskie
+  name: Pogórze Kaczawskie
+  code: "332.27"
   country: Polska
-  type: highland
-  visited: 2016-05
-  train_time_poznan: 6
+- slug: pogorze_izerskie
+  name: Pogórze Izerskie
+  code: "332.26"
+  country: Polska
+- slug: row_gornej_nysy
+  name: Rów Górnej Nysy
+  code: "332.55"
+  country: Polska
+- slug: kotlina_klodzka
+  name: Kotlina Kłodzka
+  code: "332.54"
+  country: Polska
+- slug: rudawy_janowickie
+  name: Rudawy Janowickie
+  code: "332.38"
+  country: Polska
+- slug: gory_kaczawskie
+  name: Góry Kaczawskie
+  code: "332.35"
+  country: Polska
+- slug: karkonosze
+  name: Karkonosze
+  code: "332.37"
+  country: Polska
+- slug: kotlina_jeleniogorska
+  name: Kotlina Jeleniogórska
+  code: "332.36"
+  country: Polska
+- slug: gory_izerskie
+  name: Góry Izerskie
+  code: "332.34"
+  country: Polska
+- slug: gory_zlote
+  name: Góry Złote
+  code: "332.61"
+  country: Polska
+- slug: masyw_snieznika
+  name: Masyw Śnieżnika
+  code: "332.62"
+  country: Polska
+- slug: gory_orlickie
+  name: Góry Orlickie
+  code: "332.52"
+  country: Polska
+- slug: gory_stolowe
+  name: Góry Stołowe
+  code: "332.48"
+  country: Polska
+- slug: gory_bystrzyckie
+  name: Góry Bystrzyckie
+  code: "332.53"
+  country: Polska
+- slug: pogorze_walbrzyskie
+  name: Pogórze Wałbrzyskie
+  code: "332.28"
+  country: Polska
+- slug: gory_sowie
+  name: Góry Sowie
+  code: "332.44"
+  country: Polska
+- slug: gory_kamienne
+  name: Góry Kamienne
+  code: "332.43"
+  country: Polska
+- slug: gory_walbrzyskie
+  name: Góry Wałbrzyskie
+  code: "332.42"
+  country: Polska
+- slug: obnizenie_noworudzkie
+  name: Obniżenie Noworudzkie
+  code: "332.46"
+  country: Polska
+- slug: wzgorza_niemczanskostrzelinskie
+  name: Wzgórza Niemczańsko-Strzelińskie
+  code: "332.14"
+  country: Polska
+- slug: rownina_wroclawska
+  name: Równina Wrocławska
+  code: "318.53"
+  country: Polska
+- slug: kotlina_raciborska
+  name: Kotlina Raciborska
+  code: "318.59"
+  country: Polska
+- slug: dolina_nysy_klodzkiej
+  name: Dolina Nysy Kłodzkiej
+  code: "318.54"
+  country: Polska
+- slug: obnizenie_otmuchowskie
+  name: Obniżenie Otmuchowskie
+  code: "332.16"
+  country: Polska
+- slug: plaskowyz_glubczycki
+  name: Płaskowyż Głubczycki
+  code: "318.58"
+  country: Polska
+- slug: brama_raciborska
+  name: Brama Raciborska
+  code: "318.50"
+  country: Polska
+- slug: przedgorze_paczkowskie
+  name: Przedgórze Paczkowskie
+  code: "332.17"
+  country: Polska
+- slug: gory_opawskie
+  name: Góry Opawskie
+  code: "332.63"
+  country: Polska
+- slug: miedzyrzecze_pysznej_i_niecieczy
+  name: Międzyrzecze Pysznej i Niecieczy
+  code: "318.25"
+  country: Polska
+- slug: pojezierze_gnieznienskie
+  name: Pojezierze Gnieźnieńskie
+  code: "315.54"
+  country: Polska
+- slug: obnizenie_bojszowa
+  name: Obniżenie Bojszowa
+  code: "341.16"
+  country: Polska
+- slug: kotlina_siewierza
+  name: Kotlina Siewierza
+  code: "341.27"
+  country: Polska
+- slug: kotlina_olzy
+  name: Kotlina Olzy
+  code: "512.12"
+  country: Polska
+- slug: pasma_pewelskokrzeczowskie
+  name: Pasma Pewelsko-Krzeczowskie
+  code: "513.57"
+  country: Polska
+- slug: beskid_zywieckokysucki
+  name: Beskid Żywiecko-Kysucki
+  code: "513.56"
+  country: Polska
+- slug: miedzygorze_jablonkowskokoniakowskie
+  name: Międzygórze Jabłonkowsko-Koniakowskie
+  code: "513.55"
+  country: Polska
+- slug: dzialy_orawskie
+  name: Działy Orawskie
+  code: "513.58"
+  country: Polska
+- slug: podgorze_krakowskie
+  name: Podgórze Krakowskie
+  code: "512.53"
+  country: Polska
+- slug: pogorze_popradzkie
+  name: Pogórze Popradzkie
+  code: "513.59"
+  country: Polska
+- slug: plaskowyz_mosciski
+  name: Płaskowyż Mościski
+  code: "521.13"
+  country: Polska
+- slug: tatry_reglowe
+  name: Tatry Reglowe
+  code: "514.54"
+  country: Polska
+- slug: magura_spiska
+  name: Magura Spiska
+  code: "514.15"
+  country: Polska
+- slug: pogorze_orawskojordanowskie
+  name: Pogórze Orawsko-Jordanowskie
+  code: "513.50"
+  country: Polska
+- slug: niecka_przyrowska
+  name: Niecka Przyrowska
+  code: "342.17"
+  country: Polska
+- slug: obnizenie_gornej_malej_panwi
+  name: Obniżenie Górnej Małej Panwi
+  code: "341.28"
+  country: Polska
+- slug: wybrzeze_koszalinskie
+  name: Wybrzeże Koszalińskie
+  code: "313.47"
+  country: Polska
+- slug: dolina_srodkowego_bobru
+  name: Dolina Środkowego Bobru
+  code: "318.47"
+  country: Polska

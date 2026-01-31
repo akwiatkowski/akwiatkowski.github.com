@@ -1,559 +1,2751 @@
 ---
-- slug: boguszow_gorce
-  name: Boguszów Gorce
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.75659
-  lon: 16.20678
-- slug: brzeg_dolny
-  name: Brzeg Dolny
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.27176
-  lon: 16.70881
-- slug: bystrzyca_klodzka
-  name: Bystrzyca Kłodzka
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.29720
-  lon: 16.65457
-- slug: cieplowody
-  name: Ciepłowody
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.67391
-  lon: 16.90656
-- slug: czarny_bor
-  name: Czarny Bór
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.77193
-  lon: 16.13306
-- slug: duszniki_zdroj
-  name: Duszniki Zdrój
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.40323
-  lon: 16.39106
-- slug: dzierzoniow
-  name: Dzierżoniow
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.72805
-  lon: 16.64907
-- slug: gluszyca
-  name: Głuszyca
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.68653
-  lon: 16.37081
-- slug: gryfow_slaski
-  name: Gryfów Śląski
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.03002
-  lon: 15.41671
-- slug: janowice_wielkie
-  name: Janowice Wielkie
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.87690
-  lon: 15.91882
-- slug: jelenia_gora
-  name: Jelenia Góra
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.90278
-  lon: 15.73532
-- slug: jezow_sudecki
-  name: Jeżów Sudecki
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.93157
-  lon: 15.74442
-- slug: kamienna_gora
-  name: Kamienna Góra
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.78246
-  lon: 16.03315
-- slug: karpacz
-  name: Karpacz
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.77910
-  lon: 15.76210
-- slug: klodzko
-  name: Kłodzko
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.43998
-  lon: 16.65422
-- slug: kondratowice
-  name: Kondratowice
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.77117
-  lon: 16.93300
-- slug: kostomloty
-  name: Kostomłoty
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.04553
-  lon: 16.61197
-- slug: kowary
-  name: Kowary
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.79234
-  lon: 15.83351
-- slug: kudowa_zdroj
-  name: Kudowa Zdrój
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.44042
-  lon: 16.24326
-- slug: lagiewniki
-  name: Łagiewniki
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.79027
-  lon: 16.84262
-- slug: lesna
-  name: Leśna
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.02398
-  lon: 15.26385
-- slug: luban
-  name: Lubań
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.12008
-  lon: 15.29123
-- slug: lubomierz
-  name: Lubomierz
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.01264
-  lon: 15.50958
-- slug: marcinowice
-  name: Marcinowice
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.87896
-  lon: 16.58109
-- slug: marciszow
-  name: Marciszów
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.85003
-  lon: 16.01023
-- slug: miedzylesie
-  name: Międzylesie
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.14904
-  lon: 16.66409
-- slug: miekinia
-  name: Miękinia
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.18749
-  lon: 16.73705
-- slug: mieroszow
-  name: Mieroszów
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.66531
-  lon: 16.18602
-- slug: mietkow
-  name: Mietków
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.97493
-  lon: 16.64778
-- slug: milicz
-  name: Milicz
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.52975
-  lon: 17.27538
-- slug: mirsk
-  name: Mirsk
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.96974
-  lon: 15.38487
-- slug: myslakowice
-  name: Mysłakowice
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.83670
-  lon: 15.78656
-- slug: niemcza
-  name: Niemcza
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.71588
-  lon: 16.83747
-- slug: nowa_ruda
-  name: Nowa Ruda
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.58146
-  lon: 16.50256
-- slug: oborniki_slaskie
-  name: Oborniki Śląskie
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.30043
-  lon: 16.91437
-- slug: olszyna
-  name: Olszyna
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.06628
-  lon: 15.37904
-- slug: piechowice
-  name: Piechowice
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.85014
-  lon: 15.60340
-- slug: pielgrzymka
-  name: Pielgrzymka
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.11728
-  lon: 15.81403
-- slug: pieszyce
-  name: Pieszyce
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.71034
-  lon: 16.57895
-- slug: platerowka
-  name: Platerówka
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.05906
-  lon: 15.17304
-- slug: podgorzyn
-  name: Podgórzyn
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.83377
-  lon: 15.68047
-- slug: prusice
-  name: Prusice
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.372510
-  lon: 16.960029
-- slug: radkow
-  name: Radków
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.504214
-  lon: 16.401683
-- slug: siekierczyn
-  name: Siekierczyn
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.12439
-  lon: 15.18978
-- slug: sroda_slaska
-  name: Środa Śląska
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.16430
-  lon: 16.59174
-- slug: stara_kamienica
-  name: Stara Kamienica
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.91691
-  lon: 15.57241
-- slug: stoszowice
-  name: Stoszowice
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.59949
-  lon: 16.73353
-- slug: stronie_slaskie
-  name: Stronie Śląskie
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.29276
-  lon: 16.87378
-- slug: strzelin
-  name: Strzelin
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.78143
-  lon: 17.07110
-- slug: swieradow_zdroj
-  name: Świeradów Zdrój
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.90955
-  lon: 15.34127
-- slug: swierzawa
-  name: Świerzawa
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.01378
-  lon: 15.89410
-- slug: szklarska_poreba
-  name: Szklarska Poręba
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.82532
-  lon: 15.52520
-- slug: walbrzych
-  name: Wałbrzych
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.78322
-  lon: 16.28772
-- slug: walim
-  name: Walim
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.69778
-  lon: 16.44102
-- slug: wlen
-  name: Wleń
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.01631
-  lon: 15.67421
-- slug: wolow
-  name: Wołów
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.33594
-  lon: 16.64744
-- slug: wroclaw
-  name: Wrocław
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.11087
-  lon: 17.03230
-- slug: zabkowice_slaskie
-  name: Ząbkowice Śląskie
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.58914
-  lon: 16.81258
-- slug: zarow
-  name: Żarow
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.94071
-  lon: 16.49372
-- slug: ziebice
-  name: Ziębice
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.60028
-  lon: 17.04111
-- slug: zmigrod
-  name: Żmigród
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.47055
-  lon: 16.90716
-- slug: szczytna
-  name: Szczytna
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.41264
-  lon: 16.44728
-- slug: lwowek_slaski
-  name: Lwówek Śląski
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.11060
-  lon: 15.58640
-- slug: nowogrodziec
-  name: Nowogrodziec
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.19642
-  lon: 15.39877
-- slug: wegliniec
-  name: Węgliniec
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.28792
-  lon: 15.22583
-- slug: piensk
-  name: Pieńsk
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.24802
-  lon: 15.04670
-- slug: zgorzelec
-  name: Zgorzelec
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.15444
-  lon: 15.01228
-- slug: sulikow
-  name: Sulików
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.07869
-  lon: 15.06918
-- slug: bogatynia
-  name: Bogatynia
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.90874
-  lon: 14.95915
+- slug: wojcieszow
+  name: Wojcieszów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.95695
+  lon: 15.92936
+  lands:
+    gory_kaczawskie: 76.2538
+    pogorze_kaczawskie: 23.7462
+  boundary:
+    southWest:
+      lat: 50.92053144800008
+      lng: 15.875198065000063
+    northEast:
+      lat: 50.98819330100008
+      lng: 15.98165361100007
 - slug: zlotoryja
   name: Złotoryja
   type: town
   voivodeship: dolnoslaskie
-  lat: 51.12493
-  lon: 15.91015
-- slug: niechlow
-  name: Niechlów
+  lat: 51.12035
+  lon: 15.91723
+  lands:
+    pogorze_kaczawskie: 75.1982
+    rownina_chojnowska: 24.8018
+  boundary:
+    southWest:
+      lat: 51.102694160000055
+      lng: 15.886975797000048
+    northEast:
+      lat: 51.142074008000066
+      lng: 15.947986016000073
+- slug: wasosz
+  name: Wąsosz
   type: town
   voivodeship: dolnoslaskie
-  lat: 51.68796
-  lon: 16.36471
-- slug: gora
-  name: Góra
+  lat: 51.56417
+  lon: 16.71635
+  lands:
+    kotlina_zmigrodzka: 40.0243
+    wysoczyzna_leszczynska: 36.3547
+    wzgorza_trzebnickie: 16.28
+  boundary:
+    southWest:
+      lat: 51.48540738300005
+      lng: 16.592726647000063
+    northEast:
+      lat: 51.64746334700004
+      lng: 16.828371869000023
+- slug: wadroze_wielkie
+  name: Wądroże Wielkie
   type: town
   voivodeship: dolnoslaskie
-  lat: 51.668309
-  lon: 16.536114
-- slug: cieszkow
-  name: Cieszków
+  lat: 51.10066
+  lon: 16.36749
+  lands:
+    rownina_wroclawska: 58.5995
+    wzgorza_strzegomskie: 28.5331
+    rownina_chojnowska: 12.8674
+  boundary:
+    southWest:
+      lat: 51.05792726800007
+      lng: 16.259088934000033
+    northEast:
+      lat: 51.14950745300007
+      lng: 16.479876854000054
+- slug: klodzko
+  name: Kłodzko
   type: town
   voivodeship: dolnoslaskie
-  lat: 51.63097
-  lon: 17.35990
-- slug: jedlina_zdroj
-  name: Jedlina Zdrój
+  lat: 50.44752
+  lon: 16.64451
+  lands:
+    kotlina_klodzka: 39.4178
+    gory_zlote: 17.3861
+    gory_bardzkie: 15.1403
+  boundary:
+    southWest:
+      lat: 50.33220148700008
+      lng: 16.523168519000023
+    northEast:
+      lat: 50.56208582100004
+      lng: 16.81509274000007
+- slug: ruja
+  name: Ruja
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.71923
-  lon: 16.34744
-- slug: kamieniec_zabkowicki
-  name: Kamieniec Ząbkowicki
+  lat: 51.16462
+  lon: 16.3878
+  lands:
+    rownina_wroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.12612853500008
+      lng: 16.308594596000034
+    northEast:
+      lat: 51.214953526000045
+      lng: 16.466213878000076
+- slug: lwowek_slaski
+  name: Lwówek Śląski
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.52592
-  lon: 16.87959
-- slug: bardo
-  name: Bardo
+  lat: 51.12542
+  lon: 15.59268
+  lands:
+    pogorze_izerskie: 53.8541
+    pogorze_kaczawskie: 46.1459
+  boundary:
+    southWest:
+      lat: 51.044713374000025
+      lng: 15.443392200000062
+    northEast:
+      lat: 51.199016054000026
+      lng: 15.756108105000067
+- slug: przemkow
+  name: Przemków
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.50690
-  lon: 16.74066
-- slug: winsko
-  name: Wińsko
+  lat: 51.50992
+  lon: 15.813
+  lands:
+    rownina_przemkowska: 96.7525
+    bory_dolnoslaskie: 3.2475
+  boundary:
+    southWest:
+      lat: 51.44649708900005
+      lng: 15.703776464000043
+    northEast:
+      lat: 51.577685925000026
+      lng: 15.932189734000076
+- slug: borow
+  name: Borów
   type: town
   voivodeship: dolnoslaskie
-  lat: 51.46992
-  lon: 16.61453
-- slug: scinawa
-  name: Ścinawa
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.41497
-  lon: 16.41969
-- slug: rudna
-  name: Rudna
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.50973
-  lon: 16.26331
-- slug: grebocice
-  name: Grębocice
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.59907
-  lon: 16.16838
-- slug: glogow
-  name: Głogów
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.66119
-  lon: 16.08495
+  lat: 50.85705
+  lon: 17.00667
+  lands:
+    rownina_wroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 50.79430773400003
+      lng: 16.901548052000066
+    northEast:
+      lat: 50.91712484300007
+      lng: 17.11166855500005
 - slug: jaworzyna_slaska
   name: Jaworzyna Śląska
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.91215
-  lon: 16.43034
-- slug: pilawa_gorna
-  name: Piława Górna
+  lat: 50.91118
+  lon: 16.44139
+  lands:
+    rownina_swidnicka: 87.0463
+    obnizenie_podsudeckie: 12.9537
+  boundary:
+    southWest:
+      lat: 50.85679760900007
+      lng: 16.37750204300005
+    northEast:
+      lat: 50.95717466200006
+      lng: 16.49788113900007
+- slug: boguszowgorce
+  name: Boguszów-Gorce
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.68289
-  lon: 16.73641
-- slug: szczawno_zdroj
-  name: Szczawno Zdrój
+  lat: 50.75325
+  lon: 16.20034
+  lands:
+    gory_walbrzyskie: 89.4235
+    gory_kamienne: 10.5765
+  boundary:
+    southWest:
+      lat: 50.721925448000036
+      lng: 16.154928209000047
+    northEast:
+      lat: 50.78479278800006
+      lng: 16.25530616700007
+- slug: wolow
+  name: Wołów
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.80340
-  lon: 16.25261
-- slug: stare_bogaczowice
-  name: Stare Bogaczowice
+  lat: 51.33271
+  lon: 16.59748
+  lands:
+    wysoczyzna_roscislawska: 46.8428
+    wzgorza_trzebnickie: 29.7577
+    obnizenie_scinawskie: 16.7143
+  boundary:
+    southWest:
+      lat: 51.22626035400003
+      lng: 16.415661730000068
+    northEast:
+      lat: 51.43710080100004
+      lng: 16.79844877200003
+- slug: dlugoleka
+  name: Długołęka
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.84710
-  lon: 16.19828
-- slug: lubawka
-  name: Lubawka
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.70772
-  lon: 15.99581
-- slug: sieroszowice
-  name: Sieroszowice
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.53092
-  lon: 15.94823
-- slug: swidnica
-  name: Świdnica
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 50.84226
-  lon: 16.48953
-- slug: kotla
-  name: Kotla
-  type: town
-  voivodeship: dolnoslaskie
-  lat: 51.74308
-  lon: 16.04203
+  lat: 51.18585
+  lon: 17.19765
+  lands:
+    rownina_olesnicka: 84.3101
+    wzgorza_trzebnickie: 8.4641
+    pradolina_wroclawska: 7.2257
+  boundary:
+    southWest:
+      lat: 51.10014712800006
+      lng: 17.07283627100003
+    northEast:
+      lat: 51.27575969600008
+      lng: 17.344912365000027
 - slug: bielawa
   name: Bielawa
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.68340
-  lon: 16.61109
-- slug: trzebnica
-  name: Trzebnica
+  lat: 50.67155
+  lon: 16.59795
+  lands:
+    obnizenie_podsudeckie: 45.9692
+    gory_sowie: 32.3851
+    wzgorza_niemczanskostrzelinskie: 21.6457
+  boundary:
+    southWest:
+      lat: 50.63639354800006
+      lng: 16.536642260000065
+    northEast:
+      lat: 50.71447090800007
+      lng: 16.669009904000063
+- slug: szczytna
+  name: Szczytna
   type: town
   voivodeship: dolnoslaskie
-  lat: 51.30973105623622
-  lon: 17.063974652907703
-- slug: przeworno
-  name: Przeworno
+  lat: 50.40025
+  lon: 16.44575
+  lands:
+    gory_stolowe: 49.7907
+    gory_bystrzyckie: 38.0278
+    kotlina_klodzka: 8.8416
+  boundary:
+    southWest:
+      lat: 50.32100271000007
+      lng: 16.333538452000028
+    northEast:
+      lat: 50.478746974000046
+      lng: 16.533348396000065
+- slug: lewin_klodzki
+  name: Lewin Kłodzki
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.686808629093186
-  lon: 17.16055943872868
+  lat: 50.41728
+  lon: 16.29191
+  lands:
+    gory_stolowe: 39.5767
+    pogorze_orlickie: 33.2332
+    gory_orlickie: 25.6049
+  boundary:
+    southWest:
+      lat: 50.36749286100007
+      lng: 16.23713188800002
+    northEast:
+      lat: 50.46208492800008
+      lng: 16.36913188500006
+- slug: lagiewniki
+  name: Łagiewniki
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.79489
+  lon: 16.77723
+  lands:
+    rownina_wroclawska: 36.6975
+    wzgorza_niemczanskostrzelinskie: 31.0651
+    masyw_slezy: 16.2319
+  boundary:
+    southWest:
+      lat: 50.74207057700005
+      lng: 16.66192865000005
+    northEast:
+      lat: 50.84456745400007
+      lng: 16.895209542000032
+- slug: kotla
+  name: Kotla
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.74292
+  lon: 16.06863
+  lands:
+    pradolina_glogowska: 78.1193
+    pojezierze_slawskie: 21.6273
+    wysoczyzna_leszczynska: 0.2533
+  boundary:
+    southWest:
+      lat: 51.67725412800007
+      lng: 15.912427080000043
+    northEast:
+      lat: 51.804753650000066
+      lng: 16.17792431400005
+- slug: bolkow
+  name: Bolków
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.92206
+  lon: 16.0652
+  lands:
+    pogorze_walbrzyskie: 47.8312
+    gory_kaczawskie: 36.9013
+    pogorze_kaczawskie: 8.6718
+  boundary:
+    southWest:
+      lat: 50.85449065100005
+      lng: 15.93096160400006
+    northEast:
+      lat: 50.99162957600004
+      lng: 16.203877076000026
+- slug: klodzko
+  name: Kłodzko
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.424
+  lon: 16.63954
+  lands:
+    kotlina_klodzka: 99.7114
+    gory_bardzkie: 0.2886
+  boundary:
+    southWest:
+      lat: 50.400977081000065
+      lng: 16.61270391900007
+    northEast:
+      lat: 50.46371107900006
+      lng: 16.692492618000074
+- slug: malczyce
+  name: Malczyce
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.1689
+  lon: 16.48033
+  lands:
+    rownina_wroclawska: 83.6582
+    pradolina_wroclawska: 16.3418
+  boundary:
+    southWest:
+      lat: 51.11104534700007
+      lng: 16.441791076000072
+    northEast:
+      lat: 51.23115461800006
+      lng: 16.559819271000038
+- slug: udanin
+  name: Udanin
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.05463
+  lon: 16.44492
+  lands:
+    wzgorza_strzegomskie: 76.855
+    rownina_wroclawska: 23.145
+  boundary:
+    southWest:
+      lat: 50.998142889000064
+      lng: 16.332221021000066
+    northEast:
+      lat: 51.11516639200005
+      lng: 16.55532867100004
+- slug: milicz
+  name: Milicz
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.50701
+  lon: 17.25579
+  lands:
+    kotlina_milicka: 35.5255
+    kotlina_zmigrodzka: 28.8007
+    wysoczyzna_kaliska: 23.8585
+  boundary:
+    southWest:
+      lat: 51.39180743900005
+      lng: 16.989484549000053
+    northEast:
+      lat: 51.62161008000004
+      lng: 17.574980367000023
+- slug: wiazow
+  name: Wiązów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.79819
+  lon: 17.25062
+  lands:
+    rownina_wroclawska: 97.4714
+    wzgorza_niemczanskostrzelinskie: 2.5286
+  boundary:
+    southWest:
+      lat: 50.713703019000036
+      lng: 17.123421957000062
+    northEast:
+      lat: 50.87702314900008
+      lng: 17.350237046000075
+- slug: prusice
+  name: Prusice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.39228
+  lon: 16.91081
+  lands:
+    kotlina_zmigrodzka: 50.3244
+    wzgorza_trzebnickie: 49.6756
+  boundary:
+    southWest:
+      lat: 51.32700580900007
+      lng: 16.777719155000057
+    northEast:
+      lat: 51.45625228700004
+      lng: 17.061249694000026
+- slug: zawonia
+  name: Zawonia
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.32294
+  lon: 17.20013
+  lands:
+    wzgorza_trzebnickie: 64.7039
+    kotlina_zmigrodzka: 33.259
+    wzgorza_twardogorskie: 2.0371
+  boundary:
+    southWest:
+      lat: 51.26698808000003
+      lng: 17.09863656300007
+    northEast:
+      lat: 51.39827010100004
+      lng: 17.340068974000076
+- slug: wisznia_mala
+  name: Wisznia Mała
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.22647
+  lon: 17.01627
+  lands:
+    rownina_olesnicka: 46.0188
+    pradolina_wroclawska: 34.5438
+    wzgorza_trzebnickie: 19.4373
+  boundary:
+    southWest:
+      lat: 51.16491515700005
+      lng: 16.93751252100003
+    northEast:
+      lat: 51.28795401500008
+      lng: 17.123016195000048
+- slug: walbrzych
+  name: Wałbrzych
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.7857
+  lon: 16.28565
+  lands:
+    gory_walbrzyskie: 59.8389
+    pogorze_walbrzyskie: 40.1611
+  boundary:
+    southWest:
+      lat: 50.717776395000044
+      lng: 16.227952316000028
+    northEast:
+      lat: 50.85400618300008
+      lng: 16.354607014000067
+- slug: jordanow_slaski
+  name: Jordanów Śląski
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.86408
+  lon: 16.85546
+  lands:
+    rownina_wroclawska: 76.0123
+    masyw_slezy: 23.9877
+  boundary:
+    southWest:
+      lat: 50.81221375800004
+      lng: 16.775057610000033
+    northEast:
+      lat: 50.90799285600008
+      lng: 16.92124544400002
+- slug: bardo
+  name: Bardo
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.51319
+  lon: 16.74743
+  lands:
+    gory_bardzkie: 53.5529
+    wzgorza_niemczanskostrzelinskie: 23.1278
+    obnizenie_otmuchowskie: 19.9114
+  boundary:
+    southWest:
+      lat: 50.45557214300004
+      lng: 16.676804274000062
+    northEast:
+      lat: 50.57170333100004
+      lng: 16.81566988800006
+- slug: boleslawiec
+  name: Bolesławiec
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.25973
+  lon: 15.55643
+  lands:
+    pogorze_kaczawskie: 64.0299
+    bory_dolnoslaskie: 23.7667
+    pogorze_izerskie: 12.2035
+  boundary:
+    southWest:
+      lat: 51.22637632400006
+      lng: 15.512848013000053
+    northEast:
+      lat: 51.292324019000034
+      lng: 15.599524906000056
+- slug: osiecznica
+  name: Osiecznica
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.39549
+  lon: 15.3965
+  lands:
+    bory_dolnoslaskie: 87.6623
+    pogorze_izerskie: 12.3377
+  boundary:
+    southWest:
+      lat: 51.25965974800005
+      lng: 15.248632819000022
+    northEast:
+      lat: 51.52766553200007
+      lng: 15.593236180000076
+- slug: zukowice
+  name: Żukowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.66758
+  lon: 15.97327
+  lands:
+    wzgorza_dalkowskie: 91.2008
+    pradolina_glogowska: 8.7306
+    rownina_przemkowska: 0.0685
+  boundary:
+    southWest:
+      lat: 51.60965630900006
+      lng: 15.834258895000062
+    northEast:
+      lat: 51.72879055900006
+      lng: 16.03728511500003
+- slug: kamienna_gora
+  name: Kamienna Góra
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.75216
+  lon: 16.03972
+  lands:
+    rudawy_janowickie: 29.2304
+    gory_kamienne: 25.7258
+    brama_lubawska: 18.1012
+  boundary:
+    southWest:
+      lat: 50.669848761000026
+      lng: 15.863979640000025
+    northEast:
+      lat: 50.83896075300004
+      lng: 16.17951428300006
+- slug: zgorzelec
+  name: Zgorzelec
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.11552
+  lon: 15.0238
+  lands:
+    pogorze_izerskie: 99.3317
+  boundary:
+    southWest:
+      lat: 51.00921385500004
+      lng: 14.948444581000047
+    northEast:
+      lat: 51.216244431000064
+      lng: 15.212500645000034
+- slug: zgorzelec
+  name: Zgorzelec
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.15549
+  lon: 15.01551
+  lands:
+    pogorze_izerskie: 94.3434
+  boundary:
+    southWest:
+      lat: 51.12080381000004
+      lng: 14.99084399000003
+    northEast:
+      lat: 51.18384301200007
+      lng: 15.043719284000076
+- slug: zloty_stok
+  name: Złoty Stok
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.44031
+  lon: 16.8242
+  lands:
+    gory_zlote: 51.1175
+    obnizenie_otmuchowskie: 34.3931
+    gory_bardzkie: 13.426
+  boundary:
+    southWest:
+      lat: 50.39862023500007
+      lng: 16.75562901400002
+    northEast:
+      lat: 50.487465728000075
+      lng: 16.947798500000033
+- slug: swieradowzdroj
+  name: Świeradów-Zdrój
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.91495
+  lon: 15.3084
+  lands:
+    gory_izerskie: 67.4589
+    pogorze_izerskie: 31.7025
+  boundary:
+    southWest:
+      lat: 50.89061188000005
+      lng: 15.267797254000072
+    northEast:
+      lat: 50.94329191200006
+      lng: 15.373456532000034
+- slug: nowa_ruda
+  name: Nowa Ruda
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.59763
+  lon: 16.56712
+  lands:
+    obnizenie_noworudzkie: 62.1651
+    gory_sowie: 22.9815
+    gory_bardzkie: 6.4526
+  boundary:
+    southWest:
+      lat: 50.50032354500007
+      lng: 16.377822842000057
+    northEast:
+      lat: 50.68106809300008
+      lng: 16.63544981600006
+- slug: podgorzyn
+  name: Podgórzyn
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.81257
+  lon: 15.71105
+  lands:
+    karkonosze: 56.4833
+    kotlina_jeleniogorska: 43.2945
+  boundary:
+    southWest:
+      lat: 50.75473387400007
+      lng: 15.620021071000053
+    northEast:
+      lat: 50.87293323800003
+      lng: 15.797607084000049
+- slug: dobromierz
+  name: Dobromierz
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.94657
+  lon: 16.2196
+  lands:
+    obnizenie_podsudeckie: 59.083
+    pogorze_walbrzyskie: 29.5545
+    wzgorza_strzegomskie: 9.0777
+  boundary:
+    southWest:
+      lat: 50.87256473900004
+      lng: 16.159402853000074
+    northEast:
+      lat: 51.01828056100004
+      lng: 16.306917877000046
+- slug: pielgrzymka
+  name: Pielgrzymka
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.10523
+  lon: 15.77984
+  lands:
+    pogorze_kaczawskie: 96.8228
+    rownina_chojnowska: 3.1772
+  boundary:
+    southWest:
+      lat: 51.03741329600007
+      lng: 15.697784023000054
+    northEast:
+      lat: 51.17357176100006
+      lng: 15.882484430000034
+- slug: swierzawa
+  name: Świerzawa
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.01515
+  lon: 15.85577
+  lands:
+    pogorze_kaczawskie: 84.7053
+    gory_kaczawskie: 15.2947
+  boundary:
+    southWest:
+      lat: 50.93303430600008
+      lng: 15.721069942000042
+    northEast:
+      lat: 51.09587132100006
+      lng: 16.00141506500006
+- slug: zlotoryja
+  name: Złotoryja
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.14493
+  lon: 15.95656
+  lands:
+    rownina_chojnowska: 62.0882
+    pogorze_kaczawskie: 37.9118
+  boundary:
+    southWest:
+      lat: 51.06549715300008
+      lng: 15.836245261000045
+    northEast:
+      lat: 51.22721026500005
+      lng: 16.06149530600004
+- slug: niechlow
+  name: Niechlów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.69311
+  lon: 16.38666
+  lands:
+    wysoczyzna_leszczynska: 60.2822
+    pradolina_glogowska: 39.7178
+  boundary:
+    southWest:
+      lat: 51.60915291100008
+      lng: 16.267803609000055
+    northEast:
+      lat: 51.78231235700008
+      lng: 16.478251700000044
+- slug: chojnow
+  name: Chojnów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.2919
+  lon: 15.92437
+  lands:
+    rownina_chojnowska: 56.7953
+    rownina_legnicka: 38.2288
+    pogorze_kaczawskie: 4.976
+  boundary:
+    southWest:
+      lat: 51.20417707200005
+      lng: 15.746859268000037
+    northEast:
+      lat: 51.383566124000026
+      lng: 16.07345682400006
+- slug: luban
+  name: Lubań
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.11279
+  lon: 15.28297
+  lands:
+    pogorze_izerskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.092457385000046
+      lng: 15.245470989000069
+    northEast:
+      lat: 51.13710132600005
+      lng: 15.316253838000023
+- slug: lubomierz
+  name: Lubomierz
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.01064
+  lon: 15.52935
+  lands:
+    pogorze_izerskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.93759849700007
+      lng: 15.448364919000028
+    northEast:
+      lat: 51.073484687000075
+      lng: 15.643336275000024
+- slug: cieszkow
+  name: Cieszków
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.60674
+  lon: 17.32683
+  lands:
+    wysoczyzna_kaliska: 94.5188
+    kotlina_milicka: 5.4812
+  boundary:
+    southWest:
+      lat: 51.56888617200008
+      lng: 17.208268560000022
+    northEast:
+      lat: 51.64791504600004
+      lng: 17.47838396700007
+- slug: krosnice
+  name: Krośnice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.44242
+  lon: 17.36197
+  lands:
+    wzgorza_twardogorskie: 56.1197
+    kotlina_milicka: 42.8471
+    kotlina_zmigrodzka: 1.0332
+  boundary:
+    southWest:
+      lat: 51.36778816700007
+      lng: 17.249507995000045
+    northEast:
+      lat: 51.52147797500004
+      lng: 17.545881051000038
+- slug: swidnica
+  name: Świdnica
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.83997
+  lon: 16.49164
+  lands:
+    rownina_swidnicka: 87.5055
+    obnizenie_podsudeckie: 12.4945
+  boundary:
+    southWest:
+      lat: 50.819143816000064
+      lng: 16.455503080000028
+    northEast:
+      lat: 50.86905094200006
+      lng: 16.529675584000074
 - slug: marcinowice
   name: Marcinowice
   type: town
   voivodeship: dolnoslaskie
-  lat: 50.87827
-  lon: 16.57968
+  lat: 50.8827
+  lon: 16.613
+  lands:
+    masyw_slezy: 50.0543
+    rownina_swidnicka: 47.5824
+    rownina_wroclawska: 2.3634
+  boundary:
+    southWest:
+      lat: 50.81844817800004
+      lng: 16.529088126000033
+    northEast:
+      lat: 50.939376510000045
+      lng: 16.700839694000024
+- slug: oborniki_slaskie
+  name: Oborniki Śląskie
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.27782
+  lon: 16.88995
+  lands:
+    wzgorza_trzebnickie: 65.9419
+    pradolina_wroclawska: 29.6588
+    rownina_olesnicka: 4.3993
+  boundary:
+    southWest:
+      lat: 51.19689034800007
+      lng: 16.78513824600003
+    northEast:
+      lat: 51.35769972500003
+      lng: 17.002819291000037
+- slug: jedlinazdroj
+  name: Jedlina-Zdrój
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.73254
+  lon: 16.33019
+  lands:
+    gory_walbrzyskie: 86.1995
+    gory_sowie: 13.8005
+  boundary:
+    southWest:
+      lat: 50.70279725100005
+      lng: 16.293346404000033
+    northEast:
+      lat: 50.74569043300005
+      lng: 16.386261125000033
+- slug: kobierzyce
+  name: Kobierzyce
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.96272
+  lon: 16.90984
+  lands:
+    rownina_wroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 50.86459005200004
+      lng: 16.83879580100006
+    northEast:
+      lat: 51.055404674000044
+      lng: 17.033414699000048
+- slug: boleslawiec
+  name: Bolesławiec
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.32432
+  lon: 15.57922
+  lands:
+    bory_dolnoslaskie: 43.5781
+    pogorze_kaczawskie: 30.6332
+    pogorze_izerskie: 15.5779
+  boundary:
+    southWest:
+      lat: 51.175601415000074
+      lng: 15.438536397000064
+    northEast:
+      lat: 51.466224587000056
+      lng: 15.665945330000056
+- slug: warta_boleslawiecka
+  name: Warta Bolesławiecka
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.23653
+  lon: 15.68979
+  lands:
+    pogorze_kaczawskie: 74.2844
+    rownina_chojnowska: 25.7156
+  boundary:
+    southWest:
+      lat: 51.159265015000074
+      lng: 15.623833615000024
+    northEast:
+      lat: 51.30434812000004
+      lng: 15.777385239000068
+- slug: nowogrodziec
+  name: Nowogrodziec
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.19618
+  lon: 15.27267
+  lands:
+    pogorze_izerskie: 97.1014
+    bory_dolnoslaskie: 2.8986
+  boundary:
+    southWest:
+      lat: 51.11485578400004
+      lng: 15.205959129000064
+    northEast:
+      lat: 51.28226142700004
+      lng: 15.496630238000023
+- slug: miedzylesie
+  name: Międzylesie
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.17231
+  lon: 16.68089
+  lands:
+    row_gornej_nysy: 54.1291
+    gory_bystrzyckie: 25.3105
+    masyw_snieznika: 19.9188
+  boundary:
+    southWest:
+      lat: 50.09657882500005
+      lng: 16.554624115000024
+    northEast:
+      lat: 50.24492022900006
+      lng: 16.83519167000003
+- slug: ladekzdroj
+  name: Lądek-Zdrój
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.34843
+  lon: 16.83784
+  lands:
+    gory_zlote: 56.9512
+    masyw_snieznika: 42.2289
+  boundary:
+    southWest:
+      lat: 50.28956215200003
+      lng: 16.744540759000074
+    northEast:
+      lat: 50.40774631600004
+      lng: 16.939322161000064
+- slug: bystrzyca_klodzka
+  name: Bystrzyca Kłodzka
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.2865
+  lon: 16.64157
+  lands:
+    row_gornej_nysy: 45.2118
+    gory_bystrzyckie: 36.5193
+    masyw_snieznika: 18.1973
+  boundary:
+    southWest:
+      lat: 50.19614180900004
+      lng: 16.436525517000064
+    northEast:
+      lat: 50.37940151600003
+      lng: 16.83756888000005
+- slug: dusznikizdroj
+  name: Duszniki-Zdrój
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.35913
+  lon: 16.37959
+  lands:
+    gory_orlickie: 84.6067
+    gory_bystrzyckie: 11.5916
+    gory_stolowe: 1.8109
+  boundary:
+    southWest:
+      lat: 50.31918483000004
+      lng: 16.35253799000003
+    northEast:
+      lat: 50.40846566700003
+      lng: 16.41263059100004
+- slug: szklarska_poreba
+  name: Szklarska Poręba
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.81499
+  lon: 15.45595
+  lands:
+    gory_izerskie: 62.7515
+    karkonosze: 36.0048
+  boundary:
+    southWest:
+      lat: 50.775864246000026
+      lng: 15.366497128000049
+    northEast:
+      lat: 50.85300780800003
+      lng: 15.566669041000068
+- slug: karpacz
+  name: Karpacz
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.76842
+  lon: 15.74391
+  lands:
+    karkonosze: 92.826
+    kotlina_jeleniogorska: 5.7742
+  boundary:
+    southWest:
+      lat: 50.736172546000034
+      lng: 15.680274226000051
+    northEast:
+      lat: 50.78891055400004
+      lng: 15.808323250000058
+- slug: wroclaw
+  name: Wrocław
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.12306
+  lon: 16.98623
+  lands:
+    pradolina_wroclawska: 50.3414
+    rownina_wroclawska: 47.326
+    rownina_olesnicka: 2.3326
+  boundary:
+    southWest:
+      lat: 51.04273587400007
+      lng: 16.80733932000004
+    northEast:
+      lat: 51.209457986000075
+      lng: 17.175162796000052
+- slug: pilawa_gorna
+  name: Piława Górna
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.67641
+  lon: 16.75345
+  lands:
+    wzgorza_niemczanskostrzelinskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.65831870400007
+      lng: 16.71610570400003
+    northEast:
+      lat: 50.70743421600008
+      lng: 16.794283808000046
+- slug: jezow_sudecki
+  name: Jeżów Sudecki
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.95972
+  lon: 15.74778
+  lands:
+    gory_kaczawskie: 64.606
+    pogorze_izerskie: 23.685
+    kotlina_jeleniogorska: 11.709
+  boundary:
+    southWest:
+      lat: 50.90946918000003
+      lng: 15.634645448000072
+    northEast:
+      lat: 51.01143586200004
+      lng: 15.836112069000023
+- slug: kamienna_gora
+  name: Kamienna Góra
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.7829
+  lon: 16.0258
+  lands:
+    brama_lubawska: 82.5699
+    gory_kamienne: 17.4301
+  boundary:
+    southWest:
+      lat: 50.76130355300006
+      lng: 15.984855147000076
+    northEast:
+      lat: 50.805940701000054
+      lng: 16.077292568000075
+- slug: olszyna
+  name: Olszyna
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.06084
+  lon: 15.36098
+  lands:
+    pogorze_izerskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.01872864300003
+      lng: 15.300683892000052
+    northEast:
+      lat: 51.10121255000007
+      lng: 15.415479293000033
+- slug: kostomloty
+  name: Kostomłoty
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.05794
+  lon: 16.63425
+  lands:
+    rownina_wroclawska: 89.3814
+    wzgorza_strzegomskie: 10.6186
+  boundary:
+    southWest:
+      lat: 50.99265244700007
+      lng: 16.504867450000063
+    northEast:
+      lat: 51.122353013000065
+      lng: 16.784216521000076
+- slug: miekinia
+  name: Miękinia
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.17486
+  lon: 16.75129
+  lands:
+    rownina_wroclawska: 52.0222
+    pradolina_wroclawska: 47.9778
+  boundary:
+    southWest:
+      lat: 51.092712121000034
+      lng: 16.67519064100003
+    northEast:
+      lat: 51.261342279000075
+      lng: 16.905080488000067
+- slug: sroda_slaska
+  name: Środa Śląska
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.16832
+  lon: 16.59746
+  lands:
+    rownina_wroclawska: 69.2791
+    pradolina_wroclawska: 30.7209
+  boundary:
+    southWest:
+      lat: 51.08369890600005
+      lng: 16.460671363000074
+    northEast:
+      lat: 51.25141653800006
+      lng: 16.71379849300007
+- slug: bierutow
+  name: Bierutów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.14064
+  lon: 17.511
+  lands:
+    rownina_olesnicka: 100.0
+  boundary:
+    southWest:
+      lat: 51.05152669200004
+      lng: 17.392732009000042
+    northEast:
+      lat: 51.231561018000036
+      lng: 17.611501899000075
+- slug: dziadowa_kloda
+  name: Dziadowa Kłoda
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.20909
+  lon: 17.67784
+  lands:
+    rownina_olesnicka: 100.0
+  boundary:
+    southWest:
+      lat: 51.16084985400005
+      lng: 17.588573670000073
+    northEast:
+      lat: 51.27132191700008
+      lng: 17.79526917000004
+- slug: miedzyborz
+  name: Międzybórz
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.37866
+  lon: 17.63365
+  lands:
+    wzgorza_twardogorskie: 90.6318
+    kotlina_milicka: 8.5678
+    rownina_olesnicka: 0.8004
+  boundary:
+    southWest:
+      lat: 51.34043442600006
+      lng: 17.544698846000074
+    northEast:
+      lat: 51.42299340100004
+      lng: 17.752441128000044
+- slug: jelczlaskowice
+  name: Jelcz-Laskowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.03485
+  lon: 17.40708
+  lands:
+    rownina_olesnicka: 86.544
+    pradolina_wroclawska: 13.456
+  boundary:
+    southWest:
+      lat: 50.97149016900005
+      lng: 17.27353031100006
+    northEast:
+      lat: 51.10370261400004
+      lng: 17.543659670000068
+- slug: polkowice
+  name: Polkowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.49642
+  lon: 16.07544
+  lands:
+    wzgorza_dalkowskie: 50.3391
+    rownina_przemkowska: 49.6609
+  boundary:
+    southWest:
+      lat: 51.433652479000045
+      lng: 15.957004882000035
+    northEast:
+      lat: 51.560575336000056
+      lng: 16.21101284100007
+- slug: radwanice
+  name: Radwanice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.56948
+  lon: 15.93543
+  lands:
+    rownina_przemkowska: 89.8978
+    wzgorza_dalkowskie: 10.1022
+  boundary:
+    southWest:
+      lat: 51.504207035000036
+      lng: 15.85061494000007
+    northEast:
+      lat: 51.618492795000066
+      lng: 16.017884654000056
+- slug: kondratowice
+  name: Kondratowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.76448
+  lon: 16.92939
+  lands:
+    rownina_wroclawska: 60.7008
+    wzgorza_niemczanskostrzelinskie: 39.2992
+  boundary:
+    southWest:
+      lat: 50.70094166700005
+      lng: 16.86343141900005
+    northEast:
+      lat: 50.83442282500005
+      lng: 17.011945465000053
+- slug: mietkow
+  name: Mietków
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.96572
+  lon: 16.65076
+  lands:
+    rownina_wroclawska: 61.4521
+    rownina_swidnicka: 32.1077
+    wzgorza_strzegomskie: 6.4402
+  boundary:
+    southWest:
+      lat: 50.91629691900005
+      lng: 16.57575403100003
+    northEast:
+      lat: 51.02142080500005
+      lng: 16.748310795000066
+- slug: sobotka
+  name: Sobótka
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.90628
+  lon: 16.76124
+  lands:
+    rownina_wroclawska: 57.6983
+    masyw_slezy: 42.3017
+  boundary:
+    southWest:
+      lat: 50.83756663100007
+      lng: 16.671624112000075
+    northEast:
+      lat: 50.97484588000003
+      lng: 16.845783994000044
+- slug: glogow
+  name: Głogów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.67068
+  lon: 16.0693
+  lands:
+    wzgorza_dalkowskie: 67.7411
+    pradolina_glogowska: 32.2589
+  boundary:
+    southWest:
+      lat: 51.632120083000075
+      lng: 15.935135161000062
+    northEast:
+      lat: 51.708134236000035
+      lng: 16.152271406000068
+- slug: mieroszow
+  name: Mieroszów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.67954
+  lon: 16.20382
+  lands:
+    gory_kamienne: 48.6162
+    gory_walbrzyskie: 10.2442
+  boundary:
+    southWest:
+      lat: 50.62730695300007
+      lng: 16.10730256100004
+    northEast:
+      lat: 50.72778295200004
+      lng: 16.310206583000024
+- slug: radkow
+  name: Radków
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.51224
+  lon: 16.45908
+  lands:
+    obnizenie_scinawki: 63.5377
+    gory_stolowe: 25.9691
+    obnizenie_noworudzkie: 6.8336
+  boundary:
+    southWest:
+      lat: 50.44664579300007
+      lng: 16.294097984000075
+    northEast:
+      lat: 50.57956573900003
+      lng: 16.560618490000024
+- slug: piechowice
+  name: Piechowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.82135
+  lon: 15.57135
+  lands:
+    karkonosze: 61.5057
+    gory_izerskie: 23.1761
+    kotlina_jeleniogorska: 14.6713
+  boundary:
+    southWest:
+      lat: 50.776114594000035
+      lng: 15.535260637000022
+    northEast:
+      lat: 50.87936021200005
+      lng: 15.630168221000076
+- slug: paszowice
+  name: Paszowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.00124
+  lon: 16.11988
+  lands:
+    pogorze_kaczawskie: 44.4489
+    rownina_chojnowska: 33.4331
+    pogorze_walbrzyskie: 16.5094
+  boundary:
+    southWest:
+      lat: 50.94824823000005
+      lng: 16.022052373000065
+    northEast:
+      lat: 51.05229903000003
+      lng: 16.233278435000045
+- slug: legnica
+  name: Legnica
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.21109
+  lon: 16.17807
+  lands:
+    rownina_legnicka: 83.856
+    rownina_chojnowska: 15.1199
+    wysoczyzna_lubinska: 1.0241
+  boundary:
+    southWest:
+      lat: 51.160733107000055
+      lng: 16.089982657000064
+    northEast:
+      lat: 51.247643835000076
+      lng: 16.232257916000037
+- slug: niemcza
+  name: Niemcza
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.71448
+  lon: 16.80726
+  lands:
+    wzgorza_niemczanskostrzelinskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.66017127200007
+      lng: 16.72585423700002
+    northEast:
+      lat: 50.77074428700007
+      lng: 16.889252287000033
+- slug: polanicazdroj
+  name: Polanica-Zdrój
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.4038
+  lon: 16.50441
+  lands:
+    kotlina_klodzka: 43.183
+    gory_stolowe: 32.9775
+    gory_bystrzyckie: 23.1734
+  boundary:
+    southWest:
+      lat: 50.37281002900005
+      lng: 16.475228537000078
+    northEast:
+      lat: 50.42587742200004
+      lng: 16.52955967200006
+- slug: legnickie_pole
+  name: Legnickie Pole
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.14629
+  lon: 16.23964
+  lands:
+    rownina_wroclawska: 41.9006
+    rownina_chojnowska: 37.4759
+    rownina_legnicka: 20.6235
+  boundary:
+    southWest:
+      lat: 51.09891284200006
+      lng: 16.152032828000074
+    northEast:
+      lat: 51.19628409400008
+      lng: 16.328332989000046
+- slug: rudna
+  name: Rudna
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.52319
+  lon: 16.35342
+  lands:
+    wzgorza_dalkowskie: 80.4842
+    obnizenie_scinawskie: 13.0609
+    pradolina_glogowska: 6.4549
+  boundary:
+    southWest:
+      lat: 51.43350531200008
+      lng: 16.17949144800002
+    northEast:
+      lat: 51.611928102000036
+      lng: 16.48121171500003
+- slug: olawa
+  name: Oława
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.92511
+  lon: 17.37377
+  lands:
+    rownina_wroclawska: 61.4646
+    pradolina_wroclawska: 28.4592
+    rownina_olesnicka: 10.0761
+  boundary:
+    southWest:
+      lat: 50.819467598000074
+      lng: 17.169975704000024
+    northEast:
+      lat: 51.030375881000055
+      lng: 17.464007396000056
+- slug: swiebodzice
+  name: Świebodzice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.87394
+  lon: 16.32749
+  lands:
+    obnizenie_podsudeckie: 63.7847
+    pogorze_walbrzyskie: 27.6617
+    rownina_swidnicka: 8.5537
+  boundary:
+    southWest:
+      lat: 50.84031214200007
+      lng: 16.27226746900004
+    northEast:
+      lat: 50.90580905400003
+      lng: 16.40481556900005
+- slug: zarow
+  name: Żarów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.9428
+  lon: 16.53116
+  lands:
+    wzgorza_strzegomskie: 63.0619
+    rownina_swidnicka: 34.5209
+    rownina_wroclawska: 2.4172
+  boundary:
+    southWest:
+      lat: 50.89212474000004
+      lng: 16.429101205000052
+    northEast:
+      lat: 51.00179803600008
+      lng: 16.61734556700003
+- slug: mecinka
+  name: Męcinka
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.06337
+  lon: 16.05343
+  lands:
+    pogorze_kaczawskie: 55.7072
+    rownina_chojnowska: 44.2928
+  boundary:
+    southWest:
+      lat: 50.99087938200006
+      lng: 15.932949686000029
+    northEast:
+      lat: 51.13642642500008
+      lng: 16.195174978000068
+- slug: dzierzoniow
+  name: Dzierżoniów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.73023
+  lon: 16.65555
+  lands:
+    rownina_swidnicka: 48.1705
+    obnizenie_podsudeckie: 47.251
+    wzgorza_niemczanskostrzelinskie: 4.5785
+  boundary:
+    southWest:
+      lat: 50.70334627700004
+      lng: 16.604454675000056
+    northEast:
+      lat: 50.75813223200004
+      lng: 16.69016619300004
+- slug: zawidow
+  name: Zawidów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.02542
+  lon: 15.04455
+  lands:
+    pogorze_izerskie: 86.3832
+  boundary:
+    southWest:
+      lat: 51.01286899300004
+      lng: 15.01987495800006
+    northEast:
+      lat: 51.03736691100005
+      lng: 15.06829768700004
+- slug: stronie_slaskie
+  name: Stronie Śląskie
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.25961
+  lon: 16.90774
+  lands:
+    gory_zlote: 56.5441
+    masyw_snieznika: 41.7929
+  boundary:
+    southWest:
+      lat: 50.196959390000075
+      lng: 16.802995035000038
+    northEast:
+      lat: 50.32267648000004
+      lng: 17.028316090000033
+- slug: wegliniec
+  name: Węgliniec
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.34569
+  lon: 15.13033
+  lands:
+    bory_dolnoslaskie: 80.928
+    pogorze_izerskie: 19.072
+  boundary:
+    southWest:
+      lat: 51.22022679100007
+      lng: 14.990541876000066
+    northEast:
+      lat: 51.463999536000074
+      lng: 15.339738375000024
+- slug: zagrodno
+  name: Zagrodno
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.20498
+  lon: 15.85892
+  lands:
+    rownina_chojnowska: 70.5423
+    pogorze_kaczawskie: 29.4577
+  boundary:
+    southWest:
+      lat: 51.14653689100004
+      lng: 15.743139089000067
+    northEast:
+      lat: 51.26225685400004
+      lng: 15.95836976000004
+- slug: janowice_wielkie
+  name: Janowice Wielkie
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.88358
+  lon: 15.9091
+  lands:
+    kotlina_jeleniogorska: 35.1377
+    gory_kaczawskie: 34.992
+    rudawy_janowickie: 29.8703
+  boundary:
+    southWest:
+      lat: 50.83670832000007
+      lng: 15.833762833000037
+    northEast:
+      lat: 50.95050307200006
+      lng: 15.961978204000047
+- slug: stara_kamienica
+  name: Stara Kamienica
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.89874
+  lon: 15.57232
+  lands:
+    gory_izerskie: 52.9163
+    pogorze_izerskie: 42.6653
+    kotlina_jeleniogorska: 4.4184
+  boundary:
+    southWest:
+      lat: 50.845352235000064
+      lng: 15.439173190000076
+    northEast:
+      lat: 50.94931886400008
+      lng: 15.665922322000029
+- slug: kunice
+  name: Kunice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.23607
+  lon: 16.27072
+  lands:
+    rownina_legnicka: 52.1267
+    rownina_wroclawska: 29.2776
+    wysoczyzna_lubinska: 18.5958
+  boundary:
+    southWest:
+      lat: 51.176285549000056
+      lng: 16.184252903000072
+    northEast:
+      lat: 51.296386004000055
+      lng: 16.364311830000076
+- slug: milkowice
+  name: Miłkowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.25444
+  lon: 16.10417
+  lands:
+    rownina_legnicka: 82.7118
+    rownina_chojnowska: 11.5466
+    wysoczyzna_lubinska: 5.7416
+  boundary:
+    southWest:
+      lat: 51.200910874000044
+      lng: 16.009196920000022
+    northEast:
+      lat: 51.298485612000036
+      lng: 16.195508061000055
+- slug: luban
+  name: Lubań
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.13252
+  lon: 15.36515
+  lands:
+    pogorze_izerskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.065380342000026
+      lng: 15.181064095000067
+    northEast:
+      lat: 51.19922865500007
+      lng: 15.430467486000055
+- slug: gryfow_slaski
+  name: Gryfów Śląski
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.04708
+  lon: 15.43873
+  lands:
+    pogorze_izerskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.96784113000007
+      lng: 15.375690678000069
+    northEast:
+      lat: 51.120167707000064
+      lng: 15.503980273000025
+- slug: olesnica
+  name: Oleśnica
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.20988
+  lon: 17.4047
+  lands:
+    rownina_olesnicka: 100.0
+  boundary:
+    southWest:
+      lat: 51.10340119400007
+      lng: 17.289100750000046
+    northEast:
+      lat: 51.31530484700005
+      lng: 17.607235225000068
+- slug: sycow
+  name: Syców
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.29582
+  lon: 17.6514
+  lands:
+    rownina_olesnicka: 61.936
+    wzgorza_twardogorskie: 22.0464
+    kotlina_milicka: 9.5638
+  boundary:
+    southWest:
+      lat: 51.242963504000045
+      lng: 17.53437739000003
+    northEast:
+      lat: 51.35766640600008
+      lng: 17.76648528800007
+- slug: chocianow
+  name: Chocianów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.42388
+  lon: 15.94956
+  lands:
+    rownina_przemkowska: 81.9522
+    rownina_legnicka: 15.458
+    wysoczyzna_lubinska: 1.3951
+  boundary:
+    southWest:
+      lat: 51.327507352000055
+      lng: 15.815994662000037
+    northEast:
+      lat: 51.51763466500006
+      lng: 16.108570056000076
+- slug: strzelin
+  name: Strzelin
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.77373
+  lon: 17.06147
+  lands:
+    rownina_wroclawska: 67.0493
+    wzgorza_niemczanskostrzelinskie: 32.9507
+  boundary:
+    southWest:
+      lat: 50.69326343100005
+      lng: 16.95180085800007
+    northEast:
+      lat: 50.85415947700005
+      lng: 17.198306848000072
+- slug: przeworno
+  name: Przeworno
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.68634
+  lon: 17.15621
+  lands:
+    wzgorza_niemczanskostrzelinskie: 94.7335
+    rownina_wroclawska: 5.2665
+  boundary:
+    southWest:
+      lat: 50.613463281000065
+      lng: 17.064792012000055
+    northEast:
+      lat: 50.749114785000074
+      lng: 17.256259900000032
+- slug: swidnica
+  name: Świdnica
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.80615
+  lon: 16.46394
+  lands:
+    obnizenie_podsudeckie: 38.0506
+    rownina_swidnicka: 28.6679
+    pogorze_walbrzyskie: 19.4239
+  boundary:
+    southWest:
+      lat: 50.714401234000036
+      lng: 16.333567694000067
+    northEast:
+      lat: 50.903199459000064
+      lng: 16.601316359000066
+- slug: trzebnica
+  name: Trzebnica
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.34912
+  lon: 17.10254
+  lands:
+    kotlina_zmigrodzka: 55.601
+    wzgorza_trzebnickie: 43.2291
+    rownina_olesnicka: 1.1698
+  boundary:
+    southWest:
+      lat: 51.23958030300008
+      lng: 16.989520166000034
+    northEast:
+      lat: 51.46041541300008
+      lng: 17.221096213000067
+- slug: czarny_bor
+  name: Czarny Bór
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.76513
+  lon: 16.13003
+  lands:
+    gory_walbrzyskie: 46.0518
+    gory_kamienne: 42.4215
+    brama_lubawska: 2.2902
+  boundary:
+    southWest:
+      lat: 50.70436319600003
+      lng: 16.06789118200004
+    northEast:
+      lat: 50.82587179500007
+      lng: 16.207134736000057
+- slug: szczawnozdroj
+  name: Szczawno-Zdrój
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.79448
+  lon: 16.231
+  lands:
+    gory_walbrzyskie: 85.1639
+    pogorze_walbrzyskie: 14.8361
+  boundary:
+    southWest:
+      lat: 50.767150137000044
+      lng: 16.189995666000073
+    northEast:
+      lat: 50.82347939300007
+      lng: 16.275004908000028
+- slug: brzeg_dolny
+  name: Brzeg Dolny
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.29789
+  lon: 16.74526
+  lands:
+    wysoczyzna_roscislawska: 64.5632
+    wzgorza_trzebnickie: 22.1591
+    pradolina_wroclawska: 13.2777
+  boundary:
+    southWest:
+      lat: 51.23979301800006
+      lng: 16.577868738000063
+    northEast:
+      lat: 51.35262131600007
+      lng: 16.81188869400006
+- slug: stoszowice
+  name: Stoszowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.60118
+  lon: 16.68482
+  lands:
+    wzgorza_niemczanskostrzelinskie: 71.3548
+    gory_sowie: 18.9643
+    gory_bardzkie: 9.6809
+  boundary:
+    southWest:
+      lat: 50.530596667000054
+      lng: 16.583137372000067
+    northEast:
+      lat: 50.66548691500003
+      lng: 16.770637946000022
+- slug: gromadka
+  name: Gromadka
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.40161
+  lon: 15.74414
+  lands:
+    bory_dolnoslaskie: 43.4975
+    rownina_legnicka: 30.8355
+    rownina_chojnowska: 25.0023
+  boundary:
+    southWest:
+      lat: 51.28383546900005
+      lng: 15.616778286000056
+    northEast:
+      lat: 51.51739729800005
+      lng: 15.852993401000049
+- slug: jawor
+  name: Jawor
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.06615
+  lon: 16.19294
+  lands:
+    rownina_chojnowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.03597384500006
+      lng: 16.14339032600003
+    northEast:
+      lat: 51.09579421600006
+      lng: 16.229067223000072
+- slug: pieszyce
+  name: Pieszyce
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.70855
+  lon: 16.55418
+  lands:
+    gory_sowie: 53.9942
+    obnizenie_podsudeckie: 46.0058
+  boundary:
+    southWest:
+      lat: 50.64860575700004
+      lng: 16.47965513500003
+    northEast:
+      lat: 50.757852326000034
+      lng: 16.627984986000058
+- slug: bogatynia
+  name: Bogatynia
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.94537
+  lon: 14.95348
+  lands:
+    kotlina_zytawska: 77.373
+    pogorze_izerskie: 21.1129
+  boundary:
+    southWest:
+      lat: 50.86207948400005
+      lng: 14.819560486000057
+    northEast:
+      lat: 51.03365751700005
+      lng: 15.017284175000043
+- slug: mirsk
+  name: Mirsk
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.92207
+  lon: 15.42625
+  lands:
+    gory_izerskie: 53.4547
+    pogorze_izerskie: 46.4975
+  boundary:
+    southWest:
+      lat: 50.83188564900007
+      lng: 15.276994914000056
+    northEast:
+      lat: 51.00507560400007
+      lng: 15.525205373000063
+- slug: lesna
+  name: Leśna
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.0013
+  lon: 15.25682
+  lands:
+    pogorze_izerskie: 98.8777
+  boundary:
+    southWest:
+      lat: 50.929474087000074
+      lng: 15.171846536000032
+    northEast:
+      lat: 51.06982971700006
+      lng: 15.391506957000047
+- slug: piensk
+  name: Pieńsk
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.28226
+  lon: 15.05201
+  lands:
+    pogorze_izerskie: 79.6378
+    bory_dolnoslaskie: 19.4513
+  boundary:
+    southWest:
+      lat: 51.18701332300003
+      lng: 14.974182957000039
+    northEast:
+      lat: 51.36395001900007
+      lng: 15.217040146000045
+- slug: dzierzoniow
+  name: Dzierżoniów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.72249
+  lon: 16.70922
+  lands:
+    wzgorza_niemczanskostrzelinskie: 51.6754
+    rownina_swidnicka: 24.512
+    obnizenie_podsudeckie: 14.5008
+  boundary:
+    southWest:
+      lat: 50.62497280400004
+      lng: 16.547987961000047
+    northEast:
+      lat: 50.82627724500003
+      lng: 16.77327338500004
+- slug: jemielno
+  name: Jemielno
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.56477
+  lon: 16.53598
+  lands:
+    pradolina_glogowska: 46.3746
+    wzgorza_trzebnickie: 30.6921
+    obnizenie_scinawskie: 22.9241
+  boundary:
+    southWest:
+      lat: 51.50020138200006
+      lng: 16.388442765000036
+    northEast:
+      lat: 51.62793374100005
+      lng: 16.644867694000027
+- slug: myslakowice
+  name: Mysłakowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.84618
+  lon: 15.83065
+  lands:
+    kotlina_jeleniogorska: 83.8271
+    rudawy_janowickie: 16.1729
+  boundary:
+    southWest:
+      lat: 50.79288892500006
+      lng: 15.74417769300004
+    northEast:
+      lat: 50.90070948600004
+      lng: 15.923205236000058
+- slug: chojnow
+  name: Chojnów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.26893
+  lon: 15.9374
+  lands:
+    rownina_chojnowska: 69.172
+    rownina_legnicka: 30.828
+  boundary:
+    southWest:
+      lat: 51.26053687000007
+      lng: 15.91095976300005
+    northEast:
+      lat: 51.28332045600007
+      lng: 15.96049428200007
+- slug: krotoszyce
+  name: Krotoszyce
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.15447
+  lon: 16.09253
+  lands:
+    rownina_chojnowska: 90.6451
+    rownina_legnicka: 9.3549
+  boundary:
+    southWest:
+      lat: 51.100858489000075
+      lng: 16.024677961000066
+    northEast:
+      lat: 51.204177610000045
+      lng: 16.16529046100004
+- slug: siekierczyn
+  name: Siekierczyn
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.12578
+  lon: 15.18117
+  lands:
+    pogorze_izerskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.08151696900006
+      lng: 15.12824067200006
+    northEast:
+      lat: 51.16619895500003
+      lng: 15.260287858000027
+- slug: lubin
+  name: Lubin
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.37587
+  lon: 16.20478
+  lands:
+    wysoczyzna_lubinska: 75.989
+    rownina_przemkowska: 9.9645
+    rownina_legnicka: 8.1603
+  boundary:
+    southWest:
+      lat: 51.27168419800006
+      lng: 16.00414290300006
+    northEast:
+      lat: 51.471520619000046
+      lng: 16.341178239000044
+- slug: scinawa
+  name: Ścinawa
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.38981
+  lon: 16.39661
+  lands:
+    obnizenie_scinawskie: 51.4813
+    wysoczyzna_lubinska: 44.1801
+    pradolina_wroclawska: 2.6216
+  boundary:
+    southWest:
+      lat: 51.29369877700003
+      lng: 16.310339208000073
+    northEast:
+      lat: 51.48727471700005
+      lng: 16.476492988000075
+- slug: olesnica
+  name: Oleśnica
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.20792
+  lon: 17.38363
+  lands:
+    rownina_olesnicka: 100.0
+  boundary:
+    southWest:
+      lat: 51.18151187500007
+      lng: 17.33571889800004
+    northEast:
+      lat: 51.23950639700007
+      lng: 17.44111210500006
+- slug: dobroszyce
+  name: Dobroszyce
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.3
+  lon: 17.32452
+  lands:
+    rownina_olesnicka: 55.9371
+    wzgorza_trzebnickie: 34.5267
+    wzgorza_twardogorskie: 9.5337
+  boundary:
+    southWest:
+      lat: 51.22348653000006
+      lng: 17.242123734000074
+    northEast:
+      lat: 51.372912460000066
+      lng: 17.446011804000022
+- slug: strzegom
+  name: Strzegom
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.95369
+  lon: 16.32723
+  lands:
+    wzgorza_strzegomskie: 59.358
+    obnizenie_podsudeckie: 22.9904
+    rownina_swidnicka: 17.093
+  boundary:
+    southWest:
+      lat: 50.877667888000076
+      lng: 16.25129525400007
+    northEast:
+      lat: 51.02903246000005
+      lng: 16.48441632600003
+- slug: zmigrod
+  name: Żmigród
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.49067
+  lon: 16.9347
+  lands:
+    kotlina_zmigrodzka: 99.1078
+    wysoczyzna_leszczynska: 0.8922
+  boundary:
+    southWest:
+      lat: 51.40171799800004
+      lng: 16.75914270100003
+    northEast:
+      lat: 51.57999092800003
+      lng: 17.109971931000075
+- slug: winsko
+  name: Wińsko
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.4473
+  lon: 16.62085
+  lands:
+    wzgorza_trzebnickie: 56.3908
+    obnizenie_scinawskie: 28.7491
+    kotlina_zmigrodzka: 13.4294
+  boundary:
+    southWest:
+      lat: 51.37300151100004
+      lng: 16.438415915000064
+    northEast:
+      lat: 51.515575754000054
+      lng: 16.79812905600005
+- slug: zabkowice_slaskie
+  name: Ząbkowice Śląskie
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.60436
+  lon: 16.84867
+  lands:
+    wzgorza_niemczanskostrzelinskie: 92.7489
+    obnizenie_otmuchowskie: 7.2511
+  boundary:
+    southWest:
+      lat: 50.528180821000035
+      lng: 16.73597439100007
+    northEast:
+      lat: 50.66985678700007
+      lng: 16.932569409000052
+- slug: glogow
+  name: Głogów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.66392
+  lon: 16.15436
+  lands:
+    pradolina_glogowska: 83.5402
+    wzgorza_dalkowskie: 14.3594
+    wysoczyzna_leszczynska: 2.1004
+  boundary:
+    southWest:
+      lat: 51.60809556600003
+      lng: 16.031522667000047
+    northEast:
+      lat: 51.72408599100004
+      lng: 16.22329488500003
+- slug: jelenia_gora
+  name: Jelenia Góra
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.84939
+  lon: 15.64971
+  lands:
+    kotlina_jeleniogorska: 65.7729
+    karkonosze: 23.4579
+    pogorze_izerskie: 10.548
+  boundary:
+    southWest:
+      lat: 50.76777208500005
+      lng: 15.577867530000049
+    northEast:
+      lat: 50.93098001100003
+      lng: 15.876990101000047
+- slug: gluszyca
+  name: Głuszyca
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.67675
+  lon: 16.35727
+  lands:
+    obnizenie_noworudzkie: 37.6541
+    gory_kamienne: 33.0246
+    gory_sowie: 25.5871
+  boundary:
+    southWest:
+      lat: 50.63689658700008
+      lng: 16.272087853000073
+    northEast:
+      lat: 50.71585235400005
+      lng: 16.45780946000002
+- slug: lubawka
+  name: Lubawka
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.68237
+  lon: 16.01923
+  lands:
+    brama_lubawska: 37.9758
+    gory_kamienne: 30.8494
+    karkonosze: 19.2069
+  boundary:
+    southWest:
+      lat: 50.60379496500008
+      lng: 15.829911131000074
+    northEast:
+      lat: 50.76088306500003
+      lng: 16.109567647000063
+- slug: jerzmanowa
+  name: Jerzmanowa
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.59501
+  lon: 16.05268
+  lands:
+    wzgorza_dalkowskie: 85.2037
+    rownina_przemkowska: 14.7963
+  boundary:
+    southWest:
+      lat: 51.539203893000035
+      lng: 15.973270743000057
+    northEast:
+      lat: 51.65374684900007
+      lng: 16.109584108000035
+- slug: gora
+  name: Góra
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.67475
+  lon: 16.55014
+  lands:
+    wysoczyzna_leszczynska: 85.2854
+    pradolina_glogowska: 14.7146
+  boundary:
+    southWest:
+      lat: 51.56712158200003
+      lng: 16.40887513000007
+    northEast:
+      lat: 51.78801113500003
+      lng: 16.684974045000047
+- slug: marciszow
+  name: Marciszów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.85457
+  lon: 16.01963
+  lands:
+    gory_walbrzyskie: 39.2927
+    rudawy_janowickie: 32.8753
+    gory_kaczawskie: 24.7232
+  boundary:
+    southWest:
+      lat: 50.80202279900004
+      lng: 15.944085770000072
+    northEast:
+      lat: 50.900001985000074
+      lng: 16.109594986000047
+- slug: nowa_ruda
+  name: Nowa Ruda
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.56467
+  lon: 16.52221
+  lands:
+    obnizenie_noworudzkie: 100.0
+  boundary:
+    southWest:
+      lat: 50.523801983000055
+      lng: 16.460829567000076
+    northEast:
+      lat: 50.61387769100003
+      lng: 16.57922654600003
+- slug: prochowice
+  name: Prochowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.2683
+  lon: 16.38202
+  lands:
+    pradolina_wroclawska: 50.7599
+    rownina_wroclawska: 28.3317
+    wysoczyzna_lubinska: 8.5903
+  boundary:
+    southWest:
+      lat: 51.208221810000055
+      lng: 16.303511127000036
+    northEast:
+      lat: 51.32836281900006
+      lng: 16.472319430000027
+- slug: lubin
+  name: Lubin
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.3993
+  lon: 16.20664
+  lands:
+    wysoczyzna_lubinska: 98.635
+    wzgorza_dalkowskie: 1.365
+  boundary:
+    southWest:
+      lat: 51.35896723500008
+      lng: 16.146990336000044
+    northEast:
+      lat: 51.43229624500003
+      lng: 16.257655128000067
+- slug: wlen
+  name: Wleń
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.00766
+  lon: 15.66135
+  lands:
+    pogorze_izerskie: 50.0489
+    pogorze_kaczawskie: 27.9547
+    gory_kaczawskie: 21.9964
+  boundary:
+    southWest:
+      lat: 50.94905333000003
+      lng: 15.59133025400007
+    northEast:
+      lat: 51.06347465400006
+      lng: 15.765884140000026
+- slug: twardogora
+  name: Twardogóra
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.37989
+  lon: 17.46702
+  lands:
+    wzgorza_twardogorskie: 72.305
+    kotlina_milicka: 14.6032
+    rownina_olesnicka: 13.0918
+  boundary:
+    southWest:
+      lat: 51.29606066300005
+      lng: 17.342481213000042
+    northEast:
+      lat: 51.45719770200003
+      lng: 17.562922464000053
+- slug: domaniow
+  name: Domaniów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.91106
+  lon: 17.14028
+  lands:
+    rownina_wroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 50.840632103000075
+      lng: 17.06923747600007
+    northEast:
+      lat: 50.986472871000046
+      lng: 17.226080212000056
+- slug: olawa
+  name: Oława
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.95646
+  lon: 17.28775
+  lands:
+    pradolina_wroclawska: 58.0442
+    rownina_wroclawska: 41.9558
+  boundary:
+    southWest:
+      lat: 50.91935641100008
+      lng: 17.24673441500005
+    northEast:
+      lat: 50.995776198000044
+      lng: 17.339541573000076
+- slug: grebocice
+  name: Grębocice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.57894
+  lon: 16.20471
+  lands:
+    pradolina_glogowska: 54.9314
+    wzgorza_dalkowskie: 45.0686
+  boundary:
+    southWest:
+      lat: 51.522036842000034
+      lng: 16.084240059000024
+    northEast:
+      lat: 51.633506553000075
+      lng: 16.327718310000023
+- slug: gaworzyce
+  name: Gaworzyce
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.62036
+  lon: 15.89845
+  lands:
+    rownina_przemkowska: 56.567
+    wzgorza_dalkowskie: 43.433
+  boundary:
+    southWest:
+      lat: 51.57274368700007
+      lng: 15.81597234800006
+    northEast:
+      lat: 51.67166473000003
+      lng: 15.970833847000051
+- slug: walim
+  name: Walim
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.72577
+  lon: 16.4258
+  lands:
+    gory_sowie: 64.1846
+    gory_walbrzyskie: 20.0697
+    pogorze_walbrzyskie: 15.7458
+  boundary:
+    southWest:
+      lat: 50.66048531000007
+      lng: 16.327203473000054
+    northEast:
+      lat: 50.79324964500006
+      lng: 16.492679340000052
+- slug: stare_bogaczowice
+  name: Stare Bogaczowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.82834
+  lon: 16.16257
+  lands:
+    gory_walbrzyskie: 67.4767
+    pogorze_walbrzyskie: 32.5233
+  boundary:
+    southWest:
+      lat: 50.771670992000054
+      lng: 16.07200061800006
+    northEast:
+      lat: 50.88679669900006
+      lng: 16.27651024100004
+- slug: czernica
+  name: Czernica
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.06517
+  lon: 17.22851
+  lands:
+    rownina_olesnicka: 62.4476
+    pradolina_wroclawska: 37.5524
+  boundary:
+    southWest:
+      lat: 51.014887040000076
+      lng: 17.148521652000056
+    northEast:
+      lat: 51.11751104000007
+      lng: 17.37598296400006
+- slug: katy_wroclawskie
+  name: Kąty Wrocławskie
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.03219
+  lon: 16.78257
+  lands:
+    rownina_wroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 50.954185178000046
+      lng: 16.683453283000063
+    northEast:
+      lat: 51.11180408800004
+      lng: 16.963414630000045
+- slug: siechnice
+  name: Siechnice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.03389
+  lon: 17.14536
+  lands:
+    pradolina_wroclawska: 50.9526
+    rownina_wroclawska: 49.0474
+  boundary:
+    southWest:
+      lat: 50.98109907500003
+      lng: 17.029004522000037
+    northEast:
+      lat: 51.08312189700007
+      lng: 17.261461233000034
+- slug: zorawina
+  name: Żórawina
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.96815
+  lon: 17.06779
+  lands:
+    rownina_wroclawska: 100.0
+  boundary:
+    southWest:
+      lat: 50.901489179000066
+      lng: 16.93599369900005
+    northEast:
+      lat: 51.03457805700003
+      lng: 17.163077577000024
+- slug: cieplowody
+  name: Ciepłowody
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.66897
+  lon: 16.9093
+  lands:
+    wzgorza_niemczanskostrzelinskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.62777477600008
+      lng: 16.821629407000046
+    northEast:
+      lat: 50.70929026300007
+      lng: 17.009932210000045
+- slug: ziebice
+  name: Ziębice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.57931
+  lon: 17.0077
+  lands:
+    wzgorza_niemczanskostrzelinskie: 94.9929
+    obnizenie_otmuchowskie: 5.0071
+  boundary:
+    southWest:
+      lat: 50.46433002300006
+      lng: 16.91082840100006
+    northEast:
+      lat: 50.69500669700005
+      lng: 17.16489584900006
+- slug: kamieniec_zabkowicki
+  name: Kamieniec Ząbkowicki
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.52162
+  lon: 16.89499
+  lands:
+    obnizenie_otmuchowskie: 62.6982
+    wzgorza_niemczanskostrzelinskie: 35.0777
+    gory_bardzkie: 1.262
+  boundary:
+    southWest:
+      lat: 50.47333101000004
+      lng: 16.79947896400006
+    northEast:
+      lat: 50.56899979900004
+      lng: 17.026370150000048
+- slug: peclaw
+  name: Pęcław
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.64625
+  lon: 16.2566
+  lands:
+    pradolina_glogowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.595778117000066
+      lng: 16.176029553000035
+    northEast:
+      lat: 51.69541815700006
+      lng: 16.355434658000036
+- slug: msciwojow
+  name: Mściwojów
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.05605
+  lon: 16.28233
+  lands:
+    rownina_chojnowska: 73.1151
+    wzgorza_strzegomskie: 26.8849
+  boundary:
+    southWest:
+      lat: 51.00574220200008
+      lng: 16.177774990000046
+    northEast:
+      lat: 51.10982204600003
+      lng: 16.344678645000045
+- slug: sulikow
+  name: Sulików
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.06189
+  lon: 15.08041
+  lands:
+    pogorze_izerskie: 99.3204
+  boundary:
+    southWest:
+      lat: 50.99016145400003
+      lng: 14.988878053000064
+    northEast:
+      lat: 51.13147894800005
+      lng: 15.16824495700007
+- slug: platerowka
+  name: Platerówka
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 51.06342
+  lon: 15.18851
+  lands:
+    pogorze_izerskie: 99.9754
+  boundary:
+    southWest:
+      lat: 51.018518275000076
+      lng: 15.121105870000065
+    northEast:
+      lat: 51.10107963000007
+      lng: 15.265265551000027
+- slug: kudowazdroj
+  name: Kudowa-Zdrój
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.44349
+  lon: 16.23588
+  lands:
+    gory_stolowe: 56.6904
+    pogorze_orlickie: 39.2594
+  boundary:
+    southWest:
+      lat: 50.40697839000006
+      lng: 16.19828482400004
+    northEast:
+      lat: 50.48290155300003
+      lng: 16.34221735600005
+- slug: kowary
+  name: Kowary
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.77598
+  lon: 15.83573
+  lands:
+    karkonosze: 51.0057
+    rudawy_janowickie: 27.117
+    kotlina_jeleniogorska: 21.1487
+  boundary:
+    southWest:
+      lat: 50.74271865900005
+      lng: 15.792975281000054
+    northEast:
+      lat: 50.81292772000006
+      lng: 15.892540627000074

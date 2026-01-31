@@ -1,0 +1,3420 @@
+---
+- slug: janowiec
+  name: Janowiec
+  type: town
+  voivodeship: lubelskie
+  lat: 51.32499
+  lon: 21.88393
+  lands:
+    rownina_radomska: 67.4124
+    malopolski_przelom_wisly: 32.5876
+  boundary:
+    southWest:
+      lat: 51.27470270500004
+      lng: 21.802726652000047
+    northEast:
+      lat: 51.38299563100003
+      lng: 21.98219063600004
+- slug: konskowola
+  name: Końskowola
+  type: town
+  voivodeship: lubelskie
+  lat: 51.4004
+  lon: 22.07619
+  lands:
+    wysoczyzna_lubartowska: 73.52
+    plaskowyz_naleczowski: 26.48
+  boundary:
+    southWest:
+      lat: 51.33951037800006
+      lng: 22.005974397000045
+    northEast:
+      lat: 51.47392282200008
+      lng: 22.160231028000055
+- slug: pulawy
+  name: Puławy
+  type: town
+  voivodeship: lubelskie
+  lat: 51.46256
+  lon: 21.89565
+  lands:
+    dolina_srodkowej_wisly: 49.1426
+    rownina_radomska: 42.2059
+    malopolski_przelom_wisly: 6.7143
+  boundary:
+    southWest:
+      lat: 51.370212810000055
+      lng: 21.760955012000068
+    northEast:
+      lat: 51.54836404500003
+      lng: 22.028029883000045
+- slug: ulanmajorat
+  name: Ulan-Majorat
+  type: town
+  voivodeship: lubelskie
+  lat: 51.83738
+  lon: 22.47026
+  lands:
+    rownina_lukowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.788320655000064
+      lng: 22.352517059000036
+    northEast:
+      lat: 51.890208338000036
+      lng: 22.578640020000023
+- slug: nowodwor
+  name: Nowodwór
+  type: town
+  voivodeship: lubelskie
+  lat: 51.66129
+  lon: 22.10898
+  lands:
+    wysoczyzna_zelechowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.60893142100008
+      lng: 22.023808706000068
+    northEast:
+      lat: 51.72339961800003
+      lng: 22.178240869000035
+- slug: stezyca
+  name: Stężyca
+  type: town
+  voivodeship: lubelskie
+  lat: 51.6077
+  lon: 21.75055
+  lands:
+    dolina_srodkowej_wisly: 75.5213
+    wysoczyzna_zelechowska: 24.4787
+  boundary:
+    southWest:
+      lat: 51.56080999500006
+      lng: 21.615542532000063
+    northEast:
+      lat: 51.66029790200008
+      lng: 21.86699049500004
+- slug: swidnik
+  name: Świdnik
+  type: town
+  voivodeship: lubelskie
+  lat: 51.22524
+  lon: 22.68405
+  lands:
+    plaskowyz_swidnicki: 100.0
+  boundary:
+    southWest:
+      lat: 51.191093555000066
+      lng: 22.63879564100006
+    northEast:
+      lat: 51.24246143800008
+      lng: 22.719376887000067
+- slug: tomaszow_lubelski
+  name: Tomaszów Lubelski
+  type: town
+  voivodeship: lubelskie
+  lat: 50.45259
+  lon: 23.42829
+  lands:
+    roztocze_srodkowe: 100.0
+  boundary:
+    southWest:
+      lat: 50.42633170400006
+      lng: 23.400694374000068
+    northEast:
+      lat: 50.466777954000065
+      lng: 23.457951322000042
+- slug: rachanie
+  name: Rachanie
+  type: town
+  voivodeship: lubelskie
+  lat: 50.55153
+  lon: 23.57667
+  lands:
+    grzeda_sokalska: 99.9611
+    roztocze_srodkowe: 0.0389
+  boundary:
+    southWest:
+      lat: 50.49759798500003
+      lng: 23.46834743900007
+    northEast:
+      lat: 50.60062417100005
+      lng: 23.63897072900005
+- slug: urszulin
+  name: Urszulin
+  type: town
+  voivodeship: lubelskie
+  lat: 51.39742
+  lon: 23.17251
+  lands:
+    pojezierze_leczynskowlodawskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.32816541300008
+      lng: 23.05885954100006
+    northEast:
+      lat: 51.46767060600007
+      lng: 23.291506747000028
+- slug: radecznica
+  name: Radecznica
+  type: town
+  voivodeship: lubelskie
+  lat: 50.69584
+  lon: 22.84706
+  lands:
+    roztocze_zachodnie: 81.9064
+    wynioslosc_gielczewska: 11.6685
+    kotlina_zamojska: 6.4251
+  boundary:
+    southWest:
+      lat: 50.59706862200005
+      lng: 22.760679253000035
+    northEast:
+      lat: 50.792665482000075
+      lng: 22.899520229000075
+- slug: chelm
+  name: Chełm
+  type: town
+  voivodeship: lubelskie
+  lat: 51.13377
+  lon: 23.491
+  lands:
+    pagory_chelmskie: 90.5811
+    obnizenie_dubienskie: 9.4189
+  boundary:
+    southWest:
+      lat: 51.105461940000055
+      lng: 23.420037811000043
+    northEast:
+      lat: 51.16789638600005
+      lng: 23.557131026000036
+- slug: zamosc
+  name: Zamość
+  type: town
+  voivodeship: lubelskie
+  lat: 50.71982
+  lon: 23.25802
+  lands:
+    kotlina_zamojska: 100.0
+  boundary:
+    southWest:
+      lat: 50.692415889000074
+      lng: 23.21273138600003
+    northEast:
+      lat: 50.74846174600003
+      lng: 23.306470900000022
+- slug: terespol
+  name: Terespol
+  type: town
+  voivodeship: lubelskie
+  lat: 52.07908
+  lon: 23.62334
+  lands: {}
+  boundary:
+    southWest:
+      lat: 52.05763875200006
+      lng: 23.58556653200003
+    northEast:
+      lat: 52.09632807200006
+      lng: 23.653784054000027
+- slug: biala_podlaska
+  name: Biała Podlaska
+  type: town
+  voivodeship: lubelskie
+  lat: 52.02644
+  lon: 23.10492
+  lands:
+    rownina_lukowska: 60.1962
+    zakleslosc_lomaska: 39.5316
+    wysoczyzna_siedlecka: 0.268
+  boundary:
+    southWest:
+      lat: 51.93884821700004
+      lng: 22.866589414000032
+    northEast:
+      lat: 52.12313466900008
+      lng: 23.326052159000028
+- slug: wisznice
+  name: Wisznice
+  type: town
+  voivodeship: lubelskie
+  lat: 51.78076
+  lon: 23.14336
+  lands:
+    wysoczyzna_parczewskokodenska: 100.0
+  boundary:
+    southWest:
+      lat: 51.69731023200006
+      lng: 23.02297259000005
+    northEast:
+      lat: 51.864146325000036
+      lng: 23.298247202000027
+- slug: slawatycze
+  name: Sławatycze
+  type: town
+  voivodeship: lubelskie
+  lat: 51.78502
+  lon: 23.54816
+  lands:
+    wysoczyzna_parczewskokodenska: 76.3457
+  boundary:
+    southWest:
+      lat: 51.74308878000005
+      lng: 23.465238725000063
+    northEast:
+      lat: 51.828206358000045
+      lng: 23.64138305000006
+- slug: piszczac
+  name: Piszczac
+  type: town
+  voivodeship: lubelskie
+  lat: 51.96251
+  lon: 23.38242
+  lands:
+    wysoczyzna_parczewskokodenska: 76.9325
+    zakleslosc_lomaska: 23.0675
+  boundary:
+    southWest:
+      lat: 51.89789664600005
+      lng: 23.221757628000034
+    northEast:
+      lat: 52.019101988000045
+      lng: 23.53758576900003
+- slug: rossosz
+  name: Rossosz
+  type: town
+  voivodeship: lubelskie
+  lat: 51.85758
+  lon: 23.11949
+  lands:
+    wysoczyzna_parczewskokodenska: 93.0062
+    zakleslosc_lomaska: 6.9938
+  boundary:
+    southWest:
+      lat: 51.79936741900008
+      lng: 23.036093935000054
+    northEast:
+      lat: 51.89851199600008
+      lng: 23.20403162200006
+- slug: goraj
+  name: Goraj
+  type: town
+  voivodeship: lubelskie
+  lat: 50.73043
+  lon: 22.70817
+  lands:
+    roztocze_zachodnie: 100.0
+  boundary:
+    southWest:
+      lat: 50.689807752000036
+      lng: 22.614107873000023
+    northEast:
+      lat: 50.77491968000004
+      lng: 22.783939608000026
+- slug: turobin
+  name: Turobin
+  type: town
+  voivodeship: lubelskie
+  lat: 50.81644
+  lon: 22.74016
+  lands:
+    wynioslosc_gielczewska: 53.8483
+    roztocze_zachodnie: 46.1517
+  boundary:
+    southWest:
+      lat: 50.755990835000034
+      lng: 22.57808538200004
+    northEast:
+      lat: 50.88438663100004
+      lng: 22.88808263900006
+- slug: werbkowice
+  name: Werbkowice
+  type: town
+  voivodeship: lubelskie
+  lat: 50.72318
+  lon: 23.76334
+  lands:
+    kotlina_hrubieszowska: 80.7085
+    dzialy_grabowieckie: 19.2915
+  boundary:
+    southWest:
+      lat: 50.63750852600003
+      lng: 23.61479900200004
+    northEast:
+      lat: 50.803213192000044
+      lng: 23.863166084000056
+- slug: dzwola
+  name: Dzwola
+  type: town
+  voivodeship: lubelskie
+  lat: 50.67057
+  lon: 22.53478
+  lands:
+    rownina_bilgorajska: 65.4238
+    roztocze_zachodnie: 34.5762
+  boundary:
+    southWest:
+      lat: 50.58448859300006
+      lng: 22.40772435300005
+    northEast:
+      lat: 50.762940041000036
+      lng: 22.68117385000005
+- slug: fajslawice
+  name: Fajsławice
+  type: town
+  voivodeship: lubelskie
+  lat: 51.07141
+  lon: 22.95536
+  lands:
+    wynioslosc_gielczewska: 100.0
+  boundary:
+    southWest:
+      lat: 51.02107509700005
+      lng: 22.880301016000033
+    northEast:
+      lat: 51.122813793000034
+      lng: 23.036654571000042
+- slug: annopol
+  name: Annopol
+  type: town
+  voivodeship: lubelskie
+  lat: 50.87541
+  lon: 21.88659
+  lands:
+    wzniesienia_urzedowskie: 67.0071
+    malopolski_przelom_wisly: 21.1726
+    nizina_nadwislanska: 11.8203
+  boundary:
+    southWest:
+      lat: 50.77442511600003
+      lng: 21.812910594000073
+    northEast:
+      lat: 50.981886297000074
+      lng: 21.976262218000045
+- slug: gorzkow
+  name: Gorzków
+  type: town
+  voivodeship: lubelskie
+  lat: 50.94969
+  lon: 22.97493
+  lands:
+    wynioslosc_gielczewska: 100.0
+  boundary:
+    southWest:
+      lat: 50.902026023000076
+      lng: 22.87898842100003
+    northEast:
+      lat: 51.007996741000056
+      lng: 23.07924867500003
+- slug: rudnik
+  name: Rudnik
+  type: town
+  voivodeship: lubelskie
+  lat: 50.86027
+  lon: 22.9565
+  lands:
+    wynioslosc_gielczewska: 100.0
+  boundary:
+    southWest:
+      lat: 50.80402195200003
+      lng: 22.874626729000056
+    northEast:
+      lat: 50.91764148800007
+      lng: 23.03360580900005
+- slug: michow
+  name: Michów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.54271
+  lon: 22.32647
+  lands:
+    wysoczyzna_lubartowska: 77.5814
+    pradolina_wieprza: 22.4186
+  boundary:
+    southWest:
+      lat: 51.46633101100008
+      lng: 22.222235941000065
+    northEast:
+      lat: 51.60667069800007
+      lng: 22.45096516900003
+- slug: ostrowek
+  name: Ostrówek
+  type: town
+  voivodeship: lubelskie
+  lat: 51.59876
+  lon: 22.59854
+  lands:
+    wysoczyzna_lubartowska: 87.2491
+    pradolina_wieprza: 12.7509
+  boundary:
+    southWest:
+      lat: 51.53143113500005
+      lng: 22.509153561000062
+    northEast:
+      lat: 51.66037313900006
+      lng: 22.707421629000066
+- slug: stoczek_lukowski
+  name: Stoczek Łukowski
+  type: town
+  voivodeship: lubelskie
+  lat: 51.95978
+  lon: 21.9571
+  lands:
+    wysoczyzna_zelechowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.94256902600006
+      lng: 21.923404988000073
+    northEast:
+      lat: 51.97151657300003
+      lng: 21.991167976000042
+- slug: milanow
+  name: Milanów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.72968
+  lon: 22.92397
+  lands:
+    wysoczyzna_parczewskokodenska: 100.0
+  boundary:
+    southWest:
+      lat: 51.671260225000026
+      lng: 22.784594150000032
+    northEast:
+      lat: 51.79070130400004
+      lng: 23.03969608500006
+- slug: jozefow_nad_wisla
+  name: Józefów nad Wisłą
+  type: town
+  voivodeship: lubelskie
+  lat: 51.02723
+  lon: 21.91279
+  lands:
+    wzniesienia_urzedowskie: 93.5268
+    malopolski_przelom_wisly: 6.4732
+  boundary:
+    southWest:
+      lat: 50.959335604000046
+      lng: 21.797557109000024
+    northEast:
+      lat: 51.095446527000036
+      lng: 22.034357313000044
+- slug: zyrzyn
+  name: Żyrzyn
+  type: town
+  voivodeship: lubelskie
+  lat: 51.50772
+  lon: 22.03922
+  lands:
+    wysoczyzna_lubartowska: 68.8441
+    dolina_srodkowej_wisly: 21.459
+    pradolina_wieprza: 9.6969
+  boundary:
+    southWest:
+      lat: 51.44194655700005
+      lng: 21.949127537000038
+    northEast:
+      lat: 51.57526825400004
+      lng: 22.191255510000076
+- slug: naleczow
+  name: Nałęczów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.31277
+  lon: 22.2284
+  lands:
+    plaskowyz_naleczowski: 95.9786
+    rownina_belzycka: 4.0214
+  boundary:
+    southWest:
+      lat: 51.26230220700006
+      lng: 22.164425322000056
+    northEast:
+      lat: 51.354802119000055
+      lng: 22.308556546000034
+- slug: piaski
+  name: Piaski
+  type: town
+  voivodeship: lubelskie
+  lat: 51.1303
+  lon: 22.80835
+  lands:
+    wynioslosc_gielczewska: 58.9509
+    plaskowyz_swidnicki: 41.0491
+  boundary:
+    southWest:
+      lat: 51.069435156000054
+      lng: 22.684410290000073
+    northEast:
+      lat: 51.191527121000036
+      lng: 22.929669799000067
+- slug: melgiew
+  name: Mełgiew
+  type: town
+  voivodeship: lubelskie
+  lat: 51.22102
+  lon: 22.78389
+  lands:
+    plaskowyz_swidnicki: 100.0
+  boundary:
+    southWest:
+      lat: 51.17026783600005
+      lng: 22.68788370200008
+    northEast:
+      lat: 51.28474487200003
+      lng: 22.862888017000046
+- slug: ulhowek
+  name: Ulhówek
+  type: town
+  voivodeship: lubelskie
+  lat: 50.44791
+  lon: 23.80477
+  lands:
+    rownina_belska: 50.082
+    grzeda_sokalska: 49.8448
+  boundary:
+    southWest:
+      lat: 50.39070073900007
+      lng: 23.681370895000043
+    northEast:
+      lat: 50.49232748900005
+      lng: 23.993637144000047
+- slug: biala_podlaska
+  name: Biała Podlaska
+  type: town
+  voivodeship: lubelskie
+  lat: 52.02621
+  lon: 23.13899
+  lands:
+    zakleslosc_lomaska: 53.275
+    rownina_lukowska: 46.725
+  boundary:
+    southWest:
+      lat: 51.99638520600007
+      lng: 23.072338200000047
+    northEast:
+      lat: 52.05978882800008
+      lng: 23.211502619000044
+- slug: wlodawa
+  name: Włodawa
+  type: town
+  voivodeship: lubelskie
+  lat: 51.54013
+  lon: 23.52984
+  lands:
+    garb_wlodawski: 84.6691
+    dolina_srodkowego_bugu: 10.1644
+    pojezierze_leczynskowlodawskie: 3.1131
+  boundary:
+    southWest:
+      lat: 51.516356657000074
+      lng: 23.494335266000064
+    northEast:
+      lat: 51.56691798000003
+      lng: 23.576834079000037
+- slug: wyryki
+  name: Wyryki
+  type: town
+  voivodeship: lubelskie
+  lat: 51.56354
+  lon: 23.34523
+  lands:
+    garb_wlodawski: 73.434
+    zakleslosc_sosnowicka: 25.5892
+    pojezierze_leczynskowlodawskie: 0.9768
+  boundary:
+    southWest:
+      lat: 51.47477484700005
+      lng: 23.17129839000006
+    northEast:
+      lat: 51.65938799000003
+      lng: 23.497175842000047
+- slug: szczebrzeszyn
+  name: Szczebrzeszyn
+  type: town
+  voivodeship: lubelskie
+  lat: 50.7019
+  lon: 23.00469
+  lands:
+    kotlina_zamojska: 61.5163
+    roztocze_zachodnie: 27.5921
+    roztocze_srodkowe: 10.8917
+  boundary:
+    southWest:
+      lat: 50.648260278000066
+      lng: 22.883679614000073
+    northEast:
+      lat: 50.75476985900008
+      lng: 23.12594007000007
+- slug: miedzyrzec_podlaski
+  name: Międzyrzec Podlaski
+  type: town
+  voivodeship: lubelskie
+  lat: 52.01815
+  lon: 22.77522
+  lands:
+    rownina_lukowska: 61.7949
+    zakleslosc_lomaska: 25.9626
+    wysoczyzna_siedlecka: 12.2424
+  boundary:
+    southWest:
+      lat: 51.91859955400008
+      lng: 22.617522002000044
+    northEast:
+      lat: 52.117769373000044
+      lng: 22.928716929000075
+- slug: drelow
+  name: Drelów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.91181
+  lon: 22.89865
+  lands:
+    zakleslosc_lomaska: 100.0
+  boundary:
+    southWest:
+      lat: 51.81252308100005
+      lng: 22.729842836000046
+    northEast:
+      lat: 52.02096262400005
+      lng: 23.067050106000067
+- slug: janow_podlaski
+  name: Janów Podlaski
+  type: town
+  voivodeship: lubelskie
+  lat: 52.19872
+  lon: 23.24862
+  lands:
+    rownina_lukowska: 41.7998
+    podlaski_przelom_bugu: 30.5679
+    wysoczyzna_siedlecka: 26.8308
+  boundary:
+    southWest:
+      lat: 52.11439411400005
+      lng: 23.110217498000054
+    northEast:
+      lat: 52.28323692400005
+      lng: 23.399157079000076
+- slug: sosnowka
+  name: Sosnówka
+  type: town
+  voivodeship: lubelskie
+  lat: 51.74002
+  lon: 23.33769
+  lands:
+    wysoczyzna_parczewskokodenska: 99.5209
+    zakleslosc_sosnowicka: 0.4791
+  boundary:
+    southWest:
+      lat: 51.65660312500006
+      lng: 23.245177933000036
+    northEast:
+      lat: 51.822813352000026
+      lng: 23.457249055000034
+- slug: tuczna
+  name: Tuczna
+  type: town
+  voivodeship: lubelskie
+  lat: 51.85824
+  lon: 23.43702
+  lands:
+    wysoczyzna_parczewskokodenska: 100.0
+  boundary:
+    southWest:
+      lat: 51.777726149000046
+      lng: 23.313048913000046
+    northEast:
+      lat: 51.93702595100007
+      lng: 23.54451725000007
+- slug: zalesie
+  name: Zalesie
+  type: town
+  voivodeship: lubelskie
+  lat: 52.06989
+  lon: 23.40644
+  lands:
+    wysoczyzna_parczewskokodenska: 59.8962
+    rownina_lukowska: 35.9432
+    zakleslosc_lomaska: 4.1567
+  boundary:
+    southWest:
+      lat: 51.995733063000046
+      lng: 23.284737562000032
+    northEast:
+      lat: 52.133626193000055
+      lng: 23.514893076000078
+- slug: jozefow
+  name: Józefów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.49272
+  lon: 23.06868
+  lands:
+    roztocze_srodkowe: 63.2436
+    rownina_bilgorajska: 30.167
+    roztocze_zachodnie: 6.5894
+  boundary:
+    southWest:
+      lat: 50.421570306000035
+      lng: 22.94810437800004
+    northEast:
+      lat: 50.56379416100003
+      lng: 23.17956041700006
+- slug: tarnogrod
+  name: Tarnogród
+  type: town
+  voivodeship: lubelskie
+  lat: 50.33867
+  lon: 22.76949
+  lands:
+    plaskowyz_tarnogrodzki: 100.0
+  boundary:
+    southWest:
+      lat: 50.29114393200007
+      lng: 22.606575057000043
+    northEast:
+      lat: 50.38581695900007
+      lng: 22.87921727300005
+- slug: tereszpol
+  name: Tereszpol
+  type: town
+  voivodeship: lubelskie
+  lat: 50.56791
+  lon: 22.88606
+  lands:
+    roztocze_zachodnie: 53.7209
+    rownina_bilgorajska: 46.0551
+    roztocze_srodkowe: 0.224
+  boundary:
+    southWest:
+      lat: 50.48914782500003
+      lng: 22.792552043000057
+    northEast:
+      lat: 50.64447243800004
+      lng: 22.989487360000055
+- slug: rudahuta
+  name: Ruda-Huta
+  type: town
+  voivodeship: lubelskie
+  lat: 51.21956
+  lon: 23.62254
+  lands:
+    obnizenie_dubienskie: 94.747
+    dolina_srodkowego_bugu: 5.1723
+  boundary:
+    southWest:
+      lat: 51.16774775400006
+      lng: 23.514499883000042
+    northEast:
+      lat: 51.27727482900008
+      lng: 23.726690156000075
+- slug: dorohusk
+  name: Dorohusk
+  type: town
+  voivodeship: lubelskie
+  lat: 51.15912
+  lon: 23.71909
+  lands:
+    obnizenie_dubienskie: 93.2064
+    dolina_srodkowego_bugu: 5.7456
+  boundary:
+    southWest:
+      lat: 51.07305988000007
+      lng: 23.57867637000004
+    northEast:
+      lat: 51.24522545800005
+      lng: 23.870294989000058
+- slug: wierzbica
+  name: Wierzbica
+  type: town
+  voivodeship: lubelskie
+  lat: 51.27712
+  lon: 23.29967
+  lands:
+    pagory_chelmskie: 82.4099
+    pojezierze_leczynskowlodawskie: 13.6823
+    obnizenie_dorohuckie: 3.9078
+  boundary:
+    southWest:
+      lat: 51.192004231000055
+      lng: 23.21184382000007
+    northEast:
+      lat: 51.36231738600003
+      lng: 23.40365388300006
+- slug: hrubieszow
+  name: Hrubieszów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.81733
+  lon: 23.88781
+  lands:
+    kotlina_hrubieszowska: 54.2179
+    grzeda_horodelska: 29.0933
+    dzialy_grabowieckie: 8.2474
+  boundary:
+    southWest:
+      lat: 50.68894705900004
+      lng: 23.781904449000024
+    northEast:
+      lat: 50.94189742000003
+      lng: 24.071708605000026
+- slug: trzeszczany
+  name: Trzeszczany
+  type: town
+  voivodeship: lubelskie
+  lat: 50.82176
+  lon: 23.72341
+  lands:
+    dzialy_grabowieckie: 99.7499
+    kotlina_hrubieszowska: 0.2501
+  boundary:
+    southWest:
+      lat: 50.77387984900008
+      lng: 23.636034865000056
+    northEast:
+      lat: 50.87008280200007
+      lng: 23.823220854000056
+- slug: godziszow
+  name: Godziszów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.77502
+  lon: 22.49343
+  lands:
+    roztocze_zachodnie: 100.0
+  boundary:
+    southWest:
+      lat: 50.710622511000054
+      lng: 22.38537782900005
+    northEast:
+      lat: 50.84482469400007
+      lng: 22.56167799600007
+- slug: chrzanow
+  name: Chrzanów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.77502
+  lon: 22.60847
+  lands:
+    roztocze_zachodnie: 100.0
+  boundary:
+    southWest:
+      lat: 50.713070447000064
+      lng: 22.542127608000044
+    northEast:
+      lat: 50.839911347000054
+      lng: 22.676478660000043
+- slug: krasniczyn
+  name: Kraśniczyn
+  type: town
+  voivodeship: lubelskie
+  lat: 50.92812
+  lon: 23.34466
+  lands:
+    dzialy_grabowieckie: 100.0
+  boundary:
+    southWest:
+      lat: 50.87761878400005
+      lng: 23.229443110000034
+    northEast:
+      lat: 50.974112269000045
+      lng: 23.479518402000053
+- slug: krasnystaw
+  name: Krasnystaw
+  type: town
+  voivodeship: lubelskie
+  lat: 50.98734
+  lon: 23.16766
+  lands:
+    dzialy_grabowieckie: 43.3902
+    wynioslosc_gielczewska: 40.9475
+    obnizenie_dorohuckie: 15.6623
+  boundary:
+    southWest:
+      lat: 50.95366039800007
+      lng: 23.09507222900004
+    northEast:
+      lat: 51.028878150000025
+      lng: 23.244508506000045
+- slug: krasnik
+  name: Kraśnik
+  type: town
+  voivodeship: lubelskie
+  lat: 50.90879
+  lon: 22.23997
+  lands:
+    wzniesienia_urzedowskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.84098094800004
+      lng: 22.129663467000057
+    northEast:
+      lat: 50.973009122000065
+      lng: 22.33994827400005
+- slug: jablonna
+  name: Jabłonna
+  type: town
+  voivodeship: lubelskie
+  lat: 51.08334
+  lon: 22.64704
+  lands:
+    wynioslosc_gielczewska: 73.2862
+    plaskowyz_swidnicki: 26.7138
+  boundary:
+    southWest:
+      lat: 51.01973234500008
+      lng: 22.514667732000078
+    northEast:
+      lat: 51.14481695500007
+      lng: 22.761221327000044
+- slug: strzyzewice
+  name: Strzyżewice
+  type: town
+  voivodeship: lubelskie
+  lat: 51.05818
+  lon: 22.44411
+  lands:
+    wynioslosc_gielczewska: 35.0776
+    wzniesienia_urzedowskie: 26.355
+    rownina_belzycka: 23.3334
+  boundary:
+    southWest:
+      lat: 50.97921084700005
+      lng: 22.376003684000068
+    northEast:
+      lat: 51.13995993900005
+      lng: 22.564133560000073
+- slug: niedrzwica_duza
+  name: Niedrzwica Duża
+  type: town
+  voivodeship: lubelskie
+  lat: 51.10897
+  lon: 22.38643
+  lands:
+    rownina_belzycka: 80.2349
+    wzniesienia_urzedowskie: 19.7651
+  boundary:
+    southWest:
+      lat: 51.03735497400004
+      lng: 22.30696302100006
+    northEast:
+      lat: 51.185195657000065
+      lng: 22.47841823600004
+- slug: milejow
+  name: Milejów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.22724
+  lon: 22.95633
+  lands:
+    obnizenie_dorohuckie: 53.3413
+    plaskowyz_swidnicki: 46.6587
+  boundary:
+    southWest:
+      lat: 51.17621745300005
+      lng: 22.844732368000052
+    northEast:
+      lat: 51.27858616300006
+      lng: 23.071093121000047
+- slug: spiczyn
+  name: Spiczyn
+  type: town
+  voivodeship: lubelskie
+  lat: 51.35171
+  lon: 22.74431
+  lands:
+    wysoczyzna_lubartowska: 63.2096
+    plaskowyz_swidnicki: 36.7904
+  boundary:
+    southWest:
+      lat: 51.300291224000034
+      lng: 22.668897894000054
+    northEast:
+      lat: 51.41153674200007
+      lng: 22.840802965000023
+- slug: wojcieszkow
+  name: Wojcieszków
+  type: town
+  voivodeship: lubelskie
+  lat: 51.78636
+  lon: 22.32122
+  lands:
+    rownina_lukowska: 99.5446
+    wysoczyzna_zelechowska: 0.4554
+  boundary:
+    southWest:
+      lat: 51.714236784000036
+      lng: 22.241616070000077
+    northEast:
+      lat: 51.859808660000056
+      lng: 22.436647425000046
+- slug: debowa_kloda
+  name: Dębowa Kłoda
+  type: town
+  voivodeship: lubelskie
+  lat: 51.59245
+  lon: 23.04093
+  lands:
+    zakleslosc_sosnowicka: 94.5839
+    pojezierze_leczynskowlodawskie: 5.393
+    wysoczyzna_parczewskokodenska: 0.0231
+  boundary:
+    southWest:
+      lat: 51.520606712000074
+      lng: 22.88289340800003
+    northEast:
+      lat: 51.663357371000075
+      lng: 23.201800623000054
+- slug: urzedow
+  name: Urzędów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.00916
+  lon: 22.141
+  lands:
+    wzniesienia_urzedowskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.962883969000075
+      lng: 22.019875745000036
+    northEast:
+      lat: 51.057687325000074
+      lng: 22.257226238000044
+- slug: markuszow
+  name: Markuszów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.38733
+  lon: 22.24838
+  lands:
+    wysoczyzna_lubartowska: 75.4667
+    plaskowyz_naleczowski: 24.5333
+  boundary:
+    southWest:
+      lat: 51.333403746000045
+      lng: 22.211939709000035
+    northEast:
+      lat: 51.43123464400003
+      lng: 22.301259712000046
+- slug: wawolnica
+  name: Wąwolnica
+  type: town
+  voivodeship: lubelskie
+  lat: 51.2988
+  lon: 22.12375
+  lands:
+    plaskowyz_naleczowski: 75.9513
+    rownina_belzycka: 24.0487
+  boundary:
+    southWest:
+      lat: 51.252122135000036
+      lng: 22.044960331000027
+    northEast:
+      lat: 51.34937634000005
+      lng: 22.19024670500005
+- slug: wohyn
+  name: Wohyń
+  type: town
+  voivodeship: lubelskie
+  lat: 51.75597
+  lon: 22.81545
+  lands:
+    wysoczyzna_parczewskokodenska: 70.7315
+    zakleslosc_lomaska: 24.6312
+    pradolina_wieprza: 3.1962
+  boundary:
+    southWest:
+      lat: 51.66100102900003
+      lng: 22.674281088000043
+    northEast:
+      lat: 51.86256503800007
+      lng: 22.925180155000078
+- slug: ryki
+  name: Ryki
+  type: town
+  voivodeship: lubelskie
+  lat: 51.62234
+  lon: 21.9527
+  lands:
+    wysoczyzna_zelechowska: 88.6992
+    dolina_srodkowej_wisly: 9.1977
+    pradolina_wieprza: 2.1031
+  boundary:
+    southWest:
+      lat: 51.53324398400008
+      lng: 21.84182812000006
+    northEast:
+      lat: 51.70059275400007
+      lng: 22.073419887000057
+- slug: belzec
+  name: Bełżec
+  type: town
+  voivodeship: lubelskie
+  lat: 50.37438
+  lon: 23.4288
+  lands:
+    roztocze_srodkowe: 100.0
+  boundary:
+    southWest:
+      lat: 50.34478332800006
+      lng: 23.366159237000033
+    northEast:
+      lat: 50.405392997000035
+      lng: 23.494288719000053
+- slug: skierbieszow
+  name: Skierbieszów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.84057
+  lon: 23.37579
+  lands:
+    dzialy_grabowieckie: 97.6981
+    kotlina_zamojska: 2.3019
+  boundary:
+    southWest:
+      lat: 50.780568638000034
+      lng: 23.24113552400007
+    northEast:
+      lat: 50.90834089200007
+      lng: 23.48133739700006
+- slug: stary_zamosc
+  name: Stary Zamość
+  type: town
+  voivodeship: lubelskie
+  lat: 50.82464
+  lon: 23.20623
+  lands:
+    dzialy_grabowieckie: 60.9383
+    kotlina_zamojska: 39.0617
+  boundary:
+    southWest:
+      lat: 50.77902826600007
+      lng: 23.116228559000035
+    northEast:
+      lat: 50.87619706700008
+      lng: 23.312449093000055
+- slug: zwierzyniec
+  name: Zwierzyniec
+  type: town
+  voivodeship: lubelskie
+  lat: 50.58866
+  lon: 23.01288
+  lands:
+    roztocze_srodkowe: 72.8866
+    roztocze_zachodnie: 25.9441
+    kotlina_zamojska: 1.1693
+  boundary:
+    southWest:
+      lat: 50.51916511500008
+      lng: 22.874130239000067
+    northEast:
+      lat: 50.66850898400003
+      lng: 23.107411725000077
+- slug: rokitno
+  name: Rokitno
+  type: town
+  voivodeship: lubelskie
+  lat: 52.13957
+  lon: 23.31304
+  lands:
+    rownina_lukowska: 87.9568
+    podlaski_przelom_bugu: 11.6737
+  boundary:
+    southWest:
+      lat: 52.07542171600005
+      lng: 23.176568212000063
+    northEast:
+      lat: 52.19479101300004
+      lng: 23.454674630000056
+- slug: bilgoraj
+  name: Biłgoraj
+  type: town
+  voivodeship: lubelskie
+  lat: 50.54539
+  lon: 22.71109
+  lands:
+    rownina_bilgorajska: 100.0
+  boundary:
+    southWest:
+      lat: 50.51311739400006
+      lng: 22.674649031000058
+    northEast:
+      lat: 50.56490534400007
+      lng: 22.74808235000006
+- slug: frampol
+  name: Frampol
+  type: town
+  voivodeship: lubelskie
+  lat: 50.6761
+  lon: 22.72366
+  lands:
+    roztocze_zachodnie: 70.8266
+    rownina_bilgorajska: 29.1734
+  boundary:
+    southWest:
+      lat: 50.58480434400008
+      lng: 22.645265039000037
+    northEast:
+      lat: 50.75082438900006
+      lng: 22.834221590000027
+- slug: ksiezpol
+  name: Księżpol
+  type: town
+  voivodeship: lubelskie
+  lat: 50.42066
+  lon: 22.77427
+  lands:
+    rownina_bilgorajska: 55.171
+    plaskowyz_tarnogrodzki: 44.829
+  boundary:
+    southWest:
+      lat: 50.34640626500004
+      lng: 22.665098657000044
+    northEast:
+      lat: 50.48838455400005
+      lng: 22.886988957000028
+- slug: rejowiec_fabryczny
+  name: Rejowiec Fabryczny
+  type: town
+  voivodeship: lubelskie
+  lat: 51.11855
+  lon: 23.24326
+  lands:
+    pagory_chelmskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.10264126900006
+      lng: 23.203979627000024
+    northEast:
+      lat: 51.13666384700008
+      lng: 23.275766958000077
+- slug: dolhobyczow
+  name: Dołhobyczów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.5192
+  lon: 24.01108
+  lands:
+    grzeda_sokalska: 78.946
+    kotlina_hrubieszowska: 20.3408
+    rownina_belska: 0.4241
+  boundary:
+    southWest:
+      lat: 50.41214034500007
+      lng: 23.875666083000056
+    northEast:
+      lat: 50.65133479900004
+      lng: 24.09865723200005
+- slug: krasnik
+  name: Kraśnik
+  type: town
+  voivodeship: lubelskie
+  lat: 50.94671
+  lon: 22.20253
+  lands:
+    wzniesienia_urzedowskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.91061429300004
+      lng: 22.137703644000055
+    northEast:
+      lat: 50.97628641600005
+      lng: 22.27834348300007
+- slug: szastarka
+  name: Szastarka
+  type: town
+  voivodeship: lubelskie
+  lat: 50.83889
+  lon: 22.33291
+  lands:
+    wzniesienia_urzedowskie: 56.5669
+    roztocze_zachodnie: 43.4331
+  boundary:
+    southWest:
+      lat: 50.78756533900008
+      lng: 22.258061105000024
+    northEast:
+      lat: 50.893194202000075
+      lng: 22.419507429000078
+- slug: zolkiewka
+  name: Żółkiewka
+  type: town
+  voivodeship: lubelskie
+  lat: 50.89236
+  lon: 22.83096
+  lands:
+    wynioslosc_gielczewska: 100.0
+  boundary:
+    southWest:
+      lat: 50.811862287000054
+      lng: 22.761575262000065
+    northEast:
+      lat: 50.97430204200003
+      lng: 22.925669909000078
+- slug: zakrzowek
+  name: Zakrzówek
+  type: town
+  voivodeship: lubelskie
+  lat: 50.9433
+  lon: 22.40237
+  lands:
+    roztocze_zachodnie: 58.6768
+    wzniesienia_urzedowskie: 29.7756
+    wynioslosc_gielczewska: 11.5476
+  boundary:
+    southWest:
+      lat: 50.88182032900005
+      lng: 22.32244244000003
+    northEast:
+      lat: 50.999219880000055
+      lng: 22.479132019000076
+- slug: niedzwiada
+  name: Niedźwiada
+  type: town
+  voivodeship: lubelskie
+  lat: 51.52612
+  lon: 22.70612
+  lands:
+    wysoczyzna_lubartowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.469206273000054
+      lng: 22.621089117000054
+    northEast:
+      lat: 51.58323211100003
+      lng: 22.78651235600006
+- slug: cycow
+  name: Cyców
+  type: town
+  voivodeship: lubelskie
+  lat: 51.30689
+  lon: 23.15565
+  lands:
+    pojezierze_leczynskowlodawskie: 51.6564
+    obnizenie_dorohuckie: 48.3149
+    pagory_chelmskie: 0.0287
+  boundary:
+    southWest:
+      lat: 51.237489707000066
+      lng: 23.03569612600006
+    northEast:
+      lat: 51.381912029000034
+      lng: 23.26920347300006
+- slug: serokomla
+  name: Serokomla
+  type: town
+  voivodeship: lubelskie
+  lat: 51.6935
+  lon: 22.32129
+  lands:
+    wysoczyzna_zelechowska: 72.3865
+    rownina_lukowska: 27.6135
+  boundary:
+    southWest:
+      lat: 51.63762236700006
+      lng: 22.229517216000033
+    northEast:
+      lat: 51.73717919300003
+      lng: 22.399719524000034
+- slug: lukow
+  name: Łuków
+  type: town
+  voivodeship: lubelskie
+  lat: 51.94477
+  lon: 22.3271
+  lands:
+    rownina_lukowska: 70.7109
+    wysoczyzna_siedlecka: 20.8322
+    wysoczyzna_zelechowska: 8.4569
+  boundary:
+    southWest:
+      lat: 51.84241033500007
+      lng: 22.11453845400007
+    northEast:
+      lat: 52.03745711500005
+      lng: 22.575287367000044
+- slug: wola_myslowska
+  name: Wola Mysłowska
+  type: town
+  voivodeship: lubelskie
+  lat: 51.84698
+  lon: 21.96197
+  lands:
+    wysoczyzna_zelechowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.78166421800006
+      lng: 21.845045328000026
+    northEast:
+      lat: 51.91384180700004
+      lng: 22.118516044000046
+- slug: lubycza_krolewska
+  name: Lubycza Królewska
+  type: town
+  voivodeship: lubelskie
+  lat: 50.33821
+  lon: 23.55948
+  lands:
+    roztocze_srodkowe: 51.3533
+    rownina_belska: 32.5855
+    roztocze_wschodnie: 15.7748
+  boundary:
+    southWest:
+      lat: 50.25182878100003
+      lng: 23.40326389200004
+    northEast:
+      lat: 50.416037757000026
+      lng: 23.738134898000055
+- slug: zamosc
+  name: Zamość
+  type: town
+  voivodeship: lubelskie
+  lat: 50.70643
+  lon: 23.16711
+  lands:
+    kotlina_zamojska: 95.1428
+    roztocze_srodkowe: 4.8572
+  boundary:
+    southWest:
+      lat: 50.61819942300008
+      lng: 23.095046730000035
+    northEast:
+      lat: 50.789136101000054
+      lng: 23.33520370900004
+- slug: sosnowica
+  name: Sosnowica
+  type: town
+  voivodeship: lubelskie
+  lat: 51.50705
+  lon: 23.11179
+  lands:
+    pojezierze_leczynskowlodawskie: 53.5314
+    garb_wlodawski: 28.0664
+    zakleslosc_sosnowicka: 18.4021
+  boundary:
+    southWest:
+      lat: 51.41749132000007
+      lng: 22.972957921000045
+    northEast:
+      lat: 51.58525511500005
+      lng: 23.21618400600005
+- slug: baranow
+  name: Baranów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.54173
+  lon: 22.16542
+  lands:
+    wysoczyzna_lubartowska: 76.5019
+    pradolina_wieprza: 23.4981
+  boundary:
+    southWest:
+      lat: 51.49770371900007
+      lng: 22.071804927000073
+    northEast:
+      lat: 51.58439729400004
+      lng: 22.266743035000047
+- slug: radzyn_podlaski
+  name: Radzyń Podlaski
+  type: town
+  voivodeship: lubelskie
+  lat: 51.78308
+  lon: 22.62615
+  lands:
+    rownina_lukowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.74660847500007
+      lng: 22.584411776000024
+    northEast:
+      lat: 51.798814710000045
+      lng: 22.662826203000066
+- slug: hanna
+  name: Hanna
+  type: town
+  voivodeship: lubelskie
+  lat: 51.7068
+  lon: 23.47345
+  lands:
+    wysoczyzna_parczewskokodenska: 42.4093
+    zakleslosc_sosnowicka: 37.0854
+    dolina_srodkowego_bugu: 16.3409
+  boundary:
+    southWest:
+      lat: 51.63091464100006
+      lng: 23.330774500000075
+    northEast:
+      lat: 51.78058227000008
+      lng: 23.560355233000053
+- slug: wlodawa
+  name: Włodawa
+  type: town
+  voivodeship: lubelskie
+  lat: 51.46417
+  lon: 23.56918
+  lands:
+    pojezierze_leczynskowlodawskie: 88.846
+    dolina_srodkowego_bugu: 10.4871
+    garb_wlodawski: 0.1986
+  boundary:
+    southWest:
+      lat: 51.38789131900006
+      lng: 23.354801124000062
+    northEast:
+      lat: 51.67251617900007
+      lng: 23.678244531000075
+- slug: sulow
+  name: Sułów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.76282
+  lon: 22.95332
+  lands:
+    kotlina_zamojska: 60.9074
+    roztocze_zachodnie: 20.0679
+    wynioslosc_gielczewska: 19.0246
+  boundary:
+    southWest:
+      lat: 50.71459099300006
+      lng: 22.87316067300003
+    northEast:
+      lat: 50.81004225500004
+      lng: 23.074114800000075
+- slug: lublin
+  name: Lublin
+  type: town
+  voivodeship: lubelskie
+  lat: 51.21888
+  lon: 22.55837
+  lands:
+    plaskowyz_swidnicki: 49.9686
+    plaskowyz_naleczowski: 41.1671
+    rownina_belzycka: 8.8643
+  boundary:
+    southWest:
+      lat: 51.13980958900004
+      lng: 22.463372347000075
+    northEast:
+      lat: 51.296559595000076
+      lng: 22.673542616000077
+- slug: miedzyrzec_podlaski
+  name: Międzyrzec Podlaski
+  type: town
+  voivodeship: lubelskie
+  lat: 51.97872
+  lon: 22.78496
+  lands:
+    zakleslosc_lomaska: 67.4272
+    rownina_lukowska: 32.5728
+  boundary:
+    southWest:
+      lat: 51.96046660400003
+      lng: 22.74050487200003
+    northEast:
+      lat: 52.000666512000066
+      lng: 22.82959040800006
+- slug: koden
+  name: Kodeń
+  type: town
+  voivodeship: lubelskie
+  lat: 51.91061
+  lon: 23.57148
+  lands:
+    wysoczyzna_parczewskokodenska: 77.8256
+  boundary:
+    southWest:
+      lat: 51.81597398700006
+      lng: 23.505490916000042
+    northEast:
+      lat: 52.00948256100003
+      lng: 23.687446159000046
+- slug: biszcza
+  name: Biszcza
+  type: town
+  voivodeship: lubelskie
+  lat: 50.41735
+  lon: 22.63486
+  lands:
+    plaskowyz_tarnogrodzki: 74.623
+    rownina_bilgorajska: 25.377
+  boundary:
+    southWest:
+      lat: 50.352457239000046
+      lng: 22.50262835600006
+    northEast:
+      lat: 50.47643541000008
+      lng: 22.735579632000054
+- slug: obsza
+  name: Obsza
+  type: town
+  voivodeship: lubelskie
+  lat: 50.33544
+  lon: 22.98787
+  lands:
+    plaskowyz_tarnogrodzki: 69.2607
+    rownina_bilgorajska: 30.7393
+  boundary:
+    southWest:
+      lat: 50.28720251100003
+      lng: 22.854102730000022
+    northEast:
+      lat: 50.380295217000025
+      lng: 23.141338881000024
+- slug: siennica_rozana
+  name: Siennica Różana
+  type: town
+  voivodeship: lubelskie
+  lat: 51.01148
+  lon: 23.35203
+  lands:
+    dzialy_grabowieckie: 100.0
+  boundary:
+    southWest:
+      lat: 50.96683502900004
+      lng: 23.214332200000058
+    northEast:
+      lat: 51.05017879600007
+      lng: 23.455002918000048
+- slug: wilkolaz
+  name: Wilkołaz
+  type: town
+  voivodeship: lubelskie
+  lat: 50.99757
+  lon: 22.3175
+  lands:
+    wzniesienia_urzedowskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.94248504400008
+      lng: 22.244177342000057
+    northEast:
+      lat: 51.05091927500007
+      lng: 22.387186213000064
+- slug: jeziorzany
+  name: Jeziorzany
+  type: town
+  voivodeship: lubelskie
+  lat: 51.62093
+  lon: 22.28161
+  lands:
+    wysoczyzna_zelechowska: 55.0531
+    pradolina_wieprza: 44.9469
+  boundary:
+    southWest:
+      lat: 51.574236348000056
+      lng: 22.18779018300006
+    northEast:
+      lat: 51.670307345000026
+      lng: 22.34939752100007
+- slug: firlej
+  name: Firlej
+  type: town
+  voivodeship: lubelskie
+  lat: 51.55937
+  lon: 22.48415
+  lands:
+    wysoczyzna_lubartowska: 82.5696
+    pradolina_wieprza: 17.4304
+  boundary:
+    southWest:
+      lat: 51.50079661600006
+      lng: 22.393474730000037
+    northEast:
+      lat: 51.630043887000056
+      lng: 22.58188150700005
+- slug: kamionka
+  name: Kamionka
+  type: town
+  voivodeship: lubelskie
+  lat: 51.44515
+  lon: 22.4442
+  lands:
+    wysoczyzna_lubartowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.36990362100005
+      lng: 22.35661946400006
+    northEast:
+      lat: 51.51876544500004
+      lng: 22.53941797400006
+- slug: ostrow_lubelski
+  name: Ostrów Lubelski
+  type: town
+  voivodeship: lubelskie
+  lat: 51.45642
+  lon: 22.81965
+  lands:
+    wysoczyzna_lubartowska: 82.0818
+    pojezierze_leczynskowlodawskie: 17.9182
+  boundary:
+    southWest:
+      lat: 51.38169848800004
+      lng: 22.73659305500007
+    northEast:
+      lat: 51.53081804900006
+      lng: 22.907034414000066
+- slug: serniki
+  name: Serniki
+  type: town
+  voivodeship: lubelskie
+  lat: 51.43137
+  lon: 22.73018
+  lands:
+    wysoczyzna_lubartowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.38738263000005
+      lng: 22.630957998000042
+    northEast:
+      lat: 51.477923900000064
+      lng: 22.80937577700007
+- slug: uscimow
+  name: Uścimów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.4795
+  lon: 22.95162
+  lands:
+    pojezierze_leczynskowlodawskie: 90.9444
+    wysoczyzna_lubartowska: 8.477
+    zakleslosc_sosnowicka: 0.5786
+  boundary:
+    southWest:
+      lat: 51.39891208500006
+      lng: 22.880326497000055
+    northEast:
+      lat: 51.56183326100006
+      lng: 23.018584030000056
+- slug: konopnica
+  name: Konopnica
+  type: town
+  voivodeship: lubelskie
+  lat: 51.21689
+  lon: 22.40383
+  lands:
+    rownina_belzycka: 64.8851
+    plaskowyz_naleczowski: 35.1149
+  boundary:
+    southWest:
+      lat: 51.15887036200007
+      lng: 22.340728564000074
+    northEast:
+      lat: 51.27080989500007
+      lng: 22.515908151000076
+- slug: glusk
+  name: Głusk
+  type: town
+  voivodeship: lubelskie
+  lat: 51.1626
+  lon: 22.62034
+  lands:
+    plaskowyz_swidnicki: 99.998
+    rownina_belzycka: 0.002
+  boundary:
+    southWest:
+      lat: 51.12897749800004
+      lng: 22.47078874600004
+    northEast:
+      lat: 51.21397172300004
+      lng: 22.701570595000078
+- slug: jastkow
+  name: Jastków
+  type: town
+  voivodeship: lubelskie
+  lat: 51.29942
+  lon: 22.39624
+  lands:
+    plaskowyz_naleczowski: 99.4361
+    wysoczyzna_lubartowska: 0.5639
+  boundary:
+    southWest:
+      lat: 51.25159001500003
+      lng: 22.27692376500005
+    northEast:
+      lat: 51.34423497800003
+      lng: 22.52433691600004
+- slug: wojciechow
+  name: Wojciechów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.23128
+  lon: 22.24389
+  lands:
+    rownina_belzycka: 89.4019
+    plaskowyz_naleczowski: 10.5981
+  boundary:
+    southWest:
+      lat: 51.19512818000004
+      lng: 22.14307769900006
+    northEast:
+      lat: 51.268509083000026
+      lng: 22.34202003000007
+- slug: wolka
+  name: Wólka
+  type: town
+  voivodeship: lubelskie
+  lat: 51.27979
+  lon: 22.70296
+  lands:
+    plaskowyz_swidnicki: 74.9952
+    wysoczyzna_lubartowska: 12.6156
+    plaskowyz_naleczowski: 12.3892
+  boundary:
+    southWest:
+      lat: 51.23467964900004
+      lng: 22.586382376000074
+    northEast:
+      lat: 51.32675744800008
+      lng: 22.78450802100008
+- slug: lukow
+  name: Łuków
+  type: town
+  voivodeship: lubelskie
+  lat: 51.92441
+  lon: 22.3804
+  lands:
+    rownina_lukowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.89193240900005
+      lng: 22.327298709000047
+    northEast:
+      lat: 51.95856707400003
+      lng: 22.443871287000036
+- slug: krzywda
+  name: Krzywda
+  type: town
+  voivodeship: lubelskie
+  lat: 51.78556
+  lon: 22.12715
+  lands:
+    wysoczyzna_zelechowska: 98.5155
+    rownina_lukowska: 1.4845
+  boundary:
+    southWest:
+      lat: 51.708584761000054
+      lng: 22.00248390300004
+    northEast:
+      lat: 51.85890795200004
+      lng: 22.260657113000036
+- slug: chodel
+  name: Chodel
+  type: town
+  voivodeship: lubelskie
+  lat: 51.09712
+  lon: 22.15245
+  lands:
+    wzniesienia_urzedowskie: 65.563
+    rownina_belzycka: 31.1121
+    obnizenie_chodelskie: 3.325
+  boundary:
+    southWest:
+      lat: 51.04422980100003
+      lng: 22.05266000200004
+    northEast:
+      lat: 51.15605159300003
+      lng: 22.23151285700004
+- slug: wilkow
+  name: Wilków
+  type: town
+  voivodeship: lubelskie
+  lat: 51.2585
+  lon: 21.89632
+  lands:
+    malopolski_przelom_wisly: 74.9117
+    rownina_belzycka: 25.0883
+  boundary:
+    southWest:
+      lat: 51.20499713700008
+      lng: 21.807935147000023
+    northEast:
+      lat: 51.308732477000035
+      lng: 21.978243359000032
+- slug: siemien
+  name: Siemień
+  type: town
+  voivodeship: lubelskie
+  lat: 51.62493
+  lon: 22.75818
+  lands:
+    wysoczyzna_lubartowska: 65.2704
+    wysoczyzna_parczewskokodenska: 26.2511
+    zakleslosc_sosnowicka: 8.4784
+  boundary:
+    southWest:
+      lat: 51.56073260100004
+      lng: 22.669587491000073
+    northEast:
+      lat: 51.687021713000036
+      lng: 22.841264871000078
+- slug: pulawy
+  name: Puławy
+  type: town
+  voivodeship: lubelskie
+  lat: 51.42555
+  lon: 21.98531
+  lands:
+    wysoczyzna_lubartowska: 42.727
+    dolina_srodkowej_wisly: 29.284
+    malopolski_przelom_wisly: 20.0313
+  boundary:
+    southWest:
+      lat: 51.37088783200005
+      lng: 21.92533798200003
+    northEast:
+      lat: 51.478547519000074
+      lng: 22.02779573400005
+- slug: czemierniki
+  name: Czemierniki
+  type: town
+  voivodeship: lubelskie
+  lat: 51.6715
+  lon: 22.63703
+  lands:
+    wysoczyzna_lubartowska: 73.2172
+    pradolina_wieprza: 16.6145
+    rownina_lukowska: 10.1553
+  boundary:
+    southWest:
+      lat: 51.59108545500004
+      lng: 22.53620524100006
+    northEast:
+      lat: 51.74779858800008
+      lng: 22.726629068000022
+- slug: kakolewnica
+  name: Kąkolewnica
+  type: town
+  voivodeship: lubelskie
+  lat: 51.89057
+  lon: 22.66694
+  lands:
+    rownina_lukowska: 71.4617
+    zakleslosc_lomaska: 28.5383
+  boundary:
+    southWest:
+      lat: 51.824394992000066
+      lng: 22.549858674000063
+    northEast:
+      lat: 51.97261188600004
+      lng: 22.77982829800004
+- slug: deblin
+  name: Dęblin
+  type: town
+  voivodeship: lubelskie
+  lat: 51.56869
+  lon: 21.85635
+  lands:
+    dolina_srodkowej_wisly: 75.6118
+    wysoczyzna_zelechowska: 24.3882
+  boundary:
+    southWest:
+      lat: 51.53324398400008
+      lng: 21.817351125000073
+    northEast:
+      lat: 51.60402656300005
+      lng: 21.934580535000066
+- slug: ulez
+  name: Ułęż
+  type: town
+  voivodeship: lubelskie
+  lat: 51.61449
+  lon: 22.16127
+  lands:
+    wysoczyzna_zelechowska: 69.0024
+    pradolina_wieprza: 30.9976
+  boundary:
+    southWest:
+      lat: 51.56797767000006
+      lng: 21.98715889300007
+    northEast:
+      lat: 51.65969420500005
+      lng: 22.243063291000055
+- slug: trawniki
+  name: Trawniki
+  type: town
+  voivodeship: lubelskie
+  lat: 51.13842
+  lon: 22.98638
+  lands:
+    obnizenie_dorohuckie: 52.19
+    wynioslosc_gielczewska: 31.2719
+    plaskowyz_swidnicki: 16.5381
+  boundary:
+    southWest:
+      lat: 51.08745024500007
+      lng: 22.89924819500004
+    northEast:
+      lat: 51.19629398100005
+      lng: 23.068911138000033
+- slug: rybczewice
+  name: Rybczewice
+  type: town
+  voivodeship: lubelskie
+  lat: 51.0326
+  lon: 22.85469
+  lands:
+    wynioslosc_gielczewska: 100.0
+  boundary:
+    southWest:
+      lat: 50.96520324800008
+      lng: 22.77253110500004
+    northEast:
+      lat: 51.08807929900007
+      lng: 22.953422657000033
+- slug: jarczow
+  name: Jarczów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.4491
+  lon: 23.6089
+  lands:
+    grzeda_sokalska: 37.0851
+    roztocze_srodkowe: 32.4436
+    rownina_belska: 30.4713
+  boundary:
+    southWest:
+      lat: 50.38350305600005
+      lng: 23.482203712000057
+    northEast:
+      lat: 50.51282474200008
+      lng: 23.68913856200004
+- slug: tyszowce
+  name: Tyszowce
+  type: town
+  voivodeship: lubelskie
+  lat: 50.63074
+  lon: 23.68252
+  lands:
+    kotlina_hrubieszowska: 58.1101
+    grzeda_sokalska: 41.8899
+  boundary:
+    southWest:
+      lat: 50.56606957200006
+      lng: 23.578413311000077
+    northEast:
+      lat: 50.69282635500008
+      lng: 23.772992844000044
+- slug: nielisz
+  name: Nielisz
+  type: town
+  voivodeship: lubelskie
+  lat: 50.81446
+  lon: 23.03189
+  lands:
+    kotlina_zamojska: 79.4242
+    wynioslosc_gielczewska: 18.4603
+    dzialy_grabowieckie: 2.1154
+  boundary:
+    southWest:
+      lat: 50.751963594000074
+      lng: 22.934357918000046
+    northEast:
+      lat: 50.869116414000075
+      lng: 23.180060938000054
+- slug: lesna_podlaska
+  name: Leśna Podlaska
+  type: town
+  voivodeship: lubelskie
+  lat: 52.12725
+  lon: 23.04957
+  lands:
+    rownina_lukowska: 54.5324
+    wysoczyzna_siedlecka: 45.4676
+  boundary:
+    southWest:
+      lat: 52.07598454100008
+      lng: 22.933059257000025
+    northEast:
+      lat: 52.17816897700004
+      lng: 23.15318931400003
+- slug: terespol
+  name: Terespol
+  type: town
+  voivodeship: lubelskie
+  lat: 52.09205
+  lon: 23.55696
+  lands:
+    wysoczyzna_parczewskokodenska: 36.8264
+    podlaski_przelom_bugu: 10.4843
+    rownina_lukowska: 5.8828
+  boundary:
+    southWest:
+      lat: 51.99318451000005
+      lng: 23.424558955000066
+    northEast:
+      lat: 52.18258496100003
+      lng: 23.679448700000023
+- slug: chelm
+  name: Chełm
+  type: town
+  voivodeship: lubelskie
+  lat: 51.15087
+  lon: 23.55237
+  lands:
+    pagory_chelmskie: 52.9928
+    obnizenie_dubienskie: 34.3829
+    dzialy_grabowieckie: 12.6243
+  boundary:
+    southWest:
+      lat: 51.03838758400008
+      lng: 23.30076963500005
+    northEast:
+      lat: 51.26375299100005
+      lng: 23.59342296500006
+- slug: sawin
+  name: Sawin
+  type: town
+  voivodeship: lubelskie
+  lat: 51.28313
+  lon: 23.47974
+  lands:
+    pagory_chelmskie: 73.4055
+    obnizenie_dubienskie: 18.3557
+    pojezierze_leczynskowlodawskie: 8.2388
+  boundary:
+    southWest:
+      lat: 51.18411351800006
+      lng: 23.336672672000077
+    northEast:
+      lat: 51.37404335800005
+      lng: 23.593111304000047
+- slug: hrubieszow
+  name: Hrubieszów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.8101
+  lon: 23.88393
+  lands:
+    kotlina_hrubieszowska: 67.1622
+    dzialy_grabowieckie: 23.7429
+    grzeda_horodelska: 9.0949
+  boundary:
+    southWest:
+      lat: 50.76455994300005
+      lng: 23.838058836000073
+    northEast:
+      lat: 50.84902957700007
+      lng: 23.940063764000058
+- slug: mircze
+  name: Mircze
+  type: town
+  voivodeship: lubelskie
+  lat: 50.63697
+  lon: 23.87784
+  lands:
+    kotlina_hrubieszowska: 83.2349
+    grzeda_sokalska: 15.252
+  boundary:
+    southWest:
+      lat: 50.55637007300004
+      lng: 23.74514173400007
+    northEast:
+      lat: 50.71711269800005
+      lng: 24.089224271000035
+- slug: krasnystaw
+  name: Krasnystaw
+  type: town
+  voivodeship: lubelskie
+  lat: 51.00047
+  lon: 23.06122
+  lands:
+    wynioslosc_gielczewska: 46.9145
+    dzialy_grabowieckie: 37.4679
+    obnizenie_dorohuckie: 15.6176
+  boundary:
+    southWest:
+      lat: 50.931135082000026
+      lng: 23.005733616000043
+    northEast:
+      lat: 51.07268311900003
+      lng: 23.314550673000042
+- slug: lubartow
+  name: Lubartów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.45836
+  lon: 22.60863
+  lands:
+    wysoczyzna_lubartowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.43392651400006
+      lng: 22.57456220800003
+    northEast:
+      lat: 51.47976243800008
+      lng: 22.637368654000056
+- slug: kock
+  name: Kock
+  type: town
+  voivodeship: lubelskie
+  lat: 51.64989
+  lon: 22.43157
+  lands:
+    rownina_lukowska: 52.7672
+    wysoczyzna_zelechowska: 25.926
+    pradolina_wieprza: 21.3068
+  boundary:
+    southWest:
+      lat: 51.593299642000034
+      lng: 22.32625345200006
+    northEast:
+      lat: 51.71381085200005
+      lng: 22.535518473000025
+- slug: borzechow
+  name: Borzechów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.08305
+  lon: 22.27818
+  lands:
+    wzniesienia_urzedowskie: 79.3805
+    rownina_belzycka: 20.6195
+  boundary:
+    southWest:
+      lat: 51.03159119500003
+      lng: 22.16752867100007
+    northEast:
+      lat: 51.12975520100008
+      lng: 22.341189004000057
+- slug: belzyce
+  name: Bełżyce
+  type: town
+  voivodeship: lubelskie
+  lat: 51.1584
+  lon: 22.24418
+  lands:
+    rownina_belzycka: 100.0
+  boundary:
+    southWest:
+      lat: 51.09718701700007
+      lng: 22.11961070600006
+    northEast:
+      lat: 51.22110284400003
+      lng: 22.369002459000058
+- slug: bychawa
+  name: Bychawa
+  type: town
+  voivodeship: lubelskie
+  lat: 51.0027
+  lon: 22.54171
+  lands:
+    wynioslosc_gielczewska: 97.5565
+    roztocze_zachodnie: 2.4435
+  boundary:
+    southWest:
+      lat: 50.91704768300008
+      lng: 22.44672207800005
+    northEast:
+      lat: 51.08708592200003
+      lng: 22.63006623600006
+- slug: niemce
+  name: Niemce
+  type: town
+  voivodeship: lubelskie
+  lat: 51.35139
+  lon: 22.55517
+  lands:
+    wysoczyzna_lubartowska: 78.7803
+    plaskowyz_naleczowski: 21.2197
+  boundary:
+    southWest:
+      lat: 51.285430579000035
+      lng: 22.41782383800006
+    northEast:
+      lat: 51.40886971100008
+      lng: 22.70134973300003
+- slug: kazimierz_dolny
+  name: Kazimierz Dolny
+  type: town
+  voivodeship: lubelskie
+  lat: 51.32388
+  lon: 22.00214
+  lands:
+    plaskowyz_naleczowski: 64.2143
+    rownina_belzycka: 25.8787
+    malopolski_przelom_wisly: 9.9071
+  boundary:
+    southWest:
+      lat: 51.27118465500007
+      lng: 21.890574807000064
+    northEast:
+      lat: 51.381034449000026
+      lng: 22.084139522000044
+- slug: kurow
+  name: Kurów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.40703
+  lon: 22.19497
+  lands:
+    wysoczyzna_lubartowska: 76.5088
+    plaskowyz_naleczowski: 23.4912
+  boundary:
+    southWest:
+      lat: 51.331048053000075
+      lng: 22.095533514000067
+    northEast:
+      lat: 51.48755868400008
+      lng: 22.253694305000067
+- slug: borki
+  name: Borki
+  type: town
+  voivodeship: lubelskie
+  lat: 51.72534
+  lon: 22.50277
+  lands:
+    rownina_lukowska: 95.3408
+    pradolina_wieprza: 4.6592
+  boundary:
+    southWest:
+      lat: 51.66007974400003
+      lng: 22.39685520000006
+    northEast:
+      lat: 51.79715076200006
+      lng: 22.60002440200003
+- slug: kloczew
+  name: Kłoczew
+  type: town
+  voivodeship: lubelskie
+  lat: 51.73632
+  lon: 21.95743
+  lands:
+    wysoczyzna_zelechowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.68365526600007
+      lng: 21.83574765800006
+    northEast:
+      lat: 51.79380588300006
+      lng: 22.09193190700006
+- slug: krynice
+  name: Krynice
+  type: town
+  voivodeship: lubelskie
+  lat: 50.57924
+  lon: 23.39944
+  lands:
+    roztocze_srodkowe: 51.3105
+    grzeda_sokalska: 48.6895
+  boundary:
+    southWest:
+      lat: 50.54592780000007
+      lng: 23.297020622000048
+    northEast:
+      lat: 50.61089374800008
+      lng: 23.52247466700004
+- slug: laszczow
+  name: Łaszczów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.53006
+  lon: 23.71062
+  lands:
+    grzeda_sokalska: 100.0
+  boundary:
+    southWest:
+      lat: 50.45933545200006
+      lng: 23.637013892000027
+    northEast:
+      lat: 50.60896887300004
+      lng: 23.811124719000077
+- slug: tomaszow_lubelski
+  name: Tomaszów Lubelski
+  type: town
+  voivodeship: lubelskie
+  lat: 50.44939
+  lon: 23.41536
+  lands:
+    roztocze_srodkowe: 78.5209
+    grzeda_sokalska: 21.4791
+  boundary:
+    southWest:
+      lat: 50.38862597000008
+      lng: 23.268835010000032
+    northEast:
+      lat: 50.51031098200008
+      lng: 23.59847155500006
+- slug: miaczyn
+  name: Miączyn
+  type: town
+  voivodeship: lubelskie
+  lat: 50.735
+  lon: 23.55696
+  lands:
+    kotlina_hrubieszowska: 66.9705
+    dzialy_grabowieckie: 29.1147
+    kotlina_zamojska: 3.9148
+  boundary:
+    southWest:
+      lat: 50.675801066000076
+      lng: 23.438180768000052
+    northEast:
+      lat: 50.80037906700005
+      lng: 23.670438482000066
+- slug: labunie
+  name: Łabunie
+  type: town
+  voivodeship: lubelskie
+  lat: 50.66127
+  lon: 23.35646
+  lands:
+    kotlina_zamojska: 69.2161
+    roztocze_srodkowe: 25.7818
+    kotlina_hrubieszowska: 3.8609
+  boundary:
+    southWest:
+      lat: 50.60891474400006
+      lng: 23.280145213000026
+    northEast:
+      lat: 50.71016381000004
+      lng: 23.433672358000024
+- slug: adamow
+  name: Adamów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.59336
+  lon: 23.2016
+  lands:
+    roztocze_srodkowe: 96.7143
+    kotlina_zamojska: 3.2857
+  boundary:
+    southWest:
+      lat: 50.55035188900007
+      lng: 23.06353148200003
+    northEast:
+      lat: 50.649354981000045
+      lng: 23.311248378000073
+- slug: aleksandrow
+  name: Aleksandrów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.4684
+  lon: 22.89029
+  lands:
+    rownina_bilgorajska: 100.0
+  boundary:
+    southWest:
+      lat: 50.42609584200005
+      lng: 22.79604555700007
+    northEast:
+      lat: 50.50849024200005
+      lng: 22.974655806000044
+- slug: bilgoraj
+  name: Biłgoraj
+  type: town
+  voivodeship: lubelskie
+  lat: 50.56263
+  lon: 22.66711
+  lands:
+    rownina_bilgorajska: 94.5576
+    roztocze_zachodnie: 5.4424
+  boundary:
+    southWest:
+      lat: 50.466070536000075
+      lng: 22.51973786800005
+    northEast:
+      lat: 50.642184247000046
+      lng: 22.84012990800005
+- slug: lukowa
+  name: Łukowa
+  type: town
+  voivodeship: lubelskie
+  lat: 50.40733
+  lon: 22.95841
+  lands:
+    rownina_bilgorajska: 68.9862
+    plaskowyz_tarnogrodzki: 31.0138
+  boundary:
+    southWest:
+      lat: 50.346236168000075
+      lng: 22.82990813400005
+    northEast:
+      lat: 50.46102977000004
+      lng: 23.117982864000055
+- slug: dubienka
+  name: Dubienka
+  type: town
+  voivodeship: lubelskie
+  lat: 51.0331
+  lon: 23.83642
+  lands:
+    obnizenie_dubienskie: 84.9346
+    dolina_srodkowego_bugu: 14.3324
+  boundary:
+    southWest:
+      lat: 50.97320614700004
+      lng: 23.754404332000036
+    northEast:
+      lat: 51.10062508400006
+      lng: 23.936989668000024
+- slug: lesniowice
+  name: Leśniowice
+  type: town
+  voivodeship: lubelskie
+  lat: 51.00391
+  lon: 23.50316
+  lands:
+    dzialy_grabowieckie: 100.0
+  boundary:
+    southWest:
+      lat: 50.94332481200007
+      lng: 23.392144185000063
+    northEast:
+      lat: 51.058070687000054
+      lng: 23.615715588000057
+- slug: zmudz
+  name: Żmudź
+  type: town
+  voivodeship: lubelskie
+  lat: 51.03714
+  lon: 23.67138
+  lands:
+    obnizenie_dubienskie: 68.2408
+    dzialy_grabowieckie: 31.7592
+  boundary:
+    southWest:
+      lat: 50.97566520600003
+      lng: 23.561103812000056
+    northEast:
+      lat: 51.096674661000065
+      lng: 23.80899961800003
+- slug: uchanie
+  name: Uchanie
+  type: town
+  voivodeship: lubelskie
+  lat: 50.90105
+  lon: 23.6955
+  lands:
+    dzialy_grabowieckie: 68.9118
+    grzeda_horodelska: 31.0882
+  boundary:
+    southWest:
+      lat: 50.84938054500003
+      lng: 23.58041772000007
+    northEast:
+      lat: 50.950078389000055
+      lng: 23.808809568000072
+- slug: goscieradow
+  name: Gościeradów
+  type: town
+  voivodeship: lubelskie
+  lat: 50.86667
+  lon: 22.01024
+  lands:
+    wzniesienia_urzedowskie: 82.8855
+    nizina_nadwislanska: 9.2113
+    rownina_bilgorajska: 7.9032
+  boundary:
+    southWest:
+      lat: 50.77301669600007
+      lng: 21.92004711000004
+    northEast:
+      lat: 50.95522814100008
+      lng: 22.096298879000074
+- slug: abramow
+  name: Abramów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.47356
+  lon: 22.27545
+  lands:
+    wysoczyzna_lubartowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.42751971900003
+      lng: 22.18983141600006
+    northEast:
+      lat: 51.51052982200008
+      lng: 22.389677300000074
+- slug: ludwin
+  name: Ludwin
+  type: town
+  voivodeship: lubelskie
+  lat: 51.375
+  lon: 22.94363
+  lands:
+    pojezierze_leczynskowlodawskie: 74.3569
+    plaskowyz_swidnicki: 19.8563
+    wysoczyzna_lubartowska: 5.7868
+  boundary:
+    southWest:
+      lat: 51.326903454000046
+      lng: 22.805336195000052
+    northEast:
+      lat: 51.43453783100006
+      lng: 23.085841627000036
+- slug: adamow
+  name: Adamów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.71125
+  lon: 22.1937
+  lands:
+    wysoczyzna_zelechowska: 91.2322
+    rownina_lukowska: 8.7678
+  boundary:
+    southWest:
+      lat: 51.648138705000065
+      lng: 22.11908647200005
+    northEast:
+      lat: 51.77113075200003
+      lng: 22.31260850700005
+- slug: stanin
+  name: Stanin
+  type: town
+  voivodeship: lubelskie
+  lat: 51.89208
+  lon: 22.1589
+  lands:
+    wysoczyzna_zelechowska: 73.4388
+    rownina_lukowska: 26.5612
+  boundary:
+    southWest:
+      lat: 51.81877621600006
+      lng: 22.04692078100004
+    northEast:
+      lat: 51.96399972100005
+      lng: 22.32835834100007
+- slug: trzebieszow
+  name: Trzebieszów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.99542
+  lon: 22.53549
+  lands:
+    rownina_lukowska: 79.2608
+    wysoczyzna_siedlecka: 20.7392
+  boundary:
+    southWest:
+      lat: 51.926023505000046
+      lng: 22.43352922100007
+    northEast:
+      lat: 52.06837573800004
+      lng: 22.63353206100004
+- slug: parczew
+  name: Parczew
+  type: town
+  voivodeship: lubelskie
+  lat: 51.60605
+  lon: 22.87674
+  lands:
+    zakleslosc_sosnowicka: 42.111
+    wysoczyzna_parczewskokodenska: 31.5701
+    wysoczyzna_lubartowska: 21.0291
+  boundary:
+    southWest:
+      lat: 51.51699758900003
+      lng: 22.785073536000027
+    northEast:
+      lat: 51.684296964000055
+      lng: 23.047202537000032
+- slug: komarowka_podlaska
+  name: Komarówka Podlaska
+  type: town
+  voivodeship: lubelskie
+  lat: 51.83334
+  lon: 22.94748
+  lands:
+    wysoczyzna_parczewskokodenska: 86.2942
+    zakleslosc_lomaska: 13.7058
+  boundary:
+    southWest:
+      lat: 51.76412006700008
+      lng: 22.832417837000037
+    northEast:
+      lat: 51.89413388000003
+      lng: 23.062554958000078
+- slug: tarnawatka
+  name: Tarnawatka
+  type: town
+  voivodeship: lubelskie
+  lat: 50.5214
+  lon: 23.39597
+  lands:
+    roztocze_srodkowe: 82.5606
+    grzeda_sokalska: 17.4394
+  boundary:
+    southWest:
+      lat: 50.48442722100003
+      lng: 23.29530817600005
+    northEast:
+      lat: 50.562708572000076
+      lng: 23.492576599000074
+- slug: susiec
+  name: Susiec
+  type: town
+  voivodeship: lubelskie
+  lat: 50.4369
+  lon: 23.20033
+  lands:
+    roztocze_srodkowe: 77.8997
+    rownina_bilgorajska: 20.9103
+    roztocze_wschodnie: 1.19
+  boundary:
+    southWest:
+      lat: 50.365270578000036
+      lng: 23.04802605900005
+    northEast:
+      lat: 50.50566874400005
+      lng: 23.358146430000033
+- slug: telatyn
+  name: Telatyn
+  type: town
+  voivodeship: lubelskie
+  lat: 50.5278
+  lon: 23.87129
+  lands:
+    grzeda_sokalska: 100.0
+  boundary:
+    southWest:
+      lat: 50.47478614900007
+      lng: 23.772623182000075
+    northEast:
+      lat: 50.58756136900007
+      lng: 23.98797372100006
+- slug: hansk
+  name: Hańsk
+  type: town
+  voivodeship: lubelskie
+  lat: 51.42317
+  lon: 23.44534
+  lands:
+    pojezierze_leczynskowlodawskie: 99.9563
+    garb_wlodawski: 0.0437
+  boundary:
+    southWest:
+      lat: 51.351045018000036
+      lng: 23.27182005700007
+    northEast:
+      lat: 51.497769824000045
+      lng: 23.556926489000034
+- slug: stary_brus
+  name: Stary Brus
+  type: town
+  voivodeship: lubelskie
+  lat: 51.49191
+  lon: 23.27908
+  lands:
+    garb_wlodawski: 63.4067
+    pojezierze_leczynskowlodawskie: 34.5613
+    zakleslosc_sosnowicka: 2.032
+  boundary:
+    southWest:
+      lat: 51.41055722300007
+      lng: 23.14688680300003
+    northEast:
+      lat: 51.57732635700006
+      lng: 23.378347086000076
+- slug: komarowosada
+  name: Komarów-Osada
+  type: town
+  voivodeship: lubelskie
+  lat: 50.63831
+  lon: 23.51364
+  lands:
+    kotlina_hrubieszowska: 60.1819
+    grzeda_sokalska: 37.9301
+    kotlina_zamojska: 1.701
+  boundary:
+    southWest:
+      lat: 50.58412405900003
+      lng: 23.395455491000064
+    northEast:
+      lat: 50.689448363000054
+      lng: 23.604276431000073
+- slug: konstantynow
+  name: Konstantynów
+  type: town
+  voivodeship: lubelskie
+  lat: 52.20762
+  lon: 23.08243
+  lands:
+    wysoczyzna_siedlecka: 91.9564
+    podlaski_przelom_bugu: 4.6671
+    rownina_lukowska: 3.3765
+  boundary:
+    southWest:
+      lat: 52.131366125000056
+      lng: 23.030841278000025
+    northEast:
+      lat: 52.287841409000066
+      lng: 23.181565970000065
+- slug: bialopole
+  name: Białopole
+  type: town
+  voivodeship: lubelskie
+  lat: 50.9692
+  lon: 23.78058
+  lands:
+    obnizenie_dubienskie: 83.4741
+    dzialy_grabowieckie: 8.9903
+    grzeda_horodelska: 7.5356
+  boundary:
+    southWest:
+      lat: 50.922431215000074
+      lng: 23.671985033000055
+    northEast:
+      lat: 51.01658806000006
+      lng: 23.887617496000075
+- slug: wojslawice
+  name: Wojsławice
+  type: town
+  voivodeship: lubelskie
+  lat: 50.92741
+  lon: 23.52119
+  lands:
+    dzialy_grabowieckie: 99.9331
+    grzeda_horodelska: 0.0669
+  boundary:
+    southWest:
+      lat: 50.86981681100008
+      lng: 23.43182542200003
+    northEast:
+      lat: 50.98332401400006
+      lng: 23.69689855400003
+- slug: batorz
+  name: Batorz
+  type: town
+  voivodeship: lubelskie
+  lat: 50.85514
+  lon: 22.4754
+  lands:
+    roztocze_zachodnie: 100.0
+  boundary:
+    southWest:
+      lat: 50.811829841000076
+      lng: 22.403475471000036
+    northEast:
+      lat: 50.912897513000075
+      lng: 22.547762265000074
+- slug: janow_lubelski
+  name: Janów Lubelski
+  type: town
+  voivodeship: lubelskie
+  lat: 50.66011
+  lon: 22.33666
+  lands:
+    rownina_bilgorajska: 86.0219
+    roztocze_zachodnie: 13.9781
+  boundary:
+    southWest:
+      lat: 50.58014575100003
+      lng: 22.23249955400007
+    northEast:
+      lat: 50.74795759400007
+      lng: 22.52343374700007
+- slug: potok_wielki
+  name: Potok Wielki
+  type: town
+  voivodeship: lubelskie
+  lat: 50.74508
+  lon: 22.22183
+  lands:
+    wzniesienia_urzedowskie: 58.4956
+    rownina_bilgorajska: 41.5044
+  boundary:
+    southWest:
+      lat: 50.66209875900006
+      lng: 22.141785249000066
+    northEast:
+      lat: 50.84059478800003
+      lng: 22.29205130300005
+- slug: izbica
+  name: Izbica
+  type: town
+  voivodeship: lubelskie
+  lat: 50.8976
+  lon: 23.15053
+  lands:
+    dzialy_grabowieckie: 67.0361
+    wynioslosc_gielczewska: 32.7604
+  boundary:
+    southWest:
+      lat: 50.84171851600007
+      lng: 23.019578464000062
+    northEast:
+      lat: 50.944698403000075
+      lng: 23.288663599000074
+- slug: lopiennik_gorny
+  name: Łopiennik Górny
+  type: town
+  voivodeship: lubelskie
+  lat: 51.04333
+  lon: 23.04113
+  lands:
+    wynioslosc_gielczewska: 66.8894
+    obnizenie_dorohuckie: 26.083
+    pagory_chelmskie: 4.0142
+  boundary:
+    southWest:
+      lat: 50.99176927700006
+      lng: 22.951954143000023
+    northEast:
+      lat: 51.09891051000005
+      lng: 23.22864581300007
+- slug: garbow
+  name: Garbów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.37531
+  lon: 22.34195
+  lands:
+    wysoczyzna_lubartowska: 70.2069
+    plaskowyz_naleczowski: 29.7931
+  boundary:
+    southWest:
+      lat: 51.31691174100007
+      lng: 22.251027003000047
+    northEast:
+      lat: 51.42996514400005
+      lng: 22.436757637000028
+- slug: puchaczow
+  name: Puchaczów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.29635
+  lon: 23.00669
+  lands:
+    pojezierze_leczynskowlodawskie: 39.0215
+    obnizenie_dorohuckie: 38.0497
+    plaskowyz_swidnicki: 22.9288
+  boundary:
+    southWest:
+      lat: 51.232611070000075
+      lng: 22.925102198000047
+    northEast:
+      lat: 51.36830569800003
+      lng: 23.079957319000073
+- slug: stoczek_lukowski
+  name: Stoczek Łukowski
+  type: town
+  voivodeship: lubelskie
+  lat: 51.95916
+  lon: 22.01903
+  lands:
+    wysoczyzna_zelechowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.88762434100005
+      lng: 21.86638019000003
+    northEast:
+      lat: 52.02171344700008
+      lng: 22.166441629000076
+- slug: poniatowa
+  name: Poniatowa
+  type: town
+  voivodeship: lubelskie
+  lat: 51.21486
+  lon: 22.10409
+  lands:
+    rownina_belzycka: 96.0067
+    obnizenie_chodelskie: 3.9933
+  boundary:
+    southWest:
+      lat: 51.153561687000035
+      lng: 22.024685746000046
+    northEast:
+      lat: 51.278208523000046
+      lng: 22.171029297000075
+- slug: laziska
+  name: Łaziska
+  type: town
+  voivodeship: lubelskie
+  lat: 51.15127
+  lon: 21.84505
+  lands:
+    malopolski_przelom_wisly: 66.9589
+    wzniesienia_urzedowskie: 31.3095
+    obnizenie_chodelskie: 1.7316
+  boundary:
+    southWest:
+      lat: 51.08004699500003
+      lng: 21.785534306000045
+    northEast:
+      lat: 51.22486812400007
+      lng: 21.92595794500005
+- slug: karczmiska
+  name: Karczmiska
+  type: town
+  voivodeship: lubelskie
+  lat: 51.24628
+  lon: 22.02566
+  lands:
+    rownina_belzycka: 70.9468
+    obnizenie_chodelskie: 15.2075
+    malopolski_przelom_wisly: 13.8457
+  boundary:
+    southWest:
+      lat: 51.18844816200004
+      lng: 21.899259035000057
+    northEast:
+      lat: 51.300821204000044
+      lng: 22.088257292000037
+- slug: opole_lubelskie
+  name: Opole Lubelskie
+  type: town
+  voivodeship: lubelskie
+  lat: 51.1195
+  lon: 22.00756
+  lands:
+    wzniesienia_urzedowskie: 58.2207
+    obnizenie_chodelskie: 37.1069
+    malopolski_przelom_wisly: 3.3043
+  boundary:
+    southWest:
+      lat: 51.04599839200006
+      lng: 21.86920206600007
+    northEast:
+      lat: 51.19624480300007
+      lng: 22.109633127000052
+- slug: sitno
+  name: Sitno
+  type: town
+  voivodeship: lubelskie
+  lat: 50.74243
+  lon: 23.39066
+  lands:
+    kotlina_zamojska: 70.5341
+    kotlina_hrubieszowska: 17.8304
+    dzialy_grabowieckie: 11.6355
+  boundary:
+    southWest:
+      lat: 50.68138756700006
+      lng: 23.298209502000077
+    northEast:
+      lat: 50.803530024000054
+      lng: 23.47882199000003
+- slug: podedworze
+  name: Podedwórze
+  type: town
+  voivodeship: lubelskie
+  lat: 51.66646
+  lon: 23.22576
+  lands:
+    zakleslosc_sosnowicka: 65.6359
+    wysoczyzna_parczewskokodenska: 34.3641
+  boundary:
+    southWest:
+      lat: 51.605756676000055
+      lng: 23.13350962900006
+    northEast:
+      lat: 51.71644650700006
+      lng: 23.32089269200003
+- slug: radzyn_podlaski
+  name: Radzyń Podlaski
+  type: town
+  voivodeship: lubelskie
+  lat: 51.78969
+  lon: 22.5618
+  lands:
+    rownina_lukowska: 87.2258
+    zakleslosc_lomaska: 9.9466
+    pradolina_wieprza: 2.8276
+  boundary:
+    southWest:
+      lat: 51.70077519400007
+      lng: 22.475281807000044
+    northEast:
+      lat: 51.88045040700007
+      lng: 22.74338579600004
+- slug: wola_uhruska
+  name: Wola Uhruska
+  type: town
+  voivodeship: lubelskie
+  lat: 51.34742
+  lon: 23.57678
+  lands:
+    pagory_chelmskie: 41.6042
+    pojezierze_leczynskowlodawskie: 33.7155
+    dolina_srodkowego_bugu: 21.9034
+  boundary:
+    southWest:
+      lat: 51.26476010600004
+      lng: 23.44977108100005
+    northEast:
+      lat: 51.43084841000007
+      lng: 23.70931255000005
+- slug: krasnobrod
+  name: Krasnobród
+  type: town
+  voivodeship: lubelskie
+  lat: 50.53036
+  lon: 23.21871
+  lands:
+    roztocze_srodkowe: 100.0
+  boundary:
+    southWest:
+      lat: 50.474167916000056
+      lng: 23.029994380000062
+    northEast:
+      lat: 50.58383257200006
+      lng: 23.325674970000023
+- slug: grabowiec
+  name: Grabowiec
+  type: town
+  voivodeship: lubelskie
+  lat: 50.84057
+  lon: 23.55375
+  lands:
+    dzialy_grabowieckie: 100.0
+  boundary:
+    southWest:
+      lat: 50.77527581600003
+      lng: 23.43392198300006
+    northEast:
+      lat: 50.89832375200007
+      lng: 23.655517084000053
+- slug: lomazy
+  name: Łomazy
+  type: town
+  voivodeship: lubelskie
+  lat: 51.8959
+  lon: 23.23697
+  lands:
+    zakleslosc_lomaska: 52.9692
+    wysoczyzna_parczewskokodenska: 47.0308
+  boundary:
+    southWest:
+      lat: 51.820207038000035
+      lng: 22.967578118000063
+    northEast:
+      lat: 51.97315993900003
+      lng: 23.36458654300003
+- slug: potok_gorny
+  name: Potok Górny
+  type: town
+  voivodeship: lubelskie
+  lat: 50.40418
+  lon: 22.49759
+  lands:
+    plaskowyz_tarnogrodzki: 100.0
+  boundary:
+    southWest:
+      lat: 50.34399138300006
+      lng: 22.404357186000027
+    northEast:
+      lat: 50.462126409000064
+      lng: 22.614941104000025
+- slug: kamien
+  name: Kamień
+  type: town
+  voivodeship: lubelskie
+  lat: 51.09677
+  lon: 23.60617
+  lands:
+    obnizenie_dubienskie: 88.3338
+    dzialy_grabowieckie: 6.7888
+    pagory_chelmskie: 4.8774
+  boundary:
+    southWest:
+      lat: 51.03605294500005
+      lng: 23.521255858000075
+    northEast:
+      lat: 51.14736277600008
+      lng: 23.715960464000034
+- slug: rejowiec_fabryczny
+  name: Rejowiec Fabryczny
+  type: town
+  voivodeship: lubelskie
+  lat: 51.12941
+  lon: 23.14246
+  lands:
+    pagory_chelmskie: 80.4038
+    obnizenie_dorohuckie: 19.5962
+  boundary:
+    southWest:
+      lat: 51.083372602000054
+      lng: 23.049497506000023
+    northEast:
+      lat: 51.174971551000056
+      lng: 23.300912948000075
+- slug: horodlo
+  name: Horodło
+  type: town
+  voivodeship: lubelskie
+  lat: 50.92195
+  lon: 23.96655
+  lands:
+    grzeda_horodelska: 45.2642
+    obnizenie_dubienskie: 36.8345
+    dolina_srodkowego_bugu: 3.9671
+  boundary:
+    southWest:
+      lat: 50.834152532000076
+      lng: 23.875404176000075
+    northEast:
+      lat: 51.00337125800007
+      lng: 24.145036436000055
+- slug: dzierzkowice
+  name: Dzierzkowice
+  type: town
+  voivodeship: lubelskie
+  lat: 50.95728
+  lon: 22.05387
+  lands:
+    wzniesienia_urzedowskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.91515096200004
+      lng: 21.961626911000053
+    northEast:
+      lat: 51.00110050700005
+      lng: 22.195628789000068
+- slug: trzydnik_duzy
+  name: Trzydnik Duży
+  type: town
+  voivodeship: lubelskie
+  lat: 50.85888
+  lon: 22.17307
+  lands:
+    wzniesienia_urzedowskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.79725172600007
+      lng: 22.058566511000038
+    northEast:
+      lat: 50.91874311400005
+      lng: 22.266319855000063
+- slug: lubartow
+  name: Lubartów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.45616
+  lon: 22.55359
+  lands:
+    wysoczyzna_lubartowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.35612001800007
+      lng: 22.458737875000054
+    northEast:
+      lat: 51.545196254000075
+      lng: 22.72025759400003
+- slug: krzczonow
+  name: Krzczonów
+  type: town
+  voivodeship: lubelskie
+  lat: 51.01179
+  lon: 22.71112
+  lands:
+    wynioslosc_gielczewska: 100.0
+  boundary:
+    southWest:
+      lat: 50.93327909300007
+      lng: 22.600351459000024
+    northEast:
+      lat: 51.08473739900006
+      lng: 22.813467503000027
+- slug: zakrzew
+  name: Zakrzew
+  type: town
+  voivodeship: lubelskie
+  lat: 50.8846
+  lon: 22.5895
+  lands:
+    roztocze_zachodnie: 59.2214
+    wynioslosc_gielczewska: 40.7786
+  boundary:
+    southWest:
+      lat: 50.83838056600007
+      lng: 22.453969462000032
+    northEast:
+      lat: 50.95227032100007
+      lng: 22.650137923000045
+- slug: wysokie
+  name: Wysokie
+  type: town
+  voivodeship: lubelskie
+  lat: 50.91145
+  lon: 22.70163
+  lands:
+    wynioslosc_gielczewska: 94.8774
+    roztocze_zachodnie: 5.1226
+  boundary:
+    southWest:
+      lat: 50.83888846700006
+      lng: 22.591280918000052
+    northEast:
+      lat: 50.97603243300006
+      lng: 22.800751347000073
+- slug: leczna
+  name: Łęczna
+  type: town
+  voivodeship: lubelskie
+  lat: 51.29599
+  lon: 22.85804
+  lands:
+    plaskowyz_swidnicki: 95.6919
+    pojezierze_leczynskowlodawskie: 4.3081
+  boundary:
+    southWest:
+      lat: 51.24941998300005
+      lng: 22.76986703400007
+    northEast:
+      lat: 51.34886168600008
+      lng: 22.95659184300007
+- slug: jablon
+  name: Jabłoń
+  type: town
+  voivodeship: lubelskie
+  lat: 51.71031
+  lon: 23.07041
+  lands:
+    wysoczyzna_parczewskokodenska: 82.7097
+    zakleslosc_sosnowicka: 17.2903
+  boundary:
+    southWest:
+      lat: 51.654964620000044
+      lng: 22.96671467300007
+    northEast:
+      lat: 51.76165944200005
+      lng: 23.171461687000033
+- slug: siedliszcze
+  name: Siedliszcze
+  type: town
+  voivodeship: lubelskie
+  lat: 51.20741
+  lon: 23.17945
+  lands:
+    pagory_chelmskie: 57.6282
+    obnizenie_dorohuckie: 42.3718
+  boundary:
+    southWest:
+      lat: 51.14997343600004
+      lng: 23.040437492000024
+    northEast:
+      lat: 51.261916822000046
+      lng: 23.31825801100007
+- slug: modliborzyce
+  name: Modliborzyce
+  type: town
+  voivodeship: lubelskie
+  lat: 50.74285
+  lon: 22.31069
+  lands:
+    rownina_bilgorajska: 43.8016
+    roztocze_zachodnie: 41.3873
+    wzniesienia_urzedowskie: 14.8111
+  boundary:
+    southWest:
+      lat: 50.65265904600005
+      lng: 22.21392908200005
+    northEast:
+      lat: 50.837830050000036
+      lng: 22.460912301000064
+- slug: rejowiec
+  name: Rejowiec
+  type: town
+  voivodeship: lubelskie
+  lat: 51.10627
+  lon: 23.31756
+  lands:
+    pagory_chelmskie: 78.7686
+    dzialy_grabowieckie: 21.2314
+  boundary:
+    southWest:
+      lat: 51.04666701800005
+      lng: 23.146213835000026
+    northEast:
+      lat: 51.16415650400006
+      lng: 23.39500610700003

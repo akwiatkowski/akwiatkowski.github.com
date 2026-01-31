@@ -1,997 +1,3617 @@
 ---
-- slug: bialosliwie
-  name: Białośliwie
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.10202
-  lon: 17.12360
-- slug: brodnica_wielkopolskie
-  name: Brodnica
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.14082
-  lon: 16.89135
-- slug: budzyn
-  name: Budzyń
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.88939
-  lon: 16.98473
-- slug: buk
-  name: Buk
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.35595
-  lon: 16.51884
-- slug: chodziez
-  name: Chodzież
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.98716
-  lon: 16.91315
-- slug: chrzypsko_wielkie
-  name: Chrzypsko Wielkie
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.62843
-  lon: 16.22942
-- slug: czarnkow
-  name: Czarnków
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.90451
-  lon: 16.56468
-- slug: czempin
-  name: Czempin
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.14177
-  lon: 16.75711
-- slug: czerwonak
-  name: Czerwonak
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.46580
-  lon: 16.98113
-- slug: dopiewo
-  name: Dopiewo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.35763
-  lon: 16.67574
-- slug: gniezno
-  name: Gniezno
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.53487
-  lon: 17.59945
-- slug: jarocin
-  name: Jarocin
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.96887
-  lon: 17.49868
-- slug: kaczory
-  name: Kaczory
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.10284
-  lon: 16.88122
-- slug: kiszkowo
-  name: Kiszkowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.58924
-  lon: 17.26128
-- slug: klecko
-  name: Kłecko
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.63094
-  lon: 17.42951
-- slug: kornik
-  name: Kórnik
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.24899
-  lon: 17.08738
-- slug: koscian
-  name: Kościan
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.08052
-  lon: 16.63952
-- slug: krzykosy
-  name: Krzykosy
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.10910
-  lon: 17.37131
-- slug: krzyz_wielkopolski
-  name: Krzyż Wielkopolski
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.87903
-  lon: 16.01072
-- slug: ladek
-  name: Lądek
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.20956
-  lon: 17.92749
-- slug: lobzenica
-  name: Łobżenica
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.25942
-  lon: 17.25561
-- slug: lubasz
-  name: Lubasz
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.85064
-  lon: 16.52107
-- slug: lubon
-  name: Luboń
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.34526
-  lon: 16.87796
-- slug: lubowo
-  name: Łubowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.51231
-  lon: 17.45697
 - slug: margonin
   name: Margonin
   type: town
   voivodeship: wielkopolskie
-  lat: 52.97289
-  lon: 17.09631
-- slug: miasteczko_krajenskie
-  name: Miasteczko Krajeńskie
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.09615
-  lon: 17.00893
-- slug: miedzichowo
-  name: Miedzichowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.37356
-  lon: 15.95717
-- slug: miedzychod
-  name: Międzychód
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.59789
-  lon: 15.89382
-- slug: mieleszyn
-  name: Mieleszyn
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.66874
-  lon: 17.49800
-- slug: miescisko
-  name: Mieścisko
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.74341
-  lon: 17.32790
-- slug: miloslaw
-  name: Miłosław
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.19988
-  lon: 17.48660
-- slug: mosina
-  name: Mosina
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.24520
-  lon: 16.84827
-- slug: murowana_goslina
-  name: Murowana Goślina
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.57317
-  lon: 17.00895
-- slug: nowe_miasto_nad_warta
-  name: Nowe Miasto nad Wartą
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.08995
-  lon: 17.41175
-- slug: nowy_tomysl
-  name: Nowy Tomyśl
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.31672
-  lon: 16.12867
-- slug: oborniki
-  name: Oborniki
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.64708
-  lon: 16.81102
-- slug: obrzycko
-  name: Obrzycko
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.70812
-  lon: 16.52572
-- slug: opalenica
-  name: Opalenica
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.30843
-  lon: 16.41217
-- slug: orchowo
-  name: Orchowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.50207
-  lon: 18.01497
-- slug: ostrorog
-  name: Ostroróg
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.62645
-  lon: 16.45096
-- slug: pila
-  name: Piła
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.15156
-  lon: 16.74056
-- slug: pniewy
-  name: Pniewy
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.50875
-  lon: 16.25536
-- slug: pobiedziska
-  name: Pobiedziska
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.47635
-  lon: 17.28258
-- slug: polajewo
-  name: Połajewo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.79882
-  lon: 16.73223
-- slug: powidz
-  name: Powidz
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.41242
-  lon: 17.91781
-- slug: poznan
-  name: Poznań
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.40803
-  lon: 16.93222
-- slug: pyzdry
-  name: Pyzdry
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.16851
-  lon: 17.68735
-- slug: rakoniewice
-  name: Rakoniewice
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.14340
-  lon: 16.27424
-- slug: rogozno
-  name: Rogoźno
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.75043
-  lon: 16.99487
-- slug: ryczywol
-  name: Ryczywól
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.81387
-  lon: 16.83351
-- slug: siedlec
-  name: Siedlec
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.13697
-  lon: 16.00250
-- slug: sierakow
-  name: Sieraków
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.64984
-  lon: 16.07992
-- slug: skoki
-  name: Skoki
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.67160
-  lon: 17.15349
-- slug: slupca
-  name: Słupca
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.28749
-  lon: 17.87326
-- slug: smigiel
-  name: Śmigiel
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.01247
-  lon: 16.52589
-- slug: steszew
-  name: Stęszew
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.27877
-  lon: 16.69841
-- slug: strzalkowo
-  name: Strzałkowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.31048
-  lon: 17.81267
-- slug: swarzedz
-  name: Swarzedz
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.40933
-  lon: 17.08448
-- slug: szamotuly
-  name: Szamotuły
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.61066
-  lon: 16.58718
-- slug: tarnowo_podgorne
-  name: Tarnowo Podgórne
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.464662
-  lon: 16.662989
-- slug: trzcianka
-  name: Trzcianka
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.041426
-  lon: 16.460293
-- slug: trzemeszno
-  name: Trzemeszno
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.55852
-  lon: 17.81934
-- slug: wagrowiec
-  name: Wągrowiec
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.80801
-  lon: 17.20462
-- slug: wolsztyn
-  name: Wolsztyn
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.11052
-  lon: 16.11569
-- slug: wronki
-  name: Wronki
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.70886
-  lon: 16.37687
-- slug: wyrzysk
-  name: Wyrzysk
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.15522
-  lon: 17.26410
-- slug: zagorow
-  name: Zagórów
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.16815
-  lon: 17.89667
-- slug: zaniemysl
-  name: Zaniemyśl
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.15531
-  lon: 17.16299
-- slug: zbaszyn
-  name: Zbąszyń
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.25220
-  lon: 15.92514
-- slug: zerkow
-  name: Żerków
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.06781
-  lon: 17.56365
-- slug: krzywin
-  name: Krzywiń
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.96173
-  lon: 16.82036
-- slug: dolsk
-  name: Dolsk
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.98722
-  lon: 17.06309
-- slug: ksiaz_wielkopolski
-  name: Książ Wielkopolski
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.06031
-  lon: 17.23921
-- slug: leszno
-  name: Leszno
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.84502
-  lon: 16.58141
-- slug: swieciechowa
-  name: Święciechowa
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.85424
-  lon: 16.49300
-- slug: wloszakowice
-  name: Włoszakowice
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.92734
-  lon: 16.36168
-- slug: wijewo
-  name: Wijewo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.91623
-  lon: 16.18504
-- slug: przemet
-  name: Przemęt
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.00688
-  lon: 16.30314
-- slug: wielichowo
-  name: Wielichowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.11717
-  lon: 16.35121
-- slug: grodzisk_wielkopolski
-  name: Grodzisk Wielkopolski
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.22476
-  lon: 16.36425
-- slug: suchy_las
-  name: Suchy Las
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.47244
-  lon: 16.87632
-- slug: rokietnica
-  name: Rokietnica
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.51226
-  lon: 16.74105
-- slug: kleszczewo
-  name: Kleszczewo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.33304
-  lon: 17.17347
-- slug: szydlowo
-  name: Szydłowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.16212
-  lon: 16.61248
-- slug: wielen
-  name: Wieleń
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.89359
-  lon: 16.17216
-- slug: wapno
-  name: Wapno
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.90643
-  lon: 17.47542
-- slug: damaslawek
-  name: Damasławek
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.83742
-  lon: 17.49773
-- slug: czerniejewo
-  name: Czerniejewo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.42358
-  lon: 17.48881
-- slug: wrzesnia
-  name: Września
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.32528
-  lon: 17.56571
-- slug: lwowek
-  name: Lwówek
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.44807
-  lon: 16.17834
-- slug: kwilcz
-  name: Kwilcz
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.55320
-  lon: 16.08633
-- slug: bojanowo
-  name: Bojanowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.70534
-  lon: 16.74689
-- slug: ostrowite
-  name: Ostrowite
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.37959
-  lon: 18.04293
-- slug: kleczew
-  name: Kleczew
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.36849
-  lon: 18.17751
-- slug: wilczyn
-  name: Wilczyn
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.48447
-  lon: 18.16309
-- slug: krajenka
-  name: Krajenka
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.29253
-  lon: 16.98927
-- slug: zlotow
-  name: Złotów
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.35897
-  lon: 17.04043
-- slug: zakrzewo
-  name: Zakrzewo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.40954
-  lon: 17.15201
-- slug: rawicz
-  name: Rawicz
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.60844
-  lon: 16.85778
-- slug: pakoslaw
-  name: Pakosław
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.61377
-  lon: 17.05828
-- slug: sulmierzyce
-  name: Sulmierzyce (Krotoszyn)
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.60438
-  lon: 17.52486
-- slug: odolanow
-  name: Odolanów
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.57431
-  lon: 17.67111
-- slug: ostrow_wielkopolski
-  name: Ostrów Wielkopolski
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.65042
-  lon: 17.81531
-- slug: kazmierz
-  name: Kaźmierz
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.51289
-  lon: 16.57969
-- slug: witkowo
-  name: Witkowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.43970
-  lon: 17.77033
-- slug: kamieniec
-  name: Kamieniec
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.16510
-  lon: 16.46708
-- slug: granowo
-  name: Granowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.22129
-  lon: 16.53265
-- slug: niechanowo
-  name: Niechanowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.46711
-  lon: 17.68553
-- slug: kolaczkowo
-  name: Kołaczkowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.21667
-  lon: 17.62202
-- slug: sroda_wielkopolska
-  name: Środa Wielkopolska
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.21919
-  lon: 17.27457
-- slug: poniec
-  name: Poniec
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.76127
-  lon: 16.80800
-- slug: rydzyna
-  name: Rydzyna
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.78899
-  lon: 16.66363
-- slug: krzemieniewo
-  name: Krzemieniewo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.85769
-  lon: 16.84104
-- slug: osieczna
-  name: Osieczna
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.90569
-  lon: 16.67796
-- slug: komorniki
-  name: Komorniki
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.33488
-  lon: 16.80723
-- slug: kuslin
-  name: Kuślin
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.36214
-  lon: 16.31696
-- slug: nekla
-  name: Nekla
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.36434
-  lon: 17.40993
-- slug: kostrzyn
-  name: Kostrzyn
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.39609
-  lon: 17.21904
-- slug: lipka
-  name: Lipka
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.49536
-  lon: 17.24737
-- slug: jaraczewo
-  name: Jaraczewo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.96845
-  lon: 17.29921
-- slug: kozmin_wielkopolski
-  name: Koźmin Wielkopolski
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.825711
-  lon: 17.453741
-- slug: pogorzela
-  name: Pogorzela
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.82322
-  lon: 17.23398
-- slug: pepowo
-  name: Pępowo
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.75749
-  lon: 17.11845
-- slug: krobia
-  name: Krobia
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.77258
-  lon: 16.98284
-- slug: golancz
-  name: Gołańcz
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.94105
-  lon: 17.30178
-- slug: ostrzeszow
-  name: Ostrzeszów
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.42518
-  lon: 17.93315
-- slug: mikstat
-  name: Mikstat
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.53081
-  lon: 17.97435
-- slug: raszkow
-  name: Raszków
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.71752
-  lon: 17.72527
-- slug: dobrzyca
-  name: Dobrzyca
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.86712
-  lon: 17.60391
-- slug: kotlin
-  name: Kotlin
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.91776
-  lon: 17.64974
-- slug: lipno
-  name: Lipno
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.91734
-  lon: 16.56553
-- slug: pleszew
-  name: Pleszew
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.89662
-  lon: 17.78293
-- slug: czermin
-  name: Czermin
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.94913
-  lon: 17.74894
-- slug: chocz
-  name: Chocz
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.97473
-  lon: 17.87048
-- slug: gizalki
-  name: Gizałki
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.04510
-  lon: 17.76542
-- slug: grodziec
-  name: Grodziec
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.03750
-  lon: 18.06068
-- slug: rzgow
-  name: Rzgów
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.15350
-  lon: 18.04901
-- slug: stare_miasto
-  name: Stare Miasto
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.18025
-  lon: 18.21483
-- slug: konin
-  name: Konin
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.23116
-  lon: 18.25105
-- slug: srem
-  name: Śrem
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.08483
-  lon: 17.01238
-- slug: miejska_gorka
-  name: Miejska Górka
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.65174
-  lon: 16.95969
-- slug: jutrosin
-  name: Jutrosin
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.64918
-  lon: 17.17152
-- slug: kobylin
-  name: Kobylin
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.71517
-  lon: 17.22920
-- slug: krotoszyn
-  name: Krotoszyn
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.69709
-  lon: 17.43794
-- slug: rozdrazew
-  name: Rozdrażew
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.77844
-  lon: 17.50376
-- slug: ujscie
-  name: Ujście
-  type: town
-  voivodeship: wielkopolskie
-  lat: 53.05365
-  lon: 16.72177
+  lat: 52.96134
+  lon: 17.0919
+  lands:
+    pojezierze_chodzieskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.89682798700005
+      lng: 16.989037174000032
+    northEast:
+      lat: 53.02108147400003
+      lng: 17.20826203000007
 - slug: drawsko
   name: Drawsko
   type: town
   voivodeship: wielkopolskie
-  lat: 52.85363
-  lon: 16.02896
+  lat: 52.80054
+  lon: 16.03848
+  lands:
+    kotlina_gorzowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.728526629000044
+      lng: 15.893221426000025
+    northEast:
+      lat: 52.87396585600004
+      lng: 16.142866482000045
+- slug: polajewo
+  name: Połajewo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.78838
+  lon: 16.68082
+  lands:
+    pojezierze_chodzieskie: 57.7884
+    kotlina_gorzowska: 42.2116
+  boundary:
+    southWest:
+      lat: 52.72578037100004
+      lng: 16.517404571000043
+    northEast:
+      lat: 52.85420233200006
+      lng: 16.800130848000038
+- slug: wloszakowice
+  name: Włoszakowice
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.91708
+  lon: 16.3818
+  lands:
+    pojezierze_slawskie: 48.3867
+    rownina_koscianska: 25.0332
+    pojezierze_krzywinskie: 21.9244
+  boundary:
+    southWest:
+      lat: 51.853879619000054
+      lng: 16.276611177000063
+    northEast:
+      lat: 51.986567283000056
+      lng: 16.497253001000047
+- slug: rydzyna
+  name: Rydzyna
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.77738
+  lon: 16.65064
+  lands:
+    wysoczyzna_leszczynska: 100.0
+  boundary:
+    southWest:
+      lat: 51.70487599300003
+      lng: 16.565294099000027
+    northEast:
+      lat: 51.85051871200005
+      lng: 16.790447133000043
+- slug: czajkow
+  name: Czajków
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.48167
+  lon: 18.33525
+  lands:
+    kotlina_grabowska: 87.7292
+    wysoczyzna_zloczewska: 12.2708
+  boundary:
+    southWest:
+      lat: 51.41981705200004
+      lng: 18.22103985700005
+    northEast:
+      lat: 51.54160443100005
+      lng: 18.38249212000005
+- slug: kaczory
+  name: Kaczory
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.14097
+  lon: 16.89946
+  lands:
+    dolina_gwdy: 57.3502
+    pojezierze_poludniowokrajenskie: 23.9853
+    dolina_srodkowej_noteci: 18.6645
+  boundary:
+    southWest:
+      lat: 53.05045466300004
+      lng: 16.770408191000058
+    northEast:
+      lat: 53.21971220200004
+      lng: 16.980705649000072
+- slug: pila
+  name: Piła
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.13652
+  lon: 16.75552
+  lands:
+    dolina_gwdy: 68.9426
+    dolina_srodkowej_noteci: 30.6525
+    pojezierze_waleckie: 0.4049
+  boundary:
+    southWest:
+      lat: 53.06825256500008
+      lng: 16.67338958000005
+    northEast:
+      lat: 53.203387150000026
+      lng: 16.85696957300007
 - slug: wysoka
   name: Wysoka
   type: town
   voivodeship: wielkopolskie
-  lat: 53.18176
-  lon: 17.07945
-- slug: duszniki
-  name: Duszniki
+  lat: 53.19505
+  lon: 17.07975
+  lands:
+    pojezierze_poludniowokrajenskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.14229768000007
+      lng: 16.94878029100005
+    northEast:
+      lat: 53.23986655200008
+      lng: 17.187916244000064
+- slug: ujscie
+  name: Ujście
   type: town
   voivodeship: wielkopolskie
-  lat: 52.44819
-  lon: 16.40587
-- slug: doruchow
-  name: Doruchów
+  lat: 53.03226
+  lon: 16.71477
+  lands:
+    pojezierze_chodzieskie: 53.6552
+    dolina_srodkowej_noteci: 44.5038
+    kotlina_gorzowska: 1.841
+  boundary:
+    southWest:
+      lat: 52.95248727000006
+      lng: 16.607642696000028
+    northEast:
+      lat: 53.11442263600003
+      lng: 16.812411690000033
+- slug: kleszczewo
+  name: Kleszczewo
   type: town
   voivodeship: wielkopolskie
-  lat: 51.41544
-  lon: 18.07582
-- slug: dominowo
-  name: Dominowo
+  lat: 52.32974
+  lon: 17.1465
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.27589051800004
+      lng: 17.04917348600003
+    northEast:
+      lat: 52.37726143300006
+      lng: 17.240580118000025
+- slug: obrzycko
+  name: Obrzycko
   type: town
   voivodeship: wielkopolskie
-  lat: 52.29040
-  lon: 17.35691
-- slug: puszczykowo
-  name: Puszczykowo
+  lat: 52.7022
+  lon: 16.5305
+  lands:
+    kotlina_gorzowska: 69.1588
+    pojezierze_poznanskie: 30.8412
+  boundary:
+    southWest:
+      lat: 52.63515770500004
+      lng: 16.435502343000053
+    northEast:
+      lat: 52.75948387100004
+      lng: 16.63673849500003
+- slug: swarzedz
+  name: Swarzędz
   type: town
   voivodeship: wielkopolskie
-  lat: 52.28517
-  lon: 16.84935
-- slug: jastrowie
-  name: Jastrowie
+  lat: 52.43455
+  lon: 17.0987
+  lands:
+    rownina_wrzesinska: 86.2169
+    pojezierze_gnieznienskie: 13.7831
+  boundary:
+    southWest:
+      lat: 52.35787047900004
+      lng: 17.019955886000048
+    northEast:
+      lat: 52.50731742000005
+      lng: 17.208435740000027
+- slug: miejska_gorka
+  name: Miejska Górka
   type: town
   voivodeship: wielkopolskie
-  lat: 53.42000801916797
-  lon: 16.812910399265768
-- slug: okonek
-  name: Okonek
+  lat: 51.67309
+  lon: 16.9772
+  lands:
+    wysoczyzna_kaliska: 96.7455
+    kotlina_zmigrodzka: 3.2545
+  boundary:
+    southWest:
+      lat: 51.62039579700007
+      lng: 16.865089150000074
+    northEast:
+      lat: 51.71971373300005
+      lng: 17.103816169000027
+- slug: skoki
+  name: Skoki
   type: town
   voivodeship: wielkopolskie
-  lat: 53.53444219423132
-  lon: 16.853111163896884
-- slug: sosnie
-  name: Sośnie
+  lat: 52.65549
+  lon: 17.19769
+  lands:
+    pojezierze_gnieznienskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.56679106800004
+      lng: 17.032896538000045
+    northEast:
+      lat: 52.743512845000055
+      lng: 17.34254409400006
+- slug: krajenka
+  name: Krajenka
   type: town
   voivodeship: wielkopolskie
-  lat: 51.47344073423262
-  lon: 17.630983570668047
-- slug: kolo
-  name: Koło
+  lat: 53.25123
+  lon: 16.9643
+  lands:
+    pojezierze_poludniowokrajenskie: 62.2302
+    dolina_gwdy: 37.7698
+  boundary:
+    southWest:
+      lat: 53.16934264300005
+      lng: 16.783771468000054
+    northEast:
+      lat: 53.33442289000004
+      lng: 17.090605846000074
+- slug: wilczyn
+  name: Wilczyn
   type: town
   voivodeship: wielkopolskie
-  lat: 52.199796904241126
-  lon: 18.638491618441222
-- slug: osiek_maly
-  name: Osiek Mały
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.2740738243208
-  lon: 18.603187200089426
+  lat: 52.46019
+  lon: 18.18012
+  lands:
+    pojezierze_zninskomogilenskie: 99.8823
+    rownina_wrzesinska: 0.1177
+  boundary:
+    southWest:
+      lat: 52.40848073900003
+      lng: 18.072028018000026
+    northEast:
+      lat: 52.50950760500007
+      lng: 18.272009725000032
 - slug: sompolno
   name: Sompolno
   type: town
   voivodeship: wielkopolskie
-  lat: 52.387985415946574
-  lon: 18.5030332565907
+  lat: 52.35738
+  lon: 18.51653
+  lands:
+    pojezierze_kujawskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.29499091200006
+      lng: 18.403578569000047
+    northEast:
+      lat: 52.41827032300006
+      lng: 18.629458189000047
+- slug: dabie
+  name: Dąbie
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.1125
+  lon: 18.8169
+  lands:
+    kotlina_kolska: 56.6066
+    wysoczyzna_klodawska: 43.3934
+  boundary:
+    southWest:
+      lat: 52.06092694300003
+      lng: 18.68242175200004
+    northEast:
+      lat: 52.16627765800007
+      lng: 18.94977155500004
+- slug: stawiszyn
+  name: Stawiszyn
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.93072
+  lon: 18.13101
+  lands:
+    wysoczyzna_kaliska: 62.5877
+    rownina_rychwalska: 37.4123
+  boundary:
+    southWest:
+      lat: 51.86988191800003
+      lng: 18.062577662000024
+    northEast:
+      lat: 51.98608237800005
+      lng: 18.206571274000055
+- slug: trzcinica
+  name: Trzcinica
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.17503
+  lon: 18.00027
+  lands:
+    wysoczyzna_wieruszowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.12185639200004
+      lng: 17.928165926000077
+    northEast:
+      lat: 51.22680845900004
+      lng: 18.078736133000064
+- slug: klodawa
+  name: Kłodawa
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.27203
+  lon: 18.87147
+  lands:
+    wysoczyzna_klodawska: 72.1375
+    pojezierze_kujawskie: 27.8625
+  boundary:
+    southWest:
+      lat: 52.19936264100005
+      lng: 18.773462599000027
+    northEast:
+      lat: 52.341111659000035
+      lng: 18.992181350000067
+- slug: kazimierz_biskupi
+  name: Kazimierz Biskupi
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.30202
+  lon: 18.13985
+  lands:
+    pojezierze_zninskomogilenskie: 96.8479
+    rownina_wrzesinska: 3.1521
+  boundary:
+    southWest:
+      lat: 52.24803620000006
+      lng: 18.023152534000076
+    northEast:
+      lat: 52.36357690700004
+      lng: 18.252546921000032
+- slug: zakrzewo
+  name: Zakrzewo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.3997
+  lon: 17.20039
+  lands:
+    pojezierze_poludniowokrajenskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.31917642700006
+      lng: 17.039330223000036
+    northEast:
+      lat: 53.47676540000003
+      lng: 17.298203941000054
+- slug: zduny
+  name: Zduny
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.66331
+  lon: 17.33177
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.62672947800007
+      lng: 17.225280165000072
+    northEast:
+      lat: 51.703554128000064
+      lng: 17.478285252000035
+- slug: kozmin_wielkopolski
+  name: Koźmin Wielkopolski
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.84261
+  lon: 17.42672
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.776877795000075
+      lng: 17.29118178300007
+    northEast:
+      lat: 51.900841273000026
+      lng: 17.562388327000065
+- slug: nowe_miasto_nad_warta
+  name: Nowe Miasto nad Wartą
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.06409
+  lon: 17.3754
+  lands:
+    wal_zerkowski: 80.1219
+    kotlina_sremska: 19.8781
+  boundary:
+    southWest:
+      lat: 52.01062314700005
+      lng: 17.27347349000007
+    northEast:
+      lat: 52.124136590000035
+      lng: 17.519236144000047
+- slug: krzemieniewo
+  name: Krzemieniewo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.85798
+  lon: 16.79845
+  lands:
+    wysoczyzna_leszczynska: 90.0041
+    pojezierze_krzywinskie: 9.9959
+  boundary:
+    southWest:
+      lat: 51.788495116000036
+      lng: 16.71261868000005
+    northEast:
+      lat: 51.930481420000035
+      lng: 16.90420163500005
+- slug: chodziez
+  name: Chodzież
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.98819
+  lon: 16.87984
+  lands:
+    pojezierze_chodzieskie: 69.0692
+    dolina_srodkowej_noteci: 30.9308
+  boundary:
+    southWest:
+      lat: 52.914221490000045
+      lng: 16.737820499000065
+    northEast:
+      lat: 53.059777532000055
+      lng: 17.039028173000077
+- slug: rogozno
+  name: Rogoźno
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.74498
+  lon: 17.00749
+  lands:
+    pojezierze_gnieznienskie: 70.0647
+    pojezierze_chodzieskie: 21.9785
+    kotlina_gorzowska: 7.9568
+  boundary:
+    southWest:
+      lat: 52.65729564900005
+      lng: 16.852872251000065
+    northEast:
+      lat: 52.83183556600005
+      lng: 17.131150997000077
+- slug: sierakow
+  name: Sieraków
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.67172
+  lon: 16.08296
+  lands:
+    kotlina_gorzowska: 68.9414
+    pojezierze_poznanskie: 31.0586
+  boundary:
+    southWest:
+      lat: 52.58125260800006
+      lng: 15.925034050000022
+    northEast:
+      lat: 52.75489632400007
+      lng: 16.224129197000025
+- slug: chrzypsko_wielkie
+  name: Chrzypsko Wielkie
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.60573
+  lon: 16.21955
+  lands:
+    pojezierze_poznanskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.54778581800008
+      lng: 16.157582115000025
+    northEast:
+      lat: 52.66929548200005
+      lng: 16.33853870300004
+- slug: ostrow_wielkopolski
+  name: Ostrów Wielkopolski
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.64564
+  lon: 17.80805
+  lands:
+    wysoczyzna_kaliska: 97.6477
+    kotlina_milicka: 2.3523
+  boundary:
+    southWest:
+      lat: 51.61115753400003
+      lng: 17.730022335000058
+    northEast:
+      lat: 51.683630393000044
+      lng: 17.877688393000028
+- slug: bialosliwie
+  name: Białośliwie
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.11765
+  lon: 17.15332
+  lands:
+    pojezierze_poludniowokrajenskie: 65.5725
+    dolina_srodkowej_noteci: 34.4275
+  boundary:
+    southWest:
+      lat: 53.071874097000034
+      lng: 17.073276701000054
+    northEast:
+      lat: 53.16194196600003
+      lng: 17.225015832000054
+- slug: lobzenica
+  name: Łobżenica
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.28577
+  lon: 17.29723
+  lands:
+    pojezierze_poludniowokrajenskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.21081333200004
+      lng: 17.14197512900006
+    northEast:
+      lat: 53.363391395000065
+      lng: 17.43879316400006
+- slug: mosina
+  name: Mosina
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.25072
+  lon: 16.92523
+  lands:
+    kotlina_sremska: 55.1171
+    rownina_wrzesinska: 25.9489
+    wysoczyzna_grodziska: 9.8797
+  boundary:
+    southWest:
+      lat: 52.167355963000034
+      lng: 16.73210553000007
+    northEast:
+      lat: 52.333879238000065
+      lng: 17.013790241000038
+- slug: miescisko
+  name: Mieścisko
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.73675
+  lon: 17.34329
+  lands:
+    pojezierze_gnieznienskie: 87.5621
+    pojezierze_chodzieskie: 12.4379
+  boundary:
+    southWest:
+      lat: 52.67084457100003
+      lng: 17.207268656000053
+    northEast:
+      lat: 52.80585396400005
+      lng: 17.458522687000027
+- slug: wagrowiec
+  name: Wągrowiec
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.8078
+  lon: 17.20125
+  lands:
+    pojezierze_gnieznienskie: 88.2135
+    pojezierze_chodzieskie: 11.7865
+  boundary:
+    southWest:
+      lat: 52.78690800700008
+      lng: 17.159666105000042
+    northEast:
+      lat: 52.835772947000066
+      lng: 17.236789773000055
+- slug: tuliszkow
+  name: Tuliszków
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.04971
+  lon: 18.32835
+  lands:
+    wysoczyzna_turecka: 72.5119
+    rownina_rychwalska: 27.4881
+  boundary:
+    southWest:
+      lat: 51.981304961000035
+      lng: 18.21821412500003
+    northEast:
+      lat: 52.12545765300007
+      lng: 18.443262041000025
+- slug: jastrowie
+  name: Jastrowie
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.38734
+  lon: 16.66744
+  lands:
+    rownina_walecka: 63.1321
+    pojezierze_szczecineckie: 27.3871
+    dolina_gwdy: 9.4809
+  boundary:
+    southWest:
+      lat: 53.28188403300004
+      lng: 16.43981956400006
+    northEast:
+      lat: 53.488475469000036
+      lng: 16.890461137000045
+- slug: kolaczkowo
+  name: Kołaczkowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.2153
+  lon: 17.64819
+  lands:
+    rownina_wrzesinska: 98.1255
+    kotlina_sremska: 1.8745
+  boundary:
+    southWest:
+      lat: 52.142975137000064
+      lng: 17.55770385200003
+    northEast:
+      lat: 52.29142693500006
+      lng: 17.781787593000047
+- slug: kamieniec
+  name: Kamieniec
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.15321
+  lon: 16.48403
+  lands:
+    wysoczyzna_grodziska: 71.7614
+    dolina_srodkowej_obry: 28.2386
+  boundary:
+    southWest:
+      lat: 52.082019983000066
+      lng: 16.383030286000064
+    northEast:
+      lat: 52.21887781000004
+      lng: 16.602993672000025
+- slug: rychwal
+  name: Rychwał
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.06581
+  lon: 18.15541
+  lands:
+    rownina_rychwalska: 100.0
+  boundary:
+    southWest:
+      lat: 51.982312755000066
+      lng: 18.069321136000042
+    northEast:
+      lat: 52.14879814500006
+      lng: 18.22928775500003
+- slug: slesin
+  name: Ślesin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.36567
+  lon: 18.32336
+  lands:
+    pojezierze_zninskomogilenskie: 69.8446
+    pojezierze_kujawskie: 30.1554
+  boundary:
+    southWest:
+      lat: 52.29615901400007
+      lng: 18.225932740000076
+    northEast:
+      lat: 52.43540703900004
+      lng: 18.446551035000027
+- slug: leszno
+  name: Leszno
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.83694
+  lon: 16.57858
+  lands:
+    wysoczyzna_leszczynska: 99.5801
+    pojezierze_krzywinskie: 0.4199
+  boundary:
+    southWest:
+      lat: 51.80662731600006
+      lng: 16.53681523000006
+    northEast:
+      lat: 51.87337639100008
+      lng: 16.621398499000065
+- slug: klecko
+  name: Kłecko
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.6082
+  lon: 17.4484
+  lands:
+    pojezierze_gnieznienskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.54515437600003
+      lng: 17.312408752000067
+    northEast:
+      lat: 52.69047024000008
+      lng: 17.53238248200006
+- slug: koscielec
+  name: Kościelec
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.16544
+  lon: 18.57001
+  lands:
+    kotlina_kolska: 60.592
+    wysoczyzna_turecka: 39.408
+  boundary:
+    southWest:
+      lat: 52.120810920000054
+      lng: 18.458924205000073
+    northEast:
+      lat: 52.21388693500006
+      lng: 18.69656752800006
+- slug: przedecz
+  name: Przedecz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.34613
+  lon: 18.9255
+  lands:
+    pojezierze_kujawskie: 75.3331
+    wysoczyzna_klodawska: 24.6669
+  boundary:
+    southWest:
+      lat: 52.29710849700007
+      lng: 18.827377068000033
+    northEast:
+      lat: 52.39883232700004
+      lng: 19.047120079000024
+- slug: kolo
+  name: Koło
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.19921
+  lon: 18.63668
+  lands:
+    kotlina_kolska: 67.283
+    wysoczyzna_klodawska: 23.7574
+    pojezierze_kujawskie: 8.9596
+  boundary:
+    southWest:
+      lat: 52.17858200000006
+      lng: 18.591960158000063
+    northEast:
+      lat: 52.22941770800003
+      lng: 18.678949420000038
+- slug: olszowka
+  name: Olszówka
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.17532
+  lon: 18.85317
+  lands:
+    wysoczyzna_klodawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.13310302700006
+      lng: 18.78781288400006
+    northEast:
+      lat: 52.22984535000006
+      lng: 18.949272042000075
+- slug: witkowo
+  name: Witkowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.45397
+  lon: 17.81846
+  lands:
+    rownina_wrzesinska: 97.128
+    pojezierze_zninskomogilenskie: 2.872
+  boundary:
+    southWest:
+      lat: 52.36824757900007
+      lng: 17.671321496000076
+    northEast:
+      lat: 52.52410202400006
+      lng: 17.92248059700006
+- slug: poniec
+  name: Poniec
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.78299
+  lon: 16.83695
+  lands:
+    wysoczyzna_leszczynska: 76.1225
+    wysoczyzna_kaliska: 23.8775
+  boundary:
+    southWest:
+      lat: 51.69450604300005
+      lng: 16.72885102200007
+    northEast:
+      lat: 51.869467787000076
+      lng: 16.970263352000075
+- slug: sulmierzyce
+  name: Sulmierzyce
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.61877
+  lon: 17.53428
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.58430155800005
+      lng: 17.45537665200004
+    northEast:
+      lat: 51.64995685300005
+      lng: 17.58670025300006
+- slug: krzywin
+  name: Krzywiń
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.99726
+  lon: 16.87672
+  lands:
+    pojezierze_krzywinskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.91797363400008
+      lng: 16.713215796000043
+    northEast:
+      lat: 52.06986023600007
+      lng: 17.009681846000035
+- slug: zbaszyn
+  name: Zbąszyń
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.27282
+  lon: 15.96023
+  lands:
+    rownina_nowotomyska: 71.6227
+    bruzda_zbaszynska: 28.3773
+  boundary:
+    southWest:
+      lat: 52.18277217800005
+      lng: 15.849504343000035
+    northEast:
+      lat: 52.35470072600003
+      lng: 16.067895021000027
+- slug: tarnowo_podgorne
+  name: Tarnowo Podgórne
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.45022
+  lon: 16.69731
+  lands:
+    pojezierze_poznanskie: 71.9831
+    wysoczyzna_grodziska: 28.0169
+  boundary:
+    southWest:
+      lat: 52.39858030600004
+      lng: 16.554112046000057
+    northEast:
+      lat: 52.50576175200007
+      lng: 16.802203014000042
+- slug: osieczna
+  name: Osieczna
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.90282
+  lon: 16.70838
+  lands:
+    pojezierze_krzywinskie: 67.9223
+    wysoczyzna_leszczynska: 32.0777
+  boundary:
+    southWest:
+      lat: 51.841686336000066
+      lng: 16.617339797000056
+    northEast:
+      lat: 51.96790862600005
+      lng: 16.832998842000052
+- slug: wijewo
+  name: Wijewo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.915
+  lon: 16.2054
+  lands:
+    pojezierze_slawskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.86976582800003
+      lng: 16.106389465000063
+    northEast:
+      lat: 51.942367612000055
+      lng: 16.288897598000062
+- slug: szamocin
+  name: Szamocin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.04338
+  lon: 17.15396
+  lands:
+    dolina_srodkowej_noteci: 74.5396
+    pojezierze_chodzieskie: 25.4604
+  boundary:
+    southWest:
+      lat: 52.99510768000005
+      lng: 16.99716509800004
+    northEast:
+      lat: 53.08985607100004
+      lng: 17.298859931000038
+- slug: krzyz_wielkopolski
+  name: Krzyż Wielkopolski
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.94952
+  lon: 16.02305
+  lands:
+    kotlina_gorzowska: 50.1702
+    rownina_drawska: 36.848
+    pojezierze_waleckie: 12.9817
+  boundary:
+    southWest:
+      lat: 52.85384021300007
+      lng: 15.949545111000077
+    northEast:
+      lat: 53.041381201000036
+      lng: 16.129544718000034
+- slug: odolanow
+  name: Odolanów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.57749
+  lon: 17.65807
+  lands:
+    kotlina_milicka: 60.0942
+    wysoczyzna_kaliska: 39.9058
+  boundary:
+    southWest:
+      lat: 51.50000230300003
+      lng: 17.556244634000052
+    northEast:
+      lat: 51.648652438000056
+      lng: 17.778912172000048
+- slug: miedzichowo
+  name: Miedzichowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.40026
+  lon: 16.01327
+  lands:
+    rownina_nowotomyska: 85.516
+    bruzda_zbaszynska: 8.3851
+    wysoczyzna_grodziska: 5.6037
+  boundary:
+    southWest:
+      lat: 52.32228021800006
+      lng: 15.804058445000067
+    northEast:
+      lat: 52.48147823800008
+      lng: 16.169485567000038
+- slug: doruchow
+  name: Doruchów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.40564
+  lon: 18.09642
+  lands:
+    kotlina_grabowska: 68.276
+    wysoczyzna_wieruszowska: 28.0304
+    wzgorza_ostrzeszowskie: 3.6937
+  boundary:
+    southWest:
+      lat: 51.357621118000054
+      lng: 17.982316953000065
+    northEast:
+      lat: 51.44819168200007
+      lng: 18.21071247200007
+- slug: sosnie
+  name: Sośnie
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.48042
+  lon: 17.63319
+  lands:
+    kotlina_milicka: 86.2902
+    wzgorza_twardogorskie: 13.7098
+  boundary:
+    southWest:
+      lat: 51.39949177600005
+      lng: 17.514631414000064
+    northEast:
+      lat: 51.55465209300007
+      lng: 17.80052521700003
+- slug: pleszew
+  name: Pleszew
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.88032
+  lon: 17.79214
+  lands:
+    wysoczyzna_kaliska: 88.5227
+    rownina_rychwalska: 11.4773
+  boundary:
+    southWest:
+      lat: 51.78957127500007
+      lng: 17.676896378000038
+    northEast:
+      lat: 51.965900555000076
+      lng: 17.944791905000045
+- slug: zaniemysl
+  name: Zaniemyśl
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.16242
+  lon: 17.18353
+  lands:
+    rownina_wrzesinska: 79.4059
+    kotlina_sremska: 20.5941
+  boundary:
+    southWest:
+      lat: 52.099267301000054
+      lng: 17.09455987000007
+    northEast:
+      lat: 52.22647892100008
+      lng: 17.279670533000058
+- slug: dolsk
+  name: Dolsk
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.98577
+  lon: 17.0886
+  lands:
+    pojezierze_krzywinskie: 56.499
+    wal_zerkowski: 25.5557
+    wysoczyzna_kaliska: 17.9453
+  boundary:
+    southWest:
+      lat: 51.92648954100008
+      lng: 16.976610287000028
+    northEast:
+      lat: 52.05079733100007
+      lng: 17.188618879000046
+- slug: dominowo
+  name: Dominowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.29456
+  lon: 17.35641
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.23339010500007
+      lng: 17.276716383000064
+    northEast:
+      lat: 52.34913992700007
+      lng: 17.488138537000054
+- slug: damaslawek
+  name: Damasławek
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.83832
+  lon: 17.44355
+  lands:
+    pojezierze_chodzieskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.785250130000065
+      lng: 17.368762504000074
+    northEast:
+      lat: 52.904149036000035
+      lng: 17.526130194000075
+- slug: wapno
+  name: Wapno
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.91563
+  lon: 17.46437
+  lands:
+    pojezierze_chodzieskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.876429708000046
+      lng: 17.405390493000027
+    northEast:
+      lat: 52.958205160000034
+      lng: 17.52466238900007
+- slug: wrzesnia
+  name: Września
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.332
+  lon: 17.60892
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.24579440800005
+      lng: 17.47132205500003
+    northEast:
+      lat: 52.413179755000044
+      lng: 17.739282084000024
+- slug: siedlec
+  name: Siedlec
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.15018
+  lon: 15.9779
+  lands:
+    rownina_nowotomyska: 77.374
+    bruzda_zbaszynska: 16.156
+    kotlina_kargowska: 6.47
+  boundary:
+    southWest:
+      lat: 52.06502294400008
+      lng: 15.835811232000026
+    northEast:
+      lat: 52.24666420700004
+      lng: 16.10739376400005
+- slug: przemet
+  name: Przemęt
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.00196
+  lon: 16.28304
+  lands:
+    pojezierze_slawskie: 43.3893
+    rownina_koscianska: 26.5673
+    dolina_srodkowej_obry: 21.7721
+  boundary:
+    southWest:
+      lat: 51.93052451900007
+      lng: 16.107633261000046
+    northEast:
+      lat: 52.084088947000055
+      lng: 16.465748904000066
+- slug: rzgow
+  name: Rzgów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.13661
+  lon: 18.06225
+  lands:
+    rownina_rychwalska: 73.9941
+    dolina_koninska: 26.0059
+  boundary:
+    southWest:
+      lat: 52.074703396000075
+      lng: 17.96858607000007
+    northEast:
+      lat: 52.20736558300007
+      lng: 18.192034983000042
+- slug: kozminek
+  name: Koźminek
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.79597
+  lon: 18.32126
+  lands:
+    wysoczyzna_turecka: 96.0582
+    wysoczyzna_kaliska: 3.9418
+  boundary:
+    southWest:
+      lat: 51.73717792700006
+      lng: 18.230967434000036
+    northEast:
+      lat: 51.84836491300007
+      lng: 18.43223563300006
+- slug: cekowkolonia
+  name: Ceków-Kolonia
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.86772
+  lon: 18.28501
+  lands:
+    wysoczyzna_kaliska: 53.2416
+    rownina_rychwalska: 41.0361
+    wysoczyzna_turecka: 5.7222
+  boundary:
+    southWest:
+      lat: 51.80027968300004
+      lng: 18.19642468400002
+    northEast:
+      lat: 51.93000107900008
+      lng: 18.41554070500007
+- slug: godziesze_wielkie
+  name: Godziesze Wielkie
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.65782
+  lon: 18.16955
+  lands:
+    kotlina_grabowska: 56.7256
+    wysoczyzna_kaliska: 40.5372
+    wysoczyzna_turecka: 2.7372
+  boundary:
+    southWest:
+      lat: 51.58681470000005
+      lng: 18.074684826000066
+    northEast:
+      lat: 51.71955081600004
+      lng: 18.256798966000076
+- slug: liskow
+  name: Lisków
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.83878
+  lon: 18.3867
+  lands:
+    wysoczyzna_turecka: 68.4123
+    rownina_rychwalska: 31.4262
+    wysoczyzna_kaliska: 0.1616
+  boundary:
+    southWest:
+      lat: 51.79166885500007
+      lng: 18.291447093000045
+    northEast:
+      lat: 51.89033142900007
+      lng: 18.481596070000023
+- slug: gniezno
+  name: Gniezno
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.5721
+  lon: 17.62394
+  lands:
+    pojezierze_gnieznienskie: 77.7352
+    rownina_wrzesinska: 22.2648
+  boundary:
+    southWest:
+      lat: 52.484710696000036
+      lng: 17.498196891000077
+    northEast:
+      lat: 52.65287999200007
+      lng: 17.75981874100006
+- slug: grzegorzew
+  name: Grzegorzew
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.21484
+  lon: 18.76374
+  lands:
+    wysoczyzna_klodawska: 70.6989
+    pojezierze_kujawskie: 29.3011
+  boundary:
+    southWest:
+      lat: 52.14829263400003
+      lng: 18.704993303000037
+    northEast:
+      lat: 52.27839512700007
+      lng: 18.84414180400006
+- slug: niechanowo
+  name: Niechanowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.45281
+  lon: 17.66079
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.38760070500007
+      lng: 17.58496038900006
+    northEast:
+      lat: 52.512777388000075
+      lng: 17.75507163800006
+- slug: grodzisk_wielkopolski
+  name: Grodzisk Wielkopolski
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.23533
+  lon: 16.34137
+  lands:
+    wysoczyzna_grodziska: 90.5308
+    rownina_nowotomyska: 9.4692
+  boundary:
+    southWest:
+      lat: 52.18555285700006
+      lng: 16.173449437000045
+    northEast:
+      lat: 52.28722090600007
+      lng: 16.48736720900007
+- slug: lwowek
+  name: Lwówek
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.44087
+  lon: 16.18421
+  lands:
+    wysoczyzna_grodziska: 52.8318
+    rownina_nowotomyska: 42.5756
+    pojezierze_poznanskie: 4.5926
+  boundary:
+    southWest:
+      lat: 52.37926953700003
+      lng: 16.01303153400005
+    northEast:
+      lat: 52.51421819600006
+      lng: 16.35861103900004
+- slug: czarnkow
+  name: Czarnków
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.94037
+  lon: 16.55066
+  lands:
+    kotlina_gorzowska: 53.2485
+    pojezierze_chodzieskie: 39.9796
+    dolina_srodkowej_noteci: 3.5851
+  boundary:
+    southWest:
+      lat: 52.83166756300005
+      lng: 16.329037749000065
+    northEast:
+      lat: 53.04436636100007
+      lng: 16.780160032000026
+- slug: poznan
+  name: Poznań
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.39645
+  lon: 16.92557
+  lands:
+    pojezierze_poznanskie: 48.0334
+    rownina_wrzesinska: 33.5482
+    poznanski_przelom_warty: 12.1512
+  boundary:
+    southWest:
+      lat: 52.29447079800008
+      lng: 16.731587783000066
+    northEast:
+      lat: 52.50932787100004
+      lng: 17.066395750000027
+- slug: konin
+  name: Konin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.25383
+  lon: 18.26416
+  lands:
+    pojezierze_zninskomogilenskie: 73.6811
+    kotlina_kolska: 14.1928
+    rownina_rychwalska: 8.2283
+  boundary:
+    southWest:
+      lat: 52.18245262700003
+      lng: 18.192607312000064
+    northEast:
+      lat: 52.32865556200005
+      lng: 18.33178143200007
+- slug: chodziez
+  name: Chodzież
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.98973
+  lon: 16.92087
+  lands:
+    pojezierze_chodzieskie: 58.7242
+    dolina_srodkowej_noteci: 41.2758
+  boundary:
+    southWest:
+      lat: 52.96495926500006
+      lng: 16.898268784000038
+    northEast:
+      lat: 53.024438703000044
+      lng: 16.944444666000038
+- slug: kwilcz
+  name: Kwilcz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.54522
+  lon: 16.12185
+  lands:
+    pojezierze_poznanskie: 96.1409
+    rownina_nowotomyska: 3.8591
+  boundary:
+    southWest:
+      lat: 52.48400484200005
+      lng: 15.973320465000029
+    northEast:
+      lat: 52.59603406100007
+      lng: 16.23882627100005
+- slug: miedzychod
+  name: Międzychód
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.58268
+  lon: 15.9039
+  lands:
+    kotlina_gorzowska: 43.8956
+    pojezierze_poznanskie: 36.8705
+    rownina_nowotomyska: 19.234
+  boundary:
+    southWest:
+      lat: 52.44832046200003
+      lng: 15.776346211000032
+    northEast:
+      lat: 52.72471623800004
+      lng: 16.031977683000036
+- slug: przygodzice
+  name: Przygodzice
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.55453
+  lon: 17.84083
+  lands:
+    kotlina_milicka: 95.2266
+    wysoczyzna_kaliska: 4.3542
+    wzgorza_ostrzeszowskie: 0.4192
+  boundary:
+    southWest:
+      lat: 51.48111788800003
+      lng: 17.710127010000065
+    northEast:
+      lat: 51.62108051100006
+      lng: 17.950394895000045
+- slug: raszkow
+  name: Raszków
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.74045
+  lon: 17.73185
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.661325126000065
+      lng: 17.610253476000025
+    northEast:
+      lat: 51.81510207100007
+      lng: 17.829499644000066
+- slug: miasteczko_krajenskie
+  name: Miasteczko Krajeńskie
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.10702
+  lon: 17.02017
+  lands:
+    pojezierze_poludniowokrajenskie: 70.1904
+    dolina_srodkowej_noteci: 29.8096
+  boundary:
+    southWest:
+      lat: 53.05920870600005
+      lng: 16.952137096000058
+    northEast:
+      lat: 53.15007379600007
+      lng: 17.087640754000063
+- slug: gizalki
+  name: Gizałki
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.04684
+  lon: 17.84902
+  lands:
+    rownina_rychwalska: 99.999
+    kotlina_sremska: 0.001
+  boundary:
+    southWest:
+      lat: 52.00127388300007
+      lng: 17.696948047000035
+    northEast:
+      lat: 52.09085128500004
+      lng: 17.979745002000072
+- slug: wyrzysk
+  name: Wyrzysk
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.15124
+  lon: 17.2707
+  lands:
+    pojezierze_poludniowokrajenskie: 73.5962
+    dolina_srodkowej_noteci: 26.4038
+  boundary:
+    southWest:
+      lat: 53.07826365400007
+      lng: 17.169902138000054
+    northEast:
+      lat: 53.22330308700003
+      lng: 17.389688957000033
+- slug: pobiedziska
+  name: Pobiedziska
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.48024
+  lon: 17.23619
+  lands:
+    pojezierze_gnieznienskie: 52.3589
+    rownina_wrzesinska: 47.6411
+  boundary:
+    southWest:
+      lat: 52.40999094700004
+      lng: 17.118189568000048
+    northEast:
+      lat: 52.552950105000036
+      lng: 17.397729842000047
+- slug: pyzdry
+  name: Pyzdry
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.14401
+  lon: 17.71914
+  lands:
+    dolina_koninska: 37.5532
+    kotlina_sremska: 22.5608
+    rownina_rychwalska: 21.1059
+  boundary:
+    southWest:
+      lat: 52.06305032700004
+      lng: 17.644906328000047
+    northEast:
+      lat: 52.222798182000076
+      lng: 17.833597672000053
+- slug: mieleszyn
+  name: Mieleszyn
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.67665
+  lon: 17.57687
+  lands:
+    pojezierze_gnieznienskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.61044668100004
+      lng: 17.428256261000058
+    northEast:
+      lat: 52.73894794600005
+      lng: 17.646937044000026
+- slug: borek_wielkopolski
+  name: Borek Wielkopolski
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.90472
+  lon: 17.21735
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.84815871200004
+      lng: 17.10967624500006
+    northEast:
+      lat: 51.96892228000007
+      lng: 17.336786355000072
+- slug: brzeziny
+  name: Brzeziny
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.59272
+  lon: 18.26961
+  lands:
+    kotlina_grabowska: 97.3517
+    wysoczyzna_zloczewska: 2.6483
+  boundary:
+    southWest:
+      lat: 51.532876875000056
+      lng: 18.15826005300005
+    northEast:
+      lat: 51.64749679400006
+      lng: 18.376818571000058
 - slug: wierzbinek
   name: Wierzbinek
   type: town
   voivodeship: wielkopolskie
-  lat: 52.44051125514899
-  lon: 18.507564088578597
-- slug: piotrkow_kujawski
-  name: Piotrków Kujawski
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.5503244042458
-  lon: 18.498673510464727
-- slug: skulsk
-  name: Skulsk
-  type: town
-  voivodeship: wielkopolskie
-  lat: 52.48145316550516
-  lon: 18.32968868652903
-- slug: nowe_skalmierzyce
-  name: Nowe Skalmierzyce
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.71103087106837
-  lon: 17.999841305833765
-- slug: kalisz
-  name: Kalisz
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.7608274816961
-  lon: 18.09132765641394
-- slug: opatowek
-  name: Opatówek
-  type: town
-  voivodeship: wielkopolskie
-  lat: 51.73938609996624
-  lon: 18.21505991724212
+  lat: 52.43857
+  lon: 18.51696
+  lands:
+    pojezierze_kujawskie: 99.2749
+    pojezierze_zninskomogilenskie: 0.7251
+  boundary:
+    southWest:
+      lat: 52.38488619100008
+      lng: 18.350391536000075
+    northEast:
+      lat: 52.50225704500008
+      lng: 18.65767721000003
 - slug: szczytniki
   name: Szczytniki
   type: town
   voivodeship: wielkopolskie
-  lat: 51.687910918077264
-  lon: 18.331242884136227
+  lat: 51.68857
+  lon: 18.32031
+  lands:
+    wysoczyzna_turecka: 65.5006
+    kotlina_grabowska: 34.4994
+  boundary:
+    southWest:
+      lat: 51.618838235000055
+      lng: 18.23975563600004
+    northEast:
+      lat: 51.754179315000044
+      lng: 18.420809034000058
+- slug: baranow
+  name: Baranów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.2368
+  lon: 17.99836
+  lands:
+    wysoczyzna_wieruszowska: 94.7472
+    rownina_olesnicka: 5.2528
+  boundary:
+    southWest:
+      lat: 51.18513386500007
+      lng: 17.894610341000032
+    northEast:
+      lat: 51.28341821400005
+      lng: 18.105247761000044
+- slug: pepowo
+  name: Pępowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.76215
+  lon: 17.11347
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.70139986500004
+      lng: 17.040941600000053
+    northEast:
+      lat: 51.82062003200008
+      lng: 17.18357379300005
+- slug: krobia
+  name: Krobia
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.7649
+  lon: 16.98162
+  lands:
+    wysoczyzna_kaliska: 95.3494
+    wysoczyzna_leszczynska: 4.6506
+  boundary:
+    southWest:
+      lat: 51.69545496400008
+      lng: 16.875690689000066
+    northEast:
+      lat: 51.83437423200007
+      lng: 17.091848679000066
+- slug: piaski
+  name: Piaski
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.87281
+  lon: 17.10242
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.807415742000046
+      lng: 17.015278241000033
+    northEast:
+      lat: 51.931940412000074
+      lng: 17.21467982000007
+- slug: rychtal
+  name: Rychtal
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.16321
+  lon: 17.88978
+  lands:
+    rownina_olesnicka: 64.1823
+    wysoczyzna_wieruszowska: 35.8177
+  boundary:
+    southWest:
+      lat: 51.105357077000065
+      lng: 17.813067310000065
+    northEast:
+      lat: 51.23195068600006
+      lng: 18.003677709000044
+- slug: osiek_maly
+  name: Osiek Mały
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.28559
+  lon: 18.56491
+  lands:
+    pojezierze_kujawskie: 82.3099
+    wysoczyzna_klodawska: 11.0502
+    kotlina_kolska: 6.6399
+  boundary:
+    southWest:
+      lat: 52.22322090500006
+      lng: 18.485331235000046
+    northEast:
+      lat: 52.339052019000064
+      lng: 18.654436409000027
+- slug: babiak
+  name: Babiak
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.35021
+  lon: 18.68237
+  lands:
+    pojezierze_kujawskie: 91.5028
+    wysoczyzna_klodawska: 8.4972
+  boundary:
+    southWest:
+      lat: 52.269182389000036
+      lng: 18.59198290300003
+    northEast:
+      lat: 52.42804843500005
+      lng: 18.83217736100005
+- slug: golina
+  name: Golina
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.24579
+  lon: 18.11317
+  lands:
+    rownina_wrzesinska: 45.8385
+    dolina_koninska: 32.7835
+    pojezierze_zninskomogilenskie: 21.3779
+  boundary:
+    southWest:
+      lat: 52.19131332400008
+      lng: 18.00867259300003
+    northEast:
+      lat: 52.29579479500006
+      lng: 18.201737226000034
+- slug: rozdrazew
+  name: Rozdrażew
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.78617
+  lon: 17.52196
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.732240888000035
+      lng: 17.426241075000064
+    northEast:
+      lat: 51.83871312500003
+      lng: 17.610222646000068
+- slug: smigiel
+  name: Śmigiel
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.01941
+  lon: 16.56994
+  lands:
+    rownina_koscianska: 51.3104
+    pojezierze_krzywinskie: 41.2163
+    dolina_srodkowej_obry: 7.4733
+  boundary:
+    southWest:
+      lat: 51.94095105200006
+      lng: 16.425293040000042
+    northEast:
+      lat: 52.09479053600006
+      lng: 16.723102854000047
+- slug: opalenica
+  name: Opalenica
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.31973
+  lon: 16.39529
+  lands:
+    wysoczyzna_grodziska: 100.0
+  boundary:
+    southWest:
+      lat: 52.24842930800003
+      lng: 16.27465992200007
+    northEast:
+      lat: 52.38673006300007
+      lng: 16.51266424000005
+- slug: dobrzyca
+  name: Dobrzyca
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.85429
+  lon: 17.62561
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.79167265800004
+      lng: 17.51402907800002
+    northEast:
+      lat: 51.903675115000055
+      lng: 17.739349548000064
+- slug: krzykosy
+  name: Krzykosy
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.12994
+  lon: 17.35022
+  lands:
+    kotlina_sremska: 99.9391
+    rownina_wrzesinska: 0.0609
+  boundary:
+    southWest:
+      lat: 52.092817109000066
+      lng: 17.229919839000047
+    northEast:
+      lat: 52.17648543400003
+      lng: 17.470446176000053
+- slug: suchy_las
+  name: Suchy Las
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.53231
+  lon: 16.88
+  lands:
+    pojezierze_poznanskie: 94.8823
+    poznanski_przelom_warty: 5.1177
+  boundary:
+    southWest:
+      lat: 52.46523545100007
+      lng: 16.780036737000046
+    northEast:
+      lat: 52.59977922000007
+      lng: 16.970469868000066
+- slug: oborniki
+  name: Oborniki
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.64816
+  lon: 16.77371
+  lands:
+    kotlina_gorzowska: 49.1494
+    pojezierze_poznanskie: 37.432
+    pojezierze_gnieznienskie: 9.3524
+  boundary:
+    southWest:
+      lat: 52.54527531900004
+      lng: 16.57623339400004
+    northEast:
+      lat: 52.751040412000066
+      lng: 16.971740865000072
+- slug: kuslin
+  name: Kuślin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.3633
+  lon: 16.30229
+  lands:
+    wysoczyzna_grodziska: 100.0
+  boundary:
+    southWest:
+      lat: 52.31522459300004
+      lng: 16.209485077000068
+    northEast:
+      lat: 52.42600724300007
+      lng: 16.44261962400003
+- slug: ryczywol
+  name: Ryczywół
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.80484
+  lon: 16.84767
+  lands:
+    pojezierze_chodzieskie: 75.5787
+    kotlina_gorzowska: 24.4213
+  boundary:
+    southWest:
+      lat: 52.71170280100006
+      lng: 16.701527574000067
+    northEast:
+      lat: 52.888846027000056
+      lng: 16.924975626000048
+- slug: swieciechowa
+  name: Święciechowa
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.83508
+  lon: 16.47027
+  lands:
+    wysoczyzna_leszczynska: 83.4159
+    pojezierze_krzywinskie: 16.5841
+  boundary:
+    southWest:
+      lat: 51.765721133000056
+      lng: 16.372645469000076
+    northEast:
+      lat: 51.90700321700007
+      lng: 16.606091097000046
+- slug: kobyla_gora
+  name: Kobyla Góra
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.37024
+  lon: 17.81785
+  lands:
+    wzgorza_ostrzeszowskie: 61.5927
+    kotlina_milicka: 37.7995
+    wzgorza_twardogorskie: 0.506
+  boundary:
+    southWest:
+      lat: 51.293083402000036
+      lng: 17.710601851000035
+    northEast:
+      lat: 51.44328782100007
+      lng: 17.923944849000065
+- slug: duszniki
+  name: Duszniki
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.44282
+  lon: 16.43736
+  lands:
+    wysoczyzna_grodziska: 87.4172
+    pojezierze_poznanskie: 12.5828
+  boundary:
+    southWest:
+      lat: 52.373752754000066
+      lng: 16.30706744200006
+    northEast:
+      lat: 52.51870056100006
+      lng: 16.600480642000036
+- slug: ostrorog
+  name: Ostroróg
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.62294
+  lon: 16.44084
+  lands:
+    pojezierze_poznanskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.58117073400007
+      lng: 16.347579388000042
+    northEast:
+      lat: 52.67318342800007
+      lng: 16.525526512000056
+- slug: kazmierz
+  name: Kaźmierz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.49954
+  lon: 16.54949
+  lands:
+    pojezierze_poznanskie: 97.2342
+    wysoczyzna_grodziska: 2.7658
+  boundary:
+    southWest:
+      lat: 52.43650785400007
+      lng: 16.445051361000026
+    northEast:
+      lat: 52.56067456100004
+      lng: 16.652500796000027
+- slug: srem
+  name: Śrem
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.08624
+  lon: 16.98809
+  lands:
+    pojezierze_krzywinskie: 41.6316
+    kotlina_sremska: 38.2281
+    rownina_koscianska: 11.7137
+  boundary:
+    southWest:
+      lat: 51.99133891500003
+      lng: 16.869137497000054
+    northEast:
+      lat: 52.18384016200008
+      lng: 17.143035178000048
+- slug: strzalkowo
+  name: Strzałkowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.31391
+  lon: 17.81029
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.24720079300005
+      lng: 17.694418320000068
+    northEast:
+      lat: 52.38793905000006
+      lng: 17.898635478000074
+- slug: kaweczyn
+  name: Kawęczyn
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.89421
+  lon: 18.49849
+  lands:
+    wysoczyzna_turecka: 100.0
+  boundary:
+    southWest:
+      lat: 51.83511003800004
+      lng: 18.41371553600004
+    northEast:
+      lat: 51.953806977000056
+      lng: 18.594859686000063
+- slug: brodnica
+  name: Brodnica
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.14703
+  lon: 16.88736
+  lands:
+    rownina_koscianska: 64.0716
+    kotlina_sremska: 35.9284
+  boundary:
+    southWest:
+      lat: 52.10194525000003
+      lng: 16.79024566800007
+    northEast:
+      lat: 52.19773292600007
+      lng: 16.991155578000075
+- slug: golancz
+  name: Gołańcz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.98584
+  lon: 17.25536
+  lands:
+    pojezierze_chodzieskie: 94.7782
+    dolina_srodkowej_noteci: 5.2218
+  boundary:
+    southWest:
+      lat: 52.886283449000075
+      lng: 17.174303443000042
+    northEast:
+      lat: 53.084018177000075
+      lng: 17.444864147000033
+- slug: nekla
+  name: Nekla
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.34234
+  lon: 17.43664
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.26966069000008
+      lng: 17.346785344000068
+    northEast:
+      lat: 52.41877453800004
+      lng: 17.50269496800007
+- slug: wagrowiec
+  name: Wągrowiec
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.82966
+  lon: 17.19968
+  lands:
+    pojezierze_chodzieskie: 66.907
+    pojezierze_gnieznienskie: 33.093
+  boundary:
+    southWest:
+      lat: 52.72517858600003
+      lng: 17.003068014000064
+    northEast:
+      lat: 52.934509226000046
+      lng: 17.380942263000065
+- slug: lipka
+  name: Lipka
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.48022
+  lon: 17.21514
+  lands:
+    pojezierze_poludniowokrajenskie: 97.8083
+    pojezierze_polnocnokrajenskie: 2.072
+    dolina_gwdy: 0.1197
+  boundary:
+    southWest:
+      lat: 53.41976892800005
+      lng: 17.015388013000063
+    northEast:
+      lat: 53.54272695100008
+      lng: 17.390652862000024
+- slug: zlotow
+  name: Złotów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.36989
+  lon: 17.0227
+  lands:
+    pojezierze_poludniowokrajenskie: 89.4474
+    dolina_gwdy: 10.5526
+  boundary:
+    southWest:
+      lat: 53.23854077800007
+      lng: 16.868734732000064
+    northEast:
+      lat: 53.50992721000006
+      lng: 17.266765603000067
+- slug: kiszkowo
+  name: Kiszkowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.58698
+  lon: 17.29601
+  lands:
+    pojezierze_gnieznienskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.534353656000064
+      lng: 17.15143816400007
+    northEast:
+      lat: 52.64389973300007
+      lng: 17.404972775000033
+- slug: mycielin
+  name: Mycielin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.9566
+  lon: 18.24959
+  lands:
+    rownina_rychwalska: 68.2887
+    wysoczyzna_kaliska: 31.7113
+  boundary:
+    southWest:
+      lat: 51.87497327500006
+      lng: 18.16754402500004
+    northEast:
+      lat: 52.04108735700004
+      lng: 18.330282062000038
+- slug: leka_opatowska
+  name: Łęka Opatowska
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.20232
+  lon: 18.10964
+  lands:
+    wysoczyzna_wieruszowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.155858065000075
+      lng: 18.050874759000067
+    northEast:
+      lat: 51.26479190500004
+      lng: 18.180160251000075
+- slug: zerkow
+  name: Żerków
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.06907
+  lon: 17.58336
+  lands:
+    kotlina_sremska: 37.0026
+    wal_zerkowski: 26.9812
+    rownina_rychwalska: 20.5673
+  boundary:
+    southWest:
+      lat: 51.98413155700007
+      lng: 17.469452536000063
+    northEast:
+      lat: 52.14554229000004
+      lng: 17.723556803000065
+- slug: pogorzela
+  name: Pogorzela
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.80223
+  lon: 17.24613
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.75135901400006
+      lng: 17.165038863000063
+    northEast:
+      lat: 51.86305475300003
+      lng: 17.338056385000073
+- slug: grodziec
+  name: Grodziec
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.03791
+  lon: 18.04174
+  lands:
+    rownina_rychwalska: 100.0
+  boundary:
+    southWest:
+      lat: 51.976968071000044
+      lng: 17.934639960000027
+    northEast:
+      lat: 52.10452515600008
+      lng: 18.128461807000065
+- slug: kobylin
+  name: Kobylin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.73202
+  lon: 17.26361
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.675087810000036
+      lng: 17.127090765000048
+    northEast:
+      lat: 51.79144816300004
+      lng: 17.373216864000028
+- slug: goluchow
+  name: Gołuchów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.8312
+  lon: 17.93678
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.75967286500003
+      lng: 17.828686515000072
+    northEast:
+      lat: 51.90690249800008
+      lng: 18.042505505000065
+- slug: sroda_wielkopolska
+  name: Środa Wielkopolska
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.2406
+  lon: 17.27893
+  lands:
+    rownina_wrzesinska: 93.1655
+    kotlina_sremska: 6.8345
+  boundary:
+    southWest:
+      lat: 52.16453119500005
+      lng: 17.111417864000032
+    northEast:
+      lat: 52.31841574100008
+      lng: 17.46534022900005
+- slug: jutrosin
+  name: Jutrosin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.6357
+  lon: 17.16413
+  lands:
+    wysoczyzna_kaliska: 90.2345
+    kotlina_zmigrodzka: 9.7655
+  boundary:
+    southWest:
+      lat: 51.56531763900006
+      lng: 17.078948462000028
+    northEast:
+      lat: 51.70204029400003
+      lng: 17.257432910000034
+- slug: lipno
+  name: Lipno
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.9171
+  lon: 16.5547
+  lands:
+    pojezierze_krzywinskie: 88.9229
+    wysoczyzna_leszczynska: 10.8383
+    rownina_koscianska: 0.2388
+  boundary:
+    southWest:
+      lat: 51.855718456000034
+      lng: 16.474040045000038
+    northEast:
+      lat: 51.96784861100008
+      lng: 16.655268395000064
+- slug: szydlowo
+  name: Szydłowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.20092
+  lon: 16.63818
+  lands:
+    pojezierze_waleckie: 61.8503
+    dolina_gwdy: 27.5902
+    rownina_walecka: 7.3799
+  boundary:
+    southWest:
+      lat: 53.10681074900003
+      lng: 16.39052642000007
+    northEast:
+      lat: 53.299132461000056
+      lng: 16.817261813000073
+- slug: ostrzeszow
+  name: Ostrzeszów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.42818
+  lon: 17.8913
+  lands:
+    kotlina_milicka: 48.7274
+    wzgorza_ostrzeszowskie: 41.3707
+    wysoczyzna_wieruszowska: 9.7183
+  boundary:
+    southWest:
+      lat: 51.33865336100007
+      lng: 17.742799198000057
+    northEast:
+      lat: 51.50931654300007
+      lng: 18.02381471900003
+- slug: czermin
+  name: Czermin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.98322
+  lon: 17.77096
+  lands:
+    rownina_rychwalska: 54.986
+    wysoczyzna_kaliska: 45.014
+  boundary:
+    southWest:
+      lat: 51.92117651500007
+      lng: 17.693297646000076
+    northEast:
+      lat: 52.04575434700007
+      lng: 17.871541464000074
+- slug: dopiewo
+  name: Dopiewo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.36012
+  lon: 16.69467
+  lands:
+    wysoczyzna_grodziska: 99.4477
+    pojezierze_poznanskie: 0.5523
+  boundary:
+    southWest:
+      lat: 52.29832038300003
+      lng: 16.60908458700004
+    northEast:
+      lat: 52.41741230100007
+      lng: 16.810985022000068
+- slug: kostrzyn
+  name: Kostrzyn
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.37815
+  lon: 17.24822
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.311900491000074
+      lng: 17.121449176000056
+    northEast:
+      lat: 52.44485025400007
+      lng: 17.375179968000054
+- slug: puszczykowo
+  name: Puszczykowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.27718
+  lon: 16.85187
+  lands:
+    poznanski_przelom_warty: 53.999
+    wysoczyzna_grodziska: 41.344
+    kotlina_sremska: 4.657
+  boundary:
+    southWest:
+      lat: 52.25058341700003
+      lng: 16.81413323700002
+    northEast:
+      lat: 52.30501246100005
+      lng: 16.886062157000026
+- slug: rokietnica
+  name: Rokietnica
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.51568
+  lon: 16.73323
+  lands:
+    pojezierze_poznanskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.45974255900006
+      lng: 16.639955507000025
+    northEast:
+      lat: 52.57268236700003
+      lng: 16.827462557000047
+- slug: zagorow
+  name: Zagórów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.13577
+  lon: 17.89681
+  lands:
+    rownina_rychwalska: 84.6042
+    dolina_koninska: 15.3958
+  boundary:
+    southWest:
+      lat: 52.07338908600008
+      lng: 17.766653682000026
+    northEast:
+      lat: 52.19246863800004
+      lng: 18.030053258000066
+- slug: szamotuly
+  name: Szamotuły
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.5928
+  lon: 16.57911
+  lands:
+    pojezierze_poznanskie: 99.0725
+    kotlina_gorzowska: 0.9275
+  boundary:
+    southWest:
+      lat: 52.51803771400006
+      lng: 16.36307833500007
+    northEast:
+      lat: 52.66656874600005
+      lng: 16.740772418000063
+- slug: orchowo
+  name: Orchowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.51123
+  lon: 18.01902
+  lands:
+    pojezierze_zninskomogilenskie: 89.0287
+    rownina_wrzesinska: 10.9713
+  boundary:
+    southWest:
+      lat: 52.46406262700003
+      lng: 17.907719233000023
+    northEast:
+      lat: 52.555033508000065
+      lng: 18.132908160000056
+- slug: turek
+  name: Turek
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.01501
+  lon: 18.50619
+  lands:
+    wysoczyzna_turecka: 99.9902
+    kotlina_kolska: 0.0098
+  boundary:
+    southWest:
+      lat: 51.99317120400008
+      lng: 18.46457968200008
+    northEast:
+      lat: 52.03884588100004
+      lng: 18.555757468000024
+- slug: przykona
+  name: Przykona
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.99873
+  lon: 18.63913
+  lands:
+    kotlina_kolska: 79.8811
+    wysoczyzna_turecka: 20.1189
+  boundary:
+    southWest:
+      lat: 51.94115696100005
+      lng: 18.548312020000026
+    northEast:
+      lat: 52.050329186000056
+      lng: 18.736115187000053
+- slug: powidz
+  name: Powidz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.42354
+  lon: 17.90731
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.36567728700004
+      lng: 17.851285165000036
+    northEast:
+      lat: 52.48746681100005
+      lng: 18.051769298000067
 - slug: tarnowka
   name: Tarnówka
   type: town
   voivodeship: wielkopolskie
-  lat: 53.34024
-  lon: 16.84816
+  lat: 53.32462
+  lon: 16.86032
+  lands:
+    pojezierze_poludniowokrajenskie: 46.7604
+    dolina_gwdy: 44.0869
+    rownina_walecka: 9.1526
+  boundary:
+    southWest:
+      lat: 53.243560528000046
+      lng: 16.752470772000038
+    northEast:
+      lat: 53.407242902000064
+      lng: 16.973493956000027
+- slug: zlotow
+  name: Złotów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.35952
+  lon: 17.04344
+  lands:
+    pojezierze_poludniowokrajenskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.34049252500006
+      lng: 17.00668845000007
+    northEast:
+      lat: 53.37451267600005
+      lng: 17.080627676000063
+- slug: miloslaw
+  name: Miłosław
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.18735
+  lon: 17.50264
+  lands:
+    rownina_wrzesinska: 67.7245
+    kotlina_sremska: 32.2755
+  boundary:
+    southWest:
+      lat: 52.11205521000005
+      lng: 17.425605612000027
+    northEast:
+      lat: 52.268280007000044
+      lng: 17.61596800700005
+- slug: wolsztyn
+  name: Wolsztyn
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.08235
+  lon: 16.14131
+  lands:
+    kotlina_kargowska: 45.4597
+    rownina_nowotomyska: 42.2527
+    dolina_srodkowej_obry: 11.7777
+  boundary:
+    southWest:
+      lat: 51.97715823400006
+      lng: 15.964343667000037
+    northEast:
+      lat: 52.176152623000064
+      lng: 16.283162035000032
+- slug: krzymow
+  name: Krzymów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.17573
+  lon: 18.37604
+  lands:
+    wysoczyzna_turecka: 50.0527
+    kotlina_kolska: 45.4313
+    rownina_rychwalska: 4.5088
+  boundary:
+    southWest:
+      lat: 52.12277437200004
+      lng: 18.283294867000052
+    northEast:
+      lat: 52.22762693100003
+      lng: 18.467217564000066
+- slug: chodow
+  name: Chodów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.25766
+  lon: 19.02591
+  lands:
+    wysoczyzna_klodawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.200113799000064
+      lng: 18.944449847000044
+    northEast:
+      lat: 52.30689744800003
+      lng: 19.102428099000065
+- slug: czerniejewo
+  name: Czerniejewo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.43787
+  lon: 17.49399
+  lands:
+    rownina_wrzesinska: 99.6333
+    pojezierze_gnieznienskie: 0.3667
+  boundary:
+    southWest:
+      lat: 52.37980615200007
+      lng: 17.381781278000062
+    northEast:
+      lat: 52.49776619100004
+      lng: 17.60618686500004
+- slug: lubowo
+  name: Łubowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.50133
+  lon: 17.43075
+  lands:
+    pojezierze_gnieznienskie: 67.6648
+    rownina_wrzesinska: 32.3352
+  boundary:
+    southWest:
+      lat: 52.44021219100006
+      lng: 17.325608128000056
+    northEast:
+      lat: 52.56497474400004
+      lng: 17.52920308700004
+- slug: trzemeszno
+  name: Trzemeszno
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.57932
+  lon: 17.83029
+  lands:
+    pojezierze_zninskomogilenskie: 55.7346
+    pojezierze_gnieznienskie: 37.6533
+    rownina_wrzesinska: 6.6122
+  boundary:
+    southWest:
+      lat: 52.50870112900003
+      lng: 17.716184782000028
+    northEast:
+      lat: 52.65151571600006
+      lng: 17.987164349000068
+- slug: kolo
+  name: Koło
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.22247
+  lon: 18.65984
+  lands:
+    wysoczyzna_klodawska: 81.9925
+    kotlina_kolska: 11.9748
+    pojezierze_kujawskie: 6.0327
+  boundary:
+    southWest:
+      lat: 52.152752613000075
+      lng: 18.484228659000053
+    northEast:
+      lat: 52.29829018600003
+      lng: 18.759135268000023
+- slug: okonek
+  name: Okonek
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.54154
+  lon: 16.86116
+  lands:
+    pojezierze_szczecineckie: 79.503
+    dolina_gwdy: 20.4051
+    pojezierze_poludniowokrajenskie: 0.0919
+  boundary:
+    southWest:
+      lat: 53.43198885400005
+      lng: 16.64544085800003
+    northEast:
+      lat: 53.65586893200003
+      lng: 17.018230799000037
+- slug: nowy_tomysl
+  name: Nowy Tomyśl
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.31242
+  lon: 16.16747
+  lands:
+    rownina_nowotomyska: 69.2887
+    wysoczyzna_grodziska: 30.7113
+  boundary:
+    southWest:
+      lat: 52.22649387700005
+      lng: 16.023018759000024
+    northEast:
+      lat: 52.39761875700003
+      lng: 16.282179678000034
+- slug: czarnkow
+  name: Czarnków
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.90472
+  lon: 16.57171
+  lands:
+    kotlina_gorzowska: 51.6297
+    pojezierze_chodzieskie: 48.3703
+  boundary:
+    southWest:
+      lat: 52.883733378000045
+      lng: 16.50826287700005
+    northEast:
+      lat: 52.91269636000004
+      lng: 16.59605724100004
+- slug: chocz
+  name: Chocz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.97434
+  lon: 17.91314
+  lands:
+    rownina_rychwalska: 99.9815
+    wysoczyzna_kaliska: 0.0185
+  boundary:
+    southWest:
+      lat: 51.91573526500008
+      lng: 17.798132835000047
+    northEast:
+      lat: 52.03741666500008
+      lng: 17.97996538900003
+- slug: jaraczewo
+  name: Jaraczewo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.94495
+  lon: 17.34515
+  lands:
+    wysoczyzna_kaliska: 86.9133
+    wal_zerkowski: 13.0867
+  boundary:
+    southWest:
+      lat: 51.87526386300004
+      lng: 17.186390995000068
+    northEast:
+      lat: 52.02198488200003
+      lng: 17.441698597000027
+- slug: jarocin
+  name: Jarocin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.9631
+  lon: 17.48894
+  lands:
+    wysoczyzna_kaliska: 84.5308
+    wal_zerkowski: 15.4692
+  boundary:
+    southWest:
+      lat: 51.87339702500003
+      lng: 17.384545305000074
+    northEast:
+      lat: 52.05493125900006
+      lng: 17.63365196500007
+- slug: koscian
+  name: Kościan
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.08822
+  lon: 16.6482
+  lands:
+    rownina_koscianska: 99.1291
+    dolina_srodkowej_obry: 0.8709
+  boundary:
+    southWest:
+      lat: 52.06782654300008
+      lng: 16.619458139000074
+    northEast:
+      lat: 52.099247425000044
+      lng: 16.673730849000037
+- slug: koscian
+  name: Kościan
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.07796
+  lon: 16.65482
+  lands:
+    pojezierze_krzywinskie: 41.8433
+    rownina_koscianska: 37.5133
+    dolina_srodkowej_obry: 17.7389
+  boundary:
+    southWest:
+      lat: 51.98539937000004
+      lng: 16.522682880000048
+    northEast:
+      lat: 52.172030996000046
+      lng: 16.865217005000034
+- slug: kramsk
+  name: Kramsk
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.26575
+  lon: 18.39656
+  lands:
+    kotlina_kolska: 46.7228
+    pojezierze_kujawskie: 38.6102
+    pojezierze_zninskomogilenskie: 14.667
+  boundary:
+    southWest:
+      lat: 52.207455551000066
+      lng: 18.292426096000042
+    northEast:
+      lat: 52.32377167300007
+      lng: 18.536495931000047
+- slug: stare_miasto
+  name: Stare Miasto
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.15526
+  lon: 18.2263
+  lands:
+    rownina_rychwalska: 84.5794
+    wysoczyzna_turecka: 10.5637
+    dolina_koninska: 4.8402
+  boundary:
+    southWest:
+      lat: 52.09331756200004
+      lng: 18.134773735000067
+    northEast:
+      lat: 52.22135607800004
+      lng: 18.31396613800007
+- slug: wielen
+  name: Wieleń
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.90745
+  lon: 16.21891
+  lands:
+    kotlina_gorzowska: 83.9506
+    pojezierze_waleckie: 16.0494
+  boundary:
+    southWest:
+      lat: 52.76056964000003
+      lng: 16.07587601000006
+    northEast:
+      lat: 53.04915844900006
+      lng: 16.41054287700007
+- slug: trzcianka
+  name: Trzcianka
+  type: town
+  voivodeship: wielkopolskie
+  lat: 53.03254
+  lon: 16.43735
+  lands:
+    pojezierze_waleckie: 70.2624
+    dolina_srodkowej_noteci: 18.6151
+    kotlina_gorzowska: 11.1225
+  boundary:
+    southWest:
+      lat: 52.93491930400006
+      lng: 16.24266891600007
+    northEast:
+      lat: 53.13095299100007
+      lng: 16.71836490100003
+- slug: ostrow_wielkopolski
+  name: Ostrów Wielkopolski
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.69675
+  lon: 17.8466
+  lands:
+    wysoczyzna_kaliska: 92.0904
+    kotlina_milicka: 7.9096
+  boundary:
+    southWest:
+      lat: 51.59154439100007
+      lng: 17.54771346800004
+    northEast:
+      lat: 51.79622455100008
+      lng: 17.93248255700007
+- slug: kraszewice
+  name: Kraszewice
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.50039
+  lon: 18.22881
+  lands:
+    kotlina_grabowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.45986213400005
+      lng: 18.15757406800003
+    northEast:
+      lat: 51.546865782000054
+      lng: 18.34289574400003
+- slug: mikstat
+  name: Mikstat
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.52452
+  lon: 17.98066
+  lands:
+    wzgorza_ostrzeszowskie: 41.8846
+    kotlina_grabowska: 33.6474
+    kotlina_milicka: 24.4681
+  boundary:
+    southWest:
+      lat: 51.47738445600004
+      lng: 17.87287492100006
+    northEast:
+      lat: 51.56993729000004
+      lng: 18.10885647200007
+- slug: steszew
+  name: Stęszew
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.26217
+  lon: 16.70379
+  lands:
+    wysoczyzna_grodziska: 95.7166
+    kotlina_sremska: 4.2834
+  boundary:
+    southWest:
+      lat: 52.17108117300006
+      lng: 16.559573314000033
+    northEast:
+      lat: 52.35171389800007
+      lng: 16.811449097000036
+- slug: lubon
+  name: Luboń
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.34069
+  lon: 16.8725
+  lands:
+    wysoczyzna_grodziska: 58.7112
+    poznanski_przelom_warty: 34.9177
+    pojezierze_poznanskie: 6.3711
+  boundary:
+    southWest:
+      lat: 52.318779680000034
+      lng: 16.841993511000055
+    northEast:
+      lat: 52.35902299800006
+      lng: 16.909368588000063
+- slug: wronki
+  name: Wronki
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.71234
+  lon: 16.26103
+  lands:
+    kotlina_gorzowska: 78.6506
+    pojezierze_poznanskie: 21.3494
+  boundary:
+    southWest:
+      lat: 52.63989981200007
+      lng: 16.013770434000037
+    northEast:
+      lat: 52.79405728200004
+      lng: 16.455369477000033
+- slug: buk
+  name: Buk
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.33989
+  lon: 16.54453
+  lands:
+    wysoczyzna_grodziska: 100.0
+  boundary:
+    southWest:
+      lat: 52.26988844400006
+      lng: 16.45653905200004
+    northEast:
+      lat: 52.412226513000064
+      lng: 16.629099477000068
+- slug: obrzycko
+  name: Obrzycko
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.70284
+  lon: 16.52821
+  lands:
+    kotlina_gorzowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.69322666900007
+      lng: 16.509595700000034
+    northEast:
+      lat: 52.71049642200006
+      lng: 16.550196073000052
+- slug: ostrowite
+  name: Ostrowite
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.37989
+  lon: 18.01606
+  lands:
+    pojezierze_zninskomogilenskie: 57.8497
+    rownina_wrzesinska: 42.1503
+  boundary:
+    southWest:
+      lat: 52.31119977900005
+      lng: 17.935805995000067
+    northEast:
+      lat: 52.446974297000054
+      lng: 18.089771290000044
+- slug: slupca
+  name: Słupca
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.29763
+  lon: 17.97766
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.22389455700005
+      lng: 17.783796893000044
+    northEast:
+      lat: 52.37622943100007
+      lng: 18.067645153000058
+- slug: turek
+  name: Turek
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.00702
+  lon: 18.4778
+  lands:
+    wysoczyzna_turecka: 82.9006
+    kotlina_kolska: 17.0994
+  boundary:
+    southWest:
+      lat: 51.94419591900004
+      lng: 18.393540474000076
+    northEast:
+      lat: 52.070220015000075
+      lng: 18.618017847000033
+- slug: slupca
+  name: Słupca
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.28627
+  lon: 17.87323
+  lands:
+    rownina_wrzesinska: 100.0
+  boundary:
+    southWest:
+      lat: 52.27638814000005
+      lng: 17.833616481000035
+    northEast:
+      lat: 52.30660365300008
+      lng: 17.89657661800004
+- slug: brudzew
+  name: Brudzew
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.08204
+  lon: 18.60417
+  lands:
+    kotlina_kolska: 70.5464
+    wysoczyzna_turecka: 29.4536
+  boundary:
+    southWest:
+      lat: 52.03543870300007
+      lng: 18.497621053000046
+    northEast:
+      lat: 52.13653140100007
+      lng: 18.722017683000047
+- slug: ksiaz_wielkopolski
+  name: Książ Wielkopolski
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.0382
+  lon: 17.20411
+  lands:
+    wal_zerkowski: 55.3566
+    kotlina_sremska: 40.1221
+    wysoczyzna_kaliska: 4.5073
+  boundary:
+    southWest:
+      lat: 51.97233849500003
+      lng: 17.091560499000025
+    northEast:
+      lat: 52.10614878100006
+      lng: 17.32647606000006
+- slug: ladek
+  name: Lądek
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.20993
+  lon: 17.88909
+  lands:
+    rownina_wrzesinska: 64.7431
+    dolina_koninska: 35.2569
+  boundary:
+    southWest:
+      lat: 52.17985156800006
+      lng: 17.741923841000073
+    northEast:
+      lat: 52.248578887000065
+      lng: 18.030053258000066
+- slug: kotlin
+  name: Kotlin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.93274
+  lon: 17.64746
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.88141800000005
+      lng: 17.55999790900006
+    northEast:
+      lat: 51.987978189000046
+      lng: 17.71725249700006
+- slug: gniezno
+  name: Gniezno
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.52602
+  lon: 17.60232
+  lands:
+    pojezierze_gnieznienskie: 58.6415
+    rownina_wrzesinska: 41.3585
+  boundary:
+    southWest:
+      lat: 52.48306677100004
+      lng: 17.558671326000024
+    northEast:
+      lat: 52.56658944600008
+      lng: 17.654867741000032
+- slug: kleczew
+  name: Kleczew
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.40712
+  lon: 18.15462
+  lands:
+    pojezierze_zninskomogilenskie: 94.5351
+    rownina_wrzesinska: 5.4649
+  boundary:
+    southWest:
+      lat: 52.33933136400003
+      lng: 18.026280446000044
+    northEast:
+      lat: 52.47334511400004
+      lng: 18.243494085000066
+- slug: perzow
+  name: Perzów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.24858
+  lon: 17.7926
+  lands:
+    rownina_olesnicka: 87.8561
+    wzgorza_ostrzeszowskie: 10.5155
+    wysoczyzna_wieruszowska: 1.5719
+  boundary:
+    southWest:
+      lat: 51.18906007000004
+      lng: 17.744110835000072
+    northEast:
+      lat: 51.30965397600005
+      lng: 17.866858593000075
+- slug: kepno
+  name: Kępno
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.33412
+  lon: 18.00257
+  lands:
+    wysoczyzna_wieruszowska: 97.2315
+    wzgorza_ostrzeszowskie: 2.7685
+  boundary:
+    southWest:
+      lat: 51.267921416000036
+      lng: 17.887799528000073
+    northEast:
+      lat: 51.393382306000035
+      lng: 18.115918262000037
+- slug: granowo
+  name: Granowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.23395
+  lon: 16.52937
+  lands:
+    wysoczyzna_grodziska: 100.0
+  boundary:
+    southWest:
+      lat: 52.18095038200005
+      lng: 16.469997344000035
+    northEast:
+      lat: 52.284757325000044
+      lng: 16.60738914500007
+- slug: czempin
+  name: Czempiń
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.13923
+  lon: 16.73551
+  lands:
+    rownina_koscianska: 65.6041
+    kotlina_sremska: 16.4546
+    wysoczyzna_grodziska: 10.2098
+  boundary:
+    southWest:
+      lat: 52.06562628100005
+      lng: 16.612720335000063
+    northEast:
+      lat: 52.21545861300007
+      lng: 16.878379402000064
+- slug: rakoniewice
+  name: Rakoniewice
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.1568
+  lon: 16.2289
+  lands:
+    rownina_nowotomyska: 49.0805
+    wysoczyzna_grodziska: 45.8952
+    dolina_srodkowej_obry: 5.0244
+  boundary:
+    southWest:
+      lat: 52.05793015000006
+      lng: 16.072522996000032
+    northEast:
+      lat: 52.25324436300008
+      lng: 16.392445724000027
+- slug: kalisz
+  name: Kalisz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.74975
+  lon: 18.07911
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.70149366600003
+      lng: 17.99788767800004
+    northEast:
+      lat: 51.78978926800005
+      lng: 18.152162901000054
+- slug: pakoslaw
+  name: Pakosław
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.60702
+  lon: 17.05435
+  lands:
+    kotlina_zmigrodzka: 61.5208
+    wysoczyzna_kaliska: 38.4792
+  boundary:
+    southWest:
+      lat: 51.55445314700006
+      lng: 16.97664061100005
+    northEast:
+      lat: 51.65393563600003
+      lng: 17.122584776000053
+- slug: rawicz
+  name: Rawicz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.60864
+  lon: 16.88674
+  lands:
+    kotlina_zmigrodzka: 86.3763
+    wysoczyzna_kaliska: 13.6237
+  boundary:
+    southWest:
+      lat: 51.544710757000075
+      lng: 16.76606490000006
+    northEast:
+      lat: 51.67446038300005
+      lng: 17.011582659000055
+- slug: budzyn
+  name: Budzyń
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.88298
+  lon: 16.9249
+  lands:
+    pojezierze_chodzieskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.81719794600008
+      lng: 16.771425237000074
+    northEast:
+      lat: 52.95448077200007
+      lng: 17.09886540900004
+- slug: lubasz
+  name: Lubasz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.80383
+  lon: 16.48062
+  lands:
+    kotlina_gorzowska: 69.2087
+    pojezierze_chodzieskie: 30.7913
+  boundary:
+    southWest:
+      lat: 52.737585728000056
+      lng: 16.379250504000026
+    northEast:
+      lat: 52.89083893600008
+      lng: 16.63871794000005
+- slug: sieroszewice
+  name: Sieroszewice
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.60276
+  lon: 18.02689
+  lands:
+    kotlina_milicka: 37.7325
+    kotlina_grabowska: 31.3363
+    wysoczyzna_kaliska: 29.4374
+  boundary:
+    southWest:
+      lat: 51.523889318000045
+      lng: 17.912145641000052
+    northEast:
+      lat: 51.68363150400006
+      lng: 18.187957415000028
+- slug: grabow_nad_prosna
+  name: Grabów nad Prosną
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.48278
+  lon: 18.09747
+  lands:
+    kotlina_grabowska: 97.9574
+    wzgorza_ostrzeszowskie: 2.0426
+  boundary:
+    southWest:
+      lat: 51.42944732700005
+      lng: 17.993388504000052
+    northEast:
+      lat: 51.54433904700005
+      lng: 18.221796494000046
+- slug: pniewy
+  name: Pniewy
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.54938
+  lon: 16.33649
+  lands:
+    pojezierze_poznanskie: 94.8608
+    wysoczyzna_grodziska: 5.1392
+  boundary:
+    southWest:
+      lat: 52.449125379000066
+      lng: 16.18638049200007
+    northEast:
+      lat: 52.648802052000065
+      lng: 16.44101084700003
+- slug: murowana_goslina
+  name: Murowana Goślina
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.58623
+  lon: 17.03705
+  lands:
+    pojezierze_gnieznienskie: 96.885
+    poznanski_przelom_warty: 3.115
+  boundary:
+    southWest:
+      lat: 52.51365452500005
+      lng: 16.893404770000075
+    northEast:
+      lat: 52.676248644000054
+      lng: 17.186269994000043
+- slug: czerwonak
+  name: Czerwonak
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.49829
+  lon: 17.03612
+  lands:
+    pojezierze_gnieznienskie: 79.005
+    poznanski_przelom_warty: 20.994
+    rownina_wrzesinska: 0.001
+  boundary:
+    southWest:
+      lat: 52.43929196800008
+      lng: 16.953325970000037
+    northEast:
+      lat: 52.56683565900005
+      lng: 17.12099711600007
+- slug: komorniki
+  name: Komorniki
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.3245
+  lon: 16.80082
+  lands:
+    wysoczyzna_grodziska: 93.542
+    poznanski_przelom_warty: 6.458
+  boundary:
+    southWest:
+      lat: 52.27539186300004
+      lng: 16.731333237000058
+    northEast:
+      lat: 52.37805915400003
+      lng: 16.90934194700003
+- slug: kornik
+  name: Kórnik
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.24801
+  lon: 17.06572
+  lands:
+    rownina_wrzesinska: 94.9323
+    kotlina_sremska: 5.0677
+  boundary:
+    southWest:
+      lat: 52.157841259000065
+      lng: 16.924997519000044
+    northEast:
+      lat: 52.342019003000075
+      lng: 17.19770102800004
+- slug: bojanowo
+  name: Bojanowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.69377
+  lon: 16.77991
+  lands:
+    wysoczyzna_leszczynska: 69.267
+    wysoczyzna_kaliska: 23.7455
+    kotlina_zmigrodzka: 6.9874
+  boundary:
+    southWest:
+      lat: 51.64098719900005
+      lng: 16.639154262000034
+    northEast:
+      lat: 51.74556539200006
+      lng: 16.887044197000023
+- slug: malanow
+  name: Malanów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.96096
+  lon: 18.39247
+  lands:
+    wysoczyzna_turecka: 64.3636
+    rownina_rychwalska: 35.6364
+  boundary:
+    southWest:
+      lat: 51.89860076100007
+      lng: 18.296853811000062
+    northEast:
+      lat: 52.02319309600006
+      lng: 18.481888714000036
+- slug: dobra
+  name: Dobra
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.88708
+  lon: 18.65456
+  lands:
+    wysoczyzna_turecka: 76.8057
+    kotlina_sieradzka: 11.8758
+    kotlina_kolska: 11.3185
+  boundary:
+    southWest:
+      lat: 51.82100292200005
+      lng: 18.56171764100003
+    northEast:
+      lat: 51.95359511000004
+      lng: 18.766176381000037
+- slug: wladyslawow
+  name: Władysławów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.11311
+  lon: 18.4558
+  lands:
+    wysoczyzna_turecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.05833045300005
+      lng: 18.329340568000077
+    northEast:
+      lat: 52.17082819900003
+      lng: 18.526704233000032
+- slug: gostyn
+  name: Gostyń
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.89555
+  lon: 16.95628
+  lands:
+    wysoczyzna_leszczynska: 49.3766
+    pojezierze_krzywinskie: 31.6414
+    wysoczyzna_kaliska: 18.982
+  boundary:
+    southWest:
+      lat: 51.81897453800008
+      lng: 16.86006531000004
+    northEast:
+      lat: 51.98020305300008
+      lng: 17.07293039900003
+- slug: blizanow
+  name: Blizanów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.89289
+  lon: 18.01363
+  lands:
+    wysoczyzna_kaliska: 62.4312
+    rownina_rychwalska: 37.5688
+  boundary:
+    southWest:
+      lat: 51.77947845600005
+      lng: 17.93404314000003
+    northEast:
+      lat: 52.00005384200006
+      lng: 18.093197382000028
+- slug: zelazkow
+  name: Żelazków
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.82981
+  lon: 18.14295
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.76288202600006
+      lng: 18.066061380000065
+    northEast:
+      lat: 51.909913464000056
+      lng: 18.241466075000062
+- slug: bralin
+  name: Bralin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.28595
+  lon: 17.89995
+  lands:
+    wysoczyzna_wieruszowska: 54.0021
+    rownina_olesnicka: 36.0355
+    wzgorza_ostrzeszowskie: 9.9625
+  boundary:
+    southWest:
+      lat: 51.21367470200005
+      lng: 17.824423058000036
+    northEast:
+      lat: 51.34916793800005
+      lng: 17.964577587000065
+- slug: skulsk
+  name: Skulsk
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.47569
+  lon: 18.31607
+  lands:
+    pojezierze_zninskomogilenskie: 99.9659
+    pojezierze_kujawskie: 0.0341
+  boundary:
+    southWest:
+      lat: 52.41266552900004
+      lng: 18.239978790000066
+    northEast:
+      lat: 52.54336026500005
+      lng: 18.398789858000043
+- slug: krotoszyn
+  name: Krotoszyn
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.70828
+  lon: 17.48852
+  lands:
+    wysoczyzna_kaliska: 100.0
+  boundary:
+    southWest:
+      lat: 51.62734248600003
+      lng: 17.318641478000075
+    northEast:
+      lat: 51.79933913800005
+      lng: 17.71446442000007
+- slug: wielichowo
+  name: Wielichowo
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.10825
+  lon: 16.3538
+  lands:
+    dolina_srodkowej_obry: 44.7254
+    wysoczyzna_grodziska: 43.5295
+    rownina_koscianska: 11.7451
+  boundary:
+    southWest:
+      lat: 52.03359816100004
+      lng: 16.263434629000074
+    northEast:
+      lat: 52.18149211800005
+      lng: 16.469789130000038
+- slug: opatowek
+  name: Opatówek
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.74432
+  lon: 18.22021
+  lands:
+    wysoczyzna_turecka: 52.3221
+    wysoczyzna_kaliska: 46.3398
+    kotlina_grabowska: 1.3381
+  boundary:
+    southWest:
+      lat: 51.68537435300004
+      lng: 18.128213730000027
+    northEast:
+      lat: 51.803308876000074
+      lng: 18.322812828000053
+- slug: nowe_skalmierzyce
+  name: Nowe Skalmierzyce
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.72489
+  lon: 17.95884
+  lands:
+    wysoczyzna_kaliska: 98.2666
+    kotlina_grabowska: 1.7334
+  boundary:
+    southWest:
+      lat: 51.65130809500005
+      lng: 17.884939033000023
+    northEast:
+      lat: 51.78612696300007
+      lng: 18.12087712500005

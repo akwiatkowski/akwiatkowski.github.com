@@ -1,338 +1,1881 @@
 ---
-- slug: olsztyn
-  name: Olsztyn
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.78146
-  lon: 20.47801
-- slug: jonkowo
-  name: Jonkowo
-  type: town
-  voivodeship: warminsko_mazurskie
-  wiki: https://pl.wikipedia.org/wiki/Jonkowo_(gmina)
-  lat: 53.82789
-  lon: 20.31098
-- slug: lukta
-  name: Łukta
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.80337
-  lon: 20.08439
-- slug: morag
-  name: Morąg
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.91332
-  lon: 19.92440
-- slug: milomlyn
-  name: Miłomłyn
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.76472
-  lon: 19.83205
-- slug: zalewo
-  name: Zalewo
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.84461
-  lon: 19.60751
-- slug: wieliczki
-  name: Wieliczki
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.98403
-  lon: 22.56078
-- slug: olecko
-  name: Olecko
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.03457
-  lon: 22.49606
-- slug: elk
-  name: Ełk
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.82708
-  lon: 22.35942
-- slug: stare_juchy
-  name: Stare Juchy
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.92151
-  lon: 22.17059
-- slug: wydminy
-  name: Wydminy
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.98030
-  lon: 22.03103
 - slug: gizycko
   name: Giżycko
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.03568
-  lon: 21.77182
-- slug: ryn
-  name: Ryn
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.93838
-  lon: 21.54403
-- slug: ketrzyn
-  name: Kętrzyn
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.07558
-  lon: 21.37666
-- slug: korsze
-  name: Korsze
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.17206
-  lon: 21.13702
-- slug: bisztynek
-  name: Bisztynek
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.08706
-  lon: 20.90545
-- slug: kolno
-  name: Kolno
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.40982
-  lon: 21.92906
-- slug: biskupiec_olsztynski
-  name: Biskupiec (powiat olsztyński)
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.86776
-  lon: 20.95557
-- slug: barczewo
-  name: Barczewo
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.83134
-  lon: 20.69276
-- slug: ilawa
-  name: Iława
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.59707
-  lon: 19.56374
-- slug: biskupiec_nowomiejski
-  name: Biskupiec (powiat nowomiejski)
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.50038
-  lon: 19.34796
-- slug: ostroda
-  name: Ostróda
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.70016
-  lon: 19.95924
-- slug: lidzbark
-  name: Lidzbark
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.26274
-  lon: 19.81934
-- slug: rybno
-  name: Rybno
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.38266
-  lon: 19.93031
-- slug: lubawa
-  name: Lubawa
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.50402
-  lon: 19.74990
-- slug: dabrowno
-  name: Dąbrówno
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.43305
-  lon: 20.03511
-- slug: grunwald
-  name: Grunwald
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.48508
-  lon: 20.09116
-- slug: markusy
-  name: Markusy
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.04784
-  lon: 19.38593
-- slug: elblag
-  name: Elbląg
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.15152
-  lon: 19.41512
-- slug: wegorzewo
-  name: Węgorzewo
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.21248
-  lon: 21.73779
-- slug: srokowo
-  name: Srokowo
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.21399
-  lon: 21.52322
-- slug: barciany
-  name: Barciany
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.22001
-  lon: 21.35087
-- slug: sepopol
-  name: Sępopol
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.26535
-  lon: 21.00840
-- slug: bartoszyce
-  name: Bartoszyce
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.25212
-  lon: 20.81443
-- slug: reszel
-  name: Reszel
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.04954
-  lon: 21.14453
-- slug: bisztynek
-  name: Bisztynek
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.08621
-  lon: 20.90232
-- slug: stare_juchy
-  name: Stare Juchy
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.92135
-  lon: 22.17313
-- slug: milki
-  name: Miłki
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.94187
-  lon: 21.87443
-- slug: kisielice
-  name: Kisielice
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.60700
-  lon: 19.26604
-- slug: susz
-  name: Susz
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.71848
-  lon: 19.33694
-- slug: dobre_miasto
-  name: Dobre Miasto
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.98618
-  lon: 20.39651
-- slug: dywity
-  name: Dywity
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.83728
-  lon: 20.47716
-- slug: jeziorany
-  name: Jeziorany
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.97461
-  lon: 20.74650
+  voivodeship: warminsko-mazurskie
+  lat: 54.03022
+  lon: 21.7687
+  lands:
+    kraina_wielkich_jezior_mazurskich: 100.0
+  boundary:
+    southWest:
+      lat: 54.01630530500006
+      lng: 21.733286674000055
+    northEast:
+      lat: 54.055089691000035
+      lng: 21.80437812100007
 - slug: paslek
   name: Pasłęk
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.06346
-  lon: 19.65610
-- slug: godkowo
-  name: Godkowo
+  voivodeship: warminsko-mazurskie
+  lat: 54.04217
+  lon: 19.69268
+  lands:
+    pojezierze_dzierzgonskomoraskie: 43.3318
+    rownina_warminska: 41.7139
+    zulawy_wislane: 7.9676
+  boundary:
+    southWest:
+      lat: 53.941150280000045
+      lng: 19.553144237000026
+    northEast:
+      lat: 54.14766506600006
+      lng: 19.832618539000066
+- slug: ilawa
+  name: Iława
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.07908
-  lon: 19.90450
-- slug: milakowo
-  name: Miłakowo
+  voivodeship: warminsko-mazurskie
+  lat: 53.59596
+  lon: 19.57493
+  lands:
+    rownina_ilawska: 100.0
+  boundary:
+    southWest:
+      lat: 53.56369583700007
+      lng: 19.526029739000023
+    northEast:
+      lat: 53.62704826600003
+      lng: 19.610248484000067
+- slug: barczewo
+  name: Barczewo
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.00913
-  lon: 20.07067
-- slug: lubomino
-  name: Lubomino
+  voivodeship: warminsko-mazurskie
+  lat: 53.84839
+  lon: 20.7031
+  lands:
+    pojezierze_olsztynskie: 77.3786
+    pojezierze_mragowskie: 11.8056
+    wysoczyzna_jezioranskobisztynecka: 10.8158
+  boundary:
+    southWest:
+      lat: 53.75130493000006
+      lng: 20.532354156000054
+    northEast:
+      lat: 53.93965876100003
+      lng: 20.898522099000047
+- slug: bisztynek
+  name: Bisztynek
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.06477
-  lon: 20.23975
-- slug: swiatki
-  name: Świątki
+  voivodeship: warminsko-mazurskie
+  lat: 54.09933
+  lon: 20.95746
+  lands:
+    wysoczyzna_jezioranskobisztynecka: 53.6656
+    nizina_sepopolska: 37.052
+    pojezierze_mragowskie: 9.2824
+  boundary:
+    southWest:
+      lat: 54.02285280700005
+      lng: 20.780646146000038
+    northEast:
+      lat: 54.16875169900004
+      lng: 21.107009810000022
+- slug: grunwald
+  name: Grunwald
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.92632
-  lon: 20.24284
-- slug: kurzetnik
-  name: Kurzętnik
+  voivodeship: warminsko-mazurskie
+  lat: 53.53424
+  lon: 20.10253
+  lands:
+    garb_lubawski: 94.3561
+    rownina_olsztynka: 5.5359
+    rownina_urszulewska: 0.108
+  boundary:
+    southWest:
+      lat: 53.44845834200004
+      lng: 19.989580423000064
+    northEast:
+      lat: 53.618869317000076
+      lng: 20.272394365000025
+- slug: ostroda
+  name: Ostróda
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.40457410010667
-  lon: 19.570145640232223
-- slug: nowe_miasto_lubawskie
-  name: Nowe Miasto Lubawskie
+  voivodeship: warminsko-mazurskie
+  lat: 53.70876
+  lon: 19.96495
+  lands:
+    dolina_drwecy: 78.0117
+    rownina_olsztynka: 21.9883
+  boundary:
+    southWest:
+      lat: 53.68094676000004
+      lng: 19.936168886000075
+    northEast:
+      lat: 53.72123579000004
+      lng: 19.994736097000043
+- slug: olsztyn
+  name: Olsztyn
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.42667331818058
-  lon: 19.58696845342407
-- slug: gorowo_ilawieckie
-  name: Górowo Iławieckie
+  voivodeship: warminsko-mazurskie
+  lat: 53.78183
+  lon: 20.47592
+  lands:
+    pojezierze_olsztynskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.73021678600003
+      lng: 20.38294372400003
+    northEast:
+      lat: 53.82866976300005
+      lng: 20.560723388000042
+- slug: pozezdrze
+  name: Pozezdrze
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.286116325970234
-  lon: 20.488650231848474
-- slug: lidzbark_warminski
-  name: Lidzbark Warmiński
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.124744236096646
-  lon: 20.580701346132617
-- slug: kiwity
-  name: Kiwity
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.10021949972806
-  lon: 20.7710127426298
-- slug: gietrzwald
-  name: Gietrzwałd
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 53.744148407487096
-  lon: 20.238075294468654
-- slug: pieniezno
-  name: Pieniężno
-  type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.23617
-  lon: 20.12792
+  voivodeship: warminsko-mazurskie
+  lat: 54.15424
+  lon: 21.87686
+  lands:
+    kraina_wielkich_jezior_mazurskich: 85.2072
+    pojezierze_elckie: 14.7928
+  boundary:
+    southWest:
+      lat: 54.08714631400005
+      lng: 21.69619525400003
+    northEast:
+      lat: 54.22013492500008
+      lng: 22.02511759600003
 - slug: lelkowo
   name: Lelkowo
   type: town
-  voivodeship: warminsko_mazurskie
-  lat: 54.32427
-  lon: 20.22405
+  voivodeship: warminsko-mazurskie
+  lat: 54.33931
+  lon: 20.16958
+  lands:
+    wzniesienia_gorowskie: 99.9999
+  boundary:
+    southWest:
+      lat: 54.258249781000075
+      lng: 20.050242732000072
+    northEast:
+      lat: 54.418609539000045
+      lng: 20.335359202000063
+- slug: dzialdowo
+  name: Działdowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.23496
+  lon: 20.17684
+  lands:
+    wzniesienia_mlawskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.21563187700008
+      lng: 20.146292089000042
+    northEast:
+      lat: 53.256758396000066
+      lng: 20.21479238300003
+- slug: braniewo
+  name: Braniewo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.37815
+  lon: 19.90909
+  lands:
+    rownina_warminska: 56.2263
+    wybrzeze_staropruskie: 19.9629
+    wzniesienia_gorowskie: 15.7434
+  boundary:
+    southWest:
+      lat: 54.29419401200005
+      lng: 19.648735518000024
+    northEast:
+      lat: 54.45326669200006
+      lng: 20.114425953000023
+- slug: ilawa
+  name: Iława
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.63429
+  lon: 19.56874
+  lands:
+    rownina_ilawska: 69.8273
+    pojezierze_lasinskie: 13.6057
+    pojezierze_brodnickie: 12.3574
+  boundary:
+    southWest:
+      lat: 53.50340512000008
+      lng: 19.352157790000035
+    northEast:
+      lat: 53.77299882500006
+      lng: 19.808516991000033
+- slug: bartoszyce
+  name: Bartoszyce
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.24801
+  lon: 20.74746
+  lands:
+    nizina_sepopolska: 89.8751
+    wysoczyzna_jezioranskobisztynecka: 10.0333
+  boundary:
+    southWest:
+      lat: 54.11481792500007
+      lng: 20.577333167000063
+    northEast:
+      lat: 54.372260905000076
+      lng: 21.030162817000075
+- slug: mlynary
+  name: Młynary
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.20675
+  lon: 19.6915
+  lands:
+    wysoczyzna_elblaska: 58.1024
+    rownina_warminska: 41.8976
+  boundary:
+    southWest:
+      lat: 54.131511327000055
+      lng: 19.571537069000044
+    northEast:
+      lat: 54.27752511600005
+      lng: 19.814299470000037
+- slug: prostki
+  name: Prostki
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.70521
+  lon: 22.37022
+  lands:
+    pojezierze_elckie: 99.7189
+    kotlina_biebrzanska: 0.2811
+  boundary:
+    southWest:
+      lat: 53.62675945600006
+      lng: 22.17664794800004
+    northEast:
+      lat: 53.77898716700008
+      lng: 22.626493598000025
+- slug: ketrzyn
+  name: Kętrzyn
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.05059
+  lon: 21.4149
+  lands:
+    kraina_wielkich_jezior_mazurskich: 46.8067
+    pojezierze_mragowskie: 38.075
+    nizina_sepopolska: 15.1183
+  boundary:
+    southWest:
+      lat: 53.95986411000007
+      lng: 21.246971443000064
+    northEast:
+      lat: 54.141870578000066
+      lng: 21.562192715000037
+- slug: reszel
+  name: Reszel
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.0234
+  lon: 21.18804
+  lands:
+    pojezierze_mragowskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.93818820700005
+      lng: 21.06964808600003
+    northEast:
+      lat: 54.10165909700004
+      lng: 21.305750768000053
+- slug: orneta
+  name: Orneta
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.12495
+  lon: 20.14247
+  lands:
+    rownina_ornecka: 68.5114
+    wzniesienia_gorowskie: 17.3598
+    rownina_warminska: 13.253
+  boundary:
+    southWest:
+      lat: 54.05149675200005
+      lng: 19.94418980200004
+    northEast:
+      lat: 54.20230977600005
+      lng: 20.332703612000046
+- slug: olsztynek
+  name: Olsztynek
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.57205
+  lon: 20.28342
+  lands:
+    rownina_olsztynka: 90.599
+    garb_lubawski: 8.9285
+    rownina_mazurska: 0.4575
+  boundary:
+    southWest:
+      lat: 53.45444933300007
+      lng: 20.114083992000076
+    northEast:
+      lat: 53.687309248000076
+      lng: 20.604705937000062
+- slug: kiwity
+  name: Kiwity
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.11105
+  lon: 20.74304
+  lands:
+    wysoczyzna_jezioranskobisztynecka: 96.9742
+    nizina_sepopolska: 3.0258
+  boundary:
+    southWest:
+      lat: 54.00979171500006
+      lng: 20.628011766000043
+    northEast:
+      lat: 54.212130212000034
+      lng: 20.81705342600003
+- slug: piecki
+  name: Piecki
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.719
+  lon: 21.3122
+  lands:
+    pojezierze_mragowskie: 88.4986
+    rownina_mazurska: 9.415
+    kraina_wielkich_jezior_mazurskich: 2.0864
+  boundary:
+    southWest:
+      lat: 53.62547573900008
+      lng: 21.16117838200006
+    northEast:
+      lat: 53.811704518000056
+      lng: 21.519485081000028
+- slug: kurzetnik
+  name: Kurzętnik
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.39503
+  lon: 19.50718
+  lands:
+    pojezierze_brodnickie: 56.3803
+    garb_lubawski: 33.7731
+    dolina_drwecy: 9.8467
+  boundary:
+    southWest:
+      lat: 53.33045322400005
+      lng: 19.380602427000042
+    northEast:
+      lat: 53.46012759200005
+      lng: 19.674727698000027
+- slug: rucianenida
+  name: Ruciane-Nida
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.64722
+  lon: 21.57575
+  lands:
+    rownina_mazurska: 59.3403
+    kraina_wielkich_jezior_mazurskich: 33.3774
+    pojezierze_mragowskie: 7.2822
+  boundary:
+    southWest:
+      lat: 53.52562744900007
+      lng: 21.410007016000066
+    northEast:
+      lat: 53.76513915800007
+      lng: 21.743156467000063
+- slug: biala_piska
+  name: Biała Piska
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.63383
+  lon: 22.12853
+  lands:
+    pojezierze_elckie: 63.1579
+    rownina_mazurska: 31.883
+    wysoczyzna_kolnenska: 4.9592
+  boundary:
+    southWest:
+      lat: 53.49714456700008
+      lng: 21.917304415000046
+    northEast:
+      lat: 53.757911421000074
+      lng: 22.30563939700005
+- slug: pisz
+  name: Pisz
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.62982
+  lon: 21.84293
+  lands:
+    rownina_mazurska: 56.428
+    kraina_wielkich_jezior_mazurskich: 19.5668
+    pojezierze_elckie: 16.1256
+  boundary:
+    southWest:
+      lat: 53.45891618400003
+      lng: 21.44943526700007
+    northEast:
+      lat: 53.810263665000036
+      lng: 21.97533523900006
+- slug: milakowo
+  name: Miłakowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.99586
+  lon: 20.07253
+  lands:
+    pojezierze_dzierzgonskomoraskie: 62.9541
+    pojezierze_olsztynskie: 25.8013
+    rownina_warminska: 6.5977
+  boundary:
+    southWest:
+      lat: 53.90337874200003
+      lng: 19.978250755000033
+    northEast:
+      lat: 54.07985945000007
+      lng: 20.200477799000055
+- slug: frombork
+  name: Frombork
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.3521
+  lon: 19.6791
+  lands:
+    rownina_warminska: 59.1589
+    wybrzeze_staropruskie: 6.9447
+    wysoczyzna_elblaska: 3.647
+  boundary:
+    southWest:
+      lat: 54.261026867000055
+      lng: 19.61913794700007
+    northEast:
+      lat: 54.45326669200006
+      lng: 19.78239560000003
+- slug: gorowo_ilaweckie
+  name: Górowo Iławeckie
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.28338
+  lon: 20.48961
+  lands:
+    wzniesienia_gorowskie: 100.0
+  boundary:
+    southWest:
+      lat: 54.27503215100006
+      lng: 20.474988474000043
+    northEast:
+      lat: 54.29210595300003
+      lng: 20.50410256300006
+- slug: braniewo
+  name: Braniewo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.38783
+  lon: 19.82516
+  lands:
+    rownina_warminska: 58.5069
+    wybrzeze_staropruskie: 41.4931
+  boundary:
+    southWest:
+      lat: 54.35586037400003
+      lng: 19.79168409600004
+    northEast:
+      lat: 54.40404452800004
+      lng: 19.846585482000023
+- slug: lubawa
+  name: Lubawa
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.52345
+  lon: 19.77766
+  lands:
+    garb_lubawski: 86.1088
+    dolina_drwecy: 13.3235
+    rownina_urszulewska: 0.5677
+  boundary:
+    southWest:
+      lat: 53.43330312300003
+      lng: 19.608308074000036
+    northEast:
+      lat: 53.617089047000036
+      lng: 19.94801794600005
+- slug: kruklanki
+  name: Kruklanki
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.09665
+  lon: 22.03725
+  lands:
+    pojezierze_elckie: 80.2868
+    kraina_wielkich_jezior_mazurskich: 19.7132
+  boundary:
+    southWest:
+      lat: 54.00741976200004
+      lng: 21.887227148000022
+    northEast:
+      lat: 54.18154867900006
+      lng: 22.20044445800005
+- slug: rychliki
+  name: Rychliki
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.98862
+  lon: 19.51986
+  lands:
+    pojezierze_dzierzgonskomoraskie: 89.3689
+    zulawy_wislane: 10.6311
+  boundary:
+    southWest:
+      lat: 53.92628457200004
+      lng: 19.365784636000058
+    northEast:
+      lat: 54.05081174400004
+      lng: 19.61887876700007
+- slug: milejewo
+  name: Milejewo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.20235
+  lon: 19.53514
+  lands:
+    wysoczyzna_elblaska: 100.0
+  boundary:
+    southWest:
+      lat: 54.134718931000066
+      lng: 19.46572143700007
+    northEast:
+      lat: 54.27044530200004
+      lng: 19.64320861400006
+- slug: elk
+  name: Ełk
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.81557
+  lon: 22.36439
+  lands:
+    pojezierze_elckie: 100.0
+  boundary:
+    southWest:
+      lat: 53.790144733000034
+      lng: 22.323815763000027
+    northEast:
+      lat: 53.848538860000076
+      lng: 22.391526748000047
+- slug: biskupiec
+  name: Biskupiec
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.48065
+  lon: 19.33901
+  lands:
+    pojezierze_brodnickie: 100.0
+  boundary:
+    southWest:
+      lat: 53.39081124900008
+      lng: 19.18919905000007
+    northEast:
+      lat: 53.56937271100003
+      lng: 19.497428642000045
+- slug: dywity
+  name: Dywity
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.87784
+  lon: 20.46879
+  lands:
+    pojezierze_olsztynskie: 90.9177
+    wysoczyzna_jezioranskobisztynecka: 9.0823
+  boundary:
+    southWest:
+      lat: 53.80653910500007
+      lng: 20.32922309500003
+    northEast:
+      lat: 53.94475838900007
+      lng: 20.624122423000074
+- slug: wegorzewo
+  name: Węgorzewo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.20062
+  lon: 21.73125
+  lands:
+    kraina_wielkich_jezior_mazurskich: 69.1726
+    kraina_wegorapy: 15.9005
+    nizina_sepopolska: 14.8372
+  boundary:
+    southWest:
+      lat: 54.080841726000074
+      lng: 21.531085000000076
+    northEast:
+      lat: 54.32970298500004
+      lng: 21.874317768000026
+- slug: pieniezno
+  name: Pieniężno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.255
+  lon: 20.19815
+  lands:
+    wzniesienia_gorowskie: 95.505
+    rownina_warminska: 4.1485
+    rownina_ornecka: 0.3464
+  boundary:
+    southWest:
+      lat: 54.16638118900005
+      lng: 19.99838301400007
+    northEast:
+      lat: 54.34237853700006
+      lng: 20.39359100300004
+- slug: ploskinia
+  name: Płoskinia
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.25018
+  lon: 19.90196
+  lands:
+    rownina_warminska: 68.2405
+    wzniesienia_gorowskie: 31.7595
+  boundary:
+    southWest:
+      lat: 54.17599640900005
+      lng: 19.751363407000042
+    northEast:
+      lat: 54.32334181400006
+      lng: 20.04383669200007
+- slug: lidzbark
+  name: Lidzbark
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.24508
+  lon: 19.8087
+  lands:
+    rownina_urszulewska: 56.2242
+    garb_lubawski: 30.6523
+    wzniesienia_mlawskie: 12.5008
+  boundary:
+    southWest:
+      lat: 53.140962080000065
+      lng: 19.692192308000074
+    northEast:
+      lat: 53.35465981200008
+      lng: 19.997079812000038
+- slug: susz
+  name: Susz
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.7222
+  lon: 19.37045
+  lands:
+    pojezierze_lasinskie: 69.9886
+    rownina_ilawska: 27.3543
+    pojezierze_dzierzgonskomoraskie: 2.6571
+  boundary:
+    southWest:
+      lat: 53.62901143300007
+      lng: 19.212945597000044
+    northEast:
+      lat: 53.81419952500005
+      lng: 19.528461867000033
+- slug: bartoszyce
+  name: Bartoszyce
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.24787
+  lon: 20.81327
+  lands:
+    nizina_sepopolska: 100.0
+  boundary:
+    southWest:
+      lat: 54.23477623800005
+      lng: 20.779671277000034
+    northEast:
+      lat: 54.26580223500008
+      lng: 20.845219840000027
+- slug: stare_juchy
+  name: Stare Juchy
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.91129
+  lon: 22.21122
+  lands:
+    pojezierze_elckie: 85.4744
+    kraina_wielkich_jezior_mazurskich: 14.5256
+  boundary:
+    southWest:
+      lat: 53.822662782000066
+      lng: 22.023853247000034
+    northEast:
+      lat: 54.003841496000064
+      lng: 22.32054221100003
+- slug: korsze
+  name: Korsze
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.18069
+  lon: 21.16462
+  lands:
+    nizina_sepopolska: 79.4865
+    pojezierze_mragowskie: 20.5135
+  boundary:
+    southWest:
+      lat: 54.08003695900004
+      lng: 21.022045193000054
+    northEast:
+      lat: 54.28418749000008
+      lng: 21.307302547000063
+- slug: ketrzyn
+  name: Kętrzyn
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.07517
+  lon: 21.3764
+  lands:
+    kraina_wielkich_jezior_mazurskich: 99.8463
+    pojezierze_mragowskie: 0.1461
+    nizina_sepopolska: 0.0076
+  boundary:
+    southWest:
+      lat: 54.06123317700008
+      lng: 21.348219597000025
+    northEast:
+      lat: 54.09922127600004
+      lng: 21.405060801000047
+- slug: lubomino
+  name: Lubomino
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.06095
+  lon: 20.25123
+  lands:
+    pojezierze_olsztynskie: 49.399
+    wysoczyzna_jezioranskobisztynecka: 36.1147
+    rownina_ornecka: 14.3648
+  boundary:
+    southWest:
+      lat: 53.98291283300006
+      lng: 20.11914480400003
+    northEast:
+      lat: 54.13741926200004
+      lng: 20.37570878400004
+- slug: nowe_miasto_lubawskie
+  name: Nowe Miasto Lubawskie
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.42294
+  lon: 19.58337
+  lands:
+    pojezierze_brodnickie: 48.8048
+    dolina_drwecy: 36.3617
+    garb_lubawski: 14.8335
+  boundary:
+    southWest:
+      lat: 53.40912872100006
+      lng: 19.551972724000052
+    northEast:
+      lat: 53.44260504300007
+      lng: 19.618645858000036
+- slug: jeziorany
+  name: Jeziorany
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.98912
+  lon: 20.70379
+  lands:
+    wysoczyzna_jezioranskobisztynecka: 94.3296
+    pojezierze_mragowskie: 5.6704
+  boundary:
+    southWest:
+      lat: 53.906556831000046
+      lng: 20.54662713700003
+    northEast:
+      lat: 54.07399743800005
+      lng: 20.892812092000042
+- slug: janowo
+  name: Janowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.34285
+  lon: 20.67842
+  lands:
+    rownina_mazurska: 71.2338
+    wzniesienia_mlawskie: 27.5606
+    rownina_kurpiowska: 1.2057
+  boundary:
+    southWest:
+      lat: 53.25151237400007
+      lng: 20.53290990100004
+    northEast:
+      lat: 53.434035831000074
+      lng: 20.817039296000075
+- slug: sorkwity
+  name: Sorkwity
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.83747
+  lon: 21.13152
+  lands:
+    pojezierze_mragowskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.71608929800004
+      lng: 21.051369684000065
+    northEast:
+      lat: 53.95953629200005
+      lng: 21.242403086000024
+- slug: grodziczno
+  name: Grodziczno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.38316
+  lon: 19.76264
+  lands:
+    garb_lubawski: 98.8084
+    rownina_urszulewska: 1.1916
+  boundary:
+    southWest:
+      lat: 53.30206836800005
+      lng: 19.657997592000072
+    northEast:
+      lat: 53.46702316100004
+      lng: 19.904018148000034
+- slug: lukta
+  name: Łukta
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.81263
+  lon: 20.0419
+  lands:
+    rownina_olsztynka: 83.0896
+    pojezierze_olsztynskie: 16.9104
+  boundary:
+    southWest:
+      lat: 53.71271372400008
+      lng: 19.926702271000067
+    northEast:
+      lat: 53.89140304700004
+      lng: 20.177932059000057
+- slug: szczytno
+  name: Szczytno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.54394
+  lon: 21.02472
+  lands:
+    rownina_mazurska: 64.7797
+    pojezierze_mragowskie: 34.6654
+    pojezierze_olsztynskie: 0.5549
+  boundary:
+    southWest:
+      lat: 53.42986962500004
+      lng: 20.856571057000053
+    northEast:
+      lat: 53.664247970000076
+      lng: 21.209435755000072
+- slug: purda
+  name: Purda
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.66403
+  lon: 20.62955
+  lands:
+    pojezierze_olsztynskie: 81.3482
+    rownina_olsztynka: 16.3114
+    pojezierze_mragowskie: 2.3404
+  boundary:
+    southWest:
+      lat: 53.54388618300004
+      lng: 20.495404190000045
+    northEast:
+      lat: 53.78547935700004
+      lng: 20.863800284000035
+- slug: rybno
+  name: Rybno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.36983
+  lon: 19.9353
+  lands:
+    rownina_urszulewska: 84.9043
+    garb_lubawski: 15.0957
+  boundary:
+    southWest:
+      lat: 53.29732096200007
+      lng: 19.83069280500007
+    northEast:
+      lat: 53.43835090200008
+      lng: 20.05150365700007
+- slug: plosnica
+  name: Płośnica
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.23124
+  lon: 19.99592
+  lands:
+    wzniesienia_mlawskie: 64.1987
+    rownina_urszulewska: 35.8013
+  boundary:
+    southWest:
+      lat: 53.14391455500004
+      lng: 19.906323350000036
+    northEast:
+      lat: 53.32665344000003
+      lng: 20.12358713800006
+- slug: dzialdowo
+  name: Działdowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.28886
+  lon: 20.16749
+  lands:
+    wzniesienia_mlawskie: 70.5948
+    rownina_urszulewska: 27.5532
+    garb_lubawski: 1.8519
+  boundary:
+    southWest:
+      lat: 53.142453970000076
+      lng: 20.018041806000042
+    northEast:
+      lat: 53.435601804000044
+      lng: 20.285939546000066
+- slug: sepopol
+  name: Sępopol
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.26287
+  lon: 21.00228
+  lands:
+    nizina_sepopolska: 99.8892
+  boundary:
+    southWest:
+      lat: 54.17085351700007
+      lng: 20.85521458100004
+    northEast:
+      lat: 54.35844081300007
+      lng: 21.22054666200006
+- slug: kowale_oleckie
+  name: Kowale Oleckie
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.15003
+  lon: 22.34185
+  lands:
+    wzgorza_szeskie: 34.4499
+    pojezierze_elckie: 34.3615
+    pojezierze_zachodniosuwalskie: 31.1886
+  boundary:
+    southWest:
+      lat: 54.083451824000065
+      lng: 22.110154652000062
+    northEast:
+      lat: 54.21506220100008
+      lng: 22.559815616000037
+- slug: lubawa
+  name: Lubawa
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.50744
+  lon: 19.75483
+  lands:
+    garb_lubawski: 100.0
+  boundary:
+    southWest:
+      lat: 53.480921339000076
+      lng: 19.710583315000065
+    northEast:
+      lat: 53.524704221000036
+      lng: 19.799172592000048
+- slug: godkowo
+  name: Godkowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.07427
+  lon: 19.91872
+  lands:
+    rownina_warminska: 60.1777
+    pojezierze_dzierzgonskomoraskie: 39.8223
+  boundary:
+    southWest:
+      lat: 54.01191953400007
+      lng: 19.758507929000075
+    northEast:
+      lat: 54.13375102300006
+      lng: 20.058201736000058
+- slug: elk
+  name: Ełk
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.83255
+  lon: 22.3336
+  lands:
+    pojezierze_elckie: 97.9017
+    rownina_mazurska: 2.0983
+  boundary:
+    southWest:
+      lat: 53.71699175700007
+      lng: 22.126110623000045
+    northEast:
+      lat: 53.951360675000046
+      lng: 22.54572513100004
+- slug: lidzbark_warminski
+  name: Lidzbark Warmiński
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.11594
+  lon: 20.52248
+  lands:
+    wysoczyzna_jezioranskobisztynecka: 54.9832
+    nizina_sepopolska: 18.35
+    wzniesienia_gorowskie: 17.7958
+  boundary:
+    southWest:
+      lat: 54.00165732700003
+      lng: 20.314204568000036
+    northEast:
+      lat: 54.228709785000035
+      lng: 20.700082954000038
+- slug: gizycko
+  name: Giżycko
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.02146
+  lon: 21.77136
+  lands:
+    kraina_wielkich_jezior_mazurskich: 100.0
+  boundary:
+    southWest:
+      lat: 53.933324448000064
+      lng: 21.557779690000075
+    northEast:
+      lat: 54.11525078200003
+      lng: 21.956360405000055
+- slug: ryn
+  name: Ryn
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.95404
+  lon: 21.56357
+  lands:
+    kraina_wielkich_jezior_mazurskich: 84.1146
+    pojezierze_mragowskie: 15.8854
+  boundary:
+    southWest:
+      lat: 53.85460737200003
+      lng: 21.431470654000066
+    northEast:
+      lat: 54.06336920500007
+      lng: 21.719956595000042
+- slug: gietrzwald
+  name: Gietrzwałd
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.71897
+  lon: 20.24478
+  lands:
+    pojezierze_olsztynskie: 62.4258
+    rownina_olsztynka: 37.5742
+  boundary:
+    southWest:
+      lat: 53.65488786000003
+      lng: 20.110318876000065
+    northEast:
+      lat: 53.79366060600006
+      lng: 20.413900472000023
+- slug: olecko
+  name: Olecko
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.01287
+  lon: 22.5042
+  lands:
+    pojezierze_elckie: 57.9936
+    pojezierze_zachodniosuwalskie: 38.5868
+    wzgorza_szeskie: 3.4195
+  boundary:
+    southWest:
+      lat: 53.88752573900007
+      lng: 22.328530666000063
+    northEast:
+      lat: 54.140479467000034
+      lng: 22.63609990200007
+- slug: biskupiec
+  name: Biskupiec
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.86135
+  lon: 20.95376
+  lands:
+    pojezierze_mragowskie: 99.8391
+    pojezierze_olsztynskie: 0.156
+    wysoczyzna_jezioranskobisztynecka: 0.0049
+  boundary:
+    southWest:
+      lat: 53.76359225600004
+      lng: 20.81255014000004
+    northEast:
+      lat: 53.96482446600004
+      lng: 21.11200029300005
+- slug: swietajno
+  name: Świętajno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.01861
+  lon: 22.26554
+  lands:
+    pojezierze_elckie: 96.4166
+    wzgorza_szeskie: 3.5834
+  boundary:
+    southWest:
+      lat: 53.92880643700005
+      lng: 22.151439253000035
+    northEast:
+      lat: 54.11360420600005
+      lng: 22.446101428000077
+- slug: dabrowno
+  name: Dąbrówno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.45987
+  lon: 20.00905
+  lands:
+    garb_lubawski: 60.6597
+    rownina_urszulewska: 35.4823
+    wzniesienia_mlawskie: 3.858
+  boundary:
+    southWest:
+      lat: 53.37848702600007
+      lng: 19.895897915000035
+    northEast:
+      lat: 53.540751226000054
+      lng: 20.228818958000033
+- slug: pasym
+  name: Pasym
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.64474
+  lon: 20.79861
+  lands:
+    pojezierze_olsztynskie: 92.4432
+    pojezierze_mragowskie: 7.5568
+  boundary:
+    southWest:
+      lat: 53.57251681400004
+      lng: 20.688003585000047
+    northEast:
+      lat: 53.71904487200004
+      lng: 20.92199893700007
+- slug: stawiguda
+  name: Stawiguda
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.65958
+  lon: 20.44993
+  lands:
+    rownina_olsztynka: 55.8407
+    pojezierze_olsztynskie: 44.1593
+  boundary:
+    southWest:
+      lat: 53.55207761300005
+      lng: 20.316091205000077
+    northEast:
+      lat: 53.75721310000006
+      lng: 20.558542870000053
+- slug: elblag
+  name: Elbląg
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.19475
+  lon: 19.44022
+  lands:
+    wysoczyzna_elblaska: 76.3387
+    zulawy_wislane: 23.6613
+  boundary:
+    southWest:
+      lat: 54.135649314000034
+      lng: 19.365573477000055
+    northEast:
+      lat: 54.25909910400003
+      lng: 19.509033755000075
+- slug: banie_mazurskie
+  name: Banie Mazurskie
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.25113
+  lon: 22.06463
+  lands:
+    kraina_wegorapy: 78.5412
+    pojezierze_elckie: 21.2454
+  boundary:
+    southWest:
+      lat: 54.17029710700007
+      lng: 21.93800496700004
+    northEast:
+      lat: 54.33646300100003
+      lng: 22.160721000000024
+- slug: ilowoosada
+  name: Iłowo-Osada
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.1833
+  lon: 20.2894
+  lands:
+    wzniesienia_mlawskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.139118308000036
+      lng: 20.19544770600004
+    northEast:
+      lat: 53.237967361000074
+      lng: 20.411136966000072
+- slug: milki
+  name: Miłki
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.92461
+  lon: 21.82773
+  lands:
+    kraina_wielkich_jezior_mazurskich: 100.0
+  boundary:
+    southWest:
+      lat: 53.85877726800004
+      lng: 21.681610785000032
+    northEast:
+      lat: 54.00272898000003
+      lng: 21.984381169000073
+- slug: gronowo_elblaskie
+  name: Gronowo Elbląskie
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.09791
+  lon: 19.31073
+  lands:
+    zulawy_wislane: 100.0
+  boundary:
+    southWest:
+      lat: 54.04172225500008
+      lng: 19.217284189000054
+    northEast:
+      lat: 54.15071856800006
+      lng: 19.38007206800006
+- slug: kalinowo
+  name: Kalinowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.84869
+  lon: 22.63304
+  lands:
+    pojezierze_elckie: 100.0
+  boundary:
+    southWest:
+      lat: 53.750245206000045
+      lng: 22.48446017400005
+    northEast:
+      lat: 53.952569252000046
+      lng: 22.785437486000035
+- slug: jonkowo
+  name: Jonkowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.82222
+  lon: 20.26911
+  lands:
+    pojezierze_olsztynskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.76300110500006
+      lng: 20.122489508000058
+    northEast:
+      lat: 53.88802861200003
+      lng: 20.410771821000026
+- slug: mragowo
+  name: Mrągowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.86563
+  lon: 21.30596
+  lands:
+    pojezierze_mragowskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.84198727900008
+      lng: 21.264391488000058
+    northEast:
+      lat: 53.88833137200004
+      lng: 21.33389800300006
+- slug: kozlowo
+  name: Kozłowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.34818
+  lon: 20.24666
+  lands:
+    wzniesienia_mlawskie: 78.4466
+    garb_lubawski: 18.1207
+    rownina_urszulewska: 3.4328
+  boundary:
+    southWest:
+      lat: 53.222887239000045
+      lng: 20.18011867000007
+    northEast:
+      lat: 53.47547999600005
+      lng: 20.433893778000026
+- slug: gorowo_ilaweckie
+  name: Górowo Iławeckie
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.29
+  lon: 20.4596
+  lands:
+    wzniesienia_gorowskie: 79.2636
+    nizina_sepopolska: 20.6166
+  boundary:
+    southWest:
+      lat: 54.185450779000064
+      lng: 20.260983828000064
+    northEast:
+      lat: 54.40220204900004
+      lng: 20.685345292000022
+- slug: tolkmicko
+  name: Tolkmicko
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.31107
+  lon: 19.4934
+  lands:
+    wysoczyzna_elblaska: 44.089
+    wybrzeze_staropruskie: 6.8476
+    zulawy_wislane: 3.7889
+  boundary:
+    southWest:
+      lat: 54.22202039500007
+      lng: 19.253432445000044
+    northEast:
+      lat: 54.392243258000065
+      lng: 19.64877423200005
+- slug: markusy
+  name: Markusy
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.04836
+  lon: 19.39232
+  lands:
+    zulawy_wislane: 95.3929
+    pojezierze_dzierzgonskomoraskie: 4.6071
+  boundary:
+    southWest:
+      lat: 53.98465755400008
+      lng: 19.259038184000076
+    northEast:
+      lat: 54.11183711100006
+      lng: 19.52460371600006
+- slug: srokowo
+  name: Srokowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.22869
+  lon: 21.49192
+  lands:
+    nizina_sepopolska: 59.4437
+    kraina_wielkich_jezior_mazurskich: 40.4483
+  boundary:
+    southWest:
+      lat: 54.12185765400005
+      lng: 21.39664870200005
+    northEast:
+      lat: 54.325209735000044
+      lng: 21.602311704000044
+- slug: wieliczki
+  name: Wieliczki
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.97037
+  lon: 22.59676
+  lands:
+    pojezierze_elckie: 84.447
+    pojezierze_zachodniosuwalskie: 15.553
+  boundary:
+    southWest:
+      lat: 53.88878906700006
+      lng: 22.48972440400007
+    northEast:
+      lat: 54.05279162200003
+      lng: 22.72374426600004
+- slug: nowe_miasto_lubawskie
+  name: Nowe Miasto Lubawskie
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.46796
+  lon: 19.54579
+  lands:
+    pojezierze_brodnickie: 55.4154
+    garb_lubawski: 32.8279
+    dolina_drwecy: 8.3126
+  boundary:
+    southWest:
+      lat: 53.378477228000065
+      lng: 19.448144471000035
+    northEast:
+      lat: 53.54461513900003
+      lng: 19.710862131000056
+- slug: dobre_miasto
+  name: Dobre Miasto
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.99657
+  lon: 20.42148
+  lands:
+    pojezierze_olsztynskie: 48.0732
+    wysoczyzna_jezioranskobisztynecka: 46.8066
+    rownina_ornecka: 5.1202
+  boundary:
+    southWest:
+      lat: 53.89063921700006
+      lng: 20.275537907000057
+    northEast:
+      lat: 54.103763807000064
+      lng: 20.58140710300006
+- slug: mragowo
+  name: Mrągowo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.89331
+  lon: 21.3498
+  lands:
+    pojezierze_mragowskie: 99.408
+    kraina_wielkich_jezior_mazurskich: 0.592
+  boundary:
+    southWest:
+      lat: 53.77705597900007
+      lng: 21.185340904000043
+    northEast:
+      lat: 53.995792136000034
+      lng: 21.490333977000034
+- slug: mikolajki
+  name: Mikołajki
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.80711
+  lon: 21.56369
+  lands:
+    kraina_wielkich_jezior_mazurskich: 73.5456
+    pojezierze_mragowskie: 26.4544
+  boundary:
+    southWest:
+      lat: 53.72233926100006
+      lng: 21.407550316000027
+    northEast:
+      lat: 53.89390970300008
+      lng: 21.74378852800004
+- slug: budry
+  name: Budry
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.26792
+  lon: 21.87549
+  lands:
+    kraina_wegorapy: 91.4857
+    kraina_wielkich_jezior_mazurskich: 5.7831
+  boundary:
+    southWest:
+      lat: 54.20231352500008
+      lng: 21.69390486800006
+    northEast:
+      lat: 54.33332302800005
+      lng: 21.98774248500007
+- slug: morag
+  name: Morąg
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.91
+  lon: 19.96017
+  lands:
+    pojezierze_dzierzgonskomoraskie: 72.8195
+    rownina_olsztynka: 22.0699
+    pojezierze_olsztynskie: 5.1106
+  boundary:
+    southWest:
+      lat: 53.78840008600008
+      lng: 19.77091160300006
+    northEast:
+      lat: 54.037176687000056
+      lng: 20.140223754000033
+- slug: maldyty
+  name: Małdyty
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.89059
+  lon: 19.72588
+  lands:
+    pojezierze_dzierzgonskomoraskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.81117039600008
+      lng: 19.555885833000048
+    northEast:
+      lat: 53.972921316000054
+      lng: 19.877902834000054
+- slug: dubeninki
+  name: Dubeninki
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.30286
+  lon: 22.61905
+  lands:
+    pojezierze_zachodniosuwalskie: 38.3045
+    puszcza_romincka: 33.3191
+    pojezierze_wschodniosuwalskie: 28.0876
+  boundary:
+    southWest:
+      lat: 54.24684512200008
+      lng: 22.43294017900007
+    northEast:
+      lat: 54.36332354600006
+      lng: 22.806144854000024
+- slug: dzwierzuty
+  name: Dźwierzuty
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.71077
+  lon: 21.00652
+  lands:
+    pojezierze_mragowskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.62170162600006
+      lng: 20.835614674000055
+    northEast:
+      lat: 53.79098286000004
+      lng: 21.179846618000056
+- slug: jedwabno
+  name: Jedwabno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.52337
+  lon: 20.75553
+  lands:
+    rownina_mazurska: 53.7872
+    pojezierze_olsztynskie: 44.9681
+    rownina_olsztynka: 0.8303
+  boundary:
+    southWest:
+      lat: 53.41523460800005
+      lng: 20.591639798000074
+    northEast:
+      lat: 53.618013347000044
+      lng: 20.91217927300005
+- slug: szczytno
+  name: Szczytno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.56201
+  lon: 20.98747
+  lands:
+    pojezierze_mragowskie: 54.2433
+    rownina_mazurska: 45.7567
+  boundary:
+    southWest:
+      lat: 53.54668758500003
+      lng: 20.960128156000053
+    northEast:
+      lat: 53.58058468300004
+      lng: 21.011777730000063
+- slug: wilczeta
+  name: Wilczęta
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.175
+  lon: 19.86994
+  lands:
+    rownina_warminska: 97.3031
+    wysoczyzna_elblaska: 2.6969
+  boundary:
+    southWest:
+      lat: 54.102422200000035
+      lng: 19.723807128000033
+    northEast:
+      lat: 54.24853734000004
+      lng: 19.979060841000035
+- slug: barciany
+  name: Barciany
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.22869
+  lon: 21.30404
+  lands:
+    nizina_sepopolska: 98.0873
+    kraina_wielkich_jezior_mazurskich: 1.6756
+  boundary:
+    southWest:
+      lat: 54.11971386100004
+      lng: 21.16225593000007
+    northEast:
+      lat: 54.33481588700005
+      lng: 21.44658504100005
+- slug: wielbark
+  name: Wielbark
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.38335
+  lon: 20.96413
+  lands:
+    rownina_mazurska: 75.5993
+    rownina_kurpiowska: 24.4007
+  boundary:
+    southWest:
+      lat: 53.292516301000035
+      lng: 20.750768066000035
+    northEast:
+      lat: 53.48115063200004
+      lng: 21.18122276500003
+- slug: elblag
+  name: Elbląg
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.16154
+  lon: 19.31013
+  lands:
+    zulawy_wislane: 79.828
+    wysoczyzna_elblaska: 19.9696
+    wybrzeze_staropruskie: 0.1425
+  boundary:
+    southWest:
+      lat: 54.03462980900008
+      lng: 19.247002305000024
+    northEast:
+      lat: 54.277775157000065
+      lng: 19.589717491000044
+- slug: lidzbark_warminski
+  name: Lidzbark Warmiński
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.13426
+  lon: 20.56703
+  lands:
+    nizina_sepopolska: 77.9384
+    wysoczyzna_jezioranskobisztynecka: 22.0616
+  boundary:
+    southWest:
+      lat: 54.110328467000045
+      lng: 20.52660417000004
+    northEast:
+      lat: 54.15027082100005
+      lng: 20.607743464000066
+- slug: kisielice
+  name: Kisielice
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.59974
+  lon: 19.25647
+  lands:
+    pojezierze_lasinskie: 75.032
+    pojezierze_brodnickie: 24.968
+  boundary:
+    southWest:
+      lat: 53.518523447000064
+      lng: 19.129276454000035
+    northEast:
+      lat: 53.67512295000006
+      lng: 19.389243339000075
+- slug: nidzica
+  name: Nidzica
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.40776
+  lon: 20.46792
+  lands:
+    rownina_mazurska: 39.8054
+    wzniesienia_mlawskie: 35.3953
+    garb_lubawski: 14.7119
+  boundary:
+    southWest:
+      lat: 53.29061726500004
+      lng: 20.299404956000046
+    northEast:
+      lat: 53.53069845500005
+      lng: 20.690460718000054
+- slug: kolno
+  name: Kolno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.98718
+  lon: 21.00542
+  lands:
+    pojezierze_mragowskie: 81.7283
+    wysoczyzna_jezioranskobisztynecka: 18.2615
+    nizina_sepopolska: 0.0102
+  boundary:
+    southWest:
+      lat: 53.92086661900004
+      lng: 20.828709423000078
+    northEast:
+      lat: 54.05744802900006
+      lng: 21.12772652800004
+- slug: janowiec_koscielny
+  name: Janowiec Kościelny
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.27697
+  lon: 20.52004
+  lands:
+    wzniesienia_mlawskie: 99.543
+    rownina_mazurska: 0.457
+  boundary:
+    southWest:
+      lat: 53.21416527000008
+      lng: 20.388073676000033
+    northEast:
+      lat: 53.34858423500003
+      lng: 20.62969875500005
+- slug: rozogi
+  name: Rozogi
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.46863
+  lon: 21.33236
+  lands:
+    rownina_mazurska: 79.7623
+    rownina_kurpiowska: 20.2377
+  boundary:
+    southWest:
+      lat: 53.39481945400007
+      lng: 21.13448420700007
+    northEast:
+      lat: 53.553839604000075
+      lng: 21.551689847000034
+- slug: orzysz
+  name: Orzysz
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.80326
+  lon: 21.99472
+  lands:
+    kraina_wielkich_jezior_mazurskich: 61.4403
+    rownina_mazurska: 31.3961
+    pojezierze_elckie: 7.1636
+  boundary:
+    southWest:
+      lat: 53.713185199000065
+      lng: 21.694102161000046
+    northEast:
+      lat: 53.89281462400004
+      lng: 22.193522710000025
+- slug: milomlyn
+  name: Miłomłyn
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.7619
+  lon: 19.81856
+  lands:
+    pojezierze_dzierzgonskomoraskie: 43.776
+    rownina_ilawska: 30.2902
+    rownina_olsztynka: 21.823
+  boundary:
+    southWest:
+      lat: 53.67710863100007
+      lng: 19.700769054000034
+    northEast:
+      lat: 53.84756150100003
+      lng: 19.936039572000027
+- slug: swietajno
+  name: Świętajno
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.5908
+  lon: 21.26978
+  lands:
+    rownina_mazurska: 92.1646
+    pojezierze_mragowskie: 7.8354
+  boundary:
+    southWest:
+      lat: 53.47442368800006
+      lng: 21.109939259000043
+    northEast:
+      lat: 53.704235346000075
+      lng: 21.443640811000023
+- slug: swiatki
+  name: Świątki
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.93092
+  lon: 20.23052
+  lands:
+    pojezierze_olsztynskie: 98.9776
+    pojezierze_dzierzgonskomoraskie: 1.0224
+  boundary:
+    southWest:
+      lat: 53.86263163700005
+      lng: 20.106627736000064
+    northEast:
+      lat: 54.00661120700005
+      lng: 20.356738936000056
+- slug: zalewo
+  name: Zalewo
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.81251
+  lon: 19.6226
+  lands:
+    pojezierze_dzierzgonskomoraskie: 66.5645
+    rownina_ilawska: 33.4355
+  boundary:
+    southWest:
+      lat: 53.71059037300006
+      lng: 19.47188243100004
+    northEast:
+      lat: 53.916676135000046
+      lng: 19.768079897000064
+- slug: wydminy
+  name: Wydminy
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.96364
+  lon: 22.02629
+  lands:
+    kraina_wielkich_jezior_mazurskich: 65.3981
+    pojezierze_elckie: 34.6019
+  boundary:
+    southWest:
+      lat: 53.85989001400003
+      lng: 21.886342291000062
+    northEast:
+      lat: 54.07560894100004
+      lng: 22.19687798600006
+- slug: goldap
+  name: Gołdap
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 54.2605
+  lon: 22.30152
+  lands:
+    wzgorza_szeskie: 55.2141
+    puszcza_romincka: 16.3941
+    kraina_wegorapy: 15.6105
+  boundary:
+    southWest:
+      lat: 54.16777341900007
+      lng: 22.127386649000073
+    northEast:
+      lat: 54.349492550000036
+      lng: 22.531410187000063
+- slug: ostroda
+  name: Ostróda
+  type: town
+  voivodeship: warminsko-mazurskie
+  lat: 53.63636
+  lon: 19.95597
+  lands:
+    garb_lubawski: 47.1555
+    rownina_olsztynka: 36.5427
+    dolina_drwecy: 16.3018
+  boundary:
+    southWest:
+      lat: 53.50843558300005
+      lng: 19.738181514000075
+    northEast:
+      lat: 53.76692494500003
+      lng: 20.14915899400006

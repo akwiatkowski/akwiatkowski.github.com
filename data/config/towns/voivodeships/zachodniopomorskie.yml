@@ -1,0 +1,1844 @@
+---
+- slug: ryman
+  name: Rymań
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.94972
+  lon: 15.54026
+  lands:
+    rownina_gryficka: 100.0
+  boundary:
+    southWest:
+      lat: 53.87357028000008
+      lng: 15.41937050200005
+    northEast:
+      lat: 54.02981664400005
+      lng: 15.645120592000069
+- slug: biesiekierz
+  name: Biesiekierz
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.13039
+  lon: 16.00617
+  lands:
+    rownina_bialogardzka: 99.9985
+    wybrzeze_koszalinskie: 0.0015
+  boundary:
+    southWest:
+      lat: 54.06661071800005
+      lng: 15.90953458000007
+    northEast:
+      lat: 54.20080601400008
+      lng: 16.13673035000005
+- slug: boleszkowice
+  name: Boleszkowice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.69651
+  lon: 14.54037
+  lands:
+    rownina_gorzowska: 49.9062
+    kotlina_freienwaldzka: 49.788
+  boundary:
+    southWest:
+      lat: 52.62468932500008
+      lng: 14.436437820000037
+    northEast:
+      lat: 52.77105778100008
+      lng: 14.667500222000058
+- slug: nowogrodek_pomorski
+  name: Nowogródek Pomorski
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.90956
+  lon: 15.0654
+  lands:
+    rownina_gorzowska: 51.7736
+    pojezierze_mysliborskie: 48.2264
+  boundary:
+    southWest:
+      lat: 52.830581478000056
+      lng: 14.948939719000066
+    northEast:
+      lat: 52.977467596000054
+      lng: 15.196136950000039
+- slug: lipiany
+  name: Lipiany
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.03097
+  lon: 14.97797
+  lands:
+    pojezierze_mysliborskie: 57.45
+    rownina_pyrzycka: 42.55
+  boundary:
+    southWest:
+      lat: 52.970260162000045
+      lng: 14.885510024000041
+    northEast:
+      lat: 53.09575776200006
+      lng: 15.067139324000038
+- slug: kozielice
+  name: Kozielice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.08663
+  lon: 14.79526
+  lands:
+    rownina_pyrzycka: 50.0727
+    rownina_weltynska: 35.062
+    pojezierze_mysliborskie: 14.8653
+  boundary:
+    southWest:
+      lat: 53.00861829100006
+      lng: 14.721577398000022
+    northEast:
+      lat: 53.15872773700005
+      lng: 14.853323777000071
+- slug: darlowo
+  name: Darłowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.3939
+  lon: 16.45083
+  lands:
+    rownina_slupska: 58.5692
+    wybrzeze_koszalinskie: 41.3124
+  boundary:
+    southWest:
+      lat: 54.28279987700006
+      lng: 16.21419779400003
+    northEast:
+      lat: 54.51224337800005
+      lng: 16.582598466000036
+- slug: chociwel
+  name: Chociwel
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.4833
+  lon: 15.35327
+  lands:
+    pojezierze_inskie: 97.5637
+    rownina_nowogardzka: 2.4363
+  boundary:
+    southWest:
+      lat: 53.40751417900003
+      lng: 15.210649656000044
+    northEast:
+      lat: 53.54850480300007
+      lng: 15.467657450000047
+- slug: insko
+  name: Ińsko
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.43454
+  lon: 15.53759
+  lands:
+    pojezierze_inskie: 93.3126
+    rownina_drawska: 6.555
+    pojezierze_drawskie: 0.1324
+  boundary:
+    southWest:
+      lat: 53.36543990100006
+      lng: 15.42503527100007
+    northEast:
+      lat: 53.50641288000003
+      lng: 15.718085895000058
+- slug: tuczno
+  name: Tuczno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.21404
+  lon: 16.13997
+  lands:
+    rownina_drawska: 54.6094
+    pojezierze_waleckie: 45.3906
+  boundary:
+    southWest:
+      lat: 53.140804538000054
+      lng: 15.986026855000034
+    northEast:
+      lat: 53.298503475000075
+      lng: 16.283799035000072
+- slug: dobra
+  name: Dobra
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.56309
+  lon: 15.25605
+  lands:
+    pojezierze_inskie: 60.4583
+    rownina_nowogardzka: 25.4833
+    wysoczyzna_lobeska: 14.0583
+  boundary:
+    southWest:
+      lat: 53.50604585200006
+      lng: 15.148153968000031
+    northEast:
+      lat: 53.627725990000044
+      lng: 15.394052103000035
+- slug: radowo_male
+  name: Radowo Małe
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.65861
+  lon: 15.43164
+  lands:
+    wysoczyzna_lobeska: 82.4078
+    pojezierze_inskie: 12.9388
+    rownina_nowogardzka: 4.6534
+  boundary:
+    southWest:
+      lat: 53.58518961800007
+      lng: 15.274215354000034
+    northEast:
+      lat: 53.734062719000065
+      lng: 15.564616627000078
+- slug: krzecin
+  name: Krzęcin
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.05573
+  lon: 15.4907
+  lands:
+    pojezierze_choszczenskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.98866085000003
+      lng: 15.389291184000058
+    northEast:
+      lat: 53.133294627000055
+      lng: 15.59217559700005
+- slug: swierzno
+  name: Świerzno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.97229
+  lon: 14.95686
+  lands:
+    rownina_gryficka: 81.6892
+    wybrzeze_trzebiatowskie: 18.3108
+  boundary:
+    southWest:
+      lat: 53.89134202100007
+      lng: 14.860518124000066
+    northEast:
+      lat: 54.04797120000006
+      lng: 15.07465656200003
+- slug: chojna
+  name: Chojna
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.95189
+  lon: 14.40354
+  lands:
+    pojezierze_mysliborskie: 98.8173
+    dolina_dolnej_odry: 0.9821
+    rownina_gorzowska: 0.0572
+  boundary:
+    southWest:
+      lat: 52.84884128600004
+      lng: 14.216382839000062
+    northEast:
+      lat: 53.06742613200004
+      lng: 14.626459824000051
+- slug: malechowo
+  name: Malechowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.27428
+  lon: 16.56598
+  lands:
+    rownina_slupska: 93.2529
+    wysoczyzna_polanowska: 6.7471
+  boundary:
+    southWest:
+      lat: 54.18955261600007
+      lng: 16.391451009000036
+    northEast:
+      lat: 54.35861918300003
+      lng: 16.730867287000024
+- slug: kobylanka
+  name: Kobylanka
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.36828
+  lon: 14.8388
+  lands:
+    rownina_goleniowska: 69.0306
+    rownina_pyrzycka: 30.9683
+    wzgorza_bukowe: 0.0011
+  boundary:
+    southWest:
+      lat: 53.30136129700003
+      lng: 14.732005431000061
+    northEast:
+      lat: 53.43646290100003
+      lng: 14.986773993000043
+- slug: stara_dabrowa
+  name: Stara Dąbrowa
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.43752
+  lon: 15.11084
+  lands:
+    rownina_nowogardzka: 97.1447
+    pojezierze_inskie: 2.8553
+  boundary:
+    southWest:
+      lat: 53.38066947500005
+      lng: 15.012040054000067
+    northEast:
+      lat: 53.496792508000055
+      lng: 15.267699567000022
+- slug: grzmiaca
+  name: Grzmiąca
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.83023
+  lon: 16.41966
+  lands:
+    pojezierze_drawskie: 94.3345
+    rownina_bialogardzka: 5.6655
+  boundary:
+    southWest:
+      lat: 53.74271560900007
+      lng: 16.260168960000044
+    northEast:
+      lat: 53.916900284000064
+      lng: 16.576357436000023
+- slug: wegorzyno
+  name: Węgorzyno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.54025
+  lon: 15.5507
+  lands:
+    pojezierze_inskie: 86.9764
+    pojezierze_drawskie: 8.2136
+    wysoczyzna_lobeska: 4.7363
+  boundary:
+    southWest:
+      lat: 53.470833379000055
+      lng: 15.347442731000058
+    northEast:
+      lat: 53.62335156200004
+      lng: 15.726377097000068
+- slug: drawno
+  name: Drawno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.20815
+  lon: 15.85615
+  lands:
+    rownina_drawska: 95.2906
+    pojezierze_choszczenskie: 4.59
+    pojezierze_inskie: 0.1194
+  boundary:
+    southWest:
+      lat: 53.11031084200005
+      lng: 15.607672559000036
+    northEast:
+      lat: 53.31517908200004
+      lng: 16.023197865000043
+- slug: nowogard
+  name: Nowogard
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.68951
+  lon: 15.1007
+  lands:
+    rownina_nowogardzka: 74.6367
+    rownina_goleniowska: 21.5058
+    wysoczyzna_lobeska: 3.8227
+  boundary:
+    southWest:
+      lat: 53.58697054900006
+      lng: 14.932892218000063
+    northEast:
+      lat: 53.793851396000036
+      lng: 15.326997732000052
+- slug: czaplinek
+  name: Czaplinek
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.55889
+  lon: 16.20769
+  lands:
+    pojezierze_drawskie: 50.4054
+    rownina_walecka: 49.5946
+  boundary:
+    southWest:
+      lat: 53.42634233900003
+      lng: 16.05803529700006
+    northEast:
+      lat: 53.69389658600005
+      lng: 16.457192123000027
+- slug: ploty
+  name: Płoty
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.83258
+  lon: 15.31652
+  lands:
+    rownina_gryficka: 67.2535
+    rownina_nowogardzka: 23.8548
+    rownina_goleniowska: 8.8916
+  boundary:
+    southWest:
+      lat: 53.726792302000035
+      lng: 15.083245464000072
+    northEast:
+      lat: 53.93783981800004
+      lng: 15.48581768200006
+- slug: wolin
+  name: Wolin
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.88421
+  lon: 14.5818
+  lands:
+    uznam_i_wolin: 45.3479
+    wybrzeze_trzebiatowskie: 26.2191
+    rownina_gryficka: 15.0401
+  boundary:
+    southWest:
+      lat: 53.76755073700008
+      lng: 14.470472619000077
+    northEast:
+      lat: 53.99978256800006
+      lng: 14.79710925300003
+- slug: gryfino
+  name: Gryfino
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.25405
+  lon: 14.58349
+  lands:
+    rownina_weltynska: 74.7533
+    dolina_dolnej_odry: 24.9438
+    wzgorza_bukowe: 0.2658
+  boundary:
+    southWest:
+      lat: 53.153131477000045
+      lng: 14.428647408000074
+    northEast:
+      lat: 53.35445025300004
+      lng: 14.715872898000043
+- slug: mielno
+  name: Mielno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.27406
+  lon: 16.1348
+  lands:
+    wybrzeze_koszalinskie: 98.9364
+  boundary:
+    southWest:
+      lat: 54.22709979600006
+      lng: 15.856455167000036
+    northEast:
+      lat: 54.320700851000026
+      lng: 16.242377564000037
+- slug: stepnica
+  name: Stepnica
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.69626
+  lon: 14.62815
+  lands:
+    rownina_goleniowska: 51.7238
+    dolina_dolnej_odry: 46.0563
+    rownina_gryficka: 1.1131
+  boundary:
+    southWest:
+      lat: 53.59854243400008
+      lng: 14.38141586100005
+    northEast:
+      lat: 53.79668103900008
+      lng: 14.834774897000045
+- slug: manowo
+  name: Manowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.10818
+  lon: 16.34265
+  lands:
+    rownina_bialogardzka: 92.8539
+    pojezierze_drawskie: 4.3899
+    wysoczyzna_polanowska: 1.8365
+  boundary:
+    southWest:
+      lat: 54.029409318000035
+      lng: 16.20851616500005
+    northEast:
+      lat: 54.18014741700006
+      lng: 16.480301650000058
+- slug: dobra_szczecinska
+  name: Dobra (Szczecińska)
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.49076
+  lon: 14.39779
+  lands:
+    rownina_wkrzanska_rownina_policka: 76.06
+    wzniesienia_szczecinskie: 23.3552
+  boundary:
+    southWest:
+      lat: 53.40187400500008
+      lng: 14.302604935000033
+    northEast:
+      lat: 53.586021763000076
+      lng: 14.482965008000065
+- slug: slawno
+  name: Sławno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.35878
+  lon: 16.67222
+  lands:
+    rownina_slupska: 100.0
+  boundary:
+    southWest:
+      lat: 54.33259667900006
+      lng: 16.629751456000065
+    northEast:
+      lat: 54.389775661000044
+      lng: 16.70369837800007
+- slug: szczecinek
+  name: Szczecinek
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.7379
+  lon: 16.68379
+  lands:
+    pojezierze_drawskie: 78.8757
+    pojezierze_szczecineckie: 12.7583
+    dolina_gwdy: 8.366
+  boundary:
+    southWest:
+      lat: 53.56150997100008
+      lng: 16.501476026000034
+    northEast:
+      lat: 53.90927068600007
+      lng: 16.89224763800007
+- slug: polczynzdroj
+  name: Połczyn-Zdrój
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.78058
+  lon: 16.0801
+  lands:
+    pojezierze_drawskie: 70.4609
+    wysoczyzna_lobeska: 24.6813
+    rownina_bialogardzka: 4.8578
+  boundary:
+    southWest:
+      lat: 53.65483496100006
+      lng: 15.906021684000052
+    northEast:
+      lat: 53.900916005000056
+      lng: 16.267815029000076
+- slug: recz
+  name: Recz
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.26553
+  lon: 15.57302
+  lands:
+    pojezierze_choszczenskie: 62.8702
+    pojezierze_inskie: 31.8815
+    rownina_drawska: 5.2483
+  boundary:
+    southWest:
+      lat: 53.18413676800003
+      lng: 15.451203932000055
+    northEast:
+      lat: 53.34390750300008
+      lng: 15.698425193000048
+- slug: cedynia
+  name: Cedynia
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.89156
+  lon: 14.23028
+  lands:
+    pojezierze_mysliborskie: 65.6092
+    dolina_dolnej_odry: 18.1708
+    kotlina_freienwaldzka: 7.7651
+  boundary:
+    southWest:
+      lat: 52.79009193200005
+      lng: 14.123678877000032
+    northEast:
+      lat: 52.988794995000035
+      lng: 14.313094247000038
+- slug: kolobrzeg
+  name: Kołobrzeg
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.17497
+  lon: 15.57428
+  lands:
+    wybrzeze_koszalinskie: 53.8117
+    wybrzeze_trzebiatowskie: 39.0385
+    rownina_bialogardzka: 5.1181
+  boundary:
+    southWest:
+      lat: 54.150461876000065
+      lng: 15.513213654000026
+    northEast:
+      lat: 54.20094553200005
+      lng: 15.683447650000062
+- slug: goscino
+  name: Gościno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.0296
+  lon: 15.66996
+  lands:
+    rownina_gryficka: 96.9021
+    rownina_bialogardzka: 3.0979
+  boundary:
+    southWest:
+      lat: 53.95669083200005
+      lng: 15.586100644000055
+    northEast:
+      lat: 54.104645781000045
+      lng: 15.753415671000027
+- slug: kolobrzeg
+  name: Kołobrzeg
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.13122
+  lon: 15.5034
+  lands:
+    wybrzeze_trzebiatowskie: 44.0495
+    rownina_gryficka: 35.7328
+    rownina_bialogardzka: 18.6687
+  boundary:
+    southWest:
+      lat: 54.074636919000056
+      lng: 15.350096848000078
+    northEast:
+      lat: 54.18469982800008
+      lng: 15.66669528500006
+- slug: siemysl
+  name: Siemyśl
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.04234
+  lon: 15.51978
+  lands:
+    rownina_gryficka: 100.0
+  boundary:
+    southWest:
+      lat: 53.97596763200005
+      lng: 15.433518007000032
+    northEast:
+      lat: 54.11120488900008
+      lng: 15.636033552000072
+- slug: bedzino
+  name: Będzino
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.19589
+  lon: 15.94166
+  lands:
+    wybrzeze_koszalinskie: 58.9202
+    rownina_bialogardzka: 41.0798
+  boundary:
+    southWest:
+      lat: 54.13479024900005
+      lng: 15.791972523000027
+    northEast:
+      lat: 54.25832938500008
+      lng: 16.135856579000063
+- slug: police
+  name: Police
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.60158
+  lon: 14.45378
+  lands:
+    rownina_wkrzanska_rownina_policka: 73.1181
+    dolina_dolnej_odry: 19.2728
+    wzniesienia_szczecinskie: 7.6009
+  boundary:
+    southWest:
+      lat: 53.491148234000036
+      lng: 14.294588033000025
+    northEast:
+      lat: 53.71176285800004
+      lng: 14.635264679000045
+- slug: przelewice
+  name: Przelewice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.11245
+  lon: 15.10588
+  lands:
+    rownina_pyrzycka: 100.0
+  boundary:
+    southWest:
+      lat: 53.02839781000006
+      lng: 14.99990636900003
+    northEast:
+      lat: 53.19322860900007
+      lng: 15.212195515000076
+- slug: dobrzany
+  name: Dobrzany
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.35673
+  lon: 15.4656
+  lands:
+    pojezierze_inskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.29291923100004
+      lng: 15.338912079000067
+    northEast:
+      lat: 53.42230127300007
+      lng: 15.59098321600004
+- slug: borne_sulinowo
+  name: Borne Sulinowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.60262
+  lon: 16.48167
+  lands:
+    pojezierze_szczecineckie: 53.4721
+    pojezierze_drawskie: 38.4299
+    rownina_walecka: 8.0981
+  boundary:
+    southWest:
+      lat: 53.47030418600008
+      lng: 16.26464089700005
+    northEast:
+      lat: 53.733089961000076
+      lng: 16.72588679000006
+- slug: czlopa
+  name: Człopa
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.09634
+  lon: 16.17154
+  lands:
+    pojezierze_waleckie: 78.5833
+    rownina_drawska: 21.4167
+  boundary:
+    southWest:
+      lat: 53.01208103100004
+      lng: 15.962497598000027
+    northEast:
+      lat: 53.17738371300004
+      lng: 16.37235872100007
+- slug: resko
+  name: Resko
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.77025
+  lon: 15.4599
+  lands:
+    rownina_nowogardzka: 50.1704
+    wysoczyzna_lobeska: 31.1301
+    rownina_gryficka: 18.6995
+  boundary:
+    southWest:
+      lat: 53.67433637600004
+      lng: 15.22252865300004
+    northEast:
+      lat: 53.87769743400003
+      lng: 15.633542220000038
+- slug: pelczyce
+  name: Pełczyce
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.03911
+  lon: 15.32412
+  lands:
+    pojezierze_choszczenskie: 94.0721
+    rownina_gorzowska: 3.0678
+    rownina_pyrzycka: 2.8601
+  boundary:
+    southWest:
+      lat: 52.94309040500008
+      lng: 15.205777337000029
+    northEast:
+      lat: 53.13363667600004
+      lng: 15.45756211400004
+- slug: osina
+  name: Osina
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.62767
+  lon: 14.97859
+  lands:
+    rownina_nowogardzka: 90.7688
+    rownina_goleniowska: 9.2312
+  boundary:
+    southWest:
+      lat: 53.56423010000003
+      lng: 14.903259757000058
+    northEast:
+      lat: 53.68194923400006
+      lng: 15.106050483000047
+- slug: gryfice
+  name: Gryfice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.90679
+  lon: 15.17236
+  lands:
+    rownina_gryficka: 100.0
+  boundary:
+    southWest:
+      lat: 53.81270803800004
+      lng: 15.024499100000071
+    northEast:
+      lat: 54.00869097100008
+      lng: 15.303058681000039
+- slug: kamien_pomorski
+  name: Kamień Pomorski
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.94454
+  lon: 14.79072
+  lands:
+    rownina_gryficka: 52.7738
+    wybrzeze_trzebiatowskie: 47.2203
+    rownina_goleniowska: 0.005
+  boundary:
+    southWest:
+      lat: 53.86051857100006
+      lng: 14.657344436000074
+    northEast:
+      lat: 54.038324799000065
+      lng: 14.980097579000073
+- slug: stare_czarnowo
+  name: Stare Czarnowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.3057
+  lon: 14.74181
+  lands:
+    wzgorza_bukowe: 64.9758
+    rownina_pyrzycka: 19.527
+    rownina_weltynska: 15.4954
+  boundary:
+    southWest:
+      lat: 53.23752737900003
+      lng: 14.584179023000047
+    northEast:
+      lat: 53.36606470000004
+      lng: 14.875208289000057
+- slug: trzcinskozdroj
+  name: Trzcińsko-Zdrój
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.9095
+  lon: 14.62316
+  lands:
+    pojezierze_mysliborskie: 87.8728
+    rownina_gorzowska: 12.1272
+  boundary:
+    southWest:
+      lat: 52.823475399000074
+      lng: 14.515955805000033
+    northEast:
+      lat: 53.00705106700008
+      lng: 14.75917466900006
+- slug: stargard
+  name: Stargard
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.3532
+  lon: 15.14599
+  lands:
+    rownina_nowogardzka: 51.1783
+    pojezierze_inskie: 23.5273
+    rownina_pyrzycka: 17.1602
+  boundary:
+    southWest:
+      lat: 53.24654257600008
+      lng: 14.859126378000042
+    northEast:
+      lat: 53.45984505000007
+      lng: 15.295964100000049
+- slug: zlocieniec
+  name: Złocieniec
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.55719
+  lon: 15.98907
+  lands:
+    pojezierze_drawskie: 89.962
+    rownina_walecka: 10.038
+  boundary:
+    southWest:
+      lat: 53.41847011700003
+      lng: 15.86734644300003
+    northEast:
+      lat: 53.69298067100004
+      lng: 16.177306030000068
+- slug: wierzchowo
+  name: Wierzchowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.43655
+  lon: 16.18679
+  lands:
+    rownina_walecka: 44.5656
+    pojezierze_waleckie: 41.7596
+    pojezierze_drawskie: 13.6748
+  boundary:
+    southWest:
+      lat: 53.37010447600005
+      lng: 15.989142860000072
+    northEast:
+      lat: 53.50205170800007
+      lng: 16.362301220000063
+- slug: swieszyno
+  name: Świeszyno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.0986
+  lon: 16.15565
+  lands:
+    rownina_bialogardzka: 100.0
+  boundary:
+    southWest:
+      lat: 54.01874328700006
+      lng: 16.074085956000033
+    northEast:
+      lat: 54.179638573000034
+      lng: 16.324551606000057
+- slug: mysliborz
+  name: Myślibórz
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.95785
+  lon: 14.88388
+  lands:
+    pojezierze_mysliborskie: 84.8487
+    rownina_gorzowska: 9.3366
+    rownina_pyrzycka: 5.8147
+  boundary:
+    southWest:
+      lat: 52.84798415100005
+      lng: 14.672635980000052
+    northEast:
+      lat: 53.062576671000045
+      lng: 15.070615341000064
+- slug: nowe_warpno
+  name: Nowe Warpno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.70523
+  lon: 14.3755
+  lands:
+    rownina_wkrzanska_rownina_policka: 55.743
+    dolina_dolnej_odry: 44.022
+  boundary:
+    southWest:
+      lat: 53.627817443000026
+      lng: 14.266823029000022
+    northEast:
+      lat: 53.78522053000006
+      lng: 14.526617840000029
+- slug: marianowo
+  name: Marianowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.39047
+  lon: 15.25331
+  lands:
+    pojezierze_inskie: 87.2855
+    rownina_nowogardzka: 12.7145
+  boundary:
+    southWest:
+      lat: 53.31499368900006
+      lng: 15.126720245000058
+    northEast:
+      lat: 53.46459958100007
+      lng: 15.353365801000052
+- slug: suchan
+  name: Suchań
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.28436
+  lon: 15.33482
+  lands:
+    pojezierze_inskie: 76.9839
+    pojezierze_choszczenskie: 22.9191
+    rownina_pyrzycka: 0.097
+  boundary:
+    southWest:
+      lat: 53.23327750100003
+      lng: 15.18775105900005
+    northEast:
+      lat: 53.33313111900003
+      lng: 15.497840047000068
+- slug: swidwin
+  name: Świdwin
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.76946
+  lon: 15.66992
+  lands:
+    wysoczyzna_lobeska: 84.1599
+    pojezierze_drawskie: 13.4784
+    rownina_nowogardzka: 2.3617
+  boundary:
+    southWest:
+      lat: 53.67212836400006
+      lng: 15.548378995000064
+    northEast:
+      lat: 53.85871918700008
+      lng: 15.959561162000057
+- slug: walcz
+  name: Wałcz
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.29459
+  lon: 16.48692
+  lands:
+    pojezierze_waleckie: 66.5306
+    rownina_walecka: 33.4694
+  boundary:
+    southWest:
+      lat: 53.12845231500006
+      lng: 16.21265723500005
+    northEast:
+      lat: 53.45927660500007
+      lng: 16.714467009000032
+- slug: bialogard
+  name: Białogard
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.99889
+  lon: 15.98435
+  lands:
+    rownina_bialogardzka: 100.0
+  boundary:
+    southWest:
+      lat: 53.97408787300003
+      lng: 15.915922986000055
+    northEast:
+      lat: 54.03072539300007
+      lng: 16.035190888000045
+- slug: karnice
+  name: Karnice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.02829
+  lon: 15.07053
+  lands:
+    rownina_gryficka: 81.0941
+    wybrzeze_trzebiatowskie: 18.9059
+  boundary:
+    southWest:
+      lat: 53.96077278400003
+      lng: 14.953732201000037
+    northEast:
+      lat: 54.09375141700008
+      lng: 15.208862878000048
+- slug: rewal
+  name: Rewal
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.07536
+  lon: 15.02878
+  lands:
+    wybrzeze_trzebiatowskie: 99.6892
+  boundary:
+    southWest:
+      lat: 54.03923763500006
+      lng: 14.895819363000044
+    northEast:
+      lat: 54.11972311100004
+      lng: 15.187062463000075
+- slug: mieszkowice
+  name: Mieszkowice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.7724
+  lon: 14.44163
+  lands:
+    rownina_gorzowska: 83.4758
+    kotlina_freienwaldzka: 14.1146
+    pojezierze_mysliborskie: 2.3279
+  boundary:
+    southWest:
+      lat: 52.67990003700004
+      lng: 14.252709970000069
+    northEast:
+      lat: 52.862837752000075
+      lng: 14.635035925000068
+- slug: moryn
+  name: Moryń
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.84967
+  lon: 14.40019
+  lands:
+    pojezierze_mysliborskie: 66.0531
+    rownina_gorzowska: 33.9469
+  boundary:
+    southWest:
+      lat: 52.79838949400005
+      lng: 14.289574903000073
+    northEast:
+      lat: 52.90355124300004
+      lng: 14.500992616000076
+- slug: swinoujscie
+  name: Świnoujście
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.8246
+  lon: 14.33684
+  lands:
+    uznam_i_wolin: 59.8499
+    dolina_dolnej_odry: 38.1199
+  boundary:
+    southWest:
+      lat: 53.76862619700006
+      lng: 14.207639724000046
+    northEast:
+      lat: 53.93758861100008
+      lng: 14.440949138000065
+- slug: dygowo
+  name: Dygowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.11243
+  lon: 15.74991
+  lands:
+    rownina_bialogardzka: 82.9302
+    rownina_gryficka: 17.0698
+  boundary:
+    southWest:
+      lat: 54.06644696800004
+      lng: 15.632064961000026
+    northEast:
+      lat: 54.173778456000036
+      lng: 15.88052549300005
+- slug: ustronie_morskie
+  name: Ustronie Morskie
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.18749
+  lon: 15.7334
+  lands:
+    rownina_bialogardzka: 67.6916
+    wybrzeze_koszalinskie: 31.9712
+  boundary:
+    southWest:
+      lat: 54.14861140000005
+      lng: 15.637066021000066
+    northEast:
+      lat: 54.22722441600007
+      lng: 15.845399892000046
+- slug: sianow
+  name: Sianów
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.2322
+  lon: 16.31076
+  lands:
+    rownina_slupska: 83.4264
+    wybrzeze_koszalinskie: 12.1664
+    rownina_bialogardzka: 3.7872
+  boundary:
+    southWest:
+      lat: 54.134628375000034
+      lng: 16.191697290000036
+    northEast:
+      lat: 54.33400736700003
+      lng: 16.570012604000055
+- slug: pyrzyce
+  name: Pyrzyce
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.15215
+  lon: 14.91958
+  lands:
+    rownina_pyrzycka: 99.3217
+    rownina_weltynska: 0.6783
+  boundary:
+    southWest:
+      lat: 53.051871798000036
+      lng: 14.780659623000076
+    northEast:
+      lat: 53.246730151000065
+      lng: 15.037946987000055
+- slug: slawoborze
+  name: Sławoborze
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.89694
+  lon: 15.67102
+  lands:
+    rownina_gryficka: 56.6552
+    wysoczyzna_lobeska: 27.4276
+    rownina_nowogardzka: 15.9172
+  boundary:
+    southWest:
+      lat: 53.82567809400007
+      lng: 15.528819657000042
+    northEast:
+      lat: 53.96434489300003
+      lng: 15.808312744000034
+- slug: rabino
+  name: Rąbino
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.85198
+  lon: 15.92921
+  lands:
+    wysoczyzna_lobeska: 91.2508
+    rownina_gryficka: 6.7652
+    pojezierze_drawskie: 1.984
+  boundary:
+    southWest:
+      lat: 53.786038020000035
+      lng: 15.773728677000065
+    northEast:
+      lat: 53.92264048200008
+      lng: 16.080866830000048
+- slug: karlino
+  name: Karlino
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.04555
+  lon: 15.82274
+  lands:
+    rownina_gryficka: 61.0082
+    rownina_bialogardzka: 38.9918
+  boundary:
+    southWest:
+      lat: 53.954080763000036
+      lng: 15.720099402000073
+    northEast:
+      lat: 54.14565547300003
+      lng: 15.952513227000054
+- slug: bierzwnik
+  name: Bierzwnik
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.05425
+  lon: 15.68154
+  lands:
+    rownina_drawska: 42.1599
+    pojezierze_dobiegniewskie: 38.9092
+    pojezierze_choszczenskie: 18.9309
+  boundary:
+    southWest:
+      lat: 52.976401173000056
+      lng: 15.546921591000057
+    northEast:
+      lat: 53.136188522000054
+      lng: 15.859987783000065
+- slug: choszczno
+  name: Choszczno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.17046
+  lon: 15.49479
+  lands:
+    pojezierze_choszczenskie: 99.9284
+    rownina_drawska: 0.0716
+  boundary:
+    southWest:
+      lat: 53.09410068100004
+      lng: 15.254055170000072
+    northEast:
+      lat: 53.25379435100007
+      lng: 15.670426708000036
+- slug: dziwnow
+  name: Dziwnów
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.00991
+  lon: 14.73041
+  lands:
+    wybrzeze_trzebiatowskie: 98.141
+    uznam_i_wolin: 0.9407
+  boundary:
+    southWest:
+      lat: 53.96683041800003
+      lng: 14.651739864000035
+    northEast:
+      lat: 54.05461862700008
+      lng: 14.901259759000027
+- slug: golczewo
+  name: Golczewo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.84127
+  lon: 14.91114
+  lands:
+    rownina_gryficka: 72.1995
+    rownina_goleniowska: 27.8005
+  boundary:
+    southWest:
+      lat: 53.767819512000074
+      lng: 14.777588569000045
+    northEast:
+      lat: 53.912066699000036
+      lng: 15.096698057000026
+- slug: stargard
+  name: Stargard
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.31142
+  lon: 15.02564
+  lands:
+    rownina_pyrzycka: 66.192
+    rownina_nowogardzka: 33.808
+  boundary:
+    southWest:
+      lat: 53.257097669000075
+      lng: 14.938497150000046
+    northEast:
+      lat: 53.362607584000045
+      lng: 15.08157084000004
+- slug: miroslawiec
+  name: Mirosławiec
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.34801
+  lon: 16.12647
+  lands:
+    pojezierze_waleckie: 92.4024
+    rownina_drawska: 7.5976
+  boundary:
+    southWest:
+      lat: 53.28696419800008
+      lng: 15.976359733000038
+    northEast:
+      lat: 53.40730570100004
+      lng: 16.350377757000047
+- slug: polanow
+  name: Polanów
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.1102
+  lon: 16.63451
+  lands:
+    wysoczyzna_polanowska: 61.1215
+    pojezierze_bytowskie: 25.3595
+    rownina_slupska: 12.1676
+  boundary:
+    southWest:
+      lat: 53.98453027800008
+      lng: 16.411768082000037
+    northEast:
+      lat: 54.242032057000074
+      lng: 16.812649141000065
+- slug: debno
+  name: Dębno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.76275
+  lon: 14.71194
+  lands:
+    rownina_gorzowska: 99.6763
+    pojezierze_mysliborskie: 0.3237
+  boundary:
+    southWest:
+      lat: 52.63229231200006
+      lng: 14.596649311000021
+    northEast:
+      lat: 52.89281265100004
+      lng: 14.919167065000067
+- slug: kolbaskowo
+  name: Kołbaskowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.35027
+  lon: 14.46742
+  lands:
+    wzniesienia_szczecinskie: 77.7245
+    dolina_dolnej_odry: 22.0078
+  boundary:
+    southWest:
+      lat: 53.274435062000066
+      lng: 14.377905816000066
+    northEast:
+      lat: 53.42034104100003
+      lng: 14.577828383000053
+- slug: slawno
+  name: Sławno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.33282
+  lon: 16.69851
+  lands:
+    rownina_slupska: 100.0
+  boundary:
+    southWest:
+      lat: 54.23192841000008
+      lng: 16.53795059500004
+    northEast:
+      lat: 54.44664026500004
+      lng: 16.865116519000026
+- slug: darlowo
+  name: Darłowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.43093
+  lon: 16.40514
+  lands:
+    wybrzeze_koszalinskie: 97.2657
+    rownina_slupska: 1.3799
+  boundary:
+    southWest:
+      lat: 54.40542149000004
+      lng: 16.359092029000067
+    northEast:
+      lat: 54.45219818600003
+      lng: 16.457648552000023
+- slug: barwice
+  name: Barwice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.73756
+  lon: 16.37976
+  lands:
+    pojezierze_drawskie: 94.9043
+    rownina_bialogardzka: 5.0957
+  boundary:
+    southWest:
+      lat: 53.632806146000064
+      lng: 16.200484473000074
+    northEast:
+      lat: 53.850381638000044
+      lng: 16.506164400000046
+- slug: swidwin
+  name: Świdwin
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.76996
+  lon: 15.77636
+  lands:
+    wysoczyzna_lobeska: 100.0
+  boundary:
+    southWest:
+      lat: 53.74359108900006
+      lng: 15.734287145000053
+    northEast:
+      lat: 53.808038244000045
+      lng: 15.857814830000052
+- slug: brzezno
+  name: Brzeżno
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.70593
+  lon: 15.78482
+  lands:
+    wysoczyzna_lobeska: 71.7701
+    pojezierze_drawskie: 28.2299
+  boundary:
+    southWest:
+      lat: 53.64626935200005
+      lng: 15.67207632800006
+    northEast:
+      lat: 53.752709182000046
+      lng: 15.936364685000058
+- slug: walcz
+  name: Wałcz
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.27663
+  lon: 16.4766
+  lands:
+    pojezierze_waleckie: 99.2168
+    rownina_walecka: 0.7832
+  boundary:
+    southWest:
+      lat: 53.238533880000034
+      lng: 16.387488725000026
+    northEast:
+      lat: 53.30686273200007
+      lng: 16.523548669000036
+- slug: lobez
+  name: Łobez
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.65393
+  lon: 15.66113
+  lands:
+    wysoczyzna_lobeska: 65.3514
+    pojezierze_drawskie: 33.3288
+    pojezierze_inskie: 1.3198
+  boundary:
+    southWest:
+      lat: 53.557546638000076
+      lng: 15.492112832000032
+    northEast:
+      lat: 53.74953683000007
+      lng: 15.800079141000026
+- slug: przybiernow
+  name: Przybiernów
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.74325
+  lon: 14.80529
+  lands:
+    rownina_goleniowska: 76.8973
+    rownina_gryficka: 23.1027
+  boundary:
+    southWest:
+      lat: 53.66419142700005
+      lng: 14.659576197000035
+    northEast:
+      lat: 53.815865795000036
+      lng: 14.971416015000045
+- slug: kalisz_pomorski
+  name: Kalisz Pomorski
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.32861
+  lon: 15.79376
+  lands:
+    rownina_drawska: 64.9304
+    pojezierze_waleckie: 23.9484
+    pojezierze_inskie: 9.8635
+  boundary:
+    southWest:
+      lat: 53.21295345000004
+      lng: 15.584765056000037
+    northEast:
+      lat: 53.43918015000003
+      lng: 16.07614962100007
+- slug: miedzyzdroje
+  name: Międzyzdroje
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.87472
+  lon: 14.45382
+  lands:
+    uznam_i_wolin: 56.2293
+    dolina_dolnej_odry: 43.4995
+  boundary:
+    southWest:
+      lat: 53.772642887000075
+      lng: 14.391692758000033
+    northEast:
+      lat: 53.98796622300006
+      lng: 14.604352849000065
+- slug: banie
+  name: Banie
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.08449
+  lon: 14.65462
+  lands:
+    rownina_weltynska: 67.1164
+    pojezierze_mysliborskie: 32.8836
+  boundary:
+    southWest:
+      lat: 52.98980571200008
+      lng: 14.515385674000072
+    northEast:
+      lat: 53.19270802300008
+      lng: 14.751255811000021
+- slug: szczecin
+  name: Szczecin
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.43068
+  lon: 14.59176
+  lands:
+    dolina_dolnej_odry: 47.7122
+    wzniesienia_szczecinskie: 30.0074
+    rownina_goleniowska: 13.2384
+  boundary:
+    southWest:
+      lat: 53.32458944700005
+      lng: 14.443818872000065
+    northEast:
+      lat: 53.53635954300006
+      lng: 14.804612105000047
+- slug: widuchowa
+  name: Widuchowa
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.13371
+  lon: 14.451
+  lands:
+    rownina_weltynska: 43.4018
+    pojezierze_mysliborskie: 36.3715
+    dolina_dolnej_odry: 19.8702
+  boundary:
+    southWest:
+      lat: 53.02182325200005
+      lng: 14.357533026000056
+    northEast:
+      lat: 53.254940556000065
+      lng: 14.570950510000046
+- slug: bobolice
+  name: Bobolice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.98334
+  lon: 16.54629
+  lands:
+    pojezierze_drawskie: 82.7817
+    wysoczyzna_polanowska: 10.5211
+    pojezierze_bytowskie: 4.5643
+  boundary:
+    southWest:
+      lat: 53.88673716200003
+      lng: 16.299012189000052
+    northEast:
+      lat: 54.07971912600004
+      lng: 16.762341638000066
+- slug: barlinek
+  name: Barlinek
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 52.97278
+  lon: 15.2023
+  lands:
+    rownina_gorzowska: 34.7702
+    rownina_pyrzycka: 32.3102
+    pojezierze_mysliborskie: 21.7645
+  boundary:
+    southWest:
+      lat: 52.86284376800006
+      lng: 15.020362324000075
+    northEast:
+      lat: 53.08512340300007
+      lng: 15.332634535000068
+- slug: bielice
+  name: Bielice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.20594
+  lon: 14.7426
+  lands:
+    rownina_weltynska: 94.2689
+    rownina_pyrzycka: 5.7274
+    wzgorza_bukowe: 0.0037
+  boundary:
+    southWest:
+      lat: 53.13483351600007
+      lng: 14.670123658000023
+    northEast:
+      lat: 53.27351940700004
+      lng: 14.81685275600006
+- slug: warnice
+  name: Warnice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.22238
+  lon: 14.97929
+  lands:
+    rownina_pyrzycka: 100.0
+  boundary:
+    southWest:
+      lat: 53.16801450600008
+      lng: 14.861770320000062
+    northEast:
+      lat: 53.28476762100007
+      lng: 15.069121542000062
+- slug: postomino
+  name: Postomino
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.49628
+  lon: 16.63152
+  lands:
+    rownina_slupska: 61.1037
+    wybrzeze_koszalinskie: 38.7769
+  boundary:
+    southWest:
+      lat: 54.41255517800005
+      lng: 16.472282891000077
+    northEast:
+      lat: 54.56924724700008
+      lng: 16.841119809000077
+- slug: dolice
+  name: Dolice
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.18341
+  lon: 15.21463
+  lands:
+    rownina_pyrzycka: 57.7873
+    pojezierze_choszczenskie: 42.2127
+  boundary:
+    southWest:
+      lat: 53.08185244400005
+      lng: 15.044193748000055
+    northEast:
+      lat: 53.28846972000008
+      lng: 15.367760110000063
+- slug: szczecinek
+  name: Szczecinek
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.70349
+  lon: 16.70373
+  lands:
+    pojezierze_drawskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.66034064400003
+      lng: 16.61353237700007
+    northEast:
+      lat: 53.74320142900007
+      lng: 16.777857651000033
+- slug: bialy_bor
+  name: Biały Bór
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.87115
+  lon: 16.81155
+  lands:
+    dolina_gwdy: 69.3494
+    pojezierze_bytowskie: 27.2614
+    rownina_charzykowska: 1.9087
+  boundary:
+    southWest:
+      lat: 53.74709517800005
+      lng: 16.690342960000066
+    northEast:
+      lat: 53.99786370600003
+      lng: 16.982053498000028
+- slug: koszalin
+  name: Koszalin
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.20401
+  lon: 16.21798
+  lands:
+    rownina_bialogardzka: 67.7426
+    wybrzeze_koszalinskie: 22.3167
+    rownina_slupska: 9.9407
+  boundary:
+    southWest:
+      lat: 54.13805053600004
+      lng: 16.10990465800006
+    northEast:
+      lat: 54.27482522100007
+      lng: 16.321131802000025
+- slug: bialogard
+  name: Białogard
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.99334
+  lon: 15.98094
+  lands:
+    rownina_bialogardzka: 64.2159
+    rownina_gryficka: 33.4402
+    wysoczyzna_lobeska: 2.3439
+  boundary:
+    southWest:
+      lat: 53.87739050200008
+      lng: 15.754438545000028
+    northEast:
+      lat: 54.11502344400003
+      lng: 16.182931765000035
+- slug: tychowo
+  name: Tychowo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.92961
+  lon: 16.26233
+  lands:
+    rownina_bialogardzka: 53.6708
+    pojezierze_drawskie: 45.9635
+    wysoczyzna_lobeska: 0.3657
+  boundary:
+    southWest:
+      lat: 53.80932312900006
+      lng: 16.064364802000057
+    northEast:
+      lat: 54.04082534100007
+      lng: 16.44706191800003
+- slug: maszewo
+  name: Maszewo
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.5264
+  lon: 15.10363
+  lands:
+    rownina_nowogardzka: 97.2179
+    pojezierze_inskie: 1.8803
+    rownina_goleniowska: 0.9018
+  boundary:
+    southWest:
+      lat: 53.448254442000064
+      lng: 14.910287018000076
+    northEast:
+      lat: 53.60909385100007
+      lng: 15.236487984000064
+- slug: brojce
+  name: Brojce
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.97624
+  lon: 15.35259
+  lands:
+    rownina_gryficka: 100.0
+  boundary:
+    southWest:
+      lat: 53.910932288000026
+      lng: 15.270344887000022
+    northEast:
+      lat: 54.03823830500005
+      lng: 15.466124948000072
+- slug: trzebiatow
+  name: Trzebiatów
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 54.06745
+  lon: 15.29302
+  lands:
+    rownina_gryficka: 66.8396
+    wybrzeze_trzebiatowskie: 33.0863
+  boundary:
+    southWest:
+      lat: 53.97925838700007
+      lng: 15.136086748000025
+    northEast:
+      lat: 54.15906024100008
+      lng: 15.454917648000048
+- slug: goleniow
+  name: Goleniów
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.53924
+  lon: 14.80427
+  lands:
+    rownina_goleniowska: 58.7748
+    dolina_dolnej_odry: 24.6843
+    rownina_nowogardzka: 16.5409
+  boundary:
+    southWest:
+      lat: 53.40297972600007
+      lng: 14.598376035000058
+    northEast:
+      lat: 53.68179365700007
+      lng: 14.98579066700006
+- slug: drawsko_pomorskie
+  name: Drawsko Pomorskie
+  type: town
+  voivodeship: zachodniopomorskie
+  lat: 53.53593
+  lon: 15.81673
+  lands:
+    pojezierze_drawskie: 73.1031
+    rownina_drawska: 16.3515
+    pojezierze_inskie: 6.3372
+  boundary:
+    southWest:
+      lat: 53.38094386500006
+      lng: 15.646953293000024
+    northEast:
+      lat: 53.678803635000065
+      lng: 16.00141459300005

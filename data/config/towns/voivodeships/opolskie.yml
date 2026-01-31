@@ -1,49 +1,1145 @@
 ---
-- slug: nysa
-  name: Nysa
+- slug: gogolin
+  name: Gogolin
   type: town
   voivodeship: opolskie
-  lat: 50.47536
-  lon: 17.33720
-- slug: pakoslawice
-  name: Pakosławice
+  lat: 50.50214
+  lon: 18.02263
+  lands:
+    chelm: 49.2287
+    kotlina_raciborska: 39.0821
+    pradolina_wroclawska: 11.6893
+  boundary:
+    southWest:
+      lat: 50.43742903400005
+      lng: 17.944992495000065
+    northEast:
+      lat: 50.56225582500008
+      lng: 18.118009895000057
+- slug: zdzieszowice
+  name: Zdzieszowice
   type: town
   voivodeship: opolskie
-  lat: 50.54550
-  lon: 17.36467
-- slug: skoroszyce
-  name: Skoroszyce
+  lat: 50.43045
+  lon: 18.1
+  lands:
+    kotlina_raciborska: 71.791
+    chelm: 28.209
+  boundary:
+    southWest:
+      lat: 50.37053032000006
+      lng: 18.02037535100004
+    northEast:
+      lat: 50.49117453200006
+      lng: 18.160880319000057
+- slug: dobrodzien
+  name: Dobrodzień
   type: town
   voivodeship: opolskie
-  lat: 50.59593
-  lon: 17.37600
-- slug: otmuchow
-  name: Otmuchów
+  lat: 50.71073
+  lon: 18.40638
+  lands:
+    rownina_opolska: 64.4965
+    prog_woznicki: 29.1947
+    obnizenie_liswarty: 6.3088
+  boundary:
+    southWest:
+      lat: 50.61654361300003
+      lng: 18.313220413000067
+    northEast:
+      lat: 50.80665326500008
+      lng: 18.571689827000057
+- slug: ozimek
+  name: Ozimek
   type: town
   voivodeship: opolskie
-  lat: 50.46416
-  lon: 17.17438
-- slug: kamiennik
-  name: Kamiennik
+  lat: 50.68524
+  lon: 18.21772
+  lands:
+    rownina_opolska: 100.0
+  boundary:
+    southWest:
+      lat: 50.62715873500008
+      lng: 18.09946379400003
+    northEast:
+      lat: 50.76153250700003
+      lng: 18.34268667500004
+- slug: lesnica
+  name: Leśnica
   type: town
   voivodeship: opolskie
-  lat: 50.57107
-  lon: 17.15344
-- slug: prudnik
-  name: Prudnik
+  lat: 50.43505
+  lon: 18.2106
+  lands:
+    chelm: 56.239
+    kotlina_raciborska: 43.761
+  boundary:
+    southWest:
+      lat: 50.37660084300006
+      lng: 18.13213791100003
+    northEast:
+      lat: 50.491461505000075
+      lng: 18.298387581000043
+- slug: ujazd
+  name: Ujazd
   type: town
   voivodeship: opolskie
-  lat: 50.32047
-  lon: 17.57995
-- slug: lubrza_opolskie
-  name: Lubrza (opolskie)
+  lat: 50.41902
+  lon: 18.33228
+  lands:
+    chelm: 86.3549
+    obnizenie_bojszowa: 11.739
+    kotlina_raciborska: 1.9062
+  boundary:
+    southWest:
+      lat: 50.35656882300003
+      lng: 18.246504452000067
+    northEast:
+      lat: 50.483441596000034
+      lng: 18.393659593000052
+- slug: zawadzkie
+  name: Zawadzkie
   type: town
   voivodeship: opolskie
-  lat: 50.33841
-  lon: 17.62035
+  lat: 50.58783
+  lon: 18.5357
+  lands:
+    rownina_opolska: 81.9016
+    obnizenie_gornej_malej_panwi: 18.0984
+  boundary:
+    southWest:
+      lat: 50.54027868600008
+      lng: 18.392891346000056
+    northEast:
+      lat: 50.633838946000026
+      lng: 18.616188902000033
+- slug: skarbimierz
+  name: Skarbimierz
+  type: town
+  voivodeship: opolskie
+  lat: 50.86441
+  lon: 17.40536
+  lands:
+    rownina_wroclawska: 73.8083
+    pradolina_wroclawska: 26.1917
+  boundary:
+    southWest:
+      lat: 50.80491706200007
+      lng: 17.318344310000043
+    northEast:
+      lat: 50.92461479900004
+      lng: 17.662932687000023
+- slug: kedzierzynkozle
+  name: Kędzierzyn-Koźle
+  type: town
+  voivodeship: opolskie
+  lat: 50.3506
+  lon: 18.23848
+  lands:
+    kotlina_raciborska: 83.3028
+    obnizenie_bojszowa: 16.689
+    chelm: 0.0082
+  boundary:
+    southWest:
+      lat: 50.29147816700004
+      lng: 18.10707883400005
+    northEast:
+      lat: 50.40497304500008
+      lng: 18.390215665000028
+- slug: cisek
+  name: Cisek
+  type: town
+  voivodeship: opolskie
+  lat: 50.25561
+  lon: 18.20168
+  lands:
+    kotlina_raciborska: 59.8571
+    plaskowyz_glubczycki: 40.1429
+  boundary:
+    southWest:
+      lat: 50.18801060800007
+      lng: 18.151129334000075
+    northEast:
+      lat: 50.32891012600004
+      lng: 18.26402392500006
+- slug: praszka
+  name: Praszka
+  type: town
+  voivodeship: opolskie
+  lat: 51.07729
+  lon: 18.48965
+  lands:
+    obnizenie_krzepickie: 81.6538
+    wysoczyzna_wieruszowska: 15.1786
+    wyzyna_wielunska: 3.1676
+  boundary:
+    southWest:
+      lat: 51.007351509000046
+      lng: 18.402308487000028
+    northEast:
+      lat: 51.141232512000045
+      lng: 18.578650259000028
+- slug: radlow
+  name: Radłów
+  type: town
+  voivodeship: opolskie
+  lat: 50.948
+  lon: 18.53786
+  lands:
+    prog_herbski: 77.1283
+    obnizenie_krzepickie: 22.8717
+  boundary:
+    southWest:
+      lat: 50.88753397000005
+      lng: 18.426864987000044
+    northEast:
+      lat: 51.00882946000007
+      lng: 18.62960677500007
+- slug: turawa
+  name: Turawa
+  type: town
+  voivodeship: opolskie
+  lat: 50.75986
+  lon: 18.11715
+  lands:
+    rownina_opolska: 78.7999
+    pradolina_wroclawska: 21.2001
+  boundary:
+    southWest:
+      lat: 50.682321149000074
+      lng: 17.958806038000034
+    northEast:
+      lat: 50.83619474200003
+      lng: 18.258213772000033
+- slug: biala
+  name: Biała
+  type: town
+  voivodeship: opolskie
+  lat: 50.45352
+  lon: 17.70854
+  lands:
+    rownina_niemodlinska: 57.7947
+    plaskowyz_glubczycki: 42.2053
+  boundary:
+    southWest:
+      lat: 50.350971136000055
+      lng: 17.551786770000035
+    northEast:
+      lat: 50.55460285300006
+      lng: 17.81381827900003
+- slug: lasowice_wielkie
+  name: Lasowice Wielkie
+  type: town
+  voivodeship: opolskie
+  lat: 50.87271
+  lon: 18.22049
+  lands:
+    rownina_opolska: 99.2334
+    prog_woznicki: 0.7666
+  boundary:
+    southWest:
+      lat: 50.79683374100006
+      lng: 18.09234377000007
+    northEast:
+      lat: 50.96555251900003
+      lng: 18.360116051000034
+- slug: kietrz
+  name: Kietrz
+  type: town
+  voivodeship: opolskie
+  lat: 50.05952
+  lon: 17.94553
+  lands:
+    plaskowyz_glubczycki: 98.9084
+  boundary:
+    southWest:
+      lat: 49.97650642000008
+      lng: 17.838416817000052
+    northEast:
+      lat: 50.14390715500008
+      lng: 18.05912624700005
+- slug: pawlowiczki
+  name: Pawłowiczki
+  type: town
+  voivodeship: opolskie
+  lat: 50.24893
+  lon: 18.01361
+  lands:
+    plaskowyz_glubczycki: 87.5765
+    kotlina_raciborska: 12.4235
+  boundary:
+    southWest:
+      lat: 50.17309835300006
+      lng: 17.91138389500003
+    northEast:
+      lat: 50.32322394500005
+      lng: 18.113819962000036
+- slug: strzeleczki
+  name: Strzeleczki
+  type: town
+  voivodeship: opolskie
+  lat: 50.46672
+  lon: 17.84138
+  lands:
+    rownina_niemodlinska: 88.3352
+    kotlina_raciborska: 11.6648
+  boundary:
+    southWest:
+      lat: 50.40698123900006
+      lng: 17.75200027900007
+    northEast:
+      lat: 50.53017548500003
+      lng: 17.94170913800002
+- slug: walce
+  name: Walce
+  type: town
+  voivodeship: opolskie
+  lat: 50.38652
+  lon: 17.98203
+  lands:
+    kotlina_raciborska: 100.0
+  boundary:
+    southWest:
+      lat: 50.34326345800008
+      lng: 17.918255140000042
+    northEast:
+      lat: 50.43166126500006
+      lng: 18.080428880000056
+- slug: lambinowice
+  name: Łambinowice
+  type: town
+  voivodeship: opolskie
+  lat: 50.53441
+  lon: 17.52421
+  lands:
+    rownina_niemodlinska: 60.4275
+    dolina_nysy_klodzkiej: 35.4239
+    wzgorza_niemczanskostrzelinskie: 4.1487
+  boundary:
+    southWest:
+      lat: 50.46822794600007
+      lng: 17.434464760000026
+    northEast:
+      lat: 50.60059417100007
+      lng: 17.658544955000025
 - slug: korfantow
   name: Korfantów
   type: town
   voivodeship: opolskie
-  lat: 50.48910702970315
-  lon: 17.59441917333795
+  lat: 50.48651
+  lon: 17.60138
+  lands:
+    rownina_niemodlinska: 78.9522
+    plaskowyz_glubczycki: 21.0478
+  boundary:
+    southWest:
+      lat: 50.39473761700003
+      lng: 17.456425472000035
+    northEast:
+      lat: 50.575709103000065
+      lng: 17.763026121000053
+- slug: nysa
+  name: Nysa
+  type: town
+  voivodeship: opolskie
+  lat: 50.45531
+  lon: 17.3648
+  lands:
+    wzgorza_niemczanskostrzelinskie: 26.8427
+    plaskowyz_glubczycki: 21.358
+    dolina_nysy_klodzkiej: 21.3355
+  boundary:
+    southWest:
+      lat: 50.381150078000076
+      lng: 17.219210902000043
+    northEast:
+      lat: 50.52761711800008
+      lng: 17.484960009000076
+- slug: skoroszyce
+  name: Skoroszyce
+  type: town
+  voivodeship: opolskie
+  lat: 50.60665
+  lon: 17.38591
+  lands:
+    rownina_wroclawska: 40.3373
+    wzgorza_niemczanskostrzelinskie: 30.885
+    dolina_nysy_klodzkiej: 28.7777
+  boundary:
+    southWest:
+      lat: 50.547357582000075
+      lng: 17.27035077100004
+    northEast:
+      lat: 50.66945620800004
+      lng: 17.47988256700006
+- slug: olesno
+  name: Olesno
+  type: town
+  voivodeship: opolskie
+  lat: 50.87271
+  lon: 18.48379
+  lands:
+    prog_herbski: 39.4301
+    rownina_opolska: 31.1825
+    obnizenie_liswarty: 23.9045
+  boundary:
+    southWest:
+      lat: 50.79955776000003
+      lng: 18.329811111000026
+    northEast:
+      lat: 50.962389001000076
+      lng: 18.65482083200004
+- slug: murow
+  name: Murów
+  type: town
+  voivodeship: opolskie
+  lat: 50.88005
+  lon: 17.99845
+  lands:
+    rownina_opolska: 100.0
+  boundary:
+    southWest:
+      lat: 50.79921900000005
+      lng: 17.889325505000045
+    northEast:
+      lat: 50.968158017000064
+      lng: 18.119210286000055
+- slug: jemielnica
+  name: Jemielnica
+  type: town
+  voivodeship: opolskie
+  lat: 50.57192
+  lon: 18.40192
+  lands:
+    rownina_opolska: 73.7654
+    chelm: 26.2346
+  boundary:
+    southWest:
+      lat: 50.49686399800004
+      lng: 18.318286589000024
+    northEast:
+      lat: 50.63733194300005
+      lng: 18.482539103000022
+- slug: grodkow
+  name: Grodków
+  type: town
+  voivodeship: opolskie
+  lat: 50.68634
+  lon: 17.37219
+  lands:
+    rownina_wroclawska: 50.6541
+    wzgorza_niemczanskostrzelinskie: 26.4419
+    dolina_nysy_klodzkiej: 22.9041
+  boundary:
+    southWest:
+      lat: 50.57881592600006
+      lng: 17.20647370000006
+    northEast:
+      lat: 50.79233695600004
+      lng: 17.510583306000058
+- slug: lewin_brzeski
+  name: Lewin Brzeski
+  type: town
+  voivodeship: opolskie
+  lat: 50.74943
+  lon: 17.62928
+  lands:
+    dolina_nysy_klodzkiej: 39.4872
+    rownina_wroclawska: 27.2455
+    pradolina_wroclawska: 19.4244
+  boundary:
+    southWest:
+      lat: 50.68157901100005
+      lng: 17.513279917000034
+    northEast:
+      lat: 50.82542457900007
+      lng: 17.76351356500004
+- slug: dobrzen_wielki
+  name: Dobrzeń Wielki
+  type: town
+  voivodeship: opolskie
+  lat: 50.79714
+  lon: 17.84579
+  lands:
+    pradolina_wroclawska: 63.2919
+    rownina_opolska: 36.7081
+  boundary:
+    southWest:
+      lat: 50.74251907800004
+      lng: 17.76884182300006
+    northEast:
+      lat: 50.839420834000066
+      lng: 17.92872508000005
+- slug: wilkow
+  name: Wilków
+  type: town
+  voivodeship: opolskie
+  lat: 51.13363
+  lon: 17.65135
+  lands:
+    rownina_olesnicka: 100.0
+  boundary:
+    southWest:
+      lat: 51.079694724000035
+      lng: 17.544746952000025
+    northEast:
+      lat: 51.190519505000054
+      lng: 17.740582006000068
+- slug: pokoj
+  name: Pokój
+  type: town
+  voivodeship: opolskie
+  lat: 50.92017
+  lon: 17.85098
+  lands:
+    rownina_opolska: 100.0
+  boundary:
+    southWest:
+      lat: 50.83807687900003
+      lng: 17.73540692100005
+    northEast:
+      lat: 50.99001831900006
+      lng: 18.011708653000028
+- slug: swierczow
+  name: Świerczów
+  type: town
+  voivodeship: opolskie
+  lat: 50.9557
+  lon: 17.74853
+  lands:
+    rownina_olesnicka: 51.2312
+    rownina_opolska: 48.7688
+  boundary:
+    southWest:
+      lat: 50.90993262900008
+      lng: 17.65422351500007
+    northEast:
+      lat: 51.01124308700008
+      lng: 17.91595363400006
+- slug: rudniki
+  name: Rudniki
+  type: town
+  voivodeship: opolskie
+  lat: 51.02236
+  lon: 18.61371
+  lands:
+    obnizenie_krzepickie: 99.6399
+    wyzyna_wielunska: 0.3601
+  boundary:
+    southWest:
+      lat: 50.965825808000034
+      lng: 18.51773518400006
+    northEast:
+      lat: 51.08223039000006
+      lng: 18.695486740000035
+- slug: zebowice
+  name: Zębowice
+  type: town
+  voivodeship: opolskie
+  lat: 50.76778
+  lon: 18.32757
+  lands:
+    rownina_opolska: 85.8312
+    prog_woznicki: 13.9444
+    obnizenie_liswarty: 0.2244
+  boundary:
+    southWest:
+      lat: 50.71526673100004
+      lng: 18.228405629000065
+    northEast:
+      lat: 50.82652342600005
+      lng: 18.442495262000023
+- slug: tarnow_opolski
+  name: Tarnów Opolski
+  type: town
+  voivodeship: opolskie
+  lat: 50.58307
+  lon: 18.04625
+  lands:
+    pradolina_wroclawska: 63.3564
+    rownina_opolska: 25.8542
+    chelm: 10.7894
+  boundary:
+    southWest:
+      lat: 50.547184558000026
+      lng: 17.949606622000033
+    northEast:
+      lat: 50.62213035500008
+      lng: 18.16257726500004
+- slug: glubczyce
+  name: Głubczyce
+  type: town
+  voivodeship: opolskie
+  lat: 50.20299
+  lon: 17.83127
+  lands:
+    plaskowyz_glubczycki: 77.7024
+  boundary:
+    southWest:
+      lat: 50.09715745500006
+      lng: 17.59269032000003
+    northEast:
+      lat: 50.31395615400004
+      lng: 17.928519278000067
+- slug: branice
+  name: Branice
+  type: town
+  voivodeship: opolskie
+  lat: 50.05788
+  lon: 17.81435
+  lands:
+    plaskowyz_glubczycki: 86.1071
+  boundary:
+    southWest:
+      lat: 49.97248528200004
+      lng: 17.729227859000048
+    northEast:
+      lat: 50.14044301300004
+      lng: 17.89909300100004
+- slug: komprachcice
+  name: Komprachcice
+  type: town
+  voivodeship: opolskie
+  lat: 50.62418
+  lon: 17.81383
+  lands:
+    rownina_niemodlinska: 100.0
+  boundary:
+    southWest:
+      lat: 50.582488209000076
+      lng: 17.735907258000054
+    northEast:
+      lat: 50.670109969000066
+      lng: 17.876780343000064
+- slug: tulowice
+  name: Tułowice
+  type: town
+  voivodeship: opolskie
+  lat: 50.58923
+  lon: 17.70008
+  lands:
+    rownina_niemodlinska: 100.0
+  boundary:
+    southWest:
+      lat: 50.55023094900008
+      lng: 17.592174786000044
+    northEast:
+      lat: 50.63841256000006
+      lng: 17.798040241000024
+- slug: chrzastowice
+  name: Chrząstowice
+  type: town
+  voivodeship: opolskie
+  lat: 50.65358
+  lon: 18.10185
+  lands:
+    rownina_opolska: 55.1308
+    pradolina_wroclawska: 44.8692
+  boundary:
+    southWest:
+      lat: 50.60989572100004
+      lng: 17.991560427000024
+    northEast:
+      lat: 50.70176897300007
+      lng: 18.188362638000058
+- slug: baborow
+  name: Baborów
+  type: town
+  voivodeship: opolskie
+  lat: 50.14754
+  lon: 17.97489
+  lands:
+    plaskowyz_glubczycki: 100.0
+  boundary:
+    southWest:
+      lat: 50.089825990000065
+      lng: 17.88543264900005
+    northEast:
+      lat: 50.21880680100003
+      lng: 18.06806894400006
+- slug: renska_wies
+  name: Reńska Wieś
+  type: town
+  voivodeship: opolskie
+  lat: 50.33979
+  lon: 18.07555
+  lands:
+    kotlina_raciborska: 95.0269
+    plaskowyz_glubczycki: 4.9731
+  boundary:
+    southWest:
+      lat: 50.26281558100004
+      lng: 18.02893770000003
+    northEast:
+      lat: 50.42039274000007
+      lng: 18.172992503000046
+- slug: kamiennik
+  name: Kamiennik
+  type: town
+  voivodeship: opolskie
+  lat: 50.57014
+  lon: 17.1603
+  lands:
+    wzgorza_niemczanskostrzelinskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.52158566400004
+      lng: 17.061309816000062
+    northEast:
+      lat: 50.616340079000054
+      lng: 17.24282540300004
+- slug: pakoslawice
+  name: Pakosławice
+  type: town
+  voivodeship: opolskie
+  lat: 50.54938
+  lon: 17.32473
+  lands:
+    wzgorza_niemczanskostrzelinskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.513286727000036
+      lng: 17.21481037500007
+    northEast:
+      lat: 50.58354770300008
+      lng: 17.434861281000053
+- slug: strzelce_opolskie
+  name: Strzelce Opolskie
+  type: town
+  voivodeship: opolskie
+  lat: 50.55345
+  lon: 18.26726
+  lands:
+    chelm: 69.8172
+    rownina_opolska: 30.1828
+  boundary:
+    southWest:
+      lat: 50.458275515000025
+      lng: 18.09486729100007
+    northEast:
+      lat: 50.64244805000004
+      lng: 18.481291202000023
+- slug: izbicko
+  name: Izbicko
+  type: town
+  voivodeship: opolskie
+  lat: 50.5726
+  lon: 18.17159
+  lands:
+    chelm: 55.9681
+    rownina_opolska: 44.0319
+  boundary:
+    southWest:
+      lat: 50.49252910100006
+      lng: 18.075757595000027
+    northEast:
+      lat: 50.64947747700006
+      lng: 18.233042298000044
+- slug: kolonowskie
+  name: Kolonowskie
+  type: town
+  voivodeship: opolskie
+  lat: 50.65266
+  lon: 18.36828
+  lands:
+    rownina_opolska: 100.0
+  boundary:
+    southWest:
+      lat: 50.62147549900004
+      lng: 18.26190891500005
+    northEast:
+      lat: 50.70238997100006
+      lng: 18.464290817000062
+- slug: glogowek
+  name: Głogówek
+  type: town
+  voivodeship: opolskie
+  lat: 50.33913
+  lon: 17.8977
+  lands:
+    plaskowyz_glubczycki: 55.4987
+    kotlina_raciborska: 37.7226
+    rownina_niemodlinska: 6.6768
+  boundary:
+    southWest:
+      lat: 50.26508930600005
+      lng: 17.71902224100006
+    northEast:
+      lat: 50.42625639600004
+      lng: 18.032260633000078
+- slug: dabrowa
+  name: Dąbrowa
+  type: town
+  voivodeship: opolskie
+  lat: 50.70422
+  lon: 17.73174
+  lands:
+    rownina_niemodlinska: 63.2763
+    pradolina_wroclawska: 36.7237
+  boundary:
+    southWest:
+      lat: 50.632263642000055
+      lng: 17.657516415000032
+    northEast:
+      lat: 50.77602721400007
+      lng: 17.880638848000046
+- slug: polska_cerekiew
+  name: Polska Cerekiew
+  type: town
+  voivodeship: opolskie
+  lat: 50.21172
+  lon: 18.12057
+  lands:
+    plaskowyz_glubczycki: 100.0
+  boundary:
+    southWest:
+      lat: 50.16727863600005
+      lng: 18.051760186000024
+    northEast:
+      lat: 50.26747647600007
+      lng: 18.18563496400003
+- slug: namyslow
+  name: Namysłów
+  type: town
+  voivodeship: opolskie
+  lat: 51.08323
+  lon: 17.74954
+  lands:
+    rownina_olesnicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.97416839500005
+      lng: 17.514284005000036
+    northEast:
+      lat: 51.19414634900005
+      lng: 17.88024761300005
+- slug: lubniany
+  name: Łubniany
+  type: town
+  voivodeship: opolskie
+  lat: 50.78021
+  lon: 17.96318
+  lands:
+    rownina_opolska: 82.5975
+    pradolina_wroclawska: 17.4025
+  boundary:
+    southWest:
+      lat: 50.700228527000036
+      lng: 17.89190452500003
+    northEast:
+      lat: 50.86625096400007
+      lng: 18.14672775300005
+- slug: popielow
+  name: Popielów
+  type: town
+  voivodeship: opolskie
+  lat: 50.8419
+  lon: 17.73866
+  lands:
+    pradolina_wroclawska: 48.7475
+    rownina_opolska: 48.2839
+    rownina_olesnicka: 2.9686
+  boundary:
+    southWest:
+      lat: 50.76946982900006
+      lng: 17.592676308000023
+    northEast:
+      lat: 50.91900190800004
+      lng: 17.881536072000074
+- slug: paczkow
+  name: Paczków
+  type: town
+  voivodeship: opolskie
+  lat: 50.44322
+  lon: 17.02768
+  lands:
+    obnizenie_otmuchowskie: 98.6887
+  boundary:
+    southWest:
+      lat: 50.40223320800004
+      lng: 16.90790288200003
+    northEast:
+      lat: 50.48868930800006
+      lng: 17.144616360000043
+- slug: proszkow
+  name: Prószków
+  type: town
+  voivodeship: opolskie
+  lat: 50.57306
+  lon: 17.87264
+  lands:
+    rownina_niemodlinska: 88.0976
+    pradolina_wroclawska: 11.9024
+  boundary:
+    southWest:
+      lat: 50.501693491000026
+      lng: 17.748132122000072
+    northEast:
+      lat: 50.641361595000035
+      lng: 17.971660460000066
+- slug: opole
+  name: Opole
+  type: town
+  voivodeship: opolskie
+  lat: 50.67888
+  lon: 17.9269
+  lands:
+    pradolina_wroclawska: 92.5583
+    rownina_niemodlinska: 6.9943
+    rownina_opolska: 0.4474
+  boundary:
+    southWest:
+      lat: 50.587657430000036
+      lng: 17.77959067100005
+    northEast:
+      lat: 50.76997435000004
+      lng: 18.03269603800004
+- slug: niemodlin
+  name: Niemodlin
+  type: town
+  voivodeship: opolskie
+  lat: 50.65149
+  lon: 17.58358
+  lands:
+    rownina_niemodlinska: 84.9168
+    dolina_nysy_klodzkiej: 15.0832
+  boundary:
+    southWest:
+      lat: 50.577670029000046
+      lng: 17.466846705000023
+    northEast:
+      lat: 50.73150663000007
+      lng: 17.72015249900005
+- slug: brzeg
+  name: Brzeg
+  type: town
+  voivodeship: opolskie
+  lat: 50.85554
+  lon: 17.46913
+  lands:
+    rownina_wroclawska: 63.6174
+    pradolina_wroclawska: 36.3826
+  boundary:
+    southWest:
+      lat: 50.839496491000034
+      lng: 17.421330870000077
+    northEast:
+      lat: 50.87699203000005
+      lng: 17.507573368000067
+- slug: byczyna
+  name: Byczyna
+  type: town
+  voivodeship: opolskie
+  lat: 51.10262
+  lon: 18.2086
+  lands:
+    wysoczyzna_wieruszowska: 85.0055
+    prog_herbski: 13.609
+    rownina_opolska: 1.3855
+  boundary:
+    southWest:
+      lat: 51.038352760000066
+      lng: 18.067877399000054
+    northEast:
+      lat: 51.172517225000036
+      lng: 18.34805467900003
+- slug: wolczyn
+  name: Wołczyn
+  type: town
+  voivodeship: opolskie
+  lat: 51.04321
+  lon: 18.05205
+  lands:
+    rownina_opolska: 70.4195
+    wysoczyzna_wieruszowska: 29.5805
+  boundary:
+    southWest:
+      lat: 50.93799368400005
+      lng: 17.924207498000044
+    northEast:
+      lat: 51.14473802700007
+      lng: 18.189326831000074
+- slug: bierawa
+  name: Bierawa
+  type: town
+  voivodeship: opolskie
+  lat: 50.27922
+  lon: 18.31126
+  lands:
+    kotlina_raciborska: 59.5333
+    obnizenie_bojszowa: 40.4667
+  boundary:
+    southWest:
+      lat: 50.22218410200003
+      lng: 18.175391210000043
+    northEast:
+      lat: 50.340289701000074
+      lng: 18.42696463300007
+- slug: krapkowice
+  name: Krapkowice
+  type: town
+  voivodeship: opolskie
+  lat: 50.46331
+  lon: 17.96037
+  lands:
+    kotlina_raciborska: 72.0248
+    rownina_niemodlinska: 25.3898
+    pradolina_wroclawska: 2.5854
+  boundary:
+    southWest:
+      lat: 50.373478814000066
+      lng: 17.871494434000056
+    northEast:
+      lat: 50.551600405000045
+      lng: 18.041720175000023
+- slug: domaszowice
+  name: Domaszowice
+  type: town
+  voivodeship: opolskie
+  lat: 51.04538
+  lon: 17.85467
+  lands:
+    rownina_olesnicka: 51.8236
+    rownina_opolska: 46.1381
+    wysoczyzna_wieruszowska: 2.0383
+  boundary:
+    southWest:
+      lat: 50.97898134600007
+      lng: 17.773380941000028
+    northEast:
+      lat: 51.113398595000035
+      lng: 17.95323888100006
+- slug: gorzow_slaski
+  name: Gorzów Śląski
+  type: town
+  voivodeship: opolskie
+  lat: 51.0363
+  lon: 18.36953
+  lands:
+    prog_herbski: 67.8287
+    wysoczyzna_wieruszowska: 17.6784
+    obnizenie_krzepickie: 14.3648
+  boundary:
+    southWest:
+      lat: 50.935934116000055
+      lng: 18.298998522000034
+    northEast:
+      lat: 51.139194297000074
+      lng: 18.510763963000045
+- slug: lubsza
+  name: Lubsza
+  type: town
+  voivodeship: opolskie
+  lat: 50.9223
+  lon: 17.55741
+  lands:
+    pradolina_wroclawska: 56.9737
+    rownina_olesnicka: 39.7116
+    rownina_opolska: 3.3147
+  boundary:
+    southWest:
+      lat: 50.84764252700006
+      lng: 17.427239744000076
+    northEast:
+      lat: 50.99978896700003
+      lng: 17.691985041000066
+- slug: olszanka
+  name: Olszanka
+  type: town
+  voivodeship: opolskie
+  lat: 50.77486
+  lon: 17.44867
+  lands:
+    rownina_wroclawska: 96.434
+    dolina_nysy_klodzkiej: 3.566
+  boundary:
+    southWest:
+      lat: 50.71918002800004
+      lng: 17.34902387300002
+    northEast:
+      lat: 50.827789917000075
+      lng: 17.538739022000073
+- slug: kluczbork
+  name: Kluczbork
+  type: town
+  voivodeship: opolskie
+  lat: 50.97362
+  lon: 18.22935
+  lands:
+    rownina_opolska: 76.7841
+    prog_herbski: 22.776
+    wysoczyzna_wieruszowska: 0.4399
+  boundary:
+    southWest:
+      lat: 50.894502430000045
+      lng: 18.061414125000056
+    northEast:
+      lat: 51.06020981300003
+      lng: 18.380963660000077
+- slug: prudnik
+  name: Prudnik
+  type: town
+  voivodeship: opolskie
+  lat: 50.34265
+  lon: 17.52144
+  lands:
+    plaskowyz_glubczycki: 80.811
+    przedgorze_paczkowskie: 18.9381
+    gory_opawskie: 0.0414
+  boundary:
+    southWest:
+      lat: 50.26994736800003
+      lng: 17.447649089000038
+    northEast:
+      lat: 50.412923516000035
+      lng: 17.607081951000055
+- slug: lubrza
+  name: Lubrza
+  type: town
+  voivodeship: opolskie
+  lat: 50.31461
+  lon: 17.64573
+  lands:
+    plaskowyz_glubczycki: 79.2781
+    przedgorze_paczkowskie: 20.0261
+  boundary:
+    southWest:
+      lat: 50.265976273000035
+      lng: 17.557503104000034
+    northEast:
+      lat: 50.37289807700006
+      lng: 17.768945468000027
+- slug: otmuchow
+  name: Otmuchów
+  type: town
+  voivodeship: opolskie
+  lat: 50.43497
+  lon: 17.18537
+  lands:
+    obnizenie_otmuchowskie: 48.2259
+    wzgorza_niemczanskostrzelinskie: 34.6412
+    przedgorze_paczkowskie: 16.8602
+  boundary:
+    southWest:
+      lat: 50.34174763900006
+      lng: 17.049211719000027
+    northEast:
+      lat: 50.54234304300007
+      lng: 17.295458006000047
+- slug: glucholazy
+  name: Głuchołazy
+  type: town
+  voivodeship: opolskie
+  lat: 50.33064
+  lon: 17.35724
+  lands:
+    przedgorze_paczkowskie: 46.5399
+    plaskowyz_glubczycki: 34.195
+    gory_opawskie: 17.9057
+  boundary:
+    southWest:
+      lat: 50.25161550300004
+      lng: 17.232263905000025
+    northEast:
+      lat: 50.410816529000044
+      lng: 17.504837945000077

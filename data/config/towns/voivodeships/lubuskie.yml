@@ -1,299 +1,1345 @@
 ---
-- slug: babimost
-  name: Babimost
+- slug: brody
+  name: Brody
   type: town
   voivodeship: lubuskie
-  lat: 52.16485
-  lon: 15.83126
-- slug: dobiegniew
-  name: Dobiegniew
+  lat: 51.77512
+  lon: 14.75622
+  lands:
+    wzniesienia_gubinskie: 47.8845
+    kotlina_zasiecka: 47.2707
+    wal_muzakowski: 4.3751
+  boundary:
+    southWest:
+      lat: 51.654527777000055
+      lng: 14.64987061200003
+    northEast:
+      lat: 51.88123412500005
+      lng: 14.91729033300004
+- slug: lipinki_luzyckie
+  name: Lipinki Łużyckie
   type: town
   voivodeship: lubuskie
-  lat: 52.96887
-  lon: 15.75195
-- slug: drezdenko
-  name: Drezdenko
-  type: town
-  voivodeship: lubuskie
-  lat: 52.83862
-  lon: 15.83195
-- slug: pszczew
-  name: Pszczew
-  type: town
-  voivodeship: lubuskie
-  lat: 52.47773
-  lon: 15.78045
+  lat: 51.63118
+  lon: 14.97616
+  lands:
+    wzniesienia_zarskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.56881592700006
+      lng: 14.912123525000027
+    northEast:
+      lat: 51.69298984400007
+      lng: 15.070780899000056
 - slug: santok
   name: Santok
   type: town
   voivodeship: lubuskie
-  lat: 52.73813
-  lon: 15.40966
-- slug: stare_kurowo
-  name: Stare Kurowo
+  lat: 52.75575
+  lon: 15.38342
+  lands:
+    kotlina_gorzowska: 58.3998
+    rownina_gorzowska: 41.6002
+  boundary:
+    southWest:
+      lat: 52.69371214300003
+      lng: 15.281790055000045
+    northEast:
+      lat: 52.81812887600006
+      lng: 15.606193751000035
+- slug: gubin
+  name: Gubin
   type: town
   voivodeship: lubuskie
-  lat: 52.85687
-  lon: 15.67797
-- slug: strzelce_krajenskie
-  name: Strzelce Krajeńskie
+  lat: 51.93263
+  lon: 14.84513
+  lands:
+    wzniesienia_gubinskie: 81.9774
+    dolina_srodkowej_odry: 13.3684
+    kotlina_zasiecka: 3.8924
+  boundary:
+    southWest:
+      lat: 51.78588601600006
+      lng: 14.590549907000025
+    northEast:
+      lat: 52.08108062000008
+      lng: 14.960059568000077
+- slug: gubin
+  name: Gubin
   type: town
   voivodeship: lubuskie
-  lat: 52.87780
-  lon: 15.53206
-- slug: swidnica_lubuskie
-  name: Świdnica (lubuskie)
-  type: town
-  voivodeship: lubuskie
-  lat: 51.88670
-  lon: 15.38876
-- slug: trzciel
-  name: Trzciel
-  type: town
-  voivodeship: lubuskie
-  lat: 52.36421
-  lon: 15.87233
-- slug: zielona_gora
-  name: Zielona Góra
-  type: town
-  voivodeship: lubuskie
-  lat: 51.93752
-  lon: 15.50591
-  size: big
-- slug: zwierzyn_lubuskie
-  name: Zwierzyn (lubuskie)
-  type: town
-  voivodeship: lubuskie
-  lat: 52.83713
-  lon: 15.58446
-- slug: sulechow
-  name: Sulechów
-  type: town
-  voivodeship: lubuskie
-  lat: 52.08482
-  lon: 15.62445
-- slug: trzebiechow
-  name: Trzebiechów
-  type: town
-  voivodeship: lubuskie
-  lat: 52.02254
-  lon: 15.73449
-- slug: bojadla
-  name: Bojadła
-  type: town
-  voivodeship: lubuskie
-  lat: 51.95160
-  lon: 15.80968
-- slug: nowa_sol
-  name: Nowa Sól
-  type: town
-  voivodeship: lubuskie
-  lat: 51.80302
-  lon: 15.71612
-  size: medium
-- slug: slawa
-  name: Sława
-  type: town
-  voivodeship: lubuskie
-  lat: 51.87663
-  lon: 16.07215
-- slug: wschowa
-  name: Wschowa
-  type: town
-  voivodeship: lubuskie
-  lat: 51.80557
-  lon: 16.31831
-- slug: skape
-  name: Skąpe
-  type: town
-  voivodeship: lubuskie
-  lat: 52.15227
-  lon: 15.45605
-  size: small
-- slug: lubrza
-  name: Lubrza
-  type: town
-  voivodeship: lubuskie
-  lat: 52.30515
-  lon: 15.44215
-- slug: lagow
-  name: Łagów
-  type: town
-  voivodeship: lubuskie
-  lat: 52.33286
-  lon: 15.29503
-- slug: swiebodzin
-  name: Świebodzin
-  type: town
-  voivodeship: lubuskie
-  lat: 52.24802
-  lon: 15.53296
-  size: medium
-- slug: bytom_odrzanski
-  name: Bytom Odrzański
-  type: town
-  voivodeship: lubuskie
-  lat: 51.73036
-  lon: 15.82435
-- slug: otyn
-  name: Otyń
-  type: town
-  voivodeship: lubuskie
-  lat: 51.84997
-  lon: 15.70951
-- slug: krosno_odrzanskie
-  name: Krosno Odrzańskie
-  type: town
-  voivodeship: lubuskie
-  lat: 52.05553
-  lon: 15.09908
+  lat: 51.95853
+  lon: 14.73001
+  lands:
+    wzniesienia_gubinskie: 98.2779
+  boundary:
+    southWest:
+      lat: 51.91839385000003
+      lng: 14.707265906000032
+    northEast:
+      lat: 51.99612698000004
+      lng: 14.763915392000058
 - slug: bytnica
   name: Bytnica
   type: town
   voivodeship: lubuskie
-  lat: 52.14917
-  lon: 15.16929
-- slug: torzym
-  name: Torzym
-  type: town
-  voivodeship: lubuskie
-  lat: 52.31354
-  lon: 15.08268
-- slug: rzepin
-  name: Rzepin
-  type: town
-  voivodeship: lubuskie
-  lat: 52.34486
-  lon: 14.83841
-- slug: szczaniec
-  name: Szczaniec
-  type: town
-  voivodeship: lubuskie
-  lat: 52.26910
-  lon: 15.68153
-- slug: zbaszynek
-  name: Zbąszynek
-  type: town
-  voivodeship: lubuskie
-  lat: 52.24461
-  lon: 15.81637
-- slug: czerwiensk
-  name: Czerwieńsk
-  type: town
-  voivodeship: lubuskie
-  lat: 52.01320
-  lon: 15.42026
+  lat: 52.15762
+  lon: 15.1734
+  lands:
+    rownina_torzymska: 91.754
+    pojezierze_lagowskie: 7.2199
+    dolina_srodkowej_odry: 1.0261
+  boundary:
+    southWest:
+      lat: 52.09365115300005
+      lng: 15.00896489400003
+    northEast:
+      lat: 52.232814904000065
+      lng: 15.314394680000078
 - slug: miedzyrzecz
   name: Międzyrzecz
   type: town
   voivodeship: lubuskie
-  lat: 52.44525
-  lon: 15.57827
-- slug: bledzew
-  name: Bledzew
+  lat: 52.4416
+  lon: 15.54189
+  lands:
+    bruzda_zbaszynska: 76.5215
+    pojezierze_lagowskie: 20.7291
+    pojezierze_poznanskie: 2.7494
+  boundary:
+    southWest:
+      lat: 52.34257988600007
+      lng: 15.396786046000045
+    northEast:
+      lat: 52.53683005400006
+      lng: 15.765013194000062
+- slug: bytom_odrzanski
+  name: Bytom Odrzański
   type: town
   voivodeship: lubuskie
-  lat: 52.51702
-  lon: 15.41339
-- slug: skwierzyna
-  name: Skwierzyna
-  type: town
-  voivodeship: lubuskie
-  lat: 52.59707
-  lon: 15.50386
-- slug: sulecin
-  name: Sulęcin
-  type: town
-  voivodeship: lubuskie
-  lat: 52.44101
-  lon: 15.11522
-- slug: slonsk
-  name: Słońsk
-  type: town
-  voivodeship: lubuskie
-  lat: 52.56432
-  lon: 14.80657
-- slug: witnica
-  name: Witnica
-  type: town
-  voivodeship: lubuskie
-  lat: 52.67278
-  lon: 14.89849
-- slug: gorzow_wielkopolski
-  name: Gorzów Wielkopolski
-  type: town
-  voivodeship: lubuskie
-  lat: 52.73137
-  lon: 15.23958
-- slug: lubniewice
-  name: Lubniewice
-  type: town
-  voivodeship: lubuskie
-  lat: 52.51321
-  lon: 15.24619
+  lat: 51.71448
+  lon: 15.80839
+  lands:
+    wzgorza_dalkowskie: 74.9919
+    pradolina_glogowska: 25.0081
+  boundary:
+    southWest:
+      lat: 51.668586582000046
+      lng: 15.742811275000065
+    northEast:
+      lat: 51.76368516600007
+      lng: 15.871823601000074
 - slug: osno_lubuskie
   name: Ośno Lubuskie
   type: town
   voivodeship: lubuskie
-  lat: 52.45268
-  lon: 14.87716
-- slug: lubiszyn
-  name: Lubiszyn
+  lat: 52.45112
+  lon: 14.89964
+  lands:
+    pojezierze_lagowskie: 96.477
+    kotlina_gorzowska: 3.523
+  boundary:
+    southWest:
+      lat: 52.371068895000064
+      lng: 14.746987927000077
+    northEast:
+      lat: 52.529912187000036
+      lng: 15.041928970000072
+- slug: slubice
+  name: Słubice
   type: town
   voivodeship: lubuskie
-  lat: 52.77910
-  lon: 14.94407
-- slug: nowogrod_bobrzanski
-  name: Nowogród Bobrzański
+  lat: 52.36162
+  lon: 14.63755
+  lands:
+    lubuski_przelom_odry: 37.4198
+    rownina_torzymska: 34.7871
+    pojezierze_lagowskie: 14.3907
+  boundary:
+    southWest:
+      lat: 52.25574500600004
+      lng: 14.534579787000041
+    northEast:
+      lat: 52.46459038800003
+      lng: 14.741374120000046
+- slug: zwierzyn
+  name: Zwierzyn
   type: town
   voivodeship: lubuskie
-  lat: 51.79693
-  lon: 15.22738
-- slug: zary
-  name: Żary
+  lat: 52.80289
+  lon: 15.57347
+  lands:
+    kotlina_gorzowska: 99.5447
+    pojezierze_dobiegniewskie: 0.4537
+    rownina_gorzowska: 0.0017
+  boundary:
+    southWest:
+      lat: 52.75199961700008
+      lng: 15.456244450000042
+    northEast:
+      lat: 52.85385596300006
+      lng: 15.693474622000053
+- slug: slonsk
+  name: Słońsk
   type: town
   voivodeship: lubuskie
-  lat: 51.64182
-  lon: 15.13623
-- slug: zagan
-  name: Żagań
+  lat: 52.56601
+  lon: 14.80888
+  lands:
+    kotlina_gorzowska: 89.9266
+    kotlina_freienwaldzka: 6.1826
+    pojezierze_lagowskie: 3.8908
+  boundary:
+    southWest:
+      lat: 52.507230176000064
+      lng: 14.64731157500006
+    northEast:
+      lat: 52.621334294000064
+      lng: 14.96371219200006
+- slug: skape
+  name: Skąpe
   type: town
   voivodeship: lubuskie
-  lat: 51.61875
-  lon: 15.30849
+  lat: 52.16511
+  lon: 15.4277
+  lands:
+    pojezierze_lagowskie: 96.4256
+    dolina_srodkowej_odry: 3.5744
+  boundary:
+    southWest:
+      lat: 52.09628722300005
+      lng: 15.292822331000025
+    northEast:
+      lat: 52.22405456100006
+      lng: 15.57990241500005
+- slug: lagow
+  name: Łagów
+  type: town
+  voivodeship: lubuskie
+  lat: 52.29098
+  lon: 15.27191
+  lands:
+    pojezierze_lagowskie: 66.213
+    rownina_torzymska: 33.787
+  boundary:
+    southWest:
+      lat: 52.19459028500006
+      lng: 15.091332677000025
+    northEast:
+      lat: 52.37943607400007
+      lng: 15.40786888200006
+- slug: bojadla
+  name: Bojadła
+  type: town
+  voivodeship: lubuskie
+  lat: 51.95711
+  lon: 15.82114
+  lands:
+    kotlina_kargowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.885797410000066
+      lng: 15.737086746000045
+    northEast:
+      lat: 52.030714568000064
+      lng: 15.933578196000042
+- slug: babimost
+  name: Babimost
+  type: town
+  voivodeship: lubuskie
+  lat: 52.15369
+  lon: 15.8019
+  lands:
+    bruzda_zbaszynska: 65.5261
+    pojezierze_lagowskie: 34.4739
+  boundary:
+    southWest:
+      lat: 52.09531662000006
+      lng: 15.722452739000062
+    northEast:
+      lat: 52.21329011800003
+      lng: 15.88226867700007
+- slug: czerwiensk
+  name: Czerwieńsk
+  type: town
+  voivodeship: lubuskie
+  lat: 52.03822
+  lon: 15.39697
+  lands:
+    dolina_srodkowej_odry: 60.7302
+    wysoczyzna_czerwienska: 36.159
+    pojezierze_lagowskie: 3.0511
+  boundary:
+    southWest:
+      lat: 51.94956035900003
+      lng: 15.256626682000046
+    northEast:
+      lat: 52.13133376600007
+      lng: 15.534702242000037
+- slug: leknica
+  name: Łęknica
+  type: town
+  voivodeship: lubuskie
+  lat: 51.54651
+  lon: 14.75362
+  lands:
+    wal_muzakowski: 78.695
+    bory_dolnoslaskie: 10.2355
+    kotlina_zasiecka: 8.8347
+  boundary:
+    southWest:
+      lat: 51.51845805100004
+      lng: 14.711243029000059
+    northEast:
+      lat: 51.57691998400003
+      lng: 14.80011849300007
+- slug: gorzow_wielkopolski
+  name: Gorzów Wielkopolski
+  type: town
+  voivodeship: lubuskie
+  lat: 52.72747
+  lon: 15.20961
+  lands:
+    rownina_gorzowska: 57.7949
+    kotlina_gorzowska: 42.2051
+  boundary:
+    southWest:
+      lat: 52.684834702000046
+      lng: 15.124077653000029
+    northEast:
+      lat: 52.776003410000044
+      lng: 15.310831778000022
+- slug: maszewo
+  name: Maszewo
+  type: town
+  voivodeship: lubuskie
+  lat: 52.12725
+  lon: 14.93326
+  lands:
+    rownina_torzymska: 90.4366
+    dolina_srodkowej_odry: 9.5634
+  boundary:
+    southWest:
+      lat: 52.02929765300007
+      lng: 14.789870558000075
+    northEast:
+      lat: 52.21888002000003
+      lng: 15.059446060000028
+- slug: nowe_miasteczko
+  name: Nowe Miasteczko
+  type: town
+  voivodeship: lubuskie
+  lat: 51.69284
+  lon: 15.68803
+  lands:
+    wzgorza_dalkowskie: 99.9759
+    pradolina_glogowska: 0.0241
+  boundary:
+    southWest:
+      lat: 51.64500142500003
+      lng: 15.588034007000033
+    northEast:
+      lat: 51.73436630100008
+      lng: 15.819622847000062
+- slug: stare_kurowo
+  name: Stare Kurowo
+  type: town
+  voivodeship: lubuskie
+  lat: 52.84185
+  lon: 15.69095
+  lands:
+    kotlina_gorzowska: 65.763
+    pojezierze_dobiegniewskie: 34.237
+  boundary:
+    southWest:
+      lat: 52.78679255000003
+      lng: 15.609378210000045
+    northEast:
+      lat: 52.89699344400003
+      lng: 15.780255466000028
+- slug: torzym
+  name: Torzym
+  type: town
+  voivodeship: lubuskie
+  lat: 52.30542
+  lon: 15.03962
+  lands:
+    rownina_torzymska: 92.9465
+    pojezierze_lagowskie: 7.0535
+  boundary:
+    southWest:
+      lat: 52.20676318200003
+      lng: 14.868750041000055
+    northEast:
+      lat: 52.40961455300004
+      lng: 15.241294676000052
 - slug: malomice
   name: Małomice
   type: town
   voivodeship: lubuskie
-  lat: 51.55540
-  lon: 15.44917
-- slug: szprotawa
-  name: Szprotawa
+  lat: 51.55738
+  lon: 15.45627
+  lands:
+    bory_dolnoslaskie: 65.5498
+    wzgorza_dalkowskie: 34.4502
+  boundary:
+    southWest:
+      lat: 51.471052092000036
+      lng: 15.400414152000053
+    northEast:
+      lat: 51.64682288800003
+      lng: 15.596263687000032
+- slug: zielona_gora
+  name: Zielona Góra
   type: town
   voivodeship: lubuskie
-  lat: 51.56612
-  lon: 15.53963
-- slug: szprotawa
-  name: Szprotawa
+  lat: 51.92838
+  lon: 15.54994
+  lands:
+    wal_zielonogorski: 38.5902
+    obnizenie_nowosolskie: 27.9235
+    wysoczyzna_czerwienska: 21.0518
+  boundary:
+    southWest:
+      lat: 51.82014311300003
+      lng: 15.390908629000023
+    northEast:
+      lat: 52.03478007500007
+      lng: 15.64921915800005
+- slug: zary
+  name: Żary
   type: town
   voivodeship: lubuskie
-  lat: 51.56612
-  lon: 15.53963
-- slug: niegoslawice
-  name: Niegosławice
+  lat: 51.62326
+  lon: 15.14662
+  lands:
+    wzniesienia_zarskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.58480304400007
+      lng: 15.086036914000033
+    northEast:
+      lat: 51.66263252200008
+      lng: 15.208075777000033
+- slug: zary
+  name: Żary
   type: town
   voivodeship: lubuskie
-  lat: 51.58721
-  lon: 15.71565
-- slug: zwierzyn
-  name: Zwierzyń
+  lat: 51.66668
+  lon: 15.1654
+  lands:
+    wzniesienia_zarskie: 93.4045
+    dolina_srodkowego_bobru: 6.5891
+    wzniesienia_gubinskie: 0.0063
+  boundary:
+    southWest:
+      lat: 51.54545303400005
+      lng: 14.948937182000066
+    northEast:
+      lat: 51.784215258000074
+      lng: 15.270171159000029
+- slug: slawa
+  name: Sława
   type: town
   voivodeship: lubuskie
-  lat: 52.83652
-  lon: 15.58436
+  lat: 51.88007
+  lon: 16.08764
+  lands:
+    pojezierze_slawskie: 93.5244
+    kotlina_kargowska: 5.1526
+    pradolina_glogowska: 1.3229
+  boundary:
+    southWest:
+      lat: 51.75962737200007
+      lng: 15.825080040000046
+    northEast:
+      lat: 51.995767467000064
+      lng: 16.200137213000062
+- slug: klodawa
+  name: Kłodawa
+  type: town
+  voivodeship: lubuskie
+  lat: 52.83233
+  lon: 15.25002
+  lands:
+    rownina_gorzowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.75902529800004
+      lng: 15.071762308000075
+    northEast:
+      lat: 52.90440455500004
+      lng: 15.442211962000044
+- slug: skwierzyna
+  name: Skwierzyna
+  type: town
+  voivodeship: lubuskie
+  lat: 52.63586
+  lon: 15.55678
+  lands:
+    kotlina_gorzowska: 96.6792
+    pojezierze_poznanskie: 2.6598
+    pojezierze_lagowskie: 0.661
+  boundary:
+    southWest:
+      lat: 52.55698302400003
+      lng: 15.363041346000045
+    northEast:
+      lat: 52.71411679800008
+      lng: 15.813961729000027
+- slug: siedlisko
+  name: Siedlisko
+  type: town
+  voivodeship: lubuskie
+  lat: 51.76603
+  lon: 15.87309
+  lands:
+    pradolina_glogowska: 99.4156
+    pojezierze_slawskie: 0.5844
+  boundary:
+    southWest:
+      lat: 51.720736016000046
+      lng: 15.771925552000027
+    northEast:
+      lat: 51.81191307900008
+      lng: 15.98902384300004
+- slug: krzeszyce
+  name: Krzeszyce
+  type: town
+  voivodeship: lubuskie
+  lat: 52.58116
+  lon: 15.07225
+  lands:
+    kotlina_gorzowska: 92.6495
+    pojezierze_lagowskie: 7.3505
+  boundary:
+    southWest:
+      lat: 52.50946507500004
+      lng: 14.930512892000024
+    northEast:
+      lat: 52.65208187800005
+      lng: 15.210958685000037
+- slug: kargowa
+  name: Kargowa
+  type: town
+  voivodeship: lubuskie
+  lat: 52.06625
+  lon: 15.86521
+  lands:
+    kotlina_kargowska: 71.5799
+    bruzda_zbaszynska: 27.0699
+    pojezierze_lagowskie: 1.3502
+  boundary:
+    southWest:
+      lat: 52.00131724100004
+      lng: 15.734817879000047
+    northEast:
+      lat: 52.12879628700006
+      lng: 15.992991700000061
+- slug: otyn
+  name: Otyń
+  type: town
+  voivodeship: lubuskie
+  lat: 51.86375
+  lon: 15.70814
+  lands:
+    obnizenie_nowosolskie: 70.2815
+    kotlina_kargowska: 20.17
+    wal_zielonogorski: 7.2832
+  boundary:
+    southWest:
+      lat: 51.80881397700006
+      lng: 15.568605311000056
+    northEast:
+      lat: 51.90509905300007
+      lng: 15.78768698400006
+- slug: witnica
+  name: Witnica
+  type: town
+  voivodeship: lubuskie
+  lat: 52.6873
+  lon: 14.9008
+  lands:
+    rownina_gorzowska: 53.9537
+    kotlina_gorzowska: 45.9986
+    kotlina_freienwaldzka: 0.0478
+  boundary:
+    southWest:
+      lat: 52.59415430000007
+      lng: 14.667119719000027
+    northEast:
+      lat: 52.78399614800003
+      lng: 15.052697372000068
+- slug: nowa_sol
+  name: Nowa Sól
+  type: town
+  voivodeship: lubuskie
+  lat: 51.79805
+  lon: 15.70987
+  lands:
+    pradolina_glogowska: 70.1397
+    obnizenie_nowosolskie: 29.8603
+  boundary:
+    southWest:
+      lat: 51.765548092000074
+      lng: 15.681508349000069
+    northEast:
+      lat: 51.828723711000066
+      lng: 15.746402892000049
+- slug: dobiegniew
+  name: Dobiegniew
+  type: town
+  voivodeship: lubuskie
+  lat: 53.00558
+  lon: 15.86304
+  lands:
+    rownina_drawska: 55.218
+    pojezierze_dobiegniewskie: 44.782
+  boundary:
+    southWest:
+      lat: 52.89656487900004
+      lng: 15.607115645000022
+    northEast:
+      lat: 53.12114627200003
+      lng: 15.995684334000032
+- slug: drezdenko
+  name: Drezdenko
+  type: town
+  voivodeship: lubuskie
+  lat: 52.82973
+  lon: 15.82456
+  lands:
+    kotlina_gorzowska: 71.4069
+    rownina_drawska: 15.7616
+    pojezierze_dobiegniewskie: 12.8315
+  boundary:
+    southWest:
+      lat: 52.70157158000006
+      lng: 15.579068519000032
+    northEast:
+      lat: 52.957082813000056
+      lng: 15.979342377000023
+- slug: sulecin
+  name: Sulęcin
+  type: town
+  voivodeship: lubuskie
+  lat: 52.43467
+  lon: 15.18006
+  lands:
+    pojezierze_lagowskie: 94.3083
+    rownina_torzymska: 5.5366
+    kotlina_gorzowska: 0.1551
+  boundary:
+    southWest:
+      lat: 52.34174067500004
+      lng: 14.972234952000065
+    northEast:
+      lat: 52.53219457100005
+      lng: 15.449860614000045
+- slug: nowogrod_bobrzanski
+  name: Nowogród Bobrzański
+  type: town
+  voivodeship: lubuskie
+  lat: 51.82279
+  lon: 15.3154
+  lands:
+    obnizenie_nowosolskie: 42.5494
+    wzgorza_dalkowskie: 26.1926
+    dolina_srodkowego_bobru: 9.8369
+  boundary:
+    southWest:
+      lat: 51.736514432000035
+      lng: 15.077358422000032
+    northEast:
+      lat: 51.900580786000035
+      lng: 15.468631910000056
+- slug: wymiarki
+  name: Wymiarki
+  type: town
+  voivodeship: lubuskie
+  lat: 51.51827
+  lon: 15.08122
+  lands:
+    wzniesienia_zarskie: 60.7402
+    bory_dolnoslaskie: 39.2598
+  boundary:
+    southWest:
+      lat: 51.48171023000003
+      lng: 14.992947128000026
+    northEast:
+      lat: 51.56167898900003
+      lng: 15.16960223500007
+- slug: gozdnica
+  name: Gozdnica
+  type: town
+  voivodeship: lubuskie
+  lat: 51.45584
+  lon: 15.08065
+  lands:
+    bory_dolnoslaskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.42549859800005
+      lng: 15.047322376000068
+    northEast:
+      lat: 51.48196349600005
+      lng: 15.124070969000059
+- slug: trzebiel
+  name: Trzebiel
+  type: town
+  voivodeship: lubuskie
+  lat: 51.59486
+  lon: 14.83223
+  lands:
+    wal_muzakowski: 51.3112
+    wzniesienia_zarskie: 34.6222
+    bory_dolnoslaskie: 7.5529
+  boundary:
+    southWest:
+      lat: 51.521120816000064
+      lng: 14.728264950000039
+    northEast:
+      lat: 51.68052159600006
+      lng: 14.942331195000065
+- slug: kostrzyn_nad_odra
+  name: Kostrzyn nad Odrą
+  type: town
+  voivodeship: lubuskie
+  lat: 52.61956
+  lon: 14.62488
+  lands:
+    kotlina_freienwaldzka: 72.6482
+    rownina_gorzowska: 22.6325
+    kotlina_gorzowska: 4.0596
+  boundary:
+    southWest:
+      lat: 52.57215053200008
+      lng: 14.564033992000077
+    northEast:
+      lat: 52.66040818400006
+      lng: 14.716155137000044
+- slug: lubiszyn
+  name: Lubiszyn
+  type: town
+  voivodeship: lubuskie
+  lat: 52.80169
+  lon: 14.98237
+  lands:
+    rownina_gorzowska: 98.7926
+    pojezierze_mysliborskie: 1.2074
+  boundary:
+    southWest:
+      lat: 52.728707316000055
+      lng: 14.810110988000076
+    northEast:
+      lat: 52.889669053000034
+      lng: 15.139366322000058
+- slug: pszczew
+  name: Pszczew
+  type: town
+  voivodeship: lubuskie
+  lat: 52.48012
+  lon: 15.79549
+  lands:
+    bruzda_zbaszynska: 53.4369
+    pojezierze_poznanskie: 35.4199
+    rownina_nowotomyska: 11.1432
+  boundary:
+    southWest:
+      lat: 52.402903200000026
+      lng: 15.645527463000064
+    northEast:
+      lat: 52.56708427400008
+      lng: 15.89555884200007
+- slug: cybinka
+  name: Cybinka
+  type: town
+  voivodeship: lubuskie
+  lat: 52.1853
+  lon: 14.79073
+  lands:
+    rownina_torzymska: 71.6863
+    dolina_srodkowej_odry: 27.8866
+  boundary:
+    southWest:
+      lat: 52.070024982000064
+      lng: 14.679128913000056
+    northEast:
+      lat: 52.30722231200008
+      lng: 14.913253871000052
+- slug: swiebodzin
+  name: Świebodzin
+  type: town
+  voivodeship: lubuskie
+  lat: 52.24617
+  lon: 15.5204
+  lands:
+    pojezierze_lagowskie: 93.725
+    bruzda_zbaszynska: 6.275
+  boundary:
+    southWest:
+      lat: 52.12693472400008
+      lng: 15.394323335000024
+    northEast:
+      lat: 52.35911281700004
+      lng: 15.663092385000027
+- slug: zbaszynek
+  name: Zbąszynek
+  type: town
+  voivodeship: lubuskie
+  lat: 52.25759
+  lon: 15.79194
+  lands:
+    bruzda_zbaszynska: 94.7578
+    pojezierze_lagowskie: 5.2422
+  boundary:
+    southWest:
+      lat: 52.192866940000044
+      lng: 15.711051819000033
+    northEast:
+      lat: 52.320481879000056
+      lng: 15.880810188000055
+- slug: sulechow
+  name: Sulechów
+  type: town
+  voivodeship: lubuskie
+  lat: 52.09035
+  lon: 15.57321
+  lands:
+    pojezierze_lagowskie: 72.8413
+    dolina_srodkowej_odry: 21.8392
+    kotlina_kargowska: 5.3195
+  boundary:
+    southWest:
+      lat: 52.006031730000075
+      lng: 15.403576649000058
+    northEast:
+      lat: 52.181106715000055
+      lng: 15.747607172000073
+- slug: ilowa
+  name: Iłowa
+  type: town
+  voivodeship: lubuskie
+  lat: 51.52023
+  lon: 15.20225
+  lands:
+    bory_dolnoslaskie: 64.6496
+    dolina_srodkowego_bobru: 28.6563
+    wzniesienia_zarskie: 6.6941
+  boundary:
+    southWest:
+      lat: 51.42979718400005
+      lng: 15.065787836000027
+    northEast:
+      lat: 51.61467128800007
+      lng: 15.296709923000037
+- slug: przewoz
+  name: Przewóz
+  type: town
+  voivodeship: lubuskie
+  lat: 51.45734
+  lon: 15.00411
+  lands:
+    bory_dolnoslaskie: 74.0105
+    wzniesienia_zarskie: 24.9746
+  boundary:
+    southWest:
+      lat: 51.36374456500005
+      lng: 14.783693048000032
+    northEast:
+      lat: 51.57479230600006
+      lng: 15.086201479000067
+- slug: lubsko
+  name: Lubsko
+  type: town
+  voivodeship: lubuskie
+  lat: 51.81925
+  lon: 14.97235
+  lands:
+    wzniesienia_gubinskie: 92.0526
+    kotlina_zasiecka: 7.9474
+  boundary:
+    southWest:
+      lat: 51.74332471800005
+      lng: 14.856065847000025
+    northEast:
+      lat: 51.89373197400005
+      lng: 15.106396105000044
+- slug: tuplice
+  name: Tuplice
+  type: town
+  voivodeship: lubuskie
+  lat: 51.70102
+  lon: 14.90146
+  lands:
+    wzniesienia_zarskie: 44.7604
+    wal_muzakowski: 40.8081
+    kotlina_zasiecka: 14.4315
+  boundary:
+    southWest:
+      lat: 51.63795096900003
+      lng: 14.810919795000075
+    northEast:
+      lat: 51.75302686200007
+      lng: 14.976624131000051
+- slug: szlichtyngowa
+  name: Szlichtyngowa
+  type: town
+  voivodeship: lubuskie
+  lat: 51.73019
+  lon: 16.26693
+  lands:
+    wysoczyzna_leszczynska: 80.81
+    pradolina_glogowska: 14.518
+    pojezierze_slawskie: 4.672
+  boundary:
+    southWest:
+      lat: 51.663544356000045
+      lng: 16.13995390300005
+    northEast:
+      lat: 51.798973422000074
+      lng: 16.36931480800007
+- slug: bobrowice
+  name: Bobrowice
+  type: town
+  voivodeship: lubuskie
+  lat: 51.93295
+  lon: 15.06738
+  lands:
+    wzniesienia_gubinskie: 70.6192
+    dolina_dolnego_bobru: 18.1068
+    wysoczyzna_czerwienska: 10.2653
+  boundary:
+    southWest:
+      lat: 51.86086482700006
+      lng: 14.917667833000053
+    northEast:
+      lat: 52.01079447400008
+      lng: 15.200062122000077
+- slug: bledzew
+  name: Bledzew
+  type: town
+  voivodeship: lubuskie
+  lat: 52.51714
+  lon: 15.41371
+  lands:
+    pojezierze_lagowskie: 68.0866
+    pojezierze_poznanskie: 18.2154
+    bruzda_zbaszynska: 11.4551
+  boundary:
+    southWest:
+      lat: 52.41574850000006
+      lng: 15.265065568000068
+    northEast:
+      lat: 52.620603061000054
+      lng: 15.56093334700006
 - slug: przytoczna
   name: Przytoczna
   type: town
   voivodeship: lubuskie
-  lat: 52.57739
-  lon: 15.68015
+  lat: 52.57732
+  lon: 15.68444
+  lands:
+    pojezierze_poznanskie: 70.5259
+    kotlina_gorzowska: 29.4079
+    bruzda_zbaszynska: 0.0663
+  boundary:
+    southWest:
+      lat: 52.520143767000036
+      lng: 15.537214748000054
+    northEast:
+      lat: 52.64205504600005
+      lng: 15.831876930000021
+- slug: strzelce_krajenskie
+  name: Strzelce Krajeńskie
+  type: town
+  voivodeship: lubuskie
+  lat: 52.90646
+  lon: 15.50305
+  lands:
+    pojezierze_dobiegniewskie: 55.1627
+    rownina_gorzowska: 23.3762
+    pojezierze_choszczenskie: 18.9335
+  boundary:
+    southWest:
+      lat: 52.794376757000066
+      lng: 15.282894913000064
+    northEast:
+      lat: 53.01446135400005
+      lng: 15.689067332000036
+- slug: szczaniec
+  name: Szczaniec
+  type: town
+  voivodeship: lubuskie
+  lat: 52.24608
+  lon: 15.67568
+  lands:
+    pojezierze_lagowskie: 79.918
+    bruzda_zbaszynska: 20.082
+  boundary:
+    southWest:
+      lat: 52.16102207400007
+      lng: 15.605050574000074
+    northEast:
+      lat: 52.32301707700003
+      lng: 15.782266070000048
+- slug: zabor
+  name: Zabór
+  type: town
+  voivodeship: lubuskie
+  lat: 51.94987
+  lon: 15.7025
+  lands:
+    wal_zielonogorski: 68.2035
+    kotlina_kargowska: 31.6534
+    obnizenie_nowosolskie: 0.1431
+  boundary:
+    southWest:
+      lat: 51.89374762400007
+      lng: 15.605490063000047
+    northEast:
+      lat: 52.00693024600008
+      lng: 15.795094455000026
+- slug: szprotawa
+  name: Szprotawa
+  type: town
+  voivodeship: lubuskie
+  lat: 51.57225
+  lon: 15.56463
+  lands:
+    wzgorza_dalkowskie: 55.6451
+    bory_dolnoslaskie: 42.2626
+    rownina_przemkowska: 2.0922
+  boundary:
+    southWest:
+      lat: 51.44791977600005
+      lng: 15.482161985000062
+    northEast:
+      lat: 51.694339497000044
+      lng: 15.714032186000054
+- slug: niegoslawice
+  name: Niegosławice
+  type: town
+  voivodeship: lubuskie
+  lat: 51.6092
+  lon: 15.72427
+  lands:
+    wzgorza_dalkowskie: 75.6124
+    rownina_przemkowska: 23.5625
+    bory_dolnoslaskie: 0.8251
+  boundary:
+    southWest:
+      lat: 51.55213400200006
+      lng: 15.61232775600007
+    northEast:
+      lat: 51.67218934200008
+      lng: 15.852595976000032
+- slug: wschowa
+  name: Wschowa
+  type: town
+  voivodeship: lubuskie
+  lat: 51.81217
+  lon: 16.28056
+  lands:
+    wysoczyzna_leszczynska: 56.3699
+    pojezierze_slawskie: 43.6301
+  boundary:
+    southWest:
+      lat: 51.73155473000003
+      lng: 16.16242417600006
+    northEast:
+      lat: 51.900738518000026
+      lng: 16.416190834000076
+- slug: deszczno
+  name: Deszczno
+  type: town
+  voivodeship: lubuskie
+  lat: 52.65997
+  lon: 15.28654
+  lands:
+    kotlina_gorzowska: 84.8639
+    pojezierze_lagowskie: 15.1361
+  boundary:
+    southWest:
+      lat: 52.58439808000003
+      lng: 15.157720853000058
+    northEast:
+      lat: 52.73496045200005
+      lng: 15.418927773000064
+- slug: bogdaniec
+  name: Bogdaniec
+  type: town
+  voivodeship: lubuskie
+  lat: 52.6873
+  lon: 15.09929
+  lands:
+    kotlina_gorzowska: 63.0761
+    rownina_gorzowska: 36.9239
+  boundary:
+    southWest:
+      lat: 52.61722918500004
+      lng: 15.004936453000028
+    northEast:
+      lat: 52.75804455000008
+      lng: 15.19097374300003
+- slug: kozuchow
+  name: Kożuchów
+  type: town
+  voivodeship: lubuskie
+  lat: 51.76488
+  lon: 15.56858
+  lands:
+    wzgorza_dalkowskie: 59.1179
+    obnizenie_nowosolskie: 40.8821
+  boundary:
+    southWest:
+      lat: 51.68336879300006
+      lng: 15.442233454000075
+    northEast:
+      lat: 51.843529337000064
+      lng: 15.71969752800004
+- slug: rzepin
+  name: Rzepin
+  type: town
+  voivodeship: lubuskie
+  lat: 52.36568
+  lon: 14.81722
+  lands:
+    pojezierze_lagowskie: 52.9873
+    rownina_torzymska: 47.0127
+  boundary:
+    southWest:
+      lat: 52.28845414800003
+      lng: 14.66627995500005
+    northEast:
+      lat: 52.45285424200006
+      lng: 14.919549276000055
+- slug: lubniewice
+  name: Lubniewice
+  type: town
+  voivodeship: lubuskie
+  lat: 52.51615
+  lon: 15.21046
+  lands:
+    pojezierze_lagowskie: 91.0299
+    kotlina_gorzowska: 8.9701
+  boundary:
+    southWest:
+      lat: 52.447900538000056
+      lng: 15.135117341000068
+    northEast:
+      lat: 52.59006552200003
+      lng: 15.310233308000022
+- slug: lubrza
+  name: Lubrza
+  type: town
+  voivodeship: lubuskie
+  lat: 52.29301
+  lon: 15.40965
+  lands:
+    pojezierze_lagowskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.21429146500003
+      lng: 15.307016830000066
+    northEast:
+      lat: 52.37564829300004
+      lng: 15.50178678900005
+- slug: swidnica
+  name: Świdnica
+  type: town
+  voivodeship: lubuskie
+  lat: 51.90907
+  lon: 15.35318
+  lands:
+    wysoczyzna_czerwienska: 40.4236
+    wal_zielonogorski: 37.0992
+    obnizenie_nowosolskie: 22.4772
+  boundary:
+    southWest:
+      lat: 51.83657298400004
+      lng: 15.232354051000073
+    northEast:
+      lat: 51.978892373000065
+      lng: 15.476616496000076
+- slug: zagan
+  name: Żagań
+  type: town
+  voivodeship: lubuskie
+  lat: 51.6065
+  lon: 15.30429
+  lands:
+    dolina_srodkowego_bobru: 97.2599
+    wzgorza_dalkowskie: 2.7401
+  boundary:
+    southWest:
+      lat: 51.57496052400006
+      lng: 15.260256852000055
+    northEast:
+      lat: 51.650112611000054
+      lng: 15.369700437000063
+- slug: jasien
+  name: Jasień
+  type: town
+  voivodeship: lubuskie
+  lat: 51.76162
+  lon: 15.05496
+  lands:
+    wzniesienia_zarskie: 37.7489
+    wzniesienia_gubinskie: 37.0064
+    obnizenie_nowosolskie: 13.6559
+  boundary:
+    southWest:
+      lat: 51.68021210100005
+      lng: 14.916979432000062
+    northEast:
+      lat: 51.84649932600007
+      lng: 15.170312239000054
+- slug: dabie
+  name: Dąbie
+  type: town
+  voivodeship: lubuskie
+  lat: 51.97745
+  lon: 15.19142
+  lands:
+    wysoczyzna_czerwienska: 78.0397
+    dolina_srodkowej_odry: 17.0837
+    dolina_dolnego_bobru: 4.8767
+  boundary:
+    southWest:
+      lat: 51.89220398800006
+      lng: 15.052741753000078
+    northEast:
+      lat: 52.06383068100007
+      lng: 15.29329159100007
+- slug: krosno_odrzanskie
+  name: Krosno Odrzańskie
+  type: town
+  voivodeship: lubuskie
+  lat: 52.05554
+  lon: 15.07286
+  lands:
+    dolina_srodkowej_odry: 50.5578
+    rownina_torzymska: 40.687
+    wzniesienia_gubinskie: 8.7552
+  boundary:
+    southWest:
+      lat: 51.97017436100003
+      lng: 14.90592623200007
+    northEast:
+      lat: 52.13927277800008
+      lng: 15.291958486000055
+- slug: trzciel
+  name: Trzciel
+  type: town
+  voivodeship: lubuskie
+  lat: 52.359
+  lon: 15.78914
+  lands:
+    bruzda_zbaszynska: 97.8768
+    rownina_nowotomyska: 2.1232
+  boundary:
+    southWest:
+      lat: 52.28477349800005
+      lng: 15.621677763000037
+    northEast:
+      lat: 52.43463540800008
+      lng: 15.900607973000035
+- slug: kolsko
+  name: Kolsko
+  type: town
+  voivodeship: lubuskie
+  lat: 51.96903
+  lon: 15.95865
+  lands:
+    kotlina_kargowska: 65.767
+    pojezierze_slawskie: 34.233
+  boundary:
+    southWest:
+      lat: 51.90263594000004
+      lng: 15.845950110000047
+    northEast:
+      lat: 52.036003031000064
+      lng: 16.01121239400004
+- slug: nowa_sol
+  name: Nowa Sól
+  type: town
+  voivodeship: lubuskie
+  lat: 51.82647
+  lon: 15.80559
+  lands:
+    pojezierze_slawskie: 41.4194
+    pradolina_glogowska: 23.2926
+    obnizenie_nowosolskie: 23.1221
+  boundary:
+    southWest:
+      lat: 51.73301519100005
+      lng: 15.578809528000022
+    northEast:
+      lat: 51.921704573000056
+      lng: 15.99176473500006
+- slug: gorzyca
+  name: Górzyca
+  type: town
+  voivodeship: lubuskie
+  lat: 52.49984
+  lon: 14.71902
+  lands:
+    pojezierze_lagowskie: 56.9282
+    kotlina_freienwaldzka: 26.2246
+    lubuski_przelom_odry: 8.5549
+  boundary:
+    southWest:
+      lat: 52.42242291500003
+      lng: 14.603922838000074
+    northEast:
+      lat: 52.575323053000034
+      lng: 14.816647506000038
+- slug: trzebiechow
+  name: Trzebiechów
+  type: town
+  voivodeship: lubuskie
+  lat: 52.02464
+  lon: 15.70695
+  lands:
+    kotlina_kargowska: 84.3047
+    pojezierze_lagowskie: 15.6953
+  boundary:
+    southWest:
+      lat: 51.97111175400005
+      lng: 15.633602391000068
+    northEast:
+      lat: 52.069154178000076
+      lng: 15.794501289000038
+- slug: zagan
+  name: Żagań
+  type: town
+  voivodeship: lubuskie
+  lat: 51.59103
+  lon: 15.39771
+  lands:
+    wzgorza_dalkowskie: 39.7895
+    bory_dolnoslaskie: 32.7507
+    dolina_srodkowego_bobru: 27.2745
+  boundary:
+    southWest:
+      lat: 51.41849599100004
+      lng: 15.232968976000052
+    northEast:
+      lat: 51.76093117800008
+      lng: 15.519433651000043
+- slug: brzeznica
+  name: Brzeźnica
+  type: town
+  voivodeship: lubuskie
+  lat: 51.70545
+  lon: 15.41153
+  lands:
+    wzgorza_dalkowskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.64355591000003
+      lng: 15.291790453000033
+    northEast:
+      lat: 51.78166817200008
+      lng: 15.519255969000028

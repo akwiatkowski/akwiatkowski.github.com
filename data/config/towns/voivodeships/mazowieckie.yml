@@ -1,19 +1,4990 @@
 ---
-- slug: radzymin
-  name: Radzymin
+- slug: miedzna
+  name: Miedzna
   type: town
   voivodeship: mazowieckie
-  lat: 52.41676424782444
-  lon: 21.180233416722526
-- slug: warszawa
-  name: Warszawa
+  lat: 52.50248
+  lon: 22.05899
+  lands:
+    wysoczyzna_siedlecka: 94.6577
+    rownina_wolominska: 5.3423
+  boundary:
+    southWest:
+      lat: 52.434331436000036
+      lng: 21.97070711500004
+    northEast:
+      lat: 52.57389187100006
+      lng: 22.170442140000034
+- slug: korytnica
+  name: Korytnica
   type: town
   voivodeship: mazowieckie
-  lat: 52.23751279028653
-  lon: 21.03257368823702
+  lat: 52.42028
+  lon: 21.81892
+  lands:
+    wysoczyzna_kaluszynska: 62.0201
+    rownina_wolominska: 27.4366
+    obnizenie_wegrowskie: 9.1798
+  boundary:
+    southWest:
+      lat: 52.34647400700004
+      lng: 21.666433011000038
+    northEast:
+      lat: 52.49336459400007
+      lng: 21.945798957000022
+- slug: garwolin
+  name: Garwolin
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.89463
+  lon: 21.62469
+  lands:
+    rownina_garwolinska: 97.9989
+    wysoczyzna_zelechowska: 2.0011
+  boundary:
+    southWest:
+      lat: 51.86821642700005
+      lng: 21.571644900000024
+    northEast:
+      lat: 51.92375160700004
+      lng: 21.674732539000047
+- slug: borowie
+  name: Borowie
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.95241
+  lon: 21.79204
+  lands:
+    wysoczyzna_zelechowska: 52.603
+    rownina_garwolinska: 47.3762
+    obnizenie_wegrowskie: 0.0208
+  boundary:
+    southWest:
+      lat: 51.910771055000055
+      lng: 21.664048888000025
+    northEast:
+      lat: 51.995564124000055
+      lng: 21.889174233000062
+- slug: zelechow
+  name: Żelechów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.80822
+  lon: 21.86272
+  lands:
+    wysoczyzna_zelechowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.759533591000036
+      lng: 21.772051358000056
+    northEast:
+      lat: 51.84476897800005
+      lng: 21.95642133700005
+- slug: huszlew
+  name: Huszlew
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.12501
+  lon: 22.82886
+  lands:
+    wysoczyzna_siedlecka: 67.3944
+    rownina_lukowska: 32.6056
+  boundary:
+    southWest:
+      lat: 52.06352558800006
+      lng: 22.698293388000025
+    northEast:
+      lat: 52.185768593000034
+      lng: 22.96824435800005
+- slug: losice
+  name: Łosice
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.215
+  lon: 22.72574
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.15392633300007
+      lng: 22.632639307000034
+    northEast:
+      lat: 52.28231556600008
+      lng: 22.842549849000022
+- slug: goszczyn
+  name: Goszczyn
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.74132
+  lon: 20.85198
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.70094684800006
+      lng: 20.770702725000035
+    northEast:
+      lat: 51.77588613300003
+      lng: 20.94521470500007
+- slug: bledow
+  name: Błędów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.79842
+  lon: 20.66925
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.728848810000045
+      lng: 20.56024558000007
+    northEast:
+      lat: 51.86580498300003
+      lng: 20.760757047000027
+- slug: szelkow
+  name: Szelków
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.82117
+  lon: 21.16958
+  lands:
+    wysoczyzna_ciechanowska: 67.7383
+    dolina_dolnej_narwi: 32.2617
+  boundary:
+    southWest:
+      lat: 52.75956452300005
+      lng: 21.048356128000023
+    northEast:
+      lat: 52.875102079000044
+      lng: 21.29216122400004
+- slug: minsk_mazowiecki
+  name: Mińsk Mazowiecki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.18348
+  lon: 21.56439
+  lands:
+    wysoczyzna_kaluszynska: 82.6971
+    rownina_garwolinska: 17.3029
+  boundary:
+    southWest:
+      lat: 52.15992288400008
+      lng: 21.51225490300004
+    northEast:
+      lat: 52.19804066300003
+      lng: 21.599443979000057
+- slug: stanislawow
+  name: Stanisławów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.28106
+  lon: 21.52335
+  lands:
+    wysoczyzna_kaluszynska: 72.8958
+    rownina_wolominska: 27.1042
+  boundary:
+    southWest:
+      lat: 52.22744219500004
+      lng: 21.404421049000064
+    northEast:
+      lat: 52.34457228800005
+      lng: 21.621332275000043
+- slug: sulejowek
+  name: Sulejówek
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.23823
+  lon: 21.28242
+  lands:
+    rownina_wolominska: 100.0
+  boundary:
+    southWest:
+      lat: 52.221392741000045
+      lng: 21.250465570000074
+    northEast:
+      lat: 52.26754301600005
+      lng: 21.31441472100005
+- slug: gniewoszow
+  name: Gniewoszów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.47645
+  lon: 21.80312
+  lands:
+    dolina_srodkowej_wisly: 61.6488
+    rownina_radomska: 38.3512
+  boundary:
+    southWest:
+      lat: 51.42018636800003
+      lng: 21.729864951000025
+    northEast:
+      lat: 51.53548709100005
+      lng: 21.87317586100005
+- slug: mlawa
+  name: Mława
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.1352
+  lon: 20.3651
+  lands:
+    wzniesienia_mlawskie: 96.5175
+    rownina_raciaska: 3.4825
+  boundary:
+    southWest:
+      lat: 53.090946048000035
+      lng: 20.32553426100003
+    northEast:
+      lat: 53.17741274900004
+      lng: 20.437986238000065
+- slug: zakroczym
+  name: Zakroczym
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.47377
+  lon: 20.60879
+  lands:
+    wysoczyzna_plonska: 88.7792
+    kotlina_warszawska: 11.087
+    wysoczyzna_ciechanowska: 0.1338
+  boundary:
+    southWest:
+      lat: 52.41635046400006
+      lng: 20.484892846000037
+    northEast:
+      lat: 52.53253281100007
+      lng: 20.65919520400007
+- slug: czerwin
+  name: Czerwin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.95336
+  lon: 21.74519
+  lands:
+    miedzyrzecze_lomzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.89592652700003
+      lng: 21.62092053500004
+    northEast:
+      lat: 53.00897648000006
+      lng: 21.96043045700003
+- slug: zareby_koscielne
+  name: Zaręby Kościelne
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.74378
+  lon: 22.11791
+  lands:
+    wysoczyzna_wysokomazowiecka: 97.8734
+  boundary:
+    southWest:
+      lat: 52.69230583500007
+      lng: 22.042076328000064
+    northEast:
+      lat: 52.797792307000066
+      lng: 22.222896899000034
+- slug: jozefow
+  name: Józefów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.1345
+  lon: 21.21696
+  lands:
+    dolina_srodkowej_wisly: 94.0315
+    rownina_garwolinska: 5.9685
+  boundary:
+    southWest:
+      lat: 52.09823322500006
+      lng: 21.164952979000077
+    northEast:
+      lat: 52.15890930300003
+      lng: 21.272623664000037
+- slug: celestynow
+  name: Celestynów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.04431
+  lon: 21.36939
+  lands:
+    rownina_garwolinska: 70.3906
+    dolina_srodkowej_wisly: 29.6094
+  boundary:
+    southWest:
+      lat: 51.98466054600004
+      lng: 21.311570379000045
+    northEast:
+      lat: 52.11141189600005
+      lng: 21.483286726000074
+- slug: kuczborkosada
+  name: Kuczbork-Osada
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.10401
+  lon: 20.02565
+  lands:
+    wzniesienia_mlawskie: 60.0636
+    rownina_raciaska: 39.9364
+  boundary:
+    southWest:
+      lat: 53.03652872300006
+      lng: 19.926001632000066
+    northEast:
+      lat: 53.16811663100003
+      lng: 20.137931065000032
+- slug: puszcza_marianska
+  name: Puszcza Mariańska
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.9835
+  lon: 20.34801
+  lands:
+    wysoczyzna_rawska: 62.0349
+    rownina_lowickoblonska: 36.371
+    wzniesienia_lodzkie: 1.5941
+  boundary:
+    southWest:
+      lat: 51.912878239000065
+      lng: 20.201616192000074
+    northEast:
+      lat: 52.05533149000007
+      lng: 20.457698590000064
+- slug: lesznowola
+  name: Lesznowola
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.06842
+  lon: 20.9058
+  lands:
+    rownina_warszawska: 97.9344
+    wysoczyzna_rawska: 2.0656
+  boundary:
+    southWest:
+      lat: 52.02205984700004
+      lng: 20.809666165000067
+    northEast:
+      lat: 52.11982967200004
+      lng: 21.035504392000064
+- slug: bodzanow
+  name: Bodzanów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.485
+  lon: 19.96688
+  lands:
+    wysoczyzna_plonska: 78.9899
+    kotlina_warszawska: 21.0101
+  boundary:
+    southWest:
+      lat: 52.42548132300004
+      lng: 19.860382876000074
+    northEast:
+      lat: 52.55209503100008
+      lng: 20.14325668600003
+- slug: zaluski
+  name: Załuski
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.51796
+  lon: 20.53011
+  lands:
+    wysoczyzna_plonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.44421263800007
+      lng: 20.43377335300005
+    northEast:
+      lat: 52.58792372000005
+      lng: 20.607228794000036
+- slug: pruszkow
+  name: Pruszków
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.16891
+  lon: 20.80075
+  lands:
+    rownina_lowickoblonska: 72.6494
+    rownina_warszawska: 27.3506
+  boundary:
+    southWest:
+      lat: 52.148070741000026
+      lng: 20.76292063300008
+    northEast:
+      lat: 52.19595450400004
+      lng: 20.844283388000065
+- slug: borkowice
+  name: Borkowice
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.30271
+  lon: 20.69328
+  lands:
+    garb_gielniowski: 54.5429
+    przedgorze_ilzeckie: 33.7961
+    rownina_radomska: 11.6609
+  boundary:
+    southWest:
+      lat: 51.251542389000065
+      lng: 20.606945495000048
+    northEast:
+      lat: 51.351535141000056
+      lng: 20.778971351000052
+- slug: klwow
+  name: Klwów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.51632
+  lon: 20.63686
+  lands:
+    rownina_radomska: 97.9858
+    dolina_bialobrzeska: 2.0142
+  boundary:
+    southWest:
+      lat: 51.45028964100004
+      lng: 20.57152022100007
+    northEast:
+      lat: 51.58366183700008
+      lng: 20.71011895500004
+- slug: rusinow
+  name: Rusinów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.44552
+  lon: 20.59565
+  lands:
+    rownina_radomska: 100.0
+  boundary:
+    southWest:
+      lat: 51.39584074600003
+      lng: 20.515733641000054
+    northEast:
+      lat: 51.49192363800006
+      lng: 20.675894906000053
+- slug: jastrzebia
+  name: Jastrzębia
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.50339
+  lon: 21.22944
+  lands:
+    rownina_kozienicka: 100.0
+  boundary:
+    southWest:
+      lat: 51.438916240000026
+      lng: 21.174637792000055
+    northEast:
+      lat: 51.57993066200004
+      lng: 21.329224160000024
+- slug: wolanow
+  name: Wolanów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.38149
+  lon: 20.95895
+  lands:
+    rownina_radomska: 100.0
+  boundary:
+    southWest:
+      lat: 51.33470867400007
+      lng: 20.838212534000036
+    northEast:
+      lat: 51.43379700300005
+      lng: 21.067054262000056
+- slug: mordy
+  name: Mordy
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.19412
+  lon: 22.5244
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.11888699700006
+      lng: 22.372823501000028
+    northEast:
+      lat: 52.27243455800004
+      lng: 22.64738608300007
+- slug: siedlce
+  name: Siedlce
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.17064
+  lon: 22.2871
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.109752909000065
+      lng: 22.147016957000062
+    northEast:
+      lat: 52.23420747100005
+      lng: 22.435964945000023
+- slug: zawidz
+  name: Zawidz
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.82158
+  lon: 19.8776
+  lands:
+    wysoczyzna_plonska: 79.1893
+    rownina_raciaska: 20.8107
+  boundary:
+    southWest:
+      lat: 52.73159540000006
+      lng: 19.757627154000033
+    northEast:
+      lat: 52.90568684100003
+      lng: 19.998604184000044
+- slug: sokolow_podlaski
+  name: Sokołów Podlaski
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.4065
+  lon: 22.2383
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.38819733400004
+      lng: 22.194826314000068
+    northEast:
+      lat: 52.428614965000065
+      lng: 22.27588793500007
+- slug: sterdyn
+  name: Sterdyń
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.5939
+  lon: 22.33373
+  lands:
+    wysoczyzna_siedlecka: 58.0935
+    podlaski_przelom_bugu: 41.9065
+  boundary:
+    southWest:
+      lat: 52.52390349800004
+      lng: 22.204199281000058
+    northEast:
+      lat: 52.65582066600007
+      lng: 22.44792011800007
+- slug: sochaczew
+  name: Sochaczew
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.2355
+  lon: 20.25598
+  lands:
+    rownina_lowickoblonska: 91.8434
+    kotlina_warszawska: 8.1566
+  boundary:
+    southWest:
+      lat: 52.19110560400003
+      lng: 20.18837423100007
+    northEast:
+      lat: 52.27648403400008
+      lng: 20.300683382000045
+- slug: ilow
+  name: Iłów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.34742
+  lon: 20.05484
+  lands:
+    kotlina_warszawska: 63.9721
+    rownina_kutnowska: 36.0279
+  boundary:
+    southWest:
+      lat: 52.261869114000035
+      lng: 19.936101096000073
+    northEast:
+      lat: 52.41909386800006
+      lng: 20.132316287000037
+- slug: sochaczew
+  name: Sochaczew
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.21851
+  lon: 20.3126
+  lands:
+    rownina_lowickoblonska: 99.4127
+    kotlina_warszawska: 0.5873
+  boundary:
+    southWest:
+      lat: 52.149434178000035
+      lng: 20.15646610600004
+    northEast:
+      lat: 52.280993608000074
+      lng: 20.373341266000068
+- slug: teresin
+  name: Teresin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.18647
+  lon: 20.35785
+  lands:
+    rownina_lowickoblonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.13135198800006
+      lng: 20.301039132000028
+    northEast:
+      lat: 52.24581427600003
+      lng: 20.490674330000047
+- slug: mrozy
+  name: Mrozy
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.11496
+  lon: 21.87037
+  lands:
+    obnizenie_wegrowskie: 59.9625
+    wysoczyzna_kaluszynska: 39.7132
+    wysoczyzna_zelechowska: 0.3243
+  boundary:
+    southWest:
+      lat: 52.037548591000075
+      lng: 21.762458684000023
+    northEast:
+      lat: 52.19639422300003
+      lng: 21.97991551900003
+- slug: sanniki
+  name: Sanniki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.3311
+  lon: 19.85429
+  lands:
+    rownina_kutnowska: 99.9772
+    kotlina_warszawska: 0.0228
+  boundary:
+    southWest:
+      lat: 52.27215012000005
+      lng: 19.747644060000027
+    northEast:
+      lat: 52.39158982200007
+      lng: 19.98276009400007
+- slug: jednorozec
+  name: Jednorożec
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.16256
+  lon: 21.06382
+  lands:
+    rownina_kurpiowska: 61.8883
+    wzniesienia_mlawskie: 32.7794
+    wysoczyzna_ciechanowska: 5.3323
+  boundary:
+    southWest:
+      lat: 53.05945390200003
+      lng: 20.912155306000045
+    northEast:
+      lat: 53.26114925500008
+      lng: 21.213807427000063
+- slug: opinogora_gorna
+  name: Opinogóra Górna
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.92219
+  lon: 20.73512
+  lands:
+    wysoczyzna_ciechanowska: 94.1929
+    wzniesienia_mlawskie: 5.8071
+  boundary:
+    southWest:
+      lat: 52.851401175000035
+      lng: 20.632609332000072
+    northEast:
+      lat: 52.993130145000066
+      lng: 20.851651506000053
+- slug: sonsk
+  name: Sońsk
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.76505
+  lon: 20.71889
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.69987189400007
+      lng: 20.599397685000042
+    northEast:
+      lat: 52.83345320800004
+      lng: 20.840241374000072
+- slug: pilawa
+  name: Pilawa
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.98121
+  lon: 21.54272
+  lands:
+    rownina_garwolinska: 100.0
+  boundary:
+    southWest:
+      lat: 51.92661967500004
+      lng: 21.46120084300003
+    northEast:
+      lat: 52.03502650900003
+      lng: 21.630397836000043
+- slug: sieciechow
+  name: Sieciechów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.53957
+  lon: 21.7395
+  lands:
+    dolina_srodkowej_wisly: 100.0
+  boundary:
+    southWest:
+      lat: 51.50545153200005
+      lng: 21.638623686000074
+    northEast:
+      lat: 51.56971226400003
+      lng: 21.833454565000068
+- slug: glowaczow
+  name: Głowaczów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.62288
+  lon: 21.30281
+  lands:
+    rownina_kozienicka: 97.1663
+    dolina_srodkowej_wisly: 2.8337
+  boundary:
+    southWest:
+      lat: 51.53605133900004
+      lng: 21.205486595000025
+    northEast:
+      lat: 51.701917672000036
+      lng: 21.43709593400007
+- slug: legionowo
+  name: Legionowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.40441
+  lon: 20.93339
+  lands:
+    kotlina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.38483426800008
+      lng: 20.898836924000022
+    northEast:
+      lat: 52.42496222400007
+      lng: 20.97144537400004
+- slug: sienno
+  name: Sienno
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.10156
+  lon: 21.51123
+  lands:
+    przedgorze_ilzeckie: 93.7731
+    rownina_radomska: 6.2269
+  boundary:
+    southWest:
+      lat: 51.013112301000035
+      lng: 21.38245795100005
+    northEast:
+      lat: 51.18815316300004
+      lng: 21.630164308000076
+- slug: olszewoborki
+  name: Olszewo-Borki
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.06538
+  lon: 21.42822
+  lands:
+    rownina_kurpiowska: 82.8718
+    dolina_dolnej_narwi: 17.1282
+  boundary:
+    southWest:
+      lat: 52.984657422000055
+      lng: 21.227537708000057
+    northEast:
+      lat: 53.14472628400006
+      lng: 21.556046267000056
+- slug: troszyn
+  name: Troszyn
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.04429
+  lon: 21.79662
+  lands:
+    miedzyrzecze_lomzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.97555071800008
+      lng: 21.626068023000073
+    northEast:
+      lat: 53.11475288100007
+      lng: 21.941112727000075
+- slug: ostrow_mazowiecka
+  name: Ostrów Mazowiecka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.80252
+  lon: 21.88164
+  lands:
+    miedzyrzecze_lomzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.778453418000026
+      lng: 21.845488318000037
+    northEast:
+      lat: 52.83364214200003
+      lng: 21.937430045000042
+- slug: lipsko
+  name: Lipsko
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.14944
+  lon: 21.60608
+  lands:
+    rownina_radomska: 61.8134
+    przedgorze_ilzeckie: 38.1866
+  boundary:
+    southWest:
+      lat: 51.06945107400003
+      lng: 21.50764846800007
+    northEast:
+      lat: 51.22774076400003
+      lng: 21.725951441000063
+- slug: jadow
+  name: Jadów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.48653
+  lon: 21.62851
+  lands:
+    rownina_wolominska: 98.2597
+    dolina_dolnego_bugu: 1.7403
+  boundary:
+    southWest:
+      lat: 52.42079436700004
+      lng: 21.507118571000035
+    northEast:
+      lat: 52.55342495000008
+      lng: 21.737889422000023
+- slug: malkinia_gorna
+  name: Małkinia Górna
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.69958
+  lon: 22.0405
+  lands:
+    wysoczyzna_wysokomazowiecka: 49.4955
+    dolina_dolnego_bugu: 31.5606
+    miedzyrzecze_lomzynskie: 13.5986
+  boundary:
+    southWest:
+      lat: 52.62157524000003
+      lng: 21.919457047000037
+    northEast:
+      lat: 52.77886571500005
+      lng: 22.134927744000038
+- slug: osieck
+  name: Osieck
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.95652
+  lon: 21.41405
+  lands:
+    rownina_garwolinska: 68.1162
+    dolina_srodkowej_wisly: 31.8838
+  boundary:
+    southWest:
+      lat: 51.90494659800004
+      lng: 21.34136463300007
+    northEast:
+      lat: 52.007036465000056
+      lng: 21.513625982000065
+- slug: otwock
+  name: Otwock
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.11743
+  lon: 21.2959
+  lands:
+    dolina_srodkowej_wisly: 50.2436
+    rownina_garwolinska: 49.7564
+  boundary:
+    southWest:
+      lat: 52.08340629200006
+      lng: 21.21034693300004
+    northEast:
+      lat: 52.148731403000056
+      lng: 21.368349960000046
+- slug: somianka
+  name: Somianka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.57168
+  lon: 21.30816
+  lands:
+    miedzyrzecze_lomzynskie: 67.2841
+    dolina_dolnego_bugu: 21.5918
+    dolina_dolnej_narwi: 7.8824
+  boundary:
+    southWest:
+      lat: 52.50936969600008
+      lng: 21.119559371000037
+    northEast:
+      lat: 52.63829642200005
+      lng: 21.388355622000063
+- slug: siemiatkowo
+  name: Siemiątkowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.88757
+  lon: 20.02752
+  lands:
+    rownina_raciaska: 100.0
+  boundary:
+    southWest:
+      lat: 52.82594172700004
+      lng: 19.92740430200007
+    northEast:
+      lat: 52.94918190800007
+      lng: 20.147795001000077
+- slug: radzanowo
+  name: Radzanowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.58386
+  lon: 19.85291
+  lands:
+    wysoczyzna_plonska: 92.3012
+    rownina_urszulewska: 7.6988
+  boundary:
+    southWest:
+      lat: 52.539945189000036
+      lng: 19.73168438700003
+    northEast:
+      lat: 52.631592355000066
+      lng: 19.973421345000077
+- slug: plock
+  name: Płock
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.53762
+  lon: 19.71386
+  lands:
+    rownina_urszulewska: 48.0164
+    kotlina_plocka: 43.4483
+    kotlina_warszawska: 5.3789
+  boundary:
+    southWest:
+      lat: 52.473744371000066
+      lng: 19.631295549000072
+    northEast:
+      lat: 52.59708727600008
+      lng: 19.80585694800004
+- slug: mala_wies
+  name: Mała Wieś
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.44549
+  lon: 20.09144
+  lands:
+    wysoczyzna_plonska: 85.4152
+    kotlina_warszawska: 14.5848
+  boundary:
+    southWest:
+      lat: 52.38315419700007
+      lng: 19.969746318000034
+    northEast:
+      lat: 52.51699174500004
+      lng: 20.203782561000025
+- slug: lack
+  name: Łąck
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.45878
+  lon: 19.62078
+  lands:
+    kotlina_plocka: 60.0601
+    rownina_kutnowska: 38.6125
+    kotlina_warszawska: 1.3273
+  boundary:
+    southWest:
+      lat: 52.40153321500003
+      lng: 19.533165436000047
+    northEast:
+      lat: 52.50629817500004
+      lng: 19.71494271100005
+- slug: wyszogrod
+  name: Wyszogród
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.45044
+  lon: 20.20668
+  lands:
+    wysoczyzna_plonska: 78.6199
+    kotlina_warszawska: 21.3801
+  boundary:
+    southWest:
+      lat: 52.379257135000046
+      lng: 20.019758245000048
+    northEast:
+      lat: 52.51503161200003
+      lng: 20.251257688000067
+- slug: brwinow
+  name: Brwinów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.15562
+  lon: 20.72325
+  lands:
+    rownina_lowickoblonska: 99.8769
+    rownina_warszawska: 0.1231
+  boundary:
+    southWest:
+      lat: 52.08373076700008
+      lng: 20.630897146000052
+    northEast:
+      lat: 52.199520128000074
+      lng: 20.822648823000065
+- slug: potworow
+  name: Potworów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.48569
+  lon: 20.73989
+  lands:
+    rownina_radomska: 100.0
+  boundary:
+    southWest:
+      lat: 51.42730382600007
+      lng: 20.66873263900004
+    northEast:
+      lat: 51.55196939100006
+      lng: 20.798735778000037
+- slug: obryte
+  name: Obryte
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.72976
+  lon: 21.23715
+  lands:
+    miedzyrzecze_lomzynskie: 58.4086
+    dolina_dolnej_narwi: 41.5914
+  boundary:
+    southWest:
+      lat: 52.666831365000064
+      lng: 21.109811007000076
+    northEast:
+      lat: 52.77887396800003
+      lng: 21.349689046000037
+- slug: swiercze
+  name: Świercze
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.66974
+  lon: 20.78141
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.61728623700003
+      lng: 20.696011586000054
+    northEast:
+      lat: 52.72167264900003
+      lng: 20.908792365000068
+- slug: winnica
+  name: Winnica
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.62895
+  lon: 20.92367
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.557458713000074
+      lng: 20.84628279800006
+    northEast:
+      lat: 52.704595839000035
+      lng: 21.003618034000056
+- slug: przytyk
+  name: Przytyk
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.4632
+  lon: 20.87303
+  lands:
+    rownina_radomska: 99.2932
+    rownina_kozienicka: 0.7068
+  boundary:
+    southWest:
+      lat: 51.40129094100007
+      lng: 20.76452111900005
+    northEast:
+      lat: 51.52497001100005
+      lng: 20.98914935600004
+- slug: jedlnialetnisko
+  name: Jedlnia-Letnisko
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.42027
+  lon: 21.28707
+  lands:
+    rownina_kozienicka: 62.5378
+    rownina_radomska: 37.4622
+  boundary:
+    southWest:
+      lat: 51.389594017000036
+      lng: 21.201720175000048
+    northEast:
+      lat: 51.44803951800003
+      lng: 21.43183399700007
+- slug: skaryszew
+  name: Skaryszew
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.30877
+  lon: 21.26261
+  lands:
+    rownina_radomska: 100.0
+  boundary:
+    southWest:
+      lat: 51.229239034000045
+      lng: 21.124826117000055
+    northEast:
+      lat: 51.38632927000003
+      lng: 21.367095419000066
+- slug: korczew
+  name: Korczew
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.35914
+  lon: 22.63771
+  lands:
+    wysoczyzna_siedlecka: 55.8222
+    podlaski_przelom_bugu: 44.1778
+  boundary:
+    southWest:
+      lat: 52.30793039300005
+      lng: 22.509759700000075
+    northEast:
+      lat: 52.41053434000003
+      lng: 22.740658389000032
+- slug: sabnie
+  name: Sabnie
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.48585
+  lon: 22.30606
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.43230870600007
+      lng: 22.18557809300006
+    northEast:
+      lat: 52.54769212700006
+      lng: 22.405216637000024
+- slug: mirow
+  name: Mirów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.19262
+  lon: 21.01034
+  lands:
+    przedgorze_ilzeckie: 100.0
+  boundary:
+    southWest:
+      lat: 51.14445172000006
+      lng: 20.94132053800007
+    northEast:
+      lat: 51.230741358000046
+      lng: 21.075083181000025
+- slug: blonie
+  name: Błonie
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.19562
+  lon: 20.5958
+  lands:
+    rownina_lowickoblonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.15753925400003
+      lng: 20.47621048900004
+    northEast:
+      lat: 52.23528286800007
+      lng: 20.67866309900006
+- slug: myszyniec
+  name: Myszyniec
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.35628
+  lon: 21.36356
+  lands:
+    rownina_kurpiowska: 89.9809
+    rownina_mazurska: 10.0191
+  boundary:
+    southWest:
+      lat: 53.27222685400005
+      lng: 21.200107820000028
+    northEast:
+      lat: 53.447525119000034
+      lng: 21.501202385000056
+- slug: lubowidz
+  name: Lubowidz
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.12799
+  lon: 19.83919
+  lands:
+    rownina_urszulewska: 50.995
+    wzniesienia_mlawskie: 48.2987
+    rownina_raciaska: 0.7063
+  boundary:
+    southWest:
+      lat: 53.03673377500007
+      lng: 19.638485177000064
+    northEast:
+      lat: 53.211462090000055
+      lng: 19.97418861600005
+- slug: andrzejewo
+  name: Andrzejewo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.83314
+  lon: 22.14685
+  lands:
+    wysoczyzna_wysokomazowiecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.78178652500003
+      lng: 22.038939029000062
+    northEast:
+      lat: 52.88612997900003
+      lng: 22.307409895000035
+- slug: kampinos
+  name: Kampinos
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.27642
+  lon: 20.42398
+  lands:
+    rownina_lowickoblonska: 52.6425
+    kotlina_warszawska: 47.3575
+  boundary:
+    southWest:
+      lat: 52.218711134000046
+      lng: 20.31248036900007
+    northEast:
+      lat: 52.331085650000034
+      lng: 20.523355851000076
+- slug: sadowne
+  name: Sadowne
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.63806
+  lon: 21.86044
+  lands:
+    dolina_dolnego_bugu: 61.6264
+    rownina_wolominska: 38.3736
+  boundary:
+    southWest:
+      lat: 52.58310735100008
+      lng: 21.71293380800006
+    northEast:
+      lat: 52.70297110000007
+      lng: 21.99975990200005
+- slug: platerow
+  name: Platerów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.29145
+  lon: 22.79494
+  lands:
+    wysoczyzna_siedlecka: 91.5823
+    podlaski_przelom_bugu: 8.4177
+  boundary:
+    southWest:
+      lat: 52.20009963500007
+      lng: 22.673732381000036
+    northEast:
+      lat: 52.38373650900007
+      lng: 22.90106597700003
+- slug: mlynarze
+  name: Młynarze
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.96983
+  lon: 21.40853
+  lands:
+    wysoczyzna_ciechanowska: 40.6884
+    rownina_kurpiowska: 36.6755
+    dolina_dolnej_narwi: 22.6361
+  boundary:
+    southWest:
+      lat: 52.91841037100005
+      lng: 21.287547327000027
+    northEast:
+      lat: 53.025926438000056
+      lng: 21.497275279000064
+- slug: sypniewo
+  name: Sypniewo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.99853
+  lon: 21.29419
+  lands:
+    wysoczyzna_ciechanowska: 82.7368
+    rownina_kurpiowska: 17.2632
+  boundary:
+    southWest:
+      lat: 52.925944722000054
+      lng: 21.168131807000066
+    northEast:
+      lat: 53.06684995000006
+      lng: 21.392770693000045
+- slug: gostynin
+  name: Gostynin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.42835
+  lon: 19.42707
+  lands:
+    kotlina_plocka: 40.2422
+    pojezierze_kujawskie: 35.5798
+    rownina_kutnowska: 23.4891
+  boundary:
+    southWest:
+      lat: 52.33325851400008
+      lng: 19.259214418000056
+    northEast:
+      lat: 52.52596069400005
+      lng: 19.569258754000032
+- slug: milanowek
+  name: Milanówek
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.11429
+  lon: 20.68013
+  lands:
+    rownina_lowickoblonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.09938648100007
+      lng: 20.643559933000063
+    northEast:
+      lat: 52.150320313000066
+      lng: 20.70416261500003
+- slug: podkowa_lesna
+  name: Podkowa Leśna
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.11214
+  lon: 20.75391
+  lands:
+    rownina_lowickoblonska: 99.55
+  boundary:
+    southWest:
+      lat: 52.094296618000044
+      lng: 20.701732621000076
+    northEast:
+      lat: 52.13281420900006
+      lng: 20.780318562000048
+- slug: latowicz
+  name: Latowicz
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.03296
+  lon: 21.76489
+  lands:
+    wysoczyzna_kaluszynska: 48.3267
+    rownina_garwolinska: 29.8254
+    obnizenie_wegrowskie: 19.5696
+  boundary:
+    southWest:
+      lat: 51.973572997000076
+      lng: 21.656379783000034
+    northEast:
+      lat: 52.08345496900006
+      lng: 21.887857130000043
+- slug: grojec
+  name: Grójec
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.88077
+  lon: 20.87187
+  lands:
+    wysoczyzna_rawska: 66.5231
+    rownina_warszawska: 33.4769
+  boundary:
+    southWest:
+      lat: 51.81972884100003
+      lng: 20.76768721800005
+    northEast:
+      lat: 51.936725498000044
+      lng: 21.013348995000058
+- slug: wisniewo
+  name: Wiśniewo
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.0465
+  lon: 20.28861
+  lands:
+    rownina_raciaska: 73.1953
+    wzniesienia_mlawskie: 26.8047
+  boundary:
+    southWest:
+      lat: 52.98421960600007
+      lng: 20.207678033000036
+    northEast:
+      lat: 53.11094440200003
+      lng: 20.413307002000067
+- slug: stupsk
+  name: Stupsk
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.00663
+  lon: 20.4426
+  lands:
+    wzniesienia_mlawskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.95459193100004
+      lng: 20.334748670000067
+    northEast:
+      lat: 53.06989914800005
+      lng: 20.553595563000044
+- slug: nasielsk
+  name: Nasielsk
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.57548
+  lon: 20.76502
+  lands:
+    wysoczyzna_ciechanowska: 94.1943
+    wysoczyzna_plonska: 5.8057
+  boundary:
+    southWest:
+      lat: 52.49945495400004
+      lng: 20.604308778000075
+    northEast:
+      lat: 52.64661017900005
+      lng: 20.930469532000075
+- slug: serock
+  name: Serock
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.51335
+  lon: 21.00493
+  lands:
+    wysoczyzna_ciechanowska: 79.0269
+    kotlina_warszawska: 12.8943
+    dolina_dolnej_narwi: 8.0788
+  boundary:
+    southWest:
+      lat: 52.45805718100007
+      lng: 20.891891633000057
+    northEast:
+      lat: 52.56129428600008
+      lng: 21.14276889100006
+- slug: solec_nad_wisla
+  name: Solec nad Wisłą
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.10644
+  lon: 21.72333
+  lands:
+    przedgorze_ilzeckie: 38.1886
+    rownina_radomska: 32.9475
+    malopolski_przelom_wisly: 28.8639
+  boundary:
+    southWest:
+      lat: 51.03739154500005
+      lng: 21.646065880000037
+    northEast:
+      lat: 51.19362551300003
+      lng: 21.802998095000078
+- slug: lelis
+  name: Lelis
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.17615
+  lon: 21.58707
+  lands:
+    rownina_kurpiowska: 83.7955
+    dolina_dolnej_narwi: 16.2045
+  boundary:
+    southWest:
+      lat: 53.09939773200006
+      lng: 21.379245756000046
+    northEast:
+      lat: 53.24842003500004
+      lng: 21.70335563900005
+- slug: bogutypianki
+  name: Boguty-Pianki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.73386
+  lon: 22.38994
+  lands:
+    wysoczyzna_wysokomazowiecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.66217441900005
+      lng: 22.329048338000064
+    northEast:
+      lat: 52.79545779400007
+      lng: 22.46004758600003
+- slug: wiazowna
+  name: Wiązowna
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.16497
+  lon: 21.32114
+  lands:
+    rownina_garwolinska: 82.6983
+    rownina_wolominska: 17.3017
+  boundary:
+    southWest:
+      lat: 52.10272977600005
+      lng: 21.24022889500003
+    northEast:
+      lat: 52.22641058800008
+      lng: 21.48256683900007
+- slug: biezun
+  name: Bieżuń
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.95847
+  lon: 19.94394
+  lands:
+    rownina_raciaska: 99.6755
+    wysoczyzna_plonska: 0.3245
+  boundary:
+    southWest:
+      lat: 52.90203331200007
+      lng: 19.81700879500005
+    northEast:
+      lat: 53.01494653300006
+      lng: 20.05840444300003
+- slug: prazmow
+  name: Prażmów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.95729
+  lon: 21.01002
+  lands:
+    rownina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.908427293000045
+      lng: 20.92576316900005
+    northEast:
+      lat: 52.013322541000036
+      lng: 21.092619512000056
+- slug: brudzen_duzy
+  name: Brudzeń Duży
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.65418
+  lon: 19.51133
+  lands:
+    rownina_urszulewska: 69.5809
+    pojezierze_dobrzynskie: 22.5363
+    kotlina_plocka: 7.8829
+  boundary:
+    southWest:
+      lat: 52.57010667800006
+      lng: 19.367898423000042
+    northEast:
+      lat: 52.722975904000066
+      lng: 19.646023435000075
+- slug: mszczonow
+  name: Mszczonów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.93709
+  lon: 20.54517
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.844278057000054
+      lng: 20.42298562600007
+    northEast:
+      lat: 52.02206159200006
+      lng: 20.66709501100007
+- slug: slupno
+  name: Słupno
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.50875
+  lon: 19.82046
+  lands:
+    wysoczyzna_plonska: 54.7603
+    kotlina_warszawska: 44.0155
+    kotlina_plocka: 1.1173
+  boundary:
+    southWest:
+      lat: 52.46128693500003
+      lng: 19.733751600000062
+    northEast:
+      lat: 52.55621777600004
+      lng: 19.923787446000063
+- slug: joniec
+  name: Joniec
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.58851
+  lon: 20.57385
+  lands:
+    wysoczyzna_plonska: 65.7208
+    wysoczyzna_ciechanowska: 34.2792
+  boundary:
+    southWest:
+      lat: 52.520086021000054
+      lng: 20.495299814000077
+    northEast:
+      lat: 52.64764943700004
+      lng: 20.629311494000035
+- slug: plonsk
+  name: Płońsk
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.63132
+  lon: 20.37508
+  lands:
+    wysoczyzna_plonska: 99.9342
+    rownina_raciaska: 0.0658
+  boundary:
+    southWest:
+      lat: 52.55691481400004
+      lng: 20.287009944000033
+    northEast:
+      lat: 52.698783942000034
+      lng: 20.523003430000074
+- slug: raszyn
+  name: Raszyn
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.13358
+  lon: 20.92941
+  lands:
+    rownina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.08763798600006
+      lng: 20.837875371000052
+    northEast:
+      lat: 52.17108292200004
+      lng: 20.98638027900006
+- slug: chorzele
+  name: Chorzele
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.27437
+  lon: 20.93548
+  lands:
+    rownina_kurpiowska: 68.8267
+    wzniesienia_mlawskie: 31.1733
+  boundary:
+    southWest:
+      lat: 53.18218431400004
+      lng: 20.675953969000034
+    northEast:
+      lat: 53.36135775900004
+      lng: 21.193068679000078
+- slug: przysucha
+  name: Przysucha
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.33757
+  lon: 20.57432
+  lands:
+    garb_gielniowski: 64.2801
+    rownina_radomska: 35.7199
+  boundary:
+    southWest:
+      lat: 51.230395979000036
+      lng: 20.492627439000046
+    northEast:
+      lat: 51.439406707000046
+      lng: 20.770376787000032
+- slug: gielniow
+  name: Gielniów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.40285
+  lon: 20.51093
+  lands:
+    garb_gielniowski: 71.8917
+    rownina_radomska: 28.1083
+  boundary:
+    southWest:
+      lat: 51.33134227800008
+      lng: 20.42202674200007
+    northEast:
+      lat: 51.46204641800006
+      lng: 20.589059447000068
+- slug: gzy
+  name: Gzy
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.74429
+  lon: 20.89334
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.68808736900007
+      lng: 20.777360018000024
+    northEast:
+      lat: 52.80990629100006
+      lng: 21.010604638000075
+- slug: kowala
+  name: Kowala
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.32699
+  lon: 21.09665
+  lands:
+    rownina_radomska: 91.3568
+    przedgorze_ilzeckie: 8.6432
+  boundary:
+    southWest:
+      lat: 51.27593505600004
+      lng: 20.998998517000075
+    northEast:
+      lat: 51.374915944000065
+      lng: 21.178894650000075
+- slug: zakrzew
+  name: Zakrzew
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.45075
+  lon: 21.02399
+  lands:
+    rownina_radomska: 91.2767
+    rownina_kozienicka: 8.7233
+  boundary:
+    southWest:
+      lat: 51.39870417000003
+      lng: 20.916279716000076
+    northEast:
+      lat: 51.49761690100007
+      lng: 21.11790393900003
+- slug: gozdowo
+  name: Gozdowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.74172
+  lon: 19.71165
+  lands:
+    wysoczyzna_plonska: 70.7894
+    rownina_urszulewska: 29.2106
+  boundary:
+    southWest:
+      lat: 52.67753070300006
+      lng: 19.58768195500005
+    northEast:
+      lat: 52.798872137000046
+      lng: 19.828597466000076
+- slug: bielany
+  name: Bielany
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.32827
+  lon: 22.22727
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.288217116000055
+      lng: 22.07602539900006
+    northEast:
+      lat: 52.38055401300005
+      lng: 22.36763585700004
+- slug: sokolow_podlaski
+  name: Sokołów Podlaski
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.41997
+  lon: 22.21394
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.34248740500004
+      lng: 22.081655476000037
+    northEast:
+      lat: 52.50767596900005
+      lng: 22.341241293000053
+- slug: oronsko
+  name: Orońsko
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.32472
+  lon: 20.94743
+  lands:
+    przedgorze_ilzeckie: 63.3409
+    rownina_radomska: 36.6591
+  boundary:
+    southWest:
+      lat: 51.275869459000035
+      lng: 20.860198824000065
+    northEast:
+      lat: 51.36754887500007
+      lng: 21.037388433000046
+- slug: chlewiska
+  name: Chlewiska
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.23326
+  lon: 20.71692
+  lands:
+    przedgorze_ilzeckie: 54.9864
+    garb_gielniowski: 45.0136
+  boundary:
+    southWest:
+      lat: 51.15123719300004
+      lng: 20.610565570000063
+    northEast:
+      lat: 51.316639758000065
+      lng: 20.848858732000053
+- slug: lochow
+  name: Łochów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.55002
+  lon: 21.69711
+  lands:
+    rownina_wolominska: 68.9316
+    dolina_dolnego_bugu: 30.7798
+    obnizenie_wegrowskie: 0.2096
+  boundary:
+    southWest:
+      lat: 52.46825799900006
+      lng: 21.577527468000028
+    northEast:
+      lat: 52.63580490900006
+      lng: 21.855120856000042
+- slug: stoczek
+  name: Stoczek
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.54652
+  lon: 21.89384
+  lands:
+    rownina_wolominska: 86.0905
+    wysoczyzna_siedlecka: 13.9095
+  boundary:
+    southWest:
+      lat: 52.47593303300005
+      lng: 21.793872746000034
+    northEast:
+      lat: 52.60980838200004
+      lng: 22.006582125000023
+- slug: ciechanow
+  name: Ciechanów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.87341
+  lon: 20.48675
+  lands:
+    wzniesienia_mlawskie: 41.697
+    wysoczyzna_ciechanowska: 40.4788
+    rownina_raciaska: 17.8242
+  boundary:
+    southWest:
+      lat: 52.80667932600005
+      lng: 20.390140233000068
+    northEast:
+      lat: 52.92930827600003
+      lng: 20.703620795000063
+- slug: ciechanow
+  name: Ciechanów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.87195
+  lon: 20.60623
+  lands:
+    wysoczyzna_ciechanowska: 91.3587
+    wzniesienia_mlawskie: 8.6413
+  boundary:
+    southWest:
+      lat: 52.83866010000003
+      lng: 20.560608659000025
+    northEast:
+      lat: 52.90586181800006
+      lng: 20.66914130600003
+- slug: maciejowice
+  name: Maciejowice
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.70229
+  lon: 21.53748
+  lands:
+    dolina_srodkowej_wisly: 84.557
+    wysoczyzna_zelechowska: 10.4128
+    rownina_garwolinska: 5.0302
+  boundary:
+    southWest:
+      lat: 51.61756198000006
+      lng: 21.412584072000072
+    northEast:
+      lat: 51.78379188300005
+      lng: 21.67366319200005
+- slug: sobolew
+  name: Sobolew
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.74894
+  lon: 21.68557
+  lands:
+    wysoczyzna_zelechowska: 99.4618
+    dolina_srodkowej_wisly: 0.5382
+  boundary:
+    southWest:
+      lat: 51.690616884000065
+      lng: 21.594849905000046
+    northEast:
+      lat: 51.80676988400006
+      lng: 21.785034471000074
+- slug: sarnaki
+  name: Sarnaki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.29217
+  lon: 22.95578
+  lands:
+    wysoczyzna_siedlecka: 76.2196
+    podlaski_przelom_bugu: 23.7804
+  boundary:
+    southWest:
+      lat: 52.21431845800004
+      lng: 22.806956239000044
+    northEast:
+      lat: 52.37359355900003
+      lng: 23.12840894200008
+- slug: halinow
+  name: Halinów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.21956
+  lon: 21.35215
+  lands:
+    rownina_wolominska: 92.7388
+    rownina_garwolinska: 7.2612
+  boundary:
+    southWest:
+      lat: 52.16354158900003
+      lng: 21.29221392100004
+    northEast:
+      lat: 52.27891889500006
+      lng: 21.438728508000054
+- slug: kaluszyn
+  name: Kałuszyn
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.22962
+  lon: 21.80824
+  lands:
+    wysoczyzna_kaluszynska: 98.5007
+    obnizenie_wegrowskie: 1.4993
+  boundary:
+    southWest:
+      lat: 52.16917625000008
+      lng: 21.74645588900006
+    northEast:
+      lat: 52.29129829400006
+      lng: 21.94179451900004
+- slug: garbatkaletnisko
+  name: Garbatka-Letnisko
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.48349
+  lon: 21.62225
+  lands:
+    rownina_kozienicka: 53.7592
+    rownina_radomska: 24.4396
+    dolina_srodkowej_wisly: 21.8012
+  boundary:
+    southWest:
+      lat: 51.44464319300005
+      lng: 21.537014654000075
+    northEast:
+      lat: 51.52624635500007
+      lng: 21.762433222000027
+- slug: szrensk
+  name: Szreńsk
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.02807
+  lon: 20.1428
+  lands:
+    rownina_raciaska: 99.6586
+    wzniesienia_mlawskie: 0.3414
+  boundary:
+    southWest:
+      lat: 52.97033127100008
+      lng: 20.037154155000053
+    northEast:
+      lat: 53.08846944000004
+      lng: 20.263916547000065
+- slug: przylek
+  name: Przyłęk
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.33437
+  lon: 21.74676
+  lands:
+    rownina_radomska: 95.1055
+    malopolski_przelom_wisly: 4.8945
+  boundary:
+    southWest:
+      lat: 51.26217232000005
+      lng: 21.648327280000046
+    northEast:
+      lat: 51.401253514000075
+      lng: 21.860110705000068
+- slug: wieliszew
+  name: Wieliszew
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.45681
+  lon: 20.88255
+  lands:
+    kotlina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.410218566000026
+      lng: 20.75892506400004
+    northEast:
+      lat: 52.490223523000054
+      lng: 21.004705971000078
+- slug: chotcza
+  name: Chotcza
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.24645
+  lon: 21.73676
+  lands:
+    rownina_radomska: 76.3273
+    malopolski_przelom_wisly: 23.6727
+  boundary:
+    southWest:
+      lat: 51.180152820000046
+      lng: 21.648519647000057
+    northEast:
+      lat: 51.30217207600003
+      lng: 21.821717944000056
+- slug: kadzidlo
+  name: Kadzidło
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.25071
+  lon: 21.46543
+  lands:
+    rownina_kurpiowska: 100.0
+  boundary:
+    southWest:
+      lat: 53.159053836000055
+      lng: 21.272613499000045
+    northEast:
+      lat: 53.34092812400007
+      lng: 21.659754517000067
+- slug: zielonka
+  name: Zielonka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.29046
+  lon: 21.27442
+  lands:
+    rownina_wolominska: 100.0
+  boundary:
+    southWest:
+      lat: 52.25617615800007
+      lng: 21.12497462600004
+    northEast:
+      lat: 52.32562961500008
+      lng: 21.457268888000044
+- slug: kolbiel
+  name: Kołbiel
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.06252
+  lon: 21.49683
+  lands:
+    rownina_garwolinska: 100.0
+  boundary:
+    southWest:
+      lat: 51.995692914000074
+      lng: 21.402427681000063
+    northEast:
+      lat: 52.12267799400007
+      lng: 21.577741969000044
+- slug: sobieniejeziory
+  name: Sobienie-Jeziory
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.9362
+  lon: 21.33639
+  lands:
+    dolina_srodkowej_wisly: 99.161
+    rownina_garwolinska: 0.839
+  boundary:
+    southWest:
+      lat: 51.86973557600004
+      lng: 21.239109686000063
+    northEast:
+      lat: 52.00152855300007
+      lng: 21.423430419000056
+- slug: wiskitki
+  name: Wiskitki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.06979
+  lon: 20.33624
+  lands:
+    rownina_lowickoblonska: 98.7869
+    wysoczyzna_rawska: 1.2131
+  boundary:
+    southWest:
+      lat: 51.99942906900003
+      lng: 20.245955081000034
+    northEast:
+      lat: 52.15121298000008
+      lng: 20.45327227100006
+- slug: radziejowice
+  name: Radziejowice
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.01539
+  lon: 20.52965
+  lands:
+    wysoczyzna_rawska: 99.8544
+    rownina_lowickoblonska: 0.1456
+  boundary:
+    southWest:
+      lat: 51.97680459500003
+      lng: 20.408333463000076
+    northEast:
+      lat: 52.05385562400005
+      lng: 20.621719206000023
+- slug: nowy_duninow
+  name: Nowy Duninów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.54793
+  lon: 19.49831
+  lands:
+    kotlina_plocka: 100.0
+  boundary:
+    southWest:
+      lat: 52.49038419400006
+      lng: 19.32167321700007
+    northEast:
+      lat: 52.611446484000055
+      lng: 19.66739926500003
+- slug: raciaz
+  name: Raciąż
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.78673
+  lon: 20.09937
+  lands:
+    rownina_raciaska: 57.6487
+    wysoczyzna_plonska: 42.3513
+  boundary:
+    southWest:
+      lat: 52.668145468000034
+      lng: 19.96274521500004
+    northEast:
+      lat: 52.89648181800004
+      lng: 20.26433483900007
+- slug: odrzywol
+  name: Odrzywół
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.54435
+  lon: 20.52301
+  lands:
+    rownina_radomska: 70.1677
+    dolina_bialobrzeska: 29.8323
+  boundary:
+    southWest:
+      lat: 51.48205535100004
+      lng: 20.420275581000055
+    northEast:
+      lat: 51.616196047000074
+      lng: 20.593821982000065
+- slug: wieniawa
+  name: Wieniawa
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.37025
+  lon: 20.7753
+  lands:
+    rownina_radomska: 90.6113
+    przedgorze_ilzeckie: 9.3887
+  boundary:
+    southWest:
+      lat: 51.31373953500008
+      lng: 20.68051654100003
+    northEast:
+      lat: 51.421888366000076
+      lng: 20.885425246000068
+- slug: zatory
+  name: Zatory
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.61844
+  lon: 21.18608
+  lands:
+    miedzyrzecze_lomzynskie: 59.6976
+    dolina_dolnej_narwi: 40.3024
+  boundary:
+    southWest:
+      lat: 52.55358792800007
+      lng: 21.102679644000034
+    northEast:
+      lat: 52.68075986300005
+      lng: 21.298931371000037
+- slug: jedlinsk
+  name: Jedlińsk
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.51111
+  lon: 21.09261
+  lands:
+    rownina_kozienicka: 92.4583
+    rownina_radomska: 7.5417
+  boundary:
+    southWest:
+      lat: 51.434826325000074
+      lng: 20.996690701000034
+    northEast:
+      lat: 51.58910235800005
+      lng: 21.23590768100007
+- slug: paprotnia
+  name: Paprotnia
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.29515
+  lon: 22.43835
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.24063974000006
+      lng: 22.350254266000036
+    northEast:
+      lat: 52.33521274600008
+      lng: 22.544565335000073
+- slug: wisniew
+  name: Wiśniew
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.06345
+  lon: 22.29382
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 51.996798625000054
+      lng: 22.199307689000022
+    northEast:
+      lat: 52.12613630900006
+      lng: 22.381549261000032
+- slug: skorzec
+  name: Skórzec
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.09736
+  lon: 22.09559
+  lands:
+    wysoczyzna_siedlecka: 59.3765
+    obnizenie_wegrowskie: 35.7742
+    wysoczyzna_zelechowska: 4.8493
+  boundary:
+    southWest:
+      lat: 52.03592907400008
+      lng: 21.97810464400004
+    northEast:
+      lat: 52.16457208800006
+      lng: 22.210887461000027
+- slug: suchozebry
+  name: Suchożebry
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.27285
+  lon: 22.28111
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.21573101800004
+      lng: 22.19870607400003
+    northEast:
+      lat: 52.31732521500004
+      lng: 22.380403641000044
+- slug: zbuczyn
+  name: Zbuczyn
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.09732
+  lon: 22.50194
+  lands:
+    wysoczyzna_siedlecka: 98.6643
+    rownina_lukowska: 1.3357
+  boundary:
+    southWest:
+      lat: 52.01415432400006
+      lng: 22.339587777000077
+    northEast:
+      lat: 52.17426465400007
+      lng: 22.669140842000047
+- slug: sierpc
+  name: Sierpc
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.8476
+  lon: 19.66343
+  lands:
+    rownina_urszulewska: 94.293
+    wysoczyzna_plonska: 5.707
+  boundary:
+    southWest:
+      lat: 52.83043340100005
+      lng: 19.622137010000074
+    northEast:
+      lat: 52.876144554000064
+      lng: 19.70796900000005
+- slug: szczutowo
+  name: Szczutowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.93093
+  lon: 19.5632
+  lands:
+    rownina_urszulewska: 100.0
+  boundary:
+    southWest:
+      lat: 52.86784480400007
+      lng: 19.44466406500004
+    northEast:
+      lat: 52.98568973300007
+      lng: 19.681072004000043
+- slug: ceranow
+  name: Ceranów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.6426
+  lon: 22.23617
+  lands:
+    podlaski_przelom_bugu: 74.1856
+    wysoczyzna_siedlecka: 25.1798
+    dolina_dolnego_bugu: 0.6346
+  boundary:
+    southWest:
+      lat: 52.588356918000045
+      lng: 22.110229342000025
+    northEast:
+      lat: 52.70220825300004
+      lng: 22.349895039000046
+- slug: kosow_lacki
+  name: Kosów Lacki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.59754
+  lon: 22.09143
+  lands:
+    wysoczyzna_siedlecka: 72.9803
+    dolina_dolnego_bugu: 14.6912
+    rownina_wolominska: 10.0018
+  boundary:
+    southWest:
+      lat: 52.50021821400003
+      lng: 21.974069474000032
+    northEast:
+      lat: 52.693035860000066
+      lng: 22.241999032000024
+- slug: mlodzieszyn
+  name: Młodzieszyn
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.31907
+  lon: 20.18496
+  lands:
+    kotlina_warszawska: 96.4154
+    rownina_lowickoblonska: 1.796
+    rownina_kutnowska: 1.7886
+  boundary:
+    southWest:
+      lat: 52.25338740500007
+      lng: 20.09439100900005
+    northEast:
+      lat: 52.38663942800008
+      lng: 20.277430861000028
+- slug: rybno
+  name: Rybno
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.22371
+  lon: 20.11715
+  lands:
+    rownina_kutnowska: 94.1241
+    rownina_lowickoblonska: 4.5062
+    kotlina_warszawska: 1.3697
+  boundary:
+    southWest:
+      lat: 52.17637275200008
+      lng: 20.017341182000052
+    northEast:
+      lat: 52.28769336600004
+      lng: 20.176701828000034
+- slug: lomianki
+  name: Łomianki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.35007
+  lon: 20.87011
+  lands:
+    kotlina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.31330197200003
+      lng: 20.801813405000075
+    northEast:
+      lat: 52.37932273800004
+      lng: 20.925780317000033
+- slug: radzanow
+  name: Radzanów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.56168
+  lon: 20.83735
+  lands:
+    rownina_radomska: 99.9454
+    rownina_kozienicka: 0.0546
+  boundary:
+    southWest:
+      lat: 51.51166869700006
+      lng: 20.757355560000065
+    northEast:
+      lat: 51.61206905800003
+      lng: 20.921659705000025
+- slug: bialobrzegi
+  name: Białobrzegi
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.63598
+  lon: 20.97297
+  lands:
+    rownina_kozienicka: 57.5565
+    dolina_dolnej_pilicy: 31.9049
+    rownina_radomska: 7.4077
+  boundary:
+    southWest:
+      lat: 51.58253711800006
+      lng: 20.87995598300006
+    northEast:
+      lat: 51.69223745200003
+      lng: 21.04860842000005
+- slug: promna
+  name: Promna
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.69659
+  lon: 20.90301
+  lands:
+    wysoczyzna_rawska: 78.6792
+    dolina_dolnej_pilicy: 11.7033
+    dolina_bialobrzeska: 9.6175
+  boundary:
+    southWest:
+      lat: 51.63828256000005
+      lng: 20.769598732000077
+    northEast:
+      lat: 51.753797072000054
+      lng: 21.029325895000056
+- slug: stara_blotnica
+  name: Stara Błotnica
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.54328
+  lon: 20.9966
+  lands:
+    rownina_kozienicka: 57.8186
+    rownina_radomska: 42.1814
+  boundary:
+    southWest:
+      lat: 51.488414000000034
+      lng: 20.898695882000027
+    northEast:
+      lat: 51.601437831000055
+      lng: 21.117625067000063
+- slug: wysmierzyce
+  name: Wyśmierzyce
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.60154
+  lon: 20.75126
+  lands:
+    rownina_radomska: 54.4823
+    dolina_bialobrzeska: 45.0576
+    dolina_dolnej_pilicy: 0.4602
+  boundary:
+    southWest:
+      lat: 51.54304681100007
+      lng: 20.643589941000073
+    northEast:
+      lat: 51.65660430300005
+      lng: 20.92829985800006
+- slug: regimin
+  name: Regimin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.94827
+  lon: 20.5567
+  lands:
+    wzniesienia_mlawskie: 94.0739
+    wysoczyzna_ciechanowska: 5.9261
+  boundary:
+    southWest:
+      lat: 52.90686784400003
+      lng: 20.442648716000065
+    northEast:
+      lat: 52.994937434000065
+      lng: 20.726475891000064
+- slug: grudusk
+  name: Grudusk
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.03873
+  lon: 20.62967
+  lands:
+    wzniesienia_mlawskie: 85.0949
+    wysoczyzna_ciechanowska: 14.9051
+  boundary:
+    southWest:
+      lat: 52.97587979100007
+      lng: 20.537311577000025
+    northEast:
+      lat: 53.10480213300008
+      lng: 20.692144695000025
+- slug: laskarzew
+  name: Łaskarzew
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.79832
+  lon: 21.53727
+  lands:
+    rownina_garwolinska: 54.5739
+    wysoczyzna_zelechowska: 40.8465
+    dolina_srodkowej_wisly: 4.5796
+  boundary:
+    southWest:
+      lat: 51.74611562100006
+      lng: 21.47823586000004
+    northEast:
+      lat: 51.850254429000074
+      lng: 21.68687821800006
+- slug: trojanow
+  name: Trojanów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.6836
+  lon: 21.77347
+  lands:
+    wysoczyzna_zelechowska: 92.6805
+    dolina_srodkowej_wisly: 7.3195
+  boundary:
+    southWest:
+      lat: 51.61204556800004
+      lng: 21.647227764000036
+    northEast:
+      lat: 51.76866154000004
+      lng: 21.89831712600005
+- slug: karniewo
+  name: Karniewo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.83402
+  lon: 20.96687
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.76999760000007
+      lng: 20.861727320000057
+    northEast:
+      lat: 52.899692938000044
+      lng: 21.093234391000067
+- slug: gostynin
+  name: Gostynin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.42322
+  lon: 19.46521
+  lands:
+    kotlina_plocka: 57.965
+    rownina_kutnowska: 34.6419
+    pojezierze_kujawskie: 7.3931
+  boundary:
+    southWest:
+      lat: 52.38600347300007
+      lng: 19.414371208000034
+    northEast:
+      lat: 52.462034379000045
+      lng: 19.51861233300008
+- slug: grodzisk_mazowiecki
+  name: Grodzisk Mazowiecki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.09156
+  lon: 20.64114
+  lands:
+    rownina_lowickoblonska: 76.6509
+    wysoczyzna_rawska: 23.3491
+  boundary:
+    southWest:
+      lat: 52.03187389500005
+      lng: 20.502897181000037
+    northEast:
+      lat: 52.16514044000007
+      lng: 20.73412705800007
+- slug: belsk_duzy
+  name: Belsk Duży
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.81071
+  lon: 20.81603
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.75554160000007
+      lng: 20.701417912000068
+    northEast:
+      lat: 51.86709742600004
+      lng: 20.92614121500003
+- slug: dobre
+  name: Dobre
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.32832
+  lon: 21.67158
+  lands:
+    wysoczyzna_kaluszynska: 98.0922
+    rownina_wolominska: 1.9078
+  boundary:
+    southWest:
+      lat: 52.26605923500006
+      lng: 21.58007116600004
+    northEast:
+      lat: 52.38999461700007
+      lng: 21.803576458000066
 - slug: warka
   name: Warka
   type: town
   voivodeship: mazowieckie
-  lat: 51.78344
-  lon: 21.18643
+  lat: 51.79242
+  lon: 21.15884
+  lands:
+    rownina_warszawska: 63.3689
+    dolina_dolnej_pilicy: 14.7699
+    wysoczyzna_rawska: 12.0212
+  boundary:
+    southWest:
+      lat: 51.681748897000034
+      lng: 20.976374045000057
+    northEast:
+      lat: 51.90163090000004
+      lng: 21.286417511000025
+- slug: radzanow
+  name: Radzanów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.93937
+  lon: 20.11903
+  lands:
+    rownina_raciaska: 100.0
+  boundary:
+    southWest:
+      lat: 52.872522623000066
+      lng: 20.033306398000036
+    northEast:
+      lat: 52.99180161100003
+      lng: 20.239158642000064
+- slug: kazanow
+  name: Kazanów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.26645
+  lon: 21.41468
+  lands:
+    rownina_radomska: 98.738
+    przedgorze_ilzeckie: 1.262
+  boundary:
+    southWest:
+      lat: 51.22073772600004
+      lng: 21.32546876500004
+    northEast:
+      lat: 51.31479880400008
+      lng: 21.56021081600005
+- slug: zwolen
+  name: Zwoleń
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.35083
+  lon: 21.5885
+  lands:
+    rownina_radomska: 80.3726
+    rownina_kozienicka: 19.6274
+  boundary:
+    southWest:
+      lat: 51.274197267000034
+      lng: 21.445073982000054
+    northEast:
+      lat: 51.425234741000054
+      lng: 21.707044559000053
+- slug: goworowo
+  name: Goworowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.89205
+  lon: 21.52504
+  lands:
+    miedzyrzecze_lomzynskie: 70.4967
+    dolina_dolnej_narwi: 29.5033
+  boundary:
+    southWest:
+      lat: 52.79923153100003
+      lng: 21.427347888000043
+    northEast:
+      lat: 52.98581865700004
+      lng: 21.693666117000078
+- slug: baranowo
+  name: Baranowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.1879
+  lon: 21.25343
+  lands:
+    rownina_kurpiowska: 100.0
+  boundary:
+    southWest:
+      lat: 53.095944323000026
+      lng: 21.14679539100007
+    northEast:
+      lat: 53.28521747600007
+      lng: 21.380692509000028
+- slug: lyse
+  name: Łyse
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.37221
+  lon: 21.57476
+  lands:
+    rownina_kurpiowska: 100.0
+  boundary:
+    southWest:
+      lat: 53.260495081000045
+      lng: 21.432598737000035
+    northEast:
+      lat: 53.480947987000036
+      lng: 21.735427137000045
+- slug: strachowka
+  name: Strachówka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.41157
+  lon: 21.6293
+  lands:
+    rownina_wolominska: 91.1238
+    wysoczyzna_kaluszynska: 8.8762
+  boundary:
+    southWest:
+      lat: 52.33965596000007
+      lng: 21.51698381800003
+    northEast:
+      lat: 52.46365772900003
+      lng: 21.716725068000073
+- slug: marki
+  name: Marki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.33152
+  lon: 21.1215
+  lands:
+    rownina_wolominska: 80.7486
+    kotlina_warszawska: 19.2514
+  boundary:
+    southWest:
+      lat: 52.303247431000045
+      lng: 21.077782496000054
+    northEast:
+      lat: 52.36765755400006
+      lng: 21.161527720000038
+- slug: kobylka
+  name: Kobyłka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.34334
+  lon: 21.18894
+  lands:
+    rownina_wolominska: 100.0
+  boundary:
+    southWest:
+      lat: 52.31388223500005
+      lng: 21.15784510700007
+    northEast:
+      lat: 52.366357780000044
+      lng: 21.242180535000045
+- slug: tluszcz
+  name: Tłuszcz
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.41299
+  lon: 21.46044
+  lands:
+    rownina_wolominska: 100.0
+  boundary:
+    southWest:
+      lat: 52.34760034000004
+      lng: 21.370986136000056
+    northEast:
+      lat: 52.47737273300004
+      lng: 21.560690175000047
+- slug: wasewo
+  name: Wąsewo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.84334
+  lon: 21.69052
+  lands:
+    miedzyrzecze_lomzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.78255039600003
+      lng: 21.60190624100005
+    northEast:
+      lat: 52.90730059100008
+      lng: 21.793480871000042
+- slug: wyszkow
+  name: Wyszków
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.58461
+  lon: 21.47022
+  lands:
+    dolina_dolnego_bugu: 56.2386
+    miedzyrzecze_lomzynskie: 38.8489
+    rownina_wolominska: 4.9125
+  boundary:
+    southWest:
+      lat: 52.523669949000066
+      lng: 21.326735788000065
+    northEast:
+      lat: 52.65174628700004
+      lng: 21.599006725000038
+- slug: konstancinjeziorna
+  name: Konstancin-Jeziorna
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.09373
+  lon: 21.14108
+  lands:
+    dolina_srodkowej_wisly: 61.57
+    rownina_warszawska: 38.43
+  boundary:
+    southWest:
+      lat: 52.034101279000026
+      lng: 21.043617190000077
+    northEast:
+      lat: 52.14472839700005
+      lng: 21.216738126000052
+- slug: bulkowo
+  name: Bulkowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.55724
+  lon: 20.07667
+  lands:
+    wysoczyzna_plonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.505665726000075
+      lng: 19.951394451000056
+    northEast:
+      lat: 52.60787609000005
+      lng: 20.200597479000066
+- slug: gabin
+  name: Gąbin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.42228
+  lon: 19.78246
+  lands:
+    rownina_kutnowska: 48.3397
+    kotlina_warszawska: 38.0836
+    kotlina_plocka: 13.5768
+  boundary:
+    southWest:
+      lat: 52.339492532000065
+      lng: 19.662587259000077
+    northEast:
+      lat: 52.49271953600004
+      lng: 19.863209058000052
+- slug: warszawa
+  name: Warszawa
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.23886
+  lon: 21.0715
+  lands:
+    rownina_warszawska: 35.8806
+    dolina_srodkowej_wisly: 28.739
+    kotlina_warszawska: 23.581
+  boundary:
+    southWest:
+      lat: 52.098118002000035
+      lng: 20.853064089000043
+    northEast:
+      lat: 52.36815394300004
+      lng: 21.267694101000075
+- slug: nowe_miasto
+  name: Nowe Miasto
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.65707
+  lon: 20.63518
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.57911655300006
+      lng: 20.561092718000054
+    northEast:
+      lat: 52.72549072700008
+      lng: 20.73146106400003
+- slug: czerwinsk_nad_wisla
+  name: Czerwińsk nad Wisłą
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.43523
+  lon: 20.36058
+  lands:
+    wysoczyzna_plonska: 91.6041
+    kotlina_warszawska: 8.3959
+  boundary:
+    southWest:
+      lat: 52.38434237200005
+      lng: 20.231840700000078
+    northEast:
+      lat: 52.48608885300007
+      lng: 20.49747311300007
+- slug: raciaz
+  name: Raciąż
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.77713
+  lon: 20.11478
+  lands:
+    rownina_raciaska: 100.0
+  boundary:
+    southWest:
+      lat: 52.76882168600008
+      lng: 20.092179154000064
+    northEast:
+      lat: 52.79664668400005
+      lng: 20.147316855000042
+- slug: piastow
+  name: Piastów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.18923
+  lon: 20.84383
+  lands:
+    rownina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.173337315000026
+      lng: 20.826678766000043
+    northEast:
+      lat: 52.19719378000008
+      lng: 20.867166733000033
+- slug: pultusk
+  name: Pułtusk
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.72856
+  lon: 21.06171
+  lands:
+    wysoczyzna_ciechanowska: 69.7881
+    dolina_dolnej_narwi: 30.2119
+  boundary:
+    southWest:
+      lat: 52.64972824400007
+      lng: 20.983493982000027
+    northEast:
+      lat: 52.80377277100007
+      lng: 21.18872040100007
+- slug: ilza
+  name: Iłża
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.1599
+  lon: 21.2144
+  lands:
+    przedgorze_ilzeckie: 84.1156
+    rownina_radomska: 15.8844
+  boundary:
+    southWest:
+      lat: 51.08028604200007
+      lng: 21.091224596000075
+    northEast:
+      lat: 51.23997324700008
+      lng: 21.42514435100003
+- slug: domanice
+  name: Domanice
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.04068
+  lon: 22.16312
+  lands:
+    wysoczyzna_siedlecka: 47.9234
+    wysoczyzna_zelechowska: 38.3711
+    obnizenie_wegrowskie: 13.7056
+  boundary:
+    southWest:
+      lat: 52.00147283200005
+      lng: 22.067844252000043
+    northEast:
+      lat: 52.084917404000066
+      lng: 22.226830955000025
+- slug: czarnia
+  name: Czarnia
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.33908
+  lon: 21.15239
+  lands:
+    rownina_kurpiowska: 97.2502
+    rownina_mazurska: 2.7498
+  boundary:
+    southWest:
+      lat: 53.27921592600006
+      lng: 21.053888064000034
+    northEast:
+      lat: 53.39916248600008
+      lng: 21.260676631000024
+- slug: rzekun
+  name: Rzekuń
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.05369
+  lon: 21.65989
+  lands:
+    miedzyrzecze_lomzynskie: 90.7072
+    dolina_dolnej_narwi: 9.2928
+  boundary:
+    southWest:
+      lat: 52.96741028000008
+      lng: 21.490297524000027
+    northEast:
+      lat: 53.14511317600005
+      lng: 21.775197341000023
+- slug: leszno
+  name: Leszno
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.27708
+  lon: 20.61473
+  lands:
+    rownina_lowickoblonska: 59.6257
+    kotlina_warszawska: 40.3743
+  boundary:
+    southWest:
+      lat: 52.22575380400008
+      lng: 20.469174766000037
+    northEast:
+      lat: 52.33372047000006
+      lng: 20.721243534000052
+- slug: stare_babice
+  name: Stare Babice
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.26716
+  lon: 20.79852
+  lands:
+    rownina_lowickoblonska: 54.9168
+    rownina_warszawska: 30.9599
+    kotlina_warszawska: 14.1232
+  boundary:
+    southWest:
+      lat: 52.22893910700003
+      lng: 20.691210010000077
+    northEast:
+      lat: 52.30609017300003
+      lng: 20.890982791000056
+- slug: grebkow
+  name: Grębków
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.28047
+  lon: 21.95287
+  lands:
+    wysoczyzna_kaluszynska: 68.5
+    obnizenie_wegrowskie: 17.4937
+    wysoczyzna_siedlecka: 14.0063
+  boundary:
+    southWest:
+      lat: 52.209517196000036
+      lng: 21.83388264200005
+    northEast:
+      lat: 52.347425745000066
+      lng: 22.076835196000047
+- slug: wierzbno
+  name: Wierzbno
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.3187
+  lon: 21.84352
+  lands:
+    wysoczyzna_kaluszynska: 96.6046
+    obnizenie_wegrowskie: 3.3954
+  boundary:
+    southWest:
+      lat: 52.25892278800006
+      lng: 21.738145694000025
+    northEast:
+      lat: 52.37289356200006
+      lng: 21.97410601300004
+- slug: stromiec
+  name: Stromiec
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.66137
+  lon: 21.12831
+  lands:
+    rownina_kozienicka: 77.438
+    dolina_dolnej_pilicy: 22.562
+  boundary:
+    southWest:
+      lat: 51.58326585400005
+      lng: 21.021922285000073
+    northEast:
+      lat: 51.73214560500003
+      lng: 21.23020202600003
+- slug: golyminosrodek
+  name: Gołymin-Ośrodek
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.81365
+  lon: 20.86806
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.75643424900005
+      lng: 20.696038428000065
+    northEast:
+      lat: 52.87628471000005
+      lng: 20.940654963000043
+- slug: glinojeck
+  name: Glinojeck
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.80231
+  lon: 20.33026
+  lands:
+    rownina_raciaska: 91.684
+    wysoczyzna_ciechanowska: 5.5774
+    wzniesienia_mlawskie: 2.7386
+  boundary:
+    southWest:
+      lat: 52.73017934100005
+      lng: 20.214718677000064
+    northEast:
+      lat: 52.86761451800004
+      lng: 20.483840558000054
+- slug: miastkow_koscielny
+  name: Miastków Kościelny
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.89347
+  lon: 21.82696
+  lands:
+    wysoczyzna_zelechowska: 97.8662
+    rownina_garwolinska: 2.1338
+  boundary:
+    southWest:
+      lat: 51.84470107100003
+      lng: 21.73939748500004
+    northEast:
+      lat: 51.943426085000056
+      lng: 21.912130615000024
+- slug: olszanka
+  name: Olszanka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.13901
+  lon: 22.66904
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.09086124800007
+      lng: 22.561791182000036
+    northEast:
+      lat: 52.19922569600004
+      lng: 22.766603528000076
+- slug: rozan
+  name: Różan
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.88511
+  lon: 21.35993
+  lands:
+    wysoczyzna_ciechanowska: 71.9169
+    dolina_dolnej_narwi: 24.0977
+    miedzyrzecze_lomzynskie: 3.9854
+  boundary:
+    southWest:
+      lat: 52.82737541000006
+      lng: 21.28615796100007
+    northEast:
+      lat: 52.94928179400006
+      lng: 21.46843720000004
+- slug: czerwonka
+  name: Czerwonka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.89533
+  lon: 21.18552
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.844827215000066
+      lng: 21.075277821000043
+    northEast:
+      lat: 52.95054816100003
+      lng: 21.31444513200006
+- slug: pacyna
+  name: Pacyna
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.30222
+  lon: 19.70604
+  lands:
+    rownina_kutnowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.25550292300005
+      lng: 19.613538689000052
+    northEast:
+      lat: 52.35537111000008
+      lng: 19.80507210600007
+- slug: zabia_wola
+  name: Żabia Wola
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.99353
+  lon: 20.68608
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.92546541100006
+      lng: 20.607460634000063
+    northEast:
+      lat: 52.07053808900008
+      lng: 20.77216369100006
+- slug: rzewnie
+  name: Rzewnie
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.82135
+  lon: 21.37521
+  lands:
+    dolina_dolnej_narwi: 76.0159
+    wysoczyzna_ciechanowska: 23.9841
+  boundary:
+    southWest:
+      lat: 52.77279663100006
+      lng: 21.246597801000064
+    northEast:
+      lat: 52.87828602800005
+      lng: 21.479247491000024
+- slug: nowe_miasto_nad_pilica
+  name: Nowe Miasto nad Pilicą
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.62874
+  lon: 20.53692
+  lands:
+    wysoczyzna_rawska: 66.8208
+    dolina_bialobrzeska: 27.6103
+    rownina_radomska: 5.5689
+  boundary:
+    southWest:
+      lat: 51.55640381100005
+      lng: 20.385005656000033
+    northEast:
+      lat: 51.69588780300006
+      lng: 20.662638810000033
+- slug: pniewy
+  name: Pniewy
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.90711
+  lon: 20.73159
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.84796443500005
+      lng: 20.641249861000063
+    northEast:
+      lat: 51.958447111000055
+      lng: 20.83106105400003
+- slug: grabow_nad_pilica
+  name: Grabów nad Pilicą
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.72996
+  lon: 21.25229
+  lands:
+    rownina_kozienicka: 53.8273
+    dolina_dolnej_pilicy: 43.1603
+    dolina_srodkowej_wisly: 3.0124
+  boundary:
+    southWest:
+      lat: 51.65699477600003
+      lng: 21.121621531000073
+    northEast:
+      lat: 51.79876486900008
+      lng: 21.342519708000054
+- slug: lipowiec_koscielny
+  name: Lipowiec Kościelny
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.09926
+  lon: 20.19518
+  lands:
+    wzniesienia_mlawskie: 69.343
+    rownina_raciaska: 30.657
+  boundary:
+    southWest:
+      lat: 53.04425674600003
+      lng: 20.11471163300007
+    northEast:
+      lat: 53.155773888000056
+      lng: 20.354943297000034
+- slug: strzegowo
+  name: Strzegowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.92583
+  lon: 20.31725
+  lands:
+    rownina_raciaska: 92.4251
+    wzniesienia_mlawskie: 7.5749
+  boundary:
+    southWest:
+      lat: 52.840651973000035
+      lng: 20.138225866000028
+    northEast:
+      lat: 52.99987582800003
+      lng: 20.457587123000053
+- slug: szydlowo
+  name: Szydłowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.08524
+  lon: 20.4944
+  lands:
+    wzniesienia_mlawskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.02245050500005
+      lng: 20.395082682000066
+    northEast:
+      lat: 53.14470296200005
+      lng: 20.596634308000034
+- slug: wieczfnia_koscielna
+  name: Wieczfnia Kościelna
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.1833
+  lon: 20.47387
+  lands:
+    wzniesienia_mlawskie: 100.0
+  boundary:
+    southWest:
+      lat: 53.134818995000046
+      lng: 20.37633140500003
+    northEast:
+      lat: 53.24308832100007
+      lng: 20.609241697000073
+- slug: leoncin
+  name: Leoncin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.35987
+  lon: 20.50989
+  lands:
+    kotlina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.28508246200005
+      lng: 20.40481410700005
+    northEast:
+      lat: 52.42928567600006
+      lng: 20.630329026000027
+- slug: magnuszew
+  name: Magnuszew
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.77432
+  lon: 21.35368
+  lands:
+    dolina_srodkowej_wisly: 97.8611
+    dolina_dolnej_pilicy: 1.8899
+    rownina_kozienicka: 0.2491
+  boundary:
+    southWest:
+      lat: 51.68623592700004
+      lng: 21.24695181900006
+    northEast:
+      lat: 51.86167341600003
+      lng: 21.445422044000054
+- slug: brok
+  name: Brok
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.70945
+  lon: 21.83191
+  lands:
+    miedzyrzecze_lomzynskie: 88.1402
+    dolina_dolnego_bugu: 5.9489
+    wysoczyzna_wysokomazowiecka: 5.911
+  boundary:
+    southWest:
+      lat: 52.659335369000075
+      lng: 21.693090260000076
+    northEast:
+      lat: 52.754750769000054
+      lng: 21.96827542500006
+- slug: rzeczniow
+  name: Rzeczniów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.1241
+  lon: 21.40235
+  lands:
+    przedgorze_ilzeckie: 100.0
+  boundary:
+    southWest:
+      lat: 51.05828070000007
+      lng: 21.311085553000055
+    northEast:
+      lat: 51.186554717000035
+      lng: 21.483733783000048
+- slug: gora_kalwaria
+  name: Góra Kalwaria
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.97237
+  lon: 21.18
+  lands:
+    rownina_warszawska: 73.7423
+    dolina_srodkowej_wisly: 26.2577
+  boundary:
+    southWest:
+      lat: 51.892440040000054
+      lng: 21.073368513000048
+    northEast:
+      lat: 52.051185650000036
+      lng: 21.27946326600005
+- slug: piaseczno
+  name: Piaseczno
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.04327
+  lon: 20.99225
+  lands:
+    rownina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.985946254000055
+      lng: 20.867942225000036
+    northEast:
+      lat: 52.11290334600005
+      lng: 21.13049950100003
+- slug: siedlce
+  name: Siedlce
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.15807
+  lon: 22.27911
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.12754992100008
+      lng: 22.223467897000035
+    northEast:
+      lat: 52.195697057000075
+      lng: 22.330080818000056
+- slug: starozreby
+  name: Staroźreby
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.63675
+  lon: 20.03098
+  lands:
+    wysoczyzna_plonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.588574222000034
+      lng: 19.89167500700006
+    northEast:
+      lat: 52.694080486000075
+      lng: 20.166822988000035
+- slug: stara_biala
+  name: Stara Biała
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.61473
+  lon: 19.6601
+  lands:
+    rownina_urszulewska: 94.988
+    kotlina_plocka: 2.5381
+    wysoczyzna_plonska: 2.4739
+  boundary:
+    southWest:
+      lat: 52.553077821000045
+      lng: 19.545356355000024
+    northEast:
+      lat: 52.682193306000045
+      lng: 19.75694803600004
+- slug: przasnysz
+  name: Przasnysz
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.02
+  lon: 20.88606
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.99059091600003
+      lng: 20.851404633000072
+    northEast:
+      lat: 53.04841039400003
+      lng: 20.925972373000036
+- slug: krasne
+  name: Krasne
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.91751
+  lon: 20.90998
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.864115353000045
+      lng: 20.77444421900003
+    northEast:
+      lat: 52.979320733000066
+      lng: 21.017581562000032
+- slug: przasnysz
+  name: Przasnysz
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.02506
+  lon: 20.96123
+  lands:
+    wysoczyzna_ciechanowska: 93.1185
+    wzniesienia_mlawskie: 6.8815
+  boundary:
+    southWest:
+      lat: 52.939249887000074
+      lng: 20.804364457000077
+    northEast:
+      lat: 53.10888766000005
+      lng: 21.038516573000038
+- slug: pokrzywnica
+  name: Pokrzywnica
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.60707
+  lon: 21.05403
+  lands:
+    wysoczyzna_ciechanowska: 91.8953
+    dolina_dolnej_narwi: 8.1047
+  boundary:
+    southWest:
+      lat: 52.53459309300007
+      lng: 20.967168792000052
+    northEast:
+      lat: 52.67101765600006
+      lng: 21.12962910300007
+- slug: gozd
+  name: Gózd
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.36078
+  lon: 21.35226
+  lands:
+    rownina_radomska: 50.7131
+    rownina_kozienicka: 49.2869
+  boundary:
+    southWest:
+      lat: 51.331121944000074
+      lng: 21.232397357000025
+    northEast:
+      lat: 51.40149009400005
+      lng: 21.447496068000078
+- slug: wierzbica
+  name: Wierzbica
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.25618
+  lon: 21.10465
+  lands:
+    przedgorze_ilzeckie: 60.0191
+    rownina_radomska: 39.9809
+  boundary:
+    southWest:
+      lat: 51.20123482000008
+      lng: 21.001756785000055
+    northEast:
+      lat: 51.305658539000035
+      lng: 21.19878080500007
+- slug: kotun
+  name: Kotuń
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.16736
+  lon: 22.03397
+  lands:
+    wysoczyzna_siedlecka: 70.5468
+    obnizenie_wegrowskie: 26.0138
+    wysoczyzna_kaluszynska: 3.4394
+  boundary:
+    southWest:
+      lat: 52.09076348100007
+      lng: 21.906424353000034
+    northEast:
+      lat: 52.23176199000005
+      lng: 22.163207514000078
+- slug: wodynie
+  name: Wodynie
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.02882
+  lon: 21.97922
+  lands:
+    wysoczyzna_zelechowska: 69.5699
+    obnizenie_wegrowskie: 30.4301
+  boundary:
+    southWest:
+      lat: 51.973184109000044
+      lng: 21.867954956000062
+    northEast:
+      lat: 52.09313676800008
+      lng: 22.086344385000075
+- slug: szydlowiec
+  name: Szydłowiec
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.24804
+  lon: 20.87017
+  lands:
+    przedgorze_ilzeckie: 86.1262
+    garb_gielniowski: 11.6112
+    rownina_radomska: 2.2627
+  boundary:
+    southWest:
+      lat: 51.14583784600006
+      lng: 20.723156247000077
+    northEast:
+      lat: 51.34324525000005
+      lng: 20.938389998000048
+- slug: ostrow_mazowiecka
+  name: Ostrów Mazowiecka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.80679
+  lon: 21.98138
+  lands:
+    miedzyrzecze_lomzynskie: 88.5867
+    wysoczyzna_wysokomazowiecka: 11.4133
+  boundary:
+    southWest:
+      lat: 52.69875379800004
+      lng: 21.650874832000056
+    northEast:
+      lat: 52.915777915000035
+      lng: 22.085224639000046
+- slug: izabelin
+  name: Izabelin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.31782
+  lon: 20.78299
+  lands:
+    kotlina_warszawska: 91.2345
+    rownina_lowickoblonska: 8.1854
+    rownina_warszawska: 0.58
+  boundary:
+    southWest:
+      lat: 52.28048831500007
+      lng: 20.675793156000054
+    northEast:
+      lat: 52.35063572100006
+      lng: 20.888647941000045
+- slug: ozarow_mazowiecki
+  name: Ożarów Mazowiecki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.22078
+  lon: 20.77405
+  lands:
+    rownina_lowickoblonska: 63.6705
+    rownina_warszawska: 36.3295
+  boundary:
+    southWest:
+      lat: 52.187052221000044
+      lng: 20.66197866400006
+    northEast:
+      lat: 52.247411561000035
+      lng: 20.872901700000057
+- slug: liw
+  name: Liw
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.39782
+  lon: 21.95168
+  lands:
+    wysoczyzna_siedlecka: 49.8995
+    obnizenie_wegrowskie: 29.8859
+    wysoczyzna_kaluszynska: 20.2146
+  boundary:
+    southWest:
+      lat: 52.29331403500004
+      lng: 21.886697653000056
+    northEast:
+      lat: 52.488356725000074
+      lng: 22.142764386000067
+- slug: ojrzen
+  name: Ojrzeń
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.77718
+  lon: 20.522
+  lands:
+    wysoczyzna_ciechanowska: 97.9498
+    rownina_raciaska: 2.0502
+  boundary:
+    southWest:
+      lat: 52.70677805400004
+      lng: 20.429161873000055
+    northEast:
+      lat: 52.83213075000003
+      lng: 20.636324497000032
+- slug: garwolin
+  name: Garwolin
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.889
+  lon: 21.55383
+  lands:
+    rownina_garwolinska: 95.5712
+    wysoczyzna_zelechowska: 4.2592
+    dolina_srodkowej_wisly: 0.1695
+  boundary:
+    southWest:
+      lat: 51.831514741000035
+      lng: 21.414880503000063
+    northEast:
+      lat: 51.95281662700006
+      lng: 21.694282217000023
+- slug: parysow
+  name: Parysów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.97826
+  lon: 21.66334
+  lands:
+    rownina_garwolinska: 99.6233
+    wysoczyzna_kaluszynska: 0.3767
+  boundary:
+    southWest:
+      lat: 51.93542577000005
+      lng: 21.582075608000025
+    northEast:
+      lat: 52.028371778000064
+      lng: 21.745693670000037
+- slug: stara_kornica
+  name: Stara Kornica
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.19008
+  lon: 22.93805
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.121171220000065
+      lng: 22.835624280000047
+    northEast:
+      lat: 52.24995764400006
+      lng: 23.07147764800004
+- slug: makow_mazowiecki
+  name: Maków Mazowiecki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.85987
+  lon: 21.09145
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.842623537000065
+      lng: 21.06880726000003
+    northEast:
+      lat: 52.882115714000065
+      lng: 21.118126138000036
+- slug: ploniawybramura
+  name: Płoniawy-Bramura
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.98307
+  lon: 21.0947
+  lands:
+    wysoczyzna_ciechanowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.89303612000003
+      lng: 20.972650975000022
+    northEast:
+      lat: 53.07028828300008
+      lng: 21.186331068000072
+- slug: baranow
+  name: Baranów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.14509
+  lon: 20.45978
+  lands:
+    rownina_lowickoblonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.08359513600004
+      lng: 20.39447993300007
+    northEast:
+      lat: 52.19799990900003
+      lng: 20.558933710000076
+- slug: jaktorow
+  name: Jaktorów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.07732
+  lon: 20.51762
+  lands:
+    rownina_lowickoblonska: 87.5908
+    wysoczyzna_rawska: 12.4092
+  boundary:
+    southWest:
+      lat: 52.033706530000075
+      lng: 20.449280912000063
+    northEast:
+      lat: 52.12582303200003
+      lng: 20.58324198200006
+- slug: chynow
+  name: Chynów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.88835
+  lon: 21.0781
+  lands:
+    rownina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.83811940600003
+      lng: 20.953964473000042
+    northEast:
+      lat: 51.93961272200005
+      lng: 21.206471401000044
+- slug: ceglow
+  name: Cegłów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.11141
+  lon: 21.74699
+  lands:
+    wysoczyzna_kaluszynska: 100.0
+  boundary:
+    southWest:
+      lat: 52.053896472000076
+      lng: 21.651430937000043
+    northEast:
+      lat: 52.185986928000034
+      lng: 21.810554531000037
+- slug: debe_wielkie
+  name: Dębe Wielkie
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.20655
+  lon: 21.46211
+  lands:
+    rownina_wolominska: 38.0601
+    rownina_garwolinska: 31.1503
+    wysoczyzna_kaluszynska: 30.7896
+  boundary:
+    southWest:
+      lat: 52.14096290400005
+      lng: 21.383695492000072
+    northEast:
+      lat: 52.26988167400003
+      lng: 21.52552434300003
+- slug: jakubow
+  name: Jakubów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.2355
+  lon: 21.67358
+  lands:
+    wysoczyzna_kaluszynska: 100.0
+  boundary:
+    southWest:
+      lat: 52.181940850000046
+      lng: 21.589737082000056
+    northEast:
+      lat: 52.29563835300007
+      lng: 21.770742093000024
+- slug: minsk_mazowiecki
+  name: Mińsk Mazowiecki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.17563
+  lon: 21.58209
+  lands:
+    wysoczyzna_kaluszynska: 72.8764
+    rownina_garwolinska: 27.1236
+  boundary:
+    southWest:
+      lat: 52.11825054500008
+      lng: 21.472916664000024
+    northEast:
+      lat: 52.23659901600007
+      lng: 21.693325512000058
+- slug: siennica
+  name: Siennica
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.07453
+  lon: 21.63039
+  lands:
+    wysoczyzna_kaluszynska: 59.4283
+    rownina_garwolinska: 40.5717
+  boundary:
+    southWest:
+      lat: 52.00826975400008
+      lng: 21.514740863000043
+    northEast:
+      lat: 52.134513973000026
+      lng: 21.710648539000033
+- slug: pomiechowek
+  name: Pomiechówek
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.493
+  lon: 20.77395
+  lands:
+    wysoczyzna_ciechanowska: 75.0783
+    kotlina_warszawska: 15.3195
+    wysoczyzna_plonska: 9.6023
+  boundary:
+    southWest:
+      lat: 52.43487931200008
+      lng: 20.626104523000038
+    northEast:
+      lat: 52.54673331500004
+      lng: 20.900216958000044
+- slug: policzna
+  name: Policzna
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.437
+  lon: 21.65244
+  lands:
+    rownina_radomska: 83.1564
+    rownina_kozienicka: 14.4076
+    dolina_srodkowej_wisly: 2.4361
+  boundary:
+    southWest:
+      lat: 51.37756963600003
+      lng: 21.55002690200007
+    northEast:
+      lat: 51.49782766000004
+      lng: 21.78770357700006
+- slug: ciepielow
+  name: Ciepielów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.24626
+  lon: 21.56341
+  lands:
+    rownina_radomska: 96.9097
+    przedgorze_ilzeckie: 3.0903
+  boundary:
+    southWest:
+      lat: 51.18436427700004
+      lng: 21.393831902000045
+    northEast:
+      lat: 51.295245786000066
+      lng: 21.69127717500004
+- slug: zabki
+  name: Ząbki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.29085
+  lon: 21.11653
+  lands:
+    rownina_wolominska: 64.0314
+    kotlina_warszawska: 35.9686
+  boundary:
+    southWest:
+      lat: 52.273994006000066
+      lng: 21.08551391800006
+    northEast:
+      lat: 52.31097638000006
+      lng: 21.14146906800005
+- slug: dabrowka
+  name: Dąbrówka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.49178
+  lon: 21.25715
+  lands:
+    rownina_wolominska: 59.6006
+    dolina_dolnego_bugu: 30.1432
+    kotlina_warszawska: 10.2562
+  boundary:
+    southWest:
+      lat: 52.44667337800007
+      lng: 21.139028890000077
+    northEast:
+      lat: 52.533667370000046
+      lng: 21.404755183000077
+- slug: klembow
+  name: Klembów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.41608
+  lon: 21.30658
+  lands:
+    rownina_wolominska: 100.0
+  boundary:
+    southWest:
+      lat: 52.367400736000036
+      lng: 21.23706617700003
+    northEast:
+      lat: 52.45738420600003
+      lng: 21.42986596000003
+- slug: wolomin
+  name: Wołomin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.35031
+  lon: 21.27134
+  lands:
+    rownina_wolominska: 100.0
+  boundary:
+    southWest:
+      lat: 52.306677852000064
+      lng: 21.189551751000067
+    northEast:
+      lat: 52.39069475700006
+      lng: 21.34723776100003
+- slug: szulborze_wielkie
+  name: Szulborze Wielkie
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.75536
+  lon: 22.24559
+  lands:
+    wysoczyzna_wysokomazowiecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.713233753000054
+      lng: 22.178564665000067
+    northEast:
+      lat: 52.80356760500007
+      lng: 22.303656416000024
+- slug: branszczyk
+  name: Brańszczyk
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.66213
+  lon: 21.59539
+  lands:
+    miedzyrzecze_lomzynskie: 76.1442
+    dolina_dolnego_bugu: 23.8558
+  boundary:
+    southWest:
+      lat: 52.59836840500003
+      lng: 21.485080637000067
+    northEast:
+      lat: 52.72820118200008
+      lng: 21.773023597000076
+- slug: rzasnik
+  name: Rząśnik
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.70894
+  lon: 21.41267
+  lands:
+    miedzyrzecze_lomzynskie: 58.3745
+    dolina_dolnej_narwi: 41.6255
+  boundary:
+    southWest:
+      lat: 52.62866549600005
+      lng: 21.273072583000044
+    northEast:
+      lat: 52.790572276000034
+      lng: 21.49455605600008
+- slug: dlugosiodlo
+  name: Długosiodło
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.76377
+  lon: 21.58289
+  lands:
+    miedzyrzecze_lomzynskie: 64.0838
+    dolina_dolnej_narwi: 35.9162
+  boundary:
+    southWest:
+      lat: 52.69283973800003
+      lng: 21.442358132000038
+    northEast:
+      lat: 52.834193080000034
+      lng: 21.71789037800005
+- slug: zabrodzie
+  name: Zabrodzie
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.49476
+  lon: 21.44338
+  lands:
+    rownina_wolominska: 85.6653
+    dolina_dolnego_bugu: 14.3347
+  boundary:
+    southWest:
+      lat: 52.462888243000066
+      lng: 21.305862168000033
+    northEast:
+      lat: 52.54037961800003
+      lng: 21.55649011400004
+- slug: lutocin
+  name: Lutocin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.99916
+  lon: 19.76857
+  lands:
+    rownina_raciaska: 56.8631
+    rownina_urszulewska: 41.5252
+    wysoczyzna_plonska: 1.6117
+  boundary:
+    southWest:
+      lat: 52.93303443600007
+      lng: 19.670217851000075
+    northEast:
+      lat: 53.071197418000054
+      lng: 19.86857530800006
+- slug: tarczyn
+  name: Tarczyn
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.96996
+  lon: 20.81464
+  lands:
+    wysoczyzna_rawska: 72.6674
+    rownina_warszawska: 27.3326
+  boundary:
+    southWest:
+      lat: 51.92871329700006
+      lng: 20.686036486000035
+    northEast:
+      lat: 52.02975662700004
+      lng: 20.93709879100004
+- slug: bielsk
+  name: Bielsk
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.66011
+  lon: 19.82
+  lands:
+    wysoczyzna_plonska: 97.7836
+    rownina_urszulewska: 2.2164
+  boundary:
+    southWest:
+      lat: 52.58798768500003
+      lng: 19.683639414000027
+    northEast:
+      lat: 52.73529352600008
+      lng: 19.918563477000077
+- slug: drobin
+  name: Drobin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.71826
+  lon: 19.93817
+  lands:
+    wysoczyzna_plonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.65349234400003
+      lng: 19.819083343000045
+    northEast:
+      lat: 52.78077399600005
+      lng: 20.073848911000027
+- slug: dzierzaznia
+  name: Dzierzążnia
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.60028
+  lon: 20.22486
+  lands:
+    wysoczyzna_plonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.53412208300006
+      lng: 20.148573922000026
+    northEast:
+      lat: 52.671996559000036
+      lng: 20.30236859100006
+- slug: naruszewo
+  name: Naruszewo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.5199
+  lon: 20.32384
+  lands:
+    wysoczyzna_plonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.46112662500008
+      lng: 20.188150405000044
+    northEast:
+      lat: 52.582238747000076
+      lng: 20.46152997100006
+- slug: sochocin
+  name: Sochocin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.676
+  lon: 20.4844
+  lands:
+    wysoczyzna_ciechanowska: 55.895
+    wysoczyzna_plonska: 30.7085
+    rownina_raciaska: 13.3964
+  boundary:
+    southWest:
+      lat: 52.610062105000054
+      lng: 20.372181195000053
+    northEast:
+      lat: 52.739389009000035
+      lng: 20.614048164000053
+- slug: baboszewo
+  name: Baboszewo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.70576
+  lon: 20.26602
+  lands:
+    wysoczyzna_plonska: 56.8245
+    rownina_raciaska: 43.1755
+  boundary:
+    southWest:
+      lat: 52.63490296100008
+      lng: 20.148952528000052
+    northEast:
+      lat: 52.785325097000054
+      lng: 20.38811277800005
+- slug: nadarzyn
+  name: Nadarzyn
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.06554
+  lon: 20.793
+  lands:
+    wysoczyzna_rawska: 47.9266
+    rownina_warszawska: 46.425
+    rownina_lowickoblonska: 5.6484
+  boundary:
+    southWest:
+      lat: 52.00057635100006
+      lng: 20.723211347000074
+    northEast:
+      lat: 52.128257156000075
+      lng: 20.874254670000028
+- slug: michalowice
+  name: Michałowice
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.15019
+  lon: 20.85698
+  lands:
+    rownina_warszawska: 74.2575
+    rownina_lowickoblonska: 25.7425
+  boundary:
+    southWest:
+      lat: 52.117487776000075
+      lng: 20.77883366100008
+    northEast:
+      lat: 52.182541806000074
+      lng: 20.91915744100004
+- slug: pionki
+  name: Pionki
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.47206
+  lon: 21.35302
+  lands:
+    rownina_kozienicka: 99.9951
+    dolina_srodkowej_wisly: 0.0049
+  boundary:
+    southWest:
+      lat: 51.38501809300004
+      lng: 21.252074440000058
+    northEast:
+      lat: 51.557642214000055
+      lng: 21.566598399000043
+- slug: przesmyki
+  name: Przesmyki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.27408
+  lon: 22.6112
+  lands:
+    wysoczyzna_siedlecka: 100.0
+  boundary:
+    southWest:
+      lat: 52.20994641600004
+      lng: 22.493043836000027
+    northEast:
+      lat: 52.33272580400006
+      lng: 22.723809671000026
+- slug: sierpc
+  name: Sierpc
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.83188
+  lon: 19.60443
+  lands:
+    rownina_urszulewska: 50.3026
+    wysoczyzna_plonska: 49.6974
+  boundary:
+    southWest:
+      lat: 52.762346824000076
+      lng: 19.508758733000036
+    northEast:
+      lat: 52.902776879000044
+      lng: 19.784765692000065
+- slug: rosciszewo
+  name: Rościszewo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.91314
+  lon: 19.75891
+  lands:
+    wysoczyzna_plonska: 49.3289
+    rownina_urszulewska: 37.6025
+    rownina_raciaska: 13.0686
+  boundary:
+    southWest:
+      lat: 52.847908751000034
+      lng: 19.654423660000077
+    northEast:
+      lat: 52.971388295000054
+      lng: 19.885369011000023
+- slug: repki
+  name: Repki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.37545
+  lon: 22.43814
+  lands:
+    wysoczyzna_siedlecka: 99.5547
+    podlaski_przelom_bugu: 0.4453
+  boundary:
+    southWest:
+      lat: 52.31372790700004
+      lng: 22.306183350000026
+    northEast:
+      lat: 52.43929670400007
+      lng: 22.56285101000003
+- slug: jablonna_lacka
+  name: Jabłonna Lacka
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.49831
+  lon: 22.45521
+  lands:
+    wysoczyzna_siedlecka: 77.9995
+    podlaski_przelom_bugu: 22.0005
+  boundary:
+    southWest:
+      lat: 52.41733562100006
+      lng: 22.331771161000063
+    northEast:
+      lat: 52.58683780600006
+      lng: 22.54868323000005
+- slug: jastrzab
+  name: Jastrząb
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.23275
+  lon: 20.9579
+  lands:
+    przedgorze_ilzeckie: 100.0
+  boundary:
+    southWest:
+      lat: 51.18718078400008
+      lng: 20.894499675000077
+    northEast:
+      lat: 51.28128265600003
+      lng: 21.023705697000025
+- slug: radzymin
+  name: Radzymin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.4351
+  lon: 21.17666
+  lands:
+    rownina_wolominska: 64.7499
+    kotlina_warszawska: 35.2501
+  boundary:
+    southWest:
+      lat: 52.34987894600005
+      lng: 21.064564621000045
+    northEast:
+      lat: 52.51855318200006
+      lng: 21.289039217000038
+- slug: krasnosielc
+  name: Krasnosielc
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.05993
+  lon: 21.18275
+  lands:
+    wysoczyzna_ciechanowska: 78.974
+    rownina_kurpiowska: 19.9598
+    wzniesienia_mlawskie: 1.0661
+  boundary:
+    southWest:
+      lat: 52.973462925000035
+      lng: 21.043514925000068
+    northEast:
+      lat: 53.13724210100003
+      lng: 21.311607067000068
+- slug: ostroleka
+  name: Ostrołęka
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.07751
+  lon: 21.57454
+  lands:
+    miedzyrzecze_lomzynskie: 50.5661
+    dolina_dolnej_narwi: 48.1308
+    rownina_kurpiowska: 1.3031
+  boundary:
+    southWest:
+      lat: 53.04332592600008
+      lng: 21.53686581900007
+    northEast:
+      lat: 53.110887871000045
+      lng: 21.666036268000028
+- slug: wegrow
+  name: Węgrów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.39737
+  lon: 22.04316
+  lands:
+    wysoczyzna_siedlecka: 82.0055
+    obnizenie_wegrowskie: 17.9945
+  boundary:
+    southWest:
+      lat: 52.362095639000074
+      lng: 21.981046347000074
+    northEast:
+      lat: 52.43789999200004
+      lng: 22.08907911700004
+- slug: laskarzew
+  name: Łaskarzew
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.7884
+  lon: 21.59899
+  lands:
+    wysoczyzna_zelechowska: 54.4949
+    rownina_garwolinska: 45.5051
+  boundary:
+    southWest:
+      lat: 51.76031500100004
+      lng: 21.562841277000075
+    northEast:
+      lat: 51.81167270000003
+      lng: 21.653746720000072
+- slug: gorzno
+  name: Górzno
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.86195
+  lon: 21.71513
+  lands:
+    wysoczyzna_zelechowska: 92.9278
+    rownina_garwolinska: 7.0722
+  boundary:
+    southWest:
+      lat: 51.79607217300003
+      lng: 21.64071307000006
+    northEast:
+      lat: 51.924501666000026
+      lng: 21.790569462000065
+- slug: wilga
+  name: Wilga
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.84004
+  lon: 21.40781
+  lands:
+    dolina_srodkowej_wisly: 91.7169
+    rownina_garwolinska: 8.2831
+  boundary:
+    southWest:
+      lat: 51.773669623000046
+      lng: 21.275804451000056
+    northEast:
+      lat: 51.907010453000055
+      lng: 21.501035729000023
+- slug: szczawin_koscielny
+  name: Szczawin Kościelny
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.35082
+  lon: 19.60234
+  lands:
+    rownina_kutnowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.288153253000075
+      lng: 19.49154400900005
+    northEast:
+      lat: 52.41607668900008
+      lng: 19.68902201000003
+- slug: jasieniec
+  name: Jasieniec
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.79563
+  lon: 20.99595
+  lands:
+    rownina_warszawska: 56.5253
+    wysoczyzna_rawska: 43.4747
+  boundary:
+    southWest:
+      lat: 51.735575647000076
+      lng: 20.88661073800006
+    northEast:
+      lat: 51.85270318400006
+      lng: 21.09527312000006
+- slug: mogielnica
+  name: Mogielnica
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.68409
+  lon: 20.7155
+  lands:
+    wysoczyzna_rawska: 86.9588
+    dolina_bialobrzeska: 13.0412
+  boundary:
+    southWest:
+      lat: 51.606459778000044
+      lng: 20.621591356000067
+    northEast:
+      lat: 51.76125054000005
+      lng: 20.814174424000043
+- slug: kozienice
+  name: Kozienice
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.61026
+  lon: 21.51686
+  lands:
+    dolina_srodkowej_wisly: 70.2695
+    rownina_kozienicka: 29.7305
+  boundary:
+    southWest:
+      lat: 51.50376577900005
+      lng: 21.363070925000045
+    northEast:
+      lat: 51.70595230400005
+      lng: 21.69859874100007
+- slug: dzierzgowo
+  name: Dzierzgowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.17841
+  lon: 20.63202
+  lands:
+    wzniesienia_mlawskie: 99.3899
+    wysoczyzna_ciechanowska: 0.6101
+  boundary:
+    southWest:
+      lat: 53.08700094100004
+      lng: 20.52806401600003
+    northEast:
+      lat: 53.26952939900008
+      lng: 20.724711567000043
+- slug: nowy_dwor_mazowiecki
+  name: Nowy Dwór Mazowiecki
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.43325
+  lon: 20.70775
+  lands:
+    kotlina_warszawska: 61.7536
+    wysoczyzna_plonska: 37.8351
+    wysoczyzna_ciechanowska: 0.4113
+  boundary:
+    southWest:
+      lat: 52.406363585000065
+      lng: 20.616901679000023
+    northEast:
+      lat: 52.459283620000065
+      lng: 20.764967649000027
+- slug: czosnow
+  name: Czosnów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.37168
+  lon: 20.70979
+  lands:
+    kotlina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.31133407600004
+      lng: 20.59659655300004
+    northEast:
+      lat: 52.43162217400004
+      lng: 20.828398141000037
+- slug: tczow
+  name: Tczów
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.33301
+  lon: 21.44578
+  lands:
+    rownina_radomska: 96.2737
+    rownina_kozienicka: 3.7263
+  boundary:
+    southWest:
+      lat: 51.29294351400006
+      lng: 21.35159623000004
+    northEast:
+      lat: 51.37180709100005
+      lng: 21.543729804000066
+- slug: jablonna
+  name: Jabłonna
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.39344
+  lon: 20.85186
+  lands:
+    kotlina_warszawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.35402002500007
+      lng: 20.737018335000073
+    northEast:
+      lat: 52.433199364000075
+      lng: 21.004378065000026
+- slug: poswietne
+  name: Poświętne
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.33702
+  lon: 21.4226
+  lands:
+    rownina_wolominska: 100.0
+  boundary:
+    southWest:
+      lat: 52.29190863800005
+      lng: 21.299858322000034
+    northEast:
+      lat: 52.377344968000045
+      lng: 21.53644963000005
+- slug: nur
+  name: Nur
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.67761
+  lon: 22.31361
+  lands:
+    wysoczyzna_wysokomazowiecka: 91.2855
+    podlaski_przelom_bugu: 8.7145
+  boundary:
+    southWest:
+      lat: 52.60968993600005
+      lng: 22.208579239000073
+    northEast:
+      lat: 52.74829150100004
+      lng: 22.46770659400005
+- slug: karczew
+  name: Karczew
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.02721
+  lon: 21.27197
+  lands:
+    dolina_srodkowej_wisly: 99.9998
+    rownina_garwolinska: 0.0002
+  boundary:
+    southWest:
+      lat: 51.97626511900006
+      lng: 21.205089044000033
+    northEast:
+      lat: 52.09281692700006
+      lng: 21.344590391000054
+- slug: zuromin
+  name: Żuromin
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.04607
+  lon: 19.89047
+  lands:
+    rownina_raciaska: 86.3707
+    wzniesienia_mlawskie: 7.7391
+    rownina_urszulewska: 5.8902
+  boundary:
+    southWest:
+      lat: 52.99696402700005
+      lng: 19.73418440100005
+    northEast:
+      lat: 53.100430954000046
+      lng: 20.07170390300007
+- slug: zyrardow
+  name: Żyrardów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.06029
+  lon: 20.44257
+  lands:
+    rownina_lowickoblonska: 97.7906
+    wysoczyzna_rawska: 2.2094
+  boundary:
+    southWest:
+      lat: 52.035233152000046
+      lng: 20.411224705000052
+    northEast:
+      lat: 52.08062471900007
+      lng: 20.474776183000074
+- slug: radom
+  name: Radom
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.41637
+  lon: 21.16135
+  lands:
+    rownina_radomska: 76.2068
+    rownina_kozienicka: 23.7932
+  boundary:
+    southWest:
+      lat: 51.34862058900006
+      lng: 21.053186443000072
+    northEast:
+      lat: 51.48585455300008
+      lng: 21.25906945400004
+- slug: slubice
+  name: Słubice
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.39211
+  lon: 19.91544
+  lands:
+    kotlina_warszawska: 79.8922
+    rownina_kutnowska: 20.1078
+  boundary:
+    southWest:
+      lat: 52.32731728500005
+      lng: 19.844693406000033
+    northEast:
+      lat: 52.46234299400004
+      lng: 20.002255311000056
+- slug: plonsk
+  name: Płońsk
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.62645
+  lon: 20.36402
+  lands:
+    wysoczyzna_plonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.60475575500004
+      lng: 20.33726829400007
+    northEast:
+      lat: 52.64815551300006
+      lng: 20.38943404200006
+- slug: czernice_borowe
+  name: Czernice Borowe
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.03824
+  lon: 20.74277
+  lands:
+    wysoczyzna_ciechanowska: 91.786
+    wzniesienia_mlawskie: 8.214
+  boundary:
+    southWest:
+      lat: 52.97164608700007
+      lng: 20.665373312000042
+    northEast:
+      lat: 53.105896467000036
+      lng: 20.854841099000055
+- slug: krzynowloga_mala
+  name: Krzynowłoga Mała
+  type: town
+  voivodeship: mazowieckie
+  lat: 53.15632
+  lon: 20.83141
+  lands:
+    wzniesienia_mlawskie: 97.3107
+    wysoczyzna_ciechanowska: 2.6893
+  boundary:
+    southWest:
+      lat: 53.09149139200008
+      lng: 20.69070005100008
+    northEast:
+      lat: 53.230606099000056
+      lng: 20.982130144000052
+- slug: pionki
+  name: Pionki
+  type: town
+  voivodeship: mazowieckie
+  lat: 51.47411
+  lon: 21.45276
+  lands:
+    rownina_kozienicka: 100.0
+  boundary:
+    southWest:
+      lat: 51.43942745700008
+      lng: 21.401650593000056
+    northEast:
+      lat: 51.50411868300006
+      lng: 21.499105454000073
+- slug: mokobody
+  name: Mokobody
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.26173
+  lon: 22.13166
+  lands:
+    wysoczyzna_siedlecka: 99.5364
+    obnizenie_wegrowskie: 0.4636
+  boundary:
+    southWest:
+      lat: 52.19075461300008
+      lng: 22.04175706700005
+    northEast:
+      lat: 52.33823714400006
+      lng: 22.216847378000068
+- slug: mochowo
+  name: Mochowo
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.77383
+  lon: 19.55658
+  lands:
+    rownina_urszulewska: 100.0
+  boundary:
+    southWest:
+      lat: 52.68596474900005
+      lng: 19.423008105000065
+    northEast:
+      lat: 52.86679458000003
+      lng: 19.62829372300007
+- slug: nowa_sucha
+  name: Nowa Sucha
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.16909
+  lon: 20.17412
+  lands:
+    rownina_lowickoblonska: 79.0423
+    rownina_kutnowska: 20.9577
+  boundary:
+    southWest:
+      lat: 52.11465152000005
+      lng: 20.078553920000047
+    northEast:
+      lat: 52.21026723500006
+      lng: 20.316050149000034
+- slug: brochow
+  name: Brochów
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.33516
+  lon: 20.34215
+  lands:
+    kotlina_warszawska: 99.4508
+    rownina_lowickoblonska: 0.5492
+  boundary:
+    southWest:
+      lat: 52.276231360000054
+      lng: 20.216846505000035
+    northEast:
+      lat: 52.39119768000006
+      lng: 20.423952542000052
+- slug: nieporet
+  name: Nieporęt
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.40601
+  lon: 21.03535
+  lands:
+    kotlina_warszawska: 95.9288
+    rownina_wolominska: 4.067
+    wysoczyzna_ciechanowska: 0.0041
+  boundary:
+    southWest:
+      lat: 52.337402473000054
+      lng: 20.958983144000058
+    northEast:
+      lat: 52.47768535900008
+      lng: 21.12083583900005
+- slug: stary_lubotyn
+  name: Stary Lubotyń
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.91714
+  lon: 21.93427
+  lands:
+    miedzyrzecze_lomzynskie: 100.0
+  boundary:
+    southWest:
+      lat: 52.85825816400006
+      lng: 21.831311437000068
+    northEast:
+      lat: 52.97981456700006
+      lng: 22.02784566300005

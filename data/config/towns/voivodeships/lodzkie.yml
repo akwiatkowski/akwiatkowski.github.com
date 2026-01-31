@@ -1,194 +1,2833 @@
 ---
-- slug: wieruszow
-  name: Wieruszów
-  type: town
-  voivodeship: lodzkie
-  lat: 51.29398
-  lon: 18.15787
-- slug: galewice
-  name: Galewice
-  type: town
-  voivodeship: lodzkie
-  lat: 51.34387
-  lon: 18.25315
-- slug: klonowa
-  name: Klonowa
-  type: town
-  voivodeship: lodzkie
-  lat: 51.41833
-  lon: 18.41880
-- slug: braszewice
-  name: Brąszewice
-  type: town
-  voivodeship: lodzkie
-  lat: 51.49780
-  lon: 18.44901
-- slug: brzeznio
-  name: Brzeźnio
-  type: town
-  voivodeship: lodzkie
-  lat: 51.49417
-  lon: 18.62325
-- slug: sieradz
-  name: Sieradz
-  type: town
-  voivodeship: lodzkie
-  lat: 51.59442
-  lon: 18.73019
-
-- slug: zdunska_wola
-  name: Zduńska Wola
-  type: town
-  voivodeship: lodzkie
-  lat: 51.60220
-  lon: 18.93396
 - slug: zapolice
   name: Zapolice
   type: town
   voivodeship: lodzkie
-  lat: 51.54010
-  lon: 18.88211
-- slug: sedziejowice
-  name: Sędziejowice
+  lat: 51.52445
+  lon: 18.91037
+  lands:
+    wysoczyzna_laska: 65.9983
+    kotlina_szczercowska: 27.3314
+    kotlina_sieradzka: 6.6704
+  boundary:
+    southWest:
+      lat: 51.47107801800007
+      lng: 18.823487816000068
+    northEast:
+      lat: 51.580984251000075
+      lng: 19.013987016000044
+- slug: galewice
+  name: Galewice
   type: town
   voivodeship: lodzkie
-  lat: 51.50870
-  lon: 19.02305
+  lat: 51.38311
+  lon: 18.28309
+  lands:
+    kotlina_grabowska: 99.9188
+    wysoczyzna_zloczewska: 0.0812
+  boundary:
+    southWest:
+      lat: 51.313701826000056
+      lng: 18.173586877000048
+    northEast:
+      lat: 51.45324935300005
+      lng: 18.381595331000028
+- slug: glowno
+  name: Głowno
+  type: town
+  voivodeship: lodzkie
+  lat: 51.95985
+  lon: 19.71316
+  lands:
+    wzniesienia_lodzkie: 53.4872
+    rownina_lowickoblonska: 46.5128
+  boundary:
+    southWest:
+      lat: 51.936698539000076
+      lng: 19.66662277100005
+    northEast:
+      lat: 51.987382213000046
+      lng: 19.76148964400005
+- slug: glowno
+  name: Głowno
+  type: town
+  voivodeship: lodzkie
+  lat: 51.9898
+  lon: 19.64537
+  lands:
+    rownina_lowickoblonska: 76.5392
+    wzniesienia_lodzkie: 23.4608
+  boundary:
+    southWest:
+      lat: 51.94227242900007
+      lng: 19.524069691000022
+    northEast:
+      lat: 52.03471243400003
+      lng: 19.840027590000034
+- slug: rogow
+  name: Rogów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.83871
+  lon: 19.87986
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.77462024300007
+      lng: 19.79604179300003
+    northEast:
+      lat: 51.89484799600007
+      lng: 19.949798686000065
 - slug: buczek
   name: Buczek
   type: town
   voivodeship: lodzkie
-  lat: 51.50144
-  lon: 19.16381
-- slug: lask
-  name: Łask
+  lat: 51.52597
+  lon: 19.17036
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.47615899500005
+      lng: 19.07761055000003
+    northEast:
+      lat: 51.56691906000003
+      lng: 19.265952380000044
+- slug: witonia
+  name: Witonia
   type: town
   voivodeship: lodzkie
-  lat: 51.59015
-  lon: 19.13514
-- slug: dobron
-  name: Dobroń
-  type: town
-  voivodeship: lodzkie
-  lat: 51.63311
-  lon: 19.24432
-- slug: dlutow
-  name: Dłutów
-  type: town
-  voivodeship: lodzkie
-  lat: 51.55622
-  lon: 19.39401
-- slug: tuszyn
-  name: Tuszyn
-  type: town
-  voivodeship: lodzkie
-  lat: 51.60263
-  lon: 19.54490
+  lat: 52.13686
+  lon: 19.28362
+  lands:
+    rownina_lowickoblonska: 86.2501
+    wysoczyzna_klodawska: 8.0937
+    rownina_kutnowska: 5.6561
+  boundary:
+    southWest:
+      lat: 52.08969816600006
+      lng: 19.208448985000075
+    northEast:
+      lat: 52.190961008000045
+      lng: 19.354805326000076
 - slug: rzgow
   name: Rzgów
   type: town
   voivodeship: lodzkie
-  lat: 51.66251
-  lon: 19.48980
-- slug: brojce
-  name: Brójce
+  lat: 51.65588
+  lon: 19.5167
+  lands:
+    wzniesienia_lodzkie: 85.1633
+    wysoczyzna_belchatowska: 14.8367
+  boundary:
+    southWest:
+      lat: 51.617425334000075
+      lng: 19.419989861000033
+    northEast:
+      lat: 51.69809802100008
+      lng: 19.600142858000027
+- slug: paradyz
+  name: Paradyż
   type: town
   voivodeship: lodzkie
-  lat: 51.66623
-  lon: 19.63760
-- slug: lodz
-  name: Łódź
+  lat: 51.30731
+  lon: 20.11292
+  lands:
+    wzgorza_opoczynskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.26473909400005
+      lng: 19.98662222400003
+    northEast:
+      lat: 51.35102019100003
+      lng: 20.201400487000058
+- slug: opoczno
+  name: Opoczno
   type: town
   voivodeship: lodzkie
-  lat: 51.76929
-  lon: 19.46370
-- slug: blaszki
-  name: Błaszki
+  lat: 51.41706
+  lon: 20.28631
+  lands:
+    wzgorza_opoczynskie: 67.1732
+    garb_gielniowski: 32.7938
+    rownina_radomska: 0.033
+  boundary:
+    southWest:
+      lat: 51.32562997300005
+      lng: 20.184999635000054
+    northEast:
+      lat: 51.50555767800006
+      lng: 20.442547096000055
+- slug: slawno
+  name: Sławno
   type: town
   voivodeship: lodzkie
-  lat: 51.650433276654674
-  lon: 18.434561839894577
-- slug: wroblew
-  name: Wróblew
+  lat: 51.40029
+  lon: 20.15197
+  lands:
+    wzgorza_opoczynskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.32915464100006
+      lng: 20.05524024600004
+    northEast:
+      lat: 51.47058382600005
+      lng: 20.227438791000054
+- slug: rzasnia
+  name: Rząśnia
   type: town
   voivodeship: lodzkie
-  lat: 51.61176941666714
-  lon: 18.615909519593988
-- slug: pabianice
-  name: Pabianice
-  type: town
-  voivodeship: lodzkie
-  lat: 51.66494069654942
-  lon: 19.3440089699623
-- slug: inowlodz
-  name: Inowłódź
-  type: town
-  voivodeship: lodzkie
-  lat: 51.525110267655535
-  lon: 20.2229786598911
-- slug: tomaszow_mazowiecki
-  name: Tomaszów Mazowiecki
-  type: town
-  voivodeship: lodzkie
-  lat: 51.53120882536541
-  lon: 20.007804254568995
-- slug: lubochnia
-  name: Lubochnia
-  type: town
-  voivodeship: lodzkie
-  lat: 51.608140938176014
-  lon: 20.05223916337484
-- slug: lubochnia
-  name: Lubochnia
-  type: town
-  voivodeship: lodzkie
-  lat: 51.608140938176014
-  lon: 20.05223916337484
-- slug: ujazd
-  name: Ujazd
-  type: town
-  voivodeship: lodzkie
-  lat: 51.59996912067075
-  lon: 19.920750315465586
-- slug: andrespol
-  name: Andrespol
-  type: town
-  voivodeship: lodzkie
-  lat: 51.72539154468989
-  lon: 19.63878412911279
-- slug: koluszki
-  name: Koluszki
-  type: town
-  voivodeship: lodzkie
-  lat: 51.7386547507733
-  lon: 19.81522028986645
-- slug: rokociny
-  name: Rokociny
-  type: town
-  voivodeship: lodzkie
-  lat: 51.649711244688085
-  lon: 19.802401893436087
-- slug: bedkow
-  name: Będków
-  type: town
-  voivodeship: lodzkie
-  lat: 51.58763433514612
-  lon: 19.74428742550842
+  lat: 51.23447
+  lon: 19.08088
+  lands:
+    wysoczyzna_belchatowska: 56.1341
+    kotlina_szczercowska: 43.8659
+  boundary:
+    southWest:
+      lat: 51.16485359700005
+      lng: 18.990650722000055
+    northEast:
+      lat: 51.29924295300003
+      lng: 19.145642687000077
 - slug: czarnocin
   name: Czarnocin
   type: town
   voivodeship: lodzkie
-  lat: 51.59119446078183
-  lon: 19.682312051594295
+  lat: 51.5934
+  lon: 19.67007
+  lands:
+    wysoczyzna_belchatowska: 58.8248
+    rownina_piotrkowska: 40.7698
+    wzniesienia_lodzkie: 0.4054
+  boundary:
+    southWest:
+      lat: 51.540229890000035
+      lng: 19.594181948000028
+    northEast:
+      lat: 51.649543778000066
+      lng: 19.731251007000026
+- slug: moszczenica
+  name: Moszczenica
+  type: town
+  voivodeship: lodzkie
+  lat: 51.49903
+  lon: 19.6714
+  lands:
+    rownina_piotrkowska: 84.8403
+    wysoczyzna_belchatowska: 15.1597
+  boundary:
+    southWest:
+      lat: 51.44226610900006
+      lng: 19.57062823900003
+    northEast:
+      lat: 51.56343595900006
+      lng: 19.776403897000023
+- slug: rozprza
+  name: Rozprza
+  type: town
+  voivodeship: lodzkie
+  lat: 51.30765
+  lon: 19.65327
+  lands:
+    rownina_piotrkowska: 68.7145
+    wysoczyzna_belchatowska: 26.4714
+    wzgorza_radomszczanskie: 4.8141
+  boundary:
+    southWest:
+      lat: 51.236873453000044
+      lng: 19.526962309000055
+    northEast:
+      lat: 51.37513730100005
+      lng: 19.83542803200004
+- slug: poddebice
+  name: Poddębice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.88709
+  lon: 18.90477
+  lands:
+    wysoczyzna_laska: 86.9341
+    kotlina_kolska: 10.0922
+    kotlina_sieradzka: 2.9737
+  boundary:
+    southWest:
+      lat: 51.81268415400007
+      lng: 18.739383643000053
+    northEast:
+      lat: 51.96307721200003
+      lng: 19.056267035000076
+- slug: gomunice
+  name: Gomunice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.15238
+  lon: 19.52679
+  lands:
+    wzgorza_radomszczanskie: 92.2757
+    wysoczyzna_belchatowska: 7.7243
+  boundary:
+    southWest:
+      lat: 51.10428763600004
+      lng: 19.423833583000032
+    northEast:
+      lat: 51.19801537700005
+      lng: 19.594420137000043
+- slug: lgota_wielka
+  name: Lgota Wielka
+  type: town
+  voivodeship: lodzkie
+  lat: 51.13739
+  lon: 19.32108
+  lands:
+    wysoczyzna_belchatowska: 93.364
+    wzgorza_radomszczanskie: 6.636
+  boundary:
+    southWest:
+      lat: 51.09417210100003
+      lng: 19.233423618000074
+    northEast:
+      lat: 51.19082078400004
+      lng: 19.41265676300003
+- slug: radomsko
+  name: Radomsko
+  type: town
+  voivodeship: lodzkie
+  lat: 51.03022
+  lon: 19.42025
+  lands:
+    niecka_przyrowska: 71.9821
+    wzgorza_radomszczanskie: 26.9832
+    wyzyna_wielunska: 1.0347
+  boundary:
+    southWest:
+      lat: 50.995196504000035
+      lng: 19.318520677000038
+    northEast:
+      lat: 51.12895677400007
+      lng: 19.548681548000047
+- slug: braszewice
+  name: Brąszewice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.50839
+  lon: 18.45297
+  lands:
+    wysoczyzna_zloczewska: 88.7137
+    kotlina_grabowska: 11.2863
+  boundary:
+    southWest:
+      lat: 51.449392008000075
+      lng: 18.358573463000027
+    northEast:
+      lat: 51.55800310400008
+      lng: 18.543035831000054
+- slug: gluchow
+  name: Głuchów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.79337
+  lon: 20.08993
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.73858943700003
+      lng: 19.987137505000078
+    northEast:
+      lat: 51.863011329000074
+      lng: 20.189031525000075
+- slug: inowlodz
+  name: Inowłódz
+  type: town
+  voivodeship: lodzkie
+  lat: 51.5266
+  lon: 20.19307
+  lands:
+    rownina_piotrkowska: 46.6977
+    dolina_bialobrzeska: 26.9472
+    wzgorza_opoczynskie: 26.0172
+  boundary:
+    southWest:
+      lat: 51.46236908600008
+      lng: 20.12419658500005
+    northEast:
+      lat: 51.58813511200003
+      lng: 20.310442226000077
+- slug: lubochnia
+  name: Lubochnia
+  type: town
+  voivodeship: lodzkie
+  lat: 51.59849
+  lon: 20.06491
+  lands:
+    rownina_piotrkowska: 94.9418
+    dolina_bialobrzeska: 4.5801
+    wzniesienia_lodzkie: 0.4782
+  boundary:
+    southWest:
+      lat: 51.533396682000046
+      lng: 19.942249464000042
+    northEast:
+      lat: 51.662504023000054
+      lng: 20.15445447700006
+- slug: zychlin
+  name: Żychlin
+  type: town
+  voivodeship: lodzkie
+  lat: 52.23429
+  lon: 19.65404
+  lands:
+    rownina_kutnowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.18945339800007
+      lng: 19.534856581000042
+    northEast:
+      lat: 52.27868586300008
+      lng: 19.763975525000035
+- slug: bedlno
+  name: Bedlno
+  type: town
+  voivodeship: lodzkie
+  lat: 52.17684
+  lon: 19.60667
+  lands:
+    rownina_kutnowska: 91.8204
+    rownina_lowickoblonska: 8.1796
+  boundary:
+    southWest:
+      lat: 52.11606420600003
+      lng: 19.500520419000054
+    northEast:
+      lat: 52.23463398600006
+      lng: 19.717279494000024
+- slug: rawa_mazowiecka
+  name: Rawa Mazowiecka
+  type: town
+  voivodeship: lodzkie
+  lat: 51.7726
+  lon: 20.25515
+  lands:
+    wzniesienia_lodzkie: 57.7624
+    wysoczyzna_rawska: 42.2376
+  boundary:
+    southWest:
+      lat: 51.70064819300006
+      lng: 20.115794008000023
+    northEast:
+      lat: 51.85045603900005
+      lng: 20.349020556000028
+- slug: zdunska_wola
+  name: Zduńska Wola
+  type: town
+  voivodeship: lodzkie
+  lat: 51.62522
+  lon: 18.94186
+  lands:
+    wysoczyzna_laska: 97.9086
+    kotlina_sieradzka: 2.0914
+  boundary:
+    southWest:
+      lat: 51.55787593500003
+      lng: 18.80647293800007
+    northEast:
+      lat: 51.685156160000076
+      lng: 19.040138042000024
+- slug: czerniewice
+  name: Czerniewice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.65322
+  lon: 20.17594
+  lands:
+    wzniesienia_lodzkie: 54.9776
+    rownina_piotrkowska: 40.5721
+    wysoczyzna_rawska: 4.4503
+  boundary:
+    southWest:
+      lat: 51.579101223000066
+      lng: 20.068038411000032
+    northEast:
+      lat: 51.72438101800003
+      lng: 20.285339230000034
+- slug: sokolniki
+  name: Sokolniki
+  type: town
+  voivodeship: lodzkie
+  lat: 51.31968
+  lon: 18.34928
+  lands:
+    kotlina_grabowska: 90.1731
+    wysoczyzna_zloczewska: 9.8269
+  boundary:
+    southWest:
+      lat: 51.26634984300006
+      lng: 18.228952468000045
+    northEast:
+      lat: 51.36947044500005
+      lng: 18.44713315000007
+- slug: lututow
+  name: Lututów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.34746
+  lon: 18.49016
+  lands:
+    wysoczyzna_zloczewska: 94.2485
+    kotlina_grabowska: 5.7515
+  boundary:
+    southWest:
+      lat: 51.29665468300004
+      lng: 18.365342696000027
+    northEast:
+      lat: 51.399347394000074
+      lng: 18.561154163000026
+- slug: rusiec
+  name: Rusiec
+  type: town
+  voivodeship: lodzkie
+  lat: 51.31763
+  lon: 18.965
+  lands:
+    kotlina_szczercowska: 57.5814
+    miedzyrzecze_pysznej_i_niecieczy: 42.4186
+  boundary:
+    southWest:
+      lat: 51.26874109400006
+      lng: 18.855769554000062
+    northEast:
+      lat: 51.36434886100005
+      lng: 19.07745877800005
 - slug: kutno
   name: Kutno
   type: town
   voivodeship: lodzkie
-  lat: 52.229955702816234
-  lon: 19.36031562112231
+  lat: 52.22406
+  lon: 19.38718
+  lands:
+    rownina_kutnowska: 58.8711
+    wysoczyzna_klodawska: 41.1289
+  boundary:
+    southWest:
+      lat: 52.19376385400005
+      lng: 19.28940637000005
+    northEast:
+      lat: 52.25359731400005
+      lng: 19.452741124000056
+- slug: krosniewice
+  name: Krośniewice
+  type: town
+  voivodeship: lodzkie
+  lat: 52.23935
+  lon: 19.1735
+  lands:
+    wysoczyzna_klodawska: 100.0
+  boundary:
+    southWest:
+      lat: 52.192279116000066
+      lng: 19.07763397900004
+    northEast:
+      lat: 52.284734023000055
+      lng: 19.27822050800006
+- slug: dabrowice
+  name: Dąbrowice
+  type: town
+  voivodeship: lodzkie
+  lat: 52.30389
+  lon: 19.08308
+  lands:
+    wysoczyzna_klodawska: 96.211
+    pojezierze_kujawskie: 3.789
+  boundary:
+    southWest:
+      lat: 52.26979660200004
+      lng: 19.03149073000003
+    northEast:
+      lat: 52.345768347000046
+      lng: 19.14439827800004
+- slug: brojce
+  name: Brójce
+  type: town
+  voivodeship: lodzkie
+  lat: 51.6642
+  lon: 19.66078
+  lands:
+    rownina_piotrkowska: 49.7046
+    wzniesienia_lodzkie: 47.2227
+    wysoczyzna_belchatowska: 3.0727
+  boundary:
+    southWest:
+      lat: 51.62143436200006
+      lng: 19.55726323400006
+    northEast:
+      lat: 51.71239873300004
+      lng: 19.729826074000073
+- slug: drzewica
+  name: Drzewica
+  type: town
+  voivodeship: lodzkie
+  lat: 51.4541
+  lon: 20.41903
+  lands:
+    rownina_radomska: 52.8515
+    garb_gielniowski: 47.0086
+    wzgorza_opoczynskie: 0.1399
+  boundary:
+    southWest:
+      lat: 51.39669105400003
+      lng: 20.318225575000042
+    northEast:
+      lat: 51.50978582400006
+      lng: 20.53278616800003
+- slug: pabianice
+  name: Pabianice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.66623
+  lon: 19.36
+  lands:
+    wysoczyzna_laska: 48.587
+    wzniesienia_lodzkie: 35.7738
+    wysoczyzna_belchatowska: 15.6392
+  boundary:
+    southWest:
+      lat: 51.63228122100003
+      lng: 19.282119674000057
+    northEast:
+      lat: 51.69920100600007
+      lng: 19.435475316000066
+- slug: strzelce_wielkie
+  name: Strzelce Wielkie
+  type: town
+  voivodeship: lodzkie
+  lat: 51.13523
+  lon: 19.17502
+  lands:
+    wysoczyzna_belchatowska: 82.5649
+    niecka_przyrowska: 17.4351
+  boundary:
+    southWest:
+      lat: 51.09225732300007
+      lng: 19.074284625000075
+    northEast:
+      lat: 51.17228307700003
+      lng: 19.280656934000035
+- slug: siemkowice
+  name: Siemkowice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.20957
+  lon: 18.86418
+  lands:
+    miedzyrzecze_pysznej_i_niecieczy: 64.4612
+    wysoczyzna_belchatowska: 35.5378
+    wyzyna_wielunska: 0.001
+  boundary:
+    southWest:
+      lat: 51.15097004900008
+      lng: 18.787646564000056
+    northEast:
+      lat: 51.270345030000044
+      lng: 18.955278230000033
+- slug: zadzim
+  name: Zadzim
+  type: town
+  voivodeship: lodzkie
+  lat: 51.78226
+  lon: 18.92999
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.720262423000065
+      lng: 18.76084359300006
+    northEast:
+      lat: 51.85163896500006
+      lng: 19.05596862300007
+- slug: regnow
+  name: Regnów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.73309
+  lon: 20.41298
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.69032802000004
+      lng: 20.322154993000026
+    northEast:
+      lat: 51.780737972000054
+      lng: 20.45582954400004
+- slug: blaszki
+  name: Błaszki
+  type: town
+  voivodeship: lodzkie
+  lat: 51.64351
+  lon: 18.44632
+  lands:
+    wysoczyzna_zloczewska: 56.9655
+    wysoczyzna_turecka: 40.3568
+    kotlina_grabowska: 2.6777
+  boundary:
+    southWest:
+      lat: 51.541561236000064
+      lng: 18.350028389000045
+    northEast:
+      lat: 51.74150532400006
+      lng: 18.551363320000064
+- slug: brzeznio
+  name: Brzeźnio
+  type: town
+  voivodeship: lodzkie
+  lat: 51.49707
+  lon: 18.6296
+  lands:
+    wysoczyzna_zloczewska: 100.0
+  boundary:
+    southWest:
+      lat: 51.42772983500004
+      lng: 18.503066988000057
+    northEast:
+      lat: 51.56451533200004
+      lng: 18.73833855600003
+- slug: warta
+  name: Warta
+  type: town
+  voivodeship: lodzkie
+  lat: 51.73083
+  lon: 18.66271
+  lands:
+    wysoczyzna_turecka: 46.7886
+    wysoczyzna_laska: 34.9452
+    kotlina_sieradzka: 14.8959
+  boundary:
+    southWest:
+      lat: 51.63339683000004
+      lng: 18.493121232000078
+    northEast:
+      lat: 51.83480760200007
+      lng: 18.841532210000025
+- slug: godzianow
+  name: Godzianów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.89422
+  lon: 20.04577
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.85002222600008
+      lng: 19.982372932000033
+    northEast:
+      lat: 51.93340147200007
+      lng: 20.10538370000006
+- slug: slupia
+  name: Słupia
+  type: town
+  voivodeship: lodzkie
+  lat: 51.85601
+  lon: 19.96799
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.826763725000035
+      lng: 19.87591314900004
+    northEast:
+      lat: 51.893484897000064
+      lng: 20.04571360600005
+- slug: budziszewice
+  name: Budziszewice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.6922
+  lon: 19.95602
+  lands:
+    rownina_piotrkowska: 55.3541
+    wzniesienia_lodzkie: 44.6459
+  boundary:
+    southWest:
+      lat: 51.65453645800005
+      lng: 19.91288657000007
+    northEast:
+      lat: 51.72815112500007
+      lng: 20.068054517000064
+- slug: rokiciny
+  name: Rokiciny
+  type: town
+  voivodeship: lodzkie
+  lat: 51.6501
+  lon: 19.79536
+  lands:
+    rownina_piotrkowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.59348199600004
+      lng: 19.720768788000044
+    northEast:
+      lat: 51.71023667600008
+      lng: 19.88116423500003
+- slug: tomaszow_mazowiecki
+  name: Tomaszów Mazowiecki
+  type: town
+  voivodeship: lodzkie
+  lat: 51.50269
+  lon: 20.07873
+  lands:
+    wzgorza_opoczynskie: 45.421
+    rownina_piotrkowska: 44.7202
+    dolina_bialobrzeska: 9.8588
+  boundary:
+    southWest:
+      lat: 51.424249469000074
+      lng: 19.863610218000076
+    northEast:
+      lat: 51.591402886000026
+      lng: 20.16526254100006
+- slug: skierniewice
+  name: Skierniewice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.9321
+  lon: 20.20858
+  lands:
+    wzniesienia_lodzkie: 63.6994
+    rownina_lowickoblonska: 36.3006
+  boundary:
+    southWest:
+      lat: 51.83994985000004
+      lng: 20.051516099000025
+    northEast:
+      lat: 52.02332531300004
+      lng: 20.29402840700004
+- slug: rawa_mazowiecka
+  name: Rawa Mazowiecka
+  type: town
+  voivodeship: lodzkie
+  lat: 51.76639
+  lon: 20.25372
+  lands:
+    wysoczyzna_rawska: 74.0996
+    wzniesienia_lodzkie: 25.9004
+  boundary:
+    southWest:
+      lat: 51.74609663200005
+      lng: 20.211425543000075
+    northEast:
+      lat: 51.78475525200008
+      lng: 20.288057108000032
+- slug: lodz
+  name: Łódź
+  type: town
+  voivodeship: lodzkie
+  lat: 51.7731
+  lon: 19.47713
+  lands:
+    wzniesienia_lodzkie: 59.5384
+    wysoczyzna_laska: 40.4616
+  boundary:
+    southWest:
+      lat: 51.68660488000006
+      lng: 19.334909854000045
+    northEast:
+      lat: 51.85991928700008
+      lng: 19.639943020000032
+- slug: cieladz
+  name: Cielądz
+  type: town
+  voivodeship: lodzkie
+  lat: 51.6954
+  lon: 20.3561
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.63308194200005
+      lng: 20.264582200000063
+    northEast:
+      lat: 51.76445240100003
+      lng: 20.441777409000053
+- slug: skomlin
+  name: Skomlin
+  type: town
+  voivodeship: lodzkie
+  lat: 51.17283
+  lon: 18.38799
+  lands:
+    wysoczyzna_wieruszowska: 80.7182
+    wysoczyzna_zloczewska: 17.7515
+    wyzyna_wielunska: 1.5303
+  boundary:
+    southWest:
+      lat: 51.11423307600006
+      lng: 18.347485822000067
+    northEast:
+      lat: 51.22450056000008
+      lng: 18.441640000000064
+- slug: wierzchlas
+  name: Wierzchlas
+  type: town
+  voivodeship: lodzkie
+  lat: 51.16827
+  lon: 18.71274
+  lands:
+    wyzyna_wielunska: 78.8708
+    miedzyrzecze_pysznej_i_niecieczy: 20.5725
+    wysoczyzna_zloczewska: 0.5567
+  boundary:
+    southWest:
+      lat: 51.10393236500005
+      lng: 18.634696098000063
+    northEast:
+      lat: 51.23144749700003
+      lng: 18.83387299700007
+- slug: lubnice
+  name: Łubnice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.17853
+  lon: 18.27885
+  lands:
+    wysoczyzna_wieruszowska: 91.4629
+    wysoczyzna_zloczewska: 8.5371
+  boundary:
+    southWest:
+      lat: 51.133954164000045
+      lng: 18.20296618800006
+    northEast:
+      lat: 51.21119029000005
+      lng: 18.361714176000078
+- slug: kluki
+  name: Kluki
+  type: town
+  voivodeship: lodzkie
+  lat: 51.35044
+  lon: 19.22263
+  lands:
+    kotlina_szczercowska: 77.5111
+    wysoczyzna_belchatowska: 20.6661
+    wysoczyzna_laska: 1.8227
+  boundary:
+    southWest:
+      lat: 51.27497213700008
+      lng: 19.154757907000032
+    northEast:
+      lat: 51.42099204400006
+      lng: 19.324706826000067
+- slug: nowe_ostrowy
+  name: Nowe Ostrowy
+  type: town
+  voivodeship: lodzkie
+  lat: 52.30452
+  lon: 19.19137
+  lands:
+    wysoczyzna_klodawska: 87.4004
+    pojezierze_kujawskie: 12.5996
+  boundary:
+    southWest:
+      lat: 52.26108404400003
+      lng: 19.124583022000024
+    northEast:
+      lat: 52.35125464300006
+      lng: 19.301479362000066
+- slug: kutno
+  name: Kutno
+  type: town
+  voivodeship: lodzkie
+  lat: 52.21624
+  lon: 19.30202
+  lands:
+    wysoczyzna_klodawska: 57.4429
+    rownina_kutnowska: 35.44
+    rownina_lowickoblonska: 7.1171
+  boundary:
+    southWest:
+      lat: 52.13237223700003
+      lng: 19.201717785000028
+    northEast:
+      lat: 52.296739967000065
+      lng: 19.45739817300006
+- slug: swinice_warckie
+  name: Świnice Warckie
+  type: town
+  voivodeship: lodzkie
+  lat: 52.04561
+  lon: 18.9461
+  lands:
+    kotlina_kolska: 100.0
+  boundary:
+    southWest:
+      lat: 52.001499495000076
+      lng: 18.827808729000026
+    northEast:
+      lat: 52.08624069600006
+      lng: 19.041613119000033
+- slug: domaniewice
+  name: Domaniewice
+  type: town
+  voivodeship: lodzkie
+  lat: 52.03385
+  lon: 19.80906
+  lands:
+    rownina_lowickoblonska: 67.1744
+    wzniesienia_lodzkie: 32.8256
+  boundary:
+    southWest:
+      lat: 51.97445522400005
+      lng: 19.719530553000027
+    northEast:
+      lat: 52.08385568500006
+      lng: 19.889866919000042
+- slug: lyszkowice
+  name: Łyszkowice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.9791
+  lon: 19.89306
+  lands:
+    wzniesienia_lodzkie: 70.5153
+    rownina_lowickoblonska: 29.4847
+  boundary:
+    southWest:
+      lat: 51.90945542000003
+      lng: 19.831911665000064
+    northEast:
+      lat: 52.05206099900005
+      lng: 20.061661853000032
+- slug: nowosolna
+  name: Nowosolna
+  type: town
+  voivodeship: lodzkie
+  lat: 51.8056
+  lon: 19.64581
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.754665223000075
+      lng: 19.547179008000057
+    northEast:
+      lat: 51.85826882900005
+      lng: 19.68000736700003
+- slug: dobron
+  name: Dobroń
+  type: town
+  voivodeship: lodzkie
+  lat: 51.61802
+  lon: 19.26615
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.553400011000065
+      lng: 19.147824843000024
+    northEast:
+      lat: 51.684064282000065
+      lng: 19.32675439700006
+- slug: dlutow
+  name: Dłutów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.56514
+  lon: 19.37676
+  lands:
+    wysoczyzna_belchatowska: 66.0066
+    wysoczyzna_laska: 33.9934
+  boundary:
+    southWest:
+      lat: 51.523287432000075
+      lng: 19.275166454000043
+    northEast:
+      lat: 51.60843475000007
+      lng: 19.476161395000076
+- slug: dalikow
+  name: Dalików
+  type: town
+  voivodeship: lodzkie
+  lat: 51.89347
+  lon: 19.11328
+  lands:
+    wysoczyzna_laska: 99.9252
+    kotlina_kolska: 0.0748
+  boundary:
+    southWest:
+      lat: 51.81913702400004
+      lng: 19.019550921000075
+    northEast:
+      lat: 51.958185368000045
+      lng: 19.19120324000005
+- slug: przedborz
+  name: Przedbórz
+  type: town
+  voivodeship: lodzkie
+  lat: 51.08123
+  lon: 19.92138
+  lands:
+    wzgorza_opoczynskie: 34.6408
+    wzgorza_lopuszanskie: 28.539
+    pasmo_przedborskomalogoskie: 25.141
+  boundary:
+    southWest:
+      lat: 50.96228053400006
+      lng: 19.851842075000036
+    northEast:
+      lat: 51.20182292900006
+      lng: 20.051565018000076
+- slug: klonowa
+  name: Klonowa
+  type: town
+  voivodeship: lodzkie
+  lat: 51.43269
+  lon: 18.42639
+  lands:
+    kotlina_grabowska: 56.8387
+    wysoczyzna_zloczewska: 43.1613
+  boundary:
+    southWest:
+      lat: 51.390585775000034
+      lng: 18.326309579000053
+    northEast:
+      lat: 51.47685744000006
+      lng: 18.54109206000004
+- slug: wroblew
+  name: Wróblew
+  type: town
+  voivodeship: lodzkie
+  lat: 51.60111
+  lon: 18.58392
+  lands:
+    wysoczyzna_zloczewska: 96.9906
+    wysoczyzna_turecka: 3.0094
+  boundary:
+    southWest:
+      lat: 51.53393152900003
+      lng: 18.500522095000065
+    northEast:
+      lat: 51.66545227600005
+      lng: 18.67729144200007
+- slug: bedkow
+  name: Będków
+  type: town
+  voivodeship: lodzkie
+  lat: 51.58376
+  lon: 19.77521
+  lands:
+    rownina_piotrkowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.532043341000076
+      lng: 19.708260636000034
+    northEast:
+      lat: 51.63490143800004
+      lng: 19.84165734000004
+- slug: rzeczyca
+  name: Rzeczyca
+  type: town
+  voivodeship: lodzkie
+  lat: 51.60598
+  lon: 20.3349
+  lands:
+    rownina_piotrkowska: 64.8609
+    wysoczyzna_rawska: 20.8617
+    dolina_bialobrzeska: 14.2774
+  boundary:
+    southWest:
+      lat: 51.55274765100006
+      lng: 20.197377627000037
+    northEast:
+      lat: 51.66004745100008
+      lng: 20.424890366000056
+- slug: konopnica
+  name: Konopnica
+  type: town
+  voivodeship: lodzkie
+  lat: 51.35924
+  lon: 18.81013
+  lands:
+    miedzyrzecze_pysznej_i_niecieczy: 95.4591
+    kotlina_szczercowska: 4.2197
+    wysoczyzna_zloczewska: 0.3212
+  boundary:
+    southWest:
+      lat: 51.311646488000065
+      lng: 18.705896626000026
+    northEast:
+      lat: 51.410541788000046
+      lng: 18.897436964000065
+- slug: pabianice
+  name: Pabianice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.69163
+  lon: 19.27554
+  lands:
+    wysoczyzna_laska: 99.919
+    wzniesienia_lodzkie: 0.081
+  boundary:
+    southWest:
+      lat: 51.58765210200005
+      lng: 19.186612178000075
+    northEast:
+      lat: 51.733150557000045
+      lng: 19.449159916000042
+- slug: boleslawiec
+  name: Bolesławiec
+  type: town
+  voivodeship: lodzkie
+  lat: 51.20891
+  lon: 18.21347
+  lands:
+    wysoczyzna_wieruszowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.15452883100005
+      lng: 18.162211195000054
+    northEast:
+      lat: 51.26173073600006
+      lng: 18.293410064000057
+- slug: wieruszow
+  name: Wieruszów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.3199
+  lon: 18.1507
+  lands:
+    kotlina_grabowska: 50.4531
+    wysoczyzna_wieruszowska: 49.5469
+  boundary:
+    southWest:
+      lat: 51.25556794400006
+      lng: 18.074521495000056
+    northEast:
+      lat: 51.391401432000066
+      lng: 18.252195476000054
+- slug: zgierz
+  name: Zgierz
+  type: town
+  voivodeship: lodzkie
+  lat: 51.85559
+  lon: 19.39339
+  lands:
+    wysoczyzna_laska: 81.8103
+    wzniesienia_lodzkie: 18.1897
+  boundary:
+    southWest:
+      lat: 51.82844630300008
+      lng: 19.334449342000028
+    northEast:
+      lat: 51.88572859900006
+      lng: 19.455946985000026
+- slug: ozorkow
+  name: Ozorków
+  type: town
+  voivodeship: lodzkie
+  lat: 51.98575
+  lon: 19.29336
+  lands:
+    wysoczyzna_laska: 55.1254
+    rownina_lowickoblonska: 44.8746
+  boundary:
+    southWest:
+      lat: 51.93454344200006
+      lng: 19.172725110000044
+    northEast:
+      lat: 52.036402114000055
+      lng: 19.416995447000033
+- slug: zgierz
+  name: Zgierz
+  type: town
+  voivodeship: lodzkie
+  lat: 51.93072
+  lon: 19.41882
+  lands:
+    wysoczyzna_laska: 48.5694
+    rownina_lowickoblonska: 27.4126
+    wzniesienia_lodzkie: 24.018
+  boundary:
+    southWest:
+      lat: 51.848681449000026
+      lng: 19.235464242000035
+    northEast:
+      lat: 52.01775989500004
+      lng: 19.534004061000076
+- slug: jezow
+  name: Jeżów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.78706
+  lon: 19.93864
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.73144344900004
+      lng: 19.87529909500006
+    northEast:
+      lat: 51.84739725500003
+      lng: 20.016240097000036
+- slug: kleszczow
+  name: Kleszczów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.24167
+  lon: 19.28534
+  lands:
+    wysoczyzna_belchatowska: 70.4889
+    kotlina_szczercowska: 29.5111
+  boundary:
+    southWest:
+      lat: 51.18192312800005
+      lng: 19.179847463000044
+    northEast:
+      lat: 51.29940933300003
+      lng: 19.406735621000053
+- slug: zelow
+  name: Zelów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.47246
+  lon: 19.21855
+  lands:
+    wysoczyzna_laska: 88.3259
+    kotlina_szczercowska: 8.8045
+    wysoczyzna_belchatowska: 2.8697
+  boundary:
+    southWest:
+      lat: 51.39163976200007
+      lng: 19.05601613500005
+    northEast:
+      lat: 51.55517633000005
+      lng: 19.335778511000058
+- slug: daszyna
+  name: Daszyna
+  type: town
+  voivodeship: lodzkie
+  lat: 52.15892
+  lon: 19.15844
+  lands:
+    wysoczyzna_klodawska: 67.8949
+    rownina_lowickoblonska: 24.6765
+    kotlina_kolska: 7.4286
+  boundary:
+    southWest:
+      lat: 52.10063631100007
+      lng: 19.061373789000072
+    northEast:
+      lat: 52.20614030400003
+      lng: 19.227253776000055
+- slug: chasno
+  name: Chąśno
+  type: town
+  voivodeship: lodzkie
+  lat: 52.18769
+  lon: 19.91464
+  lands:
+    rownina_kutnowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.137107653000044
+      lng: 19.83569665400006
+    northEast:
+      lat: 52.23349116800006
+      lng: 19.98616479900005
+- slug: lowicz
+  name: Łowicz
+  type: town
+  voivodeship: lodzkie
+  lat: 52.10744
+  lon: 19.84942
+  lands:
+    rownina_lowickoblonska: 84.8709
+    rownina_kutnowska: 15.1291
+  boundary:
+    southWest:
+      lat: 52.03311503400005
+      lng: 19.76014312700005
+    northEast:
+      lat: 52.17569402400005
+      lng: 20.04579620900006
+- slug: bialaczow
+  name: Białaczów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.29208
+  lon: 20.30825
+  lands:
+    wzgorza_opoczynskie: 93.4399
+    garb_gielniowski: 6.5601
+  boundary:
+    southWest:
+      lat: 51.236632075000045
+      lng: 20.185537897000074
+    northEast:
+      lat: 51.34817550400004
+      lng: 20.409705011000028
+- slug: ksawerow
+  name: Ksawerów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.67188
+  lon: 19.41055
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.65238388900008
+      lng: 19.372075288000076
+    northEast:
+      lat: 51.69740949800007
+      lng: 19.435475316000066
+- slug: wolborz
+  name: Wolbórz
+  type: town
+  voivodeship: lodzkie
+  lat: 51.50133
+  lon: 19.83627
+  lands:
+    rownina_piotrkowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.414134680000075
+      lng: 19.721684615000072
+    northEast:
+      lat: 51.57895928900007
+      lng: 19.95968949400003
+- slug: aleksandrow
+  name: Aleksandrów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.26728
+  lon: 19.98587
+  lands:
+    wzgorza_opoczynskie: 91.0614
+    rownina_piotrkowska: 5.9767
+    wzgorza_radomszczanskie: 2.9619
+  boundary:
+    southWest:
+      lat: 51.18016285900006
+      lng: 19.892757896000035
+    northEast:
+      lat: 51.358061888000066
+      lng: 20.063822119000065
+- slug: kodrab
+  name: Kodrąb
+  type: town
+  voivodeship: lodzkie
+  lat: 51.09975
+  lon: 19.61667
+  lands:
+    wzgorza_radomszczanskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.043363932000034
+      lng: 19.514759954000056
+    northEast:
+      lat: 51.15782012400007
+      lng: 19.707791326000063
+- slug: zytno
+  name: Żytno
+  type: town
+  voivodeship: lodzkie
+  lat: 50.9235
+  lon: 19.70606
+  lands:
+    niecka_wloszczowska: 61.2043
+    wzgorza_radomszczanskie: 28.085
+    niecka_przyrowska: 10.7107
+  boundary:
+    southWest:
+      lat: 50.843277398000055
+      lng: 19.56431227300004
+    northEast:
+      lat: 50.99075338500006
+      lng: 19.84553591100007
+- slug: sieradz
+  name: Sieradz
+  type: town
+  voivodeship: lodzkie
+  lat: 51.60321
+  lon: 18.73892
+  lands:
+    wysoczyzna_zloczewska: 50.3405
+    kotlina_sieradzka: 30.6065
+    wysoczyzna_laska: 19.053
+  boundary:
+    southWest:
+      lat: 51.563201623000054
+      lng: 18.652345272000048
+    northEast:
+      lat: 51.637232684000026
+      lng: 18.82493054100007
+- slug: lipce_reymontowskie
+  name: Lipce Reymontowskie
+  type: town
+  voivodeship: lodzkie
+  lat: 51.90215
+  lon: 19.9375
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.87445639400005
+      lng: 19.86853169500006
+    northEast:
+      lat: 51.93741484100008
+      lng: 20.005781315000036
+- slug: czarnozyly
+  name: Czarnożyły
+  type: town
+  voivodeship: lodzkie
+  lat: 51.29232
+  lon: 18.56101
+  lands:
+    wysoczyzna_zloczewska: 94.6532
+    miedzyrzecze_pysznej_i_niecieczy: 5.3468
+  boundary:
+    southWest:
+      lat: 51.24273622100003
+      lng: 18.47978964300006
+    northEast:
+      lat: 51.33663970300006
+      lng: 18.643856437000068
+- slug: nieborow
+  name: Nieborów
+  type: town
+  voivodeship: lodzkie
+  lat: 52.07443
+  lon: 20.04596
+  lands:
+    rownina_lowickoblonska: 90.959
+    rownina_kutnowska: 7.1743
+    wzniesienia_lodzkie: 1.8667
+  boundary:
+    southWest:
+      lat: 52.00380294300004
+      lng: 19.977567443000055
+    northEast:
+      lat: 52.15262695700005
+      lng: 20.126789255000062
+- slug: bolimow
+  name: Bolimów
+  type: town
+  voivodeship: lodzkie
+  lat: 52.08142
+  lon: 20.18186
+  lands:
+    rownina_lowickoblonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.01633459900006
+      lng: 20.09277835000006
+    northEast:
+      lat: 52.150627996000026
+      lng: 20.26987404700003
+- slug: aleksandrow_lodzki
+  name: Aleksandrów Łódzki
+  type: town
+  voivodeship: lodzkie
+  lat: 51.83177
+  lon: 19.24351
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.77121836800006
+      lng: 19.13855667400003
+    northEast:
+      lat: 51.884087098000066
+      lng: 19.357273227000064
+- slug: brzeziny
+  name: Brzeziny
+  type: town
+  voivodeship: lodzkie
+  lat: 51.80398
+  lon: 19.74516
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.77693777700006
+      lng: 19.709140853000065
+    northEast:
+      lat: 51.82426943200005
+      lng: 19.78581863900007
+- slug: brzeziny
+  name: Brzeziny
+  type: town
+  voivodeship: lodzkie
+  lat: 51.81342
+  lon: 19.75006
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.73800362700007
+      lng: 19.64451306500007
+    northEast:
+      lat: 51.89737239500005
+      lng: 19.834902485000043
+- slug: piotrkow_trybunalski
+  name: Piotrków Trybunalski
+  type: town
+  voivodeship: lodzkie
+  lat: 51.41314
+  lon: 19.6891
+  lands:
+    rownina_piotrkowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.37494060700004
+      lng: 19.627150011000026
+    northEast:
+      lat: 51.45293598000006
+      lng: 19.809689409000043
+- slug: lowicz
+  name: Łowicz
+  type: town
+  voivodeship: lodzkie
+  lat: 52.09628
+  lon: 19.93951
+  lands:
+    rownina_lowickoblonska: 72.2442
+    rownina_kutnowska: 27.7558
+  boundary:
+    southWest:
+      lat: 52.06637168600008
+      lng: 19.901058868000064
+    northEast:
+      lat: 52.13720072900003
+      lng: 19.988017180000043
+- slug: bielawy
+  name: Bielawy
+  type: town
+  voivodeship: lodzkie
+  lat: 52.06882
+  lon: 19.65055
+  lands:
+    rownina_lowickoblonska: 89.251
+    rownina_kutnowska: 10.749
+  boundary:
+    southWest:
+      lat: 52.019215503000055
+      lng: 19.524134649000075
+    northEast:
+      lat: 52.14493880500004
+      lng: 19.769983873000058
+- slug: zduny
+  name: Zduny
+  type: town
+  voivodeship: lodzkie
+  lat: 52.16821
+  lon: 19.76922
+  lands:
+    rownina_kutnowska: 91.2897
+    rownina_lowickoblonska: 8.7103
+  boundary:
+    southWest:
+      lat: 52.09234240500007
+      lng: 19.688938601000075
+    northEast:
+      lat: 52.24147418700005
+      lng: 19.88199136000003
+- slug: gorzkowice
+  name: Gorzkowice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.20578
+  lon: 19.61878
+  lands:
+    wzgorza_radomszczanskie: 69.2749
+    wysoczyzna_belchatowska: 26.0284
+    rownina_piotrkowska: 4.6966
+  boundary:
+    southWest:
+      lat: 51.149028473000044
+      lng: 19.537675152000077
+    northEast:
+      lat: 51.26221418000006
+      lng: 19.698224009000057
+- slug: leki_szlacheckie
+  name: Łęki Szlacheckie
+  type: town
+  voivodeship: lodzkie
+  lat: 51.19768
+  lon: 19.76261
+  lands:
+    wzgorza_radomszczanskie: 97.8865
+    rownina_piotrkowska: 2.1135
+  boundary:
+    southWest:
+      lat: 51.13844759400007
+      lng: 19.678046314000028
+    northEast:
+      lat: 51.26527335600008
+      lng: 19.84920190500003
+- slug: grabica
+  name: Grabica
+  type: town
+  voivodeship: lodzkie
+  lat: 51.47657
+  lon: 19.54219
+  lands:
+    wysoczyzna_belchatowska: 81.6416
+    rownina_piotrkowska: 18.3584
+  boundary:
+    southWest:
+      lat: 51.414005013000065
+      lng: 19.414274900000066
+    northEast:
+      lat: 51.54260829400005
+      lng: 19.668673631000047
+- slug: wola_krzysztoporska
+  name: Wola Krzysztoporska
+  type: town
+  voivodeship: lodzkie
+  lat: 51.34734
+  lon: 19.57842
+  lands:
+    wysoczyzna_belchatowska: 86.6497
+    rownina_piotrkowska: 13.3503
+  boundary:
+    southWest:
+      lat: 51.26573545400004
+      lng: 19.459858264000047
+    northEast:
+      lat: 51.43732143200003
+      lng: 19.67361956600007
+- slug: wartkowice
+  name: Wartkowice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.97137
+  lon: 18.99629
+  lands:
+    kotlina_kolska: 86.3238
+    wysoczyzna_laska: 13.6762
+  boundary:
+    southWest:
+      lat: 51.923926797000036
+      lng: 18.840782528000034
+    northEast:
+      lat: 52.02530544800004
+      lng: 19.151708991000078
+- slug: uniejow
+  name: Uniejów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.99873
+  lon: 18.79804
+  lands:
+    kotlina_kolska: 100.0
+  boundary:
+    southWest:
+      lat: 51.92524880800005
+      lng: 18.71496219100004
+    northEast:
+      lat: 52.076454288000036
+      lng: 18.885790341000074
+- slug: peczniew
+  name: Pęczniew
+  type: town
+  voivodeship: lodzkie
+  lat: 51.8158
+  lon: 18.73759
+  lands:
+    wysoczyzna_laska: 76.3178
+    kotlina_sieradzka: 23.6822
+  boundary:
+    southWest:
+      lat: 51.73473748400005
+      lng: 18.654297366000037
+    northEast:
+      lat: 51.89897978600004
+      lng: 18.85402230400007
+- slug: wielgomlyny
+  name: Wielgomłyny
+  type: town
+  voivodeship: lodzkie
+  lat: 50.99978
+  lon: 19.77329
+  lands:
+    wzgorza_radomszczanskie: 95.8909
+    niecka_wloszczowska: 4.1091
+  boundary:
+    southWest:
+      lat: 50.942125643000054
+      lng: 19.684274470000048
+    northEast:
+      lat: 51.06600859000008
+      lng: 19.872652639000023
+- slug: biala_rawska
+  name: Biała Rawska
+  type: town
+  voivodeship: lodzkie
+  lat: 51.81854
+  lon: 20.44644
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.74229047500006
+      lng: 20.316926597000077
+    northEast:
+      lat: 51.89235080200007
+      lng: 20.607749632000036
+- slug: burzenin
+  name: Burzenin
+  type: town
+  voivodeship: lodzkie
+  lat: 51.43548
+  lon: 18.75967
+  lands:
+    wysoczyzna_zloczewska: 71.8472
+    kotlina_szczercowska: 15.495
+    miedzyrzecze_pysznej_i_niecieczy: 12.6577
+  boundary:
+    southWest:
+      lat: 51.35735370400005
+      lng: 18.675346064000053
+    northEast:
+      lat: 51.516392300000064
+      lng: 18.869063597000036
+- slug: sieradz
+  name: Sieradz
+  type: town
+  voivodeship: lodzkie
+  lat: 51.58461
+  lon: 18.82375
+  lands:
+    wysoczyzna_zloczewska: 38.4861
+    kotlina_sieradzka: 36.0721
+    wysoczyzna_laska: 23.0086
+  boundary:
+    southWest:
+      lat: 51.49569961800006
+      lng: 18.637571914000034
+    northEast:
+      lat: 51.67376597400005
+      lng: 18.879792836000036
+- slug: makow
+  name: Maków
+  type: town
+  voivodeship: lodzkie
+  lat: 51.95086
+  lon: 20.01202
+  lands:
+    wzniesienia_lodzkie: 100.0
+  boundary:
+    southWest:
+      lat: 51.90655741100005
+      lng: 19.906870311000034
+    northEast:
+      lat: 51.99594698900006
+      lng: 20.112983419000045
+- slug: zelechlinek
+  name: Żelechlinek
+  type: town
+  voivodeship: lodzkie
+  lat: 51.7142
+  lon: 20.06803
+  lands:
+    wzniesienia_lodzkie: 99.6239
+    rownina_piotrkowska: 0.3761
+  boundary:
+    southWest:
+      lat: 51.65653502200007
+      lng: 19.963758030000065
+    northEast:
+      lat: 51.77346802300008
+      lng: 20.150770976000047
+- slug: tomaszow_mazowiecki
+  name: Tomaszów Mazowiecki
+  type: town
+  voivodeship: lodzkie
+  lat: 51.51733
+  lon: 20.02924
+  lands:
+    rownina_piotrkowska: 58.5219
+    dolina_bialobrzeska: 33.9383
+    wzgorza_opoczynskie: 7.5399
+  boundary:
+    southWest:
+      lat: 51.480158361000065
+      lng: 19.965138504000038
+    northEast:
+      lat: 51.559621581000044
+      lng: 20.08669621000007
+- slug: ujazd
+  name: Ujazd
+  type: town
+  voivodeship: lodzkie
+  lat: 51.60617
+  lon: 19.91783
+  lands:
+    rownina_piotrkowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.54446827100003
+      lng: 19.82208601700006
+    northEast:
+      lat: 51.66444072200005
+      lng: 19.994696243000078
+- slug: sulejow
+  name: Sulejów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.346
+  lon: 19.83974
+  lands:
+    rownina_piotrkowska: 93.8678
+    wzgorza_opoczynskie: 6.1322
+  boundary:
+    southWest:
+      lat: 51.26344404000008
+      lng: 19.696421963000034
+    northEast:
+      lat: 51.43745083500005
+      lng: 19.92630786600006
+- slug: szadek
+  name: Szadek
+  type: town
+  voivodeship: lodzkie
+  lat: 51.71541
+  lon: 18.96234
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.65244554700007
+      lng: 18.80647293800007
+    northEast:
+      lat: 51.77340100100008
+      lng: 19.10789703100005
+- slug: dmosin
+  name: Dmosin
+  type: town
+  voivodeship: lodzkie
+  lat: 51.89256
+  lon: 19.803
+  lands:
+    wzniesienia_lodzkie: 99.9112
+    rownina_lowickoblonska: 0.0888
+  boundary:
+    southWest:
+      lat: 51.83402948100007
+      lng: 19.67678840800005
+    northEast:
+      lat: 51.95198084900005
+      lng: 19.873409722000076
+- slug: druzbice
+  name: Drużbice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.46499
+  lon: 19.39861
+  lands:
+    wysoczyzna_belchatowska: 67.7423
+    wysoczyzna_laska: 32.2577
+  boundary:
+    southWest:
+      lat: 51.40161810500007
+      lng: 19.31375196600004
+    northEast:
+      lat: 51.52950073400007
+      lng: 19.490630010000075
+- slug: belchatow
+  name: Bełchatów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.33399
+  lon: 19.38023
+  lands:
+    wysoczyzna_belchatowska: 94.4936
+    kotlina_szczercowska: 3.4347
+    wysoczyzna_laska: 2.0716
+  boundary:
+    southWest:
+      lat: 51.236456075000035
+      lng: 19.245678762000068
+    northEast:
+      lat: 51.43784751100003
+      lng: 19.500041579000026
+- slug: gora_swietej_malgorzaty
+  name: Góra Świętej Małgorzaty
+  type: town
+  voivodeship: lodzkie
+  lat: 52.06299
+  lon: 19.31146
+  lands:
+    rownina_lowickoblonska: 100.0
+  boundary:
+    southWest:
+      lat: 52.020602170000075
+      lng: 19.21587444900007
+    northEast:
+      lat: 52.11344141300003
+      lng: 19.419555380000077
+- slug: leczyca
+  name: Łęczyca
+  type: town
+  voivodeship: lodzkie
+  lat: 52.06555
+  lon: 19.10733
+  lands:
+    kotlina_kolska: 65.9204
+    rownina_lowickoblonska: 34.0796
+  boundary:
+    southWest:
+      lat: 52.000532243000066
+      lng: 19.03112131200004
+    northEast:
+      lat: 52.12867813100007
+      lng: 19.272341657000027
+- slug: kiernozia
+  name: Kiernozia
+  type: town
+  voivodeship: lodzkie
+  lat: 52.27023
+  lon: 19.87478
+  lands:
+    rownina_kutnowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.22749401800007
+      lng: 19.736056603000065
+    northEast:
+      lat: 52.30979642200003
+      lng: 19.965134720000037
+- slug: tuszyn
+  name: Tuszyn
+  type: town
+  voivodeship: lodzkie
+  lat: 51.57531
+  lon: 19.53145
+  lands:
+    wysoczyzna_belchatowska: 95.7818
+    wzniesienia_lodzkie: 3.313
+    rownina_piotrkowska: 0.9052
+  boundary:
+    southWest:
+      lat: 51.508012233000045
+      lng: 19.442878007000047
+    northEast:
+      lat: 51.645398499000066
+      lng: 19.622835258000066
+- slug: dzialoszyn
+  name: Działoszyn
+  type: town
+  voivodeship: lodzkie
+  lat: 51.11633
+  lon: 18.8545
+  lands:
+    wyzyna_wielunska: 83.3088
+    wysoczyzna_belchatowska: 16.052
+    miedzyrzecze_pysznej_i_niecieczy: 0.6392
+  boundary:
+    southWest:
+      lat: 51.05897973700007
+      lng: 18.73998289000002
+    northEast:
+      lat: 51.169831430000045
+      lng: 18.96149301500003
+- slug: dobryszyce
+  name: Dobryszyce
+  type: town
+  voivodeship: lodzkie
+  lat: 51.14102
+  lon: 19.4227
+  lands:
+    wzgorza_radomszczanskie: 53.3851
+    wysoczyzna_belchatowska: 46.6149
+  boundary:
+    southWest:
+      lat: 51.10453525300005
+      lng: 19.35505838100005
+    northEast:
+      lat: 51.200652458000036
+      lng: 19.478651983000077
+- slug: maslowice
+  name: Masłowice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.11986
+  lon: 19.7725
+  lands:
+    wzgorza_radomszczanskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.047645301000045
+      lng: 19.655932750000034
+    northEast:
+      lat: 51.18953178600003
+      lng: 19.87899688300007
+- slug: kobiele_wielkie
+  name: Kobiele Wielkie
+  type: town
+  voivodeship: lodzkie
+  lat: 51.02488
+  lon: 19.60668
+  lands:
+    wzgorza_radomszczanskie: 94.2489
+    niecka_przyrowska: 5.7511
+  boundary:
+    southWest:
+      lat: 50.97471395300005
+      lng: 19.49238856000005
+    northEast:
+      lat: 51.08193984800005
+      lng: 19.721025688000054
+- slug: kamiensk
+  name: Kamieńsk
+  type: town
+  voivodeship: lodzkie
+  lat: 51.2348
+  lon: 19.4709
+  lands:
+    wysoczyzna_belchatowska: 90.722
+    wzgorza_radomszczanskie: 9.278
+  boundary:
+    southWest:
+      lat: 51.16734488900005
+      lng: 19.397846104000052
+    northEast:
+      lat: 51.28607180200004
+      lng: 19.557056143000068
+- slug: zloczew
+  name: Złoczew
+  type: town
+  voivodeship: lodzkie
+  lat: 51.41564
+  lon: 18.60973
+  lands:
+    wysoczyzna_zloczewska: 92.4897
+    miedzyrzecze_pysznej_i_niecieczy: 7.5103
+  boundary:
+    southWest:
+      lat: 51.35199084900006
+      lng: 18.49997803800005
+    northEast:
+      lat: 51.47820311400005
+      lng: 18.734131408000053
+- slug: kowiesy
+  name: Kowiesy
+  type: town
+  voivodeship: lodzkie
+  lat: 51.89616
+  lon: 20.41369
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.849590489000036
+      lng: 20.31857657300003
+    northEast:
+      lat: 51.94198365300008
+      lng: 20.51883123500005
+- slug: nowy_kaweczyn
+  name: Nowy Kawęczyn
+  type: town
+  voivodeship: lodzkie
+  lat: 51.89454
+  lon: 20.26068
+  lands:
+    wzniesienia_lodzkie: 70.7488
+    wysoczyzna_rawska: 28.9024
+    rownina_lowickoblonska: 0.3488
+  boundary:
+    southWest:
+      lat: 51.83439410900007
+      lng: 20.15163043900003
+    northEast:
+      lat: 51.93858819400003
+      lng: 20.346008037000047
+- slug: patnow
+  name: Pątnów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.12388
+  lon: 18.62823
+  lands:
+    wyzyna_wielunska: 95.7779
+    obnizenie_krzepickie: 4.2221
+  boundary:
+    southWest:
+      lat: 51.054626066000026
+      lng: 18.537746559000027
+    northEast:
+      lat: 51.18523475400008
+      lng: 18.784410770000022
+- slug: skierniewice
+  name: Skierniewice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.95956
+  lon: 20.14778
+  lands:
+    wzniesienia_lodzkie: 88.1613
+    rownina_lowickoblonska: 11.8387
+  boundary:
+    southWest:
+      lat: 51.92717292900005
+      lng: 20.105230466000023
+    northEast:
+      lat: 51.98758613800004
+      lng: 20.22003120100004
+- slug: zdunska_wola
+  name: Zduńska Wola
+  type: town
+  voivodeship: lodzkie
+  lat: 51.59351
+  lon: 18.94926
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.56353558600006
+      lng: 18.905597138000076
+    northEast:
+      lat: 51.61564141800005
+      lng: 19.022328896000033
+- slug: ostrowek
+  name: Ostrówek
+  type: town
+  voivodeship: lodzkie
+  lat: 51.33245
+  lon: 18.6406
+  lands:
+    wysoczyzna_zloczewska: 64.353
+    miedzyrzecze_pysznej_i_niecieczy: 35.647
+  boundary:
+    southWest:
+      lat: 51.28457437800006
+      lng: 18.52595552500003
+    northEast:
+      lat: 51.38362501100005
+      lng: 18.757828036000035
+- slug: wielun
+  name: Wieluń
+  type: town
+  voivodeship: lodzkie
+  lat: 51.21925
+  lon: 18.54229
+  lands:
+    wysoczyzna_zloczewska: 35.1966
+    wyzyna_wielunska: 32.982
+    miedzyrzecze_pysznej_i_niecieczy: 28.0522
+  boundary:
+    southWest:
+      lat: 51.158190578000074
+      lng: 18.428179336000028
+    northEast:
+      lat: 51.28566613900006
+      lng: 18.72663917400007
+- slug: czastary
+  name: Czastary
+  type: town
+  voivodeship: lodzkie
+  lat: 51.24571
+  lon: 18.3141
+  lands:
+    wysoczyzna_wieruszowska: 35.7807
+    kotlina_grabowska: 35.1382
+    wysoczyzna_zloczewska: 29.0811
+  boundary:
+    southWest:
+      lat: 51.20552040200005
+      lng: 18.23325013400006
+    northEast:
+      lat: 51.29545908000006
+      lng: 18.379657902000076
+- slug: parzeczew
+  name: Parzęczew
+  type: town
+  voivodeship: lodzkie
+  lat: 51.94364
+  lon: 19.20557
+  lands:
+    wysoczyzna_laska: 94.7036
+    kotlina_kolska: 5.0738
+    rownina_lowickoblonska: 0.2225
+  boundary:
+    southWest:
+      lat: 51.87872440900003
+      lng: 19.121254591000024
+    northEast:
+      lat: 52.01248749500007
+      lng: 19.311273537000034
+- slug: ozorkow
+  name: Ozorków
+  type: town
+  voivodeship: lodzkie
+  lat: 51.96592
+  lon: 19.27852
+  lands:
+    wysoczyzna_laska: 94.3485
+    rownina_lowickoblonska: 5.6515
+  boundary:
+    southWest:
+      lat: 51.937490937000064
+      lng: 19.25241005500004
+    northEast:
+      lat: 51.981159665000064
+      lng: 19.339844205000077
+- slug: belchatow
+  name: Bełchatów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.35412
+  lon: 19.36117
+  lands:
+    wysoczyzna_belchatowska: 100.0
+  boundary:
+    southWest:
+      lat: 51.31581742900005
+      lng: 19.306525844000078
+    northEast:
+      lat: 51.391708943000026
+      lng: 19.41746988700004
+- slug: szczercow
+  name: Szczerców
+  type: town
+  voivodeship: lodzkie
+  lat: 51.32301
+  lon: 19.11156
+  lands:
+    kotlina_szczercowska: 99.6555
+    wysoczyzna_laska: 0.3445
+  boundary:
+    southWest:
+      lat: 51.23692794200008
+      lng: 19.047190542000067
+    northEast:
+      lat: 51.40521644000006
+      lng: 19.20487823600007
+- slug: krzyzanow
+  name: Krzyżanów
+  type: town
+  voivodeship: lodzkie
+  lat: 52.16935
+  lon: 19.44303
+  lands:
+    rownina_kutnowska: 54.8568
+    rownina_lowickoblonska: 45.1432
+  boundary:
+    southWest:
+      lat: 52.108711982000045
+      lng: 19.351546839000036
+    northEast:
+      lat: 52.23037220500004
+      lng: 19.531209426000032
+- slug: lask
+  name: Łask
+  type: town
+  voivodeship: lodzkie
+  lat: 51.62197
+  lon: 19.11299
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.54662132700008
+      lng: 19.00797410900003
+    northEast:
+      lat: 51.68891169800003
+      lng: 19.273409164000043
+- slug: leczyca
+  name: Łęczyca
+  type: town
+  voivodeship: lodzkie
+  lat: 52.05655
+  lon: 19.19901
+  lands:
+    rownina_lowickoblonska: 98.8779
+    kotlina_kolska: 1.1221
+  boundary:
+    southWest:
+      lat: 52.03803228900006
+      lng: 19.173714614000062
+    northEast:
+      lat: 52.068949426000074
+      lng: 19.22446825700007
+- slug: kocierzew_poludniowy
+  name: Kocierzew Południowy
+  type: town
+  voivodeship: lodzkie
+  lat: 52.20277
+  lon: 20.02465
+  lands:
+    rownina_kutnowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.14175123700005
+      lng: 19.939215991000026
+    northEast:
+      lat: 52.26830841000003
+      lng: 20.090903256000047
+- slug: zarnow
+  name: Żarnów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.24499
+  lon: 20.1444
+  lands:
+    wzgorza_opoczynskie: 100.0
+  boundary:
+    southWest:
+      lat: 51.18395425800003
+      lng: 19.99229004800003
+    northEast:
+      lat: 51.30634940400006
+      lng: 20.25599131900003
+- slug: sulmierzyce
+  name: Sulmierzyce
+  type: town
+  voivodeship: lodzkie
+  lat: 51.21168
+  lon: 19.19493
+  lands:
+    wysoczyzna_belchatowska: 78.9808
+    kotlina_szczercowska: 21.0192
+  boundary:
+    southWest:
+      lat: 51.158464466000055
+      lng: 19.068059981000033
+    northEast:
+      lat: 51.260368905000064
+      lng: 19.312515228000052
+- slug: kielczyglow
+  name: Kiełczygłów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.23513
+  lon: 18.97593
+  lands:
+    wysoczyzna_belchatowska: 40.3252
+    miedzyrzecze_pysznej_i_niecieczy: 31.9825
+    kotlina_szczercowska: 27.6923
+  boundary:
+    southWest:
+      lat: 51.17954577200004
+      lng: 18.861340948000077
+    northEast:
+      lat: 51.28943558100008
+      lng: 19.045427853000035
+- slug: pajeczno
+  name: Pajęczno
+  type: town
+  voivodeship: lodzkie
+  lat: 51.11665
+  lon: 19.02309
+  lands:
+    wysoczyzna_belchatowska: 66.1728
+    wyzyna_wielunska: 32.2516
+    niecka_przyrowska: 1.5756
+  boundary:
+    southWest:
+      lat: 51.05140325500008
+      lng: 18.93934741100003
+    northEast:
+      lat: 51.18722415500008
+      lng: 19.10321939000005
+- slug: nowa_brzeznica
+  name: Nowa Brzeźnica
+  type: town
+  voivodeship: lodzkie
+  lat: 51.05169
+  lon: 19.12481
+  lands:
+    niecka_przyrowska: 65.3022
+    wysoczyzna_belchatowska: 18.1421
+    wyzyna_wielunska: 16.5556
+  boundary:
+    southWest:
+      lat: 50.98241842700003
+      lng: 19.016775953000035
+    northEast:
+      lat: 51.12052568400003
+      lng: 19.256157158000065
+- slug: radomsko
+  name: Radomsko
+  type: town
+  voivodeship: lodzkie
+  lat: 51.07064
+  lon: 19.45013
+  lands:
+    wzgorza_radomszczanskie: 82.9216
+    niecka_przyrowska: 17.0784
+  boundary:
+    southWest:
+      lat: 51.032225710000034
+      lng: 19.364039314000024
+    northEast:
+      lat: 51.10900265300006
+      lng: 19.521521180000036
+- slug: ladzice
+  name: Ładzice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.07164
+  lon: 19.30148
+  lands:
+    niecka_przyrowska: 48.4649
+    wzgorza_radomszczanskie: 36.2675
+    wysoczyzna_belchatowska: 15.2676
+  boundary:
+    southWest:
+      lat: 51.03139093800007
+      lng: 19.205127770000047
+    northEast:
+      lat: 51.12104547000007
+      lng: 19.421694009000078
+- slug: sadkowice
+  name: Sadkowice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.70902
+  lon: 20.54847
+  lands:
+    wysoczyzna_rawska: 100.0
+  boundary:
+    southWest:
+      lat: 51.657863761000044
+      lng: 20.43632056200005
+    northEast:
+      lat: 51.760909954000056
+      lng: 20.659258254000065
+- slug: biala
+  name: Biała
+  type: town
+  voivodeship: lodzkie
+  lat: 51.2605
+  lon: 18.43486
+  lands:
+    wysoczyzna_zloczewska: 90.2205
+    kotlina_grabowska: 9.7795
+  boundary:
+    southWest:
+      lat: 51.20075982600008
+      lng: 18.35616936300005
+    northEast:
+      lat: 51.32317736500005
+      lng: 18.511840020000022
+- slug: koluszki
+  name: Koluszki
+  type: town
+  voivodeship: lodzkie
+  lat: 51.72308
+  lon: 19.82259
+  lands:
+    rownina_piotrkowska: 51.2862
+    wzniesienia_lodzkie: 48.7138
+  boundary:
+    southWest:
+      lat: 51.660336021000035
+      lng: 19.674888155000076
+    northEast:
+      lat: 51.78314569500003
+      lng: 19.982245585000044
+- slug: strykow
+  name: Stryków
+  type: town
+  voivodeship: lodzkie
+  lat: 51.90836
+  lon: 19.60713
+  lands:
+    wzniesienia_lodzkie: 75.4473
+    rownina_lowickoblonska: 24.5527
+  boundary:
+    southWest:
+      lat: 51.83580202400003
+      lng: 19.50646815400006
+    northEast:
+      lat: 51.97912251300005
+      lng: 19.70872551800005
+- slug: lanieta
+  name: Łanięta
+  type: town
+  voivodeship: lodzkie
+  lat: 52.33762
+  lon: 19.26722
+  lands:
+    wysoczyzna_klodawska: 95.6373
+    pojezierze_kujawskie: 4.3627
+  boundary:
+    southWest:
+      lat: 52.28336948100008
+      lng: 19.209168763000037
+    northEast:
+      lat: 52.39393435900007
+      lng: 19.328749712000047
 - slug: strzelce
   name: Strzelce
   type: town
   voivodeship: lodzkie
-  lat: 52.31869137816863
-  lon: 19.40872017947496
+  lat: 52.31227
+  lon: 19.40756
+  lands:
+    rownina_kutnowska: 48.5219
+    wysoczyzna_klodawska: 41.2552
+    pojezierze_kujawskie: 10.2229
+  boundary:
+    southWest:
+      lat: 52.261936208000066
+      lng: 19.30921612800006
+    northEast:
+      lat: 52.35011984700003
+      lng: 19.519894088000058
+- slug: widawa
+  name: Widawa
+  type: town
+  voivodeship: lodzkie
+  lat: 51.41847
+  lon: 18.93808
+  lands:
+    kotlina_szczercowska: 77.1539
+    miedzyrzecze_pysznej_i_niecieczy: 16.6831
+    wysoczyzna_laska: 6.163
+  boundary:
+    southWest:
+      lat: 51.34273253200007
+      lng: 18.803022620000036
+    northEast:
+      lat: 51.48912379500007
+      lng: 19.08109386800004
+- slug: sedziejowice
+  name: Sędziejowice
+  type: town
+  voivodeship: lodzkie
+  lat: 51.50984
+  lon: 19.01758
+  lands:
+    wysoczyzna_laska: 97.772
+    kotlina_szczercowska: 2.228
+  boundary:
+    southWest:
+      lat: 51.44102021400005
+      lng: 18.941758333000053
+    northEast:
+      lat: 51.582520085000056
+      lng: 19.118448898000054
+- slug: wodzierady
+  name: Wodzierady
+  type: town
+  voivodeship: lodzkie
+  lat: 51.71618
+  lon: 19.13198
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.65705042400003
+      lng: 19.038899696000044
+    northEast:
+      lat: 51.77810286300007
+      lng: 19.218117934000077
+- slug: piatek
+  name: Piątek
+  type: town
+  voivodeship: lodzkie
+  lat: 52.06691
+  lon: 19.47233
+  lands:
+    rownina_lowickoblonska: 99.8925
+    wysoczyzna_laska: 0.1075
+  boundary:
+    southWest:
+      lat: 51.99699517100004
+      lng: 19.362212167000052
+    northEast:
+      lat: 52.13221585200006
+      lng: 19.562158469000053
+- slug: grabow
+  name: Grabów
+  type: town
+  voivodeship: lodzkie
+  lat: 52.14095
+  lon: 19.00239
+  lands:
+    wysoczyzna_klodawska: 68.6551
+    kotlina_kolska: 31.3449
+  boundary:
+    southWest:
+      lat: 52.07385292500004
+      lng: 18.908253337000076
+    northEast:
+      lat: 52.214459703000045
+      lng: 19.115265798000053
+- slug: poswietne
+  name: Poświętne
+  type: town
+  voivodeship: lodzkie
+  lat: 51.5264
+  lon: 20.35691
+  lands:
+    rownina_radomska: 71.8786
+    dolina_bialobrzeska: 19.47
+    wzgorza_opoczynskie: 8.2464
+  boundary:
+    southWest:
+      lat: 51.45125303100008
+      lng: 20.245902728000033
+    northEast:
+      lat: 51.600037343000054
+      lng: 20.467661089000046
+- slug: konstantynow_lodzki
+  name: Konstantynów Łódzki
+  type: town
+  voivodeship: lodzkie
+  lat: 51.75758
+  lon: 19.30925
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.730287142000066
+      lng: 19.247200923000037
+    northEast:
+      lat: 51.78407279400005
+      lng: 19.374620660000062
+- slug: reczno
+  name: Ręczno
+  type: town
+  voivodeship: lodzkie
+  lat: 51.18499
+  lon: 19.86969
+  lands:
+    wzgorza_radomszczanskie: 85.3379
+    rownina_piotrkowska: 14.6621
+  boundary:
+    southWest:
+      lat: 51.10799156300004
+      lng: 19.815918228000044
+    northEast:
+      lat: 51.26560413800007
+      lng: 19.921431720000044
+- slug: gidle
+  name: Gidle
+  type: town
+  voivodeship: lodzkie
+  lat: 50.94914
+  lon: 19.50053
+  lands:
+    niecka_przyrowska: 75.1985
+    wzgorza_radomszczanskie: 24.7721
+    wyzyna_wielunska: 0.0294
+  boundary:
+    southWest:
+      lat: 50.879666213000064
+      lng: 19.37871571900007
+    northEast:
+      lat: 51.01403976900008
+      lng: 19.582966777000024
+- slug: goszczanow
+  name: Goszczanów
+  type: town
+  voivodeship: lodzkie
+  lat: 51.78958
+  lon: 18.5001
+  lands:
+    wysoczyzna_turecka: 100.0
+  boundary:
+    southWest:
+      lat: 51.72629544900008
+      lng: 18.40495489700004
+    northEast:
+      lat: 51.854382513000076
+      lng: 18.61304792900006
+- slug: osjakow
+  name: Osjaków
+  type: town
+  voivodeship: lodzkie
+  lat: 51.26167
+  lon: 18.77312
+  lands:
+    miedzyrzecze_pysznej_i_niecieczy: 100.0
+  boundary:
+    southWest:
+      lat: 51.202104089000045
+      lng: 18.67789457200007
+    northEast:
+      lat: 51.32519047900007
+      lng: 18.88849226700006
+- slug: mokrsko
+  name: Mokrsko
+  type: town
+  voivodeship: lodzkie
+  lat: 51.15125
+  lon: 18.48911
+  lands:
+    wysoczyzna_wieruszowska: 42.0082
+    wyzyna_wielunska: 37.5967
+    obnizenie_krzepickie: 13.2516
+  boundary:
+    southWest:
+      lat: 51.099605180000026
+      lng: 18.42226211600007
+    northEast:
+      lat: 51.21594392800006
+      lng: 18.54622663200007
+- slug: oporow
+  name: Oporów
+  type: town
+  voivodeship: lodzkie
+  lat: 52.2691
+  lon: 19.53298
+  lands:
+    rownina_kutnowska: 100.0
+  boundary:
+    southWest:
+      lat: 52.22591516500006
+      lng: 19.440314620000038
+    northEast:
+      lat: 52.304260258000056
+      lng: 19.616022608000037
+- slug: andrespol
+  name: Andrespol
+  type: town
+  voivodeship: lodzkie
+  lat: 51.71969
+  lon: 19.65283
+  lands:
+    wzniesienia_lodzkie: 69.7311
+    rownina_piotrkowska: 30.2689
+  boundary:
+    southWest:
+      lat: 51.685900641000046
+      lng: 19.60752837700005
+    northEast:
+      lat: 51.75708392900003
+      lng: 19.705799202000037
+- slug: lutomiersk
+  name: Lutomiersk
+  type: town
+  voivodeship: lodzkie
+  lat: 51.7683
+  lon: 19.18071
+  lands:
+    wysoczyzna_laska: 100.0
+  boundary:
+    southWest:
+      lat: 51.70780411900006
+      lng: 18.998891037000078
+    northEast:
+      lat: 51.83279432200004
+      lng: 19.310219205000067
+- slug: mniszkow
+  name: Mniszków
+  type: town
+  voivodeship: lodzkie
+  lat: 51.38378
+  lon: 19.96922
+  lands:
+    wzgorza_opoczynskie: 97.677
+    rownina_piotrkowska: 2.323
+  boundary:
+    southWest:
+      lat: 51.33665498700003
+      lng: 19.86011059300006
+    northEast:
+      lat: 51.440923905000034
+      lng: 20.09536517500004

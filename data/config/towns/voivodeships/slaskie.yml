@@ -1,67 +1,2713 @@
 ---
-- slug: andrychow
-  name: Andrychów
+- slug: klobuck
+  name: Kłobuck
   type: town
   voivodeship: slaskie
-  lat: 49.85440
-  lon: 19.34641
-- slug: bedzin
-  name: Będzin
+  lat: 50.9082
+  lon: 18.97231
+  lands:
+    wyzyna_wielunska: 82.342
+    obnizenie_krzepickie: 17.658
+  boundary:
+    southWest:
+      lat: 50.84402711600006
+      lng: 18.866669251000076
+    northEast:
+      lat: 50.96892537300005
+      lng: 19.102210773000024
+- slug: wielowies
+  name: Wielowieś
   type: town
   voivodeship: slaskie
-  lat: 50.31953
-  lon: 19.13423
-- slug: bielsko-biala
-  name: Bielsko-Biała
+  lat: 50.49392
+  lon: 18.58015
+  lands:
+    garb_tarnogorski: 48.0686
+    chelm: 21.0409
+    obnizenie_gornej_malej_panwi: 20.8195
+  boundary:
+    southWest:
+      lat: 50.436937218000025
+      lng: 18.429893416000027
+    northEast:
+      lat: 50.55125328300005
+      lng: 18.66513843100006
+- slug: kuznia_raciborska
+  name: Kuźnia Raciborska
   type: town
   voivodeship: slaskie
-  lat: 49.82163
-  lon: 19.04411
-- slug: czeladz
-  name: Czeladź
+  lat: 50.20555
+  lon: 18.35525
+  lands:
+    plaskowyz_rybnicki: 40.1964
+    kotlina_raciborska: 33.4149
+    obnizenie_bojszowa: 26.3887
+  boundary:
+    southWest:
+      lat: 50.15511797200003
+      lng: 18.236303510000027
+    northEast:
+      lat: 50.25472212500006
+      lng: 18.50324249600004
+- slug: kornowac
+  name: Kornowac
   type: town
   voivodeship: slaskie
-  lat: 50.31712
-  lon: 19.07209
-- slug: czernichow
-  name: Czernichów (Międzybrodzie)
+  lat: 50.07642
+  lon: 18.33639
+  lands:
+    plaskowyz_rybnicki: 97.9987
+    brama_raciborska: 2.0013
+  boundary:
+    southWest:
+      lat: 50.05141749100005
+      lng: 18.272795638000048
+    northEast:
+      lat: 50.100694668000074
+      lng: 18.381035819000033
+- slug: zarki
+  name: Żarki
   type: town
   voivodeship: slaskie
-  lat: 49.75691
-  lon: 19.20994
-- slug: dabrowa_gornicza
-  name: Dąbrowa Górnicza
+  lat: 50.63874
+  lon: 19.34648
+  lands:
+    wyzyna_czestochowska: 65.19
+    obnizenie_gornej_warty: 34.81
+  boundary:
+    southWest:
+      lat: 50.58242276200008
+      lng: 19.260738014000026
+    northEast:
+      lat: 50.69240169500006
+      lng: 19.48677961100003
+- slug: wlodowice
+  name: Włodowice
   type: town
   voivodeship: slaskie
-  lat: 50.32523
-  lon: 19.18539
-- slug: lekawica
-  name: Łękawica
+  lat: 50.56141
+  lon: 19.44395
+  lands:
+    wyzyna_czestochowska: 68.5819
+    obnizenie_gornej_warty: 31.4181
+  boundary:
+    southWest:
+      lat: 50.51040609900008
+      lng: 19.372533438000062
+    northEast:
+      lat: 50.61742445100003
+      lng: 19.55091697100005
+- slug: zarnowiec
+  name: Żarnowiec
   type: town
   voivodeship: slaskie
-  lat: 49.72085
-  lon: 19.26401
-- slug: porabka
-  name: Porąbka
+  lat: 50.49703
+  lon: 19.87272
+  lands:
+    wyzyna_miechowska: 48.3725
+    prog_lelowski: 38.1508
+    plaskowyz_jedrzejowski: 9.8315
+  boundary:
+    southWest:
+      lat: 50.434195431000035
+      lng: 19.73638099300007
+    northEast:
+      lat: 50.559286633000056
+      lng: 19.963978162000046
+- slug: czestochowa
+  name: Częstochowa
   type: town
   voivodeship: slaskie
-  lat: 49.81904
-  lon: 19.22012
+  lat: 50.81204
+  lon: 19.12452
+  lands:
+    obnizenie_gornej_warty: 46.0447
+    obnizenie_krzepickie: 20.6137
+    wyzyna_wielunska: 20.2303
+  boundary:
+    southWest:
+      lat: 50.73600653700004
+      lng: 19.01125430600007
+    northEast:
+      lat: 50.88214779200007
+      lng: 19.23208885400004
+- slug: jasienica
+  name: Jasienica
+  type: town
+  voivodeship: slaskie
+  lat: 49.82181
+  lon: 18.90185
+  lands:
+    pogorze_slaskie: 82.9486
+    dolina_gornej_wisly: 16.6894
+    beskid_slaski: 0.3619
+  boundary:
+    southWest:
+      lat: 49.77245267300003
+      lng: 18.826857051000047
+    northEast:
+      lat: 49.88971336700007
+      lng: 19.013278245000038
+- slug: wilamowice
+  name: Wilamowice
+  type: town
+  voivodeship: slaskie
+  lat: 49.90932
+  lon: 19.14273
+  lands:
+    pogorze_slaskie: 79.7586
+    dolina_gornej_wisly: 19.0495
+    podgorze_wilamowickie: 1.1919
+  boundary:
+    southWest:
+      lat: 49.86321628500008
+      lng: 19.073931334000065
+    northEast:
+      lat: 49.95665893100005
+      lng: 19.19449559900005
+- slug: debowiec
+  name: Dębowiec
+  type: town
+  voivodeship: slaskie
+  lat: 49.7926
+  lon: 18.72094
+  lands:
+    pogorze_slaskie: 63.1714
+    wysoczyzna_konczycka: 32.645
+    dolina_gornej_wisly: 4.1835
+  boundary:
+    southWest:
+      lat: 49.74504300900003
+      lng: 18.669027662000076
+    northEast:
+      lat: 49.85042424900007
+      lng: 18.77313822600007
+- slug: kamienica_polska
+  name: Kamienica Polska
+  type: town
+  voivodeship: slaskie
+  lat: 50.67541
+  lon: 19.13281
+  lands:
+    obnizenie_gornej_warty: 46.2238
+    prog_herbski: 32.9285
+    prog_woznicki: 12.3371
+  boundary:
+    southWest:
+      lat: 50.635152093000045
+      lng: 19.07439652200003
+    northEast:
+      lat: 50.70863326700004
+      lng: 19.22299347200004
 - slug: rajcza
   name: Rajcza
   type: town
   voivodeship: slaskie
-  lat: 49.50351
-  lon: 19.10202
+  lat: 49.46493
+  lon: 19.02893
+  lands:
+    beskid_zywieckokysucki: 72.665
+    miedzygorze_jablonkowskokoniakowskie: 16.2455
+    beskid_zywieckoorawski: 10.3746
+  boundary:
+    southWest:
+      lat: 49.39397630600007
+      lng: 18.946581972000047
+    northEast:
+      lat: 49.53772646500005
+      lng: 19.168005675000074
+- slug: godow
+  name: Godów
+  type: town
+  voivodeship: slaskie
+  lat: 49.94184
+  lon: 18.47161
+  lands:
+    plaskowyz_rybnicki: 90.6888
+  boundary:
+    southWest:
+      lat: 49.899467310000034
+      lng: 18.418585996000047
+    northEast:
+      lat: 49.975868999000056
+      lng: 18.53987988800003
+- slug: istebna
+  name: Istebna
+  type: town
+  voivodeship: slaskie
+  lat: 49.55861
+  lon: 18.91321
+  lands:
+    miedzygorze_jablonkowskokoniakowskie: 52.106
+    beskid_slaski: 46.8267
+  boundary:
+    southWest:
+      lat: 49.51442183300003
+      lng: 18.831704397000067
+    northEast:
+      lat: 49.607211187000075
+      lng: 18.986893441000063
+- slug: tychy
+  name: Tychy
+  type: town
+  voivodeship: slaskie
+  lat: 50.12556
+  lon: 19.00654
+  lands:
+    rownina_pszczynska: 94.766
+    wyzyna_katowicka: 4.7673
+    pagory_jaworznickie: 0.4667
+  boundary:
+    southWest:
+      lat: 50.07716732000006
+      lng: 18.925600888000076
+    northEast:
+      lat: 50.17583341500006
+      lng: 19.089750758000037
+- slug: swierklaniec
+  name: Świerklaniec
+  type: town
+  voivodeship: slaskie
+  lat: 50.44491
+  lon: 18.93519
+  lands:
+    garb_tarnogorski: 89.719
+    wyzyna_katowicka: 5.2875
+    obnizenie_gornej_malej_panwi: 4.9935
+  boundary:
+    southWest:
+      lat: 50.41324865900003
+      lng: 18.877315427000042
+    northEast:
+      lat: 50.47992609800008
+      lng: 18.989926942000068
+- slug: krzepice
+  name: Krzepice
+  type: town
+  voivodeship: slaskie
+  lat: 50.9682
+  lon: 18.71462
+  lands:
+    obnizenie_krzepickie: 99.8264
+    wyzyna_wielunska: 0.1736
+  boundary:
+    southWest:
+      lat: 50.91596034300005
+      lng: 18.61238564100006
+    northEast:
+      lat: 51.019793175000075
+      lng: 18.789775027000076
+- slug: popow
+  name: Popów
+  type: town
+  voivodeship: slaskie
+  lat: 51.03359
+  lon: 18.96558
+  lands:
+    wyzyna_wielunska: 95.9928
+    niecka_przyrowska: 4.0072
+  boundary:
+    southWest:
+      lat: 50.97097091900008
+      lng: 18.81713183000005
+    northEast:
+      lat: 51.09822103800008
+      lng: 19.05633530800003
+- slug: pilchowice
+  name: Pilchowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.21401
+  lon: 18.56176
+  lands:
+    plaskowyz_rybnicki: 64.4696
+    wyzyna_katowicka: 35.5235
+    obnizenie_bojszowa: 0.0069
+  boundary:
+    southWest:
+      lat: 50.17261787600006
+      lng: 18.486953500000027
+    northEast:
+      lat: 50.26445875700006
+      lng: 18.641957368000078
+- slug: boronow
+  name: Boronów
+  type: town
+  voivodeship: slaskie
+  lat: 50.67624
+  lon: 18.92267
+  lands:
+    obnizenie_liswarty: 43.1023
+    prog_herbski: 38.5459
+    prog_woznicki: 18.3518
+  boundary:
+    southWest:
+      lat: 50.64085978900005
+      lng: 18.854764101000058
+    northEast:
+      lat: 50.71969024200007
+      lng: 18.986789286000032
+- slug: herby
+  name: Herby
+  type: town
+  voivodeship: slaskie
+  lat: 50.74135
+  lon: 18.84104
+  lands:
+    obnizenie_liswarty: 84.4752
+    prog_herbski: 12.0946
+    prog_woznicki: 3.4302
+  boundary:
+    southWest:
+      lat: 50.68308055700004
+      lng: 18.730955048000055
+    northEast:
+      lat: 50.79752688900004
+      lng: 18.936294820000057
+- slug: czerwionkaleszczyny
+  name: Czerwionka-Leszczyny
+  type: town
+  voivodeship: slaskie
+  lat: 50.13329
+  lon: 18.67328
+  lands:
+    plaskowyz_rybnicki: 70.41
+    wyzyna_katowicka: 28.6648
+    rownina_pszczynska: 0.9252
+  boundary:
+    southWest:
+      lat: 50.06576679300008
+      lng: 18.55316233800005
+    northEast:
+      lat: 50.20191101100005
+      lng: 18.752786056000048
+- slug: imielin
+  name: Imielin
+  type: town
+  voivodeship: slaskie
+  lat: 50.14049
+  lon: 19.20331
+  lands:
+    pagory_jaworznickie: 41.8021
+    row_krzeszowicki: 36.0078
+    rownina_pszczynska: 22.1901
+  boundary:
+    southWest:
+      lat: 50.118616846000066
+      lng: 19.144824714000038
+    northEast:
+      lat: 50.16945506300004
+      lng: 19.25381056300006
+- slug: ledziny
+  name: Lędziny
+  type: town
+  voivodeship: slaskie
+  lat: 50.12556
+  lon: 19.12041
+  lands:
+    pagory_jaworznickie: 67.5013
+    rownina_pszczynska: 32.4987
+  boundary:
+    southWest:
+      lat: 50.091920333000076
+      lng: 19.075733310000032
+    northEast:
+      lat: 50.160901273000036
+      lng: 19.17249182100005
+- slug: zawiercie
+  name: Zawiercie
+  type: town
+  voivodeship: slaskie
+  lat: 50.50432
+  lon: 19.46445
+  lands:
+    wyzyna_czestochowska: 53.4501
+    obnizenie_gornej_warty: 27.1283
+    kotlina_siewierza: 13.3891
+  boundary:
+    southWest:
+      lat: 50.45727234200007
+      lng: 19.35964361300006
+    northEast:
+      lat: 50.551428016000045
+      lng: 19.571898772000054
+- slug: katowice
+  name: Katowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.21453
+  lon: 19.00568
+  lands:
+    wyzyna_katowicka: 90.4171
+    pagory_jaworznickie: 8.0233
+    rownina_pszczynska: 1.5596
+  boundary:
+    southWest:
+      lat: 50.13133472000004
+      lng: 18.896943517000068
+    northEast:
+      lat: 50.296298972000045
+      lng: 19.12442358000004
+- slug: bedzin
+  name: Będzin
+  type: town
+  voivodeship: slaskie
+  lat: 50.33006
+  lon: 19.122
+  lands:
+    wyzyna_katowicka: 93.3095
+    pagory_jaworznickie: 6.6905
+  boundary:
+    southWest:
+      lat: 50.302227274000074
+      lng: 19.058420330000047
+    northEast:
+      lat: 50.37031770100003
+      lng: 19.18939714000004
+- slug: brenna
+  name: Brenna
+  type: town
+  voivodeship: slaskie
+  lat: 49.72425
+  lon: 18.92501
+  lands:
+    beskid_slaski: 84.5657
+    pogorze_slaskie: 15.4343
+  boundary:
+    southWest:
+      lat: 49.65238786000003
+      lng: 18.80918447700003
+    northEast:
+      lat: 49.79824643000006
+      lng: 18.994281525000076
+- slug: olsztyn
+  name: Olsztyn
+  type: town
+  voivodeship: slaskie
+  lat: 50.73884
+  lon: 19.26881
+  lands:
+    wyzyna_czestochowska: 79.6577
+    obnizenie_gornej_warty: 20.3423
+  boundary:
+    southWest:
+      lat: 50.680392306000044
+      lng: 19.182329398000036
+    northEast:
+      lat: 50.79073324600006
+      lng: 19.372427644000027
+- slug: starcza
+  name: Starcza
+  type: town
+  voivodeship: slaskie
+  lat: 50.66325
+  lon: 19.04119
+  lands:
+    obnizenie_liswarty: 52.109
+    prog_herbski: 47.8411
+    prog_woznicki: 0.0498
+  boundary:
+    southWest:
+      lat: 50.63464049000004
+      lng: 18.998265290000063
+    northEast:
+      lat: 50.69166783700007
+      lng: 19.095732919000056
+- slug: pietrowice_wielkie
+  name: Pietrowice Wielkie
+  type: town
+  voivodeship: slaskie
+  lat: 50.10309
+  lon: 18.11389
+  lands:
+    plaskowyz_glubczycki: 99.7435
+  boundary:
+    southWest:
+      lat: 50.04489229600006
+      lng: 18.035038262000057
+    northEast:
+      lat: 50.164974320000056
+      lng: 18.16458970900004
+- slug: goleszow
+  name: Goleszów
+  type: town
+  voivodeship: slaskie
+  lat: 49.72462
+  lon: 18.71026
+  lands:
+    pogorze_slaskie: 78.9758
+    beskid_slaski: 19.88
+  boundary:
+    southWest:
+      lat: 49.676888371000075
+      lng: 18.632155471000033
+    northEast:
+      lat: 49.78133709900004
+      lng: 18.791480109000076
+- slug: rybnik
+  name: Rybnik
+  type: town
+  voivodeship: slaskie
+  lat: 50.10048
+  lon: 18.55915
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 50.03721031400005
+      lng: 18.442327834000025
+    northEast:
+      lat: 50.181020869000065
+      lng: 18.656770289000065
+- slug: tarnowskie_gory
+  name: Tarnowskie Góry
+  type: town
+  voivodeship: slaskie
+  lat: 50.46247
+  lon: 18.83478
+  lands:
+    garb_tarnogorski: 51.4087
+    obnizenie_gornej_malej_panwi: 48.4729
+    wyzyna_katowicka: 0.1185
+  boundary:
+    southWest:
+      lat: 50.400141904000066
+      lng: 18.769884538000042
+    northEast:
+      lat: 50.53101267300008
+      lng: 18.91425070400004
+- slug: miedzno
+  name: Miedźno
+  type: town
+  voivodeship: slaskie
+  lat: 50.98185
+  lon: 19.00567
+  lands:
+    wyzyna_wielunska: 91.869
+    niecka_przyrowska: 8.131
+  boundary:
+    southWest:
+      lat: 50.93611803300007
+      lng: 18.87363387700003
+    northEast:
+      lat: 51.03553421500004
+      lng: 19.12715177700005
+- slug: przystajn
+  name: Przystajń
+  type: town
+  voivodeship: slaskie
+  lat: 50.85958
+  lon: 18.66785
+  lands:
+    prog_herbski: 50.9992
+    obnizenie_liswarty: 32.2581
+    obnizenie_krzepickie: 16.7427
+  boundary:
+    southWest:
+      lat: 50.78524749400003
+      lng: 18.615877299000033
+    northEast:
+      lat: 50.92578435200005
+      lng: 18.787749272000042
+- slug: kochanowice
+  name: Kochanowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.72277
+  lon: 18.72044
+  lands:
+    prog_woznicki: 59.4447
+    obnizenie_liswarty: 40.5553
+  boundary:
+    southWest:
+      lat: 50.67595518200005
+      lng: 18.62908643800006
+    northEast:
+      lat: 50.77202158400007
+      lng: 18.834406255000033
+- slug: pyskowice
+  name: Pyskowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.39373
+  lon: 18.61693
+  lands:
+    obnizenie_bojszowa: 59.0899
+    wyzyna_katowicka: 23.7847
+    garb_tarnogorski: 17.1254
+  boundary:
+    southWest:
+      lat: 50.36234743300008
+      lng: 18.550200587000063
+    northEast:
+      lat: 50.42129667700004
+      lng: 18.658108105000053
+- slug: panki
+  name: Panki
+  type: town
+  voivodeship: slaskie
+  lat: 50.89041
+  lon: 18.77125
+  lands:
+    obnizenie_krzepickie: 71.9571
+    prog_herbski: 28.0429
+  boundary:
+    southWest:
+      lat: 50.836032930000044
+      lng: 18.689749618000064
+    northEast:
+      lat: 50.937234861000036
+      lng: 18.81791885900003
+- slug: goczalkowicezdroj
+  name: Goczałkowice-Zdrój
+  type: town
+  voivodeship: slaskie
+  lat: 49.93457
+  lon: 18.89911
+  lands:
+    dolina_gornej_wisly: 79.6687
+    rownina_pszczynska: 20.3313
+  boundary:
+    southWest:
+      lat: 49.90308608300006
+      lng: 18.775672487000065
+    northEast:
+      lat: 49.96092679600008
+      lng: 19.001691523000034
+- slug: rydultowy
+  name: Rydułtowy
+  type: town
+  voivodeship: slaskie
+  lat: 50.06488
+  lon: 18.42358
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 50.04596706400008
+      lng: 18.378820027000074
+    northEast:
+      lat: 50.08696771100006
+      lng: 18.46144096200004
+- slug: mszana
+  name: Mszana
+  type: town
+  voivodeship: slaskie
+  lat: 49.9883
+  lon: 18.55473
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 49.94658666200007
+      lng: 18.495661477000056
+    northEast:
+      lat: 50.014508643000056
+      lng: 18.611748867000074
+- slug: radziechowywieprz
+  name: Radziechowy-Wieprz
+  type: town
+  voivodeship: slaskie
+  lat: 49.62386
+  lon: 19.20815
+  lands:
+    beskid_zywieckoorawski: 43.8309
+    beskid_slaski: 29.8967
+    kotlina_zywiecka: 26.2724
+  boundary:
+    southWest:
+      lat: 49.58245127200007
+      lng: 19.017074426000022
+    northEast:
+      lat: 49.66469608700004
+      lng: 19.257187268000052
+- slug: slemien
+  name: Ślemień
+  type: town
+  voivodeship: slaskie
+  lat: 49.73349
+  lon: 19.39187
+  lands:
+    beskid_maly: 62.8699
+    pasma_pewelskokrzeczowskie: 34.2366
+    kotlina_zywiecka: 2.8936
+  boundary:
+    southWest:
+      lat: 49.694358487000045
+      lng: 19.333623292000027
+    northEast:
+      lat: 49.775265165000064
+      lng: 19.444647059000033
+- slug: szczekociny
+  name: Szczekociny
+  type: town
+  voivodeship: slaskie
+  lat: 50.63955
+  lon: 19.81006
+  lands:
+    niecka_wloszczowska: 52.1532
+    prog_lelowski: 32.6436
+    plaskowyz_jedrzejowski: 15.2032
+  boundary:
+    southWest:
+      lat: 50.55202270800004
+      lng: 19.712949364000053
+    northEast:
+      lat: 50.72915597700006
+      lng: 19.909835112000053
+- slug: bielskobiala
+  name: Bielsko-Biała
+  type: town
+  voivodeship: slaskie
+  lat: 49.81272
+  lon: 19.03363
+  lands:
+    pogorze_slaskie: 73.3875
+    beskid_slaski: 20.7928
+    beskid_maly: 4.7758
+  boundary:
+    southWest:
+      lat: 49.73668262700005
+      lng: 18.945377068000028
+    northEast:
+      lat: 49.88744041000007
+      lng: 19.12526758000007
+- slug: buczkowice
+  name: Buczkowice
+  type: town
+  voivodeship: slaskie
+  lat: 49.72472
+  lon: 19.08854
+  lands:
+    kotlina_zywiecka: 94.5972
+    beskid_slaski: 5.4028
+  boundary:
+    southWest:
+      lat: 49.703586536000046
+      lng: 19.045279211000036
+    northEast:
+      lat: 49.74587279100007
+      lng: 19.124446627000054
+- slug: skoczow
+  name: Skoczów
+  type: town
+  voivodeship: slaskie
+  lat: 49.80644
+  lon: 18.80514
+  lands:
+    pogorze_slaskie: 55.2499
+    dolina_gornej_wisly: 44.7501
+  boundary:
+    southWest:
+      lat: 49.751030050000054
+      lng: 18.71970608600003
+    northEast:
+      lat: 49.86194532800005
+      lng: 18.85376707200004
+- slug: blachownia
+  name: Blachownia
+  type: town
+  voivodeship: slaskie
+  lat: 50.79325
+  lon: 18.9389
+  lands:
+    prog_herbski: 40.8318
+    obnizenie_krzepickie: 32.2421
+    obnizenie_gornej_warty: 24.4954
+  boundary:
+    southWest:
+      lat: 50.75795852700003
+      lng: 18.84868130900003
+    northEast:
+      lat: 50.82622479500003
+      lng: 19.029340125000033
+- slug: janow
+  name: Janów
+  type: town
+  voivodeship: slaskie
+  lat: 50.73524
+  lon: 19.42099
+  lands:
+    wyzyna_czestochowska: 81.7807
+    prog_lelowski: 18.0519
+    niecka_przyrowska: 0.1674
+  boundary:
+    southWest:
+      lat: 50.665222355000026
+      lng: 19.346216223000056
+    northEast:
+      lat: 50.80208371200007
+      lng: 19.59175160600006
+- slug: lelow
+  name: Lelów
+  type: town
+  voivodeship: slaskie
+  lat: 50.70732
+  lon: 19.65542
+  lands:
+    prog_lelowski: 63.7189
+    niecka_wloszczowska: 35.9102
+    wyzyna_czestochowska: 0.2161
+  boundary:
+    southWest:
+      lat: 50.63706105800003
+      lng: 19.548408465000023
+    northEast:
+      lat: 50.77511503000005
+      lng: 19.786376032000078
+- slug: mykanow
+  name: Mykanów
+  type: town
+  voivodeship: slaskie
+  lat: 50.93771
+  lon: 19.19525
+  lands:
+    wyzyna_wielunska: 99.662
+    niecka_przyrowska: 0.338
+  boundary:
+    southWest:
+      lat: 50.85457055400008
+      lng: 19.064359699000022
+    northEast:
+      lat: 51.01084979400008
+      lng: 19.301176268000063
+- slug: krzanowice
+  name: Krzanowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.02837
+  lon: 18.14145
+  lands:
+    plaskowyz_glubczycki: 98.9102
+  boundary:
+    southWest:
+      lat: 49.982365910000055
+      lng: 18.067592432000026
+    northEast:
+      lat: 50.074800451000044
+      lng: 18.191563479000024
+- slug: hazlach
+  name: Hażlach
+  type: town
+  voivodeship: slaskie
+  lat: 49.81316
+  lon: 18.63504
+  lands:
+    wysoczyzna_konczycka: 81.4115
+    pogorze_slaskie: 14.7913
+    kotlina_olzy: 3.5473
+  boundary:
+    southWest:
+      lat: 49.77045902300006
+      lng: 18.58264584400007
+    northEast:
+      lat: 49.85089706500003
+      lng: 18.708130303000075
+- slug: wisla
+  name: Wisła
+  type: town
+  voivodeship: slaskie
+  lat: 49.6357
+  lon: 18.91184
+  lands:
+    beskid_slaski: 99.7027
+  boundary:
+    southWest:
+      lat: 49.585761053000056
+      lng: 18.804591767000034
+    northEast:
+      lat: 49.68306683700007
+      lng: 19.017074426000022
+- slug: orzesze
+  name: Orzesze
+  type: town
+  voivodeship: slaskie
+  lat: 50.10934
+  lon: 18.78969
+  lands:
+    rownina_pszczynska: 64.0331
+    wyzyna_katowicka: 21.3997
+    plaskowyz_rybnicki: 14.5672
+  boundary:
+    southWest:
+      lat: 50.054389840000056
+      lng: 18.726133377000053
+    northEast:
+      lat: 50.16168759000004
+      lng: 18.86463072300006
+- slug: raciborz
+  name: Racibórz
+  type: town
+  voivodeship: slaskie
+  lat: 50.09243
+  lon: 18.21675
+  lands:
+    brama_raciborska: 54.4192
+    plaskowyz_glubczycki: 29.3853
+    plaskowyz_rybnicki: 16.1955
+  boundary:
+    southWest:
+      lat: 50.04429651400005
+      lng: 18.141040882000027
+    northEast:
+      lat: 50.136960920000035
+      lng: 18.302496375000032
+- slug: pawlowice
+  name: Pawłowice
+  type: town
+  voivodeship: slaskie
+  lat: 49.94449
+  lon: 18.71369
+  lands:
+    plaskowyz_rybnicki: 87.461
+    rownina_pszczynska: 10.1445
+    wysoczyzna_konczycka: 1.7642
+  boundary:
+    southWest:
+      lat: 49.88049360700006
+      lng: 18.61804778800007
+    northEast:
+      lat: 50.01431118600004
+      lng: 18.763053284000023
+- slug: bojszowy
+  name: Bojszowy
+  type: town
+  voivodeship: slaskie
+  lat: 50.04897
+  lon: 19.0983
+  lands:
+    dolina_gornej_wisly: 60.1956
+    rownina_pszczynska: 39.8044
+  boundary:
+    southWest:
+      lat: 50.01903436300006
+      lng: 19.036126508000052
+    northEast:
+      lat: 50.08961876600006
+      lng: 19.163207422000028
+- slug: miasteczko_slaskie
+  name: Miasteczko Śląskie
+  type: town
+  voivodeship: slaskie
+  lat: 50.50071
+  lon: 18.96302
+  lands:
+    obnizenie_gornej_malej_panwi: 82.839
+    garb_tarnogorski: 17.161
+  boundary:
+    southWest:
+      lat: 50.455662188000076
+      lng: 18.83891639600006
+    northEast:
+      lat: 50.537793339000075
+      lng: 19.05278680300006
+- slug: irzadze
+  name: Irządze
+  type: town
+  voivodeship: slaskie
+  lat: 50.62726
+  lon: 19.67972
+  lands:
+    prog_lelowski: 91.1612
+    niecka_wloszczowska: 5.6798
+    wyzyna_czestochowska: 3.159
+  boundary:
+    southWest:
+      lat: 50.565725816000054
+      lng: 19.594519785000045
+    northEast:
+      lat: 50.69139224500003
+      lng: 19.744425000000035
+- slug: gilowice
+  name: Gilowice
+  type: town
+  voivodeship: slaskie
+  lat: 49.7143
+  lon: 19.30682
+  lands:
+    pasma_pewelskokrzeczowskie: 47.0343
+    kotlina_zywiecka: 37.3598
+    beskid_maly: 15.6059
+  boundary:
+    southWest:
+      lat: 49.68342122900003
+      lng: 19.24785113400003
+    northEast:
+      lat: 49.74201143100004
+      lng: 19.354771950000043
+- slug: gliwice
+  name: Gliwice
+  type: town
+  voivodeship: slaskie
+  lat: 50.30543
+  lon: 18.66149
+  lands:
+    wyzyna_katowicka: 95.7737
+    obnizenie_bojszowa: 4.2263
+  boundary:
+    southWest:
+      lat: 50.22720405700005
+      lng: 18.54299982400005
+    northEast:
+      lat: 50.37391631600008
+      lng: 18.750937572000055
+- slug: siemianowice_slaskie
+  name: Siemianowice Śląskie
+  type: town
+  voivodeship: slaskie
+  lat: 50.32002
+  lon: 19.01935
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.27528260400004
+      lng: 18.98540747800007
+    northEast:
+      lat: 50.348768747000065
+      lng: 19.061100870000075
+- slug: wojkowice
+  name: Wojkowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.36697
+  lon: 19.03096
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.34744184600004
+      lng: 18.984854963000032
+    northEast:
+      lat: 50.38396590700006
+      lng: 19.07819038300005
+- slug: czeladz
+  name: Czeladź
+  type: town
+  voivodeship: slaskie
+  lat: 50.31269
+  lon: 19.08121
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.29433552100005
+      lng: 19.045075678000046
+    northEast:
+      lat: 50.34404103700007
+      lng: 19.11955123200005
+- slug: psary
+  name: Psary
+  type: town
+  voivodeship: slaskie
+  lat: 50.38283
+  lon: 19.12341
+  lands:
+    wyzyna_katowicka: 57.0986
+    garb_tarnogorski: 31.2658
+    pagory_jaworznickie: 11.6357
+  boundary:
+    southWest:
+      lat: 50.350429785000074
+      lng: 19.05734148500005
+    northEast:
+      lat: 50.422759744000075
+      lng: 19.18939714000004
+- slug: slawkow
+  name: Sławków
+  type: town
+  voivodeship: slaskie
+  lat: 50.29434
+  lon: 19.34716
+  lands:
+    pagory_jaworznickie: 100.0
+  boundary:
+    southWest:
+      lat: 50.258265304000076
+      lng: 19.280629844000032
+    northEast:
+      lat: 50.325928102000034
+      lng: 19.410598032000053
+- slug: dabrowa_zielona
+  name: Dąbrowa Zielona
+  type: town
+  voivodeship: slaskie
+  lat: 50.85128
+  lon: 19.58249
+  lands:
+    niecka_przyrowska: 89.2486
+    niecka_wloszczowska: 10.7514
+  boundary:
+    southWest:
+      lat: 50.79422880000004
+      lng: 19.41610098800004
+    northEast:
+      lat: 50.90717314400007
+      lng: 19.661569074000056
 - slug: ustron
   name: Ustroń
   type: town
   voivodeship: slaskie
-  lat: 49.72030
-  lon: 18.81517
+  lat: 49.71788
+  lon: 18.82646
+  lands:
+    beskid_slaski: 80.7109
+    pogorze_slaskie: 19.1603
+  boundary:
+    southWest:
+      lat: 49.66419307100006
+      lng: 18.760483987000043
+    northEast:
+      lat: 49.77318153500005
+      lng: 18.902390118000028
+- slug: gieraltowice
+  name: Gierałtowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.23156
+  lon: 18.75574
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.193428433000065
+      lng: 18.693319615000064
+    northEast:
+      lat: 50.27240060300005
+      lng: 18.800495941000065
+- slug: pawonkow
+  name: Pawonków
+  type: town
+  voivodeship: slaskie
+  lat: 50.6682
+  lon: 18.56748
+  lands:
+    rownina_opolska: 68.3908
+    prog_woznicki: 31.6092
+  boundary:
+    southWest:
+      lat: 50.59957254700004
+      lng: 18.483883023000033
+    northEast:
+      lat: 50.735096964000036
+      lng: 18.662663808000048
+- slug: laziska_gorne
+  name: Łaziska Górne
+  type: town
+  voivodeship: slaskie
+  lat: 50.143
+  lon: 18.8515
+  lands:
+    wyzyna_katowicka: 98.7633
+    rownina_pszczynska: 1.2367
+  boundary:
+    southWest:
+      lat: 50.12097681000006
+      lng: 18.81259282900004
+    northEast:
+      lat: 50.16485931300008
+      lng: 18.893384480000066
+- slug: lubliniec
+  name: Lubliniec
+  type: town
+  voivodeship: slaskie
+  lat: 50.63886
+  lon: 18.69093
+  lands:
+    obnizenie_gornej_malej_panwi: 39.8955
+    rownina_opolska: 39.6101
+    prog_woznicki: 20.4945
+  boundary:
+    southWest:
+      lat: 50.58688676700007
+      lng: 18.62008388600003
+    northEast:
+      lat: 50.69738995600005
+      lng: 18.796746330000076
+- slug: ciasna
+  name: Ciasna
+  type: town
+  voivodeship: slaskie
+  lat: 50.78028
+  lon: 18.63792
+  lands:
+    obnizenie_liswarty: 87.6162
+    prog_woznicki: 12.3838
+  boundary:
+    southWest:
+      lat: 50.70698688400006
+      lng: 18.506282871000053
+    northEast:
+      lat: 50.85358777000005
+      lng: 18.74966504300005
+- slug: ornontowice
+  name: Ornontowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.18051
+  lon: 18.75779
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.15852163100004
+      lng: 18.719745298000078
+    northEast:
+      lat: 50.206266490000075
+      lng: 18.782902136000075
+- slug: jejkowice
+  name: Jejkowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.10004
+  lon: 18.47088
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 50.085249170000054
+      lng: 18.452994536000062
+    northEast:
+      lat: 50.12036911100006
+      lng: 18.49365110800005
+- slug: swierklany
+  name: Świerklany
+  type: town
+  voivodeship: slaskie
+  lat: 50.02481
+  lon: 18.57854
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 49.99792722800004
+      lng: 18.523201610000058
+    northEast:
+      lat: 50.06120331200003
+      lng: 18.61398529300004
+- slug: kalety
+  name: Kalety
+  type: town
+  voivodeship: slaskie
+  lat: 50.56922
+  lon: 18.93027
+  lands:
+    obnizenie_gornej_malej_panwi: 100.0
+  boundary:
+    southWest:
+      lat: 50.52298217600003
+      lng: 18.81577300600003
+    northEast:
+      lat: 50.61499351700007
+      lng: 19.029936788000043
+- slug: wodzislaw_slaski
+  name: Wodzisław Śląski
+  type: town
+  voivodeship: slaskie
+  lat: 50.00242
+  lon: 18.44551
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 49.96592613000007
+      lng: 18.358532292000064
+    northEast:
+      lat: 50.03866353400008
+      lng: 18.510950050000076
+- slug: czernichow
+  name: Czernichów
+  type: town
+  voivodeship: slaskie
+  lat: 49.77261
+  lon: 19.19892
+  lands:
+    beskid_maly: 98.6222
+    kotlina_zywiecka: 1.3778
+  boundary:
+    southWest:
+      lat: 49.726045052000075
+      lng: 19.12750463800006
+    northEast:
+      lat: 49.82888204300008
+      lng: 19.261865035000028
+- slug: poreba
+  name: Poręba
+  type: town
+  voivodeship: slaskie
+  lat: 50.48728
+  lon: 19.33434
+  lands:
+    kotlina_siewierza: 53.759
+    prog_woznicki: 46.241
+  boundary:
+    southWest:
+      lat: 50.45367117300003
+      lng: 19.270709323000062
+    northEast:
+      lat: 50.52128309100004
+      lng: 19.392276283000058
+- slug: lodygowice
+  name: Łodygowice
+  type: town
+  voivodeship: slaskie
+  lat: 49.71658
+  lon: 19.15467
+  lands:
+    kotlina_zywiecka: 56.2835
+    beskid_maly: 43.7165
+  boundary:
+    southWest:
+      lat: 49.68364498200003
+      lng: 19.10937089400005
+    northEast:
+      lat: 49.76690545100007
+      lng: 19.192746784000065
+- slug: milowka
+  name: Milówka
+  type: town
+  voivodeship: slaskie
+  lat: 49.56973
+  lon: 19.0434
+  lands:
+    miedzygorze_jablonkowskokoniakowskie: 39.7544
+    beskid_slaski: 37.2797
+    beskid_zywieckoorawski: 20.9297
+  boundary:
+    southWest:
+      lat: 49.50828675300005
+      lng: 18.967349725000076
+    northEast:
+      lat: 49.62815788100005
+      lng: 19.18096263700005
+- slug: swinna
+  name: Świnna
+  type: town
+  voivodeship: slaskie
+  lat: 49.657
+  lon: 19.25819
+  lands:
+    beskid_zywieckoorawski: 54.4952
+    pasma_pewelskokrzeczowskie: 43.6598
+    kotlina_zywiecka: 1.8451
+  boundary:
+    southWest:
+      lat: 49.62525788200003
+      lng: 19.20524486200003
+    northEast:
+      lat: 49.69709856500003
+      lng: 19.367902041000036
+- slug: koszarawa
+  name: Koszarawa
+  type: town
+  voivodeship: slaskie
+  lat: 49.65278
+  lon: 19.42886
+  lands:
+    beskid_zywieckoorawski: 100.0
+  boundary:
+    southWest:
+      lat: 49.61625425300008
+      lng: 19.380990619000045
+    northEast:
+      lat: 49.680527529000074
+      lng: 19.479245974000037
+- slug: lekawica
+  name: Łękawica
+  type: town
+  voivodeship: slaskie
+  lat: 49.74548
+  lon: 19.30028
+  lands:
+    beskid_maly: 83.9316
+    kotlina_zywiecka: 16.0684
+  boundary:
+    southWest:
+      lat: 49.709529607000036
+      lng: 19.241498703000047
+    northEast:
+      lat: 49.78005244900004
+      lng: 19.36916945300004
+- slug: bytom
+  name: Bytom
+  type: town
+  voivodeship: slaskie
+  lat: 50.36662
+  lon: 18.86999
+  lands:
+    wyzyna_katowicka: 93.9291
+    garb_tarnogorski: 6.0709
+  boundary:
+    southWest:
+      lat: 50.31670752500003
+      lng: 18.788583810000034
+    northEast:
+      lat: 50.41246459000007
+      lng: 18.964072128000055
+- slug: ruda_slaska
+  name: Ruda Śląska
+  type: town
+  voivodeship: slaskie
+  lat: 50.25929
+  lon: 18.86468
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.20842195700004
+      lng: 18.792339387000027
+    northEast:
+      lat: 50.32978330600008
+      lng: 18.956148650000046
+- slug: swietochlowice
+  name: Świętochłowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.2987
+  lon: 18.90437
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.270878965000065
+      lng: 18.883469313000035
+    northEast:
+      lat: 50.32495635300006
+      lng: 18.935754836000058
+- slug: bestwina
+  name: Bestwina
+  type: town
+  voivodeship: slaskie
+  lat: 49.91228
+  lon: 19.0611
+  lands:
+    pogorze_slaskie: 54.0695
+    dolina_gornej_wisly: 45.9305
+  boundary:
+    southWest:
+      lat: 49.868109652000044
+      lng: 19.014849920000074
+    northEast:
+      lat: 49.954838058000064
+      lng: 19.11311285200003
+- slug: strumien
+  name: Strumień
+  type: town
+  voivodeship: slaskie
+  lat: 49.88863
+  lon: 18.73561
+  lands:
+    dolina_gornej_wisly: 58.1493
+    wysoczyzna_konczycka: 38.1977
+    plaskowyz_rybnicki: 2.0828
+  boundary:
+    southWest:
+      lat: 49.84093316500008
+      lng: 18.65647166800005
+    northEast:
+      lat: 49.93477873300003
+      lng: 18.802748396000027
+- slug: koniecpol
+  name: Koniecpol
+  type: town
+  voivodeship: slaskie
+  lat: 50.78823
+  lon: 19.68928
+  lands:
+    niecka_wloszczowska: 95.3713
+    niecka_przyrowska: 4.6287
+  boundary:
+    southWest:
+      lat: 50.71526077800007
+      lng: 19.588235216000044
+    northEast:
+      lat: 50.865970050000044
+      lng: 19.825653326000065
+- slug: klomnice
+  name: Kłomnice
+  type: town
+  voivodeship: slaskie
+  lat: 50.90619
+  lon: 19.36885
+  lands:
+    niecka_przyrowska: 52.5914
+    wyzyna_wielunska: 47.2945
+    wyzyna_czestochowska: 0.1141
+  boundary:
+    southWest:
+      lat: 50.83820966400003
+      lng: 19.260558091000064
+    northEast:
+      lat: 50.97117511700003
+      lng: 19.510432165000054
+- slug: redziny
+  name: Rędziny
+  type: town
+  voivodeship: slaskie
+  lat: 50.87567
+  lon: 19.22757
+  lands:
+    wyzyna_wielunska: 100.0
+  boundary:
+    southWest:
+      lat: 50.84383340000005
+      lng: 19.175238961000048
+    northEast:
+      lat: 50.91831061900007
+      lng: 19.284053526000037
+- slug: jastrzebiezdroj
+  name: Jastrzębie-Zdrój
+  type: town
+  voivodeship: slaskie
+  lat: 49.96164
+  lon: 18.60414
+  lands:
+    plaskowyz_rybnicki: 98.9257
+  boundary:
+    southWest:
+      lat: 49.89657510300003
+      lng: 18.515106864000074
+    northEast:
+      lat: 50.02080919400004
+      lng: 18.686582087000033
+- slug: gorzyce
+  name: Gorzyce
+  type: town
+  voivodeship: slaskie
+  lat: 49.96261
+  lon: 18.39275
+  lands:
+    plaskowyz_rybnicki: 63.3065
+    brama_raciborska: 36.1399
+  boundary:
+    southWest:
+      lat: 49.934031625000046
+      lng: 18.29116136400006
+    northEast:
+      lat: 50.00638560600004
+      lng: 18.468905877000054
+- slug: zebrzydowice
+  name: Zebrzydowice
+  type: town
+  voivodeship: slaskie
+  lat: 49.86162
+  lon: 18.63269
+  lands:
+    wysoczyzna_konczycka: 77.8598
+    plaskowyz_rybnicki: 18.1335
+    kotlina_olzy: 2.6138
+  boundary:
+    southWest:
+      lat: 49.81727189700007
+      lng: 18.56567146900005
+    northEast:
+      lat: 49.910411268000075
+      lng: 18.667601620000028
+- slug: cieszyn
+  name: Cieszyn
+  type: town
+  voivodeship: slaskie
+  lat: 49.75769
+  lon: 18.65924
+  lands:
+    pogorze_slaskie: 98.6884
+    wysoczyzna_konczycka: 0.126
+  boundary:
+    southWest:
+      lat: 49.71859299400006
+      lng: 18.59928482500004
+    northEast:
+      lat: 49.79172009600006
+      lng: 18.705703881000034
+- slug: kobior
+  name: Kobiór
+  type: town
+  voivodeship: slaskie
+  lat: 50.07377
+  lon: 18.94381
+  lands:
+    rownina_pszczynska: 100.0
+  boundary:
+    southWest:
+      lat: 50.04074014400004
+      lng: 18.84775882100007
+    northEast:
+      lat: 50.100580543000035
+      lng: 19.04491236900003
+- slug: pilica
+  name: Pilica
+  type: town
+  voivodeship: slaskie
+  lat: 50.47999
+  lon: 19.70437
+  lands:
+    wyzyna_czestochowska: 75.8182
+    prog_lelowski: 22.7116
+    wyzyna_miechowska: 1.4702
+  boundary:
+    southWest:
+      lat: 50.40512851200003
+      lng: 19.599376637000034
+    northEast:
+      lat: 50.55563867500007
+      lng: 19.791918327000076
+- slug: piekary_slaskie
+  name: Piekary Śląskie
+  type: town
+  voivodeship: slaskie
+  lat: 50.37477
+  lon: 18.94043
+  lands:
+    wyzyna_katowicka: 96.1914
+    garb_tarnogorski: 3.8086
+  boundary:
+    southWest:
+      lat: 50.33065101300008
+      lng: 18.914488620000043
+    northEast:
+      lat: 50.42100744500004
+      lng: 19.04152945800007
+- slug: rudziniec
+  name: Rudziniec
+  type: town
+  voivodeship: slaskie
+  lat: 50.37851
+  lon: 18.46556
+  lands:
+    obnizenie_bojszowa: 82.0992
+    chelm: 17.3532
+    wyzyna_katowicka: 0.5476
+  boundary:
+    southWest:
+      lat: 50.299558571000034
+      lng: 18.35774462200004
+    northEast:
+      lat: 50.44610540000008
+      lng: 18.603468322000026
+- slug: sosnicowice
+  name: Sośnicowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.26509
+  lon: 18.49496
+  lands:
+    obnizenie_bojszowa: 70.3255
+    wyzyna_katowicka: 21.7554
+    plaskowyz_rybnicki: 7.9191
+  boundary:
+    southWest:
+      lat: 50.19545436100003
+      lng: 18.399162216000036
+    northEast:
+      lat: 50.33630820700006
+      lng: 18.59519214000005
+- slug: opatow
+  name: Opatów
+  type: town
+  voivodeship: slaskie
+  lat: 50.94726
+  lon: 18.82579
+  lands:
+    obnizenie_krzepickie: 69.38
+    wyzyna_wielunska: 30.62
+  boundary:
+    southWest:
+      lat: 50.89615846800007
+      lng: 18.743765188000054
+    northEast:
+      lat: 50.99722208900005
+      lng: 18.918018910000058
+- slug: rudnik
+  name: Rudnik
+  type: town
+  voivodeship: slaskie
+  lat: 50.15709
+  lon: 18.17322
+  lands:
+    plaskowyz_glubczycki: 90.4995
+    kotlina_raciborska: 5.5267
+    brama_raciborska: 3.9738
+  boundary:
+    southWest:
+      lat: 50.111336135000045
+      lng: 18.059780611000065
+    northEast:
+      lat: 50.19764242300005
+      lng: 18.25959341600003
+- slug: kozieglowy
+  name: Koziegłowy
+  type: town
+  voivodeship: slaskie
+  lat: 50.57379
+  lon: 19.19601
+  lands:
+    prog_woznicki: 80.3489
+    obnizenie_gornej_malej_panwi: 11.3641
+    obnizenie_gornej_warty: 8.2869
+  boundary:
+    southWest:
+      lat: 50.507910296000034
+      lng: 19.073360082000022
+    northEast:
+      lat: 50.64758042500006
+      lng: 19.29745349600006
+- slug: lyski
+  name: Lyski
+  type: town
+  voivodeship: slaskie
+  lat: 50.11724
+  lon: 18.35428
+  lands:
+    plaskowyz_rybnicki: 99.9998
+    brama_raciborska: 0.0002
+  boundary:
+    southWest:
+      lat: 50.07517648600003
+      lng: 18.283389777000025
+    northEast:
+      lat: 50.15546998600007
+      lng: 18.46154321100005
+- slug: zbroslawice
+  name: Zbrosławice
+  type: town
+  voivodeship: slaskie
+  lat: 50.41454
+  lon: 18.72657
+  lands:
+    garb_tarnogorski: 47.856
+    wyzyna_katowicka: 40.0945
+    obnizenie_gornej_malej_panwi: 12.0495
+  boundary:
+    southWest:
+      lat: 50.32925069800007
+      lng: 18.61397121600004
+    northEast:
+      lat: 50.48756522000008
+      lng: 18.812031215000047
+- slug: pszow
+  name: Pszów
+  type: town
+  voivodeship: slaskie
+  lat: 50.04711
+  lon: 18.38992
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 50.02220082500003
+      lng: 18.35233132700006
+    northEast:
+      lat: 50.07163682300006
+      lng: 18.432962410000073
+- slug: bierun
+  name: Bieruń
+  type: town
+  voivodeship: slaskie
+  lat: 50.0814
+  lon: 19.13101
+  lands:
+    rownina_pszczynska: 72.3614
+    dolina_gornej_wisly: 27.6386
+  boundary:
+    southWest:
+      lat: 50.05720067800007
+      lng: 19.058070530000066
+    northEast:
+      lat: 50.109962573000075
+      lng: 19.23357049300006
+- slug: lubomia
+  name: Lubomia
+  type: town
+  voivodeship: slaskie
+  lat: 50.0322
+  lon: 18.30707
+  lands:
+    brama_raciborska: 53.0288
+    plaskowyz_rybnicki: 46.9712
+  boundary:
+    southWest:
+      lat: 49.98944530600005
+      lng: 18.23955379100005
+    northEast:
+      lat: 50.058047085000055
+      lng: 18.35999919300002
+- slug: marklowice
+  name: Marklowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.02196
+  lon: 18.52581
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 49.99855803500003
+      lng: 18.498658420000027
+    northEast:
+      lat: 50.03815690000005
+      lng: 18.55508251200007
+- slug: chelm_slaski
+  name: Chełm Śląski
+  type: town
+  voivodeship: slaskie
+  lat: 50.10441
+  lon: 19.19794
+  lands:
+    rownina_pszczynska: 67.7146
+    row_krzeszowicki: 22.2636
+    dolina_gornej_wisly: 10.0218
+  boundary:
+    southWest:
+      lat: 50.07589096800007
+      lng: 19.15443776500007
+    northEast:
+      lat: 50.12805223000004
+      lng: 19.245343681000065
+- slug: lipowa
+  name: Lipowa
+  type: town
+  voivodeship: slaskie
+  lat: 49.66838
+  lon: 19.08023
+  lands:
+    beskid_slaski: 58.7274
+    kotlina_zywiecka: 41.2726
+  boundary:
+    southWest:
+      lat: 49.62815788100005
+      lng: 19.00147938300006
+    northEast:
+      lat: 49.707119771000066
+      lng: 19.15832830200003
+- slug: zywiec
+  name: Żywiec
+  type: town
+  voivodeship: slaskie
+  lat: 49.70164
+  lon: 19.21681
+  lands:
+    kotlina_zywiecka: 73.9212
+    beskid_zywieckoorawski: 11.0683
+    beskid_maly: 10.5359
+  boundary:
+    southWest:
+      lat: 49.64988876900003
+      lng: 19.151990556000044
+    northEast:
+      lat: 49.762762579000025
+      lng: 19.26269245800006
+- slug: chorzow
+  name: Chorzów
+  type: town
+  voivodeship: slaskie
+  lat: 50.28443
+  lon: 18.98914
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.23912887600005
+      lng: 18.91896986100005
+    northEast:
+      lat: 50.335881261000054
+      lng: 19.00636803900005
+- slug: dabrowa_gornicza
+  name: Dąbrowa Górnicza
+  type: town
+  voivodeship: slaskie
+  lat: 50.364
+  lon: 19.29487
+  lands:
+    pagory_jaworznickie: 71.4121
+    kotlina_siewierza: 20.5192
+    wyzyna_katowicka: 8.0687
+  boundary:
+    southWest:
+      lat: 50.29169344400003
+      lng: 19.16088071000007
+    northEast:
+      lat: 50.43691247500004
+      lng: 19.48764699900005
+- slug: myslowice
+  name: Mysłowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.21314
+  lon: 19.13031
+  lands:
+    wyzyna_katowicka: 56.6454
+    pagory_jaworznickie: 43.3546
+  boundary:
+    southWest:
+      lat: 50.154373623000026
+      lng: 19.090306421000037
+    northEast:
+      lat: 50.26597996600003
+      lng: 19.24177359300006
+- slug: zabrze
+  name: Zabrze
+  type: town
+  voivodeship: slaskie
+  lat: 50.31267
+  lon: 18.78193
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.24676872500004
+      lng: 18.731858444000068
+    northEast:
+      lat: 50.38137778600003
+      lng: 18.862340102000076
+- slug: czechowicedziedzice
+  name: Czechowice-Dziedzice
+  type: town
+  voivodeship: slaskie
+  lat: 49.89734
+  lon: 18.95771
+  lands:
+    dolina_gornej_wisly: 79.3068
+    pogorze_slaskie: 20.6932
+  boundary:
+    southWest:
+      lat: 49.86315803800005
+      lng: 18.881849396000064
+    northEast:
+      lat: 49.94437266300008
+      lng: 19.039306382000063
+- slug: porabka
+  name: Porąbka
+  type: town
+  voivodeship: slaskie
+  lat: 49.82259
+  lon: 19.23972
+  lands:
+    beskid_maly: 55.5429
+    pogorze_slaskie: 42.3834
+    podgorze_wilamowickie: 2.0737
+  boundary:
+    southWest:
+      lat: 49.77788683000006
+      lng: 19.175195634000033
+    northEast:
+      lat: 49.87157730100006
+      lng: 19.316784363000068
+- slug: przyrow
+  name: Przyrów
+  type: town
+  voivodeship: slaskie
+  lat: 50.77916
+  lon: 19.51403
+  lands:
+    niecka_przyrowska: 68.0929
+    prog_lelowski: 23.9998
+    wyzyna_czestochowska: 7.8762
+  boundary:
+    southWest:
+      lat: 50.72473996000008
+      lng: 19.42223864600004
+    northEast:
+      lat: 50.83739280900005
+      lng: 19.59829566800005
+- slug: krzyzanowice
+  name: Krzyżanowice
+  type: town
+  voivodeship: slaskie
+  lat: 49.9802
+  lon: 18.25798
+  lands:
+    brama_raciborska: 65.04
+    plaskowyz_glubczycki: 33.4294
+  boundary:
+    southWest:
+      lat: 49.91588194000008
+      lng: 18.180306822000034
+    northEast:
+      lat: 50.05216218400005
+      lng: 18.333285054000044
+- slug: tworog
+  name: Tworóg
+  type: town
+  voivodeship: slaskie
+  lat: 50.53166
+  lon: 18.74875
+  lands:
+    obnizenie_gornej_malej_panwi: 97.8351
+    rownina_opolska: 1.4157
+    garb_tarnogorski: 0.7491
+  boundary:
+    southWest:
+      lat: 50.468430168000054
+      lng: 18.622766886000022
+    northEast:
+      lat: 50.59558784200004
+      lng: 18.841752461000056
+- slug: ogrodzieniec
+  name: Ogrodzieniec
+  type: town
+  voivodeship: slaskie
+  lat: 50.46143
+  lon: 19.52409
+  lands:
+    wyzyna_czestochowska: 71.0753
+    kotlina_siewierza: 28.5486
+    obnizenie_gornej_warty: 0.3761
+  boundary:
+    southWest:
+      lat: 50.40512851200003
+      lng: 19.442329710000024
+    northEast:
+      lat: 50.510963297000046
+      lng: 19.64609101700006
+- slug: radzionkow
+  name: Radzionków
+  type: town
+  voivodeship: slaskie
+  lat: 50.39332
+  lon: 18.90123
+  lands:
+    garb_tarnogorski: 53.9657
+    wyzyna_katowicka: 46.0343
+  boundary:
+    southWest:
+      lat: 50.37216188000008
+      lng: 18.878584529000022
+    northEast:
+      lat: 50.43112778600005
+      lng: 18.923404506000054
+- slug: sosnowiec
+  name: Sosnowiec
+  type: town
+  voivodeship: slaskie
+  lat: 50.27048
+  lon: 19.21331
+  lands:
+    wyzyna_katowicka: 64.0447
+    pagory_jaworznickie: 35.9553
+  boundary:
+    southWest:
+      lat: 50.226309601000025
+      lng: 19.07131200400005
+    northEast:
+      lat: 50.316944041000056
+      lng: 19.31194639200004
+- slug: koszecin
+  name: Koszęcin
+  type: town
+  voivodeship: slaskie
+  lat: 50.61729
+  lon: 18.85327
+  lands:
+    obnizenie_gornej_malej_panwi: 52.6825
+    prog_woznicki: 47.3116
+    obnizenie_liswarty: 0.006
+  boundary:
+    southWest:
+      lat: 50.54212954500008
+      lng: 18.714846668000064
+    northEast:
+      lat: 50.69287111800003
+      lng: 18.949983287000066
+- slug: wreczyca_wielka
+  name: Wręczyca Wielka
+  type: town
+  voivodeship: slaskie
+  lat: 50.83263
+  lon: 18.89856
+  lands:
+    obnizenie_krzepickie: 65.1725
+    prog_herbski: 24.6709
+    obnizenie_liswarty: 8.5831
+  boundary:
+    southWest:
+      lat: 50.76605662800006
+      lng: 18.756113318000075
+    northEast:
+      lat: 50.89966012200006
+      lng: 19.04242869600006
+- slug: mikolow
+  name: Mikołów
+  type: town
+  voivodeship: slaskie
+  lat: 50.19726
+  lon: 18.85685
+  lands:
+    wyzyna_katowicka: 100.0
+  boundary:
+    southWest:
+      lat: 50.146165815000074
+      lng: 18.775629336000065
+    northEast:
+      lat: 50.24626531500007
+      lng: 18.948145596000074
+- slug: toszek
+  name: Toszek
+  type: town
+  voivodeship: slaskie
+  lat: 50.44182
+  lon: 18.52818
+  lands:
+    garb_tarnogorski: 44.774
+    chelm: 43.3397
+    obnizenie_bojszowa: 11.8863
+  boundary:
+    southWest:
+      lat: 50.38542792100003
+      lng: 18.381649356000025
+    northEast:
+      lat: 50.49779147900006
+      lng: 18.635325144000035
+- slug: gaszowice
+  name: Gaszowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.09496
+  lon: 18.4203
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 50.07094208600006
+      lng: 18.380282561000058
+    northEast:
+      lat: 50.12167370000003
+      lng: 18.46065860300007
+- slug: pszczyna
+  name: Pszczyna
+  type: town
+  voivodeship: slaskie
+  lat: 49.98786
+  lon: 18.9193
+  lands:
+    rownina_pszczynska: 95.5473
+    dolina_gornej_wisly: 3.2395
+    plaskowyz_rybnicki: 1.2133
+  boundary:
+    southWest:
+      lat: 49.92148670500006
+      lng: 18.74294631400005
+    northEast:
+      lat: 50.06241079800003
+      lng: 19.06059476100006
+- slug: miedzna
+  name: Miedźna
+  type: town
+  voivodeship: slaskie
+  lat: 50.00157
+  lon: 19.0756
+  lands:
+    dolina_gornej_wisly: 72.1153
+    rownina_pszczynska: 27.8847
+  boundary:
+    southWest:
+      lat: 49.953788200000076
+      lng: 19.01720300900007
+    northEast:
+      lat: 50.03938100200003
+      lng: 19.144486852000057
+- slug: nedza
+  name: Nędza
+  type: town
+  voivodeship: slaskie
+  lat: 50.15983
+  lon: 18.32269
+  lands:
+    plaskowyz_rybnicki: 55.6197
+    brama_raciborska: 27.6993
+    kotlina_raciborska: 16.681
+  boundary:
+    southWest:
+      lat: 50.12717038200003
+      lng: 18.234119688000078
+    northEast:
+      lat: 50.19249985000005
+      lng: 18.40979316000005
+- slug: ozarowice
+  name: Ożarowice
+  type: town
+  voivodeship: slaskie
+  lat: 50.47324
+  lon: 19.05321
+  lands:
+    garb_tarnogorski: 73.0311
+    obnizenie_gornej_malej_panwi: 26.9031
+    wyzyna_katowicka: 0.0658
+  boundary:
+    southWest:
+      lat: 50.42920552500004
+      lng: 18.988195811000026
+    northEast:
+      lat: 50.522545285000035
+      lng: 19.13446582800003
+- slug: radlin
+  name: Radlin
+  type: town
+  voivodeship: slaskie
+  lat: 50.04232
+  lon: 18.46606
+  lands:
+    plaskowyz_rybnicki: 100.0
+  boundary:
+    southWest:
+      lat: 50.02248826500005
+      lng: 18.42711699800003
+    northEast:
+      lat: 50.05956287300006
+      lng: 18.504910996000035
+- slug: lazy
+  name: Łazy
+  type: town
+  voivodeship: slaskie
+  lat: 50.41979
+  lon: 19.38368
+  lands:
+    kotlina_siewierza: 79.5624
+    wyzyna_czestochowska: 15.2674
+    pagory_jaworznickie: 5.1702
+  boundary:
+    southWest:
+      lat: 50.359335016000045
+      lng: 19.249778029000026
+    northEast:
+      lat: 50.48510702800007
+      lng: 19.51790862100006
+- slug: wegierska_gorka
+  name: Węgierska Górka
+  type: town
+  voivodeship: slaskie
+  lat: 49.57813
+  lon: 19.14807
+  lands:
+    beskid_zywieckoorawski: 80.5222
+    beskid_slaski: 14.744
+    kotlina_zywiecka: 4.7338
+  boundary:
+    southWest:
+      lat: 49.526209710000046
+      lng: 19.070085666000068
+    northEast:
+      lat: 49.628387270000076
+      lng: 19.241893955000023
+- slug: kroczyce
+  name: Kroczyce
+  type: town
+  voivodeship: slaskie
+  lat: 50.56026
+  lon: 19.6201
+  lands:
+    wyzyna_czestochowska: 88.5235
+    prog_lelowski: 11.4765
+  boundary:
+    southWest:
+      lat: 50.503092679000076
+      lng: 19.51067987500005
+    northEast:
+      lat: 50.62471477100007
+      lng: 19.73416304600005
+- slug: jaworze
+  name: Jaworze
+  type: town
+  voivodeship: slaskie
+  lat: 49.77586
+  lon: 18.93593
+  lands:
+    pogorze_slaskie: 51.2575
+    beskid_slaski: 48.7425
+  boundary:
+    southWest:
+      lat: 49.74415065300008
+      lng: 18.90669118900007
+    northEast:
+      lat: 49.80902633200003
+      lng: 18.975267244000065
 - slug: wilkowice
   name: Wilkowice
   type: town
   voivodeship: slaskie
-  lat: 49.76090
-  lon: 19.09927
+  lat: 49.76522
+  lon: 19.10567
+  lands:
+    beskid_maly: 42.3741
+    beskid_slaski: 33.185
+    kotlina_zywiecka: 23.458
+  boundary:
+    southWest:
+      lat: 49.73171058300005
+      lng: 18.995106346000057
+    northEast:
+      lat: 49.79764380200004
+      lng: 19.153421981000065
+- slug: ujsoly
+  name: Ujsoły
+  type: town
+  voivodeship: slaskie
+  lat: 49.46935
+  lon: 19.16028
+  lands:
+    beskid_zywieckokysucki: 70.0624
+    beskid_zywieckoorawski: 28.965
+  boundary:
+    southWest:
+      lat: 49.40261575000005
+      lng: 19.064862074000075
+    northEast:
+      lat: 49.53698428700005
+      lng: 19.26069025000004
+- slug: bobrowniki
+  name: Bobrowniki
+  type: town
+  voivodeship: slaskie
+  lat: 50.41183
+  lon: 19.03441
+  lands:
+    wyzyna_katowicka: 58.9041
+    garb_tarnogorski: 41.0959
+  boundary:
+    southWest:
+      lat: 50.36839531100003
+      lng: 18.957769985000027
+    northEast:
+      lat: 50.454355658000054
+      lng: 19.09945192300006
+- slug: lipie
+  name: Lipie
+  type: town
+  voivodeship: slaskie
+  lat: 51.03307
+  lon: 18.78077
+  lands:
+    wyzyna_wielunska: 92.2617
+    obnizenie_krzepickie: 7.7383
+  boundary:
+    southWest:
+      lat: 50.982911029000036
+      lng: 18.671960942000055
+    northEast:
+      lat: 51.07269343100006
+      lng: 18.89048846000003
+- slug: wozniki
+  name: Woźniki
+  type: town
+  voivodeship: slaskie
+  lat: 50.59382
+  lon: 19.02006
+  lands:
+    prog_woznicki: 58.9246
+    obnizenie_gornej_malej_panwi: 28.1192
+    obnizenie_liswarty: 12.7869
+  boundary:
+    southWest:
+      lat: 50.49328348700004
+      lng: 18.93128819900005
+    northEast:
+      lat: 50.66834053100007
+      lng: 19.109261954000033
+- slug: knurow
+  name: Knurów
+  type: town
+  voivodeship: slaskie
+  lat: 50.20524
+  lon: 18.66692
+  lands:
+    wyzyna_katowicka: 94.2103
+    plaskowyz_rybnicki: 5.7897
+  boundary:
+    southWest:
+      lat: 50.17399689700005
+      lng: 18.61231626400007
+    northEast:
+      lat: 50.24052452700005
+      lng: 18.708154326000056
+- slug: wyry
+  name: Wyry
+  type: town
+  voivodeship: slaskie
+  lat: 50.11625
+  lon: 18.88986
+  lands:
+    rownina_pszczynska: 68.3937
+    wyzyna_katowicka: 31.6063
+  boundary:
+    southWest:
+      lat: 50.08191509100004
+      lng: 18.83184060700006
+    northEast:
+      lat: 50.15010420700003
+      lng: 18.953995908000024
+- slug: suszec
+  name: Suszec
+  type: town
+  voivodeship: slaskie
+  lat: 50.02331
+  lon: 18.82633
+  lands:
+    rownina_pszczynska: 100.0
+  boundary:
+    southWest:
+      lat: 49.97811405600004
+      lng: 18.74918548100004
+    northEast:
+      lat: 50.06856657000003
+      lng: 18.89862076000003
+- slug: myszkow
+  name: Myszków
+  type: town
+  voivodeship: slaskie
+  lat: 50.56282
+  lon: 19.32411
+  lands:
+    obnizenie_gornej_warty: 57.8697
+    prog_woznicki: 42.1303
+  boundary:
+    southWest:
+      lat: 50.50666169200008
+      lng: 19.262724395000077
+    northEast:
+      lat: 50.62273148300005
+      lng: 19.391310739000062
+- slug: poraj
+  name: Poraj
+  type: town
+  voivodeship: slaskie
+  lat: 50.65793
+  lon: 19.22474
+  lands:
+    obnizenie_gornej_warty: 66.371
+    prog_woznicki: 22.2231
+    wyzyna_czestochowska: 11.4059
+  boundary:
+    southWest:
+      lat: 50.60950747600003
+      lng: 19.16282278600005
+    northEast:
+      lat: 50.70299780400006
+      lng: 19.306279301000075
+- slug: krupski_mlyn
+  name: Krupski Młyn
+  type: town
+  voivodeship: slaskie
+  lat: 50.57349
+  lon: 18.65204
+  lands:
+    rownina_opolska: 58.7628
+    obnizenie_gornej_malej_panwi: 41.2372
+  boundary:
+    southWest:
+      lat: 50.53509887000007
+      lng: 18.590800349000062
+    northEast:
+      lat: 50.604453041000056
+      lng: 18.714761821000025
+- slug: niegowa
+  name: Niegowa
+  type: town
+  voivodeship: slaskie
+  lat: 50.64576
+  lon: 19.52555
+  lands:
+    wyzyna_czestochowska: 87.1149
+    prog_lelowski: 12.8851
+  boundary:
+    southWest:
+      lat: 50.60208560600006
+      lng: 19.414116885000055
+    northEast:
+      lat: 50.68636279300006
+      lng: 19.627914802000078
+- slug: jaworzno
+  name: Jaworzno
+  type: town
+  voivodeship: slaskie
+  lat: 50.18337
+  lon: 19.27993
+  lands:
+    pagory_jaworznickie: 89.4904
+    row_krzeszowicki: 10.3599
+    wyzyna_katowicka: 0.1496
+  boundary:
+    southWest:
+      lat: 50.116933679000056
+      lng: 19.160678673000064
+    northEast:
+      lat: 50.26179269800008
+      lng: 19.441975568000032
+- slug: szczyrk
+  name: Szczyrk
+  type: town
+  voivodeship: slaskie
+  lat: 49.69758
+  lon: 19.01199
+  lands:
+    beskid_slaski: 99.7267
+    kotlina_zywiecka: 0.2733
+  boundary:
+    southWest:
+      lat: 49.654503238000075
+      lng: 18.954637621000074
+    northEast:
+      lat: 49.739977080000074
+      lng: 19.060288065000066
+- slug: kozy
+  name: Kozy
+  type: town
+  voivodeship: slaskie
+  lat: 49.84136
+  lon: 19.14671
+  lands:
+    pogorze_slaskie: 61.4764
+    beskid_maly: 37.4951
+    podgorze_wilamowickie: 1.0285
+  boundary:
+    southWest:
+      lat: 49.790412408000066
+      lng: 19.099730349000026
+    northEast:
+      lat: 49.868042193000065
+      lng: 19.17893078700007
+- slug: mierzecice
+  name: Mierzęcice
+  type: town
+  voivodeship: slaskie
+  lat: 50.43126
+  lon: 19.13272
+  lands:
+    garb_tarnogorski: 91.155
+    pagory_jaworznickie: 8.3408
+    kotlina_siewierza: 0.5042
+  boundary:
+    southWest:
+      lat: 50.38668447100008
+      lng: 19.063779528000055
+    northEast:
+      lat: 50.480431089000035
+      lng: 19.20022620900005
+- slug: siewierz
+  name: Siewierz
+  type: town
+  voivodeship: slaskie
+  lat: 50.46469
+  lon: 19.23805
+  lands:
+    kotlina_siewierza: 29.6421
+    prog_woznicki: 25.7258
+    pagory_jaworznickie: 23.758
+  boundary:
+    southWest:
+      lat: 50.38943899600008
+      lng: 19.113660823000032
+    northEast:
+      lat: 50.536088136000046
+      lng: 19.306745680000063
+- slug: chybie
+  name: Chybie
+  type: town
+  voivodeship: slaskie
+  lat: 49.88427
+  lon: 18.82219
+  lands:
+    dolina_gornej_wisly: 100.0
+  boundary:
+    southWest:
+      lat: 49.85497518600005
+      lng: 18.789004703000046
+    northEast:
+      lat: 49.921088420000046
+      lng: 18.890565355000035
+- slug: mstow
+  name: Mstów
+  type: town
+  voivodeship: slaskie
+  lat: 50.82718
+  lon: 19.32627
+  lands:
+    wyzyna_czestochowska: 58.9327
+    wyzyna_wielunska: 23.0869
+    niecka_przyrowska: 17.9804
+  boundary:
+    southWest:
+      lat: 50.77579675700008
+      lng: 19.19305149400003
+    northEast:
+      lat: 50.875065377000055
+      lng: 19.44640781800007
+- slug: kruszyna
+  name: Kruszyna
+  type: town
+  voivodeship: slaskie
+  lat: 50.99822
+  lon: 19.31067
+  lands:
+    wyzyna_wielunska: 58.2439
+    niecka_przyrowska: 41.7561
+  boundary:
+    southWest:
+      lat: 50.946265966000055
+      lng: 19.204254253000045
+    northEast:
+      lat: 51.04619057600007
+      lng: 19.410722517000067
+- slug: konopiska
+  name: Konopiska
+  type: town
+  voivodeship: slaskie
+  lat: 50.72189
+  lon: 18.99304
+  lands:
+    prog_herbski: 71.3225
+    obnizenie_gornej_warty: 28.5558
+    obnizenie_liswarty: 0.1217
+  boundary:
+    southWest:
+      lat: 50.66384926500007
+      lng: 18.913007168000036
+    northEast:
+      lat: 50.77186222100005
+      lng: 19.07417100200007
+- slug: poczesna
+  name: Poczesna
+  type: town
+  voivodeship: slaskie
+  lat: 50.71766
+  lon: 19.13934
+  lands:
+    obnizenie_gornej_warty: 83.0307
+    prog_herbski: 16.9693
+  boundary:
+    southWest:
+      lat: 50.69096055000006
+      lng: 19.04943998400006
+    northEast:
+      lat: 50.75777701800007
+      lng: 19.223021257000028
+- slug: jelesnia
+  name: Jeleśnia
+  type: town
+  voivodeship: slaskie
+  lat: 49.60748
+  lon: 19.3432
+  lands:
+    beskid_zywieckoorawski: 92.0535
+    pasma_pewelskokrzeczowskie: 7.3801
+  boundary:
+    southWest:
+      lat: 49.531083333000026
+      lng: 19.214524003000065
+    northEast:
+      lat: 49.69492609100007
+      lng: 19.480764855000075
+- slug: zory
+  name: Żory
+  type: town
+  voivodeship: slaskie
+  lat: 50.03626
+  lon: 18.67843
+  lands:
+    plaskowyz_rybnicki: 63.4955
+    rownina_pszczynska: 36.5045
+  boundary:
+    southWest:
+      lat: 49.998079192000034
+      lng: 18.60222420300005
+    northEast:
+      lat: 50.081255860000056
+      lng: 18.773562217000062

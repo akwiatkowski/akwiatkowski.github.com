@@ -1,0 +1,1651 @@
+---
+- slug: naglowice
+  name: Nagłowice
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.65587
+  lon: 20.11068
+  lands:
+    plaskowyz_jedrzejowski: 100.0
+  boundary:
+    southWest:
+      lat: 50.60215598600007
+      lng: 20.026790778000077
+    northEast:
+      lat: 50.71475639800008
+      lng: 20.21891767900007
+- slug: sedziszow
+  name: Sędziszów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.55383
+  lon: 20.03484
+  lands:
+    plaskowyz_jedrzejowski: 50.7527
+    garb_wodzislawski: 43.4002
+    wyzyna_miechowska: 5.8471
+  boundary:
+    southWest:
+      lat: 50.50016492200007
+      lng: 19.902182207000067
+    northEast:
+      lat: 50.61248272800003
+      lng: 20.21062515600005
+- slug: imielno
+  name: Imielno
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.58142
+  lon: 20.42167
+  lands:
+    plaskowyz_jedrzejowski: 83.1758
+    dolina_nidy: 16.8242
+  boundary:
+    southWest:
+      lat: 50.52939718500005
+      lng: 20.330802403000064
+    northEast:
+      lat: 50.64753552900004
+      lng: 20.514209939000068
+- slug: bieliny
+  name: Bieliny
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.83017
+  lon: 20.96405
+  lands:
+    gory_swietokrzyskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.77832508800003
+      lng: 20.874788599000055
+    northEast:
+      lat: 50.88629005800004
+      lng: 21.03239052500004
+- slug: mniow
+  name: Mniów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.01229
+  lon: 20.44628
+  lands:
+    plaskowyz_suchedniowski: 61.0603
+    gory_swietokrzyskie: 38.9397
+  boundary:
+    southWest:
+      lat: 50.957935976000044
+      lng: 20.341049502000033
+    northEast:
+      lat: 51.061780369000076
+      lng: 20.579459391000057
+- slug: konskie
+  name: Końskie
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.16876
+  lon: 20.37998
+  lands:
+    wzgorza_opoczynskie: 60.6548
+    garb_gielniowski: 35.1031
+    plaskowyz_suchedniowski: 4.2421
+  boundary:
+    southWest:
+      lat: 51.082282203000034
+      lng: 20.23212253500003
+    northEast:
+      lat: 51.258810779000044
+      lng: 20.565991695000037
+- slug: staporkow
+  name: Stąporków
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.1413
+  lon: 20.58197
+  lands:
+    garb_gielniowski: 64.5128
+    plaskowyz_suchedniowski: 35.4872
+  boundary:
+    southWest:
+      lat: 51.04709407100006
+      lng: 20.467711287000043
+    northEast:
+      lat: 51.24468541500005
+      lng: 20.70199033600005
+- slug: ozarow
+  name: Ożarów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.8648
+  lon: 21.69627
+  lands:
+    przedgorze_ilzeckie: 67.0694
+    wyzyna_sandomierska: 24.3791
+    malopolski_przelom_wisly: 8.5224
+  boundary:
+    southWest:
+      lat: 50.773080449000076
+      lng: 21.576952780000056
+    northEast:
+      lat: 50.95666328000004
+      lng: 21.835813614000074
+- slug: klimontow
+  name: Klimontów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.64911
+  lon: 21.45092
+  lands:
+    wyzyna_sandomierska: 69.8337
+    gory_swietokrzyskie: 29.2671
+    pogorze_szydlowskie: 0.8992
+  boundary:
+    southWest:
+      lat: 50.59230533700003
+      lng: 21.350160408000022
+    northEast:
+      lat: 50.71155497900003
+      lng: 21.55048034300006
+- slug: wilczyce
+  name: Wilczyce
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.75139
+  lon: 21.63938
+  lands:
+    wyzyna_sandomierska: 100.0
+  boundary:
+    southWest:
+      lat: 50.711683091000054
+      lng: 21.551831441000047
+    northEast:
+      lat: 50.796185577000074
+      lng: 21.725016759000027
+- slug: pinczow
+  name: Pińczów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.488
+  lon: 20.5775
+  lands:
+    dolina_nidy: 34.727
+    garb_wodzislawski: 24.5662
+    niecka_polaniecka: 20.4853
+  boundary:
+    southWest:
+      lat: 50.38886368900006
+      lng: 20.401060048000033
+    northEast:
+      lat: 50.572367471000064
+      lng: 20.68444743300006
+- slug: osiek
+  name: Osiek
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.51577
+  lon: 21.42758
+  lands:
+    niecka_polaniecka: 72.0886
+    nizina_nadwislanska: 27.8412
+    pogorze_szydlowskie: 0.0702
+  boundary:
+    southWest:
+      lat: 50.439066344000025
+      lng: 21.288580425000077
+    northEast:
+      lat: 50.59230533700003
+      lng: 21.517814264000037
+- slug: wasniow
+  name: Waśniów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.89865
+  lon: 21.21549
+  lands:
+    wyzyna_sandomierska: 51.4789
+    gory_swietokrzyskie: 48.5211
+  boundary:
+    southWest:
+      lat: 50.81929612300007
+      lng: 21.127914111000052
+    northEast:
+      lat: 50.96072939800007
+      lng: 21.318719085000055
+- slug: zlota
+  name: Złota
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.38992
+  lon: 20.56409
+  lands:
+    garb_wodzislawski: 81.5184
+    dolina_nidy: 18.4816
+  boundary:
+    southWest:
+      lat: 50.32953678200005
+      lng: 20.488179829000046
+    northEast:
+      lat: 50.44986743800007
+      lng: 20.65146683200004
+- slug: sandomierz
+  name: Sandomierz
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.68595
+  lon: 21.75179
+  lands:
+    nizina_nadwislanska: 53.1553
+    wyzyna_sandomierska: 46.8447
+  boundary:
+    southWest:
+      lat: 50.64377982500008
+      lng: 21.706903789000023
+    northEast:
+      lat: 50.71733174600007
+      lng: 21.793820931000027
+- slug: samborzec
+  name: Samborzec
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.65031
+  lon: 21.62459
+  lands:
+    wyzyna_sandomierska: 60.0263
+    nizina_nadwislanska: 39.9737
+  boundary:
+    southWest:
+      lat: 50.600075315000026
+      lng: 21.52108137600004
+    northEast:
+      lat: 50.69864159100007
+      lng: 21.730866072000026
+- slug: kluczewsko
+  name: Kluczewsko
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.97986
+  lon: 19.90942
+  lands:
+    pasmo_przedborskomalogoskie: 57.2475
+    niecka_wloszczowska: 36.7598
+    wzgorza_radomszczanskie: 5.9928
+  boundary:
+    southWest:
+      lat: 50.894748133000064
+      lng: 19.82941205700007
+    northEast:
+      lat: 51.047621510000056
+      lng: 20.02123103200006
+- slug: wislica
+  name: Wiślica
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.37172
+  lon: 20.69479
+  lands:
+    niecka_solecka: 44.2902
+    dolina_nidy: 39.8385
+    garb_wodzislawski: 13.5934
+  boundary:
+    southWest:
+      lat: 50.30742910500004
+      lng: 20.604318962000036
+    northEast:
+      lat: 50.43557124900008
+      lng: 20.76291555800003
+- slug: olesnica
+  name: Oleśnica
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.45451
+  lon: 21.06919
+  lands:
+    niecka_polaniecka: 88.4305
+    garb_pinczowski: 11.5695
+  boundary:
+    southWest:
+      lat: 50.42577803200004
+      lng: 20.980660295000064
+    northEast:
+      lat: 50.489178339000034
+      lng: 21.146401191000052
+- slug: buskozdroj
+  name: Busko-Zdrój
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.46708
+  lon: 20.73066
+  lands:
+    niecka_polaniecka: 49.5914
+    niecka_solecka: 29.0513
+    garb_pinczowski: 21.3573
+  boundary:
+    southWest:
+      lat: 50.36407617900005
+      lng: 20.60532811400003
+    northEast:
+      lat: 50.56669291800006
+      lng: 20.91750040100004
+- slug: chmielnik
+  name: Chmielnik
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.61011
+  lon: 20.73745
+  lands:
+    niecka_polaniecka: 54.6756
+    pogorze_szydlowskie: 37.9088
+    gory_swietokrzyskie: 7.4156
+  boundary:
+    southWest:
+      lat: 50.53648403100004
+      lng: 20.603576555000075
+    northEast:
+      lat: 50.68719269200005
+      lng: 20.82923661500007
+- slug: gorno
+  name: Górno
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.85789
+  lon: 20.79634
+  lands:
+    gory_swietokrzyskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.81461776300006
+      lng: 20.702913574000036
+    northEast:
+      lat: 50.90770245500005
+      lng: 20.905087156000036
+- slug: iwaniska
+  name: Iwaniska
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.72282
+  lon: 21.27842
+  lands:
+    gory_swietokrzyskie: 93.4771
+    wyzyna_sandomierska: 6.5229
+  boundary:
+    southWest:
+      lat: 50.683504105000054
+      lng: 21.13685991600005
+    northEast:
+      lat: 50.763622430000055
+      lng: 21.412462878000042
+- slug: falkow
+  name: Fałków
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.13274
+  lon: 20.07068
+  lands:
+    wzgorza_opoczynskie: 54.9193
+    wzgorza_lopuszanskie: 45.0807
+  boundary:
+    southWest:
+      lat: 51.06278826600004
+      lng: 19.981769272000065
+    northEast:
+      lat: 51.20272190000003
+      lng: 20.155182418000038
+- slug: skarzyskokamienna
+  name: Skarżysko-Kamienna
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.12204
+  lon: 20.87746
+  lands:
+    garb_gielniowski: 46.5062
+    przedgorze_ilzeckie: 32.8456
+    plaskowyz_suchedniowski: 20.6482
+  boundary:
+    southWest:
+      lat: 51.06752633700006
+      lng: 20.801176333000058
+    northEast:
+      lat: 51.17845312600008
+      lng: 20.947852918000024
+- slug: michalow
+  name: Michałów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.48389
+  lon: 20.44091
+  lands:
+    garb_wodzislawski: 53.6108
+    plaskowyz_jedrzejowski: 41.8026
+    dolina_nidy: 4.5866
+  boundary:
+    southWest:
+      lat: 50.413575338000044
+      lng: 20.327216262000036
+    northEast:
+      lat: 50.54764481400008
+      lng: 20.518736053000055
+- slug: bodzechow
+  name: Bodzechów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.94668
+  lon: 21.48872
+  lands:
+    wyzyna_sandomierska: 50.1973
+    przedgorze_ilzeckie: 49.8027
+  boundary:
+    southWest:
+      lat: 50.86414812800007
+      lng: 21.26811993700005
+    northEast:
+      lat: 51.03083093500004
+      lng: 21.522967477000066
+- slug: rytwiany
+  name: Rytwiany
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.50186
+  lon: 21.21963
+  lands:
+    niecka_polaniecka: 100.0
+  boundary:
+    southWest:
+      lat: 50.45835265300008
+      lng: 21.111541045000024
+    northEast:
+      lat: 50.555927154000074
+      lng: 21.369656887000076
+- slug: krasocin
+  name: Krasocin
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.91266
+  lon: 20.09984
+  lands:
+    pasmo_przedborskomalogoskie: 59.2609
+    wzgorza_lopuszanskie: 32.5662
+    niecka_wloszczowska: 6.631
+  boundary:
+    southWest:
+      lat: 50.82574852400006
+      lng: 19.98454419500007
+    northEast:
+      lat: 50.990206672000056
+      lng: 20.249618844000054
+- slug: kielce
+  name: Kielce
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.85396
+  lon: 20.60915
+  lands:
+    gory_swietokrzyskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.79688788300007
+      lng: 20.51052247100006
+    northEast:
+      lat: 50.91251258500006
+      lng: 20.708246233000068
+- slug: morawica
+  name: Morawica
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.74687
+  lon: 20.63365
+  lands:
+    gory_swietokrzyskie: 89.5762
+    pogorze_szydlowskie: 10.4238
+  boundary:
+    southWest:
+      lat: 50.667625186000066
+      lng: 20.51018257800007
+    northEast:
+      lat: 50.818715937000036
+      lng: 20.71852502400003
+- slug: malogoszcz
+  name: Małogoszcz
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.78937
+  lon: 20.24587
+  lands:
+    pasmo_przedborskomalogoskie: 73.3829
+    wzgorza_lopuszanskie: 13.5912
+    plaskowyz_jedrzejowski: 10.8822
+  boundary:
+    southWest:
+      lat: 50.71550645900004
+      lng: 20.118915799000035
+    northEast:
+      lat: 50.86527602600006
+      lng: 20.354989827000054
+- slug: tuczepy
+  name: Tuczępy
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.52458
+  lon: 20.99086
+  lands:
+    niecka_polaniecka: 100.0
+  boundary:
+    southWest:
+      lat: 50.47710966000005
+      lng: 20.904207738000025
+    northEast:
+      lat: 50.56633256500004
+      lng: 21.115853988000026
+- slug: soleczdroj
+  name: Solec-Zdrój
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.37961
+  lon: 20.88845
+  lands:
+    niecka_solecka: 72.5595
+    garb_pinczowski: 13.8822
+    nizina_nadwislanska: 12.1026
+  boundary:
+    southWest:
+      lat: 50.33216826800003
+      lng: 20.80736170600005
+    northEast:
+      lat: 50.43246563800005
+      lng: 20.97156304500004
+- slug: opatow
+  name: Opatów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.7947
+  lon: 21.4211
+  lands:
+    wyzyna_sandomierska: 70.6215
+    gory_swietokrzyskie: 29.3785
+  boundary:
+    southWest:
+      lat: 50.73936804900006
+      lng: 21.310201404000054
+    northEast:
+      lat: 50.84908475300006
+      lng: 21.517960877000064
+- slug: miedziana_gora
+  name: Miedziana Góra
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.95169
+  lon: 20.55983
+  lands:
+    gory_swietokrzyskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.88291662600005
+      lng: 20.49354973800007
+    northEast:
+      lat: 51.019068117000074
+      lng: 20.629724027000066
+- slug: maslow
+  name: Masłów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.9068
+  lon: 20.74731
+  lands:
+    gory_swietokrzyskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.86294907200005
+      lng: 20.603413131000025
+    northEast:
+      lat: 50.95008048200003
+      lng: 20.833036008000022
+- slug: mirzec
+  name: Mirzec
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.14207
+  lon: 21.03848
+  lands:
+    przedgorze_ilzeckie: 100.0
+  boundary:
+    southWest:
+      lat: 51.076289118000034
+      lng: 20.948908118000077
+    northEast:
+      lat: 51.20692839800006
+      lng: 21.160244815000055
+- slug: skarzysko_koscielne
+  name: Skarżysko Kościelne
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.13454
+  lon: 20.93343
+  lands:
+    przedgorze_ilzeckie: 74.063
+    plaskowyz_suchedniowski: 25.937
+  boundary:
+    southWest:
+      lat: 51.07359262400007
+      lng: 20.879781024000067
+    northEast:
+      lat: 51.19533739700006
+      lng: 20.98365717300004
+- slug: suchedniow
+  name: Suchedniów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.04514
+  lon: 20.83209
+  lands:
+    plaskowyz_suchedniowski: 64.0601
+    gory_swietokrzyskie: 35.8358
+  boundary:
+    southWest:
+      lat: 50.99611938600003
+      lng: 20.751407198000038
+    northEast:
+      lat: 51.08764495100007
+      lng: 20.918345723000073
+- slug: bogoria
+  name: Bogoria
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.65283
+  lon: 21.26302
+  lands:
+    gory_swietokrzyskie: 60.1691
+    pogorze_szydlowskie: 39.8309
+  boundary:
+    southWest:
+      lat: 50.59968488800007
+      lng: 21.141254080000067
+    northEast:
+      lat: 50.70494862100003
+      lng: 21.39443412600008
+- slug: dzialoszyce
+  name: Działoszyce
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.39674
+  lon: 20.37764
+  lands:
+    garb_wodzislawski: 51.3356
+    plaskowyz_proszowicki: 33.1824
+    wyzyna_miechowska: 15.482
+  boundary:
+    southWest:
+      lat: 50.33588548600005
+      lng: 20.260608715000046
+    northEast:
+      lat: 50.46994523800004
+      lng: 20.46653186700007
+- slug: lagow
+  name: Łagów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.77193
+  lon: 21.0543
+  lands:
+    gory_swietokrzyskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.698360335000075
+      lng: 20.965801159000023
+    northEast:
+      lat: 50.83916647400008
+      lng: 21.16972190200005
+- slug: szydlow
+  name: Szydłów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.60127
+  lon: 21.01127
+  lands:
+    pogorze_szydlowskie: 87.8019
+    niecka_polaniecka: 12.1981
+  boundary:
+    southWest:
+      lat: 50.53674648800006
+      lng: 20.874064200000078
+    northEast:
+      lat: 50.674553133000074
+      lng: 21.087269551000077
+- slug: nowy_korczyn
+  name: Nowy Korczyn
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.32809
+  lon: 20.85337
+  lands:
+    dolina_nidy: 49.7324
+    nizina_nadwislanska: 32.3621
+    niecka_solecka: 9.9425
+  boundary:
+    southWest:
+      lat: 50.27388649400007
+      lng: 20.688116152000077
+    northEast:
+      lat: 50.38979783900004
+      lng: 20.977198497000074
+- slug: sobkow
+  name: Sobków
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.71087
+  lon: 20.43505
+  lands:
+    pogorze_szydlowskie: 36.5332
+    dolina_nidy: 21.9844
+    pasmo_przedborskomalogoskie: 21.5897
+  boundary:
+    southWest:
+      lat: 50.63599603400007
+      lng: 20.297473359000037
+    northEast:
+      lat: 50.78616046800005
+      lng: 20.58430073900007
+- slug: oksa
+  name: Oksa
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.76447
+  lon: 20.13167
+  lands:
+    plaskowyz_jedrzejowski: 97.6056
+    pasmo_przedborskomalogoskie: 2.3944
+  boundary:
+    southWest:
+      lat: 50.70169168900003
+      lng: 20.052323949000026
+    northEast:
+      lat: 50.814868389000026
+      lng: 20.24826828700003
+- slug: gnojno
+  name: Gnojno
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.58087
+  lon: 20.87405
+  lands:
+    pogorze_szydlowskie: 54.7347
+    niecka_polaniecka: 45.1942
+    gory_swietokrzyskie: 0.0711
+  boundary:
+    southWest:
+      lat: 50.52888038800006
+      lng: 20.77452020100003
+    northEast:
+      lat: 50.63651688600004
+      lng: 20.95056616100004
+- slug: skalbmierz
+  name: Skalbmierz
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.30198
+  lon: 20.39995
+  lands:
+    plaskowyz_proszowicki: 100.0
+  boundary:
+    southWest:
+      lat: 50.26120783600004
+      lng: 20.292622644000062
+    northEast:
+      lat: 50.35931140100007
+      lng: 20.48535542700006
+- slug: daleszyce
+  name: Daleszyce
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.77893
+  lon: 20.82279
+  lands:
+    gory_swietokrzyskie: 88.0856
+    pogorze_szydlowskie: 11.9144
+  boundary:
+    southWest:
+      lat: 50.70559087300006
+      lng: 20.65510471400006
+    northEast:
+      lat: 50.85232028900003
+      lng: 20.97785418500007
+- slug: rakow
+  name: Raków
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.69654
+  lon: 21.00015
+  lands:
+    pogorze_szydlowskie: 55.6926
+    gory_swietokrzyskie: 44.3074
+  boundary:
+    southWest:
+      lat: 50.630089747000056
+      lng: 20.843166851000035
+    northEast:
+      lat: 50.76564436000007
+      lng: 21.162182581000025
+- slug: strawczyn
+  name: Strawczyn
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.94064
+  lon: 20.43422
+  lands:
+    wzgorza_lopuszanskie: 67.8691
+    gory_swietokrzyskie: 31.3348
+    plaskowyz_suchedniowski: 0.7961
+  boundary:
+    southWest:
+      lat: 50.89498584900008
+      lng: 20.315289755000038
+    northEast:
+      lat: 50.98411087800008
+      lng: 20.516570052000077
+- slug: ruda_maleniecka
+  name: Ruda Maleniecka
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.14339
+  lon: 20.21583
+  lands:
+    wzgorza_opoczynskie: 79.8257
+    wzgorza_lopuszanskie: 20.1743
+  boundary:
+    southWest:
+      lat: 51.07335211700007
+      lng: 20.098380457000076
+    northEast:
+      lat: 51.20707683900008
+      lng: 20.303961661000073
+- slug: zagnansk
+  name: Zagnańsk
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.99995
+  lon: 20.66357
+  lands:
+    gory_swietokrzyskie: 89.0234
+    plaskowyz_suchedniowski: 10.9766
+  boundary:
+    southWest:
+      lat: 50.939263733000075
+      lng: 20.537546245000044
+    northEast:
+      lat: 51.06133659800008
+      lng: 20.764098284000056
+- slug: loniow
+  name: Łoniów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.56612
+  lon: 21.51095
+  lands:
+    niecka_polaniecka: 56.8224
+    nizina_nadwislanska: 37.1792
+    wyzyna_sandomierska: 5.2656
+  boundary:
+    southWest:
+      lat: 50.509280517000036
+      lng: 21.41083674300006
+    northEast:
+      lat: 50.623320353000054
+      lng: 21.62867361700006
+- slug: obrazow
+  name: Obrazów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.69769
+  lon: 21.61553
+  lands:
+    wyzyna_sandomierska: 100.0
+  boundary:
+    southWest:
+      lat: 50.65891796400007
+      lng: 21.525125226000057
+    northEast:
+      lat: 50.734732662000056
+      lng: 21.74184738100007
+- slug: tarlow
+  name: Tarłów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.00435
+  lon: 21.74628
+  lands:
+    przedgorze_ilzeckie: 82.2808
+    malopolski_przelom_wisly: 17.7192
+  boundary:
+    southWest:
+      lat: 50.92408995000005
+      lng: 21.590377239000077
+    northEast:
+      lat: 51.07801566300003
+      lng: 21.826380468000025
+- slug: wachock
+  name: Wąchock
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.05338
+  lon: 20.97743
+  lands:
+    plaskowyz_suchedniowski: 73.6581
+    przedgorze_ilzeckie: 19.6539
+    gory_swietokrzyskie: 6.688
+  boundary:
+    southWest:
+      lat: 50.99541482600006
+      lng: 20.902792963000024
+    northEast:
+      lat: 51.10896250400003
+      lng: 21.103240931000073
+- slug: wojciechowice
+  name: Wojciechowice
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.83267
+  lon: 21.59028
+  lands:
+    wyzyna_sandomierska: 91.7229
+    przedgorze_ilzeckie: 8.2771
+  boundary:
+    southWest:
+      lat: 50.76522966700003
+      lng: 21.504797801000052
+    northEast:
+      lat: 50.89664891000007
+      lng: 21.667760421000025
+- slug: starachowice
+  name: Starachowice
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.0328
+  lon: 21.08104
+  lands:
+    przedgorze_ilzeckie: 76.4299
+    plaskowyz_suchedniowski: 23.5701
+  boundary:
+    southWest:
+      lat: 51.00214008900008
+      lng: 21.02086027100006
+    northEast:
+      lat: 51.07432144200004
+      lng: 21.122418366000034
+- slug: baltow
+  name: Bałtów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.02174
+  lon: 21.57796
+  lands:
+    przedgorze_ilzeckie: 100.0
+  boundary:
+    southWest:
+      lat: 50.97666206400004
+      lng: 21.45041689900006
+    northEast:
+      lat: 51.06531160500003
+      lng: 21.68721418800004
+- slug: radkow
+  name: Radków
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.71004
+  lon: 19.99158
+  lands:
+    plaskowyz_jedrzejowski: 100.0
+  boundary:
+    southWest:
+      lat: 50.66192402900003
+      lng: 19.847451716000023
+    northEast:
+      lat: 50.751917838000054
+      lng: 20.101594677000037
+- slug: secemin
+  name: Secemin
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.7716
+  lon: 19.86629
+  lands:
+    niecka_wloszczowska: 53.4705
+    plaskowyz_jedrzejowski: 46.5295
+  boundary:
+    southWest:
+      lat: 50.70180219400004
+      lng: 19.704303518000074
+    northEast:
+      lat: 50.85151771400007
+      lng: 19.974267702000077
+- slug: nowa_slupia
+  name: Nowa Słupia
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.86357
+  lon: 21.08084
+  lands:
+    gory_swietokrzyskie: 97.8196
+    wyzyna_sandomierska: 1.7708
+  boundary:
+    southWest:
+      lat: 50.81242602300006
+      lng: 20.971546610000075
+    northEast:
+      lat: 50.91597076700003
+      lng: 21.16359754100006
+- slug: slupia_konecka
+  name: Słupia Konecka
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.01287
+  lon: 20.13046
+  lands:
+    wzgorza_lopuszanskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.96047176800005
+      lng: 20.039470331000075
+    northEast:
+      lat: 51.07780003800008
+      lng: 20.217400379000026
+- slug: gowarczow
+  name: Gowarczów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.27954
+  lon: 20.45094
+  lands:
+    garb_gielniowski: 86.778
+    wzgorza_opoczynskie: 13.222
+  boundary:
+    southWest:
+      lat: 51.21789262600004
+      lng: 20.36494001400007
+    northEast:
+      lat: 51.33940503700006
+      lng: 20.537028460000045
+- slug: lopuszno
+  name: Łopuszno
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.93337
+  lon: 20.25135
+  lands:
+    wzgorza_lopuszanskie: 93.9957
+    plaskowyz_suchedniowski: 6.0043
+  boundary:
+    southWest:
+      lat: 50.85444761900004
+      lng: 20.092403872000034
+    northEast:
+      lat: 51.01041538800007
+      lng: 20.364525195000056
+- slug: lipnik
+  name: Lipnik
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.73489
+  lon: 21.48904
+  lands:
+    wyzyna_sandomierska: 96.3336
+    gory_swietokrzyskie: 3.6664
+  boundary:
+    southWest:
+      lat: 50.67976911800008
+      lng: 21.383230895000054
+    northEast:
+      lat: 50.78979797300008
+      lng: 21.584367403000044
+- slug: cmielow
+  name: Ćmielów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.90664
+  lon: 21.52246
+  lands:
+    przedgorze_ilzeckie: 65.4827
+    wyzyna_sandomierska: 34.5173
+  boundary:
+    southWest:
+      lat: 50.82667674800007
+      lng: 21.453052193000076
+    northEast:
+      lat: 50.98482895300003
+      lng: 21.615610292000042
+- slug: brody
+  name: Brody
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.02904
+  lon: 21.2195
+  lands:
+    przedgorze_ilzeckie: 89.5672
+    plaskowyz_suchedniowski: 10.4328
+  boundary:
+    southWest:
+      lat: 50.97515955500006
+      lng: 21.101239772000042
+    northEast:
+      lat: 51.08700692600007
+      lng: 21.383104914000057
+- slug: pawlow
+  name: Pawłów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.95367
+  lon: 21.10391
+  lands:
+    gory_swietokrzyskie: 47.3531
+    plaskowyz_suchedniowski: 45.6893
+    wyzyna_sandomierska: 6.9576
+  boundary:
+    southWest:
+      lat: 50.896939161000034
+      lng: 20.970130536000056
+    northEast:
+      lat: 51.01847433100005
+      lng: 21.20065966100003
+- slug: lubnice
+  name: Łubnice
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.40175
+  lon: 21.1698
+  lands:
+    nizina_nadwislanska: 57.1323
+    garb_pinczowski: 34.0085
+    niecka_polaniecka: 8.8592
+  boundary:
+    southWest:
+      lat: 50.33731499600003
+      lng: 21.091974121000078
+    northEast:
+      lat: 50.465225116000056
+      lng: 21.251822228000037
+- slug: kunow
+  name: Kunów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.97753
+  lon: 21.27791
+  lands:
+    przedgorze_ilzeckie: 65.5472
+    wyzyna_sandomierska: 26.1376
+    plaskowyz_suchedniowski: 8.3152
+  boundary:
+    southWest:
+      lat: 50.91576504400007
+      lng: 21.19914285300007
+    northEast:
+      lat: 51.04045373300005
+      lng: 21.420350734000067
+- slug: moskorzew
+  name: Moskorzew
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.65666
+  lon: 19.93302
+  lands:
+    plaskowyz_jedrzejowski: 96.1711
+    niecka_wloszczowska: 3.8289
+  boundary:
+    southWest:
+      lat: 50.61962141600003
+      lng: 19.835206670000048
+    northEast:
+      lat: 50.693045547000054
+      lng: 20.030923398000027
+- slug: bejsce
+  name: Bejsce
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.23171
+  lon: 20.60699
+  lands:
+    plaskowyz_proszowicki: 100.0
+  boundary:
+    southWest:
+      lat: 50.18639108600007
+      lng: 20.536624411000048
+    northEast:
+      lat: 50.27363531700007
+      lng: 20.663787596000077
+- slug: checiny
+  name: Chęciny
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.77355
+  lon: 20.45625
+  lands:
+    gory_swietokrzyskie: 70.098
+    pogorze_szydlowskie: 18.6327
+    dolina_nidy: 11.0301
+  boundary:
+    southWest:
+      lat: 50.70629374100008
+      lng: 20.307739285000025
+    northEast:
+      lat: 50.85002939000003
+      lng: 20.561284758000056
+- slug: bodzentyn
+  name: Bodzentyn
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.9481
+  lon: 20.92569
+  lands:
+    gory_swietokrzyskie: 99.8269
+    plaskowyz_suchedniowski: 0.1731
+  boundary:
+    southWest:
+      lat: 50.87382542900008
+      lng: 20.821054661000062
+    northEast:
+      lat: 51.03181447900005
+      lng: 21.016142229000025
+- slug: backowice
+  name: Baćkowice
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.77041
+  lon: 21.23019
+  lands:
+    gory_swietokrzyskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.72611514700003
+      lng: 21.132894059000023
+    northEast:
+      lat: 50.82625180800005
+      lng: 21.349676156000044
+- slug: kije
+  name: Kije
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.6193
+  lon: 20.5767
+  lands:
+    pogorze_szydlowskie: 44.846
+    niecka_polaniecka: 39.7654
+    dolina_nidy: 15.3886
+  boundary:
+    southWest:
+      lat: 50.56103279300004
+      lng: 20.491364764000025
+    northEast:
+      lat: 50.67031984700003
+      lng: 20.661022784000068
+- slug: staszow
+  name: Staszów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.56942
+  lon: 21.2176
+  lands:
+    niecka_polaniecka: 66.3055
+    pogorze_szydlowskie: 33.4134
+    gory_swietokrzyskie: 0.2811
+  boundary:
+    southWest:
+      lat: 50.494401279000044
+      lng: 21.047773446000065
+    northEast:
+      lat: 50.64822805000006
+      lng: 21.41083674300006
+- slug: pierzchnica
+  name: Pierzchnica
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.69027
+  lon: 20.76429
+  lands:
+    gory_swietokrzyskie: 76.4064
+    pogorze_szydlowskie: 23.5936
+  boundary:
+    southWest:
+      lat: 50.63173368300005
+      lng: 20.67929041600007
+    northEast:
+      lat: 50.74106119400005
+      lng: 20.882102066000073
+- slug: jedrzejow
+  name: Jędrzejów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.64135
+  lon: 20.33535
+  lands:
+    plaskowyz_jedrzejowski: 100.0
+  boundary:
+    southWest:
+      lat: 50.546253180000065
+      lng: 20.18521012800005
+    northEast:
+      lat: 50.73540727400007
+      lng: 20.466874090000033
+- slug: slupia_jedrzejowska
+  name: Słupia (Jędrzejowska)
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.58899
+  lon: 19.92778
+  lands:
+    plaskowyz_jedrzejowski: 74.3339
+    niecka_wloszczowska: 19.0254
+    prog_lelowski: 6.6407
+  boundary:
+    southWest:
+      lat: 50.53933940100006
+      lng: 19.788644173000023
+    northEast:
+      lat: 50.639854385000035
+      lng: 20.078813208000042
+- slug: kazimierza_wielka
+  name: Kazimierza Wielka
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.25403
+  lon: 20.46016
+  lands:
+    plaskowyz_proszowicki: 100.0
+  boundary:
+    southWest:
+      lat: 50.18603047800008
+      lng: 20.35297772000007
+    northEast:
+      lat: 50.31595281700004
+      lng: 20.59990280200003
+- slug: smykow
+  name: Smyków
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.07868
+  lon: 20.40696
+  lands:
+    plaskowyz_suchedniowski: 78.301
+    wzgorza_opoczynskie: 21.5214
+    garb_gielniowski: 0.1776
+  boundary:
+    southWest:
+      lat: 51.03561420400007
+      lng: 20.341705369000067
+    northEast:
+      lat: 51.11736648300007
+      lng: 20.47580819500007
+- slug: sitkowkanowiny
+  name: Sitkówka-Nowiny
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.82037
+  lon: 20.52951
+  lands:
+    gory_swietokrzyskie: 100.0
+  boundary:
+    southWest:
+      lat: 50.782199063000064
+      lng: 20.431720082000027
+    northEast:
+      lat: 50.85742477200006
+      lng: 20.615067477000025
+- slug: ostrowiec_swietokrzyski
+  name: Ostrowiec Świętokrzyski
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.95179
+  lon: 21.40677
+  lands:
+    przedgorze_ilzeckie: 95.4021
+    wyzyna_sandomierska: 4.5979
+  boundary:
+    southWest:
+      lat: 50.915522546000034
+      lng: 21.337134133000063
+    northEast:
+      lat: 50.994021657000076
+      lng: 21.47622685300007
+- slug: sadowie
+  name: Sadowie
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.83811
+  lon: 21.34011
+  lands:
+    wyzyna_sandomierska: 82.862
+    gory_swietokrzyskie: 17.138
+  boundary:
+    southWest:
+      lat: 50.799599544000046
+      lng: 21.232708423000076
+    northEast:
+      lat: 50.88626448900004
+      lng: 21.45305564800003
+- slug: laczna
+  name: Łączna
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.99388
+  lon: 20.78825
+  lands:
+    gory_swietokrzyskie: 96.8605
+    plaskowyz_suchedniowski: 3.1395
+  boundary:
+    southWest:
+      lat: 50.934585955000045
+      lng: 20.71034056600007
+    northEast:
+      lat: 51.053973117000055
+      lng: 20.854922956000053
+- slug: blizyn
+  name: Bliżyn
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.09321
+  lon: 20.71242
+  lands:
+    plaskowyz_suchedniowski: 48.2193
+    garb_gielniowski: 44.2801
+    gory_swietokrzyskie: 7.5006
+  boundary:
+    southWest:
+      lat: 51.01086430300006
+      lng: 20.600886452000054
+    northEast:
+      lat: 51.172171492000075
+      lng: 20.82556405300005
+- slug: stopnica
+  name: Stopnica
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.46167
+  lon: 20.91081
+  lands:
+    garb_pinczowski: 53.2813
+    niecka_polaniecka: 46.7187
+  boundary:
+    southWest:
+      lat: 50.40155635800005
+      lng: 20.814989840000067
+    northEast:
+      lat: 50.547742424000035
+      lng: 21.034012705000066
+- slug: pacanow
+  name: Pacanów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.37391
+  lon: 21.04205
+  lands:
+    nizina_nadwislanska: 59.4066
+    garb_pinczowski: 36.7861
+    niecka_solecka: 3.1905
+  boundary:
+    southWest:
+      lat: 50.312819054000045
+      lng: 20.934471341000062
+    northEast:
+      lat: 50.435259331000054
+      lng: 21.146534147000068
+- slug: opatowiec
+  name: Opatowiec
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.25672
+  lon: 20.69524
+  lands:
+    plaskowyz_proszowicki: 89.2319
+    nizina_nadwislanska: 8.7696
+    dolina_nidy: 1.6809
+  boundary:
+    southWest:
+      lat: 50.20355008100006
+      lng: 20.593659186000025
+    northEast:
+      lat: 50.32129059500005
+      lng: 20.774727531000053
+- slug: wodzislaw
+  name: Wodzisław
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.51936
+  lon: 20.20718
+  lands:
+    garb_wodzislawski: 72.8575
+    plaskowyz_jedrzejowski: 26.7561
+    wyzyna_miechowska: 0.3865
+  boundary:
+    southWest:
+      lat: 50.44731057600006
+      lng: 20.07451982400005
+    northEast:
+      lat: 50.58916392200007
+      lng: 20.369425128000046
+- slug: czarnocin
+  name: Czarnocin
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.33375
+  lon: 20.52546
+  lands:
+    plaskowyz_proszowicki: 62.5908
+    garb_wodzislawski: 37.4092
+  boundary:
+    southWest:
+      lat: 50.27926992500005
+      lng: 20.432832698000027
+    northEast:
+      lat: 50.389593081000044
+      lng: 20.639408084000024
+- slug: piekoszow
+  name: Piekoszów
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.87007
+  lon: 20.42655
+  lands:
+    wzgorza_lopuszanskie: 53.7506
+    gory_swietokrzyskie: 46.2494
+  boundary:
+    southWest:
+      lat: 50.82704273200005
+      lng: 20.296826791000058
+    northEast:
+      lat: 50.91797402900005
+      lng: 20.539881618000038
+- slug: polaniec
+  name: Połaniec
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.42826
+  lon: 21.26355
+  lands:
+    niecka_polaniecka: 53.6788
+    nizina_nadwislanska: 23.2379
+    garb_pinczowski: 23.0832
+  boundary:
+    southWest:
+      lat: 50.37962145600005
+      lng: 21.184790344000078
+    northEast:
+      lat: 50.47686590700005
+      lng: 21.382581565000066
+- slug: koprzywnica
+  name: Koprzywnica
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.59472
+  lon: 21.57958
+  lands:
+    nizina_nadwislanska: 44.5539
+    wyzyna_sandomierska: 32.5763
+    niecka_polaniecka: 22.8698
+  boundary:
+    southWest:
+      lat: 50.54934478900003
+      lng: 21.46663198500005
+    northEast:
+      lat: 50.63711899800006
+      lng: 21.667067174000067
+- slug: dwikozy
+  name: Dwikozy
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.75095
+  lon: 21.77778
+  lands:
+    wyzyna_sandomierska: 70.1197
+    nizina_nadwislanska: 29.8803
+  boundary:
+    southWest:
+      lat: 50.68004612000004
+      lng: 21.71280277900007
+    northEast:
+      lat: 50.80817128100006
+      lng: 21.846216036000044
+- slug: zawichost
+  name: Zawichost
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.82714
+  lon: 21.78783
+  lands:
+    wyzyna_sandomierska: 48.5913
+    przedgorze_ilzeckie: 31.7432
+    malopolski_przelom_wisly: 16.3322
+  boundary:
+    southWest:
+      lat: 50.76809318900007
+      lng: 21.71337532900003
+    northEast:
+      lat: 50.878956763000076
+      lng: 21.866513201000032
+- slug: wloszczowa
+  name: Włoszczowa
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 50.82319
+  lon: 19.99544
+  lands:
+    plaskowyz_jedrzejowski: 59.2924
+    niecka_wloszczowska: 40.6532
+    pasmo_przedborskomalogoskie: 0.0545
+  boundary:
+    southWest:
+      lat: 50.72170311600007
+      lng: 19.74706000200007
+    northEast:
+      lat: 50.93020445500008
+      lng: 20.11908122600005
+- slug: radoszyce
+  name: Radoszyce
+  type: town
+  voivodeship: swietokrzyskie
+  lat: 51.06686
+  lon: 20.25653
+  lands:
+    wzgorza_opoczynskie: 52.1604
+    plaskowyz_suchedniowski: 30.4086
+    wzgorza_lopuszanskie: 17.431
+  boundary:
+    southWest:
+      lat: 50.992090086000076
+      lng: 20.15576767300007
+    northEast:
+      lat: 51.134177675000046
+      lng: 20.384045867000054
