@@ -119,24 +119,9 @@ module SpecialView
                   json.field("url", land.view_url)
                   json.field("slug", land.slug)
                   json.field("name", land.name)
-                  json.field("header-ext-img", land.image_url)
+                  json.field("code", land.code)
                   json.field("image_url", land.image_url)
                   json.field("country", land.country)
-                  json.field("visited", land.visited.to_s) if land.visited
-                  json.field("type", land.type)
-                  json.field("train_time_poznan", land.train_time_poznan)
-                end
-              end
-            end
-          end
-
-          # land_types
-          json.field "land_types" do
-            json.array do
-              @blog.data_manager.not_nil!.land_types.not_nil!.each do |land_type|
-                json.object do
-                  json.field("slug", land_type.slug)
-                  json.field("name", land_type.name)
                 end
               end
             end

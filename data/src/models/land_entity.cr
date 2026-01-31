@@ -3,44 +3,20 @@ struct LandEntity
 
   @slug : String
   @name : String
-  @header_ext_img : (String | Nil)
-  @header_img : (String | Nil)
-  @main : String
   @country : String
-  @type : String
-  @visited : (Time | Nil)
-  @train_time_poznan : (Int32 | Nil)
-  @near : Array(String)
+  @code : String?
 
-  getter :name, :slug, :main, :header_ext_img, :header_img, :country, :type, :visited, :train_time_poznan
+  getter :name, :slug, :country, :code
 
   def initialize(y : YAML::Any)
-    @slug = y["slug"].to_s
-    @name = y["name"].to_s
-    if y["header_img"]?
-      @header_img = y["header_img"].to_s
-    end
-    @main = y["main"].to_s
-    @country = y["country"].to_s
-    @type = y["type"].to_s
+    @slug = y["slug"].as_s
+    @name = y["name"].as_s
+    @country = y["country"].as_s
+    @code = y["country"].as_s?
+  end
 
-    if y["train_time_poznan"]?
-      @train_time_poznan = y["train_time_poznan"].to_s.to_i
-    end
-
-    @near = Array(String).new
-    if y["near"]?
-      y["near"].as_a.each do |n|
-        @near << n.to_s
-      end
-    end
-    if y["visited"]?
-      @visited = Time.parse(
-        time: y["visited"].to_s,
-        pattern: "%Y-%m",
-        location: Time::Location.load_local
-      )
-    end
+  def type
+    "" # TODO: remove it
   end
 
   def view_url

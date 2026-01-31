@@ -1,4 +1,4 @@
-struct LandTypeEntity
+struct LandTypeEntity # TODO: could be deprecated
   Log = ::Log.for(self)
 
   @slug : String

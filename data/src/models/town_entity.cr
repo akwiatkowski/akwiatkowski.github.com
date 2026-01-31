@@ -8,41 +8,40 @@ struct TownEntity
   @slug : String
   @name : String
   @type : String
-  @header_ext_img : String?
-  @header_img : String?
 
   @voivodeship : String?
   @lat : Float64?
   @lon : Float64?
 
-  getter :name, :slug, :voivodeship, :header_ext_img, :header_img, :lat, :lon
+  @lands : Array(LandEntity)
 
-  def initialize(y : YAML::Any)
-    @slug = y["slug"].to_s
-    @name = y["name"].to_s
-    @type = y["type"].to_s
+  getter :name, :slug, :voivodeship, :lat, :lon, :lands, :lands_percentage
 
-    if y["header-img"]?
-      @header_img = y["header-img"].to_s
+  def initialize(town : YAML::Any, lands : Array(LandEntity))
+    @slug = town["slug"].to_s
+    @name = town["name"].to_s
+    @type = town["type"].to_s
+    @voivodeship = town["voivodeship"].as_s if town["voivodeship"]?
+    @lat = town["lat"].to_s.to_f if town["lat"]?
+    @lon = town["lon"].to_s.to_f if town["lon"]?
+
+    @lands_percentage = Hash(String, Float64).new
+    @lands = Array(LandEntity).new
+
+    if town["lands"]?
+      town["lands"].as_h.keys.each do |land_slug|
+        land = lands.select { |land_iterated| land_iterated.slug == land_slug.as_s }.first
+
+        @lands << land
+        @lands_percentage[land_slug.as_s] = town["lands"].as_h[land_slug].as_f
+      end
     end
-    if y["header-ext-img"]?
-      @header_img = y["header-ext-img"].to_s
-    end
-
-    if y["inside"]?
-      @voivodeship = y["inside"][0].to_s
-    end
-
-    @voivodeship = y["voivodeship"].to_s if y["voivodeship"]?
-    @lat = y["lat"].to_s.to_f if y["lat"]?
-    @lon = y["lon"].to_s.to_f if y["lon"]?
   end
 
   def to_hash
     h = TownEntityHash.new
     h["slug"] = @slug.to_s unless @slug.nil?
     h["name"] = @name.to_s unless @name.nil?
-    h["header-ext-img"] = @header_ext_img.to_s unless @header_ext_img.nil?
     h["type"] = @type.to_s unless @type.nil?
     h["voivodeship"] = @voivodeship.to_s unless @voivodeship.nil?
 

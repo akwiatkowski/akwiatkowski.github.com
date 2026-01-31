@@ -15,7 +15,7 @@ class Tremolite::DataManager
     @voivodeships = Array(VoivodeshipEntity).new
     @tags = Array(TagEntity).new
     @photo_tags = Array(PhotoTagEntity).new
-    @land_types = Array(LandTypeEntity).new
+    # @land_types = Array(LandTypeEntity).new
     @lands = Array(LandEntity).new
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
@@ -48,7 +48,7 @@ class Tremolite::DataManager
 
   getter :tags
   getter :towns, :town_slugs, :voivodeships
-  getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
+  getter :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
   getter :ideas, :photo_tags, :train_stations
 
   getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
@@ -65,10 +65,9 @@ class Tremolite::DataManager
   # end of getters
 
   def custom_load
+    load_lands # lands are needed before towns
     load_towns
     load_tags
-    load_land_types
-    load_lands
     load_transport_pois
     load_todo_routes
     load_portfolio
@@ -145,16 +144,6 @@ class Tremolite::DataManager
     end
   end
 
-  def load_land_types
-    Log.debug { "loading land types" }
-
-    f = File.join([@config_path, "land_types.yml"])
-    YAML.parse(File.read(f)).as_a.each do |land_type|
-      o = LandTypeEntity.new(land_type)
-      @land_types.not_nil! << o
-    end
-  end
-
   def load_lands
     Log.debug { "loading lands" }
 
@@ -211,7 +200,7 @@ class Tremolite::DataManager
   private def load_town_yaml(f)
     town_yaml = YAML.parse(File.read(f))
     town_yaml.as_a.each do |town|
-      o = TownEntity.new(town)
+      o = TownEntity.new(town: town, lands: @lands.not_nil!)
       if town["type"].to_s != "voivodeship"
         @towns.not_nil! << o
         @town_slugs.not_nil! << o.slug

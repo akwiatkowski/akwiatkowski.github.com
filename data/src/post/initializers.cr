@@ -32,6 +32,7 @@ class Tremolite::Post
     towns_from_headers
     # voivodeships_from_headers
     lands_from_headers
+    lands_from_towns
     pois_from_headers
     coords_from_headers
     basic_from_headers
@@ -100,6 +101,21 @@ class Tremolite::Post
     if @header["lands"]?
       @header["lands"].as_a.each do |land|
         @lands.not_nil! << land.to_s
+      end
+    end
+  end
+
+  # hacky populating lands from towns
+  def lands_from_towns
+    @towns.not_nil!.each do |town_slug|
+      town_selected = @blog.data_manager.towns.not_nil!.select { |town| town.slug == town_slug }
+      next if town_selected.size == 0
+
+      town = town_selected.first
+      town.lands.each do |land|
+        unless @lands.not_nil!.includes?(land.slug)
+          @lands.not_nil! << land.slug
+        end
       end
     end
   end
