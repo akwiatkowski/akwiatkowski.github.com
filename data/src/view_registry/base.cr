@@ -66,7 +66,11 @@ class ViewRegistry
 
   # Get entries that should run when given dependencies change
   def entries_for(*dependencies : Symbol) : Array(Entry)
-    dep_set = dependencies.to_set
+    entries_for(dependencies.to_set)
+  end
+
+  # Get entries that should run when given dependencies change (Set version)
+  def entries_for(dep_set : Set(Symbol)) : Array(Entry)
     @entries.select(&.should_run?(dep_set)).sort_by(&.priority)
   end
 

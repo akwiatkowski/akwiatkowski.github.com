@@ -15,7 +15,7 @@ class RenderCoordinator
 
   # Main entry point - render entries based on what changed
   def render(context : RenderContext, changed : Set(Symbol))
-    to_run = @registry.entries_for(*changed.to_a)
+    to_run = @registry.entries_for(changed)
 
     Log.info { "RenderCoordinator: #{to_run.size} entries to run (#{changed.join(", ")} changed)" }
 

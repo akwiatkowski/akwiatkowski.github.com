@@ -22,6 +22,9 @@ class Tremolite::Blog
   # Use render_with_registry for the new coordinated render path.
   #
 
+  @view_registry : ViewRegistry?
+  @render_coordinator : RenderCoordinator?
+
   # Lazy-initialized registry with all views/tasks registered
   def view_registry : ViewRegistry
     @view_registry ||= setup_view_registry
@@ -208,22 +211,16 @@ class Tremolite::Blog
     refresh_nav_stats : Bool,
     hide_not_finished : Bool,
   )
-    # test+dev stuff
-    renderer.dev_render
+    # ============================================
+    # Per-post rendering (not in registry)
+    # ============================================
+    # These operations are per-post and depend on which specific
+    # posts changed, so they stay here rather than in the registry.
 
-    # because
     post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
     post_to_render_only_post = post_to_render - post_to_render_galleries
 
-    # uses rsync so it's fast
-    renderer.copy_assets_and_photos
-
-    # TODO check if posts need to be reloaded here
-    # nav stats require process all posts
-    if refresh_nav_stats
-      data_manager.nav_stats_cache.not_nil!.refresh
-    end
-
+    # Posts that need gallery rendering (photos/exif changed)
     post_to_render_galleries.each do |post|
       Log.debug { "resize_all_images_for_post" }
       @image_resizer.not_nil!.resize_all_images_for_post(
@@ -246,6 +243,7 @@ class Tremolite::Blog
       Log.info { "#{post.slug} - DONE" }
     end
 
+    # Posts that only need post rendering (no gallery update)
     post_to_render_only_post.each do |post|
       Log.debug { "resize_all_images_for_post" }
       @image_resizer.not_nil!.resize_all_images_for_post(
@@ -265,33 +263,21 @@ class Tremolite::Blog
       Log.debug { "#{post.slug} - DONE" }
     end
 
-    if exifs_changed
-      # first we need to load all (and/or process new) exif data
-      post_collection.posts.each do |post|
-        data_manager.exif_db.initialize_post_photos_exif(post)
-      end
+    # ============================================
+    # Registry-based rendering
+    # ============================================
+    # All aggregate views (entity pages, galleries, feeds, etc.)
+    # are now handled by the ViewRegistry. This includes:
+    # - Setup tasks (dev_render, copy_assets)
+    # - Cache tasks (nav_stats, town_photo, coord_quant)
+    # - EXIF initialization (when exifs_changed)
+    # - All aggregate views (towns, tags, galleries, feeds, etc.)
 
-      # recalculate towns photo for closest photo
-      data_manager.town_photo_cache.not_nil!.refresh
-
-      # exif data is also used for calculating post coord cache
-      # it will be used for creating map of similar posts
-      data_manager.post_coord_quant_cache.not_nil!.refresh
-
-      renderer.render_all_photo_related
-      renderer.render_all_photo_maps
-    end
-
-    # if post were changed render some fast related pages
-    if posts_changed
-      renderer.render_fast_only_post_related
-    end
-
-    if posts_changed || yamls_changed
-      renderer.render_fast_post_and_yaml_related
-    end
-
-    renderer.render_fast_static_renders
+    render_with_registry(
+      posts_changed: posts_changed,
+      yamls_changed: yamls_changed,
+      exifs_changed: exifs_changed
+    )
   end
 
   # TODO check if it's used
