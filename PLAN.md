@@ -438,7 +438,7 @@ Registry tests (49 tests):
 - [x] `RenderContext.posts_descending`, `site_email`, `site_author`, `last_updated_at`, `years` - helpers for feed/stats views
 - [x] `Renderer.render_view(view)` - public wrapper for write_output
 
-**Views migrated (33 total):**
+**Views migrated (35 total):**
 - [x] entity_views.cr (4): Towns, Tags, Voivodeships, Lands
 - [x] index_views.cr (2): Towns index, Lands index
 - [x] home_views.cr (3): Home, Map, POIs
@@ -446,15 +446,15 @@ Registry tests (49 tests):
 - [x] static_views.cr (7): More, About, English, JS pages
 - [x] feed_views.cr (9): RSS, Atom, JSON files, Sitemap, Robots
 - [x] debug_views.cr (3): Debug posts, camera, missing EXIF
+- [x] photo_views.cr (2): Photo galleries, Photo maps
 
-**Still using wrappers:**
-- [ ] photo_views.cr (2): Complex interdependencies - galleries return index views
+**All view registry files migrated to direct instantiation.**
 
 ### Remaining Steps
 
 1. [ ] Validate `render_with_registry` output matches `render` output
 2. [ ] Replace `make_it_so` to use `render_with_registry`
-3. [ ] Migrate photo_views.cr (complex gallery logic)
+3. [x] Migrate photo_views.cr (complex gallery logic)
 4. [ ] Delete empty mixin files
 5. [ ] Auto-generate VIEWS.md from registry
 

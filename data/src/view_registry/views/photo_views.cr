@@ -14,10 +14,19 @@
 #
 # Priority: 30-39 (after entity views, before stats views)
 #
-# Source: Extracted from renderer mixins:
-# - render_photo_related.cr (render_all_photo_related)
-# - render_photo_maps.cr (render_all_photo_maps)
+# View classes used: GalleryView::*, DynamicView::PortfolioView,
+# DynamicView::ExifStatsView, DynamicView::DebugTagStatsView,
+# DynamicView::TimelinePhotoView, PhotoMap::*
+# (loaded via renderer.cr)
 #
+# HashQuantCoordViews alias defined in views/gallery_view/quant_coord_const.cr
+
+# Constants for gallery fill
+GALLERY_FILL_UNTIL          = 80
+GALLERY_FILL_UNTIL_FOCAL    = 40
+GALLERY_FILL_UNTIL_ISO      = 40
+GALLERY_FILL_UNTIL_EXPOSURE = 40
+
 def register_photo_views(r : ViewRegistry)
   # ============================================
   # View: Photo Galleries
@@ -38,90 +47,178 @@ def register_photo_views(r : ViewRegistry)
   # - EXIF stats pages (/exif_stats.html and by-tag variants)
   # - Gallery stats (debug tag stats, timeline photo)
   #
-  # URL patterns:
-  # - /galeria.html (index)
-  # - /galeria/tag/{slug}.html
-  # - /galeria/aparat/{slug}.html
-  # - /galeria/obiektyw/{slug}.html
-  # - /galeria/focal/{range}.html
-  # - /galeria/iso/{range}.html
-  # - /galeria/exposure/{range}.html
-  # - /galeria/coord/{lat}_{lon}.html
-  #
-  # View classes:
-  # - GalleryView::IndexView (main index)
-  # - GalleryView::TagView, TagIndexView
-  # - GalleryView::CameraView, CameraIndexView
-  # - GalleryView::LensView, LensIndexView
-  # - GalleryView::FocalLengthView, FocalLengthIndexView
-  # - GalleryView::IsoView, IsoIndexView
-  # - GalleryView::ExposureView, ExposureIndexView
-  # - GalleryView::QuantCoordView, QuantCoordIndexView
-  # - DynamicView::PortfolioView
-  # - DynamicView::ExifStatsView
-  # - DynamicView::DebugTagStatsView
-  # - DynamicView::TimelinePhotoView
-  #
-  # Original code (render_photo_related.cr:26-52):
-  #   def render_all_photo_related
-  #     tag_gallery_index_view = render_tag_galleries
-  #     lens_gallery_index_view = render_lens_galleries
-  #     camera_gallery_index_view = render_camera_galleries
-  #     focal_length_gallery_index_view = render_focal_length_galleries
-  #     iso_gallery_index_view = render_iso_galleries
-  #     exposure_gallery_index_view = render_exposure_galleries
-  #     quant_coord_index_view = render_photo_coord_quant
-  #
-  #     render_gallery_index(...)
-  #     render_gallery_stats
-  #     render_portfolio
-  #     render_exif_stats
-  #     render_debug_post_camera_stuff  # moved to debug_views.cr
-  #     render_debug_post_photos_missing_exif  # moved to debug_views.cr
-  #   end
-  #
   # Dependencies: [:exifs]
-  # - EXIF data contains camera, lens, focal length, ISO, exposure info
-  # - Photo entities with coordinates needed for coord galleries
-  #
-  # Note: Debug views (camera stuff, missing EXIF) are registered
-  # separately in debug_views.cr with priority 101-102.
   #
   r.register("Photo galleries: all", [:exifs], priority: 30) do |ctx|
     ViewRegistry::Log.info { "Rendering photo galleries" }
+    blog = ctx.blog
 
-    # Wrapper: calls existing mixin method
-    # This renders all gallery types + index + portfolio + exif stats
-    # Note: The mixin also calls debug views which are now in debug_views.cr
-    # Those will run separately at priority 101-102
-    renderer = ctx.blog.renderer
+    # === Tag galleries ===
+    tag_renderers = Array(GalleryView::TagView).new
+    blog.data_manager.photo_tags.not_nil!.each do |photo_tag|
+      view = GalleryView::TagView.new(blog: blog, photo_tag: photo_tag)
+      ctx.write_output(view)
+      tag_renderers << view
+    end
+    tag_gallery_index_view = GalleryView::TagIndexView.new(blog: blog, renderers: tag_renderers)
+    ctx.write_output(tag_gallery_index_view)
 
-    # Render each gallery type and collect index views
-    tag_gallery_index_view = renderer.render_tag_galleries
-    lens_gallery_index_view = renderer.render_lens_galleries
-    camera_gallery_index_view = renderer.render_camera_galleries
-    focal_length_gallery_index_view = renderer.render_focal_length_galleries
-    iso_gallery_index_view = renderer.render_iso_galleries
-    exposure_gallery_index_view = renderer.render_exposure_galleries
-    quant_coord_index_view = renderer.render_photo_coord_quant
+    # === Lens galleries ===
+    lens_renderers = Array(GalleryView::LensView).new
+    ExifEntity::LENS_NAMES.values.each do |lens|
+      view = GalleryView::LensView.new(
+        blog: blog,
+        lens: lens,
+        tags: ["good", "best"],
+        include_headers: true,
+        fill_until: GALLERY_FILL_UNTIL
+      )
+      ctx.write_output(view)
+      lens_renderers << view
+    end
+    lens_gallery_index_view = GalleryView::LensIndexView.new(blog: blog, renderers: lens_renderers)
+    ctx.write_output(lens_gallery_index_view)
 
-    # Render gallery index (needs all sub-index views)
-    renderer.render_gallery_index(
+    # === Camera galleries ===
+    camera_renderers = Array(GalleryView::CameraView).new
+    ExifEntity::CAMERA_NAMES.values.each do |camera|
+      view = GalleryView::CameraView.new(
+        blog: blog,
+        camera: camera,
+        tags: ["good", "best"],
+        include_headers: true,
+        fill_until: GALLERY_FILL_UNTIL
+      )
+      ctx.write_output(view)
+      camera_renderers << view
+    end
+    camera_gallery_index_view = GalleryView::CameraIndexView.new(blog: blog, renderers: camera_renderers)
+    ctx.write_output(camera_gallery_index_view)
+
+    # === Focal length galleries ===
+    focal_renderers = Array(GalleryView::FocalLengthView).new
+    focals = Array(Tuple(Int32, Int32)).new
+    focal = 16
+    while focal < 1000
+      new_focal = (focal.to_f * 1.2).to_i
+      if new_focal > 80
+        new_focal = (new_focal.to_f / 10.0).ceil.to_i * 10
+      elsif new_focal > 40
+        new_focal = (new_focal.to_f / 5.0).ceil.to_i * 5
+      end
+      focals << {focal, new_focal}
+      focal = new_focal
+    end
+    focals.each do |f|
+      view = GalleryView::FocalLengthView.new(
+        blog: blog,
+        focal_from: f[0].to_f,
+        focal_to: f[1].to_f,
+        tags: ["good", "best"],
+        include_headers: true,
+        fill_until: GALLERY_FILL_UNTIL_FOCAL
+      )
+      ctx.write_output(view)
+      focal_renderers << view
+    end
+    focal_length_gallery_index_view = GalleryView::FocalLengthIndexView.new(blog: blog, renderers: focal_renderers)
+    ctx.write_output(focal_length_gallery_index_view)
+
+    # === ISO galleries ===
+    iso_renderers = Array(GalleryView::IsoView).new
+    isos = Array(Tuple(Int32, Int32)).new
+    iso = 50
+    while iso < 64000
+      new_iso = iso * 2
+      isos << {iso, new_iso}
+      iso = new_iso
+    end
+    isos.each do |i|
+      view = GalleryView::IsoView.new(
+        blog: blog,
+        iso_from: i[0],
+        iso_to: i[1],
+        tags: ["good", "best"],
+        include_headers: true,
+        fill_until: GALLERY_FILL_UNTIL_ISO
+      )
+      ctx.write_output(view)
+      iso_renderers << view
+    end
+    iso_gallery_index_view = GalleryView::IsoIndexView.new(blog: blog, renderers: iso_renderers)
+    ctx.write_output(iso_gallery_index_view)
+
+    # === Exposure galleries ===
+    exposure_renderers = Array(GalleryView::ExposureView).new
+    exposures = Array(Tuple(Float64, Float64)).new
+    exposures << {0.0001, 0.001}
+    exposure = 0.001
+    while exposure < 100.0
+      new_exposure = exposure * 4.0
+      exposures << {exposure, new_exposure}
+      exposure = new_exposure
+    end
+    exposures.each do |e|
+      view = GalleryView::ExposureView.new(
+        blog: blog,
+        exposure_from: e[0],
+        exposure_to: e[1],
+        tags: ["good", "best"],
+        include_headers: true,
+        fill_until: GALLERY_FILL_UNTIL_EXPOSURE
+      )
+      ctx.write_output(view)
+      exposure_renderers << view
+    end
+    exposure_gallery_index_view = GalleryView::ExposureIndexView.new(blog: blog, renderers: exposure_renderers)
+    ctx.write_output(exposure_gallery_index_view)
+
+    # === Quantized coordinate galleries ===
+    photo_coord_quant_cache = blog.data_manager.photo_coord_quant_cache.not_nil!
+    photo_coord_quant_cache.refresh
+    quant_renderers = HashQuantCoordViews.new
+    photo_coord_quant_cache.cache.keys.each do |key|
+      quant_photos_container = photo_coord_quant_cache.cache[key]
+      quant_photos = quant_photos_container[:array]
+      quant_info = quant_photos_container[:info]
+      next if quant_photos.size == 0
+      view = GalleryView::QuantCoordView.new(
+        blog: blog,
+        key: key,
+        quant_photos: quant_photos,
+        quant_info: quant_info
+      )
+      ctx.write_output(view)
+      quant_renderers[key[:lat]] ||= Hash(Float32, GalleryView::QuantCoordView).new
+      quant_renderers[key[:lat]][key[:lon]] = view
+    end
+    quant_coord_index_view = GalleryView::QuantCoordIndexView.new(blog: blog, renderers: quant_renderers)
+    ctx.write_output(quant_coord_index_view)
+
+    # === Main gallery index ===
+    ctx.write_output(GalleryView::IndexView.new(
+      blog: blog,
       tag_gallery_index_view: tag_gallery_index_view,
       lens_gallery_index_view: lens_gallery_index_view,
       camera_gallery_index_view: camera_gallery_index_view,
       focal_length_gallery_index_view: focal_length_gallery_index_view,
       iso_gallery_index_view: iso_gallery_index_view,
       exposure_gallery_index_view: exposure_gallery_index_view,
-      quant_coord_index_view: quant_coord_index_view
-    )
+      quant_coord_index_view: quant_coord_index_view,
+    ))
 
-    # Render gallery stats (debug tag stats, timeline photo)
-    renderer.render_gallery_stats
+    # === Gallery stats ===
+    ctx.write_output(DynamicView::DebugTagStatsView.new(blog: blog))
+    ctx.write_output(DynamicView::TimelinePhotoView.new(blog: blog))
 
-    # Render portfolio and EXIF stats
-    renderer.render_portfolio
-    renderer.render_exif_stats
+    # === Portfolio ===
+    ctx.write_output(DynamicView::PortfolioView.new(blog: blog, url: "/portfolio.html"))
+
+    # === EXIF stats ===
+    ctx.write_output(DynamicView::ExifStatsView.new(blog: blog, url: "/exif_stats"))
+    ["bicycle", "hike", "photo", "train"].each do |tag|
+      ctx.write_output(DynamicView::ExifStatsView.new(blog: blog, url: "/exif_stats", by_tag: tag))
+    end
   end
 
   # ============================================
@@ -136,46 +233,155 @@ def register_photo_views(r : ViewRegistry)
   # - Tagged photo maps (photos by tag on map)
   # - Photo map index page
   #
-  # URL patterns:
-  # - /mapa_zdjec.html (index)
-  # - /mapa_zdjec/main/{type}.svg (global maps)
-  # - /mapa_zdjec/post/{slug}_big.svg
-  # - /mapa_zdjec/post/{slug}_small.svg
-  # - /mapa_zdjec/voivodeship/{slug}_big.svg
-  # - /mapa_zdjec/voivodeship/{slug}_small.svg
-  # - /mapa_zdjec/idea/{slug}.svg
-  # - /mapa_zdjec/tag/{slug}.svg
-  #
-  # View classes:
-  # - PhotoMap::IndexView
-  # - PhotoMap::GlobalGridAndRoutesMapSvgView
-  # - PhotoMap::GlobalGridMapSvgView
-  # - PhotoMap::GlobalDotsMapSvgView
-  # - PhotoMap::GlobalAnimatedRoutesMapSvgView
-  # - PhotoMap::PostBigMapSvgView
-  # - PhotoMap::PostRouteMapSvgView
-  # - PhotoMap::MultiplePostsGridAndRoutesMapSvgView (voivodeship)
-  # - PhotoMap::IdeaRouteMapSvgView
-  # - PhotoMap::MultiplePhotoEntitiesGridMapSvgView (tagged)
-  #
-  # Original code (render_photo_maps.cr:2-13):
-  #   def render_all_photo_maps
-  #     render_photo_maps_voivodeships
-  #     render_photo_maps_posts
-  #     render_photo_maps_ideas
-  #     render_photo_maps_global
-  #     render_photo_maps_for_tagged_photos
-  #     render_photo_maps_index
-  #   end
-  #
   # Dependencies: [:exifs]
-  # - Photo entities with coordinates needed for map placement
-  # - Post detailed_routes needed for route rendering
   #
   r.register("Photo maps: all", [:exifs], priority: 35) do |ctx|
     ViewRegistry::Log.info { "Rendering photo maps" }
+    blog = ctx.blog
 
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_all_photo_maps
+    # Collections for index page
+    photomaps_global = Hash(String, PhotoMap::AbstractSvgView).new
+    photomaps_for_tag = Hash(String, PhotoMap::MultiplePhotoEntitiesGridMapSvgView).new
+    photomaps_for_voivodeship_big = Hash(String, PhotoMap::MultiplePostsGridAndRoutesMapSvgView).new
+    photomaps_for_voivodeship_small = Hash(String, PhotoMap::MultiplePostsGridAndRoutesMapSvgView).new
+    photomaps_for_post_big = Hash(Tremolite::Post, PhotoMap::PostBigMapSvgView).new
+    photomaps_for_post_small = Hash(Tremolite::Post, PhotoMap::PostRouteMapSvgView).new
+
+    # === Voivodeship maps ===
+    blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
+      voivodeship_coord_range = CoordRange.new(voivodeship)
+      post_slugs = blog.post_collection.posts.select { |post|
+        post.was_in_voivodeship(voivodeship)
+      }.map(&.slug)
+
+      big_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
+        blog: blog,
+        url: Map::LinkGenerator.url_photomap_for_voivodeship_big(voivodeship: voivodeship),
+        zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
+        photo_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
+        fixed_coord_range: voivodeship_coord_range,
+        post_slugs: post_slugs,
+      )
+      photomaps_for_voivodeship_big[voivodeship.name] = big_view
+      ctx.write_output(big_view)
+
+      small_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
+        blog: blog,
+        url: Map::LinkGenerator.url_photomap_for_voivodeship_small(voivodeship: voivodeship),
+        zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
+        photo_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
+        fixed_coord_range: voivodeship_coord_range,
+        post_slugs: post_slugs,
+      )
+      photomaps_for_voivodeship_small[voivodeship.name] = small_view
+      ctx.write_output(small_view)
+    end
+
+    # === Post maps ===
+    blog.post_collection.posts.not_nil!.each do |post|
+      if post.detailed_routes && post.detailed_routes.not_nil!.size > 0
+        if post.detailed_routes.not_nil![0].route.size > 0
+          # Big map
+          big_view = PhotoMap::PostBigMapSvgView.new(
+            blog: blog,
+            post: post,
+            url: Map::LinkGenerator.url_photomap_for_post_big(post: post),
+          )
+          photomaps_for_post_big[post] = big_view
+          ctx.write_output(big_view)
+
+          # Small map
+          small_view = PhotoMap::PostRouteMapSvgView.new(
+            blog: blog,
+            post: post,
+            url: Map::LinkGenerator.url_photomap_for_post_small(post: post),
+          )
+          photomaps_for_post_small[post] = small_view
+          ctx.write_output(small_view)
+        end
+      end
+    end
+
+    # === Idea maps ===
+    blog.data_manager.ideas.not_nil!.each do |idea|
+      ctx.write_output(PhotoMap::IdeaRouteMapSvgView.new(blog: blog, idea: idea))
+    end
+
+    # === Global maps ===
+    global_maps = [
+      {"Ogólne", "overall", Map::DEFAULT_OVERALL_ZOOM, Map::DEFAULT_OVERALL_PHOTO_SIZE, :grid_routes},
+      {"Z grubsza", "coarse", Map::DEFAULT_COARSE_ZOOM, Map::DEFAULT_COARSE_PHOTO_SIZE, :grid_routes},
+      {"Małe", "small", Map::DEFAULT_SMALL_ZOOM, Map::DEFAULT_SMALL_PHOTO_SIZE, :grid_routes},
+      {"Szczegółowe", "detailed", Map::DEFAULT_DETAILED_ZOOM, Map::DEFAULT_DETAILED_PHOTO_SIZE, :grid_routes},
+    ]
+    global_maps.each do |name, slug, zoom, photo_size, _type|
+      view = PhotoMap::GlobalGridAndRoutesMapSvgView.new(
+        blog: blog,
+        url: Map::LinkGenerator.url_photomap_for_main(slug: slug),
+        zoom: zoom,
+        photo_size: photo_size,
+      )
+      photomaps_global[name] = view
+      ctx.write_output(view)
+    end
+
+    # Animated
+    animated_view = PhotoMap::GlobalAnimatedRoutesMapSvgView.new(
+      blog: blog,
+      url: Map::LinkGenerator.url_photomap_for_main(slug: "small_animated"),
+      zoom: Map::DEFAULT_SMALL_ZOOM
+    )
+    photomaps_global["Animowana"] = animated_view
+    ctx.write_output(animated_view)
+
+    # Small detailed (grid only)
+    small_detailed_view = PhotoMap::GlobalGridMapSvgView.new(
+      blog: blog,
+      url: Map::LinkGenerator.url_photomap_for_main(slug: "small_detailed"),
+      zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM,
+      photo_size: Map::DEFAULT_SMALL_DETAILED_PHOTO_SIZE,
+    )
+    photomaps_global["Mała i szczegółowa"] = small_detailed_view
+    ctx.write_output(small_detailed_view)
+
+    # Dots
+    dots_view = PhotoMap::GlobalDotsMapSvgView.new(
+      blog: blog,
+      url: Map::LinkGenerator.url_photomap_for_main(slug: "dots"),
+      zoom: Map::DEFAULT_COARSE_ZOOM,
+      photo_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
+      dot_radius: Map::DEFAULT_DOT_RADIUS,
+    )
+    photomaps_global["Kółko-zdjęcia"] = dots_view
+    ctx.write_output(dots_view)
+
+    # === Tagged photo maps ===
+    selected_tags = ["rural", "winter", "city", "night", "macro", "portfolio", "cat", "best", "good", "timeline"]
+    selected_tags.sort.each do |tag|
+      photo_entities = blog.data_manager.exif_db.all_flatten_photo_entities.select { |pe|
+        pe.tags.includes?(tag)
+      }
+      view = PhotoMap::MultiplePhotoEntitiesGridMapSvgView.new(
+        blog: blog,
+        url: Map::LinkGenerator.url_photomap_for_tag(slug: tag),
+        zoom: Map::DEFAULT_TAG_ZOOM,
+        photo_size: Map::DEFAULT_TAG_PHOTO_SIZE,
+        photo_entities: photo_entities,
+      )
+      photomaps_for_tag[tag] = view
+      ctx.write_output(view)
+    end
+
+    # === Photo maps index ===
+    ctx.write_output(PhotoMap::IndexView.new(
+      blog: blog,
+      url: "/mapa_zdjec.html",
+      photomaps_for_tag: photomaps_for_tag,
+      photomaps_for_voivodeship_big: photomaps_for_voivodeship_big,
+      photomaps_for_voivodeship_small: photomaps_for_voivodeship_small,
+      photomaps_for_post_big: photomaps_for_post_big,
+      photomaps_for_post_small: photomaps_for_post_small,
+      photomaps_global: photomaps_global,
+    ))
   end
 end
