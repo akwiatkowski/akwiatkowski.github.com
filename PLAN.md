@@ -104,20 +104,9 @@ Blog (data/src/blog.cr)
 
 ### Current File Structure
 
-**Renderer Mixins** (`data/src/renderer_mixin/`):
-- `accessors.cr` - Helper methods
-- `render_fast.cr` - Fast static renders (home, map, about, summary, timeline, year reports, etc.)
-- `render_post_related.cr` - Post-dependent renders (lists, pagination, redirects, debug)
-- `render_post_and_photo_related.cr` - Combined post+photo renders
-- `render_photo_related.cr` - Photo galleries and stats
-- `render_photo_maps.cr` - SVG map generation
-- `render_tags.cr` - Tag pages
-- `render_towns.cr` - Town pages
-- `render_voivodeships.cr` - Voivodeship pages
-- `render_lands.cr` - Land pages
-- `render_special.cr` - RSS, Atom, JSON feeds
-- `render_overalls.cr` - Model-based renders (all tags, all towns, etc.)
-- `render_todo.cr` - TODO routes
+**Renderer Mixins** (`data/src/renderer_mixin/`): ✅ **DELETED**
+- All 12 mixin files removed in Phase 3
+- Logic moved to `view_registry/` and direct `RenderContext` usage in `blog.cr`
 
 **View Types** (`data/src/views/`):
 - `StaticView::*` - Static JS pages (map, ideas, timeline, exif stats) - there is no big logic when rendering html
@@ -249,14 +238,17 @@ coordinator.render(context, changed: Set{:posts})
 4. Remove mixin methods as views migrate
 5. Delete empty mixin files
 
-### Phase 3: Full Mixin Removal (Future)
+### Phase 3: Full Mixin Removal ✅ COMPLETE
 
 **Goal**: All render logic in registry, no mixins
 
-Once Phase 2 complete:
-- Delete `renderer_mixin/` directory
-- Renderer class becomes thin wrapper
-- All logic in `view_registry/tasks/` and `view_registry/views/`
+**Completed**:
+- ✅ Deleted entire `renderer_mixin/` directory (12 files)
+- ✅ Converted per-post rendering to use `RenderContext.write_output()` directly
+- ✅ Renderer class is now a thin wrapper with only:
+  - `dev_render`, `copy_assets_and_photos`, `site_desc`, `all_mod_watchers`, `render_view`
+- ✅ All aggregate view logic in `view_registry/tasks/` and `view_registry/views/`
+- ✅ Fixed view require chains (`base_view.cr`, `page_view.cr`, etc.)
 
 ## Questions for Architectural Discussion
 
@@ -569,6 +561,22 @@ Debug views will be moved to a separate namespace:
   - `DynamicView::DebugPostView` → `DebugView::PostsView`
   - `DynamicView::DebugPostCameraStuffView` → `DebugView::CameraStuffView`
   - `DynamicView::DebugPostMissingPhotosExifView` → `DebugView::MissingExifView`
+
+### Deprecated Code to Remove
+
+The old bicycle planner (`/todos/*`) is obsolete and replaced by JS-based pages:
+- `/pomysly.html` - JS Ideas page
+- `/pomysly2.html` - JS Bicycle Planner page
+
+**Files to delete:**
+- [ ] `views/todos_view.cr`
+- [ ] `renderer_mixin/render_todo.cr`
+- [ ] Related entities: `TodoRouteEntity`, `TransportPoiEntity`
+- [ ] Pages: `pages/todo_notes.md`
+
+**Data migration:**
+- `todo_routes.yml` → `/env/<env>/data/ideas/` (new format)
+- `transport_pois.yml` → `train_stations.yml` (already exists)
 
 ### Priority Order
 

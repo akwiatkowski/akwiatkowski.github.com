@@ -1,3 +1,4 @@
+require "../base_view"
 require "./redirect_view"
 
 require "./atom_generator"

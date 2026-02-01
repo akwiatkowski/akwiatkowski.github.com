@@ -1,3 +1,5 @@
+require "./page_view"
+
 class WiderPageView < PageView
   Log = ::Log.for(self)
 

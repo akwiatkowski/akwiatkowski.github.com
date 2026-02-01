@@ -191,7 +191,8 @@ class Tremolite::Blog
     # update sitemap only when full render to not mess
     # with google stuff
     if force_full_render
-      renderer.render_sitemap
+      ctx = RenderContext.new(self)
+      ctx.write_output(Tremolite::Views::SiteMapGenerator.new(blog: self, url: "/sitemap.xml"))
     end
 
     validator.run
@@ -212,11 +213,12 @@ class Tremolite::Blog
     hide_not_finished : Bool,
   )
     # ============================================
-    # Per-post rendering (not in registry)
+    # Per-post rendering (using RenderContext)
     # ============================================
     # These operations are per-post and depend on which specific
     # posts changed, so they stay here rather than in the registry.
 
+    ctx = RenderContext.new(self)
     post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
     post_to_render_only_post = post_to_render - post_to_render_galleries
 
@@ -231,11 +233,16 @@ class Tremolite::Blog
       Log.debug { "#{post.slug} - preparing content" }
       data_manager.exif_db.initialize_post_photos_exif(post)
 
-      Log.debug { "#{post.slug} - rendering" }
-      renderer.render_post(post, hide_not_finished: hide_not_finished)
+      Log.debug { "#{post.slug} - rendering post" }
+      ctx.write_output(PostView::ArticleView.new(
+        blog: self,
+        post: post,
+        hide_not_finished: hide_not_finished
+      ))
 
       Log.debug { "#{post.slug} - rendering galleries" }
-      renderer.render_post_galleries_for_post(post)
+      ctx.write_output(GalleryView::PostView.new(blog: self, post: post))
+      ctx.write_output(PostGalleryStatsView.new(blog: self, post: post))
 
       Log.debug { "#{post.slug} - saving exif cache" }
       data_manager.exif_db.save_cache(post.slug)
@@ -254,8 +261,12 @@ class Tremolite::Blog
       Log.debug { "#{post.slug} - preparing content" }
       post.content_html
 
-      Log.debug { "#{post.slug} - rendering" }
-      renderer.render_post(post, hide_not_finished: hide_not_finished)
+      Log.debug { "#{post.slug} - rendering post" }
+      ctx.write_output(PostView::ArticleView.new(
+        blog: self,
+        post: post,
+        hide_not_finished: hide_not_finished
+      ))
 
       Log.debug { "#{post.slug} - saving exif cache" }
       data_manager.exif_db.save_cache(post.slug)

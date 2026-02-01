@@ -1,48 +1,19 @@
-require "./renderer_mixin/accessors"
-
-require "./renderer_mixin/render_tags"
-require "./renderer_mixin/render_towns"
-require "./renderer_mixin/render_voivodeships"
-require "./renderer_mixin/render_lands"
-
-require "./renderer_mixin/render_fast"
-require "./renderer_mixin/render_special"
-require "./renderer_mixin/render_overalls"
-require "./renderer_mixin/render_todo"
-
-require "./renderer_mixin/render_photo_maps"
-require "./renderer_mixin/render_photo_related"
-
-require "./renderer_mixin/render_post_related"
-require "./renderer_mixin/render_post_and_photo_related"
-###
-
+# Views required for per-post rendering and registry
+require "./views/page_view"
+require "./views/post_view/article_view"
 require "./views/photo_map/all"
+require "./views/gallery_view/all"
 require "./views/land_view"
 require "./views/post_gallery_stats_view"
 require "./views/markdown_page_view"
-require "./views/todos_view"
 require "./views/pois_view"
+require "./views/post_list_view/all"
+require "./views/static_view/all"
+require "./views/dynamic_view/all"
+require "./views/special_view/all"
+require "./views/model_view/all"
 
 class Tremolite::Renderer
-  include RendererMixin::Accessors
-
-  include RendererMixin::RenderTags
-  include RendererMixin::RenderTowns
-  include RendererMixin::RenderVoivodeships
-  include RendererMixin::RenderLands
-
-  include RendererMixin::RenderFast
-  include RendererMixin::RenderSpecial
-  include RendererMixin::RenderOveralls
-  include RendererMixin::RenderTodo
-
-  include RendererMixin::RenderPhotoMaps
-
-  include RendererMixin::RenderPhotoRelated
-  include RendererMixin::RenderPostRelated
-  include RendererMixin::RenderPostRelated
-
   def dev_render
     # do nothing
   end

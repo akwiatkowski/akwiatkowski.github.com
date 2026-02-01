@@ -1,3 +1,5 @@
+require "./base_view"
+
 class PageView < BaseView
   Log = ::Log.for(self)
 
