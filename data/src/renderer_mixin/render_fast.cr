@@ -1,24 +1,13 @@
-require "../views/all" # TODO: change to just require this one line
+require "../views/all"
 require "../views/post_list_view/all"
 require "../views/static_view/all"
 require "../views/dynamic_view/summary_view"
-require "../views/dynamic_view/timeline_view"
 require "../views/dynamic_view/year_stat_report_view"
 require "../views/dynamic_view/burnout_stat_view"
 require "../views/dynamic_view/towns_history_view"
 require "../views/dynamic_view/towns_timeline_view"
 
 module RendererMixin::RenderFast
-  def render_home
-    # DEPRECATED
-    # write_output(
-    #   PostListView::HomeMasonryView.new(
-    #     blog: blog,
-    #     url: "/old"
-    #   )
-    # )
-  end
-
   def render_home_new
     write_output(
       PostListView::CollectionDynamicView.new(
@@ -82,14 +71,6 @@ module RendererMixin::RenderFast
   end
 
   def render_more
-    # view = MarkdownPageView.new(
-    #   blog: blog,
-    #   url: "/wiecej.html",
-    #   file: "more",
-    #   image_url: blog.data_manager.not_nil!["more.backgrounds"],
-    #   title: blog.data_manager.not_nil!["more.title"],
-    #   subtitle: blog.data_manager.not_nil!["more.subtitle"]
-    # )
     view = StaticView::MoreView.new(blog: blog)
     write_output(view)
   end
@@ -118,21 +99,11 @@ module RendererMixin::RenderFast
     write_output(view)
   end
 
-  # TODO is it usable?
   def render_summary
     write_output(
       DynamicView::SummaryView.new(
         blog: blog,
         url: "/zestawienie.html"
-      )
-    )
-  end
-
-  # TODO is it usable?
-  def render_timeline
-    write_output(
-      DynamicView::TimelineList.new(
-        blog: @blog
       )
     )
   end

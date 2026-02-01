@@ -25,7 +25,5 @@ module RendererMixin::RenderLands
 
   def render_land_page(land)
     write_output(PostListView::LandDynamicView.new(blog: blog, land: land))
-    # write_output(PostListView::LandListView.new(blog: blog, land: land)) # TODO: deprecated
-    # write_output(PostListView::LandMasonryView.new(blog: blog, land: land)) # TODO: deprecated
   end
 end

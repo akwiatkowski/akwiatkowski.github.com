@@ -1,4 +1,3 @@
-require "./html_view"
 require "./index_view"
 
 require "./abstract_svg_view"

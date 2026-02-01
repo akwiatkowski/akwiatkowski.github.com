@@ -15,7 +15,5 @@ module RendererMixin::RenderVoivodeships
 
   def render_voivodeship_page(voivodeship)
     write_output(PostListView::VoivodeshipDynamicView.new(blog: blog, voivodeship: voivodeship))
-    # write_output(PostListView::VoivodeshipListView.new(blog: blog, voivodeship: voivodeship)) # TODO: deprecated
-    # write_output(PostListView::VoivodeshipMasonryView.new(blog: blog, voivodeship: voivodeship)) # TODO: deprecated
   end
 end

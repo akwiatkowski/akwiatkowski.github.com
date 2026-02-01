@@ -5,7 +5,7 @@ module PostListView
     Log = ::Log.for(self)
 
     URL   = "/tag/najnowsze.html"
-    COUNT = PostListView::NewPostsView::COUNT
+    COUNT = 20
 
     def initialize(@blog : Tremolite::Blog, @only_ready = true)
       sorted_posts = @blog.post_collection.posts.select do |post|

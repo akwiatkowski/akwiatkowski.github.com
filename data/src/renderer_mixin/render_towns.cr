@@ -1,6 +1,3 @@
-require "../views/post_list_view/town_list_view"
-require "../views/post_list_view/town_masonry_view"
-
 require "../views/model_view/towns_index_view"
 
 module RendererMixin::RenderTowns
@@ -23,7 +20,5 @@ module RendererMixin::RenderTowns
 
   def render_town_page(town)
     write_output(PostListView::TownDynamicView.new(blog: blog, town: town))
-    # write_output(PostListView::TownListView.new(blog: blog, town: town)) # DEPRECATED
-    # write_output(PostListView::TownMasonryView.new(blog: blog, town: town)) # DEPRECATED
   end
 end

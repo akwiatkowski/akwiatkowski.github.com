@@ -5,12 +5,11 @@ module RendererMixin::RenderOveralls
     render_voivodeships_pages
     render_tags_pages
 
-    render_towns_index # TODO
-    render_lands_index # TODO
+    render_towns_index
+    render_lands_index
   end
 
   def render_all_views_post_related
-    render_home
     render_home_new
     render_map
     render_pois
@@ -30,18 +29,11 @@ module RendererMixin::RenderOveralls
   end
 
   def render_all_views_post_and_yaml_related
-    render_summary # TODO
+    render_summary
     render_year_stat_reports
-    render_burnout_stat # TODO
+    render_burnout_stat
 
-    # when I visited town
     render_towns_history
     render_towns_timeline
-  end
-
-  def render_galleries_pages
-    render_timeline # TODO
-
-    render_all_photo_related # TODO keep in mind it should only be run after exif is loaded
   end
 end

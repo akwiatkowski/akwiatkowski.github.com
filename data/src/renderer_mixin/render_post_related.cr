@@ -1,6 +1,4 @@
 require "../views/post_list_view/paginated_list_view"
-require "../views/post_list_view/new_posts_view"
-require "../views/post_list_view/new_posts_masonry_view"
 require "../views/dynamic_view/mountain_range_planner_view"
 require "../views/post_view/article_view"
 require "../views/dynamic_view/debug_post_view"
@@ -141,8 +139,6 @@ module RendererMixin::RenderPostRelated
 
   def render_last_updated_posts
     write_output(PostListView::NewPostsDynamicView.new(blog: blog))
-    # write_output(PostListView::NewPostsView.new(blog: blog)) # DEPRECATED
-    # write_output(PostListView::NewPostsMasonryView.new(blog: blog)) # DEPRECATED
     Log.info { "New posts rendered" }
   end
 end
