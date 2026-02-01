@@ -114,10 +114,11 @@ class Tremolite::Post
     self.voivodeships.not_nil!.includes?(voivodeship.slug)
   end
 
+  # this is not needed now because of react components
   # fix hyphen breaking
-  def title
-    @title.to_s.gsub("-", "&#x2011;")
-  end
+  # def title
+  #   @title.to_s.gsub("-", "&#x2011;")
+  # end
 
   def finished_date
     if self.finished_at
