@@ -5,6 +5,8 @@ alias TownEntityHash = Hash(String, String | Array(String))
 struct TownEntity
   Log = ::Log.for(self)
 
+  MIN_LAND_COVERAGE_PERCENT_TO_ASSIGN = 30.0
+
   @slug : String
   @name : String
   @type : String
@@ -32,8 +34,10 @@ struct TownEntity
       town["lands"].as_h.keys.each do |land_slug|
         land = lands.select { |land_iterated| land_iterated.slug == land_slug.as_s }.first
 
-        @lands << land
-        @lands_percentage[land_slug.as_s] = town["lands"].as_h[land_slug].as_f
+        percentage = town["lands"].as_h[land_slug].as_f
+        @lands_percentage[land_slug.as_s] = percentage
+
+        @lands << land if percentage >= MIN_LAND_COVERAGE_PERCENT_TO_ASSIGN
       end
     end
   end
