@@ -256,6 +256,7 @@ class BaseView < Tremolite::Views::BaseView
   end
 
   def nav_js_overload
+    # TODO: render js file loading here instead of js script content
     return load_html("include/navigation/js_overload", {} of String => String)
   end
 

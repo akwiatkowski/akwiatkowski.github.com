@@ -3,6 +3,10 @@ require "../views/model_view/lands_index_view"
 
 module RendererMixin::RenderLands
   def render_lands_pages
+    # after movoing to have lands defined within towns
+    # we need to ensure that they were corectly assigned before rendering
+    blog.post_collection.ensure_posts_have_assigned_lands
+
     lands_to_render.each do |land|
       validator.validate_object(land)
       render_land_page(land)

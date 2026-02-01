@@ -149,26 +149,37 @@ class NavStatsCache
     return h
   end
 
+  PERCENTAGE_LAND_IS_NOT_TOO_POPULAR = 20.0
+
   private def process_model_array_to_nav(
     model_array : Array,
     type : String, # TODO: get type from model_array.first.class
     ignore_less_than = 1,
     perform_sort = true,
+    limit : Int32 = 20,
+    ignore : Array(String) = [] of String,
   )
     nav_array = Array(NavStatsCacheObject::EntityNavTuple).new
 
+    total_count = posts.size
     model_array.each do |model|
-      count = posts.select { |post| post.was_in?(model) && post.ready? }.size
+      next if ignore.includes?(model.slug)
 
-      if count >= ignore_less_than
-        nav_array << NavStatsCacheObject::EntityNavTuple.new(
-          name: model.name,
-          url: model.view_url,
-          count: count,
-          slug: model.slug,
-          type: type
-        )
-      end
+      count = posts.select { |post| post.was_in?(model) && post.ready? }.size
+      percentage = count.to_f * 100.0 / total_count.to_f
+
+      # not render lands if too many posts are related to it
+      # because it make it not so special
+      next if percentage > PERCENTAGE_LAND_IS_NOT_TOO_POPULAR
+      next if count < ignore_less_than
+
+      nav_array << NavStatsCacheObject::EntityNavTuple.new(
+        name: model.name,
+        url: model.view_url,
+        count: count,
+        slug: model.slug,
+        type: type
+      )
     end
 
     if perform_sort
@@ -177,7 +188,7 @@ class NavStatsCache
       end
     end
 
-    return nav_array
+    return nav_array[0...limit]
   end
 
   private def refresh_voivodeships_nav
@@ -187,9 +198,12 @@ class NavStatsCache
       model_array: voivodeships,
       type: "voivodeship",
       ignore_less_than: 2,
-      perform_sort: false
+      perform_sort: false,
+      limit: 20
     )
   end
+
+  # IGNORED_LANDS = ["rownina_wrzesinska", "pojezierze_poznanskie", "pojezierze_gnieznienskie"]
 
   private def refresh_lands_nav
     lands = @blog.data_manager.lands.not_nil!
@@ -198,7 +212,8 @@ class NavStatsCache
       model_array: lands,
       type: "lands",
       ignore_less_than: 4,
-      perform_sort: true
+      perform_sort: true,
+      limit: 20
     )
   end
 
@@ -209,7 +224,8 @@ class NavStatsCache
       model_array: tags,
       type: "tag",
       ignore_less_than: 2,
-      perform_sort: false
+      perform_sort: false,
+      limit: 20
     )
   end
 
