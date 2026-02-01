@@ -2,22 +2,41 @@ require "../../tremolite/src/tremolite"
 require "../data/src/blog"
 require "../data/src/services/area_matcher/all"
 
+# Job struct to pass work to workers
+struct PostJob
+  getter post : Tremolite::Post
+  getter output_dir : String
+  getter index : Int32
+  getter total : Int32
+
+  def initialize(@post, @output_dir, @index, @total)
+  end
+end
+
 class Commands::GenerateAreasForPosts
   ENVS = ["dev", "full"]
+  DEFAULT_WORKERS = 4
 
-  def initialize(@overwrite : Bool = false)
-    @matcher = AreaMatcher::Matcher.new
-    puts "AreaMatcher loaded: #{@matcher.stats}"
+  @workers : Int32
+  @overwrite : Bool
+  @processed : Atomic(Int32)
+  @skipped : Atomic(Int32)
+
+  def initialize(@overwrite : Bool = false, @workers : Int32 = DEFAULT_WORKERS)
+    @processed = Atomic(Int32).new(0)
+    @skipped = Atomic(Int32).new(0)
+    puts "Workers: #{@workers}"
     puts "Overwrite mode: #{@overwrite}"
   end
 
   def run
     ENVS.each do |env|
       puts "\n=== Processing env: #{env} ==="
+      @processed.set(0)
+      @skipped.set(0)
       process_env(env)
     end
 
-    @matcher.finalize
     puts "\nDone!"
   end
 
@@ -44,23 +63,55 @@ class Commands::GenerateAreasForPosts
     Dir.mkdir_p(output_dir) unless Dir.exists?(output_dir)
 
     posts_with_routes = posts.select { |p| p.has_detailed_route? }
-    puts "Found #{posts_with_routes.size} posts with detailed routes (out of #{posts.size} total)"
+    total = posts_with_routes.size
+    puts "Found #{total} posts with detailed routes (out of #{posts.size} total)"
+    puts "Starting #{@workers} workers..."
 
-    posts_with_routes.each_with_index do |post, idx|
-      process_post(post, output_dir, idx + 1, posts_with_routes.size)
+    # Channels for work distribution
+    jobs_channel = Channel(PostJob).new(@workers * 2)
+    done_channel = Channel(Nil).new
+
+    # Spawn workers
+    @workers.times do |worker_id|
+      spawn do
+        # Each worker creates its own Matcher (memory-heavy but thread-safe)
+        matcher = AreaMatcher::Matcher.new
+        puts "  Worker #{worker_id} ready"
+
+        loop do
+          job = jobs_channel.receive?
+          break if job.nil?
+
+          process_post(job, matcher, worker_id)
+        end
+
+        matcher.finalize
+        done_channel.send(nil)
+      end
     end
+
+    # Feed jobs to workers
+    posts_with_routes.each_with_index do |post, idx|
+      jobs_channel.send(PostJob.new(post, output_dir, idx + 1, total))
+    end
+    jobs_channel.close
+
+    # Wait for all workers to finish
+    @workers.times { done_channel.receive }
+
+    puts "Processed: #{@processed.get}, Skipped: #{@skipped.get}"
   end
 
-  private def process_post(post : Tremolite::Post, output_dir : String, current : Int32, total : Int32)
-    output_path = File.join([output_dir, "#{post.slug}.yml"])
+  private def process_post(job : PostJob, matcher : AreaMatcher::Matcher, worker_id : Int32)
+    post = job.post
+    output_path = File.join([job.output_dir, "#{post.slug}.yml"])
 
     # Skip if file exists and overwrite is false
     if !@overwrite && File.exists?(output_path)
-      puts "  [#{current}/#{total}] #{post.slug}... skipped (exists)"
+      @skipped.add(1)
+      puts "  [W#{worker_id}] [#{job.index}/#{job.total}] #{post.slug}... skipped"
       return
     end
-
-    print "  [#{current}/#{total}] #{post.slug}... "
 
     routes_data = [] of Hash(String, String | Float64 | Array(Hash(String, String | Float64 | Nil)))
 
@@ -68,10 +119,10 @@ class Commands::GenerateAreasForPosts
       next if route_obj.route.size < 2
 
       # Get route match result (distances)
-      route_result = @matcher.match_route(route_obj.route)
+      route_result = matcher.match_route(route_obj.route)
 
       # Get point match result (all touched areas)
-      point_result = @matcher.match_points(route_obj.route)
+      point_result = matcher.match_points(route_obj.route)
 
       route_data = {
         "type"                   => route_obj.type,
@@ -102,7 +153,8 @@ class Commands::GenerateAreasForPosts
     # Write YAML file
     File.write(output_path, routes_data.to_yaml)
 
-    puts "#{routes_data.size} routes saved"
+    @processed.add(1)
+    puts "  [W#{worker_id}] [#{job.index}/#{job.total}] #{post.slug}... #{routes_data.size} routes"
   end
 
   private def format_distance_results(results : Array(AreaMatcher::RouteDistanceResult)) : Array(Hash(String, String | Float64 | Nil))
@@ -136,5 +188,15 @@ end
 # Parse command line args
 overwrite = ARGV.includes?("--overwrite") || ARGV.includes?("-f")
 
-command = Commands::GenerateAreasForPosts.new(overwrite: overwrite)
+# Parse workers count: --workers=N or -w N
+workers = Commands::GenerateAreasForPosts::DEFAULT_WORKERS
+ARGV.each_with_index do |arg, i|
+  if arg.starts_with?("--workers=")
+    workers = arg.split("=")[1].to_i
+  elsif arg == "-w" && ARGV[i + 1]?
+    workers = ARGV[i + 1].to_i
+  end
+end
+
+command = Commands::GenerateAreasForPosts.new(overwrite: overwrite, workers: workers)
 command.run
