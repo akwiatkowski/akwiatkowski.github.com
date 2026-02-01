@@ -58,8 +58,8 @@ def setup_view_registry : ViewRegistry
   # Priority 20-29: Home/list views (home, map, pois)
   register_home_views(r)
 
-  # TODO: Priority 30-39: Photo views
-  # register_photo_views(r)
+  # Priority 30-39: Photo views (galleries, maps)
+  register_photo_views(r)
 
   # Priority 40-49: Stats views (summary, year reports, burnout)
   register_stats_views(r)

@@ -25,7 +25,7 @@ require "./tasks/cache_tasks"
 # Views (render output)
 require "./views/entity_views"
 require "./views/home_views"
-# TODO: require "./views/photo_views"
+require "./views/photo_views"
 require "./views/stats_views"
 require "./views/feed_views"
 require "./views/index_views"

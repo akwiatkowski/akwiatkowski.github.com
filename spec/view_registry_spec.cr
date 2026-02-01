@@ -170,15 +170,16 @@ describe "setup_view_registry" do
     it "registers all expected views" do
       r = setup_view_registry
 
-      # Should have 33 views total:
+      # Should have 35 views total:
       # - Entity views: 4 (towns, tags, voivodeships, lands)
       # - Home views: 3 (main, map, pois)
+      # - Photo views: 2 (galleries, maps)
       # - Stats views: 5 (summary, year reports, burnout, towns history, towns timeline)
       # - Feed views: 9 (RSS, Atom, 5x JSON, sitemap, robots)
       # - Index views: 2 (towns, lands)
       # - Static views: 7 (more, about, english, JS ideas, JS timeline, JS panoramio, JS exif stats)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
-      r.views.size.should eq(33)
+      r.views.size.should eq(35)
     end
 
     it "registers all entity views" do
@@ -198,6 +199,14 @@ describe "setup_view_registry" do
       view_names.should contain("Home: main page")
       view_names.should contain("Home: map page")
       view_names.should contain("Home: POIs page")
+    end
+
+    it "registers all photo views" do
+      r = setup_view_registry
+      view_names = r.views.map(&.name)
+
+      view_names.should contain("Photo galleries: all")
+      view_names.should contain("Photo maps: all")
     end
 
     it "registers all stats views" do
@@ -299,6 +308,13 @@ describe "setup_view_registry" do
       home_views.all? { |v| v.priority >= 20 && v.priority <= 29 }.should be_true
     end
 
+    it "photo views have priority 30-39" do
+      r = setup_view_registry
+      photo_views = r.views.select { |v| v.name.starts_with?("Photo") }
+
+      photo_views.all? { |v| v.priority >= 30 && v.priority <= 39 }.should be_true
+    end
+
     it "stats views have priority 40-49" do
       r = setup_view_registry
       stats_views = r.views.select { |v| v.name.starts_with?("Stats:") }
@@ -356,6 +372,15 @@ describe "setup_view_registry" do
 
       home_views.each do |view|
         view.depends_on.should eq([:posts])
+      end
+    end
+
+    it "photo views depend on exifs" do
+      r = setup_view_registry
+      photo_views = r.views.select { |v| v.name.starts_with?("Photo") }
+
+      photo_views.each do |view|
+        view.depends_on.should eq([:exifs])
       end
     end
 
@@ -503,6 +528,14 @@ describe "setup_view_registry" do
       names.should contain("Cache: town photos")
       names.should contain("Cache: coord quant")
 
+      # Should include photo views
+      names.should contain("Photo galleries: all")
+      names.should contain("Photo maps: all")
+
+      # Should include debug camera/EXIF views
+      names.should contain("Debug: camera stuff")
+      names.should contain("Debug: missing EXIF")
+
       # Should NOT include entity views (they depend on posts/yamls, not exifs)
       names.should_not contain("Towns: all pages")
     end
@@ -532,6 +565,8 @@ describe "setup_view_registry" do
       names.should contain("EXIF: init all posts")
       names.should contain("Cache: town photos")
       names.should contain("Cache: coord quant")
+      names.should contain("Photo galleries: all")
+      names.should contain("Photo maps: all")
     end
   end
 end

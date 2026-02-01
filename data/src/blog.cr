@@ -11,8 +11,58 @@ require "./services/post_coord_quant_cache"
 require "./services/external_gpx_preprocessor"
 require "./services/tools/all"
 require "./render_context"
+require "./view_registry/all"
 
 class Tremolite::Blog
+  # ============================================
+  # View Registry Integration
+  # ============================================
+  #
+  # The ViewRegistry provides a declarative way to manage what renders when.
+  # Use render_with_registry for the new coordinated render path.
+  #
+
+  # Lazy-initialized registry with all views/tasks registered
+  def view_registry : ViewRegistry
+    @view_registry ||= setup_view_registry
+  end
+
+  # Coordinator that executes views based on what changed
+  def render_coordinator : RenderCoordinator
+    @render_coordinator ||= RenderCoordinator.new(view_registry)
+  end
+
+  # New render method using the registry
+  # This can run alongside the old render method for validation
+  def render_with_registry(
+    posts_changed : Bool,
+    yamls_changed : Bool,
+    exifs_changed : Bool
+  )
+    context = RenderContext.new(self)
+
+    # Build the changed set
+    changed = Set(Symbol).new
+    changed << :posts if posts_changed
+    changed << :yamls if yamls_changed
+    changed << :exifs if exifs_changed
+
+    # If nothing changed, run "always run" entries only
+    if changed.empty?
+      Log.info { "render_with_registry: no changes, running always-run entries only" }
+    end
+
+    render_coordinator.render(context, changed)
+  end
+
+  # Full render using registry (convenience method)
+  def render_all_with_registry
+    render_with_registry(
+      posts_changed: true,
+      yamls_changed: true,
+      exifs_changed: true
+    )
+  end
   def mod_watcher_summary
     # keep in mind posts were not yet loaded
     # 0) check what was changed

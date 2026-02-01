@@ -18,7 +18,7 @@
 - Added **96 tests** covering all view categories
 - Updated `BaseView` to use context via lazy property
 
-### Phase 2: View Registry + Coordinator 🚧 IN PROGRESS
+### Phase 2: View Registry + Coordinator ✅ COMPLETE
 
 **Decision**: Changed from Pipeline to Registry approach for better:
 - Explicit dependency declarations per view
@@ -38,9 +38,10 @@ Tasks (6 registered):
 - `tasks/exif_tasks.cr` ✅ - EXIF initialization (priority 4)
 - `tasks/cache_tasks.cr` ✅ - nav_stats, town_photo, coord_quant (priority 5-6)
 
-Views (33 registered):
+Views (35 registered):
 - `views/entity_views.cr` ✅ - towns, tags, voivodeships, lands (priority 10-13)
 - `views/home_views.cr` ✅ - home, map, pois (priority 20-22)
+- `views/photo_views.cr` ✅ - galleries, photo maps (priority 30-35)
 - `views/stats_views.cr` ✅ - summary, year reports, burnout, towns history/timeline (priority 40-44)
 - `views/feed_views.cr` ✅ - RSS, Atom, JSON, sitemap, robots (priority 50-58)
 - `views/index_views.cr` ✅ - towns index, lands index (priority 60-61)
@@ -50,13 +51,12 @@ Views (33 registered):
 Tests:
 - `spec/view_registry_spec.cr` ✅ - **49 tests** covering registry functionality
 
-**Still TODO**:
-- `views/photo_views.cr` - photo galleries and SVG maps
-- Integration with blog.cr
+**Integration**:
+- `blog.cr` ✅ - Added `view_registry`, `render_coordinator`, `render_with_registry` methods
 
-**Abandoned files** (can be deleted):
-- `data/src/render_pipeline.cr`
-- `data/src/render_stages/`
+**Deleted abandoned files**:
+- ~~`data/src/render_pipeline.cr`~~ ✅ deleted
+- ~~`data/src/render_stages/`~~ ✅ deleted
 
 ---
 
@@ -184,20 +184,20 @@ Incremental render (mod_watcher):
 1. ✅ **Clean up deprecated code** - Removed 14 deprecated views, -731 lines
 2. ✅ **Document what's actually used** - Created VIEWS.md
 3. ✅ **Consolidate naming** - Clarified in VIEWS.md
-4. 🚧 **Extract render registry** - ViewRegistry implemented, migration in progress
+4. ✅ **Extract render registry** - ViewRegistry implemented, all views registered
 
 ### Medium-Term Goals (Moderate Investment)
 
-5. 🚧 **Separate concerns** - RenderContext + Coordinator decouple Blog from views
+5. ✅ **Separate concerns** - RenderContext + Coordinator decouple Blog from views
 6. ~~**Create render pipeline**~~ → Changed to Registry approach
 7. ✅ **Add view metadata** - Views registered with `depends_on` arrays
-8. 🚧 **Simplify conditional rendering** - Coordinator handles based on `changed` set
+8. ✅ **Simplify conditional rendering** - Coordinator handles based on `changed` set
 
 ### Long-Term Goals (Future Refactoring)
 
 9. ✅ **Architecture chosen** - Registry + Coordinator (not command/event-driven)
 10. ✅ **Testing infrastructure** - 96 tests, MockRenderContext
-11. 🚧 **Lazy/on-demand rendering** - Registry enables this (only run entries matching `changed`)
+11. ✅ **Lazy/on-demand rendering** - Registry enables this (only run entries matching `changed`)
 
 ## Proposed Incremental Improvements
 
@@ -357,23 +357,23 @@ Registry tests (49 tests):
 - [x] VIEWS.md created listing render flow
 - [x] No behavior changes (validates successfully manually by human)
 
-### Phase 2 Success (Registry):
+### Phase 2 Success (Registry): ✅ COMPLETE
 - [x] ViewRegistry class implemented
 - [x] RenderCoordinator class implemented
 - [x] Task/View distinction with priorities
 - [x] Register all data-loading tasks (6 tasks)
 - [x] Register entity views (4 views)
 - [x] Register home views (3 views)
+- [x] Register photo views (2 views: galleries, maps)
 - [x] Register stats views (5 views)
 - [x] Register feed views (9 views)
 - [x] Register index views (2 views)
 - [x] Register static views (7 views)
 - [x] Register debug views (3 views)
 - [x] 49 tests for registry
-- [ ] Register photo views (galleries, maps)
-- [ ] Integrate coordinator with blog.cr
-- [ ] Remove mixin methods as views are migrated
-- [ ] All render calls go through coordinator
+- [x] Integrate coordinator with blog.cr (`render_with_registry`)
+- [ ] Remove mixin methods as views are migrated (Phase 3)
+- [ ] All render calls go through coordinator (Phase 3)
 
 ### Long-Term Success:
 - [x] Can understand render flow in under 5 minutes (VIEWS.md + Registry)
@@ -404,24 +404,35 @@ Registry tests (49 tests):
    - [x] `views/entity_views.cr` - towns, tags, voivodeships, lands pages
    - [x] `views/home_views.cr` - home, map, pois
    - [x] `views/index_views.cr` - towns index, lands index
-5. **Phase 2C: Register Photo Views** 🚧 TODO:
-   - [ ] `views/photo_views.cr` - camera, lens, ISO, exposure galleries + SVG maps
+5. ~~**Phase 2C: Register Photo Views**~~ ✅ Done (2 views)
+   - [x] `views/photo_views.cr` - galleries (priority 30) + SVG maps (priority 35)
 6. ~~**Phase 2D: Register Stats/Static Views**~~ ✅ Done (12 views)
    - [x] `views/stats_views.cr` - summary, year reports, burnout, towns history/timeline
    - [x] `views/static_views.cr` - about, more, JS pages
 7. ~~**Phase 2E: Register Feed/Debug Views**~~ ✅ Done (12 views)
    - [x] `views/feed_views.cr` - RSS, Atom, JSON, sitemap, robots (9 views)
    - [x] `views/debug_views.cr` - debug pages (3 views)
-8. **Phase 2F: Integration** 🚧 TODO:
-   - [ ] Add `registry` and `coordinator` to Blog class
-   - [ ] Add `blog.render_with_registry` method (wrapper)
-   - [ ] Test output matches current render
-   - [ ] Replace `blog.render` internals with coordinator
-   - [ ] Remove mixin methods one by one
-9. **Phase 2G: Cleanup** 🚧 TODO:
-   - [ ] Delete abandoned pipeline files
-   - [ ] Delete empty mixin files
-   - [ ] Update VIEWS.md (or auto-generate from registry)
+8. ~~**Phase 2F: Integration**~~ ✅ Done
+   - [x] Add `view_registry` and `render_coordinator` to Blog class
+   - [x] Add `blog.render_with_registry` method (wrapper)
+   - [x] Add `blog.render_all_with_registry` convenience method
+   - [ ] Test output matches current render (manual validation needed)
+   - [ ] Replace `blog.render` internals with coordinator (Phase 3)
+   - [ ] Remove mixin methods one by one (Phase 3)
+9. ~~**Phase 2G: Cleanup**~~ ✅ Done
+   - [x] Delete abandoned pipeline files (`render_pipeline.cr`, `render_stages/`)
+   - [ ] Delete empty mixin files (Phase 3)
+   - [ ] Update VIEWS.md (or auto-generate from registry) (Phase 3)
+
+## Phase 3: Full Migration (Future)
+
+**Goal**: Replace old render path with registry-based rendering
+
+1. [ ] Validate `render_with_registry` output matches `render` output
+2. [ ] Replace `make_it_so` to use `render_with_registry`
+3. [ ] Move mixin logic into registry blocks (one at a time)
+4. [ ] Delete empty mixin files
+5. [ ] Auto-generate VIEWS.md from registry
 
 ## Cost Estimates (Actual)
 
@@ -454,18 +465,18 @@ data/src/view_registry/
   views/
     entity_views.cr       # ✅ Towns, tags, voivodeships, lands (4 views)
     home_views.cr         # ✅ Home, map, pois (3 views)
+    photo_views.cr        # ✅ Photo galleries + SVG maps (2 views)
     stats_views.cr        # ✅ Summary, year reports, burnout, towns (5 views)
     feed_views.cr         # ✅ RSS, Atom, JSON, sitemap, robots (9 views)
     index_views.cr        # ✅ Towns index, lands index (2 views)
     static_views.cr       # ✅ About, more, JS pages (7 views)
     debug_views.cr        # ✅ Debug posts, camera, missing EXIF (3 views)
-    photo_views.cr        # TODO: Photo galleries + SVG maps
 
 spec/
   view_registry_spec.cr   # ✅ 49 tests
 ```
 
-**Current totals**: 6 tasks + 33 views = 39 entries registered
+**Current totals**: 6 tasks + 35 views = 41 entries registered
 
 ### Priority Guide
 
@@ -476,7 +487,7 @@ spec/
 | 5-6 | Cache tasks | 3 | nav_stats, town_photo, coord_quant |
 | 10-13 | Entity views | 4 | Towns, tags, voivodeships, lands |
 | 20-22 | Home views | 3 | Home, map, pois |
-| 30-39 | Photo views | TODO | Galleries, maps |
+| 30-35 | Photo views | 2 | Galleries (30), maps (35) |
 | 40-44 | Stats views | 5 | Summary, year reports, burnout, towns history/timeline |
 | 50-58 | Feed views | 9 | RSS, Atom, JSON, sitemap, robots |
 | 60-61 | Index views | 2 | Towns index, lands index |
