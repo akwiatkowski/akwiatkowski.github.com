@@ -13,9 +13,10 @@
 #
 # Priority: 20-29 (after entity views)
 #
-# Source: Extracted from render_overalls.cr (render_all_views_post_related)
-# and render_fast.cr
-#
+# View classes used: PostListView::CollectionDynamicView,
+# StaticView::MapView, PoisView
+# (loaded via renderer.cr)
+
 def register_home_views(r : ViewRegistry)
   # ============================================
   # View: Home Page
@@ -27,22 +28,11 @@ def register_home_views(r : ViewRegistry)
   # URL: /
   # View class: PostListView::CollectionDynamicView
   #
-  # Original code (render_fast.cr:11-18):
-  #   def render_home_new
-  #     write_output(
-  #       PostListView::CollectionDynamicView.new(blog: blog, url: "/")
-  #     )
-  #   end
-  #
-  # Called from: render_all_views_post_related (render_overalls.cr:13)
-  #
   # Dependencies: [:posts]
   #
   r.register("Home: main page", [:posts], priority: 20) do |ctx|
     ViewRegistry::Log.info { "Rendering home page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_home_new
+    ctx.write_output(PostListView::CollectionDynamicView.new(blog: ctx.blog, url: "/"))
   end
 
   # ============================================
@@ -55,20 +45,11 @@ def register_home_views(r : ViewRegistry)
   # URL: /mapa.html
   # View class: StaticView::MapView
   #
-  # Original code (render_fast.cr:20-26):
-  #   def render_map
-  #     write_output(StaticView::MapView.new(blog: blog))
-  #   end
-  #
-  # Called from: render_all_views_post_related (render_overalls.cr:14)
-  #
   # Dependencies: [:posts]
   #
   r.register("Home: map page", [:posts], priority: 21) do |ctx|
     ViewRegistry::Log.info { "Rendering map page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_map
+    ctx.write_output(StaticView::MapView.new(blog: ctx.blog))
   end
 
   # ============================================
@@ -81,19 +62,10 @@ def register_home_views(r : ViewRegistry)
   # URL: /pois.html
   # View class: PoisView
   #
-  # Original code (render_fast.cr:150-157):
-  #   def render_pois
-  #     write_output(PoisView.new(blog: blog, url: "/pois.html"))
-  #   end
-  #
-  # Called from: render_all_views_post_related (render_overalls.cr:15)
-  #
   # Dependencies: [:posts]
   #
   r.register("Home: POIs page", [:posts], priority: 22) do |ctx|
     ViewRegistry::Log.info { "Rendering POIs page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_pois
+    ctx.write_output(PoisView.new(blog: ctx.blog, url: "/pois.html"))
   end
 end

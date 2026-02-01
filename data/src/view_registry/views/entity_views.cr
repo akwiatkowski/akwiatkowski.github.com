@@ -16,20 +16,10 @@
 #
 # Priority: 10-13 (first views to render after tasks)
 #
-# Migration note:
-# ---------------
-# These registrations currently WRAP the existing mixin methods.
-# This allows us to:
-# 1. Test that the registry calls things correctly
-# 2. Later move the logic INTO the registration blocks
-# 3. Eventually delete the mixin files
-#
-# Source: Extracted from renderer mixins:
-# - render_towns.cr (render_towns_pages, render_town_page)
-# - render_tags.cr (render_tags_pages, render_tag_page)
-# - render_voivodeships.cr (render_voivodeships_pages, render_voivodeship_page)
-# - render_lands.cr (render_lands_pages, render_land_page)
-#
+# View classes used: PostListView::TownDynamicView, TagDynamicView,
+# VoivodeshipDynamicView, LandDynamicView
+# (loaded via renderer.cr)
+
 def register_entity_views(r : ViewRegistry)
   # ============================================
   # View: Town Pages
@@ -41,24 +31,16 @@ def register_entity_views(r : ViewRegistry)
   # URL pattern: /gminy/{slug}.html
   # View class: PostListView::TownDynamicView
   #
-  # Original code (render_towns.cr:4-10):
-  #   def render_towns_pages
-  #     towns_to_render.each do |town|
-  #       validator.validate_object(town)
-  #       render_town_page(town)
-  #     end
-  #   end
-  #
   # Dependencies: [:posts, :yamls]
   # - Posts: content to display
   # - Yamls: town definitions
   #
   r.register("Towns: all pages", [:posts, :yamls], priority: 10) do |ctx|
     ViewRegistry::Log.info { "Rendering town pages" }
-
-    # Wrapper: calls existing mixin method
-    # TODO: Move logic here once registry is validated
-    ctx.blog.renderer.render_towns_pages
+    ctx.towns.each do |town|
+      ctx.validator.validate_object(town)
+      ctx.write_output(PostListView::TownDynamicView.new(blog: ctx.blog, town: town))
+    end
   end
 
   # ============================================
@@ -70,23 +52,16 @@ def register_entity_views(r : ViewRegistry)
   # URL pattern: /tagi/{slug}.html
   # View class: PostListView::TagDynamicView
   #
-  # Original code (render_tags.cr:4-9):
-  #   def render_tags_pages
-  #     tags_to_render.each do |tag|
-  #       validator.validate_object(tag)
-  #       render_tag_page(tag)
-  #     end
-  #   end
-  #
   # Dependencies: [:posts, :yamls]
   # - Posts: content to display
   # - Yamls: tag definitions
   #
   r.register("Tags: all pages", [:posts, :yamls], priority: 11) do |ctx|
     ViewRegistry::Log.info { "Rendering tag pages" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_tags_pages
+    ctx.tags.each do |tag|
+      ctx.validator.validate_object(tag)
+      ctx.write_output(PostListView::TagDynamicView.new(blog: ctx.blog, tag: tag))
+    end
   end
 
   # ============================================
@@ -99,23 +74,16 @@ def register_entity_views(r : ViewRegistry)
   # URL pattern: /wojewodztwa/{slug}.html
   # View class: PostListView::VoivodeshipDynamicView
   #
-  # Original code (render_voivodeships.cr:4-9):
-  #   def render_voivodeships_pages
-  #     voivodeships_to_render.each do |voivodeship|
-  #       validator.validate_object(voivodeship)
-  #       render_voivodeship_page(voivodeship)
-  #     end
-  #   end
-  #
   # Dependencies: [:posts, :yamls]
   # - Posts: content to display
   # - Yamls: voivodeship definitions
   #
   r.register("Voivodeships: all pages", [:posts, :yamls], priority: 12) do |ctx|
     ViewRegistry::Log.info { "Rendering voivodeship pages" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_voivodeships_pages
+    ctx.voivodeships.each do |voivodeship|
+      ctx.validator.validate_object(voivodeship)
+      ctx.write_output(PostListView::VoivodeshipDynamicView.new(blog: ctx.blog, voivodeship: voivodeship))
+    end
   end
 
   # ============================================
@@ -129,16 +97,7 @@ def register_entity_views(r : ViewRegistry)
   # View class: PostListView::LandDynamicView
   #
   # Note: This has a prerequisite - posts must have lands assigned.
-  # The mixin calls ensure_posts_have_assigned_lands before rendering.
-  #
-  # Original code (render_lands.cr:5-14):
-  #   def render_lands_pages
-  #     blog.post_collection.ensure_posts_have_assigned_lands
-  #     lands_to_render.each do |land|
-  #       validator.validate_object(land)
-  #       render_land_page(land)
-  #     end
-  #   end
+  # We call ensure_posts_have_assigned_lands before rendering.
   #
   # Dependencies: [:posts, :yamls]
   # - Posts: content to display
@@ -146,9 +105,10 @@ def register_entity_views(r : ViewRegistry)
   #
   r.register("Lands: all pages", [:posts, :yamls], priority: 13) do |ctx|
     ViewRegistry::Log.info { "Rendering land pages" }
-
-    # Wrapper: calls existing mixin method
-    # Note: mixin internally calls ensure_posts_have_assigned_lands
-    ctx.blog.renderer.render_lands_pages
+    ctx.blog.post_collection.ensure_posts_have_assigned_lands
+    ctx.lands.each do |land|
+      ctx.validator.validate_object(land)
+      ctx.write_output(PostListView::LandDynamicView.new(blog: ctx.blog, land: land))
+    end
   end
 end

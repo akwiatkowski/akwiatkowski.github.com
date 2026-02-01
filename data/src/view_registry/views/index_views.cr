@@ -17,10 +17,9 @@
 # Note: These are separate from entity pages because they
 # show ALL entities, not individual entity detail pages.
 #
-# Source: Extracted from renderer mixins:
-# - render_towns.cr (render_towns_index)
-# - render_lands.cr (render_lands_index)
-#
+# View classes used: ModelView::TownsIndexView, LandsIndexView
+# (loaded via renderer.cr)
+
 def register_index_views(r : ViewRegistry)
   # ============================================
   # View: Towns Index
@@ -32,19 +31,11 @@ def register_index_views(r : ViewRegistry)
   # URL: /gminy.html
   # View class: ModelView::TownsIndexView
   #
-  # Original code (render_towns.cr:12-14):
-  #   def render_towns_index
-  #     view = ModelView::TownsIndexView.new(blog: @blog, url: "/gminy.html")
-  #     write_output(view)
-  #   end
-  #
   # Dependencies: [:posts, :yamls]
   #
   r.register("Index: towns", [:posts, :yamls], priority: 60) do |ctx|
     ViewRegistry::Log.info { "Rendering towns index" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_towns_index
+    ctx.write_output(ModelView::TownsIndexView.new(blog: ctx.blog, url: "/gminy.html"))
   end
 
   # ============================================
@@ -57,18 +48,10 @@ def register_index_views(r : ViewRegistry)
   # URL: /krainy.html
   # View class: ModelView::LandsIndexView
   #
-  # Original code (render_lands.cr:17-19):
-  #   def render_lands_index
-  #     view = ModelView::LandsIndexView.new(blog: @blog, url: "/krainy.html")
-  #     write_output(view)
-  #   end
-  #
   # Dependencies: [:posts, :yamls]
   #
   r.register("Index: lands", [:posts, :yamls], priority: 61) do |ctx|
     ViewRegistry::Log.info { "Rendering lands index" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_lands_index
+    ctx.write_output(ModelView::LandsIndexView.new(blog: ctx.blog, url: "/krainy.html"))
   end
 end

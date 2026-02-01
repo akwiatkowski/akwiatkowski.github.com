@@ -15,8 +15,10 @@
 #
 # Priority: 100+ (lowest priority, runs last)
 #
-# Source: Extracted from render_post_related.cr and render_photo_related.cr
-#
+# View classes used: DynamicView::DebugPostView,
+# DebugPostCameraStuffView, DebugPostMissingPhotosExifView
+# (loaded via renderer.cr)
+
 def register_debug_views(r : ViewRegistry)
   # ============================================
   # Debug: Posts
@@ -27,13 +29,11 @@ def register_debug_views(r : ViewRegistry)
   # URL: /debug/posts.html
   # View class: DynamicView::DebugPostView
   #
-  # Original code (render_post_related.cr:132-138)
-  #
   # Dependencies: [:posts]
   #
   r.register("Debug: posts", [:posts], priority: 100) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug posts page" }
-    ctx.blog.renderer.render_debug_posts
+    ctx.write_output(DynamicView::DebugPostView.new(blog: ctx.blog))
   end
 
   # ============================================
@@ -45,13 +45,11 @@ def register_debug_views(r : ViewRegistry)
   # URL: /debug/camera_stuff.html
   # View class: DynamicView::DebugPostCameraStuffView
   #
-  # Original code (render_photo_related.cr:346-349)
-  #
   # Dependencies: [:exifs]
   #
   r.register("Debug: camera stuff", [:exifs], priority: 101) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug camera stuff page" }
-    ctx.blog.renderer.render_debug_post_camera_stuff
+    ctx.write_output(DynamicView::DebugPostCameraStuffView.new(blog: ctx.blog))
   end
 
   # ============================================
@@ -63,12 +61,10 @@ def register_debug_views(r : ViewRegistry)
   # URL: /debug/missing_exif.html
   # View class: DynamicView::DebugPostMissingPhotosExifView
   #
-  # Original code (render_photo_related.cr:351-354)
-  #
   # Dependencies: [:exifs]
   #
   r.register("Debug: missing EXIF", [:exifs], priority: 102) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug missing EXIF page" }
-    ctx.blog.renderer.render_debug_post_photos_missing_exif
+    ctx.write_output(DynamicView::DebugPostMissingPhotosExifView.new(blog: ctx.blog))
   end
 end

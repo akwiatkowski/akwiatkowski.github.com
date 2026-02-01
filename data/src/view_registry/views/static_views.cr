@@ -13,7 +13,6 @@
 # 5. JS Timeline page - /linia_czasu.html (priority: 94)
 # 6. JS Panoramio page - /mapa2.html (priority: 95)
 # 7. JS Exif Stats page - /exif_statystyki.html (priority: 96)
-# 8. JS Bicycle Planner - /pomysly2.html (priority: 97)
 #
 # Dependencies: [] (empty = always run)
 # - These pages are simple and don't depend on specific data changes
@@ -21,9 +20,10 @@
 #
 # Priority: 90-99 (near the end, low priority)
 #
-# Source: Extracted from render_fast.cr (render_fast_static_renders)
-# and render_overalls.cr (render_js_pages)
-#
+# View classes used: StaticView::MoreView, JsIdeasView, JsTimelineView,
+# JsPanoramioView, JsExifView, MarkdownPageView
+# (loaded via renderer.cr)
+
 def register_static_views(r : ViewRegistry)
   # ============================================
   # View: More Page
@@ -34,21 +34,11 @@ def register_static_views(r : ViewRegistry)
   # URL: /wiecej.html
   # View class: StaticView::MoreView
   #
-  # Original code (render_fast.cr:73-76):
-  #   def render_more
-  #     view = StaticView::MoreView.new(blog: blog)
-  #     write_output(view)
-  #   end
-  #
-  # Called from: render_fast_static_renders (render_overalls.cr:26)
-  #
   # Dependencies: [] (always runs)
   #
   r.register("Static: more page", [] of Symbol, priority: 90) do |ctx|
     ViewRegistry::Log.debug { "Rendering more page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_more
+    ctx.write_output(StaticView::MoreView.new(blog: ctx.blog))
   end
 
   # ============================================
@@ -60,21 +50,18 @@ def register_static_views(r : ViewRegistry)
   # URL: /o_mnie.html
   # View class: MarkdownPageView
   #
-  # Original code (render_fast.cr:78-88):
-  #   def render_about
-  #     view = MarkdownPageView.new(blog: blog, ...)
-  #     write_output(view)
-  #   end
-  #
-  # Called from: render_fast_static_renders (render_overalls.cr:27)
-  #
   # Dependencies: [] (always runs)
   #
   r.register("Static: about page", [] of Symbol, priority: 91) do |ctx|
     ViewRegistry::Log.debug { "Rendering about page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_about
+    ctx.write_output(MarkdownPageView.new(
+      blog: ctx.blog,
+      url: "/o_mnie.html",
+      file: "about",
+      image_url: ctx["about.backgrounds"],
+      title: ctx["about.title"],
+      subtitle: ctx["about.subtitle"]
+    ))
   end
 
   # ============================================
@@ -86,21 +73,18 @@ def register_static_views(r : ViewRegistry)
   # URL: /en/index.html
   # View class: MarkdownPageView
   #
-  # Original code (render_fast.cr:90-100):
-  #   def render_en
-  #     view = MarkdownPageView.new(blog: blog, ...)
-  #     write_output(view)
-  #   end
-  #
-  # Called from: render_fast_static_renders (render_overalls.cr:28)
-  #
   # Dependencies: [] (always runs)
   #
   r.register("Static: english page", [] of Symbol, priority: 92) do |ctx|
     ViewRegistry::Log.debug { "Rendering english page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_en
+    ctx.write_output(MarkdownPageView.new(
+      blog: ctx.blog,
+      url: "/en/index.html",
+      file: "en",
+      image_url: ctx["en.backgrounds"],
+      title: ctx["en.title"],
+      subtitle: ctx["en.subtitle"]
+    ))
   end
 
   # ============================================
@@ -119,13 +103,9 @@ def register_static_views(r : ViewRegistry)
   # URL: /pomysly.html
   # View class: StaticView::JsIdeasView
   #
-  # Called from: render_js_pages (render_overalls.cr:19)
-  #
   r.register("Static: JS ideas", [:posts], priority: 93) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS ideas page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_js_ideas
+    ctx.write_output(StaticView::JsIdeasView.new(blog: ctx.blog, url: "pomysly.html"))
   end
 
   # ============================================
@@ -137,13 +117,9 @@ def register_static_views(r : ViewRegistry)
   # URL: /linia_czasu.html
   # View class: StaticView::JsTimelineView
   #
-  # Called from: render_js_pages (render_overalls.cr:20)
-  #
   r.register("Static: JS timeline", [:posts], priority: 94) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS timeline page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_js_timeline
+    ctx.write_output(StaticView::JsTimelineView.new(blog: ctx.blog, url: "linia_czasu.html"))
   end
 
   # ============================================
@@ -155,13 +131,9 @@ def register_static_views(r : ViewRegistry)
   # URL: /mapa2.html
   # View class: StaticView::JsPanoramioView
   #
-  # Called from: render_js_pages (render_overalls.cr:21)
-  #
   r.register("Static: JS panoramio", [:posts], priority: 95) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS panoramio page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_js_panoramio
+    ctx.write_output(StaticView::JsPanoramioView.new(blog: ctx.blog, url: "mapa2.html"))
   end
 
   # ============================================
@@ -173,12 +145,8 @@ def register_static_views(r : ViewRegistry)
   # URL: /exif_statystyki.html
   # View class: StaticView::JsExifView
   #
-  # Called from: render_js_pages (render_overalls.cr:22)
-  #
   r.register("Static: JS exif stats", [:posts], priority: 96) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS exif stats page" }
-
-    # Wrapper: calls existing mixin method
-    ctx.blog.renderer.render_js_exif_stats
+    ctx.write_output(StaticView::JsExifView.new(blog: ctx.blog, url: "exif_statystyki.html"))
   end
 end

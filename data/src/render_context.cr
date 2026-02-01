@@ -65,6 +65,26 @@ class RenderContext
     blog.renderer.site_desc
   end
 
+  def site_email : String
+    self["site.email"]
+  end
+
+  def site_author : String
+    self["site.author"]
+  end
+
+  def posts_descending : Array(Tremolite::Post)
+    posts.sort { |a, b| b.time <=> a.time }
+  end
+
+  def last_updated_at : Time
+    blog.post_collection.last_updated_at
+  end
+
+  def years : Array(Int32)
+    posts.map(&.time).map(&.year).uniq.select { |year| Time.local.year >= year }
+  end
+
   # ============================================
   # Entity Data
   # ============================================
@@ -126,5 +146,20 @@ class RenderContext
   # Count posts for an entity (used in navigation)
   def post_count_for(entity) : Int32
     posts_for(entity).size
+  end
+
+  # ============================================
+  # View Rendering
+  # ============================================
+
+  # Render a view through the blog's renderer
+  # This provides a clean interface for registry blocks to output views
+  def write_output(view)
+    blog.renderer.render_view(view)
+  end
+
+  # Access the validator for entity validation
+  def validator
+    blog.validator.not_nil!
   end
 end

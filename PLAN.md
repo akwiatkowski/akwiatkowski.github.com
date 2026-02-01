@@ -198,6 +198,8 @@ Incremental render (mod_watcher):
 9. ✅ **Architecture chosen** - Registry + Coordinator (not command/event-driven)
 10. ✅ **Testing infrastructure** - 96 tests, MockRenderContext
 11. ✅ **Lazy/on-demand rendering** - Registry enables this (only run entries matching `changed`)
+12. [ ] **Remove `blog` dependency from views** - Views should receive only what they need
+13. [ ] **Default URLs in view classes** - URLs defined in view class, not at call site
 
 ## Proposed Incremental Improvements
 
@@ -217,7 +219,7 @@ Incremental render (mod_watcher):
 2. ✅ **MockRenderContext** - Testing without full Blog instance
 3. ✅ **96 tests** - Coverage for all view categories
 
-### Phase 2: View Registry + Coordinator 🚧 IN PROGRESS
+### Phase 2: View Registry + Coordinator ✅ COMPLETE
 
 **Goal**: Centralize render logic, enable mixin removal
 
@@ -424,15 +426,158 @@ Registry tests (49 tests):
    - [ ] Delete empty mixin files (Phase 3)
    - [ ] Update VIEWS.md (or auto-generate from registry) (Phase 3)
 
-## Phase 3: Full Migration (Future)
+## Phase 3: Full Migration 🚧 IN PROGRESS
 
 **Goal**: Replace old render path with registry-based rendering
 
+### Progress
+
+**Infrastructure added:**
+- [x] `RenderContext.write_output(view)` - render views from registry blocks
+- [x] `RenderContext.validator` - access validator from registry blocks
+- [x] `RenderContext.posts_descending`, `site_email`, `site_author`, `last_updated_at`, `years` - helpers for feed/stats views
+- [x] `Renderer.render_view(view)` - public wrapper for write_output
+
+**Views migrated (33 total):**
+- [x] entity_views.cr (4): Towns, Tags, Voivodeships, Lands
+- [x] index_views.cr (2): Towns index, Lands index
+- [x] home_views.cr (3): Home, Map, POIs
+- [x] stats_views.cr (5): Summary, Year reports, Burnout, Towns history/timeline
+- [x] static_views.cr (7): More, About, English, JS pages
+- [x] feed_views.cr (9): RSS, Atom, JSON files, Sitemap, Robots
+- [x] debug_views.cr (3): Debug posts, camera, missing EXIF
+
+**Still using wrappers:**
+- [ ] photo_views.cr (2): Complex interdependencies - galleries return index views
+
+### Remaining Steps
+
 1. [ ] Validate `render_with_registry` output matches `render` output
 2. [ ] Replace `make_it_so` to use `render_with_registry`
-3. [ ] Move mixin logic into registry blocks (one at a time)
+3. [ ] Migrate photo_views.cr (complex gallery logic)
 4. [ ] Delete empty mixin files
 5. [ ] Auto-generate VIEWS.md from registry
+
+## Phase 4: View Decoupling (Future)
+
+**Goal**: Remove `blog` dependency from view classes, improve testability
+
+### Problem
+
+Currently views receive the entire `blog` object:
+```crystal
+PoisView.new(blog: ctx.blog, url: "/pois.html")
+```
+
+This has issues:
+- Views have access to everything (poor encapsulation)
+- Hard to test without full Blog instance
+- URL is passed at call site, not defined in view
+
+### Solution
+
+1. **Default URLs in view classes** - Each view defines its own URL
+2. **Views receive RenderContext** - Or only the specific data they need
+3. **No `blog` parameter** - Views don't know about Blog class
+
+### Target Pattern
+
+```crystal
+# Before (current):
+PoisView.new(blog: ctx.blog, url: "/pois.html")
+PostListView::TownDynamicView.new(blog: ctx.blog, town: town)
+
+# After (target):
+PoisView.new(context: ctx)  # URL defined in class
+TownDynamicView.new(context: ctx, town: town)
+```
+
+### View Class Changes
+
+```crystal
+# Before:
+class PoisView < BaseView
+  def initialize(@blog : Blog, @url : String)
+  end
+end
+
+# After:
+class PoisView < BaseView
+  URL = "/pois.html"
+
+  def initialize(@context : RenderContext)
+    @url = URL
+  end
+
+  # Access data via context
+  def posts
+    context.posts
+  end
+end
+```
+
+### Migration Steps
+
+1. [ ] Add `context` property to BaseView
+2. [ ] For each view class:
+   - [ ] Define `URL` constant (or method for dynamic URLs)
+   - [ ] Change constructor to receive `context` instead of `blog`
+   - [ ] Update internal `blog.xxx` calls to `context.xxx`
+3. [ ] Update registry blocks to use new pattern
+4. [ ] Remove `blog` parameter from view constructors
+
+### Benefits
+
+- **Better encapsulation** - Views only see what they need
+- **Easier testing** - MockRenderContext works directly
+- **Self-documenting** - URL defined where view is defined
+- **Consistent** - All views follow same pattern
+
+### Code Organization: `all.cr` Convention
+
+Every directory with multiple `.cr` files should have an `all.cr` that requires all files in that directory:
+
+```crystal
+# data/src/views/dynamic_view/all.cr
+require "./summary_view"
+require "./year_stat_report_view"
+require "./burnout_stat_view"
+# ... etc
+```
+
+Benefits:
+- Single require for entire namespace: `require "./dynamic_view/all"`
+- No need to track individual file names at call sites
+- Adding new view only requires updating `all.cr`
+
+Directories needing `all.cr`:
+- [ ] `views/dynamic_view/`
+- [ ] `views/static_view/` (already has it)
+- [ ] `views/post_list_view/` (already has it)
+- [ ] `views/gallery_view/`
+- [ ] `views/special_view/` (already has it)
+- [ ] `views/photo_map/`
+- [ ] `views/model_view/` (already has it)
+
+### Debug Views Reorganization
+
+Debug views will be moved to a separate namespace:
+- [ ] Create `DebugView` namespace (currently in `DynamicView::Debug*`)
+- [ ] Move to `/debug/` URL prefix (already done for some)
+- [ ] Consider priority: sometimes useful to render first for quick debugging
+- [ ] Views to migrate:
+  - `DynamicView::DebugPostView` → `DebugView::PostsView`
+  - `DynamicView::DebugPostCameraStuffView` → `DebugView::CameraStuffView`
+  - `DynamicView::DebugPostMissingPhotosExifView` → `DebugView::MissingExifView`
+
+### Priority Order
+
+Start with simple views (single URL, few dependencies):
+1. StaticView classes (MoreView, MapView, etc.)
+2. PoisView
+3. DynamicView classes
+4. PostListView classes (have entity parameter)
+5. GalleryView classes (complex, many sub-views)
 
 ## Cost Estimates (Actual)
 

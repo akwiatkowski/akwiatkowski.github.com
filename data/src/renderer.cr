@@ -96,6 +96,12 @@ class Tremolite::Renderer
     @blog.mod_watcher.not_nil!.all_mod_watchers
   end
 
+  # Public interface for RenderContext to render views
+  # This wraps the private write_output method from the base renderer
+  def render_view(view)
+    write_output(view)
+  end
+
   # TODO add because it's probably missing
   private def copy_post_photos
     command = "rsync --mkpath -av #{blog.data_path}/images/ #{blog.output_path}/images/"

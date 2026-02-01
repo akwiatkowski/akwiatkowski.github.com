@@ -19,8 +19,12 @@
 #
 # Priority: 50-59 (after stats, before index)
 #
-# Source: Extracted from render_special.cr
-#
+# View classes used: SpecialView::RssGenerator, AtomGenerator,
+# PayloadJsonGenerator, IdeasJsonGenerator, PhotosJsonGenerator,
+# TrainStationsJsonGenerator, NavStatsJsonGenerator,
+# Tremolite::Views::SiteMapGenerator, RobotGenerator
+# (loaded via renderer.cr)
+
 def register_feed_views(r : ViewRegistry)
   # ============================================
   # RSS Feed
@@ -31,13 +35,21 @@ def register_feed_views(r : ViewRegistry)
   # URL: /feed.xml
   # View class: SpecialView::RssGenerator
   #
-  # Original code (render_special.cr:50-63)
-  #
   # Dependencies: [:posts, :yamls]
   #
   r.register("Feed: RSS", [:posts, :yamls], priority: 50) do |ctx|
     ViewRegistry::Log.debug { "Rendering RSS feed" }
-    ctx.blog.renderer.render_rss
+    ctx.write_output(SpecialView::RssGenerator.new(
+      blog: ctx.blog,
+      posts: ctx.posts_descending,
+      url: "/feed.xml",
+      site_title: ctx.site_title,
+      site_url: ctx.site_url,
+      site_desc: ctx.site_desc,
+      site_webmaster: ctx.site_email,
+      site_language: "pl",
+      updated_at: ctx.last_updated_at
+    ))
   end
 
   # ============================================
@@ -49,13 +61,22 @@ def register_feed_views(r : ViewRegistry)
   # URL: /feed_atom.xml
   # View class: SpecialView::AtomGenerator
   #
-  # Original code (render_special.cr:66-82)
-  #
   # Dependencies: [:posts, :yamls]
   #
   r.register("Feed: Atom", [:posts, :yamls], priority: 51) do |ctx|
     ViewRegistry::Log.debug { "Rendering Atom feed" }
-    ctx.blog.renderer.render_atom
+    ctx.write_output(SpecialView::AtomGenerator.new(
+      blog: ctx.blog,
+      posts: ctx.posts_descending,
+      url: "/feed_atom.xml",
+      site_title: ctx.site_title,
+      site_url: ctx.site_url,
+      site_desc: ctx.site_desc,
+      site_webmaster: ctx.site_email,
+      author_name: ctx.site_author,
+      site_language: "pl",
+      updated_at: ctx.last_updated_at
+    ))
   end
 
   # ============================================
@@ -67,31 +88,31 @@ def register_feed_views(r : ViewRegistry)
   # Payload JSON - main data payload for JS apps
   r.register("Feed: payload JSON", [:posts, :yamls], priority: 52) do |ctx|
     ViewRegistry::Log.debug { "Rendering payload JSON" }
-    ctx.blog.renderer.render_payload_json
+    ctx.write_output(SpecialView::PayloadJsonGenerator.new(blog: ctx.blog))
   end
 
   # Ideas JSON - data for ideas/planning pages
   r.register("Feed: ideas JSON", [:posts, :yamls], priority: 53) do |ctx|
     ViewRegistry::Log.debug { "Rendering ideas JSON" }
-    ctx.blog.renderer.render_ideas_json
+    ctx.write_output(SpecialView::IdeasJsonGenerator.new(blog: ctx.blog))
   end
 
   # Photos JSON - photo metadata for galleries
   r.register("Feed: photos JSON", [:posts, :yamls], priority: 54) do |ctx|
     ViewRegistry::Log.debug { "Rendering photos JSON" }
-    ctx.blog.renderer.render_photos_json
+    ctx.write_output(SpecialView::PhotosJsonGenerator.new(blog: ctx.blog))
   end
 
   # Train stations JSON - train station data
   r.register("Feed: train stations JSON", [:posts, :yamls], priority: 55) do |ctx|
     ViewRegistry::Log.debug { "Rendering train stations JSON" }
-    ctx.blog.renderer.render_train_stations_json
+    ctx.write_output(SpecialView::TrainStationsJsonGenerator.new(blog: ctx.blog))
   end
 
   # Nav stats JSON - navigation statistics
   r.register("Feed: nav stats JSON", [:posts, :yamls], priority: 56) do |ctx|
     ViewRegistry::Log.debug { "Rendering nav stats JSON" }
-    ctx.blog.renderer.render_nav_stats_json
+    ctx.write_output(SpecialView::NavStatsJsonGenerator.new(blog: ctx.blog))
   end
 
   # ============================================
@@ -101,16 +122,14 @@ def register_feed_views(r : ViewRegistry)
   # These are SEO-related files.
 
   # Sitemap - for search engines
-  # Note: In blog.cr this only runs on full render, but
-  # we'll let the coordinator decide based on dependencies
   r.register("Feed: sitemap", [:posts], priority: 57) do |ctx|
     ViewRegistry::Log.debug { "Rendering sitemap" }
-    ctx.blog.renderer.render_sitemap
+    ctx.write_output(Tremolite::Views::SiteMapGenerator.new(blog: ctx.blog, url: "/sitemap.xml"))
   end
 
   # Robots.txt - crawler instructions
   r.register("Feed: robots.txt", [] of Symbol, priority: 58) do |ctx|
     ViewRegistry::Log.debug { "Rendering robots.txt" }
-    ctx.blog.renderer.render_robot
+    ctx.write_output(Tremolite::Views::RobotGenerator.new)
   end
 end
