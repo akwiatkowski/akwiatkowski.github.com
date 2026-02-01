@@ -1,0 +1,539 @@
+# Renderer & Views Refactoring Plan
+
+## Progress Summary
+
+### Phase 1: Cleanup & Documentation ✅ COMPLETE
+
+**Commit `9ddf621`** (2026-02-01):
+- Deleted 14 deprecated view files (`*ListView`, `*MasonryView` variants)
+- Removed dead code from renderer mixins
+- Created `VIEWS.md` documenting all 50+ active views
+- **-731 lines of dead code removed**
+
+### Phase 1.5: Testing Infrastructure ✅ COMPLETE
+
+**Commit `95d6ecf`** (2026-02-01):
+- Created `RenderContext` class (Context Object pattern)
+- Created `MockRenderContext`, `MockPost`, `MockHtmlBuffer` for testing
+- Added **96 tests** covering all view categories
+- Updated `BaseView` to use context via lazy property
+
+### Phase 2: View Registry + Coordinator 🚧 IN PROGRESS
+
+**Decision**: Changed from Pipeline to Registry approach for better:
+- Explicit dependency declarations per view
+- Queryable "what runs when X changes?"
+- Eventually remove mixins entirely
+
+**Created files** (`data/src/view_registry/`):
+
+Core infrastructure:
+- `base.cr` ✅ - ViewRegistry class with `register()` and `task()` methods
+- `coordinator.cr` ✅ - RenderCoordinator executes based on what changed
+- `setup.cr` ✅ - Combines all registrations
+- `all.cr` ✅ - Requires everything
+
+Tasks (6 registered):
+- `tasks/setup_tasks.cr` ✅ - dev render, copy assets (priority 1-2)
+- `tasks/exif_tasks.cr` ✅ - EXIF initialization (priority 4)
+- `tasks/cache_tasks.cr` ✅ - nav_stats, town_photo, coord_quant (priority 5-6)
+
+Views (33 registered):
+- `views/entity_views.cr` ✅ - towns, tags, voivodeships, lands (priority 10-13)
+- `views/home_views.cr` ✅ - home, map, pois (priority 20-22)
+- `views/stats_views.cr` ✅ - summary, year reports, burnout, towns history/timeline (priority 40-44)
+- `views/feed_views.cr` ✅ - RSS, Atom, JSON, sitemap, robots (priority 50-58)
+- `views/index_views.cr` ✅ - towns index, lands index (priority 60-61)
+- `views/static_views.cr` ✅ - more, about, english, JS pages (priority 90-96)
+- `views/debug_views.cr` ✅ - posts, camera stuff, missing EXIF (priority 100-102)
+
+Tests:
+- `spec/view_registry_spec.cr` ✅ - **49 tests** covering registry functionality
+
+**Still TODO**:
+- `views/photo_views.cr` - photo galleries and SVG maps
+- Integration with blog.cr
+
+**Abandoned files** (can be deleted):
+- `data/src/render_pipeline.cr`
+- `data/src/render_stages/`
+
+---
+
+## Current State Analysis
+
+### Architecture Overview
+
+The project uses a **mixin-based renderer** pattern:
+
+```
+Blog (data/src/blog.cr)
+  └─> Renderer (data/src/renderer.cr)
+       ├─> includes 13 renderer mixins
+       └─> each mixin has multiple render_* methods
+            └─> each method instantiates View classes
+```
+
+### Problems with Current Approach
+
+1. **Poor discoverability**: Mixins scatter 100+ methods across 13 files
+   - Hard to find what methods are available
+   - No clear naming convention for when methods run
+   - Method names like `render_fast_only_post_related` are unclear
+
+2. **Unclear execution flow**:
+   - `blog.cr` calls high-level methods
+   - Those methods internally call many sub-methods
+   - Hard to trace: "when does TownDynamicView get rendered?"
+
+3. **Mixed old/new patterns**:
+   - Some entities have 3 versions: `*ListView`, `*MasonryView`, `*DynamicView`
+   - Many commented with `# DEPRECATED` but still in codebase
+   - `# DEPRECATED` code could be removed if it's not used or can be removed
+   - Unclear which is actually used
+
+4. **Tight coupling**:
+   - Blog class knows about renderer implementation details
+   - Renderer mixins directly access blog internals via `@blog`
+   - Hard to test or change independently
+
+5. **Conditional rendering logic spread everywhere**:
+   - `posts_changed`, `yamls_changed`, `exifs_changed` flags
+   - Logic in `blog.cr` determines what to render
+   - No central place to understand the dependency graph
+
+### Current File Structure
+
+**Renderer Mixins** (`data/src/renderer_mixin/`):
+- `accessors.cr` - Helper methods
+- `render_fast.cr` - Fast static renders (home, map, about, summary, timeline, year reports, etc.)
+- `render_post_related.cr` - Post-dependent renders (lists, pagination, redirects, debug)
+- `render_post_and_photo_related.cr` - Combined post+photo renders
+- `render_photo_related.cr` - Photo galleries and stats
+- `render_photo_maps.cr` - SVG map generation
+- `render_tags.cr` - Tag pages
+- `render_towns.cr` - Town pages
+- `render_voivodeships.cr` - Voivodeship pages
+- `render_lands.cr` - Land pages
+- `render_special.cr` - RSS, Atom, JSON feeds
+- `render_overalls.cr` - Model-based renders (all tags, all towns, etc.)
+- `render_todo.cr` - TODO routes
+
+**View Types** (`data/src/views/`):
+- `StaticView::*` - Static JS pages (map, ideas, timeline, exif stats) - there is no big logic when rendering html
+- `DynamicView::*` - Dynamic pages (summary, timeline, year reports, towns history/timeline, burnout stats, debug views) - a lot of processing is being done here
+- `PostListView::*` - Post collections (pagination, tags, towns, voivodeships, lands)
+  - Old: `*ListView`, `*MasonryView`
+  - New: `*DynamicView`, `CollectionDynamicView`, `NewPostsDynamicView` - while `NewPostsDynamicView` is just
+  - while `PostListView::CollectionDynamicView` is new version of post index page
+  - but `DynamicView::SummaryView` DynamicView is a namespace and it's confusing
+- `PostView::ArticleView` - Individual post rendering
+- `GalleryView::*` - Photo galleries (camera, lens, ISO, exposure, focal length, tag, location)
+- `PhotoMap::*` - Various SVG map views - it's not deprecated but I'll focus on JS leaflet more now
+- `SpecialView::*` - RSS, Atom, JSON generators, redirects
+- `ModelView::*` - Index pages (towns index, lands index)
+
+### Rendering Triggers (from blog.cr)
+
+Full render (`force_full_render=true` or `mod_watcher.enabled=false`):
+```crystal
+renderer.render_all_photo_related
+renderer.render_all_photo_maps
+renderer.render_fast_only_post_related
+renderer.render_fast_post_and_yaml_related
+renderer.render_fast_static_renders
+renderer.render_sitemap
+```
+
+Incremental render (mod_watcher):
+- If exifs_changed: `render_all_photo_related`, `render_all_photo_maps`
+- If posts_changed: `render_fast_only_post_related`
+- If posts_changed || yamls_changed: `render_fast_post_and_yaml_related`
+- Always: `render_fast_static_renders` (unclear why "fast" if always runs?)
+
+### Views Status (Needs Verification)
+
+**Confirmed New renderers**:
+- `PostListView::CollectionDynamicView` (home page)
+- `PostListView::NewPostsDynamicView` (new, latests posts)
+- `PostListView::TownDynamicView` (town pages)
+- `PostListView::TagDynamicView` (tag pages)
+- `PostListView::VoivodeshipDynamicView` (voivodeship pages)
+- `PostListView::LandDynamicView` (land/area pages)
+
+**Not truly deprecated but need to be refreshed**:
+- `DynamicView::*` (summary, timeline, year reports, towns history/timeline, burnout stats)
+
+**Confirmed Deprecated**:
+- `PostListView::HomeMasonryView` - commented out in render_home
+- `PostListView::NewPostsView` - commented out
+- `PostListView::NewPostsMasonryView` - commented out
+- `PostListView::TownListView` - commented out
+- `PostListView::TownMasonryView` - commented out
+- `DynamicView::MountainRangePlannerView` - marked DEPRECATED
+- `PostListView::PaginatedListView` - not uded. There will be some paginated view in future but current one is deprecated
+
+**Unclear Status** (Need to check):
+- Various `*ListView` and `*MasonryView` classes
+- Some TODO-marked views - which one?
+
+## Goals
+
+### Immediate Goals (Low-Cost, High-Value)
+
+1. ✅ **Clean up deprecated code** - Removed 14 deprecated views, -731 lines
+2. ✅ **Document what's actually used** - Created VIEWS.md
+3. ✅ **Consolidate naming** - Clarified in VIEWS.md
+4. 🚧 **Extract render registry** - ViewRegistry implemented, migration in progress
+
+### Medium-Term Goals (Moderate Investment)
+
+5. 🚧 **Separate concerns** - RenderContext + Coordinator decouple Blog from views
+6. ~~**Create render pipeline**~~ → Changed to Registry approach
+7. ✅ **Add view metadata** - Views registered with `depends_on` arrays
+8. 🚧 **Simplify conditional rendering** - Coordinator handles based on `changed` set
+
+### Long-Term Goals (Future Refactoring)
+
+9. ✅ **Architecture chosen** - Registry + Coordinator (not command/event-driven)
+10. ✅ **Testing infrastructure** - 96 tests, MockRenderContext
+11. 🚧 **Lazy/on-demand rendering** - Registry enables this (only run entries matching `changed`)
+
+## Proposed Incremental Improvements
+
+### Phase 1: Cleanup & Documentation ✅ COMPLETE
+
+**Goal**: Understand what's actually used without changing behavior
+
+1. ✅ **Audit views** - Listed all view classes in VIEWS.md
+2. ✅ **Remove deprecated code** - Deleted 14 files, -731 lines
+3. ✅ **Document render flow** - Created VIEWS.md with full render flow
+
+### Phase 1.5: Testing Infrastructure ✅ COMPLETE
+
+**Goal**: Enable independent view testing
+
+1. ✅ **RenderContext** - Context object pattern for view data access
+2. ✅ **MockRenderContext** - Testing without full Blog instance
+3. ✅ **96 tests** - Coverage for all view categories
+
+### Phase 2: View Registry + Coordinator 🚧 IN PROGRESS
+
+**Goal**: Centralize render logic, enable mixin removal
+
+**Core classes** (implemented):
+```crystal
+# Register views with dependencies
+registry = ViewRegistry.new
+registry.task("Load EXIF", [:exifs], priority: 1) { |ctx| ... }
+registry.register("Town pages", [:posts, :yamls], priority: 10) { |ctx| ... }
+
+# Execute based on what changed
+coordinator = RenderCoordinator.new(registry)
+coordinator.render(context, changed: Set{:posts})
+```
+
+**Benefits**:
+- Single source of truth for all views
+- Queryable: `registry.names_depending_on(:posts)`
+- Tasks (priority 1-9) run before views (priority 10+)
+- Explicit dependencies enable lazy rendering
+- Gradual mixin removal
+
+**Migration path**:
+1. Register all tasks (cache refresh, EXIF init, asset copy)
+2. Register all views (one category at a time)
+3. Test output matches current render
+4. Remove mixin methods as views migrate
+5. Delete empty mixin files
+
+### Phase 3: Full Mixin Removal (Future)
+
+**Goal**: All render logic in registry, no mixins
+
+Once Phase 2 complete:
+- Delete `renderer_mixin/` directory
+- Renderer class becomes thin wrapper
+- All logic in `view_registry/tasks/` and `view_registry/views/`
+
+## Questions for Architectural Discussion
+
+### Question 1: Incremental vs Full Refactoring? ✅ DECIDED
+
+**Chosen**: Option A - Incremental approach
+- Phase 1 cleanup completed
+- Phase 2 Pipeline in progress
+- Mixins still exist but wrapped by pipeline stages
+
+### Question 2: What architecture for future? ✅ DECIDED
+
+**Chosen**: Option D - Registry + Coordinator
+
+Implementation in `data/src/view_registry/`:
+- `ViewRegistry` - declares all views/tasks with dependencies
+- `RenderCoordinator` - executes based on what changed
+- Tasks (priority 1-9) - data preparation, no output
+- Views (priority 10-100) - actual rendering
+
+**Why Registry won**:
+- Single source of truth for all views and their dependencies
+- Queryable: "what runs when posts change?" → `registry.names_depending_on(:posts)`
+- Explicit priority controls execution order
+- Tasks allow data prep before views render
+- Supports gradual mixin removal
+- Can generate documentation from registry
+
+**Other options considered**:
+
+**A. Command Pattern**: Each render is a command object
+- Pros: Self-contained, testable
+- Cons: Verbose (50+ command classes)
+- Verdict: Similar benefits to Registry but more files
+
+**B. Event-Driven**: Views subscribe to data change events
+- Pros: Very decoupled
+- Cons: Hard to trace flow
+- Verdict: **Not suitable** - discoverability is already a problem
+
+**C. Render Pipeline**: Sequential stages
+- Pros: Explicit order, stages are testable
+- Cons: Views still hidden inside stages, less queryable
+- Verdict: Started but abandoned for Registry
+
+### Question 3: View Lifecycle? ✅ DECIDED
+
+**Chosen**: Option D - Context Object Pattern
+
+Implementation in `data/src/render_context.cr`:
+- `RenderContext` wraps Blog and provides typed accessors
+- Views access `context.posts`, `context.towns`, etc.
+- `BaseView` has lazy `context` property
+- `MockRenderContext` enables testing without Blog
+
+**Why Context Object won**:
+- Single parameter simplifies signatures
+- Can be built once, passed everywhere
+- Easy to mock for testing
+- Natural fit for pipeline architecture
+
+### Question 4: Testing Strategy? ✅ IMPLEMENTED
+
+**Infrastructure created**:
+- `MockRenderContext` - test views without Blog
+- `MockPost` - minimal post interface
+- `MockHtmlBuffer` - buffer mock
+
+**Test coverage** (136 tests total):
+
+View tests (96 tests):
+- PostListView: 8 tests
+- DynamicView: 13 tests
+- StaticView: 7 tests
+- GalleryView: 17 tests
+- SpecialView: 8 tests
+- PhotoMap: 10 tests
+- Other views: 14 tests
+- RenderContext/mocks: 14 tests
+- Example patterns: 5 tests
+
+Registry tests (49 tests):
+- ViewRegistry core: 13 tests
+- Task registration: 4 tests
+- View registration: 8 tests (entity, home, stats, feed, index, static, debug)
+- Priority ordering: 10 tests
+- Dependencies: 11 tests
+- Query methods: 6 tests
+
+**Future improvements** (not yet done):
+- Snapshot testing for HTML output
+- Integration tests for full coordinator
+- Tests for remaining views (photo, feed, debug)
+
+## Success Criteria
+
+### Phase 1 Success (Cleanup): ✅ COMPLETE
+- [x] All deprecated views removed
+- [x] All active views documented
+- [x] VIEWS.md created listing render flow
+- [x] No behavior changes (validates successfully manually by human)
+
+### Phase 2 Success (Registry):
+- [x] ViewRegistry class implemented
+- [x] RenderCoordinator class implemented
+- [x] Task/View distinction with priorities
+- [x] Register all data-loading tasks (6 tasks)
+- [x] Register entity views (4 views)
+- [x] Register home views (3 views)
+- [x] Register stats views (5 views)
+- [x] Register feed views (9 views)
+- [x] Register index views (2 views)
+- [x] Register static views (7 views)
+- [x] Register debug views (3 views)
+- [x] 49 tests for registry
+- [ ] Register photo views (galleries, maps)
+- [ ] Integrate coordinator with blog.cr
+- [ ] Remove mixin methods as views are migrated
+- [ ] All render calls go through coordinator
+
+### Long-Term Success:
+- [x] Can understand render flow in under 5 minutes (VIEWS.md + Registry)
+- [ ] Can add new view type easily (just add `.register()` call)
+- [x] Views are independently testable (96 tests)
+- [ ] No duplicate render logic
+- [ ] Clear separation: Blog → Coordinator → Registry → Views
+- [ ] Mixins fully removed
+- [ ] `registry.print_dependency_matrix` shows all dependencies
+
+## Migration Safety
+
+**To ensure no regressions**:
+
+2. **Compare outputs**: Before/after file comparison for test render
+3. **Incremental migration**: Change one mixin at a time
+4. **Feature flags**: Keep old and new paths, switch gradually
+
+## Next Steps
+
+1. ~~**Review this plan** - Discuss with Opus~~ ✅ Done
+2. ~~**Choose approach**~~ ✅ Chose Registry + Coordinator
+3. ~~**Phase 2A: Register Tasks**~~ ✅ Done (6 tasks)
+   - [x] `tasks/setup_tasks.cr` - copy assets, dev render
+   - [x] `tasks/cache_tasks.cr` - refresh nav_stats, town_photo, coord_quant caches
+   - [x] `tasks/exif_tasks.cr` - initialize EXIF data for posts
+4. ~~**Phase 2B: Register Entity/Home/Index Views**~~ ✅ Done (9 views)
+   - [x] `views/entity_views.cr` - towns, tags, voivodeships, lands pages
+   - [x] `views/home_views.cr` - home, map, pois
+   - [x] `views/index_views.cr` - towns index, lands index
+5. **Phase 2C: Register Photo Views** 🚧 TODO:
+   - [ ] `views/photo_views.cr` - camera, lens, ISO, exposure galleries + SVG maps
+6. ~~**Phase 2D: Register Stats/Static Views**~~ ✅ Done (12 views)
+   - [x] `views/stats_views.cr` - summary, year reports, burnout, towns history/timeline
+   - [x] `views/static_views.cr` - about, more, JS pages
+7. ~~**Phase 2E: Register Feed/Debug Views**~~ ✅ Done (12 views)
+   - [x] `views/feed_views.cr` - RSS, Atom, JSON, sitemap, robots (9 views)
+   - [x] `views/debug_views.cr` - debug pages (3 views)
+8. **Phase 2F: Integration** 🚧 TODO:
+   - [ ] Add `registry` and `coordinator` to Blog class
+   - [ ] Add `blog.render_with_registry` method (wrapper)
+   - [ ] Test output matches current render
+   - [ ] Replace `blog.render` internals with coordinator
+   - [ ] Remove mixin methods one by one
+9. **Phase 2G: Cleanup** 🚧 TODO:
+   - [ ] Delete abandoned pipeline files
+   - [ ] Delete empty mixin files
+   - [ ] Update VIEWS.md (or auto-generate from registry)
+
+## Cost Estimates (Actual)
+
+- **Phase 1 (Cleanup)**: ~2 hours ✅ Complete
+- **Phase 1.5 (Testing)**: ~2 hours ✅ Complete
+- **Phase 2 (Registry)**:
+  - Infrastructure (base, coordinator, setup): ~1 hour ✅
+  - Tasks (setup, exif, cache): ~0.5 hour ✅
+  - Views (entity, home, stats, index, static): ~1.5 hours ✅
+  - Views (feed, debug): ~0.5 hour ✅
+  - Tests (49 specs): ~0.5 hour ✅
+  - **Remaining**: photo views, integration (~1-2 hours)
+
+---
+
+## Phase 2 Detailed Design: Registry + Coordinator
+
+### File Structure
+
+```
+data/src/view_registry/
+  base.cr                 # ✅ ViewRegistry class
+  coordinator.cr          # ✅ RenderCoordinator class
+  all.cr                  # ✅ Requires everything
+  setup.cr                # ✅ Combines all registrations
+  tasks/
+    setup_tasks.cr        # ✅ Copy assets, dev render (2 tasks)
+    exif_tasks.cr         # ✅ EXIF initialization (1 task)
+    cache_tasks.cr        # ✅ Cache refresh tasks (3 tasks)
+  views/
+    entity_views.cr       # ✅ Towns, tags, voivodeships, lands (4 views)
+    home_views.cr         # ✅ Home, map, pois (3 views)
+    stats_views.cr        # ✅ Summary, year reports, burnout, towns (5 views)
+    feed_views.cr         # ✅ RSS, Atom, JSON, sitemap, robots (9 views)
+    index_views.cr        # ✅ Towns index, lands index (2 views)
+    static_views.cr       # ✅ About, more, JS pages (7 views)
+    debug_views.cr        # ✅ Debug posts, camera, missing EXIF (3 views)
+    photo_views.cr        # TODO: Photo galleries + SVG maps
+
+spec/
+  view_registry_spec.cr   # ✅ 49 tests
+```
+
+**Current totals**: 6 tasks + 33 views = 39 entries registered
+
+### Priority Guide
+
+| Priority | Type | Count | Examples |
+|----------|------|-------|----------|
+| 1-2 | Setup tasks | 2 | dev render, copy assets |
+| 4 | EXIF tasks | 1 | init all posts EXIF |
+| 5-6 | Cache tasks | 3 | nav_stats, town_photo, coord_quant |
+| 10-13 | Entity views | 4 | Towns, tags, voivodeships, lands |
+| 20-22 | Home views | 3 | Home, map, pois |
+| 30-39 | Photo views | TODO | Galleries, maps |
+| 40-44 | Stats views | 5 | Summary, year reports, burnout, towns history/timeline |
+| 50-58 | Feed views | 9 | RSS, Atom, JSON, sitemap, robots |
+| 60-61 | Index views | 2 | Towns index, lands index |
+| 90-96 | Static views | 7 | About, more, english, JS pages |
+| 100-102 | Debug views | 3 | Debug posts, camera, missing EXIF |
+
+### Integration Strategy
+
+**Step 1: Wrapper** (safe, parallel testing)
+```crystal
+class Blog
+  def render_with_registry(posts_changed, yamls_changed, exifs_changed)
+    context = RenderContext.new(self)
+    changed = Set(Symbol).new
+    changed << :posts if posts_changed
+    changed << :yamls if yamls_changed
+    changed << :exifs if exifs_changed
+    coordinator.render(context, changed)
+  end
+end
+```
+
+**Step 2: Validate** - Compare output of both methods
+
+**Step 3: Replace** - Once validated, replace `render` internals
+
+**Step 4: Remove mixins** - Delete as views migrate to registry
+
+### Migration Pattern for Each View
+
+1. Find mixin method (e.g., `render_town_page` in `render_towns.cr`)
+2. Create registration in `views/entity_views.cr`
+3. Move logic into registration block (or keep calling mixin temporarily)
+4. Test that view still renders correctly
+5. Once all views from mixin are migrated, delete mixin file
+
+### Querying the Registry
+
+```crystal
+# What runs when posts change?
+registry.names_depending_on(:posts)
+# => ["Town pages", "Tag pages", "Home page", "RSS feed", ...]
+
+# Print full dependency matrix
+registry.print_dependency_matrix
+
+# Generate markdown documentation
+File.write("VIEWS_AUTO.md", registry.to_markdown)
+```
+
+---
+
+## Project Context
+
+- Crystal static site generator
+- ~100 blog posts with routes, photos, EXIF data
+- Multiple entity types: towns, tags, voivodeships, lands, meso/macro regions
+- Various view types: lists, galleries, maps, feeds
+- Incremental rendering with mod_watcher for fast dev cycle
+- Full rendering for production deployment
