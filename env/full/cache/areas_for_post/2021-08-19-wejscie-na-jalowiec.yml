@@ -1,0 +1,129 @@
+---
+- type: hike
+  total_distance_meters: 10360.98
+  total_distance_km: 10.361
+  points_count: 66.0
+  towns:
+  - slug: stryszawa
+    name: Stryszawa
+    code: "1215072"
+    distance_meters: 6606.5
+    distance_km: 6.606
+    distance_percent: 63.7633
+  - slug: zawoja
+    name: Zawoja
+    code: "1215082"
+    distance_meters: 2634.56
+    distance_km: 2.635
+    distance_percent: 25.4277
+  - slug: koszarawa
+    name: Koszarawa
+    code: "2417052"
+    distance_meters: 1119.92
+    distance_km: 1.12
+    distance_percent: 10.809
+  counties:
+  - slug: suski
+    name: suski
+    code: "1215"
+    distance_meters: 9241.06
+    distance_km: 9.241
+    distance_percent: 89.191
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+    distance_meters: 1119.92
+    distance_km: 1.12
+    distance_percent: 10.809
+  voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+    distance_meters: 9241.06
+    distance_km: 9.241
+    distance_percent: 89.191
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+    distance_meters: 1119.92
+    distance_km: 1.12
+    distance_percent: 10.809
+  meso_regions:
+  - slug: beskid_zywieckoorawski
+    name: Beskid Żywiecko-Orawski
+    code: "513.51"
+    distance_meters: 10360.98
+    distance_km: 10.361
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 10360.98
+    distance_km: 10.361
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 10360.98
+    distance_km: 10.361
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 10360.98
+    distance_km: 10.361
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 10360.98
+    distance_km: 10.361
+    distance_percent: 100.0
+  touched_towns:
+  - slug: stryszawa
+    name: Stryszawa
+    code: "1215072"
+  - slug: koszarawa
+    name: Koszarawa
+    code: "2417052"
+  - slug: zawoja
+    name: Zawoja
+    code: "1215082"
+  touched_counties:
+  - slug: suski
+    name: suski
+    code: "1215"
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+  touched_voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+  touched_meso_regions:
+  - slug: beskid_zywieckoorawski
+    name: Beskid Żywiecko-Orawski
+    code: "513.51"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

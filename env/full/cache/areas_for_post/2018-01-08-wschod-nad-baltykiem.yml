@@ -1,0 +1,84 @@
+---
+- type: hike
+  total_distance_meters: 1301.81
+  total_distance_km: 1.302
+  points_count: 26.0
+  towns:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262011"
+    distance_meters: 1301.81
+    distance_km: 1.302
+    distance_percent: 100.0
+  counties:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262"
+    distance_meters: 1301.81
+    distance_km: 1.302
+    distance_percent: 100.0
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 1301.81
+    distance_km: 1.302
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pobrzeze_kaszubskie
+    name: Pobrzeże Kaszubskie
+    code: "313.51"
+    distance_meters: 1301.81
+    distance_km: 1.302
+    distance_percent: 100.0
+  macro_regions: []
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 1301.81
+    distance_km: 1.302
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 1301.81
+    distance_km: 1.302
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 1301.81
+    distance_km: 1.302
+    distance_percent: 100.0
+  touched_towns:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262011"
+  touched_counties:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: pobrzeze_kaszubskie
+    name: Pobrzeże Kaszubskie
+    code: "313.51"
+  touched_macro_regions: []
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

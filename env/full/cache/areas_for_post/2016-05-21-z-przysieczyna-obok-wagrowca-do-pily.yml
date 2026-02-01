@@ -1,0 +1,222 @@
+---
+- type: bicycle
+  total_distance_meters: 71863.94
+  total_distance_km: 71.864
+  points_count: 273.0
+  towns:
+  - slug: wagrowiec
+    name: Wągrowiec
+    code: "3028072"
+    distance_meters: 19547.22
+    distance_km: 19.547
+    distance_percent: 27.2003
+  - slug: chodziez
+    name: Chodzież
+    code: "3001032"
+    distance_meters: 15187.18
+    distance_km: 15.187
+    distance_percent: 21.1332
+  - slug: kaczory
+    name: Kaczory
+    code: "3019032"
+    distance_meters: 12704.87
+    distance_km: 12.705
+    distance_percent: 17.6791
+  - slug: margonin
+    name: Margonin
+    code: "3001043"
+    distance_meters: 12070.6
+    distance_km: 12.071
+    distance_percent: 16.7965
+  - slug: pila
+    name: Piła
+    code: "3019011"
+    distance_meters: 7866.71
+    distance_km: 7.867
+    distance_percent: 10.9467
+  - slug: budzyn
+    name: Budzyń
+    code: "3001022"
+    distance_meters: 4227.27
+    distance_km: 4.227
+    distance_percent: 5.8823
+  - slug: wagrowiec
+    name: Wągrowiec
+    code: "3028011"
+    distance_meters: 3598.86
+    distance_km: 3.599
+    distance_percent: 5.0079
+  - slug: chodziez
+    name: Chodzież
+    code: "3001011"
+    distance_meters: 3532.26
+    distance_km: 3.532
+    distance_percent: 4.9152
+  - slug: szamocin
+    name: Szamocin
+    code: "3001053"
+    distance_meters: 260.07
+    distance_km: 0.26
+    distance_percent: 0.3619
+  counties:
+  - slug: chodzieski
+    name: chodzieski
+    code: "3001"
+    distance_meters: 31745.13
+    distance_km: 31.745
+    distance_percent: 44.1739
+  - slug: pilski
+    name: pilski
+    code: "3019"
+    distance_meters: 20571.58
+    distance_km: 20.572
+    distance_percent: 28.6257
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 19547.22
+    distance_km: 19.547
+    distance_percent: 27.2003
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 71863.94
+    distance_km: 71.864
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_chodzieskie
+    name: Pojezierze Chodzieskie
+    code: "315.53"
+    distance_meters: 29693.27
+    distance_km: 29.693
+    distance_percent: 41.3187
+  - slug: dolina_srodkowej_noteci
+    name: Dolina Środkowej Noteci
+    code: "315.34"
+    distance_meters: 19264.68
+    distance_km: 19.265
+    distance_percent: 26.8072
+  - slug: dolina_gwdy
+    name: Dolina Gwdy
+    code: "314.68"
+    distance_meters: 12355.64
+    distance_km: 12.356
+    distance_percent: 17.1931
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 10550.36
+    distance_km: 10.55
+    distance_percent: 14.681
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 40243.62
+    distance_km: 40.244
+    distance_percent: 55.9997
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 19264.68
+    distance_km: 19.265
+    distance_percent: 26.8072
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 12355.64
+    distance_km: 12.356
+    distance_percent: 17.1931
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 71863.94
+    distance_km: 71.864
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 71863.94
+    distance_km: 71.864
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 71863.94
+    distance_km: 71.864
+    distance_percent: 100.0
+  touched_towns:
+  - slug: wagrowiec
+    name: Wągrowiec
+    code: "3028072"
+  - slug: budzyn
+    name: Budzyń
+    code: "3001022"
+  - slug: margonin
+    name: Margonin
+    code: "3001043"
+  - slug: szamocin
+    name: Szamocin
+    code: "3001053"
+  - slug: chodziez
+    name: Chodzież
+    code: "3001032"
+  - slug: kaczory
+    name: Kaczory
+    code: "3019032"
+  - slug: pila
+    name: Piła
+    code: "3019011"
+  touched_counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  - slug: chodzieski
+    name: chodzieski
+    code: "3001"
+  - slug: pilski
+    name: pilski
+    code: "3019"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  - slug: pojezierze_chodzieskie
+    name: Pojezierze Chodzieskie
+    code: "315.53"
+  - slug: dolina_srodkowej_noteci
+    name: Dolina Środkowej Noteci
+    code: "315.34"
+  - slug: dolina_gwdy
+    name: Dolina Gwdy
+    code: "314.68"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

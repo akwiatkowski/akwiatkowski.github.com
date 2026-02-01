@@ -1,0 +1,270 @@
+---
+- type: bicycle
+  total_distance_meters: 74842.42
+  total_distance_km: 74.842
+  points_count: 322.0
+  towns:
+  - slug: godkowo
+    name: Godkowo
+    code: "2804022"
+    distance_meters: 16657.39
+    distance_km: 16.657
+    distance_percent: 22.2566
+  - slug: paslek
+    name: Pasłęk
+    code: "2804073"
+    distance_meters: 14358.04
+    distance_km: 14.358
+    distance_percent: 19.1844
+  - slug: elblag
+    name: Elbląg
+    code: "2804012"
+    distance_meters: 11604.06
+    distance_km: 11.604
+    distance_percent: 15.5047
+  - slug: milakowo
+    name: Miłakowo
+    code: "2815063"
+    distance_meters: 11013.92
+    distance_km: 11.014
+    distance_percent: 14.7161
+  - slug: lubomino
+    name: Lubomino
+    code: "2809042"
+    distance_meters: 10015.77
+    distance_km: 10.016
+    distance_percent: 13.3825
+  - slug: dobre_miasto
+    name: Dobre Miasto
+    code: "2814033"
+    distance_meters: 7242.3
+    distance_km: 7.242
+    distance_percent: 9.6767
+  - slug: elblag
+    name: Elbląg
+    code: "2861011"
+    distance_meters: 2732.36
+    distance_km: 2.732
+    distance_percent: 3.6508
+  - slug: swiatki
+    name: Świątki
+    code: "2814122"
+    distance_meters: 1218.57
+    distance_km: 1.219
+    distance_percent: 1.6282
+  counties:
+  - slug: elblaski
+    name: elbląski
+    code: "2804"
+    distance_meters: 45351.86
+    distance_km: 45.352
+    distance_percent: 60.5965
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 11013.92
+    distance_km: 11.014
+    distance_percent: 14.7161
+  - slug: lidzbarski
+    name: lidzbarski
+    code: "2809"
+    distance_meters: 10015.77
+    distance_km: 10.016
+    distance_percent: 13.3825
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+    distance_meters: 8460.87
+    distance_km: 8.461
+    distance_percent: 11.3049
+  - slug: elblag
+    name: Elbląg
+    code: "2861"
+    distance_meters: 2732.36
+    distance_km: 2.732
+    distance_percent: 3.6508
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 74842.42
+    distance_km: 74.842
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+    distance_meters: 20716.38
+    distance_km: 20.716
+    distance_percent: 27.68
+  - slug: rownina_warminska
+    name: Równina Warmińska
+    code: "313.56"
+    distance_meters: 19653.59
+    distance_km: 19.654
+    distance_percent: 26.26
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+    distance_meters: 16244.4
+    distance_km: 16.244
+    distance_percent: 21.7048
+  - slug: zulawy_wislane
+    name: Żuławy Wiślane
+    code: "313.54"
+    distance_meters: 13160.27
+    distance_km: 13.16
+    distance_percent: 17.584
+  - slug: wysoczyzna_elblaska
+    name: Wysoczyzna Elbląska
+    code: "313.55"
+    distance_meters: 5067.77
+    distance_km: 5.068
+    distance_percent: 6.7713
+  macro_regions:
+  - slug: pobrzeze_gdanskie
+    name: Pobrzeże Gdańskie
+    code: "313"
+    distance_meters: 37881.63
+    distance_km: 37.882
+    distance_percent: 50.6152
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 20716.38
+    distance_km: 20.716
+    distance_percent: 27.68
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 16244.4
+    distance_km: 16.244
+    distance_percent: 21.7048
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 54126.03
+    distance_km: 54.126
+    distance_percent: 72.32
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 20716.38
+    distance_km: 20.716
+    distance_percent: 27.68
+  subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 20716.38
+    distance_km: 20.716
+    distance_percent: 27.68
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 16244.4
+    distance_km: 16.244
+    distance_percent: 21.7048
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 54126.03
+    distance_km: 54.126
+    distance_percent: 72.32
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 20716.38
+    distance_km: 20.716
+    distance_percent: 27.68
+  touched_towns:
+  - slug: elblag
+    name: Elbląg
+    code: "2861011"
+  - slug: paslek
+    name: Pasłęk
+    code: "2804073"
+  - slug: godkowo
+    name: Godkowo
+    code: "2804022"
+  - slug: milakowo
+    name: Miłakowo
+    code: "2815063"
+  - slug: lubomino
+    name: Lubomino
+    code: "2809042"
+  - slug: swiatki
+    name: Świątki
+    code: "2814122"
+  - slug: dobre_miasto
+    name: Dobre Miasto
+    code: "2814033"
+  touched_counties:
+  - slug: elblaski
+    name: elbląski
+    code: "2804"
+  - slug: elblag
+    name: Elbląg
+    code: "2861"
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  - slug: lidzbarski
+    name: lidzbarski
+    code: "2809"
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: zulawy_wislane
+    name: Żuławy Wiślane
+    code: "313.54"
+  - slug: wysoczyzna_elblaska
+    name: Wysoczyzna Elbląska
+    code: "313.55"
+  - slug: rownina_warminska
+    name: Równina Warmińska
+    code: "313.56"
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+  touched_macro_regions:
+  - slug: pobrzeze_gdanskie
+    name: Pobrzeże Gdańskie
+    code: "313"
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

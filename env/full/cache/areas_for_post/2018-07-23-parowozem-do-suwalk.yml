@@ -1,0 +1,414 @@
+---
+- type: train
+  total_distance_meters: 462315.16
+  total_distance_km: 462.315
+  points_count: 591.0
+  towns:
+  - slug: ketrzyn
+    name: Kętrzyn
+    code: "2808032"
+    distance_meters: 43667.73
+    distance_km: 43.668
+    distance_percent: 9.4454
+  - slug: gizycko
+    name: Giżycko
+    code: "2806042"
+    distance_meters: 42589.11
+    distance_km: 42.589
+    distance_percent: 9.2121
+  - slug: barczewo
+    name: Barczewo
+    code: "2814013"
+    distance_meters: 40878.56
+    distance_km: 40.879
+    distance_percent: 8.8421
+  - slug: elk
+    name: Ełk
+    code: "2805022"
+    distance_meters: 40339.28
+    distance_km: 40.339
+    distance_percent: 8.7255
+  - slug: korsze
+    name: Korsze
+    code: "2808043"
+    distance_meters: 39764.8
+    distance_km: 39.765
+    distance_percent: 8.6012
+  - slug: olecko
+    name: Olecko
+    code: "2813043"
+    distance_meters: 33669.42
+    distance_km: 33.669
+    distance_percent: 7.2828
+  - slug: raczki
+    name: Raczki
+    code: "2012052"
+    distance_meters: 30687.24
+    distance_km: 30.687
+    distance_percent: 6.6377
+  - slug: wydminy
+    name: Wydminy
+    code: "2806102"
+    distance_meters: 29174.81
+    distance_km: 29.175
+    distance_percent: 6.3106
+  - slug: stare_juchy
+    name: Stare Juchy
+    code: "2805052"
+    distance_meters: 27990.95
+    distance_km: 27.991
+    distance_percent: 6.0545
+  - slug: wieliczki
+    name: Wieliczki
+    code: "2813062"
+    distance_meters: 27134.24
+    distance_km: 27.134
+    distance_percent: 5.8692
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2814023"
+    distance_meters: 24328.51
+    distance_km: 24.329
+    distance_percent: 5.2623
+  - slug: bisztynek
+    name: Bisztynek
+    code: "2801043"
+    distance_meters: 23409.95
+    distance_km: 23.41
+    distance_percent: 5.0636
+  - slug: kolno
+    name: Kolno
+    code: "2814082"
+    distance_meters: 19757.2
+    distance_km: 19.757
+    distance_percent: 4.2735
+  - slug: suwalki
+    name: Suwałki
+    code: "2063011"
+    distance_meters: 16490.36
+    distance_km: 16.49
+    distance_percent: 3.5669
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862011"
+    distance_meters: 9064.49
+    distance_km: 9.064
+    distance_percent: 1.9607
+  - slug: elk
+    name: Ełk
+    code: "2805011"
+    distance_meters: 8746.19
+    distance_km: 8.746
+    distance_percent: 1.8918
+  - slug: ryn
+    name: Ryn
+    code: "2806083"
+    distance_meters: 6805.04
+    distance_km: 6.805
+    distance_percent: 1.4719
+  - slug: suwalki
+    name: Suwałki
+    code: "2012072"
+    distance_meters: 6563.48
+    distance_km: 6.563
+    distance_percent: 1.4197
+  - slug: gizycko
+    name: Giżycko
+    code: "2806011"
+    distance_meters: 6113.88
+    distance_km: 6.114
+    distance_percent: 1.3224
+  - slug: ketrzyn
+    name: Kętrzyn
+    code: "2808011"
+    distance_meters: 6082.99
+    distance_km: 6.083
+    distance_percent: 1.3158
+  counties:
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+    distance_meters: 94028.76
+    distance_km: 94.029
+    distance_percent: 20.3387
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+    distance_meters: 83432.52
+    distance_km: 83.433
+    distance_percent: 18.0467
+  - slug: gizycki
+    name: giżycki
+    code: "2806"
+    distance_meters: 78568.96
+    distance_km: 78.569
+    distance_percent: 16.9947
+  - slug: elcki
+    name: ełcki
+    code: "2805"
+    distance_meters: 68330.23
+    distance_km: 68.33
+    distance_percent: 14.78
+  - slug: olecki
+    name: olecki
+    code: "2813"
+    distance_meters: 60803.66
+    distance_km: 60.804
+    distance_percent: 13.152
+  - slug: suwalski
+    name: suwalski
+    code: "2012"
+    distance_meters: 53741.08
+    distance_km: 53.741
+    distance_percent: 11.6243
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+    distance_meters: 23409.95
+    distance_km: 23.41
+    distance_percent: 5.0636
+  - slug: suwalki
+    name: Suwałki
+    code: "2063"
+    distance_meters: 16490.36
+    distance_km: 16.49
+    distance_percent: 3.5669
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862"
+    distance_meters: 9064.49
+    distance_km: 9.064
+    distance_percent: 1.9607
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 408574.09
+    distance_km: 408.574
+    distance_percent: 88.3757
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+    distance_meters: 53741.08
+    distance_km: 53.741
+    distance_percent: 11.6243
+  meso_regions:
+  - slug: pojezierze_elckie
+    name: Pojezierze Ełckie
+    code: "842.86"
+    distance_meters: 141146.0
+    distance_km: 141.146
+    distance_percent: 30.5303
+  - slug: kraina_wielkich_jezior_mazurskich
+    name: Kraina Wielkich Jezior Mazurskich
+    code: "842.83"
+    distance_meters: 105271.26
+    distance_km: 105.271
+    distance_percent: 22.7705
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+    distance_meters: 66195.85
+    distance_km: 66.196
+    distance_percent: 14.3183
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+    distance_meters: 54832.3
+    distance_km: 54.832
+    distance_percent: 11.8604
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+    distance_meters: 50240.81
+    distance_km: 50.241
+    distance_percent: 10.8672
+  - slug: rownina_augustowska
+    name: Równina Augustowska
+    code: "842.74"
+    distance_meters: 22766.16
+    distance_km: 22.766
+    distance_percent: 4.9244
+  - slug: pojezierze_zachodniosuwalskie
+    name: Pojezierze Zachodniosuwalskie
+    code: "842.72"
+    distance_meters: 21862.77
+    distance_km: 21.863
+    distance_percent: 4.729
+  macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 351490.39
+    distance_km: 351.49
+    distance_percent: 76.0283
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+    distance_meters: 66195.85
+    distance_km: 66.196
+    distance_percent: 14.3183
+  - slug: pojezierze_litewskie
+    name: Pojezierze Litewskie
+    code: "842"
+    distance_meters: 44628.93
+    distance_km: 44.629
+    distance_percent: 9.6534
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 462315.17
+    distance_km: 462.315
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 396119.32
+    distance_km: 396.119
+    distance_percent: 85.6817
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+    distance_meters: 66195.85
+    distance_km: 66.196
+    distance_percent: 14.3183
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 462315.17
+    distance_km: 462.315
+    distance_percent: 100.0
+  touched_towns:
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862011"
+  - slug: barczewo
+    name: Barczewo
+    code: "2814013"
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2814023"
+  - slug: kolno
+    name: Kolno
+    code: "2814082"
+  - slug: bisztynek
+    name: Bisztynek
+    code: "2801043"
+  - slug: korsze
+    name: Korsze
+    code: "2808043"
+  - slug: ketrzyn
+    name: Kętrzyn
+    code: "2808032"
+  - slug: ryn
+    name: Ryn
+    code: "2806083"
+  - slug: gizycko
+    name: Giżycko
+    code: "2806042"
+  - slug: wydminy
+    name: Wydminy
+    code: "2806102"
+  - slug: stare_juchy
+    name: Stare Juchy
+    code: "2805052"
+  - slug: elk
+    name: Ełk
+    code: "2805022"
+  - slug: olecko
+    name: Olecko
+    code: "2813043"
+  - slug: wieliczki
+    name: Wieliczki
+    code: "2813062"
+  - slug: raczki
+    name: Raczki
+    code: "2012052"
+  - slug: suwalki
+    name: Suwałki
+    code: "2012072"
+  touched_counties:
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862"
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+  - slug: gizycki
+    name: giżycki
+    code: "2806"
+  - slug: elcki
+    name: ełcki
+    code: "2805"
+  - slug: olecki
+    name: olecki
+    code: "2813"
+  - slug: suwalski
+    name: suwalski
+    code: "2012"
+  - slug: suwalki
+    name: Suwałki
+    code: "2063"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+  touched_meso_regions:
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+  - slug: kraina_wielkich_jezior_mazurskich
+    name: Kraina Wielkich Jezior Mazurskich
+    code: "842.83"
+  - slug: pojezierze_elckie
+    name: Pojezierze Ełckie
+    code: "842.86"
+  - slug: pojezierze_zachodniosuwalskie
+    name: Pojezierze Zachodniosuwalskie
+    code: "842.72"
+  - slug: rownina_augustowska
+    name: Równina Augustowska
+    code: "842.74"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+  - slug: pojezierze_litewskie
+    name: Pojezierze Litewskie
+    code: "842"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

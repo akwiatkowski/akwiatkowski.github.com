@@ -1,0 +1,252 @@
+---
+- type: bicycle
+  total_distance_meters: 93048.67
+  total_distance_km: 93.049
+  points_count: 270.0
+  towns:
+  - slug: raszkow
+    name: Raszków
+    code: "3017063"
+    distance_meters: 17649.2
+    distance_km: 17.649
+    distance_percent: 18.9677
+  - slug: jarocin
+    name: Jarocin
+    code: "3006023"
+    distance_meters: 14037.15
+    distance_km: 14.037
+    distance_percent: 15.0858
+  - slug: kotlin
+    name: Kotlin
+    code: "3006032"
+    distance_meters: 12606.78
+    distance_km: 12.607
+    distance_percent: 13.5486
+  - slug: sieroszewice
+    name: Sieroszewice
+    code: "3017072"
+    distance_meters: 10693.8
+    distance_km: 10.694
+    distance_percent: 11.4927
+  - slug: ostrow_wielkopolski
+    name: Ostrów Wielkopolski
+    code: "3017011"
+    distance_meters: 9531.6
+    distance_km: 9.532
+    distance_percent: 10.2437
+  - slug: dobrzyca
+    name: Dobrzyca
+    code: "3020033"
+    distance_meters: 8917.34
+    distance_km: 8.917
+    distance_percent: 9.5835
+  - slug: ostrzeszow
+    name: Ostrzeszów
+    code: "3018073"
+    distance_meters: 8467.3
+    distance_km: 8.467
+    distance_percent: 9.0999
+  - slug: mikstat
+    name: Mikstat
+    code: "3018063"
+    distance_meters: 8030.75
+    distance_km: 8.031
+    distance_percent: 8.6307
+  - slug: ostrow_wielkopolski
+    name: Ostrów Wielkopolski
+    code: "3017042"
+    distance_meters: 3114.76
+    distance_km: 3.115
+    distance_percent: 3.3474
+  counties:
+  - slug: ostrowski
+    name: ostrowski
+    code: "3017"
+    distance_meters: 40989.35
+    distance_km: 40.989
+    distance_percent: 44.0515
+  - slug: jarocinski
+    name: jarociński
+    code: "3006"
+    distance_meters: 26643.94
+    distance_km: 26.644
+    distance_percent: 28.6344
+  - slug: ostrzeszowski
+    name: ostrzeszowski
+    code: "3018"
+    distance_meters: 16498.04
+    distance_km: 16.498
+    distance_percent: 17.7306
+  - slug: pleszewski
+    name: pleszewski
+    code: "3020"
+    distance_meters: 8917.34
+    distance_km: 8.917
+    distance_percent: 9.5835
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 93048.67
+    distance_km: 93.049
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wysoczyzna_kaliska
+    name: Wysoczyzna Kaliska
+    code: "318.12"
+    distance_meters: 65893.35
+    distance_km: 65.893
+    distance_percent: 70.816
+  - slug: wzgorza_ostrzeszowskie
+    name: Wzgórza Ostrzeszowskie
+    code: "318.46"
+    distance_meters: 15130.46
+    distance_km: 15.13
+    distance_percent: 16.2608
+  - slug: kotlina_milicka
+    name: Kotlina Milicka
+    code: "318.34"
+    distance_meters: 6890.1
+    distance_km: 6.89
+    distance_percent: 7.4048
+  - slug: wal_zerkowski
+    name: Wał Żerkowski
+    code: "315.84"
+    distance_meters: 5134.76
+    distance_km: 5.135
+    distance_percent: 5.5184
+  macro_regions:
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+    distance_meters: 65893.35
+    distance_km: 65.893
+    distance_percent: 70.816
+  - slug: wal_trzebnicki
+    name: Wał Trzebnicki
+    code: "318"
+    distance_meters: 15130.46
+    distance_km: 15.13
+    distance_percent: 16.2608
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+    distance_meters: 6890.1
+    distance_km: 6.89
+    distance_percent: 7.4048
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+    distance_meters: 5134.76
+    distance_km: 5.135
+    distance_percent: 5.5184
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 93048.67
+    distance_km: 93.049
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 87913.91
+    distance_km: 87.914
+    distance_percent: 94.4816
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 5134.76
+    distance_km: 5.135
+    distance_percent: 5.5184
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 93048.67
+    distance_km: 93.049
+    distance_percent: 100.0
+  touched_towns:
+  - slug: ostrzeszow
+    name: Ostrzeszów
+    code: "3018073"
+  - slug: mikstat
+    name: Mikstat
+    code: "3018063"
+  - slug: sieroszewice
+    name: Sieroszewice
+    code: "3017072"
+  - slug: ostrow_wielkopolski
+    name: Ostrów Wielkopolski
+    code: "3017042"
+  - slug: raszkow
+    name: Raszków
+    code: "3017063"
+  - slug: dobrzyca
+    name: Dobrzyca
+    code: "3020033"
+  - slug: kotlin
+    name: Kotlin
+    code: "3006032"
+  - slug: jarocin
+    name: Jarocin
+    code: "3006023"
+  touched_counties:
+  - slug: ostrzeszowski
+    name: ostrzeszowski
+    code: "3018"
+  - slug: ostrowski
+    name: ostrowski
+    code: "3017"
+  - slug: pleszewski
+    name: pleszewski
+    code: "3020"
+  - slug: jarocinski
+    name: jarociński
+    code: "3006"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: wzgorza_ostrzeszowskie
+    name: Wzgórza Ostrzeszowskie
+    code: "318.46"
+  - slug: kotlina_milicka
+    name: Kotlina Milicka
+    code: "318.34"
+  - slug: wysoczyzna_kaliska
+    name: Wysoczyzna Kaliska
+    code: "318.12"
+  - slug: wal_zerkowski
+    name: Wał Żerkowski
+    code: "315.84"
+  touched_macro_regions:
+  - slug: wal_trzebnicki
+    name: Wał Trzebnicki
+    code: "318"
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

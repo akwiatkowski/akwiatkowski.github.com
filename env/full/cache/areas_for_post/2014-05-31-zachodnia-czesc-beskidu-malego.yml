@@ -1,0 +1,147 @@
+---
+- type: hike
+  total_distance_meters: 13570.82
+  total_distance_km: 13.571
+  points_count: 226.0
+  towns:
+  - slug: wilkowice
+    name: Wilkowice
+    code: "2402102"
+    distance_meters: 4666.58
+    distance_km: 4.667
+    distance_percent: 34.3869
+  - slug: czernichow
+    name: Czernichów
+    code: "2417022"
+    distance_meters: 4648.42
+    distance_km: 4.648
+    distance_percent: 34.2531
+  - slug: bielskobiala
+    name: Bielsko-Biała
+    code: "2461011"
+    distance_meters: 4255.81
+    distance_km: 4.256
+    distance_percent: 31.36
+  counties:
+  - slug: bielski
+    name: bielski
+    code: "2402"
+    distance_meters: 4666.58
+    distance_km: 4.667
+    distance_percent: 34.3869
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+    distance_meters: 4648.42
+    distance_km: 4.648
+    distance_percent: 34.2531
+  - slug: bielskobiala
+    name: Bielsko-Biała
+    code: "2461"
+    distance_meters: 4255.81
+    distance_km: 4.256
+    distance_percent: 31.36
+  voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+    distance_meters: 13570.82
+    distance_km: 13.571
+    distance_percent: 100.0
+  meso_regions:
+  - slug: beskid_maly
+    name: Beskid Mały
+    code: "513.47"
+    distance_meters: 11143.51
+    distance_km: 11.144
+    distance_percent: 82.1138
+  - slug: pogorze_slaskie
+    name: Pogórze Śląskie
+    code: "513.32"
+    distance_meters: 2427.31
+    distance_km: 2.427
+    distance_percent: 17.8862
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 11143.51
+    distance_km: 11.144
+    distance_percent: 82.1138
+  - slug: pogorze_zachodniobeskidzkie
+    name: Pogórze Zachodniobeskidzkie
+    code: "513"
+    distance_meters: 2427.31
+    distance_km: 2.427
+    distance_percent: 17.8862
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 13570.82
+    distance_km: 13.571
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 13570.82
+    distance_km: 13.571
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 13570.82
+    distance_km: 13.571
+    distance_percent: 100.0
+  touched_towns:
+  - slug: bielskobiala
+    name: Bielsko-Biała
+    code: "2461011"
+  - slug: wilkowice
+    name: Wilkowice
+    code: "2402102"
+  - slug: czernichow
+    name: Czernichów
+    code: "2417022"
+  touched_counties:
+  - slug: bielskobiala
+    name: Bielsko-Biała
+    code: "2461"
+  - slug: bielski
+    name: bielski
+    code: "2402"
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+  touched_voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+  touched_meso_regions:
+  - slug: pogorze_slaskie
+    name: Pogórze Śląskie
+    code: "513.32"
+  - slug: beskid_maly
+    name: Beskid Mały
+    code: "513.47"
+  touched_macro_regions:
+  - slug: pogorze_zachodniobeskidzkie
+    name: Pogórze Zachodniobeskidzkie
+    code: "513"
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

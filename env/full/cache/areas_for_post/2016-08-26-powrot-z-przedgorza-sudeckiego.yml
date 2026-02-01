@@ -1,0 +1,300 @@
+---
+- type: bicycle
+  total_distance_meters: 92840.63
+  total_distance_km: 92.841
+  points_count: 503.0
+  towns:
+  - slug: sroda_slaska
+    name: Środa Śląska
+    code: 0218043
+    distance_meters: 20582.51
+    distance_km: 20.583
+    distance_percent: 22.1697
+  - slug: zarow
+    name: Żarów
+    code: 0219083
+    distance_meters: 15851.58
+    distance_km: 15.852
+    distance_percent: 17.074
+  - slug: kostomloty
+    name: Kostomłoty
+    code: 0218012
+    distance_meters: 15470.08
+    distance_km: 15.47
+    distance_percent: 16.6631
+  - slug: brzeg_dolny
+    name: Brzeg Dolny
+    code: "0222013"
+    distance_meters: 14643.84
+    distance_km: 14.644
+    distance_percent: 15.7731
+  - slug: prusice
+    name: Prusice
+    code: "0220023"
+    distance_meters: 11111.82
+    distance_km: 11.112
+    distance_percent: 11.9687
+  - slug: zmigrod
+    name: Żmigród
+    code: "0220063"
+    distance_meters: 7605.72
+    distance_km: 7.606
+    distance_percent: 8.1922
+  - slug: miekinia
+    name: Miękinia
+    code: 0218032
+    distance_meters: 4994.65
+    distance_km: 4.995
+    distance_percent: 5.3798
+  - slug: mietkow
+    name: Mietków
+    code: "0223062"
+    distance_meters: 1360.88
+    distance_km: 1.361
+    distance_percent: 1.4658
+  - slug: wolow
+    name: Wołów
+    code: "0222033"
+    distance_meters: 1219.55
+    distance_km: 1.22
+    distance_percent: 1.3136
+  counties:
+  - slug: sredzki
+    name: średzki
+    code: 0218
+    distance_meters: 41047.24
+    distance_km: 41.047
+    distance_percent: 44.2126
+  - slug: trzebnicki
+    name: trzebnicki
+    code: "0220"
+    distance_meters: 18717.54
+    distance_km: 18.718
+    distance_percent: 20.1609
+  - slug: wolowski
+    name: wołowski
+    code: "0222"
+    distance_meters: 15863.39
+    distance_km: 15.863
+    distance_percent: 17.0867
+  - slug: swidnicki
+    name: świdnicki
+    code: 0219
+    distance_meters: 15851.58
+    distance_km: 15.852
+    distance_percent: 17.074
+  - slug: wroclawski
+    name: wrocławski
+    code: "0223"
+    distance_meters: 1360.88
+    distance_km: 1.361
+    distance_percent: 1.4658
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 92840.63
+    distance_km: 92.841
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_wroclawska
+    name: Równina Wrocławska
+    code: "318.53"
+    distance_meters: 28034.63
+    distance_km: 28.035
+    distance_percent: 30.1965
+  - slug: kotlina_zmigrodzka
+    name: Kotlina Żmigrodzka
+    code: "318.33"
+    distance_meters: 14201.78
+    distance_km: 14.202
+    distance_percent: 15.2969
+  - slug: pradolina_wroclawska
+    name: Pradolina Wrocławska
+    code: "318.52"
+    distance_meters: 12959.24
+    distance_km: 12.959
+    distance_percent: 13.9586
+  - slug: wzgorza_strzegomskie
+    name: Wzgórza Strzegomskie
+    code: "332.11"
+    distance_meters: 10233.16
+    distance_km: 10.233
+    distance_percent: 11.0223
+  - slug: wysoczyzna_roscislawska
+    name: Wysoczyzna Rościsławska
+    code: "318.51"
+    distance_meters: 10032.25
+    distance_km: 10.032
+    distance_percent: 10.8059
+  - slug: wzgorza_trzebnickie
+    name: Wzgórza Trzebnickie
+    code: "318.44"
+    distance_meters: 9064.74
+    distance_km: 9.065
+    distance_percent: 9.7638
+  - slug: rownina_swidnicka
+    name: Równina Świdnicka
+    code: "332.12"
+    distance_meters: 8314.82
+    distance_km: 8.315
+    distance_percent: 8.956
+  macro_regions:
+  - slug: nizina_slaska
+    name: Nizina Śląska
+    code: "318"
+    distance_meters: 51026.13
+    distance_km: 51.026
+    distance_percent: 54.961
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+    distance_meters: 18547.98
+    distance_km: 18.548
+    distance_percent: 19.9783
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+    distance_meters: 14201.78
+    distance_km: 14.202
+    distance_percent: 15.2969
+  - slug: wal_trzebnicki
+    name: Wał Trzebnicki
+    code: "318"
+    distance_meters: 9064.74
+    distance_km: 9.065
+    distance_percent: 9.7638
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 92840.63
+    distance_km: 92.841
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 74292.65
+    distance_km: 74.293
+    distance_percent: 80.0217
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 18547.98
+    distance_km: 18.548
+    distance_percent: 19.9783
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 74292.65
+    distance_km: 74.293
+    distance_percent: 80.0217
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 18547.98
+    distance_km: 18.548
+    distance_percent: 19.9783
+  touched_towns:
+  - slug: zarow
+    name: Żarów
+    code: 0219083
+  - slug: mietkow
+    name: Mietków
+    code: "0223062"
+  - slug: kostomloty
+    name: Kostomłoty
+    code: 0218012
+  - slug: sroda_slaska
+    name: Środa Śląska
+    code: 0218043
+  - slug: miekinia
+    name: Miękinia
+    code: 0218032
+  - slug: brzeg_dolny
+    name: Brzeg Dolny
+    code: "0222013"
+  - slug: wolow
+    name: Wołów
+    code: "0222033"
+  - slug: prusice
+    name: Prusice
+    code: "0220023"
+  - slug: zmigrod
+    name: Żmigród
+    code: "0220063"
+  touched_counties:
+  - slug: swidnicki
+    name: świdnicki
+    code: 0219
+  - slug: wroclawski
+    name: wrocławski
+    code: "0223"
+  - slug: sredzki
+    name: średzki
+    code: 0218
+  - slug: wolowski
+    name: wołowski
+    code: "0222"
+  - slug: trzebnicki
+    name: trzebnicki
+    code: "0220"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: rownina_swidnicka
+    name: Równina Świdnicka
+    code: "332.12"
+  - slug: wzgorza_strzegomskie
+    name: Wzgórza Strzegomskie
+    code: "332.11"
+  - slug: rownina_wroclawska
+    name: Równina Wrocławska
+    code: "318.53"
+  - slug: pradolina_wroclawska
+    name: Pradolina Wrocławska
+    code: "318.52"
+  - slug: wysoczyzna_roscislawska
+    name: Wysoczyzna Rościsławska
+    code: "318.51"
+  - slug: wzgorza_trzebnickie
+    name: Wzgórza Trzebnickie
+    code: "318.44"
+  - slug: kotlina_zmigrodzka
+    name: Kotlina Żmigrodzka
+    code: "318.33"
+  touched_macro_regions:
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+  - slug: nizina_slaska
+    name: Nizina Śląska
+    code: "318"
+  - slug: wal_trzebnicki
+    name: Wał Trzebnicki
+    code: "318"
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,210 @@
+---
+- type: bicycle
+  total_distance_meters: 84180.01
+  total_distance_km: 84.18
+  points_count: 528.0
+  towns:
+  - slug: barwice
+    name: Barwice
+    code: "3215023"
+    distance_meters: 25295.99
+    distance_km: 25.296
+    distance_percent: 30.0499
+  - slug: drawsko_pomorskie
+    name: Drawsko Pomorskie
+    code: "3203023"
+    distance_meters: 17986.71
+    distance_km: 17.987
+    distance_percent: 21.367
+  - slug: zlocieniec
+    name: Złocieniec
+    code: "3203063"
+    distance_meters: 13829.38
+    distance_km: 13.829
+    distance_percent: 16.4283
+  - slug: lobez
+    name: Łobez
+    code: "3218023"
+    distance_meters: 13471.03
+    distance_km: 13.471
+    distance_percent: 16.0027
+  - slug: czaplinek
+    name: Czaplinek
+    code: "3203013"
+    distance_meters: 6742.83
+    distance_km: 6.743
+    distance_percent: 8.01
+  - slug: grzmiaca
+    name: Grzmiąca
+    code: "3215052"
+    distance_meters: 5117.36
+    distance_km: 5.117
+    distance_percent: 6.0791
+  - slug: polczynzdroj
+    name: Połczyn-Zdrój
+    code: "3216033"
+    distance_meters: 1736.7
+    distance_km: 1.737
+    distance_percent: 2.0631
+  counties:
+  - slug: drawski
+    name: drawski
+    code: "3203"
+    distance_meters: 38558.92
+    distance_km: 38.559
+    distance_percent: 45.8053
+  - slug: szczecinecki
+    name: szczecinecki
+    code: "3215"
+    distance_meters: 30413.35
+    distance_km: 30.413
+    distance_percent: 36.1289
+  - slug: lobeski
+    name: łobeski
+    code: "3218"
+    distance_meters: 13471.03
+    distance_km: 13.471
+    distance_percent: 16.0027
+  - slug: swidwinski
+    name: świdwiński
+    code: "3216"
+    distance_meters: 1736.7
+    distance_km: 1.737
+    distance_percent: 2.0631
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 84180.01
+    distance_km: 84.18
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+    distance_meters: 75226.31
+    distance_km: 75.226
+    distance_percent: 89.3636
+  - slug: wysoczyzna_lobeska
+    name: Wysoczyzna Łobeska
+    code: "314.44"
+    distance_meters: 4723.32
+    distance_km: 4.723
+    distance_percent: 5.611
+  - slug: rownina_bialogardzka
+    name: Równina Białogardzka
+    code: "313.42"
+    distance_meters: 4230.38
+    distance_km: 4.23
+    distance_percent: 5.0254
+  macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 79949.63
+    distance_km: 79.95
+    distance_percent: 94.9746
+  - slug: pobrzeze_koszalinskie
+    name: Pobrzeże Koszalińskie
+    code: "313"
+    distance_meters: 4230.38
+    distance_km: 4.23
+    distance_percent: 5.0254
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 84180.01
+    distance_km: 84.18
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 79949.63
+    distance_km: 79.95
+    distance_percent: 94.9746
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 4230.38
+    distance_km: 4.23
+    distance_percent: 5.0254
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 84180.01
+    distance_km: 84.18
+    distance_percent: 100.0
+  touched_towns:
+  - slug: grzmiaca
+    name: Grzmiąca
+    code: "3215052"
+  - slug: barwice
+    name: Barwice
+    code: "3215023"
+  - slug: czaplinek
+    name: Czaplinek
+    code: "3203013"
+  - slug: zlocieniec
+    name: Złocieniec
+    code: "3203063"
+  - slug: polczynzdroj
+    name: Połczyn-Zdrój
+    code: "3216033"
+  - slug: drawsko_pomorskie
+    name: Drawsko Pomorskie
+    code: "3203023"
+  - slug: lobez
+    name: Łobez
+    code: "3218023"
+  touched_counties:
+  - slug: szczecinecki
+    name: szczecinecki
+    code: "3215"
+  - slug: drawski
+    name: drawski
+    code: "3203"
+  - slug: swidwinski
+    name: świdwiński
+    code: "3216"
+  - slug: lobeski
+    name: łobeski
+    code: "3218"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+  - slug: rownina_bialogardzka
+    name: Równina Białogardzka
+    code: "313.42"
+  - slug: wysoczyzna_lobeska
+    name: Wysoczyzna Łobeska
+    code: "314.44"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  - slug: pobrzeze_koszalinskie
+    name: Pobrzeże Koszalińskie
+    code: "313"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

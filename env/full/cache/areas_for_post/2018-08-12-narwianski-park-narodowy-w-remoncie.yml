@@ -1,0 +1,129 @@
+---
+- type: bicycle
+  total_distance_meters: 52716.32
+  total_distance_km: 52.716
+  points_count: 245.0
+  towns:
+  - slug: tykocin
+    name: Tykocin
+    code: "2002123"
+    distance_meters: 42950.61
+    distance_km: 42.951
+    distance_percent: 81.475
+  - slug: choroszcz
+    name: Choroszcz
+    code: "2002013"
+    distance_meters: 5034.17
+    distance_km: 5.034
+    distance_percent: 9.5495
+  - slug: kobylinborzymy
+    name: Kobylin-Borzymy
+    code: "2013052"
+    distance_meters: 4731.54
+    distance_km: 4.732
+    distance_percent: 8.9755
+  counties:
+  - slug: bialostocki
+    name: białostocki
+    code: "2002"
+    distance_meters: 47984.78
+    distance_km: 47.985
+    distance_percent: 91.0245
+  - slug: wysokomazowiecki
+    name: wysokomazowiecki
+    code: "2013"
+    distance_meters: 4731.54
+    distance_km: 4.732
+    distance_percent: 8.9755
+  voivodeships:
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+    distance_meters: 52716.32
+    distance_km: 52.716
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wysoczyzna_wysokomazowiecka
+    name: Wysoczyzna Wysokomazowiecka
+    code: "843.35"
+    distance_meters: 40525.3
+    distance_km: 40.525
+    distance_percent: 76.8743
+  - slug: dolina_gornej_narwi
+    name: Dolina Górnej Narwi
+    code: "843.36"
+    distance_meters: 12191.02
+    distance_km: 12.191
+    distance_percent: 23.1257
+  macro_regions:
+  - slug: nizina_polnocnopodlaska
+    name: Nizina Północnopodlaska
+    code: "843"
+    distance_meters: 52716.32
+    distance_km: 52.716
+    distance_percent: 100.0
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 52716.32
+    distance_km: 52.716
+    distance_percent: 100.0
+  subprovinces:
+  - slug: wysoczyzny_podlaskobialoruskie
+    name: Wysoczyzny Podlasko-Białoruskie
+    code: "84"
+    distance_meters: 52716.32
+    distance_km: 52.716
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 52716.32
+    distance_km: 52.716
+    distance_percent: 100.0
+  touched_towns:
+  - slug: tykocin
+    name: Tykocin
+    code: "2002123"
+  - slug: kobylinborzymy
+    name: Kobylin-Borzymy
+    code: "2013052"
+  - slug: choroszcz
+    name: Choroszcz
+    code: "2002013"
+  touched_counties:
+  - slug: bialostocki
+    name: białostocki
+    code: "2002"
+  - slug: wysokomazowiecki
+    name: wysokomazowiecki
+    code: "2013"
+  touched_voivodeships:
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+  touched_meso_regions:
+  - slug: dolina_gornej_narwi
+    name: Dolina Górnej Narwi
+    code: "843.36"
+  - slug: wysoczyzna_wysokomazowiecka
+    name: Wysoczyzna Wysokomazowiecka
+    code: "843.35"
+  touched_macro_regions:
+  - slug: nizina_polnocnopodlaska
+    name: Nizina Północnopodlaska
+    code: "843"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: wysoczyzny_podlaskobialoruskie
+    name: Wysoczyzny Podlasko-Białoruskie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

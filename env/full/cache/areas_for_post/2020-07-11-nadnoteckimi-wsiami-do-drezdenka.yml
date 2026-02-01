@@ -1,0 +1,129 @@
+---
+- type: bicycle
+  total_distance_meters: 34605.44
+  total_distance_km: 34.605
+  points_count: 192.0
+  towns:
+  - slug: zwierzyn
+    name: Zwierzyn
+    code: 0806052
+    distance_meters: 19094.92
+    distance_km: 19.095
+    distance_percent: 55.179
+  - slug: drezdenko
+    name: Drezdenko
+    code: 0806023
+    distance_meters: 8450.83
+    distance_km: 8.451
+    distance_percent: 24.4205
+  - slug: stare_kurowo
+    name: Stare Kurowo
+    code: 0806032
+    distance_meters: 6968.55
+    distance_km: 6.969
+    distance_percent: 20.1371
+  - slug: santok
+    name: Santok
+    code: 0801062
+    distance_meters: 91.14
+    distance_km: 0.091
+    distance_percent: 0.2634
+  counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 34514.3
+    distance_km: 34.514
+    distance_percent: 99.7366
+  - slug: gorzowski
+    name: gorzowski
+    code: 0801
+    distance_meters: 91.14
+    distance_km: 0.091
+    distance_percent: 0.2634
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 34605.44
+    distance_km: 34.605
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 34605.44
+    distance_km: 34.605
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 34605.44
+    distance_km: 34.605
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 34605.44
+    distance_km: 34.605
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 34605.44
+    distance_km: 34.605
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 34605.44
+    distance_km: 34.605
+    distance_percent: 100.0
+  touched_towns:
+  - slug: zwierzyn
+    name: Zwierzyn
+    code: 0806052
+  - slug: santok
+    name: Santok
+    code: 0801062
+  - slug: stare_kurowo
+    name: Stare Kurowo
+    code: 0806032
+  - slug: drezdenko
+    name: Drezdenko
+    code: 0806023
+  touched_counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  - slug: gorzowski
+    name: gorzowski
+    code: 0801
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  touched_macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

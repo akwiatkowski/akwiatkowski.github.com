@@ -1,0 +1,192 @@
+---
+- type: bicycle
+  total_distance_meters: 54616.63
+  total_distance_km: 54.617
+  points_count: 161.0
+  towns:
+  - slug: pniewy
+    name: Pniewy
+    code: "3024063"
+    distance_meters: 15101.11
+    distance_km: 15.101
+    distance_percent: 27.6493
+  - slug: duszniki
+    name: Duszniki
+    code: "3024022"
+    distance_meters: 11511.25
+    distance_km: 11.511
+    distance_percent: 21.0765
+  - slug: wronki
+    name: Wronki
+    code: "3024083"
+    distance_meters: 10034.9
+    distance_km: 10.035
+    distance_percent: 18.3733
+  - slug: opalenica
+    name: Opalenica
+    code: "3015053"
+    distance_meters: 10010.02
+    distance_km: 10.01
+    distance_percent: 18.3278
+  - slug: kuslin
+    name: Kuślin
+    code: "3015012"
+    distance_meters: 3994.86
+    distance_km: 3.995
+    distance_percent: 7.3144
+  - slug: chrzypsko_wielkie
+    name: Chrzypsko Wielkie
+    code: "3014012"
+    distance_meters: 3434.01
+    distance_km: 3.434
+    distance_percent: 6.2875
+  - slug: szamotuly
+    name: Szamotuły
+    code: "3024073"
+    distance_meters: 530.48
+    distance_km: 0.53
+    distance_percent: 0.9713
+  counties:
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+    distance_meters: 37177.74
+    distance_km: 37.178
+    distance_percent: 68.0704
+  - slug: nowotomyski
+    name: nowotomyski
+    code: "3015"
+    distance_meters: 14004.88
+    distance_km: 14.005
+    distance_percent: 25.6422
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+    distance_meters: 3434.01
+    distance_km: 3.434
+    distance_percent: 6.2875
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 54616.63
+    distance_km: 54.617
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 29395.98
+    distance_km: 29.396
+    distance_percent: 53.8224
+  - slug: wysoczyzna_grodziska
+    name: Wysoczyzna Grodziska
+    code: "315.59"
+    distance_meters: 24598.32
+    distance_km: 24.598
+    distance_percent: 45.0382
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 622.33
+    distance_km: 0.622
+    distance_percent: 1.1394
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 53994.3
+    distance_km: 53.994
+    distance_percent: 98.8606
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 622.33
+    distance_km: 0.622
+    distance_percent: 1.1394
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 54616.63
+    distance_km: 54.617
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 54616.63
+    distance_km: 54.617
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 54616.63
+    distance_km: 54.617
+    distance_percent: 100.0
+  touched_towns:
+  - slug: wronki
+    name: Wronki
+    code: "3024083"
+  - slug: chrzypsko_wielkie
+    name: Chrzypsko Wielkie
+    code: "3014012"
+  - slug: pniewy
+    name: Pniewy
+    code: "3024063"
+  - slug: szamotuly
+    name: Szamotuły
+    code: "3024073"
+  - slug: duszniki
+    name: Duszniki
+    code: "3024022"
+  - slug: kuslin
+    name: Kuślin
+    code: "3015012"
+  - slug: opalenica
+    name: Opalenica
+    code: "3015053"
+  touched_counties:
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+  - slug: nowotomyski
+    name: nowotomyski
+    code: "3015"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  - slug: wysoczyzna_grodziska
+    name: Wysoczyzna Grodziska
+    code: "315.59"
+  touched_macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

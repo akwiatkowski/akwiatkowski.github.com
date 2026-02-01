@@ -1,0 +1,120 @@
+---
+- type: bicycle
+  total_distance_meters: 27424.31
+  total_distance_km: 27.424
+  points_count: 98.0
+  towns:
+  - slug: sroda_wielkopolska
+    name: Środa Wielkopolska
+    code: "3025043"
+    distance_meters: 18087.87
+    distance_km: 18.088
+    distance_percent: 65.9556
+  - slug: kornik
+    name: Kórnik
+    code: "3021093"
+    distance_meters: 7433.97
+    distance_km: 7.434
+    distance_percent: 27.1072
+  - slug: kleszczewo
+    name: Kleszczewo
+    code: "3021062"
+    distance_meters: 1902.47
+    distance_km: 1.902
+    distance_percent: 6.9372
+  counties:
+  - slug: sredzki
+    name: średzki
+    code: "3025"
+    distance_meters: 18087.87
+    distance_km: 18.088
+    distance_percent: 65.9556
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 9336.44
+    distance_km: 9.336
+    distance_percent: 34.0444
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 27424.31
+    distance_km: 27.424
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 27424.31
+    distance_km: 27.424
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 27424.31
+    distance_km: 27.424
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 27424.31
+    distance_km: 27.424
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 27424.31
+    distance_km: 27.424
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 27424.31
+    distance_km: 27.424
+    distance_percent: 100.0
+  touched_towns:
+  - slug: kornik
+    name: Kórnik
+    code: "3021093"
+  - slug: sroda_wielkopolska
+    name: Środa Wielkopolska
+    code: "3025043"
+  - slug: kleszczewo
+    name: Kleszczewo
+    code: "3021062"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: sredzki
+    name: średzki
+    code: "3025"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,189 @@
+---
+- type: bicycle
+  total_distance_meters: 47565.5
+  total_distance_km: 47.566
+  points_count: 337.0
+  towns:
+  - slug: mirsk
+    name: Mirsk
+    code: "0212043"
+    distance_meters: 9620.24
+    distance_km: 9.62
+    distance_percent: 20.2252
+  - slug: olszyna
+    name: Olszyna
+    code: "0210053"
+    distance_meters: 8478.54
+    distance_km: 8.479
+    distance_percent: 17.825
+  - slug: gryfow_slaski
+    name: Gryfów Śląski
+    code: "0212013"
+    distance_meters: 6852.68
+    distance_km: 6.853
+    distance_percent: 14.4068
+  - slug: luban
+    name: Lubań
+    code: "0210011"
+    distance_meters: 5320.34
+    distance_km: 5.32
+    distance_percent: 11.1853
+  - slug: siekierczyn
+    name: Siekierczyn
+    code: "0210072"
+    distance_meters: 4862.55
+    distance_km: 4.863
+    distance_percent: 10.2228
+  - slug: luban
+    name: Lubań
+    code: "0210042"
+    distance_meters: 3330.28
+    distance_km: 3.33
+    distance_percent: 7.0015
+  - slug: lesna
+    name: Leśna
+    code: "0210033"
+    distance_meters: 3164.05
+    distance_km: 3.164
+    distance_percent: 6.652
+  - slug: platerowka
+    name: Platerówka
+    code: "0210062"
+    distance_meters: 3074.41
+    distance_km: 3.074
+    distance_percent: 6.4635
+  - slug: swieradowzdroj
+    name: Świeradów-Zdrój
+    code: "0210021"
+    distance_meters: 2862.42
+    distance_km: 2.862
+    distance_percent: 6.0178
+  counties:
+  - slug: lubanski
+    name: lubański
+    code: "0210"
+    distance_meters: 31092.59
+    distance_km: 31.093
+    distance_percent: 65.3679
+  - slug: lwowecki
+    name: lwówecki
+    code: "0212"
+    distance_meters: 16472.92
+    distance_km: 16.473
+    distance_percent: 34.6321
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 47565.5
+    distance_km: 47.566
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pogorze_izerskie
+    name: Pogórze Izerskie
+    code: "332.26"
+    distance_meters: 43591.42
+    distance_km: 43.591
+    distance_percent: 91.645
+  - slug: gory_izerskie
+    name: Góry Izerskie
+    code: "332.34"
+    distance_meters: 3974.09
+    distance_km: 3.974
+    distance_percent: 8.355
+  macro_regions:
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+    distance_meters: 43591.42
+    distance_km: 43.591
+    distance_percent: 91.645
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 3974.09
+    distance_km: 3.974
+    distance_percent: 8.355
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 47565.5
+    distance_km: 47.566
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 47565.5
+    distance_km: 47.566
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 47565.5
+    distance_km: 47.566
+    distance_percent: 100.0
+  touched_towns:
+  - slug: swieradowzdroj
+    name: Świeradów-Zdrój
+    code: "0210021"
+  - slug: mirsk
+    name: Mirsk
+    code: "0212043"
+  - slug: gryfow_slaski
+    name: Gryfów Śląski
+    code: "0212013"
+  - slug: olszyna
+    name: Olszyna
+    code: "0210053"
+  - slug: lesna
+    name: Leśna
+    code: "0210033"
+  - slug: luban
+    name: Lubań
+    code: "0210042"
+  - slug: platerowka
+    name: Platerówka
+    code: "0210062"
+  - slug: siekierczyn
+    name: Siekierczyn
+    code: "0210072"
+  touched_counties:
+  - slug: lubanski
+    name: lubański
+    code: "0210"
+  - slug: lwowecki
+    name: lwówecki
+    code: "0212"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_izerskie
+    name: Góry Izerskie
+    code: "332.34"
+  - slug: pogorze_izerskie
+    name: Pogórze Izerskie
+    code: "332.26"
+  touched_macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

@@ -1,0 +1,129 @@
+---
+- type: hike
+  total_distance_meters: 19788.45
+  total_distance_km: 19.788
+  points_count: 358.0
+  towns:
+  - slug: ochotnica_dolna
+    name: Ochotnica Dolna
+    code: "1211102"
+    distance_meters: 10247.83
+    distance_km: 10.248
+    distance_percent: 51.7869
+  - slug: kroscienko_nad_dunajcem
+    name: Krościenko nad Dunajcem
+    code: "1211062"
+    distance_meters: 6027.49
+    distance_km: 6.027
+    distance_percent: 30.4596
+  - slug: czorsztyn
+    name: Czorsztyn
+    code: "1211042"
+    distance_meters: 3025.77
+    distance_km: 3.026
+    distance_percent: 15.2906
+  - slug: nowy_targ
+    name: Nowy Targ
+    code: "1211092"
+    distance_meters: 487.36
+    distance_km: 0.487
+    distance_percent: 2.4629
+  counties:
+  - slug: nowotarski
+    name: nowotarski
+    code: "1211"
+    distance_meters: 19788.45
+    distance_km: 19.788
+    distance_percent: 100.0
+  voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+    distance_meters: 19788.45
+    distance_km: 19.788
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gorce
+    name: Gorce
+    code: "513.52"
+    distance_meters: 18986.81
+    distance_km: 18.987
+    distance_percent: 95.9489
+  - slug: beskid_sadecki
+    name: Beskid Sądecki
+    code: "513.54"
+    distance_meters: 801.64
+    distance_km: 0.802
+    distance_percent: 4.0511
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 19788.45
+    distance_km: 19.788
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 19788.45
+    distance_km: 19.788
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 19788.45
+    distance_km: 19.788
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 19788.45
+    distance_km: 19.788
+    distance_percent: 100.0
+  touched_towns:
+  - slug: kroscienko_nad_dunajcem
+    name: Krościenko nad Dunajcem
+    code: "1211062"
+  - slug: ochotnica_dolna
+    name: Ochotnica Dolna
+    code: "1211102"
+  - slug: czorsztyn
+    name: Czorsztyn
+    code: "1211042"
+  - slug: nowy_targ
+    name: Nowy Targ
+    code: "1211092"
+  touched_counties:
+  - slug: nowotarski
+    name: nowotarski
+    code: "1211"
+  touched_voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+  touched_meso_regions:
+  - slug: beskid_sadecki
+    name: Beskid Sądecki
+    code: "513.54"
+  - slug: gorce
+    name: Gorce
+    code: "513.52"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

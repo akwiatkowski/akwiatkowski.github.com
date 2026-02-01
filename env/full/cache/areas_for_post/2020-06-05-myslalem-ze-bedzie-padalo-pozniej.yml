@@ -1,0 +1,156 @@
+---
+- type: bicycle
+  total_distance_meters: 44456.76
+  total_distance_km: 44.457
+  points_count: 256.0
+  towns:
+  - slug: brzozie
+    name: Brzozie
+    code: "0402042"
+    distance_meters: 23237.37
+    distance_km: 23.237
+    distance_percent: 52.2696
+  - slug: lidzbark
+    name: Lidzbark
+    code: "2803043"
+    distance_meters: 15404.63
+    distance_km: 15.405
+    distance_percent: 34.6508
+  - slug: brodnica
+    name: Brodnica
+    code: "0402032"
+    distance_meters: 5814.76
+    distance_km: 5.815
+    distance_percent: 13.0796
+  counties:
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+    distance_meters: 29052.13
+    distance_km: 29.052
+    distance_percent: 65.3492
+  - slug: dzialdowski
+    name: działdowski
+    code: "2803"
+    distance_meters: 15404.63
+    distance_km: 15.405
+    distance_percent: 34.6508
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 29052.13
+    distance_km: 29.052
+    distance_percent: 65.3492
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 15404.63
+    distance_km: 15.405
+    distance_percent: 34.6508
+  meso_regions:
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+    distance_meters: 24310.53
+    distance_km: 24.311
+    distance_percent: 54.6836
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+    distance_meters: 7079.09
+    distance_km: 7.079
+    distance_percent: 15.9235
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 6624.8
+    distance_km: 6.625
+    distance_percent: 14.9017
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+    distance_meters: 6442.33
+    distance_km: 6.442
+    distance_percent: 14.4912
+  macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 44456.76
+    distance_km: 44.457
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 44456.76
+    distance_km: 44.457
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 44456.76
+    distance_km: 44.457
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 44456.76
+    distance_km: 44.457
+    distance_percent: 100.0
+  touched_towns:
+  - slug: brodnica
+    name: Brodnica
+    code: "0402032"
+  - slug: brzozie
+    name: Brzozie
+    code: "0402042"
+  - slug: lidzbark
+    name: Lidzbark
+    code: "2803043"
+  touched_counties:
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+  - slug: dzialdowski
+    name: działdowski
+    code: "2803"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+  touched_macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

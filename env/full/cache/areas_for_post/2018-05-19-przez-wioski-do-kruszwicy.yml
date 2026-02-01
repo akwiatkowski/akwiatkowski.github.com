@@ -1,0 +1,165 @@
+---
+- type: bicycle
+  total_distance_meters: 69578.4
+  total_distance_km: 69.578
+  points_count: 226.0
+  towns:
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+    distance_meters: 19018.31
+    distance_km: 19.018
+    distance_percent: 27.3336
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+    distance_meters: 16108.79
+    distance_km: 16.109
+    distance_percent: 23.152
+  - slug: dabrowa_biskupia
+    name: Dąbrowa Biskupia
+    code: "0407022"
+    distance_meters: 10968.01
+    distance_km: 10.968
+    distance_percent: 15.7635
+  - slug: gniewkowo
+    name: Gniewkowo
+    code: "0407033"
+    distance_meters: 9010.72
+    distance_km: 9.011
+    distance_percent: 12.9505
+  - slug: janikowo
+    name: Janikowo
+    code: "0407053"
+    distance_meters: 7497.56
+    distance_km: 7.498
+    distance_percent: 10.7757
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+    distance_meters: 3688.97
+    distance_km: 3.689
+    distance_percent: 5.3019
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+    distance_meters: 3286.04
+    distance_km: 3.286
+    distance_percent: 4.7228
+  counties:
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+    distance_meters: 50183.57
+    distance_km: 50.184
+    distance_percent: 72.1252
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+    distance_meters: 19394.83
+    distance_km: 19.395
+    distance_percent: 27.8748
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 69578.4
+    distance_km: 69.578
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+    distance_meters: 40470.6
+    distance_km: 40.471
+    distance_percent: 58.1655
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+    distance_meters: 29107.8
+    distance_km: 29.108
+    distance_percent: 41.8345
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 69578.4
+    distance_km: 69.578
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 69578.4
+    distance_km: 69.578
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 69578.4
+    distance_km: 69.578
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 69578.4
+    distance_km: 69.578
+    distance_percent: 100.0
+  touched_towns:
+  - slug: gniewkowo
+    name: Gniewkowo
+    code: "0407033"
+  - slug: dabrowa_biskupia
+    name: Dąbrowa Biskupia
+    code: "0407022"
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+  - slug: janikowo
+    name: Janikowo
+    code: "0407053"
+  touched_counties:
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

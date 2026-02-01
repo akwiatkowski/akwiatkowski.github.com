@@ -1,0 +1,198 @@
+---
+- type: bicycle
+  total_distance_meters: 75489.3
+  total_distance_km: 75.489
+  points_count: 286.0
+  towns:
+  - slug: stargard
+    name: Stargard
+    code: "3214102"
+    distance_meters: 16654.37
+    distance_km: 16.654
+    distance_percent: 22.0619
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+    distance_meters: 16440.64
+    distance_km: 16.441
+    distance_percent: 21.7788
+  - slug: suchan
+    name: Suchań
+    code: "3214113"
+    distance_meters: 15363.21
+    distance_km: 15.363
+    distance_percent: 20.3515
+  - slug: krzecin
+    name: Krzęcin
+    code: "3202042"
+    distance_meters: 12858.53
+    distance_km: 12.859
+    distance_percent: 17.0336
+  - slug: stargard
+    name: Stargard
+    code: "3214011"
+    distance_meters: 4514.83
+    distance_km: 4.515
+    distance_percent: 5.9808
+  - slug: dobrzany
+    name: Dobrzany
+    code: "3214033"
+    distance_meters: 4321.56
+    distance_km: 4.322
+    distance_percent: 5.7247
+  - slug: marianowo
+    name: Marianowo
+    code: "3214082"
+    distance_meters: 3337.57
+    distance_km: 3.338
+    distance_percent: 4.4213
+  - slug: bierzwnik
+    name: Bierzwnik
+    code: "3202012"
+    distance_meters: 1998.6
+    distance_km: 1.999
+    distance_percent: 2.6475
+  counties:
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+    distance_meters: 44191.54
+    distance_km: 44.192
+    distance_percent: 58.5401
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+    distance_meters: 31297.76
+    distance_km: 31.298
+    distance_percent: 41.4599
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 75489.3
+    distance_km: 75.489
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+    distance_meters: 34683.4
+    distance_km: 34.683
+    distance_percent: 45.9448
+  - slug: pojezierze_inskie
+    name: Pojezierze Ińskie
+    code: "314.43"
+    distance_meters: 30048.89
+    distance_km: 30.049
+    distance_percent: 39.8055
+  - slug: rownina_nowogardzka
+    name: Równina Nowogardzka
+    code: "313.32"
+    distance_meters: 10757.01
+    distance_km: 10.757
+    distance_percent: 14.2497
+  macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 64732.29
+    distance_km: 64.732
+    distance_percent: 85.7503
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+    distance_meters: 10757.01
+    distance_km: 10.757
+    distance_percent: 14.2497
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 75489.3
+    distance_km: 75.489
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 64732.29
+    distance_km: 64.732
+    distance_percent: 85.7503
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 10757.01
+    distance_km: 10.757
+    distance_percent: 14.2497
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 75489.3
+    distance_km: 75.489
+    distance_percent: 100.0
+  touched_towns:
+  - slug: stargard
+    name: Stargard
+    code: "3214011"
+  - slug: marianowo
+    name: Marianowo
+    code: "3214082"
+  - slug: suchan
+    name: Suchań
+    code: "3214113"
+  - slug: dobrzany
+    name: Dobrzany
+    code: "3214033"
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+  - slug: krzecin
+    name: Krzęcin
+    code: "3202042"
+  - slug: bierzwnik
+    name: Bierzwnik
+    code: "3202012"
+  touched_counties:
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: rownina_nowogardzka
+    name: Równina Nowogardzka
+    code: "313.32"
+  - slug: pojezierze_inskie
+    name: Pojezierze Ińskie
+    code: "314.43"
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+  touched_macro_regions:
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

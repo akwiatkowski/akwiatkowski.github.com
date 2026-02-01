@@ -1,0 +1,243 @@
+---
+- type: bicycle
+  total_distance_meters: 60300.44
+  total_distance_km: 60.3
+  points_count: 192.0
+  towns:
+  - slug: pyzdry
+    name: Pyzdry
+    code: "3030043"
+    distance_meters: 14683.35
+    distance_km: 14.683
+    distance_percent: 24.3503
+  - slug: zerkow
+    name: Żerków
+    code: "3006043"
+    distance_meters: 14594.94
+    distance_km: 14.595
+    distance_percent: 24.2037
+  - slug: jarocin
+    name: Jarocin
+    code: "3006023"
+    distance_meters: 10541.95
+    distance_km: 10.542
+    distance_percent: 17.4824
+  - slug: zagorow
+    name: Zagórów
+    code: "3023083"
+    distance_meters: 7509.22
+    distance_km: 7.509
+    distance_percent: 12.453
+  - slug: ladek
+    name: Lądek
+    code: "3023022"
+    distance_meters: 5378.71
+    distance_km: 5.379
+    distance_percent: 8.9199
+  - slug: slupca
+    name: Słupca
+    code: "3023062"
+    distance_meters: 4840.75
+    distance_km: 4.841
+    distance_percent: 8.0277
+  - slug: slupca
+    name: Słupca
+    code: "3023011"
+    distance_meters: 2751.52
+    distance_km: 2.752
+    distance_percent: 4.563
+  counties:
+  - slug: jarocinski
+    name: jarociński
+    code: "3006"
+    distance_meters: 25136.89
+    distance_km: 25.137
+    distance_percent: 41.6861
+  - slug: slupecki
+    name: słupecki
+    code: "3023"
+    distance_meters: 20480.2
+    distance_km: 20.48
+    distance_percent: 33.9636
+  - slug: wrzesinski
+    name: wrzesiński
+    code: "3030"
+    distance_meters: 14683.35
+    distance_km: 14.683
+    distance_percent: 24.3503
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 60300.44
+    distance_km: 60.3
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+    distance_meters: 12959.93
+    distance_km: 12.96
+    distance_percent: 21.4923
+  - slug: wysoczyzna_kaliska
+    name: Wysoczyzna Kaliska
+    code: "318.12"
+    distance_meters: 12534.65
+    distance_km: 12.535
+    distance_percent: 20.787
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 11367.22
+    distance_km: 11.367
+    distance_percent: 18.851
+  - slug: dolina_koninska
+    name: Dolina Konińska
+    code: "318.13"
+    distance_meters: 10104.3
+    distance_km: 10.104
+    distance_percent: 16.7566
+  - slug: rownina_rychwalska
+    name: Równina Rychwalska
+    code: "318.16"
+    distance_meters: 8173.41
+    distance_km: 8.173
+    distance_percent: 13.5545
+  - slug: wal_zerkowski
+    name: Wał Żerkowski
+    code: "315.84"
+    distance_meters: 5160.93
+    distance_km: 5.161
+    distance_percent: 8.5587
+  macro_regions:
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+    distance_meters: 30812.37
+    distance_km: 30.812
+    distance_percent: 51.0981
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+    distance_meters: 12959.93
+    distance_km: 12.96
+    distance_percent: 21.4923
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 11367.22
+    distance_km: 11.367
+    distance_percent: 18.851
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+    distance_meters: 5160.93
+    distance_km: 5.161
+    distance_percent: 8.5587
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 60300.44
+    distance_km: 60.3
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 30812.37
+    distance_km: 30.812
+    distance_percent: 51.0981
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 29488.08
+    distance_km: 29.488
+    distance_percent: 48.9019
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 60300.44
+    distance_km: 60.3
+    distance_percent: 100.0
+  touched_towns:
+  - slug: jarocin
+    name: Jarocin
+    code: "3006023"
+  - slug: zerkow
+    name: Żerków
+    code: "3006043"
+  - slug: pyzdry
+    name: Pyzdry
+    code: "3030043"
+  - slug: zagorow
+    name: Zagórów
+    code: "3023083"
+  - slug: ladek
+    name: Lądek
+    code: "3023022"
+  - slug: slupca
+    name: Słupca
+    code: "3023062"
+  touched_counties:
+  - slug: jarocinski
+    name: jarociński
+    code: "3006"
+  - slug: wrzesinski
+    name: wrzesiński
+    code: "3030"
+  - slug: slupecki
+    name: słupecki
+    code: "3023"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: wysoczyzna_kaliska
+    name: Wysoczyzna Kaliska
+    code: "318.12"
+  - slug: wal_zerkowski
+    name: Wał Żerkowski
+    code: "315.84"
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+  - slug: dolina_koninska
+    name: Dolina Konińska
+    code: "318.13"
+  - slug: rownina_rychwalska
+    name: Równina Rychwalska
+    code: "318.16"
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  touched_macro_regions:
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

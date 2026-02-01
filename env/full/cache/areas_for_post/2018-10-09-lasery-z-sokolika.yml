@@ -1,0 +1,102 @@
+---
+- type: hike
+  total_distance_meters: 6445.21
+  total_distance_km: 6.445
+  points_count: 130.0
+  towns:
+  - slug: janowice_wielkie
+    name: Janowice Wielkie
+    code: "0206052"
+    distance_meters: 4523.99
+    distance_km: 4.524
+    distance_percent: 70.1915
+  - slug: myslakowice
+    name: Mysłakowice
+    code: "0206072"
+    distance_meters: 1921.22
+    distance_km: 1.921
+    distance_percent: 29.8085
+  counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+    distance_meters: 6445.21
+    distance_km: 6.445
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 6445.21
+    distance_km: 6.445
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_jeleniogorska
+    name: Kotlina Jeleniogórska
+    code: "332.36"
+    distance_meters: 6445.21
+    distance_km: 6.445
+    distance_percent: 100.0
+  macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 6445.21
+    distance_km: 6.445
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 6445.21
+    distance_km: 6.445
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 6445.21
+    distance_km: 6.445
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 6445.21
+    distance_km: 6.445
+    distance_percent: 100.0
+  touched_towns:
+  - slug: janowice_wielkie
+    name: Janowice Wielkie
+    code: "0206052"
+  - slug: myslakowice
+    name: Mysłakowice
+    code: "0206072"
+  touched_counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: kotlina_jeleniogorska
+    name: Kotlina Jeleniogórska
+    code: "332.36"
+  touched_macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

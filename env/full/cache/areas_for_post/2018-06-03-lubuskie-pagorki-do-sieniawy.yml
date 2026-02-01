@@ -1,0 +1,147 @@
+---
+- type: bicycle
+  total_distance_meters: 60118.79
+  total_distance_km: 60.119
+  points_count: 268.0
+  towns:
+  - slug: miedzyrzecz
+    name: Międzyrzecz
+    code: 0803023
+    distance_meters: 40802.77
+    distance_km: 40.803
+    distance_percent: 67.8702
+  - slug: sulecin
+    name: Sulęcin
+    code: 0807043
+    distance_meters: 8504.74
+    distance_km: 8.505
+    distance_percent: 14.1466
+  - slug: lubrza
+    name: Lubrza
+    code: 0808012
+    distance_meters: 6473.45
+    distance_km: 6.473
+    distance_percent: 10.7678
+  - slug: lagow
+    name: Łagów
+    code: 0808022
+    distance_meters: 4337.84
+    distance_km: 4.338
+    distance_percent: 7.2154
+  counties:
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+    distance_meters: 40802.77
+    distance_km: 40.803
+    distance_percent: 67.8702
+  - slug: swiebodzinski
+    name: świebodziński
+    code: 0808
+    distance_meters: 10811.28
+    distance_km: 10.811
+    distance_percent: 17.9832
+  - slug: sulecinski
+    name: sulęciński
+    code: 0807
+    distance_meters: 8504.74
+    distance_km: 8.505
+    distance_percent: 14.1466
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 60118.79
+    distance_km: 60.119
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_lagowskie
+    name: Pojezierze Łagowskie
+    code: "315.42"
+    distance_meters: 40258.16
+    distance_km: 40.258
+    distance_percent: 66.9644
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+    distance_meters: 19860.63
+    distance_km: 19.861
+    distance_percent: 33.0356
+  macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+    distance_meters: 60118.79
+    distance_km: 60.119
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 60118.79
+    distance_km: 60.119
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 60118.79
+    distance_km: 60.119
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 60118.79
+    distance_km: 60.119
+    distance_percent: 100.0
+  touched_towns:
+  - slug: miedzyrzecz
+    name: Międzyrzecz
+    code: 0803023
+  - slug: lubrza
+    name: Lubrza
+    code: 0808012
+  - slug: lagow
+    name: Łagów
+    code: 0808022
+  - slug: sulecin
+    name: Sulęcin
+    code: 0807043
+  touched_counties:
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+  - slug: swiebodzinski
+    name: świebodziński
+    code: 0808
+  - slug: sulecinski
+    name: sulęciński
+    code: 0807
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+  - slug: pojezierze_lagowskie
+    name: Pojezierze Łagowskie
+    code: "315.42"
+  touched_macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

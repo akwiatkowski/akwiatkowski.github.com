@@ -1,0 +1,135 @@
+---
+- type: hike
+  total_distance_meters: 18411.03
+  total_distance_km: 18.411
+  points_count: 266.0
+  towns:
+  - slug: karpacz
+    name: Karpacz
+    code: "0206011"
+    distance_meters: 6163.03
+    distance_km: 6.163
+    distance_percent: 33.4747
+  - slug: kowary
+    name: Kowary
+    code: "0206021"
+    distance_meters: 5579.65
+    distance_km: 5.58
+    distance_percent: 30.306
+  - slug: kamienna_gora
+    name: Kamienna Góra
+    code: "0207022"
+    distance_meters: 3420.33
+    distance_km: 3.42
+    distance_percent: 18.5776
+  counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+    distance_meters: 11742.68
+    distance_km: 11.743
+    distance_percent: 63.7807
+  - slug: kamiennogorski
+    name: kamiennogórski
+    code: "0207"
+    distance_meters: 3420.33
+    distance_km: 3.42
+    distance_percent: 18.5776
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 15163.01
+    distance_km: 15.163
+    distance_percent: 82.3583
+  meso_regions:
+  - slug: karkonosze
+    name: Karkonosze
+    code: "332.37"
+    distance_meters: 13108.73
+    distance_km: 13.109
+    distance_percent: 71.2004
+  - slug: rudawy_janowickie
+    name: Rudawy Janowickie
+    code: "332.38"
+    distance_meters: 3343.15
+    distance_km: 3.343
+    distance_percent: 18.1584
+  - slug: kotlina_jeleniogorska
+    name: Kotlina Jeleniogórska
+    code: "332.36"
+    distance_meters: 5.23
+    distance_km: 0.005
+    distance_percent: 0.0284
+  macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 16457.12
+    distance_km: 16.457
+    distance_percent: 89.3873
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 16457.12
+    distance_km: 16.457
+    distance_percent: 89.3873
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 16457.12
+    distance_km: 16.457
+    distance_percent: 89.3873
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 16457.12
+    distance_km: 16.457
+    distance_percent: 89.3873
+  touched_towns:
+  - slug: kamienna_gora
+    name: Kamienna Góra
+    code: "0207022"
+  - slug: kowary
+    name: Kowary
+    code: "0206021"
+  - slug: karpacz
+    name: Karpacz
+    code: "0206011"
+  touched_counties:
+  - slug: kamiennogorski
+    name: kamiennogórski
+    code: "0207"
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: rudawy_janowickie
+    name: Rudawy Janowickie
+    code: "332.38"
+  - slug: karkonosze
+    name: Karkonosze
+    code: "332.37"
+  touched_macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

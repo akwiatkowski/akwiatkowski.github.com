@@ -1,0 +1,189 @@
+---
+- type: bicycle
+  total_distance_meters: 66678.92
+  total_distance_km: 66.679
+  points_count: 486.0
+  towns:
+  - slug: zukowo
+    name: Żukowo
+    code: "2205083"
+    distance_meters: 14953.75
+    distance_km: 14.954
+    distance_percent: 22.4265
+  - slug: szemud
+    name: Szemud
+    code: "2215092"
+    distance_meters: 12831.24
+    distance_km: 12.831
+    distance_percent: 19.2433
+  - slug: kartuzy
+    name: Kartuzy
+    code: "2205023"
+    distance_meters: 12113.1
+    distance_km: 12.113
+    distance_percent: 18.1663
+  - slug: wejherowo
+    name: Wejherowo
+    code: "2215102"
+    distance_meters: 11839.31
+    distance_km: 11.839
+    distance_percent: 17.7557
+  - slug: przodkowo
+    name: Przodkowo
+    code: "2205032"
+    distance_meters: 10630.19
+    distance_km: 10.63
+    distance_percent: 15.9424
+  - slug: wejherowo
+    name: Wejherowo
+    code: "2215031"
+    distance_meters: 2733.43
+    distance_km: 2.733
+    distance_percent: 4.0994
+  - slug: kolbudy
+    name: Kolbudy
+    code: "2204032"
+    distance_meters: 1577.9
+    distance_km: 1.578
+    distance_percent: 2.3664
+  counties:
+  - slug: kartuski
+    name: kartuski
+    code: "2205"
+    distance_meters: 37697.04
+    distance_km: 37.697
+    distance_percent: 56.5352
+  - slug: wejherowski
+    name: wejherowski
+    code: "2215"
+    distance_meters: 27403.98
+    distance_km: 27.404
+    distance_percent: 41.0984
+  - slug: gdanski
+    name: gdański
+    code: "2204"
+    distance_meters: 1577.9
+    distance_km: 1.578
+    distance_percent: 2.3664
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 66678.92
+    distance_km: 66.679
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_kaszubskie
+    name: Pojezierze Kaszubskie
+    code: "314.51"
+    distance_meters: 63325.15
+    distance_km: 63.325
+    distance_percent: 94.9703
+  - slug: pradolina_redyleby
+    name: Pradolina Redy-Łeby
+    code: "313.46"
+    distance_meters: 3353.78
+    distance_km: 3.354
+    distance_percent: 5.0297
+  macro_regions:
+  - slug: pojezierze_wschodniopomorskie
+    name: Pojezierze Wschodniopomorskie
+    code: 314-316
+    distance_meters: 63325.15
+    distance_km: 63.325
+    distance_percent: 94.9703
+  - slug: pobrzeze_koszalinskie
+    name: Pobrzeże Koszalińskie
+    code: "313"
+    distance_meters: 3353.78
+    distance_km: 3.354
+    distance_percent: 5.0297
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 66678.92
+    distance_km: 66.679
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 63325.15
+    distance_km: 63.325
+    distance_percent: 94.9703
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 3353.78
+    distance_km: 3.354
+    distance_percent: 5.0297
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 66678.92
+    distance_km: 66.679
+    distance_percent: 100.0
+  touched_towns:
+  - slug: wejherowo
+    name: Wejherowo
+    code: "2215031"
+  - slug: szemud
+    name: Szemud
+    code: "2215092"
+  - slug: przodkowo
+    name: Przodkowo
+    code: "2205032"
+  - slug: kartuzy
+    name: Kartuzy
+    code: "2205023"
+  - slug: zukowo
+    name: Żukowo
+    code: "2205083"
+  - slug: kolbudy
+    name: Kolbudy
+    code: "2204032"
+  touched_counties:
+  - slug: wejherowski
+    name: wejherowski
+    code: "2215"
+  - slug: kartuski
+    name: kartuski
+    code: "2205"
+  - slug: gdanski
+    name: gdański
+    code: "2204"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: pradolina_redyleby
+    name: Pradolina Redy-Łeby
+    code: "313.46"
+  - slug: pojezierze_kaszubskie
+    name: Pojezierze Kaszubskie
+    code: "314.51"
+  touched_macro_regions:
+  - slug: pobrzeze_koszalinskie
+    name: Pobrzeże Koszalińskie
+    code: "313"
+  - slug: pojezierze_wschodniopomorskie
+    name: Pojezierze Wschodniopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

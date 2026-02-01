@@ -1,0 +1,308 @@
+---
+- type: bicycle
+  total_distance_meters: 56010.35
+  total_distance_km: 56.01
+  points_count: 388.0
+  towns:
+  - slug: nowe_miasto_lubawskie
+    name: Nowe Miasto Lubawskie
+    code: "2812052"
+    distance_meters: 14197.01
+    distance_km: 14.197
+    distance_percent: 25.3471
+  - slug: zbiczno
+    name: Zbiczno
+    code: "0402102"
+    distance_meters: 13035.22
+    distance_km: 13.035
+    distance_percent: 23.2729
+  - slug: kurzetnik
+    name: Kurzętnik
+    code: "2812042"
+    distance_meters: 12155.98
+    distance_km: 12.156
+    distance_percent: 21.7031
+  - slug: bobrowo
+    name: Bobrowo
+    code: "0402022"
+    distance_meters: 8597.71
+    distance_km: 8.598
+    distance_percent: 15.3502
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+    distance_meters: 7922.66
+    distance_km: 7.923
+    distance_percent: 14.145
+  - slug: ilawa
+    name: Iława
+    code: "2807011"
+    distance_meters: 2571.89
+    distance_km: 2.572
+    distance_percent: 4.5918
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2812022"
+    distance_meters: 101.78
+    distance_km: 0.102
+    distance_percent: 0.1817
+  counties:
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+    distance_meters: 26454.76
+    distance_km: 26.455
+    distance_percent: 47.2319
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+    distance_meters: 21632.93
+    distance_km: 21.633
+    distance_percent: 38.6231
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+    distance_meters: 7922.66
+    distance_km: 7.923
+    distance_percent: 14.145
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 34377.42
+    distance_km: 34.377
+    distance_percent: 61.3769
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 21632.93
+    distance_km: 21.633
+    distance_percent: 38.6231
+  meso_regions:
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 42463.01
+    distance_km: 42.463
+    distance_percent: 75.8128
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+    distance_meters: 9224.5
+    distance_km: 9.224
+    distance_percent: 16.4693
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+    distance_meters: 4322.84
+    distance_km: 4.323
+    distance_percent: 7.7179
+  macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 46785.85
+    distance_km: 46.786
+    distance_percent: 83.5307
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 9224.5
+    distance_km: 9.224
+    distance_percent: 16.4693
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 56010.35
+    distance_km: 56.01
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 56010.35
+    distance_km: 56.01
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 56010.35
+    distance_km: 56.01
+    distance_percent: 100.0
+  touched_towns:
+  - slug: bobrowo
+    name: Bobrowo
+    code: "0402022"
+  - slug: zbiczno
+    name: Zbiczno
+    code: "0402102"
+  - slug: kurzetnik
+    name: Kurzętnik
+    code: "2812042"
+  - slug: nowe_miasto_lubawskie
+    name: Nowe Miasto Lubawskie
+    code: "2812052"
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2812022"
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+  touched_counties:
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+  touched_macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: bicycle
+  total_distance_meters: 13085.4
+  total_distance_km: 13.085
+  points_count: 86.0
+  towns:
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+    distance_meters: 11467.19
+    distance_km: 11.467
+    distance_percent: 87.6335
+  - slug: bobrowo
+    name: Bobrowo
+    code: "0402022"
+    distance_meters: 1618.21
+    distance_km: 1.618
+    distance_percent: 12.3665
+  counties:
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+    distance_meters: 13085.4
+    distance_km: 13.085
+    distance_percent: 100.0
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 13085.4
+    distance_km: 13.085
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 7719.06
+    distance_km: 7.719
+    distance_percent: 58.9899
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+    distance_meters: 5366.34
+    distance_km: 5.366
+    distance_percent: 41.0101
+  macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 13085.4
+    distance_km: 13.085
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 13085.4
+    distance_km: 13.085
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 13085.4
+    distance_km: 13.085
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 13085.4
+    distance_km: 13.085
+    distance_percent: 100.0
+  touched_towns:
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+  - slug: bobrowo
+    name: Bobrowo
+    code: "0402022"
+  touched_counties:
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+  touched_macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

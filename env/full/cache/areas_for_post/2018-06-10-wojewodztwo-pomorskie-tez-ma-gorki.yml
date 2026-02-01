@@ -1,0 +1,234 @@
+---
+- type: bicycle
+  total_distance_meters: 73974.19
+  total_distance_km: 73.974
+  points_count: 373.0
+  towns:
+  - slug: zalewo
+    name: Zalewo
+    code: "2807073"
+    distance_meters: 19540.62
+    distance_km: 19.541
+    distance_percent: 26.4154
+  - slug: stary_targ
+    name: Stary Targ
+    code: "2216042"
+    distance_meters: 15720.61
+    distance_km: 15.721
+    distance_percent: 21.2515
+  - slug: stary_dzierzgon
+    name: Stary Dzierzgoń
+    code: "2216032"
+    distance_meters: 13645.23
+    distance_km: 13.645
+    distance_percent: 18.4459
+  - slug: dzierzgon
+    name: Dzierzgoń
+    code: "2216013"
+    distance_meters: 10176.89
+    distance_km: 10.177
+    distance_percent: 13.7574
+  - slug: milomlyn
+    name: Miłomłyn
+    code: "2815073"
+    distance_meters: 8081.07
+    distance_km: 8.081
+    distance_percent: 10.9242
+  - slug: malbork
+    name: Malbork
+    code: "2209011"
+    distance_meters: 4218.06
+    distance_km: 4.218
+    distance_percent: 5.7021
+  - slug: malbork
+    name: Malbork
+    code: "2209042"
+    distance_meters: 2591.71
+    distance_km: 2.592
+    distance_percent: 3.5035
+  counties:
+  - slug: sztumski
+    name: sztumski
+    code: "2216"
+    distance_meters: 39542.73
+    distance_km: 39.543
+    distance_percent: 53.4548
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+    distance_meters: 19540.62
+    distance_km: 19.541
+    distance_percent: 26.4154
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 8081.07
+    distance_km: 8.081
+    distance_percent: 10.9242
+  - slug: malborski
+    name: malborski
+    code: "2209"
+    distance_meters: 6809.77
+    distance_km: 6.81
+    distance_percent: 9.2056
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 46352.51
+    distance_km: 46.353
+    distance_percent: 62.6604
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 27621.69
+    distance_km: 27.622
+    distance_percent: 37.3396
+  meso_regions:
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+    distance_meters: 70338.0
+    distance_km: 70.338
+    distance_percent: 95.0845
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+    distance_meters: 2320.98
+    distance_km: 2.321
+    distance_percent: 3.1375
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 1315.22
+    distance_km: 1.315
+    distance_percent: 1.7779
+  macro_regions:
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 72658.98
+    distance_km: 72.659
+    distance_percent: 98.2221
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 1315.22
+    distance_km: 1.315
+    distance_percent: 1.7779
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 72658.98
+    distance_km: 72.659
+    distance_percent: 98.2221
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 1315.22
+    distance_km: 1.315
+    distance_percent: 1.7779
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 72658.98
+    distance_km: 72.659
+    distance_percent: 98.2221
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 1315.22
+    distance_km: 1.315
+    distance_percent: 1.7779
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 72658.98
+    distance_km: 72.659
+    distance_percent: 98.2221
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 1315.22
+    distance_km: 1.315
+    distance_percent: 1.7779
+  touched_towns:
+  - slug: milomlyn
+    name: Miłomłyn
+    code: "2815073"
+  - slug: zalewo
+    name: Zalewo
+    code: "2807073"
+  - slug: stary_dzierzgon
+    name: Stary Dzierzgoń
+    code: "2216032"
+  - slug: dzierzgon
+    name: Dzierzgoń
+    code: "2216013"
+  - slug: stary_targ
+    name: Stary Targ
+    code: "2216042"
+  - slug: malbork
+    name: Malbork
+    code: "2209042"
+  touched_counties:
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+  - slug: sztumski
+    name: sztumski
+    code: "2216"
+  - slug: malborski
+    name: malborski
+    code: "2209"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,408 @@
+---
+- type: train
+  total_distance_meters: 222476.1
+  total_distance_km: 222.476
+  points_count: 255.0
+  towns:
+  - slug: szubin
+    name: Szubin
+    code: "0410053"
+    distance_meters: 24948.65
+    distance_km: 24.949
+    distance_percent: 11.2141
+  - slug: naklo_nad_notecia
+    name: Nakło nad Notecią
+    code: "0410033"
+    distance_meters: 17897.08
+    distance_km: 17.897
+    distance_percent: 8.0445
+  - slug: biale_blota
+    name: Białe Błota
+    code: "0403012"
+    distance_meters: 17116.0
+    distance_km: 17.116
+    distance_percent: 7.6934
+  - slug: kcynia
+    name: Kcynia
+    code: "0410013"
+    distance_meters: 15638.15
+    distance_km: 15.638
+    distance_percent: 7.0291
+  - slug: bydgoszcz
+    name: Bydgoszcz
+    code: "0461011"
+    distance_meters: 15042.14
+    distance_km: 15.042
+    distance_percent: 6.7612
+  - slug: wrzesnia
+    name: Września
+    code: "3030053"
+    distance_meters: 13914.2
+    distance_km: 13.914
+    distance_percent: 6.2542
+  - slug: kostrzyn
+    name: Kostrzyn
+    code: "3021083"
+    distance_meters: 13876.2
+    distance_km: 13.876
+    distance_percent: 6.2372
+  - slug: janowiec_wielkopolski
+    name: Janowiec Wielkopolski
+    code: 0419033
+    distance_meters: 11507.06
+    distance_km: 11.507
+    distance_percent: 5.1723
+  - slug: gniezno
+    name: Gniezno
+    code: "3003011"
+    distance_meters: 11052.79
+    distance_km: 11.053
+    distance_percent: 4.9681
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+    distance_meters: 10839.23
+    distance_km: 10.839
+    distance_percent: 4.8721
+  - slug: damaslawek
+    name: Damasławek
+    code: "3028022"
+    distance_meters: 10297.23
+    distance_km: 10.297
+    distance_percent: 4.6285
+  - slug: czerniejewo
+    name: Czerniejewo
+    code: "3003023"
+    distance_meters: 10115.35
+    distance_km: 10.115
+    distance_percent: 4.5467
+  - slug: nekla
+    name: Nekla
+    code: "3030033"
+    distance_meters: 9652.79
+    distance_km: 9.653
+    distance_percent: 4.3388
+  - slug: sicienko
+    name: Sicienko
+    code: "0403072"
+    distance_meters: 9461.64
+    distance_km: 9.462
+    distance_percent: 4.2529
+  - slug: swarzedz
+    name: Swarzędz
+    code: "3021163"
+    distance_meters: 8727.05
+    distance_km: 8.727
+    distance_percent: 3.9227
+  - slug: mieleszyn
+    name: Mieleszyn
+    code: "3003072"
+    distance_meters: 7743.64
+    distance_km: 7.744
+    distance_percent: 3.4807
+  - slug: wapno
+    name: Wapno
+    code: "3028062"
+    distance_meters: 7607.75
+    distance_km: 7.608
+    distance_percent: 3.4196
+  - slug: gniezno
+    name: Gniezno
+    code: "3003032"
+    distance_meters: 7039.14
+    distance_km: 7.039
+    distance_percent: 3.164
+  counties:
+  - slug: nakielski
+    name: nakielski
+    code: "0410"
+    distance_meters: 58483.88
+    distance_km: 58.484
+    distance_percent: 26.2877
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+    distance_meters: 35950.92
+    distance_km: 35.951
+    distance_percent: 16.1595
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 33442.48
+    distance_km: 33.442
+    distance_percent: 15.0319
+  - slug: bydgoski
+    name: bydgoski
+    code: "0403"
+    distance_meters: 26577.65
+    distance_km: 26.578
+    distance_percent: 11.9463
+  - slug: wrzesinski
+    name: wrzesiński
+    code: "3030"
+    distance_meters: 23566.99
+    distance_km: 23.567
+    distance_percent: 10.593
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 17904.98
+    distance_km: 17.905
+    distance_percent: 8.048
+  - slug: bydgoszcz
+    name: Bydgoszcz
+    code: "0461"
+    distance_meters: 15042.14
+    distance_km: 15.042
+    distance_percent: 6.7612
+  - slug: zninski
+    name: żniński
+    code: 0419
+    distance_meters: 11507.06
+    distance_km: 11.507
+    distance_percent: 5.1723
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+    distance_meters: 10839.23
+    distance_km: 10.839
+    distance_percent: 4.8721
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 111610.72
+    distance_km: 111.611
+    distance_percent: 50.1675
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 110865.38
+    distance_km: 110.865
+    distance_percent: 49.8325
+  meso_regions:
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 65259.08
+    distance_km: 65.259
+    distance_percent: 29.3331
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+    distance_meters: 64293.8
+    distance_km: 64.294
+    distance_percent: 28.8992
+  - slug: pojezierze_chodzieskie
+    name: Pojezierze Chodzieskie
+    code: "315.53"
+    distance_meters: 32497.52
+    distance_km: 32.498
+    distance_percent: 14.6072
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 29866.63
+    distance_km: 29.867
+    distance_percent: 13.4246
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+    distance_meters: 14470.94
+    distance_km: 14.471
+    distance_percent: 6.5045
+  - slug: dolina_srodkowej_noteci
+    name: Dolina Środkowej Noteci
+    code: "315.34"
+    distance_meters: 8987.6
+    distance_km: 8.988
+    distance_percent: 4.0398
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+    distance_meters: 3960.58
+    distance_km: 3.961
+    distance_percent: 1.7802
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 2589.48
+    distance_km: 2.589
+    distance_percent: 1.1639
+  - slug: pojezierze_poludniowokrajenskie
+    name: Pojezierze Południowokrajeńskie
+    code: "314.74"
+    distance_meters: 550.49
+    distance_km: 0.55
+    distance_percent: 0.2474
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 148644.21
+    distance_km: 148.644
+    distance_percent: 66.8136
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 73281.4
+    distance_km: 73.281
+    distance_percent: 32.939
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 550.49
+    distance_km: 0.55
+    distance_percent: 0.2474
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 222476.1
+    distance_km: 222.476
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 222476.1
+    distance_km: 222.476
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 222476.1
+    distance_km: 222.476
+    distance_percent: 100.0
+  touched_towns:
+  - slug: bydgoszcz
+    name: Bydgoszcz
+    code: "0461011"
+  - slug: biale_blota
+    name: Białe Błota
+    code: "0403012"
+  - slug: szubin
+    name: Szubin
+    code: "0410053"
+  - slug: sicienko
+    name: Sicienko
+    code: "0403072"
+  - slug: naklo_nad_notecia
+    name: Nakło nad Notecią
+    code: "0410033"
+  - slug: kcynia
+    name: Kcynia
+    code: "0410013"
+  - slug: wapno
+    name: Wapno
+    code: "3028062"
+  - slug: damaslawek
+    name: Damasławek
+    code: "3028022"
+  - slug: janowiec_wielkopolski
+    name: Janowiec Wielkopolski
+    code: 0419033
+  - slug: mieleszyn
+    name: Mieleszyn
+    code: "3003072"
+  - slug: gniezno
+    name: Gniezno
+    code: "3003032"
+  - slug: czerniejewo
+    name: Czerniejewo
+    code: "3003023"
+  - slug: wrzesnia
+    name: Września
+    code: "3030053"
+  - slug: nekla
+    name: Nekla
+    code: "3030033"
+  - slug: kostrzyn
+    name: Kostrzyn
+    code: "3021083"
+  - slug: swarzedz
+    name: Swarzędz
+    code: "3021163"
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+  touched_counties:
+  - slug: bydgoszcz
+    name: Bydgoszcz
+    code: "0461"
+  - slug: bydgoski
+    name: bydgoski
+    code: "0403"
+  - slug: nakielski
+    name: nakielski
+    code: "0410"
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  - slug: zninski
+    name: żniński
+    code: 0419
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+  - slug: wrzesinski
+    name: wrzesiński
+    code: "3030"
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+  - slug: dolina_srodkowej_noteci
+    name: Dolina Środkowej Noteci
+    code: "315.34"
+  - slug: pojezierze_chodzieskie
+    name: Pojezierze Chodzieskie
+    code: "315.53"
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  touched_macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

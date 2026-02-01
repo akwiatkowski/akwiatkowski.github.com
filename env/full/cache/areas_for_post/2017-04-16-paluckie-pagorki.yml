@@ -1,0 +1,165 @@
+---
+- type: car
+  total_distance_meters: 94946.69
+  total_distance_km: 94.947
+  points_count: 439.0
+  towns:
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+    distance_meters: 54574.67
+    distance_km: 54.575
+    distance_percent: 57.4793
+  - slug: trzemeszno
+    name: Trzemeszno
+    code: "3003093"
+    distance_meters: 22929.47
+    distance_km: 22.929
+    distance_percent: 24.1498
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+    distance_meters: 12241.49
+    distance_km: 12.241
+    distance_percent: 12.893
+  - slug: rogowo
+    name: Rogowo
+    code: 0419052
+    distance_meters: 2787.19
+    distance_km: 2.787
+    distance_percent: 2.9355
+  - slug: gasawa
+    name: Gąsawa
+    code: 0419022
+    distance_meters: 2413.88
+    distance_km: 2.414
+    distance_percent: 2.5423
+  counties:
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+    distance_meters: 66816.16
+    distance_km: 66.816
+    distance_percent: 70.3723
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+    distance_meters: 22929.47
+    distance_km: 22.929
+    distance_percent: 24.1498
+  - slug: zninski
+    name: żniński
+    code: 0419
+    distance_meters: 5201.07
+    distance_km: 5.201
+    distance_percent: 5.4779
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 72017.22
+    distance_km: 72.017
+    distance_percent: 75.8502
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 22929.47
+    distance_km: 22.929
+    distance_percent: 24.1498
+  meso_regions:
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+    distance_meters: 74596.71
+    distance_km: 74.597
+    distance_percent: 78.5669
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 20349.98
+    distance_km: 20.35
+    distance_percent: 21.4331
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 94946.69
+    distance_km: 94.947
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 94946.69
+    distance_km: 94.947
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 94946.69
+    distance_km: 94.947
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 94946.69
+    distance_km: 94.947
+    distance_percent: 100.0
+  touched_towns:
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+  - slug: trzemeszno
+    name: Trzemeszno
+    code: "3003093"
+  - slug: rogowo
+    name: Rogowo
+    code: 0419052
+  - slug: gasawa
+    name: Gąsawa
+    code: 0419022
+  touched_counties:
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+  - slug: zninski
+    name: żniński
+    code: 0419
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

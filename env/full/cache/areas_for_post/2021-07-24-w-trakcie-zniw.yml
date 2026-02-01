@@ -1,0 +1,183 @@
+---
+- type: bicycle
+  total_distance_meters: 66721.73
+  total_distance_km: 66.722
+  points_count: 362.0
+  towns:
+  - slug: rynsk
+    name: Ryńsk
+    code: "0417052"
+    distance_meters: 22456.35
+    distance_km: 22.456
+    distance_percent: 33.6567
+  - slug: swiecie_nad_osa
+    name: Świecie nad Osą
+    code: "0406062"
+    distance_meters: 13416.73
+    distance_km: 13.417
+    distance_percent: 20.1085
+  - slug: radzyn_chelminski
+    name: Radzyń Chełmiński
+    code: "0406043"
+    distance_meters: 11329.67
+    distance_km: 11.33
+    distance_percent: 16.9805
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+    distance_meters: 8124.13
+    distance_km: 8.124
+    distance_percent: 12.1761
+  - slug: gruta
+    name: Gruta
+    code: "0406022"
+    distance_meters: 5333.13
+    distance_km: 5.333
+    distance_percent: 7.9931
+  - slug: kowalewo_pomorskie
+    name: Kowalewo Pomorskie
+    code: "0405043"
+    distance_meters: 3048.52
+    distance_km: 3.049
+    distance_percent: 4.569
+  - slug: pluznica
+    name: Płużnica
+    code: "0417042"
+    distance_meters: 3013.18
+    distance_km: 3.013
+    distance_percent: 4.516
+  counties:
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+    distance_meters: 30079.54
+    distance_km: 30.08
+    distance_percent: 45.0821
+  - slug: wabrzeski
+    name: wąbrzeski
+    code: "0417"
+    distance_meters: 25469.54
+    distance_km: 25.47
+    distance_percent: 38.1728
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+    distance_meters: 8124.13
+    distance_km: 8.124
+    distance_percent: 12.1761
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+    distance_meters: 3048.52
+    distance_km: 3.049
+    distance_percent: 4.569
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 66721.73
+    distance_km: 66.722
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+    distance_meters: 50294.9
+    distance_km: 50.295
+    distance_percent: 75.3801
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 16426.83
+    distance_km: 16.427
+    distance_percent: 24.6199
+  macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 66721.73
+    distance_km: 66.722
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 66721.73
+    distance_km: 66.722
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 66721.73
+    distance_km: 66.722
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 66721.73
+    distance_km: 66.722
+    distance_percent: 100.0
+  touched_towns:
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+  - slug: swiecie_nad_osa
+    name: Świecie nad Osą
+    code: "0406062"
+  - slug: gruta
+    name: Gruta
+    code: "0406022"
+  - slug: radzyn_chelminski
+    name: Radzyń Chełmiński
+    code: "0406043"
+  - slug: rynsk
+    name: Ryńsk
+    code: "0417052"
+  - slug: pluznica
+    name: Płużnica
+    code: "0417042"
+  - slug: kowalewo_pomorskie
+    name: Kowalewo Pomorskie
+    code: "0405043"
+  touched_counties:
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+  - slug: wabrzeski
+    name: wąbrzeski
+    code: "0417"
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+  touched_macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

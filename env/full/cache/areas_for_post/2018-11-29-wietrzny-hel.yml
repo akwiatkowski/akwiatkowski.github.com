@@ -1,0 +1,84 @@
+---
+- type: hike
+  total_distance_meters: 6394.75
+  total_distance_km: 6.395
+  points_count: 98.0
+  towns:
+  - slug: hel
+    name: Hel
+    code: "2211011"
+    distance_meters: 5592.63
+    distance_km: 5.593
+    distance_percent: 87.4566
+  counties:
+  - slug: pucki
+    name: pucki
+    code: "2211"
+    distance_meters: 5592.63
+    distance_km: 5.593
+    distance_percent: 87.4566
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 5592.63
+    distance_km: 5.593
+    distance_percent: 87.4566
+  meso_regions:
+  - slug: mierzeja_helska
+    name: Mierzeja Helska
+    code: "313.52"
+    distance_meters: 6219.65
+    distance_km: 6.22
+    distance_percent: 97.2619
+  macro_regions: []
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 6219.65
+    distance_km: 6.22
+    distance_percent: 97.2619
+  subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 6219.65
+    distance_km: 6.22
+    distance_percent: 97.2619
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 6219.65
+    distance_km: 6.22
+    distance_percent: 97.2619
+  touched_towns:
+  - slug: hel
+    name: Hel
+    code: "2211011"
+  touched_counties:
+  - slug: pucki
+    name: pucki
+    code: "2211"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: mierzeja_helska
+    name: Mierzeja Helska
+    code: "313.52"
+  touched_macro_regions: []
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

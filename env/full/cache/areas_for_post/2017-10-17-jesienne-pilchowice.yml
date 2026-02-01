@@ -1,0 +1,129 @@
+---
+- type: hike
+  total_distance_meters: 13549.73
+  total_distance_km: 13.55
+  points_count: 219.0
+  towns:
+  - slug: jezow_sudecki
+    name: Jeżów Sudecki
+    code: "0206062"
+    distance_meters: 8647.36
+    distance_km: 8.647
+    distance_percent: 63.8195
+  - slug: wlen
+    name: Wleń
+    code: "0212053"
+    distance_meters: 4902.37
+    distance_km: 4.902
+    distance_percent: 36.1805
+  counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+    distance_meters: 8647.36
+    distance_km: 8.647
+    distance_percent: 63.8195
+  - slug: lwowecki
+    name: lwówecki
+    code: "0212"
+    distance_meters: 4902.37
+    distance_km: 4.902
+    distance_percent: 36.1805
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 13549.73
+    distance_km: 13.55
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pogorze_izerskie
+    name: Pogórze Izerskie
+    code: "332.26"
+    distance_meters: 8278.78
+    distance_km: 8.279
+    distance_percent: 61.0992
+  - slug: gory_kaczawskie
+    name: Góry Kaczawskie
+    code: "332.35"
+    distance_meters: 5270.95
+    distance_km: 5.271
+    distance_percent: 38.9008
+  macro_regions:
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+    distance_meters: 8278.78
+    distance_km: 8.279
+    distance_percent: 61.0992
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 5270.95
+    distance_km: 5.271
+    distance_percent: 38.9008
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 13549.73
+    distance_km: 13.55
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 13549.73
+    distance_km: 13.55
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 13549.73
+    distance_km: 13.55
+    distance_percent: 100.0
+  touched_towns:
+  - slug: jezow_sudecki
+    name: Jeżów Sudecki
+    code: "0206062"
+  - slug: wlen
+    name: Wleń
+    code: "0212053"
+  touched_counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+  - slug: lwowecki
+    name: lwówecki
+    code: "0212"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: pogorze_izerskie
+    name: Pogórze Izerskie
+    code: "332.26"
+  - slug: gory_kaczawskie
+    name: Góry Kaczawskie
+    code: "332.35"
+  touched_macro_regions:
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

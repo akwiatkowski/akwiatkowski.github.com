@@ -1,0 +1,111 @@
+---
+- type: bicycle
+  total_distance_meters: 20573.38
+  total_distance_km: 20.573
+  points_count: 117.0
+  towns:
+  - slug: wronki
+    name: Wronki
+    code: "3024083"
+    distance_meters: 13609.8
+    distance_km: 13.61
+    distance_percent: 66.1524
+  - slug: sierakow
+    name: Sieraków
+    code: "3014043"
+    distance_meters: 6963.59
+    distance_km: 6.964
+    distance_percent: 33.8476
+  counties:
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+    distance_meters: 13609.8
+    distance_km: 13.61
+    distance_percent: 66.1524
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+    distance_meters: 6963.59
+    distance_km: 6.964
+    distance_percent: 33.8476
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 20573.38
+    distance_km: 20.573
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 20573.38
+    distance_km: 20.573
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 20573.38
+    distance_km: 20.573
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 20573.38
+    distance_km: 20.573
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 20573.38
+    distance_km: 20.573
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 20573.38
+    distance_km: 20.573
+    distance_percent: 100.0
+  touched_towns:
+  - slug: wronki
+    name: Wronki
+    code: "3024083"
+  - slug: sierakow
+    name: Sieraków
+    code: "3014043"
+  touched_counties:
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  touched_macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

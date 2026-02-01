@@ -1,0 +1,84 @@
+---
+- type: hike
+  total_distance_meters: 2841.12
+  total_distance_km: 2.841
+  points_count: 61.0
+  towns:
+  - slug: jastarnia
+    name: Jastarnia
+    code: "2211023"
+    distance_meters: 2836.1
+    distance_km: 2.836
+    distance_percent: 99.8231
+  counties:
+  - slug: pucki
+    name: pucki
+    code: "2211"
+    distance_meters: 2836.1
+    distance_km: 2.836
+    distance_percent: 99.8231
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 2836.1
+    distance_km: 2.836
+    distance_percent: 99.8231
+  meso_regions:
+  - slug: mierzeja_helska
+    name: Mierzeja Helska
+    code: "313.52"
+    distance_meters: 2258.43
+    distance_km: 2.258
+    distance_percent: 79.4909
+  macro_regions: []
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 2258.43
+    distance_km: 2.258
+    distance_percent: 79.4909
+  subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 2258.43
+    distance_km: 2.258
+    distance_percent: 79.4909
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 2258.43
+    distance_km: 2.258
+    distance_percent: 79.4909
+  touched_towns:
+  - slug: jastarnia
+    name: Jastarnia
+    code: "2211023"
+  touched_counties:
+  - slug: pucki
+    name: pucki
+    code: "2211"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: mierzeja_helska
+    name: Mierzeja Helska
+    code: "313.52"
+  touched_macro_regions: []
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,216 @@
+---
+- type: bicycle
+  total_distance_meters: 56369.6
+  total_distance_km: 56.37
+  points_count: 196.0
+  towns:
+  - slug: osieczna
+    name: Osieczna
+    code: "3013033"
+    distance_meters: 17146.21
+    distance_km: 17.146
+    distance_percent: 30.4175
+  - slug: koscian
+    name: Kościan
+    code: "3011032"
+    distance_meters: 14729.67
+    distance_km: 14.73
+    distance_percent: 26.1305
+  - slug: poniec
+    name: Poniec
+    code: "3004073"
+    distance_meters: 6868.33
+    distance_km: 6.868
+    distance_percent: 12.1845
+  - slug: bojanowo
+    name: Bojanowo
+    code: "3022013"
+    distance_meters: 5631.15
+    distance_km: 5.631
+    distance_percent: 9.9897
+  - slug: krzemieniewo
+    name: Krzemieniewo
+    code: "3013012"
+    distance_meters: 5463.44
+    distance_km: 5.463
+    distance_percent: 9.6922
+  - slug: rydzyna
+    name: Rydzyna
+    code: "3013043"
+    distance_meters: 3523.29
+    distance_km: 3.523
+    distance_percent: 6.2503
+  - slug: krzywin
+    name: Krzywiń
+    code: "3011043"
+    distance_meters: 3007.51
+    distance_km: 3.008
+    distance_percent: 5.3353
+  - slug: koscian
+    name: Kościan
+    code: "3011011"
+    distance_meters: 1635.23
+    distance_km: 1.635
+    distance_percent: 2.9009
+  counties:
+  - slug: leszczynski
+    name: leszczyński
+    code: "3013"
+    distance_meters: 26132.93
+    distance_km: 26.133
+    distance_percent: 46.36
+  - slug: koscianski
+    name: kościański
+    code: "3011"
+    distance_meters: 17737.19
+    distance_km: 17.737
+    distance_percent: 31.4659
+  - slug: gostynski
+    name: gostyński
+    code: "3004"
+    distance_meters: 6868.33
+    distance_km: 6.868
+    distance_percent: 12.1845
+  - slug: rawicki
+    name: rawicki
+    code: "3022"
+    distance_meters: 5631.15
+    distance_km: 5.631
+    distance_percent: 9.9897
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 56369.6
+    distance_km: 56.37
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+    distance_meters: 26582.38
+    distance_km: 26.582
+    distance_percent: 47.1573
+  - slug: wysoczyzna_leszczynska
+    name: Wysoczyzna Leszczyńska
+    code: "318.11"
+    distance_meters: 26015.56
+    distance_km: 26.016
+    distance_percent: 46.1518
+  - slug: rownina_koscianska
+    name: Równina Kościańska
+    code: "315.83"
+    distance_meters: 3771.66
+    distance_km: 3.772
+    distance_percent: 6.6909
+  macro_regions:
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+    distance_meters: 30354.04
+    distance_km: 30.354
+    distance_percent: 53.8482
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+    distance_meters: 26015.56
+    distance_km: 26.016
+    distance_percent: 46.1518
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 56369.6
+    distance_km: 56.37
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 30354.04
+    distance_km: 30.354
+    distance_percent: 53.8482
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 26015.56
+    distance_km: 26.016
+    distance_percent: 46.1518
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 56369.6
+    distance_km: 56.37
+    distance_percent: 100.0
+  touched_towns:
+  - slug: bojanowo
+    name: Bojanowo
+    code: "3022013"
+  - slug: poniec
+    name: Poniec
+    code: "3004073"
+  - slug: rydzyna
+    name: Rydzyna
+    code: "3013043"
+  - slug: krzemieniewo
+    name: Krzemieniewo
+    code: "3013012"
+  - slug: osieczna
+    name: Osieczna
+    code: "3013033"
+  - slug: krzywin
+    name: Krzywiń
+    code: "3011043"
+  - slug: koscian
+    name: Kościan
+    code: "3011032"
+  touched_counties:
+  - slug: rawicki
+    name: rawicki
+    code: "3022"
+  - slug: gostynski
+    name: gostyński
+    code: "3004"
+  - slug: leszczynski
+    name: leszczyński
+    code: "3013"
+  - slug: koscianski
+    name: kościański
+    code: "3011"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: wysoczyzna_leszczynska
+    name: Wysoczyzna Leszczyńska
+    code: "318.11"
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+  - slug: rownina_koscianska
+    name: Równina Kościańska
+    code: "315.83"
+  touched_macro_regions:
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

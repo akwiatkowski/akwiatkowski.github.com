@@ -1,0 +1,201 @@
+---
+- type: bicycle
+  total_distance_meters: 85110.2
+  total_distance_km: 85.11
+  points_count: 468.0
+  towns:
+  - slug: polanow
+    name: Polanów
+    code: "3209063"
+    distance_meters: 33833.95
+    distance_km: 33.834
+    distance_percent: 39.7531
+  - slug: sianow
+    name: Sianów
+    code: "3209073"
+    distance_meters: 27782.5
+    distance_km: 27.782
+    distance_percent: 32.643
+  - slug: mielno
+    name: Mielno
+    code: "3209053"
+    distance_meters: 14205.52
+    distance_km: 14.206
+    distance_percent: 16.6907
+  - slug: miastko
+    name: Miastko
+    code: "2201063"
+    distance_meters: 5034.63
+    distance_km: 5.035
+    distance_percent: 5.9154
+  - slug: malechowo
+    name: Malechowo
+    code: "3213042"
+    distance_meters: 4253.61
+    distance_km: 4.254
+    distance_percent: 4.9978
+  counties:
+  - slug: koszalinski
+    name: koszaliński
+    code: "3209"
+    distance_meters: 75821.97
+    distance_km: 75.822
+    distance_percent: 89.0868
+  - slug: bytowski
+    name: bytowski
+    code: "2201"
+    distance_meters: 5034.63
+    distance_km: 5.035
+    distance_percent: 5.9154
+  - slug: slawienski
+    name: sławieński
+    code: "3213"
+    distance_meters: 4253.61
+    distance_km: 4.254
+    distance_percent: 4.9978
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 80075.57
+    distance_km: 80.076
+    distance_percent: 94.0846
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 5034.63
+    distance_km: 5.035
+    distance_percent: 5.9154
+  meso_regions:
+  - slug: rownina_slupska
+    name: Równina Słupska
+    code: "313.43"
+    distance_meters: 27147.68
+    distance_km: 27.148
+    distance_percent: 31.8971
+  - slug: wysoczyzna_polanowska
+    name: Wysoczyzna Polanowska
+    code: "314.46"
+    distance_meters: 27100.03
+    distance_km: 27.1
+    distance_percent: 31.8411
+  - slug: wybrzeze_koszalinskie
+    name: Wybrzeże Koszalińskie
+    code: "313.47"
+    distance_meters: 17679.77
+    distance_km: 17.68
+    distance_percent: 20.7728
+  - slug: pojezierze_bytowskie
+    name: Pojezierze Bytowskie
+    code: "314.47"
+    distance_meters: 12793.61
+    distance_km: 12.794
+    distance_percent: 15.0318
+  macro_regions:
+  - slug: pobrzeze_koszalinskie
+    name: Pobrzeże Koszalińskie
+    code: "313"
+    distance_meters: 44827.45
+    distance_km: 44.827
+    distance_percent: 52.6699
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 39893.64
+    distance_km: 39.894
+    distance_percent: 46.8729
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 84721.09
+    distance_km: 84.721
+    distance_percent: 99.5428
+  subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 44827.45
+    distance_km: 44.827
+    distance_percent: 52.6699
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 39893.64
+    distance_km: 39.894
+    distance_percent: 46.8729
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 84721.09
+    distance_km: 84.721
+    distance_percent: 99.5428
+  touched_towns:
+  - slug: miastko
+    name: Miastko
+    code: "2201063"
+  - slug: polanow
+    name: Polanów
+    code: "3209063"
+  - slug: malechowo
+    name: Malechowo
+    code: "3213042"
+  - slug: sianow
+    name: Sianów
+    code: "3209073"
+  - slug: mielno
+    name: Mielno
+    code: "3209053"
+  touched_counties:
+  - slug: bytowski
+    name: bytowski
+    code: "2201"
+  - slug: koszalinski
+    name: koszaliński
+    code: "3209"
+  - slug: slawienski
+    name: sławieński
+    code: "3213"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: wysoczyzna_polanowska
+    name: Wysoczyzna Polanowska
+    code: "314.46"
+  - slug: pojezierze_bytowskie
+    name: Pojezierze Bytowskie
+    code: "314.47"
+  - slug: rownina_slupska
+    name: Równina Słupska
+    code: "313.43"
+  - slug: wybrzeze_koszalinskie
+    name: Wybrzeże Koszalińskie
+    code: "313.47"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  - slug: pobrzeze_koszalinskie
+    name: Pobrzeże Koszalińskie
+    code: "313"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

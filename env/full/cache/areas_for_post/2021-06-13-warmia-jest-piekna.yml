@@ -1,0 +1,183 @@
+---
+- type: bicycle
+  total_distance_meters: 53416.1
+  total_distance_km: 53.416
+  points_count: 267.0
+  towns:
+  - slug: jeziorany
+    name: Jeziorany
+    code: "2814063"
+    distance_meters: 19057.08
+    distance_km: 19.057
+    distance_percent: 35.6767
+  - slug: dobre_miasto
+    name: Dobre Miasto
+    code: "2814033"
+    distance_meters: 11978.05
+    distance_km: 11.978
+    distance_percent: 22.424
+  - slug: kolno
+    name: Kolno
+    code: "2814082"
+    distance_meters: 10235.07
+    distance_km: 10.235
+    distance_percent: 19.161
+  - slug: dywity
+    name: Dywity
+    code: "2814042"
+    distance_meters: 6262.61
+    distance_km: 6.263
+    distance_percent: 11.7242
+  - slug: bisztynek
+    name: Bisztynek
+    code: "2801043"
+    distance_meters: 5883.3
+    distance_km: 5.883
+    distance_percent: 11.0141
+  counties:
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+    distance_meters: 47532.8
+    distance_km: 47.533
+    distance_percent: 88.9859
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+    distance_meters: 5883.3
+    distance_km: 5.883
+    distance_percent: 11.0141
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 53416.1
+    distance_km: 53.416
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wysoczyzna_jezioranskobisztynecka
+    name: Wysoczyzna Jeziorańsko-Bisztynecka
+    code: "842.89"
+    distance_meters: 41909.06
+    distance_km: 41.909
+    distance_percent: 78.4577
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+    distance_meters: 4831.37
+    distance_km: 4.831
+    distance_percent: 9.0448
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+    distance_meters: 3671.02
+    distance_km: 3.671
+    distance_percent: 6.8725
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+    distance_meters: 3004.64
+    distance_km: 3.005
+    distance_percent: 5.625
+  macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 50411.46
+    distance_km: 50.411
+    distance_percent: 94.375
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+    distance_meters: 3004.64
+    distance_km: 3.005
+    distance_percent: 5.625
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 53416.1
+    distance_km: 53.416
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 50411.46
+    distance_km: 50.411
+    distance_percent: 94.375
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+    distance_meters: 3004.64
+    distance_km: 3.005
+    distance_percent: 5.625
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 53416.1
+    distance_km: 53.416
+    distance_percent: 100.0
+  touched_towns:
+  - slug: dobre_miasto
+    name: Dobre Miasto
+    code: "2814033"
+  - slug: dywity
+    name: Dywity
+    code: "2814042"
+  - slug: jeziorany
+    name: Jeziorany
+    code: "2814063"
+  - slug: kolno
+    name: Kolno
+    code: "2814082"
+  - slug: bisztynek
+    name: Bisztynek
+    code: "2801043"
+  touched_counties:
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+  - slug: wysoczyzna_jezioranskobisztynecka
+    name: Wysoczyzna Jeziorańsko-Bisztynecka
+    code: "842.89"
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

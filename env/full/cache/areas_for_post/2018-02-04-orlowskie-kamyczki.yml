@@ -1,0 +1,138 @@
+---
+- type: hike
+  total_distance_meters: 2504.43
+  total_distance_km: 2.504
+  points_count: 43.0
+  towns:
+  - slug: sopot
+    name: Sopot
+    code: "2264011"
+    distance_meters: 1969.37
+    distance_km: 1.969
+    distance_percent: 78.6355
+  - slug: gdynia
+    name: Gdynia
+    code: "2262011"
+    distance_meters: 535.06
+    distance_km: 0.535
+    distance_percent: 21.3645
+  counties:
+  - slug: sopot
+    name: Sopot
+    code: "2264"
+    distance_meters: 1969.37
+    distance_km: 1.969
+    distance_percent: 78.6355
+  - slug: gdynia
+    name: Gdynia
+    code: "2262"
+    distance_meters: 535.06
+    distance_km: 0.535
+    distance_percent: 21.3645
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 2504.43
+    distance_km: 2.504
+    distance_percent: 100.0
+  meso_regions:
+  - slug: mierzeja_wislana
+    name: Mierzeja Wiślana
+    code: "313.53"
+    distance_meters: 1102.12
+    distance_km: 1.102
+    distance_percent: 44.0068
+  - slug: pojezierze_kaszubskie
+    name: Pojezierze Kaszubskie
+    code: "314.51"
+    distance_meters: 489.86
+    distance_km: 0.49
+    distance_percent: 19.5595
+  - slug: zulawy_wislane
+    name: Żuławy Wiślane
+    code: "313.54"
+    distance_meters: 409.5
+    distance_km: 0.41
+    distance_percent: 16.3512
+  macro_regions:
+  - slug: pobrzeze_gdanskie
+    name: Pobrzeże Gdańskie
+    code: "313"
+    distance_meters: 1511.62
+    distance_km: 1.512
+    distance_percent: 60.358
+  - slug: pojezierze_wschodniopomorskie
+    name: Pojezierze Wschodniopomorskie
+    code: 314-316
+    distance_meters: 489.86
+    distance_km: 0.49
+    distance_percent: 19.5595
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 2001.48
+    distance_km: 2.001
+    distance_percent: 79.9175
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 489.86
+    distance_km: 0.49
+    distance_percent: 19.5595
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 2001.48
+    distance_km: 2.001
+    distance_percent: 79.9175
+  touched_towns:
+  - slug: sopot
+    name: Sopot
+    code: "2264011"
+  - slug: gdynia
+    name: Gdynia
+    code: "2262011"
+  touched_counties:
+  - slug: sopot
+    name: Sopot
+    code: "2264"
+  - slug: gdynia
+    name: Gdynia
+    code: "2262"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: pojezierze_kaszubskie
+    name: Pojezierze Kaszubskie
+    code: "314.51"
+  - slug: zulawy_wislane
+    name: Żuławy Wiślane
+    code: "313.54"
+  - slug: mierzeja_wislana
+    name: Mierzeja Wiślana
+    code: "313.53"
+  touched_macro_regions:
+  - slug: pojezierze_wschodniopomorskie
+    name: Pojezierze Wschodniopomorskie
+    code: 314-316
+  - slug: pobrzeze_gdanskie
+    name: Pobrzeże Gdańskie
+    code: "313"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

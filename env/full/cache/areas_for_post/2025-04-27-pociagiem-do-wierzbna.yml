@@ -1,0 +1,129 @@
+---
+- type: train
+  total_distance_meters: 22653.49
+  total_distance_km: 22.653
+  points_count: 43.0
+  towns:
+  - slug: pszczew
+    name: Pszczew
+    code: 0803042
+    distance_meters: 17318.67
+    distance_km: 17.319
+    distance_percent: 76.4504
+  - slug: miedzyrzecz
+    name: Międzyrzecz
+    code: 0803023
+    distance_meters: 4449.09
+    distance_km: 4.449
+    distance_percent: 19.6397
+  - slug: przytoczna
+    name: Przytoczna
+    code: 0803032
+    distance_meters: 885.73
+    distance_km: 0.886
+    distance_percent: 3.9099
+  counties:
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+    distance_meters: 22653.49
+    distance_km: 22.653
+    distance_percent: 100.0
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 22653.49
+    distance_km: 22.653
+    distance_percent: 100.0
+  meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+    distance_meters: 15150.41
+    distance_km: 15.15
+    distance_percent: 66.8789
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 7503.08
+    distance_km: 7.503
+    distance_percent: 33.1211
+  macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+    distance_meters: 15150.41
+    distance_km: 15.15
+    distance_percent: 66.8789
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 7503.08
+    distance_km: 7.503
+    distance_percent: 33.1211
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 22653.49
+    distance_km: 22.653
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 22653.49
+    distance_km: 22.653
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 22653.49
+    distance_km: 22.653
+    distance_percent: 100.0
+  touched_towns:
+  - slug: miedzyrzecz
+    name: Międzyrzecz
+    code: 0803023
+  - slug: pszczew
+    name: Pszczew
+    code: 0803042
+  - slug: przytoczna
+    name: Przytoczna
+    code: 0803032
+  touched_counties:
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  touched_macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

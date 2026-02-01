@@ -1,0 +1,252 @@
+---
+- type: car
+  total_distance_meters: 165458.44
+  total_distance_km: 165.458
+  points_count: 558.0
+  towns:
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801032"
+    distance_meters: 36032.27
+    distance_km: 36.032
+    distance_percent: 21.7772
+  - slug: gorowo_ilaweckie
+    name: Górowo Iławeckie
+    code: "2801052"
+    distance_meters: 25768.13
+    distance_km: 25.768
+    distance_percent: 15.5738
+  - slug: bisztynek
+    name: Bisztynek
+    code: "2801043"
+    distance_meters: 21097.74
+    distance_km: 21.098
+    distance_percent: 12.7511
+  - slug: ketrzyn
+    name: Kętrzyn
+    code: "2808032"
+    distance_meters: 20200.53
+    distance_km: 20.201
+    distance_percent: 12.2088
+  - slug: reszel
+    name: Reszel
+    code: "2808053"
+    distance_meters: 18477.53
+    distance_km: 18.478
+    distance_percent: 11.1675
+  - slug: korsze
+    name: Korsze
+    code: "2808043"
+    distance_meters: 17697.9
+    distance_km: 17.698
+    distance_percent: 10.6963
+  - slug: lidzbark_warminski
+    name: Lidzbark Warmiński
+    code: "2809032"
+    distance_meters: 15406.06
+    distance_km: 15.406
+    distance_percent: 9.3111
+  - slug: kiwity
+    name: Kiwity
+    code: "2809022"
+    distance_meters: 10778.27
+    distance_km: 10.778
+    distance_percent: 6.5142
+  - slug: ketrzyn
+    name: Kętrzyn
+    code: "2808011"
+    distance_meters: 6103.13
+    distance_km: 6.103
+    distance_percent: 3.6886
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801011"
+    distance_meters: 6020.98
+    distance_km: 6.021
+    distance_percent: 3.639
+  - slug: lidzbark_warminski
+    name: Lidzbark Warmiński
+    code: "2809011"
+    distance_meters: 5714.48
+    distance_km: 5.714
+    distance_percent: 3.4537
+  - slug: gorowo_ilaweckie
+    name: Górowo Iławeckie
+    code: "2801021"
+    distance_meters: 3544.98
+    distance_km: 3.545
+    distance_percent: 2.1425
+  counties:
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+    distance_meters: 82898.14
+    distance_km: 82.898
+    distance_percent: 50.1021
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+    distance_meters: 56375.96
+    distance_km: 56.376
+    distance_percent: 34.0726
+  - slug: lidzbarski
+    name: lidzbarski
+    code: "2809"
+    distance_meters: 26184.34
+    distance_km: 26.184
+    distance_percent: 15.8253
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 165458.44
+    distance_km: 165.458
+    distance_percent: 100.0
+  meso_regions:
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+    distance_meters: 79335.03
+    distance_km: 79.335
+    distance_percent: 47.9486
+  - slug: wysoczyzna_jezioranskobisztynecka
+    name: Wysoczyzna Jeziorańsko-Bisztynecka
+    code: "842.89"
+    distance_meters: 28502.06
+    distance_km: 28.502
+    distance_percent: 17.2261
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+    distance_meters: 27137.44
+    distance_km: 27.137
+    distance_percent: 16.4014
+  - slug: wzniesienia_gorowskie
+    name: Wzniesienia Górowskie
+    code: "841.57"
+    distance_meters: 19260.0
+    distance_km: 19.26
+    distance_percent: 11.6404
+  - slug: kraina_wielkich_jezior_mazurskich
+    name: Kraina Wielkich Jezior Mazurskich
+    code: "842.83"
+    distance_meters: 11223.92
+    distance_km: 11.224
+    distance_percent: 6.7835
+  macro_regions:
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+    distance_meters: 98595.03
+    distance_km: 98.595
+    distance_percent: 59.589
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 66863.42
+    distance_km: 66.863
+    distance_percent: 40.411
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 165458.44
+    distance_km: 165.458
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+    distance_meters: 98595.03
+    distance_km: 98.595
+    distance_percent: 59.589
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 66863.42
+    distance_km: 66.863
+    distance_percent: 40.411
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 165458.44
+    distance_km: 165.458
+    distance_percent: 100.0
+  touched_towns:
+  - slug: ketrzyn
+    name: Kętrzyn
+    code: "2808032"
+  - slug: korsze
+    name: Korsze
+    code: "2808043"
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801032"
+  - slug: gorowo_ilaweckie
+    name: Górowo Iławeckie
+    code: "2801052"
+  - slug: lidzbark_warminski
+    name: Lidzbark Warmiński
+    code: "2809032"
+  - slug: kiwity
+    name: Kiwity
+    code: "2809022"
+  - slug: bisztynek
+    name: Bisztynek
+    code: "2801043"
+  - slug: reszel
+    name: Reszel
+    code: "2808053"
+  touched_counties:
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+  - slug: lidzbarski
+    name: lidzbarski
+    code: "2809"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: kraina_wielkich_jezior_mazurskich
+    name: Kraina Wielkich Jezior Mazurskich
+    code: "842.83"
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+  - slug: wzniesienia_gorowskie
+    name: Wzniesienia Górowskie
+    code: "841.57"
+  - slug: wysoczyzna_jezioranskobisztynecka
+    name: Wysoczyzna Jeziorańsko-Bisztynecka
+    code: "842.89"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

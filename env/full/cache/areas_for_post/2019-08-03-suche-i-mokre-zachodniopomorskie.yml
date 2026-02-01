@@ -1,0 +1,255 @@
+---
+- type: bicycle
+  total_distance_meters: 97452.07
+  total_distance_km: 97.452
+  points_count: 444.0
+  towns:
+  - slug: mysliborz
+    name: Myślibórz
+    code: "3210043"
+    distance_meters: 26353.77
+    distance_km: 26.354
+    distance_percent: 27.0428
+  - slug: lubiszyn
+    name: Lubiszyn
+    code: 0801052
+    distance_meters: 20075.31
+    distance_km: 20.075
+    distance_percent: 20.6002
+  - slug: przelewice
+    name: Przelewice
+    code: "3212042"
+    distance_meters: 18699.01
+    distance_km: 18.699
+    distance_percent: 19.1879
+  - slug: witnica
+    name: Witnica
+    code: 0801073
+    distance_meters: 12389.51
+    distance_km: 12.39
+    distance_percent: 12.7134
+  - slug: dolice
+    name: Dolice
+    code: "3214042"
+    distance_meters: 8569.97
+    distance_km: 8.57
+    distance_percent: 8.794
+  - slug: lipiany
+    name: Lipiany
+    code: "3212033"
+    distance_meters: 7577.24
+    distance_km: 7.577
+    distance_percent: 7.7754
+  - slug: pyrzyce
+    name: Pyrzyce
+    code: "3212053"
+    distance_meters: 3787.27
+    distance_km: 3.787
+    distance_percent: 3.8863
+  counties:
+  - slug: gorzowski
+    name: gorzowski
+    code: 0801
+    distance_meters: 32464.81
+    distance_km: 32.465
+    distance_percent: 33.3136
+  - slug: pyrzycki
+    name: pyrzycki
+    code: "3212"
+    distance_meters: 30063.52
+    distance_km: 30.064
+    distance_percent: 30.8495
+  - slug: mysliborski
+    name: myśliborski
+    code: "3210"
+    distance_meters: 26353.77
+    distance_km: 26.354
+    distance_percent: 27.0428
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+    distance_meters: 8569.97
+    distance_km: 8.57
+    distance_percent: 8.794
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 64987.26
+    distance_km: 64.987
+    distance_percent: 66.6864
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 32464.81
+    distance_km: 32.465
+    distance_percent: 33.3136
+  meso_regions:
+  - slug: rownina_pyrzycka
+    name: Równina Pyrzycka
+    code: "313.31"
+    distance_meters: 38602.18
+    distance_km: 38.602
+    distance_percent: 39.6115
+  - slug: rownina_gorzowska
+    name: Równina Gorzowska
+    code: "314.61"
+    distance_meters: 25657.26
+    distance_km: 25.657
+    distance_percent: 26.3281
+  - slug: pojezierze_mysliborskie
+    name: Pojezierze Myśliborskie
+    code: "314.41"
+    distance_meters: 24866.79
+    distance_km: 24.867
+    distance_percent: 25.5169
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 5669.33
+    distance_km: 5.669
+    distance_percent: 5.8176
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+    distance_meters: 2656.51
+    distance_km: 2.657
+    distance_percent: 2.726
+  macro_regions:
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+    distance_meters: 38602.18
+    distance_km: 38.602
+    distance_percent: 39.6115
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 27523.3
+    distance_km: 27.523
+    distance_percent: 28.2429
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 25657.26
+    distance_km: 25.657
+    distance_percent: 26.3281
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 5669.33
+    distance_km: 5.669
+    distance_percent: 5.8176
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 97452.07
+    distance_km: 97.452
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 58849.89
+    distance_km: 58.85
+    distance_percent: 60.3885
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 38602.18
+    distance_km: 38.602
+    distance_percent: 39.6115
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 97452.07
+    distance_km: 97.452
+    distance_percent: 100.0
+  touched_towns:
+  - slug: dolice
+    name: Dolice
+    code: "3214042"
+  - slug: przelewice
+    name: Przelewice
+    code: "3212042"
+  - slug: lipiany
+    name: Lipiany
+    code: "3212033"
+  - slug: pyrzyce
+    name: Pyrzyce
+    code: "3212053"
+  - slug: mysliborz
+    name: Myślibórz
+    code: "3210043"
+  - slug: lubiszyn
+    name: Lubiszyn
+    code: 0801052
+  - slug: witnica
+    name: Witnica
+    code: 0801073
+  touched_counties:
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+  - slug: pyrzycki
+    name: pyrzycki
+    code: "3212"
+  - slug: mysliborski
+    name: myśliborski
+    code: "3210"
+  - slug: gorzowski
+    name: gorzowski
+    code: 0801
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+  - slug: rownina_pyrzycka
+    name: Równina Pyrzycka
+    code: "313.31"
+  - slug: pojezierze_mysliborskie
+    name: Pojezierze Myśliborskie
+    code: "314.41"
+  - slug: rownina_gorzowska
+    name: Równina Gorzowska
+    code: "314.61"
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

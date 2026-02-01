@@ -1,0 +1,93 @@
+---
+- type: hike
+  total_distance_meters: 9184.61
+  total_distance_km: 9.185
+  points_count: 155.0
+  towns:
+  - slug: karpacz
+    name: Karpacz
+    code: "0206011"
+    distance_meters: 8272.06
+    distance_km: 8.272
+    distance_percent: 90.0643
+  counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+    distance_meters: 8272.06
+    distance_km: 8.272
+    distance_percent: 90.0643
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 8272.06
+    distance_km: 8.272
+    distance_percent: 90.0643
+  meso_regions:
+  - slug: karkonosze
+    name: Karkonosze
+    code: "332.37"
+    distance_meters: 8951.03
+    distance_km: 8.951
+    distance_percent: 97.4568
+  macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 8951.03
+    distance_km: 8.951
+    distance_percent: 97.4568
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 8951.03
+    distance_km: 8.951
+    distance_percent: 97.4568
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 8951.03
+    distance_km: 8.951
+    distance_percent: 97.4568
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 8951.03
+    distance_km: 8.951
+    distance_percent: 97.4568
+  touched_towns:
+  - slug: karpacz
+    name: Karpacz
+    code: "0206011"
+  touched_counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: karkonosze
+    name: Karkonosze
+    code: "332.37"
+  touched_macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

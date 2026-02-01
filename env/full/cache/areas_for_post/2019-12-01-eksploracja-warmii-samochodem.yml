@@ -1,0 +1,1453 @@
+---
+- type: car
+  total_distance_meters: 153049.77
+  total_distance_km: 153.05
+  points_count: 565.0
+  towns:
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+    distance_meters: 51675.98
+    distance_km: 51.676
+    distance_percent: 33.7642
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+    distance_meters: 39085.05
+    distance_km: 39.085
+    distance_percent: 25.5375
+  - slug: zalewo
+    name: Zalewo
+    code: "2807073"
+    distance_meters: 23402.02
+    distance_km: 23.402
+    distance_percent: 15.2905
+  - slug: lubawa
+    name: Lubawa
+    code: "2807052"
+    distance_meters: 19422.9
+    distance_km: 19.423
+    distance_percent: 12.6906
+  - slug: milomlyn
+    name: Miłomłyn
+    code: "2815073"
+    distance_meters: 17569.69
+    distance_km: 17.57
+    distance_percent: 11.4797
+  - slug: ilawa
+    name: Iława
+    code: "2807011"
+    distance_meters: 8874.74
+    distance_km: 8.875
+    distance_percent: 5.7986
+  - slug: lubawa
+    name: Lubawa
+    code: "2807021"
+    distance_meters: 6862.29
+    distance_km: 6.862
+    distance_percent: 4.4837
+  - slug: ostroda
+    name: Ostróda
+    code: "2815011"
+    distance_meters: 4235.25
+    distance_km: 4.235
+    distance_percent: 2.7672
+  - slug: dabrowno
+    name: Dąbrówno
+    code: "2815022"
+    distance_meters: 1894.12
+    distance_km: 1.894
+    distance_percent: 1.2376
+  counties:
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+    distance_meters: 81909.97
+    distance_km: 81.91
+    distance_percent: 53.5185
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 71139.8
+    distance_km: 71.14
+    distance_percent: 46.4815
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 153049.77
+    distance_km: 153.05
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+    distance_meters: 49789.98
+    distance_km: 49.79
+    distance_percent: 32.5319
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+    distance_meters: 43874.64
+    distance_km: 43.875
+    distance_percent: 28.6669
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 27401.57
+    distance_km: 27.402
+    distance_percent: 17.9037
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+    distance_meters: 23970.26
+    distance_km: 23.97
+    distance_percent: 15.6617
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+    distance_meters: 7129.91
+    distance_km: 7.13
+    distance_percent: 4.6586
+  - slug: pojezierze_lasinskie
+    name: Pojezierze Łasińskie
+    code: "314.92"
+    distance_meters: 883.41
+    distance_km: 0.883
+    distance_percent: 0.5772
+  macro_regions:
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 74643.65
+    distance_km: 74.644
+    distance_percent: 48.7708
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 51004.55
+    distance_km: 51.005
+    distance_percent: 33.3255
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 27401.57
+    distance_km: 27.402
+    distance_percent: 17.9037
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 125648.2
+    distance_km: 125.648
+    distance_percent: 82.0963
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 27401.57
+    distance_km: 27.402
+    distance_percent: 17.9037
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 125648.2
+    distance_km: 125.648
+    distance_percent: 82.0963
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 27401.57
+    distance_km: 27.402
+    distance_percent: 17.9037
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 125648.2
+    distance_km: 125.648
+    distance_percent: 82.0963
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 27401.57
+    distance_km: 27.402
+    distance_percent: 17.9037
+  touched_towns:
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+  - slug: milomlyn
+    name: Miłomłyn
+    code: "2815073"
+  - slug: zalewo
+    name: Zalewo
+    code: "2807073"
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+  - slug: lubawa
+    name: Lubawa
+    code: "2807052"
+  - slug: dabrowno
+    name: Dąbrówno
+    code: "2815022"
+  touched_counties:
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+  - slug: pojezierze_lasinskie
+    name: Pojezierze Łasińskie
+    code: "314.92"
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: car
+  total_distance_meters: 303647.83
+  total_distance_km: 303.648
+  points_count: 568.0
+  towns:
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+    distance_meters: 24815.18
+    distance_km: 24.815
+    distance_percent: 8.1724
+  - slug: golubdobrzyn
+    name: Golub-Dobrzyń
+    code: "0405032"
+    distance_meters: 22905.32
+    distance_km: 22.905
+    distance_percent: 7.5434
+  - slug: lubawa
+    name: Lubawa
+    code: "2807052"
+    distance_meters: 18483.91
+    distance_km: 18.484
+    distance_percent: 6.0873
+  - slug: gniewkowo
+    name: Gniewkowo
+    code: "0407033"
+    distance_meters: 16367.35
+    distance_km: 16.367
+    distance_percent: 5.3902
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+    distance_meters: 15695.26
+    distance_km: 15.695
+    distance_percent: 5.1689
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+    distance_meters: 15314.67
+    distance_km: 15.315
+    distance_percent: 5.0436
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+    distance_meters: 14353.47
+    distance_km: 14.353
+    distance_percent: 4.727
+  - slug: lubicz
+    name: Lubicz
+    code: "0415042"
+    distance_meters: 13580.51
+    distance_km: 13.581
+    distance_percent: 4.4725
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+    distance_meters: 13357.77
+    distance_km: 13.358
+    distance_percent: 4.3991
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+    distance_meters: 13316.98
+    distance_km: 13.317
+    distance_percent: 4.3857
+  - slug: trzemeszno
+    name: Trzemeszno
+    code: "3003093"
+    distance_meters: 13193.49
+    distance_km: 13.193
+    distance_percent: 4.345
+  - slug: lubowo
+    name: Łubowo
+    code: "3003062"
+    distance_meters: 12251.42
+    distance_km: 12.251
+    distance_percent: 4.0347
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+    distance_meters: 11339.42
+    distance_km: 11.339
+    distance_percent: 3.7344
+  - slug: ciechocin
+    name: Ciechocin
+    code: "0405022"
+    distance_meters: 10415.31
+    distance_km: 10.415
+    distance_percent: 3.4301
+  - slug: gniezno
+    name: Gniezno
+    code: "3003032"
+    distance_meters: 9955.98
+    distance_km: 9.956
+    distance_percent: 3.2788
+  - slug: kurzetnik
+    name: Kurzętnik
+    code: "2812042"
+    distance_meters: 9628.11
+    distance_km: 9.628
+    distance_percent: 3.1708
+  - slug: brodnica
+    name: Brodnica
+    code: "0402032"
+    distance_meters: 9619.14
+    distance_km: 9.619
+    distance_percent: 3.1679
+  - slug: swarzedz
+    name: Swarzędz
+    code: "3021163"
+    distance_meters: 8423.23
+    distance_km: 8.423
+    distance_percent: 2.774
+  - slug: obrowo
+    name: Obrowo
+    code: "0415072"
+    distance_meters: 7917.09
+    distance_km: 7.917
+    distance_percent: 2.6073
+  - slug: wielka_nieszawka
+    name: Wielka Nieszawka
+    code: 0415082
+    distance_meters: 7554.41
+    distance_km: 7.554
+    distance_percent: 2.4879
+  - slug: brzozie
+    name: Brzozie
+    code: "0402042"
+    distance_meters: 7287.63
+    distance_km: 7.288
+    distance_percent: 2.4
+  - slug: gniezno
+    name: Gniezno
+    code: "3003011"
+    distance_meters: 6504.16
+    distance_km: 6.504
+    distance_percent: 2.142
+  - slug: brodnica
+    name: Brodnica
+    code: "0402011"
+    distance_meters: 4999.32
+    distance_km: 4.999
+    distance_percent: 1.6464
+  - slug: nowe_miasto_lubawskie
+    name: Nowe Miasto Lubawskie
+    code: "2812011"
+    distance_meters: 4671.26
+    distance_km: 4.671
+    distance_percent: 1.5384
+  - slug: bobrowo
+    name: Bobrowo
+    code: "0402022"
+    distance_meters: 4629.22
+    distance_km: 4.629
+    distance_percent: 1.5245
+  - slug: nowe_miasto_lubawskie
+    name: Nowe Miasto Lubawskie
+    code: "2812052"
+    distance_meters: 4459.78
+    distance_km: 4.46
+    distance_percent: 1.4687
+  - slug: lubawa
+    name: Lubawa
+    code: "2807021"
+    distance_meters: 3307.91
+    distance_km: 3.308
+    distance_percent: 1.0894
+  - slug: golubdobrzyn
+    name: Golub-Dobrzyń
+    code: "0405011"
+    distance_meters: 3127.19
+    distance_km: 3.127
+    distance_percent: 1.0299
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+    distance_meters: 2608.45
+    distance_km: 2.608
+    distance_percent: 0.859
+  counties:
+  - slug: torunski
+    name: toruński
+    code: "0415"
+    distance_meters: 44747.26
+    distance_km: 44.747
+    distance_percent: 14.7366
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+    distance_meters: 41905.05
+    distance_km: 41.905
+    distance_percent: 13.8005
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 34116.12
+    distance_km: 34.116
+    distance_percent: 11.2354
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+    distance_meters: 33320.63
+    distance_km: 33.321
+    distance_percent: 10.9734
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+    distance_meters: 32333.58
+    distance_km: 32.334
+    distance_percent: 10.6484
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+    distance_meters: 28631.65
+    distance_km: 28.632
+    distance_percent: 9.4292
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+    distance_meters: 26535.31
+    distance_km: 26.535
+    distance_percent: 8.7388
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 24815.18
+    distance_km: 24.815
+    distance_percent: 8.1724
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+    distance_meters: 18759.15
+    distance_km: 18.759
+    distance_percent: 6.1779
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+    distance_meters: 18483.91
+    distance_km: 18.484
+    distance_percent: 6.0873
+  - slug: torun
+    name: Toruń
+    code: "0463"
+    distance_meters: 15695.26
+    distance_km: 15.695
+    distance_percent: 5.1689
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+    distance_meters: 11339.42
+    distance_km: 11.339
+    distance_percent: 3.7344
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 165568.43
+    distance_km: 165.568
+    distance_percent: 54.5265
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 76021.17
+    distance_km: 76.021
+    distance_percent: 25.036
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 62058.23
+    distance_km: 62.058
+    distance_percent: 20.4376
+  meso_regions:
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+    distance_meters: 47138.42
+    distance_km: 47.138
+    distance_percent: 15.524
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+    distance_meters: 43426.9
+    distance_km: 43.427
+    distance_percent: 14.3017
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+    distance_meters: 41199.09
+    distance_km: 41.199
+    distance_percent: 13.5681
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 35810.85
+    distance_km: 35.811
+    distance_percent: 11.7935
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+    distance_meters: 25671.55
+    distance_km: 25.672
+    distance_percent: 8.4544
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+    distance_meters: 25153.09
+    distance_km: 25.153
+    distance_percent: 8.2836
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 24927.86
+    distance_km: 24.928
+    distance_percent: 8.2095
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+    distance_meters: 23946.12
+    distance_km: 23.946
+    distance_percent: 7.8861
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 10520.27
+    distance_km: 10.52
+    distance_percent: 3.4646
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 10049.1
+    distance_km: 10.049
+    distance_percent: 3.3095
+  - slug: pojezierze_dobrzynskie
+    name: Pojezierze Dobrzyńskie
+    code: "315.14"
+    distance_meters: 7516.74
+    distance_km: 7.517
+    distance_percent: 2.4755
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+    distance_meters: 7358.26
+    distance_km: 7.358
+    distance_percent: 2.4233
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 929.59
+    distance_km: 0.93
+    distance_percent: 0.3061
+  macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 134273.87
+    distance_km: 134.274
+    distance_percent: 44.2203
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 134171.77
+    distance_km: 134.172
+    distance_percent: 44.1866
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 25153.09
+    distance_km: 25.153
+    distance_percent: 8.2836
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 10049.1
+    distance_km: 10.049
+    distance_percent: 3.3095
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 293598.73
+    distance_km: 293.599
+    distance_percent: 96.6905
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 10049.1
+    distance_km: 10.049
+    distance_percent: 3.3095
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 293598.73
+    distance_km: 293.599
+    distance_percent: 96.6905
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 10049.1
+    distance_km: 10.049
+    distance_percent: 3.3095
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 293598.73
+    distance_km: 293.599
+    distance_percent: 96.6905
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 10049.1
+    distance_km: 10.049
+    distance_percent: 3.3095
+  touched_towns:
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+  - slug: swarzedz
+    name: Swarzędz
+    code: "3021163"
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+  - slug: lubowo
+    name: Łubowo
+    code: "3003062"
+  - slug: gniezno
+    name: Gniezno
+    code: "3003011"
+  - slug: trzemeszno
+    name: Trzemeszno
+    code: "3003093"
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+  - slug: gniewkowo
+    name: Gniewkowo
+    code: "0407033"
+  - slug: wielka_nieszawka
+    name: Wielka Nieszawka
+    code: 0415082
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+  - slug: lubicz
+    name: Lubicz
+    code: "0415042"
+  - slug: obrowo
+    name: Obrowo
+    code: "0415072"
+  - slug: ciechocin
+    name: Ciechocin
+    code: "0405022"
+  - slug: golubdobrzyn
+    name: Golub-Dobrzyń
+    code: "0405032"
+  - slug: bobrowo
+    name: Bobrowo
+    code: "0402022"
+  - slug: brodnica
+    name: Brodnica
+    code: "0402032"
+  - slug: brzozie
+    name: Brzozie
+    code: "0402042"
+  - slug: kurzetnik
+    name: Kurzętnik
+    code: "2812042"
+  - slug: nowe_miasto_lubawskie
+    name: Nowe Miasto Lubawskie
+    code: "2812011"
+  - slug: lubawa
+    name: Lubawa
+    code: "2807052"
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+  - slug: torunski
+    name: toruński
+    code: "0415"
+  - slug: torun
+    name: Toruń
+    code: "0463"
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+  - slug: pojezierze_dobrzynskie
+    name: Pojezierze Dobrzyńskie
+    code: "315.14"
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+- type: car
+  total_distance_meters: 316216.39
+  total_distance_km: 316.216
+  points_count: 664.0
+  towns:
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+    distance_meters: 33128.27
+    distance_km: 33.128
+    distance_percent: 10.4765
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+    distance_meters: 24533.23
+    distance_km: 24.533
+    distance_percent: 7.7584
+  - slug: rynsk
+    name: Ryńsk
+    code: "0417052"
+    distance_meters: 21881.26
+    distance_km: 21.881
+    distance_percent: 6.9197
+  - slug: swiecie_nad_osa
+    name: Świecie nad Osą
+    code: "0406062"
+    distance_meters: 18623.78
+    distance_km: 18.624
+    distance_percent: 5.8896
+  - slug: gniewkowo
+    name: Gniewkowo
+    code: "0407033"
+    distance_meters: 16718.83
+    distance_km: 16.719
+    distance_percent: 5.2871
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+    distance_meters: 16055.43
+    distance_km: 16.055
+    distance_percent: 5.0774
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2812022"
+    distance_meters: 15659.73
+    distance_km: 15.66
+    distance_percent: 4.9522
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+    distance_meters: 15456.11
+    distance_km: 15.456
+    distance_percent: 4.8878
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+    distance_meters: 14383.2
+    distance_km: 14.383
+    distance_percent: 4.5485
+  - slug: radzyn_chelminski
+    name: Radzyń Chełmiński
+    code: "0406043"
+    distance_meters: 13558.7
+    distance_km: 13.559
+    distance_percent: 4.2878
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+    distance_meters: 12867.42
+    distance_km: 12.867
+    distance_percent: 4.0692
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+    distance_meters: 12859.87
+    distance_km: 12.86
+    distance_percent: 4.0668
+  - slug: trzemeszno
+    name: Trzemeszno
+    code: "3003093"
+    distance_meters: 12836.27
+    distance_km: 12.836
+    distance_percent: 4.0593
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+    distance_meters: 12790.84
+    distance_km: 12.791
+    distance_percent: 4.045
+  - slug: kowalewo_pomorskie
+    name: Kowalewo Pomorskie
+    code: "0405043"
+    distance_meters: 12679.86
+    distance_km: 12.68
+    distance_percent: 4.0099
+  - slug: lubowo
+    name: Łubowo
+    code: "3003062"
+    distance_meters: 11532.23
+    distance_km: 11.532
+    distance_percent: 3.6469
+  - slug: gniezno
+    name: Gniezno
+    code: "3003032"
+    distance_meters: 11156.23
+    distance_km: 11.156
+    distance_percent: 3.528
+  - slug: lubicz
+    name: Lubicz
+    code: "0415042"
+    distance_meters: 9400.82
+    distance_km: 9.401
+    distance_percent: 2.9729
+  - slug: swarzedz
+    name: Swarzędz
+    code: "3021163"
+    distance_meters: 8450.77
+    distance_km: 8.451
+    distance_percent: 2.6725
+  - slug: wielka_nieszawka
+    name: Wielka Nieszawka
+    code: 0415082
+    distance_meters: 7781.83
+    distance_km: 7.782
+    distance_percent: 2.4609
+  - slug: gniezno
+    name: Gniezno
+    code: "3003011"
+    distance_meters: 6394.63
+    distance_km: 6.395
+    distance_percent: 2.0222
+  - slug: kisielice
+    name: Kisielice
+    code: "2807043"
+    distance_meters: 4982.69
+    distance_km: 4.983
+    distance_percent: 1.5757
+  - slug: ilawa
+    name: Iława
+    code: "2807011"
+    distance_meters: 4752.07
+    distance_km: 4.752
+    distance_percent: 1.5028
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+    distance_meters: 2484.4
+    distance_km: 2.484
+    distance_percent: 0.7857
+  counties:
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+    distance_meters: 41919.37
+    distance_km: 41.919
+    distance_percent: 13.2565
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+    distance_meters: 38110.96
+    distance_km: 38.111
+    distance_percent: 12.0522
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 35701.39
+    distance_km: 35.701
+    distance_percent: 11.2902
+  - slug: torunski
+    name: toruński
+    code: "0415"
+    distance_meters: 32638.76
+    distance_km: 32.639
+    distance_percent: 10.3217
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+    distance_meters: 32182.47
+    distance_km: 32.182
+    distance_percent: 10.1774
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+    distance_meters: 32063.09
+    distance_km: 32.063
+    distance_percent: 10.1396
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+    distance_meters: 28846.27
+    distance_km: 28.846
+    distance_percent: 9.1223
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 24533.23
+    distance_km: 24.533
+    distance_percent: 7.7584
+  - slug: wabrzeski
+    name: wąbrzeski
+    code: "0417"
+    distance_meters: 21881.26
+    distance_km: 21.881
+    distance_percent: 6.9197
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+    distance_meters: 15659.73
+    distance_km: 15.66
+    distance_percent: 4.9522
+  - slug: torun
+    name: Toruń
+    code: "0463"
+    distance_meters: 15456.11
+    distance_km: 15.456
+    distance_percent: 4.8878
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+    distance_meters: 12867.42
+    distance_km: 12.867
+    distance_percent: 4.0692
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+    distance_meters: 12679.86
+    distance_km: 12.68
+    distance_percent: 4.0099
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 160291.71
+    distance_km: 160.292
+    distance_percent: 50.6905
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 78303.92
+    distance_km: 78.304
+    distance_percent: 24.7628
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 77620.76
+    distance_km: 77.621
+    distance_percent: 24.5467
+  meso_regions:
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+    distance_meters: 64655.18
+    distance_km: 64.655
+    distance_percent: 20.4465
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 44178.06
+    distance_km: 44.178
+    distance_percent: 13.9708
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+    distance_meters: 41376.17
+    distance_km: 41.376
+    distance_percent: 13.0848
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 36814.82
+    distance_km: 36.815
+    distance_percent: 11.6423
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+    distance_meters: 25270.69
+    distance_km: 25.271
+    distance_percent: 7.9916
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 23874.02
+    distance_km: 23.874
+    distance_percent: 7.5499
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+    distance_meters: 23637.88
+    distance_km: 23.638
+    distance_percent: 7.4752
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+    distance_meters: 19947.79
+    distance_km: 19.948
+    distance_percent: 6.3083
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+    distance_meters: 10894.11
+    distance_km: 10.894
+    distance_percent: 3.4451
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 9975.09
+    distance_km: 9.975
+    distance_percent: 3.1545
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+    distance_meters: 7747.2
+    distance_km: 7.747
+    distance_percent: 2.45
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+    distance_meters: 5647.82
+    distance_km: 5.648
+    distance_percent: 1.7861
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 2197.56
+    distance_km: 2.198
+    distance_percent: 0.695
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 135647.65
+    distance_km: 135.648
+    distance_percent: 42.8971
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 125375.18
+    distance_km: 125.375
+    distance_percent: 39.6485
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 25270.69
+    distance_km: 25.271
+    distance_percent: 7.9916
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 19947.79
+    distance_km: 19.948
+    distance_percent: 6.3083
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 9975.09
+    distance_km: 9.975
+    distance_percent: 3.1545
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 306241.3
+    distance_km: 306.241
+    distance_percent: 96.8455
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 9975.09
+    distance_km: 9.975
+    distance_percent: 3.1545
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 306241.3
+    distance_km: 306.241
+    distance_percent: 96.8455
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 9975.09
+    distance_km: 9.975
+    distance_percent: 3.1545
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 306241.3
+    distance_km: 306.241
+    distance_percent: 96.8455
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 9975.09
+    distance_km: 9.975
+    distance_percent: 3.1545
+  touched_towns:
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+  - slug: kisielice
+    name: Kisielice
+    code: "2807043"
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2812022"
+  - slug: swiecie_nad_osa
+    name: Świecie nad Osą
+    code: "0406062"
+  - slug: radzyn_chelminski
+    name: Radzyń Chełmiński
+    code: "0406043"
+  - slug: rynsk
+    name: Ryńsk
+    code: "0417052"
+  - slug: kowalewo_pomorskie
+    name: Kowalewo Pomorskie
+    code: "0405043"
+  - slug: lubicz
+    name: Lubicz
+    code: "0415042"
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+  - slug: wielka_nieszawka
+    name: Wielka Nieszawka
+    code: 0415082
+  - slug: gniewkowo
+    name: Gniewkowo
+    code: "0407033"
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+  - slug: trzemeszno
+    name: Trzemeszno
+    code: "3003093"
+  - slug: gniezno
+    name: Gniezno
+    code: "3003032"
+  - slug: lubowo
+    name: Łubowo
+    code: "3003062"
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+  - slug: swarzedz
+    name: Swarzędz
+    code: "3021163"
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+  touched_counties:
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+  - slug: wabrzeski
+    name: wąbrzeski
+    code: "0417"
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+  - slug: torunski
+    name: toruński
+    code: "0415"
+  - slug: torun
+    name: Toruń
+    code: "0463"
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

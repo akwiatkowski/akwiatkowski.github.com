@@ -1,0 +1,138 @@
+---
+- type: bicycle
+  total_distance_meters: 96907.74
+  total_distance_km: 96.908
+  points_count: 512.0
+  towns:
+  - slug: czersk
+    name: Czersk
+    code: "2202043"
+    distance_meters: 36443.93
+    distance_km: 36.444
+    distance_percent: 37.6068
+  - slug: karsin
+    name: Karsin
+    code: "2206032"
+    distance_meters: 29091.88
+    distance_km: 29.092
+    distance_percent: 30.0202
+  - slug: koscierzyna
+    name: Kościerzyna
+    code: "2206042"
+    distance_meters: 17994.86
+    distance_km: 17.995
+    distance_percent: 18.5691
+  - slug: brusy
+    name: Brusy
+    code: "2202023"
+    distance_meters: 7807.59
+    distance_km: 7.808
+    distance_percent: 8.0567
+  - slug: dziemiany
+    name: Dziemiany
+    code: "2206022"
+    distance_meters: 5569.48
+    distance_km: 5.569
+    distance_percent: 5.7472
+  counties:
+  - slug: koscierski
+    name: kościerski
+    code: "2206"
+    distance_meters: 52656.22
+    distance_km: 52.656
+    distance_percent: 54.3364
+  - slug: chojnicki
+    name: chojnicki
+    code: "2202"
+    distance_meters: 44251.52
+    distance_km: 44.252
+    distance_percent: 45.6636
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 96907.74
+    distance_km: 96.908
+    distance_percent: 100.0
+  meso_regions:
+  - slug: bory_tucholskie
+    name: Bory Tucholskie
+    code: "314.71"
+    distance_meters: 96907.74
+    distance_km: 96.908
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 96907.74
+    distance_km: 96.908
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 96907.74
+    distance_km: 96.908
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 96907.74
+    distance_km: 96.908
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 96907.74
+    distance_km: 96.908
+    distance_percent: 100.0
+  touched_towns:
+  - slug: czersk
+    name: Czersk
+    code: "2202043"
+  - slug: karsin
+    name: Karsin
+    code: "2206032"
+  - slug: koscierzyna
+    name: Kościerzyna
+    code: "2206042"
+  - slug: dziemiany
+    name: Dziemiany
+    code: "2206022"
+  - slug: brusy
+    name: Brusy
+    code: "2202023"
+  touched_counties:
+  - slug: chojnicki
+    name: chojnicki
+    code: "2202"
+  - slug: koscierski
+    name: kościerski
+    code: "2206"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: bory_tucholskie
+    name: Bory Tucholskie
+    code: "314.71"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

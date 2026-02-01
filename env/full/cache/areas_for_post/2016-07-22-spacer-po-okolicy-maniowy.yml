@@ -1,0 +1,93 @@
+---
+- type: hike
+  total_distance_meters: 6668.44
+  total_distance_km: 6.668
+  points_count: 109.0
+  towns:
+  - slug: czorsztyn
+    name: Czorsztyn
+    code: "1211042"
+    distance_meters: 6668.44
+    distance_km: 6.668
+    distance_percent: 100.0
+  counties:
+  - slug: nowotarski
+    name: nowotarski
+    code: "1211"
+    distance_meters: 6668.44
+    distance_km: 6.668
+    distance_percent: 100.0
+  voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+    distance_meters: 6668.44
+    distance_km: 6.668
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gorce
+    name: Gorce
+    code: "513.52"
+    distance_meters: 6668.44
+    distance_km: 6.668
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 6668.44
+    distance_km: 6.668
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 6668.44
+    distance_km: 6.668
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 6668.44
+    distance_km: 6.668
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 6668.44
+    distance_km: 6.668
+    distance_percent: 100.0
+  touched_towns:
+  - slug: czorsztyn
+    name: Czorsztyn
+    code: "1211042"
+  touched_counties:
+  - slug: nowotarski
+    name: nowotarski
+    code: "1211"
+  touched_voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+  touched_meso_regions:
+  - slug: gorce
+    name: Gorce
+    code: "513.52"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

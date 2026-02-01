@@ -1,0 +1,102 @@
+---
+- type: hike
+  total_distance_meters: 2710.99
+  total_distance_km: 2.711
+  points_count: 65.0
+  towns:
+  - slug: rzeszow
+    name: Rzeszów
+    code: "1863011"
+    distance_meters: 2710.99
+    distance_km: 2.711
+    distance_percent: 100.0
+  counties:
+  - slug: rzeszowski
+    name: rzeszowski
+    code: "1816"
+    distance_meters: 2710.99
+    distance_km: 2.711
+    distance_percent: 100.0
+  - slug: rzeszow
+    name: Rzeszów
+    code: "1863"
+    distance_meters: 2710.99
+    distance_km: 2.711
+    distance_percent: 100.0
+  voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+    distance_meters: 2710.99
+    distance_km: 2.711
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pogorze_strzyzowskie
+    name: Pogórze Strzyżowskie
+    code: "513.63"
+    distance_meters: 2710.99
+    distance_km: 2.711
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pogorze_srodkowobeskidzkie
+    name: Pogórze Środkowobeskidzkie
+    code: "513"
+    distance_meters: 2710.99
+    distance_km: 2.711
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 2710.99
+    distance_km: 2.711
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 2710.99
+    distance_km: 2.711
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 2710.99
+    distance_km: 2.711
+    distance_percent: 100.0
+  touched_towns:
+  - slug: rzeszow
+    name: Rzeszów
+    code: "1863011"
+  touched_counties:
+  - slug: rzeszowski
+    name: rzeszowski
+    code: "1816"
+  - slug: rzeszow
+    name: Rzeszów
+    code: "1863"
+  touched_voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+  touched_meso_regions:
+  - slug: pogorze_strzyzowskie
+    name: Pogórze Strzyżowskie
+    code: "513.63"
+  touched_macro_regions:
+  - slug: pogorze_srodkowobeskidzkie
+    name: Pogórze Środkowobeskidzkie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

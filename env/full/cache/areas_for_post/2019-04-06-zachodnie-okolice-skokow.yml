@@ -1,0 +1,129 @@
+---
+- type: bicycle
+  total_distance_meters: 32284.47
+  total_distance_km: 32.284
+  points_count: 233.0
+  towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+    distance_meters: 15265.58
+    distance_km: 15.266
+    distance_percent: 47.2846
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+    distance_meters: 9511.23
+    distance_km: 9.511
+    distance_percent: 29.4607
+  - slug: rogozno
+    name: Rogoźno
+    code: "3016023"
+    distance_meters: 7507.66
+    distance_km: 7.508
+    distance_percent: 23.2547
+  counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 15265.58
+    distance_km: 15.266
+    distance_percent: 47.2846
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 9511.23
+    distance_km: 9.511
+    distance_percent: 29.4607
+  - slug: obornicki
+    name: obornicki
+    code: "3016"
+    distance_meters: 7507.66
+    distance_km: 7.508
+    distance_percent: 23.2547
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 32284.47
+    distance_km: 32.284
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 32284.47
+    distance_km: 32.284
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 32284.47
+    distance_km: 32.284
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 32284.47
+    distance_km: 32.284
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 32284.47
+    distance_km: 32.284
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 32284.47
+    distance_km: 32.284
+    distance_percent: 100.0
+  touched_towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+  - slug: rogozno
+    name: Rogoźno
+    code: "3016023"
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+  touched_counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  - slug: obornicki
+    name: obornicki
+    code: "3016"
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

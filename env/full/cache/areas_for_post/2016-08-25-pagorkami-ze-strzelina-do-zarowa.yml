@@ -1,0 +1,228 @@
+---
+- type: bicycle
+  total_distance_meters: 78736.72
+  total_distance_km: 78.737
+  points_count: 621.0
+  towns:
+  - slug: marcinowice
+    name: Marcinowice
+    code: 0219052
+    distance_meters: 15457.8
+    distance_km: 15.458
+    distance_percent: 19.6323
+  - slug: lagiewniki
+    name: Łagiewniki
+    code: "0202062"
+    distance_meters: 14641.48
+    distance_km: 14.641
+    distance_percent: 18.5955
+  - slug: strzelin
+    name: Strzelin
+    code: "0217043"
+    distance_meters: 14399.94
+    distance_km: 14.4
+    distance_percent: 18.2887
+  - slug: niemcza
+    name: Niemcza
+    code: "0202073"
+    distance_meters: 10244.91
+    distance_km: 10.245
+    distance_percent: 13.0116
+  - slug: kondratowice
+    name: Kondratowice
+    code: "0217022"
+    distance_meters: 9624.36
+    distance_km: 9.624
+    distance_percent: 12.2235
+  - slug: zarow
+    name: Żarów
+    code: 0219083
+    distance_meters: 8711.37
+    distance_km: 8.711
+    distance_percent: 11.0639
+  - slug: dzierzoniow
+    name: Dzierżoniów
+    code: "0202052"
+    distance_meters: 4108.0
+    distance_km: 4.108
+    distance_percent: 5.2174
+  - slug: swidnica
+    name: Świdnica
+    code: 0219072
+    distance_meters: 1548.87
+    distance_km: 1.549
+    distance_percent: 1.9671
+  counties:
+  - slug: dzierzoniowski
+    name: dzierżoniowski
+    code: "0202"
+    distance_meters: 28994.38
+    distance_km: 28.994
+    distance_percent: 36.8245
+  - slug: swidnicki
+    name: świdnicki
+    code: 0219
+    distance_meters: 25718.04
+    distance_km: 25.718
+    distance_percent: 32.6633
+  - slug: strzelinski
+    name: strzeliński
+    code: "0217"
+    distance_meters: 24024.3
+    distance_km: 24.024
+    distance_percent: 30.5122
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 78736.72
+    distance_km: 78.737
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wzgorza_niemczanskostrzelinskie
+    name: Wzgórza Niemczańsko-Strzelińskie
+    code: "332.14"
+    distance_meters: 43246.93
+    distance_km: 43.247
+    distance_percent: 54.926
+  - slug: rownina_swidnicka
+    name: Równina Świdnicka
+    code: "332.12"
+    distance_meters: 24524.81
+    distance_km: 24.525
+    distance_percent: 31.1479
+  - slug: masyw_slezy
+    name: Masyw Ślęży
+    code: "332.13"
+    distance_meters: 9744.41
+    distance_km: 9.744
+    distance_percent: 12.3759
+  - slug: rownina_wroclawska
+    name: Równina Wrocławska
+    code: "318.53"
+    distance_meters: 1220.57
+    distance_km: 1.221
+    distance_percent: 1.5502
+  macro_regions:
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+    distance_meters: 77516.16
+    distance_km: 77.516
+    distance_percent: 98.4498
+  - slug: nizina_slaska
+    name: Nizina Śląska
+    code: "318"
+    distance_meters: 1220.57
+    distance_km: 1.221
+    distance_percent: 1.5502
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 78736.72
+    distance_km: 78.737
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 77516.16
+    distance_km: 77.516
+    distance_percent: 98.4498
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 1220.57
+    distance_km: 1.221
+    distance_percent: 1.5502
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 77516.16
+    distance_km: 77.516
+    distance_percent: 98.4498
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 1220.57
+    distance_km: 1.221
+    distance_percent: 1.5502
+  touched_towns:
+  - slug: strzelin
+    name: Strzelin
+    code: "0217043"
+  - slug: kondratowice
+    name: Kondratowice
+    code: "0217022"
+  - slug: niemcza
+    name: Niemcza
+    code: "0202073"
+  - slug: lagiewniki
+    name: Łagiewniki
+    code: "0202062"
+  - slug: dzierzoniow
+    name: Dzierżoniów
+    code: "0202052"
+  - slug: marcinowice
+    name: Marcinowice
+    code: 0219052
+  - slug: swidnica
+    name: Świdnica
+    code: 0219072
+  - slug: zarow
+    name: Żarów
+    code: 0219083
+  touched_counties:
+  - slug: strzelinski
+    name: strzeliński
+    code: "0217"
+  - slug: dzierzoniowski
+    name: dzierżoniowski
+    code: "0202"
+  - slug: swidnicki
+    name: świdnicki
+    code: 0219
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: rownina_wroclawska
+    name: Równina Wrocławska
+    code: "318.53"
+  - slug: wzgorza_niemczanskostrzelinskie
+    name: Wzgórza Niemczańsko-Strzelińskie
+    code: "332.14"
+  - slug: rownina_swidnicka
+    name: Równina Świdnicka
+    code: "332.12"
+  - slug: masyw_slezy
+    name: Masyw Ślęży
+    code: "332.13"
+  touched_macro_regions:
+  - slug: nizina_slaska
+    name: Nizina Śląska
+    code: "318"
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

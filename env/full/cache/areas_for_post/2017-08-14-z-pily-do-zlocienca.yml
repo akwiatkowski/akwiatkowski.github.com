@@ -1,0 +1,198 @@
+---
+- type: bicycle
+  total_distance_meters: 108205.42
+  total_distance_km: 108.205
+  points_count: 409.0
+  towns:
+  - slug: zlocieniec
+    name: Złocieniec
+    code: "3203063"
+    distance_meters: 34742.93
+    distance_km: 34.743
+    distance_percent: 32.1083
+  - slug: walcz
+    name: Wałcz
+    code: "3217052"
+    distance_meters: 29877.74
+    distance_km: 29.878
+    distance_percent: 27.6121
+  - slug: wierzchowo
+    name: Wierzchowo
+    code: "3203052"
+    distance_meters: 25155.1
+    distance_km: 25.155
+    distance_percent: 23.2475
+  - slug: szydlowo
+    name: Szydłowo
+    code: "3019062"
+    distance_meters: 13194.93
+    distance_km: 13.195
+    distance_percent: 12.1943
+  - slug: walcz
+    name: Wałcz
+    code: "3217011"
+    distance_meters: 5802.12
+    distance_km: 5.802
+    distance_percent: 5.3621
+  - slug: pila
+    name: Piła
+    code: "3019011"
+    distance_meters: 5234.72
+    distance_km: 5.235
+    distance_percent: 4.8378
+  counties:
+  - slug: drawski
+    name: drawski
+    code: "3203"
+    distance_meters: 59898.03
+    distance_km: 59.898
+    distance_percent: 55.3558
+  - slug: walecki
+    name: wałecki
+    code: "3217"
+    distance_meters: 29877.74
+    distance_km: 29.878
+    distance_percent: 27.6121
+  - slug: pilski
+    name: pilski
+    code: "3019"
+    distance_meters: 18429.65
+    distance_km: 18.43
+    distance_percent: 17.0321
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 89775.77
+    distance_km: 89.776
+    distance_percent: 82.9679
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 18429.65
+    distance_km: 18.43
+    distance_percent: 17.0321
+  meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+    distance_meters: 39472.89
+    distance_km: 39.473
+    distance_percent: 36.4796
+  - slug: pojezierze_waleckie
+    name: Pojezierze Wałeckie
+    code: "314.64"
+    distance_meters: 35101.99
+    distance_km: 35.102
+    distance_percent: 32.4401
+  - slug: rownina_walecka
+    name: Równina Wałecka
+    code: "314.65"
+    distance_meters: 27055.59
+    distance_km: 27.056
+    distance_percent: 25.0039
+  - slug: dolina_gwdy
+    name: Dolina Gwdy
+    code: "314.68"
+    distance_meters: 6574.95
+    distance_km: 6.575
+    distance_percent: 6.0764
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 68732.53
+    distance_km: 68.733
+    distance_percent: 63.5204
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 39472.89
+    distance_km: 39.473
+    distance_percent: 36.4796
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 108205.42
+    distance_km: 108.205
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 108205.42
+    distance_km: 108.205
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 108205.42
+    distance_km: 108.205
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pila
+    name: Piła
+    code: "3019011"
+  - slug: szydlowo
+    name: Szydłowo
+    code: "3019062"
+  - slug: walcz
+    name: Wałcz
+    code: "3217052"
+  - slug: wierzchowo
+    name: Wierzchowo
+    code: "3203052"
+  - slug: zlocieniec
+    name: Złocieniec
+    code: "3203063"
+  touched_counties:
+  - slug: pilski
+    name: pilski
+    code: "3019"
+  - slug: walecki
+    name: wałecki
+    code: "3217"
+  - slug: drawski
+    name: drawski
+    code: "3203"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: dolina_gwdy
+    name: Dolina Gwdy
+    code: "314.68"
+  - slug: pojezierze_waleckie
+    name: Pojezierze Wałeckie
+    code: "314.64"
+  - slug: rownina_walecka
+    name: Równina Wałecka
+    code: "314.65"
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

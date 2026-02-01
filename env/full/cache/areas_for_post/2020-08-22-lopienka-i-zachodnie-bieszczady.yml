@@ -1,0 +1,93 @@
+---
+- type: hike
+  total_distance_meters: 4753.37
+  total_distance_km: 4.753
+  points_count: 93.0
+  towns:
+  - slug: cisna
+    name: Cisna
+    code: "1821022"
+    distance_meters: 4753.37
+    distance_km: 4.753
+    distance_percent: 100.0
+  counties:
+  - slug: leski
+    name: leski
+    code: "1821"
+    distance_meters: 4753.37
+    distance_km: 4.753
+    distance_percent: 100.0
+  voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+    distance_meters: 4753.37
+    distance_km: 4.753
+    distance_percent: 100.0
+  meso_regions:
+  - slug: bieszczady_zachodnie
+    name: Bieszczady Zachodnie
+    code: "522.12"
+    distance_meters: 4753.37
+    distance_km: 4.753
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_lesiste
+    name: Beskidy Lesiste
+    code: "522"
+    distance_meters: 4753.37
+    distance_km: 4.753
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 4753.37
+    distance_km: 4.753
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_wschodnie_beskidy_wschodnie
+    name: Zewnętrzne Karpaty Wschodnie (Beskidy Wschodnie)
+    code: "52"
+    distance_meters: 4753.37
+    distance_km: 4.753
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_wschodnie_z_podkarpaciem_wschodnim
+    name: Karpaty Wschodnie z Podkarpaciem Wschodnim
+    code: "5"
+    distance_meters: 4753.37
+    distance_km: 4.753
+    distance_percent: 100.0
+  touched_towns:
+  - slug: cisna
+    name: Cisna
+    code: "1821022"
+  touched_counties:
+  - slug: leski
+    name: leski
+    code: "1821"
+  touched_voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+  touched_meso_regions:
+  - slug: bieszczady_zachodnie
+    name: Bieszczady Zachodnie
+    code: "522.12"
+  touched_macro_regions:
+  - slug: beskidy_lesiste
+    name: Beskidy Lesiste
+    code: "522"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_wschodnie_beskidy_wschodnie
+    name: Zewnętrzne Karpaty Wschodnie (Beskidy Wschodnie)
+    code: "52"
+  touched_provinces:
+  - slug: karpaty_wschodnie_z_podkarpaciem_wschodnim
+    name: Karpaty Wschodnie z Podkarpaciem Wschodnim
+    code: "5"

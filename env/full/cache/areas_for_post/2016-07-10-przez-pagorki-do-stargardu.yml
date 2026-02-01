@@ -1,0 +1,270 @@
+---
+- type: bicycle
+  total_distance_meters: 78595.05
+  total_distance_km: 78.595
+  points_count: 271.0
+  towns:
+  - slug: pelczyce
+    name: Pełczyce
+    code: "3202053"
+    distance_meters: 18739.75
+    distance_km: 18.74
+    distance_percent: 23.8434
+  - slug: strzelce_krajenskie
+    name: Strzelce Krajeńskie
+    code: 0806043
+    distance_meters: 17762.78
+    distance_km: 17.763
+    distance_percent: 22.6004
+  - slug: dolice
+    name: Dolice
+    code: "3214042"
+    distance_meters: 17438.98
+    distance_km: 17.439
+    distance_percent: 22.1884
+  - slug: przelewice
+    name: Przelewice
+    code: "3212042"
+    distance_meters: 10214.47
+    distance_km: 10.214
+    distance_percent: 12.9963
+  - slug: stargard
+    name: Stargard
+    code: "3214102"
+    distance_meters: 6005.82
+    distance_km: 6.006
+    distance_percent: 7.6415
+  - slug: stargard
+    name: Stargard
+    code: "3214011"
+    distance_meters: 3201.97
+    distance_km: 3.202
+    distance_percent: 4.074
+  - slug: barlinek
+    name: Barlinek
+    code: "3210013"
+    distance_meters: 2725.15
+    distance_km: 2.725
+    distance_percent: 3.4673
+  - slug: zwierzyn
+    name: Zwierzyn
+    code: 0806052
+    distance_meters: 2506.12
+    distance_km: 2.506
+    distance_percent: 3.1887
+  counties:
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+    distance_meters: 26646.78
+    distance_km: 26.647
+    distance_percent: 33.9039
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 20268.91
+    distance_km: 20.269
+    distance_percent: 25.789
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+    distance_meters: 18739.75
+    distance_km: 18.74
+    distance_percent: 23.8434
+  - slug: pyrzycki
+    name: pyrzycki
+    code: "3212"
+    distance_meters: 10214.47
+    distance_km: 10.214
+    distance_percent: 12.9963
+  - slug: mysliborski
+    name: myśliborski
+    code: "3210"
+    distance_meters: 2725.15
+    distance_km: 2.725
+    distance_percent: 3.4673
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 58326.14
+    distance_km: 58.326
+    distance_percent: 74.211
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 20268.91
+    distance_km: 20.269
+    distance_percent: 25.789
+  meso_regions:
+  - slug: rownina_pyrzycka
+    name: Równina Pyrzycka
+    code: "313.31"
+    distance_meters: 40365.48
+    distance_km: 40.365
+    distance_percent: 51.3588
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+    distance_meters: 22331.36
+    distance_km: 22.331
+    distance_percent: 28.4132
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+    distance_meters: 12580.61
+    distance_km: 12.581
+    distance_percent: 16.0069
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 2588.17
+    distance_km: 2.588
+    distance_percent: 3.2931
+  - slug: rownina_nowogardzka
+    name: Równina Nowogardzka
+    code: "313.32"
+    distance_meters: 729.43
+    distance_km: 0.729
+    distance_percent: 0.9281
+  macro_regions:
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+    distance_meters: 41094.91
+    distance_km: 41.095
+    distance_percent: 52.2869
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 22331.36
+    distance_km: 22.331
+    distance_percent: 28.4132
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 12580.61
+    distance_km: 12.581
+    distance_percent: 16.0069
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 2588.17
+    distance_km: 2.588
+    distance_percent: 3.2931
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 78595.05
+    distance_km: 78.595
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 41094.91
+    distance_km: 41.095
+    distance_percent: 52.2869
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 37500.14
+    distance_km: 37.5
+    distance_percent: 47.7131
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 78595.05
+    distance_km: 78.595
+    distance_percent: 100.0
+  touched_towns:
+  - slug: zwierzyn
+    name: Zwierzyn
+    code: 0806052
+  - slug: strzelce_krajenskie
+    name: Strzelce Krajeńskie
+    code: 0806043
+  - slug: pelczyce
+    name: Pełczyce
+    code: "3202053"
+  - slug: barlinek
+    name: Barlinek
+    code: "3210013"
+  - slug: przelewice
+    name: Przelewice
+    code: "3212042"
+  - slug: dolice
+    name: Dolice
+    code: "3214042"
+  - slug: stargard
+    name: Stargard
+    code: "3214102"
+  touched_counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+  - slug: mysliborski
+    name: myśliborski
+    code: "3210"
+  - slug: pyrzycki
+    name: pyrzycki
+    code: "3212"
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+  - slug: rownina_pyrzycka
+    name: Równina Pyrzycka
+    code: "313.31"
+  - slug: rownina_nowogardzka
+    name: Równina Nowogardzka
+    code: "313.32"
+  touched_macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

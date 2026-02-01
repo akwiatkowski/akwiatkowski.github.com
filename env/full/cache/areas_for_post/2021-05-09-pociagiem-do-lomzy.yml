@@ -1,0 +1,441 @@
+---
+- type: train
+  total_distance_meters: 371679.28
+  total_distance_km: 371.679
+  points_count: 290.0
+  towns:
+  - slug: goworowo
+    name: Goworowo
+    code: "1415042"
+    distance_meters: 40827.4
+    distance_km: 40.827
+    distance_percent: 10.9846
+  - slug: rzekun
+    name: Rzekuń
+    code: "1415102"
+    distance_meters: 33980.4
+    distance_km: 33.98
+    distance_percent: 9.1424
+  - slug: troszyn
+    name: Troszyn
+    code: "1415112"
+    distance_meters: 31218.67
+    distance_km: 31.219
+    distance_percent: 8.3994
+  - slug: wyszkow
+    name: Wyszków
+    code: "1435053"
+    distance_meters: 29522.72
+    distance_km: 29.523
+    distance_percent: 7.9431
+  - slug: warszawa
+    name: Warszawa
+    code: "1465011"
+    distance_meters: 28947.47
+    distance_km: 28.947
+    distance_percent: 7.7883
+  - slug: czerwin
+    name: Czerwin
+    code: "1415032"
+    distance_meters: 25852.09
+    distance_km: 25.852
+    distance_percent: 6.9555
+  - slug: sniadowo
+    name: Śniadowo
+    code: "2007072"
+    distance_meters: 25743.91
+    distance_km: 25.744
+    distance_percent: 6.9264
+  - slug: dlugosiodlo
+    name: Długosiodło
+    code: "1435022"
+    distance_meters: 22428.45
+    distance_km: 22.428
+    distance_percent: 6.0344
+  - slug: tluszcz
+    name: Tłuszcz
+    code: "1434113"
+    distance_meters: 16726.62
+    distance_km: 16.727
+    distance_percent: 4.5003
+  - slug: klembow
+    name: Klembów
+    code: "1434072"
+    distance_meters: 15826.3
+    distance_km: 15.826
+    distance_percent: 4.2581
+  - slug: zabrodzie
+    name: Zabrodzie
+    code: "1435062"
+    distance_meters: 12984.98
+    distance_km: 12.985
+    distance_percent: 3.4936
+  - slug: lomza
+    name: Łomża
+    code: "2007022"
+    distance_meters: 10772.35
+    distance_km: 10.772
+    distance_percent: 2.8983
+  - slug: radzymin
+    name: Radzymin
+    code: "1434093"
+    distance_meters: 9659.23
+    distance_km: 9.659
+    distance_percent: 2.5988
+  - slug: rzasnik
+    name: Rząśnik
+    code: "1435032"
+    distance_meters: 7585.92
+    distance_km: 7.586
+    distance_percent: 2.041
+  - slug: wolomin
+    name: Wołomin
+    code: "1434123"
+    distance_meters: 7536.29
+    distance_km: 7.536
+    distance_percent: 2.0276
+  - slug: nieporet
+    name: Nieporęt
+    code: "1408032"
+    distance_meters: 7232.9
+    distance_km: 7.233
+    distance_percent: 1.946
+  - slug: zielonka
+    name: Zielonka
+    code: "1434041"
+    distance_meters: 7220.2
+    distance_km: 7.22
+    distance_percent: 1.9426
+  - slug: branszczyk
+    name: Brańszczyk
+    code: "1435012"
+    distance_meters: 6378.88
+    distance_km: 6.379
+    distance_percent: 1.7162
+  - slug: ostroleka
+    name: Ostrołęka
+    code: "1461011"
+    distance_meters: 6167.74
+    distance_km: 6.168
+    distance_percent: 1.6594
+  - slug: lomza
+    name: Łomża
+    code: "2062011"
+    distance_meters: 5954.78
+    distance_km: 5.955
+    distance_percent: 1.6021
+  - slug: jablonna
+    name: Jabłonna
+    code: "1408022"
+    distance_meters: 4462.0
+    distance_km: 4.462
+    distance_percent: 1.2005
+  - slug: wieliszew
+    name: Wieliszew
+    code: "1408052"
+    distance_meters: 4093.28
+    distance_km: 4.093
+    distance_percent: 1.1013
+  - slug: kobylka
+    name: Kobyłka
+    code: "1434011"
+    distance_meters: 4007.44
+    distance_km: 4.007
+    distance_percent: 1.0782
+  - slug: wasewo
+    name: Wąsewo
+    code: "1416102"
+    distance_meters: 3894.88
+    distance_km: 3.895
+    distance_percent: 1.0479
+  - slug: legionowo
+    name: Legionowo
+    code: "1408011"
+    distance_meters: 2654.38
+    distance_km: 2.654
+    distance_percent: 0.7142
+  counties:
+  - slug: ostrolecki
+    name: ostrołęcki
+    code: "1415"
+    distance_meters: 138046.3
+    distance_km: 138.046
+    distance_percent: 37.1412
+  - slug: wyszkowski
+    name: wyszkowski
+    code: "1435"
+    distance_meters: 78900.95
+    distance_km: 78.901
+    distance_percent: 21.2282
+  - slug: wolominski
+    name: wołomiński
+    code: "1434"
+    distance_meters: 60976.07
+    distance_km: 60.976
+    distance_percent: 16.4056
+  - slug: lomzynski
+    name: łomżyński
+    code: "2007"
+    distance_meters: 42471.05
+    distance_km: 42.471
+    distance_percent: 11.4268
+  - slug: warszawa
+    name: Warszawa
+    code: "1465"
+    distance_meters: 28947.47
+    distance_km: 28.947
+    distance_percent: 7.7883
+  - slug: legionowski
+    name: legionowski
+    code: "1408"
+    distance_meters: 18442.55
+    distance_km: 18.443
+    distance_percent: 4.962
+  - slug: ostroleka
+    name: Ostrołęka
+    code: "1461"
+    distance_meters: 6167.74
+    distance_km: 6.168
+    distance_percent: 1.6594
+  - slug: lomza
+    name: Łomża
+    code: "2062"
+    distance_meters: 5954.78
+    distance_km: 5.955
+    distance_percent: 1.6021
+  - slug: ostrowski
+    name: ostrowski
+    code: "1416"
+    distance_meters: 3894.88
+    distance_km: 3.895
+    distance_percent: 1.0479
+  voivodeships:
+  - slug: mazowieckie
+    name: MAZOWIECKIE
+    code: "14"
+    distance_meters: 329208.24
+    distance_km: 329.208
+    distance_percent: 88.5732
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+    distance_meters: 42471.05
+    distance_km: 42.471
+    distance_percent: 11.4268
+  meso_regions:
+  - slug: miedzyrzecze_lomzynskie
+    name: Międzyrzecze Łomżyńskie
+    code: "318.67"
+    distance_meters: 212943.97
+    distance_km: 212.944
+    distance_percent: 57.2924
+  - slug: rownina_wolominska
+    name: Równina Wołomińska
+    code: "318.78"
+    distance_meters: 76969.53
+    distance_km: 76.97
+    distance_percent: 20.7086
+  - slug: kotlina_warszawska
+    name: Kotlina Warszawska
+    code: "318.73"
+    distance_meters: 39308.07
+    distance_km: 39.308
+    distance_percent: 10.5758
+  - slug: dolina_dolnej_narwi
+    name: Dolina Dolnej Narwi
+    code: "318.66"
+    distance_meters: 22871.3
+    distance_km: 22.871
+    distance_percent: 6.1535
+  - slug: dolina_dolnego_bugu
+    name: Dolina Dolnego Bugu
+    code: "318.74"
+    distance_meters: 14068.21
+    distance_km: 14.068
+    distance_percent: 3.785
+  - slug: dolina_srodkowej_wisly
+    name: Dolina Środkowej Wisły
+    code: "318.75"
+    distance_meters: 4715.2
+    distance_km: 4.715
+    distance_percent: 1.2686
+  - slug: rownina_warszawska
+    name: Równina Warszawska
+    code: "318.76"
+    distance_meters: 803.0
+    distance_km: 0.803
+    distance_percent: 0.216
+  macro_regions:
+  - slug: nizina_polnocnomazowiecka
+    name: Nizina Północnomazowiecka
+    code: "318"
+    distance_meters: 235815.27
+    distance_km: 235.815
+    distance_percent: 63.4459
+  - slug: nizina_srodkowomazowiecka
+    name: Nizina Środkowomazowiecka
+    code: "318"
+    distance_meters: 135864.01
+    distance_km: 135.864
+    distance_percent: 36.5541
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 371679.29
+    distance_km: 371.679
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 371679.29
+    distance_km: 371.679
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 371679.29
+    distance_km: 371.679
+    distance_percent: 100.0
+  touched_towns:
+  - slug: warszawa
+    name: Warszawa
+    code: "1465011"
+  - slug: zielonka
+    name: Zielonka
+    code: "1434041"
+  - slug: klembow
+    name: Klembów
+    code: "1434072"
+  - slug: tluszcz
+    name: Tłuszcz
+    code: "1434113"
+  - slug: zabrodzie
+    name: Zabrodzie
+    code: "1435062"
+  - slug: wyszkow
+    name: Wyszków
+    code: "1435053"
+  - slug: rzasnik
+    name: Rząśnik
+    code: "1435032"
+  - slug: goworowo
+    name: Goworowo
+    code: "1415042"
+  - slug: ostroleka
+    name: Ostrołęka
+    code: "1461011"
+  - slug: rzekun
+    name: Rzekuń
+    code: "1415102"
+  - slug: troszyn
+    name: Troszyn
+    code: "1415112"
+  - slug: sniadowo
+    name: Śniadowo
+    code: "2007072"
+  - slug: lomza
+    name: Łomża
+    code: "2007022"
+  - slug: czerwin
+    name: Czerwin
+    code: "1415032"
+  - slug: wasewo
+    name: Wąsewo
+    code: "1416102"
+  - slug: dlugosiodlo
+    name: Długosiodło
+    code: "1435022"
+  - slug: radzymin
+    name: Radzymin
+    code: "1434093"
+  - slug: nieporet
+    name: Nieporęt
+    code: "1408032"
+  - slug: wieliszew
+    name: Wieliszew
+    code: "1408052"
+  - slug: legionowo
+    name: Legionowo
+    code: "1408011"
+  - slug: jablonna
+    name: Jabłonna
+    code: "1408022"
+  touched_counties:
+  - slug: warszawa
+    name: Warszawa
+    code: "1465"
+  - slug: wolominski
+    name: wołomiński
+    code: "1434"
+  - slug: wyszkowski
+    name: wyszkowski
+    code: "1435"
+  - slug: ostrolecki
+    name: ostrołęcki
+    code: "1415"
+  - slug: ostroleka
+    name: Ostrołęka
+    code: "1461"
+  - slug: lomzynski
+    name: łomżyński
+    code: "2007"
+  - slug: lomza
+    name: Łomża
+    code: "2062"
+  - slug: ostrowski
+    name: ostrowski
+    code: "1416"
+  - slug: legionowski
+    name: legionowski
+    code: "1408"
+  touched_voivodeships:
+  - slug: mazowieckie
+    name: MAZOWIECKIE
+    code: "14"
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+  touched_meso_regions:
+  - slug: rownina_warszawska
+    name: Równina Warszawska
+    code: "318.76"
+  - slug: kotlina_warszawska
+    name: Kotlina Warszawska
+    code: "318.73"
+  - slug: dolina_srodkowej_wisly
+    name: Dolina Środkowej Wisły
+    code: "318.75"
+  - slug: rownina_wolominska
+    name: Równina Wołomińska
+    code: "318.78"
+  - slug: dolina_dolnego_bugu
+    name: Dolina Dolnego Bugu
+    code: "318.74"
+  - slug: miedzyrzecze_lomzynskie
+    name: Międzyrzecze Łomżyńskie
+    code: "318.67"
+  - slug: dolina_dolnej_narwi
+    name: Dolina Dolnej Narwi
+    code: "318.66"
+  touched_macro_regions:
+  - slug: nizina_srodkowomazowiecka
+    name: Nizina Środkowomazowiecka
+    code: "318"
+  - slug: nizina_polnocnomazowiecka
+    name: Nizina Północnomazowiecka
+    code: "318"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

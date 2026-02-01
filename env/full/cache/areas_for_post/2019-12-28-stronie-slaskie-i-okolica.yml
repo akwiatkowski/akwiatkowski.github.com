@@ -1,0 +1,111 @@
+---
+- type: hike
+  total_distance_meters: 12637.22
+  total_distance_km: 12.637
+  points_count: 166.0
+  towns:
+  - slug: stronie_slaskie
+    name: Stronie Śląskie
+    code: 0208133
+    distance_meters: 11783.26
+    distance_km: 11.783
+    distance_percent: 93.2425
+  - slug: bystrzyca_klodzka
+    name: Bystrzyca Kłodzka
+    code: 0208063
+    distance_meters: 853.96
+    distance_km: 0.854
+    distance_percent: 6.7575
+  counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+    distance_meters: 12637.22
+    distance_km: 12.637
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 12637.22
+    distance_km: 12.637
+    distance_percent: 100.0
+  meso_regions:
+  - slug: masyw_snieznika
+    name: Masyw Śnieżnika
+    code: "332.62"
+    distance_meters: 12041.43
+    distance_km: 12.041
+    distance_percent: 95.2855
+  - slug: gory_zlote
+    name: Góry Złote
+    code: "332.61"
+    distance_meters: 595.78
+    distance_km: 0.596
+    distance_percent: 4.7145
+  macro_regions:
+  - slug: sudety_wschodnie
+    name: Sudety Wschodnie
+    code: "332"
+    distance_meters: 12637.22
+    distance_km: 12.637
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 12637.22
+    distance_km: 12.637
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 12637.22
+    distance_km: 12.637
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 12637.22
+    distance_km: 12.637
+    distance_percent: 100.0
+  touched_towns:
+  - slug: stronie_slaskie
+    name: Stronie Śląskie
+    code: 0208133
+  - slug: bystrzyca_klodzka
+    name: Bystrzyca Kłodzka
+    code: 0208063
+  touched_counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_zlote
+    name: Góry Złote
+    code: "332.61"
+  - slug: masyw_snieznika
+    name: Masyw Śnieżnika
+    code: "332.62"
+  touched_macro_regions:
+  - slug: sudety_wschodnie
+    name: Sudety Wschodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

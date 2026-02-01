@@ -1,0 +1,156 @@
+---
+- type: bicycle
+  total_distance_meters: 49236.39
+  total_distance_km: 49.236
+  points_count: 270.0
+  towns:
+  - slug: krzecin
+    name: Krzęcin
+    code: "3202042"
+    distance_meters: 18384.56
+    distance_km: 18.385
+    distance_percent: 37.3394
+  - slug: strzelce_krajenskie
+    name: Strzelce Krajeńskie
+    code: 0806043
+    distance_meters: 15197.85
+    distance_km: 15.198
+    distance_percent: 30.8671
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+    distance_meters: 11470.09
+    distance_km: 11.47
+    distance_percent: 23.296
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+    distance_meters: 4183.89
+    distance_km: 4.184
+    distance_percent: 8.4976
+  counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 26667.93
+    distance_km: 26.668
+    distance_percent: 54.1631
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+    distance_meters: 22568.45
+    distance_km: 22.568
+    distance_percent: 45.8369
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 26667.93
+    distance_km: 26.668
+    distance_percent: 54.1631
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 22568.45
+    distance_km: 22.568
+    distance_percent: 45.8369
+  meso_regions:
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+    distance_meters: 30985.58
+    distance_km: 30.986
+    distance_percent: 62.9323
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+    distance_meters: 18250.8
+    distance_km: 18.251
+    distance_percent: 37.0677
+  macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 30985.58
+    distance_km: 30.986
+    distance_percent: 62.9323
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 18250.8
+    distance_km: 18.251
+    distance_percent: 37.0677
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 49236.39
+    distance_km: 49.236
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 49236.39
+    distance_km: 49.236
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 49236.39
+    distance_km: 49.236
+    distance_percent: 100.0
+  touched_towns:
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+  - slug: krzecin
+    name: Krzęcin
+    code: "3202042"
+  - slug: strzelce_krajenskie
+    name: Strzelce Krajeńskie
+    code: 0806043
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+  touched_counties:
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

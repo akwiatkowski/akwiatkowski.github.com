@@ -1,0 +1,246 @@
+---
+- type: bicycle
+  total_distance_meters: 86664.32
+  total_distance_km: 86.664
+  points_count: 360.0
+  towns:
+  - slug: pszczew
+    name: Pszczew
+    code: 0803042
+    distance_meters: 16546.99
+    distance_km: 16.547
+    distance_percent: 19.0932
+  - slug: trzciel
+    name: Trzciel
+    code: 0803063
+    distance_meters: 15792.68
+    distance_km: 15.793
+    distance_percent: 18.2228
+  - slug: miedzychod
+    name: Międzychód
+    code: "3014033"
+    distance_meters: 13279.92
+    distance_km: 13.28
+    distance_percent: 15.3234
+  - slug: sierakow
+    name: Sieraków
+    code: "3014043"
+    distance_meters: 11343.01
+    distance_km: 11.343
+    distance_percent: 13.0884
+  - slug: wronki
+    name: Wronki
+    code: "3024083"
+    distance_meters: 11272.06
+    distance_km: 11.272
+    distance_percent: 13.0066
+  - slug: kwilcz
+    name: Kwilcz
+    code: "3014022"
+    distance_meters: 10543.48
+    distance_km: 10.543
+    distance_percent: 12.1659
+  - slug: zbaszyn
+    name: Zbąszyń
+    code: "3015063"
+    distance_meters: 4043.89
+    distance_km: 4.044
+    distance_percent: 4.6662
+  - slug: chrzypsko_wielkie
+    name: Chrzypsko Wielkie
+    code: "3014012"
+    distance_meters: 3666.23
+    distance_km: 3.666
+    distance_percent: 4.2304
+  - slug: zbaszynek
+    name: Zbąszynek
+    code: 0808063
+    distance_meters: 176.06
+    distance_km: 0.176
+    distance_percent: 0.2032
+  counties:
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+    distance_meters: 38832.64
+    distance_km: 38.833
+    distance_percent: 44.8081
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+    distance_meters: 32339.67
+    distance_km: 32.34
+    distance_percent: 37.316
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+    distance_meters: 11272.06
+    distance_km: 11.272
+    distance_percent: 13.0066
+  - slug: nowotomyski
+    name: nowotomyski
+    code: "3015"
+    distance_meters: 4043.89
+    distance_km: 4.044
+    distance_percent: 4.6662
+  - slug: swiebodzinski
+    name: świebodziński
+    code: 0808
+    distance_meters: 176.06
+    distance_km: 0.176
+    distance_percent: 0.2032
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 54148.59
+    distance_km: 54.149
+    distance_percent: 62.4808
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 32515.73
+    distance_km: 32.516
+    distance_percent: 37.5192
+  meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 42710.34
+    distance_km: 42.71
+    distance_percent: 49.2825
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+    distance_meters: 33499.49
+    distance_km: 33.499
+    distance_percent: 38.6543
+  - slug: rownina_nowotomyska
+    name: Równina Nowotomyska
+    code: "315.50"
+    distance_meters: 7905.27
+    distance_km: 7.905
+    distance_percent: 9.1217
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 2549.22
+    distance_km: 2.549
+    distance_percent: 2.9415
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 50615.61
+    distance_km: 50.616
+    distance_percent: 58.4042
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+    distance_meters: 33499.49
+    distance_km: 33.499
+    distance_percent: 38.6543
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 2549.22
+    distance_km: 2.549
+    distance_percent: 2.9415
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 86664.32
+    distance_km: 86.664
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 86664.32
+    distance_km: 86.664
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 86664.32
+    distance_km: 86.664
+    distance_percent: 100.0
+  touched_towns:
+  - slug: zbaszyn
+    name: Zbąszyń
+    code: "3015063"
+  - slug: trzciel
+    name: Trzciel
+    code: 0803063
+  - slug: pszczew
+    name: Pszczew
+    code: 0803042
+  - slug: miedzychod
+    name: Międzychód
+    code: "3014033"
+  - slug: kwilcz
+    name: Kwilcz
+    code: "3014022"
+  - slug: sierakow
+    name: Sieraków
+    code: "3014043"
+  - slug: wronki
+    name: Wronki
+    code: "3024083"
+  touched_counties:
+  - slug: nowotomyski
+    name: nowotomyski
+    code: "3015"
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  - slug: rownina_nowotomyska
+    name: Równina Nowotomyska
+    code: "315.50"
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  touched_macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

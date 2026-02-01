@@ -1,0 +1,111 @@
+---
+- type: bicycle
+  total_distance_meters: 26916.91
+  total_distance_km: 26.917
+  points_count: 156.0
+  towns:
+  - slug: wegorzewo
+    name: Węgorzewo
+    code: "2819033"
+    distance_meters: 17170.38
+    distance_km: 17.17
+    distance_percent: 63.7903
+  - slug: srokowo
+    name: Srokowo
+    code: "2808062"
+    distance_meters: 9746.53
+    distance_km: 9.747
+    distance_percent: 36.2097
+  counties:
+  - slug: wegorzewski
+    name: węgorzewski
+    code: "2819"
+    distance_meters: 17170.38
+    distance_km: 17.17
+    distance_percent: 63.7903
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+    distance_meters: 9746.53
+    distance_km: 9.747
+    distance_percent: 36.2097
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 26916.91
+    distance_km: 26.917
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kraina_wielkich_jezior_mazurskich
+    name: Kraina Wielkich Jezior Mazurskich
+    code: "842.83"
+    distance_meters: 26916.91
+    distance_km: 26.917
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 26916.91
+    distance_km: 26.917
+    distance_percent: 100.0
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 26916.91
+    distance_km: 26.917
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 26916.91
+    distance_km: 26.917
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 26916.91
+    distance_km: 26.917
+    distance_percent: 100.0
+  touched_towns:
+  - slug: wegorzewo
+    name: Węgorzewo
+    code: "2819033"
+  - slug: srokowo
+    name: Srokowo
+    code: "2808062"
+  touched_counties:
+  - slug: wegorzewski
+    name: węgorzewski
+    code: "2819"
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: kraina_wielkich_jezior_mazurskich
+    name: Kraina Wielkich Jezior Mazurskich
+    code: "842.83"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

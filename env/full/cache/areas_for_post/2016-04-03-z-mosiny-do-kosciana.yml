@@ -1,0 +1,174 @@
+---
+- type: bicycle
+  total_distance_meters: 40334.32
+  total_distance_km: 40.334
+  points_count: 147.0
+  towns:
+  - slug: czempin
+    name: Czempiń
+    code: "3011023"
+    distance_meters: 12183.11
+    distance_km: 12.183
+    distance_percent: 30.2053
+  - slug: koscian
+    name: Kościan
+    code: "3011032"
+    distance_meters: 10464.01
+    distance_km: 10.464
+    distance_percent: 25.9432
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+    distance_meters: 9864.43
+    distance_km: 9.864
+    distance_percent: 24.4567
+  - slug: smigiel
+    name: Śmigiel
+    code: "3011053"
+    distance_meters: 6431.77
+    distance_km: 6.432
+    distance_percent: 15.9461
+  - slug: brodnica
+    name: Brodnica
+    code: "3026012"
+    distance_meters: 1390.99
+    distance_km: 1.391
+    distance_percent: 3.4487
+  counties:
+  - slug: koscianski
+    name: kościański
+    code: "3011"
+    distance_meters: 29078.89
+    distance_km: 29.079
+    distance_percent: 72.0947
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 9864.43
+    distance_km: 9.864
+    distance_percent: 24.4567
+  - slug: sremski
+    name: śremski
+    code: "3026"
+    distance_meters: 1390.99
+    distance_km: 1.391
+    distance_percent: 3.4487
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 40334.32
+    distance_km: 40.334
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+    distance_meters: 16118.1
+    distance_km: 16.118
+    distance_percent: 39.9612
+  - slug: rownina_koscianska
+    name: Równina Kościańska
+    code: "315.83"
+    distance_meters: 13373.87
+    distance_km: 13.374
+    distance_percent: 33.1575
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+    distance_meters: 10842.35
+    distance_km: 10.842
+    distance_percent: 26.8812
+  macro_regions:
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+    distance_meters: 29491.97
+    distance_km: 29.492
+    distance_percent: 73.1188
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+    distance_meters: 10842.35
+    distance_km: 10.842
+    distance_percent: 26.8812
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 40334.32
+    distance_km: 40.334
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 40334.32
+    distance_km: 40.334
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 40334.32
+    distance_km: 40.334
+    distance_percent: 100.0
+  touched_towns:
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+  - slug: brodnica
+    name: Brodnica
+    code: "3026012"
+  - slug: czempin
+    name: Czempiń
+    code: "3011023"
+  - slug: koscian
+    name: Kościan
+    code: "3011032"
+  - slug: smigiel
+    name: Śmigiel
+    code: "3011053"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: sremski
+    name: śremski
+    code: "3026"
+  - slug: koscianski
+    name: kościański
+    code: "3011"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+  - slug: rownina_koscianska
+    name: Równina Kościańska
+    code: "315.83"
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+  touched_macro_regions:
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

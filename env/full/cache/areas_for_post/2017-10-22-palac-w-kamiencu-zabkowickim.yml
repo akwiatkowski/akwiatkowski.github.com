@@ -1,0 +1,102 @@
+---
+- type: hike
+  total_distance_meters: 7278.26
+  total_distance_km: 7.278
+  points_count: 110.0
+  towns:
+  - slug: kamieniec_zabkowicki
+    name: Kamieniec Ząbkowicki
+    code: "0224032"
+    distance_meters: 7278.26
+    distance_km: 7.278
+    distance_percent: 100.0
+  counties:
+  - slug: zabkowicki
+    name: ząbkowicki
+    code: "0224"
+    distance_meters: 7278.26
+    distance_km: 7.278
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 7278.26
+    distance_km: 7.278
+    distance_percent: 100.0
+  meso_regions:
+  - slug: obnizenie_otmuchowskie
+    name: Obniżenie Otmuchowskie
+    code: "332.16"
+    distance_meters: 7001.11
+    distance_km: 7.001
+    distance_percent: 96.192
+  - slug: wzgorza_niemczanskostrzelinskie
+    name: Wzgórza Niemczańsko-Strzelińskie
+    code: "332.14"
+    distance_meters: 277.15
+    distance_km: 0.277
+    distance_percent: 3.808
+  macro_regions:
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+    distance_meters: 7278.26
+    distance_km: 7.278
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 7278.26
+    distance_km: 7.278
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 7278.26
+    distance_km: 7.278
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 7278.26
+    distance_km: 7.278
+    distance_percent: 100.0
+  touched_towns:
+  - slug: kamieniec_zabkowicki
+    name: Kamieniec Ząbkowicki
+    code: "0224032"
+  touched_counties:
+  - slug: zabkowicki
+    name: ząbkowicki
+    code: "0224"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: wzgorza_niemczanskostrzelinskie
+    name: Wzgórza Niemczańsko-Strzelińskie
+    code: "332.14"
+  - slug: obnizenie_otmuchowskie
+    name: Obniżenie Otmuchowskie
+    code: "332.16"
+  touched_macro_regions:
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

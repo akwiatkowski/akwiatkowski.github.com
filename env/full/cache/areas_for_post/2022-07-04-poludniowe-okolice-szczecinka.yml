@@ -1,0 +1,144 @@
+---
+- type: bicycle
+  total_distance_meters: 25963.46
+  total_distance_km: 25.963
+  points_count: 193.0
+  towns:
+  - slug: szczecinek
+    name: Szczecinek
+    code: "3215062"
+    distance_meters: 19410.56
+    distance_km: 19.411
+    distance_percent: 74.7611
+  - slug: szczecinek
+    name: Szczecinek
+    code: "3215011"
+    distance_meters: 7926.16
+    distance_km: 7.926
+    distance_percent: 30.5281
+  - slug: okonek
+    name: Okonek
+    code: "3031053"
+    distance_meters: 6552.9
+    distance_km: 6.553
+    distance_percent: 25.2389
+  counties:
+  - slug: szczecinecki
+    name: szczecinecki
+    code: "3215"
+    distance_meters: 19410.56
+    distance_km: 19.411
+    distance_percent: 74.7611
+  - slug: zlotowski
+    name: złotowski
+    code: "3031"
+    distance_meters: 6552.9
+    distance_km: 6.553
+    distance_percent: 25.2389
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 19410.56
+    distance_km: 19.411
+    distance_percent: 74.7611
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 6552.9
+    distance_km: 6.553
+    distance_percent: 25.2389
+  meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+    distance_meters: 16534.24
+    distance_km: 16.534
+    distance_percent: 63.6827
+  - slug: pojezierze_szczecineckie
+    name: Pojezierze Szczecineckie
+    code: "314.66"
+    distance_meters: 9429.22
+    distance_km: 9.429
+    distance_percent: 36.3173
+  macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 16534.24
+    distance_km: 16.534
+    distance_percent: 63.6827
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 9429.22
+    distance_km: 9.429
+    distance_percent: 36.3173
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 25963.46
+    distance_km: 25.963
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 25963.46
+    distance_km: 25.963
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 25963.46
+    distance_km: 25.963
+    distance_percent: 100.0
+  touched_towns:
+  - slug: szczecinek
+    name: Szczecinek
+    code: "3215062"
+  - slug: okonek
+    name: Okonek
+    code: "3031053"
+  touched_counties:
+  - slug: szczecinecki
+    name: szczecinecki
+    code: "3215"
+  - slug: zlotowski
+    name: złotowski
+    code: "3031"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+  - slug: pojezierze_szczecineckie
+    name: Pojezierze Szczecineckie
+    code: "314.66"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

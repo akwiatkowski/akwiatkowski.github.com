@@ -1,0 +1,93 @@
+---
+- type: hike
+  total_distance_meters: 2701.24
+  total_distance_km: 2.701
+  points_count: 20.0
+  towns:
+  - slug: czerwonak
+    name: Czerwonak
+    code: "3021042"
+    distance_meters: 2701.24
+    distance_km: 2.701
+    distance_percent: 100.0
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 2701.24
+    distance_km: 2.701
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 2701.24
+    distance_km: 2.701
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 2701.24
+    distance_km: 2.701
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 2701.24
+    distance_km: 2.701
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 2701.24
+    distance_km: 2.701
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 2701.24
+    distance_km: 2.701
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 2701.24
+    distance_km: 2.701
+    distance_percent: 100.0
+  touched_towns:
+  - slug: czerwonak
+    name: Czerwonak
+    code: "3021042"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

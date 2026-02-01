@@ -1,0 +1,147 @@
+---
+- type: bicycle
+  total_distance_meters: 86770.8
+  total_distance_km: 86.771
+  points_count: 411.0
+  towns:
+  - slug: lagow
+    name: Łagów
+    code: 0808022
+    distance_meters: 32980.09
+    distance_km: 32.98
+    distance_percent: 38.0083
+  - slug: skape
+    name: Skąpe
+    code: 0808032
+    distance_meters: 20782.25
+    distance_km: 20.782
+    distance_percent: 23.9507
+  - slug: lubrza
+    name: Lubrza
+    code: 0808012
+    distance_meters: 17169.33
+    distance_km: 17.169
+    distance_percent: 19.787
+  - slug: sulechow
+    name: Sulechów
+    code: 0809063
+    distance_meters: 8506.75
+    distance_km: 8.507
+    distance_percent: 9.8037
+  - slug: swiebodzin
+    name: Świebodzin
+    code: 0808053
+    distance_meters: 7332.38
+    distance_km: 7.332
+    distance_percent: 8.4503
+  counties:
+  - slug: swiebodzinski
+    name: świebodziński
+    code: 0808
+    distance_meters: 78264.05
+    distance_km: 78.264
+    distance_percent: 90.1963
+  - slug: zielonogorski
+    name: zielonogórski
+    code: 0809
+    distance_meters: 8506.75
+    distance_km: 8.507
+    distance_percent: 9.8037
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 86770.8
+    distance_km: 86.771
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_lagowskie
+    name: Pojezierze Łagowskie
+    code: "315.42"
+    distance_meters: 82526.23
+    distance_km: 82.526
+    distance_percent: 95.1083
+  - slug: rownina_torzymska
+    name: Równina Torzymska
+    code: "315.43"
+    distance_meters: 4244.57
+    distance_km: 4.245
+    distance_percent: 4.8917
+  macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+    distance_meters: 86770.8
+    distance_km: 86.771
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 86770.8
+    distance_km: 86.771
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 86770.8
+    distance_km: 86.771
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 86770.8
+    distance_km: 86.771
+    distance_percent: 100.0
+  touched_towns:
+  - slug: sulechow
+    name: Sulechów
+    code: 0809063
+  - slug: skape
+    name: Skąpe
+    code: 0808032
+  - slug: lubrza
+    name: Lubrza
+    code: 0808012
+  - slug: lagow
+    name: Łagów
+    code: 0808022
+  - slug: swiebodzin
+    name: Świebodzin
+    code: 0808053
+  touched_counties:
+  - slug: zielonogorski
+    name: zielonogórski
+    code: 0809
+  - slug: swiebodzinski
+    name: świebodziński
+    code: 0808
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: pojezierze_lagowskie
+    name: Pojezierze Łagowskie
+    code: "315.42"
+  - slug: rownina_torzymska
+    name: Równina Torzymska
+    code: "315.43"
+  touched_macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

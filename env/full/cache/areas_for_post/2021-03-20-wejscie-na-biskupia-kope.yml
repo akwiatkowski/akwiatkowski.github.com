@@ -1,0 +1,84 @@
+---
+- type: hike
+  total_distance_meters: 8271.23
+  total_distance_km: 8.271
+  points_count: 166.0
+  towns:
+  - slug: glucholazy
+    name: Głuchołazy
+    code: "1607013"
+    distance_meters: 6572.67
+    distance_km: 6.573
+    distance_percent: 79.4642
+  counties:
+  - slug: nyski
+    name: nyski
+    code: "1607"
+    distance_meters: 6572.67
+    distance_km: 6.573
+    distance_percent: 79.4642
+  voivodeships:
+  - slug: opolskie
+    name: OPOLSKIE
+    code: "16"
+    distance_meters: 6572.67
+    distance_km: 6.573
+    distance_percent: 79.4642
+  meso_regions:
+  - slug: gory_opawskie
+    name: Góry Opawskie
+    code: "332.63"
+    distance_meters: 8042.98
+    distance_km: 8.043
+    distance_percent: 97.2404
+  macro_regions: []
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 8042.98
+    distance_km: 8.043
+    distance_percent: 97.2404
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 8042.98
+    distance_km: 8.043
+    distance_percent: 97.2404
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 8042.98
+    distance_km: 8.043
+    distance_percent: 97.2404
+  touched_towns:
+  - slug: glucholazy
+    name: Głuchołazy
+    code: "1607013"
+  touched_counties:
+  - slug: nyski
+    name: nyski
+    code: "1607"
+  touched_voivodeships:
+  - slug: opolskie
+    name: OPOLSKIE
+    code: "16"
+  touched_meso_regions:
+  - slug: gory_opawskie
+    name: Góry Opawskie
+    code: "332.63"
+  touched_macro_regions: []
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

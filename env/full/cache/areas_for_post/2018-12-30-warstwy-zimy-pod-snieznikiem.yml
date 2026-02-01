@@ -1,0 +1,102 @@
+---
+- type: hike
+  total_distance_meters: 13527.6
+  total_distance_km: 13.528
+  points_count: 202.0
+  towns:
+  - slug: stronie_slaskie
+    name: Stronie Śląskie
+    code: 0208133
+    distance_meters: 10472.42
+    distance_km: 10.472
+    distance_percent: 77.4152
+  - slug: bystrzyca_klodzka
+    name: Bystrzyca Kłodzka
+    code: 0208063
+    distance_meters: 2943.77
+    distance_km: 2.944
+    distance_percent: 21.7612
+  counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+    distance_meters: 13416.19
+    distance_km: 13.416
+    distance_percent: 99.1764
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 13416.19
+    distance_km: 13.416
+    distance_percent: 99.1764
+  meso_regions:
+  - slug: masyw_snieznika
+    name: Masyw Śnieżnika
+    code: "332.62"
+    distance_meters: 13337.88
+    distance_km: 13.338
+    distance_percent: 98.5975
+  macro_regions:
+  - slug: sudety_wschodnie
+    name: Sudety Wschodnie
+    code: "332"
+    distance_meters: 13337.88
+    distance_km: 13.338
+    distance_percent: 98.5975
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 13337.88
+    distance_km: 13.338
+    distance_percent: 98.5975
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 13337.88
+    distance_km: 13.338
+    distance_percent: 98.5975
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 13337.88
+    distance_km: 13.338
+    distance_percent: 98.5975
+  touched_towns:
+  - slug: stronie_slaskie
+    name: Stronie Śląskie
+    code: 0208133
+  - slug: bystrzyca_klodzka
+    name: Bystrzyca Kłodzka
+    code: 0208063
+  touched_counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: masyw_snieznika
+    name: Masyw Śnieżnika
+    code: "332.62"
+  touched_macro_regions:
+  - slug: sudety_wschodnie
+    name: Sudety Wschodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

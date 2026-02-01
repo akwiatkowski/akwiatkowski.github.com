@@ -1,0 +1,93 @@
+---
+- type: hike
+  total_distance_meters: 4917.17
+  total_distance_km: 4.917
+  points_count: 45.0
+  towns:
+  - slug: pelplin
+    name: Pelplin
+    code: "2214043"
+    distance_meters: 4917.17
+    distance_km: 4.917
+    distance_percent: 100.0
+  counties:
+  - slug: tczewski
+    name: tczewski
+    code: "2214"
+    distance_meters: 4917.17
+    distance_km: 4.917
+    distance_percent: 100.0
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 4917.17
+    distance_km: 4.917
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_starogardzkie
+    name: Pojezierze Starogardzkie
+    code: "314.52"
+    distance_meters: 4917.17
+    distance_km: 4.917
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wschodniopomorskie
+    name: Pojezierze Wschodniopomorskie
+    code: 314-316
+    distance_meters: 4917.17
+    distance_km: 4.917
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 4917.17
+    distance_km: 4.917
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 4917.17
+    distance_km: 4.917
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 4917.17
+    distance_km: 4.917
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pelplin
+    name: Pelplin
+    code: "2214043"
+  touched_counties:
+  - slug: tczewski
+    name: tczewski
+    code: "2214"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: pojezierze_starogardzkie
+    name: Pojezierze Starogardzkie
+    code: "314.52"
+  touched_macro_regions:
+  - slug: pojezierze_wschodniopomorskie
+    name: Pojezierze Wschodniopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

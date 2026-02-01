@@ -1,0 +1,201 @@
+---
+- type: car
+  total_distance_meters: 100786.0
+  total_distance_km: 100.786
+  points_count: 323.0
+  towns:
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+    distance_meters: 30373.36
+    distance_km: 30.373
+    distance_percent: 30.1365
+  - slug: piotrkow_kujawski
+    name: Piotrków Kujawski
+    code: "0411053"
+    distance_meters: 18821.28
+    distance_km: 18.821
+    distance_percent: 18.6745
+  - slug: topolka
+    name: Topólka
+    code: "0411072"
+    distance_meters: 16271.74
+    distance_km: 16.272
+    distance_percent: 16.1448
+  - slug: byton
+    name: Bytoń
+    code: "0411022"
+    distance_meters: 12601.12
+    distance_km: 12.601
+    distance_percent: 12.5028
+  - slug: wierzbinek
+    name: Wierzbinek
+    code: "3010132"
+    distance_meters: 9768.86
+    distance_km: 9.769
+    distance_percent: 9.6927
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+    distance_meters: 9105.06
+    distance_km: 9.105
+    distance_percent: 9.0341
+  - slug: skulsk
+    name: Skulsk
+    code: "3010092"
+    distance_meters: 3844.58
+    distance_km: 3.845
+    distance_percent: 3.8146
+  counties:
+  - slug: radziejowski
+    name: radziejowski
+    code: "0411"
+    distance_meters: 47694.14
+    distance_km: 47.694
+    distance_percent: 47.3222
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+    distance_meters: 30373.36
+    distance_km: 30.373
+    distance_percent: 30.1365
+  - slug: koninski
+    name: koniński
+    code: "3010"
+    distance_meters: 13613.44
+    distance_km: 13.613
+    distance_percent: 13.5073
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+    distance_meters: 9105.06
+    distance_km: 9.105
+    distance_percent: 9.0341
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 87172.55
+    distance_km: 87.173
+    distance_percent: 86.4927
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 13613.44
+    distance_km: 13.613
+    distance_percent: 13.5073
+  meso_regions:
+  - slug: pojezierze_kujawskie
+    name: Pojezierze Kujawskie
+    code: "315.57"
+    distance_meters: 68742.34
+    distance_km: 68.742
+    distance_percent: 68.2062
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+    distance_meters: 27222.29
+    distance_km: 27.222
+    distance_percent: 27.01
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+    distance_meters: 4821.36
+    distance_km: 4.821
+    distance_percent: 4.7838
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 100786.0
+    distance_km: 100.786
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 100786.0
+    distance_km: 100.786
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 100786.0
+    distance_km: 100.786
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 100786.0
+    distance_km: 100.786
+    distance_percent: 100.0
+  touched_towns:
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+  - slug: piotrkow_kujawski
+    name: Piotrków Kujawski
+    code: "0411053"
+  - slug: byton
+    name: Bytoń
+    code: "0411022"
+  - slug: topolka
+    name: Topólka
+    code: "0411072"
+  - slug: wierzbinek
+    name: Wierzbinek
+    code: "3010132"
+  - slug: skulsk
+    name: Skulsk
+    code: "3010092"
+  touched_counties:
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+  - slug: radziejowski
+    name: radziejowski
+    code: "0411"
+  - slug: koninski
+    name: koniński
+    code: "3010"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+  - slug: pojezierze_kujawskie
+    name: Pojezierze Kujawskie
+    code: "315.57"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

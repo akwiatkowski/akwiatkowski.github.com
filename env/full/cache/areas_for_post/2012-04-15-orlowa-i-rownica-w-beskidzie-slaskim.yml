@@ -1,0 +1,102 @@
+---
+- type: hike
+  total_distance_meters: 17850.02
+  total_distance_km: 17.85
+  points_count: 282.0
+  towns:
+  - slug: ustron
+    name: Ustroń
+    code: "2403021"
+    distance_meters: 15931.47
+    distance_km: 15.931
+    distance_percent: 89.2518
+  - slug: brenna
+    name: Brenna
+    code: "2403042"
+    distance_meters: 1918.55
+    distance_km: 1.919
+    distance_percent: 10.7482
+  counties:
+  - slug: cieszynski
+    name: cieszyński
+    code: "2403"
+    distance_meters: 17850.02
+    distance_km: 17.85
+    distance_percent: 100.0
+  voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+    distance_meters: 17850.02
+    distance_km: 17.85
+    distance_percent: 100.0
+  meso_regions:
+  - slug: beskid_slaski
+    name: Beskid Śląski
+    code: "513.45"
+    distance_meters: 17850.02
+    distance_km: 17.85
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 17850.02
+    distance_km: 17.85
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 17850.02
+    distance_km: 17.85
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 17850.02
+    distance_km: 17.85
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 17850.02
+    distance_km: 17.85
+    distance_percent: 100.0
+  touched_towns:
+  - slug: ustron
+    name: Ustroń
+    code: "2403021"
+  - slug: brenna
+    name: Brenna
+    code: "2403042"
+  touched_counties:
+  - slug: cieszynski
+    name: cieszyński
+    code: "2403"
+  touched_voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+  touched_meso_regions:
+  - slug: beskid_slaski
+    name: Beskid Śląski
+    code: "513.45"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

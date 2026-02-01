@@ -1,0 +1,567 @@
+---
+- type: train
+  total_distance_meters: 398340.7
+  total_distance_km: 398.341
+  points_count: 365.0
+  towns:
+  - slug: korsze
+    name: Korsze
+    code: "2808043"
+    distance_meters: 45712.68
+    distance_km: 45.713
+    distance_percent: 11.4758
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+    distance_meters: 42166.41
+    distance_km: 42.166
+    distance_percent: 10.5855
+  - slug: sepopol
+    name: Sępopol
+    code: "2801063"
+    distance_meters: 41198.89
+    distance_km: 41.199
+    distance_percent: 10.3426
+  - slug: lubawa
+    name: Lubawa
+    code: "2807052"
+    distance_meters: 24524.54
+    distance_km: 24.525
+    distance_percent: 6.1567
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+    distance_meters: 23934.59
+    distance_km: 23.935
+    distance_percent: 6.0086
+  - slug: bisztynek
+    name: Bisztynek
+    code: "2801043"
+    distance_meters: 23593.98
+    distance_km: 23.594
+    distance_percent: 5.9231
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2814023"
+    distance_meters: 21033.87
+    distance_km: 21.034
+    distance_percent: 5.2804
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2812022"
+    distance_meters: 20811.4
+    distance_km: 20.811
+    distance_percent: 5.2245
+  - slug: barczewo
+    name: Barczewo
+    code: "2814013"
+    distance_meters: 20434.03
+    distance_km: 20.434
+    distance_percent: 5.1298
+  - slug: kolno
+    name: Kolno
+    code: "2814082"
+    distance_meters: 19711.93
+    distance_km: 19.712
+    distance_percent: 4.9485
+  - slug: gietrzwald
+    name: Gietrzwałd
+    code: "2814052"
+    distance_meters: 19308.79
+    distance_km: 19.309
+    distance_percent: 4.8473
+  - slug: rynsk
+    name: Ryńsk
+    code: "0417052"
+    distance_meters: 14331.44
+    distance_km: 14.331
+    distance_percent: 3.5978
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801032"
+    distance_meters: 13061.22
+    distance_km: 13.061
+    distance_percent: 3.2789
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+    distance_meters: 11909.55
+    distance_km: 11.91
+    distance_percent: 2.9898
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862011"
+    distance_meters: 10560.94
+    distance_km: 10.561
+    distance_percent: 2.6512
+  - slug: kowalewo_pomorskie
+    name: Kowalewo Pomorskie
+    code: "0405043"
+    distance_meters: 9377.2
+    distance_km: 9.377
+    distance_percent: 2.3541
+  - slug: ksiazki
+    name: Książki
+    code: "0417032"
+    distance_meters: 8767.62
+    distance_km: 8.768
+    distance_percent: 2.201
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+    distance_meters: 7056.11
+    distance_km: 7.056
+    distance_percent: 1.7714
+  - slug: grodziczno
+    name: Grodziczno
+    code: "2812032"
+    distance_meters: 6587.66
+    distance_km: 6.588
+    distance_percent: 1.6538
+  - slug: ilawa
+    name: Iława
+    code: "2807011"
+    distance_meters: 5832.41
+    distance_km: 5.832
+    distance_percent: 1.4642
+  - slug: lubicz
+    name: Lubicz
+    code: "0415042"
+    distance_meters: 5631.31
+    distance_km: 5.631
+    distance_percent: 1.4137
+  - slug: lysomice
+    name: Łysomice
+    code: "0415062"
+    distance_meters: 5291.65
+    distance_km: 5.292
+    distance_percent: 1.3284
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801011"
+    distance_meters: 4004.34
+    distance_km: 4.004
+    distance_percent: 1.0053
+  - slug: ostroda
+    name: Ostróda
+    code: "2815011"
+    distance_meters: 3590.28
+    distance_km: 3.59
+    distance_percent: 0.9013
+  - slug: lubawa
+    name: Lubawa
+    code: "2807021"
+    distance_meters: 2818.55
+    distance_km: 2.819
+    distance_percent: 0.7076
+  - slug: nowe_miasto_lubawskie
+    name: Nowe Miasto Lubawskie
+    code: "2812052"
+    distance_meters: 2655.07
+    distance_km: 2.655
+    distance_percent: 0.6665
+  - slug: stawiguda
+    name: Stawiguda
+    code: "2814112"
+    distance_meters: 679.82
+    distance_km: 0.68
+    distance_percent: 0.1707
+  counties:
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+    distance_meters: 91729.39
+    distance_km: 91.729
+    distance_percent: 23.0279
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+    distance_meters: 77854.09
+    distance_km: 77.854
+    distance_percent: 19.5446
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+    distance_meters: 66690.95
+    distance_km: 66.691
+    distance_percent: 16.7422
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+    distance_meters: 45712.68
+    distance_km: 45.713
+    distance_percent: 11.4758
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+    distance_meters: 30054.14
+    distance_km: 30.054
+    distance_percent: 7.5448
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 23934.59
+    distance_km: 23.935
+    distance_percent: 6.0086
+  - slug: wabrzeski
+    name: wąbrzeski
+    code: "0417"
+    distance_meters: 23099.06
+    distance_km: 23.099
+    distance_percent: 5.7988
+  - slug: torunski
+    name: toruński
+    code: "0415"
+    distance_meters: 17979.07
+    distance_km: 17.979
+    distance_percent: 4.5135
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+    distance_meters: 11909.55
+    distance_km: 11.91
+    distance_percent: 2.9898
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862"
+    distance_meters: 10560.94
+    distance_km: 10.561
+    distance_percent: 2.6512
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+    distance_meters: 9377.2
+    distance_km: 9.377
+    distance_percent: 2.3541
+  - slug: torun
+    name: Toruń
+    code: "0463"
+    distance_meters: 7056.11
+    distance_km: 7.056
+    distance_percent: 1.7714
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 335975.83
+    distance_km: 335.976
+    distance_percent: 84.3438
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 62364.88
+    distance_km: 62.365
+    distance_percent: 15.6562
+  meso_regions:
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+    distance_meters: 117626.57
+    distance_km: 117.627
+    distance_percent: 29.5291
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+    distance_meters: 48415.33
+    distance_km: 48.415
+    distance_percent: 12.1543
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+    distance_meters: 47156.03
+    distance_km: 47.156
+    distance_percent: 11.8381
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+    distance_meters: 46549.12
+    distance_km: 46.549
+    distance_percent: 11.6858
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+    distance_meters: 37600.93
+    distance_km: 37.601
+    distance_percent: 9.4394
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+    distance_meters: 32593.78
+    distance_km: 32.594
+    distance_percent: 8.1824
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 32064.92
+    distance_km: 32.065
+    distance_percent: 8.0496
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+    distance_meters: 15603.42
+    distance_km: 15.603
+    distance_percent: 3.9171
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 14230.72
+    distance_km: 14.231
+    distance_percent: 3.5725
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+    distance_meters: 6499.9
+    distance_km: 6.5
+    distance_percent: 1.6317
+  macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 128677.44
+    distance_km: 128.677
+    distance_percent: 32.3034
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+    distance_meters: 117626.57
+    distance_km: 117.627
+    distance_percent: 29.5291
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 107935.87
+    distance_km: 107.936
+    distance_percent: 27.0964
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 37600.93
+    distance_km: 37.601
+    distance_percent: 9.4394
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 6499.9
+    distance_km: 6.5
+    distance_percent: 1.6317
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 225562.45
+    distance_km: 225.562
+    distance_percent: 56.6255
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 172778.26
+    distance_km: 172.778
+    distance_percent: 43.3745
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 172778.26
+    distance_km: 172.778
+    distance_percent: 43.3745
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+    distance_meters: 117626.57
+    distance_km: 117.627
+    distance_percent: 29.5291
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 107935.87
+    distance_km: 107.936
+    distance_percent: 27.0964
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 225562.45
+    distance_km: 225.562
+    distance_percent: 56.6255
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 172778.26
+    distance_km: 172.778
+    distance_percent: 43.3745
+  touched_towns:
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+  - slug: lysomice
+    name: Łysomice
+    code: "0415062"
+  - slug: kowalewo_pomorskie
+    name: Kowalewo Pomorskie
+    code: "0405043"
+  - slug: ksiazki
+    name: Książki
+    code: "0417032"
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2812022"
+  - slug: nowe_miasto_lubawskie
+    name: Nowe Miasto Lubawskie
+    code: "2812052"
+  - slug: ilawa
+    name: Iława
+    code: "2807011"
+  - slug: grodziczno
+    name: Grodziczno
+    code: "2812032"
+  - slug: lubawa
+    name: Lubawa
+    code: "2807052"
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+  - slug: gietrzwald
+    name: Gietrzwałd
+    code: "2814052"
+  - slug: stawiguda
+    name: Stawiguda
+    code: "2814112"
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862011"
+  - slug: barczewo
+    name: Barczewo
+    code: "2814013"
+  - slug: kolno
+    name: Kolno
+    code: "2814082"
+  - slug: bisztynek
+    name: Bisztynek
+    code: "2801043"
+  - slug: korsze
+    name: Korsze
+    code: "2808043"
+  - slug: sepopol
+    name: Sępopol
+    code: "2801063"
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801032"
+  touched_counties:
+  - slug: torunski
+    name: toruński
+    code: "0415"
+  - slug: torun
+    name: Toruń
+    code: "0463"
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+  - slug: wabrzeski
+    name: wąbrzeski
+    code: "0417"
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862"
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+  touched_macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

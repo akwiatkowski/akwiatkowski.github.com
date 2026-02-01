@@ -1,0 +1,246 @@
+---
+- type: bicycle
+  total_distance_meters: 63424.88
+  total_distance_km: 63.425
+  points_count: 200.0
+  towns:
+  - slug: rzgow
+    name: Rzgów
+    code: "3010082"
+    distance_meters: 14847.9
+    distance_km: 14.848
+    distance_percent: 23.4102
+  - slug: czermin
+    name: Czermin
+    code: "3020022"
+    distance_meters: 11590.18
+    distance_km: 11.59
+    distance_percent: 18.2739
+  - slug: gizalki
+    name: Gizałki
+    code: "3020042"
+    distance_meters: 8856.75
+    distance_km: 8.857
+    distance_percent: 13.9642
+  - slug: chocz
+    name: Chocz
+    code: "3020013"
+    distance_meters: 8255.2
+    distance_km: 8.255
+    distance_percent: 13.0157
+  - slug: grodziec
+    name: Grodziec
+    code: "3010022"
+    distance_meters: 4752.08
+    distance_km: 4.752
+    distance_percent: 7.4925
+  - slug: konin
+    name: Konin
+    code: "3062011"
+    distance_meters: 4251.4
+    distance_km: 4.251
+    distance_percent: 6.703
+  - slug: pleszew
+    name: Pleszew
+    code: "3020063"
+    distance_meters: 3964.7
+    distance_km: 3.965
+    distance_percent: 6.251
+  - slug: stare_miasto
+    name: Stare Miasto
+    code: "3010112"
+    distance_meters: 3787.71
+    distance_km: 3.788
+    distance_percent: 5.972
+  - slug: zagorow
+    name: Zagórów
+    code: "3023083"
+    distance_meters: 3118.97
+    distance_km: 3.119
+    distance_percent: 4.9176
+  counties:
+  - slug: pleszewski
+    name: pleszewski
+    code: "3020"
+    distance_meters: 32666.82
+    distance_km: 32.667
+    distance_percent: 51.5047
+  - slug: koninski
+    name: koniński
+    code: "3010"
+    distance_meters: 27639.09
+    distance_km: 27.639
+    distance_percent: 43.5777
+  - slug: konin
+    name: Konin
+    code: "3062"
+    distance_meters: 4251.4
+    distance_km: 4.251
+    distance_percent: 6.703
+  - slug: slupecki
+    name: słupecki
+    code: "3023"
+    distance_meters: 3118.97
+    distance_km: 3.119
+    distance_percent: 4.9176
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 63424.88
+    distance_km: 63.425
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_rychwalska
+    name: Równina Rychwalska
+    code: "318.16"
+    distance_meters: 46430.79
+    distance_km: 46.431
+    distance_percent: 73.206
+  - slug: wysoczyzna_kaliska
+    name: Wysoczyzna Kaliska
+    code: "318.12"
+    distance_meters: 11201.88
+    distance_km: 11.202
+    distance_percent: 17.6617
+  - slug: dolina_koninska
+    name: Dolina Konińska
+    code: "318.13"
+    distance_meters: 2906.07
+    distance_km: 2.906
+    distance_percent: 4.5819
+  - slug: kotlina_kolska
+    name: Kotlina Kolska
+    code: "318.14"
+    distance_meters: 1804.94
+    distance_km: 1.805
+    distance_percent: 2.8458
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+    distance_meters: 1081.19
+    distance_km: 1.081
+    distance_percent: 1.7047
+  macro_regions:
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+    distance_meters: 62343.68
+    distance_km: 62.344
+    distance_percent: 98.2953
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 1081.19
+    distance_km: 1.081
+    distance_percent: 1.7047
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 63424.88
+    distance_km: 63.425
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 62343.68
+    distance_km: 62.344
+    distance_percent: 98.2953
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 1081.19
+    distance_km: 1.081
+    distance_percent: 1.7047
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 63424.88
+    distance_km: 63.425
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pleszew
+    name: Pleszew
+    code: "3020063"
+  - slug: czermin
+    name: Czermin
+    code: "3020022"
+  - slug: chocz
+    name: Chocz
+    code: "3020013"
+  - slug: gizalki
+    name: Gizałki
+    code: "3020042"
+  - slug: grodziec
+    name: Grodziec
+    code: "3010022"
+  - slug: rzgow
+    name: Rzgów
+    code: "3010082"
+  - slug: zagorow
+    name: Zagórów
+    code: "3023083"
+  - slug: stare_miasto
+    name: Stare Miasto
+    code: "3010112"
+  - slug: konin
+    name: Konin
+    code: "3062011"
+  touched_counties:
+  - slug: pleszewski
+    name: pleszewski
+    code: "3020"
+  - slug: koninski
+    name: koniński
+    code: "3010"
+  - slug: slupecki
+    name: słupecki
+    code: "3023"
+  - slug: konin
+    name: Konin
+    code: "3062"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: wysoczyzna_kaliska
+    name: Wysoczyzna Kaliska
+    code: "318.12"
+  - slug: rownina_rychwalska
+    name: Równina Rychwalska
+    code: "318.16"
+  - slug: dolina_koninska
+    name: Dolina Konińska
+    code: "318.13"
+  - slug: kotlina_kolska
+    name: Kotlina Kolska
+    code: "318.14"
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+  touched_macro_regions:
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

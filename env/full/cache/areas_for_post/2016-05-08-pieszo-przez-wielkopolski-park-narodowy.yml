@@ -1,0 +1,120 @@
+---
+- type: hike
+  total_distance_meters: 14020.4
+  total_distance_km: 14.02
+  points_count: 153.0
+  towns:
+  - slug: steszew
+    name: Stęszew
+    code: "3021143"
+    distance_meters: 8838.44
+    distance_km: 8.838
+    distance_percent: 63.0398
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+    distance_meters: 5181.96
+    distance_km: 5.182
+    distance_percent: 36.9602
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 14020.4
+    distance_km: 14.02
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 14020.4
+    distance_km: 14.02
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wysoczyzna_grodziska
+    name: Wysoczyzna Grodziska
+    code: "315.59"
+    distance_meters: 13664.36
+    distance_km: 13.664
+    distance_percent: 97.4606
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+    distance_meters: 356.04
+    distance_km: 0.356
+    distance_percent: 2.5394
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 13664.36
+    distance_km: 13.664
+    distance_percent: 97.4606
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+    distance_meters: 356.04
+    distance_km: 0.356
+    distance_percent: 2.5394
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 14020.4
+    distance_km: 14.02
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 14020.4
+    distance_km: 14.02
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 14020.4
+    distance_km: 14.02
+    distance_percent: 100.0
+  touched_towns:
+  - slug: steszew
+    name: Stęszew
+    code: "3021143"
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: wysoczyzna_grodziska
+    name: Wysoczyzna Grodziska
+    code: "315.59"
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

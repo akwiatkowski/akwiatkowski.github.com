@@ -1,0 +1,216 @@
+---
+- type: bicycle
+  total_distance_meters: 68278.13
+  total_distance_km: 68.278
+  points_count: 307.0
+  towns:
+  - slug: krzywin
+    name: Krzywiń
+    code: "3011043"
+    distance_meters: 17562.05
+    distance_km: 17.562
+    distance_percent: 25.7213
+  - slug: koscian
+    name: Kościan
+    code: "3011032"
+    distance_meters: 13633.37
+    distance_km: 13.633
+    distance_percent: 19.9674
+  - slug: dolsk
+    name: Dolsk
+    code: "3026023"
+    distance_meters: 11753.07
+    distance_km: 11.753
+    distance_percent: 17.2135
+  - slug: nowe_miasto_nad_warta
+    name: Nowe Miasto nad Wartą
+    code: "3025032"
+    distance_meters: 10679.87
+    distance_km: 10.68
+    distance_percent: 15.6417
+  - slug: ksiaz_wielkopolski
+    name: Książ Wielkopolski
+    code: "3026033"
+    distance_meters: 10179.85
+    distance_km: 10.18
+    distance_percent: 14.9094
+  - slug: krzykosy
+    name: Krzykosy
+    code: "3025022"
+    distance_meters: 2614.36
+    distance_km: 2.614
+    distance_percent: 3.829
+  - slug: koscian
+    name: Kościan
+    code: "3011011"
+    distance_meters: 2282.24
+    distance_km: 2.282
+    distance_percent: 3.3426
+  - slug: gostyn
+    name: Gostyń
+    code: "3004023"
+    distance_meters: 1855.57
+    distance_km: 1.856
+    distance_percent: 2.7177
+  counties:
+  - slug: koscianski
+    name: kościański
+    code: "3011"
+    distance_meters: 31195.41
+    distance_km: 31.195
+    distance_percent: 45.6887
+  - slug: sremski
+    name: śremski
+    code: "3026"
+    distance_meters: 21932.92
+    distance_km: 21.933
+    distance_percent: 32.1229
+  - slug: sredzki
+    name: średzki
+    code: "3025"
+    distance_meters: 13294.22
+    distance_km: 13.294
+    distance_percent: 19.4707
+  - slug: gostynski
+    name: gostyński
+    code: "3004"
+    distance_meters: 1855.57
+    distance_km: 1.856
+    distance_percent: 2.7177
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 68278.13
+    distance_km: 68.278
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+    distance_meters: 31444.0
+    distance_km: 31.444
+    distance_percent: 46.0528
+  - slug: wal_zerkowski
+    name: Wał Żerkowski
+    code: "315.84"
+    distance_meters: 27447.05
+    distance_km: 27.447
+    distance_percent: 40.1989
+  - slug: rownina_koscianska
+    name: Równina Kościańska
+    code: "315.83"
+    distance_meters: 5213.22
+    distance_km: 5.213
+    distance_percent: 7.6353
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+    distance_meters: 4173.85
+    distance_km: 4.174
+    distance_percent: 6.113
+  macro_regions:
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+    distance_meters: 64104.27
+    distance_km: 64.104
+    distance_percent: 93.887
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+    distance_meters: 4173.85
+    distance_km: 4.174
+    distance_percent: 6.113
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 68278.13
+    distance_km: 68.278
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 68278.13
+    distance_km: 68.278
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 68278.13
+    distance_km: 68.278
+    distance_percent: 100.0
+  touched_towns:
+  - slug: koscian
+    name: Kościan
+    code: "3011011"
+  - slug: krzywin
+    name: Krzywiń
+    code: "3011043"
+  - slug: gostyn
+    name: Gostyń
+    code: "3004023"
+  - slug: dolsk
+    name: Dolsk
+    code: "3026023"
+  - slug: ksiaz_wielkopolski
+    name: Książ Wielkopolski
+    code: "3026033"
+  - slug: nowe_miasto_nad_warta
+    name: Nowe Miasto nad Wartą
+    code: "3025032"
+  - slug: krzykosy
+    name: Krzykosy
+    code: "3025022"
+  touched_counties:
+  - slug: koscianski
+    name: kościański
+    code: "3011"
+  - slug: gostynski
+    name: gostyński
+    code: "3004"
+  - slug: sremski
+    name: śremski
+    code: "3026"
+  - slug: sredzki
+    name: średzki
+    code: "3025"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: rownina_koscianska
+    name: Równina Kościańska
+    code: "315.83"
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+  - slug: wal_zerkowski
+    name: Wał Żerkowski
+    code: "315.84"
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+  touched_macro_regions:
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

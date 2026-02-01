@@ -1,0 +1,129 @@
+---
+- type: bicycle
+  total_distance_meters: 44014.29
+  total_distance_km: 44.014
+  points_count: 263.0
+  towns:
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+    distance_meters: 27021.46
+    distance_km: 27.021
+    distance_percent: 61.3925
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+    distance_meters: 14811.53
+    distance_km: 14.812
+    distance_percent: 33.6516
+  - slug: kiszkowo
+    name: Kiszkowo
+    code: "3003042"
+    distance_meters: 2181.3
+    distance_km: 2.181
+    distance_percent: 4.9559
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 41832.99
+    distance_km: 41.833
+    distance_percent: 95.0441
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+    distance_meters: 2181.3
+    distance_km: 2.181
+    distance_percent: 4.9559
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 44014.29
+    distance_km: 44.014
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 43679.96
+    distance_km: 43.68
+    distance_percent: 99.2404
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 334.32
+    distance_km: 0.334
+    distance_percent: 0.7596
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 44014.29
+    distance_km: 44.014
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 44014.29
+    distance_km: 44.014
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 44014.29
+    distance_km: 44.014
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 44014.29
+    distance_km: 44.014
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+  - slug: kiszkowo
+    name: Kiszkowo
+    code: "3003042"
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

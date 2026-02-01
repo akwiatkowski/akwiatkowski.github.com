@@ -1,0 +1,201 @@
+---
+- type: bicycle
+  total_distance_meters: 68926.93
+  total_distance_km: 68.927
+  points_count: 601.0
+  towns:
+  - slug: morag
+    name: Morąg
+    code: "2815083"
+    distance_meters: 22453.52
+    distance_km: 22.454
+    distance_percent: 32.5758
+  - slug: jonkowo
+    name: Jonkowo
+    code: "2814072"
+    distance_meters: 20811.48
+    distance_km: 20.811
+    distance_percent: 30.1935
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862011"
+    distance_meters: 11493.2
+    distance_km: 11.493
+    distance_percent: 16.6745
+  - slug: lukta
+    name: Łukta
+    code: "2815042"
+    distance_meters: 7657.12
+    distance_km: 7.657
+    distance_percent: 11.109
+  - slug: milomlyn
+    name: Miłomłyn
+    code: "2815073"
+    distance_meters: 6511.61
+    distance_km: 6.512
+    distance_percent: 9.4471
+  counties:
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 36622.25
+    distance_km: 36.622
+    distance_percent: 53.132
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+    distance_meters: 32304.68
+    distance_km: 32.305
+    distance_percent: 46.868
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862"
+    distance_meters: 11493.2
+    distance_km: 11.493
+    distance_percent: 16.6745
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 68926.93
+    distance_km: 68.927
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+    distance_meters: 38216.68
+    distance_km: 38.217
+    distance_percent: 55.4452
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 29739.77
+    distance_km: 29.74
+    distance_percent: 43.1468
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+    distance_meters: 970.49
+    distance_km: 0.97
+    distance_percent: 1.408
+  macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 67956.45
+    distance_km: 67.956
+    distance_percent: 98.592
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 970.49
+    distance_km: 0.97
+    distance_percent: 1.408
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 67956.45
+    distance_km: 67.956
+    distance_percent: 98.592
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 970.49
+    distance_km: 0.97
+    distance_percent: 1.408
+  subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 67956.45
+    distance_km: 67.956
+    distance_percent: 98.592
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 970.49
+    distance_km: 0.97
+    distance_percent: 1.408
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 67956.45
+    distance_km: 67.956
+    distance_percent: 98.592
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 970.49
+    distance_km: 0.97
+    distance_percent: 1.408
+  touched_towns:
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862011"
+  - slug: jonkowo
+    name: Jonkowo
+    code: "2814072"
+  - slug: lukta
+    name: Łukta
+    code: "2815042"
+  - slug: morag
+    name: Morąg
+    code: "2815083"
+  - slug: milomlyn
+    name: Miłomłyn
+    code: "2815073"
+  touched_counties:
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862"
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

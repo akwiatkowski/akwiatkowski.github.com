@@ -1,0 +1,111 @@
+---
+- type: train
+  total_distance_meters: 14865.14
+  total_distance_km: 14.865
+  points_count: 68.0
+  towns:
+  - slug: pniewy
+    name: Pniewy
+    code: "3024063"
+    distance_meters: 8772.98
+    distance_km: 8.773
+    distance_percent: 59.0172
+  - slug: chrzypsko_wielkie
+    name: Chrzypsko Wielkie
+    code: "3014012"
+    distance_meters: 6092.15
+    distance_km: 6.092
+    distance_percent: 40.9828
+  counties:
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+    distance_meters: 8772.98
+    distance_km: 8.773
+    distance_percent: 59.0172
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+    distance_meters: 6092.15
+    distance_km: 6.092
+    distance_percent: 40.9828
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 14865.14
+    distance_km: 14.865
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 14865.14
+    distance_km: 14.865
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 14865.14
+    distance_km: 14.865
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 14865.14
+    distance_km: 14.865
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 14865.14
+    distance_km: 14.865
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 14865.14
+    distance_km: 14.865
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pniewy
+    name: Pniewy
+    code: "3024063"
+  - slug: chrzypsko_wielkie
+    name: Chrzypsko Wielkie
+    code: "3014012"
+  touched_counties:
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

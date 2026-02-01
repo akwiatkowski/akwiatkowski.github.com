@@ -1,0 +1,210 @@
+---
+- type: bicycle
+  total_distance_meters: 51167.39
+  total_distance_km: 51.167
+  points_count: 573.0
+  towns:
+  - slug: mirsk
+    name: Mirsk
+    code: "0212043"
+    distance_meters: 14473.24
+    distance_km: 14.473
+    distance_percent: 28.2861
+  - slug: stara_kamienica
+    name: Stara Kamienica
+    code: 0206092
+    distance_meters: 10934.93
+    distance_km: 10.935
+    distance_percent: 21.3709
+  - slug: jezow_sudecki
+    name: Jeżów Sudecki
+    code: "0206062"
+    distance_meters: 10004.9
+    distance_km: 10.005
+    distance_percent: 19.5533
+  - slug: wlen
+    name: Wleń
+    code: "0212053"
+    distance_meters: 6221.47
+    distance_km: 6.221
+    distance_percent: 12.1591
+  - slug: lubomierz
+    name: Lubomierz
+    code: "0212023"
+    distance_meters: 3517.17
+    distance_km: 3.517
+    distance_percent: 6.8738
+  - slug: jelenia_gora
+    name: Jelenia Góra
+    code: "0261011"
+    distance_meters: 3445.13
+    distance_km: 3.445
+    distance_percent: 6.7331
+  - slug: swieradowzdroj
+    name: Świeradów-Zdrój
+    code: "0210021"
+    distance_meters: 2570.56
+    distance_km: 2.571
+    distance_percent: 5.0238
+  counties:
+  - slug: lwowecki
+    name: lwówecki
+    code: "0212"
+    distance_meters: 24211.88
+    distance_km: 24.212
+    distance_percent: 47.319
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+    distance_meters: 20939.83
+    distance_km: 20.94
+    distance_percent: 40.9242
+  - slug: jelenia_gora
+    name: Jelenia Góra
+    code: "0261"
+    distance_meters: 3445.13
+    distance_km: 3.445
+    distance_percent: 6.7331
+  - slug: lubanski
+    name: lubański
+    code: "0210"
+    distance_meters: 2570.56
+    distance_km: 2.571
+    distance_percent: 5.0238
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 51167.39
+    distance_km: 51.167
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pogorze_izerskie
+    name: Pogórze Izerskie
+    code: "332.26"
+    distance_meters: 27661.61
+    distance_km: 27.662
+    distance_percent: 54.061
+  - slug: gory_kaczawskie
+    name: Góry Kaczawskie
+    code: "332.35"
+    distance_meters: 11543.95
+    distance_km: 11.544
+    distance_percent: 22.5611
+  - slug: gory_izerskie
+    name: Góry Izerskie
+    code: "332.34"
+    distance_meters: 5993.54
+    distance_km: 5.994
+    distance_percent: 11.7136
+  - slug: kotlina_jeleniogorska
+    name: Kotlina Jeleniogórska
+    code: "332.36"
+    distance_meters: 5968.3
+    distance_km: 5.968
+    distance_percent: 11.6643
+  macro_regions:
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+    distance_meters: 27661.61
+    distance_km: 27.662
+    distance_percent: 54.061
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 23505.78
+    distance_km: 23.506
+    distance_percent: 45.939
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 51167.39
+    distance_km: 51.167
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 51167.39
+    distance_km: 51.167
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 51167.39
+    distance_km: 51.167
+    distance_percent: 100.0
+  touched_towns:
+  - slug: swieradowzdroj
+    name: Świeradów-Zdrój
+    code: "0210021"
+  - slug: mirsk
+    name: Mirsk
+    code: "0212043"
+  - slug: stara_kamienica
+    name: Stara Kamienica
+    code: 0206092
+  - slug: lubomierz
+    name: Lubomierz
+    code: "0212023"
+  - slug: wlen
+    name: Wleń
+    code: "0212053"
+  - slug: jezow_sudecki
+    name: Jeżów Sudecki
+    code: "0206062"
+  - slug: jelenia_gora
+    name: Jelenia Góra
+    code: "0261011"
+  touched_counties:
+  - slug: lubanski
+    name: lubański
+    code: "0210"
+  - slug: lwowecki
+    name: lwówecki
+    code: "0212"
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+  - slug: jelenia_gora
+    name: Jelenia Góra
+    code: "0261"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_izerskie
+    name: Góry Izerskie
+    code: "332.34"
+  - slug: pogorze_izerskie
+    name: Pogórze Izerskie
+    code: "332.26"
+  - slug: gory_kaczawskie
+    name: Góry Kaczawskie
+    code: "332.35"
+  - slug: kotlina_jeleniogorska
+    name: Kotlina Jeleniogórska
+    code: "332.36"
+  touched_macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

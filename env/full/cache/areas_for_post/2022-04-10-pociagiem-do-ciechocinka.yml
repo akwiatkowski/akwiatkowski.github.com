@@ -1,0 +1,555 @@
+---
+- type: train
+  total_distance_meters: 296313.37
+  total_distance_km: 296.313
+  points_count: 224.0
+  towns:
+  - slug: wielka_nieszawka
+    name: Wielka Nieszawka
+    code: 0415082
+    distance_meters: 26731.42
+    distance_km: 26.731
+    distance_percent: 9.0213
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+    distance_meters: 23155.07
+    distance_km: 23.155
+    distance_percent: 7.8144
+  - slug: plonsk
+    name: Płońsk
+    code: "1420092"
+    distance_meters: 18599.65
+    distance_km: 18.6
+    distance_percent: 6.277
+  - slug: raciaz
+    name: Raciąż
+    code: "1420102"
+    distance_meters: 17463.25
+    distance_km: 17.463
+    distance_percent: 5.8935
+  - slug: gniewkowo
+    name: Gniewkowo
+    code: "0407033"
+    distance_meters: 16795.65
+    distance_km: 16.796
+    distance_percent: 5.6682
+  - slug: nasielsk
+    name: Nasielsk
+    code: "1414043"
+    distance_meters: 16488.71
+    distance_km: 16.489
+    distance_percent: 5.5646
+  - slug: lipno
+    name: Lipno
+    code: 0408062
+    distance_meters: 15986.92
+    distance_km: 15.987
+    distance_percent: 5.3953
+  - slug: skepe
+    name: Skępe
+    code: 0408073
+    distance_meters: 14108.38
+    distance_km: 14.108
+    distance_percent: 4.7613
+  - slug: zawidz
+    name: Zawidz
+    code: "1427072"
+    distance_meters: 13893.04
+    distance_km: 13.893
+    distance_percent: 4.6886
+  - slug: sierpc
+    name: Sierpc
+    code: "1427052"
+    distance_meters: 13126.43
+    distance_km: 13.126
+    distance_percent: 4.4299
+  - slug: warszawa
+    name: Warszawa
+    code: "1465011"
+    distance_meters: 12864.7
+    distance_km: 12.865
+    distance_percent: 4.3416
+  - slug: czernikowo
+    name: Czernikowo
+    code: "0415032"
+    distance_meters: 12858.04
+    distance_km: 12.858
+    distance_percent: 4.3393
+  - slug: jablonna
+    name: Jabłonna
+    code: "1408022"
+    distance_meters: 11976.61
+    distance_km: 11.977
+    distance_percent: 4.0419
+  - slug: baboszewo
+    name: Baboszewo
+    code: "1420032"
+    distance_meters: 10526.05
+    distance_km: 10.526
+    distance_percent: 3.5523
+  - slug: obrowo
+    name: Obrowo
+    code: "0415072"
+    distance_meters: 10502.9
+    distance_km: 10.503
+    distance_percent: 3.5445
+  - slug: pomiechowek
+    name: Pomiechówek
+    code: "1414052"
+    distance_meters: 9792.49
+    distance_km: 9.792
+    distance_percent: 3.3048
+  - slug: aleksandrow_kujawski
+    name: Aleksandrów Kujawski
+    code: "0401011"
+    distance_meters: 7635.09
+    distance_km: 7.635
+    distance_percent: 2.5767
+  - slug: aleksandrow_kujawski
+    name: Aleksandrów Kujawski
+    code: "0401042"
+    distance_meters: 7467.57
+    distance_km: 7.468
+    distance_percent: 2.5202
+  - slug: joniec
+    name: Joniec
+    code: "1420062"
+    distance_meters: 7260.45
+    distance_km: 7.26
+    distance_percent: 2.4503
+  - slug: nowy_dwor_mazowiecki
+    name: Nowy Dwór Mazowiecki
+    code: "1414011"
+    distance_meters: 5436.64
+    distance_km: 5.437
+    distance_percent: 1.8348
+  - slug: sierpc
+    name: Sierpc
+    code: "1427011"
+    distance_meters: 5147.71
+    distance_km: 5.148
+    distance_percent: 1.7373
+  - slug: lubicz
+    name: Lubicz
+    code: "0415042"
+    distance_meters: 4856.38
+    distance_km: 4.856
+    distance_percent: 1.6389
+  - slug: legionowo
+    name: Legionowo
+    code: "1408011"
+    distance_meters: 3940.19
+    distance_km: 3.94
+    distance_percent: 1.3297
+  - slug: plonsk
+    name: Płońsk
+    code: "1420011"
+    distance_meters: 3885.17
+    distance_km: 3.885
+    distance_percent: 1.3112
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+    distance_meters: 3269.7
+    distance_km: 3.27
+    distance_percent: 1.1035
+  - slug: wieliszew
+    name: Wieliszew
+    code: "1408052"
+    distance_meters: 2045.3
+    distance_km: 2.045
+    distance_percent: 0.6902
+  - slug: raciaz
+    name: Raciąż
+    code: "1420021"
+    distance_meters: 2002.62
+    distance_km: 2.003
+    distance_percent: 0.6758
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407011"
+    distance_meters: 1994.2
+    distance_km: 1.994
+    distance_percent: 0.673
+  - slug: kikol
+    name: Kikół
+    code: 0408052
+    distance_meters: 1006.76
+    distance_km: 1.007
+    distance_percent: 0.3398
+  - slug: nowe_miasto
+    name: Nowe Miasto
+    code: "1420082"
+    distance_meters: 847.88
+    distance_km: 0.848
+    distance_percent: 0.2861
+  - slug: mochowo
+    name: Mochowo
+    code: "1427032"
+    distance_meters: 536.22
+    distance_km: 0.536
+    distance_percent: 0.181
+  - slug: lipno
+    name: Lipno
+    code: 0408011
+    distance_meters: 455.8
+    distance_km: 0.456
+    distance_percent: 0.1538
+  counties:
+  - slug: torunski
+    name: toruński
+    code: "0415"
+    distance_meters: 78103.8
+    distance_km: 78.104
+    distance_percent: 26.3585
+  - slug: plonski
+    name: płoński
+    code: "1420"
+    distance_meters: 54697.28
+    distance_km: 54.697
+    distance_percent: 18.4593
+  - slug: sierpecki
+    name: sierpecki
+    code: "1427"
+    distance_meters: 32703.4
+    distance_km: 32.703
+    distance_percent: 11.0368
+  - slug: nowodworski
+    name: nowodworski
+    code: "1414"
+    distance_meters: 31717.84
+    distance_km: 31.718
+    distance_percent: 10.7042
+  - slug: lipnowski
+    name: lipnowski
+    code: 0408
+    distance_meters: 31102.05
+    distance_km: 31.102
+    distance_percent: 10.4963
+  - slug: torun
+    name: Toruń
+    code: "0463"
+    distance_meters: 23155.07
+    distance_km: 23.155
+    distance_percent: 7.8144
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+    distance_meters: 22059.55
+    distance_km: 22.06
+    distance_percent: 7.4447
+  - slug: legionowski
+    name: legionowski
+    code: "1408"
+    distance_meters: 17962.1
+    distance_km: 17.962
+    distance_percent: 6.0619
+  - slug: aleksandrowski
+    name: aleksandrowski
+    code: "0401"
+    distance_meters: 15102.66
+    distance_km: 15.103
+    distance_percent: 5.0969
+  - slug: warszawa
+    name: Warszawa
+    code: "1465"
+    distance_meters: 12864.7
+    distance_km: 12.865
+    distance_percent: 4.3416
+  voivodeships:
+  - slug: mazowieckie
+    name: MAZOWIECKIE
+    code: "14"
+    distance_meters: 149945.31
+    distance_km: 149.945
+    distance_percent: 50.6036
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 146368.06
+    distance_km: 146.368
+    distance_percent: 49.3964
+  meso_regions:
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+    distance_meters: 73939.31
+    distance_km: 73.939
+    distance_percent: 24.9531
+  - slug: wysoczyzna_plonska
+    name: Wysoczyzna Płońska
+    code: "318.61"
+    distance_meters: 67422.23
+    distance_km: 67.422
+    distance_percent: 22.7537
+  - slug: kotlina_warszawska
+    name: Kotlina Warszawska
+    code: "318.73"
+    distance_meters: 41820.91
+    distance_km: 41.821
+    distance_percent: 14.1137
+  - slug: pojezierze_dobrzynskie
+    name: Pojezierze Dobrzyńskie
+    code: "315.14"
+    distance_meters: 37125.03
+    distance_km: 37.125
+    distance_percent: 12.529
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+    distance_meters: 27339.32
+    distance_km: 27.339
+    distance_percent: 9.2265
+  - slug: wysoczyzna_ciechanowska
+    name: Wysoczyzna Ciechanowska
+    code: "318.64"
+    distance_meters: 22706.35
+    distance_km: 22.706
+    distance_percent: 7.663
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+    distance_meters: 19682.51
+    distance_km: 19.683
+    distance_percent: 6.6425
+  - slug: rownina_raciaska
+    name: Równina Raciąska
+    code: "318.62"
+    distance_meters: 5697.12
+    distance_km: 5.697
+    distance_percent: 1.9227
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+    distance_meters: 442.96
+    distance_km: 0.443
+    distance_percent: 0.1495
+  - slug: rownina_warszawska
+    name: Równina Warszawska
+    code: "318.76"
+    distance_meters: 137.63
+    distance_km: 0.138
+    distance_percent: 0.0464
+  macro_regions:
+  - slug: nizina_polnocnomazowiecka
+    name: Nizina Północnomazowiecka
+    code: "318"
+    distance_meters: 95825.7
+    distance_km: 95.826
+    distance_percent: 32.3393
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 73939.31
+    distance_km: 73.939
+    distance_percent: 24.9531
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 64907.31
+    distance_km: 64.907
+    distance_percent: 21.905
+  - slug: nizina_srodkowomazowiecka
+    name: Nizina Środkowomazowiecka
+    code: "318"
+    distance_meters: 41958.54
+    distance_km: 41.959
+    distance_percent: 14.1602
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 19682.51
+    distance_km: 19.683
+    distance_percent: 6.6425
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 296313.37
+    distance_km: 296.313
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 158529.13
+    distance_km: 158.529
+    distance_percent: 53.5005
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 137784.24
+    distance_km: 137.784
+    distance_percent: 46.4995
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 296313.37
+    distance_km: 296.313
+    distance_percent: 100.0
+  touched_towns:
+  - slug: warszawa
+    name: Warszawa
+    code: "1465011"
+  - slug: jablonna
+    name: Jabłonna
+    code: "1408022"
+  - slug: legionowo
+    name: Legionowo
+    code: "1408011"
+  - slug: wieliszew
+    name: Wieliszew
+    code: "1408052"
+  - slug: nowy_dwor_mazowiecki
+    name: Nowy Dwór Mazowiecki
+    code: "1414011"
+  - slug: pomiechowek
+    name: Pomiechówek
+    code: "1414052"
+  - slug: nasielsk
+    name: Nasielsk
+    code: "1414043"
+  - slug: joniec
+    name: Joniec
+    code: "1420062"
+  - slug: plonsk
+    name: Płońsk
+    code: "1420092"
+  - slug: baboszewo
+    name: Baboszewo
+    code: "1420032"
+  - slug: raciaz
+    name: Raciąż
+    code: "1420102"
+  - slug: zawidz
+    name: Zawidz
+    code: "1427072"
+  - slug: sierpc
+    name: Sierpc
+    code: "1427052"
+  - slug: skepe
+    name: Skępe
+    code: 0408073
+  - slug: lipno
+    name: Lipno
+    code: 0408062
+  - slug: czernikowo
+    name: Czernikowo
+    code: "0415032"
+  - slug: lubicz
+    name: Lubicz
+    code: "0415042"
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+  - slug: wielka_nieszawka
+    name: Wielka Nieszawka
+    code: 0415082
+  - slug: aleksandrow_kujawski
+    name: Aleksandrów Kujawski
+    code: "0401011"
+  - slug: gniewkowo
+    name: Gniewkowo
+    code: "0407033"
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407011"
+  touched_counties:
+  - slug: warszawa
+    name: Warszawa
+    code: "1465"
+  - slug: legionowski
+    name: legionowski
+    code: "1408"
+  - slug: nowodworski
+    name: nowodworski
+    code: "1414"
+  - slug: plonski
+    name: płoński
+    code: "1420"
+  - slug: sierpecki
+    name: sierpecki
+    code: "1427"
+  - slug: lipnowski
+    name: lipnowski
+    code: 0408
+  - slug: torunski
+    name: toruński
+    code: "0415"
+  - slug: torun
+    name: Toruń
+    code: "0463"
+  - slug: aleksandrowski
+    name: aleksandrowski
+    code: "0401"
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+  touched_voivodeships:
+  - slug: mazowieckie
+    name: MAZOWIECKIE
+    code: "14"
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: rownina_warszawska
+    name: Równina Warszawska
+    code: "318.76"
+  - slug: kotlina_warszawska
+    name: Kotlina Warszawska
+    code: "318.73"
+  - slug: wysoczyzna_ciechanowska
+    name: Wysoczyzna Ciechanowska
+    code: "318.64"
+  - slug: wysoczyzna_plonska
+    name: Wysoczyzna Płońska
+    code: "318.61"
+  - slug: rownina_raciaska
+    name: Równina Raciąska
+    code: "318.62"
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+  - slug: pojezierze_dobrzynskie
+    name: Pojezierze Dobrzyńskie
+    code: "315.14"
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+  touched_macro_regions:
+  - slug: nizina_srodkowomazowiecka
+    name: Nizina Środkowomazowiecka
+    code: "318"
+  - slug: nizina_polnocnomazowiecka
+    name: Nizina Północnomazowiecka
+    code: "318"
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

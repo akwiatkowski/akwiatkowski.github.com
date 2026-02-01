@@ -1,0 +1,102 @@
+---
+- type: hike
+  total_distance_meters: 9438.69
+  total_distance_km: 9.439
+  points_count: 63.0
+  towns:
+  - slug: mrozy
+    name: Mrozy
+    code: "1412123"
+    distance_meters: 7851.43
+    distance_km: 7.851
+    distance_percent: 83.1835
+  - slug: kaluszyn
+    name: Kałuszyn
+    code: "1412093"
+    distance_meters: 1587.26
+    distance_km: 1.587
+    distance_percent: 16.8165
+  counties:
+  - slug: minski
+    name: miński
+    code: "1412"
+    distance_meters: 9438.69
+    distance_km: 9.439
+    distance_percent: 100.0
+  voivodeships:
+  - slug: mazowieckie
+    name: MAZOWIECKIE
+    code: "14"
+    distance_meters: 9438.69
+    distance_km: 9.439
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wysoczyzna_kaluszynska
+    name: Wysoczyzna Kałuszyńska
+    code: "318.92"
+    distance_meters: 9438.69
+    distance_km: 9.439
+    distance_percent: 100.0
+  macro_regions:
+  - slug: nizina_poludniowopodlaska
+    name: Nizina Południowopodlaska
+    code: "318"
+    distance_meters: 9438.69
+    distance_km: 9.439
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 9438.69
+    distance_km: 9.439
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 9438.69
+    distance_km: 9.439
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 9438.69
+    distance_km: 9.439
+    distance_percent: 100.0
+  touched_towns:
+  - slug: mrozy
+    name: Mrozy
+    code: "1412123"
+  - slug: kaluszyn
+    name: Kałuszyn
+    code: "1412093"
+  touched_counties:
+  - slug: minski
+    name: miński
+    code: "1412"
+  touched_voivodeships:
+  - slug: mazowieckie
+    name: MAZOWIECKIE
+    code: "14"
+  touched_meso_regions:
+  - slug: wysoczyzna_kaluszynska
+    name: Wysoczyzna Kałuszyńska
+    code: "318.92"
+  touched_macro_regions:
+  - slug: nizina_poludniowopodlaska
+    name: Nizina Południowopodlaska
+    code: "318"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

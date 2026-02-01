@@ -1,0 +1,198 @@
+---
+- type: bicycle
+  total_distance_meters: 79288.88
+  total_distance_km: 79.289
+  points_count: 334.0
+  towns:
+  - slug: radowo_male
+    name: Radowo Małe
+    code: "3218032"
+    distance_meters: 17923.48
+    distance_km: 17.923
+    distance_percent: 22.6053
+  - slug: maszewo
+    name: Maszewo
+    code: "3204033"
+    distance_meters: 15522.86
+    distance_km: 15.523
+    distance_percent: 19.5776
+  - slug: dobra
+    name: Dobra
+    code: "3218013"
+    distance_meters: 13307.57
+    distance_km: 13.308
+    distance_percent: 16.7837
+  - slug: lobez
+    name: Łobez
+    code: "3218023"
+    distance_meters: 13025.83
+    distance_km: 13.026
+    distance_percent: 16.4283
+  - slug: stara_dabrowa
+    name: Stara Dąbrowa
+    code: "3214092"
+    distance_meters: 7813.51
+    distance_km: 7.814
+    distance_percent: 9.8545
+  - slug: stargard
+    name: Stargard
+    code: "3214102"
+    distance_meters: 7275.15
+    distance_km: 7.275
+    distance_percent: 9.1755
+  - slug: stargard
+    name: Stargard
+    code: "3214011"
+    distance_meters: 4420.49
+    distance_km: 4.42
+    distance_percent: 5.5752
+  counties:
+  - slug: lobeski
+    name: łobeski
+    code: "3218"
+    distance_meters: 44256.88
+    distance_km: 44.257
+    distance_percent: 55.8173
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+    distance_meters: 19509.14
+    distance_km: 19.509
+    distance_percent: 24.6051
+  - slug: goleniowski
+    name: goleniowski
+    code: "3204"
+    distance_meters: 15522.86
+    distance_km: 15.523
+    distance_percent: 19.5776
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 79288.88
+    distance_km: 79.289
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_nowogardzka
+    name: Równina Nowogardzka
+    code: "313.32"
+    distance_meters: 39919.9
+    distance_km: 39.92
+    distance_percent: 50.3474
+  - slug: wysoczyzna_lobeska
+    name: Wysoczyzna Łobeska
+    code: "314.44"
+    distance_meters: 28228.89
+    distance_km: 28.229
+    distance_percent: 35.6026
+  - slug: pojezierze_inskie
+    name: Pojezierze Ińskie
+    code: "314.43"
+    distance_meters: 11140.09
+    distance_km: 11.14
+    distance_percent: 14.05
+  macro_regions:
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+    distance_meters: 39919.9
+    distance_km: 39.92
+    distance_percent: 50.3474
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 39368.98
+    distance_km: 39.369
+    distance_percent: 49.6526
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 79288.88
+    distance_km: 79.289
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 39919.9
+    distance_km: 39.92
+    distance_percent: 50.3474
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 39368.98
+    distance_km: 39.369
+    distance_percent: 49.6526
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 79288.88
+    distance_km: 79.289
+    distance_percent: 100.0
+  touched_towns:
+  - slug: lobez
+    name: Łobez
+    code: "3218023"
+  - slug: radowo_male
+    name: Radowo Małe
+    code: "3218032"
+  - slug: dobra
+    name: Dobra
+    code: "3218013"
+  - slug: maszewo
+    name: Maszewo
+    code: "3204033"
+  - slug: stara_dabrowa
+    name: Stara Dąbrowa
+    code: "3214092"
+  - slug: stargard
+    name: Stargard
+    code: "3214102"
+  touched_counties:
+  - slug: lobeski
+    name: łobeski
+    code: "3218"
+  - slug: goleniowski
+    name: goleniowski
+    code: "3204"
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: wysoczyzna_lobeska
+    name: Wysoczyzna Łobeska
+    code: "314.44"
+  - slug: pojezierze_inskie
+    name: Pojezierze Ińskie
+    code: "314.43"
+  - slug: rownina_nowogardzka
+    name: Równina Nowogardzka
+    code: "313.32"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

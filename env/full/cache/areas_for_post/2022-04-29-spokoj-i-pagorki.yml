@@ -1,0 +1,120 @@
+---
+- type: bicycle
+  total_distance_meters: 45213.29
+  total_distance_km: 45.213
+  points_count: 307.0
+  towns:
+  - slug: recz
+    name: Recz
+    code: "3202063"
+    distance_meters: 26173.22
+    distance_km: 26.173
+    distance_percent: 57.8883
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+    distance_meters: 13135.4
+    distance_km: 13.135
+    distance_percent: 29.0521
+  - slug: krzecin
+    name: Krzęcin
+    code: "3202042"
+    distance_meters: 5904.67
+    distance_km: 5.905
+    distance_percent: 13.0596
+  counties:
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+    distance_meters: 45213.29
+    distance_km: 45.213
+    distance_percent: 100.0
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 45213.29
+    distance_km: 45.213
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+    distance_meters: 39263.57
+    distance_km: 39.264
+    distance_percent: 86.8408
+  - slug: pojezierze_inskie
+    name: Pojezierze Ińskie
+    code: "314.43"
+    distance_meters: 5949.71
+    distance_km: 5.95
+    distance_percent: 13.1592
+  macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 45213.29
+    distance_km: 45.213
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 45213.29
+    distance_km: 45.213
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 45213.29
+    distance_km: 45.213
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 45213.29
+    distance_km: 45.213
+    distance_percent: 100.0
+  touched_towns:
+  - slug: krzecin
+    name: Krzęcin
+    code: "3202042"
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+  - slug: recz
+    name: Recz
+    code: "3202063"
+  touched_counties:
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+  - slug: pojezierze_inskie
+    name: Pojezierze Ińskie
+    code: "314.43"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,120 @@
+---
+- type: hike
+  total_distance_meters: 11937.97
+  total_distance_km: 11.938
+  points_count: 209.0
+  towns:
+  - slug: nowa_ruda
+    name: Nowa Ruda
+    code: 0208112
+    distance_meters: 9016.67
+    distance_km: 9.017
+    distance_percent: 75.5293
+  - slug: pieszyce
+    name: Pieszyce
+    code: "0202033"
+    distance_meters: 2921.3
+    distance_km: 2.921
+    distance_percent: 24.4707
+  counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+    distance_meters: 9016.67
+    distance_km: 9.017
+    distance_percent: 75.5293
+  - slug: dzierzoniowski
+    name: dzierżoniowski
+    code: "0202"
+    distance_meters: 2921.3
+    distance_km: 2.921
+    distance_percent: 24.4707
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 11937.97
+    distance_km: 11.938
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gory_sowie
+    name: Góry Sowie
+    code: "332.44"
+    distance_meters: 6297.13
+    distance_km: 6.297
+    distance_percent: 52.7488
+  - slug: obnizenie_noworudzkie
+    name: Obniżenie Noworudzkie
+    code: "332.46"
+    distance_meters: 5640.84
+    distance_km: 5.641
+    distance_percent: 47.2512
+  macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 11937.97
+    distance_km: 11.938
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 11937.97
+    distance_km: 11.938
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 11937.97
+    distance_km: 11.938
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 11937.97
+    distance_km: 11.938
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pieszyce
+    name: Pieszyce
+    code: "0202033"
+  - slug: nowa_ruda
+    name: Nowa Ruda
+    code: 0208112
+  touched_counties:
+  - slug: dzierzoniowski
+    name: dzierżoniowski
+    code: "0202"
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_sowie
+    name: Góry Sowie
+    code: "332.44"
+  - slug: obnizenie_noworudzkie
+    name: Obniżenie Noworudzkie
+    code: "332.46"
+  touched_macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

@@ -1,0 +1,348 @@
+---
+- type: train
+  total_distance_meters: 188078.28
+  total_distance_km: 188.078
+  points_count: 270.0
+  towns:
+  - slug: plosnica
+    name: Płośnica
+    code: "2803052"
+    distance_meters: 24148.13
+    distance_km: 24.148
+    distance_percent: 12.8394
+  - slug: szczytno
+    name: Szczytno
+    code: "2817062"
+    distance_meters: 21138.54
+    distance_km: 21.139
+    distance_percent: 11.2392
+  - slug: stawiguda
+    name: Stawiguda
+    code: "2814112"
+    distance_meters: 19091.53
+    distance_km: 19.092
+    distance_percent: 10.1508
+  - slug: dzialdowo
+    name: Działdowo
+    code: "2803022"
+    distance_meters: 18281.36
+    distance_km: 18.281
+    distance_percent: 9.7201
+  - slug: nidzica
+    name: Nidzica
+    code: "2811043"
+    distance_meters: 18172.01
+    distance_km: 18.172
+    distance_percent: 9.6619
+  - slug: olsztynek
+    name: Olsztynek
+    code: "2814093"
+    distance_meters: 17155.83
+    distance_km: 17.156
+    distance_percent: 9.1216
+  - slug: purda
+    name: Purda
+    code: "2814102"
+    distance_meters: 16408.44
+    distance_km: 16.408
+    distance_percent: 8.7243
+  - slug: pasym
+    name: Pasym
+    code: "2817043"
+    distance_meters: 13786.84
+    distance_km: 13.787
+    distance_percent: 7.3304
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862011"
+    distance_meters: 11092.99
+    distance_km: 11.093
+    distance_percent: 5.8981
+  - slug: kozlowo
+    name: Kozłowo
+    code: "2811032"
+    distance_meters: 10821.49
+    distance_km: 10.821
+    distance_percent: 5.7537
+  - slug: wielbark
+    name: Wielbark
+    code: "2817083"
+    distance_meters: 9099.26
+    distance_km: 9.099
+    distance_percent: 4.838
+  - slug: lidzbark
+    name: Lidzbark
+    code: "2803043"
+    distance_meters: 8881.87
+    distance_km: 8.882
+    distance_percent: 4.7224
+  - slug: szczytno
+    name: Szczytno
+    code: "2817011"
+    distance_meters: 4054.53
+    distance_km: 4.055
+    distance_percent: 2.1558
+  - slug: dzialdowo
+    name: Działdowo
+    code: "2803011"
+    distance_meters: 3469.69
+    distance_km: 3.47
+    distance_percent: 1.8448
+  counties:
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+    distance_meters: 63748.79
+    distance_km: 63.749
+    distance_percent: 33.8948
+  - slug: dzialdowski
+    name: działdowski
+    code: "2803"
+    distance_meters: 51311.36
+    distance_km: 51.311
+    distance_percent: 27.2819
+  - slug: szczycienski
+    name: szczycieński
+    code: "2817"
+    distance_meters: 44024.63
+    distance_km: 44.025
+    distance_percent: 23.4076
+  - slug: nidzicki
+    name: nidzicki
+    code: "2811"
+    distance_meters: 28993.5
+    distance_km: 28.994
+    distance_percent: 15.4157
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862"
+    distance_meters: 11092.99
+    distance_km: 11.093
+    distance_percent: 5.8981
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 188078.28
+    distance_km: 188.078
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+    distance_meters: 54455.91
+    distance_km: 54.456
+    distance_percent: 28.9539
+  - slug: wzniesienia_mlawskie
+    name: Wzniesienia Mławskie
+    code: "318.63"
+    distance_meters: 49360.21
+    distance_km: 49.36
+    distance_percent: 26.2445
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 25186.07
+    distance_km: 25.186
+    distance_percent: 13.3913
+  - slug: rownina_mazurska
+    name: Równina Mazurska
+    code: "842.87"
+    distance_meters: 23661.57
+    distance_km: 23.662
+    distance_percent: 12.5807
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+    distance_meters: 18996.77
+    distance_km: 18.997
+    distance_percent: 10.1005
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+    distance_meters: 8317.9
+    distance_km: 8.318
+    distance_percent: 4.4226
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+    distance_meters: 8099.86
+    distance_km: 8.1
+    distance_percent: 4.3066
+  macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 111621.44
+    distance_km: 111.621
+    distance_percent: 59.3484
+  - slug: nizina_polnocnomazowiecka
+    name: Nizina Północnomazowiecka
+    code: "318"
+    distance_meters: 49360.21
+    distance_km: 49.36
+    distance_percent: 26.2445
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 27096.63
+    distance_km: 27.097
+    distance_percent: 14.4071
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 111621.44
+    distance_km: 111.621
+    distance_percent: 59.3484
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 76456.84
+    distance_km: 76.457
+    distance_percent: 40.6516
+  subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 111621.44
+    distance_km: 111.621
+    distance_percent: 59.3484
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 49360.21
+    distance_km: 49.36
+    distance_percent: 26.2445
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 27096.63
+    distance_km: 27.097
+    distance_percent: 14.4071
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 111621.44
+    distance_km: 111.621
+    distance_percent: 59.3484
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 76456.84
+    distance_km: 76.457
+    distance_percent: 40.6516
+  touched_towns:
+  - slug: wielbark
+    name: Wielbark
+    code: "2817083"
+  - slug: szczytno
+    name: Szczytno
+    code: "2817062"
+  - slug: pasym
+    name: Pasym
+    code: "2817043"
+  - slug: purda
+    name: Purda
+    code: "2814102"
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862011"
+  - slug: stawiguda
+    name: Stawiguda
+    code: "2814112"
+  - slug: olsztynek
+    name: Olsztynek
+    code: "2814093"
+  - slug: nidzica
+    name: Nidzica
+    code: "2811043"
+  - slug: kozlowo
+    name: Kozłowo
+    code: "2811032"
+  - slug: dzialdowo
+    name: Działdowo
+    code: "2803022"
+  - slug: plosnica
+    name: Płośnica
+    code: "2803052"
+  - slug: lidzbark
+    name: Lidzbark
+    code: "2803043"
+  touched_counties:
+  - slug: szczycienski
+    name: szczycieński
+    code: "2817"
+  - slug: olsztynski
+    name: olsztyński
+    code: "2814"
+  - slug: olsztyn
+    name: Olsztyn
+    code: "2862"
+  - slug: nidzicki
+    name: nidzicki
+    code: "2811"
+  - slug: dzialdowski
+    name: działdowski
+    code: "2803"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: rownina_mazurska
+    name: Równina Mazurska
+    code: "842.87"
+  - slug: pojezierze_mragowskie
+    name: Pojezierze Mrągowskie
+    code: "842.82"
+  - slug: pojezierze_olsztynskie
+    name: Pojezierze Olsztyńskie
+    code: "842.81"
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+  - slug: wzniesienia_mlawskie
+    name: Wzniesienia Mławskie
+    code: "318.63"
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: nizina_polnocnomazowiecka
+    name: Nizina Północnomazowiecka
+    code: "318"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

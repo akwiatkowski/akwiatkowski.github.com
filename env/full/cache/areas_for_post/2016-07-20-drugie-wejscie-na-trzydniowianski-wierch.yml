@@ -1,0 +1,120 @@
+---
+- type: hike
+  total_distance_meters: 16201.83
+  total_distance_km: 16.202
+  points_count: 306.0
+  towns:
+  - slug: koscielisko
+    name: Kościelisko
+    code: "1217042"
+    distance_meters: 16201.83
+    distance_km: 16.202
+    distance_percent: 100.0
+  counties:
+  - slug: tatrzanski
+    name: tatrzański
+    code: "1217"
+    distance_meters: 16201.83
+    distance_km: 16.202
+    distance_percent: 100.0
+  voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+    distance_meters: 16201.83
+    distance_km: 16.202
+    distance_percent: 100.0
+  meso_regions:
+  - slug: tatry_zachodnie
+    name: Tatry Zachodnie
+    code: "514.52"
+    distance_meters: 12101.62
+    distance_km: 12.102
+    distance_percent: 74.6929
+  - slug: tatry_reglowe
+    name: Tatry Reglowe
+    code: "514.54"
+    distance_meters: 3324.39
+    distance_km: 3.324
+    distance_percent: 20.5186
+  - slug: bruzda_podtatrzanska
+    name: Bruzda Podtatrzańska
+    code: "514.14"
+    distance_meters: 775.82
+    distance_km: 0.776
+    distance_percent: 4.7885
+  macro_regions:
+  - slug: lancuch_tatrzanski
+    name: Łańcuch Tatrzański
+    code: 514-15
+    distance_meters: 15426.01
+    distance_km: 15.426
+    distance_percent: 95.2115
+  - slug: obnizenie_orawskopodhalanskie
+    name: Obniżenie Orawsko-Podhalańskie
+    code: 514-15
+    distance_meters: 775.82
+    distance_km: 0.776
+    distance_percent: 4.7885
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 16201.83
+    distance_km: 16.202
+    distance_percent: 100.0
+  subprovinces:
+  - slug: centralne_karpaty_zachodnie
+    name: Centralne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 16201.83
+    distance_km: 16.202
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 16201.83
+    distance_km: 16.202
+    distance_percent: 100.0
+  touched_towns:
+  - slug: koscielisko
+    name: Kościelisko
+    code: "1217042"
+  touched_counties:
+  - slug: tatrzanski
+    name: tatrzański
+    code: "1217"
+  touched_voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+  touched_meso_regions:
+  - slug: bruzda_podtatrzanska
+    name: Bruzda Podtatrzańska
+    code: "514.14"
+  - slug: tatry_reglowe
+    name: Tatry Reglowe
+    code: "514.54"
+  - slug: tatry_zachodnie
+    name: Tatry Zachodnie
+    code: "514.52"
+  touched_macro_regions:
+  - slug: obnizenie_orawskopodhalanskie
+    name: Obniżenie Orawsko-Podhalańskie
+    code: 514-15
+  - slug: lancuch_tatrzanski
+    name: Łańcuch Tatrzański
+    code: 514-15
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: centralne_karpaty_zachodnie
+    name: Centralne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

@@ -1,0 +1,111 @@
+---
+- type: bicycle
+  total_distance_meters: 23751.77
+  total_distance_km: 23.752
+  points_count: 247.0
+  towns:
+  - slug: insko
+    name: Ińsko
+    code: "3214053"
+    distance_meters: 12631.07
+    distance_km: 12.631
+    distance_percent: 53.1795
+  - slug: wegorzyno
+    name: Węgorzyno
+    code: "3218053"
+    distance_meters: 11120.7
+    distance_km: 11.121
+    distance_percent: 46.8205
+  counties:
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+    distance_meters: 12631.07
+    distance_km: 12.631
+    distance_percent: 53.1795
+  - slug: lobeski
+    name: łobeski
+    code: "3218"
+    distance_meters: 11120.7
+    distance_km: 11.121
+    distance_percent: 46.8205
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 23751.77
+    distance_km: 23.752
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_inskie
+    name: Pojezierze Ińskie
+    code: "314.43"
+    distance_meters: 23751.77
+    distance_km: 23.752
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 23751.77
+    distance_km: 23.752
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 23751.77
+    distance_km: 23.752
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 23751.77
+    distance_km: 23.752
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 23751.77
+    distance_km: 23.752
+    distance_percent: 100.0
+  touched_towns:
+  - slug: insko
+    name: Ińsko
+    code: "3214053"
+  - slug: wegorzyno
+    name: Węgorzyno
+    code: "3218053"
+  touched_counties:
+  - slug: stargardzki
+    name: stargardzki
+    code: "3214"
+  - slug: lobeski
+    name: łobeski
+    code: "3218"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: pojezierze_inskie
+    name: Pojezierze Ińskie
+    code: "314.43"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

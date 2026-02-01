@@ -1,0 +1,207 @@
+---
+- type: bicycle
+  total_distance_meters: 93203.67
+  total_distance_km: 93.204
+  points_count: 286.0
+  towns:
+  - slug: milicz
+    name: Milicz
+    code: "0213033"
+    distance_meters: 39686.19
+    distance_km: 39.686
+    distance_percent: 42.5801
+  - slug: odolanow
+    name: Odolanów
+    code: "3017033"
+    distance_meters: 13422.51
+    distance_km: 13.423
+    distance_percent: 14.4013
+  - slug: pakoslaw
+    name: Pakosław
+    code: "3022042"
+    distance_meters: 12598.6
+    distance_km: 12.599
+    distance_percent: 13.5173
+  - slug: rawicz
+    name: Rawicz
+    code: "3022053"
+    distance_meters: 11434.61
+    distance_km: 11.435
+    distance_percent: 12.2684
+  - slug: sulmierzyce
+    name: Sulmierzyce
+    code: "3012011"
+    distance_meters: 5062.01
+    distance_km: 5.062
+    distance_percent: 5.4311
+  - slug: ostrow_wielkopolski
+    name: Ostrów Wielkopolski
+    code: "3017011"
+    distance_meters: 4171.19
+    distance_km: 4.171
+    distance_percent: 4.4753
+  - slug: cieszkow
+    name: Cieszków
+    code: "0213012"
+    distance_meters: 600.66
+    distance_km: 0.601
+    distance_percent: 0.6445
+  counties:
+  - slug: milicki
+    name: milicki
+    code: "0213"
+    distance_meters: 40286.85
+    distance_km: 40.287
+    distance_percent: 43.2245
+  - slug: rawicki
+    name: rawicki
+    code: "3022"
+    distance_meters: 24033.22
+    distance_km: 24.033
+    distance_percent: 25.7857
+  - slug: ostrowski
+    name: ostrowski
+    code: "3017"
+    distance_meters: 23821.59
+    distance_km: 23.822
+    distance_percent: 25.5586
+  - slug: krotoszynski
+    name: krotoszyński
+    code: "3012"
+    distance_meters: 5062.01
+    distance_km: 5.062
+    distance_percent: 5.4311
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 52916.82
+    distance_km: 52.917
+    distance_percent: 56.7755
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 40286.85
+    distance_km: 40.287
+    distance_percent: 43.2245
+  meso_regions:
+  - slug: wysoczyzna_kaliska
+    name: Wysoczyzna Kaliska
+    code: "318.12"
+    distance_meters: 47552.0
+    distance_km: 47.552
+    distance_percent: 51.0194
+  - slug: kotlina_zmigrodzka
+    name: Kotlina Żmigrodzka
+    code: "318.33"
+    distance_meters: 27395.67
+    distance_km: 27.396
+    distance_percent: 29.3933
+  - slug: kotlina_milicka
+    name: Kotlina Milicka
+    code: "318.34"
+    distance_meters: 18256.0
+    distance_km: 18.256
+    distance_percent: 19.5872
+  macro_regions:
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+    distance_meters: 47552.0
+    distance_km: 47.552
+    distance_percent: 51.0194
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+    distance_meters: 45651.67
+    distance_km: 45.652
+    distance_percent: 48.9806
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 93203.67
+    distance_km: 93.204
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 93203.67
+    distance_km: 93.204
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 93203.67
+    distance_km: 93.204
+    distance_percent: 100.0
+  touched_towns:
+  - slug: rawicz
+    name: Rawicz
+    code: "3022053"
+  - slug: pakoslaw
+    name: Pakosław
+    code: "3022042"
+  - slug: milicz
+    name: Milicz
+    code: "0213033"
+  - slug: sulmierzyce
+    name: Sulmierzyce
+    code: "3012011"
+  - slug: odolanow
+    name: Odolanów
+    code: "3017033"
+  - slug: ostrow_wielkopolski
+    name: Ostrów Wielkopolski
+    code: "3017011"
+  touched_counties:
+  - slug: rawicki
+    name: rawicki
+    code: "3022"
+  - slug: milicki
+    name: milicki
+    code: "0213"
+  - slug: krotoszynski
+    name: krotoszyński
+    code: "3012"
+  - slug: ostrowski
+    name: ostrowski
+    code: "3017"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: kotlina_zmigrodzka
+    name: Kotlina Żmigrodzka
+    code: "318.33"
+  - slug: wysoczyzna_kaliska
+    name: Wysoczyzna Kaliska
+    code: "318.12"
+  - slug: kotlina_milicka
+    name: Kotlina Milicka
+    code: "318.34"
+  touched_macro_regions:
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

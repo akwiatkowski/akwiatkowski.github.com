@@ -1,0 +1,194 @@
+---
+- type: hike
+  total_distance_meters: 4879.95
+  total_distance_km: 4.88
+  points_count: 31.0
+  towns:
+  - slug: rajcza
+    name: Rajcza
+    code: "2417112"
+    distance_meters: 1403.53
+    distance_km: 1.404
+    distance_percent: 28.7612
+  - slug: ujsoly
+    name: Ujsoły
+    code: "2417142"
+    distance_meters: 1031.98
+    distance_km: 1.032
+    distance_percent: 21.1475
+  counties:
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+    distance_meters: 2435.52
+    distance_km: 2.436
+    distance_percent: 49.9087
+  voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+    distance_meters: 2435.52
+    distance_km: 2.436
+    distance_percent: 49.9087
+  meso_regions:
+  - slug: beskid_zywieckokysucki
+    name: Beskid Żywiecko-Kysucki
+    code: "513.56"
+    distance_meters: 4864.22
+    distance_km: 4.864
+    distance_percent: 99.6777
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 4864.22
+    distance_km: 4.864
+    distance_percent: 99.6777
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 4864.22
+    distance_km: 4.864
+    distance_percent: 99.6777
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 4864.22
+    distance_km: 4.864
+    distance_percent: 99.6777
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 4864.22
+    distance_km: 4.864
+    distance_percent: 99.6777
+  touched_towns:
+  - slug: rajcza
+    name: Rajcza
+    code: "2417112"
+  - slug: ujsoly
+    name: Ujsoły
+    code: "2417142"
+  touched_counties:
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+  touched_voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+  touched_meso_regions:
+  - slug: beskid_zywieckokysucki
+    name: Beskid Żywiecko-Kysucki
+    code: "513.56"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+- type: hike
+  total_distance_meters: 10479.77
+  total_distance_km: 10.48
+  points_count: 69.0
+  towns:
+  - slug: rajcza
+    name: Rajcza
+    code: "2417112"
+    distance_meters: 6767.92
+    distance_km: 6.768
+    distance_percent: 64.5808
+  counties:
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+    distance_meters: 6767.92
+    distance_km: 6.768
+    distance_percent: 64.5808
+  voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+    distance_meters: 6767.92
+    distance_km: 6.768
+    distance_percent: 64.5808
+  meso_regions:
+  - slug: beskid_zywieckokysucki
+    name: Beskid Żywiecko-Kysucki
+    code: "513.56"
+    distance_meters: 9833.55
+    distance_km: 9.834
+    distance_percent: 93.8336
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 9833.55
+    distance_km: 9.834
+    distance_percent: 93.8336
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 9833.55
+    distance_km: 9.834
+    distance_percent: 93.8336
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 9833.55
+    distance_km: 9.834
+    distance_percent: 93.8336
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 9833.55
+    distance_km: 9.834
+    distance_percent: 93.8336
+  touched_towns:
+  - slug: rajcza
+    name: Rajcza
+    code: "2417112"
+  touched_counties:
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+  touched_voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+  touched_meso_regions:
+  - slug: beskid_zywieckokysucki
+    name: Beskid Żywiecko-Kysucki
+    code: "513.56"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

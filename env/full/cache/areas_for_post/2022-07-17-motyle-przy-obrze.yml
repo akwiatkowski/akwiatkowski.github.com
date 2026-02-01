@@ -1,0 +1,102 @@
+---
+- type: bicycle
+  total_distance_meters: 22204.58
+  total_distance_km: 22.205
+  points_count: 179.0
+  towns:
+  - slug: miedzyrzecz
+    name: Międzyrzecz
+    code: 0803023
+    distance_meters: 16561.87
+    distance_km: 16.562
+    distance_percent: 74.5876
+  - slug: pszczew
+    name: Pszczew
+    code: 0803042
+    distance_meters: 5642.71
+    distance_km: 5.643
+    distance_percent: 25.4124
+  counties:
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+    distance_meters: 22204.58
+    distance_km: 22.205
+    distance_percent: 100.0
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 22204.58
+    distance_km: 22.205
+    distance_percent: 100.0
+  meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+    distance_meters: 22204.58
+    distance_km: 22.205
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+    distance_meters: 22204.58
+    distance_km: 22.205
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 22204.58
+    distance_km: 22.205
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 22204.58
+    distance_km: 22.205
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 22204.58
+    distance_km: 22.205
+    distance_percent: 100.0
+  touched_towns:
+  - slug: miedzyrzecz
+    name: Międzyrzecz
+    code: 0803023
+  - slug: pszczew
+    name: Pszczew
+    code: 0803042
+  touched_counties:
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+  touched_macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

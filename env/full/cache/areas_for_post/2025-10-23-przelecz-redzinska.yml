@@ -1,0 +1,129 @@
+---
+- type: hike
+  total_distance_meters: 11944.42
+  total_distance_km: 11.944
+  points_count: 176.0
+  towns:
+  - slug: marciszow
+    name: Marciszów
+    code: "0207042"
+    distance_meters: 6760.59
+    distance_km: 6.761
+    distance_percent: 56.6004
+  - slug: kamienna_gora
+    name: Kamienna Góra
+    code: "0207022"
+    distance_meters: 5183.83
+    distance_km: 5.184
+    distance_percent: 43.3996
+  counties:
+  - slug: kamiennogorski
+    name: kamiennogórski
+    code: "0207"
+    distance_meters: 11944.42
+    distance_km: 11.944
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 11944.42
+    distance_km: 11.944
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rudawy_janowickie
+    name: Rudawy Janowickie
+    code: "332.38"
+    distance_meters: 10290.02
+    distance_km: 10.29
+    distance_percent: 86.1492
+  - slug: gory_walbrzyskie
+    name: Góry Wałbrzyskie
+    code: "332.42"
+    distance_meters: 1056.21
+    distance_km: 1.056
+    distance_percent: 8.8427
+  - slug: brama_lubawska
+    name: Brama Lubawska
+    code: "332.41"
+    distance_meters: 598.18
+    distance_km: 0.598
+    distance_percent: 5.0081
+  macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 10290.02
+    distance_km: 10.29
+    distance_percent: 86.1492
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 1654.4
+    distance_km: 1.654
+    distance_percent: 13.8508
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 11944.42
+    distance_km: 11.944
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 11944.42
+    distance_km: 11.944
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 11944.42
+    distance_km: 11.944
+    distance_percent: 100.0
+  touched_towns:
+  - slug: marciszow
+    name: Marciszów
+    code: "0207042"
+  - slug: kamienna_gora
+    name: Kamienna Góra
+    code: "0207022"
+  touched_counties:
+  - slug: kamiennogorski
+    name: kamiennogórski
+    code: "0207"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_walbrzyskie
+    name: Góry Wałbrzyskie
+    code: "332.42"
+  - slug: rudawy_janowickie
+    name: Rudawy Janowickie
+    code: "332.38"
+  - slug: brama_lubawska
+    name: Brama Lubawska
+    code: "332.41"
+  touched_macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

@@ -1,0 +1,147 @@
+---
+- type: bicycle
+  total_distance_meters: 70166.11
+  total_distance_km: 70.166
+  points_count: 434.0
+  towns:
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+    distance_meters: 33633.37
+    distance_km: 33.633
+    distance_percent: 47.9339
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+    distance_meters: 19023.09
+    distance_km: 19.023
+    distance_percent: 27.1115
+  - slug: czerwonak
+    name: Czerwonak
+    code: "3021042"
+    distance_meters: 8865.88
+    distance_km: 8.866
+    distance_percent: 12.6356
+  - slug: suchy_las
+    name: Suchy Las
+    code: "3021152"
+    distance_meters: 8643.77
+    distance_km: 8.644
+    distance_percent: 12.319
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 70166.11
+    distance_km: 70.166
+    distance_percent: 100.0
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+    distance_meters: 19023.09
+    distance_km: 19.023
+    distance_percent: 27.1115
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 70166.11
+    distance_km: 70.166
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 33566.77
+    distance_km: 33.567
+    distance_percent: 47.839
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+    distance_meters: 27893.49
+    distance_km: 27.893
+    distance_percent: 39.7535
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 8705.85
+    distance_km: 8.706
+    distance_percent: 12.4075
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 70166.11
+    distance_km: 70.166
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 70166.11
+    distance_km: 70.166
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 70166.11
+    distance_km: 70.166
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 70166.11
+    distance_km: 70.166
+    distance_percent: 100.0
+  touched_towns:
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+  - slug: suchy_las
+    name: Suchy Las
+    code: "3021152"
+  - slug: czerwonak
+    name: Czerwonak
+    code: "3021042"
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,147 @@
+---
+- type: bicycle
+  total_distance_meters: 40632.76
+  total_distance_km: 40.633
+  points_count: 308.0
+  towns:
+  - slug: osieczna
+    name: Osieczna
+    code: "3013033"
+    distance_meters: 23684.77
+    distance_km: 23.685
+    distance_percent: 58.2898
+  - slug: lipno
+    name: Lipno
+    code: "3013022"
+    distance_meters: 11944.73
+    distance_km: 11.945
+    distance_percent: 29.3968
+  - slug: leszno
+    name: Leszno
+    code: "3063011"
+    distance_meters: 5003.27
+    distance_km: 5.003
+    distance_percent: 12.3134
+  counties:
+  - slug: leszczynski
+    name: leszczyński
+    code: "3013"
+    distance_meters: 40632.76
+    distance_km: 40.633
+    distance_percent: 100.0
+  - slug: leszno
+    name: Leszno
+    code: "3063"
+    distance_meters: 5003.27
+    distance_km: 5.003
+    distance_percent: 12.3134
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 40632.76
+    distance_km: 40.633
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+    distance_meters: 33869.86
+    distance_km: 33.87
+    distance_percent: 83.356
+  - slug: wysoczyzna_leszczynska
+    name: Wysoczyzna Leszczyńska
+    code: "318.11"
+    distance_meters: 6762.91
+    distance_km: 6.763
+    distance_percent: 16.644
+  macro_regions:
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+    distance_meters: 33869.86
+    distance_km: 33.87
+    distance_percent: 83.356
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+    distance_meters: 6762.91
+    distance_km: 6.763
+    distance_percent: 16.644
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 40632.76
+    distance_km: 40.633
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 33869.86
+    distance_km: 33.87
+    distance_percent: 83.356
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 6762.91
+    distance_km: 6.763
+    distance_percent: 16.644
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 40632.76
+    distance_km: 40.633
+    distance_percent: 100.0
+  touched_towns:
+  - slug: leszno
+    name: Leszno
+    code: "3063011"
+  - slug: lipno
+    name: Lipno
+    code: "3013022"
+  - slug: osieczna
+    name: Osieczna
+    code: "3013033"
+  touched_counties:
+  - slug: leszczynski
+    name: leszczyński
+    code: "3013"
+  - slug: leszno
+    name: Leszno
+    code: "3063"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: wysoczyzna_leszczynska
+    name: Wysoczyzna Leszczyńska
+    code: "318.11"
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+  touched_macro_regions:
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

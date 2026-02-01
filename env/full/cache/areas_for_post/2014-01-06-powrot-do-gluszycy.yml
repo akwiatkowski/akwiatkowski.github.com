@@ -1,0 +1,129 @@
+---
+- type: hike
+  total_distance_meters: 7856.03
+  total_distance_km: 7.856
+  points_count: 105.0
+  towns:
+  - slug: gluszyca
+    name: Głuszyca
+    code: "0221053"
+    distance_meters: 5734.45
+    distance_km: 5.734
+    distance_percent: 72.9943
+  - slug: walim
+    name: Walim
+    code: 0221082
+    distance_meters: 1399.28
+    distance_km: 1.399
+    distance_percent: 17.8115
+  - slug: nowa_ruda
+    name: Nowa Ruda
+    code: 0208112
+    distance_meters: 722.3
+    distance_km: 0.722
+    distance_percent: 9.1942
+  counties:
+  - slug: walbrzyski
+    name: wałbrzyski
+    code: "0221"
+    distance_meters: 7133.73
+    distance_km: 7.134
+    distance_percent: 90.8058
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+    distance_meters: 722.3
+    distance_km: 0.722
+    distance_percent: 9.1942
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 7856.03
+    distance_km: 7.856
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gory_sowie
+    name: Góry Sowie
+    code: "332.44"
+    distance_meters: 5239.84
+    distance_km: 5.24
+    distance_percent: 66.6984
+  - slug: obnizenie_noworudzkie
+    name: Obniżenie Noworudzkie
+    code: "332.46"
+    distance_meters: 2616.19
+    distance_km: 2.616
+    distance_percent: 33.3016
+  macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 7856.03
+    distance_km: 7.856
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 7856.03
+    distance_km: 7.856
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 7856.03
+    distance_km: 7.856
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 7856.03
+    distance_km: 7.856
+    distance_percent: 100.0
+  touched_towns:
+  - slug: nowa_ruda
+    name: Nowa Ruda
+    code: 0208112
+  - slug: walim
+    name: Walim
+    code: 0221082
+  - slug: gluszyca
+    name: Głuszyca
+    code: "0221053"
+  touched_counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+  - slug: walbrzyski
+    name: wałbrzyski
+    code: "0221"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_sowie
+    name: Góry Sowie
+    code: "332.44"
+  - slug: obnizenie_noworudzkie
+    name: Obniżenie Noworudzkie
+    code: "332.46"
+  touched_macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

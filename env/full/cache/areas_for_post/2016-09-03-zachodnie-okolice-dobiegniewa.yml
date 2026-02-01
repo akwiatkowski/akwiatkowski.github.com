@@ -1,0 +1,277 @@
+---
+- type: hike
+  total_distance_meters: 7634.52
+  total_distance_km: 7.635
+  points_count: 106.0
+  towns:
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+    distance_meters: 7634.52
+    distance_km: 7.635
+    distance_percent: 100.0
+  counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 7634.52
+    distance_km: 7.635
+    distance_percent: 100.0
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 7634.52
+    distance_km: 7.635
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+    distance_meters: 7634.52
+    distance_km: 7.635
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 7634.52
+    distance_km: 7.635
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 7634.52
+    distance_km: 7.635
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 7634.52
+    distance_km: 7.635
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 7634.52
+    distance_km: 7.635
+    distance_percent: 100.0
+  touched_towns:
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+  touched_counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: hike
+  total_distance_meters: 2208.16
+  total_distance_km: 2.208
+  points_count: 42.0
+  towns:
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+    distance_meters: 2208.16
+    distance_km: 2.208
+    distance_percent: 100.0
+  counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 2208.16
+    distance_km: 2.208
+    distance_percent: 100.0
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 2208.16
+    distance_km: 2.208
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+    distance_meters: 2208.16
+    distance_km: 2.208
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 2208.16
+    distance_km: 2.208
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 2208.16
+    distance_km: 2.208
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 2208.16
+    distance_km: 2.208
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 2208.16
+    distance_km: 2.208
+    distance_percent: 100.0
+  touched_towns:
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+  touched_counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: hike
+  total_distance_meters: 12203.1
+  total_distance_km: 12.203
+  points_count: 123.0
+  towns:
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+    distance_meters: 12203.1
+    distance_km: 12.203
+    distance_percent: 100.0
+  counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 12203.1
+    distance_km: 12.203
+    distance_percent: 100.0
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 12203.1
+    distance_km: 12.203
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+    distance_meters: 12203.1
+    distance_km: 12.203
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 12203.1
+    distance_km: 12.203
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 12203.1
+    distance_km: 12.203
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 12203.1
+    distance_km: 12.203
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 12203.1
+    distance_km: 12.203
+    distance_percent: 100.0
+  touched_towns:
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+  touched_counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

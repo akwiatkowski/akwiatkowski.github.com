@@ -1,0 +1,111 @@
+---
+- type: bicycle
+  total_distance_meters: 14409.12
+  total_distance_km: 14.409
+  points_count: 154.0
+  towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+    distance_meters: 11113.56
+    distance_km: 11.114
+    distance_percent: 77.1287
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+    distance_meters: 3295.56
+    distance_km: 3.296
+    distance_percent: 22.8713
+  counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 11113.56
+    distance_km: 11.114
+    distance_percent: 77.1287
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 3295.56
+    distance_km: 3.296
+    distance_percent: 22.8713
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 14409.12
+    distance_km: 14.409
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 14409.12
+    distance_km: 14.409
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 14409.12
+    distance_km: 14.409
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 14409.12
+    distance_km: 14.409
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 14409.12
+    distance_km: 14.409
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 14409.12
+    distance_km: 14.409
+    distance_percent: 100.0
+  touched_towns:
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

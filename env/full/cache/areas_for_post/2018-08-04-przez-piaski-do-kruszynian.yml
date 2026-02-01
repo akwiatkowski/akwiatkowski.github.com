@@ -1,0 +1,138 @@
+---
+- type: bicycle
+  total_distance_meters: 57532.12
+  total_distance_km: 57.532
+  points_count: 292.0
+  towns:
+  - slug: grodek
+    name: Gródek
+    code: "2002042"
+    distance_meters: 43340.14
+    distance_km: 43.34
+    distance_percent: 75.3321
+  - slug: krynki
+    name: Krynki
+    code: "2011043"
+    distance_meters: 8827.95
+    distance_km: 8.828
+    distance_percent: 15.3444
+  - slug: suprasl
+    name: Supraśl
+    code: "2002093"
+    distance_meters: 4362.73
+    distance_km: 4.363
+    distance_percent: 7.5831
+  - slug: szudzialowo
+    name: Szudziałowo
+    code: "2011102"
+    distance_meters: 1001.3
+    distance_km: 1.001
+    distance_percent: 1.7404
+  counties:
+  - slug: bialostocki
+    name: białostocki
+    code: "2002"
+    distance_meters: 47702.87
+    distance_km: 47.703
+    distance_percent: 82.9152
+  - slug: sokolski
+    name: sokólski
+    code: "2011"
+    distance_meters: 9829.24
+    distance_km: 9.829
+    distance_percent: 17.0848
+  voivodeships:
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+    distance_meters: 57532.12
+    distance_km: 57.532
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wysoczyzna_bialostocka
+    name: Wysoczyzna Białostocka
+    code: "843.33"
+    distance_meters: 53345.08
+    distance_km: 53.345
+    distance_percent: 92.7223
+  - slug: wzgorza_sokolskie
+    name: Wzgórza Sokólskie
+    code: "843.34"
+    distance_meters: 4187.04
+    distance_km: 4.187
+    distance_percent: 7.2777
+  macro_regions:
+  - slug: nizina_polnocnopodlaska
+    name: Nizina Północnopodlaska
+    code: "843"
+    distance_meters: 57532.12
+    distance_km: 57.532
+    distance_percent: 100.0
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 57532.12
+    distance_km: 57.532
+    distance_percent: 100.0
+  subprovinces:
+  - slug: wysoczyzny_podlaskobialoruskie
+    name: Wysoczyzny Podlasko-Białoruskie
+    code: "84"
+    distance_meters: 57532.12
+    distance_km: 57.532
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 57532.12
+    distance_km: 57.532
+    distance_percent: 100.0
+  touched_towns:
+  - slug: suprasl
+    name: Supraśl
+    code: "2002093"
+  - slug: szudzialowo
+    name: Szudziałowo
+    code: "2011102"
+  - slug: grodek
+    name: Gródek
+    code: "2002042"
+  - slug: krynki
+    name: Krynki
+    code: "2011043"
+  touched_counties:
+  - slug: bialostocki
+    name: białostocki
+    code: "2002"
+  - slug: sokolski
+    name: sokólski
+    code: "2011"
+  touched_voivodeships:
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+  touched_meso_regions:
+  - slug: wysoczyzna_bialostocka
+    name: Wysoczyzna Białostocka
+    code: "843.33"
+  - slug: wzgorza_sokolskie
+    name: Wzgórza Sokólskie
+    code: "843.34"
+  touched_macro_regions:
+  - slug: nizina_polnocnopodlaska
+    name: Nizina Północnopodlaska
+    code: "843"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: wysoczyzny_podlaskobialoruskie
+    name: Wysoczyzny Podlasko-Białoruskie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

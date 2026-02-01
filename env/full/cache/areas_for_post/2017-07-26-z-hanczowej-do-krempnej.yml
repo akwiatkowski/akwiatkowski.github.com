@@ -1,0 +1,129 @@
+---
+- type: bicycle
+  total_distance_meters: 47301.14
+  total_distance_km: 47.301
+  points_count: 374.0
+  towns:
+  - slug: krempna
+    name: Krempna
+    code: "1805062"
+    distance_meters: 18442.0
+    distance_km: 18.442
+    distance_percent: 38.9885
+  - slug: uscie_gorlickie
+    name: Uście Gorlickie
+    code: "1205102"
+    distance_meters: 17839.18
+    distance_km: 17.839
+    distance_percent: 37.7141
+  - slug: sekowa
+    name: Sękowa
+    code: "1205092"
+    distance_meters: 11019.96
+    distance_km: 11.02
+    distance_percent: 23.2975
+  counties:
+  - slug: gorlicki
+    name: gorlicki
+    code: "1205"
+    distance_meters: 28859.14
+    distance_km: 28.859
+    distance_percent: 61.0115
+  - slug: jasielski
+    name: jasielski
+    code: "1805"
+    distance_meters: 18442.0
+    distance_km: 18.442
+    distance_percent: 38.9885
+  voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+    distance_meters: 28859.14
+    distance_km: 28.859
+    distance_percent: 61.0115
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+    distance_meters: 18442.0
+    distance_km: 18.442
+    distance_percent: 38.9885
+  meso_regions:
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+    distance_meters: 47301.14
+    distance_km: 47.301
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+    distance_meters: 47301.14
+    distance_km: 47.301
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 47301.14
+    distance_km: 47.301
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 47301.14
+    distance_km: 47.301
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 47301.14
+    distance_km: 47.301
+    distance_percent: 100.0
+  touched_towns:
+  - slug: uscie_gorlickie
+    name: Uście Gorlickie
+    code: "1205102"
+  - slug: sekowa
+    name: Sękowa
+    code: "1205092"
+  - slug: krempna
+    name: Krempna
+    code: "1805062"
+  touched_counties:
+  - slug: gorlicki
+    name: gorlicki
+    code: "1205"
+  - slug: jasielski
+    name: jasielski
+    code: "1805"
+  touched_voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+  touched_meso_regions:
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+  touched_macro_regions:
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

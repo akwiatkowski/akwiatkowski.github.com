@@ -1,0 +1,129 @@
+---
+- type: bicycle
+  total_distance_meters: 47171.94
+  total_distance_km: 47.172
+  points_count: 230.0
+  towns:
+  - slug: czersk
+    name: Czersk
+    code: "2202043"
+    distance_meters: 34001.61
+    distance_km: 34.002
+    distance_percent: 72.0802
+  - slug: tuchola
+    name: Tuchola
+    code: "0416063"
+    distance_meters: 11632.07
+    distance_km: 11.632
+    distance_percent: 24.6589
+  - slug: sliwice
+    name: Śliwice
+    code: "0416052"
+    distance_meters: 1538.26
+    distance_km: 1.538
+    distance_percent: 3.261
+  counties:
+  - slug: chojnicki
+    name: chojnicki
+    code: "2202"
+    distance_meters: 34001.61
+    distance_km: 34.002
+    distance_percent: 72.0802
+  - slug: tucholski
+    name: tucholski
+    code: "0416"
+    distance_meters: 13170.33
+    distance_km: 13.17
+    distance_percent: 27.9198
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 34001.61
+    distance_km: 34.002
+    distance_percent: 72.0802
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 13170.33
+    distance_km: 13.17
+    distance_percent: 27.9198
+  meso_regions:
+  - slug: bory_tucholskie
+    name: Bory Tucholskie
+    code: "314.71"
+    distance_meters: 47171.94
+    distance_km: 47.172
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 47171.94
+    distance_km: 47.172
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 47171.94
+    distance_km: 47.172
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 47171.94
+    distance_km: 47.172
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 47171.94
+    distance_km: 47.172
+    distance_percent: 100.0
+  touched_towns:
+  - slug: czersk
+    name: Czersk
+    code: "2202043"
+  - slug: sliwice
+    name: Śliwice
+    code: "0416052"
+  - slug: tuchola
+    name: Tuchola
+    code: "0416063"
+  touched_counties:
+  - slug: chojnicki
+    name: chojnicki
+    code: "2202"
+  - slug: tucholski
+    name: tucholski
+    code: "0416"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: bory_tucholskie
+    name: Bory Tucholskie
+    code: "314.71"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

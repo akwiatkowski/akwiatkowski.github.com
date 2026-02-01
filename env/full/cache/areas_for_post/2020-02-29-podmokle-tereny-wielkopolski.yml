@@ -1,0 +1,277 @@
+---
+- type: hike
+  total_distance_meters: 2288.78
+  total_distance_km: 2.289
+  points_count: 18.0
+  towns:
+  - slug: lwowek
+    name: Lwówek
+    code: "3015023"
+    distance_meters: 2288.78
+    distance_km: 2.289
+    distance_percent: 100.0
+  counties:
+  - slug: nowotomyski
+    name: nowotomyski
+    code: "3015"
+    distance_meters: 2288.78
+    distance_km: 2.289
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 2288.78
+    distance_km: 2.289
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wysoczyzna_grodziska
+    name: Wysoczyzna Grodziska
+    code: "315.59"
+    distance_meters: 2288.78
+    distance_km: 2.289
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 2288.78
+    distance_km: 2.289
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 2288.78
+    distance_km: 2.289
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 2288.78
+    distance_km: 2.289
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 2288.78
+    distance_km: 2.289
+    distance_percent: 100.0
+  touched_towns:
+  - slug: lwowek
+    name: Lwówek
+    code: "3015023"
+  touched_counties:
+  - slug: nowotomyski
+    name: nowotomyski
+    code: "3015"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: wysoczyzna_grodziska
+    name: Wysoczyzna Grodziska
+    code: "315.59"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: hike
+  total_distance_meters: 6839.66
+  total_distance_km: 6.84
+  points_count: 99.0
+  towns:
+  - slug: siedlec
+    name: Siedlec
+    code: "3029022"
+    distance_meters: 6839.66
+    distance_km: 6.84
+    distance_percent: 100.0
+  counties:
+  - slug: wolsztynski
+    name: wolsztyński
+    code: "3029"
+    distance_meters: 6839.66
+    distance_km: 6.84
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 6839.66
+    distance_km: 6.84
+    distance_percent: 100.0
+  meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+    distance_meters: 6839.66
+    distance_km: 6.84
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+    distance_meters: 6839.66
+    distance_km: 6.84
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 6839.66
+    distance_km: 6.84
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 6839.66
+    distance_km: 6.84
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 6839.66
+    distance_km: 6.84
+    distance_percent: 100.0
+  touched_towns:
+  - slug: siedlec
+    name: Siedlec
+    code: "3029022"
+  touched_counties:
+  - slug: wolsztynski
+    name: wolsztyński
+    code: "3029"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+  touched_macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: hike
+  total_distance_meters: 2913.74
+  total_distance_km: 2.914
+  points_count: 63.0
+  towns:
+  - slug: kargowa
+    name: Kargowa
+    code: 0809043
+    distance_meters: 2913.74
+    distance_km: 2.914
+    distance_percent: 100.0
+  counties:
+  - slug: zielonogorski
+    name: zielonogórski
+    code: 0809
+    distance_meters: 2913.74
+    distance_km: 2.914
+    distance_percent: 100.0
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 2913.74
+    distance_km: 2.914
+    distance_percent: 100.0
+  meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+    distance_meters: 2913.74
+    distance_km: 2.914
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+    distance_meters: 2913.74
+    distance_km: 2.914
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 2913.74
+    distance_km: 2.914
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 2913.74
+    distance_km: 2.914
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 2913.74
+    distance_km: 2.914
+    distance_percent: 100.0
+  touched_towns:
+  - slug: kargowa
+    name: Kargowa
+    code: 0809043
+  touched_counties:
+  - slug: zielonogorski
+    name: zielonogórski
+    code: 0809
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+  touched_macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

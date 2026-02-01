@@ -1,0 +1,174 @@
+---
+- type: bicycle
+  total_distance_meters: 51233.95
+  total_distance_km: 51.234
+  points_count: 293.0
+  towns:
+  - slug: lubichowo
+    name: Lubichowo
+    code: "2213062"
+    distance_meters: 22902.01
+    distance_km: 22.902
+    distance_percent: 44.7009
+  - slug: osieczna
+    name: Osieczna
+    code: "2213072"
+    distance_meters: 12315.48
+    distance_km: 12.315
+    distance_percent: 24.0377
+  - slug: zblewo
+    name: Zblewo
+    code: "2213132"
+    distance_meters: 7386.51
+    distance_km: 7.387
+    distance_percent: 14.4172
+  - slug: sliwice
+    name: Śliwice
+    code: "0416052"
+    distance_meters: 5778.82
+    distance_km: 5.779
+    distance_percent: 11.2793
+  - slug: czersk
+    name: Czersk
+    code: "2202043"
+    distance_meters: 2851.13
+    distance_km: 2.851
+    distance_percent: 5.5649
+  counties:
+  - slug: starogardzki
+    name: starogardzki
+    code: "2213"
+    distance_meters: 42604.0
+    distance_km: 42.604
+    distance_percent: 83.1558
+  - slug: tucholski
+    name: tucholski
+    code: "0416"
+    distance_meters: 5778.82
+    distance_km: 5.779
+    distance_percent: 11.2793
+  - slug: chojnicki
+    name: chojnicki
+    code: "2202"
+    distance_meters: 2851.13
+    distance_km: 2.851
+    distance_percent: 5.5649
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 45455.13
+    distance_km: 45.455
+    distance_percent: 88.7207
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 5778.82
+    distance_km: 5.779
+    distance_percent: 11.2793
+  meso_regions:
+  - slug: bory_tucholskie
+    name: Bory Tucholskie
+    code: "314.71"
+    distance_meters: 38749.16
+    distance_km: 38.749
+    distance_percent: 75.6318
+  - slug: pojezierze_starogardzkie
+    name: Pojezierze Starogardzkie
+    code: "314.52"
+    distance_meters: 12484.79
+    distance_km: 12.485
+    distance_percent: 24.3682
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 38749.16
+    distance_km: 38.749
+    distance_percent: 75.6318
+  - slug: pojezierze_wschodniopomorskie
+    name: Pojezierze Wschodniopomorskie
+    code: 314-316
+    distance_meters: 12484.79
+    distance_km: 12.485
+    distance_percent: 24.3682
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 51233.95
+    distance_km: 51.234
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 51233.95
+    distance_km: 51.234
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 51233.95
+    distance_km: 51.234
+    distance_percent: 100.0
+  touched_towns:
+  - slug: czersk
+    name: Czersk
+    code: "2202043"
+  - slug: sliwice
+    name: Śliwice
+    code: "0416052"
+  - slug: osieczna
+    name: Osieczna
+    code: "2213072"
+  - slug: lubichowo
+    name: Lubichowo
+    code: "2213062"
+  - slug: zblewo
+    name: Zblewo
+    code: "2213132"
+  touched_counties:
+  - slug: chojnicki
+    name: chojnicki
+    code: "2202"
+  - slug: tucholski
+    name: tucholski
+    code: "0416"
+  - slug: starogardzki
+    name: starogardzki
+    code: "2213"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: bory_tucholskie
+    name: Bory Tucholskie
+    code: "314.71"
+  - slug: pojezierze_starogardzkie
+    name: Pojezierze Starogardzkie
+    code: "314.52"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  - slug: pojezierze_wschodniopomorskie
+    name: Pojezierze Wschodniopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

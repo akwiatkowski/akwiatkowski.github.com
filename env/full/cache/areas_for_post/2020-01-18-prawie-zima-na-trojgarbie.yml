@@ -1,0 +1,129 @@
+---
+- type: hike
+  total_distance_meters: 13465.69
+  total_distance_km: 13.466
+  points_count: 273.0
+  towns:
+  - slug: czarny_bor
+    name: Czarny Bór
+    code: "0221042"
+    distance_meters: 5893.73
+    distance_km: 5.894
+    distance_percent: 43.7685
+  - slug: stare_bogaczowice
+    name: Stare Bogaczowice
+    code: "0221072"
+    distance_meters: 3967.09
+    distance_km: 3.967
+    distance_percent: 29.4607
+  - slug: szczawnozdroj
+    name: Szczawno-Zdrój
+    code: "0221031"
+    distance_meters: 3604.87
+    distance_km: 3.605
+    distance_percent: 26.7708
+  counties:
+  - slug: walbrzyski
+    name: wałbrzyski
+    code: "0221"
+    distance_meters: 13465.69
+    distance_km: 13.466
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 13465.69
+    distance_km: 13.466
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gory_walbrzyskie
+    name: Góry Wałbrzyskie
+    code: "332.42"
+    distance_meters: 13342.29
+    distance_km: 13.342
+    distance_percent: 99.0837
+  - slug: pogorze_walbrzyskie
+    name: Pogórze Wałbrzyskie
+    code: "332.28"
+    distance_meters: 123.39
+    distance_km: 0.123
+    distance_percent: 0.9163
+  macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 13342.29
+    distance_km: 13.342
+    distance_percent: 99.0837
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+    distance_meters: 123.39
+    distance_km: 0.123
+    distance_percent: 0.9163
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 13465.69
+    distance_km: 13.466
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 13465.69
+    distance_km: 13.466
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 13465.69
+    distance_km: 13.466
+    distance_percent: 100.0
+  touched_towns:
+  - slug: szczawnozdroj
+    name: Szczawno-Zdrój
+    code: "0221031"
+  - slug: stare_bogaczowice
+    name: Stare Bogaczowice
+    code: "0221072"
+  - slug: czarny_bor
+    name: Czarny Bór
+    code: "0221042"
+  touched_counties:
+  - slug: walbrzyski
+    name: wałbrzyski
+    code: "0221"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_walbrzyskie
+    name: Góry Wałbrzyskie
+    code: "332.42"
+  - slug: pogorze_walbrzyskie
+    name: Pogórze Wałbrzyskie
+    code: "332.28"
+  touched_macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

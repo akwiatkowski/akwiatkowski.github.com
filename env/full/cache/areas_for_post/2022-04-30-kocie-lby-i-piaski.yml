@@ -1,0 +1,102 @@
+---
+- type: bicycle
+  total_distance_meters: 26401.24
+  total_distance_km: 26.401
+  points_count: 182.0
+  towns:
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+    distance_meters: 19154.91
+    distance_km: 19.155
+    distance_percent: 72.5531
+  - slug: bierzwnik
+    name: Bierzwnik
+    code: "3202012"
+    distance_meters: 7246.33
+    distance_km: 7.246
+    distance_percent: 27.4469
+  counties:
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+    distance_meters: 26401.24
+    distance_km: 26.401
+    distance_percent: 100.0
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 26401.24
+    distance_km: 26.401
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+    distance_meters: 26401.24
+    distance_km: 26.401
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 26401.24
+    distance_km: 26.401
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 26401.24
+    distance_km: 26.401
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 26401.24
+    distance_km: 26.401
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 26401.24
+    distance_km: 26.401
+    distance_percent: 100.0
+  touched_towns:
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+  - slug: bierzwnik
+    name: Bierzwnik
+    code: "3202012"
+  touched_counties:
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,171 @@
+---
+- type: bicycle
+  total_distance_meters: 50698.04
+  total_distance_km: 50.698
+  points_count: 165.0
+  towns:
+  - slug: barciany
+    name: Barciany
+    code: "2808022"
+    distance_meters: 23722.67
+    distance_km: 23.723
+    distance_percent: 46.7921
+  - slug: korsze
+    name: Korsze
+    code: "2808043"
+    distance_meters: 13694.81
+    distance_km: 13.695
+    distance_percent: 27.0125
+  - slug: ketrzyn
+    name: Kętrzyn
+    code: "2808032"
+    distance_meters: 6086.21
+    distance_km: 6.086
+    distance_percent: 12.0048
+  - slug: sepopol
+    name: Sępopol
+    code: "2801063"
+    distance_meters: 4013.25
+    distance_km: 4.013
+    distance_percent: 7.916
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801032"
+    distance_meters: 2916.98
+    distance_km: 2.917
+    distance_percent: 5.7536
+  - slug: bisztynek
+    name: Bisztynek
+    code: "2801043"
+    distance_meters: 264.13
+    distance_km: 0.264
+    distance_percent: 0.521
+  counties:
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+    distance_meters: 43503.69
+    distance_km: 43.504
+    distance_percent: 85.8094
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+    distance_meters: 7194.35
+    distance_km: 7.194
+    distance_percent: 14.1906
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 50698.04
+    distance_km: 50.698
+    distance_percent: 100.0
+  meso_regions:
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+    distance_meters: 43453.03
+    distance_km: 43.453
+    distance_percent: 85.7095
+  - slug: kraina_wielkich_jezior_mazurskich
+    name: Kraina Wielkich Jezior Mazurskich
+    code: "842.83"
+    distance_meters: 7245.01
+    distance_km: 7.245
+    distance_percent: 14.2905
+  macro_regions:
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+    distance_meters: 43453.03
+    distance_km: 43.453
+    distance_percent: 85.7095
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 7245.01
+    distance_km: 7.245
+    distance_percent: 14.2905
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 50698.04
+    distance_km: 50.698
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+    distance_meters: 43453.03
+    distance_km: 43.453
+    distance_percent: 85.7095
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 7245.01
+    distance_km: 7.245
+    distance_percent: 14.2905
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 50698.04
+    distance_km: 50.698
+    distance_percent: 100.0
+  touched_towns:
+  - slug: ketrzyn
+    name: Kętrzyn
+    code: "2808032"
+  - slug: barciany
+    name: Barciany
+    code: "2808022"
+  - slug: korsze
+    name: Korsze
+    code: "2808043"
+  - slug: sepopol
+    name: Sępopol
+    code: "2801063"
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801032"
+  touched_counties:
+  - slug: ketrzynski
+    name: kętrzyński
+    code: "2808"
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: kraina_wielkich_jezior_mazurskich
+    name: Kraina Wielkich Jezior Mazurskich
+    code: "842.83"
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

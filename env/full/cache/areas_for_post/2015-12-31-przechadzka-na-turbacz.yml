@@ -1,0 +1,120 @@
+---
+- type: hike
+  total_distance_meters: 20852.6
+  total_distance_km: 20.853
+  points_count: 312.0
+  towns:
+  - slug: nowy_targ
+    name: Nowy Targ
+    code: "1211092"
+    distance_meters: 9581.32
+    distance_km: 9.581
+    distance_percent: 45.9479
+  - slug: rabkazdroj
+    name: Rabka-Zdrój
+    code: "1211123"
+    distance_meters: 7276.33
+    distance_km: 7.276
+    distance_percent: 34.8941
+  - slug: niedzwiedz
+    name: Niedźwiedź
+    code: "1207102"
+    distance_meters: 3994.95
+    distance_km: 3.995
+    distance_percent: 19.158
+  counties:
+  - slug: nowotarski
+    name: nowotarski
+    code: "1211"
+    distance_meters: 16857.65
+    distance_km: 16.858
+    distance_percent: 80.842
+  - slug: limanowski
+    name: limanowski
+    code: "1207"
+    distance_meters: 3994.95
+    distance_km: 3.995
+    distance_percent: 19.158
+  voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+    distance_meters: 20852.6
+    distance_km: 20.853
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gorce
+    name: Gorce
+    code: "513.52"
+    distance_meters: 20852.6
+    distance_km: 20.853
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 20852.6
+    distance_km: 20.853
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 20852.6
+    distance_km: 20.853
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 20852.6
+    distance_km: 20.853
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 20852.6
+    distance_km: 20.853
+    distance_percent: 100.0
+  touched_towns:
+  - slug: rabkazdroj
+    name: Rabka-Zdrój
+    code: "1211123"
+  - slug: niedzwiedz
+    name: Niedźwiedź
+    code: "1207102"
+  - slug: nowy_targ
+    name: Nowy Targ
+    code: "1211092"
+  touched_counties:
+  - slug: nowotarski
+    name: nowotarski
+    code: "1211"
+  - slug: limanowski
+    name: limanowski
+    code: "1207"
+  touched_voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+  touched_meso_regions:
+  - slug: gorce
+    name: Gorce
+    code: "513.52"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

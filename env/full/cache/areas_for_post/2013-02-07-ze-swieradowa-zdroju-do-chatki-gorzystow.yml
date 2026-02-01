@@ -1,0 +1,111 @@
+---
+- type: hike
+  total_distance_meters: 10577.4
+  total_distance_km: 10.577
+  points_count: 131.0
+  towns:
+  - slug: mirsk
+    name: Mirsk
+    code: "0212043"
+    distance_meters: 9646.9
+    distance_km: 9.647
+    distance_percent: 91.203
+  - slug: swieradowzdroj
+    name: Świeradów-Zdrój
+    code: "0210021"
+    distance_meters: 930.49
+    distance_km: 0.93
+    distance_percent: 8.797
+  counties:
+  - slug: lwowecki
+    name: lwówecki
+    code: "0212"
+    distance_meters: 9646.9
+    distance_km: 9.647
+    distance_percent: 91.203
+  - slug: lubanski
+    name: lubański
+    code: "0210"
+    distance_meters: 930.49
+    distance_km: 0.93
+    distance_percent: 8.797
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 10577.4
+    distance_km: 10.577
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gory_izerskie
+    name: Góry Izerskie
+    code: "332.34"
+    distance_meters: 10577.4
+    distance_km: 10.577
+    distance_percent: 100.0
+  macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 10577.4
+    distance_km: 10.577
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 10577.4
+    distance_km: 10.577
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 10577.4
+    distance_km: 10.577
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 10577.4
+    distance_km: 10.577
+    distance_percent: 100.0
+  touched_towns:
+  - slug: swieradowzdroj
+    name: Świeradów-Zdrój
+    code: "0210021"
+  - slug: mirsk
+    name: Mirsk
+    code: "0212043"
+  touched_counties:
+  - slug: lubanski
+    name: lubański
+    code: "0210"
+  - slug: lwowecki
+    name: lwówecki
+    code: "0212"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_izerskie
+    name: Góry Izerskie
+    code: "332.34"
+  touched_macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

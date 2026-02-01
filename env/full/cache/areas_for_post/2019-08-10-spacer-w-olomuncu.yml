@@ -1,0 +1,21 @@
+---
+- type: hike
+  total_distance_meters: 5211.5
+  total_distance_km: 5.211
+  points_count: 75.0
+  towns: []
+  counties: []
+  voivodeships: []
+  meso_regions: []
+  macro_regions: []
+  mega_regions: []
+  subprovinces: []
+  provinces: []
+  touched_towns: []
+  touched_counties: []
+  touched_voivodeships: []
+  touched_meso_regions: []
+  touched_macro_regions: []
+  touched_mega_regions: []
+  touched_subprovinces: []
+  touched_provinces: []

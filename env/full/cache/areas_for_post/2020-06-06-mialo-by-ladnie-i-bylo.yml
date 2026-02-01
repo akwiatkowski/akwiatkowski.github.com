@@ -1,0 +1,347 @@
+---
+- type: bicycle
+  total_distance_meters: 71751.31
+  total_distance_km: 71.751
+  points_count: 350.0
+  towns:
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+    distance_meters: 31617.52
+    distance_km: 31.618
+    distance_percent: 44.0654
+  - slug: rybno
+    name: Rybno
+    code: "2803062"
+    distance_meters: 17531.84
+    distance_km: 17.532
+    distance_percent: 24.4342
+  - slug: lidzbark
+    name: Lidzbark
+    code: "2803043"
+    distance_meters: 10655.26
+    distance_km: 10.655
+    distance_percent: 14.8503
+  - slug: dabrowno
+    name: Dąbrówno
+    code: "2815022"
+    distance_meters: 9070.84
+    distance_km: 9.071
+    distance_percent: 12.642
+  - slug: lubawa
+    name: Lubawa
+    code: "2807052"
+    distance_meters: 2875.85
+    distance_km: 2.876
+    distance_percent: 4.0081
+  counties:
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 40688.36
+    distance_km: 40.688
+    distance_percent: 56.7075
+  - slug: dzialdowski
+    name: działdowski
+    code: "2803"
+    distance_meters: 28187.1
+    distance_km: 28.187
+    distance_percent: 39.2844
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+    distance_meters: 2875.85
+    distance_km: 2.876
+    distance_percent: 4.0081
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 71751.31
+    distance_km: 71.751
+    distance_percent: 100.0
+  meso_regions:
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+    distance_meters: 35861.0
+    distance_km: 35.861
+    distance_percent: 49.9796
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+    distance_meters: 28456.33
+    distance_km: 28.456
+    distance_percent: 39.6597
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 7433.99
+    distance_km: 7.434
+    distance_percent: 10.3608
+  macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 64317.32
+    distance_km: 64.317
+    distance_percent: 89.6392
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 7433.99
+    distance_km: 7.434
+    distance_percent: 10.3608
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 64317.32
+    distance_km: 64.317
+    distance_percent: 89.6392
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 7433.99
+    distance_km: 7.434
+    distance_percent: 10.3608
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 64317.32
+    distance_km: 64.317
+    distance_percent: 89.6392
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 7433.99
+    distance_km: 7.434
+    distance_percent: 10.3608
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 64317.32
+    distance_km: 64.317
+    distance_percent: 89.6392
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 7433.99
+    distance_km: 7.434
+    distance_percent: 10.3608
+  touched_towns:
+  - slug: lidzbark
+    name: Lidzbark
+    code: "2803043"
+  - slug: rybno
+    name: Rybno
+    code: "2803062"
+  - slug: lubawa
+    name: Lubawa
+    code: "2807052"
+  - slug: dabrowno
+    name: Dąbrówno
+    code: "2815022"
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+  touched_counties:
+  - slug: dzialdowski
+    name: działdowski
+    code: "2803"
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  touched_macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+- type: bicycle
+  total_distance_meters: 22558.85
+  total_distance_km: 22.559
+  points_count: 113.0
+  towns:
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+    distance_meters: 19183.57
+    distance_km: 19.184
+    distance_percent: 85.0379
+  - slug: grunwald
+    name: Grunwald
+    code: "2815032"
+    distance_meters: 3375.28
+    distance_km: 3.375
+    distance_percent: 14.9621
+  counties:
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 22558.85
+    distance_km: 22.559
+    distance_percent: 100.0
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 22558.85
+    distance_km: 22.559
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 21362.87
+    distance_km: 21.363
+    distance_percent: 94.6984
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+    distance_meters: 1195.98
+    distance_km: 1.196
+    distance_percent: 5.3016
+  macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 21362.87
+    distance_km: 21.363
+    distance_percent: 94.6984
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 1195.98
+    distance_km: 1.196
+    distance_percent: 5.3016
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 21362.87
+    distance_km: 21.363
+    distance_percent: 94.6984
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 1195.98
+    distance_km: 1.196
+    distance_percent: 5.3016
+  subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 21362.87
+    distance_km: 21.363
+    distance_percent: 94.6984
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 1195.98
+    distance_km: 1.196
+    distance_percent: 5.3016
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 21362.87
+    distance_km: 21.363
+    distance_percent: 94.6984
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 1195.98
+    distance_km: 1.196
+    distance_percent: 5.3016
+  touched_towns:
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+  - slug: grunwald
+    name: Grunwald
+    code: "2815032"
+  touched_counties:
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  - slug: garb_lubawski
+    name: Garb Lubawski
+    code: "315.15"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

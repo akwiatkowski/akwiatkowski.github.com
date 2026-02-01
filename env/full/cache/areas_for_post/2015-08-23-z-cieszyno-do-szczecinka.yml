@@ -1,0 +1,162 @@
+---
+- type: bicycle
+  total_distance_meters: 70483.03
+  total_distance_km: 70.483
+  points_count: 371.0
+  towns:
+  - slug: borne_sulinowo
+    name: Borne Sulinowo
+    code: "3215043"
+    distance_meters: 25352.83
+    distance_km: 25.353
+    distance_percent: 35.9701
+  - slug: czaplinek
+    name: Czaplinek
+    code: "3203013"
+    distance_meters: 21189.2
+    distance_km: 21.189
+    distance_percent: 30.0628
+  - slug: zlocieniec
+    name: Złocieniec
+    code: "3203063"
+    distance_meters: 13871.72
+    distance_km: 13.872
+    distance_percent: 19.6809
+  - slug: szczecinek
+    name: Szczecinek
+    code: "3215062"
+    distance_meters: 10069.29
+    distance_km: 10.069
+    distance_percent: 14.2861
+  - slug: szczecinek
+    name: Szczecinek
+    code: "3215011"
+    distance_meters: 3725.79
+    distance_km: 3.726
+    distance_percent: 5.2861
+  counties:
+  - slug: szczecinecki
+    name: szczecinecki
+    code: "3215"
+    distance_meters: 35422.12
+    distance_km: 35.422
+    distance_percent: 50.2562
+  - slug: drawski
+    name: drawski
+    code: "3203"
+    distance_meters: 35060.91
+    distance_km: 35.061
+    distance_percent: 49.7438
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 70483.03
+    distance_km: 70.483
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+    distance_meters: 50151.72
+    distance_km: 50.152
+    distance_percent: 71.1543
+  - slug: pojezierze_szczecineckie
+    name: Pojezierze Szczecineckie
+    code: "314.66"
+    distance_meters: 18549.58
+    distance_km: 18.55
+    distance_percent: 26.3178
+  - slug: rownina_walecka
+    name: Równina Wałecka
+    code: "314.65"
+    distance_meters: 1781.73
+    distance_km: 1.782
+    distance_percent: 2.5279
+  macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 50151.72
+    distance_km: 50.152
+    distance_percent: 71.1543
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 20331.31
+    distance_km: 20.331
+    distance_percent: 28.8457
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 70483.03
+    distance_km: 70.483
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 70483.03
+    distance_km: 70.483
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 70483.03
+    distance_km: 70.483
+    distance_percent: 100.0
+  touched_towns:
+  - slug: zlocieniec
+    name: Złocieniec
+    code: "3203063"
+  - slug: czaplinek
+    name: Czaplinek
+    code: "3203013"
+  - slug: borne_sulinowo
+    name: Borne Sulinowo
+    code: "3215043"
+  - slug: szczecinek
+    name: Szczecinek
+    code: "3215062"
+  touched_counties:
+  - slug: drawski
+    name: drawski
+    code: "3203"
+  - slug: szczecinecki
+    name: szczecinecki
+    code: "3215"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+  - slug: rownina_walecka
+    name: Równina Wałecka
+    code: "314.65"
+  - slug: pojezierze_szczecineckie
+    name: Pojezierze Szczecineckie
+    code: "314.66"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

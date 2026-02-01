@@ -1,0 +1,120 @@
+---
+- type: hike
+  total_distance_meters: 15130.76
+  total_distance_km: 15.131
+  points_count: 116.0
+  towns:
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+    distance_meters: 9177.65
+    distance_km: 9.178
+    distance_percent: 60.6555
+  - slug: bierzwnik
+    name: Bierzwnik
+    code: "3202012"
+    distance_meters: 5953.12
+    distance_km: 5.953
+    distance_percent: 39.3445
+  counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 9177.65
+    distance_km: 9.178
+    distance_percent: 60.6555
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+    distance_meters: 5953.12
+    distance_km: 5.953
+    distance_percent: 39.3445
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 9177.65
+    distance_km: 9.178
+    distance_percent: 60.6555
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 5953.12
+    distance_km: 5.953
+    distance_percent: 39.3445
+  meso_regions:
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+    distance_meters: 15130.76
+    distance_km: 15.131
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 15130.76
+    distance_km: 15.131
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 15130.76
+    distance_km: 15.131
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 15130.76
+    distance_km: 15.131
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 15130.76
+    distance_km: 15.131
+    distance_percent: 100.0
+  touched_towns:
+  - slug: bierzwnik
+    name: Bierzwnik
+    code: "3202012"
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+  touched_counties:
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,111 @@
+---
+- type: hike
+  total_distance_meters: 6230.86
+  total_distance_km: 6.231
+  points_count: 139.0
+  towns:
+  - slug: bardo
+    name: Bardo
+    code: "0224013"
+    distance_meters: 6230.86
+    distance_km: 6.231
+    distance_percent: 100.0
+  counties:
+  - slug: zabkowicki
+    name: ząbkowicki
+    code: "0224"
+    distance_meters: 6230.86
+    distance_km: 6.231
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 6230.86
+    distance_km: 6.231
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gory_bardzkie
+    name: Góry Bardzkie
+    code: "332.45"
+    distance_meters: 5873.29
+    distance_km: 5.873
+    distance_percent: 94.2613
+  - slug: obnizenie_otmuchowskie
+    name: Obniżenie Otmuchowskie
+    code: "332.16"
+    distance_meters: 357.57
+    distance_km: 0.358
+    distance_percent: 5.7387
+  macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 5873.29
+    distance_km: 5.873
+    distance_percent: 94.2613
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+    distance_meters: 357.57
+    distance_km: 0.358
+    distance_percent: 5.7387
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 6230.86
+    distance_km: 6.231
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 6230.86
+    distance_km: 6.231
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 6230.86
+    distance_km: 6.231
+    distance_percent: 100.0
+  touched_towns:
+  - slug: bardo
+    name: Bardo
+    code: "0224013"
+  touched_counties:
+  - slug: zabkowicki
+    name: ząbkowicki
+    code: "0224"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_bardzkie
+    name: Góry Bardzkie
+    code: "332.45"
+  - slug: obnizenie_otmuchowskie
+    name: Obniżenie Otmuchowskie
+    code: "332.16"
+  touched_macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

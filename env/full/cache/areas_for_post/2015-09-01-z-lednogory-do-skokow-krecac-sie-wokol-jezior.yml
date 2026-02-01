@@ -1,0 +1,156 @@
+---
+- type: bicycle
+  total_distance_meters: 61809.18
+  total_distance_km: 61.809
+  points_count: 318.0
+  towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+    distance_meters: 22940.45
+    distance_km: 22.94
+    distance_percent: 37.115
+  - slug: kiszkowo
+    name: Kiszkowo
+    code: "3003042"
+    distance_meters: 20827.73
+    distance_km: 20.828
+    distance_percent: 33.6968
+  - slug: rogozno
+    name: Rogoźno
+    code: "3016023"
+    distance_meters: 7491.17
+    distance_km: 7.491
+    distance_percent: 12.1198
+  - slug: lubowo
+    name: Łubowo
+    code: "3003062"
+    distance_meters: 7466.26
+    distance_km: 7.466
+    distance_percent: 12.0795
+  - slug: klecko
+    name: Kłecko
+    code: "3003053"
+    distance_meters: 3083.56
+    distance_km: 3.084
+    distance_percent: 4.9888
+  counties:
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+    distance_meters: 31377.55
+    distance_km: 31.378
+    distance_percent: 50.7652
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 22940.45
+    distance_km: 22.94
+    distance_percent: 37.115
+  - slug: obornicki
+    name: obornicki
+    code: "3016"
+    distance_meters: 7491.17
+    distance_km: 7.491
+    distance_percent: 12.1198
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 61809.18
+    distance_km: 61.809
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 61603.92
+    distance_km: 61.604
+    distance_percent: 99.6679
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 205.26
+    distance_km: 0.205
+    distance_percent: 0.3321
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 61809.18
+    distance_km: 61.809
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 61809.18
+    distance_km: 61.809
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 61809.18
+    distance_km: 61.809
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 61809.18
+    distance_km: 61.809
+    distance_percent: 100.0
+  touched_towns:
+  - slug: lubowo
+    name: Łubowo
+    code: "3003062"
+  - slug: klecko
+    name: Kłecko
+    code: "3003053"
+  - slug: kiszkowo
+    name: Kiszkowo
+    code: "3003042"
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+  - slug: rogozno
+    name: Rogoźno
+    code: "3016023"
+  touched_counties:
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  - slug: obornicki
+    name: obornicki
+    code: "3016"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,102 @@
+---
+- type: bicycle
+  total_distance_meters: 56065.17
+  total_distance_km: 56.065
+  points_count: 555.0
+  towns:
+  - slug: szklarska_poreba
+    name: Szklarska Poręba
+    code: "0206041"
+    distance_meters: 32089.38
+    distance_km: 32.089
+    distance_percent: 57.2359
+  counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+    distance_meters: 32089.38
+    distance_km: 32.089
+    distance_percent: 57.2359
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 32089.38
+    distance_km: 32.089
+    distance_percent: 57.2359
+  meso_regions:
+  - slug: gory_izerskie
+    name: Góry Izerskie
+    code: "332.34"
+    distance_meters: 24517.56
+    distance_km: 24.518
+    distance_percent: 43.7305
+  - slug: karkonosze
+    name: Karkonosze
+    code: "332.37"
+    distance_meters: 7105.2
+    distance_km: 7.105
+    distance_percent: 12.6731
+  macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 31622.76
+    distance_km: 31.623
+    distance_percent: 56.4036
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 31622.76
+    distance_km: 31.623
+    distance_percent: 56.4036
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 31622.76
+    distance_km: 31.623
+    distance_percent: 56.4036
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 31622.76
+    distance_km: 31.623
+    distance_percent: 56.4036
+  touched_towns:
+  - slug: szklarska_poreba
+    name: Szklarska Poręba
+    code: "0206041"
+  touched_counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: karkonosze
+    name: Karkonosze
+    code: "332.37"
+  - slug: gory_izerskie
+    name: Góry Izerskie
+    code: "332.34"
+  touched_macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

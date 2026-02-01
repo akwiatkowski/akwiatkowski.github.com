@@ -1,0 +1,185 @@
+---
+- type: hike
+  total_distance_meters: 439.59
+  total_distance_km: 0.44
+  points_count: 12.0
+  towns:
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+    distance_meters: 439.59
+    distance_km: 0.44
+    distance_percent: 100.0
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 439.59
+    distance_km: 0.44
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 439.59
+    distance_km: 0.44
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+    distance_meters: 439.59
+    distance_km: 0.44
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+    distance_meters: 439.59
+    distance_km: 0.44
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 439.59
+    distance_km: 0.44
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 439.59
+    distance_km: 0.44
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 439.59
+    distance_km: 0.44
+    distance_percent: 100.0
+  touched_towns:
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+  touched_macro_regions:
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: hike
+  total_distance_meters: 387.2
+  total_distance_km: 0.387
+  points_count: 10.0
+  towns:
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+    distance_meters: 387.2
+    distance_km: 0.387
+    distance_percent: 100.0
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 387.2
+    distance_km: 0.387
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 387.2
+    distance_km: 0.387
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+    distance_meters: 387.2
+    distance_km: 0.387
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+    distance_meters: 387.2
+    distance_km: 0.387
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 387.2
+    distance_km: 0.387
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 387.2
+    distance_km: 0.387
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 387.2
+    distance_km: 0.387
+    distance_percent: 100.0
+  touched_towns:
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+  touched_macro_regions:
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,216 @@
+---
+- type: bicycle
+  total_distance_meters: 77981.96
+  total_distance_km: 77.982
+  points_count: 286.0
+  towns:
+  - slug: naklo_nad_notecia
+    name: Nakło nad Notecią
+    code: "0410033"
+    distance_meters: 20181.36
+    distance_km: 20.181
+    distance_percent: 25.8795
+  - slug: lobzenica
+    name: Łobżenica
+    code: "3019043"
+    distance_meters: 18796.94
+    distance_km: 18.797
+    distance_percent: 24.1042
+  - slug: zlotow
+    name: Złotów
+    code: "3031082"
+    distance_meters: 14615.66
+    distance_km: 14.616
+    distance_percent: 18.7424
+  - slug: sadki
+    name: Sadki
+    code: "0410042"
+    distance_meters: 11392.52
+    distance_km: 11.393
+    distance_percent: 14.6092
+  - slug: biale_blota
+    name: Białe Błota
+    code: "0403012"
+    distance_meters: 7890.93
+    distance_km: 7.891
+    distance_percent: 10.1189
+  - slug: bydgoszcz
+    name: Bydgoszcz
+    code: "0461011"
+    distance_meters: 5104.55
+    distance_km: 5.105
+    distance_percent: 6.5458
+  - slug: zlotow
+    name: Złotów
+    code: "3031011"
+    distance_meters: 1908.23
+    distance_km: 1.908
+    distance_percent: 2.447
+  counties:
+  - slug: nakielski
+    name: nakielski
+    code: "0410"
+    distance_meters: 31573.87
+    distance_km: 31.574
+    distance_percent: 40.4887
+  - slug: pilski
+    name: pilski
+    code: "3019"
+    distance_meters: 18796.94
+    distance_km: 18.797
+    distance_percent: 24.1042
+  - slug: zlotowski
+    name: złotowski
+    code: "3031"
+    distance_meters: 14615.66
+    distance_km: 14.616
+    distance_percent: 18.7424
+  - slug: bydgoski
+    name: bydgoski
+    code: "0403"
+    distance_meters: 7890.93
+    distance_km: 7.891
+    distance_percent: 10.1189
+  - slug: bydgoszcz
+    name: Bydgoszcz
+    code: "0461"
+    distance_meters: 5104.55
+    distance_km: 5.105
+    distance_percent: 6.5458
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 44569.36
+    distance_km: 44.569
+    distance_percent: 57.1534
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 33412.6
+    distance_km: 33.413
+    distance_percent: 42.8466
+  meso_regions:
+  - slug: pojezierze_poludniowokrajenskie
+    name: Pojezierze Południowokrajeńskie
+    code: "314.74"
+    distance_meters: 50107.02
+    distance_km: 50.107
+    distance_percent: 64.2546
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+    distance_meters: 27191.92
+    distance_km: 27.192
+    distance_percent: 34.8695
+  - slug: dolina_srodkowej_noteci
+    name: Dolina Środkowej Noteci
+    code: "315.34"
+    distance_meters: 683.02
+    distance_km: 0.683
+    distance_percent: 0.8759
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 50107.02
+    distance_km: 50.107
+    distance_percent: 64.2546
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 27874.94
+    distance_km: 27.875
+    distance_percent: 35.7454
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 77981.96
+    distance_km: 77.982
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 77981.96
+    distance_km: 77.982
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 77981.96
+    distance_km: 77.982
+    distance_percent: 100.0
+  touched_towns:
+  - slug: zlotow
+    name: Złotów
+    code: "3031082"
+  - slug: lobzenica
+    name: Łobżenica
+    code: "3019043"
+  - slug: sadki
+    name: Sadki
+    code: "0410042"
+  - slug: naklo_nad_notecia
+    name: Nakło nad Notecią
+    code: "0410033"
+  - slug: biale_blota
+    name: Białe Błota
+    code: "0403012"
+  - slug: bydgoszcz
+    name: Bydgoszcz
+    code: "0461011"
+  touched_counties:
+  - slug: zlotowski
+    name: złotowski
+    code: "3031"
+  - slug: pilski
+    name: pilski
+    code: "3019"
+  - slug: nakielski
+    name: nakielski
+    code: "0410"
+  - slug: bydgoski
+    name: bydgoski
+    code: "0403"
+  - slug: bydgoszcz
+    name: Bydgoszcz
+    code: "0461"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: pojezierze_poludniowokrajenskie
+    name: Pojezierze Południowokrajeńskie
+    code: "314.74"
+  - slug: dolina_srodkowej_noteci
+    name: Dolina Środkowej Noteci
+    code: "315.34"
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,213 @@
+---
+- type: car
+  total_distance_meters: 220728.06
+  total_distance_km: 220.728
+  points_count: 574.0
+  towns:
+  - slug: klodzko
+    name: Kłodzko
+    code: 0208072
+    distance_meters: 18629.5
+    distance_km: 18.63
+    distance_percent: 8.44
+  - slug: szczytna
+    name: Szczytna
+    code: 0208143
+    distance_meters: 9941.76
+    distance_km: 9.942
+    distance_percent: 4.5041
+  - slug: lewin_klodzki
+    name: Lewin Kłodzki
+    code: 0208092
+    distance_meters: 9934.3
+    distance_km: 9.934
+    distance_percent: 4.5007
+  - slug: bystrzyca_klodzka
+    name: Bystrzyca Kłodzka
+    code: 0208063
+    distance_meters: 9432.88
+    distance_km: 9.433
+    distance_percent: 4.2735
+  - slug: klodzko
+    name: Kłodzko
+    code: 0208021
+    distance_meters: 5724.45
+    distance_km: 5.724
+    distance_percent: 2.5934
+  - slug: kudowazdroj
+    name: Kudowa-Zdrój
+    code: 0208031
+    distance_meters: 4033.36
+    distance_km: 4.033
+    distance_percent: 1.8273
+  - slug: dusznikizdroj
+    name: Duszniki-Zdrój
+    code: 0208011
+    distance_meters: 3763.22
+    distance_km: 3.763
+    distance_percent: 1.7049
+  - slug: polanicazdroj
+    name: Polanica-Zdrój
+    code: 0208051
+    distance_meters: 7.28
+    distance_km: 0.007
+    distance_percent: 0.0033
+  counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+    distance_meters: 55742.31
+    distance_km: 55.742
+    distance_percent: 25.2538
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 55742.31
+    distance_km: 55.742
+    distance_percent: 25.2538
+  meso_regions:
+  - slug: kotlina_klodzka
+    name: Kotlina Kłodzka
+    code: "332.54"
+    distance_meters: 14624.21
+    distance_km: 14.624
+    distance_percent: 6.6254
+  - slug: gory_stolowe
+    name: Góry Stołowe
+    code: "332.48"
+    distance_meters: 12913.56
+    distance_km: 12.914
+    distance_percent: 5.8504
+  - slug: row_gornej_nysy
+    name: Rów Górnej Nysy
+    code: "332.55"
+    distance_meters: 8898.58
+    distance_km: 8.899
+    distance_percent: 4.0315
+  - slug: pogorze_orlickie
+    name: Pogórze Orlickie
+    code: "332.51"
+    distance_meters: 8732.58
+    distance_km: 8.733
+    distance_percent: 3.9563
+  - slug: gory_orlickie
+    name: Góry Orlickie
+    code: "332.52"
+    distance_meters: 5679.54
+    distance_km: 5.68
+    distance_percent: 2.5731
+  - slug: masyw_snieznika
+    name: Masyw Śnieżnika
+    code: "332.62"
+    distance_meters: 4189.07
+    distance_km: 4.189
+    distance_percent: 1.8978
+  - slug: gory_zlote
+    name: Góry Złote
+    code: "332.61"
+    distance_meters: 884.11
+    distance_km: 0.884
+    distance_percent: 0.4005
+  macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 50848.46
+    distance_km: 50.848
+    distance_percent: 23.0367
+  - slug: sudety_wschodnie
+    name: Sudety Wschodnie
+    code: "332"
+    distance_meters: 5073.18
+    distance_km: 5.073
+    distance_percent: 2.2984
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 55921.64
+    distance_km: 55.922
+    distance_percent: 25.3351
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 55921.64
+    distance_km: 55.922
+    distance_percent: 25.3351
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 55921.64
+    distance_km: 55.922
+    distance_percent: 25.3351
+  touched_towns:
+  - slug: bystrzyca_klodzka
+    name: Bystrzyca Kłodzka
+    code: 0208063
+  - slug: klodzko
+    name: Kłodzko
+    code: 0208072
+  - slug: szczytna
+    name: Szczytna
+    code: 0208143
+  - slug: dusznikizdroj
+    name: Duszniki-Zdrój
+    code: 0208011
+  - slug: lewin_klodzki
+    name: Lewin Kłodzki
+    code: 0208092
+  - slug: kudowazdroj
+    name: Kudowa-Zdrój
+    code: 0208031
+  touched_counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: row_gornej_nysy
+    name: Rów Górnej Nysy
+    code: "332.55"
+  - slug: masyw_snieznika
+    name: Masyw Śnieżnika
+    code: "332.62"
+  - slug: gory_zlote
+    name: Góry Złote
+    code: "332.61"
+  - slug: kotlina_klodzka
+    name: Kotlina Kłodzka
+    code: "332.54"
+  - slug: gory_stolowe
+    name: Góry Stołowe
+    code: "332.48"
+  - slug: gory_orlickie
+    name: Góry Orlickie
+    code: "332.52"
+  - slug: pogorze_orlickie
+    name: Pogórze Orlickie
+    code: "332.51"
+  touched_macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  - slug: sudety_wschodnie
+    name: Sudety Wschodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

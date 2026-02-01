@@ -1,0 +1,102 @@
+---
+- type: bicycle
+  total_distance_meters: 14464.19
+  total_distance_km: 14.464
+  points_count: 121.0
+  towns:
+  - slug: goniadz
+    name: Goniądz
+    code: "2008013"
+    distance_meters: 14464.19
+    distance_km: 14.464
+    distance_percent: 100.0
+  counties:
+  - slug: moniecki
+    name: moniecki
+    code: "2008"
+    distance_meters: 14464.19
+    distance_km: 14.464
+    distance_percent: 100.0
+  voivodeships:
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+    distance_meters: 14464.19
+    distance_km: 14.464
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_biebrzanska
+    name: Kotlina Biebrzańska
+    code: "843.32"
+    distance_meters: 8567.57
+    distance_km: 8.568
+    distance_percent: 59.2329
+  - slug: wysoczyzna_bialostocka
+    name: Wysoczyzna Białostocka
+    code: "843.33"
+    distance_meters: 5896.63
+    distance_km: 5.897
+    distance_percent: 40.7671
+  macro_regions:
+  - slug: nizina_polnocnopodlaska
+    name: Nizina Północnopodlaska
+    code: "843"
+    distance_meters: 14464.19
+    distance_km: 14.464
+    distance_percent: 100.0
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 14464.19
+    distance_km: 14.464
+    distance_percent: 100.0
+  subprovinces:
+  - slug: wysoczyzny_podlaskobialoruskie
+    name: Wysoczyzny Podlasko-Białoruskie
+    code: "84"
+    distance_meters: 14464.19
+    distance_km: 14.464
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 14464.19
+    distance_km: 14.464
+    distance_percent: 100.0
+  touched_towns:
+  - slug: goniadz
+    name: Goniądz
+    code: "2008013"
+  touched_counties:
+  - slug: moniecki
+    name: moniecki
+    code: "2008"
+  touched_voivodeships:
+  - slug: podlaskie
+    name: PODLASKIE
+    code: "20"
+  touched_meso_regions:
+  - slug: kotlina_biebrzanska
+    name: Kotlina Biebrzańska
+    code: "843.32"
+  - slug: wysoczyzna_bialostocka
+    name: Wysoczyzna Białostocka
+    code: "843.33"
+  touched_macro_regions:
+  - slug: nizina_polnocnopodlaska
+    name: Nizina Północnopodlaska
+    code: "843"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: wysoczyzny_podlaskobialoruskie
+    name: Wysoczyzny Podlasko-Białoruskie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

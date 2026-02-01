@@ -1,0 +1,249 @@
+---
+- type: bicycle
+  total_distance_meters: 78148.3
+  total_distance_km: 78.148
+  points_count: 344.0
+  towns:
+  - slug: ciechocin
+    name: Ciechocin
+    code: "0405022"
+    distance_meters: 12821.49
+    distance_km: 12.821
+    distance_percent: 16.4066
+  - slug: golubdobrzyn
+    name: Golub-Dobrzyń
+    code: "0405032"
+    distance_meters: 11849.56
+    distance_km: 11.85
+    distance_percent: 15.1629
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+    distance_meters: 11551.33
+    distance_km: 11.551
+    distance_percent: 14.7813
+  - slug: wapielsk
+    name: Wąpielsk
+    code: "0412062"
+    distance_meters: 10703.19
+    distance_km: 10.703
+    distance_percent: 13.696
+  - slug: lubicz
+    name: Lubicz
+    code: "0415042"
+    distance_meters: 9398.84
+    distance_km: 9.399
+    distance_percent: 12.0269
+  - slug: brodnica
+    name: Brodnica
+    code: "0402032"
+    distance_meters: 6135.92
+    distance_km: 6.136
+    distance_percent: 7.8516
+  - slug: radomin
+    name: Radomin
+    code: "0405052"
+    distance_meters: 5773.48
+    distance_km: 5.773
+    distance_percent: 7.3879
+  - slug: brodnica
+    name: Brodnica
+    code: "0402011"
+    distance_meters: 5703.3
+    distance_km: 5.703
+    distance_percent: 7.298
+  - slug: golubdobrzyn
+    name: Golub-Dobrzyń
+    code: "0405011"
+    distance_meters: 5262.46
+    distance_km: 5.262
+    distance_percent: 6.7339
+  - slug: osiek
+    name: Osiek
+    code: 0402082
+    distance_meters: 4211.2
+    distance_km: 4.211
+    distance_percent: 5.3887
+  counties:
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+    distance_meters: 30444.53
+    distance_km: 30.445
+    distance_percent: 38.9574
+  - slug: torunski
+    name: toruński
+    code: "0415"
+    distance_meters: 20950.17
+    distance_km: 20.95
+    distance_percent: 26.8082
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+    distance_meters: 16050.41
+    distance_km: 16.05
+    distance_percent: 20.5384
+  - slug: torun
+    name: Toruń
+    code: "0463"
+    distance_meters: 11551.33
+    distance_km: 11.551
+    distance_percent: 14.7813
+  - slug: rypinski
+    name: rypiński
+    code: "0412"
+    distance_meters: 10703.19
+    distance_km: 10.703
+    distance_percent: 13.696
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 78148.3
+    distance_km: 78.148
+    distance_percent: 100.0
+  meso_regions:
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+    distance_meters: 33460.18
+    distance_km: 33.46
+    distance_percent: 42.8163
+  - slug: pojezierze_dobrzynskie
+    name: Pojezierze Dobrzyńskie
+    code: "315.14"
+    distance_meters: 24546.05
+    distance_km: 24.546
+    distance_percent: 31.4096
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+    distance_meters: 10353.8
+    distance_km: 10.354
+    distance_percent: 13.2489
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+    distance_meters: 8311.85
+    distance_km: 8.312
+    distance_percent: 10.636
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 1476.42
+    distance_km: 1.476
+    distance_percent: 1.8893
+  macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 67794.5
+    distance_km: 67.794
+    distance_percent: 86.7511
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 10353.8
+    distance_km: 10.354
+    distance_percent: 13.2489
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 78148.3
+    distance_km: 78.148
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 78148.3
+    distance_km: 78.148
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 78148.3
+    distance_km: 78.148
+    distance_percent: 100.0
+  touched_towns:
+  - slug: torun
+    name: Toruń
+    code: "0463011"
+  - slug: lubicz
+    name: Lubicz
+    code: "0415042"
+  - slug: ciechocin
+    name: Ciechocin
+    code: "0405022"
+  - slug: golubdobrzyn
+    name: Golub-Dobrzyń
+    code: "0405032"
+  - slug: radomin
+    name: Radomin
+    code: "0405052"
+  - slug: wapielsk
+    name: Wąpielsk
+    code: "0412062"
+  - slug: osiek
+    name: Osiek
+    code: 0402082
+  - slug: brodnica
+    name: Brodnica
+    code: "0402032"
+  touched_counties:
+  - slug: torunski
+    name: toruński
+    code: "0415"
+  - slug: torun
+    name: Toruń
+    code: "0463"
+  - slug: golubskodobrzynski
+    name: golubsko-dobrzyński
+    code: "0405"
+  - slug: rypinski
+    name: rypiński
+    code: "0412"
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: kotlina_torunska
+    name: Kotlina Toruńska
+    code: "315.35"
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+  - slug: pojezierze_dobrzynskie
+    name: Pojezierze Dobrzyńskie
+    code: "315.14"
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  touched_macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

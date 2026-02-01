@@ -1,0 +1,192 @@
+---
+- type: bicycle
+  total_distance_meters: 45415.6
+  total_distance_km: 45.416
+  points_count: 191.0
+  towns:
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+    distance_meters: 15421.75
+    distance_km: 15.422
+    distance_percent: 33.9569
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+    distance_meters: 11463.18
+    distance_km: 11.463
+    distance_percent: 25.2406
+  - slug: komorniki
+    name: Komorniki
+    code: "3021072"
+    distance_meters: 8534.66
+    distance_km: 8.535
+    distance_percent: 18.7924
+  - slug: lubon
+    name: Luboń
+    code: "3021011"
+    distance_meters: 4404.16
+    distance_km: 4.404
+    distance_percent: 9.6975
+  - slug: puszczykowo
+    name: Puszczykowo
+    code: "3021021"
+    distance_meters: 3435.52
+    distance_km: 3.436
+    distance_percent: 7.5646
+  - slug: steszew
+    name: Stęszew
+    code: "3021143"
+    distance_meters: 2156.32
+    distance_km: 2.156
+    distance_percent: 4.748
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 45415.6
+    distance_km: 45.416
+    distance_percent: 100.0
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+    distance_meters: 11463.18
+    distance_km: 11.463
+    distance_percent: 25.2406
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 45415.6
+    distance_km: 45.416
+    distance_percent: 100.0
+  meso_regions:
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+    distance_meters: 23035.88
+    distance_km: 23.036
+    distance_percent: 50.7224
+  - slug: wysoczyzna_grodziska
+    name: Wysoczyzna Grodziska
+    code: "315.59"
+    distance_meters: 17266.98
+    distance_km: 17.267
+    distance_percent: 38.0199
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 2109.01
+    distance_km: 2.109
+    distance_percent: 4.6438
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 2105.54
+    distance_km: 2.106
+    distance_percent: 4.6362
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+    distance_meters: 898.2
+    distance_km: 0.898
+    distance_percent: 1.9777
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 44517.4
+    distance_km: 44.517
+    distance_percent: 98.0223
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+    distance_meters: 898.2
+    distance_km: 0.898
+    distance_percent: 1.9777
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 45415.6
+    distance_km: 45.416
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 45415.6
+    distance_km: 45.416
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 45415.6
+    distance_km: 45.416
+    distance_percent: 100.0
+  touched_towns:
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+  - slug: puszczykowo
+    name: Puszczykowo
+    code: "3021021"
+  - slug: steszew
+    name: Stęszew
+    code: "3021143"
+  - slug: komorniki
+    name: Komorniki
+    code: "3021072"
+  - slug: lubon
+    name: Luboń
+    code: "3021011"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+  - slug: wysoczyzna_grodziska
+    name: Wysoczyzna Grodziska
+    code: "315.59"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

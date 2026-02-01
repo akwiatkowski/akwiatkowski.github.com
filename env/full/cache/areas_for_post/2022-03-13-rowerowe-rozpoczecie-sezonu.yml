@@ -1,0 +1,102 @@
+---
+- type: bicycle
+  total_distance_meters: 22317.4
+  total_distance_km: 22.317
+  points_count: 191.0
+  towns:
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+    distance_meters: 22317.4
+    distance_km: 22.317
+    distance_percent: 100.0
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 22317.4
+    distance_km: 22.317
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 22317.4
+    distance_km: 22.317
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 19384.52
+    distance_km: 19.385
+    distance_percent: 86.8583
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 2932.88
+    distance_km: 2.933
+    distance_percent: 13.1417
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 22317.4
+    distance_km: 22.317
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 22317.4
+    distance_km: 22.317
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 22317.4
+    distance_km: 22.317
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 22317.4
+    distance_km: 22.317
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

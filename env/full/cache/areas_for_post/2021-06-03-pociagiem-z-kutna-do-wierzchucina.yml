@@ -1,0 +1,633 @@
+---
+- type: train
+  total_distance_meters: 265857.64
+  total_distance_km: 265.858
+  points_count: 304.0
+  towns:
+  - slug: drzycim
+    name: Drzycim
+    code: "0414032"
+    distance_meters: 24739.73
+    distance_km: 24.74
+    distance_percent: 9.3056
+  - slug: gostynin
+    name: Gostynin
+    code: "1404022"
+    distance_meters: 17999.43
+    distance_km: 17.999
+    distance_percent: 6.7703
+  - slug: jezewo
+    name: Jeżewo
+    code: "0414042"
+    distance_meters: 17735.58
+    distance_km: 17.736
+    distance_percent: 6.6711
+  - slug: plock
+    name: Płock
+    code: "1462011"
+    distance_meters: 14011.04
+    distance_km: 14.011
+    distance_percent: 5.2701
+  - slug: rypin
+    name: Rypin
+    code: "0412042"
+    distance_meters: 13936.71
+    distance_km: 13.937
+    distance_percent: 5.2422
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+    distance_meters: 13566.04
+    distance_km: 13.566
+    distance_percent: 5.1027
+  - slug: gruta
+    name: Gruta
+    code: "0406022"
+    distance_meters: 12608.34
+    distance_km: 12.608
+    distance_percent: 4.7425
+  - slug: sierpc
+    name: Sierpc
+    code: "1427052"
+    distance_meters: 11166.24
+    distance_km: 11.166
+    distance_percent: 4.2001
+  - slug: lniano
+    name: Lniano
+    code: "0414052"
+    distance_meters: 10162.14
+    distance_km: 10.162
+    distance_percent: 3.8224
+  - slug: dragacz
+    name: Dragacz
+    code: "0414022"
+    distance_meters: 10057.68
+    distance_km: 10.058
+    distance_percent: 3.7831
+  - slug: stara_biala
+    name: Stara Biała
+    code: "1419132"
+    distance_meters: 9656.41
+    distance_km: 9.656
+    distance_percent: 3.6322
+  - slug: osiek
+    name: Osiek
+    code: 0402082
+    distance_meters: 8732.32
+    distance_km: 8.732
+    distance_percent: 3.2846
+  - slug: gozdowo
+    name: Gozdowo
+    code: "1427022"
+    distance_meters: 8710.16
+    distance_km: 8.71
+    distance_percent: 3.2762
+  - slug: brodnica
+    name: Brodnica
+    code: "0402032"
+    distance_meters: 8519.5
+    distance_km: 8.52
+    distance_percent: 3.2045
+  - slug: cekcyn
+    name: Cekcyn
+    code: "0416012"
+    distance_meters: 8434.31
+    distance_km: 8.434
+    distance_percent: 3.1725
+  - slug: brodnica
+    name: Brodnica
+    code: "0402011"
+    distance_meters: 7376.54
+    distance_km: 7.377
+    distance_percent: 2.7746
+  - slug: bobrowo
+    name: Bobrowo
+    code: "0402022"
+    distance_meters: 7214.15
+    distance_km: 7.214
+    distance_percent: 2.7135
+  - slug: szczutowo
+    name: Szczutowo
+    code: "1427062"
+    distance_meters: 7114.37
+    distance_km: 7.114
+    distance_percent: 2.676
+  - slug: strzelce
+    name: Strzelce
+    code: "1002102"
+    distance_meters: 6923.93
+    distance_km: 6.924
+    distance_percent: 2.6044
+  - slug: lack
+    name: Łąck
+    code: "1419072"
+    distance_meters: 6831.47
+    distance_km: 6.831
+    distance_percent: 2.5696
+  - slug: swiecie_nad_osa
+    name: Świecie nad Osą
+    code: "0406062"
+    distance_meters: 6550.26
+    distance_km: 6.55
+    distance_percent: 2.4638
+  - slug: gostynin
+    name: Gostynin
+    code: "1404011"
+    distance_meters: 6527.77
+    distance_km: 6.528
+    distance_percent: 2.4554
+  - slug: rogowo
+    name: Rogowo
+    code: "0412032"
+    distance_meters: 6346.62
+    distance_km: 6.347
+    distance_percent: 2.3872
+  - slug: kutno
+    name: Kutno
+    code: "1002062"
+    distance_meters: 5934.02
+    distance_km: 5.934
+    distance_percent: 2.232
+  - slug: grudziadz
+    name: Grudziądz
+    code: "0462011"
+    distance_meters: 4550.53
+    distance_km: 4.551
+    distance_percent: 1.7116
+  - slug: sierpc
+    name: Sierpc
+    code: "1427011"
+    distance_meters: 4340.93
+    distance_km: 4.341
+    distance_percent: 1.6328
+  - slug: grudziadz
+    name: Grudziądz
+    code: "0406012"
+    distance_meters: 4053.08
+    distance_km: 4.053
+    distance_percent: 1.5245
+  - slug: kutno
+    name: Kutno
+    code: "1002011"
+    distance_meters: 3948.87
+    distance_km: 3.949
+    distance_percent: 1.4853
+  - slug: rypin
+    name: Rypin
+    code: "0412011"
+    distance_meters: 3089.36
+    distance_km: 3.089
+    distance_percent: 1.162
+  - slug: bielsk
+    name: Bielsk
+    code: "1419012"
+    distance_meters: 2811.52
+    distance_km: 2.812
+    distance_percent: 1.0575
+  - slug: zbiczno
+    name: Zbiczno
+    code: "0402102"
+    distance_meters: 1825.74
+    distance_km: 1.826
+    distance_percent: 0.6867
+  counties:
+  - slug: swiecki
+    name: świecki
+    code: "0414"
+    distance_meters: 62695.13
+    distance_km: 62.695
+    distance_percent: 23.5822
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+    distance_meters: 47234.28
+    distance_km: 47.234
+    distance_percent: 17.7668
+  - slug: plocki
+    name: płocki
+    code: "1419"
+    distance_meters: 33310.43
+    distance_km: 33.31
+    distance_percent: 12.5294
+  - slug: sierpecki
+    name: sierpecki
+    code: "1427"
+    distance_meters: 31331.69
+    distance_km: 31.332
+    distance_percent: 11.7851
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+    distance_meters: 23211.68
+    distance_km: 23.212
+    distance_percent: 8.7309
+  - slug: rypinski
+    name: rypiński
+    code: "0412"
+    distance_meters: 20283.33
+    distance_km: 20.283
+    distance_percent: 7.6294
+  - slug: gostyninski
+    name: gostyniński
+    code: "1404"
+    distance_meters: 17999.43
+    distance_km: 17.999
+    distance_percent: 6.7703
+  - slug: kutnowski
+    name: kutnowski
+    code: "1002"
+    distance_meters: 16806.82
+    distance_km: 16.807
+    distance_percent: 6.3217
+  - slug: plock
+    name: Płock
+    code: "1462"
+    distance_meters: 14011.04
+    distance_km: 14.011
+    distance_percent: 5.2701
+  - slug: tucholski
+    name: tucholski
+    code: "0416"
+    distance_meters: 8434.31
+    distance_km: 8.434
+    distance_percent: 3.1725
+  - slug: grudziadz
+    name: Grudziądz
+    code: "0462"
+    distance_meters: 4550.53
+    distance_km: 4.551
+    distance_percent: 1.7116
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 166409.27
+    distance_km: 166.409
+    distance_percent: 62.5934
+  - slug: mazowieckie
+    name: MAZOWIECKIE
+    code: "14"
+    distance_meters: 82641.56
+    distance_km: 82.642
+    distance_percent: 31.0849
+  - slug: lodzkie
+    name: ŁÓDZKIE
+    code: "10"
+    distance_meters: 16806.82
+    distance_km: 16.807
+    distance_percent: 6.3217
+  meso_regions:
+  - slug: wysoczyzna_swiecka
+    name: Wysoczyzna Świecka
+    code: "314.73"
+    distance_meters: 44401.55
+    distance_km: 44.402
+    distance_percent: 16.7012
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+    distance_meters: 42465.46
+    distance_km: 42.465
+    distance_percent: 15.973
+  - slug: pojezierze_dobrzynskie
+    name: Pojezierze Dobrzyńskie
+    code: "315.14"
+    distance_meters: 25876.28
+    distance_km: 25.876
+    distance_percent: 9.7331
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+    distance_meters: 24813.19
+    distance_km: 24.813
+    distance_percent: 9.3333
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 23083.15
+    distance_km: 23.083
+    distance_percent: 8.6825
+  - slug: kotlina_plocka
+    name: Kotlina Płocka
+    code: "315.36"
+    distance_meters: 19324.11
+    distance_km: 19.324
+    distance_percent: 7.2686
+  - slug: wysoczyzna_plonska
+    name: Wysoczyzna Płońska
+    code: "318.61"
+    distance_meters: 19106.72
+    distance_km: 19.107
+    distance_percent: 7.1868
+  - slug: kotlina_grudziadzka
+    name: Kotlina Grudziądzka
+    code: "314.82"
+    distance_meters: 16189.08
+    distance_km: 16.189
+    distance_percent: 6.0894
+  - slug: bory_tucholskie
+    name: Bory Tucholskie
+    code: "314.71"
+    distance_meters: 15764.57
+    distance_km: 15.765
+    distance_percent: 5.9297
+  - slug: wysoczyzna_klodawska
+    name: Wysoczyzna Kłodawska
+    code: "318.15"
+    distance_meters: 12539.46
+    distance_km: 12.539
+    distance_percent: 4.7166
+  - slug: pojezierze_kujawskie
+    name: Pojezierze Kujawskie
+    code: "315.57"
+    distance_meters: 11353.74
+    distance_km: 11.354
+    distance_percent: 4.2706
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+    distance_meters: 6860.61
+    distance_km: 6.861
+    distance_percent: 2.5806
+  - slug: rownina_kutnowska
+    name: Równina Kutnowska
+    code: "318.71"
+    distance_meters: 4079.72
+    distance_km: 4.08
+    distance_percent: 1.5346
+  macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 123098.69
+    distance_km: 123.099
+    distance_percent: 46.3025
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 60166.11
+    distance_km: 60.166
+    distance_percent: 22.631
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 19324.11
+    distance_km: 19.324
+    distance_percent: 7.2686
+  - slug: nizina_polnocnomazowiecka
+    name: Nizina Północnomazowiecka
+    code: "318"
+    distance_meters: 19106.72
+    distance_km: 19.107
+    distance_percent: 7.1868
+  - slug: dolina_dolnej_wisly
+    name: Dolina Dolnej Wisły
+    code: 314-316
+    distance_meters: 16189.08
+    distance_km: 16.189
+    distance_percent: 6.0894
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+    distance_meters: 12539.46
+    distance_km: 12.539
+    distance_percent: 4.7166
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 11353.74
+    distance_km: 11.354
+    distance_percent: 4.2706
+  - slug: nizina_srodkowomazowiecka
+    name: Nizina Środkowomazowiecka
+    code: "318"
+    distance_meters: 4079.72
+    distance_km: 4.08
+    distance_percent: 1.5346
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 265857.64
+    distance_km: 265.858
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 230131.73
+    distance_km: 230.132
+    distance_percent: 86.562
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 35725.91
+    distance_km: 35.726
+    distance_percent: 13.438
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 265857.64
+    distance_km: 265.858
+    distance_percent: 100.0
+  touched_towns:
+  - slug: kutno
+    name: Kutno
+    code: "1002011"
+  - slug: strzelce
+    name: Strzelce
+    code: "1002102"
+  - slug: gostynin
+    name: Gostynin
+    code: "1404022"
+  - slug: lack
+    name: Łąck
+    code: "1419072"
+  - slug: plock
+    name: Płock
+    code: "1462011"
+  - slug: stara_biala
+    name: Stara Biała
+    code: "1419132"
+  - slug: bielsk
+    name: Bielsk
+    code: "1419012"
+  - slug: gozdowo
+    name: Gozdowo
+    code: "1427022"
+  - slug: sierpc
+    name: Sierpc
+    code: "1427052"
+  - slug: szczutowo
+    name: Szczutowo
+    code: "1427062"
+  - slug: rogowo
+    name: Rogowo
+    code: "0412032"
+  - slug: rypin
+    name: Rypin
+    code: "0412042"
+  - slug: osiek
+    name: Osiek
+    code: 0402082
+  - slug: brodnica
+    name: Brodnica
+    code: "0402011"
+  - slug: bobrowo
+    name: Bobrowo
+    code: "0402022"
+  - slug: zbiczno
+    name: Zbiczno
+    code: "0402102"
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+  - slug: swiecie_nad_osa
+    name: Świecie nad Osą
+    code: "0406062"
+  - slug: gruta
+    name: Gruta
+    code: "0406022"
+  - slug: grudziadz
+    name: Grudziądz
+    code: "0406012"
+  - slug: dragacz
+    name: Dragacz
+    code: "0414022"
+  - slug: jezewo
+    name: Jeżewo
+    code: "0414042"
+  - slug: drzycim
+    name: Drzycim
+    code: "0414032"
+  - slug: lniano
+    name: Lniano
+    code: "0414052"
+  - slug: cekcyn
+    name: Cekcyn
+    code: "0416012"
+  touched_counties:
+  - slug: kutnowski
+    name: kutnowski
+    code: "1002"
+  - slug: gostyninski
+    name: gostyniński
+    code: "1404"
+  - slug: plocki
+    name: płocki
+    code: "1419"
+  - slug: plock
+    name: Płock
+    code: "1462"
+  - slug: sierpecki
+    name: sierpecki
+    code: "1427"
+  - slug: rypinski
+    name: rypiński
+    code: "0412"
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+  - slug: grudziadz
+    name: Grudziądz
+    code: "0462"
+  - slug: swiecki
+    name: świecki
+    code: "0414"
+  - slug: tucholski
+    name: tucholski
+    code: "0416"
+  touched_voivodeships:
+  - slug: lodzkie
+    name: ŁÓDZKIE
+    code: "10"
+  - slug: mazowieckie
+    name: MAZOWIECKIE
+    code: "14"
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: wysoczyzna_klodawska
+    name: Wysoczyzna Kłodawska
+    code: "318.15"
+  - slug: pojezierze_kujawskie
+    name: Pojezierze Kujawskie
+    code: "315.57"
+  - slug: kotlina_plocka
+    name: Kotlina Płocka
+    code: "315.36"
+  - slug: rownina_kutnowska
+    name: Równina Kutnowska
+    code: "318.71"
+  - slug: rownina_urszulewska
+    name: Równina Urszulewska
+    code: "315.16"
+  - slug: wysoczyzna_plonska
+    name: Wysoczyzna Płońska
+    code: "318.61"
+  - slug: pojezierze_dobrzynskie
+    name: Pojezierze Dobrzyńskie
+    code: "315.14"
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+  - slug: kotlina_grudziadzka
+    name: Kotlina Grudziądzka
+    code: "314.82"
+  - slug: wysoczyzna_swiecka
+    name: Wysoczyzna Świecka
+    code: "314.73"
+  - slug: bory_tucholskie
+    name: Bory Tucholskie
+    code: "314.71"
+  touched_macro_regions:
+  - slug: nizina_poludniowowielkopolska
+    name: Nizina Południowowielkopolska
+    code: "318"
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: nizina_srodkowomazowiecka
+    name: Nizina Środkowomazowiecka
+    code: "318"
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: nizina_polnocnomazowiecka
+    name: Nizina Północnomazowiecka
+    code: "318"
+  - slug: dolina_dolnej_wisly
+    name: Dolina Dolnej Wisły
+    code: 314-316
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

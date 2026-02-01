@@ -1,0 +1,192 @@
+---
+- type: bicycle
+  total_distance_meters: 59438.16
+  total_distance_km: 59.438
+  points_count: 432.0
+  towns:
+  - slug: dzierzoniow
+    name: Dzierżoniów
+    code: "0202052"
+    distance_meters: 12082.98
+    distance_km: 12.083
+    distance_percent: 20.3287
+  - slug: swidnica
+    name: Świdnica
+    code: 0219072
+    distance_meters: 9969.69
+    distance_km: 9.97
+    distance_percent: 16.7732
+  - slug: zabkowice_slaskie
+    name: Ząbkowice Śląskie
+    code: "0224053"
+    distance_meters: 9372.54
+    distance_km: 9.373
+    distance_percent: 15.7686
+  - slug: marcinowice
+    name: Marcinowice
+    code: 0219052
+    distance_meters: 7869.97
+    distance_km: 7.87
+    distance_percent: 13.2406
+  - slug: jaworzyna_slaska
+    name: Jaworzyna Śląska
+    code: 0219043
+    distance_meters: 5543.21
+    distance_km: 5.543
+    distance_percent: 9.326
+  - slug: niemcza
+    name: Niemcza
+    code: "0202073"
+    distance_meters: 5377.14
+    distance_km: 5.377
+    distance_percent: 9.0466
+  - slug: lagiewniki
+    name: Łagiewniki
+    code: "0202062"
+    distance_meters: 4723.19
+    distance_km: 4.723
+    distance_percent: 7.9464
+  - slug: pilawa_gorna
+    name: Piława Górna
+    code: "0202041"
+    distance_meters: 4499.44
+    distance_km: 4.499
+    distance_percent: 7.5699
+  counties:
+  - slug: dzierzoniowski
+    name: dzierżoniowski
+    code: "0202"
+    distance_meters: 26682.75
+    distance_km: 26.683
+    distance_percent: 44.8916
+  - slug: swidnicki
+    name: świdnicki
+    code: 0219
+    distance_meters: 23382.86
+    distance_km: 23.383
+    distance_percent: 39.3398
+  - slug: zabkowicki
+    name: ząbkowicki
+    code: "0224"
+    distance_meters: 9372.54
+    distance_km: 9.373
+    distance_percent: 15.7686
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 59438.16
+    distance_km: 59.438
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_swidnicka
+    name: Równina Świdnicka
+    code: "332.12"
+    distance_meters: 25843.12
+    distance_km: 25.843
+    distance_percent: 43.479
+  - slug: wzgorza_niemczanskostrzelinskie
+    name: Wzgórza Niemczańsko-Strzelińskie
+    code: "332.14"
+    distance_meters: 25337.21
+    distance_km: 25.337
+    distance_percent: 42.6279
+  - slug: masyw_slezy
+    name: Masyw Ślęży
+    code: "332.13"
+    distance_meters: 8257.83
+    distance_km: 8.258
+    distance_percent: 13.8931
+  macro_regions:
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+    distance_meters: 59438.16
+    distance_km: 59.438
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 59438.16
+    distance_km: 59.438
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 59438.16
+    distance_km: 59.438
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 59438.16
+    distance_km: 59.438
+    distance_percent: 100.0
+  touched_towns:
+  - slug: jaworzyna_slaska
+    name: Jaworzyna Śląska
+    code: 0219043
+  - slug: swidnica
+    name: Świdnica
+    code: 0219072
+  - slug: marcinowice
+    name: Marcinowice
+    code: 0219052
+  - slug: dzierzoniow
+    name: Dzierżoniów
+    code: "0202052"
+  - slug: lagiewniki
+    name: Łagiewniki
+    code: "0202062"
+  - slug: niemcza
+    name: Niemcza
+    code: "0202073"
+  - slug: pilawa_gorna
+    name: Piława Górna
+    code: "0202041"
+  - slug: zabkowice_slaskie
+    name: Ząbkowice Śląskie
+    code: "0224053"
+  touched_counties:
+  - slug: swidnicki
+    name: świdnicki
+    code: 0219
+  - slug: dzierzoniowski
+    name: dzierżoniowski
+    code: "0202"
+  - slug: zabkowicki
+    name: ząbkowicki
+    code: "0224"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: rownina_swidnicka
+    name: Równina Świdnicka
+    code: "332.12"
+  - slug: masyw_slezy
+    name: Masyw Ślęży
+    code: "332.13"
+  - slug: wzgorza_niemczanskostrzelinskie
+    name: Wzgórza Niemczańsko-Strzelińskie
+    code: "332.14"
+  touched_macro_regions:
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

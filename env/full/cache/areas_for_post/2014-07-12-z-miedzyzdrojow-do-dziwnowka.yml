@@ -1,0 +1,120 @@
+---
+- type: bicycle
+  total_distance_meters: 36523.09
+  total_distance_km: 36.523
+  points_count: 304.0
+  towns:
+  - slug: wolin
+    name: Wolin
+    code: "3207063"
+    distance_meters: 18083.17
+    distance_km: 18.083
+    distance_percent: 49.5116
+  - slug: dziwnow
+    name: Dziwnów
+    code: "3207013"
+    distance_meters: 12192.12
+    distance_km: 12.192
+    distance_percent: 33.382
+  - slug: miedzyzdroje
+    name: Międzyzdroje
+    code: "3207043"
+    distance_meters: 6247.8
+    distance_km: 6.248
+    distance_percent: 17.1064
+  counties:
+  - slug: kamienski
+    name: kamieński
+    code: "3207"
+    distance_meters: 36523.09
+    distance_km: 36.523
+    distance_percent: 100.0
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 36523.09
+    distance_km: 36.523
+    distance_percent: 100.0
+  meso_regions:
+  - slug: uznam_i_wolin
+    name: Uznam i Wolin
+    code: "313.21"
+    distance_meters: 24502.42
+    distance_km: 24.502
+    distance_percent: 67.0875
+  - slug: wybrzeze_trzebiatowskie
+    name: Wybrzeże Trzebiatowskie
+    code: "313.22"
+    distance_meters: 12020.68
+    distance_km: 12.021
+    distance_percent: 32.9125
+  macro_regions:
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+    distance_meters: 36523.09
+    distance_km: 36.523
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 36523.09
+    distance_km: 36.523
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 36523.09
+    distance_km: 36.523
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 36523.09
+    distance_km: 36.523
+    distance_percent: 100.0
+  touched_towns:
+  - slug: miedzyzdroje
+    name: Międzyzdroje
+    code: "3207043"
+  - slug: wolin
+    name: Wolin
+    code: "3207063"
+  - slug: dziwnow
+    name: Dziwnów
+    code: "3207013"
+  touched_counties:
+  - slug: kamienski
+    name: kamieński
+    code: "3207"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: uznam_i_wolin
+    name: Uznam i Wolin
+    code: "313.21"
+  - slug: wybrzeze_trzebiatowskie
+    name: Wybrzeże Trzebiatowskie
+    code: "313.22"
+  touched_macro_regions:
+  - slug: pobrzeze_szczecinskie
+    name: Pobrzeże Szczecińskie
+    code: "313"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

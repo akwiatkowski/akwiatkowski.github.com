@@ -1,0 +1,237 @@
+---
+- type: bicycle
+  total_distance_meters: 96934.56
+  total_distance_km: 96.935
+  points_count: 573.0
+  towns:
+  - slug: sztum
+    name: Sztum
+    code: "2216053"
+    distance_meters: 16561.94
+    distance_km: 16.562
+    distance_percent: 17.0857
+  - slug: lasin
+    name: Łasin
+    code: "0406033"
+    distance_meters: 15214.97
+    distance_km: 15.215
+    distance_percent: 15.6961
+  - slug: gardeja
+    name: Gardeja
+    code: "2207022"
+    distance_meters: 14906.5
+    distance_km: 14.906
+    distance_percent: 15.3779
+  - slug: swiecie_nad_osa
+    name: Świecie nad Osą
+    code: "0406062"
+    distance_meters: 12346.34
+    distance_km: 12.346
+    distance_percent: 12.7368
+  - slug: kwidzyn
+    name: Kwidzyn
+    code: "2207032"
+    distance_meters: 11426.37
+    distance_km: 11.426
+    distance_percent: 11.7877
+  - slug: ksiazki
+    name: Książki
+    code: "0417032"
+    distance_meters: 11070.65
+    distance_km: 11.071
+    distance_percent: 11.4207
+  - slug: ryjewo
+    name: Ryjewo
+    code: "2207052"
+    distance_meters: 9028.05
+    distance_km: 9.028
+    distance_percent: 9.3136
+  - slug: radzyn_chelminski
+    name: Radzyń Chełmiński
+    code: "0406043"
+    distance_meters: 6038.33
+    distance_km: 6.038
+    distance_percent: 6.2293
+  - slug: stary_targ
+    name: Stary Targ
+    code: "2216042"
+    distance_meters: 341.42
+    distance_km: 0.341
+    distance_percent: 0.3522
+  counties:
+  - slug: kwidzynski
+    name: kwidzyński
+    code: "2207"
+    distance_meters: 35360.92
+    distance_km: 35.361
+    distance_percent: 36.4792
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+    distance_meters: 33599.63
+    distance_km: 33.6
+    distance_percent: 34.6622
+  - slug: sztumski
+    name: sztumski
+    code: "2216"
+    distance_meters: 16903.36
+    distance_km: 16.903
+    distance_percent: 17.4379
+  - slug: wabrzeski
+    name: wąbrzeski
+    code: "0417"
+    distance_meters: 11070.65
+    distance_km: 11.071
+    distance_percent: 11.4207
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 52264.28
+    distance_km: 52.264
+    distance_percent: 53.9171
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 44670.29
+    distance_km: 44.67
+    distance_percent: 46.0829
+  meso_regions:
+  - slug: pojezierze_lasinskie
+    name: Pojezierze Łasińskie
+    code: "314.92"
+    distance_meters: 37500.0
+    distance_km: 37.5
+    distance_percent: 38.6859
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+    distance_meters: 29275.61
+    distance_km: 29.276
+    distance_percent: 30.2014
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+    distance_meters: 23400.58
+    distance_km: 23.401
+    distance_percent: 24.1406
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 6758.37
+    distance_km: 6.758
+    distance_percent: 6.9721
+  macro_regions:
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 66775.61
+    distance_km: 66.776
+    distance_percent: 68.8873
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 30158.95
+    distance_km: 30.159
+    distance_percent: 31.1127
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 96934.56
+    distance_km: 96.935
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 96934.56
+    distance_km: 96.935
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 96934.56
+    distance_km: 96.935
+    distance_percent: 100.0
+  touched_towns:
+  - slug: stary_targ
+    name: Stary Targ
+    code: "2216042"
+  - slug: sztum
+    name: Sztum
+    code: "2216053"
+  - slug: ryjewo
+    name: Ryjewo
+    code: "2207052"
+  - slug: kwidzyn
+    name: Kwidzyn
+    code: "2207032"
+  - slug: gardeja
+    name: Gardeja
+    code: "2207022"
+  - slug: lasin
+    name: Łasin
+    code: "0406033"
+  - slug: swiecie_nad_osa
+    name: Świecie nad Osą
+    code: "0406062"
+  - slug: radzyn_chelminski
+    name: Radzyń Chełmiński
+    code: "0406043"
+  - slug: ksiazki
+    name: Książki
+    code: "0417032"
+  touched_counties:
+  - slug: sztumski
+    name: sztumski
+    code: "2216"
+  - slug: kwidzynski
+    name: kwidzyński
+    code: "2207"
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+  - slug: wabrzeski
+    name: wąbrzeski
+    code: "0417"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+  - slug: pojezierze_lasinskie
+    name: Pojezierze Łasińskie
+    code: "314.92"
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: pojezierze_chelminskie
+    name: Pojezierze Chełmińskie
+    code: "315.11"
+  touched_macro_regions:
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

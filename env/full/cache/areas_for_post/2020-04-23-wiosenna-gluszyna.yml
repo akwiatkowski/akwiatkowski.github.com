@@ -1,0 +1,129 @@
+---
+- type: bicycle
+  total_distance_meters: 28085.17
+  total_distance_km: 28.085
+  points_count: 168.0
+  towns:
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+    distance_meters: 24702.99
+    distance_km: 24.703
+    distance_percent: 87.9574
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+    distance_meters: 3382.19
+    distance_km: 3.382
+    distance_percent: 12.0426
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 28085.17
+    distance_km: 28.085
+    distance_percent: 100.0
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+    distance_meters: 24702.99
+    distance_km: 24.703
+    distance_percent: 87.9574
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 28085.17
+    distance_km: 28.085
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 19291.24
+    distance_km: 19.291
+    distance_percent: 68.6884
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+    distance_meters: 7100.94
+    distance_km: 7.101
+    distance_percent: 25.2836
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 1692.99
+    distance_km: 1.693
+    distance_percent: 6.0281
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 28085.17
+    distance_km: 28.085
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 28085.17
+    distance_km: 28.085
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 28085.17
+    distance_km: 28.085
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 28085.17
+    distance_km: 28.085
+    distance_percent: 100.0
+  touched_towns:
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

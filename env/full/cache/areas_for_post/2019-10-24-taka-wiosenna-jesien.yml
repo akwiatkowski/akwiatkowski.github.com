@@ -1,0 +1,120 @@
+---
+- type: hike
+  total_distance_meters: 14116.47
+  total_distance_km: 14.116
+  points_count: 200.0
+  towns:
+  - slug: bystrzyca_klodzka
+    name: Bystrzyca Kłodzka
+    code: 0208063
+    distance_meters: 12014.61
+    distance_km: 12.015
+    distance_percent: 85.1106
+  - slug: miedzylesie
+    name: Międzylesie
+    code: 0208103
+    distance_meters: 2101.86
+    distance_km: 2.102
+    distance_percent: 14.8894
+  counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+    distance_meters: 14116.47
+    distance_km: 14.116
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 14116.47
+    distance_km: 14.116
+    distance_percent: 100.0
+  meso_regions:
+  - slug: row_gornej_nysy
+    name: Rów Górnej Nysy
+    code: "332.55"
+    distance_meters: 10847.45
+    distance_km: 10.847
+    distance_percent: 76.8425
+  - slug: masyw_snieznika
+    name: Masyw Śnieżnika
+    code: "332.62"
+    distance_meters: 3269.02
+    distance_km: 3.269
+    distance_percent: 23.1575
+  macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 10847.45
+    distance_km: 10.847
+    distance_percent: 76.8425
+  - slug: sudety_wschodnie
+    name: Sudety Wschodnie
+    code: "332"
+    distance_meters: 3269.02
+    distance_km: 3.269
+    distance_percent: 23.1575
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 14116.47
+    distance_km: 14.116
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 14116.47
+    distance_km: 14.116
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 14116.47
+    distance_km: 14.116
+    distance_percent: 100.0
+  touched_towns:
+  - slug: bystrzyca_klodzka
+    name: Bystrzyca Kłodzka
+    code: 0208063
+  - slug: miedzylesie
+    name: Międzylesie
+    code: 0208103
+  touched_counties:
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: row_gornej_nysy
+    name: Rów Górnej Nysy
+    code: "332.55"
+  - slug: masyw_snieznika
+    name: Masyw Śnieżnika
+    code: "332.62"
+  touched_macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  - slug: sudety_wschodnie
+    name: Sudety Wschodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

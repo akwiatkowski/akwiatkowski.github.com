@@ -1,0 +1,267 @@
+---
+- type: bicycle
+  total_distance_meters: 96562.89
+  total_distance_km: 96.563
+  points_count: 377.0
+  towns:
+  - slug: drezdenko
+    name: Drezdenko
+    code: 0806023
+    distance_meters: 28411.71
+    distance_km: 28.412
+    distance_percent: 29.423
+  - slug: miedzychod
+    name: Międzychód
+    code: "3014033"
+    distance_meters: 24282.4
+    distance_km: 24.282
+    distance_percent: 25.1467
+  - slug: pszczew
+    name: Pszczew
+    code: 0803042
+    distance_meters: 16155.93
+    distance_km: 16.156
+    distance_percent: 16.731
+  - slug: trzciel
+    name: Trzciel
+    code: 0803063
+    distance_meters: 13620.34
+    distance_km: 13.62
+    distance_percent: 14.1051
+  - slug: krzyz_wielkopolski
+    name: Krzyż Wielkopolski
+    code: "3002043"
+    distance_meters: 5057.19
+    distance_km: 5.057
+    distance_percent: 5.2372
+  - slug: miedzichowo
+    name: Miedzichowo
+    code: "3015032"
+    distance_meters: 4716.76
+    distance_km: 4.717
+    distance_percent: 4.8846
+  - slug: zbaszyn
+    name: Zbąszyń
+    code: "3015063"
+    distance_meters: 4079.58
+    distance_km: 4.08
+    distance_percent: 4.2248
+  - slug: zbaszynek
+    name: Zbąszynek
+    code: 0808063
+    distance_meters: 238.99
+    distance_km: 0.239
+    distance_percent: 0.2475
+  counties:
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+    distance_meters: 29776.27
+    distance_km: 29.776
+    distance_percent: 30.8361
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 28411.71
+    distance_km: 28.412
+    distance_percent: 29.423
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+    distance_meters: 24282.4
+    distance_km: 24.282
+    distance_percent: 25.1467
+  - slug: nowotomyski
+    name: nowotomyski
+    code: "3015"
+    distance_meters: 8796.34
+    distance_km: 8.796
+    distance_percent: 9.1094
+  - slug: czarnkowskotrzcianecki
+    name: czarnkowsko-trzcianecki
+    code: "3002"
+    distance_meters: 5057.19
+    distance_km: 5.057
+    distance_percent: 5.2372
+  - slug: swiebodzinski
+    name: świebodziński
+    code: 0808
+    distance_meters: 238.99
+    distance_km: 0.239
+    distance_percent: 0.2475
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 58426.96
+    distance_km: 58.427
+    distance_percent: 60.5066
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 38135.93
+    distance_km: 38.136
+    distance_percent: 39.4934
+  meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 42868.07
+    distance_km: 42.868
+    distance_percent: 44.3939
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+    distance_meters: 25374.27
+    distance_km: 25.374
+    distance_percent: 26.2775
+  - slug: rownina_nowotomyska
+    name: Równina Nowotomyska
+    code: "315.50"
+    distance_meters: 13539.05
+    distance_km: 13.539
+    distance_percent: 14.021
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 10461.11
+    distance_km: 10.461
+    distance_percent: 10.8335
+  - slug: rownina_drawska
+    name: Równina Drawska
+    code: "314.63"
+    distance_meters: 4320.39
+    distance_km: 4.32
+    distance_percent: 4.4742
+  macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 42868.07
+    distance_km: 42.868
+    distance_percent: 44.3939
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+    distance_meters: 25374.27
+    distance_km: 25.374
+    distance_percent: 26.2775
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 24000.16
+    distance_km: 24.0
+    distance_percent: 24.8544
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 4320.39
+    distance_km: 4.32
+    distance_percent: 4.4742
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 96562.89
+    distance_km: 96.563
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 96562.89
+    distance_km: 96.563
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 96562.89
+    distance_km: 96.563
+    distance_percent: 100.0
+  touched_towns:
+  - slug: zbaszyn
+    name: Zbąszyń
+    code: "3015063"
+  - slug: trzciel
+    name: Trzciel
+    code: 0803063
+  - slug: miedzichowo
+    name: Miedzichowo
+    code: "3015032"
+  - slug: pszczew
+    name: Pszczew
+    code: 0803042
+  - slug: miedzychod
+    name: Międzychód
+    code: "3014033"
+  - slug: drezdenko
+    name: Drezdenko
+    code: 0806023
+  - slug: krzyz_wielkopolski
+    name: Krzyż Wielkopolski
+    code: "3002043"
+  touched_counties:
+  - slug: nowotomyski
+    name: nowotomyski
+    code: "3015"
+  - slug: miedzyrzecki
+    name: międzyrzecki
+    code: 0803
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  - slug: czarnkowskotrzcianecki
+    name: czarnkowsko-trzcianecki
+    code: "3002"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: bruzda_zbaszynska
+    name: Bruzda Zbąszyńska
+    code: "315.44"
+  - slug: rownina_nowotomyska
+    name: Równina Nowotomyska
+    code: "315.50"
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  - slug: rownina_drawska
+    name: Równina Drawska
+    code: "314.63"
+  touched_macro_regions:
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

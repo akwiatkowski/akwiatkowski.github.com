@@ -1,0 +1,176 @@
+---
+- type: train
+  total_distance_meters: 109960.81
+  total_distance_km: 109.961
+  points_count: 333.0
+  towns: []
+  counties: []
+  voivodeships: []
+  meso_regions: []
+  macro_regions: []
+  mega_regions: []
+  subprovinces: []
+  provinces: []
+  touched_towns: []
+  touched_counties: []
+  touched_voivodeships: []
+  touched_meso_regions: []
+  touched_macro_regions: []
+  touched_mega_regions: []
+  touched_subprovinces: []
+  touched_provinces: []
+- type: train
+  total_distance_meters: 143689.46
+  total_distance_km: 143.689
+  points_count: 559.0
+  towns:
+  - slug: glucholazy
+    name: Głuchołazy
+    code: "1607013"
+    distance_meters: 10737.11
+    distance_km: 10.737
+    distance_percent: 7.4724
+  - slug: prudnik
+    name: Prudnik
+    code: "1610043"
+    distance_meters: 4293.76
+    distance_km: 4.294
+    distance_percent: 2.9882
+  counties:
+  - slug: nyski
+    name: nyski
+    code: "1607"
+    distance_meters: 10737.11
+    distance_km: 10.737
+    distance_percent: 7.4724
+  - slug: prudnicki
+    name: prudnicki
+    code: "1610"
+    distance_meters: 4293.76
+    distance_km: 4.294
+    distance_percent: 2.9882
+  voivodeships:
+  - slug: opolskie
+    name: OPOLSKIE
+    code: "16"
+    distance_meters: 15030.87
+    distance_km: 15.031
+    distance_percent: 10.4607
+  meso_regions:
+  - slug: przedgorze_paczkowskie
+    name: Przedgórze Paczkowskie
+    code: "332.17"
+    distance_meters: 7889.44
+    distance_km: 7.889
+    distance_percent: 5.4906
+  - slug: plaskowyz_glubczycki
+    name: Płaskowyż Głubczycki
+    code: "318.58"
+    distance_meters: 4956.3
+    distance_km: 4.956
+    distance_percent: 3.4493
+  - slug: gory_opawskie
+    name: Góry Opawskie
+    code: "332.63"
+    distance_meters: 2108.64
+    distance_km: 2.109
+    distance_percent: 1.4675
+  macro_regions:
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+    distance_meters: 7889.44
+    distance_km: 7.889
+    distance_percent: 5.4906
+  - slug: nizina_slaska
+    name: Nizina Śląska
+    code: "318"
+    distance_meters: 4956.3
+    distance_km: 4.956
+    distance_percent: 3.4493
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 14954.38
+    distance_km: 14.954
+    distance_percent: 10.4074
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 9998.08
+    distance_km: 9.998
+    distance_percent: 6.9581
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 4956.3
+    distance_km: 4.956
+    distance_percent: 3.4493
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 9998.08
+    distance_km: 9.998
+    distance_percent: 6.9581
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 4956.3
+    distance_km: 4.956
+    distance_percent: 3.4493
+  touched_towns:
+  - slug: glucholazy
+    name: Głuchołazy
+    code: "1607013"
+  - slug: prudnik
+    name: Prudnik
+    code: "1610043"
+  touched_counties:
+  - slug: nyski
+    name: nyski
+    code: "1607"
+  - slug: prudnicki
+    name: prudnicki
+    code: "1610"
+  touched_voivodeships:
+  - slug: opolskie
+    name: OPOLSKIE
+    code: "16"
+  touched_meso_regions:
+  - slug: gory_opawskie
+    name: Góry Opawskie
+    code: "332.63"
+  - slug: przedgorze_paczkowskie
+    name: Przedgórze Paczkowskie
+    code: "332.17"
+  - slug: plaskowyz_glubczycki
+    name: Płaskowyż Głubczycki
+    code: "318.58"
+  touched_macro_regions:
+  - slug: przedgorze_sudeckie
+    name: Przedgórze Sudeckie
+    code: "332"
+  - slug: nizina_slaska
+    name: Nizina Śląska
+    code: "318"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

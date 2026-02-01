@@ -1,0 +1,93 @@
+---
+- type: hike
+  total_distance_meters: 6403.24
+  total_distance_km: 6.403
+  points_count: 74.0
+  towns:
+  - slug: pielgrzymka
+    name: Pielgrzymka
+    code: "0226032"
+    distance_meters: 6403.24
+    distance_km: 6.403
+    distance_percent: 100.0
+  counties:
+  - slug: zlotoryjski
+    name: złotoryjski
+    code: "0226"
+    distance_meters: 6403.24
+    distance_km: 6.403
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 6403.24
+    distance_km: 6.403
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pogorze_kaczawskie
+    name: Pogórze Kaczawskie
+    code: "332.27"
+    distance_meters: 6403.24
+    distance_km: 6.403
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+    distance_meters: 6403.24
+    distance_km: 6.403
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 6403.24
+    distance_km: 6.403
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 6403.24
+    distance_km: 6.403
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 6403.24
+    distance_km: 6.403
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pielgrzymka
+    name: Pielgrzymka
+    code: "0226032"
+  touched_counties:
+  - slug: zlotoryjski
+    name: złotoryjski
+    code: "0226"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: pogorze_kaczawskie
+    name: Pogórze Kaczawskie
+    code: "332.27"
+  touched_macro_regions:
+  - slug: pogorze_zachodniosudeckie
+    name: Pogórze Zachodniosudeckie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

@@ -1,0 +1,546 @@
+---
+- type: train
+  total_distance_meters: 221181.05
+  total_distance_km: 221.181
+  points_count: 194.0
+  towns:
+  - slug: zielona_gora
+    name: Zielona Góra
+    code: 0862011
+    distance_meters: 19550.21
+    distance_km: 19.55
+    distance_percent: 8.839
+  - slug: bytnica
+    name: Bytnica
+    code: 0802032
+    distance_meters: 18753.61
+    distance_km: 18.754
+    distance_percent: 8.4789
+  - slug: czerwiensk
+    name: Czerwieńsk
+    code: 0809033
+    distance_meters: 17761.48
+    distance_km: 17.761
+    distance_percent: 8.0303
+  - slug: wolow
+    name: Wołów
+    code: "0222033"
+    distance_meters: 15810.36
+    distance_km: 15.81
+    distance_percent: 7.1482
+  - slug: wroclaw
+    name: Wrocław
+    code: "0264011"
+    distance_meters: 15313.18
+    distance_km: 15.313
+    distance_percent: 6.9234
+  - slug: glogow
+    name: Głogów
+    code: "0203011"
+    distance_meters: 13592.34
+    distance_km: 13.592
+    distance_percent: 6.1453
+  - slug: torzym
+    name: Torzym
+    code: 0807053
+    distance_meters: 13401.23
+    distance_km: 13.401
+    distance_percent: 6.0589
+  - slug: miekinia
+    name: Miękinia
+    code: 0218032
+    distance_meters: 12617.37
+    distance_km: 12.617
+    distance_percent: 5.7045
+  - slug: scinawa
+    name: Ścinawa
+    code: "0211043"
+    distance_meters: 12482.21
+    distance_km: 12.482
+    distance_percent: 5.6434
+  - slug: rudna
+    name: Rudna
+    code: "0211032"
+    distance_meters: 10677.7
+    distance_km: 10.678
+    distance_percent: 4.8276
+  - slug: grebocice
+    name: Grębocice
+    code: "0216032"
+    distance_meters: 10278.6
+    distance_km: 10.279
+    distance_percent: 4.6471
+  - slug: otyn
+    name: Otyń
+    code: 0804073
+    distance_meters: 9518.15
+    distance_km: 9.518
+    distance_percent: 4.3033
+  - slug: bytom_odrzanski
+    name: Bytom Odrzański
+    code: 0804023
+    distance_meters: 8618.2
+    distance_km: 8.618
+    distance_percent: 3.8964
+  - slug: zukowice
+    name: Żukowice
+    code: "0203062"
+    distance_meters: 7559.09
+    distance_km: 7.559
+    distance_percent: 3.4176
+  - slug: rzepin
+    name: Rzepin
+    code: 0805043
+    distance_meters: 6753.41
+    distance_km: 6.753
+    distance_percent: 3.0533
+  - slug: brzeg_dolny
+    name: Brzeg Dolny
+    code: "0222013"
+    distance_meters: 6628.0
+    distance_km: 6.628
+    distance_percent: 2.9966
+  - slug: nowa_sol
+    name: Nowa Sól
+    code: 0804011
+    distance_meters: 5971.97
+    distance_km: 5.972
+    distance_percent: 2.7
+  - slug: winsko
+    name: Wińsko
+    code: "0222022"
+    distance_meters: 5352.71
+    distance_km: 5.353
+    distance_percent: 2.4201
+  - slug: krosno_odrzanskie
+    name: Krosno Odrzańskie
+    code: 0802063
+    distance_meters: 4781.68
+    distance_km: 4.782
+    distance_percent: 2.1619
+  - slug: nowa_sol
+    name: Nowa Sól
+    code: 0804052
+    distance_meters: 2889.88
+    distance_km: 2.89
+    distance_percent: 1.3066
+  - slug: glogow
+    name: Głogów
+    code: "0203022"
+    distance_meters: 2869.68
+    distance_km: 2.87
+    distance_percent: 1.2974
+  counties:
+  - slug: wolowski
+    name: wołowski
+    code: "0222"
+    distance_meters: 27791.07
+    distance_km: 27.791
+    distance_percent: 12.5649
+  - slug: nowosolski
+    name: nowosolski
+    code: 0804
+    distance_meters: 26998.19
+    distance_km: 26.998
+    distance_percent: 12.2064
+  - slug: glogowski
+    name: głogowski
+    code: "0203"
+    distance_meters: 24021.11
+    distance_km: 24.021
+    distance_percent: 10.8604
+  - slug: krosnienski
+    name: krośnieński
+    code: 0802
+    distance_meters: 23535.29
+    distance_km: 23.535
+    distance_percent: 10.6407
+  - slug: lubinski
+    name: lubiński
+    code: "0211"
+    distance_meters: 23159.92
+    distance_km: 23.16
+    distance_percent: 10.471
+  - slug: zielona_gora
+    name: Zielona Góra
+    code: 0862
+    distance_meters: 19550.21
+    distance_km: 19.55
+    distance_percent: 8.839
+  - slug: zielonogorski
+    name: zielonogórski
+    code: 0809
+    distance_meters: 17761.48
+    distance_km: 17.761
+    distance_percent: 8.0303
+  - slug: wroclaw
+    name: Wrocław
+    code: "0264"
+    distance_meters: 15313.18
+    distance_km: 15.313
+    distance_percent: 6.9234
+  - slug: sulecinski
+    name: sulęciński
+    code: 0807
+    distance_meters: 13401.23
+    distance_km: 13.401
+    distance_percent: 6.0589
+  - slug: sredzki
+    name: średzki
+    code: 0218
+    distance_meters: 12617.37
+    distance_km: 12.617
+    distance_percent: 5.7045
+  - slug: polkowicki
+    name: polkowicki
+    code: "0216"
+    distance_meters: 10278.6
+    distance_km: 10.279
+    distance_percent: 4.6471
+  - slug: slubicki
+    name: słubicki
+    code: 0805
+    distance_meters: 6753.41
+    distance_km: 6.753
+    distance_percent: 3.0533
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 113181.25
+    distance_km: 113.181
+    distance_percent: 51.1713
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 107999.8
+    distance_km: 108.0
+    distance_percent: 48.8287
+  meso_regions:
+  - slug: wzgorza_dalkowskie
+    name: Wzgórza Dalkowskie
+    code: "318.42"
+    distance_meters: 40482.39
+    distance_km: 40.482
+    distance_percent: 18.3028
+  - slug: rownina_torzymska
+    name: Równina Torzymska
+    code: "315.43"
+    distance_meters: 40311.34
+    distance_km: 40.311
+    distance_percent: 18.2255
+  - slug: pradolina_glogowska
+    name: Pradolina Głogowska
+    code: "318.32"
+    distance_meters: 21593.49
+    distance_km: 21.593
+    distance_percent: 9.7628
+  - slug: obnizenie_scinawskie
+    name: Obniżenie Ścinawskie
+    code: "318.43"
+    distance_meters: 18641.84
+    distance_km: 18.642
+    distance_percent: 8.4283
+  - slug: rownina_wroclawska
+    name: Równina Wrocławska
+    code: "318.53"
+    distance_meters: 18551.58
+    distance_km: 18.552
+    distance_percent: 8.3875
+  - slug: wysoczyzna_roscislawska
+    name: Wysoczyzna Rościsławska
+    code: "318.51"
+    distance_meters: 18067.83
+    distance_km: 18.068
+    distance_percent: 8.1688
+  - slug: dolina_srodkowej_odry
+    name: Dolina Środkowej Odry
+    code: "315.61"
+    distance_meters: 17675.89
+    distance_km: 17.676
+    distance_percent: 7.9916
+  - slug: wal_zielonogorski
+    name: Wał Zielonogórski
+    code: "315.74"
+    distance_meters: 11928.64
+    distance_km: 11.929
+    distance_percent: 5.3932
+  - slug: obnizenie_nowosolskie
+    name: Obniżenie Nowosolskie
+    code: "318.31"
+    distance_meters: 11536.89
+    distance_km: 11.537
+    distance_percent: 5.216
+  - slug: pradolina_wroclawska
+    name: Pradolina Wrocławska
+    code: "318.52"
+    distance_meters: 10007.29
+    distance_km: 10.007
+    distance_percent: 4.5245
+  - slug: wysoczyzna_czerwienska
+    name: Wysoczyzna Czerwieńska
+    code: "315.73"
+    distance_meters: 9375.04
+    distance_km: 9.375
+    distance_percent: 4.2386
+  - slug: wysoczyzna_lubinska
+    name: Wysoczyzna Lubińska
+    code: "317.76"
+    distance_meters: 3008.83
+    distance_km: 3.009
+    distance_percent: 1.3603
+  macro_regions:
+  - slug: wal_trzebnicki
+    name: Wał Trzebnicki
+    code: "318"
+    distance_meters: 59124.24
+    distance_km: 59.124
+    distance_percent: 26.7311
+  - slug: nizina_slaska
+    name: Nizina Śląska
+    code: "318"
+    distance_meters: 46626.7
+    distance_km: 46.627
+    distance_percent: 21.0808
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+    distance_meters: 40311.34
+    distance_km: 40.311
+    distance_percent: 18.2255
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+    distance_meters: 33130.38
+    distance_km: 33.13
+    distance_percent: 14.9788
+  - slug: wzniesienia_zielonogorskie
+    name: Wzniesienia Zielonogórskie
+    code: 314-316
+    distance_meters: 21303.68
+    distance_km: 21.304
+    distance_percent: 9.6318
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+    distance_meters: 17675.89
+    distance_km: 17.676
+    distance_percent: 7.9916
+  - slug: nizina_slaskoluzycka
+    name: Nizina Śląsko-Łużycka
+    code: "317"
+    distance_meters: 3008.83
+    distance_km: 3.009
+    distance_percent: 1.3603
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 221181.05
+    distance_km: 221.181
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 138881.32
+    distance_km: 138.881
+    distance_percent: 62.7908
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 79290.91
+    distance_km: 79.291
+    distance_percent: 35.8489
+  - slug: niziny_saskoluzyckie
+    name: Niziny Sasko-Łużyckie
+    code: "31"
+    distance_meters: 3008.83
+    distance_km: 3.009
+    distance_percent: 1.3603
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 221181.05
+    distance_km: 221.181
+    distance_percent: 100.0
+  touched_towns:
+  - slug: wroclaw
+    name: Wrocław
+    code: "0264011"
+  - slug: miekinia
+    name: Miękinia
+    code: 0218032
+  - slug: brzeg_dolny
+    name: Brzeg Dolny
+    code: "0222013"
+  - slug: wolow
+    name: Wołów
+    code: "0222033"
+  - slug: winsko
+    name: Wińsko
+    code: "0222022"
+  - slug: scinawa
+    name: Ścinawa
+    code: "0211043"
+  - slug: rudna
+    name: Rudna
+    code: "0211032"
+  - slug: grebocice
+    name: Grębocice
+    code: "0216032"
+  - slug: glogow
+    name: Głogów
+    code: "0203022"
+  - slug: zukowice
+    name: Żukowice
+    code: "0203062"
+  - slug: bytom_odrzanski
+    name: Bytom Odrzański
+    code: 0804023
+  - slug: nowa_sol
+    name: Nowa Sól
+    code: 0804011
+  - slug: otyn
+    name: Otyń
+    code: 0804073
+  - slug: zielona_gora
+    name: Zielona Góra
+    code: 0862011
+  - slug: czerwiensk
+    name: Czerwieńsk
+    code: 0809033
+  - slug: bytnica
+    name: Bytnica
+    code: 0802032
+  - slug: krosno_odrzanskie
+    name: Krosno Odrzańskie
+    code: 0802063
+  - slug: torzym
+    name: Torzym
+    code: 0807053
+  - slug: rzepin
+    name: Rzepin
+    code: 0805043
+  touched_counties:
+  - slug: wroclaw
+    name: Wrocław
+    code: "0264"
+  - slug: sredzki
+    name: średzki
+    code: 0218
+  - slug: wolowski
+    name: wołowski
+    code: "0222"
+  - slug: lubinski
+    name: lubiński
+    code: "0211"
+  - slug: polkowicki
+    name: polkowicki
+    code: "0216"
+  - slug: glogowski
+    name: głogowski
+    code: "0203"
+  - slug: nowosolski
+    name: nowosolski
+    code: 0804
+  - slug: zielona_gora
+    name: Zielona Góra
+    code: 0862
+  - slug: zielonogorski
+    name: zielonogórski
+    code: 0809
+  - slug: krosnienski
+    name: krośnieński
+    code: 0802
+  - slug: sulecinski
+    name: sulęciński
+    code: 0807
+  - slug: slubicki
+    name: słubicki
+    code: 0805
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: rownina_wroclawska
+    name: Równina Wrocławska
+    code: "318.53"
+  - slug: pradolina_wroclawska
+    name: Pradolina Wrocławska
+    code: "318.52"
+  - slug: wysoczyzna_roscislawska
+    name: Wysoczyzna Rościsławska
+    code: "318.51"
+  - slug: obnizenie_scinawskie
+    name: Obniżenie Ścinawskie
+    code: "318.43"
+  - slug: wysoczyzna_lubinska
+    name: Wysoczyzna Lubińska
+    code: "317.76"
+  - slug: wzgorza_dalkowskie
+    name: Wzgórza Dalkowskie
+    code: "318.42"
+  - slug: pradolina_glogowska
+    name: Pradolina Głogowska
+    code: "318.32"
+  - slug: obnizenie_nowosolskie
+    name: Obniżenie Nowosolskie
+    code: "318.31"
+  - slug: wal_zielonogorski
+    name: Wał Zielonogórski
+    code: "315.74"
+  - slug: wysoczyzna_czerwienska
+    name: Wysoczyzna Czerwieńska
+    code: "315.73"
+  - slug: dolina_srodkowej_odry
+    name: Dolina Środkowej Odry
+    code: "315.61"
+  - slug: rownina_torzymska
+    name: Równina Torzymska
+    code: "315.43"
+  touched_macro_regions:
+  - slug: nizina_slaska
+    name: Nizina Śląska
+    code: "318"
+  - slug: wal_trzebnicki
+    name: Wał Trzebnicki
+    code: "318"
+  - slug: nizina_slaskoluzycka
+    name: Nizina Śląsko-Łużycka
+    code: "317"
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+  - slug: wzniesienia_zielonogorskie
+    name: Wzniesienia Zielonogórskie
+    code: 314-316
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+  - slug: pojezierze_lubuskie_brandenburskolubuskie
+    name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: niziny_saskoluzyckie
+    name: Niziny Sasko-Łużyckie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

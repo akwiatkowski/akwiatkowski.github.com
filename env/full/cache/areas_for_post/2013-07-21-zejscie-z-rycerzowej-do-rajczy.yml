@@ -1,0 +1,120 @@
+---
+- type: hike
+  total_distance_meters: 13627.72
+  total_distance_km: 13.628
+  points_count: 192.0
+  towns:
+  - slug: rajcza
+    name: Rajcza
+    code: "2417112"
+    distance_meters: 9327.21
+    distance_km: 9.327
+    distance_percent: 68.443
+  - slug: ujsoly
+    name: Ujsoły
+    code: "2417142"
+    distance_meters: 4300.51
+    distance_km: 4.301
+    distance_percent: 31.557
+  counties:
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+    distance_meters: 13627.72
+    distance_km: 13.628
+    distance_percent: 100.0
+  voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+    distance_meters: 13627.72
+    distance_km: 13.628
+    distance_percent: 100.0
+  meso_regions:
+  - slug: beskid_zywieckokysucki
+    name: Beskid Żywiecko-Kysucki
+    code: "513.56"
+    distance_meters: 11357.14
+    distance_km: 11.357
+    distance_percent: 83.3385
+  - slug: beskid_zywieckoorawski
+    name: Beskid Żywiecko-Orawski
+    code: "513.51"
+    distance_meters: 1617.35
+    distance_km: 1.617
+    distance_percent: 11.8681
+  - slug: miedzygorze_jablonkowskokoniakowskie
+    name: Międzygórze Jabłonkowsko-Koniakowskie
+    code: "513.55"
+    distance_meters: 653.22
+    distance_km: 0.653
+    distance_percent: 4.7933
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 13627.72
+    distance_km: 13.628
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 13627.72
+    distance_km: 13.628
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 13627.72
+    distance_km: 13.628
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 13627.72
+    distance_km: 13.628
+    distance_percent: 100.0
+  touched_towns:
+  - slug: ujsoly
+    name: Ujsoły
+    code: "2417142"
+  - slug: rajcza
+    name: Rajcza
+    code: "2417112"
+  touched_counties:
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+  touched_voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+  touched_meso_regions:
+  - slug: beskid_zywieckokysucki
+    name: Beskid Żywiecko-Kysucki
+    code: "513.56"
+  - slug: beskid_zywieckoorawski
+    name: Beskid Żywiecko-Orawski
+    code: "513.51"
+  - slug: miedzygorze_jablonkowskokoniakowskie
+    name: Międzygórze Jabłonkowsko-Koniakowskie
+    code: "513.55"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

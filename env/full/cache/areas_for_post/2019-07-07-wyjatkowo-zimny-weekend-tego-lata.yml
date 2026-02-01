@@ -1,0 +1,201 @@
+---
+- type: bicycle
+  total_distance_meters: 59472.86
+  total_distance_km: 59.473
+  points_count: 230.0
+  towns:
+  - slug: srem
+    name: Śrem
+    code: "3026043"
+    distance_meters: 21516.04
+    distance_km: 21.516
+    distance_percent: 36.1779
+  - slug: koscian
+    name: Kościan
+    code: "3011032"
+    distance_meters: 10486.26
+    distance_km: 10.486
+    distance_percent: 17.632
+  - slug: zaniemysl
+    name: Zaniemyśl
+    code: "3025052"
+    distance_meters: 10162.79
+    distance_km: 10.163
+    distance_percent: 17.0881
+  - slug: sroda_wielkopolska
+    name: Środa Wielkopolska
+    code: "3025043"
+    distance_meters: 6589.79
+    distance_km: 6.59
+    distance_percent: 11.0803
+  - slug: czempin
+    name: Czempiń
+    code: "3011023"
+    distance_meters: 5783.5
+    distance_km: 5.784
+    distance_percent: 9.7246
+  - slug: krzywin
+    name: Krzywiń
+    code: "3011043"
+    distance_meters: 4934.49
+    distance_km: 4.934
+    distance_percent: 8.297
+  counties:
+  - slug: sremski
+    name: śremski
+    code: "3026"
+    distance_meters: 21516.04
+    distance_km: 21.516
+    distance_percent: 36.1779
+  - slug: koscianski
+    name: kościański
+    code: "3011"
+    distance_meters: 21204.25
+    distance_km: 21.204
+    distance_percent: 35.6537
+  - slug: sredzki
+    name: średzki
+    code: "3025"
+    distance_meters: 16752.57
+    distance_km: 16.753
+    distance_percent: 28.1684
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 59472.86
+    distance_km: 59.473
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+    distance_meters: 23338.13
+    distance_km: 23.338
+    distance_percent: 39.2416
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+    distance_meters: 19432.22
+    distance_km: 19.432
+    distance_percent: 32.6741
+  - slug: rownina_koscianska
+    name: Równina Kościańska
+    code: "315.83"
+    distance_meters: 8496.09
+    distance_km: 8.496
+    distance_percent: 14.2857
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+    distance_meters: 8206.42
+    distance_km: 8.206
+    distance_percent: 13.7986
+  macro_regions:
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+    distance_meters: 31834.22
+    distance_km: 31.834
+    distance_percent: 53.5273
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 19432.22
+    distance_km: 19.432
+    distance_percent: 32.6741
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+    distance_meters: 8206.42
+    distance_km: 8.206
+    distance_percent: 13.7986
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 59472.86
+    distance_km: 59.473
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 59472.86
+    distance_km: 59.473
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 59472.86
+    distance_km: 59.473
+    distance_percent: 100.0
+  touched_towns:
+  - slug: koscian
+    name: Kościan
+    code: "3011032"
+  - slug: czempin
+    name: Czempiń
+    code: "3011023"
+  - slug: krzywin
+    name: Krzywiń
+    code: "3011043"
+  - slug: srem
+    name: Śrem
+    code: "3026043"
+  - slug: zaniemysl
+    name: Zaniemyśl
+    code: "3025052"
+  - slug: sroda_wielkopolska
+    name: Środa Wielkopolska
+    code: "3025043"
+  touched_counties:
+  - slug: koscianski
+    name: kościański
+    code: "3011"
+  - slug: sremski
+    name: śremski
+    code: "3026"
+  - slug: sredzki
+    name: średzki
+    code: "3025"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: rownina_koscianska
+    name: Równina Kościańska
+    code: "315.83"
+  - slug: pojezierze_krzywinskie
+    name: Pojezierze Krzywińskie
+    code: "315.82"
+  - slug: kotlina_sremska
+    name: Kotlina Śremska
+    code: "315.64"
+  - slug: rownina_wrzesinska
+    name: Równina Wrzesińska
+    code: "315.56"
+  touched_macro_regions:
+  - slug: pojezierze_leszczynskie
+    name: Pojezierze Leszczyńskie
+    code: 314-316
+  - slug: pradolina_warcianskoodrzanska
+    name: Pradolina Warciańsko-Odrzańska
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

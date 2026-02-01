@@ -1,0 +1,129 @@
+---
+- type: bicycle
+  total_distance_meters: 45358.74
+  total_distance_km: 45.359
+  points_count: 265.0
+  towns:
+  - slug: barwice
+    name: Barwice
+    code: "3215023"
+    distance_meters: 18190.04
+    distance_km: 18.19
+    distance_percent: 40.1026
+  - slug: polczynzdroj
+    name: Połczyn-Zdrój
+    code: "3216033"
+    distance_meters: 15937.74
+    distance_km: 15.938
+    distance_percent: 35.1371
+  - slug: rabino
+    name: Rąbino
+    code: "3216042"
+    distance_meters: 11230.95
+    distance_km: 11.231
+    distance_percent: 24.7603
+  counties:
+  - slug: swidwinski
+    name: świdwiński
+    code: "3216"
+    distance_meters: 27168.69
+    distance_km: 27.169
+    distance_percent: 59.8974
+  - slug: szczecinecki
+    name: szczecinecki
+    code: "3215"
+    distance_meters: 18190.04
+    distance_km: 18.19
+    distance_percent: 40.1026
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 45358.74
+    distance_km: 45.359
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+    distance_meters: 25900.46
+    distance_km: 25.9
+    distance_percent: 57.1014
+  - slug: wysoczyzna_lobeska
+    name: Wysoczyzna Łobeska
+    code: "314.44"
+    distance_meters: 19458.28
+    distance_km: 19.458
+    distance_percent: 42.8986
+  macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 45358.74
+    distance_km: 45.359
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 45358.74
+    distance_km: 45.359
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 45358.74
+    distance_km: 45.359
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 45358.74
+    distance_km: 45.359
+    distance_percent: 100.0
+  touched_towns:
+  - slug: barwice
+    name: Barwice
+    code: "3215023"
+  - slug: polczynzdroj
+    name: Połczyn-Zdrój
+    code: "3216033"
+  - slug: rabino
+    name: Rąbino
+    code: "3216042"
+  touched_counties:
+  - slug: szczecinecki
+    name: szczecinecki
+    code: "3215"
+  - slug: swidwinski
+    name: świdwiński
+    code: "3216"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+  - slug: wysoczyzna_lobeska
+    name: Wysoczyzna Łobeska
+    code: "314.44"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

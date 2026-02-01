@@ -1,0 +1,167 @@
+---
+- type: hike
+  total_distance_meters: 4054.9
+  total_distance_km: 4.055
+  points_count: 69.0
+  towns:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262011"
+    distance_meters: 4054.9
+    distance_km: 4.055
+    distance_percent: 100.0
+  counties:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262"
+    distance_meters: 4054.9
+    distance_km: 4.055
+    distance_percent: 100.0
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 4054.9
+    distance_km: 4.055
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pobrzeze_kaszubskie
+    name: Pobrzeże Kaszubskie
+    code: "313.51"
+    distance_meters: 4054.9
+    distance_km: 4.055
+    distance_percent: 100.0
+  macro_regions: []
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 4054.9
+    distance_km: 4.055
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 4054.9
+    distance_km: 4.055
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 4054.9
+    distance_km: 4.055
+    distance_percent: 100.0
+  touched_towns:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262011"
+  touched_counties:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: pobrzeze_kaszubskie
+    name: Pobrzeże Kaszubskie
+    code: "313.51"
+  touched_macro_regions: []
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: hike
+  total_distance_meters: 2486.84
+  total_distance_km: 2.487
+  points_count: 44.0
+  towns:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262011"
+    distance_meters: 2378.82
+    distance_km: 2.379
+    distance_percent: 95.6565
+  counties:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262"
+    distance_meters: 2378.82
+    distance_km: 2.379
+    distance_percent: 95.6565
+  voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+    distance_meters: 2378.82
+    distance_km: 2.379
+    distance_percent: 95.6565
+  meso_regions:
+  - slug: pobrzeze_kaszubskie
+    name: Pobrzeże Kaszubskie
+    code: "313.51"
+    distance_meters: 2111.06
+    distance_km: 2.111
+    distance_percent: 84.8891
+  macro_regions: []
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 2111.06
+    distance_km: 2.111
+    distance_percent: 84.8891
+  subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+    distance_meters: 2111.06
+    distance_km: 2.111
+    distance_percent: 84.8891
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 2111.06
+    distance_km: 2.111
+    distance_percent: 84.8891
+  touched_towns:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262011"
+  touched_counties:
+  - slug: gdynia
+    name: Gdynia
+    code: "2262"
+  touched_voivodeships:
+  - slug: pomorskie
+    name: POMORSKIE
+    code: "22"
+  touched_meso_regions:
+  - slug: pobrzeze_kaszubskie
+    name: Pobrzeże Kaszubskie
+    code: "313.51"
+  touched_macro_regions: []
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pobrzeza_poludniowobaltyckie
+    name: Pobrzeża Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

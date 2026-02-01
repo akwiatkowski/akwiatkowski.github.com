@@ -1,0 +1,102 @@
+---
+- type: hike
+  total_distance_meters: 7306.62
+  total_distance_km: 7.307
+  points_count: 57.0
+  towns:
+  - slug: zawoja
+    name: Zawoja
+    code: "1215082"
+    distance_meters: 3859.69
+    distance_km: 3.86
+    distance_percent: 52.8245
+  - slug: stryszawa
+    name: Stryszawa
+    code: "1215072"
+    distance_meters: 3446.93
+    distance_km: 3.447
+    distance_percent: 47.1755
+  counties:
+  - slug: suski
+    name: suski
+    code: "1215"
+    distance_meters: 7306.62
+    distance_km: 7.307
+    distance_percent: 100.0
+  voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+    distance_meters: 7306.62
+    distance_km: 7.307
+    distance_percent: 100.0
+  meso_regions:
+  - slug: beskid_zywieckoorawski
+    name: Beskid Żywiecko-Orawski
+    code: "513.51"
+    distance_meters: 7306.62
+    distance_km: 7.307
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 7306.62
+    distance_km: 7.307
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 7306.62
+    distance_km: 7.307
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 7306.62
+    distance_km: 7.307
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 7306.62
+    distance_km: 7.307
+    distance_percent: 100.0
+  touched_towns:
+  - slug: stryszawa
+    name: Stryszawa
+    code: "1215072"
+  - slug: zawoja
+    name: Zawoja
+    code: "1215082"
+  touched_counties:
+  - slug: suski
+    name: suski
+    code: "1215"
+  touched_voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+  touched_meso_regions:
+  - slug: beskid_zywieckoorawski
+    name: Beskid Żywiecko-Orawski
+    code: "513.51"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

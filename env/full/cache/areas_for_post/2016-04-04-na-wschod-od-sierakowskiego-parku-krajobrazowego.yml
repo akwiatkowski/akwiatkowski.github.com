@@ -1,0 +1,156 @@
+---
+- type: bicycle
+  total_distance_meters: 56472.22
+  total_distance_km: 56.472
+  points_count: 221.0
+  towns:
+  - slug: wronki
+    name: Wronki
+    code: "3024083"
+    distance_meters: 17044.52
+    distance_km: 17.045
+    distance_percent: 30.1821
+  - slug: chrzypsko_wielkie
+    name: Chrzypsko Wielkie
+    code: "3014012"
+    distance_meters: 12443.11
+    distance_km: 12.443
+    distance_percent: 22.034
+  - slug: ostrorog
+    name: Ostroróg
+    code: "3024053"
+    distance_meters: 11184.07
+    distance_km: 11.184
+    distance_percent: 19.8046
+  - slug: pniewy
+    name: Pniewy
+    code: "3024063"
+    distance_meters: 9635.61
+    distance_km: 9.636
+    distance_percent: 17.0626
+  - slug: szamotuly
+    name: Szamotuły
+    code: "3024073"
+    distance_meters: 6164.91
+    distance_km: 6.165
+    distance_percent: 10.9167
+  counties:
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+    distance_meters: 44029.12
+    distance_km: 44.029
+    distance_percent: 77.966
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+    distance_meters: 12443.11
+    distance_km: 12.443
+    distance_percent: 22.034
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 56472.22
+    distance_km: 56.472
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 46408.43
+    distance_km: 46.408
+    distance_percent: 82.1792
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 10063.8
+    distance_km: 10.064
+    distance_percent: 17.8208
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 46408.43
+    distance_km: 46.408
+    distance_percent: 82.1792
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 10063.8
+    distance_km: 10.064
+    distance_percent: 17.8208
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 56472.22
+    distance_km: 56.472
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 56472.22
+    distance_km: 56.472
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 56472.22
+    distance_km: 56.472
+    distance_percent: 100.0
+  touched_towns:
+  - slug: wronki
+    name: Wronki
+    code: "3024083"
+  - slug: chrzypsko_wielkie
+    name: Chrzypsko Wielkie
+    code: "3014012"
+  - slug: pniewy
+    name: Pniewy
+    code: "3024063"
+  - slug: ostrorog
+    name: Ostroróg
+    code: "3024053"
+  - slug: szamotuly
+    name: Szamotuły
+    code: "3024073"
+  touched_counties:
+  - slug: szamotulski
+    name: szamotulski
+    code: "3024"
+  - slug: miedzychodzki
+    name: międzychodzki
+    code: "3014"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  touched_macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

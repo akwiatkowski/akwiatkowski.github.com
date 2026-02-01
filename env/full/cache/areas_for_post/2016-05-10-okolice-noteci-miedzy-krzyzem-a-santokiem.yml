@@ -1,0 +1,201 @@
+---
+- type: bicycle
+  total_distance_meters: 63113.66
+  total_distance_km: 63.114
+  points_count: 223.0
+  towns:
+  - slug: drezdenko
+    name: Drezdenko
+    code: 0806023
+    distance_meters: 19304.0
+    distance_km: 19.304
+    distance_percent: 30.5861
+  - slug: stare_kurowo
+    name: Stare Kurowo
+    code: 0806032
+    distance_meters: 13081.16
+    distance_km: 13.081
+    distance_percent: 20.7263
+  - slug: zwierzyn
+    name: Zwierzyn
+    code: 0806052
+    distance_meters: 12358.62
+    distance_km: 12.359
+    distance_percent: 19.5815
+  - slug: santok
+    name: Santok
+    code: 0801062
+    distance_meters: 10651.39
+    distance_km: 10.651
+    distance_percent: 16.8765
+  - slug: strzelce_krajenskie
+    name: Strzelce Krajeńskie
+    code: 0806043
+    distance_meters: 4016.62
+    distance_km: 4.017
+    distance_percent: 6.3641
+  - slug: krzyz_wielkopolski
+    name: Krzyż Wielkopolski
+    code: "3002043"
+    distance_meters: 3701.86
+    distance_km: 3.702
+    distance_percent: 5.8654
+  counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 48760.41
+    distance_km: 48.76
+    distance_percent: 77.2581
+  - slug: gorzowski
+    name: gorzowski
+    code: 0801
+    distance_meters: 10651.39
+    distance_km: 10.651
+    distance_percent: 16.8765
+  - slug: czarnkowskotrzcianecki
+    name: czarnkowsko-trzcianecki
+    code: "3002"
+    distance_meters: 3701.86
+    distance_km: 3.702
+    distance_percent: 5.8654
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 59411.8
+    distance_km: 59.412
+    distance_percent: 94.1346
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 3701.86
+    distance_km: 3.702
+    distance_percent: 5.8654
+  meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 49840.94
+    distance_km: 49.841
+    distance_percent: 78.9701
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+    distance_meters: 5685.57
+    distance_km: 5.686
+    distance_percent: 9.0085
+  - slug: rownina_drawska
+    name: Równina Drawska
+    code: "314.63"
+    distance_meters: 4184.2
+    distance_km: 4.184
+    distance_percent: 6.6296
+  - slug: rownina_gorzowska
+    name: Równina Gorzowska
+    code: "314.61"
+    distance_meters: 3402.95
+    distance_km: 3.403
+    distance_percent: 5.3918
+  macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 49840.94
+    distance_km: 49.841
+    distance_percent: 78.9701
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 13272.72
+    distance_km: 13.273
+    distance_percent: 21.0299
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 63113.66
+    distance_km: 63.114
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 63113.66
+    distance_km: 63.114
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 63113.66
+    distance_km: 63.114
+    distance_percent: 100.0
+  touched_towns:
+  - slug: krzyz_wielkopolski
+    name: Krzyż Wielkopolski
+    code: "3002043"
+  - slug: drezdenko
+    name: Drezdenko
+    code: 0806023
+  - slug: stare_kurowo
+    name: Stare Kurowo
+    code: 0806032
+  - slug: strzelce_krajenskie
+    name: Strzelce Krajeńskie
+    code: 0806043
+  - slug: zwierzyn
+    name: Zwierzyn
+    code: 0806052
+  - slug: santok
+    name: Santok
+    code: 0801062
+  touched_counties:
+  - slug: czarnkowskotrzcianecki
+    name: czarnkowsko-trzcianecki
+    code: "3002"
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  - slug: gorzowski
+    name: gorzowski
+    code: 0801
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  - slug: rownina_drawska
+    name: Równina Drawska
+    code: "314.63"
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+  - slug: rownina_gorzowska
+    name: Równina Gorzowska
+    code: "314.61"
+  touched_macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

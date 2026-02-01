@@ -1,0 +1,102 @@
+---
+- type: bicycle
+  total_distance_meters: 32971.61
+  total_distance_km: 32.972
+  points_count: 382.0
+  towns:
+  - slug: krempna
+    name: Krempna
+    code: "1805062"
+    distance_meters: 17815.76
+    distance_km: 17.816
+    distance_percent: 54.0336
+  - slug: nowy_zmigrod
+    name: Nowy Żmigród
+    code: "1805072"
+    distance_meters: 15155.85
+    distance_km: 15.156
+    distance_percent: 45.9664
+  counties:
+  - slug: jasielski
+    name: jasielski
+    code: "1805"
+    distance_meters: 32971.61
+    distance_km: 32.972
+    distance_percent: 100.0
+  voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+    distance_meters: 32971.61
+    distance_km: 32.972
+    distance_percent: 100.0
+  meso_regions:
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+    distance_meters: 32971.61
+    distance_km: 32.972
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+    distance_meters: 32971.61
+    distance_km: 32.972
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 32971.61
+    distance_km: 32.972
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 32971.61
+    distance_km: 32.972
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 32971.61
+    distance_km: 32.972
+    distance_percent: 100.0
+  touched_towns:
+  - slug: krempna
+    name: Krempna
+    code: "1805062"
+  - slug: nowy_zmigrod
+    name: Nowy Żmigród
+    code: "1805072"
+  touched_counties:
+  - slug: jasielski
+    name: jasielski
+    code: "1805"
+  touched_voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+  touched_meso_regions:
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+  touched_macro_regions:
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

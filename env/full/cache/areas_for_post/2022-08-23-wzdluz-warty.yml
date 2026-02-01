@@ -1,0 +1,147 @@
+---
+- type: bicycle
+  total_distance_meters: 16970.89
+  total_distance_km: 16.971
+  points_count: 206.0
+  towns:
+  - slug: komorniki
+    name: Komorniki
+    code: "3021072"
+    distance_meters: 4925.95
+    distance_km: 4.926
+    distance_percent: 29.0259
+  - slug: lubon
+    name: Luboń
+    code: "3021011"
+    distance_meters: 4276.19
+    distance_km: 4.276
+    distance_percent: 25.1972
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+    distance_meters: 3844.7
+    distance_km: 3.845
+    distance_percent: 22.6547
+  - slug: puszczykowo
+    name: Puszczykowo
+    code: "3021021"
+    distance_meters: 3609.3
+    distance_km: 3.609
+    distance_percent: 21.2676
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+    distance_meters: 314.75
+    distance_km: 0.315
+    distance_percent: 1.8547
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 16970.89
+    distance_km: 16.971
+    distance_percent: 100.0
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+    distance_meters: 3844.7
+    distance_km: 3.845
+    distance_percent: 22.6547
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 16970.89
+    distance_km: 16.971
+    distance_percent: 100.0
+  meso_regions:
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+    distance_meters: 15701.08
+    distance_km: 15.701
+    distance_percent: 92.5177
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 1269.81
+    distance_km: 1.27
+    distance_percent: 7.4823
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 16970.89
+    distance_km: 16.971
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 16970.89
+    distance_km: 16.971
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 16970.89
+    distance_km: 16.971
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 16970.89
+    distance_km: 16.971
+    distance_percent: 100.0
+  touched_towns:
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+  - slug: lubon
+    name: Luboń
+    code: "3021011"
+  - slug: komorniki
+    name: Komorniki
+    code: "3021072"
+  - slug: mosina
+    name: Mosina
+    code: "3021103"
+  - slug: puszczykowo
+    name: Puszczykowo
+    code: "3021021"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

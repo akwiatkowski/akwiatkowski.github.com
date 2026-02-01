@@ -1,0 +1,126 @@
+---
+- type: train
+  total_distance_meters: 38682.35
+  total_distance_km: 38.682
+  points_count: 92.0
+  towns:
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+    distance_meters: 14176.66
+    distance_km: 14.177
+    distance_percent: 36.6489
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407011"
+    distance_meters: 12808.55
+    distance_km: 12.809
+    distance_percent: 33.1121
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+    distance_meters: 8242.8
+    distance_km: 8.243
+    distance_percent: 21.309
+  - slug: pakosc
+    name: Pakość
+    code: "0407073"
+    distance_meters: 3454.34
+    distance_km: 3.454
+    distance_percent: 8.93
+  counties:
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+    distance_meters: 38682.35
+    distance_km: 38.682
+    distance_percent: 100.0
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 38682.35
+    distance_km: 38.682
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+    distance_meters: 21818.82
+    distance_km: 21.819
+    distance_percent: 56.4051
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+    distance_meters: 16863.53
+    distance_km: 16.864
+    distance_percent: 43.5949
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 38682.35
+    distance_km: 38.682
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 38682.35
+    distance_km: 38.682
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 38682.35
+    distance_km: 38.682
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 38682.35
+    distance_km: 38.682
+    distance_percent: 100.0
+  touched_towns:
+  - slug: kruszwica
+    name: Kruszwica
+    code: "0407063"
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+  - slug: pakosc
+    name: Pakość
+    code: "0407073"
+  touched_counties:
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

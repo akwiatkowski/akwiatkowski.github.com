@@ -1,0 +1,275 @@
+---
+- type: car
+  total_distance_meters: 35376.77
+  total_distance_km: 35.377
+  points_count: 205.0
+  towns:
+  - slug: komancza
+    name: Komańcza
+    code: "1817042"
+    distance_meters: 26218.69
+    distance_km: 26.219
+    distance_percent: 74.1127
+  - slug: jasliska
+    name: Jaśliska
+    code: "1807102"
+    distance_meters: 9158.07
+    distance_km: 9.158
+    distance_percent: 25.8873
+  counties:
+  - slug: sanocki
+    name: sanocki
+    code: "1817"
+    distance_meters: 26218.69
+    distance_km: 26.219
+    distance_percent: 74.1127
+  - slug: krosnienski
+    name: krośnieński
+    code: "1807"
+    distance_meters: 9158.07
+    distance_km: 9.158
+    distance_percent: 25.8873
+  voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+    distance_meters: 35376.77
+    distance_km: 35.377
+    distance_percent: 100.0
+  meso_regions:
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+    distance_meters: 35376.77
+    distance_km: 35.377
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+    distance_meters: 35376.77
+    distance_km: 35.377
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 35376.77
+    distance_km: 35.377
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 35376.77
+    distance_km: 35.377
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 35376.77
+    distance_km: 35.377
+    distance_percent: 100.0
+  touched_towns:
+  - slug: jasliska
+    name: Jaśliska
+    code: "1807102"
+  - slug: komancza
+    name: Komańcza
+    code: "1817042"
+  touched_counties:
+  - slug: krosnienski
+    name: krośnieński
+    code: "1807"
+  - slug: sanocki
+    name: sanocki
+    code: "1817"
+  touched_voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+  touched_meso_regions:
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+  touched_macro_regions:
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+- type: car
+  total_distance_meters: 46350.33
+  total_distance_km: 46.35
+  points_count: 275.0
+  towns:
+  - slug: rymanow
+    name: Rymanów
+    code: "1807083"
+    distance_meters: 17537.39
+    distance_km: 17.537
+    distance_percent: 37.8366
+  - slug: bukowsko
+    name: Bukowsko
+    code: "1817032"
+    distance_meters: 15369.01
+    distance_km: 15.369
+    distance_percent: 33.1584
+  - slug: zarszyn
+    name: Zarszyn
+    code: "1817082"
+    distance_meters: 7032.03
+    distance_km: 7.032
+    distance_percent: 15.1715
+  - slug: jasliska
+    name: Jaśliska
+    code: "1807102"
+    distance_meters: 5912.03
+    distance_km: 5.912
+    distance_percent: 12.7551
+  - slug: besko
+    name: Besko
+    code: "1817022"
+    distance_meters: 499.87
+    distance_km: 0.5
+    distance_percent: 1.0785
+  counties:
+  - slug: krosnienski
+    name: krośnieński
+    code: "1807"
+    distance_meters: 23449.42
+    distance_km: 23.449
+    distance_percent: 50.5917
+  - slug: sanocki
+    name: sanocki
+    code: "1817"
+    distance_meters: 22900.91
+    distance_km: 22.901
+    distance_percent: 49.4083
+  voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+    distance_meters: 46350.33
+    distance_km: 46.35
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pogorze_bukowskie
+    name: Pogórze Bukowskie
+    code: "513.69"
+    distance_meters: 18539.78
+    distance_km: 18.54
+    distance_percent: 39.9992
+  - slug: kotlina_jasielskokrosnienska
+    name: Kotlina Jasielsko-Krośnieńska
+    code: "513.67"
+    distance_meters: 16485.31
+    distance_km: 16.485
+    distance_percent: 35.5668
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+    distance_meters: 11325.24
+    distance_km: 11.325
+    distance_percent: 24.434
+  macro_regions:
+  - slug: pogorze_srodkowobeskidzkie
+    name: Pogórze Środkowobeskidzkie
+    code: "513"
+    distance_meters: 35025.09
+    distance_km: 35.025
+    distance_percent: 75.566
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+    distance_meters: 11325.24
+    distance_km: 11.325
+    distance_percent: 24.434
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 46350.33
+    distance_km: 46.35
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 46350.33
+    distance_km: 46.35
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 46350.33
+    distance_km: 46.35
+    distance_percent: 100.0
+  touched_towns:
+  - slug: bukowsko
+    name: Bukowsko
+    code: "1817032"
+  - slug: zarszyn
+    name: Zarszyn
+    code: "1817082"
+  - slug: besko
+    name: Besko
+    code: "1817022"
+  - slug: rymanow
+    name: Rymanów
+    code: "1807083"
+  - slug: jasliska
+    name: Jaśliska
+    code: "1807102"
+  touched_counties:
+  - slug: sanocki
+    name: sanocki
+    code: "1817"
+  - slug: krosnienski
+    name: krośnieński
+    code: "1807"
+  touched_voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+  touched_meso_regions:
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+  - slug: pogorze_bukowskie
+    name: Pogórze Bukowskie
+    code: "513.69"
+  - slug: kotlina_jasielskokrosnienska
+    name: Kotlina Jasielsko-Krośnieńska
+    code: "513.67"
+  touched_macro_regions:
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+  - slug: pogorze_srodkowobeskidzkie
+    name: Pogórze Środkowobeskidzkie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

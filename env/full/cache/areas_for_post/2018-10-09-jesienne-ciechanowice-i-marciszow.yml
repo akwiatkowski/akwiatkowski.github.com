@@ -1,0 +1,111 @@
+---
+- type: hike
+  total_distance_meters: 5374.71
+  total_distance_km: 5.375
+  points_count: 65.0
+  towns:
+  - slug: marciszow
+    name: Marciszów
+    code: "0207042"
+    distance_meters: 5374.71
+    distance_km: 5.375
+    distance_percent: 100.0
+  counties:
+  - slug: kamiennogorski
+    name: kamiennogórski
+    code: "0207"
+    distance_meters: 5374.71
+    distance_km: 5.375
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 5374.71
+    distance_km: 5.375
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rudawy_janowickie
+    name: Rudawy Janowickie
+    code: "332.38"
+    distance_meters: 3234.99
+    distance_km: 3.235
+    distance_percent: 60.189
+  - slug: gory_walbrzyskie
+    name: Góry Wałbrzyskie
+    code: "332.42"
+    distance_meters: 2139.72
+    distance_km: 2.14
+    distance_percent: 39.811
+  macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 3234.99
+    distance_km: 3.235
+    distance_percent: 60.189
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 2139.72
+    distance_km: 2.14
+    distance_percent: 39.811
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 5374.71
+    distance_km: 5.375
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 5374.71
+    distance_km: 5.375
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 5374.71
+    distance_km: 5.375
+    distance_percent: 100.0
+  touched_towns:
+  - slug: marciszow
+    name: Marciszów
+    code: "0207042"
+  touched_counties:
+  - slug: kamiennogorski
+    name: kamiennogórski
+    code: "0207"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: rudawy_janowickie
+    name: Rudawy Janowickie
+    code: "332.38"
+  - slug: gory_walbrzyskie
+    name: Góry Wałbrzyskie
+    code: "332.42"
+  touched_macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

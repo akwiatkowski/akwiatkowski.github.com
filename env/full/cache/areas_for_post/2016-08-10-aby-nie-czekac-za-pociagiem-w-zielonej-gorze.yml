@@ -1,0 +1,138 @@
+---
+- type: bicycle
+  total_distance_meters: 18853.25
+  total_distance_km: 18.853
+  points_count: 112.0
+  towns:
+  - slug: swidnica
+    name: Świdnica
+    code: 0809072
+    distance_meters: 13860.02
+    distance_km: 13.86
+    distance_percent: 73.5153
+  - slug: zielona_gora
+    name: Zielona Góra
+    code: 0862011
+    distance_meters: 4993.23
+    distance_km: 4.993
+    distance_percent: 26.4847
+  counties:
+  - slug: zielonogorski
+    name: zielonogórski
+    code: 0809
+    distance_meters: 13860.02
+    distance_km: 13.86
+    distance_percent: 73.5153
+  - slug: zielona_gora
+    name: Zielona Góra
+    code: 0862
+    distance_meters: 4993.23
+    distance_km: 4.993
+    distance_percent: 26.4847
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 18853.25
+    distance_km: 18.853
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wal_zielonogorski
+    name: Wał Zielonogórski
+    code: "315.74"
+    distance_meters: 17166.74
+    distance_km: 17.167
+    distance_percent: 91.0545
+  - slug: obnizenie_nowosolskie
+    name: Obniżenie Nowosolskie
+    code: "318.31"
+    distance_meters: 1686.51
+    distance_km: 1.687
+    distance_percent: 8.9455
+  macro_regions:
+  - slug: wzniesienia_zielonogorskie
+    name: Wzniesienia Zielonogórskie
+    code: 314-316
+    distance_meters: 17166.74
+    distance_km: 17.167
+    distance_percent: 91.0545
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+    distance_meters: 1686.51
+    distance_km: 1.687
+    distance_percent: 8.9455
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 18853.25
+    distance_km: 18.853
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 17166.74
+    distance_km: 17.167
+    distance_percent: 91.0545
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 1686.51
+    distance_km: 1.687
+    distance_percent: 8.9455
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 18853.25
+    distance_km: 18.853
+    distance_percent: 100.0
+  touched_towns:
+  - slug: swidnica
+    name: Świdnica
+    code: 0809072
+  - slug: zielona_gora
+    name: Zielona Góra
+    code: 0862011
+  touched_counties:
+  - slug: zielonogorski
+    name: zielonogórski
+    code: 0809
+  - slug: zielona_gora
+    name: Zielona Góra
+    code: 0862
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  touched_meso_regions:
+  - slug: obnizenie_nowosolskie
+    name: Obniżenie Nowosolskie
+    code: "318.31"
+  - slug: wal_zielonogorski
+    name: Wał Zielonogórski
+    code: "315.74"
+  touched_macro_regions:
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+  - slug: wzniesienia_zielonogorskie
+    name: Wzniesienia Zielonogórskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

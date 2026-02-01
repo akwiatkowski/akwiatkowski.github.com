@@ -1,0 +1,99 @@
+---
+- type: hike
+  total_distance_meters: 1899.04
+  total_distance_km: 1.899
+  points_count: 36.0
+  towns:
+  - slug: ilawa
+    name: Iława
+    code: "2807011"
+    distance_meters: 1899.04
+    distance_km: 1.899
+    distance_percent: 100.0
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+    distance_meters: 1899.04
+    distance_km: 1.899
+    distance_percent: 100.0
+  counties:
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+    distance_meters: 1899.04
+    distance_km: 1.899
+    distance_percent: 100.0
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 1899.04
+    distance_km: 1.899
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+    distance_meters: 1899.04
+    distance_km: 1.899
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 1899.04
+    distance_km: 1.899
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 1899.04
+    distance_km: 1.899
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 1899.04
+    distance_km: 1.899
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 1899.04
+    distance_km: 1.899
+    distance_percent: 100.0
+  touched_towns:
+  - slug: ilawa
+    name: Iława
+    code: "2807011"
+  touched_counties:
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+  touched_macro_regions:
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

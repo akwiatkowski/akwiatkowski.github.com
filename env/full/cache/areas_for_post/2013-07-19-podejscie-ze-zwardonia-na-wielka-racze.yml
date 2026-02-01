@@ -1,0 +1,102 @@
+---
+- type: hike
+  total_distance_meters: 15239.3
+  total_distance_km: 15.239
+  points_count: 244.0
+  towns:
+  - slug: rajcza
+    name: Rajcza
+    code: "2417112"
+    distance_meters: 8579.74
+    distance_km: 8.58
+    distance_percent: 56.3001
+  counties:
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+    distance_meters: 8579.74
+    distance_km: 8.58
+    distance_percent: 56.3001
+  voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+    distance_meters: 8579.74
+    distance_km: 8.58
+    distance_percent: 56.3001
+  meso_regions:
+  - slug: beskid_zywieckokysucki
+    name: Beskid Żywiecko-Kysucki
+    code: "513.56"
+    distance_meters: 12256.08
+    distance_km: 12.256
+    distance_percent: 80.4242
+  - slug: miedzygorze_jablonkowskokoniakowskie
+    name: Międzygórze Jabłonkowsko-Koniakowskie
+    code: "513.55"
+    distance_meters: 134.08
+    distance_km: 0.134
+    distance_percent: 0.8798
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 12390.16
+    distance_km: 12.39
+    distance_percent: 81.304
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 12390.16
+    distance_km: 12.39
+    distance_percent: 81.304
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 12390.16
+    distance_km: 12.39
+    distance_percent: 81.304
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 12390.16
+    distance_km: 12.39
+    distance_percent: 81.304
+  touched_towns:
+  - slug: rajcza
+    name: Rajcza
+    code: "2417112"
+  touched_counties:
+  - slug: zywiecki
+    name: żywiecki
+    code: "2417"
+  touched_voivodeships:
+  - slug: slaskie
+    name: ŚLĄSKIE
+    code: "24"
+  touched_meso_regions:
+  - slug: beskid_zywieckokysucki
+    name: Beskid Żywiecko-Kysucki
+    code: "513.56"
+  - slug: miedzygorze_jablonkowskokoniakowskie
+    name: Międzygórze Jabłonkowsko-Koniakowskie
+    code: "513.55"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

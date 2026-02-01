@@ -1,0 +1,147 @@
+---
+- type: hike
+  total_distance_meters: 18033.63
+  total_distance_km: 18.034
+  points_count: 287.0
+  towns:
+  - slug: pieszyce
+    name: Pieszyce
+    code: "0202033"
+    distance_meters: 8457.6
+    distance_km: 8.458
+    distance_percent: 46.8991
+  - slug: gluszyca
+    name: Głuszyca
+    code: "0221053"
+    distance_meters: 5106.31
+    distance_km: 5.106
+    distance_percent: 28.3155
+  - slug: nowa_ruda
+    name: Nowa Ruda
+    code: 0208112
+    distance_meters: 3041.16
+    distance_km: 3.041
+    distance_percent: 16.8638
+  - slug: walim
+    name: Walim
+    code: 0221082
+    distance_meters: 1428.55
+    distance_km: 1.429
+    distance_percent: 7.9216
+  counties:
+  - slug: dzierzoniowski
+    name: dzierżoniowski
+    code: "0202"
+    distance_meters: 8457.6
+    distance_km: 8.458
+    distance_percent: 46.8991
+  - slug: walbrzyski
+    name: wałbrzyski
+    code: "0221"
+    distance_meters: 6534.87
+    distance_km: 6.535
+    distance_percent: 36.2371
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+    distance_meters: 3041.16
+    distance_km: 3.041
+    distance_percent: 16.8638
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 18033.63
+    distance_km: 18.034
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gory_sowie
+    name: Góry Sowie
+    code: "332.44"
+    distance_meters: 18031.07
+    distance_km: 18.031
+    distance_percent: 99.9858
+  - slug: obnizenie_noworudzkie
+    name: Obniżenie Noworudzkie
+    code: "332.46"
+    distance_meters: 2.55
+    distance_km: 0.003
+    distance_percent: 0.0142
+  macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 18033.63
+    distance_km: 18.034
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 18033.63
+    distance_km: 18.034
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 18033.63
+    distance_km: 18.034
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 18033.63
+    distance_km: 18.034
+    distance_percent: 100.0
+  touched_towns:
+  - slug: gluszyca
+    name: Głuszyca
+    code: "0221053"
+  - slug: walim
+    name: Walim
+    code: 0221082
+  - slug: nowa_ruda
+    name: Nowa Ruda
+    code: 0208112
+  - slug: pieszyce
+    name: Pieszyce
+    code: "0202033"
+  touched_counties:
+  - slug: walbrzyski
+    name: wałbrzyski
+    code: "0221"
+  - slug: klodzki
+    name: kłodzki
+    code: 0208
+  - slug: dzierzoniowski
+    name: dzierżoniowski
+    code: "0202"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_sowie
+    name: Góry Sowie
+    code: "332.44"
+  - slug: obnizenie_noworudzkie
+    name: Obniżenie Noworudzkie
+    code: "332.46"
+  touched_macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

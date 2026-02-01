@@ -1,0 +1,150 @@
+---
+- type: bicycle
+  total_distance_meters: 66072.5
+  total_distance_km: 66.072
+  points_count: 412.0
+  towns:
+  - slug: gorowo_ilaweckie
+    name: Górowo Iławeckie
+    code: "2801052"
+    distance_meters: 30988.84
+    distance_km: 30.989
+    distance_percent: 46.9013
+  - slug: lelkowo
+    name: Lelkowo
+    code: "2802042"
+    distance_meters: 14937.55
+    distance_km: 14.938
+    distance_percent: 22.6078
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801032"
+    distance_meters: 12835.38
+    distance_km: 12.835
+    distance_percent: 19.4262
+  - slug: pieniezno
+    name: Pieniężno
+    code: "2802053"
+    distance_meters: 7310.72
+    distance_km: 7.311
+    distance_percent: 11.0647
+  - slug: gorowo_ilaweckie
+    name: Górowo Iławeckie
+    code: "2801021"
+    distance_meters: 3064.06
+    distance_km: 3.064
+    distance_percent: 4.6374
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801011"
+    distance_meters: 2257.75
+    distance_km: 2.258
+    distance_percent: 3.4171
+  counties:
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+    distance_meters: 43824.22
+    distance_km: 43.824
+    distance_percent: 66.3275
+  - slug: braniewski
+    name: braniewski
+    code: "2802"
+    distance_meters: 22248.27
+    distance_km: 22.248
+    distance_percent: 33.6725
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 66072.5
+    distance_km: 66.072
+    distance_percent: 100.0
+  meso_regions:
+  - slug: wzniesienia_gorowskie
+    name: Wzniesienia Górowskie
+    code: "841.57"
+    distance_meters: 46722.67
+    distance_km: 46.723
+    distance_percent: 70.7142
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+    distance_meters: 19349.83
+    distance_km: 19.35
+    distance_percent: 29.2858
+  macro_regions:
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+    distance_meters: 66072.5
+    distance_km: 66.072
+    distance_percent: 100.0
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 66072.5
+    distance_km: 66.072
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+    distance_meters: 66072.5
+    distance_km: 66.072
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 66072.5
+    distance_km: 66.072
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pieniezno
+    name: Pieniężno
+    code: "2802053"
+  - slug: lelkowo
+    name: Lelkowo
+    code: "2802042"
+  - slug: gorowo_ilaweckie
+    name: Górowo Iławeckie
+    code: "2801052"
+  - slug: bartoszyce
+    name: Bartoszyce
+    code: "2801032"
+  touched_counties:
+  - slug: braniewski
+    name: braniewski
+    code: "2802"
+  - slug: bartoszycki
+    name: bartoszycki
+    code: "2801"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: wzniesienia_gorowskie
+    name: Wzniesienia Górowskie
+    code: "841.57"
+  - slug: nizina_sepopolska
+    name: Nizina Sępopolska
+    code: "841.59"
+  touched_macro_regions:
+  - slug: nizina_staropruska
+    name: Nizina Staropruska
+    code: "841"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pobrzeze_wschodniobaltyckie
+    name: Pobrzeże Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

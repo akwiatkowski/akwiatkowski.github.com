@@ -1,0 +1,228 @@
+---
+- type: bicycle
+  total_distance_meters: 59310.6
+  total_distance_km: 59.311
+  points_count: 466.0
+  towns:
+  - slug: wojaszowka
+    name: Wojaszówka
+    code: "1807092"
+    distance_meters: 15681.92
+    distance_km: 15.682
+    distance_percent: 26.4403
+  - slug: iwierzyce
+    name: Iwierzyce
+    code: "1815012"
+    distance_meters: 13797.92
+    distance_km: 13.798
+    distance_percent: 23.2638
+  - slug: wisniowa
+    name: Wiśniowa
+    code: "1819052"
+    distance_meters: 12893.0
+    distance_km: 12.893
+    distance_percent: 21.7381
+  - slug: strzyzow
+    name: Strzyżów
+    code: "1819043"
+    distance_meters: 5969.81
+    distance_km: 5.97
+    distance_percent: 10.0653
+  - slug: frysztak
+    name: Frysztak
+    code: "1819022"
+    distance_meters: 4722.38
+    distance_km: 4.722
+    distance_percent: 7.9621
+  - slug: sedziszow_malopolski
+    name: Sędziszów Małopolski
+    code: "1815043"
+    distance_meters: 3491.98
+    distance_km: 3.492
+    distance_percent: 5.8876
+  - slug: wielopole_skrzynskie
+    name: Wielopole Skrzyńskie
+    code: "1815052"
+    distance_meters: 1858.57
+    distance_km: 1.859
+    distance_percent: 3.1336
+  - slug: krosno
+    name: Krosno
+    code: "1861011"
+    distance_meters: 895.02
+    distance_km: 0.895
+    distance_percent: 1.509
+  counties:
+  - slug: strzyzowski
+    name: strzyżowski
+    code: "1819"
+    distance_meters: 23585.19
+    distance_km: 23.585
+    distance_percent: 39.7656
+  - slug: ropczyckosedziszowski
+    name: ropczycko-sędziszowski
+    code: "1815"
+    distance_meters: 19148.47
+    distance_km: 19.148
+    distance_percent: 32.2851
+  - slug: krosnienski
+    name: krośnieński
+    code: "1807"
+    distance_meters: 16576.94
+    distance_km: 16.577
+    distance_percent: 27.9494
+  - slug: krosno
+    name: Krosno
+    code: "1861"
+    distance_meters: 895.02
+    distance_km: 0.895
+    distance_percent: 1.509
+  voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+    distance_meters: 59310.6
+    distance_km: 59.311
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pogorze_strzyzowskie
+    name: Pogórze Strzyżowskie
+    code: "513.63"
+    distance_meters: 46026.27
+    distance_km: 46.026
+    distance_percent: 77.6021
+  - slug: kotlina_jasielskokrosnienska
+    name: Kotlina Jasielsko-Krośnieńska
+    code: "513.67"
+    distance_meters: 8578.76
+    distance_km: 8.579
+    distance_percent: 14.4641
+  - slug: pogorze_dynowskie
+    name: Pogórze Dynowskie
+    code: "513.64"
+    distance_meters: 4124.92
+    distance_km: 4.125
+    distance_percent: 6.9548
+  - slug: pradolina_podkarpacka
+    name: Pradolina Podkarpacka
+    code: "512.51"
+    distance_meters: 580.65
+    distance_km: 0.581
+    distance_percent: 0.979
+  macro_regions:
+  - slug: pogorze_srodkowobeskidzkie
+    name: Pogórze Środkowobeskidzkie
+    code: "513"
+    distance_meters: 58729.95
+    distance_km: 58.73
+    distance_percent: 99.021
+  - slug: kotlina_sandomierska
+    name: Kotlina Sandomierska
+    code: "512"
+    distance_meters: 580.65
+    distance_km: 0.581
+    distance_percent: 0.979
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 59310.6
+    distance_km: 59.311
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 58729.95
+    distance_km: 58.73
+    distance_percent: 99.021
+  - slug: podkarpacie_polnocne
+    name: Podkarpacie Północne
+    code: "51"
+    distance_meters: 580.65
+    distance_km: 0.581
+    distance_percent: 0.979
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 59310.6
+    distance_km: 59.311
+    distance_percent: 100.0
+  touched_towns:
+  - slug: krosno
+    name: Krosno
+    code: "1861011"
+  - slug: wojaszowka
+    name: Wojaszówka
+    code: "1807092"
+  - slug: frysztak
+    name: Frysztak
+    code: "1819022"
+  - slug: wisniowa
+    name: Wiśniowa
+    code: "1819052"
+  - slug: strzyzow
+    name: Strzyżów
+    code: "1819043"
+  - slug: wielopole_skrzynskie
+    name: Wielopole Skrzyńskie
+    code: "1815052"
+  - slug: iwierzyce
+    name: Iwierzyce
+    code: "1815012"
+  - slug: sedziszow_malopolski
+    name: Sędziszów Małopolski
+    code: "1815043"
+  touched_counties:
+  - slug: krosnienski
+    name: krośnieński
+    code: "1807"
+  - slug: krosno
+    name: Krosno
+    code: "1861"
+  - slug: strzyzowski
+    name: strzyżowski
+    code: "1819"
+  - slug: ropczyckosedziszowski
+    name: ropczycko-sędziszowski
+    code: "1815"
+  touched_voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+  touched_meso_regions:
+  - slug: kotlina_jasielskokrosnienska
+    name: Kotlina Jasielsko-Krośnieńska
+    code: "513.67"
+  - slug: pogorze_strzyzowskie
+    name: Pogórze Strzyżowskie
+    code: "513.63"
+  - slug: pogorze_dynowskie
+    name: Pogórze Dynowskie
+    code: "513.64"
+  - slug: pradolina_podkarpacka
+    name: Pradolina Podkarpacka
+    code: "512.51"
+  touched_macro_regions:
+  - slug: pogorze_srodkowobeskidzkie
+    name: Pogórze Środkowobeskidzkie
+    code: "513"
+  - slug: kotlina_sandomierska
+    name: Kotlina Sandomierska
+    code: "512"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  - slug: podkarpacie_polnocne
+    name: Podkarpacie Północne
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

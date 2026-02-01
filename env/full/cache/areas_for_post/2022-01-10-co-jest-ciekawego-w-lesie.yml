@@ -1,0 +1,156 @@
+---
+- type: hike
+  total_distance_meters: 16853.93
+  total_distance_km: 16.854
+  points_count: 236.0
+  towns:
+  - slug: drezdenko
+    name: Drezdenko
+    code: 0806023
+    distance_meters: 8857.74
+    distance_km: 8.858
+    distance_percent: 52.5559
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+    distance_meters: 4386.06
+    distance_km: 4.386
+    distance_percent: 26.024
+  - slug: krzyz_wielkopolski
+    name: Krzyż Wielkopolski
+    code: "3002043"
+    distance_meters: 3610.13
+    distance_km: 3.61
+    distance_percent: 21.4201
+  counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+    distance_meters: 13243.8
+    distance_km: 13.244
+    distance_percent: 78.5799
+  - slug: czarnkowskotrzcianecki
+    name: czarnkowsko-trzcianecki
+    code: "3002"
+    distance_meters: 3610.13
+    distance_km: 3.61
+    distance_percent: 21.4201
+  voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+    distance_meters: 13243.8
+    distance_km: 13.244
+    distance_percent: 78.5799
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 3610.13
+    distance_km: 3.61
+    distance_percent: 21.4201
+  meso_regions:
+  - slug: rownina_drawska
+    name: Równina Drawska
+    code: "314.63"
+    distance_meters: 6997.27
+    distance_km: 6.997
+    distance_percent: 41.5171
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 5256.64
+    distance_km: 5.257
+    distance_percent: 31.1894
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+    distance_meters: 4600.02
+    distance_km: 4.6
+    distance_percent: 27.2935
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 11597.29
+    distance_km: 11.597
+    distance_percent: 68.8106
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 5256.64
+    distance_km: 5.257
+    distance_percent: 31.1894
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 16853.93
+    distance_km: 16.854
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 16853.93
+    distance_km: 16.854
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 16853.93
+    distance_km: 16.854
+    distance_percent: 100.0
+  touched_towns:
+  - slug: dobiegniew
+    name: Dobiegniew
+    code: 0806013
+  - slug: drezdenko
+    name: Drezdenko
+    code: 0806023
+  - slug: krzyz_wielkopolski
+    name: Krzyż Wielkopolski
+    code: "3002043"
+  touched_counties:
+  - slug: strzeleckodrezdenecki
+    name: strzelecko-drezdenecki
+    code: 0806
+  - slug: czarnkowskotrzcianecki
+    name: czarnkowsko-trzcianecki
+    code: "3002"
+  touched_voivodeships:
+  - slug: lubuskie
+    name: LUBUSKIE
+    code: 08
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: rownina_drawska
+    name: Równina Drawska
+    code: "314.63"
+  - slug: pojezierze_dobiegniewskie
+    name: Pojezierze Dobiegniewskie
+    code: "314.62"
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,111 @@
+---
+- type: train
+  total_distance_meters: 18503.67
+  total_distance_km: 18.504
+  points_count: 213.0
+  towns:
+  - slug: cisna
+    name: Cisna
+    code: "1821022"
+    distance_meters: 16800.36
+    distance_km: 16.8
+    distance_percent: 90.7948
+  - slug: komancza
+    name: Komańcza
+    code: "1817042"
+    distance_meters: 1703.3
+    distance_km: 1.703
+    distance_percent: 9.2052
+  counties:
+  - slug: leski
+    name: leski
+    code: "1821"
+    distance_meters: 16800.36
+    distance_km: 16.8
+    distance_percent: 90.7948
+  - slug: sanocki
+    name: sanocki
+    code: "1817"
+    distance_meters: 1703.3
+    distance_km: 1.703
+    distance_percent: 9.2052
+  voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+    distance_meters: 18503.67
+    distance_km: 18.504
+    distance_percent: 100.0
+  meso_regions:
+  - slug: bieszczady_zachodnie
+    name: Bieszczady Zachodnie
+    code: "522.12"
+    distance_meters: 18503.67
+    distance_km: 18.504
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_lesiste
+    name: Beskidy Lesiste
+    code: "522"
+    distance_meters: 18503.67
+    distance_km: 18.504
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 18503.67
+    distance_km: 18.504
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_wschodnie_beskidy_wschodnie
+    name: Zewnętrzne Karpaty Wschodnie (Beskidy Wschodnie)
+    code: "52"
+    distance_meters: 18503.67
+    distance_km: 18.504
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_wschodnie_z_podkarpaciem_wschodnim
+    name: Karpaty Wschodnie z Podkarpaciem Wschodnim
+    code: "5"
+    distance_meters: 18503.67
+    distance_km: 18.504
+    distance_percent: 100.0
+  touched_towns:
+  - slug: cisna
+    name: Cisna
+    code: "1821022"
+  - slug: komancza
+    name: Komańcza
+    code: "1817042"
+  touched_counties:
+  - slug: leski
+    name: leski
+    code: "1821"
+  - slug: sanocki
+    name: sanocki
+    code: "1817"
+  touched_voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+  touched_meso_regions:
+  - slug: bieszczady_zachodnie
+    name: Bieszczady Zachodnie
+    code: "522.12"
+  touched_macro_regions:
+  - slug: beskidy_lesiste
+    name: Beskidy Lesiste
+    code: "522"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_wschodnie_beskidy_wschodnie
+    name: Zewnętrzne Karpaty Wschodnie (Beskidy Wschodnie)
+    code: "52"
+  touched_provinces:
+  - slug: karpaty_wschodnie_z_podkarpaciem_wschodnim
+    name: Karpaty Wschodnie z Podkarpaciem Wschodnim
+    code: "5"

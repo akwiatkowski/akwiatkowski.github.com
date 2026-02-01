@@ -1,0 +1,524 @@
+---
+- type: e-bike
+  total_distance_meters: 3141.78
+  total_distance_km: 3.142
+  points_count: 45.0
+  towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+    distance_meters: 3141.78
+    distance_km: 3.142
+    distance_percent: 100.0
+  counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 3141.78
+    distance_km: 3.142
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 3141.78
+    distance_km: 3.142
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 3141.78
+    distance_km: 3.142
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 3141.78
+    distance_km: 3.142
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 3141.78
+    distance_km: 3.142
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 3141.78
+    distance_km: 3.142
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 3141.78
+    distance_km: 3.142
+    distance_percent: 100.0
+  touched_towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+  touched_counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: e-bike
+  total_distance_meters: 31933.41
+  total_distance_km: 31.933
+  points_count: 256.0
+  towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+    distance_meters: 14496.12
+    distance_km: 14.496
+    distance_percent: 45.3948
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+    distance_meters: 9082.69
+    distance_km: 9.083
+    distance_percent: 28.4426
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+    distance_meters: 8354.6
+    distance_km: 8.355
+    distance_percent: 26.1626
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 17437.29
+    distance_km: 17.437
+    distance_percent: 54.6052
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 14496.12
+    distance_km: 14.496
+    distance_percent: 45.3948
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 31933.41
+    distance_km: 31.933
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 31933.41
+    distance_km: 31.933
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 31933.41
+    distance_km: 31.933
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 31933.41
+    distance_km: 31.933
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 31933.41
+    distance_km: 31.933
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 31933.41
+    distance_km: 31.933
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: e-bike
+  total_distance_meters: 23066.8
+  total_distance_km: 23.067
+  points_count: 167.0
+  towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+    distance_meters: 9709.42
+    distance_km: 9.709
+    distance_percent: 42.0926
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+    distance_meters: 8901.42
+    distance_km: 8.901
+    distance_percent: 38.5897
+  - slug: kiszkowo
+    name: Kiszkowo
+    code: "3003042"
+    distance_meters: 4455.96
+    distance_km: 4.456
+    distance_percent: 19.3176
+  counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 9709.42
+    distance_km: 9.709
+    distance_percent: 42.0926
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 8901.42
+    distance_km: 8.901
+    distance_percent: 38.5897
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+    distance_meters: 4455.96
+    distance_km: 4.456
+    distance_percent: 19.3176
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 23066.8
+    distance_km: 23.067
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 23066.8
+    distance_km: 23.067
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 23066.8
+    distance_km: 23.067
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 23066.8
+    distance_km: 23.067
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 23066.8
+    distance_km: 23.067
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 23066.8
+    distance_km: 23.067
+    distance_percent: 100.0
+  touched_towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+  - slug: kiszkowo
+    name: Kiszkowo
+    code: "3003042"
+  - slug: pobiedziska
+    name: Pobiedziska
+    code: "3021123"
+  touched_counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  - slug: gnieznienski
+    name: gnieźnieński
+    code: "3003"
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: e-bike
+  total_distance_meters: 6735.34
+  total_distance_km: 6.735
+  points_count: 52.0
+  towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+    distance_meters: 6735.34
+    distance_km: 6.735
+    distance_percent: 100.0
+  counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 6735.34
+    distance_km: 6.735
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 6735.34
+    distance_km: 6.735
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 6735.34
+    distance_km: 6.735
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 6735.34
+    distance_km: 6.735
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 6735.34
+    distance_km: 6.735
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 6735.34
+    distance_km: 6.735
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 6735.34
+    distance_km: 6.735
+    distance_percent: 100.0
+  touched_towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+  touched_counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: e-bike
+  total_distance_meters: 5419.6
+  total_distance_km: 5.42
+  points_count: 66.0
+  towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+    distance_meters: 5419.6
+    distance_km: 5.42
+    distance_percent: 100.0
+  counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 5419.6
+    distance_km: 5.42
+    distance_percent: 100.0
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 5419.6
+    distance_km: 5.42
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 5419.6
+    distance_km: 5.42
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 5419.6
+    distance_km: 5.42
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 5419.6
+    distance_km: 5.42
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 5419.6
+    distance_km: 5.42
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 5419.6
+    distance_km: 5.42
+    distance_percent: 100.0
+  touched_towns:
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+  touched_counties:
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

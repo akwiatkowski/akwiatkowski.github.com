@@ -1,0 +1,111 @@
+---
+- type: hike
+  total_distance_meters: 4482.36
+  total_distance_km: 4.482
+  points_count: 86.0
+  towns:
+  - slug: walbrzych
+    name: Wałbrzych
+    code: "0265011"
+    distance_meters: 3891.37
+    distance_km: 3.891
+    distance_percent: 86.8152
+  - slug: szczawnozdroj
+    name: Szczawno-Zdrój
+    code: "0221031"
+    distance_meters: 590.99
+    distance_km: 0.591
+    distance_percent: 13.1848
+  counties:
+  - slug: walbrzych
+    name: Wałbrzych
+    code: "0265"
+    distance_meters: 3891.37
+    distance_km: 3.891
+    distance_percent: 86.8152
+  - slug: walbrzyski
+    name: wałbrzyski
+    code: "0221"
+    distance_meters: 590.99
+    distance_km: 0.591
+    distance_percent: 13.1848
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 4482.36
+    distance_km: 4.482
+    distance_percent: 100.0
+  meso_regions:
+  - slug: gory_walbrzyskie
+    name: Góry Wałbrzyskie
+    code: "332.42"
+    distance_meters: 4482.36
+    distance_km: 4.482
+    distance_percent: 100.0
+  macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+    distance_meters: 4482.36
+    distance_km: 4.482
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 4482.36
+    distance_km: 4.482
+    distance_percent: 100.0
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 4482.36
+    distance_km: 4.482
+    distance_percent: 100.0
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 4482.36
+    distance_km: 4.482
+    distance_percent: 100.0
+  touched_towns:
+  - slug: walbrzych
+    name: Wałbrzych
+    code: "0265011"
+  - slug: szczawnozdroj
+    name: Szczawno-Zdrój
+    code: "0221031"
+  touched_counties:
+  - slug: walbrzych
+    name: Wałbrzych
+    code: "0265"
+  - slug: walbrzyski
+    name: wałbrzyski
+    code: "0221"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: gory_walbrzyskie
+    name: Góry Wałbrzyskie
+    code: "332.42"
+  touched_macro_regions:
+  - slug: sudety_srodkowe
+    name: Sudety Środkowe
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

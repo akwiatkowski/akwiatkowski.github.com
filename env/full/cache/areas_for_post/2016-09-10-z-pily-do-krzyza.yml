@@ -1,0 +1,183 @@
+---
+- type: bicycle
+  total_distance_meters: 79211.21
+  total_distance_km: 79.211
+  points_count: 265.0
+  towns:
+  - slug: trzcianka
+    name: Trzcianka
+    code: "3002073"
+    distance_meters: 26413.23
+    distance_km: 26.413
+    distance_percent: 33.3453
+  - slug: wielen
+    name: Wieleń
+    code: "3002083"
+    distance_meters: 17540.75
+    distance_km: 17.541
+    distance_percent: 22.1443
+  - slug: czarnkow
+    name: Czarnków
+    code: "3002022"
+    distance_meters: 12376.17
+    distance_km: 12.376
+    distance_percent: 15.6243
+  - slug: szydlowo
+    name: Szydłowo
+    code: "3019062"
+    distance_meters: 9616.17
+    distance_km: 9.616
+    distance_percent: 12.1399
+  - slug: krzyz_wielkopolski
+    name: Krzyż Wielkopolski
+    code: "3002043"
+    distance_meters: 7998.17
+    distance_km: 7.998
+    distance_percent: 10.0973
+  - slug: pila
+    name: Piła
+    code: "3019011"
+    distance_meters: 5266.71
+    distance_km: 5.267
+    distance_percent: 6.6489
+  counties:
+  - slug: czarnkowskotrzcianecki
+    name: czarnkowsko-trzcianecki
+    code: "3002"
+    distance_meters: 64328.33
+    distance_km: 64.328
+    distance_percent: 81.2111
+  - slug: pilski
+    name: pilski
+    code: "3019"
+    distance_meters: 14882.88
+    distance_km: 14.883
+    distance_percent: 18.7889
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 79211.21
+    distance_km: 79.211
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+    distance_meters: 39025.02
+    distance_km: 39.025
+    distance_percent: 49.267
+  - slug: pojezierze_waleckie
+    name: Pojezierze Wałeckie
+    code: "314.64"
+    distance_meters: 26909.76
+    distance_km: 26.91
+    distance_percent: 33.9722
+  - slug: dolina_srodkowej_noteci
+    name: Dolina Środkowej Noteci
+    code: "315.34"
+    distance_meters: 9061.93
+    distance_km: 9.062
+    distance_percent: 11.4402
+  - slug: dolina_gwdy
+    name: Dolina Gwdy
+    code: "314.68"
+    distance_meters: 4214.5
+    distance_km: 4.214
+    distance_percent: 5.3206
+  macro_regions:
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+    distance_meters: 48086.95
+    distance_km: 48.087
+    distance_percent: 60.7073
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 31124.26
+    distance_km: 31.124
+    distance_percent: 39.2927
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 79211.21
+    distance_km: 79.211
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 79211.21
+    distance_km: 79.211
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 79211.21
+    distance_km: 79.211
+    distance_percent: 100.0
+  touched_towns:
+  - slug: pila
+    name: Piła
+    code: "3019011"
+  - slug: szydlowo
+    name: Szydłowo
+    code: "3019062"
+  - slug: trzcianka
+    name: Trzcianka
+    code: "3002073"
+  - slug: czarnkow
+    name: Czarnków
+    code: "3002022"
+  - slug: wielen
+    name: Wieleń
+    code: "3002083"
+  - slug: krzyz_wielkopolski
+    name: Krzyż Wielkopolski
+    code: "3002043"
+  touched_counties:
+  - slug: pilski
+    name: pilski
+    code: "3019"
+  - slug: czarnkowskotrzcianecki
+    name: czarnkowsko-trzcianecki
+    code: "3002"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: dolina_gwdy
+    name: Dolina Gwdy
+    code: "314.68"
+  - slug: dolina_srodkowej_noteci
+    name: Dolina Środkowej Noteci
+    code: "315.34"
+  - slug: pojezierze_waleckie
+    name: Pojezierze Wałeckie
+    code: "314.64"
+  - slug: kotlina_gorzowska
+    name: Kotlina Gorzowska
+    code: "315.33"
+  touched_macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  - slug: pradolina_torunskoeberswaldzka
+    name: Pradolina Toruńsko-Eberswaldzka
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

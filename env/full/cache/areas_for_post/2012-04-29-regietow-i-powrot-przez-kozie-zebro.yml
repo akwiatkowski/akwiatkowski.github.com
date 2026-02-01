@@ -1,0 +1,93 @@
+---
+- type: hike
+  total_distance_meters: 22265.15
+  total_distance_km: 22.265
+  points_count: 305.0
+  towns:
+  - slug: uscie_gorlickie
+    name: Uście Gorlickie
+    code: "1205102"
+    distance_meters: 21218.83
+    distance_km: 21.219
+    distance_percent: 95.3007
+  counties:
+  - slug: gorlicki
+    name: gorlicki
+    code: "1205"
+    distance_meters: 21218.83
+    distance_km: 21.219
+    distance_percent: 95.3007
+  voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+    distance_meters: 21218.83
+    distance_km: 21.219
+    distance_percent: 95.3007
+  meso_regions:
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+    distance_meters: 21184.04
+    distance_km: 21.184
+    distance_percent: 95.1444
+  macro_regions:
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+    distance_meters: 21184.04
+    distance_km: 21.184
+    distance_percent: 95.1444
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 21184.04
+    distance_km: 21.184
+    distance_percent: 95.1444
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 21184.04
+    distance_km: 21.184
+    distance_percent: 95.1444
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 21184.04
+    distance_km: 21.184
+    distance_percent: 95.1444
+  touched_towns:
+  - slug: uscie_gorlickie
+    name: Uście Gorlickie
+    code: "1205102"
+  touched_counties:
+  - slug: gorlicki
+    name: gorlicki
+    code: "1205"
+  touched_voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+  touched_meso_regions:
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+  touched_macro_regions:
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

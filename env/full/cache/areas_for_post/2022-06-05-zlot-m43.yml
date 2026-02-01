@@ -1,0 +1,239 @@
+---
+- type: bicycle
+  total_distance_meters: 16802.11
+  total_distance_km: 16.802
+  points_count: 94.0
+  towns:
+  - slug: milicz
+    name: Milicz
+    code: "0213033"
+    distance_meters: 9639.39
+    distance_km: 9.639
+    distance_percent: 57.3701
+  - slug: sosnie
+    name: Sośnie
+    code: "3017082"
+    distance_meters: 5049.83
+    distance_km: 5.05
+    distance_percent: 30.0547
+  - slug: odolanow
+    name: Odolanów
+    code: "3017033"
+    distance_meters: 2112.89
+    distance_km: 2.113
+    distance_percent: 12.5752
+  counties:
+  - slug: milicki
+    name: milicki
+    code: "0213"
+    distance_meters: 9639.39
+    distance_km: 9.639
+    distance_percent: 57.3701
+  - slug: ostrowski
+    name: ostrowski
+    code: "3017"
+    distance_meters: 7162.72
+    distance_km: 7.163
+    distance_percent: 42.6299
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 9639.39
+    distance_km: 9.639
+    distance_percent: 57.3701
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 7162.72
+    distance_km: 7.163
+    distance_percent: 42.6299
+  meso_regions:
+  - slug: kotlina_milicka
+    name: Kotlina Milicka
+    code: "318.34"
+    distance_meters: 16802.11
+    distance_km: 16.802
+    distance_percent: 100.0
+  macro_regions:
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+    distance_meters: 16802.11
+    distance_km: 16.802
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 16802.11
+    distance_km: 16.802
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 16802.11
+    distance_km: 16.802
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 16802.11
+    distance_km: 16.802
+    distance_percent: 100.0
+  touched_towns:
+  - slug: milicz
+    name: Milicz
+    code: "0213033"
+  - slug: sosnie
+    name: Sośnie
+    code: "3017082"
+  - slug: odolanow
+    name: Odolanów
+    code: "3017033"
+  touched_counties:
+  - slug: milicki
+    name: milicki
+    code: "0213"
+  - slug: ostrowski
+    name: ostrowski
+    code: "3017"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: kotlina_milicka
+    name: Kotlina Milicka
+    code: "318.34"
+  touched_macro_regions:
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+- type: bicycle
+  total_distance_meters: 17752.28
+  total_distance_km: 17.752
+  points_count: 102.0
+  towns:
+  - slug: milicz
+    name: Milicz
+    code: "0213033"
+    distance_meters: 17752.28
+    distance_km: 17.752
+    distance_percent: 100.0
+  counties:
+  - slug: milicki
+    name: milicki
+    code: "0213"
+    distance_meters: 17752.28
+    distance_km: 17.752
+    distance_percent: 100.0
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 17752.28
+    distance_km: 17.752
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_milicka
+    name: Kotlina Milicka
+    code: "318.34"
+    distance_meters: 12268.39
+    distance_km: 12.268
+    distance_percent: 69.1088
+  - slug: wzgorza_twardogorskie
+    name: Wzgórza Twardogórskie
+    code: "318.45"
+    distance_meters: 5483.89
+    distance_km: 5.484
+    distance_percent: 30.8912
+  macro_regions:
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+    distance_meters: 12268.39
+    distance_km: 12.268
+    distance_percent: 69.1088
+  - slug: wal_trzebnicki
+    name: Wał Trzebnicki
+    code: "318"
+    distance_meters: 5483.89
+    distance_km: 5.484
+    distance_percent: 30.8912
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 17752.28
+    distance_km: 17.752
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 17752.28
+    distance_km: 17.752
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 17752.28
+    distance_km: 17.752
+    distance_percent: 100.0
+  touched_towns:
+  - slug: milicz
+    name: Milicz
+    code: "0213033"
+  touched_counties:
+  - slug: milicki
+    name: milicki
+    code: "0213"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: kotlina_milicka
+    name: Kotlina Milicka
+    code: "318.34"
+  - slug: wzgorza_twardogorskie
+    name: Wzgórza Twardogórskie
+    code: "318.45"
+  touched_macro_regions:
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+  - slug: wal_trzebnicki
+    name: Wał Trzebnicki
+    code: "318"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

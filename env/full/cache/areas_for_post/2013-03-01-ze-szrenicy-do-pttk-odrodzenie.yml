@@ -1,0 +1,129 @@
+---
+- type: hike
+  total_distance_meters: 11036.31
+  total_distance_km: 11.036
+  points_count: 127.0
+  towns:
+  - slug: jelenia_gora
+    name: Jelenia Góra
+    code: "0261011"
+    distance_meters: 2421.49
+    distance_km: 2.421
+    distance_percent: 21.9412
+  - slug: piechowice
+    name: Piechowice
+    code: "0206031"
+    distance_meters: 1855.81
+    distance_km: 1.856
+    distance_percent: 16.8155
+  - slug: szklarska_poreba
+    name: Szklarska Poręba
+    code: "0206041"
+    distance_meters: 1618.47
+    distance_km: 1.618
+    distance_percent: 14.6649
+  - slug: podgorzyn
+    name: Podgórzyn
+    code: 0206082
+    distance_meters: 260.89
+    distance_km: 0.261
+    distance_percent: 2.3639
+  counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+    distance_meters: 3735.16
+    distance_km: 3.735
+    distance_percent: 33.8443
+  - slug: jelenia_gora
+    name: Jelenia Góra
+    code: "0261"
+    distance_meters: 2421.49
+    distance_km: 2.421
+    distance_percent: 21.9412
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 6156.66
+    distance_km: 6.157
+    distance_percent: 55.7855
+  meso_regions:
+  - slug: karkonosze
+    name: Karkonosze
+    code: "332.37"
+    distance_meters: 5666.13
+    distance_km: 5.666
+    distance_percent: 51.3408
+  macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+    distance_meters: 5666.13
+    distance_km: 5.666
+    distance_percent: 51.3408
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 5666.13
+    distance_km: 5.666
+    distance_percent: 51.3408
+  subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+    distance_meters: 5666.13
+    distance_km: 5.666
+    distance_percent: 51.3408
+  provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"
+    distance_meters: 5666.13
+    distance_km: 5.666
+    distance_percent: 51.3408
+  touched_towns:
+  - slug: szklarska_poreba
+    name: Szklarska Poręba
+    code: "0206041"
+  - slug: piechowice
+    name: Piechowice
+    code: "0206031"
+  - slug: jelenia_gora
+    name: Jelenia Góra
+    code: "0261011"
+  - slug: podgorzyn
+    name: Podgórzyn
+    code: 0206082
+  touched_counties:
+  - slug: jeleniogorski
+    name: jeleniogórski
+    code: "0206"
+  - slug: jelenia_gora
+    name: Jelenia Góra
+    code: "0261"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: karkonosze
+    name: Karkonosze
+    code: "332.37"
+  touched_macro_regions:
+  - slug: sudety_zachodnie
+    name: Sudety Zachodnie
+    code: "332"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: sudety_z_przedgorzem_sudeckim
+    name: Sudety z Przedgórzem Sudeckim
+    code: "33"
+  touched_provinces:
+  - slug: masyw_czeski
+    name: Masyw Czeski
+    code: "3"

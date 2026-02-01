@@ -1,0 +1,93 @@
+---
+- type: bicycle
+  total_distance_meters: 10803.12
+  total_distance_km: 10.803
+  points_count: 86.0
+  towns:
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+    distance_meters: 10803.12
+    distance_km: 10.803
+    distance_percent: 100.0
+  counties:
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 10803.12
+    distance_km: 10.803
+    distance_percent: 100.0
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 10803.12
+    distance_km: 10.803
+    distance_percent: 100.0
+  meso_regions:
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 10803.12
+    distance_km: 10.803
+    distance_percent: 100.0
+  macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 10803.12
+    distance_km: 10.803
+    distance_percent: 100.0
+  mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 10803.12
+    distance_km: 10.803
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 10803.12
+    distance_km: 10.803
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 10803.12
+    distance_km: 10.803
+    distance_percent: 100.0
+  touched_towns:
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+  touched_counties:
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  touched_voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  touched_macro_regions:
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  touched_mega_regions:
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

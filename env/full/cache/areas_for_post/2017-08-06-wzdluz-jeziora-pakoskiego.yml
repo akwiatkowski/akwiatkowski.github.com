@@ -1,0 +1,156 @@
+---
+- type: bicycle
+  total_distance_meters: 37576.98
+  total_distance_km: 37.577
+  points_count: 123.0
+  towns:
+  - slug: janikowo
+    name: Janikowo
+    code: "0407053"
+    distance_meters: 9481.64
+    distance_km: 9.482
+    distance_percent: 25.2326
+  - slug: pakosc
+    name: Pakość
+    code: "0407073"
+    distance_meters: 9442.27
+    distance_km: 9.442
+    distance_percent: 25.1278
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+    distance_meters: 7295.64
+    distance_km: 7.296
+    distance_percent: 19.4152
+  - slug: zlotniki_kujawskie
+    name: Złotniki Kujawskie
+    code: 0407092
+    distance_meters: 5182.42
+    distance_km: 5.182
+    distance_percent: 13.7915
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+    distance_meters: 3296.08
+    distance_km: 3.296
+    distance_percent: 8.7715
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+    distance_meters: 2878.94
+    distance_km: 2.879
+    distance_percent: 7.6614
+  counties:
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+    distance_meters: 26985.26
+    distance_km: 26.985
+    distance_percent: 71.8133
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+    distance_meters: 10591.72
+    distance_km: 10.592
+    distance_percent: 28.1867
+  voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 37576.98
+    distance_km: 37.577
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+    distance_meters: 30205.27
+    distance_km: 30.205
+    distance_percent: 80.3824
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+    distance_meters: 7371.71
+    distance_km: 7.372
+    distance_percent: 19.6176
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 37576.98
+    distance_km: 37.577
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 37576.98
+    distance_km: 37.577
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 37576.98
+    distance_km: 37.577
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 37576.98
+    distance_km: 37.577
+    distance_percent: 100.0
+  touched_towns:
+  - slug: strzelno
+    name: Strzelno
+    code: 0409043
+  - slug: mogilno
+    name: Mogilno
+    code: 0409033
+  - slug: janikowo
+    name: Janikowo
+    code: "0407053"
+  - slug: pakosc
+    name: Pakość
+    code: "0407073"
+  - slug: zlotniki_kujawskie
+    name: Złotniki Kujawskie
+    code: 0407092
+  - slug: inowroclaw
+    name: Inowrocław
+    code: "0407042"
+  touched_counties:
+  - slug: mogilenski
+    name: mogileński
+    code: 0409
+  - slug: inowroclawski
+    name: inowrocławski
+    code: "0407"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  touched_meso_regions:
+  - slug: pojezierze_zninskomogilenskie
+    name: Pojezierze Żnińsko-Mogileńskie
+    code: "315.58"
+  - slug: rownina_inowroclawska
+    name: Równina Inowrocławska
+    code: "315.55"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

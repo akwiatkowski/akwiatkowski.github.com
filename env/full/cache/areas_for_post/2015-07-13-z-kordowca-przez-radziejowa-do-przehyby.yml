@@ -1,0 +1,129 @@
+---
+- type: bicycle
+  total_distance_meters: 11801.61
+  total_distance_km: 11.802
+  points_count: 240.0
+  towns:
+  - slug: piwnicznazdroj
+    name: Piwniczna-Zdrój
+    code: "1210133"
+    distance_meters: 4781.72
+    distance_km: 4.782
+    distance_percent: 40.5175
+  - slug: rytro
+    name: Rytro
+    code: "1210152"
+    distance_meters: 3996.09
+    distance_km: 3.996
+    distance_percent: 33.8606
+  - slug: szczawnica
+    name: Szczawnica
+    code: "1211023"
+    distance_meters: 2878.37
+    distance_km: 2.878
+    distance_percent: 24.3897
+  - slug: stary_sacz
+    name: Stary Sącz
+    code: "1210163"
+    distance_meters: 145.42
+    distance_km: 0.145
+    distance_percent: 1.2322
+  counties:
+  - slug: nowosadecki
+    name: nowosądecki
+    code: "1210"
+    distance_meters: 8923.24
+    distance_km: 8.923
+    distance_percent: 75.6103
+  - slug: nowotarski
+    name: nowotarski
+    code: "1211"
+    distance_meters: 2878.37
+    distance_km: 2.878
+    distance_percent: 24.3897
+  voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+    distance_meters: 11801.61
+    distance_km: 11.802
+    distance_percent: 100.0
+  meso_regions:
+  - slug: beskid_sadecki
+    name: Beskid Sądecki
+    code: "513.54"
+    distance_meters: 11801.61
+    distance_km: 11.802
+    distance_percent: 100.0
+  macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+    distance_meters: 11801.61
+    distance_km: 11.802
+    distance_percent: 100.0
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 11801.61
+    distance_km: 11.802
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 11801.61
+    distance_km: 11.802
+    distance_percent: 100.0
+  provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 11801.61
+    distance_km: 11.802
+    distance_percent: 100.0
+  touched_towns:
+  - slug: piwnicznazdroj
+    name: Piwniczna-Zdrój
+    code: "1210133"
+  - slug: rytro
+    name: Rytro
+    code: "1210152"
+  - slug: szczawnica
+    name: Szczawnica
+    code: "1211023"
+  - slug: stary_sacz
+    name: Stary Sącz
+    code: "1210163"
+  touched_counties:
+  - slug: nowosadecki
+    name: nowosądecki
+    code: "1210"
+  - slug: nowotarski
+    name: nowotarski
+    code: "1211"
+  touched_voivodeships:
+  - slug: malopolskie
+    name: MAŁOPOLSKIE
+    code: "12"
+  touched_meso_regions:
+  - slug: beskid_sadecki
+    name: Beskid Sądecki
+    code: "513.54"
+  touched_macro_regions:
+  - slug: beskidy_zachodnie
+    name: Beskidy Zachodnie
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

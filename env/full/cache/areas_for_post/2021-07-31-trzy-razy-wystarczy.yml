@@ -1,0 +1,306 @@
+---
+- type: bicycle
+  total_distance_meters: 106700.35
+  total_distance_km: 106.7
+  points_count: 576.0
+  towns:
+  - slug: susz
+    name: Susz
+    code: "2807063"
+    distance_meters: 21576.81
+    distance_km: 21.577
+    distance_percent: 20.2219
+  - slug: zalewo
+    name: Zalewo
+    code: "2807073"
+    distance_meters: 21215.11
+    distance_km: 21.215
+    distance_percent: 19.8829
+  - slug: kisielice
+    name: Kisielice
+    code: "2807043"
+    distance_meters: 17866.09
+    distance_km: 17.866
+    distance_percent: 16.7442
+  - slug: milomlyn
+    name: Miłomłyn
+    code: "2815073"
+    distance_meters: 11744.96
+    distance_km: 11.745
+    distance_percent: 11.0074
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2812022"
+    distance_meters: 11537.25
+    distance_km: 11.537
+    distance_percent: 10.8128
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+    distance_meters: 10038.3
+    distance_km: 10.038
+    distance_percent: 9.4079
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+    distance_meters: 6933.31
+    distance_km: 6.933
+    distance_percent: 6.4979
+  - slug: lasin
+    name: Łasin
+    code: "0406033"
+    distance_meters: 4205.32
+    distance_km: 4.205
+    distance_percent: 3.9412
+  - slug: ostroda
+    name: Ostróda
+    code: "2815011"
+    distance_meters: 2298.65
+    distance_km: 2.299
+    distance_percent: 2.1543
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+    distance_meters: 1583.19
+    distance_km: 1.583
+    distance_percent: 1.4838
+  counties:
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+    distance_meters: 62241.2
+    distance_km: 62.241
+    distance_percent: 58.3327
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+    distance_meters: 18678.27
+    distance_km: 18.678
+    distance_percent: 17.5054
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+    distance_meters: 11537.25
+    distance_km: 11.537
+    distance_percent: 10.8128
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+    distance_meters: 10038.3
+    distance_km: 10.038
+    distance_percent: 9.4079
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+    distance_meters: 4205.32
+    distance_km: 4.205
+    distance_percent: 3.9412
+  voivodeships:
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+    distance_meters: 92456.72
+    distance_km: 92.457
+    distance_percent: 86.6508
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+    distance_meters: 14243.62
+    distance_km: 14.244
+    distance_percent: 13.3492
+  meso_regions:
+  - slug: pojezierze_lasinskie
+    name: Pojezierze Łasińskie
+    code: "314.92"
+    distance_meters: 31835.92
+    distance_km: 31.836
+    distance_percent: 29.8368
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+    distance_meters: 28355.59
+    distance_km: 28.356
+    distance_percent: 26.575
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+    distance_meters: 20742.66
+    distance_km: 20.743
+    distance_percent: 19.4401
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+    distance_meters: 13924.5
+    distance_km: 13.924
+    distance_percent: 13.0501
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+    distance_meters: 6361.25
+    distance_km: 6.361
+    distance_percent: 5.9618
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+    distance_meters: 5480.43
+    distance_km: 5.48
+    distance_percent: 5.1363
+  macro_regions:
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+    distance_meters: 66503.08
+    distance_km: 66.503
+    distance_percent: 62.327
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+    distance_meters: 33836.02
+    distance_km: 33.836
+    distance_percent: 31.7113
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+    distance_meters: 6361.25
+    distance_km: 6.361
+    distance_percent: 5.9618
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 100339.1
+    distance_km: 100.339
+    distance_percent: 94.0382
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+    distance_meters: 6361.25
+    distance_km: 6.361
+    distance_percent: 5.9618
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 100339.1
+    distance_km: 100.339
+    distance_percent: 94.0382
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+    distance_meters: 6361.25
+    distance_km: 6.361
+    distance_percent: 5.9618
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 100339.1
+    distance_km: 100.339
+    distance_percent: 94.0382
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"
+    distance_meters: 6361.25
+    distance_km: 6.361
+    distance_percent: 5.9618
+  touched_towns:
+  - slug: jablonowo_pomorskie
+    name: Jabłonowo Pomorskie
+    code: "0402073"
+  - slug: biskupiec
+    name: Biskupiec
+    code: "2812022"
+  - slug: lasin
+    name: Łasin
+    code: "0406033"
+  - slug: kisielice
+    name: Kisielice
+    code: "2807043"
+  - slug: susz
+    name: Susz
+    code: "2807063"
+  - slug: ilawa
+    name: Iława
+    code: "2807032"
+  - slug: zalewo
+    name: Zalewo
+    code: "2807073"
+  - slug: milomlyn
+    name: Miłomłyn
+    code: "2815073"
+  - slug: ostroda
+    name: Ostróda
+    code: "2815092"
+  touched_counties:
+  - slug: brodnicki
+    name: brodnicki
+    code: "0402"
+  - slug: nowomiejski
+    name: nowomiejski
+    code: "2812"
+  - slug: grudziadzki
+    name: grudziądzki
+    code: "0406"
+  - slug: ilawski
+    name: iławski
+    code: "2807"
+  - slug: ostrodzki
+    name: ostródzki
+    code: "2815"
+  touched_voivodeships:
+  - slug: kujawskopomorskie
+    name: KUJAWSKO-POMORSKIE
+    code: "04"
+  - slug: warminskomazurskie
+    name: WARMIŃSKO-MAZURSKIE
+    code: "28"
+  touched_meso_regions:
+  - slug: pojezierze_brodnickie
+    name: Pojezierze Brodnickie
+    code: "315.12"
+  - slug: pojezierze_lasinskie
+    name: Pojezierze Łasińskie
+    code: "314.92"
+  - slug: rownina_ilawska
+    name: Równina Iławska
+    code: "314.93"
+  - slug: pojezierze_dzierzgonskomoraskie
+    name: Pojezierze Dzierzgońsko-Morąskie
+    code: "314.91"
+  - slug: rownina_olsztynka
+    name: Równina Olsztynka
+    code: "842.88"
+  - slug: dolina_drwecy
+    name: Dolina Drwęcy
+    code: "315.13"
+  touched_macro_regions:
+  - slug: pojezierze_chelminskodobrzynskie
+    name: Pojezierze Chełmińsko-Dobrzyńskie
+    code: 314-316
+  - slug: pojezierze_ilawskie
+    name: Pojezierze Iławskie
+    code: 314-316
+  - slug: pojezierze_mazurskie
+    name: Pojezierze Mazurskie
+    code: "842"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  - slug: niz_wschodnioeuropejski
+    name: Niż Wschodnioeuropejski
+    code: "2"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  - slug: pojezierze_wschodniobaltyckie
+    name: Pojezierze Wschodniobałtyckie
+    code: "84"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+  - slug: niz_wschodniobaltyckobialoruski
+    name: Niż Wschodniobałtycko-Białoruski
+    code: "8"

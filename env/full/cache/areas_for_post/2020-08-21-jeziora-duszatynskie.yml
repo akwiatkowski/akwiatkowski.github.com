@@ -1,0 +1,129 @@
+---
+- type: hike
+  total_distance_meters: 13299.3
+  total_distance_km: 13.299
+  points_count: 248.0
+  towns:
+  - slug: komancza
+    name: Komańcza
+    code: "1817042"
+    distance_meters: 13299.3
+    distance_km: 13.299
+    distance_percent: 100.0
+  counties:
+  - slug: sanocki
+    name: sanocki
+    code: "1817"
+    distance_meters: 13299.3
+    distance_km: 13.299
+    distance_percent: 100.0
+  voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+    distance_meters: 13299.3
+    distance_km: 13.299
+    distance_percent: 100.0
+  meso_regions:
+  - slug: bieszczady_zachodnie
+    name: Bieszczady Zachodnie
+    code: "522.12"
+    distance_meters: 9686.54
+    distance_km: 9.687
+    distance_percent: 72.835
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+    distance_meters: 3612.76
+    distance_km: 3.613
+    distance_percent: 27.165
+  macro_regions:
+  - slug: beskidy_lesiste
+    name: Beskidy Lesiste
+    code: "522"
+    distance_meters: 9686.54
+    distance_km: 9.687
+    distance_percent: 72.835
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+    distance_meters: 3612.76
+    distance_km: 3.613
+    distance_percent: 27.165
+  mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+    distance_meters: 13299.3
+    distance_km: 13.299
+    distance_percent: 100.0
+  subprovinces:
+  - slug: zewnetrzne_karpaty_wschodnie_beskidy_wschodnie
+    name: Zewnętrzne Karpaty Wschodnie (Beskidy Wschodnie)
+    code: "52"
+    distance_meters: 9686.54
+    distance_km: 9.687
+    distance_percent: 72.835
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+    distance_meters: 3612.76
+    distance_km: 3.613
+    distance_percent: 27.165
+  provinces:
+  - slug: karpaty_wschodnie_z_podkarpaciem_wschodnim
+    name: Karpaty Wschodnie z Podkarpaciem Wschodnim
+    code: "5"
+    distance_meters: 9686.54
+    distance_km: 9.687
+    distance_percent: 72.835
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"
+    distance_meters: 3612.76
+    distance_km: 3.613
+    distance_percent: 27.165
+  touched_towns:
+  - slug: komancza
+    name: Komańcza
+    code: "1817042"
+  touched_counties:
+  - slug: sanocki
+    name: sanocki
+    code: "1817"
+  touched_voivodeships:
+  - slug: podkarpackie
+    name: PODKARPACKIE
+    code: "18"
+  touched_meso_regions:
+  - slug: bieszczady_zachodnie
+    name: Bieszczady Zachodnie
+    code: "522.12"
+  - slug: beskid_niski
+    name: Beskid Niski
+    code: "513.71"
+  touched_macro_regions:
+  - slug: beskidy_lesiste
+    name: Beskidy Lesiste
+    code: "522"
+  - slug: beskidy_srodkowe
+    name: Beskidy Środkowe
+    code: "513"
+  touched_mega_regions:
+  - slug: karpaty_podkarpackie_i_nizina_panonska
+    name: Karpaty, Podkarpackie i Nizina Panońska
+    code: "0"
+  touched_subprovinces:
+  - slug: zewnetrzne_karpaty_wschodnie_beskidy_wschodnie
+    name: Zewnętrzne Karpaty Wschodnie (Beskidy Wschodnie)
+    code: "52"
+  - slug: zewnetrzne_karpaty_zachodnie
+    name: Zewnętrzne Karpaty Zachodnie
+    code: "51"
+  touched_provinces:
+  - slug: karpaty_wschodnie_z_podkarpaciem_wschodnim
+    name: Karpaty Wschodnie z Podkarpaciem Wschodnim
+    code: "5"
+  - slug: karpaty_zachodnie_z_podkarpaciem_zachodnim_i_polnocnym
+    name: Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym
+    code: "5"

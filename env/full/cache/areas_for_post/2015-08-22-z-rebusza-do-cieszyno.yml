@@ -1,0 +1,183 @@
+---
+- type: bicycle
+  total_distance_meters: 95667.44
+  total_distance_km: 95.667
+  points_count: 376.0
+  towns:
+  - slug: kalisz_pomorski
+    name: Kalisz Pomorski
+    code: "3203033"
+    distance_meters: 27314.32
+    distance_km: 27.314
+    distance_percent: 28.5513
+  - slug: zlocieniec
+    name: Złocieniec
+    code: "3203063"
+    distance_meters: 26399.52
+    distance_km: 26.4
+    distance_percent: 27.5951
+  - slug: drawno
+    name: Drawno
+    code: "3202033"
+    distance_meters: 16965.7
+    distance_km: 16.966
+    distance_percent: 17.734
+  - slug: wierzchowo
+    name: Wierzchowo
+    code: "3203052"
+    distance_meters: 12847.7
+    distance_km: 12.848
+    distance_percent: 13.4295
+  - slug: bierzwnik
+    name: Bierzwnik
+    code: "3202012"
+    distance_meters: 11464.23
+    distance_km: 11.464
+    distance_percent: 11.9834
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+    distance_meters: 675.97
+    distance_km: 0.676
+    distance_percent: 0.7066
+  counties:
+  - slug: drawski
+    name: drawski
+    code: "3203"
+    distance_meters: 66561.54
+    distance_km: 66.562
+    distance_percent: 69.576
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+    distance_meters: 29105.9
+    distance_km: 29.106
+    distance_percent: 30.424
+  voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+    distance_meters: 95667.44
+    distance_km: 95.667
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+    distance_meters: 34078.17
+    distance_km: 34.078
+    distance_percent: 35.6215
+  - slug: rownina_drawska
+    name: Równina Drawska
+    code: "314.63"
+    distance_meters: 31319.78
+    distance_km: 31.32
+    distance_percent: 32.7382
+  - slug: pojezierze_waleckie
+    name: Pojezierze Wałeckie
+    code: "314.64"
+    distance_meters: 19056.72
+    distance_km: 19.057
+    distance_percent: 19.9198
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+    distance_meters: 11212.76
+    distance_km: 11.213
+    distance_percent: 11.7206
+  macro_regions:
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+    distance_meters: 50376.5
+    distance_km: 50.376
+    distance_percent: 52.6579
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+    distance_meters: 45290.93
+    distance_km: 45.291
+    distance_percent: 47.3421
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 95667.44
+    distance_km: 95.667
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 95667.44
+    distance_km: 95.667
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 95667.44
+    distance_km: 95.667
+    distance_percent: 100.0
+  touched_towns:
+  - slug: bierzwnik
+    name: Bierzwnik
+    code: "3202012"
+  - slug: choszczno
+    name: Choszczno
+    code: "3202023"
+  - slug: drawno
+    name: Drawno
+    code: "3202033"
+  - slug: kalisz_pomorski
+    name: Kalisz Pomorski
+    code: "3203033"
+  - slug: wierzchowo
+    name: Wierzchowo
+    code: "3203052"
+  - slug: zlocieniec
+    name: Złocieniec
+    code: "3203063"
+  touched_counties:
+  - slug: choszczenski
+    name: choszczeński
+    code: "3202"
+  - slug: drawski
+    name: drawski
+    code: "3203"
+  touched_voivodeships:
+  - slug: zachodniopomorskie
+    name: ZACHODNIOPOMORSKIE
+    code: "32"
+  touched_meso_regions:
+  - slug: pojezierze_choszczenskie
+    name: Pojezierze Choszczeńskie
+    code: "314.42"
+  - slug: rownina_drawska
+    name: Równina Drawska
+    code: "314.63"
+  - slug: pojezierze_waleckie
+    name: Pojezierze Wałeckie
+    code: "314.64"
+  - slug: pojezierze_drawskie
+    name: Pojezierze Drawskie
+    code: "314.45"
+  touched_macro_regions:
+  - slug: pojezierze_zachodniopomorskie
+    name: Pojezierze Zachodniopomorskie
+    code: 314-316
+  - slug: pojezierze_poludniowopomorskie
+    name: Pojezierze Południowopomorskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

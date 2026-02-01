@@ -1,0 +1,111 @@
+---
+- type: bicycle
+  total_distance_meters: 49949.44
+  total_distance_km: 49.949
+  points_count: 287.0
+  towns:
+  - slug: zmigrod
+    name: Żmigród
+    code: "0220063"
+    distance_meters: 38704.08
+    distance_km: 38.704
+    distance_percent: 77.4865
+  - slug: milicz
+    name: Milicz
+    code: "0213033"
+    distance_meters: 11245.36
+    distance_km: 11.245
+    distance_percent: 22.5135
+  counties:
+  - slug: trzebnicki
+    name: trzebnicki
+    code: "0220"
+    distance_meters: 38704.08
+    distance_km: 38.704
+    distance_percent: 77.4865
+  - slug: milicki
+    name: milicki
+    code: "0213"
+    distance_meters: 11245.36
+    distance_km: 11.245
+    distance_percent: 22.5135
+  voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+    distance_meters: 49949.44
+    distance_km: 49.949
+    distance_percent: 100.0
+  meso_regions:
+  - slug: kotlina_zmigrodzka
+    name: Kotlina Żmigrodzka
+    code: "318.33"
+    distance_meters: 49949.44
+    distance_km: 49.949
+    distance_percent: 100.0
+  macro_regions:
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+    distance_meters: 49949.44
+    distance_km: 49.949
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 49949.44
+    distance_km: 49.949
+    distance_percent: 100.0
+  subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+    distance_meters: 49949.44
+    distance_km: 49.949
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 49949.44
+    distance_km: 49.949
+    distance_percent: 100.0
+  touched_towns:
+  - slug: zmigrod
+    name: Żmigród
+    code: "0220063"
+  - slug: milicz
+    name: Milicz
+    code: "0213033"
+  touched_counties:
+  - slug: trzebnicki
+    name: trzebnicki
+    code: "0220"
+  - slug: milicki
+    name: milicki
+    code: "0213"
+  touched_voivodeships:
+  - slug: dolnoslaskie
+    name: DOLNOŚLĄSKIE
+    code: "02"
+  touched_meso_regions:
+  - slug: kotlina_zmigrodzka
+    name: Kotlina Żmigrodzka
+    code: "318.33"
+  touched_macro_regions:
+  - slug: obnizenie_milickoglogowskie
+    name: Obniżenie Milicko-Głogowskie
+    code: "318"
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: niziny_srodkowopolskie
+    name: Niziny Środkowopolskie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"

@@ -1,0 +1,192 @@
+---
+- type: bicycle
+  total_distance_meters: 48906.15
+  total_distance_km: 48.906
+  points_count: 297.0
+  towns:
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+    distance_meters: 16351.94
+    distance_km: 16.352
+    distance_percent: 33.4353
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+    distance_meters: 9560.02
+    distance_km: 9.56
+    distance_percent: 19.5477
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+    distance_meters: 8128.48
+    distance_km: 8.128
+    distance_percent: 16.6206
+  - slug: rogozno
+    name: Rogoźno
+    code: "3016023"
+    distance_meters: 5983.73
+    distance_km: 5.984
+    distance_percent: 12.2351
+  - slug: suchy_las
+    name: Suchy Las
+    code: "3021152"
+    distance_meters: 4208.94
+    distance_km: 4.209
+    distance_percent: 8.6062
+  - slug: czerwonak
+    name: Czerwonak
+    code: "3021042"
+    distance_meters: 3252.24
+    distance_km: 3.252
+    distance_percent: 6.65
+  - slug: oborniki
+    name: Oborniki
+    code: "3016013"
+    distance_meters: 1420.8
+    distance_km: 1.421
+    distance_percent: 2.9052
+  counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+    distance_meters: 33373.14
+    distance_km: 33.373
+    distance_percent: 68.2391
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+    distance_meters: 9560.02
+    distance_km: 9.56
+    distance_percent: 19.5477
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+    distance_meters: 8128.48
+    distance_km: 8.128
+    distance_percent: 16.6206
+  - slug: obornicki
+    name: obornicki
+    code: "3016"
+    distance_meters: 7404.53
+    distance_km: 7.405
+    distance_percent: 15.1403
+  voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+    distance_meters: 48906.15
+    distance_km: 48.906
+    distance_percent: 100.0
+  meso_regions:
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+    distance_meters: 29808.31
+    distance_km: 29.808
+    distance_percent: 60.95
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+    distance_meters: 14673.88
+    distance_km: 14.674
+    distance_percent: 30.0042
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+    distance_meters: 4423.96
+    distance_km: 4.424
+    distance_percent: 9.0458
+  macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+    distance_meters: 48906.15
+    distance_km: 48.906
+    distance_percent: 100.0
+  mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+    distance_meters: 48906.15
+    distance_km: 48.906
+    distance_percent: 100.0
+  subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+    distance_meters: 48906.15
+    distance_km: 48.906
+    distance_percent: 100.0
+  provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
+    distance_meters: 48906.15
+    distance_km: 48.906
+    distance_percent: 100.0
+  touched_towns:
+  - slug: poznan
+    name: Poznań
+    code: "3064011"
+  - slug: suchy_las
+    name: Suchy Las
+    code: "3021152"
+  - slug: czerwonak
+    name: Czerwonak
+    code: "3021042"
+  - slug: murowana_goslina
+    name: Murowana Goślina
+    code: "3021113"
+  - slug: oborniki
+    name: Oborniki
+    code: "3016013"
+  - slug: skoki
+    name: Skoki
+    code: "3028053"
+  - slug: rogozno
+    name: Rogoźno
+    code: "3016023"
+  touched_counties:
+  - slug: poznanski
+    name: poznański
+    code: "3021"
+  - slug: poznan
+    name: Poznań
+    code: "3064"
+  - slug: obornicki
+    name: obornicki
+    code: "3016"
+  - slug: wagrowiecki
+    name: wągrowiecki
+    code: "3028"
+  touched_voivodeships:
+  - slug: wielkopolskie
+    name: WIELKOPOLSKIE
+    code: "30"
+  touched_meso_regions:
+  - slug: pojezierze_poznanskie
+    name: Pojezierze Poznańskie
+    code: "315.51"
+  - slug: poznanski_przelom_warty
+    name: Poznański Przełom Warty
+    code: "315.52"
+  - slug: pojezierze_gnieznienskie
+    name: Pojezierze Gnieźnieńskie
+    code: "315.54"
+  touched_macro_regions:
+  - slug: pojezierze_wielkopolskie
+    name: Pojezierze Wielkopolskie
+    code: 314-316
+  touched_mega_regions:
+  - slug: pozaalpejska_europa_srodkowa
+    name: Pozaalpejska Europa Środkowa
+    code: "1"
+  touched_subprovinces:
+  - slug: pojezierza_poludniowobaltyckie
+    name: Pojezierza Południowobałtyckie
+    code: "31"
+  touched_provinces:
+  - slug: niz_srodkowoeuropejski
+    name: Niż Środkowoeuropejski
+    code: "3"
