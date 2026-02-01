@@ -19,7 +19,8 @@ COMPILE_LOCAL_RELEASE_FLAG := --release
 
 .PHONY: dev_serve_local dev_serve_release dev_render_release dev_render_local \
         serve_local serve_release render_release render_local \
-        compile_local run_compiled_local run_compiled_local_check watch_coffee watch_local_mac
+        compile_local run_compiled_local run_compiled_local_check watch_coffee watch_local_mac \
+        dev-purge-html-local dev-purge-html-release purge-html-local purge-html-release
 
 # Assets
 watch_coffee:
@@ -63,3 +64,21 @@ run_compiled_local_check:
 # File watcher for macOS to compile and run with check
 watch_local_mac:
 	watchman-make -p '**/*.cr' '**/*.h' 'Makefile*' -t compile_local -p '**/*.md' 'tests/**/*.c' -t run_compiled_local_check
+
+# Purge generated files (HTML, XML, JSON, SVG) from output directories
+# Useful for validating that registry covers all views
+dev-purge-html-local:
+	@echo "Purging generated files from $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/local..."
+	find $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/local -type f \( -name "*.html" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -delete -print | wc -l | xargs -I {} echo "Deleted {} files"
+
+dev-purge-html-release:
+	@echo "Purging generated files from $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/release..."
+	find $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/release -type f \( -name "*.html" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -delete -print | wc -l | xargs -I {} echo "Deleted {} files"
+
+purge-html-local:
+	@echo "Purging generated files from $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/local..."
+	find $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/local -type f \( -name "*.html" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -delete -print | wc -l | xargs -I {} echo "Deleted {} files"
+
+purge-html-release:
+	@echo "Purging generated files from $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release..."
+	find $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release -type f \( -name "*.html" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -delete -print | wc -l | xargs -I {} echo "Deleted {} files"
