@@ -10,6 +10,7 @@ require "./services/town_photo_cache"
 require "./services/post_coord_quant_cache"
 require "./services/external_gpx_preprocessor"
 require "./services/tools/all"
+require "./render_context"
 
 class Tremolite::Blog
   def mod_watcher_summary

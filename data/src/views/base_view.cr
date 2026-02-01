@@ -5,12 +5,22 @@ class BaseView < Tremolite::Views::BaseView
   @tag_nav : String?
   @lands_nav : String?
 
+  # RenderContext provides typed access to common data
+  # Lazily created from @blog for backward compatibility
+  @context : RenderContext?
+
   def initialize(@blog : Tremolite::Blog, @url : String)
+  end
+
+  # Get or create RenderContext from @blog
+  # This enables gradual migration - views can use either @blog or context
+  def context : RenderContext
+    @context ||= RenderContext.new(@blog)
   end
 
   # helper
   def logger
-    @blog.logger
+    context.logger
   end
 
   getter :url
@@ -41,17 +51,17 @@ class BaseView < Tremolite::Views::BaseView
   HEAD_OPEN_HTML_KEY = "__html_head"
 
   # return if cached
-  # cache is performed bt HtmlBuffer
+  # cache is performed by HtmlBuffer
   def head_open_html
-    buffered_html = @blog.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?
+    buffered_html = context.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?
     return buffered_html.not_nil! if buffered_html
 
-    output_path = @blog.@output_path
+    output_path = context.output_path
     i = 0
 
     original_head = load_html("include/head_open")
 
-    @blog.html_buffer.buffer[HEAD_OPEN_HTML_KEY] = String.build do |s|
+    context.html_buffer.buffer[HEAD_OPEN_HTML_KEY] = String.build do |s|
       original_head.each_line do |line|
         href_scan_results = line.scan(/href=\"([^"]+)\"/)
         src_scan_results = line.scan(/src=\"([^"]+)\"/)
@@ -83,7 +93,7 @@ class BaseView < Tremolite::Views::BaseView
 
     Log.debug { "#{i} added cache fix for assets" }
 
-    return @blog.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?.not_nil!
+    return context.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?.not_nil!
   end
 
   def head_title_html
@@ -106,15 +116,15 @@ class BaseView < Tremolite::Views::BaseView
   end
 
   def site_title
-    @blog.data_manager.not_nil!["site.title"]
+    context.site_title
   end
 
   def site_desc
-    @blog.renderer.site_desc
+    context.site_desc
   end
 
   def site_url
-    @blog.data_manager.not_nil!["site.url"]
+    context.site_url
   end
 
   private def model_array_to_nav(
@@ -128,7 +138,7 @@ class BaseView < Tremolite::Views::BaseView
       url: String)).new
 
     model_array.each do |model|
-      count = @blog.post_collection.posts.select { |post| post.was_in?(model) && post.ready? }.size
+      count = context.post_count_for(model)
 
       if count >= ignore_less_than
         nav_array << {
@@ -205,7 +215,7 @@ class BaseView < Tremolite::Views::BaseView
   end
 
   private def nav_stats_cache
-    return @blog.data_manager.nav_stats_cache.not_nil!
+    context.nav_stats_cache
   end
 
   private def nav_stats_model_array_to_html(
@@ -236,7 +246,7 @@ class BaseView < Tremolite::Views::BaseView
 
   def nav_html
     h = nav_stats_cache.to_hash
-    h["site.title"] = @blog.data_manager.not_nil!["site.title"] if @blog.data_manager.not_nil!["site.title"]?
+    h["site.title"] = context.site_title if context["site.title"]?
 
     h["nav-voivodeships"] = nav_stats_model_array_to_html(
       array: nav_stats_cache.stats.voivodeships_nav,
@@ -266,7 +276,7 @@ class BaseView < Tremolite::Views::BaseView
 
   def footer_html
     h = Hash(String, String).new
-    h["site.title"] = @blog.data_manager.not_nil!["site.title"] if @blog.data_manager.not_nil!["site.title"]?
+    h["site.title"] = context.site_title if context["site.title"]?
     h["year"] = Time.local.year.to_s
 
     return load_html("include/footer", h)
