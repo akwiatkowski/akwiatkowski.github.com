@@ -1,0 +1,7 @@
+require "./geos/geos"
+require "./area_type"
+require "./area"
+require "./match_result"
+require "./loader"
+require "./haversine"
+require "./matcher"
