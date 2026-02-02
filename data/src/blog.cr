@@ -11,6 +11,7 @@ require "./services/post_coord_quant_cache"
 require "./services/external_gpx_preprocessor"
 require "./services/tools/all"
 require "./render_context"
+require "./post_renderer"
 require "./view_registry/all"
 
 class Tremolite::Blog
@@ -213,76 +214,24 @@ class Tremolite::Blog
     hide_not_finished : Bool,
   )
     # ============================================
-    # Per-post rendering (using RenderContext)
+    # Per-post rendering
     # ============================================
-    # These operations are per-post and depend on which specific
-    # posts changed, so they stay here rather than in the registry.
+    # These operations depend on which specific posts changed.
+    # Posts with photo/EXIF changes need full gallery rendering.
+    # Posts with only content changes need just article rendering.
 
-    ctx = RenderContext.new(self)
     post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
     post_to_render_only_post = post_to_render - post_to_render_galleries
 
-    # Posts that need gallery rendering (photos/exif changed)
-    post_to_render_galleries.each do |post|
-      Log.debug { "resize_all_images_for_post" }
-      @image_resizer.not_nil!.resize_all_images_for_post(
-        post: post,
-        overwrite: false
-      )
-
-      Log.debug { "#{post.slug} - preparing content" }
-      data_manager.exif_db.initialize_post_photos_exif(post)
-
-      Log.debug { "#{post.slug} - rendering post" }
-      ctx.write_output(PostView::ArticleView.new(
-        blog: self,
-        post: post,
-        hide_not_finished: hide_not_finished
-      ))
-
-      Log.debug { "#{post.slug} - rendering galleries" }
-      ctx.write_output(GalleryView::PostView.new(blog: self, post: post))
-      ctx.write_output(PostGalleryStatsView.new(blog: self, post: post))
-
-      Log.debug { "#{post.slug} - saving exif cache" }
-      data_manager.exif_db.save_cache(post.slug)
-
-      Log.info { "#{post.slug} - DONE" }
-    end
-
-    # Posts that only need post rendering (no gallery update)
-    post_to_render_only_post.each do |post|
-      Log.debug { "resize_all_images_for_post" }
-      @image_resizer.not_nil!.resize_all_images_for_post(
-        post: post,
-        overwrite: false
-      )
-
-      Log.debug { "#{post.slug} - preparing content" }
-      post.content_html
-
-      Log.debug { "#{post.slug} - rendering post" }
-      ctx.write_output(PostView::ArticleView.new(
-        blog: self,
-        post: post,
-        hide_not_finished: hide_not_finished
-      ))
-
-      Log.debug { "#{post.slug} - saving exif cache" }
-      data_manager.exif_db.save_cache(post.slug)
-
-      Log.debug { "#{post.slug} - DONE" }
-    end
+    post_renderer = PostRenderer.new(self)
+    post_renderer.render_with_galleries(post_to_render_galleries, hide_not_finished)
+    post_renderer.render_content_only(post_to_render_only_post, hide_not_finished)
 
     # ============================================
     # Registry-based rendering
     # ============================================
     # All aggregate views (entity pages, galleries, feeds, etc.)
-    # are now handled by the ViewRegistry. This includes:
-    # - Setup tasks (dev_render, copy_assets)
-    # - Cache tasks (nav_stats, town_photo, coord_quant)
-    # - EXIF initialization (when exifs_changed)
-    # - All aggregate views (towns, tags, galleries, feeds, etc.)
+    # are handled by the ViewRegistry.
 
     render_with_registry(
       posts_changed: posts_changed,
