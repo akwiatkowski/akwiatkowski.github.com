@@ -15,6 +15,40 @@ class ViewRegistry
 
   alias EntryBlock = Proc(RenderContext, Nil)
 
+  # ============================================
+  # Priority Ranges (single source of truth)
+  # ============================================
+  # Tasks run before views. Lower priority = runs first.
+
+  PRIORITY_GROUPS = [
+    {range: 1..2, name: "Setup tasks", desc: "Dev render, copy assets", is_task: true},
+    {range: 3..4, name: "EXIF tasks", desc: "Initialize EXIF data", is_task: true},
+    {range: 5..9, name: "Cache tasks", desc: "Refresh caches", is_task: true},
+    {range: 10..19, name: "Entity views", desc: "Towns, tags, voivodeships, lands", is_task: false},
+    {range: 20..29, name: "Home views", desc: "Home, map, POIs", is_task: false},
+    {range: 30..39, name: "Photo views", desc: "Galleries, photo maps", is_task: false},
+    {range: 40..49, name: "Stats views", desc: "Summary, year reports, burnout", is_task: false},
+    {range: 50..59, name: "Feed views", desc: "RSS, Atom, JSON, sitemap", is_task: false},
+    {range: 60..69, name: "Index views", desc: "Entity indexes", is_task: false},
+    {range: 90..99, name: "Static views", desc: "About, more, JS pages", is_task: false},
+    {range: 100..199, name: "Debug views", desc: "Diagnostic pages", is_task: false},
+  ]
+
+  # Convenience constants for use in registrations
+  module Priority
+    SETUP   = 1
+    EXIF    = 4
+    CACHE   = 5
+    ENTITY  = 10
+    HOME    = 20
+    PHOTO   = 30
+    STATS   = 40
+    FEED    = 50
+    INDEX   = 60
+    STATIC  = 90
+    DEBUG   = 100
+  end
+
   struct Entry
     property name : String
     property depends_on : Array(Symbol)
@@ -111,20 +145,75 @@ class ViewRegistry
     String.build do |io|
       io.puts "# View Registry"
       io.puts ""
-      io.puts "## Tasks (data preparation)"
+      io.puts "*Auto-generated from ViewRegistry. Do not edit manually.*"
       io.puts ""
-      io.puts "| Name | Depends On | Priority |"
-      io.puts "|------|------------|----------|"
-      tasks.sort_by(&.priority).each do |t|
-        io.puts "| #{t.name} | #{t.depends_on.join(", ")} | #{t.priority} |"
+
+      # Summary
+      io.puts "## Summary"
+      io.puts ""
+      io.puts "- **Tasks**: #{tasks.size}"
+      io.puts "- **Views**: #{views.size}"
+      io.puts "- **Total entries**: #{@entries.size}"
+      io.puts ""
+
+      # Dependency overview
+      io.puts "## What runs when..."
+      io.puts ""
+      io.puts "| Trigger | Entries |"
+      io.puts "|---------|---------|"
+      io.puts "| `:posts` changed | #{names_depending_on(:posts).size} entries |"
+      io.puts "| `:yamls` changed | #{names_depending_on(:yamls).size} entries |"
+      io.puts "| `:exifs` changed | #{names_depending_on(:exifs).size} entries |"
+      io.puts "| Always runs | #{@entries.count { |e| e.depends_on.empty? }} entries |"
+      io.puts ""
+
+      # Entries by category (using PRIORITY_GROUPS)
+      io.puts "## Entries by Category"
+      io.puts ""
+
+      PRIORITY_GROUPS.each do |group|
+        group_entries = @entries.select { |e| group[:range].includes?(e.priority) }.sort_by(&.priority)
+        next if group_entries.empty?
+
+        io.puts "### #{group[:name]} (priority #{group[:range]})"
+        io.puts ""
+        io.puts group[:desc]
+        io.puts ""
+        io.puts "| Priority | Name | Triggers |"
+        io.puts "|----------|------|----------|"
+        group_entries.each do |e|
+          triggers = e.depends_on.empty? ? "always" : e.depends_on.join(", ")
+          io.puts "| #{e.priority} | #{e.name} | #{triggers} |"
+        end
+        io.puts ""
       end
+
+      # Full dependency matrix
+      io.puts "## Dependency Matrix"
       io.puts ""
-      io.puts "## Views (render output)"
+      io.puts "```"
+      io.puts "Entry                            | Type | Pri | posts | yamls | exifs |"
+      io.puts "---------------------------------|------|-----|-------|-------|-------|"
+      @entries.sort_by(&.priority).each do |entry|
+        type = entry.is_task ? "task" : "view"
+        posts = entry.depends_on.includes?(:posts) ? "  ✓  " : "     "
+        yamls = entry.depends_on.includes?(:yamls) ? "  ✓  " : "     "
+        exifs = entry.depends_on.includes?(:exifs) ? "  ✓  " : "     "
+        io.puts "%-32s | %s | %3d | %s | %s | %s |" % [
+          entry.name[0, 32], type, entry.priority, posts, yamls, exifs
+        ]
+      end
+      io.puts "```"
       io.puts ""
-      io.puts "| Name | Depends On | Priority |"
-      io.puts "|------|------------|----------|"
-      views.sort_by(&.priority).each do |v|
-        io.puts "| #{v.name} | #{v.depends_on.join(", ")} | #{v.priority} |"
+
+      # Priority guide (generated from PRIORITY_GROUPS)
+      io.puts "## Priority Guide"
+      io.puts ""
+      io.puts "| Range | Type | Description |"
+      io.puts "|-------|------|-------------|"
+      PRIORITY_GROUPS.each do |group|
+        type_label = group[:is_task] ? "task" : "view"
+        io.puts "| #{group[:range]} | #{group[:name]} | #{group[:desc]} |"
       end
     end
   end
