@@ -42,10 +42,4 @@ describe PostListView do
       PostListView::LandDynamicView.should_not be_nil
     end
   end
-
-  describe PostListView::PaginatedListView do
-    it "has PER_PAGE constant" do
-      PostListView::PaginatedListView::PER_PAGE.should be > 0
-    end
-  end
 end

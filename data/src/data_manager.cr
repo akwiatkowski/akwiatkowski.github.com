@@ -17,8 +17,6 @@ class Tremolite::DataManager
     @photo_tags = Array(PhotoTagEntity).new
     # @land_types = Array(LandTypeEntity).new
     @lands = Array(LandEntity).new
-    @transport_pois = Array(TransportPoiEntity).new
-    @todo_routes = Array(TodoRouteEntity).new
     @portfolios = Array(PortfolioEntity).new
     @train_stations = Array(TrainStationEntity).new
     @ideas = Array(IdeaEntity).new
@@ -48,7 +46,7 @@ class Tremolite::DataManager
 
   getter :tags
   getter :towns, :town_slugs, :voivodeships
-  getter :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
+  getter :lands, :post_image_entities, :portfolios
   getter :ideas, :photo_tags, :train_stations
 
   getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
@@ -68,8 +66,6 @@ class Tremolite::DataManager
     load_lands # lands are needed before towns
     load_towns
     load_tags
-    load_transport_pois
-    load_todo_routes
     load_portfolio
     load_train_stations
     load_ideas
@@ -161,31 +157,6 @@ class Tremolite::DataManager
     YAML.parse(File.read(f)).as_a.each do |tag|
       o = PhotoTagEntity.new(tag)
       @photo_tags.not_nil! << o
-    end
-  end
-
-  def load_transport_pois
-    Log.debug { "loading transport pois" }
-
-    f = File.join([@config_path, "transport_pois.yml"])
-    YAML.parse(File.read(f)).as_a.each do |transport_poi|
-      o = TransportPoiEntity.new(transport_poi)
-      @transport_pois.not_nil! << o
-    end
-
-    # setup closest
-    @transport_pois.not_nil!.each do |transport_poi|
-      transport_poi.assign_closest_major(@transport_pois.not_nil!)
-    end
-  end
-
-  def load_todo_routes
-    Log.debug { "loading todo routes" }
-
-    f = File.join([@config_path, "todo_routes.yml"])
-    YAML.parse(File.read(f)).as_a.each do |tag|
-      o = TodoRouteEntity.new(y: tag, transport_pois: @transport_pois.not_nil!)
-      @todo_routes.not_nil! << o
     end
   end
 

@@ -1,3 +1,5 @@
+require "crystal_gpx"
+
 class PhotoCoordQuantCache
   Log = ::Log.for(self)
 

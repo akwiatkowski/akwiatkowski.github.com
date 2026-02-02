@@ -67,12 +67,6 @@ describe "Standalone Views" do
     end
   end
 
-  describe TodosView do
-    it "exists" do
-      TodosView.should_not be_nil
-    end
-  end
-
   describe LandView do
     it "exists" do
       LandView.should_not be_nil
