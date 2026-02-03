@@ -55,6 +55,9 @@ def setup_view_registry : ViewRegistry
   # Priority 10-19: Entity views (towns, tags, voivodeships, lands)
   register_entity_views(r)
 
+  # Priority 14-16: Area views (unified area system - show, post list, gallery)
+  register_area_views(r)
+
   # Priority 20-29: Home/list views (home, map, pois)
   register_home_views(r)
 

@@ -44,7 +44,7 @@ struct AreaAssociation
 
   # Comparison for sorting (by distance descending)
   def <=>(other : AreaAssociation) : Int32
-    other.distance_meters <=> distance_meters
+    (other.distance_meters <=> distance_meters) || 0
   end
 
   def to_s(io : IO)

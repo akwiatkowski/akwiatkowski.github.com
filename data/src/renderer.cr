@@ -1,5 +1,6 @@
 # Views required for per-post rendering and registry
 require "./views/page_view"
+require "./views/area_show_view"
 require "./views/post_view/article_view"
 require "./views/photo_map/all"
 require "./views/gallery_view/all"

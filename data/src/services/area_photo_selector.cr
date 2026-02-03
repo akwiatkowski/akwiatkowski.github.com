@@ -6,6 +6,8 @@ require "../models/photo_entity"
 class AreaPhotoSelector
   Log = ::Log.for(self)
 
+  @geo_photos : Array(PhotoEntity)
+
   def initialize(@photos : Array(PhotoEntity))
     # Filter to only photos with valid coordinates
     @geo_photos = @photos.select { |p| p.exif.lat && p.exif.lon }

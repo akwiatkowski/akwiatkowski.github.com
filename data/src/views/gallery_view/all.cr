@@ -1,5 +1,6 @@
 require "./abstract_index_view"
 require "./abstract_view"
+require "./area_gallery_view"
 require "./camera_index_view"
 require "./camera_view"
 require "./exposure_index_view"

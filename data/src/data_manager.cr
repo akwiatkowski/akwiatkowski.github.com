@@ -4,6 +4,8 @@ require "./services/nav_stats_cache"
 require "./services/exif_processor"
 require "./services/preloaded_post_referenced_links"
 require "./services/photo_coord_quant_cache"
+require "./services/area_data_loader"
+require "./services/area_photo_selector"
 
 require "./data_manager/exif_db"
 require "./data_manager/photo_map_dictionary"
@@ -42,6 +44,11 @@ class Tremolite::DataManager
     @photo_map_dictionary = PhotoMapDictionary.new(
       output_path: @blog.output_path
     )
+    @area_data_loader = AreaDataLoader.new(
+      config_path: @config_path,
+      cache_path: @blog.cache_path
+    )
+    @area_data_loader.not_nil!.load_areas
   end
 
   getter :tags
@@ -51,6 +58,7 @@ class Tremolite::DataManager
 
   getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
   getter :photo_map_dictionary
+  getter :area_data_loader
 
   def exif_db
     return @exif_db.not_nil!

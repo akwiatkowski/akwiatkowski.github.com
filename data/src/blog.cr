@@ -169,6 +169,11 @@ class Tremolite::Blog
     post_collection.initialize_posts
     Log.info { "PostCollection#initialize_posts DONE" }
 
+    # Set area_data_loader on all posts for area associations
+    area_loader = data_manager.not_nil!.area_data_loader.not_nil!
+    post_collection.posts.each { |post| post.area_data_loader = area_loader }
+    Log.info { "Set area_data_loader on #{post_collection.posts.size} posts" }
+
     populate_referenced_links
     Log.info { "Populated HtmlBuffer referenced links" }
 

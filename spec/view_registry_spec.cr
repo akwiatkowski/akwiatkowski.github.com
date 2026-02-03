@@ -170,8 +170,9 @@ describe "setup_view_registry" do
     it "registers all expected views" do
       r = setup_view_registry
 
-      # Should have 35 views total:
+      # Should have 38 views total:
       # - Entity views: 4 (towns, tags, voivodeships, lands)
+      # - Area views: 3 (show pages, post list pages, gallery pages)
       # - Home views: 3 (main, map, pois)
       # - Photo views: 2 (galleries, maps)
       # - Stats views: 5 (summary, year reports, burnout, towns history, towns timeline)
@@ -179,7 +180,7 @@ describe "setup_view_registry" do
       # - Index views: 2 (towns, lands)
       # - Static views: 7 (more, about, english, JS ideas, JS timeline, JS panoramio, JS exif stats)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
-      r.views.size.should eq(35)
+      r.views.size.should eq(38)
     end
 
     it "registers all entity views" do

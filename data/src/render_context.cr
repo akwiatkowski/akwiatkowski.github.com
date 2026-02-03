@@ -145,6 +145,25 @@ class RenderContext
     config.town_photo_cache.not_nil!
   end
 
+  def area_data_loader
+    config.area_data_loader.not_nil!
+  end
+
+  # Get areas of a specific type
+  def areas_of_type(type : AreaType) : Array(AreaEntity)
+    area_data_loader.areas_of_type(type)
+  end
+
+  # Get areas that have posts associated
+  def areas_with_posts(type : AreaType) : Array(AreaEntity)
+    areas_of_type(type).select { |area| posts_for_area(area).size > 0 }
+  end
+
+  # Get posts for an area entity
+  def posts_for_area(area : AreaEntity) : Array(Tremolite::Post)
+    posts.select { |post| post.was_in_area?(area) && post.ready? }
+  end
+
   # ============================================
   # Page Metadata
   # ============================================
