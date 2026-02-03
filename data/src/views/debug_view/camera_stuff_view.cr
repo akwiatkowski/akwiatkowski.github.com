@@ -1,7 +1,7 @@
 require "../wider_page_view"
 
-module DynamicView
-  class DebugPostCameraStuffView < WiderPageView
+module DebugView
+  class CameraStuffView < WiderPageView
     Log = ::Log.for(self)
 
     def initialize(context : RenderContext)

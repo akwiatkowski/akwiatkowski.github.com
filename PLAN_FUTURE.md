@@ -64,25 +64,28 @@ Benefits:
 - No need to track individual file names at call sites
 - Adding new view only requires updating `all.cr`
 
-Directories needing `all.cr`:
-- [ ] `views/dynamic_view/`
-- [x] `views/static_view/` (already has it)
-- [x] `views/post_list_view/` (already has it)
-- [ ] `views/gallery_view/`
-- [x] `views/special_view/` (already has it)
-- [ ] `views/photo_map/`
-- [x] `views/model_view/` (already has it)
+Directories with `all.cr`:
+- [x] `views/dynamic_view/`
+- [x] `views/static_view/`
+- [x] `views/post_list_view/`
+- [x] `views/gallery_view/`
+- [x] `views/special_view/`
+- [x] `views/photo_map/`
+- [x] `views/model_view/`
 
-### Debug Views Reorganization
+**Status:** All view directories have `all.cr` - COMPLETE
 
-Debug views could be moved to a separate namespace:
-- [ ] Create `DebugView` namespace (currently in `DynamicView::Debug*`)
-- [ ] Move to `/debug/` URL prefix (already done for some)
-- [ ] Consider priority: sometimes useful to render first for quick debugging
-- [ ] Views to migrate:
+### Debug Views Reorganization ✓ COMPLETE
+
+Debug views moved to separate `DebugView` namespace:
+- [x] Created `DebugView` namespace in `views/debug_view/`
+- [x] URLs unchanged (`/debug/*`)
+- [x] Priority unchanged (100+, runs last)
+- [x] Views migrated:
   - `DynamicView::DebugPostView` → `DebugView::PostsView`
   - `DynamicView::DebugPostCameraStuffView` → `DebugView::CameraStuffView`
   - `DynamicView::DebugPostMissingPhotosExifView` → `DebugView::MissingExifView`
+  - `DynamicView::DebugTagStatsView` → `DebugView::TagStatsView`
 
 ---
 

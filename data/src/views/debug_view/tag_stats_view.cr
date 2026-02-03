@@ -1,5 +1,7 @@
-module DynamicView
-  class DebugTagStatsView < WiderPageView
+require "../wider_page_view"
+
+module DebugView
+  class TagStatsView < WiderPageView
     Log = ::Log.for(self)
 
     def initialize(

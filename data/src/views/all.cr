@@ -1,6 +1,7 @@
 require "./helpers/all"
 require "./partials/all"
 
+require "./debug_view/all"
 require "./dynamic_view/all"
 require "./gallery_view/all"
 require "./model_view/all"

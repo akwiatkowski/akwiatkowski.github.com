@@ -15,7 +15,7 @@
 # Priority: 30-39 (after entity views, before stats views)
 #
 # View classes used: GalleryView::*, DynamicView::PortfolioView,
-# DynamicView::ExifStatsView, DynamicView::DebugTagStatsView,
+# DynamicView::ExifStatsView, DebugView::TagStatsView,
 # DynamicView::TimelinePhotoView, PhotoMap::*
 # (loaded via renderer.cr)
 #
@@ -207,7 +207,7 @@ def register_photo_views(r : ViewRegistry)
     ))
 
     # === Gallery stats ===
-    ctx.write_output(DynamicView::DebugTagStatsView.new(context: ctx))
+    ctx.write_output(DebugView::TagStatsView.new(context: ctx))
     ctx.write_output(DynamicView::TimelinePhotoView.new(context: ctx))
 
     # === Portfolio ===

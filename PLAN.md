@@ -294,9 +294,15 @@ Run `crystal spec` after each migration.
 
 ---
 
-## Step 6: Output History Comparator
+## Step 6: Output History Comparator ✓ COMPLETE
 
 Replace the basic diff in `HtmlBuffer` with a persistent history tracking system.
+
+**Implementation:** `data/src/services/output_history.cr`
+- Dark pastel theme for index.html
+- Syntax highlighting for diffs (+/- lines, @@ headers)
+- Console summary at end of render
+- Integrated with HtmlBuffer via `output_history` property
 
 ### 6.1 Requirements
 
@@ -512,7 +518,9 @@ Simple HTML page showing:
 
 **Tests:** 146 examples, 0 failures, 0 errors, 2 pending
 
+**Completed:**
+- [x] Step 6: Output History Comparator (dark theme, syntax highlighting, console summary)
+
 **Next steps (choose one):**
 1. Migrate `Map::Base`/`Map::Main` services → enables photo_map views migration
-2. Implement Step 6.0 (versioning history for HTML/SVG outputs)
-3. Clean up: remove `blog = ctx.blog` from registry where unused
+2. Clean up: remove `blog = ctx.blog` from registry where unused

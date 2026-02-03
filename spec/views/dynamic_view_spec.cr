@@ -55,27 +55,30 @@ describe DynamicView do
     end
   end
 
-  describe DynamicView::DebugPostView do
+end
+
+describe DebugView do
+  describe DebugView::PostsView do
     it "exists" do
-      DynamicView::DebugPostView.should_not be_nil
+      DebugView::PostsView.should_not be_nil
     end
   end
 
-  describe DynamicView::DebugTagStatsView do
+  describe DebugView::TagStatsView do
     it "exists" do
-      DynamicView::DebugTagStatsView.should_not be_nil
+      DebugView::TagStatsView.should_not be_nil
     end
   end
 
-  describe DynamicView::DebugPostCameraStuffView do
+  describe DebugView::CameraStuffView do
     it "exists" do
-      DynamicView::DebugPostCameraStuffView.should_not be_nil
+      DebugView::CameraStuffView.should_not be_nil
     end
   end
 
-  describe DynamicView::DebugPostMissingPhotosExifView do
+  describe DebugView::MissingExifView do
     it "exists" do
-      DynamicView::DebugPostMissingPhotosExifView.should_not be_nil
+      DebugView::MissingExifView.should_not be_nil
     end
   end
 end

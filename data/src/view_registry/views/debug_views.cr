@@ -15,9 +15,8 @@
 #
 # Priority: 100+ (lowest priority, runs last)
 #
-# View classes used: DynamicView::DebugPostView,
-# DebugPostCameraStuffView, DebugPostMissingPhotosExifView
-# (loaded via renderer.cr)
+# View classes: DebugView::PostsView, CameraStuffView,
+# MissingExifView, TagStatsView (loaded via renderer.cr)
 
 def register_debug_views(r : ViewRegistry)
   # ============================================
@@ -27,13 +26,13 @@ def register_debug_views(r : ViewRegistry)
   # Debug view showing post metadata and status.
   #
   # URL: /debug/posts.html
-  # View class: DynamicView::DebugPostView
+  # View class: DebugView::PostsView
   #
   # Dependencies: [:posts]
   #
   r.register("Debug: posts", [:posts], priority: 100) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug posts page" }
-    ctx.write_output(DynamicView::DebugPostView.new(context: ctx))
+    ctx.write_output(DebugView::PostsView.new(context: ctx))
   end
 
   # ============================================
@@ -43,13 +42,13 @@ def register_debug_views(r : ViewRegistry)
   # Debug view showing camera/lens usage statistics.
   #
   # URL: /debug/camera_stuff.html
-  # View class: DynamicView::DebugPostCameraStuffView
+  # View class: DebugView::CameraStuffView
   #
   # Dependencies: [:exifs]
   #
   r.register("Debug: camera stuff", [:exifs], priority: 101) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug camera stuff page" }
-    ctx.write_output(DynamicView::DebugPostCameraStuffView.new(context: ctx))
+    ctx.write_output(DebugView::CameraStuffView.new(context: ctx))
   end
 
   # ============================================
@@ -59,12 +58,12 @@ def register_debug_views(r : ViewRegistry)
   # Debug view showing photos with missing EXIF data.
   #
   # URL: /debug/missing_exif.html
-  # View class: DynamicView::DebugPostMissingPhotosExifView
+  # View class: DebugView::MissingExifView
   #
   # Dependencies: [:exifs]
   #
   r.register("Debug: missing EXIF", [:exifs], priority: 102) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug missing EXIF page" }
-    ctx.write_output(DynamicView::DebugPostMissingPhotosExifView.new(context: ctx))
+    ctx.write_output(DebugView::MissingExifView.new(context: ctx))
   end
 end
