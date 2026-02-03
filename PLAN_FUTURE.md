@@ -4,89 +4,18 @@ This document contains ideas and plans for future phases (beyond current work).
 
 ---
 
-## Phase 5: View Decoupling
+## Phase 5: View Decoupling - MOSTLY COMPLETE
 
-**Goal**: Remove `blog` dependency from view classes, improve testability
+**Status**: 55+ views migrated to `context: RenderContext`. See PLAN.md for details.
 
-### Problem
+### Remaining Work
 
-Currently views receive the entire `blog` object:
-```crystal
-PoisView.new(blog: ctx.blog, url: "/pois.html")
-```
+**Photo Map Views** (10 files):
+- Still use `@blog` because they pass it to `Map::Base`/`Map::Main` services
+- Requires migrating Map services first (lower priority)
 
-This has issues:
-- Views have access to everything (poor encapsulation)
-- Hard to test without full Blog instance
-- URL is passed at call site, not defined in view
-
-### Solution
-
-1. **Default URLs in view classes** - Each view defines its own URL
-2. **Views receive RenderContext** - Or only the specific data they need
-3. **No `blog` parameter** - Views don't know about Blog class
-
-### Target Pattern
-
-```crystal
-# Before (current):
-PoisView.new(blog: ctx.blog, url: "/pois.html")
-PostListView::TownDynamicView.new(blog: ctx.blog, town: town)
-
-# After (target):
-PoisView.new(context: ctx)  # URL defined in class
-TownDynamicView.new(context: ctx, town: town)
-```
-
-### View Class Changes
-
-```crystal
-# Before:
-class PoisView < BaseView
-  def initialize(@blog : Blog, @url : String)
-  end
-end
-
-# After:
-class PoisView < BaseView
-  URL = "/pois.html"
-
-  def initialize(@context : RenderContext)
-    @url = URL
-  end
-
-  # Access data via context
-  def posts
-    context.posts
-  end
-end
-```
-
-### Migration Steps
-
-1. [ ] Add `context` property to BaseView
-2. [ ] For each view class:
-   - [ ] Define `URL` constant (or method for dynamic URLs)
-   - [ ] Change constructor to receive `context` instead of `blog`
-   - [ ] Update internal `blog.xxx` calls to `context.xxx`
-3. [ ] Update registry blocks to use new pattern
-4. [ ] Remove `blog` parameter from view constructors
-
-### Benefits
-
-- **Better encapsulation** - Views only see what they need
-- **Easier testing** - MockRenderContext works directly
-- **Self-documenting** - URL defined where view is defined
-- **Consistent** - All views follow same pattern
-
-### Priority Order
-
-Start with simple views (single URL, few dependencies):
-1. StaticView classes (MoreView, MapView, etc.)
-2. PoisView
-3. DynamicView classes
-4. PostListView classes (have entity parameter)
-5. GalleryView classes (complex, many sub-views)
+**External dependency:**
+- `SiteMapGenerator` in Tremolite library still uses `blog`
 
 ---
 

@@ -292,31 +292,105 @@ Same pattern.
 
 Run `crystal spec` after each migration.
 
-### 6.0
+---
 
-Implement in every view or in place which is used to write view output. If it's
-html or svg there will send to "versioning history". It will store all non binary,
-non json (because jsons are big), and not too big (less than 500kB - put in constant)
+## Step 6: Output History Comparator
+
+Replace the basic diff in `HtmlBuffer` with a persistent history tracking system.
+
+### 6.1 Requirements
+
+**Purpose:** Track changes to rendered outputs across render sessions. Helps detect
+when small code changes cause unexpected large output changes.
+
+**What to track:**
+- HTML and SVG files only
+- Exclude: JSON files, binary files, files > 500KB
+
+**Storage location:** `env/dev/history/`
+
+**Storage structure:**
+```
+env/dev/history/
+├── index.html                           # Summary page (open in browser)
+└── tag__najnowsze.html/                 # Directory per output (flattened path)
+    ├── 2026-02-03__14-30                # Version 1 (oldest)
+    ├── 2026-02-03__14-35                # Version 2
+    ├── 2026-02-03__14-40                # Version 3 (newest)
+    └── 2026-02-03__14-40.diff           # Diff: v2 → v3
+```
+
+**Path flattening:** `/tag/najnowsze.html` → `tag__najnowsze.html`
+
+**Version limit:** Keep only 3 versions per file. Delete oldest when adding new.
+
+**Timestamp format:** `YYYY-mm-dd__HH-MM` (no colons, filesystem safe)
+
+### 6.2 Behavior
+
+**When content changes:**
+1. `HtmlBuffer#check` returns `true` (content differs)
+2. If file is trackable (HTML/SVG, <500KB, non-JSON):
+   - Save new content to history directory with timestamp
+   - Run `diff -u old_version new_version > timestamp.diff`
+   - Delete oldest version if > 3 versions
+3. Write file to disk (existing behavior)
+
+**When content unchanged:**
+- No history entry created
+- No diff generated
+
+**At end of render:**
+- Generate `index.html` listing all files that changed this session
+- Include inline diff preview or links to .diff files
+
+### 6.3 Implementation
+
+**New service:** `OutputHistory` class in `data/src/services/output_history.cr`
+
+```crystal
+class OutputHistory
+  MAX_SIZE = 500_000  # 500KB
+  MAX_VERSIONS = 3
+  HISTORY_PATH = "env/dev/history"
+
+  def trackable?(url : String, content : String) : Bool
+  def track(url : String, old_content : String, new_content : String)
+  def generate_index_html
+end
+```
+
+**Integration point:** Hook into `write_output` after `HtmlBuffer#check` returns true.
+
+**Remove:** `HtmlBuffer#display_diff_of_content` and `#diff_lines` methods (replaced by this feature).
+
+### 6.4 index.html Format
+
+Simple HTML page showing:
+- Render timestamp
+- List of changed files with:
+  - File path/URL
+  - Link to view diff
+  - Optionally: inline diff preview (collapsible)
 
 ---
 
 ## Deferred (Next Iteration)
 
-### Complex Views
-- `markdown_page_view.cr` - needs `pages_path`, `markdown_wrapper`
-- `more_view.cr` - needs `pages_path`, `data_path`
-- `article_view.cr` - critical path, needs careful testing
-- SVG map views - low priority
-- Gallery `abstract_view.cr` - base class, affects many views
+### Photo Map Views Migration
+- 10 photo_map views still use `@blog`
+- Requires migrating `Map::Base` and `Map::Main` services first
+- Lower priority - SVG generation works fine
 
 ### After All Views Migrated
 - Remove `context.config` public access
 - Remove `context[]` and `context[]?` methods
 - Services decoupling (separate work)
 
-### Logging Improvements (Phase 4)
+### Logging Improvements
 - Reduce log noise
 - Remove redundant log lines
+- Simplify timestamp format
 - Simplify timestamp format
 
 ---
