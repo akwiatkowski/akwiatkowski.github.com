@@ -4,7 +4,7 @@ class PhotoMap::MultiplePostsGridAndRoutesMapSvgView < PhotoMap::AbstractSvgView
   Log = ::Log.for(self)
 
   def initialize(
-    @blog : Tremolite::Blog,
+    @context : RenderContext,
     @photo_size : Int32,
     @url : String,
     @post_slugs : Array(String),
@@ -13,7 +13,7 @@ class PhotoMap::MultiplePostsGridAndRoutesMapSvgView < PhotoMap::AbstractSvgView
     @fixed_coord_range : CoordRange? = nil,
   )
     @map = Map::Base.new(
-      blog: @blog,
+      posts: context.posts,
       photo_size: @photo_size,
       tile: @tile,
       zoom: @zoom,
@@ -29,25 +29,8 @@ class PhotoMap::MultiplePostsGridAndRoutesMapSvgView < PhotoMap::AbstractSvgView
   end
 
   def photo_entities
-    return @blog.data_manager.exif_db.all_flatten_photo_entities.not_nil!.select do |photo_entity|
+    return context.exif_db.all_flatten_photo_entities.not_nil!.select do |photo_entity|
       @post_slugs.includes?(photo_entity.post_slug)
     end
-  end
-
-  getter :zoom
-
-  # a bit internal at this moment
-  def add_to_sitemap?
-    return false
-  end
-
-  getter :url
-
-  def output
-    to_svg
-  end
-
-  def to_svg
-    return @map.to_svg
   end
 end

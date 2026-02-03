@@ -8,7 +8,7 @@ class PhotoMap::PostRouteMapSvgView < PhotoMap::AbstractSvgView
   POST_ROUTE_SVG_WIDTH = 730
 
   def initialize(
-    @blog : Tremolite::Blog,
+    @context : RenderContext,
     @post : Tremolite::Post,
     @url : String,
     @tile : Map::MapTile = Map::MapTile::Ump,

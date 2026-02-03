@@ -4,7 +4,7 @@ class PhotoMap::PostBigMapSvgView < PhotoMap::AbstractSvgView
   Log = ::Log.for(self)
 
   def initialize(
-    @blog : Tremolite::Blog,
+    @context : RenderContext,
     @post : Tremolite::Post,
     @url : String,
     @tile : Map::MapTile = Map::MapTile::Ump,
@@ -13,7 +13,7 @@ class PhotoMap::PostBigMapSvgView < PhotoMap::AbstractSvgView
     @zoom = autozoom
 
     @map = Map::Base.new(
-      blog: @blog,
+      posts: context.posts,
       photo_size: Map::DEFAULT_PHOTO_SIZE,
       tile: @tile,
       zoom: @zoom,

@@ -8,7 +8,7 @@ class PhotoMap::IdeaRouteMapSvgView < PhotoMap::AbstractSvgView
   IDEA_ROUTE_SVG_WIDTH = POST_ROUTE_SVG_WIDTH
 
   def initialize(
-    @blog : Tremolite::Blog,
+    @context : RenderContext,
     @idea : IdeaEntity,
     @tile : Map::MapTile = Map::MapTile::Ump,
   )
@@ -26,7 +26,7 @@ class PhotoMap::IdeaRouteMapSvgView < PhotoMap::AbstractSvgView
 
   def routes
     return @idea.routes(
-      blog: @blog,
+      data_path: context.data_path,
       type: "bicycle"
     )
   end

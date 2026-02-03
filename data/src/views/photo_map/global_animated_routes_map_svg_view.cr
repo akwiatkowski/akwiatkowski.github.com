@@ -4,13 +4,13 @@ class PhotoMap::GlobalAnimatedRoutesMapSvgView < PhotoMap::AbstractSvgView
   Log = ::Log.for(self)
 
   def initialize(
-    @blog : Tremolite::Blog,
+    @context : RenderContext,
     @url : String,
     @tile : Map::MapTile = Map::MapTile::Ump,
     @zoom : Int32 = Map::DEFAULT_ZOOM,
   )
     @map = Map::Base.new(
-      blog: @blog,
+      posts: context.posts,
       tile: @tile,
       zoom: @zoom,
 
@@ -21,26 +21,5 @@ class PhotoMap::GlobalAnimatedRoutesMapSvgView < PhotoMap::AbstractSvgView
       routes_type: Map::MapRoutesType::Animated,
       photo_size: Map::DEFAULT_PHOTO_SIZE,
     )
-  end
-
-  def photo_entities
-    return @blog.data_manager.exif_db.all_flatten_photo_entities.not_nil!
-  end
-
-  getter :zoom
-
-  # a bit internal at this moment
-  def add_to_sitemap?
-    return false
-  end
-
-  getter :url
-
-  def output
-    to_svg
-  end
-
-  def to_svg
-    return @map.to_svg
   end
 end

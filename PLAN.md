@@ -495,21 +495,9 @@ Simple HTML page showing:
 - [x] `special_view/redirect_view.cr` (unused @blog removed)
 - [x] `static_view/js_bicycle_planner_view.cr` (unused @blog removed)
 
-### Views Still Using @blog (require service refactoring)
+### Views Still Using @blog
 
-**photo_map views** (10 files) - pass `@blog` to `Map::Base`/`Map::Main` services:
-- `abstract_svg_view.cr` (base class)
-- `global_grid_map_svg_view.cr`
-- `global_grid_and_routes_map_svg_view.cr`
-- `global_animated_routes_map_svg_view.cr`
-- `global_dots_map_svg_view.cr`
-- `post_big_map_svg_view.cr`
-- `post_route_map_svg_view.cr`
-- `multiple_posts_grid_and_routes_map_svg_view.cr`
-- `multiple_photo_entities_grid_map_svg_view.cr`
-- `idea_route_map_svg_view.cr`
-
-**Note:** These require migrating `Map::Base` and `Map::Main` services first.
+All views have been migrated to use `context: RenderContext`.
 
 **External dependency:**
 - `SiteMapGenerator` (Tremolite library)
@@ -520,7 +508,9 @@ Simple HTML page showing:
 
 **Completed:**
 - [x] Step 6: Output History Comparator (dark theme, syntax highlighting, console summary)
+- [x] Map services migration: All photo_map views now use `context: RenderContext`
 
-**Next steps (choose one):**
-1. Migrate `Map::Base`/`Map::Main` services → enables photo_map views migration
-2. Clean up: remove `blog = ctx.blog` from registry where unused
+**Next steps:**
+1. Remove remaining `ctx.blog` usages (entity_views.cr, setup_tasks.cr)
+2. Remove `context.config` public access
+3. Logging improvements

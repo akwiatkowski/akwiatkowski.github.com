@@ -236,7 +236,6 @@ def register_photo_views(r : ViewRegistry)
   #
   r.register("Photo maps: all", [:exifs], priority: 35) do |ctx|
     ViewRegistry::Log.info { "Rendering photo maps" }
-    blog = ctx.blog
 
     # Collections for index page
     photomaps_global = Hash(String, PhotoMap::AbstractSvgView).new
@@ -254,7 +253,7 @@ def register_photo_views(r : ViewRegistry)
       }.map(&.slug)
 
       big_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
-        blog: blog,
+        context: ctx,
         url: Map::LinkGenerator.url_photomap_for_voivodeship_big(voivodeship: voivodeship),
         zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
         photo_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
@@ -265,7 +264,7 @@ def register_photo_views(r : ViewRegistry)
       ctx.write_output(big_view)
 
       small_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
-        blog: blog,
+        context: ctx,
         url: Map::LinkGenerator.url_photomap_for_voivodeship_small(voivodeship: voivodeship),
         zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
         photo_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
@@ -282,7 +281,7 @@ def register_photo_views(r : ViewRegistry)
         if post.detailed_routes.not_nil![0].route.size > 0
           # Big map
           big_view = PhotoMap::PostBigMapSvgView.new(
-            blog: blog,
+            context: ctx,
             post: post,
             url: Map::LinkGenerator.url_photomap_for_post_big(post: post),
           )
@@ -291,7 +290,7 @@ def register_photo_views(r : ViewRegistry)
 
           # Small map
           small_view = PhotoMap::PostRouteMapSvgView.new(
-            blog: blog,
+            context: ctx,
             post: post,
             url: Map::LinkGenerator.url_photomap_for_post_small(post: post),
           )
@@ -303,7 +302,7 @@ def register_photo_views(r : ViewRegistry)
 
     # === Idea maps ===
     ctx.ideas.each do |idea|
-      ctx.write_output(PhotoMap::IdeaRouteMapSvgView.new(blog: blog, idea: idea))
+      ctx.write_output(PhotoMap::IdeaRouteMapSvgView.new(context: ctx, idea: idea))
     end
 
     # === Global maps ===
@@ -315,7 +314,7 @@ def register_photo_views(r : ViewRegistry)
     ]
     global_maps.each do |name, slug, zoom, photo_size, _type|
       view = PhotoMap::GlobalGridAndRoutesMapSvgView.new(
-        blog: blog,
+        context: ctx,
         url: Map::LinkGenerator.url_photomap_for_main(slug: slug),
         zoom: zoom,
         photo_size: photo_size,
@@ -326,7 +325,7 @@ def register_photo_views(r : ViewRegistry)
 
     # Animated
     animated_view = PhotoMap::GlobalAnimatedRoutesMapSvgView.new(
-      blog: blog,
+      context: ctx,
       url: Map::LinkGenerator.url_photomap_for_main(slug: "small_animated"),
       zoom: Map::DEFAULT_SMALL_ZOOM
     )
@@ -335,7 +334,7 @@ def register_photo_views(r : ViewRegistry)
 
     # Small detailed (grid only)
     small_detailed_view = PhotoMap::GlobalGridMapSvgView.new(
-      blog: blog,
+      context: ctx,
       url: Map::LinkGenerator.url_photomap_for_main(slug: "small_detailed"),
       zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM,
       photo_size: Map::DEFAULT_SMALL_DETAILED_PHOTO_SIZE,
@@ -345,7 +344,7 @@ def register_photo_views(r : ViewRegistry)
 
     # Dots
     dots_view = PhotoMap::GlobalDotsMapSvgView.new(
-      blog: blog,
+      context: ctx,
       url: Map::LinkGenerator.url_photomap_for_main(slug: "dots"),
       zoom: Map::DEFAULT_COARSE_ZOOM,
       photo_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
@@ -361,7 +360,7 @@ def register_photo_views(r : ViewRegistry)
         pe.tags.includes?(tag)
       }
       view = PhotoMap::MultiplePhotoEntitiesGridMapSvgView.new(
-        blog: blog,
+        context: ctx,
         url: Map::LinkGenerator.url_photomap_for_tag(slug: tag),
         zoom: Map::DEFAULT_TAG_ZOOM,
         photo_size: Map::DEFAULT_TAG_PHOTO_SIZE,

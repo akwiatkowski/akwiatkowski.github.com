@@ -4,17 +4,15 @@ This document contains ideas and plans for future phases (beyond current work).
 
 ---
 
-## Phase 5: View Decoupling - MOSTLY COMPLETE
+## Phase 5: View Decoupling - COMPLETE
 
-**Status**: 55+ views migrated to `context: RenderContext`. See PLAN.md for details.
+**Status**: All views migrated to `context: RenderContext`. See PLAN.md for details.
 
-### Remaining Work
+- [x] 55+ views migrated
+- [x] Photo Map Views (10 files) - migrated, `Map::Base` now takes `posts` parameter
+- [x] `IdeaEntity#routes` updated to take `data_path` instead of `blog`
 
-**Photo Map Views** (10 files):
-- Still use `@blog` because they pass it to `Map::Base`/`Map::Main` services
-- Requires migrating Map services first (lower priority)
-
-**External dependency:**
+**External dependency (unchanged):**
 - `SiteMapGenerator` in Tremolite library still uses `blog`
 
 ---

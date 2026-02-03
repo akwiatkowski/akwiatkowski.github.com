@@ -4,7 +4,7 @@ class PhotoMap::AbstractSvgView < Tremolite::Views::AbstractView
   Log = ::Log.for(self)
 
   def initialize(
-    @blog : Tremolite::Blog,
+    @context : RenderContext,
     @url : String,
     @tile : Map::MapTile = Map::MapTile::Ump,
     @zoom : Int32 = Map::DEFAULT_ZOOM,
@@ -16,7 +16,7 @@ class PhotoMap::AbstractSvgView < Tremolite::Views::AbstractView
     return false
   end
 
-  getter :url, :zoom
+  getter :url, :zoom, :context
 
   def output
     to_svg

@@ -4,14 +4,14 @@ class PhotoMap::GlobalGridMapSvgView < PhotoMap::AbstractSvgView
   Log = ::Log.for(self)
 
   def initialize(
-    @blog : Tremolite::Blog,
+    @context : RenderContext,
     @photo_size : Int32,
     @url : String,
     @tile : Map::MapTile = Map::MapTile::Ump,
     @zoom : Int32 = Map::DEFAULT_ZOOM,
   )
     @map = Map::Base.new(
-      blog: @blog,
+      posts: context.posts,
       photo_size: @photo_size,
       tile: @tile,
       zoom: @zoom,
@@ -25,7 +25,7 @@ class PhotoMap::GlobalGridMapSvgView < PhotoMap::AbstractSvgView
   end
 
   def photo_entities
-    return @blog.data_manager.exif_db.all_flatten_photo_entities.not_nil!
+    return context.exif_db.all_flatten_photo_entities.not_nil!
   end
 
   getter :zoom

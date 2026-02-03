@@ -47,8 +47,8 @@ struct IdeaEntity
 
   # load and process assigned YAML coord file and generate array of PostRouteObject
   # TODO: maybe move it to service?
-  def routes(blog : Tremolite::Blog, type : String) : Array(PostRouteObject)
-    ideas_path = File.join([blog.data_path, "ideas"])
+  def routes(data_path : String, type : String) : Array(PostRouteObject)
+    ideas_path = File.join([data_path, "ideas"])
     idea_routes_path = File.join([ideas_path, "#{slug}.json"])
 
     json = File.open(idea_routes_path) do |file|

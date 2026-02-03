@@ -9,7 +9,7 @@ class Map::Base
   Log = ::Log.for(self)
 
   def initialize(
-    @blog : Tremolite::Blog,
+    posts : Array(Tremolite::Post),
     @tile = Map::MapTile::Ump,
     @type = MapType::Blank,
     @zoom = DEFAULT_ZOOM,
@@ -58,94 +58,26 @@ class Map::Base
       photo_entity.exif.not_nil!.lat != nil && photo_entity.exif.not_nil!.lon != nil
     end.as(Array(PhotoEntity))
 
-    # TODO: do we need it?
-    # # select only photos which are within @coord_range
-    # if @coord_range
-    #   photos_w_coords = photos_w_coords.select do |photo_entity|
-    #     @coord_range.not_nil!.is_within?(
-    #       lat: photo_entity.exif.not_nil!.lat.not_nil!,
-    #       lon: photo_entity.exif.not_nil!.lon.not_nil!,
-    #     )
-    #   end
-    # end
-
     @photos = photos_w_coords.as(Array(PhotoEntity))
 
     Log.debug { "selected #{@photos.size} photos with lat/lon" }
 
-    # ## END OF PHOTOS FILTER
-
-    # set geo range using photos
-    # if @photos.size > 0
-    #   @photos.each do |photo|
-    #     lat = photo.exif.not_nil!.lat.not_nil!
-    #     lon = photo.exif.not_nil!.lon.not_nil!
-    #     @internal_coord_range.enlarge!(lat, lon)
-    #   end
-    #
-    #   Log.debug { "area from photos #{@internal_coord_range.to_s}" }
-    # end
-
-    # ## POSTS (for routes)
-
-    posts = @blog.post_collection.posts.sort.as(Array(Tremolite::Post))
-
-    # filter posts photos
-    # routes are taken from this later
+    # Filter posts by slug if needed
+    filtered_posts = posts.sort.as(Array(Tremolite::Post))
     if @post_slugs.size > 0
-      Log.debug { "pre post_slug filter #{posts.size}" }
-
-      posts = posts.select do |post|
+      Log.debug { "pre post_slug filter #{filtered_posts.size}" }
+      filtered_posts = filtered_posts.select do |post|
         @post_slugs.includes?(post.slug)
       end
-
-      Log.debug { "after post_slug filter #{posts.size}" }
+      Log.debug { "after post_slug filter #{filtered_posts.size}" }
     end
 
     # select only posts with routes/coords
-    @posts = posts.select do |post|
+    @posts = filtered_posts.select do |post|
       post.detailed_routes.size > 0
     end.as(Array(Tremolite::Post))
 
-    # enlarge coord range
-    # if @posts.size > 0
-    #   array = @posts.map { |post| post.detailed_routes }.flatten.compact
-    #   array = [array] if array.is_a?(PostRouteObject)
-    #   routes_coord_range = PostRouteObject.array_to_coord_range(
-    #     array: array
-    #   )
-    #
-    #   if routes_coord_range
-    #     Log.debug { "routes_coord_range #{routes_coord_range}" }
-    #
-    #     routes_coord_range = routes_coord_range.not_nil!
-    #     # when we don't have photos near edges of route (I haven't took photo
-    #     # soon after start riding) we need to enlarge coord range to make
-    #     # all route point visible on map
-    #
-    #     if !@internal_coord_range.valid? || @todo_do_not_crop_routes
-    #       @internal_coord_range.enlarge!(routes_coord_range)
-    #       Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
-    #     end
-    #   end
-    # end
-
-    # ## END OF POSTS
-
-    # if @coord_range
-    #   @internal_coord_range = @coord_range.not_nil!
-    #   Log.debug { "coord_range was provided" }
-    # end
-    #
-    # Log.debug { "area #{@internal_coord_range.to_s}" }
-
-    # only towns with coords
-    @towns = @blog.data_manager.not_nil!.towns.not_nil!.select do |town|
-      town.lat && town.lon
-    end.as(Array(TownEntity))
-
-    Log.debug { "#{@posts.size} posts" }
-    Log.debug { "#{@towns.size} towns" }
+    Log.debug { "#{@posts.size} posts with routes" }
 
     # tiles will be first initial
     @instance = Main.new(
