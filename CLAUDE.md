@@ -65,6 +65,7 @@ data/src/views/
 ├── page_view.cr         # PageView - HTML page wrapper
 ├── post_list_view/      # Entity collection pages (towns, tags, etc.)
 ├── dynamic_view/        # Data-heavy pages (stats, reports)
+├── debug_view/          # Debug/diagnostic pages (DebugView namespace)
 ├── static_view/         # JS-heavy pages (map, timeline)
 ├── gallery_view/        # Photo galleries
 ├── special_view/        # RSS, Atom, JSON generators
@@ -217,7 +218,10 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 
 - 2026-02-02: Initial creation with view registry structure
 - 2026-02-02: PostRenderer extracted from blog.cr
-- 2026-02-03: Major view decoupling - 39 views migrated from @blog to context: RenderContext
+- 2026-02-03: View decoupling complete - all 55+ views use context: RenderContext
+- 2026-02-03: Output History Comparator added (data/src/services/output_history.cr)
+- 2026-02-03: DebugView namespace created (moved from DynamicView)
+- 2026-02-03: Map::Base migrated to take posts parameter instead of blog
 
 ---
 
