@@ -262,9 +262,10 @@ class Tremolite::Blog
     )
 
     # ============================================
-    # Generate history index
+    # Generate history index and summary
     # ============================================
     output_history.generate_index_html
+    output_history.print_summary
   end
 
   # TODO check if it's used

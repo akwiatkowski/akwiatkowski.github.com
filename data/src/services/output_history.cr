@@ -98,7 +98,7 @@ class OutputHistory
           diff_content = File.read(file[:diff_path].not_nil!)
           s << "<details>\n"
           s << "<summary>Show diff (#{diff_content.lines.size} lines)</summary>\n"
-          s << "<pre class=\"diff\">#{escape_html(diff_content)}</pre>\n"
+          s << "<pre class=\"diff\">#{format_diff(diff_content)}</pre>\n"
           s << "</details>\n"
         else
           s << "<span class=\"new-file\">(new file)</span>\n"
@@ -118,6 +118,48 @@ class OutputHistory
   # Get count of changed files this session
   def changed_count : Int32
     @changed_files.size
+  end
+
+  # Print summary to console at end of render
+  def print_summary
+    if @changed_files.empty?
+      Log.info { "No output changes detected" }
+      return
+    end
+
+    # Count files with diffs vs new files
+    with_diff = @changed_files.count { |f| f[:diff_path] && File.exists?(f[:diff_path].not_nil!) }
+    new_files = @changed_files.size - with_diff
+
+    # Build summary
+    Log.info { "─" * 50 }
+    Log.info { "Output History: #{@changed_files.size} file(s) changed" }
+
+    if new_files > 0
+      Log.info { "  New files: #{new_files}" }
+    end
+    if with_diff > 0
+      Log.info { "  Modified:  #{with_diff}" }
+    end
+
+    # For small changes, show file list
+    if @changed_files.size <= 10
+      @changed_files.each do |file|
+        marker = file[:diff_path] ? "~" : "+"
+        Log.info { "  #{marker} #{file[:url]}" }
+      end
+    else
+      # For large changes, show first 5 and count
+      @changed_files.first(5).each do |file|
+        marker = file[:diff_path] ? "~" : "+"
+        Log.info { "  #{marker} #{file[:url]}" }
+      end
+      Log.info { "  ... and #{@changed_files.size - 5} more" }
+    end
+
+    index_path = File.join(@history_path, "index.html")
+    Log.info { "  Details: #{index_path}" }
+    Log.info { "─" * 50 }
   end
 
   private def ensure_history_dir
@@ -200,6 +242,24 @@ class OutputHistory
       .gsub(">", "&gt;")
   end
 
+  private def format_diff(diff_content : String) : String
+    diff_content.lines.map do |line|
+      escaped = escape_html(line)
+      case
+      when line.starts_with?("+++"), line.starts_with?("---")
+        "<span class=\"diff-file\">#{escaped}</span>"
+      when line.starts_with?("@@")
+        "<span class=\"diff-hunk\">#{escaped}</span>"
+      when line.starts_with?("+")
+        "<span class=\"diff-add\">#{escaped}</span>"
+      when line.starts_with?("-")
+        "<span class=\"diff-del\">#{escaped}</span>"
+      else
+        escaped
+      end
+    end.join("\n")
+  end
+
   private def css_styles : String
     <<-CSS
       body {
@@ -207,37 +267,44 @@ class OutputHistory
         max-width: 1200px;
         margin: 0 auto;
         padding: 20px;
-        background: #f5f5f5;
+        background: #1a1a2e;
+        color: #a8b2c3;
       }
-      h1 { color: #333; }
-      .timestamp { color: #666; font-size: 14px; }
-      .summary { font-weight: bold; color: #0066cc; }
+      h1 { color: #c9b8e8; }
+      .timestamp { color: #7a8599; font-size: 14px; }
+      .summary { font-weight: bold; color: #8bc6d4; }
       .file-list { list-style: none; padding: 0; }
       .file-list li {
-        background: white;
+        background: #252540;
         margin: 10px 0;
         padding: 15px;
         border-radius: 5px;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        border: 1px solid #3a3a5c;
       }
-      .url { font-family: monospace; font-weight: bold; }
-      .time { color: #666; margin-left: 10px; font-size: 12px; }
-      .new-file { color: #28a745; margin-left: 10px; }
+      .url { font-family: monospace; font-weight: bold; color: #d4bfff; }
+      .time { color: #7a8599; margin-left: 10px; font-size: 12px; }
+      .new-file { color: #a8d8a8; margin-left: 10px; }
       details { margin-top: 10px; }
       summary {
         cursor: pointer;
-        color: #0066cc;
+        color: #8bc6d4;
         font-size: 14px;
       }
+      summary:hover { color: #a8dce8; }
       .diff {
-        background: #1e1e1e;
-        color: #d4d4d4;
+        background: #16162a;
+        color: #a8b2c3;
         padding: 15px;
         border-radius: 5px;
         overflow-x: auto;
         font-size: 12px;
-        line-height: 1.4;
+        line-height: 1.5;
+        border: 1px solid #2a2a4a;
       }
+      .diff-file { color: #c9b8e8; font-weight: bold; }
+      .diff-hunk { color: #8bc6d4; }
+      .diff-add { color: #a8d8a8; }
+      .diff-del { color: #e8a8a8; }
     CSS
   end
 end
