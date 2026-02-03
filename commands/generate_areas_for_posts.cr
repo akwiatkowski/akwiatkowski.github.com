@@ -17,8 +17,62 @@ class Commands::GenerateAreasForPosts
       process_env(env)
     end
 
+    # Generate area config files (once, not per-env)
+    puts "\n=== Generating area config files ==="
+    generate_area_configs
+
     @matcher.finalize
     puts "\nDone!"
+  end
+
+  # Generate area config files from data/external/ to data/config/areas/
+  private def generate_area_configs
+    output_dir = "data/config/areas"
+    Dir.mkdir_p(output_dir) unless Dir.exists?(output_dir)
+
+    generate_area_config("towns", @matcher.towns, output_dir)
+    generate_area_config("counties", @matcher.counties, output_dir)
+    generate_area_config("voivodeships", @matcher.voivodeships, output_dir)
+    generate_area_config("meso_regions", @matcher.meso_regions, output_dir)
+    generate_area_config("macro_regions", @matcher.macro_regions, output_dir)
+  end
+
+  private def generate_area_config(name : String, areas : Array(AreaMatcher::Area), output_dir : String)
+    data = areas.map do |area|
+      entry = {
+        "slug" => area.slug,
+        "name" => area.name,
+        "code" => area.code || area.terc,
+      } of String => String | Hash(String, Float64) | Nil
+
+      # Add voivodeship for administrative areas
+      if area.voivodeship
+        entry["voivodeship"] = area.voivodeship
+      end
+
+      # Compute bbox from polygon coords
+      if area.coords.size > 0
+        entry["bbox"] = compute_bbox(area.coords)
+      end
+
+      entry
+    end
+
+    output_path = File.join([output_dir, "#{name}.yml"])
+    File.write(output_path, data.to_yaml)
+    puts "Generated #{name}.yml with #{data.size} entries"
+  end
+
+  private def compute_bbox(coords : Array(Array(Float64))) : Hash(String, Float64)
+    # coords are [lon, lat] for GEOS
+    lons = coords.map { |c| c[0] }
+    lats = coords.map { |c| c[1] }
+    {
+      "south" => lats.min,
+      "north" => lats.max,
+      "west"  => lons.min,
+      "east"  => lons.max,
+    }
   end
 
   private def process_env(env : String)
