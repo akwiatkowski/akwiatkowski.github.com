@@ -7,8 +7,8 @@ module PostListView
     URL   = "/tag/najnowsze.html"
     COUNT = 20
 
-    def initialize(@blog : Tremolite::Blog, @only_ready = true)
-      sorted_posts = @blog.post_collection.posts.select do |post|
+    def initialize(context : RenderContext, @only_ready = true)
+      sorted_posts = context.posts.select do |post|
         post.finished_at
       end.sort do |a, b|
         b.finished_at.not_nil! <=> a.finished_at.not_nil!
@@ -16,9 +16,12 @@ module PostListView
 
       @posts = sorted_posts[0...COUNT].as(Array(Tremolite::Post))
 
-      @filter_by = "slugs"
-      @filter_value = @posts.map { |post| "'#{post.slug}'" }.join(",")
-      @url = URL
+      super(
+        context: context,
+        url: URL,
+        filter_by: "slugs",
+        filter_value: @posts.map { |post| "'#{post.slug}'" }.join(",")
+      )
     end
 
     def render_date

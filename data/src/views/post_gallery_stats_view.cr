@@ -5,8 +5,9 @@ class PostGalleryStatsView < BaseView
 
   STATS_URL_PREFIX = "/galeria/statystyki"
 
-  def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)
+  def initialize(context : RenderContext, @post : Tremolite::Post)
     @url = @post.gallery_stats_url
+    super(context: context, url: @url)
   end
 
   # could mess with duplicate SEO

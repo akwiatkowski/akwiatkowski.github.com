@@ -1,8 +1,9 @@
 class LandView < BaseView
   Log = ::Log.for(self)
 
-  def initialize(@blog : Tremolite::Blog, @land : LandEntity)
+  def initialize(context : RenderContext, @land : LandEntity)
     @url = @land.url
+    super(context: context, url: @url)
   end
 
   def title
@@ -27,14 +28,10 @@ class LandView < BaseView
   end
 
   def land_article_html
-    content = ""
     data = Hash(String, String).new
 
-    posts = Array(Tremolite::Post).new
-    @blog.post_collection.each_post_from_latest do |post|
-      if @land.belongs_to_post?(post)
-        posts << post
-      end
+    posts = context.posts.select do |post|
+      @land.belongs_to_post?(post)
     end
 
     data["content"] = render_posts_preview(posts)

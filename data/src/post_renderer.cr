@@ -119,7 +119,7 @@ class PostRenderer
 
   private def render_galleries(post : Tremolite::Post)
     @ctx.write_output(GalleryView::PostView.new(blog: @blog, post: post))
-    @ctx.write_output(PostGalleryStatsView.new(blog: @blog, post: post))
+    @ctx.write_output(PostGalleryStatsView.new(context: @ctx, post: post))
   end
 
   private def save_exif_cache(post : Tremolite::Post)
