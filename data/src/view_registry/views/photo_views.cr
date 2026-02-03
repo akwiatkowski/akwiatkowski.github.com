@@ -51,11 +51,10 @@ def register_photo_views(r : ViewRegistry)
   #
   r.register("Photo galleries: all", [:exifs], priority: 30) do |ctx|
     ViewRegistry::Log.info { "Rendering photo galleries" }
-    blog = ctx.blog
 
     # === Tag galleries ===
     tag_renderers = Array(GalleryView::TagView).new
-    blog.data_manager.photo_tags.not_nil!.each do |photo_tag|
+    ctx.photo_tags.each do |photo_tag|
       view = GalleryView::TagView.new(context: ctx, photo_tag: photo_tag)
       ctx.write_output(view)
       tag_renderers << view
@@ -174,7 +173,7 @@ def register_photo_views(r : ViewRegistry)
     ctx.write_output(exposure_gallery_index_view)
 
     # === Quantized coordinate galleries ===
-    photo_coord_quant_cache = blog.data_manager.photo_coord_quant_cache.not_nil!
+    photo_coord_quant_cache = ctx.photo_coord_quant_cache
     photo_coord_quant_cache.refresh
     quant_renderers = HashQuantCoordViews.new
     photo_coord_quant_cache.cache.keys.each do |key|
@@ -248,9 +247,9 @@ def register_photo_views(r : ViewRegistry)
     photomaps_for_post_small = Hash(Tremolite::Post, PhotoMap::PostRouteMapSvgView).new
 
     # === Voivodeship maps ===
-    blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
+    ctx.voivodeships.each do |voivodeship|
       voivodeship_coord_range = CoordRange.new(voivodeship)
-      post_slugs = blog.post_collection.posts.select { |post|
+      post_slugs = ctx.posts.select { |post|
         post.was_in_voivodeship(voivodeship)
       }.map(&.slug)
 
@@ -278,7 +277,7 @@ def register_photo_views(r : ViewRegistry)
     end
 
     # === Post maps ===
-    blog.post_collection.posts.not_nil!.each do |post|
+    ctx.posts.each do |post|
       if post.detailed_routes && post.detailed_routes.not_nil!.size > 0
         if post.detailed_routes.not_nil![0].route.size > 0
           # Big map
@@ -303,7 +302,7 @@ def register_photo_views(r : ViewRegistry)
     end
 
     # === Idea maps ===
-    blog.data_manager.ideas.not_nil!.each do |idea|
+    ctx.ideas.each do |idea|
       ctx.write_output(PhotoMap::IdeaRouteMapSvgView.new(blog: blog, idea: idea))
     end
 
@@ -358,7 +357,7 @@ def register_photo_views(r : ViewRegistry)
     # === Tagged photo maps ===
     selected_tags = ["rural", "winter", "city", "night", "macro", "portfolio", "cat", "best", "good", "timeline"]
     selected_tags.sort.each do |tag|
-      photo_entities = blog.data_manager.exif_db.all_flatten_photo_entities.select { |pe|
+      photo_entities = ctx.exif_db.all_flatten_photo_entities.select { |pe|
         pe.tags.includes?(tag)
       }
       view = PhotoMap::MultiplePhotoEntitiesGridMapSvgView.new(
