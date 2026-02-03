@@ -6,17 +6,20 @@ module StaticView
 
     Log = ::Log.for(self)
 
-    def initialize(
-      @blog : Tremolite::Blog,
-    )
-      @url = URL
-      @file = "more"
-      @image_url = @blog.data_manager.not_nil!["more.backgrounds"]
-      @title = @blog.data_manager.not_nil!["more.title"]
-      @subtitle = @blog.data_manager.not_nil!["more.subtitle"]
-      @data_path = @blog.data_path.as(String)
-      @pages_path = @blog.pages_path.as(String)
-      @path = File.join([@pages_path, "#{@file}.md"])
+    def initialize(context : RenderContext)
+      meta = context.page_meta("more")
+      super(
+        context: context,
+        url: URL,
+        file: "more",
+        image_url: meta[:backgrounds].as(String),
+        title: meta[:title].as(String),
+        subtitle: meta[:subtitle].as(String)
+      )
+    end
+
+    def add_to_sitemap?
+      false
     end
   end
 end

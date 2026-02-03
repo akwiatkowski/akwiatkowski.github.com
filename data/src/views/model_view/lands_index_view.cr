@@ -4,10 +4,16 @@ module ModelView
   class LandsIndexView < PageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url : String)
-      @image_url = @blog.data_manager.not_nil!["lands.backgrounds"].as(String)
-      @title = @blog.data_manager.not_nil!["lands.title"].as(String)
-      @subtitle = @blog.data_manager.not_nil!["lands.subtitle"].as(String)
+    def initialize(context : RenderContext, @url : String)
+      super(context: context, url: @url)
+      meta = context.page_meta("lands")
+      @image_url = meta[:backgrounds].as(String)
+      @title = meta[:title].as(String)
+      @subtitle = meta[:subtitle].as(String)
+    end
+
+    def add_to_sitemap?
+      true
     end
 
     getter :image_url, :title, :subtitle
@@ -15,7 +21,7 @@ module ModelView
     def inner_html
       s = "<ol>"
 
-      @blog.data_manager.not_nil!.lands.not_nil!.each do |land|
+      context.lands.each do |land|
         s += land_element(land)
       end
 

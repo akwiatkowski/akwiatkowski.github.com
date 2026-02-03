@@ -292,6 +292,12 @@ Same pattern.
 
 Run `crystal spec` after each migration.
 
+### 6.0
+
+Implement in every view or in place which is used to write view output. If it's
+html or svg there will send to "versioning history". It will store all non binary,
+non json (because jsons are big), and not too big (less than 500kB - put in constant)
+
 ---
 
 ## Deferred (Next Iteration)
@@ -330,42 +336,83 @@ Run `crystal spec` after each migration.
 
 ## Progress Tracking
 
-### Step 1: RenderContext Methods
-- [ ] 1.1 `train_stations`
-- [ ] 1.2 `ideas`
-- [ ] 1.3 `portfolios`
-- [ ] 1.4 `exif_db`
-- [ ] 1.5 `photo_coord_quant_cache`
-- [ ] 1.6 `page_meta`
-- [ ] 1.7 Verify all tests pass
+### Completed Infrastructure Changes
 
-### Step 2: Simple Post-Only Views
-- [ ] 2.1 `debug_post_view`
-- [ ] 2.2 `debug_post_camera_stuff_view`
-- [ ] 2.3 `debug_post_missing_photos_exif_view`
-- [ ] 2.4 `new_posts_dynamic_view`
-- [ ] 2.5 `photos_json_generator`
-- [ ] 2.6 Verify
+- [x] Step 1: RenderContext methods added (train_stations, ideas, portfolios, exif_db, photo_coord_quant_cache, page_meta, photo_tags, layout_path, data_path, pages_path, markdown_wrapper, photo_map_dictionary, next_to, prev_to, towns_already_visited_only_selfpropelled)
+- [x] Made `@blog` nilable in `Tremolite::Views::BaseView` (data/src/tremolite/base_view.cr)
+- [x] Added context-based constructor to BaseView hierarchy
+- [x] Changed `PhotoEntity` to accept `photo_tags` instead of `blog`
+- [x] Updated `post_function_parser.cr` to use context
 
-### Step 3: Config-Using Views
-- [ ] 3.1 `summary_view`
-- [ ] 3.2 `towns_history_view`
-- [ ] 3.3 `towns_timeline_view`
-- [ ] 3.4 `map_view`
-- [ ] 3.5 `pois_view`
-- [ ] 3.6 `lands_index_view`
-- [ ] 3.7 `towns_index_view`
-- [ ] 3.8 Verify
+### Views Migrated to Context (constructor takes `context: RenderContext`)
 
-### Step 4: Entity-Using Views
-- [ ] 4.1 `train_stations_json_generator`
-- [ ] 4.2 `ideas_json_generator`
-- [ ] 4.3 `portfolio_view`
-- [ ] 4.4 `payload_json_generator`
-- [ ] 4.5 Verify
+- [x] `debug_post_view.cr`
+- [x] `collection_dynamic_view.cr`
+- [x] `map_view.cr`
+- [x] `pois_view.cr`
+- [x] `quant_coord_index_view.cr`
+- [x] `gallery_view/index_view.cr`
+- [x] `debug_tag_stats_view.cr`
+- [x] `timeline_photo_view.cr`
+- [x] `portfolio_view.cr`
+- [x] `exif_stats_view.cr`
+- [x] `gallery_view/abstract_view.cr` (uses context.posts, context.config)
+- [x] `photo_map/index_view.cr`
+- [x] `summary_view.cr`
+- [x] `year_stat_report_view.cr`
+- [x] `burnout_stat_view.cr` (and `BurnoutStat` service)
+- [x] `towns_history_view.cr`
+- [x] `towns_timeline_view.cr`
+- [x] `towns_index_view.cr`
+- [x] `lands_index_view.cr`
+- [x] `more_view.cr`
+- [x] `markdown_page_view.cr`
+- [x] `debug_post_camera_stuff_view.cr`
+- [x] `debug_post_missing_photos_exif_view.cr`
+- [x] `js_ideas_view.cr`
+- [x] `js_timeline_view.cr`
+- [x] `js_panoramio_view.cr`
+- [x] `js_exif_view.cr`
+- [x] `town_dynamic_view.cr`
+- [x] `tag_dynamic_view.cr`
+- [x] `voivodeship_dynamic_view.cr`
+- [x] `land_dynamic_view.cr`
+- [x] `train_stations_json_generator.cr`
+- [x] `ideas_json_generator.cr`
+- [x] `photos_json_generator.cr`
+- [x] `nav_stats_json_generator.cr`
+- [x] `payload_json_generator.cr`
+- [x] `rss_generator.cr` (removed unused @blog param)
+- [x] `atom_generator.cr` (removed unused @blog param)
 
-### Step 5: EXIF-Using Views
-- [ ] 5.1 `exif_stats_view`
-- [ ] 5.2 `debug_tag_stats_view`
-- [ ] 5.3 `timeline_photo_view`
-- [ ] 5.4 Verify
+### Views Still Using @blog (need migration)
+
+Run `crystal spec` to see next error. Pattern to fix each view:
+1. Change constructor: `@blog : Tremolite::Blog` → `context : RenderContext`
+2. Add `super(context: context, url: @url)`
+3. Replace `@blog.post_collection.posts` → `context.posts`
+4. Replace `@blog.data_manager.not_nil!["x.title"]` → `context.page_meta("x")[:title]`
+5. Replace `@blog.data_manager.towns` → `context.towns`
+6. Replace `@blog.data_manager.exif_db` → `context.exif_db`
+7. Update registry call: `blog: ctx.blog` → `context: ctx`
+
+**Remaining views with @blog** (grep for `@blog\.` in data/src/views):
+- dynamic_view: mountain_range_planner_view
+- post_view: article_view (critical path, complex)
+- post_list_view: new_posts_dynamic_view
+- gallery_view: post_view
+- photo_map: global_*_map_svg_view (4 files), multiple_posts_grid_and_routes_map_svg_view
+- land_view, post_gallery_stats_view
+
+**Still using `blog: ctx.blog` in registry** (grep for `blog: ctx.blog` in view_registry):
+- feed_views: SiteMapGenerator (Tremolite library - external dependency)
+
+### Current Session State
+
+**Last error fixed:** `payload_json_generator.cr`
+**Tests:** 146 examples, 0 failures, 0 errors, 2 pending
+
+**To continue:**
+1. Continue migrating remaining 11 views that still use `@blog`
+2. Leave SiteMapGenerator for Tremolite library migration
+3. Run `crystal spec` to verify

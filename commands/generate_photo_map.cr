@@ -1,4 +1,4 @@
-require "../../tremolite/src/tremolite"
+require "../data/src/tremolite/tremolite"
 require "../data/src/blog"
 
 require "../data/src/services/map/base"

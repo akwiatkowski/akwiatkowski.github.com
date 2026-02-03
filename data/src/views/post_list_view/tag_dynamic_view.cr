@@ -4,10 +4,13 @@ module PostListView
   class TagDynamicView < CollectionDynamicView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @tag : TagEntity)
-      @filter_by = "tag"
-      @filter_value = @tag.slug
-      @url = @tag.view_url
+    def initialize(context : RenderContext, @tag : TagEntity)
+      super(
+        context: context,
+        url: @tag.view_url,
+        filter_by: "tag",
+        filter_value: @tag.slug
+      )
     end
 
     def title

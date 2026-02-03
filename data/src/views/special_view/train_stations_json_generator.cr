@@ -5,9 +5,10 @@ module SpecialView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @url : String = "/train_stations.json",
     )
+      @context = context
     end
 
     getter :url
@@ -26,7 +27,7 @@ module SpecialView
         json.object do
           json.field "train_stations" do
             json.array do
-              @blog.data_manager.train_stations.not_nil!.each do |train_station|
+              @context.train_stations.each do |train_station|
                 json.object do
                   json.field("name", train_station.name)
                   json.field("lat", train_station.lat)

@@ -110,6 +110,29 @@ Defined in `ViewRegistry::PRIORITY_GROUPS` (base.cr):
 - `:exifs` - EXIF data changed (photo metadata)
 - Empty `[]` - Always runs
 
+## View Style Guidelines
+
+- Views receive `context : RenderContext` in constructor, not `@blog`
+- Store data in instance variables, use `getter` for access
+- Don't define methods that call context repeatedly - fetch once in constructor
+
+```crystal
+# Good
+def initialize(context : RenderContext, @url : String)
+  super(context: context, url: @url)
+  meta = context.page_meta("summary")
+  @title = meta[:title].as(String)
+  @image_url = meta[:backgrounds].as(String)
+end
+
+getter :title, :image_url
+
+# Bad - calls context on every access
+def title
+  context["summary.title"]
+end
+```
+
 ## Common Tasks
 
 ### Adding a New View
@@ -118,7 +141,7 @@ Defined in `ViewRegistry::PRIORITY_GROUPS` (base.cr):
 2. Add registration in correct `views/*.cr` file:
    ```crystal
    r.register("Category: name", [:deps], priority: N) do |ctx|
-     ctx.write_output(MyView.new(blog: ctx.blog, ...))
+     ctx.write_output(MyView.new(context: ctx, ...))
    end
    ```
 3. Create view class in `data/src/views/`
@@ -194,6 +217,7 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 
 - 2026-02-02: Initial creation with view registry structure
 - 2026-02-02: PostRenderer extracted from blog.cr
+- 2026-02-03: Major view decoupling - 39 views migrated from @blog to context: RenderContext
 
 ---
 

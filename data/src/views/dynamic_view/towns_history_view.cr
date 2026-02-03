@@ -2,12 +2,14 @@ module DynamicView
   class TownsHistoryView < PageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url : String)
-      @image_url = @blog.data_manager.not_nil!["towns_history.backgrounds"].as(String)
-      @title = @blog.data_manager.not_nil!["towns_history.title"].as(String)
-      @subtitle = @blog.data_manager.not_nil!["towns_history.subtitle"].as(String)
+    def initialize(context : RenderContext, @url : String)
+      super(context: context, url: @url)
+      meta = context.page_meta("towns_history")
+      @image_url = meta[:backgrounds].as(String)
+      @title = meta[:title].as(String)
+      @subtitle = meta[:subtitle].as(String)
 
-      @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+      @posts = context.posts.as(Array(Tremolite::Post))
     end
 
     # a bit internal at this moment
@@ -20,13 +22,13 @@ module DynamicView
     def inner_html
       s = ""
       s += "<p>"
-      s += "Razem <strong>#{@blog.data_manager.not_nil!.towns.not_nil!.size}</strong> zdefiniowanych gmin, "
+      s += "Razem <strong>#{context.towns.size}</strong> zdefiniowanych gmin, "
       s += "a <strong>#{town_hike_or_bicycle}</strong> zaliczone pieszo lub rowerem."
       s += "</p>\n"
 
       s += "<ol>\n"
 
-      @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
+      context.voivodeships.each do |voivodeship|
         towns = Array(Tuple(TownEntity, (Time))).new
         towns_in_voivodeship(voivodeship).each do |t|
           vt = visited_since(t)
@@ -47,7 +49,7 @@ module DynamicView
     end
 
     def towns_in_voivodeship(voivodeship)
-      @blog.data_manager.not_nil!.towns.not_nil!.select { |t| t.voivodeship == voivodeship.slug }
+      context.towns.select { |t| t.voivodeship == voivodeship.slug }
     end
 
     def visited_since(town)
@@ -83,7 +85,7 @@ module DynamicView
     end
 
     def town_hike_or_bicycle
-      @blog.post_collection.posts.select { |p| p.bicycle? || p.hike? }.map { |p| p.towns.not_nil! }.flatten.uniq.size
+      @posts.select { |p| p.bicycle? || p.hike? }.map { |p| p.towns.not_nil! }.flatten.uniq.size
     end
   end
 end

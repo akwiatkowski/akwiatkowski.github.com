@@ -4,12 +4,18 @@ module ModelView
   class TownsIndexView < PageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url : String)
-      @image_url = @blog.data_manager.not_nil!["towns.backgrounds"].as(String)
-      @title = @blog.data_manager.not_nil!["towns.title"].as(String)
-      @subtitle = @blog.data_manager.not_nil!["towns.subtitle"].as(String)
+    def initialize(context : RenderContext, @url : String)
+      super(context: context, url: @url)
+      meta = context.page_meta("towns")
+      @image_url = meta[:backgrounds].as(String)
+      @title = meta[:title].as(String)
+      @subtitle = meta[:subtitle].as(String)
 
-      @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+      @posts = context.posts.as(Array(Tremolite::Post))
+    end
+
+    def add_to_sitemap?
+      true
     end
 
     getter :image_url, :title, :subtitle
@@ -17,11 +23,11 @@ module ModelView
     def inner_html
       s = "<ol>"
 
-      @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
+      context.voivodeships.each do |voivodeship|
         s += "<li>\n<h2>#{voivodeship.name}</h2>\n"
         s += "<ol>\n"
 
-        @blog.data_manager.not_nil!.towns.not_nil!.select { |t| t.voivodeship == voivodeship.slug }.each do |town|
+        context.towns.select { |t| t.voivodeship == voivodeship.slug }.each do |town|
           s += town_element(town)
         end
 

@@ -102,7 +102,7 @@ struct PhotoEntity
   property :exif
 
   def initialize(
-    blog : Tremolite::Blog,
+    photo_tags : Array(PhotoTagEntity),
     post : Tremolite::Post,
     @image_filename : String,
     @param_string,
@@ -153,7 +153,7 @@ struct PhotoEntity
     # calculate points
     @points = 0
     @tags.each do |tag|
-      selected = blog.data_manager.photo_tags.not_nil!.select do |photo_tag|
+      selected = photo_tags.select do |photo_tag|
         photo_tag.slug == tag
       end
 

@@ -1,10 +1,10 @@
 class BaseView
   def site_url
-    @blog.data_manager.not_nil!["site.url"]
+    context.site_url
   end
 
   def author_string
-    @blog.data_manager.not_nil!["site.author"]
+    context.site_author
   end
 
   def current_url

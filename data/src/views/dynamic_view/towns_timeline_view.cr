@@ -2,18 +2,20 @@ module DynamicView
   class TownsTimelineView < PageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url : String)
-      @image_url = @blog.data_manager.not_nil!["towns_timeline.backgrounds"].as(String)
-      @title = @blog.data_manager.not_nil!["towns_timeline.title"].as(String)
-      @subtitle = @blog.data_manager.not_nil!["towns_timeline.subtitle"].as(String)
+    def initialize(context : RenderContext, @url : String)
+      super(context: context, url: @url)
+      meta = context.page_meta("towns_timeline")
+      @image_url = meta[:backgrounds].as(String)
+      @title = meta[:title].as(String)
+      @subtitle = meta[:subtitle].as(String)
 
-      @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+      @posts = context.posts.as(Array(Tremolite::Post))
 
       @times = [@posts.first.time, @posts.last.time].as(Array(Time))
       @time_from = @times.min.as(Time)
       @time_to = @times.max.as(Time)
 
-      @towns = @blog.data_manager.not_nil!.towns.as(Array(TownEntity))
+      @towns = context.towns.as(Array(TownEntity))
       @town_slugs = @towns.map { |town| town.slug }.as(Array(String))
 
       @self_propelled = Hash(Time, Array(TownEntity)).new
@@ -27,6 +29,10 @@ module DynamicView
       @self_monthly = Hash(Time, Int32).new
 
       prepare_data
+    end
+
+    def add_to_sitemap?
+      false
     end
 
     getter :image_url, :title, :subtitle

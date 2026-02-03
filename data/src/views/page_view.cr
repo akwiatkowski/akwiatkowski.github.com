@@ -3,7 +3,14 @@ require "./base_view"
 class PageView < BaseView
   Log = ::Log.for(self)
 
-  def initialize(@blog : Tremolite::Blog, @url : String)
+  # # Legacy constructor
+  # def initialize(blog : Tremolite::Blog, @url : String)
+  #   super(blog: blog, url: @url)
+  # end
+
+  # New constructor - views should use this
+  def initialize(context : RenderContext, @url : String)
+    super(context: context, url: @url)
   end
 
   def image_url

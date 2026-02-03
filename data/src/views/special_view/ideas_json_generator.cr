@@ -5,9 +5,10 @@ module SpecialView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @url : String = "/ideas.json",
     )
+      @context = context
     end
 
     getter :url
@@ -22,14 +23,14 @@ module SpecialView
     end
 
     def to_json
-      visited_towns = @blog.data_manager.towns_already_visited_only_selfpropelled
+      visited_towns = @context.towns_already_visited_only_selfpropelled
 
       result = JSON.build do |json|
         json.object do
           # towns
           json.field "towns" do
             json.array do
-              @blog.data_manager.not_nil!.towns.not_nil!.each do |town|
+              @context.towns.each do |town|
                 json.object do
                   json.field("url", town.view_url)
                   json.field("slug", town.slug)
@@ -44,7 +45,7 @@ module SpecialView
           # ideas
           json.field "ideas" do
             json.array do
-              @blog.data_manager.ideas.not_nil!.each do |idea|
+              @context.ideas.each do |idea|
                 json.object do
                   start_train_station = get_train_station_for_name(idea.start)
                   finish_train_station = get_train_station_for_name(idea.finish)
@@ -89,7 +90,7 @@ module SpecialView
     end
 
     def get_train_station_for_name(name)
-      train_stations = @blog.data_manager.train_stations.not_nil!
+      train_stations = @context.train_stations
       selected = train_station_start = train_stations.select do |train_station|
         train_station.name == name
       end

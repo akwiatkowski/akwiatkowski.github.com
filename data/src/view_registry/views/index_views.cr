@@ -35,7 +35,7 @@ def register_index_views(r : ViewRegistry)
   #
   r.register("Index: towns", [:posts, :yamls], priority: 60) do |ctx|
     ViewRegistry::Log.info { "Rendering towns index" }
-    ctx.write_output(ModelView::TownsIndexView.new(blog: ctx.blog, url: "/gminy.html"))
+    ctx.write_output(ModelView::TownsIndexView.new(context: ctx, url: "/gminy.html"))
   end
 
   # ============================================
@@ -52,6 +52,6 @@ def register_index_views(r : ViewRegistry)
   #
   r.register("Index: lands", [:posts, :yamls], priority: 61) do |ctx|
     ViewRegistry::Log.info { "Rendering lands index" }
-    ctx.write_output(ModelView::LandsIndexView.new(blog: ctx.blog, url: "/krainy.html"))
+    ctx.write_output(ModelView::LandsIndexView.new(context: ctx, url: "/krainy.html"))
   end
 end

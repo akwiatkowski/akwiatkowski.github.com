@@ -96,9 +96,9 @@ describe "View Testing Examples" do
       # Sort by date descending (latest first)
       sorted = ctx.posts.sort { |a, b| b.time <=> a.time }
 
-      sorted[0].slug.should eq "a"  # March
-      sorted[1].slug.should eq "c"  # February
-      sorted[2].slug.should eq "b"  # January
+      sorted[0].slug.should eq "a" # March
+      sorted[1].slug.should eq "c" # February
+      sorted[2].slug.should eq "b" # January
     end
   end
 end

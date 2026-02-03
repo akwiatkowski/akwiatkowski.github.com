@@ -25,8 +25,8 @@ class BurnoutStat
     distance: Int32,
     time_spent: Int32)
 
-  def initialize(@blog : Tremolite::Blog)
-    @posts = @blog.post_collection.posts.sort do |a, b|
+  def initialize(posts : Array(Tremolite::Post))
+    @posts = posts.sort do |a, b|
       a.time <=> b.time
     end.as(Array(Tremolite::Post))
 

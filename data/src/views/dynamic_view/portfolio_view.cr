@@ -2,11 +2,15 @@ module DynamicView
   class PortfolioView < BaseView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url = "/portfolio")
+    getter :title
+
+    def initialize(context : RenderContext, @url = "/portfolio")
+      super(context: context, url: @url)
+      @title = context["portfolio.title"]
     end
 
-    def title
-      @blog.data_manager.not_nil!["portfolio.title"]
+    def add_to_sitemap?
+      false
     end
 
     def meta_keywords_string
@@ -22,10 +26,10 @@ module DynamicView
     end
 
     def content
-      photo_entities = @blog.data_manager.exif_db.all_flatten_photo_entities.select do |photo_entity|
+      photo_entities = context.exif_db.all_flatten_photo_entities.select do |photo_entity|
         photo_entity.tags.includes?("portfolio")
       end
-      portfolios = @blog.data_manager.portfolios.not_nil!
+      portfolios = context.portfolios
 
       content_string = String.build do |s|
         photo_entities.each_with_index do |photo_entity, i|
@@ -80,7 +84,8 @@ module DynamicView
       count = 0
 
       # only non-todo, and main tagged posts
-      posts = @blog.post_collection.posts.select { |p| (p.tags.not_nil!.includes?("todo") == false) && (p.tags.not_nil!.includes?("main") == true) }
+      # TODO: add `main?` method to Post class
+      posts = context.posts.select { |p| (p.tags.not_nil!.includes?("todo") == false) && (p.tags.not_nil!.includes?("main") == true) }
       # sorted by date descending
       posts = posts.sort { |a, b| b.time <=> a.time }
 

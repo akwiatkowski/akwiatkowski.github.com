@@ -32,7 +32,7 @@ def register_home_views(r : ViewRegistry)
   #
   r.register("Home: main page", [:posts], priority: 20) do |ctx|
     ViewRegistry::Log.info { "Rendering home page" }
-    ctx.write_output(PostListView::CollectionDynamicView.new(blog: ctx.blog, url: "/"))
+    ctx.write_output(PostListView::CollectionDynamicView.new(context: ctx, url: "/"))
   end
 
   # ============================================
@@ -49,7 +49,7 @@ def register_home_views(r : ViewRegistry)
   #
   r.register("Home: map page", [:posts], priority: 21) do |ctx|
     ViewRegistry::Log.info { "Rendering map page" }
-    ctx.write_output(StaticView::MapView.new(blog: ctx.blog))
+    ctx.write_output(StaticView::MapView.new(context: ctx))
   end
 
   # ============================================
@@ -66,6 +66,6 @@ def register_home_views(r : ViewRegistry)
   #
   r.register("Home: POIs page", [:posts], priority: 22) do |ctx|
     ViewRegistry::Log.info { "Rendering POIs page" }
-    ctx.write_output(PoisView.new(blog: ctx.blog, url: "/pois.html"))
+    ctx.write_output(PoisView.new(context: ctx, url: "/pois.html"))
   end
 end

@@ -17,7 +17,7 @@ struct AreaMatcher::MatchedArea
     @area_type : AreaType,
     @voivodeship : String? = nil,
     @terc : String? = nil,
-    @code : String? = nil
+    @code : String? = nil,
   )
   end
 end
@@ -53,7 +53,7 @@ struct AreaMatcher::PointMatchResult
     @macro_regions : Array(MatchedArea),
     @mega_regions : Array(MatchedArea),
     @subprovinces : Array(MatchedArea),
-    @provinces : Array(MatchedArea)
+    @provinces : Array(MatchedArea),
   )
   end
 
@@ -119,7 +119,7 @@ struct AreaMatcher::RouteDistanceResult
 
   property area : MatchedArea
   property distance_meters : Float64
-  property distance_percent : Float64  # % of total route distance
+  property distance_percent : Float64 # % of total route distance
 
   def initialize(@area : MatchedArea, @distance_meters : Float64, @distance_percent : Float64)
   end
@@ -147,7 +147,7 @@ struct AreaMatcher::RouteMatchResult
     @macro_regions : Array(RouteDistanceResult),
     @mega_regions : Array(RouteDistanceResult),
     @subprovinces : Array(RouteDistanceResult),
-    @provinces : Array(RouteDistanceResult)
+    @provinces : Array(RouteDistanceResult),
   )
   end
 end

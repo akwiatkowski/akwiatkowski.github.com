@@ -4,9 +4,11 @@ module DynamicView
   class TimelinePhotoView < WiderPageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog)
-      @posts = @blog.post_collection.posts.select { |p| p.trip? }.as(Array(Tremolite::Post))
-      @data_manager = @blog.data_manager.as(Tremolite::DataManager)
+    def initialize(context : RenderContext)
+      @url = "/debug/timeline_photos.html"
+      super(context: context, url: @url)
+
+      @posts = context.posts.select { |p| p.trip? }.as(Array(Tremolite::Post))
       # gather from all posts, flatten and select for only suitable for timeline
       @photo_entities = @posts.map { |p|
         p.published_photo_entities
@@ -18,13 +20,17 @@ module DynamicView
 
       @timeline_photo_entities = @photo_entities.select { |p| p.is_timeline }.as(Array(PhotoEntity))
 
-      @image_url = @blog.data_manager.not_nil!["timeline.backgrounds"].as(String)
-      @title = @blog.data_manager.not_nil!["timeline.title"].as(String)
-      @subtitle = @blog.data_manager.not_nil!["timeline.subtitle"].as(String)
-      @url = "/debug/timeline_photos.html" # TODO: move to debug
+      meta = context.page_meta("timeline")
+      @image_url = meta[:backgrounds].as(String)
+      @title = meta[:title].as(String)
+      @subtitle = meta[:subtitle].as(String)
 
       # we will dive year (366 days) every @quant_days days
       @quant_days = 7
+    end
+
+    def add_to_sitemap?
+      false
     end
 
     def inner_html

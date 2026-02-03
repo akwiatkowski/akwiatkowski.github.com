@@ -9,10 +9,12 @@ module GalleryView
     getter :title
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @renderers : HashQuantCoordViews,
     )
-      @photo_coord_quant_cache = @blog.data_manager.not_nil!.photo_coord_quant_cache.not_nil!.as(
+      @url = "/galeria/wspolrzedne.html"
+      super(context: context, url: @url)
+      @photo_coord_quant_cache = context.photo_coord_quant_cache.as(
         PhotoCoordQuantCache
       )
       @lats = Array(Float32).new
@@ -27,8 +29,10 @@ module GalleryView
       @image_url = ""
       @subtitle = "zdjęcia podzielone na współrzędne"
       @title = "Współrzędne"
+    end
 
-      @url = "/galeria/wspolrzedne.html"
+    def add_to_sitemap?
+      true
     end
 
     BLANK_IMAGE_URL = "/img/blank.gif"

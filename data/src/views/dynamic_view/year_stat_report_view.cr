@@ -8,21 +8,25 @@ module DynamicView
     OPACITY_MIN          =  0.02
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @year : Int32,
       @all_years : Array(Int32),
     )
-      @posts = @blog.post_collection.posts.select { |p| p.time.year == @year }.as(Array(Tremolite::Post))
+      @posts = context.posts.select { |p| p.time.year == @year }.as(Array(Tremolite::Post))
       @image_url = generate_image_url.as(String)
       @title = "#{@year}"
       @subtitle = "Podsumowanie roku #{@year}, czyli #{hours.to_i} godzin i #{distance.to_i} kilometrów w terenie"
       @url = self.class.url_for_year(@year)
 
-      @data_manager = @blog.data_manager.as(Tremolite::DataManager)
+      super(context: context, url: @url)
     end
 
     getter :image_url, :title, :subtitle, :year
     property :url
+
+    def add_to_sitemap?
+      true
+    end
 
     def self.url_for_year(year)
       return "/rok/#{year}.html"
@@ -163,7 +167,7 @@ module DynamicView
     end
 
     private def voivodeships_stats
-      voivoids = @blog.data_manager.not_nil!.voivodeships.not_nil!
+      voivoids = context.voivodeships
       voivoids_hash_keys = Hash(String, Int32).new
       @posts.each do |post|
         vs = post.towns.not_nil!.select { |t| voivoids.map(&.slug).includes?(t) }
@@ -179,7 +183,7 @@ module DynamicView
       # convert slugs to names
       voivoids_hash_names = Hash(String, Int32).new
       voivoids_hash_keys.keys.each do |key|
-        voivodeship_name = @data_manager.voivodeships.not_nil!.select { |v| v.slug == key }.first.name
+        voivodeship_name = context.voivodeships.select { |v| v.slug == key }.first.name
         voivoids_hash_names[voivodeship_name] = voivoids_hash_keys[key]
       end
 

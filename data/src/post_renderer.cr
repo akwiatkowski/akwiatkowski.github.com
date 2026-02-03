@@ -111,7 +111,7 @@ class PostRenderer
 
   private def render_article(post : Tremolite::Post, hide_not_finished : Bool)
     @ctx.write_output(PostView::ArticleView.new(
-      blog: @blog,
+      context: @ctx,
       post: post,
       hide_not_finished: hide_not_finished
     ))

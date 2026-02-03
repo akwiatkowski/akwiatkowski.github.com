@@ -31,7 +31,7 @@ class AreaMatcher::Matcher
     macro_regions_path : String = "data/external/macro_regions.yaml",
     mega_regions_path : String = "data/external/mega_regions.yaml",
     subprovinces_path : String = "data/external/subprovinces.yaml",
-    provinces_path : String = "data/external/provinces.yaml"
+    provinces_path : String = "data/external/provinces.yaml",
   )
     @ctx = GEOS::Context.new
 
@@ -240,7 +240,7 @@ class AreaMatcher::Matcher
   private def find_overlapping_areas(
     areas : Array(Area),
     input_geom : GEOS::Geometry,
-    input_area : Float64
+    input_area : Float64,
   ) : Array(PolygonMatchResult)
     result = Array(PolygonMatchResult).new
 
@@ -272,7 +272,7 @@ class AreaMatcher::Matcher
   private def find_route_distances(
     areas : Array(Area),
     route_geom : GEOS::Geometry,
-    total_distance : Float64
+    total_distance : Float64,
   ) : Array(RouteDistanceResult)
     result = Array(RouteDistanceResult).new
 

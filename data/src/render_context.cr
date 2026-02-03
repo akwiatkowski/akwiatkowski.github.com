@@ -105,6 +105,22 @@ class RenderContext
     config.tags.not_nil!
   end
 
+  def train_stations
+    config.train_stations.not_nil!
+  end
+
+  def ideas
+    config.ideas.not_nil!
+  end
+
+  def portfolios
+    config.portfolios.not_nil!
+  end
+
+  def photo_tags
+    config.photo_tags.not_nil!
+  end
+
   # ============================================
   # Caches
   # ============================================
@@ -113,12 +129,59 @@ class RenderContext
     config.nav_stats_cache.not_nil!
   end
 
+  def exif_db
+    config.exif_db
+  end
+
+  def photo_coord_quant_cache
+    config.photo_coord_quant_cache.not_nil!
+  end
+
+  def post_coord_quant_cache
+    config.post_coord_quant_cache.not_nil!
+  end
+
+  # ============================================
+  # Page Metadata
+  # ============================================
+
+  # Returns title, subtitle, backgrounds for a page type
+  # Usage: meta = context.page_meta("summary")
+  #        meta[:title], meta[:subtitle], meta[:backgrounds]
+  def page_meta(name : String)
+    {
+      title:       config["#{name}.title"].to_s,
+      subtitle:    config["#{name}.subtitle"]?.try(&.to_s) || "",
+      backgrounds: config["#{name}.backgrounds"].to_s,
+    }
+  end
+
   # ============================================
   # Rendering Infrastructure
   # ============================================
 
+  def layout_path : String
+    blog.layout_path
+  end
+
+  def data_path : String
+    blog.data_path
+  end
+
+  def pages_path : String
+    blog.pages_path
+  end
+
   def output_path : String
     blog.@output_path
+  end
+
+  def markdown_wrapper
+    blog.markdown_wrapper
+  end
+
+  def photo_map_dictionary
+    config.photo_map_dictionary.not_nil!
   end
 
   def html_buffer
@@ -146,6 +209,20 @@ class RenderContext
   # Count posts for an entity (used in navigation)
   def post_count_for(entity) : Int32
     posts_for(entity).size
+  end
+
+  # Post navigation
+  def next_to(post : Tremolite::Post)
+    blog.post_collection.next_to(post)
+  end
+
+  def prev_to(post : Tremolite::Post)
+    blog.post_collection.prev_to(post)
+  end
+
+  # Towns already visited (for ideas)
+  def towns_already_visited_only_selfpropelled
+    config.towns_already_visited_only_selfpropelled
   end
 
   # ============================================

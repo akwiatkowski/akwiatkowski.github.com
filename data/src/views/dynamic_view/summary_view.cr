@@ -4,10 +4,14 @@ module DynamicView
   class SummaryView < PageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url : String)
-      @image_url = @blog.data_manager.not_nil!["summary.backgrounds"].as(String)
-      @title = @blog.data_manager.not_nil!["summary.title"].as(String)
-      @subtitle = @blog.data_manager.not_nil!["summary.subtitle"].as(String)
+    getter :image_url, :title, :subtitle
+
+    def initialize(context : RenderContext, @url : String)
+      super(context: context, url: @url)
+      meta = context.page_meta("summary")
+      @image_url = meta[:backgrounds].as(String)
+      @title = meta[:title].as(String)
+      @subtitle = meta[:subtitle].as(String)
     end
 
     # not so important for SEO
@@ -15,12 +19,10 @@ module DynamicView
       return false
     end
 
-    getter :image_url, :title, :subtitle
-
     def inner_html
       posts_string = ""
 
-      @blog.post_collection.posts.each do |post|
+      context.posts.each do |post|
         data = Hash(String, String).new
         data["post.url"] = post.url
         data["post.date"] = post.date

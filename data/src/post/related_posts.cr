@@ -1,17 +1,14 @@
 class Tremolite::Post
   MAX_RELATED_POSTS = 8
 
-  def related_posts(blog : Tremolite::Blog)
+  def related_posts(context : RenderContext)
     # new method
-    return related_posts_by_quants(blog: blog)
-
-    # old method
-    # return related_posts_by_town(blog: blog)
+    return related_posts_by_quants(context: context)
   end
 
   # new version using cached coord quants and time diff
-  def related_posts_by_quants(blog : Tremolite::Blog)
-    service = blog.data_manager.post_coord_quant_cache.not_nil!
+  def related_posts_by_quants(context : RenderContext)
+    service = context.post_coord_quant_cache
     related_data = service.get(self.slug)
     if related_data
       sorted_related = related_data.not_nil![:related_posts].to_a.sort do |a, b|
@@ -30,7 +27,7 @@ class Tremolite::Post
       sorted_slugs = sorted_related.map { |t| t[0].to_s }
       # TODO refactor, make it less ugly
       sorted_posts = sorted_slugs.map do |slug|
-        blog.post_collection.posts.select { |post| post.slug == slug }.first.not_nil!
+        context.posts.select { |post| post.slug == slug }.first.not_nil!
       end
       # filter out not ready posts
       filtered_posts = sorted_posts.select do |post|

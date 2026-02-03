@@ -5,18 +5,22 @@ module PostView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      @context : RenderContext,
       @post : Tremolite::Post,
       @hide_not_finished : Bool = false,
     )
       @url = @post.url.as(String)
-      @validator = @blog.validator.as(Tremolite::Validator)
+      @validator = @context.not_nil!.validator.as(Tremolite::Validator) # TODO: not_nil! is weird here
     end
 
     # not ready posts will not be added to sitemap.xml
     # this generator is part of `Tremolite` engine
     def ready
       @post.ready?
+    end
+
+    def add_to_sitemap?
+      ready
     end
 
     def title
@@ -54,7 +58,7 @@ module PostView
       data["next_post_pager"] = ""
       data["prev_post_pager"] = ""
 
-      np = @blog.post_collection.next_to(@post)
+      np = context.next_to(@post)
       if np
         nd = Hash(String, String).new
         nd["post.url"] = np.url
@@ -63,7 +67,7 @@ module PostView
         data["next_post_pager"] = nl
       end
 
-      pp = @blog.post_collection.prev_to(@post)
+      pp = context.prev_to(@post)
       if pp
         pd = Hash(String, String).new
         pd["post.url"] = pp.url
@@ -83,7 +87,7 @@ module PostView
       pd["taggable.content"] = ""
       links = Array(String).new
       @post.tags.not_nil!.each do |tag|
-        @blog.data_manager.not_nil!.tags.not_nil!.each do |tag_entity|
+        context.tags.each do |tag_entity|
           if tag == tag_entity.slug
             links << "<a href=\"" + tag_entity.view_url + "\">" + tag_entity.name + "</a>"
           end
@@ -103,7 +107,7 @@ module PostView
       pd["taggable.content"] = ""
       links = Array(String).new
       @post.lands.not_nil!.each do |land|
-        @blog.data_manager.not_nil!.lands.not_nil!.each do |land_entity|
+        context.lands.each do |land_entity|
           if land == land_entity.slug
             links << "<a href=\"" + land_entity.view_url + "\">" + land_entity.name + "</a>"
           end
@@ -123,7 +127,7 @@ module PostView
       pd["taggable.content"] = ""
       links = Array(String).new
       @post.towns.not_nil!.each do |town|
-        town_entities = @blog.data_manager.not_nil!.towns.not_nil!.select { |town_entity| town == town_entity.slug }
+        town_entities = context.towns.select { |town_entity| town == town_entity.slug }
         town_entities.each do |town_entity|
           links << "<a href=\"" + town_entity.view_url + "\">" + town_entity.name + "</a>"
         end
@@ -142,7 +146,7 @@ module PostView
       pd["taggable.content"] = ""
       links = Array(String).new
       @post.towns.not_nil!.each do |voivodeship|
-        @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship_entity|
+        context.voivodeships.each do |voivodeship_entity|
           if voivodeship == voivodeship_entity.slug
             links << "<a href=\"" + voivodeship_entity.view_url + "\">" + voivodeship_entity.name + "</a>"
           end
@@ -167,7 +171,7 @@ module PostView
       end
 
       # related
-      related_posts = @post.related_posts(@blog)
+      related_posts = @post.related_posts(context: context)
       if related_posts.size > 0
         pd = Hash(String, String).new
 
@@ -207,7 +211,7 @@ module PostView
       end
 
       # small photo_map for post
-      path_for_svg = @blog.data_manager.photo_map_dictionary.not_nil!.get_small_photo_map_for_post(@post)
+      path_for_svg = context.photo_map_dictionary.get_small_photo_map_for_post(@post)
       if path_for_svg
         zoom = @post.default_map_zoom || 11
         coord_range = @post.routes_coord_range.not_nil!

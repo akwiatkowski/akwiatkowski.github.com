@@ -1,4 +1,4 @@
-require "../../tremolite/src/tremolite"
+require "../data/src/tremolite/tremolite"
 require "../data/src/blog"
 require "../data/src/services/area_matcher/all"
 
@@ -84,26 +84,26 @@ class Commands::GenerateAreasForPosts
       point_result = @matcher.match_points(route_obj.route)
 
       route_data = {
-        "type"                   => route_obj.type,
-        "total_distance_meters"  => route_result.total_distance_meters.round(2),
-        "total_distance_km"      => (route_result.total_distance_meters / 1000.0).round(3),
-        "points_count"           => route_obj.route.size.to_f64,
-        "towns"                  => format_distance_results(route_result.towns),
-        "counties"               => format_distance_results(route_result.counties),
-        "voivodeships"           => format_distance_results(route_result.voivodeships),
-        "meso_regions"           => format_distance_results(route_result.meso_regions),
-        "macro_regions"          => format_distance_results(route_result.macro_regions),
-        "mega_regions"           => format_distance_results(route_result.mega_regions),
-        "subprovinces"           => format_distance_results(route_result.subprovinces),
-        "provinces"              => format_distance_results(route_result.provinces),
-        "touched_towns"          => format_matched_areas(point_result.towns),
-        "touched_counties"       => format_matched_areas(point_result.counties),
-        "touched_voivodeships"   => format_matched_areas(point_result.voivodeships),
-        "touched_meso_regions"   => format_matched_areas(point_result.meso_regions),
-        "touched_macro_regions"  => format_matched_areas(point_result.macro_regions),
-        "touched_mega_regions"   => format_matched_areas(point_result.mega_regions),
-        "touched_subprovinces"   => format_matched_areas(point_result.subprovinces),
-        "touched_provinces"      => format_matched_areas(point_result.provinces),
+        "type"                  => route_obj.type,
+        "total_distance_meters" => route_result.total_distance_meters.round(2),
+        "total_distance_km"     => (route_result.total_distance_meters / 1000.0).round(3),
+        "points_count"          => route_obj.route.size.to_f64,
+        "towns"                 => format_distance_results(route_result.towns),
+        "counties"              => format_distance_results(route_result.counties),
+        "voivodeships"          => format_distance_results(route_result.voivodeships),
+        "meso_regions"          => format_distance_results(route_result.meso_regions),
+        "macro_regions"         => format_distance_results(route_result.macro_regions),
+        "mega_regions"          => format_distance_results(route_result.mega_regions),
+        "subprovinces"          => format_distance_results(route_result.subprovinces),
+        "provinces"             => format_distance_results(route_result.provinces),
+        "touched_towns"         => format_matched_areas(point_result.towns),
+        "touched_counties"      => format_matched_areas(point_result.counties),
+        "touched_voivodeships"  => format_matched_areas(point_result.voivodeships),
+        "touched_meso_regions"  => format_matched_areas(point_result.meso_regions),
+        "touched_macro_regions" => format_matched_areas(point_result.macro_regions),
+        "touched_mega_regions"  => format_matched_areas(point_result.mega_regions),
+        "touched_subprovinces"  => format_matched_areas(point_result.subprovinces),
+        "touched_provinces"     => format_matched_areas(point_result.provinces),
       }
 
       routes_data << route_data

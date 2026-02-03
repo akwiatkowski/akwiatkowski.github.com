@@ -38,7 +38,7 @@ def register_static_views(r : ViewRegistry)
   #
   r.register("Static: more page", [] of Symbol, priority: 90) do |ctx|
     ViewRegistry::Log.debug { "Rendering more page" }
-    ctx.write_output(StaticView::MoreView.new(blog: ctx.blog))
+    ctx.write_output(StaticView::MoreView.new(context: ctx))
   end
 
   # ============================================
@@ -55,7 +55,7 @@ def register_static_views(r : ViewRegistry)
   r.register("Static: about page", [] of Symbol, priority: 91) do |ctx|
     ViewRegistry::Log.debug { "Rendering about page" }
     ctx.write_output(MarkdownPageView.new(
-      blog: ctx.blog,
+      context: ctx,
       url: "/o_mnie.html",
       file: "about",
       image_url: ctx["about.backgrounds"],
@@ -78,7 +78,7 @@ def register_static_views(r : ViewRegistry)
   r.register("Static: english page", [] of Symbol, priority: 92) do |ctx|
     ViewRegistry::Log.debug { "Rendering english page" }
     ctx.write_output(MarkdownPageView.new(
-      blog: ctx.blog,
+      context: ctx,
       url: "/en/index.html",
       file: "en",
       image_url: ctx["en.backgrounds"],
@@ -105,7 +105,7 @@ def register_static_views(r : ViewRegistry)
   #
   r.register("Static: JS ideas", [:posts], priority: 93) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS ideas page" }
-    ctx.write_output(StaticView::JsIdeasView.new(blog: ctx.blog, url: "pomysly.html"))
+    ctx.write_output(StaticView::JsIdeasView.new(context: ctx, url: "pomysly.html"))
   end
 
   # ============================================
@@ -119,7 +119,7 @@ def register_static_views(r : ViewRegistry)
   #
   r.register("Static: JS timeline", [:posts], priority: 94) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS timeline page" }
-    ctx.write_output(StaticView::JsTimelineView.new(blog: ctx.blog, url: "linia_czasu.html"))
+    ctx.write_output(StaticView::JsTimelineView.new(context: ctx, url: "linia_czasu.html"))
   end
 
   # ============================================
@@ -133,7 +133,7 @@ def register_static_views(r : ViewRegistry)
   #
   r.register("Static: JS panoramio", [:posts], priority: 95) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS panoramio page" }
-    ctx.write_output(StaticView::JsPanoramioView.new(blog: ctx.blog, url: "mapa2.html"))
+    ctx.write_output(StaticView::JsPanoramioView.new(context: ctx, url: "mapa2.html"))
   end
 
   # ============================================
@@ -147,6 +147,6 @@ def register_static_views(r : ViewRegistry)
   #
   r.register("Static: JS exif stats", [:posts], priority: 96) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS exif stats page" }
-    ctx.write_output(StaticView::JsExifView.new(blog: ctx.blog, url: "exif_statystyki.html"))
+    ctx.write_output(StaticView::JsExifView.new(context: ctx, url: "exif_statystyki.html"))
   end
 end

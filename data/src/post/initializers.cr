@@ -325,7 +325,7 @@ class Tremolite::Post
 
     # set head_photo_entity
     @head_photo_entity = PhotoEntity.new(
-      blog: @blog,
+      photo_tags: @blog.data_manager.photo_tags.not_nil!,
       image_filename: @image_filename.not_nil!,
       desc: @title,
       is_gallery: gallery?,

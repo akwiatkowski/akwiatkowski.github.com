@@ -4,12 +4,17 @@ module DynamicView
   class DebugPostMissingPhotosExifView < WiderPageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog)
-      @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+    def initialize(context : RenderContext)
+      @url = "/debug/posts_photos_missing_exif"
+      super(context: context, url: @url)
+      @posts = context.posts.as(Array(Tremolite::Post))
       @image_url = generate_image_url.as(String)
       @title = "Problemy z exif"
       @subtitle = "cache albo problem z importem/parsowaniem"
-      @url = "/debug/posts_photos_missing_exif"
+    end
+
+    def add_to_sitemap?
+      false
     end
 
     getter :image_url, :title, :subtitle

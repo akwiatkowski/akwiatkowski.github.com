@@ -3,14 +3,19 @@ module DynamicView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @by_tag : String | Nil = nil,
     )
       @url = "/debug/tagged_photos"
+      super(context: context, url: @url)
       @title = "Otagowanie zdjęć we wpisach"
       @subtitle = "aby każde zdjęcia miało jeszcze więcej informacji"
 
-      @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+      @posts = context.posts.as(Array(Tremolite::Post))
+    end
+
+    def add_to_sitemap?
+      false
     end
 
     getter :title, :subtitle
@@ -74,7 +79,7 @@ module DynamicView
     end
 
     private def published_photos_in_post(post)
-      return @blog.data_manager.exif_db.published_photo_entities(post.slug)
+      return context.exif_db.published_photo_entities(post.slug)
     end
   end
 end

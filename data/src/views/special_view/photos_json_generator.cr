@@ -5,9 +5,10 @@ module SpecialView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @url : String = "/photos.json",
     )
+      @context = context
     end
 
     getter :url
@@ -23,7 +24,7 @@ module SpecialView
 
     def to_json
       all_photos = Array(PhotoEntity).new
-      @blog.post_collection.posts.each do |post|
+      @context.posts.each do |post|
         all_photos += post.all_photo_entities_unsorted
       end
 

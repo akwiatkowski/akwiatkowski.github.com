@@ -1,18 +1,24 @@
 class PoisView < PageView
   Log = ::Log.for(self)
 
-  def initialize(@blog : Tremolite::Blog, @url : String)
-    @image_url = @blog.data_manager.not_nil!["pois.backgrounds"].as(String)
-    @title = @blog.data_manager.not_nil!["pois.title"].as(String)
-    @subtitle = @blog.data_manager.not_nil!["pois.subtitle"].as(String)
+  def initialize(context : RenderContext, @url : String)
+    super(context: context, url: @url)
+    meta = context.page_meta("pois")
+    @image_url = meta[:backgrounds].as(String)
+    @title = meta[:title].as(String)
+    @subtitle = meta[:subtitle].as(String)
   end
 
   getter :image_url, :title, :subtitle
 
+  def add_to_sitemap?
+    true
+  end
+
   def inner_html
     posts_content = ""
 
-    @blog.post_collection.posts_from_latest.each do |post|
+    context.posts_from_latest.each do |post|
       pois_content = ""
       post.pois.not_nil!.each do |poi|
         pois_content += load_html("pois/poi", {

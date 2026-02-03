@@ -267,7 +267,7 @@ module GEOS
       LibGEOS.GEOSGeom_destroy_r(@ctx, point_ptr)
 
       return nil if x_ok == 0 || y_ok == 0
-      {x, y}  # Returns {lon, lat}
+      {x, y} # Returns {lon, lat}
     end
 
     # Extract exterior ring coordinates from polygon as [[lon, lat], ...]

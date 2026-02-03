@@ -36,7 +36,7 @@ def register_stats_views(r : ViewRegistry)
   #
   r.register("Stats: summary page", [:posts, :yamls], priority: 40) do |ctx|
     ViewRegistry::Log.info { "Rendering summary page" }
-    ctx.write_output(DynamicView::SummaryView.new(blog: ctx.blog, url: "/zestawienie.html"))
+    ctx.write_output(DynamicView::SummaryView.new(context: ctx, url: "/zestawienie.html"))
   end
 
   # ============================================
@@ -57,7 +57,7 @@ def register_stats_views(r : ViewRegistry)
     ViewRegistry::Log.info { "Rendering year stat reports" }
     years = ctx.years
     years.each do |year|
-      ctx.write_output(DynamicView::YearStatReportView.new(blog: ctx.blog, year: year, all_years: years))
+      ctx.write_output(DynamicView::YearStatReportView.new(context: ctx, year: year, all_years: years))
     end
   end
 
@@ -75,7 +75,7 @@ def register_stats_views(r : ViewRegistry)
   #
   r.register("Stats: burnout", [:posts, :yamls], priority: 42) do |ctx|
     ViewRegistry::Log.info { "Rendering burnout stats page" }
-    ctx.write_output(DynamicView::BurnoutStatView.new(blog: ctx.blog))
+    ctx.write_output(DynamicView::BurnoutStatView.new(context: ctx))
   end
 
   # ============================================
@@ -92,7 +92,7 @@ def register_stats_views(r : ViewRegistry)
   #
   r.register("Stats: towns history", [:posts, :yamls], priority: 43) do |ctx|
     ViewRegistry::Log.info { "Rendering towns history page" }
-    ctx.write_output(DynamicView::TownsHistoryView.new(blog: ctx.blog, url: "/gminy/historia.html"))
+    ctx.write_output(DynamicView::TownsHistoryView.new(context: ctx, url: "/gminy/historia.html"))
   end
 
   # ============================================
@@ -109,6 +109,6 @@ def register_stats_views(r : ViewRegistry)
   #
   r.register("Stats: towns timeline", [:posts, :yamls], priority: 44) do |ctx|
     ViewRegistry::Log.info { "Rendering towns timeline page" }
-    ctx.write_output(DynamicView::TownsTimelineView.new(blog: ctx.blog, url: "/gminy/chronologicznie.html"))
+    ctx.write_output(DynamicView::TownsTimelineView.new(context: ctx, url: "/gminy/chronologicznie.html"))
   end
 end

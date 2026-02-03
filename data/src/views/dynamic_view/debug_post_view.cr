@@ -4,12 +4,16 @@ module DynamicView
   class DebugPostView < WiderPageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog)
-      @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+    def initialize(context : RenderContext)
+      super(context: context, url: "/debug/posts")
+      @posts = context.posts.as(Array(Tremolite::Post))
       @image_url = generate_image_url.as(String)
       @title = "Które wpisy są gotowe?"
       @subtitle = ""
-      @url = "/debug/posts"
+    end
+
+    def add_to_sitemap?
+      false
     end
 
     getter :image_url, :title, :subtitle

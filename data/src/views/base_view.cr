@@ -5,17 +5,20 @@ class BaseView < Tremolite::Views::BaseView
   @tag_nav : String?
   @lands_nav : String?
 
-  # RenderContext provides typed access to common data
-  # Lazily created from @blog for backward compatibility
-  @context : RenderContext?
+  # # Legacy constructor - for backward compatibility during migration
+  # def initialize(blog : Tremolite::Blog, @url : String)
+  #   super(blog: blog, url: @url)
+  # end
 
-  def initialize(@blog : Tremolite::Blog, @url : String)
+  # New constructor - views should use this
+  def initialize(context : RenderContext, @url : String)
+    super(context: context, url: @url)
   end
 
-  # Get or create RenderContext from @blog
-  # This enables gradual migration - views can use either @blog or context
+  # Get RenderContext - from parent or create lazily from @blog
   def context : RenderContext
-    @context ||= RenderContext.new(@blog)
+    return @context.not_nil! if @context
+    @context ||= RenderContext.new(@blog.not_nil!)
   end
 
   # helper

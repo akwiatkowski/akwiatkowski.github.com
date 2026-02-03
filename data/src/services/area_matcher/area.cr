@@ -27,7 +27,7 @@ class AreaMatcher::Area
     @coords : Array(Array(Float64)),
     @voivodeship : String? = nil,
     @terc : String? = nil,
-    @code : String? = nil
+    @code : String? = nil,
   )
     @geom = nil
     @prepared = nil

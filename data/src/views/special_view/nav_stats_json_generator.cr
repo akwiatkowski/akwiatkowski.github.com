@@ -5,9 +5,10 @@ module SpecialView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @url : String = "/nav_stats.json",
     )
+      @context = context
     end
 
     getter :url
@@ -22,7 +23,7 @@ module SpecialView
     end
 
     def to_json
-      nav_stats_cache = @blog.data_manager.nav_stats_cache.not_nil!
+      nav_stats_cache = @context.nav_stats_cache
 
       result = JSON.build do |json|
         json.object do

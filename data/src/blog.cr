@@ -36,15 +36,17 @@ class Tremolite::Blog
     @render_coordinator ||= RenderCoordinator.new(view_registry)
   end
 
+  def context
+    @context ||= RenderContext.new(self)
+  end
+
   # New render method using the registry
   # This can run alongside the old render method for validation
   def render_with_registry(
     posts_changed : Bool,
     yamls_changed : Bool,
-    exifs_changed : Bool
+    exifs_changed : Bool,
   )
-    context = RenderContext.new(self)
-
     # Build the changed set
     changed = Set(Symbol).new
     changed << :posts if posts_changed
@@ -67,6 +69,7 @@ class Tremolite::Blog
       exifs_changed: true
     )
   end
+
   def mod_watcher_summary
     # keep in mind posts were not yet loaded
     # 0) check what was changed
@@ -193,7 +196,7 @@ class Tremolite::Blog
     # with google stuff
     if force_full_render
       ctx = RenderContext.new(self)
-      ctx.write_output(Tremolite::Views::SiteMapGenerator.new(blog: self, url: "/sitemap.xml"))
+      ctx.write_output(Tremolite::Views::SiteMapGenerator.new(context: context))
     end
 
     validator.run

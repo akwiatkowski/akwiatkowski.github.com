@@ -5,9 +5,10 @@ module SpecialView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @url : String = "/payload.json",
     )
+      @context = context
     end
 
     getter :url
@@ -27,7 +28,7 @@ module SpecialView
           # posts
           json.field "posts" do
             json.array do
-              @blog.post_collection.posts.each do |post|
+              @context.posts.each do |post|
                 json.object do
                   json.field("url", post.url)
                   json.field("slug", post.slug)
@@ -67,7 +68,7 @@ module SpecialView
           # towns
           json.field "towns" do
             json.array do
-              @blog.data_manager.not_nil!.towns.not_nil!.each do |town|
+              @context.towns.each do |town|
                 json.object do
                   json.field("url", town.view_url)
                   json.field("slug", town.slug)
@@ -84,7 +85,7 @@ module SpecialView
           # voivodeships
           json.field "voivodeships" do
             json.array do
-              @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
+              @context.voivodeships.each do |voivodeship|
                 json.object do
                   json.field("url", voivodeship.view_url)
                   json.field("slug", voivodeship.slug)
@@ -99,7 +100,7 @@ module SpecialView
           # tags
           json.field "tags" do
             json.array do
-              @blog.data_manager.not_nil!.tags.not_nil!.each do |tag|
+              @context.tags.each do |tag|
                 json.object do
                   json.field("url", tag.view_url)
                   json.field("slug", tag.slug)
@@ -114,7 +115,7 @@ module SpecialView
           # lands
           json.field "lands" do
             json.array do
-              @blog.data_manager.not_nil!.lands.not_nil!.each do |land|
+              @context.lands.each do |land|
                 json.object do
                   json.field("url", land.view_url)
                   json.field("slug", land.slug)

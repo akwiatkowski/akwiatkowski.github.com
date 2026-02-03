@@ -17,8 +17,7 @@ module DynamicView
     end
 
     def initialize(
-      @blog : Tremolite::Blog,
-      @url : String,
+      context : RenderContext,
       @by_tag : String | Nil = nil,
     )
       @url = "/exif_stats"
@@ -26,7 +25,7 @@ module DynamicView
       @subtitle = ""
 
       @published_photos = Array(PhotoEntity).new
-      @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+      @posts = context.posts.as(Array(Tremolite::Post))
 
       # filter by tag
       if @by_tag
@@ -40,8 +39,10 @@ module DynamicView
         end
       end
 
+      super(context: context, url: @url)
+
       @posts.each do |post|
-        published_photos = @blog.data_manager.exif_db.published_photo_entities(post.slug)
+        published_photos = context.exif_db.published_photo_entities(post.slug)
         Log.debug { "post #{post.slug} - #{published_photos.size} photos" }
         @published_photos += published_photos
       end

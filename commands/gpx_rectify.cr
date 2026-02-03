@@ -1,4 +1,4 @@
-require "../../tremolite/src/tremolite"
+require "../data/src/tremolite/tremolite"
 require "../data/src/blog"
 
 env_paths = Array(String).new

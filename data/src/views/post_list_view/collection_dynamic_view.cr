@@ -3,11 +3,16 @@ module PostListView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @url : String,
       @filter_by : String = "",
       @filter_value : String = "",
     )
+      super(context: context, url: @url)
+    end
+
+    def add_to_sitemap?
+      true
     end
 
     def content
@@ -24,7 +29,7 @@ module PostListView
     end
 
     def title
-      @blog.data_manager.not_nil!["home.title"]
+      context["home.title"]
     end
 
     def meta_keywords_string

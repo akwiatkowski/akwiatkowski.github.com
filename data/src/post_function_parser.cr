@@ -2,6 +2,12 @@ class Tremolite::Views::BaseView
   PHOTO_COMMAND        = "photo"
   HEADER_PHOTO_COMMAND = "photo_header"
 
+  @context : RenderContext?
+
+  def context
+    @context.not_nil!.as(RenderContext)
+  end
+
   def custom_process_function(
     command : String,
     string : String,
@@ -104,7 +110,7 @@ class Tremolite::Views::BaseView
   def post_photo(post : Tremolite::Post, image_filename : String, desc : String, param_string : String)
     # create entity instance
     photo_entity = PhotoEntity.new(
-      blog: @blog,
+      photo_tags: context.photo_tags,
       post: post,
       desc: desc,
       image_filename: image_filename,
@@ -112,7 +118,7 @@ class Tremolite::Views::BaseView
     )
 
     # add to list, fetch exif or get exif cache, set some attribs
-    exifed_pe = @blog.data_manager.exif_db.append_published_photo_entity(photo_entity)
+    exifed_pe = context.exif_db.append_published_photo_entity(photo_entity)
 
     return post_image(
       photo: exifed_pe,
@@ -139,7 +145,7 @@ class Tremolite::Views::BaseView
       # only predefined tags will have icon link to gallery page
       PhotoEntity::TAG_BOOTSTRAP_ICON.keys.each do |tag|
         if photo.tags.includes?(tag)
-          selected_photo_tag = @blog.data_manager.photo_tags.not_nil!.select do |photo_tag|
+          selected_photo_tag = context.photo_tags.select do |photo_tag|
             photo_tag.slug == tag
           end
 
@@ -228,8 +234,7 @@ class Tremolite::Views::BaseView
       next if photo_entity.exif.lat.nil?
       next if photo_entity.exif.lon.nil?
 
-      data_manager = @blog.data_manager.not_nil!
-      photo_coord_quant_cache = data_manager.photo_coord_quant_cache.not_nil!
+      photo_coord_quant_cache = context.photo_coord_quant_cache
       array = photo_coord_quant_cache.get(photo_entity.not_nil!)
 
       if array && array.not_nil!.size > min_count
@@ -275,7 +280,7 @@ class Tremolite::Views::BaseView
   end
 
   def output_path
-    @blog.output_path.as(String)
+    context.output_path
   end
 
   def image_size(url)

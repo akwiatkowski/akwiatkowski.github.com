@@ -4,6 +4,10 @@ module GalleryView
   class AbstractIndexView < PageView
     getter :image_url, :title, :subtitle, :year, :url, :renderers, :filtered_renderers
 
+    def add_to_sitemap?
+      true
+    end
+
     def inner_html
       return String.build do |s|
         s << "<ul>\n"

@@ -4,15 +4,20 @@ module DynamicView
   class DebugPostCameraStuffView < WiderPageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog)
+    def initialize(context : RenderContext)
+      @url = "/debug/posts_camera_stuff"
+      super(context: context, url: @url)
       # only posts with filters
-      @posts = @blog.post_collection.posts.as(Array(Tremolite::Post)).select do |post|
+      @posts = context.posts.as(Array(Tremolite::Post)).select do |post|
         post.published_photo_entities.size > 0
       end.as(Array(Tremolite::Post))
       @image_url = generate_image_url.as(String)
       @title = "Jaki sprzęt wziąłem?"
       @subtitle = "liczone będą tylko zdjęcia upublicznione we wpisach"
-      @url = "/debug/posts_camera_stuff"
+    end
+
+    def add_to_sitemap?
+      false
     end
 
     getter :image_url, :title, :subtitle

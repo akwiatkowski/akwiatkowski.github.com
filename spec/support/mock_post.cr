@@ -16,7 +16,7 @@ class MockPost
   def initialize(
     @slug = "test-post",
     @title = "Test Post Title",
-    @ready = true
+    @ready = true,
   )
   end
 

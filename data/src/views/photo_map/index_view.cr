@@ -1,8 +1,10 @@
 class PhotoMap::IndexView < PageView
   Log = ::Log.for(self)
 
+  getter :title, :subtitle, :image_url
+
   def initialize(
-    @blog : Tremolite::Blog,
+    context : RenderContext,
     @url : String,
     @photomaps_for_tag : Hash(String, PhotoMap::MultiplePhotoEntitiesGridMapSvgView),
     @photomaps_for_voivodeship_big : Hash(String, PhotoMap::MultiplePostsGridAndRoutesMapSvgView),
@@ -13,17 +15,14 @@ class PhotoMap::IndexView < PageView
     @photomaps_global : Hash(String, PhotoMap::AbstractSvgView),
     @subtitle : String = "",
   )
+    super(context: context, url: @url)
+    meta = context.page_meta("map")
+    @title = meta[:title].as(String)
+    @image_url = meta[:backgrounds].as(String)
   end
 
-  getter :subtitle
-
-  # main params of this page
-  def title
-    @blog.data_manager.not_nil!["map.title"]
-  end
-
-  def image_url
-    @image_url = @blog.data_manager.not_nil!["map.backgrounds"].as(String)
+  def add_to_sitemap?
+    true
   end
 
   private def inner_html_posts(s)
@@ -90,7 +89,7 @@ class PhotoMap::IndexView < PageView
     s << "<h3>Tagi:</h3>\n"
     s << "<ul>\n"
     @photomaps_for_tag.keys.each do |tag_slug|
-      tag_name = @blog.data_manager.not_nil!["gallery.#{tag_slug}.title"]?
+      tag_name = context["gallery.#{tag_slug}.title"]?
 
       if tag_name.nil?
         Log.error { "photo tag '#{tag_slug}' missing from config.yml" }

@@ -27,6 +27,6 @@ struct AreaMatcher::BBox
   end
 
   def center : {Float64, Float64}
-    {(north + south) / 2, (east + west) / 2}  # {lat, lon}
+    {(north + south) / 2, (east + west) / 2} # {lat, lon}
   end
 end

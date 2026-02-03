@@ -192,12 +192,12 @@ def register_photo_views(r : ViewRegistry)
       quant_renderers[key[:lat]] ||= Hash(Float32, GalleryView::QuantCoordView).new
       quant_renderers[key[:lat]][key[:lon]] = view
     end
-    quant_coord_index_view = GalleryView::QuantCoordIndexView.new(blog: blog, renderers: quant_renderers)
+    quant_coord_index_view = GalleryView::QuantCoordIndexView.new(context: ctx, renderers: quant_renderers)
     ctx.write_output(quant_coord_index_view)
 
     # === Main gallery index ===
     ctx.write_output(GalleryView::IndexView.new(
-      blog: blog,
+      context: ctx,
       tag_gallery_index_view: tag_gallery_index_view,
       lens_gallery_index_view: lens_gallery_index_view,
       camera_gallery_index_view: camera_gallery_index_view,
@@ -208,16 +208,16 @@ def register_photo_views(r : ViewRegistry)
     ))
 
     # === Gallery stats ===
-    ctx.write_output(DynamicView::DebugTagStatsView.new(blog: blog))
-    ctx.write_output(DynamicView::TimelinePhotoView.new(blog: blog))
+    ctx.write_output(DynamicView::DebugTagStatsView.new(context: ctx))
+    ctx.write_output(DynamicView::TimelinePhotoView.new(context: ctx))
 
     # === Portfolio ===
-    ctx.write_output(DynamicView::PortfolioView.new(blog: blog, url: "/portfolio.html"))
+    ctx.write_output(DynamicView::PortfolioView.new(context: ctx, url: "/portfolio.html"))
 
     # === EXIF stats ===
-    ctx.write_output(DynamicView::ExifStatsView.new(blog: blog, url: "/exif_stats"))
+    ctx.write_output(DynamicView::ExifStatsView.new(context: ctx))
     ["bicycle", "hike", "photo", "train"].each do |tag|
-      ctx.write_output(DynamicView::ExifStatsView.new(blog: blog, url: "/exif_stats", by_tag: tag))
+      ctx.write_output(DynamicView::ExifStatsView.new(context: ctx, by_tag: tag))
     end
   end
 
@@ -374,7 +374,7 @@ def register_photo_views(r : ViewRegistry)
 
     # === Photo maps index ===
     ctx.write_output(PhotoMap::IndexView.new(
-      blog: blog,
+      context: ctx,
       url: "/mapa_zdjec.html",
       photomaps_for_tag: photomaps_for_tag,
       photomaps_for_voivodeship_big: photomaps_for_voivodeship_big,

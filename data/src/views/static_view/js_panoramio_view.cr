@@ -2,7 +2,12 @@ module StaticView
   class JsPanoramioView < BaseView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url : String)
+    def initialize(context : RenderContext, @url : String)
+      super(context: context, url: @url)
+    end
+
+    def add_to_sitemap?
+      true
     end
 
     def content

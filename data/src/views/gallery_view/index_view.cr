@@ -5,7 +5,7 @@ module GalleryView
     URL = "/galeria.html"
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @tag_gallery_index_view : TagIndexView,
       @lens_gallery_index_view : LensIndexView,
       @camera_gallery_index_view : CameraIndexView,
@@ -15,19 +15,18 @@ module GalleryView
       @quant_coord_index_view : QuantCoordIndexView,
     )
       @url = URL
+      super(context: context, url: @url)
+      meta = context.page_meta("gallery")
+      @title = meta[:title].as(String)
+      @subtitle = meta[:subtitle].as(String)
+      @image_url = meta[:backgrounds].as(String)
     end
 
-    def subtitle
-      @blog.data_manager.not_nil!["gallery.subtitle"]
+    def add_to_sitemap?
+      true
     end
 
-    def title
-      @blog.data_manager.not_nil!["gallery.title"]
-    end
-
-    def image_url
-      @image_url ||= @blog.data_manager.not_nil!["gallery.backgrounds"].as(String)
-    end
+    getter :title, :subtitle, :image_url
 
     def inner_html
       return String.build do |s|

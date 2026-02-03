@@ -36,17 +36,17 @@ class ViewRegistry
 
   # Convenience constants for use in registrations
   module Priority
-    SETUP   = 1
-    EXIF    = 4
-    CACHE   = 5
-    ENTITY  = 10
-    HOME    = 20
-    PHOTO   = 30
-    STATS   = 40
-    FEED    = 50
-    INDEX   = 60
-    STATIC  = 90
-    DEBUG   = 100
+    SETUP  =   1
+    EXIF   =   4
+    CACHE  =   5
+    ENTITY =  10
+    HOME   =  20
+    PHOTO  =  30
+    STATS  =  40
+    FEED   =  50
+    INDEX  =  60
+    STATIC =  90
+    DEBUG  = 100
   end
 
   struct Entry
@@ -136,7 +136,7 @@ class ViewRegistry
       yamls = entry.depends_on.includes?(:yamls) ? "  ✓  " : "     "
       exifs = entry.depends_on.includes?(:exifs) ? "  ✓  " : "     "
       io.puts "%-32s | %s | %3d | %s | %s | %s |" % [
-        entry.name[0, 32], type, entry.priority, posts, yamls, exifs
+        entry.name[0, 32], type, entry.priority, posts, yamls, exifs,
       ]
     end
   end
@@ -200,7 +200,7 @@ class ViewRegistry
         yamls = entry.depends_on.includes?(:yamls) ? "  ✓  " : "     "
         exifs = entry.depends_on.includes?(:exifs) ? "  ✓  " : "     "
         io.puts "%-32s | %s | %3d | %s | %s | %s |" % [
-          entry.name[0, 32], type, entry.priority, posts, yamls, exifs
+          entry.name[0, 32], type, entry.priority, posts, yamls, exifs,
         ]
       end
       io.puts "```"

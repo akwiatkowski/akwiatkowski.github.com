@@ -5,9 +5,10 @@ module DynamicView
   class BurnoutStatView < WidePageView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog)
-      @stat = BurnoutStat.new(blog: @blog)
+    def initialize(context : RenderContext)
       @url = "/burnout"
+      super(context: context, url: @url)
+      @stat = BurnoutStat.new(posts: context.posts)
     end
 
     # a bit internal at this moment

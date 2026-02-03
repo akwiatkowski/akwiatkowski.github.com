@@ -5,7 +5,6 @@ module SpecialView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
       @posts : Array(Tremolite::Post),
       @site_title : String,
       @site_url : String,

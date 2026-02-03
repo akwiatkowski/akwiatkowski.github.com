@@ -7,12 +7,16 @@ module GalleryView
 
     @reverse : Bool?
 
+    def add_to_sitemap?
+      true
+    end
+
     private def data_manager : Tremolite::DataManager
-      return @blog.data_manager.not_nil!
+      return context.config
     end
 
     private def posts : Array(Tremolite::Post)
-      return @blog.post_collection.posts
+      return context.posts
     end
 
     # all but only published

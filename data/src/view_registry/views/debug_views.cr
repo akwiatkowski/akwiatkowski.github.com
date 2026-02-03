@@ -33,7 +33,7 @@ def register_debug_views(r : ViewRegistry)
   #
   r.register("Debug: posts", [:posts], priority: 100) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug posts page" }
-    ctx.write_output(DynamicView::DebugPostView.new(blog: ctx.blog))
+    ctx.write_output(DynamicView::DebugPostView.new(context: ctx))
   end
 
   # ============================================
@@ -49,7 +49,7 @@ def register_debug_views(r : ViewRegistry)
   #
   r.register("Debug: camera stuff", [:exifs], priority: 101) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug camera stuff page" }
-    ctx.write_output(DynamicView::DebugPostCameraStuffView.new(blog: ctx.blog))
+    ctx.write_output(DynamicView::DebugPostCameraStuffView.new(context: ctx))
   end
 
   # ============================================
@@ -65,6 +65,6 @@ def register_debug_views(r : ViewRegistry)
   #
   r.register("Debug: missing EXIF", [:exifs], priority: 102) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug missing EXIF page" }
-    ctx.write_output(DynamicView::DebugPostMissingPhotosExifView.new(blog: ctx.blog))
+    ctx.write_output(DynamicView::DebugPostMissingPhotosExifView.new(context: ctx))
   end
 end

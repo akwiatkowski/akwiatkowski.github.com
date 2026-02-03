@@ -39,7 +39,7 @@ def register_entity_views(r : ViewRegistry)
     ViewRegistry::Log.info { "Rendering town pages" }
     ctx.towns.each do |town|
       ctx.validator.validate_object(town)
-      ctx.write_output(PostListView::TownDynamicView.new(blog: ctx.blog, town: town))
+      ctx.write_output(PostListView::TownDynamicView.new(context: ctx, town: town))
     end
   end
 
@@ -60,7 +60,7 @@ def register_entity_views(r : ViewRegistry)
     ViewRegistry::Log.info { "Rendering tag pages" }
     ctx.tags.each do |tag|
       ctx.validator.validate_object(tag)
-      ctx.write_output(PostListView::TagDynamicView.new(blog: ctx.blog, tag: tag))
+      ctx.write_output(PostListView::TagDynamicView.new(context: ctx, tag: tag))
     end
   end
 
@@ -82,7 +82,7 @@ def register_entity_views(r : ViewRegistry)
     ViewRegistry::Log.info { "Rendering voivodeship pages" }
     ctx.voivodeships.each do |voivodeship|
       ctx.validator.validate_object(voivodeship)
-      ctx.write_output(PostListView::VoivodeshipDynamicView.new(blog: ctx.blog, voivodeship: voivodeship))
+      ctx.write_output(PostListView::VoivodeshipDynamicView.new(context: ctx, voivodeship: voivodeship))
     end
   end
 
@@ -108,7 +108,7 @@ def register_entity_views(r : ViewRegistry)
     ctx.blog.post_collection.ensure_posts_have_assigned_lands
     ctx.lands.each do |land|
       ctx.validator.validate_object(land)
-      ctx.write_output(PostListView::LandDynamicView.new(blog: ctx.blog, land: land))
+      ctx.write_output(PostListView::LandDynamicView.new(context: ctx, land: land))
     end
   end
 end

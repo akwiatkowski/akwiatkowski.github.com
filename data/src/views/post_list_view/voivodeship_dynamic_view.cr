@@ -4,10 +4,14 @@ module PostListView
   class VoivodeshipDynamicView < CollectionDynamicView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @voivodeship : VoivodeshipEntity)
-      @filter_by = "town" # TODO: use town for towns and voivodeship ?
-      @filter_value = @voivodeship.slug
-      @url = @voivodeship.view_url
+    def initialize(context : RenderContext, @voivodeship : VoivodeshipEntity)
+      # TODO: use town for towns and voivodeship ?
+      super(
+        context: context,
+        url: @voivodeship.view_url,
+        filter_by: "town",
+        filter_value: @voivodeship.slug
+      )
     end
 
     def title
