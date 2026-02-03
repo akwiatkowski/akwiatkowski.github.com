@@ -1,5 +1,17 @@
 require "yaml"
 
+# DEPRECATED: Use AreaEntity with AreaType::Town instead
+#
+# This class is deprecated and will be removed after full migration.
+# See PLAN.md for migration status.
+#
+# Dependencies that need migration:
+# - data/src/data_manager.cr
+# - data/src/validator.cr
+# - data/src/services/town_photo_cache.cr
+# - data/src/post/accessors.cr
+# - data/src/models/idea_entity.cr
+
 alias TownEntityHash = Hash(String, String | Array(String))
 
 struct TownEntity

@@ -12,6 +12,9 @@ module ModelView
       @subtitle = meta[:subtitle].as(String)
 
       @posts = context.posts.as(Array(Tremolite::Post))
+      # Use unified AreaEntity system
+      @towns = context.areas_of_type(AreaType::Town).as(Array(AreaEntity))
+      @voivodeships = context.areas_of_type(AreaType::Voivodeship).as(Array(AreaEntity))
     end
 
     def add_to_sitemap?
@@ -23,11 +26,11 @@ module ModelView
     def inner_html
       s = "<ol>"
 
-      context.voivodeships.each do |voivodeship|
+      @voivodeships.each do |voivodeship|
         s += "<li>\n<h2>#{voivodeship.name}</h2>\n"
         s += "<ol>\n"
 
-        context.towns.select { |t| t.voivodeship == voivodeship.slug }.each do |town|
+        @towns.select { |t| t.voivodeship_slug == voivodeship.slug }.each do |town|
           s += town_element(town)
         end
 
@@ -37,12 +40,13 @@ module ModelView
       return s
     end
 
-    def town_element(town)
-      s = "<li><a href=\"#{town.view_url}\">#{town.name}</a>"
+    def town_element(town : AreaEntity)
+      s = "<li><a href=\"#{town.show_url}\">#{town.name}</a>"
 
       if town.lat && town.lon
-        # s += "<a class=\"small\" href"
-        ump_link = "http://mapa.ump.waw.pl/ump-www/?zoom=13&lat=#{town.lat}&lon=#{town.lon}&layers=B000000FFFFTFF&mlat=#{town.lat}&mlon=#{town.lon}"
+        lat = town.lat.not_nil!
+        lon = town.lon.not_nil!
+        ump_link = "http://mapa.ump.waw.pl/ump-www/?zoom=13&lat=#{lat}&lon=#{lon}&layers=B000000FFFFTFF&mlat=#{lat}&mlon=#{lon}"
         s += " <a href=\"#{ump_link}\" target=\"_blank\"><span class=\"small glyphicon glyphicon-map-marker\"></span></a>"
       end
 

@@ -55,6 +55,16 @@ struct AreaEntity
     bbox.try(&.center)
   end
 
+  # Center latitude (average of min/max)
+  def lat : Float64?
+    center.try(&.[0])
+  end
+
+  # Center longitude (average of min/max)
+  def lon : Float64?
+    center.try(&.[1])
+  end
+
   # Check if a point (lat, lon) is within this area's bounding box
   def bbox_contains?(lat : Float64, lon : Float64) : Bool
     return false if bbox.nil?

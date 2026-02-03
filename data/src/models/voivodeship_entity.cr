@@ -1,5 +1,15 @@
 require "yaml"
 
+# DEPRECATED: Use AreaEntity with AreaType::Voivodeship instead
+#
+# This class is deprecated and will be removed after full migration.
+# See PLAN.md for migration status.
+#
+# Dependencies that need migration:
+# - data/src/data_manager.cr
+# - data/src/models/coord_range.cr
+# - data/src/services/map/link_generator.cr
+
 struct VoivodeshipEntity
   Log = ::Log.for(self)
 

@@ -1,3 +1,12 @@
+# DEPRECATED: Use AreaEntity with AreaType::MesoRegion instead
+#
+# This class is deprecated and will be removed after full migration.
+# See PLAN.md for migration status.
+#
+# Dependencies that need migration:
+# - data/src/data_manager.cr
+# - data/src/models/town_entity.cr (internal use)
+
 struct LandEntity
   Log = ::Log.for(self)
 

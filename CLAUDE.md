@@ -47,7 +47,8 @@ data/src/view_registry/
 │   ├── exif_tasks.cr    #   Priority 3-4: EXIF initialization
 │   └── cache_tasks.cr   #   Priority 5-9: cache refresh
 └── views/               # Output rendering (priority 10+)
-    ├── entity_views.cr  #   Priority 10-19: towns, tags, voivodeships, lands
+    ├── entity_views.cr  #   Priority 11: tags only (areas handled by area_views.cr)
+    ├── area_views.cr    #   Priority 14-16: area pages (show, post list, gallery)
     ├── home_views.cr    #   Priority 20-29: home, map, POIs
     ├── photo_views.cr   #   Priority 30-39: galleries, photo maps
     ├── stats_views.cr   #   Priority 40-49: summary, year reports
@@ -222,6 +223,9 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-03: Output History Comparator added (data/src/services/output_history.cr)
 - 2026-02-03: DebugView namespace created (moved from DynamicView)
 - 2026-02-03: Map::Base migrated to take posts parameter instead of blog
+- 2026-02-03: AreaEntity system complete - unified 5 area types (Town, County, Voivodeship, MesoRegion, MacroRegion)
+- 2026-02-03: Legacy entity views deleted (TownDynamicView, VoivodeshipDynamicView, LandDynamicView, LandView)
+- 2026-02-03: TownEntity, VoivodeshipEntity, LandEntity marked DEPRECATED (see PLAN.md for dependencies)
 
 ---
 

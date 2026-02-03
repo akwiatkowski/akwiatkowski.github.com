@@ -15,14 +15,15 @@ module DynamicView
       @time_from = @times.min.as(Time)
       @time_to = @times.max.as(Time)
 
-      @towns = context.towns.as(Array(TownEntity))
+      # Use unified AreaEntity system instead of TownEntity
+      @towns = context.areas_of_type(AreaType::Town).as(Array(AreaEntity))
       @town_slugs = @towns.map { |town| town.slug }.as(Array(String))
 
-      @self_propelled = Hash(Time, Array(TownEntity)).new
-      @vehicle_propelled = Hash(Time, Array(TownEntity)).new
+      @self_propelled = Hash(Time, Array(AreaEntity)).new
+      @vehicle_propelled = Hash(Time, Array(AreaEntity)).new
 
-      @self_propelled_array = Array(TownEntity).new
-      @vehicle_propelled_array = Array(TownEntity).new
+      @self_propelled_array = Array(AreaEntity).new
+      @vehicle_propelled_array = Array(AreaEntity).new
 
       @self_repeated_sum = 0
       @self_repeated = Hash(Time, Int32).new
@@ -98,8 +99,8 @@ module DynamicView
     end
 
     def month_towns_list(
-      self_propelled_for_month : Array(TownEntity),
-      vehicle_propelled_for_month : Array(TownEntity),
+      self_propelled_for_month : Array(AreaEntity),
+      vehicle_propelled_for_month : Array(AreaEntity),
     )
       s = ""
       self_propelled_for_month.each_with_index do |town_entity, i|
@@ -137,10 +138,10 @@ module DynamicView
       formatted_time = time.at_beginning_of_month
       # set default values in Hash
       unless @self_propelled[formatted_time]?
-        @self_propelled[formatted_time] = Array(TownEntity).new
+        @self_propelled[formatted_time] = Array(AreaEntity).new
       end
       unless @vehicle_propelled[formatted_time]?
-        @vehicle_propelled[formatted_time] = Array(TownEntity).new
+        @vehicle_propelled[formatted_time] = Array(AreaEntity).new
       end
       unless @self_repeated[formatted_time]?
         # this is sum
@@ -171,7 +172,8 @@ module DynamicView
 
       towns_in_post.each do |town_slug|
         # iterate all towns (not voivodeships) in post
-        town_entity = @towns.select { |town| town.slug == town_slug }.first.as(TownEntity)
+        town_entity = @towns.find { |town| town.slug == town_slug }
+        next unless town_entity
         # and add if not already added
 
         if post.self_propelled?
