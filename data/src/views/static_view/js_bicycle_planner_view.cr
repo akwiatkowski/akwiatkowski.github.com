@@ -2,7 +2,8 @@ module StaticView
   class JsBicyclePlannerView < BaseView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url : String)
+    def initialize(context : RenderContext, @url : String)
+      super(context: context, url: @url)
     end
 
     # integrate but it require some html-head loading magic

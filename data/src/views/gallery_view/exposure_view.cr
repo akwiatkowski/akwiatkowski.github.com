@@ -9,7 +9,7 @@ module GalleryView
     getter :exposure_from, :exposure_to
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @exposure_from : Float64,
       @exposure_to : Float64,
       @tags : Array(String) = Array(String).new,
@@ -17,6 +17,11 @@ module GalleryView
       @fill_until : Int32 = 0,
       @limit : Int32 = LIMIT_FOR_EXPOSURE,
     )
+      @title = "Naświetlenie #{exposure_to_human(@exposure_from)} - #{exposure_to_human(@exposure_to)}"
+      @url = "/galeria/naswietlenie/#{@exposure_from.to_s}.html"
+      @reverse = true
+      super(context: context, url: @url)
+
       @photo_entities = photo_entities_with_tags(
         all_photos: all_published_photo_entities.select { |p|
           p.exif.exposure && p.exif.exposure.not_nil! >= @exposure_from && p.exif.exposure.not_nil! < @exposure_to
@@ -26,10 +31,6 @@ module GalleryView
         fill_until: @fill_until,
         limit: @limit
       ).as(Array(PhotoEntity))
-
-      @title = "Naświetlenie #{exposure_to_human(@exposure_from)} - #{exposure_to_human(@exposure_to)}"
-      @url = "/galeria/naswietlenie/#{@exposure_from.to_s}.html"
-      @reverse = true
     end
 
     def exposure_to_human(exposure : Float64)

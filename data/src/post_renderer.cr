@@ -118,7 +118,7 @@ class PostRenderer
   end
 
   private def render_galleries(post : Tremolite::Post)
-    @ctx.write_output(GalleryView::PostView.new(blog: @blog, post: post))
+    @ctx.write_output(GalleryView::PostView.new(context: @ctx, post: post))
     @ctx.write_output(PostGalleryStatsView.new(context: @ctx, post: post))
   end
 

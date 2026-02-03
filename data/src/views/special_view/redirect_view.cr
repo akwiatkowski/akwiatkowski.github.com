@@ -5,11 +5,12 @@ module SpecialView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @old_url : String,
       @new_url : String,
     )
       @url = @old_url
+      super(context: context, url: @url)
     end
 
     getter :old_url, :new_url, :url

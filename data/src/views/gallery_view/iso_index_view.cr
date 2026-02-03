@@ -3,7 +3,7 @@ module GalleryView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @renderers : Array(IsoView),
     )
       # ordered only with photos
@@ -30,6 +30,7 @@ module GalleryView
       @title = "ISO"
 
       @url = "/galeria/iso.html"
+      super(context: context, url: @url)
     end
   end
 end

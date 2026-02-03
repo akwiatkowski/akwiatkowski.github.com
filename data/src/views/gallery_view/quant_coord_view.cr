@@ -9,7 +9,7 @@ module GalleryView
       :photo_entities
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @key : PhotoCoordQuantCache::PhotoCoordCacheKey,
       @quant_photos : PhotoCoordQuantCache::PhotoCoordCacheArray,
       @quant_info : PhotoCoordQuantCache::PhotoCoordCacheAdditionalInfo,
@@ -19,13 +19,6 @@ module GalleryView
 
       @closest_town_distance = @quant_info[:closest_town_distance].as(Float32)
       @closest_town_name = @quant_info[:closest_town_name].as(String?)
-
-      @photo_entities = all_published_photo_entities.select do |pe|
-        @quant_photos.select do |qp|
-          qp[:image_filename] == pe.image_filename &&
-            qp[:post_slug] == pe.post_slug
-        end.size > 0
-      end.as(Array(PhotoEntity))
 
       if @closest_town_distance.to_i > 20
         town_name_text = " - #{@closest_town_distance.to_i}km od #{@closest_town_name}"
@@ -38,6 +31,14 @@ module GalleryView
       @title = "#{@lat},#{@lon}#{town_name_text}"
       @url = "/galeria/wspolrzedne/#{@lat},#{@lon}.html"
       @reverse = true
+      super(context: context, url: @url)
+
+      @photo_entities = all_published_photo_entities.select do |pe|
+        @quant_photos.select do |qp|
+          qp[:image_filename] == pe.image_filename &&
+            qp[:post_slug] == pe.post_slug
+        end.size > 0
+      end.as(Array(PhotoEntity))
     end
   end
 end

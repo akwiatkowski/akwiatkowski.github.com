@@ -9,7 +9,7 @@ module GalleryView
     getter :iso_from, :iso_to
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @iso_from : Int32,
       @iso_to : Int32,
       @tags : Array(String) = Array(String).new,
@@ -17,6 +17,11 @@ module GalleryView
       @fill_until : Int32 = 0,
       @limit : Int32 = LIMIT_FOR_ISO,
     )
+      @title = "ISO #{@iso_from}"
+      @url = "/galeria/iso/#{@iso_from}.html"
+      @reverse = true
+      super(context: context, url: @url)
+
       @photo_entities = photo_entities_with_tags(
         all_photos: all_published_photo_entities.select { |p|
           p.exif.iso && p.exif.iso.not_nil! >= @iso_from && p.exif.iso.not_nil! < @iso_to
@@ -26,10 +31,6 @@ module GalleryView
         fill_until: fill_until,
         limit: limit
       ).as(Array(PhotoEntity))
-
-      @title = "ISO #{@iso_from}"
-      @url = "/galeria/iso/#{@iso_from}.html"
-      @reverse = true
     end
   end
 end

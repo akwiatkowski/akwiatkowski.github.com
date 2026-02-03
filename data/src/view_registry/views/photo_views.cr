@@ -56,18 +56,18 @@ def register_photo_views(r : ViewRegistry)
     # === Tag galleries ===
     tag_renderers = Array(GalleryView::TagView).new
     blog.data_manager.photo_tags.not_nil!.each do |photo_tag|
-      view = GalleryView::TagView.new(blog: blog, photo_tag: photo_tag)
+      view = GalleryView::TagView.new(context: ctx, photo_tag: photo_tag)
       ctx.write_output(view)
       tag_renderers << view
     end
-    tag_gallery_index_view = GalleryView::TagIndexView.new(blog: blog, renderers: tag_renderers)
+    tag_gallery_index_view = GalleryView::TagIndexView.new(context: ctx, renderers: tag_renderers)
     ctx.write_output(tag_gallery_index_view)
 
     # === Lens galleries ===
     lens_renderers = Array(GalleryView::LensView).new
     ExifEntity::LENS_NAMES.values.each do |lens|
       view = GalleryView::LensView.new(
-        blog: blog,
+        context: ctx,
         lens: lens,
         tags: ["good", "best"],
         include_headers: true,
@@ -76,14 +76,14 @@ def register_photo_views(r : ViewRegistry)
       ctx.write_output(view)
       lens_renderers << view
     end
-    lens_gallery_index_view = GalleryView::LensIndexView.new(blog: blog, renderers: lens_renderers)
+    lens_gallery_index_view = GalleryView::LensIndexView.new(context: ctx, renderers: lens_renderers)
     ctx.write_output(lens_gallery_index_view)
 
     # === Camera galleries ===
     camera_renderers = Array(GalleryView::CameraView).new
     ExifEntity::CAMERA_NAMES.values.each do |camera|
       view = GalleryView::CameraView.new(
-        blog: blog,
+        context: ctx,
         camera: camera,
         tags: ["good", "best"],
         include_headers: true,
@@ -92,7 +92,7 @@ def register_photo_views(r : ViewRegistry)
       ctx.write_output(view)
       camera_renderers << view
     end
-    camera_gallery_index_view = GalleryView::CameraIndexView.new(blog: blog, renderers: camera_renderers)
+    camera_gallery_index_view = GalleryView::CameraIndexView.new(context: ctx, renderers: camera_renderers)
     ctx.write_output(camera_gallery_index_view)
 
     # === Focal length galleries ===
@@ -111,7 +111,7 @@ def register_photo_views(r : ViewRegistry)
     end
     focals.each do |f|
       view = GalleryView::FocalLengthView.new(
-        blog: blog,
+        context: ctx,
         focal_from: f[0].to_f,
         focal_to: f[1].to_f,
         tags: ["good", "best"],
@@ -121,7 +121,7 @@ def register_photo_views(r : ViewRegistry)
       ctx.write_output(view)
       focal_renderers << view
     end
-    focal_length_gallery_index_view = GalleryView::FocalLengthIndexView.new(blog: blog, renderers: focal_renderers)
+    focal_length_gallery_index_view = GalleryView::FocalLengthIndexView.new(context: ctx, renderers: focal_renderers)
     ctx.write_output(focal_length_gallery_index_view)
 
     # === ISO galleries ===
@@ -135,7 +135,7 @@ def register_photo_views(r : ViewRegistry)
     end
     isos.each do |i|
       view = GalleryView::IsoView.new(
-        blog: blog,
+        context: ctx,
         iso_from: i[0],
         iso_to: i[1],
         tags: ["good", "best"],
@@ -145,7 +145,7 @@ def register_photo_views(r : ViewRegistry)
       ctx.write_output(view)
       iso_renderers << view
     end
-    iso_gallery_index_view = GalleryView::IsoIndexView.new(blog: blog, renderers: iso_renderers)
+    iso_gallery_index_view = GalleryView::IsoIndexView.new(context: ctx, renderers: iso_renderers)
     ctx.write_output(iso_gallery_index_view)
 
     # === Exposure galleries ===
@@ -160,7 +160,7 @@ def register_photo_views(r : ViewRegistry)
     end
     exposures.each do |e|
       view = GalleryView::ExposureView.new(
-        blog: blog,
+        context: ctx,
         exposure_from: e[0],
         exposure_to: e[1],
         tags: ["good", "best"],
@@ -170,7 +170,7 @@ def register_photo_views(r : ViewRegistry)
       ctx.write_output(view)
       exposure_renderers << view
     end
-    exposure_gallery_index_view = GalleryView::ExposureIndexView.new(blog: blog, renderers: exposure_renderers)
+    exposure_gallery_index_view = GalleryView::ExposureIndexView.new(context: ctx, renderers: exposure_renderers)
     ctx.write_output(exposure_gallery_index_view)
 
     # === Quantized coordinate galleries ===
@@ -183,7 +183,7 @@ def register_photo_views(r : ViewRegistry)
       quant_info = quant_photos_container[:info]
       next if quant_photos.size == 0
       view = GalleryView::QuantCoordView.new(
-        blog: blog,
+        context: ctx,
         key: key,
         quant_photos: quant_photos,
         quant_info: quant_info

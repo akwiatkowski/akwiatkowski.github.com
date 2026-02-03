@@ -6,12 +6,13 @@ module GalleryView
 
     GALLERY_URL_PREFIX = "/galeria"
 
-    def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)
+    def initialize(context : RenderContext, @post : Tremolite::Post)
       @photo_entities = @post.all_photo_entities_sorted.as(Array(PhotoEntity))
       @title = @post.title.as(String)
       @subtitle = @post.subtitle.as(String)
       @url = @post.gallery_url.as(String)
       @reverse = false
+      super(context: context, url: @url)
     end
 
     def page_desc
@@ -56,7 +57,7 @@ module GalleryView
       data["next_post_pager"] = ""
       data["prev_post_pager"] = ""
 
-      np = @blog.post_collection.next_to(@post)
+      np = context.next_to(@post)
       if np
         nd = Hash(String, String).new
         nd["post.url"] = np.gallery_url
@@ -65,7 +66,7 @@ module GalleryView
         data["next_post_pager"] = nl
       end
 
-      pp = @blog.post_collection.prev_to(@post)
+      pp = context.prev_to(@post)
       if pp
         pd = Hash(String, String).new
         pd["post.url"] = pp.gallery_url

@@ -3,7 +3,7 @@ module GalleryView
     Log = ::Log.for(self)
 
     def initialize(
-      @blog : Tremolite::Blog,
+      context : RenderContext,
       @renderers : Array(FocalLengthView),
     )
       # ordered only with photos
@@ -30,6 +30,7 @@ module GalleryView
       @title = "Ogniskowe"
 
       @url = "/galeria/ogniskowe.html"
+      super(context: context, url: @url)
     end
   end
 end
