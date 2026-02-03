@@ -4,15 +4,10 @@ class Tremolite::Validator
     validate_exif_name_dictionary
   end
 
+  # Validate objects passed from registry
+  # Note: TownEntity validation removed - areas now use auto-selected photos via AreaPhotoSelector
   def validate_object(object)
-    validate_town(town: object) if object.is_a?(TownEntity)
-  end
-
-  def validate_town(town : TownEntity)
-    data_image_path = File.join(blog.data_path, town.relative_image_url)
-    unless File.exists?(data_image_path)
-      error_in_object(town, "#{town.name} / #{town.voivodeship} - missing photo")
-    end
+    # TagEntity validation can be added here if needed
   end
 
   private def validate_exif_name_dictionary

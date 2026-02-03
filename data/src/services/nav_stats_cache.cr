@@ -152,8 +152,8 @@ class NavStatsCache
   PERCENTAGE_LAND_IS_NOT_TOO_POPULAR = 20.0
 
   private def process_model_array_to_nav(
-    model_array : Array,
-    type : String, # TODO: get type from model_array.first.class
+    model_array : Array(TagEntity),
+    type : String,
     ignore_less_than = 1,
     perform_sort = true,
     limit : Int32 = 20,
@@ -168,8 +168,6 @@ class NavStatsCache
       count = posts.select { |post| post.was_in?(model) && post.ready? }.size
       percentage = count.to_f * 100.0 / total_count.to_f
 
-      # not render lands if too many posts are related to it
-      # because it make it not so special
       next if percentage > PERCENTAGE_LAND_IS_NOT_TOO_POPULAR
       next if count < ignore_less_than
 
@@ -188,14 +186,56 @@ class NavStatsCache
       end
     end
 
+    return nav_array[0, limit]
+  end
+
+  # Process AreaEntity arrays for navigation stats
+  private def process_area_array_to_nav(
+    areas : Array(AreaEntity),
+    type : String,
+    ignore_less_than = 1,
+    perform_sort = true,
+    limit : Int32 = 20,
+    ignore : Array(String) = [] of String,
+  )
+    nav_array = Array(NavStatsCacheObject::EntityNavTuple).new
+
+    total_count = posts.size
+    areas.each do |area|
+      next if ignore.includes?(area.slug)
+
+      count = posts.select { |post| post.was_in_area?(area) && post.ready? }.size
+      percentage = count.to_f * 100.0 / total_count.to_f
+
+      # not render lands if too many posts are related to it
+      # because it make it not so special
+      next if percentage > PERCENTAGE_LAND_IS_NOT_TOO_POPULAR
+      next if count < ignore_less_than
+
+      nav_array << NavStatsCacheObject::EntityNavTuple.new(
+        name: area.name,
+        url: area.show_url,
+        count: count,
+        slug: area.slug,
+        type: type
+      )
+    end
+
+    if perform_sort
+      nav_array = nav_array.sort do |a, b|
+        b.count <=> a.count
+      end
+    end
+
     return nav_array[0...limit]
   end
 
   private def refresh_voivodeships_nav
-    voivodeships = @blog.data_manager.voivodeships.not_nil!.select { |v| v.is_poland? }
+    # Use AreaEntity system instead of deprecated VoivodeshipEntity
+    voivodeships = @blog.data_manager.area_data_loader.not_nil!.areas_of_type(AreaType::Voivodeship)
 
-    @stats.voivodeships_nav = process_model_array_to_nav(
-      model_array: voivodeships,
+    @stats.voivodeships_nav = process_area_array_to_nav(
+      areas: voivodeships,
       type: "voivodeship",
       ignore_less_than: 2,
       perform_sort: false,
@@ -206,10 +246,12 @@ class NavStatsCache
   # IGNORED_LANDS = ["rownina_wrzesinska", "pojezierze_poznanskie", "pojezierze_gnieznienskie"]
 
   private def refresh_lands_nav
-    lands = @blog.data_manager.lands.not_nil!
+    # Use AreaEntity system instead of deprecated LandEntity
+    # Lands are now MesoRegions in the new system
+    meso_regions = @blog.data_manager.area_data_loader.not_nil!.areas_of_type(AreaType::MesoRegion)
 
-    @stats.lands_nav = process_model_array_to_nav(
-      model_array: lands,
+    @stats.lands_nav = process_area_array_to_nav(
+      areas: meso_regions,
       type: "lands",
       ignore_less_than: 4,
       perform_sort: true,

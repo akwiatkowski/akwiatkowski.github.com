@@ -245,16 +245,18 @@ def register_photo_views(r : ViewRegistry)
     photomaps_for_post_big = Hash(Tremolite::Post, PhotoMap::PostBigMapSvgView).new
     photomaps_for_post_small = Hash(Tremolite::Post, PhotoMap::PostRouteMapSvgView).new
 
-    # === Voivodeship maps ===
-    ctx.voivodeships.each do |voivodeship|
+    # === Voivodeship maps (using AreaEntity) ===
+    ctx.areas_of_type(AreaType::Voivodeship).each do |voivodeship|
       voivodeship_coord_range = CoordRange.new(voivodeship)
+      next unless voivodeship_coord_range.valid?
+
       post_slugs = ctx.posts.select { |post|
-        post.was_in_voivodeship(voivodeship)
+        post.was_in_area?(voivodeship)
       }.map(&.slug)
 
       big_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
         context: ctx,
-        url: Map::LinkGenerator.url_photomap_for_voivodeship_big(voivodeship: voivodeship),
+        url: Map::LinkGenerator.url_photomap_for_area_big(area: voivodeship),
         zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
         photo_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
         fixed_coord_range: voivodeship_coord_range,
@@ -265,7 +267,7 @@ def register_photo_views(r : ViewRegistry)
 
       small_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
         context: ctx,
-        url: Map::LinkGenerator.url_photomap_for_voivodeship_small(voivodeship: voivodeship),
+        url: Map::LinkGenerator.url_photomap_for_area_small(area: voivodeship),
         zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
         photo_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
         fixed_coord_range: voivodeship_coord_range,

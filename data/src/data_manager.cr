@@ -123,6 +123,7 @@ class Tremolite::DataManager
     end
   end
 
+  # DEPRECATED: Use visited_town_slugs_selfpropelled or visited_town_areas_selfpropelled
   # self-propelled
   def towns_already_visited_only_selfpropelled
     slugs = Array(String).new
@@ -135,6 +136,25 @@ class Tremolite::DataManager
 
     return @towns.not_nil!.select do |town_entity|
       slugs.includes?(town_entity.slug)
+    end
+  end
+
+  # Get slugs of towns visited in self-propelled trips
+  def visited_town_slugs_selfpropelled : Array(String)
+    slugs = Set(String).new
+    @blog.post_collection.posts.each do |post|
+      next unless post.self_propelled?
+      next if post.towns.nil?
+      post.towns.not_nil!.each { |slug| slugs << slug }
+    end
+    slugs.to_a.sort
+  end
+
+  # Get AreaEntity towns that have been visited in self-propelled trips
+  def visited_town_areas_selfpropelled : Array(AreaEntity)
+    slugs = visited_town_slugs_selfpropelled
+    @area_data_loader.not_nil!.areas_of_type(AreaType::Town).select do |area|
+      slugs.includes?(area.slug)
     end
   end
 

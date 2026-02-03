@@ -29,7 +29,7 @@
 - [x] Updated `payload_json_generator.cr` to use AreaEntity system
 - [x] Updated `dynamic.html` JS filtering for all area types
 
-### Phase 6: Legacy Migration (PARTIAL)
+### Phase 6: Legacy Migration (MOSTLY COMPLETE)
 - [x] Deleted legacy view files:
   - `data/src/views/post_list_view/town_dynamic_view.cr`
   - `data/src/views/post_list_view/voivodeship_dynamic_view.cr`
@@ -40,6 +40,16 @@
 - [x] Updated `TownsHistoryView` to use AreaEntity
 - [x] Updated `TownsIndexView` to use AreaEntity
 - [x] Removed legacy requires from `renderer.cr` and `post_list_view/all.cr`
+- [x] Updated `validator.cr` - removed TownEntity validation (areas use auto-selected photos)
+- [x] Updated `post/accessors.cr` - `was_in?` now only accepts TagEntity
+- [x] Updated `coord_range.cr` - added AreaEntity initializer
+- [x] Updated `map/link_generator.cr` - added `url_photomap_for_area_big/small` methods
+- [x] Updated `idea_entity.cr` - methods now accept AreaEntity or String arrays
+- [x] Updated `nav_stats_cache.cr` - uses AreaEntity for voivodeships and meso_regions
+- [x] Updated `photo_views.cr` - voivodeship maps use AreaEntity
+- [x] Updated `ideas_json_generator.cr` - uses AreaEntity with AreaPhotoSelector
+- [x] Updated `data_manager.cr` - added `visited_town_slugs/areas_selfpropelled` methods
+- [x] Updated `render_context.cr` - exposed new visited towns methods
 
 ---
 
@@ -55,17 +65,17 @@ The following classes are **DEPRECATED** and should be migrated to `AreaEntity`:
 
 ### Dependencies on Deprecated Classes
 
-Files that still use deprecated entity classes and need migration:
+Files that still use deprecated entity classes:
 
-| File | Uses | Migration Notes |
-|------|------|-----------------|
-| `data/src/data_manager.cr` | All 3 | Still loads legacy entities for backward compat. Keep until all dependents migrated. |
-| `data/src/validator.cr` | TownEntity | `validate_town` method. Update to validate AreaEntity or remove. |
-| `data/src/services/town_photo_cache.cr` | TownEntity | Replace with `AreaPhotoSelector` or update to use AreaEntity. |
-| `data/src/post/accessors.cr` | All 3 | `was_in?` method. Keep TagEntity support, remove others. |
-| `data/src/models/coord_range.cr` | VoivodeshipEntity | Initializer. Update to use AreaEntity.bbox or remove. |
-| `data/src/services/map/link_generator.cr` | VoivodeshipEntity | `url_photomap_for_voivodeship_*` methods. Update to AreaEntity. |
-| `data/src/models/idea_entity.cr` | TownEntity | `towns_already_visited`, `towns_not_visited`. Update to use AreaEntity. |
+| File | Uses | Status |
+|------|------|--------|
+| `data/src/data_manager.cr` | All 3 | Loads legacy entities. Keep for now, remove when safe. |
+| `data/src/services/town_photo_cache.cr` | TownEntity | Can be removed (AreaPhotoSelector replaces it). |
+| `data/src/validator.cr` | - | ✅ Migrated (TownEntity validation removed) |
+| `data/src/post/accessors.cr` | TagEntity only | ✅ Migrated (deprecated types removed) |
+| `data/src/models/coord_range.cr` | VoivodeshipEntity | ✅ Has AreaEntity initializer, legacy kept for compat |
+| `data/src/services/map/link_generator.cr` | VoivodeshipEntity | ✅ Has AreaEntity methods, legacy kept for compat |
+| `data/src/models/idea_entity.cr` | - | ✅ Migrated to AreaEntity |
 
 ### Internal Dependencies (within deprecated classes)
 
@@ -78,15 +88,13 @@ Files that still use deprecated entity classes and need migration:
 
 ## Remaining Work
 
-### Phase 6: Complete Legacy Migration
+### Phase 6: Final Cleanup (Optional)
 
-1. **TownPhotoCache** - decide: remove entirely (use AreaPhotoSelector) or migrate to AreaEntity
-2. **Validator** - update `validate_town` to work with AreaEntity or remove
-3. **CoordRange** - update VoivodeshipEntity initializer to use AreaEntity.bbox
-4. **Map::LinkGenerator** - update voivodeship methods to use AreaEntity
-5. **IdeaEntity** - update town visitor methods to use AreaEntity
-6. **Post accessors** - update `was_in?` to drop deprecated types (keep TagEntity)
-7. **DataManager** - remove legacy entity loading after all dependents migrated
+1. **TownPhotoCache** - remove entirely (AreaPhotoSelector is the replacement)
+2. **DataManager** - remove legacy entity loading (towns, voivodeships, lands)
+3. **CoordRange** - remove deprecated VoivodeshipEntity initializer
+4. **Map::LinkGenerator** - remove deprecated voivodeship methods
+5. **Delete deprecated entity files** after confirming nothing breaks
 
 ### Phase 7: External Towns (Future)
 - Handle towns outside Poland (foreign countries)
@@ -94,20 +102,22 @@ Files that still use deprecated entity classes and need migration:
 
 ---
 
-## Migration Priority
+## Migration Status
 
-**High Priority** (blocking other work):
-1. `validator.cr` - currently validates TownEntity objects
-2. `post/accessors.cr` - `was_in?` method used by some views
+**Completed:**
+- ✅ `validator.cr` - TownEntity validation removed
+- ✅ `post/accessors.cr` - `was_in?` simplified to TagEntity only
+- ✅ `coord_range.cr` - AreaEntity initializer added
+- ✅ `map/link_generator.cr` - AreaEntity methods added
+- ✅ `idea_entity.cr` - migrated to AreaEntity
+- ✅ `nav_stats_cache.cr` - uses AreaEntity for voivodeships/lands
+- ✅ `photo_views.cr` - voivodeship maps use AreaEntity
+- ✅ `ideas_json_generator.cr` - uses AreaEntity + AreaPhotoSelector
 
-**Medium Priority** (can work around):
-3. `town_photo_cache.cr` - can be replaced by AreaPhotoSelector
-4. `coord_range.cr` - used by photo maps
-5. `map/link_generator.cr` - used by photo maps
-
-**Low Priority** (isolated):
-6. `idea_entity.cr` - only used by ideas view
-7. `data_manager.cr` - final cleanup after all others done
+**Optional cleanup (can be done later):**
+- `town_photo_cache.cr` - can be deleted (replaced by AreaPhotoSelector)
+- `data_manager.cr` - can remove legacy entity loading
+- Deprecated entity files - can be deleted after testing
 
 ---
 
@@ -170,4 +180,4 @@ Files that still use deprecated entity classes and need migration:
 
 ---
 
-*Last updated: 2026-02-03 - Phase 5 complete, Phase 6 partial*
+*Last updated: 2026-02-03 - Phase 6 mostly complete, only cleanup tasks remain*

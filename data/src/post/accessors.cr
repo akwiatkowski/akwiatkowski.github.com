@@ -98,20 +98,14 @@ class Tremolite::Post
     self.header_nogallery.not_nil! != true
   end
 
-  def was_in?(model : (TownEntity | VoivodeshipEntity | TagEntity | LandEntity)) : Bool
+  # Check if post was in a given entity
+  # For areas, use was_in_area? from post/areas.cr instead
+  def was_in?(model : TagEntity) : Bool
     return model.belongs_to_post?(self)
   end
 
   def was_in_voivodeship(voivodeship_slug : String) : Bool
     @towns.not_nil!.includes?(voivodeship_slug)
-  end
-
-  def was_in_voivodeship(voivodeship : TownEntity) : Bool
-    @towns.not_nil!.includes?(voivodeship.slug)
-  end
-
-  def was_in_voivodeship(voivodeship : VoivodeshipEntity) : Bool
-    self.voivodeships.not_nil!.includes?(voivodeship.slug)
   end
 
   # this is not needed now because of react components

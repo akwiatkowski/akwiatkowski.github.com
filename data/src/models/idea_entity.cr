@@ -75,16 +75,23 @@ struct IdeaEntity
     return routes
   end
 
-  # TODO: maybe allow to get array of strings also?
-  def towns_already_visited(visited_towns : Array(TownEntity)) : Int32
-    visited_slugs = visited_towns.map { |town_entity| town_entity.slug }.flatten
+  # Count towns that have already been visited
+  # Accepts either AreaEntity array or String array (slugs)
+  def towns_already_visited(visited_towns : Array(AreaEntity)) : Int32
+    visited_slugs = visited_towns.map { |area| area.slug }
     common = [visited_slugs & @towns].flatten
     return common.size
   end
 
-  # TODO: maybe allow to get array of strings also?
-  def towns_not_visited(visited_towns : Array(TownEntity)) : Int32
-    visited_slugs = visited_towns.map { |town_entity| town_entity.slug }.flatten
+  def towns_already_visited(visited_slugs : Array(String)) : Int32
+    common = [visited_slugs & @towns].flatten
+    return common.size
+  end
+
+  # Count towns that have NOT been visited yet
+  # Accepts either AreaEntity array or String array (slugs)
+  def towns_not_visited(visited_towns : Array(AreaEntity)) : Int32
+    visited_slugs = visited_towns.map { |area| area.slug }
     # @towns are towns which will be marked as visited
     # if we remove already visited then we get to know how many will be
     # added as visited after riding this route
@@ -92,8 +99,13 @@ struct IdeaEntity
     not_visited.size
   end
 
+  def towns_not_visited(visited_slugs : Array(String)) : Int32
+    not_visited = [@towns - visited_slugs].compact.flatten
+    not_visited.size
+  end
+
   def time_cost_stats_for_new_town(
-    visited_towns : Array(TownEntity),
+    visited_towns : Array(AreaEntity),
     total_train_ride_time : Int32,     # rounded, ceiling
     realistic_velocity : Int32 = 10,   # km/h per ride-time (no sleeping and rest time)
     max_per_day_ride_time : Int32 = 8, # hours

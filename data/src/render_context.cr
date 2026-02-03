@@ -243,9 +243,20 @@ class RenderContext
     blog.post_collection.prev_to(post)
   end
 
+  # DEPRECATED: Use visited_town_slugs_selfpropelled or visited_town_areas_selfpropelled
   # Towns already visited (for ideas)
   def towns_already_visited_only_selfpropelled
     config.towns_already_visited_only_selfpropelled
+  end
+
+  # Get slugs of towns visited in self-propelled trips
+  def visited_town_slugs_selfpropelled : Array(String)
+    config.visited_town_slugs_selfpropelled
+  end
+
+  # Get AreaEntity towns that have been visited in self-propelled trips
+  def visited_town_areas_selfpropelled : Array(AreaEntity)
+    config.visited_town_areas_selfpropelled
   end
 
   # ============================================
