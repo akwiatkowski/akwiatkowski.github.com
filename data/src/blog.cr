@@ -10,6 +10,7 @@ require "./services/town_photo_cache"
 require "./services/post_coord_quant_cache"
 require "./services/external_gpx_preprocessor"
 require "./services/tools/all"
+require "./services/output_history"
 require "./render_context"
 require "./post_renderer"
 require "./view_registry/all"
@@ -25,6 +26,7 @@ class Tremolite::Blog
 
   @view_registry : ViewRegistry?
   @render_coordinator : RenderCoordinator?
+  @output_history : OutputHistory?
 
   # Lazy-initialized registry with all views/tasks registered
   def view_registry : ViewRegistry
@@ -38,6 +40,17 @@ class Tremolite::Blog
 
   def context
     @context ||= RenderContext.new(self)
+  end
+
+  # Output history for tracking file changes
+  # Target is extracted from output_path (e.g., "env/dev/public/local" -> "local")
+  def output_history : OutputHistory
+    @output_history ||= begin
+      target = File.basename(output_path)
+      history = OutputHistory.new(target)
+      html_buffer.output_history = history
+      history
+    end
   end
 
   # New render method using the registry
@@ -217,6 +230,12 @@ class Tremolite::Blog
     hide_not_finished : Bool,
   )
     # ============================================
+    # Initialize output history tracking
+    # ============================================
+    # Must be done before any rendering so all changes are tracked.
+    output_history
+
+    # ============================================
     # Per-post rendering
     # ============================================
     # These operations depend on which specific posts changed.
@@ -241,6 +260,11 @@ class Tremolite::Blog
       yamls_changed: yamls_changed,
       exifs_changed: exifs_changed
     )
+
+    # ============================================
+    # Generate history index
+    # ============================================
+    output_history.generate_index_html
   end
 
   # TODO check if it's used

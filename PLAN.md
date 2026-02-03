@@ -307,17 +307,18 @@ when small code changes cause unexpected large output changes.
 - HTML and SVG files only
 - Exclude: JSON files, binary files, files > 500KB
 
-**Storage location:** `env/dev/history/`
+**Storage location:** `env/dev/history/<target>/` where target is `local` or `release`
 
 **Storage structure:**
 ```
 env/dev/history/
-├── index.html                           # Summary page (open in browser)
-└── tag__najnowsze.html/                 # Directory per output (flattened path)
-    ├── 2026-02-03__14-30                # Version 1 (oldest)
-    ├── 2026-02-03__14-35                # Version 2
-    ├── 2026-02-03__14-40                # Version 3 (newest)
-    └── 2026-02-03__14-40.diff           # Diff: v2 → v3
+└── local/                               # Target subdirectory
+    ├── index.html                       # Summary page (open in browser)
+    └── tag__najnowsze.html/             # Directory per output (flattened path)
+        ├── 2026-02-03__14-30            # Version 1 (oldest)
+        ├── 2026-02-03__14-35            # Version 2
+        ├── 2026-02-03__14-40            # Version 3 (newest)
+        └── 2026-02-03__14-40.diff       # Diff: v2 → v3
 ```
 
 **Path flattening:** `/tag/najnowsze.html` → `tag__najnowsze.html`
@@ -342,6 +343,22 @@ env/dev/history/
 
 **At end of render:**
 - Generate `index.html` listing all files that changed this session
+
+### 6.3 Integration Details
+
+**IMPORTANT:** OutputHistory must be initialized BEFORE PostRenderer runs.
+
+The render flow is:
+1. `Blog#render()` is called
+2. `PostRenderer` renders individual posts (uses `ctx.write_output`)
+3. `render_with_registry()` renders aggregate views
+
+OutputHistory must be initialized at step 1, not step 3, otherwise post
+changes won't be tracked.
+
+**Target detection:**
+- `output_path` is like `env/dev/public/local` or `env/dev/public/release`
+- Extract target from last path component of output_path
 - Include inline diff preview or links to .diff files
 
 ### 6.3 Implementation
@@ -354,6 +371,7 @@ class OutputHistory
   MAX_VERSIONS = 3
   HISTORY_PATH = "env/dev/history"
 
+  def initialize(target : String = "local")  # "local" or "release"
   def trackable?(url : String, content : String) : Bool
   def track(url : String, old_content : String, new_content : String)
   def generate_index_html
