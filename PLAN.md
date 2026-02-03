@@ -384,35 +384,43 @@ non json (because jsons are big), and not too big (less than 500kB - put in cons
 - [x] `payload_json_generator.cr`
 - [x] `rss_generator.cr` (removed unused @blog param)
 - [x] `atom_generator.cr` (removed unused @blog param)
+- [x] `post_gallery_stats_view.cr`
+- [x] `mountain_range_planner_view.cr`
+- [x] `land_view.cr`
+- [x] `new_posts_dynamic_view.cr`
+- [x] `post_view/article_view.cr`
+- [x] `gallery_view/post_view.cr`
+- [x] `gallery_view/tag_view.cr`, `camera_view.cr`, `lens_view.cr`
+- [x] `gallery_view/focal_length_view.cr`, `iso_view.cr`, `exposure_view.cr`
+- [x] `gallery_view/quant_coord_view.cr`
+- [x] `gallery_view/*_index_view.cr` (all 7 index views)
+- [x] `special_view/redirect_view.cr` (unused @blog removed)
+- [x] `static_view/js_bicycle_planner_view.cr` (unused @blog removed)
 
-### Views Still Using @blog (need migration)
+### Views Still Using @blog (require service refactoring)
 
-Run `crystal spec` to see next error. Pattern to fix each view:
-1. Change constructor: `@blog : Tremolite::Blog` → `context : RenderContext`
-2. Add `super(context: context, url: @url)`
-3. Replace `@blog.post_collection.posts` → `context.posts`
-4. Replace `@blog.data_manager.not_nil!["x.title"]` → `context.page_meta("x")[:title]`
-5. Replace `@blog.data_manager.towns` → `context.towns`
-6. Replace `@blog.data_manager.exif_db` → `context.exif_db`
-7. Update registry call: `blog: ctx.blog` → `context: ctx`
+**photo_map views** (10 files) - pass `@blog` to `Map::Base`/`Map::Main` services:
+- `abstract_svg_view.cr` (base class)
+- `global_grid_map_svg_view.cr`
+- `global_grid_and_routes_map_svg_view.cr`
+- `global_animated_routes_map_svg_view.cr`
+- `global_dots_map_svg_view.cr`
+- `post_big_map_svg_view.cr`
+- `post_route_map_svg_view.cr`
+- `multiple_posts_grid_and_routes_map_svg_view.cr`
+- `multiple_photo_entities_grid_map_svg_view.cr`
+- `idea_route_map_svg_view.cr`
 
-**Remaining views with @blog** (grep for `@blog\.` in data/src/views):
-- dynamic_view: mountain_range_planner_view
-- post_view: article_view (critical path, complex)
-- post_list_view: new_posts_dynamic_view
-- gallery_view: post_view
-- photo_map: global_*_map_svg_view (4 files), multiple_posts_grid_and_routes_map_svg_view
-- land_view, post_gallery_stats_view
+**Note:** These require migrating `Map::Base` and `Map::Main` services first.
 
-**Still using `blog: ctx.blog` in registry** (grep for `blog: ctx.blog` in view_registry):
-- feed_views: SiteMapGenerator (Tremolite library - external dependency)
+**External dependency:**
+- `SiteMapGenerator` (Tremolite library)
 
 ### Current Session State
 
-**Last error fixed:** `payload_json_generator.cr`
 **Tests:** 146 examples, 0 failures, 0 errors, 2 pending
 
-**To continue:**
-1. Continue migrating remaining 11 views that still use `@blog`
-2. Leave SiteMapGenerator for Tremolite library migration
-3. Run `crystal spec` to verify
+**Next steps (choose one):**
+1. Migrate `Map::Base`/`Map::Main` services → enables photo_map views migration
+2. Implement Step 6.0 (versioning history for HTML/SVG outputs)
+3. Clean up: remove `blog = ctx.blog` from registry where unused
