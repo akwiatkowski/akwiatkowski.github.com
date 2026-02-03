@@ -10,12 +10,26 @@ module PostListView
     Log = ::Log.for(self)
 
     def initialize(context : RenderContext, @area : AreaEntity)
+      @filter_by = area_type_to_filter(@area.area_type)
+      @filter_value = @area.slug
       super(
         context: context,
         url: @area.post_list_url,
-        filter_by: @area.area_type.url_type,
-        filter_value: @area.slug
+        filter_by: @filter_by,
+        filter_value: @filter_value
       )
+    end
+
+    # Map AreaType to filter_by string expected by JavaScript
+    private def area_type_to_filter(type : AreaType) : String
+      case type
+      when AreaType::Town        then "town"
+      when AreaType::County      then "county"
+      when AreaType::Voivodeship then "voivodeship"
+      when AreaType::MesoRegion  then "meso_region"
+      when AreaType::MacroRegion then "macro_region"
+      else "town"
+      end
     end
 
     def title

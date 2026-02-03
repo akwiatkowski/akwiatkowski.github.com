@@ -1,6 +1,8 @@
 require "./collection_dynamic_view"
 
 module PostListView
+  # DEPRECATED: Use AreaPostListView with AreaEntity instead
+  # This view will be removed once area entity migration is complete
   class TownDynamicView < CollectionDynamicView
     Log = ::Log.for(self)
 

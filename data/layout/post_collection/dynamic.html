@@ -30,14 +30,20 @@
                 const data = await response.json();
                 posts = (data.posts || []).filter(p => p.visible && p.ready);
 
-                if (FILTER_BY === "tag") {
-                  posts = posts.filter(p => (p.tags || []).includes(FILTER_VALUE));
-                }
-                if (FILTER_BY === "town") {
-                  posts = posts.filter(p => (p.towns || []).includes(FILTER_VALUE));
-                }
-                if (FILTER_BY === "land") {
-                  posts = posts.filter(p => (p.lands || []).includes(FILTER_VALUE));
+                // Filter posts by area or tag
+                if (FILTER_BY && FILTER_VALUE) {
+                  const filterFieldMap = {
+                    "tag": "tags",
+                    "town": "towns",
+                    "county": "counties",
+                    "voivodeship": "voivodeships",
+                    "meso_region": "meso_regions",
+                    "macro_region": "macro_regions"
+                  };
+                  const field = filterFieldMap[FILTER_BY];
+                  if (field) {
+                    posts = posts.filter(p => (p[field] || []).includes(FILTER_VALUE));
+                  }
                 }
 
                 tags = data.tags;

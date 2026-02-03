@@ -54,50 +54,28 @@ module SpecialView
                   json.field "tags" do
                     json.raw post.tags.to_json
                   end
+                  # New area system - use area_slugs instead of old towns/lands
                   json.field "towns" do
-                    json.raw post.towns.to_json
+                    json.raw post.area_slugs(AreaType::Town).to_json
                   end
-                  json.field "lands" do
-                    json.raw post.lands.to_json
+                  json.field "counties" do
+                    json.raw post.area_slugs(AreaType::County).to_json
+                  end
+                  json.field "voivodeships" do
+                    json.raw post.area_slugs(AreaType::Voivodeship).to_json
+                  end
+                  json.field "meso_regions" do
+                    json.raw post.area_slugs(AreaType::MesoRegion).to_json
+                  end
+                  json.field "macro_regions" do
+                    json.raw post.area_slugs(AreaType::MacroRegion).to_json
                   end
                 end
               end
             end
           end
 
-          # towns
-          json.field "towns" do
-            json.array do
-              @context.towns.each do |town|
-                json.object do
-                  json.field("url", town.view_url)
-                  json.field("slug", town.slug)
-                  json.field("name", town.name)
-                  json.field("header-ext-img", town.image_url)
-                  json.field("image_url", town.image_url)
-                  json.field("voivodeship", town.voivodeship)
-                  json.field("inside", town.voivodeship)
-                end
-              end
-            end
-          end
-
-          # voivodeships
-          json.field "voivodeships" do
-            json.array do
-              @context.voivodeships.each do |voivodeship|
-                json.object do
-                  json.field("url", voivodeship.view_url)
-                  json.field("slug", voivodeship.slug)
-                  json.field("name", voivodeship.name)
-                  json.field("header-ext-img", voivodeship.image_url)
-                  json.field("image_url", voivodeship.image_url)
-                end
-              end
-            end
-          end
-
-          # tags
+          # tags (not an area type, keep as is)
           json.field "tags" do
             json.array do
               @context.tags.each do |tag|
@@ -112,27 +90,36 @@ module SpecialView
             end
           end
 
-          # lands
-          json.field "lands" do
-            json.array do
-              @context.lands.each do |land|
-                json.object do
-                  json.field("url", land.view_url)
-                  json.field("slug", land.slug)
-                  json.field("name", land.name)
-                  json.field("code", land.code)
-                  json.field("image_url", land.image_url)
-                  json.field("country", land.country)
-                end
-              end
-            end
-          end
+          # Areas - using new unified AreaEntity system
+          render_areas(json, "towns", AreaType::Town)
+          render_areas(json, "counties", AreaType::County)
+          render_areas(json, "voivodeships", AreaType::Voivodeship)
+          render_areas(json, "meso_regions", AreaType::MesoRegion)
+          render_areas(json, "macro_regions", AreaType::MacroRegion)
 
           # END
         end
       end
 
       return result
+    end
+
+    private def render_areas(json : JSON::Builder, field_name : String, area_type : AreaType)
+      json.field field_name do
+        json.array do
+          @context.areas_of_type(area_type).each do |area|
+            json.object do
+              json.field("slug", area.slug)
+              json.field("name", area.name)
+              json.field("code", area.code)
+              json.field("voivodeship", area.voivodeship_slug)
+              json.field("show_url", area.show_url)
+              json.field("post_list_url", area.post_list_url)
+              json.field("gallery_url", area.gallery_url)
+            end
+          end
+        end
+      end
     end
   end
 end

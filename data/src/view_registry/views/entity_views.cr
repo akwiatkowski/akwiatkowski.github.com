@@ -1,14 +1,18 @@
-# Entity Views
-# ============
+# Entity Views (LEGACY)
+# =====================
+#
+# DEPRECATED: These views use the old entity system (TownEntity, VoivodeshipEntity, LandEntity).
+# New area views in area_views.cr use the unified AreaEntity system.
+# These will be removed once the area entity migration is complete.
 #
 # These views render entity pages: towns, tags, voivodeships, lands.
 # Each entity type gets its own page listing posts associated with it.
 #
 # Current views:
-# 1. Town pages - /gminy/{slug}.html (priority: 10)
-# 2. Tag pages - /tagi/{slug}.html (priority: 11)
-# 3. Voivodeship pages - /wojewodztwa/{slug}.html (priority: 12)
-# 4. Land pages - /krainy/{slug}.html (priority: 13)
+# 1. Town pages - /gminy/{slug}.html (priority: 10) - DEPRECATED, use Areas
+# 2. Tag pages - /tagi/{slug}.html (priority: 11) - Keep (not an area type)
+# 3. Voivodeship pages - /wojewodztwa/{slug}.html (priority: 12) - DEPRECATED, use Areas
+# 4. Land pages - /krainy/{slug}.html (priority: 13) - DEPRECATED, use Areas
 #
 # Dependencies: [:posts, :yamls]
 # - Posts contain the content
