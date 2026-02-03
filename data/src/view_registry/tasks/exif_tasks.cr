@@ -38,8 +38,8 @@ def register_exif_tasks(r : ViewRegistry)
   # Priority: 4 (before cache tasks that need EXIF data)
   #
   r.task("EXIF: init all posts", [:exifs], priority: 4) do |ctx|
-    posts = ctx.blog.post_collection.posts
-    exif_db = ctx.blog.data_manager.not_nil!.exif_db
+    posts = ctx.posts
+    exif_db = ctx.exif_db
 
     ViewRegistry::Log.info { "Initializing EXIF data for #{posts.size} posts" }
 

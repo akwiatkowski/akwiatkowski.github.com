@@ -39,13 +39,8 @@ def register_cache_tasks(r : ViewRegistry)
   r.task("Cache: nav stats", [:yamls], priority: 5) do |ctx|
     ViewRegistry::Log.info { "Refreshing nav_stats_cache" }
 
-    cache = ctx.blog.data_manager.not_nil!.nav_stats_cache
-    if cache
-      cache.refresh
-      ViewRegistry::Log.debug { "nav_stats_cache refreshed" }
-    else
-      ViewRegistry::Log.warn { "nav_stats_cache is nil, skipping" }
-    end
+    ctx.nav_stats_cache.refresh
+    ViewRegistry::Log.debug { "nav_stats_cache refreshed" }
   end
 
   # ============================================
@@ -67,13 +62,8 @@ def register_cache_tasks(r : ViewRegistry)
   r.task("Cache: town photos", [:exifs], priority: 6) do |ctx|
     ViewRegistry::Log.info { "Refreshing town_photo_cache" }
 
-    cache = ctx.blog.data_manager.not_nil!.town_photo_cache
-    if cache
-      cache.refresh
-      ViewRegistry::Log.debug { "town_photo_cache refreshed" }
-    else
-      ViewRegistry::Log.warn { "town_photo_cache is nil, skipping" }
-    end
+    ctx.town_photo_cache.refresh
+    ViewRegistry::Log.debug { "town_photo_cache refreshed" }
   end
 
   # ============================================
@@ -96,12 +86,7 @@ def register_cache_tasks(r : ViewRegistry)
   r.task("Cache: coord quant", [:exifs], priority: 6) do |ctx|
     ViewRegistry::Log.info { "Refreshing post_coord_quant_cache" }
 
-    cache = ctx.blog.data_manager.not_nil!.post_coord_quant_cache
-    if cache
-      cache.refresh
-      ViewRegistry::Log.debug { "post_coord_quant_cache refreshed" }
-    else
-      ViewRegistry::Log.warn { "post_coord_quant_cache is nil, skipping" }
-    end
+    ctx.post_coord_quant_cache.refresh
+    ViewRegistry::Log.debug { "post_coord_quant_cache refreshed" }
   end
 end

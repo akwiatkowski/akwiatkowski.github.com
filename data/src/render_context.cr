@@ -141,6 +141,10 @@ class RenderContext
     config.post_coord_quant_cache.not_nil!
   end
 
+  def town_photo_cache
+    config.town_photo_cache.not_nil!
+  end
+
   # ============================================
   # Page Metadata
   # ============================================
