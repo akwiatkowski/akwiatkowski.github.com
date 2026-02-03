@@ -64,6 +64,7 @@ data/src/view_registry/
 data/src/views/
 ├── base_view.cr         # BaseView - all views inherit from this
 ├── page_view.cr         # PageView - HTML page wrapper
+├── area_show_view.cr    # Area detail page (uses template)
 ├── post_list_view/      # Entity collection pages (towns, tags, etc.)
 ├── dynamic_view/        # Data-heavy pages (stats, reports)
 ├── debug_view/          # Debug/diagnostic pages (DebugView namespace)
@@ -72,6 +73,16 @@ data/src/views/
 ├── special_view/        # RSS, Atom, JSON generators
 ├── photo_map/           # SVG map views
 └── model_view/          # Index pages
+```
+
+### Layout Templates
+
+```
+data/layout/
+├── area/
+│   └── show.html        # Area show page template (React/Leaflet, uses placeholders)
+├── page.html            # Standard page wrapper
+└── ...
 ```
 
 ### Test Support
@@ -85,6 +96,38 @@ spec/
 │   ├── mock_post.cr
 │   └── mock_html_buffer.cr
 └── views/               # View tests
+```
+
+### Commands (Standalone Scripts)
+
+```
+commands/
+├── generate_areas_for_posts.cr   # Match routes to areas, generate cache
+├── generate_polygon_json.cr      # Generate GeoJSON for frontend (NEW)
+├── fetch_map_tiles.cr            # Download map tiles for offline use
+└── ...
+```
+
+### External Data & Polygons
+
+```
+data/external/                    # Source polygon data (large YAML files)
+├── towns.yaml                    # 2,477 towns with full polygons (~4MB)
+├── counties.yaml
+├── voivodeships.yaml
+├── meso_regions.yaml             # Geographic regions (~44MB)
+└── ...
+
+data/config/areas/                # Generated area configs (bbox only)
+├── towns.yml                     # Metadata + bbox, no polygons
+├── counties.yml
+└── ...
+
+env/<env>/public/<target>/polygons/  # Generated GeoJSON for frontend
+├── towns/
+│   └── <slug>.json               # Individual polygon files (~1-4KB each)
+├── counties/
+└── ...
 ```
 
 ## Priority System
@@ -175,6 +218,27 @@ crystal spec                    # Run all tests
 crystal spec spec/views/        # Run view tests only
 ```
 
+### Running Commands
+
+Commands are standalone Crystal scripts in `commands/` directory:
+
+```bash
+# Generate area associations for posts (run when posts or external data changes)
+crystal run commands/generate_areas_for_posts.cr
+crystal run commands/generate_areas_for_posts.cr --overwrite  # Force regenerate all
+
+# Generate polygon JSON files for frontend (run when external data changes)
+crystal run commands/generate_polygon_json.cr
+crystal run commands/generate_polygon_json.cr --tolerance=0.001  # Custom simplification
+```
+
+### Command Registry (Planned)
+
+See `PLAN.md` Phase 9 for the upcoming unified command system with:
+- Periodic tasks (time-based triggers)
+- FileChanged tasks (source file triggers)
+- Task run tracking in `cache/command_runs.yml`
+
 ## Validation Checklist
 
 When making changes, verify:
@@ -226,6 +290,13 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-03: AreaEntity system complete - unified 5 area types (Town, County, Voivodeship, MesoRegion, MacroRegion)
 - 2026-02-03: Legacy entity views deleted (TownDynamicView, VoivodeshipDynamicView, LandDynamicView, LandView)
 - 2026-02-03: TownEntity, VoivodeshipEntity, LandEntity marked DEPRECATED (see PLAN.md for dependencies)
+- 2026-02-03: Command Registry and Polygon Support planned (Phase 9-10 in PLAN.md)
+- 2026-02-03: Added commands documentation section
+- 2026-02-04: Polygon support complete - generate_polygon_json.cr with Douglas-Peucker simplification
+- 2026-02-04: Area show page template created (data/layout/area/show.html) with React/Leaflet frontend
+- 2026-02-04: AreaShowView converted to use load_html() template system
+- 2026-02-04: AreaType extended with payload_field and polygon_dir methods
+- 2026-02-04: Map hero with gray mask outside polygon area
 
 ---
 

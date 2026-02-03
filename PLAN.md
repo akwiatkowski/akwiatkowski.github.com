@@ -1,6 +1,6 @@
 # Area Entity Refactoring Plan
 
-## Status: IN PROGRESS (Phase 5 Complete)
+## Status: IN PROGRESS (Phase 7 & 10 Complete)
 
 **Goal**: Unified area entity system with 5 area types, calculated route data, photo selection, and Polish URL paths.
 
@@ -96,9 +96,178 @@ Files that still use deprecated entity classes:
 4. **Map::LinkGenerator** - remove deprecated voivodeship methods
 5. **Delete deprecated entity files** after confirming nothing breaks
 
-### Phase 7: External Towns (Future)
+### Phase 7: Area Show Page Design (DONE)
+
+**Goal:** Create a visually appealing show page for AreaEntity with full-screen map hero.
+
+**Implementation:**
+- [x] Prototype: `env/dev/public/local/area_show.html`
+- [x] Template: `data/layout/area/show.html`
+- [x] View: `AreaShowView` uses `load_html("area/show", data)` with template placeholders
+- [x] React/Leaflet frontend with real data loading from `payload.json` and `photos.json`
+
+**Features Implemented:**
+1. **Hero Section (Full-screen map)**
+   - Leaflet map locked (no zoom/pan) - acts as background
+   - Uses local tiles (`/tiles/ump/{z}/{x}/{y}.png`)
+   - Routes drawn as colored polylines from post coords
+   - Polygon outline with gray mask outside area
+   - Large overlay with area name, type badge, parent link
+   - Quick stats preview (km, trips, photos)
+
+2. **Scroll Behavior**
+   - Map fades to semi-transparent (15%) on scroll
+   - Overlay fades out faster
+   - Smooth gradient transition to content
+
+3. **Stats Section**
+   - Cards: distance (with bicycle/hike breakdown), time, trips (with first/last dates), photos
+   - Navigation links to post list & gallery
+
+4. **Photos Section**
+   - Masonry-style grid (12 photos)
+   - Shuffled on page load for variety
+   - Hover reveals title/date from post
+   - Filters to published photos only
+
+5. **Recent Posts**
+   - Horizontal scrollable cards
+   - Image, title, date, stats from payload.json
+
+6. **Footer**
+   - Related areas links (parent voivodeship)
+
+**Template Placeholders:**
+- `{{slug}}`, `{{name}}`, `{{area_type}}`, `{{area_type_label}}`, `{{area_field}}`
+- `{{parent_name}}`, `{{parent_url}}`, `{{voivodeship_name}}`, `{{voivodeship_url}}`
+- `{{bbox_south}}`, `{{bbox_north}}`, `{{bbox_west}}`, `{{bbox_east}}`
+
+**Future Ideas:**
+- Animated route drawing
+- Photo markers on map
+- Achievement badges
+- Mini timeline of visits
+- Area comparison
+
+### Phase 8: External Towns (Future)
 - Handle towns outside Poland (foreign countries)
 - Create `data/config/external_towns.yml`
+
+### Phase 9: Command Registry (Planned)
+
+**Goal:** Unified system for periodic/scheduled tasks with tracking.
+
+**Problem:** Commands in `commands/` are run manually with no tracking of when they last ran
+or whether they need to run again.
+
+**Task Types by Trigger:**
+
+| Trigger | Example | Description |
+|---------|---------|-------------|
+| Manual | Initial setup, migrations | Explicit invocation only |
+| Periodic | Refresh area photos | Time-based (every N days) |
+| FileChanged | Regenerate polygons | When source files change |
+| PostRender | Update search index | After successful render |
+
+**Proposed Structure:**
+```
+data/src/command_registry/
+├── base.cr              # Registry class, TaskDef struct
+├── runner.cr            # Executes due tasks
+└── tasks/
+    ├── area_tasks.cr    # generate_areas, generate_polygons
+    └── photo_tasks.cr   # refresh_area_photos
+```
+
+**Task Tracking Cache:**
+```yaml
+# cache/command_runs.yml
+generate_polygons:
+  last_run: 2026-02-01T10:00:00Z
+  duration_ms: 4500
+  result: success
+  file_hashes:
+    data/external/towns.yaml: "a1b2c3..."
+```
+
+**Runner Interface:**
+```bash
+crystal run commands/run_tasks.cr              # Run all due tasks
+crystal run commands/run_tasks.cr --task=X     # Run specific task
+crystal run commands/run_tasks.cr --dry-run    # Show what would run
+```
+
+**Initial Tasks:**
+- `generate_area_configs` - FileChanged trigger (external/*.yaml)
+- `generate_polygons` - FileChanged trigger, depends on area_configs
+- `generate_areas_for_posts` - FileChanged trigger (posts changed)
+- `refresh_area_photos` - Periodic (7 days)
+
+### Phase 10: Polygon Support (DONE)
+
+**Goal:** Generate and use polygon data for accurate area rendering on maps.
+
+**Implementation:**
+- [x] `commands/generate_polygon_json.cr` - Douglas-Peucker simplification, generates GeoJSON
+- [x] Only generates for visited areas (from areas_for_post cache)
+- [x] Configurable tolerance via `--tolerance=N` flag (default 0.005)
+- [x] Frontend loads polygons on-demand with fallback to bbox rectangle
+- [x] Gray mask overlay outside polygon area
+
+**Data Flow:**
+```
+data/external/towns.yaml          # Source: full polygon coords
+        ↓
+commands/generate_polygon_json.cr # Transform (Douglas-Peucker simplification)
+        ↓
+env/<env>/public/<target>/polygons/<type>/<slug>.json  # Output: GeoJSON
+```
+
+**Output Structure:**
+```
+public/polygons/
+├── towns/           # Only visited towns
+├── counties/        # Only visited counties
+├── voivodeships/    # Only visited voivodeships
+├── meso_regions/    # Only visited meso regions
+└── macro_regions/   # Only visited macro regions
+```
+
+**GeoJSON Format:**
+```json
+{
+  "type": "Feature",
+  "properties": {
+    "slug": "gruta",
+    "name": "Gruta",
+    "type": "town",
+    "original_points": 31,
+    "simplified_points": 26,
+    "reduction_percent": 16.1
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[[18.845874, 53.400479], ...]]
+  }
+}
+```
+
+**Usage in Area Renderers:**
+- [x] AreaShowView map hero - polygon outline with gray mask outside
+- [x] Photo selection - keep bbox (simpler, good enough)
+- [x] Route clipping - no clipping, show full routes
+- [x] Neighboring areas - not needed, only selected area
+
+**Command Usage:**
+```bash
+crystal run commands/generate_polygon_json.cr                    # Default tolerance 0.005
+crystal run commands/generate_polygon_json.cr --tolerance=0.001  # More detail
+crystal run commands/generate_polygon_json.cr --force            # Regenerate all
+```
+
+**Results with tolerance 0.005:**
+- Total size: ~6.2MB
+- Reduction: ~25% for larger polygons
 
 ---
 
@@ -150,16 +319,18 @@ Files that still use deprecated entity classes:
 
 | File | Purpose |
 |------|---------|
-| `data/src/models/area_type.cr` | AreaType enum |
+| `data/src/models/area_type.cr` | AreaType enum with `payload_field`, `polygon_dir` methods |
 | `data/src/models/area_entity.cr` | Unified AreaEntity struct |
 | `data/src/models/area_association.cr` | Route distance data |
 | `data/src/services/area_data_loader.cr` | Load areas_for_post YAML |
 | `data/src/services/area_photo_selector.cr` | Best photo for area |
-| `data/src/views/area_show_view.cr` | Area detail page |
+| `data/src/views/area_show_view.cr` | Area detail page (uses template) |
 | `data/src/views/post_list_view/area_post_list_view.cr` | Area post list |
 | `data/src/views/gallery_view/area_gallery_view.cr` | Area photo gallery |
 | `data/src/view_registry/views/area_views.cr` | Registry entries |
 | `data/src/post/areas.cr` | Post area extensions |
+| `data/layout/area/show.html` | Area show page template (React/Leaflet) |
+| `commands/generate_polygon_json.cr` | Generate GeoJSON polygons with simplification |
 
 ## Files Deleted (This Refactoring)
 
@@ -180,4 +351,4 @@ Files that still use deprecated entity classes:
 
 ---
 
-*Last updated: 2026-02-03 - Phase 6 mostly complete, only cleanup tasks remain*
+*Last updated: 2026-02-04 - Phase 7 & 10 complete (Area Show Template + Polygons)*

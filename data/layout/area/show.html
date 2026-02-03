@@ -1,0 +1,1003 @@
+<style>
+    /* ==================== HERO MAP SECTION ==================== */
+    .hero-map-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        z-index: 1;
+        transition: opacity 0.3s ease;
+    }
+
+    #map {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Hide Leaflet attribution in hero */
+    .hero-map-container .leaflet-control-attribution {
+        display: none;
+    }
+
+    .hero-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        z-index: 2;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(
+            to bottom,
+            rgba(0,0,0,0.1) 0%,
+            rgba(0,0,0,0.3) 50%,
+            rgba(0,0,0,0.6) 100%
+        );
+        pointer-events: none;
+        transition: opacity 0.3s ease;
+    }
+
+    .hero-content {
+        text-align: center;
+        color: white;
+        text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+    }
+
+    .area-type-badge {
+        display: inline-block;
+        padding: var(--space-6) var(--space-16);
+        background: var(--color-primary);
+        color: var(--color-btn-primary-text);
+        font-size: var(--font-size-xs);
+        font-weight: var(--font-weight-semibold);
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        border-radius: var(--radius-full);
+        margin-bottom: var(--space-16);
+        text-shadow: none;
+    }
+
+    .area-name {
+        font-family: var(--font-family-base);
+        font-size: clamp(3rem, 10vw, 6rem);
+        font-weight: var(--font-weight-bold);
+        margin-bottom: var(--space-8);
+        line-height: var(--line-height-tight);
+    }
+
+    .area-parent {
+        font-size: var(--font-size-xl);
+        opacity: 0.9;
+        margin-bottom: var(--space-24);
+    }
+
+    .area-parent a {
+        color: white;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(255,255,255,0.5);
+        transition: border-color var(--duration-fast);
+    }
+
+    .area-parent a:hover {
+        border-color: white;
+    }
+
+    .hero-stats-preview {
+        display: flex;
+        gap: var(--space-32);
+        margin-top: var(--space-24);
+    }
+
+    .hero-stat {
+        text-align: center;
+    }
+
+    .hero-stat-value {
+        font-size: var(--font-size-4xl);
+        font-weight: var(--font-weight-bold);
+    }
+
+    .hero-stat-label {
+        font-size: var(--font-size-sm);
+        opacity: 0.8;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    .scroll-hint {
+        position: fixed;
+        bottom: var(--space-32);
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 3;
+        color: white;
+        text-align: center;
+        animation: bounce 2s infinite;
+        pointer-events: none;
+    }
+
+    @keyframes bounce {
+        0%, 20%, 50%, 80%, 100% { transform: translateX(-50%) translateY(0); }
+        40% { transform: translateX(-50%) translateY(-10px); }
+        60% { transform: translateX(-50%) translateY(-5px); }
+    }
+
+    /* ==================== MAIN CONTENT ==================== */
+    .main-content {
+        position: relative;
+        z-index: 10;
+        margin-top: 100vh;
+        background: var(--color-background);
+    }
+
+    .content-transition {
+        height: 100px;
+        background: linear-gradient(to bottom, transparent, var(--color-background));
+        margin-top: -100px;
+        position: relative;
+        z-index: 10;
+    }
+
+    .section {
+        padding: 80px var(--space-24);
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .section-title {
+        font-family: var(--font-family-base);
+        font-size: var(--font-size-3xl);
+        font-weight: var(--font-weight-bold);
+        margin-bottom: 48px;
+        text-align: center;
+        color: var(--color-text);
+    }
+
+    /* ==================== STATS SECTION ==================== */
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: var(--space-24);
+        margin-bottom: 48px;
+    }
+
+    .stat-card {
+        background: var(--color-surface);
+        padding: var(--space-32);
+        border-radius: var(--radius-lg);
+        text-align: center;
+        border: 1px solid var(--color-card-border);
+        transition: border-color var(--duration-normal) var(--ease-standard),
+                    box-shadow var(--duration-normal) var(--ease-standard);
+    }
+
+    .stat-card:hover {
+        border-color: var(--color-primary);
+        box-shadow: 0 0 10px 2px rgba(var(--color-teal-500-rgb), 0.3);
+    }
+
+    .stat-icon {
+        width: 48px;
+        height: 48px;
+        margin: 0 auto var(--space-16);
+        background: var(--color-primary);
+        border-radius: var(--radius-md);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: var(--color-btn-primary-text);
+        font-size: var(--font-size-xl);
+    }
+
+    .stat-value {
+        font-size: var(--font-size-4xl);
+        font-weight: var(--font-weight-bold);
+        color: var(--color-primary);
+        line-height: 1;
+        margin-bottom: var(--space-8);
+    }
+
+    .stat-label {
+        color: var(--color-text-secondary);
+        font-size: var(--font-size-sm);
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    .stat-breakdown {
+        margin-top: var(--space-12);
+        padding-top: var(--space-12);
+        border-top: 1px solid var(--color-card-border);
+        font-size: var(--font-size-sm);
+        color: var(--color-text-secondary);
+        line-height: 1.6;
+    }
+
+    /* ==================== NAV LINKS ==================== */
+    .nav-links {
+        display: flex;
+        justify-content: center;
+        gap: var(--space-16);
+        margin-top: 48px;
+        flex-wrap: wrap;
+    }
+
+    .nav-link-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: var(--space-8);
+        padding: var(--space-12) var(--space-24);
+        background: var(--color-primary);
+        color: var(--color-btn-primary-text);
+        text-decoration: none;
+        border-radius: var(--radius-full);
+        font-weight: var(--font-weight-medium);
+        font-size: var(--font-size-base);
+        transition: background var(--duration-fast), transform var(--duration-fast);
+    }
+
+    .nav-link-btn:hover {
+        background: var(--color-primary-hover);
+        transform: translateY(-2px);
+        color: var(--color-btn-primary-text);
+        text-decoration: none;
+    }
+
+    .nav-link-btn.secondary {
+        background: transparent;
+        border: 2px solid var(--color-primary);
+        color: var(--color-primary);
+    }
+
+    .nav-link-btn.secondary:hover {
+        background: var(--color-primary);
+        color: var(--color-btn-primary-text);
+    }
+
+    /* ==================== PHOTOS SECTION ==================== */
+    .photos-section {
+        background: var(--color-charcoal-700);
+        color: var(--color-gray-200);
+        padding: 80px var(--space-24);
+    }
+
+    .photos-section .section-title {
+        color: var(--color-gray-200);
+    }
+
+    .photos-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: var(--space-16);
+        max-width: 1400px;
+        margin: 0 auto;
+    }
+
+    .photo-card {
+        position: relative;
+        aspect-ratio: 4/3;
+        border-radius: var(--radius-lg);
+        overflow: hidden;
+        cursor: pointer;
+        transition: transform var(--duration-normal);
+        border: 2px solid transparent;
+    }
+
+    .photo-card:nth-child(3n+1) {
+        grid-row: span 2;
+        aspect-ratio: 3/4;
+    }
+
+    .photo-card:hover {
+        transform: scale(1.02);
+        border-color: var(--color-primary);
+        box-shadow: 0 0 10px 2px rgba(var(--color-teal-500-rgb), 0.5);
+    }
+
+    .photo-card img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease;
+    }
+
+    .photo-card:hover img {
+        transform: scale(1.1);
+    }
+
+    .photo-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: var(--space-16);
+        background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+        opacity: 0;
+        transition: opacity var(--duration-normal);
+    }
+
+    .photo-card:hover .photo-overlay {
+        opacity: 1;
+    }
+
+    .photo-title {
+        font-size: var(--font-size-sm);
+        font-weight: var(--font-weight-medium);
+    }
+
+    .photo-date {
+        font-size: var(--font-size-xs);
+        opacity: 0.8;
+    }
+
+    /* ==================== POSTS SECTION ==================== */
+    .posts-scroll-container {
+        overflow-x: auto;
+        padding: 0 var(--space-24) var(--space-24);
+        margin: 0 calc(-1 * var(--space-24));
+        scrollbar-width: thin;
+        scrollbar-color: var(--color-primary) var(--color-surface);
+    }
+
+    .posts-row {
+        display: flex;
+        gap: var(--space-24);
+        padding: var(--space-8) 0;
+    }
+
+    .post-card-link {
+        flex: 0 0 320px;
+        background: var(--color-surface);
+        border-radius: var(--radius-lg);
+        overflow: hidden;
+        border: 1px solid var(--color-card-border);
+        transition: border-color var(--duration-normal), box-shadow var(--duration-normal), transform var(--duration-normal);
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .post-card-link:hover {
+        transform: translateY(-4px);
+        border-color: var(--color-primary);
+        box-shadow: 0 0 15px 3px rgba(var(--color-teal-500-rgb), 0.4);
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .post-card-image {
+        width: 100%;
+        height: 180px;
+        object-fit: cover;
+    }
+
+    .post-card-content {
+        padding: var(--space-20);
+    }
+
+    .post-card-date {
+        font-size: var(--font-size-xs);
+        color: var(--color-text-secondary);
+        margin-bottom: var(--space-8);
+    }
+
+    .post-card-title {
+        font-size: var(--font-size-lg);
+        font-weight: var(--font-weight-semibold);
+        margin-bottom: var(--space-8);
+        line-height: var(--line-height-tight);
+        color: var(--color-text);
+    }
+
+    .post-card-stats {
+        display: flex;
+        gap: var(--space-16);
+        font-size: var(--font-size-sm);
+        color: var(--color-text-secondary);
+    }
+
+    .post-card-stats i {
+        margin-right: var(--space-4);
+        color: var(--color-primary);
+    }
+
+    /* ==================== FOOTER ==================== */
+    .area-footer {
+        background: var(--color-surface);
+        padding: 48px var(--space-24);
+        text-align: center;
+        border-top: 1px solid var(--color-card-border);
+    }
+
+    .related-areas {
+        margin-top: var(--space-24);
+    }
+
+    .related-areas-title {
+        font-size: var(--font-size-sm);
+        color: var(--color-text-secondary);
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: var(--space-16);
+    }
+
+    .related-areas-list {
+        display: flex;
+        justify-content: center;
+        gap: var(--space-12);
+        flex-wrap: wrap;
+    }
+
+    .related-area-link {
+        padding: var(--space-8) var(--space-16);
+        background: var(--color-background);
+        border-radius: var(--radius-full);
+        text-decoration: none;
+        color: var(--color-text);
+        font-size: var(--font-size-sm);
+        transition: background var(--duration-fast), color var(--duration-fast);
+        border: 1px solid var(--color-card-border);
+    }
+
+    .related-area-link:hover {
+        background: var(--color-primary);
+        color: var(--color-btn-primary-text);
+        text-decoration: none;
+    }
+
+    /* ==================== RESPONSIVE ==================== */
+    @media (max-width: 768px) {
+        .hero-stats-preview {
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: var(--space-16);
+        }
+
+        .hero-stat-value {
+            font-size: var(--font-size-2xl);
+        }
+
+        .photos-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        .photo-card:nth-child(3n+1) {
+            grid-row: span 1;
+            aspect-ratio: 4/3;
+        }
+
+        .section {
+            padding: 48px var(--space-16);
+        }
+    }
+
+    /* Fixed navbar over hero */
+    .navbar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        background: rgba(var(--color-slate-900-rgb), 0.9) !important;
+        backdrop-filter: blur(10px);
+    }
+
+    .navbar-light .navbar-nav .nav-link,
+    .navbar-light .navbar-brand {
+        color: var(--color-gray-200) !important;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        filter: invert(1);
+    }
+</style>
+
+<div id="root"></div>
+
+<script src="/js/libs/leaflet.js"></script>
+<script src="/js/libs/react.production.min.js"></script>
+<script src="/js/libs/react-dom.production.min.js"></script>
+<script src="/js/libs/babel.min.js"></script>
+
+<script type="text/babel">
+    const { useState, useEffect, useRef } = React;
+
+    // ==================== AREA CONFIG ====================
+    // This will be injected by the Crystal template
+    const AREA_CONFIG = {
+        slug: "{{slug}}",
+        name: "{{name}}",
+        areaType: "{{area_type}}",
+        areaTypeLabel: "{{area_type_label}}",
+        areaField: "{{area_field}}",
+        parentName: "{{parent_name}}",
+        parentUrl: "{{parent_url}}",
+        voivodeshipName: "{{voivodeship_name}}",
+        voivodeshipUrl: "{{voivodeship_url}}",
+        bbox: {
+            south: {{bbox_south}},
+            north: {{bbox_north}},
+            west: {{bbox_west}},
+            east: {{bbox_east}}
+        }
+    };
+
+    // ==================== DATA LOADING ====================
+    async function loadAreaData(areaConfig) {
+        // Load payload.json and photos.json in parallel
+        const [payloadRes, photosRes] = await Promise.all([
+            fetch('/payload.json'),
+            fetch('/photos.json')
+        ]);
+
+        const payload = await payloadRes.json();
+        const photosData = await photosRes.json();
+
+        // Filter posts by area
+        const areaPosts = payload.posts.filter(post => {
+            const areas = post[areaConfig.areaField] || [];
+            return areas.includes(areaConfig.slug);
+        }).sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        // Get post slugs for this area
+        const postSlugs = new Set(areaPosts.map(p => p.slug));
+
+        // Filter photos by posts in this area (published only)
+        const areaPhotos = photosData.photos.filter(photo =>
+            postSlugs.has(photo.post_slug) && photo.is_published
+        );
+
+        // Extract routes from posts
+        const routes = areaPosts.flatMap(post =>
+            (post.coords || []).map(coord => coord.route)
+        ).filter(route => route && route.length > 0);
+
+        // Calculate stats
+        const stats = calculateStats(areaPosts, areaPhotos);
+
+        return {
+            posts: areaPosts,
+            photos: areaPhotos,
+            routes: routes,
+            stats: stats
+        };
+    }
+
+    function calculateStats(posts, photos) {
+        const bicyclePosts = posts.filter(p => p.tags?.includes('bicycle'));
+        const hikePosts = posts.filter(p => p.tags?.includes('hike'));
+
+        const bicycleDistance = bicyclePosts.reduce((sum, p) => sum + (p.distace || 0), 0);
+        const hikeDistance = hikePosts.reduce((sum, p) => sum + (p.distace || 0), 0);
+        const totalTime = posts.reduce((sum, p) => sum + (p.time_spent || 0), 0);
+
+        const dates = posts.map(p => p.date).sort();
+
+        return {
+            totalDistance: Math.round(bicycleDistance + hikeDistance),
+            bicycleDistance: Math.round(bicycleDistance),
+            hikeDistance: Math.round(hikeDistance),
+            totalTime: Math.round(totalTime),
+            postsCount: posts.length,
+            photosCount: photos.length,
+            firstVisit: dates[0] || null,
+            lastVisit: dates[dates.length - 1] || null
+        };
+    }
+
+    // ==================== UTILITIES ====================
+    function shuffleArray(array) {
+        const shuffled = [...array];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+    }
+
+    function formatDate(dateStr) {
+        return new Date(dateStr).toLocaleDateString('pl-PL', {
+            day: 'numeric',
+            month: 'long',
+            year: 'numeric'
+        });
+    }
+
+    // ==================== COMPONENTS ====================
+
+    function HeroMap({ area, scrollProgress }) {
+        const mapRef = useRef(null);
+        const mapInstanceRef = useRef(null);
+        const [polygonLoaded, setPolygonLoaded] = useState(false);
+
+        useEffect(() => {
+            if (mapInstanceRef.current) return;
+
+            const { bbox } = area;
+            const center = [(bbox.south + bbox.north) / 2, (bbox.west + bbox.east) / 2];
+
+            const map = L.map(mapRef.current, {
+                center: center,
+                zoom: 12,
+                zoomControl: false,
+                dragging: false,
+                touchZoom: false,
+                scrollWheelZoom: false,
+                doubleClickZoom: false,
+                boxZoom: false,
+                keyboard: false,
+                attributionControl: false
+            });
+
+            // Local tiles
+            L.tileLayer('/tiles/ump/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+            }).addTo(map);
+
+            // Fit to bbox initially
+            map.fitBounds([
+                [bbox.south, bbox.west],
+                [bbox.north, bbox.east]
+            ], { padding: [50, 50] });
+
+            // Draw routes with teal color scheme
+            // Routes come as arrays of [lat, lng] from payload.json coords
+            const routeColors = ['#32b8c6', '#21808d', '#1a7480'];
+            (area.routes || []).forEach((route, idx) => {
+                if (route && route.length > 0) {
+                    L.polyline(route, {
+                        color: routeColors[idx % routeColors.length],
+                        weight: 4,
+                        opacity: 0.9
+                    }).addTo(map);
+                }
+            });
+
+            // Try to load polygon, fall back to bbox rectangle
+            const polygonUrl = `/polygons/${area.areaType}s/${area.slug}.json`;
+            fetch(polygonUrl)
+                .then(response => {
+                    if (!response.ok) throw new Error('Polygon not found');
+                    return response.json();
+                })
+                .then(geojson => {
+                    // Get the polygon coordinates
+                    const areaCoords = geojson.geometry.coordinates[0];
+
+                    // Create inverted polygon mask: world bounds with area cut out
+                    const worldBounds = [
+                        [-90, -180],
+                        [-90, 180],
+                        [90, 180],
+                        [90, -180],
+                        [-90, -180]
+                    ];
+
+                    // Note: Leaflet expects [lat, lng], GeoJSON uses [lng, lat]
+                    const areaLatLngs = areaCoords.map(coord => [coord[1], coord[0]]);
+
+                    // Add gray mask outside the area
+                    L.polygon([worldBounds, areaLatLngs], {
+                        color: 'none',
+                        fillColor: '#000',
+                        fillOpacity: 0.4,
+                        interactive: false
+                    }).addTo(map);
+
+                    // Draw polygon outline on top
+                    const polygonLayer = L.geoJSON(geojson, {
+                        style: {
+                            color: '#21808d',
+                            weight: 2,
+                            fill: false,
+                            dashArray: '10, 10',
+                            opacity: 0.9
+                        }
+                    }).addTo(map);
+
+                    // Fit map to polygon bounds
+                    map.fitBounds(polygonLayer.getBounds(), { padding: [50, 50] });
+                    setPolygonLoaded(true);
+                })
+                .catch(err => {
+                    // Fallback: draw bbox rectangle
+                    L.rectangle([
+                        [bbox.south, bbox.west],
+                        [bbox.north, bbox.east]
+                    ], {
+                        color: '#21808d',
+                        weight: 2,
+                        fill: false,
+                        dashArray: '10, 10'
+                    }).addTo(map);
+                });
+
+            mapInstanceRef.current = map;
+        }, [area]);
+
+        const opacity = Math.max(0.15, 1 - scrollProgress * 1.5);
+
+        return (
+            <div className="hero-map-container" style={{ opacity }}>
+                <div id="map" ref={mapRef}></div>
+            </div>
+        );
+    }
+
+    function HeroOverlay({ area, scrollProgress }) {
+        const opacity = Math.max(0, 1 - scrollProgress * 2);
+
+        return (
+            <div className="hero-overlay" style={{ opacity }}>
+                <div className="hero-content">
+                    <span className="area-type-badge">{area.areaTypeLabel}</span>
+                    <h1 className="area-name">{area.name}</h1>
+                    <p className="area-parent">
+                        <a href={area.parentUrl}>{area.parentName}</a>
+                        {area.voivodeshipName && (
+                            <span>, <a href={area.voivodeshipUrl}>{area.voivodeshipName}</a></span>
+                        )}
+                    </p>
+
+                    <div className="hero-stats-preview">
+                        <div className="hero-stat">
+                            <div className="hero-stat-value">{area.stats.totalDistance}</div>
+                            <div className="hero-stat-label">kilometrow</div>
+                        </div>
+                        <div className="hero-stat">
+                            <div className="hero-stat-value">{area.stats.postsCount}</div>
+                            <div className="hero-stat-label">wypraw</div>
+                        </div>
+                        <div className="hero-stat">
+                            <div className="hero-stat-value">{area.stats.photosCount}</div>
+                            <div className="hero-stat-label">zdjec</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        );
+    }
+
+    function ScrollHint({ visible }) {
+        if (!visible) return null;
+
+        return (
+            <div className="scroll-hint">
+                <i className="fa fa-chevron-down fa-2x"></i>
+            </div>
+        );
+    }
+
+    function StatsSection({ stats }) {
+        return (
+            <section className="section">
+                <h2 className="section-title">W liczbach</h2>
+
+                <div className="stats-grid">
+                    <div className="stat-card">
+                        <div className="stat-icon">
+                            <i className="fa fa-road"></i>
+                        </div>
+                        <div className="stat-value">{stats.totalDistance}</div>
+                        <div className="stat-label">Kilometrow</div>
+                        <div className="stat-breakdown">
+                            <i className="fa fa-bicycle"></i> {stats.bicycleDistance} km rowerem<br/>
+                            <i className="fa fa-male"></i> {stats.hikeDistance} km pieszo
+                        </div>
+                    </div>
+
+                    <div className="stat-card">
+                        <div className="stat-icon">
+                            <i className="fa fa-clock-o"></i>
+                        </div>
+                        <div className="stat-value">{stats.totalTime}</div>
+                        <div className="stat-label">Godzin w terenie</div>
+                    </div>
+
+                    <div className="stat-card">
+                        <div className="stat-icon">
+                            <i className="fa fa-map-marker"></i>
+                        </div>
+                        <div className="stat-value">{stats.postsCount}</div>
+                        <div className="stat-label">Wypraw</div>
+                        {stats.firstVisit && stats.lastVisit && (
+                            <div className="stat-breakdown">
+                                Pierwsza: {formatDate(stats.firstVisit)}<br/>
+                                Ostatnia: {formatDate(stats.lastVisit)}
+                            </div>
+                        )}
+                    </div>
+
+                    <div className="stat-card">
+                        <div className="stat-icon">
+                            <i className="fa fa-camera"></i>
+                        </div>
+                        <div className="stat-value">{stats.photosCount}</div>
+                        <div className="stat-label">Zdjec</div>
+                    </div>
+                </div>
+
+                <div className="nav-links">
+                    <a href="#" className="nav-link-btn">
+                        <i className="fa fa-list"></i> Wszystkie wpisy
+                    </a>
+                    <a href="#" className="nav-link-btn secondary">
+                        <i className="fa fa-th"></i> Pelna galeria
+                    </a>
+                </div>
+            </section>
+        );
+    }
+
+    function PhotosSection({ photos }) {
+        const [shuffledPhotos] = useState(() => shuffleArray(photos).slice(0, 12));
+
+        if (photos.length === 0) {
+            return null;
+        }
+
+        return (
+            <section className="photos-section">
+                <h2 className="section-title">Najlepsze zdjecia</h2>
+
+                <div className="photos-grid">
+                    {shuffledPhotos.map((photo, idx) => (
+                        <a key={idx} href={photo.post_url} className="photo-card">
+                            <img src={photo.gallery_thumb_url} alt={photo.desc} loading="lazy" />
+                            <div className="photo-overlay">
+                                <div className="photo-title">{photo.desc || 'Zdjecie'}</div>
+                                <div className="photo-date">{formatDate(photo.time)}</div>
+                            </div>
+                        </a>
+                    ))}
+                </div>
+            </section>
+        );
+    }
+
+    function PostsSection({ posts }) {
+        if (posts.length === 0) {
+            return null;
+        }
+
+        return (
+            <section className="section">
+                <h2 className="section-title">Ostatnie wyprawy</h2>
+
+                <div className="posts-scroll-container">
+                    <div className="posts-row">
+                        {posts.map(post => (
+                            <a key={post.slug} href={post.url} className="post-card-link">
+                                <img src={post.small_image_url} alt={post.title} className="post-card-image" />
+                                <div className="post-card-content">
+                                    <div className="post-card-date">{formatDate(post.date)}</div>
+                                    <h3 className="post-card-title">{post.title}</h3>
+                                    <div className="post-card-stats">
+                                        <span><i className="fa fa-bicycle"></i> {post.distace || 0} km</span>
+                                        <span><i className="fa fa-clock-o"></i> {post.time_spent || 0}h</span>
+                                    </div>
+                                </div>
+                            </a>
+                        ))}
+                    </div>
+                </div>
+            </section>
+        );
+    }
+
+    function AreaFooter({ area }) {
+        return (
+            <footer className="area-footer">
+                <div className="related-areas">
+                    <div className="related-areas-title">Zobacz takze</div>
+                    <div className="related-areas-list">
+                        <a href={area.parentUrl} className="related-area-link">
+                            <i className="fa fa-map-o"></i> {area.parentName}
+                        </a>
+                        {area.voivodeshipName && (
+                            <a href={area.voivodeshipUrl} className="related-area-link">
+                                <i className="fa fa-globe"></i> {area.voivodeshipName}
+                            </a>
+                        )}
+                    </div>
+                </div>
+            </footer>
+        );
+    }
+
+    // ==================== MAIN APP ====================
+    function AreaShowPage() {
+        const [scrollProgress, setScrollProgress] = useState(0);
+        const [loading, setLoading] = useState(true);
+        const [error, setError] = useState(null);
+        const [areaData, setAreaData] = useState(null);
+
+        // Load data on mount
+        useEffect(() => {
+            loadAreaData(AREA_CONFIG)
+                .then(data => {
+                    setAreaData({
+                        ...AREA_CONFIG,
+                        ...data
+                    });
+                    setLoading(false);
+                })
+                .catch(err => {
+                    console.error('Failed to load area data:', err);
+                    setError(err.message);
+                    setLoading(false);
+                });
+        }, []);
+
+        // Handle scroll
+        useEffect(() => {
+            const handleScroll = () => {
+                const windowHeight = window.innerHeight;
+                const progress = Math.min(1, window.scrollY / windowHeight);
+                setScrollProgress(progress);
+            };
+
+            window.addEventListener('scroll', handleScroll, { passive: true });
+            return () => window.removeEventListener('scroll', handleScroll);
+        }, []);
+
+        if (loading) {
+            return (
+                <div style={{
+                    height: '100vh',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    background: 'var(--color-background)',
+                    color: 'var(--color-text)'
+                }}>
+                    <div style={{ textAlign: 'center' }}>
+                        <i className="fa fa-spinner fa-spin fa-3x" style={{ color: 'var(--color-primary)' }}></i>
+                        <p style={{ marginTop: '1rem' }}>Ladowanie...</p>
+                    </div>
+                </div>
+            );
+        }
+
+        if (error) {
+            return (
+                <div style={{
+                    height: '100vh',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    background: 'var(--color-background)',
+                    color: 'var(--color-text)'
+                }}>
+                    <div style={{ textAlign: 'center' }}>
+                        <i className="fa fa-exclamation-triangle fa-3x" style={{ color: '#e74c3c' }}></i>
+                        <p style={{ marginTop: '1rem' }}>Blad ladowania: {error}</p>
+                    </div>
+                </div>
+            );
+        }
+
+        return (
+            <>
+                <HeroMap area={areaData} scrollProgress={scrollProgress} />
+                <HeroOverlay area={areaData} scrollProgress={scrollProgress} />
+                <ScrollHint visible={scrollProgress < 0.1} />
+
+                <main className="main-content">
+                    <div className="content-transition"></div>
+                    <StatsSection stats={areaData.stats} />
+                    <PhotosSection photos={areaData.photos} />
+                    <PostsSection posts={areaData.posts} />
+                    <AreaFooter area={areaData} />
+                </main>
+            </>
+        );
+    }
+
+    // ==================== RENDER ====================
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(<AreaShowPage />);
+</script>
