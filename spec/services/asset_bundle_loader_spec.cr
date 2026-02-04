@@ -33,7 +33,7 @@ describe AssetBundleLoader do
       loader = AssetBundleLoader.new(config_path)
       assets = loader.resolve(["core"])
       assets.css.should contain "/css/libs/bootstrap.min.css"
-      assets.js.should contain "/js/libs/jquery.min.js"
+      assets.js.should contain "/js/libs/bootstrap.bundle.min.js"
     end
 
     it "preserves integrity attributes" do

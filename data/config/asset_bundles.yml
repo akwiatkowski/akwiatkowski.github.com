@@ -89,7 +89,6 @@ composites:
       - bootstrap-css
       - fontawesome
       - blog-css
-      - jquery
       - bootstrap-js
       - nav-js
 

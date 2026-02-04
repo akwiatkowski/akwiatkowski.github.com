@@ -85,7 +85,7 @@ describe AssetAware do
       view = TestAssetAwareView.new
       html = view.assets_html(ctx)
       html.should contain "<script src="
-      html.should contain "/js/libs/jquery.min.js"
+      html.should contain "/js/libs/bootstrap.bundle.min.js"
     end
 
     it "includes cache busting parameters" do

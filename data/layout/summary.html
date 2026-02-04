@@ -18,8 +18,8 @@
 
 <script src="/js/summary.js" type="text/javascript"></script>
 <script type="text/javascript">
-  $(document).ready(function () {
-    l = new BlogSummary;
+  document.addEventListener('DOMContentLoaded', function() {
+    var l = new BlogSummary();
     l.start();
   });
 </script>

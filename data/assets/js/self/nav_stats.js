@@ -1,4 +1,4 @@
-// Navigation stats loader
+// Navigation stats loader + Bootstrap 5 initialization
 // Fetches post counts from nav_stats.json and updates navigation elements
 (function() {
   'use strict';
@@ -21,10 +21,22 @@
       });
   }
 
+  function initBootstrapComponents() {
+    // Initialize Bootstrap 5 tooltips
+    var tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+    tooltipTriggerList.forEach(function(tooltipTriggerEl) {
+      new bootstrap.Tooltip(tooltipTriggerEl);
+    });
+  }
+
   // Run when DOM is ready
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadNavStats);
+    document.addEventListener('DOMContentLoaded', function() {
+      loadNavStats();
+      initBootstrapComponents();
+    });
   } else {
     loadNavStats();
+    initBootstrapComponents();
   }
 })();
