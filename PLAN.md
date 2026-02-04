@@ -357,6 +357,7 @@ crystal run commands/generate_polygon_json.cr --force            # Regenerate al
 | `data/src/views/post_list_view/land_dynamic_view.cr` | Replaced by AreaPostListView |
 | `data/src/views/land_view.cr` | Not used, replaced by AreaShowView |
 | `data/src/services/town_photo_cache.cr` | Replaced by AreaPhotoSelector |
+| `data/src/views/dynamic_view/mountain_range_planner_view.cr` | Unused, never registered |
 
 ## Files to Delete (After Full Migration)
 

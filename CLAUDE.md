@@ -297,6 +297,11 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-04: AreaShowView converted to use load_html() template system
 - 2026-02-04: AreaType extended with payload_field and polygon_dir methods
 - 2026-02-04: Map hero with gray mask outside polygon area
+- 2026-02-04: Phase 6 cleanup complete - deprecated code commented with PHASE6_DEPRECATED markers
+- 2026-02-04: Deleted unused MountainRangePlannerView
+- 2026-02-04: Fixed CoordRange#overlap_other logic bug
+- 2026-02-04: OutputHistory improved - env/target separation, pages/ subdirectory
+- 2026-02-04: Replaced deprecated Time.monotonic with Time.instant
 
 ---
 
