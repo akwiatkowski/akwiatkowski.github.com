@@ -31,10 +31,6 @@ bundles:
       - /css/self/new.css
 
   # === JS Libraries ===
-  jquery:
-    js:
-      - /js/libs/jquery.min.js
-
   bootstrap-js:
     js:
       - /js/libs/bootstrap.bundle.min.js
