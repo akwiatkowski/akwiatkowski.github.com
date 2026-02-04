@@ -9,7 +9,11 @@
 # We use the reentrant (_r suffix) API for thread safety.
 # All functions take a context handle as first argument.
 
-@[Link("geos_c")]
+{% if flag?(:darwin) %}
+  @[Link("geos_c", ldflags: "-L/opt/homebrew/lib")]
+{% else %}
+  @[Link("geos_c")]
+{% end %}
 lib LibGEOS
   # --- Version ---
   fun GEOSversion : LibC::Char*
