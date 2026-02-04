@@ -56,16 +56,28 @@ test.describe('Gallery pages', () => {
     test('tag gallery pages load', async ({ pageWithErrorTracking, payload }) => {
       const page = pageWithErrorTracking;
       const tags = getTags(payload);
+      const posts = getReadyPosts(payload).filter(p => p.photos_count > 0);
 
-      if (tags.length === 0) {
-        test.skip('No tags in payload');
+      // Find tags that have posts with photos (gallery pages only exist for these)
+      const tagsWithPhotos = new Set();
+      for (const post of posts) {
+        for (const tag of (post.tags || [])) {
+          tagsWithPhotos.add(tag);
+        }
+      }
+
+      const tagsToTest = tags.filter(t => tagsWithPhotos.has(t.slug));
+
+      if (tagsToTest.length === 0) {
+        test.skip('No tags with photos');
         return;
       }
 
       // Test sample of tag galleries
-      const sample = tags.slice(0, 3);
+      // Derive gallery URL from tag.url (uses Polish slug: /tag/najlepsze.html -> /galeria/tag/najlepsze.html)
+      const sample = tagsToTest.slice(0, 3);
       for (const tag of sample) {
-        const galleryUrl = `/galeria/tag/${tag.slug}.html`;
+        const galleryUrl = tag.url.replace('/tag/', '/galeria/tag/');
         await expectPageLoads(page, galleryUrl);
         await expectNoJsErrors(page);
       }
@@ -78,17 +90,27 @@ test.describe('Gallery pages', () => {
     test('voivodeship gallery pages load', async ({ pageWithErrorTracking, payload }) => {
       const page = pageWithErrorTracking;
       const voivodeships = payload.voivodeships || [];
+      const posts = payload.posts || [];
 
-      if (voivodeships.length === 0) {
-        test.skip('No voivodeships in payload');
+      // Find voivodeships that have posts (gallery pages only exist for these)
+      const voivodeshipsWithPosts = new Set();
+      for (const post of posts) {
+        for (const v of (post.voivodeships || [])) {
+          voivodeshipsWithPosts.add(v);
+        }
+      }
+
+      const voivodeshipsToTest = voivodeships.filter(v => voivodeshipsWithPosts.has(v.slug));
+
+      if (voivodeshipsToTest.length === 0) {
+        test.skip('No voivodeships with posts');
         return;
       }
 
-      // Test sample
-      const sample = voivodeships.slice(0, 2);
+      // Test sample using gallery_url from payload
+      const sample = voivodeshipsToTest.slice(0, 2);
       for (const v of sample) {
-        const galleryUrl = `/galeria/wojewodztwa/${v.slug}.html`;
-        await expectPageLoads(page, galleryUrl);
+        await expectPageLoads(page, v.gallery_url);
         await expectNoJsErrors(page);
       }
     });

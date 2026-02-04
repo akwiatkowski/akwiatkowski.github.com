@@ -149,7 +149,7 @@ class @BlogMap
             feature.set("post-title", post["title"])
             feature.set("post-slug", post["slug"])
             feature.set("post-image", post["image_url"])
-            feature.set("post-small-image", post["small_image_url"])
+            feature.set("post-small-image", post["card_image_url"])
 
             if route["type"] == "hike"
               sourceLinesHike.addFeature(feature)

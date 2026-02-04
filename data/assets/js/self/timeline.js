@@ -171,7 +171,7 @@
     allPhotos = [{
       desc: "Sample Photo",
       full_url: "https://picsum.photos/1200/900?random=1",
-      gallery_thumb_url: "https://picsum.photos/400/300?random=1",
+      article_url: "https://picsum.photos/400/300?random=1",
       time: "2020-05-03T12:00:00+02:00",
       post_slug: "sample-post",
       post_url: "2020/05/03/sample.html",
@@ -190,7 +190,7 @@
       allPhotos.push({
         desc: 'Photo ' + i,
         full_url: 'https://picsum.photos/1200/900?random=' + i,
-        gallery_thumb_url: 'https://picsum.photos/400/300?random=' + i,
+        article_url: 'https://picsum.photos/400/300?random=' + i,
         time: '2020-' + month + '-' + day + 'T12:00:00+02:00',
         post_slug: 'post-' + i,
         post_url: '2020/' + month + '/' + day + '/post-' + i + '.html',
@@ -422,7 +422,7 @@
     img.alt = photo.desc || '';
     img.loading = 'lazy';
     img.onload = function() { img.classList.remove('loading'); };
-    img.src = photo.gallery_thumb_url || photo.full_url;
+    img.src = photo.article_url || photo.full_url;
 
     var overlay = document.createElement('div');
     overlay.className = 'photo-date-overlay';

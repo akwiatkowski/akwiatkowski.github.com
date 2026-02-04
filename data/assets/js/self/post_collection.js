@@ -130,7 +130,7 @@
 
     card.innerHTML =
       '<div class="post-image-container" data-post-index="' + index + '">' +
-        '<img src="' + post.small_image_url + '" alt="' + escapeHtml(post.title) + '" class="post-image" loading="lazy">' +
+        '<img src="' + post.card_image_url + '" alt="' + escapeHtml(post.title) + '" class="post-image" loading="lazy">' +
       '</div>' +
       '<div class="post-overlay">' +
         '<h2 class="post-title">' +

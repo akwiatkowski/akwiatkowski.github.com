@@ -32,7 +32,8 @@ test.describe('Static pages', () => {
       await page.goto('/');
 
       await expect(page.locator('nav.navbar')).toBeVisible();
-      await expect(page.locator('.navbar-nav')).toBeVisible();
+      // Use .first() since there may be multiple .navbar-nav elements
+      await expect(page.locator('.navbar-nav').first()).toBeVisible();
     });
 
     test('has post links', async ({ page, payload }) => {
@@ -54,8 +55,8 @@ test.describe('Static pages', () => {
     test('has statistics', async ({ page }) => {
       await page.goto('/zestawienie.html');
 
-      // Should have some content
-      await expect(page.locator('article, .container')).toBeVisible();
+      // Should have main content area
+      await expect(page.locator('#content')).toBeVisible();
     });
 
   });

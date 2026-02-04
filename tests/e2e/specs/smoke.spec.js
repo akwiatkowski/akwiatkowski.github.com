@@ -34,7 +34,8 @@ test.describe('Smoke tests', () => {
       const errors = [];
 
       for (const tag of tags) {
-        const url = `/tag/${tag.slug}.html`;
+        // Use tag.url which has correct Polish slug (e.g., /tag/najlepsze.html not /tag/best.html)
+        const url = tag.url;
         const response = await request.get(url);
         if (response.status() !== 200) {
           errors.push({ url, status: response.status() });
@@ -51,12 +52,28 @@ test.describe('Smoke tests', () => {
 
   test.describe('All voivodeship pages exist', () => {
 
-    test('every voivodeship URL returns 200', async ({ request, payload }) => {
+    test('every voivodeship with posts has page', async ({ request, payload }) => {
       const voivodeships = getVoivodeships(payload);
+      const posts = getReadyPosts(payload);
+
+      // Find voivodeships that have at least one post
+      const voivodeshipsWithPosts = new Set();
+      for (const post of posts) {
+        for (const v of (post.voivodeships || [])) {
+          voivodeshipsWithPosts.add(v);
+        }
+      }
+
       const errors = [];
 
       for (const v of voivodeships) {
-        const url = `/wojewodztwo/${v.slug}.html`;
+        // Only test voivodeships that have posts (pages are only rendered for these)
+        if (!voivodeshipsWithPosts.has(v.slug)) {
+          continue;
+        }
+
+        // Use show_url from payload which has correct URL
+        const url = v.show_url;
         const response = await request.get(url);
         if (response.status() !== 200) {
           errors.push({ url, status: response.status() });
