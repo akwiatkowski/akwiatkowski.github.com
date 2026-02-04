@@ -2,6 +2,7 @@ class Tremolite::Validator
   def custom_validators
     check_missing_towns
     validate_exif_name_dictionary
+    validate_html_output
   end
 
   # Validate objects passed from registry
@@ -45,6 +46,35 @@ class Tremolite::Validator
           warning_in_post(post, "missing town #{slug}")
         end
       end
+    end
+  end
+
+  private def validate_html_output
+    processor = HtmlProcessor.new(validate: true)
+    error_count = 0
+    warning_count = 0
+
+    @html_buffer.buffer.each do |url, content|
+      next unless is_url_html?(url)
+
+      result = processor.process(content, url)
+
+      result.errors.each do |error|
+        Log.error { error.to_s }
+        error_count += 1
+      end
+
+      # Log warnings only if verbose logging is enabled
+      # result.warnings.each do |warning|
+      #   Log.warn { warning.to_s }
+      #   warning_count += 1
+      # end
+    end
+
+    if error_count > 0
+      Log.error { "HTML validation: #{error_count} errors found" }
+    else
+      Log.info { "HTML validation: passed" }
     end
   end
 

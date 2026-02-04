@@ -18,6 +18,11 @@ class AreaShowView < PageView
     @best_photo = find_best_photo
   end
 
+  # Area show page needs leaflet for maps and react for dynamic UI
+  def additional_bundles : Array(String)
+    ["leaflet", "react-runtime"]
+  end
+
   def add_to_sitemap?
     true
   end

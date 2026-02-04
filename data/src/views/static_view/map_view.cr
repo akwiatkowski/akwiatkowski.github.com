@@ -18,6 +18,11 @@ module StaticView
 
     getter :image_url, :title
 
+    # Map view uses OpenLayers instead of Leaflet
+    def additional_bundles : Array(String)
+      ["openlayers"]
+    end
+
     def content
       data = Hash(String, String).new
       data["header_img"] = image_url

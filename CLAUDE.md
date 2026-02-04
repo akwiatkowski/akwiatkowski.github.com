@@ -62,7 +62,9 @@ data/src/view_registry/
 
 ```
 data/src/views/
-├── base_view.cr         # BaseView - all views inherit from this
+├── base_view.cr         # BaseView - all views inherit from this (includes AssetAware)
+├── concerns/
+│   └── asset_aware.cr   # Asset bundle declaration module
 ├── page_view.cr         # PageView - HTML page wrapper
 ├── area_show_view.cr    # Area detail page (uses template)
 ├── post_list_view/      # Entity collection pages (towns, tags, etc.)
@@ -73,6 +75,27 @@ data/src/views/
 ├── special_view/        # RSS, Atom, JSON generators
 ├── photo_map/           # SVG map views
 └── model_view/          # Index pages
+```
+
+### Services
+
+```
+data/src/services/
+├── asset_bundle_loader.cr    # Load/resolve asset bundles from YAML config
+├── html_processor.cr         # HTML comment removal, validation
+├── html_validators/          # HTML validation rules
+│   ├── all.cr
+│   ├── base.cr
+│   ├── title_validators.cr
+│   ├── duplicate_id_validator.cr
+│   ├── placeholder_validator.cr
+│   ├── accessibility_validators.cr
+│   └── link_validators.cr
+├── area_data_loader.cr       # Load area entities from config
+├── area_photo_selector.cr    # Select photos for areas
+├── nav_stats_cache.cr        # Navigation statistics
+├── output_history.cr         # Track file changes
+└── ...
 ```
 
 ### Layout Templates
@@ -177,6 +200,50 @@ def title
   context["summary.title"]
 end
 ```
+
+## Asset Bundle System
+
+Views declare which asset bundles they need via the `AssetAware` module (included in `BaseView`).
+
+### Bundle Configuration
+
+Bundles are defined in `data/config/asset_bundles.yml`:
+- **Granular bundles**: `bootstrap-css`, `leaflet-js`, `react`, etc.
+- **Composites**: `core` (includes Bootstrap, jQuery, nav), `leaflet`, `openlayers`
+
+### Declaring Bundles in Views
+
+```crystal
+class MyView < PageView
+  # Add bundles to parent's list
+  def additional_bundles : Array(String)
+    ["leaflet", "react-runtime"]
+  end
+
+  # Optional: page-specific JS file
+  def page_js : String?
+    "/js/self/my_page.js"
+  end
+end
+```
+
+### Available Methods (from AssetAware)
+
+- `asset_bundles` - Base bundles (default: `["core"]`)
+- `additional_bundles` - Append to parent's bundles
+- `excluded_bundles` - Remove from inherited list
+- `page_js` - Optional page-specific JS file
+- `resolved_bundles` - Final computed bundle list
+
+### Current Bundle Declarations
+
+| View | Bundles |
+|------|---------|
+| `BaseView` | `["core"]` |
+| `AreaShowView` | `["core", "leaflet", "react-runtime"]` |
+| `MapView` | `["core", "openlayers"]` |
+| `JsIdeasView` | `["core", "ideas-css", "leaflet", "react-runtime"]` |
+| `GalleryView::AbstractView` | `["core", "gallery"]` |
 
 ## Common Tasks
 
@@ -302,7 +369,11 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-04: Fixed CoordRange#overlap_other logic bug
 - 2026-02-04: OutputHistory improved - env/target separation, pages/ subdirectory
 - 2026-02-04: Replaced deprecated Time.monotonic with Time.instant
+- 2026-02-04: Asset Bundle System added (Phase 11) - AssetBundleLoader, AssetAware module
+- 2026-02-04: HTML Processor and validators added (Phase 13) - comment removal, validation
+- 2026-02-04: External nav_stats.js extracted from inline script
+- 2026-02-04: Split head_open.html into head_meta, head_icons, head_feeds
 
 ---
 
-*Current stats: 5 tasks + 34 views = 39 registry entries, 199 tests*
+*Current stats: 5 tasks + 34 views = 39 registry entries, 220 tests*

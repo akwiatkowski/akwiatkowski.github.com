@@ -1,0 +1,115 @@
+# Asset Bundle Configuration
+# Views declare which bundles they need, and the loader resolves them to CSS/JS files.
+#
+# Bundle inheritance:
+# - Views inherit from parent's bundles
+# - additional_bundles: adds to inherited list
+# - excluded_bundles: removes from inherited list
+#
+# Composites:
+# - Convenient aliases that expand to multiple bundles
+
+bundles:
+  # === CSS Libraries ===
+  bootstrap-css:
+    css:
+      - /css/libs/bootstrap.min.css
+
+  fontawesome:
+    css:
+      - /css/libs/font-awesome.min.css
+
+  leaflet-css:
+    css:
+      - /css/libs/leaflet.css
+    integrity:
+      /css/libs/leaflet.css: "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+
+  openlayers-css:
+    css:
+      - /css/libs/ol.css
+      - /css/libs/ol3-popup.css
+
+  # === CSS Self (Our Code) ===
+  blog-css:
+    css:
+      - /css/self/clean-blog.css
+      - /css/self/new.css
+
+  gallery-css:
+    css:
+      - /css/self/new_gallery.css
+      - /css/self/coord_photo.css
+
+  ideas-css:
+    css:
+      - /css/self/ideas.css
+
+  openlayers-blog-css:
+    css:
+      - /css/self/ol-blog.css
+
+  # === JS Libraries ===
+  jquery:
+    js:
+      - /js/libs/jquery.min.js
+
+  bootstrap-js:
+    js:
+      - /js/libs/bootstrap.bundle.min.js
+
+  leaflet-js:
+    js:
+      - /js/libs/leaflet.js
+    integrity:
+      /js/libs/leaflet.js: "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+
+  openlayers-js:
+    js:
+      - /js/libs/ol.js
+      - /js/libs/ol3-popup.js
+
+  react:
+    js:
+      - /js/libs/react.production.min.js
+      - /js/libs/react-dom.production.min.js
+    # Note: No Babel - we transpile JSX to JS at build time
+
+  # === JS Self (Our Code) ===
+  nav-js:
+    js:
+      - /js/self/nav_stats.js
+
+  map-js:
+    js:
+      - /js/self/map.js
+
+# Composite bundles (convenience aliases)
+composites:
+  core:
+    includes:
+      - bootstrap-css
+      - fontawesome
+      - blog-css
+      - jquery
+      - bootstrap-js
+      - nav-js
+
+  leaflet:
+    includes:
+      - leaflet-css
+      - leaflet-js
+
+  openlayers:
+    includes:
+      - openlayers-css
+      - openlayers-js
+      - openlayers-blog-css
+
+  react-runtime:
+    includes:
+      - react
+
+  gallery:
+    includes:
+      - gallery-css

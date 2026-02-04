@@ -7,6 +7,11 @@ module GalleryView
 
     @reverse : Bool?
 
+    # Gallery views need gallery CSS for photo display
+    def additional_bundles : Array(String)
+      ["gallery"]
+    end
+
     def add_to_sitemap?
       true
     end

@@ -15,8 +15,21 @@
 #
 class RenderContext
   getter blog : Tremolite::Blog
+  @asset_bundle_loader : AssetBundleLoader?
 
   def initialize(@blog : Tremolite::Blog)
+  end
+
+  # Asset bundle loader for the new asset system
+  def asset_bundle_loader : AssetBundleLoader?
+    @asset_bundle_loader ||= begin
+      config_path = File.join(blog.data_path, "config", "asset_bundles.yml")
+      if File.exists?(config_path)
+        AssetBundleLoader.new(config_path)
+      else
+        nil
+      end
+    end
   end
 
   # ============================================

@@ -1,4 +1,8 @@
+require "./concerns/asset_aware"
+
 class BaseView < Tremolite::Views::BaseView
+  include AssetAware
+
   Log = ::Log.for(self)
 
   @voivodeship_nav : String?
@@ -53,9 +57,41 @@ class BaseView < Tremolite::Views::BaseView
 
   HEAD_OPEN_HTML_KEY = "__html_head"
 
-  # return if cached
-  # cache is performed by HtmlBuffer
+  # Returns head section with assets loaded based on view's bundle declarations.
+  # Uses the new asset bundle system when available, falls back to legacy head_open.html.
+  #
+  # Override asset_bundles, additional_bundles, excluded_bundles, or page_js
+  # in subclasses to customize which assets are loaded.
   def head_open_html
+    # Check if using new asset bundle system
+    if context.asset_bundle_loader
+      return head_open_html_with_bundles
+    end
+
+    # Fall back to legacy behavior
+    head_open_html_legacy
+  end
+
+  # New asset bundle-based head generation
+  private def head_open_html_with_bundles
+    # Build a cache key that includes the resolved bundles
+    cache_key = "#{HEAD_OPEN_HTML_KEY}_#{resolved_bundles.join(",")}"
+
+    buffered_html = context.html_buffer.buffer[cache_key]?
+    return buffered_html.not_nil! if buffered_html
+
+    context.html_buffer.buffer[cache_key] = String.build do |s|
+      s << load_html("include/head_meta")
+      s << assets_html(context)
+      s << load_html("include/head_icons")
+      s << load_html("include/head_feeds")
+    end
+
+    context.html_buffer.buffer[cache_key].not_nil!
+  end
+
+  # Legacy head_open.html loading (for backwards compatibility)
+  private def head_open_html_legacy
     buffered_html = context.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?
     return buffered_html.not_nil! if buffered_html
 
