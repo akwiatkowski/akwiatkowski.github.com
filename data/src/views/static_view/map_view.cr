@@ -18,9 +18,13 @@ module StaticView
 
     getter :image_url, :title
 
-    # Map view uses OpenLayers instead of Leaflet
+    # Map view uses Leaflet (migrated from OpenLayers for -590K savings)
     def additional_bundles : Array(String)
-      ["openlayers"]
+      ["leaflet"]
+    end
+
+    def page_css : Array(String)
+      ["map"]
     end
 
     def content

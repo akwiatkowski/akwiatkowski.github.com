@@ -141,8 +141,8 @@ Refactored `AreaType` enum with proper Polish grammatical cases and ASCII-safe U
 | **Core CSS** | ~210K | bootstrap.min.css (190K) + font-awesome.min.css (31K) + new.css (17K) |
 | **Core JS** | ~146K | bootstrap.bundle.min.js (80K) + nav_stats.js (jQuery removed!) |
 | **React Runtime** | ~143K | react.production.min.js (6K) + react-dom.production.min.js (137K) |
-| **Leaflet** | ~150K | leaflet.js (147K) + leaflet.css (16K) |
-| **OpenLayers** | ~738K | ol.js (720K) - only used on map page |
+| **Leaflet** | ~150K | leaflet.js (147K) + leaflet.css (16K) - now used for map page too |
+| ~~**OpenLayers**~~ | ~~738K~~ | Removed - replaced with Leaflet (-590K savings) |
 
 ---
 
@@ -164,10 +164,11 @@ Refactored `AreaType` enum with proper Polish grammatical cases and ASCII-safe U
 
 ### Future Ideas
 
-**Map Page Optimization:**
-- Replace OpenLayers with Leaflet (-590K)
-- `map.js` already converted to vanilla JS ✅
-- Would require converting OpenLayers API to Leaflet API
+**Map Page Optimization:** ✅ DONE
+- Replaced OpenLayers with Leaflet (-590K savings)
+- Created `map_leaflet.js` with same features (routes, popups, background change)
+- MapView now uses `leaflet` bundle instead of `openlayers`
+- Added `map-blog.css` for popup styling
 
 **Stats Rendering:**
 - Explore better ways to render post stats (distance, time, temperature)

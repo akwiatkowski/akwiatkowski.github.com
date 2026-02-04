@@ -117,3 +117,6 @@ page-assets:
   ideas:
     css:
       - /css/self/ideas.css
+  map:
+    css:
+      - /css/self/map-blog.css
