@@ -43,11 +43,13 @@ class Tremolite::Blog
   end
 
   # Output history for tracking file changes
-  # Target is extracted from output_path (e.g., "env/dev/public/local" -> "local")
+  # Env and target are extracted from output_path (e.g., "env/dev/public/local" -> env="dev", target="local")
   def output_history : OutputHistory
     @output_history ||= begin
+      parts = output_path.split('/')
+      env = parts[1]? || "dev"       # env/dev/public/local -> "dev"
       target = File.basename(output_path)
-      history = OutputHistory.new(target)
+      history = OutputHistory.new(env: env, target: target)
       html_buffer.output_history = history
       history
     end

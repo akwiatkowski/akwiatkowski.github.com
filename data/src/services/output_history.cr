@@ -3,28 +3,30 @@
 # Purpose: Detect when small code changes cause unexpected large output changes.
 #
 # Storage structure:
-#   env/dev/history/
-#   └── local/                        # Target subdirectory
-#       ├── index.html                # Summary page
-#       └── tag__najnowsze.html/      # Directory per output (flattened path)
-#           ├── 2026-02-03__14-30     # Version 1 (oldest)
-#           ├── 2026-02-03__14-35     # Version 2
-#           ├── 2026-02-03__14-40     # Version 3 (newest)
-#           └── 2026-02-03__14-40.diff # Diff: v2 → v3
+#   env/<env>/history/
+#   └── <target>/                     # Target subdirectory
+#       ├── index.html                # Summary page (easy to find at root)
+#       └── pages/                    # All page histories in subdirectory
+#           └── tag__najnowsze.html/  # Directory per output (flattened path)
+#               ├── 2026-02-03__14-30     # Version 1 (oldest)
+#               ├── 2026-02-03__14-35     # Version 2
+#               ├── 2026-02-03__14-40     # Version 3 (newest)
+#               └── 2026-02-03__14-40.diff # Diff: v2 → v3
 #
 class OutputHistory
   Log = ::Log.for(self)
 
   MAX_SIZE     = 500_000 # 500KB
   MAX_VERSIONS =       3
-  HISTORY_BASE = "env/dev/history"
 
   # Track files changed in this session for index.html
   @changed_files : Array(NamedTuple(url: String, diff_path: String?, timestamp: String))
   @history_path : String
+  @pages_path : String
 
-  def initialize(@target : String = "local")
-    @history_path = File.join(HISTORY_BASE, @target)
+  def initialize(@env : String = "dev", @target : String = "local")
+    @history_path = File.join("env", @env, "history", @target)
+    @pages_path = File.join(@history_path, "pages")
     @changed_files = [] of NamedTuple(url: String, diff_path: String?, timestamp: String)
     ensure_history_dir
   end
@@ -164,6 +166,7 @@ class OutputHistory
 
   private def ensure_history_dir
     Dir.mkdir_p(@history_path) unless Dir.exists?(@history_path)
+    Dir.mkdir_p(@pages_path) unless Dir.exists?(@pages_path)
   end
 
   private def ensure_dir(path : String)
@@ -173,7 +176,7 @@ class OutputHistory
   private def url_to_dir_path(url : String) : String
     # Flatten path: /tag/najnowsze.html -> tag__najnowsze.html
     flattened = url.lstrip('/').gsub('/', "__")
-    File.join(@history_path, flattened)
+    File.join(@pages_path, flattened)
   end
 
   private def binary_content?(content : String) : Bool
