@@ -379,7 +379,9 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-04: ASCII-safe URL slugs added (wojewodztwo not województwo)
 - 2026-02-04: AreaEntity aliases added (view_url, post_areas_link_url)
 - 2026-02-04: Navigation thumbnails - prev/next pager and related posts grid
+- 2026-02-04: Fixed page_css/page_js cache key bug in head_open_html
+- 2026-02-04: Registered JsBicyclePlannerView at /pomysly2.html
 
 ---
 
-*Current stats: 5 tasks + 34 views = 39 registry entries, 253 tests*
+*Current stats: 5 tasks + 35 views = 40 registry entries, 253 tests*
