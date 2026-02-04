@@ -203,9 +203,10 @@ struct CoordRange
   end
 
   def overlap_other(other : CoordRange) : Bool
-    # not sure if it's working
-    return false if self.lat_from < other.lat_to || other.lat_from > self.lat_to
-    return false if self.lon_from < other.lon_to || other.lon_from > self.lon_to
+    return false if self.lat_to < other.lat_from   # self is below other
+    return false if self.lat_from > other.lat_to   # self is above other
+    return false if self.lon_to < other.lon_from   # self is left of other
+    return false if self.lon_from > other.lon_to   # self is right of other
 
     return true
   end

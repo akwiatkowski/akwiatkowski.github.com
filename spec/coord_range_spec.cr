@@ -19,7 +19,7 @@ describe CoordRange do
       cr1.overlap_other(cr2).should eq false
     end
 
-    pending "returns false when reversed (needs fix)" do
+    it "returns false when reversed" do
       cr1 = CoordRange.new(
         lat_from: 2.0,
         lat_to: 3.0,
@@ -37,7 +37,7 @@ describe CoordRange do
       cr1.overlap_other(cr2).should eq false
     end
 
-    pending "returns true when overlapping (needs fix)" do
+    it "returns true when overlapping" do
       cr1 = CoordRange.new(
         lat_from: 0.0,
         lat_to: 10.0,
