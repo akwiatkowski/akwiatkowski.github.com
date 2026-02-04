@@ -385,7 +385,7 @@
     <script>
         function initApp() {
             const { useState, useEffect, useRef, useCallback } = window.React;
-            const { createRoot } = window.ReactDOM;
+            const { render } = window.ReactDOM;
 
             const CONFIG = {
                 bounds: {
@@ -455,7 +455,7 @@
                 return window.React.createElement('div',
                     { className: 'photo-item', onClick: () => onSelect(photo) },
                     window.React.createElement('img', {
-                        src: photo.post_preview_url,
+                        src: photo.card_url,
                         alt: 'photo',
                         className: 'photo-item-image',
                         onError: (e) => e.target.style.display = 'none'
@@ -673,7 +673,7 @@
                             markerCount++;
                             placedPixelsRef.current.push({ x: candX, y: candY });
 
-                            const markerHtml = `<img src="${photo.gallery_thumb_url}" style="width:40px;height:40px;border-radius:2px;border:1px solid #fff;cursor:pointer;object-fit:cover;" onerror="this.style.display='none'"/>`;
+                            const markerHtml = `<img src="${photo.article_url}" style="width:40px;height:40px;border-radius:2px;border:1px solid #fff;cursor:pointer;object-fit:cover;" onerror="this.style.display='none'"/>`;
                             const customIcon = L.divIcon({
                                 html: markerHtml,
                                 iconSize: [40, 40],
@@ -842,8 +842,7 @@
                 return window.React.createElement(MapComponent, { photos: photos });
             };
 
-            const root = createRoot(document.getElementById('root'));
-            root.render(React.createElement(App));
+            render(React.createElement(App), document.getElementById('root'));
         }
 
         if (window.React && window.ReactDOM) {

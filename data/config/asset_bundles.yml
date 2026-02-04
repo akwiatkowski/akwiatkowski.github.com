@@ -60,10 +60,12 @@ bundles:
       - /js/libs/ol3-popup.js
 
   react:
+    # Using Preact with compat layer (~26KB vs ~140KB for React)
     js:
-      - /js/libs/react.production.min.js
-      - /js/libs/react-dom.production.min.js
-    # Note: No Babel - we transpile JSX to JS at build time
+      - /js/libs/preact.umd.js
+      - /js/libs/preact-hooks.umd.js
+      - /js/libs/preact-compat.umd.js
+      - /js/libs/preact-shim.js
 
   # === JS Self (Our Code) ===
   nav-js:

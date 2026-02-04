@@ -177,8 +177,8 @@ function GalleryApp() {
 
 // ==================== RENDER ====================
 function init() {
-    const root = ReactDOM.createRoot(document.getElementById('root'));
-    root.render(<GalleryApp />);
+    // Using React 17 API for Preact compatibility
+    ReactDOM.render(<GalleryApp />, document.getElementById('root'));
 }
 
 // Wait for DOM to be ready

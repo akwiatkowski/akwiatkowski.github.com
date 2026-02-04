@@ -278,6 +278,12 @@ end
 3. Generate sections: Summary, What runs when, Entries by Category, Dependency Matrix, Priority Guide
 4. Verify structure matches PRIORITY_GROUPS in base.cr
 
+### Building the Project
+
+```bash
+make dev-render-local           # Compile and run project (dev environment)
+```
+
 ### Running Tests
 
 ```bash

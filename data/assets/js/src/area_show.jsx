@@ -481,8 +481,8 @@ function AreaShowPage() {
 
 // ==================== RENDER ====================
 function init() {
-    const root = ReactDOM.createRoot(document.getElementById('root'));
-    root.render(<AreaShowPage />);
+    // Using React 17 API for Preact compatibility
+    ReactDOM.render(<AreaShowPage />, document.getElementById('root'));
 }
 
 // Wait for DOM to be ready

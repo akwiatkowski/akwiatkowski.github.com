@@ -643,8 +643,8 @@ const App = () => {
 
 // ==================== RENDER ====================
 function init() {
-    const root = ReactDOM.createRoot(document.getElementById('root'));
-    root.render(<App />);
+    // Using React 17 API for Preact compatibility
+    ReactDOM.render(<App />, document.getElementById('root'));
 }
 
 // Wait for DOM to be ready
