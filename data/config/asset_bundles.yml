@@ -84,6 +84,14 @@ bundles:
     js:
       - /js/self/map.js
 
+  post-collection-js:
+    js:
+      - /js/self/post_collection.js
+
+  timeline-js:
+    js:
+      - /js/self/timeline.js
+
 # Composite bundles (convenience aliases)
 composites:
   core:

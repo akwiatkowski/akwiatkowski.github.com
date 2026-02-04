@@ -6,6 +6,11 @@ module StaticView
       super(context: context, url: @url)
     end
 
+    # Timeline uses Leaflet for map in modal and timeline.js for the main functionality
+    def additional_bundles : Array(String)
+      ["leaflet", "timeline-js"]
+    end
+
     def add_to_sitemap?
       true
     end

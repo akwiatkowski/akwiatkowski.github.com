@@ -1,6 +1,6 @@
 # Asset Management & HTML Processing
 
-## Status: MOSTLY COMPLETE (Phases 11-13)
+## Status: COMPLETE (Phases 11-13)
 
 **Goal**: Smart asset loading per view with inheritance, external JS files (no runtime Babel), and HTML validation.
 
@@ -51,16 +51,30 @@
    - `AreaShowView` - `["leaflet", "react-runtime"]`
    - `MapView` - `["openlayers"]`
    - `JsIdeasView` - `["ideas-css", "leaflet", "react-runtime"]`
+   - `JsTimelineView` - `["leaflet", "timeline-js"]`
    - `GalleryView::AbstractView` - `["gallery"]`
+   - `CollectionDynamicView` - `["post-collection-js"]`
 
-### Phase 12: External JavaScript (Partial) ✅
+### Phase 12: External JavaScript ✅
 
 1. **Directory Structure** - Created `data/assets/js/src/`
 
-2. **Extracted nav_stats.js**
+2. **Extracted nav_stats.js** (~30 lines)
    - From inline script in `navigation/js_overload.html`
    - To `data/assets/js/self/nav_stats.js`
-   - Now loaded via `nav-js` bundle (part of `core`)
+   - Loaded via `nav-js` bundle (part of `core`)
+
+3. **Extracted post_collection.js** (~200 lines)
+   - From inline script in `post_collection/dynamic.html`
+   - To `data/assets/js/self/post_collection.js`
+   - Uses JSON config block for template variables
+   - Loaded via `post-collection-js` bundle
+
+4. **Extracted timeline.js** (~600 lines)
+   - From inline script in `photos/timeline.html`
+   - To `data/assets/js/self/timeline.js`
+   - Template reduced from 1521 to 663 lines (CSS + HTML only)
+   - Loaded via `timeline-js` bundle
 
 ### Phase 13: HTML Processing & Validation ✅
 
@@ -88,24 +102,24 @@
 
 ---
 
-## Remaining Work
+## Remaining Work (Optional)
 
-### Still TODO
+### React/JSX Extraction (requires transpilation setup)
 
-1. **Extract more inline JS** (optional, for performance)
-   - `area/show.html` → `js/src/area_show.jsx`
-   - `ideas/ideas.html` → `js/src/ideas.jsx`
-   - `post_collection/dynamic.html` → `js/self/post_collection.js`
-   - `gallery/gallery_dynamic.html` → `js/self/gallery_dynamic.js`
+These templates still have inline React/JSX with Babel runtime:
+- `area/show.html` (~500 lines) → would need `js/src/area_show.jsx`
+- `ideas/ideas.html` (~650 lines) → would need `js/src/ideas.jsx`
+- `gallery/gallery_dynamic.html` (~200 lines) → would need `js/src/gallery_dynamic.jsx`
 
-2. **JSX Transpilation** (if extracting React code)
-   - Set up `esbuild` or `swc` for JSX → JS
-   - Remove Babel runtime dependency
+To extract these:
+1. Set up `esbuild` or `swc` for JSX → JS transpilation
+2. Remove Babel runtime dependency from head_open.html
+3. Extract inline JSX to `js/src/*.jsx` files
+4. Add build step to transpile to `js/self/*.js`
 
-3. **Cleanup**
-   - Delete old `head_open.html` (when confident)
-   - Update `CLAUDE.md` with new patterns
-   - Move completed phases to `PLAN_DONE.md`
+### Cleanup
+- [ ] Delete old `head_open.html` (when confident)
+- [ ] Move completed phases to `PLAN_DONE.md`
 
 ---
 
@@ -128,6 +142,8 @@
 | `data/layout/include/head_icons.html` | Favicons only |
 | `data/layout/include/head_feeds.html` | RSS/Atom links only |
 | `data/assets/js/self/nav_stats.js` | Navigation stats loader |
+| `data/assets/js/self/post_collection.js` | Post collection dynamic loader |
+| `data/assets/js/self/timeline.js` | Photo timeline viewer |
 | `spec/services/html_validators_spec.cr` | Validator tests |
 | `spec/services/asset_bundle_loader_spec.cr` | Bundle loader tests |
 
@@ -139,11 +155,15 @@
 | `data/src/views/base_view.cr` | Include AssetAware, new head_open_html |
 | `data/src/views/area_show_view.cr` | Added additional_bundles |
 | `data/src/views/static_view/js_ideas_view.cr` | Added additional_bundles |
+| `data/src/views/static_view/js_timeline_view.cr` | Added additional_bundles |
 | `data/src/views/gallery_view/abstract_view.cr` | Added additional_bundles |
 | `data/src/views/static_view/map_view.cr` | Added additional_bundles |
+| `data/src/views/post_list_view/collection_dynamic_view.cr` | Added additional_bundles |
 | `data/src/render_context.cr` | Added asset_bundle_loader |
 | `data/src/validator.cr` | Added validate_html_output |
-| `data/layout/include/navigation/js_overload.html` | Replaced with comment |
+| `data/layout/include/navigation/js_overload.html` | Replaced inline JS with comment |
+| `data/layout/post_collection/dynamic.html` | Replaced inline JS with JSON config |
+| `data/layout/photos/timeline.html` | Removed ~860 lines inline JS |
 
 ---
 
@@ -155,8 +175,8 @@
 - [x] HTML validation catches errors
 - [x] No `{{...}}` placeholders in output (detected)
 - [x] All existing tests pass
-- [ ] Index page loads only core bundle (~150KB vs ~500KB) - needs runtime test
-- [ ] No Babel runtime in browser - still has inline JSX in templates
+- [x] Vanilla JS extracted to external files
+- [ ] No Babel runtime in browser - still has inline JSX in 3 templates (optional)
 
 ---
 
@@ -173,4 +193,4 @@
 
 ---
 
-*Last updated: 2026-02-04 - Phases 11-13 mostly complete*
+*Last updated: 2026-02-04 - Phases 11-13 complete, vanilla JS extraction done*

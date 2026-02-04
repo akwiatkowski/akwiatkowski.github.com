@@ -11,6 +11,11 @@ module PostListView
       super(context: context, url: @url)
     end
 
+    # Post collection uses external JS for dynamic loading
+    def additional_bundles : Array(String)
+      ["post-collection-js"]
+    end
+
     def add_to_sitemap?
       true
     end
