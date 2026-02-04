@@ -44,7 +44,7 @@ module DouglasPeucker
   private def self.perpendicular_distance(
     point : Array(Float64),
     line_start : Array(Float64),
-    line_end : Array(Float64)
+    line_end : Array(Float64),
   ) : Float64
     x, y = point
     x1, y1 = line_start
@@ -81,16 +81,16 @@ class Commands::GeneratePolygonJson
 
   # Area types to process (matching AreaMatcher types)
   AREA_TYPES = {
-    "towns"        => :towns,
-    "counties"     => :counties,
-    "voivodeships" => :voivodeships,
-    "meso_regions" => :meso_regions,
+    "towns"         => :towns,
+    "counties"      => :counties,
+    "voivodeships"  => :voivodeships,
+    "meso_regions"  => :meso_regions,
     "macro_regions" => :macro_regions,
   }
 
   def initialize(
     @tolerance : Float64 = 0.001,
-    @force : Bool = false
+    @force : Bool = false,
   )
     @matcher = AreaMatcher::Matcher.new
     puts "AreaMatcher loaded: #{@matcher.stats}"
@@ -108,11 +108,13 @@ class Commands::GeneratePolygonJson
       puts "  #{type}: #{count} unique areas"
     end
 
-    # Generate polygon files for each env/target combination
-    ENV_TARGETS.each do |(env, target)|
-      puts "\n=== Generating polygons for env: #{env}, target: #{target} ==="
-      generate_polygons_for_env(env, target, visited_areas)
-    end
+    # Generate polygon GeoJSON (once, then write to all env/targets)
+    puts "\n=== Generating polygon GeoJSON ==="
+    polygons = generate_polygons(visited_areas)
+
+    # Write to all env/target combinations
+    puts "\n=== Writing to all environments ==="
+    write_polygons_to_all_envs(polygons)
 
     @matcher.finalize
     puts "\nDone!"
@@ -165,55 +167,74 @@ class Commands::GeneratePolygonJson
     puts "  Warning: Failed to parse #{path}: #{ex.message}"
   end
 
-  # Generate polygon JSON files for a specific environment
-  private def generate_polygons_for_env(
-    env : String,
-    target : String,
-    visited_areas : Hash(String, Set(String))
-  )
-    base_output_dir = File.join(["env", env, "public", target, "polygons"])
+  # Generate polygon GeoJSON for all visited areas
+  # Returns: Hash of type_name => Hash of slug => geojson_string
+  private def generate_polygons(
+    visited_areas : Hash(String, Set(String)),
+  ) : Hash(String, Hash(String, String))
+    result = Hash(String, Hash(String, String)).new { |h, k| h[k] = Hash(String, String).new }
 
     AREA_TYPES.each do |type_name, area_method|
       areas = get_areas_by_type(area_method)
       visited_slugs = visited_areas[type_name]? || Set(String).new
 
-      output_dir = File.join([base_output_dir, type_name])
-      Dir.mkdir_p(output_dir) unless Dir.exists?(output_dir)
-
       generated = 0
-      skipped = 0
 
       areas.each do |area|
         # Only generate for visited areas
         next unless visited_slugs.includes?(area.slug)
 
-        output_path = File.join([output_dir, "#{area.slug}.json"])
-
-        # Skip if exists and not forcing
-        if !@force && File.exists?(output_path)
-          skipped += 1
-          next
-        end
-
         # Generate GeoJSON
         geojson = generate_geojson(area, type_name)
-        File.write(output_path, geojson)
+        result[type_name][area.slug] = geojson
         generated += 1
       end
 
-      puts "  #{type_name}: generated #{generated}, skipped #{skipped}"
+      puts "  #{type_name}: #{generated} polygons generated"
+    end
+
+    result
+  end
+
+  # Write all polygons to all env/target combinations
+  private def write_polygons_to_all_envs(polygons : Hash(String, Hash(String, String)))
+    ENV_TARGETS.each do |(env, target)|
+      base_output_dir = File.join(["env", env, "public", target, "polygons"])
+
+      written = 0
+      skipped = 0
+
+      polygons.each do |type_name, type_polygons|
+        output_dir = File.join([base_output_dir, type_name])
+        Dir.mkdir_p(output_dir) unless Dir.exists?(output_dir)
+
+        type_polygons.each do |slug, geojson|
+          output_path = File.join([output_dir, "#{slug}.json"])
+
+          # Skip if exists and not forcing
+          if !@force && File.exists?(output_path)
+            skipped += 1
+            next
+          end
+
+          File.write(output_path, geojson)
+          written += 1
+        end
+      end
+
+      puts "  #{env}/#{target}: #{written} written, #{skipped} skipped"
     end
   end
 
   # Get areas array by type
   private def get_areas_by_type(area_type : Symbol) : Array(AreaMatcher::Area)
     case area_type
-    when :towns        then @matcher.towns
-    when :counties     then @matcher.counties
-    when :voivodeships then @matcher.voivodeships
-    when :meso_regions then @matcher.meso_regions
+    when :towns         then @matcher.towns
+    when :counties      then @matcher.counties
+    when :voivodeships  then @matcher.voivodeships
+    when :meso_regions  then @matcher.meso_regions
     when :macro_regions then @matcher.macro_regions
-    else                    [] of AreaMatcher::Area
+    else                     [] of AreaMatcher::Area
     end
   end
 
@@ -239,7 +260,7 @@ class Commands::GeneratePolygonJson
           json.object do
             json.field "slug", area.slug
             json.field "name", area.name
-            json.field "type", type_name.chomp("s")  # Remove trailing 's'
+            json.field "type", type_name.chomp("s") # Remove trailing 's'
             json.field "original_points", coords.size
             json.field "simplified_points", simplified.size
             json.field "reduction_percent", reduction
@@ -253,8 +274,8 @@ class Commands::GeneratePolygonJson
                 json.array do
                   simplified.each do |point|
                     json.array do
-                      json.number point[0].round(6)  # lon
-                      json.number point[1].round(6)  # lat
+                      json.number point[0].round(6) # lon
+                      json.number point[1].round(6) # lat
                     end
                   end
                 end
