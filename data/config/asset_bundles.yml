@@ -25,19 +25,10 @@ bundles:
     integrity:
       /css/libs/leaflet.css: "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
 
-  openlayers-css:
-    css:
-      - /css/libs/ol.css
-      - /css/libs/ol3-popup.css
-
   # === CSS Self (Our Code) ===
   blog-css:
     css:
       - /css/self/new.css
-
-  openlayers-blog-css:
-    css:
-      - /css/self/ol-blog.css
 
   # === JS Libraries ===
   jquery:
@@ -53,11 +44,6 @@ bundles:
       - /js/libs/leaflet.js
     integrity:
       /js/libs/leaflet.js: "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-
-  openlayers-js:
-    js:
-      - /js/libs/ol.js
-      - /js/libs/ol3-popup.js
 
   react:
     # Using Preact with compat layer (~26KB vs ~140KB for React)
@@ -98,12 +84,6 @@ composites:
     includes:
       - leaflet-css
       - leaflet-js
-
-  openlayers:
-    includes:
-      - openlayers-css
-      - openlayers-js
-      - openlayers-blog-css
 
   react-runtime:
     includes:
