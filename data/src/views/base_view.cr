@@ -58,22 +58,11 @@ class BaseView < Tremolite::Views::BaseView
   HEAD_OPEN_HTML_KEY = "__html_head"
 
   # Returns head section with assets loaded based on view's bundle declarations.
-  # Uses the new asset bundle system when available, falls back to legacy head_open.html.
+  # Uses the asset bundle system to generate appropriate CSS/JS tags.
   #
   # Override asset_bundles, additional_bundles, excluded_bundles, or page_js
   # in subclasses to customize which assets are loaded.
   def head_open_html
-    # Check if using new asset bundle system
-    if context.asset_bundle_loader
-      return head_open_html_with_bundles
-    end
-
-    # Fall back to legacy behavior
-    head_open_html_legacy
-  end
-
-  # New asset bundle-based head generation
-  private def head_open_html_with_bundles
     # Build a cache key that includes the resolved bundles
     cache_key = "#{HEAD_OPEN_HTML_KEY}_#{resolved_bundles.join(",")}"
 
@@ -88,51 +77,6 @@ class BaseView < Tremolite::Views::BaseView
     end
 
     context.html_buffer.buffer[cache_key].not_nil!
-  end
-
-  # Legacy head_open.html loading (for backwards compatibility)
-  private def head_open_html_legacy
-    buffered_html = context.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?
-    return buffered_html.not_nil! if buffered_html
-
-    output_path = context.output_path
-    i = 0
-
-    original_head = load_html("include/head_open")
-
-    context.html_buffer.buffer[HEAD_OPEN_HTML_KEY] = String.build do |s|
-      original_head.each_line do |line|
-        href_scan_results = line.scan(/href=\"([^"]+)\"/)
-        src_scan_results = line.scan(/src=\"([^"]+)\"/)
-
-        (href_scan_results + src_scan_results).each do |scan_result|
-          web_path = scan_result[1]
-
-          # ignore xml files which are created dynamically
-          next if web_path.includes?(".xml")
-
-          public_file_path = File.join([output_path, web_path])
-          # some included files do not exists
-          if File.exists?(public_file_path)
-            fi = File.info(public_file_path)
-            web_path_with_cache_fix = web_path + "?v=" + fi.modification_time.to_unix.to_s
-
-            line = line.gsub(web_path, web_path_with_cache_fix)
-
-            i += 1
-          else
-            Log.error { "#{web_path} assets NOT exists!" }
-          end
-        end
-
-        s << line
-        s << "\n"
-      end
-    end
-
-    Log.debug { "#{i} added cache fix for assets" }
-
-    return context.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?.not_nil!
   end
 
   def head_title_html

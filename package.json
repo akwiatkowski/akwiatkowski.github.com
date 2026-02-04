@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.0"
+  },
+  "scripts": {
+    "build:js": "esbuild data/assets/js/src/*.jsx --outdir=data/assets/js/self --format=iife --bundle --minify --external:react --external:react-dom",
+    "build:js:watch": "esbuild data/assets/js/src/*.jsx --outdir=data/assets/js/self --format=iife --bundle --external:react --external:react-dom --watch"
+  }
+}
