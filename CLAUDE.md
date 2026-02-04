@@ -291,6 +291,30 @@ crystal spec                    # Run all tests
 crystal spec spec/views/        # Run view tests only
 ```
 
+### Running E2E Tests (Playwright)
+
+E2E tests are in `tests/e2e/` directory.
+
+**First-time setup:**
+```bash
+cd tests/e2e
+npm install                     # Install Playwright
+npx playwright install chromium # Download Chromium browser
+```
+
+**Running tests:**
+```bash
+cd tests/e2e
+npx playwright test             # Run all tests
+npx playwright test --ui        # Interactive UI mode
+npx playwright test specs/map.spec.js  # Run specific file
+npx playwright test --headed    # See browser while testing
+```
+
+**Prerequisites:**
+- Dev server must be running on `localhost:5001`
+- Run `make dev-render-local` first to build the site
+
 ### Running Commands
 
 Commands are standalone Crystal scripts in `commands/` directory:

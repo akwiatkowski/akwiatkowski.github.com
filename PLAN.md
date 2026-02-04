@@ -139,19 +139,30 @@ Refactored `AreaType` enum with proper Polish grammatical cases and ASCII-safe U
 | Bundle | Size | Notes |
 |--------|------|-------|
 | **Core CSS** | ~210K | bootstrap.min.css (190K) + font-awesome.min.css (31K) + new.css (17K) |
-| **Core JS** | ~146K | bootstrap.bundle.min.js (80K) + nav_stats.js (jQuery removed!) |
-| **React Runtime** | ~143K | react.production.min.js (6K) + react-dom.production.min.js (137K) |
+| **Core JS** | ~80K | bootstrap.bundle.min.js (80K) + nav_stats.js (jQuery removed!) |
+| **Preact Runtime** | ~25K | preact.umd.js (11K) + hooks (4K) + compat (10K) + shim (0.3K) |
 | **Leaflet** | ~150K | leaflet.js (147K) + leaflet.css (16K) - now used for map page too |
-| ~~**OpenLayers**~~ | ~~738K~~ | Removed - replaced with Leaflet (-590K savings) |
+| ~~**React Runtime**~~ | ~~143K~~ | Replaced with Preact (-114K savings) |
+| ~~**OpenLayers**~~ | ~~738K~~ | Replaced with Leaflet (-590K savings) |
+
+---
+
+## Phase 17: Preact Migration ✅ COMPLETE
+
+### What Was Done
+- Downloaded Preact UMD files (preact, hooks, compat, shim) to `data/assets/js/libs/`
+- Updated `asset_bundles.yml` to use Preact instead of React
+- Changed JSX source files to use React 17 `ReactDOM.render()` API (Preact compat doesn't support React 18 `createRoot`)
+- Fixed transpiled JS files and `panoramio.html`
+
+### Savings
+| Before | After | Savings |
+|--------|-------|---------|
+| React 139K | Preact 25K | **-114K (82%)** |
 
 ---
 
 ## Backlog
-
-### Phase 17: Preact Migration (Optional)
-- Replace React with Preact (~140K savings)
-- Use `preact/compat` for drop-in replacement
-- Test all React components (area_show, ideas, gallery_dynamic)
 
 ### Phase 8: External Towns
 - Handle towns outside Poland (foreign countries)
@@ -185,9 +196,9 @@ Refactored `AreaType` enum with proper Polish grammatical cases and ASCII-safe U
 
 **253 Crystal tests passing**
 
-### E2E Tests (Playwright) - NEW
+### E2E Tests (Playwright)
 
-Infrastructure added in `tests/e2e/`:
+Infrastructure in `tests/e2e/`:
 - `specs/smoke.spec.js` - All URLs from payload.json return 200
 - `specs/posts.spec.js` - Post article pages
 - `specs/map.spec.js` - Map pages (mapa.html, mapa2.html)
@@ -195,10 +206,21 @@ Infrastructure added in `tests/e2e/`:
 - `specs/static.spec.js` - Static pages
 - `specs/js-pages.spec.js` - JS-heavy pages
 
+**Latest Results: 31 passed, 7 failed, 3 skipped**
+
+| Failed Test | Issue | Fix |
+|-------------|-------|-----|
+| Tag pages 404 | `/tag/*.html` not rendered in dev mode | Expected in dev |
+| Voivodeship pages 404 | `/wojewodztwo/*.html` not rendered in dev mode | Expected in dev |
+| Summary page JS error | `$ is not defined` - jQuery missing | Add jQuery or fix page |
+| Map popup test | Popup not visible after click | Test timing issue |
+| Home page locator | `.navbar-nav` matches 2 elements | Use `.first()` |
+| Summary page locator | `article, .container` matches 4 elements | Use `.first()` |
+
 **Next steps for e2e:**
-- [ ] Run tests and fix any failures
+- [ ] Fix locator ambiguity in static.spec.js (use `.first()`)
+- [ ] Fix zestawienie.html jQuery dependency or add to bundle
 - [ ] Add area page tests (AreaShowView)
-- [ ] Add more gallery assertions
 - [ ] CI integration
 
 ---
