@@ -1,11 +1,58 @@
 # Current Work
 
-## Status: Phase 14 Complete
+## Status: Phase 15 Complete
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
 - `PLAN_DONE.md` - Completed phases (Phases 1-3, 11-14)
+
+---
+
+## Phase 15: CSS Cleanup ✅ COMPLETE
+
+### What Was Done
+1. Deleted unused `css/tmp/` directory (76K, 11 files)
+2. Merged `clean-blog.css` into `new.css` (single base CSS file)
+3. Removed unused classes: `site-heading`, `page-heading`, `post-todo`
+4. Removed duplicate rules and obsolete vendor prefixes
+5. Added symbol-based `page_css` support for page-specific CSS
+
+### CSS Structure (After Cleanup)
+
+| File | Size | Loaded By |
+|------|------|-----------|
+| `new.css` | 17K | All pages (via `core` bundle) |
+| `new_gallery.css` | 7K | Gallery pages (via `page_css: ["gallery"]`) |
+| `coord_photo.css` | 2K | Gallery pages (via `page_css: ["gallery"]`) |
+| `ideas.css` | 6K | Ideas page (via `page_css: ["ideas"]`) |
+| `ol-blog.css` | 1K | Map page (via `openlayers` bundle) |
+
+### New Pattern: Symbol-based page_css
+
+Views declare page-specific CSS via symbols:
+```crystal
+def page_css : Array(String)
+  ["gallery"]  # Resolves to new_gallery.css + coord_photo.css
+end
+```
+
+Symbols defined in `asset_bundles.yml`:
+```yaml
+page-assets:
+  gallery:
+    css:
+      - /css/self/new_gallery.css
+      - /css/self/coord_photo.css
+  ideas:
+    css:
+      - /css/self/ideas.css
+```
+
+### Savings
+- Deleted 76K unused CSS (`css/tmp/`)
+- Reduced clean-blog.css by ~0.5K (duplicates, empty rules)
+- Total: **~77K saved**
 
 ---
 
@@ -30,64 +77,21 @@
 npm run build:js
 ```
 
-### Pattern Used
-JSON config blocks for template variable injection:
-
-```html
-<script id="page-config" type="application/json">
-{
-  "slug": "{{ slug }}",
-  "name": "{{ name }}"
-}
-</script>
-<div id="root"></div>
-<script src="/js/self/area_show.js"></script>
-```
-
 ---
 
-## CSS/JS Analysis (2026-02-04)
-
-### Current Bundle Sizes
+## Current Bundle Sizes
 
 | Bundle | Size | Notes |
 |--------|------|-------|
-| **Core CSS** | ~210K | bootstrap.min.css (190K) + font-awesome.min.css (31K) + clean-blog.css + new.css |
+| **Core CSS** | ~210K | bootstrap.min.css (190K) + font-awesome.min.css (31K) + new.css (17K) |
 | **Core JS** | ~234K | jquery.min.js (88K) + bootstrap.bundle.min.js (80K) + nav_stats.js |
 | **React Runtime** | ~143K | react.production.min.js (6K) + react-dom.production.min.js (137K) |
 | **Leaflet** | ~150K | leaflet.js (147K) + leaflet.css (16K) |
 | **OpenLayers** | ~738K | ol.js (720K) - only used on map page |
 
-### Unused CSS (Deletable)
-
-The `css/tmp/` directory contains ~80K of unused CSS:
-- `gallery_justified.css` (6K) - not referenced
-- `gallery_v1.css` (4K) - not referenced
-- `gallery_v2.css` (4K) - not referenced
-- `gallery_v3.css` (2K) - not referenced
-- `map_slider.css` (1K) - not referenced
-- `masonry.css` (4K) - not referenced
-- `photo_gallery.css` (6K) - not referenced
-- `trip_post.css` (3K) - not referenced
-- `zoom_gallery.css` (3K) - not referenced
-
-### Optimization Opportunities
-
-| Change | Savings | Effort | Breaking |
-|--------|---------|--------|----------|
-| Delete `css/tmp/` | ~80K | Low | No |
-| Bootstrap 5 (remove jQuery) | ~88K | Medium | Maybe |
-| Preact instead of React | ~140K | Medium | No |
-| Drop OpenLayers (Leaflet only) | ~738K | High | Yes (map page) |
-
 ---
 
 ## Backlog
-
-### Phase 15: CSS Cleanup
-- Delete unused `css/tmp/` directory (~80K)
-- Audit `clean-blog.css` for dead rules
-- Consider merging `new.css` into `clean-blog.css`
 
 ### Phase 16: Bootstrap 5 Migration
 - Upgrade Bootstrap 4 → 5 (removes jQuery dependency)
@@ -114,7 +118,7 @@ The `css/tmp/` directory contains ~80K of unused CSS:
 
 Added tests to ensure assets are properly rendered:
 - `MissingAssetsValidator` - catches broken asset loading, warns on Babel
-- 13 `AssetAware` unit tests - bundle resolution, HTML generation
+- 15 `AssetAware` unit tests - bundle resolution, HTML generation, page_css
 - 8 validator tests - CSS/JS detection, forbidden assets
 - `MockRenderContext` now supports `asset_bundle_loader`
 
@@ -122,7 +126,7 @@ Added tests to ensure assets are properly rendered:
 
 ## Test Status
 
-**241 tests passing** (199 original + 21 AssetBundleLoader/Validators + 21 AssetAware)
+**242 tests passing**
 
 ---
 
