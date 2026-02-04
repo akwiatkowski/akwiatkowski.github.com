@@ -5,7 +5,7 @@
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 11-15, 18)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 11-18)
 
 ---
 
@@ -34,11 +34,10 @@ Upgrade Bootstrap 4 → 5 to remove jQuery dependency (-88K).
 | jQuery | 88K | Only `map.js` (height/width/fadeOut) |
 | Bootstrap JS | 80K | Navbar collapse, dropdown toggles, tooltips |
 
-**Why Bootstrap 5 (not full migration):**
-- Navbar with dropdowns would need custom JS (~100 lines)
-- Grid easily replaceable but only used in ~15 places
-- Full custom CSS saves ~170K but requires 2-3 days work
-- Bootstrap 5 gives 88K savings for minimal effort
+**Why Bootstrap 5:**
+- Removes jQuery dependency (-88K)
+- Minimal migration effort (data attribute changes)
+- Keeps Bootstrap features (navbar, grid, utilities)
 
 ### Migration Steps
 

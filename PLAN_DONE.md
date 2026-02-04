@@ -447,4 +447,97 @@ spec/
 
 ---
 
+## Phase 16: Bootstrap 5 Migration ✅ COMPLETE
+
+**Completed**: 2026-02-04
+
+### Goal
+Upgrade Bootstrap 4 → 5 to remove jQuery dependency (-88K).
+
+### What Was Done
+
+1. **Downloaded Bootstrap 5.3.3 JS** (CSS was already 5.3.8)
+
+2. **Updated data attributes:**
+   - `data-toggle` → `data-bs-toggle`
+   - `data-target` → `data-bs-target`
+   - `data-placement` → `data-bs-placement`
+
+3. **Updated utility classes:**
+   - `mr-auto` → `me-auto`
+   - `ml-auto` → `ms-auto`
+
+4. **Rewrote `map.js` to vanilla JS** (removed all jQuery usage)
+
+5. **Updated asset bundles:**
+   - Removed jQuery from `core` bundle
+   - Removed OpenLayers bundle (replaced with Leaflet)
+
+6. **Fixed tooltip initialization** - Bootstrap 5 requires explicit JS init
+
+### Files Updated
+
+| File | Changes |
+|------|---------|
+| `data/layout/include/navigation/static.html` | `data-toggle` → `data-bs-toggle` |
+| `data/layout/post/pager_*.html` | Tooltip data attributes |
+| `data/assets/js/self/map.js` | Vanilla JS rewrite |
+| `data/assets/js/self/nav_stats.js` | Tooltip init |
+| `data/config/asset_bundles.yml` | Removed jQuery, OpenLayers |
+
+### Savings
+
+| Before | After | Savings |
+|--------|-------|---------|
+| jQuery 88K | 0 | **-88K** |
+| OpenLayers 738K | 0 | **-738K** (replaced with Leaflet) |
+
+---
+
+## Phase 17: Preact Migration ✅ COMPLETE
+
+**Completed**: 2026-02-04
+
+### Goal
+Replace React (~140KB) with Preact (~25KB) for 82% size reduction.
+
+### What Was Done
+
+1. **Downloaded Preact UMD files** to `data/assets/js/libs/`:
+   - `preact.umd.js` (11K)
+   - `preact-hooks.umd.js` (4K)
+   - `preact-compat.umd.js` (10K)
+   - `preact-shim.js` (0.3K) - aliases Preact to React globals
+
+2. **Updated `asset_bundles.yml`:**
+   - Changed `react` bundle to use Preact files
+
+3. **Fixed React API usage:**
+   - Changed React 18 `createRoot().render()` → React 17 `ReactDOM.render()`
+   - Preact compat only supports React 17 API
+
+4. **Updated files:**
+   - `data/assets/js/src/*.jsx` - Source files
+   - `data/assets/js/self/*.js` - Transpiled files
+   - `data/layout/panoramio.html` - Inline script
+
+### Savings
+
+| Before | After | Savings |
+|--------|-------|---------|
+| React 139K | Preact 25K | **-114K (82%)** |
+
+---
+
+## Phase 16-17 Total Savings
+
+| Item | Savings |
+|------|---------|
+| jQuery removal | -88K |
+| OpenLayers → Leaflet | -738K |
+| React → Preact | -114K |
+| **Total** | **-940K** |
+
+---
+
 *Last updated: 2026-02-04*
