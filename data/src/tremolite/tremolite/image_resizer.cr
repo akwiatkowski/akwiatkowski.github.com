@@ -2,8 +2,10 @@ class Tremolite::ImageResizer
   Log = ::Log.for(self)
 
   @@sizez = {
-    "small" => {width: 600, height: 400, quality: 65},
-    "thumb" => {width: 60, height: 40, quality: 70},
+    "article"   => {width: 1000, height: 800, quality: 85},
+    "card"      => {width: 700, height: 525, quality: 82},
+    "grid"      => {width: 560, height: 420, quality: 80},
+    "thumbnail" => {width: 150, height: 112, quality: 72},
   }
   @@quality = 70
 

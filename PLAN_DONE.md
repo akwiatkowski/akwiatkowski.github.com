@@ -346,4 +346,105 @@ spec/
 
 ---
 
+---
+
+## Phase 15: CSS Cleanup ✅ COMPLETE
+
+**Completed**: 2026-02-04
+
+### What Was Done
+1. Deleted unused `css/tmp/` directory (76K, 11 files)
+2. Merged `clean-blog.css` into `new.css` (single base CSS file)
+3. Removed unused classes: `site-heading`, `page-heading`, `post-todo`
+4. Removed duplicate rules and obsolete vendor prefixes
+5. Added symbol-based `page_css` support for page-specific CSS
+
+### CSS Structure (After Cleanup)
+
+| File | Size | Loaded By |
+|------|------|-----------|
+| `new.css` | 17K | All pages (via `core` bundle) |
+| `new_gallery.css` | 7K | Gallery pages (via `page_css: ["gallery"]`) |
+| `coord_photo.css` | 2K | Gallery pages (via `page_css: ["gallery"]`) |
+| `ideas.css` | 6K | Ideas page (via `page_css: ["ideas"]`) |
+| `ol-blog.css` | 1K | Map page (via `openlayers` bundle) |
+
+### Savings
+- Deleted 76K unused CSS (`css/tmp/`)
+- Reduced clean-blog.css by ~0.5K (duplicates, empty rules)
+- Total: **~77K saved**
+
+---
+
+## Phase 18: Blog Article Visual Improvements ✅ COMPLETE
+
+**Completed**: 2026-02-04
+
+### Article Styling
+
+**CSS Changes (`new.css`):**
+- Article typography: Georgia serif, 1.125rem, line-height 1.75
+- Photo captions: cleaner hierarchy with `.photo-caption-title`
+- EXIF overlay: small text in bottom-right corner of photo, visible on hover
+- Dark mode support for captions
+
+**HTML Changes (`post/post_image_partial.html`):**
+- EXIF moved inside `<a>` tag as `<span class="photo-exif">` for overlay positioning
+- Caption title wrapped in `<span class="photo-caption-title">`
+
+### ImageResizer Upgrade
+
+**Analysis:**
+- Original photos are 2048px wide
+- Content column is ~760px
+- 1000px gives good HiDPI coverage (1.3x)
+
+**Old 6-size structure:**
+```crystal
+@@sizez = {
+  "medium"       => {width: 750, height: 600, quality: 88},
+  "small"        => {width: 600, height: 450, quality: 80},
+  "thumb"        => {width: 60, height: 40, quality: 65},
+  "big_thumb"    => {width: 150, height: 100, quality: 70},
+  "gallery_thumb"=> {width: 320, height: 200, quality: 84},
+  "gallery"      => {width: 450, height: 350, quality: 85},
+}
+```
+
+**New 4-size structure:**
+```crystal
+@@sizez = {
+  "article"   => {width: 1000, height: 800, quality: 85},
+  "card"      => {width: 700, height: 525, quality: 82},
+  "grid"      => {width: 560, height: 420, quality: 80},
+  "thumbnail" => {width: 150, height: 112, quality: 72},
+}
+```
+
+**Migration mapping:**
+| Old Name | New Name | Notes |
+|----------|----------|-------|
+| medium | article | Increased 750→1000px |
+| small | card | Increased 600→700px |
+| thumb | thumbnail | Merged with big_thumb |
+| big_thumb | thumbnail | Merged with thumb |
+| gallery_thumb | grid | Increased 320→560px |
+| gallery | article | Merged - 1000px works for lightbox |
+
+**Files Updated:**
+- `data/src/image_resizer.cr` - New size definitions
+- `data/src/tremolite/tremolite/image_resizer.cr` - Base class defaults
+- `data/src/models/photo_entity.cr` - Constants renamed (THUMBNAIL_PREFIX, etc.)
+- `data/src/post/photos.cr` - Method names updated
+- `data/src/views/special_view/photos_json_generator.cr` - JSON field names
+- `data/assets/js/src/area_show.jsx` - JS field references
+- `data/src/views/gallery_view/abstract_view.cr` - Added react-runtime bundle
+
+**Trade-offs:**
+- +23% storage (603KB vs 493KB per photo)
+- Better quality at larger sizes
+- 33% fewer files to generate (4 vs 6 sizes)
+
+---
+
 *Last updated: 2026-02-04*

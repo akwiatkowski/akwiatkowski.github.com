@@ -12,6 +12,11 @@ module GalleryView
       ["gallery"]
     end
 
+    # Gallery dynamic template uses React components
+    def additional_bundles : Array(String)
+      ["react-runtime"]
+    end
+
     def add_to_sitemap?
       true
     end

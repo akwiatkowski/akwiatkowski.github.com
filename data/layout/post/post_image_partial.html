@@ -11,10 +11,9 @@
       data-altitude="{{ img.altitude }}"
       data-time="{{ img.time }}"
     />
+    <span class="photo-exif">{{ img.exif_string }}</span>
   </a>
   <figcaption class="figure-caption">
-    {{ img.additional_links }}{{ img.alt }}
-    <br/>
-    {{ img.exif_string }}{{ img.coord_link }}
+    <span class="photo-caption-title">{{ img.additional_links }}{{ img.alt }}</span>
   </figcaption>
 </figure>

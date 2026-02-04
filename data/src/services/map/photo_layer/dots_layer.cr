@@ -118,7 +118,7 @@ class Map::PhotoLayer::DotsLayer
     thumb_size,
     circle_size,
   )
-    thumb_url = photo_entity.map_thumb_image_src
+    thumb_url = photo_entity.grid_image_src
     photo_url = photo_entity.full_image_src
 
     x, y = @tiles_layer.in_map_position_from_geo_coords(

@@ -122,7 +122,7 @@ class Tremolite::Views::BaseView
 
     return post_image(
       photo: exifed_pe,
-      size: "medium"
+      size: "article"
     )
   end
 

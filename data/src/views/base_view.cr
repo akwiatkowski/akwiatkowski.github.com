@@ -295,7 +295,7 @@ class BaseView < Tremolite::Views::BaseView
         ph["post.additional-info"] = "#{word_count} słów" if word_count > 100
       end
 
-      ph["post.thumb_image_url"] = post.big_thumb_image_url.not_nil!
+      ph["post.thumbnail_image_url"] = post.thumbnail_image_url.not_nil!
 
       content += load_html("post/preview", ph)
       content += "\n"

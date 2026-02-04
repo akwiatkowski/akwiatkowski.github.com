@@ -46,7 +46,7 @@ module SpecialView
                   json.field("year", post.time.year)
                   json.field("month", post.time.month)
                   json.field("image_url", post.image_url)
-                  json.field("small_image_url", post.small_image_url)
+                  json.field("card_image_url", post.card_image_url)
 
                   json.field "coords" do
                     json.raw post.detailed_routes.to_json

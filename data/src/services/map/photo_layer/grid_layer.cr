@@ -133,7 +133,7 @@ class Map::PhotoLayer::GridLayer
   end
 
   def photo_map_set_to_svg_image(photo_map_set)
-    url = photo_map_set[:photo].map_thumb_image_src
+    url = photo_map_set[:photo].grid_image_src
     post_url = photo_map_set[:photo].post_url
     x = photo_map_set[:pixel_x]
     y = photo_map_set[:pixel_y]

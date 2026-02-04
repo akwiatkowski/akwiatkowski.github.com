@@ -55,7 +55,7 @@ module GalleryView
             if exists
               renderer = @renderers[lat][lon]
               photo_entity = renderer.photo_entities.first.as(PhotoEntity)
-              background_image_url = photo_entity.gallery_thumb_image_src
+              background_image_url = photo_entity.article_image_src
 
               # normalize to max 100
               max_photo_count = 50

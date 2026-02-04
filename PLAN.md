@@ -1,81 +1,92 @@
 # Current Work
 
-## Status: Phase 15 Complete
+## Status: Phase 16 In Progress
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 11-14)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 11-15, 18)
 
 ---
 
-## Phase 15: CSS Cleanup ✅ COMPLETE
+## Phase 16: Bootstrap 5 Migration 🚧 IN PROGRESS
 
-### What Was Done
-1. Deleted unused `css/tmp/` directory (76K, 11 files)
-2. Merged `clean-blog.css` into `new.css` (single base CSS file)
-3. Removed unused classes: `site-heading`, `page-heading`, `post-todo`
-4. Removed duplicate rules and obsolete vendor prefixes
-5. Added symbol-based `page_css` support for page-specific CSS
+### Goal
+Upgrade Bootstrap 4 → 5 to remove jQuery dependency (-88K).
 
-### CSS Structure (After Cleanup)
+### Analysis (2026-02-04)
 
-| File | Size | Loaded By |
-|------|------|-----------|
-| `new.css` | 17K | All pages (via `core` bundle) |
-| `new_gallery.css` | 7K | Gallery pages (via `page_css: ["gallery"]`) |
-| `coord_photo.css` | 2K | Gallery pages (via `page_css: ["gallery"]`) |
-| `ideas.css` | 6K | Ideas page (via `page_css: ["ideas"]`) |
-| `ol-blog.css` | 1K | Map page (via `openlayers` bundle) |
+**Bootstrap Usage in Codebase:**
 
-### New Pattern: Symbol-based page_css
+| Feature | Usage | Files |
+|---------|-------|-------|
+| Grid | `container`, `row`, `col-lg-8 offset-lg-2` | ~15 places |
+| Navbar | Full navbar with dropdowns, mobile collapse | 1 component |
+| Buttons | `btn`, `btn-primary`, `btn-light`, `btn-group` | ~10 places |
+| Tables | `table` class | 2 files |
+| Utilities | `text-center`, `d-block`, `mr-auto` | ~10 places |
+| Tooltips | `data-toggle="tooltip"` | 4 buttons |
 
-Views declare page-specific CSS via symbols:
-```crystal
-def page_css : Array(String)
-  ["gallery"]  # Resolves to new_gallery.css + coord_photo.css
-end
-```
+**JavaScript Dependencies:**
 
-Symbols defined in `asset_bundles.yml`:
-```yaml
-page-assets:
-  gallery:
-    css:
-      - /css/self/new_gallery.css
-      - /css/self/coord_photo.css
-  ideas:
-    css:
-      - /css/self/ideas.css
-```
+| Library | Size | Used For |
+|---------|------|----------|
+| jQuery | 88K | Only `map.js` (height/width/fadeOut) |
+| Bootstrap JS | 80K | Navbar collapse, dropdown toggles, tooltips |
 
-### Savings
-- Deleted 76K unused CSS (`css/tmp/`)
-- Reduced clean-blog.css by ~0.5K (duplicates, empty rules)
-- Total: **~77K saved**
+**Why Bootstrap 5 (not full migration):**
+- Navbar with dropdowns would need custom JS (~100 lines)
+- Grid easily replaceable but only used in ~15 places
+- Full custom CSS saves ~170K but requires 2-3 days work
+- Bootstrap 5 gives 88K savings for minimal effort
 
----
+### Migration Steps
 
-## Phase 14: JSX Extraction ✅ COMPLETE
+1. **Download Bootstrap 5 files**
+   - `bootstrap.min.css` (v5.3.x)
+   - `bootstrap.bundle.min.js` (includes Popper, no jQuery)
 
-### What Was Done
-1. Set up `esbuild` for JSX → JS transpilation at build time
-2. Extracted 3 React templates to external JSX files
-3. Deleted legacy `head_open.html`
-4. Removed ~1850 lines of inline JSX from templates
+2. **Update HTML - Breaking Changes**
+   - `data-toggle` → `data-bs-toggle`
+   - `data-target` → `data-bs-target`
+   - `data-placement` → `data-bs-placement`
+   - `data-dismiss` → `data-bs-dismiss`
+   - `mr-*` → `me-*` (margin-end)
+   - `ml-*` → `ms-*` (margin-start)
 
-### Files Extracted
+3. **Update Navbar**
+   - `data-toggle="collapse"` → `data-bs-toggle="collapse"`
+   - `data-toggle="dropdown"` → `data-bs-toggle="dropdown"`
 
-| Source Template | JSX File | Transpiled JS | Size |
-|----------------|----------|---------------|------|
-| `area/show.html` (1003→518 lines) | `js/src/area_show.jsx` | `js/self/area_show.js` | 9.8kb |
-| `ideas/ideas.html` (648→3 lines) | `js/src/ideas.jsx` | `js/self/ideas.js` | 12.8kb |
-| `gallery/gallery_dynamic.html` (199→8 lines) | `js/src/gallery_dynamic.jsx` | `js/self/gallery_dynamic.js` | 3.7kb |
+4. **Update Tooltips**
+   - Initialize via JS: `new bootstrap.Tooltip(element)`
 
-### Build Command
-```bash
-npm run build:js
-```
+5. **Remove jQuery**
+   - Delete `jquery.min.js` from assets
+   - Rewrite `map.js` jQuery calls to vanilla JS
+
+6. **Update asset_bundles.yml**
+   - Remove jQuery from `core` bundle
+   - Update Bootstrap paths
+
+### Files to Update
+
+| File | Changes |
+|------|---------|
+| `data/layout/include/navigation/static.html` | `data-toggle` → `data-bs-toggle` |
+| `data/layout/post/pager_*.html` | `data-toggle="tooltip"` → `data-bs-toggle` |
+| `data/layout/include/navigation/stats.html` | `data-toggle="dropdown"` → `data-bs-toggle` |
+| `data/assets/js/self/map.js` | Replace jQuery with vanilla JS |
+| `data/config/asset_bundles.yml` | Remove jQuery, update Bootstrap paths |
+
+### Expected Savings
+
+| Before | After | Savings |
+|--------|-------|---------|
+| jQuery 88K | 0 | -88K |
+| Bootstrap 4 CSS 190K | Bootstrap 5 CSS ~190K | 0 |
+| Bootstrap 4 JS 80K | Bootstrap 5 JS ~80K | 0 |
+| **Total** | | **-88K** |
 
 ---
 
@@ -93,11 +104,6 @@ npm run build:js
 
 ## Backlog
 
-### Phase 16: Bootstrap 5 Migration
-- Upgrade Bootstrap 4 → 5 (removes jQuery dependency)
-- Saves ~88K (jQuery removal)
-- Update any Bootstrap 4-specific classes
-
 ### Phase 17: Preact Migration (Optional)
 - Replace React with Preact (~140K savings)
 - Use `preact/compat` for drop-in replacement
@@ -112,15 +118,20 @@ npm run build:js
 - Task types: Manual, Periodic, FileChanged, PostRender
 - Task tracking in `cache/command_runs.yml`
 
----
+### Future Ideas
 
-## Asset Rendering Tests ✅
+**Map Page Optimization:**
+- Replace OpenLayers with Leaflet (-590K)
+- `map.js` already uses jQuery → rewrite to vanilla JS
+- Would require converting OpenLayers API to Leaflet API
 
-Added tests to ensure assets are properly rendered:
-- `MissingAssetsValidator` - catches broken asset loading, warns on Babel
-- 15 `AssetAware` unit tests - bundle resolution, HTML generation, page_css
-- 8 validator tests - CSS/JS detection, forbidden assets
-- `MockRenderContext` now supports `asset_bundle_loader`
+**Stats Rendering:**
+- Explore better ways to render post stats (distance, time, temperature)
+- Consider inline badges, sidebar summary, or expandable section
+
+**Navigation Thumbnails:**
+- Add post thumbnail to prev/next navigation buttons
+- Makes navigation more visual and engaging
 
 ---
 

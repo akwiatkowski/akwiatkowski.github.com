@@ -8,7 +8,7 @@ module PostView
       ph = Hash(String, String).new
       ph["klass"] = klass
       ph["post.url"] = post.url
-      ph["post.small_image_url"] = post.small_image_url.not_nil!
+      ph["post.card_image_url"] = post.card_image_url.not_nil!
       ph["post.title"] = post.title
       ph["post.date"] = post.date
       ph["post.date"] = post.finished_date if render_date == :finished

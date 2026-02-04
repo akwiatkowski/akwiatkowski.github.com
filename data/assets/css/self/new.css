@@ -685,3 +685,125 @@ footer .copyright {
 .dropdown-item {
   width: fit-content;
 }
+
+/* ==========================================================================
+   Article Styles - Blog Post Content
+   ========================================================================== */
+
+/* Article typography - use serif for better long-form reading */
+article {
+  --article-font: "Georgia", "Times New Roman", "Noto Serif", serif;
+  --article-font-size: 1.125rem;
+  --article-line-height: 1.75;
+  --article-text-color: var(--color-text);
+  --article-caption-color: var(--color-text-secondary);
+  --article-exif-color: var(--color-gray-400);
+}
+
+article p,
+article li {
+  font-family: var(--article-font);
+  font-size: var(--article-font-size);
+  line-height: var(--article-line-height);
+  color: var(--article-text-color);
+}
+
+article h2 {
+  font-family: var(--font-family-base);
+  font-size: 1.5rem;
+  font-weight: var(--font-weight-bold);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--color-text);
+}
+
+article h3 {
+  font-family: var(--font-family-base);
+  font-size: 1.25rem;
+  font-weight: var(--font-weight-semibold);
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Photo figure styling */
+.post-article-photo {
+  margin: 2rem 0;
+  text-align: center;
+  position: relative;
+}
+
+.post-article-photo > a {
+  display: inline-block;
+  position: relative;
+}
+
+.post-article-photo img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Caption container */
+.post-article-photo .figure-caption {
+  font-family: var(--font-family-base);
+  margin-top: 0.75rem;
+  padding: 0 1rem;
+}
+
+/* Photo title - prominent, readable */
+.photo-caption-title {
+  font-size: 0.9375rem;
+  line-height: 1.4;
+  color: var(--article-caption-color);
+  font-weight: var(--font-weight-medium);
+}
+
+/* EXIF data - overlay on photo, bottom right corner */
+.photo-exif {
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
+  font-size: 0.625rem;
+  line-height: 1.2;
+  color: rgba(255, 255, 255, 0.9);
+  font-family: var(--font-family-mono);
+  letter-spacing: -0.02em;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 2px 6px;
+  opacity: 0;
+  transition: opacity var(--duration-fast);
+  pointer-events: none;
+  white-space: nowrap;
+  max-width: 90%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Show EXIF on photo hover */
+.post-article-photo:hover .photo-exif {
+  opacity: 1;
+}
+
+/* Link styling within captions (gallery links, etc.) */
+.photo-caption-title a {
+  color: var(--color-primary);
+  text-decoration: none;
+  opacity: 0.8;
+  transition: opacity var(--duration-fast);
+}
+
+.photo-caption-title a:hover {
+  opacity: 1;
+}
+
+.photo-caption-title svg {
+  vertical-align: middle;
+  margin-right: 0.25rem;
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  article {
+    --article-caption-color: rgba(200, 200, 200, 0.9);
+  }
+}

@@ -328,7 +328,7 @@ function PhotosSection({ photos }) {
             <div className="photos-grid">
                 {shuffledPhotos.map((photo, idx) => (
                     <a key={idx} href={photo.post_url} className="photo-card">
-                        <img src={photo.gallery_thumb_url} alt={photo.desc} loading="lazy" />
+                        <img src={photo.article_url} alt={photo.desc} loading="lazy" />
                         <div className="photo-overlay">
                             <div className="photo-title">{photo.desc || 'Zdjecie'}</div>
                             <div className="photo-date">{formatDate(photo.time)}</div>
@@ -353,7 +353,7 @@ function PostsSection({ posts }) {
                 <div className="posts-row">
                     {posts.map(post => (
                         <a key={post.slug} href={post.url} className="post-card-link">
-                            <img src={post.small_image_url} alt={post.title} className="post-card-image" />
+                            <img src={post.card_image_url} alt={post.title} className="post-card-image" />
                             <div className="post-card-content">
                                 <div className="post-card-date">{formatDate(post.date)}</div>
                                 <h3 className="post-card-title">{post.title}</h3>

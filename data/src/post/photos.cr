@@ -73,17 +73,12 @@ class Tremolite::Post
     return all_photo_entities_unsorted.sort
   end
 
-  # XXX refactor
-  def small_image_url
-    @head_photo_entity.not_nil!.masonry_image_src
+  def card_image_url
+    @head_photo_entity.not_nil!.card_image_src
   end
 
-  def big_thumb_image_url
-    @head_photo_entity.not_nil!.post_preview_image_src
-  end
-
-  def thumb_image_url
-    @head_photo_entity.not_nil!.thumb_image_src
+  def thumbnail_image_url
+    @head_photo_entity.not_nil!.thumbnail_image_src
   end
 
   def update_photo_header_desc_and_params(new_desc, new_param_string)
