@@ -1,6 +1,6 @@
 # Current Work
 
-## Status: Phase 16 In Progress
+## Status: Phase 16 Complete
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation
@@ -9,7 +9,7 @@
 
 ---
 
-## Phase 16: Bootstrap 5 Migration 🚧 IN PROGRESS
+## Phase 16: Bootstrap 5 Migration ✅ COMPLETE
 
 ### Goal
 Upgrade Bootstrap 4 → 5 to remove jQuery dependency (-88K).
@@ -79,14 +79,30 @@ Upgrade Bootstrap 4 → 5 to remove jQuery dependency (-88K).
 | `data/assets/js/self/map.js` | Replace jQuery with vanilla JS |
 | `data/config/asset_bundles.yml` | Remove jQuery, update Bootstrap paths |
 
-### Expected Savings
+### What Was Done
+
+1. Downloaded Bootstrap 5.3.3 JS (CSS was already 5.3.8)
+2. Updated data attributes: `data-toggle` → `data-bs-toggle`, `data-target` → `data-bs-target`
+3. Updated utility classes: `mr-auto` → `me-auto`, `ml-auto` → `ms-auto`
+4. Rewrote `map.js` to vanilla JS (removed all jQuery usage)
+5. Converted all `$(document).ready()` to `DOMContentLoaded`
+6. Added Bootstrap 5 tooltip initialization in `nav_stats.js`
+7. Removed jQuery from `core` bundle in `asset_bundles.yml`
+
+### Bug Fix: Towns/Voivodeships in Posts
+
+Fixed display of towns, voivodeships, and lands (krainy) in post articles:
+- Migrated from deprecated `TownEntity`/`VoivodeshipEntity`/`LandEntity`
+- Now uses unified `AreaEntity` system via `@post.town_entities`, etc.
+- Data comes from `cache/areas_for_post/*.yml` (calculated route distances)
+
+### Savings
 
 | Before | After | Savings |
 |--------|-------|---------|
-| jQuery 88K | 0 | -88K |
+| jQuery 88K | 0 | **-88K** |
 | Bootstrap 4 CSS 190K | Bootstrap 5 CSS ~190K | 0 |
 | Bootstrap 4 JS 80K | Bootstrap 5 JS ~80K | 0 |
-| **Total** | | **-88K** |
 
 ---
 
