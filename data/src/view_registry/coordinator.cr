@@ -51,7 +51,7 @@ class RenderCoordinator
     label = "[#{num}/#{total}] [#{entry.type_label}] #{entry.name}"
 
     Log.info { "#{label} - START" }
-    start_time = Time.monotonic
+    start_time = Time.instant
 
     begin
       entry.block.call(context)
@@ -60,7 +60,7 @@ class RenderCoordinator
       raise ex
     end
 
-    elapsed = Time.monotonic - start_time
+    elapsed = Time.instant - start_time
     Log.info { "#{label} - DONE (#{elapsed.total_milliseconds.round(2)}ms)" }
   end
 end
