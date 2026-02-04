@@ -108,4 +108,59 @@ describe HtmlValidators do
       result.warnings.should be_empty
     end
   end
+
+  describe HtmlValidators::MissingAssetsValidator do
+    it "detects missing CSS stylesheets" do
+      html = "<!DOCTYPE html><html><head><script src=\"/js/app.js\"></script></head><body></body></html>"
+      validator = HtmlValidators::MissingAssetsValidator.new
+      result = validator.validate(html, "/test.html")
+      result.errors.size.should eq 1
+      result.errors.first.message.should contain "No CSS stylesheets"
+    end
+
+    it "detects missing JavaScript" do
+      html = "<!DOCTYPE html><html><head><link rel=\"stylesheet\" href=\"/css/app.css\"></head><body></body></html>"
+      validator = HtmlValidators::MissingAssetsValidator.new
+      result = validator.validate(html, "/test.html")
+      result.errors.size.should eq 1
+      result.errors.first.message.should contain "No JavaScript"
+    end
+
+    it "detects both missing CSS and JS" do
+      html = "<!DOCTYPE html><html><head></head><body></body></html>"
+      validator = HtmlValidators::MissingAssetsValidator.new
+      result = validator.validate(html, "/test.html")
+      result.errors.size.should eq 2
+    end
+
+    it "passes with both CSS and JS present" do
+      html = "<!DOCTYPE html><html><head><link rel=\"stylesheet\" href=\"/css/app.css\"><script src=\"/js/app.js\"></script></head><body></body></html>"
+      validator = HtmlValidators::MissingAssetsValidator.new
+      result = validator.validate(html, "/test.html")
+      result.errors.should be_empty
+    end
+
+    it "warns on forbidden Babel asset" do
+      html = "<!DOCTYPE html><html><head><link rel=\"stylesheet\" href=\"/css/app.css\"><script src=\"/js/libs/babel.min.js\"></script></head><body></body></html>"
+      validator = HtmlValidators::MissingAssetsValidator.new
+      result = validator.validate(html, "/test.html")
+      result.warnings.size.should eq 1
+      result.warnings.first.message.should contain "babel.min.js"
+    end
+
+    it "skips non-HTML content" do
+      json = "{\"items\": []}"
+      validator = HtmlValidators::MissingAssetsValidator.new
+      result = validator.validate(json, "/data.json")
+      result.errors.should be_empty
+      result.warnings.should be_empty
+    end
+
+    it "skips XML feeds" do
+      xml = "<?xml version=\"1.0\"?><feed><title>Test</title></feed>"
+      validator = HtmlValidators::MissingAssetsValidator.new
+      result = validator.validate(xml, "/feed.xml")
+      result.errors.should be_empty
+    end
+  end
 end

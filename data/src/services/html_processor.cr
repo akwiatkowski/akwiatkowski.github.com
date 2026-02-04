@@ -74,5 +74,6 @@ class HtmlProcessor
     @validators << HtmlValidators::MissingAltValidator.new
     @validators << HtmlValidators::InvalidHrefValidator.new
     @validators << HtmlValidators::MissingLangValidator.new
+    @validators << HtmlValidators::MissingAssetsValidator.new
   end
 end

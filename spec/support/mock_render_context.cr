@@ -12,8 +12,18 @@ class MockRenderContext
   property mock_site_desc : String = "Test site description"
   property mock_posts : Array(MockPost) = [] of MockPost
   property mock_config : Hash(String, String) = {} of String => String
+  property mock_asset_bundle_loader : AssetBundleLoader? = nil
 
   def initialize
+  end
+
+  def initialize(with_asset_loader : Bool)
+    if with_asset_loader
+      config_path = "data/config/asset_bundles.yml"
+      if File.exists?(config_path)
+        @mock_asset_bundle_loader = AssetBundleLoader.new(config_path)
+      end
+    end
   end
 
   # ============================================
@@ -59,6 +69,11 @@ class MockRenderContext
 
   def logger
     nil
+  end
+
+  # Asset bundle loader for testing asset-aware views
+  def asset_bundle_loader : AssetBundleLoader?
+    @mock_asset_bundle_loader
   end
 
   # ============================================

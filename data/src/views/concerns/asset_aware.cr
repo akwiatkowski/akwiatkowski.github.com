@@ -50,7 +50,8 @@ module AssetAware
   end
 
   # Generate <head> asset tags with cache busting
-  def assets_html(ctx : RenderContext) : String
+  # Accepts RenderContext or MockRenderContext (duck typing for testability)
+  def assets_html(ctx) : String
     loader = ctx.asset_bundle_loader
     return "" unless loader
 
