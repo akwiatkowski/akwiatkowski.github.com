@@ -63,8 +63,9 @@ class BaseView < Tremolite::Views::BaseView
   # Override asset_bundles, additional_bundles, excluded_bundles, or page_js
   # in subclasses to customize which assets are loaded.
   def head_open_html
-    # Build a cache key that includes the resolved bundles
-    cache_key = "#{HEAD_OPEN_HTML_KEY}_#{resolved_bundles.join(",")}"
+    # Build a cache key that includes all asset variations
+    page_js_key = page_js || ""
+    cache_key = "#{HEAD_OPEN_HTML_KEY}_#{resolved_bundles.join(",")}_#{page_css.join(",")}_#{page_js_key}"
 
     buffered_html = context.html_buffer.buffer[cache_key]?
     return buffered_html.not_nil! if buffered_html
