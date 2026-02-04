@@ -25,21 +25,30 @@ describe PostListView do
     end
   end
 
-  describe PostListView::TownDynamicView do
-    it "exists and inherits from CollectionDynamicView" do
-      PostListView::TownDynamicView.should_not be_nil
-    end
-  end
+  # PHASE6_DEPRECATED: TownDynamicView replaced by AreaPostListView
+  # describe PostListView::TownDynamicView do
+  #   it "exists and inherits from CollectionDynamicView" do
+  #     PostListView::TownDynamicView.should_not be_nil
+  #   end
+  # end
 
-  describe PostListView::VoivodeshipDynamicView do
-    it "exists and inherits from CollectionDynamicView" do
-      PostListView::VoivodeshipDynamicView.should_not be_nil
-    end
-  end
+  # PHASE6_DEPRECATED: VoivodeshipDynamicView replaced by AreaPostListView
+  # describe PostListView::VoivodeshipDynamicView do
+  #   it "exists and inherits from CollectionDynamicView" do
+  #     PostListView::VoivodeshipDynamicView.should_not be_nil
+  #   end
+  # end
 
-  describe PostListView::LandDynamicView do
-    it "exists and inherits from CollectionDynamicView" do
-      PostListView::LandDynamicView.should_not be_nil
+  # PHASE6_DEPRECATED: LandDynamicView replaced by AreaPostListView
+  # describe PostListView::LandDynamicView do
+  #   it "exists and inherits from CollectionDynamicView" do
+  #     PostListView::LandDynamicView.should_not be_nil
+  #   end
+  # end
+
+  describe PostListView::AreaPostListView do
+    it "exists" do
+      PostListView::AreaPostListView.should_not be_nil
     end
   end
 end

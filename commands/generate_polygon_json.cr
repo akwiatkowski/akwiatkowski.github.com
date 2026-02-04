@@ -68,8 +68,16 @@ module DouglasPeucker
 end
 
 class Commands::GeneratePolygonJson
-  ENVS            = ["dev", "full"]
-  DEFAULT_TARGETS = {"dev" => "local", "full" => "full"}
+  # All env/target combinations to write polygons to
+  ENV_TARGETS = [
+    {"dev", "local"},
+    {"dev", "release"},
+    {"full", "local"},
+    {"full", "release"},
+  ]
+
+  # Envs to scan for visited areas (cache lookup)
+  CACHE_ENVS = ["dev", "full"]
 
   # Area types to process (matching AreaMatcher types)
   AREA_TYPES = {
@@ -100,9 +108,8 @@ class Commands::GeneratePolygonJson
       puts "  #{type}: #{count} unique areas"
     end
 
-    # Generate polygon files for each environment
-    ENVS.each do |env|
-      target = DEFAULT_TARGETS[env]
+    # Generate polygon files for each env/target combination
+    ENV_TARGETS.each do |(env, target)|
       puts "\n=== Generating polygons for env: #{env}, target: #{target} ==="
       generate_polygons_for_env(env, target, visited_areas)
     end
@@ -115,7 +122,7 @@ class Commands::GeneratePolygonJson
   private def collect_visited_areas : Hash(String, Set(String))
     visited = Hash(String, Set(String)).new { |h, k| h[k] = Set(String).new }
 
-    ENVS.each do |env|
+    CACHE_ENVS.each do |env|
       cache_dir = File.join(["env", env, "cache", "areas_for_post"])
       next unless Dir.exists?(cache_dir)
 

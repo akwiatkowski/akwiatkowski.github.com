@@ -1,14 +1,22 @@
 require "yaml"
 
+# ##############################################################################
+# PHASE6_DEPRECATED - DO NOT REMOVE WITHOUT MIGRATING DEPENDENCIES
+# ##############################################################################
+#
 # DEPRECATED: Use AreaEntity with AreaType::Voivodeship instead
 #
 # This class is deprecated and will be removed after full migration.
 # See PLAN.md for migration status.
 #
 # Dependencies that need migration:
-# - data/src/data_manager.cr
-# - data/src/models/coord_range.cr
-# - data/src/services/map/link_generator.cr
+# - data/src/data_manager.cr (loads voivodeships)
+# - data/src/models/coord_range.cr (deprecated initializer)
+# - data/src/services/map/link_generator.cr (deprecated methods)
+# - data/src/views/post_view/article_view.cr (renders voivodeship links)
+# - data/src/views/dynamic_view/year_stat_report_view.cr (voivodeship stats)
+#
+# ##############################################################################
 
 struct VoivodeshipEntity
   Log = ::Log.for(self)

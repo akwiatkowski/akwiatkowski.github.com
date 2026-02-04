@@ -1,5 +1,13 @@
 require "../page_view"
 
+# ##############################################################################
+# PHASE6_DEPRECATED - DO NOT REMOVE
+# ##############################################################################
+# This view uses LandEntity which is deprecated.
+# TODO: Migrate to use AreaEntity with AreaType::MesoRegion
+# Registration commented out in view_registry/views/index_views.cr
+# ##############################################################################
+
 module ModelView
   class LandsIndexView < PageView
     Log = ::Log.for(self)

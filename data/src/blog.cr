@@ -6,7 +6,7 @@ require "./post_function_parser"
 require "./post_collection"
 require "./validator"
 require "./mod_watcher"
-require "./services/town_photo_cache"
+# PHASE6_REMOVED: require "./services/town_photo_cache" - replaced by AreaPhotoSelector
 require "./services/post_coord_quant_cache"
 require "./services/external_gpx_preprocessor"
 require "./services/tools/all"

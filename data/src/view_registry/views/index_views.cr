@@ -39,8 +39,9 @@ def register_index_views(r : ViewRegistry)
   end
 
   # ============================================
-  # View: Lands Index
+  # PHASE6_DEPRECATED: Lands Index - uses LandEntity
   # ============================================
+  # TODO: Migrate to use AreaEntity with AreaType::MesoRegion
   #
   # Renders the main lands listing page showing all lands/regions
   # with their post counts and descriptions.
@@ -50,8 +51,8 @@ def register_index_views(r : ViewRegistry)
   #
   # Dependencies: [:posts, :yamls]
   #
-  r.register("Index: lands", [:posts, :yamls], priority: 61) do |ctx|
-    ViewRegistry::Log.info { "Rendering lands index" }
-    ctx.write_output(ModelView::LandsIndexView.new(context: ctx, url: "/krainy.html"))
-  end
+  # r.register("Index: lands", [:posts, :yamls], priority: 61) do |ctx|
+  #   ViewRegistry::Log.info { "Rendering lands index" }
+  #   ctx.write_output(ModelView::LandsIndexView.new(context: ctx, url: "/krainy.html"))
+  # end
 end

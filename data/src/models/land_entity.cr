@@ -1,11 +1,19 @@
+# ##############################################################################
+# PHASE6_DEPRECATED - DO NOT REMOVE WITHOUT MIGRATING DEPENDENCIES
+# ##############################################################################
+#
 # DEPRECATED: Use AreaEntity with AreaType::MesoRegion instead
 #
 # This class is deprecated and will be removed after full migration.
 # See PLAN.md for migration status.
 #
 # Dependencies that need migration:
-# - data/src/data_manager.cr
+# - data/src/data_manager.cr (loads lands)
 # - data/src/models/town_entity.cr (internal use)
+# - data/src/views/post_view/article_view.cr (renders land links)
+# - data/src/views/model_view/lands_index_view.cr (lists all lands)
+#
+# ##############################################################################
 
 struct LandEntity
   Log = ::Log.for(self)

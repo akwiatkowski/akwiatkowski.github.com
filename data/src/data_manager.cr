@@ -23,9 +23,10 @@ class Tremolite::DataManager
     @train_stations = Array(TrainStationEntity).new
     @ideas = Array(IdeaEntity).new
 
-    @town_photo_cache = TownPhotoCache.new(
-      blog: @blog
-    )
+    # PHASE6_DEPRECATED: TownPhotoCache replaced by AreaPhotoSelector
+    # @town_photo_cache = TownPhotoCache.new(
+    #   blog: @blog
+    # )
     @post_coord_quant_cache = PostCoordQuantCache.new(
       blog: @blog
     )
@@ -56,7 +57,8 @@ class Tremolite::DataManager
   getter :lands, :post_image_entities, :portfolios
   getter :ideas, :photo_tags, :train_stations
 
-  getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
+  # PHASE6_DEPRECATED: getter :town_photo_cache - replaced by AreaPhotoSelector
+  getter :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
   getter :photo_map_dictionary
   getter :area_data_loader
 

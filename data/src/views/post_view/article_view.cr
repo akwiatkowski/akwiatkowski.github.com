@@ -101,64 +101,70 @@ module PostView
         data["tags_content"] = ""
       end
 
-      # lands
-      pd = Hash(String, String).new
-      pd["taggable.name"] = "Krainy"
-      pd["taggable.content"] = ""
-      links = Array(String).new
-      @post.lands.not_nil!.each do |land|
-        context.lands.each do |land_entity|
-          if land == land_entity.slug
-            links << "<a href=\"" + land_entity.view_url + "\">" + land_entity.name + "</a>"
-          end
-        end
-      end
-      if links.size > 0
-        pd["taggable.content"] = links.join(", ")
-        taggable_content = load_html("post/taggable", pd)
-        data["lands_content"] = taggable_content + "<br/>"
-      else
-        data["lands_content"] = ""
-      end
+      # PHASE6_DEPRECATED: lands section uses LandEntity
+      # TODO: Migrate to use AreaEntity with AreaType::MesoRegion
+      # pd = Hash(String, String).new
+      # pd["taggable.name"] = "Krainy"
+      # pd["taggable.content"] = ""
+      # links = Array(String).new
+      # @post.lands.not_nil!.each do |land|
+      #   context.lands.each do |land_entity|
+      #     if land == land_entity.slug
+      #       links << "<a href=\"" + land_entity.view_url + "\">" + land_entity.name + "</a>"
+      #     end
+      #   end
+      # end
+      # if links.size > 0
+      #   pd["taggable.content"] = links.join(", ")
+      #   taggable_content = load_html("post/taggable", pd)
+      #   data["lands_content"] = taggable_content + "<br/>"
+      # else
+      #   data["lands_content"] = ""
+      # end
+      data["lands_content"] = ""
 
-      # towns
-      pd = Hash(String, String).new
-      pd["taggable.name"] = "Miejscowości"
-      pd["taggable.content"] = ""
-      links = Array(String).new
-      @post.towns.not_nil!.each do |town|
-        town_entities = context.towns.select { |town_entity| town == town_entity.slug }
-        town_entities.each do |town_entity|
-          links << "<a href=\"" + town_entity.view_url + "\">" + town_entity.name + "</a>"
-        end
-      end
-      if links.size > 0
-        pd["taggable.content"] = links.join(", ")
-        taggable_content = load_html("post/taggable", pd)
-        data["towns_content"] = taggable_content + "<br/>"
-      else
-        data["towns_content"] = ""
-      end
+      # PHASE6_DEPRECATED: towns section uses TownEntity
+      # TODO: Migrate to use AreaEntity with AreaType::Town
+      # pd = Hash(String, String).new
+      # pd["taggable.name"] = "Miejscowości"
+      # pd["taggable.content"] = ""
+      # links = Array(String).new
+      # @post.towns.not_nil!.each do |town|
+      #   town_entities = context.towns.select { |town_entity| town == town_entity.slug }
+      #   town_entities.each do |town_entity|
+      #     links << "<a href=\"" + town_entity.view_url + "\">" + town_entity.name + "</a>"
+      #   end
+      # end
+      # if links.size > 0
+      #   pd["taggable.content"] = links.join(", ")
+      #   taggable_content = load_html("post/taggable", pd)
+      #   data["towns_content"] = taggable_content + "<br/>"
+      # else
+      #   data["towns_content"] = ""
+      # end
+      data["towns_content"] = ""
 
-      # voivodeships
-      pd = Hash(String, String).new
-      pd["taggable.name"] = "Województwa"
-      pd["taggable.content"] = ""
-      links = Array(String).new
-      @post.towns.not_nil!.each do |voivodeship|
-        context.voivodeships.each do |voivodeship_entity|
-          if voivodeship == voivodeship_entity.slug
-            links << "<a href=\"" + voivodeship_entity.view_url + "\">" + voivodeship_entity.name + "</a>"
-          end
-        end
-      end
-      if links.size > 0
-        pd["taggable.content"] = links.join(", ")
-        taggable_content = load_html("post/taggable", pd)
-        data["voivodeships_content"] = taggable_content + "<br/>"
-      else
-        data["voivodeships_content"] = ""
-      end
+      # PHASE6_DEPRECATED: voivodeships section uses VoivodeshipEntity
+      # TODO: Migrate to use AreaEntity with AreaType::Voivodeship
+      # pd = Hash(String, String).new
+      # pd["taggable.name"] = "Województwa"
+      # pd["taggable.content"] = ""
+      # links = Array(String).new
+      # @post.towns.not_nil!.each do |voivodeship|
+      #   context.voivodeships.each do |voivodeship_entity|
+      #     if voivodeship == voivodeship_entity.slug
+      #       links << "<a href=\"" + voivodeship_entity.view_url + "\">" + voivodeship_entity.name + "</a>"
+      #     end
+      #   end
+      # end
+      # if links.size > 0
+      #   pd["taggable.content"] = links.join(", ")
+      #   taggable_content = load_html("post/taggable", pd)
+      #   data["voivodeships_content"] = taggable_content + "<br/>"
+      # else
+      #   data["voivodeships_content"] = ""
+      # end
+      data["voivodeships_content"] = ""
 
       # pois
       if @post.pois.not_nil!.size > 0

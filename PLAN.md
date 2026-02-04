@@ -29,12 +29,13 @@
 - [x] Updated `payload_json_generator.cr` to use AreaEntity system
 - [x] Updated `dynamic.html` JS filtering for all area types
 
-### Phase 6: Legacy Migration (MOSTLY COMPLETE)
+### Phase 6: Legacy Migration (COMPLETE)
 - [x] Deleted legacy view files:
   - `data/src/views/post_list_view/town_dynamic_view.cr`
   - `data/src/views/post_list_view/voivodeship_dynamic_view.cr`
   - `data/src/views/post_list_view/land_dynamic_view.cr`
   - `data/src/views/land_view.cr`
+  - `data/src/services/town_photo_cache.cr` (replaced by AreaPhotoSelector)
 - [x] Updated `entity_views.cr` - now only registers tags (areas handled by `area_views.cr`)
 - [x] Updated `TownsTimelineView` to use AreaEntity
 - [x] Updated `TownsHistoryView` to use AreaEntity
@@ -42,14 +43,24 @@
 - [x] Removed legacy requires from `renderer.cr` and `post_list_view/all.cr`
 - [x] Updated `validator.cr` - removed TownEntity validation (areas use auto-selected photos)
 - [x] Updated `post/accessors.cr` - `was_in?` now only accepts TagEntity
-- [x] Updated `coord_range.cr` - added AreaEntity initializer
-- [x] Updated `map/link_generator.cr` - added `url_photomap_for_area_big/small` methods
+- [x] Updated `coord_range.cr` - added AreaEntity initializer, commented out VoivodeshipEntity initializer
+- [x] Updated `map/link_generator.cr` - added AreaEntity methods, commented out VoivodeshipEntity methods
 - [x] Updated `idea_entity.cr` - methods now accept AreaEntity or String arrays
 - [x] Updated `nav_stats_cache.cr` - uses AreaEntity for voivodeships and meso_regions
 - [x] Updated `photo_views.cr` - voivodeship maps use AreaEntity
 - [x] Updated `ideas_json_generator.cr` - uses AreaEntity with AreaPhotoSelector
-- [x] Updated `data_manager.cr` - added `visited_town_slugs/areas_selfpropelled` methods
-- [x] Updated `render_context.cr` - exposed new visited towns methods
+- [x] Updated `data_manager.cr` - added `visited_town_slugs/areas_selfpropelled` methods, commented out town_photo_cache
+- [x] Updated `render_context.cr` - exposed new visited towns methods, commented out town_photo_cache method
+- [x] Commented out deprecated sections with PHASE6_DEPRECATED markers:
+  - `article_view.cr` - lands, towns, voivodeships taggable sections
+  - `year_stat_report_view.cr` - voivodeships_stats method
+  - `lands_index_view.cr` - registration commented out in index_views.cr
+  - `cache_tasks.cr` - town photos cache task
+- [x] Updated spec files with PHASE6_DEPRECATED markers:
+  - `view_registry_spec.cr` - updated task/view counts and dependency queries
+  - `post_list_view_spec.cr` - commented out deprecated view tests, added AreaPostListView test
+  - `other_views_spec.cr` - commented out LandsIndexView and LandView tests
+- [x] Added prominent PHASE6_DEPRECATED headers to deprecated entity files
 
 ---
 
@@ -69,13 +80,15 @@ Files that still use deprecated entity classes:
 
 | File | Uses | Status |
 |------|------|--------|
-| `data/src/data_manager.cr` | All 3 | Loads legacy entities. Keep for now, remove when safe. |
-| `data/src/services/town_photo_cache.cr` | TownEntity | Can be removed (AreaPhotoSelector replaces it). |
+| `data/src/data_manager.cr` | All 3 | Loads legacy entities. Keep for now, provides context.towns/lands/voivodeships |
 | `data/src/validator.cr` | - | ✅ Migrated (TownEntity validation removed) |
 | `data/src/post/accessors.cr` | TagEntity only | ✅ Migrated (deprecated types removed) |
-| `data/src/models/coord_range.cr` | VoivodeshipEntity | ✅ Has AreaEntity initializer, legacy kept for compat |
-| `data/src/services/map/link_generator.cr` | VoivodeshipEntity | ✅ Has AreaEntity methods, legacy kept for compat |
+| `data/src/models/coord_range.cr` | - | ✅ VoivodeshipEntity initializer commented out |
+| `data/src/services/map/link_generator.cr` | - | ✅ VoivodeshipEntity methods commented out |
 | `data/src/models/idea_entity.cr` | - | ✅ Migrated to AreaEntity |
+| `data/src/views/model_view/lands_index_view.cr` | LandEntity | Registration commented out, view marked deprecated |
+| `data/src/views/post_view/article_view.cr` | - | ✅ Deprecated sections commented out |
+| `data/src/views/dynamic_view/year_stat_report_view.cr` | - | ✅ voivodeships_stats commented out |
 
 ### Internal Dependencies (within deprecated classes)
 
@@ -88,13 +101,16 @@ Files that still use deprecated entity classes:
 
 ## Remaining Work
 
-### Phase 6: Final Cleanup (Optional)
+### Phase 6: Final Cleanup (Complete - Deprecated Code Preserved)
 
-1. **TownPhotoCache** - remove entirely (AreaPhotoSelector is the replacement)
-2. **DataManager** - remove legacy entity loading (towns, voivodeships, lands)
-3. **CoordRange** - remove deprecated VoivodeshipEntity initializer
-4. **Map::LinkGenerator** - remove deprecated voivodeship methods
-5. **Delete deprecated entity files** after confirming nothing breaks
+All deprecated code has been commented out with PHASE6_DEPRECATED markers.
+The following can be fully removed in a future cleanup phase:
+
+1. ~~**TownPhotoCache**~~ - ✅ Removed (AreaPhotoSelector is the replacement)
+2. **DataManager** - keep legacy entity loading (still provides context.towns/lands/voivodeships for display)
+3. ~~**CoordRange**~~ - ✅ VoivodeshipEntity initializer commented out
+4. ~~**Map::LinkGenerator**~~ - ✅ VoivodeshipEntity methods commented out
+5. **Deprecated entity files** - kept with PHASE6_DEPRECATED headers, can be deleted when confirmed safe
 
 ### Phase 7: Area Show Page Design (DONE)
 
@@ -284,9 +300,9 @@ crystal run commands/generate_polygon_json.cr --force            # Regenerate al
 - ✅ `ideas_json_generator.cr` - uses AreaEntity + AreaPhotoSelector
 
 **Optional cleanup (can be done later):**
-- `town_photo_cache.cr` - can be deleted (replaced by AreaPhotoSelector)
-- `data_manager.cr` - can remove legacy entity loading
-- Deprecated entity files - can be deleted after testing
+- ~~`town_photo_cache.cr`~~ - ✅ Deleted (replaced by AreaPhotoSelector)
+- `data_manager.cr` - keeps loading legacy entities for context.towns/lands/voivodeships
+- Deprecated entity files - kept with PHASE6_DEPRECATED markers, can be deleted when confirmed safe
 
 ---
 
@@ -340,6 +356,7 @@ crystal run commands/generate_polygon_json.cr --force            # Regenerate al
 | `data/src/views/post_list_view/voivodeship_dynamic_view.cr` | Replaced by AreaPostListView |
 | `data/src/views/post_list_view/land_dynamic_view.cr` | Replaced by AreaPostListView |
 | `data/src/views/land_view.cr` | Not used, replaced by AreaShowView |
+| `data/src/services/town_photo_cache.cr` | Replaced by AreaPhotoSelector |
 
 ## Files to Delete (After Full Migration)
 
@@ -351,4 +368,4 @@ crystal run commands/generate_polygon_json.cr --force            # Regenerate al
 
 ---
 
-*Last updated: 2026-02-04 - Phase 7 & 10 complete (Area Show Template + Polygons)*
+*Last updated: 2026-02-04 - Phase 6 cleanup complete (deprecated code commented with PHASE6_DEPRECATED markers)*

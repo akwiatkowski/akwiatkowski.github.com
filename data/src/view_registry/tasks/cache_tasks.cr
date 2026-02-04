@@ -59,12 +59,13 @@ def register_cache_tasks(r : ViewRegistry)
   # Dependencies: [:exifs] - photo locations may have changed
   # Priority: 6 (after nav stats, needs EXIF data loaded first)
   #
-  r.task("Cache: town photos", [:exifs], priority: 6) do |ctx|
-    ViewRegistry::Log.info { "Refreshing town_photo_cache" }
-
-    ctx.town_photo_cache.refresh
-    ViewRegistry::Log.debug { "town_photo_cache refreshed" }
-  end
+  # PHASE6_DEPRECATED: TownPhotoCache replaced by AreaPhotoSelector
+  # r.task("Cache: town photos", [:exifs], priority: 6) do |ctx|
+  #   ViewRegistry::Log.info { "Refreshing town_photo_cache" }
+  #
+  #   ctx.town_photo_cache.refresh
+  #   ViewRegistry::Log.debug { "town_photo_cache refreshed" }
+  # end
 
   # ============================================
   # Task: Refresh Post Coord Quant Cache

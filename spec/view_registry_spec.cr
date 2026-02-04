@@ -109,8 +109,8 @@ describe "setup_view_registry" do
     it "registers all expected tasks" do
       r = setup_view_registry
 
-      # Should have 6 tasks total
-      r.tasks.size.should eq(6)
+      # Should have 5 tasks total (PHASE6: removed "Cache: town photos")
+      r.tasks.size.should eq(5)
 
       # Check all tasks exist
       task_names = r.tasks.map(&.name)
@@ -118,7 +118,7 @@ describe "setup_view_registry" do
       task_names.should contain("Setup: copy assets")
       task_names.should contain("EXIF: init all posts")
       task_names.should contain("Cache: nav stats")
-      task_names.should contain("Cache: town photos")
+      # PHASE6_DEPRECATED: task_names.should contain("Cache: town photos") - replaced by AreaPhotoSelector
       task_names.should contain("Cache: coord quant")
     end
 
@@ -152,9 +152,10 @@ describe "setup_view_registry" do
       nav_stats.depends_on.should eq([:yamls])
       nav_stats.priority.should eq(5)
 
-      town_photos = r.tasks.find { |t| t.name == "Cache: town photos" }.not_nil!
-      town_photos.depends_on.should eq([:exifs])
-      town_photos.priority.should eq(6)
+      # PHASE6_DEPRECATED: town_photos cache task - replaced by AreaPhotoSelector
+      # town_photos = r.tasks.find { |t| t.name == "Cache: town photos" }.not_nil!
+      # town_photos.depends_on.should eq([:exifs])
+      # town_photos.priority.should eq(6)
 
       coord_quant = r.tasks.find { |t| t.name == "Cache: coord quant" }.not_nil!
       coord_quant.depends_on.should eq([:exifs])
@@ -170,27 +171,28 @@ describe "setup_view_registry" do
     it "registers all expected views" do
       r = setup_view_registry
 
-      # Should have 38 views total:
-      # - Entity views: 4 (towns, tags, voivodeships, lands)
+      # Should have 34 views total (PHASE6: removed 4 deprecated views):
+      # - Entity views: 1 (tags only - towns, voivodeships, lands migrated to areas)
       # - Area views: 3 (show pages, post list pages, gallery pages)
       # - Home views: 3 (main, map, pois)
       # - Photo views: 2 (galleries, maps)
       # - Stats views: 5 (summary, year reports, burnout, towns history, towns timeline)
       # - Feed views: 9 (RSS, Atom, 5x JSON, sitemap, robots)
-      # - Index views: 2 (towns, lands)
+      # - Index views: 1 (towns only - lands deprecated)
       # - Static views: 7 (more, about, english, JS ideas, JS timeline, JS panoramio, JS exif stats)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
-      r.views.size.should eq(38)
+      r.views.size.should eq(34)
     end
 
     it "registers all entity views" do
       r = setup_view_registry
       view_names = r.views.map(&.name)
 
-      view_names.should contain("Towns: all pages")
+      # PHASE6_DEPRECATED: Towns, Voivodeships, Lands migrated to AreaEntity system
+      # view_names.should contain("Towns: all pages")
       view_names.should contain("Tags: all pages")
-      view_names.should contain("Voivodeships: all pages")
-      view_names.should contain("Lands: all pages")
+      # view_names.should contain("Voivodeships: all pages")
+      # view_names.should contain("Lands: all pages")
     end
 
     it "registers all home views" do
@@ -226,7 +228,7 @@ describe "setup_view_registry" do
       view_names = r.views.map(&.name)
 
       view_names.should contain("Index: towns")
-      view_names.should contain("Index: lands")
+      # PHASE6_DEPRECATED: view_names.should contain("Index: lands") - uses LandEntity
     end
 
     it "registers all static views" do
@@ -487,7 +489,7 @@ describe "setup_view_registry" do
       names.should contain("Setup: copy assets")
 
       # Entity views
-      names.should contain("Towns: all pages")
+      # PHASE6_DEPRECATED: names.should contain("Towns: all pages") - migrated to AreaEntity
       names.should contain("Tags: all pages")
 
       # Home views
@@ -499,7 +501,7 @@ describe "setup_view_registry" do
 
       # Should NOT include EXIF task or cache tasks that depend on :exifs
       names.should_not contain("EXIF: init all posts")
-      names.should_not contain("Cache: town photos")
+      # PHASE6_DEPRECATED: names.should_not contain("Cache: town photos") - removed
     end
 
     it "returns correct entries when yamls change" do
@@ -511,7 +513,7 @@ describe "setup_view_registry" do
       names.should contain("Cache: nav stats")
 
       # Should include entity views, stats views, index views
-      names.should contain("Towns: all pages")
+      # PHASE6_DEPRECATED: names.should contain("Towns: all pages") - migrated to AreaEntity
       names.should contain("Stats: summary page")
       names.should contain("Index: towns")
 
@@ -526,7 +528,7 @@ describe "setup_view_registry" do
 
       # Should include EXIF task and cache tasks
       names.should contain("EXIF: init all posts")
-      names.should contain("Cache: town photos")
+      # PHASE6_DEPRECATED: names.should contain("Cache: town photos") - removed
       names.should contain("Cache: coord quant")
 
       # Should include photo views
@@ -538,7 +540,7 @@ describe "setup_view_registry" do
       names.should contain("Debug: missing EXIF")
 
       # Should NOT include entity views (they depend on posts/yamls, not exifs)
-      names.should_not contain("Towns: all pages")
+      # PHASE6_DEPRECATED: names.should_not contain("Towns: all pages") - migrated to AreaEntity
     end
 
     it "returns entries sorted by priority" do
@@ -555,7 +557,7 @@ describe "setup_view_registry" do
       names = r.names_depending_on(:posts)
 
       names.should be_a(Array(String))
-      names.should contain("Towns: all pages")
+      # PHASE6_DEPRECATED: names.should contain("Towns: all pages") - migrated to AreaEntity
       names.should contain("Home: main page")
     end
 
@@ -564,7 +566,7 @@ describe "setup_view_registry" do
       names = r.names_depending_on(:exifs)
 
       names.should contain("EXIF: init all posts")
-      names.should contain("Cache: town photos")
+      # PHASE6_DEPRECATED: names.should contain("Cache: town photos") - removed
       names.should contain("Cache: coord quant")
       names.should contain("Photo galleries: all")
       names.should contain("Photo maps: all")

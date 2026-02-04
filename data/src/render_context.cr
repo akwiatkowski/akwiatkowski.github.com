@@ -141,9 +141,10 @@ class RenderContext
     config.post_coord_quant_cache.not_nil!
   end
 
-  def town_photo_cache
-    config.town_photo_cache.not_nil!
-  end
+  # PHASE6_DEPRECATED: TownPhotoCache replaced by AreaPhotoSelector
+  # def town_photo_cache
+  #   config.town_photo_cache.not_nil!
+  # end
 
   def area_data_loader
     config.area_data_loader.not_nil!

@@ -1,16 +1,22 @@
 require "yaml"
 
+# ##############################################################################
+# PHASE6_DEPRECATED - DO NOT REMOVE WITHOUT MIGRATING DEPENDENCIES
+# ##############################################################################
+#
 # DEPRECATED: Use AreaEntity with AreaType::Town instead
 #
 # This class is deprecated and will be removed after full migration.
 # See PLAN.md for migration status.
 #
 # Dependencies that need migration:
-# - data/src/data_manager.cr
-# - data/src/validator.cr
-# - data/src/services/town_photo_cache.cr
-# - data/src/post/accessors.cr
-# - data/src/models/idea_entity.cr
+# - data/src/data_manager.cr (loads towns)
+# - data/src/validator.cr (validates town slugs)
+# - data/src/post/initializers.cr (lands_from_towns)
+# - data/src/services/photo_coord_quant_cache.cr (uses towns)
+# - data/src/views/post_view/article_view.cr (renders town links)
+#
+# ##############################################################################
 
 alias TownEntityHash = Hash(String, String | Array(String))
 
