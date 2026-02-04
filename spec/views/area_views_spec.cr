@@ -5,11 +5,11 @@ describe AreaShowView do
     AreaShowView.should_not be_nil
   end
 
-  it "uses correct URL pattern for show pages (nominative case)" do
-    # URL pattern: /<nominative>/<slug>.html
+  it "uses correct URL pattern for show pages (ASCII-safe nominative)" do
+    # URL pattern: /<nominative_slug>/<slug>.html
     AreaType::Town.url_prefix.should eq "/gmina/"
     AreaType::County.url_prefix.should eq "/powiat/"
-    AreaType::Voivodeship.url_prefix.should eq "/województwo/"
+    AreaType::Voivodeship.url_prefix.should eq "/wojewodztwo/"
     AreaType::MesoRegion.url_prefix.should eq "/region/"
     AreaType::MacroRegion.url_prefix.should eq "/obszar/"
   end
@@ -26,11 +26,11 @@ describe GalleryView::AreaGalleryView do
     GalleryView::AreaGalleryView.should_not be_nil
   end
 
-  it "uses correct URL pattern for gallery pages (genitive case)" do
-    # URL pattern: /galeria/<genitive>/<slug>.html
+  it "uses correct URL pattern for gallery pages (ASCII-safe genitive)" do
+    # URL pattern: /galeria/<genitive_slug>/<slug>.html
     AreaType::Town.url_type.should eq "gminy"
     AreaType::County.url_type.should eq "powiatu"
-    AreaType::Voivodeship.url_type.should eq "województwa"
+    AreaType::Voivodeship.url_type.should eq "wojewodztwa"
     AreaType::MesoRegion.url_type.should eq "regionu"
     AreaType::MacroRegion.url_type.should eq "obszaru"
   end

@@ -10,8 +10,8 @@ describe AreaType do
       AreaType::County.url_prefix.should eq "/powiat/"
     end
 
-    it "returns Polish nominative URL prefix for Voivodeship" do
-      AreaType::Voivodeship.url_prefix.should eq "/województwo/"
+    it "returns ASCII-safe URL prefix for Voivodeship" do
+      AreaType::Voivodeship.url_prefix.should eq "/wojewodztwo/"
     end
 
     it "returns Polish nominative URL prefix for MesoRegion" do
@@ -24,16 +24,40 @@ describe AreaType do
   end
 
   describe "#url_type" do
-    it "returns Polish genitive for Town" do
+    it "returns ASCII-safe genitive slug for Town" do
       AreaType::Town.url_type.should eq "gminy"
     end
 
-    it "returns Polish genitive for County" do
+    it "returns ASCII-safe genitive slug for County" do
       AreaType::County.url_type.should eq "powiatu"
     end
 
-    it "returns Polish genitive for MesoRegion" do
+    it "returns ASCII-safe genitive slug for Voivodeship" do
+      AreaType::Voivodeship.url_type.should eq "wojewodztwa"
+    end
+
+    it "returns ASCII-safe genitive slug for MesoRegion" do
       AreaType::MesoRegion.url_type.should eq "regionu"
+    end
+  end
+
+  describe "#nominative_slug" do
+    it "returns ASCII-safe nominative for all types" do
+      AreaType::Town.nominative_slug.should eq "gmina"
+      AreaType::County.nominative_slug.should eq "powiat"
+      AreaType::Voivodeship.nominative_slug.should eq "wojewodztwo"
+      AreaType::MesoRegion.nominative_slug.should eq "region"
+      AreaType::MacroRegion.nominative_slug.should eq "obszar"
+    end
+  end
+
+  describe "#genitive_slug" do
+    it "returns ASCII-safe genitive for all types" do
+      AreaType::Town.genitive_slug.should eq "gminy"
+      AreaType::County.genitive_slug.should eq "powiatu"
+      AreaType::Voivodeship.genitive_slug.should eq "wojewodztwa"
+      AreaType::MesoRegion.genitive_slug.should eq "regionu"
+      AreaType::MacroRegion.genitive_slug.should eq "obszaru"
     end
   end
 

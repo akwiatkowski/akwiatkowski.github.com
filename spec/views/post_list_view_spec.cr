@@ -55,8 +55,8 @@ describe PostListView do
       AreaType::Town.url_prefix.should eq "/gmina/"
     end
 
-    it "generates correct URL prefix for voivodeships (nominative)" do
-      AreaType::Voivodeship.url_prefix.should eq "/województwo/"
+    it "generates correct URL prefix for voivodeships (ASCII-safe)" do
+      AreaType::Voivodeship.url_prefix.should eq "/wojewodztwo/"
     end
 
     it "generates correct URL prefix for meso regions (nominative)" do
