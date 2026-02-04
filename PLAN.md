@@ -173,9 +173,10 @@ Refactored `AreaType` enum with proper Polish grammatical cases and ASCII-safe U
 - Explore better ways to render post stats (distance, time, temperature)
 - Consider inline badges, sidebar summary, or expandable section
 
-**Navigation Thumbnails:**
-- Add post thumbnail to prev/next navigation buttons
-- Makes navigation more visual and engaging
+**Navigation Thumbnails:** ✅ DONE
+- Prev/next pager: horizontal cards with thumbnail (32% width each)
+- Related posts: 4-column grid with thumbnails (2 on mobile)
+- Uses `grid_image_src` (560x420px) for pager, `thumbnail_image_src` for related
 
 ---
 

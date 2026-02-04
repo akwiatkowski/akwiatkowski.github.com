@@ -378,6 +378,7 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-04: AreaType refactored with Polish inflections (nominative/genitive cases)
 - 2026-02-04: ASCII-safe URL slugs added (wojewodztwo not województwo)
 - 2026-02-04: AreaEntity aliases added (view_url, post_areas_link_url)
+- 2026-02-04: Navigation thumbnails - prev/next pager and related posts grid
 
 ---
 
