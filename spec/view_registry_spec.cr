@@ -171,7 +171,7 @@ describe "setup_view_registry" do
     it "registers all expected views" do
       r = setup_view_registry
 
-      # Should have 34 views total (PHASE6: removed 4 deprecated views):
+      # Should have 35 views total (PHASE6: removed 4 deprecated views):
       # - Entity views: 1 (tags only - towns, voivodeships, lands migrated to areas)
       # - Area views: 3 (show pages, post list pages, gallery pages)
       # - Home views: 3 (main, map, pois)
@@ -179,9 +179,9 @@ describe "setup_view_registry" do
       # - Stats views: 5 (summary, year reports, burnout, towns history, towns timeline)
       # - Feed views: 9 (RSS, Atom, 5x JSON, sitemap, robots)
       # - Index views: 1 (towns only - lands deprecated)
-      # - Static views: 7 (more, about, english, JS ideas, JS timeline, JS panoramio, JS exif stats)
+      # - Static views: 8 (more, about, english, JS ideas, JS timeline, JS panoramio, JS exif stats, JS bicycle planner)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
-      r.views.size.should eq(34)
+      r.views.size.should eq(35)
     end
 
     it "registers all entity views" do

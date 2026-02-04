@@ -13,6 +13,7 @@
 # 5. JS Timeline page - /linia_czasu.html (priority: 94)
 # 6. JS Panoramio page - /mapa2.html (priority: 95)
 # 7. JS Exif Stats page - /exif_statystyki.html (priority: 96)
+# 8. JS Bicycle Planner page - /pomysly2.html (priority: 97)
 #
 # Dependencies: [] (empty = always run)
 # - These pages are simple and don't depend on specific data changes
@@ -148,5 +149,19 @@ def register_static_views(r : ViewRegistry)
   r.register("Static: JS exif stats", [:posts], priority: 96) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS exif stats page" }
     ctx.write_output(StaticView::JsExifView.new(context: ctx, url: "exif_statystyki.html"))
+  end
+
+  # ============================================
+  # View: JS Bicycle Planner Page
+  # ============================================
+  #
+  # Bicycle route planner with map visualization.
+  #
+  # URL: /pomysly2.html
+  # View class: StaticView::JsBicyclePlannerView
+  #
+  r.register("Static: JS bicycle planner", [:posts], priority: 97) do |ctx|
+    ViewRegistry::Log.debug { "Rendering JS bicycle planner page" }
+    ctx.write_output(StaticView::JsBicyclePlannerView.new(context: ctx, url: "pomysly2.html"))
   end
 end

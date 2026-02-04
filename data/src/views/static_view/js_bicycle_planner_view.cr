@@ -6,6 +6,10 @@ module StaticView
       super(context: context, url: @url)
     end
 
+    def add_to_sitemap?
+      true
+    end
+
     # integrate but it require some html-head loading magic
     # def content
     #   data = Hash(String, String).new
