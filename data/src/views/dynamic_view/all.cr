@@ -1,6 +1,5 @@
 require "./burnout_stat_view"
 require "./exif_stats_view"
-require "./mountain_range_planner_view"
 require "./portfolio_view"
 require "./summary_view"
 require "./timeline_photo_view"

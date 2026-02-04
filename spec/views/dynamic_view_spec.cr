@@ -49,12 +49,6 @@ describe DynamicView do
     end
   end
 
-  describe DynamicView::MountainRangePlannerView do
-    it "exists (deprecated but still present)" do
-      DynamicView::MountainRangePlannerView.should_not be_nil
-    end
-  end
-
 end
 
 describe DebugView do
