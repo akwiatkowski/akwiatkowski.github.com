@@ -8,7 +8,7 @@ module GalleryView
     @reverse : Bool?
 
     # Gallery views need gallery CSS for photo display
-    def additional_bundles : Array(String)
+    def page_css : Array(String)
       ["gallery"]
     end
 

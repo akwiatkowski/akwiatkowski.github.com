@@ -39,12 +39,27 @@ class AssetBundleLoader
     end
   end
 
+  struct PageAsset
+    getter name : String
+    getter css : Array(String)
+    getter js : Array(String)
+
+    def initialize(
+      @name : String,
+      @css : Array(String) = [] of String,
+      @js : Array(String) = [] of String
+    )
+    end
+  end
+
   getter bundles : Hash(String, Bundle)
   getter composites : Hash(String, Array(String))
+  getter page_assets : Hash(String, PageAsset)
 
   def initialize(config_path : String)
     @bundles = {} of String => Bundle
     @composites = {} of String => Array(String)
+    @page_assets = {} of String => PageAsset
     load_config(config_path)
   end
 
@@ -52,6 +67,32 @@ class AssetBundleLoader
   def resolve(bundle_names : Array(String)) : ResolvedAssets
     all_bundles = expand_composites(bundle_names)
     merge_assets(all_bundles)
+  end
+
+  # Resolve page asset symbols to CSS paths
+  def resolve_page_css(symbols : Array(String)) : Array(String)
+    css = [] of String
+    symbols.each do |symbol|
+      if asset = @page_assets[symbol]?
+        css.concat(asset.css)
+      else
+        Log.warn { "Unknown page asset: #{symbol}" }
+      end
+    end
+    css.uniq
+  end
+
+  # Resolve page asset symbols to JS paths
+  def resolve_page_js(symbols : Array(String)) : Array(String)
+    js = [] of String
+    symbols.each do |symbol|
+      if asset = @page_assets[symbol]?
+        js.concat(asset.js)
+      else
+        Log.warn { "Unknown page asset: #{symbol}" }
+      end
+    end
+    js.uniq
   end
 
   private def load_config(config_path : String)
@@ -87,7 +128,21 @@ class AssetBundleLoader
       end
     end
 
-    Log.info { "Loaded #{@bundles.size} bundles and #{@composites.size} composites" }
+    # Load page assets
+    if page_assets_yaml = yaml["page-assets"]?
+      page_assets_yaml.as_h.each do |name, config|
+        css = extract_string_array(config, "css")
+        js = extract_string_array(config, "js")
+
+        @page_assets[name.as_s] = PageAsset.new(
+          name: name.as_s,
+          css: css,
+          js: js
+        )
+      end
+    end
+
+    Log.info { "Loaded #{@bundles.size} bundles, #{@composites.size} composites, #{@page_assets.size} page assets" }
   end
 
   private def extract_string_array(yaml : YAML::Any, key : String) : Array(String)

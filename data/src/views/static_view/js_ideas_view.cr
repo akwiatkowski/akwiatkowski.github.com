@@ -8,7 +8,11 @@ module StaticView
 
     # Ideas page uses React and Leaflet for interactive features
     def additional_bundles : Array(String)
-      ["ideas-css", "leaflet", "react-runtime"]
+      ["leaflet", "react-runtime"]
+    end
+
+    def page_css : Array(String)
+      ["ideas"]
     end
 
     def add_to_sitemap?

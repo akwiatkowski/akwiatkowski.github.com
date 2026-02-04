@@ -4,7 +4,13 @@ require "../spec_helper"
 class TestAssetAwareView
   include AssetAware
 
-  def initialize(@bundles : Array(String) = ["core"], @additional : Array(String) = [] of String, @excluded : Array(String) = [] of String, @js : String? = nil)
+  def initialize(
+    @bundles : Array(String) = ["core"],
+    @additional : Array(String) = [] of String,
+    @excluded : Array(String) = [] of String,
+    @css : Array(String) = [] of String,
+    @js : String? = nil
+  )
   end
 
   def asset_bundles : Array(String)
@@ -17,6 +23,10 @@ class TestAssetAwareView
 
   def excluded_bundles : Array(String)
     @excluded
+  end
+
+  def page_css : Array(String)
+    @css
   end
 
   def page_js : String?
@@ -105,6 +115,14 @@ describe AssetAware do
       view = TestAssetAwareView.new(additional: ["react-runtime"])
       html = view.assets_html(ctx)
       html.should_not contain "babel"
+    end
+
+    it "includes page-specific CSS when set" do
+      ctx = MockRenderContext.new(with_asset_loader: true)
+      view = TestAssetAwareView.new(css: ["gallery"])
+      html = view.assets_html(ctx)
+      html.should contain "/css/self/new_gallery.css"
+      html.should contain "/css/self/coord_photo.css"
     end
 
     it "includes page-specific JS when set" do

@@ -33,17 +33,7 @@ bundles:
   # === CSS Self (Our Code) ===
   blog-css:
     css:
-      - /css/self/clean-blog.css
       - /css/self/new.css
-
-  gallery-css:
-    css:
-      - /css/self/new_gallery.css
-      - /css/self/coord_photo.css
-
-  ideas-css:
-    css:
-      - /css/self/ideas.css
 
   openlayers-blog-css:
     css:
@@ -118,6 +108,13 @@ composites:
     includes:
       - react
 
+# Page-specific assets (loaded via page_css/page_js in views)
+# Views reference by symbol name, e.g., page_css: ["gallery"]
+page-assets:
   gallery:
-    includes:
-      - gallery-css
+    css:
+      - /css/self/new_gallery.css
+      - /css/self/coord_photo.css
+  ideas:
+    css:
+      - /css/self/ideas.css

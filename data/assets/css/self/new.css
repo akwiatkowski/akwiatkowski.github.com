@@ -522,3 +522,166 @@ body {
 a {
   color: var(--color-primary);
 }
+
+/* ==========================================================================
+   Blog Styles (merged from clean-blog.css)
+   ========================================================================== */
+
+.hidden {
+  display: none;
+}
+
+p {
+  line-height: 1.6;
+  margin: 10px 0 20px;
+}
+p a, article > li a {
+  text-decoration: none;
+  border-bottom: 1px black dotted;
+}
+p a:hover, article > li a:hover {
+  text-decoration: none;
+  border-bottom: 1px #0085a1 dotted;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 800;
+}
+header h1, header h2, header h3 {
+  text-shadow: 1px 1px #555;
+}
+
+.intro-header {
+  background: no-repeat center center;
+  background-color: #808080;
+  background-attachment: scroll;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+.intro-header .post-heading {
+  padding: 100px 0 50px;
+  color: white;
+}
+.intro-header .short-heading {
+  padding: 90px 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .intro-header .post-heading {
+    padding: 200px 0;
+  }
+  .intro-header .short-heading {
+    padding: 100px 0;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .intro-header .post-heading {
+    padding: 300px 0;
+  }
+  .intro-header .short-heading {
+    padding: 120px 0;
+  }
+}
+
+.intro-header .post-heading h1 {
+  font-size: 35px;
+}
+.intro-header .post-heading .subheading,
+.intro-header .post-heading .meta {
+  line-height: 1.1;
+  display: block;
+}
+.intro-header .post-heading .subheading {
+  font-size: 24px;
+  margin: 10px 0 30px;
+  font-weight: 600;
+}
+.intro-header .post-heading .meta {
+  font-style: italic;
+  font-weight: 300;
+  font-size: 20px;
+}
+.intro-header .post-heading .meta a {
+  color: white;
+}
+
+@media only screen and (min-width: 768px) {
+  .intro-header .post-heading h1 {
+    font-size: 65px;
+    line-height: 80px;
+  }
+  .intro-header .post-heading .subheading {
+    font-size: 30px;
+  }
+}
+
+blockquote {
+  color: #808080;
+  font-style: italic;
+}
+
+.post-preview > a {
+  color: #404040;
+}
+.post-preview > a:hover,
+.post-preview > a:focus {
+  text-decoration: none;
+  color: #0085a1;
+}
+.post-preview > a > .post-title {
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.post-preview > a > .post-subtitle {
+  margin: 0;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+.post-preview > .post-meta {
+  color: #808080;
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 0;
+}
+.post-preview > .post-meta > a {
+  text-decoration: none;
+  color: #404040;
+}
+.post-preview > .post-meta > a:hover,
+.post-preview > .post-meta > a:focus {
+  color: #0085a1;
+  text-decoration: underline;
+}
+.post-preview .post-preview-thumb {
+  float: right;
+  padding: 5px;
+}
+
+@media only screen and (min-width: 768px) {
+  .post-preview > a > .post-title {
+    font-size: 36px;
+  }
+}
+
+footer .list-inline {
+  margin: 0;
+  padding: 0;
+}
+footer .copyright {
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dropdown-item {
+  width: fit-content;
+}

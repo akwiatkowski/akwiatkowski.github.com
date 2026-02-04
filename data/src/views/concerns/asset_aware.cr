@@ -15,6 +15,10 @@
 #     ["gallery-css"]  # Remove from inherited bundles
 #   end
 #
+#   def page_css : Array(String)
+#     ["gallery"]  # Page-specific CSS (symbols from asset_bundles.yml)
+#   end
+#
 #   def page_js : String?
 #     "/js/self/my_page.js"  # Optional page-specific JS
 #   end
@@ -33,6 +37,11 @@ module AssetAware
 
   # Override to REMOVE specific bundles from inheritance
   def excluded_bundles : Array(String)
+    [] of String
+  end
+
+  # Optional page-specific CSS (symbols from page-assets in asset_bundles.yml)
+  def page_css : Array(String)
     [] of String
   end
 
@@ -59,14 +68,20 @@ module AssetAware
     output_path = ctx.output_path
 
     String.build do |s|
-      # CSS
+      # Bundle CSS
       assets.css.each do |path|
         cache_param = cache_param_for(path, output_path)
         integrity_attr = assets.integrity[path]? ? " integrity=\"#{assets.integrity[path]}\" crossorigin=\"anonymous\"" : ""
         s << "    <link rel=\"stylesheet\" href=\"#{path}?v=#{cache_param}\"#{integrity_attr}>\n"
       end
 
-      # JS
+      # Page-specific CSS (resolved from symbols)
+      loader.resolve_page_css(page_css).each do |path|
+        cache_param = cache_param_for(path, output_path)
+        s << "    <link rel=\"stylesheet\" href=\"#{path}?v=#{cache_param}\">\n"
+      end
+
+      # Bundle JS
       assets.js.each do |path|
         cache_param = cache_param_for(path, output_path)
         integrity_attr = assets.integrity[path]? ? " integrity=\"#{assets.integrity[path]}\" crossorigin=\"anonymous\"" : ""
