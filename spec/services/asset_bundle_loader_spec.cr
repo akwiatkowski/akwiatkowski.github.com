@@ -25,8 +25,8 @@ describe AssetBundleLoader do
 
     it "resolves JS bundle" do
       loader = AssetBundleLoader.new(config_path)
-      assets = loader.resolve(["jquery"])
-      assets.js.should contain "/js/libs/jquery.min.js"
+      assets = loader.resolve(["leaflet-js"])
+      assets.js.should contain "/js/libs/leaflet.js"
     end
 
     it "resolves composite bundle" do

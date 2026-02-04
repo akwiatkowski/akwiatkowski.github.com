@@ -140,12 +140,12 @@ describe AssetAware do
       html.should contain "/js/libs/leaflet.js"
     end
 
-    it "generates correct assets for react-runtime bundle" do
+    it "generates correct assets for react-runtime bundle (uses Preact)" do
       ctx = MockRenderContext.new(with_asset_loader: true)
       view = TestAssetAwareView.new(additional: ["react-runtime"])
       html = view.assets_html(ctx)
-      html.should contain "/js/libs/react.production.min.js"
-      html.should contain "/js/libs/react-dom.production.min.js"
+      html.should contain "/js/libs/preact.umd.js"
+      html.should contain "/js/libs/preact-compat.umd.js"
     end
   end
 end
