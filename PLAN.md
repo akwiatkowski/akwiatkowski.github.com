@@ -96,6 +96,34 @@ Fixed display of towns, voivodeships, and lands (krainy) in post articles:
 - Now uses unified `AreaEntity` system via `@post.town_entities`, etc.
 - Data comes from `cache/areas_for_post/*.yml` (calculated route distances)
 
+### AreaType Polish Inflections Refactoring
+
+Refactored `AreaType` enum with proper Polish grammatical cases and ASCII-safe URL slugs:
+
+**Polish Display Methods (with diacritics):**
+- `polish_nominative` - gmina, powiat, województwo, region, obszar
+- `polish_genitive` - gminy, powiatu, województwa, regionu, obszaru
+- `polish_nominative_plural` - gminy, powiaty, województwa, regiony, obszary
+
+**ASCII-Safe URL Slugs (no diacritics):**
+- `nominative_slug` - gmina, powiat, **wojewodztwo**, region, obszar
+- `genitive_slug` - gminy, powiatu, **wojewodztwa**, regionu, obszaru
+
+**URL Helpers (use slug methods):**
+- `url_prefix` → `/#{nominative_slug}/` (e.g., `/wojewodztwo/`)
+- `url_type` → `genitive_slug` (e.g., `wojewodztwa`)
+
+**DRY Identifiers:**
+- `english_plural` - towns, counties, voivodeships, meso_regions, macro_regions
+- `payload_field` → `english_plural`
+- `polygon_dir` → `english_plural`
+
+**AreaEntity Aliases:**
+- `view_url` → alias for `show_url`
+- `post_areas_link_url` → alias for `post_list_url`
+
+**Bug fix:** Area type labels now lowercase (e.g., "województwo" not "Województwo")
+
 ### Savings
 
 | Before | After | Savings |
@@ -111,7 +139,7 @@ Fixed display of towns, voivodeships, and lands (krainy) in post articles:
 | Bundle | Size | Notes |
 |--------|------|-------|
 | **Core CSS** | ~210K | bootstrap.min.css (190K) + font-awesome.min.css (31K) + new.css (17K) |
-| **Core JS** | ~234K | jquery.min.js (88K) + bootstrap.bundle.min.js (80K) + nav_stats.js |
+| **Core JS** | ~146K | bootstrap.bundle.min.js (80K) + nav_stats.js (jQuery removed!) |
 | **React Runtime** | ~143K | react.production.min.js (6K) + react-dom.production.min.js (137K) |
 | **Leaflet** | ~150K | leaflet.js (147K) + leaflet.css (16K) |
 | **OpenLayers** | ~738K | ol.js (720K) - only used on map page |
@@ -138,7 +166,7 @@ Fixed display of towns, voivodeships, and lands (krainy) in post articles:
 
 **Map Page Optimization:**
 - Replace OpenLayers with Leaflet (-590K)
-- `map.js` already uses jQuery → rewrite to vanilla JS
+- `map.js` already converted to vanilla JS ✅
 - Would require converting OpenLayers API to Leaflet API
 
 **Stats Rendering:**
@@ -153,7 +181,7 @@ Fixed display of towns, voivodeships, and lands (krainy) in post articles:
 
 ## Test Status
 
-**242 tests passing**
+**253 tests passing**
 
 ---
 

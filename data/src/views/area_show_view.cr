@@ -46,7 +46,7 @@ class AreaShowView < PageView
     data["slug"] = @area.slug
     data["name"] = @area.name
     data["area_type"] = @area.area_type.polygon_dir.chomp("s") # "town", "county", etc.
-    data["area_type_label"] = @area.area_type.polish_name.capitalize
+    data["area_type_label"] = @area.area_type.polish_name
     data["area_field"] = @area.area_type.payload_field
 
     # Parent area info

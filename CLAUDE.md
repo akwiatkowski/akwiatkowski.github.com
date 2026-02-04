@@ -373,7 +373,12 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-04: HTML Processor and validators added (Phase 13) - comment removal, validation
 - 2026-02-04: External nav_stats.js extracted from inline script
 - 2026-02-04: Split head_open.html into head_meta, head_icons, head_feeds
+- 2026-02-04: Bootstrap 5 migration - jQuery removed (-88K)
+- 2026-02-04: map.js rewritten to vanilla JS (no jQuery)
+- 2026-02-04: AreaType refactored with Polish inflections (nominative/genitive cases)
+- 2026-02-04: ASCII-safe URL slugs added (wojewodztwo not województwo)
+- 2026-02-04: AreaEntity aliases added (view_url, post_areas_link_url)
 
 ---
 
-*Current stats: 5 tasks + 34 views = 39 registry entries, 220 tests*
+*Current stats: 5 tasks + 34 views = 39 registry entries, 253 tests*
