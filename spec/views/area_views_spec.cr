@@ -5,13 +5,13 @@ describe AreaShowView do
     AreaShowView.should_not be_nil
   end
 
-  it "uses correct URL pattern for show pages" do
-    # URL pattern: /<type>/<slug>.html
-    AreaType::Town.url_prefix.should eq "/gminy/"
-    AreaType::County.url_prefix.should eq "/powiaty/"
-    AreaType::Voivodeship.url_prefix.should eq "/wojewodztwa/"
-    AreaType::MesoRegion.url_prefix.should eq "/regiony/"
-    AreaType::MacroRegion.url_prefix.should eq "/obszary/"
+  it "uses correct URL pattern for show pages (nominative case)" do
+    # URL pattern: /<nominative>/<slug>.html
+    AreaType::Town.url_prefix.should eq "/gmina/"
+    AreaType::County.url_prefix.should eq "/powiat/"
+    AreaType::Voivodeship.url_prefix.should eq "/województwo/"
+    AreaType::MesoRegion.url_prefix.should eq "/region/"
+    AreaType::MacroRegion.url_prefix.should eq "/obszar/"
   end
 
   it "adds pages to sitemap" do
@@ -26,13 +26,13 @@ describe GalleryView::AreaGalleryView do
     GalleryView::AreaGalleryView.should_not be_nil
   end
 
-  it "uses correct URL pattern for gallery pages" do
-    # URL pattern: /galeria/<type>/<slug>.html
+  it "uses correct URL pattern for gallery pages (genitive case)" do
+    # URL pattern: /galeria/<genitive>/<slug>.html
     AreaType::Town.url_type.should eq "gminy"
-    AreaType::County.url_type.should eq "powiaty"
-    AreaType::Voivodeship.url_type.should eq "wojewodztwa"
-    AreaType::MesoRegion.url_type.should eq "regiony"
-    AreaType::MacroRegion.url_type.should eq "obszary"
+    AreaType::County.url_type.should eq "powiatu"
+    AreaType::Voivodeship.url_type.should eq "województwa"
+    AreaType::MesoRegion.url_type.should eq "regionu"
+    AreaType::MacroRegion.url_type.should eq "obszaru"
   end
 end
 

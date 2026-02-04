@@ -2,39 +2,60 @@ require "./spec_helper"
 
 describe AreaType do
   describe "#url_prefix" do
-    it "returns Polish URL prefix for Town" do
-      AreaType::Town.url_prefix.should eq "/gminy/"
+    it "returns Polish nominative URL prefix for Town" do
+      AreaType::Town.url_prefix.should eq "/gmina/"
     end
 
-    it "returns Polish URL prefix for County" do
-      AreaType::County.url_prefix.should eq "/powiaty/"
+    it "returns Polish nominative URL prefix for County" do
+      AreaType::County.url_prefix.should eq "/powiat/"
     end
 
-    it "returns Polish URL prefix for Voivodeship" do
-      AreaType::Voivodeship.url_prefix.should eq "/wojewodztwa/"
+    it "returns Polish nominative URL prefix for Voivodeship" do
+      AreaType::Voivodeship.url_prefix.should eq "/województwo/"
     end
 
-    it "returns Polish URL prefix for MesoRegion" do
-      AreaType::MesoRegion.url_prefix.should eq "/regiony/"
+    it "returns Polish nominative URL prefix for MesoRegion" do
+      AreaType::MesoRegion.url_prefix.should eq "/region/"
     end
 
-    it "returns Polish URL prefix for MacroRegion" do
-      AreaType::MacroRegion.url_prefix.should eq "/obszary/"
+    it "returns Polish nominative URL prefix for MacroRegion" do
+      AreaType::MacroRegion.url_prefix.should eq "/obszar/"
     end
   end
 
   describe "#url_type" do
-    it "returns type name without slashes for Town" do
+    it "returns Polish genitive for Town" do
       AreaType::Town.url_type.should eq "gminy"
     end
 
-    it "returns type name without slashes for MesoRegion" do
-      AreaType::MesoRegion.url_type.should eq "regiony"
+    it "returns Polish genitive for County" do
+      AreaType::County.url_type.should eq "powiatu"
+    end
+
+    it "returns Polish genitive for MesoRegion" do
+      AreaType::MesoRegion.url_type.should eq "regionu"
+    end
+  end
+
+  describe "#polish_nominative" do
+    it "returns nominative singular" do
+      AreaType::Town.polish_nominative.should eq "gmina"
+      AreaType::Voivodeship.polish_nominative.should eq "województwo"
+    end
+  end
+
+  describe "#polish_genitive" do
+    it "returns genitive singular" do
+      AreaType::Town.polish_genitive.should eq "gminy"
+      AreaType::County.polish_genitive.should eq "powiatu"
+      AreaType::Voivodeship.polish_genitive.should eq "województwa"
+      AreaType::MesoRegion.polish_genitive.should eq "regionu"
+      AreaType::MacroRegion.polish_genitive.should eq "obszaru"
     end
   end
 
   describe "#polish_name" do
-    it "returns singular Polish name" do
+    it "returns singular Polish name (alias for polish_nominative)" do
       AreaType::Town.polish_name.should eq "gmina"
       AreaType::Voivodeship.polish_name.should eq "województwo"
     end
@@ -44,6 +65,30 @@ describe AreaType do
     it "returns plural Polish name" do
       AreaType::Town.polish_name_plural.should eq "gminy"
       AreaType::Voivodeship.polish_name_plural.should eq "województwa"
+    end
+  end
+
+  describe "#english_plural" do
+    it "returns English plural form" do
+      AreaType::Town.english_plural.should eq "towns"
+      AreaType::County.english_plural.should eq "counties"
+      AreaType::Voivodeship.english_plural.should eq "voivodeships"
+      AreaType::MesoRegion.english_plural.should eq "meso_regions"
+      AreaType::MacroRegion.english_plural.should eq "macro_regions"
+    end
+  end
+
+  describe "#payload_field" do
+    it "returns same as english_plural" do
+      AreaType::Town.payload_field.should eq AreaType::Town.english_plural
+      AreaType::MesoRegion.payload_field.should eq AreaType::MesoRegion.english_plural
+    end
+  end
+
+  describe "#polygon_dir" do
+    it "returns same as english_plural" do
+      AreaType::Town.polygon_dir.should eq AreaType::Town.english_plural
+      AreaType::MesoRegion.polygon_dir.should eq AreaType::MesoRegion.english_plural
     end
   end
 end
@@ -68,29 +113,41 @@ describe AreaEntity do
   end
 
   describe "#show_url" do
-    it "returns correct show URL for town" do
+    it "returns correct show URL for town (nominative)" do
       entity = AreaEntity.new(
         slug: "pobiedziska",
         name: "Pobiedziska",
         area_type: AreaType::Town
       )
 
-      entity.show_url.should eq "/gminy/pobiedziska.html"
+      entity.show_url.should eq "/gmina/pobiedziska.html"
     end
 
-    it "returns correct show URL for meso region" do
+    it "returns correct show URL for meso region (nominative)" do
       entity = AreaEntity.new(
         slug: "pojezierze-gnieznienskie",
         name: "Pojezierze Gnieźnieńskie",
         area_type: AreaType::MesoRegion
       )
 
-      entity.show_url.should eq "/regiony/pojezierze-gnieznienskie.html"
+      entity.show_url.should eq "/region/pojezierze-gnieznienskie.html"
+    end
+  end
+
+  describe "#view_url" do
+    it "is alias for show_url" do
+      entity = AreaEntity.new(
+        slug: "pobiedziska",
+        name: "Pobiedziska",
+        area_type: AreaType::Town
+      )
+
+      entity.view_url.should eq entity.show_url
     end
   end
 
   describe "#post_list_url" do
-    it "returns correct post list URL" do
+    it "returns correct post list URL (genitive)" do
       entity = AreaEntity.new(
         slug: "pobiedziska",
         name: "Pobiedziska",
@@ -101,8 +158,20 @@ describe AreaEntity do
     end
   end
 
+  describe "#post_areas_link_url" do
+    it "is alias for post_list_url" do
+      entity = AreaEntity.new(
+        slug: "pobiedziska",
+        name: "Pobiedziska",
+        area_type: AreaType::Town
+      )
+
+      entity.post_areas_link_url.should eq entity.post_list_url
+    end
+  end
+
   describe "#gallery_url" do
-    it "returns correct gallery URL" do
+    it "returns correct gallery URL (genitive)" do
       entity = AreaEntity.new(
         slug: "pobiedziska",
         name: "Pobiedziska",

@@ -72,17 +72,27 @@ struct AreaEntity
     lat >= b.south && lat <= b.north && lon >= b.west && lon <= b.east
   end
 
-  # URL for show page: /gminy/pobiedziska.html
+  # URL for show page: /gmina/pobiedziska.html (nominative case)
   def show_url : String
     "#{area_type.url_prefix}#{slug}.html"
   end
 
-  # URL for post list page: /wpisy_dla/gminy/pobiedziska.html
+  # Alias for show_url - standard view URL
+  def view_url : String
+    show_url
+  end
+
+  # URL for post list page: /wpisy_dla/gminy/pobiedziska.html (genitive case)
   def post_list_url : String
     "/wpisy_dla/#{area_type.url_type}/#{slug}.html"
   end
 
-  # URL for gallery page: /galeria/gminy/pobiedziska.html
+  # Alias for post_list_url - can be changed later
+  def post_areas_link_url : String
+    post_list_url
+  end
+
+  # URL for gallery page: /galeria/gminy/pobiedziska.html (genitive case)
   def gallery_url : String
     "/galeria/#{area_type.url_type}/#{slug}.html"
   end
