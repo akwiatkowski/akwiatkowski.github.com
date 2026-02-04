@@ -37,7 +37,7 @@ struct VoivodeshipEntity
 
   def initialize(y : YAML::Any)
     @slug = y["slug"].to_s
-    @name = y["name"].to_s
+    @name = y["name"].to_s.downcase
 
     if y["header-img"]?
       @header_img = y["header-img"].to_s
