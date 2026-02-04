@@ -183,7 +183,23 @@ Refactored `AreaType` enum with proper Polish grammatical cases and ASCII-safe U
 
 ## Test Status
 
-**253 tests passing**
+**253 Crystal tests passing**
+
+### E2E Tests (Playwright) - NEW
+
+Infrastructure added in `tests/e2e/`:
+- `specs/smoke.spec.js` - All URLs from payload.json return 200
+- `specs/posts.spec.js` - Post article pages
+- `specs/map.spec.js` - Map pages (mapa.html, mapa2.html)
+- `specs/gallery.spec.js` - Gallery pages
+- `specs/static.spec.js` - Static pages
+- `specs/js-pages.spec.js` - JS-heavy pages
+
+**Next steps for e2e:**
+- [ ] Run tests and fix any failures
+- [ ] Add area page tests (AreaShowView)
+- [ ] Add more gallery assertions
+- [ ] CI integration
 
 ---
 

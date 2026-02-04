@@ -382,6 +382,7 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-04: Fixed page_css/page_js cache key bug in head_open_html
 - 2026-02-04: Registered JsBicyclePlannerView at /pomysly2.html
 - 2026-02-04: Replaced OpenLayers with Leaflet on map page (-590K)
+- 2026-02-04: Added Playwright e2e test infrastructure
 
 ---
 
