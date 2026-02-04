@@ -6,6 +6,11 @@ module StaticView
       super(context: context, url: @url)
     end
 
+    # Panoramio page uses React for UI and Leaflet for map
+    def additional_bundles : Array(String)
+      ["leaflet", "react-runtime"]
+    end
+
     def add_to_sitemap?
       true
     end
