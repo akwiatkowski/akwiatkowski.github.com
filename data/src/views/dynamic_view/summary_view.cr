@@ -19,6 +19,10 @@ module DynamicView
       return false
     end
 
+    def page_js : String?
+      "/js/self/summary.js"
+    end
+
     def inner_html
       posts_string = ""
 

@@ -191,5 +191,14 @@ class BlogSummary {
   }
 }
 
-// Export for global use
-window.BlogSummary = BlogSummary;
+// Auto-initialize on DOM ready
+function initSummary() {
+  const summary = new BlogSummary();
+  summary.start();
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initSummary);
+} else {
+  initSummary();
+}
