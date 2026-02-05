@@ -32,7 +32,7 @@
   --shadow-lg: 0 12px 40px rgba(0,0,0,0.1);
 
   /* Nav */
-  --nav-bg: rgba(255,255,255,0.92);
+  --nav-bg: rgba(245,245,244,0.92);
 
   /* Typography */
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -75,13 +75,19 @@
     --shadow-lg: 0 12px 40px rgba(0,0,0,0.4);
 
     /* Nav */
-    --nav-bg: rgba(10,10,10,0.92);
+    --nav-bg: rgba(35,35,35,0.92);
   }
 }
 
 /* ===========================================
    Base Styles
    =========================================== */
+body:has(.new-home) {
+  margin: 0;
+  padding: 0;
+  background: var(--color-bg);
+}
+
 .new-home * {
   margin: 0;
   padding: 0;
@@ -603,5 +609,82 @@
     flex-direction: column;
     gap: 24px;
     text-align: center;
+  }
+
+  .new-home .more-links-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ===========================================
+   More Page Links Grid
+   =========================================== */
+.new-home .more-links-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.new-home .more-link {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px 24px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s;
+}
+
+.new-home .more-link:hover {
+  background: var(--color-accent-light);
+  border-color: var(--color-accent);
+  transform: translateY(-2px);
+}
+
+.new-home .more-link-icon {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-accent-light);
+  border-radius: var(--radius-sm);
+  color: var(--color-accent);
+}
+
+.new-home .more-link-icon svg {
+  width: 24px;
+  height: 24px;
+}
+
+.new-home .more-link:hover .more-link-icon {
+  background: var(--color-accent);
+  color: var(--color-accent-text);
+}
+
+.new-home .more-link-text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.new-home .more-link-name {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--color-text);
+}
+
+.new-home .more-link-desc {
+  font-size: 0.875rem;
+  color: var(--color-text-secondary);
+}
+
+@media (max-width: 640px) {
+  .new-home .more-links-grid {
+    grid-template-columns: 1fr;
   }
 }

@@ -1,0 +1,39 @@
+<div class="new-home">
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="{{ url.home }}" class="nav-logo">Odkrywając Polskę</a>
+      <ul class="nav-links">
+        <li><a href="{{ url.tag.bicycle }}">Rowerem</a></li>
+        <li><a href="{{ url.tag.hike }}">Pieszo</a></li>
+        <li><a href="{{ url.tag.best }}">Najlepsze</a></li>
+        <li><a href="{{ url.map }}">Mapa</a></li>
+        <li><a href="{{ url.about }}">O mnie</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Main content -->
+  <section class="section" style="padding-top: 120px;">
+    <div class="section-header">
+      <h2 class="section-title">Więcej</h2>
+    </div>
+    <div class="more-links-grid">
+      {{links_content}}
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <p class="footer-text">
+        Zdjęcia i treści © Aleksander Kwiatkowski
+      </p>
+      <div class="footer-links">
+        <a href="/galeria.html">Galeria</a>
+        <a href="/wiecej.html">Więcej</a>
+        <a href="/o-mnie.html">O mnie</a>
+      </div>
+    </div>
+  </footer>
+</div>

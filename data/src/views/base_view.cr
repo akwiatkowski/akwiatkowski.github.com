@@ -229,6 +229,12 @@ class BaseView < Tremolite::Views::BaseView
   end
 
   def nav_html
+    # New sleek navigation - fixed position with blur
+    return load_html("include/navigation/new", {} of String => String)
+  end
+
+  # Legacy navigation with dropdowns (kept for reference)
+  def nav_html_legacy
     h = nav_stats_cache.to_hash
     h["site.title"] = context.site_title if context["site.title"]?
 
@@ -259,6 +265,12 @@ class BaseView < Tremolite::Views::BaseView
   end
 
   def footer_html
+    # New sleek footer
+    return load_html("include/footer_new", {} of String => String)
+  end
+
+  # Legacy footer (kept for reference)
+  def footer_html_legacy
     h = Hash(String, String).new
     h["site.title"] = context.site_title if context["site.title"]?
     h["year"] = Time.local.year.to_s

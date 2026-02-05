@@ -6,8 +6,9 @@
 # JS-heavy pages that load data client-side.
 #
 # Current views:
-# 1. More page - /wiecej.html (priority: 90)
-# 2. About page - /o_mnie.html (priority: 91)
+# 1. New More page - /wiecej.html (priority: 89)
+# 2. More page (old) - /wiecej2.html (priority: 90)
+# 3. About page - /o-mnie.html (priority: 91)
 # 3. English page - /en/index.html (priority: 92)
 # 4. JS Ideas page - /pomysly.html (priority: 93)
 # 5. JS Timeline page - /linia_czasu.html (priority: 94)
@@ -21,24 +22,41 @@
 #
 # Priority: 90-99 (near the end, low priority)
 #
-# View classes used: StaticView::MoreView, JsIdeasView, JsTimelineView,
+# View classes used: NewMoreView, StaticView::MoreView, JsIdeasView, JsTimelineView,
 # JsPanoramioView, JsExifView, MarkdownPageView
 # (loaded via renderer.cr)
 
 def register_static_views(r : ViewRegistry)
   # ============================================
-  # View: More Page
+  # View: New More Page
   # ============================================
   #
-  # Renders the "more" page with additional site information.
+  # Renders the new "more" page with modern design.
   #
   # URL: /wiecej.html
+  # View class: NewMoreView
+  #
+  # Dependencies: [] (always runs)
+  #
+  r.register("Static: new more page", [] of Symbol, priority: 89) do |ctx|
+    ViewRegistry::Log.debug { "Rendering new more page" }
+    ctx.write_output(NewMoreView.new(context: ctx))
+  end
+
+  # ============================================
+  # View: More Page (Old) - DEPRECATED
+  # ============================================
+  #
+  # DEPRECATED: Use NewMoreView at /wiecej.html instead
+  # Kept for backward compatibility.
+  #
+  # URL: /wiecej2.html
   # View class: StaticView::MoreView
   #
   # Dependencies: [] (always runs)
   #
-  r.register("Static: more page", [] of Symbol, priority: 90) do |ctx|
-    ViewRegistry::Log.debug { "Rendering more page" }
+  r.register("Static: more page (old)", [] of Symbol, priority: 90) do |ctx|
+    ViewRegistry::Log.debug { "Rendering more page (old) - DEPRECATED" }
     ctx.write_output(StaticView::MoreView.new(context: ctx))
   end
 
@@ -48,7 +66,7 @@ def register_static_views(r : ViewRegistry)
   #
   # Renders the "about me" page from markdown.
   #
-  # URL: /o_mnie.html
+  # URL: /o-mnie.html
   # View class: MarkdownPageView
   #
   # Dependencies: [] (always runs)
@@ -57,11 +75,17 @@ def register_static_views(r : ViewRegistry)
     ViewRegistry::Log.debug { "Rendering about page" }
     ctx.write_output(MarkdownPageView.new(
       context: ctx,
-      url: "/o_mnie.html",
+      url: "/o-mnie.html",
       file: "about",
       image_url: ctx["about.backgrounds"],
       title: ctx["about.title"],
       subtitle: ctx["about.subtitle"]
+    ))
+    # Legacy URL redirect
+    ctx.write_output(SpecialView::TemporaryRedirectView.new(
+      context: ctx,
+      old_url: "/o_mnie.html",
+      new_url: "/o-mnie.html"
     ))
   end
 

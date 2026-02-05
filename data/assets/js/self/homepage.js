@@ -241,7 +241,7 @@
         chips.push({
           name: region.name,
           url: region.url,
-          icon: null
+          icon: 'area'
         });
       }
     }
@@ -254,7 +254,7 @@
     for (var j = 0; j < availableDiscovery.length && chips.length < FIXED_CHIPS.length + CONFIG.dynamicChipsCount; j++) {
       var tag = tags.find(function(t) { return t.slug === availableDiscovery[j]; });
       if (tag) {
-        chips.push({ name: tag.name, url: tag.url, icon: null });
+        chips.push({ name: tag.name, url: tag.url, icon: 'tag' });
         usedSlugs[tag.slug] = true;
       }
     }
@@ -307,6 +307,8 @@
       hike: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path d="M13.5 5.5a2 2 0 100-4 2 2 0 000 4zM6 20l3-7 2.5 2V20M9.5 11l3-2 2 3-4 3M14 4l5 4-2 1"/></svg>',
       train: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><rect x="4" y="3" width="16" height="14" rx="2"/><path d="M4 11h16M9 21l3-4 3 4M12 3v4"/></svg>',
       map: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l5.447 2.724A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"/></svg>',
+      area: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><circle cx="12" cy="11" r="3"/></svg>',
+      tag: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A2 2 0 013 12V7a4 4 0 014-4z"/></svg>',
       distance: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>',
       time: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>'
     };

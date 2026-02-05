@@ -1,9 +1,9 @@
 // Post collection dynamic loader
-// Fetches posts from payload.json and renders them with lazy loading
+// Fetches posts from posts_list.json (minimal payload) and renders them with lazy loading
 (function() {
   'use strict';
 
-  // Read configuration from page
+  // Read configuration from page (called after DOM is ready)
   function getConfig() {
     var configEl = document.getElementById('post-collection-config');
     if (configEl) {
@@ -16,9 +16,9 @@
     return { filterBy: '', filterValue: '' };
   }
 
-  var CONFIG = getConfig();
-  var FILTER_BY = CONFIG.filterBy || '';
-  var FILTER_VALUE = CONFIG.filterValue || '';
+  // Config is read when loadPosts is called (after DOM is ready)
+  var FILTER_BY = '';
+  var FILTER_VALUE = '';
 
   // State management
   var postsData = [];
@@ -31,7 +31,12 @@
     var container = document.getElementById('posts-container');
     if (!container) return;
 
-    fetch('/payload.json')
+    // Read config now that DOM is ready
+    var CONFIG = getConfig();
+    FILTER_BY = CONFIG.filterBy || '';
+    FILTER_VALUE = CONFIG.filterValue || '';
+
+    fetch('/jsons/homepage.json')
       .then(function(response) {
         if (!response.ok) {
           throw new Error('HTTP error! status: ' + response.status);
@@ -152,11 +157,11 @@
   function renderStats(post) {
     var stats = [];
 
-    if (post.distace && post.distace > 0) {
+    if (post.distance && post.distance > 0) {
       stats.push(
         '<div class="stat-item">' +
           '<span class="icon-distance"></span>' +
-          '<span>' + post.distace + ' km</span>' +
+          '<span>' + post.distance + ' km</span>' +
         '</div>'
       );
     }

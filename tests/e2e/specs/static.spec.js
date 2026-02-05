@@ -8,7 +8,7 @@ test.describe('Static pages', () => {
   const staticPages = [
     { url: '/', name: 'Home' },
     { url: '/wiecej.html', name: 'More' },
-    { url: '/o_mnie.html', name: 'About' },
+    { url: '/o-mnie.html', name: 'About' },
     { url: '/en/index.html', name: 'English' },
     { url: '/zestawienie.html', name: 'Summary' },
     { url: '/pois.html', name: 'POIs' },

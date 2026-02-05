@@ -540,4 +540,93 @@ Replace React (~140KB) with Preact (~25KB) for 82% size reduction.
 
 ---
 
-*Last updated: 2026-02-04*
+## Phase 19: Tag Filtering & More Page ✅ COMPLETE
+
+**Completed**: 2026-02-05
+
+### Tag Post List Filtering Fix
+
+**Problem**: Tag pages (`/wpisy-dla/tagu/rowerem.html`) showed all posts instead of filtered ones.
+
+**Root Cause**: `post_collection.js` read configuration at script load time (top-level variable), before DOM had the `#post-collection-config` element available.
+
+**Fix**: Moved config reading inside `loadPosts()` function which runs on DOMContentLoaded.
+
+```javascript
+// Before (broken) - config read at top level
+var CONFIG = getConfig();  // DOM not ready!
+var FILTER_BY = CONFIG.filterBy || '';
+
+// After (fixed) - config read inside loadPosts()
+function loadPosts() {
+  var CONFIG = getConfig();  // DOM is ready
+  FILTER_BY = CONFIG.filterBy || '';
+  // ... rest of function
+}
+```
+
+### E2E Tests for Tag Filtering
+
+Created `tests/e2e/specs/tag-filtering.spec.js`:
+- Bicycle tag page loads and shows posts
+- Only shows posts with bicycle tag (count verification)
+- Hike tag page loads and shows posts
+- Only shows posts with hike tag (count verification)
+- Filter configuration verification for both pages
+- No JS errors check
+
+### NewMoreView and Footer Updates
+
+**Footer changes:**
+- Removed GitHub link
+- Changed RSS link → Galeria (/galeria.html)
+- Added Więcej link (/wiecej.html)
+- Moved O mnie to bottom position
+
+**New More Page (`/wiecej.html`):**
+- Created `NewMoreView` with modern homepage styling
+- Card-based link grid with SVG icons
+- Clean design with single link to Panoramio map
+
+**Old More Page:**
+- Moved to `/wiecej2.html`
+- Marked as DEPRECATED in code
+
+### CSS Refinements
+
+**Body margin fix:**
+- Browser default 8px margin caused background color mismatch
+- Added `body { margin: 0; padding: 0; }` to both `new.css` and `new-home.css`
+
+**Nav/footer background:**
+- Adjusted frosted glass effect colors
+- Light mode: slightly darker (`rgba(245,245,244,0.92)`)
+- Dark mode: slightly lighter (`rgba(35,35,35,0.92)`)
+
+### URL Changes
+
+- About page: `/o_mnie.html` → `/o-mnie.html`
+- Added redirect from old URL using `TemporaryRedirectView`
+
+### Files Changed
+
+| File | Changes |
+|------|---------|
+| `data/assets/js/self/post_collection.js` | Fixed config reading timing |
+| `data/assets/css/self/new.css` | Body margin reset, nav-bg colors |
+| `data/assets/css/self/new-home.css` | Body margin, nav-bg, more-links grid |
+| `data/src/views/new_more_view.cr` | New view class |
+| `data/src/views/static_view/more_view.cr` | Changed URL, marked deprecated |
+| `data/src/view_registry/views/static_views.cr` | NewMoreView, about redirect |
+| `data/layout/more/new.html` | New template |
+| `data/layout/include/footer_new.html` | Updated links |
+| `data/layout/home/new.html` | Updated footer links |
+| `tests/e2e/specs/tag-filtering.spec.js` | New test file |
+
+### Test Results
+
+**E2E Tests: 44 passed, 0 failed, 5 skipped**
+
+---
+
+*Last updated: 2026-02-05*

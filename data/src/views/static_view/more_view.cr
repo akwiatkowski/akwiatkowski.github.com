@@ -1,8 +1,10 @@
 require "../markdown_page_view"
 
 module StaticView
+  # DEPRECATED: Use NewMoreView at /wiecej.html instead
+  # This view is kept for backward compatibility at /wiecej2.html
   class MoreView < MarkdownPageView
-    URL = "/wiecej.html"
+    URL = "/wiecej2.html"
 
     Log = ::Log.for(self)
 

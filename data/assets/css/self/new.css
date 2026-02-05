@@ -1,5 +1,31 @@
 :root {
-  /* Primitive Color Tokens */
+  /* ===========================================
+     New Design System - Typography
+     =========================================== */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+
+  /* ===========================================
+     New Design System - Colors (Light Mode)
+     =========================================== */
+  --color-bg: #fafaf9;
+  --color-surface: #ffffff;
+  --color-surface-elevated: #ffffff;
+  --color-text-primary: #1a1a1a;
+  --color-text-secondary-new: #6b6b6b;
+  --color-text-muted: #9a9a9a;
+  --color-accent: #2d7a85;
+  --color-accent-hover: #236770;
+  --color-accent-light: #e8f4f5;
+  --color-accent-text: #ffffff;
+  --color-border-new: rgba(0,0,0,0.06);
+  --color-border-strong: rgba(0,0,0,0.12);
+  --shadow-sm-new: 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md-new: 0 4px 12px rgba(0,0,0,0.06);
+  --shadow-lg-new: 0 12px 40px rgba(0,0,0,0.1);
+  --nav-bg: rgba(245,245,244,0.92);
+
+  /* Primitive Color Tokens (Legacy) */
   --color-white: rgba(255, 255, 255, 1);
   --color-black: rgba(0, 0, 0, 1);
   --color-cream-50: rgba(252, 252, 249, 1);
@@ -150,6 +176,25 @@
 /* Dark mode colors */
 @media (prefers-color-scheme: dark) {
   :root {
+    /* New Design System - Dark Mode */
+    --color-bg: rgba(31, 33, 33, 1);
+    --color-surface: #141414;
+    --color-surface-elevated: #1a1a1a;
+    --color-text-primary: #f0f0f0;
+    --color-text-secondary-new: #a0a0a0;
+    --color-text-muted: #707070;
+    --color-accent: #4db8c7;
+    --color-accent-hover: #5ec9d8;
+    --color-accent-light: rgba(77, 184, 199, 0.15);
+    --color-accent-text: #0a0a0a;
+    --color-border-new: rgba(255,255,255,0.06);
+    --color-border-strong: rgba(255,255,255,0.12);
+    --shadow-sm-new: 0 1px 2px rgba(0,0,0,0.2);
+    --shadow-md-new: 0 4px 12px rgba(0,0,0,0.3);
+    --shadow-lg-new: 0 12px 40px rgba(0,0,0,0.4);
+    --nav-bg: rgba(35,35,35,0.92);
+
+    /* Legacy Dark Mode */
     --color-gray-400-rgb: 119, 124, 124;
     --color-teal-300-rgb: 50, 184, 198;
     --color-gray-300-rgb: 167, 169, 169;
@@ -208,11 +253,13 @@
 
 /* Base styles */
 html {
-  background-color: var(--color-background) !important;
+  background-color: var(--color-bg) !important;
 }
 
 body {
-  background-color: var(--color-background) !important;
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-bg) !important;
   font-size: var(--font-size-base) !important;
   font-family: var(--font-family-base) !important;
   color: var(--color-text) !important;
@@ -981,5 +1028,139 @@ article h3 {
   .related-post-date,
   .post-pager-label {
     color: #aaa;
+  }
+}
+
+/* ===========================================
+   New Navigation
+   =========================================== */
+.site-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background: var(--nav-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--color-border-new);
+}
+
+.site-nav-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-nav-logo {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: var(--color-text-primary);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+
+.site-nav-logo:hover {
+  color: var(--color-text-primary);
+  text-decoration: none;
+}
+
+.site-nav-links {
+  display: flex;
+  gap: 32px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-nav-links a {
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  font-weight: 450;
+  color: var(--color-text-secondary-new);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.site-nav-links a:hover {
+  color: var(--color-text-primary);
+  text-decoration: none;
+}
+
+.site-nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  color: var(--color-text-primary);
+}
+
+@media (max-width: 768px) {
+  .site-nav-links {
+    display: none;
+  }
+
+  .site-nav-toggle {
+    display: block;
+  }
+}
+
+/* Body offset for fixed nav */
+body {
+  padding-top: 64px;
+}
+
+/* ===========================================
+   New Footer
+   =========================================== */
+.site-footer {
+  border-top: 1px solid var(--color-border-new);
+  padding: 48px 24px;
+  margin-top: 40px;
+  background: var(--color-bg);
+}
+
+.site-footer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-footer-text {
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+.site-footer-links {
+  display: flex;
+  gap: 24px;
+}
+
+.site-footer-links a {
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  color: var(--color-text-secondary-new);
+  text-decoration: none;
+}
+
+.site-footer-links a:hover {
+  color: var(--color-text-primary);
+}
+
+@media (max-width: 640px) {
+  .site-footer-inner {
+    flex-direction: column;
+    gap: 24px;
+    text-align: center;
   }
 }
