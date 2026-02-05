@@ -171,17 +171,17 @@ describe "setup_view_registry" do
     it "registers all expected views" do
       r = setup_view_registry
 
-      # Should have 37 views total (PHASE6: removed 4 deprecated views):
-      # - Entity views: 1 (tags only - towns, voivodeships, lands migrated to areas)
+      # Should have 39 views total:
+      # - Entity views: 2 (tags, tags legacy redirects)
       # - Area views: 3 (show pages, post list pages, gallery pages)
       # - Home views: 4 (main, old home, map, pois)
       # - Photo views: 2 (galleries, maps)
       # - Stats views: 5 (summary, year reports, burnout, towns history, towns timeline)
       # - Feed views: 10 (RSS, Atom, 6x JSON, sitemap, robots)
       # - Index views: 1 (towns only - lands deprecated)
-      # - Static views: 8 (more, about, english, JS ideas, JS timeline, JS panoramio, JS exif stats, JS bicycle planner)
+      # - Static views: 9 (new more, more old, about, english, JS ideas, JS timeline, JS panoramio, JS exif stats, JS bicycle planner)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
-      r.views.size.should eq(37)
+      r.views.size.should eq(39)
     end
 
     it "registers all entity views" do
@@ -236,7 +236,8 @@ describe "setup_view_registry" do
       r = setup_view_registry
       view_names = r.views.map(&.name)
 
-      view_names.should contain("Static: more page")
+      view_names.should contain("Static: new more page")
+      view_names.should contain("Static: more page (old)")
       view_names.should contain("Static: about page")
       view_names.should contain("Static: english page")
       view_names.should contain("Static: JS ideas")
@@ -333,11 +334,11 @@ describe "setup_view_registry" do
       index_views.all? { |v| v.priority >= 60 && v.priority <= 69 }.should be_true
     end
 
-    it "static views have priority 90-99" do
+    it "static views have priority 89-99" do
       r = setup_view_registry
       static_views = r.views.select { |v| v.name.starts_with?("Static:") }
 
-      static_views.all? { |v| v.priority >= 90 && v.priority <= 99 }.should be_true
+      static_views.all? { |v| v.priority >= 89 && v.priority <= 99 }.should be_true
     end
 
     it "feed views have priority 50-59" do
@@ -411,11 +412,11 @@ describe "setup_view_registry" do
     it "static markdown pages have no dependencies (always run)" do
       r = setup_view_registry
 
-      more = r.views.find { |v| v.name == "Static: more page" }.not_nil!
+      new_more = r.views.find { |v| v.name == "Static: new more page" }.not_nil!
       about = r.views.find { |v| v.name == "Static: about page" }.not_nil!
       english = r.views.find { |v| v.name == "Static: english page" }.not_nil!
 
-      more.depends_on.should eq([] of Symbol)
+      new_more.depends_on.should eq([] of Symbol)
       about.depends_on.should eq([] of Symbol)
       english.depends_on.should eq([] of Symbol)
     end

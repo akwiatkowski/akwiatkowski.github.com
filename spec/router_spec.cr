@@ -89,8 +89,8 @@ describe Router do
       router.tag_gallery_url("rowery").should eq "/galeria/tag/rowery.html"
     end
 
-    it "#tag_post_list_url returns /wpisy-dla/tag/<slug>.html" do
-      router.tag_post_list_url("rowery").should eq "/wpisy-dla/tag/rowery.html"
+    it "#tag_post_list_url returns /wpisy-dla/tagu/<slug>.html" do
+      router.tag_post_list_url("rowery").should eq "/wpisy-dla/tagu/rowery.html"
     end
   end
 
