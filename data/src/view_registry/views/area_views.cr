@@ -4,7 +4,7 @@
 # These views render pages for the unified area entity system.
 # Each area type (town, county, voivodeship, meso_region, macro_region) gets:
 # 1. Show page - main info page: /<type>/<slug>.html
-# 2. Post list page - posts for area: /wpisy_dla/<type>/<slug>.html
+# 2. Post list page - posts for area: /wpisy-dla/<type>/<slug>.html
 # 3. Gallery page - photos in area: /galeria/<type>/<slug>.html
 #
 # Only areas with posts are rendered (empty areas are skipped).
@@ -44,7 +44,7 @@ def register_area_views(r : ViewRegistry)
   #
   # Renders a page listing posts for each area with posts.
   #
-  # URL pattern: /wpisy_dla/<type>/<slug>.html
+  # URL pattern: /wpisy-dla/<type>/<slug>.html
   # View class: PostListView::AreaPostListView
   #
   r.register("Areas: post list pages", [:posts, :yamls], priority: 15) do |ctx|

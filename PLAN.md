@@ -230,4 +230,134 @@ make test-e2e-headed   # Run with visible browser
 
 ---
 
+## Phase 19: New Index Page (index2.html → index.html)
+
+### Overview
+
+New modern index page with dynamic content selection. Will live as `index2.html`/`index3.html` during development, then replace current `index.html`. Old index becomes `/wpisy.html`.
+
+**Prototypes:**
+- `index2.html` - Light mode only, static content
+- `index3.html` - Light/dark mode, static content (current)
+
+### Design Decisions
+
+**Typography:**
+- Sans-serif: Inter (UI, body)
+- Serif: Playfair Display (headings) - may switch to Lora
+- Strategy: 2 fonts loaded from Google Fonts
+
+**Color Scheme:**
+- Light/dark mode via `prefers-color-scheme`
+- Teal accent (#2d7a85 light, #4db8c7 dark)
+- CSS variables for all colors
+
+### Requirements
+
+#### 1. Hero Photo Selection (JS, dynamic per visit)
+
+**Data source:** New JSON file with curated photos (not all photos)
+
+**Selection factors (fuzzy logic, probability-based):**
+
+| Factor | Effect | Notes |
+|--------|--------|-------|
+| Season match | +probability | Photo month within ±1 of current month |
+| Has "good" tag | +probability | Minimum quality bar |
+| Post is finished | required | Must have `finished_at` set |
+| Post has tags | required | Must be tagged |
+| Freshness | slight + | Newer posts slightly preferred |
+| Time of day | modifier | Morning shows early light, evening shows golden hour |
+
+**Algorithm:**
+- Calculate score for each eligible photo
+- Time-of-day modifies probability, doesn't exclude
+- Random selection weighted by score
+- ~50-60% randomness in final pick
+
+#### 2. Post Selection (JS, dynamic per visit)
+
+**Mix strategy for 5 posts:**
+
+| Slot | Source | Selection |
+|------|--------|-----------|
+| 1 (featured, 2-col) | Best seasonal | High-scored post matching current season |
+| 2-5 (regular) | Mixed pool | See below |
+
+**Mixed pool composition:**
+- Latest by date (40%)
+- Recently finished (`finished_at` in last N days) (30%)
+- Seasonal throwback (same month, older year) (30%)
+
+**Randomness:** 50-60% - shuffle within categories, random picks
+
+#### 3. Category Chips (JS, dynamic per visit)
+
+**Fixed chips (always show):**
+- Rowerem (bicycle)
+- Pieszo (hike)
+- Kolejowe (train)
+
+**Dynamic chips (rotate, 3-4 slots):**
+
+| Type | Selection Logic |
+|------|-----------------|
+| Meso region | Pick from regions with 2-5 posts (not too popular) |
+| Town | Pick towns visited but not famous |
+| Seasonal tag | `mountains` in winter, `coast` in summer |
+| Discovery | Random from: `air`, `bikepacking`, `birds`, `countryside` |
+
+**No grouping** - all chips equal, same visual weight
+
+**Goal:** "Let's explore something together" feeling
+
+#### 4. Data Requirements
+
+**New JSON file needed:** `hero_photos.json` or similar
+```json
+{
+  "photos": [
+    {
+      "url": "/path/to/post.html",
+      "image": "/images/processed/..._card.jpg",
+      "title": "Post title",
+      "subtitle": "Post subtitle",
+      "month": 12,
+      "tags": ["best", "hike"],
+      "finished_at": "2024-01-15"
+    }
+  ]
+}
+```
+
+**Existing data used:**
+- `payload.json` - posts, tags, areas
+- Post `finished_at` attribute
+
+### Implementation Steps
+
+- [ ] Create `hero_photos.json` generator (Crystal)
+- [ ] Add `finished_at` to payload.json posts
+- [ ] Write hero photo selection JS
+- [ ] Write post mixing JS
+- [ ] Write chip selection JS
+- [ ] Create index page view (Crystal)
+- [ ] Test light/dark mode
+- [ ] Test responsive design
+- [ ] Replace index.html, move old to wpisy.html
+
+### Hero Text Options
+
+**Current (index3.html):**
+> "Polska, której nie zobaczysz z autostrady"
+> "Boczne drogi. Ciche wsie. Zapomniane krajobrazy."
+
+**Alternative (index2.html):**
+> "Odkrywam miejsca, które przemijają"
+> "Nie pokażę Ci gdzie jechać na wakacje..."
+
+Will iterate on final text.
+
+---
+
 *Last updated: 2026-02-04*

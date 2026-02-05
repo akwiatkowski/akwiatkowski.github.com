@@ -162,7 +162,7 @@ module PostView
           rpd["post.url"] = related_post.url
           rpd["post.title"] = related_post.title
           rpd["post.date"] = related_post.date
-          rpd["post.thumbnail"] = related_post.head_photo_entity.not_nil!.thumbnail_image_src
+          rpd["post.thumbnail"] = related_post.head_photo_entity.not_nil!.grid_image_src
           related_content += load_html("post/related_post", rpd)
         end
 

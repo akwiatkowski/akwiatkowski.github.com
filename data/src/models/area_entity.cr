@@ -82,9 +82,9 @@ struct AreaEntity
     show_url
   end
 
-  # URL for post list page: /wpisy_dla/gminy/pobiedziska.html (genitive case)
+  # URL for post list page: /wpisy-dla/gminy/pobiedziska.html (genitive case)
   def post_list_url : String
-    "/wpisy_dla/#{area_type.url_type}/#{slug}.html"
+    "/wpisy-dla/#{area_type.url_type}/#{slug}.html"
   end
 
   # Alias for post_list_url - can be changed later

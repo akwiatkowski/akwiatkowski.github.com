@@ -4,8 +4,8 @@ module PostListView
   # Displays a list of posts for a specific area (town, county, voivodeship, etc.)
   # Uses the unified AreaEntity system
   #
-  # URL pattern: /wpisy_dla/<type>/<slug>.html
-  # Example: /wpisy_dla/gminy/pobiedziska.html
+  # URL pattern: /wpisy-dla/<type>/<slug>.html
+  # Example: /wpisy-dla/gminy/pobiedziska.html
   class AreaPostListView < CollectionDynamicView
     Log = ::Log.for(self)
 
