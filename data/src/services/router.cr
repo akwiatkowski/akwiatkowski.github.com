@@ -144,33 +144,55 @@ class Router
   # ============================================
   # Post URLs
   # ============================================
+  #
+  # Post URL structure: /YYYY/MM/slug.html
+  # Built from time components and slug, not by concatenating post.url
+  #
 
-  # Article page: /2024/01/01/post-slug/
+  # Article page: /2024/01/slug.html
+  def post_url(year : Int32, month : Int32, slug : String) : String
+    "/#{year}/#{"%.2d" % month}/#{slug}.html"
+  end
+
   def post_url(post) : String
-    post.url
+    post_url(post.time.year, post.time.month, post_slug_without_date(post.slug))
   end
 
-  # Gallery page: /2024/01/01/post-slug/galeria.html
+  # Gallery page: /2024/01/slug/galeria.html
+  def post_gallery_url(year : Int32, month : Int32, slug : String) : String
+    "/#{year}/#{"%.2d" % month}/#{slug}/galeria.html"
+  end
+
   def post_gallery_url(post) : String
-    "#{post.url}galeria.html"
+    post_gallery_url(post.time.year, post.time.month, post_slug_without_date(post.slug))
   end
 
-  # Gallery stats page: /2024/01/01/post-slug/galeria-statystyki.html
+  # Gallery stats page: /2024/01/slug/galeria-statystyki.html
+  def post_gallery_stats_url(year : Int32, month : Int32, slug : String) : String
+    "/#{year}/#{"%.2d" % month}/#{slug}/galeria-statystyki.html"
+  end
+
   def post_gallery_stats_url(post) : String
-    "#{post.url}galeria-statystyki.html"
+    post_gallery_stats_url(post.time.year, post.time.month, post_slug_without_date(post.slug))
   end
 
-  # Image URL: /images/2024/01/01/post-slug/image.jpg
-  def post_image_url(post, size_prefix : String = "") : String
+  # Image URL: /images/YYYY/slug/image.jpg
+  def post_image_url(year : Int32, slug : String, filename : String, size_prefix : String = "") : String
+    base = "/images/#{year}/#{slug}"
     if size_prefix.empty?
-      "#{post.images_dir_url}/#{post.image_filename}"
+      "#{base}/#{filename}"
     else
-      "#{post.images_dir_url}/#{size_prefix}-#{post.image_filename}"
+      "#{base}/#{size_prefix}-#{filename}"
     end
   end
 
+  # Helper: remove date prefix from slug (2024-01-01-slug -> slug)
+  private def post_slug_without_date(slug : String) : String
+    slug.gsub(/^\d{4}-\d{2}-\d{2}-/, "")
+  end
+
   # ============================================
-  # Static Page URLs
+  # Static Page URLs (Polish)
   # ============================================
 
   def home_url : String
@@ -178,19 +200,19 @@ class Router
   end
 
   def map_url : String
-    "/map.html"
+    "/mapa.html"
   end
 
   def summary_url : String
-    "/summary.html"
+    "/podsumowanie.html"
   end
 
   def about_url : String
-    "/about.html"
+    "/o-mnie.html"
   end
 
   def year_report_url(year : Int32) : String
-    "/year-#{year}.html"
+    "/rok-#{year}.html"
   end
 
   # ============================================

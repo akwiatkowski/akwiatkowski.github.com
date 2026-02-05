@@ -94,21 +94,51 @@ describe Router do
     end
   end
 
-  describe "Static URLs" do
+  describe "Post URLs (built from components)" do
+    it "#post_url builds from year, month, slug" do
+      router.post_url(2024, 5, "wycieczka-rowerowa").should eq "/2024/05/wycieczka-rowerowa.html"
+    end
+
+    it "#post_url pads month with leading zero" do
+      router.post_url(2024, 1, "zimowa-jazda").should eq "/2024/01/zimowa-jazda.html"
+    end
+
+    it "#post_gallery_url builds from components" do
+      router.post_gallery_url(2024, 5, "wycieczka").should eq "/2024/05/wycieczka/galeria.html"
+    end
+
+    it "#post_gallery_stats_url builds from components" do
+      router.post_gallery_stats_url(2024, 5, "wycieczka").should eq "/2024/05/wycieczka/galeria-statystyki.html"
+    end
+
+    it "#post_image_url builds from year, slug, filename" do
+      router.post_image_url(2024, "wycieczka", "photo.jpg").should eq "/images/2024/wycieczka/photo.jpg"
+    end
+
+    it "#post_image_url with size prefix" do
+      router.post_image_url(2024, "wycieczka", "photo.jpg", "grid").should eq "/images/2024/wycieczka/grid-photo.jpg"
+    end
+  end
+
+  describe "Static URLs (Polish)" do
     it "#home_url returns /" do
       router.home_url.should eq "/"
     end
 
-    it "#map_url returns /map.html" do
-      router.map_url.should eq "/map.html"
+    it "#map_url returns /mapa.html" do
+      router.map_url.should eq "/mapa.html"
     end
 
-    it "#summary_url returns /summary.html" do
-      router.summary_url.should eq "/summary.html"
+    it "#summary_url returns /podsumowanie.html" do
+      router.summary_url.should eq "/podsumowanie.html"
     end
 
-    it "#year_report_url returns /year-<year>.html" do
-      router.year_report_url(2024).should eq "/year-2024.html"
+    it "#about_url returns /o-mnie.html" do
+      router.about_url.should eq "/o-mnie.html"
+    end
+
+    it "#year_report_url returns /rok-<year>.html" do
+      router.year_report_url(2024).should eq "/rok-2024.html"
     end
   end
 
