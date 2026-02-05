@@ -178,6 +178,17 @@ Defined in `ViewRegistry::PRIORITY_GROUPS` (base.cr):
 - `:exifs` - EXIF data changed (photo metadata)
 - Empty `[]` - Always runs
 
+## Image Sizes
+
+Defined in `data/src/image_resizer.cr`:
+
+| Name | Dimensions | Quality | Used for |
+|------|------------|---------|----------|
+| `article` | 1000×800 | 85% | Article inline photos, lightbox |
+| `card` | 700×525 | 82% | Homepage cards, prev/next pager |
+| `grid` | 560×420 | 80% | Gallery grids, related posts |
+| `thumbnail` | 150×112 | 72% | Small thumbnails |
+
 ## View Style Guidelines
 
 - Views receive `context : RenderContext` in constructor, not `@blog`
@@ -241,9 +252,30 @@ end
 |------|---------|
 | `BaseView` | `["core"]` |
 | `AreaShowView` | `["core", "leaflet", "react-runtime"]` |
-| `MapView` | `["core", "openlayers"]` |
+| `MapView` | `["core", "leaflet"]` |
 | `JsIdeasView` | `["core", "ideas-css", "leaflet", "react-runtime"]` |
 | `GalleryView::AbstractView` | `["core", "gallery"]` |
+
+## URL Patterns
+
+Area pages use Polish grammatical cases for URLs:
+
+| Page Type | Pattern | Example |
+|-----------|---------|---------|
+| Area show | `/<type>/<slug>.html` | `/gmina/pobiedziska.html` |
+| Area post list | `/wpisy-dla/<type>/<slug>.html` | `/wpisy-dla/gminy/pobiedziska.html` |
+| Area gallery | `/galeria/<type>/<slug>.html` | `/galeria/gminy/pobiedziska.html` |
+| Tag show | `/tag/<slug_pl>.html` | `/tag/najlepsze.html` |
+| Tag gallery | `/galeria/tag/<slug_pl>.html` | `/galeria/tag/najlepsze.html` |
+| Post | `/<year>/<month>/<day>-<slug>.html` | `/2021/07/18-pagorki.html` |
+| Post gallery | `/galeria/<year>/<month>/<day>-<slug>.html` | `/galeria/2021/07/18-pagorki.html` |
+
+Area types use nominative (show) vs genitive (post-list/gallery) forms:
+- `gmina` / `gminy` (town)
+- `powiat` / `powiatu` (county)
+- `wojewodztwo` / `wojewodztwa` (voivodeship)
+- `mezoregion` / `regionu` (meso region)
+- `makroregion` / `obszaru` (macro region)
 
 ## Common Tasks
 
@@ -413,7 +445,13 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-04: Registered JsBicyclePlannerView at /pomysly2.html
 - 2026-02-04: Replaced OpenLayers with Leaflet on map page (-590K)
 - 2026-02-04: Added Playwright e2e test infrastructure
+- 2026-02-04: Preact migration - React replaced with Preact (-114K, 82% smaller)
+- 2026-02-04: summary.js rewritten to vanilla JS (jQuery removed)
+- 2026-02-04: E2E tests fixed - 36 passing (Polish slugs, area filtering)
+- 2026-02-05: Related posts use grid images (560x420) instead of thumbnail (150x112)
+- 2026-02-05: URL format: /wpisy_dla/ → /wpisy-dla/ (hyphen instead of underscore)
+- 2026-02-05: Phase 19 planned - new index page with dynamic content
 
 ---
 
-*Current stats: 5 tasks + 35 views = 40 registry entries, 253 tests*
+*Current stats: 5 tasks + 35 views = 40 registry entries, 253 tests, 36 e2e tests*
