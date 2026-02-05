@@ -1,46 +1,6 @@
 require "./spec_helper"
 
 describe AreaType do
-  describe "#url_prefix" do
-    it "returns Polish nominative URL prefix for Town" do
-      AreaType::Town.url_prefix.should eq "/gmina/"
-    end
-
-    it "returns Polish nominative URL prefix for County" do
-      AreaType::County.url_prefix.should eq "/powiat/"
-    end
-
-    it "returns ASCII-safe URL prefix for Voivodeship" do
-      AreaType::Voivodeship.url_prefix.should eq "/wojewodztwo/"
-    end
-
-    it "returns Polish nominative URL prefix for MesoRegion" do
-      AreaType::MesoRegion.url_prefix.should eq "/region/"
-    end
-
-    it "returns Polish nominative URL prefix for MacroRegion" do
-      AreaType::MacroRegion.url_prefix.should eq "/obszar/"
-    end
-  end
-
-  describe "#url_type" do
-    it "returns ASCII-safe genitive slug for Town" do
-      AreaType::Town.url_type.should eq "gminy"
-    end
-
-    it "returns ASCII-safe genitive slug for County" do
-      AreaType::County.url_type.should eq "powiatu"
-    end
-
-    it "returns ASCII-safe genitive slug for Voivodeship" do
-      AreaType::Voivodeship.url_type.should eq "wojewodztwa"
-    end
-
-    it "returns ASCII-safe genitive slug for MesoRegion" do
-      AreaType::MesoRegion.url_type.should eq "regionu"
-    end
-  end
-
   describe "#nominative_slug" do
     it "returns ASCII-safe nominative for all types" do
       AreaType::Town.nominative_slug.should eq "gmina"

@@ -116,22 +116,9 @@ enum AreaType
   end
 
   # ============================================
-  # URL helpers (use slug methods)
-  # ============================================
-
-  # URL prefix for show page: /gmina/
-  def url_prefix : String
-    "/#{nominative_slug}/"
-  end
-
-  # URL type for post list/gallery: gminy
-  def url_type : String
-    genitive_slug
-  end
-
-  # ============================================
   # Legacy aliases
   # ============================================
+  # URL helpers moved to Router (url_prefix, url_type)
 
   def polish_name : String
     polish_nominative

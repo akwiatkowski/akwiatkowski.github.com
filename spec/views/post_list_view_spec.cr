@@ -51,23 +51,6 @@ describe PostListView do
       PostListView::AreaPostListView.should_not be_nil
     end
 
-    it "generates correct URL prefix for towns (nominative)" do
-      AreaType::Town.url_prefix.should eq "/gmina/"
-    end
-
-    it "generates correct URL prefix for voivodeships (ASCII-safe)" do
-      AreaType::Voivodeship.url_prefix.should eq "/wojewodztwo/"
-    end
-
-    it "generates correct URL prefix for meso regions (nominative)" do
-      AreaType::MesoRegion.url_prefix.should eq "/region/"
-    end
-
-    it "generates correct url_type for towns" do
-      # url_type is used in post_list_url: /wpisy_dla/{url_type}/{slug}.html
-      AreaType::Town.url_type.should eq "gminy"
-    end
-
     it "supports all five area types" do
       AreaType.values.size.should eq 5
       AreaType.values.should contain(AreaType::Town)

@@ -5,15 +5,6 @@ describe AreaShowView do
     AreaShowView.should_not be_nil
   end
 
-  it "uses correct URL pattern for show pages (ASCII-safe nominative)" do
-    # URL pattern: /<nominative_slug>/<slug>.html
-    AreaType::Town.url_prefix.should eq "/gmina/"
-    AreaType::County.url_prefix.should eq "/powiat/"
-    AreaType::Voivodeship.url_prefix.should eq "/wojewodztwo/"
-    AreaType::MesoRegion.url_prefix.should eq "/region/"
-    AreaType::MacroRegion.url_prefix.should eq "/obszar/"
-  end
-
   it "adds pages to sitemap" do
     # AreaShowView#add_to_sitemap? returns true
     # We test this by checking the class exists and has the method
@@ -25,14 +16,25 @@ describe GalleryView::AreaGalleryView do
   it "exists" do
     GalleryView::AreaGalleryView.should_not be_nil
   end
+end
 
-  it "uses correct URL pattern for gallery pages (ASCII-safe genitive)" do
-    # URL pattern: /galeria/<genitive_slug>/<slug>.html
-    AreaType::Town.url_type.should eq "gminy"
-    AreaType::County.url_type.should eq "powiatu"
-    AreaType::Voivodeship.url_type.should eq "wojewodztwa"
-    AreaType::MesoRegion.url_type.should eq "regionu"
-    AreaType::MacroRegion.url_type.should eq "obszaru"
+describe Router do
+  router = Router.new
+
+  it "generates correct area_type_prefix for show pages" do
+    router.area_type_prefix(AreaType::Town).should eq "/gmina/"
+    router.area_type_prefix(AreaType::County).should eq "/powiat/"
+    router.area_type_prefix(AreaType::Voivodeship).should eq "/wojewodztwo/"
+    router.area_type_prefix(AreaType::MesoRegion).should eq "/region/"
+    router.area_type_prefix(AreaType::MacroRegion).should eq "/obszar/"
+  end
+
+  it "generates correct area_type_segment for gallery/post list pages" do
+    router.area_type_segment(AreaType::Town).should eq "gminy"
+    router.area_type_segment(AreaType::County).should eq "powiatu"
+    router.area_type_segment(AreaType::Voivodeship).should eq "wojewodztwa"
+    router.area_type_segment(AreaType::MesoRegion).should eq "regionu"
+    router.area_type_segment(AreaType::MacroRegion).should eq "obszaru"
   end
 end
 

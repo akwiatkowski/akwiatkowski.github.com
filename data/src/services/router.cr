@@ -41,22 +41,40 @@ class Router
   TAG_LINK_TARGET  = TagLinkTarget::Show
 
   # ============================================
+  # Area URL Building Blocks
+  # ============================================
+  #
+  # These methods centralize URL pattern knowledge.
+  # AreaType provides nominative_slug (gmina) and genitive_slug (gminy).
+  #
+
+  # URL prefix for show pages: /gmina/, /powiat/, /wojewodztwo/
+  def area_type_prefix(type : AreaType) : String
+    "/#{type.nominative_slug}/"
+  end
+
+  # URL segment for post list/gallery: gminy, powiatu, wojewodztwa
+  def area_type_segment(type : AreaType) : String
+    type.genitive_slug
+  end
+
+  # ============================================
   # Area URLs (unified AreaEntity system)
   # ============================================
 
   # Show page: /gmina/pobiedziska.html (nominative case)
   def area_show_url(area : AreaEntity) : String
-    "#{area.area_type.url_prefix}#{area.slug}.html"
+    "#{area_type_prefix(area.area_type)}#{area.slug}.html"
   end
 
   # Post list page: /wpisy-dla/gminy/pobiedziska.html (genitive case)
   def area_post_list_url(area : AreaEntity) : String
-    "/wpisy-dla/#{area.area_type.url_type}/#{area.slug}.html"
+    "/wpisy-dla/#{area_type_segment(area.area_type)}/#{area.slug}.html"
   end
 
   # Gallery page: /galeria/gminy/pobiedziska.html (genitive case)
   def area_gallery_url(area : AreaEntity) : String
-    "/galeria/#{area.area_type.url_type}/#{area.slug}.html"
+    "/galeria/#{area_type_segment(area.area_type)}/#{area.slug}.html"
   end
 
   # Semantic alias - the URL to use when linking to an area
@@ -72,15 +90,15 @@ class Router
 
   # Convenience method using AreaType and slug
   def area_show_url(type : AreaType, slug : String) : String
-    "#{type.url_prefix}#{slug}.html"
+    "#{area_type_prefix(type)}#{slug}.html"
   end
 
   def area_post_list_url(type : AreaType, slug : String) : String
-    "/wpisy-dla/#{type.url_type}/#{slug}.html"
+    "/wpisy-dla/#{area_type_segment(type)}/#{slug}.html"
   end
 
   def area_gallery_url(type : AreaType, slug : String) : String
-    "/galeria/#{type.url_type}/#{slug}.html"
+    "/galeria/#{area_type_segment(type)}/#{slug}.html"
   end
 
   # ============================================

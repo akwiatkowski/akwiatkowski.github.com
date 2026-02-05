@@ -72,29 +72,38 @@ struct AreaEntity
     lat >= b.south && lat <= b.north && lon >= b.west && lon <= b.east
   end
 
-  # URL for show page: /gmina/pobiedziska.html (nominative case)
+  # ============================================
+  # URL Generation (delegated to Router)
+  # ============================================
+  #
+  # URL methods moved to Router class for centralized URL management.
+  # Use: context.router.area_show_url(area)
+  #      context.router.area_post_list_url(area)
+  #      context.router.area_gallery_url(area)
+  #
+  # For convenience, these methods delegate to a shared Router instance.
+  # This keeps backward compatibility while centralizing URL logic.
+  #
+  @@router = Router.new
+
   def show_url : String
-    "#{area_type.url_prefix}#{slug}.html"
+    @@router.area_show_url(self)
   end
 
-  # Alias for show_url - standard view URL
   def view_url : String
-    show_url
+    @@router.area_show_url(self)
   end
 
-  # URL for post list page: /wpisy-dla/gminy/pobiedziska.html (genitive case)
   def post_list_url : String
-    "/wpisy-dla/#{area_type.url_type}/#{slug}.html"
+    @@router.area_post_list_url(self)
   end
 
-  # Alias for post_list_url - can be changed later
   def post_areas_link_url : String
-    post_list_url
+    @@router.area_post_list_url(self)
   end
 
-  # URL for gallery page: /galeria/gminy/pobiedziska.html (genitive case)
   def gallery_url : String
-    "/galeria/#{area_type.url_type}/#{slug}.html"
+    @@router.area_gallery_url(self)
   end
 
   # Check if this area belongs to a post (by slug matching)

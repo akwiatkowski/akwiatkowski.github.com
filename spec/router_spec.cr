@@ -3,6 +3,28 @@ require "./spec_helper"
 describe Router do
   router = Router.new
 
+  describe "Area URL Building Blocks" do
+    describe "#area_type_prefix" do
+      it "returns nominative prefix for all area types" do
+        router.area_type_prefix(AreaType::Town).should eq "/gmina/"
+        router.area_type_prefix(AreaType::County).should eq "/powiat/"
+        router.area_type_prefix(AreaType::Voivodeship).should eq "/wojewodztwo/"
+        router.area_type_prefix(AreaType::MesoRegion).should eq "/region/"
+        router.area_type_prefix(AreaType::MacroRegion).should eq "/obszar/"
+      end
+    end
+
+    describe "#area_type_segment" do
+      it "returns genitive segment for all area types" do
+        router.area_type_segment(AreaType::Town).should eq "gminy"
+        router.area_type_segment(AreaType::County).should eq "powiatu"
+        router.area_type_segment(AreaType::Voivodeship).should eq "wojewodztwa"
+        router.area_type_segment(AreaType::MesoRegion).should eq "regionu"
+        router.area_type_segment(AreaType::MacroRegion).should eq "obszaru"
+      end
+    end
+  end
+
   describe "Area URLs" do
     area = AreaEntity.new(
       slug: "pobiedziska",
