@@ -15,9 +15,11 @@
 #
 class RenderContext
   getter blog : Tremolite::Blog
+  getter router : Router
   @asset_bundle_loader : AssetBundleLoader?
 
   def initialize(@blog : Tremolite::Blog)
+    @router = Router.new
   end
 
   # Asset bundle loader for the new asset system

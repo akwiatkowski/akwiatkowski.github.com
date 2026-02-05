@@ -75,16 +75,21 @@ module SpecialView
             end
           end
 
-          # tags (not an area type, keep as is)
+          # tags (not an area type, uses Router for URLs)
+          router = @context.router
           json.field "tags" do
             json.array do
               @context.tags.each do |tag|
                 json.object do
-                  json.field("url", tag.view_url)
+                  # Semantic URL - controlled by Router alias configuration
+                  json.field("url", router.tag_link_url(tag))
                   json.field("slug", tag.slug)
                   json.field("name", tag.name)
                   json.field("header-ext-img", tag.image_url)
                   json.field("image_url", tag.image_url)
+                  # Individual page URLs
+                  json.field("show_url", router.tag_show_url(tag))
+                  json.field("gallery_url", router.tag_gallery_url(tag))
                 end
               end
             end
@@ -105,6 +110,7 @@ module SpecialView
     end
 
     private def render_areas(json : JSON::Builder, field_name : String, area_type : AreaType)
+      router = @context.router
       json.field field_name do
         json.array do
           @context.areas_of_type(area_type).each do |area|
@@ -113,9 +119,13 @@ module SpecialView
               json.field("name", area.name)
               json.field("code", area.code)
               json.field("voivodeship", area.voivodeship_slug)
-              json.field("show_url", area.show_url)
-              json.field("post_list_url", area.post_list_url)
-              json.field("gallery_url", area.gallery_url)
+              # Semantic URL - controlled by Router alias configuration
+              # Change Router::AREA_LINK_TARGET to control where this points
+              json.field("url", router.area_link_url(area))
+              # Individual page URLs for when explicit navigation is needed
+              json.field("show_url", router.area_show_url(area))
+              json.field("post_list_url", router.area_post_list_url(area))
+              json.field("gallery_url", router.area_gallery_url(area))
             end
           end
         end

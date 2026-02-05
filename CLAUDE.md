@@ -81,6 +81,7 @@ data/src/views/
 
 ```
 data/src/services/
+├── router.cr                 # Centralized URL generation with alias support
 ├── asset_bundle_loader.cr    # Load/resolve asset bundles from YAML config
 ├── html_processor.cr         # HTML comment removal, validation
 ├── html_validators/          # HTML validation rules
@@ -188,6 +189,50 @@ Defined in `data/src/image_resizer.cr`:
 | `card` | 700×525 | 82% | Homepage cards, prev/next pager |
 | `grid` | 560×420 | 80% | Gallery grids, related posts |
 | `thumbnail` | 150×112 | 72% | Small thumbnails |
+
+## Router Service
+
+Centralized URL generation with alias support (`data/src/services/router.cr`).
+
+### Usage
+
+```crystal
+# Access via RenderContext
+router = context.router
+
+# Direct URL generation
+router.area_show_url(area)       # /gmina/pobiedziska.html
+router.area_post_list_url(area)  # /wpisy-dla/gminy/pobiedziska.html
+router.area_gallery_url(area)    # /galeria/gminy/pobiedziska.html
+
+# Semantic/aliased URLs (controlled by Router constants)
+router.area_link_url(area)       # Returns show_url by default
+router.tag_link_url(tag)         # Returns show_url by default
+```
+
+### Alias Configuration
+
+Change `Router::AREA_LINK_TARGET` to control where `area_link_url` points:
+
+```crystal
+# In router.cr
+AREA_LINK_TARGET = AreaLinkTarget::Show      # Default: /gmina/slug.html
+AREA_LINK_TARGET = AreaLinkTarget::PostList  # /wpisy-dla/gminy/slug.html
+AREA_LINK_TARGET = AreaLinkTarget::Gallery   # /galeria/gminy/slug.html
+```
+
+### JSON Serializers
+
+Use semantic URLs in JSON so page destination can be changed via Router:
+
+```crystal
+# Good - semantic name, Router controls destination
+json.field("url", router.area_link_url(area))
+
+# Also include explicit URLs when needed
+json.field("show_url", router.area_show_url(area))
+json.field("post_list_url", router.area_post_list_url(area))
+```
 
 ## View Style Guidelines
 
@@ -451,7 +496,9 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-05: Related posts use grid images (560x420) instead of thumbnail (150x112)
 - 2026-02-05: URL format: /wpisy_dla/ → /wpisy-dla/ (hyphen instead of underscore)
 - 2026-02-05: Phase 19 planned - new index page with dynamic content
+- 2026-02-05: Router service added - centralized URL generation with alias support
+- 2026-02-05: PayloadJsonGenerator updated to use Router with semantic URLs
 
 ---
 
-*Current stats: 5 tasks + 35 views = 40 registry entries, 253 tests, 36 e2e tests*
+*Current stats: 5 tasks + 35 views = 40 registry entries, 279 tests, 36 e2e tests*

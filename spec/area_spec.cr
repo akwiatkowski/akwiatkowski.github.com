@@ -178,7 +178,7 @@ describe AreaEntity do
         area_type: AreaType::Town
       )
 
-      entity.post_list_url.should eq "/wpisy_dla/gminy/pobiedziska.html"
+      entity.post_list_url.should eq "/wpisy-dla/gminy/pobiedziska.html"
     end
   end
 
