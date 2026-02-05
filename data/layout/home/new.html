@@ -1,0 +1,89 @@
+<div class="new-home">
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="{{ url.home }}" class="nav-logo">Odkrywając Polskę</a>
+      <ul class="nav-links">
+        <li><a href="{{ url.tag.bicycle }}">Rowerem</a></li>
+        <li><a href="{{ url.tag.hike }}">Pieszo</a></li>
+        <li><a href="{{ url.tag.best }}">Najlepsze</a></li>
+        <li><a href="{{ url.map }}">Mapa</a></li>
+        <li><a href="{{ url.about }}">O mnie</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-text">
+        <h1>
+          Polska, której nie zobaczysz
+          <span>z autostrady</span>
+        </h1>
+        <p>
+          Boczne drogi. Ciche wsie. Zapomniane krajobrazy.
+        </p>
+        <div class="hero-stats">
+          <div class="stat">
+            <span class="stat-value">{{stats.bike_distance}}</span>
+            <span class="stat-label">km rowerem</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value">{{stats.hike_distance}}</span>
+            <span class="stat-label">km pieszo</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value">{{stats.time_spent}}</span>
+            <span class="stat-label">godzin w terenie</span>
+          </div>
+        </div>
+      </div>
+      <a href="#" class="hero-image hero-loading">
+        <div class="hero-placeholder"></div>
+        <img src="" alt="" style="display: none;">
+        <div class="hero-image-caption">
+          <h3></h3>
+          <p></p>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <!-- Recent posts -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">Ostatnie wpisy</h2>
+      <a href="/tag/najnowsze.html" class="section-link">Zobacz wszystkie →</a>
+    </div>
+    <div class="posts-grid">
+      {{posts_grid}}
+    </div>
+  </section>
+
+  <!-- Categories / Explore -->
+  <section class="section-categories">
+    <div class="section-categories-inner">
+      <div class="section-header">
+        <h2 class="section-title">Odkrywaj</h2>
+      </div>
+      <div class="categories">
+        {{categories_chips}}
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <p class="footer-text">
+        Zdjęcia i treści © Aleksander Kwiatkowski
+      </p>
+      <div class="footer-links">
+        <a href="/o-mnie.html">O mnie</a>
+        <a href="/feed.rss">RSS</a>
+        <a href="https://github.com/akwiatkowski">GitHub</a>
+      </div>
+    </div>
+  </footer>
+</div>

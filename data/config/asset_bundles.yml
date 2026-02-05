@@ -30,6 +30,8 @@ bundles:
     css:
       - /css/self/new.css
 
+  # new-home-css is loaded directly via page_css in NewHomePageView
+
   # === JS Libraries ===
   bootstrap-js:
     js:

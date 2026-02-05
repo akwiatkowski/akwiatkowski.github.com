@@ -45,6 +45,11 @@ class Commands::GenerateAreasForPosts
         "code" => area.code || area.terc,
       } of String => String | Hash(String, Float64) | Nil
 
+      # special fix for voivodeships where name was uppercase
+      if name == "voivodeships"
+        entry["name"] = entry["name"].to_s.downcase
+      end
+
       # Add voivodeship for administrative areas
       if area.voivodeship
         entry["voivodeship"] = area.voivodeship

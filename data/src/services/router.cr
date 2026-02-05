@@ -105,31 +105,31 @@ class Router
   # Tag URLs
   # ============================================
 
-  # Show page: /tag/rowery.html
+  # Show page: /tag/rowerem.html (uses Polish slug)
   def tag_show_url(tag : TagEntity) : String
-    "/tag/#{tag.slug}.html"
+    tag_show_url(tag.slug_pl)
   end
 
-  def tag_show_url(slug : String) : String
-    "/tag/#{slug}.html"
+  def tag_show_url(slug_pl : String) : String
+    "/tag/#{slug_pl}.html"
   end
 
-  # Gallery page: /galeria/tag/rowery.html
+  # Gallery page: /galeria/tag/rowerem.html (uses Polish slug)
   def tag_gallery_url(tag : TagEntity) : String
-    "/galeria/tag/#{tag.slug}.html"
+    tag_gallery_url(tag.slug_pl)
   end
 
-  def tag_gallery_url(slug : String) : String
-    "/galeria/tag/#{slug}.html"
+  def tag_gallery_url(slug_pl : String) : String
+    "/galeria/tag/#{slug_pl}.html"
   end
 
-  # Post list page: /wpisy-dla/tag/rowery.html
+  # Post list page: /wpisy-dla/tag/rowerem.html (uses Polish slug)
   def tag_post_list_url(tag : TagEntity) : String
-    "/wpisy-dla/tag/#{tag.slug}.html"
+    tag_post_list_url(tag.slug_pl)
   end
 
-  def tag_post_list_url(slug : String) : String
-    "/wpisy-dla/tag/#{slug}.html"
+  def tag_post_list_url(slug_pl : String) : String
+    "/wpisy-dla/tagu/#{slug_pl}.html"
   end
 
   # Semantic alias - the URL to use when linking to a tag

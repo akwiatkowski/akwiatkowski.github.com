@@ -37,4 +37,22 @@ def register_entity_views(r : ViewRegistry)
       ctx.write_output(PostListView::TagDynamicView.new(context: ctx, tag: tag))
     end
   end
+
+  # ============================================
+  # View: Tag Legacy URL Redirects
+  # ============================================
+  #
+  # Redirects old /tag/{slug_pl}.html to new /wpisy-dla/tag/{slug_pl}.html
+  # Uses JavaScript redirect for temporary redirect (static site, no server-side 302)
+  #
+  r.register("Tags: legacy redirects", [:yamls], priority: 12) do |ctx|
+    ViewRegistry::Log.info { "Rendering tag legacy redirects" }
+    ctx.tags.each do |tag|
+      ctx.write_output(SpecialView::TemporaryRedirectView.new(
+        context: ctx,
+        old_url: tag.legacy_url,
+        new_url: tag.view_url
+      ))
+    end
+  end
 end

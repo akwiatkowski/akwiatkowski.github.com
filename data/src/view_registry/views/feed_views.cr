@@ -7,21 +7,22 @@
 # Current views:
 # 1. RSS feed - /feed.xml (priority: 50)
 # 2. Atom feed - /feed_atom.xml (priority: 51)
-# 3. Payload JSON - /data/payload.json (priority: 52)
-# 4. Ideas JSON - /data/ideas.json (priority: 53)
-# 5. Photos JSON - /data/photos.json (priority: 54)
-# 6. Train stations JSON - /data/train_stations.json (priority: 55)
-# 7. Nav stats JSON - /data/nav_stats.json (priority: 56)
-# 8. Sitemap - /sitemap.xml (priority: 57)
-# 9. Robots.txt - /robots.txt (priority: 58)
+# 3. Payload JSON - /payload.json (priority: 52)
+# 4. Homepage JSON - /jsons/homepage.json (priority: 52) - minimal data for post collection
+# 5. Ideas JSON - /ideas.json (priority: 53)
+# 6. Photos JSON - /photos.json (priority: 54)
+# 7. Train stations JSON - /train_stations.json (priority: 55)
+# 8. Nav stats JSON - /nav_stats.json (priority: 56)
+# 9. Sitemap - /sitemap.xml (priority: 57)
+# 10. Robots.txt - /robots.txt (priority: 58)
 #
 # Dependencies: [:posts, :yamls] for most, [:posts] for sitemap/robots
 #
 # Priority: 50-59 (after stats, before index)
 #
 # View classes used: SpecialView::RssGenerator, AtomGenerator,
-# PayloadJsonGenerator, IdeasJsonGenerator, PhotosJsonGenerator,
-# TrainStationsJsonGenerator, NavStatsJsonGenerator,
+# PayloadJsonGenerator, HomePageJsonGenerator, IdeasJsonGenerator,
+# PhotosJsonGenerator, TrainStationsJsonGenerator, NavStatsJsonGenerator,
 # Tremolite::Views::SiteMapGenerator, RobotGenerator
 # (loaded via renderer.cr)
 
@@ -83,10 +84,18 @@ def register_feed_views(r : ViewRegistry)
   #
   # These JSON files are consumed by JS frontend pages.
 
-  # Payload JSON - main data payload for JS apps
+  # Payload JSON - main data payload for JS apps (map, etc.)
   r.register("Feed: payload JSON", [:posts, :yamls], priority: 52) do |ctx|
     ViewRegistry::Log.debug { "Rendering payload JSON" }
     ctx.write_output(SpecialView::PayloadJsonGenerator.new(context: ctx))
+  end
+
+  # Homepage JSON - minimal payload for homepage post collection view
+  # Much smaller than payload.json (excludes coords, full area data)
+  # URL: /jsons/homepage.json
+  r.register("Feed: homepage JSON", [:posts, :yamls], priority: 52) do |ctx|
+    ViewRegistry::Log.debug { "Rendering homepage JSON" }
+    ctx.write_output(SpecialView::HomePageJsonGenerator.new(context: ctx))
   end
 
   # Ideas JSON - data for ideas/planning pages
