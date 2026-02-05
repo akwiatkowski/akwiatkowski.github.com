@@ -10,174 +10,174 @@ train_time_length: 203
 train_count: 32
 self_distance: 18277
 self_time_length: 2729
-updated_at: 2026-02-01 09:59:39.522276000+01:00
+updated_at: 2026-02-05 00:59:13.937862000+01:00
 voivodeships_nav:
-- name: Dolnośląskie
+- name: DOLNOŚLĄSKIE
   slug: dolnoslaskie
   type: voivodeship
   url: /wojewodztwo/dolnoslaskie.html
-  count: 138
-- name: Kujawsko-pomorskie
-  slug: kujawsko_pomorskie
+  count: 139
+- name: KUJAWSKO-POMORSKIE
+  slug: kujawskopomorskie
   type: voivodeship
-  url: /wojewodztwo/kujawsko_pomorskie.html
-  count: 46
-- name: Łódzkie
+  url: /wojewodztwo/kujawskopomorskie.html
+  count: 48
+- name: LUBUSKIE
+  slug: lubuskie
+  type: voivodeship
+  url: /wojewodztwo/lubuskie.html
+  count: 37
+- name: ŁÓDZKIE
   slug: lodzkie
   type: voivodeship
   url: /wojewodztwo/lodzkie.html
   count: 4
-- name: Lubuskie
-  slug: lubuskie
-  type: voivodeship
-  url: /wojewodztwo/lubuskie.html
-  count: 36
-- name: Małopolskie
+- name: MAŁOPOLSKIE
   slug: malopolskie
   type: voivodeship
   url: /wojewodztwo/malopolskie.html
-  count: 35
-- name: Mazowieckie
+  count: 37
+- name: MAZOWIECKIE
   slug: mazowieckie
   type: voivodeship
   url: /wojewodztwo/mazowieckie.html
   count: 2
-- name: Opolskie
+- name: OPOLSKIE
   slug: opolskie
   type: voivodeship
   url: /wojewodztwo/opolskie.html
   count: 6
-- name: Podkarpackie
+- name: PODKARPACKIE
   slug: podkarpackie
   type: voivodeship
   url: /wojewodztwo/podkarpackie.html
   count: 14
-- name: Podlaskie
+- name: PODLASKIE
   slug: podlaskie
   type: voivodeship
   url: /wojewodztwo/podlaskie.html
-  count: 14
-- name: Pomorskie
+  count: 15
+- name: POMORSKIE
   slug: pomorskie
   type: voivodeship
   url: /wojewodztwo/pomorskie.html
-  count: 46
-- name: Śląskie
+  count: 49
+- name: ŚLĄSKIE
   slug: slaskie
   type: voivodeship
   url: /wojewodztwo/slaskie.html
-  count: 9
-- name: Warmińsko-mazurskie
-  slug: warminsko_mazurskie
+  count: 10
+- name: WARMIŃSKO-MAZURSKIE
+  slug: warminskomazurskie
   type: voivodeship
-  url: /wojewodztwo/warminsko_mazurskie.html
-  count: 21
-- name: Zachodnio-pomorskie
-  slug: zachodnio_pomorskie
+  url: /wojewodztwo/warminskomazurskie.html
+  count: 27
+- name: ZACHODNIOPOMORSKIE
+  slug: zachodniopomorskie
   type: voivodeship
-  url: /wojewodztwo/zachodnio_pomorskie.html
-  count: 35
+  url: /wojewodztwo/zachodniopomorskie.html
+  count: 36
 lands_nav:
 - name: Równina Wrzesińska
   slug: rownina_wrzesinska
   type: lands
-  url: /kraina/rownina_wrzesinska.html
-  count: 106
+  url: /region/rownina_wrzesinska.html
+  count: 108
 - name: Pojezierze Poznańskie
   slug: pojezierze_poznanskie
   type: lands
-  url: /kraina/pojezierze_poznanskie.html
-  count: 92
+  url: /region/pojezierze_poznanskie.html
+  count: 96
 - name: Pojezierze Gnieźnieńskie
   slug: pojezierze_gnieznienskie
   type: lands
-  url: /kraina/pojezierze_gnieznienskie.html
-  count: 88
+  url: /region/pojezierze_gnieznienskie.html
+  count: 89
+- name: Poznański Przełom Warty
+  slug: poznanski_przelom_warty
+  type: lands
+  url: /region/poznanski_przelom_warty.html
+  count: 37
 - name: Karkonosze
   slug: karkonosze
   type: lands
-  url: /kraina/karkonosze.html
+  url: /region/karkonosze.html
   count: 36
 - name: Kotlina Gorzowska
   slug: kotlina_gorzowska
   type: lands
-  url: /kraina/kotlina_gorzowska.html
-  count: 34
-- name: Pojezierze Kaszubskie
-  slug: pojezierze_kaszubskie
-  type: lands
-  url: /kraina/pojezierze_kaszubskie.html
-  count: 27
+  url: /region/kotlina_gorzowska.html
+  count: 35
 - name: Kotlina Jeleniogórska
   slug: kotlina_jeleniogorska
   type: lands
-  url: /kraina/kotlina_jeleniogorska.html
-  count: 26
+  url: /region/kotlina_jeleniogorska.html
+  count: 28
+- name: Pojezierze Kaszubskie
+  slug: pojezierze_kaszubskie
+  type: lands
+  url: /region/pojezierze_kaszubskie.html
+  count: 27
 - name: Wysoczyzna Grodziska
   slug: wysoczyzna_grodziska
   type: lands
-  url: /kraina/wysoczyzna_grodziska.html
-  count: 25
+  url: /region/wysoczyzna_grodziska.html
+  count: 26
 - name: Pojezierze Żnińsko-Mogileńskie
   slug: pojezierze_zninskomogilenskie
   type: lands
-  url: /kraina/pojezierze_zninskomogilenskie.html
-  count: 25
+  url: /region/pojezierze_zninskomogilenskie.html
+  count: 26
 - name: Góry Kaczawskie
   slug: gory_kaczawskie
   type: lands
-  url: /kraina/gory_kaczawskie.html
+  url: /region/gory_kaczawskie.html
+  count: 23
+- name: Rudawy Janowickie
+  slug: rudawy_janowickie
+  type: lands
+  url: /region/rudawy_janowickie.html
   count: 22
 - name: Kotlina Śremska
   slug: kotlina_sremska
   type: lands
-  url: /kraina/kotlina_sremska.html
-  count: 21
-- name: Rudawy Janowickie
-  slug: rudawy_janowickie
-  type: lands
-  url: /kraina/rudawy_janowickie.html
+  url: /region/kotlina_sremska.html
   count: 21
 - name: Góry Izerskie
   slug: gory_izerskie
   type: lands
-  url: /kraina/gory_izerskie.html
-  count: 19
-- name: Beskid Niski
-  slug: beskid_niski
-  type: lands
-  url: /kraina/beskid_niski.html
-  count: 17
+  url: /region/gory_izerskie.html
+  count: 20
 - name: Pojezierze Chodzieskie
   slug: pojezierze_chodzieskie
   type: lands
-  url: /kraina/pojezierze_chodzieskie.html
+  url: /region/pojezierze_chodzieskie.html
+  count: 18
+- name: Beskid Niski
+  slug: beskid_niski
+  type: lands
+  url: /region/beskid_niski.html
   count: 17
 - name: Bory Tucholskie
   slug: bory_tucholskie
   type: lands
-  url: /kraina/bory_tucholskie.html
+  url: /region/bory_tucholskie.html
+  count: 17
+- name: Bruzda Zbąszyńska
+  slug: bruzda_zbaszynska
+  type: lands
+  url: /region/bruzda_zbaszynska.html
   count: 16
 - name: Równina Nowotomyska
   slug: rownina_nowotomyska
   type: lands
-  url: /kraina/rownina_nowotomyska.html
+  url: /region/rownina_nowotomyska.html
   count: 16
-- name: Bruzda Zbąszyńska
-  slug: bruzda_zbaszynska
+- name: Góry Wałbrzyskie
+  slug: gory_walbrzyskie
   type: lands
-  url: /kraina/bruzda_zbaszynska.html
-  count: 14
-- name: Rów Górnej Nysy
-  slug: row_gornej_nysy
-  type: lands
-  url: /kraina/row_gornej_nysy.html
-  count: 14
-- name: Góry Bystrzyckie
-  slug: gory_bystrzyckie
-  type: lands
-  url: /kraina/gory_bystrzyckie.html
-  count: 14
+  url: /region/gory_walbrzyskie.html
+  count: 16
 tags_nav:
 - name: Najlepsze
   slug: best

@@ -1,4 +1,4 @@
-require "../../../data/src/tremolite/src/tremolite/tremolite"
+require "../../../data/src/tremolite/tremolite"
 require "../../../data/src/blog"
 
 env_path = File.join(["env", "full"])
