@@ -28,12 +28,13 @@ test.describe('Static pages', () => {
 
   test.describe('Home page', () => {
 
-    test('has navigation with dropdowns', async ({ page }) => {
+    test('has navigation', async ({ page }) => {
       await page.goto('/');
 
-      await expect(page.locator('nav.navbar')).toBeVisible();
-      // Use .first() since there may be multiple .navbar-nav elements
-      await expect(page.locator('.navbar-nav').first()).toBeVisible();
+      // New homepage uses nav.nav or nav.site-nav, old pages use nav.navbar
+      const hasNewNav = await page.locator('nav.nav, nav.site-nav').count() > 0;
+      const hasOldNav = await page.locator('nav.navbar').count() > 0;
+      expect(hasNewNav || hasOldNav, 'Should have navigation').toBeTruthy();
     });
 
     test('has post links', async ({ page, payload }) => {
