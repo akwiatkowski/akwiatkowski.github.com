@@ -109,6 +109,28 @@ test.describe('Homepage', () => {
       expect(Array.isArray(json.tags)).toBe(true);
     });
 
+    test('stats are not zero', async ({ page }) => {
+      await page.goto('/');
+
+      // Get stat values from the page
+      const bikeDistance = await page.locator('.stat-value').first().textContent();
+      const hikeDistance = await page.locator('.stat-value').nth(1).textContent();
+      const timeSpent = await page.locator('.stat-value').nth(2).textContent();
+
+      // Parse as numbers
+      const bikeKm = parseInt(bikeDistance || '0', 10);
+      const hikeKm = parseInt(hikeDistance || '0', 10);
+      const hours = parseInt(timeSpent || '0', 10);
+
+      // At least one of bike/hike should be non-zero (depends on data)
+      // Time spent should definitely be non-zero if there are any ready posts
+      expect(bikeKm + hikeKm, 'Total distance (bike + hike) should be greater than 0').toBeGreaterThan(0);
+      expect(hours, 'Time spent should be greater than 0').toBeGreaterThan(0);
+
+      // Log actual values for debugging
+      console.log(`Stats: bike=${bikeKm}km, hike=${hikeKm}km, time=${hours}h`);
+    });
+
   });
 
   test.describe('Dynamic content loads', () => {
