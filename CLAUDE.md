@@ -105,6 +105,8 @@ data/src/services/
 data/layout/
 ├── area/
 │   └── show.html        # Area show page template (React/Leaflet, uses placeholders)
+├── planner/
+│   └── planner.html     # Photo planner template (Leaflet grid map)
 ├── page.html            # Standard page wrapper
 └── ...
 ```
@@ -265,7 +267,7 @@ Views declare which asset bundles they need via the `AssetAware` module (include
 
 Bundles are defined in `data/config/asset_bundles.yml`:
 - **Granular bundles**: `bootstrap-css`, `leaflet-js`, `react`, etc.
-- **Composites**: `core` (includes Bootstrap, jQuery, nav), `leaflet`, `openlayers`
+- **Composites**: `core` (includes Bootstrap, nav), `leaflet`
 
 ### Declaring Bundles in Views
 
@@ -299,6 +301,7 @@ end
 | `AreaShowView` | `["core", "leaflet", "react-runtime"]` |
 | `RouteMapView` | `["core", "leaflet"]` |
 | `TripIdeasView` | `["core", "ideas-css", "leaflet", "react-runtime"]` |
+| `PhotoPlannerView` | `["core", "leaflet"]` + page_css: `["planner"]` |
 | `GalleryView::AbstractView` | `["core", "gallery"]` |
 
 ## URL Patterns
@@ -527,7 +530,12 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-06: Map page renamed: /mapa.html → /mapa_tras.html (MapView → RouteMapView)
 - 2026-02-06: Photo map renamed: /mapa2.html → /mapa_zdjec.html (JsPanoramioView → PhotoMapView)
 - 2026-02-06: More page (/wiecej.html) - added links to timeline and route map
+- 2026-02-06: Photo planner overhaul - pomysly2→pomysly_dla_zdjec, integrated layout, dark mode
+- 2026-02-06: PhotoGridJsonGenerator created (14KB vs 20MB photos.json)
+- 2026-02-06: TrainStationsJsonGenerator fixed - poznan_time_distance (number) not time_distance (hash)
+- 2026-02-06: Deleted old bicycle planner templates and BlogPlanner scripts
+- 2026-02-06: Feed view priorities shifted: photo_grid(56), nav_stats(57), sitemap(58), robots(59)
 
 ---
 
-*Current stats: 5 tasks + 35 views = 40 registry entries, 275 tests, 82 e2e tests*
+*Current stats: 5 tasks + 42 views = 47 registry entries, 275 tests, ~93 e2e tests*
