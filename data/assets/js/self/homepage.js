@@ -260,7 +260,7 @@
     }
 
     // Add map chip
-    chips.push({ name: 'Mapa', url: '/mapa.html', icon: 'map' });
+    chips.push({ name: 'Mapa', url: '/mapa_tras.html', icon: 'map' });
 
     return chips;
   }

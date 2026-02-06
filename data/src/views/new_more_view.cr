@@ -81,7 +81,9 @@ class NewMoreView < BaseView
   # Each link is rendered as a card with icon, name and description
   private def build_links_html : String
     links = [
-      {name: "Mapa zdjęć", url: "/mapa2.html", icon: "photos", desc: "Przeglądaj zdjęcia na mapie w stylu Panoramio"},
+      {name: "Mapa zdjęć", url: "/mapa_zdjec.html", icon: "photos", desc: "Przeglądaj zdjęcia na mapie w stylu Panoramio"},
+      {name: "Linia czasu", url: "/linia_czasu.html", icon: "clock", desc: "Zdjęcia ułożone według miesiąca i dnia roku"},
+      {name: "Mapa tras", url: "/mapa_tras.html", icon: "map", desc: "Interaktywna mapa z trasami wycieczek"},
     ]
 
     String.build do |s|

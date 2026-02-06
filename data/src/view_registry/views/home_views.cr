@@ -6,7 +6,7 @@
 # Current views:
 # 1. Home page (old) - /index.old.html (priority: 20)
 # 2. New Home page - / (priority: 20)
-# 3. Map page - /mapa.html (priority: 21)
+# 3. Route map page - /mapa_tras.html (priority: 21)
 # 4. POIs page - /pois.html (priority: 22)
 #
 # Dependencies: [:posts]
@@ -15,7 +15,7 @@
 # Priority: 20-29 (after entity views)
 #
 # View classes used: PostListView::CollectionDynamicView,
-# StaticView::MapView, PoisView, NewHomePageView
+# StaticView::RouteMapView, PoisView, NewHomePageView
 # (loaded via renderer.cr)
 
 def register_home_views(r : ViewRegistry)
@@ -60,17 +60,17 @@ def register_home_views(r : ViewRegistry)
   # View: Map Page
   # ============================================
   #
-  # Renders the interactive map page showing all post locations.
+  # Renders the interactive route map page showing all post locations.
   # This is a JS-heavy page that loads data via JSON.
   #
-  # URL: /mapa.html
-  # View class: StaticView::MapView
+  # URL: /mapa_tras.html
+  # View class: StaticView::RouteMapView
   #
   # Dependencies: [:posts]
   #
-  r.register("Home: map page", [:posts], priority: 21) do |ctx|
-    ViewRegistry::Log.info { "Rendering map page" }
-    ctx.write_output(StaticView::MapView.new(context: ctx))
+  r.register("Home: route map page", [:posts], priority: 21) do |ctx|
+    ViewRegistry::Log.info { "Rendering route map page" }
+    ctx.write_output(StaticView::RouteMapView.new(context: ctx))
   end
 
   # ============================================

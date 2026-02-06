@@ -66,11 +66,11 @@ test.describe('Map pages', () => {
 
   });
 
-  test.describe('/mapa.html - Main map', () => {
+  test.describe('/mapa_tras.html - Main map', () => {
 
     test('loads without JS errors', async ({ pageWithErrorTracking }) => {
       const page = pageWithErrorTracking;
-      await page.goto('/mapa.html');
+      await page.goto('/mapa_tras.html');
       await expectNoJsErrors(page);
     });
 
@@ -84,7 +84,7 @@ test.describe('Map pages', () => {
         }
       });
 
-      await page.goto('/mapa.html');
+      await page.goto('/mapa_tras.html');
       await page.waitForTimeout(2000); // Wait for fetch to complete
 
       // Should fetch map.json
@@ -97,21 +97,21 @@ test.describe('Map pages', () => {
     });
 
     test('renders Leaflet map container', async ({ page }) => {
-      await page.goto('/mapa.html');
+      await page.goto('/mapa_tras.html');
 
       // Wait for map initialization
       await expect(page.locator('.leaflet-container')).toBeVisible({ timeout: 10000 });
     });
 
     test('loads map tiles', async ({ page }) => {
-      await page.goto('/mapa.html');
+      await page.goto('/mapa_tras.html');
 
       // Wait for tiles to load
       await expect(page.locator('.leaflet-tile-loaded').first()).toBeVisible({ timeout: 15000 });
     });
 
     test('has route polylines on map', async ({ page, payload }) => {
-      await page.goto('/mapa.html');
+      await page.goto('/mapa_tras.html');
 
       // Wait for map to initialize
       await expect(page.locator('.leaflet-container')).toBeVisible({ timeout: 10000 });
@@ -129,7 +129,7 @@ test.describe('Map pages', () => {
     });
 
     test('clicking route shows popup', async ({ page }) => {
-      await page.goto('/mapa.html');
+      await page.goto('/mapa_tras.html');
       await expect(page.locator('.leaflet-container')).toBeVisible({ timeout: 10000 });
 
       // Wait for routes to fully render (SVG paths need time to initialize events)
@@ -156,11 +156,11 @@ test.describe('Map pages', () => {
 
   });
 
-  test.describe('/mapa2.html - Panoramio map', () => {
+  test.describe('/mapa_zdjec.html - Panoramio map', () => {
 
     test('loads without JS errors', async ({ pageWithErrorTracking }) => {
       const page = pageWithErrorTracking;
-      await page.goto('/mapa2.html');
+      await page.goto('/mapa_zdjec.html');
 
       // Wait for React to render
       await page.waitForTimeout(1000);
@@ -168,14 +168,14 @@ test.describe('Map pages', () => {
     });
 
     test('renders React app', async ({ page }) => {
-      await page.goto('/mapa2.html');
+      await page.goto('/mapa_zdjec.html');
 
       // Root element should have content
       await expect(page.locator('#root')).not.toBeEmpty({ timeout: 10000 });
     });
 
     test('shows map and sidebar', async ({ page }) => {
-      await page.goto('/mapa2.html');
+      await page.goto('/mapa_zdjec.html');
 
       // Use .first() since compound selector may match multiple elements
       await expect(page.locator('.leaflet-container, #map').first()).toBeVisible({ timeout: 10000 });
@@ -183,7 +183,7 @@ test.describe('Map pages', () => {
     });
 
     test('has photo markers on map', async ({ page }) => {
-      await page.goto('/mapa2.html');
+      await page.goto('/mapa_zdjec.html');
 
       // Wait for photos to load and markers to render
       await page.waitForTimeout(2000);
@@ -196,7 +196,7 @@ test.describe('Map pages', () => {
     });
 
     test('has photos in sidebar', async ({ page }) => {
-      await page.goto('/mapa2.html');
+      await page.goto('/mapa_zdjec.html');
 
       // Wait for photos to load
       await page.waitForTimeout(2000);
@@ -209,7 +209,7 @@ test.describe('Map pages', () => {
     });
 
     test('sidebar shows photo count', async ({ page }) => {
-      await page.goto('/mapa2.html');
+      await page.goto('/mapa_zdjec.html');
 
       // Wait for photos to load
       await page.waitForTimeout(2000);
@@ -222,7 +222,7 @@ test.describe('Map pages', () => {
     });
 
     test('clicking photo in sidebar opens modal', async ({ page }) => {
-      await page.goto('/mapa2.html');
+      await page.goto('/mapa_zdjec.html');
 
       // Wait for photos to load
       await page.waitForTimeout(2000);
@@ -237,7 +237,7 @@ test.describe('Map pages', () => {
     });
 
     test('clicking marker opens modal', async ({ page }) => {
-      await page.goto('/mapa2.html');
+      await page.goto('/mapa_zdjec.html');
 
       // Wait for markers to load
       await page.waitForTimeout(2000);

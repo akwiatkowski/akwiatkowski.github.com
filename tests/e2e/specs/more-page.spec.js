@@ -73,11 +73,11 @@ test.describe('More page (/wiecej.html)', () => {
     await page.goto('/wiecej.html');
 
     // Find the panoramio/mapa2 link
-    const mapa2Link = page.locator('.more-link[href="/mapa2.html"]');
+    const mapa2Link = page.locator('.more-link[href="/mapa_zdjec.html"]');
     await expect(mapa2Link).toBeVisible();
 
     // Verify the page exists
-    const response = await request.get('/mapa2.html');
+    const response = await request.get('/mapa_zdjec.html');
     expect(response.status()).toBe(200);
   });
 
@@ -85,12 +85,12 @@ test.describe('More page (/wiecej.html)', () => {
     await page.goto('/wiecej.html');
 
     // Click the panoramio/mapa2 link
-    const mapa2Link = page.locator('.more-link[href="/mapa2.html"]');
+    const mapa2Link = page.locator('.more-link[href="/mapa_zdjec.html"]');
     await mapa2Link.click();
 
     // Should navigate to the page
     await page.waitForLoadState('networkidle');
-    expect(page.url()).toContain('/mapa2.html');
+    expect(page.url()).toContain('/mapa_zdjec.html');
 
     // Page should have content
     await expect(page.locator('body')).not.toBeEmpty();

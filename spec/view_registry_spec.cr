@@ -179,7 +179,7 @@ describe "setup_view_registry" do
       # - Stats views: 5 (summary, year reports, burnout, towns history, towns timeline)
       # - Feed views: 11 (RSS, Atom, 7x JSON, sitemap, robots)
       # - Index views: 1 (towns only - lands deprecated)
-      # - Static views: 9 (new more, more old, about, english, JS ideas, JS timeline, JS panoramio, JS exif stats, JS bicycle planner)
+      # - Static views: 9 (new more, more old, about, english, JS ideas, JS timeline, photo map, JS exif stats, JS bicycle planner)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
       r.views.size.should eq(41)
     end
@@ -201,7 +201,7 @@ describe "setup_view_registry" do
 
       view_names.should contain("Home: main page")
       view_names.should contain("Home: old home page")
-      view_names.should contain("Home: map page")
+      view_names.should contain("Home: route map page")
       view_names.should contain("Home: POIs page")
     end
 
@@ -242,7 +242,7 @@ describe "setup_view_registry" do
       view_names.should contain("Static: english page")
       view_names.should contain("Static: JS ideas")
       view_names.should contain("Static: JS timeline")
-      view_names.should contain("Static: JS panoramio")
+      view_names.should contain("Static: photo map")
       view_names.should contain("Static: JS exif stats")
     end
 
@@ -496,7 +496,7 @@ describe "setup_view_registry" do
 
       # Home views
       names.should contain("Home: main page")
-      names.should contain("Home: map page")
+      names.should contain("Home: route map page")
 
       # Stats views
       names.should contain("Stats: summary page")

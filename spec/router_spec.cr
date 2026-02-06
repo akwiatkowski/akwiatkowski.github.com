@@ -125,8 +125,8 @@ describe Router do
       router.home_url.should eq "/"
     end
 
-    it "#map_url returns /mapa.html" do
-      router.map_url.should eq "/mapa.html"
+    it "#map_url returns /mapa_tras.html" do
+      router.map_url.should eq "/mapa_tras.html"
     end
 
     it "#summary_url returns /podsumowanie.html" do

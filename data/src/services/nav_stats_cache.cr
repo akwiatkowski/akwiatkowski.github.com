@@ -142,7 +142,7 @@ class NavStatsCache
     end
     h["current_year"] = Time.local.year.to_s
 
-    h["url.map"] = StaticView::MapView::URL
+    h["url.map"] = StaticView::RouteMapView::URL
     h["url.more"] = StaticView::MoreView::URL
     h["url.gallery"] = GalleryView::IndexView::URL
 

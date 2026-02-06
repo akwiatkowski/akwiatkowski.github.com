@@ -1,12 +1,12 @@
 module StaticView
-  class JsPanoramioView < BaseView
+  class PhotoMapView < BaseView
     Log = ::Log.for(self)
 
     def initialize(context : RenderContext, @url : String)
       super(context: context, url: @url)
     end
 
-    # Panoramio page uses React for UI and Leaflet for map
+    # Photo map page uses React for UI and Leaflet for map
     def additional_bundles : Array(String)
       ["leaflet", "react-runtime"]
     end

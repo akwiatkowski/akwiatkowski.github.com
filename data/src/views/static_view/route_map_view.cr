@@ -1,8 +1,8 @@
 require "../base_view"
 
 module StaticView
-  class MapView < BaseView
-    URL = "/mapa.html"
+  class RouteMapView < BaseView
+    URL = "/mapa_tras.html"
 
     Log = ::Log.for(self)
 

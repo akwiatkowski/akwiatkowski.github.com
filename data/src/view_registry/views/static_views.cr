@@ -12,7 +12,7 @@
 # 3. English page - /en/index.html (priority: 92)
 # 4. JS Ideas page - /pomysly.html (priority: 93)
 # 5. JS Timeline page - /linia_czasu.html (priority: 94)
-# 6. JS Panoramio page - /mapa2.html (priority: 95)
+# 6. Photo map page - /mapa_zdjec.html (priority: 95)
 # 7. JS Exif Stats page - /exif_statystyki.html (priority: 96)
 # 8. JS Bicycle Planner page - /pomysly2.html (priority: 97)
 #
@@ -23,7 +23,7 @@
 # Priority: 90-99 (near the end, low priority)
 #
 # View classes used: NewMoreView, StaticView::MoreView, JsIdeasView, JsTimelineView,
-# JsPanoramioView, JsExifView, MarkdownPageView
+# PhotoMapView, JsExifView, MarkdownPageView
 # (loaded via renderer.cr)
 
 def register_static_views(r : ViewRegistry)
@@ -148,17 +148,17 @@ def register_static_views(r : ViewRegistry)
   end
 
   # ============================================
-  # View: JS Panoramio Page
+  # View: Photo Map Page
   # ============================================
   #
-  # Alternative map view (panoramio-style).
+  # Photo map view (panoramio-style).
   #
-  # URL: /mapa2.html
-  # View class: StaticView::JsPanoramioView
+  # URL: /mapa_zdjec.html
+  # View class: StaticView::PhotoMapView
   #
-  r.register("Static: JS panoramio", [:posts], priority: 95) do |ctx|
-    ViewRegistry::Log.debug { "Rendering JS panoramio page" }
-    ctx.write_output(StaticView::JsPanoramioView.new(context: ctx, url: "mapa2.html"))
+  r.register("Static: photo map", [:posts], priority: 95) do |ctx|
+    ViewRegistry::Log.debug { "Rendering photo map page" }
+    ctx.write_output(StaticView::PhotoMapView.new(context: ctx, url: "mapa_zdjec.html"))
   end
 
   # ============================================

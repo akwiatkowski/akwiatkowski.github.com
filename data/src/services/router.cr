@@ -225,7 +225,7 @@ class Router
   end
 
   def map_url : String
-    "/mapa.html"
+    "/mapa_tras.html"
   end
 
   def summary_url : String

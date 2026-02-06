@@ -98,7 +98,7 @@ def register_feed_views(r : ViewRegistry)
     ctx.write_output(SpecialView::HomePageJsonGenerator.new(context: ctx))
   end
 
-  # Map JSON - optimized payload for /mapa.html
+  # Map JSON - optimized payload for /mapa_tras.html
   # Only posts with coords, minimal fields (no area entities)
   # URL: /jsons/map.json
   r.register("Feed: map JSON", [:posts, :yamls], priority: 52) do |ctx|

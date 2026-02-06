@@ -297,7 +297,7 @@ end
 |------|---------|
 | `BaseView` | `["core"]` |
 | `AreaShowView` | `["core", "leaflet", "react-runtime"]` |
-| `MapView` | `["core", "leaflet"]` |
+| `RouteMapView` | `["core", "leaflet"]` |
 | `JsIdeasView` | `["core", "ideas-css", "leaflet", "react-runtime"]` |
 | `GalleryView::AbstractView` | `["core", "gallery"]` |
 
@@ -524,7 +524,10 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-05: HomePageJsonGenerator added at /jsons/homepage.json (6KB vs 836KB payload.json)
 - 2026-02-05: Router DRY fix - tag methods delegate to slug-based overloads
 - 2026-02-05: Tag URLs now use slug_pl (Polish) - English slug for matching only
+- 2026-02-06: Map page renamed: /mapa.html → /mapa_tras.html (MapView → RouteMapView)
+- 2026-02-06: Photo map renamed: /mapa2.html → /mapa_zdjec.html (JsPanoramioView → PhotoMapView)
+- 2026-02-06: More page (/wiecej.html) - added links to timeline and route map
 
 ---
 
-*Current stats: 5 tasks + 35 views = 40 registry entries, 279 tests, 36 e2e tests*
+*Current stats: 5 tasks + 35 views = 40 registry entries, 275 tests, 82 e2e tests*

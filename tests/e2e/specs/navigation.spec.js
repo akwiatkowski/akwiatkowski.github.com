@@ -9,7 +9,7 @@ test.describe('Navigation styling', () => {
     { url: '/', name: 'Homepage' },
     { url: '/wiecej.html', name: 'More page' },
     { url: '/wpisy-dla/tagu/rowerem.html', name: 'Tag page' },
-    { url: '/mapa.html', name: 'Map page' },
+    { url: '/mapa_tras.html', name: 'Map page' },
     { url: '/o-mnie.html', name: 'About page' },
   ];
 

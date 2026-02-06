@@ -64,7 +64,7 @@ tests/e2e/
 └── specs/
     ├── smoke.spec.js       # Quick existence checks (all URLs return 200)
     ├── posts.spec.js       # Post article pages
-    ├── map.spec.js         # Map pages (mapa.html, mapa2.html)
+    ├── map.spec.js         # Map pages (mapa_tras.html, mapa_zdjec.html)
     ├── gallery.spec.js     # Gallery pages
     ├── static.spec.js      # Static pages (home, about, etc.)
     └── js-pages.spec.js    # JS-heavy pages (ideas, timeline, etc.)

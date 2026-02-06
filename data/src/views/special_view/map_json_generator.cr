@@ -1,7 +1,7 @@
 require "json"
 
 module SpecialView
-  # Optimized JSON endpoint for /mapa.html
+  # Optimized JSON endpoint for /mapa_tras.html
   # Only includes posts with GPS coords and minimal fields needed for map display
   # Expected size: ~300KB vs 5MB for full payload.json
   class MapJsonGenerator < Tremolite::Views::AbstractView

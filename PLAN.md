@@ -36,7 +36,7 @@
 
 | Page | URL | Fields Used |
 |------|-----|-------------|
-| **Map** | `/mapa.html` | coords, date, distance, time_spent, url, title, card_image_url |
+| **Map** | `/mapa_tras.html` | coords, date, distance, time_spent, url, title, card_image_url |
 | **Summary** | `/podsumowanie.html` | posts basic info, towns→voivodeship hierarchy, NO coords |
 | **Area Show** | `/gmina/*.html` | posts filtered by area, coords for map |
 
@@ -65,7 +65,7 @@
 | Page | URL | JS File | Key Requirements |
 |------|-----|---------|------------------|
 | **Timeline** | `/linia_czasu.html` | timeline.js | All photos, full EXIF for modal |
-| **Photo Map** | `/mapa2.html` | panoramio.html | Only photos WITH lat/lon |
+| **Photo Map** | `/mapa_zdjec.html` | panoramio.html | Only photos WITH lat/lon |
 | **Area Show** | `/gmina/*.html` | area_show.js | Filter by post_slug |
 
 **Field usage matrix:**
@@ -181,14 +181,16 @@
 Infrastructure in `tests/e2e/`:
 - `specs/smoke.spec.js` - All URLs from payload.json return 200
 - `specs/posts.spec.js` - Post article pages
-- `specs/map.spec.js` - Map pages (mapa.html, mapa2.html)
+- `specs/map.spec.js` - Map pages (mapa_tras.html, mapa_zdjec.html)
 - `specs/gallery.spec.js` - Gallery pages
 - `specs/static.spec.js` - Static pages
 - `specs/js-pages.spec.js` - JS-heavy pages
 - `specs/homepage.spec.js` - Homepage links, JSON, dynamic content
 - `specs/tag-filtering.spec.js` - Tag post list filtering
+- `specs/navigation.spec.js` - Navigation styling across pages
+- `specs/more-page.spec.js` - More page links
 
-**Latest Results: 44 passed, 0 failed, 5 skipped**
+**Latest Results: 82 passed, 0 failed, 5 skipped**
 
 **Run E2E tests:**
 ```bash

@@ -1,9 +1,9 @@
 require "../spec_helper"
 
 describe StaticView do
-  describe StaticView::MapView do
+  describe StaticView::RouteMapView do
     it "exists" do
-      StaticView::MapView.should_not be_nil
+      StaticView::RouteMapView.should_not be_nil
     end
   end
 
@@ -19,9 +19,9 @@ describe StaticView do
     end
   end
 
-  describe StaticView::JsPanoramioView do
+  describe StaticView::PhotoMapView do
     it "exists" do
-      StaticView::JsPanoramioView.should_not be_nil
+      StaticView::PhotoMapView.should_not be_nil
     end
   end
 
