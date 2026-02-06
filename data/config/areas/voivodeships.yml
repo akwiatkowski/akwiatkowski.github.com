@@ -1,6 +1,6 @@
 ---
 - slug: dolnoslaskie
-  name: DOLNOŚLĄSKIE
+  name: dolnośląskie
   code: "02"
   voivodeship: dolnoslaskie
   bbox:
@@ -9,7 +9,7 @@
     west: 14.819560486000057
     east: 17.79526917000004
 - slug: kujawskopomorskie
-  name: KUJAWSKO-POMORSKIE
+  name: kujawsko-pomorskie
   code: "04"
   voivodeship: kujawsko-pomorskie
   bbox:
@@ -18,7 +18,7 @@
     west: 17.247740348000036
     east: 19.761595214000067
 - slug: lubelskie
-  name: LUBELSKIE
+  name: lubelskie
   code: "06"
   voivodeship: lubelskie
   bbox:
@@ -27,7 +27,7 @@
     west: 21.615542532000063
     east: 24.145036436000055
 - slug: lubuskie
-  name: LUBUSKIE
+  name: lubuskie
   code: 08
   voivodeship: lubuskie
   bbox:
@@ -36,7 +36,7 @@
     west: 14.534579787000041
     east: 16.416190834000076
 - slug: lodzkie
-  name: ŁÓDZKIE
+  name: łódzkie
   code: "10"
   voivodeship: lodzkie
   bbox:
@@ -45,7 +45,7 @@
     west: 18.074521495000056
     east: 20.659258254000065
 - slug: malopolskie
-  name: MAŁOPOLSKIE
+  name: małopolskie
   code: "12"
   voivodeship: malopolskie
   bbox:
@@ -54,7 +54,7 @@
     west: 19.093209873000035
     east: 21.42092883500004
 - slug: mazowieckie
-  name: MAZOWIECKIE
+  name: mazowieckie
   code: "14"
   voivodeship: mazowieckie
   bbox:
@@ -63,7 +63,7 @@
     west: 19.259214418000056
     east: 23.12840894200008
 - slug: opolskie
-  name: OPOLSKIE
+  name: opolskie
   code: "16"
   voivodeship: opolskie
   bbox:
@@ -72,7 +72,7 @@
     west: 16.90790288200003
     east: 18.695486740000035
 - slug: podkarpackie
-  name: PODKARPACKIE
+  name: podkarpackie
   code: "18"
   voivodeship: podkarpackie
   bbox:
@@ -81,7 +81,7 @@
     west: 21.14211164900007
     east: 23.547882552000033
 - slug: podlaskie
-  name: PODLASKIE
+  name: podlaskie
   code: "20"
   voivodeship: podlaskie
   bbox:
@@ -90,7 +90,7 @@
     west: 21.603625656000077
     east: 23.946270238000068
 - slug: pomorskie
-  name: POMORSKIE
+  name: pomorskie
   code: "22"
   voivodeship: pomorskie
   bbox:
@@ -99,7 +99,7 @@
     west: 16.699086545000057
     east: 19.648735518000024
 - slug: slaskie
-  name: ŚLĄSKIE
+  name: śląskie
   code: "24"
   voivodeship: slaskie
   bbox:
@@ -108,7 +108,7 @@
     west: 18.035038262000057
     east: 19.963978162000046
 - slug: swietokrzyskie
-  name: ŚWIĘTOKRZYSKIE
+  name: świętokrzyskie
   code: "26"
   voivodeship: swietokrzyskie
   bbox:
@@ -117,7 +117,7 @@
     west: 19.704303518000074
     east: 21.866513201000032
 - slug: warminskomazurskie
-  name: WARMIŃSKO-MAZURSKIE
+  name: warmińsko-mazurskie
   code: "28"
   voivodeship: warminsko-mazurskie
   bbox:
@@ -126,7 +126,7 @@
     west: 19.129276454000035
     east: 22.806144854000024
 - slug: wielkopolskie
-  name: WIELKOPOLSKIE
+  name: wielkopolskie
   code: "30"
   voivodeship: wielkopolskie
   bbox:
@@ -135,7 +135,7 @@
     west: 15.776346211000032
     east: 19.102428099000065
 - slug: zachodniopomorskie
-  name: ZACHODNIOPOMORSKIE
+  name: zachodniopomorskie
   code: "32"
   voivodeship: zachodniopomorskie
   bbox:

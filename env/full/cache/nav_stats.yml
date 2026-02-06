@@ -10,69 +10,69 @@ train_time_length: 203
 train_count: 32
 self_distance: 18277
 self_time_length: 2729
-updated_at: 2026-02-05 00:59:13.937862000+01:00
+updated_at: 2026-02-05 17:54:20.672116000+01:00
 voivodeships_nav:
-- name: DOLNOŚLĄSKIE
+- name: dolnośląskie
   slug: dolnoslaskie
   type: voivodeship
   url: /wojewodztwo/dolnoslaskie.html
   count: 139
-- name: KUJAWSKO-POMORSKIE
+- name: kujawsko-pomorskie
   slug: kujawskopomorskie
   type: voivodeship
   url: /wojewodztwo/kujawskopomorskie.html
   count: 48
-- name: LUBUSKIE
+- name: lubuskie
   slug: lubuskie
   type: voivodeship
   url: /wojewodztwo/lubuskie.html
   count: 37
-- name: ŁÓDZKIE
+- name: łódzkie
   slug: lodzkie
   type: voivodeship
   url: /wojewodztwo/lodzkie.html
   count: 4
-- name: MAŁOPOLSKIE
+- name: małopolskie
   slug: malopolskie
   type: voivodeship
   url: /wojewodztwo/malopolskie.html
   count: 37
-- name: MAZOWIECKIE
+- name: mazowieckie
   slug: mazowieckie
   type: voivodeship
   url: /wojewodztwo/mazowieckie.html
   count: 2
-- name: OPOLSKIE
+- name: opolskie
   slug: opolskie
   type: voivodeship
   url: /wojewodztwo/opolskie.html
   count: 6
-- name: PODKARPACKIE
+- name: podkarpackie
   slug: podkarpackie
   type: voivodeship
   url: /wojewodztwo/podkarpackie.html
   count: 14
-- name: PODLASKIE
+- name: podlaskie
   slug: podlaskie
   type: voivodeship
   url: /wojewodztwo/podlaskie.html
   count: 15
-- name: POMORSKIE
+- name: pomorskie
   slug: pomorskie
   type: voivodeship
   url: /wojewodztwo/pomorskie.html
   count: 49
-- name: ŚLĄSKIE
+- name: śląskie
   slug: slaskie
   type: voivodeship
   url: /wojewodztwo/slaskie.html
   count: 10
-- name: WARMIŃSKO-MAZURSKIE
+- name: warmińsko-mazurskie
   slug: warminskomazurskie
   type: voivodeship
   url: /wojewodztwo/warminskomazurskie.html
   count: 27
-- name: ZACHODNIOPOMORSKIE
+- name: zachodniopomorskie
   slug: zachodniopomorskie
   type: voivodeship
   url: /wojewodztwo/zachodniopomorskie.html
@@ -182,30 +182,30 @@ tags_nav:
 - name: Najlepsze
   slug: best
   type: tag
-  url: /tag/najlepsze.html
+  url: /wpisy-dla/tagu/najlepsze.html
   count: 114
 - name: Kolejowe
   slug: train
   type: tag
-  url: /tag/kolejowe.html
+  url: /wpisy-dla/tagu/kolejowe.html
   count: 23
 - name: Zdjęcia
   slug: photo
   type: tag
-  url: /tag/zdjecia.html
+  url: /wpisy-dla/tagu/zdjecia.html
   count: 107
 - name: Góry
   slug: mountains
   type: tag
-  url: /tag/gory.html
+  url: /wpisy-dla/tagu/gory.html
   count: 105
 - name: Zdjęcie roku
   slug: photo_of_the_year
   type: tag
-  url: /tag/zdjecie_roku.html
+  url: /wpisy-dla/tagu/zdjecie_roku.html
   count: 14
 - name: Bikepacking
   slug: bikepacking
   type: tag
-  url: /tag/bikepacking.html
+  url: /wpisy-dla/tagu/bikepacking.html
   count: 8
