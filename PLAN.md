@@ -107,11 +107,12 @@
 - [ ] Update JS files to use new paths
 
 #### Phase 20b: Map JSON
-- [ ] Create `/jsons/map.json` generator
-- [ ] Include: posts with coords, slug, title, date, distance, time_spent, card_image_url, coords
-- [ ] Exclude: full area entity arrays, posts without coords
-- [ ] Update `map.js` to use new endpoint
-- [ ] Expected size: ~300KB (vs 836KB)
+- [x] Create `/jsons/map.json` generator (`MapJsonGenerator`)
+- [x] Include: posts with coords, slug, title, date, distance, time_spent, card_image_url, coords
+- [x] Exclude: full area entity arrays, posts without coords
+- [x] Update `map_leaflet.js` to use new endpoint
+- [x] Add e2e tests for map JSON endpoint
+- [x] Result: 16 KB vs 836 KB in dev (98% reduction)
 
 #### Phase 20c: Summary JSON
 - [ ] Create `/jsons/summary.json` generator

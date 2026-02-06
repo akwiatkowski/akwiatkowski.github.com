@@ -24,7 +24,7 @@ this.BlogMap = (function() {
     }
 
     start() {
-      fetch("/payload.json")
+      fetch("/jsons/map.json")
         .then(response => response.json())
         .then(data => {
           this.data = data;

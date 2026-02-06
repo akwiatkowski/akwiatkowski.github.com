@@ -5,12 +5,95 @@ const { test, expect, expectNoJsErrors } = require('../fixtures/base');
 
 test.describe('Map pages', () => {
 
+  test.describe('/jsons/map.json - Map JSON endpoint', () => {
+
+    test('returns valid JSON with posts array', async ({ request }) => {
+      const response = await request.get('/jsons/map.json');
+      expect(response.ok()).toBeTruthy();
+
+      const data = await response.json();
+      expect(data).toHaveProperty('posts');
+      expect(Array.isArray(data.posts)).toBeTruthy();
+    });
+
+    test('posts have required fields for map display', async ({ request }) => {
+      const response = await request.get('/jsons/map.json');
+      const data = await response.json();
+
+      // Should have at least some posts with coords
+      expect(data.posts.length).toBeGreaterThan(0);
+
+      // Check first post has all required fields
+      const post = data.posts[0];
+      expect(post).toHaveProperty('url');
+      expect(post).toHaveProperty('slug');
+      expect(post).toHaveProperty('title');
+      expect(post).toHaveProperty('date');
+      expect(post).toHaveProperty('card_image_url');
+      expect(post).toHaveProperty('coords');
+
+      // Coords should be an array with route data
+      expect(Array.isArray(post.coords)).toBeTruthy();
+      expect(post.coords.length).toBeGreaterThan(0);
+      expect(post.coords[0]).toHaveProperty('route');
+      expect(post.coords[0]).toHaveProperty('type');
+    });
+
+    test('does NOT include area entity arrays (optimization)', async ({ request }) => {
+      const response = await request.get('/jsons/map.json');
+      const data = await response.json();
+
+      // These should NOT be present (they bloat the payload)
+      expect(data).not.toHaveProperty('towns');
+      expect(data).not.toHaveProperty('counties');
+      expect(data).not.toHaveProperty('voivodeships');
+      expect(data).not.toHaveProperty('tags');
+    });
+
+    test('is smaller than payload.json', async ({ request }) => {
+      const mapResponse = await request.get('/jsons/map.json');
+      const payloadResponse = await request.get('/payload.json');
+
+      const mapText = await mapResponse.text();
+      const payloadText = await payloadResponse.text();
+
+      console.log(`map.json size: ${(mapText.length / 1024).toFixed(1)} KB`);
+      console.log(`payload.json size: ${(payloadText.length / 1024).toFixed(1)} KB`);
+
+      // map.json should be significantly smaller
+      expect(mapText.length).toBeLessThan(payloadText.length);
+    });
+
+  });
+
   test.describe('/mapa.html - Main map', () => {
 
     test('loads without JS errors', async ({ pageWithErrorTracking }) => {
       const page = pageWithErrorTracking;
       await page.goto('/mapa.html');
       await expectNoJsErrors(page);
+    });
+
+    test('fetches map.json (not payload.json)', async ({ page }) => {
+      // Track which JSON endpoints are fetched
+      const fetchedUrls = [];
+      page.on('request', request => {
+        const url = request.url();
+        if (url.includes('.json')) {
+          fetchedUrls.push(url);
+        }
+      });
+
+      await page.goto('/mapa.html');
+      await page.waitForTimeout(2000); // Wait for fetch to complete
+
+      // Should fetch map.json
+      const fetchedMapJson = fetchedUrls.some(url => url.includes('/jsons/map.json'));
+      expect(fetchedMapJson, 'Should fetch /jsons/map.json').toBeTruthy();
+
+      // Should NOT fetch payload.json
+      const fetchedPayloadJson = fetchedUrls.some(url => url.includes('/payload.json'));
+      expect(fetchedPayloadJson, 'Should NOT fetch /payload.json').toBeFalsy();
     });
 
     test('renders Leaflet map container', async ({ page }) => {

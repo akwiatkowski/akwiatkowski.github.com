@@ -98,6 +98,14 @@ def register_feed_views(r : ViewRegistry)
     ctx.write_output(SpecialView::HomePageJsonGenerator.new(context: ctx))
   end
 
+  # Map JSON - optimized payload for /mapa.html
+  # Only posts with coords, minimal fields (no area entities)
+  # URL: /jsons/map.json
+  r.register("Feed: map JSON", [:posts, :yamls], priority: 52) do |ctx|
+    ViewRegistry::Log.debug { "Rendering map JSON" }
+    ctx.write_output(SpecialView::MapJsonGenerator.new(context: ctx))
+  end
+
   # Ideas JSON - data for ideas/planning pages
   r.register("Feed: ideas JSON", [:posts, :yamls], priority: 53) do |ctx|
     ViewRegistry::Log.debug { "Rendering ideas JSON" }
