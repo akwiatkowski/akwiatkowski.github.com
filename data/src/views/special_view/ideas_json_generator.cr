@@ -26,16 +26,25 @@ module SpecialView
       visited_towns = @context.visited_town_areas_selfpropelled
       all_towns = @context.areas_of_type(AreaType::Town)
 
+      # Only towns with posts have rendered show pages
+      towns_with_pages = Set(String).new
+      @context.areas_with_posts(AreaType::Town).each { |t| towns_with_pages << t.slug }
+
       result = JSON.build do |json|
         json.object do
           # towns - only fields used by frontend (slug lookup → name, url)
+          # url is null for towns without rendered show pages
           json.field "towns" do
             json.array do
               all_towns.each do |town|
                 json.object do
                   json.field("slug", town.slug)
                   json.field("name", town.name)
-                  json.field("url", town.show_url)
+                  if towns_with_pages.includes?(town.slug)
+                    json.field("url", town.show_url)
+                  else
+                    json.field("url", nil)
+                  end
                 end
               end
             end
