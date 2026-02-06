@@ -629,4 +629,73 @@ Created `tests/e2e/specs/tag-filtering.spec.js`:
 
 ---
 
-*Last updated: 2026-02-05*
+## Phase 8: External (Foreign) Areas ✅ COMPLETE
+
+**Completed**: 2026-02-06
+
+### Goal
+Handle areas outside Poland (Czech Republic, Switzerland, Germany, Italy) with dedicated URL pattern and post rendering.
+
+### What Was Done
+
+1. **New `foreign:` key in post YAML** - Separates external areas from Polish towns
+   ```yaml
+   towns: [poznan]           # Polish only
+   foreign: [czechy_praga]   # External areas
+   ```
+
+2. **External areas config** - Created `data/config/areas/external_areas.yml`
+   - Country name lookup (for plain text fallback)
+   - Area definitions with country field
+
+3. **URL pattern** - `/zagranica/<slug>.html`
+   - Show page: `/zagranica/czechy_praga.html` (not implemented yet)
+   - Post list: `/wpisy-dla/zagranica/czechy_praga.html`
+
+4. **"Zagranica" section in posts** - Renders after Województwa
+   - External areas with entities → links
+   - Country-only slugs → plain text (e.g., "Szwajcaria")
+
+### Model Changes
+
+| File | Changes |
+|------|---------|
+| `area_entity.cr` | Added `country : String?` field, `external?` method |
+| `router.cr` | `/zagranica/` URL pattern for external areas |
+| `area_data_loader.cr` | Load external areas, country name lookup |
+| `render_context.cr` | `external_areas_with_posts`, `country_name` helpers |
+| `post/initializers.cr` | `foreign:` key parsing |
+| `post/areas.cr` | `foreign_slugs`, `foreign_entities` methods |
+| `article_view.cr` | "Zagranica" section with link/plain text fallback |
+
+### External Areas Defined
+
+**Czech Republic:**
+- `czechy_kraj_olomucki` - Kraj Ołomucki (voivodeship)
+- `czechy_kraj_morawsko_slaski` - Kraj Morawsko-Śląski (voivodeship)
+- `czechy_praga` - Praga (town)
+
+**Country placeholders** (render as plain text until regions added):
+- `szwajcaria`, `niemcy`, `wlochy`
+
+### Posts Migrated
+
+16 posts updated from `towns:` to `foreign:` key:
+- 6 Czech posts (2018-2019)
+- 6 Swiss posts (2022)
+- 4 German posts (2025)
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/config/areas/external_areas.yml` | External areas + country lookup |
+| `external_area_post_list_view.cr` | Post list view for external areas |
+
+### Test Results
+
+**275 tests passing** (view count updated 39 → 40)
+
+---
+
+*Last updated: 2026-02-06*
