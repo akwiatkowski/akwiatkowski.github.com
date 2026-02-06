@@ -99,6 +99,76 @@ test.describe('Map pages', () => {
       await expect(page.locator('.sidebar')).toBeVisible();
     });
 
+    test('has photo markers on map', async ({ page }) => {
+      await page.goto('/mapa2.html');
+
+      // Wait for photos to load and markers to render
+      await page.waitForTimeout(2000);
+
+      // Should have at least one photo marker on the map
+      const markers = page.locator('.map-photo-marker');
+      const count = await markers.count();
+      console.log(`Photo markers on map: ${count}`);
+      expect(count, 'Should have at least one photo marker on map').toBeGreaterThan(0);
+    });
+
+    test('has photos in sidebar', async ({ page }) => {
+      await page.goto('/mapa2.html');
+
+      // Wait for photos to load
+      await page.waitForTimeout(2000);
+
+      // Should have photos in the sidebar
+      const photos = page.locator('.photo-item');
+      const count = await photos.count();
+      console.log(`Photos in sidebar: ${count}`);
+      expect(count, 'Should have at least one photo in sidebar').toBeGreaterThan(0);
+    });
+
+    test('sidebar shows photo count', async ({ page }) => {
+      await page.goto('/mapa2.html');
+
+      // Wait for photos to load
+      await page.waitForTimeout(2000);
+
+      // Sidebar header should show count
+      const header = page.locator('.sidebar-header small');
+      await expect(header).toBeVisible();
+      const text = await header.textContent();
+      expect(text).toMatch(/\d+ visible/);
+    });
+
+    test('clicking photo in sidebar opens modal', async ({ page }) => {
+      await page.goto('/mapa2.html');
+
+      // Wait for photos to load
+      await page.waitForTimeout(2000);
+
+      // Click first photo
+      const firstPhoto = page.locator('.photo-item').first();
+      await firstPhoto.click();
+
+      // Modal should appear
+      await expect(page.locator('.modal.show')).toBeVisible({ timeout: 5000 });
+      await expect(page.locator('.photo-modal-image')).toBeVisible();
+    });
+
+    test('clicking marker opens modal', async ({ page }) => {
+      await page.goto('/mapa2.html');
+
+      // Wait for markers to load
+      await page.waitForTimeout(2000);
+
+      // Click first marker
+      const firstMarker = page.locator('.map-photo-marker').first();
+      if (await firstMarker.count() > 0) {
+        await firstMarker.click();
+
+        // Modal should appear
+        await expect(page.locator('.modal.show')).toBeVisible({ timeout: 5000 });
+      }
+    });
+
   });
 
 });
