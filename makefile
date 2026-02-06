@@ -21,6 +21,7 @@ COMPILE_LOCAL_RELEASE_FLAG := --release
         serve_local serve_release render_release render_local \
         compile_local run_compiled_local run_compiled_local_check watch_coffee watch_local_mac \
         dev-purge-html-local dev-purge-html-release purge-html-local purge-html-release \
+        dev-purge-empty-local dev-purge-empty-release purge-empty-local purge-empty-release \
         test-e2e test-e2e-headed test-e2e-smoke
 
 # Assets
@@ -83,6 +84,24 @@ purge-html-local:
 purge-html-release:
 	@echo "Purging generated files from $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release..."
 	find $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release -type f \( -name "*.html" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -delete -print | wc -l | xargs -I {} echo "Deleted {} files"
+
+# Purge empty directories from output directories
+# Run after purge-html-* to clean up leftover empty directories
+dev-purge-empty-local:
+	@echo "Purging empty directories from $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/local..."
+	find $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/local -type d -empty -delete -print 2>/dev/null | wc -l | xargs -I {} echo "Deleted {} directories"
+
+dev-purge-empty-release:
+	@echo "Purging empty directories from $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/release..."
+	find $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/release -type d -empty -delete -print 2>/dev/null | wc -l | xargs -I {} echo "Deleted {} directories"
+
+purge-empty-local:
+	@echo "Purging empty directories from $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/local..."
+	find $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/local -type d -empty -delete -print 2>/dev/null | wc -l | xargs -I {} echo "Deleted {} directories"
+
+purge-empty-release:
+	@echo "Purging empty directories from $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release..."
+	find $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release -type d -empty -delete -print 2>/dev/null | wc -l | xargs -I {} echo "Deleted {} directories"
 
 # E2E Tests (requires: cd tests/e2e && npm install && npx playwright install chromium)
 test-e2e:
