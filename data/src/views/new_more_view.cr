@@ -52,8 +52,9 @@ class NewMoreView < BaseView
     data = Hash(String, String).new
     router = context.router
 
-    # Navigation (shared partial)
+    # Navigation and footer (shared partials)
     data["navigation"] = load_html("include/navigation/new")
+    data["footer"] = load_html("include/footer_new")
 
     # Links section - add more links here as needed
     data["links_content"] = build_links_html

@@ -68,8 +68,9 @@ class NewHomePageView < BaseView
     data["stats.hike_distance"] = total_hike_distance.to_s
     data["stats.time_spent"] = total_time_spent.to_s
 
-    # Navigation (shared partial)
+    # Navigation and footer (shared partials)
     data["navigation"] = load_html("include/navigation/new")
+    data["footer"] = load_html("include/footer_new")
 
     # Hero is now entirely JS-driven (no server-side fallback image)
 
