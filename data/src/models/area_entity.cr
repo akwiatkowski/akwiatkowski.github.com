@@ -10,6 +10,7 @@ struct AreaEntity
   getter code : String?           # TERC code for administrative, region code for geographic
   getter voivodeship_slug : String?  # Parent voivodeship (for towns, counties)
   getter bbox : AreaMatcher::BBox?
+  getter country : String?        # nil for Polish areas, country slug for external (e.g., "czechy")
 
   def initialize(
     @slug : String,
@@ -17,8 +18,14 @@ struct AreaEntity
     @area_type : AreaType,
     @code : String? = nil,
     @voivodeship_slug : String? = nil,
-    @bbox : AreaMatcher::BBox? = nil
+    @bbox : AreaMatcher::BBox? = nil,
+    @country : String? = nil
   )
+  end
+
+  # Returns true if this is an external (non-Polish) area
+  def external? : Bool
+    !@country.nil?
   end
 
   # Initialize from YAML data
@@ -27,6 +34,7 @@ struct AreaEntity
     name = yaml["name"]?.try(&.as_s?) || slug
     code = yaml["code"]?.try(&.as_s?)
     voivodeship_slug = yaml["voivodeship"]?.try(&.as_s?)
+    country = yaml["country"]?.try(&.as_s?)
 
     bbox = if yaml["bbox"]?
              bbox_data = yaml["bbox"]
@@ -46,7 +54,8 @@ struct AreaEntity
       area_type: area_type,
       code: code,
       voivodeship_slug: voivodeship_slug,
-      bbox: bbox
+      bbox: bbox,
+      country: country
     )
   end
 

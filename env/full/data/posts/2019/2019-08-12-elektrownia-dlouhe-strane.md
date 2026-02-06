@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2019_08_12__13_13__8121433.jpg
 image_position:         50% 30%
 tags:                   [hike, main]
-towns:                  [czechy, czechy_kraj_olomucki]
+towns:                  []
+foreign:                [czechy_kraj_olomucki]
 
 coords:                 [{"route": [[50.0864,17.1395], [50.0839,17.1442], [50.0756,17.1445], [50.0706,17.1536], [50.0770,17.1623]], "type": "hike"}]
 coords_file:            "2019-08-12-elektrownia-dlouhe-strane.json"

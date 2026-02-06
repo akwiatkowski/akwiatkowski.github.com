@@ -180,6 +180,26 @@ class RenderContext
     posts.select { |post| post.was_in_area?(area) && post.ready? }
   end
 
+  # Get all external (foreign) areas
+  def external_areas : Array(AreaEntity)
+    area_data_loader.external_areas
+  end
+
+  # Get external areas that have posts associated
+  def external_areas_with_posts : Array(AreaEntity)
+    external_areas.select { |area| posts_for_external_area(area).size > 0 }
+  end
+
+  # Get posts for an external area entity
+  def posts_for_external_area(area : AreaEntity) : Array(Tremolite::Post)
+    posts.select { |post| post.foreign_slugs.includes?(area.slug) && post.ready? }
+  end
+
+  # Get country name for plain text fallback
+  def country_name(slug : String) : String?
+    area_data_loader.country_name(slug)
+  end
+
   # ============================================
   # Page Metadata
   # ============================================

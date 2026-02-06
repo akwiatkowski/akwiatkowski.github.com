@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2019_08_10__14_51__8108362.jpg
 image_position:         50% 85%
 tags:                   [hike, city, main]
-towns:                  [czechy, czechy_kraj_olomucki]
+towns:                  []
+foreign:                [czechy_kraj_olomucki]
 
 coords:                 [{"route": [[49.59256,17.27765], [49.59690,17.26203], [49.59390,17.25216], [49.58917,17.25404], [49.59245,17.27791]], "type": "hike"}]
 coords_file:            "2019-08-10-spacer-w-olomuncu.json"

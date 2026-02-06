@@ -5,23 +5,30 @@ require "../models/area_association"
 
 # Loads area data from:
 # 1. data/config/areas/*.yml - area entity definitions (generated from data/external/)
-# 2. cache/areas_for_post/<slug>.yml - per-post route distance data
+# 2. data/config/areas/external_areas.yml - external (foreign) areas
+# 3. cache/areas_for_post/<slug>.yml - per-post route distance data
 class AreaDataLoader
   Log = ::Log.for(self)
 
   THRESHOLD_DEFAULT = 1.0 # percent
 
   getter areas : Array(AreaEntity)
+  getter external_areas : Array(AreaEntity)
+  getter country_names : Hash(String, String)
   getter threshold : Float64
 
   def initialize(@config_path : String, @cache_path : String, @threshold : Float64 = THRESHOLD_DEFAULT)
     @areas = [] of AreaEntity
+    @external_areas = [] of AreaEntity
+    @country_names = {} of String => String
     @areas_by_type = {} of AreaType => Array(AreaEntity)
   end
 
   # Load all area entities from config files
   def load_areas
     @areas.clear
+    @external_areas.clear
+    @country_names.clear
     @areas_by_type.clear
 
     load_area_file("towns", AreaType::Town)
@@ -29,8 +36,46 @@ class AreaDataLoader
     load_area_file("voivodeships", AreaType::Voivodeship)
     load_area_file("meso_regions", AreaType::MesoRegion)
     load_area_file("macro_regions", AreaType::MacroRegion)
+    load_external_areas
 
-    Log.info { "Loaded #{@areas.size} areas total" }
+    Log.info { "Loaded #{@areas.size} areas + #{@external_areas.size} external areas" }
+  end
+
+  # Load external (foreign) areas from external_areas.yml
+  private def load_external_areas
+    path = File.join([@config_path, "areas", "external_areas.yml"])
+
+    unless File.exists?(path)
+      Log.debug { "External areas file not found: #{path}" }
+      return
+    end
+
+    data = YAML.parse(File.read(path))
+
+    # Load country name lookup
+    if data["countries"]?
+      data["countries"].as_h.each do |slug, name|
+        @country_names[slug.as_s] = name.as_s
+      end
+      Log.info { "Loaded #{@country_names.size} country names" }
+    end
+
+    # Load external areas
+    if data["areas"]?
+      data["areas"].as_a.each do |item|
+        # Determine area type from string
+        type_str = item["area_type"]?.try(&.as_s?) || "town"
+        area_type = case type_str
+                    when "voivodeship" then AreaType::Voivodeship
+                    when "county"      then AreaType::County
+                    else                    AreaType::Town
+                    end
+
+        entity = AreaEntity.from_yaml(item, area_type)
+        @external_areas << entity
+      end
+      Log.info { "Loaded #{@external_areas.size} external areas" }
+    end
   end
 
   private def load_area_file(filename : String, area_type : AreaType)
@@ -82,6 +127,17 @@ class AreaDataLoader
   # Find area by type and slug
   def area_by_slug(type : AreaType, slug : String) : AreaEntity?
     areas_of_type(type).find { |a| a.slug == slug }
+  end
+
+  # Find external area by slug (any type)
+  def external_area_by_slug(slug : String) : AreaEntity?
+    @external_areas.find { |a| a.slug == slug }
+  end
+
+  # Get country name for a slug (for plain text fallback)
+  # Returns nil if slug is not a known country
+  def country_name(slug : String) : String?
+    @country_names[slug]?
   end
 
   # Load route distance data for a specific post

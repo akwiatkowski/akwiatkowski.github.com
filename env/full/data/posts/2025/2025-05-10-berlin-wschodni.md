@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2025_05_10__12_36_P5100158.jpg
 #image_position:         50% 70%
 tags:                   [hike, todo]
-towns:                  [niemcy]
+towns:                  []
+foreign:                [niemcy]
 
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2025-05-10-berlin-wschodni.json"

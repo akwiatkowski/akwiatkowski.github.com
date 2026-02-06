@@ -139,6 +139,30 @@ module PostView
         data["voivodeships_content"] = ""
       end
 
+      # foreign (external) areas - using AreaEntity system + country fallback
+      foreign_entities = @post.foreign_entities
+      foreign_slugs = @post.foreign_slugs
+      # Find slugs that didn't resolve to entities (country-only slugs)
+      entity_slugs = foreign_entities.map(&.slug)
+      unresolved_slugs = foreign_slugs.reject { |s| entity_slugs.includes?(s) }
+
+      # Build display items: links for entities, plain text for countries
+      items = [] of String
+      foreign_entities.each { |entity| items << "<a href=\"#{entity.view_url}\">#{entity.name}</a>" }
+      unresolved_slugs.each do |slug|
+        country_name = context.country_name(slug)
+        items << country_name if country_name
+      end
+
+      if items.size > 0
+        pd = Hash(String, String).new
+        pd["taggable.name"] = "Zagranica"
+        pd["taggable.content"] = items.join(", ")
+        data["foreign_content"] = load_html("post/taggable", pd) + "<br/>"
+      else
+        data["foreign_content"] = ""
+      end
+
       # pois
       if @post.pois.not_nil!.size > 0
         pd = Hash(String, String).new

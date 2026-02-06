@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2022_05_20__11_21_P5202351.jpg
 image_position:         50% 70%
 tags:                   [bus, main]
-towns:                  [szwajcaria, wlochy]
+towns:                  []
+foreign:                [szwajcaria, wlochy]
 
 coords:                 [{"route": [], "type": "hike"}]
 distance:

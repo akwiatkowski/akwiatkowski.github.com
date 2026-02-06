@@ -10,7 +10,8 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_08_11__13_33__8110358.jpg
 tags:                   [hike, mountains, main]
-towns:                  [czechy, czechy_kraj_olomucki]
+towns:                  []
+foreign:                [czechy_kraj_olomucki]
 
 coords:                 [{"route": [[50.2301,17.2094], [50.2380,17.2373], [50.2315,17.2698], [50.2243,17.2695], [50.2179,17.2356], [50.2197,17.2081], [50.2319,17.2071]], "type": "hike"}]
 coords_file:            "2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika.json"

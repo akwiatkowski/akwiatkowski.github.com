@@ -12,6 +12,9 @@ class Tremolite::Post
   # Memoized calculated area associations (from areas_for_post cache)
   @_area_associations : Hash(AreaType, Array(AreaAssociation))?
 
+  # Memoized foreign (external) area entities
+  @_foreign_entities : Array(AreaEntity)?
+
   # Area data loader reference (set during post processing)
   @_area_data_loader : AreaDataLoader?
 
@@ -46,6 +49,18 @@ class Tremolite::Post
 
   def macro_region_entities : Array(AreaEntity)
     area_entities(AreaType::MacroRegion)
+  end
+
+  # Get foreign (external) area slugs from post YAML
+  def foreign_slugs : Array(String)
+    @foreign.not_nil!
+  end
+
+  # Get foreign (external) area entities
+  # Returns AreaEntity objects for external areas referenced in the post
+  def foreign_entities : Array(AreaEntity)
+    load_foreign_entities unless @_foreign_entities
+    @_foreign_entities.not_nil!
   end
 
   # Get calculated area associations (with distance data) for a specific type
@@ -105,5 +120,17 @@ class Tremolite::Post
     return unless loader
 
     @_area_associations = loader.load_for_post(self.slug)
+  end
+
+  private def load_foreign_entities
+    @_foreign_entities = [] of AreaEntity
+
+    loader = @_area_data_loader
+    return unless loader
+
+    foreign_slugs.each do |slug|
+      entity = loader.external_area_by_slug(slug)
+      @_foreign_entities.not_nil! << entity if entity
+    end
   end
 end

@@ -12,7 +12,8 @@ image_filename:         2018_12_31__13_46__C319324.jpg
 # 2018_12_31__16_23__C319553.jpg
 # 2018_12_31__13_56__C319361.jpg
 tags:                   [car, hike, main]
-towns:                  [praga]
+towns:                  []
+foreign:                [czechy_praga]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2018-12-31-kiedy-nie-jechac-do-pragi.json"

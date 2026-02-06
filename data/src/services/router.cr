@@ -63,18 +63,43 @@ class Router
   # ============================================
 
   # Show page: /gmina/pobiedziska.html (nominative case)
+  # External areas: /zagranica/praga.html
   def area_show_url(area : AreaEntity) : String
-    "#{area_type_prefix(area.area_type)}#{area.slug}.html"
+    if area.external?
+      external_area_show_url(area)
+    else
+      "#{area_type_prefix(area.area_type)}#{area.slug}.html"
+    end
   end
 
   # Post list page: /wpisy-dla/gminy/pobiedziska.html (genitive case)
+  # External areas: /wpisy-dla/zagranica/praga.html
   def area_post_list_url(area : AreaEntity) : String
-    "/wpisy-dla/#{area_type_segment(area.area_type)}/#{area.slug}.html"
+    if area.external?
+      external_area_post_list_url(area)
+    else
+      "/wpisy-dla/#{area_type_segment(area.area_type)}/#{area.slug}.html"
+    end
   end
 
   # Gallery page: /galeria/gminy/pobiedziska.html (genitive case)
+  # Note: External areas don't have gallery pages (for now)
   def area_gallery_url(area : AreaEntity) : String
     "/galeria/#{area_type_segment(area.area_type)}/#{area.slug}.html"
+  end
+
+  # ============================================
+  # External Area URLs (/zagranica/)
+  # ============================================
+
+  # Show page: /zagranica/praga.html
+  def external_area_show_url(area : AreaEntity) : String
+    "/zagranica/#{area.slug}.html"
+  end
+
+  # Post list page: /wpisy-dla/zagranica/praga.html
+  def external_area_post_list_url(area : AreaEntity) : String
+    "/wpisy-dla/zagranica/#{area.slug}.html"
   end
 
   # Semantic alias - the URL to use when linking to an area

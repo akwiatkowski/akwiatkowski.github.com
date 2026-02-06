@@ -21,6 +21,7 @@ class Tremolite::Post
     towns_initialize
     # voivodeships_initialize
     lands_initialize
+    foreign_initialize
     pois_initialize
     coords_initialize
     published_photos_entities_initialize
@@ -33,6 +34,7 @@ class Tremolite::Post
     # voivodeships_from_headers
     lands_from_headers
     lands_from_towns
+    foreign_from_headers
     pois_from_headers
     coords_from_headers
     basic_from_headers
@@ -101,6 +103,18 @@ class Tremolite::Post
     if @header["lands"]?
       @header["lands"].as_a.each do |land|
         @lands.not_nil! << land.to_s
+      end
+    end
+  end
+
+  def foreign_initialize
+    @foreign = Array(String).new
+  end
+
+  def foreign_from_headers
+    if @header["foreign"]?
+      @header["foreign"].as_a.each do |foreign_slug|
+        @foreign.not_nil! << foreign_slug.to_s
       end
     end
   end

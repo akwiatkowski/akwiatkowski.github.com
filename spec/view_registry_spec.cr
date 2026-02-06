@@ -173,7 +173,7 @@ describe "setup_view_registry" do
 
       # Should have 39 views total:
       # - Entity views: 2 (tags, tags legacy redirects)
-      # - Area views: 3 (show pages, post list pages, gallery pages)
+      # - Area views: 4 (show pages, post list pages, gallery pages, external areas post list)
       # - Home views: 4 (main, old home, map, pois)
       # - Photo views: 2 (galleries, maps)
       # - Stats views: 5 (summary, year reports, burnout, towns history, towns timeline)
@@ -181,7 +181,7 @@ describe "setup_view_registry" do
       # - Index views: 1 (towns only - lands deprecated)
       # - Static views: 9 (new more, more old, about, english, JS ideas, JS timeline, JS panoramio, JS exif stats, JS bicycle planner)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
-      r.views.size.should eq(39)
+      r.views.size.should eq(40)
     end
 
     it "registers all entity views" do

@@ -1,0 +1,48 @@
+---
+# Country name lookup (for plain text fallback when only country slug is referenced)
+countries:
+  czechy: Czechy
+  niemcy: Niemcy
+  szwajcaria: Szwajcaria
+  wlochy: Włochy
+
+# External areas (regions and cities only, no countries as entities)
+areas:
+  # Czech Republic - Regions
+  - slug: czechy_kraj_olomucki
+    name: Kraj Ołomucki
+    area_type: voivodeship
+    country: czechy
+    bbox:
+      south: 49.207489
+      north: 50.601311
+      west: 16.456987
+      east: 18.017046
+
+  - slug: czechy_kraj_morawsko_slaski
+    name: Kraj Morawsko-Śląski
+    area_type: voivodeship
+    country: czechy
+    bbox:
+      south: 49.420504894261946
+      north: 50.33465241854883
+      west: 17.078496251436416
+      east: 18.85004147735362
+
+  # Czech Republic - Cities
+  - slug: czechy_praga
+    name: Praga
+    area_type: town
+    country: czechy
+
+  # Switzerland - to be added later
+  # - slug: ...
+  #   name: ...
+  #   area_type: town
+  #   country: szwajcaria
+
+  # Germany - to be added later
+  # - slug: ...
+  #   name: ...
+  #   area_type: town
+  #   country: niemcy

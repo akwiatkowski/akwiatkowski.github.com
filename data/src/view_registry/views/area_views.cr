@@ -84,4 +84,22 @@ def register_area_views(r : ViewRegistry)
       end
     end
   end
+
+  # ============================================
+  # View: External Area Post List Pages
+  # ============================================
+  #
+  # Renders a page listing posts for each external (foreign) area.
+  #
+  # URL pattern: /wpisy-dla/zagranica/<slug>.html
+  # View class: PostListView::ExternalAreaPostListView
+  #
+  r.register("External areas: post list pages", [:posts, :yamls], priority: 17) do |ctx|
+    external_areas = ctx.external_areas_with_posts
+    ViewRegistry::Log.info { "Rendering #{external_areas.size} external area post list pages" }
+
+    external_areas.each do |area|
+      ctx.write_output(PostListView::ExternalAreaPostListView.new(context: ctx, area: area))
+    end
+  end
 end
