@@ -100,3 +100,6 @@ page-assets:
   map:
     css:
       - /css/self/map-blog.css
+  planner:
+    css:
+      - /css/self/planner.css

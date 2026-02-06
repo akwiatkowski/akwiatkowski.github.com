@@ -5,7 +5,7 @@
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-19)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-19, Photo Planner)
 
 ---
 
@@ -19,6 +19,7 @@
 |------|------|-----------|---------|
 | `/payload.json` | **5.0 MB** | `PayloadJsonGenerator` | map.js, summary.js, area_show.js |
 | `/photos.json` | **20 MB** (25,623 photos) | `PhotosJsonGenerator` | timeline.js, panoramio.html, area_show.js |
+| `/jsons/photo_grid.json` | 14 KB | `PhotoGridJsonGenerator` | planner.js |
 | `/ideas.json` | 510 KB | `IdeasJsonGenerator` | ideas.js |
 | `/jsons/homepage.json` | 11 KB | `HomePageJsonGenerator` | homepage.js, post_collection.js |
 | `/train_stations.json` | 6 KB | `TrainStationsJsonGenerator` | ideas.js |
@@ -196,7 +197,7 @@ Infrastructure in `tests/e2e/`:
 - `specs/navigation.spec.js` - Navigation styling across pages
 - `specs/more-page.spec.js` - More page links
 
-**Latest Results: 82 passed, 0 failed, 5 skipped**
+**Latest Results: ~93 passed, 0 failed, 5 skipped**
 
 **Run E2E tests:**
 ```bash

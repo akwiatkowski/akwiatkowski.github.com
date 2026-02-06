@@ -32,7 +32,7 @@ module SpecialView
                   json.field("name", train_station.name)
                   json.field("lat", train_station.lat)
                   json.field("lon", train_station.lon)
-                  json.field("time_distance", train_station.time_distance)
+                  json.field("time_distance", train_station.poznan_time_distance)
                 end
               end
             end

@@ -14,7 +14,7 @@
 # 5. JS Timeline page - /linia_czasu.html (priority: 94)
 # 6. Photo map page - /mapa_zdjec.html (priority: 95)
 # 7. JS Exif Stats page - /exif_statystyki.html (priority: 96)
-# 8. JS Bicycle Planner page - /pomysly2.html (priority: 97)
+# 8. Photo planner page - /pomysly_dla_zdjec.html (priority: 97)
 #
 # Dependencies: [] (empty = always run)
 # - These pages are simple and don't depend on specific data changes
@@ -23,7 +23,7 @@
 # Priority: 90-99 (near the end, low priority)
 #
 # View classes used: NewMoreView, StaticView::MoreView, TripIdeasView, JsTimelineView,
-# PhotoMapView, JsExifView, MarkdownPageView
+# PhotoMapView, JsExifView, PhotoPlannerView, MarkdownPageView
 # (loaded via renderer.cr)
 
 def register_static_views(r : ViewRegistry)
@@ -176,16 +176,17 @@ def register_static_views(r : ViewRegistry)
   end
 
   # ============================================
-  # View: JS Bicycle Planner Page
+  # View: Photo Planner Page
   # ============================================
   #
-  # Bicycle route planner with map visualization.
+  # Photo route planner - generates bicycle routes
+  # optimizing photo coverage of new areas.
   #
-  # URL: /pomysly2.html
-  # View class: StaticView::JsBicyclePlannerView
+  # URL: /pomysly_dla_zdjec.html
+  # View class: StaticView::PhotoPlannerView
   #
-  r.register("Static: JS bicycle planner", [:posts], priority: 97) do |ctx|
-    ViewRegistry::Log.debug { "Rendering JS bicycle planner page" }
-    ctx.write_output(StaticView::JsBicyclePlannerView.new(context: ctx, url: "pomysly2.html"))
+  r.register("Static: photo planner", [:posts], priority: 97) do |ctx|
+    ViewRegistry::Log.debug { "Rendering photo planner page" }
+    ctx.write_output(StaticView::PhotoPlannerView.new(context: ctx, url: "pomysly_dla_zdjec.html"))
   end
 end

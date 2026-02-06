@@ -8,13 +8,15 @@
 # 1. RSS feed - /feed.xml (priority: 50)
 # 2. Atom feed - /feed_atom.xml (priority: 51)
 # 3. Payload JSON - /payload.json (priority: 52)
-# 4. Homepage JSON - /jsons/homepage.json (priority: 52) - minimal data for post collection
-# 5. Ideas JSON - /ideas.json (priority: 53)
-# 6. Photos JSON - /photos.json (priority: 54)
-# 7. Train stations JSON - /train_stations.json (priority: 55)
-# 8. Nav stats JSON - /nav_stats.json (priority: 56)
-# 9. Sitemap - /sitemap.xml (priority: 57)
-# 10. Robots.txt - /robots.txt (priority: 58)
+# 4. Homepage JSON - /jsons/homepage.json (priority: 52)
+# 5. Map JSON - /jsons/map.json (priority: 52)
+# 6. Ideas JSON - /ideas.json (priority: 53)
+# 7. Photos JSON - /photos.json (priority: 54)
+# 8. Train stations JSON - /train_stations.json (priority: 55)
+# 9. Photo grid JSON - /jsons/photo_grid.json (priority: 56)
+# 10. Nav stats JSON - /nav_stats.json (priority: 57)
+# 11. Sitemap - /sitemap.xml (priority: 58)
+# 12. Robots.txt - /robots.txt (priority: 59)
 #
 # Dependencies: [:posts, :yamls] for most, [:posts] for sitemap/robots
 #
@@ -124,8 +126,15 @@ def register_feed_views(r : ViewRegistry)
     ctx.write_output(SpecialView::TrainStationsJsonGenerator.new(context: ctx))
   end
 
+  # Photo grid JSON - minimal coords for photo planner
+  # URL: /jsons/photo_grid.json
+  r.register("Feed: photo grid JSON", [:posts, :yamls], priority: 56) do |ctx|
+    ViewRegistry::Log.debug { "Rendering photo grid JSON" }
+    ctx.write_output(SpecialView::PhotoGridJsonGenerator.new(context: ctx))
+  end
+
   # Nav stats JSON - navigation statistics
-  r.register("Feed: nav stats JSON", [:posts, :yamls], priority: 56) do |ctx|
+  r.register("Feed: nav stats JSON", [:posts, :yamls], priority: 57) do |ctx|
     ViewRegistry::Log.debug { "Rendering nav stats JSON" }
     ctx.write_output(SpecialView::NavStatsJsonGenerator.new(context: ctx))
   end
@@ -137,13 +146,13 @@ def register_feed_views(r : ViewRegistry)
   # These are SEO-related files.
 
   # Sitemap - for search engines
-  r.register("Feed: sitemap", [:posts], priority: 57) do |ctx|
+  r.register("Feed: sitemap", [:posts], priority: 58) do |ctx|
     ViewRegistry::Log.debug { "Rendering sitemap" }
     ctx.write_output(Tremolite::Views::SiteMapGenerator.new(context: ctx))
   end
 
   # Robots.txt - crawler instructions
-  r.register("Feed: robots.txt", [] of Symbol, priority: 58) do |ctx|
+  r.register("Feed: robots.txt", [] of Symbol, priority: 59) do |ctx|
     ViewRegistry::Log.debug { "Rendering robots.txt" }
     ctx.write_output(Tremolite::Views::RobotGenerator.new)
   end

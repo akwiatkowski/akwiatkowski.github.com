@@ -31,9 +31,9 @@ describe StaticView do
     end
   end
 
-  describe StaticView::JsBicyclePlannerView do
+  describe StaticView::PhotoPlannerView do
     it "exists" do
-      StaticView::JsBicyclePlannerView.should_not be_nil
+      StaticView::PhotoPlannerView.should_not be_nil
     end
   end
 

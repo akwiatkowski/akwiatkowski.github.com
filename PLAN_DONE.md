@@ -103,8 +103,8 @@ Tests:
 ## Deprecated Code Removed
 
 The old bicycle planner (`/todos/*`) was obsolete and replaced by JS-based pages:
-- `/pomysly.html` - JS Ideas page
-- `/pomysly2.html` - JS Bicycle Planner page
+- `/pomysly_tras.html` - Trip Ideas page (renamed from pomysly.html)
+- `/pomysly_dla_zdjec.html` - Photo Planner page (renamed from pomysly2.html)
 
 **Files deleted:**
 - `views/todos_view.cr`
@@ -695,6 +695,71 @@ Handle areas outside Poland (Czech Republic, Switzerland, Germany, Italy) with d
 ### Test Results
 
 **275 tests passing** (view count updated 39 → 40)
+
+---
+
+## Photo Planner Page Overhaul ✅ COMPLETE
+
+**Completed**: 2026-02-06
+
+### Goal
+Transform `/pomysly2.html` (standalone bicycle route planner) into an integrated site page at `/pomysly_dla_zdjec.html` with proper layout, bug fixes, dark mode, and optimized data loading.
+
+### Bugs Fixed
+
+1. **`time_distance` was an object, not a number** - `train_stations.json` output `{"Poznań": 2.5}` but frontend expected a number. Displayed as `[object Object]`. Fix: use `poznan_time_distance` method.
+2. **`countCellsOnSegment` wrong argument** - 3rd arg was `segment.from.lon` instead of `segment.to.lat`
+3. **Station popup said "km" instead of "h"** for train travel time
+4. **Dead code removed** - `generateGoogleMapsLink`, `generateOSRMLink`, `countBlankCellsInRadius`, duplicate comments, console.log calls
+
+### Optimized Data Loading
+
+Created `/jsons/photo_grid.json` (14 KB) replacing `/photos.json` (20 MB) fetch:
+- Only lat/lon coordinate pairs needed for the grid
+- 99.9% size reduction
+
+### Layout Integration
+
+Converted from standalone `full_html` page to integrated `content` method:
+- Uses `load_html("planner/planner", data)` template system
+- Gets site nav + footer automatically from `BaseView.to_html`
+- Declares `["leaflet"]` additional bundle and `["planner"]` page CSS
+
+### Styling Overhaul
+
+- Created `planner.css` with CSS custom properties (`--p-` prefix)
+- Full dark/light mode support via `prefers-color-scheme`
+- Panel-based sidebar: duration picker, results, stats grid, legend
+- Gradient route card headers, sticky sidebar, responsive breakpoint at 860px
+
+### Files Changed
+
+| File | Action |
+|------|--------|
+| `data/src/views/special_view/photo_grid_json_generator.cr` | **CREATED** - optimized JSON endpoint |
+| `data/src/views/special_view/train_stations_json_generator.cr` | **FIXED** - output number not hash |
+| `data/src/views/static_view/photo_planner_view.cr` | **RENAMED** from `js_bicycle_planner_view.cr`, rewritten |
+| `data/assets/css/self/planner.css` | **CREATED** - dark/light mode CSS |
+| `data/assets/js/self/planner.js` | **CREATED** - extracted/fixed JS |
+| `data/layout/planner/planner.html` | **CREATED** - body-only template |
+| `data/config/asset_bundles.yml` | Added `planner` page-asset |
+| `data/src/view_registry/views/feed_views.cr` | Registered photo grid JSON (priority 56) |
+| `data/src/view_registry/views/static_views.cr` | Renamed entry + URL |
+| `data/src/views/new_more_view.cr` | Added planner link |
+| `tests/e2e/specs/js-pages.spec.js` | 12 tests for photo planner |
+
+### Deleted Files
+
+- `data/layout/map/bicycle_planner.full.html`
+- `data/layout/map/bicycle_planner.html`
+- `data/layout/map/bicycle_planner.head.html`
+- `data/assets/js/tmp/planner.js` (old BlogPlanner)
+- `data/assets/js/tmp/planner.coffee`
+- `data/layout/planner.html` (old BlogPlanner template)
+
+### Test Results
+
+**275 Crystal tests passing, ~93 E2E tests passing**
 
 ---
 
