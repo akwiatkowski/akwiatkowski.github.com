@@ -298,7 +298,7 @@ end
 | `BaseView` | `["core"]` |
 | `AreaShowView` | `["core", "leaflet", "react-runtime"]` |
 | `RouteMapView` | `["core", "leaflet"]` |
-| `JsIdeasView` | `["core", "ideas-css", "leaflet", "react-runtime"]` |
+| `TripIdeasView` | `["core", "ideas-css", "leaflet", "react-runtime"]` |
 | `GalleryView::AbstractView` | `["core", "gallery"]` |
 
 ## URL Patterns

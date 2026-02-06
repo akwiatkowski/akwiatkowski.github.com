@@ -22,11 +22,19 @@ COMPILE_LOCAL_RELEASE_FLAG := --release
         compile_local run_compiled_local run_compiled_local_check watch_coffee watch_local_mac \
         dev-purge-html-local dev-purge-html-release purge-html-local purge-html-release \
         dev-purge-empty-local dev-purge-empty-release purge-empty-local purge-empty-release \
-        test-e2e test-e2e-headed test-e2e-smoke
+        test-e2e test-e2e-headed test-e2e-smoke transpile-jsx
 
 # Assets
 watch_coffee:
 	coffee -bcw data/assets/js/*.coffee
+
+# Transpile all JSX files to JS (Preact-compatible)
+transpile-jsx:
+	@for f in data/assets/js/src/*.jsx; do \
+		out="data/assets/js/self/$$(basename "$${f}" .jsx).js"; \
+		echo "$$f -> $$out"; \
+		npx esbuild "$$f" --bundle=false --outfile="$$out" --jsx-factory=React.createElement --jsx-fragment=React.Fragment; \
+	done
 
 # Dev serve targets (dynamic pattern)
 dev-serve-%:

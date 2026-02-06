@@ -155,6 +155,12 @@
 
 ### Future Ideas
 
+**Trip Ideas page (`/pomysly_tras.html`) - Known Issues:**
+- Town links are broken: `ideas.json` only includes towns that have been visited (rendered as AreaEntity),
+  but trip ideas reference all towns on the route including unvisited ones. Unvisited towns have no
+  show page URL so links appear as gray/inactive tags. Fix: either render show pages for all towns
+  (not just visited) or include all towns in the JSON with a flag indicating if visited.
+
 **Stats Rendering:**
 - Explore better ways to render post stats (distance, time, temperature)
 - Consider inline badges, sidebar summary, or expandable section

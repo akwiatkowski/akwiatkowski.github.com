@@ -26,27 +26,16 @@ module SpecialView
       visited_towns = @context.visited_town_areas_selfpropelled
       all_towns = @context.areas_of_type(AreaType::Town)
 
-      # Get all photos for best photo selection
-      all_photos = @context.posts.flat_map { |p| p.published_photo_entities }
-      photo_selector = AreaPhotoSelector.new(all_photos)
-
       result = JSON.build do |json|
         json.object do
-          # towns - now using AreaEntity
+          # towns - only fields used by frontend (slug lookup → name, url)
           json.field "towns" do
             json.array do
               all_towns.each do |town|
-                # Get best photo for this town using AreaPhotoSelector
-                best_photo = photo_selector.best_photo_for(town)
-                image_url = best_photo ? best_photo.full_image_src : ""
-
                 json.object do
-                  json.field("url", town.show_url)
                   json.field("slug", town.slug)
                   json.field("name", town.name)
-                  json.field("image_url", image_url)
-                  json.field("voivodeship", town.voivodeship_slug)
-                  json.field("inside", town.voivodeship_slug)
+                  json.field("url", town.show_url)
                 end
               end
             end

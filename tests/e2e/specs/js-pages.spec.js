@@ -5,17 +5,17 @@ const { test, expect, expectNoJsErrors } = require('../fixtures/base');
 
 test.describe('JS-heavy pages', () => {
 
-  test.describe('/pomysly.html - Ideas page', () => {
+  test.describe('/pomysly_tras.html - Trip ideas page', () => {
 
     test('loads without JS errors', async ({ pageWithErrorTracking }) => {
       const page = pageWithErrorTracking;
-      await page.goto('/pomysly.html');
+      await page.goto('/pomysly_tras.html');
       await page.waitForTimeout(1000);
       await expectNoJsErrors(page);
     });
 
     test('renders content', async ({ page }) => {
-      await page.goto('/pomysly.html');
+      await page.goto('/pomysly_tras.html');
       await expect(page.locator('body')).not.toBeEmpty();
     });
 

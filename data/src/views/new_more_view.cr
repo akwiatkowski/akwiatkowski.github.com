@@ -84,6 +84,7 @@ class NewMoreView < BaseView
       {name: "Mapa zdjęć", url: "/mapa_zdjec.html", icon: "photos", desc: "Przeglądaj zdjęcia na mapie w stylu Panoramio"},
       {name: "Linia czasu", url: "/linia_czasu.html", icon: "clock", desc: "Zdjęcia ułożone według miesiąca i dnia roku"},
       {name: "Mapa tras", url: "/mapa_tras.html", icon: "map", desc: "Interaktywna mapa z trasami wycieczek"},
+      {name: "Pomysły na trasy", url: "/pomysly_tras.html", icon: "idea", desc: "Planer rowerowych wycieczek z filtrami i mapami"},
     ]
 
     String.build do |s|

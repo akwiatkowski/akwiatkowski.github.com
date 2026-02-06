@@ -1,12 +1,12 @@
 module StaticView
-  class JsIdeasView < BaseView
+  class TripIdeasView < BaseView
     Log = ::Log.for(self)
 
     def initialize(context : RenderContext, @url : String)
       super(context: context, url: @url)
     end
 
-    # Ideas page uses React and Leaflet for interactive features
+    # Trip ideas page uses React and Leaflet for interactive features
     def additional_bundles : Array(String)
       ["leaflet", "react-runtime"]
     end

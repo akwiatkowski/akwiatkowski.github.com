@@ -10,7 +10,7 @@
 # 2. More page (old) - /wiecej2.html (priority: 90)
 # 3. About page - /o-mnie.html (priority: 91)
 # 3. English page - /en/index.html (priority: 92)
-# 4. JS Ideas page - /pomysly.html (priority: 93)
+# 4. Trip ideas page - /pomysly_tras.html (priority: 93)
 # 5. JS Timeline page - /linia_czasu.html (priority: 94)
 # 6. Photo map page - /mapa_zdjec.html (priority: 95)
 # 7. JS Exif Stats page - /exif_statystyki.html (priority: 96)
@@ -22,7 +22,7 @@
 #
 # Priority: 90-99 (near the end, low priority)
 #
-# View classes used: NewMoreView, StaticView::MoreView, JsIdeasView, JsTimelineView,
+# View classes used: NewMoreView, StaticView::MoreView, TripIdeasView, JsTimelineView,
 # PhotoMapView, JsExifView, MarkdownPageView
 # (loaded via renderer.cr)
 
@@ -125,12 +125,12 @@ def register_static_views(r : ViewRegistry)
   #
   # Ideas/inspiration page with map visualization.
   #
-  # URL: /pomysly.html
-  # View class: StaticView::JsIdeasView
+  # URL: /pomysly_tras.html
+  # View class: StaticView::TripIdeasView
   #
-  r.register("Static: JS ideas", [:posts], priority: 93) do |ctx|
-    ViewRegistry::Log.debug { "Rendering JS ideas page" }
-    ctx.write_output(StaticView::JsIdeasView.new(context: ctx, url: "pomysly.html"))
+  r.register("Static: trip ideas", [:posts], priority: 93) do |ctx|
+    ViewRegistry::Log.debug { "Rendering trip ideas page" }
+    ctx.write_output(StaticView::TripIdeasView.new(context: ctx, url: "pomysly_tras.html"))
   end
 
   # ============================================

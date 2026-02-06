@@ -7,9 +7,9 @@ describe StaticView do
     end
   end
 
-  describe StaticView::JsIdeasView do
+  describe StaticView::TripIdeasView do
     it "exists" do
-      StaticView::JsIdeasView.should_not be_nil
+      StaticView::TripIdeasView.should_not be_nil
     end
   end
 
