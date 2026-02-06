@@ -115,7 +115,7 @@ class Tremolite::DataManager
     end
   end
 
-  def load_towns
+  def load_towns # TODO: is it needed or deprecated?
     Log.debug { "loading towns" }
 
     Dir[File.join([@config_path, "towns", "**", "*"])].each do |f|
@@ -202,17 +202,11 @@ class Tremolite::DataManager
     town_yaml = YAML.parse(File.read(f))
     town_yaml.as_a.each do |town|
       o = TownEntity.new(town: town, lands: @lands.not_nil!)
-      if town["type"].to_s != "voivodeship"
-        @towns.not_nil! << o
-        @town_slugs.not_nil! << o.slug
-      elsif town["type"].to_s == "voivodeship"
-        o = VoivodeshipEntity.new(town)
-        @voivodeships.not_nil! << o
-      end
+      @towns.not_nil! << o
+      @town_slugs.not_nil! << o.slug
     end
 
     @towns = @towns.not_nil!.sort { |a, b| a.slug <=> b.slug }.uniq { |a| a.slug }
     @town_slugs = @town_slugs.not_nil!.sort.uniq
-    @voivodeships = @voivodeships.not_nil!.sort { |a, b| a.slug <=> b.slug }.uniq { |a| a.slug }
   end
 end
