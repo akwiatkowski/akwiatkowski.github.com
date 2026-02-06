@@ -1,6 +1,6 @@
 # Current Work
 
-## Status: Phase 20 - JSON Optimization (Analysis Complete)
+## Status: Phase 20 - JSON Optimization (In Progress)
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation
@@ -13,18 +13,18 @@
 
 **Goal:** Reduce JSON payload sizes by creating page-specific endpoints.
 
-### Current JSON Files (Analyzed)
+### Current JSON Files (Production Sizes)
 
 | File | Size | Generator | Used By |
 |------|------|-----------|---------|
-| `/payload.json` | **836 KB** | `PayloadJsonGenerator` | map.js, summary.js, area_show.js |
-| `/photos.json` | **312 KB** | `PhotosJsonGenerator` | timeline.js, panoramio.html, area_show.js |
-| `/ideas.json` | **512 KB** | `IdeasJsonGenerator` | ideas.js |
+| `/payload.json` | **5.0 MB** | `PayloadJsonGenerator` | map.js, summary.js, area_show.js |
+| `/photos.json` | **20 MB** (25,623 photos) | `PhotosJsonGenerator` | timeline.js, panoramio.html, area_show.js |
+| `/ideas.json` | 510 KB | `IdeasJsonGenerator` | ideas.js |
 | `/jsons/homepage.json` | 11 KB | `HomePageJsonGenerator` | homepage.js, post_collection.js |
 | `/train_stations.json` | 6 KB | `TrainStationsJsonGenerator` | ideas.js |
-| `/nav_stats.json` | 19 B | `NavStatsJsonGenerator` | nav_stats.js |
+| `/nav_stats.json` | 6.5 KB | `NavStatsJsonGenerator` | nav_stats.js |
 
-**Total unoptimized:** ~1.7 MB
+**Total unoptimized:** ~25.5 MB
 
 ---
 
@@ -47,7 +47,18 @@
 
 ---
 
-### Detailed Analysis: photos.json (312 KB)
+### Detailed Analysis: photos.json (20 MB)
+
+**Stats:** 25,623 photos total, 23,805 with GPS coords
+
+**Field sizes (top consumers):**
+| Field | Size | Notes |
+|-------|------|-------|
+| `article_url` | 2.81 MB | Needed for thumbnails |
+| `card_url` | 2.66 MB | **REMOVED** - saves ~2.66 MB |
+| `full_url` | 2.22 MB | Only needed for modal |
+| `post_url` | 1.38 MB | Links to posts |
+| `post_slug` | 1.26 MB | For filtering |
 
 **Pages using it:**
 
@@ -63,8 +74,7 @@
 |-------|-------------|-----------|-----------|
 | `desc` | ✓ | ✓ | ✓ |
 | `full_url` | ✓ (modal) | ✓ | - |
-| `card_url` | **UNUSED** | **UNUSED** | **UNUSED** |
-| `article_url` | ✓ (grid) | ✓ | ✓ |
+| `article_url` | ✓ (grid) | ✓ (sidebar) | ✓ |
 | `time` | ✓ | ✓ | ✓ |
 | `post_slug` | - | - | ✓ (filter) |
 | `post_url` | ✓ | ✓ | ✓ |
@@ -83,7 +93,7 @@
 | `exif.time` | - | ✓ | - |
 
 **Optimization:**
-1. Remove `card_url` from generator (never used)
+1. ~~Remove `card_url` from generator~~ **DONE** - panoramio now uses article_url
 2. Create `/jsons/photos_map.json` for panoramio - only photos with lat/lon, exclude detailed EXIF
 3. Keep `/jsons/photos.json` for timeline (needs full EXIF for modal)
 
@@ -92,7 +102,7 @@
 ### Implementation Plan
 
 #### Phase 20a: Quick Wins
-- [ ] Remove `card_url` from `PhotosJsonGenerator`
+- [x] Remove `card_url` from `PhotosJsonGenerator` (also updated panoramio.html to use article_url)
 - [ ] Move all JSONs to `/jsons/` directory
 - [ ] Update JS files to use new paths
 
@@ -128,10 +138,10 @@
 
 | Current | Optimized | Savings |
 |---------|-----------|---------|
-| payload.json 836KB | map.json ~300KB + summary.json ~50KB | ~486KB |
-| photos.json 312KB | photos.json ~200KB + photos_map.json ~150KB | ~0 (split) |
-| ideas.json 512KB | (keep as-is for now) | 0 |
-| **Total** | | **~500KB** |
+| photos.json 20MB | Remove card_url | **~2.66 MB** |
+| photos.json 20MB | Create photos_map.json (coords only, no full EXIF) | **~7 MB** |
+| payload.json 5MB | map.json + summary.json | **~3 MB** |
+| **Total** | | **~10+ MB** |
 
 ---
 

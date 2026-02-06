@@ -43,8 +43,6 @@ module SpecialView
                 json.object do
                   json.field("desc", photo_entity.desc)
                   json.field("full_url", photo_entity.full_image_src)
-                  # card_image_src (700px) is bigger than thumbnail_image_src (150px)
-                  json.field("card_url", photo_entity.card_image_src)
                   json.field("article_url", photo_entity.article_image_src)
 
                   json.field("time", photo_entity.time)
