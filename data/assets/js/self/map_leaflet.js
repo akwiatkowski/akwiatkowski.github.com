@@ -129,17 +129,21 @@ this.BlogMap = (function() {
 
     showPopup(latlng, p) {
       var div = '<div class="map-image" style="background-image: url(\'' + p.smallImage + '\')">';
+      div += '<div class="map-image-title"><a href="' + p.url + '">' + p.title + '</a></div>';
+      div += '<div class="map-image-info-bar">';
       div += '<div class="map-image-date">' + p.date + '</div>';
+      div += '<div class="map-image-stats">';
       if (p.distance) {
-        div += '<div class="map-image-distance">' + p.distance + 'km</div>';
+        div += '<div class="map-image-distance">' + p.distance + ' km</div>';
       }
       if (p.timeSpent) {
-        div += '<div class="map-image-time-spent">' + p.timeSpent + 'h</div>';
+        div += '<div class="map-image-time-spent">' + p.timeSpent + ' h</div>';
       }
-      div += '<div class="map-image-title"><a href="' + p.url + '">' + p.title + '</a></div>';
+      div += '</div>';
+      div += '</div>';
       div += '</div>';
 
-      L.popup()
+      L.popup({ maxWidth: 340, minWidth: 320, closeButton: true })
         .setLatLng(latlng)
         .setContent(div)
         .openOn(this.map);
