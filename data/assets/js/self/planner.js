@@ -70,7 +70,7 @@
       var gridRes = await fetch('/jsons/photo_grid.json');
       var gridData = await gridRes.json();
 
-      var stationsRes = await fetch('/train_stations.json');
+      var stationsRes = await fetch('/jsons/train_stations.json');
       var stationsData = await stationsRes.json();
 
       var rawStations = stationsData.train_stations || [];

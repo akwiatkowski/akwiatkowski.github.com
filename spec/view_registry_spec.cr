@@ -177,11 +177,11 @@ describe "setup_view_registry" do
       # - Home views: 4 (main, old home, map, pois)
       # - Photo views: 2 (galleries, maps)
       # - Stats views: 4 (year reports, burnout, towns history, towns timeline)
-      # - Feed views: 13 (RSS, Atom, 9x JSON, sitemap, robots)
+      # - Feed views: 12 (RSS, Atom, 8x JSON, sitemap, robots)
       # - Index views: 1 (towns only - lands deprecated)
       # - Static views: 9 (new more, more old, about, english, trip ideas, JS timeline, photo map, JS exif stats, photo planner)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
-      r.views.size.should eq(42)
+      r.views.size.should eq(41)
     end
 
     it "registers all entity views" do
@@ -257,7 +257,6 @@ describe "setup_view_registry" do
       view_names.should contain("Feed: photos JSON")
       view_names.should contain("Feed: photo grid JSON")
       view_names.should contain("Feed: train stations JSON")
-      view_names.should contain("Feed: nav stats JSON")
       view_names.should contain("Feed: sitemap")
       view_names.should contain("Feed: robots.txt")
     end

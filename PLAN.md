@@ -116,13 +116,12 @@
 #### Phase 20c: ~~Summary JSON~~ — REMOVED
 Summary page (`/zestawienie.html`) deleted. No longer needed.
 
-#### Phase 20d: Photos Map JSON
-- [ ] Create `/jsons/photos_map.json` generator
-- [ ] Include: only photos with lat/lon
-- [ ] Include fields: lat, lon, altitude, time, desc, article_url, post_url, tags, points, camera_name
-- [ ] Exclude: full_url, card_url, detailed EXIF (aperture, exposure, iso, focal)
-- [ ] Update `panoramio.html` to use new endpoint
-- [ ] Expected size: ~150KB (vs 312KB)
+#### Phase 20d: Photos Map JSON ✅ DONE
+- [x] Create `/jsons/photos_map.json` generator (`PhotosMapJsonGenerator`)
+- [x] Include: only photos with lat/lon
+- [x] Include fields: lat, lon, altitude, time, desc, article_url, post_url, tags, points, camera_name
+- [x] Exclude: full_url, card_url, detailed EXIF (aperture, exposure, iso, focal)
+- [x] Update `panoramio.html` to use new endpoint
 
 #### Phase 20e: Deprecate Old Endpoints
 - [ ] Add deprecation warnings to old endpoints

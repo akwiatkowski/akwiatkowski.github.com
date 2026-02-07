@@ -13,11 +13,10 @@
 # 6. Ideas JSON - /ideas.json (priority: 53)
 # 7. Photos JSON - /photos.json (priority: 54)
 # 7b. Photos Map JSON - /jsons/photos_map.json (priority: 54)
-# 8. Train stations JSON - /train_stations.json (priority: 55)
+# 8. Train stations JSON - /jsons/train_stations.json (priority: 55)
 # 9. Photo grid JSON - /jsons/photo_grid.json (priority: 56)
-# 10. Nav stats JSON - /nav_stats.json (priority: 57)
-# 11. Sitemap - /sitemap.xml (priority: 58)
-# 12. Robots.txt - /robots.txt (priority: 59)
+# 10. Sitemap - /sitemap.xml (priority: 58)
+# 11. Robots.txt - /robots.txt (priority: 59)
 #
 # Dependencies: [:posts, :yamls] for most, [:posts] for sitemap/robots
 #
@@ -140,12 +139,6 @@ def register_feed_views(r : ViewRegistry)
   r.register("Feed: photo grid JSON", [:posts, :yamls], priority: 56) do |ctx|
     ViewRegistry::Log.debug { "Rendering photo grid JSON" }
     ctx.write_output(SpecialView::PhotoGridJsonGenerator.new(context: ctx))
-  end
-
-  # Nav stats JSON - navigation statistics
-  r.register("Feed: nav stats JSON", [:posts, :yamls], priority: 57) do |ctx|
-    ViewRegistry::Log.debug { "Rendering nav stats JSON" }
-    ctx.write_output(SpecialView::NavStatsJsonGenerator.new(context: ctx))
   end
 
   # ============================================
