@@ -228,10 +228,6 @@ class Router
     "/mapa_tras.html"
   end
 
-  def summary_url : String
-    "/podsumowanie.html"
-  end
-
   def about_url : String
     "/o-mnie.html"
   end

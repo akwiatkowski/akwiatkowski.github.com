@@ -38,13 +38,11 @@
 | Page | URL | Fields Used |
 |------|-----|-------------|
 | **Map** | `/mapa_tras.html` | coords, date, distance, time_spent, url, title, card_image_url |
-| **Summary** | `/podsumowanie.html` | posts basic info, towns→voivodeship hierarchy, NO coords |
 | **Area Show** | `/gmina/*.html` | *(inline JSON, not payload.json)* |
 
 **Optimization:**
 - Create `/jsons/map.json` - posts with coords only, minimal metadata
-- Create `/jsons/summary.json` - no coords, just post metadata + hierarchy
-- Expected savings: ~500KB total
+- Summary page (`/zestawienie.html`) removed — no longer needs payload.json
 
 ---
 
@@ -115,12 +113,8 @@
 - [x] Add e2e tests for map JSON endpoint
 - [x] Result: 16 KB vs 836 KB in dev (98% reduction)
 
-#### Phase 20c: Summary JSON
-- [ ] Create `/jsons/summary.json` generator
-- [ ] Include: posts basic info, towns→voivodeship hierarchy
-- [ ] Exclude: coords, full area entities
-- [ ] Update `summary.js` to use new endpoint
-- [ ] Expected size: ~50KB
+#### Phase 20c: ~~Summary JSON~~ — REMOVED
+Summary page (`/zestawienie.html`) deleted. No longer needed.
 
 #### Phase 20d: Photos Map JSON
 - [ ] Create `/jsons/photos_map.json` generator
