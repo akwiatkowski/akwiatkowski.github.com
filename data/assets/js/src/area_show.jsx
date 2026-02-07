@@ -298,13 +298,32 @@ function PhotosSection({ photos }) {
 }
 
 function PostsSection({ posts }) {
+    const [displayPosts] = useState(() => {
+        if (posts.length <= 5) return posts;
+
+        // Fuzzy selection preferring latest posts
+        // Posts are already sorted by date descending
+        const scored = posts.map((post, idx) => {
+            // Recency score: latest=1.0, oldest≈0.1
+            const recencyScore = 1.0 - (idx / posts.length) * 0.9;
+            const randomFactor = 0.8 + Math.random() * 0.4;
+            return { post, score: recencyScore * randomFactor };
+        });
+
+        scored.sort((a, b) => b.score - a.score);
+        // Select top 5, re-sort by date for display
+        return scored.slice(0, 5)
+            .map(s => s.post)
+            .sort((a, b) => new Date(b.date) - new Date(a.date));
+    });
+
     if (posts.length === 0) return null;
 
     return (
         <section className="section">
             <h2 className="section-title">Wyprawy</h2>
             <div className="posts-list">
-                {posts.map(post => (
+                {displayPosts.map(post => (
                     <a key={post.slug} href={post.url} className="post-card-link">
                         <div className="post-card-image-wrap">
                             <img src={post.card_image_url} alt={post.title} className="post-card-image" loading="lazy" />
