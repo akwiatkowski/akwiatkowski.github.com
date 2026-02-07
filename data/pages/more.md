@@ -1,4 +1,3 @@
-* [**Zestawienie**](/summary) - Lista wszystkich wpisów posortowane chronologicznie, pogrupowanych po krainach lub miejscowościach.
 * [**Zaliczone gminy**](/towns/timeline) - chronologiczne zestawienie zaliczonych gmin (niekoniecznie na rowerze). Lub w [formie tabeli](/towns/timeline).
 * [**Najciekawsze miejsca**](/pois) - Zestawienie najciekawszych miejsc, które odkrywam na trasie.
 * [**Galeria**](/gallery) - Galeria ze zdjęć umieszczonych we wpisach. Są one podzielona na miesiące.

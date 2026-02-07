@@ -57,7 +57,6 @@
   var usedPhotoIds = new Set();
   var currentModalIndex = -1;
   var isScrolling = false;
-  var scrollTimeout = null;
   var touchStartY = 0;
 
   var gridStats = {
@@ -214,14 +213,13 @@
       var hasTimelineTag = photo.tags &&
         Array.isArray(photo.tags) &&
         photo.tags.some(function(tag) { return tag.toLowerCase() === 'timeline'; });
-      var isPublished = photo.is_published === true;
 
       photo.dayOfYear = getDayOfYear(photo.time);
       photo.weight = calculatePhotoWeight(photo);
 
-      if (hasTimelineTag && isPublished) {
+      if (hasTimelineTag) {
         timelinePhotos.push(photo);
-      } else {
+      } else if (photo.tags && photo.tags.length > 0) {
         fallbackPhotos.push(photo);
       }
     });
@@ -256,13 +254,6 @@
     }
 
     var totalColumns = Math.ceil(366 / CONFIG.DAYS_PER_COLUMN);
-
-    var containerEl = document.getElementById('gridContainer');
-    if (containerEl) {
-      var containerRect = containerEl.getBoundingClientRect();
-      var availableWidth = containerRect.width || window.innerWidth;
-      gridContainer.style.width = availableWidth + 'px';
-    }
 
     var timelineByColumn = {};
     var fallbackByColumn = {};
@@ -360,21 +351,7 @@
       columnStats.push(colStat);
     }
 
-    logDensityAnalysis();
     setupScrollSync();
-  }
-
-  function logDensityAnalysis() {
-    var availableTimeline = timelinePhotos.length;
-    var needed = gridStats.totalSlots;
-    var used = gridStats.filledSlots;
-    var density = (used / needed * 100).toFixed(1);
-
-    console.log('%c===== PHOTO TIMELINE DENSITY =====', 'font-weight: bold; color: #00ff00');
-    console.log('Grid: ' + gridStats.totalColumns + ' cols x ' + gridStats.rows + ' rows = ' + needed + ' slots');
-    console.log('Timeline photos: ' + availableTimeline + ', Used: ' + gridStats.timelinePhotosUsed);
-    console.log('Fallback used: ' + gridStats.fallbackPhotosUsed + ', Empty: ' + gridStats.emptySlots);
-    console.log('Fill rate: ' + density + '%');
   }
 
   function getUnusedPhoto(photos) {
@@ -388,7 +365,8 @@
   }
 
   function borrowUnusedPhoto(photosByColumn, targetCol, totalColumns) {
-    for (var offset = 1; offset <= totalColumns; offset++) {
+    var MAX_BORROW_DISTANCE = 2;
+    for (var offset = 1; offset <= MAX_BORROW_DISTANCE; offset++) {
       var leftCol = targetCol - offset;
       var rightCol = targetCol + offset;
 
@@ -440,17 +418,18 @@
     var slider = document.getElementById('daySlider');
     if (!gridContainer || !slider) return;
 
+    var scrollRafId = null;
     gridContainer.addEventListener('scroll', function() {
       if (isScrolling) return;
-
-      clearTimeout(scrollTimeout);
-      scrollTimeout = setTimeout(function() {
+      if (scrollRafId) return;
+      scrollRafId = requestAnimationFrame(function() {
+        scrollRafId = null;
         var scrollPercent = gridContainer.scrollLeft / (gridContainer.scrollWidth - gridContainer.clientWidth);
         var day = Math.round(scrollPercent * 365) + 1;
         slider.value = day;
         updateDateDisplay(day);
         updateVisibleColumnsStats();
-      }, 100);
+      });
     });
 
     slider.addEventListener('input', function(e) {

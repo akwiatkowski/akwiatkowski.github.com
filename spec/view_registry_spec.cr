@@ -176,8 +176,8 @@ describe "setup_view_registry" do
       # - Area views: 4 (show pages, post list pages, gallery pages, external areas post list)
       # - Home views: 4 (main, old home, map, pois)
       # - Photo views: 2 (galleries, maps)
-      # - Stats views: 5 (summary, year reports, burnout, towns history, towns timeline)
-      # - Feed views: 12 (RSS, Atom, 8x JSON, sitemap, robots)
+      # - Stats views: 4 (year reports, burnout, towns history, towns timeline)
+      # - Feed views: 13 (RSS, Atom, 9x JSON, sitemap, robots)
       # - Index views: 1 (towns only - lands deprecated)
       # - Static views: 9 (new more, more old, about, english, trip ideas, JS timeline, photo map, JS exif stats, photo planner)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
@@ -217,7 +217,6 @@ describe "setup_view_registry" do
       r = setup_view_registry
       view_names = r.views.map(&.name)
 
-      view_names.should contain("Stats: summary page")
       view_names.should contain("Stats: year reports")
       view_names.should contain("Stats: burnout")
       view_names.should contain("Stats: towns history")
@@ -501,7 +500,6 @@ describe "setup_view_registry" do
       names.should contain("Home: route map page")
 
       # Stats views
-      names.should contain("Stats: summary page")
 
       # Should NOT include EXIF task or cache tasks that depend on :exifs
       names.should_not contain("EXIF: init all posts")
@@ -518,7 +516,6 @@ describe "setup_view_registry" do
 
       # Should include entity views, stats views, index views
       # PHASE6_DEPRECATED: names.should contain("Towns: all pages") - migrated to AreaEntity
-      names.should contain("Stats: summary page")
       names.should contain("Index: towns")
 
       # Should NOT include home views (they only depend on :posts)

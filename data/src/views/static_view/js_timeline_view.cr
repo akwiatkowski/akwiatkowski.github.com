@@ -11,6 +11,10 @@ module StaticView
       ["leaflet", "timeline-js"]
     end
 
+    def page_css : Array(String)
+      ["timeline"]
+    end
+
     def add_to_sitemap?
       true
     end

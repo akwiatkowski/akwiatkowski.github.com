@@ -9,11 +9,6 @@
             --border-color: #e0e0e0;
         }
 
-        [data-bs-theme="dark"] {
-            --color-dark: #0d0d0d;
-            --color-light: #2d2d2d;
-            --border-color: #404040;
-        }
 
         * {
             box-sizing: border-box;
@@ -153,68 +148,109 @@
             background: rgba(156, 39, 176, 0.7);
         }
 
-        .modal-backdrop {
-            background: rgba(0,0,0,0.7);
-        }
-
-        .modal-content {
-            background: #fff;
-            border-radius: 12px;
-            border: none;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-        }
-
-        [data-bs-theme="dark"] .modal-content {
-            background: #2d2d2d;
-            color: #fff;
-        }
-
-        .modal-body {
-            padding: 24px;
-        }
-
-        .photo-modal-image {
-            width: 100%;
-            max-height: 60vh;
-            object-fit: contain;
-            border-radius: 8px;
-            margin-bottom: 20px;
-            background: #000;
-        }
-
-        .photo-meta {
-            display: grid;
-            gap: 12px;
-            font-size: 14px;
-        }
-
-        .meta-row {
+        .photo-lightbox {
+            position: fixed;
+            inset: 0;
+            z-index: 1050;
+            background: rgba(0, 0, 0, 0.95);
             display: flex;
-            justify-content: space-between;
-            padding: 10px;
-            border-radius: 6px;
-            background: #f5f5f5;
+            align-items: center;
+            justify-content: center;
         }
 
-        [data-bs-theme="dark"] .meta-row {
-            background: #1e1e1e;
+        .photo-lightbox-close {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            background: none;
+            border: none;
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 2rem;
+            cursor: pointer;
+            z-index: 1052;
+            width: 44px;
+            height: 44px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: color 0.2s;
         }
 
-        .meta-label {
-            font-weight: 600;
-            color: #666;
-        }
-
-        [data-bs-theme="dark"] .meta-label {
-            color: #aaa;
-        }
-
-        .meta-value {
-            color: #333;
-        }
-
-        [data-bs-theme="dark"] .meta-value {
+        .photo-lightbox-close:hover {
             color: #fff;
+        }
+
+        .photo-lightbox-image {
+            max-width: 92vw;
+            max-height: 92vh;
+            object-fit: contain;
+            display: block;
+        }
+
+        .photo-lightbox-caption {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 48px 28px 24px;
+            background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 60%, transparent 100%);
+            color: #fff;
+            pointer-events: none;
+        }
+
+        .photo-lightbox-caption > * {
+            pointer-events: auto;
+        }
+
+        .photo-lightbox-desc {
+            font-size: 1.2rem;
+            font-weight: 500;
+            margin-bottom: 6px;
+        }
+
+        .photo-lightbox-meta {
+            font-size: 0.8rem;
+            color: rgba(255, 255, 255, 0.55);
+            line-height: 1.6;
+        }
+
+        .photo-lightbox-meta span + span::before {
+            content: '\00b7';
+            margin: 0 6px;
+        }
+
+        .photo-lightbox-tags {
+            display: flex;
+            gap: 5px;
+            margin-top: 8px;
+            flex-wrap: wrap;
+        }
+
+        .photo-lightbox-tag {
+            font-size: 0.7rem;
+            padding: 2px 8px;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.12);
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .photo-lightbox-link {
+            display: inline-block;
+            margin-top: 10px;
+            font-size: 0.8rem;
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            padding: 4px 12px;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            border-radius: 14px;
+            transition: all 0.2s;
+        }
+
+        .photo-lightbox-link:hover {
+            color: #fff;
+            border-color: rgba(255, 255, 255, 0.5);
+            background: rgba(255, 255, 255, 0.1);
         }
 
         .map-marker {
@@ -226,58 +262,8 @@
             transform: scale(1.2);
         }
 
-        .controls-bar {
-            position: absolute;
-            bottom: 12px;
-            left: 12px;
-            background: rgba(255,255,255,0.95);
-            border-radius: 8px;
-            padding: 12px;
-            z-index: 100;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-            display: flex;
-            gap: 8px;
-            align-items: center;
-        }
-
-        .controls-bar label {
-            margin: 0;
-            font-size: 13px;
-            font-weight: 500;
-            color: #333;
-        }
-
-        .theme-toggle {
-            width: 40px;
-            height: 24px;
-            background: #ccc;
-            border-radius: 12px;
-            cursor: pointer;
-            border: none;
-            padding: 2px;
-            display: flex;
-            align-items: center;
-            transition: background 0.3s;
-        }
-
-        .theme-toggle.dark {
-            background: #555;
-        }
-
-        .theme-toggle span {
-            width: 20px;
-            height: 20px;
-            background: white;
-            border-radius: 50%;
-            transition: transform 0.3s;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 11px;
-        }
-
-        .theme-toggle.dark span {
-            transform: translateX(16px);
+        .leaflet-top.leaflet-left {
+            top: 50px;
         }
 
         .loading {
@@ -332,13 +318,6 @@
             background: #999;
         }
 
-        [data-bs-theme="dark"] ::-webkit-scrollbar-thumb {
-            background: #444;
-        }
-
-        [data-bs-theme="dark"] ::-webkit-scrollbar-thumb:hover {
-            background: #666;
-        }
 
         .btn-group-vertical .btn {
             border-radius: 0;
@@ -352,12 +331,6 @@
         .btn-group-vertical .btn:last-child {
             border-bottom-left-radius: 6px;
             border-bottom-right-radius: 6px;
-        }
-
-        .value-score {
-            font-weight: 600;
-            color: var(--color-primary);
-            font-size: 12px;
         }
 
         @media (max-width: 768px) {
@@ -519,72 +492,47 @@
             const PhotoModal = ({ photo, isOpen, onClose }) => {
                 if (!isOpen || !photo) return null;
 
+                const date = new Date(photo['exif.time'] || photo.time).toLocaleDateString('pl-PL', {
+                    year: 'numeric', month: 'long', day: 'numeric'
+                });
+
+                const metaParts = [date];
+                if (photo['exif.camera_name']) metaParts.push(photo['exif.camera_name']);
+                if (photo['exif.lens_name']) metaParts.push(photo['exif.lens_name']);
+                if (photo['exif.altitude']) metaParts.push(photo['exif.altitude'].toFixed(0) + ' m n.p.m.');
+
                 return window.React.createElement('div',
-                    { className: 'modal show d-block', style: { backgroundColor: 'rgba(0,0,0,0.7)' }, onClick: onClose },
-                    window.React.createElement('div',
-                        { className: 'modal-dialog modal-lg', onClick: (e) => e.stopPropagation() },
-                        window.React.createElement('div', { className: 'modal-content' },
-                            window.React.createElement('div', { className: 'modal-header' },
-                                window.React.createElement('h5', { className: 'modal-title' }, photo.desc),
-                                window.React.createElement('button', {
-                                    type: 'button',
-                                    className: 'btn-close',
-                                    onClick: onClose
-                                })
-                            ),
-                            window.React.createElement('div', { className: 'modal-body' },
-                                window.React.createElement('img', {
-                                    src: photo.full_url,
-                                    alt: 'photo',
-                                    className: 'photo-modal-image',
-                                    onError: (e) => e.target.style.display = 'none'
-                                }),
-                                window.React.createElement('div', { className: 'photo-meta' },
-                                    window.React.createElement('div', { className: 'meta-row' },
-                                        window.React.createElement('span', { className: 'meta-label' }, 'Taken'),
-                                        window.React.createElement('span', { className: 'meta-value' },
-                                            new Date(photo['exif.time']).toLocaleString()
-                                        )
-                                    ),
-                                    photo['exif.lat'] && photo['exif.lon'] ? [
-                                        window.React.createElement('div', { className: 'meta-row', key: 'lat' },
-                                            window.React.createElement('span', { className: 'meta-label' }, 'Latitude'),
-                                            window.React.createElement('span', { className: 'meta-value' }, photo['exif.lat'].toFixed(4))
-                                        ),
-                                        window.React.createElement('div', { className: 'meta-row', key: 'lon' },
-                                            window.React.createElement('span', { className: 'meta-label' }, 'Longitude'),
-                                            window.React.createElement('span', { className: 'meta-value' }, photo['exif.lon'].toFixed(4))
-                                        ),
-                                        photo['exif.altitude'] ? window.React.createElement('div', { className: 'meta-row', key: 'alt' },
-                                            window.React.createElement('span', { className: 'meta-label' }, 'Altitude'),
-                                            window.React.createElement('span', { className: 'meta-value' }, photo['exif.altitude'].toFixed(1) + ' m')
-                                        ) : null
-                                    ] : null,
-                                    photo['exif.camera_name'] ? window.React.createElement('div', { className: 'meta-row' },
-                                        window.React.createElement('span', { className: 'meta-label' }, 'Camera'),
-                                        window.React.createElement('span', { className: 'meta-value' }, photo['exif.camera_name'])
-                                    ) : null,
-                                    photo['exif.lens_name'] ? window.React.createElement('div', { className: 'meta-row' },
-                                        window.React.createElement('span', { className: 'meta-label' }, 'Lens'),
-                                        window.React.createElement('span', { className: 'meta-value' }, photo['exif.lens_name'])
-                                    ) : null,
-                                    (photo.tags || []).length > 0 ? window.React.createElement('div', { className: 'meta-row' },
-                                        window.React.createElement('span', { className: 'meta-label' }, 'Tags'),
-                                        window.React.createElement('span', { className: 'meta-value' }, photo.tags.join(', '))
-                                    ) : null,
-                                    window.React.createElement('div', { className: 'meta-row' },
-                                        window.React.createElement('span', { className: 'meta-label' }, 'Quality Score'),
-                                        window.React.createElement('span', { className: 'value-score' }, calculatePhotoValue(photo).toFixed(1))
-                                    )
-                                ),
-                                window.React.createElement('a', {
-                                    href: photo.post_url,
-                                    target: '_blank',
-                                    rel: 'noopener noreferrer',
-                                    className: 'btn btn-primary btn-sm mt-3'
-                                }, 'Wpis na blogu')
+                    { className: 'photo-lightbox', onClick: onClose },
+                    window.React.createElement('button', {
+                        className: 'photo-lightbox-close',
+                        onClick: onClose
+                    }, '\u00d7'),
+                    window.React.createElement('img', {
+                        src: photo.full_url,
+                        alt: photo.desc || '',
+                        className: 'photo-lightbox-image',
+                        onClick: (e) => e.stopPropagation(),
+                        onError: (e) => e.target.style.display = 'none'
+                    }),
+                    window.React.createElement('div', { className: 'photo-lightbox-caption' },
+                        photo.desc ? window.React.createElement('div', { className: 'photo-lightbox-desc' }, photo.desc) : null,
+                        window.React.createElement('div', { className: 'photo-lightbox-meta' },
+                            metaParts.map((part, i) =>
+                                window.React.createElement('span', { key: i }, part)
                             )
-                        )
+                        ),
+                        (photo.tags || []).length > 0 ? window.React.createElement('div', { className: 'photo-lightbox-tags' },
+                            photo.tags.map(tag =>
+                                window.React.createElement('span', { key: tag, className: 'photo-lightbox-tag' }, tag)
+                            )
+                        ) : null,
+                        photo.post_url ? window.React.createElement('a', {
+                            href: photo.post_url,
+                            target: '_blank',
+                            rel: 'noopener noreferrer',
+                            className: 'photo-lightbox-link',
+                            onClick: (e) => e.stopPropagation()
+                        }, 'Zobacz wpis') : null
                     )
                 );
             };
@@ -597,7 +545,6 @@
                 const [visiblePhotos, setVisiblePhotos] = useState([]);
                 const [selectedPhoto, setSelectedPhoto] = useState(null);
                 const [isModalOpen, setIsModalOpen] = useState(false);
-                const [theme, setTheme] = useState('light');
 
                 const getMinDistanceToPlaced = useCallback((candX, candY) => {
                   const placedPixels = placedPixelsRef.current;
@@ -813,23 +760,8 @@
                     };
                 }, [photos]);
 
-                useEffect(() => {
-                    document.documentElement.setAttribute('data-bs-theme', theme);
-                }, [theme]);
-
-                const toggleTheme = () => {
-                    setTheme(theme === 'light' ? 'dark' : 'light');
-                };
-
                 return window.React.createElement('div', { className: 'map-container' },
                     window.React.createElement('div', { id: 'map', ref: mapRef }),
-                    window.React.createElement('div', { className: 'controls-bar' },
-                        window.React.createElement('label', null, 'Theme:'),
-                        window.React.createElement('button',
-                            { className: `theme-toggle ${theme === 'dark' ? 'dark' : ''}`, onClick: toggleTheme },
-                            window.React.createElement('span', null, theme === 'light' ? '☀️' : '🌙')
-                        )
-                    ),
                     window.React.createElement('div', { className: 'sidebar' },
                         window.React.createElement('div', { className: 'sidebar-header' },
                             window.React.createElement('h3', null, '📍 Photos'),
@@ -865,7 +797,7 @@
                 const [photos, setPhotos] = useState(null);
 
                 useEffect(() => {
-                    fetch('/photos.json')
+                    fetch('/jsons/photos_map.json')
                         .then(res => res.json())
                         .then(data => {
                             const processedPhotos = generateSamplePhotos(data.photos);

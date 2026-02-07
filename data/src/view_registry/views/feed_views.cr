@@ -12,6 +12,7 @@
 # 5. Map JSON - /jsons/map.json (priority: 52)
 # 6. Ideas JSON - /ideas.json (priority: 53)
 # 7. Photos JSON - /photos.json (priority: 54)
+# 7b. Photos Map JSON - /jsons/photos_map.json (priority: 54)
 # 8. Train stations JSON - /train_stations.json (priority: 55)
 # 9. Photo grid JSON - /jsons/photo_grid.json (priority: 56)
 # 10. Nav stats JSON - /nav_stats.json (priority: 57)
@@ -118,6 +119,14 @@ def register_feed_views(r : ViewRegistry)
   r.register("Feed: photos JSON", [:posts, :yamls], priority: 54) do |ctx|
     ViewRegistry::Log.debug { "Rendering photos JSON" }
     ctx.write_output(SpecialView::PhotosJsonGenerator.new(context: ctx))
+  end
+
+  # Photos Map JSON - optimized for /mapa_zdjec.html (photo map)
+  # Only photos with lat/lon, excludes detailed EXIF (aperture, exposure, iso, focal)
+  # URL: /jsons/photos_map.json
+  r.register("Feed: photos map JSON", [:posts, :yamls], priority: 54) do |ctx|
+    ViewRegistry::Log.debug { "Rendering photos map JSON" }
+    ctx.write_output(SpecialView::PhotosMapJsonGenerator.new(context: ctx))
   end
 
   # Train stations JSON - train station data

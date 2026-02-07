@@ -8,44 +8,22 @@ const { useState, useEffect, useRef } = React;
 const AREA_CONFIG = JSON.parse(document.getElementById('area-config').textContent);
 
 // ==================== DATA LOADING ====================
-async function loadAreaData(areaConfig) {
-    // Load payload.json and photos.json in parallel
-    const [payloadRes, photosRes] = await Promise.all([
-        fetch('/payload.json'),
-        fetch('/photos.json')
-    ]);
+function loadAreaData(areaConfig) {
+    // Read pre-filtered data from inline JSON (generated at build time)
+    // To switch to fetch: replace with fetch('/jsons/areas/' + areaConfig.slug + '.json').then(r => r.json())
+    var inlineData = JSON.parse(document.getElementById('area-data').textContent);
 
-    const payload = await payloadRes.json();
-    const photosData = await photosRes.json();
-
-    // Filter posts by area
-    const areaPosts = payload.posts.filter(post => {
-        const areas = post[areaConfig.areaField] || [];
-        return areas.includes(areaConfig.slug);
-    }).sort((a, b) => new Date(b.date) - new Date(a.date));
-
-    // Get post slugs for this area
-    const postSlugs = new Set(areaPosts.map(p => p.slug));
-
-    // Filter photos by posts in this area (published only)
-    const areaPhotos = photosData.photos.filter(photo =>
-        postSlugs.has(photo.post_slug) && photo.is_published
-    );
+    var posts = inlineData.posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+    var photos = inlineData.photos;
 
     // Extract routes from posts
-    const routes = areaPosts.flatMap(post =>
+    var routes = posts.flatMap(post =>
         (post.coords || []).map(coord => coord.route)
     ).filter(route => route && route.length > 0);
 
-    // Calculate stats
-    const stats = calculateStats(areaPosts, areaPhotos);
+    var stats = calculateStats(posts, photos);
 
-    return {
-        posts: areaPosts,
-        photos: areaPhotos,
-        routes: routes,
-        stats: stats
-    };
+    return { posts, photos, routes, stats };
 }
 
 function calculateStats(posts, photos) {
@@ -393,26 +371,10 @@ function AreaFooter({ area }) {
 // ==================== MAIN APP ====================
 function AreaShowPage() {
     const [scrollProgress, setScrollProgress] = useState(0);
-    const [loading, setLoading] = useState(true);
-    const [error, setError] = useState(null);
-    const [areaData, setAreaData] = useState(null);
-
-    // Load data on mount
-    useEffect(() => {
-        loadAreaData(AREA_CONFIG)
-            .then(data => {
-                setAreaData({
-                    ...AREA_CONFIG,
-                    ...data
-                });
-                setLoading(false);
-            })
-            .catch(err => {
-                console.error('Failed to load area data:', err);
-                setError(err.message);
-                setLoading(false);
-            });
-    }, []);
+    const [areaData] = useState(() => {
+        var data = loadAreaData(AREA_CONFIG);
+        return { ...AREA_CONFIG, ...data };
+    });
 
     // Handle scroll
     useEffect(() => {
@@ -425,42 +387,6 @@ function AreaShowPage() {
         window.addEventListener('scroll', handleScroll, { passive: true });
         return () => window.removeEventListener('scroll', handleScroll);
     }, []);
-
-    if (loading) {
-        return (
-            <div style={{
-                height: '100vh',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                background: 'var(--color-background)',
-                color: 'var(--color-text)'
-            }}>
-                <div style={{ textAlign: 'center' }}>
-                    <i className="fa fa-spinner fa-spin fa-3x" style={{ color: 'var(--color-primary)' }}></i>
-                    <p style={{ marginTop: '1rem' }}>Ladowanie...</p>
-                </div>
-            </div>
-        );
-    }
-
-    if (error) {
-        return (
-            <div style={{
-                height: '100vh',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                background: 'var(--color-background)',
-                color: 'var(--color-text)'
-            }}>
-                <div style={{ textAlign: 'center' }}>
-                    <i className="fa fa-exclamation-triangle fa-3x" style={{ color: '#e74c3c' }}></i>
-                    <p style={{ marginTop: '1rem' }}>Blad ladowania: {error}</p>
-                </div>
-            </div>
-        );
-    }
 
     return (
         <>

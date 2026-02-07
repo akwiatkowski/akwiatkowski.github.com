@@ -5,11 +5,10 @@
 # data processing. They aggregate post data into summaries.
 #
 # Current views:
-# 1. Summary page - /zestawienie.html (priority: 40)
-# 2. Year reports - /rok/{year}.html (priority: 41)
-# 3. Burnout stats - /burnout.html (priority: 42)
-# 4. Towns history - /gminy/historia.html (priority: 43)
-# 5. Towns timeline - /gminy/chronologicznie.html (priority: 44)
+# 1. Year reports - /rok/{year}.html (priority: 41)
+# 2. Burnout stats - /burnout.html (priority: 42)
+# 3. Towns history - /gminy/historia.html (priority: 43)
+# 4. Towns timeline - /gminy/chronologicznie.html (priority: 44)
 #
 # Dependencies: [:posts, :yamls]
 # - Posts: source data for statistics
@@ -17,28 +16,11 @@
 #
 # Priority: 40-49 (after entity views, before feeds)
 #
-# View classes used: DynamicView::SummaryView, YearStatReportView,
+# View classes used: DynamicView::YearStatReportView,
 # BurnoutStatView, TownsHistoryView, TownsTimelineView
 # (loaded via renderer.cr)
 
 def register_stats_views(r : ViewRegistry)
-  # ============================================
-  # View: Summary Page
-  # ============================================
-  #
-  # Renders the main summary/statistics page with
-  # aggregated data from all posts.
-  #
-  # URL: /zestawienie.html
-  # View class: DynamicView::SummaryView
-  #
-  # Dependencies: [:posts, :yamls]
-  #
-  r.register("Stats: summary page", [:posts, :yamls], priority: 40) do |ctx|
-    ViewRegistry::Log.info { "Rendering summary page" }
-    ctx.write_output(DynamicView::SummaryView.new(context: ctx, url: "/zestawienie.html"))
-  end
-
   # ============================================
   # View: Year Reports
   # ============================================

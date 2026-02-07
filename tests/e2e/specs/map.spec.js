@@ -231,9 +231,9 @@ test.describe('Map pages', () => {
       const firstPhoto = page.locator('.photo-item').first();
       await firstPhoto.click();
 
-      // Modal should appear
-      await expect(page.locator('.modal.show')).toBeVisible({ timeout: 5000 });
-      await expect(page.locator('.photo-modal-image')).toBeVisible();
+      // Lightbox should appear
+      await expect(page.locator('.photo-lightbox')).toBeVisible({ timeout: 5000 });
+      await expect(page.locator('.photo-lightbox-image')).toBeVisible();
     });
 
     test('clicking marker opens modal', async ({ page }) => {
@@ -247,8 +247,8 @@ test.describe('Map pages', () => {
       if (await firstMarker.count() > 0) {
         await firstMarker.click();
 
-        // Modal should appear
-        await expect(page.locator('.modal.show')).toBeVisible({ timeout: 5000 });
+        // Lightbox should appear
+        await expect(page.locator('.photo-lightbox')).toBeVisible({ timeout: 5000 });
       }
     });
 

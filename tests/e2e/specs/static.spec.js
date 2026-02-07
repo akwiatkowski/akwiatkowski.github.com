@@ -10,7 +10,6 @@ test.describe('Static pages', () => {
     { url: '/wiecej.html', name: 'More' },
     { url: '/o-mnie.html', name: 'About' },
     { url: '/en/index.html', name: 'English' },
-    { url: '/zestawienie.html', name: 'Summary' },
     { url: '/pois.html', name: 'POIs' },
   ];
 
@@ -47,17 +46,6 @@ test.describe('Static pages', () => {
       if (payload.posts?.length > 0) {
         expect(count, 'Home should have post links').toBeGreaterThan(0);
       }
-    });
-
-  });
-
-  test.describe('Summary page', () => {
-
-    test('has statistics', async ({ page }) => {
-      await page.goto('/zestawienie.html');
-
-      // Should have main content area
-      await expect(page.locator('#content')).toBeVisible();
     });
 
   });

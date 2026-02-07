@@ -1,12 +1,6 @@
 require "../spec_helper"
 
 describe DynamicView do
-  describe DynamicView::SummaryView do
-    it "exists" do
-      DynamicView::SummaryView.should_not be_nil
-    end
-  end
-
   describe DynamicView::YearStatReportView do
     it "exists" do
       DynamicView::YearStatReportView.should_not be_nil

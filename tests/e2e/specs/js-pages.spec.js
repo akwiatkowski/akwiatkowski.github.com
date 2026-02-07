@@ -308,18 +308,142 @@ test.describe('JS-heavy pages', () => {
     test('loads without JS errors', async ({ pageWithErrorTracking }) => {
       const page = pageWithErrorTracking;
       await page.goto('/linia_czasu.html');
-      await page.waitForTimeout(1000);
+      await page.waitForTimeout(3000);
       await expectNoJsErrors(page);
     });
 
-    test('renders timeline content', async ({ page }) => {
+    test('has site navigation and footer', async ({ page }) => {
       await page.goto('/linia_czasu.html');
 
-      // Wait for timeline to initialize
-      await page.waitForTimeout(2000);
+      const nav = page.locator('nav.site-nav');
+      await expect(nav).toBeVisible();
 
-      // Should have some content rendered
-      await expect(page.locator('body')).not.toBeEmpty();
+      const footer = page.locator('footer.site-footer');
+      await expect(footer).toBeVisible();
+    });
+
+    test('grid populates with photo cells', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      const cells = page.locator('.photo-cell');
+      const count = await cells.count();
+      expect(count, 'Should have at least 50 photo cells').toBeGreaterThan(50);
+    });
+
+    test('photos have loaded images', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      const img = page.locator('.photo-cell img').first();
+      const src = await img.getAttribute('src');
+      expect(src, 'Photo image should have src').toBeTruthy();
+    });
+
+    test('date overlays exist', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      const overlays = page.locator('.photo-date-overlay');
+      const count = await overlays.count();
+      expect(count, 'Should have date overlays').toBeGreaterThan(0);
+    });
+
+    test('photos are chronologically ordered (left=Jan, right=Dec)', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      // First few overlays should be early months
+      const allOverlays = page.locator('.photo-date-overlay');
+      const total = await allOverlays.count();
+      const firstText = await allOverlays.first().textContent();
+      const lastText = await allOverlays.nth(total - 1).textContent();
+
+      const firstMonth = parseInt(firstText.split('-')[0]);
+      const lastMonth = parseInt(lastText.split('-')[0]);
+
+      // With sparse dev data, first photo may not be January - just verify ordering
+      expect(lastMonth, 'Last photos should be later than or equal to first').toBeGreaterThanOrEqual(firstMonth);
+    });
+
+    test('no out-of-season photos (borrow limit works)', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      // Check that first cell's month <= last cell's month (borrow doesn't cross seasons)
+      const overlays = page.locator('.photo-date-overlay');
+      const total = await overlays.count();
+      if (total < 2) return;
+
+      // Sample first and a cell ~25% in - they shouldn't be from wildly different months
+      const firstText = await overlays.first().textContent();
+      const quarterIdx = Math.floor(total / 4);
+      const quarterText = await overlays.nth(quarterIdx).textContent();
+      const firstMonth = parseInt(firstText.split('-')[0]);
+      const quarterMonth = parseInt(quarterText.split('-')[0]);
+
+      // With max borrow distance of 2 columns (10 days), nearby cells should be close in month
+      expect(Math.abs(quarterMonth - firstMonth), 'Quarter-way cell should be within 3 months of first').toBeLessThanOrEqual(3);
+    });
+
+    test('slider exists and shows date', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      const slider = page.locator('#daySlider');
+      await expect(slider).toBeVisible();
+
+      const dateDisplay = page.locator('#currentDate');
+      const text = await dateDisplay.textContent();
+      expect(text, 'Date display should show MM-DD format').toMatch(/^\d{2}-\d{2}$/);
+    });
+
+    test('modal opens on photo click', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      // Click first photo cell that has an image
+      const firstPhoto = page.locator('.photo-cell img').first();
+      await firstPhoto.click();
+      await page.waitForTimeout(500);
+
+      const modal = page.locator('#modalOverlay');
+      await expect(modal).toHaveClass(/visible/);
+    });
+
+    test('modal shows image and description', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      await page.locator('.photo-cell img').first().click();
+      await page.waitForTimeout(500);
+
+      const modalImage = page.locator('#modalImage');
+      const src = await modalImage.getAttribute('src');
+      expect(src, 'Modal image should have src').toBeTruthy();
+
+      const modalDesc = page.locator('#modalDesc');
+      const text = await modalDesc.textContent();
+      expect(text, 'Modal description should have text').toBeTruthy();
+    });
+
+    test('modal closes on escape', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      await page.locator('.photo-cell img').first().click();
+      await page.waitForTimeout(500);
+
+      // Verify modal is visible
+      const modal = page.locator('#modalOverlay');
+      await expect(modal).toHaveClass(/visible/);
+
+      // Press Escape
+      await page.keyboard.press('Escape');
+      await page.waitForTimeout(500);
+
+      // Modal should no longer be visible
+      await expect(modal).not.toHaveClass(/visible/);
     });
 
   });

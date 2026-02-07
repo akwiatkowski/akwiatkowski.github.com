@@ -1,3 +1,4 @@
+require "json"
 require "./page_view"
 
 # Show view for a specific area - displays area info, stats, and links
@@ -73,7 +74,56 @@ class AreaShowView < PageView
       data["bbox_east"] = "18.0"
     end
 
+    # Inline area data (posts + photos) as JSON for instant page load
+    data["area_data_json"] = generate_area_data_json
+
     load_html("area/show", data)
+  end
+
+  private def generate_area_data_json : String
+    photos = collect_area_photos
+
+    JSON.build do |json|
+      json.object do
+        json.field "posts" do
+          json.array do
+            @posts.each do |post|
+              json.object do
+                json.field("url", post.url)
+                json.field("slug", post.slug)
+                json.field("title", post.title)
+                json.field("date", post.date)
+                json.field("distace", post.distance)
+                json.field("time_spent", post.time_spent)
+                json.field("card_image_url", post.card_image_url)
+                json.field("tags") { json.raw post.tags.to_json }
+                json.field("coords") { json.raw post.detailed_routes.to_json }
+              end
+            end
+          end
+        end
+        json.field "photos" do
+          json.array do
+            photos.each do |photo|
+              json.object do
+                json.field("desc", photo.desc)
+                json.field("article_url", photo.article_image_src)
+                json.field("time", photo.time.to_s("%Y-%m-%d"))
+                json.field("post_url", photo.post_url)
+                json.field("points", photo.points)
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+
+  private def collect_area_photos : Array(PhotoEntity)
+    @posts.flat_map { |p| p.published_photo_entities }
+      .select { |p| p.tags.size > 0 }
+      .sort_by { |p| -p.points }
+      .first(50)
   end
 
   private def get_parent_info : NamedTuple(name: String, url: String)
