@@ -14,6 +14,7 @@ class PhotoMap::PostBigMapSvgView < PhotoMap::AbstractSvgView
 
     @map = Map::Base.new(
       posts: context.posts,
+      route_colors: context.route_colors,
       photo_size: Map::DEFAULT_PHOTO_SIZE,
       tile: @tile,
       zoom: @zoom,

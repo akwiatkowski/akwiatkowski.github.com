@@ -604,8 +604,8 @@
       }).setView([lat, lon], 14);
 
       L.tileLayer('/tiles/ump/{z}/{x}/{y}.png', {
-        maxZoom: 18,
-        minZoom: 5
+        maxZoom: 16,
+        minZoom: 6
       }).addTo(modalMap);
 
       modalMarker = L.marker([lat, lon], { icon: circleIcon }).addTo(modalMap);

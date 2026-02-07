@@ -53,11 +53,11 @@
         if (FILTER_BY && FILTER_VALUE) {
           var filterFieldMap = {
             'tag': 'tags',
-            'town': 'towns',
-            'county': 'counties',
-            'voivodeship': 'voivodeships',
-            'meso_region': 'meso_regions',
-            'macro_region': 'macro_regions'
+            'town': 'town_slugs',
+            'county': 'county_slugs',
+            'voivodeship': 'voivodeship_slugs',
+            'meso_region': 'meso_region_slugs',
+            'macro_region': 'macro_region_slugs'
           };
           var field = filterFieldMap[FILTER_BY];
           if (field) {

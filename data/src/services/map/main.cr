@@ -18,6 +18,8 @@ class Map::Main
   Log = ::Log.for(self)
 
   def initialize(
+    @route_colors : RouteColors,
+
     @posts = Array(Tremolite::Post).new,
     @routes = Array(PostRouteObject).new,
 
@@ -161,6 +163,7 @@ class Map::Main
       routes: @routes,
       raster_crop: @raster_crop,
       tiles_layer: @tiles_layer,
+      route_colors: @route_colors,
       type: @routes_type,
     )
 

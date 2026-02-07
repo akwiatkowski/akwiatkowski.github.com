@@ -37,14 +37,8 @@ module PostListView
     end
 
     def image_url
-      # Get best photo for area using AreaPhotoSelector
-      selector = AreaPhotoSelector.new(all_published_photos)
-      best = selector.best_photo_for(@area)
+      best = context.photo_selector.best_photo_for(@area)
       best ? best.full_image_src : ""
-    end
-
-    private def all_published_photos : Array(PhotoEntity)
-      context.posts.flat_map { |p| p.published_photo_entities }
     end
   end
 end

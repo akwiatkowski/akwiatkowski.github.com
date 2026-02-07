@@ -7,9 +7,10 @@ var AreaShow = (() => {
     var posts = inlineData.posts.sort((a, b) => new Date(b.date) - new Date(a.date));
     var photos = inlineData.photos;
     var relatedAreas = inlineData.related_areas || [];
-    var routes = posts.flatMap(
-      (post) => (post.coords || []).map((coord) => coord.route)
-    ).filter((route) => route && route.length > 0);
+    var routes = posts.flatMap((post) => {
+      var style = window.getRouteStyle(post.tags);
+      return (post.coords || []).map((coord) => coord.route).filter((route) => route && route.length > 0).map((route) => ({ points: route, style }));
+    });
     var stats = calculateStats(posts, photos);
     return { posts, photos, routes, stats, relatedAreas };
   }
@@ -46,6 +47,8 @@ var AreaShow = (() => {
     const map = L.map(container, {
       center: [(bbox.south + bbox.north) / 2, (bbox.west + bbox.east) / 2],
       zoom: 12,
+      minZoom: 6,
+      maxZoom: 16,
       zoomControl: interactive,
       dragging: interactive,
       touchZoom: interactive,
@@ -56,19 +59,20 @@ var AreaShow = (() => {
       attributionControl: false
     });
     L.tileLayer("/tiles/ump/{z}/{x}/{y}.png", {
-      maxZoom: 19
+      maxZoom: 16
     }).addTo(map);
     map.fitBounds([
       [bbox.south, bbox.west],
       [bbox.north, bbox.east]
     ], { padding: [50, 50] });
-    const routeColors = ["#32b8c6", "#21808d", "#1a7480"];
-    (area.routes || []).forEach((route, idx) => {
-      if (route && route.length > 0) {
-        L.polyline(route, {
-          color: routeColors[idx % routeColors.length],
-          weight: 4,
-          opacity: 0.9
+    (area.routes || []).forEach((route) => {
+      var points = route.points || route;
+      var style = route.style || window.ROUTE_STYLES.regular;
+      if (points && points.length > 0) {
+        L.polyline(points, {
+          color: style.color,
+          weight: style.weight,
+          opacity: style.opacity
         }).addTo(map);
       }
     });

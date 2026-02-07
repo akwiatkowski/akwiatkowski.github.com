@@ -2,18 +2,8 @@
 this.BlogMap = (function() {
   var throttle;
 
-  // Route colors by transport type
-  var routeStyles = {
-    hike:     { color: 'rgb(255, 100, 0)',   weight: 3, opacity: 1 },
-    bicycle:  { color: 'rgb(0, 70, 240)',    weight: 3, opacity: 1 },
-    'e-bike': { color: 'rgb(150, 60, 240)',  weight: 3, opacity: 1 },
-    canoe:    { color: 'rgb(0, 30, 150)',    weight: 3, opacity: 1 },
-    car:      { color: 'rgb(120, 0, 50)',    weight: 3, opacity: 0.4 },
-    ev:       { color: 'rgb(220, 100, 190)', weight: 3, opacity: 0.4 },
-    bus:      { color: 'rgb(50, 0, 120)',    weight: 3, opacity: 0.4 },
-    train:    { color: 'rgb(100, 50, 180)',  weight: 3, opacity: 0.4 },
-    regular:  { color: 'rgb(50, 50, 50)',    weight: 3, opacity: 0.4 }
-  };
+  // Route colors loaded from /js/self/route_colors.js (generated from data/config/route_colors.yml)
+  var routeStyles = window.ROUTE_STYLES;
 
   class BlogMap {
     constructor() {
@@ -55,13 +45,15 @@ this.BlogMap = (function() {
     startMap() {
       // Initialize map centered on Poland
       this.map = L.map('content', {
-        zoomControl: true
+        zoomControl: true,
+        minZoom: 6,
+        maxZoom: 16
       }).setView([51.7768, 19.4553], 6);
 
       // Add OSM tile layer
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; OpenStreetMap contributors',
-        maxZoom: 19
+        maxZoom: 16
       }).addTo(this.map);
 
       // Create layer groups for each transport type

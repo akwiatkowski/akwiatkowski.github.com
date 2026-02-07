@@ -39,12 +39,12 @@ module SpecialView
       router = @context.router
 
       # Collect unique area slugs across all posts for lookup tables
-      all_town_slugs = Set(String).new
-      all_meso_region_slugs = Set(String).new
+      all_area_slugs = Hash(AreaType, Set(String)).new { |h, k| h[k] = Set(String).new }
 
       @context.posts.each do |post|
-        post.area_slugs(AreaType::Town).each { |s| all_town_slugs << s }
-        post.area_slugs(AreaType::MesoRegion).each { |s| all_meso_region_slugs << s }
+        AreaType.each do |area_type|
+          post.area_slugs(area_type).each { |s| all_area_slugs[area_type] << s }
+        end
       end
 
       JSON.build do |json|
@@ -83,12 +83,21 @@ module SpecialView
                     end
                   end
 
-                  # Area slugs for filtering (just slugs, lookup via towns/meso_regions tables)
+                  # Area slugs for filtering (used by homepage.js and post_collection.js)
                   json.field "town_slugs" do
                     json.raw post.area_slugs(AreaType::Town).to_json
                   end
+                  json.field "county_slugs" do
+                    json.raw post.area_slugs(AreaType::County).to_json
+                  end
+                  json.field "voivodeship_slugs" do
+                    json.raw post.area_slugs(AreaType::Voivodeship).to_json
+                  end
                   json.field "meso_region_slugs" do
                     json.raw post.area_slugs(AreaType::MesoRegion).to_json
+                  end
+                  json.field "macro_region_slugs" do
+                    json.raw post.area_slugs(AreaType::MacroRegion).to_json
                   end
                 end
               end
@@ -108,33 +117,25 @@ module SpecialView
             end
           end
 
-          # Towns lookup table (only towns that appear in posts)
-          json.field "towns" do
-            json.array do
-              all_town_slugs.each do |slug|
-                town = @context.areas_of_type(AreaType::Town).find { |a| a.slug == slug }
-                next unless town
+          # Area lookup tables (only areas that appear in posts)
+          {
+            "towns"         => AreaType::Town,
+            "counties"      => AreaType::County,
+            "voivodeships"  => AreaType::Voivodeship,
+            "meso_regions"  => AreaType::MesoRegion,
+            "macro_regions" => AreaType::MacroRegion,
+          }.each do |field_name, area_type|
+            json.field field_name do
+              json.array do
+                all_area_slugs[area_type].each do |slug|
+                  area = @context.areas_of_type(area_type).find { |a| a.slug == slug }
+                  next unless area
 
-                json.object do
-                  json.field("slug", town.slug)
-                  json.field("url", router.area_post_list_url(town))
-                  json.field("name", town.name)
-                end
-              end
-            end
-          end
-
-          # Meso regions lookup table (only regions that appear in posts)
-          json.field "meso_regions" do
-            json.array do
-              all_meso_region_slugs.each do |slug|
-                region = @context.areas_of_type(AreaType::MesoRegion).find { |a| a.slug == slug }
-                next unless region
-
-                json.object do
-                  json.field("slug", region.slug)
-                  json.field("url", router.area_post_list_url(region))
-                  json.field("name", region.name)
+                  json.object do
+                    json.field("slug", area.slug)
+                    json.field("url", router.area_post_list_url(area))
+                    json.field("name", area.name)
+                  end
                 end
               end
             end

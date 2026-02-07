@@ -179,6 +179,20 @@ test.describe('Homepage', () => {
       await expect(chips.first()).toBeVisible({ timeout: 5000 });
     });
 
+    test('category chips include at least one meso region link', async ({ page }) => {
+      await page.goto('/');
+      await page.waitForLoadState('networkidle');
+
+      await page.waitForSelector('.category-chip', { timeout: 10000 });
+
+      const chipHrefs = await page.$$eval('.category-chip', els =>
+        els.map(el => el.getAttribute('href'))
+      );
+      const regionChips = chipHrefs.filter(href => href && href.includes('/wpisy-dla/regionu/'));
+      console.log(`Region chips: ${regionChips.length} (${regionChips.join(', ')})`);
+      expect(regionChips.length, 'Should have at least one meso region chip').toBeGreaterThan(0);
+    });
+
   });
 
 });

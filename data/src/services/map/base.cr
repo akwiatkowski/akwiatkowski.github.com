@@ -10,6 +10,7 @@ class Map::Base
 
   def initialize(
     posts : Array(Tremolite::Post),
+    @route_colors : RouteColors,
     @tile = Map::MapTile::Ump,
     @type = MapType::Blank,
     @zoom = DEFAULT_ZOOM,
@@ -81,6 +82,7 @@ class Map::Base
 
     # tiles will be first initial
     @instance = Main.new(
+      route_colors: @route_colors,
       posts: @posts,
       photos: @photo_entities,
 

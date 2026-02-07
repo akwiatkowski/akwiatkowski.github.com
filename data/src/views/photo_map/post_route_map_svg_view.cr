@@ -25,7 +25,7 @@ class PhotoMap::PostRouteMapSvgView < PhotoMap::AbstractSvgView
       coord_crop_type: Map::CoordCropType::RouteCrop,
 
       routes_type: Map::MapRoutesType::Static,
-      # coord_range: coord_range,
+      route_colors: @context.route_colors,
 
       zoom: @zoom,
       custom_width: POST_ROUTE_SVG_WIDTH,

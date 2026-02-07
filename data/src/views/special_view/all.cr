@@ -13,4 +13,5 @@ require "./photo_grid_json_generator"
 require "./train_stations_json_generator"
 require "./nav_stats_json_generator"
 
+require "./route_colors_js_generator"
 require "./rss_generator"

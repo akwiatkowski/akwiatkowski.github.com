@@ -14,9 +14,10 @@
 #   ctx.site_title     # => String
 #
 class RenderContext
-  getter blog : Tremolite::Blog
+  private getter blog : Tremolite::Blog
   getter router : Router
   @asset_bundle_loader : AssetBundleLoader?
+  @route_colors : RouteColors?
   @posts_for_area_cache : Hash(String, Array(Tremolite::Post))?
   @areas_with_posts_cache : Hash(AreaType, Array(AreaEntity))?
   @photo_selector : AreaPhotoSelector?
@@ -234,6 +235,14 @@ class RenderContext
     blog.layout_path
   end
 
+  def config_path : String
+    blog.config_path
+  end
+
+  def route_colors : RouteColors
+    @route_colors ||= RouteColors.new(config_path)
+  end
+
   def data_path : String
     blog.data_path
   end
@@ -314,6 +323,14 @@ class RenderContext
   # This provides a clean interface for registry blocks to output views
   def write_output(view)
     blog.renderer.render_view(view)
+  end
+
+  def dev_render
+    blog.renderer.dev_render
+  end
+
+  def copy_assets_and_photos
+    blog.renderer.copy_assets_and_photos
   end
 
   # Access the validator for entity validation

@@ -13,6 +13,7 @@ class PhotoMap::GlobalDotsMapSvgView < PhotoMap::AbstractSvgView
   )
     @map = Map::Base.new(
       posts: context.posts,
+      route_colors: context.route_colors,
       photo_size: @photo_size,
       tile: @tile,
       zoom: @zoom,

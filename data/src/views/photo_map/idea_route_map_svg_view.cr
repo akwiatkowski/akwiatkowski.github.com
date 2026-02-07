@@ -19,6 +19,7 @@ class PhotoMap::IdeaRouteMapSvgView < PhotoMap::AbstractSvgView
   def map
     return Map::Main.new(
       routes: routes,
+      route_colors: context.route_colors,
       autozoom_width: 700,
       zoom: 9
     )

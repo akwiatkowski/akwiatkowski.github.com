@@ -31,7 +31,7 @@ def register_setup_tasks(r : ViewRegistry)
   #
   r.task("Setup: dev render", [] of Symbol, priority: 1) do |ctx|
     ViewRegistry::Log.debug { "Running dev_render hook" }
-    ctx.blog.renderer.dev_render
+    ctx.dev_render
   end
 
   # ============================================
@@ -49,6 +49,21 @@ def register_setup_tasks(r : ViewRegistry)
   #
   r.task("Setup: copy assets", [] of Symbol, priority: 2) do |ctx|
     ViewRegistry::Log.debug { "Copying assets and photos via rsync" }
-    ctx.blog.renderer.copy_assets_and_photos
+    ctx.copy_assets_and_photos
+  end
+
+  # ============================================
+  # Task: Generate route_colors.js
+  # ============================================
+  #
+  # Reads data/config/route_colors.yml and generates /js/self/route_colors.js
+  # with window.ROUTE_STYLES for all map pages.
+  #
+  # Dependencies: none (always runs - reads static config)
+  # Priority: 3 (after copy_assets so it won't be overwritten)
+  #
+  r.task("Setup: route colors", [] of Symbol, priority: 3) do |ctx|
+    ViewRegistry::Log.debug { "Generating route_colors.js from config" }
+    ctx.write_output(SpecialView::RouteColorsJsGenerator.new(context: ctx))
   end
 end

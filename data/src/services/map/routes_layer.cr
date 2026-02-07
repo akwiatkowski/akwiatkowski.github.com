@@ -6,6 +6,7 @@ class Map::RoutesLayer
     @routes : Array(PostRouteObject),
     @raster_crop : Map::Crop::RasterCrop,
     @tiles_layer : TilesLayer,
+    @route_colors : RouteColors,
     @type : Map::MapRoutesType = Map::MapRoutesType::Static,
   )
   end
@@ -44,23 +45,10 @@ class Map::RoutesLayer
   end
 
   def convert_route_object_to_array_of_svg_lines(route_object)
-    svg_color =
-      allowed_types = {
-        "hike"    => "255,100,0",
-        "bicycle" => "0,70,240",
-        "train"   => "100,50,180",
-        "bus"     => "50,0,120",
-        "car"     => "120,0,50",
-        "air"     => "20,80,200",
-        "e-bike"  => "150,60,240",
-        "ev"      => "220,100,190",
-        "canoe"   => "0,30,150",
-      }
-
     return String.build do |s|
-      if allowed_types.keys.includes?(route_object.type)
-        # color is determined by type
-        color_svg_for_route_object = allowed_types[route_object.type]
+      if @route_colors.has_type?(route_object.type)
+        # color is determined by type (from data/config/route_colors.yml)
+        color_svg_for_route_object = @route_colors.color_rgb_for(route_object.type)
         geo_coords = route_object.route.as(SingleRouteObject)
 
         # render only if there 2 or more

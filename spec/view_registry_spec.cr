@@ -109,8 +109,8 @@ describe "setup_view_registry" do
     it "registers all expected tasks" do
       r = setup_view_registry
 
-      # Should have 5 tasks total (PHASE6: removed "Cache: town photos")
-      r.tasks.size.should eq(5)
+      # Should have 6 tasks total
+      r.tasks.size.should eq(6)
 
       # Check all tasks exist
       task_names = r.tasks.map(&.name)
@@ -284,11 +284,11 @@ describe "setup_view_registry" do
       r.views.all? { |v| v.priority >= 10 }.should be_true
     end
 
-    it "setup tasks have lowest priority (1-2)" do
+    it "setup tasks have lowest priority (1-3)" do
       r = setup_view_registry
       setup_tasks = r.tasks.select { |t| t.name.starts_with?("Setup:") }
 
-      setup_tasks.all? { |t| t.priority >= 1 && t.priority <= 2 }.should be_true
+      setup_tasks.all? { |t| t.priority >= 1 && t.priority <= 3 }.should be_true
     end
 
     it "EXIF tasks run before cache tasks (4 < 5-6)" do

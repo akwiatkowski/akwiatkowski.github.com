@@ -9,6 +9,7 @@ class Tools::GenerateMapsForIdeas
 
   def initialize(
     @type = "bicycle",
+    @route_colors = RouteColors.new("data/config"),
   )
   end
 
@@ -54,6 +55,7 @@ class Tools::GenerateMapsForIdeas
   private def render_svg_for_routes(routes)
     map = Map::Main.new(
       routes: routes,
+      route_colors: @route_colors,
       autozoom_width: 700,
       zoom: 9
     )

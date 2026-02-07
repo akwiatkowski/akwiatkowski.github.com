@@ -23,7 +23,7 @@
 
     var tileLayer = L.tileLayer(CONFIG.TILE_URL, {
       attribution: 'Map tiles',
-      maxZoom: 14,
+      maxZoom: 16,
       minZoom: 6,
       errorTileUrl: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256"><rect fill="%23f0f0f0" width="256" height="256"/></svg>'
     });

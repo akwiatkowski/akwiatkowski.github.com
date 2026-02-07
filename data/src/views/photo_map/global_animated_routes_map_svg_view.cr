@@ -11,6 +11,7 @@ class PhotoMap::GlobalAnimatedRoutesMapSvgView < PhotoMap::AbstractSvgView
   )
     @map = Map::Base.new(
       posts: context.posts,
+      route_colors: context.route_colors,
       tile: @tile,
       zoom: @zoom,
 
