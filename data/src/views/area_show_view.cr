@@ -11,12 +11,14 @@ class AreaShowView < PageView
   @posts : Array(Tremolite::Post)
   @photo_count : Int32
   @best_photo : PhotoEntity?
+  @selector : AreaPhotoSelector
 
   def initialize(context : RenderContext, @area : AreaEntity)
     super(context: context, url: @area.show_url)
+    @selector = context.photo_selector
     @posts = context.posts_for_area(@area)
-    @photo_count = count_photos_in_area
-    @best_photo = find_best_photo
+    @photo_count = @selector.photos_in_area(@area).size
+    @best_photo = @selector.best_photo_for(@area)
   end
 
   # Area show page needs leaflet for maps and react for dynamic UI
@@ -40,6 +42,11 @@ class AreaShowView < PageView
     @best_photo ? @best_photo.not_nil!.full_image_src : ""
   end
 
+  # Skip PageView header (intro-header) — area page has its own full-viewport hero
+  def content
+    inner_html
+  end
+
   def inner_html
     data = Hash(String, String).new
 
@@ -59,6 +66,13 @@ class AreaShowView < PageView
     voivodeship_info = get_voivodeship_info
     data["voivodeship_name"] = voivodeship_info[:name]
     data["voivodeship_url"] = voivodeship_info[:url]
+
+    # URLs for navigation links
+    data["post_list_url"] = context.router.area_post_list_url(@area)
+    data["gallery_url"] = context.router.area_gallery_url(@area)
+
+    # Best photo for hero background
+    data["best_photo_url"] = @best_photo ? @best_photo.not_nil!.article_image_src : ""
 
     # Bounding box
     if bbox = @area.bbox
@@ -115,6 +129,19 @@ class AreaShowView < PageView
             end
           end
         end
+        json.field "related_areas" do
+          json.array do
+            find_related_areas.each do |ra|
+              json.object do
+                json.field("name", ra[:area].name)
+                json.field("slug", ra[:area].slug)
+                json.field("area_type", ra[:area].area_type.polish_name)
+                json.field("show_url", ra[:area].show_url)
+                json.field("best_photo_url", ra[:photo_url])
+              end
+            end
+          end
+        end
       end
     end
   end
@@ -166,15 +193,48 @@ class AreaShowView < PageView
     {name: "", url: ""}
   end
 
-  private def count_photos_in_area : Int32
-    all_photos = context.posts.flat_map { |p| p.published_photo_entities }
-    selector = AreaPhotoSelector.new(all_photos)
-    selector.photos_in_area(@area).size
-  end
+  private def find_related_areas : Array(NamedTuple(area: AreaEntity, photo_url: String))
+    my_post_slugs = @posts.map(&.slug).to_set
 
-  private def find_best_photo : PhotoEntity?
-    all_photos = context.posts.flat_map { |p| p.published_photo_entities }
-    selector = AreaPhotoSelector.new(all_photos)
-    selector.best_photo_for(@area)
+    candidates = [] of {Float64, AreaEntity}
+
+    [AreaType::Town, AreaType::MesoRegion].each do |type|
+      context.areas_with_posts(type).each do |area|
+        next if area.slug == @area.slug && area.area_type == @area.area_type
+
+        score = 0.0
+
+        # BBox overlap scoring
+        if my_bbox = @area.bbox
+          if other_bbox = area.bbox
+            overlap = my_bbox.intersection_area(other_bbox)
+            my_area_size = my_bbox.area
+            score += (overlap / my_area_size) * 10.0 if my_area_size > 0
+          end
+        end
+
+        # Shared posts bonus
+        other_posts = context.posts_for_area(area)
+        shared = other_posts.count { |p| my_post_slugs.includes?(p.slug) }
+        score += shared * 2.0
+
+        # Same voivodeship bonus
+        if @area.voivodeship_slug && @area.voivodeship_slug == area.voivodeship_slug
+          score += 1.0
+        end
+
+        # Randomness for variety
+        score *= rand(0.8..1.2)
+
+        candidates << {score, area} if score > 0
+      end
+    end
+
+    candidates.sort_by! { |s, _| -s }
+    candidates.first(4).map do |_, area|
+      photo = @selector.best_photo_for(area)
+      photo_url = photo ? photo.article_image_src : ""
+      {area: area, photo_url: photo_url}
+    end
   end
 end

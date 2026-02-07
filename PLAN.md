@@ -5,7 +5,7 @@
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-19, Photo Planner)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-19, 21, Photo Planner)
 
 ---
 
@@ -17,8 +17,8 @@
 
 | File | Size | Generator | Used By |
 |------|------|-----------|---------|
-| `/payload.json` | **5.0 MB** | `PayloadJsonGenerator` | map.js, summary.js, area_show.js |
-| `/photos.json` | **20 MB** (25,623 photos) | `PhotosJsonGenerator` | timeline.js, panoramio.html, area_show.js |
+| `/payload.json` | **5.0 MB** | `PayloadJsonGenerator` | map.js, summary.js |
+| `/photos.json` | **20 MB** (25,623 photos) | `PhotosJsonGenerator` | timeline.js, panoramio.html |
 | `/jsons/photo_grid.json` | 14 KB | `PhotoGridJsonGenerator` | planner.js |
 | `/ideas.json` | 510 KB | `IdeasJsonGenerator` | ideas.js |
 | `/jsons/homepage.json` | 11 KB | `HomePageJsonGenerator` | homepage.js, post_collection.js |
@@ -39,7 +39,7 @@
 |------|-----|-------------|
 | **Map** | `/mapa_tras.html` | coords, date, distance, time_spent, url, title, card_image_url |
 | **Summary** | `/podsumowanie.html` | posts basic info, towns→voivodeship hierarchy, NO coords |
-| **Area Show** | `/gmina/*.html` | posts filtered by area, coords for map |
+| **Area Show** | `/gmina/*.html` | *(inline JSON, not payload.json)* |
 
 **Optimization:**
 - Create `/jsons/map.json` - posts with coords only, minimal metadata
@@ -181,7 +181,7 @@
 
 ## Test Status
 
-**275 Crystal tests passing**
+**274 Crystal tests passing**
 
 ### E2E Tests (Playwright)
 
@@ -197,7 +197,7 @@ Infrastructure in `tests/e2e/`:
 - `specs/navigation.spec.js` - Navigation styling across pages
 - `specs/more-page.spec.js` - More page links
 
-**Latest Results: ~93 passed, 0 failed, 5 skipped**
+**Latest Results: 110 passed, 1 failed (pre-existing), 5 skipped**
 
 **Run E2E tests:**
 ```bash
@@ -208,4 +208,4 @@ make test-e2e-headed   # Run with visible browser
 
 ---
 
-*Last updated: 2026-02-06*
+*Last updated: 2026-02-07*

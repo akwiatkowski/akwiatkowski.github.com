@@ -763,4 +763,69 @@ Converted from standalone `full_html` page to integrated `content` method:
 
 ---
 
-*Last updated: 2026-02-06*
+## Phase 21: Area Show Page Redesign ✅ COMPLETE
+
+**Completed**: 2026-02-07
+
+### Goal
+Redesign the area show page (`/gmina/*.html`, etc.) with visual improvements, performance optimization, and new features.
+
+### Visual Changes
+
+1. **Removed intro-header interference** — Override `content` to skip PageView's `<header class="intro-header">` that conflicted with the full-viewport hero
+2. **Hero photo + map blend** — Three layers: best photo background (fixed), Leaflet map at 0.35 opacity, text overlay with gradient. Fallback: map at full opacity if no photo
+3. **Hero map fade-in** — Map starts invisible, fades in (0.8s transition) after polygon loads + 600ms delay, so tile loading/zooming is hidden
+4. **Year range in hero** — Shows "2019–2024" below area name instead of verbose stat cards
+5. **Compact stats bar** — Replaced 4 bulky stat cards with single inline line: `12 wypraw · 340km · 26h · 185 zdjec`
+6. **Working navigation links** — "Wszystkie wpisy" and "Pelna galeria" now link to actual post list and gallery URLs (were `#`)
+7. **Tight photo matrix** — CSS grid with `gap: 1px`, 5:4 aspect ratio, no borders/rounding, hover overlay
+8. **Vertical post cards** — Full-width rows with image on left, text on right (stacks on mobile)
+9. **Related areas section** — Photo-background cards with area name overlay, replaces text-link footer
+10. **Standalone map section** — Interactive Leaflet map (draggable, zoomable) in main content area
+
+### Performance Optimization (4x speedup: 1100ms → 272ms)
+
+| Problem | Before | After |
+|---------|--------|-------|
+| `AreaPhotoSelector` creation | 3-4x per page | 1x total via `context.photo_selector` |
+| `posts_for_area()` | Full scan every call | Memoized by `area_type:slug` in RenderContext |
+| `areas_with_posts()` | Recomputed on every call | Memoized by AreaType in RenderContext |
+| Photo array `flat_map` | 3-4x per page | 1x total inside shared selector |
+
+### Related Areas Algorithm
+
+Fuzzy scoring for finding 2-4 related areas:
+- BBox overlap (weighted 10x) via `intersection_area`
+- Shared posts (2x per shared post)
+- Same voivodeship bonus (+1)
+- Random multiplier (`rand(0.8..1.2)`) for variety
+- Candidates: Towns and MesoRegions with posts
+
+### Sorted Rendering
+
+All area views (show, post list, gallery) now render in sorted order by slug for deterministic output.
+
+### Shared Map Logic
+
+Extracted `initLeafletMap()` function shared between:
+- Hero map (non-interactive, fade-in)
+- Content map section (interactive, draggable)
+
+### Files Changed
+
+| File | Changes |
+|------|---------|
+| `data/src/views/area_show_view.cr` | Override content, add URLs/photo/related areas, use shared selector |
+| `data/src/render_context.cr` | Memoized `posts_for_area`, `areas_with_posts`, shared `photo_selector` |
+| `data/layout/area/show.html` | Complete CSS rewrite, new config fields |
+| `data/assets/js/src/area_show.jsx` | All components redesigned, shared map init |
+| `data/assets/js/self/area_show.js` | Regenerated via esbuild |
+| `data/src/view_registry/views/area_views.cr` | Sorted rendering by slug |
+
+### Test Results
+
+**274 Crystal tests passing, 110 E2E tests passing**
+
+---
+
+*Last updated: 2026-02-07*

@@ -32,7 +32,7 @@ def register_area_views(r : ViewRegistry)
       areas_with_posts = ctx.areas_with_posts(area_type)
       ViewRegistry::Log.info { "Rendering #{areas_with_posts.size} #{area_type} show pages" }
 
-      areas_with_posts.each do |area|
+      areas_with_posts.sort_by(&.slug).each do |area|
         ctx.write_output(AreaShowView.new(context: ctx, area: area))
       end
     end
@@ -54,7 +54,7 @@ def register_area_views(r : ViewRegistry)
       areas_with_posts = ctx.areas_with_posts(area_type)
       ViewRegistry::Log.info { "Rendering #{areas_with_posts.size} #{area_type} post list pages" }
 
-      areas_with_posts.each do |area|
+      areas_with_posts.sort_by(&.slug).each do |area|
         ctx.write_output(PostListView::AreaPostListView.new(context: ctx, area: area))
       end
     end
@@ -77,7 +77,7 @@ def register_area_views(r : ViewRegistry)
       areas_with_posts = ctx.areas_with_posts(area_type)
       ViewRegistry::Log.info { "Rendering #{areas_with_posts.size} #{area_type} gallery pages" }
 
-      areas_with_posts.each do |area|
+      areas_with_posts.sort_by(&.slug).each do |area|
         # Only render gallery if area has bbox (needed for photo selection)
         next unless area.bbox
         ctx.write_output(GalleryView::AreaGalleryView.new(context: ctx, area: area))

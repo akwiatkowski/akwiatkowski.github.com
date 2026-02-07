@@ -17,6 +17,9 @@ class RenderContext
   getter blog : Tremolite::Blog
   getter router : Router
   @asset_bundle_loader : AssetBundleLoader?
+  @posts_for_area_cache : Hash(String, Array(Tremolite::Post))?
+  @areas_with_posts_cache : Hash(AreaType, Array(AreaEntity))?
+  @photo_selector : AreaPhotoSelector?
 
   def initialize(@blog : Tremolite::Blog)
     @router = Router.new
@@ -170,14 +173,22 @@ class RenderContext
     area_data_loader.areas_of_type(type)
   end
 
-  # Get areas that have posts associated
+  # Get areas that have posts associated (memoized)
   def areas_with_posts(type : AreaType) : Array(AreaEntity)
-    areas_of_type(type).select { |area| posts_for_area(area).size > 0 }
+    cache = @areas_with_posts_cache ||= Hash(AreaType, Array(AreaEntity)).new
+    cache[type] ||= areas_of_type(type).select { |area| posts_for_area(area).size > 0 }
   end
 
-  # Get posts for an area entity
+  # Get posts for an area entity (memoized by area_type:slug)
   def posts_for_area(area : AreaEntity) : Array(Tremolite::Post)
-    posts.select { |post| post.was_in_area?(area) && post.ready? }
+    cache = @posts_for_area_cache ||= Hash(String, Array(Tremolite::Post)).new
+    key = "#{area.area_type}:#{area.slug}"
+    cache[key] ||= posts.select { |post| post.was_in_area?(area) && post.ready? }
+  end
+
+  # Shared photo selector (built once, reused across all area views)
+  def photo_selector : AreaPhotoSelector
+    @photo_selector ||= AreaPhotoSelector.new(posts.flat_map { |p| p.published_photo_entities })
   end
 
   # Get all external (foreign) areas

@@ -4,26 +4,23 @@
 const { useState, useEffect, useRef } = React;
 
 // ==================== AREA CONFIG ====================
-// Loaded from JSON config block in the template
 const AREA_CONFIG = JSON.parse(document.getElementById('area-config').textContent);
 
 // ==================== DATA LOADING ====================
 function loadAreaData(areaConfig) {
-    // Read pre-filtered data from inline JSON (generated at build time)
-    // To switch to fetch: replace with fetch('/jsons/areas/' + areaConfig.slug + '.json').then(r => r.json())
     var inlineData = JSON.parse(document.getElementById('area-data').textContent);
 
     var posts = inlineData.posts.sort((a, b) => new Date(b.date) - new Date(a.date));
     var photos = inlineData.photos;
+    var relatedAreas = inlineData.related_areas || [];
 
-    // Extract routes from posts
     var routes = posts.flatMap(post =>
         (post.coords || []).map(coord => coord.route)
     ).filter(route => route && route.length > 0);
 
     var stats = calculateStats(posts, photos);
 
-    return { posts, photos, routes, stats };
+    return { posts, photos, routes, stats, relatedAreas };
 }
 
 function calculateStats(posts, photos) {
@@ -35,6 +32,8 @@ function calculateStats(posts, photos) {
     const totalTime = posts.reduce((sum, p) => sum + (p.time_spent || 0), 0);
 
     const dates = posts.map(p => p.date).sort();
+    const firstYear = dates[0] ? new Date(dates[0]).getFullYear() : null;
+    const lastYear = dates.length > 0 ? new Date(dates[dates.length - 1]).getFullYear() : null;
 
     return {
         totalDistance: Math.round(bicycleDistance + hikeDistance),
@@ -43,21 +42,12 @@ function calculateStats(posts, photos) {
         totalTime: Math.round(totalTime),
         postsCount: posts.length,
         photosCount: photos.length,
-        firstVisit: dates[0] || null,
-        lastVisit: dates[dates.length - 1] || null
+        firstYear,
+        lastYear
     };
 }
 
 // ==================== UTILITIES ====================
-function shuffleArray(array) {
-    const shuffled = [...array];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-    }
-    return shuffled;
-}
-
 function formatDate(dateStr) {
     return new Date(dateStr).toLocaleDateString('pl-PL', {
         day: 'numeric',
@@ -66,122 +56,139 @@ function formatDate(dateStr) {
     });
 }
 
-// ==================== COMPONENTS ====================
+// ==================== SHARED MAP LOGIC ====================
+function initLeafletMap(container, area, options = {}) {
+    const { bbox } = area;
+    const interactive = options.interactive || false;
 
-function HeroMap({ area, scrollProgress }) {
-    const mapRef = useRef(null);
-    const mapInstanceRef = useRef(null);
-    const [polygonLoaded, setPolygonLoaded] = useState(false);
+    const map = L.map(container, {
+        center: [(bbox.south + bbox.north) / 2, (bbox.west + bbox.east) / 2],
+        zoom: 12,
+        zoomControl: interactive,
+        dragging: interactive,
+        touchZoom: interactive,
+        scrollWheelZoom: false,
+        doubleClickZoom: interactive,
+        boxZoom: interactive,
+        keyboard: interactive,
+        attributionControl: false
+    });
 
-    useEffect(() => {
-        if (mapInstanceRef.current) return;
+    L.tileLayer('/tiles/ump/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+    }).addTo(map);
 
-        const { bbox } = area;
-        const center = [(bbox.south + bbox.north) / 2, (bbox.west + bbox.east) / 2];
+    map.fitBounds([
+        [bbox.south, bbox.west],
+        [bbox.north, bbox.east]
+    ], { padding: [50, 50] });
 
-        const map = L.map(mapRef.current, {
-            center: center,
-            zoom: 12,
-            zoomControl: false,
-            dragging: false,
-            touchZoom: false,
-            scrollWheelZoom: false,
-            doubleClickZoom: false,
-            boxZoom: false,
-            keyboard: false,
-            attributionControl: false
-        });
+    const routeColors = ['#32b8c6', '#21808d', '#1a7480'];
+    (area.routes || []).forEach((route, idx) => {
+        if (route && route.length > 0) {
+            L.polyline(route, {
+                color: routeColors[idx % routeColors.length],
+                weight: 4,
+                opacity: 0.9
+            }).addTo(map);
+        }
+    });
 
-        // Local tiles
-        L.tileLayer('/tiles/ump/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-        }).addTo(map);
+    const polygonUrl = `/polygons/${area.areaType}s/${area.slug}.json`;
+    fetch(polygonUrl)
+        .then(response => {
+            if (!response.ok) throw new Error('Polygon not found');
+            return response.json();
+        })
+        .then(geojson => {
+            const areaCoords = geojson.geometry.coordinates[0];
+            const worldBounds = [
+                [-90, -180], [-90, 180], [90, 180], [90, -180], [-90, -180]
+            ];
+            const areaLatLngs = areaCoords.map(coord => [coord[1], coord[0]]);
 
-        // Fit to bbox initially
-        map.fitBounds([
-            [bbox.south, bbox.west],
-            [bbox.north, bbox.east]
-        ], { padding: [50, 50] });
+            L.polygon([worldBounds, areaLatLngs], {
+                color: 'none',
+                fillColor: '#000',
+                fillOpacity: 0.4,
+                interactive: false
+            }).addTo(map);
 
-        // Draw routes with teal color scheme
-        // Routes come as arrays of [lat, lng] from payload.json coords
-        const routeColors = ['#32b8c6', '#21808d', '#1a7480'];
-        (area.routes || []).forEach((route, idx) => {
-            if (route && route.length > 0) {
-                L.polyline(route, {
-                    color: routeColors[idx % routeColors.length],
-                    weight: 4,
-                    opacity: 0.9
-                }).addTo(map);
-            }
-        });
-
-        // Try to load polygon, fall back to bbox rectangle
-        const polygonUrl = `/polygons/${area.areaType}s/${area.slug}.json`;
-        fetch(polygonUrl)
-            .then(response => {
-                if (!response.ok) throw new Error('Polygon not found');
-                return response.json();
-            })
-            .then(geojson => {
-                // Get the polygon coordinates
-                const areaCoords = geojson.geometry.coordinates[0];
-
-                // Create inverted polygon mask: world bounds with area cut out
-                const worldBounds = [
-                    [-90, -180],
-                    [-90, 180],
-                    [90, 180],
-                    [90, -180],
-                    [-90, -180]
-                ];
-
-                // Note: Leaflet expects [lat, lng], GeoJSON uses [lng, lat]
-                const areaLatLngs = areaCoords.map(coord => [coord[1], coord[0]]);
-
-                // Add gray mask outside the area
-                L.polygon([worldBounds, areaLatLngs], {
-                    color: 'none',
-                    fillColor: '#000',
-                    fillOpacity: 0.4,
-                    interactive: false
-                }).addTo(map);
-
-                // Draw polygon outline on top
-                const polygonLayer = L.geoJSON(geojson, {
-                    style: {
-                        color: '#21808d',
-                        weight: 2,
-                        fill: false,
-                        dashArray: '10, 10',
-                        opacity: 0.9
-                    }
-                }).addTo(map);
-
-                // Fit map to polygon bounds
-                map.fitBounds(polygonLayer.getBounds(), { padding: [50, 50] });
-                setPolygonLoaded(true);
-            })
-            .catch(err => {
-                // Fallback: draw bbox rectangle
-                L.rectangle([
-                    [bbox.south, bbox.west],
-                    [bbox.north, bbox.east]
-                ], {
+            const polygonLayer = L.geoJSON(geojson, {
+                style: {
                     color: '#21808d',
                     weight: 2,
                     fill: false,
-                    dashArray: '10, 10'
-                }).addTo(map);
-            });
+                    dashArray: '10, 10',
+                    opacity: 0.9
+                }
+            }).addTo(map);
 
-        mapInstanceRef.current = map;
-    }, [area]);
+            map.fitBounds(polygonLayer.getBounds(), { padding: [50, 50] });
+
+            if (options.onReady) options.onReady();
+        })
+        .catch(() => {
+            L.rectangle([
+                [bbox.south, bbox.west],
+                [bbox.north, bbox.east]
+            ], {
+                color: '#21808d',
+                weight: 2,
+                fill: false,
+                dashArray: '10, 10'
+            }).addTo(map);
+
+            if (options.onReady) options.onReady();
+        });
+
+    return map;
+}
+
+// ==================== COMPONENTS ====================
+
+function HeroPhotoBg({ url, scrollProgress }) {
+    if (!url) return null;
 
     const opacity = Math.max(0.15, 1 - scrollProgress * 1.5);
 
     return (
-        <div className="hero-map-container" style={{ opacity }}>
+        <div
+            className="hero-photo-bg"
+            style={{
+                backgroundImage: `url(${url})`,
+                opacity
+            }}
+        />
+    );
+}
+
+function HeroMap({ area, hasPhoto, scrollProgress }) {
+    const mapRef = useRef(null);
+    const mapInstanceRef = useRef(null);
+    const [mapReady, setMapReady] = useState(false);
+
+    useEffect(() => {
+        if (mapInstanceRef.current) return;
+
+        const onReady = () => {
+            setTimeout(() => setMapReady(true), 600);
+        };
+
+        mapInstanceRef.current = initLeafletMap(mapRef.current, area, {
+            interactive: false,
+            onReady
+        });
+    }, [area]);
+
+    const fadeOpacity = mapReady ? 1 : 0;
+    const scrollOpacity = hasPhoto ? undefined : Math.max(0.15, 1 - scrollProgress * 1.5);
+
+    return (
+        <div
+            className={`hero-map-container${hasPhoto ? ' has-photo' : ''}`}
+            style={hasPhoto ? { opacity: fadeOpacity } : { opacity: mapReady ? scrollOpacity : 0 }}
+        >
             <div id="map" ref={mapRef}></div>
         </div>
     );
@@ -189,33 +196,24 @@ function HeroMap({ area, scrollProgress }) {
 
 function HeroOverlay({ area, scrollProgress }) {
     const opacity = Math.max(0, 1 - scrollProgress * 2);
+    const { stats } = area;
+
+    const yearRange = stats.firstYear && stats.lastYear
+        ? (stats.firstYear === stats.lastYear ? `${stats.firstYear}` : `${stats.firstYear}\u2013${stats.lastYear}`)
+        : null;
 
     return (
         <div className="hero-overlay" style={{ opacity }}>
             <div className="hero-content">
                 <span className="area-type-badge">{area.areaTypeLabel}</span>
                 <h1 className="area-name">{area.name}</h1>
+                {yearRange && <div className="area-year-range">{yearRange}</div>}
                 <p className="area-parent">
-                    <a href={area.parentUrl}>{area.parentName}</a>
+                    {area.parentName && <a href={area.parentUrl}>{area.parentName}</a>}
                     {area.voivodeshipName && (
-                        <span>, <a href={area.voivodeshipUrl}>{area.voivodeshipName}</a></span>
+                        <span>{area.parentName ? ', ' : ''}<a href={area.voivodeshipUrl}>{area.voivodeshipName}</a></span>
                     )}
                 </p>
-
-                <div className="hero-stats-preview">
-                    <div className="hero-stat">
-                        <div className="hero-stat-value">{area.stats.totalDistance}</div>
-                        <div className="hero-stat-label">kilometrow</div>
-                    </div>
-                    <div className="hero-stat">
-                        <div className="hero-stat-value">{area.stats.postsCount}</div>
-                        <div className="hero-stat-label">wypraw</div>
-                    </div>
-                    <div className="hero-stat">
-                        <div className="hero-stat-value">{area.stats.photosCount}</div>
-                        <div className="hero-stat-label">zdjec</div>
-                    </div>
-                </div>
             </div>
         </div>
     );
@@ -223,7 +221,6 @@ function HeroOverlay({ area, scrollProgress }) {
 
 function ScrollHint({ visible }) {
     if (!visible) return null;
-
     return (
         <div className="scroll-hint">
             <i className="fa fa-chevron-down fa-2x"></i>
@@ -231,80 +228,62 @@ function ScrollHint({ visible }) {
     );
 }
 
-function StatsSection({ stats }) {
+function StatsBar({ stats, postListUrl, galleryUrl }) {
     return (
-        <section className="section">
-            <h2 className="section-title">W liczbach</h2>
-
-            <div className="stats-grid">
-                <div className="stat-card">
-                    <div className="stat-icon">
-                        <i className="fa fa-road"></i>
-                    </div>
-                    <div className="stat-value">{stats.totalDistance}</div>
-                    <div className="stat-label">Kilometrow</div>
-                    <div className="stat-breakdown">
-                        <i className="fa fa-bicycle"></i> {stats.bicycleDistance} km rowerem<br/>
-                        <i className="fa fa-male"></i> {stats.hikeDistance} km pieszo
-                    </div>
-                </div>
-
-                <div className="stat-card">
-                    <div className="stat-icon">
-                        <i className="fa fa-clock-o"></i>
-                    </div>
-                    <div className="stat-value">{stats.totalTime}</div>
-                    <div className="stat-label">Godzin w terenie</div>
-                </div>
-
-                <div className="stat-card">
-                    <div className="stat-icon">
-                        <i className="fa fa-map-marker"></i>
-                    </div>
-                    <div className="stat-value">{stats.postsCount}</div>
-                    <div className="stat-label">Wypraw</div>
-                    {stats.firstVisit && stats.lastVisit && (
-                        <div className="stat-breakdown">
-                            Pierwsza: {formatDate(stats.firstVisit)}<br/>
-                            Ostatnia: {formatDate(stats.lastVisit)}
-                        </div>
-                    )}
-                </div>
-
-                <div className="stat-card">
-                    <div className="stat-icon">
-                        <i className="fa fa-camera"></i>
-                    </div>
-                    <div className="stat-value">{stats.photosCount}</div>
-                    <div className="stat-label">Zdjec</div>
-                </div>
+        <div className="stats-bar">
+            <div className="stats-inline">
+                <span className="stat-value">{stats.postsCount}</span> wypraw
+                <span className="stat-sep">&middot;</span>
+                <span className="stat-value">{stats.totalDistance}</span> km
+                <span className="stat-sep">&middot;</span>
+                <span className="stat-value">{stats.totalTime}</span> h
+                <span className="stat-sep">&middot;</span>
+                <span className="stat-value">{stats.photosCount}</span> zdjec
             </div>
-
-            <div className="nav-links">
-                <a href="#" className="nav-link-btn">
+            <div className="stats-links">
+                <a href={postListUrl} className="stats-link-btn">
                     <i className="fa fa-list"></i> Wszystkie wpisy
                 </a>
-                <a href="#" className="nav-link-btn secondary">
+                <a href={galleryUrl} className="stats-link-btn secondary">
                     <i className="fa fa-th"></i> Pelna galeria
                 </a>
             </div>
+        </div>
+    );
+}
+
+function MapSection({ area }) {
+    const mapRef = useRef(null);
+    const mapInstanceRef = useRef(null);
+
+    useEffect(() => {
+        if (mapInstanceRef.current) return;
+
+        mapInstanceRef.current = initLeafletMap(mapRef.current, area, {
+            interactive: true
+        });
+    }, [area]);
+
+    return (
+        <section className="section map-section">
+            <h2 className="section-title">Mapa</h2>
+            <div className="map-container" ref={mapRef}></div>
         </section>
     );
 }
 
 function PhotosSection({ photos }) {
-    const [shuffledPhotos] = useState(() => shuffleArray(photos).slice(0, 12));
+    const [displayPhotos] = useState(() =>
+        [...photos].sort((a, b) => b.points - a.points).slice(0, 16)
+    );
 
-    if (photos.length === 0) {
-        return null;
-    }
+    if (photos.length === 0) return null;
 
     return (
         <section className="photos-section">
             <h2 className="section-title">Najlepsze zdjecia</h2>
-
             <div className="photos-grid">
-                {shuffledPhotos.map((photo, idx) => (
+                {displayPhotos.map((photo, idx) => (
                     <a key={idx} href={photo.post_url} className="photo-card">
                         <img src={photo.article_url} alt={photo.desc} loading="lazy" />
                         <div className="photo-overlay">
@@ -319,52 +298,55 @@ function PhotosSection({ photos }) {
 }
 
 function PostsSection({ posts }) {
-    if (posts.length === 0) {
-        return null;
-    }
+    if (posts.length === 0) return null;
 
     return (
         <section className="section">
-            <h2 className="section-title">Ostatnie wyprawy</h2>
-
-            <div className="posts-scroll-container">
-                <div className="posts-row">
-                    {posts.map(post => (
-                        <a key={post.slug} href={post.url} className="post-card-link">
-                            <img src={post.card_image_url} alt={post.title} className="post-card-image" />
-                            <div className="post-card-content">
-                                <div className="post-card-date">{formatDate(post.date)}</div>
-                                <h3 className="post-card-title">{post.title}</h3>
-                                <div className="post-card-stats">
-                                    <span><i className="fa fa-bicycle"></i> {post.distace || 0} km</span>
-                                    <span><i className="fa fa-clock-o"></i> {post.time_spent || 0}h</span>
-                                </div>
+            <h2 className="section-title">Wyprawy</h2>
+            <div className="posts-list">
+                {posts.map(post => (
+                    <a key={post.slug} href={post.url} className="post-card-link">
+                        <div className="post-card-image-wrap">
+                            <img src={post.card_image_url} alt={post.title} className="post-card-image" loading="lazy" />
+                        </div>
+                        <div className="post-card-content">
+                            <div className="post-card-date">{formatDate(post.date)}</div>
+                            <h3 className="post-card-title">{post.title}</h3>
+                            <div className="post-card-stats">
+                                {post.distace > 0 && <span><i className="fa fa-road"></i> {post.distace} km</span>}
+                                {post.time_spent > 0 && <span><i className="fa fa-clock-o"></i> {post.time_spent}h</span>}
                             </div>
-                        </a>
-                    ))}
-                </div>
+                        </div>
+                    </a>
+                ))}
             </div>
         </section>
     );
 }
 
-function AreaFooter({ area }) {
+function RelatedAreasSection({ relatedAreas }) {
+    if (!relatedAreas || relatedAreas.length === 0) return null;
+
     return (
-        <footer className="area-footer">
-            <div className="related-areas">
-                <div className="related-areas-title">Zobacz takze</div>
-                <div className="related-areas-list">
-                    <a href={area.parentUrl} className="related-area-link">
-                        <i className="fa fa-map-o"></i> {area.parentName}
+        <section className="related-section">
+            <h2 className="section-title">Zobacz takze</h2>
+            <div className="related-grid">
+                {relatedAreas.map((area, idx) => (
+                    <a key={idx} href={area.show_url} className="related-card">
+                        {area.best_photo_url && (
+                            <div
+                                className="related-card-bg"
+                                style={{ backgroundImage: `url(${area.best_photo_url})` }}
+                            />
+                        )}
+                        <div className="related-card-overlay">
+                            <div className="related-card-name">{area.name}</div>
+                            <div className="related-card-type">{area.area_type}</div>
+                        </div>
                     </a>
-                    {area.voivodeshipName && (
-                        <a href={area.voivodeshipUrl} className="related-area-link">
-                            <i className="fa fa-globe"></i> {area.voivodeshipName}
-                        </a>
-                    )}
-                </div>
+                ))}
             </div>
-        </footer>
+        </section>
     );
 }
 
@@ -376,7 +358,6 @@ function AreaShowPage() {
         return { ...AREA_CONFIG, ...data };
     });
 
-    // Handle scroll
     useEffect(() => {
         const handleScroll = () => {
             const windowHeight = window.innerHeight;
@@ -388,18 +369,26 @@ function AreaShowPage() {
         return () => window.removeEventListener('scroll', handleScroll);
     }, []);
 
+    const hasPhoto = !!areaData.bestPhotoUrl;
+
     return (
         <>
-            <HeroMap area={areaData} scrollProgress={scrollProgress} />
+            {hasPhoto && <HeroPhotoBg url={areaData.bestPhotoUrl} scrollProgress={scrollProgress} />}
+            <HeroMap area={areaData} hasPhoto={hasPhoto} scrollProgress={scrollProgress} />
             <HeroOverlay area={areaData} scrollProgress={scrollProgress} />
             <ScrollHint visible={scrollProgress < 0.1} />
 
             <main className="main-content">
                 <div className="content-transition"></div>
-                <StatsSection stats={areaData.stats} />
+                <StatsBar
+                    stats={areaData.stats}
+                    postListUrl={areaData.postListUrl}
+                    galleryUrl={areaData.galleryUrl}
+                />
+                <MapSection area={areaData} />
                 <PhotosSection photos={areaData.photos} />
                 <PostsSection posts={areaData.posts} />
-                <AreaFooter area={areaData} />
+                <RelatedAreasSection relatedAreas={areaData.relatedAreas} />
             </main>
         </>
     );
@@ -407,11 +396,9 @@ function AreaShowPage() {
 
 // ==================== RENDER ====================
 function init() {
-    // Using React 17 API for Preact compatibility
     ReactDOM.render(<AreaShowPage />, document.getElementById('root'));
 }
 
-// Wait for DOM to be ready
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
 } else {

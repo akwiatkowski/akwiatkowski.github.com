@@ -535,7 +535,14 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-06: TrainStationsJsonGenerator fixed - poznan_time_distance (number) not time_distance (hash)
 - 2026-02-06: Deleted old bicycle planner templates and BlogPlanner scripts
 - 2026-02-06: Feed view priorities shifted: photo_grid(56), nav_stats(57), sitemap(58), robots(59)
+- 2026-02-07: Area show page redesign - hero photo+map blend, compact stats, vertical posts, related areas
+- 2026-02-07: Hero map fade-in (0.8s transition after polygon load + 600ms delay)
+- 2026-02-07: Area show performance 4x speedup (1100ms→272ms) - memoized posts_for_area, shared photo_selector
+- 2026-02-07: RenderContext caching: posts_for_area, areas_with_posts, photo_selector memoized
+- 2026-02-07: Area views render in sorted slug order (show, post list, gallery)
+- 2026-02-07: Shared initLeafletMap() function for hero and content map sections
+- 2026-02-07: Related areas with fuzzy scoring (bbox overlap, shared posts, voivodeship bonus)
 
 ---
 
-*Current stats: 5 tasks + 42 views = 47 registry entries, 275 tests, ~93 e2e tests*
+*Current stats: 5 tasks + 42 views = 47 registry entries, 274 tests, 110 e2e tests*

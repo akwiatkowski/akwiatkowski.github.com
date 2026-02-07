@@ -227,4 +227,4 @@ The registry is defined in `data/src/view_registry/`:
 
 ---
 
-*Last updated: 2026-02-06*
+*Last updated: 2026-02-07*
