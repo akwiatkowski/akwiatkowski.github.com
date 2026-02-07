@@ -38,7 +38,7 @@
     distance_km: 0.964
     distance_percent: 8.5345
   macro_regions:
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
     distance_meters: 9896.97
@@ -100,7 +100,7 @@
   - slug: beskidy_zachodnie
     name: Beskidy Zachodnie
     code: "513"
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
   touched_mega_regions:

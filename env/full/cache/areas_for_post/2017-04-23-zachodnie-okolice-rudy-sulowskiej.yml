@@ -50,7 +50,7 @@
     distance_km: 2.836
     distance_percent: 7.8376
   macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 33347.2
@@ -109,7 +109,7 @@
     name: Wysoczyzna Kaliska
     code: "318.12"
   touched_macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: nizina_poludniowowielkopolska

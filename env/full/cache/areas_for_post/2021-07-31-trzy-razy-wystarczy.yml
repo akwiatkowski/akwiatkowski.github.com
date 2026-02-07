@@ -96,13 +96,13 @@
     distance_km: 4.205
     distance_percent: 3.9412
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 92456.72
     distance_km: 92.457
     distance_percent: 86.6508
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 14243.62
@@ -127,7 +127,7 @@
     distance_meters: 20742.66
     distance_km: 20.743
     distance_percent: 19.4401
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
     distance_meters: 13924.5
@@ -152,7 +152,7 @@
     distance_meters: 66503.08
     distance_km: 66.503
     distance_percent: 62.327
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 33836.02
@@ -197,7 +197,7 @@
     distance_meters: 100339.1
     distance_km: 100.339
     distance_percent: 94.0382
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 6361.25
@@ -248,10 +248,10 @@
     name: ostródzki
     code: "2815"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -264,7 +264,7 @@
   - slug: rownina_ilawska
     name: Równina Iławska
     code: "314.93"
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
   - slug: rownina_olsztynka
@@ -274,7 +274,7 @@
     name: Dolina Drwęcy
     code: "315.13"
   touched_macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: pojezierze_ilawskie
@@ -301,6 +301,6 @@
   - slug: niz_srodkowoeuropejski
     name: Niż Środkowoeuropejski
     code: "3"
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

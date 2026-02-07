@@ -828,4 +828,74 @@ Extracted `initLeafletMap()` function shared between:
 
 ---
 
+## Phase 22: Towns Index Page ✅ COMPLETE
+
+**Completed**: 2026-02-07
+
+### Goal
+Replace the old `ModelView::TownsIndexView` (basic `<ol>` list of all 2477 towns) with a modern, interactive Preact-powered page showing only ~500 towns with posts, grouped by voivodeship, with search/filter and photo cards.
+
+### Architecture
+Same pattern as area show page: Crystal generates inline JSON, HTML template provides CSS + structure, JSX provides interactive UI.
+
+### What Was Done
+
+1. **Crystal View** — Rewrote `TownsIndexView` with `load_html("towns/index", data)` template
+   - Inline JSON: voivodeships array + towns array (only towns with posts)
+   - Hero image: last finished post's card photo (fallback to config background)
+   - Deduplicates towns by slug (`.uniq(&.slug)`)
+   - Own `AreaPhotoSelector` instance for unique photo tracking
+
+2. **HTML Template** — Created `data/layout/towns/index.html`
+   - Hero section with background photo, title overlay
+   - CSS grid card layout (4-5 cols desktop, 2 cols mobile)
+   - Town cards: photo background, name overlay, post count badge, year range
+   - Fixed dark navbar over hero
+   - Dark mode support
+
+3. **JSX Components** — Created `data/assets/js/src/towns_index.jsx`
+   - `TownsIndexApp` (root), `SearchBar`, `VoivodeshipGroup`, `TownCard`
+   - Instant search filtering with `useMemo`
+   - Empty voivodeships auto-hidden when filtering
+   - "No results" message for empty search
+
+4. **Unique Photos** — Added `best_unique_photo_for` to `AreaPhotoSelector`
+   - Tracks used photos via `@used_photos : Set(String)`
+   - Prevents same photo appearing on multiple town cards
+   - Falls back to closest unused photo if all bbox photos taken
+
+5. **Voivodeship Slug Fix** — Fixed hyphen in `warminsko-mazurskie` slug
+   - `data/external/voivodeships.yaml` and `data/config/areas/voivodeships.yml`
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/layout/towns/index.html` | Template with CSS + hero + mount point |
+| `data/assets/js/src/towns_index.jsx` | Preact components (source) |
+| `data/assets/js/self/towns_index.js` | Transpiled JS output |
+| `tests/e2e/specs/towns-index.spec.js` | 8 E2E tests |
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/views/model_view/towns_index_view.cr` | Complete rewrite with load_html + inline JSON |
+| `data/src/services/area_photo_selector.cr` | Added `best_unique_photo_for`, `@used_photos` tracking |
+| `data/external/voivodeships.yaml` | Fixed `warminskomazurskie` → `warminsko-mazurskie` |
+| `data/config/areas/voivodeships.yml` | Fixed `warminskomazurskie` → `warminsko-mazurskie` |
+
+### Key Decisions
+
+- **Component named `TownsIndexApp`** (not `TownsIndex`) to avoid global scope collision with `window.TownsIndex = { init: fn }` when using `--bundle=false` esbuild
+- **Own `AreaPhotoSelector` instance** per view — shared `context.photo_selector` would cause cross-view side effects from unique photo tracking
+- **No search icon** — FontAwesome `fa-search` rendered as square on this page, removed in favor of centered placeholder text
+- **Inline JSON via `<script type="application/json">`** — safer than template interpolation directly in JS
+
+### Test Results
+
+**274 Crystal tests passing, 118 E2E tests (8 new)**
+
+---
+
 *Last updated: 2026-02-07*

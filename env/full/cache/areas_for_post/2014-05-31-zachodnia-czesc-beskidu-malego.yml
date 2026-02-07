@@ -16,7 +16,7 @@
     distance_meters: 4648.42
     distance_km: 4.648
     distance_percent: 34.2531
-  - slug: bielskobiala
+  - slug: bielsko-biala
     name: Bielsko-Biała
     code: "2461011"
     distance_meters: 4255.81
@@ -35,7 +35,7 @@
     distance_meters: 4648.42
     distance_km: 4.648
     distance_percent: 34.2531
-  - slug: bielskobiala
+  - slug: bielsko-biala
     name: Bielsko-Biała
     code: "2461"
     distance_meters: 4255.81
@@ -96,7 +96,7 @@
     distance_km: 13.571
     distance_percent: 100.0
   touched_towns:
-  - slug: bielskobiala
+  - slug: bielsko-biala
     name: Bielsko-Biała
     code: "2461011"
   - slug: wilkowice
@@ -106,7 +106,7 @@
     name: Czernichów
     code: "2417022"
   touched_counties:
-  - slug: bielskobiala
+  - slug: bielsko-biala
     name: Bielsko-Biała
     code: "2461"
   - slug: bielski

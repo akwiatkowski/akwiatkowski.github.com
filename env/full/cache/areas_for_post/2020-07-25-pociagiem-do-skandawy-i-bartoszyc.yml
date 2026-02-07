@@ -227,7 +227,7 @@
     distance_meters: 10560.94
     distance_km: 10.561
     distance_percent: 2.6512
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
     distance_meters: 9377.2
@@ -240,13 +240,13 @@
     distance_km: 7.056
     distance_percent: 1.7714
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 335975.83
     distance_km: 335.976
     distance_percent: 84.3438
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 62364.88
@@ -314,7 +314,7 @@
     distance_km: 6.5
     distance_percent: 1.6317
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 128677.44
@@ -338,7 +338,7 @@
     distance_meters: 37600.93
     distance_km: 37.601
     distance_percent: 9.4394
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 6499.9
@@ -377,7 +377,7 @@
     distance_km: 107.936
     distance_percent: 27.0964
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 225562.45
@@ -457,7 +457,7 @@
   - slug: torun
     name: Toruń
     code: "0463"
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
   - slug: wabrzeski
@@ -488,10 +488,10 @@
     name: kętrzyński
     code: "2808"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -526,10 +526,10 @@
     name: Nizina Sępopolska
     code: "841.59"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: pojezierze_ilawskie
@@ -562,6 +562,6 @@
   - slug: niz_srodkowoeuropejski
     name: Niż Środkowoeuropejski
     code: "3"
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

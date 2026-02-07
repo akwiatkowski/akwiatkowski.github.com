@@ -307,7 +307,7 @@
     distance_km: 84.117
     distance_percent: 19.4011
   meso_regions:
-  - slug: kotlina_jasielskokrosnienska
+  - slug: kotlina_jasielsko-krosnienska
     name: Kotlina Jasielsko-Krośnieńska
     code: "513.67"
     distance_meters: 122955.39
@@ -343,7 +343,7 @@
     distance_meters: 29960.68
     distance_km: 29.961
     distance_percent: 6.9103
-  - slug: gory_sanockoturczanskie
+  - slug: gory_sanocko-turczanskie
     name: Góry Sanocko-Turczańskie
     code: "522.11"
     distance_meters: 22215.71
@@ -591,7 +591,7 @@
   - slug: pogorze_strzyzowskie
     name: Pogórze Strzyżowskie
     code: "513.63"
-  - slug: kotlina_jasielskokrosnienska
+  - slug: kotlina_jasielsko-krosnienska
     name: Kotlina Jasielsko-Krośnieńska
     code: "513.67"
   - slug: pogorze_bukowskie
@@ -600,7 +600,7 @@
   - slug: beskid_niski
     name: Beskid Niski
     code: "513.71"
-  - slug: gory_sanockoturczanskie
+  - slug: gory_sanocko-turczanskie
     name: Góry Sanocko-Turczańskie
     code: "522.11"
   - slug: obnizenie_gorlickie

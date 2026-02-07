@@ -36,14 +36,14 @@
     distance_km: 7.477
     distance_percent: 41.4551
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 18036.34
     distance_km: 18.036
     distance_percent: 100.0
   meso_regions:
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 18036.34
@@ -95,11 +95,11 @@
     name: inowrocławski
     code: "0407"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   touched_macro_regions:

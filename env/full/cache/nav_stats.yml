@@ -10,7 +10,7 @@ train_time_length: 203
 train_count: 32
 self_distance: 18277
 self_time_length: 2729
-updated_at: 2026-02-06 22:29:44.002385000+01:00
+updated_at: 2026-02-07 17:33:19.858947000+01:00
 voivodeships_nav:
 - name: dolnośląskie
   slug: dolnoslaskie
@@ -18,9 +18,9 @@ voivodeships_nav:
   url: /wojewodztwo/dolnoslaskie.html
   count: 139
 - name: kujawsko-pomorskie
-  slug: kujawskopomorskie
+  slug: kujawsko-pomorskie
   type: voivodeship
-  url: /wojewodztwo/kujawskopomorskie.html
+  url: /wojewodztwo/kujawsko-pomorskie.html
   count: 48
 - name: lubuskie
   slug: lubuskie
@@ -68,9 +68,9 @@ voivodeships_nav:
   url: /wojewodztwo/slaskie.html
   count: 10
 - name: warmińsko-mazurskie
-  slug: warminskomazurskie
+  slug: warminsko-mazurskie
   type: voivodeship
-  url: /wojewodztwo/warminskomazurskie.html
+  url: /wojewodztwo/warminsko-mazurskie.html
   count: 27
 - name: zachodniopomorskie
   slug: zachodniopomorskie
@@ -124,10 +124,10 @@ lands_nav:
   url: /region/wysoczyzna_grodziska.html
   count: 26
 - name: Pojezierze Żnińsko-Mogileńskie
-  slug: pojezierze_zninskomogilenskie
+  slug: pojezierze_zninsko-mogilenskie
   type: lands
-  url: /region/pojezierze_zninskomogilenskie.html
-  count: 26
+  url: /region/pojezierze_zninsko-mogilenskie.html
+  count: 25
 - name: Góry Kaczawskie
   slug: gory_kaczawskie
   type: lands

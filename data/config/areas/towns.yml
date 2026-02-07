@@ -764,7 +764,7 @@
     north: 52.977467596000054
     west: 14.948939719000066
     east: 15.196136950000039
-- slug: ulanmajorat
+- slug: ulan-majorat
   name: Ulan-Majorat
   code: "0615072"
   voivodeship: lubelskie
@@ -854,7 +854,7 @@
     north: 51.84476897800005
     west: 21.772051358000056
     east: 21.95642133700005
-- slug: horynieczdroj
+- slug: horyniec-zdroj
   name: Horyniec-Zdrój
   code: "1809032"
   voivodeship: podkarpackie
@@ -1466,7 +1466,7 @@
     north: 52.11141189600005
     west: 21.311570379000045
     east: 21.483286726000074
-- slug: kuczborkosada
+- slug: kuczbork-osada
   name: Kuczbork-Osada
   code: "1437022"
   voivodeship: mazowieckie
@@ -2033,7 +2033,7 @@
     north: 53.46532580300004
     west: 22.618654690000028
     east: 22.92732604500003
-- slug: boguszowgorce
+- slug: boguszow-gorce
   name: Boguszów-Gorce
   code: "0221011"
   voivodeship: dolnoslaskie
@@ -2834,7 +2834,7 @@
     north: 50.47992609800008
     west: 18.877315427000042
     east: 18.989926942000068
-- slug: buskozdroj
+- slug: busko-zdroj
   name: Busko-Zdrój
   code: "2601013"
   voivodeship: swietokrzyskie
@@ -2879,7 +2879,7 @@
     north: 51.20272190000003
     west: 19.981769272000065
     east: 20.155182418000038
-- slug: skarzyskokamienna
+- slug: skarzysko-kamienna
   name: Skarżysko-Kamienna
   code: "2610011"
   voivodeship: swietokrzyskie
@@ -3014,7 +3014,7 @@
     north: 53.46012759200005
     west: 19.380602427000042
     east: 19.674727698000027
-- slug: rucianenida
+- slug: ruciane-nida
   name: Ruciane-Nida
   code: "2816043"
   voivodeship: warminsko-mazurskie
@@ -3365,7 +3365,7 @@
     north: 50.79752688900004
     west: 18.730955048000055
     east: 18.936294820000057
-- slug: czerwionkaleszczyny
+- slug: czerwionka-leszczyny
   name: Czerwionka-Leszczyny
   code: "2412013"
   voivodeship: slaskie
@@ -4058,7 +4058,7 @@
     north: 52.345768347000046
     west: 19.03149073000003
     east: 19.14439827800004
-- slug: olszewoborki
+- slug: olszewo-borki
   name: Olszewo-Borki
   code: "1415092"
   voivodeship: mazowieckie
@@ -4472,7 +4472,7 @@
     north: 50.296298972000045
     west: 18.896943517000068
     east: 19.12442358000004
-- slug: rudahuta
+- slug: ruda-huta
   name: Ruda-Huta
   code: 0603092
   voivodeship: lubelskie
@@ -4544,7 +4544,7 @@
     north: 52.51503161200003
     west: 20.019758245000048
     east: 20.251257688000067
-- slug: kedzierzynkozle
+- slug: kedzierzyn-kozle
   name: Kędzierzyn-Koźle
   code: "1603011"
   voivodeship: opolskie
@@ -4922,7 +4922,7 @@
     north: 51.52497001100005
     west: 20.76452111900005
     east: 20.98914935600004
-- slug: jedlnialetnisko
+- slug: jedlnia-letnisko
   name: Jedlnia-Letnisko
   code: "1425062"
   voivodeship: mazowieckie
@@ -5201,7 +5201,7 @@
     north: 50.19719876000005
     west: 19.92573812300003
     east: 20.06188237200007
-- slug: rutkatartak
+- slug: rutka-tartak
   name: Rutka-Tartak
   code: "2012062"
   voivodeship: podlaskie
@@ -5489,7 +5489,7 @@
     north: 49.62369887800003
     west: 19.56880737800003
     east: 19.77923699200005
-- slug: piwnicznazdroj
+- slug: piwniczna-zdroj
   name: Piwniczna-Zdrój
   code: "1210133"
   voivodeship: malopolskie
@@ -5498,7 +5498,7 @@
     north: 49.49387669200007
     west: 20.605093434000025
     east: 20.873715102000062
-- slug: krynicazdroj
+- slug: krynica-zdroj
   name: Krynica-Zdrój
   code: "1210073"
   voivodeship: malopolskie
@@ -5543,7 +5543,7 @@
     north: 50.487465728000075
     west: 16.75562901400002
     east: 16.947798500000033
-- slug: swieradowzdroj
+- slug: swieradow-zdroj
   name: Świeradów-Zdrój
   code: "0210021"
   voivodeship: dolnoslaskie
@@ -5741,7 +5741,7 @@
     north: 50.56633256500004
     west: 20.904207738000025
     east: 21.115853988000026
-- slug: soleczdroj
+- slug: solec-zdroj
   name: Solec-Zdrój
   code: "2601052"
   voivodeship: swietokrzyskie
@@ -6083,7 +6083,7 @@
     north: 51.84836491300007
     west: 18.230967434000036
     east: 18.43223563300006
-- slug: cekowkolonia
+- slug: cekow-kolonia
   name: Ceków-Kolonia
   code: "3007032"
   voivodeship: wielkopolskie
@@ -6191,7 +6191,7 @@
     north: 50.937234861000036
     west: 18.689749618000064
     east: 18.81791885900003
-- slug: goczalkowicezdroj
+- slug: goczalkowice-zdroj
   name: Goczałkowice-Zdrój
   code: "2410012"
   voivodeship: slaskie
@@ -6218,7 +6218,7 @@
     north: 50.014508643000056
     west: 18.495661477000056
     east: 18.611748867000074
-- slug: radziechowywieprz
+- slug: radziechowy-wieprz
   name: Radziechowy-Wieprz
   code: "2417102"
   voivodeship: slaskie
@@ -6731,7 +6731,7 @@
     north: 53.21669885600005
     west: 19.18613361200005
     east: 19.368384544000037
-- slug: polczynzdroj
+- slug: polczyn-zdroj
   name: Połczyn-Zdrój
   code: "3216033"
   voivodeship: zachodniopomorskie
@@ -6902,7 +6902,7 @@
     north: 53.24842003500004
     west: 21.379245756000046
     east: 21.70335563900005
-- slug: bogutypianki
+- slug: boguty-pianki
   name: Boguty-Pianki
   code: "1416032"
   voivodeship: mazowieckie
@@ -7010,7 +7010,7 @@
     north: 51.52147797500004
     west: 17.249507995000045
     east: 17.545881051000038
-- slug: bielskobiala
+- slug: bielsko-biala
   name: Bielsko-Biała
   code: "2461011"
   voivodeship: slaskie
@@ -7550,7 +7550,7 @@
     north: 53.351740748000054
     west: 22.20636165600007
     east: 22.497577351000075
-- slug: jedlinazdroj
+- slug: jedlina-zdroj
   name: Jedlina-Zdrój
   code: "0221021"
   voivodeship: dolnoslaskie
@@ -7901,7 +7901,7 @@
     north: 50.08502039600006
     west: 21.367870792000076
     east: 21.464635883000028
-- slug: igolomiawawrzenczyce
+- slug: igolomia-wawrzenczyce
   name: Igołomia-Wawrzeńczyce
   code: "1206022"
   voivodeship: malopolskie
@@ -7910,7 +7910,7 @@
     north: 50.15853350200007
     west: 20.18978344900006
     east: 20.353766045000043
-- slug: jerzmanowiceprzeginia
+- slug: jerzmanowice-przeginia
   name: Jerzmanowice-Przeginia
   code: "1206042"
   voivodeship: malopolskie
@@ -8153,7 +8153,7 @@
     north: 50.24492022900006
     west: 16.554624115000024
     east: 16.83519167000003
-- slug: ladekzdroj
+- slug: ladek-zdroj
   name: Lądek-Zdrój
   code: 0208083
   voivodeship: dolnoslaskie
@@ -8171,7 +8171,7 @@
     north: 50.37940151600003
     west: 16.436525517000064
     east: 16.83756888000005
-- slug: dusznikizdroj
+- slug: duszniki-zdroj
   name: Duszniki-Zdrój
   code: 0208011
   voivodeship: dolnoslaskie
@@ -9287,7 +9287,7 @@
     north: 49.67844740800007
     west: 19.798274486000025
     east: 19.876105348000067
-- slug: bystrasidzina
+- slug: bystra-sidzina
   name: Bystra-Sidzina
   code: "1215042"
   voivodeship: malopolskie
@@ -9377,7 +9377,7 @@
     north: 52.29129829400006
     west: 21.74645588900006
     east: 21.94179451900004
-- slug: garbatkaletnisko
+- slug: garbatka-letnisko
   name: Garbatka-Letnisko
   code: "1407012"
   voivodeship: mazowieckie
@@ -9773,7 +9773,7 @@
     north: 52.12267799400007
     west: 21.402427681000063
     east: 21.577741969000044
-- slug: sobieniejeziory
+- slug: sobienie-jeziory
   name: Sobienie-Jeziory
   code: "1417072"
   voivodeship: mazowieckie
@@ -9971,7 +9971,7 @@
     north: 53.84428586300004
     west: 18.799949869000045
     east: 19.144892054000024
-- slug: jelczlaskowice
+- slug: jelcz-laskowice
   name: Jelcz-Laskowice
   code: "0215033"
   voivodeship: dolnoslaskie
@@ -10529,7 +10529,7 @@
     north: 52.69687254400003
     west: 22.636130621000063
     east: 22.884443920000024
-- slug: nurzecstacja
+- slug: nurzec-stacja
   name: Nurzec-Stacja
   code: "2010072"
   voivodeship: podlaskie
@@ -11024,7 +11024,7 @@
     north: 53.06327973900005
     west: 22.398096329000055
     east: 22.644623657000068
-- slug: kobylinborzymy
+- slug: kobylin-borzymy
   name: Kobylin-Borzymy
   code: "2013052"
   voivodeship: podlaskie
@@ -11051,7 +11051,7 @@
     north: 53.36606470000004
     west: 14.584179023000047
     east: 14.875208289000057
-- slug: trzcinskozdroj
+- slug: trzcinsko-zdroj
   name: Trzcińsko-Zdrój
   code: "3206083"
   voivodeship: zachodniopomorskie
@@ -11654,7 +11654,7 @@
     north: 54.33646300100003
     west: 21.93800496700004
     east: 22.160721000000024
-- slug: ilowoosada
+- slug: ilowo-osada
   name: Iłowo-Osada
   code: "2803032"
   voivodeship: warminsko-mazurskie
@@ -12581,7 +12581,7 @@
     north: 49.81945352400004
     west: 20.828357693000044
     east: 21.04379847000007
-- slug: polanicazdroj
+- slug: polanica-zdroj
   name: Polanica-Zdrój
   code: 0208051
   voivodeship: dolnoslaskie
@@ -12995,7 +12995,7 @@
     north: 52.24147418700005
     west: 19.688938601000075
     east: 19.88199136000003
-- slug: konstancinjeziorna
+- slug: konstancin-jeziorna
   name: Konstancin-Jeziorna
   code: "1418023"
   voivodeship: mazowieckie
@@ -13967,7 +13967,7 @@
     north: 50.75813223200004
     west: 16.604454675000056
     east: 16.69016619300004
-- slug: jastrzebiezdroj
+- slug: jastrzebie-zdroj
   name: Jastrzębie-Zdrój
   code: "2467011"
   voivodeship: slaskie
@@ -14795,7 +14795,7 @@
     north: 51.73214560500003
     west: 21.021922285000073
     east: 21.23020202600003
-- slug: golyminosrodek
+- slug: golymin-osrodek
   name: Gołymin-Ośrodek
   code: "1402042"
   voivodeship: mazowieckie
@@ -14822,7 +14822,7 @@
     north: 49.67216423600007
     west: 21.384518424000078
     east: 21.517514892000065
-- slug: iwoniczzdroj
+- slug: iwonicz-zdroj
   name: Iwonicz-Zdrój
   code: "1807033"
   voivodeship: podkarpackie
@@ -15866,7 +15866,7 @@
     north: 53.297052379000036
     west: 18.471400128000028
     east: 18.670036266000068
-- slug: czechowicedziedzice
+- slug: czechowice-dziedzice
   name: Czechowice-Dziedzice
   code: "2402043"
   voivodeship: slaskie
@@ -16091,7 +16091,7 @@
     north: 50.82587179500007
     west: 16.06789118200004
     east: 16.207134736000057
-- slug: szczawnozdroj
+- slug: szczawno-zdroj
   name: Szczawno-Zdrój
   code: "0221031"
   voivodeship: dolnoslaskie
@@ -17009,7 +17009,7 @@
     north: 51.11736648300007
     west: 20.341705369000067
     east: 20.47580819500007
-- slug: sitkowkanowiny
+- slug: sitkowka-nowiny
   name: Sitkówka-Nowiny
   code: "2604172"
   voivodeship: swietokrzyskie
@@ -17882,7 +17882,7 @@
     north: 52.882115714000065
     west: 21.06880726000003
     east: 21.118126138000036
-- slug: ploniawybramura
+- slug: ploniawy-bramura
   name: Płoniawy-Bramura
   code: "1411062"
   voivodeship: mazowieckie
@@ -17918,7 +17918,7 @@
     north: 51.93961272200005
     west: 20.953964473000042
     east: 21.206471401000044
-- slug: rabkazdroj
+- slug: rabka-zdroj
   name: Rabka-Zdrój
   code: "1211123"
   voivodeship: malopolskie
@@ -18116,7 +18116,7 @@
     north: 53.30686273200007
     west: 16.387488725000026
     east: 16.523548669000036
-- slug: komarowosada
+- slug: komarow-osada
   name: Komarów-Osada
   code: "0620032"
   voivodeship: lubelskie
@@ -19169,7 +19169,7 @@
     north: 50.06446990000006
     west: 19.559340834000068
     east: 19.76110452300003
-- slug: kocmyrzowluborzyca
+- slug: kocmyrzow-luborzyca
   name: Kocmyrzów-Luborzyca
   code: "1206052"
   voivodeship: malopolskie
@@ -19376,7 +19376,7 @@
     north: 53.34473684300008
     west: 18.048421981000047
     east: 18.279668292000053
-- slug: golubdobrzyn
+- slug: golub-dobrzyn
   name: Golub-Dobrzyń
   code: "0405011"
   voivodeship: kujawsko-pomorskie
@@ -21941,7 +21941,7 @@
     north: 53.09069488200004
     west: 17.960841295000023
     east: 18.253443134000065
-- slug: golubdobrzyn
+- slug: golub-dobrzyn
   name: Golub-Dobrzyń
   code: "0405032"
   voivodeship: kujawsko-pomorskie
@@ -22130,7 +22130,7 @@
     north: 51.10107963000007
     west: 15.121105870000065
     east: 15.265265551000027
-- slug: kudowazdroj
+- slug: kudowa-zdroj
   name: Kudowa-Zdrój
   code: 0208031
   voivodeship: dolnoslaskie

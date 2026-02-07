@@ -52,7 +52,7 @@
     distance_meters: 3074.41
     distance_km: 3.074
     distance_percent: 6.4635
-  - slug: swieradowzdroj
+  - slug: swieradow-zdroj
     name: Świeradów-Zdrój
     code: "0210021"
     distance_meters: 2862.42
@@ -126,7 +126,7 @@
     distance_km: 47.566
     distance_percent: 100.0
   touched_towns:
-  - slug: swieradowzdroj
+  - slug: swieradow-zdroj
     name: Świeradów-Zdrój
     code: "0210021"
   - slug: mirsk

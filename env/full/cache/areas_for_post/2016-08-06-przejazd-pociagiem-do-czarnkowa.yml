@@ -89,7 +89,7 @@
     distance_meters: 30370.06
     distance_km: 30.37
     distance_percent: 25.9156
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
     distance_meters: 26883.75
@@ -146,7 +146,7 @@
     distance_meters: 111899.89
     distance_km: 111.9
     distance_percent: 95.4872
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 5288.5
@@ -205,7 +205,7 @@
     name: Poznań
     code: "3064011"
   touched_counties:
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
   - slug: obornicki
@@ -238,7 +238,7 @@
     name: Poznański Przełom Warty
     code: "315.52"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie

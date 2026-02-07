@@ -78,7 +78,7 @@
     distance_km: 4.438
     distance_percent: 7.0829
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 62652.74
@@ -116,7 +116,7 @@
     distance_km: 4.773
     distance_percent: 7.6184
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 32544.4
@@ -191,7 +191,7 @@
     name: brodnicki
     code: "0402"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -217,7 +217,7 @@
   - slug: dolina_dolnej_wisly
     name: Dolina Dolnej Wisły
     code: 314-316
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:

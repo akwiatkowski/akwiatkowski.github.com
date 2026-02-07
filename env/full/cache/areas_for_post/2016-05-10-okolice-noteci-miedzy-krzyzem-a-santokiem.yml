@@ -41,7 +41,7 @@
     distance_km: 3.702
     distance_percent: 5.8654
   counties:
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
     distance_meters: 48760.41
@@ -53,7 +53,7 @@
     distance_meters: 10651.39
     distance_km: 10.651
     distance_percent: 16.8765
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
     distance_meters: 3701.86
@@ -98,7 +98,7 @@
     distance_km: 3.403
     distance_percent: 5.3918
   macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 49840.94
@@ -151,10 +151,10 @@
     name: Santok
     code: 0801062
   touched_counties:
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
   - slug: gorzowski
@@ -181,7 +181,7 @@
     name: Równina Gorzowska
     code: "314.61"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_poludniowopomorskie

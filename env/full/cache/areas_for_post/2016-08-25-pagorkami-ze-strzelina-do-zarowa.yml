@@ -79,7 +79,7 @@
     distance_km: 78.737
     distance_percent: 100.0
   meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 43246.93
@@ -192,7 +192,7 @@
   - slug: rownina_wroclawska
     name: Równina Wrocławska
     code: "318.53"
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   - slug: rownina_swidnicka

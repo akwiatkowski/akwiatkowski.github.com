@@ -96,7 +96,7 @@
     distance_km: 26.184
     distance_percent: 15.8253
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 165458.44
@@ -109,7 +109,7 @@
     distance_meters: 79335.03
     distance_km: 79.335
     distance_percent: 47.9486
-  - slug: wysoczyzna_jezioranskobisztynecka
+  - slug: wysoczyzna_jezioransko-bisztynecka
     name: Wysoczyzna Jeziorańsko-Bisztynecka
     code: "842.89"
     distance_meters: 28502.06
@@ -167,7 +167,7 @@
     distance_km: 66.863
     distance_percent: 40.411
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 165458.44
@@ -209,7 +209,7 @@
     name: lidzbarski
     code: "2809"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -225,7 +225,7 @@
   - slug: wzniesienia_gorowskie
     name: Wzniesienia Górowskie
     code: "841.57"
-  - slug: wysoczyzna_jezioranskobisztynecka
+  - slug: wysoczyzna_jezioransko-bisztynecka
     name: Wysoczyzna Jeziorańsko-Bisztynecka
     code: "842.89"
   touched_macro_regions:
@@ -247,6 +247,6 @@
     name: Pobrzeże Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

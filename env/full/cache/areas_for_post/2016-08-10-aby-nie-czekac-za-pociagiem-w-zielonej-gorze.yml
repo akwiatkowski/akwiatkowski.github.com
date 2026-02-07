@@ -56,7 +56,7 @@
     distance_meters: 17166.74
     distance_km: 17.167
     distance_percent: 91.0545
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 1686.51
@@ -115,7 +115,7 @@
     name: Wał Zielonogórski
     code: "315.74"
   touched_macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: wzniesienia_zielonogorskie

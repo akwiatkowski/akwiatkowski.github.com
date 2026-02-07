@@ -18,7 +18,7 @@
     distance_km: 16.493
     distance_percent: 100.0
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 16493.06
@@ -68,7 +68,7 @@
     name: iławski
     code: "2807"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:

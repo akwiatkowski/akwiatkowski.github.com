@@ -115,7 +115,7 @@
     distance_meters: 1804.94
     distance_km: 1.805
     distance_percent: 2.8458
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 1081.19
@@ -219,7 +219,7 @@
   - slug: kotlina_kolska
     name: Kotlina Kolska
     code: "318.14"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   touched_macro_regions:

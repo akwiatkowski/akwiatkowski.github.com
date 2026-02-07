@@ -171,7 +171,7 @@
     distance_meters: 18539.78
     distance_km: 18.54
     distance_percent: 39.9992
-  - slug: kotlina_jasielskokrosnienska
+  - slug: kotlina_jasielsko-krosnienska
     name: Kotlina Jasielsko-Krośnieńska
     code: "513.67"
     distance_meters: 16485.31
@@ -251,7 +251,7 @@
   - slug: pogorze_bukowskie
     name: Pogórze Bukowskie
     code: "513.69"
-  - slug: kotlina_jasielskokrosnienska
+  - slug: kotlina_jasielsko-krosnienska
     name: Kotlina Jasielsko-Krośnieńska
     code: "513.67"
   touched_macro_regions:

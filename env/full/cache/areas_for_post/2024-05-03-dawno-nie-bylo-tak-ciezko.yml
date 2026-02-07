@@ -108,7 +108,7 @@
     distance_meters: 31925.89
     distance_km: 31.926
     distance_percent: 36.9679
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 18955.06
@@ -206,7 +206,7 @@
     name: złotowski
     code: "3031"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: pomorskie

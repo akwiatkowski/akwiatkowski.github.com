@@ -59,7 +59,7 @@
     distance_meters: 23585.19
     distance_km: 23.585
     distance_percent: 39.7656
-  - slug: ropczyckosedziszowski
+  - slug: ropczycko-sedziszowski
     name: ropczycko-sędziszowski
     code: "1815"
     distance_meters: 19148.47
@@ -91,7 +91,7 @@
     distance_meters: 46026.27
     distance_km: 46.026
     distance_percent: 77.6021
-  - slug: kotlina_jasielskokrosnienska
+  - slug: kotlina_jasielsko-krosnienska
     name: Kotlina Jasielsko-Krośnieńska
     code: "513.67"
     distance_meters: 8578.76
@@ -184,7 +184,7 @@
   - slug: strzyzowski
     name: strzyżowski
     code: "1819"
-  - slug: ropczyckosedziszowski
+  - slug: ropczycko-sedziszowski
     name: ropczycko-sędziszowski
     code: "1815"
   touched_voivodeships:
@@ -192,7 +192,7 @@
     name: PODKARPACKIE
     code: "18"
   touched_meso_regions:
-  - slug: kotlina_jasielskokrosnienska
+  - slug: kotlina_jasielsko-krosnienska
     name: Kotlina Jasielsko-Krośnieńska
     code: "513.67"
   - slug: pogorze_strzyzowskie

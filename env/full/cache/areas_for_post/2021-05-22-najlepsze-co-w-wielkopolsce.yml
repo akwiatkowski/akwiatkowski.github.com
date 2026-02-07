@@ -134,13 +134,13 @@
     distance_meters: 50615.61
     distance_km: 50.616
     distance_percent: 58.4042
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 33499.49
     distance_km: 33.499
     distance_percent: 38.6543
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 2549.22
@@ -223,13 +223,13 @@
     name: Kotlina Gorzowska
     code: "315.33"
   touched_macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   touched_mega_regions:

@@ -1,7 +1,7 @@
 - id: 0
   kod: '521'
   name: Płaskowyż Sańsko-Dniestrzański
-  slug: plaskowyz_sanskodniestrzanski
+  slug: plaskowyz_sansko-dniestrzanski
   polygon:
   - - 22.910488249281816
     - 49.77436916959326
@@ -66767,7 +66767,7 @@
 - id: 6
   kod: 514-15
   name: Obniżenie Orawsko-Podhalańskie
-  slug: obnizenie_orawskopodhalanskie
+  slug: obnizenie_orawsko-podhalanskie
   polygon:
   - - 19.97194646593184
     - 49.50380530337664
@@ -288196,7 +288196,7 @@
 - id: 13
   kod: '341'
   name: Wyżyna Krakowsko-Częstochowska
-  slug: wyzyna_krakowskoczestochowska
+  slug: wyzyna_krakowsko-czestochowska
   polygon:
   - - 19.356161675786844
     - 50.844651363377785
@@ -346711,7 +346711,7 @@
 - id: 16
   kod: '317'
   name: Nizina Śląsko-Łużycka
-  slug: nizina_slaskoluzycka
+  slug: nizina_slasko-luzycka
   polygon:
   - - 15.832905957959671
     - 51.62983855053259
@@ -421701,7 +421701,7 @@
 - id: 22
   kod: '341'
   name: Wyżyna Woźnicko-Wieluńska
-  slug: wyzyna_woznickowielunska
+  slug: wyzyna_woznicko-wielunska
   polygon:
   - - 19.144970003961674
     - 50.483640915732686
@@ -446405,7 +446405,7 @@
 - id: 24
   kod: 314-316
   name: Pojezierze Chełmińsko-Dobrzyńskie
-  slug: pojezierze_chelminskodobrzynskie
+  slug: pojezierze_chelminsko-dobrzynskie
   polygon:
   - - 19.870499559124713
     - 53.70697849774644
@@ -475951,7 +475951,7 @@
 - id: 26
   kod: 314-316
   name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
-  slug: pojezierze_lubuskie_brandenburskolubuskie
+  slug: pojezierze_lubuskie_brandenbursko-lubuskie
   polygon:
   - - 15.305730313417326
     - 52.62220234418976
@@ -486289,7 +486289,7 @@
 - id: 28
   kod: 314-316
   name: Pradolina Warciańsko-Odrzańska
-  slug: pradolina_warcianskoodrzanska
+  slug: pradolina_warciansko-odrzanska
   polygon:
   - - 14.621943169499298
     - 52.284162971872554
@@ -528560,7 +528560,7 @@
 - id: 31
   kod: 314-316
   name: Pradolina Toruńsko-Eberswaldzka
-  slug: pradolina_torunskoeberswaldzka
+  slug: pradolina_torunsko-eberswaldzka
   polygon:
   - - 18.036282692339935
     - 53.172056506061814
@@ -558686,7 +558686,7 @@
 - id: 33
   kod: '318'
   name: Obniżenie Milicko-Głogowskie
-  slug: obnizenie_milickoglogowskie
+  slug: obnizenie_milicko-glogowskie
   polygon:
   - - 15.638048597282834
     - 51.90631349079484

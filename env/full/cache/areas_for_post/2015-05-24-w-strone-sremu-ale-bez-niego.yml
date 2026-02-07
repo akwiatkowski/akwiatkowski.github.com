@@ -104,7 +104,7 @@
     distance_km: 0.923
     distance_percent: 1.6588
   macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 21265.1
@@ -199,7 +199,7 @@
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_leszczynskie

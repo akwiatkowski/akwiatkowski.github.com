@@ -30,7 +30,7 @@
     distance_km: 9.747
     distance_percent: 36.2097
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 26916.91
@@ -65,7 +65,7 @@
     distance_km: 26.917
     distance_percent: 100.0
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 26916.91
@@ -86,7 +86,7 @@
     name: kętrzyński
     code: "2808"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -106,6 +106,6 @@
     name: Pojezierze Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

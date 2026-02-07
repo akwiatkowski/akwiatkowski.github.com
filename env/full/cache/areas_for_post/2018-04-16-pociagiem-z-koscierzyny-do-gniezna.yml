@@ -210,7 +210,7 @@
     distance_km: 3.074
     distance_percent: 1.108
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 97581.09
@@ -301,7 +301,7 @@
     distance_meters: 2689.45
     distance_km: 2.689
     distance_percent: 0.9693
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 1725.51
@@ -320,7 +320,7 @@
     distance_meters: 113006.51
     distance_km: 113.007
     distance_percent: 40.7303
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 12435.96
@@ -452,7 +452,7 @@
   - slug: pomorskie
     name: POMORSKIE
     code: "22"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: wielkopolskie
@@ -502,7 +502,7 @@
   - slug: pojezierze_poludniowopomorskie
     name: Pojezierze Południowopomorskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie

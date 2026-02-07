@@ -16,7 +16,7 @@
     distance_meters: 4437.67
     distance_km: 4.438
     distance_percent: 27.8781
-  - slug: boguszowgorce
+  - slug: boguszow-gorce
     name: Boguszów-Gorce
     code: "0221011"
     distance_meters: 2467.64
@@ -78,7 +78,7 @@
     distance_km: 15.918
     distance_percent: 100.0
   touched_towns:
-  - slug: boguszowgorce
+  - slug: boguszow-gorce
     name: Boguszów-Gorce
     code: "0221011"
   - slug: czarny_bor

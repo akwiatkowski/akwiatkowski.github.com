@@ -34,7 +34,7 @@
     distance_meters: 5401.52
     distance_km: 5.402
     distance_percent: 10.6809
-  - slug: jedlinazdroj
+  - slug: jedlina-zdroj
     name: Jedlina-Zdrój
     code: "0221021"
     distance_meters: 4894.46
@@ -135,7 +135,7 @@
   - slug: walbrzych
     name: Wałbrzych
     code: "0265011"
-  - slug: jedlinazdroj
+  - slug: jedlina-zdroj
     name: Jedlina-Zdrój
     code: "0221021"
   - slug: gluszyca

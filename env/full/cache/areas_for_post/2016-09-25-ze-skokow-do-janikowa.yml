@@ -84,7 +84,7 @@
     distance_km: 4.173
     distance_percent: 5.6254
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 50055.19
@@ -103,7 +103,7 @@
     distance_meters: 46561.52
     distance_km: 46.562
     distance_percent: 62.7748
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 25199.36
@@ -188,7 +188,7 @@
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -198,7 +198,7 @@
   - slug: pojezierze_chodzieskie
     name: Pojezierze Chodzieskie
     code: "315.53"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   touched_macro_regions:

@@ -302,6 +302,7 @@ end
 | `RouteMapView` | `["core", "leaflet"]` |
 | `TripIdeasView` | `["core", "ideas-css", "leaflet", "react-runtime"]` |
 | `PhotoPlannerView` | `["core", "leaflet"]` + page_css: `["planner"]` |
+| `TownsIndexView` | `["core", "react-runtime"]` |
 | `GalleryView::AbstractView` | `["core", "gallery"]` |
 
 ## URL Patterns
@@ -542,7 +543,11 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-07: Area views render in sorted slug order (show, post list, gallery)
 - 2026-02-07: Shared initLeafletMap() function for hero and content map sections
 - 2026-02-07: Related areas with fuzzy scoring (bbox overlap, shared posts, voivodeship bonus)
+- 2026-02-07: Towns index page redesign - interactive Preact page with photo cards, search, voivodeship groups
+- 2026-02-07: AreaPhotoSelector.best_unique_photo_for - tracks used photos to prevent duplicates across cards
+- 2026-02-07: Voivodeship slug fix - warminskomazurskie → warminsko-mazurskie (hyphen consistency)
+- 2026-02-07: E2E tests for towns index (8 tests in towns-index.spec.js)
 
 ---
 
-*Current stats: 5 tasks + 42 views = 47 registry entries, 274 tests, 110 e2e tests*
+*Current stats: 5 tasks + 42 views = 47 registry entries, 274 tests, 118 e2e tests*

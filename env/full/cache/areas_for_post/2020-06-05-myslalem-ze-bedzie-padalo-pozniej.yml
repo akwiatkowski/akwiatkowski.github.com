@@ -36,13 +36,13 @@
     distance_km: 15.405
     distance_percent: 34.6508
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 29052.13
     distance_km: 29.052
     distance_percent: 65.3492
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 15404.63
@@ -74,7 +74,7 @@
     distance_km: 6.442
     distance_percent: 14.4912
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 44456.76
@@ -119,10 +119,10 @@
     name: działdowski
     code: "2803"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -139,7 +139,7 @@
     name: Równina Urszulewska
     code: "315.16"
   touched_macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:

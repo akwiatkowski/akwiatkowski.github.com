@@ -85,7 +85,7 @@
     distance_meters: 25843.12
     distance_km: 25.843
     distance_percent: 43.479
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 25337.21
@@ -171,7 +171,7 @@
   - slug: masyw_slezy
     name: Masyw Ślęży
     code: "332.13"
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   touched_macro_regions:

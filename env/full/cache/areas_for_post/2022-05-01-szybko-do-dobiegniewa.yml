@@ -29,7 +29,7 @@
     distance_km: 4.184
     distance_percent: 8.4976
   counties:
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
     distance_meters: 26667.93
@@ -118,7 +118,7 @@
   - slug: choszczenski
     name: choszczeński
     code: "3202"
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
   touched_voivodeships:

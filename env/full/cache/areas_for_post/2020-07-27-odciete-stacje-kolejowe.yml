@@ -96,7 +96,7 @@
     distance_km: 40.726
     distance_percent: 28.5826
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 142485.52
@@ -143,7 +143,7 @@
     distance_km: 142.486
     distance_percent: 100.0
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 142485.52
@@ -188,7 +188,7 @@
     name: szczycieński
     code: "2817"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -214,7 +214,7 @@
     name: Pojezierze Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
 - type: bus
@@ -326,7 +326,7 @@
     distance_km: 5.729
     distance_percent: 3.7071
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 122910.11
@@ -415,7 +415,7 @@
     distance_km: 154.534
     distance_percent: 100.0
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 154533.92
@@ -472,7 +472,7 @@
   - slug: podlaskie
     name: PODLASKIE
     code: "20"
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -516,6 +516,6 @@
     name: Pojezierze Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

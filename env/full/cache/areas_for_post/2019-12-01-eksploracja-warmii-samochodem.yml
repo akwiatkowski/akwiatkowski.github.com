@@ -72,7 +72,7 @@
     distance_km: 71.14
     distance_percent: 46.4815
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 153049.77
@@ -97,7 +97,7 @@
     distance_meters: 27401.57
     distance_km: 27.402
     distance_percent: 17.9037
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
     distance_meters: 23970.26
@@ -122,7 +122,7 @@
     distance_meters: 74643.65
     distance_km: 74.644
     distance_percent: 48.7708
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 51004.55
@@ -167,7 +167,7 @@
     distance_meters: 125648.2
     distance_km: 125.648
     distance_percent: 82.0963
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 27401.57
@@ -200,7 +200,7 @@
     name: iławski
     code: "2807"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -210,7 +210,7 @@
   - slug: dolina_drwecy
     name: Dolina Drwęcy
     code: "315.13"
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
   - slug: rownina_ilawska
@@ -226,7 +226,7 @@
   - slug: pojezierze_mazurskie
     name: Pojezierze Mazurskie
     code: "842"
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: pojezierze_ilawskie
@@ -247,7 +247,7 @@
     name: Pojezierza Południowobałtyckie
     code: "31"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
   - slug: niz_srodkowoeuropejski
@@ -264,7 +264,7 @@
     distance_meters: 24815.18
     distance_km: 24.815
     distance_percent: 8.1724
-  - slug: golubdobrzyn
+  - slug: golub-dobrzyn
     name: Golub-Dobrzyń
     code: "0405032"
     distance_meters: 22905.32
@@ -420,7 +420,7 @@
     distance_meters: 3307.91
     distance_km: 3.308
     distance_percent: 1.0894
-  - slug: golubdobrzyn
+  - slug: golub-dobrzyn
     name: Golub-Dobrzyń
     code: "0405011"
     distance_meters: 3127.19
@@ -451,7 +451,7 @@
     distance_meters: 34116.12
     distance_km: 34.116
     distance_percent: 11.2354
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
     distance_meters: 33320.63
@@ -506,7 +506,7 @@
     distance_km: 11.339
     distance_percent: 3.7344
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 165568.43
@@ -518,7 +518,7 @@
     distance_meters: 76021.17
     distance_km: 76.021
     distance_percent: 25.036
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 62058.23
@@ -537,7 +537,7 @@
     distance_meters: 43426.9
     distance_km: 43.427
     distance_percent: 14.3017
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 41199.09
@@ -604,7 +604,7 @@
     distance_km: 0.93
     distance_percent: 0.3061
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 134273.87
@@ -616,7 +616,7 @@
     distance_meters: 134171.77
     distance_km: 134.172
     distance_percent: 44.1866
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 25153.09
@@ -661,7 +661,7 @@
     distance_meters: 293598.73
     distance_km: 293.599
     distance_percent: 96.6905
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 10049.1
@@ -716,7 +716,7 @@
   - slug: ciechocin
     name: Ciechocin
     code: "0405022"
-  - slug: golubdobrzyn
+  - slug: golub-dobrzyn
     name: Golub-Dobrzyń
     code: "0405032"
   - slug: bobrowo
@@ -762,7 +762,7 @@
   - slug: torun
     name: Toruń
     code: "0463"
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
   - slug: brodnicki
@@ -781,10 +781,10 @@
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -800,7 +800,7 @@
   - slug: pojezierze_gnieznienskie
     name: Pojezierze Gnieźnieńskie
     code: "315.54"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   - slug: rownina_inowroclawska
@@ -831,10 +831,10 @@
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: pojezierze_mazurskie
@@ -858,7 +858,7 @@
   - slug: niz_srodkowoeuropejski
     name: Niż Środkowoeuropejski
     code: "3"
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
 - type: car
@@ -1083,20 +1083,20 @@
     distance_meters: 12867.42
     distance_km: 12.867
     distance_percent: 4.0692
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
     distance_meters: 12679.86
     distance_km: 12.68
     distance_percent: 4.0099
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 160291.71
     distance_km: 160.292
     distance_percent: 50.6905
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 78303.92
@@ -1121,7 +1121,7 @@
     distance_meters: 44178.06
     distance_km: 44.178
     distance_percent: 13.9708
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 41376.17
@@ -1194,13 +1194,13 @@
     distance_meters: 135647.65
     distance_km: 135.648
     distance_percent: 42.8971
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 125375.18
     distance_km: 125.375
     distance_percent: 39.6485
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 25270.69
@@ -1251,7 +1251,7 @@
     distance_meters: 306241.3
     distance_km: 306.241
     distance_percent: 96.8455
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 9975.09
@@ -1340,7 +1340,7 @@
   - slug: wabrzeski
     name: wąbrzeski
     code: "0417"
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
   - slug: torunski
@@ -1365,10 +1365,10 @@
     name: Poznań
     code: "3064"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: wielkopolskie
@@ -1399,7 +1399,7 @@
   - slug: rownina_inowroclawska
     name: Równina Inowrocławska
     code: "315.55"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   - slug: pojezierze_gnieznienskie
@@ -1418,13 +1418,13 @@
   - slug: pojezierze_mazurskie
     name: Pojezierze Mazurskie
     code: "842"
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: pojezierze_ilawskie
     name: Pojezierze Iławskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie
@@ -1445,7 +1445,7 @@
     name: Pojezierza Południowobałtyckie
     code: "31"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
   - slug: niz_srodkowoeuropejski

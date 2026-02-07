@@ -85,7 +85,7 @@
     distance_meters: 74884.46
     distance_km: 74.884
     distance_percent: 90.2011
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 2912.59
@@ -180,7 +180,7 @@
   - slug: pojezierze_gnieznienskie
     name: Pojezierze Gnieźnieńskie
     code: "315.54"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   - slug: rownina_wrzesinska

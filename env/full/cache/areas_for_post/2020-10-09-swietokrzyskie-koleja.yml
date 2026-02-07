@@ -238,7 +238,7 @@
     distance_meters: 88046.41
     distance_km: 88.046
     distance_percent: 66.0453
-  - slug: wyzyna_lubelskolwowska
+  - slug: wyzyna_lubelsko-lwowska
     name: Wyżyna Lubelsko-Lwowska
     code: "34"
     distance_meters: 45265.79
@@ -366,7 +366,7 @@
   - slug: podkarpacie_polnocne
     name: Podkarpacie Północne
     code: "51"
-  - slug: wyzyna_lubelskolwowska
+  - slug: wyzyna_lubelsko-lwowska
     name: Wyżyna Lubelsko-Lwowska
     code: "34"
   touched_provinces:
@@ -417,7 +417,7 @@
     distance_meters: 13058.75
     distance_km: 13.059
     distance_percent: 4.1514
-  - slug: skarzyskokamienna
+  - slug: skarzysko-kamienna
     name: Skarżysko-Kamienna
     code: "2610011"
     distance_meters: 12058.3
@@ -537,7 +537,7 @@
     distance_meters: 6091.41
     distance_km: 6.091
     distance_percent: 1.9365
-  - slug: sitkowkanowiny
+  - slug: sitkowka-nowiny
     name: Sitkówka-Nowiny
     code: "2604172"
     distance_meters: 5779.66
@@ -857,7 +857,7 @@
   - slug: blizyn
     name: Bliżyn
     code: "2610022"
-  - slug: skarzyskokamienna
+  - slug: skarzysko-kamienna
     name: Skarżysko-Kamienna
     code: "2610011"
   - slug: suchedniow
@@ -878,7 +878,7 @@
   - slug: kielce
     name: Kielce
     code: "2661011"
-  - slug: sitkowkanowiny
+  - slug: sitkowka-nowiny
     name: Sitkówka-Nowiny
     code: "2604172"
   - slug: morawica

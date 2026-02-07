@@ -31,7 +31,7 @@
     distance_km: 2.436
     distance_percent: 49.9087
   meso_regions:
-  - slug: beskid_zywieckokysucki
+  - slug: beskid_zywiecko-kysucki
     name: Beskid Żywiecko-Kysucki
     code: "513.56"
     distance_meters: 4864.22
@@ -81,7 +81,7 @@
     name: ŚLĄSKIE
     code: "24"
   touched_meso_regions:
-  - slug: beskid_zywieckokysucki
+  - slug: beskid_zywiecko-kysucki
     name: Beskid Żywiecko-Kysucki
     code: "513.56"
   touched_macro_regions:
@@ -126,7 +126,7 @@
     distance_km: 6.768
     distance_percent: 64.5808
   meso_regions:
-  - slug: beskid_zywieckokysucki
+  - slug: beskid_zywiecko-kysucki
     name: Beskid Żywiecko-Kysucki
     code: "513.56"
     distance_meters: 9833.55
@@ -173,7 +173,7 @@
     name: ŚLĄSKIE
     code: "24"
   touched_meso_regions:
-  - slug: beskid_zywieckokysucki
+  - slug: beskid_zywiecko-kysucki
     name: Beskid Żywiecko-Kysucki
     code: "513.56"
   touched_macro_regions:

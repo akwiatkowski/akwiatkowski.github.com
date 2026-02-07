@@ -4,7 +4,7 @@
   total_distance_km: 11.802
   points_count: 240.0
   towns:
-  - slug: piwnicznazdroj
+  - slug: piwniczna-zdroj
     name: Piwniczna-Zdrój
     code: "1210133"
     distance_meters: 4781.72
@@ -84,7 +84,7 @@
     distance_km: 11.802
     distance_percent: 100.0
   touched_towns:
-  - slug: piwnicznazdroj
+  - slug: piwniczna-zdroj
     name: Piwniczna-Zdrój
     code: "1210133"
   - slug: rytro

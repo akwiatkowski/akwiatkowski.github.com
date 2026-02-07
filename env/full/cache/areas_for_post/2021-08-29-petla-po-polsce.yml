@@ -166,7 +166,7 @@
     distance_meters: 10790.8
     distance_km: 10.791
     distance_percent: 1.6177
-  - slug: skarzyskokamienna
+  - slug: skarzysko-kamienna
     name: Skarżysko-Kamienna
     code: "2610011"
     distance_meters: 10763.86
@@ -346,7 +346,7 @@
     distance_meters: 4612.29
     distance_km: 4.612
     distance_percent: 0.6914
-  - slug: sitkowkanowiny
+  - slug: sitkowka-nowiny
     name: Sitkówka-Nowiny
     code: "2604172"
     distance_meters: 4410.41
@@ -618,7 +618,7 @@
     distance_meters: 248133.91
     distance_km: 248.134
     distance_percent: 37.1985
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 134622.1
@@ -727,7 +727,7 @@
     distance_meters: 18629.64
     distance_km: 18.63
     distance_percent: 2.7928
-  - slug: beskid_zywieckoorawski
+  - slug: beskid_zywiecko-orawski
     name: Beskid Żywiecko-Orawski
     code: "513.51"
     distance_meters: 14765.55
@@ -799,7 +799,7 @@
     distance_meters: 4887.31
     distance_km: 4.887
     distance_percent: 0.7327
-  - slug: pasma_pewelskokrzeczowskie
+  - slug: pasma_pewelsko-krzeczowskie
     name: Pasma Pewelsko-Krzeczowskie
     code: "513.57"
     distance_meters: 4596.73
@@ -829,7 +829,7 @@
     distance_meters: 2019.95
     distance_km: 2.02
     distance_percent: 0.3028
-  - slug: pasmo_przedborskomalogoskie
+  - slug: pasmo_przedborsko-malogoskie
     name: Pasmo Przedborsko-Małogoskie
     code: "342.15"
     distance_meters: 1666.52
@@ -902,7 +902,7 @@
     distance_meters: 4887.31
     distance_km: 4.887
     distance_percent: 0.7327
-  - slug: wyzyna_krakowskoczestochowska
+  - slug: wyzyna_krakowsko-czestochowska
     name: Wyżyna Krakowsko-Częstochowska
     code: "341"
     distance_meters: 3523.67
@@ -958,7 +958,7 @@
     distance_meters: 57483.58
     distance_km: 57.484
     distance_percent: 8.6175
-  - slug: wysoczyzny_podlaskobialoruskie
+  - slug: wysoczyzny_podlasko-bialoruskie
     name: Wysoczyzny Podlasko-Białoruskie
     code: "84"
     distance_meters: 35176.25
@@ -970,7 +970,7 @@
     distance_meters: 14084.48
     distance_km: 14.084
     distance_percent: 2.1114
-  - slug: wyzyna_slaskokrakowska
+  - slug: wyzyna_slasko-krakowska
     name: Wyżyna Śląsko-Krakowska
     code: "34"
     distance_meters: 3523.67
@@ -989,7 +989,7 @@
     distance_meters: 171799.35
     distance_km: 171.799
     distance_percent: 25.755
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 169893.95
@@ -1053,7 +1053,7 @@
   - slug: checiny
     name: Chęciny
     code: "2604033"
-  - slug: sitkowkanowiny
+  - slug: sitkowka-nowiny
     name: Sitkówka-Nowiny
     code: "2604172"
   - slug: piekoszow
@@ -1068,7 +1068,7 @@
   - slug: suchedniow
     name: Suchedniów
     code: "2610053"
-  - slug: skarzyskokamienna
+  - slug: skarzysko-kamienna
     name: Skarżysko-Kamienna
     code: "2610011"
   - slug: szydlowiec
@@ -1256,17 +1256,17 @@
   - slug: podlaskie
     name: PODLASKIE
     code: "20"
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
-  - slug: beskid_zywieckoorawski
+  - slug: beskid_zywiecko-orawski
     name: Beskid Żywiecko-Orawski
     code: "513.51"
   - slug: beskid_makowski
     name: Beskid Makowski
     code: "513.48"
-  - slug: pasma_pewelskokrzeczowskie
+  - slug: pasma_pewelsko-krzeczowskie
     name: Pasma Pewelsko-Krzeczowskie
     code: "513.57"
   - slug: pogorze_wielickie
@@ -1284,7 +1284,7 @@
   - slug: plaskowyz_jedrzejowski
     name: Płaskowyż Jędrzejowski
     code: "342.21"
-  - slug: pasmo_przedborskomalogoskie
+  - slug: pasmo_przedborsko-malogoskie
     name: Pasmo Przedborsko-Małogoskie
     code: "342.15"
   - slug: dolina_nidy
@@ -1351,7 +1351,7 @@
   - slug: pogorze_zachodniobeskidzkie
     name: Pogórze Zachodniobeskidzkie
     code: "513"
-  - slug: wyzyna_krakowskoczestochowska
+  - slug: wyzyna_krakowsko-czestochowska
     name: Wyżyna Krakowsko-Częstochowska
     code: "341"
   - slug: niecka_nidzianska
@@ -1392,7 +1392,7 @@
   - slug: zewnetrzne_karpaty_zachodnie
     name: Zewnętrzne Karpaty Zachodnie
     code: "51"
-  - slug: wyzyna_slaskokrakowska
+  - slug: wyzyna_slasko-krakowska
     name: Wyżyna Śląsko-Krakowska
     code: "34"
   - slug: wyzyna_malopolska
@@ -1401,7 +1401,7 @@
   - slug: niziny_srodkowopolskie
     name: Niziny Środkowopolskie
     code: "31"
-  - slug: wysoczyzny_podlaskobialoruskie
+  - slug: wysoczyzny_podlasko-bialoruskie
     name: Wysoczyzny Podlasko-Białoruskie
     code: "84"
   - slug: pojezierze_wschodniobaltyckie
@@ -1417,7 +1417,7 @@
   - slug: niz_srodkowoeuropejski
     name: Niż Środkowoeuropejski
     code: "3"
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
 - type: car
@@ -1900,7 +1900,7 @@
     distance_meters: 1420.14
     distance_km: 1.42
     distance_percent: 0.328
-  - slug: bierunskoledzinski
+  - slug: bierunsko-ledzinski
     name: bieruńsko-lędziński
     code: "2414"
     distance_meters: 1350.96
@@ -1998,7 +1998,7 @@
     distance_meters: 15411.94
     distance_km: 15.412
     distance_percent: 3.5601
-  - slug: beskid_zywieckoorawski
+  - slug: beskid_zywiecko-orawski
     name: Beskid Żywiecko-Orawski
     code: "513.51"
     distance_meters: 14641.05
@@ -2070,7 +2070,7 @@
     distance_meters: 7179.74
     distance_km: 7.18
     distance_percent: 1.6585
-  - slug: pasma_pewelskokrzeczowskie
+  - slug: pasma_pewelsko-krzeczowskie
     name: Pasma Pewelsko-Krzeczowskie
     code: "513.57"
     distance_meters: 5291.21
@@ -2101,7 +2101,7 @@
     distance_meters: 106395.8
     distance_km: 106.396
     distance_percent: 24.5768
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 35788.58
@@ -2125,7 +2125,7 @@
     distance_meters: 25537.02
     distance_km: 25.537
     distance_percent: 5.8989
-  - slug: wyzyna_krakowskoczestochowska
+  - slug: wyzyna_krakowsko-czestochowska
     name: Wyżyna Krakowsko-Częstochowska
     code: "341"
     distance_meters: 17089.08
@@ -2169,7 +2169,7 @@
     distance_meters: 220063.56
     distance_km: 220.064
     distance_percent: 50.8334
-  - slug: wyzyna_slaskokrakowska
+  - slug: wyzyna_slasko-krakowska
     name: Wyżyna Śląsko-Krakowska
     code: "34"
     distance_meters: 123484.88
@@ -2501,13 +2501,13 @@
   - slug: beskid_maly
     name: Beskid Mały
     code: "513.47"
-  - slug: pasma_pewelskokrzeczowskie
+  - slug: pasma_pewelsko-krzeczowskie
     name: Pasma Pewelsko-Krzeczowskie
     code: "513.57"
   - slug: beskid_makowski
     name: Beskid Makowski
     code: "513.48"
-  - slug: beskid_zywieckoorawski
+  - slug: beskid_zywiecko-orawski
     name: Beskid Żywiecko-Orawski
     code: "513.51"
   touched_macro_regions:
@@ -2517,7 +2517,7 @@
   - slug: nizina_poludniowowielkopolska
     name: Nizina Południowowielkopolska
     code: "318"
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: wal_trzebnicki
@@ -2529,7 +2529,7 @@
   - slug: wyzyna_slaska
     name: Wyżyna Śląska
     code: "341"
-  - slug: wyzyna_krakowskoczestochowska
+  - slug: wyzyna_krakowsko-czestochowska
     name: Wyżyna Krakowsko-Częstochowska
     code: "341"
   - slug: kotlina_oswiecimska
@@ -2555,7 +2555,7 @@
   - slug: niziny_srodkowopolskie
     name: Niziny Środkowopolskie
     code: "31"
-  - slug: wyzyna_slaskokrakowska
+  - slug: wyzyna_slasko-krakowska
     name: Wyżyna Śląsko-Krakowska
     code: "34"
   - slug: podkarpacie_polnocne
@@ -2669,7 +2669,7 @@
     distance_meters: 9419.3
     distance_km: 9.419
     distance_percent: 3.4329
-  - slug: golubdobrzyn
+  - slug: golub-dobrzyn
     name: Golub-Dobrzyń
     code: "0405032"
     distance_meters: 8217.2
@@ -2796,7 +2796,7 @@
     distance_meters: 26633.13
     distance_km: 26.633
     distance_percent: 9.7065
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
     distance_meters: 23541.76
@@ -2833,7 +2833,7 @@
     distance_km: 6.83
     distance_percent: 2.4893
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 153108.74
@@ -2845,7 +2845,7 @@
     distance_meters: 83285.27
     distance_km: 83.285
     distance_percent: 30.3536
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 37989.18
@@ -2864,7 +2864,7 @@
     distance_meters: 45108.48
     distance_km: 45.108
     distance_percent: 16.44
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 43751.36
@@ -2931,13 +2931,13 @@
     distance_meters: 144057.21
     distance_km: 144.057
     distance_percent: 52.5022
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 92230.73
     distance_km: 92.231
     distance_percent: 33.6138
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 25054.62
@@ -2992,7 +2992,7 @@
   - slug: bobrowo
     name: Bobrowo
     code: "0402022"
-  - slug: golubdobrzyn
+  - slug: golub-dobrzyn
     name: Golub-Dobrzyń
     code: "0405032"
   - slug: kowalewo_pomorskie
@@ -3053,7 +3053,7 @@
   - slug: brodnicki
     name: brodnicki
     code: "0402"
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
   - slug: torunski
@@ -3078,10 +3078,10 @@
     name: Poznań
     code: "3064"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: wielkopolskie
@@ -3109,7 +3109,7 @@
   - slug: rownina_inowroclawska
     name: Równina Inowrocławska
     code: "315.55"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   - slug: pojezierze_gnieznienskie
@@ -3128,10 +3128,10 @@
   - slug: pojezierze_ilawskie
     name: Pojezierze Iławskie
     code: 314-316
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie
@@ -3294,7 +3294,7 @@
     distance_km: 0.878
     distance_percent: 0.4514
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 194546.17
@@ -3362,7 +3362,7 @@
     distance_meters: 17609.09
     distance_km: 17.609
     distance_percent: 9.0514
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 16888.3
@@ -3407,7 +3407,7 @@
     distance_km: 3.685
     distance_percent: 1.8941
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 160048.79
@@ -3482,7 +3482,7 @@
     name: iławski
     code: "2807"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -3517,7 +3517,7 @@
   - slug: nizina_staropruska
     name: Nizina Staropruska
     code: "841"
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: pojezierze_ilawskie
@@ -3541,7 +3541,7 @@
     name: Pojezierza Południowobałtyckie
     code: "31"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
   - slug: niz_srodkowoeuropejski

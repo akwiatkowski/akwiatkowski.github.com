@@ -34,19 +34,19 @@
     distance_meters: 5724.45
     distance_km: 5.724
     distance_percent: 2.5934
-  - slug: kudowazdroj
+  - slug: kudowa-zdroj
     name: Kudowa-Zdrój
     code: 0208031
     distance_meters: 4033.36
     distance_km: 4.033
     distance_percent: 1.8273
-  - slug: dusznikizdroj
+  - slug: duszniki-zdroj
     name: Duszniki-Zdrój
     code: 0208011
     distance_meters: 3763.22
     distance_km: 3.763
     distance_percent: 1.7049
-  - slug: polanicazdroj
+  - slug: polanica-zdroj
     name: Polanica-Zdrój
     code: 0208051
     distance_meters: 7.28
@@ -153,13 +153,13 @@
   - slug: szczytna
     name: Szczytna
     code: 0208143
-  - slug: dusznikizdroj
+  - slug: duszniki-zdroj
     name: Duszniki-Zdrój
     code: 0208011
   - slug: lewin_klodzki
     name: Lewin Kłodzki
     code: 0208092
-  - slug: kudowazdroj
+  - slug: kudowa-zdroj
     name: Kudowa-Zdrój
     code: 0208031
   touched_counties:

@@ -49,7 +49,7 @@
     distance_meters: 11962.65
     distance_km: 11.963
     distance_percent: 43.7949
-  - slug: kotlina_orawskonowotarska
+  - slug: kotlina_orawsko-nowotarska
     name: Kotlina Orawsko-Nowotarska
     code: "514.11"
     distance_meters: 1621.64
@@ -62,7 +62,7 @@
     distance_meters: 13730.85
     distance_km: 13.731
     distance_percent: 50.2683
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
     distance_meters: 13584.29
@@ -120,14 +120,14 @@
   - slug: pieniny
     name: Pieniny
     code: "514.12"
-  - slug: kotlina_orawskonowotarska
+  - slug: kotlina_orawsko-nowotarska
     name: Kotlina Orawsko-Nowotarska
     code: "514.11"
   touched_macro_regions:
   - slug: beskidy_zachodnie
     name: Beskidy Zachodnie
     code: "513"
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
   touched_mega_regions:

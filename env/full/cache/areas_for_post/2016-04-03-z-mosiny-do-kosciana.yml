@@ -86,7 +86,7 @@
     distance_meters: 29491.97
     distance_km: 29.492
     distance_percent: 73.1188
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 10842.35
@@ -154,7 +154,7 @@
     name: Pojezierze Krzywińskie
     code: "315.82"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_leszczynskie

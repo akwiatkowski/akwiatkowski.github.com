@@ -79,7 +79,7 @@
     distance_meters: 63325.15
     distance_km: 63.325
     distance_percent: 94.9703
-  - slug: pradolina_redyleby
+  - slug: pradolina_redy-leby
     name: Pradolina Redy-Łeby
     code: "313.46"
     distance_meters: 3353.78
@@ -159,7 +159,7 @@
     name: POMORSKIE
     code: "22"
   touched_meso_regions:
-  - slug: pradolina_redyleby
+  - slug: pradolina_redy-leby
     name: Pradolina Redy-Łeby
     code: "313.46"
   - slug: pojezierze_kaszubskie

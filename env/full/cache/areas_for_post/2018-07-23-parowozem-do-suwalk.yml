@@ -180,7 +180,7 @@
     distance_km: 9.064
     distance_percent: 1.9607
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 408574.09
@@ -275,7 +275,7 @@
     distance_km: 66.196
     distance_percent: 14.3183
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 462315.17
@@ -359,7 +359,7 @@
     name: Suwałki
     code: "2063"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   - slug: podlaskie
@@ -409,6 +409,6 @@
     name: Pobrzeże Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

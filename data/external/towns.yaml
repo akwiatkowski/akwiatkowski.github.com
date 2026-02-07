@@ -5579,7 +5579,7 @@
   area: 0.019573374148350687
 - id: 85
   name: Ulan-Majorat
-  slug: ulanmajorat
+  slug: ulan-majorat
   type: gmina
   voivodeship: lubelskie
   terc: '0615072'
@@ -6125,7 +6125,7 @@
   area: 0.011644329713220686
 - id: 95
   name: Horyniec-Zdrój
-  slug: horynieczdroj
+  slug: horyniec-zdroj
   type: gmina
   voivodeship: podkarpackie
   terc: '1809032'
@@ -10763,7 +10763,7 @@
   area: 0.011472482609430054
 - id: 163
   name: Kuczbork-Osada
-  slug: kuczborkosada
+  slug: kuczbork-osada
   type: gmina
   voivodeship: mazowieckie
   terc: '1437022'
@@ -15052,7 +15052,7 @@
   area: 0.021994290978389862
 - id: 226
   name: Boguszów-Gorce
-  slug: boguszowgorce
+  slug: boguszow-gorce
   type: gmina
   voivodeship: dolnoslaskie
   terc: '0221011'
@@ -21215,7 +21215,7 @@
   area: 0.005705252687359989
 - id: 315
   name: Busko-Zdrój
-  slug: buskozdroj
+  slug: busko-zdroj
   type: gmina
   voivodeship: swietokrzyskie
   terc: '2601013'
@@ -21586,7 +21586,7 @@
   area: 0.016896352304551453
 - id: 320
   name: Skarżysko-Kamienna
-  slug: skarzyskokamienna
+  slug: skarzysko-kamienna
   type: gmina
   voivodeship: swietokrzyskie
   terc: '2610011'
@@ -22799,7 +22799,7 @@
   area: 0.020347586601020404
 - id: 335
   name: Ruciane-Nida
-  slug: rucianenida
+  slug: ruciane-nida
   type: gmina
   voivodeship: warminsko-mazurskie
   terc: '2816043'
@@ -25434,7 +25434,7 @@
   area: 0.010835301528508503
 - id: 374
   name: Czerwionka-Leszczyny
-  slug: czerwionkaleszczyny
+  slug: czerwionka-leszczyny
   type: gmina
   voivodeship: slaskie
   terc: '2412013'
@@ -30381,7 +30381,7 @@
   area: 0.0060114485077732375
 - id: 451
   name: Olszewo-Borki
-  slug: olszewoborki
+  slug: olszewo-borki
   type: gmina
   voivodeship: mazowieckie
   terc: '1415092'
@@ -33557,7 +33557,7 @@
   area: 0.020582575088684864
 - id: 497
   name: Ruda-Huta
-  slug: rudahuta
+  slug: ruda-huta
   type: gmina
   voivodeship: lubelskie
   terc: 0603092
@@ -34115,7 +34115,7 @@
   area: 0.012910325180211615
 - id: 505
   name: Kędzierzyn-Koźle
-  slug: kedzierzynkozle
+  slug: kedzierzyn-kozle
   type: gmina
   voivodeship: opolskie
   terc: '1603011'
@@ -36943,7 +36943,7 @@
   area: 0.017187111555047072
 - id: 547
   name: Jedlnia-Letnisko
-  slug: jedlnialetnisko
+  slug: jedlnia-letnisko
   type: gmina
   voivodeship: mazowieckie
   terc: '1425062'
@@ -39164,7 +39164,7 @@
   area: 0.006493083093149491
 - id: 578
   name: Rutka-Tartak
-  slug: rutkatartak
+  slug: rutka-tartak
   type: gmina
   voivodeship: podlaskie
   terc: '2012062'
@@ -41476,7 +41476,7 @@
   area: 0.026569625838546353
 - id: 610
   name: Piwniczna-Zdrój
-  slug: piwnicznazdroj
+  slug: piwniczna-zdroj
   type: gmina
   voivodeship: malopolskie
   terc: '1210133'
@@ -41553,7 +41553,7 @@
   area: 0.01544142974745315
 - id: 611
   name: Krynica-Zdrój
-  slug: krynicazdroj
+  slug: krynica-zdroj
   type: gmina
   voivodeship: malopolskie
   terc: '1210073'
@@ -41886,7 +41886,7 @@
   area: 0.009548147932312675
 - id: 616
   name: Świeradów-Zdrój
-  slug: swieradowzdroj
+  slug: swieradow-zdroj
   type: gmina
   voivodeship: dolnoslaskie
   terc: '0210021'
@@ -43518,7 +43518,7 @@
   area: 0.010538428243954262
 - id: 638
   name: Solec-Zdrój
-  slug: soleczdroj
+  slug: solec-zdroj
   type: gmina
   voivodeship: swietokrzyskie
   terc: '2601052'
@@ -46212,7 +46212,7 @@
   area: 0.011369349973522437
 - id: 676
   name: Ceków-Kolonia
-  slug: cekowkolonia
+  slug: cekow-kolonia
   type: gmina
   voivodeship: wielkopolskie
   terc: '3007032'
@@ -46958,7 +46958,7 @@
   area: 0.0069231136713561
 - id: 688
   name: Goczałkowice-Zdrój
-  slug: goczalkowicezdroj
+  slug: goczalkowice-zdroj
   type: gmina
   voivodeship: slaskie
   terc: '2410012'
@@ -47093,7 +47093,7 @@
   area: 0.003771933476608214
 - id: 691
   name: Radziechowy-Wieprz
-  slug: radziechowywieprz
+  slug: radziechowy-wieprz
   type: gmina
   voivodeship: slaskie
   terc: '2417102'
@@ -50964,7 +50964,7 @@
   area: 0.012876332799650633
 - id: 748
   name: Połczyn-Zdrój
-  slug: polczynzdroj
+  slug: polczyn-zdroj
   type: gmina
   voivodeship: zachodniopomorskie
   terc: '3216033'
@@ -52335,7 +52335,7 @@
   area: 0.0265221907736403
 - id: 767
   name: Boguty-Pianki
-  slug: bogutypianki
+  slug: boguty-pianki
   type: gmina
   voivodeship: mazowieckie
   terc: '1416032'
@@ -53149,7 +53149,7 @@
   area: 0.023239988794490518
 - id: 779
   name: Bielsko-Biała
-  slug: bielskobiala
+  slug: bielsko-biala
   type: gmina
   voivodeship: slaskie
   terc: '2461011'
@@ -57063,7 +57063,7 @@
   area: 0.021165318377164555
 - id: 839
   name: Jedlina-Zdrój
-  slug: jedlinazdroj
+  slug: jedlina-zdroj
   type: gmina
   voivodeship: dolnoslaskie
   terc: '0221021'
@@ -59792,7 +59792,7 @@
   area: 0.004255169365024295
 - id: 878
   name: Igołomia-Wawrzeńczyce
-  slug: igolomiawawrzenczyce
+  slug: igolomia-wawrzenczyce
   type: gmina
   voivodeship: malopolskie
   terc: '1206022'
@@ -59849,7 +59849,7 @@
   area: 0.007667724634234974
 - id: 879
   name: Jerzmanowice-Przeginia
-  slug: jerzmanowiceprzeginia
+  slug: jerzmanowice-przeginia
   type: gmina
   voivodeship: malopolskie
   terc: '1206042'
@@ -61792,7 +61792,7 @@
   area: 0.02360164642098105
 - id: 906
   name: Lądek-Zdrój
-  slug: ladekzdroj
+  slug: ladek-zdroj
   type: gmina
   voivodeship: dolnoslaskie
   terc: 0208083
@@ -61956,7 +61956,7 @@
   area: 0.04238995672086122
 - id: 908
   name: Duszniki-Zdrój
-  slug: dusznikizdroj
+  slug: duszniki-zdroj
   type: gmina
   voivodeship: dolnoslaskie
   terc: 0208011
@@ -70356,7 +70356,7 @@
   area: 0.002675215496104293
 - id: 1032
   name: Bystra-Sidzina
-  slug: bystrasidzina
+  slug: bystra-sidzina
   type: gmina
   voivodeship: malopolskie
   terc: '1215042'
@@ -70980,7 +70980,7 @@
   area: 0.012768862778436862
 - id: 1042
   name: Garbatka-Letnisko
-  slug: garbatkaletnisko
+  slug: garbatka-letnisko
   type: gmina
   voivodeship: mazowieckie
   terc: '1407012'
@@ -73994,7 +73994,7 @@
   area: 0.014070514936138177
 - id: 1086
   name: Sobienie-Jeziory
-  slug: sobieniejeziory
+  slug: sobienie-jeziory
   type: gmina
   voivodeship: mazowieckie
   terc: '1417072'
@@ -75598,7 +75598,7 @@
   area: 0.02780844855970789
 - id: 1108
   name: Jelcz-Laskowice
-  slug: jelczlaskowice
+  slug: jelcz-laskowice
   type: gmina
   voivodeship: dolnoslaskie
   terc: '0215033'
@@ -79810,7 +79810,7 @@
   area: 0.02708497074918622
 - id: 1170
   name: Nurzec-Stacja
-  slug: nurzecstacja
+  slug: nurzec-stacja
   type: gmina
   voivodeship: podlaskie
   terc: '2010072'
@@ -83349,7 +83349,7 @@
   area: 0.015264540748901647
 - id: 1225
   name: Kobylin-Borzymy
-  slug: kobylinborzymy
+  slug: kobylin-borzymy
   type: gmina
   voivodeship: podlaskie
   terc: '2013052'
@@ -83558,7 +83558,7 @@
   area: 0.020288366587202955
 - id: 1228
   name: Trzcińsko-Zdrój
-  slug: trzcinskozdroj
+  slug: trzcinsko-zdroj
   type: gmina
   voivodeship: zachodniopomorskie
   terc: '3206083'
@@ -88725,7 +88725,7 @@
   area: 0.028272802985098433
 - id: 1295
   name: Iłowo-Osada
-  slug: ilowoosada
+  slug: ilowo-osada
   type: gmina
   voivodeship: warminsko-mazurskie
   terc: '2803032'
@@ -95404,7 +95404,7 @@
   area: 0.012853786934430431
 - id: 1398
   name: Polanica-Zdrój
-  slug: polanicazdroj
+  slug: polanica-zdroj
   type: gmina
   voivodeship: dolnoslaskie
   terc: 0208051
@@ -98554,7 +98554,7 @@
   area: 0.01688114909564646
 - id: 1444
   name: Konstancin-Jeziorna
-  slug: konstancinjeziorna
+  slug: konstancin-jeziorna
   type: gmina
   voivodeship: mazowieckie
   terc: '1418023'
@@ -106166,7 +106166,7 @@
   area: 0.002651038131852994
 - id: 1552
   name: Jastrzębie-Zdrój
-  slug: jastrzebiezdroj
+  slug: jastrzebie-zdroj
   type: gmina
   voivodeship: slaskie
   terc: '2467011'
@@ -112368,7 +112368,7 @@
   area: 0.020561622006015256
 - id: 1644
   name: Gołymin-Ośrodek
-  slug: golyminosrodek
+  slug: golymin-osrodek
   type: gmina
   voivodeship: mazowieckie
   terc: '1402042'
@@ -112567,7 +112567,7 @@
   area: 0.007190421752045842
 - id: 1647
   name: Iwonicz-Zdrój
-  slug: iwoniczzdroj
+  slug: iwonicz-zdroj
   type: gmina
   voivodeship: podkarpackie
   terc: '1807033'
@@ -120349,7 +120349,7 @@
   area: 0.009333485937060472
 - id: 1763
   name: Czechowice-Dziedzice
-  slug: czechowicedziedzice
+  slug: czechowice-dziedzice
   type: gmina
   voivodeship: slaskie
   terc: '2402043'
@@ -122182,7 +122182,7 @@
   area: 0.00841519903294576
 - id: 1788
   name: Szczawno-Zdrój
-  slug: szczawnozdroj
+  slug: szczawno-zdroj
   type: gmina
   voivodeship: dolnoslaskie
   terc: '0221031'
@@ -129026,7 +129026,7 @@
   area: 0.00803228575918855
 - id: 1890
   name: Sitkówka-Nowiny
-  slug: sitkowkanowiny
+  slug: sitkowka-nowiny
   type: gmina
   voivodeship: swietokrzyskie
   terc: '2604172'
@@ -135617,7 +135617,7 @@
   area: 0.0015024143402909433
 - id: 1987
   name: Płoniawy-Bramura
-  slug: ploniawybramura
+  slug: ploniawy-bramura
   type: gmina
   voivodeship: mazowieckie
   terc: '1411062'
@@ -135861,7 +135861,7 @@
   area: 0.017869811656328213
 - id: 1991
   name: Rabka-Zdrój
-  slug: rabkazdroj
+  slug: rabka-zdroj
   type: gmina
   voivodeship: malopolskie
   terc: '1211123'
@@ -137247,7 +137247,7 @@
   area: 0.00480045851078991
 - id: 2013
   name: Komarów-Osada
-  slug: komarowosada
+  slug: komarow-osada
   type: gmina
   voivodeship: lubelskie
   terc: '0620032'
@@ -145238,7 +145238,7 @@
   area: 0.010780403201014213
 - id: 2130
   name: Kocmyrzów-Luborzyca
-  slug: kocmyrzowluborzyca
+  slug: kocmyrzow-luborzyca
   type: gmina
   voivodeship: malopolskie
   terc: '1206052'
@@ -146773,7 +146773,7 @@
   area: 0.01754430036669785
 - id: 2153
   name: Golub-Dobrzyń
-  slug: golubdobrzyn
+  slug: golub-dobrzyn
   type: gmina
   voivodeship: kujawsko-pomorskie
   terc: '0405011'
@@ -166580,7 +166580,7 @@
   area: 0.019892615194126037
 - id: 2438
   name: Golub-Dobrzyń
-  slug: golubdobrzyn
+  slug: golub-dobrzyn
   type: gmina
   voivodeship: kujawsko-pomorskie
   terc: '0405032'
@@ -168105,7 +168105,7 @@
   area: 0.006048639646618178
 - id: 2459
   name: Kudowa-Zdrój
-  slug: kudowazdroj
+  slug: kudowa-zdroj
   type: gmina
   voivodeship: dolnoslaskie
   terc: 0208031

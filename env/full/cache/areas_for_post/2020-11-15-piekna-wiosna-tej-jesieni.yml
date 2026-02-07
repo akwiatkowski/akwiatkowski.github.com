@@ -120,7 +120,7 @@
     distance_meters: 118229.59
     distance_km: 118.23
     distance_percent: 92.817
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 9149.66
@@ -133,7 +133,7 @@
     distance_meters: 91244.77
     distance_km: 91.245
     distance_percent: 71.6324
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 19265.64
@@ -236,14 +236,14 @@
     name: Poznań
     code: "3064"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
   touched_meso_regions:
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   - slug: rownina_wrzesinska

@@ -305,7 +305,7 @@
     north: 53.43121972500006
     west: 18.26715905100002
     east: 18.740792611000074
-- slug: golubskodobrzynski
+- slug: golubsko-dobrzynski
   name: golubsko-dobrzyński
   code: "0405"
   voivodeship: kujawsko-pomorskie
@@ -737,7 +737,7 @@
     north: 52.575323053000034
     west: 14.534579787000041
     east: 15.041928970000072
-- slug: strzeleckodrezdenecki
+- slug: strzelecko-drezdenecki
   name: strzelecko-drezdenecki
   code: 0806
   voivodeship: lubuskie
@@ -1628,7 +1628,7 @@
     north: 50.31395615400004
     west: 17.59269032000003
     east: 18.06806894400006
-- slug: kedzierzynskokozielski
+- slug: kedzierzynsko-kozielski
   name: kędzierzyńsko-kozielski
   code: "1603"
   voivodeship: opolskie
@@ -1844,7 +1844,7 @@
     north: 50.30307759900006
     west: 22.23422731000005
     east: 22.841301814000076
-- slug: ropczyckosedziszowski
+- slug: ropczycko-sedziszowski
   name: ropczycko-sędziszowski
   code: "1815"
   voivodeship: podkarpackie
@@ -2393,7 +2393,7 @@
     north: 50.61499351700007
     west: 18.590800349000062
     east: 19.13446582800003
-- slug: bierunskoledzinski
+- slug: bierunsko-ledzinski
   name: bieruńsko-lędziński
   code: "2414"
   voivodeship: slaskie
@@ -2429,7 +2429,7 @@
     north: 49.82888204300008
     west: 18.946581972000047
     east: 19.480764855000075
-- slug: bielskobiala
+- slug: bielsko-biala
   name: Bielsko-Biała
   code: "2461"
   voivodeship: slaskie
@@ -2483,7 +2483,7 @@
     north: 50.37391631600008
     west: 18.54299982400005
     east: 18.750937572000055
-- slug: jastrzebiezdroj
+- slug: jastrzebie-zdroj
   name: Jastrzębie-Zdrój
   code: "2467"
   voivodeship: slaskie
@@ -2924,7 +2924,7 @@
     north: 53.08985607100004
     west: 16.737820499000065
     east: 17.298859931000038
-- slug: czarnkowskotrzcianecki
+- slug: czarnkowsko-trzcianecki
   name: czarnkowsko-trzcianecki
   code: "3002"
   voivodeship: wielkopolskie

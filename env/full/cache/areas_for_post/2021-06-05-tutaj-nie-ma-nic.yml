@@ -134,13 +134,13 @@
     distance_meters: 66493.48
     distance_km: 66.493
     distance_percent: 67.0051
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 31386.66
     distance_km: 31.387
     distance_percent: 31.6282
-  - slug: nizina_slaskoluzycka
+  - slug: nizina_slasko-luzycka
     name: Nizina Śląsko-Łużycka
     code: "317"
     distance_meters: 1356.32
@@ -160,7 +160,7 @@
     distance_meters: 97880.14
     distance_km: 97.88
     distance_percent: 98.6332
-  - slug: niziny_saskoluzyckie
+  - slug: niziny_sasko-luzyckie
     name: Niziny Sasko-Łużyckie
     code: "31"
     distance_meters: 1356.32
@@ -235,13 +235,13 @@
     name: Pradolina Głogowska
     code: "318.32"
   touched_macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: wal_trzebnicki
     name: Wał Trzebnicki
     code: "318"
-  - slug: nizina_slaskoluzycka
+  - slug: nizina_slasko-luzycka
     name: Nizina Śląsko-Łużycka
     code: "317"
   touched_mega_regions:
@@ -252,7 +252,7 @@
   - slug: niziny_srodkowopolskie
     name: Niziny Środkowopolskie
     code: "31"
-  - slug: niziny_saskoluzyckie
+  - slug: niziny_sasko-luzyckie
     name: Niziny Sasko-Łużyckie
     code: "31"
   touched_provinces:

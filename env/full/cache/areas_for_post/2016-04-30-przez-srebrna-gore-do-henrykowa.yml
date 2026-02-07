@@ -153,7 +153,7 @@
     distance_km: 62.39
     distance_percent: 100.0
   meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 37158.0
@@ -266,7 +266,7 @@
   - slug: gory_sowie
     name: Góry Sowie
     code: "332.44"
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   touched_macro_regions:

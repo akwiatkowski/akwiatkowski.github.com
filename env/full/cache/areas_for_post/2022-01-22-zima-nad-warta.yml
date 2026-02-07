@@ -38,7 +38,7 @@
     distance_km: 7.368
     distance_percent: 100.0
   macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 7368.37
@@ -85,7 +85,7 @@
     name: Kotlina Śremska
     code: "315.64"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   touched_mega_regions:

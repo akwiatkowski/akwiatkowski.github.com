@@ -50,7 +50,7 @@
     distance_km: 6.809
     distance_percent: 11.4988
   macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 39471.05
@@ -115,7 +115,7 @@
     name: Wzgórza Twardogórskie
     code: "318.45"
   touched_macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: nizina_poludniowowielkopolska

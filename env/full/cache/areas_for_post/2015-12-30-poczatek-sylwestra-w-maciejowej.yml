@@ -4,7 +4,7 @@
   total_distance_km: 5.878
   points_count: 98.0
   towns:
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
     distance_meters: 5877.59
@@ -25,7 +25,7 @@
     distance_km: 5.878
     distance_percent: 100.0
   meso_regions:
-  - slug: pogorze_orawskojordanowskie
+  - slug: pogorze_orawsko-jordanowskie
     name: Pogórze Orawsko-Jordanowskie
     code: "513.50"
     distance_meters: 3188.91
@@ -66,7 +66,7 @@
     distance_km: 5.878
     distance_percent: 100.0
   touched_towns:
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
   touched_counties:
@@ -78,7 +78,7 @@
     name: MAŁOPOLSKIE
     code: "12"
   touched_meso_regions:
-  - slug: pogorze_orawskojordanowskie
+  - slug: pogorze_orawsko-jordanowskie
     name: Pogórze Orawsko-Jordanowskie
     code: "513.50"
   - slug: gorce

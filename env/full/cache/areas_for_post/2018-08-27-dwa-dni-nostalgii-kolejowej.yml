@@ -404,7 +404,7 @@
     distance_meters: 13206.39
     distance_km: 13.206
     distance_percent: 3.5864
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 10708.42
@@ -613,7 +613,7 @@
   - slug: pojezierze_leszczynskie
     name: Pojezierze Leszczyńskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_wielkopolskie
@@ -1123,7 +1123,7 @@
     distance_meters: 85522.02
     distance_km: 85.522
     distance_percent: 26.1664
-  - slug: wyzyna_woznickowielunska
+  - slug: wyzyna_woznicko-wielunska
     name: Wyżyna Woźnicko-Wieluńska
     code: "341"
     distance_meters: 69315.76
@@ -1155,7 +1155,7 @@
     distance_meters: 222492.76
     distance_km: 222.493
     distance_percent: 68.074
-  - slug: wyzyna_slaskokrakowska
+  - slug: wyzyna_slasko-krakowska
     name: Wyżyna Śląsko-Krakowska
     code: "34"
     distance_meters: 69315.76
@@ -1380,7 +1380,7 @@
   - slug: nizina_slaska
     name: Nizina Śląska
     code: "318"
-  - slug: wyzyna_woznickowielunska
+  - slug: wyzyna_woznicko-wielunska
     name: Wyżyna Woźnicko-Wieluńska
     code: "341"
   - slug: wyzyna_przedborska
@@ -1400,7 +1400,7 @@
   - slug: niziny_srodkowopolskie
     name: Niziny Środkowopolskie
     code: "31"
-  - slug: wyzyna_slaskokrakowska
+  - slug: wyzyna_slasko-krakowska
     name: Wyżyna Śląsko-Krakowska
     code: "34"
   - slug: wyzyna_malopolska

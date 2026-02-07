@@ -10,7 +10,7 @@
     distance_meters: 18802.85
     distance_km: 18.803
     distance_percent: 16.3738
-  - slug: horynieczdroj
+  - slug: horyniec-zdroj
     name: Horyniec-Zdrój
     code: "1809032"
     distance_meters: 18575.36
@@ -184,7 +184,7 @@
     distance_km: 2.251
     distance_percent: 1.9606
   subprovinces:
-  - slug: wyzyna_lubelskolwowska
+  - slug: wyzyna_lubelsko-lwowska
     name: Wyżyna Lubelsko-Lwowska
     code: "34"
     distance_meters: 110840.71
@@ -196,7 +196,7 @@
     distance_meters: 2251.42
     distance_km: 2.251
     distance_percent: 1.9606
-  - slug: wyzyna_wolynskopodolska
+  - slug: wyzyna_wolynsko-podolska
     name: Wyżyna Wołyńsko-Podolska
     code: "85"
     distance_meters: 1742.73
@@ -246,7 +246,7 @@
   - slug: lubycza_krolewska
     name: Lubycza Królewska
     code: 0618053
-  - slug: horynieczdroj
+  - slug: horyniec-zdroj
     name: Horyniec-Zdrój
     code: "1809032"
   touched_counties:
@@ -309,10 +309,10 @@
     name: Karpaty, Podkarpackie i Nizina Panońska
     code: "0"
   touched_subprovinces:
-  - slug: wyzyna_lubelskolwowska
+  - slug: wyzyna_lubelsko-lwowska
     name: Wyżyna Lubelsko-Lwowska
     code: "34"
-  - slug: wyzyna_wolynskopodolska
+  - slug: wyzyna_wolynsko-podolska
     name: Wyżyna Wołyńsko-Podolska
     code: "85"
   - slug: podkarpacie_polnocne
@@ -435,7 +435,7 @@
     distance_meters: 4655.21
     distance_km: 4.655
     distance_percent: 2.199
-  - slug: horynieczdroj
+  - slug: horyniec-zdroj
     name: Horyniec-Zdrój
     code: "1809032"
     distance_meters: 4534.27
@@ -571,7 +571,7 @@
     distance_meters: 6898.5
     distance_km: 6.898
     distance_percent: 3.2586
-  - slug: plaskowyz_sanskodniestrzanski
+  - slug: plaskowyz_sansko-dniestrzanski
     name: Płaskowyż Sańsko-Dniestrzański
     code: "521"
     distance_meters: 3105.14
@@ -611,7 +611,7 @@
     distance_km: 208.595
     distance_percent: 98.5332
   touched_towns:
-  - slug: horynieczdroj
+  - slug: horyniec-zdroj
     name: Horyniec-Zdrój
     code: "1809032"
   - slug: lubaczow
@@ -714,7 +714,7 @@
   - slug: pogorze_srodkowobeskidzkie
     name: Pogórze Środkowobeskidzkie
     code: "513"
-  - slug: plaskowyz_sanskodniestrzanski
+  - slug: plaskowyz_sansko-dniestrzanski
     name: Płaskowyż Sańsko-Dniestrzański
     code: "521"
   touched_mega_regions:

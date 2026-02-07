@@ -44,7 +44,7 @@
     distance_km: 2.802
     distance_percent: 40.1422
   macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 4178.65
@@ -100,7 +100,7 @@
     name: Wał Żerkowski
     code: "315.84"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_leszczynskie

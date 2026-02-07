@@ -5,7 +5,7 @@
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-19, 21, Photo Planner)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-19, 21-22, Photo Planner)
 
 ---
 
@@ -181,7 +181,7 @@
 
 ## Test Status
 
-**274 Crystal tests passing**
+**274 Crystal tests passing, 118 E2E tests passing**
 
 ### E2E Tests (Playwright)
 
@@ -196,8 +196,9 @@ Infrastructure in `tests/e2e/`:
 - `specs/tag-filtering.spec.js` - Tag post list filtering
 - `specs/navigation.spec.js` - Navigation styling across pages
 - `specs/more-page.spec.js` - More page links
+- `specs/towns-index.spec.js` - Towns index search, voivodeships, cards
 
-**Latest Results: 110 passed, 1 failed (pre-existing), 5 skipped**
+**Latest Results: 118 passed, 1 failed (pre-existing), 5 skipped**
 
 **Run E2E tests:**
 ```bash

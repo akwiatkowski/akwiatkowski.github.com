@@ -10,7 +10,7 @@
     distance_meters: 18190.04
     distance_km: 18.19
     distance_percent: 40.1026
-  - slug: polczynzdroj
+  - slug: polczyn-zdroj
     name: Połczyn-Zdrój
     code: "3216033"
     distance_meters: 15937.74
@@ -87,7 +87,7 @@
   - slug: barwice
     name: Barwice
     code: "3215023"
-  - slug: polczynzdroj
+  - slug: polczyn-zdroj
     name: Połczyn-Zdrój
     code: "3216033"
   - slug: rabino

@@ -302,13 +302,13 @@
     distance_meters: 46626.7
     distance_km: 46.627
     distance_percent: 21.0808
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 40311.34
     distance_km: 40.311
     distance_percent: 18.2255
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 33130.38
@@ -320,13 +320,13 @@
     distance_meters: 21303.68
     distance_km: 21.304
     distance_percent: 9.6318
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 17675.89
     distance_km: 17.676
     distance_percent: 7.9916
-  - slug: nizina_slaskoluzycka
+  - slug: nizina_slasko-luzycka
     name: Nizina Śląsko-Łużycka
     code: "317"
     distance_meters: 3008.83
@@ -352,7 +352,7 @@
     distance_meters: 79290.91
     distance_km: 79.291
     distance_percent: 35.8489
-  - slug: niziny_saskoluzyckie
+  - slug: niziny_sasko-luzyckie
     name: Niziny Sasko-Łużyckie
     code: "31"
     distance_meters: 3008.83
@@ -511,19 +511,19 @@
   - slug: wal_trzebnicki
     name: Wał Trzebnicki
     code: "318"
-  - slug: nizina_slaskoluzycka
+  - slug: nizina_slasko-luzycka
     name: Nizina Śląsko-Łużycka
     code: "317"
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: wzniesienia_zielonogorskie
     name: Wzniesienia Zielonogórskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   touched_mega_regions:
@@ -534,7 +534,7 @@
   - slug: niziny_srodkowopolskie
     name: Niziny Środkowopolskie
     code: "31"
-  - slug: niziny_saskoluzyckie
+  - slug: niziny_sasko-luzyckie
     name: Niziny Sasko-Łużyckie
     code: "31"
   - slug: pojezierza_poludniowobaltyckie

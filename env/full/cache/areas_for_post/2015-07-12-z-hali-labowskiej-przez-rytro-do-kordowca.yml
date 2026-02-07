@@ -10,7 +10,7 @@
     distance_meters: 8182.37
     distance_km: 8.182
     distance_percent: 48.7783
-  - slug: piwnicznazdroj
+  - slug: piwniczna-zdroj
     name: Piwniczna-Zdrój
     code: "1210133"
     distance_meters: 4753.04
@@ -78,7 +78,7 @@
     distance_km: 16.775
     distance_percent: 100.0
   touched_towns:
-  - slug: piwnicznazdroj
+  - slug: piwniczna-zdroj
     name: Piwniczna-Zdrój
     code: "1210133"
   - slug: labowa

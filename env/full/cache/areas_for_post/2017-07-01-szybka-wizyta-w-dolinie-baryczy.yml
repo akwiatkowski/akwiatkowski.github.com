@@ -110,7 +110,7 @@
     distance_meters: 47552.0
     distance_km: 47.552
     distance_percent: 51.0194
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 45651.67
@@ -187,7 +187,7 @@
     name: Kotlina Milicka
     code: "318.34"
   touched_macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: nizina_poludniowowielkopolska

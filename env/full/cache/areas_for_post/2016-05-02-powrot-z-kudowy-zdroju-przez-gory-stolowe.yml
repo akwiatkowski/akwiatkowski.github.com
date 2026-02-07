@@ -108,7 +108,7 @@
     distance_meters: 12789.81
     distance_km: 12.79
     distance_percent: 31.3336
-  - slug: kudowazdroj
+  - slug: kudowa-zdroj
     name: Kudowa-Zdrój
     code: 0208031
     distance_meters: 9929.59
@@ -188,7 +188,7 @@
     distance_km: 40.818
     distance_percent: 100.0
   touched_towns:
-  - slug: kudowazdroj
+  - slug: kudowa-zdroj
     name: Kudowa-Zdrój
     code: 0208031
   - slug: lewin_klodzki

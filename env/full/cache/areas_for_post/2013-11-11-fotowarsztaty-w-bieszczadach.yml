@@ -25,7 +25,7 @@
     distance_km: 16.992
     distance_percent: 100.0
   meso_regions:
-  - slug: gory_sanockoturczanskie
+  - slug: gory_sanocko-turczanskie
     name: Góry Sanocko-Turczańskie
     code: "522.11"
     distance_meters: 16991.57
@@ -72,7 +72,7 @@
     name: PODKARPACKIE
     code: "18"
   touched_meso_regions:
-  - slug: gory_sanockoturczanskie
+  - slug: gory_sanocko-turczanskie
     name: Góry Sanocko-Turczańskie
     code: "522.11"
   touched_macro_regions:

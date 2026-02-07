@@ -135882,7 +135882,7 @@
 - id: 5
   kod_prowincja: '34'
   name: Wyżyna Śląsko-Krakowska
-  slug: wyzyna_slaskokrakowska
+  slug: wyzyna_slasko-krakowska
   polygon:
   - - 18.48962044391239
     - 50.530030694144884
@@ -260753,7 +260753,7 @@
 - id: 8
   kod_prowincja: '31'
   name: Niziny Sasko-Łużyckie
-  slug: niziny_saskoluzyckie
+  slug: niziny_sasko-luzyckie
   polygon:
   - - 14.638577446779445
     - 51.858631487115616
@@ -372659,7 +372659,7 @@
 - id: 12
   kod_prowincja: '84'
   name: Wysoczyzny Podlasko-Białoruskie
-  slug: wysoczyzny_podlaskobialoruskie
+  slug: wysoczyzny_podlasko-bialoruskie
   polygon:
   - - 23.476713788871198
     - 53.85861674649823
@@ -405788,7 +405788,7 @@
 - id: 15
   kod_prowincja: '34'
   name: Wyżyna Lubelsko-Lwowska
-  slug: wyzyna_lubelskolwowska
+  slug: wyzyna_lubelsko-lwowska
   polygon:
   - - 21.956846501018962
     - 51.41089358480319
@@ -412297,7 +412297,7 @@
 - id: 16
   kod_prowincja: '85'
   name: Wyżyna Wołyńsko-Podolska
-  slug: wyzyna_wolynskopodolska
+  slug: wyzyna_wolynsko-podolska
   polygon:
   - - 23.862834575028756
     - 50.91662220460239

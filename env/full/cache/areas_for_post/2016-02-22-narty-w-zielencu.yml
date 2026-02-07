@@ -4,7 +4,7 @@
   total_distance_km: 2.666
   points_count: 54.0
   towns:
-  - slug: dusznikizdroj
+  - slug: duszniki-zdroj
     name: Duszniki-Zdrój
     code: 0208011
     distance_meters: 2665.82
@@ -60,7 +60,7 @@
     distance_km: 2.666
     distance_percent: 100.0
   touched_towns:
-  - slug: dusznikizdroj
+  - slug: duszniki-zdroj
     name: Duszniki-Zdrój
     code: 0208011
   touched_counties:

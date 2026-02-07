@@ -60,7 +60,7 @@
     distance_meters: 45455.13
     distance_km: 45.455
     distance_percent: 88.7207
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 5778.82
@@ -143,7 +143,7 @@
   - slug: pomorskie
     name: POMORSKIE
     code: "22"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:

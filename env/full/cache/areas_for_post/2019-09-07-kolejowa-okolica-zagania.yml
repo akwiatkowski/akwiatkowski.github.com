@@ -290,7 +290,7 @@
     distance_meters: 72219.12
     distance_km: 72.219
     distance_percent: 21.0177
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 40942.09
@@ -302,13 +302,13 @@
     distance_meters: 39900.47
     distance_km: 39.9
     distance_percent: 11.6121
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 24526.23
     distance_km: 24.526
     distance_percent: 7.1378
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 6715.54
@@ -466,16 +466,16 @@
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: wzniesienia_zielonogorskie
     name: Wzniesienia Zielonogórskie
     code: 314-316
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: wal_trzebnicki

@@ -124,7 +124,7 @@
     distance_km: 6.84
     distance_percent: 100.0
   macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 6839.66
@@ -168,7 +168,7 @@
     name: Bruzda Zbąszyńska
     code: "315.44"
   touched_macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   touched_mega_regions:
@@ -216,7 +216,7 @@
     distance_km: 2.914
     distance_percent: 100.0
   macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 2913.74
@@ -260,7 +260,7 @@
     name: Bruzda Zbąszyńska
     code: "315.44"
   touched_macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   touched_mega_regions:

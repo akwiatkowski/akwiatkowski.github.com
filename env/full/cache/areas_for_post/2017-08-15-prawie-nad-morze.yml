@@ -10,7 +10,7 @@
     distance_meters: 17780.02
     distance_km: 17.78
     distance_percent: 27.9365
-  - slug: polczynzdroj
+  - slug: polczyn-zdroj
     name: Połczyn-Zdrój
     code: "3216033"
     distance_meters: 16212.18
@@ -135,7 +135,7 @@
   - slug: zlocieniec
     name: Złocieniec
     code: "3203063"
-  - slug: polczynzdroj
+  - slug: polczyn-zdroj
     name: Połczyn-Zdrój
     code: "3216033"
   - slug: rabino

@@ -68,7 +68,7 @@
     distance_km: 4.245
     distance_percent: 4.8917
   macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 86770.8
@@ -130,7 +130,7 @@
     name: Równina Torzymska
     code: "315.43"
   touched_macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   touched_mega_regions:

@@ -59,7 +59,7 @@
     distance_meters: 26646.78
     distance_km: 26.647
     distance_percent: 33.9039
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
     distance_meters: 20268.91
@@ -146,7 +146,7 @@
     distance_meters: 12580.61
     distance_km: 12.581
     distance_percent: 16.0069
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 2588.17
@@ -202,7 +202,7 @@
     name: Stargard
     code: "3214102"
   touched_counties:
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
   - slug: choszczenski
@@ -241,7 +241,7 @@
     name: Równina Nowogardzka
     code: "313.32"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_poludniowopomorskie

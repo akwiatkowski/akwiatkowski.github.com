@@ -18,7 +18,7 @@
     distance_km: 5.132
     distance_percent: 100.0
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 5132.02
@@ -74,7 +74,7 @@
     name: żniński
     code: 0419
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:

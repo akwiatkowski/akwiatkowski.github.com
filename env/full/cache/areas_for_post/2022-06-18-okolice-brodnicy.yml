@@ -66,13 +66,13 @@
     distance_km: 7.923
     distance_percent: 14.145
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 34377.42
     distance_km: 34.377
     distance_percent: 61.3769
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 21632.93
@@ -98,7 +98,7 @@
     distance_km: 4.323
     distance_percent: 7.7179
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 46785.85
@@ -161,10 +161,10 @@
     name: iławski
     code: "2807"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -178,7 +178,7 @@
     name: Równina Iławska
     code: "314.93"
   touched_macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: pojezierze_ilawskie
@@ -221,7 +221,7 @@
     distance_km: 13.085
     distance_percent: 100.0
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 13085.4
@@ -241,7 +241,7 @@
     distance_km: 5.366
     distance_percent: 41.0101
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 13085.4
@@ -280,7 +280,7 @@
     name: brodnicki
     code: "0402"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -291,7 +291,7 @@
     name: Pojezierze Chełmińskie
     code: "315.11"
   touched_macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:

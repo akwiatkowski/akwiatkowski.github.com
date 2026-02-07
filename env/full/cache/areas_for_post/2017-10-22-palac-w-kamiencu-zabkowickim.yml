@@ -31,7 +31,7 @@
     distance_meters: 7001.11
     distance_km: 7.001
     distance_percent: 96.192
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 277.15
@@ -78,7 +78,7 @@
     name: DOLNOŚLĄSKIE
     code: "02"
   touched_meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   - slug: obnizenie_otmuchowskie

@@ -16,7 +16,7 @@
     distance_meters: 7355.07
     distance_km: 7.355
     distance_percent: 33.5769
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
     distance_meters: 3560.76
@@ -102,7 +102,7 @@
   - slug: niedzwiedz
     name: Niedźwiedź
     code: "1207102"
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
   touched_counties:

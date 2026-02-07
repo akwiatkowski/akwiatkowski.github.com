@@ -1,5 +1,5 @@
 ---
-- slug: plaskowyz_sanskodniestrzanski
+- slug: plaskowyz_sansko-dniestrzanski
   name: Płaskowyż Sańsko-Dniestrzański
   code: "521"
   bbox:
@@ -47,7 +47,7 @@
     north: 49.28578254084921
     west: 19.75841011736984
     east: 20.122929488834465
-- slug: obnizenie_orawskopodhalanskie
+- slug: obnizenie_orawsko-podhalanskie
   name: Obniżenie Orawsko-Podhalańskie
   code: 514-15
   bbox:
@@ -103,7 +103,7 @@
     north: 50.12611648704117
     west: 19.50831593596502
     east: 19.988024574645113
-- slug: wyzyna_krakowskoczestochowska
+- slug: wyzyna_krakowsko-czestochowska
   name: Wyżyna Krakowsko-Częstochowska
   code: "341"
   bbox:
@@ -127,7 +127,7 @@
     north: 51.09817539853527
     west: 16.16150724512799
     east: 17.654203166702334
-- slug: nizina_slaskoluzycka
+- slug: nizina_slasko-luzycka
   name: Nizina Śląsko-Łużycka
   code: "317"
   bbox:
@@ -175,7 +175,7 @@
     north: 51.52765704184127
     west: 19.017072498295946
     east: 20.500276497644567
-- slug: wyzyna_woznickowielunska
+- slug: wyzyna_woznicko-wielunska
   name: Wyżyna Woźnicko-Wieluńska
   code: "341"
   bbox:
@@ -191,7 +191,7 @@
     north: 54.64942315138626
     west: 17.540202576328355
     east: 18.849313312780556
-- slug: pojezierze_chelminskodobrzynskie
+- slug: pojezierze_chelminsko-dobrzynskie
   name: Pojezierze Chełmińsko-Dobrzyńskie
   code: 314-316
   bbox:
@@ -207,7 +207,7 @@
     north: 53.10732038301944
     west: 15.415311474181154
     east: 19.45035291482216
-- slug: pojezierze_lubuskie_brandenburskolubuskie
+- slug: pojezierze_lubuskie_brandenbursko-lubuskie
   name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
   code: 314-316
   bbox:
@@ -223,7 +223,7 @@
     north: 52.04042687548537
     west: 14.61924147034892
     east: 15.773646526541786
-- slug: pradolina_warcianskoodrzanska
+- slug: pradolina_warciansko-odrzanska
   name: Pradolina Warciańsko-Odrzańska
   code: 314-316
   bbox:
@@ -247,7 +247,7 @@
     north: 52.09702686238691
     west: 18.844503936158368
     east: 21.977296463249363
-- slug: pradolina_torunskoeberswaldzka
+- slug: pradolina_torunsko-eberswaldzka
   name: Pradolina Toruńsko-Eberswaldzka
   code: 314-316
   bbox:
@@ -263,7 +263,7 @@
     north: 51.86555229818099
     west: 14.589615033158953
     east: 15.046158760883623
-- slug: obnizenie_milickoglogowskie
+- slug: obnizenie_milicko-glogowskie
   name: Obniżenie Milicko-Głogowskie
   code: "318"
   bbox:

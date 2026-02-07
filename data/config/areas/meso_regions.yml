@@ -7,7 +7,7 @@
     north: 49.75182236842196
     west: 22.718913709344378
     east: 22.834106248904803
-- slug: gory_sanockoturczanskie
+- slug: gory_sanocko-turczanskie
   name: Góry Sanocko-Turczańskie
   code: "522.11"
   bbox:
@@ -79,7 +79,7 @@
     north: 50.00355370777657
     west: 20.83094209624864
     east: 21.474495109677694
-- slug: kotlina_jasielskokrosnienska
+- slug: kotlina_jasielsko-krosnienska
   name: Kotlina Jasielsko-Krośnieńska
   code: "513.67"
   bbox:
@@ -207,7 +207,7 @@
     north: 49.442782884521584
     west: 20.12795326056498
     east: 20.601721673053916
-- slug: beskid_zywieckoorawski
+- slug: beskid_zywiecko-orawski
   name: Beskid Żywiecko-Orawski
   code: "513.51"
   bbox:
@@ -231,7 +231,7 @@
     north: 49.831232084314884
     west: 19.867626282791527
     east: 20.65529642683117
-- slug: kotlina_orawskonowotarska
+- slug: kotlina_orawsko-nowotarska
   name: Kotlina Orawsko-Nowotarska
   code: "514.11"
   bbox:
@@ -855,7 +855,7 @@
     north: 51.25716374096343
     west: 19.286455355295644
     east: 19.938532442512003
-- slug: pasmo_przedborskomalogoskie
+- slug: pasmo_przedborsko-malogoskie
   name: Pasmo Przedborsko-Małogoskie
   code: "342.15"
   bbox:
@@ -1287,7 +1287,7 @@
     north: 54.251873810358305
     west: 17.590573800388697
     east: 18.714645514500894
-- slug: pojezierze_dzierzgonskomoraskie
+- slug: pojezierze_dzierzgonsko-moraskie
   name: Pojezierze Dzierzgońsko-Morąskie
   code: "314.91"
   bbox:
@@ -1375,7 +1375,7 @@
     north: 50.6342005129647
     west: 23.38701465896217
     east: 24.098657021822138
-- slug: pojezierze_leczynskowlodawskie
+- slug: pojezierze_leczynsko-wlodawskie
   name: Pojezierze Łęczyńsko-Włodawskie
   code: "845.16"
   bbox:
@@ -1423,7 +1423,7 @@
     north: 53.94103960447105
     west: 19.81849397375136
     east: 20.615693373026584
-- slug: wysoczyzna_jezioranskobisztynecka
+- slug: wysoczyzna_jezioransko-bisztynecka
   name: Wysoczyzna Jeziorańsko-Bisztynecka
   code: "842.89"
   bbox:
@@ -1703,7 +1703,7 @@
     north: 51.809339625761076
     west: 20.913677762857134
     east: 21.294480460310425
-- slug: rownina_lowickoblonska
+- slug: rownina_lowicko-blonska
   name: Równina Łowicko-Błońska
   code: "318.72"
   bbox:
@@ -1863,7 +1863,7 @@
     north: 50.95336767322062
     west: 23.67043017260062
     east: 24.120082088237265
-- slug: wysoczyzna_parczewskokodenska
+- slug: wysoczyzna_parczewsko-kodenska
   name: Wysoczyzna Parczewsko-Kodeńska
   code: "845.12"
   bbox:
@@ -2119,7 +2119,7 @@
     north: 53.05969547973301
     west: 16.450896111599118
     east: 17.78492502296534
-- slug: pojezierze_zninskomogilenskie
+- slug: pojezierze_zninsko-mogilenskie
   name: Pojezierze Żnińsko-Mogileńskie
   code: "315.58"
   bbox:
@@ -2199,7 +2199,7 @@
     north: 54.64942315138626
     west: 17.540202576328355
     east: 18.68796921242651
-- slug: pradolina_redyleby
+- slug: pradolina_redy-leby
   name: Pradolina Redy-Łeby
   code: "313.46"
   bbox:
@@ -2527,7 +2527,7 @@
     north: 50.701448208852526
     west: 16.324270933818834
     east: 16.716723962476003
-- slug: wzgorza_niemczanskostrzelinskie
+- slug: wzgorza_niemczansko-strzelinskie
   name: Wzgórza Niemczańsko-Strzelińskie
   code: "332.14"
   bbox:
@@ -2639,7 +2639,7 @@
     north: 49.83544429446202
     west: 18.568915889732637
     east: 18.60111225345516
-- slug: pasma_pewelskokrzeczowskie
+- slug: pasma_pewelsko-krzeczowskie
   name: Pasma Pewelsko-Krzeczowskie
   code: "513.57"
   bbox:
@@ -2647,7 +2647,7 @@
     north: 49.78598167953793
     west: 19.234584181728863
     east: 19.615193548063388
-- slug: beskid_zywieckokysucki
+- slug: beskid_zywiecko-kysucki
   name: Beskid Żywiecko-Kysucki
   code: "513.56"
   bbox:
@@ -2655,7 +2655,7 @@
     north: 49.52696129317203
     west: 18.96045103801797
     east: 19.228422250905084
-- slug: miedzygorze_jablonkowskokoniakowskie
+- slug: miedzygorze_jablonkowsko-koniakowskie
   name: Międzygórze Jabłonkowsko-Koniakowskie
   code: "513.55"
   bbox:
@@ -2711,7 +2711,7 @@
     north: 49.429043599202934
     west: 20.106788599421755
     east: 20.335872980062792
-- slug: pogorze_orawskojordanowskie
+- slug: pogorze_orawsko-jordanowskie
   name: Pogórze Orawsko-Jordanowskie
   code: "513.50"
   bbox:

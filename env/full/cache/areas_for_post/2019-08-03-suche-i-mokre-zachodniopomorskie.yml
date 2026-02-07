@@ -134,7 +134,7 @@
     distance_meters: 25657.26
     distance_km: 25.657
     distance_percent: 26.3281
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 5669.33
@@ -235,7 +235,7 @@
   - slug: pojezierze_poludniowopomorskie
     name: Pojezierze Południowopomorskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   touched_mega_regions:

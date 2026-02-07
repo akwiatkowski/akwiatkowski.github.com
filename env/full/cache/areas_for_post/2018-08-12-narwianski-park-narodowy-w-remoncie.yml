@@ -16,7 +16,7 @@
     distance_meters: 5034.17
     distance_km: 5.034
     distance_percent: 9.5495
-  - slug: kobylinborzymy
+  - slug: kobylin-borzymy
     name: Kobylin-Borzymy
     code: "2013052"
     distance_meters: 4731.54
@@ -70,14 +70,14 @@
     distance_km: 52.716
     distance_percent: 100.0
   subprovinces:
-  - slug: wysoczyzny_podlaskobialoruskie
+  - slug: wysoczyzny_podlasko-bialoruskie
     name: Wysoczyzny Podlasko-Białoruskie
     code: "84"
     distance_meters: 52716.32
     distance_km: 52.716
     distance_percent: 100.0
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 52716.32
@@ -87,7 +87,7 @@
   - slug: tykocin
     name: Tykocin
     code: "2002123"
-  - slug: kobylinborzymy
+  - slug: kobylin-borzymy
     name: Kobylin-Borzymy
     code: "2013052"
   - slug: choroszcz
@@ -120,10 +120,10 @@
     name: Niż Wschodnioeuropejski
     code: "2"
   touched_subprovinces:
-  - slug: wysoczyzny_podlaskobialoruskie
+  - slug: wysoczyzny_podlasko-bialoruskie
     name: Wysoczyzny Podlasko-Białoruskie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

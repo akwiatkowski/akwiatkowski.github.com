@@ -50,7 +50,7 @@
     distance_meters: 15424.51
     distance_km: 15.425
     distance_percent: 73.2972
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 5619.3
@@ -100,7 +100,7 @@
     name: Wysoczyzna Grodziska
     code: "315.59"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_wielkopolskie

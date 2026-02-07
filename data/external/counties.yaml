@@ -5482,7 +5482,7 @@
   area: 0.07058954903754758
 - id: 34
   name: golubsko-dobrzyński
-  slug: golubskodobrzynski
+  slug: golubsko-dobrzynski
   type: gmina
   voivodeship: kujawsko-pomorskie
   terc: '0405'
@@ -14000,7 +14000,7 @@
   area: 0.13202760290452661
 - id: 82
   name: strzelecko-drezdenecki
-  slug: strzeleckodrezdenecki
+  slug: strzelecko-drezdenecki
   type: gmina
   voivodeship: lubuskie
   terc: 0806
@@ -31041,7 +31041,7 @@
   area: 0.0844627478498626
 - id: 181
   name: kędzierzyńsko-kozielski
-  slug: kedzierzynskokozielski
+  slug: kedzierzynsko-kozielski
   type: gmina
   voivodeship: opolskie
   terc: '1603'
@@ -35271,7 +35271,7 @@
   area: 0.08808297850607259
 - id: 205
   name: ropczycko-sędziszowski
-  slug: ropczyckosedziszowski
+  slug: ropczycko-sedziszowski
   type: gmina
   voivodeship: podkarpackie
   terc: '1815'
@@ -45290,7 +45290,7 @@
   area: 0.08150506371210157
 - id: 266
   name: bieruńsko-lędziński
-  slug: bierunskoledzinski
+  slug: bierunsko-ledzinski
   type: gmina
   voivodeship: slaskie
   terc: '2414'
@@ -45900,7 +45900,7 @@
   area: 0.12917786947948096
 - id: 270
   name: Bielsko-Biała
-  slug: bielskobiala
+  slug: bielsko-biala
   type: gmina
   voivodeship: slaskie
   terc: '2461'
@@ -46304,7 +46304,7 @@
   area: 0.01697776236887072
 - id: 276
   name: Jastrzębie-Zdrój
-  slug: jastrzebiezdroj
+  slug: jastrzebie-zdroj
   type: gmina
   voivodeship: slaskie
   terc: '2467'
@@ -53469,7 +53469,7 @@
   area: 0.09156558378199987
 - id: 325
   name: czarnkowsko-trzcianecki
-  slug: czarnkowskotrzcianecki
+  slug: czarnkowsko-trzcianecki
   type: gmina
   voivodeship: wielkopolskie
   terc: '3002'

@@ -52,14 +52,14 @@
     distance_km: 12.496
     distance_percent: 100.0
   subprovinces:
-  - slug: wysoczyzny_podlaskobialoruskie
+  - slug: wysoczyzny_podlasko-bialoruskie
     name: Wysoczyzny Podlasko-Białoruskie
     code: "84"
     distance_meters: 12495.66
     distance_km: 12.496
     distance_percent: 100.0
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 12495.66
@@ -93,10 +93,10 @@
     name: Niż Wschodnioeuropejski
     code: "2"
   touched_subprovinces:
-  - slug: wysoczyzny_podlaskobialoruskie
+  - slug: wysoczyzny_podlasko-bialoruskie
     name: Wysoczyzny Podlasko-Białoruskie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

@@ -120,7 +120,7 @@
     distance_km: 11.093
     distance_percent: 5.8981
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 188078.28
@@ -182,7 +182,7 @@
     distance_meters: 49360.21
     distance_km: 49.36
     distance_percent: 26.2445
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 27096.63
@@ -221,7 +221,7 @@
     distance_km: 27.097
     distance_percent: 14.4071
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 111621.44
@@ -287,7 +287,7 @@
     name: działdowski
     code: "2803"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -316,7 +316,7 @@
   - slug: pojezierze_mazurskie
     name: Pojezierze Mazurskie
     code: "842"
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: nizina_polnocnomazowiecka
@@ -340,7 +340,7 @@
     name: Niziny Środkowopolskie
     code: "31"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
   - slug: niz_srodkowoeuropejski

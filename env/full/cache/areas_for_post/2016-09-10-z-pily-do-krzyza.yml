@@ -41,7 +41,7 @@
     distance_km: 5.267
     distance_percent: 6.6489
   counties:
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
     distance_meters: 64328.33
@@ -86,7 +86,7 @@
     distance_km: 4.214
     distance_percent: 5.3206
   macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 48086.95
@@ -142,7 +142,7 @@
   - slug: pilski
     name: pilski
     code: "3019"
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
   touched_voivodeships:
@@ -166,7 +166,7 @@
   - slug: pojezierze_poludniowopomorskie
     name: Pojezierze Południowopomorskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   touched_mega_regions:

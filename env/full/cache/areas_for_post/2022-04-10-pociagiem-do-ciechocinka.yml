@@ -264,7 +264,7 @@
     distance_meters: 149945.31
     distance_km: 149.945
     distance_percent: 50.6036
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 146368.06
@@ -338,13 +338,13 @@
     distance_meters: 95825.7
     distance_km: 95.826
     distance_percent: 32.3393
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 73939.31
     distance_km: 73.939
     distance_percent: 24.9531
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 64907.31
@@ -491,7 +491,7 @@
   - slug: mazowieckie
     name: MAZOWIECKIE
     code: "14"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -529,10 +529,10 @@
   - slug: nizina_polnocnomazowiecka
     name: Nizina Północnomazowiecka
     code: "318"
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie

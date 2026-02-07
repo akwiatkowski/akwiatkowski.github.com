@@ -152,7 +152,7 @@
     distance_meters: 18547.98
     distance_km: 18.548
     distance_percent: 19.9783
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 14201.78
@@ -277,7 +277,7 @@
   - slug: wal_trzebnicki
     name: Wał Trzebnicki
     code: "318"
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   touched_mega_regions:

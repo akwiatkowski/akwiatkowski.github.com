@@ -54,7 +54,7 @@
     distance_km: 11.493
     distance_percent: 16.6745
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 68926.93
@@ -73,7 +73,7 @@
     distance_meters: 29739.77
     distance_km: 29.74
     distance_percent: 43.1468
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
     distance_meters: 970.49
@@ -119,7 +119,7 @@
     distance_km: 0.97
     distance_percent: 1.408
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 67956.45
@@ -158,7 +158,7 @@
     name: ostródzki
     code: "2815"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -168,7 +168,7 @@
   - slug: rownina_olsztynka
     name: Równina Olsztynka
     code: "842.88"
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
   touched_macro_regions:
@@ -193,7 +193,7 @@
     name: Pojezierza Południowobałtyckie
     code: "31"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
   - slug: niz_srodkowoeuropejski

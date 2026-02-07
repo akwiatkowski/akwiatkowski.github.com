@@ -36,7 +36,7 @@
     distance_km: 2.727
     distance_percent: 10.9431
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 22192.93
@@ -113,7 +113,7 @@
     name: chojnicki
     code: "2202"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: pomorskie

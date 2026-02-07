@@ -98,7 +98,7 @@
     distance_meters: 53994.3
     distance_km: 53.994
     distance_percent: 98.8606
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 622.33
@@ -172,7 +172,7 @@
     name: Wysoczyzna Grodziska
     code: "315.59"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie
