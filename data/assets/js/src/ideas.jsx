@@ -224,7 +224,7 @@ const App = () => {
     });
 
     useEffect(() => {
-        fetch('/ideas.json').then(r => r.json()).then(data => {
+        fetch('/jsons/ideas.json').then(r => r.json()).then(data => {
             const ideas = data.ideas || data;
             const mapped = (Array.isArray(ideas) ? ideas : []).map(t => ({
                 ...t, days_min: t.days_min || t.lindays_mink,

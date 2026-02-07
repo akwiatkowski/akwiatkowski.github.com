@@ -10,7 +10,7 @@
 # 3. Payload JSON - /payload.json (priority: 52)
 # 4. Homepage JSON - /jsons/homepage.json (priority: 52)
 # 5. Map JSON - /jsons/map.json (priority: 52)
-# 6. Ideas JSON - /ideas.json (priority: 53)
+# 6. Ideas JSON - /jsons/ideas.json (priority: 53)
 # 7. Photos JSON - /photos.json (priority: 54)
 # 7b. Photos Map JSON - /jsons/photos_map.json (priority: 54)
 # 8. Train stations JSON - /jsons/train_stations.json (priority: 55)

@@ -6,7 +6,7 @@ module SpecialView
 
     def initialize(
       context : RenderContext,
-      @url : String = "/ideas.json",
+      @url : String = "/jsons/ideas.json",
     )
       @context = context
     end
