@@ -148,10 +148,7 @@ class AreaShowView < PageView
   end
 
   private def collect_area_photos : Array(PhotoEntity)
-    @posts.flat_map { |p| p.published_photo_entities }
-      .select { |p| p.tags.size > 0 }
-      .sort_by { |p| -p.points }
-      .first(50)
+    @selector.top_photos_for(@area, 50)
   end
 
   private def get_parent_info : NamedTuple(name: String, url: String)
