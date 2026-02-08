@@ -14,10 +14,10 @@ const AREA_TYPES = [
   },
   {
     name: 'Voivodeship',
-    url: '/wpisy-dla/wojewodztwa/kujawskopomorskie.html',
+    url: '/wpisy-dla/wojewodztwa/kujawsko-pomorskie.html',
     filterBy: 'voivodeship',
     jsonField: 'voivodeship_slugs',
-    slug: 'kujawskopomorskie',
+    slug: 'kujawsko-pomorskie',
   },
   {
     name: 'MesoRegion',
