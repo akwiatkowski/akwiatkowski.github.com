@@ -6,9 +6,8 @@
 # JS-heavy pages that load data client-side.
 #
 # Current views:
-# 1. New More page - /wiecej.html (priority: 89)
-# 2. More page (old) - /wiecej2.html (priority: 90)
-# 3. About page - /o-mnie.html (priority: 91)
+# 1. More page - /wiecej.html (priority: 89)
+# 2. About page - /o-mnie.html (priority: 91)
 # 3. English page - /en/index.html (priority: 92)
 # 4. Trip ideas page - /pomysly_tras.html (priority: 93)
 # 5. JS Timeline page - /linia_czasu.html (priority: 94)
@@ -22,7 +21,7 @@
 #
 # Priority: 90-99 (near the end, low priority)
 #
-# View classes used: NewMoreView, StaticView::MoreView, TripIdeasView, JsTimelineView,
+# View classes used: NewMoreView, TripIdeasView, JsTimelineView,
 # PhotoMapView, JsExifView, PhotoPlannerView, MarkdownPageView
 # (loaded via renderer.cr)
 
@@ -41,23 +40,6 @@ def register_static_views(r : ViewRegistry)
   r.register("Static: new more page", [] of Symbol, priority: 89) do |ctx|
     ViewRegistry::Log.debug { "Rendering new more page" }
     ctx.write_output(NewMoreView.new(context: ctx))
-  end
-
-  # ============================================
-  # View: More Page (Old) - DEPRECATED
-  # ============================================
-  #
-  # DEPRECATED: Use NewMoreView at /wiecej.html instead
-  # Kept for backward compatibility.
-  #
-  # URL: /wiecej2.html
-  # View class: StaticView::MoreView
-  #
-  # Dependencies: [] (always runs)
-  #
-  r.register("Static: more page (old)", [] of Symbol, priority: 90) do |ctx|
-    ViewRegistry::Log.debug { "Rendering more page (old) - DEPRECATED" }
-    ctx.write_output(StaticView::MoreView.new(context: ctx))
   end
 
   # ============================================

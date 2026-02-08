@@ -155,6 +155,16 @@ Summary page (`/zestawienie.html`) deleted. No longer needed.
   show page URL so links appear as gray/inactive tags. Fix: either render show pages for all towns
   (not just visited) or include all towns in the JSON with a flag indicating if visited.
 
+**More Page (`/wiecej.html`) — Missing Links:**
+The new more page only has 5 links. The old `more.md` had 14 links. Evaluate adding:
+- Galeria (`/galeria.html`) — photo galleries
+- Roczne statystyki (`/rok/<year>.html`) — yearly reports
+- Gminy (`/gminy.html`) — towns index
+- Statystyki EXIF (`/statystyki_exif.html`) — EXIF stats
+- O mnie (`/o-mnie.html`) — about page
+- RSS/Atom feeds (`/feed.xml`, `/feed_atom.xml`)
+- External galleries (Smugmug, 500px) — if still relevant
+
 **Stats Rendering:**
 - Explore better ways to render post stats (distance, time, temperature)
 - Consider inline badges, sidebar summary, or expandable section

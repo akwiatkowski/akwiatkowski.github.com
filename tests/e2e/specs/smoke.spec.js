@@ -95,7 +95,6 @@ test.describe('Smoke tests', () => {
       '/feed_atom.xml',
       '/sitemap.xml',
       '/robots.txt',
-      '/payload.json',
       '/photos.json',
     ];
 

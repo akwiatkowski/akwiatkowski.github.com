@@ -151,9 +151,6 @@ describe Router do
       router.sitemap_url.should eq "/sitemap.xml"
     end
 
-    it "#payload_url returns /payload.json" do
-      router.payload_url.should eq "/payload.json"
-    end
   end
 
   describe "Index URLs" do

@@ -256,10 +256,6 @@ class Router
     "/sitemap.xml"
   end
 
-  def payload_url : String
-    "/payload.json"
-  end
-
   # ============================================
   # Gallery URLs
   # ============================================

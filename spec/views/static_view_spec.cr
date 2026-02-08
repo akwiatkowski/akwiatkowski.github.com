@@ -37,9 +37,4 @@ describe StaticView do
     end
   end
 
-  describe StaticView::MoreView do
-    it "exists" do
-      StaticView::MoreView.should_not be_nil
-    end
-  end
 end

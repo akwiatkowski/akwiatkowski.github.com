@@ -171,7 +171,7 @@ describe "setup_view_registry" do
     it "registers all expected views" do
       r = setup_view_registry
 
-      # Should have 41 views total:
+      # Should have 40 views total:
       # - Entity views: 2 (tags, tags legacy redirects)
       # - Area views: 4 (show pages, post list pages, gallery pages, external areas post list)
       # - Home views: 4 (main, old home, map, pois)
@@ -179,9 +179,9 @@ describe "setup_view_registry" do
       # - Stats views: 4 (year reports, burnout, towns history, towns timeline)
       # - Feed views: 12 (RSS, Atom, 8x JSON, sitemap, robots)
       # - Index views: 1 (towns only - lands deprecated)
-      # - Static views: 9 (new more, more old, about, english, trip ideas, JS timeline, photo map, JS exif stats, photo planner)
+      # - Static views: 8 (more, about, english, trip ideas, JS timeline, photo map, JS exif stats, photo planner)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
-      r.views.size.should eq(41)
+      r.views.size.should eq(40)
     end
 
     it "registers all entity views" do
@@ -236,7 +236,6 @@ describe "setup_view_registry" do
       view_names = r.views.map(&.name)
 
       view_names.should contain("Static: new more page")
-      view_names.should contain("Static: more page (old)")
       view_names.should contain("Static: about page")
       view_names.should contain("Static: english page")
       view_names.should contain("Static: trip ideas")
