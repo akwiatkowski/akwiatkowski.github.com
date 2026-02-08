@@ -205,6 +205,7 @@ class Tremolite::Blog
       refresh_nav_stats = false
     end
 
+    t_render_start = Time.instant
     render(
       post_to_render: post_to_render,
       posts_changed: posts_changed,
@@ -215,6 +216,7 @@ class Tremolite::Blog
       refresh_nav_stats: refresh_nav_stats,
       hide_not_finished: hide_not_finished
     )
+    t_render_elapsed = Time.instant - t_render_start
 
     # update sitemap only when full render to not mess
     # with google stuff
@@ -223,11 +225,19 @@ class Tremolite::Blog
       ctx.write_output(Tremolite::Views::SiteMapGenerator.new(context: context))
     end
 
+    t_validate_start = Time.instant
     validator.run
+    t_validate_elapsed = Time.instant - t_validate_start
 
     # Z) store current state
     # current state is refreshed in `#update_before_save`
     mod_watcher.save_to_file
+
+    Log.info { "─── Timing Summary ───" }
+    Log.info { "  Render:     #{t_render_elapsed.total_milliseconds.round(1)}ms" }
+    Log.info { "  Validation: #{t_validate_elapsed.total_milliseconds.round(1)}ms" }
+    Log.info { "  Total:      #{(t_render_elapsed + t_validate_elapsed).total_milliseconds.round(1)}ms" }
+    Log.info { "──────────────────────" }
   end
 
   def render(
@@ -253,12 +263,14 @@ class Tremolite::Blog
     # Posts with photo/EXIF changes need full gallery rendering.
     # Posts with only content changes need just article rendering.
 
+    t_posts = Time.instant
     post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
     post_to_render_only_post = post_to_render - post_to_render_galleries
 
     post_renderer = PostRenderer.new(self)
     post_renderer.render_with_galleries(post_to_render_galleries, hide_not_finished)
     post_renderer.render_content_only(post_to_render_only_post, hide_not_finished)
+    Log.info { "Phase: Post rendering - #{(Time.instant - t_posts).total_milliseconds.round(1)}ms" }
 
     # ============================================
     # Registry-based rendering
@@ -266,17 +278,21 @@ class Tremolite::Blog
     # All aggregate views (entity pages, galleries, feeds, etc.)
     # are handled by the ViewRegistry.
 
+    t_registry = Time.instant
     render_with_registry(
       posts_changed: posts_changed,
       yamls_changed: yamls_changed,
       exifs_changed: exifs_changed
     )
+    Log.info { "Phase: Registry rendering - #{(Time.instant - t_registry).total_milliseconds.round(1)}ms" }
 
     # ============================================
     # Generate history index and summary
     # ============================================
+    t_history = Time.instant
     output_history.generate_index_html
     output_history.print_summary
+    Log.info { "Phase: Output history - #{(Time.instant - t_history).total_milliseconds.round(1)}ms" }
   end
 
   # TODO check if it's used

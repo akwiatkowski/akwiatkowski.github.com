@@ -21,17 +21,18 @@ module HtmlValidators
       errors = [] of ValidationError
       warnings = [] of ValidationWarning
 
-      # Skip non-HTML content (feeds, JSON, etc.)
+      # Skip non-HTML content (feeds, JSON, etc.) and redirect stubs
       return ValidationResult.new(errors, warnings) unless html_page?(html)
+      return ValidationResult.new(errors, warnings) if redirect_page?(html)
 
       # Check for any CSS
       unless html.match(REQUIRED_CSS_PATTERN)
         errors << ValidationError.new(url, "No CSS stylesheets found - asset bundle system may have failed")
       end
 
-      # Check for any JS
+      # Check for any JS (warning only - some pages are intentionally JS-free)
       unless html.match(REQUIRED_JS_PATTERN)
-        errors << ValidationError.new(url, "No JavaScript files found - asset bundle system may have failed")
+        warnings << ValidationWarning.new(url, "No JavaScript files found")
       end
 
       # Check for forbidden assets (Babel should be removed)
@@ -46,6 +47,10 @@ module HtmlValidators
 
     private def html_page?(html : String) : Bool
       html.includes?("<!DOCTYPE html") || html.includes?("<html")
+    end
+
+    private def redirect_page?(html : String) : Bool
+      html.includes?("window.location.replace")
     end
   end
 end

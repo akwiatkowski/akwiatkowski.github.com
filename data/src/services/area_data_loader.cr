@@ -89,13 +89,22 @@ class AreaDataLoader
     data = YAML.parse(File.read(path))
     count = 0
 
+    seen_slugs = Set(String).new
+    skipped = 0
+
     data.as_a.each do |item|
       entity = AreaEntity.from_yaml(item, area_type)
+      if seen_slugs.includes?(entity.slug)
+        Log.warn { "Duplicate #{area_type} slug '#{entity.slug}' in #{filename}.yml — skipping" }
+        skipped += 1
+        next
+      end
+      seen_slugs << entity.slug
       @areas << entity
       count += 1
     end
 
-    Log.info { "Loaded #{count} #{area_type}s from #{filename}.yml" }
+    Log.info { "Loaded #{count} #{area_type}s from #{filename}.yml" + (skipped > 0 ? " (#{skipped} duplicates skipped)" : "") }
   end
 
   # Get areas filtered by type (memoized)

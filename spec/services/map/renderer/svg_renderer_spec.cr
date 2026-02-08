@@ -94,7 +94,8 @@ describe Map::Renderer::SvgRenderer do
     )
     svg = Map::Renderer::SvgRenderer.render(result)
     svg.should contain("mapa z UMP-pcPL")
-    svg.should contain("photo-map-licence")
+    svg.should contain("licence-text")
+    svg.should contain("text-anchor: end")
   end
 
   it "renders tile images" do

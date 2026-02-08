@@ -44,7 +44,7 @@ class Map::Renderer::SvgRenderer
       s << "</svg>\n"
 
       # License
-      render_licence(s, result)
+      render_licence(s, result, width, new_height)
 
       s << "</svg>\n"
     end
@@ -69,7 +69,7 @@ class Map::Renderer::SvgRenderer
     s << "  .photo-dot { stroke: rgba(0,0,0,0.5); stroke-width: 0.5; }\n"
     s << "  .route-point { fill: white; stroke: rgba(0,0,0,0.4); stroke-width: 1.5; }\n"
     s << "  .photo-border { fill: none; stroke: rgba(255,255,255,0.7); stroke-width: 1; }\n"
-    s << "  .licence-text { font-size: smaller; }\n"
+    s << "  .licence-text { font-family: sans-serif; font-size: 11px; fill: rgba(0,0,0,0.45); text-anchor: end; }\n"
     s << "</style>\n"
   end
 
@@ -170,14 +170,14 @@ class Map::Renderer::SvgRenderer
     s << "</g>"
   end
 
-  private def self.render_licence(s : IO, result : MapResult)
+  private def self.render_licence(s : IO, result : MapResult, svg_width : Int32, svg_height : Int32)
     if result.tile_source == MapTile::Ump
+      text_x = svg_width - 8
+      text_y = svg_height - 8
       s << "\n"
-      s << "<svg id='photo-map-licence'>\n"
       s << "<a href='https://mapa.ump.waw.pl/ump-www/?zoom=#{result.zoom}&amp;lat=#{result.center_lat}&amp;lon=#{result.center_lon}' target='_blank'>\n"
-      s << "<text x='5' y='20' class='licence-text'>mapa z UMP-pcPL</text>\n"
+      s << "<text x='#{text_x}' y='#{text_y}' class='licence-text'>mapa z UMP-pcPL</text>\n"
       s << "</a>\n"
-      s << "</svg>\n"
     end
   end
 end

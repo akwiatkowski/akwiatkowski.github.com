@@ -187,23 +187,18 @@ class Map::Main
     end
   end
 
-  def licence_text
-    x = 5
-    y = 20
-
+  def licence_text(svg_width : Int32, svg_height : Int32)
     lat = @tiles_layer.map_lat_center
     lon = @tiles_layer.map_lon_center
 
-    # sorry guys for not adding credits before
-    # you know, a lot of work :)
     if @tile == Map::MapTile::Ump
       return String.build do |s|
         s << "\n"
-        s << "<svg id='photo-map-licence'>\n"
+        text_x = svg_width - 8
+        text_y = svg_height - 8
         s << "<a href='https://mapa.ump.waw.pl/ump-www/?zoom=#{@zoom}&amp;lat=#{lat}&amp;lon=#{lon}' target='_blank'>\n"
-        s << "<text x='#{x}' y='#{y}' font-size='smaller'>mapa z UMP-pcPL</text>\n"
+        s << "<text x='#{text_x}' y='#{text_y}' class='licence-text'>mapa z UMP-pcPL</text>\n"
         s << "</a>\n"
-        s << "</svg>\n"
       end
     end
 
@@ -271,7 +266,7 @@ class Map::Main
       s << "</svg>\n"
 
       # licence stuff is kind of separated
-      s << licence_text
+      s << licence_text(width, new_height)
 
       s << "</svg>\n"
       Log.debug { "svg done" }
@@ -304,7 +299,7 @@ class Map::Main
       .photo-dot { stroke: rgba(0,0,0,0.5); stroke-width: 0.5; }
       .route-point { fill: white; stroke: rgba(0,0,0,0.4); stroke-width: 1.5; }
       .photo-border { fill: none; stroke: rgba(255,255,255,0.7); stroke-width: 1; }
-      .licence-text { font-size: smaller; }
+      .licence-text { font-family: sans-serif; font-size: 11px; fill: rgba(0,0,0,0.45); text-anchor: end; }
     </style>\n
     SVG
   end

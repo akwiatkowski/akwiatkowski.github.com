@@ -11,6 +11,10 @@ module DynamicView
       @stat = BurnoutStat.new(posts: context.posts)
     end
 
+    def title
+      "Burnout"
+    end
+
     # a bit internal at this moment
     def add_to_sitemap?
       return false

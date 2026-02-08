@@ -29,6 +29,10 @@ module DynamicView
       @quant_days = 7
     end
 
+    def title
+      @title
+    end
+
     def add_to_sitemap?
       false
     end

@@ -53,34 +53,59 @@ class Tremolite::Validator
     processor = HtmlProcessor.new(validate: true)
     error_count = 0
     warning_count = 0
+    page_count = 0
+    total_size = 0_i64
+    slowest_url = ""
+    slowest_ms = 0.0
+
+    t_start = Time.instant
 
     @html_buffer.buffer.each do |url, content|
       next unless is_url_html?(url)
 
+      page_count += 1
+      total_size += content.bytesize
+
+      t_page = Time.instant
       result = processor.process(content, url)
+      page_ms = (Time.instant - t_page).total_milliseconds
+
+      if page_ms > slowest_ms
+        slowest_ms = page_ms
+        slowest_url = url
+      end
+
+      if page_ms > 500
+        Log.warn { "Slow validation: #{url} (#{page_ms.round(1)}ms, #{content.bytesize / 1024}KB)" }
+      end
 
       result.errors.each do |error|
         Log.error { error.to_s }
         error_count += 1
       end
-
-      # Log warnings only if verbose logging is enabled
-      # result.warnings.each do |warning|
-      #   Log.warn { warning.to_s }
-      #   warning_count += 1
-      # end
     end
+
+    elapsed = (Time.instant - t_start).total_milliseconds
 
     if error_count > 0
       Log.error { "HTML validation: #{error_count} errors found" }
     else
       Log.info { "HTML validation: passed" }
     end
+
+    Log.info { "HTML validation stats: #{page_count} pages, #{total_size / 1024}KB total, #{elapsed.round(1)}ms" }
+    Log.info { "HTML validation slowest: #{slowest_url} (#{slowest_ms.round(1)}ms)" }
   end
 
   private def is_url_html?(url)
-    # puts "#{url} - #{File.extname(url).to_s}"
-    File.extname(url).to_s == "" || File.extname(url).to_s == ".html" || File.extname(url).to_s == ".htm"
+    # Skip internal cache keys (e.g. __html_head_core__)
+    return false if url.starts_with?("__")
+
+    # Skip template cache entries (no leading /, e.g. "pomysly_tras.html")
+    return false unless url.starts_with?("/")
+
+    ext = File.extname(url).to_s
+    ext == "" || ext == ".html" || ext == ".htm"
   end
 
   # duplicated for debugging

@@ -118,19 +118,21 @@ describe HtmlValidators do
       result.errors.first.message.should contain "No CSS stylesheets"
     end
 
-    it "detects missing JavaScript" do
+    it "warns on missing JavaScript" do
       html = "<!DOCTYPE html><html><head><link rel=\"stylesheet\" href=\"/css/app.css\"></head><body></body></html>"
       validator = HtmlValidators::MissingAssetsValidator.new
       result = validator.validate(html, "/test.html")
-      result.errors.size.should eq 1
-      result.errors.first.message.should contain "No JavaScript"
+      result.errors.should be_empty
+      result.warnings.size.should eq 1
+      result.warnings.first.message.should contain "No JavaScript"
     end
 
-    it "detects both missing CSS and JS" do
+    it "detects missing CSS and warns on missing JS" do
       html = "<!DOCTYPE html><html><head></head><body></body></html>"
       validator = HtmlValidators::MissingAssetsValidator.new
       result = validator.validate(html, "/test.html")
-      result.errors.size.should eq 2
+      result.errors.size.should eq 1
+      result.warnings.size.should eq 1
     end
 
     it "passes with both CSS and JS present" do

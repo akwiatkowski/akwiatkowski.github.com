@@ -33,6 +33,7 @@ class PostGalleryStatsView < BaseView
   def post_header_html
     data = Hash(String, String).new
     data["post.image_url"] = image_url
+    data["post.image.position"] = "center"
     data["post.title"] = @post.title
     data["post.subtitle"] = @post.subtitle
     data["post.author"] = @post.author
@@ -56,6 +57,7 @@ class PostGalleryStatsView < BaseView
       nd = Hash(String, String).new
       nd["post.url"] = np.gallery_stats_url
       nd["post.title"] = np.title
+      nd["post.image"] = np.head_photo_entity.try(&.grid_image_src) || ""
       nl = load_html("post/pager_next", nd)
       data["next_post_pager"] = nl
     end
@@ -65,6 +67,7 @@ class PostGalleryStatsView < BaseView
       pd = Hash(String, String).new
       pd["post.url"] = pp.gallery_stats_url
       pd["post.title"] = pp.title
+      pd["post.image"] = pp.head_photo_entity.try(&.grid_image_src) || ""
       pl = load_html("post/pager_prev", pd)
       data["prev_post_pager"] = pl
     end
