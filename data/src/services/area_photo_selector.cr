@@ -117,7 +117,7 @@ struct AreaPhotoResult
     @area_type : AreaType,
     @photo_path : String? = nil,
     @post_slug : String? = nil,
-    @score : Int32 = 0
+    @score : Int32 = 0,
   )
   end
 

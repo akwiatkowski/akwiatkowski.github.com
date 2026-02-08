@@ -13,6 +13,8 @@
 #   renderer.render_content_only(posts, hide_not_finished: false)
 #
 class PostRenderer
+  include Profiled
+
   Log = ::Log.for(self)
 
   def initialize(@blog : Tremolite::Blog)
@@ -28,6 +30,7 @@ class PostRenderer
   # - Rendering post galleries (GalleryView::PostView, PostGalleryStatsView)
   # - Saving EXIF cache
   #
+  @[Profile(category: "posts")]
   def render_with_galleries(posts : Array(Tremolite::Post), hide_not_finished : Bool)
     return if posts.empty?
 
@@ -47,6 +50,7 @@ class PostRenderer
   # - Rendering the post article
   # - Saving EXIF cache
   #
+  @[Profile(category: "posts")]
   def render_content_only(posts : Array(Tremolite::Post), hide_not_finished : Bool)
     return if posts.empty?
 

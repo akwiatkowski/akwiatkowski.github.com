@@ -935,4 +935,46 @@ Summary page (`/zestawienie.html`) deleted. No longer needed.
 
 ---
 
+## Phase 23: Centralized Profiler ✅ COMPLETE
+
+**Completed**: 2026-02-08
+
+### Goal
+Replace scattered manual timing (6 variables, 3 "Phase:" log lines, manual summary block) with a single annotation-based profiler system.
+
+### Architecture
+
+- `@[Profile(category: "yaml")]` annotation marks methods for timing
+- `include Profiled` in a class triggers `finished` macro hook that auto-wraps annotated methods with `previous_def`
+- `Profiler.measure("cat", "name") { ... }` for dynamic names / cross-object calls
+- `Profiler.summary` prints category breakdown + top 10 slowest
+- To disable: just remove `include Profiled` — annotations become inert
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/src/services/profiler.cr` | `Profile` annotation, `Profiler` class (measure, record, summary, reset, enabled?) |
+| `data/src/services/profiled.cr` | `Profiled` module with `finished` macro hook |
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/blog.cr` | `Profiler.reset`/`measure`/`summary`, removed 6 timing vars + manual summary |
+| `data/src/view_registry/coordinator.cr` | `Profiler.measure("registry", entry.name)` replaces manual timing |
+| `data/src/data_manager.cr` | `@[Profile(category: "yaml")]` on 8 load methods |
+| `data/src/post_renderer.cr` | `@[Profile(category: "posts")]` on 2 render methods |
+| `data/src/validator.cr` | `@[Profile(category: "validation")]` on 3 private methods |
+
+### Macro Gotcha
+
+Crystal nested macros (`macro finished` inside `macro included`) cannot use `\{% if %}` / `\{% end %}` — the parser consumes the `end` for the outer macro. Fix: use ternary operator for visibility check.
+
+### Test Results
+
+**409 Crystal tests passing, 141 E2E tests passing**
+
+---
+
 *Last updated: 2026-02-08*

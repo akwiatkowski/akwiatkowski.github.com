@@ -7,10 +7,10 @@ struct AreaEntity
   getter slug : String
   getter name : String
   getter area_type : AreaType
-  getter code : String?           # TERC code for administrative, region code for geographic
-  getter voivodeship_slug : String?  # Parent voivodeship (for towns, counties)
+  getter code : String?             # TERC code for administrative, region code for geographic
+  getter voivodeship_slug : String? # Parent voivodeship (for towns, counties)
   getter bbox : AreaMatcher::BBox?
-  getter country : String?        # nil for Polish areas, country slug for external (e.g., "czechy")
+  getter country : String? # nil for Polish areas, country slug for external (e.g., "czechy")
 
   def initialize(
     @slug : String,
@@ -19,7 +19,7 @@ struct AreaEntity
     @code : String? = nil,
     @voivodeship_slug : String? = nil,
     @bbox : AreaMatcher::BBox? = nil,
-    @country : String? = nil
+    @country : String? = nil,
   )
   end
 

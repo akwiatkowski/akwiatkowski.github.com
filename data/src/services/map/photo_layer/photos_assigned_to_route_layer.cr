@@ -106,7 +106,6 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
     @photo_margin = (MARGIN_COEFF * @photo_center_to_corner).to_i.as(Int32)
     @photo_positions = Array(Map::PhotoToRoutePosition).new
     assign_photo_positions
-
   end
 
   private def populate_route_coord_ranges

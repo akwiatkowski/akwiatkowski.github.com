@@ -1,4 +1,6 @@
 class Tremolite::Validator
+  include Profiled
+
   def custom_validators
     check_missing_towns
     validate_exif_name_dictionary
@@ -11,10 +13,12 @@ class Tremolite::Validator
     # TagEntity validation can be added here if needed
   end
 
+  @[Profile(category: "validation")]
   private def validate_exif_name_dictionary
     ExifEntity.log_not_named
   end
 
+  @[Profile(category: "validation")]
   private def check_missing_towns
     all_towns_or_voivodeships = (@blog.data_manager.not_nil!.towns.not_nil! + @blog.data_manager.not_nil!.voivodeships.not_nil!).map(&.slug)
     posts = @blog.post_collection.posts.sort { |a, b| b.time <=> a.time }
@@ -49,6 +53,7 @@ class Tremolite::Validator
     end
   end
 
+  @[Profile(category: "validation")]
   private def validate_html_output
     processor = HtmlProcessor.new(validate: true)
     error_count = 0

@@ -1,3 +1,4 @@
+require "./services/profiled"
 require "./image_resizer"
 require "./data_manager"
 require "./post"
@@ -20,6 +21,8 @@ require "./post_renderer"
 require "./view_registry/all"
 
 class Tremolite::Blog
+  include Profiled
+
   # ============================================
   # View Registry Integration
   # ============================================
@@ -51,7 +54,7 @@ class Tremolite::Blog
   def output_history : OutputHistory
     @output_history ||= begin
       parts = output_path.split('/')
-      env = parts[1]? || "dev"       # env/dev/public/local -> "dev"
+      env = parts[1]? || "dev" # env/dev/public/local -> "dev"
       target = File.basename(output_path)
       history = OutputHistory.new(env: env, target: target)
       html_buffer.output_history = history
@@ -168,20 +171,21 @@ class Tremolite::Blog
     hide_not_finished : Bool = false,
   )
     # ** new way is to render what has changed
+    Profiler.reset
 
     # first we need to initialize all posts
     # ...unfortunately
-    Log.info { "PostCollection#initialize_posts" }
-    post_collection.initialize_posts
-    Log.info { "PostCollection#initialize_posts DONE" }
+    Profiler.measure("init", "initialize_posts") do
+      post_collection.initialize_posts
+    end
 
     # Set area_data_loader on all posts for area associations
-    area_loader = data_manager.not_nil!.area_data_loader.not_nil!
-    post_collection.posts.each { |post| post.area_data_loader = area_loader }
-    Log.info { "Set area_data_loader on #{post_collection.posts.size} posts" }
+    Profiler.measure("init", "set_area_data_loader") do
+      area_loader = data_manager.not_nil!.area_data_loader.not_nil!
+      post_collection.posts.each { |post| post.area_data_loader = area_loader }
+    end
 
     populate_referenced_links
-    Log.info { "Populated HtmlBuffer referenced links" }
 
     if mod_watcher.enabled == false || force_full_render
       all_posts = post_collection.posts
@@ -205,18 +209,18 @@ class Tremolite::Blog
       refresh_nav_stats = false
     end
 
-    t_render_start = Time.instant
-    render(
-      post_to_render: post_to_render,
-      posts_changed: posts_changed,
-      yamls_changed: yamls_changed,
-      post_to_update_photos: post_to_update_photos,
-      post_to_update_exif: post_to_update_exif,
-      exifs_changed: exifs_changed,
-      refresh_nav_stats: refresh_nav_stats,
-      hide_not_finished: hide_not_finished
-    )
-    t_render_elapsed = Time.instant - t_render_start
+    Profiler.measure("render", "Post + registry rendering") do
+      render(
+        post_to_render: post_to_render,
+        posts_changed: posts_changed,
+        yamls_changed: yamls_changed,
+        post_to_update_photos: post_to_update_photos,
+        post_to_update_exif: post_to_update_exif,
+        exifs_changed: exifs_changed,
+        refresh_nav_stats: refresh_nav_stats,
+        hide_not_finished: hide_not_finished
+      )
+    end
 
     # update sitemap only when full render to not mess
     # with google stuff
@@ -225,19 +229,15 @@ class Tremolite::Blog
       ctx.write_output(Tremolite::Views::SiteMapGenerator.new(context: context))
     end
 
-    t_validate_start = Time.instant
-    validator.run
-    t_validate_elapsed = Time.instant - t_validate_start
+    Profiler.measure("validation", "validator.run") do
+      validator.run
+    end
 
     # Z) store current state
     # current state is refreshed in `#update_before_save`
     mod_watcher.save_to_file
 
-    Log.info { "─── Timing Summary ───" }
-    Log.info { "  Render:     #{t_render_elapsed.total_milliseconds.round(1)}ms" }
-    Log.info { "  Validation: #{t_validate_elapsed.total_milliseconds.round(1)}ms" }
-    Log.info { "  Total:      #{(t_render_elapsed + t_validate_elapsed).total_milliseconds.round(1)}ms" }
-    Log.info { "──────────────────────" }
+    Profiler.summary
   end
 
   def render(
@@ -263,14 +263,14 @@ class Tremolite::Blog
     # Posts with photo/EXIF changes need full gallery rendering.
     # Posts with only content changes need just article rendering.
 
-    t_posts = Time.instant
-    post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
-    post_to_render_only_post = post_to_render - post_to_render_galleries
+    Profiler.measure("render", "Post rendering") do
+      post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
+      post_to_render_only_post = post_to_render - post_to_render_galleries
 
-    post_renderer = PostRenderer.new(self)
-    post_renderer.render_with_galleries(post_to_render_galleries, hide_not_finished)
-    post_renderer.render_content_only(post_to_render_only_post, hide_not_finished)
-    Log.info { "Phase: Post rendering - #{(Time.instant - t_posts).total_milliseconds.round(1)}ms" }
+      post_renderer = PostRenderer.new(self)
+      post_renderer.render_with_galleries(post_to_render_galleries, hide_not_finished)
+      post_renderer.render_content_only(post_to_render_only_post, hide_not_finished)
+    end
 
     # ============================================
     # Registry-based rendering
@@ -278,21 +278,21 @@ class Tremolite::Blog
     # All aggregate views (entity pages, galleries, feeds, etc.)
     # are handled by the ViewRegistry.
 
-    t_registry = Time.instant
-    render_with_registry(
-      posts_changed: posts_changed,
-      yamls_changed: yamls_changed,
-      exifs_changed: exifs_changed
-    )
-    Log.info { "Phase: Registry rendering - #{(Time.instant - t_registry).total_milliseconds.round(1)}ms" }
+    Profiler.measure("render", "Registry rendering") do
+      render_with_registry(
+        posts_changed: posts_changed,
+        yamls_changed: yamls_changed,
+        exifs_changed: exifs_changed
+      )
+    end
 
     # ============================================
     # Generate history index and summary
     # ============================================
-    t_history = Time.instant
-    output_history.generate_index_html
-    output_history.print_summary
-    Log.info { "Phase: Output history - #{(Time.instant - t_history).total_milliseconds.round(1)}ms" }
+    Profiler.measure("render", "Output history") do
+      output_history.generate_index_html
+      output_history.print_summary
+    end
   end
 
   # TODO check if it's used
@@ -305,6 +305,7 @@ class Tremolite::Blog
     )
   end
 
+  @[Profile(category: "init")]
   private def populate_referenced_links
     # TODO think about `not_nil!`
     # convert getters into custom methods

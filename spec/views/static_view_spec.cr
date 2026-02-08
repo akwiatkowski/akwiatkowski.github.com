@@ -36,5 +36,4 @@ describe StaticView do
       StaticView::PhotoPlannerView.should_not be_nil
     end
   end
-
 end

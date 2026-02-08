@@ -9,7 +9,7 @@ class TestAssetAwareView
     @additional : Array(String) = [] of String,
     @excluded : Array(String) = [] of String,
     @css : Array(String) = [] of String,
-    @js : String? = nil
+    @js : String? = nil,
   )
   end
 

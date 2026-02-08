@@ -190,7 +190,7 @@ class AreaDataLoader
     result : Hash(AreaType, Array(AreaAssociation)),
     route : YAML::Any,
     key : String,
-    area_type : AreaType
+    area_type : AreaType,
   )
     return unless route[key]?
 

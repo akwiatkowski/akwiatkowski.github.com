@@ -85,8 +85,8 @@ describe "Post area methods" do
       post.set_area_associations(associations)
 
       slugs = post.area_slugs(AreaType::Town)
-      slugs.should contain "pobiedziska"  # manual
-      slugs.should contain "swarzedz"     # calculated
+      slugs.should contain "pobiedziska" # manual
+      slugs.should contain "swarzedz"    # calculated
     end
 
     it "deduplicates when same slug in manual and calculated" do

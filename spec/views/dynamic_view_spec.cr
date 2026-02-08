@@ -42,7 +42,6 @@ describe DynamicView do
       DynamicView::TimelinePhotoView.should_not be_nil
     end
   end
-
 end
 
 describe DebugView do

@@ -19,7 +19,7 @@ class MockPhotoEntity
     @image_filename : String = "test.jpg",
     @points : Int32 = 0,
     lat : Float64? = nil,
-    lon : Float64? = nil
+    lon : Float64? = nil,
   )
     @exif = MockExifEntity.new(lat, lon)
   end
@@ -147,7 +147,7 @@ describe "AreaPhotoSelector" do
 
       photos = [
         MockPhotoEntity.new("far.jpg", points: 100, lat: 50.0, lon: 15.0),
-        MockPhotoEntity.new("closer.jpg", points: 50, lat: 51.5, lon: 16.5),  # Closer to center (52.5, 17.5)
+        MockPhotoEntity.new("closer.jpg", points: 50, lat: 51.5, lon: 16.5), # Closer to center (52.5, 17.5)
       ]
 
       selector = TestAreaPhotoSelector.new(photos)

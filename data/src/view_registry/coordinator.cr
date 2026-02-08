@@ -51,16 +51,16 @@ class RenderCoordinator
     label = "[#{num}/#{total}] [#{entry.type_label}] #{entry.name}"
 
     Log.info { "#{label} - START" }
-    start_time = Time.instant
 
     begin
-      entry.block.call(context)
+      Profiler.measure("registry", entry.name) do
+        entry.block.call(context)
+      end
     rescue ex
       Log.error { "#{label} - FAILED: #{ex.message}" }
       raise ex
     end
 
-    elapsed = Time.instant - start_time
-    Log.info { "#{label} - DONE (#{elapsed.total_milliseconds.round(2)}ms)" }
+    Log.info { "#{label} - DONE" }
   end
 end

@@ -3,7 +3,7 @@ require "./base"
 module HtmlValidators
   # Validates that no href="#" or empty hrefs exist
   class InvalidHrefValidator < Base
-    EMPTY_HREF_REGEX = /href=["']\s*["']/i
+    EMPTY_HREF_REGEX     = /href=["']\s*["']/i
     HASH_ONLY_HREF_REGEX = /href=["']#["']/
 
     def validate(html : String, url : String) : ValidationResult

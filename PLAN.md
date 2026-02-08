@@ -5,7 +5,7 @@
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-22, Photo Planner)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-23, Photo Planner)
 
 ---
 
@@ -129,6 +129,54 @@ Summary page (`/zestawienie.html`) deleted. No longer needed.
 
 ---
 
+## Phase 23: Centralized Profiler (Complete)
+
+**Goal:** Replace scattered manual timing with a single annotation-based profiler.
+
+**How it works:**
+- `@[Profile(category: "yaml")]` annotation on methods
+- `include Profiled` in a class enables auto-wrapping via `finished` macro hook
+- `Profiler.measure("cat", "name") { ... }` for cross-object/dynamic-name calls
+- `Profiler.summary` prints category breakdown + top 10 slowest at end of build
+- Remove `include Profiled` to disable all profiling for a class — annotations become inert
+
+**Files created:**
+- `data/src/services/profiler.cr` — `Profile` annotation, `Profiler` class (measure, record, summary, reset, enabled?)
+- `data/src/services/profiled.cr` — `Profiled` module with `finished` macro hook
+
+**Files modified:**
+- `data/src/blog.cr` — `Profiler.reset`/`measure`/`summary` replaces 6 timing variables + manual summary
+- `data/src/view_registry/coordinator.cr` — `Profiler.measure("registry", entry.name)` replaces manual timing
+- `data/src/data_manager.cr` — `@[Profile(category: "yaml")]` on 8 load methods
+- `data/src/post_renderer.cr` — `@[Profile(category: "posts")]` on 2 render methods
+- `data/src/validator.cr` — `@[Profile(category: "validation")]` on 3 private methods
+
+**Dev build output:**
+```
+─── Profiler Summary ───
+  render:     3406.5ms  60.6%  (4 items)
+  registry:   1465.0ms  26.1%  (46 items)
+  validation:  550.2ms   9.8%  (4 items)
+  posts:       190.8ms   3.4%  (2 items)
+  init:          4.8ms   0.1%  (3 items)
+  Total:      5617.3ms
+─── Top 10 Slowest ───
+  1703.7ms - render: Post + registry rendering
+  1465.3ms - render: Registry rendering
+   702.4ms - registry: Photo maps: all
+   292.9ms - registry: Areas: show pages
+   278.1ms - validation: validator.run
+   271.7ms - validation: validate_html_output
+   190.8ms - render: Post rendering
+   190.8ms - posts: render_with_galleries
+   132.9ms - registry: Setup: copy assets
+   122.1ms - registry: Photo galleries: all
+```
+
+**Macro note:** Crystal nested macros (`macro finished` inside `macro included`) cannot use `\{% if %}` / `\{% end %}` for visibility — the `\{% end %}` gets consumed by the outer macro parser. Solved with ternary: `method.visibility.stringify == ":private" ? "private ".id : "".id`.
+
+---
+
 ## Phase 21: Map Service Restructure (Complete)
 
 Full restructure of `data/src/services/map/` — separated computation from rendering, added multi-format output, consolidated views, wrote comprehensive tests.
@@ -232,7 +280,7 @@ The new more page only has 5 links. The old `more.md` had 14 links. Evaluate add
 
 ## Test Status
 
-**397 Crystal tests passing, 141 E2E tests passing**
+**409 Crystal tests passing, 141 E2E tests passing**
 
 ### E2E Tests (Playwright)
 

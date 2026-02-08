@@ -21,7 +21,7 @@ class AssetBundleLoader
       @name : String,
       @css : Array(String) = [] of String,
       @js : Array(String) = [] of String,
-      @integrity : Hash(String, String) = {} of String => String
+      @integrity : Hash(String, String) = {} of String => String,
     )
     end
   end
@@ -34,7 +34,7 @@ class AssetBundleLoader
     def initialize(
       @css : Array(String),
       @js : Array(String),
-      @integrity : Hash(String, String)
+      @integrity : Hash(String, String),
     )
     end
   end
@@ -47,7 +47,7 @@ class AssetBundleLoader
     def initialize(
       @name : String,
       @css : Array(String) = [] of String,
-      @js : Array(String) = [] of String
+      @js : Array(String) = [] of String,
     )
     end
   end

@@ -11,6 +11,8 @@ require "./data_manager/exif_db"
 require "./data_manager/photo_map_dictionary"
 
 class Tremolite::DataManager
+  include Profiled
+
   def custom_initialize
     @towns = Array(TownEntity).new
     @town_slugs = Array(String).new
@@ -49,7 +51,7 @@ class Tremolite::DataManager
       config_path: @config_path,
       cache_path: @blog.cache_path
     )
-    @area_data_loader.not_nil!.load_areas
+    Profiler.measure("yaml", "areas") { @area_data_loader.not_nil!.load_areas }
   end
 
   getter :tags
@@ -72,6 +74,7 @@ class Tremolite::DataManager
 
   # end of getters
 
+  @[Profile(category: "yaml")]
   def custom_load
     load_lands # lands are needed before towns
     load_towns
@@ -82,6 +85,7 @@ class Tremolite::DataManager
     load_photo_tags
   end
 
+  @[Profile(category: "yaml")]
   def load_train_stations
     Log.debug { "loading train stations" }
 
@@ -92,6 +96,7 @@ class Tremolite::DataManager
     end
   end
 
+  @[Profile(category: "yaml")]
   def load_ideas
     Log.debug { "loading ideas" }
 
@@ -105,6 +110,7 @@ class Tremolite::DataManager
     end
   end
 
+  @[Profile(category: "yaml")]
   def load_portfolio
     Log.debug { "loading portfolio" }
 
@@ -115,6 +121,7 @@ class Tremolite::DataManager
     end
   end
 
+  @[Profile(category: "yaml")]
   def load_towns # TODO: is it needed or deprecated?
     Log.debug { "loading towns" }
 
@@ -160,6 +167,7 @@ class Tremolite::DataManager
     end
   end
 
+  @[Profile(category: "yaml")]
   def load_tags
     Log.debug { "loading tags" }
 
@@ -170,6 +178,7 @@ class Tremolite::DataManager
     end
   end
 
+  @[Profile(category: "yaml")]
   def load_lands
     Log.debug { "loading lands" }
 
@@ -180,6 +189,7 @@ class Tremolite::DataManager
     end
   end
 
+  @[Profile(category: "yaml")]
   def load_photo_tags
     Log.debug { "loading photo tags" }
 

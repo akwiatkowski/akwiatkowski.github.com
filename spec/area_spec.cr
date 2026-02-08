@@ -193,8 +193,8 @@ describe AreaEntity do
       )
 
       center = entity.center.not_nil!
-      center[0].should eq 52.5  # lat
-      center[1].should eq 17.5  # lon
+      center[0].should eq 52.5 # lat
+      center[1].should eq 17.5 # lon
     end
   end
 

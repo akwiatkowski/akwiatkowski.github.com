@@ -16,7 +16,7 @@ struct AreaAssociation
     @area_type : AreaType,
     @distance_meters : Float64,
     @distance_percent : Float64,
-    @code : String? = nil
+    @code : String? = nil,
   )
   end
 

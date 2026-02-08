@@ -28,7 +28,7 @@ module PostListView
       when AreaType::Voivodeship then "voivodeship"
       when AreaType::MesoRegion  then "meso_region"
       when AreaType::MacroRegion then "macro_region"
-      else "town"
+      else                            "town"
       end
     end
 

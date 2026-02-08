@@ -150,7 +150,6 @@ describe Router do
     it "#sitemap_url returns /sitemap.xml" do
       router.sitemap_url.should eq "/sitemap.xml"
     end
-
   end
 
   describe "Index URLs" do

@@ -18,7 +18,7 @@ class Map::LinkGenerator
                 when AreaType::Voivodeship then "wojewodztwo"
                 when AreaType::MesoRegion  then "region"
                 when AreaType::MacroRegion then "obszar"
-                else "obszar"
+                else                            "obszar"
                 end
     return "#{url_photomap_main}/#{type_path}/#{area.slug}_duzy.svg"
   end
@@ -30,7 +30,7 @@ class Map::LinkGenerator
                 when AreaType::Voivodeship then "wojewodztwo"
                 when AreaType::MesoRegion  then "region"
                 when AreaType::MacroRegion then "obszar"
-                else "obszar"
+                else                            "obszar"
                 end
     return "#{url_photomap_main}/#{type_path}/#{area.slug}_maly.svg"
   end

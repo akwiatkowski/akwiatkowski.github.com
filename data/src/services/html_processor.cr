@@ -21,7 +21,7 @@ class HtmlProcessor
     def initialize(
       @html : String,
       @errors : Array(HtmlValidators::ValidationError),
-      @warnings : Array(HtmlValidators::ValidationWarning)
+      @warnings : Array(HtmlValidators::ValidationWarning),
     )
     end
 

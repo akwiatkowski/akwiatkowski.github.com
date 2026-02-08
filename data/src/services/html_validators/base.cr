@@ -40,7 +40,7 @@ module HtmlValidators
 
     def initialize(
       @errors : Array(ValidationError) = [] of ValidationError,
-      @warnings : Array(ValidationWarning) = [] of ValidationWarning
+      @warnings : Array(ValidationWarning) = [] of ValidationWarning,
     )
     end
 
