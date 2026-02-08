@@ -50,20 +50,6 @@ test.describe('Map pages', () => {
       expect(data).not.toHaveProperty('tags');
     });
 
-    test('is smaller than payload.json', async ({ request }) => {
-      const mapResponse = await request.get('/jsons/map.json');
-      const payloadResponse = await request.get('/payload.json');
-
-      const mapText = await mapResponse.text();
-      const payloadText = await payloadResponse.text();
-
-      console.log(`map.json size: ${(mapText.length / 1024).toFixed(1)} KB`);
-      console.log(`payload.json size: ${(payloadText.length / 1024).toFixed(1)} KB`);
-
-      // map.json should be significantly smaller
-      expect(mapText.length).toBeLessThan(payloadText.length);
-    });
-
   });
 
   test.describe('/mapa_tras.html - Main map', () => {
@@ -121,9 +107,9 @@ test.describe('Map pages', () => {
       const paths = page.locator('.leaflet-overlay-pane path');
       const count = await paths.count();
 
-      // Should have at least some routes if payload has posts with coords
-      const postsWithCoords = payload.posts?.filter(p => p.coords?.length > 0) || [];
-      if (postsWithCoords.length > 0) {
+      // Should have at least some routes if payload has posts with routes
+      const postsWithRoutes = payload.posts?.filter(p => p.has_route) || [];
+      if (postsWithRoutes.length > 0) {
         expect(count, 'Map should have route polylines').toBeGreaterThan(0);
       }
     });

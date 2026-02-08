@@ -43,9 +43,9 @@ describe SpecialView do
     end
   end
 
-  describe SpecialView::PayloadJsonGenerator do
+  describe SpecialView::E2eJsonGenerator do
     it "exists" do
-      SpecialView::PayloadJsonGenerator.should_not be_nil
+      SpecialView::E2eJsonGenerator.should_not be_nil
     end
   end
 end

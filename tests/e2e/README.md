@@ -60,7 +60,7 @@ tests/e2e/
 ├── fixtures/
 │   └── base.js             # Custom test fixtures (error tracking, payload)
 ├── helpers/
-│   └── payload.js          # Helper to work with payload.json data
+│   └── payload.js          # Helper to fetch e2e.json test data
 └── specs/
     ├── smoke.spec.js       # Quick existence checks (all URLs return 200)
     ├── posts.spec.js       # Post article pages

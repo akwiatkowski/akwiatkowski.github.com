@@ -251,7 +251,7 @@ describe "setup_view_registry" do
 
       view_names.should contain("Feed: RSS")
       view_names.should contain("Feed: Atom")
-      view_names.should contain("Feed: payload JSON")
+      view_names.should contain("Feed: e2e JSON")
       view_names.should contain("Feed: ideas JSON")
       view_names.should contain("Feed: photos JSON")
       view_names.should contain("Feed: photo grid JSON")
@@ -434,11 +434,11 @@ describe "setup_view_registry" do
 
       rss = r.views.find { |v| v.name == "Feed: RSS" }.not_nil!
       atom = r.views.find { |v| v.name == "Feed: Atom" }.not_nil!
-      payload = r.views.find { |v| v.name == "Feed: payload JSON" }.not_nil!
+      e2e = r.views.find { |v| v.name == "Feed: e2e JSON" }.not_nil!
 
       rss.depends_on.should eq([:posts, :yamls])
       atom.depends_on.should eq([:posts, :yamls])
-      payload.depends_on.should eq([:posts, :yamls])
+      e2e.depends_on.should eq([:posts, :yamls])
     end
 
     it "sitemap depends on posts only" do

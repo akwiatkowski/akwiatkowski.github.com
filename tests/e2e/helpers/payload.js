@@ -1,5 +1,5 @@
 /**
- * Helper to fetch and work with payload.json data
+ * Helper to fetch and work with e2e.json test data
  */
 
 let cachedPayload = null;
@@ -7,9 +7,9 @@ let cachedPayload = null;
 async function fetchPayload(baseURL) {
   if (cachedPayload) return cachedPayload;
 
-  const response = await fetch(`${baseURL}/payload.json`);
+  const response = await fetch(`${baseURL}/jsons/e2e.json`);
   if (!response.ok) {
-    throw new Error(`Failed to fetch payload.json: ${response.status}`);
+    throw new Error(`Failed to fetch e2e.json: ${response.status}`);
   }
 
   cachedPayload = await response.json();
@@ -37,7 +37,7 @@ function getPostsWithGallery(payload) {
 }
 
 function getPostsWithRoutes(payload) {
-  return getReadyPosts(payload).filter(post => post.coords && post.coords.length > 0);
+  return getReadyPosts(payload).filter(post => post.has_route);
 }
 
 module.exports = {

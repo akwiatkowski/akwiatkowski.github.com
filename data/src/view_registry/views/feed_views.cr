@@ -7,7 +7,7 @@
 # Current views:
 # 1. RSS feed - /feed.xml (priority: 50)
 # 2. Atom feed - /feed_atom.xml (priority: 51)
-# 3. Payload JSON - /payload.json (priority: 52)
+# 3. E2E JSON - /jsons/e2e.json (priority: 52)
 # 4. Homepage JSON - /jsons/homepage.json (priority: 52)
 # 5. Map JSON - /jsons/map.json (priority: 52)
 # 6. Ideas JSON - /jsons/ideas.json (priority: 53)
@@ -23,7 +23,7 @@
 # Priority: 50-59 (after stats, before index)
 #
 # View classes used: SpecialView::RssGenerator, AtomGenerator,
-# PayloadJsonGenerator, HomePageJsonGenerator, IdeasJsonGenerator,
+# E2eJsonGenerator, HomePageJsonGenerator, IdeasJsonGenerator,
 # PhotosJsonGenerator, TrainStationsJsonGenerator, NavStatsJsonGenerator,
 # Tremolite::Views::SiteMapGenerator, RobotGenerator
 # (loaded via renderer.cr)
@@ -86,10 +86,10 @@ def register_feed_views(r : ViewRegistry)
   #
   # These JSON files are consumed by JS frontend pages.
 
-  # Payload JSON - main data payload for JS apps (map, etc.)
-  r.register("Feed: payload JSON", [:posts, :yamls], priority: 52) do |ctx|
-    ViewRegistry::Log.debug { "Rendering payload JSON" }
-    ctx.write_output(SpecialView::PayloadJsonGenerator.new(context: ctx))
+  # E2E JSON - minimal data for E2E tests (not a public endpoint)
+  r.register("Feed: e2e JSON", [:posts, :yamls], priority: 52) do |ctx|
+    ViewRegistry::Log.debug { "Rendering e2e JSON" }
+    ctx.write_output(SpecialView::E2eJsonGenerator.new(context: ctx))
   end
 
   # Homepage JSON - minimal payload for homepage post collection view

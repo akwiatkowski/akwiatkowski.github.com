@@ -4,7 +4,7 @@ require "./temporary_redirect_view"
 
 require "./atom_generator"
 require "./ideas_json_generator"
-require "./payload_json_generator"
+require "./e2e_json_generator"
 require "./home_page_json_generator"
 require "./map_json_generator"
 require "./photos_json_generator"

@@ -1,16 +1,16 @@
 /**
- * Post pages tests - data-driven from payload.json
+ * Post pages tests - data-driven from e2e.json
  */
 const { test, expect, expectNoJsErrors, expectPageLoads } = require('../fixtures/base');
 const { getReadyPosts } = require('../helpers/payload');
 
 test.describe('Post pages', () => {
 
-  test('all posts from payload.json are accessible', async ({ pageWithErrorTracking, payload, baseURL }) => {
+  test('all posts from e2e.json are accessible', async ({ pageWithErrorTracking, payload, baseURL }) => {
     const page = pageWithErrorTracking;
     const posts = getReadyPosts(payload);
 
-    expect(posts.length, 'Should have posts in payload').toBeGreaterThan(0);
+    expect(posts.length, 'Should have posts in e2e data').toBeGreaterThan(0);
 
     // Test a sample of posts (first 10 + random selection for speed)
     const sampleSize = Math.min(20, posts.length);
