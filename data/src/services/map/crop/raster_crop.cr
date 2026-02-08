@@ -218,11 +218,11 @@ class Map::Crop::RasterCrop
         crop_x_max: crop_x_max(map_width),
         crop_y_max: crop_y_max(map_height),
       },
-      cropped_dimenstion: {
+      cropped_dimension: {
         cropped_width:  cropped_width(map_width),
         cropped_height: cropped_height(map_height),
       },
-      uncropped_dimenstion: {
+      uncropped_dimension: {
         uncropped_width:  uncropped_width,
         uncropped_height: uncropped_height,
       },

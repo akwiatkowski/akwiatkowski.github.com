@@ -5,7 +5,7 @@
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-19, 21-22, Photo Planner)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-22, Photo Planner)
 
 ---
 
@@ -13,36 +13,19 @@
 
 **Goal:** Reduce JSON payload sizes by creating page-specific endpoints.
 
-### Current JSON Files (Production Sizes)
+### Current JSON Files
 
 | File | Size | Generator | Used By |
 |------|------|-----------|---------|
-| `/payload.json` | **5.0 MB** | `PayloadJsonGenerator` | map.js, summary.js |
-| `/photos.json` | **20 MB** (25,623 photos) | `PhotosJsonGenerator` | timeline.js, panoramio.html |
-| `/jsons/photo_grid.json` | 14 KB | `PhotoGridJsonGenerator` | planner.js |
-| `/ideas.json` | 510 KB | `IdeasJsonGenerator` | ideas.js |
+| `/jsons/e2e.json` | ~5 KB | `PayloadJsonGenerator` | E2E smoke tests only (replaced payload.json) |
+| `/jsons/map.json` | 16 KB | `MapJsonGenerator` | map_leaflet.js |
 | `/jsons/homepage.json` | 11 KB | `HomePageJsonGenerator` | homepage.js, post_collection.js |
-| `/train_stations.json` | 6 KB | `TrainStationsJsonGenerator` | ideas.js |
-| `/nav_stats.json` | 6.5 KB | `NavStatsJsonGenerator` | nav_stats.js |
+| `/jsons/ideas.json` | 510 KB | `IdeasJsonGenerator` | ideas.js |
+| `/jsons/train_stations.json` | 6 KB | `TrainStationsJsonGenerator` | planner.js |
+| `/jsons/photo_grid.json` | 14 KB | `PhotoGridJsonGenerator` | planner.js |
+| `/photos.json` | **20 MB** (25,623 photos) | `PhotosJsonGenerator` | timeline.js, panoramio.html |
 
-**Total unoptimized:** ~25.5 MB
-
----
-
-### Detailed Analysis: payload.json (836 KB)
-
-**Why it's huge:** GPS coordinates - each post has `coords[].route` with hundreds of `[lat, lon]` pairs.
-
-**Pages using it:**
-
-| Page | URL | Fields Used |
-|------|-----|-------------|
-| **Map** | `/mapa_tras.html` | coords, date, distance, time_spent, url, title, card_image_url |
-| **Area Show** | `/gmina/*.html` | *(inline JSON, not payload.json)* |
-
-**Optimization:**
-- Create `/jsons/map.json` - posts with coords only, minimal metadata
-- Summary page (`/zestawienie.html`) removed — no longer needs payload.json
+**Note:** `/nav_stats.json` disabled/deregistered. Only `/photos.json` remains at root (needs moving to `/jsons/`).
 
 ---
 
@@ -100,10 +83,15 @@
 
 ### Implementation Plan
 
-#### Phase 20a: Quick Wins
+#### Phase 20a: Quick Wins & JSON Moves
 - [x] Remove `card_url` from `PhotosJsonGenerator` (also updated panoramio.html to use article_url)
-- [ ] Move all JSONs to `/jsons/` directory
-- [ ] Update JS files to use new paths
+- [x] Disable/deregister `nav_stats.json` (unused)
+- [x] Move `train_stations.json` → `/jsons/train_stations.json`
+- [x] Move `ideas.json` → `/jsons/ideas.json`
+- [x] Replace `payload.json` with `/jsons/e2e.json` (minimal E2E test data only)
+- [x] Move `map.json` → `/jsons/map.json`
+- [x] Move `homepage.json` → `/jsons/homepage.json`
+- [ ] Move `photos.json` → `/jsons/photos.json` (still at root, 20MB)
 
 #### Phase 20b: Map JSON
 - [x] Create `/jsons/map.json` generator (`MapJsonGenerator`)
@@ -123,9 +111,9 @@ Summary page (`/zestawienie.html`) deleted. No longer needed.
 - [x] Exclude: full_url, card_url, detailed EXIF (aperture, exposure, iso, focal)
 - [x] Update `panoramio.html` to use new endpoint
 
-#### Phase 20e: Deprecate Old Endpoints
-- [ ] Add deprecation warnings to old endpoints
-- [ ] Remove after confirming all pages work
+#### Phase 20e: Final Cleanup
+- [ ] Move `/photos.json` → `/jsons/photos.json` (last remaining root JSON)
+- [ ] Update timeline.js and panoramio to use new path
 
 ---
 
@@ -135,8 +123,68 @@ Summary page (`/zestawienie.html`) deleted. No longer needed.
 |---------|-----------|---------|
 | photos.json 20MB | Remove card_url | **~2.66 MB** |
 | photos.json 20MB | Create photos_map.json (coords only, no full EXIF) | **~7 MB** |
-| payload.json 5MB | map.json + summary.json | **~3 MB** |
+| payload.json 5MB | Replaced with e2e.json (~5KB) + map.json (16KB) | **~5 MB** |
+| nav_stats.json 6.5KB | Disabled/deregistered | **6.5 KB** |
 | **Total** | | **~10+ MB** |
+
+---
+
+## Phase 21: Map Service Restructure (Complete)
+
+Full restructure of `data/src/services/map/` — separated computation from rendering, added multi-format output, consolidated views, wrote comprehensive tests.
+
+**Parts completed:**
+1. Bug fixes: typos (DEFAULTH, time→tile, dimenstion), dead code removal (sleep, fix_crossing_photos, unused vars)
+2. MapConfig & MapContext structs with factory methods for all 11 use cases
+3. MapPipeline + MapResult (computation/rendering separation), PhotoSelection module
+4. SvgRenderer, PngRenderer (rsvg-convert), LeafletJsonRenderer
+5. View consolidation: 9 → 4+2 (GlobalMapSvgView, AreaMapSvgView, + kept PostBig/PostRoute/Idea)
+6. Tests: 116 new tests (387 total, up from 271)
+
+**Post-completion fixes:**
+- `MapContext` default: `RouteColors.new` → `RouteColors.new("data/config")` — RouteColors requires a config_path, not zero-arg
+- `MapPipeline.route_object_to_polyline`: `color_rgb` from `route_colors.color_rgb_for()` is nilable (`String?`), added `|| "0,0,0"` fallback
+
+**Architecture (new pipeline):**
+```
+MapConfig + MapContext → MapPipeline.compute → MapResult → SvgRenderer / LeafletJsonRenderer / PngRenderer
+```
+
+Old path (`Map::Base` → `Map::Main` → `.to_svg`) still works alongside — consolidated views use old path for now.
+
+### Performance Observations
+
+Map rendering generates ~130+ SVG files per build:
+- ~100 posts × 2 (big + small) = ~200 post maps
+- 16 voivodeships × 2 = 32 voivodeship maps
+- 7 global maps
+- 10 tag maps
+- ~10 idea maps
+- **Total: ~260 Map::Base/Main instances**
+
+**Bottleneck (fixed): GridLayer photo selection** — was O(cells × photos) per map.
+
+Implemented `SpatialIndex` (`data/src/services/map/spatial_index.cr`): pre-buckets photos
+into a hash grid keyed by `{floor(lat/0.05), floor(lon/0.05)}`. Each query checks only
+overlapping buckets (1–4 typical) instead of scanning all photos.
+
+Integrated into both `GridLayer` (old path) and `MapPipeline` (new path).
+
+**Benchmark results** (25K photos, simulated Poland coordinates):
+
+| Scenario | Cells | Linear | Spatial | Speedup |
+|----------|-------|--------|---------|---------|
+| Coarse (zoom 8, photo_size=160) | 384 | 115 ms | 5.4 ms | **21x** |
+| Fine (zoom 10, photo_size=50) | 62,935 | 12.3 sec | 29 ms | **421x** |
+
+The fine-grid scenario represents the "detailed" global map — the worst case that was
+taking ~12 seconds per map now takes ~29 ms. With ~15 grid-type maps generated per build,
+this saves roughly 3 minutes of total build time.
+
+**Remaining potential optimizations (not yet implemented):**
+1. **Shared TilesLayer**: Global maps at same zoom share identical tile grids. Could compute once, reuse across views.
+2. **Pre-filter photos once**: `filter_photos_with_coords` runs for every map instance. Could cache the filtered array on RenderContext.
+3. **Lazy SVG rendering**: Views currently compute maps in constructor. Could defer to `output` call for better memory use.
 
 ---
 
@@ -184,12 +232,12 @@ The new more page only has 5 links. The old `more.md` had 14 links. Evaluate add
 
 ## Test Status
 
-**274 Crystal tests passing, 118 E2E tests passing**
+**397 Crystal tests passing, 141 E2E tests passing**
 
 ### E2E Tests (Playwright)
 
 Infrastructure in `tests/e2e/`:
-- `specs/smoke.spec.js` - All URLs from payload.json return 200
+- `specs/smoke.spec.js` - All URLs from e2e.json return 200
 - `specs/posts.spec.js` - Post article pages
 - `specs/map.spec.js` - Map pages (mapa_tras.html, mapa_zdjec.html)
 - `specs/gallery.spec.js` - Gallery pages
@@ -200,8 +248,9 @@ Infrastructure in `tests/e2e/`:
 - `specs/navigation.spec.js` - Navigation styling across pages
 - `specs/more-page.spec.js` - More page links
 - `specs/towns-index.spec.js` - Towns index search, voivodeships, cards
+- `specs/area-filtering.spec.js` - Area show page filtering
 
-**Latest Results: 118 passed, 1 failed (pre-existing), 5 skipped**
+**Latest Results: 141 passed, 0 failed, 5 skipped**
 
 **Run E2E tests:**
 ```bash
@@ -212,4 +261,4 @@ make test-e2e-headed   # Run with visible browser
 
 ---
 
-*Last updated: 2026-02-07*
+*Last updated: 2026-02-08*

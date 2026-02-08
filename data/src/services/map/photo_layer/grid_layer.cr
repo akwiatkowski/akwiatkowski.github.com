@@ -10,7 +10,7 @@ class Map::PhotoLayer::GridLayer
     @photos : Array(PhotoEntity),
     @raster_crop : Map::Crop::RasterCrop,
     @tiles_layer : TilesLayer,
-    @photo_size = DEFAULTH_PHOTO_SIZE.as(Int32),
+    @photo_size = DEFAULT_PHOTO_SIZE.as(Int32),
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)
@@ -19,6 +19,9 @@ class Map::PhotoLayer::GridLayer
 
     @map_height = @tiles_layer.map_height.as(Int32)
     @map_width = @tiles_layer.map_width.as(Int32)
+
+    # Build spatial index once — O(n) — instead of scanning all photos per cell
+    @spatial_index = SpatialIndex.new(@photos)
 
     @photo_map_sets = Array(PhotoMapSet).new
 
@@ -64,7 +67,8 @@ class Map::PhotoLayer::GridLayer
     lat1, lon1 = @tiles_layer.geo_coords_from_map_pixel_position(x, y)
     lat2, lon2 = @tiles_layer.geo_coords_from_map_pixel_position(x + @photo_size, y + @photo_size)
 
-    selected_photos = select_photos_for_area(
+    # Use spatial index instead of linear scan
+    selected_photos = @spatial_index.query(
       lat_min: lat2, # Y/lat axis is reversed
       lat_max: lat1,
       lon_min: lon1,
@@ -76,8 +80,6 @@ class Map::PhotoLayer::GridLayer
       Log.debug { "#{selected_photos.size} selected_photos x: #{x} y: #{y}" }
 
       # having array of photos take the best one
-      # TODO: we need some logic to select which photos are better
-      # even if they are not post published
       selected_photo = select_suitable_photo(selected_photos)
 
       if selected_photo
@@ -87,27 +89,6 @@ class Map::PhotoLayer::GridLayer
           photo: selected_photo.not_nil!
         )
       end
-    end
-  end
-
-  # using min and max because it's compared math.
-  # we ignore direction of growth
-  def select_photos_for_area(
-    lat_min : Float64,
-    lat_max : Float64,
-    lon_min : Float64,
-    lon_max : Float64,
-  )
-    @photos.select do |photo|
-      next false if photo.exif.not_nil!.lat.nil? || photo.exif.not_nil!.lon.nil?
-
-      photo_lat = photo.exif.not_nil!.lat.not_nil!
-      photo_lon = photo.exif.not_nil!.lon.not_nil!
-
-      photo_lat >= lat_min &&
-        photo_lat < lat_max &&
-        photo_lon >= lon_min &&
-        photo_lon < lon_max
     end
   end
 
@@ -145,6 +126,7 @@ class Map::PhotoLayer::GridLayer
       s << "<a href='#{post_url}' target='_blank'>\n"
       s << "<image href='#{url}' preserveAspectRatio='xMidYMid slice' width='#{@photo_size}' height='#{@photo_size}' />\n"
       s << "</a>\n"
+      s << "<rect width='#{@photo_size}' height='#{@photo_size}' class='photo-border' />\n"
       s << "</svg>\n"
     end
   end

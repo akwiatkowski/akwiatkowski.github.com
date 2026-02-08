@@ -47,52 +47,35 @@ class Map::RoutesLayer
   def convert_route_object_to_array_of_svg_lines(route_object)
     return String.build do |s|
       if @route_colors.has_type?(route_object.type)
-        # color is determined by type (from data/config/route_colors.yml)
         color_svg_for_route_object = @route_colors.color_rgb_for(route_object.type)
         geo_coords = route_object.route.as(SingleRouteObject)
 
-        # render only if there 2 or more
         if geo_coords.size >= 2
-          s << "<polyline class='photo-map-route' fill='none' "
-
-          # animated svg should have not visible poly lines
-          if animated?
-            s << "opacity=\"0\" "
-          end
-
-          # styles
-          if animated?
-            # TODO: temporary same style
-            s << "style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' "
-          else
-            # regular, not so wide line
-            s << "style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' "
-          end
-
-          s << " points='"
-
-          # polyline is more optimized solution
+          # Collect pixel points and register them for cropping
+          points = Array(Tuple(Int32, Int32)).new
           geo_coords.each do |geo_coord|
             lat, lon = geo_coord
             x, y = @tiles_layer.in_map_position_from_geo_coords(
               lat_deg: lat,
               lon_deg: lon
             ).as(Tuple(Int32, Int32))
-
             @raster_crop.route(x.to_i, y.to_i)
-
-            s << "#{x.to_i},#{y.to_i} "
+            points << {x.to_i, y.to_i}
           end
 
+          path_d = Map::SmoothPath.to_path(points)
+
           if animated?
-            # finish polyline tag start
-            s << "'>\n"
+            # Animated: single path with opacity animation (no glow)
+            s << "<path class='photo-map-route' fill='none' "
+            s << "opacity=\"0\" "
+            s << "stroke='rgb(#{color_svg_for_route_object})' stroke-width='2' "
+            s << "d='#{path_d}'>\n"
 
             @route_number = 0 if @route_number.nil?
             route_id = "route_#{@route_number}"
             previous_route_id = "route_#{@route_number.not_nil! - 1}"
 
-            # add animation tag
             s << "<animate id=\"#{route_id}\" attributeType=\"CSS\" attributeName=\"opacity\" from=\"0\" to=\"1\" dur=\"0.1s\" fill=\"freeze\" "
             if @route_number.not_nil! > 1
               s << "begin=\"#{previous_route_id}.end\" "
@@ -100,12 +83,11 @@ class Map::RoutesLayer
             s << "/>\n"
 
             @route_number = @route_number.not_nil! + 1
-
-            # finish poly line after animation tag
-            s << "</polyline>\n"
+            s << "</path>\n"
           else
-            # finish poly line here
-            s << "'  />\n"
+            # Static: glow path behind, then sharp path
+            s << "<path fill='none' stroke='rgb(#{color_svg_for_route_object})' stroke-width='6' opacity='0.25' filter='url(#route-glow)' d='#{path_d}' />\n"
+            s << "<path class='photo-map-route' fill='none' stroke='rgb(#{color_svg_for_route_object})' stroke-width='2' d='#{path_d}' />\n"
           end
         end
       end

@@ -11,16 +11,6 @@ class Map::LinkGenerator
     return "#{url_photomap_main}/wpis/#{post.slug}_maly.svg"
   end
 
-  # PHASE6_DEPRECATED: Use url_photomap_for_area_big instead
-  # def self.url_photomap_for_voivodeship_big(voivodeship : VoivodeshipEntity)
-  #   return "#{url_photomap_main}/wojewodztwo/#{voivodeship.slug}_duzy.svg"
-  # end
-
-  # PHASE6_DEPRECATED: Use url_photomap_for_area_small instead
-  # def self.url_photomap_for_voivodeship_small(voivodeship : VoivodeshipEntity)
-  #   return "#{url_photomap_main}/wojewodztwo/#{voivodeship.slug}_maly.svg"
-  # end
-
   def self.url_photomap_for_area_big(area : AreaEntity)
     type_path = case area.area_type
                 when AreaType::Town        then "gmina"

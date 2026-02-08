@@ -133,20 +133,20 @@ class Map::TilesLayer
     result = Hash(Int32, NamedTuple(x: Int32, y: Int32, diagonal: Int32)).new
 
     VALID_ZOOMS.each do |zoom|
-      tile_from_x, time_from_y = tile_coords_from_geo_coords(
+      tile_from_x, tile_from_y = tile_coords_from_geo_coords(
         lat_deg: coord_range.lat_from,
         lon_deg: coord_range.lon_from,
         zoom: zoom
       )
 
-      tile_to_x, time_to_y = tile_coords_from_geo_coords(
+      tile_to_x, tile_to_y = tile_coords_from_geo_coords(
         lat_deg: coord_range.lat_to,
         lon_deg: coord_range.lon_to,
         zoom: zoom
       )
 
       distance_x = (tile_from_x - tile_to_x).abs * TILE_WIDTH.to_f
-      distance_y = (time_from_y - time_to_y).abs * TILE_WIDTH.to_f
+      distance_y = (tile_from_y - tile_to_y).abs * TILE_WIDTH.to_f
       distance_diagonal = Math.sqrt(
         (distance_x.to_f ** 2.0) +
         (distance_y.to_f ** 2.0)
@@ -204,13 +204,13 @@ class Map::TilesLayer
   # TODO: old
   def self.diagonal_for_zoom(coord_range : CoordRange)
     VALID_ZOOMS.map do |zoom|
-      tile_from_x, time_from_y = tile_coords_from_geo_coords(
+      tile_from_x, tile_from_y = tile_coords_from_geo_coords(
         lat_deg: coord_range.lat_from,
         lon_deg: coord_range.lon_from,
         zoom: zoom
       )
 
-      tile_to_x, time_to_y = tile_coords_from_geo_coords(
+      tile_to_x, tile_to_y = tile_coords_from_geo_coords(
         lat_deg: coord_range.lat_to,
         lon_deg: coord_range.lon_to,
         zoom: zoom
@@ -218,7 +218,7 @@ class Map::TilesLayer
 
       diagonal = Math.sqrt(
         (tile_from_x - tile_to_x) ** 2 +
-        (time_from_y - time_to_y) ** 2
+        (tile_from_y - tile_to_y) ** 2
       ) * TILE_WIDTH.to_f
 
       [zoom, diagonal.to_i]

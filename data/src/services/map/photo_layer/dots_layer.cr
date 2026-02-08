@@ -20,23 +20,10 @@ class Map::PhotoLayer::DotsLayer
     return String.build do |s|
       s << "<g id='photo-map-photos' >\n"
 
-      i = 0_u64
-      circle_size = @dot_radius
+      @photos.each do |photo_entity|
+        next if photo_entity.exif.not_nil!.lat.nil? || photo_entity.exif.not_nil!.lon.nil?
 
-      # not used at this moment
-      thumb_size = 10
-      half_size = thumb_size / 2
-
-      @photos.each_with_index do |photo_entity, i|
-        next false if photo_entity.exif.not_nil!.lat.nil? || photo_entity.exif.not_nil!.lon.nil?
-
-        s << photo_entity_to_svg_image(
-          photo_entity: photo_entity,
-          i: i,
-          half_size: half_size,
-          thumb_size: thumb_size,
-          circle_size: circle_size
-        )
+        s << photo_entity_to_svg_image(photo_entity: photo_entity)
       end
 
       s << "</g>\n"
@@ -111,14 +98,7 @@ class Map::PhotoLayer::DotsLayer
     return "rgb(#{red.to_i},#{green.to_i},#{blue.to_i})"
   end
 
-  def photo_entity_to_svg_image(
-    photo_entity,
-    i,
-    half_size,
-    thumb_size,
-    circle_size,
-  )
-    thumb_url = photo_entity.grid_image_src
+  def photo_entity_to_svg_image(photo_entity)
     photo_url = photo_entity.full_image_src
 
     x, y = @tiles_layer.in_map_position_from_geo_coords(
@@ -133,30 +113,11 @@ class Map::PhotoLayer::DotsLayer
       s << svg_dot(
         x: x,
         y: y,
-        circle_size: circle_size,
+        circle_size: @dot_radius,
         color: photo_entity_to_color(photo_entity)
       )
       s << "</a>\n"
     end
-
-    # XXX: that not work as intended
-    # return String.build do |s|
-    #   id_name = "image_#{i}"
-    #
-    #   s << "<svg x='#{x.to_i - half_size}' y='#{y.to_i - half_size}' width='#{thumb_size}' height='#{thumb_size}' class='photo-map-cirle-photo'>\n"
-    #
-    #   s << "<defs>\n"
-    #   s << "  <pattern id=\"#{id_name}\" patternUnits=\"userSpaceOnUse\" height=\"#{thumb_size}\" width=\"#{thumb_size}\">\n"
-    #   s << "    <image x=\"0\" y=\"0\" height=\"#{thumb_size}\" width=\"#{thumb_size}\" xlink:href=\"#{thumb_url}\"></image>\n"
-    #   s << "  </pattern>\n"
-    #   s << "</defs>\n"
-    #
-    #   s << "<a href='#{photo_url}' target='_blank'>\n"
-    #   s << "<circle id='#{id_name}' cx=\"#{half_size}\" cy=\"#{half_size}\" r=\"#{circle_size}\" fill=\"url(##{id_name})\"/>\n"
-    #   s << "</a>\n"
-    #
-    #   s << "</svg>\n"
-    # end
   end
 
   def svg_dot(
@@ -180,7 +141,7 @@ class Map::PhotoLayer::DotsLayer
     circle_size,
     color,
   )
-    return "  <circle cx=\"#{x}\" cy=\"#{y}\" r=\"#{circle_size}\" fill='#{color}' style='stroke:rgb(0,0,0);stroke-width:1' />\n"
+    return "  <circle cx=\"#{x}\" cy=\"#{y}\" r=\"#{circle_size}\" fill='#{color}' class='photo-dot' />\n"
   end
 
   def svg_rounded_square(
@@ -190,6 +151,6 @@ class Map::PhotoLayer::DotsLayer
     color,
     corner_round = 3,
   )
-    return "  <rect x=\"#{x - (circle_size / 2)}\" y=\"#{y - (circle_size / 2)}\" width=\"#{circle_size}\" height=\"#{circle_size}\" rx=\"#{corner_round}\" fill='#{color}' style='stroke:rgb(0,0,0);stroke-width:1' />\n"
+    return "  <rect x=\"#{x - (circle_size / 2)}\" y=\"#{y - (circle_size / 2)}\" width=\"#{circle_size}\" height=\"#{circle_size}\" rx=\"#{corner_round}\" fill='#{color}' class='photo-dot' />\n"
   end
 end

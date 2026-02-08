@@ -11,6 +11,17 @@ require "./tiles_layer"
 require "./routes_layer"
 
 require "./link_generator"
+require "./map_config"
+require "./map_context"
+require "./map_result"
+require "./photo_selection"
+require "./spatial_index"
+require "./map_pipeline"
+require "./smooth_path"
+
+require "./renderer/svg_renderer"
+require "./renderer/png_renderer"
+require "./renderer/leaflet_renderer"
 
 require "./photo_layer/all"
 
@@ -55,9 +66,7 @@ class Map::Main
     # used for voivodeship where coords are fixed
     @fixed_coord_range : CoordRange? = nil,
   )
-    Log.info { "Start zoom=#{@zoom}, posts.size=#{@posts.size}, photos.size=#{@photos.nil? ? nil : @photos.not_nil!.size}, posts: #{@posts[0..6].map { |post| post.date.to_s }.join(",")} " }
-    # just to make sure log info is rendered
-    sleep(Time::Span.new(nanoseconds: 1))
+    Log.info { "Start zoom=#{@zoom}, posts.size=#{@posts.size}, photos.size=#{@photos.not_nil!.size}, posts: #{@posts[0..6].map { |post| post.date.to_s }.join(",")} " }
 
     # only used for calculating how output map should be cropped
     @raster_crop = Crop::RasterCrop.new(type: @coord_crop_type)
@@ -110,29 +119,6 @@ class Map::Main
         @coord_crop.route(lat, lon)
       end
     end
-
-    # routes_coord_range = PostRouteObject.array_to_coord_range(
-    #   array: array
-    # )
-    #
-    # if routes_coord_range
-    #   Log.debug { "routes_coord_range #{routes_coord_range}" }
-    #
-    #   routes_coord_range = routes_coord_range.not_nil!
-    #   # when we don't have photos near edges of route (I haven't took photo
-    #   # soon after start riding) we need to enlarge coord range to make
-    #   # all route point visible on map
-    #
-    #   # TODO: check this flag
-    #   if !@internal_coord_range.valid? # || @todo_do_not_crop_routes
-    #     @internal_coord_range.enlarge!(routes_coord_range)
-    #     Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
-    #   end
-    # end
-
-    # direct passing of route data
-
-    # # new calculation of autozoom
 
     @debug_distance_processed_zooms = Hash(Int32, Float64).new
     @debug_possible_zooms = Hash(Int32, NamedTuple(x: Int32, y: Int32, diagonal: Int32)).new
@@ -272,6 +258,9 @@ class Map::Main
       s << "<svg preserveAspectRatio='xMinYMin meet' viewBox='0 0 #{width} #{new_height}' "
       s << "xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>\n"
 
+      s << svg_defs
+      s << svg_style
+
       # map
       s << "<svg width='#{width}' height='#{new_height}' "
       s << "viewBox='#{crop_x} #{crop_y} #{cropped_width} #{cropped_height}' "
@@ -291,5 +280,32 @@ class Map::Main
 
   def render_routes?
     return @routes_type == MapRoutesType::Static || @routes_type == MapRoutesType::Animated
+  end
+
+  private def svg_defs
+    <<-SVG
+    <defs>
+      <filter id="photo-shadow" x="-5%" y="-5%" width="115%" height="115%">
+        <feDropShadow dx="1" dy="1" stdDeviation="2" flood-color="rgba(0,0,0,0.25)" />
+      </filter>
+      <filter id="route-glow" x="-15%" y="-15%" width="130%" height="130%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="3" />
+      </filter>
+    </defs>\n
+    SVG
+  end
+
+  private def svg_style
+    <<-SVG
+    <style>
+      .photo-map-photo { filter: url(#photo-shadow); }
+      .photo-map-route { stroke-linecap: round; stroke-linejoin: round; }
+      .photo-pointer { fill: none; stroke: rgba(0,0,0,0.4); stroke-width: 1; }
+      .photo-dot { stroke: rgba(0,0,0,0.5); stroke-width: 0.5; }
+      .route-point { fill: white; stroke: rgba(0,0,0,0.4); stroke-width: 1.5; }
+      .photo-border { fill: none; stroke: rgba(255,255,255,0.7); stroke-width: 1; }
+      .licence-text { font-size: smaller; }
+    </style>\n
+    SVG
   end
 end

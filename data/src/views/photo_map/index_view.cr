@@ -6,12 +6,11 @@ class PhotoMap::IndexView < PageView
   def initialize(
     context : RenderContext,
     @url : String,
-    @photomaps_for_tag : Hash(String, PhotoMap::MultiplePhotoEntitiesGridMapSvgView),
-    @photomaps_for_voivodeship_big : Hash(String, PhotoMap::MultiplePostsGridAndRoutesMapSvgView),
-    @photomaps_for_voivodeship_small : Hash(String, PhotoMap::MultiplePostsGridAndRoutesMapSvgView),
+    @photomaps_for_tag : Hash(String, PhotoMap::AbstractSvgView),
+    @photomaps_for_voivodeship_big : Hash(String, PhotoMap::AbstractSvgView),
+    @photomaps_for_voivodeship_small : Hash(String, PhotoMap::AbstractSvgView),
     @photomaps_for_post_big : Hash(Tremolite::Post, PhotoMap::PostBigMapSvgView),
     @photomaps_for_post_small : Hash(Tremolite::Post, PhotoMap::PostRouteMapSvgView),
-    # TODO: add abstract class
     @photomaps_global : Hash(String, PhotoMap::AbstractSvgView),
     @subtitle : String = "",
   )

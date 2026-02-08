@@ -898,4 +898,41 @@ Same pattern as area show page: Crystal generates inline JSON, HTML template pro
 
 ---
 
-*Last updated: 2026-02-07*
+## Phase 20: JSON Optimization (Partial) ✅ MOSTLY COMPLETE
+
+**Completed**: 2026-02-08
+
+### Phase 20a: Quick Wins & JSON Moves ✅
+
+- Removed `card_url` from `PhotosJsonGenerator` (~2.66 MB savings)
+- Disabled/deregistered `nav_stats.json` (unused by frontend)
+- Moved `train_stations.json` → `/jsons/train_stations.json`
+- Moved `ideas.json` → `/jsons/ideas.json`
+- Replaced `payload.json` with `/jsons/e2e.json` (minimal data for E2E smoke tests only)
+- All other JSON endpoints already under `/jsons/`
+- **Remaining:** `/photos.json` still at root (20MB, needs moving)
+
+### Phase 20b: Map JSON ✅
+
+- Created `/jsons/map.json` via `MapJsonGenerator`
+- Posts with coords, minimal metadata (slug, title, date, distance, time_spent, card_image_url)
+- 16 KB vs 836 KB original payload.json usage (98% reduction)
+- Updated `map_leaflet.js` to use new endpoint
+
+### Phase 20c: Summary JSON — REMOVED
+
+Summary page (`/zestawienie.html`) deleted. No longer needed.
+
+### Phase 20d: Photos Map JSON ✅
+
+- Created `/jsons/photos_map.json` via `PhotosMapJsonGenerator`
+- Only photos with lat/lon, excludes detailed EXIF (aperture, exposure, iso, focal)
+- Updated `panoramio.html` to use new endpoint
+
+### Test Results
+
+**271 Crystal tests passing, 141 E2E tests passing**
+
+---
+
+*Last updated: 2026-02-08*

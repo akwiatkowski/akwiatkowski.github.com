@@ -239,13 +239,13 @@ def register_photo_views(r : ViewRegistry)
 
     # Collections for index page
     photomaps_global = Hash(String, PhotoMap::AbstractSvgView).new
-    photomaps_for_tag = Hash(String, PhotoMap::MultiplePhotoEntitiesGridMapSvgView).new
-    photomaps_for_voivodeship_big = Hash(String, PhotoMap::MultiplePostsGridAndRoutesMapSvgView).new
-    photomaps_for_voivodeship_small = Hash(String, PhotoMap::MultiplePostsGridAndRoutesMapSvgView).new
+    photomaps_for_tag = Hash(String, PhotoMap::AbstractSvgView).new
+    photomaps_for_voivodeship_big = Hash(String, PhotoMap::AbstractSvgView).new
+    photomaps_for_voivodeship_small = Hash(String, PhotoMap::AbstractSvgView).new
     photomaps_for_post_big = Hash(Tremolite::Post, PhotoMap::PostBigMapSvgView).new
     photomaps_for_post_small = Hash(Tremolite::Post, PhotoMap::PostRouteMapSvgView).new
 
-    # === Voivodeship maps (using AreaEntity) ===
+    # === Voivodeship maps (using AreaEntity + consolidated AreaMapSvgView) ===
     ctx.areas_of_type(AreaType::Voivodeship).each do |voivodeship|
       voivodeship_coord_range = CoordRange.new(voivodeship)
       next unless voivodeship_coord_range.valid?
@@ -254,23 +254,29 @@ def register_photo_views(r : ViewRegistry)
         post.was_in_area?(voivodeship)
       }.map(&.slug)
 
-      big_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
-        context: ctx,
-        url: Map::LinkGenerator.url_photomap_for_area_big(area: voivodeship),
+      big_config = Map::MapConfig.area_grid(
         zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
         photo_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
         fixed_coord_range: voivodeship_coord_range,
+      )
+      big_view = PhotoMap::AreaMapSvgView.new(
+        context: ctx,
+        url: Map::LinkGenerator.url_photomap_for_area_big(area: voivodeship),
+        config: big_config,
         post_slugs: post_slugs,
       )
       photomaps_for_voivodeship_big[voivodeship.name] = big_view
       ctx.write_output(big_view)
 
-      small_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
-        context: ctx,
-        url: Map::LinkGenerator.url_photomap_for_area_small(area: voivodeship),
+      small_config = Map::MapConfig.area_grid(
         zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
         photo_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
         fixed_coord_range: voivodeship_coord_range,
+      )
+      small_view = PhotoMap::AreaMapSvgView.new(
+        context: ctx,
+        url: Map::LinkGenerator.url_photomap_for_area_small(area: voivodeship),
+        config: small_config,
         post_slugs: post_slugs,
       )
       photomaps_for_voivodeship_small[voivodeship.name] = small_view
@@ -307,66 +313,62 @@ def register_photo_views(r : ViewRegistry)
       ctx.write_output(PhotoMap::IdeaRouteMapSvgView.new(context: ctx, idea: idea))
     end
 
-    # === Global maps ===
+    # === Global maps (using consolidated GlobalMapSvgView) ===
     global_maps = [
-      {"Ogólne", "overall", Map::DEFAULT_OVERALL_ZOOM, Map::DEFAULT_OVERALL_PHOTO_SIZE, :grid_routes},
-      {"Z grubsza", "coarse", Map::DEFAULT_COARSE_ZOOM, Map::DEFAULT_COARSE_PHOTO_SIZE, :grid_routes},
-      {"Małe", "small", Map::DEFAULT_SMALL_ZOOM, Map::DEFAULT_SMALL_PHOTO_SIZE, :grid_routes},
-      {"Szczegółowe", "detailed", Map::DEFAULT_DETAILED_ZOOM, Map::DEFAULT_DETAILED_PHOTO_SIZE, :grid_routes},
+      {"Ogólne", "overall", Map::MapConfig.global_grid_and_routes(zoom: Map::DEFAULT_OVERALL_ZOOM, photo_size: Map::DEFAULT_OVERALL_PHOTO_SIZE)},
+      {"Z grubsza", "coarse", Map::MapConfig.global_grid_and_routes(zoom: Map::DEFAULT_COARSE_ZOOM, photo_size: Map::DEFAULT_COARSE_PHOTO_SIZE)},
+      {"Małe", "small", Map::MapConfig.global_grid_and_routes(zoom: Map::DEFAULT_SMALL_ZOOM, photo_size: Map::DEFAULT_SMALL_PHOTO_SIZE)},
+      {"Szczegółowe", "detailed", Map::MapConfig.global_grid_and_routes(zoom: Map::DEFAULT_DETAILED_ZOOM, photo_size: Map::DEFAULT_DETAILED_PHOTO_SIZE)},
     ]
-    global_maps.each do |name, slug, zoom, photo_size, _type|
-      view = PhotoMap::GlobalGridAndRoutesMapSvgView.new(
+    global_maps.each do |name, slug, config|
+      view = PhotoMap::GlobalMapSvgView.new(
         context: ctx,
         url: Map::LinkGenerator.url_photomap_for_main(slug: slug),
-        zoom: zoom,
-        photo_size: photo_size,
+        config: config,
       )
       photomaps_global[name] = view
       ctx.write_output(view)
     end
 
     # Animated
-    animated_view = PhotoMap::GlobalAnimatedRoutesMapSvgView.new(
+    animated_view = PhotoMap::GlobalMapSvgView.new(
       context: ctx,
       url: Map::LinkGenerator.url_photomap_for_main(slug: "small_animated"),
-      zoom: Map::DEFAULT_SMALL_ZOOM
+      config: Map::MapConfig.global_animated(zoom: Map::DEFAULT_SMALL_ZOOM),
     )
     photomaps_global["Animowana"] = animated_view
     ctx.write_output(animated_view)
 
     # Small detailed (grid only)
-    small_detailed_view = PhotoMap::GlobalGridMapSvgView.new(
+    small_detailed_view = PhotoMap::GlobalMapSvgView.new(
       context: ctx,
       url: Map::LinkGenerator.url_photomap_for_main(slug: "small_detailed"),
-      zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM,
-      photo_size: Map::DEFAULT_SMALL_DETAILED_PHOTO_SIZE,
+      config: Map::MapConfig.global_grid(zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM, photo_size: Map::DEFAULT_SMALL_DETAILED_PHOTO_SIZE),
     )
     photomaps_global["Mała i szczegółowa"] = small_detailed_view
     ctx.write_output(small_detailed_view)
 
     # Dots
-    dots_view = PhotoMap::GlobalDotsMapSvgView.new(
+    dots_view = PhotoMap::GlobalMapSvgView.new(
       context: ctx,
       url: Map::LinkGenerator.url_photomap_for_main(slug: "dots"),
-      zoom: Map::DEFAULT_COARSE_ZOOM,
-      photo_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
-      dot_radius: Map::DEFAULT_DOT_RADIUS,
+      config: Map::MapConfig.global_dots(zoom: Map::DEFAULT_COARSE_ZOOM, dot_radius: Map::DEFAULT_DOT_RADIUS),
     )
     photomaps_global["Kółko-zdjęcia"] = dots_view
     ctx.write_output(dots_view)
 
-    # === Tagged photo maps ===
+    # === Tagged photo maps (using consolidated AreaMapSvgView) ===
     selected_tags = ["rural", "winter", "city", "night", "macro", "portfolio", "cat", "best", "good", "timeline"]
     selected_tags.sort.each do |tag|
       photo_entities = ctx.exif_db.all_flatten_photo_entities.select { |pe|
         pe.tags.includes?(tag)
       }
-      view = PhotoMap::MultiplePhotoEntitiesGridMapSvgView.new(
+      tag_config = Map::MapConfig.tag_grid(zoom: Map::DEFAULT_TAG_ZOOM, photo_size: Map::DEFAULT_TAG_PHOTO_SIZE)
+      view = PhotoMap::AreaMapSvgView.new(
         context: ctx,
         url: Map::LinkGenerator.url_photomap_for_tag(slug: tag),
-        zoom: Map::DEFAULT_TAG_ZOOM,
-        photo_size: Map::DEFAULT_TAG_PHOTO_SIZE,
-        photo_entities: photo_entities,
+        config: tag_config,
+        photo_entities_override: photo_entities,
       )
       photomaps_for_tag[tag] = view
       ctx.write_output(view)

@@ -71,7 +71,7 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
     @raster_crop : Map::Crop::RasterCrop,
     @posts : Array(Tremolite::Post),
     @tiles_layer : TilesLayer,
-    @image_size = DEFAULTH_PHOTO_SIZE.as(Int32),
+    @image_size = DEFAULT_PHOTO_SIZE.as(Int32),
     @photo_link_to : Map::MapPhotoLinkTo = Map::MapPhotoLinkTo::LinkToPost,
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
@@ -107,8 +107,6 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
     @photo_positions = Array(Map::PhotoToRoutePosition).new
     assign_photo_positions
 
-    # 3. fix crossed photos
-    fix_crossing_photos
   end
 
   private def populate_route_coord_ranges
@@ -321,58 +319,6 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
     return array
   end
 
-  private def fix_crossing_photos
-    # TODO not working as intended
-    return
-
-    (1...@photo_positions.size).each do |i|
-      previous = @photo_positions[i - 1]
-      current = @photo_positions[i]
-
-      point_distance = Math.sqrt(
-        ((previous.point_x - current.point_x) ** 2) +
-        ((previous.point_y - current.point_y) ** 2)
-      )
-
-      switch = false
-
-      if point_distance < 150 && (previous.point_x > current.photo_center_x && current.point_x < previous.photo_center_x)
-        # Log.debug { "switch X @photo_positions #{i - 1} <> #{i}" }
-        switch = true
-      end
-
-      if point_distance < 150 && (previous.point_y > current.photo_center_y && current.point_y < previous.photo_center_y)
-        # Log.debug { "switch Y @photo_positions #{i - 1} <> #{i}" }
-        switch = true
-      end
-
-      if switch
-        new_previous = PhotoToRoutePosition.new(
-          photo_entity: previous.photo_entity,
-          point_x: previous.point_x,
-          point_y: previous.point_y,
-          photo_center_x: current.photo_center_x,
-          photo_center_y: current.photo_center_y,
-          corner_photo_x: current.corner_photo_x,
-          corner_photo_y: current.corner_photo_y,
-        )
-
-        new_current = PhotoToRoutePosition.new(
-          photo_entity: current.photo_entity,
-          point_x: current.point_x,
-          point_y: current.point_y,
-          photo_center_x: previous.photo_center_x,
-          photo_center_y: previous.photo_center_y,
-          corner_photo_x: previous.corner_photo_x,
-          corner_photo_y: previous.corner_photo_y,
-        )
-
-        @photo_positions[i - 1] = new_previous
-        @photo_positions[i] = new_current
-      end
-    end
-  end
-
   def render_svg
     return String.build do |s|
       s << "<g id='photo-map-to-route-photos' >\n"
@@ -426,16 +372,44 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
     end
   end
 
+  # Convert computed positions to PhotoElement structs for MapPipeline
+  def to_photo_elements : Array(Map::PhotoElement)
+    elements = Array(Map::PhotoElement).new
+    @photo_positions.each do |pos|
+      photo_entity = pos.photo_entity
+      photo_url = photo_entity.full_image_src
+      post_url = photo_entity.post_url
+      href_url = case @photo_link_to
+                 when Map::MapPhotoLinkTo::LinkToPhoto then photo_url
+                 else                                       post_url
+                 end
+
+      elements << Map::AssignedPhotoElement.new(
+        point_x: pos.point_x,
+        point_y: pos.point_y,
+        corner_x: pos.corner_photo_x,
+        corner_y: pos.corner_photo_y,
+        center_x: pos.photo_center_x,
+        center_y: pos.photo_center_y,
+        image_size: @image_size,
+        image_src: photo_entity.grid_image_src,
+        href_url: href_url.to_s,
+      )
+    end
+    elements
+  end
+
   def photo_position_to_svg_pointer(photo_position)
     photo_center_x = photo_position.photo_center_x
     photo_center_y = photo_position.photo_center_y
     point_x = photo_position.point_x
     point_y = photo_position.point_y
 
+    path_d = Map::SmoothPath.pointer_path(photo_center_x.to_i, photo_center_y.to_i, point_x.to_i, point_y.to_i)
+
     return String.build do |s|
-      s << "<polyline class='photo-pointer' fill='none' style='stroke:rgb(0,0,0);stroke-width:1' points='"
-      s << "#{photo_center_x.to_i},#{photo_center_y.to_i} #{point_x.to_i},#{point_y.to_i}'  />\n"
-      s << "<circle cx='#{point_x.to_i}' cy='#{point_y.to_i}' r='5' stroke='black' stroke-width='2' fill='white' />\n"
+      s << "<path class='photo-pointer' d='#{path_d}' />\n"
+      s << "<circle cx='#{point_x.to_i}' cy='#{point_y.to_i}' r='4' class='route-point' />\n"
     end
   end
 end
