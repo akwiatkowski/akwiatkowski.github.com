@@ -107,3 +107,6 @@ page-assets:
   timeline:
     css:
       - /css/self/timeline.css
+  exif_stats:
+    css:
+      - /css/self/exif_stats.css

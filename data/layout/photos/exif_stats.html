@@ -1,1129 +1,212 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Photo Stats Dashboard</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-matrix@1.1.1/dist/chartjs-chart-matrix.min.js"></script>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-matrix@2/dist/chartjs-chart-matrix.min.js"></script>
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: var(--color-background);
-            color: var(--color-text);
-        }
+<div class="exif-page">
+    <header>
+        <h1>Statystyka zdjęć</h1>
+        <p class="header-subtitle">Analiza ewolucji stylu fotografii</p>
+    </header>
 
-        :root {
-            --color-background: #f5f5f5;
-            --color-surface: #ffffff;
-            --color-text: #1f2121;
-            --color-text-secondary: #626c7c;
-            --color-primary: #208081;
-            --color-primary-hover: #1a7477;
-            --color-border: #e0e0e0;
-            --color-success: #22c55e;
-            --color-warning: #f59e0b;
-            --color-error: #ef4444;
-        }
+    <div class="error-message" id="errorMessage"></div>
+    <div class="mock-indicator" id="mockIndicator" style="display: none;">
+        Dane testowe (10 rekordów). Włącz /photos.json aby zobaczyć pełne statystyki.
+    </div>
 
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --color-background: #1f2121;
-                --color-surface: #2a2d2d;
-                --color-text: #f5f5f5;
-                --color-text-secondary: #a0a7b0;
-                --color-border: #404040;
-            }
-        }
-
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 24px;
-        }
-
-        header {
-            margin-bottom: 32px;
-            border-bottom: 2px solid var(--color-border);
-            padding-bottom: 16px;
-        }
-
-        h1 {
-            font-size: 28px;
-            font-weight: 600;
-            margin-bottom: 8px;
-        }
-
-        .header-subtitle {
-            font-size: 14px;
-            color: var(--color-text-secondary);
-        }
-
-        .controls {
-            display: flex;
-            gap: 16px;
-            flex-wrap: wrap;
-            margin-bottom: 24px;
-            align-items: center;
-        }
-
-        .control-group {
-            display: flex;
-            gap: 8px;
-            align-items: center;
-        }
-
-        label {
-            font-size: 14px;
-            font-weight: 500;
-            color: var(--color-text-secondary);
-        }
-
-        select, input[type="number"] {
-            padding: 8px 12px;
-            border: 1px solid var(--color-border);
-            border-radius: 6px;
-            background: var(--color-surface);
-            color: var(--color-text);
-            font-size: 14px;
-            cursor: pointer;
-        }
-
-        button {
-            padding: 10px 16px;
-            background: var(--color-primary);
-            color: white;
-            border: none;
-            border-radius: 6px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: background 200ms;
-        }
-
-        button:hover {
-            background: var(--color-primary-hover);
-        }
-
-        button:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-        }
-
-        .progress-container {
-            margin-bottom: 24px;
-            display: none;
-        }
-
-        .progress-container.visible {
-            display: block;
-        }
-
-        .progress-bar {
-            width: 100%;
-            height: 8px;
-            background: var(--color-border);
-            border-radius: 4px;
-            overflow: hidden;
-        }
-
-        .progress-fill {
-            height: 100%;
-            background: var(--color-primary);
-            transition: width 200ms;
-        }
-
-        .progress-text {
-            font-size: 12px;
-            color: var(--color-text-secondary);
-            margin-top: 8px;
-        }
-
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 20px;
-            margin-bottom: 32px;
-        }
-
-        .stat-card {
-            background: var(--color-surface);
-            padding: 20px;
-            border-radius: 8px;
-            border: 1px solid var(--color-border);
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-        }
-
-        .stat-label {
-            font-size: 12px;
-            font-weight: 600;
-            text-transform: uppercase;
-            color: var(--color-text-secondary);
-            margin-bottom: 8px;
-            letter-spacing: 0.5px;
-        }
-
-        .stat-value {
-            font-size: 32px;
-            font-weight: 600;
-            color: var(--color-primary);
-            margin-bottom: 4px;
-        }
-
-        .stat-detail {
-            font-size: 13px;
-            color: var(--color-text-secondary);
-        }
-
-        .charts-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-            gap: 24px;
-        }
-
-        .chart-container {
-            background: var(--color-surface);
-            padding: 20px;
-            border-radius: 8px;
-            border: 1px solid var(--color-border);
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-        }
-
-        .chart-title {
-            font-size: 16px;
-            font-weight: 600;
-            margin-bottom: 16px;
-            color: var(--color-text);
-        }
-
-        canvas {
-            max-height: 400px;
-        }
-
-        .mock-indicator {
-            background: var(--color-warning);
-            color: white;
-            padding: 8px 12px;
-            border-radius: 4px;
-            font-size: 12px;
-            font-weight: 500;
-            display: inline-block;
-            margin-bottom: 16px;
-        }
-
-        .data-status {
-            font-size: 13px;
-            color: var(--color-text-secondary);
-            margin-top: 16px;
-            padding-top: 16px;
-            border-top: 1px solid var(--color-border);
-        }
-
-        .table-container {
-            overflow-x: auto;
-            margin-top: 20px;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 13px;
-        }
-
-        th {
-            background: var(--color-border);
-            padding: 12px;
-            text-align: left;
-            font-weight: 600;
-            border-bottom: 2px solid var(--color-border);
-        }
-
-        td {
-            padding: 12px;
-            border-bottom: 1px solid var(--color-border);
-        }
-
-        tr:hover {
-            background: var(--color-border);
-        }
-
-        .error-message {
-            background: var(--color-error);
-            color: white;
-            padding: 12px 16px;
-            border-radius: 6px;
-            margin-bottom: 16px;
-            display: none;
-        }
-
-        .error-message.visible {
-            display: block;
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                padding: 16px;
-            }
-
-            h1 {
-                font-size: 20px;
-            }
-
-            .charts-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .controls {
-                flex-direction: column;
-                align-items: stretch;
-            }
-
-            .control-group {
-                flex-direction: column;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>📸 Statystyka zdjęć</h1>
-            <p class="header-subtitle">Analizuj ewolucję swojego stylu fotografii</p>
-        </header>
-
-        <div class="error-message" id="errorMessage"></div>
-
-        <div class="mock-indicator" id="mockIndicator" style="display: none;">
-            ⚠️ Używam danych testowych (10 rekordów). Włącz endpoint /photos.json aby zobaczyć pełne statystyki.
+    <div class="es-progress" id="progressContainer">
+        <div class="es-progress-bar">
+            <div class="es-progress-fill" id="progressFill" style="width: 0%"></div>
         </div>
-
-        <div class="progress-container" id="progressContainer">
-            <div class="progress-bar">
-                <div class="progress-fill" id="progressFill" style="width: 0%"></div>
-            </div>
-            <div class="progress-text">
-                Ładowanie zdjęć... <span id="progressText">0%</span>
-            </div>
+        <div class="es-progress-text">
+            Ładowanie zdjęć... <span id="progressText">0%</span>
         </div>
+    </div>
 
-        <div class="controls">
-            <div class="control-group">
-                <label for="yearFilter">Filtruj wg roku:</label>
-                <select id="yearFilter">
-                    <option value="">Wszystkie lata</option>
-                </select>
-            </div>
-            <div class="control-group">
-                <label for="cameraFilter">Filtruj wg aparatu:</label>
-                <select id="cameraFilter">
-                    <option value="">Wszystkie aparaty</option>
-                </select>
-            </div>
-            <div class="control-group">
-                <label for="lensFilter">Filtruj wg obiektywu:</label>
-                <select id="lensFilter">
-                    <option value="">Wszystkie obiektywy</option>
-                </select>
-            </div>
-            <div class="control-group">
-                <label>
-                    <input type="checkbox" id="includeNonInterchangeable">
-                    Uwzględnij zdjęcia aparatami bez zmiennej optyki
-                </label>
-            </div>
-            <button onclick="resetFilters()">Resetuj filtry</button>
-            <button onclick="downloadStats()">Pobierz CSV</button>
+    <div class="controls">
+        <div class="control-group">
+            <label for="yearFilter">Rok:</label>
+            <select id="yearFilter"><option value="">Wszystkie</option></select>
         </div>
-
-        <div class="stats-grid" id="statsGrid">
-            <div class="stat-card">
-                <div class="stat-label">Wszystkie zdjęcia</div>
-                <div class="stat-value" id="totalPhotos">0</div>
-                <div class="stat-detail" id="publishedCount">0 opublikowanych</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">Ulubiona ogniskowa</div>
-                <div class="stat-value" id="modalFocal">—</div>
-                <div class="stat-detail" id="focalStats">Obliczanie...</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">Średnia przysłona</div>
-                <div class="stat-value" id="avgAperture">—</div>
-                <div class="stat-detail" id="apertureStats">Obliczanie...</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">Najczęściej używany obiektyw</div>
-                <div class="stat-value" id="topLens">—</div>
-                <div class="stat-detail" id="lensStats">Obliczanie...</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">Najczęściej używany aparat</div>
-                <div class="stat-value" id="topCamera">—</div>
-                <div class="stat-detail" id="cameraStats">Obliczanie...</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">Najczęściej używane ISO</div>
-                <div class="stat-value" id="avgISO">—</div>
-                <div class="stat-detail" id="isoStats">Obliczanie...</div>
-            </div>
+        <div class="control-group">
+            <label for="cameraFilter">Aparat:</label>
+            <select id="cameraFilter"><option value="">Wszystkie</option></select>
         </div>
-
-        <div class="charts-grid">
-            <div class="chart-container">
-                <div class="chart-title">Rozkład ogniskowej</div>
-                <canvas id="focalChart"></canvas>
-            </div>
-            <div class="chart-container">
-                <div class="chart-title">Rozkład przysłony</div>
-                <canvas id="apertureChart"></canvas>
-            </div>
-            <div class="chart-container">
-                <div class="chart-title">Zdjęcia na rok</div>
-                <canvas id="yearChart"></canvas>
-            </div>
-            <div class="chart-container">
-                <div class="chart-title">10 najczęściej używanych obiektywów</div>
-                <canvas id="lensChart"></canvas>
-            </div>
-            <div class="chart-container">
-                <div class="chart-title">10 najczęściej używanych aparatów</div>
-                <canvas id="cameraChart"></canvas>
-            </div>
-            <div class="chart-container">
-                <div class="chart-title">Oś czasu użytkowania aparatów</div>
-                <canvas id="cameraTimelineChart"></canvas>
-            </div>
-            <div class="chart-container">
-                <div class="chart-title">Rozkład ISO</div>
-                <canvas id="isoChart"></canvas>
-            </div>
-            <div class="chart-container">
-                <div class="chart-title">Rozkład czasu ekspozycji (skala logarytmiczna)</div>
-                <canvas id="exposureChart"></canvas>
-            </div>
+        <div class="control-group">
+            <label for="lensFilter">Obiektyw:</label>
+            <select id="lensFilter"><option value="">Wszystkie</option></select>
         </div>
+        <div class="control-group">
+            <label><input type="checkbox" id="includeNonInterchangeable"> Aparaty bez zmiennej optyki</label>
+        </div>
+        <button onclick="resetFilters()">Resetuj filtry</button>
+        <button onclick="downloadStats()" id="csvButton" style="display:none">Pobierz CSV</button>
+    </div>
 
-        <div class="chart-container" style="margin-top: 24px;">
-            <div class="chart-title">Ogniskowa na kwartał (Ewolucja)</div>
+    <!-- Stat Cards -->
+    <div class="stats-grid" id="statsGrid">
+        <div class="stat-card">
+            <div class="stat-label">Wszystkie zdjęcia</div>
+            <div class="stat-value" id="totalPhotos">0</div>
+            <div class="stat-detail" id="publishedCount">0 opublikowanych</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Ulubiona ogniskowa</div>
+            <div class="stat-value" id="modalFocal">&mdash;</div>
+            <div class="stat-detail" id="focalStats">Obliczanie...</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Średnia przysłona</div>
+            <div class="stat-value" id="avgAperture">&mdash;</div>
+            <div class="stat-detail" id="apertureStats">Obliczanie...</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Najczęstszy obiektyw</div>
+            <div class="stat-value" id="topLens">&mdash;</div>
+            <div class="stat-detail" id="lensStats">Obliczanie...</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Najczęstszy aparat</div>
+            <div class="stat-value" id="topCamera">&mdash;</div>
+            <div class="stat-detail" id="cameraStats">Obliczanie...</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Najczęstsze ISO</div>
+            <div class="stat-value" id="avgISO">&mdash;</div>
+            <div class="stat-detail" id="isoStats">Obliczanie...</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Wycieczki fotograficzne</div>
+            <div class="stat-value" id="totalTrips">&mdash;</div>
+            <div class="stat-detail" id="tripsDetail">Obliczanie...</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Aparaty / Obiektywy</div>
+            <div class="stat-value" id="equipmentCount">&mdash;</div>
+            <div class="stat-detail" id="equipmentDetail">Obliczanie...</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Godziny aktywności</div>
+            <div class="stat-value" id="activeHours">&mdash;</div>
+            <div class="stat-detail" id="activeHoursDetail">Obliczanie...</div>
+        </div>
+    </div>
+
+    <!-- Section: Photos Over Time -->
+    <h2 class="section-title">Zdjęcia w czasie</h2>
+    <div class="charts-grid">
+        <div class="chart-container">
+            <div class="chart-title">Zdjęcia na rok</div>
+            <canvas id="yearChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Wskaźnik publikacji na rok</div>
+            <canvas id="publishedRatioChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Section: Equipment -->
+    <h2 class="section-title">Sprzęt fotograficzny</h2>
+    <div class="charts-grid">
+        <div class="chart-container full-width tall">
+            <div class="chart-title">Okres użytkowania sprzętu</div>
+            <canvas id="equipmentLifespanChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Oś czasu aparatów (% rocznie)</div>
+            <canvas id="cameraTimelineChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Top 10 aparatów</div>
+            <canvas id="cameraChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Top 10 obiektywów</div>
+            <canvas id="lensChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Użycie max przysłony na obiektyw</div>
+            <canvas id="wideOpenChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Section: Focal Length -->
+    <h2 class="section-title">Ogniskowa</h2>
+    <div class="charts-grid">
+        <div class="chart-container">
+            <div class="chart-title">Rozkład ogniskowej</div>
+            <canvas id="focalChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Proporcje: szeroki kąt vs tele w czasie</div>
+            <canvas id="wideTeleChart"></canvas>
+        </div>
+        <div class="chart-container full-width">
+            <div class="chart-title">Ulubione ogniskowe na obiektyw zoom</div>
+            <canvas id="zoomSweetSpotChart"></canvas>
+        </div>
+        <div class="chart-container full-width">
+            <div class="chart-title">Ewolucja ogniskowej (średnia i mediana na kwartał)</div>
             <canvas id="focalTimelineChart"></canvas>
         </div>
     </div>
 
-    <script>
-        // ============================================================================
-        // MOCK DATA - Easy to remove (wrap in if (USE_MOCK_DATA))
-        // ============================================================================
-        const USE_MOCK_DATA = false; // Set to true to test with mock data
-
-        const MOCK_PHOTOS = [
-            {"full_url":"/img1.jpg","article_url":"/img1_gal.jpg","time":"2011-05-03T21:00:00+02:00","post_slug":"2011-05-03-gorce","is_published":true,"tags":["spring","good"],"exif.lat":null,"exif.lon":null,"exif.focal_35mm":75,"exif.aperture":4.5,"exif.lens_name":"Pentax FA 50mm Macro","exif.camera_name":"Pentax K100D","exif.time":"2011-04-30T14:57:28+02:00","exif.exposure":0.004,"exif.altitude":800,"exif.iso":100},
-            {"full_url":"/img2.jpg","article_url":"/img2_gal.jpg","time":"2011-05-03T21:00:00+02:00","post_slug":"2011-05-03-gorce","is_published":true,"tags":["countryside"],"exif.lat":null,"exif.lon":null,"exif.focal_35mm":200,"exif.aperture":5.6,"exif.lens_name":"Sigma 55-200mm F4-5.6 DC","exif.camera_name":"Pentax K100D","exif.time":"2011-04-30T14:58:24+02:00","exif.exposure":0.008,"exif.altitude":750,"exif.iso":100},
-            {"full_url":"/img3.jpg","article_url":"/img3_gal.jpg","time":"2011-09-10T21:00:00+02:00","post_slug":"2011-09-10-tatry","is_published":true,"tags":["mountains","good"],"exif.lat":null,"exif.lon":null,"exif.focal_35mm":169,"exif.aperture":6.3,"exif.lens_name":"Sigma 55-200mm F4-5.6 DC","exif.camera_name":"Pentax K100D","exif.time":"2011-09-09T15:09:42+02:00","exif.exposure":0.004,"exif.altitude":1500,"exif.iso":100},
-            {"full_url":"/img4.jpg","article_url":"/img4_gal.jpg","time":"2018-10-08T20:00:00+02:00","post_slug":"2018-10-08-wojanow","is_published":true,"tags":["cat"],"exif.lat":50.87,"exif.lon":15.83,"exif.focal_35mm":400,"exif.aperture":6.1,"exif.lens_name":"Olympus 75-300mm","exif.camera_name":"Olympus M1m2","exif.time":"2018-10-08T18:09:33+02:00","exif.exposure":0.005,"exif.altitude":250,"exif.iso":200},
-            {"full_url":"/img5.jpg","article_url":"/img5_gal.jpg","time":"2018-10-08T20:00:00+02:00","post_slug":"2018-10-08-wojanow","is_published":true,"tags":[],"exif.lat":50.87,"exif.lon":15.83,"exif.focal_35mm":50,"exif.aperture":1.4,"exif.lens_name":"Lumix 25mm f1.4","exif.camera_name":"Olympus M1m2","exif.time":"2018-10-08T19:10:08+02:00","exif.exposure":0.001,"exif.altitude":250,"exif.iso":800},
-            {"full_url":"/img6.jpg","article_url":"/img6_gal.jpg","time":"2018-10-08T20:00:00+02:00","post_slug":"2018-10-08-wojanow","is_published":true,"tags":[],"exif.lat":50.87,"exif.lon":15.83,"exif.focal_35mm":24,"exif.aperture":5.0,"exif.lens_name":"Olympus 12-100mm f4","exif.camera_name":"Olympus M1m2","exif.time":"2018-10-08T17:37:04+02:00","exif.exposure":0.02,"exif.altitude":250,"exif.iso":400},
-            {"full_url":"/img7.jpg","article_url":"/img7_gal.jpg","time":"2020-06-15T20:00:00+02:00","post_slug":"2020-06-15-forest","is_published":true,"tags":["spring","good"],"exif.lat":51.5,"exif.lon":16.2,"exif.focal_35mm":85,"exif.aperture":4.0,"exif.lens_name":"Olympus 12-100mm f4","exif.camera_name":"Olympus M1m2","exif.time":"2020-06-15T18:30:00+02:00","exif.exposure":0.004,"exif.altitude":400,"exif.iso":160},
-            {"full_url":"/img8.jpg","article_url":"/img8_gal.jpg","time":"2020-06-15T20:00:00+02:00","post_slug":"2020-06-15-forest","is_published":true,"tags":[],"exif.lat":51.5,"exif.lon":16.2,"exif.focal_35mm":300,"exif.aperture":6.3,"exif.lens_name":"Olympus 75-300mm","exif.camera_name":"Olympus M1m2","exif.time":"2020-06-15T18:45:00+02:00","exif.exposure":0.002,"exif.altitude":400,"exif.iso":100},
-            {"full_url":"/img9.jpg","article_url":"/img9_gal.jpg","time":"2020-12-20T20:00:00+02:00","post_slug":"2020-12-20-night","is_published":true,"tags":["good"],"exif.lat":52.2,"exif.lon":15.5,"exif.focal_35mm":50,"exif.aperture":1.4,"exif.lens_name":"Lumix 25mm f1.4","exif.camera_name":"Olympus M1m2","exif.time":"2020-12-20T19:00:00+02:00","exif.exposure":0.5,"exif.altitude":100,"exif.iso":3200},
-            {"full_url":"/img10.jpg","article_url":"/img10_gal.jpg","time":"2021-07-10T20:00:00+02:00","post_slug":"2021-07-10-biking","is_published":true,"tags":["action"],"exif.lat":52.1,"exif.lon":15.3,"exif.focal_35mm":35,"exif.aperture":5.6,"exif.lens_name":"Olympus 12-100mm f4","exif.camera_name":"Olympus M1m2","exif.time":"2021-07-10T14:20:00+02:00","exif.exposure":0.001,"exif.altitude":80,"exif.iso":100}
-        ];
-
-        // ============================================================================
-        // STATE & DATA
-        // ============================================================================
-        let allPhotos = [];
-        let filteredPhotos = [];
-        let charts = {};
-        let isLoading = false;
-
-        // ============================================================================
-        // LOAD PHOTOS - Streaming with progress
-        // ============================================================================
-        async function loadPhotos() {
-            if (USE_MOCK_DATA) {
-                console.log('Using mock data (10 records)');
-                allPhotos = Array.isArray(MOCK_PHOTOS) ? MOCK_PHOTOS : MOCK_PHOTOS.photos || [];
-                document.getElementById('mockIndicator').style.display = 'inline-block';
-                updateDashboard();
-                return;
-            }
-
-            isLoading = true;
-            showProgress();
-            const progressFill = document.getElementById('progressFill');
-            const progressText = document.getElementById('progressText');
-            const errorMsg = document.getElementById('errorMessage');
-            errorMsg.classList.remove('visible');
-
-            try {
-                const response = await fetch('/photos.json');
-                if (!response.ok) throw new Error(`HTTP ${response.status}`);
-
-                const contentLength = response.headers.get('content-length');
-                const totalBytes = contentLength ? parseInt(contentLength, 10) : null;
-                let loadedBytes = 0;
-
-                const reader = response.body.getReader();
-                const chunks = [];
-
-                while (true) {
-                    const { done, value } = await reader.read();
-                    if (done) break;
-
-                    chunks.push(value);
-                    loadedBytes += value.length;
-
-                    if (totalBytes) {
-                        const percent = Math.round((loadedBytes / totalBytes) * 100);
-                        progressFill.style.width = percent + '%';
-                        progressText.textContent = percent + '%';
-                    }
-                }
-
-                const buffer = new Uint8Array(loadedBytes);
-                let position = 0;
-                for (const chunk of chunks) {
-                    buffer.set(chunk, position);
-                    position += chunk.length;
-                }
-
-                const text = new TextDecoder().decode(buffer);
-                const parsed = JSON.parse(text);
-                // Handle both array and {photos: [...]} structure
-                allPhotos = Array.isArray(parsed) ? parsed : (parsed.photos || []);
-
-                progressFill.style.width = '100%';
-                progressText.textContent = '100%';
-                setTimeout(hideProgress, 500);
-
-                updateDashboard();
-            } catch (error) {
-                console.error('Error loading photos:', error);
-                errorMsg.textContent = `Failed to load /photos.json: ${error.message}. Using mock data.`;
-                errorMsg.classList.add('visible');
-                allPhotos = Array.isArray(MOCK_PHOTOS) ? MOCK_PHOTOS : MOCK_PHOTOS.photos || [];
-                document.getElementById('mockIndicator').style.display = 'inline-block';
-                hideProgress();
-                updateDashboard();
-            } finally {
-                isLoading = false;
-            }
-        }
-
-        function showProgress() {
-            document.getElementById('progressContainer').classList.add('visible');
-        }
-
-        function hideProgress() {
-            document.getElementById('progressContainer').classList.remove('visible');
-        }
-
-        // ============================================================================
-        // DATA PROCESSING
-        // ============================================================================
-        const NON_INTERCHANGEABLE_CAMERAS = [
-          'Nieznane', 'Unknown', 'Gopro 3 Black', 'DJI Spark', 'Xiaomi Redmi Note 3',
-          'DJI Mini 3 Pro', 'iPhone 13 Pro'
-        ];
-
-        function getFilteredPhotos() {
-            const yearFilter = document.getElementById('yearFilter').value;
-            const cameraFilter = document.getElementById('cameraFilter').value;
-            const lensFilter = document.getElementById('lensFilter').value;
-            const includeNonInterchangeable = document.getElementById('includeNonInterchangeable').checked;
-
-            var badCameraCount = 0;
-            var goodPhotoCount = 0;
-
-            var filteredPhotos = allPhotos.filter(photo => {
-                if (!includeNonInterchangeable) {
-                    const cameraName = photo['exif.camera_name'] || '';
-                    const lensName = photo['exif.lens_name'] || '';
-
-                    if (NON_INTERCHANGEABLE_CAMERAS.includes(cameraName)) {
-                      console.log(cameraName);
-                      badCameraCount += 1;
-                      return false;
-                    }
-                    if (NON_INTERCHANGEABLE_CAMERAS.includes(lensName)) {
-                      badCameraCount += 1;
-                      return false;
-                    }
-                }
-
-                if (yearFilter) {
-                    const photoYear = new Date(photo.time).getFullYear().toString();
-                    if (photoYear !== yearFilter) return false;
-                }
-                if (cameraFilter && photo['exif.camera_name'] !== cameraFilter) return false;
-                if (lensFilter && photo['exif.lens_name'] !== lensFilter) return false;
-
-                goodPhotoCount += 1;
-                return true;
-            });
-
-            console.log("badCameraCount", badCameraCount);
-            console.log("goodPhotoCount", goodPhotoCount);
-            return filteredPhotos;
-        }
-
-        function updateFilters() {
-            const years = new Set();
-            const cameras = new Set();
-            const lenses = new Set();
-
-            allPhotos.forEach(photo => {
-                years.add(new Date(photo.time).getFullYear());
-                if (photo['exif.camera_name']) cameras.add(photo['exif.camera_name']);
-                if (photo['exif.lens_name']) lenses.add(photo['exif.lens_name']);
-            });
-
-            const yearSelect = document.getElementById('yearFilter');
-            const cameraSelect = document.getElementById('cameraFilter');
-            const lensSelect = document.getElementById('lensFilter');
-
-            Array.from(years).sort((a, b) => b - a).forEach(year => {
-                const option = document.createElement('option');
-                option.value = year;
-                option.textContent = year;
-                yearSelect.appendChild(option);
-            });
-
-            Array.from(cameras).sort().forEach(camera => {
-                const option = document.createElement('option');
-                option.value = camera;
-                option.textContent = camera;
-                cameraSelect.appendChild(option);
-            });
-
-            Array.from(lenses).sort().forEach(lens => {
-                const option = document.createElement('option');
-                option.value = lens;
-                option.textContent = lens;
-                lensSelect.appendChild(option);
-            });
-        }
-
-        function calculateStats(photos) {
-            // Filter: only include photos with all required EXIF fields
-            const requiredFields = ['exif.focal_35mm', 'exif.aperture', 'exif.lens_name', 'exif.time', 'exif.camera_name'];
-            const validPhotos = photos.filter(photo =>
-                requiredFields.every(field => photo[field] !== null && photo[field] !== undefined)
-            );
-
-            if (validPhotos.length === 0) {
-                return {
-                    totalPhotos: 0,
-                    publishedCount: 0,
-                    focalLengths: [],
-                    apertures: [],
-                    cameras: {},
-                    lenses: {},
-                    years: {},
-                    isos: [],
-                    exposures: [],
-                    altitudes: []
-                };
-            }
-
-            const stats = {
-                totalPhotos: validPhotos.length,
-                publishedCount: validPhotos.filter(p => p.is_published).length,
-                focalLengths: [],
-                apertures: [],
-                cameras: {},
-                lenses: {},
-                years: {},
-                isos: [],
-                exposures: [],
-                altitudes: []
-            };
-
-            validPhotos.forEach(photo => {
-                const year = new Date(photo['exif.time']).getFullYear();
-                const focal = photo['exif.focal_35mm'];
-                const aperture = photo['exif.aperture'];
-                const camera = photo['exif.camera_name'];
-                const lens = photo['exif.lens_name'];
-                const iso = photo['exif.iso'] || null;
-                const exposure = photo['exif.exposure'] || null;
-                const altitude = photo['exif.altitude'] || null;
-
-                // Focal
-                if (focal) stats.focalLengths.push(focal);
-
-                // Aperture
-                if (aperture) stats.apertures.push(aperture);
-
-                // ISO
-                if (iso) stats.isos.push(iso);
-
-                // Exposure
-                if (exposure) stats.exposures.push(exposure);
-
-                // Altitude
-                if (altitude) stats.altitudes.push(altitude);
-
-                // Camera
-                if (camera) {
-                    stats.cameras[camera] = (stats.cameras[camera] || 0) + 1;
-                }
-
-                // Lens
-                if (lens) {
-                    stats.lenses[lens] = (stats.lenses[lens] || 0) + 1;
-                }
-
-                // Year
-                stats.years[year] = (stats.years[year] || 0) + 1;
-            });
-
-            return stats;
-        }
-
-        // ============================================================================
-        // UPDATE DASHBOARD
-        // ============================================================================
-        function updateDashboard() {
-            updateFilters();
-            updateStats();
-            updateCharts();
-        }
-
-        function updateStats() {
-            filteredPhotos = getFilteredPhotos();
-            const stats = calculateStats(filteredPhotos);
-
-            // Modal focal length
-            const focalCounts = {};
-            stats.focalLengths.forEach(f => {
-                focalCounts[f] = (focalCounts[f] || 0) + 1;
-            });
-            const modalFocal = Object.keys(focalCounts).length > 0
-                ? Object.entries(focalCounts).sort((a, b) => b[1] - a[1])[0][0]
-                : '—';
-
-            // Average aperture
-            const avgAperture = stats.apertures.length > 0
-                ? (stats.apertures.reduce((a, b) => a + b, 0) / stats.apertures.length).toFixed(1)
-                : '—';
-
-            // Top lens/camera
-            const topLens = Object.entries(stats.lenses).sort((a, b) => b[1] - a[1])[0];
-            const topCamera = Object.entries(stats.cameras).sort((a, b) => b[1] - a[1])[0];
-
-            // Average ISO
-            const avgISO = stats.isos.length > 0
-                ? Math.round(stats.isos.reduce((a, b) => a + b, 0) / stats.isos.length)
-                : '—';
-
-            // Count photos with focal length close to modal (±10%)
-            const modalFocalValue = parseFloat(modalFocal);
-            const focalTolerance = modalFocalValue * 0.1;
-            const similarFocalCount = stats.focalLengths.filter(f =>
-                Math.abs(f - modalFocalValue) <= focalTolerance
-            ).length;
-
-            document.getElementById('totalPhotos').textContent = stats.totalPhotos;
-            document.getElementById('publishedCount').textContent = `${stats.publishedCount} opublikowanych`;
-            document.getElementById('modalFocal').textContent = modalFocal + 'mm';
-            document.getElementById('focalStats').textContent = `${similarFocalCount} zdjęć w pobliżu wartości`;
-            document.getElementById('avgAperture').textContent = 'f/' + avgAperture;
-            document.getElementById('apertureStats').textContent = `${stats.apertures.length} zdjęć`;
-            document.getElementById('topLens').textContent = topLens ? topLens[0].split(' ').slice(0, 2).join(' ') : '—';
-            document.getElementById('lensStats').textContent = topLens ? `${topLens[1]} zdjęć` : '0 zdjęć';
-            document.getElementById('topCamera').textContent = topCamera ? topCamera[0].split(' ').slice(-1)[0] : '—';
-            document.getElementById('cameraStats').textContent = topCamera ? `${topCamera[1]} zdjęć` : '0 zdjęć';
-            // Most used ISO (modal)
-            const isoCounts = {};
-            stats.isos.forEach(iso => {
-                isoCounts[iso] = (isoCounts[iso] || 0) + 1;
-            });
-            const mostUsedISO = stats.isos.length > 0
-                ? Object.entries(isoCounts).sort((a, b) => b[1] - a[1])[0][0]
-                : '—';
-
-            document.getElementById('avgISO').textContent = mostUsedISO;
-            document.getElementById('isoStats').textContent = `${isoCounts[mostUsedISO] || 0} zdjęć`;
-        }
-
-        // Smart focal length binning (log scale groups)
-        function getFocalBins(focalLengths) {
-            if (focalLengths.length === 0) return {};
-            const sorted = [...focalLengths].sort((a, b) => a - b);
-            const bins = {};
-            const boundaries = [10, 14, 20, 28, 35, 50, 70, 100, 135, 200, 280, 400, 1000];
-
-            let binIndex = 0;
-            for (let i = 0; i < boundaries.length - 1; i++) {
-                const start = boundaries[i];
-                const end = boundaries[i + 1];
-                const label = `${start}-${end}mm`;
-                bins[label] = 0;
-            }
-
-            sorted.forEach(focal => {
-                for (let i = 0; i < boundaries.length - 1; i++) {
-                    if (focal >= boundaries[i] && focal < boundaries[i + 1]) {
-                        const label = `${boundaries[i]}-${boundaries[i + 1]}mm`;
-                        bins[label]++;
-                        break;
-                    }
-                }
-            });
-
-            return bins;
-        }
-
-        // Smart aperture binning (standard aperture values)
-        function getApertureBins(apertures) {
-            if (apertures.length === 0) return {};
-            const standardApertures = [0.7, 1.0, 1.2, 1.4, 1.7, 2.0, 2.8, 4.0, 5.6, 6.3, 8.0, 11.0, 13.0, 16.0, 22.0];
-            const bins = {};
-
-            standardApertures.forEach(ap => {
-                bins['f/' + ap.toFixed(1)] = 0;
-            });
-
-            apertures.forEach(aperture => {
-                // Find closest standard aperture
-                let closest = standardApertures[0];
-                let minDiff = Math.abs(aperture - closest);
-
-                for (let ap of standardApertures) {
-                    const diff = Math.abs(aperture - ap);
-                    if (diff < minDiff) {
-                        minDiff = diff;
-                        closest = ap;
-                    }
-                }
-
-                bins['f/' + closest.toFixed(1)]++;
-            });
-
-            return bins;
-        }
-
-        function updateCharts() {
-            const stats = calculateStats(filteredPhotos);
-
-            // Destroy existing charts
-            Object.values(charts).forEach(chart => chart.destroy());
-            charts = {};
-
-            // Focal Length Distribution (smart log-scale bins)
-            const focalBins = getFocalBins(stats.focalLengths);
-
-            charts.focal = new Chart(document.getElementById('focalChart'), {
-                type: 'bar',
-                data: {
-                    labels: Object.keys(focalBins),
-                    datasets: [{
-                        label: 'Count',
-                        data: Object.values(focalBins),
-                        backgroundColor: '#208081',
-                        borderColor: '#1a7477',
-                        borderWidth: 1
-                    }]
-                },
-                options: { responsive: true, maintainAspectRatio: true, plugins: { legend: { display: false } } }
-            });
-
-            // Aperture Distribution (smart binning to standard apertures, ignore <1.0)
-            const validApertures = stats.apertures.filter(a => a >= 1.0);
-            const apertureCounts = getApertureBins(validApertures);
-
-            charts.aperture = new Chart(document.getElementById('apertureChart'), {
-                type: 'bar',
-                data: {
-                    labels: Object.keys(apertureCounts),
-                    datasets: [{
-                        label: 'Count',
-                        data: Object.values(apertureCounts),
-                        backgroundColor: '#f59e0b',
-                        borderColor: '#d97706',
-                        borderWidth: 1
-                    }]
-                },
-                options: { responsive: true, maintainAspectRatio: true, plugins: { legend: { display: false } } }
-            });
-
-            // Photos per Year
-            const years = Object.keys(stats.years).sort();
-            charts.year = new Chart(document.getElementById('yearChart'), {
-                type: 'line',
-                data: {
-                    labels: years,
-                    datasets: [{
-                        label: 'Photos',
-                        data: years.map(y => stats.years[y]),
-                        borderColor: '#208081',
-                        backgroundColor: 'rgba(32, 128, 129, 0.1)',
-                        tension: 0.4,
-                        fill: true,
-                        pointBackgroundColor: '#208081',
-                        pointBorderColor: '#fff',
-                        pointBorderWidth: 2
-                    }]
-                },
-                options: { responsive: true, maintainAspectRatio: true, plugins: { legend: { display: false } } }
-            });
-
-            // Top 10 Lenses
-            const topLenses = Object.entries(stats.lenses).sort((a, b) => b[1] - a[1]).slice(0, 10);
-            charts.lens = new Chart(document.getElementById('lensChart'), {
-                type: 'bar',
-                data: {
-                    labels: topLenses.map(l => l[0]),
-                    datasets: [{
-                        label: 'Photos',
-                        data: topLenses.map(l => l[1]),
-                        backgroundColor: '#ef4444'
-                    }]
-                },
-                options: {
-                    indexAxis: 'y',
-                    responsive: true,
-                    maintainAspectRatio: true,
-                    plugins: { legend: { display: false } },
-                    scales: { x: { beginAtZero: true } }
-                }
-            });
-
-            // Top 10 Cameras
-            const topCameras = Object.entries(stats.cameras).sort((a, b) => b[1] - a[1]).slice(0, 10);
-            charts.camera = new Chart(document.getElementById('cameraChart'), {
-                type: 'bar',
-                data: {
-                    labels: topCameras.map(c => c[0]),
-                    datasets: [{
-                        label: 'Photos',
-                        data: topCameras.map(c => c[1]),
-                        backgroundColor: '#3b82f6'
-                    }]
-                },
-                options: {
-                    indexAxis: 'y',
-                    responsive: true,
-                    maintainAspectRatio: true,
-                    plugins: { legend: { display: false } },
-                    scales: { x: { beginAtZero: true } }
-                }
-            });
-
-            // Camera Usage Timeline (stacked percentage)
-            const cameraTimeline = {};
-            filteredPhotos.forEach(photo => {
-                const year = new Date(photo.time).getFullYear();
-                const camera = photo['exif.camera_name'] || 'Unknown';
-                const key = `${year}-${camera}`;
-                cameraTimeline[key] = (cameraTimeline[key] || 0) + 1;
-            });
-
-            const timelineYears = [...new Set(Object.keys(cameraTimeline).map(k => k.split('-')[0]))].sort();
-            const uniqueCameras = [...new Set(Object.keys(cameraTimeline).map(k => k.split('-')[1]))];
-
-            // Convert to percentages
-            const datasets = uniqueCameras.map((camera, idx) => {
-                const colors = ['#208081', '#ef4444', '#f59e0b', '#3b82f6', '#22c55e', '#a855f7'];
-                const data = timelineYears.map(year => {
-                    const key = `${year}-${camera}`;
-                    const yearTotal = Object.keys(cameraTimeline)
-                        .filter(k => k.startsWith(year + '-'))
-                        .reduce((sum, k) => sum + cameraTimeline[k], 0);
-                    return yearTotal > 0 ? (cameraTimeline[key] || 0) / yearTotal * 100 : 0;
-                });
-                return {
-                    label: camera,
-                    data: data,
-                    borderWidth: 0,
-                    fill: true,
-                    tension: 0.3,
-                    backgroundColor: colors[idx % colors.length]
-                };
-            });
-
-            charts.cameraTimeline = new Chart(document.getElementById('cameraTimelineChart'), {
-                type: 'line',
-                data: { labels: timelineYears, datasets },
-                options: {
-                    responsive: true,
-                    maintainAspectRatio: true,
-                    plugins: { legend: { position: 'top' } },
-                    scales: { y: { stacked: true, max: 100, title: { display: true, text: 'Percentage (%)' } } }
-                }
-            });
-
-            // ISO Distribution (most used first)
-            const isoSet = [...new Set(stats.isos)].sort((a, b) => a - b);
-            const isoCounts = {};
-            isoSet.forEach(iso => {
-                isoCounts[iso] = stats.isos.filter(x => x === iso).length;
-            });
-
-            // Sort by count descending
-            const sortedISOs = Object.entries(isoCounts)
-                .sort((a, b) => b[1] - a[1])
-                .reduce((acc, [iso, count]) => {
-                    acc[iso] = count;
-                    return acc;
-                }, {});
-
-            charts.iso = new Chart(document.getElementById('isoChart'), {
-                type: 'bar',
-                data: {
-                    labels: Object.keys(sortedISOs),
-                    datasets: [{
-                        label: 'Count',
-                        data: Object.values(sortedISOs),
-                        backgroundColor: '#22c55e'
-                    }]
-                },
-                options: { responsive: true, maintainAspectRatio: true, plugins: { legend: { display: false } } }
-            });
-
-            // Exposure Distribution (log scale with custom labels)
-            const exposureBins = { '1/1000': 0, '1/500': 0, '1/250': 0, '1/125': 0, '1/60': 0, '1/30': 0, '1/15': 0, '1/8': 0, '1/4': 0, '1/2': 0, '1s': 0, '1-2s': 0, '2-5s': 0, '5-10s': 0, '10-30s': 0, '>30s': 0 };
-            stats.exposures.forEach(e => {
-                if (e < 0.001) exposureBins['1/1000']++;
-                else if (e < 0.002) exposureBins['1/500']++;
-                else if (e < 0.004) exposureBins['1/250']++;
-                else if (e < 0.008) exposureBins['1/125']++;
-                else if (e < 0.016) exposureBins['1/60']++;
-                else if (e < 0.033) exposureBins['1/30']++;
-                else if (e < 0.066) exposureBins['1/15']++;
-                else if (e < 0.125) exposureBins['1/8']++;
-                else if (e < 0.25) exposureBins['1/4']++;
-                else if (e < 0.5) exposureBins['1/2']++;
-                else if (e < 1) exposureBins['1s']++;
-                else if (e < 2) exposureBins['1-2s']++;
-                else if (e < 5) exposureBins['2-5s']++;
-                else if (e < 10) exposureBins['5-10s']++;
-                else if (e < 30) exposureBins['10-30s']++;
-                else exposureBins['>30s']++;
-            });
-
-            charts.exposure = new Chart(document.getElementById('exposureChart'), {
-                type: 'bar',
-                data: {
-                    labels: Object.keys(exposureBins),
-                    datasets: [{
-                        label: 'Count',
-                        data: Object.values(exposureBins),
-                        backgroundColor: '#a855f7'
-                    }]
-                },
-                options: { responsive: true, maintainAspectRatio: true, plugins: { legend: { display: false } } }
-            });
-
-            // Focal Length Timeline by Quarter
-            const focalTimeline = {};
-            filteredPhotos.forEach(photo => {
-                const date = new Date(photo.time);
-                const year = date.getFullYear();
-                const quarter = Math.floor(date.getMonth() / 3) + 1;
-                const key = `${year}-Q${quarter}`;
-                if (!focalTimeline[key]) focalTimeline[key] = [];
-                focalTimeline[key].push(photo['exif.focal_35mm']);
-            });
-
-            const focalQuarters = Object.keys(focalTimeline).sort();
-            const avgFocalPerQuarter = focalQuarters.map(q =>
-                focalTimeline[q].reduce((a, b) => a + b, 0) / focalTimeline[q].length
-            );
-            const medianFocalPerQuarter = focalQuarters.map(q => {
-                const sorted = [...focalTimeline[q]].sort((a, b) => a - b);
-                const mid = Math.floor(sorted.length / 2);
-                return sorted.length % 2 !== 0 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
-            });
-
-            charts.focalTimeline = new Chart(document.getElementById('focalTimelineChart'), {
-                type: 'line',
-                data: {
-                    labels: focalQuarters,
-                    datasets: [
-                        {
-                            label: 'Average Focal Length',
-                            data: avgFocalPerQuarter,
-                            borderColor: '#208081',
-                            backgroundColor: 'rgba(32, 128, 129, 0.1)',
-                            tension: 0.4,
-                            fill: true,
-                            pointBackgroundColor: '#208081',
-                            pointBorderColor: '#fff',
-                            pointBorderWidth: 2
-                        },
-                        {
-                            label: 'Median Focal Length',
-                            data: medianFocalPerQuarter,
-                            borderColor: '#f59e0b',
-                            backgroundColor: 'transparent',
-                            tension: 0.4,
-                            fill: false,
-                            borderDash: [5, 5],
-                            pointBackgroundColor: '#f59e0b',
-                            pointBorderColor: '#fff',
-                            pointBorderWidth: 2
-                        }
-                    ]
-                },
-                options: { responsive: true, maintainAspectRatio: true, plugins: { legend: { display: true } }, scales: { y: { beginAtZero: false } } }
-            });
-        }
-
-        function resetFilters() {
-            document.getElementById('yearFilter').value = '';
-            document.getElementById('cameraFilter').value = '';
-            document.getElementById('lensFilter').value = '';
-            updateStats();
-            updateCharts();
-        }
-
-        function downloadStats() {
-            const stats = calculateStats(filteredPhotos);
-            let csv = 'Metryka,Wartość\n';
-            csv += `Wszystkie zdjęcia,${stats.totalPhotos}\n`;
-            csv += `Opublikowane,${stats.publishedCount}\n`;
-            csv += `Średnia ogniskowa,${(stats.focalLengths.reduce((a, b) => a + b, 0) / stats.focalLengths.length).toFixed(0)}\n`;
-            csv += `Średnia przysłona,${(stats.apertures.reduce((a, b) => a + b, 0) / stats.apertures.length).toFixed(1)}\n`;
-            csv += `Najczęściej używane ISO,${stats.isos.length > 0 ? Math.round(stats.isos.reduce((a, b) => a + b, 0) / stats.isos.length) : 'N/A'}\n`;
-
-            const blob = new Blob([csv], { type: 'text/csv' });
-            const url = window.URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'statystyka-zdjec.csv';
-            a.click();
-        }
-
-        // ============================================================================
-        // INIT
-        // ============================================================================
-        document.addEventListener('DOMContentLoaded', () => {
-            loadPhotos();
-
-            document.getElementById('yearFilter').addEventListener('change', () => {
-                updateStats();
-                updateCharts();
-            });
-            document.getElementById('cameraFilter').addEventListener('change', () => {
-                updateStats();
-                updateCharts();
-            });
-            document.getElementById('lensFilter').addEventListener('change', () => {
-                updateStats();
-                updateCharts();
-            });
-            document.getElementById('includeNonInterchangeable').addEventListener('change', () => {
-                updateStats();
-                updateCharts();
-            });
-        });
-    </script>
-</body>
-</html>
+    <!-- Section: Exposure -->
+    <h2 class="section-title">Ustawienia ekspozycji</h2>
+    <div class="charts-grid">
+        <div class="chart-container">
+            <div class="chart-title">Rozkład przysłony</div>
+            <canvas id="apertureChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Rozkład ISO</div>
+            <canvas id="isoChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Trend ISO w czasie (mediana na rok)</div>
+            <canvas id="isoTrendChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Rozkład czasu ekspozycji</div>
+            <canvas id="exposureChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Section: Shooting Patterns -->
+    <h2 class="section-title">Wzorce fotografowania</h2>
+    <div class="charts-grid">
+        <div class="chart-container">
+            <div class="chart-title">Pora dnia</div>
+            <canvas id="hourChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Dzień tygodnia</div>
+            <canvas id="dayOfWeekChart"></canvas>
+        </div>
+        <div class="chart-container full-width tall">
+            <div class="chart-title">Pora dnia × miesiąc</div>
+            <canvas id="hourMonthChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Interwały między zdjęciami</div>
+            <canvas id="intervalChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Liczba zdjęć na wycieczkę</div>
+            <canvas id="photosPerTripChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Section: Geography & Topics -->
+    <h2 class="section-title">Teren i tematyka</h2>
+    <div class="charts-grid">
+        <div class="chart-container">
+            <div class="chart-title">Rozkład wysokości n.p.m.</div>
+            <canvas id="altitudeChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Top 20 tagów</div>
+            <canvas id="tagsChart"></canvas>
+        </div>
+    </div>
+</div>
+
+<script src="/js/self/exif_stats.js"></script>

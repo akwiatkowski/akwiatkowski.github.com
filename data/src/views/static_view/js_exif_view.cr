@@ -6,8 +6,12 @@ module StaticView
       super(context: context, url: @url)
     end
 
+    def page_css : Array(String)
+      ["exif_stats"]
+    end
+
     def add_to_sitemap?
-      false # TODO: integrate it later when frontend is ready
+      true
     end
 
     def content

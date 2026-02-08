@@ -1,0 +1,270 @@
+/* EXIF Stats Dashboard - Page-specific CSS */
+/* Scoped under .exif-page to avoid conflicts with site layout (Bootstrap) */
+
+:root {
+    --es-bg: #f5f5f5;
+    --es-surface: #ffffff;
+    --es-text: #1f2121;
+    --es-text2: #626c7c;
+    --es-primary: #208081;
+    --es-primary-hover: #1a7477;
+    --es-border: #e0e0e0;
+    --es-success: #22c55e;
+    --es-warning: #f59e0b;
+    --es-error: #ef4444;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --es-bg: #1f2121;
+        --es-surface: #2a2d2d;
+        --es-text: #f5f5f5;
+        --es-text2: #a0a7b0;
+        --es-border: #404040;
+    }
+}
+
+.exif-page {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 24px;
+    color: var(--es-text);
+    background: var(--es-bg);
+}
+
+.exif-page header {
+    margin-bottom: 32px;
+    border-bottom: 2px solid var(--es-border);
+    padding-bottom: 16px;
+}
+
+.exif-page h1 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.exif-page .header-subtitle {
+    font-size: 14px;
+    color: var(--es-text2);
+}
+
+/* Controls */
+
+.exif-page .controls {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 24px;
+    align-items: center;
+}
+
+.exif-page .control-group {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.exif-page label {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--es-text2);
+}
+
+.exif-page select,
+.exif-page input[type="number"] {
+    padding: 8px 12px;
+    border: 1px solid var(--es-border);
+    border-radius: 6px;
+    background: var(--es-surface);
+    color: var(--es-text);
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.exif-page button {
+    padding: 10px 16px;
+    background: var(--es-primary);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 200ms;
+}
+
+.exif-page button:hover {
+    background: var(--es-primary-hover);
+}
+
+.exif-page button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Progress */
+
+.exif-page .es-progress {
+    margin-bottom: 24px;
+    display: none;
+}
+
+.exif-page .es-progress.visible {
+    display: block;
+}
+
+.exif-page .es-progress-bar {
+    width: 100%;
+    height: 8px;
+    background: var(--es-border);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.exif-page .es-progress-fill {
+    height: 100%;
+    background: var(--es-primary);
+    transition: width 200ms;
+}
+
+.exif-page .es-progress-text {
+    font-size: 12px;
+    color: var(--es-text2);
+    margin-top: 8px;
+}
+
+/* Stat cards */
+
+.exif-page .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+    margin-bottom: 32px;
+}
+
+.exif-page .stat-card {
+    background: var(--es-surface);
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid var(--es-border);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.exif-page .stat-label {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--es-text2);
+    margin-bottom: 8px;
+    letter-spacing: 0.5px;
+}
+
+.exif-page .stat-value {
+    font-size: 32px;
+    font-weight: 600;
+    color: var(--es-primary);
+    margin-bottom: 4px;
+}
+
+.exif-page .stat-detail {
+    font-size: 13px;
+    color: var(--es-text2);
+}
+
+/* Charts */
+
+.exif-page .charts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    gap: 24px;
+    margin-bottom: 8px;
+}
+
+.exif-page .chart-container {
+    background: var(--es-surface);
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid var(--es-border);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.exif-page .chart-container.full-width {
+    grid-column: 1 / -1;
+}
+
+.exif-page .chart-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: var(--es-text);
+}
+
+.exif-page canvas {
+    max-height: 400px;
+}
+
+.exif-page .chart-container.tall canvas {
+    max-height: 600px;
+}
+
+/* Section headings */
+
+.exif-page .section-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--es-text);
+    margin: 40px 0 20px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--es-border);
+}
+
+/* Status indicators */
+
+.exif-page .mock-indicator {
+    background: var(--es-warning);
+    color: white;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.exif-page .error-message {
+    background: var(--es-error);
+    color: white;
+    padding: 12px 16px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    display: none;
+}
+
+.exif-page .error-message.visible {
+    display: block;
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+    .exif-page {
+        padding: 16px;
+    }
+
+    .exif-page h1 {
+        font-size: 20px;
+    }
+
+    .exif-page .charts-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .exif-page .controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .exif-page .control-group {
+        flex-direction: column;
+    }
+}
