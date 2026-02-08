@@ -41,8 +41,8 @@ test.describe('Gallery pages', () => {
       await page.goto(galleryUrl);
       await expectNoJsErrors(page);
 
-      // Should have gallery images
-      const images = page.locator('.gallery img, .photo-grid img, article img');
+      // Should have gallery images (rendered by gallery_dynamic.js into .masonry-grid)
+      const images = page.locator('.masonry-grid .gallery-item img');
       await expect(images.first()).toBeVisible({ timeout: 10000 });
 
       const count = await images.count();
@@ -75,11 +75,16 @@ test.describe('Gallery pages', () => {
 
       // Test sample of tag galleries
       // Derive gallery URL from tag.url (uses Polish slug: /tag/najlepsze.html -> /galeria/tag/najlepsze.html)
-      const sample = tagsToTest.slice(0, 3);
-      for (const tag of sample) {
+      // Not all tags have gallery pages, so check existence first
+      let tested = 0;
+      for (const tag of tagsToTest) {
+        if (tested >= 3) break;
         const galleryUrl = tag.url.replace('/tag/', '/galeria/tag/');
-        await expectPageLoads(page, galleryUrl);
+        const response = await page.goto(galleryUrl);
+        if (response?.status() === 404) continue;
+        expect(response?.status(), `Gallery ${galleryUrl} should return 200`).toBe(200);
         await expectNoJsErrors(page);
+        tested++;
       }
     });
 

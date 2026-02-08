@@ -35,10 +35,10 @@ const AREA_TYPES = [
   },
   {
     name: 'MacroRegion',
-    url: '/wpisy-dla/obszaru/pojezierze_chelminskodobrzynskie.html',
+    url: '/wpisy-dla/obszaru/pojezierze_chelminsko-dobrzynskie.html',
     filterBy: 'macro_region',
     jsonField: 'macro_region_slugs',
-    slug: 'pojezierze_chelminskodobrzynskie',
+    slug: 'pojezierze_chelminsko-dobrzynskie',
   },
 ];
 
