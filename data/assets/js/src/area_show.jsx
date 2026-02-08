@@ -3,32 +3,7 @@
 
 const { useState, useEffect, useRef } = React;
 
-// ==================== AREA CONFIG ====================
-const AREA_CONFIG = JSON.parse(document.getElementById('area-config').textContent);
-
-// ==================== DATA LOADING ====================
-// Route colors loaded from /js/self/route_colors.js (generated from data/config/route_colors.yml)
-
-function loadAreaData(areaConfig) {
-    var inlineData = JSON.parse(document.getElementById('area-data').textContent);
-
-    var posts = inlineData.posts.sort((a, b) => new Date(b.date) - new Date(a.date));
-    var photos = inlineData.photos;
-    var relatedAreas = inlineData.related_areas || [];
-
-    // Preserve tag→route association for coloring
-    var routes = posts.flatMap(post => {
-        var style = window.getRouteStyle(post.tags);
-        return (post.coords || []).map(coord => coord.route)
-            .filter(route => route && route.length > 0)
-            .map(route => ({ points: route, style }));
-    });
-
-    var stats = calculateStats(posts, photos);
-
-    return { posts, photos, routes, stats, relatedAreas };
-}
-
+// ==================== STATS ====================
 function calculateStats(posts, photos) {
     const bicyclePosts = posts.filter(p => p.tags?.includes('bicycle'));
     const hikePosts = posts.filter(p => p.tags?.includes('hike'));
@@ -52,6 +27,27 @@ function calculateStats(posts, photos) {
         lastYear
     };
 }
+
+// ==================== AREA DATA ====================
+// All data is inline in the HTML — no fetches needed
+const AREA_DATA = (function() {
+    var d = JSON.parse(document.getElementById('area-data').textContent);
+
+    d.posts = d.posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+    d.relatedAreas = d.related_areas || [];
+
+    // Preserve tag→route association for coloring
+    d.routes = d.posts.flatMap(post => {
+        var style = window.getRouteStyle(post.tags);
+        return (post.coords || []).map(coord => coord.route)
+            .filter(route => route && route.length > 0)
+            .map(route => ({ points: route, style }));
+    });
+
+    d.stats = calculateStats(d.posts, d.photos);
+
+    return d;
+})();
 
 // ==================== UTILITIES ====================
 function formatDate(dateStr) {
@@ -103,53 +99,46 @@ function initLeafletMap(container, area, options = {}) {
         }
     });
 
-    const polygonUrl = `/polygons/${area.areaType}s/${area.slug}.json`;
-    fetch(polygonUrl)
-        .then(response => {
-            if (!response.ok) throw new Error('Polygon not found');
-            return response.json();
-        })
-        .then(geojson => {
-            const areaCoords = geojson.geometry.coordinates[0];
-            const worldBounds = [
-                [-90, -180], [-90, 180], [90, 180], [90, -180], [-90, -180]
-            ];
-            const areaLatLngs = areaCoords.map(coord => [coord[1], coord[0]]);
+    // Use inline polygon data if available, fall back to bbox rectangle
+    const geojson = area.polygon;
+    if (geojson && geojson.geometry) {
+        const areaCoords = geojson.geometry.coordinates[0];
+        const worldBounds = [
+            [-90, -180], [-90, 180], [90, 180], [90, -180], [-90, -180]
+        ];
+        const areaLatLngs = areaCoords.map(coord => [coord[1], coord[0]]);
 
-            L.polygon([worldBounds, areaLatLngs], {
-                color: 'none',
-                fillColor: '#000',
-                fillOpacity: 0.4,
-                interactive: false
-            }).addTo(map);
+        L.polygon([worldBounds, areaLatLngs], {
+            color: 'none',
+            fillColor: '#000',
+            fillOpacity: 0.4,
+            interactive: false
+        }).addTo(map);
 
-            const polygonLayer = L.geoJSON(geojson, {
-                style: {
-                    color: '#21808d',
-                    weight: 2,
-                    fill: false,
-                    dashArray: '10, 10',
-                    opacity: 0.9
-                }
-            }).addTo(map);
-
-            map.fitBounds(polygonLayer.getBounds(), { padding: [50, 50] });
-
-            if (options.onReady) options.onReady();
-        })
-        .catch(() => {
-            L.rectangle([
-                [bbox.south, bbox.west],
-                [bbox.north, bbox.east]
-            ], {
+        const polygonLayer = L.geoJSON(geojson, {
+            style: {
                 color: '#21808d',
                 weight: 2,
                 fill: false,
-                dashArray: '10, 10'
-            }).addTo(map);
+                dashArray: '10, 10',
+                opacity: 0.9
+            }
+        }).addTo(map);
 
-            if (options.onReady) options.onReady();
-        });
+        map.fitBounds(polygonLayer.getBounds(), { padding: [50, 50] });
+    } else {
+        L.rectangle([
+            [bbox.south, bbox.west],
+            [bbox.north, bbox.east]
+        ], {
+            color: '#21808d',
+            weight: 2,
+            fill: false,
+            dashArray: '10, 10'
+        }).addTo(map);
+    }
+
+    if (options.onReady) options.onReady();
 
     return map;
 }
@@ -381,10 +370,7 @@ function RelatedAreasSection({ relatedAreas }) {
 // ==================== MAIN APP ====================
 function AreaShowPage() {
     const [scrollProgress, setScrollProgress] = useState(0);
-    const [areaData] = useState(() => {
-        var data = loadAreaData(AREA_CONFIG);
-        return { ...AREA_CONFIG, ...data };
-    });
+    const areaData = AREA_DATA;
 
     useEffect(() => {
         const handleScroll = () => {

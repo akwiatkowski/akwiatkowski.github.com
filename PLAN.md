@@ -265,6 +265,13 @@ The new more page only has 5 links. The old `more.md` had 14 links. Evaluate add
 - Explore better ways to render post stats (distance, time, temperature)
 - Consider inline badges, sidebar summary, or expandable section
 
+**Link Preview / Social Share Meta Tags:**
+Current state for area show pages (and likely other pages):
+- **Present:** `og:title`, `og:url`, `og:site_name`, `og:image` (with type/width/height), `<title>`
+- **Missing:** `og:description` (blank on Facebook/Slack/Discord), `og:type` (should be `"website"`), `twitter:card` (`summary_large_image`), `twitter:title/description/image`, `meta name="description"` (search engine snippets)
+- **Source files:** `data/src/views/helpers/seo_helper.cr` (text meta), `data/src/views/base_view.cr` (`open_graph_html`), `data/layout/include/open_graph_image.html` (image meta)
+- Area pages could auto-generate descriptions like "Grudziądz — 12 wypraw, 340km, 185 zdjęć" from inline stats
+
 ---
 
 ## Current Bundle Sizes

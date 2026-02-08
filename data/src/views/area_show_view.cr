@@ -49,56 +49,53 @@ class AreaShowView < PageView
 
   def inner_html
     data = Hash(String, String).new
-
-    # Basic area info
-    data["slug"] = @area.slug
-    data["name"] = @area.name
-    data["area_type"] = @area.area_type.polygon_dir.chomp("s") # "town", "county", etc.
-    data["area_type_label"] = @area.area_type.polish_name
-    data["area_field"] = @area.area_type.payload_field
-
-    # Parent area info
-    parent_info = get_parent_info
-    data["parent_name"] = parent_info[:name]
-    data["parent_url"] = parent_info[:url]
-
-    # Voivodeship info
-    voivodeship_info = get_voivodeship_info
-    data["voivodeship_name"] = voivodeship_info[:name]
-    data["voivodeship_url"] = voivodeship_info[:url]
-
-    # URLs for navigation links
-    data["post_list_url"] = context.router.area_post_list_url(@area)
-    data["gallery_url"] = context.router.area_gallery_url(@area)
-
-    # Best photo for hero background
-    data["best_photo_url"] = @best_photo ? @best_photo.not_nil!.article_image_src : ""
-
-    # Bounding box
-    if bbox = @area.bbox
-      data["bbox_south"] = bbox.south.to_s
-      data["bbox_north"] = bbox.north.to_s
-      data["bbox_west"] = bbox.west.to_s
-      data["bbox_east"] = bbox.east.to_s
-    else
-      # Default to Poland's approximate center if no bbox
-      data["bbox_south"] = "51.0"
-      data["bbox_north"] = "52.0"
-      data["bbox_west"] = "17.0"
-      data["bbox_east"] = "18.0"
-    end
-
-    # Inline area data (posts + photos) as JSON for instant page load
-    data["area_data_json"] = generate_area_data_json
-
+    data["area_data"] = generate_unified_json
     load_html("area/show", data)
   end
 
-  private def generate_area_data_json : String
+  private def generate_unified_json : String
+    parent_info = get_parent_info
+    voivodeship_info = get_voivodeship_info
     photos = collect_area_photos
+    bbox = @area.bbox
 
     JSON.build do |json|
       json.object do
+        # Config (was area-config)
+        json.field("slug", @area.slug)
+        json.field("name", @area.name)
+        json.field("areaType", @area.area_type.polygon_dir.chomp("s"))
+        json.field("areaTypeLabel", @area.area_type.polish_name)
+        json.field("parentName", parent_info[:name])
+        json.field("parentUrl", parent_info[:url])
+        json.field("voivodeshipName", voivodeship_info[:name])
+        json.field("voivodeshipUrl", voivodeship_info[:url])
+        json.field("postListUrl", context.router.area_post_list_url(@area))
+        json.field("galleryUrl", context.router.area_gallery_url(@area))
+        json.field("bestPhotoUrl", @best_photo ? @best_photo.not_nil!.article_image_src : "")
+        json.field "bbox" do
+          json.object do
+            if bbox
+              json.field("south", bbox.south)
+              json.field("north", bbox.north)
+              json.field("west", bbox.west)
+              json.field("east", bbox.east)
+            else
+              json.field("south", 51.0)
+              json.field("north", 52.0)
+              json.field("west", 17.0)
+              json.field("east", 18.0)
+            end
+          end
+        end
+
+        # Polygon (raw GeoJSON from pre-generated file)
+        polygon_path = File.join("data/config/polygons", @area.area_type.polygon_dir, "#{@area.slug}.json")
+        if File.exists?(polygon_path)
+          json.field("polygon") { json.raw File.read(polygon_path) }
+        end
+
+        # Posts
         json.field "posts" do
           json.array do
             @posts.each do |post|
@@ -116,6 +113,8 @@ class AreaShowView < PageView
             end
           end
         end
+
+        # Photos
         json.field "photos" do
           json.array do
             photos.each do |photo|
@@ -129,6 +128,8 @@ class AreaShowView < PageView
             end
           end
         end
+
+        # Related areas
         json.field "related_areas" do
           json.array do
             find_related_areas.each do |ra|

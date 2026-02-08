@@ -492,28 +492,6 @@
     }
 </style>
 
-<script id="area-config" type="application/json">
-{
-    "slug": "{{ slug }}",
-    "name": "{{ name }}",
-    "areaType": "{{ area_type }}",
-    "areaTypeLabel": "{{ area_type_label }}",
-    "areaField": "{{ area_field }}",
-    "parentName": "{{ parent_name }}",
-    "parentUrl": "{{ parent_url }}",
-    "voivodeshipName": "{{ voivodeship_name }}",
-    "voivodeshipUrl": "{{ voivodeship_url }}",
-    "postListUrl": "{{ post_list_url }}",
-    "galleryUrl": "{{ gallery_url }}",
-    "bestPhotoUrl": "{{ best_photo_url }}",
-    "bbox": {
-        "south": {{ bbox_south }},
-        "north": {{ bbox_north }},
-        "west": {{ bbox_west }},
-        "east": {{ bbox_east }}
-    }
-}
-</script>
-<script id="area-data" type="application/json">{{ area_data_json }}</script>
+<script id="area-data" type="application/json">{{ area_data }}</script>
 <div id="root"></div>
 <script src="/js/self/area_show.js"></script>

@@ -137,20 +137,22 @@ describe "SpatialIndex Benchmark" do
 
     speedup = linear_elapsed.total_milliseconds / spatial_elapsed.total_milliseconds
 
-    puts ""
-    puts "  ┌─────────────────────────────────────────────────────┐"
-    puts "  │ SpatialIndex Benchmark Results                      │"
-    puts "  ├─────────────────────────────────────────────────────┤"
-    puts "  │ Photos: #{photo_count.to_s.rjust(10)}                             │"
-    puts "  │ Grid cells: #{cells.size.to_s.rjust(7)}                             │"
-    puts "  │ Comparisons (linear): #{(photo_count.to_i64 * cells.size).to_s.rjust(12)}           │"
-    puts "  │                                                     │"
-    puts "  │ Linear scan:    #{linear_elapsed.total_milliseconds.round(2).to_s.rjust(8)} ms                      │"
-    puts "  │ Spatial index:  #{spatial_elapsed.total_milliseconds.round(2).to_s.rjust(8)} ms                      │"
-    puts "  │ Speedup:        #{speedup.round(1).to_s.rjust(8)}x                      │"
-    puts "  │ Found photos:   #{total_linear.to_s.rjust(8)}                        │"
-    puts "  └─────────────────────────────────────────────────────┘"
-    puts ""
+    if ENV["BENCH"]?
+      puts ""
+      puts "  ┌─────────────────────────────────────────────────────┐"
+      puts "  │ SpatialIndex Benchmark Results                      │"
+      puts "  ├─────────────────────────────────────────────────────┤"
+      puts "  │ Photos: #{photo_count.to_s.rjust(10)}                             │"
+      puts "  │ Grid cells: #{cells.size.to_s.rjust(7)}                             │"
+      puts "  │ Comparisons (linear): #{(photo_count.to_i64 * cells.size).to_s.rjust(12)}           │"
+      puts "  │                                                     │"
+      puts "  │ Linear scan:    #{linear_elapsed.total_milliseconds.round(2).to_s.rjust(8)} ms                      │"
+      puts "  │ Spatial index:  #{spatial_elapsed.total_milliseconds.round(2).to_s.rjust(8)} ms                      │"
+      puts "  │ Speedup:        #{speedup.round(1).to_s.rjust(8)}x                      │"
+      puts "  │ Found photos:   #{total_linear.to_s.rjust(8)}                        │"
+      puts "  └─────────────────────────────────────────────────────┘"
+      puts ""
+    end
 
     # Spatial index should be at least 5x faster for this workload
     speedup.should be > 5.0
@@ -198,21 +200,23 @@ describe "SpatialIndex Benchmark" do
     spatial_total_est = spatial_per_cell * fine_cells.size / 1000.0
     speedup = linear_per_cell / spatial_per_cell
 
-    puts ""
-    puts "  ┌─────────────────────────────────────────────────────┐"
-    puts "  │ Fine Grid Benchmark (zoom 10, photo_size=50)        │"
-    puts "  ├─────────────────────────────────────────────────────┤"
-    puts "  │ Photos: #{photo_count.to_s.rjust(10)}                             │"
-    puts "  │ Grid cells: #{fine_cells.size.to_s.rjust(7)}                             │"
-    puts "  │                                                     │"
-    puts "  │ Per cell (linear):  #{linear_per_cell.round(2).to_s.rjust(8)} µs                   │"
-    puts "  │ Per cell (spatial): #{spatial_per_cell.round(2).to_s.rjust(8)} µs                   │"
-    puts "  │ Speedup:            #{speedup.round(1).to_s.rjust(8)}x                   │"
-    puts "  │                                                     │"
-    puts "  │ Est. total (linear):  #{linear_total_est.round(1).to_s.rjust(8)} ms                 │"
-    puts "  │ Est. total (spatial): #{spatial_total_est.round(1).to_s.rjust(8)} ms                 │"
-    puts "  └─────────────────────────────────────────────────────┘"
-    puts ""
+    if ENV["BENCH"]?
+      puts ""
+      puts "  ┌─────────────────────────────────────────────────────┐"
+      puts "  │ Fine Grid Benchmark (zoom 10, photo_size=50)        │"
+      puts "  ├─────────────────────────────────────────────────────┤"
+      puts "  │ Photos: #{photo_count.to_s.rjust(10)}                             │"
+      puts "  │ Grid cells: #{fine_cells.size.to_s.rjust(7)}                             │"
+      puts "  │                                                     │"
+      puts "  │ Per cell (linear):  #{linear_per_cell.round(2).to_s.rjust(8)} µs                   │"
+      puts "  │ Per cell (spatial): #{spatial_per_cell.round(2).to_s.rjust(8)} µs                   │"
+      puts "  │ Speedup:            #{speedup.round(1).to_s.rjust(8)}x                   │"
+      puts "  │                                                     │"
+      puts "  │ Est. total (linear):  #{linear_total_est.round(1).to_s.rjust(8)} ms                 │"
+      puts "  │ Est. total (spatial): #{spatial_total_est.round(1).to_s.rjust(8)} ms                 │"
+      puts "  └─────────────────────────────────────────────────────┘"
+      puts ""
+    end
 
     # Fine grid should show even bigger speedup
     speedup.should be > 10.0

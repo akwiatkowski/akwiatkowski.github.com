@@ -68,13 +68,8 @@ module DouglasPeucker
 end
 
 class Commands::GeneratePolygonJson
-  # All env/target combinations to write polygons to
-  ENV_TARGETS = [
-    {"dev", "local"},
-    {"dev", "release"},
-    {"full", "local"},
-    {"full", "release"},
-  ]
+  # Output directory for polygon JSON files (read at render time by AreaShowView)
+  OUTPUT_DIR = "data/config/polygons"
 
   # Envs to scan for visited areas (cache lookup)
   CACHE_ENVS = ["dev", "full"]
@@ -108,13 +103,12 @@ class Commands::GeneratePolygonJson
       puts "  #{type}: #{count} unique areas"
     end
 
-    # Generate polygon GeoJSON (once, then write to all env/targets)
+    # Generate polygon GeoJSON and write to data/config/polygons/
     puts "\n=== Generating polygon GeoJSON ==="
     polygons = generate_polygons(visited_areas)
 
-    # Write to all env/target combinations
-    puts "\n=== Writing to all environments ==="
-    write_polygons_to_all_envs(polygons)
+    puts "\n=== Writing to #{OUTPUT_DIR} ==="
+    write_polygons(polygons)
 
     @matcher.finalize
     puts "\nDone!"
@@ -196,34 +190,30 @@ class Commands::GeneratePolygonJson
     result
   end
 
-  # Write all polygons to all env/target combinations
-  private def write_polygons_to_all_envs(polygons : Hash(String, Hash(String, String)))
-    ENV_TARGETS.each do |(env, target)|
-      base_output_dir = File.join(["env", env, "public", target, "polygons"])
+  # Write all polygons to data/config/polygons/
+  private def write_polygons(polygons : Hash(String, Hash(String, String)))
+    written = 0
+    skipped = 0
 
-      written = 0
-      skipped = 0
+    polygons.each do |type_name, type_polygons|
+      output_dir = File.join([OUTPUT_DIR, type_name])
+      Dir.mkdir_p(output_dir) unless Dir.exists?(output_dir)
 
-      polygons.each do |type_name, type_polygons|
-        output_dir = File.join([base_output_dir, type_name])
-        Dir.mkdir_p(output_dir) unless Dir.exists?(output_dir)
+      type_polygons.each do |slug, geojson|
+        output_path = File.join([output_dir, "#{slug}.json"])
 
-        type_polygons.each do |slug, geojson|
-          output_path = File.join([output_dir, "#{slug}.json"])
-
-          # Skip if exists and not forcing
-          if !@force && File.exists?(output_path)
-            skipped += 1
-            next
-          end
-
-          File.write(output_path, geojson)
-          written += 1
+        # Skip if exists and not forcing
+        if !@force && File.exists?(output_path)
+          skipped += 1
+          next
         end
-      end
 
-      puts "  #{env}/#{target}: #{written} written, #{skipped} skipped"
+        File.write(output_path, geojson)
+        written += 1
+      end
     end
+
+    puts "  #{written} written, #{skipped} skipped"
   end
 
   # Get areas array by type
