@@ -1,11 +1,11 @@
 # Current Work
 
-## Status: Cleanup complete (Phases 25-29 done)
+## Status: Cleanup complete (Phases 25-30 done)
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8-9, 11-29, Photo Planner)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8-9, 11-30, Photo Planner)
 
 ---
 
@@ -158,6 +158,15 @@ See PLAN_DONE.md.
 
 ---
 
+## Phase 30: Duplicate Area Slug Disambiguation ✅ COMPLETE (commit `3557d08a`)
+
+Two-pass slug disambiguation in GenerateAreasForPosts: Pass 1 appends voivodeship (474 towns),
+Pass 2 appends gmina type label miejska/wiejska (329 towns) with county slug fallback (15 exception towns).
+Removed dedup workaround from AreaDataLoader and `.uniq(&.slug)` from TownsIndexView.
+12 new specs. See PLAN_DONE.md.
+
+---
+
 ## Backlog
 
 ### Future Ideas
@@ -229,7 +238,7 @@ Current state for area show pages (and likely other pages):
 
 ## Test Status
 
-**533 Crystal tests passing, 161 E2E tests passing**
+**545 Crystal tests passing, 169 E2E tests passing**
 
 ### E2E Tests (Playwright)
 
@@ -248,7 +257,7 @@ Infrastructure in `tests/e2e/`:
 - `specs/area-filtering.spec.js` - Area post list filtering
 - `specs/area-show.spec.js` - Area show pages (photos, JSON, no JS errors)
 
-**Latest Results: 161 passed, 0 failed, 5 skipped**
+**Latest Results: 169 passed, 0 failed, 2 skipped**
 
 **Run E2E tests:**
 ```bash

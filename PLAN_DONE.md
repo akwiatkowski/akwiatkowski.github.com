@@ -1349,4 +1349,54 @@ Constructors moved from base tremolite files to custom files. The `process` meth
 
 ---
 
+## Phase 30: Duplicate Area Slug Disambiguation ✅ COMPLETE
+
+**Commit `3557d08a`** (2026-02-09)
+
+### Goal
+Fix ~180 towns and ~10 counties with duplicate slugs being silently dropped by `AreaDataLoader`. Towns like "Wasosz" exist in multiple voivodeships with the same slug — only the first was kept.
+
+### Architecture: Two-Pass Disambiguation
+
+Added `disambiguate_slugs!` to `GenerateAreasForPosts`, called at start of `run` before any output. Mutates `AreaMatcher::Area.slug` in-place so all downstream outputs automatically get unique slugs.
+
+**Pass 1: Voivodeship** — Cross-voivodeship collisions get `-voivodeship` suffix.
+- `wasosz` → `wasosz-dolnoslaskie`, `wasosz-podlaskie`
+- 474 towns, 20 counties affected
+
+**Pass 2: Gmina type label** — Same-voivodeship collisions (urban/rural pairs) get type suffix:
+- TERC type 1 → `-miejska` (urban)
+- TERC type 2 → `-wiejska` (rural)
+- TERC type 3 → `-miejsko-wiejska` (urban-rural)
+- Fallback: county slug for 7 exception groups where type digits collide (e.g., 3 rural gminas named "Czarna" in podkarpackie)
+- 329 towns affected
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/commands/pipeline/generate_areas_for_posts.cr` | Added `TERC_TYPE_LABELS`, two-pass `disambiguate_slugs!`, `county_slug_for_terc` |
+| `data/src/services/area_data_loader.cr` | Removed `seen_slugs` dedup workaround |
+| `data/src/views/model_view/towns_index_view.cr` | Removed `.uniq(&.slug)` |
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `spec/commands/disambiguate_slugs_spec.cr` | 12 tests (9 unit + 3 integration) |
+
+### Regenerated Pipeline Data
+
+- `data/config/areas/towns.yml` — 2477 entries, 0 duplicates
+- `data/config/areas/counties.yml` — 380 entries, 0 duplicates
+- `data/config/polygons/` — 1630 polygon files with disambiguated slugs
+- `env/*/cache/areas_for_post/` — Per-post area YAML
+- `env/*/cache/photos_in_area/` — Photo area cache
+
+### Test Results
+
+**545 Crystal tests passing** (+12 new), 169 E2E tests passing
+
+---
+
 *Last updated: 2026-02-09*
