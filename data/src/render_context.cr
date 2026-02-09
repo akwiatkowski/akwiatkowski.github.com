@@ -296,12 +296,18 @@ class RenderContext
 
   # Get slugs of towns visited in self-propelled trips
   def visited_town_slugs_selfpropelled : Array(String)
-    config.visited_town_slugs_selfpropelled(posts)
+    slugs = Set(String).new
+    posts.each do |post|
+      next unless post.self_propelled?
+      post.town_slugs.each { |slug| slugs << slug }
+    end
+    slugs.to_a.sort
   end
 
   # Get AreaEntity towns that have been visited in self-propelled trips
   def visited_town_areas_selfpropelled : Array(AreaEntity)
-    config.visited_town_areas_selfpropelled(posts)
+    slugs = visited_town_slugs_selfpropelled
+    areas_of_type(AreaType::Town).select { |area| slugs.includes?(area.slug) }
   end
 
   # ============================================

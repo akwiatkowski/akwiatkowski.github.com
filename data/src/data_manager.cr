@@ -109,24 +109,6 @@ class Tremolite::DataManager
     end
   end
 
-  # Get slugs of towns visited in self-propelled trips
-  def visited_town_slugs_selfpropelled(posts : Array(Tremolite::Post)) : Array(String)
-    slugs = Set(String).new
-    posts.each do |post|
-      next unless post.self_propelled?
-      post.town_slugs.each { |slug| slugs << slug }
-    end
-    slugs.to_a.sort
-  end
-
-  # Get AreaEntity towns that have been visited in self-propelled trips
-  def visited_town_areas_selfpropelled(posts : Array(Tremolite::Post)) : Array(AreaEntity)
-    slugs = visited_town_slugs_selfpropelled(posts)
-    @area_data_loader.not_nil!.areas_of_type(AreaType::Town).select do |area|
-      slugs.includes?(area.slug)
-    end
-  end
-
   @[Profile(category: "yaml")]
   def load_tags
     Log.debug { "loading tags" }
