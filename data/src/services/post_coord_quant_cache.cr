@@ -75,10 +75,6 @@ class PostCoordQuantCache
     return @cache[slug_name]?
   end
 
-  private def exif_db
-    @blog.data_manager.exif_db
-  end
-
   private def save_cache
     Log.debug { "save_cache" }
 

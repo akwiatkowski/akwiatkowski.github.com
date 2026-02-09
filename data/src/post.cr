@@ -6,7 +6,6 @@ require "./post/accessors"
 require "./post/initializers"
 require "./post/photos"
 require "./post/related_posts"
-require "./post/related_by_distance"
 require "./post/areas"
 
 class Tremolite::Post

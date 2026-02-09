@@ -5,11 +5,4 @@ class Tremolite::PostCollection
     end
   end
 
-  def ensure_posts_have_assigned_lands
-    posts.each do |post|
-      puts post.slug
-      puts post.lands
-      puts "-"
-    end
-  end
 end

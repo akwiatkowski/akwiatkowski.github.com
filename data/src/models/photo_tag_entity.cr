@@ -16,6 +16,9 @@ struct PhotoTagEntity
     @points = y["points"].as_i
   end
 
+  def initialize(@slug : String, @slug_pl : String, @title : String, @points : Int32, @subtitle : String? = nil)
+  end
+
   def view_url
     "/galeria/tag/#{@slug_pl}.html"
   end

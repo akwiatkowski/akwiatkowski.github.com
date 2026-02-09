@@ -106,6 +106,6 @@ struct VoivodeshipEntity
   end
 
   def belongs_to_post?(post : Tremolite::Post)
-    post.voivodeships.not_nil!.includes?(@slug)
+    post.towns.not_nil!.includes?(@slug)
   end
 end

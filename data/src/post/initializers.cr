@@ -83,18 +83,6 @@ class Tremolite::Post
     end
   end
 
-  # def voivodeships_initialize
-  #   @voivodeships = Array(String).new
-  # end
-  #
-  # def voivodeships_from_headers
-  #   if @header["towns"]?
-  #     @header["towns"].as_a.each do |town|
-  #       @towns.not_nil! << town.to_s
-  #     end
-  #   end
-  # end
-
   def lands_initialize
     @lands = Array(String).new
   end

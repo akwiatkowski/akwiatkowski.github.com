@@ -101,9 +101,13 @@ struct PhotoEntity
 
   property :exif
 
+  # Post-free constructor: accepts post fields directly for testability
   def initialize(
     photo_tags : Array(PhotoTagEntity),
-    post : Tremolite::Post,
+    @post_slug : String,
+    @post_url : String,
+    @post_time : Time,
+    post_title : String,
     @image_filename : String,
     @param_string,
     desc = nil,
@@ -114,6 +118,8 @@ struct PhotoEntity
     @is_published = false,
     @tags = Array(String).new,
   )
+    @post_title = post_title
+
     # nameless entities are uploaded not added in post content
     if desc.nil?
       @desc = @image_filename
@@ -125,12 +131,6 @@ struct PhotoEntity
 
     update_from_param_string
 
-    # copy data from Post to not store instance here
-    @post_url = post.url
-    @post_time = post.time.not_nil!
-    @post_title = post.title
-    @post_slug = post.slug
-
     # just optimization
     @thumbnail_image_src = processed_img_path(THUMBNAIL_PREFIX)
     @article_image_src = processed_img_path(ARTICLE_PREFIX)
@@ -140,7 +140,7 @@ struct PhotoEntity
     @full_image_src = generate_full_image_src
     @full_image_sanitized = @full_image_src.gsub(/\W/, "_").as(String)
 
-    @time = post.time
+    @time = @post_time
     @day_of_year = @time.day_of_year
     @float_of_year = @day_of_year.to_f / 365.0
 
@@ -162,6 +162,38 @@ struct PhotoEntity
 
       @points += photo_tag.points
     end
+  end
+
+  # Constructor taking a Post object (delegates to Post-free constructor)
+  def initialize(
+    photo_tags : Array(PhotoTagEntity),
+    post : Tremolite::Post,
+    image_filename : String,
+    param_string,
+    desc = nil,
+    is_gallery = true,
+    is_header = false,
+    is_timeline = false,
+    is_map = false,
+    is_published = false,
+    tags = Array(String).new,
+  )
+    initialize(
+      photo_tags: photo_tags,
+      post_slug: post.slug,
+      post_url: post.url,
+      post_time: post.time.not_nil!,
+      post_title: post.title,
+      image_filename: image_filename,
+      param_string: param_string,
+      desc: desc,
+      is_gallery: is_gallery,
+      is_header: is_header,
+      is_timeline: is_timeline,
+      is_map: is_map,
+      is_published: is_published,
+      tags: tags,
+    )
   end
 
   def mark_as_published!

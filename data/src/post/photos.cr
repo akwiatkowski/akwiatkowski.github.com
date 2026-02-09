@@ -1,5 +1,4 @@
 class Tremolite::Post
-  @head_photo_entity : (PhotoEntity | Nil)
   @all_uploaded_photo_entities : (Array(PhotoEntity) | Nil)
 
   IMAGE_FORMAT_APSC    = :apsc

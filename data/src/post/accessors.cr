@@ -20,11 +20,6 @@ class Tremolite::Post
   getter :default_suggested_map_zooms
   getter :old_url # for 301 redirects
 
-  # getter :voivodeships
-  def voivodeships
-    self.towns
-  end
-
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)
   end
@@ -102,10 +97,6 @@ class Tremolite::Post
   # For areas, use was_in_area? from post/areas.cr instead
   def was_in?(model : TagEntity) : Bool
     return model.belongs_to_post?(self)
-  end
-
-  def was_in_voivodeship(voivodeship_slug : String) : Bool
-    @towns.not_nil!.includes?(voivodeship_slug)
   end
 
   # this is not needed now because of react components
