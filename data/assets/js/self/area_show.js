@@ -2,8 +2,8 @@ const { useState, useEffect, useRef } = React;
 function calculateStats(posts, photos) {
   const bicyclePosts = posts.filter((p) => p.tags?.includes("bicycle"));
   const hikePosts = posts.filter((p) => p.tags?.includes("hike"));
-  const bicycleDistance = bicyclePosts.reduce((sum, p) => sum + (p.distace || 0), 0);
-  const hikeDistance = hikePosts.reduce((sum, p) => sum + (p.distace || 0), 0);
+  const bicycleDistance = bicyclePosts.reduce((sum, p) => sum + (p.distance || 0), 0);
+  const hikeDistance = hikePosts.reduce((sum, p) => sum + (p.distance || 0), 0);
   const totalTime = posts.reduce((sum, p) => sum + (p.time_spent || 0), 0);
   const dates = posts.map((p) => p.date).sort();
   const firstYear = dates[0] ? new Date(dates[0]).getFullYear() : null;
@@ -203,7 +203,7 @@ function PostsSection({ posts }) {
   });
   if (posts.length === 0)
     return null;
-  return /* @__PURE__ */ React.createElement("section", { className: "section" }, /* @__PURE__ */ React.createElement("h2", { className: "section-title" }, "Wyprawy"), /* @__PURE__ */ React.createElement("div", { className: "posts-list" }, displayPosts.map((post) => /* @__PURE__ */ React.createElement("a", { key: post.slug, href: post.url, className: "post-card-link" }, /* @__PURE__ */ React.createElement("div", { className: "post-card-image-wrap" }, /* @__PURE__ */ React.createElement("img", { src: post.card_image_url, alt: post.title, className: "post-card-image", loading: "lazy" })), /* @__PURE__ */ React.createElement("div", { className: "post-card-content" }, /* @__PURE__ */ React.createElement("div", { className: "post-card-date" }, formatDate(post.date)), /* @__PURE__ */ React.createElement("h3", { className: "post-card-title" }, post.title), /* @__PURE__ */ React.createElement("div", { className: "post-card-stats" }, post.distace > 0 && /* @__PURE__ */ React.createElement("span", null, /* @__PURE__ */ React.createElement("i", { className: "fa fa-road" }), " ", post.distace, " km"), post.time_spent > 0 && /* @__PURE__ */ React.createElement("span", null, /* @__PURE__ */ React.createElement("i", { className: "fa fa-clock-o" }), " ", post.time_spent, "h")))))));
+  return /* @__PURE__ */ React.createElement("section", { className: "section" }, /* @__PURE__ */ React.createElement("h2", { className: "section-title" }, "Wyprawy"), /* @__PURE__ */ React.createElement("div", { className: "posts-list" }, displayPosts.map((post) => /* @__PURE__ */ React.createElement("a", { key: post.slug, href: post.url, className: "post-card-link" }, /* @__PURE__ */ React.createElement("div", { className: "post-card-image-wrap" }, /* @__PURE__ */ React.createElement("img", { src: post.card_image_url, alt: post.title, className: "post-card-image", loading: "lazy" })), /* @__PURE__ */ React.createElement("div", { className: "post-card-content" }, /* @__PURE__ */ React.createElement("div", { className: "post-card-date" }, formatDate(post.date)), /* @__PURE__ */ React.createElement("h3", { className: "post-card-title" }, post.title), /* @__PURE__ */ React.createElement("div", { className: "post-card-stats" }, post.distance > 0 && /* @__PURE__ */ React.createElement("span", null, /* @__PURE__ */ React.createElement("i", { className: "fa fa-road" }), " ", post.distance, " km"), post.time_spent > 0 && /* @__PURE__ */ React.createElement("span", null, /* @__PURE__ */ React.createElement("i", { className: "fa fa-clock-o" }), " ", post.time_spent, "h")))))));
 }
 function RelatedAreasSection({ relatedAreas }) {
   if (!relatedAreas || relatedAreas.length === 0)
