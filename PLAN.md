@@ -188,7 +188,7 @@ Several services take `@blog : Tremolite::Blog` and reach deep into it. Refactor
 | **PreloadedPostReferencedLinks** | Done | Accepts `html_buffer`, `posts_path`, `posts_ext` |
 | **NavStatsCache** | Done | Accepts `cache_path`; `refresh()` takes data params |
 | **ExifDb** | Done | Accepts `cache_path`, `data_path`, `photo_tags` |
-| **PostRenderer** | Remaining | Accesses private `@blog.@image_resizer`, chains `@blog.data_manager.exif_db` — hardest |
+| **PostRenderer** | Done | Accepts `ctx`, `image_resizer`, `exif_db` |
 
 **Stats Rendering:**
 - Explore better ways to render post stats (distance, time, temperature)
@@ -216,7 +216,7 @@ Current state for area show pages (and likely other pages):
 
 ## Test Status
 
-**530 Crystal tests passing, 161 E2E tests passing**
+**533 Crystal tests passing, 161 E2E tests passing**
 
 ### E2E Tests (Playwright)
 
