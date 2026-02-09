@@ -181,12 +181,14 @@ The new more page only has 5 links. The old `more.md` had 14 links. Evaluate add
 **Decouple Services from `@blog`:**
 Several services take `@blog : Tremolite::Blog` and reach deep into it. Refactor to accept data directly for testability:
 
-| Class | Issue | Fix |
-|-------|-------|-----|
-| **PostRenderer** | Accesses private `@blog.@image_resizer`, chains `@blog.data_manager.exif_db` | Accept `image_resizer` and `exif_db` as constructor params |
-| **NavStatsCache** | 3 deep chains to area_data_loader, tags | Pass areas/tags into `refresh()` or accept at init |
-| **PreloadedPostReferencedLinks** | Needs `html_buffer` + `post_collection` | Accept both directly in constructor |
-| **PostCoordQuantCache** | Needs `cache_path` + `post_collection` | Low priority — simple access |
+| Class | Status | Notes |
+|-------|--------|-------|
+| **PostCoordQuantCache** | Done | Accepts `cache_path` |
+| **PhotoCoordQuantCache** | Done | Accepts `cache_path`, `all_towns` |
+| **PreloadedPostReferencedLinks** | Done | Accepts `html_buffer`, `posts_path`, `posts_ext` |
+| **NavStatsCache** | Done | Accepts `cache_path`; `refresh()` takes data params |
+| **ExifDb** | Done | Accepts `cache_path`, `data_path`, `photo_tags` |
+| **PostRenderer** | Remaining | Accesses private `@blog.@image_resizer`, chains `@blog.data_manager.exif_db` — hardest |
 
 **Stats Rendering:**
 - Explore better ways to render post stats (distance, time, temperature)
@@ -214,7 +216,7 @@ Current state for area show pages (and likely other pages):
 
 ## Test Status
 
-**523 Crystal tests passing, 161 E2E tests passing**
+**530 Crystal tests passing, 161 E2E tests passing**
 
 ### E2E Tests (Playwright)
 
