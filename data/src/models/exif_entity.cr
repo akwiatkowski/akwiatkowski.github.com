@@ -73,6 +73,12 @@ struct ExifEntity
     data["img.time"] = time.to_s
     data["img.time_display"] = time ? time.not_nil!.to_s("%Y-%m-%d %H:%M:%S") : ""
     data["img.exif_string"] = exif_string
+    data["img.camera"] = camera_name.to_s
+    data["img.lens"] = lens_name.to_s
+    data["img.focal"] = focal_length ? "#{focal_length.not_nil!.to_i}mm" : ""
+    data["img.aperture"] = aperture && aperture.not_nil!.to_f > 0.1 ? "f/#{aperture}" : ""
+    data["img.exposure"] = exposure_string.to_s
+    data["img.iso"] = iso ? iso.to_s : ""
     data
   end
 

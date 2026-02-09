@@ -9,7 +9,7 @@ module GalleryView
 
     # Gallery views need gallery CSS for photo display
     def page_css : Array(String)
-      ["gallery"]
+      ["gallery", "photo-lightbox"]
     end
 
     # Gallery dynamic template uses React components

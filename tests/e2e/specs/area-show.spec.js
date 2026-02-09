@@ -12,7 +12,7 @@ const AREA_PAGES = [
   },
   {
     name: 'Town with posts',
-    url: '/gmina/grudziadz.html',
+    url: '/gmina/grudziadz-kujawsko-pomorskie-miejska.html',
     expectPhotos: true,
   },
   {

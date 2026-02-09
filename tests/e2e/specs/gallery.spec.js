@@ -49,6 +49,42 @@ test.describe('Gallery pages', () => {
       expect(count, 'Gallery should have images').toBeGreaterThan(0);
     });
 
+    test('lightbox opens, navigates, and closes', async ({ pageWithErrorTracking, payload }) => {
+      const page = pageWithErrorTracking;
+      const posts = getReadyPosts(payload).filter(p => p.photos_count > 3);
+
+      if (posts.length === 0) {
+        test.skip('No posts with enough photos');
+        return;
+      }
+
+      const post = posts[0];
+      const galleryUrl = post.url.replace(/\.html$/, '').replace(/^\//, '/galeria/') + '.html';
+
+      await page.goto(galleryUrl);
+
+      // Wait for gallery images to render
+      const items = page.locator('.masonry-grid .gallery-item');
+      await expect(items.first()).toBeVisible({ timeout: 10000 });
+
+      // Click first photo — lightbox should open
+      await items.first().click();
+      await expect(page.locator('.photo-lightbox')).toBeVisible();
+      await expect(page.locator('.photo-lightbox-counter')).toContainText('1 /');
+
+      // Navigate forward with ArrowRight
+      await page.keyboard.press('ArrowRight');
+      await expect(page.locator('.photo-lightbox-counter')).toContainText('2 /');
+
+      // Navigate back with ArrowLeft
+      await page.keyboard.press('ArrowLeft');
+      await expect(page.locator('.photo-lightbox-counter')).toContainText('1 /');
+
+      // Close with Escape
+      await page.keyboard.press('Escape');
+      await expect(page.locator('.photo-lightbox')).not.toBeVisible();
+    });
+
   });
 
   test.describe('Tag galleries', () => {

@@ -1,1 +1,137 @@
-(()=>{var{useState:s,useEffect:u,useRef:E,useCallback:r}=React,b=JSON.parse(document.getElementById("gallery-config").textContent);function w(){let[l,g]=s(null),[y,m]=s(!0),[c,v]=s(null),[a,i]=s(null),N=E(null);u(()=>{(async()=>{try{m(!0),g(b),v(null)}catch(n){v(n.message),g(null)}finally{m(!1)}})()},[]);let p=e=>{i(e)},o=r(()=>{i(null)},[]),h=r(e=>{e.stopPropagation(),a>0&&i(a-1)},[a]),x=r(e=>{e.stopPropagation(),a<l.items.length-1&&i(a+1)},[a,l]),d=r(e=>{a!==null&&(e.key==="Escape"?o():e.key==="ArrowLeft"?a>0&&i(a-1):e.key==="ArrowRight"&&a<l.items.length-1&&i(a+1))},[a,l,o]);if(u(()=>(window.addEventListener("keydown",d),()=>window.removeEventListener("keydown",d)),[d]),y)return React.createElement("div",{className:"loading"},"Loading gallery...");if(c)return React.createElement("div",{className:"error"},"Error loading gallery: ",c);if(!l||!l.items.length)return React.createElement("div",{className:"error"},"No images found in gallery");let t=a!==null?l.items[a]:null;return React.createElement("div",{className:"gallery-container",ref:N},React.createElement("div",{className:"gallery-title"},l.galleryName),React.createElement("div",{className:"masonry-grid"},l.items.map((e,n)=>React.createElement("div",{key:n,className:"gallery-item",onClick:()=>p(n),role:"button",tabIndex:0,"aria-label":`Zobacz ${e["img.alt"]}`,id:e["img.full_image_sanitized"]},React.createElement("img",{src:e["img.src"],alt:e["img.alt"],title:e["img.title"],loading:"lazy",onError:C=>{C.target.src='data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect fill="%23ddd" width="100" height="100"/%3E%3Ctext x="50" y="50" text-anchor="middle" dy=".3em" fill="%23999" font-family="sans-serif" font-size="12"%3EImage%3C/text%3E%3C/svg%3E'}}),React.createElement("div",{className:"gallery-overlay"},React.createElement("div",{className:"gallery-info"},React.createElement("div",{className:"gallery-info-title"},e["img.title"]),React.createElement("div",{className:"gallery-info-post-title hidden"},e["post.title"]),React.createElement("div",{className:"gallery-info-details"},e["img.time_display"]," \u2022 ",parseFloat(e["img.lat"]).toFixed(2),"\xB0, ",parseFloat(e["img.lon"]).toFixed(2),"\xB0"),React.createElement("div",{className:"gallery-info-exif"},e["img.exif_string"])))))),t&&React.createElement("div",{className:"modal-gallery active",onClick:o},React.createElement("div",{className:"modal-content-wrapper",onClick:e=>e.stopPropagation()},React.createElement("button",{className:"modal-close",onClick:o,"aria-label":"Close modal"},"\u2715"),a>0&&React.createElement("button",{className:"modal-nav prev",onClick:h,"aria-label":"Previous image"},"\u2039"),React.createElement("img",{src:t["img.url"],alt:t["img.alt"],className:"modal-image",onError:e=>{e.target.alt="Image failed to load"}}),React.createElement("div",{className:"modal-details"},React.createElement("h3",null,t["post.title"]),React.createElement("p",null,React.createElement("strong",null,"Date:")," ",t["img.time_display"],React.createElement("br",null),React.createElement("strong",null,"Location:")," ",parseFloat(t["img.lat"]).toFixed(4),"\xB0N, ",parseFloat(t["img.lon"]).toFixed(4),"\xB0E",React.createElement("br",null),React.createElement("strong",null,"Altitude:")," ",t["img.altitude"]," m"),React.createElement("div",{className:"modal-details-exif"},React.createElement("strong",null,"Camera:"),React.createElement("br",null),t["img.exif_string"])),a<l.items.length-1&&React.createElement("button",{className:"modal-nav next",onClick:x,"aria-label":"Next image"},"\u203A"))))}function f(){ReactDOM.render(React.createElement(w,null),document.getElementById("root"))}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",f):f();})();
+const { useState, useEffect, useRef, useCallback } = React;
+const GALLERY_CONFIG = JSON.parse(document.getElementById("gallery-config").textContent);
+function GalleryApp() {
+  var PhotoLB = window.PhotoLightbox;
+  const [galleryData, setGalleryData] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [selectedIndex, setSelectedIndex] = useState(-1);
+  const containerRef = useRef(null);
+  const isOpen = selectedIndex >= 0;
+  useEffect(() => {
+    try {
+      setGalleryData(GALLERY_CONFIG);
+      setLoading(false);
+    } catch (err) {
+      setError(err.message);
+      setLoading(false);
+    }
+  }, []);
+  const handleImageClick = (index) => {
+    setSelectedIndex(index);
+  };
+  const closeLightbox = useCallback(() => {
+    setSelectedIndex(-1);
+  }, []);
+  const goPrev = useCallback(() => {
+    setSelectedIndex(function(i) {
+      return i > 0 ? i - 1 : galleryData.items.length - 1;
+    });
+  }, [galleryData]);
+  const goNext = useCallback(() => {
+    setSelectedIndex(function(i) {
+      return i < galleryData.items.length - 1 ? i + 1 : 0;
+    });
+  }, [galleryData]);
+  useEffect(() => {
+    if (!isOpen)
+      return;
+    function handleKey(e) {
+      if (e.key === "Escape")
+        closeLightbox();
+      else if (e.key === "ArrowLeft")
+        goPrev();
+      else if (e.key === "ArrowRight")
+        goNext();
+    }
+    window.addEventListener("keydown", handleKey);
+    return () => window.removeEventListener("keydown", handleKey);
+  }, [isOpen, closeLightbox, goPrev, goNext]);
+  useEffect(() => {
+    document.body.style.overflow = isOpen ? "hidden" : "";
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [isOpen]);
+  useEffect(() => {
+    if (!galleryData)
+      return;
+    var photos = galleryData.items.map(mapToLightboxPhoto);
+    PhotoLB.preloadImages(photos);
+  }, [galleryData]);
+  if (loading) {
+    return /* @__PURE__ */ React.createElement("div", { className: "loading" }, "Loading gallery...");
+  }
+  if (error) {
+    return /* @__PURE__ */ React.createElement("div", { className: "error" }, "Error loading gallery: ", error);
+  }
+  if (!galleryData || !galleryData.items.length) {
+    return /* @__PURE__ */ React.createElement("div", { className: "error" }, "No images found in gallery");
+  }
+  var lightboxPhotos = galleryData.items.map(mapToLightboxPhoto);
+  return /* @__PURE__ */ React.createElement("div", { className: "gallery-container", ref: containerRef }, /* @__PURE__ */ React.createElement("div", { className: "gallery-title" }, galleryData.galleryName), /* @__PURE__ */ React.createElement("div", { className: "masonry-grid" }, galleryData.items.map((item, index) => /* @__PURE__ */ React.createElement(
+    "div",
+    {
+      key: index,
+      className: "gallery-item",
+      onClick: () => handleImageClick(index),
+      role: "button",
+      tabIndex: 0,
+      "aria-label": `Zobacz ${item["img.alt"]}`,
+      id: item["img.full_image_sanitized"]
+    },
+    /* @__PURE__ */ React.createElement(
+      "img",
+      {
+        src: item["img.src"],
+        alt: item["img.alt"],
+        title: item["img.title"],
+        loading: "lazy",
+        onError: (e) => {
+          e.target.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect fill="%23ddd" width="100" height="100"/%3E%3Ctext x="50" y="50" text-anchor="middle" dy=".3em" fill="%23999" font-family="sans-serif" font-size="12"%3EImage%3C/text%3E%3C/svg%3E';
+        }
+      }
+    ),
+    /* @__PURE__ */ React.createElement("div", { className: "gallery-overlay" }, /* @__PURE__ */ React.createElement("div", { className: "gallery-info" }, /* @__PURE__ */ React.createElement("div", { className: "gallery-info-title" }, item["img.title"]), /* @__PURE__ */ React.createElement("div", { className: "gallery-info-post-title hidden" }, item["post.title"]), /* @__PURE__ */ React.createElement("div", { className: "gallery-info-details" }, item["img.time_display"], " \u2022 ", parseFloat(item["img.lat"]).toFixed(2), "\xB0, ", parseFloat(item["img.lon"]).toFixed(2), "\xB0"), /* @__PURE__ */ React.createElement("div", { className: "gallery-info-exif" }, item["img.exif_string"])))
+  ))), isOpen && /* @__PURE__ */ React.createElement(
+    PhotoLB.Lightbox,
+    {
+      photos: lightboxPhotos,
+      index: selectedIndex,
+      onClose: closeLightbox,
+      onPrev: goPrev,
+      onNext: goNext
+    }
+  ));
+}
+function mapToLightboxPhoto(item) {
+  var exif = {};
+  if (item["img.camera"])
+    exif.camera = item["img.camera"];
+  if (item["img.lens"])
+    exif.lens = item["img.lens"];
+  if (item["img.focal"])
+    exif.focal = item["img.focal"];
+  if (item["img.aperture"])
+    exif.aperture = item["img.aperture"];
+  if (item["img.exposure"])
+    exif.exposure = item["img.exposure"];
+  if (item["img.iso"])
+    exif.iso = item["img.iso"];
+  return {
+    src: item["img.src"],
+    full_src: item["img.url"],
+    alt: item["img.alt"] || "",
+    exif,
+    post_url: item["post.url"] || "",
+    post_title: item["post.title"] || ""
+  };
+}
+function init() {
+  ReactDOM.render(/* @__PURE__ */ React.createElement(GalleryApp, null), document.getElementById("root"));
+}
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", init);
+} else {
+  init();
+}

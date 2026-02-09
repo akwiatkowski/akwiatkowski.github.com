@@ -11,6 +11,7 @@ test.describe('Static pages', () => {
     { url: '/o-mnie.html', name: 'About' },
     { url: '/en/index.html', name: 'English' },
     { url: '/pois.html', name: 'POIs' },
+    { url: '/portfolio.html', name: 'Portfolio' },
   ];
 
   for (const page of staticPages) {
@@ -46,6 +47,45 @@ test.describe('Static pages', () => {
       if (payload.posts?.length > 0) {
         expect(count, 'Home should have post links').toBeGreaterThan(0);
       }
+    });
+
+  });
+
+  test.describe('Portfolio page', () => {
+
+    test('has dark background', async ({ page }) => {
+      await page.goto('/portfolio.html');
+      const bgColor = await page.evaluate(() => getComputedStyle(document.body).backgroundColor);
+      // Should be very dark (rgb(10, 10, 10) or similar)
+      expect(bgColor).toMatch(/rgb\(\s*10,\s*10,\s*10\s*\)/);
+    });
+
+    test('has hero section', async ({ page }) => {
+      await page.goto('/portfolio.html');
+      await expect(page.locator('.portfolio-hero')).toBeVisible();
+      await expect(page.locator('.portfolio-hero-name')).toHaveText('Aleksander Kwiatkowski');
+    });
+
+    test('has grid with photos', async ({ page }) => {
+      await page.goto('/portfolio.html');
+      const items = page.locator('.portfolio-grid-item');
+      const count = await items.count();
+      expect(count, 'Should have portfolio photos').toBeGreaterThan(0);
+    });
+
+    test('lightbox opens and closes', async ({ page }) => {
+      await page.goto('/portfolio.html');
+      // Wait for at least one image to load
+      await page.locator('.portfolio-grid-item img.visible').first().waitFor({ timeout: 10000 });
+
+      // Click first photo
+      await page.locator('.portfolio-grid-item').first().click();
+      await expect(page.locator('.photo-lightbox')).toBeVisible();
+      await expect(page.locator('.photo-lightbox-counter')).toContainText('1 /');
+
+      // Close with Escape
+      await page.keyboard.press('Escape');
+      await expect(page.locator('.photo-lightbox')).not.toBeVisible();
     });
 
   });

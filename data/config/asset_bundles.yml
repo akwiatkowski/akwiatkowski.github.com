@@ -30,7 +30,7 @@ bundles:
     css:
       - /css/self/new.css
 
-  # new-home-css is loaded directly via page_css in NewHomePageView
+  # new-home-css is loaded directly via page_css in HomePageView
 
   # === JS Libraries ===
   bootstrap-js:
@@ -110,3 +110,9 @@ page-assets:
   exif_stats:
     css:
       - /css/self/exif_stats.css
+  photo-lightbox:
+    css:
+      - /css/self/photo_lightbox.css
+  portfolio:
+    css:
+      - /css/self/portfolio.css

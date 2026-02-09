@@ -1,5 +1,5 @@
-// Gallery Dynamic - React component for dynamic photo galleries
-// Transpiled from JSX to JS via esbuild
+// Gallery Dynamic - Preact component for dynamic photo galleries
+// Uses shared PhotoLightbox for image viewing
 
 const { useState, useEffect, useRef, useCallback } = React;
 
@@ -7,71 +7,65 @@ const { useState, useEffect, useRef, useCallback } = React;
 const GALLERY_CONFIG = JSON.parse(document.getElementById('gallery-config').textContent);
 
 function GalleryApp() {
+    var PhotoLB = window.PhotoLightbox;
     const [galleryData, setGalleryData] = useState(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
-    const [selectedIndex, setSelectedIndex] = useState(null);
+    const [selectedIndex, setSelectedIndex] = useState(-1);
     const containerRef = useRef(null);
+    const isOpen = selectedIndex >= 0;
 
     // Load gallery data from config
     useEffect(() => {
-        const loadGallery = async () => {
-            try {
-                setLoading(true);
-                setGalleryData(GALLERY_CONFIG);
-                setError(null);
-            } catch (err) {
-                setError(err.message);
-                setGalleryData(null);
-            } finally {
-                setLoading(false);
-            }
-        };
-
-        loadGallery();
+        try {
+            setGalleryData(GALLERY_CONFIG);
+            setLoading(false);
+        } catch (err) {
+            setError(err.message);
+            setLoading(false);
+        }
     }, []);
 
     const handleImageClick = (index) => {
         setSelectedIndex(index);
     };
 
-    const handleCloseModal = useCallback(() => {
-        setSelectedIndex(null);
+    const closeLightbox = useCallback(() => {
+        setSelectedIndex(-1);
     }, []);
 
-    const handlePrevImage = useCallback((e) => {
-        e.stopPropagation();
-        if (selectedIndex > 0) {
-            setSelectedIndex(selectedIndex - 1);
-        }
-    }, [selectedIndex]);
+    const goPrev = useCallback(() => {
+        setSelectedIndex(function(i) { return i > 0 ? i - 1 : galleryData.items.length - 1; });
+    }, [galleryData]);
 
-    const handleNextImage = useCallback((e) => {
-        e.stopPropagation();
-        if (selectedIndex < galleryData.items.length - 1) {
-            setSelectedIndex(selectedIndex + 1);
-        }
-    }, [selectedIndex, galleryData]);
+    const goNext = useCallback(() => {
+        setSelectedIndex(function(i) { return i < galleryData.items.length - 1 ? i + 1 : 0; });
+    }, [galleryData]);
 
-    const handleKeyDown = useCallback((e) => {
-        if (selectedIndex === null) return;
-        if (e.key === 'Escape') {
-            handleCloseModal();
-        } else if (e.key === 'ArrowLeft') {
-            if (selectedIndex > 0) {
-                setSelectedIndex(selectedIndex - 1);
-            }
-        } else if (e.key === 'ArrowRight') {
-            if (selectedIndex < galleryData.items.length - 1) {
-                setSelectedIndex(selectedIndex + 1);
-            }
-        }
-    }, [selectedIndex, galleryData, handleCloseModal]);
-
+    // Keyboard navigation
     useEffect(() => {
-        window.addEventListener('keydown', handleKeyDown);
-        return () => window.removeEventListener('keydown', handleKeyDown);
-    }, [handleKeyDown]);
+        if (!isOpen) return;
+        function handleKey(e) {
+            if (e.key === 'Escape') closeLightbox();
+            else if (e.key === 'ArrowLeft') goPrev();
+            else if (e.key === 'ArrowRight') goNext();
+        }
+        window.addEventListener('keydown', handleKey);
+        return () => window.removeEventListener('keydown', handleKey);
+    }, [isOpen, closeLightbox, goPrev, goNext]);
+
+    // Lock body scroll when lightbox open
+    useEffect(() => {
+        document.body.style.overflow = isOpen ? 'hidden' : '';
+        return () => { document.body.style.overflow = ''; };
+    }, [isOpen]);
+
+    // Preload full-res images once data is loaded
+    useEffect(() => {
+        if (!galleryData) return;
+        var photos = galleryData.items.map(mapToLightboxPhoto);
+        PhotoLB.preloadImages(photos);
+    }, [galleryData]);
 
     if (loading) {
         return <div className="loading">Loading gallery...</div>;
@@ -85,7 +79,7 @@ function GalleryApp() {
         return <div className="error">No images found in gallery</div>;
     }
 
-    const currentImage = selectedIndex !== null ? galleryData.items[selectedIndex] : null;
+    var lightboxPhotos = galleryData.items.map(mapToLightboxPhoto);
 
     return (
         <div className="gallery-container" ref={containerRef}>
@@ -125,63 +119,43 @@ function GalleryApp() {
                 ))}
             </div>
 
-            {currentImage && (
-                <div
-                    className="modal-gallery active"
-                    onClick={handleCloseModal}
-                >
-                    <div className="modal-content-wrapper" onClick={(e) => e.stopPropagation()}>
-                        <button className="modal-close" onClick={handleCloseModal} aria-label="Close modal">
-                            ✕
-                        </button>
-
-                        {selectedIndex > 0 && (
-                            <button className="modal-nav prev" onClick={handlePrevImage} aria-label="Previous image">
-                                ‹
-                            </button>
-                        )}
-
-                        <img
-                            src={currentImage['img.url']}
-                            alt={currentImage['img.alt']}
-                            className="modal-image"
-                            onError={(e) => {
-                                e.target.alt = 'Image failed to load';
-                            }}
-                        />
-
-                        <div className="modal-details">
-                            <h3>{currentImage['post.title']}</h3>
-                            <p>
-                                <strong>Date:</strong> {currentImage['img.time_display']}<br/>
-                                <strong>Location:</strong> {parseFloat(currentImage['img.lat']).toFixed(4)}°N, {parseFloat(currentImage['img.lon']).toFixed(4)}°E<br/>
-                                <strong>Altitude:</strong> {currentImage['img.altitude']} m
-                            </p>
-                            <div className="modal-details-exif">
-                                <strong>Camera:</strong><br/>
-                                {currentImage['img.exif_string']}
-                            </div>
-                        </div>
-
-                        {selectedIndex < galleryData.items.length - 1 && (
-                            <button className="modal-nav next" onClick={handleNextImage} aria-label="Next image">
-                                ›
-                            </button>
-                        )}
-                    </div>
-                </div>
+            {isOpen && (
+                <PhotoLB.Lightbox
+                    photos={lightboxPhotos}
+                    index={selectedIndex}
+                    onClose={closeLightbox}
+                    onPrev={goPrev}
+                    onNext={goNext}
+                />
             )}
         </div>
     );
 }
 
+// Map gallery item to shared lightbox photo contract
+function mapToLightboxPhoto(item) {
+    var exif = {};
+    if (item['img.camera']) exif.camera = item['img.camera'];
+    if (item['img.lens']) exif.lens = item['img.lens'];
+    if (item['img.focal']) exif.focal = item['img.focal'];
+    if (item['img.aperture']) exif.aperture = item['img.aperture'];
+    if (item['img.exposure']) exif.exposure = item['img.exposure'];
+    if (item['img.iso']) exif.iso = item['img.iso'];
+    return {
+        src: item['img.src'],
+        full_src: item['img.url'],
+        alt: item['img.alt'] || '',
+        exif: exif,
+        post_url: item['post.url'] || '',
+        post_title: item['post.title'] || ''
+    };
+}
+
 // ==================== RENDER ====================
 function init() {
-    // Using React 17 API for Preact compatibility
     ReactDOM.render(<GalleryApp />, document.getElementById('root'));
 }
 
-// Wait for DOM to be ready
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
 } else {
