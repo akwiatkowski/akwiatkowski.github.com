@@ -8,7 +8,7 @@
 # 2. Content only - for posts where only markdown changed
 #
 # Usage:
-#   renderer = PostRenderer.new(blog)
+#   renderer = PostRenderer.new(ctx: context, image_resizer: resizer, exif_db: db)
 #   renderer.render_with_galleries(posts, hide_not_finished: false)
 #   renderer.render_content_only(posts, hide_not_finished: false)
 #
@@ -17,8 +17,11 @@ class PostRenderer
 
   Log = ::Log.for(self)
 
-  def initialize(@blog : Tremolite::Blog)
-    @ctx = RenderContext.new(@blog)
+  def initialize(
+    @ctx : RenderContext,
+    @image_resizer : Tremolite::ImageResizer,
+    @exif_db : ExifDb,
+  )
   end
 
   # Render posts that need full gallery updates (photos/EXIF changed)
@@ -103,14 +106,14 @@ class PostRenderer
   # ============================================
 
   private def resize_images(post : Tremolite::Post)
-    @blog.@image_resizer.not_nil!.resize_all_images_for_post(
+    @image_resizer.resize_all_images_for_post(
       post: post,
       overwrite: false
     )
   end
 
   private def init_exif(post : Tremolite::Post)
-    @blog.data_manager.exif_db.initialize_post_photos_exif(post)
+    @exif_db.initialize_post_photos_exif(post)
   end
 
   private def render_article(post : Tremolite::Post, hide_not_finished : Bool)
@@ -127,6 +130,6 @@ class PostRenderer
   end
 
   private def save_exif_cache(post : Tremolite::Post)
-    @blog.data_manager.exif_db.save_cache(post.slug)
+    @exif_db.save_cache(post.slug)
   end
 end

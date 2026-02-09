@@ -268,7 +268,11 @@ class Tremolite::Blog
       post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
       post_to_render_only_post = post_to_render - post_to_render_galleries
 
-      post_renderer = PostRenderer.new(self)
+      post_renderer = PostRenderer.new(
+        ctx: context,
+        image_resizer: image_resizer.not_nil!,
+        exif_db: data_manager.exif_db,
+      )
       post_renderer.render_with_galleries(post_to_render_galleries, hide_not_finished)
       post_renderer.render_content_only(post_to_render_only_post, hide_not_finished)
     end
