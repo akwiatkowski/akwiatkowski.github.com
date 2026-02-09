@@ -9,7 +9,7 @@ class AreaShowView < PageView
   Log = ::Log.for(self)
 
   @posts : Array(Tremolite::Post)
-  @photo_count : Int32
+  @area_photos : Array(PhotoEntity)
   @best_photo : PhotoEntity?
   @selector : AreaPhotoSelector
 
@@ -17,7 +17,7 @@ class AreaShowView < PageView
     super(context: context, url: @area.show_url)
     @selector = context.photo_selector
     @posts = context.posts_for_area(@area)
-    @photo_count = @selector.photos_in_area(@area).size
+    @area_photos = collect_area_photos
     @best_photo = @selector.best_photo_for(@area)
   end
 
@@ -56,7 +56,6 @@ class AreaShowView < PageView
   private def generate_unified_json : String
     parent_info = get_parent_info
     voivodeship_info = get_voivodeship_info
-    photos = collect_area_photos
     bbox = @area.bbox
 
     JSON.build do |json|
@@ -117,7 +116,7 @@ class AreaShowView < PageView
         # Photos
         json.field "photos" do
           json.array do
-            photos.each do |photo|
+            @area_photos.each do |photo|
               json.object do
                 json.field("desc", photo.desc)
                 json.field("article_url", photo.article_image_src)
@@ -148,7 +147,11 @@ class AreaShowView < PageView
   end
 
   private def collect_area_photos : Array(PhotoEntity)
-    @selector.top_photos_for(@area, 50)
+    if cache = context.photo_area_cache
+      cache.top_photos_for_area(@area, 50)
+    else
+      [] of PhotoEntity
+    end
   end
 
   private def get_parent_info : NamedTuple(name: String, url: String)

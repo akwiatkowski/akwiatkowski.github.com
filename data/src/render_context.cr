@@ -21,6 +21,8 @@ class RenderContext
   @posts_for_area_cache : Hash(String, Array(Tremolite::Post))?
   @areas_with_posts_cache : Hash(AreaType, Array(AreaEntity))?
   @photo_selector : AreaPhotoSelector?
+  @photo_area_cache : PhotoAreaCache?
+  @photo_area_cache_initialized : Bool = false
 
   def initialize(@blog : Tremolite::Blog)
     @router = Router.new
@@ -190,6 +192,20 @@ class RenderContext
   # Shared photo selector (built once, reused across all area views)
   def photo_selector : AreaPhotoSelector
     @photo_selector ||= AreaPhotoSelector.new(posts.flat_map { |p| p.published_photo_entities })
+  end
+
+  # Photo-to-area cache (polygon-based, from commands/assign_photos_to_areas.cr)
+  # Returns nil if cache directory doesn't exist (command hasn't been run)
+  def photo_area_cache : PhotoAreaCache?
+    unless @photo_area_cache_initialized
+      @photo_area_cache_initialized = true
+      cache_dir = File.join(blog.cache_path, "photos_in_area")
+      if Dir.exists?(cache_dir)
+        lookup = PhotoAreaCache.build_lookup(posts)
+        @photo_area_cache = PhotoAreaCache.new(cache_dir, lookup)
+      end
+    end
+    @photo_area_cache
   end
 
   # Get all external (foreign) areas
