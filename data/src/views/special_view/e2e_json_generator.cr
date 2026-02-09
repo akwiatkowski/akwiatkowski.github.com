@@ -37,7 +37,7 @@ module SpecialView
                   json.field("photos_count", post.published_photo_entities.size)
                   json.field("has_route", !post.detailed_routes.empty?)
                   json.field "tags" do
-                    json.raw post.tags.to_json
+                    json.raw post.tag_slugs.to_json
                   end
                   json.field "voivodeships" do
                     json.raw post.area_slugs(AreaType::Voivodeship).to_json

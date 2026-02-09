@@ -29,7 +29,6 @@
 
     // Tag weights for prioritizing photos
     TAG_WEIGHTS: {
-      'portfolio': 15,
       'best': 12,
       'good': 4,
       'timeline': 3,

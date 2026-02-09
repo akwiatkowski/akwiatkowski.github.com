@@ -2,7 +2,7 @@ class Tremolite::Post
   @all_uploaded_photo_entities : (Array(PhotoEntity) | Nil)
 
   IMAGE_FORMAT_APSC    = :apsc
-  IMAGE_FORMAT_M43     = :m34
+  IMAGE_FORMAT_M43     = :m43
   DEFAULT_IMAGE_FORMAT = IMAGE_FORMAT_APSC
 
   def gallery_url

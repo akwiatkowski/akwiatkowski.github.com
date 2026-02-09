@@ -18,7 +18,6 @@ struct PhotoEntity
   @is_gallery : Bool
   @is_header : Bool
   @is_timeline : Bool
-  @is_published : Bool
 
   @thumbnail_image_src : String
   @article_image_src : String
@@ -56,14 +55,12 @@ struct PhotoEntity
   TAG_WATER     = "water"
   TAG_SUNRISE   = "sunrise"
   TAG_CITY      = "city"
-  TAG_PORTFOLIO = "portfolio"
   TAG_MOUNTAINS = "mountains"
   TAG_SPRING    = "spring"
 
   TAG_GALLERIES = [
     TAG_MACRO,
     TAG_CAT,
-    TAG_PORTFOLIO,
     TAG_GOOD,
     TAG_BEST,
     TAG_TIMELINE,
@@ -92,7 +89,7 @@ struct PhotoEntity
   # https://icons.getbootstrap.com
   # tree signpost-fill
 
-  getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map, :is_published
+  getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map
   getter :thumbnail_image_src, :article_image_src, :full_image_src, :card_image_src, :grid_image_src
   getter :full_image_sanitized
   getter :time, :day_of_year, :float_of_year
@@ -115,7 +112,6 @@ struct PhotoEntity
     @is_header = false,
     @is_timeline = false,
     @is_map = false,
-    @is_published = false,
     @tags = Array(String).new,
   )
     @post_title = post_title
@@ -175,7 +171,6 @@ struct PhotoEntity
     is_header = false,
     is_timeline = false,
     is_map = false,
-    is_published = false,
     tags = Array(String).new,
   )
     initialize(
@@ -191,13 +186,8 @@ struct PhotoEntity
       is_header: is_header,
       is_timeline: is_timeline,
       is_map: is_map,
-      is_published: is_published,
       tags: tags,
     )
-  end
-
-  def mark_as_published!
-    @published = true
   end
 
   def is_good?
@@ -212,7 +202,7 @@ struct PhotoEntity
     return is_good? || is_best?
   end
 
-  # TODO add method for filtering by tags (portfolio, is header)
+  # TODO add method for filtering by tags (is header)
   # TODO add method calc photo quality (tags, header, published, time...)
 
   def has_tag?(tag : String)

@@ -25,12 +25,6 @@ describe DynamicView do
     end
   end
 
-  describe DynamicView::PortfolioView do
-    it "exists" do
-      DynamicView::PortfolioView.should_not be_nil
-    end
-  end
-
   describe DynamicView::ExifStatsView do
     it "exists" do
       DynamicView::ExifStatsView.should_not be_nil

@@ -106,7 +106,7 @@ class AreaShowView < PageView
                 json.field("distace", post.distance)
                 json.field("time_spent", post.time_spent)
                 json.field("card_image_url", post.card_image_url)
-                json.field("tags") { json.raw post.tags.to_json }
+                json.field("tags") { json.raw post.tag_slugs.to_json }
                 json.field("coords") { json.raw post.detailed_routes.to_json }
               end
             end

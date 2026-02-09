@@ -63,7 +63,7 @@ class AreaPhotoSelector
       if center
         sorted = @geo_photos
           .reject { |p| @used_photos.includes?(p.image_filename) }
-          .sort_by { |p| haversine_distance(center[0], center[1], p.exif.lat.not_nil!, p.exif.lon.not_nil!) }
+          .sort_by { |p| euclidean_distance_approx(center[0], center[1], p.exif.lat.not_nil!, p.exif.lon.not_nil!) }
         if photo = sorted.first?
           @used_photos.add(photo.image_filename)
           return photo
@@ -85,7 +85,7 @@ class AreaPhotoSelector
   def closest_photo_to(lat : Float64, lon : Float64) : PhotoEntity?
     return nil if @geo_photos.empty?
 
-    @geo_photos.min_by { |p| haversine_distance(lat, lon, p.exif.lat.not_nil!, p.exif.lon.not_nil!) }
+    @geo_photos.min_by { |p| euclidean_distance_approx(lat, lon, p.exif.lat.not_nil!, p.exif.lon.not_nil!) }
   end
 
   # Get top N photos for an area (for gallery)
@@ -95,9 +95,9 @@ class AreaPhotoSelector
     photos.sort_by { |p| -p.points }.first(limit)
   end
 
-  # Haversine distance formula (returns distance in degrees, approximate)
-  # Good enough for relative comparisons
-  private def haversine_distance(lat1 : Float64, lon1 : Float64, lat2 : Float64, lon2 : Float64) : Float64
+  # Euclidean distance approximation (returns distance in degrees)
+  # Good enough for relative comparisons within Poland
+  private def euclidean_distance_approx(lat1 : Float64, lon1 : Float64, lat2 : Float64, lon2 : Float64) : Float64
     dlat = lat2 - lat1
     dlon = lon2 - lon1
     Math.sqrt(dlat * dlat + dlon * dlon)

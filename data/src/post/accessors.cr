@@ -11,7 +11,7 @@ class Tremolite::Post
 
   CATEGORY_TRIP = "trip"
 
-  getter :tags, :towns, :lands, :pois
+  getter :tag_slugs, :town_slugs, :land_slugs, :pois
   getter :desc, :keywords
   getter :distance, :time_spent, :temperature
   getter :image_filename, :header_nogallery, :image_position
@@ -21,27 +21,27 @@ class Tremolite::Post
   getter :old_url # for 301 redirects
 
   def bicycle?
-    self.tags.not_nil!.includes?(BICYCLE_TAG)
+    self.tag_slugs.includes?(BICYCLE_TAG)
   end
 
   def hike?
-    self.tags.not_nil!.includes?(HIKE_TAG)
+    self.tag_slugs.includes?(HIKE_TAG)
   end
 
   def train?
-    self.tags.not_nil!.includes?(TRAIN_TAG)
+    self.tag_slugs.includes?(TRAIN_TAG)
   end
 
   def bus?
-    self.tags.not_nil!.includes?(BUS_TAG)
+    self.tag_slugs.includes?(BUS_TAG)
   end
 
   def car?
-    self.tags.not_nil!.includes?(CAR_TAG)
+    self.tag_slugs.includes?(CAR_TAG)
   end
 
   def hidden?
-    self.tags.not_nil!.includes?(HIDDEN_TAG)
+    self.tag_slugs.includes?(HIDDEN_TAG)
   end
 
   def visible?
@@ -49,15 +49,15 @@ class Tremolite::Post
   end
 
   def todo?
-    self.tags.not_nil!.includes?(TODO_TAG)
+    self.tag_slugs.includes?(TODO_TAG)
   end
 
   def todo_media?
-    self.tags.not_nil!.includes?(TODO_MEDIA_TAG)
+    self.tag_slugs.includes?(TODO_MEDIA_TAG)
   end
 
   def photo_of_the_year?
-    self.tags.not_nil!.includes?(PHOTO_OF_THE_YEAR_TAG)
+    self.tag_slugs.includes?(PHOTO_OF_THE_YEAR_TAG)
   end
 
   def ready?
@@ -75,7 +75,7 @@ class Tremolite::Post
   end
 
   def externally_propelled?
-    return true if train? || car? || bus?
+    train? || car? || bus?
   end
 
   # distance can be used in stats
@@ -98,12 +98,6 @@ class Tremolite::Post
   def was_in?(model : TagEntity) : Bool
     return model.belongs_to_post?(self)
   end
-
-  # this is not needed now because of react components
-  # fix hyphen breaking
-  # def title
-  #   @title.to_s.gsub("-", "&#x2011;")
-  # end
 
   def finished_date
     if self.finished_at

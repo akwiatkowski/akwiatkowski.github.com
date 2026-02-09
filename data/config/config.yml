@@ -57,10 +57,6 @@ gallery.cat.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-
 gallery.cat.title: Koty polskie
 gallery.cat.subtitle: Spotkane koty na trasie
 
-gallery.portfolio.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
-gallery.portfolio.title: Najlepsze zdjęcia
-gallery.portfolio.subtitle:
-
 # TODO
 gallery.good.backgrounds:
 gallery.good.title: Zdjęcia z których jestem zadowolony
@@ -109,9 +105,6 @@ gallery.rural.subtitle: wszystko to co ani nie jest miastem, ani nie jest czyst�
 gallery.night.backgrounds:
 gallery.night.title: Noc
 gallery.night.subtitle: zdjęcia zrobione przy trochę ciemniejszych warunkach oświetleniowych
-
-# but it shouldn't be used
-portfolio.title: Portfolio
 
 en.backgrounds: /images/2019/2019-10-11-wschodnie-rudawy-janowickie/2019_10_11__17_27_DSC01519.jpg
 en.title: Welcome

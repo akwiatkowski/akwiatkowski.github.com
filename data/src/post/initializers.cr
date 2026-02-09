@@ -9,6 +9,11 @@ class Tremolite::Post
   @image_other_post_slug : String?
   @head_photo_entity : PhotoEntity?
 
+  @tag_slugs : Array(String) = Array(String).new
+  @town_slugs : Array(String) = Array(String).new
+  @land_slugs : Array(String) = Array(String).new
+  @foreign_slugs : Array(String) = Array(String).new
+
   @temperature : Int32?
 
   @default_suggested_map_zooms = Array(Int32).new
@@ -60,63 +65,63 @@ class Tremolite::Post
   end
 
   def tags_initialize
-    @tags = Array(String).new
+    @tag_slugs = Array(String).new
   end
 
   def tags_from_headers
     if @header["tags"]?
       @header["tags"].as_a.each do |tag|
-        @tags.not_nil! << tag.to_s
+        @tag_slugs << tag.to_s
       end
     end
   end
 
   def towns_initialize
-    @towns = Array(String).new
+    @town_slugs = Array(String).new
   end
 
   def towns_from_headers
     if @header["towns"]?
       @header["towns"].as_a.each do |town|
-        @towns.not_nil! << town.to_s
+        @town_slugs << town.to_s
       end
     end
   end
 
   def lands_initialize
-    @lands = Array(String).new
+    @land_slugs = Array(String).new
   end
 
   def lands_from_headers
     if @header["lands"]?
       @header["lands"].as_a.each do |land|
-        @lands.not_nil! << land.to_s
+        @land_slugs << land.to_s
       end
     end
   end
 
   def foreign_initialize
-    @foreign = Array(String).new
+    @foreign_slugs = Array(String).new
   end
 
   def foreign_from_headers
     if @header["foreign"]?
       @header["foreign"].as_a.each do |foreign_slug|
-        @foreign.not_nil! << foreign_slug.to_s
+        @foreign_slugs << foreign_slug.to_s
       end
     end
   end
 
   # hacky populating lands from towns
   def lands_from_towns
-    @towns.not_nil!.each do |town_slug|
+    @town_slugs.each do |town_slug|
       town_selected = @blog.data_manager.towns.not_nil!.select { |town| town.slug == town_slug }
       next if town_selected.size == 0
 
       town = town_selected.first
       town.lands.each do |land|
-        unless @lands.not_nil!.includes?(land.slug)
-          @lands.not_nil! << land.slug
+        unless @land_slugs.includes?(land.slug)
+          @land_slugs << land.slug
         end
       end
     end

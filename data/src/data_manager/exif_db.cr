@@ -33,9 +33,6 @@ class ExifDb
 
   # PE created from function while processing md file
   def append_published_photo_entity(photo_entity : PhotoEntity)
-    # TODO check if it should be put elsewhere
-    photo_entity.mark_as_published!
-
     exifed_pe = process_photo_entity(photo_entity)
 
     @published_photo_entities[exifed_pe.post_slug] ||= Array(PhotoEntity).new

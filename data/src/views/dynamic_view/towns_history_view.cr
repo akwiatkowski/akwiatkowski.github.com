@@ -56,7 +56,7 @@ module DynamicView
     end
 
     def visited_since(town : AreaEntity)
-      posts_for_town = @posts.select { |post| post.towns && post.towns.not_nil!.includes?(town.slug) }
+      posts_for_town = @posts.select { |post| post.town_slugs.includes?(town.slug) }
       if posts_for_town.size > 0
         return posts_for_town.sort { |a, b| a.time <=> b.time }.first.time
       else
@@ -75,7 +75,7 @@ module DynamicView
       end
 
       # posts
-      posts_for_town = @posts.select { |post| post.towns && post.towns.not_nil!.includes?(town.slug) }
+      posts_for_town = @posts.select { |post| post.town_slugs.includes?(town.slug) }
       if posts_for_town.size > 0
         # s += " - #{posts_for_town.size} wpisów od "
         s += " - od "
@@ -89,7 +89,7 @@ module DynamicView
     end
 
     def town_hike_or_bicycle
-      @posts.select { |p| p.bicycle? || p.hike? }.map { |p| p.towns.not_nil! }.flatten.uniq.size
+      @posts.select { |p| p.bicycle? || p.hike? }.map { |p| p.town_slugs }.flatten.uniq.size
     end
   end
 end

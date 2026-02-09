@@ -29,7 +29,7 @@ struct LandEntity
     @slug = y["slug"].as_s
     @name = y["name"].as_s
     @country = y["country"].as_s
-    @code = y["country"].as_s?
+    @code = y["code"].as_s?
   end
 
   def type
@@ -45,6 +45,6 @@ struct LandEntity
   end
 
   def belongs_to_post?(post : Tremolite::Post)
-    post.lands.not_nil!.includes?(@slug)
+    post.land_slugs.includes?(@slug)
   end
 end

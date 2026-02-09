@@ -49,7 +49,6 @@ class Tremolite::Views::BaseView
     end
 
     # header photo command - add title, tags
-    # used for creating portfolio page
     result = command.scan(/#{HEADER_PHOTO_COMMAND}\s+\"([^\"]+)\"\s*,\s*\"([^\"]*)\"/)
     if result.size > 0 && post
       return header_post_photo_attrs(

@@ -27,7 +27,7 @@ class NewHomePageView < BaseView
 
   def image_url
     # Use a default image for OG tags (JS will select actual hero)
-    best_posts = context.posts.select { |p| p.ready? && p.tags.try(&.includes?("najlepsze")) }
+    best_posts = context.posts.select { |p| p.ready? && p.tag_slugs.includes?("najlepsze") }
     if best_posts.size > 0
       best_posts.first.card_image_url
     else
@@ -101,17 +101,17 @@ class NewHomePageView < BaseView
   end
 
   # Stats helpers (server-rendered, not replaced by JS)
-  # Note: post.tags uses English slugs (bicycle, hike), not Polish (rowerem, pieszo)
+  # Note: post.tag_slugs uses English slugs (bicycle, hike), not Polish (rowerem, pieszo)
   private def total_bike_distance : Int32
     context.posts
-      .select { |p| p.ready? && p.tags.try(&.includes?("bicycle")) }
+      .select { |p| p.ready? && p.tag_slugs.includes?("bicycle") }
       .compact_map(&.distance)
       .sum.to_i
   end
 
   private def total_hike_distance : Int32
     context.posts
-      .select { |p| p.ready? && p.tags.try(&.includes?("hike")) }
+      .select { |p| p.ready? && p.tag_slugs.includes?("hike") }
       .compact_map(&.distance)
       .sum.to_i
   end

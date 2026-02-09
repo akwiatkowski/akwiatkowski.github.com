@@ -32,6 +32,6 @@ struct TagEntity
   end
 
   def belongs_to_post?(post : Tremolite::Post)
-    post.tags.not_nil!.includes?(@slug)
+    post.tag_slugs.includes?(@slug)
   end
 end

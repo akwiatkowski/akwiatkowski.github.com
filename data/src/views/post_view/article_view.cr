@@ -88,7 +88,7 @@ module PostView
       pd["taggable.name"] = "Tagi"
       pd["taggable.content"] = ""
       links = Array(String).new
-      @post.tags.not_nil!.each do |tag|
+      @post.tag_slugs.each do |tag|
         context.tags.each do |tag_entity|
           if tag == tag_entity.slug
             links << "<a href=\"" + tag_entity.view_url + "\">" + tag_entity.name + "</a>"

@@ -91,7 +91,7 @@ struct TownEntity
   end
 
   def belongs_to_post?(post : Tremolite::Post)
-    post.towns.not_nil!.includes?(@slug)
+    post.town_slugs.includes?(@slug)
   end
 
   def distance_to_coord(other_lat, other_lon)

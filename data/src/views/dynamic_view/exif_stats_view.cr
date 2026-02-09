@@ -35,7 +35,7 @@ module DynamicView
 
         # filter posts
         @posts = @posts.select do |post|
-          post.tags.not_nil!.includes?(@by_tag.not_nil!)
+          post.tag_slugs.includes?(@by_tag.not_nil!)
         end
       end
 

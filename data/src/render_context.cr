@@ -134,10 +134,6 @@ class RenderContext
     config.ideas.not_nil!
   end
 
-  def portfolios
-    config.portfolios.not_nil!
-  end
-
   def photo_tags
     config.photo_tags.not_nil!
   end

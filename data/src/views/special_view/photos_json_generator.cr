@@ -48,7 +48,6 @@ module SpecialView
                   json.field("time", photo_entity.time)
                   json.field("post_slug", photo_entity.post_slug)
                   json.field("post_url", photo_entity.post_url)
-                  # photo_entity.is_published behaves strange
                   json.field("is_published", photo_entity.tags.size > 0)
                   json.field("points", photo_entity.points)
 

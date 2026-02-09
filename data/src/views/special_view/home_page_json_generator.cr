@@ -67,7 +67,7 @@ module SpecialView
 
                   # Tags as objects with slug, url, name
                   json.field "tags" do
-                    json.raw post.tags.to_json
+                    json.raw post.tag_slugs.to_json
                   end
 
                   # Top photos for hero selection (sorted by points, highest first)

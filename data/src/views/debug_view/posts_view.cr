@@ -113,7 +113,7 @@ module DebugView
 
       # TODO add town count
 
-      lands_count = post.lands.not_nil!.size
+      lands_count = post.land_slugs.size
 
       if post.content_html_word_count < 50
         # small word - red, a lot of work
@@ -123,7 +123,7 @@ module DebugView
         # has few words, but not enough
         css = "text-warning" # yellow
         css_int = 1
-      elsif post.content_html_missing_reference_links > 0
+      elsif post.content_html_reference_pattern_count > 0
         # missing referenes, some work needed
         css = "text-warning" # yellow
         css_int = 1
@@ -156,13 +156,13 @@ module DebugView
       return {
         post:                     post,
         text_included:            post.content_html_word_count > 50,
-        all_references:           post.content_html_missing_reference_links == 0,
+        all_references:           post.content_html_reference_pattern_count == 0,
         contains_vimeo:           post.content_html_contains_vimeo > 0,
         ready:                    post.ready?,
         title:                    "#{post.date}: #{post.title}",
         photo_count:              post.published_photo_entities.size,
         word_count:               post.content_html_word_count,
-        missing_references_count: post.content_html_missing_reference_links,
+        missing_references_count: post.content_html_reference_pattern_count,
         route:                    post.has_detailed_route? || false,
         lands_count:              lands_count,
         has_land:                 lands_count > 0,

@@ -53,7 +53,7 @@ class Tremolite::Post
 
   # Get foreign (external) area slugs from post YAML
   def foreign_slugs : Array(String)
-    @foreign.not_nil!
+    @foreign_slugs
   end
 
   # Get foreign (external) area entities
@@ -76,12 +76,12 @@ class Tremolite::Post
     # Add manual slugs (from post YAML headers)
     case type
     when AreaType::Town
-      @towns.not_nil!.each { |s| slugs << s }
+      @town_slugs.each { |s| slugs << s }
     when AreaType::MesoRegion
-      @lands.not_nil!.each { |s| slugs << s }
+      @land_slugs.each { |s| slugs << s }
     when AreaType::Voivodeship
       # voivodeships are mixed with towns in current implementation
-      @towns.not_nil!.each { |s| slugs << s }
+      @town_slugs.each { |s| slugs << s }
     end
 
     # Add calculated slugs (from areas_for_post cache)

@@ -149,8 +149,8 @@ module DynamicView
           month_data["month.style_distance_bicycle"] = "background-color: rgba(100,100,255,#{bicycle_opacity});"
 
           hike_opacity = month_distance_hike.to_f / HIKE_MAX_DISTANCE
-          hike_opacity = OPACITY_MAX if bicycle_opacity > OPACITY_MAX
-          hike_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN
+          hike_opacity = OPACITY_MAX if hike_opacity > OPACITY_MAX
+          hike_opacity = OPACITY_MIN if hike_opacity < OPACITY_MIN
           month_data["month.style_distance_hike"] = "background-color: rgba(100,255,100,#{hike_opacity});"
 
           months_list += load_html("year_stats/month_row", month_data)

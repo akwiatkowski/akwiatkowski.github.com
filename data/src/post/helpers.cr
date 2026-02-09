@@ -11,7 +11,7 @@ class Tremolite::Post
     self.content_html.scan(/\w+/).size
   end
 
-  def content_html_missing_reference_links
+  def content_html_reference_pattern_count
     self.content_html.scan(/\[\w+]/).size / 2
   end
 

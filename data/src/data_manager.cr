@@ -21,7 +21,6 @@ class Tremolite::DataManager
     @photo_tags = Array(PhotoTagEntity).new
     # @land_types = Array(LandTypeEntity).new
     @lands = Array(LandEntity).new
-    @portfolios = Array(PortfolioEntity).new
     @train_stations = Array(TrainStationEntity).new
     @ideas = Array(IdeaEntity).new
 
@@ -56,7 +55,7 @@ class Tremolite::DataManager
 
   getter :tags
   getter :towns, :town_slugs, :voivodeships
-  getter :lands, :post_image_entities, :portfolios
+  getter :lands, :post_image_entities
   getter :ideas, :photo_tags, :train_stations
 
   # PHASE6_DEPRECATED: getter :town_photo_cache - replaced by AreaPhotoSelector
@@ -79,7 +78,6 @@ class Tremolite::DataManager
     load_lands # lands are needed before towns
     load_towns
     load_tags
-    load_portfolio
     load_train_stations
     load_ideas
     load_photo_tags
@@ -111,17 +109,6 @@ class Tremolite::DataManager
   end
 
   @[Profile(category: "yaml")]
-  def load_portfolio
-    Log.debug { "loading portfolio" }
-
-    f = File.join([@config_path, "portfolio.yml"])
-    YAML.parse(File.read(f)).as_a.each do |portfolio|
-      o = PortfolioEntity.new(portfolio)
-      @portfolios.not_nil! << o
-    end
-  end
-
-  @[Profile(category: "yaml")]
   def load_towns # TODO: is it needed or deprecated?
     Log.debug { "loading towns" }
 
@@ -137,9 +124,7 @@ class Tremolite::DataManager
   def towns_already_visited_only_selfpropelled
     slugs = Array(String).new
     @blog.post_collection.posts.each do |post|
-      next if post.towns.nil?
-
-      slugs += post.towns.not_nil!
+      slugs += post.town_slugs
       slugs.uniq.sort
     end
 
@@ -153,8 +138,7 @@ class Tremolite::DataManager
     slugs = Set(String).new
     @blog.post_collection.posts.each do |post|
       next unless post.self_propelled?
-      next if post.towns.nil?
-      post.towns.not_nil!.each { |slug| slugs << slug }
+      post.town_slugs.each { |slug| slugs << slug }
     end
     slugs.to_a.sort
   end

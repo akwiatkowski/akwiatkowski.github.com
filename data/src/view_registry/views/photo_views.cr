@@ -14,7 +14,7 @@
 #
 # Priority: 30-39 (after entity views, before stats views)
 #
-# View classes used: GalleryView::*, DynamicView::PortfolioView,
+# View classes used: GalleryView::*,
 # DynamicView::ExifStatsView, DebugView::TagStatsView,
 # DynamicView::TimelinePhotoView, PhotoMap::*
 # (loaded via renderer.cr)
@@ -43,7 +43,6 @@ def register_photo_views(r : ViewRegistry)
   #
   # Also renders:
   # - Gallery index page (/galeria.html)
-  # - Portfolio page (/portfolio.html)
   # - EXIF stats pages (/exif_stats.html and by-tag variants)
   # - Gallery stats (debug tag stats, timeline photo)
   #
@@ -210,9 +209,6 @@ def register_photo_views(r : ViewRegistry)
     ctx.write_output(DebugView::TagStatsView.new(context: ctx))
     ctx.write_output(DynamicView::TimelinePhotoView.new(context: ctx))
 
-    # === Portfolio ===
-    ctx.write_output(DynamicView::PortfolioView.new(context: ctx, url: "/portfolio.html"))
-
     # === EXIF stats ===
     ctx.write_output(DynamicView::ExifStatsView.new(context: ctx))
     ["bicycle", "hike", "photo", "train"].each do |tag|
@@ -358,7 +354,7 @@ def register_photo_views(r : ViewRegistry)
     ctx.write_output(dots_view)
 
     # === Tagged photo maps (using consolidated AreaMapSvgView) ===
-    selected_tags = ["rural", "winter", "city", "night", "macro", "portfolio", "cat", "best", "good", "timeline"]
+    selected_tags = ["rural", "winter", "city", "night", "macro", "cat", "best", "good", "timeline"]
     selected_tags.sort.each do |tag|
       photo_entities = ctx.exif_db.all_flatten_photo_entities.select { |pe|
         pe.tags.includes?(tag)

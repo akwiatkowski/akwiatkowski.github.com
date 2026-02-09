@@ -166,7 +166,7 @@ module DynamicView
     private def process_towns_in_month_post(time : Time, post : Tremolite::Post)
       formatted_time = time
 
-      towns_in_post = post.towns.not_nil!.select { |town|
+      towns_in_post = post.town_slugs.select { |town|
         @town_slugs.includes?(town)
       }
 
