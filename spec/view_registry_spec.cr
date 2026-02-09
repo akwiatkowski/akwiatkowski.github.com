@@ -174,12 +174,12 @@ describe "setup_view_registry" do
       # Should have 40 views total:
       # - Entity views: 2 (tags, tags legacy redirects)
       # - Area views: 4 (show pages, post list pages, gallery pages, external areas post list)
-      # - Home views: 4 (main, old home, map, pois)
+      # - Home views: 3 (main, map, pois)
       # - Photo views: 2 (galleries, maps)
       # - Stats views: 4 (year reports, burnout, towns history, towns timeline)
       # - Feed views: 12 (RSS, Atom, 8x JSON, sitemap, robots)
       # - Index views: 1 (towns only - lands deprecated)
-      # - Static views: 8 (more, about, english, trip ideas, JS timeline, photo map, JS exif stats, photo planner)
+      # - Static views: 9 (more, about, english, trip ideas, JS timeline, photo map, JS exif stats, photo planner, portfolio)
       # - Debug views: 3 (posts, camera stuff, missing EXIF)
       r.views.size.should eq(40)
     end
@@ -200,7 +200,6 @@ describe "setup_view_registry" do
       view_names = r.views.map(&.name)
 
       view_names.should contain("Home: main page")
-      view_names.should contain("Home: old home page")
       view_names.should contain("Home: route map page")
       view_names.should contain("Home: POIs page")
     end
@@ -242,6 +241,7 @@ describe "setup_view_registry" do
       view_names.should contain("Static: photo map")
       view_names.should contain("Static: JS exif stats")
       view_names.should contain("Static: photo planner")
+      view_names.should contain("Static: portfolio")
     end
 
     it "registers all feed views" do

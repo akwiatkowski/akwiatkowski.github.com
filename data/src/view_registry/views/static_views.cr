@@ -7,13 +7,14 @@
 #
 # Current views:
 # 1. More page - /wiecej.html (priority: 89)
-# 2. About page - /o-mnie.html (priority: 91)
-# 3. English page - /en/index.html (priority: 92)
-# 4. Trip ideas page - /pomysly_tras.html (priority: 93)
-# 5. JS Timeline page - /linia_czasu.html (priority: 94)
-# 6. Photo map page - /mapa_zdjec.html (priority: 95)
-# 7. JS Exif Stats page - /statystyki_exif.html (priority: 96)
-# 8. Photo planner page - /pomysly_dla_zdjec.html (priority: 97)
+# 2. Portfolio page - /portfolio.html (priority: 90)
+# 3. About page - /o-mnie.html (priority: 91)
+# 4. English page - /en/index.html (priority: 92)
+# 5. Trip ideas page - /pomysly_tras.html (priority: 93)
+# 6. JS Timeline page - /linia_czasu.html (priority: 94)
+# 7. Photo map page - /mapa_zdjec.html (priority: 95)
+# 8. JS Exif Stats page - /statystyki_exif.html (priority: 96)
+# 9. Photo planner page - /pomysly_dla_zdjec.html (priority: 97)
 #
 # Dependencies: [] (empty = always run)
 # - These pages are simple and don't depend on specific data changes
@@ -21,7 +22,7 @@
 #
 # Priority: 90-99 (near the end, low priority)
 #
-# View classes used: NewMoreView, TripIdeasView, JsTimelineView,
+# View classes used: NewMoreView, PortfolioView, TripIdeasView, JsTimelineView,
 # PhotoMapView, JsExifView, PhotoPlannerView, MarkdownPageView
 # (loaded via renderer.cr)
 
@@ -170,5 +171,22 @@ def register_static_views(r : ViewRegistry)
   r.register("Static: photo planner", [:posts], priority: 97) do |ctx|
     ViewRegistry::Log.debug { "Rendering photo planner page" }
     ctx.write_output(StaticView::PhotoPlannerView.new(context: ctx, url: "pomysly_dla_zdjec.html"))
+  end
+
+  # ============================================
+  # View: Portfolio Page
+  # ============================================
+  #
+  # Photography portfolio with masonry grid, ambilight glow,
+  # and lightbox with EXIF data.
+  #
+  # URL: /portfolio.html
+  # View class: PortfolioView
+  #
+  # Dependencies: [:posts, :exifs] (needs published photos with EXIF)
+  #
+  r.register("Static: portfolio", [:posts, :exifs], priority: 90) do |ctx|
+    ViewRegistry::Log.debug { "Rendering portfolio page" }
+    ctx.write_output(PortfolioView.new(context: ctx))
   end
 end

@@ -164,6 +164,7 @@ class BaseView < Tremolite::Views::BaseView
       h = Hash(String, String).new
       h["ol.image"] = site_url + image_url
       s += load_html("include/open_graph_image", h)
+      s += "<meta property=\"og:image:alt\" content=\"#{title}\">\n"
     end
 
     return s

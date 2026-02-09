@@ -38,6 +38,10 @@ class AreaShowView < PageView
     @area.area_type.polish_name
   end
 
+  def page_desc
+    "#{@area.name} — #{@area.area_type.polish_name}. #{@posts.size} wypraw, #{@area_photos.size} zdjęć."
+  end
+
   def image_url
     @best_photo ? @best_photo.not_nil!.full_image_src : ""
   end

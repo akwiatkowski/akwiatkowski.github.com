@@ -69,6 +69,12 @@ describe "Standalone Views" do
   end
 end
 
+describe PortfolioView do
+  it "exists" do
+    PortfolioView.should_not be_nil
+  end
+end
+
 describe RenderContext do
   it "exists" do
     RenderContext.should_not be_nil

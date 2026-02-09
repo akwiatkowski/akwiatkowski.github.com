@@ -13,7 +13,7 @@ class BaseView
 
   # should be overriden
   def page_desc
-    ""
+    site_desc
   end
 
   # should be overriden
@@ -38,10 +38,13 @@ class BaseView
     s = ""
 
     h_name = {
-      "keywords"    => meta_keywords_string,
-      "description" => meta_description_string,
-      "author"      => author_string,
-      "robots"      => robots_string,
+      "keywords"            => meta_keywords_string,
+      "description"         => meta_description_string,
+      "author"              => author_string,
+      "robots"              => robots_string,
+      "twitter:card"        => "summary_large_image",
+      "twitter:title"       => title,
+      "twitter:description" => meta_description_string,
     }
 
     h_property = {
@@ -49,6 +52,8 @@ class BaseView
       "og:description" => meta_description_string,
       "og:url"         => current_full_url,
       "og:site_name"   => site_title,
+      "og:type"        => "website",
+      "og:locale"      => "pl_PL",
     }
 
     h_name.each do |k, v|

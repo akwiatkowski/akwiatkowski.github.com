@@ -212,6 +212,23 @@ Current late-bound properties:
 
 **Estimated benefit:** ~35 `.not_nil!` calls removed, stronger compile-time safety.
 
+**Reusable Ambilight Slideshow Component:**
+The portfolio lightbox (blurred dual-layer backlight + drop-shadow) could be extracted into a standalone JS/CSS component reusable across the site. Current candidates:
+- **Post galleries** (`/galeria/...`) — replace the basic lightbox with ambilight version
+- **Area show pages** — photo section currently has no lightbox at all
+- **Timeline page** — photo modal could use the same treatment
+- **Photo map page** — sidebar/modal photo view
+
+Refactoring approach:
+1. Extract CSS (`.portfolio-lb-outer`, `.portfolio-lb-inner`, lightbox shell) into a shared `ambilight-lightbox.css`
+2. Extract JS into a generic `AmbilightLightbox({ photos, index, onClose, onPrev, onNext })` Preact component in its own file (e.g. `data/assets/js/src/ambilight_lightbox.jsx`)
+3. The component takes a photo array with `{ src, full_src, alt, exif?, post_url?, post_title? }` — same interface portfolio already uses
+4. Add as a shared bundle in `asset_bundles.yml` (e.g. `ambilight-lightbox` composite with the CSS + JS)
+5. Each page imports and renders the component with its own photo data
+
+**Photo Perceptual Hash (pipeline command):**
+Store color/perceptual hash data per photo alongside EXIF. Enables: finding visually similar photos, color-based search, duplicate detection, "more like this" in galleries. Options: aHash, pHash, dHash, or dominant color extraction. Could run as a pipeline command storing results in a YAML/JSON sidecar.
+
 **Stats Rendering:**
 - Explore better ways to render post stats (distance, time, temperature)
 - Consider inline badges, sidebar summary, or expandable section

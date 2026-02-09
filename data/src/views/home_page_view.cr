@@ -1,6 +1,6 @@
 require "./base_view"
 
-# New home page view with modern design
+# Home page view with modern design
 # URL: / (main home page)
 #
 # Features:
@@ -13,7 +13,7 @@ require "./base_view"
 # and renders dynamic content using vanilla DOM manipulation.
 # Hero image is selected randomly from top 4 photos (by points) of the selected post.
 #
-class NewHomePageView < BaseView
+class HomePageView < BaseView
   Log = ::Log.for(self)
 
   def initialize(context : RenderContext)
