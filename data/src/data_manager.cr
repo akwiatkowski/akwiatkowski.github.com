@@ -33,7 +33,7 @@ class Tremolite::DataManager
       all_towns: @area_data_loader.not_nil!.areas_of_type(AreaType::Town)
     )
     @nav_stats_cache = NavStatsCache.new(
-      blog: @blog
+      cache_path: @blog.cache_path
     )
     @preloaded_post_referenced_links = PreloadedPostReferencedLinks.new(
       html_buffer: @blog.html_buffer.as(Tremolite::HtmlBuffer),

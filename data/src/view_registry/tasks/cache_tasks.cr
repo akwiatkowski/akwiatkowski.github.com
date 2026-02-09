@@ -38,7 +38,12 @@ def register_cache_tasks(r : ViewRegistry)
   r.task("Cache: nav stats", [:yamls], priority: 5) do |ctx|
     ViewRegistry::Log.info { "Refreshing nav_stats_cache" }
 
-    ctx.nav_stats_cache.refresh
+    ctx.nav_stats_cache.refresh(
+      posts: ctx.posts,
+      voivodeships: ctx.areas_of_type(AreaType::Voivodeship),
+      meso_regions: ctx.areas_of_type(AreaType::MesoRegion),
+      tags: ctx.tags,
+    )
     ViewRegistry::Log.debug { "nav_stats_cache refreshed" }
   end
 

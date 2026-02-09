@@ -53,10 +53,9 @@ class NavStatsCache
 
   getter :cache_file_path, :stats
 
-  def initialize(
-    @blog : Tremolite::Blog,
-  )
-    @cache_path = @blog.cache_path.as(String)
+  @posts : Array(Tremolite::Post) = Array(Tremolite::Post).new
+
+  def initialize(@cache_path : String)
     @cache_file_path = File.join([@cache_path, "nav_stats.yml"])
 
     @stats = NavStatsCacheObject.new
@@ -64,13 +63,20 @@ class NavStatsCache
   end
 
   def posts
-    @blog.post_collection.posts.as(Array(Tremolite::Post))
+    @posts
   end
 
-  def refresh
-    refresh_voivodeships_nav
-    refresh_lands_nav
-    refresh_tags_nav
+  def refresh(
+    posts : Array(Tremolite::Post),
+    voivodeships : Array(AreaEntity),
+    meso_regions : Array(AreaEntity),
+    tags : Array(TagEntity),
+  )
+    @posts = posts
+
+    refresh_voivodeships_nav(voivodeships)
+    refresh_lands_nav(meso_regions)
+    refresh_tags_nav(tags)
 
     self_propelled_posts = posts.select { |post| post.self_propelled? }
 
@@ -230,9 +236,7 @@ class NavStatsCache
     return nav_array[0...limit]
   end
 
-  private def refresh_voivodeships_nav
-    voivodeships = @blog.data_manager.area_data_loader.not_nil!.areas_of_type(AreaType::Voivodeship)
-
+  private def refresh_voivodeships_nav(voivodeships : Array(AreaEntity))
     @stats.voivodeships_nav = process_area_array_to_nav(
       areas: voivodeships,
       type: "voivodeship",
@@ -244,9 +248,7 @@ class NavStatsCache
 
   # IGNORED_LANDS = ["rownina_wrzesinska", "pojezierze_poznanskie", "pojezierze_gnieznienskie"]
 
-  private def refresh_lands_nav
-    meso_regions = @blog.data_manager.area_data_loader.not_nil!.areas_of_type(AreaType::MesoRegion)
-
+  private def refresh_lands_nav(meso_regions : Array(AreaEntity))
     @stats.lands_nav = process_area_array_to_nav(
       areas: meso_regions,
       type: "lands",
@@ -256,11 +258,11 @@ class NavStatsCache
     )
   end
 
-  private def refresh_tags_nav
-    tags = @blog.data_manager.tags.not_nil!.select { |tag| tag.is_nav? }
+  private def refresh_tags_nav(tags : Array(TagEntity))
+    nav_tags = tags.select { |tag| tag.is_nav? }
 
     @stats.tags_nav = process_model_array_to_nav(
-      model_array: tags,
+      model_array: nav_tags,
       type: "tag",
       ignore_less_than: 2,
       perform_sort: false,
