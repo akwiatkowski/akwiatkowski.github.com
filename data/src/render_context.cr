@@ -296,12 +296,12 @@ class RenderContext
 
   # Get slugs of towns visited in self-propelled trips
   def visited_town_slugs_selfpropelled : Array(String)
-    config.visited_town_slugs_selfpropelled
+    config.visited_town_slugs_selfpropelled(posts)
   end
 
   # Get AreaEntity towns that have been visited in self-propelled trips
   def visited_town_areas_selfpropelled : Array(AreaEntity)
-    config.visited_town_areas_selfpropelled
+    config.visited_town_areas_selfpropelled(posts)
   end
 
   # ============================================

@@ -14,6 +14,14 @@ class Tremolite::DataManager
   include Profiled
 
   def custom_initialize
+    # Extract Blog properties once — all service wiring below uses these locals
+    cache_path = @blog.cache_path.as(String)
+    data_path = @blog.data_path.as(String)
+    output_path = @blog.output_path.as(String)
+    html_buffer = @blog.html_buffer.as(Tremolite::HtmlBuffer)
+    posts_path = @blog.posts_path.as(String)
+    posts_ext = @blog.posts_ext.as(String)
+
     @tags = Array(TagEntity).new
     @photo_tags = Array(PhotoTagEntity).new
     @train_stations = Array(TrainStationEntity).new
@@ -21,32 +29,32 @@ class Tremolite::DataManager
 
     @area_data_loader = AreaDataLoader.new(
       config_path: @config_path,
-      cache_path: @blog.cache_path
+      cache_path: cache_path
     )
     Profiler.measure("yaml", "areas") { @area_data_loader.not_nil!.load_areas }
 
     @post_coord_quant_cache = PostCoordQuantCache.new(
-      cache_path: @blog.cache_path
+      cache_path: cache_path
     )
     @photo_coord_quant_cache = PhotoCoordQuantCache.new(
-      cache_path: @blog.cache_path,
+      cache_path: cache_path,
       all_towns: @area_data_loader.not_nil!.areas_of_type(AreaType::Town)
     )
     @nav_stats_cache = NavStatsCache.new(
-      cache_path: @blog.cache_path
+      cache_path: cache_path
     )
     @preloaded_post_referenced_links = PreloadedPostReferencedLinks.new(
-      html_buffer: @blog.html_buffer.as(Tremolite::HtmlBuffer),
-      posts_path: @blog.posts_path,
-      posts_ext: @blog.posts_ext
+      html_buffer: html_buffer,
+      posts_path: posts_path,
+      posts_ext: posts_ext
     )
     @exif_db = ExifDb.new(
-      cache_path: @blog.cache_path,
-      data_path: @blog.data_path,
+      cache_path: cache_path,
+      data_path: data_path,
       photo_tags: @photo_tags.not_nil!
     )
     @photo_map_dictionary = PhotoMapDictionary.new(
-      output_path: @blog.output_path
+      output_path: output_path
     )
   end
 
@@ -102,9 +110,9 @@ class Tremolite::DataManager
   end
 
   # Get slugs of towns visited in self-propelled trips
-  def visited_town_slugs_selfpropelled : Array(String)
+  def visited_town_slugs_selfpropelled(posts : Array(Tremolite::Post)) : Array(String)
     slugs = Set(String).new
-    @blog.post_collection.posts.each do |post|
+    posts.each do |post|
       next unless post.self_propelled?
       post.town_slugs.each { |slug| slugs << slug }
     end
@@ -112,8 +120,8 @@ class Tremolite::DataManager
   end
 
   # Get AreaEntity towns that have been visited in self-propelled trips
-  def visited_town_areas_selfpropelled : Array(AreaEntity)
-    slugs = visited_town_slugs_selfpropelled
+  def visited_town_areas_selfpropelled(posts : Array(Tremolite::Post)) : Array(AreaEntity)
+    slugs = visited_town_slugs_selfpropelled(posts)
     @area_data_loader.not_nil!.areas_of_type(AreaType::Town).select do |area|
       slugs.includes?(area.slug)
     end
