@@ -1,16 +1,8 @@
 require "../data/src/services/map/downloader"
+require "../data/src/commands/tools/fetch_map_tiles"
 
 zooms = [15]
+overwrite = ARGV.includes?("--overwrite") || ARGV.includes?("-f")
 
-zooms.each do |zoom|
-  m = Map::Downloader.new(
-    lat_from: 49.20723805555556,
-    lat_to: 54.703875000000004,
-    lon_from: 14.110069444444443,
-    lon_to: 23.88176388888889,
-    zoom: zoom,
-    overwrite: false
-  )
-
-  m.make_it_so
-end
+command = Commands::Tools::FetchMapTiles.new(zooms: zooms, overwrite: overwrite)
+command.run

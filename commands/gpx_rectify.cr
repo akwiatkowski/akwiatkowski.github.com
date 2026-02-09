@@ -1,20 +1,6 @@
 require "../data/src/tremolite/tremolite"
 require "../data/src/blog"
+require "../data/src/commands/pipeline/gpx_rectify"
 
-env_paths = Array(String).new
-env_paths << File.join(["env", "full"])
-env_paths << File.join(["env", "dev"])
-
-env_paths.each do |env_path|
-  universal_path = "data"
-  data_path = File.join([env_path, "data"])
-  config_path = File.join([universal_path, "config"])
-  ideas_path = File.join([data_path, "ideas"])
-
-  service = ExternalGpxPreprocessor.new(
-    config_path: config_path,
-    ideas_path: ideas_path
-  )
-
-  service.call
-end
+command = Commands::Pipeline::GpxRectify.new
+command.run

@@ -977,4 +977,89 @@ Crystal nested macros (`macro finished` inside `macro included`) cannot use `\{%
 
 ---
 
-*Last updated: 2026-02-08*
+## Phase 9: Command Restructure ✅ COMPLETE
+
+**Completed**: 2026-02-09
+
+### Goal
+Restructure all standalone Crystal command scripts (`commands/*.cr`) into a shared library under `data/src/commands/` with thin entry-point wrappers, shared initialization, and a unified pipeline runner.
+
+### Architecture
+
+```
+data/src/commands/
+├── base.cr              # Commands module, ENVS constant, init_blog helper
+├── all.cr               # Require aggregator
+├── pipeline/            # Data pipeline commands (run in sequence)
+│   ├── all.cr
+│   ├── generate_areas_for_posts.cr
+│   ├── generate_polygon_json.cr
+│   ├── assign_photos_to_areas.cr
+│   └── gpx_rectify.cr
+└── tools/               # Standalone utility commands
+    ├── all.cr
+    ├── fetch_map_tiles.cr
+    ├── list_missing_routes.cr
+    └── test_region_matching.cr
+```
+
+### What Was Done
+
+1. **Created `data/src/commands/base.cr`** — `Commands` module with `ENVS` constant and `init_blog` helper for shared Blog initialization
+2. **Created pipeline commands** (4) — `generate_areas_for_posts`, `generate_polygon_json`, `assign_photos_to_areas`, `gpx_rectify` — all accept optional `AreaMatcher::Matcher` for shared loading
+3. **Created tool commands** (3) — `fetch_map_tiles`, `list_missing_routes`, `test_region_matching`
+4. **Rewrote all 7 `commands/*.cr` entry points** as thin wrappers delegating to `data/src/commands/`
+5. **Created `commands/run_all.cr`** — unified pipeline runner that shares a single `AreaMatcher::Matcher` instance (~90MB loaded once instead of per-command)
+6. **Fixed `Map::Downloader::PUBLIC_PATH`** — corrected path to `env/full/public/local/tiles`
+7. **Fixed broken require** in `lists_posts_missing_detailed_route.cr`
+
+### Key Design Decisions
+
+- **Pipeline vs Tools separation** — Pipeline commands process data in sequence and benefit from shared state (AreaMatcher). Tools are standalone utilities.
+- **Optional `AreaMatcher::Matcher` parameter** — Pipeline commands can create their own matcher if run individually, or receive a shared one from `run_all.cr`
+- **2 commands deferred** — `generate_photo_map.cr` and `generate_maps_for_route_ideas.cr` remain as-is (more complex dependencies, less frequently used)
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/src/commands/base.cr` | Commands module, ENVS, init_blog helper |
+| `data/src/commands/all.cr` | Require aggregator |
+| `data/src/commands/pipeline/all.cr` | Pipeline require aggregator |
+| `data/src/commands/pipeline/generate_areas_for_posts.cr` | Area-post matching command |
+| `data/src/commands/pipeline/generate_polygon_json.cr` | GeoJSON generation command |
+| `data/src/commands/pipeline/assign_photos_to_areas.cr` | Photo-area assignment command |
+| `data/src/commands/pipeline/gpx_rectify.cr` | GPX rectification command |
+| `data/src/commands/tools/all.cr` | Tools require aggregator |
+| `data/src/commands/tools/fetch_map_tiles.cr` | Map tile downloader |
+| `data/src/commands/tools/list_missing_routes.cr` | Missing route lister |
+| `data/src/commands/tools/test_region_matching.cr` | Region matching tester |
+| `commands/run_all.cr` | Unified pipeline runner |
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `commands/generate_areas_for_posts.cr` | Thin wrapper delegating to pipeline |
+| `commands/generate_polygon_json.cr` | Thin wrapper delegating to pipeline |
+| `commands/assign_photos_to_areas.cr` | Thin wrapper delegating to pipeline |
+| `commands/gpx_rectify.cr` | Thin wrapper delegating to pipeline |
+| `commands/fetch_map_tiles.cr` | Thin wrapper delegating to tools |
+| `commands/list_missing_routes.cr` | Thin wrapper delegating to tools |
+| `commands/test_region_matching.cr` | Thin wrapper delegating to tools |
+
+### Tests Added
+
+28 new Crystal specs:
+- `spec/commands/base_spec.cr` — Commands module tests
+- `spec/commands/assign_photos_manifest_spec.cr` — Manifest/incremental processing tests
+- `spec/commands/douglas_peucker_spec.cr` — Polygon simplification tests
+- `spec/commands/tools_spec.cr` — Tool command tests
+
+### Test Results
+
+**444 Crystal tests passing, 161 E2E tests passing**
+
+---
+
+*Last updated: 2026-02-09*

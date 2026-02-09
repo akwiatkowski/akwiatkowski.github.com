@@ -1,11 +1,11 @@
 # Current Work
 
-## Status: Phase 20 - JSON Optimization (In Progress)
+## Status: Phase 9 - Command Restructure (Complete)
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8, 11-23, Photo Planner)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8-9, 11-24, Photo Planner)
 
 ---
 
@@ -129,6 +129,96 @@ Summary page (`/zestawienie.html`) deleted. No longer needed.
 
 ---
 
+## Phase 9: Command Restructure (Complete)
+
+**Goal:** Restructure all standalone Crystal command scripts into a shared library with thin entry-point wrappers and a unified pipeline runner.
+
+**Architecture:**
+```
+data/src/commands/
+├── base.cr              # Commands module, ENVS constant, init_blog helper
+├── all.cr               # Require aggregator
+├── pipeline/            # Data pipeline commands (run in sequence)
+│   ├── all.cr
+│   ├── generate_areas_for_posts.cr
+│   ├── generate_polygon_json.cr
+│   ├── assign_photos_to_areas.cr
+│   └── gpx_rectify.cr
+└── tools/               # Standalone utility commands
+    ├── all.cr
+    ├── fetch_map_tiles.cr
+    ├── list_missing_routes.cr
+    └── test_region_matching.cr
+
+commands/                # Thin entry-point wrappers (delegate to data/src/commands/)
+├── run_all.cr           # Unified pipeline runner (shares single AreaMatcher::Matcher)
+├── generate_areas_for_posts.cr
+├── generate_polygon_json.cr
+├── assign_photos_to_areas.cr
+├── gpx_rectify.cr
+├── fetch_map_tiles.cr
+├── list_missing_routes.cr
+└── test_region_matching.cr
+```
+
+**Key changes:**
+- All 7 `commands/*.cr` entry points rewritten as thin wrappers delegating to `data/src/commands/`
+- All pipeline commands accept optional `AreaMatcher::Matcher` for shared loading (~90MB loaded once)
+- `commands/run_all.cr` runs full pipeline with shared matcher instance
+- Fixed `Map::Downloader::PUBLIC_PATH` to `env/full/public/local/tiles`
+- Fixed broken require in `lists_posts_missing_detailed_route.cr`
+- 2 deferred commands remain as-is: `generate_photo_map.cr`, `generate_maps_for_route_ideas.cr`
+
+**Tests added:** 28 new specs (base_spec, assign_photos_manifest_spec, douglas_peucker_spec, tools_spec)
+
+**Test Results:** 444 Crystal specs passing, 161 E2E tests passing
+
+---
+
+## Phase 24: Polygon-Based Photo-to-Area Assignment (Complete)
+
+**Goal:** Replace inaccurate bbox-based photo selection on area show pages with precise polygon point-in-polygon matching using GEOS.
+
+**Architecture:**
+```
+commands/assign_photos_to_areas.cr   ← Offline script (run manually)
+         ↓ uses
+AreaMatcher::Matcher.match_point()   ← GEOS polygon testing
+         ↓ writes
+env/<env>/cache/photos_in_area/      ← Per-area YAML cache
+  ├── already_assigned.txt           ← Manifest of processed photos
+  ├── towns/<slug>.yml
+  ├── counties/<slug>.yml
+  ├── voivodeships/<slug>.yml
+  ├── meso_regions/<slug>.yml
+  └── macro_regions/<slug>.yml
+         ↓ read by
+PhotoAreaCache                       ← Build-time cache reader service
+         ↓ used by
+AreaShowView.collect_area_photos     ← Returns cached photos (no bbox fallback)
+```
+
+**Files created:**
+- `commands/assign_photos_to_areas.cr` — Offline command with incremental processing via manifest, `--overwrite` flag
+- `data/src/services/photo_area_cache.cr` — Build-time cache reader, resolves YAML entries to PhotoEntity
+- `spec/services/photo_area_cache_spec.cr` — 7 Crystal specs
+- `tests/e2e/specs/area-show.spec.js` — 20 E2E tests (4 area types × 5 checks)
+
+**Files modified:**
+- `data/src/blog.cr` — Added `require "./services/photo_area_cache"`
+- `data/src/render_context.cr` — Added lazy `photo_area_cache` getter
+- `data/src/views/area_show_view.cr` — `collect_area_photos` uses cache instead of bbox, no fallback
+
+**Results (full env):** 6,059 geo-tagged photos assigned to 1,037 area-slug pairs across 5 area types.
+
+**Usage:**
+```bash
+crystal run commands/assign_photos_to_areas.cr              # Incremental
+crystal run commands/assign_photos_to_areas.cr -- --overwrite  # Full reprocess
+```
+
+---
+
 ## Phase 23: Centralized Profiler (Complete)
 
 **Goal:** Replace scattered manual timing with a single annotation-based profiler.
@@ -238,11 +328,6 @@ this saves roughly 3 minutes of total build time.
 
 ## Backlog
 
-### Phase 9: Command Registry
-- Unified system for periodic/scheduled tasks
-- Task types: Manual, Periodic, FileChanged, PostRender
-- Task tracking in `cache/command_runs.yml`
-
 ### Future Ideas
 
 **Trip Ideas page (`/pomysly_tras.html`) - Known Issues:**
@@ -287,7 +372,7 @@ Current state for area show pages (and likely other pages):
 
 ## Test Status
 
-**409 Crystal tests passing, 141 E2E tests passing**
+**444 Crystal tests passing, 161 E2E tests passing**
 
 ### E2E Tests (Playwright)
 
@@ -303,9 +388,10 @@ Infrastructure in `tests/e2e/`:
 - `specs/navigation.spec.js` - Navigation styling across pages
 - `specs/more-page.spec.js` - More page links
 - `specs/towns-index.spec.js` - Towns index search, voivodeships, cards
-- `specs/area-filtering.spec.js` - Area show page filtering
+- `specs/area-filtering.spec.js` - Area post list filtering
+- `specs/area-show.spec.js` - Area show pages (photos, JSON, no JS errors)
 
-**Latest Results: 141 passed, 0 failed, 5 skipped**
+**Latest Results: 161 passed, 0 failed, 5 skipped**
 
 **Run E2E tests:**
 ```bash
@@ -316,4 +402,4 @@ make test-e2e-headed   # Run with visible browser
 
 ---
 
-*Last updated: 2026-02-08*
+*Last updated: 2026-02-09*

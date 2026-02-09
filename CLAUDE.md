@@ -124,14 +124,31 @@ spec/
 └── views/               # View tests
 ```
 
-### Commands (Standalone Scripts)
+### Commands
 
 ```
-commands/
-├── generate_areas_for_posts.cr   # Match routes to areas, generate cache
-├── generate_polygon_json.cr      # Generate GeoJSON for frontend (NEW)
-├── fetch_map_tiles.cr            # Download map tiles for offline use
-└── ...
+data/src/commands/                # Shared command library
+├── base.cr                       # Commands module, ENVS, init_blog helper
+├── all.cr                        # Require aggregator
+├── pipeline/                     # Data pipeline commands
+│   ├── generate_areas_for_posts.cr
+│   ├── generate_polygon_json.cr
+│   ├── assign_photos_to_areas.cr
+│   └── gpx_rectify.cr
+└── tools/                        # Standalone utilities
+    ├── fetch_map_tiles.cr
+    ├── list_missing_routes.cr
+    └── test_region_matching.cr
+
+commands/                         # Thin entry-point wrappers
+├── run_all.cr                    # Unified pipeline runner (shared AreaMatcher)
+├── generate_areas_for_posts.cr
+├── generate_polygon_json.cr
+├── assign_photos_to_areas.cr
+├── gpx_rectify.cr
+├── fetch_map_tiles.cr
+├── list_missing_routes.cr
+└── test_region_matching.cr
 ```
 
 ### External Data & Polygons
@@ -407,24 +424,26 @@ npx playwright test --headed    # See browser while testing
 
 ### Running Commands
 
-Commands are standalone Crystal scripts in `commands/` directory:
+Commands are thin wrappers in `commands/` that delegate to `data/src/commands/`:
 
 ```bash
-# Generate area associations for posts (run when posts or external data changes)
+# Run full pipeline (shared AreaMatcher, ~90MB loaded once)
+crystal run commands/run_all.cr
+
+# Individual pipeline commands
 crystal run commands/generate_areas_for_posts.cr
-crystal run commands/generate_areas_for_posts.cr --overwrite  # Force regenerate all
-
-# Generate polygon JSON files for frontend (run when external data changes)
+crystal run commands/generate_areas_for_posts.cr -- --overwrite  # Force regenerate all
 crystal run commands/generate_polygon_json.cr
-crystal run commands/generate_polygon_json.cr --tolerance=0.001  # Custom simplification
+crystal run commands/generate_polygon_json.cr -- --tolerance=0.001  # Custom simplification
+crystal run commands/assign_photos_to_areas.cr
+crystal run commands/assign_photos_to_areas.cr -- --overwrite  # Full reprocess
+crystal run commands/gpx_rectify.cr
+
+# Tool commands
+crystal run commands/fetch_map_tiles.cr
+crystal run commands/list_missing_routes.cr
+crystal run commands/test_region_matching.cr
 ```
-
-### Command Registry (Planned)
-
-See `PLAN.md` Phase 9 for the upcoming unified command system with:
-- Periodic tasks (time-based triggers)
-- FileChanged tasks (source file triggers)
-- Task run tracking in `cache/command_runs.yml`
 
 ## Validation Checklist
 
@@ -547,7 +566,11 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-07: AreaPhotoSelector.best_unique_photo_for - tracks used photos to prevent duplicates across cards
 - 2026-02-07: Voivodeship slug fix - warminskomazurskie → warminsko-mazurskie (hyphen consistency)
 - 2026-02-07: E2E tests for towns index (8 tests in towns-index.spec.js)
+- 2026-02-09: Command restructure - data/src/commands/ library with pipeline/ and tools/ subdirs
+- 2026-02-09: commands/*.cr rewritten as thin wrappers delegating to data/src/commands/
+- 2026-02-09: commands/run_all.cr - unified pipeline runner with shared AreaMatcher (~90MB loaded once)
+- 2026-02-09: 28 new command specs (base, manifest, douglas_peucker, tools)
 
 ---
 
-*Current stats: 5 tasks + 42 views = 47 registry entries, 274 tests, 118 e2e tests*
+*Current stats: 5 tasks + 42 views = 47 registry entries, 444 tests, 161 e2e tests*
