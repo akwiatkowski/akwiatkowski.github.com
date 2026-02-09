@@ -4,7 +4,7 @@
   total_distance_km: 83.066
   points_count: 244.0
   towns:
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
     distance_meters: 18010.29
@@ -28,7 +28,7 @@
     distance_meters: 13303.43
     distance_km: 13.303
     distance_percent: 16.0154
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-wiejska
     name: Giżycko
     code: "2806042"
     distance_meters: 10430.22
@@ -40,7 +40,7 @@
     distance_meters: 6496.41
     distance_km: 6.496
     distance_percent: 7.8207
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-miejska
     name: Kętrzyn
     code: "2808011"
     distance_meters: 2666.9
@@ -129,15 +129,18 @@
   - slug: milki
     name: Miłki
     code: "2806062"
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-wiejska
     name: Giżycko
     code: "2806042"
   - slug: ryn
     name: Ryn
     code: "2806083"
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
+  - slug: ketrzyn-warminsko-mazurskie-miejska
+    name: Kętrzyn
+    code: "2808011"
   touched_counties:
   - slug: elcki
     name: ełcki

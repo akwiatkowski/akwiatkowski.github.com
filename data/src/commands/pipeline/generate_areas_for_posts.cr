@@ -17,6 +17,10 @@ class Commands::Pipeline::GenerateAreasForPosts
   end
 
   def run
+    # Disambiguate colliding slugs before any output
+    disambiguate_slugs!(@matcher.towns)
+    disambiguate_slugs!(@matcher.counties)
+
     Commands::ENVS.each do |env|
       puts "\n=== Processing env: #{env} ==="
       process_env(env)
@@ -191,5 +195,65 @@ class Commands::Pipeline::GenerateAreasForPosts
       hash["code"] = code_value
       hash
     end
+  end
+
+  TERC_TYPE_LABELS = {
+    '1' => "miejska",
+    '2' => "wiejska",
+    '3' => "miejsko-wiejska",
+  }
+
+  # Disambiguate colliding slugs in two passes:
+  # 1. Append voivodeship for cross-voivodeship collisions
+  # 2. Append gmina type (miejska/wiejska) or county slug for same-voivodeship collisions
+  # ALL entries sharing a slug get the suffix (no arbitrary first-wins).
+  protected def disambiguate_slugs!(areas : Array(AreaMatcher::Area))
+    # Pass 1: voivodeship disambiguation
+    by_slug = areas.group_by(&.slug)
+    pass1 = 0
+    by_slug.each do |slug, entries|
+      next if entries.size == 1
+      entries.each do |area|
+        if voiv = area.voivodeship
+          area.slug = "#{slug}-#{voiv}"
+          pass1 += 1
+        else
+          puts "WARNING: Duplicate slug '#{slug}' without voivodeship — cannot disambiguate"
+        end
+      end
+    end
+
+    # Pass 2: type label or county for remaining collisions (same slug + same voivodeship)
+    by_slug2 = areas.group_by(&.slug)
+    pass2 = 0
+    by_slug2.each do |slug, entries|
+      next if entries.size == 1
+      # Check if TERC type digits are unique within this group
+      type_digits = entries.map { |a| a.terc.try { |t| t[-1] } }
+      types_unique = type_digits.compact.uniq.size == entries.size
+
+      entries.each do |area|
+        terc = area.terc
+        next unless terc
+        if types_unique
+          label = TERC_TYPE_LABELS[terc[-1]]? || terc
+          area.slug = "#{slug}-#{label}"
+        else
+          # Fall back to county slug from TERC prefix
+          county_slug = county_slug_for_terc(terc)
+          area.slug = "#{slug}-#{county_slug || terc}"
+        end
+        pass2 += 1
+      end
+    end
+
+    total = pass1 + pass2
+    puts "Disambiguated #{pass1} voivodeship + #{pass2} type/county slug collisions" if total > 0
+  end
+
+  private def county_slug_for_terc(terc : String) : String?
+    prefix = terc[0..3]
+    county = @matcher.counties.find { |c| c.terc.try(&.starts_with?(prefix)) }
+    county.try(&.slug)
   end
 end

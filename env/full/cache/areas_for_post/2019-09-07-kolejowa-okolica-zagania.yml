@@ -4,25 +4,25 @@
   total_distance_km: 343.612
   points_count: 343.0
   towns:
-  - slug: zary
+  - slug: zary-lubuskie-wiejska
     name: Żary
     code: 0811102
     distance_meters: 75289.46
     distance_km: 75.289
     distance_percent: 21.9112
-  - slug: swidnica
+  - slug: swidnica-lubuskie
     name: Świdnica
     code: 0809072
     distance_meters: 32412.42
     distance_km: 32.412
     distance_percent: 9.4329
-  - slug: zagan
+  - slug: zagan-lubuskie-miejska
     name: Żagań
     code: 0810021
     distance_meters: 25433.67
     distance_km: 25.434
     distance_percent: 7.4019
-  - slug: zary
+  - slug: zary-lubuskie-miejska
     name: Żary
     code: 0811021
     distance_meters: 25304.93
@@ -64,7 +64,7 @@
     distance_meters: 14281.59
     distance_km: 14.282
     distance_percent: 4.1563
-  - slug: zagan
+  - slug: zagan-lubuskie-wiejska
     name: Żagań
     code: 0810092
     distance_meters: 13261.95
@@ -372,16 +372,19 @@
   - slug: zielona_gora
     name: Zielona Góra
     code: 0862011
-  - slug: swidnica
+  - slug: swidnica-lubuskie
     name: Świdnica
     code: 0809072
   - slug: nowogrod_bobrzanski
     name: Nowogród Bobrzański
     code: 0809053
-  - slug: zary
+  - slug: zary-lubuskie-wiejska
     name: Żary
     code: 0811102
-  - slug: zagan
+  - slug: zary-lubuskie-miejska
+    name: Żary
+    code: 0811021
+  - slug: zagan-lubuskie-miejska
     name: Żagań
     code: 0810021
   - slug: malomice

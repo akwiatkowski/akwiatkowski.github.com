@@ -22,7 +22,7 @@
     distance_meters: 11184.07
     distance_km: 11.184
     distance_percent: 19.8046
-  - slug: pniewy
+  - slug: pniewy-wielkopolskie
     name: Pniewy
     code: "3024063"
     distance_meters: 9635.61
@@ -108,7 +108,7 @@
   - slug: chrzypsko_wielkie
     name: Chrzypsko Wielkie
     code: "3014012"
-  - slug: pniewy
+  - slug: pniewy-wielkopolskie
     name: Pniewy
     code: "3024063"
   - slug: ostrorog

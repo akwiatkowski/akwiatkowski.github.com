@@ -70,7 +70,7 @@
     distance_meters: 12984.98
     distance_km: 12.985
     distance_percent: 3.4936
-  - slug: lomza
+  - slug: lomza-podlaskie-wiejska
     name: Łomża
     code: "2007022"
     distance_meters: 10772.35
@@ -118,13 +118,13 @@
     distance_meters: 6167.74
     distance_km: 6.168
     distance_percent: 1.6594
-  - slug: lomza
+  - slug: lomza-podlaskie-miejska
     name: Łomża
     code: "2062011"
     distance_meters: 5954.78
     distance_km: 5.955
     distance_percent: 1.6021
-  - slug: jablonna
+  - slug: jablonna-mazowieckie
     name: Jabłonna
     code: "1408022"
     distance_meters: 4462.0
@@ -203,7 +203,7 @@
     distance_meters: 5954.78
     distance_km: 5.955
     distance_percent: 1.6021
-  - slug: ostrowski
+  - slug: ostrowski-mazowieckie
     name: ostrowski
     code: "1416"
     distance_meters: 3894.88
@@ -336,9 +336,12 @@
   - slug: sniadowo
     name: Śniadowo
     code: "2007072"
-  - slug: lomza
+  - slug: lomza-podlaskie-wiejska
     name: Łomża
     code: "2007022"
+  - slug: lomza-podlaskie-miejska
+    name: Łomża
+    code: "2062011"
   - slug: czerwin
     name: Czerwin
     code: "1415032"
@@ -360,7 +363,7 @@
   - slug: legionowo
     name: Legionowo
     code: "1408011"
-  - slug: jablonna
+  - slug: jablonna-mazowieckie
     name: Jabłonna
     code: "1408022"
   touched_counties:
@@ -385,7 +388,7 @@
   - slug: lomza
     name: Łomża
     code: "2062"
-  - slug: ostrowski
+  - slug: ostrowski-mazowieckie
     name: ostrowski
     code: "1416"
   - slug: legionowski

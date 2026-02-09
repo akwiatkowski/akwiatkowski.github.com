@@ -10,7 +10,7 @@
     distance_meters: 19805.4
     distance_km: 19.805
     distance_percent: 55.449
-  - slug: obrzycko
+  - slug: obrzycko-wielkopolskie-wiejska
     name: Obrzycko
     code: "3024042"
     distance_meters: 9887.51
@@ -22,7 +22,7 @@
     distance_meters: 6025.33
     distance_km: 6.025
     distance_percent: 16.8691
-  - slug: obrzycko
+  - slug: obrzycko-wielkopolskie-miejska
     name: Obrzycko
     code: "3024011"
     distance_meters: 1060.44
@@ -87,9 +87,12 @@
   - slug: oborniki
     name: Oborniki
     code: "3016013"
-  - slug: obrzycko
+  - slug: obrzycko-wielkopolskie-wiejska
     name: Obrzycko
     code: "3024042"
+  - slug: obrzycko-wielkopolskie-miejska
+    name: Obrzycko
+    code: "3024011"
   - slug: wronki
     name: Wronki
     code: "3024083"

@@ -10,7 +10,7 @@
     distance_meters: 22902.01
     distance_km: 22.902
     distance_percent: 44.7009
-  - slug: osieczna
+  - slug: osieczna-pomorskie
     name: Osieczna
     code: "2213072"
     distance_meters: 12315.48
@@ -120,7 +120,7 @@
   - slug: sliwice
     name: Śliwice
     code: "0416052"
-  - slug: osieczna
+  - slug: osieczna-pomorskie
     name: Osieczna
     code: "2213072"
   - slug: lubichowo

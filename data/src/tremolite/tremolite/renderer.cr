@@ -6,13 +6,21 @@ require "./views/robot_generator"
 class Tremolite::Renderer
   Log = ::Log.for(self)
 
-  def initialize(@blog : Tremolite::Blog, @html_buffer : Tremolite::HtmlBuffer)
-    @data_path = @blog.data_path.as(String)
-    @output_path = @blog.output_path.as(String)
-    @assets_path = @blog.assets_path.as(String)
+  def initialize(
+    @html_buffer : Tremolite::HtmlBuffer,
+    @data_path : String,
+    @output_path : String,
+    @assets_path : String,
+  )
   end
 
-  getter :blog
+  # Late-bound dependencies (set after construction)
+  property validator : Tremolite::Validator?
+  property url_to_output_path_proc : Proc(String, String)?
+
+  private def url_to_output_path(url : String) : String
+    @url_to_output_path_proc.not_nil!.call(url)
+  end
 
   def render
     # clear # not needed every time
@@ -24,20 +32,22 @@ class Tremolite::Renderer
     render_all
   end
 
+  # Late-bound: image resizer and posts for process_images
+  property image_resizer : Tremolite::ImageResizer?
+  property posts_for_resize : Array(Tremolite::Post)?
+
   # Resize all post images to small, thumb, ...
   private def process_images(overwrite : Bool)
     Log.info { "Start image resize" }
 
-    blog.post_collection.posts.each do |post|
-      # resize
-      blog.image_resizer.not_nil!.resize_all_images_for_post(post: post, overwrite: overwrite)
+    resizer = @image_resizer
+    return unless resizer
+
+    (@posts_for_resize || [] of Tremolite::Post).each do |post|
+      resizer.resize_all_images_for_post(post: post, overwrite: overwrite)
     end
 
     Log.info { "End image resize" }
-  end
-
-  # override this method in your code
-  def render_all
   end
 
   # WARNING
@@ -51,12 +61,12 @@ class Tremolite::Renderer
 
   private def copy_images
     command = "rsync --mkpath -av #{@data_path}/images #{@output_path}/"
-    @logger.info "copy_images: #{command}"
+    Log.info { "copy_images: #{command}" }
     `#{command}`
   end
 
   private def open_to_write_in_public(url : String) : File
-    html_output_path = @blog.url_to_output_path(url)
+    html_output_path = url_to_output_path(url)
     Dir.mkdir_p_dirname(html_output_path)
     f = File.open(html_output_path, "w")
     return f
@@ -78,14 +88,14 @@ class Tremolite::Renderer
     view,
   )
     # for checking conflicting paths
-    @blog.not_nil!.validator.not_nil!.url_written(url)
+    @validator.try(&.url_written(url))
 
     # only check if output html was modified
     # input modification is stored elsewhere
     modified = @html_buffer.check(
       url: url,
       content: content,
-      output_path: @blog.url_to_output_path(url),
+      output_path: url_to_output_path(url),
       add_to_sitemap: add_to_sitemap
     )
 

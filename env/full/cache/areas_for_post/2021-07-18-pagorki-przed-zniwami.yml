@@ -28,7 +28,7 @@
     distance_meters: 8685.36
     distance_km: 8.685
     distance_percent: 13.1435
-  - slug: grudziadz
+  - slug: grudziadz-kujawsko-pomorskie-miejska
     name: Grudziądz
     code: "0462011"
     distance_meters: 7500.88
@@ -40,7 +40,7 @@
     distance_meters: 5003.05
     distance_km: 5.003
     distance_percent: 7.5711
-  - slug: grudziadz
+  - slug: grudziadz-kujawsko-pomorskie-wiejska
     name: Grudziądz
     code: "0406012"
     distance_meters: 4010.65
@@ -162,9 +162,12 @@
   - slug: dragacz
     name: Dragacz
     code: "0414022"
-  - slug: grudziadz
+  - slug: grudziadz-kujawsko-pomorskie-miejska
     name: Grudziądz
     code: "0462011"
+  - slug: grudziadz-kujawsko-pomorskie-wiejska
+    name: Grudziądz
+    code: "0406012"
   - slug: gruta
     name: Gruta
     code: "0406022"

@@ -16,7 +16,7 @@
     distance_meters: 3654.02
     distance_km: 3.654
     distance_percent: 7.5264
-  - slug: lubrza
+  - slug: lubrza-lubuskie
     name: Lubrza
     code: 0808012
     distance_meters: 3252.63
@@ -93,7 +93,7 @@
   - slug: miedzyrzecz
     name: Międzyrzecz
     code: 0803023
-  - slug: lubrza
+  - slug: lubrza-lubuskie
     name: Lubrza
     code: 0808012
   - slug: sulecin

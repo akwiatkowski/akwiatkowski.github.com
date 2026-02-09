@@ -16,13 +16,13 @@
     distance_meters: 23155.07
     distance_km: 23.155
     distance_percent: 7.8144
-  - slug: plonsk
+  - slug: plonsk-mazowieckie-wiejska
     name: Płońsk
     code: "1420092"
     distance_meters: 18599.65
     distance_km: 18.6
     distance_percent: 6.277
-  - slug: raciaz
+  - slug: raciaz-mazowieckie-wiejska
     name: Raciąż
     code: "1420102"
     distance_meters: 17463.25
@@ -40,7 +40,7 @@
     distance_meters: 16488.71
     distance_km: 16.489
     distance_percent: 5.5646
-  - slug: lipno
+  - slug: lipno-kujawsko-pomorskie-wiejska
     name: Lipno
     code: 0408062
     distance_meters: 15986.92
@@ -58,7 +58,7 @@
     distance_meters: 13893.04
     distance_km: 13.893
     distance_percent: 4.6886
-  - slug: sierpc
+  - slug: sierpc-mazowieckie-wiejska
     name: Sierpc
     code: "1427052"
     distance_meters: 13126.43
@@ -76,7 +76,7 @@
     distance_meters: 12858.04
     distance_km: 12.858
     distance_percent: 4.3393
-  - slug: jablonna
+  - slug: jablonna-mazowieckie
     name: Jabłonna
     code: "1408022"
     distance_meters: 11976.61
@@ -100,13 +100,13 @@
     distance_meters: 9792.49
     distance_km: 9.792
     distance_percent: 3.3048
-  - slug: aleksandrow_kujawski
+  - slug: aleksandrow_kujawski-kujawsko-pomorskie-miejska
     name: Aleksandrów Kujawski
     code: "0401011"
     distance_meters: 7635.09
     distance_km: 7.635
     distance_percent: 2.5767
-  - slug: aleksandrow_kujawski
+  - slug: aleksandrow_kujawski-kujawsko-pomorskie-wiejska
     name: Aleksandrów Kujawski
     code: "0401042"
     distance_meters: 7467.57
@@ -124,7 +124,7 @@
     distance_meters: 5436.64
     distance_km: 5.437
     distance_percent: 1.8348
-  - slug: sierpc
+  - slug: sierpc-mazowieckie-miejska
     name: Sierpc
     code: "1427011"
     distance_meters: 5147.71
@@ -142,13 +142,13 @@
     distance_meters: 3940.19
     distance_km: 3.94
     distance_percent: 1.3297
-  - slug: plonsk
+  - slug: plonsk-mazowieckie-miejska
     name: Płońsk
     code: "1420011"
     distance_meters: 3885.17
     distance_km: 3.885
     distance_percent: 1.3112
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
     distance_meters: 3269.7
@@ -160,13 +160,13 @@
     distance_meters: 2045.3
     distance_km: 2.045
     distance_percent: 0.6902
-  - slug: raciaz
+  - slug: raciaz-mazowieckie-miejska
     name: Raciąż
     code: "1420021"
     distance_meters: 2002.62
     distance_km: 2.003
     distance_percent: 0.6758
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-miejska
     name: Inowrocław
     code: "0407011"
     distance_meters: 1994.2
@@ -190,7 +190,7 @@
     distance_meters: 536.22
     distance_km: 0.536
     distance_percent: 0.181
-  - slug: lipno
+  - slug: lipno-kujawsko-pomorskie-miejska
     name: Lipno
     code: 0408011
     distance_meters: 455.8
@@ -215,7 +215,7 @@
     distance_meters: 32703.4
     distance_km: 32.703
     distance_percent: 11.0368
-  - slug: nowodworski
+  - slug: nowodworski-mazowieckie
     name: nowodworski
     code: "1414"
     distance_meters: 31717.84
@@ -393,7 +393,7 @@
   - slug: warszawa
     name: Warszawa
     code: "1465011"
-  - slug: jablonna
+  - slug: jablonna-mazowieckie
     name: Jabłonna
     code: "1408022"
   - slug: legionowo
@@ -414,27 +414,39 @@
   - slug: joniec
     name: Joniec
     code: "1420062"
-  - slug: plonsk
+  - slug: plonsk-mazowieckie-wiejska
     name: Płońsk
     code: "1420092"
+  - slug: plonsk-mazowieckie-miejska
+    name: Płońsk
+    code: "1420011"
   - slug: baboszewo
     name: Baboszewo
     code: "1420032"
-  - slug: raciaz
+  - slug: raciaz-mazowieckie-wiejska
     name: Raciąż
     code: "1420102"
+  - slug: raciaz-mazowieckie-miejska
+    name: Raciąż
+    code: "1420021"
   - slug: zawidz
     name: Zawidz
     code: "1427072"
-  - slug: sierpc
+  - slug: sierpc-mazowieckie-wiejska
     name: Sierpc
     code: "1427052"
+  - slug: sierpc-mazowieckie-miejska
+    name: Sierpc
+    code: "1427011"
   - slug: skepe
     name: Skępe
     code: 0408073
-  - slug: lipno
+  - slug: lipno-kujawsko-pomorskie-wiejska
     name: Lipno
     code: 0408062
+  - slug: lipno-kujawsko-pomorskie-miejska
+    name: Lipno
+    code: 0408011
   - slug: czernikowo
     name: Czernikowo
     code: "0415032"
@@ -447,13 +459,16 @@
   - slug: wielka_nieszawka
     name: Wielka Nieszawka
     code: 0415082
-  - slug: aleksandrow_kujawski
+  - slug: aleksandrow_kujawski-kujawsko-pomorskie-miejska
     name: Aleksandrów Kujawski
     code: "0401011"
+  - slug: aleksandrow_kujawski-kujawsko-pomorskie-wiejska
+    name: Aleksandrów Kujawski
+    code: "0401042"
   - slug: gniewkowo
     name: Gniewkowo
     code: "0407033"
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-miejska
     name: Inowrocław
     code: "0407011"
   touched_counties:
@@ -463,7 +478,7 @@
   - slug: legionowski
     name: legionowski
     code: "1408"
-  - slug: nowodworski
+  - slug: nowodworski-mazowieckie
     name: nowodworski
     code: "1414"
   - slug: plonski

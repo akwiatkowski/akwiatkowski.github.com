@@ -10,7 +10,7 @@
     distance_meters: 24739.73
     distance_km: 24.74
     distance_percent: 9.3056
-  - slug: gostynin
+  - slug: gostynin-mazowieckie-wiejska
     name: Gostynin
     code: "1404022"
     distance_meters: 17999.43
@@ -28,7 +28,7 @@
     distance_meters: 14011.04
     distance_km: 14.011
     distance_percent: 5.2701
-  - slug: rypin
+  - slug: rypin-kujawsko-pomorskie-wiejska
     name: Rypin
     code: "0412042"
     distance_meters: 13936.71
@@ -46,7 +46,7 @@
     distance_meters: 12608.34
     distance_km: 12.608
     distance_percent: 4.7425
-  - slug: sierpc
+  - slug: sierpc-mazowieckie-wiejska
     name: Sierpc
     code: "1427052"
     distance_meters: 11166.24
@@ -70,7 +70,7 @@
     distance_meters: 9656.41
     distance_km: 9.656
     distance_percent: 3.6322
-  - slug: osiek
+  - slug: osiek-kujawsko-pomorskie
     name: Osiek
     code: 0402082
     distance_meters: 8732.32
@@ -82,7 +82,7 @@
     distance_meters: 8710.16
     distance_km: 8.71
     distance_percent: 3.2762
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
     distance_meters: 8519.5
@@ -94,7 +94,7 @@
     distance_meters: 8434.31
     distance_km: 8.434
     distance_percent: 3.1725
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-miejska
     name: Brodnica
     code: "0402011"
     distance_meters: 7376.54
@@ -130,49 +130,49 @@
     distance_meters: 6550.26
     distance_km: 6.55
     distance_percent: 2.4638
-  - slug: gostynin
+  - slug: gostynin-mazowieckie-miejska
     name: Gostynin
     code: "1404011"
     distance_meters: 6527.77
     distance_km: 6.528
     distance_percent: 2.4554
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-rypinski
     name: Rogowo
     code: "0412032"
     distance_meters: 6346.62
     distance_km: 6.347
     distance_percent: 2.3872
-  - slug: kutno
+  - slug: kutno-lodzkie-wiejska
     name: Kutno
     code: "1002062"
     distance_meters: 5934.02
     distance_km: 5.934
     distance_percent: 2.232
-  - slug: grudziadz
+  - slug: grudziadz-kujawsko-pomorskie-miejska
     name: Grudziądz
     code: "0462011"
     distance_meters: 4550.53
     distance_km: 4.551
     distance_percent: 1.7116
-  - slug: sierpc
+  - slug: sierpc-mazowieckie-miejska
     name: Sierpc
     code: "1427011"
     distance_meters: 4340.93
     distance_km: 4.341
     distance_percent: 1.6328
-  - slug: grudziadz
+  - slug: grudziadz-kujawsko-pomorskie-wiejska
     name: Grudziądz
     code: "0406012"
     distance_meters: 4053.08
     distance_km: 4.053
     distance_percent: 1.5245
-  - slug: kutno
+  - slug: kutno-lodzkie-miejska
     name: Kutno
     code: "1002011"
     distance_meters: 3948.87
     distance_km: 3.949
     distance_percent: 1.4853
-  - slug: rypin
+  - slug: rypin-kujawsko-pomorskie-miejska
     name: Rypin
     code: "0412011"
     distance_meters: 3089.36
@@ -432,13 +432,16 @@
     distance_km: 265.858
     distance_percent: 100.0
   touched_towns:
-  - slug: kutno
+  - slug: kutno-lodzkie-miejska
     name: Kutno
     code: "1002011"
+  - slug: kutno-lodzkie-wiejska
+    name: Kutno
+    code: "1002062"
   - slug: strzelce
     name: Strzelce
     code: "1002102"
-  - slug: gostynin
+  - slug: gostynin-mazowieckie-wiejska
     name: Gostynin
     code: "1404022"
   - slug: lack
@@ -456,24 +459,33 @@
   - slug: gozdowo
     name: Gozdowo
     code: "1427022"
-  - slug: sierpc
+  - slug: sierpc-mazowieckie-wiejska
     name: Sierpc
     code: "1427052"
+  - slug: sierpc-mazowieckie-miejska
+    name: Sierpc
+    code: "1427011"
   - slug: szczutowo
     name: Szczutowo
     code: "1427062"
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-rypinski
     name: Rogowo
     code: "0412032"
-  - slug: rypin
+  - slug: rypin-kujawsko-pomorskie-wiejska
     name: Rypin
     code: "0412042"
-  - slug: osiek
+  - slug: rypin-kujawsko-pomorskie-miejska
+    name: Rypin
+    code: "0412011"
+  - slug: osiek-kujawsko-pomorskie
     name: Osiek
     code: 0402082
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-miejska
     name: Brodnica
     code: "0402011"
+  - slug: brodnica-kujawsko-pomorskie-wiejska
+    name: Brodnica
+    code: "0402032"
   - slug: bobrowo
     name: Bobrowo
     code: "0402022"
@@ -489,9 +501,12 @@
   - slug: gruta
     name: Gruta
     code: "0406022"
-  - slug: grudziadz
+  - slug: grudziadz-kujawsko-pomorskie-wiejska
     name: Grudziądz
     code: "0406012"
+  - slug: grudziadz-kujawsko-pomorskie-miejska
+    name: Grudziądz
+    code: "0462011"
   - slug: dragacz
     name: Dragacz
     code: "0414022"

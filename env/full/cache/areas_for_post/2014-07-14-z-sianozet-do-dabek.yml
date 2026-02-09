@@ -16,7 +16,7 @@
     distance_meters: 10980.82
     distance_km: 10.981
     distance_percent: 18.6914
-  - slug: darlowo
+  - slug: darlowo-zachodniopomorskie-wiejska
     name: Darłowo
     code: "3213032"
     distance_meters: 9175.17
@@ -114,7 +114,7 @@
   - slug: sianow
     name: Sianów
     code: "3209073"
-  - slug: darlowo
+  - slug: darlowo-zachodniopomorskie-wiejska
     name: Darłowo
     code: "3213032"
   touched_counties:

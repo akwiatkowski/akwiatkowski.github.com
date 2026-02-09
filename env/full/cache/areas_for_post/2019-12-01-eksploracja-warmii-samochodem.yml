@@ -4,13 +4,13 @@
   total_distance_km: 153.05
   points_count: 565.0
   towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 51675.98
     distance_km: 51.676
     distance_percent: 33.7642
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
     distance_meters: 39085.05
@@ -22,7 +22,7 @@
     distance_meters: 23402.02
     distance_km: 23.402
     distance_percent: 15.2905
-  - slug: lubawa
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
     distance_meters: 19422.9
@@ -34,19 +34,19 @@
     distance_meters: 17569.69
     distance_km: 17.57
     distance_percent: 11.4797
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-miejska
     name: Iława
     code: "2807011"
     distance_meters: 8874.74
     distance_km: 8.875
     distance_percent: 5.7986
-  - slug: lubawa
+  - slug: lubawa-warminsko-mazurskie-miejska
     name: Lubawa
     code: "2807021"
     distance_meters: 6862.29
     distance_km: 6.862
     distance_percent: 4.4837
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-miejska
     name: Ostróda
     code: "2815011"
     distance_meters: 4235.25
@@ -174,21 +174,30 @@
     distance_km: 27.402
     distance_percent: 17.9037
   touched_towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
+  - slug: ostroda-warminsko-mazurskie-miejska
+    name: Ostróda
+    code: "2815011"
   - slug: milomlyn
     name: Miłomłyn
     code: "2815073"
   - slug: zalewo
     name: Zalewo
     code: "2807073"
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
-  - slug: lubawa
+  - slug: ilawa-warminsko-mazurskie-miejska
+    name: Iława
+    code: "2807011"
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
+  - slug: lubawa-warminsko-mazurskie-miejska
+    name: Lubawa
+    code: "2807021"
   - slug: dabrowno
     name: Dąbrówno
     code: "2815022"
@@ -258,19 +267,19 @@
   total_distance_km: 303.648
   points_count: 568.0
   towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 24815.18
     distance_km: 24.815
     distance_percent: 8.1724
-  - slug: golub-dobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-wiejska
     name: Golub-Dobrzyń
     code: "0405032"
     distance_meters: 22905.32
     distance_km: 22.905
     distance_percent: 7.5434
-  - slug: lubawa
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
     distance_meters: 18483.91
@@ -306,7 +315,7 @@
     distance_meters: 13580.51
     distance_km: 13.581
     distance_percent: 4.4725
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
     distance_meters: 13357.77
@@ -342,7 +351,7 @@
     distance_meters: 10415.31
     distance_km: 10.415
     distance_percent: 3.4301
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 9955.98
@@ -354,7 +363,7 @@
     distance_meters: 9628.11
     distance_km: 9.628
     distance_percent: 3.1708
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
     distance_meters: 9619.14
@@ -384,19 +393,19 @@
     distance_meters: 7287.63
     distance_km: 7.288
     distance_percent: 2.4
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 6504.16
     distance_km: 6.504
     distance_percent: 2.142
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-miejska
     name: Brodnica
     code: "0402011"
     distance_meters: 4999.32
     distance_km: 4.999
     distance_percent: 1.6464
-  - slug: nowe_miasto_lubawskie
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-miejska
     name: Nowe Miasto Lubawskie
     code: "2812011"
     distance_meters: 4671.26
@@ -408,19 +417,19 @@
     distance_meters: 4629.22
     distance_km: 4.629
     distance_percent: 1.5245
-  - slug: nowe_miasto_lubawskie
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-wiejska
     name: Nowe Miasto Lubawskie
     code: "2812052"
     distance_meters: 4459.78
     distance_km: 4.46
     distance_percent: 1.4687
-  - slug: lubawa
+  - slug: lubawa-warminsko-mazurskie-miejska
     name: Lubawa
     code: "2807021"
     distance_meters: 3307.91
     distance_km: 3.308
     distance_percent: 1.0894
-  - slug: golub-dobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-miejska
     name: Golub-Dobrzyń
     code: "0405011"
     distance_meters: 3127.19
@@ -680,9 +689,12 @@
   - slug: lubowo
     name: Łubowo
     code: "3003062"
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
+  - slug: gniezno-wielkopolskie-wiejska
+    name: Gniezno
+    code: "3003032"
   - slug: trzemeszno
     name: Trzemeszno
     code: "3003093"
@@ -695,7 +707,7 @@
   - slug: kruszwica
     name: Kruszwica
     code: "0407063"
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
   - slug: gniewkowo
@@ -716,28 +728,40 @@
   - slug: ciechocin
     name: Ciechocin
     code: "0405022"
-  - slug: golub-dobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-wiejska
     name: Golub-Dobrzyń
     code: "0405032"
+  - slug: golub-dobrzyn-kujawsko-pomorskie-miejska
+    name: Golub-Dobrzyń
+    code: "0405011"
   - slug: bobrowo
     name: Bobrowo
     code: "0402022"
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
+  - slug: brodnica-kujawsko-pomorskie-miejska
+    name: Brodnica
+    code: "0402011"
   - slug: brzozie
     name: Brzozie
     code: "0402042"
   - slug: kurzetnik
     name: Kurzętnik
     code: "2812042"
-  - slug: nowe_miasto_lubawskie
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-miejska
     name: Nowe Miasto Lubawskie
     code: "2812011"
-  - slug: lubawa
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-wiejska
+    name: Nowe Miasto Lubawskie
+    code: "2812052"
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
-  - slug: ostroda
+  - slug: lubawa-warminsko-mazurskie-miejska
+    name: Lubawa
+    code: "2807021"
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
   touched_counties:
@@ -866,13 +890,13 @@
   total_distance_km: 316.216
   points_count: 664.0
   towns:
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
     distance_meters: 33128.27
     distance_km: 33.128
     distance_percent: 10.4765
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 24533.23
@@ -902,7 +926,7 @@
     distance_meters: 16055.43
     distance_km: 16.055
     distance_percent: 5.0774
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-wiejska
     name: Biskupiec
     code: "2812022"
     distance_meters: 15659.73
@@ -932,7 +956,7 @@
     distance_meters: 12867.42
     distance_km: 12.867
     distance_percent: 4.0692
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
     distance_meters: 12859.87
@@ -962,7 +986,7 @@
     distance_meters: 11532.23
     distance_km: 11.532
     distance_percent: 3.6469
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 11156.23
@@ -986,7 +1010,7 @@
     distance_meters: 7781.83
     distance_km: 7.782
     distance_percent: 2.4609
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 6394.63
@@ -998,7 +1022,7 @@
     distance_meters: 4982.69
     distance_km: 4.983
     distance_percent: 1.5757
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-miejska
     name: Iława
     code: "2807011"
     distance_meters: 4752.07
@@ -1258,16 +1282,19 @@
     distance_km: 9.975
     distance_percent: 3.1545
   touched_towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
+  - slug: ilawa-warminsko-mazurskie-miejska
+    name: Iława
+    code: "2807011"
   - slug: kisielice
     name: Kisielice
     code: "2807043"
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-wiejska
     name: Biskupiec
     code: "2812022"
   - slug: swiecie_nad_osa
@@ -1294,7 +1321,7 @@
   - slug: gniewkowo
     name: Gniewkowo
     code: "0407033"
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
   - slug: kruszwica
@@ -1309,9 +1336,12 @@
   - slug: trzemeszno
     name: Trzemeszno
     code: "3003093"
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
+  - slug: gniezno-wielkopolskie-miejska
+    name: Gniezno
+    code: "3003011"
   - slug: lubowo
     name: Łubowo
     code: "3003062"

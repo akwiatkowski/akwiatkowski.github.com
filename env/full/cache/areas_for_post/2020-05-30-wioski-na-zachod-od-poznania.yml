@@ -4,7 +4,7 @@
   total_distance_km: 54.617
   points_count: 161.0
   towns:
-  - slug: pniewy
+  - slug: pniewy-wielkopolskie
     name: Pniewy
     code: "3024063"
     distance_meters: 15101.11
@@ -132,7 +132,7 @@
   - slug: chrzypsko_wielkie
     name: Chrzypsko Wielkie
     code: "3014012"
-  - slug: pniewy
+  - slug: pniewy-wielkopolskie
     name: Pniewy
     code: "3024063"
   - slug: szamotuly

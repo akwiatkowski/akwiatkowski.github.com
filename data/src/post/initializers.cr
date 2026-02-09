@@ -18,13 +18,22 @@ class Tremolite::Post
 
   @default_suggested_map_zooms = Array(Int32).new
 
-  def custom_initialize
-    header_image_defaults
+  def initialize(@path : String, @data_path : String = "", @output_path : String = "")
+    @content_string = String.new
+    @header = YAML::Any.new(nil)
 
+    @slug = (File.basename(@path)).gsub(/\..{1,10}$/, "").as(String)
+    @title = String.new
+    @subtitle = String.new
+    @author = String.new
+    @category = String.new
+    @time = Time::UNIX_EPOCH.as(Time)
+    @url = String.new
+
+    header_image_defaults
     basic_initialize
     tags_initialize
     towns_initialize
-    # voivodeships_initialize
     lands_initialize
     foreign_initialize
     pois_initialize
@@ -33,10 +42,11 @@ class Tremolite::Post
     seo_initialize
   end
 
-  def custom_process_header
+  def process
+    process_header
+    process_paths
     tags_from_headers
     towns_from_headers
-    # voivodeships_from_headers
     lands_from_headers
     foreign_from_headers
     pois_from_headers
@@ -161,10 +171,14 @@ class Tremolite::Post
   def route_path
     return File.join(
       [
-        @blog.routes_path,
+        routes_path,
         @coords_file,
       ]
     )
+  end
+
+  private def routes_path
+    File.join([@data_path, "routes"])
   end
 
   def detailed_routes : Array(PostRouteObject)
@@ -279,10 +293,15 @@ class Tremolite::Post
       return self
     else
       # find post using slug and
-      other_posts = @blog.post_collection.posts.select do |other_post|
-        other_post.slug == @image_other_post_slug.not_nil!
+      collection = @post_collection
+      if collection
+        other_posts = collection.posts.select do |other_post|
+          other_post.slug == @image_other_post_slug.not_nil!
+        end
+        return other_posts.first.not_nil!
+      else
+        return self
       end
-      return other_posts.first.not_nil!
     end
   end
 
@@ -316,7 +335,7 @@ class Tremolite::Post
 
     # set head_photo_entity
     @head_photo_entity = PhotoEntity.new(
-      photo_tags: @blog.data_manager.photo_tags.not_nil!,
+      photo_tags: @photo_tags.not_nil!,
       image_filename: @image_filename.not_nil!,
       desc: @title,
       is_gallery: gallery?,

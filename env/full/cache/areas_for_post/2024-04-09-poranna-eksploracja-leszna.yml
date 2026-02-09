@@ -4,19 +4,19 @@
   total_distance_km: 40.633
   points_count: 308.0
   towns:
-  - slug: osieczna
+  - slug: osieczna-wielkopolskie
     name: Osieczna
     code: "3013033"
     distance_meters: 23684.77
     distance_km: 23.685
     distance_percent: 58.2898
-  - slug: lipno
+  - slug: lipno-wielkopolskie
     name: Lipno
     code: "3013022"
     distance_meters: 11944.73
     distance_km: 11.945
     distance_percent: 29.3968
-  - slug: leszno
+  - slug: leszno-wielkopolskie
     name: Leszno
     code: "3063011"
     distance_meters: 5003.27
@@ -96,13 +96,13 @@
     distance_km: 40.633
     distance_percent: 100.0
   touched_towns:
-  - slug: leszno
+  - slug: leszno-wielkopolskie
     name: Leszno
     code: "3063011"
-  - slug: lipno
+  - slug: lipno-wielkopolskie
     name: Lipno
     code: "3013022"
-  - slug: osieczna
+  - slug: osieczna-wielkopolskie
     name: Osieczna
     code: "3013033"
   touched_counties:

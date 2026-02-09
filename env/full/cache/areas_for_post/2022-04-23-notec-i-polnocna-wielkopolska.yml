@@ -4,7 +4,7 @@
   total_distance_km: 63.837
   points_count: 249.0
   towns:
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 22129.93
@@ -22,7 +22,7 @@
     distance_meters: 10532.91
     distance_km: 10.533
     distance_percent: 16.4998
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
     distance_meters: 6305.48
@@ -129,10 +129,10 @@
   - slug: golancz
     name: Gołańcz
     code: "3028033"
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
   touched_counties:

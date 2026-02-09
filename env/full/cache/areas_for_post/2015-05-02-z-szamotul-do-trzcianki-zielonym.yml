@@ -4,7 +4,7 @@
   total_distance_km: 68.891
   points_count: 284.0
   towns:
-  - slug: obrzycko
+  - slug: obrzycko-wielkopolskie-wiejska
     name: Obrzycko
     code: "3024042"
     distance_meters: 13472.23
@@ -16,7 +16,7 @@
     distance_meters: 12188.8
     distance_km: 12.189
     distance_percent: 17.6929
-  - slug: czarnkow
+  - slug: czarnkow-wielkopolskie-wiejska
     name: Czarnków
     code: "3002022"
     distance_meters: 9699.27
@@ -46,13 +46,13 @@
     distance_meters: 3834.68
     distance_km: 3.835
     distance_percent: 5.5663
-  - slug: czarnkow
+  - slug: czarnkow-wielkopolskie-miejska
     name: Czarnków
     code: "3002011"
     distance_meters: 2719.18
     distance_km: 2.719
     distance_percent: 3.9471
-  - slug: obrzycko
+  - slug: obrzycko-wielkopolskie-miejska
     name: Obrzycko
     code: "3024011"
     distance_meters: 1825.67
@@ -156,18 +156,24 @@
   - slug: oborniki
     name: Oborniki
     code: "3016013"
-  - slug: obrzycko
+  - slug: obrzycko-wielkopolskie-wiejska
     name: Obrzycko
     code: "3024042"
+  - slug: obrzycko-wielkopolskie-miejska
+    name: Obrzycko
+    code: "3024011"
   - slug: polajewo
     name: Połajewo
     code: "3002062"
   - slug: lubasz
     name: Lubasz
     code: "3002052"
-  - slug: czarnkow
+  - slug: czarnkow-wielkopolskie-miejska
     name: Czarnków
     code: "3002011"
+  - slug: czarnkow-wielkopolskie-wiejska
+    name: Czarnków
+    code: "3002022"
   - slug: trzcianka
     name: Trzcianka
     code: "3002073"

@@ -28,7 +28,7 @@
     distance_meters: 11744.96
     distance_km: 11.745
     distance_percent: 11.0074
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-wiejska
     name: Biskupiec
     code: "2812022"
     distance_meters: 11537.25
@@ -40,7 +40,7 @@
     distance_meters: 10038.3
     distance_km: 10.038
     distance_percent: 9.4079
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 6933.31
@@ -52,13 +52,13 @@
     distance_meters: 4205.32
     distance_km: 4.205
     distance_percent: 3.9412
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-miejska
     name: Ostróda
     code: "2815011"
     distance_meters: 2298.65
     distance_km: 2.299
     distance_percent: 2.1543
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
     distance_meters: 1583.19
@@ -207,7 +207,7 @@
   - slug: jablonowo_pomorskie
     name: Jabłonowo Pomorskie
     code: "0402073"
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-wiejska
     name: Biskupiec
     code: "2812022"
   - slug: lasin
@@ -219,7 +219,7 @@
   - slug: susz
     name: Susz
     code: "2807063"
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
   - slug: zalewo
@@ -228,9 +228,12 @@
   - slug: milomlyn
     name: Miłomłyn
     code: "2815073"
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
+  - slug: ostroda-warminsko-mazurskie-miejska
+    name: Ostróda
+    code: "2815011"
   touched_counties:
   - slug: brodnicki
     name: brodnicki

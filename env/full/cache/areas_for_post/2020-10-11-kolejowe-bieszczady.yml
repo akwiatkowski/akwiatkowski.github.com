@@ -34,7 +34,7 @@
     distance_meters: 16811.27
     distance_km: 16.811
     distance_percent: 3.8775
-  - slug: sanok
+  - slug: sanok-podkarpackie-wiejska
     name: Sanok
     code: "1817052"
     distance_meters: 16474.52
@@ -46,7 +46,7 @@
     distance_meters: 16059.65
     distance_km: 16.06
     distance_percent: 3.7041
-  - slug: sanok
+  - slug: sanok-podkarpackie-miejska
     name: Sanok
     code: "1817011"
     distance_meters: 14662.55
@@ -76,7 +76,7 @@
     distance_meters: 12123.75
     distance_km: 12.124
     distance_percent: 2.7963
-  - slug: jaslo
+  - slug: jaslo-podkarpackie-miejska
     name: Jasło
     code: "1805011"
     distance_meters: 11661.76
@@ -142,7 +142,7 @@
     distance_meters: 7378.41
     distance_km: 7.378
     distance_percent: 1.7018
-  - slug: gorlice
+  - slug: gorlice-malopolskie-wiejska
     name: Gorlice
     code: "1205042"
     distance_meters: 6930.66
@@ -166,7 +166,7 @@
     distance_meters: 6730.93
     distance_km: 6.731
     distance_percent: 1.5525
-  - slug: wisniowa
+  - slug: wisniowa-podkarpackie
     name: Wiśniowa
     code: "1819052"
     distance_meters: 6059.9
@@ -184,25 +184,25 @@
     distance_meters: 5930.91
     distance_km: 5.931
     distance_percent: 1.3679
-  - slug: jaslo
+  - slug: jaslo-podkarpackie-wiejska
     name: Jasło
     code: "1805042"
     distance_meters: 4917.89
     distance_km: 4.918
     distance_percent: 1.1343
-  - slug: grybow
+  - slug: grybow-malopolskie-wiejska
     name: Grybów
     code: "1210042"
     distance_meters: 4643.39
     distance_km: 4.643
     distance_percent: 1.071
-  - slug: tarnow
+  - slug: tarnow-malopolskie-miejska
     name: Tarnów
     code: "1263011"
     distance_meters: 3398.14
     distance_km: 3.398
     distance_percent: 0.7838
-  - slug: tarnow
+  - slug: tarnow-malopolskie-wiejska
     name: Tarnów
     code: "1216092"
     distance_meters: 3024.98
@@ -214,7 +214,7 @@
     distance_meters: 1300.48
     distance_km: 1.3
     distance_percent: 0.3
-  - slug: moszczenica
+  - slug: moszczenica-malopolskie
     name: Moszczenica
     code: "1205072"
     distance_meters: 1060.55
@@ -227,7 +227,7 @@
     distance_meters: 164613.07
     distance_km: 164.613
     distance_percent: 37.9673
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
     distance_meters: 64092.09
@@ -462,7 +462,7 @@
   - slug: strzyzow
     name: Strzyżów
     code: "1819043"
-  - slug: wisniowa
+  - slug: wisniowa-podkarpackie
     name: Wiśniowa
     code: "1819052"
   - slug: frysztak
@@ -474,7 +474,7 @@
   - slug: jedlicze
     name: Jedlicze
     code: "1807043"
-  - slug: jaslo
+  - slug: jaslo-podkarpackie-miejska
     name: Jasło
     code: "1805011"
   - slug: tarnowiec
@@ -489,9 +489,12 @@
   - slug: zarszyn
     name: Zarszyn
     code: "1817082"
-  - slug: sanok
+  - slug: sanok-podkarpackie-wiejska
     name: Sanok
     code: "1817052"
+  - slug: sanok-podkarpackie-miejska
+    name: Sanok
+    code: "1817011"
   - slug: zagorz
     name: Zagórz
     code: "1817073"
@@ -507,22 +510,25 @@
   - slug: rymanow
     name: Rymanów
     code: "1807083"
+  - slug: jaslo-podkarpackie-wiejska
+    name: Jasło
+    code: "1805042"
   - slug: skolyszyn
     name: Skołyszyn
     code: "1805092"
   - slug: biecz
     name: Biecz
     code: "1205023"
-  - slug: gorlice
+  - slug: gorlice-malopolskie-wiejska
     name: Gorlice
     code: "1205042"
-  - slug: moszczenica
+  - slug: moszczenica-malopolskie
     name: Moszczenica
     code: "1205072"
   - slug: luzna
     name: Łużna
     code: "1205062"
-  - slug: grybow
+  - slug: grybow-malopolskie-wiejska
     name: Grybów
     code: "1210042"
   - slug: bobowa
@@ -540,9 +546,12 @@
   - slug: plesna
     name: Pleśna
     code: "1216042"
-  - slug: tarnow
+  - slug: tarnow-malopolskie-wiejska
     name: Tarnów
     code: "1216092"
+  - slug: tarnow-malopolskie-miejska
+    name: Tarnów
+    code: "1263011"
   touched_counties:
   - slug: rzeszowski
     name: rzeszowski
@@ -553,7 +562,7 @@
   - slug: strzyzowski
     name: strzyżowski
     code: "1819"
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
   - slug: jasielski

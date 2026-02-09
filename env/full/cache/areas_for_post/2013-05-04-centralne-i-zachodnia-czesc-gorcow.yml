@@ -4,7 +4,7 @@
   total_distance_km: 21.905
   points_count: 385.0
   towns:
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
     distance_meters: 7386.79
@@ -93,7 +93,7 @@
   - slug: ochotnica_dolna
     name: Ochotnica Dolna
     code: "1211102"
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
   - slug: kamienica

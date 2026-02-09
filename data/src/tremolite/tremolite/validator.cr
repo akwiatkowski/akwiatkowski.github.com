@@ -1,13 +1,9 @@
 class Tremolite::Validator
   Log = ::Log.for(self)
 
-  def initialize(@blog : Tremolite::Blog)
-    @html_buffer = @blog.not_nil!.html_buffer.as(Tremolite::HtmlBuffer)
-
+  def initialize(@html_buffer : Tremolite::HtmlBuffer)
     @paths = Array(String).new
   end
-
-  getter :blog
 
   def url_written(url : String)
     @paths << url
@@ -20,16 +16,10 @@ class Tremolite::Validator
     check_missing_title
     check_missing_referenced_links
 
-    custom_validators
-
     # post checks
     clear_url_writes
 
     Log.debug { "DONE" }
-  end
-
-  # all custom written validators will be run within this method
-  def custom_validators
   end
 
   def error_in_post(post : Tremolite::Post, error_string : String)

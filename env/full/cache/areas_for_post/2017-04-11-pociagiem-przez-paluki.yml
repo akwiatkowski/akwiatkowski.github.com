@@ -52,7 +52,7 @@
     distance_meters: 11507.06
     distance_km: 11.507
     distance_percent: 5.1723
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 11052.79
@@ -106,7 +106,7 @@
     distance_meters: 7607.75
     distance_km: 7.608
     distance_percent: 3.4196
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 7039.14
@@ -306,9 +306,12 @@
   - slug: mieleszyn
     name: Mieleszyn
     code: "3003072"
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
+  - slug: gniezno-wielkopolskie-miejska
+    name: Gniezno
+    code: "3003011"
   - slug: czerniejewo
     name: Czerniejewo
     code: "3003023"

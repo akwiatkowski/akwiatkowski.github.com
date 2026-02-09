@@ -4,7 +4,7 @@
   total_distance_km: 58.991
   points_count: 209.0
   towns:
-  - slug: pniewy
+  - slug: pniewy-wielkopolskie
     name: Pniewy
     code: "3024063"
     distance_meters: 13891.19
@@ -129,7 +129,7 @@
   - slug: lwowek
     name: Lwówek
     code: "3015023"
-  - slug: pniewy
+  - slug: pniewy-wielkopolskie
     name: Pniewy
     code: "3024063"
   - slug: chrzypsko_wielkie

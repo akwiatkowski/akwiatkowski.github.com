@@ -1,10 +1,10 @@
 class Tremolite::Post
   def data_path
-    return @blog.data_path.as(String)
+    return @data_path
   end
 
   def output_path
-    return @blog.output_path.as(String)
+    return @output_path
   end
 
   def content_html_word_count

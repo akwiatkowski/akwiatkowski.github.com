@@ -16,7 +16,7 @@
     distance_meters: 3026.11
     distance_km: 3.026
     distance_percent: 32.9798
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
     distance_meters: 2257.14
@@ -81,7 +81,7 @@
   - slug: poznan
     name: Poznań
     code: "3064011"
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
   - slug: suchy_las

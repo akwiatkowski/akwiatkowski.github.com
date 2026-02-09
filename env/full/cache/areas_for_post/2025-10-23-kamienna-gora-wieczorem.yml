@@ -4,7 +4,7 @@
   total_distance_km: 2.003
   points_count: 57.0
   towns:
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-miejska
     name: Kamienna Góra
     code: "0207011"
     distance_meters: 2003.33
@@ -60,7 +60,7 @@
     distance_km: 2.003
     distance_percent: 100.0
   touched_towns:
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-miejska
     name: Kamienna Góra
     code: "0207011"
   touched_counties:
@@ -96,7 +96,7 @@
   total_distance_km: 2.244
   points_count: 59.0
   towns:
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-miejska
     name: Kamienna Góra
     code: "0207011"
     distance_meters: 2243.59
@@ -152,7 +152,7 @@
     distance_km: 2.244
     distance_percent: 100.0
   touched_towns:
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-miejska
     name: Kamienna Góra
     code: "0207011"
   touched_counties:

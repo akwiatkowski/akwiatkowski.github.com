@@ -40,13 +40,13 @@
     distance_meters: 8951.92
     distance_km: 8.952
     distance_percent: 9.2802
-  - slug: sieradz
+  - slug: sieradz-lodzkie-miejska
     name: Sieradz
     code: "1014011"
     distance_meters: 8202.58
     distance_km: 8.203
     distance_percent: 8.5033
-  - slug: rzgow
+  - slug: rzgow-lodzkie
     name: Rzgów
     code: "1006103"
     distance_meters: 6298.04
@@ -58,7 +58,7 @@
     distance_meters: 3562.89
     distance_km: 3.563
     distance_percent: 3.6935
-  - slug: sieradz
+  - slug: sieradz-lodzkie-wiejska
     name: Sieradz
     code: "1014082"
     distance_meters: 1762.46
@@ -70,7 +70,7 @@
     distance_meters: 1732.91
     distance_km: 1.733
     distance_percent: 1.7964
-  - slug: zdunska_wola
+  - slug: zdunska_wola-lodzkie-wiejska
     name: Zduńska Wola
     code: "1019042"
     distance_meters: 1508.75
@@ -186,10 +186,10 @@
     distance_km: 96.463
     distance_percent: 100.0
   touched_towns:
-  - slug: sieradz
+  - slug: sieradz-lodzkie-miejska
     name: Sieradz
     code: "1014011"
-  - slug: zdunska_wola
+  - slug: zdunska_wola-lodzkie-wiejska
     name: Zduńska Wola
     code: "1019042"
   - slug: zapolice
@@ -210,7 +210,7 @@
   - slug: tuszyn
     name: Tuszyn
     code: "1006113"
-  - slug: rzgow
+  - slug: rzgow-lodzkie
     name: Rzgów
     code: "1006103"
   - slug: lodz

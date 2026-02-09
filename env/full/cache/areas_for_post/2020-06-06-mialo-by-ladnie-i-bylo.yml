@@ -4,13 +4,13 @@
   total_distance_km: 71.751
   points_count: 350.0
   towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 31617.52
     distance_km: 31.618
     distance_percent: 44.0654
-  - slug: rybno
+  - slug: rybno-warminsko-mazurskie
     name: Rybno
     code: "2803062"
     distance_meters: 17531.84
@@ -28,7 +28,7 @@
     distance_meters: 9070.84
     distance_km: 9.071
     distance_percent: 12.642
-  - slug: lubawa
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
     distance_meters: 2875.85
@@ -135,16 +135,16 @@
   - slug: lidzbark
     name: Lidzbark
     code: "2803043"
-  - slug: rybno
+  - slug: rybno-warminsko-mazurskie
     name: Rybno
     code: "2803062"
-  - slug: lubawa
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
   - slug: dabrowno
     name: Dąbrówno
     code: "2815022"
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
   touched_counties:
@@ -204,7 +204,7 @@
   total_distance_km: 22.559
   points_count: 113.0
   towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 19183.57
@@ -296,7 +296,7 @@
     distance_km: 1.196
     distance_percent: 5.3016
   touched_towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
   - slug: grunwald

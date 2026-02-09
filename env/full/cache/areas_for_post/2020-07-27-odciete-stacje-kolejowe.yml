@@ -4,7 +4,7 @@
   total_distance_km: 142.486
   points_count: 582.0
   towns:
-  - slug: szczytno
+  - slug: szczytno-warminsko-mazurskie-wiejska
     name: Szczytno
     code: "2817062"
     distance_meters: 28571.4
@@ -22,7 +22,7 @@
     distance_meters: 21232.01
     distance_km: 21.232
     distance_percent: 14.9012
-  - slug: mragowo
+  - slug: mragowo-warminsko-mazurskie-wiejska
     name: Mrągowo
     code: "2810032"
     distance_meters: 17987.13
@@ -34,7 +34,7 @@
     distance_meters: 17723.09
     distance_km: 17.723
     distance_percent: 12.4385
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-wiejska
     name: Giżycko
     code: "2806042"
     distance_meters: 15812.45
@@ -46,25 +46,25 @@
     distance_meters: 8995.79
     distance_km: 8.996
     distance_percent: 6.3135
-  - slug: swietajno
+  - slug: swietajno-warminsko-mazurskie-szczycienski
     name: Świętajno
     code: "2817072"
     distance_meters: 7250.03
     distance_km: 7.25
     distance_percent: 5.0883
-  - slug: mragowo
+  - slug: mragowo-warminsko-mazurskie-miejska
     name: Mrągowo
     code: "2810011"
     distance_meters: 4960.62
     distance_km: 4.961
     distance_percent: 3.4815
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-miejska
     name: Giżycko
     code: "2806011"
     distance_meters: 4763.55
     distance_km: 4.764
     distance_percent: 3.3432
-  - slug: szczytno
+  - slug: szczytno-warminsko-mazurskie-miejska
     name: Szczytno
     code: "2817011"
     distance_meters: 3222.35
@@ -150,9 +150,12 @@
     distance_km: 142.486
     distance_percent: 100.0
   touched_towns:
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-miejska
     name: Giżycko
     code: "2806011"
+  - slug: gizycko-warminsko-mazurskie-wiejska
+    name: Giżycko
+    code: "2806042"
   - slug: ryn
     name: Ryn
     code: "2806083"
@@ -162,18 +165,24 @@
   - slug: mikolajki
     name: Mikołajki
     code: "2810023"
-  - slug: mragowo
+  - slug: mragowo-warminsko-mazurskie-wiejska
     name: Mrągowo
     code: "2810032"
+  - slug: mragowo-warminsko-mazurskie-miejska
+    name: Mrągowo
+    code: "2810011"
   - slug: piecki
     name: Piecki
     code: "2810042"
-  - slug: swietajno
+  - slug: swietajno-warminsko-mazurskie-szczycienski
     name: Świętajno
     code: "2817072"
-  - slug: szczytno
+  - slug: szczytno-warminsko-mazurskie-wiejska
     name: Szczytno
     code: "2817062"
+  - slug: szczytno-warminsko-mazurskie-miejska
+    name: Szczytno
+    code: "2817011"
   - slug: wielbark
     name: Wielbark
     code: "2817083"
@@ -258,7 +267,7 @@
     distance_meters: 12036.33
     distance_km: 12.036
     distance_percent: 7.7888
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-wiejska
     name: Giżycko
     code: "2806042"
     distance_meters: 10242.33
@@ -270,13 +279,13 @@
     distance_meters: 8596.23
     distance_km: 8.596
     distance_percent: 5.5627
-  - slug: suwalki
+  - slug: suwalki-podlaskie-wiejska
     name: Suwałki
     code: "2012072"
     distance_meters: 8051.78
     distance_km: 8.052
     distance_percent: 5.2104
-  - slug: suwalki
+  - slug: suwalki-podlaskie-miejska
     name: Suwałki
     code: "2063011"
     distance_meters: 5728.79
@@ -288,7 +297,7 @@
     distance_meters: 4928.09
     distance_km: 4.928
     distance_percent: 3.189
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-miejska
     name: Giżycko
     code: "2806011"
     distance_meters: 1892.55
@@ -422,9 +431,12 @@
     distance_km: 154.534
     distance_percent: 100.0
   touched_towns:
-  - slug: suwalki
+  - slug: suwalki-podlaskie-miejska
     name: Suwałki
     code: "2063011"
+  - slug: suwalki-podlaskie-wiejska
+    name: Suwałki
+    code: "2012072"
   - slug: filipow
     name: Filipów
     code: "2012022"
@@ -449,9 +461,12 @@
   - slug: pozezdrze
     name: Pozezdrze
     code: "2819022"
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-wiejska
     name: Giżycko
     code: "2806042"
+  - slug: gizycko-warminsko-mazurskie-miejska
+    name: Giżycko
+    code: "2806011"
   touched_counties:
   - slug: suwalski
     name: suwalski

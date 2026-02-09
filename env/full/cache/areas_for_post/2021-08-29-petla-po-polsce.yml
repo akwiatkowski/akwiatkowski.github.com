@@ -22,7 +22,7 @@
     distance_meters: 21584.74
     distance_km: 21.585
     distance_percent: 3.2358
-  - slug: ostrow_mazowiecka
+  - slug: ostrow_mazowiecka-mazowieckie-wiejska
     name: Ostrów Mazowiecka
     code: "1416072"
     distance_meters: 20080.73
@@ -64,7 +64,7 @@
     distance_meters: 14710.71
     distance_km: 14.711
     distance_percent: 2.2053
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-wiejska
     name: Giżycko
     code: "2806042"
     distance_meters: 14315.19
@@ -88,7 +88,7 @@
     distance_meters: 13934.43
     distance_km: 13.934
     distance_percent: 2.089
-  - slug: kolno
+  - slug: kolno-podlaskie-wiejska
     name: Kolno
     code: "2006032"
     distance_meters: 13883.18
@@ -142,7 +142,7 @@
     distance_meters: 11290.47
     distance_km: 11.29
     distance_percent: 1.6926
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
     distance_meters: 11280.12
@@ -190,7 +190,7 @@
     distance_meters: 8888.04
     distance_km: 8.888
     distance_percent: 1.3324
-  - slug: zakrzew
+  - slug: zakrzew-mazowieckie
     name: Zakrzew
     code: "1425132"
     distance_meters: 8454.55
@@ -238,7 +238,7 @@
     distance_meters: 7342.45
     distance_km: 7.342
     distance_percent: 1.1007
-  - slug: michalowice
+  - slug: michalowice-malopolskie
     name: Michałowice
     code: "1206082"
     distance_meters: 7278.91
@@ -262,13 +262,13 @@
     distance_meters: 7019.73
     distance_km: 7.02
     distance_percent: 1.0523
-  - slug: ostrow_mazowiecka
+  - slug: ostrow_mazowiecka-mazowieckie-miejska
     name: Ostrów Mazowiecka
     code: "1416011"
     distance_meters: 6786.16
     distance_km: 6.786
     distance_percent: 1.0173
-  - slug: bialobrzegi
+  - slug: bialobrzegi-mazowieckie
     name: Białobrzegi
     code: "1401013"
     distance_meters: 6689.66
@@ -280,7 +280,7 @@
     distance_meters: 6492.46
     distance_km: 6.492
     distance_percent: 0.9733
-  - slug: lomza
+  - slug: lomza-podlaskie-miejska
     name: Łomża
     code: "2062011"
     distance_meters: 6243.64
@@ -328,13 +328,13 @@
     distance_meters: 5300.49
     distance_km: 5.3
     distance_percent: 0.7946
-  - slug: kolno
+  - slug: kolno-podlaskie-miejska
     name: Kolno
     code: "2006011"
     distance_meters: 5253.85
     distance_km: 5.254
     distance_percent: 0.7876
-  - slug: lomza
+  - slug: lomza-podlaskie-wiejska
     name: Łomża
     code: "2007022"
     distance_meters: 4843.99
@@ -388,7 +388,7 @@
     distance_meters: 3162.15
     distance_km: 3.162
     distance_percent: 0.474
-  - slug: michalowice
+  - slug: michalowice-mazowieckie
     name: Michałowice
     code: "1421042"
     distance_meters: 3096.51
@@ -436,7 +436,7 @@
     distance_meters: 680.28
     distance_km: 0.68
     distance_percent: 0.102
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-miejska
     name: Giżycko
     code: "2806011"
     distance_meters: 650.89
@@ -467,7 +467,7 @@
     distance_meters: 38265.87
     distance_km: 38.266
     distance_percent: 5.7366
-  - slug: ostrowski
+  - slug: ostrowski-mazowieckie
     name: ostrowski
     code: "1416"
     distance_meters: 37657.68
@@ -1029,7 +1029,7 @@
   - slug: mogilany
     name: Mogilany
     code: "1206092"
-  - slug: michalowice
+  - slug: michalowice-malopolskie
     name: Michałowice
     code: "1206082"
   - slug: slomniki
@@ -1083,7 +1083,7 @@
   - slug: kowala
     name: Kowala
     code: "1425072"
-  - slug: zakrzew
+  - slug: zakrzew-mazowieckie
     name: Zakrzew
     code: "1425132"
   - slug: jedlinsk
@@ -1092,7 +1092,7 @@
   - slug: stara_blotnica
     name: Stara Błotnica
     code: "1401042"
-  - slug: bialobrzegi
+  - slug: bialobrzegi-mazowieckie
     name: Białobrzegi
     code: "1401013"
   - slug: promna
@@ -1104,6 +1104,9 @@
   - slug: raszyn
     name: Raszyn
     code: "1421062"
+  - slug: michalowice-mazowieckie
+    name: Michałowice
+    code: "1421042"
   - slug: warszawa
     name: Warszawa
     code: "1465011"
@@ -1125,25 +1128,31 @@
   - slug: branszczyk
     name: Brańszczyk
     code: "1435012"
-  - slug: ostrow_mazowiecka
+  - slug: ostrow_mazowiecka-mazowieckie-miejska
     name: Ostrów Mazowiecka
     code: "1416011"
+  - slug: ostrow_mazowiecka-mazowieckie-wiejska
+    name: Ostrów Mazowiecka
+    code: "1416072"
   - slug: czerwin
     name: Czerwin
     code: "1415032"
   - slug: sniadowo
     name: Śniadowo
     code: "2007072"
-  - slug: lomza
+  - slug: lomza-podlaskie-wiejska
     name: Łomża
     code: "2007022"
+  - slug: lomza-podlaskie-miejska
+    name: Łomża
+    code: "2062011"
   - slug: piatnica
     name: Piątnica
     code: "2007052"
   - slug: maly_plock
     name: Mały Płock
     code: "2006042"
-  - slug: kolno
+  - slug: kolno-podlaskie-wiejska
     name: Kolno
     code: "2006032"
   - slug: pisz
@@ -1155,16 +1164,19 @@
   - slug: milki
     name: Miłki
     code: "2806062"
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-wiejska
     name: Giżycko
     code: "2806042"
+  - slug: gizycko-warminsko-mazurskie-miejska
+    name: Giżycko
+    code: "2806011"
   - slug: pozezdrze
     name: Pozezdrze
     code: "2819022"
   - slug: wegorzewo
     name: Węgorzewo
     code: "2819033"
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
   touched_counties:
@@ -1216,7 +1228,7 @@
   - slug: wyszkowski
     name: wyszkowski
     code: "1435"
-  - slug: ostrowski
+  - slug: ostrowski-mazowieckie
     name: ostrowski
     code: "1416"
   - slug: ostrolecki
@@ -1491,7 +1503,7 @@
     distance_meters: 11803.8
     distance_km: 11.804
     distance_percent: 2.7266
-  - slug: olszanka
+  - slug: olszanka-opolskie
     name: Olszanka
     code: "1601062"
     distance_meters: 11250.26
@@ -1539,7 +1551,7 @@
     distance_meters: 10173.91
     distance_km: 10.174
     distance_percent: 2.3501
-  - slug: chrzanow
+  - slug: chrzanow-malopolskie
     name: Chrzanów
     code: "1203033"
     distance_meters: 10100.03
@@ -1551,13 +1563,13 @@
     distance_meters: 9994.7
     distance_km: 9.995
     distance_percent: 2.3087
-  - slug: ujazd
+  - slug: ujazd-opolskie
     name: Ujazd
     code: "1611063"
     distance_meters: 9481.26
     distance_km: 9.481
     distance_percent: 2.1901
-  - slug: lipno
+  - slug: lipno-wielkopolskie
     name: Lipno
     code: "3013022"
     distance_meters: 9262.73
@@ -1605,7 +1617,7 @@
     distance_meters: 7510.87
     distance_km: 7.511
     distance_percent: 1.735
-  - slug: olawa
+  - slug: olawa-dolnoslaskie-wiejska
     name: Oława
     code: "0215042"
     distance_meters: 7090.69
@@ -1659,7 +1671,7 @@
     distance_meters: 5649.14
     distance_km: 5.649
     distance_percent: 1.3049
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
     distance_meters: 5464.14
@@ -1677,7 +1689,7 @@
     distance_meters: 4730.81
     distance_km: 4.731
     distance_percent: 1.0928
-  - slug: dabrowa
+  - slug: dabrowa-opolskie
     name: Dąbrowa
     code: "1609022"
     distance_meters: 4628.62
@@ -1737,7 +1749,7 @@
     distance_meters: 953.42
     distance_km: 0.953
     distance_percent: 0.2202
-  - slug: leszno
+  - slug: leszno-wielkopolskie
     name: Leszno
     code: "3063011"
     distance_meters: 657.07
@@ -1768,7 +1780,7 @@
     distance_meters: 34826.45
     distance_km: 34.826
     distance_percent: 8.0447
-  - slug: opolski
+  - slug: opolski-opolskie
     name: opolski
     code: "1609"
     distance_meters: 33191.57
@@ -1840,7 +1852,7 @@
     distance_meters: 15585.52
     distance_km: 15.586
     distance_percent: 3.6002
-  - slug: brzeski
+  - slug: brzeski-opolskie
     name: brzeski
     code: "1601"
     distance_meters: 15326.51
@@ -2213,13 +2225,13 @@
     distance_km: 63.825
     distance_percent: 14.7433
   touched_towns:
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
   - slug: smigiel
     name: Śmigiel
     code: "3011053"
-  - slug: lipno
+  - slug: lipno-wielkopolskie
     name: Lipno
     code: "3013022"
   - slug: swieciechowa
@@ -2267,13 +2279,13 @@
   - slug: grodkow
     name: Grodków
     code: "1601033"
-  - slug: olszanka
+  - slug: olszanka-opolskie
     name: Olszanka
     code: "1601062"
   - slug: niemodlin
     name: Niemodlin
     code: "1609073"
-  - slug: dabrowa
+  - slug: dabrowa-opolskie
     name: Dąbrowa
     code: "1609022"
   - slug: komprachcice
@@ -2297,7 +2309,7 @@
   - slug: lesnica
     name: Leśnica
     code: "1611043"
-  - slug: ujazd
+  - slug: ujazd-opolskie
     name: Ujazd
     code: "1611063"
   - slug: rudziniec
@@ -2324,7 +2336,7 @@
   - slug: jaworzno
     name: Jaworzno
     code: "2468011"
-  - slug: chrzanow
+  - slug: chrzanow-malopolskie
     name: Chrzanów
     code: "1203033"
   - slug: babice
@@ -2379,10 +2391,10 @@
   - slug: strzelinski
     name: strzeliński
     code: "0217"
-  - slug: brzeski
+  - slug: brzeski-opolskie
     name: brzeski
     code: "1601"
-  - slug: opolski
+  - slug: opolski-opolskie
     name: opolski
     code: "1609"
   - slug: krapkowicki
@@ -2609,7 +2621,7 @@
     distance_meters: 15324.56
     distance_km: 15.325
     distance_percent: 5.5851
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
     distance_meters: 13326.91
@@ -2627,7 +2639,7 @@
     distance_meters: 13025.1
     distance_km: 13.025
     distance_percent: 4.747
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
     distance_meters: 12994.56
@@ -2645,13 +2657,13 @@
     distance_meters: 11972.44
     distance_km: 11.972
     distance_percent: 4.3634
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 10339.52
     distance_km: 10.34
     distance_percent: 3.7683
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
     distance_meters: 10003.99
@@ -2669,7 +2681,7 @@
     distance_meters: 9419.3
     distance_km: 9.419
     distance_percent: 3.4329
-  - slug: golub-dobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-wiejska
     name: Golub-Dobrzyń
     code: "0405032"
     distance_meters: 8217.2
@@ -2687,13 +2699,13 @@
     distance_meters: 7202.83
     distance_km: 7.203
     distance_percent: 2.6251
-  - slug: lubawa
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
     distance_meters: 7132.57
     distance_km: 7.133
     distance_percent: 2.5995
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 6966.74
@@ -2711,19 +2723,19 @@
     distance_meters: 6830.22
     distance_km: 6.83
     distance_percent: 2.4893
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-miejska
     name: Iława
     code: "2807011"
     distance_meters: 5548.77
     distance_km: 5.549
     distance_percent: 2.0223
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-miejska
     name: Brodnica
     code: "0402011"
     distance_meters: 5041.51
     distance_km: 5.042
     distance_percent: 1.8374
-  - slug: nowe_miasto_lubawskie
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-wiejska
     name: Nowe Miasto Lubawskie
     code: "2812052"
     distance_meters: 4446.06
@@ -2741,7 +2753,7 @@
     distance_meters: 3692.82
     distance_km: 3.693
     distance_percent: 1.3459
-  - slug: nowe_miasto_lubawskie
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-miejska
     name: Nowe Miasto Lubawskie
     code: "2812011"
     distance_meters: 3456.58
@@ -2971,28 +2983,37 @@
     distance_km: 274.383
     distance_percent: 100.0
   touched_towns:
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-miejska
     name: Iława
     code: "2807011"
-  - slug: lubawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
+    name: Iława
+    code: "2807032"
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
-  - slug: nowe_miasto_lubawskie
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-wiejska
     name: Nowe Miasto Lubawskie
     code: "2812052"
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-miejska
+    name: Nowe Miasto Lubawskie
+    code: "2812011"
   - slug: kurzetnik
     name: Kurzętnik
     code: "2812042"
   - slug: brzozie
     name: Brzozie
     code: "0402042"
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
+  - slug: brodnica-kujawsko-pomorskie-miejska
+    name: Brodnica
+    code: "0402011"
   - slug: bobrowo
     name: Bobrowo
     code: "0402022"
-  - slug: golub-dobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-wiejska
     name: Golub-Dobrzyń
     code: "0405032"
   - slug: kowalewo_pomorskie
@@ -3010,7 +3031,7 @@
   - slug: gniewkowo
     name: Gniewkowo
     code: "0407033"
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
   - slug: kruszwica
@@ -3025,9 +3046,12 @@
   - slug: trzemeszno
     name: Trzemeszno
     code: "3003093"
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
+  - slug: gniezno-wielkopolskie-wiejska
+    name: Gniezno
+    code: "3003032"
   - slug: lubowo
     name: Łubowo
     code: "3003062"
@@ -3154,7 +3178,7 @@
   total_distance_km: 194.546
   points_count: 523.0
   towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 26489.52
@@ -3166,13 +3190,13 @@
     distance_meters: 22946.2
     distance_km: 22.946
     distance_percent: 11.7947
-  - slug: mragowo
+  - slug: mragowo-warminsko-mazurskie-wiejska
     name: Mrągowo
     code: "2810032"
     distance_meters: 22874.83
     distance_km: 22.875
     distance_percent: 11.758
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
     distance_meters: 21084.55
@@ -3184,13 +3208,13 @@
     distance_meters: 20384.83
     distance_km: 20.385
     distance_percent: 10.4781
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
     distance_meters: 19618.54
     distance_km: 19.619
     distance_percent: 10.0843
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-miejsko-wiejska
     name: Biskupiec
     code: "2814023"
     distance_meters: 16404.66
@@ -3220,19 +3244,19 @@
     distance_meters: 7355.95
     distance_km: 7.356
     distance_percent: 3.7811
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-miejska
     name: Kętrzyn
     code: "2808011"
     distance_meters: 3961.73
     distance_km: 3.962
     distance_percent: 2.0364
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-miejska
     name: Iława
     code: "2807011"
     distance_meters: 3241.0
     distance_km: 3.241
     distance_percent: 1.6659
-  - slug: mragowo
+  - slug: mragowo-warminsko-mazurskie-miejska
     name: Mrągowo
     code: "2810011"
     distance_meters: 2476.89
@@ -3244,7 +3268,7 @@
     distance_meters: 1951.76
     distance_km: 1.952
     distance_percent: 1.0032
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
     distance_meters: 878.26
@@ -3426,16 +3450,22 @@
   - slug: srokowo
     name: Srokowo
     code: "2808062"
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
-  - slug: mragowo
+  - slug: ketrzyn-warminsko-mazurskie-miejska
+    name: Kętrzyn
+    code: "2808011"
+  - slug: mragowo-warminsko-mazurskie-wiejska
     name: Mrągowo
     code: "2810032"
+  - slug: mragowo-warminsko-mazurskie-miejska
+    name: Mrągowo
+    code: "2810011"
   - slug: sorkwity
     name: Sorkwity
     code: "2810052"
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-miejsko-wiejska
     name: Biskupiec
     code: "2814023"
   - slug: barczewo
@@ -3444,7 +3474,7 @@
   - slug: purda
     name: Purda
     code: "2814102"
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
   - slug: stawiguda
@@ -3453,12 +3483,15 @@
   - slug: gietrzwald
     name: Gietrzwałd
     code: "2814052"
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
+  - slug: ilawa-warminsko-mazurskie-miejska
+    name: Iława
+    code: "2807011"
   touched_counties:
   - slug: wegorzewski
     name: węgorzewski

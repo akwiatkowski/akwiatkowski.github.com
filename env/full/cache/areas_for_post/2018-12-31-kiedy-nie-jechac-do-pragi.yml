@@ -4,7 +4,7 @@
   total_distance_km: 220.728
   points_count: 574.0
   towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
     distance_meters: 18629.5
@@ -28,7 +28,7 @@
     distance_meters: 9432.88
     distance_km: 9.433
     distance_percent: 4.2735
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-miejska
     name: Kłodzko
     code: 0208021
     distance_meters: 5724.45
@@ -147,9 +147,12 @@
   - slug: bystrzyca_klodzka
     name: Bystrzyca Kłodzka
     code: 0208063
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
+  - slug: klodzko-dolnoslaskie-miejska
+    name: Kłodzko
+    code: 0208021
   - slug: szczytna
     name: Szczytna
     code: 0208143

@@ -96,7 +96,7 @@
   total_distance_km: 38.464
   points_count: 88.0
   towns:
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
     distance_meters: 12851.49
@@ -212,7 +212,7 @@
   - slug: oborniki
     name: Oborniki
     code: "3016013"
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
   - slug: ryczywol

@@ -1,11 +1,11 @@
 # Current Work
 
-## Status: Cleanup complete (Phases 25, 26, 28 done)
+## Status: Cleanup complete (Phases 25-29 done)
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8-9, 11-28, Photo Planner)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8-9, 11-29, Photo Planner)
 
 ---
 
@@ -178,17 +178,30 @@ The new more page only has 5 links. The old `more.md` had 14 links. Evaluate add
 - RSS/Atom feeds (`/feed.xml`, `/feed_atom.xml`)
 - External galleries (Smugmug, 500px) — if still relevant
 
-**Decouple Services from `@blog`:**
-Several services take `@blog : Tremolite::Blog` and reach deep into it. Refactor to accept data directly for testability:
+**Decouple Services from `@blog`:** ✅ DONE
+All services decoupled. All tremolite base classes decoupled from `@blog`. Template method hooks collapsed.
+See PLAN_DONE.md Phase 29.
 
-| Class | Status | Notes |
-|-------|--------|-------|
-| **PostCoordQuantCache** | Done | Accepts `cache_path` |
-| **PhotoCoordQuantCache** | Done | Accepts `cache_path`, `all_towns` |
-| **PreloadedPostReferencedLinks** | Done | Accepts `html_buffer`, `posts_path`, `posts_ext` |
-| **NavStatsCache** | Done | Accepts `cache_path`; `refresh()` takes data params |
-| **ExifDb** | Done | Accepts `cache_path`, `data_path`, `photo_tags` |
-| **PostRenderer** | Done | Accepts `ctx`, `image_resizer`, `exif_db` |
+**Eliminate Late-Bound Properties (Phase 30 idea):**
+After Phase 29, several classes use late-bound `property` setters instead of constructor params. These are nilable types requiring `.not_nil!` at use sites. Analyze whether these can be converted to constructor params.
+
+Current late-bound properties:
+| Class | Properties | Reason |
+|-------|-----------|--------|
+| **Renderer** | `validator`, `url_to_output_path_proc`, `image_resizer`, `posts_for_resize`, `all_posts`, `data_manager`, `mod_watcher` | Set after construction because Renderer is created before DataManager, ModWatcher, PostCollection |
+| **Validator** | `area_data_loader`, `posts` | Set after posts are initialized |
+| **ModWatcher** | `posts_path`, `posts_ext`, `data_path`, `exif_db_path` | Set after construction; exif_db_path only available after DataManager init |
+| **PostCollection** | `data_path`, `output_path`, `markdown_wrapper`, `photo_tags`, `exif_db` | markdown_wrapper has circular dep; rest could be constructor params |
+| **Post** | `post_collection`, `markdown_wrapper`, `exif_db`, `photo_tags` | Set per-post in initialize_posts loop |
+| **DataManager** | `html_buffer` | Set after construction due to Blog init order |
+
+**Circular dependency analysis:**
+- `MarkdownWrapper` → needs `RenderContext` → needs `Blog` (self during init)
+- This is the only true circular dependency. All other late-bound props exist because of Blog.initialize ordering.
+- Possible fix: Construct objects in dependency order in Blog.initialize, passing earlier objects to later ones.
+- The MarkdownWrapper circular dep could be broken by making it fully lazy (only created on first use in PostCollection.initialize_posts).
+
+**Estimated benefit:** ~35 `.not_nil!` calls removed, stronger compile-time safety.
 
 **Stats Rendering:**
 - Explore better ways to render post stats (distance, time, temperature)

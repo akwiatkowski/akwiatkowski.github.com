@@ -23,7 +23,7 @@
     distance_km: 3.518
     distance_percent: 15.0595
   counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 19841.45
@@ -88,7 +88,7 @@
     name: Kostrzyn
     code: "3021083"
   touched_counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   - slug: poznanski

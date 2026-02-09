@@ -28,7 +28,7 @@
     distance_meters: 5743.05
     distance_km: 5.743
     distance_percent: 11.4357
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
     distance_meters: 5721.29
@@ -144,7 +144,7 @@
   - slug: skoki
     name: Skoki
     code: "3028053"
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
   touched_counties:

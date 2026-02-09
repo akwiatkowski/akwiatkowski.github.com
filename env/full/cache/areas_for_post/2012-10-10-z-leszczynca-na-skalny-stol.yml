@@ -16,7 +16,7 @@
     distance_meters: 5579.65
     distance_km: 5.58
     distance_percent: 30.306
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-wiejska
     name: Kamienna Góra
     code: "0207022"
     distance_meters: 3420.33
@@ -90,7 +90,7 @@
     distance_km: 16.457
     distance_percent: 89.3873
   touched_towns:
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-wiejska
     name: Kamienna Góra
     code: "0207022"
   - slug: kowary

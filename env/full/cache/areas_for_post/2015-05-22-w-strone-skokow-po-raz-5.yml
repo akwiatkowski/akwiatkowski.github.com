@@ -22,13 +22,13 @@
     distance_meters: 8170.89
     distance_km: 8.171
     distance_percent: 14.6438
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 6988.8
     distance_km: 6.989
     distance_percent: 12.5253
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
     distance_meters: 5424.57
@@ -150,10 +150,10 @@
   - slug: skoki
     name: Skoki
     code: "3028053"
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
   touched_counties:

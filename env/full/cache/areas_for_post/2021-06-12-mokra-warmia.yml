@@ -16,7 +16,7 @@
     distance_meters: 14358.04
     distance_km: 14.358
     distance_percent: 19.1844
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-wiejska
     name: Elbląg
     code: "2804012"
     distance_meters: 11604.06
@@ -40,7 +40,7 @@
     distance_meters: 7242.3
     distance_km: 7.242
     distance_percent: 9.6767
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-miejska
     name: Elbląg
     code: "2861011"
     distance_meters: 2732.36
@@ -180,9 +180,12 @@
     distance_km: 20.716
     distance_percent: 27.68
   touched_towns:
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-miejska
     name: Elbląg
     code: "2861011"
+  - slug: elblag-warminsko-mazurskie-wiejska
+    name: Elbląg
+    code: "2804012"
   - slug: paslek
     name: Pasłęk
     code: "2804073"

@@ -4,7 +4,7 @@
   total_distance_km: 10.803
   points_count: 86.0
   towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 10803.12
@@ -60,7 +60,7 @@
     distance_km: 10.803
     distance_percent: 100.0
   touched_towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
   touched_counties:

@@ -1,10 +1,25 @@
 class Tremolite::Validator
   include Profiled
 
-  def custom_validators
+  # Injected dependencies (set after construction, before validation runs)
+  property area_data_loader : AreaDataLoader?
+  property posts : Array(Tremolite::Post)?
+
+  def run
+    Log.debug { "START" }
+
+    check_conflicting_paths
+    check_missing_title
+    check_missing_referenced_links
+
     check_missing_towns
     validate_exif_name_dictionary
     validate_html_output
+
+    # post checks
+    clear_url_writes
+
+    Log.debug { "DONE" }
   end
 
   # Validate objects passed from registry
@@ -20,12 +35,15 @@ class Tremolite::Validator
 
   @[Profile(category: "validation")]
   private def check_missing_towns
-    known_slugs = @blog.data_manager.not_nil!.area_data_loader.not_nil!
-      .areas.select { |a| a.area_type.town? || a.area_type.voivodeship? }
-      .map(&.slug)
-    posts = @blog.post_collection.posts.sort { |a, b| b.time <=> a.time }
+    loader = @area_data_loader
+    return unless loader
 
-    post_data = posts.map { |p| {p.town_slugs, p.self_propelled?, p.slug} }
+    known_slugs = loader.areas
+      .select { |a| a.area_type.town? || a.area_type.voivodeship? }
+      .map(&.slug)
+    all_posts = (@posts || [] of Tremolite::Post).sort { |a, b| b.time <=> a.time }
+
+    post_data = all_posts.map { |p| {p.town_slugs, p.self_propelled?, p.slug} }
     results = self.class.find_missing_towns(known_slugs, post_data)
     results[:errors].each { |msg| Log.error { msg } }
     results[:warnings].each { |msg| Log.warn { msg } }

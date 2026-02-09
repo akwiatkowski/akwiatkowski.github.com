@@ -11,7 +11,7 @@
     distance_km: 4.211
     distance_percent: 100.0
   counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 4211.16
@@ -64,7 +64,7 @@
     name: Krzykosy
     code: "3025022"
   touched_counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   touched_voivodeships:

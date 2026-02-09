@@ -34,7 +34,7 @@
     distance_meters: 15313.18
     distance_km: 15.313
     distance_percent: 6.9234
-  - slug: glogow
+  - slug: glogow-dolnoslaskie-miejska
     name: Głogów
     code: "0203011"
     distance_meters: 13592.34
@@ -100,7 +100,7 @@
     distance_meters: 6628.0
     distance_km: 6.628
     distance_percent: 2.9966
-  - slug: nowa_sol
+  - slug: nowa_sol-lubuskie-miejska
     name: Nowa Sól
     code: 0804011
     distance_meters: 5971.97
@@ -118,13 +118,13 @@
     distance_meters: 4781.68
     distance_km: 4.782
     distance_percent: 2.1619
-  - slug: nowa_sol
+  - slug: nowa_sol-lubuskie-wiejska
     name: Nowa Sól
     code: 0804052
     distance_meters: 2889.88
     distance_km: 2.89
     distance_percent: 1.3066
-  - slug: glogow
+  - slug: glogow-dolnoslaskie-wiejska
     name: Głogów
     code: "0203022"
     distance_meters: 2869.68
@@ -149,7 +149,7 @@
     distance_meters: 24021.11
     distance_km: 24.021
     distance_percent: 10.8604
-  - slug: krosnienski
+  - slug: krosnienski-lubuskie
     name: krośnieński
     code: 0802
     distance_meters: 23535.29
@@ -185,7 +185,7 @@
     distance_meters: 13401.23
     distance_km: 13.401
     distance_percent: 6.0589
-  - slug: sredzki
+  - slug: sredzki-dolnoslaskie
     name: średzki
     code: 0218
     distance_meters: 12617.37
@@ -390,16 +390,19 @@
   - slug: grebocice
     name: Grębocice
     code: "0216032"
-  - slug: glogow
+  - slug: glogow-dolnoslaskie-wiejska
     name: Głogów
     code: "0203022"
+  - slug: glogow-dolnoslaskie-miejska
+    name: Głogów
+    code: "0203011"
   - slug: zukowice
     name: Żukowice
     code: "0203062"
   - slug: bytom_odrzanski
     name: Bytom Odrzański
     code: 0804023
-  - slug: nowa_sol
+  - slug: nowa_sol-lubuskie-miejska
     name: Nowa Sól
     code: 0804011
   - slug: otyn
@@ -427,7 +430,7 @@
   - slug: wroclaw
     name: Wrocław
     code: "0264"
-  - slug: sredzki
+  - slug: sredzki-dolnoslaskie
     name: średzki
     code: 0218
   - slug: wolowski
@@ -451,7 +454,7 @@
   - slug: zielonogorski
     name: zielonogórski
     code: 0809
-  - slug: krosnienski
+  - slug: krosnienski-lubuskie
     name: krośnieński
     code: 0802
   - slug: sulecinski

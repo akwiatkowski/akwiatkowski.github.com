@@ -4,7 +4,7 @@
   total_distance_km: 6.654
   points_count: 37.0
   towns:
-  - slug: lipno
+  - slug: lipno-wielkopolskie
     name: Lipno
     code: "3013022"
     distance_meters: 6653.86
@@ -60,7 +60,7 @@
     distance_km: 6.654
     distance_percent: 100.0
   touched_towns:
-  - slug: lipno
+  - slug: lipno-wielkopolskie
     name: Lipno
     code: "3013022"
   touched_counties:

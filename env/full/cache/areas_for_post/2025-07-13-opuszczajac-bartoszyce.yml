@@ -16,13 +16,13 @@
     distance_meters: 13888.21
     distance_km: 13.888
     distance_percent: 38.9335
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-wiejska
     name: Bartoszyce
     code: "2801032"
     distance_meters: 7650.35
     distance_km: 7.65
     distance_percent: 21.4466
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-miejska
     name: Bartoszyce
     code: "2801011"
     distance_meters: 1509.19
@@ -84,9 +84,12 @@
     distance_km: 35.672
     distance_percent: 100.0
   touched_towns:
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-wiejska
     name: Bartoszyce
     code: "2801032"
+  - slug: bartoszyce-warminsko-mazurskie-miejska
+    name: Bartoszyce
+    code: "2801011"
   - slug: sepopol
     name: Sępopol
     code: "2801063"

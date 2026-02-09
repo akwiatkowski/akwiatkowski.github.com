@@ -28,13 +28,13 @@
     distance_meters: 12071.32
     distance_km: 12.071
     distance_percent: 11.9745
-  - slug: tczew
+  - slug: tczew-pomorskie-wiejska
     name: Tczew
     code: "2214062"
     distance_meters: 10296.55
     distance_km: 10.297
     distance_percent: 10.214
-  - slug: tczew
+  - slug: tczew-pomorskie-miejska
     name: Tczew
     code: "2214011"
     distance_meters: 4093.86
@@ -165,9 +165,12 @@
   - slug: pszczolki
     name: Pszczółki
     code: "2204062"
-  - slug: tczew
+  - slug: tczew-pomorskie-wiejska
     name: Tczew
     code: "2214062"
+  - slug: tczew-pomorskie-miejska
+    name: Tczew
+    code: "2214011"
   touched_counties:
   - slug: chojnicki
     name: chojnicki

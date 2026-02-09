@@ -4,7 +4,7 @@
   total_distance_km: 40.256
   points_count: 65.0
   towns:
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-miejsko-wiejska
     name: Biskupiec
     code: "2814023"
     distance_meters: 12152.19
@@ -16,7 +16,7 @@
     distance_meters: 12048.84
     distance_km: 12.049
     distance_percent: 29.9306
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
     distance_meters: 9976.64
@@ -126,10 +126,10 @@
   - slug: bisztynek
     name: Bisztynek
     code: "2801043"
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-miejsko-wiejska
     name: Biskupiec
     code: "2814023"
   - slug: barczewo

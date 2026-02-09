@@ -40,7 +40,7 @@
     distance_meters: 7277.99
     distance_km: 7.278
     distance_percent: 8.911
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 6335.78
@@ -126,7 +126,7 @@
     distance_km: 81.674
     distance_percent: 100.0
   touched_towns:
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
   - slug: niechanowo

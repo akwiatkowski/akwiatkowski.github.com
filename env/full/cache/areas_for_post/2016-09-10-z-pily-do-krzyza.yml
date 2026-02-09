@@ -16,13 +16,13 @@
     distance_meters: 17540.75
     distance_km: 17.541
     distance_percent: 22.1443
-  - slug: czarnkow
+  - slug: czarnkow-wielkopolskie-wiejska
     name: Czarnków
     code: "3002022"
     distance_meters: 12376.17
     distance_km: 12.376
     distance_percent: 15.6243
-  - slug: szydlowo
+  - slug: szydlowo-wielkopolskie
     name: Szydłowo
     code: "3019062"
     distance_meters: 9616.17
@@ -123,13 +123,13 @@
   - slug: pila
     name: Piła
     code: "3019011"
-  - slug: szydlowo
+  - slug: szydlowo-wielkopolskie
     name: Szydłowo
     code: "3019062"
   - slug: trzcianka
     name: Trzcianka
     code: "3002073"
-  - slug: czarnkow
+  - slug: czarnkow-wielkopolskie-wiejska
     name: Czarnków
     code: "3002022"
   - slug: wielen

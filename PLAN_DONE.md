@@ -1265,4 +1265,88 @@ Completed migration from deprecated entity system to unified AreaEntity.
 
 ---
 
+## Phase 29: Blog Initialization Simplification + @blog Decoupling ✅ COMPLETE
+
+**Completed**: 2026-02-09
+
+### Goal
+Simplify Blog initialization (all 7 callers repeat 8-line constructors) and decouple all tremolite classes from `@blog` so each class receives only what it needs.
+
+### Step 1: Blog.for_env convenience constructor
+
+Added `Blog.for_env(env, target)` that derives all 8 params from just `env` (dev/full) and `target` (local/release). Simplified all 7 callers from 8-line constructors to single-line calls.
+
+| File | Before | After |
+|------|--------|-------|
+| `data/src/commands/base.cr` | 8-line Blog.new | `Blog.for_env(env)` |
+| `env/dev/src/render_local.cr` | 8-line Blog.new | `Blog.for_env("dev", "local")` |
+| `env/dev/src/render_release.cr` | 8-line Blog.new | `Blog.for_env("dev", "release")` |
+| `env/dev/src/run_local.cr` | 8-line Blog.new | `Blog.for_env("dev", "local")` |
+| `env/full/src/render_local.cr` | 8-line Blog.new | `Blog.for_env("full", "local")` |
+| `env/full/src/render_release.cr` | 8-line Blog.new | `Blog.for_env("full", "release")` |
+| `env/full/src/find_ungeotagged_photos.cr` | 8-line Blog.new | `Blog.for_env("full", "local")` |
+
+### Steps 2-8: @blog decoupling
+
+Each tremolite class was refactored to accept specific params instead of the entire Blog:
+
+| Class | Before | After |
+|-------|--------|-------|
+| **ImageResizer** | `initialize(@blog)` | `initialize(@data_path, @output_path)` |
+| **ModWatcher** | `initialize(@blog, file_path)` | `initialize(file_path)` + injected path properties |
+| **Validator** | `initialize(@blog)` | `initialize(@html_buffer)` + injected area_data_loader, posts |
+| **Renderer** | `initialize(@blog, @html_buffer)` | `initialize(@html_buffer, @data_path, @output_path, @assets_path)` + late-bound props |
+| **DataManager** | `initialize(@blog, @config_path)` | `initialize(@config_path, @data_path, @cache_path, @output_path, @posts_path, @posts_ext)` |
+| **Post** | `initialize(@blog, @path)` | `initialize(@path, @data_path, @output_path)` + late-bound deps |
+| **PostCollection** | `initialize(@blog, paths)` | `initialize(@posts_path, @posts_ext)` + late-bound deps |
+| **BaseView** | `@blog` fallbacks | Context-only (no `@blog` fallback) |
+
+### Step 9: Blog.initialize rewired
+
+Blog.initialize now passes specific params to each constructor and wires late-bound dependencies via properties after construction. `@blog` now only exists in `RenderContext` and `Blog` itself.
+
+### Step 10: Constructor collapse (base+custom → single)
+
+Removed all template method hooks from tremolite base classes:
+
+| Class | Removed Hooks |
+|-------|--------------|
+| **DataManager** | `custom_initialize`, `custom_load`, `load_data` |
+| **Post** | `custom_initialize`, `custom_process_header` |
+| **Validator** | `custom_validators` |
+| **ModWatcher** | `update_before_save` (empty base) |
+| **Renderer** | `render_all` (empty, never overridden) |
+| **PostCollection** | `each_post_file` (base version, kept custom override only) |
+
+Constructors moved from base tremolite files to custom files. The `process` method (Post) and `run` method (Validator) moved to custom files with hook content inlined.
+
+### Files Modified
+
+**Base tremolite files (simplified):**
+- `data/src/tremolite/tremolite/data_manager.cr` — constructor + hooks removed
+- `data/src/tremolite/tremolite/posts/post.cr` — constructor + hooks removed
+- `data/src/tremolite/tremolite/posts/post_collection.cr` — base each_post_file removed
+- `data/src/tremolite/tremolite/validator.cr` — custom_validators hook removed
+- `data/src/tremolite/tremolite/mod_watcher.cr` — update_before_save hook removed
+- `data/src/tremolite/tremolite/renderer.cr` — render_all hook removed
+- `data/src/tremolite/tremolite/image_resizer.cr` — `@blog` → path params
+- `data/src/tremolite/tremolite/views/base_view.cr` — `@blog` fallbacks removed
+
+**Custom files (expanded with constructors):**
+- `data/src/data_manager.cr` — full constructor with inlined initialization
+- `data/src/post/initializers.cr` — full constructor + process method
+- `data/src/validator.cr` — full run method
+- `data/src/mod_watcher.cr` — path properties for current_state_of
+- `data/src/renderer.cr` — late-bound properties
+- `data/src/post_collection.cr` — late-bound properties
+- `data/src/post.cr` — exif_db, photo_tags properties
+
+**7 caller files simplified** to `Blog.for_env(...)` (see Step 1)
+
+### Test Results
+
+**533 Crystal tests passing**, 161 E2E tests passing
+
+---
+
 *Last updated: 2026-02-09*

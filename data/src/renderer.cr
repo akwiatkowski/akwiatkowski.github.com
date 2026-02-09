@@ -17,6 +17,11 @@ require "./views/special_view/all"
 require "./views/model_view/all"
 
 class Tremolite::Renderer
+  # Late-bound dependencies for custom renderer
+  property all_posts : Array(Tremolite::Post)?
+  property data_manager : Tremolite::DataManager?
+  property mod_watcher : Tremolite::ModWatcher?
+
   def dev_render
     # do nothing
   end
@@ -31,7 +36,7 @@ class Tremolite::Renderer
 
   def site_desc
     unless @site_desc
-      posts = @blog.post_collection.posts.select { |post| post.trip? }
+      posts = (@all_posts || [] of Tremolite::Post).select { |post| post.trip? }
       bicycle_posts = posts.select { |post| post.bicycle? }
       hike_posts = posts.select { |post| post.hike? }
 
@@ -42,7 +47,7 @@ class Tremolite::Renderer
 
       total_km = bicycle_km + hike_km
 
-      s = @blog.data_manager.not_nil!["site.desc"].to_s
+      s = @data_manager.not_nil!["site.desc"].to_s
       {
         "total_km"    => total_km.to_i,
         "total_hours" => total_hours.to_i,
@@ -67,7 +72,7 @@ class Tremolite::Renderer
   # return Array(String) of all ModWatcher keys, posts, ...
   # to decide which renderers to run
   def all_mod_watchers
-    @blog.mod_watcher.not_nil!.all_mod_watchers
+    @mod_watcher.not_nil!.all_mod_watchers
   end
 
   # Public interface for RenderContext to render views
@@ -78,7 +83,7 @@ class Tremolite::Renderer
 
   # TODO add because it's probably missing
   private def copy_post_photos
-    command = "rsync --mkpath -av #{blog.data_path}/images/ #{blog.output_path}/images/"
+    command = "rsync --mkpath -av #{@data_path}/images/ #{@output_path}/images/"
     `#{command}`
   end
 end

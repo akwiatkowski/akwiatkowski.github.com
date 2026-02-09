@@ -16,7 +16,7 @@
     distance_meters: 15404.63
     distance_km: 15.405
     distance_percent: 34.6508
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
     distance_meters: 5814.76
@@ -102,7 +102,7 @@
     distance_km: 44.457
     distance_percent: 100.0
   touched_towns:
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
   - slug: brzozie

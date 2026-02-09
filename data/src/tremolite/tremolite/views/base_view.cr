@@ -2,22 +2,14 @@
 # This allows views to receive RenderContext instead of Blog
 
 class Tremolite::Views::BaseView
-  @blog : Tremolite::Blog?
   @context : RenderContext?
 
-  # New constructor - views should use this
   def initialize(context : RenderContext, @url = "")
     @context = context
   end
 
-  #
-  # def context
-  #   @context.not_nil!
-  # end
-
   def layout_path
-    return @context.not_nil!.layout_path if @context
-    return @blog.not_nil!.layout_path.as(String)
+    return @context.not_nil!.layout_path
   end
 
   # this should be much faster if `data` has more keys than document has fields
@@ -41,8 +33,7 @@ class Tremolite::Views::BaseView
   end
 
   def posts
-    return @context.not_nil!.posts if @context
-    return @blog.not_nil!.post_collection.posts
+    return @context.not_nil!.posts
   end
 
   def process_functions(
@@ -99,8 +90,7 @@ class Tremolite::Views::BaseView
   end
 
   def data_path
-    return @context.not_nil!.data_path if @context
-    return @blog.not_nil!.data_path.as(String)
+    return @context.not_nil!.data_path
   end
 
   # Try to allow one method create result by
@@ -165,8 +155,7 @@ class Tremolite::Views::BaseView
   end
 
   def site_title
-    return @context.not_nil!.site_title if @context
-    return @blog.not_nil!.data_manager.not_nil!["site.title"]?
+    return @context.not_nil!.site_title
   end
 
   # Some partials are parametrized

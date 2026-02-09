@@ -22,7 +22,7 @@
     distance_meters: 4960.76
     distance_km: 4.961
     distance_percent: 10.5032
-  - slug: lubrza
+  - slug: lubrza-lubuskie
     name: Lubrza
     code: 0808012
     distance_meters: 372.53
@@ -35,7 +35,7 @@
     distance_meters: 42270.17
     distance_km: 42.27
     distance_percent: 89.4968
-  - slug: krosnienski
+  - slug: krosnienski-lubuskie
     name: krośnieński
     code: 0802
     distance_meters: 4960.76
@@ -96,7 +96,7 @@
   - slug: skape
     name: Skąpe
     code: 0808032
-  - slug: lubrza
+  - slug: lubrza-lubuskie
     name: Lubrza
     code: 0808012
   - slug: bytnica
@@ -106,7 +106,7 @@
   - slug: swiebodzinski
     name: świebodziński
     code: 0808
-  - slug: krosnienski
+  - slug: krosnienski-lubuskie
     name: krośnieński
     code: 0802
   touched_voivodeships:

@@ -16,7 +16,7 @@
     distance_meters: 10441.74
     distance_km: 10.442
     distance_percent: 29.6392
-  - slug: starogard_gdanski
+  - slug: starogard_gdanski-pomorskie-wiejska
     name: Starogard Gdański
     code: "2213122"
     distance_meters: 8862.44
@@ -87,7 +87,7 @@
   - slug: zblewo
     name: Zblewo
     code: "2213132"
-  - slug: starogard_gdanski
+  - slug: starogard_gdanski-pomorskie-wiejska
     name: Starogard Gdański
     code: "2213122"
   - slug: lubichowo

@@ -4,7 +4,7 @@
   total_distance_km: 55.67
   points_count: 363.0
   towns:
-  - slug: brodnica
+  - slug: brodnica-wielkopolskie
     name: Brodnica
     code: "3026012"
     distance_meters: 18078.5
@@ -159,7 +159,7 @@
   - slug: puszczykowo
     name: Puszczykowo
     code: "3021021"
-  - slug: brodnica
+  - slug: brodnica-wielkopolskie
     name: Brodnica
     code: "3026012"
   - slug: czempin

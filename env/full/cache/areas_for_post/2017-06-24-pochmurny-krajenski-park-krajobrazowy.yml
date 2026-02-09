@@ -4,7 +4,7 @@
   total_distance_km: 49.254
   points_count: 286.0
   towns:
-  - slug: zakrzewo
+  - slug: zakrzewo-wielkopolskie
     name: Zakrzewo
     code: "3031072"
     distance_meters: 16293.63
@@ -16,7 +16,7 @@
     distance_meters: 14318.87
     distance_km: 14.319
     distance_percent: 29.0715
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-wiejska
     name: Złotów
     code: "3031082"
     distance_meters: 10789.98
@@ -105,10 +105,10 @@
   - slug: krajenka
     name: Krajenka
     code: "3031033"
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-wiejska
     name: Złotów
     code: "3031082"
-  - slug: zakrzewo
+  - slug: zakrzewo-wielkopolskie
     name: Zakrzewo
     code: "3031072"
   - slug: wiecbork

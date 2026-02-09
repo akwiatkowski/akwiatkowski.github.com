@@ -22,7 +22,7 @@
     distance_meters: 12113.1
     distance_km: 12.113
     distance_percent: 18.1663
-  - slug: wejherowo
+  - slug: wejherowo-pomorskie-wiejska
     name: Wejherowo
     code: "2215102"
     distance_meters: 11839.31
@@ -34,7 +34,7 @@
     distance_meters: 10630.19
     distance_km: 10.63
     distance_percent: 15.9424
-  - slug: wejherowo
+  - slug: wejherowo-pomorskie-miejska
     name: Wejherowo
     code: "2215031"
     distance_meters: 2733.43
@@ -126,9 +126,12 @@
     distance_km: 66.679
     distance_percent: 100.0
   touched_towns:
-  - slug: wejherowo
+  - slug: wejherowo-pomorskie-miejska
     name: Wejherowo
     code: "2215031"
+  - slug: wejherowo-pomorskie-wiejska
+    name: Wejherowo
+    code: "2215102"
   - slug: szemud
     name: Szemud
     code: "2215092"

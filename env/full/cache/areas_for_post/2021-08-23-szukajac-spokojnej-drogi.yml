@@ -10,7 +10,7 @@
     distance_meters: 19845.9
     distance_km: 19.846
     distance_percent: 41.2783
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
     distance_meters: 11864.63
@@ -22,13 +22,13 @@
     distance_meters: 8204.12
     distance_km: 8.204
     distance_percent: 17.0641
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
     distance_meters: 8163.68
     distance_km: 8.164
     distance_percent: 16.98
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-miejska
     name: Kętrzyn
     code: "2808011"
     distance_meters: 3860.42
@@ -120,13 +120,16 @@
     distance_km: 48.078
     distance_percent: 100.0
   touched_towns:
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
+  - slug: ketrzyn-warminsko-mazurskie-miejska
+    name: Kętrzyn
+    code: "2808011"
   - slug: reszel
     name: Reszel
     code: "2808053"
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
   - slug: bisztynek

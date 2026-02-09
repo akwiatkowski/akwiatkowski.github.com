@@ -4,7 +4,7 @@
   total_distance_km: 69.462
   points_count: 294.0
   towns:
-  - slug: chojnice
+  - slug: chojnice-pomorskie-wiejska
     name: Chojnice
     code: "2202032"
     distance_meters: 23787.62
@@ -22,7 +22,7 @@
     distance_meters: 19129.36
     distance_km: 19.129
     distance_percent: 27.5394
-  - slug: chojnice
+  - slug: chojnice-pomorskie-miejska
     name: Chojnice
     code: "2202011"
     distance_meters: 5504.07
@@ -96,9 +96,12 @@
   - slug: brusy
     name: Brusy
     code: "2202023"
-  - slug: chojnice
+  - slug: chojnice-pomorskie-wiejska
     name: Chojnice
     code: "2202032"
+  - slug: chojnice-pomorskie-miejska
+    name: Chojnice
+    code: "2202011"
   touched_counties:
   - slug: chojnicki
     name: chojnicki

@@ -177,7 +177,7 @@ class Tremolite::Blog
     # first we need to initialize all posts
     # ...unfortunately
     Profiler.measure("init", "initialize_posts") do
-      post_collection.initialize_posts
+      initialize_posts
     end
 
     # Set area_data_loader on all posts for area associations

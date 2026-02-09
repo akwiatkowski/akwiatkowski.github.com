@@ -16,7 +16,7 @@
     distance_meters: 11978.05
     distance_km: 11.978
     distance_percent: 22.424
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
     distance_meters: 10235.07
@@ -129,7 +129,7 @@
   - slug: jeziorany
     name: Jeziorany
     code: "2814063"
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
   - slug: bisztynek

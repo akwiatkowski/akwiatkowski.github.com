@@ -263,7 +263,7 @@ class RenderContext
   end
 
   def logger
-    blog.logger
+    Log
   end
 
   # ============================================

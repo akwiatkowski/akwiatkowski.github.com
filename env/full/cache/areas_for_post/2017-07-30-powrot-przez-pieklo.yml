@@ -16,7 +16,7 @@
     distance_meters: 13797.92
     distance_km: 13.798
     distance_percent: 23.2638
-  - slug: wisniowa
+  - slug: wisniowa-podkarpackie
     name: Wiśniowa
     code: "1819052"
     distance_meters: 12893.0
@@ -65,7 +65,7 @@
     distance_meters: 19148.47
     distance_km: 19.148
     distance_percent: 32.2851
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
     distance_meters: 16576.94
@@ -159,7 +159,7 @@
   - slug: frysztak
     name: Frysztak
     code: "1819022"
-  - slug: wisniowa
+  - slug: wisniowa-podkarpackie
     name: Wiśniowa
     code: "1819052"
   - slug: strzyzow
@@ -175,7 +175,7 @@
     name: Sędziszów Małopolski
     code: "1815043"
   touched_counties:
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
   - slug: krosno

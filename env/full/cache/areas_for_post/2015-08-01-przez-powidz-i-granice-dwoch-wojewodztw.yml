@@ -28,7 +28,7 @@
     distance_meters: 9453.32
     distance_km: 9.453
     distance_percent: 12.8334
-  - slug: slupca
+  - slug: slupca-wielkopolskie-wiejska
     name: Słupca
     code: "3023062"
     distance_meters: 5423.33
@@ -111,7 +111,7 @@
   - slug: strzalkowo
     name: Strzałkowo
     code: "3023072"
-  - slug: slupca
+  - slug: slupca-wielkopolskie-wiejska
     name: Słupca
     code: "3023062"
   - slug: powidz

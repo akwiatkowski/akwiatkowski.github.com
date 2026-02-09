@@ -29,7 +29,7 @@
     distance_meters: 9639.39
     distance_km: 9.639
     distance_percent: 57.3701
-  - slug: ostrowski
+  - slug: ostrowski-wielkopolskie
     name: ostrowski
     code: "3017"
     distance_meters: 7162.72
@@ -97,7 +97,7 @@
   - slug: milicki
     name: milicki
     code: "0213"
-  - slug: ostrowski
+  - slug: ostrowski-wielkopolskie
     name: ostrowski
     code: "3017"
   touched_voivodeships:

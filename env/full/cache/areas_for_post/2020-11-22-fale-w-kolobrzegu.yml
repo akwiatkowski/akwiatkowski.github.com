@@ -4,7 +4,7 @@
   total_distance_km: 8.181
   points_count: 90.0
   towns:
-  - slug: kolobrzeg
+  - slug: kolobrzeg-zachodniopomorskie-miejska
     name: Kołobrzeg
     code: "3208011"
     distance_meters: 6497.14
@@ -60,7 +60,7 @@
     distance_km: 7.235
     distance_percent: 88.4343
   touched_towns:
-  - slug: kolobrzeg
+  - slug: kolobrzeg-zachodniopomorskie-miejska
     name: Kołobrzeg
     code: "3208011"
   touched_counties:

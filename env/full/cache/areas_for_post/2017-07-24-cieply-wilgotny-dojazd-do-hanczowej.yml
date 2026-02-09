@@ -16,13 +16,13 @@
     distance_meters: 11001.86
     distance_km: 11.002
     distance_percent: 28.3142
-  - slug: grybow
+  - slug: grybow-malopolskie-miejska
     name: Grybów
     code: "1210011"
     distance_meters: 5533.45
     distance_km: 5.533
     distance_percent: 14.2408
-  - slug: grybow
+  - slug: grybow-malopolskie-wiejska
     name: Grybów
     code: "1210042"
     distance_meters: 2217.73
@@ -84,9 +84,12 @@
     distance_km: 38.856
     distance_percent: 100.0
   touched_towns:
-  - slug: grybow
+  - slug: grybow-malopolskie-miejska
     name: Grybów
     code: "1210011"
+  - slug: grybow-malopolskie-wiejska
+    name: Grybów
+    code: "1210042"
   - slug: ropa
     name: Ropa
     code: "1205082"

@@ -158,3 +158,8 @@
   title: Tablice
   subtitle: informacyjne, znaki, ...
   points: 5
+- slug: portfolio
+  slug_pl: portfolio
+  title: Portfolio
+  subtitle:
+  points: 50

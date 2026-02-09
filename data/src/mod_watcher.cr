@@ -13,6 +13,12 @@ class Tremolite::ModWatcher
   KEY_PHOTO_FILES   = "photo_files"
   KEY_SOURCE_FILES  = "source_files"
 
+  # Injected paths (set after construction, before first use)
+  property posts_path : String = ""
+  property posts_ext : String = ""
+  property data_path : String = ""
+  property exif_db_path : String = ""
+
   # core method to check what has been changed
   def changed_summary
     changed_keys = Array(String).new
@@ -59,11 +65,11 @@ class Tremolite::ModWatcher
 
   def current_state_of(key : String) : ModHash
     key_files = {
-      KEY_POSTS_FILES   => Dir[File.join([@blog.posts_path, "**", "*.#{@blog.posts_ext}"])],
-      KEY_YAML_FILES    => Dir[File.join([@blog.data_path, "**", "*.yml"])],
-      KEY_EXIF_DB_FILES => Dir[File.join([@blog.data_manager.exif_db.exif_db_file_parent_path, "**", "*.yml"])],
-      KEY_PHOTO_FILES   => Dir[File.join([@blog.data_path, "images", "**", "*"])],
-      KEY_SOURCE_FILES  => Dir[File.join([@blog.data_path, "**", "*.cr"])],
+      KEY_POSTS_FILES   => Dir[File.join([@posts_path, "**", "*.#{@posts_ext}"])],
+      KEY_YAML_FILES    => Dir[File.join([@data_path, "**", "*.yml"])],
+      KEY_EXIF_DB_FILES => Dir[File.join([@exif_db_path, "**", "*.yml"])],
+      KEY_PHOTO_FILES   => Dir[File.join([@data_path, "images", "**", "*"])],
+      KEY_SOURCE_FILES  => Dir[File.join([@data_path, "**", "*.cr"])],
     }
 
     if key_files[key]?

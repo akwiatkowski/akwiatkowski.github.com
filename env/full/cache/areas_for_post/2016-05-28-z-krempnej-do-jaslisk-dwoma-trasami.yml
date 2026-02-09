@@ -29,7 +29,7 @@
     distance_km: 0.212
     distance_percent: 0.3116
   counties:
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
     distance_meters: 49136.18
@@ -97,7 +97,7 @@
   - slug: jasielski
     name: jasielski
     code: "1805"
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
   touched_voivodeships:

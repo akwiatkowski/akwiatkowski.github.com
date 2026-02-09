@@ -4,7 +4,7 @@
   total_distance_km: 6.982
   points_count: 110.0
   towns:
-  - slug: radkow
+  - slug: radkow-dolnoslaskie
     name: Radków
     code: 0208123
     distance_meters: 6982.25
@@ -66,7 +66,7 @@
     distance_km: 6.982
     distance_percent: 100.0
   touched_towns:
-  - slug: radkow
+  - slug: radkow-dolnoslaskie
     name: Radków
     code: 0208123
   touched_counties:

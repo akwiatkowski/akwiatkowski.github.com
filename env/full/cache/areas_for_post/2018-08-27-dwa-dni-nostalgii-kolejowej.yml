@@ -28,13 +28,13 @@
     distance_meters: 15786.89
     distance_km: 15.787
     distance_percent: 4.2872
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
     distance_meters: 15714.23
     distance_km: 15.714
     distance_percent: 4.2675
-  - slug: ostrow_wielkopolski
+  - slug: ostrow_wielkopolski-wielkopolskie-wiejska
     name: Ostrów Wielkopolski
     code: "3017042"
     distance_meters: 15397.91
@@ -52,7 +52,7 @@
     distance_meters: 13918.26
     distance_km: 13.918
     distance_percent: 3.7797
-  - slug: ujazd
+  - slug: ujazd-lodzkie
     name: Ujazd
     code: "1016102"
     distance_meters: 13855.61
@@ -82,13 +82,13 @@
     distance_meters: 10606.57
     distance_km: 10.607
     distance_percent: 2.8804
-  - slug: zdunska_wola
+  - slug: zdunska_wola-lodzkie-wiejska
     name: Zduńska Wola
     code: "1019042"
     distance_meters: 10571.03
     distance_km: 10.571
     distance_percent: 2.8707
-  - slug: sieradz
+  - slug: sieradz-lodzkie-miejska
     name: Sieradz
     code: "1014011"
     distance_meters: 9856.54
@@ -106,7 +106,7 @@
     distance_meters: 9490.99
     distance_km: 9.491
     distance_percent: 2.5774
-  - slug: tomaszow_mazowiecki
+  - slug: tomaszow_mazowiecki-lodzkie-miejska
     name: Tomaszów Mazowiecki
     code: "1016011"
     distance_meters: 9155.85
@@ -148,31 +148,31 @@
     distance_meters: 7160.03
     distance_km: 7.16
     distance_percent: 1.9444
-  - slug: sieradz
+  - slug: sieradz-lodzkie-wiejska
     name: Sieradz
     code: "1014082"
     distance_meters: 6859.25
     distance_km: 6.859
     distance_percent: 1.8627
-  - slug: tomaszow_mazowiecki
+  - slug: tomaszow_mazowiecki-lodzkie-wiejska
     name: Tomaszów Mazowiecki
     code: "1016092"
     distance_meters: 5864.52
     distance_km: 5.865
     distance_percent: 1.5926
-  - slug: zdunska_wola
+  - slug: zdunska_wola-lodzkie-miejska
     name: Zduńska Wola
     code: "1019011"
     distance_meters: 4289.46
     distance_km: 4.289
     distance_percent: 1.1649
-  - slug: pabianice
+  - slug: pabianice-lodzkie-wiejska
     name: Pabianice
     code: "1008072"
     distance_meters: 3804.01
     distance_km: 3.804
     distance_percent: 1.033
-  - slug: pabianice
+  - slug: pabianice-lodzkie-miejska
     name: Pabianice
     code: "1008021"
     distance_meters: 3780.87
@@ -190,7 +190,7 @@
     distance_meters: 2332.72
     distance_km: 2.333
     distance_percent: 0.6335
-  - slug: brzeziny
+  - slug: brzeziny-lodzkie-wiejska
     name: Brzeziny
     code: "1021022"
     distance_meters: 989.5
@@ -203,7 +203,7 @@
     distance_km: 0.964
     distance_percent: 0.2618
   counties:
-  - slug: tomaszowski
+  - slug: tomaszowski-lodzkie
     name: tomaszowski
     code: "1016"
     distance_meters: 48669.06
@@ -227,13 +227,13 @@
     distance_meters: 35853.98
     distance_km: 35.854
     distance_percent: 9.7367
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 34133.47
     distance_km: 34.133
     distance_percent: 9.2695
-  - slug: ostrowski
+  - slug: ostrowski-wielkopolskie
     name: ostrowski
     code: "3017"
     distance_meters: 27331.19
@@ -444,9 +444,12 @@
   - slug: koluszki
     name: Koluszki
     code: "1006073"
-  - slug: tomaszow_mazowiecki
+  - slug: tomaszow_mazowiecki-lodzkie-wiejska
     name: Tomaszów Mazowiecki
     code: "1016092"
+  - slug: tomaszow_mazowiecki-lodzkie-miejska
+    name: Tomaszów Mazowiecki
+    code: "1016011"
   - slug: lubochnia
     name: Lubochnia
     code: "1016062"
@@ -456,21 +459,30 @@
   - slug: andrespol
     name: Andrespol
     code: "1006022"
-  - slug: pabianice
+  - slug: pabianice-lodzkie-wiejska
     name: Pabianice
     code: "1008072"
+  - slug: pabianice-lodzkie-miejska
+    name: Pabianice
+    code: "1008021"
   - slug: dobron
     name: Dobroń
     code: "1008042"
   - slug: lask
     name: Łask
     code: "1003023"
-  - slug: zdunska_wola
+  - slug: zdunska_wola-lodzkie-wiejska
     name: Zduńska Wola
     code: "1019042"
-  - slug: sieradz
+  - slug: zdunska_wola-lodzkie-miejska
+    name: Zduńska Wola
+    code: "1019011"
+  - slug: sieradz-lodzkie-miejska
     name: Sieradz
     code: "1014011"
+  - slug: sieradz-lodzkie-wiejska
+    name: Sieradz
+    code: "1014082"
   - slug: wroblew
     name: Wróblew
     code: "1014102"
@@ -489,7 +501,7 @@
   - slug: nowe_skalmierzyce
     name: Nowe Skalmierzyce
     code: "3017023"
-  - slug: ostrow_wielkopolski
+  - slug: ostrow_wielkopolski-wielkopolskie-wiejska
     name: Ostrów Wielkopolski
     code: "3017042"
   - slug: raszkow
@@ -501,7 +513,7 @@
   - slug: kotlin
     name: Kotlin
     code: "3006032"
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
   - slug: nowe_miasto_nad_warta
@@ -526,7 +538,7 @@
   - slug: lodzki_wschodni
     name: łódzki wschodni
     code: "1006"
-  - slug: tomaszowski
+  - slug: tomaszowski-lodzkie
     name: tomaszowski
     code: "1016"
   - slug: pabianicki
@@ -547,7 +559,7 @@
   - slug: kalisz
     name: Kalisz
     code: "3061"
-  - slug: ostrowski
+  - slug: ostrowski-wielkopolskie
     name: ostrowski
     code: "3017"
   - slug: pleszewski
@@ -556,7 +568,7 @@
   - slug: jarocinski
     name: jarociński
     code: "3006"
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   - slug: poznanski
@@ -657,7 +669,7 @@
     distance_meters: 16995.32
     distance_km: 16.995
     distance_percent: 5.1999
-  - slug: moszczenica
+  - slug: moszczenica-lodzkie
     name: Moszczenica
     code: "1010062"
     distance_meters: 13084.52
@@ -675,7 +687,7 @@
     distance_meters: 12566.18
     distance_km: 12.566
     distance_percent: 3.8448
-  - slug: dabrowa
+  - slug: dabrowa-opolskie
     name: Dąbrowa
     code: "1609022"
     distance_meters: 12280.09
@@ -687,7 +699,7 @@
     distance_meters: 11759.17
     distance_km: 11.759
     distance_percent: 3.5978
-  - slug: olawa
+  - slug: olawa-dolnoslaskie-wiejska
     name: Oława
     code: "0215042"
     distance_meters: 11444.88
@@ -771,7 +783,7 @@
     distance_meters: 7035.54
     distance_km: 7.036
     distance_percent: 2.1526
-  - slug: radomsko
+  - slug: radomsko-lodzkie-miejska
     name: Radomsko
     code: "1012011"
     distance_meters: 6946.81
@@ -795,13 +807,13 @@
     distance_meters: 6374.6
     distance_km: 6.375
     distance_percent: 1.9504
-  - slug: radomsko
+  - slug: radomsko-lodzkie-wiejska
     name: Radomsko
     code: "1012122"
     distance_meters: 6316.22
     distance_km: 6.316
     distance_percent: 1.9325
-  - slug: olawa
+  - slug: olawa-dolnoslaskie-miejska
     name: Oława
     code: "0215011"
     distance_meters: 5525.97
@@ -861,7 +873,7 @@
     distance_meters: 2288.71
     distance_km: 2.289
     distance_percent: 0.7003
-  - slug: olszanka
+  - slug: olszanka-opolskie
     name: Olszanka
     code: "1601062"
     distance_meters: 660.75
@@ -873,7 +885,7 @@
     distance_meters: 644.1
     distance_km: 0.644
     distance_percent: 0.1971
-  - slug: czarnocin
+  - slug: czarnocin-lodzkie
     name: Czarnocin
     code: "1010022"
     distance_meters: 544.57
@@ -886,7 +898,7 @@
     distance_meters: 43361.05
     distance_km: 43.361
     distance_percent: 13.2668
-  - slug: opolski
+  - slug: opolski-opolskie
     name: opolski
     code: "1609"
     distance_meters: 43054.35
@@ -898,7 +910,7 @@
     distance_meters: 34331.9
     distance_km: 34.332
     distance_percent: 10.5042
-  - slug: brzeski
+  - slug: brzeski-opolskie
     name: brzeski
     code: "1601"
     distance_meters: 30942.89
@@ -934,7 +946,7 @@
     distance_meters: 16970.85
     distance_km: 16.971
     distance_percent: 5.1924
-  - slug: tomaszowski
+  - slug: tomaszowski-lodzkie
     name: tomaszowski
     code: "1016"
     distance_meters: 16966.78
@@ -1187,7 +1199,7 @@
   - slug: siechnice
     name: Siechnice
     code: 0223083
-  - slug: olawa
+  - slug: olawa-dolnoslaskie-miejska
     name: Oława
     code: "0215011"
   - slug: brzeg
@@ -1196,7 +1208,7 @@
   - slug: lewin_brzeski
     name: Lewin Brzeski
     code: "1601043"
-  - slug: dabrowa
+  - slug: dabrowa-opolskie
     name: Dąbrowa
     code: "1609022"
   - slug: opole
@@ -1235,7 +1247,7 @@
   - slug: kruszyna
     name: Kruszyna
     code: "2404082"
-  - slug: radomsko
+  - slug: radomsko-lodzkie-miejska
     name: Radomsko
     code: "1012011"
   - slug: dobryszyce
@@ -1253,7 +1265,7 @@
   - slug: rozprza
     name: Rozprza
     code: "1010082"
-  - slug: czarnocin
+  - slug: czarnocin-lodzkie
     name: Czarnocin
     code: "1010022"
   - slug: bedkow
@@ -1281,10 +1293,10 @@
   - slug: olawski
     name: oławski
     code: "0215"
-  - slug: brzeski
+  - slug: brzeski-opolskie
     name: brzeski
     code: "1601"
-  - slug: opolski
+  - slug: opolski-opolskie
     name: opolski
     code: "1609"
   - slug: opole
@@ -1308,7 +1320,7 @@
   - slug: piotrkowski
     name: piotrkowski
     code: "1010"
-  - slug: tomaszowski
+  - slug: tomaszowski-lodzkie
     name: tomaszowski
     code: "1016"
   - slug: lodzki_wschodni

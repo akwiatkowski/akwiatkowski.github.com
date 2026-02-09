@@ -10,13 +10,13 @@
     distance_meters: 14176.66
     distance_km: 14.177
     distance_percent: 36.6489
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-miejska
     name: Inowrocław
     code: "0407011"
     distance_meters: 12808.55
     distance_km: 12.809
     distance_percent: 33.1121
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
     distance_meters: 8242.8
@@ -87,9 +87,12 @@
   - slug: kruszwica
     name: Kruszwica
     code: "0407063"
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
+  - slug: inowroclaw-kujawsko-pomorskie-miejska
+    name: Inowrocław
+    code: "0407011"
   - slug: pakosc
     name: Pakość
     code: "0407073"

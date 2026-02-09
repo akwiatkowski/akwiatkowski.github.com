@@ -22,7 +22,7 @@
     distance_meters: 17726.53
     distance_km: 17.727
     distance_percent: 20.5898
-  - slug: slupca
+  - slug: slupca-wielkopolskie-wiejska
     name: Słupca
     code: "3023062"
     distance_meters: 8946.46
@@ -40,7 +40,7 @@
     distance_meters: 5002.38
     distance_km: 5.002
     distance_percent: 5.8104
-  - slug: slupca
+  - slug: slupca-wielkopolskie-miejska
     name: Słupca
     code: "3023011"
     distance_meters: 3315.05
@@ -138,9 +138,12 @@
     distance_km: 86.094
     distance_percent: 100.0
   touched_towns:
-  - slug: slupca
+  - slug: slupca-wielkopolskie-miejska
     name: Słupca
     code: "3023011"
+  - slug: slupca-wielkopolskie-wiejska
+    name: Słupca
+    code: "3023062"
   - slug: ostrowite
     name: Ostrowite
     code: "3023042"

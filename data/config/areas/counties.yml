@@ -152,7 +152,7 @@
     north: 50.91712484300007
     west: 16.86343141900005
     east: 17.350237046000075
-- slug: sredzki
+- slug: sredzki-dolnoslaskie
   name: średzki
   code: 0218
   voivodeship: dolnoslaskie
@@ -161,7 +161,7 @@
     north: 51.261342279000075
     west: 16.332221021000066
     east: 16.905080488000067
-- slug: swidnicki
+- slug: swidnicki-dolnoslaskie
   name: świdnicki
   code: 0219
   voivodeship: dolnoslaskie
@@ -575,7 +575,7 @@
     north: 52.06837573800004
     west: 21.845045328000026
     east: 22.63353206100004
-- slug: opolski
+- slug: opolski-lubelskie
   name: opolski
   code: "0612"
   voivodeship: lubelskie
@@ -620,7 +620,7 @@
     north: 51.79380588300006
     west: 21.615542532000063
     east: 22.243063291000055
-- slug: swidnicki
+- slug: swidnicki-lubelskie
   name: świdnicki
   code: "0617"
   voivodeship: lubelskie
@@ -629,7 +629,7 @@
     north: 51.28474487200003
     west: 22.63879564100006
     east: 23.068911138000033
-- slug: tomaszowski
+- slug: tomaszowski-lubelskie
   name: tomaszowski
   code: 0618
   voivodeship: lubelskie
@@ -701,7 +701,7 @@
     north: 52.90440455500004
     west: 14.564033992000077
     east: 15.606193751000035
-- slug: krosnienski
+- slug: krosnienski-lubuskie
   name: krośnieński
   code: 0802
   voivodeship: lubuskie
@@ -953,7 +953,7 @@
     north: 52.150627996000026
     west: 19.86853169500006
     east: 20.51883123500005
-- slug: tomaszowski
+- slug: tomaszowski-lodzkie
   name: tomaszowski
   code: "1016"
   voivodeship: lodzkie
@@ -1043,7 +1043,7 @@
     north: 50.143056854000065
     west: 20.232496983000033
     east: 20.63101253600007
-- slug: brzeski
+- slug: brzeski-malopolskie
   name: brzeski
   code: "1202"
   voivodeship: malopolskie
@@ -1268,7 +1268,7 @@
     north: 52.52596069400005
     west: 19.259214418000056
     east: 19.98276009400007
-- slug: grodziski
+- slug: grodziski-mazowieckie
   name: grodziski
   code: "1405"
   voivodeship: mazowieckie
@@ -1349,7 +1349,7 @@
     north: 53.26952939900008
     west: 20.033306398000036
     east: 20.724711567000043
-- slug: nowodworski
+- slug: nowodworski-mazowieckie
   name: nowodworski
   code: "1414"
   voivodeship: mazowieckie
@@ -1367,7 +1367,7 @@
     north: 53.480947987000036
     west: 21.053888064000034
     east: 21.96043045700003
-- slug: ostrowski
+- slug: ostrowski-mazowieckie
   name: ostrowski
   code: "1416"
   voivodeship: mazowieckie
@@ -1610,7 +1610,7 @@
     north: 52.36815394300004
     west: 20.853064089000043
     east: 21.267694101000075
-- slug: brzeski
+- slug: brzeski-opolskie
   name: brzeski
   code: "1601"
   voivodeship: opolskie
@@ -1682,7 +1682,7 @@
     north: 51.141232512000045
     west: 18.228405629000065
     east: 18.695486740000035
-- slug: opolski
+- slug: opolski-opolskie
   name: opolski
   code: "1609"
   voivodeship: opolskie
@@ -1772,7 +1772,7 @@
     north: 50.48224493200007
     west: 21.53039214200004
     east: 22.09534619300007
-- slug: krosnienski
+- slug: krosnienski-podkarpackie
   name: krośnieński
   code: "1807"
   voivodeship: podkarpackie
@@ -1961,7 +1961,7 @@
     north: 53.38474597600003
     west: 22.469074242000033
     east: 23.946270238000068
-- slug: bielski
+- slug: bielski-podlaskie
   name: bielski
   code: "2003"
   voivodeship: podlaskie
@@ -2177,7 +2177,7 @@
     north: 54.18308220500006
     west: 18.805954144000054
     east: 19.282212525000034
-- slug: nowodworski
+- slug: nowodworski-pomorskie
   name: nowodworski
   code: "2210"
   voivodeship: pomorskie
@@ -2285,7 +2285,7 @@
     north: 50.536088136000046
     west: 18.957769985000027
     east: 19.306745680000063
-- slug: bielski
+- slug: bielski-slaskie
   name: bielski
   code: "2402"
   voivodeship: slaskie
@@ -2951,7 +2951,7 @@
     north: 51.98020305300008
     west: 16.72885102200007
     east: 17.338056385000073
-- slug: grodziski
+- slug: grodziski-wielkopolskie
   name: grodziski
   code: "3005"
   voivodeship: wielkopolskie
@@ -3059,7 +3059,7 @@
     north: 52.888846027000056
     west: 16.57623339400004
     east: 17.131150997000077
-- slug: ostrowski
+- slug: ostrowski-wielkopolskie
   name: ostrowski
   code: "3017"
   voivodeship: wielkopolskie
@@ -3131,7 +3131,7 @@
     north: 52.79405728200004
     west: 16.013770434000037
     east: 16.740772418000063
-- slug: sredzki
+- slug: sredzki-wielkopolskie
   name: średzki
   code: "3025"
   voivodeship: wielkopolskie

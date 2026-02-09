@@ -4,13 +4,13 @@
   total_distance_km: 25.963
   points_count: 193.0
   towns:
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-wiejska
     name: Szczecinek
     code: "3215062"
     distance_meters: 19410.56
     distance_km: 19.411
     distance_percent: 74.7611
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-miejska
     name: Szczecinek
     code: "3215011"
     distance_meters: 7926.16
@@ -96,9 +96,12 @@
     distance_km: 25.963
     distance_percent: 100.0
   touched_towns:
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-wiejska
     name: Szczecinek
     code: "3215062"
+  - slug: szczecinek-zachodniopomorskie-miejska
+    name: Szczecinek
+    code: "3215011"
   - slug: okonek
     name: Okonek
     code: "3031053"

@@ -34,19 +34,19 @@
     distance_meters: 11604.45
     distance_km: 11.604
     distance_percent: 11.9221
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 11596.91
     distance_km: 11.597
     distance_percent: 11.9144
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
     distance_meters: 4226.3
     distance_km: 4.226
     distance_percent: 4.342
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-miejska
     name: Wągrowiec
     code: "3028011"
     distance_meters: 3398.29
@@ -144,9 +144,12 @@
     distance_km: 97.335
     distance_percent: 100.0
   touched_towns:
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-miejska
     name: Wągrowiec
     code: "3028011"
+  - slug: wagrowiec-wielkopolskie-wiejska
+    name: Wągrowiec
+    code: "3028072"
   - slug: golancz
     name: Gołańcz
     code: "3028033"
@@ -162,7 +165,7 @@
   - slug: zlotniki_kujawskie
     name: Złotniki Kujawskie
     code: 0407092
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
   touched_counties:

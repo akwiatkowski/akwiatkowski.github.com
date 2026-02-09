@@ -16,7 +16,7 @@
     distance_meters: 20811.48
     distance_km: 20.811
     distance_percent: 30.1935
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
     distance_meters: 11493.2
@@ -132,7 +132,7 @@
     distance_km: 0.97
     distance_percent: 1.408
   touched_towns:
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
   - slug: jonkowo

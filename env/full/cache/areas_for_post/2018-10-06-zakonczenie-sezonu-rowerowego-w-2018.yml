@@ -10,7 +10,7 @@
     distance_meters: 17649.2
     distance_km: 17.649
     distance_percent: 18.9677
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
     distance_meters: 14037.15
@@ -28,7 +28,7 @@
     distance_meters: 10693.8
     distance_km: 10.694
     distance_percent: 11.4927
-  - slug: ostrow_wielkopolski
+  - slug: ostrow_wielkopolski-wielkopolskie-miejska
     name: Ostrów Wielkopolski
     code: "3017011"
     distance_meters: 9531.6
@@ -52,14 +52,14 @@
     distance_meters: 8030.75
     distance_km: 8.031
     distance_percent: 8.6307
-  - slug: ostrow_wielkopolski
+  - slug: ostrow_wielkopolski-wielkopolskie-wiejska
     name: Ostrów Wielkopolski
     code: "3017042"
     distance_meters: 3114.76
     distance_km: 3.115
     distance_percent: 3.3474
   counties:
-  - slug: ostrowski
+  - slug: ostrowski-wielkopolskie
     name: ostrowski
     code: "3017"
     distance_meters: 40989.35
@@ -177,9 +177,12 @@
   - slug: sieroszewice
     name: Sieroszewice
     code: "3017072"
-  - slug: ostrow_wielkopolski
+  - slug: ostrow_wielkopolski-wielkopolskie-wiejska
     name: Ostrów Wielkopolski
     code: "3017042"
+  - slug: ostrow_wielkopolski-wielkopolskie-miejska
+    name: Ostrów Wielkopolski
+    code: "3017011"
   - slug: raszkow
     name: Raszków
     code: "3017063"
@@ -189,14 +192,14 @@
   - slug: kotlin
     name: Kotlin
     code: "3006032"
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
   touched_counties:
   - slug: ostrzeszowski
     name: ostrzeszowski
     code: "3018"
-  - slug: ostrowski
+  - slug: ostrowski-wielkopolskie
     name: ostrowski
     code: "3017"
   - slug: pleszewski

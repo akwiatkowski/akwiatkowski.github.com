@@ -9,20 +9,12 @@ class BaseView < Tremolite::Views::BaseView
   @tag_nav : String?
   @lands_nav : String?
 
-  # # Legacy constructor - for backward compatibility during migration
-  # def initialize(blog : Tremolite::Blog, @url : String)
-  #   super(blog: blog, url: @url)
-  # end
-
-  # New constructor - views should use this
   def initialize(context : RenderContext, @url : String)
     super(context: context, url: @url)
   end
 
-  # Get RenderContext - from parent or create lazily from @blog
   def context : RenderContext
-    return @context.not_nil! if @context
-    @context ||= RenderContext.new(@blog.not_nil!)
+    @context.not_nil!
   end
 
   # helper

@@ -59,7 +59,7 @@
     distance_km: 1.22
     distance_percent: 1.3136
   counties:
-  - slug: sredzki
+  - slug: sredzki-dolnoslaskie
     name: średzki
     code: 0218
     distance_meters: 41047.24
@@ -77,7 +77,7 @@
     distance_meters: 15863.39
     distance_km: 15.863
     distance_percent: 17.0867
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
     distance_meters: 15851.58
@@ -226,13 +226,13 @@
     name: Żmigród
     code: "0220063"
   touched_counties:
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
   - slug: wroclawski
     name: wrocławski
     code: "0223"
-  - slug: sredzki
+  - slug: sredzki-dolnoslaskie
     name: średzki
     code: 0218
   - slug: wolowski

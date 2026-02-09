@@ -28,13 +28,13 @@
     distance_meters: 14642.39
     distance_km: 14.642
     distance_percent: 16.005
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 13479.51
     distance_km: 13.48
     distance_percent: 14.7339
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 6109.29
@@ -132,9 +132,12 @@
   - slug: lubowo
     name: Łubowo
     code: "3003062"
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
+  - slug: gniezno-wielkopolskie-miejska
+    name: Gniezno
+    code: "3003011"
   - slug: trzemeszno
     name: Trzemeszno
     code: "3003093"

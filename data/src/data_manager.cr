@@ -13,48 +13,70 @@ require "./data_manager/photo_map_dictionary"
 class Tremolite::DataManager
   include Profiled
 
-  def custom_initialize
-    # Extract Blog properties once — all service wiring below uses these locals
-    cache_path = @blog.cache_path.as(String)
-    data_path = @blog.data_path.as(String)
-    output_path = @blog.output_path.as(String)
-    html_buffer = @blog.html_buffer.as(Tremolite::HtmlBuffer)
-    posts_path = @blog.posts_path.as(String)
-    posts_ext = @blog.posts_ext.as(String)
+  # html_buffer must be set before preloaded_post_referenced_links is used
+  property html_buffer : Tremolite::HtmlBuffer?
 
+  def initialize(
+    @config_path : String,
+    @data_path : String = "",
+    @cache_path : String = "",
+    @output_path : String = "",
+    @posts_path : String = "",
+    @posts_ext : String = "",
+  )
+    @config_path = @data_path if @config_path.to_s == ""
+    @config_hash = Hash(String, String).new
+
+    Log.debug { "START" }
+
+    # Entity arrays
     @tags = Array(TagEntity).new
     @photo_tags = Array(PhotoTagEntity).new
     @train_stations = Array(TrainStationEntity).new
     @ideas = Array(IdeaEntity).new
 
+    # Services
     @area_data_loader = AreaDataLoader.new(
       config_path: @config_path,
-      cache_path: cache_path
+      cache_path: @cache_path
     )
     Profiler.measure("yaml", "areas") { @area_data_loader.not_nil!.load_areas }
 
     @post_coord_quant_cache = PostCoordQuantCache.new(
-      cache_path: cache_path
+      cache_path: @cache_path
     )
     @photo_coord_quant_cache = PhotoCoordQuantCache.new(
-      cache_path: cache_path,
+      cache_path: @cache_path,
       all_towns: @area_data_loader.not_nil!.areas_of_type(AreaType::Town)
     )
     @nav_stats_cache = NavStatsCache.new(
-      cache_path: cache_path
-    )
-    @preloaded_post_referenced_links = PreloadedPostReferencedLinks.new(
-      html_buffer: html_buffer,
-      posts_path: posts_path,
-      posts_ext: posts_ext
+      cache_path: @cache_path
     )
     @exif_db = ExifDb.new(
-      cache_path: cache_path,
-      data_path: data_path,
+      cache_path: @cache_path,
+      data_path: @data_path,
       photo_tags: @photo_tags.not_nil!
     )
     @photo_map_dictionary = PhotoMapDictionary.new(
-      output_path: output_path
+      output_path: @output_path
+    )
+
+    # Load config and entity data
+    load_config
+    load_tags
+    load_train_stations
+    load_ideas
+    load_photo_tags
+
+    Log.debug { "INITIALIZED" }
+  end
+
+  # PreloadedPostReferencedLinks needs html_buffer — initialize lazily
+  def init_preloaded_post_referenced_links
+    @preloaded_post_referenced_links = PreloadedPostReferencedLinks.new(
+      html_buffer: @html_buffer.not_nil!,
+      posts_path: @posts_path,
+      posts_ext: @posts_ext
     )
   end
 
@@ -74,14 +96,6 @@ class Tremolite::DataManager
   end
 
   # end of getters
-
-  @[Profile(category: "yaml")]
-  def custom_load
-    load_tags
-    load_train_stations
-    load_ideas
-    load_photo_tags
-  end
 
   @[Profile(category: "yaml")]
   def load_train_stations

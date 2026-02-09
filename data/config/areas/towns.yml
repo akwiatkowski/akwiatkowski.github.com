@@ -98,7 +98,7 @@
     north: 50.572367471000064
     west: 20.401060048000033
     east: 20.68444743300006
-- slug: osiek
+- slug: osiek-swietokrzyskie
   name: Osiek
   code: "2612043"
   voivodeship: swietokrzyskie
@@ -143,7 +143,7 @@
     north: 50.69864159100007
     west: 21.52108137600004
     east: 21.730866072000026
-- slug: gizycko
+- slug: gizycko-warminsko-mazurskie-miejska
   name: Giżycko
   code: "2806011"
   voivodeship: warminsko-mazurskie
@@ -170,7 +170,7 @@
     north: 51.047621510000056
     west: 19.82941205700007
     east: 20.02123103200006
-- slug: ilawa
+- slug: ilawa-warminsko-mazurskie-miejska
   name: Iława
   code: "2807011"
   voivodeship: warminsko-mazurskie
@@ -206,7 +206,7 @@
     north: 53.618869317000076
     west: 19.989580423000064
     east: 20.272394365000025
-- slug: ostroda
+- slug: ostroda-warminsko-mazurskie-miejska
   name: Ostróda
   code: "2815011"
   voivodeship: warminsko-mazurskie
@@ -215,7 +215,7 @@
     north: 53.72123579000004
     west: 19.936168886000075
     east: 19.994736097000043
-- slug: olsztyn
+- slug: olsztyn-warminsko-mazurskie
   name: Olsztyn
   code: "2862011"
   voivodeship: warminsko-mazurskie
@@ -242,7 +242,7 @@
     north: 54.418609539000045
     west: 20.050242732000072
     east: 20.335359202000063
-- slug: dzialdowo
+- slug: dzialdowo-warminsko-mazurskie-miejska
   name: Działdowo
   code: "2803011"
   voivodeship: warminsko-mazurskie
@@ -251,7 +251,7 @@
     north: 53.256758396000066
     west: 20.146292089000042
     east: 20.21479238300003
-- slug: braniewo
+- slug: braniewo-warminsko-mazurskie-wiejska
   name: Braniewo
   code: "2802022"
   voivodeship: warminsko-mazurskie
@@ -359,7 +359,7 @@
     north: 52.37726143300006
     west: 17.04917348600003
     east: 17.240580118000025
-- slug: obrzycko
+- slug: obrzycko-wielkopolskie-wiejska
   name: Obrzycko
   code: "3024042"
   voivodeship: wielkopolskie
@@ -422,7 +422,7 @@
     north: 52.41827032300006
     west: 18.403578569000047
     east: 18.629458189000047
-- slug: dabie
+- slug: dabie-wielkopolskie
   name: Dąbie
   code: "3009043"
   voivodeship: wielkopolskie
@@ -449,7 +449,7 @@
     north: 51.22680845900004
     west: 17.928165926000077
     east: 18.078736133000064
-- slug: klodawa
+- slug: klodawa-wielkopolskie
   name: Kłodawa
   code: "3009063"
   voivodeship: wielkopolskie
@@ -467,7 +467,7 @@
     north: 52.36357690700004
     west: 18.023152534000076
     east: 18.252546921000032
-- slug: zakrzewo
+- slug: zakrzewo-wielkopolskie
   name: Zakrzewo
   code: "3031072"
   voivodeship: wielkopolskie
@@ -476,7 +476,7 @@
     north: 53.47676540000003
     west: 17.039330223000036
     east: 17.298203941000054
-- slug: zduny
+- slug: zduny-wielkopolskie
   name: Zduny
   code: "3012063"
   voivodeship: wielkopolskie
@@ -557,7 +557,7 @@
     north: 50.559286633000056
     west: 19.73638099300007
     east: 19.963978162000046
-- slug: miedzna
+- slug: miedzna-mazowieckie
   name: Miedzna
   code: "1433062"
   voivodeship: mazowieckie
@@ -638,7 +638,7 @@
     north: 51.47392282200008
     west: 22.005974397000045
     east: 22.160231028000055
-- slug: pulawy
+- slug: pulawy-lubelskie-wiejska
   name: Puławy
   code: 0614092
   voivodeship: lubelskie
@@ -701,7 +701,7 @@
     north: 50.98819330100008
     west: 15.875198065000063
     east: 15.98165361100007
-- slug: zlotoryja
+- slug: zlotoryja-dolnoslaskie-miejska
   name: Złotoryja
   code: "0226021"
   voivodeship: dolnoslaskie
@@ -737,7 +737,7 @@
     north: 52.99098356600007
     west: 18.206734362000077
     east: 18.38241724900007
-- slug: bobrowniki
+- slug: bobrowniki-kujawsko-pomorskie
   name: Bobrowniki
   code: 0408022
   voivodeship: kujawsko-pomorskie
@@ -782,7 +782,7 @@
     north: 51.72339961800003
     west: 22.023808706000068
     east: 22.178240869000035
-- slug: stezyca
+- slug: stezyca-lubelskie
   name: Stężyca
   code: "0616052"
   voivodeship: lubelskie
@@ -800,7 +800,7 @@
     north: 51.24246143800008
     west: 22.63879564100006
     east: 22.719376887000067
-- slug: glowno
+- slug: glowno-lodzkie-miejska
   name: Głowno
   code: "1020011"
   voivodeship: lodzkie
@@ -809,7 +809,7 @@
     north: 51.987382213000046
     west: 19.66662277100005
     east: 19.76148964400005
-- slug: glowno
+- slug: glowno-lodzkie-wiejska
   name: Głowno
   code: "1020052"
   voivodeship: lodzkie
@@ -827,7 +827,7 @@
     north: 51.89484799600007
     west: 19.79604179300003
     east: 19.949798686000065
-- slug: garwolin
+- slug: garwolin-mazowieckie-miejska
   name: Garwolin
   code: "1403011"
   voivodeship: mazowieckie
@@ -863,7 +863,7 @@
     north: 50.307653720000076
     west: 23.251924302000077
     east: 23.547882552000033
-- slug: wasosz
+- slug: wasosz-dolnoslaskie
   name: Wąsosz
   code: "0204043"
   voivodeship: dolnoslaskie
@@ -890,7 +890,7 @@
     north: 53.15872773700005
     west: 14.721577398000022
     east: 14.853323777000071
-- slug: darlowo
+- slug: darlowo-zachodniopomorskie-wiejska
   name: Darłowo
   code: "3213032"
   voivodeship: zachodniopomorskie
@@ -899,7 +899,7 @@
     north: 54.51224337800005
     west: 16.21419779400003
     east: 16.582598466000036
-- slug: tomaszow_lubelski
+- slug: tomaszow_lubelski-lubelskie-miejska
   name: Tomaszów Lubelski
   code: 0618011
   voivodeship: lubelskie
@@ -980,7 +980,7 @@
     north: 51.86580498300003
     west: 20.56024558000007
     east: 20.760757047000027
-- slug: czarna
+- slug: czarna-podkarpackie-lancucki
   name: Czarna
   code: "1810032"
   voivodeship: podkarpackie
@@ -1043,7 +1043,7 @@
     north: 52.59317741000007
     west: 18.09024878100007
     east: 18.361213193000026
-- slug: radziejow
+- slug: radziejow-kujawsko-pomorskie-miejska
   name: Radziejów
   code: "0411011"
   voivodeship: kujawsko-pomorskie
@@ -1088,7 +1088,7 @@
     north: 50.792665482000075
     west: 22.760679253000035
     east: 22.899520229000075
-- slug: starogard_gdanski
+- slug: starogard_gdanski-pomorskie-wiejska
   name: Starogard Gdański
   code: "2213122"
   voivodeship: pomorskie
@@ -1106,7 +1106,7 @@
     north: 54.02258003800006
     west: 18.236929860000032
     east: 18.440168938000056
-- slug: tczew
+- slug: tczew-pomorskie-wiejska
   name: Tczew
   code: "2214062"
   voivodeship: pomorskie
@@ -1124,7 +1124,7 @@
     north: 52.875102079000044
     west: 21.048356128000023
     east: 21.29216122400004
-- slug: minsk_mazowiecki
+- slug: minsk_mazowiecki-mazowieckie-miejska
   name: Mińsk Mazowiecki
   code: "1412011"
   voivodeship: mazowieckie
@@ -1160,7 +1160,7 @@
     north: 51.53548709100005
     west: 21.729864951000025
     east: 21.87317586100005
-- slug: lancut
+- slug: lancut-podkarpackie-wiejska
   name: Łańcut
   code: "1810042"
   voivodeship: podkarpackie
@@ -1178,7 +1178,7 @@
     north: 49.84233883500008
     west: 20.98717655200005
     east: 21.164531572000044
-- slug: klodzko
+- slug: klodzko-dolnoslaskie-wiejska
   name: Kłodzko
   code: 0208072
   voivodeship: dolnoslaskie
@@ -1196,7 +1196,7 @@
     north: 53.298503475000075
     west: 15.986026855000034
     east: 16.283799035000072
-- slug: chelm
+- slug: chelm-lubelskie-miejska
   name: Chełm
   code: "0662011"
   voivodeship: lubelskie
@@ -1205,7 +1205,7 @@
     north: 51.16789638600005
     west: 23.420037811000043
     east: 23.557131026000036
-- slug: zamosc
+- slug: zamosc-lubelskie-miejska
   name: Zamość
   code: "0664011"
   voivodeship: lubelskie
@@ -1214,7 +1214,7 @@
     north: 50.74846174600003
     west: 23.21273138600003
     east: 23.306470900000022
-- slug: brody
+- slug: brody-lubuskie
   name: Brody
   code: 0811032
   voivodeship: lubuskie
@@ -1286,7 +1286,7 @@
     north: 53.58378803700003
     west: 18.237345032000064
     east: 18.413798753000037
-- slug: dobra
+- slug: dobra-zachodniopomorskie
   name: Dobra
   code: "3218013"
   voivodeship: zachodniopomorskie
@@ -1304,7 +1304,7 @@
     north: 53.734062719000065
     west: 15.274215354000034
     east: 15.564616627000078
-- slug: terespol
+- slug: terespol-lubelskie-miejska
   name: Terespol
   code: "0601021"
   voivodeship: lubelskie
@@ -1385,7 +1385,7 @@
     north: 53.56110283400005
     west: 17.719799283000043
     east: 17.90031119100007
-- slug: biala_podlaska
+- slug: biala_podlaska-lubelskie-wiejska
   name: Biała Podlaska
   code: "0601032"
   voivodeship: lubelskie
@@ -1448,7 +1448,7 @@
     north: 52.797792307000066
     west: 22.042076328000064
     east: 22.222896899000034
-- slug: jozefow
+- slug: jozefow-mazowieckie
   name: Józefów
   code: "1417011"
   voivodeship: mazowieckie
@@ -1538,7 +1538,7 @@
     north: 52.81812887600006
     west: 15.281790055000045
     east: 15.606193751000035
-- slug: gubin
+- slug: gubin-lubuskie-wiejska
   name: Gubin
   code: 0802052
   voivodeship: lubuskie
@@ -1547,7 +1547,7 @@
     north: 52.08108062000008
     west: 14.590549907000025
     east: 14.960059568000077
-- slug: gubin
+- slug: gubin-lubuskie-miejska
   name: Gubin
   code: 0802011
   voivodeship: lubuskie
@@ -1592,7 +1592,7 @@
     north: 52.55209503100008
     west: 19.860382876000074
     east: 20.14325668600003
-- slug: chmielnik
+- slug: chmielnik-podkarpackie
   name: Chmielnik
   code: "1816042"
   voivodeship: podkarpackie
@@ -1619,7 +1619,7 @@
     north: 53.07678570100006
     west: 22.76868522500007
     east: 22.960233405000054
-- slug: poswietne
+- slug: poswietne-podlaskie
   name: Poświętne
   code: "2002082"
   voivodeship: podlaskie
@@ -1673,7 +1673,7 @@
     north: 52.529912187000036
     west: 14.746987927000077
     east: 15.041928970000072
-- slug: rzgow
+- slug: rzgow-lodzkie
   name: Rzgów
   code: "1006103"
   voivodeship: lodzkie
@@ -1700,7 +1700,7 @@
     north: 51.50555767800006
     west: 20.184999635000054
     east: 20.442547096000055
-- slug: slawno
+- slug: slawno-lodzkie
   name: Sławno
   code: "1007072"
   voivodeship: lodzkie
@@ -1799,7 +1799,7 @@
     north: 51.122813793000034
     west: 22.880301016000033
     east: 23.036654571000042
-- slug: slubice
+- slug: slubice-lubuskie
   name: Słubice
   code: 0805053
   voivodeship: lubuskie
@@ -1844,7 +1844,7 @@
     north: 52.19595450400004
     west: 20.76292063300008
     east: 20.844283388000065
-- slug: wisniowa
+- slug: wisniowa-podkarpackie
   name: Wiśniowa
   code: "1819052"
   voivodeship: podkarpackie
@@ -1853,7 +1853,7 @@
     north: 49.93228903800008
     west: 21.541471496000042
     east: 21.73076064600008
-- slug: hajnowka
+- slug: hajnowka-podlaskie-wiejska
   name: Hajnówka
   code: "2005062"
   voivodeship: podlaskie
@@ -1871,7 +1871,7 @@
     north: 50.95717466200006
     west: 16.37750204300005
     east: 16.49788113900007
-- slug: debowiec
+- slug: debowiec-slaskie
   name: Dębowiec
   code: "2403062"
   voivodeship: slaskie
@@ -1898,7 +1898,7 @@
     north: 51.007996741000056
     west: 22.87898842100003
     east: 23.07924867500003
-- slug: rudnik
+- slug: rudnik-lubelskie
   name: Rudnik
   code: 0606092
   voivodeship: lubelskie
@@ -1916,7 +1916,7 @@
     north: 52.22405456100006
     west: 15.292822331000025
     east: 15.57990241500005
-- slug: lagow
+- slug: lagow-lubuskie
   name: Łagów
   code: 0808022
   voivodeship: lubuskie
@@ -1943,7 +1943,7 @@
     north: 52.21329011800003
     west: 15.722452739000062
     east: 15.88226867700007
-- slug: czarnocin
+- slug: czarnocin-lodzkie
   name: Czarnocin
   code: "1010022"
   voivodeship: lodzkie
@@ -1952,7 +1952,7 @@
     north: 51.649543778000066
     west: 19.594181948000028
     east: 19.731251007000026
-- slug: moszczenica
+- slug: moszczenica-lodzkie
   name: Moszczenica
   code: "1010062"
   voivodeship: lodzkie
@@ -2060,7 +2060,7 @@
     north: 51.60667069800007
     west: 22.222235941000065
     east: 22.45096516900003
-- slug: ostrowek
+- slug: ostrowek-lubelskie
   name: Ostrówek
   code: 0608112
   voivodeship: lubelskie
@@ -2096,7 +2096,7 @@
     north: 51.19082078400004
     west: 19.233423618000074
     east: 19.41265676300003
-- slug: radomsko
+- slug: radomsko-lodzkie-wiejska
   name: Radomsko
   code: "1012122"
   voivodeship: lodzkie
@@ -2213,7 +2213,7 @@
     north: 52.27243455800004
     west: 22.372823501000028
     east: 22.64738608300007
-- slug: siedlce
+- slug: siedlce-mazowieckie-wiejska
   name: Siedlce
   code: "1426082"
   voivodeship: mazowieckie
@@ -2231,7 +2231,7 @@
     north: 50.491461505000075
     west: 18.13213791100003
     east: 18.298387581000043
-- slug: ujazd
+- slug: ujazd-opolskie
   name: Ujazd
   code: "1611063"
   voivodeship: opolskie
@@ -2285,7 +2285,7 @@
     north: 53.615386743000045
     west: 23.314263269000037
     east: 23.605746762000024
-- slug: stoczek_lukowski
+- slug: stoczek_lukowski-lubelskie-miejska
   name: Stoczek Łukowski
   code: "0611021"
   voivodeship: lubelskie
@@ -2321,7 +2321,7 @@
     north: 52.90568684100003
     west: 19.757627154000033
     east: 19.998604184000044
-- slug: sokolow_podlaski
+- slug: sokolow_podlaski-mazowieckie-miejska
   name: Sokołów Podlaski
   code: "1429011"
   voivodeship: mazowieckie
@@ -2348,7 +2348,7 @@
     north: 49.78109344300003
     west: 21.850859229000037
     east: 22.028819697000074
-- slug: czarna
+- slug: czarna-podkarpackie-bieszczadzki
   name: Czarna
   code: "1801032"
   voivodeship: podkarpackie
@@ -2375,7 +2375,7 @@
     north: 53.487679178000064
     west: 23.30711375800007
     east: 23.725913564000052
-- slug: suwalki
+- slug: suwalki-podlaskie-wiejska
   name: Suwałki
   code: "2012072"
   voivodeship: podlaskie
@@ -2429,7 +2429,7 @@
     north: 52.65582066600007
     west: 22.204199281000058
     east: 22.44792011800007
-- slug: sochaczew
+- slug: sochaczew-mazowieckie-miejska
   name: Sochaczew
   code: "1428011"
   voivodeship: mazowieckie
@@ -2447,7 +2447,7 @@
     north: 52.41909386800006
     west: 19.936101096000073
     east: 20.132316287000037
-- slug: sochaczew
+- slug: sochaczew-mazowieckie-wiejska
   name: Sochaczew
   code: "1428072"
   voivodeship: mazowieckie
@@ -2465,7 +2465,7 @@
     north: 52.24581427600003
     west: 20.301039132000028
     east: 20.490674330000047
-- slug: jaroslaw
+- slug: jaroslaw-podkarpackie-wiejska
   name: Jarosław
   code: "1804042"
   voivodeship: podkarpackie
@@ -2474,7 +2474,7 @@
     north: 50.07057558100007
     west: 22.664509037000073
     east: 22.84738856900003
-- slug: limanowa
+- slug: limanowa-malopolskie-miejska
   name: Limanowa
   code: "1207011"
   voivodeship: malopolskie
@@ -2762,7 +2762,7 @@
     north: 54.83522222200003
     west: 17.911406450000072
     east: 18.297175955000057
-- slug: rawa_mazowiecka
+- slug: rawa_mazowiecka-lodzkie-wiejska
   name: Rawa Mazowiecka
   code: "1013042"
   voivodeship: lodzkie
@@ -2771,7 +2771,7 @@
     north: 51.85045603900005
     west: 20.115794008000023
     east: 20.349020556000028
-- slug: zdunska_wola
+- slug: zdunska_wola-lodzkie-wiejska
   name: Zduńska Wola
   code: "1019042"
   voivodeship: lodzkie
@@ -2798,7 +2798,7 @@
     north: 53.37239412900004
     west: 21.871687438000038
     east: 22.12320272100004
-- slug: ilawa
+- slug: ilawa-warminsko-mazurskie-wiejska
   name: Iława
   code: "2807032"
   voivodeship: warminsko-mazurskie
@@ -2807,7 +2807,7 @@
     north: 53.77299882500006
     west: 19.352157790000035
     east: 19.808516991000033
-- slug: bartoszyce
+- slug: bartoszyce-warminsko-mazurskie-wiejska
   name: Bartoszyce
   code: "2801032"
   voivodeship: warminsko-mazurskie
@@ -2816,7 +2816,7 @@
     north: 54.372260905000076
     west: 20.577333167000063
     east: 21.030162817000075
-- slug: olesnica
+- slug: olesnica-swietokrzyskie
   name: Oleśnica
   code: "2612033"
   voivodeship: swietokrzyskie
@@ -2843,7 +2843,7 @@
     north: 50.56669291800006
     west: 20.60532811400003
     east: 20.91750040100004
-- slug: chmielnik
+- slug: chmielnik-swietokrzyskie
   name: Chmielnik
   code: "2604043"
   voivodeship: swietokrzyskie
@@ -2951,7 +2951,7 @@
     north: 53.77898716700008
     west: 22.17664794800004
     east: 22.626493598000025
-- slug: ketrzyn
+- slug: ketrzyn-warminsko-mazurskie-wiejska
   name: Kętrzyn
   code: "2808032"
   voivodeship: warminsko-mazurskie
@@ -3059,7 +3059,7 @@
     north: 54.45326669200006
     west: 19.61913794700007
     east: 19.78239560000003
-- slug: gorowo_ilaweckie
+- slug: gorowo_ilaweckie-warminsko-mazurskie-miejska
   name: Górowo Iławeckie
   code: "2801021"
   voivodeship: warminsko-mazurskie
@@ -3068,7 +3068,7 @@
     north: 54.29210595300003
     west: 20.474988474000043
     east: 20.50410256300006
-- slug: braniewo
+- slug: braniewo-warminsko-mazurskie-miejska
   name: Braniewo
   code: "2802011"
   voivodeship: warminsko-mazurskie
@@ -3086,7 +3086,7 @@
     north: 51.930481420000035
     west: 16.71261868000005
     east: 16.90420163500005
-- slug: chodziez
+- slug: chodziez-wielkopolskie-wiejska
   name: Chodzież
   code: "3001032"
   voivodeship: wielkopolskie
@@ -3095,7 +3095,7 @@
     north: 53.059777532000055
     west: 16.737820499000065
     east: 17.039028173000077
-- slug: rogozno
+- slug: rogozno-wielkopolskie
   name: Rogoźno
   code: "3016023"
   voivodeship: wielkopolskie
@@ -3122,7 +3122,7 @@
     north: 52.66929548200005
     west: 16.157582115000025
     east: 16.33853870300004
-- slug: ostrow_wielkopolski
+- slug: ostrow_wielkopolski-wielkopolskie-miejska
   name: Ostrów Wielkopolski
   code: "3017011"
   voivodeship: wielkopolskie
@@ -3167,7 +3167,7 @@
     north: 52.80585396400005
     west: 17.207268656000053
     east: 17.458522687000027
-- slug: wagrowiec
+- slug: wagrowiec-wielkopolskie-miejska
   name: Wągrowiec
   code: "3028011"
   voivodeship: wielkopolskie
@@ -3230,7 +3230,7 @@
     north: 52.43540703900004
     west: 18.225932740000076
     east: 18.446551035000027
-- slug: leszno
+- slug: leszno-wielkopolskie
   name: Leszno
   code: "3063011"
   voivodeship: wielkopolskie
@@ -3266,7 +3266,7 @@
     north: 52.39883232700004
     west: 18.827377068000033
     east: 19.047120079000024
-- slug: kolo
+- slug: kolo-wielkopolskie-miejska
   name: Koło
   code: "3009011"
   voivodeship: wielkopolskie
@@ -3311,7 +3311,7 @@
     north: 51.019793175000075
     west: 18.61238564100006
     east: 18.789775027000076
-- slug: sulmierzyce
+- slug: sulmierzyce-wielkopolskie
   name: Sulmierzyce
   code: "3012011"
   voivodeship: wielkopolskie
@@ -3419,7 +3419,7 @@
     north: 50.395108245000074
     west: 19.825311299000077
     east: 20.022461857000053
-- slug: inowroclaw
+- slug: inowroclaw-kujawsko-pomorskie-wiejska
   name: Inowrocław
   code: "0407042"
   voivodeship: kujawsko-pomorskie
@@ -3455,7 +3455,7 @@
     north: 54.06629391200005
     west: 17.646826134000037
     east: 17.92512460100005
-- slug: koscierzyna
+- slug: koscierzyna-pomorskie-wiejska
   name: Kościerzyna
   code: "2206042"
   voivodeship: pomorskie
@@ -3527,7 +3527,7 @@
     north: 49.67410540600008
     west: 21.713731075000055
     east: 21.852617465000037
-- slug: wisniowa
+- slug: wisniowa-malopolskie
   name: Wiśniowa
   code: "1209092"
   voivodeship: malopolskie
@@ -3536,7 +3536,7 @@
     north: 49.82879187700007
     west: 20.03152213900006
     east: 20.152787815000067
-- slug: grybow
+- slug: grybow-malopolskie-miejska
   name: Grybów
   code: "1210011"
   voivodeship: malopolskie
@@ -3554,7 +3554,7 @@
     north: 49.548699224000075
     west: 20.762664037000036
     east: 20.962457019000055
-- slug: grybow
+- slug: grybow-malopolskie-wiejska
   name: Grybów
   code: "1210042"
   voivodeship: malopolskie
@@ -3572,7 +3572,7 @@
     north: 50.84456745400007
     west: 16.66192865000005
     east: 16.895209542000032
-- slug: lipno
+- slug: lipno-kujawsko-pomorskie-miejska
   name: Lipno
   code: 0408011
   voivodeship: kujawsko-pomorskie
@@ -3581,7 +3581,7 @@
     north: 52.856938598000056
     west: 19.137054301000035
     east: 19.218636249000042
-- slug: piaski
+- slug: piaski-lubelskie
   name: Piaski
   code: "0617033"
   voivodeship: lubelskie
@@ -3608,7 +3608,7 @@
     north: 54.35831018500005
     west: 18.93370125000007
     east: 19.212470191000023
-- slug: ustka
+- slug: ustka-pomorskie-miejska
   name: Ustka
   code: "2212011"
   voivodeship: pomorskie
@@ -3653,7 +3653,7 @@
     north: 50.35432001800007
     west: 23.012087664000035
     east: 23.299662647000048
-- slug: lubaczow
+- slug: lubaczow-podkarpackie-wiejska
   name: Lubaczów
   code: "1809042"
   voivodeship: podkarpackie
@@ -3797,7 +3797,7 @@
     north: 53.496792508000055
     west: 15.012040054000067
     east: 15.267699567000022
-- slug: biala_podlaska
+- slug: biala_podlaska-lubelskie-miejska
   name: Biała Podlaska
   code: "0661011"
   voivodeship: lubelskie
@@ -3806,7 +3806,7 @@
     north: 52.05978882800008
     west: 23.072338200000047
     east: 23.211502619000044
-- slug: wlodawa
+- slug: wlodawa-lubelskie-miejska
   name: Włodawa
   code: 0619011
   voivodeship: lubelskie
@@ -3860,7 +3860,7 @@
     north: 50.24676806100007
     west: 22.171986340000046
     east: 22.285537307000027
-- slug: mielec
+- slug: mielec-podkarpackie-miejska
   name: Mielec
   code: "1811011"
   voivodeship: podkarpackie
@@ -3914,7 +3914,7 @@
     north: 49.883918408000056
     west: 20.849278188000028
     east: 21.043235538000033
-- slug: klodzko
+- slug: klodzko-dolnoslaskie-miejska
   name: Kłodzko
   code: 0208021
   voivodeship: dolnoslaskie
@@ -3995,7 +3995,7 @@
     north: 50.41615523000007
     west: 21.966867130000026
     east: 22.272574791000068
-- slug: jarocin
+- slug: jarocin-podkarpackie
   name: Jarocin
   code: "1812022"
   voivodeship: podkarpackie
@@ -4013,7 +4013,7 @@
     north: 53.62335156200004
     west: 15.347442731000058
     east: 15.726377097000068
-- slug: miedzyrzec_podlaski
+- slug: miedzyrzec_podlaski-lubelskie-wiejska
   name: Międzyrzec Podlaski
   code: "0601102"
   voivodeship: lubelskie
@@ -4031,7 +4031,7 @@
     north: 51.36434886100005
     west: 18.855769554000062
     east: 19.07745877800005
-- slug: kutno
+- slug: kutno-lodzkie-miejska
   name: Kutno
   code: "1002011"
   voivodeship: lodzkie
@@ -4076,7 +4076,7 @@
     north: 53.11475288100007
     west: 21.626068023000073
     east: 21.941112727000075
-- slug: ostrow_mazowiecka
+- slug: ostrow_mazowiecka-mazowieckie-miejska
   name: Ostrów Mazowiecka
   code: "1416011"
   voivodeship: mazowieckie
@@ -4103,7 +4103,7 @@
     north: 52.55342495000008
     west: 21.507118571000035
     east: 21.737889422000023
-- slug: przemysl
+- slug: przemysl-podkarpackie-wiejska
   name: Przemyśl
   code: "1813082"
   voivodeship: podkarpackie
@@ -4328,7 +4328,7 @@
     north: 51.62161008000004
     west: 16.989484549000053
     east: 17.574980367000023
-- slug: jozefow
+- slug: jozefow-lubelskie
   name: Józefów
   code: "0602073"
   voivodeship: lubelskie
@@ -4355,7 +4355,7 @@
     north: 50.64447243800004
     west: 22.792552043000057
     east: 22.989487360000055
-- slug: maszewo
+- slug: maszewo-lubuskie
   name: Maszewo
   code: 0802072
   voivodeship: lubuskie
@@ -4364,7 +4364,7 @@
     north: 52.21888002000003
     west: 14.789870558000075
     east: 15.059446060000028
-- slug: brojce
+- slug: brojce-lodzkie
   name: Brójce
   code: "1006032"
   voivodeship: lodzkie
@@ -4418,7 +4418,7 @@
     north: 53.10175682300007
     west: 22.897388744000068
     east: 23.11492879700006
-- slug: kwidzyn
+- slug: kwidzyn-pomorskie-miejska
   name: Kwidzyn
   code: "2207011"
   voivodeship: pomorskie
@@ -4436,7 +4436,7 @@
     north: 52.782599737000055
     west: 18.82750376900003
     east: 18.98258031000006
-- slug: kowal
+- slug: kowal-kujawsko-pomorskie-wiejska
   name: Kowal
   code: 0418092
   voivodeship: kujawsko-pomorskie
@@ -4454,7 +4454,7 @@
     north: 52.47920023100005
     west: 19.06735059700003
     east: 19.29656631100005
-- slug: rogowo
+- slug: rogowo-kujawsko-pomorskie-zninski
   name: Rogowo
   code: 0419052
   voivodeship: kujawsko-pomorskie
@@ -4490,7 +4490,7 @@
     north: 51.24522545800005
     west: 23.57867637000004
     east: 23.870294989000058
-- slug: wierzbica
+- slug: wierzbica-lubelskie
   name: Wierzbica
   code: "0603122"
   voivodeship: lubelskie
@@ -4562,7 +4562,7 @@
     north: 50.32891012600004
     west: 18.151129334000075
     east: 18.26402392500006
-- slug: sanok
+- slug: sanok-podkarpackie-wiejska
   name: Sanok
   code: "1817052"
   voivodeship: podkarpackie
@@ -4625,7 +4625,7 @@
     north: 50.37031770100003
     west: 19.058420330000047
     east: 19.18939714000004
-- slug: hrubieszow
+- slug: hrubieszow-lubelskie-wiejska
   name: Hrubieszów
   code: "0604042"
   voivodeship: lubelskie
@@ -4652,7 +4652,7 @@
     north: 50.84482469400007
     west: 22.38537782900005
     east: 22.56167799600007
-- slug: chrzanow
+- slug: chrzanow-lubelskie
   name: Chrzanów
   code: "0605022"
   voivodeship: lubelskie
@@ -4670,7 +4670,7 @@
     north: 50.974112269000045
     west: 23.229443110000034
     east: 23.479518402000053
-- slug: krasnystaw
+- slug: krasnystaw-lubelskie-miejska
   name: Krasnystaw
   code: "0606011"
   voivodeship: lubelskie
@@ -4688,7 +4688,7 @@
     north: 52.89699344400003
     west: 15.609378210000045
     east: 15.780255466000028
-- slug: pabianice
+- slug: pabianice-lodzkie-miejska
   name: Pabianice
   code: "1008021"
   voivodeship: lodzkie
@@ -4760,7 +4760,7 @@
     north: 49.79824643000006
     west: 18.80918447700003
     east: 18.994281525000076
-- slug: krasnik
+- slug: krasnik-lubelskie-wiejska
   name: Kraśnik
   code: "0607052"
   voivodeship: lubelskie
@@ -4805,7 +4805,7 @@
     north: 51.141232512000045
     west: 18.402308487000028
     east: 18.578650259000028
-- slug: radlow
+- slug: radlow-opolskie
   name: Radłów
   code: "1608052"
   voivodeship: opolskie
@@ -4859,7 +4859,7 @@
     north: 50.85400618300008
     west: 16.227952316000028
     east: 16.354607014000067
-- slug: olsztyn
+- slug: olsztyn-slaskie
   name: Olsztyn
   code: "2404122"
   voivodeship: slaskie
@@ -4940,7 +4940,7 @@
     north: 50.83619474200003
     west: 17.958806038000034
     east: 18.258213772000033
-- slug: biala
+- slug: biala-opolskie
   name: Biała
   code: "1610013"
   voivodeship: opolskie
@@ -4985,7 +4985,7 @@
     north: 53.31517908200004
     west: 15.607672559000036
     east: 16.023197865000043
-- slug: jablonna
+- slug: jablonna-lubelskie
   name: Jabłonna
   code: 0609062
   voivodeship: lubelskie
@@ -5066,7 +5066,7 @@
     north: 52.41053434000003
     west: 22.509759700000075
     east: 22.740658389000032
-- slug: sejny
+- slug: sejny-podlaskie-wiejska
   name: Sejny
   code: "2009052"
   voivodeship: podlaskie
@@ -5084,7 +5084,7 @@
     north: 53.51910166400006
     west: 23.058225219000064
     east: 23.203570626000044
-- slug: boleslawiec
+- slug: boleslawiec-dolnoslaskie-miejska
   name: Bolesławiec
   code: "0201011"
   voivodeship: dolnoslaskie
@@ -5192,7 +5192,7 @@
     north: 52.54769212700006
     west: 22.18557809300006
     east: 22.405216637000024
-- slug: michalowice
+- slug: michalowice-malopolskie
   name: Michałowice
   code: "1206082"
   voivodeship: malopolskie
@@ -5228,7 +5228,7 @@
     north: 52.907828186000074
     west: 18.76602874400004
     east: 18.835505741000077
-- slug: zakrzewo
+- slug: zakrzewo-kujawsko-pomorskie
   name: Zakrzewo
   code: 0401092
   voivodeship: kujawsko-pomorskie
@@ -5246,7 +5246,7 @@
     north: 53.33429255600004
     west: 19.113533346000054
     east: 19.377642670000057
-- slug: gorzno
+- slug: gorzno-kujawsko-pomorskie
   name: Górzno
   code: "0402053"
   voivodeship: kujawsko-pomorskie
@@ -5282,7 +5282,7 @@
     north: 51.663357371000075
     west: 22.88289340800003
     east: 23.201800623000054
-- slug: pruszcz_gdanski
+- slug: pruszcz_gdanski-pomorskie-miejska
   name: Pruszcz Gdański
   code: "2204011"
   voivodeship: pomorskie
@@ -5309,7 +5309,7 @@
     north: 51.71023667600008
     west: 19.720768788000044
     east: 19.88116423500003
-- slug: tomaszow_mazowiecki
+- slug: tomaszow_mazowiecki-lodzkie-wiejska
   name: Tomaszów Mazowiecki
   code: "1016092"
   voivodeship: lodzkie
@@ -5336,7 +5336,7 @@
     north: 52.23528286800007
     west: 20.47621048900004
     east: 20.67866309900006
-- slug: debica
+- slug: debica-podkarpackie-wiejska
   name: Dębica
   code: "1803042"
   voivodeship: podkarpackie
@@ -5354,7 +5354,7 @@
     north: 49.95196681900006
     west: 22.410472825000056
     east: 22.569290959000057
-- slug: radymno
+- slug: radymno-podkarpackie-wiejska
   name: Radymno
   code: "1804082"
   voivodeship: podkarpackie
@@ -5408,7 +5408,7 @@
     north: 51.72879055900006
     west: 15.834258895000062
     east: 16.03728511500003
-- slug: kamienna_gora
+- slug: kamienna_gora-dolnoslaskie-wiejska
   name: Kamienna Góra
   code: "0207022"
   voivodeship: dolnoslaskie
@@ -5516,7 +5516,7 @@
     north: 51.057687325000074
     west: 22.019875745000036
     east: 22.257226238000044
-- slug: zgorzelec
+- slug: zgorzelec-dolnoslaskie-wiejska
   name: Zgorzelec
   code: "0225072"
   voivodeship: dolnoslaskie
@@ -5525,7 +5525,7 @@
     north: 51.216244431000064
     west: 14.948444581000047
     east: 15.212500645000034
-- slug: zgorzelec
+- slug: zgorzelec-dolnoslaskie-miejska
   name: Zgorzelec
   code: "0225021"
   voivodeship: dolnoslaskie
@@ -5552,7 +5552,7 @@
     north: 50.94329191200006
     west: 15.267797254000072
     east: 15.373456532000034
-- slug: nowa_ruda
+- slug: nowa_ruda-dolnoslaskie-wiejska
   name: Nowa Ruda
   code: 0208112
   voivodeship: dolnoslaskie
@@ -5588,7 +5588,7 @@
     north: 53.79668103900008
     west: 14.38141586100005
     east: 14.834774897000045
-- slug: skierniewice
+- slug: skierniewice-lodzkie-wiejska
   name: Skierniewice
   code: "1015082"
   voivodeship: lodzkie
@@ -5615,7 +5615,7 @@
     north: 50.181020869000065
     west: 18.442327834000025
     east: 18.656770289000065
-- slug: rawa_mazowiecka
+- slug: rawa_mazowiecka-lodzkie-miejska
   name: Rawa Mazowiecka
   code: "1013011"
   voivodeship: lodzkie
@@ -5705,7 +5705,7 @@
     north: 52.88612997900003
     west: 22.038939029000062
     east: 22.307409895000035
-- slug: lubawa
+- slug: lubawa-warminsko-mazurskie-wiejska
   name: Lubawa
   code: "2807052"
   voivodeship: warminsko-mazurskie
@@ -5750,7 +5750,7 @@
     north: 50.43246563800005
     west: 20.80736170600005
     east: 20.97156304500004
-- slug: opatow
+- slug: opatow-swietokrzyskie
   name: Opatów
   code: "2606043"
   voivodeship: swietokrzyskie
@@ -5849,7 +5849,7 @@
     north: 54.27044530200004
     west: 19.46572143700007
     east: 19.64320861400006
-- slug: elk
+- slug: elk-warminsko-mazurskie-miejska
   name: Ełk
   code: "2805011"
   voivodeship: warminsko-mazurskie
@@ -5858,7 +5858,7 @@
     north: 53.848538860000076
     west: 22.323815763000027
     east: 22.391526748000047
-- slug: biskupiec
+- slug: biskupiec-warminsko-mazurskie-wiejska
   name: Biskupiec
   code: "2812022"
   voivodeship: warminsko-mazurskie
@@ -5912,7 +5912,7 @@
     north: 53.35465981200008
     west: 19.692192308000074
     east: 19.997079812000038
-- slug: osieczna
+- slug: osieczna-wielkopolskie
   name: Osieczna
   code: "3013033"
   voivodeship: wielkopolskie
@@ -6065,7 +6065,7 @@
     north: 52.084088947000055
     west: 16.107633261000046
     east: 16.465748904000066
-- slug: rzgow
+- slug: rzgow-wielkopolskie
   name: Rzgów
   code: "3010082"
   voivodeship: wielkopolskie
@@ -6110,7 +6110,7 @@
     north: 51.89033142900007
     west: 18.291447093000045
     east: 18.481596070000023
-- slug: gniezno
+- slug: gniezno-wielkopolskie-wiejska
   name: Gniezno
   code: "3003032"
   voivodeship: wielkopolskie
@@ -6281,7 +6281,7 @@
     north: 49.927235661000054
     west: 20.015838906000056
     east: 20.17565252600002
-- slug: grudziadz
+- slug: grudziadz-kujawsko-pomorskie-wiejska
   name: Grudziądz
   code: "0406012"
   voivodeship: kujawsko-pomorskie
@@ -6371,7 +6371,7 @@
     north: 51.23144749700003
     west: 18.634696098000063
     east: 18.83387299700007
-- slug: lubnice
+- slug: lubnice-lodzkie
   name: Łubnice
   code: "1018052"
   voivodeship: lodzkie
@@ -6434,7 +6434,7 @@
     north: 51.09587132100006
     west: 15.721069942000042
     east: 16.00141506500006
-- slug: zlotoryja
+- slug: zlotoryja-dolnoslaskie-wiejska
   name: Złotoryja
   code: "0226062"
   voivodeship: dolnoslaskie
@@ -6488,7 +6488,7 @@
     north: 54.11557060200005
     west: 19.08686147000003
     east: 19.282212525000034
-- slug: lezajsk
+- slug: lezajsk-podkarpackie-wiejska
   name: Leżajsk
   code: "1808042"
   voivodeship: podkarpackie
@@ -6533,7 +6533,7 @@
     north: 51.78231235700008
     west: 16.267803609000055
     east: 16.478251700000044
-- slug: slawno
+- slug: slawno-zachodniopomorskie-miejska
   name: Sławno
   code: "3213021"
   voivodeship: zachodniopomorskie
@@ -6578,7 +6578,7 @@
     north: 53.06684995000006
     west: 21.168131807000066
     east: 21.392770693000045
-- slug: gostynin
+- slug: gostynin-mazowieckie-wiejska
   name: Gostynin
   code: "1404022"
   voivodeship: mazowieckie
@@ -6605,7 +6605,7 @@
     north: 52.13281420900006
     west: 20.701732621000076
     east: 20.780318562000048
-- slug: lancut
+- slug: lancut-podkarpackie-miejska
   name: Łańcut
   code: "1810011"
   voivodeship: podkarpackie
@@ -6632,7 +6632,7 @@
     north: 52.72339870800005
     west: 19.169719607000047
     east: 19.436902489000033
-- slug: lipno
+- slug: lipno-kujawsko-pomorskie-wiejska
   name: Lipno
   code: 0408062
   voivodeship: kujawsko-pomorskie
@@ -6650,7 +6650,7 @@
     north: 52.720871653000074
     west: 17.78666623500004
     east: 18.115098577000026
-- slug: szczecinek
+- slug: szczecinek-zachodniopomorskie-wiejska
   name: Szczecinek
   code: "3215062"
   voivodeship: zachodniopomorskie
@@ -6758,7 +6758,7 @@
     north: 50.66850898400003
     west: 22.874130239000067
     east: 23.107411725000077
-- slug: zary
+- slug: zary-lubuskie-miejska
   name: Żary
   code: 0811021
   voivodeship: lubuskie
@@ -6821,7 +6821,7 @@
     north: 49.39754894100008
     west: 19.942159226000058
     east: 20.075034524000046
-- slug: chojnow
+- slug: chojnow-dolnoslaskie-wiejska
   name: Chojnów
   code: 0209022
   voivodeship: dolnoslaskie
@@ -6830,7 +6830,7 @@
     north: 51.383566124000026
     west: 15.746859268000037
     east: 16.07345682400006
-- slug: luban
+- slug: luban-dolnoslaskie-miejska
   name: Lubań
   code: "0210011"
   voivodeship: dolnoslaskie
@@ -6857,7 +6857,7 @@
     north: 53.38503063100006
     west: 18.049297995000074
     east: 18.327129980000052
-- slug: zary
+- slug: zary-lubuskie-wiejska
   name: Żary
   code: 0811102
   voivodeship: lubuskie
@@ -6956,7 +6956,7 @@
     north: 52.19479101300004
     west: 23.176568212000063
     east: 23.454674630000056
-- slug: kutno
+- slug: kutno-lodzkie-wiejska
   name: Kutno
   code: "1002062"
   voivodeship: lodzkie
@@ -6983,7 +6983,7 @@
     north: 53.01494653300006
     west: 19.81700879500005
     east: 20.05840444300003
-- slug: krasne
+- slug: krasne-podkarpackie
   name: Krasne
   code: "1816092"
   voivodeship: podkarpackie
@@ -7019,7 +7019,7 @@
     north: 49.88744041000007
     west: 18.945377068000028
     east: 19.12526758000007
-- slug: bilgoraj
+- slug: bilgoraj-lubelskie-miejska
   name: Biłgoraj
   code: "0602011"
   voivodeship: lubelskie
@@ -7046,7 +7046,7 @@
     north: 50.48838455400005
     west: 22.665098657000044
     east: 22.886988957000028
-- slug: rejowiec_fabryczny
+- slug: rejowiec_fabryczny-lubelskie-miejska
   name: Rejowiec Fabryczny
   code: "0603011"
   voivodeship: lubelskie
@@ -7055,7 +7055,7 @@
     north: 51.13666384700008
     west: 23.203979627000024
     east: 23.275766958000077
-- slug: klodawa
+- slug: klodawa-lubuskie
   name: Kłodawa
   code: 0801042
   voivodeship: lubuskie
@@ -7127,7 +7127,7 @@
     north: 52.02206159200006
     west: 20.42298562600007
     east: 20.66709501100007
-- slug: dynow
+- slug: dynow-podkarpackie-wiejska
   name: Dynów
   code: "1816052"
   voivodeship: podkarpackie
@@ -7208,7 +7208,7 @@
     north: 52.64764943700004
     west: 20.495299814000077
     east: 20.629311494000035
-- slug: plonsk
+- slug: plonsk-mazowieckie-wiejska
   name: Płońsk
   code: "1420092"
   voivodeship: mazowieckie
@@ -7244,7 +7244,7 @@
     north: 50.43166126500006
     west: 17.918255140000042
     east: 18.080428880000056
-- slug: sanok
+- slug: sanok-podkarpackie-miejska
   name: Sanok
   code: "1817011"
   voivodeship: podkarpackie
@@ -7289,7 +7289,7 @@
     north: 49.91850146000007
     west: 21.840271664000056
     east: 22.020208351000065
-- slug: bielsk_podlaski
+- slug: bielsk_podlaski-podlaskie-miejska
   name: Bielsk Podlaski
   code: "2003011"
   voivodeship: podlaskie
@@ -7307,7 +7307,7 @@
     north: 52.75869422900007
     west: 22.611431925000034
     east: 22.80304854700006
-- slug: chelmno
+- slug: chelmno-kujawsko-pomorskie-miejska
   name: Chełmno
   code: "0404011"
   voivodeship: kujawsko-pomorskie
@@ -7406,7 +7406,7 @@
     north: 50.66945620800004
     west: 17.27035077100004
     east: 17.47988256700006
-- slug: swidnica
+- slug: swidnica-dolnoslaskie-miejska
   name: Świdnica
   code: 0219011
   voivodeship: dolnoslaskie
@@ -7442,7 +7442,7 @@
     north: 49.86194532800005
     west: 18.71970608600003
     east: 18.85376707200004
-- slug: krasnik
+- slug: krasnik-lubelskie-miejska
   name: Kraśnik
   code: "0607011"
   voivodeship: lubelskie
@@ -7496,7 +7496,7 @@
     north: 52.80990629100006
     west: 20.777360018000024
     east: 21.010604638000075
-- slug: olesno
+- slug: olesno-opolskie
   name: Olesno
   code: "1608033"
   voivodeship: opolskie
@@ -7523,7 +7523,7 @@
     north: 50.05366175000006
     west: 20.523501054000064
     east: 20.723221542000033
-- slug: bochnia
+- slug: bochnia-malopolskie-wiejska
   name: Bochnia
   code: "1201022"
   voivodeship: malopolskie
@@ -7568,7 +7568,7 @@
     north: 50.82622479500003
     west: 18.84868130900003
     east: 19.029340125000033
-- slug: janow
+- slug: janow-slaskie
   name: Janów
   code: "2404032"
   voivodeship: slaskie
@@ -7640,7 +7640,7 @@
     north: 51.374915944000065
     west: 20.998998517000075
     east: 21.178894650000075
-- slug: boleslaw
+- slug: boleslaw-malopolskie-dabrowski
   name: Bolesław
   code: "1204012"
   voivodeship: malopolskie
@@ -7694,7 +7694,7 @@
     north: 51.20182292900006
     west: 19.851842075000036
     east: 20.051565018000076
-- slug: zakrzew
+- slug: zakrzew-mazowieckie
   name: Zakrzew
   code: "1425132"
   voivodeship: mazowieckie
@@ -7766,7 +7766,7 @@
     north: 53.68364908900003
     west: 22.928678868000077
     east: 23.280700528000068
-- slug: boleslawiec
+- slug: boleslawiec-dolnoslaskie-wiejska
   name: Bolesławiec
   code: "0201022"
   voivodeship: dolnoslaskie
@@ -7820,7 +7820,7 @@
     north: 51.73717919300003
     west: 22.229517216000033
     east: 22.399719524000034
-- slug: lukow
+- slug: lukow-lubelskie-wiejska
   name: Łuków
   code: "0611052"
   voivodeship: lubelskie
@@ -7865,7 +7865,7 @@
     north: 52.38055401300005
     west: 22.07602539900006
     east: 22.36763585700004
-- slug: sokolow_podlaski
+- slug: sokolow_podlaski-mazowieckie-wiejska
   name: Sokołów Podlaski
   code: "1429082"
   voivodeship: mazowieckie
@@ -7892,7 +7892,7 @@
     north: 49.93062480700007
     west: 21.224958851000054
     east: 21.34968274000005
-- slug: debica
+- slug: debica-podkarpackie-miejska
   name: Dębica
   code: "1803011"
   voivodeship: podkarpackie
@@ -7955,7 +7955,7 @@
     north: 51.66004745100008
     west: 20.197377627000037
     east: 20.424890366000056
-- slug: konopnica
+- slug: konopnica-lodzkie
   name: Konopnica
   code: "1017032"
   voivodeship: lodzkie
@@ -8072,7 +8072,7 @@
     north: 52.51421819600006
     west: 16.01303153400005
     east: 16.35861103900004
-- slug: spytkowice
+- slug: spytkowice-malopolskie-nowotarski
   name: Spytkowice
   code: "1211132"
   voivodeship: malopolskie
@@ -8081,7 +8081,7 @@
     north: 49.59930424100003
     west: 19.75145653000004
     east: 19.87495022400003
-- slug: czarnkow
+- slug: czarnkow-wielkopolskie-wiejska
   name: Czarnków
   code: "3002022"
   voivodeship: wielkopolskie
@@ -8207,7 +8207,7 @@
     north: 51.90509905300007
     west: 15.568605311000056
     east: 15.78768698400006
-- slug: lagow
+- slug: lagow-swietokrzyskie
   name: Łagów
   code: "2604073"
   voivodeship: swietokrzyskie
@@ -8225,7 +8225,7 @@
     north: 50.416037757000026
     west: 23.40326389200004
     east: 23.738134898000055
-- slug: zamosc
+- slug: zamosc-lubelskie-wiejska
   name: Zamość
   code: "0620142"
   voivodeship: lubelskie
@@ -8252,7 +8252,7 @@
     north: 50.16168759000004
     west: 18.726133377000053
     east: 18.86463072300006
-- slug: bartoszyce
+- slug: bartoszyce-warminsko-mazurskie-miejska
   name: Bartoszyce
   code: "2801011"
   voivodeship: warminsko-mazurskie
@@ -8270,7 +8270,7 @@
     north: 50.674553133000074
     west: 20.874064200000078
     east: 21.087269551000077
-- slug: pabianice
+- slug: pabianice-lodzkie-wiejska
   name: Pabianice
   code: "1008072"
   voivodeship: lodzkie
@@ -8477,7 +8477,7 @@
     north: 54.003841496000064
     west: 22.023853247000034
     east: 22.32054221100003
-- slug: radkow
+- slug: radkow-swietokrzyskie
   name: Radków
   code: "2613042"
   voivodeship: swietokrzyskie
@@ -8504,7 +8504,7 @@
     north: 54.28418749000008
     west: 21.022045193000054
     east: 21.307302547000063
-- slug: ketrzyn
+- slug: ketrzyn-warminsko-mazurskie-miejska
   name: Kętrzyn
   code: "2808011"
   voivodeship: warminsko-mazurskie
@@ -8522,7 +8522,7 @@
     north: 54.13741926200004
     west: 20.11914480400003
     east: 20.37570878400004
-- slug: nowe_miasto_lubawskie
+- slug: nowe_miasto_lubawskie-warminsko-mazurskie-miejska
   name: Nowe Miasto Lubawskie
   code: "2812011"
   voivodeship: warminsko-mazurskie
@@ -8576,7 +8576,7 @@
     north: 53.89140304700004
     west: 19.926702271000067
     east: 20.177932059000057
-- slug: szczytno
+- slug: szczytno-warminsko-mazurskie-wiejska
   name: Szczytno
   code: "2817062"
   voivodeship: warminsko-mazurskie
@@ -8594,7 +8594,7 @@
     north: 53.78547935700004
     west: 20.495404190000045
     east: 20.863800284000035
-- slug: rybno
+- slug: rybno-warminsko-mazurskie
   name: Rybno
   code: "2803062"
   voivodeship: warminsko-mazurskie
@@ -8612,7 +8612,7 @@
     north: 53.32665344000003
     west: 19.906323350000036
     east: 20.12358713800006
-- slug: dzialdowo
+- slug: dzialdowo-warminsko-mazurskie-wiejska
   name: Działdowo
   code: "2803022"
   voivodeship: warminsko-mazurskie
@@ -8621,7 +8621,7 @@
     north: 53.435601804000044
     west: 20.018041806000042
     east: 20.285939546000066
-- slug: chodziez
+- slug: chodziez-wielkopolskie-miejska
   name: Chodzież
   code: "3001011"
   voivodeship: wielkopolskie
@@ -8729,7 +8729,7 @@
     north: 51.96892228000007
     west: 17.10967624500006
     east: 17.336786355000072
-- slug: brzeziny
+- slug: brzeziny-wielkopolskie
   name: Brzeziny
   code: "3007022"
   voivodeship: wielkopolskie
@@ -8756,7 +8756,7 @@
     north: 51.754179315000044
     west: 18.23975563600004
     east: 18.420809034000058
-- slug: baranow
+- slug: baranow-wielkopolskie
   name: Baranów
   code: "3008012"
   voivodeship: wielkopolskie
@@ -8783,7 +8783,7 @@
     north: 51.83437423200007
     west: 16.875690689000066
     east: 17.091848679000066
-- slug: piaski
+- slug: piaski-wielkopolskie
   name: Piaski
   code: "3004052"
   voivodeship: wielkopolskie
@@ -8963,7 +8963,7 @@
     north: 53.512237764000076
     west: 18.826896093000073
     east: 19.070914771000048
-- slug: kolobrzeg
+- slug: kolobrzeg-zachodniopomorskie-miejska
   name: Kołobrzeg
   code: "3208011"
   voivodeship: zachodniopomorskie
@@ -8981,7 +8981,7 @@
     north: 54.104645781000045
     west: 15.586100644000055
     east: 15.753415671000027
-- slug: kolobrzeg
+- slug: kolobrzeg-zachodniopomorskie-wiejska
   name: Kołobrzeg
   code: "3208042"
   voivodeship: zachodniopomorskie
@@ -9017,7 +9017,7 @@
     north: 51.58525511500005
     west: 22.972957921000045
     east: 23.21618400600005
-- slug: baranow
+- slug: baranow-lubelskie
   name: Baranów
   code: "0614022"
   voivodeship: lubelskie
@@ -9026,7 +9026,7 @@
     north: 51.58439729400004
     west: 22.071804927000073
     east: 22.266743035000047
-- slug: stezyca
+- slug: stezyca-pomorskie
   name: Stężyca
   code: "2205062"
   voivodeship: pomorskie
@@ -9044,7 +9044,7 @@
     north: 54.19895308400004
     west: 18.090269774000035
     east: 18.327937510000027
-- slug: boleslawiec
+- slug: boleslawiec-lodzkie
   name: Bolesławiec
   code: "1018012"
   voivodeship: lodzkie
@@ -9053,7 +9053,7 @@
     north: 51.26173073600006
     west: 18.162211195000054
     east: 18.293410064000057
-- slug: ciechanow
+- slug: ciechanow-mazowieckie-wiejska
   name: Ciechanów
   code: "1402022"
   voivodeship: mazowieckie
@@ -9062,7 +9062,7 @@
     north: 52.92930827600003
     west: 20.390140233000068
     east: 20.703620795000063
-- slug: ciechanow
+- slug: ciechanow-mazowieckie-miejska
   name: Ciechanów
   code: "1402011"
   voivodeship: mazowieckie
@@ -9107,7 +9107,7 @@
     north: 53.71176285800004
     west: 14.294588033000025
     east: 14.635264679000045
-- slug: radzyn_podlaski
+- slug: radzyn_podlaski-lubelskie-miejska
   name: Radzyń Podlaski
   code: "0615011"
   voivodeship: lubelskie
@@ -9152,7 +9152,7 @@
     north: 51.391401432000066
     west: 18.074521495000056
     east: 18.252195476000054
-- slug: zgierz
+- slug: zgierz-lodzkie-miejska
   name: Zgierz
   code: "1020031"
   voivodeship: lodzkie
@@ -9161,7 +9161,7 @@
     north: 51.88572859900006
     west: 19.334449342000028
     east: 19.455946985000026
-- slug: ozorkow
+- slug: ozorkow-lodzkie-wiejska
   name: Ozorków
   code: "1020062"
   voivodeship: lodzkie
@@ -9170,7 +9170,7 @@
     north: 52.036402114000055
     west: 19.172725110000044
     east: 19.416995447000033
-- slug: zgierz
+- slug: zgierz-lodzkie-wiejska
   name: Zgierz
   code: "1020092"
   voivodeship: lodzkie
@@ -9233,7 +9233,7 @@
     north: 54.43460158400006
     west: 17.08486205300005
     east: 17.46042208500006
-- slug: ustka
+- slug: ustka-pomorskie-wiejska
   name: Ustka
   code: "2212102"
   voivodeship: pomorskie
@@ -9278,7 +9278,7 @@
     north: 50.03937283500005
     west: 19.390465819000042
     east: 19.510290492000024
-- slug: jordanow
+- slug: jordanow-malopolskie-miejska
   name: Jordanów
   code: "1215011"
   voivodeship: malopolskie
@@ -9314,7 +9314,7 @@
     north: 51.01143586200004
     west: 15.634645448000072
     east: 15.836112069000023
-- slug: kamienna_gora
+- slug: kamienna_gora-dolnoslaskie-miejska
   name: Kamienna Góra
   code: "0207011"
   voivodeship: dolnoslaskie
@@ -9341,7 +9341,7 @@
     north: 51.78058227000008
     west: 23.330774500000075
     east: 23.560355233000053
-- slug: wlodawa
+- slug: wlodawa-lubelskie-wiejska
   name: Włodawa
   code: 0619062
   voivodeship: lubelskie
@@ -9629,7 +9629,7 @@
     north: 53.87769743400003
     west: 15.22252865300004
     east: 15.633542220000038
-- slug: miedzyrzec_podlaski
+- slug: miedzyrzec_podlaski-lubelskie-miejska
   name: Międzyrzec Podlaski
   code: "0601011"
   voivodeship: lubelskie
@@ -9719,7 +9719,7 @@
     north: 50.243890684000064
     west: 22.552503758000057
     east: 22.777397705000055
-- slug: tarnow
+- slug: tarnow-malopolskie-miejska
   name: Tarnów
   code: "1263011"
   voivodeship: malopolskie
@@ -9728,7 +9728,7 @@
     north: 50.06653003500003
     west: 20.893615812000064
     east: 21.062343464000037
-- slug: chelmza
+- slug: chelmza-kujawsko-pomorskie-miejska
   name: Chełmża
   code: "0415011"
   voivodeship: kujawsko-pomorskie
@@ -9782,7 +9782,7 @@
     north: 52.00152855300007
     west: 21.239109686000063
     east: 21.423430419000056
-- slug: przeworsk
+- slug: przeworsk-podkarpackie-wiejska
   name: Przeworsk
   code: "1814062"
   voivodeship: podkarpackie
@@ -9917,7 +9917,7 @@
     north: 52.23349116800006
     west: 19.83569665400006
     east: 19.98616479900005
-- slug: lowicz
+- slug: lowicz-lodzkie-wiejska
   name: Łowicz
   code: "1005072"
   voivodeship: lodzkie
@@ -9962,7 +9962,7 @@
     north: 50.30089226700005
     west: 22.028351946000043
     east: 22.25225648600008
-- slug: kwidzyn
+- slug: kwidzyn-pomorskie-wiejska
   name: Kwidzyn
   code: "2207032"
   voivodeship: pomorskie
@@ -10016,7 +10016,7 @@
     north: 50.348768747000065
     west: 18.98540747800007
     east: 19.061100870000075
-- slug: nowa_sol
+- slug: nowa_sol-lubuskie-miejska
   name: Nowa Sól
   code: 0804011
   voivodeship: lubuskie
@@ -10043,7 +10043,7 @@
     north: 52.611446484000055
     west: 19.32167321700007
     east: 19.66739926500003
-- slug: raciaz
+- slug: raciaz-mazowieckie-wiejska
   name: Raciąż
   code: "1420102"
   voivodeship: mazowieckie
@@ -10052,7 +10052,7 @@
     north: 52.89648181800004
     west: 19.96274521500004
     east: 20.26433483900007
-- slug: wilkow
+- slug: wilkow-opolskie
   name: Wilków
   code: "1606052"
   voivodeship: opolskie
@@ -10079,7 +10079,7 @@
     north: 49.636613141000055
     west: 21.926621846000046
     east: 22.097109825000075
-- slug: bielsk_podlaski
+- slug: bielsk_podlaski-podlaskie-wiejska
   name: Bielsk Podlaski
   code: "2003032"
   voivodeship: podlaskie
@@ -10115,7 +10115,7 @@
     north: 50.83442282500005
     west: 16.86343141900005
     east: 17.011945465000053
-- slug: grudziadz
+- slug: grudziadz-kujawsko-pomorskie-miejska
   name: Grudziądz
   code: "0462011"
   voivodeship: kujawsko-pomorskie
@@ -10232,7 +10232,7 @@
     north: 51.01124308700008
     west: 17.65422351500007
     east: 17.91595363400006
-- slug: przemysl
+- slug: przemysl-podkarpackie-miejska
   name: Przemyśl
   code: "1862011"
   voivodeship: podkarpackie
@@ -10241,7 +10241,7 @@
     north: 49.81439473000006
     west: 22.713819012000044
     east: 22.85523299700003
-- slug: hajnowka
+- slug: hajnowka-podlaskie-miejska
   name: Hajnówka
   code: "2005011"
   voivodeship: podlaskie
@@ -10295,7 +10295,7 @@
     north: 51.57895928900007
     west: 19.721684615000072
     east: 19.95968949400003
-- slug: aleksandrow
+- slug: aleksandrow-lodzkie
   name: Aleksandrów
   code: "1010012"
   voivodeship: lodzkie
@@ -10340,7 +10340,7 @@
     north: 50.82652342600005
     west: 18.228405629000065
     east: 18.442495262000023
-- slug: debno
+- slug: debno-malopolskie
   name: Dębno
   code: "1202042"
   voivodeship: malopolskie
@@ -10574,7 +10574,7 @@
     north: 51.56183326100006
     west: 22.880326497000055
     east: 23.018584030000056
-- slug: konopnica
+- slug: konopnica-lubelskie
   name: Konopnica
   code: 0609082
   voivodeship: lubelskie
@@ -10637,7 +10637,7 @@
     north: 50.99075338500006
     west: 19.56431227300004
     east: 19.84553591100007
-- slug: sieradz
+- slug: sieradz-lodzkie-miejska
   name: Sieradz
   code: "1014011"
   voivodeship: lodzkie
@@ -10700,7 +10700,7 @@
     north: 50.35489777200007
     west: 20.991629318000037
     east: 21.222636030000047
-- slug: moszczenica
+- slug: moszczenica-malopolskie
   name: Moszczenica
   code: "1205072"
   voivodeship: malopolskie
@@ -10709,7 +10709,7 @@
     north: 49.77024826500008
     west: 21.003660901000046
     east: 21.14097596000005
-- slug: siemiatycze
+- slug: siemiatycze-podlaskie-wiejska
   name: Siemiatycze
   code: "2010092"
   voivodeship: podlaskie
@@ -10727,7 +10727,7 @@
     north: 53.72195679100008
     west: 23.139424160000033
     east: 23.458020058000045
-- slug: janow
+- slug: janow-podlaskie
   name: Janów
   code: "2011022"
   voivodeship: podlaskie
@@ -10754,7 +10754,7 @@
     north: 51.32675744800008
     west: 22.586382376000074
     east: 22.78450802100008
-- slug: lukow
+- slug: lukow-lubelskie-miejska
   name: Łuków
   code: "0611011"
   voivodeship: lubelskie
@@ -10781,7 +10781,7 @@
     north: 51.93741484100008
     west: 19.86853169500006
     east: 20.005781315000036
-- slug: sierpc
+- slug: sierpc-mazowieckie-miejska
   name: Sierpc
   code: "1427011"
   voivodeship: mazowieckie
@@ -10853,7 +10853,7 @@
     north: 52.77278110100008
     west: 18.71675850400004
     east: 18.866178010000056
-- slug: aleksandrow_kujawski
+- slug: aleksandrow_kujawski-kujawsko-pomorskie-wiejska
   name: Aleksandrów Kujawski
   code: "0401042"
   voivodeship: kujawsko-pomorskie
@@ -10862,7 +10862,7 @@
     north: 52.93341055800005
     west: 18.531445518000055
     east: 18.800516408000078
-- slug: brodnica
+- slug: brodnica-kujawsko-pomorskie-miejska
   name: Brodnica
   code: "0402011"
   voivodeship: kujawsko-pomorskie
@@ -10916,7 +10916,7 @@
     north: 51.15605159300003
     west: 22.05266000200004
     east: 22.23151285700004
-- slug: wilkow
+- slug: wilkow-lubelskie
   name: Wilków
   code: "0612072"
   voivodeship: lubelskie
@@ -10961,7 +10961,7 @@
     north: 52.38663942800008
     west: 20.09439100900005
     east: 20.277430861000028
-- slug: rybno
+- slug: rybno-mazowieckie
   name: Rybno
   code: "1428062"
   voivodeship: mazowieckie
@@ -10979,7 +10979,7 @@
     north: 50.19990629200004
     west: 19.721631523000042
     east: 19.895921869000063
-- slug: dobra
+- slug: dobra-malopolskie
   name: Dobra
   code: "1207032"
   voivodeship: malopolskie
@@ -10988,7 +10988,7 @@
     north: 49.77359938700005
     west: 20.12713659700006
     east: 20.290817316000073
-- slug: mszana_dolna
+- slug: mszana_dolna-malopolskie-miejska
   name: Mszana Dolna
   code: "1207021"
   voivodeship: malopolskie
@@ -11069,7 +11069,7 @@
     north: 52.38673006300007
     west: 16.27465992200007
     east: 16.51266424000005
-- slug: glogow
+- slug: glogow-dolnoslaskie-miejska
   name: Głogów
   code: "0203011"
   voivodeship: dolnoslaskie
@@ -11087,7 +11087,7 @@
     north: 54.35844081300007
     west: 20.85521458100004
     east: 21.22054666200006
-- slug: stargard
+- slug: stargard-zachodniopomorskie-wiejska
   name: Stargard
   code: "3214102"
   voivodeship: zachodniopomorskie
@@ -11195,7 +11195,7 @@
     north: 50.72778295200004
     west: 16.10730256100004
     east: 16.310206583000024
-- slug: radkow
+- slug: radkow-dolnoslaskie
   name: Radków
   code: 0208123
   voivodeship: dolnoslaskie
@@ -11240,7 +11240,7 @@
     north: 50.63841256000006
     west: 17.592174786000044
     east: 17.798040241000024
-- slug: wloclawek
+- slug: wloclawek-kujawsko-pomorskie-wiejska
   name: Włocławek
   code: 0418132
   voivodeship: kujawsko-pomorskie
@@ -11402,7 +11402,7 @@
     north: 50.70176897300007
     west: 17.991560427000024
     east: 18.188362638000058
-- slug: czluchow
+- slug: czluchow-pomorskie-wiejska
   name: Człuchów
   code: "2203032"
   voivodeship: pomorskie
@@ -11420,7 +11420,7 @@
     north: 53.50205170800007
     west: 15.989142860000072
     east: 16.362301220000063
-- slug: lubawa
+- slug: lubawa-warminsko-mazurskie-miejska
   name: Lubawa
   code: "2807021"
   voivodeship: warminsko-mazurskie
@@ -11483,7 +11483,7 @@
     north: 50.98482895300003
     west: 21.453052193000076
     east: 21.615610292000042
-- slug: brody
+- slug: brody-swietokrzyskie
   name: Brody
   code: "2611022"
   voivodeship: swietokrzyskie
@@ -11501,7 +11501,7 @@
     north: 51.01847433100005
     west: 20.970130536000056
     east: 21.20065966100003
-- slug: lubnice
+- slug: lubnice-swietokrzyskie
   name: Łubnice
   code: "2612022"
   voivodeship: swietokrzyskie
@@ -11528,7 +11528,7 @@
     north: 54.13375102300006
     west: 19.758507929000075
     east: 20.058201736000058
-- slug: elk
+- slug: elk-warminsko-mazurskie-wiejska
   name: Ełk
   code: "2805022"
   voivodeship: warminsko-mazurskie
@@ -11546,7 +11546,7 @@
     north: 50.693045547000054
     west: 19.835206670000048
     east: 20.030923398000027
-- slug: lidzbark_warminski
+- slug: lidzbark_warminski-warminsko-mazurskie-wiejska
   name: Lidzbark Warmiński
   code: "2809032"
   voivodeship: warminsko-mazurskie
@@ -11555,7 +11555,7 @@
     north: 54.228709785000035
     west: 20.314204568000036
     east: 20.700082954000038
-- slug: gizycko
+- slug: gizycko-warminsko-mazurskie-wiejska
   name: Giżycko
   code: "2806042"
   voivodeship: warminsko-mazurskie
@@ -11591,7 +11591,7 @@
     north: 54.140479467000034
     west: 22.328530666000063
     east: 22.63609990200007
-- slug: biskupiec
+- slug: biskupiec-warminsko-mazurskie-miejsko-wiejska
   name: Biskupiec
   code: "2814023"
   voivodeship: warminsko-mazurskie
@@ -11600,7 +11600,7 @@
     north: 53.96482446600004
     west: 20.81255014000004
     east: 21.11200029300005
-- slug: swietajno
+- slug: swietajno-warminsko-mazurskie-olecki
   name: Świętajno
   code: "2813052"
   voivodeship: warminsko-mazurskie
@@ -11636,7 +11636,7 @@
     north: 53.75721310000006
     west: 20.316091205000077
     east: 20.558542870000053
-- slug: elblag
+- slug: elblag-warminsko-mazurskie-miejska
   name: Elbląg
   code: "2861011"
   voivodeship: warminsko-mazurskie
@@ -11762,7 +11762,7 @@
     north: 51.953806977000056
     west: 18.41371553600004
     east: 18.594859686000063
-- slug: brodnica
+- slug: brodnica-wielkopolskie
   name: Brodnica
   code: "3026012"
   voivodeship: wielkopolskie
@@ -11789,7 +11789,7 @@
     north: 52.41877453800004
     west: 17.346785344000068
     east: 17.50269496800007
-- slug: wagrowiec
+- slug: wagrowiec-wielkopolskie-wiejska
   name: Wągrowiec
   code: "3028072"
   voivodeship: wielkopolskie
@@ -11807,7 +11807,7 @@
     north: 53.54272695100008
     west: 17.015388013000063
     east: 17.390652862000024
-- slug: zlotow
+- slug: zlotow-wielkopolskie-wiejska
   name: Złotów
   code: "3031082"
   voivodeship: wielkopolskie
@@ -11969,7 +11969,7 @@
     north: 50.03866353400008
     west: 18.358532292000064
     east: 18.510950050000076
-- slug: czernichow
+- slug: czernichow-slaskie
   name: Czernichów
   code: "2417022"
   voivodeship: slaskie
@@ -12059,7 +12059,7 @@
     north: 50.48224493200007
     west: 21.63540568700006
     east: 21.90091828900006
-- slug: jaslo
+- slug: jaslo-podkarpackie-wiejska
   name: Jasło
   code: "1805042"
   voivodeship: podkarpackie
@@ -12095,7 +12095,7 @@
     north: 51.687021713000036
     west: 22.669587491000073
     east: 22.841264871000078
-- slug: pulawy
+- slug: pulawy-lubelskie-miejska
   name: Puławy
   code: "0614011"
   voivodeship: lubelskie
@@ -12122,7 +12122,7 @@
     north: 54.434454895000044
     west: 17.91894276200003
     east: 18.31231030600003
-- slug: koscierzyna
+- slug: koscierzyna-pomorskie-miejska
   name: Kościerzyna
   code: "2206011"
   voivodeship: pomorskie
@@ -12140,7 +12140,7 @@
     north: 54.179072862000055
     west: 17.662268182000048
     east: 17.87894410100006
-- slug: radzanow
+- slug: radzanow-mazowieckie-bialobrzeski
   name: Radzanów
   code: "1401032"
   voivodeship: mazowieckie
@@ -12149,7 +12149,7 @@
     north: 51.61206905800003
     west: 20.757355560000065
     east: 20.921659705000025
-- slug: bialobrzegi
+- slug: bialobrzegi-mazowieckie
   name: Białobrzegi
   code: "1401013"
   voivodeship: mazowieckie
@@ -12302,7 +12302,7 @@
     north: 51.884087098000066
     west: 19.13855667400003
     east: 19.357273227000064
-- slug: brzeziny
+- slug: brzeziny-lodzkie-miejska
   name: Brzeziny
   code: "1021011"
   voivodeship: lodzkie
@@ -12311,7 +12311,7 @@
     north: 51.82426943200005
     west: 19.709140853000065
     east: 19.78581863900007
-- slug: brzeziny
+- slug: brzeziny-lodzkie-wiejska
   name: Brzeziny
   code: "1021022"
   voivodeship: lodzkie
@@ -12320,7 +12320,7 @@
     north: 51.89737239500005
     west: 19.64451306500007
     east: 19.834902485000043
-- slug: laskarzew
+- slug: laskarzew-mazowieckie-wiejska
   name: Łaskarzew
   code: "1403062"
   voivodeship: mazowieckie
@@ -12383,7 +12383,7 @@
     north: 54.76009093200008
     west: 17.059251047000032
     east: 17.529485134000026
-- slug: slupsk
+- slug: slupsk-pomorskie-miejska
   name: Słupsk
   code: "2263011"
   voivodeship: pomorskie
@@ -12401,7 +12401,7 @@
     north: 52.899692938000044
     west: 20.861727320000057
     east: 21.093234391000067
-- slug: gostynin
+- slug: gostynin-mazowieckie-miejska
   name: Gostynin
   code: "1404011"
   voivodeship: mazowieckie
@@ -12428,7 +12428,7 @@
     north: 51.86709742600004
     west: 20.701417912000068
     east: 20.92614121500003
-- slug: bialobrzegi
+- slug: bialobrzegi-podkarpackie
   name: Białobrzegi
   code: "1810022"
   voivodeship: podkarpackie
@@ -12455,7 +12455,7 @@
     north: 50.34569348100007
     west: 19.672944545000064
     east: 19.92094654400006
-- slug: osiek
+- slug: osiek-malopolskie
   name: Osiek
   code: "1213052"
   voivodeship: malopolskie
@@ -12464,7 +12464,7 @@
     north: 49.975021155000036
     west: 19.218382633000033
     east: 19.35649562800006
-- slug: oswiecim
+- slug: oswiecim-malopolskie-miejska
   name: Oświęcim
   code: "1213011"
   voivodeship: malopolskie
@@ -12518,7 +12518,7 @@
     north: 50.869116414000075
     west: 22.934357918000046
     east: 23.180060938000054
-- slug: osieczna
+- slug: osieczna-pomorskie
   name: Osieczna
   code: "2213072"
   voivodeship: pomorskie
@@ -12536,7 +12536,7 @@
     north: 54.14108546400007
     west: 18.278068449000045
     east: 18.59070046000005
-- slug: dobre
+- slug: dobre-mazowieckie
   name: Dobre
   code: "1412062"
   voivodeship: mazowieckie
@@ -12590,7 +12590,7 @@
     north: 50.42587742200004
     west: 16.475228537000078
     east: 16.52955967200006
-- slug: rogowo
+- slug: rogowo-kujawsko-pomorskie-rypinski
   name: Rogowo
   code: "0412032"
   voivodeship: kujawsko-pomorskie
@@ -12599,7 +12599,7 @@
     north: 53.03410146400006
     west: 19.259570848000067
     east: 19.57543950400003
-- slug: swidwin
+- slug: swidwin-zachodniopomorskie-wiejska
   name: Świdwin
   code: "3216062"
   voivodeship: zachodniopomorskie
@@ -12626,7 +12626,7 @@
     north: 54.79512831300008
     west: 17.869700368000053
     east: 18.124312420000024
-- slug: wejherowo
+- slug: wejherowo-pomorskie-miejska
   name: Wejherowo
   code: "2215031"
   voivodeship: pomorskie
@@ -12644,7 +12644,7 @@
     north: 54.606396622000034
     west: 18.340146108000056
     east: 18.430951598000036
-- slug: wejherowo
+- slug: wejherowo-pomorskie-wiejska
   name: Wejherowo
   code: "2215102"
   voivodeship: pomorskie
@@ -12653,7 +12653,7 @@
     north: 54.69968068000003
     west: 18.07142067700005
     east: 18.39065812900003
-- slug: radzanow
+- slug: radzanow-mazowieckie-mlawski
   name: Radzanów
   code: "1413042"
   voivodeship: mazowieckie
@@ -12698,7 +12698,7 @@
     north: 51.19628409400008
     west: 16.152032828000074
     east: 16.328332989000046
-- slug: walcz
+- slug: walcz-zachodniopomorskie-wiejska
   name: Wałcz
   code: "3217052"
   voivodeship: zachodniopomorskie
@@ -12869,7 +12869,7 @@
     north: 52.17816897700004
     west: 22.933059257000025
     east: 23.15318931400003
-- slug: terespol
+- slug: terespol-lubelskie-wiejska
   name: Terespol
   code: "0601162"
   voivodeship: lubelskie
@@ -12968,7 +12968,7 @@
     north: 52.889669053000034
     west: 14.810110988000076
     east: 15.139366322000058
-- slug: lowicz
+- slug: lowicz-lodzkie-miejska
   name: Łowicz
   code: "1005011"
   voivodeship: lodzkie
@@ -12986,7 +12986,7 @@
     north: 52.14493880500004
     west: 19.524134649000075
     east: 19.769983873000058
-- slug: zduny
+- slug: zduny-lodzkie
   name: Zduny
   code: "1005102"
   voivodeship: lodzkie
@@ -13049,7 +13049,7 @@
     north: 53.307653834000064
     west: 22.884442548000038
     east: 23.12334237500005
-- slug: olawa
+- slug: olawa-dolnoslaskie-wiejska
   name: Oława
   code: "0215042"
   voivodeship: dolnoslaskie
@@ -13103,7 +13103,7 @@
     north: 49.954838058000064
     west: 19.014849920000074
     east: 19.11311285200003
-- slug: chelm
+- slug: chelm-lubelskie-wiejska
   name: Chełm
   code: "0603032"
   voivodeship: lubelskie
@@ -13121,7 +13121,7 @@
     north: 51.37404335800005
     west: 23.336672672000077
     east: 23.593111304000047
-- slug: hrubieszow
+- slug: hrubieszow-lubelskie-miejska
   name: Hrubieszów
   code: "0604011"
   voivodeship: lubelskie
@@ -13202,7 +13202,7 @@
     north: 50.90580905400003
     west: 16.27226746900004
     east: 16.40481556900005
-- slug: wloclawek
+- slug: wloclawek-kujawsko-pomorskie-miejska
   name: Włocławek
   code: "0464011"
   voivodeship: kujawsko-pomorskie
@@ -13247,7 +13247,7 @@
     north: 52.48608885300007
     west: 20.231840700000078
     east: 20.49747311300007
-- slug: raciaz
+- slug: raciaz-mazowieckie-miejska
   name: Raciąż
   code: "1420021"
   voivodeship: mazowieckie
@@ -13283,7 +13283,7 @@
     north: 50.58354770300008
     west: 17.21481037500007
     east: 17.434861281000053
-- slug: gorzyce
+- slug: gorzyce-podkarpackie
   name: Gorzyce
   code: "1820022"
   voivodeship: podkarpackie
@@ -13319,7 +13319,7 @@
     north: 52.71598652900008
     west: 23.35537597700005
     east: 23.62219206700007
-- slug: kolno
+- slug: kolno-podlaskie-wiejska
   name: Kolno
   code: "2006032"
   voivodeship: podlaskie
@@ -13364,7 +13364,7 @@
     north: 50.865970050000044
     west: 19.588235216000044
     east: 19.825653326000065
-- slug: krasnystaw
+- slug: krasnystaw-lubelskie-wiejska
   name: Krasnystaw
   code: "0606052"
   voivodeship: lubelskie
@@ -13436,7 +13436,7 @@
     north: 52.02530544800004
     west: 18.840782528000034
     east: 19.151708991000078
-- slug: bochnia
+- slug: bochnia-malopolskie-miejska
   name: Bochnia
   code: "1201011"
   voivodeship: malopolskie
@@ -13463,7 +13463,7 @@
     north: 50.91831061900007
     west: 19.175238961000048
     east: 19.284053526000037
-- slug: bialogard
+- slug: bialogard-zachodniopomorskie-miejska
   name: Białogard
   code: "3201011"
   voivodeship: zachodniopomorskie
@@ -13472,7 +13472,7 @@
     north: 54.03072539300007
     west: 15.915922986000055
     east: 16.035190888000045
-- slug: lubartow
+- slug: lubartow-lubelskie-miejska
   name: Lubartów
   code: 0608011
   voivodeship: lubelskie
@@ -13643,7 +13643,7 @@
     north: 50.70238997100006
     west: 18.26190891500005
     east: 18.464290817000062
-- slug: gorlice
+- slug: gorlice-malopolskie-miejska
   name: Gorlice
   code: "1205011"
   voivodeship: malopolskie
@@ -13697,7 +13697,7 @@
     north: 51.516392300000064
     west: 18.675346064000053
     east: 18.869063597000036
-- slug: sieradz
+- slug: sieradz-lodzkie-wiejska
   name: Sieradz
   code: "1014082"
   voivodeship: lodzkie
@@ -13769,7 +13769,7 @@
     north: 54.31594990500008
     west: 22.96834874800004
     east: 23.159756301000073
-- slug: brodnica
+- slug: brodnica-kujawsko-pomorskie-wiejska
   name: Brodnica
   code: "0402032"
   voivodeship: kujawsko-pomorskie
@@ -13805,7 +13805,7 @@
     north: 54.22162434100005
     west: 18.361115991000077
     east: 18.636112179000065
-- slug: pruszcz_gdanski
+- slug: pruszcz_gdanski-pomorskie-wiejska
   name: Pruszcz Gdański
   code: "2204042"
   voivodeship: pomorskie
@@ -13832,7 +13832,7 @@
     north: 51.77346802300008
     west: 19.963758030000065
     east: 20.150770976000047
-- slug: tomaszow_mazowiecki
+- slug: tomaszow_mazowiecki-lodzkie-miejska
   name: Tomaszów Mazowiecki
   code: "1016011"
   voivodeship: lodzkie
@@ -13841,7 +13841,7 @@
     north: 51.559621581000044
     west: 19.965138504000038
     east: 20.08669621000007
-- slug: ujazd
+- slug: ujazd-lodzkie
   name: Ujazd
   code: "1016102"
   voivodeship: lodzkie
@@ -13850,7 +13850,7 @@
     north: 51.66444072200005
     west: 19.82208601700006
     east: 19.994696243000078
-- slug: rokietnica
+- slug: rokietnica-podkarpackie
   name: Rokietnica
   code: "1804092"
   voivodeship: podkarpackie
@@ -13958,7 +13958,7 @@
     north: 54.00272898000003
     west: 21.681610785000032
     east: 21.984381169000073
-- slug: dzierzoniow
+- slug: dzierzoniow-dolnoslaskie-miejska
   name: Dzierżoniów
   code: "0202021"
   voivodeship: dolnoslaskie
@@ -13976,7 +13976,7 @@
     north: 50.02080919400004
     west: 18.515106864000074
     east: 18.686582087000033
-- slug: gorzyce
+- slug: gorzyce-slaskie
   name: Gorzyce
   code: "2415062"
   voivodeship: slaskie
@@ -14057,7 +14057,7 @@
     north: 50.32267648000004
     west: 16.802995035000038
     east: 17.028316090000033
-- slug: dabrowa
+- slug: dabrowa-opolskie
   name: Dąbrowa
   code: "1609022"
   voivodeship: opolskie
@@ -14093,7 +14093,7 @@
     north: 53.14511317600005
     west: 21.490297524000027
     east: 21.775197341000023
-- slug: grajewo
+- slug: grajewo-podlaskie-wiejska
   name: Grajewo
   code: "2004022"
   voivodeship: podlaskie
@@ -14102,7 +14102,7 @@
     north: 53.69896782400008
     west: 22.323815532000026
     east: 22.71829706500006
-- slug: grajewo
+- slug: grajewo-podlaskie-miejska
   name: Grajewo
   code: "2004011"
   voivodeship: podlaskie
@@ -14291,7 +14291,7 @@
     north: 53.88802861200003
     west: 20.122489508000058
     east: 20.410771821000026
-- slug: mragowo
+- slug: mragowo-warminsko-mazurskie-miejska
   name: Mrągowo
   code: "2810011"
   voivodeship: warminsko-mazurskie
@@ -14309,7 +14309,7 @@
     north: 53.47547999600005
     west: 20.18011867000007
     east: 20.433893778000026
-- slug: lipno
+- slug: lipno-wielkopolskie
   name: Lipno
   code: "3013022"
   voivodeship: wielkopolskie
@@ -14318,7 +14318,7 @@
     north: 51.96784861100008
     west: 16.474040045000038
     east: 16.655268395000064
-- slug: szydlowo
+- slug: szydlowo-wielkopolskie
   name: Szydłowo
   code: "3019062"
   voivodeship: wielkopolskie
@@ -14336,7 +14336,7 @@
     north: 51.50931654300007
     west: 17.742799198000057
     east: 18.02381471900003
-- slug: czermin
+- slug: czermin-wielkopolskie
   name: Czermin
   code: "3020022"
   voivodeship: wielkopolskie
@@ -14372,7 +14372,7 @@
     north: 52.30501246100005
     west: 16.81413323700002
     east: 16.886062157000026
-- slug: rokietnica
+- slug: rokietnica-wielkopolskie
   name: Rokietnica
   code: "3021132"
   voivodeship: wielkopolskie
@@ -14408,7 +14408,7 @@
     north: 52.555033508000065
     west: 17.907719233000023
     east: 18.132908160000056
-- slug: turek
+- slug: turek-wielkopolskie-miejska
   name: Turek
   code: "3027011"
   voivodeship: wielkopolskie
@@ -14444,7 +14444,7 @@
     north: 53.407242902000064
     west: 16.752470772000038
     east: 16.973493956000027
-- slug: zlotow
+- slug: zlotow-wielkopolskie-miejska
   name: Złotów
   code: "3031011"
   voivodeship: wielkopolskie
@@ -14516,7 +14516,7 @@
     north: 52.65151571600006
     west: 17.716184782000028
     east: 17.987164349000068
-- slug: kolo
+- slug: kolo-wielkopolskie-wiejska
   name: Koło
   code: "3009072"
   voivodeship: wielkopolskie
@@ -14552,7 +14552,7 @@
     north: 50.33630820700006
     west: 18.399162216000036
     east: 18.59519214000005
-- slug: opatow
+- slug: opatow-slaskie
   name: Opatów
   code: "2406052"
   voivodeship: slaskie
@@ -14561,7 +14561,7 @@
     north: 50.99722208900005
     west: 18.743765188000054
     east: 18.918018910000058
-- slug: rudnik
+- slug: rudnik-slaskie
   name: Rudnik
   code: "2411082"
   voivodeship: slaskie
@@ -14660,7 +14660,7 @@
     north: 49.762762579000025
     west: 19.151990556000044
     east: 19.26269245800006
-- slug: leszno
+- slug: leszno-mazowieckie
   name: Leszno
   code: "1432042"
   voivodeship: mazowieckie
@@ -14939,7 +14939,7 @@
     north: 49.57658434100006
     west: 20.68009393500006
     east: 20.821749015000023
-- slug: nowy_targ
+- slug: nowy_targ-malopolskie-miejska
   name: Nowy Targ
   code: "1211011"
   voivodeship: malopolskie
@@ -14975,7 +14975,7 @@
     north: 50.60896887300004
     west: 23.637013892000027
     east: 23.811124719000077
-- slug: tomaszow_lubelski
+- slug: tomaszow_lubelski-lubelskie-wiejska
   name: Tomaszów Lubelski
   code: 0618112
   voivodeship: lubelskie
@@ -14984,7 +14984,7 @@
     north: 50.51031098200008
     west: 23.268835010000032
     east: 23.59847155500006
-- slug: starogard_gdanski
+- slug: starogard_gdanski-pomorskie-miejska
   name: Starogard Gdański
   code: "2213031"
   voivodeship: pomorskie
@@ -14993,7 +14993,7 @@
     north: 53.99567635000005
     west: 18.48170856400003
     east: 18.57150987600005
-- slug: osiek
+- slug: osiek-pomorskie
   name: Osiek
   code: "2213082"
   voivodeship: pomorskie
@@ -15002,7 +15002,7 @@
     north: 53.788616012000034
     west: 18.25425073200006
     east: 18.63103433400005
-- slug: olszanka
+- slug: olszanka-mazowieckie
   name: Olszanka
   code: "1410032"
   voivodeship: mazowieckie
@@ -15110,7 +15110,7 @@
     north: 52.72142148200004
     west: 18.63443727200007
     east: 18.828556853000066
-- slug: dobre
+- slug: dobre-kujawsko-pomorskie
   name: Dobre
   code: "0411032"
   voivodeship: kujawsko-pomorskie
@@ -15173,7 +15173,7 @@
     north: 51.69588780300006
     west: 20.385005656000033
     east: 20.662638810000033
-- slug: pniewy
+- slug: pniewy-mazowieckie
   name: Pniewy
   code: "1406092"
   voivodeship: mazowieckie
@@ -15245,7 +15245,7 @@
     north: 53.92264048200008
     west: 15.773728677000065
     east: 16.080866830000048
-- slug: adamow
+- slug: adamow-lubelskie-zamojski
   name: Adamów
   code: "0620012"
   voivodeship: lubelskie
@@ -15290,7 +15290,7 @@
     north: 52.99987582800003
     west: 20.138225866000028
     east: 20.457587123000053
-- slug: szydlowo
+- slug: szydlowo-mazowieckie
   name: Szydłowo
   code: "1413082"
   voivodeship: mazowieckie
@@ -15362,7 +15362,7 @@
     north: 51.298485612000036
     west: 16.009196920000022
     east: 16.195508061000055
-- slug: luban
+- slug: luban-dolnoslaskie-wiejska
   name: Lubań
   code: "0210042"
   voivodeship: dolnoslaskie
@@ -15425,7 +15425,7 @@
     north: 51.52950073400007
     west: 19.31375196600004
     east: 19.490630010000075
-- slug: belchatow
+- slug: belchatow-lodzkie-wiejska
   name: Bełchatów
   code: "1001022"
   voivodeship: lodzkie
@@ -15515,7 +15515,7 @@
     north: 53.65562455500003
     west: 17.602644043000055
     east: 17.811901469000077
-- slug: aleksandrow
+- slug: aleksandrow-lubelskie
   name: Aleksandrów
   code: "0602022"
   voivodeship: lubelskie
@@ -15542,7 +15542,7 @@
     north: 50.04260994300006
     west: 21.748191500000075
     east: 21.965407863000053
-- slug: augustow
+- slug: augustow-podlaskie-miejska
   name: Augustów
   code: "2001011"
   voivodeship: podlaskie
@@ -15551,7 +15551,7 @@
     north: 53.88464341000008
     west: 22.880739798000036
     east: 23.153196561000073
-- slug: kowal
+- slug: kowal-kujawsko-pomorskie-miejska
   name: Kowal
   code: 0418011
   voivodeship: kujawsko-pomorskie
@@ -15569,7 +15569,7 @@
     north: 50.43691247500004
     west: 19.16088071000007
     east: 19.48764699900005
-- slug: bilgoraj
+- slug: bilgoraj-lubelskie-wiejska
   name: Biłgoraj
   code: "0602032"
   voivodeship: lubelskie
@@ -15623,7 +15623,7 @@
     north: 52.11344141300003
     west: 19.21587444900007
     east: 19.419555380000077
-- slug: leczyca
+- slug: leczyca-lodzkie-wiejska
   name: Łęczyca
   code: "1004052"
   voivodeship: lodzkie
@@ -15659,7 +15659,7 @@
     north: 52.11290334600005
     west: 20.867942225000036
     east: 21.13049950100003
-- slug: siedlce
+- slug: siedlce-mazowieckie-miejska
   name: Siedlce
   code: "1464011"
   voivodeship: mazowieckie
@@ -15686,7 +15686,7 @@
     north: 53.277470437000034
     west: 23.22024183900004
     east: 23.512563214000068
-- slug: olesnica
+- slug: olesnica-dolnoslaskie-wiejska
   name: Oleśnica
   code: "0214062"
   voivodeship: dolnoslaskie
@@ -15911,7 +15911,7 @@
     north: 51.169831430000045
     west: 18.73998289000002
     east: 18.96149301500003
-- slug: przasnysz
+- slug: przasnysz-mazowieckie-miejska
   name: Przasnysz
   code: "1422011"
   voivodeship: mazowieckie
@@ -15947,7 +15947,7 @@
     north: 52.56581376300005
     west: 23.256907480000052
     east: 23.495583845000056
-- slug: swidnica
+- slug: swidnica-dolnoslaskie-wiejska
   name: Świdnica
   code: 0219072
   voivodeship: dolnoslaskie
@@ -15992,7 +15992,7 @@
     north: 52.32301707700003
     west: 15.605050574000074
     east: 15.782266070000048
-- slug: krasne
+- slug: krasne-mazowieckie
   name: Krasne
   code: "1422052"
   voivodeship: mazowieckie
@@ -16001,7 +16001,7 @@
     north: 52.979320733000066
     west: 20.77444421900003
     east: 21.017581562000032
-- slug: przasnysz
+- slug: przasnysz-mazowieckie-wiejska
   name: Przasnysz
   code: "1422072"
   voivodeship: mazowieckie
@@ -16181,7 +16181,7 @@
     north: 51.40149009400005
     west: 21.232397357000025
     east: 21.447496068000078
-- slug: wierzbica
+- slug: wierzbica-mazowieckie
   name: Wierzbica
   code: "1425112"
   voivodeship: mazowieckie
@@ -16199,7 +16199,7 @@
     north: 50.91900190800004
     west: 17.592676308000023
     east: 17.881536072000074
-- slug: chrzanow
+- slug: chrzanow-malopolskie
   name: Chrzanów
   code: "1203033"
   voivodeship: malopolskie
@@ -16226,7 +16226,7 @@
     north: 50.28958229500006
     west: 20.727987495000036
     east: 20.83974162000004
-- slug: siemiatycze
+- slug: siemiatycze-podlaskie-miejska
   name: Siemiatycze
   code: "2010011"
   voivodeship: podlaskie
@@ -16289,7 +16289,7 @@
     north: 49.74535343400004
     west: 20.99056125000004
     east: 21.131381712000064
-- slug: gorlice
+- slug: gorlice-malopolskie-wiejska
   name: Gorlice
   code: "1205042"
   voivodeship: malopolskie
@@ -16298,7 +16298,7 @@
     north: 49.73419237200005
     west: 21.047131291000028
     east: 21.25250287700004
-- slug: sejny
+- slug: sejny-podlaskie-miejska
   name: Sejny
   code: "2009011"
   voivodeship: podlaskie
@@ -16343,7 +16343,7 @@
     north: 51.43453783100006
     west: 22.805336195000052
     east: 23.085841627000036
-- slug: adamow
+- slug: adamow-lubelskie-lukowski
   name: Adamów
   code: "0611032"
   voivodeship: lubelskie
@@ -16415,7 +16415,7 @@
     north: 54.27398286500005
     west: 22.79221196900005
     east: 22.996633022000026
-- slug: wysokie_mazowieckie
+- slug: wysokie_mazowieckie-podlaskie-miejska
   name: Wysokie Mazowieckie
   code: "2013011"
   voivodeship: podlaskie
@@ -16550,7 +16550,7 @@
     north: 49.95506765200008
     west: 21.329147636000073
     east: 21.52352306100005
-- slug: radymno
+- slug: radymno-podkarpackie-miejska
   name: Radymno
   code: "1804021"
   voivodeship: podkarpackie
@@ -16577,7 +16577,7 @@
     north: 50.30569880500008
     west: 19.99509507500005
     east: 20.176867573000038
-- slug: mszana_dolna
+- slug: mszana_dolna-malopolskie-wiejska
   name: Mszana Dolna
   code: "1207092"
   voivodeship: malopolskie
@@ -16586,7 +16586,7 @@
     north: 49.74650416000003
     west: 19.99187929800007
     east: 20.242640651000045
-- slug: suwalki
+- slug: suwalki-podlaskie-miejska
   name: Suwałki
   code: "2063011"
   voivodeship: podlaskie
@@ -16595,7 +16595,7 @@
     north: 54.16501752700003
     west: 22.872232704000055
     east: 22.994512299000064
-- slug: zambrow
+- slug: zambrow-podlaskie-miejska
   name: Zambrów
   code: "2014011"
   voivodeship: podlaskie
@@ -16604,7 +16604,7 @@
     north: 53.00222801000007
     west: 22.204247096000074
     east: 22.29033129800007
-- slug: lomza
+- slug: lomza-podlaskie-miejska
   name: Łomża
   code: "2062011"
   voivodeship: podlaskie
@@ -16667,7 +16667,7 @@
     north: 49.73143397300004
     west: 21.694689621000066
     east: 21.809348818000046
-- slug: czarnkow
+- slug: czarnkow-wielkopolskie-miejska
   name: Czarnków
   code: "3002011"
   voivodeship: wielkopolskie
@@ -16676,7 +16676,7 @@
     north: 52.91269636000004
     west: 16.50826287700005
     east: 16.59605724100004
-- slug: stargard
+- slug: stargard-zachodniopomorskie-miejska
   name: Stargard
   code: "3214011"
   voivodeship: zachodniopomorskie
@@ -16793,7 +16793,7 @@
     north: 50.15143706900005
     west: 21.779016753000064
     east: 21.969445758000063
-- slug: skierniewice
+- slug: skierniewice-lodzkie-miejska
   name: Skierniewice
   code: "1063011"
   voivodeship: lodzkie
@@ -16811,7 +16811,7 @@
     north: 51.36395001900007
     west: 14.974182957000039
     east: 15.217040146000045
-- slug: jarocin
+- slug: jarocin-wielkopolskie
   name: Jarocin
   code: "3006023"
   voivodeship: wielkopolskie
@@ -16838,7 +16838,7 @@
     north: 50.07608494400006
     west: 21.688537058000065
     east: 21.821698751000042
-- slug: koscian
+- slug: koscian-wielkopolskie-miejska
   name: Kościan
   code: "3011011"
   voivodeship: wielkopolskie
@@ -16847,7 +16847,7 @@
     north: 52.099247425000044
     west: 16.619458139000074
     east: 16.673730849000037
-- slug: koscian
+- slug: koscian-wielkopolskie-wiejska
   name: Kościan
   code: "3011032"
   voivodeship: wielkopolskie
@@ -16874,7 +16874,7 @@
     north: 50.74106119400005
     west: 20.67929041600007
     east: 20.882102066000073
-- slug: zdunska_wola
+- slug: zdunska_wola-lodzkie-miejska
   name: Zduńska Wola
   code: "1019011"
   voivodeship: lodzkie
@@ -16883,7 +16883,7 @@
     north: 51.61564141800005
     west: 18.905597138000076
     east: 19.022328896000033
-- slug: lomza
+- slug: lomza-podlaskie-wiejska
   name: Łomża
   code: "2007022"
   voivodeship: podlaskie
@@ -16892,7 +16892,7 @@
     north: 53.24889158800005
     west: 21.911499741000057
     east: 22.31394333800006
-- slug: ostrow_mazowiecka
+- slug: ostrow_mazowiecka-mazowieckie-wiejska
   name: Ostrów Mazowiecka
   code: "1416072"
   voivodeship: mazowieckie
@@ -16928,7 +16928,7 @@
     north: 53.40730570100004
     west: 15.976359733000038
     east: 16.350377757000047
-- slug: gorowo_ilaweckie
+- slug: gorowo_ilaweckie-warminsko-mazurskie-wiejska
   name: Górowo Iławeckie
   code: "2801052"
   voivodeship: warminsko-mazurskie
@@ -17090,7 +17090,7 @@
     north: 54.05279162200003
     west: 22.48972440400007
     east: 22.72374426600004
-- slug: nowe_miasto_lubawskie
+- slug: nowe_miasto_lubawskie-warminsko-mazurskie-wiejska
   name: Nowe Miasto Lubawskie
   code: "2812052"
   voivodeship: warminsko-mazurskie
@@ -17108,7 +17108,7 @@
     north: 54.103763807000064
     west: 20.275537907000057
     east: 20.58140710300006
-- slug: mragowo
+- slug: mragowo-warminsko-mazurskie-wiejska
   name: Mrągowo
   code: "2810032"
   voivodeship: warminsko-mazurskie
@@ -17180,7 +17180,7 @@
     north: 53.618013347000044
     west: 20.591639798000074
     east: 20.91217927300005
-- slug: szczytno
+- slug: szczytno-warminsko-mazurskie-miejska
   name: Szczytno
   code: "2817011"
   voivodeship: warminsko-mazurskie
@@ -17216,7 +17216,7 @@
     north: 53.13095299100007
     west: 16.24266891600007
     east: 16.71836490100003
-- slug: ostrow_wielkopolski
+- slug: ostrow_wielkopolski-wielkopolskie-wiejska
   name: Ostrów Wielkopolski
   code: "3017042"
   voivodeship: wielkopolskie
@@ -17279,7 +17279,7 @@
     north: 52.412226513000064
     west: 16.45653905200004
     east: 16.629099477000068
-- slug: obrzycko
+- slug: obrzycko-wielkopolskie-miejska
   name: Obrzycko
   code: "3024011"
   voivodeship: wielkopolskie
@@ -17297,7 +17297,7 @@
     north: 52.446974297000054
     west: 17.935805995000067
     east: 18.089771290000044
-- slug: slupca
+- slug: slupca-wielkopolskie-wiejska
   name: Słupca
   code: "3023062"
   voivodeship: wielkopolskie
@@ -17306,7 +17306,7 @@
     north: 52.37622943100007
     west: 17.783796893000044
     east: 18.067645153000058
-- slug: turek
+- slug: turek-wielkopolskie-wiejska
   name: Turek
   code: "3027082"
   voivodeship: wielkopolskie
@@ -17315,7 +17315,7 @@
     north: 52.070220015000075
     west: 18.393540474000076
     east: 18.618017847000033
-- slug: slupca
+- slug: slupca-wielkopolskie-miejska
   name: Słupca
   code: "3023011"
   voivodeship: wielkopolskie
@@ -17360,7 +17360,7 @@
     north: 51.987978189000046
     west: 17.55999790900006
     east: 17.71725249700006
-- slug: gniezno
+- slug: gniezno-wielkopolskie-miejska
   name: Gniezno
   code: "3003011"
   voivodeship: wielkopolskie
@@ -17477,7 +17477,7 @@
     north: 50.06241079800003
     west: 18.74294631400005
     east: 19.06059476100006
-- slug: miedzna
+- slug: miedzna-slaskie
   name: Miedźna
   code: "2410032"
   voivodeship: slaskie
@@ -17594,7 +17594,7 @@
     north: 50.426613631000066
     west: 20.127754476000064
     east: 20.33738637700003
-- slug: rogozno
+- slug: rogozno-kujawsko-pomorskie
   name: Rogóźno
   code: "0406052"
   voivodeship: kujawsko-pomorskie
@@ -17612,7 +17612,7 @@
     north: 53.99654725700003
     west: 17.79676823400007
     east: 18.030666074000067
-- slug: malbork
+- slug: malbork-pomorskie-miejska
   name: Malbork
   code: "2209011"
   voivodeship: pomorskie
@@ -17621,7 +17621,7 @@
     north: 54.05156256400005
     west: 18.998481810000044
     east: 19.092428203000054
-- slug: ostrowek
+- slug: ostrowek-lodzkie
   name: Ostrówek
   code: "1017062"
   voivodeship: lodzkie
@@ -17675,7 +17675,7 @@
     north: 49.76430731900007
     west: 20.72564445300003
     east: 20.94813950500003
-- slug: dzierzoniow
+- slug: dzierzoniow-dolnoslaskie-wiejska
   name: Dzierżoniów
   code: "0202052"
   voivodeship: dolnoslaskie
@@ -17711,7 +17711,7 @@
     north: 54.242032057000074
     west: 16.411768082000037
     east: 16.812649141000065
-- slug: debno
+- slug: debno-zachodniopomorskie
   name: Dębno
   code: "3210033"
   voivodeship: zachodniopomorskie
@@ -17738,7 +17738,7 @@
     north: 51.89413388000003
     west: 22.832417837000037
     east: 23.062554958000078
-- slug: malbork
+- slug: malbork-pomorskie-wiejska
   name: Malbork
   code: "2209042"
   voivodeship: pomorskie
@@ -17756,7 +17756,7 @@
     north: 52.01248749500007
     west: 19.121254591000024
     east: 19.311273537000034
-- slug: ozorkow
+- slug: ozorkow-lodzkie-miejska
   name: Ozorków
   code: "1020021"
   voivodeship: lodzkie
@@ -17765,7 +17765,7 @@
     north: 51.981159665000064
     west: 19.25241005500004
     east: 19.339844205000077
-- slug: garwolin
+- slug: garwolin-mazowieckie-wiejska
   name: Garwolin
   code: "1403042"
   voivodeship: mazowieckie
@@ -17792,7 +17792,7 @@
     north: 50.206908680000026
     west: 22.354609672000038
     east: 22.526610834000053
-- slug: lubaczow
+- slug: lubaczow-podkarpackie-miejska
   name: Lubaczów
   code: "1809011"
   voivodeship: podkarpackie
@@ -17810,7 +17810,7 @@
     north: 51.62793374100005
     west: 16.388442765000036
     east: 16.644867694000027
-- slug: slawno
+- slug: slawno-zachodniopomorskie-wiejska
   name: Sławno
   code: "3213062"
   voivodeship: zachodniopomorskie
@@ -17819,7 +17819,7 @@
     north: 54.44664026500004
     west: 16.53795059500004
     east: 16.865116519000026
-- slug: darlowo
+- slug: darlowo-zachodniopomorskie-miejska
   name: Darłowo
   code: "3213011"
   voivodeship: zachodniopomorskie
@@ -17891,7 +17891,7 @@
     north: 53.07028828300008
     west: 20.972650975000022
     east: 21.186331068000072
-- slug: baranow
+- slug: baranow-mazowieckie
   name: Baranów
   code: "1405032"
   voivodeship: mazowieckie
@@ -17972,7 +17972,7 @@
     north: 53.77540388700004
     west: 18.523207267000032
     east: 18.732576145000053
-- slug: tczew
+- slug: tczew-pomorskie-miejska
   name: Tczew
   code: "2214011"
   voivodeship: pomorskie
@@ -18008,7 +18008,7 @@
     north: 52.29563835300007
     west: 21.589737082000056
     east: 21.770742093000024
-- slug: minsk_mazowiecki
+- slug: minsk_mazowiecki-mazowieckie-wiejska
   name: Mińsk Mazowiecki
   code: "1412112"
   voivodeship: mazowieckie
@@ -18026,7 +18026,7 @@
     north: 52.134513973000026
     west: 21.514740863000043
     east: 21.710648539000033
-- slug: czermin
+- slug: czermin-podkarpackie
   name: Czermin
   code: "1811032"
   voivodeship: podkarpackie
@@ -18071,7 +18071,7 @@
     north: 53.21198642500008
     west: 17.508238582000047
     east: 17.790359452000075
-- slug: rypin
+- slug: rypin-kujawsko-pomorskie-wiejska
   name: Rypin
   code: "0412042"
   voivodeship: kujawsko-pomorskie
@@ -18089,7 +18089,7 @@
     north: 53.11418839600003
     west: 19.502617975000078
     east: 19.684805941000036
-- slug: swidwin
+- slug: swidwin-zachodniopomorskie-miejska
   name: Świdwin
   code: "3216011"
   voivodeship: zachodniopomorskie
@@ -18107,7 +18107,7 @@
     north: 53.752709182000046
     west: 15.67207632800006
     east: 15.936364685000058
-- slug: walcz
+- slug: walcz-zachodniopomorskie-miejska
   name: Wałcz
   code: "3217011"
   voivodeship: zachodniopomorskie
@@ -18197,7 +18197,7 @@
     north: 49.36239272200004
     west: 19.899331407000034
     east: 20.106466736000073
-- slug: chojnow
+- slug: chojnow-dolnoslaskie-miejska
   name: Chojnów
   code: 0209011
   voivodeship: dolnoslaskie
@@ -18233,7 +18233,7 @@
     north: 53.74953683000007
     west: 15.492112832000032
     east: 15.800079141000026
-- slug: belchatow
+- slug: belchatow-lodzkie-miejska
   name: Bełchatów
   code: "1001011"
   voivodeship: lodzkie
@@ -18305,7 +18305,7 @@
     north: 50.05388543000004
     west: 22.341308162000075
     east: 22.468395335000025
-- slug: brzeznica
+- slug: brzeznica-malopolskie
   name: Brzeźnica
   code: "1218022"
   voivodeship: malopolskie
@@ -18323,7 +18323,7 @@
     north: 51.16619895500003
     west: 15.12824067200006
     east: 15.260287858000027
-- slug: lubin
+- slug: lubin-dolnoslaskie-wiejska
   name: Lubin
   code: "0211022"
   voivodeship: dolnoslaskie
@@ -18395,7 +18395,7 @@
     north: 51.68891169800003
     west: 19.00797410900003
     east: 19.273409164000043
-- slug: leczyca
+- slug: leczyca-lodzkie-miejska
   name: Łęczyca
   code: "1004011"
   voivodeship: lodzkie
@@ -18476,7 +18476,7 @@
     north: 49.658380055000066
     west: 20.648407115000055
     east: 20.764872754000066
-- slug: olesnica
+- slug: olesnica-dolnoslaskie-miejska
   name: Oleśnica
   code: "0214011"
   voivodeship: dolnoslaskie
@@ -18665,7 +18665,7 @@
     north: 50.802706785000055
     west: 21.84019826900004
     east: 22.082978980000064
-- slug: bransk
+- slug: bransk-podlaskie-miejska
   name: Brańsk
   code: "2003021"
   voivodeship: podlaskie
@@ -18728,7 +18728,7 @@
     north: 52.45285424200006
     west: 14.66627995500005
     east: 14.919549276000055
-- slug: sulmierzyce
+- slug: sulmierzyce-lodzkie
   name: Sulmierzyce
   code: "1009082"
   voivodeship: lodzkie
@@ -18791,7 +18791,7 @@
     north: 52.128257156000075
     west: 20.723211347000074
     east: 20.874254670000028
-- slug: michalowice
+- slug: michalowice-mazowieckie
   name: Michałowice
   code: "1421042"
   voivodeship: mazowieckie
@@ -18818,7 +18818,7 @@
     north: 53.63345923300005
     west: 22.13572796400007
     east: 22.44319236900003
-- slug: kolno
+- slug: kolno-podlaskie-miejska
   name: Kolno
   code: "2006011"
   voivodeship: podlaskie
@@ -18863,7 +18863,7 @@
     north: 52.59006552200003
     west: 15.135117341000068
     east: 15.310233308000022
-- slug: lubrza
+- slug: lubrza-lubuskie
   name: Lubrza
   code: 0808012
   voivodeship: lubuskie
@@ -18908,7 +18908,7 @@
     north: 51.515575754000054
     west: 16.438415915000064
     east: 16.79812905600005
-- slug: swidnica
+- slug: swidnica-lubuskie
   name: Świdnica
   code: 0809072
   voivodeship: lubuskie
@@ -18917,7 +18917,7 @@
     north: 51.978892373000065
     west: 15.232354051000073
     east: 15.476616496000076
-- slug: radomsko
+- slug: radomsko-lodzkie-miejska
   name: Radomsko
   code: "1012011"
   voivodeship: lodzkie
@@ -18935,7 +18935,7 @@
     north: 51.12104547000007
     west: 19.205127770000047
     east: 19.421694009000078
-- slug: pionki
+- slug: pionki-mazowieckie-wiejska
   name: Pionki
   code: "1425082"
   voivodeship: mazowieckie
@@ -19007,7 +19007,7 @@
     north: 51.42996514400005
     west: 22.251027003000047
     east: 22.436757637000028
-- slug: zagan
+- slug: zagan-lubuskie-miejska
   name: Żagań
   code: 0810021
   voivodeship: lubuskie
@@ -19097,7 +19097,7 @@
     north: 51.36830569800003
     west: 22.925102198000047
     east: 23.079957319000073
-- slug: stoczek_lukowski
+- slug: stoczek_lukowski-lubelskie-wiejska
   name: Stoczek Łukowski
   code: 0611082
   voivodeship: lubelskie
@@ -19115,7 +19115,7 @@
     north: 54.011128419000045
     west: 16.97738519400002
     east: 17.241208554000025
-- slug: sierpc
+- slug: sierpc-mazowieckie-wiejska
   name: Sierpc
   code: "1427052"
   voivodeship: mazowieckie
@@ -19160,7 +19160,7 @@
     north: 50.87699203000005
     west: 17.421330870000077
     east: 17.507573368000067
-- slug: czernichow
+- slug: czernichow-malopolskie
   name: Czernichów
   code: "1206012"
   voivodeship: malopolskie
@@ -19241,7 +19241,7 @@
     north: 53.18089396200003
     west: 19.446169573000077
     east: 19.71195631200004
-- slug: osiek
+- slug: osiek-kujawsko-pomorskie
   name: Osiek
   code: 0402082
   voivodeship: kujawsko-pomorskie
@@ -19313,7 +19313,7 @@
     north: 54.43996622000003
     west: 18.173803579000037
     east: 18.363799672000027
-- slug: biala
+- slug: biala-lodzkie
   name: Biała
   code: "1017012"
   voivodeship: lodzkie
@@ -19349,7 +19349,7 @@
     north: 49.97402821400004
     west: 19.91269700600003
     east: 20.005387419000044
-- slug: limanowa
+- slug: limanowa-malopolskie-wiejska
   name: Limanowa
   code: "1207072"
   voivodeship: malopolskie
@@ -19358,7 +19358,7 @@
     north: 49.81900529100005
     west: 20.29488637000003
     east: 20.591798229000062
-- slug: wysokie_mazowieckie
+- slug: wysokie_mazowieckie-podlaskie-wiejska
   name: Wysokie Mazowieckie
   code: "2013102"
   voivodeship: podlaskie
@@ -19376,7 +19376,7 @@
     north: 53.34473684300008
     west: 18.048421981000047
     east: 18.279668292000053
-- slug: golub-dobrzyn
+- slug: golub-dobrzyn-kujawsko-pomorskie-miejska
   name: Golub-Dobrzyń
   code: "0405011"
   voivodeship: kujawsko-pomorskie
@@ -19421,7 +19421,7 @@
     north: 51.14473802700007
     west: 17.924207498000044
     east: 18.189326831000074
-- slug: chojnice
+- slug: chojnice-pomorskie-miejska
   name: Chojnice
   code: "2202011"
   voivodeship: pomorskie
@@ -19430,7 +19430,7 @@
     north: 53.723809525000036
     west: 17.509137580000072
     east: 17.610561413000028
-- slug: glogow
+- slug: glogow-dolnoslaskie-wiejska
   name: Głogów
   code: "0203022"
   voivodeship: dolnoslaskie
@@ -19529,7 +19529,7 @@
     north: 50.803530024000054
     west: 23.298209502000077
     east: 23.47882199000003
-- slug: spytkowice
+- slug: spytkowice-malopolskie-wadowicki
   name: Spytkowice
   code: "1218062"
   voivodeship: malopolskie
@@ -19583,7 +19583,7 @@
     north: 49.48943090400007
     west: 21.732207687000027
     east: 21.972356413000057
-- slug: chojnice
+- slug: chojnice-pomorskie-wiejska
   name: Chojnice
   code: "2202032"
   voivodeship: pomorskie
@@ -19655,7 +19655,7 @@
     north: 50.76088306500003
     west: 15.829911131000074
     east: 16.109567647000063
-- slug: zambrow
+- slug: zambrow-podlaskie-wiejska
   name: Zambrów
   code: "2014052"
   voivodeship: podlaskie
@@ -19709,7 +19709,7 @@
     north: 51.67446038300005
     west: 16.76606490000006
     east: 17.011582659000055
-- slug: bobrowniki
+- slug: bobrowniki-slaskie
   name: Bobrowniki
   code: "2401042"
   voivodeship: slaskie
@@ -19727,7 +19727,7 @@
     north: 50.58916392200007
     west: 20.07451982400005
     east: 20.369425128000046
-- slug: czarnocin
+- slug: czarnocin-swietokrzyskie
   name: Czarnocin
   code: "2603022"
   voivodeship: swietokrzyskie
@@ -19781,7 +19781,7 @@
     north: 50.878956763000076
     west: 21.71337532900003
     east: 21.866513201000032
-- slug: elblag
+- slug: elblag-warminsko-mazurskie-wiejska
   name: Elbląg
   code: "2804012"
   voivodeship: warminsko-mazurskie
@@ -19799,7 +19799,7 @@
     north: 50.93020445500008
     west: 19.74706000200007
     east: 20.11908122600005
-- slug: lidzbark_warminski
+- slug: lidzbark_warminski-warminsko-mazurskie-miejska
   name: Lidzbark Warmiński
   code: "2809011"
   voivodeship: warminsko-mazurskie
@@ -19826,7 +19826,7 @@
     north: 53.53069845500005
     west: 20.299404956000046
     east: 20.690460718000054
-- slug: kolno
+- slug: kolno-warminsko-mazurskie
   name: Kolno
   code: "2814082"
   voivodeship: warminsko-mazurskie
@@ -19871,7 +19871,7 @@
     north: 53.84756150100003
     west: 19.700769054000034
     east: 19.936039572000027
-- slug: swietajno
+- slug: swietajno-warminsko-mazurskie-szczycienski
   name: Świętajno
   code: "2817072"
   voivodeship: warminsko-mazurskie
@@ -19925,7 +19925,7 @@
     north: 51.54433904700005
     west: 17.993388504000052
     east: 18.221796494000046
-- slug: pniewy
+- slug: pniewy-wielkopolskie
   name: Pniewy
   code: "3024063"
   voivodeship: wielkopolskie
@@ -19988,7 +19988,7 @@
     north: 52.02319309600006
     west: 18.296853811000062
     east: 18.481888714000036
-- slug: dobra
+- slug: dobra-wielkopolskie
   name: Dobra
   code: "3027033"
   voivodeship: wielkopolskie
@@ -20168,7 +20168,7 @@
     north: 50.30174984900003
     west: 21.53039214200004
     east: 21.731003744000077
-- slug: jaslo
+- slug: jaslo-podkarpackie-miejska
   name: Jasło
   code: "1805011"
   voivodeship: podkarpackie
@@ -20177,7 +20177,7 @@
     north: 49.78256374600005
     west: 21.405102593000038
     east: 21.540142615000036
-- slug: debowiec
+- slug: debowiec-podkarpackie
   name: Dębowiec
   code: "1805032"
   voivodeship: podkarpackie
@@ -20222,7 +20222,7 @@
     north: 53.05910390400004
     west: 19.007718913000076
     east: 19.238995270000032
-- slug: inowroclaw
+- slug: inowroclaw-kujawsko-pomorskie-miejska
   name: Inowrocław
   code: "0407011"
   voivodeship: kujawsko-pomorskie
@@ -20276,7 +20276,7 @@
     north: 53.08512340300007
     west: 15.020362324000075
     east: 15.332634535000068
-- slug: radzyn_podlaski
+- slug: radzyn_podlaski-lubelskie-wiejska
   name: Radzyń Podlaski
   code: "0615062"
   voivodeship: lubelskie
@@ -20294,7 +20294,7 @@
     north: 54.276630338000075
     west: 18.950660808000066
     east: 19.326268044000074
-- slug: puck
+- slug: puck-pomorskie-miejska
   name: Puck
   code: "2211031"
   voivodeship: pomorskie
@@ -20303,7 +20303,7 @@
     north: 54.72673973000008
     west: 18.393579561000024
     east: 18.433775854000032
-- slug: puck
+- slug: puck-pomorskie-wiejska
   name: Puck
   code: "2211072"
   voivodeship: pomorskie
@@ -20321,7 +20321,7 @@
     north: 51.97912251300005
     west: 19.50646815400006
     east: 19.70872551800005
-- slug: laskarzew
+- slug: laskarzew-mazowieckie-miejska
   name: Łaskarzew
   code: "1403021"
   voivodeship: mazowieckie
@@ -20330,7 +20330,7 @@
     north: 51.81167270000003
     west: 21.562841277000075
     east: 21.653746720000072
-- slug: gorzno
+- slug: gorzno-mazowieckie
   name: Górzno
   code: "1403052"
   voivodeship: mazowieckie
@@ -20348,7 +20348,7 @@
     north: 51.907010453000055
     west: 21.275804451000056
     east: 21.501035729000023
-- slug: lezajsk
+- slug: lezajsk-podkarpackie-miejska
   name: Leżajsk
   code: "1808011"
   voivodeship: podkarpackie
@@ -20411,7 +20411,7 @@
     north: 54.57078888400008
     west: 17.141239235000057
     east: 17.429097438000042
-- slug: slupsk
+- slug: slupsk-pomorskie-wiejska
   name: Słupsk
   code: "2212082"
   voivodeship: pomorskie
@@ -20420,7 +20420,7 @@
     north: 54.58829070000007
     west: 16.793314902000077
     east: 17.217788764000034
-- slug: skorcz
+- slug: skorcz-pomorskie-miejska
   name: Skórcz
   code: "2213021"
   voivodeship: pomorskie
@@ -20429,7 +20429,7 @@
     north: 53.80622083700007
     west: 18.500039817000072
     east: 18.535572107000064
-- slug: skorcz
+- slug: skorcz-pomorskie-wiejska
   name: Skórcz
   code: "2213102"
   voivodeship: pomorskie
@@ -20447,7 +20447,7 @@
     north: 52.41607668900008
     west: 19.49154400900005
     east: 19.68902201000003
-- slug: nowy_targ
+- slug: nowy_targ-malopolskie-wiejska
   name: Nowy Targ
   code: "1211092"
   voivodeship: malopolskie
@@ -20456,7 +20456,7 @@
     north: 49.55997370800003
     west: 19.879217873000073
     east: 20.22988771200005
-- slug: boleslaw
+- slug: boleslaw-malopolskie-olkuski
   name: Bolesław
   code: "1212032"
   voivodeship: malopolskie
@@ -20465,7 +20465,7 @@
     north: 50.32879749400007
     west: 19.40404320400006
     east: 19.546560584000076
-- slug: jordanow
+- slug: jordanow-malopolskie-wiejska
   name: Jordanów
   code: "1215052"
   voivodeship: malopolskie
@@ -20483,7 +20483,7 @@
     north: 50.900001985000074
     west: 15.944085770000072
     east: 16.109594986000047
-- slug: dabrowa
+- slug: dabrowa-kujawsko-pomorskie
   name: Dąbrowa
   code: 0409012
   voivodeship: kujawsko-pomorskie
@@ -20492,7 +20492,7 @@
     north: 52.841661145000046
     west: 17.847848854000063
     east: 18.03811489900005
-- slug: radziejow
+- slug: radziejow-kujawsko-pomorskie-wiejska
   name: Radziejów
   code: "0411062"
   voivodeship: kujawsko-pomorskie
@@ -20510,7 +20510,7 @@
     north: 53.28846972000008
     west: 15.044193748000055
     east: 15.367760110000063
-- slug: szczecinek
+- slug: szczecinek-zachodniopomorskie-miejska
   name: Szczecinek
   code: "3215011"
   voivodeship: zachodniopomorskie
@@ -20582,7 +20582,7 @@
     north: 51.70595230400005
     west: 21.363070925000045
     east: 21.69859874100007
-- slug: mielec
+- slug: mielec-podkarpackie-wiejska
   name: Mielec
   code: "1811052"
   voivodeship: podkarpackie
@@ -20609,7 +20609,7 @@
     north: 50.496437566000054
     west: 21.399957725000036
     east: 21.596366500000045
-- slug: oswiecim
+- slug: oswiecim-malopolskie-wiejska
   name: Oświęcim
   code: "1213062"
   voivodeship: malopolskie
@@ -20618,7 +20618,7 @@
     north: 50.06574267500008
     west: 19.13208163400003
     east: 19.35377645400007
-- slug: radlow
+- slug: radlow-malopolskie
   name: Radłów
   code: "1216053"
   voivodeship: malopolskie
@@ -20627,7 +20627,7 @@
     north: 50.16980795400008
     west: 20.73446720800007
     east: 20.898910298000033
-- slug: nowa_ruda
+- slug: nowa_ruda-dolnoslaskie-miejska
   name: Nowa Ruda
   code: 0208041
   voivodeship: dolnoslaskie
@@ -20636,7 +20636,7 @@
     north: 50.61387769100003
     west: 16.460829567000076
     east: 16.57922654600003
-- slug: rypin
+- slug: rypin-kujawsko-pomorskie-miejska
   name: Rypin
   code: "0412011"
   voivodeship: kujawsko-pomorskie
@@ -20708,7 +20708,7 @@
     north: 51.37180709100005
     west: 21.35159623000004
     east: 21.543729804000066
-- slug: jablonna
+- slug: jablonna-mazowieckie
   name: Jabłonna
   code: "1408022"
   voivodeship: mazowieckie
@@ -20717,7 +20717,7 @@
     north: 52.433199364000075
     west: 20.737018335000073
     east: 21.004378065000026
-- slug: tarnow
+- slug: tarnow-malopolskie-wiejska
   name: Tarnów
   code: "1216092"
   voivodeship: malopolskie
@@ -20780,7 +20780,7 @@
     north: 51.84649932600007
     west: 14.916979432000062
     east: 15.170312239000054
-- slug: poswietne
+- slug: poswietne-mazowieckie
   name: Poświętne
   code: "1434082"
   voivodeship: mazowieckie
@@ -20798,7 +20798,7 @@
     north: 49.82390770300003
     west: 22.53459747000005
     east: 22.735834012000055
-- slug: przeworsk
+- slug: przeworsk-podkarpackie-miejska
   name: Przeworsk
   code: "1814011"
   voivodeship: podkarpackie
@@ -20816,7 +20816,7 @@
     north: 49.86455715900007
     west: 19.55110019400007
     east: 19.707192364000036
-- slug: lubin
+- slug: lubin-dolnoslaskie-miejska
   name: Lubin
   code: "0211011"
   voivodeship: dolnoslaskie
@@ -20843,7 +20843,7 @@
     north: 53.49553498300003
     west: 18.287823074000073
     east: 18.618388038000035
-- slug: chelmza
+- slug: chelmza-kujawsko-pomorskie-wiejska
   name: Chełmża
   code: "0415022"
   voivodeship: kujawsko-pomorskie
@@ -20951,7 +20951,7 @@
     north: 53.100430954000046
     west: 19.73418440100005
     east: 20.07170390300007
-- slug: dynow
+- slug: dynow-podkarpackie-miejska
   name: Dynów
   code: "1816011"
   voivodeship: podkarpackie
@@ -20978,7 +20978,7 @@
     north: 50.06491440800005
     west: 20.20938114300003
     east: 20.387566028000037
-- slug: augustow
+- slug: augustow-podlaskie-wiejska
   name: Augustów
   code: "2001022"
   voivodeship: podlaskie
@@ -21023,7 +21023,7 @@
     north: 50.462126409000064
     west: 22.404357186000027
     east: 22.614941104000025
-- slug: dabie
+- slug: dabie-lubuskie
   name: Dąbie
   code: 0802042
   voivodeship: lubuskie
@@ -21059,7 +21059,7 @@
     north: 51.48585455300008
     west: 21.053186443000072
     east: 21.25906945400004
-- slug: kamien
+- slug: kamien-podkarpackie
   name: Kamień
   code: "1816082"
   voivodeship: podkarpackie
@@ -21095,7 +21095,7 @@
     north: 50.986472871000046
     west: 17.06923747600007
     east: 17.226080212000056
-- slug: olawa
+- slug: olawa-dolnoslaskie-miejska
   name: Oława
   code: "0215011"
   voivodeship: dolnoslaskie
@@ -21131,7 +21131,7 @@
     north: 49.739977080000074
     west: 18.954637621000074
     east: 19.060288065000066
-- slug: kamien
+- slug: kamien-lubelskie
   name: Kamień
   code: "0603062"
   voivodeship: lubelskie
@@ -21140,7 +21140,7 @@
     north: 51.14736277600008
     west: 23.521255858000075
     east: 23.715960464000034
-- slug: rejowiec_fabryczny
+- slug: rejowiec_fabryczny-lubelskie-wiejska
   name: Rejowiec Fabryczny
   code: 0603082
   voivodeship: lubelskie
@@ -21176,7 +21176,7 @@
     north: 52.036003031000064
     west: 15.845950110000047
     east: 16.01121239400004
-- slug: nowa_sol
+- slug: nowa_sol-lubuskie-wiejska
   name: Nowa Sól
   code: 0804052
   voivodeship: lubuskie
@@ -21185,7 +21185,7 @@
     north: 51.921704573000056
     west: 15.578809528000022
     east: 15.99176473500006
-- slug: poswietne
+- slug: poswietne-lodzkie
   name: Poświętne
   code: "1007062"
   voivodeship: lodzkie
@@ -21194,7 +21194,7 @@
     north: 51.600037343000054
     west: 20.245902728000033
     east: 20.467661089000046
-- slug: slubice
+- slug: slubice-mazowieckie
   name: Słubice
   code: "1419112"
   voivodeship: mazowieckie
@@ -21248,7 +21248,7 @@
     north: 50.669691439000076
     west: 22.044988456000056
     east: 22.26398609000006
-- slug: bransk
+- slug: bransk-podlaskie-wiejska
   name: Brańsk
   code: "2003052"
   voivodeship: podlaskie
@@ -21266,7 +21266,7 @@
     north: 52.92567199200005
     west: 22.791907949000063
     east: 23.123756917000037
-- slug: wasosz
+- slug: wasosz-podlaskie
   name: Wąsosz
   code: "2004062"
   voivodeship: podlaskie
@@ -21293,7 +21293,7 @@
     north: 51.67166473000003
     west: 15.81597234800006
     east: 15.970833847000051
-- slug: chelmno
+- slug: chelmno-kujawsko-pomorskie-wiejska
   name: Chełmno
   code: "0404022"
   voivodeship: kujawsko-pomorskie
@@ -21347,7 +21347,7 @@
     north: 51.78407279400005
     west: 19.247200923000037
     east: 19.374620660000062
-- slug: plonsk
+- slug: plonsk-mazowieckie-miejska
   name: Płońsk
   code: "1420011"
   voivodeship: mazowieckie
@@ -21500,7 +21500,7 @@
     north: 50.75777701800007
     west: 19.04943998400006
     east: 19.223021257000028
-- slug: lubartow
+- slug: lubartow-lubelskie-wiejska
   name: Lubartów
   code: 0608072
   voivodeship: lubelskie
@@ -21518,7 +21518,7 @@
     north: 52.069154178000076
     west: 15.633602391000068
     east: 15.794501289000038
-- slug: zagan
+- slug: zagan-lubuskie-wiejska
   name: Żagań
   code: 0810092
   voivodeship: lubuskie
@@ -21536,7 +21536,7 @@
     north: 51.01403976900008
     west: 19.37871571900007
     east: 19.582966777000024
-- slug: pionki
+- slug: pionki-mazowieckie-miejska
   name: Pionki
   code: "1425011"
   voivodeship: mazowieckie
@@ -21599,7 +21599,7 @@
     north: 50.70929026300007
     west: 16.821629407000046
     east: 17.009932210000045
-- slug: bialogard
+- slug: bialogard-zachodniopomorskie-wiejska
   name: Białogard
   code: "3201022"
   voivodeship: zachodniopomorskie
@@ -21626,7 +21626,7 @@
     north: 51.08473739900006
     west: 22.600351459000024
     east: 22.813467503000027
-- slug: zakrzew
+- slug: zakrzew-lubelskie
   name: Zakrzew
   code: 0609162
   voivodeship: lubelskie
@@ -21635,7 +21635,7 @@
     north: 50.95227032100007
     west: 22.453969462000032
     east: 22.650137923000045
-- slug: brzeznica
+- slug: brzeznica-lubuskie
   name: Brzeźnica
   code: 0810032
   voivodeship: lubuskie
@@ -21671,7 +21671,7 @@
     north: 50.99978896700003
     west: 17.427239744000076
     east: 17.691985041000066
-- slug: olszanka
+- slug: olszanka-opolskie
   name: Olszanka
   code: "1601062"
   voivodeship: opolskie
@@ -21680,7 +21680,7 @@
     north: 50.827789917000075
     west: 17.34902387300002
     east: 17.538739022000073
-- slug: olesno
+- slug: olesno-malopolskie
   name: Olesno
   code: "1204052"
   voivodeship: malopolskie
@@ -21707,7 +21707,7 @@
     north: 50.56899979900004
     west: 16.79947896400006
     east: 17.026370150000048
-- slug: aleksandrow_kujawski
+- slug: aleksandrow_kujawski-kujawsko-pomorskie-miejska
   name: Aleksandrów Kujawski
   code: "0401011"
   voivodeship: kujawsko-pomorskie
@@ -21716,7 +21716,7 @@
     north: 52.897482066000066
     west: 18.682704114000046
     east: 18.723605442000064
-- slug: maszewo
+- slug: maszewo-zachodniopomorskie
   name: Maszewo
   code: "3204033"
   voivodeship: zachodniopomorskie
@@ -21743,7 +21743,7 @@
     north: 51.34886168600008
     west: 22.76986703400007
     east: 22.95659184300007
-- slug: czluchow
+- slug: czluchow-pomorskie-miejska
   name: Człuchów
   code: "2203011"
   voivodeship: pomorskie
@@ -21779,7 +21779,7 @@
     north: 49.71995502600004
     west: 21.85194485100004
     east: 22.02905510000005
-- slug: czarna
+- slug: czarna-podkarpackie-debicki
   name: Czarna
   code: "1803032"
   voivodeship: podkarpackie
@@ -21806,7 +21806,7 @@
     north: 54.247577860000035
     west: 22.48153028200005
     east: 22.807966269000076
-- slug: brojce
+- slug: brojce-zachodniopomorskie
   name: Brojce
   code: "3205012"
   voivodeship: zachodniopomorskie
@@ -21887,7 +21887,7 @@
     north: 52.39119768000006
     west: 20.216846505000035
     east: 20.423952542000052
-- slug: jaroslaw
+- slug: jaroslaw-podkarpackie-miejska
   name: Jarosław
   code: "1804011"
   voivodeship: podkarpackie
@@ -21941,7 +21941,7 @@
     north: 53.09069488200004
     west: 17.960841295000023
     east: 18.253443134000065
-- slug: golub-dobrzyn
+- slug: golub-dobrzyn-kujawsko-pomorskie-wiejska
   name: Golub-Dobrzyń
   code: "0405032"
   voivodeship: kujawsko-pomorskie
@@ -22049,7 +22049,7 @@
     north: 50.412923516000035
     west: 17.447649089000038
     east: 17.607081951000055
-- slug: lubrza
+- slug: lubrza-opolskie
   name: Lubrza
   code: "1610032"
   voivodeship: opolskie
@@ -22283,7 +22283,7 @@
     north: 53.93118892200005
     west: 17.655639832000077
     east: 18.137415684000075
-- slug: ostroda
+- slug: ostroda-warminsko-mazurskie-wiejska
   name: Ostróda
   code: "2815092"
   voivodeship: warminsko-mazurskie

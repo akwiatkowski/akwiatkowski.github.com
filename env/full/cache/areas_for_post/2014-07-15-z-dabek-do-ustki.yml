@@ -10,25 +10,25 @@
     distance_meters: 21530.52
     distance_km: 21.531
     distance_percent: 39.0543
-  - slug: darlowo
+  - slug: darlowo-zachodniopomorskie-wiejska
     name: Darłowo
     code: "3213032"
     distance_meters: 15279.49
     distance_km: 15.279
     distance_percent: 27.7155
-  - slug: ustka
+  - slug: ustka-pomorskie-wiejska
     name: Ustka
     code: "2212102"
     distance_meters: 11781.52
     distance_km: 11.782
     distance_percent: 21.3706
-  - slug: darlowo
+  - slug: darlowo-zachodniopomorskie-miejska
     name: Darłowo
     code: "3213011"
     distance_meters: 4438.9
     distance_km: 4.439
     distance_percent: 8.0517
-  - slug: ustka
+  - slug: ustka-pomorskie-miejska
     name: Ustka
     code: "2212011"
     distance_meters: 2099.26
@@ -102,15 +102,21 @@
     distance_km: 55.13
     distance_percent: 100.0
   touched_towns:
-  - slug: darlowo
+  - slug: darlowo-zachodniopomorskie-wiejska
     name: Darłowo
     code: "3213032"
+  - slug: darlowo-zachodniopomorskie-miejska
+    name: Darłowo
+    code: "3213011"
   - slug: postomino
     name: Postomino
     code: "3213052"
-  - slug: ustka
+  - slug: ustka-pomorskie-wiejska
     name: Ustka
     code: "2212102"
+  - slug: ustka-pomorskie-miejska
+    name: Ustka
+    code: "2212011"
   touched_counties:
   - slug: slawienski
     name: sławieński

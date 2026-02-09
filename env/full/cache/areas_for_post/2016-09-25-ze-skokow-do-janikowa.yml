@@ -10,7 +10,7 @@
     distance_meters: 14942.86
     distance_km: 14.943
     distance_percent: 20.1461
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
     distance_meters: 12542.1
@@ -34,7 +34,7 @@
     distance_meters: 8880.67
     distance_km: 8.881
     distance_percent: 11.973
-  - slug: dabrowa
+  - slug: dabrowa-kujawsko-pomorskie
     name: Dąbrowa
     code: 0409012
     distance_meters: 7909.79
@@ -156,13 +156,13 @@
   - slug: janowiec_wielkopolski
     name: Janowiec Wielkopolski
     code: 0419033
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
   - slug: gasawa
     name: Gąsawa
     code: 0419022
-  - slug: dabrowa
+  - slug: dabrowa-kujawsko-pomorskie
     name: Dąbrowa
     code: 0409012
   - slug: janikowo

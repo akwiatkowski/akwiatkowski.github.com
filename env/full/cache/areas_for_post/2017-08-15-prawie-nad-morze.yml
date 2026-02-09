@@ -22,13 +22,13 @@
     distance_meters: 15634.77
     distance_km: 15.635
     distance_percent: 24.5658
-  - slug: bialogard
+  - slug: bialogard-zachodniopomorskie-wiejska
     name: Białogard
     code: "3201022"
     distance_meters: 14017.42
     distance_km: 14.017
     distance_percent: 22.0246
-  - slug: bialogard
+  - slug: bialogard-zachodniopomorskie-miejska
     name: Białogard
     code: "3201011"
     distance_meters: 5157.13
@@ -141,9 +141,12 @@
   - slug: rabino
     name: Rąbino
     code: "3216042"
-  - slug: bialogard
+  - slug: bialogard-zachodniopomorskie-wiejska
     name: Białogard
     code: "3201022"
+  - slug: bialogard-zachodniopomorskie-miejska
+    name: Białogard
+    code: "3201011"
   touched_counties:
   - slug: drawski
     name: drawski

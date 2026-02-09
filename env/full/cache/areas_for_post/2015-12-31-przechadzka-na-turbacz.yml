@@ -4,7 +4,7 @@
   total_distance_km: 20.853
   points_count: 312.0
   towns:
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
     distance_meters: 9581.32
@@ -84,7 +84,7 @@
   - slug: niedzwiedz
     name: Niedźwiedź
     code: "1207102"
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
   touched_counties:

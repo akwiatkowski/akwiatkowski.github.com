@@ -28,7 +28,7 @@
     distance_meters: 12346.34
     distance_km: 12.346
     distance_percent: 12.7368
-  - slug: kwidzyn
+  - slug: kwidzyn-pomorskie-wiejska
     name: Kwidzyn
     code: "2207032"
     distance_meters: 11426.37
@@ -165,7 +165,7 @@
   - slug: ryjewo
     name: Ryjewo
     code: "2207052"
-  - slug: kwidzyn
+  - slug: kwidzyn-pomorskie-wiejska
     name: Kwidzyn
     code: "2207032"
   - slug: gardeja

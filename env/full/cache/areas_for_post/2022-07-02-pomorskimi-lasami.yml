@@ -4,7 +4,7 @@
   total_distance_km: 75.77
   points_count: 340.0
   towns:
-  - slug: bialogard
+  - slug: bialogard-zachodniopomorskie-wiejska
     name: Białogard
     code: "3201022"
     distance_meters: 28345.94
@@ -22,7 +22,7 @@
     distance_meters: 18689.15
     distance_km: 18.689
     distance_percent: 24.6655
-  - slug: bialogard
+  - slug: bialogard-zachodniopomorskie-miejska
     name: Białogard
     code: "3201011"
     distance_meters: 9513.94
@@ -34,7 +34,7 @@
     distance_meters: 6314.13
     distance_km: 6.314
     distance_percent: 8.3332
-  - slug: swidwin
+  - slug: swidwin-zachodniopomorskie-wiejska
     name: Świdwin
     code: "3216062"
     distance_meters: 816.51
@@ -132,15 +132,18 @@
   - slug: resko
     name: Resko
     code: "3218043"
-  - slug: swidwin
+  - slug: swidwin-zachodniopomorskie-wiejska
     name: Świdwin
     code: "3216062"
   - slug: slawoborze
     name: Sławoborze
     code: "3216052"
-  - slug: bialogard
+  - slug: bialogard-zachodniopomorskie-wiejska
     name: Białogard
     code: "3201022"
+  - slug: bialogard-zachodniopomorskie-miejska
+    name: Białogard
+    code: "3201011"
   touched_counties:
   - slug: gryficki
     name: gryficki

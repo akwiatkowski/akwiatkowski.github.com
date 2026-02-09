@@ -10,7 +10,7 @@
     distance_meters: 4666.58
     distance_km: 4.667
     distance_percent: 34.3869
-  - slug: czernichow
+  - slug: czernichow-slaskie
     name: Czernichów
     code: "2417022"
     distance_meters: 4648.42
@@ -23,7 +23,7 @@
     distance_km: 4.256
     distance_percent: 31.36
   counties:
-  - slug: bielski
+  - slug: bielski-slaskie
     name: bielski
     code: "2402"
     distance_meters: 4666.58
@@ -102,14 +102,14 @@
   - slug: wilkowice
     name: Wilkowice
     code: "2402102"
-  - slug: czernichow
+  - slug: czernichow-slaskie
     name: Czernichów
     code: "2417022"
   touched_counties:
   - slug: bielsko-biala
     name: Bielsko-Biała
     code: "2461"
-  - slug: bielski
+  - slug: bielski-slaskie
     name: bielski
     code: "2402"
   - slug: zywiecki

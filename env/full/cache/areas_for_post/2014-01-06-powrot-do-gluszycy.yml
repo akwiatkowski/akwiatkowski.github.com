@@ -16,7 +16,7 @@
     distance_meters: 1399.28
     distance_km: 1.399
     distance_percent: 17.8115
-  - slug: nowa_ruda
+  - slug: nowa_ruda-dolnoslaskie-wiejska
     name: Nowa Ruda
     code: 0208112
     distance_meters: 722.3
@@ -84,7 +84,7 @@
     distance_km: 7.856
     distance_percent: 100.0
   touched_towns:
-  - slug: nowa_ruda
+  - slug: nowa_ruda-dolnoslaskie-wiejska
     name: Nowa Ruda
     code: 0208112
   - slug: walim

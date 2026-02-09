@@ -10,13 +10,13 @@
     distance_meters: 16814.3
     distance_km: 16.814
     distance_percent: 47.2376
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-miejska
     name: Elbląg
     code: "2861011"
     distance_meters: 5987.67
     distance_km: 5.988
     distance_percent: 16.8216
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-wiejska
     name: Elbląg
     code: "2804012"
     distance_meters: 4887.16
@@ -135,9 +135,12 @@
   - slug: markusy
     name: Markusy
     code: "2804042"
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-wiejska
     name: Elbląg
     code: "2804012"
+  - slug: elblag-warminsko-mazurskie-miejska
+    name: Elbląg
+    code: "2861011"
   touched_counties:
   - slug: malborski
     name: malborski

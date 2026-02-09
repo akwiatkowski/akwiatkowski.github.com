@@ -10,7 +10,7 @@
     distance_meters: 13350.16
     distance_km: 13.35
     distance_percent: 27.7253
-  - slug: pruszcz_gdanski
+  - slug: pruszcz_gdanski-pomorskie-wiejska
     name: Pruszcz Gdański
     code: "2204042"
     distance_meters: 11239.32
@@ -22,19 +22,19 @@
     distance_meters: 9388.81
     distance_km: 9.389
     distance_percent: 19.4985
-  - slug: pruszcz_gdanski
+  - slug: pruszcz_gdanski-pomorskie-miejska
     name: Pruszcz Gdański
     code: "2204011"
     distance_meters: 6689.32
     distance_km: 6.689
     distance_percent: 13.8922
-  - slug: tczew
+  - slug: tczew-pomorskie-wiejska
     name: Tczew
     code: "2214062"
     distance_meters: 4165.77
     distance_km: 4.166
     distance_percent: 8.6514
-  - slug: tczew
+  - slug: tczew-pomorskie-miejska
     name: Tczew
     code: "2214011"
     distance_meters: 3318.1
@@ -117,15 +117,21 @@
   - slug: kolbudy
     name: Kolbudy
     code: "2204032"
-  - slug: pruszcz_gdanski
+  - slug: pruszcz_gdanski-pomorskie-wiejska
     name: Pruszcz Gdański
     code: "2204042"
+  - slug: pruszcz_gdanski-pomorskie-miejska
+    name: Pruszcz Gdański
+    code: "2204011"
   - slug: suchy_dab
     name: Suchy Dąb
     code: "2204072"
-  - slug: tczew
+  - slug: tczew-pomorskie-wiejska
     name: Tczew
     code: "2214062"
+  - slug: tczew-pomorskie-miejska
+    name: Tczew
+    code: "2214011"
   touched_counties:
   - slug: gdanski
     name: gdański

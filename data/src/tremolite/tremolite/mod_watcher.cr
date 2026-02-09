@@ -6,7 +6,6 @@ class Tremolite::ModWatcher
   getter :enabled
 
   def initialize(
-    @blog : Tremolite::Blog,
     file_path : String?,
   )
     # by default it's disabled
@@ -38,10 +37,6 @@ class Tremolite::ModWatcher
 
   def set(key : String, data : ModHash)
     @data[key] = data
-  end
-
-  # override this method in your code
-  def update_before_save
   end
 
   def save_to_file

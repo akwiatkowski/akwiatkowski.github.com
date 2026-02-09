@@ -21,6 +21,20 @@ Log.setup_from_env
 class Tremolite::Blog
   Log = ::Log.for(self)
 
+  def self.for_env(env : String, target : String = "local") : Blog
+    env_path = "env/#{env}"
+    Blog.new(
+      mod_watcher_yaml_path: File.join(env_path, "cache", "mod_watcher.yml"),
+      data_path: File.join(env_path, "data"),
+      output_path: File.join(env_path, "public", target),
+      config_path: "data/config",
+      cache_path: File.join(env_path, "cache"),
+      layout_path: "data/layout",
+      assets_path: "data/assets",
+      pages_path: "data/pages",
+    )
+  end
+
   def initialize(
     @data_path = "data",
     @posts_ext = "md",
@@ -37,29 +51,87 @@ class Tremolite::Blog
 
     Log.info { "START" }
 
+    # 1. Core infrastructure (no dependencies)
     @html_buffer = Tremolite::HtmlBuffer.new
-    @validator = Tremolite::Validator.new(blog: self)
-    @renderer = Tremolite::Renderer.new(blog: self, html_buffer: @html_buffer.not_nil!)
-    @image_resizer = Tremolite::ImageResizer.new(self)
-    @data_manager = Tremolite::DataManager.new(
-      self,
-      config_path: @config_path.to_s
-    )
-    @markdown_wrapper = Tremolite::MarkdownWrapper.new(context: context)
-    @mod_watcher = Tremolite::ModWatcher.new(
-      blog: self,
-      file_path: @mod_watcher_yaml_path
+
+    # 2. Validator (needs html_buffer)
+    @validator = Tremolite::Validator.new(html_buffer: @html_buffer.not_nil!)
+
+    # 3. Renderer (needs html_buffer + paths)
+    @renderer = Tremolite::Renderer.new(
+      html_buffer: @html_buffer.not_nil!,
+      data_path: @data_path,
+      output_path: @output_path,
+      assets_path: @assets_path,
     )
 
-    @post_collection = Tremolite::PostCollection.new(
-      blog: self,
-      posts_path: @posts_path,
-      posts_ext: @posts_ext
+    # 4. ImageResizer (needs paths)
+    @image_resizer = Tremolite::ImageResizer.new(
+      data_path: @data_path,
+      output_path: @output_path,
     )
+
+    # 5. DataManager (needs paths; html_buffer set after for lazy init)
+    @data_manager = Tremolite::DataManager.new(
+      config_path: @config_path.to_s,
+      data_path: @data_path,
+      cache_path: @cache_path,
+      output_path: @output_path,
+      posts_path: @posts_path,
+      posts_ext: @posts_ext,
+    )
+    @data_manager.not_nil!.html_buffer = @html_buffer
+    @data_manager.not_nil!.init_preloaded_post_referenced_links
+
+    # 6. MarkdownWrapper — lazy initialized (needs context which needs self)
+
+    # 7. ModWatcher (needs file_path only; path properties set later)
+    @mod_watcher = Tremolite::ModWatcher.new(
+      file_path: @mod_watcher_yaml_path,
+    )
+
+    # 8. PostCollection (needs paths; late-bound deps set below)
+    @post_collection = Tremolite::PostCollection.new(
+      posts_path: @posts_path,
+      posts_ext: @posts_ext,
+    )
+
+    # --- Wire late-bound dependencies ---
+
+    # Renderer needs validator + url_to_output_path + image_resizer
+    @renderer.not_nil!.validator = @validator
+    @renderer.not_nil!.url_to_output_path_proc = ->url_to_output_path(String)
+    @renderer.not_nil!.image_resizer = @image_resizer
+
+    # Validator needs area_data_loader + posts (set lazily after post init in make_it_so)
+
+    # ModWatcher needs paths for current_state_of
+    @mod_watcher.not_nil!.posts_path = @posts_path
+    @mod_watcher.not_nil!.posts_ext = @posts_ext
+    @mod_watcher.not_nil!.data_path = @data_path
+
+    # PostCollection needs paths + deps for Post construction
+    @post_collection.not_nil!.data_path = @data_path
+    @post_collection.not_nil!.output_path = @output_path
+    @post_collection.not_nil!.photo_tags = @data_manager.not_nil!.photo_tags
+
+    # Renderer needs data_manager and mod_watcher for custom renderer
+    @renderer.not_nil!.data_manager = @data_manager
+    @renderer.not_nil!.mod_watcher = @mod_watcher
   end
 
   def initialize_posts
+    # Set deps on post_collection before initializing
+    @post_collection.not_nil!.exif_db = @data_manager.not_nil!.exif_db
+    @post_collection.not_nil!.markdown_wrapper = markdown_wrapper
     @post_collection.not_nil!.initialize_posts
+
+    # Wire post-init dependencies
+    @validator.not_nil!.area_data_loader = @data_manager.not_nil!.area_data_loader
+    @validator.not_nil!.posts = @post_collection.not_nil!.posts
+    @renderer.not_nil!.all_posts = @post_collection.not_nil!.posts
+    @renderer.not_nil!.posts_for_resize = @post_collection.not_nil!.posts
+    @mod_watcher.not_nil!.exif_db_path = @data_manager.not_nil!.exif_db.exif_db_file_parent_path
   end
 
   # getters
@@ -79,7 +151,7 @@ class Tremolite::Blog
   end
 
   def markdown_wrapper
-    return @markdown_wrapper.not_nil!
+    @markdown_wrapper ||= Tremolite::MarkdownWrapper.new(context: context)
   end
 
   def renderer

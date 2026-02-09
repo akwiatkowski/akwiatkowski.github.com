@@ -17,7 +17,7 @@
     distance_km: 1.071
     distance_percent: 14.5285
   counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 7368.37
@@ -73,7 +73,7 @@
     name: Nowe Miasto nad Wartą
     code: "3025032"
   touched_counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   touched_voivodeships:

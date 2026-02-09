@@ -40,7 +40,7 @@
     distance_meters: 9172.87
     distance_km: 9.173
     distance_percent: 12.4646
-  - slug: kolo
+  - slug: kolo-wielkopolskie-miejska
     name: Koło
     code: "3009011"
     distance_meters: 4051.11
@@ -162,7 +162,7 @@
     distance_km: 73.591
     distance_percent: 100.0
   touched_towns:
-  - slug: kolo
+  - slug: kolo-wielkopolskie-miejska
     name: Koło
     code: "3009011"
   - slug: osiek_maly

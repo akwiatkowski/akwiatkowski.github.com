@@ -15,7 +15,7 @@ module ModelView
       last_post = context.ready_posts.sort_by(&.time).last?
       @image_url = last_post.try(&.card_image_url) || meta[:backgrounds].as(String)
 
-      @towns_with_posts = context.areas_with_posts(AreaType::Town).uniq(&.slug).as(Array(AreaEntity))
+      @towns_with_posts = context.areas_with_posts(AreaType::Town)
       @voivodeships = context.areas_of_type(AreaType::Voivodeship).as(Array(AreaEntity))
       # Own selector so unique photo tracking doesn't affect other views
       @selector = AreaPhotoSelector.new(context.posts.flat_map { |p| p.published_photo_entities })

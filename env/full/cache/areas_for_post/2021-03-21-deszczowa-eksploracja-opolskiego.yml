@@ -4,7 +4,7 @@
   total_distance_km: 76.379
   points_count: 418.0
   towns:
-  - slug: biala
+  - slug: biala-opolskie
     name: Biała
     code: "1610013"
     distance_meters: 26641.75
@@ -40,7 +40,7 @@
     distance_meters: 4801.5
     distance_km: 4.802
     distance_percent: 6.2865
-  - slug: lubrza
+  - slug: lubrza-opolskie
     name: Lubrza
     code: "1610032"
     distance_meters: 3956.49
@@ -53,7 +53,7 @@
     distance_meters: 38885.52
     distance_km: 38.886
     distance_percent: 50.9116
-  - slug: opolski
+  - slug: opolski-opolskie
     name: opolski
     code: "1609"
     distance_meters: 26388.88
@@ -129,10 +129,10 @@
   - slug: prudnik
     name: Prudnik
     code: "1610043"
-  - slug: lubrza
+  - slug: lubrza-opolskie
     name: Lubrza
     code: "1610032"
-  - slug: biala
+  - slug: biala-opolskie
     name: Biała
     code: "1610013"
   - slug: strzeleczki
@@ -154,7 +154,7 @@
   - slug: krapkowicki
     name: krapkowicki
     code: "1605"
-  - slug: opolski
+  - slug: opolski-opolskie
     name: opolski
     code: "1609"
   - slug: opole

@@ -4,13 +4,13 @@
   total_distance_km: 59.438
   points_count: 432.0
   towns:
-  - slug: dzierzoniow
+  - slug: dzierzoniow-dolnoslaskie-wiejska
     name: Dzierżoniów
     code: "0202052"
     distance_meters: 12082.98
     distance_km: 12.083
     distance_percent: 20.3287
-  - slug: swidnica
+  - slug: swidnica-dolnoslaskie-wiejska
     name: Świdnica
     code: 0219072
     distance_meters: 9969.69
@@ -59,7 +59,7 @@
     distance_meters: 26682.75
     distance_km: 26.683
     distance_percent: 44.8916
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
     distance_meters: 23382.86
@@ -129,13 +129,13 @@
   - slug: jaworzyna_slaska
     name: Jaworzyna Śląska
     code: 0219043
-  - slug: swidnica
+  - slug: swidnica-dolnoslaskie-wiejska
     name: Świdnica
     code: 0219072
   - slug: marcinowice
     name: Marcinowice
     code: 0219052
-  - slug: dzierzoniow
+  - slug: dzierzoniow-dolnoslaskie-wiejska
     name: Dzierżoniów
     code: "0202052"
   - slug: lagiewniki
@@ -151,7 +151,7 @@
     name: Ząbkowice Śląskie
     code: "0224053"
   touched_counties:
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
   - slug: dzierzoniowski

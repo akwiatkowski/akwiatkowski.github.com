@@ -58,14 +58,14 @@
     distance_meters: 2840.39
     distance_km: 2.84
     distance_percent: 2.9731
-  - slug: leszno
+  - slug: leszno-wielkopolskie
     name: Leszno
     code: "3063011"
     distance_meters: 1730.18
     distance_km: 1.73
     distance_percent: 1.811
   counties:
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
     distance_meters: 34452.48
@@ -198,7 +198,7 @@
     distance_km: 95.537
     distance_percent: 100.0
   touched_towns:
-  - slug: leszno
+  - slug: leszno-wielkopolskie
     name: Leszno
     code: "3063011"
   - slug: swieciechowa
@@ -238,7 +238,7 @@
   - slug: wolsztynski
     name: wolsztyński
     code: "3029"
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
   - slug: nowotomyski

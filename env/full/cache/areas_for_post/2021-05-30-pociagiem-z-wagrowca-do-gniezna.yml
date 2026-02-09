@@ -10,7 +10,7 @@
     distance_meters: 30617.93
     distance_km: 30.618
     distance_percent: 26.1178
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 22414.8
@@ -40,19 +40,19 @@
     distance_meters: 11147.68
     distance_km: 11.148
     distance_percent: 9.5092
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-miejska
     name: Wągrowiec
     code: "3028011"
     distance_meters: 8546.65
     distance_km: 8.547
     distance_percent: 7.2905
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 6248.49
     distance_km: 6.248
     distance_percent: 5.3301
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 5622.78
@@ -150,18 +150,24 @@
   - slug: skoki
     name: Skoki
     code: "3028053"
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
+  - slug: wagrowiec-wielkopolskie-miejska
+    name: Wągrowiec
+    code: "3028011"
   - slug: kiszkowo
     name: Kiszkowo
     code: "3003042"
   - slug: klecko
     name: Kłecko
     code: "3003053"
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
+  - slug: gniezno-wielkopolskie-miejska
+    name: Gniezno
+    code: "3003011"
   touched_counties:
   - slug: poznanski
     name: poznański
@@ -231,13 +237,13 @@
     distance_meters: 8310.97
     distance_km: 8.311
     distance_percent: 17.0681
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 2480.01
     distance_km: 2.48
     distance_percent: 5.0932
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 1741.17
@@ -323,9 +329,12 @@
     distance_km: 48.693
     distance_percent: 100.0
   touched_towns:
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
+  - slug: gniezno-wielkopolskie-wiejska
+    name: Gniezno
+    code: "3003032"
   - slug: lubowo
     name: Łubowo
     code: "3003062"

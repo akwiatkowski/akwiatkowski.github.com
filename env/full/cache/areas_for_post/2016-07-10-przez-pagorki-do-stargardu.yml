@@ -28,13 +28,13 @@
     distance_meters: 10214.47
     distance_km: 10.214
     distance_percent: 12.9963
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-wiejska
     name: Stargard
     code: "3214102"
     distance_meters: 6005.82
     distance_km: 6.006
     distance_percent: 7.6415
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-miejska
     name: Stargard
     code: "3214011"
     distance_meters: 3201.97
@@ -198,9 +198,12 @@
   - slug: dolice
     name: Dolice
     code: "3214042"
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-wiejska
     name: Stargard
     code: "3214102"
+  - slug: stargard-zachodniopomorskie-miejska
+    name: Stargard
+    code: "3214011"
   touched_counties:
   - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki

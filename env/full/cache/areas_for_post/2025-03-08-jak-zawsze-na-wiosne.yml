@@ -4,7 +4,7 @@
   total_distance_km: 54.304
   points_count: 254.0
   towns:
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 20771.55
@@ -90,7 +90,7 @@
     distance_km: 54.304
     distance_percent: 100.0
   touched_towns:
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
   - slug: klecko

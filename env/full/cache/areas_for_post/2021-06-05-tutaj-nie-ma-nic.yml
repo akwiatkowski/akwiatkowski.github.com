@@ -34,13 +34,13 @@
     distance_meters: 9862.13
     distance_km: 9.862
     distance_percent: 9.938
-  - slug: glogow
+  - slug: glogow-dolnoslaskie-miejska
     name: Głogów
     code: "0203011"
     distance_meters: 7236.02
     distance_km: 7.236
     distance_percent: 7.2917
-  - slug: glogow
+  - slug: glogow-dolnoslaskie-wiejska
     name: Głogów
     code: "0203022"
     distance_meters: 6588.8
@@ -189,9 +189,12 @@
   - slug: grebocice
     name: Grębocice
     code: "0216032"
-  - slug: glogow
+  - slug: glogow-dolnoslaskie-wiejska
     name: Głogów
     code: "0203022"
+  - slug: glogow-dolnoslaskie-miejska
+    name: Głogów
+    code: "0203011"
   - slug: kotla
     name: Kotla
     code: "0203042"

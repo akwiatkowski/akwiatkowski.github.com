@@ -4,7 +4,7 @@
   total_distance_km: 3.23
   points_count: 75.0
   towns:
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 3230.24
@@ -60,7 +60,7 @@
     distance_km: 3.23
     distance_percent: 100.0
   touched_towns:
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
   touched_counties:

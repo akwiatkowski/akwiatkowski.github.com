@@ -3,8 +3,12 @@ require "./post"
 class Tremolite::PostCollection
   Log = ::Log.for(self)
 
+  # Late-bound dependencies (set after construction)
+  property data_path : String = ""
+  property output_path : String = ""
+  property markdown_wrapper : Tremolite::MarkdownWrapper?
+
   def initialize(
-    @blog : Tremolite::Blog,
     @posts_path : String,
     @posts_ext : String,
   )
@@ -24,7 +28,11 @@ class Tremolite::PostCollection
 
     each_post_file do |path|
       begin
-        p = Tremolite::Post.new(blog: @blog.not_nil!, path: path)
+        p = Tremolite::Post.new(path: path, data_path: @data_path, output_path: @output_path)
+        p.markdown_wrapper = @markdown_wrapper
+        p.post_collection = self
+        p.photo_tags = @photo_tags
+        p.exif_db = @exif_db
         p.parse
       rescue e : IndexError
         Log.error { "error in #{path}" }
@@ -59,12 +67,6 @@ class Tremolite::PostCollection
       return @posts[i - 1]
     else
       return nil
-    end
-  end
-
-  def each_post_file(&block : String -> Nil)
-    Dir[File.join([@posts_path, "*.#{@posts_ext}"])].sort.each do |post_path|
-      block.call(post_path)
     end
   end
 

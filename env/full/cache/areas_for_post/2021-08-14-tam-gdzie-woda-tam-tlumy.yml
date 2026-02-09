@@ -129,7 +129,7 @@
     distance_meters: 10144.0
     distance_km: 10.144
     distance_percent: 60.5322
-  - slug: lipno
+  - slug: lipno-wielkopolskie
     name: Lipno
     code: "3013022"
     distance_meters: 6308.03
@@ -209,7 +209,7 @@
     distance_km: 16.758
     distance_percent: 100.0
   touched_towns:
-  - slug: lipno
+  - slug: lipno-wielkopolskie
     name: Lipno
     code: "3013022"
   - slug: smigiel

@@ -53,11 +53,11 @@ class Tremolite::Post
 
   def published_photo_entities : Array(PhotoEntity)
     # TODO add header photo entity
-    @blog.data_manager.exif_db.published_photo_entities(self.slug)
+    @exif_db.not_nil!.published_photo_entities(self.slug)
   end
 
   def uploaded_photo_entities : Array(PhotoEntity)
-    @blog.data_manager.exif_db.uploaded_photo_entities(self.slug)
+    @exif_db.not_nil!.uploaded_photo_entities(self.slug)
   end
 
   def all_photo_entities_unsorted : Array(PhotoEntity)

@@ -16,7 +16,7 @@
     distance_meters: 4073.38
     distance_km: 4.073
     distance_percent: 46.8228
-  - slug: brodnica
+  - slug: brodnica-wielkopolskie
     name: Brodnica
     code: "3026012"
     distance_meters: 72.24
@@ -84,7 +84,7 @@
   - slug: srem
     name: Śrem
     code: "3026043"
-  - slug: brodnica
+  - slug: brodnica-wielkopolskie
     name: Brodnica
     code: "3026012"
   touched_counties:

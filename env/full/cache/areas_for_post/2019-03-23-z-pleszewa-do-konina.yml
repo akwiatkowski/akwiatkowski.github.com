@@ -4,13 +4,13 @@
   total_distance_km: 63.425
   points_count: 200.0
   towns:
-  - slug: rzgow
+  - slug: rzgow-wielkopolskie
     name: Rzgów
     code: "3010082"
     distance_meters: 14847.9
     distance_km: 14.848
     distance_percent: 23.4102
-  - slug: czermin
+  - slug: czermin-wielkopolskie
     name: Czermin
     code: "3020022"
     distance_meters: 11590.18
@@ -165,7 +165,7 @@
   - slug: pleszew
     name: Pleszew
     code: "3020063"
-  - slug: czermin
+  - slug: czermin-wielkopolskie
     name: Czermin
     code: "3020022"
   - slug: chocz
@@ -177,7 +177,7 @@
   - slug: grodziec
     name: Grodziec
     code: "3010022"
-  - slug: rzgow
+  - slug: rzgow-wielkopolskie
     name: Rzgów
     code: "3010082"
   - slug: zagorow

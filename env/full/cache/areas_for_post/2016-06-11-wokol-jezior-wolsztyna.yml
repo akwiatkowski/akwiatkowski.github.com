@@ -29,7 +29,7 @@
     distance_meters: 28423.65
     distance_km: 28.424
     distance_percent: 90.5224
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
     distance_meters: 2975.92
@@ -91,7 +91,7 @@
   - slug: wolsztynski
     name: wolsztyński
     code: "3029"
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
   touched_voivodeships:

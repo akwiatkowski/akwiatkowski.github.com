@@ -10,7 +10,7 @@
     distance_meters: 30162.14
     distance_km: 30.162
     distance_percent: 11.8255
-  - slug: walcz
+  - slug: walcz-zachodniopomorskie-wiejska
     name: Wałcz
     code: "3217052"
     distance_meters: 25159.69
@@ -22,7 +22,7 @@
     distance_meters: 19431.72
     distance_km: 19.432
     distance_percent: 7.6185
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
     distance_meters: 17868.88
@@ -34,13 +34,13 @@
     distance_meters: 17483.62
     distance_km: 17.484
     distance_percent: 6.8547
-  - slug: chodziez
+  - slug: chodziez-wielkopolskie-wiejska
     name: Chodzież
     code: "3001032"
     distance_meters: 15526.73
     distance_km: 15.527
     distance_percent: 6.0875
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-wiejska
     name: Stargard
     code: "3214102"
     distance_meters: 14672.61
@@ -58,7 +58,7 @@
     distance_meters: 13252.56
     distance_km: 13.253
     distance_percent: 5.1958
-  - slug: szydlowo
+  - slug: szydlowo-wielkopolskie
     name: Szydłowo
     code: "3019062"
     distance_meters: 12527.84
@@ -94,7 +94,7 @@
     distance_meters: 7730.08
     distance_km: 7.73
     distance_percent: 3.0307
-  - slug: walcz
+  - slug: walcz-zachodniopomorskie-miejska
     name: Wałcz
     code: "3217011"
     distance_meters: 7338.42
@@ -112,7 +112,7 @@
     distance_meters: 6528.87
     distance_km: 6.529
     distance_percent: 2.5597
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-miejska
     name: Stargard
     code: "3214011"
     distance_meters: 4475.59
@@ -124,7 +124,7 @@
     distance_meters: 3874.04
     distance_km: 3.874
     distance_percent: 1.5189
-  - slug: chodziez
+  - slug: chodziez-wielkopolskie-miejska
     name: Chodzież
     code: "3001011"
     distance_meters: 3728.58
@@ -345,15 +345,18 @@
   - slug: oborniki
     name: Oborniki
     code: "3016013"
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
   - slug: budzyn
     name: Budzyń
     code: "3001022"
-  - slug: chodziez
+  - slug: chodziez-wielkopolskie-wiejska
     name: Chodzież
     code: "3001032"
+  - slug: chodziez-wielkopolskie-miejska
+    name: Chodzież
+    code: "3001011"
   - slug: kaczory
     name: Kaczory
     code: "3019032"
@@ -363,12 +366,15 @@
   - slug: ujscie
     name: Ujście
     code: "3019073"
-  - slug: szydlowo
+  - slug: szydlowo-wielkopolskie
     name: Szydłowo
     code: "3019062"
-  - slug: walcz
+  - slug: walcz-zachodniopomorskie-wiejska
     name: Wałcz
     code: "3217052"
+  - slug: walcz-zachodniopomorskie-miejska
+    name: Wałcz
+    code: "3217011"
   - slug: tuczno
     name: Tuczno
     code: "3217043"
@@ -390,9 +396,12 @@
   - slug: marianowo
     name: Marianowo
     code: "3214082"
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-wiejska
     name: Stargard
     code: "3214102"
+  - slug: stargard-zachodniopomorskie-miejska
+    name: Stargard
+    code: "3214011"
   touched_counties:
   - slug: poznanski
     name: poznański

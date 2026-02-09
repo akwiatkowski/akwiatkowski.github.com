@@ -34,13 +34,13 @@
     distance_meters: 8081.07
     distance_km: 8.081
     distance_percent: 10.9242
-  - slug: malbork
+  - slug: malbork-pomorskie-miejska
     name: Malbork
     code: "2209011"
     distance_meters: 4218.06
     distance_km: 4.218
     distance_percent: 5.7021
-  - slug: malbork
+  - slug: malbork-pomorskie-wiejska
     name: Malbork
     code: "2209042"
     distance_meters: 2591.71
@@ -171,9 +171,12 @@
   - slug: stary_targ
     name: Stary Targ
     code: "2216042"
-  - slug: malbork
+  - slug: malbork-pomorskie-wiejska
     name: Malbork
     code: "2209042"
+  - slug: malbork-pomorskie-miejska
+    name: Malbork
+    code: "2209011"
   touched_counties:
   - slug: ostrodzki
     name: ostródzki

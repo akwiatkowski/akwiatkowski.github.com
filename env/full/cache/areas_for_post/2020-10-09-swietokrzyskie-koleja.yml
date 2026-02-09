@@ -4,7 +4,7 @@
   total_distance_km: 133.312
   points_count: 148.0
   towns:
-  - slug: bilgoraj
+  - slug: bilgoraj-lubelskie-wiejska
     name: Biłgoraj
     code: "0602032"
     distance_meters: 19319.72
@@ -58,7 +58,7 @@
     distance_meters: 8956.78
     distance_km: 8.957
     distance_percent: 6.7186
-  - slug: zamosc
+  - slug: zamosc-lubelskie-wiejska
     name: Zamość
     code: "0620142"
     distance_meters: 7984.37
@@ -76,19 +76,19 @@
     distance_meters: 5984.81
     distance_km: 5.985
     distance_percent: 4.4893
-  - slug: bilgoraj
+  - slug: bilgoraj-lubelskie-miejska
     name: Biłgoraj
     code: "0602011"
     distance_meters: 4820.85
     distance_km: 4.821
     distance_percent: 3.6162
-  - slug: gorzyce
+  - slug: gorzyce-podkarpackie
     name: Gorzyce
     code: "1820022"
     distance_meters: 1957.02
     distance_km: 1.957
     distance_percent: 1.468
-  - slug: zamosc
+  - slug: zamosc-lubelskie-miejska
     name: Zamość
     code: "0664011"
     distance_meters: 1571.75
@@ -100,7 +100,7 @@
     distance_meters: 1285.53
     distance_km: 1.286
     distance_percent: 0.9643
-  - slug: jarocin
+  - slug: jarocin-podkarpackie
     name: Jarocin
     code: "1812022"
     distance_meters: 1055.24
@@ -282,9 +282,12 @@
   - slug: harasiuki
     name: Harasiuki
     code: "1812012"
-  - slug: bilgoraj
+  - slug: bilgoraj-lubelskie-wiejska
     name: Biłgoraj
     code: "0602032"
+  - slug: bilgoraj-lubelskie-miejska
+    name: Biłgoraj
+    code: "0602011"
   - slug: tereszpol
     name: Tereszpol
     code: "0602132"
@@ -294,9 +297,12 @@
   - slug: szczebrzeszyn
     name: Szczebrzeszyn
     code: "0620133"
-  - slug: zamosc
+  - slug: zamosc-lubelskie-wiejska
     name: Zamość
     code: "0620142"
+  - slug: zamosc-lubelskie-miejska
+    name: Zamość
+    code: "0664011"
   touched_counties:
   - slug: tarnobrzeg
     name: Tarnobrzeg
@@ -423,7 +429,7 @@
     distance_meters: 12058.3
     distance_km: 12.058
     distance_percent: 3.8333
-  - slug: chmielnik
+  - slug: chmielnik-swietokrzyskie
     name: Chmielnik
     code: "2604043"
     distance_meters: 11810.58
@@ -459,13 +465,13 @@
     distance_meters: 10258.53
     distance_km: 10.259
     distance_percent: 3.2612
-  - slug: slawno
+  - slug: slawno-lodzkie
     name: Sławno
     code: "1007072"
     distance_meters: 9928.39
     distance_km: 9.928
     distance_percent: 3.1562
-  - slug: tomaszow_mazowiecki
+  - slug: tomaszow_mazowiecki-lodzkie-wiejska
     name: Tomaszów Mazowiecki
     code: "1016092"
     distance_meters: 9916.62
@@ -477,7 +483,7 @@
     distance_meters: 9912.6
     distance_km: 9.913
     distance_percent: 3.1512
-  - slug: osiek
+  - slug: osiek-swietokrzyskie
     name: Osiek
     code: "2612043"
     distance_meters: 9574.62
@@ -513,13 +519,13 @@
     distance_meters: 8594.44
     distance_km: 8.594
     distance_percent: 2.7322
-  - slug: ujazd
+  - slug: ujazd-lodzkie
     name: Ujazd
     code: "1016102"
     distance_meters: 8168.87
     distance_km: 8.169
     distance_percent: 2.5969
-  - slug: tomaszow_mazowiecki
+  - slug: tomaszow_mazowiecki-lodzkie-miejska
     name: Tomaszów Mazowiecki
     code: "1016011"
     distance_meters: 7092.52
@@ -610,7 +616,7 @@
     distance_meters: 28934.35
     distance_km: 28.934
     distance_percent: 9.1982
-  - slug: tomaszowski
+  - slug: tomaszowski-lodzkie
     name: tomaszowski
     code: "1016"
     distance_meters: 27685.93
@@ -830,16 +836,16 @@
   - slug: koluszki
     name: Koluszki
     code: "1006073"
-  - slug: ujazd
+  - slug: ujazd-lodzkie
     name: Ujazd
     code: "1016102"
   - slug: lubochnia
     name: Lubochnia
     code: "1016062"
-  - slug: tomaszow_mazowiecki
+  - slug: tomaszow_mazowiecki-lodzkie-miejska
     name: Tomaszów Mazowiecki
     code: "1016011"
-  - slug: slawno
+  - slug: slawno-lodzkie
     name: Sławno
     code: "1007072"
   - slug: opoczno
@@ -887,7 +893,7 @@
   - slug: kije
     name: Kije
     code: "2608022"
-  - slug: chmielnik
+  - slug: chmielnik-swietokrzyskie
     name: Chmielnik
     code: "2604043"
   - slug: gnojno
@@ -908,7 +914,7 @@
   - slug: polaniec
     name: Połaniec
     code: "2612053"
-  - slug: osiek
+  - slug: osiek-swietokrzyskie
     name: Osiek
     code: "2612043"
   - slug: loniow
@@ -924,7 +930,7 @@
   - slug: lodzki_wschodni
     name: łódzki wschodni
     code: "1006"
-  - slug: tomaszowski
+  - slug: tomaszowski-lodzkie
     name: tomaszowski
     code: "1016"
   - slug: opoczynski

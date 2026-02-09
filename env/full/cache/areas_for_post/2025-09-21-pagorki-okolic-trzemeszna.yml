@@ -16,7 +16,7 @@
     distance_meters: 15704.57
     distance_km: 15.705
     distance_percent: 38.6728
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
     distance_meters: 6003.91
@@ -102,7 +102,7 @@
   - slug: trzemeszno
     name: Trzemeszno
     code: "3003093"
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
   touched_counties:

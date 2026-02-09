@@ -4,7 +4,7 @@
   total_distance_km: 11.698
   points_count: 131.0
   towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
     distance_meters: 11698.36
@@ -72,7 +72,7 @@
     distance_km: 11.698
     distance_percent: 100.0
   touched_towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
   touched_counties:
@@ -114,7 +114,7 @@
   total_distance_km: 5.158
   points_count: 78.0
   towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
     distance_meters: 5157.77
@@ -170,7 +170,7 @@
     distance_km: 5.158
     distance_percent: 100.0
   touched_towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
   touched_counties:

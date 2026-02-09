@@ -4,13 +4,13 @@
   total_distance_km: 462.315
   points_count: 591.0
   towns:
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
     distance_meters: 43667.73
     distance_km: 43.668
     distance_percent: 9.4454
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-wiejska
     name: Giżycko
     code: "2806042"
     distance_meters: 42589.11
@@ -22,7 +22,7 @@
     distance_meters: 40878.56
     distance_km: 40.879
     distance_percent: 8.8421
-  - slug: elk
+  - slug: elk-warminsko-mazurskie-wiejska
     name: Ełk
     code: "2805022"
     distance_meters: 40339.28
@@ -64,7 +64,7 @@
     distance_meters: 27134.24
     distance_km: 27.134
     distance_percent: 5.8692
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-miejsko-wiejska
     name: Biskupiec
     code: "2814023"
     distance_meters: 24328.51
@@ -76,25 +76,25 @@
     distance_meters: 23409.95
     distance_km: 23.41
     distance_percent: 5.0636
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
     distance_meters: 19757.2
     distance_km: 19.757
     distance_percent: 4.2735
-  - slug: suwalki
+  - slug: suwalki-podlaskie-miejska
     name: Suwałki
     code: "2063011"
     distance_meters: 16490.36
     distance_km: 16.49
     distance_percent: 3.5669
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
     distance_meters: 9064.49
     distance_km: 9.064
     distance_percent: 1.9607
-  - slug: elk
+  - slug: elk-warminsko-mazurskie-miejska
     name: Ełk
     code: "2805011"
     distance_meters: 8746.19
@@ -106,19 +106,19 @@
     distance_meters: 6805.04
     distance_km: 6.805
     distance_percent: 1.4719
-  - slug: suwalki
+  - slug: suwalki-podlaskie-wiejska
     name: Suwałki
     code: "2012072"
     distance_meters: 6563.48
     distance_km: 6.563
     distance_percent: 1.4197
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-miejska
     name: Giżycko
     code: "2806011"
     distance_meters: 6113.88
     distance_km: 6.114
     distance_percent: 1.3224
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-miejska
     name: Kętrzyn
     code: "2808011"
     distance_meters: 6082.99
@@ -282,16 +282,16 @@
     distance_km: 462.315
     distance_percent: 100.0
   touched_towns:
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
   - slug: barczewo
     name: Barczewo
     code: "2814013"
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-miejsko-wiejska
     name: Biskupiec
     code: "2814023"
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
   - slug: bisztynek
@@ -300,24 +300,33 @@
   - slug: korsze
     name: Korsze
     code: "2808043"
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
+  - slug: ketrzyn-warminsko-mazurskie-miejska
+    name: Kętrzyn
+    code: "2808011"
   - slug: ryn
     name: Ryn
     code: "2806083"
-  - slug: gizycko
+  - slug: gizycko-warminsko-mazurskie-wiejska
     name: Giżycko
     code: "2806042"
+  - slug: gizycko-warminsko-mazurskie-miejska
+    name: Giżycko
+    code: "2806011"
   - slug: wydminy
     name: Wydminy
     code: "2806102"
   - slug: stare_juchy
     name: Stare Juchy
     code: "2805052"
-  - slug: elk
+  - slug: elk-warminsko-mazurskie-wiejska
     name: Ełk
     code: "2805022"
+  - slug: elk-warminsko-mazurskie-miejska
+    name: Ełk
+    code: "2805011"
   - slug: olecko
     name: Olecko
     code: "2813043"
@@ -327,9 +336,12 @@
   - slug: raczki
     name: Raczki
     code: "2012052"
-  - slug: suwalki
+  - slug: suwalki-podlaskie-wiejska
     name: Suwałki
     code: "2012072"
+  - slug: suwalki-podlaskie-miejska
+    name: Suwałki
+    code: "2063011"
   touched_counties:
   - slug: olsztynski
     name: olsztyński

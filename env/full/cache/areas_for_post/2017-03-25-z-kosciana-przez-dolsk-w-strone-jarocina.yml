@@ -10,7 +10,7 @@
     distance_meters: 17562.05
     distance_km: 17.562
     distance_percent: 25.7213
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
     distance_meters: 13633.37
@@ -40,7 +40,7 @@
     distance_meters: 2614.36
     distance_km: 2.614
     distance_percent: 3.829
-  - slug: koscian
+  - slug: koscian-wielkopolskie-miejska
     name: Kościan
     code: "3011011"
     distance_meters: 2282.24
@@ -65,7 +65,7 @@
     distance_meters: 21932.92
     distance_km: 21.933
     distance_percent: 32.1229
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 13294.22
@@ -144,9 +144,12 @@
     distance_km: 68.278
     distance_percent: 100.0
   touched_towns:
-  - slug: koscian
+  - slug: koscian-wielkopolskie-miejska
     name: Kościan
     code: "3011011"
+  - slug: koscian-wielkopolskie-wiejska
+    name: Kościan
+    code: "3011032"
   - slug: krzywin
     name: Krzywiń
     code: "3011043"
@@ -175,7 +178,7 @@
   - slug: sremski
     name: śremski
     code: "3026"
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   touched_voivodeships:

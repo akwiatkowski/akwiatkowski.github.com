@@ -16,7 +16,7 @@
     distance_meters: 18796.94
     distance_km: 18.797
     distance_percent: 24.1042
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-wiejska
     name: Złotów
     code: "3031082"
     distance_meters: 14615.66
@@ -40,7 +40,7 @@
     distance_meters: 5104.55
     distance_km: 5.105
     distance_percent: 6.5458
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-miejska
     name: Złotów
     code: "3031011"
     distance_meters: 1908.23
@@ -144,9 +144,12 @@
     distance_km: 77.982
     distance_percent: 100.0
   touched_towns:
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-wiejska
     name: Złotów
     code: "3031082"
+  - slug: zlotow-wielkopolskie-miejska
+    name: Złotów
+    code: "3031011"
   - slug: lobzenica
     name: Łobżenica
     code: "3019043"

@@ -4,7 +4,7 @@
   total_distance_km: 11.565
   points_count: 140.0
   towns:
-  - slug: dzierzoniow
+  - slug: dzierzoniow-dolnoslaskie-wiejska
     name: Dzierżoniów
     code: "0202052"
     distance_meters: 6128.49
@@ -72,7 +72,7 @@
     distance_km: 11.565
     distance_percent: 100.0
   touched_towns:
-  - slug: dzierzoniow
+  - slug: dzierzoniow-dolnoslaskie-wiejska
     name: Dzierżoniów
     code: "0202052"
   - slug: bielawa

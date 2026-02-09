@@ -12,9 +12,7 @@ class Tremolite::ImageResizer
   PROCESSED_IMAGES_PATH         = File.join(["images", "processed"])
   PROCESSED_IMAGES_PATH_FOR_WEB = File.join(["/", "images", "processed"])
 
-  def initialize(@blog : Tremolite::Blog)
-    @data_path = @blog.data_path.as(String)
-    @output_path = @blog.output_path.as(String)
+  def initialize(@data_path : String, @output_path : String)
     @processed_path = File.join([@output_path, PROCESSED_IMAGES_PATH])
     @flags = "-interlace Plane"
     # -strip - removed strip because it messed with color space, exif is ok

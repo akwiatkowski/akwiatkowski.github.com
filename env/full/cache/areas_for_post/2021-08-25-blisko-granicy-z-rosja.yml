@@ -4,13 +4,13 @@
   total_distance_km: 165.458
   points_count: 558.0
   towns:
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-wiejska
     name: Bartoszyce
     code: "2801032"
     distance_meters: 36032.27
     distance_km: 36.032
     distance_percent: 21.7772
-  - slug: gorowo_ilaweckie
+  - slug: gorowo_ilaweckie-warminsko-mazurskie-wiejska
     name: Górowo Iławeckie
     code: "2801052"
     distance_meters: 25768.13
@@ -22,7 +22,7 @@
     distance_meters: 21097.74
     distance_km: 21.098
     distance_percent: 12.7511
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
     distance_meters: 20200.53
@@ -40,7 +40,7 @@
     distance_meters: 17697.9
     distance_km: 17.698
     distance_percent: 10.6963
-  - slug: lidzbark_warminski
+  - slug: lidzbark_warminski-warminsko-mazurskie-wiejska
     name: Lidzbark Warmiński
     code: "2809032"
     distance_meters: 15406.06
@@ -52,25 +52,25 @@
     distance_meters: 10778.27
     distance_km: 10.778
     distance_percent: 6.5142
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-miejska
     name: Kętrzyn
     code: "2808011"
     distance_meters: 6103.13
     distance_km: 6.103
     distance_percent: 3.6886
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-miejska
     name: Bartoszyce
     code: "2801011"
     distance_meters: 6020.98
     distance_km: 6.021
     distance_percent: 3.639
-  - slug: lidzbark_warminski
+  - slug: lidzbark_warminski-warminsko-mazurskie-miejska
     name: Lidzbark Warmiński
     code: "2809011"
     distance_meters: 5714.48
     distance_km: 5.714
     distance_percent: 3.4537
-  - slug: gorowo_ilaweckie
+  - slug: gorowo_ilaweckie-warminsko-mazurskie-miejska
     name: Górowo Iławeckie
     code: "2801021"
     distance_meters: 3544.98
@@ -174,21 +174,33 @@
     distance_km: 165.458
     distance_percent: 100.0
   touched_towns:
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
+  - slug: ketrzyn-warminsko-mazurskie-miejska
+    name: Kętrzyn
+    code: "2808011"
   - slug: korsze
     name: Korsze
     code: "2808043"
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-wiejska
     name: Bartoszyce
     code: "2801032"
-  - slug: gorowo_ilaweckie
+  - slug: bartoszyce-warminsko-mazurskie-miejska
+    name: Bartoszyce
+    code: "2801011"
+  - slug: gorowo_ilaweckie-warminsko-mazurskie-wiejska
     name: Górowo Iławeckie
     code: "2801052"
-  - slug: lidzbark_warminski
+  - slug: gorowo_ilaweckie-warminsko-mazurskie-miejska
+    name: Górowo Iławeckie
+    code: "2801021"
+  - slug: lidzbark_warminski-warminsko-mazurskie-wiejska
     name: Lidzbark Warmiński
     code: "2809032"
+  - slug: lidzbark_warminski-warminsko-mazurskie-miejska
+    name: Lidzbark Warmiński
+    code: "2809011"
   - slug: kiwity
     name: Kiwity
     code: "2809022"

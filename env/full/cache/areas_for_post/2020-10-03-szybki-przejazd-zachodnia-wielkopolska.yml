@@ -40,7 +40,7 @@
     distance_meters: 9159.84
     distance_km: 9.16
     distance_percent: 10.3654
-  - slug: leszno
+  - slug: leszno-wielkopolskie
     name: Leszno
     code: "3063011"
     distance_meters: 1763.12
@@ -186,7 +186,7 @@
     distance_km: 88.37
     distance_percent: 100.0
   touched_towns:
-  - slug: leszno
+  - slug: leszno-wielkopolskie
     name: Leszno
     code: "3063011"
   - slug: swieciechowa

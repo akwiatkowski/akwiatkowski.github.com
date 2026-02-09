@@ -10,13 +10,13 @@
     distance_meters: 17923.48
     distance_km: 17.923
     distance_percent: 22.6053
-  - slug: maszewo
+  - slug: maszewo-zachodniopomorskie
     name: Maszewo
     code: "3204033"
     distance_meters: 15522.86
     distance_km: 15.523
     distance_percent: 19.5776
-  - slug: dobra
+  - slug: dobra-zachodniopomorskie
     name: Dobra
     code: "3218013"
     distance_meters: 13307.57
@@ -34,13 +34,13 @@
     distance_meters: 7813.51
     distance_km: 7.814
     distance_percent: 9.8545
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-wiejska
     name: Stargard
     code: "3214102"
     distance_meters: 7275.15
     distance_km: 7.275
     distance_percent: 9.1755
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-miejska
     name: Stargard
     code: "3214011"
     distance_meters: 4420.49
@@ -138,18 +138,21 @@
   - slug: radowo_male
     name: Radowo Małe
     code: "3218032"
-  - slug: dobra
+  - slug: dobra-zachodniopomorskie
     name: Dobra
     code: "3218013"
-  - slug: maszewo
+  - slug: maszewo-zachodniopomorskie
     name: Maszewo
     code: "3204033"
   - slug: stara_dabrowa
     name: Stara Dąbrowa
     code: "3214092"
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-wiejska
     name: Stargard
     code: "3214102"
+  - slug: stargard-zachodniopomorskie-miejska
+    name: Stargard
+    code: "3214011"
   touched_counties:
   - slug: lobeski
     name: łobeski

@@ -10,7 +10,7 @@
     distance_meters: 12821.49
     distance_km: 12.821
     distance_percent: 16.4066
-  - slug: golub-dobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-wiejska
     name: Golub-Dobrzyń
     code: "0405032"
     distance_meters: 11849.56
@@ -34,7 +34,7 @@
     distance_meters: 9398.84
     distance_km: 9.399
     distance_percent: 12.0269
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
     distance_meters: 6135.92
@@ -46,19 +46,19 @@
     distance_meters: 5773.48
     distance_km: 5.773
     distance_percent: 7.3879
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-miejska
     name: Brodnica
     code: "0402011"
     distance_meters: 5703.3
     distance_km: 5.703
     distance_percent: 7.298
-  - slug: golub-dobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-miejska
     name: Golub-Dobrzyń
     code: "0405011"
     distance_meters: 5262.46
     distance_km: 5.262
     distance_percent: 6.7339
-  - slug: osiek
+  - slug: osiek-kujawsko-pomorskie
     name: Osiek
     code: 0402082
     distance_meters: 4211.2
@@ -177,21 +177,27 @@
   - slug: ciechocin
     name: Ciechocin
     code: "0405022"
-  - slug: golub-dobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-wiejska
     name: Golub-Dobrzyń
     code: "0405032"
+  - slug: golub-dobrzyn-kujawsko-pomorskie-miejska
+    name: Golub-Dobrzyń
+    code: "0405011"
   - slug: radomin
     name: Radomin
     code: "0405052"
   - slug: wapielsk
     name: Wąpielsk
     code: "0412062"
-  - slug: osiek
+  - slug: osiek-kujawsko-pomorskie
     name: Osiek
     code: 0402082
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
+  - slug: brodnica-kujawsko-pomorskie-miejska
+    name: Brodnica
+    code: "0402011"
   touched_counties:
   - slug: torunski
     name: toruński

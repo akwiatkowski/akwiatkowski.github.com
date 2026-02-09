@@ -35,7 +35,7 @@
     distance_km: 5.046
     distance_percent: 8.9152
   counties:
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
     distance_meters: 30930.75
@@ -151,7 +151,7 @@
   - slug: nowotomyski
     name: nowotomyski
     code: "3015"
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
   - slug: poznanski

@@ -6,25 +6,9 @@ class Tremolite::Post
 
   @content_html : String?
 
-  def initialize(@blog : Tremolite::Blog, @path : String)
-    @content_string = String.new
-    @header = YAML::Any.new(nil)
-
-    @slug = (File.basename(@path)).gsub(/\..{1,10}$/, "").as(String)
-    @title = String.new
-    @subtitle = String.new
-    @author = String.new
-    @category = String.new
-    @time = Time::UNIX_EPOCH.as(Time)
-
-    @url = String.new
-
-    custom_initialize
-  end
-
-  def custom_initialize
-    # customize
-  end
+  # Late-bound dependencies (set after construction)
+  property post_collection : Tremolite::PostCollection?
+  property markdown_wrapper : Tremolite::MarkdownWrapper?
 
   getter :content_string, :header
   getter :url
@@ -41,7 +25,11 @@ class Tremolite::Post
   end
 
   def public_image_url
-    @blog.url_to_output_path(image_url)
+    op = File.join([@output_path, image_url])
+    if File.extname(op) == ""
+      op = File.join(op, "index.html")
+    end
+    op
   end
 
   def date
@@ -99,17 +87,10 @@ class Tremolite::Post
   # NOTE you must execute this if you want to have functions processed
   def content_html : String
     if @content_html.nil?
-      @content_html = @blog.markdown_wrapper.to_html(string: @content_string, post: self)
+      @content_html = @markdown_wrapper.not_nil!.to_html(string: @content_string, post: self)
     end
 
     return @content_html.not_nil!
-  end
-
-  def process
-    process_header
-    process_paths
-
-    custom_process_header
   end
 
   def process_header
@@ -127,10 +108,6 @@ class Tremolite::Post
       Log.fatal { "#{@slug.to_s} time error #{@header["date"].to_s}" }
       raise e
     end
-  end
-
-  def custom_process_header
-    # customize
   end
 
   def process_paths
