@@ -214,7 +214,7 @@ Current state for area show pages (and likely other pages):
 
 ## Test Status
 
-**516 Crystal tests passing, 161 E2E tests passing**
+**523 Crystal tests passing, 161 E2E tests passing**
 
 ### E2E Tests (Playwright)
 
