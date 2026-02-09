@@ -41,7 +41,9 @@ class Tremolite::DataManager
       posts_ext: @blog.posts_ext
     )
     @exif_db = ExifDb.new(
-      blog: @blog
+      cache_path: @blog.cache_path,
+      data_path: @blog.data_path,
+      photo_tags: @photo_tags.not_nil!
     )
     @photo_map_dictionary = PhotoMapDictionary.new(
       output_path: @blog.output_path

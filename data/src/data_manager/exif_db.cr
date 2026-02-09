@@ -4,10 +4,10 @@ class ExifDb
   BATCH_SAVE_COUNT = 500
 
   def initialize(
-    @blog : Tremolite::Blog,
+    @cache_path : String,
+    @data_path : String,
+    @photo_tags : Array(PhotoTagEntity),
   )
-    @cache_path = @blog.cache_path.as(String)
-
     # Post#slug
     # all exifs will be stored within PhotoEntity
     @exif_entities = Hash(String, Array(ExifEntity)).new
@@ -98,7 +98,7 @@ class ExifDb
 
     not_published_filenames.each do |uploaded_path|
       draft_photo_entity = PhotoEntity.new(
-        photo_tags: @blog.data_manager.photo_tags.not_nil!,
+        photo_tags: @photo_tags,
         post: post,
         image_filename: uploaded_path,
         param_string: "",
@@ -109,17 +109,6 @@ class ExifDb
 
     # mark as loaded
     @loaded_posts[post.slug] = true
-  end
-
-  # this should load all existing caches and initialize photo_entities
-  # for not it uses Post#all_uploaded_photo_entities which is not best idea
-  def load_photo_entities
-    @blog.post_collection.posts.each do |post|
-      # TODO is it possible to move exif generate/load from function to here?
-      # load_or_initialize_exif_for_post(post.slug)
-      post.all_uploaded_photo_entities
-    end
-    @photo_entities_loaded = true
   end
 
   def save_cache(post_slug : String)
@@ -183,7 +172,7 @@ class ExifDb
     if selected.size == 0
       exif = ExifProcessor.process(
         photo_entity: photo_entity,
-        path: @blog.data_path.as(String)
+        path: @data_path
       )
 
       append_to_exifs(photo_entity.post_slug, exif)
