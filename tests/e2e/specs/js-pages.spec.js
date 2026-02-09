@@ -448,13 +448,110 @@ test.describe('JS-heavy pages', () => {
 
   });
 
-  test.describe('/exif_statystyki.html - EXIF stats', () => {
+  test.describe('/statystyki_exif.html - EXIF stats', () => {
+
+    // This page fetches /photos.json (~20MB) so needs longer timeouts
+    const LOAD_TIMEOUT = 15000;
 
     test('loads without JS errors', async ({ pageWithErrorTracking }) => {
       const page = pageWithErrorTracking;
-      await page.goto('/exif_statystyki.html');
-      await page.waitForTimeout(1000);
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
       await expectNoJsErrors(page);
+    });
+
+    test('has page header', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+
+      const title = page.locator('.exif-page header h1');
+      await expect(title).toBeVisible();
+      const text = await title.textContent();
+      expect(text).toContain('Statystyka');
+    });
+
+    test('has site navigation and footer', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+
+      const nav = page.locator('nav.site-nav');
+      await expect(nav).toBeVisible();
+
+      const footer = page.locator('footer.site-footer');
+      await expect(footer).toBeVisible();
+    });
+
+    test('stat cards populate with values after loading', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
+
+      // Total photos should be a number > 0
+      const totalPhotos = await page.locator('#totalPhotos').textContent();
+      expect(parseInt(totalPhotos), 'Total photos should be > 0').toBeGreaterThan(0);
+
+      // Top camera should not be the initial dash
+      const topCamera = await page.locator('#topCamera').textContent();
+      expect(topCamera).not.toBe('\u2014'); // em dash
+      expect(topCamera.length, 'Camera name should have content').toBeGreaterThan(0);
+
+      // Top lens should not be the initial dash
+      const topLens = await page.locator('#topLens').textContent();
+      expect(topLens).not.toBe('\u2014');
+    });
+
+    test('filter controls are present', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+
+      await expect(page.locator('#yearFilter')).toBeVisible();
+      await expect(page.locator('#cameraFilter')).toBeVisible();
+      await expect(page.locator('#lensFilter')).toBeVisible();
+    });
+
+    test('filter dropdowns populate after loading', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
+
+      // Year filter should have more than just "Wszystkie"
+      const yearOptions = page.locator('#yearFilter option');
+      const yearCount = await yearOptions.count();
+      expect(yearCount, 'Year filter should have options').toBeGreaterThan(1);
+
+      // Camera filter should have options
+      const cameraOptions = page.locator('#cameraFilter option');
+      const cameraCount = await cameraOptions.count();
+      expect(cameraCount, 'Camera filter should have options').toBeGreaterThan(1);
+    });
+
+    test('charts render as canvas elements', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
+
+      // Check key charts have been initialized (Chart.js adds dimensions to canvas)
+      const yearChart = page.locator('#yearChart');
+      const width = await yearChart.getAttribute('width');
+      expect(parseInt(width), 'Year chart should have width set by Chart.js').toBeGreaterThan(0);
+
+      const focalChart = page.locator('#focalChart');
+      const focalWidth = await focalChart.getAttribute('width');
+      expect(parseInt(focalWidth), 'Focal chart should have width').toBeGreaterThan(0);
+    });
+
+    test('has all section headers', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+
+      const sections = ['Zdjęcia w czasie', 'Sprzęt fotograficzny', 'Ogniskowa',
+                         'Ustawienia ekspozycji', 'Wzorce fotografowania', 'Teren i tematyka'];
+      for (const section of sections) {
+        const header = page.locator('.section-title', { hasText: section });
+        await expect(header, `Section "${section}" should exist`).toBeVisible();
+      }
+    });
+
+    test('progress indicator hides after loading', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
+
+      // Progress container should be hidden after data loads
+      const progress = page.locator('#progressContainer');
+      await expect(progress).not.toBeVisible();
     });
 
   });

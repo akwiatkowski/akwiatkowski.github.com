@@ -1166,4 +1166,51 @@ Make PhotoEntity testable, remove dead code, fix duplicate declarations, add mod
 
 ---
 
+## Phase 25 Batch 2: Code Audit Fixes ✅ COMPLETE
+
+**Commit `a0d9e943`** (2026-02-09)
+
+### Bugs Fixed
+- **25a.** Deleted `@is_published` field + `mark_as_published!` entirely from PhotoEntity and ExifDb (dead field, setter wrote wrong ivar)
+- **25b.** Fixed YearStatReportView hike opacity — was checking `bicycle_opacity` instead of `hike_opacity`
+- **25c.** Fixed LandEntity YAML key — `y["country"]` → `y["code"]`
+
+### Misleading Names Renamed
+- **25d.** `haversine_distance` → `euclidean_distance_approx` (was Pythagorean, not Haversine)
+- **25e.** `externally_propelled?` — fixed implicit nil return to `train? || car? || bus?`
+- **25f.** `IMAGE_FORMAT_M43 = :m34` → `:m43` (symbol typo)
+- **25g.** `content_html_missing_reference_links` → `content_html_reference_pattern_count`
+
+### Dead Code Deleted
+- `check_missing_referenced_links` from validator.cr (30 lines)
+- Commented-out `title` method from accessors.cr
+- Workaround comment from photos_json_generator.cr
+
+---
+
+## Phase 26: Remove Portfolio ✅ COMPLETE
+
+**Commit `a0d9e943`** (2026-02-09)
+
+Deleted all portfolio code:
+- **6 files deleted:** portfolio_entity.cr, portfolio_view.cr, 3 templates, portfolio.yml
+- **11 files modified:** removed requires, data manager fields, render context accessor, registry entry, photo tag, config entries, JS weight, spec
+
+---
+
+## Phase 28: Rename Post Slug Arrays + Make Non-Nilable ✅ COMPLETE
+
+**Commit `a0d9e943`** (2026-02-09)
+
+Renamed Post instance variables to clarify they hold slug strings:
+- `@tags` → `@tag_slugs`, `@towns` → `@town_slugs`, `@lands` → `@land_slugs`, `@foreign` → `@foreign_slugs`
+
+Made all four non-nilable with explicit `Array(String)` declarations and defaults, removing ~40 `.not_nil!` calls across 18 files.
+
+### Test Results
+
+**485 Crystal tests passing** (486 → 485, -1 from removed PortfolioView test), 161 E2E tests passing
+
+---
+
 *Last updated: 2026-02-09*

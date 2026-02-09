@@ -25,12 +25,6 @@ describe DynamicView do
     end
   end
 
-  describe DynamicView::ExifStatsView do
-    it "exists" do
-      DynamicView::ExifStatsView.should_not be_nil
-    end
-  end
-
   describe DynamicView::TimelinePhotoView do
     it "exists" do
       DynamicView::TimelinePhotoView.should_not be_nil

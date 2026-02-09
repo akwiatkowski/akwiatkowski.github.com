@@ -1,11 +1,11 @@
 # Current Work
 
-## Status: Phase 25 - Code Audit Fixes (In Progress)
+## Status: Cleanup complete (Phases 25, 26, 28 done)
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8-9, 11-24, 25 Batch 1, Photo Planner)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8-9, 11-28, Photo Planner)
 
 ---
 
@@ -129,85 +129,15 @@ Summary page (`/zestawienie.html`) deleted. No longer needed.
 
 ---
 
-## Phase 25: Code Audit Fixes (Batch 2)
+## Phase 25: Code Audit Fixes ✅ COMPLETE (commit `a0d9e943`)
 
-**Goal:** Fix bugs, rename misleading methods, remove dead code found during 2026-02-09 audit.
-
-### Bugs (must fix)
-
-#### 25a. Delete `is_published` field + `mark_as_published!` entirely
-**File:** `data/src/models/photo_entity.cr:199-201`, `data/src/data_manager/exif_db.cr:37`
-
-`mark_as_published!` sets wrong ivar (`@published` instead of `@is_published`), but **nothing reads `is_published` at all**. The photos JSON generator explicitly works around it: `# photo_entity.is_published behaves strange`. Photos are classified by collection membership in ExifDb, not by flag.
-
-**Fix:** Delete `mark_as_published!`, delete `@is_published` field/getter/constructor param, delete the call in `exif_db.cr:37`, update `photos_json_generator.cr` to remove the workaround comment.
-
-#### 25b. YearStatReportView hike opacity checks bicycle value
-**File:** `data/src/views/dynamic_view/year_stat_report_view.cr:152-153`
-```crystal
-hike_opacity = OPACITY_MAX if bicycle_opacity > OPACITY_MAX  # BUG: should check hike_opacity
-hike_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN  # BUG: should check hike_opacity
-```
-
-#### 25c. `LandEntity` reads wrong YAML key for `@code`
-**File:** `data/src/models/land_entity.cr:32` — reads `y["country"]` into `@code`. Field is unused so low impact but still wrong.
-
-### Misleading Names (should rename)
-
-#### 25d. `haversine_distance` → `euclidean_distance_approx`
-**File:** `data/src/services/area_photo_selector.cr:100-104` — implements Pythagorean distance, not Haversine.
-
-#### 25e. `externally_propelled?` — implicit nil return
-**File:** `data/src/post/accessors.cr:77-79` — fix to `train? || car? || bus?`
-
-#### 25f. `IMAGE_FORMAT_M43 = :m34` symbol typo
-**File:** `data/src/post/photos.cr:5` — symbol value `:m34` doesn't match constant name `M43`. No posts use `image_format` header. Fix to `:m43`.
-
-#### 25g. `content_html_missing_reference_links` — misleading name + divide-by-2
-**File:** `data/src/post/helpers.cr:14-15` — rename to `content_html_reference_pattern_count`.
-
-### Dead Code (delete)
-
-- [x] ~~Unreachable code in PortfolioView (lines 81-99)~~ Done (uncommitted)
-- [ ] Commented-out `title` method in `accessors.cr:102-106`
-- [x] ~~`image_format_m43?` — zero callers~~ Done (uncommitted)
-- [x] ~~`VoivodeshipEntity#belongs_to_post?` + `#validate` — zero callers~~ Done (uncommitted)
-- [ ] `validator.cr:117-146` private `check_missing_referenced_links` — dead duplicate of `tremolite/validator.cr`
-
-### Low Priority
-
-- **Gallery index views** — `# TODO this can crash if there is 0 photos` in 6+ views — add guard clause
-- **`data_manager.cr:140-144`** — regex scan on EXIF path can crash if filename doesn't match
-- **`coord_set.cr:89,102`** — uses `set.includes?` should be `@set.includes?`
+All bugs fixed, misleading methods renamed, dead code deleted. See PLAN_DONE.md.
 
 ---
 
-## Phase 26: Remove Portfolio
+## Phase 26: Remove Portfolio ✅ COMPLETE (commit `a0d9e943`)
 
-**Goal:** Remove portfolio page entirely. Will be regenerated later.
-
-**Delete files (6):**
-- `data/src/models/portfolio_entity.cr`
-- `data/src/views/dynamic_view/portfolio_view.cr`
-- `data/layout/portfolio/page.html`
-- `data/layout/portfolio/indicator.html`
-- `data/layout/portfolio/section.html`
-- `data/config/portfolio.yml`
-
-**Modify files (9):**
-- `data/src/models/all.cr` — remove `require "./portfolio_entity"`
-- `data/src/data_manager.cr` — remove `@portfolios`, `getter :portfolios`, `load_portfolio` method
-- `data/src/views/dynamic_view/all.cr` — remove `require "./portfolio_view"`
-- `data/src/render_context.cr` — remove `portfolios` accessor
-- `data/src/view_registry/views/photo_views.cr` — remove portfolio registration + "portfolio" from `selected_tags`
-- `data/src/models/photo_entity.cr` — remove `TAG_PORTFOLIO` constant + from `TAG_GALLERIES`
-- `data/config/photo_tags.yml` — remove portfolio tag entry
-- `data/config/config.yml` — remove `gallery.portfolio.*` and `portfolio.title` entries
-- `spec/views/dynamic_view_spec.cr` — remove PortfolioView test
-
-**Also clean up:**
-- `data/assets/js/self/timeline.js` — remove `'portfolio': 15` from phase mapping
-- `data/src/post_function_parser.cr` — remove `# used for creating portfolio page` comment
+All portfolio code deleted (6 files, 11 modifications). See PLAN_DONE.md.
 
 ---
 
@@ -236,67 +166,11 @@ hike_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN  # BUG: should check
 
 ---
 
-## Phase 28: Rename Post Slug Arrays + Make Non-Nilable
+## Phase 28: Rename Post Slug Arrays + Make Non-Nilable ✅ COMPLETE (commit `a0d9e943`)
 
-**Goal:** Rename `@tags`/`@towns`/`@lands`/`@foreign` to `@tag_slugs`/`@town_slugs`/`@land_slugs`/`@foreign_slugs` to clarify they hold slug strings (not entity objects). Simultaneously make them non-nilable and remove ~50 `.not_nil!` calls.
-
-**Root cause of `.not_nil!`:** These fields are not declared in the base `Tremolite::Post` class (`tremolite/posts/post.cr`). They're assigned in `tags_initialize`/`towns_initialize`/`lands_initialize` methods. Crystal infers them as `Array(String)?` (nilable).
-
-**Naming rationale:** `@tags` is ambiguous — could be `Array(TagEntity)` or `Array(String)`. `@tag_slugs` makes it immediately clear these are string identifiers. Same for `@towns` vs `@town_slugs`. Already used: `post.foreign_slugs` method, `post.area_slugs()` method.
-
-**Fix (two changes in one pass):**
-
-1. Add explicit non-nilable declarations in `initializers.cr`:
-```crystal
-@tag_slugs : Array(String) = Array(String).new
-@town_slugs : Array(String) = Array(String).new
-@land_slugs : Array(String) = Array(String).new
-@foreign_slugs : Array(String) = Array(String).new
-```
-
-2. Rename all references and remove `.not_nil!` calls.
-
-### Reference counts (50 total, 19 files)
-
-| Field | Old Name | New Name | Refs | Files |
-|-------|----------|----------|------|-------|
-| tags | `@tags` / `.tags` | `@tag_slugs` / `.tag_slugs` | 19 | 10 |
-| towns | `@towns` / `.towns` | `@town_slugs` / `.town_slugs` | 16 | 9 |
-| lands | `@lands` / `.lands` | `@land_slugs` / `.land_slugs` | 8 | 5 |
-| foreign | `@foreign` / `.foreign` | `@foreign_slugs` / `.foreign_slugs` | 7 | 3 |
-
-### Files to modify
-
-**Post internals (3 files, 26 refs):**
-- `post/initializers.cr` — declarations, `_initialize` methods, `_from_headers` methods, `lands_from_towns` (11 refs)
-- `post/accessors.cr` — getter declaration, all `self.tags.not_nil!` calls in predicates (10 refs)
-- `post/areas.cr` — `@towns.not_nil!`, `@lands.not_nil!`, `@foreign.not_nil!` in area_slugs methods (5 refs)
-
-**Models (3 files, 3 refs):**
-- `models/tag_entity.cr:35` — `post.tags.not_nil!` → `post.tag_slugs`
-- `models/town_entity.cr:94` — `post.towns.not_nil!` → `post.town_slugs`
-- `models/land_entity.cr:48` — `post.lands.not_nil!` → `post.land_slugs`
-
-**Core (2 files, 6 refs):**
-- `data_manager.cr` — `post.towns.nil?`, `post.towns.not_nil!` (4 refs)
-- `validator.cr` — `post.towns.not_nil!` (2 refs)
-
-**Views (8 files, 12 refs):**
-- `views/area_show_view.cr:109` — `post.tags.to_json` → `post.tag_slugs.to_json`
-- `views/post_view/article_view.cr:91,143-144` — `@post.tags`, `@post.foreign_entities/slugs`
-- `views/special_view/e2e_json_generator.cr:40` — `post.tags.to_json`
-- `views/special_view/home_page_json_generator.cr:70` — `post.tags.to_json`
-- `views/dynamic_view/exif_stats_view.cr:38` — `post.tags.not_nil!`
-- `views/dynamic_view/towns_history_view.cr:59,78` — `post.towns`
-- `views/dynamic_view/towns_timeline_view.cr:169` — `post.towns.not_nil!`
-- `views/new_home_page_view.cr:30,107,114` — `p.tags.try(&.includes?(...))`
-
-**Other (1 file):**
-- `render_context.cr:223` — `post.foreign_slugs` (already uses correct name)
-
-**Note:** `@foreign` already has `foreign_slugs` method wrapper in `areas.cr`. After rename, the wrapper becomes a simple getter.
-
-**Risk:** Very low — Crystal compiler catches all missed renames at compile time. 486 Crystal tests + 161 E2E tests validate behavior.
+Renamed `@tags`→`@tag_slugs`, `@towns`→`@town_slugs`, `@lands`→`@land_slugs`, `@foreign`→`@foreign_slugs`.
+Made all four non-nilable with explicit declarations, removing ~40 `.not_nil!` calls across 18 files.
+See PLAN_DONE.md.
 
 ---
 
@@ -346,7 +220,7 @@ Current state for area show pages (and likely other pages):
 
 ## Test Status
 
-**486 Crystal tests passing, 161 E2E tests passing**
+**485 Crystal tests passing, 161 E2E tests passing**
 
 ### E2E Tests (Playwright)
 

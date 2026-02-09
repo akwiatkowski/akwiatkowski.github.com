@@ -1,5 +1,4 @@
 require "./burnout_stat_view"
-require "./exif_stats_view"
 require "./timeline_photo_view"
 require "./towns_history_view"
 require "./towns_timeline_view"

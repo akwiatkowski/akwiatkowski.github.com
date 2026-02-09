@@ -15,7 +15,7 @@
 # Priority: 30-39 (after entity views, before stats views)
 #
 # View classes used: GalleryView::*,
-# DynamicView::ExifStatsView, DebugView::TagStatsView,
+# DebugView::TagStatsView,
 # DynamicView::TimelinePhotoView, PhotoMap::*
 # (loaded via renderer.cr)
 #
@@ -43,7 +43,6 @@ def register_photo_views(r : ViewRegistry)
   #
   # Also renders:
   # - Gallery index page (/galeria.html)
-  # - EXIF stats pages (/exif_stats.html and by-tag variants)
   # - Gallery stats (debug tag stats, timeline photo)
   #
   # Dependencies: [:exifs]
@@ -209,11 +208,7 @@ def register_photo_views(r : ViewRegistry)
     ctx.write_output(DebugView::TagStatsView.new(context: ctx))
     ctx.write_output(DynamicView::TimelinePhotoView.new(context: ctx))
 
-    # === EXIF stats ===
-    ctx.write_output(DynamicView::ExifStatsView.new(context: ctx))
-    ["bicycle", "hike", "photo", "train"].each do |tag|
-      ctx.write_output(DynamicView::ExifStatsView.new(context: ctx, by_tag: tag))
-    end
+    # EXIF stats moved to StaticView::JsExifView at /statystyki_exif.html (static_views.cr)
   end
 
   # ============================================

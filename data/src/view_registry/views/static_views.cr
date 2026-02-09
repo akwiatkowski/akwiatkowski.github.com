@@ -12,7 +12,7 @@
 # 4. Trip ideas page - /pomysly_tras.html (priority: 93)
 # 5. JS Timeline page - /linia_czasu.html (priority: 94)
 # 6. Photo map page - /mapa_zdjec.html (priority: 95)
-# 7. JS Exif Stats page - /exif_statystyki.html (priority: 96)
+# 7. JS Exif Stats page - /statystyki_exif.html (priority: 96)
 # 8. Photo planner page - /pomysly_dla_zdjec.html (priority: 97)
 #
 # Dependencies: [] (empty = always run)
@@ -149,12 +149,12 @@ def register_static_views(r : ViewRegistry)
   #
   # EXIF/camera statistics visualization.
   #
-  # URL: /exif_statystyki.html
+  # URL: /statystyki_exif.html
   # View class: StaticView::JsExifView
   #
   r.register("Static: JS exif stats", [:posts], priority: 96) do |ctx|
     ViewRegistry::Log.debug { "Rendering JS exif stats page" }
-    ctx.write_output(StaticView::JsExifView.new(context: ctx, url: "exif_statystyki.html"))
+    ctx.write_output(StaticView::JsExifView.new(context: ctx, url: "statystyki_exif.html"))
   end
 
   # ============================================

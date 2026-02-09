@@ -86,6 +86,7 @@ class NewMoreView < BaseView
       {name: "Mapa tras", url: "/mapa_tras.html", icon: "map", desc: "Interaktywna mapa z trasami wycieczek"},
       {name: "Pomysły na trasy", url: "/pomysly_tras.html", icon: "idea", desc: "Planer rowerowych wycieczek z filtrami i mapami"},
       {name: "Planer dla zdjęć", url: "/pomysly_dla_zdjec.html", icon: "camera", desc: "Generator tras optymalizujący pokrycie zdjęciami"},
+      {name: "Statystyki EXIF", url: "/statystyki_exif.html", icon: "stats", desc: "Wykresy i heatmapy z metadanych zdjęć"},
     ]
 
     String.build do |s|
