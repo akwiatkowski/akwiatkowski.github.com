@@ -573,4 +573,4 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 
 ---
 
-*Current stats: 5 tasks + 42 views = 47 registry entries, 444 tests, 161 e2e tests*
+*Current stats: 5 tasks + 42 views = 47 registry entries, 516 tests, 161 e2e tests*
