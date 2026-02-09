@@ -110,18 +110,6 @@ class RenderContext
   # Entity Data
   # ============================================
 
-  def voivodeships
-    config.voivodeships.not_nil!
-  end
-
-  def towns
-    config.towns.not_nil!
-  end
-
-  def lands
-    config.lands.not_nil!
-  end
-
   def tags
     config.tags.not_nil!
   end
@@ -157,11 +145,6 @@ class RenderContext
   def post_coord_quant_cache
     config.post_coord_quant_cache.not_nil!
   end
-
-  # PHASE6_DEPRECATED: TownPhotoCache replaced by AreaPhotoSelector
-  # def town_photo_cache
-  #   config.town_photo_cache.not_nil!
-  # end
 
   def area_data_loader
     config.area_data_loader.not_nil!
@@ -309,12 +292,6 @@ class RenderContext
 
   def prev_to(post : Tremolite::Post)
     blog.post_collection.prev_to(post)
-  end
-
-  # DEPRECATED: Use visited_town_slugs_selfpropelled or visited_town_areas_selfpropelled
-  # Towns already visited (for ideas)
-  def towns_already_visited_only_selfpropelled
-    config.towns_already_visited_only_selfpropelled
   end
 
   # Get slugs of towns visited in self-propelled trips

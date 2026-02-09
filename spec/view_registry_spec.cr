@@ -228,7 +228,6 @@ describe "setup_view_registry" do
       view_names = r.views.map(&.name)
 
       view_names.should contain("Index: towns")
-      # PHASE6_DEPRECATED: view_names.should contain("Index: lands") - uses LandEntity
     end
 
     it "registers all static views" do

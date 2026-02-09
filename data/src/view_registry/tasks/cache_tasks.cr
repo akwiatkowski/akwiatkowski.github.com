@@ -6,8 +6,7 @@
 #
 # Current tasks:
 # 1. Nav stats cache - navigation statistics (priority: 5)
-# 2. Town photo cache - closest photo for each town (priority: 6)
-# 3. Coord quant cache - post coordinate quantization (priority: 6)
+# 2. Coord quant cache - post coordinate quantization (priority: 6)
 #
 # Priority: 5-6 (after setup, before views)
 #
@@ -42,30 +41,6 @@ def register_cache_tasks(r : ViewRegistry)
     ctx.nav_stats_cache.refresh
     ViewRegistry::Log.debug { "nav_stats_cache refreshed" }
   end
-
-  # ============================================
-  # Task: Refresh Town Photo Cache
-  # ============================================
-  #
-  # Recalculates the closest/best photo for each town.
-  # This is used for town thumbnails in listings.
-  #
-  # Original code (blog.cr:225):
-  #   data_manager.town_photo_cache.not_nil!.refresh
-  #
-  # This runs when exifs_changed because photo coordinates
-  # come from EXIF data.
-  #
-  # Dependencies: [:exifs] - photo locations may have changed
-  # Priority: 6 (after nav stats, needs EXIF data loaded first)
-  #
-  # PHASE6_DEPRECATED: TownPhotoCache replaced by AreaPhotoSelector
-  # r.task("Cache: town photos", [:exifs], priority: 6) do |ctx|
-  #   ViewRegistry::Log.info { "Refreshing town_photo_cache" }
-  #
-  #   ctx.town_photo_cache.refresh
-  #   ViewRegistry::Log.debug { "town_photo_cache refreshed" }
-  # end
 
   # ============================================
   # Task: Refresh Post Coord Quant Cache

@@ -1213,4 +1213,56 @@ Made all four non-nilable with explicit `Array(String)` declarations and default
 
 ---
 
+## Phase 27: Remove Deprecated Entities (TownEntity, VoivodeshipEntity, LandEntity) ✅ COMPLETE
+
+Completed migration from deprecated entity system to unified AreaEntity.
+
+### Changes
+
+**Migrated callers:**
+- `lands_from_towns` in `post/initializers.cr` — deleted (AreaEntity meso_region associations via area cache are more accurate)
+- `closest_town` in `photo_coord_quant_cache.cr` — migrated to use AreaEntity towns from AreaDataLoader
+- `check_missing_towns` in `validator.cr` — migrated to use AreaDataLoader for town/voivodeship slugs
+
+**Removed from DataManager:**
+- `@towns`, `@town_slugs`, `@voivodeships`, `@lands` instance variables and getters
+- `load_towns`, `load_lands`, `load_town_yaml` methods
+- `towns_already_visited_only_selfpropelled` (deprecated method)
+
+**Removed from RenderContext:**
+- `voivodeships`, `towns`, `lands` proxy methods
+- `towns_already_visited_only_selfpropelled` proxy
+- PHASE6_DEPRECATED comment blocks
+
+**Deleted files:**
+- `data/src/models/town_entity.cr` (103 lines)
+- `data/src/models/voivodeship_entity.cr` (101 lines)
+- `data/src/models/land_entity.cr` (50 lines)
+- `data/src/views/model_view/lands_index_view.cr`
+
+**Cleaned up PHASE6_DEPRECATED markers in:**
+- `view_registry/views/index_views.cr` — removed commented lands index block
+- `view_registry/tasks/cache_tasks.cr` — removed commented town photo cache block
+- `views/dynamic_view/year_stat_report_view.cr` — removed commented voivodeships_stats
+- `models/coord_range.cr` — removed commented VoivodeshipEntity constructor
+- `services/nav_stats_cache.cr` — removed migration comments
+- `spec/view_registry_spec.cr` — removed deprecated comment
+- `spec/views/other_views_spec.cr` — removed deprecated comment blocks
+
+**New tests:**
+- `spec/models/area_entity_spec.cr` — 11 tests:
+  - AreaEntity lat/lon from bbox (2 tests)
+  - `PhotoCoordQuantCache.closest_town` class method (4 tests: nearest town, nil cases, skip no-bbox)
+  - `Tremolite::Validator.find_missing_towns` class method (5 tests: known/unknown slugs, self-propelled vs not, edge cases)
+
+**Refactored for testability:**
+- `closest_town` extracted to `PhotoCoordQuantCache.closest_town(lat, lon, towns)` class method — no Blog dependency
+- `check_missing_towns` extracted to `Validator.find_missing_towns(known_slugs, post_data)` class method — pure data in/out
+
+### Test Results
+
+**495 Crystal tests passing** (+11 new, -1 removed deprecated), 161 E2E tests passing
+
+---
+
 *Last updated: 2026-02-09*

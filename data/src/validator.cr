@@ -20,37 +20,37 @@ class Tremolite::Validator
 
   @[Profile(category: "validation")]
   private def check_missing_towns
-    all_towns_or_voivodeships = (@blog.data_manager.not_nil!.towns.not_nil! + @blog.data_manager.not_nil!.voivodeships.not_nil!).map(&.slug)
+    known_slugs = @blog.data_manager.not_nil!.area_data_loader.not_nil!
+      .areas.select { |a| a.area_type.town? || a.area_type.voivodeship? }
+      .map(&.slug)
     posts = @blog.post_collection.posts.sort { |a, b| b.time <=> a.time }
 
-    self_propelled_posts = posts.select { |post| post.self_propelled? }
-    not_self_propelled_posts = posts.select { |post| post.self_propelled? != true }
+    post_data = posts.map { |p| {p.town_slugs, p.self_propelled?, p.slug} }
+    results = self.class.find_missing_towns(known_slugs, post_data)
+    results[:errors].each { |msg| Log.error { msg } }
+    results[:warnings].each { |msg| Log.warn { msg } }
+  end
 
-    # self propelled posts should have defined towns
-    self_propelled_posts.each do |post|
-      towns_or_voivodeships = post.town_slugs
-      self_propelled = post.self_propelled?
+  # Pure logic: find posts referencing unknown town slugs (testable without Blog)
+  # Each post_data tuple: {town_slugs, self_propelled?, post_slug}
+  def self.find_missing_towns(known_slugs : Array(String), post_data : Array({Array(String), Bool, String}))
+    known = Set(String).new(known_slugs)
+    errors = Array(String).new
+    warnings = Array(String).new
 
-      towns_or_voivodeships.each do |slug|
-        common_count = all_towns_or_voivodeships.select { |s| slug == s }.size
-        if common_count == 0
-          error_in_post(post, "missing town #{slug}")
+    post_data.each do |town_slugs, self_propelled, post_slug|
+      town_slugs.each do |slug|
+        unless known.includes?(slug)
+          if self_propelled
+            errors << "#{post_slug}: missing town #{slug}"
+          else
+            warnings << "#{post_slug}: missing town #{slug}"
+          end
         end
       end
     end
 
-    # not self propelled posts towns are optional
-    not_self_propelled_posts.each do |post|
-      towns_or_voivodeships = post.town_slugs
-      self_propelled = post.self_propelled?
-
-      towns_or_voivodeships.each do |slug|
-        common_count = all_towns_or_voivodeships.select { |s| slug == s }.size
-        if common_count == 0
-          warning_in_post(post, "missing town #{slug}")
-        end
-      end
-    end
+    {errors: errors, warnings: warnings}
   end
 
   @[Profile(category: "validation")]

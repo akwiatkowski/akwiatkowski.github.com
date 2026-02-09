@@ -25,22 +25,6 @@ struct CoordRange
     @lon_to_set = false
   end
 
-  # PHASE6_DEPRECATED: Use initialize(area : AreaEntity) instead
-  # def initialize(ve : VoivodeshipEntity)
-  #   lats = [ve.border_top_left_lat.not_nil!, ve.border_bottom_right_lat.not_nil!]
-  #   @lat_from = lats.min.as(Float64)
-  #   @lat_to = lats.max.as(Float64)
-  #
-  #   lons = [ve.border_top_left_lon.not_nil!, ve.border_bottom_right_lon.not_nil!]
-  #   @lon_from = lons.min.as(Float64)
-  #   @lon_to = lons.max.as(Float64)
-  #
-  #   @lat_from_set = true
-  #   @lat_to_set = true
-  #   @lon_from_set = true
-  #   @lon_to_set = true
-  # end
-
   # Initialize from AreaEntity bbox
   def initialize(area : AreaEntity)
     bbox = area.bbox

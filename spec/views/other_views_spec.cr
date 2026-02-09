@@ -45,12 +45,6 @@ describe ModelView do
     end
   end
 
-  # PHASE6_DEPRECATED: LandsIndexView uses LandEntity
-  # describe ModelView::LandsIndexView do
-  #   it "exists" do
-  #     ModelView::LandsIndexView.should_not be_nil
-  #   end
-  # end
 end
 
 describe PostView do
@@ -67,13 +61,6 @@ describe "Standalone Views" do
       PoisView.should_not be_nil
     end
   end
-
-  # PHASE6_DEPRECATED: LandView used LandEntity
-  # describe LandView do
-  #   it "exists" do
-  #     LandView.should_not be_nil
-  #   end
-  # end
 
   describe PostGalleryStatsView do
     it "exists" do

@@ -141,28 +141,12 @@ All portfolio code deleted (6 files, 11 modifications). See PLAN_DONE.md.
 
 ---
 
-## Phase 27: Remove Deprecated Entities (TownEntity, VoivodeshipEntity, LandEntity)
+## Phase 27: Remove Deprecated Entities ✅ COMPLETE
 
-**Goal:** Complete migration to AreaEntity. All three are marked `PHASE6_DEPRECATED` but still have active callers.
-
-**Status: Requires careful migration — NOT safe to just delete.**
-
-### Active Dependencies
-
-| Entity | Active Callers | Critical Path |
-|--------|---------------|---------------|
-| **TownEntity** | 10 refs in 5 files | `lands_from_towns` (post init), `photo_coord_quant_cache`, validation |
-| **VoivodeshipEntity** | 4 refs in 3 files | validation, render_context getter |
-| **LandEntity** | 8 refs in 4 files | loaded before towns, `TownEntity` constructor requires `Array(LandEntity)` |
-
-### Migration Steps
-
-1. **Port `lands_from_towns`** — use AreaEntity with AreaType::MesoRegion instead of LandEntity
-2. **Port `photo_coord_quant_cache`** — use AreaEntity for closest-area lookup
-3. **Port validation** — use area slugs from AreaDataLoader instead of town/voivodeship arrays
-4. **Remove `load_towns`, `load_voivodeships`, `load_lands`** from DataManager
-5. **Remove getters** from DataManager and RenderContext
-6. **Delete entity files** and update requires
+Deleted TownEntity, VoivodeshipEntity, LandEntity. Migrated `closest_town` to AreaEntity,
+`check_missing_towns` to AreaDataLoader. Removed `lands_from_towns`, old load methods,
+deprecated getters. Deleted LandsIndexView. Cleaned all PHASE6_DEPRECATED markers.
+See PLAN_DONE.md.
 
 ---
 
@@ -220,7 +204,7 @@ Current state for area show pages (and likely other pages):
 
 ## Test Status
 
-**485 Crystal tests passing, 161 E2E tests passing**
+**495 Crystal tests passing, 161 E2E tests passing**
 
 ### E2E Tests (Playwright)
 

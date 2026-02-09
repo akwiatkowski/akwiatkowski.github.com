@@ -22,6 +22,8 @@ class PhotoCoordQuantCache
   alias PhotoCoordCacheContainer = NamedTuple(array: PhotoCoordCacheArray, info: PhotoCoordCacheAdditionalInfo)
   alias PhotoCoordQuantCacheStruct = Hash(PhotoCoordCacheKey, PhotoCoordCacheContainer)
 
+  @all_towns : Array(AreaEntity)?
+
   def initialize(@blog : Tremolite::Blog)
     @cache_path = @blog.cache_path.as(String)
     @cache_file_path = File.join([@cache_path, "photo_coord_quant.yml"])
@@ -86,26 +88,24 @@ class PhotoCoordQuantCache
   end
 
   def closest_town(lat : Float32, lon : Float32)
-    all_towns = @blog.data_manager.not_nil!.towns.not_nil!
-    towns_with_coords = all_towns.select do |town|
-      town.lat != nil && town.lon != nil
+    self.class.closest_town(lat, lon, all_towns)
+  end
+
+  # Pure logic: find closest town by Euclidean distance (testable without Blog)
+  def self.closest_town(lat : Float32, lon : Float32, towns : Array(AreaEntity)) : AreaEntity?
+    towns_with_coords = towns.select { |town| town.lat && town.lon }
+
+    sorted_towns = towns_with_coords.sort do |a, b|
+      a_dist = Math.sqrt(((a.lat.not_nil!.to_f32 - lat) ** 2) + ((a.lon.not_nil!.to_f32 - lon) ** 2))
+      b_dist = Math.sqrt(((b.lat.not_nil!.to_f32 - lat) ** 2) + ((b.lon.not_nil!.to_f32 - lon) ** 2))
+      a_dist <=> b_dist
     end
 
-    sorted_towns = towns_with_coords.sort do |town_a, town_b|
-      a_distance = town_a.distance_to_coord(
-        other_lat: lat,
-        other_lon: lon
-      )
+    sorted_towns[0]?
+  end
 
-      b_distance = town_b.distance_to_coord(
-        other_lat: lat,
-        other_lon: lon
-      )
-
-      a_distance <=> b_distance
-    end
-
-    return sorted_towns[0]?
+  private def all_towns : Array(AreaEntity)
+    @all_towns ||= @blog.data_manager.not_nil!.area_data_loader.not_nil!.areas_of_type(AreaType::Town)
   end
 
   def additional_info_for(lat : Float32, lon : Float32) : PhotoCoordCacheAdditionalInfo
@@ -146,10 +146,6 @@ class PhotoCoordQuantCache
       lat: key[:lat],
       lon: key[:lon]
     )
-  end
-
-  private def exif_db
-    @blog.data_manager.exif_db
   end
 
   private def save_cache

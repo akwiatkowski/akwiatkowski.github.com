@@ -231,7 +231,6 @@ class NavStatsCache
   end
 
   private def refresh_voivodeships_nav
-    # Use AreaEntity system instead of deprecated VoivodeshipEntity
     voivodeships = @blog.data_manager.area_data_loader.not_nil!.areas_of_type(AreaType::Voivodeship)
 
     @stats.voivodeships_nav = process_area_array_to_nav(
@@ -246,8 +245,6 @@ class NavStatsCache
   # IGNORED_LANDS = ["rownina_wrzesinska", "pojezierze_poznanskie", "pojezierze_gnieznienskie"]
 
   private def refresh_lands_nav
-    # Use AreaEntity system instead of deprecated LandEntity
-    # Lands are now MesoRegions in the new system
     meso_regions = @blog.data_manager.area_data_loader.not_nil!.areas_of_type(AreaType::MesoRegion)
 
     @stats.lands_nav = process_area_array_to_nav(

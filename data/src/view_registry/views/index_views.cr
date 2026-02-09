@@ -6,7 +6,6 @@
 #
 # Current views:
 # 1. Towns index - /gminy.html (priority: 60)
-# 2. Lands index - /krainy.html (priority: 61)
 #
 # Dependencies: [:posts, :yamls]
 # - Posts: needed for post counts per entity
@@ -17,7 +16,7 @@
 # Note: These are separate from entity pages because they
 # show ALL entities, not individual entity detail pages.
 #
-# View classes used: ModelView::TownsIndexView, LandsIndexView
+# View classes used: ModelView::TownsIndexView
 # (loaded via renderer.cr)
 
 def register_index_views(r : ViewRegistry)
@@ -37,22 +36,4 @@ def register_index_views(r : ViewRegistry)
     ViewRegistry::Log.info { "Rendering towns index" }
     ctx.write_output(ModelView::TownsIndexView.new(context: ctx, url: "/gminy.html"))
   end
-
-  # ============================================
-  # PHASE6_DEPRECATED: Lands Index - uses LandEntity
-  # ============================================
-  # TODO: Migrate to use AreaEntity with AreaType::MesoRegion
-  #
-  # Renders the main lands listing page showing all lands/regions
-  # with their post counts and descriptions.
-  #
-  # URL: /krainy.html
-  # View class: ModelView::LandsIndexView
-  #
-  # Dependencies: [:posts, :yamls]
-  #
-  # r.register("Index: lands", [:posts, :yamls], priority: 61) do |ctx|
-  #   ViewRegistry::Log.info { "Rendering lands index" }
-  #   ctx.write_output(ModelView::LandsIndexView.new(context: ctx, url: "/krainy.html"))
-  # end
 end

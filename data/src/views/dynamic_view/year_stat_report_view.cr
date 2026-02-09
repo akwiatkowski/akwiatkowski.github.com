@@ -43,17 +43,6 @@ module DynamicView
       data["bicycle_distance"] = bicycle_distance.to_i.to_s
       data["bicycle_hours"] = bicycle_hours.to_i.to_s
 
-      # PHASE6_DEPRECATED: voivodeships_stats uses VoivodeshipEntity
-      # TODO: Migrate to use AreaEntity with AreaType::Voivodeship
-      # voivodeships_stats_strings = Array(String).new
-      # voivodeships_stats.keys.each do |k|
-      #   voivodeships_stats_strings << "#{k} - #{voivodeships_stats[k]} razy"
-      # end
-      # data["voivodeships_stats"] = "<ol>\n"
-      # voivodeships_stats_strings.each do |s|
-      #   data["voivodeships_stats"] += "<li>#{s}</li>\n"
-      # end
-      # data["voivodeships_stats"] += "</ol>\n"
       data["voivodeships_stats"] = ""
 
       years_strings = Array(String).new
@@ -168,32 +157,6 @@ module DynamicView
     private def distance
       return @posts.select { |p| p.self_propelled? }.map { |p| p.distance.as(Float64) }.sum
     end
-
-    # PHASE6_DEPRECATED: voivodeships_stats uses VoivodeshipEntity
-    # TODO: Migrate to use AreaEntity with AreaType::Voivodeship
-    # private def voivodeships_stats
-    #   voivoids = context.voivodeships
-    #   voivoids_hash_keys = Hash(String, Int32).new
-    #   @posts.each do |post|
-    #     vs = post.towns.not_nil!.select { |t| voivoids.map(&.slug).includes?(t) }
-    #     vs.each do |v|
-    #       if voivoids_hash_keys[v]?
-    #         voivoids_hash_keys[v] += 1
-    #       else
-    #         voivoids_hash_keys[v] = 1
-    #       end
-    #     end
-    #   end
-    #
-    #   # convert slugs to names
-    #   voivoids_hash_names = Hash(String, Int32).new
-    #   voivoids_hash_keys.keys.each do |key|
-    #     voivodeship_name = context.voivodeships.select { |v| v.slug == key }.first.name
-    #     voivoids_hash_names[voivodeship_name] = voivoids_hash_keys[key]
-    #   end
-    #
-    #   return voivoids_hash_names
-    # end
 
     private def bicycle_distance
       return @posts.select { |p| p.bicycle? }.map { |p| p.distance.as(Float64) }.sum

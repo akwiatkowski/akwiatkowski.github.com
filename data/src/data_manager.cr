@@ -14,20 +14,11 @@ class Tremolite::DataManager
   include Profiled
 
   def custom_initialize
-    @towns = Array(TownEntity).new
-    @town_slugs = Array(String).new
-    @voivodeships = Array(VoivodeshipEntity).new
     @tags = Array(TagEntity).new
     @photo_tags = Array(PhotoTagEntity).new
-    # @land_types = Array(LandTypeEntity).new
-    @lands = Array(LandEntity).new
     @train_stations = Array(TrainStationEntity).new
     @ideas = Array(IdeaEntity).new
 
-    # PHASE6_DEPRECATED: TownPhotoCache replaced by AreaPhotoSelector
-    # @town_photo_cache = TownPhotoCache.new(
-    #   blog: @blog
-    # )
     @post_coord_quant_cache = PostCoordQuantCache.new(
       blog: @blog
     )
@@ -54,11 +45,9 @@ class Tremolite::DataManager
   end
 
   getter :tags
-  getter :towns, :town_slugs, :voivodeships
-  getter :lands, :post_image_entities
+  getter :post_image_entities
   getter :ideas, :photo_tags, :train_stations
 
-  # PHASE6_DEPRECATED: getter :town_photo_cache - replaced by AreaPhotoSelector
   getter :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
   getter :photo_map_dictionary
   getter :area_data_loader
@@ -75,8 +64,6 @@ class Tremolite::DataManager
 
   @[Profile(category: "yaml")]
   def custom_load
-    load_lands # lands are needed before towns
-    load_towns
     load_tags
     load_train_stations
     load_ideas
@@ -105,31 +92,6 @@ class Tremolite::DataManager
         idea = YAML.parse(File.read(f))
         @ideas.not_nil! << IdeaEntity.new(idea)
       end
-    end
-  end
-
-  @[Profile(category: "yaml")]
-  def load_towns # TODO: is it needed or deprecated?
-    Log.debug { "loading towns" }
-
-    Dir[File.join([@config_path, "towns", "**", "*"])].each do |f|
-      if File.file?(f)
-        load_town_yaml(f)
-      end
-    end
-  end
-
-  # DEPRECATED: Use visited_town_slugs_selfpropelled or visited_town_areas_selfpropelled
-  # self-propelled
-  def towns_already_visited_only_selfpropelled
-    slugs = Array(String).new
-    @blog.post_collection.posts.each do |post|
-      slugs += post.town_slugs
-      slugs.uniq.sort
-    end
-
-    return @towns.not_nil!.select do |town_entity|
-      slugs.includes?(town_entity.slug)
     end
   end
 
@@ -163,17 +125,6 @@ class Tremolite::DataManager
   end
 
   @[Profile(category: "yaml")]
-  def load_lands
-    Log.debug { "loading lands" }
-
-    f = File.join([@config_path, "lands.yml"])
-    YAML.parse(File.read(f)).as_a.each do |land|
-      o = LandEntity.new(land)
-      @lands.not_nil! << o
-    end
-  end
-
-  @[Profile(category: "yaml")]
   def load_photo_tags
     Log.debug { "loading photo tags" }
 
@@ -192,15 +143,4 @@ class Tremolite::DataManager
     return selected_tags[0]?
   end
 
-  private def load_town_yaml(f)
-    town_yaml = YAML.parse(File.read(f))
-    town_yaml.as_a.each do |town|
-      o = TownEntity.new(town: town, lands: @lands.not_nil!)
-      @towns.not_nil! << o
-      @town_slugs.not_nil! << o.slug
-    end
-
-    @towns = @towns.not_nil!.sort { |a, b| a.slug <=> b.slug }.uniq { |a| a.slug }
-    @town_slugs = @town_slugs.not_nil!.sort.uniq
-  end
 end
