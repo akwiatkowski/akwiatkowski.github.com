@@ -59,7 +59,6 @@ class Tremolite::DataManager
   end
 
   getter :tags
-  getter :post_image_entities
   getter :ideas, :photo_tags, :train_stations
 
   getter :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
@@ -129,14 +128,6 @@ class Tremolite::DataManager
       o = PhotoTagEntity.new(tag)
       @photo_tags.not_nil! << o
     end
-  end
-
-  def tag_by_slug(slug : String)
-    selected_tags = @tags.not_nil!.select do |tag|
-      tag.slug == slug
-    end
-
-    return selected_tags[0]?
   end
 
 end
