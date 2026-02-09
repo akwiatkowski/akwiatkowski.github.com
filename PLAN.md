@@ -1,11 +1,11 @@
 # Current Work
 
-## Status: Phase 9 - Command Restructure (Complete)
+## Status: Phase 25 - Code Audit Fixes (In Progress)
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation
 - `CLAUDE.md` - Project structure reference
-- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8-9, 11-24, Photo Planner)
+- `PLAN_DONE.md` - Completed phases (Phases 1-3, 8-9, 11-24, 25 Batch 1, Photo Planner)
 
 ---
 
@@ -129,200 +129,174 @@ Summary page (`/zestawienie.html`) deleted. No longer needed.
 
 ---
 
-## Phase 9: Command Restructure (Complete)
+## Phase 25: Code Audit Fixes (Batch 2)
 
-**Goal:** Restructure all standalone Crystal command scripts into a shared library with thin entry-point wrappers and a unified pipeline runner.
+**Goal:** Fix bugs, rename misleading methods, remove dead code found during 2026-02-09 audit.
 
-**Architecture:**
-```
-data/src/commands/
-├── base.cr              # Commands module, ENVS constant, init_blog helper
-├── all.cr               # Require aggregator
-├── pipeline/            # Data pipeline commands (run in sequence)
-│   ├── all.cr
-│   ├── generate_areas_for_posts.cr
-│   ├── generate_polygon_json.cr
-│   ├── assign_photos_to_areas.cr
-│   └── gpx_rectify.cr
-└── tools/               # Standalone utility commands
-    ├── all.cr
-    ├── fetch_map_tiles.cr
-    ├── list_missing_routes.cr
-    └── test_region_matching.cr
+### Bugs (must fix)
 
-commands/                # Thin entry-point wrappers (delegate to data/src/commands/)
-├── run_all.cr           # Unified pipeline runner (shares single AreaMatcher::Matcher)
-├── generate_areas_for_posts.cr
-├── generate_polygon_json.cr
-├── assign_photos_to_areas.cr
-├── gpx_rectify.cr
-├── fetch_map_tiles.cr
-├── list_missing_routes.cr
-└── test_region_matching.cr
+#### 25a. Delete `is_published` field + `mark_as_published!` entirely
+**File:** `data/src/models/photo_entity.cr:199-201`, `data/src/data_manager/exif_db.cr:37`
+
+`mark_as_published!` sets wrong ivar (`@published` instead of `@is_published`), but **nothing reads `is_published` at all**. The photos JSON generator explicitly works around it: `# photo_entity.is_published behaves strange`. Photos are classified by collection membership in ExifDb, not by flag.
+
+**Fix:** Delete `mark_as_published!`, delete `@is_published` field/getter/constructor param, delete the call in `exif_db.cr:37`, update `photos_json_generator.cr` to remove the workaround comment.
+
+#### 25b. YearStatReportView hike opacity checks bicycle value
+**File:** `data/src/views/dynamic_view/year_stat_report_view.cr:152-153`
+```crystal
+hike_opacity = OPACITY_MAX if bicycle_opacity > OPACITY_MAX  # BUG: should check hike_opacity
+hike_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN  # BUG: should check hike_opacity
 ```
 
-**Key changes:**
-- All 7 `commands/*.cr` entry points rewritten as thin wrappers delegating to `data/src/commands/`
-- All pipeline commands accept optional `AreaMatcher::Matcher` for shared loading (~90MB loaded once)
-- `commands/run_all.cr` runs full pipeline with shared matcher instance
-- Fixed `Map::Downloader::PUBLIC_PATH` to `env/full/public/local/tiles`
-- Fixed broken require in `lists_posts_missing_detailed_route.cr`
-- 2 deferred commands remain as-is: `generate_photo_map.cr`, `generate_maps_for_route_ideas.cr`
+#### 25c. `LandEntity` reads wrong YAML key for `@code`
+**File:** `data/src/models/land_entity.cr:32` — reads `y["country"]` into `@code`. Field is unused so low impact but still wrong.
 
-**Tests added:** 28 new specs (base_spec, assign_photos_manifest_spec, douglas_peucker_spec, tools_spec)
+### Misleading Names (should rename)
 
-**Test Results:** 444 Crystal specs passing, 161 E2E tests passing
+#### 25d. `haversine_distance` → `euclidean_distance_approx`
+**File:** `data/src/services/area_photo_selector.cr:100-104` — implements Pythagorean distance, not Haversine.
+
+#### 25e. `externally_propelled?` — implicit nil return
+**File:** `data/src/post/accessors.cr:77-79` — fix to `train? || car? || bus?`
+
+#### 25f. `IMAGE_FORMAT_M43 = :m34` symbol typo
+**File:** `data/src/post/photos.cr:5` — symbol value `:m34` doesn't match constant name `M43`. No posts use `image_format` header. Fix to `:m43`.
+
+#### 25g. `content_html_missing_reference_links` — misleading name + divide-by-2
+**File:** `data/src/post/helpers.cr:14-15` — rename to `content_html_reference_pattern_count`.
+
+### Dead Code (delete)
+
+- [x] ~~Unreachable code in PortfolioView (lines 81-99)~~ Done (uncommitted)
+- [ ] Commented-out `title` method in `accessors.cr:102-106`
+- [x] ~~`image_format_m43?` — zero callers~~ Done (uncommitted)
+- [x] ~~`VoivodeshipEntity#belongs_to_post?` + `#validate` — zero callers~~ Done (uncommitted)
+- [ ] `validator.cr:117-146` private `check_missing_referenced_links` — dead duplicate of `tremolite/validator.cr`
+
+### Low Priority
+
+- **Gallery index views** — `# TODO this can crash if there is 0 photos` in 6+ views — add guard clause
+- **`data_manager.cr:140-144`** — regex scan on EXIF path can crash if filename doesn't match
+- **`coord_set.cr:89,102`** — uses `set.includes?` should be `@set.includes?`
 
 ---
 
-## Phase 24: Polygon-Based Photo-to-Area Assignment (Complete)
+## Phase 26: Remove Portfolio
 
-**Goal:** Replace inaccurate bbox-based photo selection on area show pages with precise polygon point-in-polygon matching using GEOS.
+**Goal:** Remove portfolio page entirely. Will be regenerated later.
 
-**Architecture:**
-```
-commands/assign_photos_to_areas.cr   ← Offline script (run manually)
-         ↓ uses
-AreaMatcher::Matcher.match_point()   ← GEOS polygon testing
-         ↓ writes
-env/<env>/cache/photos_in_area/      ← Per-area YAML cache
-  ├── already_assigned.txt           ← Manifest of processed photos
-  ├── towns/<slug>.yml
-  ├── counties/<slug>.yml
-  ├── voivodeships/<slug>.yml
-  ├── meso_regions/<slug>.yml
-  └── macro_regions/<slug>.yml
-         ↓ read by
-PhotoAreaCache                       ← Build-time cache reader service
-         ↓ used by
-AreaShowView.collect_area_photos     ← Returns cached photos (no bbox fallback)
-```
+**Delete files (6):**
+- `data/src/models/portfolio_entity.cr`
+- `data/src/views/dynamic_view/portfolio_view.cr`
+- `data/layout/portfolio/page.html`
+- `data/layout/portfolio/indicator.html`
+- `data/layout/portfolio/section.html`
+- `data/config/portfolio.yml`
 
-**Files created:**
-- `commands/assign_photos_to_areas.cr` — Offline command with incremental processing via manifest, `--overwrite` flag
-- `data/src/services/photo_area_cache.cr` — Build-time cache reader, resolves YAML entries to PhotoEntity
-- `spec/services/photo_area_cache_spec.cr` — 7 Crystal specs
-- `tests/e2e/specs/area-show.spec.js` — 20 E2E tests (4 area types × 5 checks)
+**Modify files (9):**
+- `data/src/models/all.cr` — remove `require "./portfolio_entity"`
+- `data/src/data_manager.cr` — remove `@portfolios`, `getter :portfolios`, `load_portfolio` method
+- `data/src/views/dynamic_view/all.cr` — remove `require "./portfolio_view"`
+- `data/src/render_context.cr` — remove `portfolios` accessor
+- `data/src/view_registry/views/photo_views.cr` — remove portfolio registration + "portfolio" from `selected_tags`
+- `data/src/models/photo_entity.cr` — remove `TAG_PORTFOLIO` constant + from `TAG_GALLERIES`
+- `data/config/photo_tags.yml` — remove portfolio tag entry
+- `data/config/config.yml` — remove `gallery.portfolio.*` and `portfolio.title` entries
+- `spec/views/dynamic_view_spec.cr` — remove PortfolioView test
 
-**Files modified:**
-- `data/src/blog.cr` — Added `require "./services/photo_area_cache"`
-- `data/src/render_context.cr` — Added lazy `photo_area_cache` getter
-- `data/src/views/area_show_view.cr` — `collect_area_photos` uses cache instead of bbox, no fallback
-
-**Results (full env):** 6,059 geo-tagged photos assigned to 1,037 area-slug pairs across 5 area types.
-
-**Usage:**
-```bash
-crystal run commands/assign_photos_to_areas.cr              # Incremental
-crystal run commands/assign_photos_to_areas.cr -- --overwrite  # Full reprocess
-```
+**Also clean up:**
+- `data/assets/js/self/timeline.js` — remove `'portfolio': 15` from phase mapping
+- `data/src/post_function_parser.cr` — remove `# used for creating portfolio page` comment
 
 ---
 
-## Phase 23: Centralized Profiler (Complete)
+## Phase 27: Remove Deprecated Entities (TownEntity, VoivodeshipEntity, LandEntity)
 
-**Goal:** Replace scattered manual timing with a single annotation-based profiler.
+**Goal:** Complete migration to AreaEntity. All three are marked `PHASE6_DEPRECATED` but still have active callers.
 
-**How it works:**
-- `@[Profile(category: "yaml")]` annotation on methods
-- `include Profiled` in a class enables auto-wrapping via `finished` macro hook
-- `Profiler.measure("cat", "name") { ... }` for cross-object/dynamic-name calls
-- `Profiler.summary` prints category breakdown + top 10 slowest at end of build
-- Remove `include Profiled` to disable all profiling for a class — annotations become inert
+**Status: Requires careful migration — NOT safe to just delete.**
 
-**Files created:**
-- `data/src/services/profiler.cr` — `Profile` annotation, `Profiler` class (measure, record, summary, reset, enabled?)
-- `data/src/services/profiled.cr` — `Profiled` module with `finished` macro hook
+### Active Dependencies
 
-**Files modified:**
-- `data/src/blog.cr` — `Profiler.reset`/`measure`/`summary` replaces 6 timing variables + manual summary
-- `data/src/view_registry/coordinator.cr` — `Profiler.measure("registry", entry.name)` replaces manual timing
-- `data/src/data_manager.cr` — `@[Profile(category: "yaml")]` on 8 load methods
-- `data/src/post_renderer.cr` — `@[Profile(category: "posts")]` on 2 render methods
-- `data/src/validator.cr` — `@[Profile(category: "validation")]` on 3 private methods
+| Entity | Active Callers | Critical Path |
+|--------|---------------|---------------|
+| **TownEntity** | 10 refs in 5 files | `lands_from_towns` (post init), `photo_coord_quant_cache`, validation |
+| **VoivodeshipEntity** | 4 refs in 3 files | validation, render_context getter |
+| **LandEntity** | 8 refs in 4 files | loaded before towns, `TownEntity` constructor requires `Array(LandEntity)` |
 
-**Dev build output:**
-```
-─── Profiler Summary ───
-  render:     3406.5ms  60.6%  (4 items)
-  registry:   1465.0ms  26.1%  (46 items)
-  validation:  550.2ms   9.8%  (4 items)
-  posts:       190.8ms   3.4%  (2 items)
-  init:          4.8ms   0.1%  (3 items)
-  Total:      5617.3ms
-─── Top 10 Slowest ───
-  1703.7ms - render: Post + registry rendering
-  1465.3ms - render: Registry rendering
-   702.4ms - registry: Photo maps: all
-   292.9ms - registry: Areas: show pages
-   278.1ms - validation: validator.run
-   271.7ms - validation: validate_html_output
-   190.8ms - render: Post rendering
-   190.8ms - posts: render_with_galleries
-   132.9ms - registry: Setup: copy assets
-   122.1ms - registry: Photo galleries: all
-```
+### Migration Steps
 
-**Macro note:** Crystal nested macros (`macro finished` inside `macro included`) cannot use `\{% if %}` / `\{% end %}` for visibility — the `\{% end %}` gets consumed by the outer macro parser. Solved with ternary: `method.visibility.stringify == ":private" ? "private ".id : "".id`.
+1. **Port `lands_from_towns`** — use AreaEntity with AreaType::MesoRegion instead of LandEntity
+2. **Port `photo_coord_quant_cache`** — use AreaEntity for closest-area lookup
+3. **Port validation** — use area slugs from AreaDataLoader instead of town/voivodeship arrays
+4. **Remove `load_towns`, `load_voivodeships`, `load_lands`** from DataManager
+5. **Remove getters** from DataManager and RenderContext
+6. **Delete entity files** and update requires
 
 ---
 
-## Phase 21: Map Service Restructure (Complete)
+## Phase 28: Rename Post Slug Arrays + Make Non-Nilable
 
-Full restructure of `data/src/services/map/` — separated computation from rendering, added multi-format output, consolidated views, wrote comprehensive tests.
+**Goal:** Rename `@tags`/`@towns`/`@lands`/`@foreign` to `@tag_slugs`/`@town_slugs`/`@land_slugs`/`@foreign_slugs` to clarify they hold slug strings (not entity objects). Simultaneously make them non-nilable and remove ~50 `.not_nil!` calls.
 
-**Parts completed:**
-1. Bug fixes: typos (DEFAULTH, time→tile, dimenstion), dead code removal (sleep, fix_crossing_photos, unused vars)
-2. MapConfig & MapContext structs with factory methods for all 11 use cases
-3. MapPipeline + MapResult (computation/rendering separation), PhotoSelection module
-4. SvgRenderer, PngRenderer (rsvg-convert), LeafletJsonRenderer
-5. View consolidation: 9 → 4+2 (GlobalMapSvgView, AreaMapSvgView, + kept PostBig/PostRoute/Idea)
-6. Tests: 116 new tests (387 total, up from 271)
+**Root cause of `.not_nil!`:** These fields are not declared in the base `Tremolite::Post` class (`tremolite/posts/post.cr`). They're assigned in `tags_initialize`/`towns_initialize`/`lands_initialize` methods. Crystal infers them as `Array(String)?` (nilable).
 
-**Post-completion fixes:**
-- `MapContext` default: `RouteColors.new` → `RouteColors.new("data/config")` — RouteColors requires a config_path, not zero-arg
-- `MapPipeline.route_object_to_polyline`: `color_rgb` from `route_colors.color_rgb_for()` is nilable (`String?`), added `|| "0,0,0"` fallback
+**Naming rationale:** `@tags` is ambiguous — could be `Array(TagEntity)` or `Array(String)`. `@tag_slugs` makes it immediately clear these are string identifiers. Same for `@towns` vs `@town_slugs`. Already used: `post.foreign_slugs` method, `post.area_slugs()` method.
 
-**Architecture (new pipeline):**
-```
-MapConfig + MapContext → MapPipeline.compute → MapResult → SvgRenderer / LeafletJsonRenderer / PngRenderer
+**Fix (two changes in one pass):**
+
+1. Add explicit non-nilable declarations in `initializers.cr`:
+```crystal
+@tag_slugs : Array(String) = Array(String).new
+@town_slugs : Array(String) = Array(String).new
+@land_slugs : Array(String) = Array(String).new
+@foreign_slugs : Array(String) = Array(String).new
 ```
 
-Old path (`Map::Base` → `Map::Main` → `.to_svg`) still works alongside — consolidated views use old path for now.
+2. Rename all references and remove `.not_nil!` calls.
 
-### Performance Observations
+### Reference counts (50 total, 19 files)
 
-Map rendering generates ~130+ SVG files per build:
-- ~100 posts × 2 (big + small) = ~200 post maps
-- 16 voivodeships × 2 = 32 voivodeship maps
-- 7 global maps
-- 10 tag maps
-- ~10 idea maps
-- **Total: ~260 Map::Base/Main instances**
+| Field | Old Name | New Name | Refs | Files |
+|-------|----------|----------|------|-------|
+| tags | `@tags` / `.tags` | `@tag_slugs` / `.tag_slugs` | 19 | 10 |
+| towns | `@towns` / `.towns` | `@town_slugs` / `.town_slugs` | 16 | 9 |
+| lands | `@lands` / `.lands` | `@land_slugs` / `.land_slugs` | 8 | 5 |
+| foreign | `@foreign` / `.foreign` | `@foreign_slugs` / `.foreign_slugs` | 7 | 3 |
 
-**Bottleneck (fixed): GridLayer photo selection** — was O(cells × photos) per map.
+### Files to modify
 
-Implemented `SpatialIndex` (`data/src/services/map/spatial_index.cr`): pre-buckets photos
-into a hash grid keyed by `{floor(lat/0.05), floor(lon/0.05)}`. Each query checks only
-overlapping buckets (1–4 typical) instead of scanning all photos.
+**Post internals (3 files, 26 refs):**
+- `post/initializers.cr` — declarations, `_initialize` methods, `_from_headers` methods, `lands_from_towns` (11 refs)
+- `post/accessors.cr` — getter declaration, all `self.tags.not_nil!` calls in predicates (10 refs)
+- `post/areas.cr` — `@towns.not_nil!`, `@lands.not_nil!`, `@foreign.not_nil!` in area_slugs methods (5 refs)
 
-Integrated into both `GridLayer` (old path) and `MapPipeline` (new path).
+**Models (3 files, 3 refs):**
+- `models/tag_entity.cr:35` — `post.tags.not_nil!` → `post.tag_slugs`
+- `models/town_entity.cr:94` — `post.towns.not_nil!` → `post.town_slugs`
+- `models/land_entity.cr:48` — `post.lands.not_nil!` → `post.land_slugs`
 
-**Benchmark results** (25K photos, simulated Poland coordinates):
+**Core (2 files, 6 refs):**
+- `data_manager.cr` — `post.towns.nil?`, `post.towns.not_nil!` (4 refs)
+- `validator.cr` — `post.towns.not_nil!` (2 refs)
 
-| Scenario | Cells | Linear | Spatial | Speedup |
-|----------|-------|--------|---------|---------|
-| Coarse (zoom 8, photo_size=160) | 384 | 115 ms | 5.4 ms | **21x** |
-| Fine (zoom 10, photo_size=50) | 62,935 | 12.3 sec | 29 ms | **421x** |
+**Views (8 files, 12 refs):**
+- `views/area_show_view.cr:109` — `post.tags.to_json` → `post.tag_slugs.to_json`
+- `views/post_view/article_view.cr:91,143-144` — `@post.tags`, `@post.foreign_entities/slugs`
+- `views/special_view/e2e_json_generator.cr:40` — `post.tags.to_json`
+- `views/special_view/home_page_json_generator.cr:70` — `post.tags.to_json`
+- `views/dynamic_view/exif_stats_view.cr:38` — `post.tags.not_nil!`
+- `views/dynamic_view/towns_history_view.cr:59,78` — `post.towns`
+- `views/dynamic_view/towns_timeline_view.cr:169` — `post.towns.not_nil!`
+- `views/new_home_page_view.cr:30,107,114` — `p.tags.try(&.includes?(...))`
 
-The fine-grid scenario represents the "detailed" global map — the worst case that was
-taking ~12 seconds per map now takes ~29 ms. With ~15 grid-type maps generated per build,
-this saves roughly 3 minutes of total build time.
+**Other (1 file):**
+- `render_context.cr:223` — `post.foreign_slugs` (already uses correct name)
 
-**Remaining potential optimizations (not yet implemented):**
-1. **Shared TilesLayer**: Global maps at same zoom share identical tile grids. Could compute once, reuse across views.
-2. **Pre-filter photos once**: `filter_photos_with_coords` runs for every map instance. Could cache the filtered array on RenderContext.
-3. **Lazy SVG rendering**: Views currently compute maps in constructor. Could defer to `output` call for better memory use.
+**Note:** `@foreign` already has `foreign_slugs` method wrapper in `areas.cr`. After rename, the wrapper becomes a simple getter.
+
+**Risk:** Very low — Crystal compiler catches all missed renames at compile time. 486 Crystal tests + 161 E2E tests validate behavior.
 
 ---
 
@@ -372,7 +346,7 @@ Current state for area show pages (and likely other pages):
 
 ## Test Status
 
-**444 Crystal tests passing, 161 E2E tests passing**
+**486 Crystal tests passing, 161 E2E tests passing**
 
 ### E2E Tests (Playwright)
 

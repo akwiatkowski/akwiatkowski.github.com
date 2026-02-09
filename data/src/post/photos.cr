@@ -17,10 +17,6 @@ class Tremolite::Post
     return images_dir_url + image_filename.not_nil!
   end
 
-  def image_format_m43?
-    @image_format == IMAGE_FORMAT_M43
-  end
-
   def populate_published_post
     # by running this it runs function which populate exif_db
     content_html

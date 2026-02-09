@@ -1062,4 +1062,108 @@ data/src/commands/
 
 ---
 
+## Phase 21b: Map Service Restructure ✅ COMPLETE
+
+**Completed**: 2026-02-08
+
+### Goal
+Full restructure of `data/src/services/map/` — separated computation from rendering, added multi-format output, consolidated views, wrote comprehensive tests.
+
+### What Was Done
+
+1. Bug fixes: typos (DEFAULTH, time→tile, dimenstion), dead code removal (sleep, fix_crossing_photos, unused vars)
+2. MapConfig & MapContext structs with factory methods for all 11 use cases
+3. MapPipeline + MapResult (computation/rendering separation), PhotoSelection module
+4. SvgRenderer, PngRenderer (rsvg-convert), LeafletJsonRenderer
+5. View consolidation: 9 → 4+2 (GlobalMapSvgView, AreaMapSvgView, + kept PostBig/PostRoute/Idea)
+6. Tests: 116 new tests (387 total, up from 271)
+
+### Architecture
+
+```
+MapConfig + MapContext → MapPipeline.compute → MapResult → SvgRenderer / LeafletJsonRenderer / PngRenderer
+```
+
+Old path (`Map::Base` → `Map::Main` → `.to_svg`) still works alongside — consolidated views use old path for now.
+
+### Performance: SpatialIndex
+
+**Bottleneck (fixed): GridLayer photo selection** — was O(cells × photos) per map.
+
+Implemented `SpatialIndex` (`data/src/services/map/spatial_index.cr`): pre-buckets photos into a hash grid keyed by `{floor(lat/0.05), floor(lon/0.05)}`. Each query checks only overlapping buckets (1–4 typical) instead of scanning all photos.
+
+| Scenario | Cells | Linear | Spatial | Speedup |
+|----------|-------|--------|---------|---------|
+| Coarse (zoom 8, photo_size=160) | 384 | 115 ms | 5.4 ms | **21x** |
+| Fine (zoom 10, photo_size=50) | 62,935 | 12.3 sec | 29 ms | **421x** |
+
+---
+
+## Phase 24: Polygon-Based Photo-to-Area Assignment ✅ COMPLETE
+
+**Completed**: 2026-02-09
+
+### Goal
+Replace inaccurate bbox-based photo selection on area show pages with precise polygon point-in-polygon matching using GEOS.
+
+### Architecture
+
+```
+commands/assign_photos_to_areas.cr   ← Offline script (run manually)
+         ↓ uses
+AreaMatcher::Matcher.match_point()   ← GEOS polygon testing
+         ↓ writes
+env/<env>/cache/photos_in_area/      ← Per-area YAML cache
+         ↓ read by
+PhotoAreaCache                       ← Build-time cache reader service
+         ↓ used by
+AreaShowView.collect_area_photos     ← Returns cached photos (no bbox fallback)
+```
+
+### Files Created/Modified
+
+- `commands/assign_photos_to_areas.cr` — Offline command with incremental processing, `--overwrite` flag
+- `data/src/services/photo_area_cache.cr` — Build-time cache reader
+- `spec/services/photo_area_cache_spec.cr` — 7 specs
+- `tests/e2e/specs/area-show.spec.js` — 20 E2E tests
+- `data/src/views/area_show_view.cr` — Uses cache, no bbox fallback
+
+**Results (full env):** 6,059 geo-tagged photos assigned to 1,037 area-slug pairs across 5 area types.
+
+---
+
+## Phase 25 Batch 1: Post Code Cleanup + Tests ✅ COMPLETE
+
+**Committed**: `bcd57b76` (2026-02-09)
+
+### Goal
+Make PhotoEntity testable, remove dead code, fix duplicate declarations, add model specs.
+
+### What Was Done
+
+1. **PhotoEntity Post-free constructor** — Added constructor accepting `post_slug`, `post_url`, `post_time`, `post_title` directly (no `Tremolite::Post` needed). Original constructor delegates to it.
+
+2. **PhotoTagEntity direct constructor** — Added `initialize(@slug, @slug_pl, @title, @points, @subtitle)` for test use.
+
+3. **Dead code removed:**
+   - Deleted `data/src/post/related_by_distance.cr` (entire file, 3 dead methods)
+   - Deleted `related_posts_by_town` + `is_related_to_other_post_by_towns?` from `related_posts.cr`
+   - Deleted `voivodeships` + `was_in_voivodeship` from `accessors.cr`
+   - Deleted commented-out voivodeship code from `initializers.cr` (lines 86-96)
+   - Deleted `ensure_posts_have_assigned_lands` from `post_collection.cr`
+   - Deleted unused `exif_db` method from `post_coord_quant_cache.cr`
+   - Removed `require "./post/related_by_distance"` from `post.cr`
+
+4. **Fixed duplicate `@head_photo_entity`** — Removed declaration from `photos.cr` (kept in `initializers.cr`)
+
+5. **Tests added:**
+   - `spec/models/photo_entity_spec.cr` — 34 tests (construction, points, tags, params, image paths, comparison)
+   - `spec/models/photo_tag_entity_spec.cr` — 4 tests (YAML constructor, direct constructor, view_url)
+
+### Test Results
+
+**486 Crystal tests passing** (444 → 486), 161 E2E tests passing
+
+---
+
 *Last updated: 2026-02-09*

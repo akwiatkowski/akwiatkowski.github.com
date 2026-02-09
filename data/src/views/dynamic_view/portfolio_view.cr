@@ -77,26 +77,6 @@ module DynamicView
       ph["content"] = content_string
       ph["indicators"] = indicators_string
       return load_html("portfolio/page", ph)
-
-      data = Hash(String, String).new
-
-      boxes = ""
-      count = 0
-
-      # only non-todo, and main tagged posts
-      # TODO: add `main?` method to Post class
-      posts = context.posts.select { |p| (p.tags.not_nil!.includes?("todo") == false) && (p.tags.not_nil!.includes?("main") == true) }
-      # sorted by date descending
-      posts = posts.sort { |a, b| b.time <=> a.time }
-
-      posts.each do |post|
-        boxes += "\n"
-
-        count += 1
-      end
-
-      data["postbox"] = boxes
-      return load_html("home", data)
     end
   end
 end
