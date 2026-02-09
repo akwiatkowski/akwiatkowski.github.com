@@ -450,7 +450,7 @@ test.describe('JS-heavy pages', () => {
 
   test.describe('/statystyki_exif.html - EXIF stats', () => {
 
-    // This page fetches /photos.json (~20MB) so needs longer timeouts
+    // This page fetches /jsons/photos.json (~20MB) so needs longer timeouts
     const LOAD_TIMEOUT = 15000;
 
     test('loads without JS errors', async ({ pageWithErrorTracking }) => {

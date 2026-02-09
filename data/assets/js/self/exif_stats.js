@@ -60,7 +60,7 @@ async function loadPhotos() {
     errorMsg.classList.remove('visible');
 
     try {
-        var response = await fetch('/photos.json');
+        var response = await fetch('/jsons/photos.json');
         if (!response.ok) throw new Error('HTTP ' + response.status);
 
         var contentLength = response.headers.get('content-length');
@@ -100,7 +100,7 @@ async function loadPhotos() {
         cleanPhotos();
         updateDashboard();
     } catch (error) {
-        errorMsg.textContent = 'Nie udało się załadować /photos.json: ' + error.message;
+        errorMsg.textContent = 'Nie udało się załadować /jsons/photos.json: ' + error.message;
         errorMsg.classList.add('visible');
         allPhotos = MOCK_PHOTOS;
         document.getElementById('mockIndicator').style.display = 'inline-block';

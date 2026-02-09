@@ -95,7 +95,7 @@ test.describe('Smoke tests', () => {
       '/feed_atom.xml',
       '/sitemap.xml',
       '/robots.txt',
-      '/photos.json',
+      '/jsons/photos.json',
     ];
 
     for (const url of feedUrls) {

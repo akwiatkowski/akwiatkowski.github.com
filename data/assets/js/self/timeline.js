@@ -25,7 +25,7 @@
     RANDOM_SEED: null,
 
     // Data source URL
-    PHOTOS_URL: '/photos.json',
+    PHOTOS_URL: '/jsons/photos.json',
 
     // Tag weights for prioritizing photos
     TAG_WEIGHTS: {

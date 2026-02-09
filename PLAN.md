@@ -111,9 +111,9 @@ Summary page (`/zestawienie.html`) deleted. No longer needed.
 - [x] Exclude: full_url, card_url, detailed EXIF (aperture, exposure, iso, focal)
 - [x] Update `panoramio.html` to use new endpoint
 
-#### Phase 20e: Final Cleanup
-- [ ] Move `/photos.json` → `/jsons/photos.json` (last remaining root JSON)
-- [ ] Update timeline.js and panoramio to use new path
+#### Phase 20e: Final Cleanup ✅ DONE
+- [x] Move `/photos.json` → `/jsons/photos.json` (last remaining root JSON)
+- [x] Update timeline.js and exif_stats.js to use new path
 
 ---
 

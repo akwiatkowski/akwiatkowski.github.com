@@ -3,7 +3,7 @@ require "json"
 module SpecialView
   # Optimized JSON endpoint for photo planner page
   # Only includes lat/lon coordinate pairs from photos with valid EXIF data
-  # Expected size: ~50KB vs 20MB for full photos.json
+  # Expected size: ~50KB vs 20MB for full /jsons/photos.json
   class PhotoGridJsonGenerator < Tremolite::Views::AbstractView
     Log = ::Log.for(self)
 
