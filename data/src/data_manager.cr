@@ -19,17 +19,26 @@ class Tremolite::DataManager
     @train_stations = Array(TrainStationEntity).new
     @ideas = Array(IdeaEntity).new
 
+    @area_data_loader = AreaDataLoader.new(
+      config_path: @config_path,
+      cache_path: @blog.cache_path
+    )
+    Profiler.measure("yaml", "areas") { @area_data_loader.not_nil!.load_areas }
+
     @post_coord_quant_cache = PostCoordQuantCache.new(
-      blog: @blog
+      cache_path: @blog.cache_path
     )
     @photo_coord_quant_cache = PhotoCoordQuantCache.new(
-      blog: @blog
+      cache_path: @blog.cache_path,
+      all_towns: @area_data_loader.not_nil!.areas_of_type(AreaType::Town)
     )
     @nav_stats_cache = NavStatsCache.new(
       blog: @blog
     )
     @preloaded_post_referenced_links = PreloadedPostReferencedLinks.new(
-      blog: @blog
+      html_buffer: @blog.html_buffer.as(Tremolite::HtmlBuffer),
+      posts_path: @blog.posts_path,
+      posts_ext: @blog.posts_ext
     )
     @exif_db = ExifDb.new(
       blog: @blog
@@ -37,11 +46,6 @@ class Tremolite::DataManager
     @photo_map_dictionary = PhotoMapDictionary.new(
       output_path: @blog.output_path
     )
-    @area_data_loader = AreaDataLoader.new(
-      config_path: @config_path,
-      cache_path: @blog.cache_path
-    )
-    Profiler.measure("yaml", "areas") { @area_data_loader.not_nil!.load_areas }
   end
 
   getter :tags

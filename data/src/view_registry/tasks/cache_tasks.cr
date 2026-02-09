@@ -62,7 +62,7 @@ def register_cache_tasks(r : ViewRegistry)
   r.task("Cache: coord quant", [:exifs], priority: 6) do |ctx|
     ViewRegistry::Log.info { "Refreshing post_coord_quant_cache" }
 
-    ctx.post_coord_quant_cache.refresh
+    ctx.post_coord_quant_cache.refresh(ctx.posts)
     ViewRegistry::Log.debug { "post_coord_quant_cache refreshed" }
   end
 end

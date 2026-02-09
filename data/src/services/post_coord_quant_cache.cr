@@ -15,24 +15,21 @@ class PostCoordQuantCache
 
   getter :cache_file_path
 
-  def initialize(@blog : Tremolite::Blog)
-    @cache_path = @blog.cache_path.as(String)
+  def initialize(@cache_path : String)
     @cache_file_path = File.join([@cache_path, "post_coord_quant.yml"])
     @cache = PostCoordQuantCacheStruct.new
     load_cache
   end
 
-  def refresh
-    # TODO what about empty posts?
-
+  def refresh(posts : Array(Tremolite::Post))
     # generate quant coords first
-    @blog.post_collection.posts.each do |post|
+    posts.each do |post|
       refresh_for_post(post)
     end
 
     # using generated values calculate similarity coefficient
-    @blog.post_collection.posts.each do |post|
-      @blog.post_collection.posts.each do |compared_post|
+    posts.each do |post|
+      posts.each do |compared_post|
         next if post == compared_post
 
         compare_result = CoordSet.compare(

@@ -24,15 +24,14 @@ class PhotoCoordQuantCache
 
   @all_towns : Array(AreaEntity)?
 
-  def initialize(@blog : Tremolite::Blog)
-    @cache_path = @blog.cache_path.as(String)
+  def initialize(@cache_path : String, @all_towns : Array(AreaEntity)? = nil)
     @cache_file_path = File.join([@cache_path, "photo_coord_quant.yml"])
     @cache = PhotoCoordQuantCacheStruct.new
     load_cache
   end
 
-  def refresh
-    @blog.post_collection.posts.each do |post|
+  def refresh(posts : Array(Tremolite::Post))
+    posts.each do |post|
       refresh_for_post(post)
     end
 
@@ -105,7 +104,7 @@ class PhotoCoordQuantCache
   end
 
   private def all_towns : Array(AreaEntity)
-    @all_towns ||= @blog.data_manager.not_nil!.area_data_loader.not_nil!.areas_of_type(AreaType::Town)
+    @all_towns ||= [] of AreaEntity
   end
 
   def additional_info_for(lat : Float32, lon : Float32) : PhotoCoordCacheAdditionalInfo

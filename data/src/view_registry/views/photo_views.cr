@@ -172,7 +172,7 @@ def register_photo_views(r : ViewRegistry)
 
     # === Quantized coordinate galleries ===
     photo_coord_quant_cache = ctx.photo_coord_quant_cache
-    photo_coord_quant_cache.refresh
+    photo_coord_quant_cache.refresh(ctx.posts)
     quant_renderers = HashQuantCoordViews.new
     photo_coord_quant_cache.cache.keys.each do |key|
       quant_photos_container = photo_coord_quant_cache.cache[key]

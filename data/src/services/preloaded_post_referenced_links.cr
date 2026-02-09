@@ -1,10 +1,9 @@
 class PreloadedPostReferencedLinks
-  def initialize(@blog : Tremolite::Blog)
-    @html_buffer = @blog.html_buffer.as(Tremolite::HtmlBuffer)
+  def initialize(@html_buffer : Tremolite::HtmlBuffer, @posts_path : String, @posts_ext : String = "md")
   end
 
   def populate_referenced_links
-    @blog.post_collection.as(Tremolite::PostCollection).each_post_file do |post_file|
+    Dir[File.join([@posts_path, "*.#{@posts_ext}"])].sort.each do |post_file|
       process_file(post_file)
     end
   end
